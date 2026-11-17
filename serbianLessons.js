@@ -468,5 +468,45 @@ export const SERBIAN_A1_LESSONS = [
       "explanation": "Sto = 100; hiljadu = 1,000; trista = 300."
     }
   ]
-}
+},
+  {
+    "id": "sr-a1-u2-l2",
+    "unit": "ආහාර සහ සාප්පු සවාරි",
+    "title": "පාඩම 5 · වෙළඳපොළෙන් භාණ්ඩ මිලදී ගනිමු",
+    "objective": "පලතුරු සහ එළවළු ඉල්ලීම, කිලෝ/ග්‍රෑම්/ලීටර් ප්‍රමාණ කියීම, මිල විමසීම සහ මුදල් ගෙවීම.",
+    "vocabulary": [
+      { "word": "Jabuka", "meaning": "ඇපල් ගෙඩියක්", "example": "Želim jabuke.", "translation": "මට ඇපල් ඕනේ." },
+      { "word": "Paradajz", "meaning": "තක්කාලි", "example": "Koliko košta paradajz?", "translation": "තක්කාලිවල මිල කීයද?" },
+      { "word": "Krompir", "meaning": "අර්තාපල්", "example": "Treba mi krompir.", "translation": "මට අර්තාපල් අවශ්‍යයි." },
+      { "word": "Kilogram", "meaning": "කිලෝග්‍රෑම් එකක්", "example": "Jedan kilogram jabuka, molim.", "translation": "ඇපල් කිලෝග්‍රෑම් එකක්, කරුණාකර." },
+      { "word": "Pola kilograma", "meaning": "කිලෝග්‍රෑම් භාගයක්", "example": "Pola kilograma paradajza.", "translation": "තක්කාලි කිලෝග්‍රෑම් භාගයක්." },
+      { "word": "Litar", "meaning": "ලීටරයක්", "example": "Jedan litar mleka.", "translation": "කිරි ලීටරයක්." },
+      { "word": "Dajte mi, molim vas.", "meaning": "මට දෙන්න, කරුණාකර.", "example": "Dajte mi dva kilograma krompira, molim vas.", "translation": "මට අර්තාපල් කිලෝග්‍රෑම් දෙකක් දෙන්න, කරුණාකර." },
+      { "word": "Koliko košta?", "meaning": "මිල කීයද?", "example": "Koliko košta kilogram jabuka?", "translation": "ඇපල් කිලෝග්‍රෑම් එකක මිල කීයද?" },
+      { "word": "Ukupno", "meaning": "මුළු එකතුව", "example": "Koliko je ukupno?", "translation": "මුළු එකතුව කීයද?" }
+    ],
+    "grammarTitle": "භාෂා රටාව · ප්‍රමාණ සහ ආචාරශීලී ඉල්ලීම්",
+    "grammar": "භාණ්ඩයක් ඉල්ලීමට “Dajte mi ... , molim vas” (මට ... දෙන්න, කරුණාකර) භාවිත කරන්න. ප්‍රමාණය කියන විට “jedan kilogram” (කිලෝග්‍රෑම් එකක්), “pola kilograma” (කිලෝග්‍රෑම් භාගයක්), “dva kilograma” (කිලෝග්‍රෑම් දෙකක්) වැනි රටා මතක තබාගන්න. “Koliko košta?” මිල අසන්නත් “Koliko je ukupno?” මුළු මුදල අසන්නත් භාවිත වෙනවා. Serbian භාෂාවේ ප්‍රමාණයකට පසුව නාම පදයේ හැඩය වෙනස් විය හැක; ආරම්භයේදී මේ සම්පූර්ණ ප්‍රකාශන ලෙස පුහුණු වන්න.",
+    "examples": [
+      { "sr": "Dajte mi jedan kilogram jabuka, molim vas.", "si": "මට ඇපල් කිලෝග්‍රෑම් එකක් දෙන්න, කරුණාකර." },
+      { "sr": "Pola kilograma paradajza, molim.", "si": "තක්කාලි කිලෝග්‍රෑම් භාගයක්, කරුණාකර." },
+      { "sr": "Koliko košta litar mleka?", "si": "කිරි ලීටරයක මිල කීයද?" },
+      { "sr": "Koliko je ukupno?", "si": "මුළු එකතුව කීයද?" }
+    ],
+    "dialogue": [
+      { "sr": "Dobar dan! Izvolite.", "si": "සුබ දවසක්! කියන්න / මොනවාද අවශ්‍ය?" },
+      { "sr": "Dajte mi jedan kilogram jabuka, molim vas.", "si": "මට ඇපල් කිලෝග්‍රෑම් එකක් දෙන්න, කරුණාකර." },
+      { "sr": "Još nešto?", "si": "තව මොනවාහරිද?" },
+      { "sr": "Da, pola kilograma paradajza i jedan litar mleka.", "si": "ඔව්, තක්කාලි කිලෝග්‍රෑම් භාගයක් සහ කිරි ලීටරයක්." },
+      { "sr": "To je petsto dinara.", "si": "ඒක ඩිනාර් පන්සියයයි." },
+      { "sr": "Izvolite. Hvala!", "si": "මෙන්න. ස්තුතියි!" },
+      { "sr": "Hvala, doviđenja!", "si": "ස්තුතියි, නැවත හමුවෙමු!" }
+    ],
+    "practice": [
+      { "prompt": "“කිලෝග්‍රෑම් භාගයක්” කියන Serbian ප්‍රකාශය කුමක්ද?", "options": ["Jedan litar", "Pola kilograma", "Dva kilograma"], "answer": 1, "explanation": "“Pola” යනු භාගයයි; “pola kilograma” = කිලෝග්‍රෑම් භාගයක්." },
+      { "prompt": "වෙළඳපොළේ භාණ්ඩයක් ආචාරශීලීව ඉල්ලන්නේ කොහොමද?", "options": ["Dajte mi, molim vas.", "Laku noć.", "Ne znam."], "answer": 0, "explanation": "“Dajte mi, molim vas” යනු “මට දෙන්න, කරුණාකර” යන්නයි." },
+      { "prompt": "“මිල කීයද?” අසන්න නිවැරදි වාක්‍යය තෝරන්න.", "options": ["Koliko košta?", "Koliko si?", "Gde živite?"], "answer": 0, "explanation": "“Koliko košta?” යනු මිල විමසන සාමාන්‍ය ප්‍රශ්නයයි." },
+      { "prompt": "“කිරි ලීටරයක්” කියන්නේ කුමක්ද?", "options": ["Kilogram mleka", "Jedan litar mleka", "Pola kilograma mleka"], "answer": 1, "explanation": "“Jedan litar mleka” = කිරි ලීටරයක්." }
+    ]
+  }
 ];
