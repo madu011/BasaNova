@@ -279,6 +279,24 @@ const serbianSoundGuide=[
 const serbianAlphabet=[
  ["A","А","ආ","auto"],["B","Б","බේ","baba"],["C","Ц","ත්සේ","car"],["Č","Ч","චේ","čaj"],["Ć","Ћ","ච්‍යේ","ćao"],["D","Д","දේ","dan"],["Dž","Џ","ජේ","džem"],["Đ","Ђ","ජ්‍යේ","đak"],["E","Е","එ","ekran"],["F","Ф","එෆ්","film"],["G","Г","ගේ","grad"],["H","Х","හ","hotel"],["I","И","ඊ","ime"],["J","Ј","යේ","ja"],["K","К","කා","kafa"],["L","Л","එල්","leto"],["Lj","Љ","ල්‍යේ","ljubav"],["M","М","එම්","more"],["N","Н","එන්","noć"],["Nj","Њ","න්‍යේ","njiva"],["O","О","ඔ","oko"],["P","П","පේ","pas"],["R","Р","එර්","ruka"],["S","С","එස්","sunce"],["Š","Ш","ෂ","škola"],["T","Т","තේ","tata"],["U","У","උ","ulica"],["V","В","වේ","voda"],["Z","З","සේ","zima"],["Ž","Ж","ෂේ","žena"]
 ];
+const pronounceEnglishSinhala=(text)=>{
+ const exact={
+  "What is your number?":"වොට් ඉස් යෝර් නම්බර්?",
+  "I have one phone.":"අයි හැව් වන් ෆෝන්.",
+  "I need two tickets.":"අයි නීඩ් ටූ ටිකිට්ස්.",
+  "Three coffees, please.":"ත්‍රී කොෆීස්, ප්ලීස්.",
+  "Hello, my name is Ana.":"හෙලෝ, මයි නේම් ඉස් ආනා.",
+  "Good morning, everyone.":"ගුඩ් මෝර්නින්, එව්රිවන්.",
+  "Thank you very much.":"තෑන්ක් යූ වෙරි මච්."
+ };
+ if(exact[text]) return exact[text];
+ const rules=[
+  [/tion/gi,"ෂන්"],[/sion/gi,"ෂන්"],[/ture/gi,"චර්"],[/ough/gi,"ඔෆ්"],[/igh/gi,"අයි"],[/ee|ea/gi,"ඊ"],[/oo/gi,"ඌ"],[/ai|ay/gi,"ඒ"],[/oa|ow/gi,"ඕ"],[/ou/gi,"අවු"],[/th/gi,"ත්"],[/sh/gi,"ෂ්"],[/ch/gi,"ච්"],[/ph/gi,"ෆ්"],[/wh/gi,"ව"],[/ck/gi,"ක්"],[/ng/gi,"ං"],[/qu/gi,"ක්ව"],[/wr/gi,"ර්"],[/kn/gi,"න්"],[/[aeiou]r\b/gi,"ර්"],[/a/gi,"ඇ"],[/e/gi,"එ"],[/i/gi,"ඉ"],[/o/gi,"ඔ"],[/u/gi,"අ"],[/b/gi,"බ්"],[/c/gi,"ක්"],[/d/gi,"ඩ්"],[/f/gi,"ෆ්"],[/g/gi,"ග්"],[/h/gi,"හ්"],[/j/gi,"ජ්"],[/k/gi,"ක්"],[/l/gi,"ල්"],[/m/gi,"ම්"],[/n/gi,"න්"],[/p/gi,"ප්"],[/r/gi,"ර්"],[/s/gi,"ස්"],[/t/gi,"ට්"],[/v/gi,"ව්"],[/w/gi,"ව්"],[/x/gi,"ක්ස්"],[/y/gi,"යි"],[/z/gi,"ස්"]
+ ];
+ let out=String(text).toLowerCase();
+ for(const [pattern,replacement] of rules) out=out.replace(pattern,replacement);
+ return out.replace(/\s+/g," ").replace(/([.!?,])/g,"$1");
+};
 const speak=(text,lang)=>{Speech.stop();Speech.speak(text,{language:lang==="Serbian"?"sr-RS":"en-US",rate:0.82});};
 function Action({children,onPress,secondary=false}){const {styles:s,colors:C}=useContext(ThemeContext);return <TouchableOpacity onPress={onPress} style={[s.action,secondary&&s.secondary]}><Text style={[s.actionText,secondary&&{color:C.teal}]}>{children}</Text></TouchableOpacity>;}
 export default function App(){
@@ -422,7 +440,7 @@ export default function App(){
      </View>;
     })}
    </View>}
-   <View style={s.panel}><Text style={s.eyebrow}>📖 {language.toUpperCase()} · BEGINNER</Text><Text style={s.word}>{current.word}</Text><Text style={s.sound}>සිංහල උච්චාරණය: {language==="Serbian"?pronounceSinhala(current.word):current.sound}</Text><Text style={s.meaning}>{current.meaning}</Text>{language==="Serbian"&&<Text style={s.sound}>කියන විදිහ: {pronounceSinhala(current.word)}</Text>}<Action onPress={()=>speak(current.word,language)}>🔊 {language} හඬ අහන්න</Action><View style={s.example}><Text style={s.sub}>💬 උදාහරණ වාක්‍යය</Text><Text style={s.exampleWord}>{current.example}</Text>{language==="Serbian"&&<Text style={s.sound}>සිංහලෙන් කියන විදිහ: {pronounceSinhala(current.example)}</Text>}<Text style={s.sub}>{current.translation}</Text><TouchableOpacity onPress={()=>speak(current.example,language)}><Text style={s.link}>▶ {language} වාක්‍ය හඬ අහන්න</Text></TouchableOpacity></View><Action onPress={mark}>මම මේක ඉගෙනගත්තා ✓</Action><Action secondary onPress={next}>ඊළඟ වචනය →</Action></View><View style={s.panel}><Text style={s.cardTitle}>🗺️ සම්පූර්ණ {language} පාඨමාලා මාර්ගසටහන</Text><Text style={s.sub}>A1 සිට C2 දක්වා සියලු මට්ටම් සැලසුම් කර ඇත. පහත දැක්වෙන්නේ පාඩම් අන්තර්ගතය සකස් කරන මාර්ගසටහනයි; සියලු ඒකක තවම සම්පූර්ණ කර නැත.</Text>{COURSE_LEVELS.map(level=><View key={level.id} style={s.soundCard}><View style={s.soundHead}><Text style={s.soundLetters}>{LEVEL_LABELS[level.id]}</Text><Text style={s.soundName}>{level.title}</Text></View><Text style={s.sub}>{level.goal}</Text>{level.units.map((unit,i)=><Text key={unit} style={s.sub}>{i+1}. {unit}</Text>)}</View>)}<Text style={s.cardTitle}>🧩 සෑම පාඩමකම ඉගෙනුම් ක්‍රමය</Text>{LESSON_METHOD.map((item,i)=><Text key={item} style={s.sub}>{item}</Text>)}</View>
+   <View style={s.panel}><Text style={s.eyebrow}>📖 {language.toUpperCase()} · BEGINNER</Text><Text style={s.word}>{current.word}</Text><Text style={s.sound}>සිංහල උච්චාරණය: {language==="Serbian"?pronounceSinhala(current.word):current.sound}</Text><Text style={s.meaning}>{current.meaning}</Text>{language==="Serbian"&&<Text style={s.sound}>කියන විදිහ: {pronounceSinhala(current.word)}</Text>}<Action onPress={()=>speak(current.word,language)}>🔊 {language} හඬ අහන්න</Action><View style={s.example}><Text style={s.sub}>💬 උදාහරණ වාක්‍යය</Text><Text style={s.exampleWord}>{current.example}</Text>{language==="Serbian"&&<Text style={s.sound}>සිංහලෙන් කියන විදිහ: {pronounceSinhala(current.example)}</Text>}{language==="English"&&<Text style={s.sound}>සිංහල අකුරෙන් උච්චාරණය (ආසන්නව): {pronounceEnglishSinhala(current.example)}</Text>}<Text style={s.sub}>{current.translation}</Text><TouchableOpacity onPress={()=>speak(current.example,language)}><Text style={s.link}>▶ {language} වාක්‍ය හඬ අහන්න</Text></TouchableOpacity></View><Action onPress={mark}>මම මේක ඉගෙනගත්තා ✓</Action><Action secondary onPress={next}>ඊළඟ වචනය →</Action></View><View style={s.panel}><Text style={s.cardTitle}>🗺️ සම්පූර්ණ {language} පාඨමාලා මාර්ගසටහන</Text><Text style={s.sub}>A1 සිට C2 දක්වා සියලු මට්ටම් සැලසුම් කර ඇත. පහත දැක්වෙන්නේ පාඩම් අන්තර්ගතය සකස් කරන මාර්ගසටහනයි; සියලු ඒකක තවම සම්පූර්ණ කර නැත.</Text>{COURSE_LEVELS.map(level=><View key={level.id} style={s.soundCard}><View style={s.soundHead}><Text style={s.soundLetters}>{LEVEL_LABELS[level.id]}</Text><Text style={s.soundName}>{level.title}</Text></View><Text style={s.sub}>{level.goal}</Text>{level.units.map((unit,i)=><Text key={unit} style={s.sub}>{i+1}. {unit}</Text>)}</View>)}<Text style={s.cardTitle}>🧩 සෑම පාඩමකම ඉගෙනුම් ක්‍රමය</Text>{LESSON_METHOD.map((item,i)=><Text key={item} style={s.sub}>{item}</Text>)}</View>
 
     </>}
     </>}
