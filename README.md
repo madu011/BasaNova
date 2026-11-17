@@ -7,9 +7,10 @@ BasaNova is a Sinhala-first language-learning app for learning Serbian and Engli
 ## Current MVP
 - Sinhala-first mobile interface
 - Serbian and English learning modes
-- Expanded Serbian and English beginner vocabulary decks (432 Serbian and 429 English entries; 861 total) with Sinhala meanings, approximate readings and example sentences
-- The A1 vocabulary packs cover numbers, weekdays, meals/food, everyday objects, shopping, directions, workplace, transport, home, weather, basic health, clothing, colours, daily verbs, useful adjectives, money, public places, technology, time expressions, family, feelings, cooking, meals, travel, road safety, tools, nature, healthcare, household cleaning and appliances in both languages
+- Expanded Serbian and English beginner vocabulary decks (502 Serbian and 500 English entries; 1,002 total) with Sinhala meanings, approximate readings and example sentences
+- The A1 vocabulary packs cover numbers, weekdays, meals/food, everyday objects, shopping, directions, workplace, transport, home, weather, basic health, clothing, colours, daily verbs, useful adjectives, money, public places, technology, time expressions, family, feelings, cooking, meals, travel, road safety, tools, nature, healthcare, household cleaning, appliances, food, shopping, city services, travel, communication and specialist professions in both languages
 - Structured Serbian A1 lessons with vocabulary, Sinhala pronunciation, grammar explanations, examples, dialogues, Serbian audio playback and interactive comprehension questions
+- More than 1,000 standard vocabulary entries across Serbian and English
 - Separate Serbian and English slang / mild profanity learning cards with Sinhala meanings, approximate pronunciation, contextual examples, caution notes, and audio playback; kept outside the standard vocabulary deck
 - Expanded Serbian A1 practical phrases for asking the time, requesting slower speech or repetition, asking for help/directions, and basic work communication
 - Sinhala pronunciation guides
