@@ -1,7 +1,8 @@
-import React, { createContext, useContext, useMemo, useState } from "react";
+import React, { createContext, useContext, useMemo, useState, useEffect } from "react";
 import { SafeAreaView, View, Text, TouchableOpacity, ScrollView, StyleSheet, StatusBar, TextInput } from "react-native";
 import * as Speech from "expo-speech";
 import * as Clipboard from "expo-clipboard";
+import AsyncStorage from "@react-native-async-storage/async-storage";
 import { COURSE_LEVELS, LESSON_METHOD } from "./curriculum";
 import { SERBIAN_A1_LESSONS } from "./serbianLessons";
 import { SERBIAN_A1_LISTENING, SERBIAN_A1_MIXED_REVISION } from "./serbianRevision";
