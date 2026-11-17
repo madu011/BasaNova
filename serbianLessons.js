@@ -514,4 +514,54 @@ export const SERBIAN_A1_LESSONS = [
       { "prompt": "“කිරි ලීටරයක්” කියන්නේ කුමක්ද?", "options": ["Kilogram mleka", "Jedan litar mleka", "Pola kilograma mleka"], "answer": 1, "explanation": "“Jedan litar mleka” = කිරි ලීටරයක්." }
     ]
   }
+  ,
+  {
+    id: "sr-a1-u3-l1",
+    unit: "රැකියාව සහ වැඩබිම",
+    title: "පාඩම 6 · වැඩබිමේ සන්නිවේදනය",
+    objective: "තම රැකියාව සහ වැඩබිම හඳුන්වාදීම, වැඩ කරන වේලාව කියීම, උපදෙස් නොතේරුණහොත් නැවත අසීම සහ උදව් ඉල්ලීම.",
+    vocabulary: [
+      { word: "Radim ovde.", meaning: "මම මෙහි වැඩ කරනවා.", example: "Radim ovde svaki dan.", translation: "මම හැමදාම මෙහි වැඩ කරනවා." },
+      { word: "Gde radite?", meaning: "ඔබ කොහෙද වැඩ කරන්නේ?", example: "Izvinite, gde radite?", translation: "සමාවෙන්න, ඔබ කොහෙද වැඩ කරන්නේ?" },
+      { word: "Radno vreme", meaning: "වැඩ කරන වේලාව", example: "Koje je radno vreme?", translation: "වැඩ කරන වේලාව කුමක්ද?" },
+      { word: "Sm ena", meaning: "වැඩ මුරය", example: "Moja smena počinje u osam.", translation: "මගේ වැඩ මුරය අටට පටන් ගන්නවා." },
+      { word: "Kolega / koleginica", meaning: "සහකාර සේවකයා / සේවිකාව", example: "Moj kolega je ovde.", translation: "මගේ සහකාර සේවකයා මෙහි ඉන්නවා." },
+      { word: "Šef / šefica", meaning: "ප්‍රධානියා (පිරිමි / කාන්තා)", example: "Gde je šef?", translation: "ප්‍රධානියා කොහෙද?" },
+      { word: "Treba mi pomoć.", meaning: "මට උදව් අවශ්‍යයි.", example: "Treba mi pomoć, molim vas.", translation: "කරුණාකර මට උදව් අවශ්‍යයි." },
+      { word: "Možete li da ponovite?", meaning: "ඔබට නැවත කියන්න පුළුවන්ද?", example: "Izvinite, možete li da ponovite?", translation: "සමාවෙන්න, ඔබට නැවත කියන්න පුළුවන්ද?" },
+      { word: "Razumem.", meaning: "මට තේරෙනවා.", example: "Da, razumem zadatak.", translation: "ඔව්, මට කාර්යය තේරෙනවා." },
+      { word: "Ne razumem.", meaning: "මට තේරෙන්නේ නැහැ.", example: "Izvinite, ne razumem.", translation: "සමාවෙන්න, මට තේරෙන්නේ නැහැ." }
+    ],
+    grammarTerms: [
+      { sr: "Radim", si: "මම වැඩ කරනවා", reading: "රාදිම්" },
+      { sr: "Radite", si: "ඔබ වැඩ කරනවා", reading: "රාදිතෙ" },
+      { sr: "Gde radite?", si: "ඔබ කොහෙද වැඩ කරන්නේ?", reading: "ග්දේ රාදිතෙ?" },
+      { sr: "Možete li da ...?", si: "ඔබට ... කරන්න පුළුවන්ද?", reading: "මොෂෙතෙ ලි දා ...?" },
+      { sr: "Treba mi pomoć.", si: "මට උදව් අවශ්‍යයි.", reading: "ත්‍රෙබා මි පොමොච්" },
+      { sr: "Ne razumem.", si: "මට තේරෙන්නේ නැහැ.", reading: "නේ රාසුමේම්" }
+    ],
+    grammarTitle: "භාෂා රටාව · වැඩ ගැන කියීම සහ ආචාරශීලීව උදව් ඉල්ලීම",
+    grammar: "තමන් කරන දේ කියන්න “Radim ...” (මම වැඩ කරනවා) භාවිත කරන්න. කෙනෙකුගෙන් විධිමත්ව අසන විට “Gde radite?” කියන්න පුළුවන්. “Možete li da ...?” යනු “ඔබට ... කරන්න පුළුවන්ද?” යන ආචාරශීලී ප්‍රශ්න රටාවයි. උපදෙස් නොතේරුණොත් “Ne razumem” කියා, “Možete li da ponovite?” යනුවෙන් නැවත කියන ලෙස ඉල්ලන්න.",
+    examples: [
+      { sr: "Radim u restoranu.", si: "මම අවන්හලක වැඩ කරනවා." },
+      { sr: "Moja smena počinje u osam.", si: "මගේ වැඩ මුරය අටට පටන් ගන්නවා." },
+      { sr: "Treba mi pomoć, molim vas.", si: "කරුණාකර මට උදව් අවශ්‍යයි." },
+      { sr: "Možete li da ponovite, molim vas?", si: "කරුණාකර ඔබට නැවත කියන්න පුළුවන්ද?" }
+    ],
+    dialogue: [
+      { sr: "Dobar dan. Da li radite ovde?", si: "සුබ දවසක්. ඔබ මෙහි වැඩ කරනවාද?" },
+      { sr: "Da, radim ovde.", si: "ඔව්, මම මෙහි වැඩ කරනවා." },
+      { sr: "Kada počinje vaša smena?", si: "ඔබගේ වැඩ මුරය පටන් ගන්නේ කීයටද?" },
+      { sr: "Počinje u osam.", si: "එය අටට පටන් ගන්නවා." },
+      { sr: "Izvinite, ne razumem ovaj zadatak. Možete li da ponovite?", si: "සමාවෙන්න, මට මේ කාර්යය තේරෙන්නේ නැහැ. නැවත කියන්න පුළුවන්ද?" },
+      { sr: "Naravno. Treba li vam pomoć?", si: "අනිවාර්යයෙන්ම. ඔබට උදව් අවශ්‍යද?" },
+      { sr: "Da, hvala.", si: "ඔව්, ස්තුතියි." }
+    ],
+    practice: [
+      { prompt: "“මම මෙහි වැඩ කරනවා” යන අර්ථය ඇති වාක්‍යය තෝරන්න.", options: ["Radim ovde.", "Ne razumem.", "Gde je stanica?"], answer: 0, explanation: "“Radim ovde” = මම මෙහි වැඩ කරනවා." },
+      { prompt: "“මට උදව් අවශ්‍යයි” කියන්නේ කොහොමද?", options: ["Radno vreme.", "Treba mi pomoć.", "Doviđenja."], answer: 1, explanation: "“Treba mi pomoć” යනු මට උදව් අවශ්‍යයි යන්නයි." },
+      { prompt: "කෙනෙකුට නැවත කියන ලෙස ආචාරශීලීව ඉල්ලන්නේ කුමක්ද?", options: ["Možete li da ponovite?", "Koliko košta?", "Dobro jutro."], answer: 0, explanation: "“Možete li da ponovite?” යනු ඔබට නැවත කියන්න පුළුවන්ද? යන්නයි." },
+      { prompt: "“වැඩ කරන වේලාව” සඳහා Serbian ප්‍රකාශය කුමක්ද?", options: ["Kolega", "Radno vreme", "Pomoć"], answer: 1, explanation: "“Radno vreme” යනු වැඩ කරන වේලාවයි." }
+    ]
+  }
 ];
