@@ -67,8 +67,8 @@
 - No live API, Supabase migration, Google sign-in or Android device tests have been completed.
 
 ## Next task — resume here
-1. Add the next structured Serbian A1 lesson: shopping at a market, with quantities, prices, asking for items, useful dialogues, Sinhala pronunciation/meaning and a short quiz.
-2. Continue with practical travel, communication and occupation lessons, then begin structured English A1 lessons with Sinhala teaching support.
+1. Add the next structured Serbian A1 lesson: travel and asking for directions, with Sinhala pronunciation/meaning, dialogues, audio and a quiz.
+2. Continue with communication and occupation lessons, then begin structured English A1 lessons with Sinhala teaching support.
 3. Improve lesson learning flow with staged practice, listening discrimination and revision; current accordion only reduces scrolling and reports how many quiz questions have been checked (not mastered or persisted).
 4. Generate a valid `package-lock.json` in a proper npm checkout and update CI to use it.
 5. Implement local persistence for progress, XP, missions, theme and translator history, then safe cloud sync after Supabase configuration.
@@ -76,6 +76,7 @@
 7. Test translator, clipboard, TTS, lessons, scrolling and offline behavior on Android; only claim APK success after an actual native build and install.
 
 ## Session log
+- 2026-11-17: Added Serbian A1 Lesson 5, market shopping. Covers fruit/vegetable requests, kilogram/half-kilogram/litre quantities, polite requests, price and total questions, a practical market dialogue, 9 vocabulary/phrase cards, 4 examples and 4 quiz questions. Existing Learn renderer supplies Sinhala pronunciation approximation and Serbian TTS for vocabulary, examples and dialogue. `serbianLessons.js` commit `aa9701ed451ee866d29dbfbf6cecc5734c6588ea`; README commit `251d0b3ae68b82654058bd6f90a27d4a324ebd77`. CI pending; no device/APK test. Next: Serbian A1 travel/directions lesson.
 - 2026-11-17: Improved Serbian A1 Learn navigation. Lesson cards now expand/collapse; the first lesson opens by default, each header keeps the title and objective visible, and the header reports checked quiz questions (e.g. 1/3). This is a session-only UI state and quiz checks are not saved across app restarts. App.js commit `18bd19b896f21e583ec27d243366cb6d56ee0b86`. CI triggered; no device/APK test. Next: add Serbian A1 market/shopping lesson.
 - 2026-11-17: Added Serbian A1 Lesson 4: numbers and counting. Covers 0–20, tens, 100, 200, 300 and 1,000; compound-number order (21, 22, 35), prices, a short shop dialogue and 3 quiz questions. Includes 32 number words with Sinhala meanings; current Learn renderer automatically shows approximate Sinhala pronunciation and Serbian TTS. Commits: `57c6d30a2ff5c07ff9041ad46c342367dd1d6373` (lesson), `3f2907561d4d693d802d0f7b1be287abb5c94060` (correct `Dvesta` spelling). README `fcab56361ddb7237e6f2c45f3c0c294e9504e4c8`. CI/device/APK checks pending/not run. Next: improve lesson navigation with collapsible cards and progress.
 - 2026-11-17: Added Serbian A1 Lesson 3, ordering at a café, with 8 vocabulary/phrase cards, Sinhala grammar explanation, examples, a 6-line dialogue and 3 quiz questions. Commit `5456e238ec12f46932b1927438822fc641ba521f`. README update `504b734e2d57a73e687b811dd6495d891cce03b3`. Source integration uses the existing Learn rendering, which automatically supplies Sinhala pronunciation approximation and TTS for each word. CI pending; no device/APK test.
