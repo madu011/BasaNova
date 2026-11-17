@@ -8,32 +8,11 @@ export const SERBIAN_VOCAB_PACK_7 = [
     "translation": "මට වෛද්‍යවරයෙකු හමුවීමට වේලාවක් වෙන් කරගන්න ඕනේ."
   },
   {
-    "word": "Lekar",
-    "meaning": "වෛද්‍යවරයා",
-    "sound": "ලෙකාර්",
-    "example": "Lekar radi u ambulanti.",
-    "translation": "වෛද්‍යවරයා වෛද්‍ය මධ්‍යස්ථානයේ වැඩ කරනවා."
-  },
-  {
     "word": "Medicinska sestra",
     "meaning": "හෙදිය",
     "sound": "මෙදിത്സින්ස්කා සෙස්ත්‍රා",
     "example": "Medicinska sestra je veoma ljubazna.",
     "translation": "හෙදිය ඉතා කරුණාවන්තයි."
-  },
-  {
-    "word": "Apoteka",
-    "meaning": "ඖෂධහල",
-    "sound": "අපොතෙකා",
-    "example": "Apoteka je preko puta.",
-    "translation": "ඖෂධහල පාරේ අනිත් පැත්තේ."
-  },
-  {
-    "word": "Lek",
-    "meaning": "ඖෂධය",
-    "sound": "ලෙක්",
-    "example": "Uzeo sam lek posle jela.",
-    "translation": "මම කෑමෙන් පස්සේ බෙහෙත ගත්තා."
   },
   {
     "word": "Recept",
@@ -211,7 +190,7 @@ export const SERBIAN_VOCAB_PACK_7 = [
     "translation": "මම රාත්‍රී කෑමෙන් පස්සේ පිඟන් සෝදනවා."
   },
   {
-    "word": "Pegлати",
+    "word": "Peglati",
     "meaning": "ඇඳුම් මදිනවා",
     "sound": "පෙග්ලාති",
     "example": "Peglam košulju.",
@@ -360,13 +339,6 @@ export const SERBIAN_VOCAB_PACK_7 = [
 ];
 export const ENGLISH_VOCAB_PACK_7 = [
   {
-    "word": "Doctor",
-    "meaning": "වෛද්‍යවරයා",
-    "sound": "ඩොක්ටර්",
-    "example": "I need to book a doctor's appointment.",
-    "translation": "මට වෛද්‍යවරයෙකු හමුවීමට වේලාවක් වෙන් කරගන්න ඕනේ."
-  },
-  {
     "word": "Physician",
     "meaning": "වෛද්‍යවරයා",
     "sound": "ෆිසිෂන්",
@@ -379,20 +351,6 @@ export const ENGLISH_VOCAB_PACK_7 = [
     "sound": "නර්ස්",
     "example": "The nurse is very kind.",
     "translation": "හෙදිය ඉතා කරුණාවන්තයි."
-  },
-  {
-    "word": "Pharmacy",
-    "meaning": "ඖෂධහල",
-    "sound": "ෆාමසි",
-    "example": "The pharmacy is across the street.",
-    "translation": "ඖෂධහල පාරේ අනිත් පැත්තේ."
-  },
-  {
-    "word": "Medicine",
-    "meaning": "ඖෂධය",
-    "sound": "මෙඩිසින්",
-    "example": "I took the medicine after food.",
-    "translation": "මම කෑමෙන් පස්සේ බෙහෙත ගත්තා."
   },
   {
     "word": "Prescription",
@@ -428,13 +386,6 @@ export const ENGLISH_VOCAB_PACK_7 = [
     "sound": "කොෆ්",
     "example": "The cough has lasted several days.",
     "translation": "දවස් කිහිපයක් තිස්සේ කැස්ස තියෙනවා."
-  },
-  {
-    "word": "Cold",
-    "meaning": "සෙම්ප්‍රතිශ්‍යාව",
-    "sound": "කෝල්ඩ්",
-    "example": "I think I have a cold.",
-    "translation": "මට සෙම්ප්‍රතිශ්‍යාවක් හැදිලා කියලා හිතෙනවා."
   },
   {
     "word": "Headache",
@@ -540,13 +491,6 @@ export const ENGLISH_VOCAB_PACK_7 = [
     "sound": "ඩිසි්නස්",
     "example": "I feel dizzy.",
     "translation": "මට කරකැවිල්ල තියෙනවා."
-  },
-  {
-    "word": "Clean",
-    "meaning": "පිරිසිදු කරනවා",
-    "sound": "ක්ලීන්",
-    "example": "I need to clean the kitchen.",
-    "translation": "මට මුළුතැන්ගෙය පිරිසිදු කරන්න ඕනේ."
   },
   {
     "word": "Wipe",
