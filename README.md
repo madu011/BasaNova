@@ -129,3 +129,10 @@ GitHub Actions runs dependency installation, Expo SDK compatibility checks, and 
 - Includes 11 vocabulary entries, seven grammar phrase cards with Sinhala meanings and manually authored Sinhala-script readings, four examples, a seven-line dialogue and four quizzes. Existing lesson rendering supplies individual Serbian TTS and approximate Sinhala-script readings for vocabulary, examples, dialogue and quiz options.
 - Extended listening discrimination and mixed revision with a ninth item about bus departure time and booking an appointment respectively. Checks remain session-only, not saved mastery.
 - Sinhala-script pronunciation is approximate and requires native-speaker review. No Android device test or APK build has been performed.
+
+
+### Serbian A1 lesson 10 — Accommodation and everyday services
+- Added practical hotel/accommodation language: asking for an available room, single/double room types, booking for nights, asking the nightly price, requesting the address/key/internet, and reporting a service problem.
+- Includes 11 vocabulary entries, six explicit Sinhala-reading grammar phrase cards, four examples, an eight-line dialogue and four comprehension questions with existing per-item Serbian audio and approximate Sinhala-script readings.
+- Extended Serbian listening discrimination with a hotel-room question and a service-problem sentence; extended mixed revision with two accommodation questions. Results remain session-only, not persisted mastery.
+- Sinhala-script pronunciations are approximate and should be checked with native Serbian audio.
