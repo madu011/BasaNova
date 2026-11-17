@@ -11,6 +11,8 @@ import { SERBIAN_VOCAB_PACK_4, ENGLISH_VOCAB_PACK_4 } from "./vocabularyPack4";
 import { SERBIAN_VOCAB_PACK_5, ENGLISH_VOCAB_PACK_5 } from "./vocabularyPack5";
 import { SERBIAN_VOCAB_PACK_6, ENGLISH_VOCAB_PACK_6 } from "./vocabularyPack6";
 import { SERBIAN_VOCAB_PACK_7, ENGLISH_VOCAB_PACK_7 } from "./vocabularyPack7";
+import { SERBIAN_VOCAB_PACK_8, ENGLISH_VOCAB_PACK_8 } from "./vocabularyPack8";
+import { SERBIAN_VOCAB_PACK_9, ENGLISH_VOCAB_PACK_9 } from "./vocabularyPack9";
 import { SLANG_VOCAB } from "./slangVocabulary";
 
 const PALETTES={dark:{bg:"#071426",panel:"#10243D",panel2:"#142D49",teal:"#35D6C5",gold:"#F5C66A",white:"#F5F8FC",muted:"#9DB0C5",line:"#24415F",nav:"#0A1B30"},light:{bg:"#F3F7FA",panel:"#FFFFFF",panel2:"#E5EFF4",teal:"#087F78",gold:"#A96808",white:"#142638",muted:"#526779",line:"#C9D8E2",nav:"#E5EFF4"}};
@@ -148,6 +150,10 @@ courses.Serbian.push(...SERBIAN_VOCAB_PACK_6);
 courses.English.push(...ENGLISH_VOCAB_PACK_6);
 courses.Serbian.push(...SERBIAN_VOCAB_PACK_7);
 courses.English.push(...ENGLISH_VOCAB_PACK_7);
+courses.Serbian.push(...SERBIAN_VOCAB_PACK_8);
+courses.English.push(...ENGLISH_VOCAB_PACK_8);
+courses.Serbian.push(...SERBIAN_VOCAB_PACK_9);
+courses.English.push(...ENGLISH_VOCAB_PACK_9);
 const serbianSinhala = {
   "Zdravo": "ස්ද්‍රාවෝ",
   "Dobar dan": "දොබාර් දාන්",
