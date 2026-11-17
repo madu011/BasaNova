@@ -42,6 +42,8 @@
 - AI Teacher is currently only a preview; do not imply it is a live AI tutor or speech-recognition feature until implemented.
 
 ## Current verified state
+- Commit `f70430d4605b184a436bbe61d77a8a34468d6d38`: enabled Android clipped-subview scrolling and hid scroll indicators on the two main ScrollViews.
+- Commit `7a238294f8386cbec663975b1a229b171f358a1b`: added `PERFORMANCE.md` with low-end Android performance rules, including static optimized 3D-style icons rather than real-time 3D rendering.
 - Commit `d0f8dd1507f08c8f8f5b3c00f10b0b78efd3b4c1`: improved consistent emoji iconography across the app: emoji navigation icons, mission-specific icons, CEFR level progression icons, and visual markers for lesson method, speaking, alphabet, examples and progress.
 - Latest feature commits on `main`:
   - `d14108f0df6d2d5257d706bf393a01c9e87c3065`: added styles for Serbian alphabet rows and localized speech labels.
@@ -57,6 +59,8 @@
 - Speech playback uses device voices (Serbian `sr-RS`, English `en-US`); availability/quality depends on installed device voices.
 - Sinhala transliteration fallback is approximate, not exact pronunciation.
 - `package-lock.json` was checked on `main` and was not found.
+- Low-end performance direction: use static pre-rendered 3D-style PNG/WebP icon assets, correctly sized and reused; avoid live 3D, large animation libraries, video backgrounds, heavy blur and continuous animation. See `PERFORMANCE.md`.
+- App.js now sets `removeClippedSubviews`, hides vertical scroll indicators and disables Android overscroll glow on both main ScrollViews. This is only a small source-level optimization; actual smoothness is not measured.
 - The alphabet row styles that were missing are now defined in the dynamic theme stylesheet.
  
 ## Verification status — be honest
@@ -66,12 +70,13 @@
 - Because there is no lockfile, dependency installation/build reproducibility needs attention. Add and commit a valid lockfile using the appropriate npm workflow when a suitable environment is available.
 
 ## Next task — resume here
-1. Review emoji rendering and spacing on Android; keep icon use consistent and purposeful rather than decorating every line.
-2. Validate the current `App.js` JSX and Expo configuration with a real parser/export build; repair any confirmed issues.
-3. Persist theme preference, learning progress, mission completion and XP locally (e.g. AsyncStorage, after adding the compatible Expo package and lockfile).
-4. Make daily missions genuinely actionable: link each mission to the relevant lesson/dialogue, track actual completion, and implement a date-aware daily reset/streak without falsely awarding progress.
-5. Build actual Serbian A1 lessons first with structured reusable lesson data/components. Every Serbian expression must show spelling, Sinhala pronunciation, Sinhala meaning, audio, explanation, examples and exercises. Then implement the same full teaching method for English and progress through A2-C2.
-5. Update this file with exact commits, tests and next task after each work session.
+1. Add optimized static 3D icon assets (small transparent PNG/WebP files) and replace emoji/text glyph navigation/icons without adding a heavy runtime 3D dependency.
+2. Validate scroll clipping and image rendering on a low-end Android device; disable clipping on any screen where it causes missing content.
+3. Validate the current `App.js` JSX and Expo configuration with a real parser/export build; repair any confirmed issues.
+4. Persist theme preference, learning progress, mission completion and XP locally (e.g. AsyncStorage, after adding the compatible Expo package and lockfile).
+5. Make daily missions genuinely actionable: link each mission to the relevant lesson/dialogue, track actual completion, and implement a date-aware daily reset/streak without falsely awarding progress.
+6. Build actual Serbian A1 lessons first with structured reusable lesson data/components. Every Serbian expression must show spelling, Sinhala pronunciation, Sinhala meaning, audio, explanation, examples and exercises. Then implement the same full teaching method for English and progress through A2-C2.
+7. Update this file with exact commits, tests and next task after each work session.
 
 ## Session log
 - Initial app scaffold: React Native + Expo, Sinhala-first navy/teal/gold interface.
