@@ -7,7 +7,6 @@ const PALETTES={dark:{bg:"#071426",panel:"#10243D",panel2:"#142D49",teal:"#35D6C
 const ThemeContext=createContext(null);
 const MISSIONS=["අලුත් වචන 5ක් ඉගෙනගන්න","සංවාදයකට සවන් දෙන්න","වාක්‍යයක් හඬින් නැවත කියන්න"];
 const LEVEL_LABELS={A1:"A1",A2:"A2",B1:"B1",B2:"B2",C1:"C1",C2:"C2"};
-const LESSON_METHOD_LABELS=LESSON_METHOD;
 
 const courses={
  Serbian:[
