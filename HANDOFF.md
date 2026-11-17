@@ -42,6 +42,7 @@
 - AI Teacher is currently only a preview; do not imply it is a live AI tutor or speech-recognition feature until implemented.
 
 ## Current verified state
+- `CLOUD_SYNC.md` defines the chosen architecture: Google sign-in through Supabase Auth with private per-user Supabase Postgres progress storage, RLS isolation, local offline queue and restore on reinstall/device change. This is documentation only; no live auth or cloud sync exists yet.
 - Commit `2cec16662241b277a5c1cd7f3ceb6c2acb9c0560`: hoisted daily mission labels to module scope and removed an accidental literal escaped-newline sequence from the App component's static metadata block. This reduces per-render allocation and repairs a confirmed source-text defect; no build test has yet been run.
 - Commit `f70430d4605b184a436bbe61d77a8a34468d6d38`: enabled Android clipped-subview scrolling and hid scroll indicators on the two main ScrollViews.
 - Commit `7a238294f8386cbec663975b1a229b171f358a1b`: added `PERFORMANCE.md` with low-end Android performance rules, including static optimized 3D-style icons rather than real-time 3D rendering.
@@ -57,6 +58,7 @@
 - Daily missions currently offer three manually checkable learning goals and award 10 XP each. Mission completion and XP are component state only; no real calendar-based streak, daily reset, or persistent achievement system exists yet.
 - The six-level roadmap is present, but the actual lesson content for all A1-C2 levels is **not yet authored**. The current vocabulary/dialogues remain starter material.
 - Progress is component state only; persistence across app restarts has not been implemented.
+- Google account sign-in and cloud restore are not yet implemented. `CLOUD_SYNC.md` defines the architecture: Google OAuth identifies the learner; Supabase Auth/Postgres stores progress per user with RLS. No Supabase project URL/key or Google OAuth configuration has been supplied/configured.
 - Speech playback uses device voices (Serbian `sr-RS`, English `en-US`); availability/quality depends on installed device voices.
 - Sinhala transliteration fallback is approximate, not exact pronunciation.
 - `package-lock.json` was checked on `main` and was not found.
@@ -71,9 +73,12 @@
 - Because there is no lockfile, dependency installation/build reproducibility needs attention. Add and commit a valid lockfile using the appropriate npm workflow when a suitable environment is available.
 
 ## Next task — resume here
-1. Add optimized static 3D icon assets (small transparent PNG/WebP files) and replace emoji/text glyph navigation/icons without adding a heavy runtime 3D dependency. A generated 3×3 icon concept sheet exists only as a visual reference and has not been integrated.
-2. Validate scroll clipping and image rendering on a low-end Android device; disable clipping on any screen where it causes missing content.
-3. Run a real JSX parser and Expo export/build; the accidental escaped newline was removed by source inspection but not parser-verified.
+1. Configure a Supabase project and Google OAuth provider, then provide only the Supabase project URL and publishable/anon key via secure app environment settings (never request service-role keys or OAuth secrets in chat).
+2. Implement Expo-compatible Google sign-in, Supabase Auth session persistence, SQL migrations and RLS policies following `CLOUD_SYNC.md`.
+3. Add cloud progress load/save and offline queue; verify restore after reinstall and cross-account data isolation.
+4. Add optimized static 3D icon assets (small transparent PNG/WebP files) and replace emoji/text glyph navigation/icons without adding a heavy runtime 3D dependency. A generated 3×3 icon concept sheet exists only as a visual reference and has not been integrated.
+5. Validate scroll clipping and image rendering on a low-end Android device; disable clipping on any screen where it causes missing content.
+6. Run a real JSX parser and Expo export/build; the accidental escaped newline was removed by source inspection but not parser-verified.
 3. Validate the current `App.js` JSX and Expo configuration with a real parser/export build; repair any confirmed issues.
 4. Persist theme preference, learning progress, mission completion and XP locally (e.g. AsyncStorage, after adding the compatible Expo package and lockfile).
 5. Make daily missions genuinely actionable: link each mission to the relevant lesson/dialogue, track actual completion, and implement a date-aware daily reset/streak without falsely awarding progress.
