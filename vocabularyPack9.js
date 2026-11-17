@@ -1,4 +1,4 @@
-// Themed vocabulary pack 9: specialist professions and occupations.
+// Themed vocabulary pack 9: specialist professions and occupations. Duplicate Manager removed.
 export const SERBIAN_VOCAB_PACK_9 = [
   {
     "word": "Računovođa",
@@ -230,6 +230,13 @@ export const SERBIAN_VOCAB_PACK_9 = [
     "sound": "ගෙඔදෙතා",
     "example": "Geodeta meri zemljište.",
     "translation": "මිනින්දෝරුවා ඉඩම මනිනවා."
+  },
+  {
+    "word": "Geolog",
+    "meaning": "භූ විද්‍යාඥයා",
+    "sound": "ගෙඔලොග්",
+    "example": "Geolog proučava stene.",
+    "translation": "භූ විද්‍යාඥයා පාෂාණ අධ්‍යයනය කරනවා."
   }
 ];
 
@@ -438,13 +445,6 @@ export const ENGLISH_VOCAB_PACK_9 = [
     "translation": "ඉංජිනේරුවා ගැටලුව විසඳනවා."
   },
   {
-    "word": "Manager",
-    "meaning": "කළමනාකරු",
-    "sound": "මැනේජර්",
-    "example": "The manager leads the team.",
-    "translation": "කළමනාකරු කණ්ඩායම මෙහෙයවනවා."
-  },
-  {
     "word": "Director",
     "meaning": "අධ්‍යක්ෂක",
     "sound": "ඩිරෙක්ටර්",
@@ -464,5 +464,12 @@ export const ENGLISH_VOCAB_PACK_9 = [
     "sound": "සර්වේයර්",
     "example": "The surveyor measures the land.",
     "translation": "මිනින්දෝරුවා ඉඩම මනිනවා."
+  },
+  {
+    "word": "Geologist",
+    "meaning": "භූ විද්‍යාඥයා",
+    "sound": "ජියොලජිස්ට්",
+    "example": "The geologist studies rocks.",
+    "translation": "භූ විද්‍යාඥයා පාෂාණ අධ්‍යයනය කරනවා."
   }
 ];
