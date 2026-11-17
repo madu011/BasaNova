@@ -340,8 +340,12 @@ export default function App(){
       <Text style={s.sound}>සිංහලෙන්: {pronounceSinhala(item.word)}</Text>
       <Text style={s.sub}>{item.meaning}</Text>
       <Text style={s.lessonExample}>{item.example}</Text>
+      <Text style={s.sound}>උදාහරණයේ සිංහල උච්චාරණය: {pronounceSinhala(item.example)}</Text>
       <Text style={s.sub}>{item.translation}</Text>
-      <TouchableOpacity onPress={()=>speak(item.word,"Serbian")}><Text style={s.link}>🔊 හඬ අහන්න</Text></TouchableOpacity>
+      <View style={{flexDirection:"row",gap:10,flexWrap:"wrap"}}>
+       <TouchableOpacity accessibilityRole="button" accessibilityLabel={item.word+" උච්චාරණය අහන්න"} onPress={()=>speak(item.word,"Serbian")}><Text style={s.link}>🔊 වචනය අහන්න</Text></TouchableOpacity>
+       <TouchableOpacity accessibilityRole="button" accessibilityLabel="උදාහරණ වාක්‍යය අහන්න" onPress={()=>speak(item.example,"Serbian")}><Text style={s.link}>🔊 උදාහරණය අහන්න</Text></TouchableOpacity>
+      </View>
      </View>)}
      <Text style={s.lessonHeading}>🧠 {lesson.grammarTitle}</Text>
      <Text style={s.sub}>{lesson.grammar}</Text>
@@ -367,9 +371,12 @@ export default function App(){
       const checked=lessonChecked[key];
       return <View key={key} style={s.quizCard}>
        <Text style={s.sub}>{qi+1}. {q.prompt}</Text>
-       {q.options.map((option,oi)=><TouchableOpacity key={option} disabled={!!checked} onPress={()=>setLessonAnswers(v=>({...v,[key]:oi}))} style={[s.quizOption,selected===oi&&s.quizSelected,checked&&oi===q.answer&&s.quizCorrect,checked&&selected===oi&&selected!==q.answer&&s.quizWrong]}>
-        <Text style={s.quizOptionText}>{String.fromCharCode(65+oi)}. {option}</Text>
-       </TouchableOpacity>)}
+       {q.options.map((option,oi)=><View key={option} style={{flexDirection:"row",alignItems:"center",gap:8}}>
+        <TouchableOpacity disabled={!!checked} onPress={()=>setLessonAnswers(v=>({...v,[key]:oi}))} style={[s.quizOption,{flex:1},selected===oi&&s.quizSelected,checked&&oi===q.answer&&s.quizCorrect,checked&&selected===oi&&selected!==q.answer&&s.quizWrong]}>
+         <Text style={s.quizOptionText}>{String.fromCharCode(65+oi)}. {option}</Text>
+        </TouchableOpacity>
+        {/[A-Za-zČĆĐŠŽčćđšž]/.test(option)&&<TouchableOpacity accessibilityRole="button" accessibilityLabel="පිළිතුරේ උච්චාරණය අහන්න" onPress={()=>speak(option,"Serbian")} style={{padding:8}}><Text style={s.link}>🔊</Text></TouchableOpacity>}
+       </View>)}
        {checked?<Text style={s.sub}>{selected===q.answer?"නිවැරදියි! ✓ ":"නැවත පුහුණු වෙමු. "}{q.explanation}</Text>:<TouchableOpacity disabled={selected===undefined} onPress={()=>setLessonChecked(v=>({...v,[key]:true}))} style={[s.action,selected===undefined&&{opacity:0.45}]}><Text style={s.actionText}>පිළිතුර පරීක්ෂා කරන්න</Text></TouchableOpacity>}
       </View>;
      })}
