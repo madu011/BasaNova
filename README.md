@@ -76,3 +76,8 @@ GitHub Actions runs dependency installation, Expo SDK compatibility checks, and 
 ### English A1 lesson 6 — Workplace communication
 - Added workplace introductions, managers/colleagues, day and night shifts, breaks, asking for help, requesting demonstrations, understanding instructions and task completion.
 - Includes Sinhala-script readings and meanings, examples, a workplace dialogue, separate English TTS controls and four interactive quiz questions.
+
+
+### Serbian A1 quiz pronunciation support
+- Serbian quiz answer choices now show an approximate Sinhala-script pronunciation beneath Serbian text, alongside the existing individual speaker control. This applies to Serbian answer options containing Latin Serbian letters; the Sinhala question prompts remain Sinhala.
+- The Sinhala-script rendering is an approximation, not a substitute for listening to native Serbian pronunciation.
