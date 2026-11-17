@@ -42,6 +42,7 @@
 - AI Teacher is currently only a preview; do not imply it is a live AI tutor or speech-recognition feature until implemented.
 
 ## Current verified state
+- Commit `d0f8dd1507f08c8f8f5b3c00f10b0b78efd3b4c1`: improved consistent emoji iconography across the app: emoji navigation icons, mission-specific icons, CEFR level progression icons, and visual markers for lesson method, speaking, alphabet, examples and progress.
 - Latest feature commits on `main`:
   - `d14108f0df6d2d5257d706bf393a01c9e87c3065`: added styles for Serbian alphabet rows and localized speech labels.
   - `bd5ae93c8224e261721961be554dc5da4571b74e`: added `curriculum.js` with the A1, A2, B1, B2, C1 and C2 roadmap and common lesson method.
@@ -65,10 +66,11 @@
 - Because there is no lockfile, dependency installation/build reproducibility needs attention. Add and commit a valid lockfile using the appropriate npm workflow when a suitable environment is available.
 
 ## Next task — resume here
-1. Validate the current `App.js` JSX and Expo configuration with a real parser/export build; repair any confirmed issues.
-2. Persist theme preference, learning progress, mission completion and XP locally (e.g. AsyncStorage, after adding the compatible Expo package and lockfile).
-3. Make daily missions genuinely actionable: link each mission to the relevant lesson/dialogue, track actual completion, and implement a date-aware daily reset/streak without falsely awarding progress.
-4. Build actual Serbian A1 lessons first with structured reusable lesson data/components. Every Serbian expression must show spelling, Sinhala pronunciation, Sinhala meaning, audio, explanation, examples and exercises. Then implement the same full teaching method for English and progress through A2-C2.
+1. Review emoji rendering and spacing on Android; keep icon use consistent and purposeful rather than decorating every line.
+2. Validate the current `App.js` JSX and Expo configuration with a real parser/export build; repair any confirmed issues.
+3. Persist theme preference, learning progress, mission completion and XP locally (e.g. AsyncStorage, after adding the compatible Expo package and lockfile).
+4. Make daily missions genuinely actionable: link each mission to the relevant lesson/dialogue, track actual completion, and implement a date-aware daily reset/streak without falsely awarding progress.
+5. Build actual Serbian A1 lessons first with structured reusable lesson data/components. Every Serbian expression must show spelling, Sinhala pronunciation, Sinhala meaning, audio, explanation, examples and exercises. Then implement the same full teaching method for English and progress through A2-C2.
 5. Update this file with exact commits, tests and next task after each work session.
 
 ## Session log
