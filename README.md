@@ -122,3 +122,10 @@ GitHub Actions runs dependency installation, Expo SDK compatibility checks, and 
 - Includes Sinhala meanings, six explicit grammar phrase cards with manually authored Sinhala-script readings, examples, a six-line dialogue, four quizzes and the existing renderer's individual Serbian TTS controls and approximate Sinhala readings for vocabulary/examples/dialogue/options.
 - Extended Serbian A1 listening discrimination and mixed revision with an eighth item covering directions. Quiz/listening state remains session-only and is not saved mastery.
 - The seven earlier lessons were audited at source level: vocabulary, examples, dialogue lines and target-language quiz choices are rendered with per-item Serbian TTS and Sinhala pronunciation approximations; grammar terms have explicit Sinhala readings and meanings. Embedded Serbian snippets inside explanatory Sinhala prose are still not individually extracted as audio cards. Sinhala approximations need native-speaker review.
+
+
+### Serbian A1 lesson 9 — Appointments and transport schedules
+- Added practical phrases for booking/rescheduling an appointment, asking what time an event is, checking bus departure times, understanding delays, and asking for the timetable.
+- Includes 11 vocabulary entries, seven grammar phrase cards with Sinhala meanings and manually authored Sinhala-script readings, four examples, a seven-line dialogue and four quizzes. Existing lesson rendering supplies individual Serbian TTS and approximate Sinhala-script readings for vocabulary, examples, dialogue and quiz options.
+- Extended listening discrimination and mixed revision with a ninth item about bus departure time and booking an appointment respectively. Checks remain session-only, not saved mastery.
+- Sinhala-script pronunciation is approximate and requires native-speaker review. No Android device test or APK build has been performed.
