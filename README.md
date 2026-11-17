@@ -44,3 +44,7 @@ The current AI Teacher screen is a clearly labelled preview; no live AI service 
 
 ## Credit
 Created by **Madhuranga Yasanath**.
+
+
+## Automated validation
+GitHub Actions runs dependency installation, Expo SDK compatibility checks, and an Android JavaScript bundle export on pushes and pull requests to `main`. The workflow generates a temporary lockfile during CI because this repository does not yet contain a committed `package-lock.json`. A successful workflow run is required before treating the current source as build-verified.
