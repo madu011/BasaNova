@@ -1,13 +1,6 @@
 // Themed vocabulary pack 6: travel, road safety, tools and nature.
 export const SERBIAN_VOCAB_PACK_6 = [
   {
-    "word": "Aerodrom",
-    "meaning": "ගුවන් තොටුපළ",
-    "sound": "აეරოდром",
-    "example": "Čekam na aerodromu.",
-    "translation": "මම ගුවන් තොටුපළේ බලාගෙන ඉන්නවා."
-  },
-  {
     "word": "Avion",
     "meaning": "ගුවන් යානය",
     "sound": "අවියොන්",
@@ -27,27 +20,6 @@ export const SERBIAN_VOCAB_PACK_6 = [
     "sound": "කොෆෙර්",
     "example": "Moj kofer je težak.",
     "translation": "මගේ ගමන් මල්ල බරයි."
-  },
-  {
-    "word": "Prtljag",
-    "meaning": "ගමන් බඩු",
-    "sound": "ප්‍ර්ත්ල්යාග්",
-    "example": "Prtljag je u autobusu.",
-    "translation": "ගමන් බඩු බස් එකේ තියෙනවා."
-  },
-  {
-    "word": "Putovanje",
-    "meaning": "ගමන",
-    "sound": "පුතොවාන්යෙ",
-    "example": "Volim putovanje vozom.",
-    "translation": "මම දුම්රියෙන් ගමන් කරන්න කැමතියි."
-  },
-  {
-    "word": "Karta",
-    "meaning": "ප්‍රවේශපත්‍රය",
-    "sound": "කාර්තා",
-    "example": "Kupio sam autobusku kartu.",
-    "translation": "මම බස් ටිකට් එකක් ගත්තා."
   },
   {
     "word": "Peron",
@@ -90,13 +62,6 @@ export const SERBIAN_VOCAB_PACK_6 = [
     "sound": "සෙමාෆොර්",
     "example": "Sačekaj zeleno svetlo na semaforu.",
     "translation": "සංඥා පහන්වල කොළ එළිය එනකම් ඉන්න."
-  },
-  {
-    "word": "Raskrsnica",
-    "meaning": "මංසන්ධිය",
-    "sound": "රාස්ක්‍ර්ස්නිත්සා",
-    "example": "Skreni levo na raskrsnici.",
-    "translation": "මංසන්ධියේදී වමට හැරෙන්න."
   },
   {
     "word": "Trotoar",
@@ -302,13 +267,6 @@ export const SERBIAN_VOCAB_PACK_6 = [
     "translation": "හිරු එළිය කාමරයට එනවා."
   },
   {
-    "word": "Vetar",
-    "meaning": "සුළඟ",
-    "sound": "වෙතාර්",
-    "example": "Danas duva jak vetar.",
-    "translation": "අද තද සුළඟක් හමනවා."
-  },
-  {
     "word": "Obala",
     "meaning": "වෙරළ / ඉවුර",
     "sound": "ඔබාලා",
@@ -360,13 +318,6 @@ export const SERBIAN_VOCAB_PACK_6 = [
 ];
 export const ENGLISH_VOCAB_PACK_6 = [
   {
-    "word": "Airport",
-    "meaning": "ගුවන් තොටුපළ",
-    "sound": "එයාර්පෝට්",
-    "example": "I am waiting at the airport.",
-    "translation": "මම ගුවන් තොටුපළේ බලාගෙන ඉන්නවා."
-  },
-  {
     "word": "Airplane",
     "meaning": "ගුවන් යානය",
     "sound": "එයර්ප්ලේන්",
@@ -386,27 +337,6 @@ export const ENGLISH_VOCAB_PACK_6 = [
     "sound": "සූට්කේස්",
     "example": "My suitcase is heavy.",
     "translation": "මගේ ගමන් මල්ල බරයි."
-  },
-  {
-    "word": "Luggage",
-    "meaning": "ගමන් බඩු",
-    "sound": "ලගිජ්",
-    "example": "The luggage is on the bus.",
-    "translation": "ගමන් බඩු බස් එකේ තියෙනවා."
-  },
-  {
-    "word": "Journey",
-    "meaning": "ගමන",
-    "sound": "ජර්නි",
-    "example": "I enjoy travelling by train.",
-    "translation": "මම දුම්රියෙන් ගමන් කරන්න කැමතියි."
-  },
-  {
-    "word": "Ticket",
-    "meaning": "ප්‍රවේශපත්‍රය",
-    "sound": "ටික්ට්",
-    "example": "I bought a bus ticket.",
-    "translation": "මම බස් ටිකට් එකක් ගත්තා."
   },
   {
     "word": "Platform",
@@ -449,13 +379,6 @@ export const ENGLISH_VOCAB_PACK_6 = [
     "sound": "ට්‍රැෆික් ලයිට්",
     "example": "Wait for the green traffic light.",
     "translation": "සංඥා පහන්වල කොළ එළිය එනකම් ඉන්න."
-  },
-  {
-    "word": "Crossroads",
-    "meaning": "මංසන්ධිය",
-    "sound": "ක්‍රොස්රෝඩ්ස්",
-    "example": "Turn left at the crossroads.",
-    "translation": "මංසන්ධියේදී වමට හැරෙන්න."
   },
   {
     "word": "Pavement",
@@ -659,13 +582,6 @@ export const ENGLISH_VOCAB_PACK_6 = [
     "sound": "සන්ලයිට්",
     "example": "Sunlight enters the room.",
     "translation": "හිරු එළිය කාමරයට එනවා."
-  },
-  {
-    "word": "Wind",
-    "meaning": "සුළඟ",
-    "sound": "වින්ඩ්",
-    "example": "A strong wind is blowing today.",
-    "translation": "අද තද සුළඟක් හමනවා."
   },
   {
     "word": "Coast",
