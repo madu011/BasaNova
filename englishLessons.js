@@ -136,4 +136,55 @@ export const ENGLISH_A1_LESSONS = [
  {prompt:"“රිසිට්පත” සඳහා නිවැරදි English වචනය තෝරන්න.",options:["Receipt","Price","Cash"],readings:["රිසීට්","ප්‍රයිස්","කෑෂ්"],answer:0,explanation:"Receipt යනු ගෙවීමෙන් පසු ලැබෙන රිසිට්පතයි."}
  ]
  }
+
+ ,
+ {id:"en-a1-u1-l5",unit:"දිශා සහ ප්‍රවාහනය",title:"පාඩම 5 · දිශා සහ ප්‍රවාහනය",objective:"පාරක් අසන ආකාරය, ස්ථාන හඳුනාගැනීම සහ සරල දිශා තේරුම් ගැනීම",
+ vocabulary:[
+ {word:"Where is the station?",reading:"වෙයාර් ඉස් ද ස්ටේෂන්?",meaning:"දුම්රිය ස්ථානය කොහෙද?",example:"Excuse me, where is the station?",exampleReading:"ඉක්ස්කියූස් මී, වෙයාර් ඉස් ද ස්ටේෂන්?",translation:"සමාවෙන්න, දුම්රිය ස්ථානය කොහෙද?"},
+ {word:"Bus stop",reading:"බස් ස්ටොප්",meaning:"බස් නැවතුම්පොළ",example:"The bus stop is near the bank.",exampleReading:"ද බස් ස්ටොප් ඉස් නියර් ද බැංක්.",translation:"බස් නැවතුම්පොළ බැංකුව ළඟයි."},
+ {word:"Train station",reading:"ට්‍රේන් ස්ටේෂන්",meaning:"දුම්රිය ස්ථානය",example:"I am going to the train station.",exampleReading:"අයි ඇම් ගෝයිං ටු ද ට්‍රේන් ස්ටේෂන්.",translation:"මම දුම්රිය ස්ථානයට යනවා."},
+ {word:"Turn left",reading:"ටර්න් ලෙෆ්ට්",meaning:"වමට හැරෙන්න",example:"Turn left at the next street.",exampleReading:"ටර්න් ලෙෆ්ට් ඇට් ද නෙක්ස්ට් ස්ට්‍රීට්.",translation:"ඊළඟ වීදියේදී වමට හැරෙන්න."},
+ {word:"Turn right",reading:"ටර්න් රයිට්",meaning:"දකුණට හැරෙන්න",example:"Turn right after the shop.",exampleReading:"ටර්න් රයිට් ආෆ්ටර් ද ෂොප්.",translation:"කඩයෙන් පසුව දකුණට හැරෙන්න."},
+ {word:"Go straight",reading:"ගෝ ස්ට්‍රේට්",meaning:"කෙළින්ම යන්න",example:"Go straight for two minutes.",exampleReading:"ගෝ ස්ට්‍රේට් ෆෝර් ටූ මිනිට්ස්.",translation:"විනාඩි දෙකක් කෙළින්ම යන්න."},
+ {word:"Near",reading:"නියර්",meaning:"ළඟ",example:"The pharmacy is near the market.",exampleReading:"ද ෆාමසි ඉස් නියර් ද මාර්කට්.",translation:"ඖෂධහල වෙළඳපොළ ළඟයි."},
+ {word:"Far",reading:"ෆාර්",meaning:"දුර",example:"Is the airport far?",exampleReading:"ඉස් ද එයර්පෝට් ෆාර්?",translation:"ගුවන්තොටුපොළ දුරද?"},
+ {word:"Next to",reading:"නෙක්ස්ට් ටු",meaning:"අසල / ළඟම",example:"The bank is next to the hotel.",exampleReading:"ද බැංක් ඉස් නෙක්ස්ට් ටු ද හෝටෙල්.",translation:"බැංකුව හෝටලය අසලයි."},
+ {word:"Across from",reading:"අක්‍රොස් ෆ්‍රම්",meaning:"අනිත් පැත්තේ",example:"The café is across from the park.",exampleReading:"ද කැෆේ ඉස් අක්‍රොස් ෆ්‍රම් ද පාක්.",translation:"කැෆේ එක උද්‍යානයට එහා පැත්තේ."},
+ {word:"On the left",reading:"ඔන් ද ලෙෆ්ට්",meaning:"වම් පැත්තේ",example:"The shop is on the left.",exampleReading:"ද ෂොප් ඉස් ඔන් ද ලෙෆ්ට්.",translation:"කඩය වම් පැත්තේ."},
+ {word:"On the right",reading:"ඔන් ද රයිට්",meaning:"දකුණු පැත්තේ",example:"The hotel is on the right.",exampleReading:"ද හෝටෙල් ඉස් ඔන් ද රයිට්.",translation:"හෝටලය දකුණු පැත්තේ."},
+ {word:"How do I get to...?",reading:"හවු ඩූ අයි ගෙට් ටු...?",meaning:"මම ... යන්නේ කොහොමද?",example:"How do I get to the city centre?",exampleReading:"හවු ඩූ අයි ගෙට් ටු ද සිටි සෙන්ටර්?",translation:"මම නගර මධ්‍යයට යන්නේ කොහොමද?"},
+ {word:"Which bus?",reading:"විච් බස්?",meaning:"මොන බස් එකද?",example:"Which bus goes to the centre?",exampleReading:"විච් බස් ගෝස් ටු ද සෙන්ටර්?",translation:"නගර මධ්‍යයට යන බස් එක මොකක්ද?"},
+ {word:"Ticket",reading:"ටිකිට්",meaning:"ගමන් ටිකට්පත",example:"Where can I buy a ticket?",exampleReading:"වෙයාර් කැන් අයි බයි අ ටිකිට්?",translation:"මට ටිකට්පතක් ගන්න පුළුවන් කොහෙන්ද?"},
+ {word:"Platform",reading:"ප්ලැට්ෆෝම්",meaning:"දුම්රිය වේදිකාව",example:"The train leaves from platform two.",exampleReading:"ද ට්‍රේන් ලීව්ස් ෆ්‍රම් ප්ලැට්ෆෝම් ටූ.",translation:"දුම්රිය දෙවන වේදිකාවෙන් පිටත් වෙනවා."}
+ ],
+ grammarTitle:"දිශා සහ ස්ථාන විස්තර කිරීම",
+ grammar:"දිශාවක් දෙන්න “Turn left”, “Turn right” සහ “Go straight” භාවිත කරන්න. ස්ථානයක් විස්තර කිරීමට “near”, “next to”, “across from” යොදාගන්න. ගමන් මඟ අසන්න “How do I get to ...?” කියන්න.",
+ grammarTerms:[
+ {text:"Turn left.",reading:"ටර්න් ලෙෆ්ට්.",meaning:"වමට හැරෙන්න."},
+ {text:"Turn right.",reading:"ටර්න් රයිට්.",meaning:"දකුණට හැරෙන්න."},
+ {text:"Go straight.",reading:"ගෝ ස්ට්‍රේට්.",meaning:"කෙළින්ම යන්න."},
+ {text:"It is next to the bank.",reading:"ඉට් ඉස් නෙක්ස්ට් ටු ද බැංක්.",meaning:"එය බැංකුව අසලයි."},
+ {text:"How do I get to the station?",reading:"හවු ඩූ අයි ගෙට් ටු ද ස්ටේෂන්?",meaning:"මම ස්ථානයට යන්නේ කොහොමද?"}
+ ],
+ examples:[
+ {text:"Go straight and turn left.",reading:"ගෝ ස්ට්‍රේට් ඇන්ඩ් ටර්න් ලෙෆ්ට්.",meaning:"කෙළින්ම ගිහින් වමට හැරෙන්න."},
+ {text:"The bus stop is across from the bank.",reading:"ද බස් ස්ටොප් ඉස් අක්‍රොස් ෆ්‍රම් ද බැංක්.",meaning:"බස් නැවතුම බැංකුවට එහා පැත්තේ."},
+ {text:"The train station is near the city centre.",reading:"ද ට්‍රේන් ස්ටේෂන් ඉස් නියර් ද සිටි සෙන්ටර්.",meaning:"දුම්රිය ස්ථානය නගර මධ්‍යය අසලයි."},
+ {text:"Which bus goes to the airport?",reading:"විච් බස් ගෝස් ටු ද එයර්පෝට්?",meaning:"ගුවන්තොටුපොළට යන බස් එක මොකක්ද?"}
+ ],
+ dialogue:[
+ {text:"Excuse me, how do I get to the train station?",reading:"ඉක්ස්කියූස් මී, හවු ඩූ අයි ගෙට් ටු ද ට්‍රේන් ස්ටේෂන්?",meaning:"සමාවෙන්න, මම දුම්රිය ස්ථානයට යන්නේ කොහොමද?"},
+ {text:"Go straight and turn right at the bank.",reading:"ගෝ ස්ට්‍රේට් ඇන්ඩ් ටර්න් රයිට් ඇට් ද බැංක්.",meaning:"කෙළින්ම ගිහින් බැංකුව ළඟදී දකුණට හැරෙන්න."},
+ {text:"Is it far from here?",reading:"ඉස් ඉට් ෆාර් ෆ්‍රම් හියර්?",meaning:"මෙතැන සිට එය දුරද?"},
+ {text:"No. It is about five minutes on foot.",reading:"නෝ. ඉට් ඉස් අබවුට් ෆයිව් මිනිට්ස් ඔන් ෆුට්.",meaning:"නැහැ. පයින් විනාඩි පහක් විතරයි."},
+ {text:"Thank you for your help.",reading:"තෑන්ක් යූ ෆෝර් යෝර් හෙල්ප්.",meaning:"ඔබේ උදව්වට ස්තුතියි."},
+ {text:"You're welcome. Have a nice day!",reading:"යෝර් වෙල්කම්. හැව් අ නයිස් ඩේ!",meaning:"ඒකට කමක් නැහැ. සුබ දවසක්!"}
+ ],
+ practice:[
+ {prompt:"“කෙළින්ම යන්න” යන දිශාව තෝරන්න.",options:["Go straight.","Turn left.","Turn right."],readings:["ගෝ ස්ට්‍රේට්.","ටර්න් ලෙෆ්ට්.","ටර්න් රයිට්."],answer:0,explanation:"Go straight යනු කෙළින්ම යන්නයි."},
+ {prompt:"“දුම්රිය ස්ථානය කොහෙද?” කියන්නේ?",options:["Where is the station?","How much is this?","What time is it?"],readings:["වෙයාර් ඉස් ද ස්ටේෂන්?","හවු මච් ඉස් දිස්?","වොට් ටයිම් ඉස් ඉට්?"],answer:0,explanation:"Where is ...? යොදාගෙන ස්ථානයක් අසන්න."},
+ {prompt:"“වමට හැරෙන්න” සඳහා නිවැරදි වාක්‍යය තෝරන්න.",options:["Turn left.","Turn right.","Go straight."],readings:["ටර්න් ලෙෆ්ට්.","ටර්න් රයිට්.","ගෝ ස්ට්‍රේට්."],answer:0,explanation:"Left යනු වමයි."},
+ {prompt:"බස් නැවතුම්පොළට යන බස් එක අසන්නේ කෙසේද?",options:["Which bus goes to the centre?","Where is my receipt?","Can I pay by card?"],readings:["විච් බස් ගෝස් ටු ද සෙන්ටර්?","වෙයාර් ඉස් මයි රිසීට්?","කැන් අයි පේ බයි කාඩ්?"],answer:0,explanation:"Which bus ...? යොදාගෙන අදාළ ගමනාන්තයට යන බස් එක විමසන්න."}
+ ]
+ }
 ];
