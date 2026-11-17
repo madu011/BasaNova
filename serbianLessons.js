@@ -715,4 +715,57 @@ export const SERBIAN_A1_LESSONS = [
     ]
   }
 
+  ,
+  {
+    id: "sr-a1-u5-l1",
+    unit: "දෛනික සේවා සහ නවාතැන්",
+    title: "පාඩම 10 · නවාතැන් සහ දෛනික සේවා",
+    objective: "හෝටලයක කාමරයක් විමසීම, වෙන් කිරීම, ලිපිනය/සේවා පහසුකම් ගැන අසීම සහ ගැටලුවක් පැහැදිලි කිරීම.",
+    vocabulary: [
+      { word: "Soba", meaning: "කාමරය", example: "Imate li slobodnu sobu?", translation: "ඔබට හිස් කාමරයක් තිබෙනවාද?" },
+      { word: "Slobodna soba", meaning: "හිස් කාමරයක්", example: "Treba mi slobodna soba.", translation: "මට හිස් කාමරයක් අවශ්‍යයි." },
+      { word: "Rezervacija", meaning: "වෙන් කිරීම / වෙන්කිරීමේ වාර්තාව", example: "Imam rezervaciju.", translation: "මට වෙන් කිරීමක් තිබෙනවා." },
+      { word: "Jednokrevetna soba", meaning: "තනි ඇඳක් සහිත කාමරය", example: "Želim jednokrevetnu sobu.", translation: "මට තනි ඇඳක් සහිත කාමරයක් අවශ්‍යයි." },
+      { word: "Dvokrevetna soba", meaning: "දෙදෙනෙකුට සුදුසු කාමරය", example: "Da li imate dvokrevetnu sobu?", translation: "ඔබට දෙදෙනෙකුට සුදුසු කාමරයක් තිබෙනවාද?" },
+      { word: "Noćenje", meaning: "රාත්‍රියක් නවාතැන් ගැනීම", example: "Koliko košta jedno noćenje?", translation: "එක් රාත්‍රියක නවාතැන් ගාස්තුව කීයද?" },
+      { word: "Adresa", meaning: "ලිපිනය", example: "Koja je vaša adresa?", translation: "ඔබගේ ලිපිනය කුමක්ද?" },
+      { word: "Ključ", meaning: "යතුර", example: "Gde je ključ od sobe?", translation: "කාමරයේ යතුර කොහෙද?" },
+      { word: "Internet", meaning: "අන්තර්ජාලය", example: "Da li imate internet?", translation: "ඔබට අන්තර්ජාල පහසුකම් තිබෙනවාද?" },
+      { word: "Ne radi", meaning: "වැඩ කරන්නේ නැහැ", example: "Klima ne radi.", translation: "වායුසමීකරණය වැඩ කරන්නේ නැහැ." },
+      { word: "Pomoć", meaning: "උදව්", example: "Možete li da mi pomognete?", translation: "ඔබට මට උදව් කරන්න පුළුවන්ද?" }
+    ],
+    grammarTerms: [
+      { sr: "Imate li slobodnu sobu?", si: "ඔබට හිස් කාමරයක් තිබෙනවාද?", reading: "ඉමාතෙ ලි ස්ලොබොද්නු සොබු?" },
+      { sr: "Želim da rezervišem sobu.", si: "මට කාමරයක් වෙන් කරගන්න ඕනේ.", reading: "ෂෙලිම් දා රෙසෙර්විෂෙම් සොබු." },
+      { sr: "Koliko košta jedno noćenje?", si: "එක් රාත්‍රියක ගාස්තුව කීයද?", reading: "කොලිකො කොෂ්තා යෙද්නො නොචෙන්යේ?" },
+      { sr: "Da li imate internet?", si: "ඔබට අන්තර්ජාල පහසුකම් තිබෙනවාද?", reading: "දා ලි ඉමාතෙ ඉන්ටර්නෙත්?" },
+      { sr: "Klima ne radi.", si: "වායුසමීකරණය වැඩ කරන්නේ නැහැ.", reading: "ක්ලිමා නෙ රාදි." },
+      { sr: "Možete li da mi pomognete?", si: "ඔබට මට උදව් කරන්න පුළුවන්ද?", reading: "මොෂෙතෙ ලි දා මි පොමොග්නෙතෙ?" }
+    ],
+    grammarTitle: "ව්‍යාකරණය · සේවාවක් ඉල්ලීම සහ ගැටලුවක් පැහැදිලි කිරීම",
+    grammar: "කාමරයක් හෝ සේවාවක් තිබේදැයි අසන්න “Imate li ...?” භාවිත කරන්න. ඔබට යමක් අවශ්‍ය බව කියන්න “Želim da ...” යොදන්න. මිල විමසීමට “Koliko košta ...?” කියන්න. යමක් ක්‍රියා නොකරන බව සරලව කියන්න “... ne radi” භාවිත කළ හැක.",
+    examples: [
+      { sr: "Dobar dan. Imate li slobodnu sobu?", si: "සුබ දවසක්. ඔබට හිස් කාමරයක් තිබෙනවාද?" },
+      { sr: "Želim da rezervišem sobu za dve noći.", si: "මට රාත්‍රී දෙකකට කාමරයක් වෙන් කරගන්න ඕනේ." },
+      { sr: "Koliko košta jedno noćenje?", si: "එක් රාත්‍රියක ගාස්තුව කීයද?" },
+      { sr: "Izvinite, klima ne radi. Možete li da pomognete?", si: "සමාවෙන්න, වායුසමීකරණය වැඩ කරන්නේ නැහැ. ඔබට උදව් කරන්න පුළුවන්ද?" }
+    ],
+    dialogue: [
+      { sr: "Dobar dan. Imate li slobodnu sobu?", si: "සුබ දවසක්. ඔබට හිස් කාමරයක් තිබෙනවාද?" },
+      { sr: "Da, imamo jednokrevetnu i dvokrevetnu sobu.", si: "ඔව්, අපට තනි ඇඳක් සහිත සහ දෙදෙනෙකුට සුදුසු කාමර තිබෙනවා." },
+      { sr: "Koliko košta jedno noćenje?", si: "එක් රාත්‍රියක ගාස්තුව කීයද?" },
+      { sr: "Četrdeset evra po noći.", si: "රාත්‍රියකට යුරෝ හතළිහයි." },
+      { sr: "U redu. Želim da rezervišem sobu za dve noći.", si: "හරි. මට රාත්‍රී දෙකකට කාමරයක් වෙන් කරගන්න ඕනේ." },
+      { sr: "Naravno. Evo ključa. Internet je besplatan.", si: "අනිවාර්යයෙන්ම. මෙන්න යතුර. අන්තර්ජාලය නොමිලේ." },
+      { sr: "Hvala. Izvinite, klima ne radi.", si: "ස්තුතියි. සමාවෙන්න, වායුසමීකරණය වැඩ කරන්නේ නැහැ." },
+      { sr: "Odmah ćemo proveriti. Mogu li još nešto da pomognem?", si: "අපි දැන්ම පරීක්ෂා කරන්නම්. තවත් උදව්වක් අවශ්‍යද?" }
+    ],
+    practice: [
+      { prompt: "“ඔබට හිස් කාමරයක් තිබෙනවාද?” තෝරන්න.", options: ["Imate li slobodnu sobu?", "Gde je autobus?", "Koliko je sati?"], answer: 0, explanation: "Imate li ...? යනු ඔබට ... තිබෙනවාද? යන ප්‍රශ්න රටාවයි." },
+      { prompt: "“එක් රාත්‍රියක ගාස්තුව කීයද?” අසන්නේ කෙසේද?", options: ["Koja je adresa?", "Koliko košta jedno noćenje?", "Gde je ključ?"], answer: 1, explanation: "Koliko košta ...? යනු ... මිල කීයද? යන්නයි." },
+      { prompt: "“වායුසමීකරණය වැඩ කරන්නේ නැහැ” යන වාක්‍යය තෝරන්න.", options: ["Internet je besplatan.", "Klima ne radi.", "Imam rezervaciju."], answer: 1, explanation: "Ne radi යනු වැඩ කරන්නේ නැහැ යන්නයි." },
+      { prompt: "“මට කාමරයක් වෙන් කරගන්න ඕනේ” කියන්නේ?", options: ["Želim da rezervišem sobu.", "Treba mi autobuska karta.", "Doviđenja."], answer: 0, explanation: "Želim da rezervišem sobu = මට කාමරයක් වෙන් කරගන්න ඕනේ." }
+    ]
+  }
+
 ];
