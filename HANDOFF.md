@@ -42,6 +42,7 @@
 - AI Teacher is currently only a preview; do not imply it is a live AI tutor or speech-recognition feature until implemented.
 
 ## Current verified state
+- Commit `ac19b9fcfd5258f4416ac085a03cb6e19421561b`: translator now keeps up to 12 recent Sinhala/Serbian pairs in memory and lets the learner tap a history row to restore it. Adds copy-result action with feedback. Commit `3432920c321646c3d9e3223114e0d729b4beb550` adds `expo-clipboard` `~8.0.7` (Expo SDK 54 compatible package line) for native clipboard access. History is session-only and is lost when the app restarts; no local/cloud persistence yet.
 - Commit `a7a9895ffc866d5b73b4354244aa474437aa3d4f` adds a dedicated Sinhala-to-Serbian translator tab in `App.js`: multiline Sinhala input, manual translate action, Serbian result, approximate Sinhala pronunciation, and Serbian speech playback. It uses the public MyMemory endpoint on explicit button press and discloses that typed text is sent to the provider. Commit `b829fefc5f6a23570fb9f090ecb5e4bdcd94e3a6` fixes the translator state declaration newline.
 - Commit `14eb17d25fa84e68c21e8bcfb7262c55f2fabc87`: added `supabase/migrations/20261117000100_cloud_progress.sql` defining profiles, Serbian/English progress, daily missions and quiz attempts with per-user Row Level Security. Migration is committed but has not been applied to a live Supabase project or SQL-tested.
 - `CLOUD_SYNC.md` defines the chosen architecture: Google sign-in through Supabase Auth with private per-user Supabase Postgres progress storage, RLS isolation, local offline queue and restore on reinstall/device change. This is documentation only; no live auth or cloud sync exists yet.
@@ -76,8 +77,10 @@
 - Because there is no lockfile, dependency installation/build reproducibility needs attention. Add and commit a valid lockfile using the appropriate npm workflow when a suitable environment is available.
 
 ## Next task — resume here
+1. Generate and commit a package lockfile with the Expo SDK 54-compatible dependency graph, then run a JSX parser and Expo export/build. Check the `expo-clipboard` version alignment with `npx expo install --check` / `npx expo install --fix` in a proper environment.
+2. Test copy action and translator history on Android; verify that the translation endpoint returns useful Sinhala-to-Serbian results and handle service rate limits clearly.
 1. Test the translator API response for Sinhala-to-Serbian, improve handling of unsupported language pairs/rate limits, and verify Serbian speech playback on Android.
-2. Add a copy-result action and optional phrase history only if it can be done without heavy dependencies.
+3. Consider persistent phrase history after local storage and Google cloud sync are implemented; do not imply current history survives app restart.
 1. Configure a Supabase project and Google OAuth provider, then provide only the Supabase project URL and publishable/anon key via secure app environment settings (never request service-role keys or OAuth secrets in chat).
 2. Apply and test `supabase/migrations/20261117000100_cloud_progress.sql` in the owner's Supabase project. Then implement Expo-compatible Google sign-in, Supabase Auth session persistence and client integration following `CLOUD_SYNC.md`.
 3. Add cloud progress load/save and offline queue; verify restore after reinstall and cross-account data isolation.
