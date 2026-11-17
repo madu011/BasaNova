@@ -42,6 +42,7 @@
 - AI Teacher is currently only a preview; do not imply it is a live AI tutor or speech-recognition feature until implemented.
 
 ## Current verified state
+- Commit `2cec16662241b277a5c1cd7f3ceb6c2acb9c0560`: hoisted daily mission labels to module scope and removed an accidental literal escaped-newline sequence from the App component's static metadata block. This reduces per-render allocation and repairs a confirmed source-text defect; no build test has yet been run.
 - Commit `f70430d4605b184a436bbe61d77a8a34468d6d38`: enabled Android clipped-subview scrolling and hid scroll indicators on the two main ScrollViews.
 - Commit `7a238294f8386cbec663975b1a229b171f358a1b`: added `PERFORMANCE.md` with low-end Android performance rules, including static optimized 3D-style icons rather than real-time 3D rendering.
 - Commit `d0f8dd1507f08c8f8f5b3c00f10b0b78efd3b4c1`: improved consistent emoji iconography across the app: emoji navigation icons, mission-specific icons, CEFR level progression icons, and visual markers for lesson method, speaking, alphabet, examples and progress.
@@ -60,7 +61,7 @@
 - Sinhala transliteration fallback is approximate, not exact pronunciation.
 - `package-lock.json` was checked on `main` and was not found.
 - Low-end performance direction: use static pre-rendered 3D-style PNG/WebP icon assets, correctly sized and reused; avoid live 3D, large animation libraries, video backgrounds, heavy blur and continuous animation. See `PERFORMANCE.md`.
-- App.js now sets `removeClippedSubviews`, hides vertical scroll indicators and disables Android overscroll glow on both main ScrollViews. This is only a small source-level optimization; actual smoothness is not measured.
+- App.js now sets `removeClippedSubviews`, hides vertical scroll indicators and disables Android overscroll glow on both main ScrollViews. Static mission labels are now module-level constants rather than recreated on every render. These are source-level optimizations only; actual smoothness is not measured.
 - The alphabet row styles that were missing are now defined in the dynamic theme stylesheet.
  
 ## Verification status — be honest
@@ -70,8 +71,9 @@
 - Because there is no lockfile, dependency installation/build reproducibility needs attention. Add and commit a valid lockfile using the appropriate npm workflow when a suitable environment is available.
 
 ## Next task — resume here
-1. Add optimized static 3D icon assets (small transparent PNG/WebP files) and replace emoji/text glyph navigation/icons without adding a heavy runtime 3D dependency.
+1. Add optimized static 3D icon assets (small transparent PNG/WebP files) and replace emoji/text glyph navigation/icons without adding a heavy runtime 3D dependency. A generated 3×3 icon concept sheet exists only as a visual reference and has not been integrated.
 2. Validate scroll clipping and image rendering on a low-end Android device; disable clipping on any screen where it causes missing content.
+3. Run a real JSX parser and Expo export/build; the accidental escaped newline was removed by source inspection but not parser-verified.
 3. Validate the current `App.js` JSX and Expo configuration with a real parser/export build; repair any confirmed issues.
 4. Persist theme preference, learning progress, mission completion and XP locally (e.g. AsyncStorage, after adding the compatible Expo package and lockfile).
 5. Make daily missions genuinely actionable: link each mission to the relevant lesson/dialogue, track actual completion, and implement a date-aware daily reset/streak without falsely awarding progress.
