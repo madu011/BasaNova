@@ -8,6 +8,7 @@ import { SERBIAN_EXTRA_VOCAB, ENGLISH_EXTRA_VOCAB } from "./vocabularyPacks";
 import { SERBIAN_VOCAB_PACK_2, ENGLISH_VOCAB_PACK_2 } from "./vocabularyPack2";
 import { SERBIAN_VOCAB_PACK_3, ENGLISH_VOCAB_PACK_3 } from "./vocabularyPack3";
 import { SERBIAN_VOCAB_PACK_4, ENGLISH_VOCAB_PACK_4 } from "./vocabularyPack4";
+import { SERBIAN_VOCAB_PACK_5, ENGLISH_VOCAB_PACK_5 } from "./vocabularyPack5";
 
 const PALETTES={dark:{bg:"#071426",panel:"#10243D",panel2:"#142D49",teal:"#35D6C5",gold:"#F5C66A",white:"#F5F8FC",muted:"#9DB0C5",line:"#24415F",nav:"#0A1B30"},light:{bg:"#F3F7FA",panel:"#FFFFFF",panel2:"#E5EFF4",teal:"#087F78",gold:"#A96808",white:"#142638",muted:"#526779",line:"#C9D8E2",nav:"#E5EFF4"}};
 const ThemeContext=createContext(null);
@@ -138,6 +139,8 @@ courses.Serbian.push(...SERBIAN_VOCAB_PACK_3);
 courses.English.push(...ENGLISH_VOCAB_PACK_3);
 courses.Serbian.push(...SERBIAN_VOCAB_PACK_4);
 courses.English.push(...ENGLISH_VOCAB_PACK_4);
+courses.Serbian.push(...SERBIAN_VOCAB_PACK_5);
+courses.English.push(...ENGLISH_VOCAB_PACK_5);
 const serbianSinhala = {
   "Zdravo": "ස්ද්‍රාවෝ",
   "Dobar dan": "දොබාර් දාන්",
