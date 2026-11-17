@@ -10,6 +10,8 @@ export const SERBIAN_A1_LISTENING = [
  {prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Ja sam kuvar.”",audio:"Ja sam kuvar.",options:["මම රියදුරෙක්.","මම ගුරුවරයෙක්.","මම කෝකියෙක්."],readings:["යා සාම් වොසාච්.","යා සාම් උචිතෙල්.","යා සාම් කුවාර්."],answer:2,meaning:"Ja sam kuvar. = මම කෝකියෙක්."},
  {prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Skrenite levo.”",audio:"Skrenite levo.",options:["දකුණට හැරෙන්න.","කෙළින්ම යන්න.","වමට හැරෙන්න."],readings:["ස්ක්‍රෙනිතෙ දෙස්නො.","ඉදිතෙ ප්‍රාවො.","ස්ක්‍රෙනිතෙ ලෙවො."],answer:2,meaning:"Skrenite levo. = වමට හැරෙන්න."},
  {prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Kada polazi autobus?”",audio:"Kada polazi autobus?",options:["බස් රථය පිටත් වෙන්නේ කීයටද?","බස් නැවතුම්පොළ කොහෙද?","ටිකට්පතක් කීයද?"],readings:["කාදා පොලාසි ආවුතොබුස්?","ග්දේ යේ ආවුතොබුස්කා ස්තානිත්සා?","කොලිකො කොෂ්තා කාර්තා?"],answer:0,meaning:"Kada polazi autobus? = බස් රථය පිටත් වෙන්නේ කීයටද."}
+ {prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Imate li slobodnu sobu?”",audio:"Imate li slobodnu sobu?",options:["ඔබට හිස් කාමරයක් තිබෙනවාද?","බස් රථය පිටත් වෙන්නේ කීයටද?","ඔබගේ ලිපිනය කුමක්ද?"],readings:["ඉමාතෙ ලි ස්ලොබොද්නු සොබු?","කාදා පොලාසි අව්තොබුස්?","කොයා යේ වාෂා අද්‍රෙසා?"],answer:0,meaning:"Imate li slobodnu sobu? = ඔබට හිස් කාමරයක් තිබෙනවාද?"},
+ {prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Klima ne radi.”",audio:"Klima ne radi.",options:["අන්තර්ජාලය නොමිලේ.","වායුසමීකරණය වැඩ කරන්නේ නැහැ.","කාමරය පිරිසිදුයි."],readings:["ඉන්ටර්නෙත් යේ බෙස්ප්ලාතාන්.","ක්ලිමා නෙ රාදි.","සොබා යේ චිස්තා."],answer:1,meaning:"Klima ne radi. = වායුසමීකරණය වැඩ කරන්නේ නැහැ."}
 ];
 
 export const SERBIAN_A1_MIXED_REVISION = [
@@ -21,5 +23,7 @@ export const SERBIAN_A1_MIXED_REVISION = [
  {audio:"Radim ujutru.",reading:"රාදිම් උයුත්‍රු.",options:["මම රාත්‍රියේ වැඩ කරනවා.","මම උදේ වැඩ කරනවා.","මම හෙට නිවාඩුයි."],answer:1},
  {audio:"Ja sam vozač.",reading:"යා සාම් වොසාච්.",options:["මම ගුරුවරයෙක්.","මම කෝකියෙක්.","මම රියදුරෙක්."],answer:2},
  {audio:"Gde je autobuska stanica?",reading:"ග්දේ යේ ආවුතොබුස්කා ස්තානිත්සා?",options:["බස් නැවතුම්පොළ කොහෙද?","දුම්රිය ටිකට් එක කීයද?","මම බස් රථයෙන් යනවා."],answer:0},
- {audio:"Želim da zakažem termin.",reading:"ෂෙලිම් දා සාකාෂෙම් තෙර්මින්.",options:["මට හමුවීමක් සඳහා වේලාවක් වෙන් කරගන්න ඕනේ.","මට බස් ටිකට් එකක් ඕනේ.","මම අද වැඩ කරනවා."],answer:0}
+ {audio:"Želim da zakažem termin.",reading:"ෂෙලිම් දා සාකාෂෙම් තෙර්මින්.",options:["මට හමුවීමක් සඳහා වේලාවක් වෙන් කරගන්න ඕනේ.","මට බස් ටිකට් එකක් ඕනේ.","මම අද වැඩ කරනවා."],answer:0},
+ {audio:"Imate li slobodnu sobu?",reading:"ඉමාතෙ ලි ස්ලොබොද්නු සොබු?",options:["ඔබට හිස් කාමරයක් තිබෙනවාද?","ඔබට කෝපි ඕනේද?","බස් නැවතුම්පොළ කොහෙද?"],answer:0},
+ {audio:"Želim da rezervišem sobu.",reading:"ෂෙලිම් දා රෙසෙර්විෂෙම් සොබු.",options:["මට කාමරයක් වෙන් කරගන්න ඕනේ.","මට ටිකට්පතක් ඕනේ.","මට වැඩට යන්න ඕනේ."],answer:0}
 ];
