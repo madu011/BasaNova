@@ -86,4 +86,54 @@ export const ENGLISH_A1_LESSONS = [
  {prompt:"“විනාඩි පහළොවක් ඉන්න” යන වාක්‍යය තෝරන්න.",options:["Wait fifteen minutes, please.","Wait five hours.","Come at nine."],readings:["වේට් ෆිෆ්ටීන් මිනිට්ස්, ප්ලීස්.","වේට් ෆයිව් අවර්ස්.","කම් ඇට් නයින්."],answer:0,explanation:"Fifteen minutes යනු විනාඩි පහළොවයි."}
  ]
  }
+
+ ,
+ {id:"en-a1-u1-l4",unit:"සාප්පු සවාරි සහ මිල ගණන්",title:"පාඩම 4 · සාප්පු සවාරි සහ මිල ගණන්",objective:"භාණ්ඩ ඉල්ලීම, ප්‍රමාණ පැවසීම, මිල විමසීම සහ ගෙවීම",
+ vocabulary:[
+ {word:"How much is this?",reading:"හවු මච් ඉස් දිස්?",meaning:"මේක කීයද?",example:"Excuse me, how much is this?",exampleReading:"ඉක්ස්කියූස් මී, හවු මච් ඉස් දිස්?",translation:"සමාවෙන්න, මේක කීයද?"},
+ {word:"How much are these?",reading:"හවු මච් ආර් දීස්?",meaning:"මේවා කීයද?",example:"How much are these apples?",exampleReading:"හවු මච් ආර් දීස් ඇපල්ස්?",translation:"මේ ඇපල් කීයද?"},
+ {word:"I would like...",reading:"අයි වුඩ් ලයික්...",meaning:"මට ... අවශ්‍යයි",example:"I would like a bottle of water.",exampleReading:"අයි වුඩ් ලයික් අ බොට්ල් අව් වෝටර්.",translation:"මට වතුර බෝතලයක් අවශ්‍යයි."},
+ {word:"One kilo",reading:"වන් කිලෝ",meaning:"කිලෝ එකක්",example:"One kilo of potatoes, please.",exampleReading:"වන් කිලෝ අව් පොටේටෝස්, ප්ලීස්.",translation:"අර්තාපල් කිලෝ එකක්, කරුණාකර."},
+ {word:"Half a kilo",reading:"හාෆ් අ කිලෝ",meaning:"කිලෝ භාගයක්",example:"Half a kilo of tomatoes, please.",exampleReading:"හාෆ් අ කිලෝ අව් ටමටෝස්, ප්ලීස්.",translation:"තක්කාලි කිලෝ භාගයක්, කරුණාකර."},
+ {word:"A bottle of water",reading:"අ බොට්ල් අව් වෝටර්",meaning:"වතුර බෝතලයක්",example:"Can I have a bottle of water?",exampleReading:"කැන් අයි හැව් අ බොට්ල් අව් වෝටර්?",translation:"මට වතුර බෝතලයක් ලබාගන්න පුළුවන්ද?"},
+ {word:"A bag",reading:"අ බැග්",meaning:"බෑගයක්",example:"Can I have a bag, please?",exampleReading:"කැන් අයි හැව් අ බැග්, ප්ලීස්?",translation:"මට බෑගයක් ලබාගන්න පුළුවන්ද?"},
+ {word:"The price",reading:"ද ප්‍රයිස්",meaning:"මිල",example:"The price is five euros.",exampleReading:"ද ප්‍රයිස් ඉස් ෆයිව් යූරෝස්.",translation:"මිල යුරෝ පහයි."},
+ {word:"Cheap",reading:"චීප්",meaning:"අඩු මිල",example:"This shop is cheap.",exampleReading:"දිස් ෂොප් ඉස් චීප්.",translation:"මේ කඩේ මිල අඩුයි."},
+ {word:"Expensive",reading:"ඉක්ස්පෙන්සිව්",meaning:"මිල අධික",example:"That jacket is expensive.",exampleReading:"දැට් ජැකට් ඉස් ඉක්ස්පෙන්සිව්.",translation:"ඒ ජැකට් එක මිල අධිකයි."},
+ {word:"Cash",reading:"කෑෂ්",meaning:"මුදල් නෝට්ටු/කාසි",example:"Can I pay in cash?",exampleReading:"කැන් අයි පේ ඉන් කෑෂ්?",translation:"මට මුදලින් ගෙවන්න පුළුවන්ද?"},
+ {word:"Card",reading:"කාඩ්",meaning:"කාඩ්පත",example:"Can I pay by card?",exampleReading:"කැන් අයි පේ බයි කාඩ්?",translation:"මට කාඩ්පතෙන් ගෙවන්න පුළුවන්ද?"},
+ {word:"Receipt",reading:"රිසීට්",meaning:"රිසිට්පත",example:"Can I have the receipt, please?",exampleReading:"කැන් අයි හැව් ද රිසීට්, ප්ලීස්?",translation:"කරුණාකර මට රිසිට්පත දෙන්න පුළුවන්ද?"},
+ {word:"That's all, thank you.",reading:"දැට්ස් ඕල්, තෑන්ක් යූ.",meaning:"එච්චරයි, ස්තුතියි.",example:"That's all, thank you. Goodbye!",exampleReading:"දැට්ස් ඕල්, තෑන්ක් යූ. ගුඩ්බායි!",translation:"එච්චරයි, ස්තුතියි. ගිහින් එන්නම්!"}
+ ],
+ grammarTitle:"භාණ්ඩ ඉල්ලීම සහ මිල විමසීම",
+ grammar:"එක භාණ්ඩයක මිල අසන විට “How much is this?” කියන්න. බහු භාණ්ඩ සඳහා “How much are these?” යොදන්න. ආචාරශීලීව යමක් ඉල්ලීමට “I would like ...” හෝ “Can I have ...?” භාවිත කරන්න. ප්‍රමාණයකට පෙර one kilo, half a kilo වැනි පද යොදන්න.",
+ grammarTerms:[
+ {text:"How much is this?",reading:"හවු මච් ඉස් දිස්?",meaning:"මේක කීයද?"},
+ {text:"I would like ...",reading:"අයි වුඩ් ලයික්...",meaning:"මට ... අවශ්‍යයි."},
+ {text:"Can I have ...?",reading:"කැන් අයි හැව්...?",meaning:"මට ... ලබාගන්න පුළුවන්ද?"},
+ {text:"One kilo of ...",reading:"වන් කිලෝ අව්...",meaning:"... කිලෝ එකක්."},
+ {text:"Can I pay by card?",reading:"කැන් අයි පේ බයි කාඩ්?",meaning:"මට කාඩ්පතෙන් ගෙවන්න පුළුවන්ද?"}
+ ],
+ examples:[
+ {text:"How much is this bread?",reading:"හවු මච් ඉස් දිස් බ්‍රෙඩ්?",meaning:"මේ පාන් එක කීයද?"},
+ {text:"I would like half a kilo of tomatoes.",reading:"අයි වුඩ් ලයික් හාෆ් අ කිලෝ අව් ටමටෝස්.",meaning:"මට තක්කාලි කිලෝ භාගයක් අවශ්‍යයි."},
+ {text:"Can I pay by card?",reading:"කැන් අයි පේ බයි කාඩ්?",meaning:"මට කාඩ්පතෙන් ගෙවන්න පුළුවන්ද?"},
+ {text:"Can I have the receipt, please?",reading:"කැන් අයි හැව් ද රිසීට්, ප්ලීස්?",meaning:"කරුණාකර මට රිසිට්පත දෙන්න පුළුවන්ද?"}
+ ],
+ dialogue:[
+ {text:"Hello. How can I help you?",reading:"හෙලෝ. හවු කැන් අයි හෙල්ප් යූ?",meaning:"හෙලෝ. මම ඔබට උදව් කරන්නේ කොහොමද?"},
+ {text:"I would like one kilo of apples, please.",reading:"අයි වුඩ් ලයික් වන් කිලෝ අව් ඇපල්ස්, ප්ලීස්.",meaning:"මට ඇපල් කිලෝ එකක් අවශ්‍යයි, කරුණාකර."},
+ {text:"Of course. Anything else?",reading:"අව් කෝර්ස්. එනිතිං එල්ස්?",meaning:"අනිවාර්යයෙන්ම. වෙනත් දෙයක් තියෙනවද?"},
+ {text:"Yes, a bottle of water. How much is everything?",reading:"යෙස්, අ බොට්ල් අව් වෝටර්. හවු මච් ඉස් එව්රිතිං?",meaning:"ඔව්, වතුර බෝතලයක්. ඔක්කොම කීයද?"},
+ {text:"That is six euros, please.",reading:"දැට් ඉස් සික්ස් යූරෝස්, ප්ලීස්.",meaning:"යුරෝ හයයි, කරුණාකර."},
+ {text:"Can I pay by card?",reading:"කැන් අයි පේ බයි කාඩ්?",meaning:"මට කාඩ්පතෙන් ගෙවන්න පුළුවන්ද?"},
+ {text:"Yes, of course. Here is your receipt.",reading:"යෙස්, අව් කෝර්ස්. හියර් ඉස් යෝර් රිසීට්.",meaning:"ඔව්, පුළුවන්. මෙන්න ඔබේ රිසිට්පත."}
+ ],
+ practice:[
+ {prompt:"“මේක කීයද?” යන ප්‍රශ්නය තෝරන්න.",options:["How much is this?","Where is this?","What time is it?"],readings:["හවු මච් ඉස් දිස්?","වෙයාර් ඉස් දිස්?","වොට් ටයිම් ඉස් ඉට්?"],answer:0,explanation:"How much is this? යනු එක භාණ්ඩයක මිල විමසීමයි."},
+ {prompt:"“මට තක්කාලි කිලෝ භාගයක් අවශ්‍යයි” යන අදහස තෝරන්න.",options:["I would like half a kilo of tomatoes.","I need two bottles of water.","I would like one bag."],readings:["අයි වුඩ් ලයික් හාෆ් අ කිලෝ අව් ටමටෝස්.","අයි නීඩ් ටූ බොට්ල්ස් අව් වෝටර්.","අයි වුඩ් ලයික් වන් බැග්."],answer:0,explanation:"Half a kilo යනු කිලෝ භාගයකි."},
+ {prompt:"කාඩ්පතෙන් ගෙවීමට අසන්නේ කෙසේද?",options:["Can I pay by card?","Can I have a bag?","How much is this?"],readings:["කැන් අයි පේ බයි කාඩ්?","කැන් අයි හැව් අ බැග්?","හවු මච් ඉස් දිස්?"],answer:0,explanation:"Pay by card යනු කාඩ්පතෙන් ගෙවීමයි."},
+ {prompt:"“රිසිට්පත” සඳහා නිවැරදි English වචනය තෝරන්න.",options:["Receipt","Price","Cash"],readings:["රිසීට්","ප්‍රයිස්","කෑෂ්"],answer:0,explanation:"Receipt යනු ගෙවීමෙන් පසු ලැබෙන රිසිට්පතයි."}
+ ]
+ }
 ];
