@@ -5,17 +5,49 @@ import * as Speech from "expo-speech";
 const C={bg:"#071426",panel:"#10243D",panel2:"#142D49",teal:"#35D6C5",gold:"#F5C66A",white:"#F5F8FC",muted:"#9DB0C5",line:"#24415F"};
 const courses={
  Serbian:[
-  {word:"Zdravo",meaning:"ආයුබෝවන් / හෙලෝ",sound:"ස්ද්‍රාවෝ",example:"Zdravo, kako si?",translation:"හෙලෝ, ඔයාට කොහොමද?"},
-  {word:"Hvala",meaning:"ස්තුතියි",sound:"හ්වාලා",example:"Hvala puno.",translation:"බොහොම ස්තුතියි."},
-  {word:"Molim",meaning:"කරුණාකර",sound:"මොලීම්",example:"Molim vas.",translation:"කරුණාකර."},
-  {word:"Dobro jutro",meaning:"සුබ උදෑසනක්",sound:"දොබ්‍රො යූත්‍රො",example:"Dobro jutro svima.",translation:"හැමෝටම සුබ උදෑසනක්."}
- ],
+  ["Zdravo","ආයුබෝවන් / හෙලෝ","ස්ද්‍රාවෝ","Zdravo, kako si?","හෙලෝ, ඔයාට කොහොමද?"],
+  ["Dobar dan","සුබ දවසක්","දොබාර් දාන්","Dobar dan, gospodine.","සුබ දවසක් මහත්මයා."],
+  ["Dobro jutro","සුබ උදෑසනක්","දොබ්‍රො යූත්‍රො","Dobro jutro svima.","හැමෝටම සුබ උදෑසනක්."],
+  ["Dobro veče","සුබ සන්ධ්‍යාවක්","දොබ්‍රො වෙචේ","Dobro veče, Ana.","සුබ සන්ධ්‍යාවක්, ආනා."],
+  ["Laku noć","සුබ රාත්‍රියක්","ලාකු නොච්","Laku noć i prijatno spavaj.","සුබ රාත්‍රියක්, සුවසේ නිදාගන්න."],
+  ["Hvala","ස්තුතියි","හ්වාලා","Hvala puno.","බොහොම ස්තුතියි."],
+  ["Molim","කරුණාකර / ඔබට සාදරයෙන්","මොලීම්","Molim vas, sačekajte.","කරුණාකර ටිකක් ඉන්න."],
+  ["Izvinite","සමාවෙන්න","ඉස්විනිතේ","Izvinite, gde je stanica?","සමාවෙන්න, නැවතුම්පොළ කොහෙද?"],
+  ["Da","ඔව්","දා","Da, razumem.","ඔව්, මට තේරෙනවා."],
+  ["Ne","නැහැ","නේ","Ne, hvala.","එපා, ස්තුතියි."],
+  ["Kako si?","ඔයාට කොහොමද?","කාකො සී","Zdravo! Kako si?","හෙලෝ! ඔයාට කොහොමද?"],
+  ["Dobro sam","මම හොඳින්","දොබ්‍රො සාම්","Dobro sam, hvala.","මම හොඳින්, ස්තුතියි."],
+  ["Kako se zoveš?","ඔයාගේ නම මොකක්ද?","කාකො සේ සොවේෂ්","Kako se zoveš?","ඔයාගේ නම මොකක්ද?"],
+  ["Zovem se...","මගේ නම...","සොවේම් සේ","Zovem se Madhuranga.","මගේ නම මධුරංග."],
+  ["Ne razumem","මට තේරෙන්නේ නැහැ","නේ රාසුමේම්","Izvinite, ne razumem.","සමාවෙන්න, මට තේරෙන්නේ නැහැ."],
+  ["Govorite li engleski?","ඔබ ඉංග්‍රීසි කතා කරනවාද?","ගොවොරිතේ ලි එන්ග්ලෙස්කි","Govorite li engleski?","ඔබ ඉංග්‍රීසි කතා කරනවාද?"],
+  ["Koliko košta?","කීයද? / මිල කීයද?","කොලිකො කොෂ්තා","Koliko košta ova kafa?","මේ කෝපි එක කීයද?"],
+  ["Gde je...?","... කොහෙද?","ග්දේ යේ","Gde je autobuska stanica?","බස් නැවතුම්පොළ කොහෙද?"],
+  ["Voda","වතුර","වොදා","Molim vas, jednu vodu.","කරුණාකර වතුර එකක් දෙන්න."],
+  ["Račun, molim","බිල දෙන්න","රාචූන්, මොලීම්","Račun, molim.","බිල දෙන්න."]
+ ].map(([word,meaning,sound,example,translation])=>({word,meaning,sound,example,translation})),
  English:[
-  {word:"Hello",meaning:"ආයුබෝවන් / හෙලෝ",sound:"හෙලෝ",example:"Hello, how are you?",translation:"හෙලෝ, ඔයාට කොහොමද?"},
-  {word:"Thank you",meaning:"ස්තුතියි",sound:"තැන්ක් යූ",example:"Thank you very much.",translation:"බොහොම ස්තුතියි."},
-  {word:"Please",meaning:"කරුණාකර",sound:"ප්ලීස්",example:"Please help me.",translation:"කරුණාකර මට උදව් කරන්න."},
-  {word:"Good morning",meaning:"සුබ උදෑසනක්",sound:"ගුඩ් මෝර්නින්",example:"Good morning, everyone.",translation:"හැමෝටම සුබ උදෑසනක්."}
- ]
+  ["Hello","ආයුබෝවන් / හෙලෝ","හෙලෝ","Hello, how are you?","හෙලෝ, ඔයාට කොහොමද?"],
+  ["Good morning","සුබ උදෑසනක්","ගුඩ් මෝර්නින්","Good morning, everyone.","හැමෝටම සුබ උදෑසනක්."],
+  ["Good evening","සුබ සන්ධ්‍යාවක්","ගුඩ් ඊව්නින්","Good evening, welcome.","සුබ සන්ධ්‍යාවක්, සාදරයෙන් පිළිගන්නවා."],
+  ["Good night","සුබ රාත්‍රියක්","ගුඩ් නයිට්","Good night. See you tomorrow.","සුබ රාත්‍රියක්. හෙට හමුවෙමු."],
+  ["Thank you","ස්තුතියි","තැන්ක් යූ","Thank you very much.","බොහොම ස්තුතියි."],
+  ["Please","කරුණාකර","ප්ලීස්","Please help me.","කරුණාකර මට උදව් කරන්න."],
+  ["Excuse me","සමාවෙන්න","එක්ස්කියූස් මී","Excuse me, where is the station?","සමාවෙන්න, නැවතුම්පොළ කොහෙද?"],
+  ["Yes","ඔව්","යෙස්","Yes, I understand.","ඔව්, මට තේරෙනවා."],
+  ["No","නැහැ","නෝ","No, thank you.","එපා, ස්තුතියි."],
+  ["How are you?","ඔයාට කොහොමද?","හවු ආ යූ","Hello! How are you?","හෙලෝ! ඔයාට කොහොමද?"],
+  ["I am fine","මම හොඳින්","අයි ඇම් ෆයින්","I am fine, thank you.","මම හොඳින්, ස්තුතියි."],
+  ["What is your name?","ඔයාගේ නම මොකක්ද?","වොට් ඉස් යෝර් නේම්","What is your name?","ඔයාගේ නම මොකක්ද?"],
+  ["My name is...","මගේ නම...","මයි නේම් ඉස්","My name is Madhuranga.","මගේ නම මධුරංග."],
+  ["I don't understand","මට තේරෙන්නේ නැහැ","අයි ඩෝන්ට් අන්ඩර්ස්ටෑන්ඩ්","Sorry, I don't understand.","සමාවෙන්න, මට තේරෙන්නේ නැහැ."],
+  ["Do you speak English?","ඔබ ඉංග්‍රීසි කතා කරනවාද?","ඩූ යූ ස්පීක් ඉංග්ලිෂ්","Do you speak English?","ඔබ ඉංග්‍රීසි කතා කරනවාද?"],
+  ["How much is it?","මේක කීයද?","හවු මච් ඉස් ඉට්","How much is this coffee?","මේ කෝපි එක කීයද?"],
+  ["Where is...?","... කොහෙද?","වෙයාර් ඉස්","Where is the bus station?","බස් නැවතුම්පොළ කොහෙද?"],
+  ["Water","වතුර","වෝටර්","Can I have some water, please?","කරුණාකර මට වතුර ටිකක් දෙන්න පුළුවන්ද?"],
+  ["The bill, please","බිල දෙන්න","ද බිල් ප්ලීස්","Could I have the bill, please?","කරුණාකර බිල දෙන්න පුළුවන්ද?"],
+  ["I need help","මට උදව් අවශ්‍යයි","අයි නීඩ් හෙල්ප්","I need help, please.","කරුණාකර මට උදව් අවශ්‍යයි."]
+ ].map(([word,meaning,sound,example,translation])=>({word,meaning,sound,example,translation}))
 };
 const speak=(text,lang)=>{Speech.stop();Speech.speak(text,{language:lang==="Serbian"?"sr-RS":"en-US",rate:0.82});};
 function Action({children,onPress,secondary=false}){return <TouchableOpacity onPress={onPress} style={[s.action,secondary&&s.secondary]}><Text style={[s.actionText,secondary&&{color:C.teal}]}>{children}</Text></TouchableOpacity>;}
