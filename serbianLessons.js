@@ -564,4 +564,54 @@ export const SERBIAN_A1_LESSONS = [
       { prompt: "“වැඩ කරන වේලාව” සඳහා Serbian ප්‍රකාශය කුමක්ද?", options: ["Kolega", "Radno vreme", "Pomoć"], answer: 1, explanation: "“Radno vreme” යනු වැඩ කරන වේලාවයි." }
     ]
   }
+
+  ,
+  {
+    id: "sr-a1-u3-l2",
+    unit: "රැකියාව සහ වැඩබිම",
+    title: "පාඩම 7 · රැකියා සහ වෘත්තීන්",
+    objective: "තම රැකියාව හඳුන්වාදීම, වෙනත් කෙනෙකුගේ රැකියාව විමසීම සහ වෘත්තීන්හි පිරිමි/කාන්තා නාම හඳුනාගැනීම.",
+    vocabulary: [
+      { word: "Zanimanje", meaning: "රැකියාව / වෘත්තිය", example: "Koje je vaše zanimanje?", translation: "ඔබගේ රැකියාව කුමක්ද?" },
+      { word: "Konobar / konobarica", meaning: "වේටර් / වේටර්වරිය", example: "Ja sam konobar.", translation: "මම වේටර්වරයෙක්." },
+      { word: "Kuvar / kuvarica", meaning: "අරක්කැමි / අරක්කැමිවරිය", example: "Ona je kuvarica.", translation: "ඇය අරක්කැමිවරියක්." },
+      { word: "Vozač / vozačica", meaning: "රියදුරු (පිරිමි / කාන්තා)", example: "Moj otac je vozač.", translation: "මගේ පියා රියදුරෙක්." },
+      { word: "Prodavac / prodavačica", meaning: "විකුණුම් සේවකයා / සේවිකාව", example: "Ona je prodavačica.", translation: "ඇය විකුණුම් සේවිකාවක්." },
+      { word: "Radnik / radnica", meaning: "සේවකයා / සේවිකාව", example: "On je radnik.", translation: "ඔහු සේවකයෙක්." },
+      { word: "Nastavnik / nastavnica", meaning: "ගුරුවරයා / ගුරුවරිය", example: "Ona je nastavnica.", translation: "ඇය ගුරුවරියක්." },
+      { word: "Lekar / lekarka", meaning: "වෛද්‍යවරයා / වෛද්‍යවරිය", example: "Moj brat je lekar.", translation: "මගේ සහෝදරයා වෛද්‍යවරයෙක්." },
+      { word: "Student / studentkinja", meaning: "ශිෂ්‍යයා / ශිෂ්‍යාව", example: "Ja sam student.", translation: "මම ශිෂ්‍යයෙක්." },
+      { word: "Programer / programerka", meaning: "මෘදුකාංග සංවර්ධකයා / සංවර්ධිකාව", example: "On je programer.", translation: "ඔහු මෘදුකාංග සංවර්ධකයෙක්." }
+    ],
+    grammarTerms: [
+      { sr: "Koje je vaše zanimanje?", si: "ඔබගේ රැකියාව කුමක්ද?", reading: "කොයේ යේ වාෂෙ සානිමාන්යේ?" },
+      { sr: "Ja sam ...", si: "මම ... වෙමි", reading: "යා සාම් ..." },
+      { sr: "On je ...", si: "ඔහු ... ය", reading: "ඔන් යේ ..." },
+      { sr: "Ona je ...", si: "ඇය ... ය", reading: "ඔනා යේ ..." },
+      { sr: "konobar / konobarica", si: "වේටර් / වේටර්වරිය", reading: "කොනොබාර් / කොනොබාරිත්සා" },
+      { sr: "radnik / radnica", si: "සේවකයා / සේවිකාව", reading: "රාද්නික් / රාද්නීත්සා" }
+    ],
+    grammarTitle: "ව්‍යාකරණය · රැකියාව හඳුන්වාදීම සහ ස්ත්‍රී/පුරුෂ නාම",
+    grammar: "තමන්ගේ රැකියාව කියන්න “Ja sam ...” (මම ... වෙමි) යන රටාව භාවිත කරන්න. පිරිමි පුද්ගලයෙකු ගැන “On je ...” සහ කාන්තා පුද්ගලයෙකු ගැන “Ona je ...” කියන්න. Serbian භාෂාවේ බොහෝ වෘත්තීන්ට පිරිමි සහ කාන්තා ආකාර දෙකක් තිබෙනවා; උදාහරණ ලෙස konobar/konobarica සහ nastavnik/nastavnica. සෑම වෘත්තියක්ම එකම අවසාන රටාව අනුගමනය නොකරන නිසා යුගල වශයෙන් ඉගෙනගන්න.",
+    examples: [
+      { sr: "Ja sam konobar.", si: "මම වේටර්වරයෙක්." },
+      { sr: "Ona je nastavnica.", si: "ඇය ගුරුවරියක්." },
+      { sr: "Moj brat je vozač.", si: "මගේ සහෝදරයා රියදුරෙක්." },
+      { sr: "Koje je vaše zanimanje?", si: "ඔබගේ රැකියාව කුමක්ද?" }
+    ],
+    dialogue: [
+      { sr: "Čime se bavite?", si: "ඔබ කරන රැකියාව කුමක්ද?" },
+      { sr: "Ja sam kuvar. A vi?", si: "මම අරක්කැමියෙක්. ඔබ?" },
+      { sr: "Ja sam prodavačica.", si: "මම විකුණුම් සේවිකාවක්." },
+      { sr: "Gde radite?", si: "ඔබ කොහෙද වැඩ කරන්නේ?" },
+      { sr: "Radim u restoranu.", si: "මම අවන්හලක වැඩ කරනවා." }
+    ],
+    practice: [
+      { prompt: "“රැකියාව / වෘත්තිය” සඳහා Serbian වචනය කුමක්ද?", options: ["Zanimanje", "Smena", "Pomoć"], answer: 0, explanation: "“Zanimanje” යනු රැකියාව හෝ වෘත්තියයි." },
+      { prompt: "“ඇය ගුරුවරියක්” යන වාක්‍යය තෝරන්න.", options: ["On je nastavnik.", "Ona je nastavnica.", "Ja sam student."], answer: 1, explanation: "“Ona je nastavnica” = ඇය ගුරුවරියක්." },
+      { prompt: "“මම වේටර්වරයෙක්” කියන්නේ කොහොමද?", options: ["Ja sam konobar.", "Ja sam vozač.", "Ja sam lekar."], answer: 0, explanation: "“Konobar” යනු වේටර්වරයායි." },
+      { prompt: "“ඔබගේ රැකියාව කුමක්ද?” යන ප්‍රශ්නය තෝරන්න.", options: ["Gde živite?", "Koje je vaše zanimanje?", "Koliko košta?"], answer: 1, explanation: "“Koje je vaše zanimanje?” යනු ඔබගේ රැකියාව කුමක්ද? යන්නයි." }
+    ]
+  }
+
 ];
