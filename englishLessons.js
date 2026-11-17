@@ -187,4 +187,54 @@ export const ENGLISH_A1_LESSONS = [
  {prompt:"බස් නැවතුම්පොළට යන බස් එක අසන්නේ කෙසේද?",options:["Which bus goes to the centre?","Where is my receipt?","Can I pay by card?"],readings:["විච් බස් ගෝස් ටු ද සෙන්ටර්?","වෙයාර් ඉස් මයි රිසීට්?","කැන් අයි පේ බයි කාඩ්?"],answer:0,explanation:"Which bus ...? යොදාගෙන අදාළ ගමනාන්තයට යන බස් එක විමසන්න."}
  ]
  }
+
+ ,
+ {id:"en-a1-u1-l6",unit:"රැකියා ස්ථානයේ සන්නිවේදනය",title:"පාඩම 6 · රැකියා ස්ථානයේ සන්නිවේදනය",objective:"රැකියා ස්ථානයේ හඳුන්වාදීම, වැඩ මුර ගැන කතා කිරීම සහ උදව් ඉල්ලීම",
+ vocabulary:[
+ {word:"I work here.",reading:"අයි වර්ක් හියර්.",meaning:"මම මෙහි වැඩ කරනවා.",example:"Hello, I work here.",exampleReading:"හෙලෝ, අයි වර්ක් හියර්.",translation:"හෙලෝ, මම මෙහි වැඩ කරනවා."},
+ {word:"I am new here.",reading:"අයි ඇම් නියූ හියර්.",meaning:"මම මෙතැනට අලුත්.",example:"I am new here. Nice to meet you.",exampleReading:"අයි ඇම් නියූ හියර්. නයිස් ටු මීට් යූ.",translation:"මම මෙතැනට අලුත්. ඔබ හමුවීම සතුටක්."},
+ {word:"Manager",reading:"මැනේජර්",meaning:"කළමනාකරු",example:"The manager is in the office.",exampleReading:"ද මැනේජර් ඉස් ඉන් ද ඔෆිස්.",translation:"කළමනාකරු කාර්යාලයේ ඉන්නවා."},
+ {word:"Colleague",reading:"කොලීග්",meaning:"සහකාර සේවකයා",example:"My colleague can help me.",exampleReading:"මයි කොලීග් කැන් හෙල්ප් මී.",translation:"මගේ සහකාර සේවකයාට මට උදව් කරන්න පුළුවන්."},
+ {word:"Shift",reading:"ෂිෆ්ට්",meaning:"වැඩ මුරය",example:"My shift starts at eight.",exampleReading:"මයි ෂිෆ්ට් ස්ටාර්ට්ස් ඇට් ඒට්.",translation:"මගේ වැඩ මුරය අටට පටන් ගන්නවා."},
+ {word:"Day shift",reading:"ඩේ ෂිෆ්ට්",meaning:"දවල් වැඩ මුරය",example:"I work the day shift today.",exampleReading:"අයි වර්ක් ද ඩේ ෂිෆ්ට් ටුඩේ.",translation:"මම අද දවල් වැඩ මුරයේ වැඩ කරනවා."},
+ {word:"Night shift",reading:"නයිට් ෂිෆ්ට්",meaning:"රාත්‍රී වැඩ මුරය",example:"She works the night shift.",exampleReading:"ෂී වර්ක්ස් ද නයිට් ෂිෆ්ට්.",translation:"ඇය රාත්‍රී වැඩ මුරයේ වැඩ කරනවා."},
+ {word:"Break",reading:"බ්‍රේක්",meaning:"විවේකය",example:"When is my break?",exampleReading:"වෙන් ඉස් මයි බ්‍රේක්?",translation:"මගේ විවේක වෙලාව කවදාද?"},
+ {word:"Can you help me?",reading:"කැන් යූ හෙල්ප් මී?",meaning:"ඔබට මට උදව් කරන්න පුළුවන්ද?",example:"Can you help me with this task?",exampleReading:"කැන් යූ හෙල්ප් මී විත් දිස් ටාස්ක්?",translation:"මේ කාර්යයට මට උදව් කරන්න පුළුවන්ද?"},
+ {word:"I don't understand.",reading:"අයි ඩෝන්ට් අන්ඩර්ස්ටෑන්ඩ්.",meaning:"මට තේරෙන්නේ නැහැ.",example:"Sorry, I don't understand.",exampleReading:"සොරි, අයි ඩෝන්ට් අන්ඩර්ස්ටෑන්ඩ්.",translation:"සමාවෙන්න, මට තේරෙන්නේ නැහැ."},
+ {word:"Please show me.",reading:"ප්ලීස් ෂෝ මී.",meaning:"කරුණාකර මට පෙන්වන්න.",example:"Please show me how to do this.",exampleReading:"ප්ලීස් ෂෝ මී හවු ටු ඩූ දිස්.",translation:"කරුණාකර මේක කරන විදිහ මට පෙන්වන්න."},
+ {word:"Be careful.",reading:"බී කෙයර්ෆුල්.",meaning:"පරිස්සම් වෙන්න.",example:"Be careful with the hot coffee.",exampleReading:"බී කෙයර්ෆුල් විත් ද හොට් කොෆී.",translation:"උණු කෝපි එක ගැන පරිස්සම් වෙන්න."},
+ {word:"Finished",reading:"ෆිනිෂ්ට්",meaning:"අවසන් කළා",example:"I have finished this task.",exampleReading:"අයි හැව් ෆිනිෂ්ට් දිස් ටාස්ක්.",translation:"මම මේ කාර්යය අවසන් කළා."},
+ {word:"What should I do?",reading:"වොට් ෂුඩ් අයි ඩූ?",meaning:"මම මොකක්ද කරන්න ඕනේ?",example:"What should I do next?",exampleReading:"වොට් ෂුඩ් අයි ඩූ නෙක්ස්ට්?",translation:"ඊළඟට මම මොකක්ද කරන්න ඕනේ?"},
+ {word:"I am on my break.",reading:"අයි ඇම් ඔන් මයි බ්‍රේක්.",meaning:"මම දැන් විවේකයේ ඉන්නේ.",example:"I am on my break for ten minutes.",exampleReading:"අයි ඇම් ඔන් මයි බ්‍රේක් ෆෝර් ටෙන් මිනිට්ස්.",translation:"මම විනාඩි දහයක විවේකයක ඉන්නේ."}
+ ],
+ grammarTitle:"රැකියාවේදී භාවිත කරන ප්‍රයෝජනවත් රටා",
+ grammar:"තමන් ගැන කියන්න “I am ...” හෝ “I work ...” යොදන්න. උදව් ඉල්ලීමට “Can you help me ...?” කියන්න. උපදෙස් පැහැදිලි නැත්නම් “I don't understand” හෝ “Please show me” කියන්න. වැඩ මුරය ගැන “My shift starts at ...” භාවිත කරන්න.",
+ grammarTerms:[
+ {text:"I am new here.",reading:"අයි ඇම් නියූ හියර්.",meaning:"මම මෙතැනට අලුත්."},
+ {text:"My shift starts at eight.",reading:"මයි ෂිෆ්ට් ස්ටාර්ට්ස් ඇට් ඒට්.",meaning:"මගේ වැඩ මුරය අටට පටන් ගන්නවා."},
+ {text:"Can you help me?",reading:"කැන් යූ හෙල්ප් මී?",meaning:"ඔබට මට උදව් කරන්න පුළුවන්ද?"},
+ {text:"I don't understand.",reading:"අයි ඩෝන්ට් අන්ඩර්ස්ටෑන්ඩ්.",meaning:"මට තේරෙන්නේ නැහැ."},
+ {text:"Please show me.",reading:"ප්ලීස් ෂෝ මී.",meaning:"කරුණාකර මට පෙන්වන්න."}
+ ],
+ examples:[
+ {text:"I work in the kitchen.",reading:"අයි වර්ක් ඉන් ද කිචන්.",meaning:"මම මුළුතැන්ගෙයි වැඩ කරනවා."},
+ {text:"My colleague starts at seven.",reading:"මයි කොලීග් ස්ටාර්ට්ස් ඇට් සෙවන්.",meaning:"මගේ සහකාර සේවකයා හතට වැඩ පටන් ගන්නවා."},
+ {text:"Can you show me how to use this machine?",reading:"කැන් යූ ෂෝ මී හවු ටු යූස් දිස් මෂීන්?",meaning:"මේ යන්ත්‍රය භාවිත කරන විදිහ මට පෙන්වන්න පුළුවන්ද?"},
+ {text:"I have finished my work.",reading:"අයි හැව් ෆිනිෂ්ට් මයි වර්ක්.",meaning:"මම මගේ වැඩ අවසන් කරලා."}
+ ],
+ dialogue:[
+ {text:"Hello, I am new here. My name is Alex.",reading:"හෙලෝ, අයි ඇම් නියූ හියර්. මයි නේම් ඉස් ඇලෙක්ස්.",meaning:"හෙලෝ, මම මෙතැනට අලුත්. මගේ නම ඇලෙක්ස්."},
+ {text:"Nice to meet you. I am your colleague, Maria.",reading:"නයිස් ටු මීට් යූ. අයි ඇම් යෝර් කොලීග්, මරියා.",meaning:"ඔබ හමුවීම සතුටක්. මම ඔබේ සහකාර සේවිකාව, මරියා."},
+ {text:"What time does my shift start?",reading:"වොට් ටයිම් ඩස් මයි ෂිෆ්ට් ස්ටාර්ට්?",meaning:"මගේ වැඩ මුරය පටන් ගන්නේ කීයටද?"},
+ {text:"It starts at eight. I can show you what to do.",reading:"ඉට් ස්ටාර්ට්ස් ඇට් ඒට්. අයි කැන් ෂෝ යූ වොට් ටු ඩූ.",meaning:"එය අටට පටන් ගන්නවා. කළ යුතු දේ මට ඔබට පෙන්වන්න පුළුවන්."},
+ {text:"Thank you. I don't understand this machine yet.",reading:"තෑන්ක් යූ. අයි ඩෝන්ට් අන්ඩර්ස්ටෑන්ඩ් දිස් මෂීන් යෙට්.",meaning:"ස්තුතියි. මට තවම මේ යන්ත්‍රය තේරෙන්නේ නැහැ."},
+ {text:"No problem. I will help you.",reading:"නෝ ප්‍රොබ්ලම්. අයි විල් හෙල්ප් යූ.",meaning:"ප්‍රශ්නයක් නැහැ. මම ඔබට උදව් කරන්නම්."}
+ ],
+ practice:[
+ {prompt:"“මගේ වැඩ මුරය අටට පටන් ගන්නවා” යන වාක්‍යය තෝරන්න.",options:["My shift starts at eight.","My break is finished.","I work at home."],readings:["මයි ෂිෆ්ට් ස්ටාර්ට්ස් ඇට් ඒට්.","මයි බ්‍රේක් ඉස් ෆිනිෂ්ට්.","අයි වර්ක් ඇට් හෝම්."],answer:0,explanation:"My shift starts at ... යනු වැඩ මුරය පටන් ගන්නා වේලාව කියයි."},
+ {prompt:"උදව් ඉල්ලන නිවැරදි වාක්‍යය කුමක්ද?",options:["Can you help me?","Where is the station?","How much is this?"],readings:["කැන් යූ හෙල්ප් මී?","වෙයාර් ඉස් ද ස්ටේෂන්?","හවු මච් ඉස් දිස්?"],answer:0,explanation:"Can you help me? යනු උදව් ඉල්ලන ආචාරශීලී ප්‍රශ්නයකි."},
+ {prompt:"“මට තේරෙන්නේ නැහැ” කියන්නේ?",options:["I don't understand.","I am finished.","I am on my break."],readings:["අයි ඩෝන්ට් අන්ඩර්ස්ටෑන්ඩ්.","අයි ඇම් ෆිනිෂ්ට්.","අයි ඇම් ඔන් මයි බ්‍රේක්."],answer:0,explanation:"I don't understand යනු මට තේරෙන්නේ නැහැ."},
+ {prompt:"“කරුණාකර මට පෙන්වන්න” යන්න තෝරන්න.",options:["Please show me.","Be careful.","That's all, thank you."],readings:["ප්ලීස් ෂෝ මී.","බී කෙයර්ෆුල්.","දැට්ස් ඕල්, තෑන්ක් යූ."],answer:0,explanation:"Please show me යනු යමක් පෙන්වන ලෙස ආචාරශීලීව ඉල්ලීමයි."}
+ ]
+ }
 ];
