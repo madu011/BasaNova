@@ -8,7 +8,8 @@ export const SERBIAN_A1_LISTENING = [
  {prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Dva kilograma paradajza, molim.”",audio:"Dva kilograma paradajza, molim.",options:["තක්කාලි කිලෝ එකක්, කරුණාකර.","තක්කාලි කිලෝ දෙකක්, කරුණාකර.","අර්තාපල් කිලෝ දෙකක්, කරුණාකර."],readings:["යෙදාන් කිලොග්‍රාම් පරදායිසා.","ද්වා කිලොග්‍රාමා පරදායිසා, මොලීම්.","ද්වා කිලොග්‍රාමා ක්‍රොම්පීරා."],answer:1,meaning:"Dva kilograma paradajza, molim. = තක්කාලි කිලෝ දෙකක්, කරුණාකර."},
  {prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Možete li ponoviti?”",audio:"Možete li ponoviti?",options:["ඔබට නැවත කියන්න පුළුවන්ද?","මට විවේකයක් ඕනේ.","මම වැඩ අවසන් කළා."],readings:["මොෂෙතේ ලි පොනොවිතී?","ත්‍රෙබා මි පවුසා.","සාව්ර්ෂියො සාම්."],answer:0,meaning:"Možete li ponoviti? = ඔබට නැවත කියන්න පුළුවන්ද?"},
  {prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Ja sam kuvar.”",audio:"Ja sam kuvar.",options:["මම රියදුරෙක්.","මම ගුරුවරයෙක්.","මම කෝකියෙක්."],readings:["යා සාම් වොසාච්.","යා සාම් උචිතෙල්.","යා සාම් කුවාර්."],answer:2,meaning:"Ja sam kuvar. = මම කෝකියෙක්."},
- {prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Skrenite levo.”",audio:"Skrenite levo.",options:["දකුණට හැරෙන්න.","කෙළින්ම යන්න.","වමට හැරෙන්න."],readings:["ස්ක්‍රෙනිතෙ දෙස්නො.","ඉදිතෙ ප්‍රාවො.","ස්ක්‍රෙනිතෙ ලෙවො."],answer:2,meaning:"Skrenite levo. = වමට හැරෙන්න."}
+ {prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Skrenite levo.”",audio:"Skrenite levo.",options:["දකුණට හැරෙන්න.","කෙළින්ම යන්න.","වමට හැරෙන්න."],readings:["ස්ක්‍රෙනිතෙ දෙස්නො.","ඉදිතෙ ප්‍රාවො.","ස්ක්‍රෙනිතෙ ලෙවො."],answer:2,meaning:"Skrenite levo. = වමට හැරෙන්න."},
+ {prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Kada polazi autobus?”",audio:"Kada polazi autobus?",options:["බස් රථය පිටත් වෙන්නේ කීයටද?","බස් නැවතුම්පොළ කොහෙද?","ටිකට්පතක් කීයද?"],readings:["කාදා පොලාසි ආවුතොබුස්?","ග්දේ යේ ආවුතොබුස්කා ස්තානිත්සා?","කොලිකො කොෂ්තා කාර්තා?"],answer:0,meaning:"Kada polazi autobus? = බස් රථය පිටත් වෙන්නේ කීයටද."}
 ];
 
 export const SERBIAN_A1_MIXED_REVISION = [
@@ -19,5 +20,6 @@ export const SERBIAN_A1_MIXED_REVISION = [
  {audio:"Jedan kilogram jabuka.",reading:"යෙදාන් කිලොග්‍රාම් යාබුකා.",options:["ඇපල් කිලෝ දෙකක්.","ඇපල් කිලෝ එකක්.","තක්කාලි කිලෝ එකක්."],answer:1},
  {audio:"Radim ujutru.",reading:"රාදිම් උයුත්‍රු.",options:["මම රාත්‍රියේ වැඩ කරනවා.","මම උදේ වැඩ කරනවා.","මම හෙට නිවාඩුයි."],answer:1},
  {audio:"Ja sam vozač.",reading:"යා සාම් වොසාච්.",options:["මම ගුරුවරයෙක්.","මම කෝකියෙක්.","මම රියදුරෙක්."],answer:2},
- {audio:"Gde je autobuska stanica?",reading:"ග්දේ යේ ආවුතොබුස්කා ස්තානිත්සා?",options:["බස් නැවතුම්පොළ කොහෙද?","දුම්රිය ටිකට් එක කීයද?","මම බස් රථයෙන් යනවා."],answer:0}
+ {audio:"Gde je autobuska stanica?",reading:"ග්දේ යේ ආවුතොබුස්කා ස්තානිත්සා?",options:["බස් නැවතුම්පොළ කොහෙද?","දුම්රිය ටිකට් එක කීයද?","මම බස් රථයෙන් යනවා."],answer:0},
+ {audio:"Želim da zakažem termin.",reading:"ෂෙලිම් දා සාකාෂෙම් තෙර්මින්.",options:["මට හමුවීමක් සඳහා වේලාවක් වෙන් කරගන්න ඕනේ.","මට බස් ටිකට් එකක් ඕනේ.","මම අද වැඩ කරනවා."],answer:0}
 ];
