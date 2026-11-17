@@ -16,9 +16,9 @@ BasaNova is a Sinhala-first language-learning app for learning Serbian and Engli
 - English vocabulary deck now shows a Sinhala-script approximate reading for every example sentence, alongside the existing headword reading and separate word/example audio controls
 - Item-by-item Sinhala-script pronunciation guides and separate speaker controls for English A1 vocabulary, example sentences, grammar phrases, dialogue lines and quiz options
 - Sinhala pronunciation guides
-- Sinhala-to-Serbian translator panel with Sinhala pronunciation approximation, Serbian text-to-speech, copy-to-clipboard and recent phrase history (in-memory for the current app session)
+- Sinhala-to-Serbian translator panel with Sinhala pronunciation approximation, Serbian text-to-speech, copy-to-clipboard and recent phrase history (saved locally on the device)
 - Text-to-speech playback for words and example sentences
-- Local learning progress for the starter lesson set
+- Local on-device saving for lesson answers/checks, listening and mixed-revision results, learned vocabulary, XP/missions, theme, selected language and translator history
 - Home, Lessons, AI Teacher preview, and Progress tabs
 
 ## Project continuity
@@ -136,3 +136,9 @@ GitHub Actions runs dependency installation, Expo SDK compatibility checks, and 
 - Includes 11 vocabulary entries, six explicit Sinhala-reading grammar phrase cards, four examples, an eight-line dialogue and four comprehension questions with existing per-item Serbian audio and approximate Sinhala-script readings.
 - Extended Serbian listening discrimination with a hotel-room question and a service-problem sentence; extended mixed revision with two accommodation questions. Results remain session-only, not persisted mastery.
 - Sinhala-script pronunciations are approximate and should be checked with native Serbian audio.
+
+
+### Local progress saving
+- BasaNova uses AsyncStorage to restore and save learning state on the device under the local key `basanova-progress-v1`. This includes checked lesson and revision answers, learned vocabulary, XP and mission completion, theme, selected language and translator history.
+- This is local device storage only; it is not cloud backup or cross-device synchronization. Storage restore still needs physical Android device testing.
+- Serbian A1 currently contains ten structured starter lessons and matching listening/revision practice. Sinhala-script readings are approximate and should be reviewed by a Serbian native speaker.
