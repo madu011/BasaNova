@@ -67,10 +67,10 @@
 - No live API, Supabase migration, Google sign-in or Android device tests have been completed.
 
 ## Next task — resume here
-1. Continue Serbian A1 with an occupation/professions lesson and audit all target-language phrases for Sinhala pronunciation, meaning and audio coverage.
-2. Add Serbian A1 listening discrimination and mixed revision, matching the existing English A1 practice flow.
+1. Add Serbian A1 listening discrimination and a mixed revision test across the seven current lessons, matching the existing English A1 practice flow.
+2. Audit target-language phrases in Serbian A1 occupations and workplace lessons for Sinhala pronunciation, meaning and audio coverage; Sinhala-script readings are approximations.
 3. Design staged A1 revision with spaced review after local progress persistence is implemented. Current lesson checks are session-only and are not saved mastery.
-4. Improve pronunciation accuracy with native-speaker/audio review; Sinhala-script spellings are approximations.
+4. Continue the Serbian A1 curriculum with practical daily-life lessons, then expand English A1 beyond its six starter lessons.
 4. Generate a valid `package-lock.json` in a proper npm checkout and update CI to use it.
 5. Implement local persistence for progress, XP, missions, theme and translator history, then safe cloud sync after Supabase configuration.
 6. Replace emoji/text glyph icons with optimized static 3D-style PNG/WebP assets.
@@ -120,3 +120,6 @@
 
 
 - 2026-11-17: Added Serbian A1 lesson 6, “Workplace communication”, in `serbianLessons.js`. Covers workplace introductions, working hours and shifts, colleagues/supervisors, asking for help and requesting repeated instructions. Includes Sinhala meanings, existing renderer-generated Sinhala pronunciation approximations and Serbian TTS controls, examples, a dialogue and four quiz questions. Initial lesson commit `8543cc1815313627d4a666d080ad028d0f172552`; spelling correction commit `30f9e6c3031603649c374afa1ced95a0a88990ed`; README commit `9b23dfdfaf78821cccc0c6ea78387233e045c6eb`. No APK build or Android device test. CI for these latest commits is pending verification. Next: Serbian A1 occupations/professions lesson, then listening discrimination and mixed revision.
+
+
+- 2026-11-17: Added Serbian A1 lesson 7, “Occupations and professions”, in `serbianLessons.js`. Covers common occupations (waiter, cook, driver, shop assistant, worker, teacher, doctor, student and programmer), asking about a person's job, self-introduction and common masculine/feminine job-title pairs. Includes Sinhala meanings, existing renderer-generated Sinhala pronunciation approximations and Serbian TTS controls, examples, a dialogue and four quiz questions. Lesson commit `7f0d9d033e41261bf007e7abce1f0cc4550e9052`; README commit `2c250ee97aabdd7064f885f948a819d1e5b5dd78`. No APK build or Android device test. CI validation pending. Next: add Serbian A1 listening discrimination and mixed revision across the seven current lessons.
