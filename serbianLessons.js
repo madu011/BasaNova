@@ -524,7 +524,7 @@ export const SERBIAN_A1_LESSONS = [
       { word: "Radim ovde.", meaning: "මම මෙහි වැඩ කරනවා.", example: "Radim ovde svaki dan.", translation: "මම හැමදාම මෙහි වැඩ කරනවා." },
       { word: "Gde radite?", meaning: "ඔබ කොහෙද වැඩ කරන්නේ?", example: "Izvinite, gde radite?", translation: "සමාවෙන්න, ඔබ කොහෙද වැඩ කරන්නේ?" },
       { word: "Radno vreme", meaning: "වැඩ කරන වේලාව", example: "Koje je radno vreme?", translation: "වැඩ කරන වේලාව කුමක්ද?" },
-      { word: "Sm ena", meaning: "වැඩ මුරය", example: "Moja smena počinje u osam.", translation: "මගේ වැඩ මුරය අටට පටන් ගන්නවා." },
+      { word: "Smena", meaning: "වැඩ මුරය", example: "Moja smena počinje u osam.", translation: "මගේ වැඩ මුරය අටට පටන් ගන්නවා." },
       { word: "Kolega / koleginica", meaning: "සහකාර සේවකයා / සේවිකාව", example: "Moj kolega je ovde.", translation: "මගේ සහකාර සේවකයා මෙහි ඉන්නවා." },
       { word: "Šef / šefica", meaning: "ප්‍රධානියා (පිරිමි / කාන්තා)", example: "Gde je šef?", translation: "ප්‍රධානියා කොහෙද?" },
       { word: "Treba mi pomoć.", meaning: "මට උදව් අවශ්‍යයි.", example: "Treba mi pomoć, molim vas.", translation: "කරුණාකර මට උදව් අවශ්‍යයි." },
