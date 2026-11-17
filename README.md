@@ -55,3 +55,9 @@ Created by **Madhuranga Yasanath**.
 
 ## Automated validation
 GitHub Actions runs dependency installation, Expo SDK compatibility checks, and an Android JavaScript bundle export on pushes and pull requests to `main`. The workflow generates a temporary lockfile during CI because this repository does not yet contain a committed `package-lock.json`. A successful workflow run is required before treating the current source as build-verified.
+
+
+### English A1 lesson 3 — Numbers and time
+- Added a structured beginner lesson covering numbers, asking the time, o'clock, half past and quarter past.
+- Includes manually authored Sinhala-script readings, Sinhala meanings, example sentences, a short time-related dialogue, English TTS controls and four quiz questions.
+- This is a starter lesson, not a complete English A1 syllabus.
