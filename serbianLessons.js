@@ -64,5 +64,135 @@ export const SERBIAN_A1_LESSONS = [
       { prompt: "“ස්තුතියි” යන අර්ථය ඇති වචනය?", options: ["Hvala", "Molim", "Zdravo"], answer: 0, explanation: "“Hvala” යනු ස්තුතියි." },
       { prompt: "සමුගැනීමේ විධිමත් වචනය කුමක්ද?", options: ["Dobar dan", "Doviđenja", "Kako si?"], answer: 1, explanation: "“Doviđenja” යනු නැවත හමුවෙමු / සමුගැනීම." }
     ]
-  }
+  },
+  {
+  "id": "sr-a1-u2-l1",
+  "unit": "ආහාර සහ සාප්පු සවාරි",
+  "title": "පාඩම 3 · කැෆේ එකකින් ඇණවුම් කිරීම",
+  "objective": "කැෆේ එකකින් ආහාර හෝ පානයක් ඉල්ලීම, මිල විමසීම සහ බිල ඉල්ලීම.",
+  "vocabulary": [
+    {
+      "word": "Želim kafu.",
+      "meaning": "මට කෝපි එකක් ඕනේ.",
+      "example": "Dobar dan, želim kafu.",
+      "translation": "සුබ දවසක්, මට කෝපි එකක් ඕනේ."
+    },
+    {
+      "word": "Vodu, molim.",
+      "meaning": "වතුර එකක්, කරුණාකර.",
+      "example": "Vodu, molim.",
+      "translation": "වතුර එකක්, කරුණාකර."
+    },
+    {
+      "word": "Jelovnik",
+      "meaning": "ආහාර මෙනුව",
+      "example": "Mogu li da dobijem jelovnik?",
+      "translation": "මට ආහාර මෙනුව ලබාගන්න පුළුවන්ද?"
+    },
+    {
+      "word": "Koliko košta?",
+      "meaning": "කීයද? / මිල කීයද?",
+      "example": "Koliko košta kafa?",
+      "translation": "කෝපි එකක මිල කීයද?"
+    },
+    {
+      "word": "Račun, molim.",
+      "meaning": "බිල දෙන්න, කරුණාකර.",
+      "example": "Račun, molim.",
+      "translation": "බිල දෙන්න, කරුණාකර."
+    },
+    {
+      "word": "Još nešto?",
+      "meaning": "තව මොනවාහරිද?",
+      "example": "Želite li još nešto?",
+      "translation": "ඔබට තව මොනවාහරි අවශ්‍යද?"
+    },
+    {
+      "word": "Bez šećera",
+      "meaning": "සීනි නැතුව",
+      "example": "Kafu bez šećera, molim.",
+      "translation": "සීනි නැති කෝපි එකක්, කරුණාකර."
+    },
+    {
+      "word": "Ukusno",
+      "meaning": "රසවත්",
+      "example": "Hrana je veoma ukusna.",
+      "translation": "කෑම ඉතා රසවත්."
+    }
+  ],
+  "grammarTitle": "ව්‍යාකරණය · Želim + නාම පදය",
+  "grammar": "“Želim” යනු “මට අවශ්‍යයි / මට ඕනේ” යන අර්ථයයි. ඉල්ලීමක් කිරීමට “Želim kafu” වැනි සරල රටාවක් භාවිත කළ හැක. වඩාත් ආචාරශීලීව ඉල්ලීමට “molim” එකතු කරන්න. “Koliko košta?” යනු මිල අසන ප්‍රශ්නයයි. භාණ්ඩය අනුව Serbian නාම පදයේ අවසානය වෙනස් විය හැකි නිසා, මේ පාඩමේ වාක්‍ය රටා සම්පූර්ණයෙන් මතක තබාගන්න.",
+  "examples": [
+    {
+      "sr": "Želim čaj, molim.",
+      "si": "මට තේ එකක් ඕනේ, කරුණාකර."
+    },
+    {
+      "sr": "Koliko košta sendvič?",
+      "si": "සැන්ඩ්විච් එකක මිල කීයද?"
+    },
+    {
+      "sr": "Račun, molim.",
+      "si": "බිල දෙන්න, කරුණාකර."
+    }
+  ],
+  "dialogue": [
+    {
+      "sr": "Dobar dan! Šta želite?",
+      "si": "සුබ දවසක්! ඔබට මොනවාද අවශ්‍ය?"
+    },
+    {
+      "sr": "Želim kafu i vodu, molim.",
+      "si": "මට කෝපි එකක් සහ වතුර එකක් ඕනේ, කරුණාකර."
+    },
+    {
+      "sr": "Želite li još nešto?",
+      "si": "ඔබට තව මොනවාහරි අවශ්‍යද?"
+    },
+    {
+      "sr": "Ne, hvala. Koliko košta?",
+      "si": "නැහැ, ස්තුතියි. මිල කීයද?"
+    },
+    {
+      "sr": "Trista dinara.",
+      "si": "ඩිනාර් තුන්සියයයි."
+    },
+    {
+      "sr": "Izvolite. Račun, molim.",
+      "si": "මෙන්න. බිල දෙන්න, කරුණාකර."
+    }
+  ],
+  "practice": [
+    {
+      "prompt": "“මට කෝපි එකක් ඕනේ” කියන්නේ කුමක්ද?",
+      "options": [
+        "Želim kafu.",
+        "Račun, molim.",
+        "Koliko košta?"
+      ],
+      "answer": 0,
+      "explanation": "“Želim” යනු මට අවශ්‍යයි; “kafu” යනු කෝපි."
+    },
+    {
+      "prompt": "මිල අසන්න නිවැරදි ප්‍රශ්නය තෝරන්න.",
+      "options": [
+        "Još nešto?",
+        "Koliko košta?",
+        "Dobar dan."
+      ],
+      "answer": 1,
+      "explanation": "“Koliko košta?” යනු “කීයද?” යන ප්‍රශ්නයයි."
+    },
+    {
+      "prompt": "කැෆේ එකක බිල ඉල්ලන්නේ කොහොමද?",
+      "options": [
+        "Bez šećera.",
+        "Ukusno.",
+        "Račun, molim."
+      ],
+      "answer": 2,
+      "explanation": "“Račun, molim” යනු “බිල දෙන්න, කරුණාකර” යන්නයි."
+    }
+  ]
+}
 ];
