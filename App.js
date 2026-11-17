@@ -415,7 +415,7 @@ export default function App(){
     })}
     <View style={s.quizCard}>
      <Text style={s.lessonHeading}>🎧 Serbian A1 · එක් එක් පාඩමේ සවන් දීම</Text>
-     <Text style={s.sub}>පාඩම් 1–7 සඳහා Serbian හඬ අහලා නිවැරදි සිංහල අර්ථය තෝරන්න. අවශ්‍ය නම් වාක්‍යය සහ පිළිතුරු නැවත අහන්න.</Text>
+     <Text style={s.sub}>පාඩම් 1–10 සඳහා Serbian හඬ අහලා නිවැරදි සිංහල අර්ථය තෝරන්න. අවශ්‍ය නම් වාක්‍යය සහ පිළිතුරු නැවත අහන්න.</Text>
      {SERBIAN_A1_LESSONS.map((lesson,li)=>{
       const q=SERBIAN_A1_LISTENING[li];if(!q)return null;
       const key=lesson.id+"-listen";const selected=lessonAnswers[key];const checked=lessonChecked[key];
@@ -435,7 +435,7 @@ export default function App(){
      })}
     </View>
     <View style={s.quizCard}>
-     <Text style={s.lessonHeading}>🏆 Serbian A1 · පාඩම් 1–7 මිශ්‍ර නැවත පුහුණුව</Text>
+     <Text style={s.lessonHeading}>🏆 Serbian A1 · පාඩම් 1–10 මිශ්‍ර නැවත පුහුණුව</Text>
      <Text style={s.sub}>සියලු පාඩම්වලින් තෝරාගත් වාක්‍ය අහන්න. සිංහල අකුරෙන් කියන විදිහ බලලා, නිවැරදි තේරුම තෝරන්න.</Text>
      {SERBIAN_A1_MIXED_REVISION.map((q,qi)=>{
       const key="serbian-a1-mixed-"+qi;const selected=lessonAnswers[key];const checked=lessonChecked[key];
@@ -453,7 +453,7 @@ export default function App(){
        {checked?<Text style={s.sub}>{selected===q.answer?"නිවැරදියි! ✓ ":"නැවත පුහුණු වෙමු. "}{q.options[q.answer]}</Text>:<TouchableOpacity disabled={selected===undefined} onPress={()=>setLessonChecked(v=>({...v,[key]:true}))} style={[s.action,selected===undefined&&{opacity:0.45}]}><Text style={s.actionText}>පිළිතුර පරීක්ෂා කරන්න</Text></TouchableOpacity>}
       </View>;
      })}
-     <Text style={s.sub}>මෙම listening සහ revision ප්‍රතිඵල දැනට මේ සැසිය තුළ පමණයි. යෙදුම වසා නැවත විවෘත කළ විට සුරැකෙන්නේ නැහැ.</Text>
+     <Text style={s.sub}>මෙම listening සහ revision පිළිතුරු ඔබගේ දුරකථනයේ ස්වයංක්‍රීයව සුරැකේ.</Text>
     </View>
     </View>:<View style={s.panel}>
     <Text style={s.eyebrow}>ENGLISH · A1 · STRUCTURED LESSONS</Text>
@@ -522,7 +522,7 @@ export default function App(){
        {checked?<Text style={s.sub}>{selected===q.answer?"නිවැරදියි! ✓ ":"නැවත පුහුණු වෙමු. "}{q.options[q.answer]}</Text>:<TouchableOpacity disabled={selected===undefined} onPress={()=>setLessonChecked(v=>({...v,[key]:true}))} style={[s.action,selected===undefined&&{opacity:0.45}]}><Text style={s.actionText}>පිළිතුර පරීක්ෂා කරන්න</Text></TouchableOpacity>}
       </View>;
      })}
-     <Text style={s.sub}>මෙම ප්‍රශ්නවල ප්‍රතිඵල දැනට මේ සැසිය තුළ පමණයි; ස්ථිරව සුරැකීම තවම එක් කර නැහැ.</Text>
+     <Text style={s.sub}>මෙම ප්‍රශ්නවල පිළිතුරු සහ ප්‍රගතිය ඔබගේ දුරකථනයේ ස්වයංක්‍රීයව සුරැකේ.</Text>
     </View>
    </View>}
    <View style={s.panel}><Text style={s.eyebrow}>📖 {language.toUpperCase()} · BEGINNER</Text><Text style={s.word}>{current.word}</Text><Text style={s.sound}>සිංහල උච්චාරණය: {language==="Serbian"?pronounceSinhala(current.word):current.sound}</Text><Text style={s.meaning}>{current.meaning}</Text>{language==="Serbian"&&<Text style={s.sound}>කියන විදිහ: {pronounceSinhala(current.word)}</Text>}<Action onPress={()=>speak(current.word,language)}>🔊 {language} හඬ අහන්න</Action><View style={s.example}><Text style={s.sub}>💬 උදාහරණ වාක්‍යය</Text><Text style={s.exampleWord}>{current.example}</Text>{language==="Serbian"&&<Text style={s.sound}>සිංහලෙන් කියන විදිහ: {pronounceSinhala(current.example)}</Text>}{language==="English"&&<Text style={s.sound}>සිංහල අකුරෙන් උච්චාරණය (ආසන්නව): {pronounceEnglishSinhala(current.example)}</Text>}<Text style={s.sub}>{current.translation}</Text><TouchableOpacity onPress={()=>speak(current.example,language)}><Text style={s.link}>▶ {language} වාක්‍ය හඬ අහන්න</Text></TouchableOpacity></View><Action onPress={mark}>මම මේක ඉගෙනගත්තා ✓</Action><Action secondary onPress={next}>ඊළඟ වචනය →</Action></View><View style={s.panel}><Text style={s.cardTitle}>🗺️ සම්පූර්ණ {language} පාඨමාලා මාර්ගසටහන</Text><Text style={s.sub}>A1 සිට C2 දක්වා සියලු මට්ටම් සැලසුම් කර ඇත. පහත දැක්වෙන්නේ පාඩම් අන්තර්ගතය සකස් කරන මාර්ගසටහනයි; සියලු ඒකක තවම සම්පූර්ණ කර නැත.</Text>{COURSE_LEVELS.map(level=><View key={level.id} style={s.soundCard}><View style={s.soundHead}><Text style={s.soundLetters}>{LEVEL_LABELS[level.id]}</Text><Text style={s.soundName}>{level.title}</Text></View><Text style={s.sub}>{level.goal}</Text>{level.units.map((unit,i)=><Text key={unit} style={s.sub}>{i+1}. {unit}</Text>)}</View>)}<Text style={s.cardTitle}>🧩 සෑම පාඩමකම ඉගෙනුම් ක්‍රමය</Text>{LESSON_METHOD.map((item,i)=><Text key={item} style={s.sub}>{item}</Text>)}</View>
