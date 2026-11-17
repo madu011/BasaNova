@@ -30,7 +30,17 @@ const courses={
   ["Koliko košta?","කීයද? / මිල කීයද?","කොලිකො කොෂ්තා","Koliko košta ova kafa?","මේ කෝපි එක කීයද?"],
   ["Gde je...?","... කොහෙද?","ග්දේ යේ","Gde je autobuska stanica?","බස් නැවතුම්පොළ කොහෙද?"],
   ["Voda","වතුර","වොදා","Molim vas, jednu vodu.","කරුණාකර වතුර එකක් දෙන්න."],
-  ["Račun, molim","බිල දෙන්න","රාචූන්, මොලීම්","Račun, molim.","බිල දෙන්න."]
+  ["Račun, molim","බිල දෙන්න","රාචූන්, මොලීම්","Račun, molim.","බිල දෙන්න."],
+  ["Koliko je sati?","වෙලාව කීයද?","කොලිකො යේ සාති","Izvinite, koliko je sati?","සමාවෙන්න, වෙලාව කීයද?"],
+  ["Govorite sporije, molim","කරුණාකර හෙමින් කතා කරන්න","ගොවොරිතේ ස්පොරියේ, මොලීම්","Govorite sporije, molim.","කරුණාකර හෙමින් කතා කරන්න."],
+  ["Možete li ponoviti?","නැවත කියන්න පුළුවන්ද?","මොෂෙතේ ලි පොනොවිතී","Izvinite, možete li ponoviti?","සමාවෙන්න, නැවත කියන්න පුළුවන්ද?"],
+  ["Razumem","මට තේරෙනවා","රාසුමේම්","Da, razumem.","ඔව්, මට තේරෙනවා."],
+  ["Ne znam","මම දන්නේ නැහැ","නේ ස්නාම්","Izvinite, ne znam.","සමාවෙන්න, මම දන්නේ නැහැ."],
+  ["Gde je toalet?","වැසිකිළිය කොහෙද?","ග්දේ යේ තොඅලෙත්","Gde je toalet, molim?","වැසිකිළිය කොහෙද, කරුණාකර?"],
+  ["Treba mi pomoć","මට උදව් අවශ්‍යයි","ත්‍රෙබා මි පොමොච්","Treba mi pomoć, molim vas.","මට උදව් අවශ්‍යයි, කරුණාකර."],
+  ["Radim danas","මම අද වැඩ කරනවා","රාදිම් දනාස්","Danas radim do šest.","මම අද හය වෙනකම් වැඩ කරනවා."],
+  ["Završio sam","මම ඉවර කළා (පිරිමි කථිකයා)","සාව්ර්ෂියො සාම්","Završio sam posao.","මම වැඩේ ඉවර කළා."],
+  ["Gde treba da idem?","මම කොහෙටද යන්න ඕනේ?","ග්දේ ත්‍රෙබා දා ඉදෙම්","Gde treba da idem sada?","මම දැන් කොහෙටද යන්න ඕනේ?"]
  ].map(([word,meaning,sound,example,translation])=>({word,meaning,sound,example,translation})),
  English:[
   ["Hello","ආයුබෝවන් / හෙලෝ","හෙලෝ","Hello, how are you?","හෙලෝ, ඔයාට කොහොමද?"],
