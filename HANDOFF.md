@@ -48,7 +48,7 @@
 - Commit `7c21c17696fb228b99a1a9c70e1160071d7edbc9` integrates these lessons into the Learn tab and adds quiz selection/answer feedback UI. Serbian A1 lessons display when Serbian is selected; English currently shows an honest in-progress notice rather than falsely claiming completed lesson content.
 - README update commit: `12e6ce42eed048572a03999a55fa81c32dbf45ce`.
 - The lesson code has been source-edited and committed; CI for the latest App.js integration is not yet confirmed. No physical-device testing has been done.
-- Current starter decks contain 50 Serbian and 50 English vocabulary entries. These remain separate from the two new structured Serbian A1 lessons.
+- Vocabulary now contains 100 Serbian and 100 English entries (200 total): the original 50-per-language deck plus 50 new themed A1 entries per language in `vocabularyPacks.js`. Categories include numbers, weekdays, meals/food, everyday objects, shopping and directions. The app appends these packs to each language deck.
 - Progress, XP, missions, theme and translator history remain in-memory only; they reset on app restart. No live Google login or Supabase cloud backup exists.
 - No committed `package-lock.json`; CI currently generates a temporary lockfile.
 - Custom static 3D-style icon assets are not integrated; current UI still includes emoji/text glyphs.
@@ -62,7 +62,7 @@
 
 ## Next task — resume here
 1. Check CI for the structured Serbian A1 lesson integration and fix any confirmed syntax/export problems.
-2. Expand Serbian A1 with further complete lessons (numbers/time, food/café, directions/transport, shopping and workplace), each with vocabulary, Sinhala explanations, grammar, dialogues, audio and quizzes.
+2. Continue expanding vocabulary in verified batches until the combined Serbian + English deck exceeds 1,000 entries; keep pronunciation, Sinhala meaning and contextual examples accurate. Then add structured lessons for the same themes.
 3. Create equivalent structured English A1 lessons; keep Serbian and English progress separate.
 4. Generate a valid `package-lock.json` in a proper npm checkout and update CI to use it.
 5. Implement local persistence for progress, XP, missions, theme and translator history, then safe cloud sync after Supabase configuration.
@@ -70,6 +70,7 @@
 7. Test translator, clipboard, TTS, lessons, scrolling and offline behavior on Android; only claim APK success after an actual native build and install.
 
 ## Session log
+- Latest continuation: `vocabularyPacks.js` commit `d3276d840e97f73dca52d3a68cf771a307a333df` adds 50 Serbian + 50 English A1 entries; `App.js` commit `debc340b837375476010dd3ccfea1786789e6b24` integrates them, bringing the decks to 100 entries per language (200 total). README records the new total. Android bundle CI for these commits is pending; no device/APK test.
 - Latest continuation: `serbianLessons.js` commit `6ef36686b8ebc88bc1ccf41e8dc7ded85be7e3b9` adds two structured Serbian A1 lessons; `App.js` commit `7c21c17696fb228b99a1a9c70e1160071d7edbc9` integrates vocabulary, grammar, dialogues, TTS and interactive quizzes in Learn. README commit `12e6ce42eed048572a03999a55fa81c32dbf45ce` documents the feature. CI pending; no device/APK test.
 - Latest continuation: commit `feb39a60bfe69a41a12fbf6d3eea18d67f74b36a` added 30 practical Serbian and 30 English vocabulary entries (50 each total). README commit `16b6db9f5bd658fd8f0ea09b2198a96a6344f51a` documents the expanded decks. The new code's CI result is pending verification; no device/APK test yet.
 - Latest continuation: CI runs `44106280204` and `44106299701` passed Android JS bundle export. Commit `6678bcdcb62c4e65a1ddeff9976b91cd1512290c` adds 10 Serbian A1 practical phrases; README commit `8671b76961a4a232e7f0566cfd30d6495a924b05` updates feature documentation. Device tests and native APK build remain outstanding.
