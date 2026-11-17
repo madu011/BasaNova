@@ -42,6 +42,7 @@
 - AI Teacher is currently only a preview; do not imply it is a live AI tutor or speech-recognition feature until implemented.
 
 ## Current verified state
+- Commit `14eb17d25fa84e68c21e8bcfb7262c55f2fabc87`: added `supabase/migrations/20261117000100_cloud_progress.sql` defining profiles, Serbian/English progress, daily missions and quiz attempts with per-user Row Level Security. Migration is committed but has not been applied to a live Supabase project or SQL-tested.
 - `CLOUD_SYNC.md` defines the chosen architecture: Google sign-in through Supabase Auth with private per-user Supabase Postgres progress storage, RLS isolation, local offline queue and restore on reinstall/device change. This is documentation only; no live auth or cloud sync exists yet.
 - Commit `2cec16662241b277a5c1cd7f3ceb6c2acb9c0560`: hoisted daily mission labels to module scope and removed an accidental literal escaped-newline sequence from the App component's static metadata block. This reduces per-render allocation and repairs a confirmed source-text defect; no build test has yet been run.
 - Commit `f70430d4605b184a436bbe61d77a8a34468d6d38`: enabled Android clipped-subview scrolling and hid scroll indicators on the two main ScrollViews.
@@ -74,7 +75,7 @@
 
 ## Next task — resume here
 1. Configure a Supabase project and Google OAuth provider, then provide only the Supabase project URL and publishable/anon key via secure app environment settings (never request service-role keys or OAuth secrets in chat).
-2. Implement Expo-compatible Google sign-in, Supabase Auth session persistence, SQL migrations and RLS policies following `CLOUD_SYNC.md`.
+2. Apply and test `supabase/migrations/20261117000100_cloud_progress.sql` in the owner's Supabase project. Then implement Expo-compatible Google sign-in, Supabase Auth session persistence and client integration following `CLOUD_SYNC.md`.
 3. Add cloud progress load/save and offline queue; verify restore after reinstall and cross-account data isolation.
 4. Add optimized static 3D icon assets (small transparent PNG/WebP files) and replace emoji/text glyph navigation/icons without adding a heavy runtime 3D dependency. A generated 3×3 icon concept sheet exists only as a visual reference and has not been integrated.
 5. Validate scroll clipping and image rendering on a low-end Android device; disable clipping on any screen where it causes missing content.
