@@ -106,39 +106,11 @@ export const SERBIAN_VOCAB_PACK_5 = [
     "translation": "අද අපේ ගෙදර අමුත්තෙක් ඉන්නවා."
   },
   {
-    "word": "Srećan",
-    "meaning": "සතුටින්",
-    "sound": "ස්රෙචන්",
-    "example": "Danas sam srećan.",
-    "translation": "අද මම සතුටින්."
-  },
-  {
     "word": "Tužan",
     "meaning": "දුකින්",
     "sound": "තුෂන්",
     "example": "On je malo tužan.",
     "translation": "එයා ටිකක් දුකින්."
-  },
-  {
-    "word": "Umoran",
-    "meaning": "මහන්සියි",
-    "sound": "උමොරන්",
-    "example": "Posle posla sam umoran.",
-    "translation": "වැඩෙන් පස්සේ මට මහන්සියි."
-  },
-  {
-    "word": "Gladан",
-    "meaning": "බඩගිනියි",
-    "sound": "ග්ලාදන්",
-    "example": "Gladan sam.",
-    "translation": "මට බඩගිනියි."
-  },
-  {
-    "word": "Žedan",
-    "meaning": "පිපාසයයි",
-    "sound": "ෂෙදන්",
-    "example": "Žedan sam posle šetnje.",
-    "translation": "ඇවිදීමෙන් පස්සේ මට පිපාසයයි."
   },
   {
     "word": "Ljutit",
@@ -181,13 +153,6 @@ export const SERBIAN_VOCAB_PACK_5 = [
     "sound": "ස්ද්‍රාව්",
     "example": "Želim da budem zdrav.",
     "translation": "මට නිරෝගීව ඉන්න ඕනේ."
-  },
-  {
-    "word": "Kuvati",
-    "meaning": "උයනවා",
-    "sound": "කුවාති",
-    "example": "Volim da kuvam.",
-    "translation": "මම උයන්න කැමතියි."
   },
   {
     "word": "Peći",
@@ -239,27 +204,6 @@ export const SERBIAN_VOCAB_PACK_5 = [
     "translation": "මල්වලින් ලස්සන සුවඳක් එනවා."
   },
   {
-    "word": "Doručak",
-    "meaning": "උදේ ආහාරය",
-    "sound": "දොරූචක්",
-    "example": "Doručak je spreman.",
-    "translation": "උදේ කෑම සූදානම්."
-  },
-  {
-    "word": "Ručak",
-    "meaning": "දවල් ආහාරය",
-    "sound": "රූචක්",
-    "example": "Ručak jedemo u dva.",
-    "translation": "අපි දවල් කෑම දෙකට කනවා."
-  },
-  {
-    "word": "Večera",
-    "meaning": "රාත්‍රී ආහාරය",
-    "sound": "වෙචෙරා",
-    "example": "Večera je ukusna.",
-    "translation": "රාත්‍රී කෑම රසයි."
-  },
-  {
     "word": "Supa",
     "meaning": "සුප්",
     "sound": "සුපා",
@@ -281,34 +225,6 @@ export const SERBIAN_VOCAB_PACK_5 = [
     "translation": "මම උදේට කිරි බොනවා."
   },
   {
-    "word": "Sir",
-    "meaning": "චීස්",
-    "sound": "සීර්",
-    "example": "Ovaj sir je ukusan.",
-    "translation": "මේ චීස් රසයි."
-  },
-  {
-    "word": "Jaje",
-    "meaning": "බිත්තරය",
-    "sound": "යායෙ",
-    "example": "Jedem jedno jaje.",
-    "translation": "මම බිත්තරයක් කනවා."
-  },
-  {
-    "word": "Pirinač",
-    "meaning": "හාල් / බත්",
-    "sound": "පිරිනාච්",
-    "example": "Pirinač je gotov.",
-    "translation": "බත් සූදානම්."
-  },
-  {
-    "word": "Piletina",
-    "meaning": "කුකුළු මස්",
-    "sound": "පිලෙතිනා",
-    "example": "Danas kuvam piletinu.",
-    "translation": "අද මම කුකුළු මස් උයනවා."
-  },
-  {
     "word": "Povrće",
     "meaning": "එළවළු",
     "sound": "පොව්ර්චෙ",
@@ -321,20 +237,6 @@ export const SERBIAN_VOCAB_PACK_5 = [
     "sound": "වොචෙ",
     "example": "Voće je zdravo.",
     "translation": "පලතුරු සෞඛ්‍යයට හොඳයි."
-  },
-  {
-    "word": "So",
-    "meaning": "ලුණු",
-    "sound": "සො",
-    "example": "Dodaj malo soli.",
-    "translation": "ලුණු ටිකක් දාන්න."
-  },
-  {
-    "word": "Šećer",
-    "meaning": "සීනි",
-    "sound": "ෂෙචෙර්",
-    "example": "Ne stavljam šećer u čaj.",
-    "translation": "මම තේ එකට සීනි දාන්නේ නැහැ."
   },
   {
     "word": "Ulje",
@@ -458,39 +360,11 @@ export const ENGLISH_VOCAB_PACK_5 = [
     "translation": "අද අපේ ගෙදර අමුත්තෙක් ඉන්නවා."
   },
   {
-    "word": "Happy",
-    "meaning": "සතුටින්",
-    "sound": "හැපි",
-    "example": "I am happy today.",
-    "translation": "අද මම සතුටින්."
-  },
-  {
     "word": "Sad",
     "meaning": "දුකින්",
     "sound": "සැඩ්",
     "example": "He is a little sad.",
     "translation": "එයා ටිකක් දුකින්."
-  },
-  {
-    "word": "Tired",
-    "meaning": "මහන්සියි",
-    "sound": "ටයර්ඩ්",
-    "example": "I am tired after work.",
-    "translation": "වැඩෙන් පස්සේ මට මහන්සියි."
-  },
-  {
-    "word": "Hungry",
-    "meaning": "බඩගිනියි",
-    "sound": "හන්ග්‍රි",
-    "example": "I am hungry.",
-    "translation": "මට බඩගිනියි."
-  },
-  {
-    "word": "Thirsty",
-    "meaning": "පිපාසයයි",
-    "sound": "තර්ස්ටි",
-    "example": "I am thirsty after the walk.",
-    "translation": "ඇවිදීමෙන් පස්සේ මට පිපාසයයි."
   },
   {
     "word": "Angry",
@@ -533,13 +407,6 @@ export const ENGLISH_VOCAB_PACK_5 = [
     "sound": "හෙල්ති",
     "example": "I want to be healthy.",
     "translation": "මට නිරෝගීව ඉන්න ඕනේ."
-  },
-  {
-    "word": "Cook",
-    "meaning": "උයනවා",
-    "sound": "කුක්",
-    "example": "I like to cook.",
-    "translation": "මම උයන්න කැමතියි."
   },
   {
     "word": "Bake",
@@ -591,27 +458,6 @@ export const ENGLISH_VOCAB_PACK_5 = [
     "translation": "මල්වලින් ලස්සන සුවඳක් එනවා."
   },
   {
-    "word": "Breakfast",
-    "meaning": "උදේ ආහාරය",
-    "sound": "බ්‍රෙක්ෆස්ට්",
-    "example": "Breakfast is ready.",
-    "translation": "උදේ කෑම සූදානම්."
-  },
-  {
-    "word": "Lunch",
-    "meaning": "දවල් ආහාරය",
-    "sound": "ලන්ච්",
-    "example": "We eat lunch at two.",
-    "translation": "අපි දවල් කෑම දෙකට කනවා."
-  },
-  {
-    "word": "Dinner",
-    "meaning": "රාත්‍රී ආහාරය",
-    "sound": "ඩිනර්",
-    "example": "Dinner is delicious.",
-    "translation": "රාත්‍රී කෑම රසයි."
-  },
-  {
     "word": "Soup",
     "meaning": "සුප්",
     "sound": "සූප්",
@@ -633,34 +479,6 @@ export const ENGLISH_VOCAB_PACK_5 = [
     "translation": "මම උදේට කිරි බොනවා."
   },
   {
-    "word": "Cheese",
-    "meaning": "චීස්",
-    "sound": "චීස්",
-    "example": "This cheese is tasty.",
-    "translation": "මේ චීස් රසයි."
-  },
-  {
-    "word": "Egg",
-    "meaning": "බිත්තරය",
-    "sound": "එග්",
-    "example": "I eat one egg.",
-    "translation": "මම බිත්තරයක් කනවා."
-  },
-  {
-    "word": "Rice",
-    "meaning": "හාල් / බත්",
-    "sound": "රයිස්",
-    "example": "The rice is ready.",
-    "translation": "බත් සූදානම්."
-  },
-  {
-    "word": "Chicken",
-    "meaning": "කුකුළු මස්",
-    "sound": "චිකන්",
-    "example": "I am cooking chicken today.",
-    "translation": "අද මම කුකුළු මස් උයනවා."
-  },
-  {
     "word": "Vegetables",
     "meaning": "එළවළු",
     "sound": "වෙජිටබල්ස්",
@@ -673,20 +491,6 @@ export const ENGLISH_VOCAB_PACK_5 = [
     "sound": "ෆෘට්",
     "example": "Fruit is healthy.",
     "translation": "පලතුරු සෞඛ්‍යයට හොඳයි."
-  },
-  {
-    "word": "Salt",
-    "meaning": "ලුණු",
-    "sound": "සෝල්ට්",
-    "example": "Add a little salt.",
-    "translation": "ලුණු ටිකක් දාන්න."
-  },
-  {
-    "word": "Sugar",
-    "meaning": "සීනි",
-    "sound": "ෂුගර්",
-    "example": "I do not put sugar in tea.",
-    "translation": "මම තේ එකට සීනි දාන්නේ නැහැ."
   },
   {
     "word": "Oil",
