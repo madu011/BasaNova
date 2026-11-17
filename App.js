@@ -452,6 +452,31 @@ export default function App(){
       </View>}
      </View>;
     })}
+    <View style={s.quizCard}>
+     <Text style={s.lessonHeading}>🏆 English A1 · මිශ්‍ර නැවත පුහුණුව</Text>
+     <Text style={s.sub}>පාඩම් 1–6 එකට එකතු කළ පුහුණුව. ඉංග්‍රීසි වාක්‍යය අහලා නිවැරදි සිංහල තේරුම තෝරන්න.</Text>
+     {[
+      {audio:"Good morning. My name is Anna.",reading:"ගුඩ් මෝර්නිං. මයි නේම් ඉස් ඇනා.",answer:0,options:["සුබ උදෑසනක්. මගේ නම ආනා.","සුබ රාත්‍රියක්. මම හොඳින්.","මට කෝපි එකක් ඕනේ."]},
+      {audio:"I am fine, thank you.",reading:"අයි ඇම් ෆයින්, තෑන්ක් යූ.",answer:1,options:["මට උදව් කරන්න පුළුවන්ද?","මම හොඳින්, ස්තුතියි.","මගේ වැඩ මුරය අටට පටන් ගන්නවා."]},
+      {audio:"What time is it?",reading:"වොට් ටයිම් ඉස් ඉට්?",answer:2,options:["මේකේ මිල කීයද?","ඔබට කොහොමද?","දැන් වෙලාව කීයද?"]},
+      {audio:"How much is this?",reading:"හවු මච් ඉස් දිස්?",answer:0,options:["මේකේ මිල කීයද?","දුම්රිය ස්ථානය කොහෙද?","මට වතුර එකක් ඕනේ."]},
+      {audio:"Turn left at the station.",reading:"ටර්න් ලෙෆ්ට් ඇට් ද ස්ටේෂන්.",answer:1,options:["දුම්රිය ස්ථානයේදී දකුණට හැරෙන්න.","දුම්රිය ස්ථානයේදී වමට හැරෙන්න.","කෙළින්ම ගෙදර යන්න."]},
+      {audio:"Can you help me?",reading:"කැන් යූ හෙල්ප් මී?",answer:2,options:["මම මෙතැනට අලුත්.","මට තේරෙන්නේ නැහැ.","ඔබට මට උදව් කරන්න පුළුවන්ද?"]}
+     ].map((q,qi)=>{
+      const key="english-a1-mixed-"+qi;const selected=lessonAnswers[key];const checked=lessonChecked[key];
+      return <View key={key} style={s.quizCard}>
+       <Text style={s.sub}>{qi+1}. හඬ අසා නිවැරදි තේරුම තෝරන්න</Text>
+       <Text style={s.lessonSerbian}>{q.audio}</Text>
+       <Text style={s.sound}>සිංහල අකුරෙන්: {q.reading}</Text>
+       <TouchableOpacity onPress={()=>speak(q.audio,"English")} style={s.action}><Text style={s.actionText}>🔊 නැවත අහන්න</Text></TouchableOpacity>
+       {q.options.map((option,oi)=><TouchableOpacity key={option} disabled={!!checked} onPress={()=>setLessonAnswers(v=>({...v,[key]:oi}))} style={[s.quizOption,selected===oi&&s.quizSelected,checked&&oi===q.answer&&s.quizCorrect,checked&&selected===oi&&selected!==q.answer&&s.quizWrong]}>
+        <Text style={s.quizOptionText}>{String.fromCharCode(65+oi)}. {option}</Text>
+       </TouchableOpacity>)}
+       {checked?<Text style={s.sub}>{selected===q.answer?"නිවැරදියි! ✓ ":"නැවත පුහුණු වෙමු. "}{q.options[q.answer]}</Text>:<TouchableOpacity disabled={selected===undefined} onPress={()=>setLessonChecked(v=>({...v,[key]:true}))} style={[s.action,selected===undefined&&{opacity:0.45}]}><Text style={s.actionText}>පිළිතුර පරීක්ෂා කරන්න</Text></TouchableOpacity>}
+      </View>;
+     })}
+     <Text style={s.sub}>මෙම ප්‍රශ්නවල ප්‍රතිඵල දැනට මේ සැසිය තුළ පමණයි; ස්ථිරව සුරැකීම තවම එක් කර නැහැ.</Text>
+    </View>
    </View>}
    <View style={s.panel}><Text style={s.eyebrow}>📖 {language.toUpperCase()} · BEGINNER</Text><Text style={s.word}>{current.word}</Text><Text style={s.sound}>සිංහල උච්චාරණය: {language==="Serbian"?pronounceSinhala(current.word):current.sound}</Text><Text style={s.meaning}>{current.meaning}</Text>{language==="Serbian"&&<Text style={s.sound}>කියන විදිහ: {pronounceSinhala(current.word)}</Text>}<Action onPress={()=>speak(current.word,language)}>🔊 {language} හඬ අහන්න</Action><View style={s.example}><Text style={s.sub}>💬 උදාහරණ වාක්‍යය</Text><Text style={s.exampleWord}>{current.example}</Text>{language==="Serbian"&&<Text style={s.sound}>සිංහලෙන් කියන විදිහ: {pronounceSinhala(current.example)}</Text>}{language==="English"&&<Text style={s.sound}>සිංහල අකුරෙන් උච්චාරණය (ආසන්නව): {pronounceEnglishSinhala(current.example)}</Text>}<Text style={s.sub}>{current.translation}</Text><TouchableOpacity onPress={()=>speak(current.example,language)}><Text style={s.link}>▶ {language} වාක්‍ය හඬ අහන්න</Text></TouchableOpacity></View><Action onPress={mark}>මම මේක ඉගෙනගත්තා ✓</Action><Action secondary onPress={next}>ඊළඟ වචනය →</Action></View><View style={s.panel}><Text style={s.cardTitle}>🗺️ සම්පූර්ණ {language} පාඨමාලා මාර්ගසටහන</Text><Text style={s.sub}>A1 සිට C2 දක්වා සියලු මට්ටම් සැලසුම් කර ඇත. පහත දැක්වෙන්නේ පාඩම් අන්තර්ගතය සකස් කරන මාර්ගසටහනයි; සියලු ඒකක තවම සම්පූර්ණ කර නැත.</Text>{COURSE_LEVELS.map(level=><View key={level.id} style={s.soundCard}><View style={s.soundHead}><Text style={s.soundLetters}>{LEVEL_LABELS[level.id]}</Text><Text style={s.soundName}>{level.title}</Text></View><Text style={s.sub}>{level.goal}</Text>{level.units.map((unit,i)=><Text key={unit} style={s.sub}>{i+1}. {unit}</Text>)}</View>)}<Text style={s.cardTitle}>🧩 සෑම පාඩමකම ඉගෙනුම් ක්‍රමය</Text>{LESSON_METHOD.map((item,i)=><Text key={item} style={s.sub}>{item}</Text>)}</View>
 
