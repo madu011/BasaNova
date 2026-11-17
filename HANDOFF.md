@@ -67,9 +67,10 @@
 - No live API, Supabase migration, Google sign-in or Android device tests have been completed.
 
 ## Next task — resume here
-1. Audit remaining Serbian content and improve pronunciation accuracy. Then design a staged A1 revision flow with spaced review and persisted progress after local storage is implemented.
-2. Continue with communication and occupation lessons, then begin structured English A1 lessons with Sinhala teaching support.
-3. Improve lesson learning flow with staged practice, listening discrimination and revision; current accordion only reduces scrolling and reports how many quiz questions have been checked (not mastered or persisted).
+1. Continue Serbian A1 with an occupation/professions lesson and audit all target-language phrases for Sinhala pronunciation, meaning and audio coverage.
+2. Add Serbian A1 listening discrimination and mixed revision, matching the existing English A1 practice flow.
+3. Design staged A1 revision with spaced review after local progress persistence is implemented. Current lesson checks are session-only and are not saved mastery.
+4. Improve pronunciation accuracy with native-speaker/audio review; Sinhala-script spellings are approximations.
 4. Generate a valid `package-lock.json` in a proper npm checkout and update CI to use it.
 5. Implement local persistence for progress, XP, missions, theme and translator history, then safe cloud sync after Supabase configuration.
 6. Replace emoji/text glyph icons with optimized static 3D-style PNG/WebP assets.
@@ -116,3 +117,6 @@
 
 ---
 **Continuity rule:** Every meaningful future code change must be accompanied by an update to this file. This is how work should resume at the exact stopping point even when the conversation changes.
+
+
+- 2026-11-17: Added Serbian A1 lesson 6, “Workplace communication”, in `serbianLessons.js`. Covers workplace introductions, working hours and shifts, colleagues/supervisors, asking for help and requesting repeated instructions. Includes Sinhala meanings, existing renderer-generated Sinhala pronunciation approximations and Serbian TTS controls, examples, a dialogue and four quiz questions. Initial lesson commit `8543cc1815313627d4a666d080ad028d0f172552`; spelling correction commit `30f9e6c3031603649c374afa1ced95a0a88990ed`; README commit `9b23dfdfaf78821cccc0c6ea78387233e045c6eb`. No APK build or Android device test. CI for these latest commits is pending verification. Next: Serbian A1 occupations/professions lesson, then listening discrimination and mixed revision.
