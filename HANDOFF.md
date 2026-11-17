@@ -35,37 +35,41 @@
   - useful example(s), with pronunciation and Sinhala meaning
 - Explain pronunciation and grammar in Sinhala, step by step.
 - Teach Serbian sound distinctions explicitly: C/Č/Ć, Dž/Đ, Š/Ž, Lj/Nj, J, rolled R, and vowels. Sinhala spellings are approximations only; use audio and clear articulatory guidance for distinctions Sinhala cannot represent exactly.
-- Lessons should progressively cover A1, A2, B1, B2 and advanced material: vocabulary, listening, speaking, grammar, dialogues, reading, writing and review.
+- Both Serbian and English must have complete curricula across **all six CEFR levels: A1, A2, B1, B2, C1 and C2**. Each level must include vocabulary, listening, speaking, grammar, dialogues, reading, writing, revision and tests. The roadmap exists in `curriculum.js`; this is a scope/roadmap file, not proof that all lesson content has been authored. Continue implementing actual lessons in manageable batches.
+- Every Serbian phrase in all lesson surfaces must include Serbian spelling, Sinhala pronunciation approximation, Sinhala meaning, Serbian audio, and examples with Sinhala pronunciation/meaning. Apply equivalent Sinhala teaching support to English.
 - Include exercises, listening discrimination, speaking practice, revision and end-of-lesson quizzes. Do not claim guaranteed fluency.
 - Use the navy/teal/gold visual identity and keep mobile-first UI.
 - AI Teacher is currently only a preview; do not imply it is a live AI tutor or speech-recognition feature until implemented.
 
 ## Current verified state
-- Latest known App.js correction commit: `792efdd719d231a3073e039de0d79e3513450e90` (`fix: normalize final escaped JSX line break`).
-- Immediately preceding source cleanup commits: `840c7168a6f2a036ed2658263258e8db38dabfd4` and `05e9eb79e905dd8e93a9c1398fd7908e72a66828`.
-- Persistent handoff created in commit `8aacf4bc2be5c285abb87d8f8dad178eb59df70d`; README linked to it in commit `e30865a6ef1b7352bf0d3dfedb765111035d82b1`.
-- Latest known file: `App.js`
-- Main app is a React Native + Expo JavaScript app; `expo-speech` provides device text-to-speech.
-- `App.js` contains Serbian and English starter vocabulary (20 entries each), Sinhala meanings/pronunciation hints, sample dialogues, Serbian alphabet reference, Serbian sound guide, and tabs for Home, Speaking, Lessons, AI Teacher preview and Progress.
-- Progress is currently component state only; persistence across app restarts has not been implemented.
-- Speech playback uses device voices (Serbian `sr-RS`, English `en-US`); availability/quality depends on the Android device's installed voices.
-- A Sinhala pronunciation fallback/transliteration helper was added for Serbian text not in the hand-written dictionary. It is only an approximation and must not be presented as exact pronunciation.
-- Source inspection found escaped newline sequences accidentally placed between JSX elements. Three cleanup commits have now removed the remaining unintended occurrences. The intentional JSX string `{"\\n"}` used for a line break in the hero heading remains.
-- A further source review found the previous cleanup commits had not removed every unintended escaped newline; the latest commit fixes the final occurrence.
-
+- Latest feature commits on `main`:
+  - `d14108f0df6d2d5257d706bf393a01c9e87c3065`: added styles for Serbian alphabet rows and localized speech labels.
+  - `bd5ae93c8224e261721961be554dc5da4571b74e`: added `curriculum.js` with the A1, A2, B1, B2, C1 and C2 roadmap and common lesson method.
+  - `be40cca6968be9524942eb1f2da56371bce9bcc0`: displays the six-level roadmap and lesson method in the Lessons tab for both languages.
+  - `4f9069ecf7f7713c410ba8ac0540ed3d75a3b3d4`: adds selectable light/dark themes and daily learning missions with XP.
+- `App.js` is React Native + Expo and uses `expo-speech` for device text-to-speech.
+- The app has Serbian and English starter vocabulary (20 entries each), Sinhala meanings/pronunciation hints, sample dialogues, Serbian alphabet reference and sound guide, and Home, Speaking, Lessons, AI Teacher preview and Progress tabs.
+- Light/dark theme switching is implemented in the header. Theme choice currently lives in component state and resets when the app restarts; persistent theme settings are not implemented.
+- Daily missions currently offer three manually checkable learning goals and award 10 XP each. Mission completion and XP are component state only; no real calendar-based streak, daily reset, or persistent achievement system exists yet.
+- The six-level roadmap is present, but the actual lesson content for all A1-C2 levels is **not yet authored**. The current vocabulary/dialogues remain starter material.
+- Progress is component state only; persistence across app restarts has not been implemented.
+- Speech playback uses device voices (Serbian `sr-RS`, English `en-US`); availability/quality depends on installed device voices.
+- Sinhala transliteration fallback is approximate, not exact pronunciation.
+- `package-lock.json` was checked on `main` and was not found.
+- The alphabet row styles that were missing are now defined in the dynamic theme stylesheet.
+ 
 ## Verification status — be honest
-- GitHub commits above were confirmed by the GitHub connector.
-- **No Expo dependency install, JavaScript/JSX parser check, Expo export/build, APK build, or Android device runtime test has been confirmed yet.**
-- Therefore, do not describe the current app as build-verified or fully working.
-- First technical priority is to validate `App.js` and the project build, repair any remaining syntax/JSX/runtime issues, and record actual test results.
+- GitHub confirmed the commits listed above.
+- Source inspection confirmed the theme provider, dynamic palette-based stylesheet, header toggle, mission checklist, XP display, and curriculum roadmap wiring are present.
+- **No dependency install, JavaScript/JSX parser check, Expo export/build, APK build, or Android device runtime test has been confirmed.** Do not describe the app as build-verified or fully working.
+- Because there is no lockfile, dependency installation/build reproducibility needs attention. Add and commit a valid lockfile using the appropriate npm workflow when a suitable environment is available.
 
 ## Next task — resume here
-1. Fetch the current `App.js`, `package.json`, `app.json`, and check whether a lockfile exists on `main`.
-2. Continue reviewing JSX and app state logic. The accidental escaped newline formatting has been corrected at source level, but no parser/build verification has been run.
-3. If tools allow, install dependencies and run a non-device syntax/export/build check. If not, perform the strongest available source validation and clearly report the limitation.
-4. Fix any confirmed issues and commit corrections.
-5. Build the structured Serbian A1 lesson system using reusable lesson data/components. Every lesson must provide Serbian spelling, Sinhala pronunciation, Sinhala meaning, audio, explanation, examples, practice and a quiz. Apply the same consistent method to English lessons.
-6. Update this file with exact progress and the next unfinished task before ending the session.
+1. Validate the current `App.js` JSX and Expo configuration with a real parser/export build; repair any confirmed issues.
+2. Persist theme preference, learning progress, mission completion and XP locally (e.g. AsyncStorage, after adding the compatible Expo package and lockfile).
+3. Make daily missions genuinely actionable: link each mission to the relevant lesson/dialogue, track actual completion, and implement a date-aware daily reset/streak without falsely awarding progress.
+4. Build actual Serbian A1 lessons first with structured reusable lesson data/components. Every Serbian expression must show spelling, Sinhala pronunciation, Sinhala meaning, audio, explanation, examples and exercises. Then implement the same full teaching method for English and progress through A2-C2.
+5. Update this file with exact commits, tests and next task after each work session.
 
 ## Session log
 - Initial app scaffold: React Native + Expo, Sinhala-first navy/teal/gold interface.
@@ -74,7 +78,8 @@
 - Added optional Serbian alphabet reference and a guide to important Serbian sound distinctions.
 - Added general Sinhala pronunciation fallback for Serbian phrases.
 - Created `HANDOFF.md` as the persistent project continuity record and linked it from `README.md`.
-- Corrected accidental escaped newline sequences between JSX elements in multiple source cleanup commits; latest App.js correction is `792efdd719d231a3073e039de0d79e3513450e90`.
+- Corrected accidental escaped newline sequences between JSX elements in multiple source cleanup commits; latest known source correction is `792efdd719d231a3073e039de0d79e3513450e90`.
+- Added A1-C2 curriculum roadmap, Lessons-tab overview, alphabet row styles, light/dark theme switching, and introductory daily mission/XP UI. These features are not yet device/build tested.
 - No dependency install, parser check, Expo export/build, APK build, or device runtime test has been confirmed.
 
 ---
