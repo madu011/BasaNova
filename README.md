@@ -102,3 +102,10 @@ GitHub Actions runs dependency installation, Expo SDK compatibility checks, and 
 - Added a practical workplace lesson covering job/workplace introductions, working hours, shifts, colleagues, supervisors, asking for help and requesting repeated instructions.
 - Includes Sinhala meanings, Sinhala-script pronunciation support through the existing Serbian lesson renderer, individual Serbian TTS controls, examples, a short workplace dialogue and four quiz questions.
 - This is an additional A1 starter lesson, not a completed Serbian A1 course. Pronunciation spellings are approximate and should be checked against native audio.
+
+
+### Serbian A1 lesson 7 — Occupations and professions
+- Added practical vocabulary for common jobs: waiter, cook, driver, shop assistant, worker, teacher, doctor, student and programmer.
+- Teaches asking about someone's occupation, introducing one's own job, and recognizing common masculine/feminine job-name pairs.
+- Includes Sinhala meanings, Sinhala-script pronunciation support through the lesson renderer, Serbian TTS, examples, a short dialogue and four quiz questions.
+- Serbian job titles have different gender forms and not all follow one identical suffix rule; the lesson teaches common pairs rather than a universal grammar rule.
