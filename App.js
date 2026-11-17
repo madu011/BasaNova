@@ -4,6 +4,7 @@ import * as Speech from "expo-speech";
 import * as Clipboard from "expo-clipboard";
 import { COURSE_LEVELS, LESSON_METHOD } from "./curriculum";
 import { SERBIAN_A1_LESSONS } from "./serbianLessons";
+import { SERBIAN_EXTRA_VOCAB, ENGLISH_EXTRA_VOCAB } from "./vocabularyPacks";
 
 const PALETTES={dark:{bg:"#071426",panel:"#10243D",panel2:"#142D49",teal:"#35D6C5",gold:"#F5C66A",white:"#F5F8FC",muted:"#9DB0C5",line:"#24415F",nav:"#0A1B30"},light:{bg:"#F3F7FA",panel:"#FFFFFF",panel2:"#E5EFF4",teal:"#087F78",gold:"#A96808",white:"#142638",muted:"#526779",line:"#C9D8E2",nav:"#E5EFF4"}};
 const ThemeContext=createContext(null);
@@ -126,6 +127,8 @@ const courses={
   ["See you","නැවත හමුවෙමු","සී යූ","See you tomorrow!","හෙට නැවත හමුවෙමු!"]
  ].map(([word,meaning,sound,example,translation])=>({word,meaning,sound,example,translation}))
 };
+courses.Serbian.push(...SERBIAN_EXTRA_VOCAB);
+courses.English.push(...ENGLISH_EXTRA_VOCAB);
 const serbianSinhala = {
   "Zdravo": "ස්ද්‍රාවෝ",
   "Dobar dan": "දොබාර් දාන්",
