@@ -398,7 +398,7 @@ export default function App(){
        <Text style={s.sub}>{qi+1}. {q.prompt}</Text>
        {q.options.map((option,oi)=><View key={option} style={{flexDirection:"row",alignItems:"center",gap:8}}>
         <TouchableOpacity disabled={!!checked} onPress={()=>setLessonAnswers(v=>({...v,[key]:oi}))} style={[s.quizOption,{flex:1},selected===oi&&s.quizSelected,checked&&oi===q.answer&&s.quizCorrect,checked&&selected===oi&&selected!==q.answer&&s.quizWrong]}>
-         <Text style={s.quizOptionText}>{String.fromCharCode(65+oi)}. {option}</Text>
+         <View style={{flex:1}}><Text style={s.quizOptionText}>{String.fromCharCode(65+oi)}. {option}</Text>{/[A-Za-zČĆĐŠŽčćđšž]/.test(option)&&<Text style={s.sound}>සිංහල අකුරෙන් උච්චාරණය: {pronounceSinhala(option)}</Text>}</View>
         </TouchableOpacity>
         {/[A-Za-zČĆĐŠŽčćđšž]/.test(option)&&<TouchableOpacity accessibilityRole="button" accessibilityLabel="පිළිතුරේ උච්චාරණය අහන්න" onPress={()=>speak(option,"Serbian")} style={{padding:8}}><Text style={s.link}>🔊</Text></TouchableOpacity>}
        </View>)}
