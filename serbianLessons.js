@@ -47,7 +47,7 @@ export const SERBIAN_A1_LESSONS = [
       { word: "Molim", meaning: "කරුණාකර / ඔබට සාදරයෙන්", example: "Molim vas.", translation: "කරුණාකර." },
       { word: "Doviđenja", meaning: "ගිහින් එන්නම් / නැවත හමුවෙමු (විධිමත්)", example: "Doviđenja i hvala.", translation: "නැවත හමුවෙමු, ස්තුතියි." }
     ],
-    grammarTerms: [{ sr: "Zdravo", si: "හෙලෝ / ආයුබෝවන්", reading: "ස්ද්‍රාවො" }, { sr: "Dobar dan", si: "සුබ දවසක්", reading: "දොබාර් දාන්" }, { sr: "Doviđenja", si: "නැවත හමුවෙමු", reading: "දොවිජෙන්‍යා" }, { sr: "Hvala", si: "ස්තුතියි", reading: "හ්වාලා" }, { sr: "Molim", si: "කරුණාකර / ඔබට සාදරයෙන්", reading: "මොලීම්" }],
+    grammarTerms: [{ sr: "Zdravo", si: "හෙලෝ / ආයුබෝවන්", reading: "ස්ද්‍රාවො" }, { sr: "Dobar dan", si: "සුබ දවසක්", reading: "දොබාර් දාන්" }, { sr: "Doviđenja", si: "නැවත හමුවෙමු", reading: "දොවිජෙන්‍යා" }, { sr: "Hvala", si: "ස්තුතියි", reading: "හ්වාලා" }, { sr: "Molim", si: "කරුණාකර / ඔබට සාදරයෙන්", reading: "මොලීම්" }, { sr: "Dobro sam, hvala.", si: "මම හොඳින්, ස්තුතියි.", reading: "දොබ්‍රො සාම්, හ්වාලා" }, { sr: "Kako ste?", si: "ඔබට කොහොමද?", reading: "කාකො ස්තෙ?" }],
     grammarTitle: "භාෂා භාවිතය · විධිමත් සහ හිතවත් ආචාර",
     grammar: "“Zdravo” සාමාන්‍ය හිතවත් ආචාරයකි. “Dobar dan” වැඩබිමක, කඩයක හෝ නොහඳුනන කෙනෙකුටත් සුදුසුය. “Doviđenja” යනු සමුගැනීමේ විධිමත් වචනයකි. “Hvala” ස්තුතියි කියන අතර “Molim” සන්දර්භය අනුව කරුණාකර හෝ ඔබට සාදරයෙන් යන අර්ථ දෙකම ලබාගනී.",
     examples: [
@@ -122,7 +122,7 @@ export const SERBIAN_A1_LESSONS = [
       "translation": "කෑම ඉතා රසවත්."
     }
   ],
-  "grammarTerms": [{ "sr": "Želim", "si": "මට අවශ්‍යයි", "reading": "ෂෙලිම්" }, { "sr": "Želim kafu", "si": "මට කෝපි එකක් අවශ්‍යයි", "reading": "ෂෙලිම් කාෆු" }, { "sr": "Koliko košta?", "si": "කීයද?", "reading": "කොලිකො කොෂ්තා" }, { "sr": "molim", "si": "කරුණාකර", "reading": "මොලීම්" }],
+  "grammarTerms": [{ "sr": "Želim", "si": "මට අවශ්‍යයි", "reading": "ෂෙලිම්" }, { "sr": "Želim kafu", "si": "මට කෝපි එකක් අවශ්‍යයි", "reading": "ෂෙලිම් කාෆු" }, { "sr": "Koliko košta?", "si": "කීයද?", "reading": "කොලිකො කොෂ්තා" }, { "sr": "molim", "si": "කරුණාකර", "reading": "මොලීම්" }, { "sr": "Želim čaj", "si": "මට තේ අවශ්‍යයි", "reading": "ෂෙලිම් චායි" }, { "sr": "Račun, molim", "si": "බිල දෙන්න, කරුණාකර", "reading": "රාචුන්, මොලීම්" }],
   "grammarTitle": "ව්‍යාකරණය · Želim + නාම පදය",
   "grammar": "“Želim” යනු “මට අවශ්‍යයි / මට ඕනේ” යන අර්ථයයි. ඉල්ලීමක් කිරීමට “Želim kafu” වැනි සරල රටාවක් භාවිත කළ හැක. වඩාත් ආචාරශීලීව ඉල්ලීමට “molim” එකතු කරන්න. “Koliko košta?” යනු මිල අසන ප්‍රශ්නයයි. භාණ්ඩය අනුව Serbian නාම පදයේ අවසානය වෙනස් විය හැකි නිසා, මේ පාඩමේ වාක්‍ය රටා සම්පූර්ණයෙන් මතක තබාගන්න.",
   "examples": [
@@ -397,7 +397,7 @@ export const SERBIAN_A1_LESSONS = [
       "translation": "අංකය: දහස."
     }
   ],
-  "grammarTerms": [{ "sr": "dvadeset jedan", "si": "විසි එක", "reading": "ද්වාදෙසෙත් යෙදාන්" }, { "sr": "dvadeset dva", "si": "විසි දෙක", "reading": "ද්වාදෙසෙත් ද්වා" }, { "sr": "trideset pet", "si": "තිස් පහ", "reading": "ත්‍රිදෙසෙත් පෙත්" }, { "sr": "sto", "si": "සියය", "reading": "ස්තො" }, { "sr": "hiljadu", "si": "දහස", "reading": "හිල්‍යාදු" }],
+  "grammarTerms": [{ "sr": "dvadeset jedan", "si": "විසි එක", "reading": "ද්වාදෙසෙත් යෙදාන්" }, { "sr": "dvadeset dva", "si": "විසි දෙක", "reading": "ද්වාදෙසෙත් ද්වා" }, { "sr": "trideset pet", "si": "තිස් පහ", "reading": "ත්‍රිදෙසෙත් පෙත්" }, { "sr": "sto", "si": "සියය", "reading": "ස්තො" }, { "sr": "hiljadu", "si": "දහස", "reading": "හිල්‍යාදු" }, { "sr": "jedan / jedna / jedno", "si": "එක — නාම පදයේ ලිංගය අනුව වෙනස් වේ", "reading": "යෙදාන් / යෙද්නා / යෙද්නො" }, { "sr": "dva / dve", "si": "දෙක — නාම පදයේ ලිංගය අනුව වෙනස් වේ", "reading": "ද්වා / ද්වේ" }],
   "grammarTitle": "අංක රටාව · 21, 22, 35 වැනි සංයුක්ත අංක",
   "grammar": "Serbian භාෂාවේ 21 = dvadeset jedan (20 + 1), 22 = dvadeset dva (20 + 2), 35 = trideset pet (30 + 5). මුලින් දහයේ අංකය කියලා පසුව එකක අංකය කියනවා. 100 = sto, 1,000 = hiljadu. පුද්ගලයෙකු හෝ වස්තුවක් සමඟ භාවිත කරන විට jedan/jedna/jedno සහ dva/dve වැනි ස්ත්‍රී/පුං/නපුංසක ලිංග අනුව වෙනස්කම් තියෙනවා; මුලින් ගණන් කිරීමේ මූලික රටාව ඉගෙනගමු.",
   "examples": [
@@ -489,7 +489,7 @@ export const SERBIAN_A1_LESSONS = [
       { "word": "Koliko košta?", "meaning": "මිල කීයද?", "example": "Koliko košta kilogram jabuka?", "translation": "ඇපල් කිලෝග්‍රෑම් එකක මිල කීයද?" },
       { "word": "Ukupno", "meaning": "මුළු එකතුව", "example": "Koliko je ukupno?", "translation": "මුළු එකතුව කීයද?" }
     ],
-    "grammarTerms": [{ "sr": "Dajte mi", "si": "මට දෙන්න", "reading": "දාය්තෙ මි" }, { "sr": "jedan kilogram", "si": "කිලෝග්‍රෑම් එකක්", "reading": "යෙදාන් කිලොග්‍රාම්" }, { "sr": "pola kilograma", "si": "කිලෝග්‍රෑම් භාගයක්", "reading": "පොලා කිලොග්‍රාමා" }, { "sr": "dva kilograma", "si": "කිලෝග්‍රෑම් දෙකක්", "reading": "ද්වා කිලොග්‍රාමා" }, { "sr": "Koliko košta?", "si": "කීයද?", "reading": "කොලිකො කොෂ්තා" }, { "sr": "Koliko je ukupno?", "si": "මුළු එකතුව කීයද?", "reading": "කොලිකො යෙ උකුප්නො" }],
+    "grammarTerms": [{ "sr": "Dajte mi", "si": "මට දෙන්න", "reading": "දාය්තෙ මි" }, { "sr": "jedan kilogram", "si": "කිලෝග්‍රෑම් එකක්", "reading": "යෙදාන් කිලොග්‍රාම්" }, { "sr": "pola kilograma", "si": "කිලෝග්‍රෑම් භාගයක්", "reading": "පොලා කිලොග්‍රාමා" }, { "sr": "dva kilograma", "si": "කිලෝග්‍රෑම් දෙකක්", "reading": "ද්වා කිලොග්‍රාමා" }, { "sr": "Koliko košta?", "si": "කීයද?", "reading": "කොලිකො කොෂ්තා" }, { "sr": "Koliko je ukupno?", "si": "මුළු එකතුව කීයද?", "reading": "කොලිකො යෙ උකුප්නො" }, { "sr": "jedan kilogram", "si": "කිලෝග්‍රෑම් එකක්", "reading": "යෙදාන් කිලොග්‍රාම්" }, { "sr": "dva kilograma", "si": "කිලෝග්‍රෑම් දෙකක්", "reading": "ද්වා කිලොග්‍රාමා" }, { "sr": "molim vas", "si": "කරුණාකර (විධිමත්)", "reading": "මොලීම් වාස්" }],
     "grammarTitle": "භාෂා රටාව · ප්‍රමාණ සහ ආචාරශීලී ඉල්ලීම්",
     "grammar": "භාණ්ඩයක් ඉල්ලීමට “Dajte mi ... , molim vas” (මට ... දෙන්න, කරුණාකර) භාවිත කරන්න. ප්‍රමාණය කියන විට “jedan kilogram” (කිලෝග්‍රෑම් එකක්), “pola kilograma” (කිලෝග්‍රෑම් භාගයක්), “dva kilograma” (කිලෝග්‍රෑම් දෙකක්) වැනි රටා මතක තබාගන්න. “Koliko košta?” මිල අසන්නත් “Koliko je ukupno?” මුළු මුදල අසන්නත් භාවිත වෙනවා. Serbian භාෂාවේ ප්‍රමාණයකට පසුව නාම පදයේ හැඩය වෙනස් විය හැක; ආරම්භයේදී මේ සම්පූර්ණ ප්‍රකාශන ලෙස පුහුණු වන්න.",
     "examples": [
