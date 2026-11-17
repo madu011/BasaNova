@@ -436,6 +436,19 @@ export default function App(){
        {lesson.dialogue.map((line,i)=><View key={lesson.id+"-d-"+i} style={s.dialogueLine}><View style={{flex:1}}><Text style={s.lessonSerbian}>{line.text}</Text><Text style={s.sound}>සිංහල අකුරෙන්: {line.reading}</Text><Text style={s.sub}>{line.meaning}</Text></View><TouchableOpacity onPress={()=>speak(line.text,"English")}><Text style={s.link}>🔊</Text></TouchableOpacity></View>)}
        <Text style={s.lessonHeading}>✍️ දැනුම පරීක්ෂා කරමු</Text>
        {lesson.practice.map((q,qi)=>{const key=lesson.id+"-"+qi;const selected=lessonAnswers[key];const checked=lessonChecked[key];return <View key={key} style={s.quizCard}><Text style={s.sub}>{qi+1}. {q.prompt}</Text>{q.options.map((option,oi)=><View key={option} style={{flexDirection:"row",alignItems:"center",gap:8}}><TouchableOpacity disabled={!!checked} onPress={()=>setLessonAnswers(v=>({...v,[key]:oi}))} style={[s.quizOption,{flex:1},selected===oi&&s.quizSelected,checked&&oi===q.answer&&s.quizCorrect,checked&&selected===oi&&selected!==q.answer&&s.quizWrong]}><Text style={s.quizOptionText}>{String.fromCharCode(65+oi)}. {option}</Text></TouchableOpacity><TouchableOpacity onPress={()=>speak(option,"English")} style={{padding:8}}><Text style={s.link}>🔊</Text></TouchableOpacity></View>)}{checked?<Text style={s.sub}>{selected===q.answer?"නිවැරදියි! ✓ ":"නැවත පුහුණු වෙමු. "}{q.explanation}</Text>:<TouchableOpacity disabled={selected===undefined} onPress={()=>setLessonChecked(v=>({...v,[key]:true}))} style={[s.action,selected===undefined&&{opacity:0.45}]}><Text style={s.actionText}>පිළිතුර පරීක්ෂා කරන්න</Text></TouchableOpacity>}</View>})}
+       {lesson.listeningPractice&&<View style={s.quizCard}>
+        <Text style={s.lessonHeading}>🎧 අසා හඳුනාගනිමු</Text>
+        <Text style={s.sub}>{lesson.listeningPractice.prompt}</Text>
+        <TouchableOpacity accessibilityRole="button" onPress={()=>speak(lesson.listeningPractice.audio,"English")} style={s.action}><Text style={s.actionText}>🔊 වාක්‍යය නැවත අහන්න</Text></TouchableOpacity>
+        {lesson.listeningPractice.options.map((option,oi)=>{
+         const key=lesson.id+"-listen";const selected=lessonAnswers[key];const checked=lessonChecked[key];
+         return <TouchableOpacity key={option} disabled={!!checked} onPress={()=>setLessonAnswers(v=>({...v,[key]:oi}))} style={[s.quizOption,selected===oi&&s.quizSelected,checked&&oi===lesson.listeningPractice.answer&&s.quizCorrect,checked&&selected===oi&&selected!==lesson.listeningPractice.answer&&s.quizWrong]}>
+          <Text style={s.quizOptionText}>{String.fromCharCode(65+oi)}. {option}</Text>
+          {checked&&<Text style={s.sound}>ඉංග්‍රීසි උච්චාරණය: {lesson.listeningPractice.readings[oi]}</Text>}
+         </TouchableOpacity>;
+        })}
+        {lessonChecked[lesson.id+"-listen"]?<Text style={s.sub}>{lessonAnswers[lesson.id+"-listen"]===lesson.listeningPractice.answer?"නිවැරදියි! ✓ ":"නැවත අහලා උත්සාහ කරමු. "}{lesson.listeningPractice.meaning}</Text>:<TouchableOpacity disabled={lessonAnswers[lesson.id+"-listen"]===undefined} onPress={()=>setLessonChecked(v=>({...v,[lesson.id+"-listen"]:true}))} style={[s.action,lessonAnswers[lesson.id+"-listen"]===undefined&&{opacity:0.45}]}><Text style={s.actionText}>පිළිතුර පරීක්ෂා කරන්න</Text></TouchableOpacity>}
+       </View>}
       </View>}
      </View>;
     })}
