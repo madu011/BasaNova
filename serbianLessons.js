@@ -13,7 +13,7 @@ export const SERBIAN_A1_LESSONS = [
       { word: "Drago mi je.", meaning: "ඔයාව හමුවීම සතුටක්.", example: "Drago mi je, Ana.", translation: "ඔයාව හමුවීම සතුටක්, ආනා." },
       { word: "Kako si?", meaning: "ඔයාට කොහොමද?", example: "Zdravo! Kako si?", translation: "හෙලෝ! ඔයාට කොහොමද?" }
     ],
-    grammarTerms: [{ sr: "Zovem se", si: "මගේ නම ...", reading: "සොවෙම් සේ" }, { sr: "Kako se zoveš?", si: "ඔයාගේ නම මොකක්ද?", reading: "කාකො සේ සොවෙෂ්" }, { sr: "se", si: "ක්‍රියාපදය සමඟ යෙදෙන කුඩා පදය", reading: "සේ" }],
+    grammarTerms: [{ sr: "Zovem se", si: "මගේ නම ...", reading: "සොවෙම් සේ" }, { sr: "Kako se zoveš?", si: "ඔයාගේ නම මොකක්ද?", reading: "කාකො සේ සොවෙෂ්" }, { sr: "se", si: "ක්‍රියාපදය සමඟ යෙදෙන කුඩා පදය", reading: "සේ" }, { sr: "Zovem se + ime", si: "මගේ නම ...", reading: "සොවෙම් සේ + ඉමේ" }, { sr: "Drago mi je.", si: "ඔයාව හමුවීම සතුටක්.", reading: "ද්‍රාගො මි යේ" }],
     grammarTitle: "ව්‍යාකරණය · Zovem se",
     grammar: "Serbian භාෂාවේ තමන්ගේ නම කියන්න “Zovem se + නම” භාවිතා කරනවා. කෙනෙකුගෙන් නම අහන්න “Kako se zoveš?” කියනවා. මෙහි “se” ක්‍රියාපදය සමඟ යෙදෙන කුඩා වචනයක්; මේ රටාව සම්පූර්ණ වාක්‍යයක් ලෙස මතක තබාගන්න.",
     examples: [
@@ -47,7 +47,7 @@ export const SERBIAN_A1_LESSONS = [
       { word: "Molim", meaning: "කරුණාකර / ඔබට සාදරයෙන්", example: "Molim vas.", translation: "කරුණාකර." },
       { word: "Doviđenja", meaning: "ගිහින් එන්නම් / නැවත හමුවෙමු (විධිමත්)", example: "Doviđenja i hvala.", translation: "නැවත හමුවෙමු, ස්තුතියි." }
     ],
-    grammarTerms: [{ sr: "Zdravo", si: "හෙලෝ / ආයුබෝවන්", reading: "ස්ද්‍රාවො" }, { sr: "Dobar dan", si: "සුබ දවසක්", reading: "දොබාර් දාන්" }, { sr: "Doviđenja", si: "නැවත හමුවෙමු", reading: "දොවිජෙන්‍යා" }, { sr: "Hvala", si: "ස්තුතියි", reading: "හ්වාලා" }, { sr: "Molim", si: "කරුණාකර / ඔබට සාදරයෙන්", reading: "මොලීම්" }, { sr: "Dobro sam, hvala.", si: "මම හොඳින්, ස්තුතියි.", reading: "දොබ්‍රො සාම්, හ්වාලා" }, { sr: "Kako ste?", si: "ඔබට කොහොමද?", reading: "කාකො ස්තෙ?" }],
+    grammarTerms: [{ sr: "Zdravo", si: "හෙලෝ / ආයුබෝවන්", reading: "ස්ද්‍රාවො" }, { sr: "Dobar dan", si: "සුබ දවසක්", reading: "දොබාර් දාන්" }, { sr: "Doviđenja", si: "නැවත හමුවෙමු", reading: "දොවිජෙන්‍යා" }, { sr: "Hvala", si: "ස්තුතියි", reading: "හ්වාලා" }, { sr: "Molim", si: "කරුණාකර / ඔබට සාදරයෙන්", reading: "මොලීම්" }, { sr: "Dobro sam, hvala.", si: "මම හොඳින්, ස්තුතියි.", reading: "දොබ්‍රො සාම්, හ්වාලා" }, { sr: "Kako ste?", si: "ඔබට කොහොමද?", reading: "කාකො ස්තෙ?" }, { sr: "Dobro jutro", si: "සුබ උදෑසනක්", reading: "දොබ්‍රො යුත්‍රො" }, { sr: "Laku noć", si: "සුබ රාත්‍රියක්", reading: "ලාකු නොච්" }],
     grammarTitle: "භාෂා භාවිතය · විධිමත් සහ හිතවත් ආචාර",
     grammar: "“Zdravo” සාමාන්‍ය හිතවත් ආචාරයකි. “Dobar dan” වැඩබිමක, කඩයක හෝ නොහඳුනන කෙනෙකුටත් සුදුසුය. “Doviđenja” යනු සමුගැනීමේ විධිමත් වචනයකි. “Hvala” ස්තුතියි කියන අතර “Molim” සන්දර්භය අනුව කරුණාකර හෝ ඔබට සාදරයෙන් යන අර්ථ දෙකම ලබාගනී.",
     examples: [
@@ -539,7 +539,7 @@ export const SERBIAN_A1_LESSONS = [
       { sr: "Možete li da ...?", si: "ඔබට ... කරන්න පුළුවන්ද?", reading: "මොෂෙතෙ ලි දා ...?" },
       { sr: "Treba mi pomoć.", si: "මට උදව් අවශ්‍යයි.", reading: "ත්‍රෙබා මි පොමොච්" },
       { sr: "Ne razumem.", si: "මට තේරෙන්නේ නැහැ.", reading: "නේ රාසුමේම්" }
-    ],
+    , { sr: "Radim ovde.", si: "මම මෙහි වැඩ කරනවා.", reading: "රාදිම් ඔව්ඩේ" }, { sr: "Možete li da ponovite?", si: "ඔබට නැවත කියන්න පුළුවන්ද?", reading: "මොෂෙතෙ ლી දા ಪೊನೊವಿತೆ" }, { sr: "Radno vreme", si: "වැඩ කරන වේලාව", reading: "රාද්නො ව්‍රෙමේ" }],
     grammarTitle: "භාෂා රටාව · වැඩ ගැන කියීම සහ ආචාරශීලීව උදව් ඉල්ලීම",
     grammar: "තමන් කරන දේ කියන්න “Radim ...” (මම වැඩ කරනවා) භාවිත කරන්න. කෙනෙකුගෙන් විධිමත්ව අසන විට “Gde radite?” කියන්න පුළුවන්. “Možete li da ...?” යනු “ඔබට ... කරන්න පුළුවන්ද?” යන ආචාරශීලී ප්‍රශ්න රටාවයි. උපදෙස් නොතේරුණොත් “Ne razumem” කියා, “Možete li da ponovite?” යනුවෙන් නැවත කියන ලෙස ඉල්ලන්න.",
     examples: [
@@ -590,7 +590,7 @@ export const SERBIAN_A1_LESSONS = [
       { sr: "Ona je ...", si: "ඇය ... ය", reading: "ඔනා යේ ..." },
       { sr: "konobar / konobarica", si: "වේටර් / වේටර්වරිය", reading: "කොනොබාර් / කොනොබාරිත්සා" },
       { sr: "radnik / radnica", si: "සේවකයා / සේවිකාව", reading: "රාද්නික් / රාද්නීත්සා" }
-    ],
+    , { sr: "Ona je nastavnica.", si: "ඇය ගුරුවරියක්.", reading: "ඔනා යේ නස්තාව්නිත්සා" }, { sr: "Ja sam konobar.", si: "මම වේටර්වරයෙක්.", reading: "යා සාම් කොනොබාර්" }, { sr: "Zanimanje", si: "රැකියාව / වෘත්තිය", reading: "සානිමාන්යේ" }],
     grammarTitle: "ව්‍යාකරණය · රැකියාව හඳුන්වාදීම සහ ස්ත්‍රී/පුරුෂ නාම",
     grammar: "තමන්ගේ රැකියාව කියන්න “Ja sam ...” (මම ... වෙමි) යන රටාව භාවිත කරන්න. පිරිමි පුද්ගලයෙකු ගැන “On je ...” සහ කාන්තා පුද්ගලයෙකු ගැන “Ona je ...” කියන්න. Serbian භාෂාවේ බොහෝ වෘත්තීන්ට පිරිමි සහ කාන්තා ආකාර දෙකක් තිබෙනවා; උදාහරණ ලෙස konobar/konobarica සහ nastavnik/nastavnica. සෑම වෘත්තියක්ම එකම අවසාන රටාව අනුගමනය නොකරන නිසා යුගල වශයෙන් ඉගෙනගන්න.",
     examples: [
@@ -638,7 +638,7 @@ export const SERBIAN_A1_LESSONS = [
       { sr: "Idite pravo.", si: "කෙළින්ම යන්න.", reading: "ඉදිතෙ ප්‍රාවො." },
       { sr: "Da li je ... blizu?", si: "... ළඟද?", reading: "දා ලි යේ ... බ්ලිසු?" },
       { sr: "Jednu kartu, molim.", si: "එක ටිකට්පතක්, කරුණාකර.", reading: "යෙද්නු කාර්තු, මොලීම්." }
-    ],
+    , { sr: "Levo", si: "වමට", reading: "ලෙවො" }, { sr: "Desno", si: "දකුණට", reading: "දෙස්නො" }, { sr: "Pravo", si: "කෙළින්ම", reading: "ප්‍රාවො" }],
     grammarTitle: "ව්‍යාකරණය · ස්ථාන අසන සහ මාර්ග උපදෙස් දෙන රටා",
     grammar: "ස්ථානයක් අසන්න “Gde je ...?” භාවිත කරන්න. දිශාවක් කියන විට “levo” (වමට), “desno” (දකුණට), “pravo” (කෙළින්ම) යොදාගන්න. ගෞරවයෙන් උපදෙස් දීමට “Skrenite ...” (හැරෙන්න) සහ “Idite ...” (යන්න) භාවිත කළ හැක. දුර විමසීමට “Da li je ... blizu?” කියන්න.",
     examples: [
