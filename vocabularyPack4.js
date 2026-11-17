@@ -43,20 +43,6 @@ export const SERBIAN_VOCAB_PACK_4 = [
     "translation": "ඔයාලා වට්ටමක් දෙනවද?"
   },
   {
-    "word": "Skupo",
-    "meaning": "මිල වැඩියි",
-    "sound": "ස්කුපො",
-    "example": "Ovo je preskupo.",
-    "translation": "මේක ගොඩක් මිල වැඩියි."
-  },
-  {
-    "word": "Jeftino",
-    "meaning": "ලාභයි",
-    "sound": "යෙෆ්තිනො",
-    "example": "Ova prodavnica je jeftina.",
-    "translation": "මේ කඩය ලාභයි."
-  },
-  {
     "word": "Prodavnica",
     "meaning": "කඩය",
     "sound": "ප්‍රොදාව්නිත්සා",
@@ -83,13 +69,6 @@ export const SERBIAN_VOCAB_PACK_4 = [
     "sound": "පොෂ්තා",
     "example": "Gde je pošta?",
     "translation": "තැපැල් කාර්යාලය කොහෙද?"
-  },
-  {
-    "word": "Bolnica",
-    "meaning": "රෝහල",
-    "sound": "බොල්නිත්සා",
-    "example": "Bolnica je blizu.",
-    "translation": "රෝහල ළඟයි."
   },
   {
     "word": "Škola",
@@ -120,39 +99,11 @@ export const SERBIAN_VOCAB_PACK_4 = [
     "translation": "අපි උද්‍යානයේ ඇවිදිනවා."
   },
   {
-    "word": "Ulica",
-    "meaning": "වීදිය",
-    "sound": "උලිත්සා",
-    "example": "Ova ulica je dugačka.",
-    "translation": "මේ වීදිය දිගයි."
-  },
-  {
-    "word": "Most",
-    "meaning": "පාලම",
-    "sound": "මොස්ත්",
-    "example": "Most je preko reke.",
-    "translation": "පාලම ගඟට ඉහළින් තියෙනවා."
-  },
-  {
     "word": "Centar",
     "meaning": "මධ්‍යස්ථානය",
     "sound": "ත්සෙන්තාර්",
     "example": "Radim u centru grada.",
     "translation": "මම නගර මධ්‍යයේ වැඩ කරනවා."
-  },
-  {
-    "word": "Telefon",
-    "meaning": "දුරකථනය",
-    "sound": "තෙලෙෆොන්",
-    "example": "Moj telefon je nov.",
-    "translation": "මගේ දුරකථනය අලුත්."
-  },
-  {
-    "word": "Punjač",
-    "meaning": "චාජරය",
-    "sound": "පුන්‍යාච්",
-    "example": "Gde je punjač?",
-    "translation": "චාජරය කොහෙද?"
   },
   {
     "word": "Baterija",
@@ -395,20 +346,6 @@ export const ENGLISH_VOCAB_PACK_4 = [
     "translation": "ඔයාලා වට්ටමක් දෙනවද?"
   },
   {
-    "word": "Expensive",
-    "meaning": "මිල වැඩි",
-    "sound": "එක්ස්පෙන්සිව්",
-    "example": "This is too expensive.",
-    "translation": "මේක ගොඩක් මිල වැඩියි."
-  },
-  {
-    "word": "Cheap",
-    "meaning": "ලාභ",
-    "sound": "චීප්",
-    "example": "This shop is cheap.",
-    "translation": "මේ කඩය ලාභයි."
-  },
-  {
     "word": "Shop",
     "meaning": "කඩය",
     "sound": "ෂොප්",
@@ -435,13 +372,6 @@ export const ENGLISH_VOCAB_PACK_4 = [
     "sound": "පෝස්ට් ඔෆිස්",
     "example": "Where is the post office?",
     "translation": "තැපැල් කාර්යාලය කොහෙද?"
-  },
-  {
-    "word": "Hospital",
-    "meaning": "රෝහල",
-    "sound": "හොස්පිටල්",
-    "example": "The hospital is nearby.",
-    "translation": "රෝහල ළඟයි."
   },
   {
     "word": "School",
@@ -472,39 +402,11 @@ export const ENGLISH_VOCAB_PACK_4 = [
     "translation": "අපි උද්‍යානයේ ඇවිදිනවා."
   },
   {
-    "word": "Street",
-    "meaning": "වීදිය",
-    "sound": "ස්ට්‍රීට්",
-    "example": "This street is long.",
-    "translation": "මේ වීදිය දිගයි."
-  },
-  {
-    "word": "Bridge",
-    "meaning": "පාලම",
-    "sound": "බ්‍රිජ්",
-    "example": "The bridge crosses the river.",
-    "translation": "පාලම ගඟ හරහා යනවා."
-  },
-  {
     "word": "Centre",
     "meaning": "මධ්‍යස්ථානය",
     "sound": "සෙන්ටර්",
     "example": "I work in the city centre.",
     "translation": "මම නගර මධ්‍යයේ වැඩ කරනවා."
-  },
-  {
-    "word": "Phone",
-    "meaning": "දුරකථනය",
-    "sound": "ෆෝන්",
-    "example": "My phone is new.",
-    "translation": "මගේ දුරකථනය අලුත්."
-  },
-  {
-    "word": "Charger",
-    "meaning": "චාජරය",
-    "sound": "චාර්ජර්",
-    "example": "Where is the charger?",
-    "translation": "චාජරය කොහෙද?"
   },
   {
     "word": "Battery",
@@ -624,13 +526,6 @@ export const ENGLISH_VOCAB_PACK_4 = [
     "sound": "අර්ලි",
     "example": "I wake up early.",
     "translation": "මම උදේම නැගිටිනවා."
-  },
-  {
-    "word": "Late",
-    "meaning": "ප්‍රමාදව",
-    "sound": "ලේට්",
-    "example": "I came back late.",
-    "translation": "මම ප්‍රමාදව ආපසු ආවා."
   },
   {
     "word": "Before",
