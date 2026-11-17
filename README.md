@@ -61,3 +61,8 @@ GitHub Actions runs dependency installation, Expo SDK compatibility checks, and 
 - Added a structured beginner lesson covering numbers, asking the time, o'clock, half past and quarter past.
 - Includes manually authored Sinhala-script readings, Sinhala meanings, example sentences, a short time-related dialogue, English TTS controls and four quiz questions.
 - This is a starter lesson, not a complete English A1 syllabus.
+
+
+### English A1 lesson 4 — Shopping and prices
+- Added polite shopping requests, asking prices, quantities (one kilo / half a kilo), cash/card payment and receipts.
+- Includes Sinhala-script pronunciation guides, Sinhala meanings, examples, a shop dialogue, separate English TTS controls and four interactive quiz questions.
