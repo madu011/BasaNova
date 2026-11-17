@@ -17,7 +17,8 @@ export const ENGLISH_A1_LESSONS = [
  grammarTerms:[{text:"My name is",reading:"මයි නේම් ඉස්",meaning:"මගේ නම ..."},{text:"What is your name?",reading:"වොට් ඉස් යෝර් නේම්?",meaning:"ඔබේ නම මොකක්ද?"},{text:"What's your name?",reading:"වොට්ස් යෝර් නේම්?",meaning:"ඔයාගේ නම මොකක්ද?"}],
  examples:[{text:"My name is Ana.",reading:"මයි නේම් ඉස් ආනා.",meaning:"මගේ නම ආනා."},{text:"My name is Mark.",reading:"මයි නේම් ඉස් මාර්ක්.",meaning:"මගේ නම මාර්ක්."},{text:"What's your name?",reading:"වොට්ස් යෝර් නේම්?",meaning:"ඔයාගේ නම මොකක්ද?"}],
  dialogue:[{text:"Hello! What's your name?",reading:"හෙලෝ! වොට්ස් යෝර් නේම්?",meaning:"හෙලෝ! ඔයාගේ නම මොකක්ද?"},{text:"My name is Ana. And you?",reading:"මයි නේම් ඉස් ආනා. ඇන්ඩ් යූ?",meaning:"මගේ නම ආනා. ඔයාගේ?"},{text:"My name is Mark. Nice to meet you.",reading:"මයි නේම් ඉස් මාර්ක්. නයිස් ටු මීට් යූ.",meaning:"මගේ නම මාර්ක්. ඔයාව හමුවීම සතුටක්."},{text:"Nice to meet you too.",reading:"නයිස් ටු මීට් යූ ටූ.",meaning:"මටත් ඔයාව හමුවීම සතුටක්."}],
- practice:[{prompt:"“මගේ නම ආනා” කියන නිවැරදි වාක්‍යය තෝරන්න.",options:["What is Ana?","My name is Ana.","Goodbye, Ana."],readings:["වොට් ඉස් ආනා?","මයි නේම් ඉස් ආනා.","ගුඩ්බායි, ආනා."],answer:1,explanation:"My name is යනු “මගේ නම ...” යන රටාවයි."},{prompt:"“ඔයාගේ නම මොකක්ද?” කියන්නේ?",options:["What's your name?","How are you?","Thank you."],readings:["වොට්ස් යෝර් නේම්?","හවු ආර් යූ?","තෑන්ක් යූ."],answer:0,explanation:"What's your name? යනු නම අසන ප්‍රශ්නයයි."},{prompt:"“ස්තුතියි” යන අර්ථය කුමක්ද?",options:["Please","Goodbye","Thank you"],readings:["ප්ලීස්","ගුඩ්බායි","තෑන්ක් යූ"],answer:2,explanation:"Thank you යනු ස්තුතියි."}]
+ listeningPractice:{"prompt":"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Hello, my name is Anna.”","audio":"Hello, my name is Anna.","options":["හෙලෝ, මගේ නම ආනා.","සුබ රාත්‍රියක්, මගේ නම ආනා.","මම ආනාට ස්තුති කරනවා."],"readings":["හෙලෝ, මයි නේම් ඉස් ඇනා.","ගුඩ් නයිට්, මයි නේම් ඉස් ඇනා.","අයි තෑන්ක් ඇනා."],"answer":0,"meaning":"Hello, my name is Anna. = හෙලෝ, මගේ නම ආනා."},
+  practice:[{prompt:"“මගේ නම ආනා” කියන නිවැරදි වාක්‍යය තෝරන්න.",options:["What is Ana?","My name is Ana.","Goodbye, Ana."],readings:["වොට් ඉස් ආනා?","මයි නේම් ඉස් ආනා.","ගුඩ්බායි, ආනා."],answer:1,explanation:"My name is යනු “මගේ නම ...” යන රටාවයි."},{prompt:"“ඔයාගේ නම මොකක්ද?” කියන්නේ?",options:["What's your name?","How are you?","Thank you."],readings:["වොට්ස් යෝර් නේම්?","හවු ආර් යූ?","තෑන්ක් යූ."],answer:0,explanation:"What's your name? යනු නම අසන ප්‍රශ්නයයි."},{prompt:"“ස්තුතියි” යන අර්ථය කුමක්ද?",options:["Please","Goodbye","Thank you"],readings:["ප්ලීස්","ගුඩ්බායි","තෑන්ක් යූ"],answer:2,explanation:"Thank you යනු ස්තුතියි."}]
  },
  {id:"en-a1-u1-l2",unit:"ආචාර කිරීම සහ හැඳින්වීම",title:"පාඩම 2 · සුවදුක් විමසීම",objective:"How are you? සහ ආචාරශීලී ප්‍රතිචාර භාවිත කිරීම",
  vocabulary:[
@@ -33,7 +34,8 @@ export const ENGLISH_A1_LESSONS = [
  grammarTerms:[{text:"How are you?",reading:"හවු ආර් යූ?",meaning:"ඔයාට කොහොමද?"},{text:"I'm fine, thank you.",reading:"අයිම් ෆයින්, තෑන්ක් යූ.",meaning:"මම හොඳින්, ස්තුතියි."},{text:"And you?",reading:"ඇන්ඩ් යූ?",meaning:"ඔයාට?"},{text:"Excuse me",reading:"ඉක්ස්කියූස් මී",meaning:"සමාවෙන්න / අවසරයි"}],
  examples:[{text:"How are you today?",reading:"හවු ආර් යූ ටුඩේ?",meaning:"අද ඔයාට කොහොමද?"},{text:"I'm fine, thank you.",reading:"අයිම් ෆයින්, තෑන්ක් යූ.",meaning:"මම හොඳින්, ස්තුතියි."},{text:"Excuse me, can you help me?",reading:"ඉක්ස්කියූස් මී, කැන් යූ හෙල්ප් මී?",meaning:"සමාවෙන්න, මට උදව් කරන්න පුළුවන්ද?"}],
  dialogue:[{text:"Good morning! How are you?",reading:"ගුඩ් මෝර්නින්! හවු ආර් යූ?",meaning:"සුබ උදෑසනක්! ඔයාට කොහොමද?"},{text:"I'm fine, thank you. And you?",reading:"අයිම් ෆයින්, තෑන්ක් යූ. ඇන්ඩ් යූ?",meaning:"මම හොඳින්, ස්තුතියි. ඔයාට?"},{text:"I'm good too.",reading:"අයිම් ගුඩ් ටූ.",meaning:"මමත් හොඳින්."},{text:"Great. Have a nice day!",reading:"ග්‍රේට්. හැව් අ නයිස් ඩේ!",meaning:"නියමයි. සුබ දවසක්!"}],
- practice:[{prompt:"“මම හොඳින්, ස්තුතියි” තෝරන්න.",options:["I'm fine, thank you.","I'm sorry.","Goodbye."],readings:["අයිම් ෆයින්, තෑන්ක් යූ.","අයිම් සොරි.","ගුඩ්බායි."],answer:0,explanation:"I'm fine, thank you යනු මම හොඳින්, ස්තුතියි."},{prompt:"කෙනෙකුගෙන් සුවදුක් අසන ප්‍රශ්නය?",options:["What's your name?","How are you?","Where is it?"],readings:["වොට්ස් යෝර් නේම්?","හවු ආර් යූ?","වෙයාර් ඉස් ඉට්?"],answer:1,explanation:"How are you? යනු ඔයාට කොහොමද?"},{prompt:"අවධානය ලබාගෙන ප්‍රශ්නයක් අසන්න පෙර භාවිත කරන්නේ?",options:["Excuse me","No problem","Goodbye"],readings:["ඉක්ස්කියූස් මී","නෝ ප්‍රොබ්ලම්","ගුඩ්බායි"],answer:0,explanation:"Excuse me යනු සමාවෙන්න / අවසරයි."}]
+ listeningPractice:{"prompt":"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “I am fine, thank you.”","audio":"I am fine, thank you.","options":["මම හොඳින්, ස්තුතියි.","මට උදව් කරන්න පුළුවන්ද?","මම ගෙදර යනවා."],"readings":["අයි ඇම් ෆයින්, තෑන්ක් යූ.","කැන් යූ හෙල්ප් මී?","අයි ඇම් ගෝයිං හෝම්."],"answer":0,"meaning":"I am fine, thank you. = මම හොඳින්, ස්තුතියි."},
+  practice:[{prompt:"“මම හොඳින්, ස්තුතියි” තෝරන්න.",options:["I'm fine, thank you.","I'm sorry.","Goodbye."],readings:["අයිම් ෆයින්, තෑන්ක් යූ.","අයිම් සොරි.","ගුඩ්බායි."],answer:0,explanation:"I'm fine, thank you යනු මම හොඳින්, ස්තුතියි."},{prompt:"කෙනෙකුගෙන් සුවදුක් අසන ප්‍රශ්නය?",options:["What's your name?","How are you?","Where is it?"],readings:["වොට්ස් යෝර් නේම්?","හවු ආර් යූ?","වෙයාර් ඉස් ඉට්?"],answer:1,explanation:"How are you? යනු ඔයාට කොහොමද?"},{prompt:"අවධානය ලබාගෙන ප්‍රශ්නයක් අසන්න පෙර භාවිත කරන්නේ?",options:["Excuse me","No problem","Goodbye"],readings:["ඉක්ස්කියූස් මී","නෝ ප්‍රොබ්ලම්","ගුඩ්බායි"],answer:0,explanation:"Excuse me යනු සමාවෙන්න / අවසරයි."}]
  }
 
  ,
@@ -79,7 +81,8 @@ export const ENGLISH_A1_LESSONS = [
  {text:"Thank you. What time does the bus leave?",reading:"තෑන්ක් යූ. වොට් ටයිම් ඩස් ද බස් ලීව්?",meaning:"ස්තුතියි. බස් එක පිටත් වෙන්නේ කීයටද?"},
  {text:"It leaves at seven fifteen.",reading:"ඉට් ලීව්ස් ඇට් සෙවන් ෆිෆ්ටීන්.",meaning:"එය හතයි පහළොවට පිටත් වෙනවා."}
  ],
- practice:[
+ listeningPractice:{"prompt":"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “What time is it?”","audio":"What time is it?","options":["දැන් වෙලාව කීයද?","අද දිනය කුමක්ද?","ඔබට කොහොමද?"],"readings":["වොට් ටයිම් ඉස් ඉට්?","වොට් ඩේ ඉස් ඉට්?","හවු ආර් යූ?"],"answer":0,"meaning":"What time is it? = දැන් වෙලාව කීයද?"},
+  practice:[
  {prompt:"“දැන් වෙලාව කීයද?” යන ප්‍රශ්නය තෝරන්න.",options:["What time is it?","How old are you?","Where is the bus?"],readings:["වොට් ටයිම් ඉස් ඉට්?","හවු ඕල්ඩ් ආර් යූ?","වෙයාර් ඉස් ද බස්?"],answer:0,explanation:"What time is it? යනු දැන් වෙලාව විමසන ප්‍රශ්නයයි."},
  {prompt:"“දැන් අටයි” කියන්නේ කෙසේද?",options:["It is eight o'clock.","It is eight minutes.","At eight bus."],readings:["ඉට් ඉස් ඒට් අ ක්ලොක්.","ඉට් ඉස් ඒට් මිනිට්ස්.","ඇට් ඒට් බස්."],answer:0,explanation:"පැය පමණක් කියන විට o'clock යොදන්න."},
  {prompt:"6:30 සඳහා නිවැරදි ප්‍රකාශය තෝරන්න.",options:["Half past six","A quarter past six","Half past seven"],readings:["හාෆ් පාස්ට් සික්ස්","අ ක්වෝටර් පාස්ට් සික්ස්","හාෆ් පාස්ට් සෙවන්"],answer:0,explanation:"Half past යනු විනාඩි 30ක් පසු වූ වේලාවයි."},
@@ -129,7 +132,8 @@ export const ENGLISH_A1_LESSONS = [
  {text:"Can I pay by card?",reading:"කැන් අයි පේ බයි කාඩ්?",meaning:"මට කාඩ්පතෙන් ගෙවන්න පුළුවන්ද?"},
  {text:"Yes, of course. Here is your receipt.",reading:"යෙස්, අව් කෝර්ස්. හියර් ඉස් යෝර් රිසීට්.",meaning:"ඔව්, පුළුවන්. මෙන්න ඔබේ රිසිට්පත."}
  ],
- practice:[
+ listeningPractice:{"prompt":"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “How much is this?”","audio":"How much is this?","options":["මේකේ මිල කීයද?","මේක කොහෙද තියෙන්නේ?","මේක කාගේද?"],"readings":["හවු මච් ඉස් දිස්?","වෙයාර් ඉස් දිස්?","හූස් ඉස් දිස්?"],"answer":0,"meaning":"How much is this? = මේකේ මිල කීයද?"},
+  practice:[
  {prompt:"“මේක කීයද?” යන ප්‍රශ්නය තෝරන්න.",options:["How much is this?","Where is this?","What time is it?"],readings:["හවු මච් ඉස් දිස්?","වෙයාර් ඉස් දිස්?","වොට් ටයිම් ඉස් ඉට්?"],answer:0,explanation:"How much is this? යනු එක භාණ්ඩයක මිල විමසීමයි."},
  {prompt:"“මට තක්කාලි කිලෝ භාගයක් අවශ්‍යයි” යන අදහස තෝරන්න.",options:["I would like half a kilo of tomatoes.","I need two bottles of water.","I would like one bag."],readings:["අයි වුඩ් ලයික් හාෆ් අ කිලෝ අව් ටමටෝස්.","අයි නීඩ් ටූ බොට්ල්ස් අව් වෝටර්.","අයි වුඩ් ලයික් වන් බැග්."],answer:0,explanation:"Half a kilo යනු කිලෝ භාගයකි."},
  {prompt:"කාඩ්පතෙන් ගෙවීමට අසන්නේ කෙසේද?",options:["Can I pay by card?","Can I have a bag?","How much is this?"],readings:["කැන් අයි පේ බයි කාඩ්?","කැන් අයි හැව් අ බැග්?","හවු මච් ඉස් දිස්?"],answer:0,explanation:"Pay by card යනු කාඩ්පතෙන් ගෙවීමයි."},
@@ -180,7 +184,8 @@ export const ENGLISH_A1_LESSONS = [
  {text:"Thank you for your help.",reading:"තෑන්ක් යූ ෆෝර් යෝර් හෙල්ප්.",meaning:"ඔබේ උදව්වට ස්තුතියි."},
  {text:"You're welcome. Have a nice day!",reading:"යෝර් වෙල්කම්. හැව් අ නයිස් ඩේ!",meaning:"ඒකට කමක් නැහැ. සුබ දවසක්!"}
  ],
- practice:[
+ listeningPractice:{"prompt":"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Turn left at the station.”","audio":"Turn left at the station.","options":["දුම්රිය ස්ථානයේදී වමට හැරෙන්න.","දුම්රිය ස්ථානය ළඟ දකුණට හැරෙන්න.","දුම්රිය ස්ථානයට කෙළින් යන්න."],"readings":["ටර්න් ලෙෆ්ට් ඇට් ද ස්ටේෂන්.","ටර්න් රයිට් නියර් ද ස්ටේෂන්.","ගෝ ස්ට්‍රේට් ටු ද ස්ටේෂන්."],"answer":0,"meaning":"Turn left at the station. = දුම්රිය ස්ථානයේදී වමට හැරෙන්න."},
+  practice:[
  {prompt:"“කෙළින්ම යන්න” යන දිශාව තෝරන්න.",options:["Go straight.","Turn left.","Turn right."],readings:["ගෝ ස්ට්‍රේට්.","ටර්න් ලෙෆ්ට්.","ටර්න් රයිට්."],answer:0,explanation:"Go straight යනු කෙළින්ම යන්නයි."},
  {prompt:"“දුම්රිය ස්ථානය කොහෙද?” කියන්නේ?",options:["Where is the station?","How much is this?","What time is it?"],readings:["වෙයාර් ඉස් ද ස්ටේෂන්?","හවු මච් ඉස් දිස්?","වොට් ටයිම් ඉස් ඉට්?"],answer:0,explanation:"Where is ...? යොදාගෙන ස්ථානයක් අසන්න."},
  {prompt:"“වමට හැරෙන්න” සඳහා නිවැරදි වාක්‍යය තෝරන්න.",options:["Turn left.","Turn right.","Go straight."],readings:["ටර්න් ලෙෆ්ට්.","ටර්න් රයිට්.","ගෝ ස්ට්‍රේට්."],answer:0,explanation:"Left යනු වමයි."},
@@ -230,7 +235,8 @@ export const ENGLISH_A1_LESSONS = [
  {text:"Thank you. I don't understand this machine yet.",reading:"තෑන්ක් යූ. අයි ඩෝන්ට් අන්ඩර්ස්ටෑන්ඩ් දිස් මෂීන් යෙට්.",meaning:"ස්තුතියි. මට තවම මේ යන්ත්‍රය තේරෙන්නේ නැහැ."},
  {text:"No problem. I will help you.",reading:"නෝ ප්‍රොබ්ලම්. අයි විල් හෙල්ප් යූ.",meaning:"ප්‍රශ්නයක් නැහැ. මම ඔබට උදව් කරන්නම්."}
  ],
- practice:[
+ listeningPractice:{"prompt":"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Can you help me?”","audio":"Can you help me?","options":["ඔබට මට උදව් කරන්න පුළුවන්ද?","මම ඔබට පෙන්වන්නම්.","මගේ වැඩ මුරය අවසන්."],"readings":["කැන් යූ හෙල්ප් මී?","අයි විල් ෂෝ යූ.","මයි ෂිෆ්ට් ඉස් ඕවර්."],"answer":0,"meaning":"Can you help me? = ඔබට මට උදව් කරන්න පුළුවන්ද?"},
+  practice:[
  {prompt:"“මගේ වැඩ මුරය අටට පටන් ගන්නවා” යන වාක්‍යය තෝරන්න.",options:["My shift starts at eight.","My break is finished.","I work at home."],readings:["මයි ෂිෆ්ට් ස්ටාර්ට්ස් ඇට් ඒට්.","මයි බ්‍රේක් ඉස් ෆිනිෂ්ට්.","අයි වර්ක් ඇට් හෝම්."],answer:0,explanation:"My shift starts at ... යනු වැඩ මුරය පටන් ගන්නා වේලාව කියයි."},
  {prompt:"උදව් ඉල්ලන නිවැරදි වාක්‍යය කුමක්ද?",options:["Can you help me?","Where is the station?","How much is this?"],readings:["කැන් යූ හෙල්ප් මී?","වෙයාර් ඉස් ද ස්ටේෂන්?","හවු මච් ඉස් දිස්?"],answer:0,explanation:"Can you help me? යනු උදව් ඉල්ලන ආචාරශීලී ප්‍රශ්නයකි."},
  {prompt:"“මට තේරෙන්නේ නැහැ” කියන්නේ?",options:["I don't understand.","I am finished.","I am on my break."],readings:["අයි ඩෝන්ට් අන්ඩර්ස්ටෑන්ඩ්.","අයි ඇම් ෆිනිෂ්ට්.","අයි ඇම් ඔන් මයි බ්‍රේක්."],answer:0,explanation:"I don't understand යනු මට තේරෙන්නේ නැහැ."},
