@@ -48,7 +48,7 @@
 - Commit `7c21c17696fb228b99a1a9c70e1160071d7edbc9` integrates these lessons into the Learn tab and adds quiz selection/answer feedback UI. Serbian A1 lessons display when Serbian is selected; English currently shows an honest in-progress notice rather than falsely claiming completed lesson content.
 - README update commit: `12e6ce42eed048572a03999a55fa81c32dbf45ce`.
 - The lesson code has been source-edited and committed; CI for the latest App.js integration is not yet confirmed. No physical-device testing has been done.
-- Vocabulary now contains 199 Serbian and 199 English entries (398 total): the original 50-per-language deck plus two 50-per-language expansions and a third 49-per-language expansion in `vocabularyPacks.js`, `vocabularyPack2.js` and `vocabularyPack3.js`. Categories include numbers, weekdays, meals/food, everyday objects, shopping, directions, workplace, transport, home, weather, basic health, clothing, colours, daily verbs and useful adjectives. Repeated clothing headwords were removed from pack 3. The app appends all packs to the correct language deck.
+- Vocabulary now contains 242 Serbian and 241 English entries (483 total): the original 50-per-language deck plus themed packs in `vocabularyPacks.js`, `vocabularyPack2.js`, `vocabularyPack3.js` and `vocabularyPack4.js`. Categories include numbers, weekdays, meals/food, everyday objects, shopping, directions, workplace, transport, home, weather, basic health, clothing, colours, daily verbs, useful adjectives, money, public places, technology and time expressions. Duplicate headwords from pack 3 and pack 4 were removed. The app appends all packs to the correct language deck.
 - Progress, XP, missions, theme and translator history remain in-memory only; they reset on app restart. No live Google login or Supabase cloud backup exists.
 - No committed `package-lock.json`; CI currently generates a temporary lockfile.
 - Custom static 3D-style icon assets are not integrated; current UI still includes emoji/text glyphs.
@@ -62,7 +62,7 @@
 
 ## Next task — resume here
 1. Check CI for the structured Serbian A1 lesson integration and fix any confirmed syntax/export problems.
-2. Continue expanding vocabulary in verified batches from the current 398 entries until the combined Serbian + English deck exceeds 1,000 entries; keep pronunciation, Sinhala meaning and contextual examples accurate. Then add structured lessons for the same themes.
+2. Continue expanding vocabulary in verified batches from the current 483 entries until the combined Serbian + English deck exceeds 1,000 entries; keep pronunciation, Sinhala meaning and contextual examples accurate. Then add structured lessons for the same themes.
 3. Create equivalent structured English A1 lessons; keep Serbian and English progress separate.
 4. Generate a valid `package-lock.json` in a proper npm checkout and update CI to use it.
 5. Implement local persistence for progress, XP, missions, theme and translator history, then safe cloud sync after Supabase configuration.
@@ -70,6 +70,7 @@
 7. Test translator, clipboard, TTS, lessons, scrolling and offline behavior on Android; only claim APK success after an actual native build and install.
 
 ## Session log
+- Latest continuation: `vocabularyPack4.js` initially contained 50 Serbian + 50 English entries for money, public places, technology and time expressions; 7 Serbian and 8 English duplicate headwords were removed, leaving 43 Serbian + 42 English new entries. `App.js` integrates pack 4. Commits: `2c2f6d2da9961f358623add421dd36e6b73cfb93` (pack), `c45a76e2a4f98cf568a2c6979a30a1ae414cd3e1` (integration), `52ad18d2cbd4e7b38b7cf71ba7099ab3a32aae4f` (deduplication). README and handoff updated in this session. Latest CI pending; no device/APK test.
 - Latest continuation: `vocabularyPack3.js` adds 49 Serbian + 49 English entries covering clothing, colours, daily verbs and useful adjectives; repeated Cipele/Shoes headwords removed. `App.js` integrates pack 3. Commits: `63a338ee2a1b482a0abcbb53a4e89191b6eb21a6` (pack), `4bd17f3eac637ee618c5ddb051b84f1aeaa5b55c` (integration), `52d5d0a965902b0172b31b9fe6dd0ec81c8db8f4` (deduplication). README and handoff updated in this session. Android bundle CI for latest commits pending; no device/APK test.
 - Latest continuation: `vocabularyPack2.js` adds 50 Serbian + 50 English entries for workplace, transport, home, weather and basic health; `App.js` integrates the pack. README updated to 150 entries per language (300 total). Commits: `8f770993ec5902a79dc335e6f31b1cb1f8ea6b44` (pack creation), `9e407042e1da57c9d251dde97ea1cbd05248c646` (integration), `3a1b2cc72f81cf897b698cc0463537ca8a0fced2` (Latin spelling correction). README and handoff commits follow. No device/APK test; CI for this new pack still needs checking.
 - Latest continuation: `vocabularyPacks.js` commit `d3276d840e97f73dca52d3a68cf771a307a333df` adds 50 Serbian + 50 English A1 entries; `App.js` commit `debc340b837375476010dd3ccfea1786789e6b24` integrates them, bringing the decks to 100 entries per language (200 total). README records the new total. Android bundle CI for these commits is pending; no device/APK test.
