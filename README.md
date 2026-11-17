@@ -86,3 +86,8 @@ GitHub Actions runs dependency installation, Expo SDK compatibility checks, and 
 ### English A1 listening and revision practice
 - Added one listening-discrimination exercise to each of the six current English A1 lessons. Learners play/replay a target-language sentence, choose its Sinhala meaning, then check the answer; the correct option also reveals its Sinhala-script pronunciation reading.
 - Listening completion is included in each lesson's checked-question count. This is a session-only checked count, not persisted mastery or a proficiency score.
+
+
+### Serbian A1 grammar phrase coverage
+- Expanded structured grammar phrase cards with additional manually authored Sinhala-script readings, Sinhala meanings and individual Serbian TTS controls for common grammar examples: “Dobro sam, hvala”, “Kako ste?”, “Želim čaj”, “Račun, molim”, gender forms of “one/two”, “jedan kilogram”, “dva kilograma” and formal “molim vas”.
+- Sinhala pronunciation spellings are approximate learning aids; listen to the Serbian audio as well.
