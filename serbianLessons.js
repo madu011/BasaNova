@@ -662,5 +662,57 @@ export const SERBIAN_A1_LESSONS = [
       { prompt: "“එක ටිකට්පතක්, කරුණාකර” යන ප්‍රකාශය කුමක්ද?", options: ["Jednu kartu, molim.", "Dobar dan, molim.", "Jedan kilogram, molim."], answer: 0, explanation: "Jednu kartu, molim = එක ටිකට්පතක්, කරුණාකර." }
     ]
   }
+  ,
+  {
+    id: "sr-a1-u4-l2",
+    unit: "ගමන් මඟ සහ ප්‍රවාහනය",
+    title: "පාඩම 9 · හමුවීම් වේලාව සහ ප්‍රවාහන කාලසටහන්",
+    objective: "හමුවීමක් සඳහා වේලාවක් නියම කිරීම, වේලාව වෙනස් කිරීම සහ බස්/දුම්රිය පිටත්වන වේලාව විමසීම.",
+    vocabulary: [
+      { word: "Termin", meaning: "නියමිත හමුවීම / වේලාව", example: "Imam termin u deset.", translation: "මට දහයට හමුවීමක් තිබෙනවා." },
+      { word: "Zakazati termin", meaning: "හමුවීමක් වේලාවක් වෙන් කරගැනීම", example: "Želim da zakažem termin.", translation: "මට හමුවීමක් සඳහා වේලාවක් වෙන් කරගන්න ඕනේ." },
+      { word: "U koliko sati?", meaning: "කීයටද?", example: "U koliko sati je sastanak?", translation: "රැස්වීම කීයටද?" },
+      { word: "Danas", meaning: "අද", example: "Imam termin danas.", translation: "මට අද හමුවීමක් තිබෙනවා." },
+      { word: "Sutra", meaning: "හෙට", example: "Može li sutra?", translation: "හෙට පුළුවන්ද?" },
+      { word: "Odložiti", meaning: "කල් දැමීම", example: "Moram da odložim termin.", translation: "මට හමුවීම කල් දමන්න වෙනවා." },
+      { word: "Polazak", meaning: "පිටත්වීම", example: "Vreme polaska je u osam.", translation: "පිටත්වන වේලාව අටයි." },
+      { word: "Kada polazi autobus?", meaning: "බස් රථය පිටත් වෙන්නේ කීයටද?", example: "Kada polazi autobus za centar?", translation: "නගර මධ්‍යස්ථානයට යන බස් රථය පිටත් වෙන්නේ කීයටද?" },
+      { word: "Kašnjenje", meaning: "ප්‍රමාදය", example: "Autobus ima kašnjenje.", translation: "බස් රථය ප්‍රමාදයි." },
+      { word: "Red vožnje", meaning: "ගමන් කාලසටහන", example: "Gde je red vožnje?", translation: "ගමන් කාලසටහන කොහෙද?" },
+      { word: "Povratna karta", meaning: "ආපසු ගමන් ටිකට්පත", example: "Jednu povratnu kartu, molim.", translation: "ආපසු ගමන් ටිකට්පතක්, කරුණාකර." }
+    ],
+    grammarTerms: [
+      { sr: "Želim da zakažem termin.", si: "මට හමුවීමක් සඳහා වේලාවක් වෙන් කරගන්න ඕනේ.", reading: "ෂෙලිම් දා සාකාෂෙම් තෙර්මින්." },
+      { sr: "Imam termin u deset.", si: "මට දහයට හමුවීමක් තිබෙනවා.", reading: "ඉමාම් තෙර්මින් උ දෙසෙත්." },
+      { sr: "U koliko sati?", si: "කීයටද?", reading: "උ කොලිකො සාති?" },
+      { sr: "Može li sutra?", si: "හෙට පුළුවන්ද?", reading: "මොෂෙ ලි සුත්‍රා?" },
+      { sr: "Kada polazi autobus?", si: "බස් රථය පිටත් වෙන්නේ කීයටද?", reading: "කාදා පොලාසි ආවුතොබුස්?" },
+      { sr: "Autobus kasni deset minuta.", si: "බස් රථය විනාඩි දහයක් ප්‍රමාදයි.", reading: "ආවුතොබුස් කාස්නි දෙසෙත් මිනූතා." },
+      { sr: "Gde je red vožnje?", si: "ගමන් කාලසටහන කොහෙද?", reading: "ග්දේ යේ රෙද් වොෂ්න්යේ?" }
+    ],
+    grammarTitle: "ව්‍යාකරණය · වේලාවක් වෙන් කිරීම සහ පිටත්වන වේලාව විමසීම",
+    grammar: "හමුවීමක් වෙන් කරගැනීමට “Želim da zakažem termin” කියන්න. ඔබට දැනටමත් වේලාවක් තිබෙන බව කියන්න “Imam termin u deset” භාවිත කරන්න. වේලාව අසන්න “U koliko sati?” යොදන්න. ප්‍රවාහනයේදී “Kada polazi autobus?” බස් රථය පිටත්වන වේලාව අසන ප්‍රශ්නයයි. “kasni” යනු ප්‍රමාද වෙනවා යන්නයි.",
+    examples: [
+      { sr: "Dobar dan, želim da zakažem termin.", si: "සුබ දවසක්, මට හමුවීමක් සඳහා වේලාවක් වෙන් කරගන්න ඕනේ." },
+      { sr: "Može li sutra u deset?", si: "හෙට දහයට පුළුවන්ද?" },
+      { sr: "Kada polazi autobus za Beograd?", si: "බෙල්ග්‍රේඩ් බලා යන බස් රථය පිටත් වෙන්නේ කීයටද?" },
+      { sr: "Autobus kasni deset minuta.", si: "බස් රථය විනාඩි දහයක් ප්‍රමාදයි." }
+    ],
+    dialogue: [
+      { sr: "Dobar dan. Želim da zakažem termin.", si: "සුබ දවසක්. මට හමුවීමක් සඳහා වේලාවක් වෙන් කරගන්න ඕනේ." },
+      { sr: "Naravno. Kada vam odgovara?", si: "අනිවාර්යයෙන්ම. ඔබට පහසු කවදාද?" },
+      { sr: "Može li sutra u deset?", si: "හෙට දහයට පුළුවන්ද?" },
+      { sr: "Može. Vidimo se sutra.", si: "පුළුවන්. හෙට හමුවෙමු." },
+      { sr: "Izvinite, kada polazi autobus za centar?", si: "සමාවෙන්න, නගර මධ්‍යස්ථානයට යන බස් රථය පිටත් වෙන්නේ කීයටද?" },
+      { sr: "U deset i pet. Danas malo kasni.", si: "දහයයි පහට. අද ටිකක් ප්‍රමාදයි." },
+      { sr: "Hvala. Gde je red vožnje?", si: "ස්තුතියි. ගමන් කාලසටහන කොහෙද?" }
+    ],
+    practice: [
+      { prompt: "“මට හමුවීමක් සඳහා වේලාවක් වෙන් කරගන්න ඕනේ” තෝරන්න.", options: ["Želim da zakažem termin.", "Kada polazi autobus?", "Imam kartu."], answer: 0, explanation: "Želim da zakažem termin = මට හමුවීමක් වෙන් කරගන්න ඕනේ." },
+      { prompt: "“කීයටද?” අසන Serbian ප්‍රකාශය කුමක්ද?", options: ["Koliko košta?", "U koliko sati?", "Gde je stanica?"], answer: 1, explanation: "U koliko sati? යනු කීයටද? යන්නයි." },
+      { prompt: "බස් රථය පිටත්වන වේලාව අසන්න.", options: ["Kada polazi autobus?", "Da li ste dobro?", "Koje je zanimanje?"], answer: 0, explanation: "Kada polazi autobus? = බස් රථය පිටත් වෙන්නේ කීයටද?" },
+      { prompt: "“බස් රථය විනාඩි දහයක් ප්‍රමාදයි” කියන්නේ?", options: ["Autobus je blizu.", "Autobus kasni deset minuta.", "Autobus polazi sutra."], answer: 1, explanation: "Kasni = ප්‍රමාදයි; deset minuta = විනාඩි දහයක්." }
+    ]
+  }
 
 ];
