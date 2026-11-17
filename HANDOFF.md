@@ -43,11 +43,11 @@
 
 ## Current verified state
 
-- Latest verified vocabulary total: 432 Serbian + 429 English = 861 standard entries. Standard vocabulary remains separate from the new slang learning module.
+- Latest vocabulary deck count after packs 8 and 9 integration: 502 Serbian + 500 English = 1,002 standard entries. Pack 8 was deduplicated against packs 1-7; pack 9 had its repeated English `Manager` removed and one new occupation added. Standard vocabulary remains separate from slang.
 - Commit `ffe98f1247aee6751e86e2606b01bc1046a95614` adds `slangVocabulary.js` with 8 educational entries per language. Entries include Sinhala pronunciation, meaning, contextual examples, strength labels and usage cautions. Explicit sexual slurs and graphic language are excluded.
 - Commit `4646263721b1317dc650814d78b587c3aa0b971b` adds a dedicated Slang / Bad Words toggle inside Learn. A follow-up fix `fdd7323fa4d38c9e67913ad052ce3bc106fe8f1b` corrected the conditional JSX fragment boundary so standard lessons and vocabulary are cleanly separated from slang mode; each entry can play TTS.
 - README update commit: `aa2be6711183323ff7f86db343ba8e0176ebfbb4`.
-- Source changes were committed through GitHub. No local dependency install, Expo bundle export, native APK build or Android device test was run in this session. GitHub Actions was triggered for the slang data, UI and handoff commits; the latest observed runs were queued/in progress, so no pass is claimed.
+- Slang feature CI runs `44117520522` (data), `44117594673` (UI) and `44117631242` (README) completed successfully. The JSX correction run `44117689611` and latest handoff run were in progress at last check. No local dependency install, native APK build or Android device test was run.
 
 - GitHub Actions runs [44110771975](https://github.com/madu011/BasaNova/actions/runs/44110771975) and [44110805124](https://github.com/madu011/BasaNova/actions/runs/44110805124) both passed dependency installation, Expo compatibility and Android JavaScript bundle export for the 50-word-per-language update.
 - Commit `6ef36686b8ebc88bc1ccf41e8dc7ded85be7e3b9` adds `serbianLessons.js` with two structured Serbian A1 lessons: self-introduction/name questions and greetings/polite responses. Each lesson includes Sinhala objectives, vocabulary, approximate pronunciation, grammar explanation, examples, dialogue lines, TTS actions and three interactive multiple-choice questions.
@@ -67,9 +67,9 @@
 - No live API, Supabase migration, Google sign-in or Android device tests have been completed.
 
 ## Next task — resume here
-1. Check GitHub Actions for commits `ffe98f1247aee6751e86e2606b01bc1046a95614` and `4646263721b1317dc650814d78b587c3aa0b971b`; fix any confirmed syntax/export issues.
-2. Continue adding standard vocabulary from 861 entries until the combined Serbian + English deck exceeds 1,000, with duplicate checks and accurate Sinhala support.
-3. Add equivalent structured English A1 lessons; keep Serbian and English progress separate.
+1. Check GitHub Actions for vocabulary pack commits and App integration; fix any confirmed syntax/export issues.
+2. Add structured Serbian A1 lessons for the new food, shopping, travel, communication and occupation vocabulary.
+3. Create equivalent structured English A1 lessons; keep Serbian and English progress separate.
 3. Create equivalent structured English A1 lessons; keep Serbian and English progress separate.
 4. Generate a valid `package-lock.json` in a proper npm checkout and update CI to use it.
 5. Implement local persistence for progress, XP, missions, theme and translator history, then safe cloud sync after Supabase configuration.
@@ -77,6 +77,7 @@
 7. Test translator, clipboard, TTS, lessons, scrolling and offline behavior on Android; only claim APK success after an actual native build and install.
 
 ## Session log
+- 2026-11-17: Expanded standard vocabulary to 1,002 entries: 502 Serbian + 500 English. Pack 8 adds food, shopping, city services, travel and communication; duplicates against packs 1-7 were removed, leaving 36 Serbian + 38 English. Pack 9 adds specialist professions; duplicate `Manager` removed, leaving 34 Serbian + 33 English. Commits: `02e4eb7f392a046fb6d6f1dca65f846a46fc8cfb` (pack 8), `9c97c4919bc92711c0f6f3ee022fc4c95b8c2c20` (pack 8 dedupe), `876c2edf58aa13e10371043040369d93291b40e3` (pack 9), `99850568328e50b3b86158a7fdd08188d10e683f` (pack 9 dedupe), `1c336302196746b2d8bac662803cf1779e2c880b` (App integration). README `'+ru.result.commit_sha+'`. GitHub Actions status pending; no device/APK test.
 - 2026-11-17: Added a separate educational Slang / Bad Words module. `slangVocabulary.js` contains 8 Serbian + 8 English entries with Sinhala meanings/pronunciation, examples, strength labels and cautions. `App.js` adds a Learn-screen toggle so slang is not mixed into the standard deck. Commits: `ffe98f1247aee6751e86e2606b01bc1046a95614` (data), `4646263721b1317dc650814d78b587c3aa0b971b` (initial UI), `fdd7323fa4d38c9e67913ad052ce3bc106fe8f1b` (JSX conditional fix), README `aa2be6711183323ff7f86db343ba8e0176ebfbb4`. GitHub Actions triggered but latest observed runs were queued/in progress; no build pass or device test claimed. Next: verify CI result. Next: check CI and continue standard vocabulary expansion.
 - Latest continuation: `vocabularyPack7.js` adds 48 Serbian + 46 English unique entries for healthcare, appointments, symptoms, household cleaning and appliances. Duplicate headwords removed: Serbian `Lekar`, `Apoteka`, `Lek`; English `Doctor`, `Pharmacy`, `Medicine`, `Cold`, `Clean`. Corrected mixed-script `Peglati` and a Sinhala pronunciation typo. `App.js` integrates pack 7. Commits: `6d5c843134b064987909ed01ee9950fc1cebcce5` (pack), `9633b7b2715287ebd46087d7efabab650d32ac14` (integration), `ff10dbc271258b8e09b0bd9fb80455f840250707` (deduplication/corrections). Verified arrays: base 110 Serbian + 110 English; packs 322 Serbian + 319 English; total 432 Serbian + 429 English = 861 entries. README and handoff updated. CI pending; no device/APK test.
 - Latest continuation: `vocabularyPack6.js` adds 45 Serbian + 45 English entries covering travel, road safety, tools and nature. Duplicate headwords found against earlier packs were removed from the new pack; a final cross-pack audit still finds `Cipele` once duplicated in Serbian and `Shoes` once duplicated in English, while `Open` remains an intentional distinct part-of-speech entry. `App.js` integrates pack 6. Commits: `ebb693159a2196736c1e13746a0764d75c725262` (pack), `ee3a37ff814911442db202ace4649998bda1699e` (integration), `186e364aa8574bbae5f3f73b49d20d9559988121` (deduplication). Verified base arrays: 110 Serbian + 110 English; themed packs: 274 Serbian + 273 English; combined 384 Serbian + 383 English = 767 entries. Earlier README/handoff totals were undercounted and are corrected in this commit. Latest CI pending; no device/APK test.
