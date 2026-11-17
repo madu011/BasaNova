@@ -194,5 +194,279 @@ export const SERBIAN_A1_LESSONS = [
       "explanation": "“Račun, molim” යනු “බිල දෙන්න, කරුණාකර” යන්නයි."
     }
   ]
+},
+  {
+  "id": "sr-a1-u1-l4",
+  "unit": "අංක සහ ගණන් කිරීම",
+  "title": "පාඩම 4 · අංක 0 සිට 1,000 දක්වා ගණන් කරමු",
+  "objective": "0–20 දක්වා අංක කියන්න, දහයේ ගුණාකාර හඳුනාගන්න, සියය සහ දහස කියන්න, මිල සහ ප්‍රමාණ ගණන් කරන්න.",
+  "vocabulary": [
+    {
+      "word": "Nula",
+      "meaning": "බිංදුව",
+      "example": "Broj nula.",
+      "translation": "අංකය: බිංදුව."
+    },
+    {
+      "word": "Jedan",
+      "meaning": "එක",
+      "example": "Broj jedan.",
+      "translation": "අංකය: එක."
+    },
+    {
+      "word": "Dva",
+      "meaning": "දෙක",
+      "example": "Broj dva.",
+      "translation": "අංකය: දෙක."
+    },
+    {
+      "word": "Tri",
+      "meaning": "තුන",
+      "example": "Broj tri.",
+      "translation": "අංකය: තුන."
+    },
+    {
+      "word": "Četiri",
+      "meaning": "හතර",
+      "example": "Broj četiri.",
+      "translation": "අංකය: හතර."
+    },
+    {
+      "word": "Pet",
+      "meaning": "පහ",
+      "example": "Broj pet.",
+      "translation": "අංකය: පහ."
+    },
+    {
+      "word": "Šest",
+      "meaning": "හය",
+      "example": "Broj šest.",
+      "translation": "අංකය: හය."
+    },
+    {
+      "word": "Sedam",
+      "meaning": "හත",
+      "example": "Broj sedam.",
+      "translation": "අංකය: හත."
+    },
+    {
+      "word": "Osam",
+      "meaning": "අට",
+      "example": "Broj osam.",
+      "translation": "අංකය: අට."
+    },
+    {
+      "word": "Devet",
+      "meaning": "නවය",
+      "example": "Broj devet.",
+      "translation": "අංකය: නවය."
+    },
+    {
+      "word": "Deset",
+      "meaning": "දහය",
+      "example": "Broj deset.",
+      "translation": "අංකය: දහය."
+    },
+    {
+      "word": "Jedanaest",
+      "meaning": "එකොළහ",
+      "example": "Broj jedanaest.",
+      "translation": "අංකය: එකොළහ."
+    },
+    {
+      "word": "Dvanaest",
+      "meaning": "දොළහ",
+      "example": "Broj dvanaest.",
+      "translation": "අංකය: දොළහ."
+    },
+    {
+      "word": "Trinaest",
+      "meaning": "දහතුන",
+      "example": "Broj trinaest.",
+      "translation": "අංකය: දහතුන."
+    },
+    {
+      "word": "Četrnaest",
+      "meaning": "දාහතර",
+      "example": "Broj četrnaest.",
+      "translation": "අංකය: දාහතර."
+    },
+    {
+      "word": "Petnaest",
+      "meaning": "පහළොව",
+      "example": "Broj petnaest.",
+      "translation": "අංකය: පහළොව."
+    },
+    {
+      "word": "Šesnaest",
+      "meaning": "දහසය",
+      "example": "Broj šesnaest.",
+      "translation": "අංකය: දහසය."
+    },
+    {
+      "word": "Sedamnaest",
+      "meaning": "දාහත",
+      "example": "Broj sedamnaest.",
+      "translation": "අංකය: දාහත."
+    },
+    {
+      "word": "Osamnaest",
+      "meaning": "දහඅට",
+      "example": "Broj osamnaest.",
+      "translation": "අංකය: දහඅට."
+    },
+    {
+      "word": "Devetnaest",
+      "meaning": "දහනවය",
+      "example": "Broj devetnaest.",
+      "translation": "අංකය: දහනවය."
+    },
+    {
+      "word": "Dvadeset",
+      "meaning": "විස්ස",
+      "example": "Broj dvadeset.",
+      "translation": "අංකය: විස්ස."
+    },
+    {
+      "word": "Trideset",
+      "meaning": "තිහ",
+      "example": "Broj trideset.",
+      "translation": "අංකය: තිහ."
+    },
+    {
+      "word": "Četrdeset",
+      "meaning": "හතළිහ",
+      "example": "Broj četrdeset.",
+      "translation": "අංකය: හතළිහ."
+    },
+    {
+      "word": "Pedeset",
+      "meaning": "පනහ",
+      "example": "Broj pedeset.",
+      "translation": "අංකය: පනහ."
+    },
+    {
+      "word": "Šezdeset",
+      "meaning": "හැට",
+      "example": "Broj šezdeset.",
+      "translation": "අංකය: හැට."
+    },
+    {
+      "word": "Sedamdeset",
+      "meaning": "හැත්තෑව",
+      "example": "Broj sedamdeset.",
+      "translation": "අංකය: හැත්තෑව."
+    },
+    {
+      "word": "Osamdeset",
+      "meaning": "අසූව",
+      "example": "Broj osamdeset.",
+      "translation": "අංකය: අසූව."
+    },
+    {
+      "word": "Devedeset",
+      "meaning": "අනූව",
+      "example": "Broj devedeset.",
+      "translation": "අංකය: අනූව."
+    },
+    {
+      "word": "Sto",
+      "meaning": "සියය",
+      "example": "Broj sto.",
+      "translation": "අංකය: සියය."
+    },
+    {
+      "word": "Dvjesta",
+      "meaning": "දෙසියය",
+      "example": "Broj dvjesta.",
+      "translation": "අංකය: දෙසියය."
+    },
+    {
+      "word": "Trista",
+      "meaning": "තුන්සියය",
+      "example": "Broj trista.",
+      "translation": "අංකය: තුන්සියය."
+    },
+    {
+      "word": "Hiljadu",
+      "meaning": "දහස",
+      "example": "Broj hiljadu.",
+      "translation": "අංකය: දහස."
+    }
+  ],
+  "grammarTitle": "අංක රටාව · 21, 22, 35 වැනි සංයුක්ත අංක",
+  "grammar": "Serbian භාෂාවේ 21 = dvadeset jedan (20 + 1), 22 = dvadeset dva (20 + 2), 35 = trideset pet (30 + 5). මුලින් දහයේ අංකය කියලා පසුව එකක අංකය කියනවා. 100 = sto, 1,000 = hiljadu. පුද්ගලයෙකු හෝ වස්තුවක් සමඟ භාවිත කරන විට jedan/jedna/jedno සහ dva/dve වැනි ස්ත්‍රී/පුං/නපුංසක ලිංග අනුව වෙනස්කම් තියෙනවා; මුලින් ගණන් කිරීමේ මූලික රටාව ඉගෙනගමු.",
+  "examples": [
+    {
+      "sr": "Jedan, dva, tri, četiri, pet.",
+      "si": "එක, දෙක, තුන, හතර, පහ."
+    },
+    {
+      "sr": "Dvadeset jedan, dvadeset dva, dvadeset tri.",
+      "si": "විසි එක, විසි දෙක, විසි තුන."
+    },
+    {
+      "sr": "Trideset pet dinara.",
+      "si": "ඩිනාර් තිස් පහයි."
+    },
+    {
+      "sr": "Sto dinara.",
+      "si": "ඩිනාර් සියයයි."
+    },
+    {
+      "sr": "Hiljadu dinara.",
+      "si": "ඩිනාර් දහසයි."
+    }
+  ],
+  "dialogue": [
+    {
+      "sr": "Koliko košta ovo?",
+      "si": "මේක කීයද?"
+    },
+    {
+      "sr": "Dvesta dinara.",
+      "si": "ඩිනාර් දෙසියයයි."
+    },
+    {
+      "sr": "Dajem trista dinara.",
+      "si": "මම ඩිනාර් තුන්සියයක් දෙනවා."
+    },
+    {
+      "sr": "Evo, pedeset dinara kusura.",
+      "si": "මෙන්න, ඩිනාර් පනහක ඉතුරු."
+    }
+  ],
+  "practice": [
+    {
+      "prompt": "“හත” යන අංකයට Serbian වචනය කුමක්ද?",
+      "options": [
+        "Sedam",
+        "Osam",
+        "Devet"
+      ],
+      "answer": 0,
+      "explanation": "Sedam = හත."
+    },
+    {
+      "prompt": "“විසි එක” කියන්නේ කොහොමද?",
+      "options": [
+        "Jedan dvadeset",
+        "Dvadeset jedan",
+        "Dva deset"
+      ],
+      "answer": 1,
+      "explanation": "මුලින් විස්ස (dvadeset), පසුව එක (jedan): dvadeset jedan."
+    },
+    {
+      "prompt": "“සියය” සඳහා නිවැරදි වචනය?",
+      "options": [
+        "Hiljadu",
+        "Trista",
+        "Sto"
+      ],
+      "answer": 2,
+      "explanation": "Sto = 100; hiljadu = 1,000; trista = 300."
+    }
+  ]
 }
 ];
