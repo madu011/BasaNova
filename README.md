@@ -96,3 +96,9 @@ GitHub Actions runs dependency installation, Expo SDK compatibility checks, and 
 ### English A1 mixed revision test
 - Added a six-question mixed review beneath the six structured English A1 lessons. It samples greetings, responses, time, shopping, directions and workplace communication.
 - Each question includes English TTS replay, a Sinhala-script pronunciation guide, three Sinhala meaning choices and answer feedback. Results are session-only; no saved mastery claim.
+
+
+### Serbian A1 lesson 6 — Workplace communication
+- Added a practical workplace lesson covering job/workplace introductions, working hours, shifts, colleagues, supervisors, asking for help and requesting repeated instructions.
+- Includes Sinhala meanings, Sinhala-script pronunciation support through the existing Serbian lesson renderer, individual Serbian TTS controls, examples, a short workplace dialogue and four quiz questions.
+- This is an additional A1 starter lesson, not a completed Serbian A1 course. Pronunciation spellings are approximate and should be checked against native audio.
