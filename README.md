@@ -13,6 +13,10 @@ BasaNova is a Sinhala-first language-learning app for learning Serbian and Engli
 - Local learning progress for the starter lesson set
 - Home, Lessons, AI Teacher preview, and Progress tabs
 
+## Project continuity
+
+Before continuing development, read [`HANDOFF.md`](./HANDOFF.md). It records the product requirements, latest verified repository state, testing status, workflow rules, and exact next task. Update it with every meaningful development session so work can resume from the correct point even in a new chat.
+
 ## Tech stack
 - React Native + Expo
 - Expo Speech for text-to-speech
