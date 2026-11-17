@@ -71,3 +71,8 @@ GitHub Actions runs dependency installation, Expo SDK compatibility checks, and 
 ### English A1 lesson 5 — Directions and transport
 - Added asking for locations and routes, left/right/straight directions, relative locations, bus stops, train stations, tickets and platforms.
 - Includes Sinhala-script pronunciation and meanings for vocabulary, grammar phrases, examples, dialogue and quiz choices, with individual English TTS controls and four quiz questions.
+
+
+### English A1 lesson 6 — Workplace communication
+- Added workplace introductions, managers/colleagues, day and night shifts, breaks, asking for help, requesting demonstrations, understanding instructions and task completion.
+- Includes Sinhala-script readings and meanings, examples, a workplace dialogue, separate English TTS controls and four interactive quiz questions.
