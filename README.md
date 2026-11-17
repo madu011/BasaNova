@@ -91,3 +91,8 @@ GitHub Actions runs dependency installation, Expo SDK compatibility checks, and 
 ### Serbian A1 grammar phrase coverage
 - Expanded structured grammar phrase cards with additional manually authored Sinhala-script readings, Sinhala meanings and individual Serbian TTS controls for common grammar examples: “Dobro sam, hvala”, “Kako ste?”, “Želim čaj”, “Račun, molim”, gender forms of “one/two”, “jedan kilogram”, “dva kilograma” and formal “molim vas”.
 - Sinhala pronunciation spellings are approximate learning aids; listen to the Serbian audio as well.
+
+
+### English A1 mixed revision test
+- Added a six-question mixed review beneath the six structured English A1 lessons. It samples greetings, responses, time, shopping, directions and workplace communication.
+- Each question includes English TTS replay, a Sinhala-script pronunciation guide, three Sinhala meaning choices and answer feedback. Results are session-only; no saved mastery claim.
