@@ -60,16 +60,16 @@ const serbianSinhala = {
   "Izvinite": "ඉස්විනිතේ",
   "Da": "දා",
   "Ne": "නේ",
-  "Kako si?": "කාකො සී",
+  "Kako si?": "කාකො සී?",
   "Dobro sam": "දොබ්‍රො සාම්",
   "Kako se zoveš?": "කාකො සේ සොවේෂ්?",
-  "Zovem se...": "සොවේම් සේ...",
+  "Zovem se...": "සොවේම් සේ",
   "Ne razumem": "නේ රාසුමේම්",
   "Govorite li engleski?": "ගොවොරිතේ ලි එන්ග්ලෙස්කි?",
-  "Koliko košta?": "කොලිකො කොෂ්තා",
-  "Gde je...?": "ග්දේ යේ",
+  "Koliko košta?": "කොලිකො කොෂ්තා?",
+  "Gde je...?": "ග්දේ යේ?",
   "Voda": "වොදා",
-  "Račun, molim": "රාචූන් මොලීම්",
+  "Račun, molim": "රාචූන්, මොලීම්",
   "Zdravo, kako si?": "ස්ද්‍රාවෝ, කාකො සී?",
   "Dobar dan, gospodine.": "දොබාර් දාන්, ගොස්පොදිනේ.",
   "Dobro jutro svima.": "දොබ්‍රො යූත්‍රො ස්විමා.",
@@ -77,24 +77,50 @@ const serbianSinhala = {
   "Laku noć i prijatno spavaj.": "ලාකු නොච් ඉ ප්‍රියාත්නො ස්පාවායි.",
   "Hvala puno.": "හ්වාලා පූනො.",
   "Molim vas, sačekajte.": "මොලීම් වාස්, සාචෙකායිතේ.",
-  "Izvinite, gde je stanica?": "ඉස්විනිතේ, ග්දේ යේ ස්තානීත්සා?",
+  "Izvinite, gde je stanica?": "ඉස්විනිතේ, ග්දේ යේ ස්තානිත්සා?",
   "Da, razumem.": "දා, රාසුමේම්.",
   "Ne, hvala.": "නේ, හ්වාලා.",
   "Dobro sam, hvala.": "දොබ්‍රො සාම්, හ්වාලා.",
   "Zovem se Madhuranga.": "සොවේම් සේ මධුරංග.",
   "Izvinite, ne razumem.": "ඉස්විනිතේ, නේ රාසුමේම්.",
   "Koliko košta ova kafa?": "කොලිකො කොෂ්තා ඔවා කාෆා?",
-  "Gde je autobuska stanica?": "ග්දේ යේ අව්තොබුස්කා ස්තානීත්සා?",
+  "Gde je autobuska stanica?": "ග්දේ යේ අව්තොබුස්කා ස්තානිත්සා?",
   "Molim vas, jednu vodu.": "මොලීම් වාස්, යෙද්නු වොදු.",
   "Račun, molim.": "රාචූන්, මොලීම්.",
-  "Zdravo! Kako si?": "ස්ද්‍රාවෝ! කාකො සී?",
-  "Dobro sam, hvala. A ti?": "දොබ්‍රො සාම්, හ්වාලා. ආ තී?",
-  "I ja sam dobro.": "ඊ යා සාම් දොබ්‍රො.",
-  "Dobar dan!": "දොබාර් දාන්!",
+  "auto": "ආවුතො",
+  "baba": "බාබා",
+  "car": "ත්සාර්",
+  "čaj": "චායි",
+  "ćao": "චාඔ",
+  "dan": "දාන්",
+  "džem": "ජෙම්",
+  "đak": "ජැක්",
+  "ekran": "එක්‍රාන්",
+  "film": "ෆිල්ම්",
+  "grad": "ග්‍රාද්",
+  "hotel": "හොටෙල්",
+  "ime": "ඉමේ",
+  "ja": "යා",
+  "kafa": "කාෆා",
+  "leto": "ලෙතො",
+  "ljubav": "ල්‍යුබාව්",
+  "more": "මොරෙ",
+  "noć": "නොච්",
+  "njiva": "න්‍යීවා",
+  "oko": "ඔකො",
+  "pas": "පාස්",
+  "ruka": "රූකා",
+  "sunce": "සුන්ත්සේ",
+  "škola": "ෂ්කොලා",
+  "tata": "තාතා",
+  "ulica": "උලිත්සා",
+  "voda": "වොදා",
+  "zima": "සිමා",
+  "žena": "ෂෙනා",
   "Jednu kafu, molim.": "යෙද්නු කාෆු, මොලීම්.",
   "Da li želite šećer?": "දා ලි ෂෙලීතේ ෂෙචෙර්?",
   "Bez šećera, hvala.": "බෙස් ෂෙචෙරා, හ්වාලා.",
-  "To je 200 dinara.": "තො යේ දෙවෙස්තො දිනාра.",
+  "To je 200 dinara.": "තො යේ දෙවෙස්තො දිනාරා.",
   "Možete li da mi pomognete?": "මොෂෙතේ ලි දා මි පොමොග්නෙතේ?",
   "Naravno.": "නාරාව්නො.",
   "Šta treba da uradim?": "ෂ්තා ත්‍රෙබා දා උරාදිම්?",
@@ -103,7 +129,9 @@ const serbianSinhala = {
   "Idite pravo.": "ඉදිතේ ප්‍රාවො.",
   "Skrenite levo.": "ස්ක්‍රෙනිතේ ලෙවො.",
   "Hvala na pomoći.": "හ්වාලා නා පොමොචි."
-};\nconst pronounceSinhala=(text)=>serbianSinhala[text]||"සිංහල උච්චාරණය ඉදිරියේදී එක් කරයි";\nconst speakingPractice={
+};
+const pronounceSinhala=(text)=>serbianSinhala[text]||"උච්චාරණය ඉදිරියේදී එක් කරයි";
+const speakingPractice={
  Serbian:[
   {title:"කෙනෙක් හමුවීම",context:"දිනපතා හමුවීම් සහ හඳුනාගැනීම්",lines:[["Zdravo! Kako si?","හෙලෝ! ඔයාට කොහොමද?"],["Dobro sam, hvala. A ti?","මම හොඳින්, ස්තුතියි. ඔයාට?"],["I ja sam dobro.","මමත් හොඳින්."],["Kako se zoveš?","ඔයාගේ නම මොකක්ද?"],["Zovem se...","මගේ නම..."]]},
   {title:"කැෆේ එකකදී",context:"කෑම බීම ඇණවුම් කිරීම",lines:[["Dobar dan!","සුබ දවසක්!"],["Jednu kafu, molim.","කෝපි එකක් දෙන්න, කරුණාකර."],["Da li želite šećer?","සීනි ඕනෙද?"],["Bez šećera, hvala.","සීනි නැතුව, ස්තුතියි."],["Koliko košta?","කීයද?"],["To je 200 dinara.","ඒක ඩිනාර් 200යි."]]},
@@ -126,7 +154,7 @@ export default function App(){
  const [language,setLanguage]=useState(null),[tab,setTab]=useState("home"),[index,setIndex]=useState(0),[learned,setLearned]=useState({Serbian:[],English:[]}),[dialogIndex,setDialogIndex]=useState(0),[lineIndex,setLineIndex]=useState(0);
  const words=language?courses[language]:[],current=language?words[index%words.length]:null;
  const count=language?learned[language].length:0,percent=language?Math.round(count/words.length*100):0;\n const dialogs=language?speakingPractice[language]:[],dialog=dialogs[dialogIndex%dialogs.length];
- const title=useMemo(()=>({home:"ආයුබෝවන්!",learn:"අද පාඩම",progress:"ඔබේ ප්‍රගතිය",teacher:"AI ගුරුතුමා",speak:"කතා පුහුණුව"})[tab],[tab]);
+ const title=useMemo(()=>({home:"ආයුබෝවන්!",learn:"පාඩම් සහ වචන",progress:"ඔබේ ප්‍රගතිය",teacher:"AI ගුරුතුමා",speak:"කතා පුහුණුව"})[tab],[tab]);
  const choose=lang=>{setLanguage(lang);setIndex(0);setTab("home");};
  const next=()=>setIndex(v=>(v+1)%words.length);
  const mark=()=>{setLearned(v=>({...v,[language]:v[language].includes(current.word)?v[language]:[...v[language],current.word]}));next();};
@@ -143,12 +171,12 @@ export default function App(){
   <ScrollView contentContainerStyle={s.content}>
    <Text style={s.greeting}>{title}</Text><Text style={s.sub}>{language} භාෂාව පමණක් ඉගෙනගන්න ඔබේ වෙනම පාඨමාලාව.</Text>
    {tab==="home"&&<><View style={s.hero}><Text style={s.eyebrow}>YOUR {language.toUpperCase()} JOURNEY</Text><Text style={s.heroTitle}>පියවරෙන් පියවර{"\n"}භාෂාව ප්‍රගුණ කරමු.</Text><Text style={s.sub}>ප්‍රධාන අරමුණ සැබෑ ජීවිතයේ විශ්වාසයෙන් කතා කිරීමයි. වචන සහ අකුරු ටික ටික ඉගෙනගමු.</Text><Action onPress={()=>setTab("speak")}>කතා පුහුණුව පටන් ගන්න →</Action><Action secondary onPress={()=>setTab("learn")}>වචන පාඩම් බලන්න</Action>{language==="Serbian"&&<TouchableOpacity onPress={()=>setTab("alphabet")}><Text style={s.link}>අකුරු මූලිකව බලන්න (අමතර පාඩමක්) →</Text></TouchableOpacity> }</View><View style={s.stats}><View style={s.stat}><Text style={s.statNum}>{count}/{words.length}</Text><Text style={s.sub}>ඉගෙනගත් වචන</Text></View><View style={s.stat}><Text style={s.statNum}>{percent}%</Text><Text style={s.sub}>ප්‍රගතිය</Text></View></View><TouchableOpacity style={s.teacher} onPress={()=>setTab("teacher")}><Text style={{fontSize:25}}>🤖</Text><View style={{flex:1}}><Text style={s.cardTitle}>AI ගුරුතුමා</Text><Text style={s.sub}>ඔබේ මට්ටමට ගැළපෙන පුහුණුව</Text></View><Text style={s.arrow}>›</Text></TouchableOpacity></>}
-   {tab==="learn"&&<View style={s.panel}><Text style={s.eyebrow}>{language.toUpperCase()} · BEGINNER</Text><Text style={s.word}>{current.word}</Text><Text style={s.sound}>සිංහල උච්චාරණය: {current.sound}</Text><Text style={s.meaning}>{current.meaning}</Text>{language==="Serbian"&&<Text style={s.sound}>කියන විදිහ: {pronounceSinhala(current.word)}</Text>}<Action onPress={()=>speak(current.word,language)}>🔊 Serbian හඬ අහන්න</Action><View style={s.example}><Text style={s.sub}>උදාහරණ වාක්‍යය</Text><Text style={s.exampleWord}>{current.example}</Text>{language==="Serbian"&&<Text style={s.sound}>සිංහලෙන් කියන විදිහ: {pronounceSinhala(current.example)}</Text>}<Text style={s.sub}>{current.translation}</Text><TouchableOpacity onPress={()=>speak(current.example,language)}><Text style={s.link}>▶ Serbian වාක්‍ය හඬ අහන්න</Text></TouchableOpacity></View><Action onPress={mark}>මම මේක ඉගෙනගත්තා ✓</Action><Action secondary onPress={next}>ඊළඟ වචනය →</Action></View>}
-   {tab==="alphabet"&&<View style={s.panel}><Text style={s.cardTitle}>Serbian අකුරු · අවශ්‍ය තරමට</Text><Text style={s.sub}>අකුරු පාඩම අමතර කොටසක් පමණයි. හැම අකුරක්ම කටපාඩම් කිරීම වෙනුවට, කියවීමට සහ කතා කිරීමට අවශ්‍ය මූලික දැනුම ටික ටික ගනිමු.</Text>{serbianAlphabet.map(([latin,cyrillic,sound,example])=><TouchableOpacity key={latin} style={s.letterRow} onPress={()=>speak(example,"Serbian")}><View style={s.letterPair}><Text style={s.letter}>{latin}</Text><Text style={s.cyrillic}>{cyrillic}</Text></View><View style={{flex:1}}><Text style={s.sound}>අකුරේ හඬ: {sound}</Text><Text style={s.sub}>උදාහරණය: {example}</Text><Text style={s.meaningSmall}>{example==="auto"?"ආවුතො":example==="baba"?"බාබා":example==="car"?"ත්සාර්":example==="čaj"?"චායි":example==="ćao"?"චාඔ":example==="dan"?"දාන්":example==="džem"?"ජෙම්":example==="đak"?"ජැක්":example==="ekran"?"එක්‍රාන්":example==="film"?"ෆිල්ම්":example==="grad"?"ග්‍රාද්":example==="hotel"?"හොටෙල්":example==="ime"?"ඉමේ":example==="ja"?"යා":example==="kafa"?"කාෆා":example==="leto"?"ලෙතො":example==="ljubav"?"ල්‍යුබාව්":example==="more"?"මොරෙ":example==="noć"?"නොච්":example==="njiva"?"න්‍යීවා":example==="oko"?"ඔකො":example==="pas"?"පාස්":example==="ruka"?"රූකා":example==="sunce"?"සුන්ත්සේ":example==="škola"?"ෂ්කොලා":example==="tata"?"තාතා":example==="ulica"?"උලිත්සා":example==="voda"?"වොදා":example==="zima"?"සිමා":example==="žena"?"ෂෙනා":""}</Text></View><Text style={s.link}>🔊</Text></TouchableOpacity>)}</View>}\n   {tab==="speak"&&<View style={s.panel}><Text style={s.eyebrow}>REAL-LIFE SPEAKING · {language.toUpperCase()}</Text><Text style={s.cardTitle}>{dialog.title}</Text><Text style={s.sub}>{dialog.context} · වාක්‍ය අහන්න, හඬින් නැවත කියන්න.</Text><View style={s.stats}><View style={s.stat}><Text style={s.statNum}>{dialogIndex+1}/{dialogs.length}</Text><Text style={s.sub}>සංවාදය</Text></View><View style={s.stat}><Text style={s.statNum}>{lineIndex+1}/{dialog.lines.length}</Text><Text style={s.sub}>වාක්‍යය</Text></View></View><View style={s.example}><Text style={s.eyebrow}>SAY IT OUT LOUD</Text><Text style={s.exampleWord}>{dialog.lines[lineIndex][0]}</Text>{language==="Serbian"&&<Text style={s.sound}>සිංහල උච්චාරණය: {pronounceSinhala(dialog.lines[lineIndex][0])}</Text>}<Text style={s.sub}>තේරුම: {dialog.lines[lineIndex][1]}</Text><Action onPress={()=>speak(dialog.lines[lineIndex][0],language)}>🔊 Serbian හඬ අහන්න</Action></View><Action onPress={()=>setLineIndex(v=>v+1>=dialog.lines.length?0:v+1)}>ඊළඟ වාක්‍යය →</Action><Action secondary onPress={()=>{setDialogIndex(v=>(v+1)%dialogs.length);setLineIndex(0);}}>වෙනත් සංවාදයක් →</Action><Text style={s.sub}>💡 මුලින් හඬ අහන්න. ඉන්පසු තිරය නොබලා ඔබම කියන්න. දිනපතා කෙටි සංවාද පුහුණුවෙන් fluency වැඩි කරගමු.</Text></View>}\n   {tab==="progress"&&<View style={s.panel}><Text style={s.cardTitle}>{language} පාඨමාලා ප්‍රගතිය</Text><Text style={s.progress}>{percent}%</Text><View style={s.track}><View style={[s.fill,{width:percent+"%"}]}/></View><Text style={s.sub}>{count} / {words.length} ආරම්භක වචන ඉගෙනගෙන ඇත.</Text><Text style={s.sub}>භාෂා දෙකේ ප්‍රගතිය වෙන වෙනම සටහන් වේ.</Text></View>}
+   {tab==="learn"&&<View style={s.panel}><Text style={s.eyebrow}>{language.toUpperCase()} · BEGINNER</Text><Text style={s.word}>{current.word}</Text><Text style={s.sound}>සිංහල උච්චාරණය: {language==="Serbian"?pronounceSinhala(current.word):current.sound}</Text><Text style={s.meaning}>{current.meaning}</Text>{language==="Serbian"&&<Text style={s.sound}>කියන විදිහ: {pronounceSinhala(current.word)}</Text>}<Action onPress={()=>speak(current.word,language)}>🔊 Serbian හඬ අහන්න</Action><View style={s.example}><Text style={s.sub}>උදාහරණ වාක්‍යය</Text><Text style={s.exampleWord}>{current.example}</Text>{language==="Serbian"&&<Text style={s.sound}>සිංහලෙන් කියන විදිහ: {pronounceSinhala(current.example)}</Text>}<Text style={s.sub}>{current.translation}</Text><TouchableOpacity onPress={()=>speak(current.example,language)}><Text style={s.link}>▶ Serbian වාක්‍ය හඬ අහන්න</Text></TouchableOpacity></View><Action onPress={mark}>මම මේක ඉගෙනගත්තා ✓</Action><Action secondary onPress={next}>ඊළඟ වචනය →</Action></View>}
+   {tab==="alphabet"&&<View style={s.panel}><Text style={s.cardTitle}>Serbian අකුරු · අවශ්‍ය තරමට</Text><Text style={s.sub}>අකුරු පාඩම අමතර කොටසක් පමණයි. හැම අකුරක්ම කටපාඩම් කිරීම වෙනුවට, කියවීමට සහ කතා කිරීමට අවශ්‍ය මූලික දැනුම ටික ටික ගනිමු.</Text>{serbianAlphabet.map(([latin,cyrillic,sound,example])=><TouchableOpacity key={latin} style={s.letterRow} onPress={()=>speak(example,"Serbian")}><View style={s.letterPair}><Text style={s.letter}>{latin}</Text><Text style={s.cyrillic}>{cyrillic}</Text></View><View style={{flex:1}}><Text style={s.sound}>අකුරේ හඬ: {sound}</Text><Text style={s.sub}>උදාහරණය: {example}</Text><Text style={s.meaningSmall}>{example==="auto"?"ආවුතො":example==="baba"?"බාබා":example==="car"?"ත්සාර්":example==="čaj"?"චායි":example==="ćao"?"චාඔ":example==="dan"?"දාන්":example==="džem"?"ජෙම්":example==="đak"?"ජැක්":example==="ekran"?"එක්‍රාන්":example==="film"?"ෆිල්ම්":example==="grad"?"ග්‍රාද්":example==="hotel"?"හොටෙල්":example==="ime"?"ඉමේ":example==="ja"?"යා":example==="kafa"?"කාෆා":example==="leto"?"ලෙතො":example==="ljubav"?"ල්‍යුබාව්":example==="more"?"මොරෙ":example==="noć"?"නොච්":example==="njiva"?"න්‍යීවා":example==="oko"?"ඔකො":example==="pas"?"පාස්":example==="ruka"?"රූකා":example==="sunce"?"සුන්ත්සේ":example==="škola"?"ෂ්කොලා":example==="tata"?"තාතා":example==="ulica"?"උලිත්සා":example==="voda"?"වොදා":example==="zima"?"සිමා":example==="žena"?"ෂෙනා":""}</Text></View><Text style={s.link}>🔊</Text></TouchableOpacity>)}</View>}\n   {tab==="speak"&&<View style={s.panel}><Text style={s.eyebrow}>REAL-LIFE SPEAKING · {language.toUpperCase()}</Text><Text style={s.cardTitle}>{dialog.title}</Text><Text style={s.sub}>{dialog.context} · වාක්‍ය අහන්න, හඬින් නැවත කියන්න.</Text><View style={s.stats}><View style={s.stat}><Text style={s.statNum}>{dialogIndex+1}/{dialogs.length}</Text><Text style={s.sub}>සංවාදය</Text></View><View style={s.stat}><Text style={s.statNum}>{lineIndex+1}/{dialog.lines.length}</Text><Text style={s.sub}>වාක්‍යය</Text></View></View><View style={s.example}><Text style={s.eyebrow}>SAY IT OUT LOUD</Text><Text style={s.exampleWord}>{dialog.lines[lineIndex][0]}</Text>{language==="Serbian"&&<Text style={s.sound}>සිංහල උච්චාරණය: {pronounceSinhala(dialog.lines[lineIndex][0])}</Text>}<Text style={s.sub}>තේරුම: {dialog.lines[lineIndex][1]}</Text><Action onPress={()=>speak(dialog.lines[lineIndex][0],language)}>🔊 Serbian හඬ අහන්න</Action></View><Action onPress={()=>setLineIndex(v=>v+1>=dialog.lines.length?0:v+1)}>ඊළඟ වාක්‍යය →</Action><Action secondary onPress={()=>{setDialogIndex(v=>(v+1)%dialogs.length);setLineIndex(0);}}>වෙනත් සංවාදයක් →</Action><Text style={s.sub}>💡 මුලින් හඬ අහන්න. ඉන්පසු තිරය නොබලා ඔබම කියන්න. දිනපතා කෙටි සංවාද පුහුණුවෙන් කතා කිරීමේ හැකියාව දියුණු කරගමු.</Text></View>}\n   {tab==="progress"&&<View style={s.panel}><Text style={s.cardTitle}>{language} පාඨමාලා ප්‍රගතිය</Text><Text style={s.progress}>{percent}%</Text><View style={s.track}><View style={[s.fill,{width:percent+"%"}]}/></View><Text style={s.sub}>{count} / {words.length} ආරම්භක වචන ඉගෙනගෙන ඇත.</Text><Text style={s.sub}>භාෂා දෙකේ ප්‍රගතිය වෙන වෙනම සටහන් වේ.</Text></View>}
    {tab==="teacher"&&<View style={s.panel}><Text style={{fontSize:36}}>🤖</Text><Text style={s.cardTitle}>ඔබේ {language} AI ගුරුතුමා</Text><Text style={s.sub}>මෙය දැනට AI Teacher preview එකකි. සජීවී AI සංවාද සහ කතා හඳුනාගැනීම ඊළඟ අදියරේදී ආරක්ෂිත backend එකක් හරහා සම්බන්ධ කරමු.</Text><Action onPress={()=>speak(language==="Serbian"?"Zdravo, kako si?":"Hello, how are you?",language)}>🔊 {language} හඬ අහන්න</Action></View>}
    <Text style={s.footer}>Created by Madhuranga Yasanath</Text>
   </ScrollView>
-  <View style={s.nav}>{[["home","⌂","මුල් පිටුව"],["speak","◉","කතා"],["learn","▣","වචන"],["teacher","✧","AI ගුරු"],["progress","◔","ප්‍රගතිය"]].map(([id,ic,label])=><TouchableOpacity key={id} onPress={()=>setTab(id)} style={s.navItem}><Text style={[s.navIcon,tab===id&&{color:C.teal}]}>{ic}</Text><Text style={[s.navLabel,tab===id&&{color:C.teal}]}>{label}</Text></TouchableOpacity>)}</View>
+  <View style={s.nav}>{[["home","⌂","මුල් පිටුව"],["speak","◉","කතා"],["learn","▣","පාඩම්"],["teacher","✧","AI ගුරු"],["progress","◔","ප්‍රගතිය"]].map(([id,ic,label])=><TouchableOpacity key={id} onPress={()=>setTab(id)} style={s.navItem}><Text style={[s.navIcon,tab===id&&{color:C.teal}]}>{ic}</Text><Text style={[s.navLabel,tab===id&&{color:C.teal}]}>{label}</Text></TouchableOpacity>)}</View>
  </>}
  </SafeAreaView>;
 }
