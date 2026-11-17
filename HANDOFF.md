@@ -43,35 +43,34 @@
 
 ## Current verified state
 
-- CI runs [44106280204](https://github.com/madu011/BasaNova/actions/runs/44106280204) and [44106299701](https://github.com/madu011/BasaNova/actions/runs/44106299701) passed dependency installation, Expo compatibility and Android JavaScript bundle export.
-- Latest vocabulary implementation commit: `feb39a60bfe69a41a12fbf6d3eea18d67f74b36a`. Added 30 practical entries to Serbian and 30 to English, taking the starter decks to 50 entries per language. New themes include time/day phrases, food/drinks, shopping, transport, home, work, colleagues, asking for help, and everyday responses. Each entry has a Sinhala meaning, reading guidance, and an example with Sinhala translation; the existing Learn screen exposes audio playback.
-- README update commit: `16b6db9f5bd658fd8f0ea09b2198a96a6344f51a`.
-- The new vocabulary is source-committed but has not yet been separately device-tested. Serbian pronunciation display uses the app's approximate Sinhala transliteration; it is not phonetic transcription.
-- Translator still uses MyMemory on explicit user action; live API availability, rate limits, Android clipboard and TTS behavior remain unverified.
-- Supabase/Google cloud sync is architecture documentation only. No live auth, cloud backup or restore is configured.
-- Progress, XP, missions, theme and translator history are in-memory only and reset on app restart.
-- No committed `package-lock.json`; CI creates a temporary lockfile.
-- A1-C2 curriculum roadmap exists, but complete structured lessons for all levels have not been authored. The 50-word decks are starter vocabulary, not complete courses.
-- UI still uses emoji/text glyph icons; custom optimized 3D-style icon assets are not integrated.
+- GitHub Actions runs [44110771975](https://github.com/madu011/BasaNova/actions/runs/44110771975) and [44110805124](https://github.com/madu011/BasaNova/actions/runs/44110805124) both passed dependency installation, Expo compatibility and Android JavaScript bundle export for the 50-word-per-language update.
+- Commit `6ef36686b8ebc88bc1ccf41e8dc7ded85be7e3b9` adds `serbianLessons.js` with two structured Serbian A1 lessons: self-introduction/name questions and greetings/polite responses. Each lesson includes Sinhala objectives, vocabulary, approximate pronunciation, grammar explanation, examples, dialogue lines, TTS actions and three interactive multiple-choice questions.
+- Commit `7c21c17696fb228b99a1a9c70e1160071d7edbc9` integrates these lessons into the Learn tab and adds quiz selection/answer feedback UI. Serbian A1 lessons display when Serbian is selected; English currently shows an honest in-progress notice rather than falsely claiming completed lesson content.
+- README update commit: `12e6ce42eed048572a03999a55fa81c32dbf45ce`.
+- The lesson code has been source-edited and committed; CI for the latest App.js integration is not yet confirmed. No physical-device testing has been done.
+- Current starter decks contain 50 Serbian and 50 English vocabulary entries. These remain separate from the two new structured Serbian A1 lessons.
+- Progress, XP, missions, theme and translator history remain in-memory only; they reset on app restart. No live Google login or Supabase cloud backup exists.
+- No committed `package-lock.json`; CI currently generates a temporary lockfile.
+- Custom static 3D-style icon assets are not integrated; current UI still includes emoji/text glyphs.
+- Translator MyMemory API, Android clipboard, TTS and offline behavior have not been live/device tested.
 
 ## Verification status — be honest
-- The latest code commit `feb39a60bfe69a41a12fbf6d3eea18d67f74b36a` has not yet had its own CI result confirmed.
-- Earlier runs `44106280204` and `44106299701` passed Android JavaScript bundle export, but those runs predate the latest vocabulary change.
-- Android JS bundle export is not a native APK build or physical-device runtime test.
-- No live MyMemory API, clipboard, Supabase migration, Google sign-in or Android device tests have been completed.
-- npm audit previously reported 13 findings (11 moderate, 2 high); review without blindly applying breaking upgrades.
+- Runs `44110771975` and `44110805124` passed the Android JavaScript bundle export before the new structured lesson feature.
+- Latest commits `6ef36686b8ebc88bc1ccf41e8dc7ded85be7e3b9` and `7c21c17696fb228b99a1a9c70e1160071d7edbc9` still need their own CI confirmation.
+- A successful Android JS bundle export is not a native APK build, installation or physical-device runtime test.
+- No live API, Supabase migration, Google sign-in or Android device tests have been completed.
 
 ## Next task — resume here
-1. Check CI for commit `feb39a60bfe69a41a12fbf6d3eea18d67f74b36a`; repair any confirmed export issues.
-2. Add more practical vocabulary by themed groups, but prioritize complete structured Serbian A1 lessons rather than endlessly extending a flat list. Then add English A1 lessons.
-3. Generate a valid `package-lock.json` in a proper npm checkout and switch CI to the committed lockfile.
-4. Implement local persistence for progress, XP, missions, theme and translator history, with safe app hydration.
-5. Make daily missions genuinely actionable and date-aware.
-6. Configure Supabase/Google OAuth after secure app configuration is available; never ask for service-role keys or OAuth secrets in chat.
-7. Replace emoji/text glyphs with optimized static 3D-style PNG/WebP assets.
-8. Test translator, clipboard, TTS, offline behavior and scrolling on Android; build/install a native APK only in an actual Android build environment.
+1. Check CI for the structured Serbian A1 lesson integration and fix any confirmed syntax/export problems.
+2. Expand Serbian A1 with further complete lessons (numbers/time, food/café, directions/transport, shopping and workplace), each with vocabulary, Sinhala explanations, grammar, dialogues, audio and quizzes.
+3. Create equivalent structured English A1 lessons; keep Serbian and English progress separate.
+4. Generate a valid `package-lock.json` in a proper npm checkout and update CI to use it.
+5. Implement local persistence for progress, XP, missions, theme and translator history, then safe cloud sync after Supabase configuration.
+6. Replace emoji/text glyph icons with optimized static 3D-style PNG/WebP assets.
+7. Test translator, clipboard, TTS, lessons, scrolling and offline behavior on Android; only claim APK success after an actual native build and install.
 
 ## Session log
+- Latest continuation: `serbianLessons.js` commit `6ef36686b8ebc88bc1ccf41e8dc7ded85be7e3b9` adds two structured Serbian A1 lessons; `App.js` commit `7c21c17696fb228b99a1a9c70e1160071d7edbc9` integrates vocabulary, grammar, dialogues, TTS and interactive quizzes in Learn. README commit `12e6ce42eed048572a03999a55fa81c32dbf45ce` documents the feature. CI pending; no device/APK test.
 - Latest continuation: commit `feb39a60bfe69a41a12fbf6d3eea18d67f74b36a` added 30 practical Serbian and 30 English vocabulary entries (50 each total). README commit `16b6db9f5bd658fd8f0ea09b2198a96a6344f51a` documents the expanded decks. The new code's CI result is pending verification; no device/APK test yet.
 - Latest continuation: CI runs `44106280204` and `44106299701` passed Android JS bundle export. Commit `6678bcdcb62c4e65a1ddeff9976b91cd1512290c` adds 10 Serbian A1 practical phrases; README commit `8671b76961a4a232e7f0566cfd30d6495a924b05` updates feature documentation. Device tests and native APK build remain outstanding.
 - Initial app scaffold: React Native + Expo, Sinhala-first navy/teal/gold interface.
