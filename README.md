@@ -81,3 +81,8 @@ GitHub Actions runs dependency installation, Expo SDK compatibility checks, and 
 ### Serbian A1 quiz pronunciation support
 - Serbian quiz answer choices now show an approximate Sinhala-script pronunciation beneath Serbian text, alongside the existing individual speaker control. This applies to Serbian answer options containing Latin Serbian letters; the Sinhala question prompts remain Sinhala.
 - The Sinhala-script rendering is an approximation, not a substitute for listening to native Serbian pronunciation.
+
+
+### English A1 listening and revision practice
+- Added one listening-discrimination exercise to each of the six current English A1 lessons. Learners play/replay a target-language sentence, choose its Sinhala meaning, then check the answer; the correct option also reveals its Sinhala-script pronunciation reading.
+- Listening completion is included in each lesson's checked-question count. This is a session-only checked count, not persisted mastery or a proficiency score.
