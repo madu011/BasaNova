@@ -4,6 +4,7 @@ import * as Speech from "expo-speech";
 import * as Clipboard from "expo-clipboard";
 import { COURSE_LEVELS, LESSON_METHOD } from "./curriculum";
 import { SERBIAN_A1_LESSONS } from "./serbianLessons";
+import { ENGLISH_A1_LESSONS } from "./englishLessons";
 import { SERBIAN_EXTRA_VOCAB, ENGLISH_EXTRA_VOCAB } from "./vocabularyPacks";
 import { SERBIAN_VOCAB_PACK_2, ENGLISH_VOCAB_PACK_2 } from "./vocabularyPack2";
 import { SERBIAN_VOCAB_PACK_3, ENGLISH_VOCAB_PACK_3 } from "./vocabularyPack3";
@@ -389,7 +390,38 @@ export default function App(){
       </View>}
      </View>;
     })}
-    </View>:<View style={s.panel}><Text style={s.cardTitle}>English A1 පාඩම් සූදානම් වෙමින් පවතී</Text><Text style={s.sub}>දැනට English වචන 50ක පුහුණු කට්ටලය භාවිත කරන්න. Serbian A1 පාඩම්වලට සමාන සම්පූර්ණ ව්‍යාකරණ, සංවාද සහ පරීක්ෂණ පාඩම් ඊළඟ අදියරේදී එකතු කරනවා.</Text></View>}
+    </View>:<View style={s.panel}>
+    <Text style={s.eyebrow}>ENGLISH · A1 · STRUCTURED LESSONS</Text>
+    <Text style={s.cardTitle}>📘 English A1 සැබෑ පාඩම්</Text>
+    <Text style={s.sub}>සෑම ඉංග්‍රීසි වචනයකටම සහ වාක්‍යයකටම සිංහල අකුරෙන් උච්චාරණය, සිංහල තේරුම සහ වෙනම හඬ පාලකය ඇතුළත්.</Text>
+    {ENGLISH_A1_LESSONS.map((lesson,li)=>{
+     const isExpanded=expandedLessonId===lesson.id;
+     const checkedCount=lesson.practice.filter((q,qi)=>lessonChecked[lesson.id+"-"+qi]).length;
+     return <View key={lesson.id} style={s.lessonCard}>
+      <TouchableOpacity activeOpacity={0.8} onPress={()=>setExpandedLessonId(isExpanded?null:lesson.id)} style={{paddingVertical:4}}>
+       <Text style={s.eyebrow}>LESSON {li+1} · A1 · {checkedCount}/{lesson.practice.length} ප්‍රශ්න පරීක්ෂා කරලා</Text>
+       <View style={{flexDirection:"row",alignItems:"center",justifyContent:"space-between"}}><View style={{flex:1,paddingRight:10}}><Text style={s.cardTitle}>{lesson.title}</Text><Text style={s.sub}>අරමුණ: {lesson.objective}</Text></View><Text style={s.cardTitle}>{isExpanded?"⌃":"⌄"}</Text></View>
+       <Text style={s.link}>{isExpanded?"පාඩම හකුළන්න":"පාඩම විවෘත කරන්න · වචන, ව්‍යාකරණ, සංවාද සහ ප්‍රශ්න"}</Text>
+      </TouchableOpacity>
+      {isExpanded&&<View>
+       <Text style={s.lessonHeading}>📚 නව වචන සහ වාක්‍ය</Text>
+       {lesson.vocabulary.map(item=><View key={item.word} style={s.lessonWord}>
+        <Text style={s.lessonSerbian}>{item.word}</Text><Text style={s.sound}>සිංහල අකුරෙන්: {item.reading}</Text><Text style={s.sub}>{item.meaning}</Text>
+        <Text style={s.lessonExample}>{item.example}</Text><Text style={s.sound}>උදාහරණයේ උච්චාරණය: {item.exampleReading}</Text><Text style={s.sub}>{item.translation}</Text>
+        <View style={{flexDirection:"row",gap:12,flexWrap:"wrap"}}><TouchableOpacity accessibilityRole="button" onPress={()=>speak(item.word,"English")}><Text style={s.link}>🔊 වචනය අහන්න</Text></TouchableOpacity><TouchableOpacity accessibilityRole="button" onPress={()=>speak(item.example,"English")}><Text style={s.link}>🔊 උදාහරණය අහන්න</Text></TouchableOpacity></View>
+       </View>)}
+       <Text style={s.lessonHeading}>🧠 {lesson.grammarTitle}</Text><Text style={s.sub}>{lesson.grammar}</Text>
+       {lesson.grammarTerms.map(term=><View key={term.text} style={s.example}><Text style={s.lessonSerbian}>{term.text}</Text><Text style={s.sound}>සිංහල අකුරෙන්: {term.reading}</Text><Text style={s.sub}>{term.meaning}</Text><TouchableOpacity onPress={()=>speak(term.text,"English")}><Text style={s.link}>🔊 අහන්න</Text></TouchableOpacity></View>)}
+       <Text style={s.lessonHeading}>💬 උදාහරණ</Text>
+       {lesson.examples.map(ex=><View key={ex.text} style={s.example}><Text style={s.lessonSerbian}>{ex.text}</Text><Text style={s.sound}>සිංහල අකුරෙන්: {ex.reading}</Text><Text style={s.sub}>{ex.meaning}</Text><TouchableOpacity onPress={()=>speak(ex.text,"English")}><Text style={s.link}>🔊 වාක්‍යය අහන්න</Text></TouchableOpacity></View>)}
+       <Text style={s.lessonHeading}>🗣️ කෙටි සංවාදය</Text>
+       {lesson.dialogue.map((line,i)=><View key={lesson.id+"-d-"+i} style={s.dialogueLine}><View style={{flex:1}}><Text style={s.lessonSerbian}>{line.text}</Text><Text style={s.sound}>සිංහල අකුරෙන්: {line.reading}</Text><Text style={s.sub}>{line.meaning}</Text></View><TouchableOpacity onPress={()=>speak(line.text,"English")}><Text style={s.link}>🔊</Text></TouchableOpacity></View>)}
+       <Text style={s.lessonHeading}>✍️ දැනුම පරීක්ෂා කරමු</Text>
+       {lesson.practice.map((q,qi)=>{const key=lesson.id+"-"+qi;const selected=lessonAnswers[key];const checked=lessonChecked[key];return <View key={key} style={s.quizCard}><Text style={s.sub}>{qi+1}. {q.prompt}</Text>{q.options.map((option,oi)=><View key={option} style={{flexDirection:"row",alignItems:"center",gap:8}}><TouchableOpacity disabled={!!checked} onPress={()=>setLessonAnswers(v=>({...v,[key]:oi}))} style={[s.quizOption,{flex:1},selected===oi&&s.quizSelected,checked&&oi===q.answer&&s.quizCorrect,checked&&selected===oi&&selected!==q.answer&&s.quizWrong]}><Text style={s.quizOptionText}>{String.fromCharCode(65+oi)}. {option}</Text></TouchableOpacity><TouchableOpacity onPress={()=>speak(option,"English")} style={{padding:8}}><Text style={s.link}>🔊</Text></TouchableOpacity></View>)}{checked?<Text style={s.sub}>{selected===q.answer?"නිවැරදියි! ✓ ":"නැවත පුහුණු වෙමු. "}{q.explanation}</Text>:<TouchableOpacity disabled={selected===undefined} onPress={()=>setLessonChecked(v=>({...v,[key]:true}))} style={[s.action,selected===undefined&&{opacity:0.45}]}><Text style={s.actionText}>පිළිතුර පරීක්ෂා කරන්න</Text></TouchableOpacity>}</View>})}
+      </View>}
+     </View>;
+    })}
+   </View>}
    <View style={s.panel}><Text style={s.eyebrow}>📖 {language.toUpperCase()} · BEGINNER</Text><Text style={s.word}>{current.word}</Text><Text style={s.sound}>සිංහල උච්චාරණය: {language==="Serbian"?pronounceSinhala(current.word):current.sound}</Text><Text style={s.meaning}>{current.meaning}</Text>{language==="Serbian"&&<Text style={s.sound}>කියන විදිහ: {pronounceSinhala(current.word)}</Text>}<Action onPress={()=>speak(current.word,language)}>🔊 {language} හඬ අහන්න</Action><View style={s.example}><Text style={s.sub}>💬 උදාහරණ වාක්‍යය</Text><Text style={s.exampleWord}>{current.example}</Text>{language==="Serbian"&&<Text style={s.sound}>සිංහලෙන් කියන විදිහ: {pronounceSinhala(current.example)}</Text>}<Text style={s.sub}>{current.translation}</Text><TouchableOpacity onPress={()=>speak(current.example,language)}><Text style={s.link}>▶ {language} වාක්‍ය හඬ අහන්න</Text></TouchableOpacity></View><Action onPress={mark}>මම මේක ඉගෙනගත්තා ✓</Action><Action secondary onPress={next}>ඊළඟ වචනය →</Action></View><View style={s.panel}><Text style={s.cardTitle}>🗺️ සම්පූර්ණ {language} පාඨමාලා මාර්ගසටහන</Text><Text style={s.sub}>A1 සිට C2 දක්වා සියලු මට්ටම් සැලසුම් කර ඇත. පහත දැක්වෙන්නේ පාඩම් අන්තර්ගතය සකස් කරන මාර්ගසටහනයි; සියලු ඒකක තවම සම්පූර්ණ කර නැත.</Text>{COURSE_LEVELS.map(level=><View key={level.id} style={s.soundCard}><View style={s.soundHead}><Text style={s.soundLetters}>{LEVEL_LABELS[level.id]}</Text><Text style={s.soundName}>{level.title}</Text></View><Text style={s.sub}>{level.goal}</Text>{level.units.map((unit,i)=><Text key={unit} style={s.sub}>{i+1}. {unit}</Text>)}</View>)}<Text style={s.cardTitle}>🧩 සෑම පාඩමකම ඉගෙනුම් ක්‍රමය</Text>{LESSON_METHOD.map((item,i)=><Text key={item} style={s.sub}>{item}</Text>)}</View>
 
     </>}
