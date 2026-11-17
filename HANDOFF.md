@@ -41,15 +41,17 @@
 - AI Teacher is currently only a preview; do not imply it is a live AI tutor or speech-recognition feature until implemented.
 
 ## Current verified state
-- Latest known main-branch commit: `05e9eb79e905dd8e93a9c1398fd7908e72a66828`
-- Latest commit message: `fix: correct source formatting and restore valid JSX line breaks`
+- Latest known App.js correction commit: `792efdd719d231a3073e039de0d79e3513450e90` (`fix: normalize final escaped JSX line break`).
+- Immediately preceding source cleanup commits: `840c7168a6f2a036ed2658263258e8db38dabfd4` and `05e9eb79e905dd8e93a9c1398fd7908e72a66828`.
+- Persistent handoff created in commit `8aacf4bc2be5c285abb87d8f8dad178eb59df70d`; README linked to it in commit `e30865a6ef1b7352bf0d3dfedb765111035d82b1`.
 - Latest known file: `App.js`
 - Main app is a React Native + Expo JavaScript app; `expo-speech` provides device text-to-speech.
 - `App.js` contains Serbian and English starter vocabulary (20 entries each), Sinhala meanings/pronunciation hints, sample dialogues, Serbian alphabet reference, Serbian sound guide, and tabs for Home, Speaking, Lessons, AI Teacher preview and Progress.
 - Progress is currently component state only; persistence across app restarts has not been implemented.
 - Speech playback uses device voices (Serbian `sr-RS`, English `en-US`); availability/quality depends on the Android device's installed voices.
 - A Sinhala pronunciation fallback/transliteration helper was added for Serbian text not in the hand-written dictionary. It is only an approximation and must not be presented as exact pronunciation.
-- Recent source edits corrected accidental literal backslash-n sequences in JSX/code. This was source-level correction only.
+- Source inspection found escaped newline sequences accidentally placed between JSX elements. Three cleanup commits have now removed the remaining unintended occurrences. The intentional JSX string `{"\\n"}` used for a line break in the hero heading remains.
+- A further source review found the previous cleanup commits had not removed every unintended escaped newline; the latest commit fixes the final occurrence.
 
 ## Verification status — be honest
 - GitHub commits above were confirmed by the GitHub connector.
@@ -58,11 +60,11 @@
 - First technical priority is to validate `App.js` and the project build, repair any remaining syntax/JSX/runtime issues, and record actual test results.
 
 ## Next task — resume here
-1. Fetch the current `App.js`, `package.json`, `app.json`, and lockfile (if present) from `main`.
-2. Inspect the complete source for syntax/JSX errors, invalid conditional rendering, empty-array/index risks, and pronunciation fallbacks.
+1. Fetch the current `App.js`, `package.json`, `app.json`, and check whether a lockfile exists on `main`.
+2. Continue reviewing JSX and app state logic. The accidental escaped newline formatting has been corrected at source level, but no parser/build verification has been run.
 3. If tools allow, install dependencies and run a non-device syntax/export/build check. If not, perform the strongest available source validation and clearly report the limitation.
-4. Fix issues and commit verified corrections.
-5. Then build a structured Serbian A1 lesson system using reusable lesson data/components. Each lesson must follow the full Sinhala teaching format in Product requirements, with examples, audio, pronunciation, meaning, practice and a quiz. Apply the same consistent format to English lessons too.
+4. Fix any confirmed issues and commit corrections.
+5. Build the structured Serbian A1 lesson system using reusable lesson data/components. Every lesson must provide Serbian spelling, Sinhala pronunciation, Sinhala meaning, audio, explanation, examples, practice and a quiz. Apply the same consistent method to English lessons.
 6. Update this file with exact progress and the next unfinished task before ending the session.
 
 ## Session log
@@ -71,8 +73,9 @@
 - Added Sinhala pronunciation guidance and practical speaking dialogues.
 - Added optional Serbian alphabet reference and a guide to important Serbian sound distinctions.
 - Added general Sinhala pronunciation fallback for Serbian phrases.
-- Corrected literal escaped newline formatting in source.
-- Latest verified commit: `05e9eb79e905dd8e93a9c1398fd7908e72a66828`.
+- Created `HANDOFF.md` as the persistent project continuity record and linked it from `README.md`.
+- Corrected accidental escaped newline sequences between JSX elements in multiple source cleanup commits; latest App.js correction is `792efdd719d231a3073e039de0d79e3513450e90`.
+- No dependency install, parser check, Expo export/build, APK build, or device runtime test has been confirmed.
 
 ---
 **Continuity rule:** Every meaningful future code change must be accompanied by an update to this file. This is how work should resume at the exact stopping point even when the conversation changes.
