@@ -188,7 +188,8 @@ export default function App(){
  const [xp,setXp]=useState(0);
 
  const completeMission=i=>{if(!missionDone.includes(i)){setMissionDone(v=>[...v,i]);setXp(v=>v+10);}};
- const [language,setLanguage]=useState(null),[tab,setTab]=useState("home"),[index,setIndex]=useState(0),[learned,setLearned]=useState({Serbian:[],English:[]}),[dialogIndex,setDialogIndex]=useState(0),[lineIndex,setLineIndex]=useState(0);\n const [translateInput,setTranslateInput]=useState(""),[translateOutput,setTranslateOutput]=useState(""),[translateLoading,setTranslateLoading]=useState(false),[translateError,setTranslateError]=useState("");
+ const [language,setLanguage]=useState(null),[tab,setTab]=useState("home"),[index,setIndex]=useState(0),[learned,setLearned]=useState({Serbian:[],English:[]}),[dialogIndex,setDialogIndex]=useState(0),[lineIndex,setLineIndex]=useState(0);
+ const [translateInput,setTranslateInput]=useState(""),[translateOutput,setTranslateOutput]=useState(""),[translateLoading,setTranslateLoading]=useState(false),[translateError,setTranslateError]=useState("");
  const words=language?courses[language]:[],current=language?words[index%words.length]:null;
  const count=language?learned[language].length:0,percent=language?Math.round(count/words.length*100):0;
  const dialogs=language?speakingPractice[language]:[],dialog=dialogs[dialogIndex%dialogs.length];
