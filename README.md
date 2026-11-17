@@ -9,6 +9,7 @@ BasaNova is a Sinhala-first language-learning app for learning Serbian and Engli
 - Serbian and English learning modes
 - Separate Serbian and English beginner courses (20 starter entries each) with Sinhala meanings
 - Sinhala pronunciation guides
+- Sinhala-to-Serbian translator panel with Sinhala pronunciation approximation and Serbian text-to-speech
 - Text-to-speech playback for words and example sentences
 - Local learning progress for the starter lesson set
 - Home, Lessons, AI Teacher preview, and Progress tabs
