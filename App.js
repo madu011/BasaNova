@@ -348,7 +348,7 @@ export default function App(){
      const checkedCount=lesson.practice.filter((q,qi)=>lessonChecked[lesson.id+"-"+qi]).length+(SERBIAN_A1_LISTENING[li]&&lessonChecked[lesson.id+"-listen"]?1:0);
      return <View key={lesson.id} style={s.lessonCard}>
       <TouchableOpacity activeOpacity={0.8} onPress={()=>setExpandedLessonId(isExpanded?null:lesson.id)} style={{paddingVertical:4}}>
-       <Text style={s.eyebrow}>LESSON {li+1} · A1 · {checkedCount}/{lesson.practice.length+(lesson.listeningPractice?1:0)} ප්‍රශ්න පරීක්ෂා කරලා</Text>
+       <Text style={s.eyebrow}>LESSON {li+1} · A1 · {checkedCount}/{lesson.practice.length+(SERBIAN_A1_LISTENING[li]?1:0)} ප්‍රශ්න පරීක්ෂා කරලා</Text>
        <View style={{flexDirection:"row",alignItems:"center",justifyContent:"space-between"}}><View style={{flex:1,paddingRight:10}}><Text style={s.cardTitle}>{lesson.title}</Text><Text style={s.sub}>අරමුණ: {lesson.objective}</Text></View><Text style={s.cardTitle}>{isExpanded?"⌃":"⌄"}</Text></View>
        <Text style={s.link}>{isExpanded?"පාඩම හකුළන්න":"පාඩම විවෘත කරන්න · වචන, ව්‍යාකරණ, සංවාද සහ ප්‍රශ්න"}</Text>
       </TouchableOpacity>
