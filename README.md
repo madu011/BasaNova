@@ -109,3 +109,9 @@ GitHub Actions runs dependency installation, Expo SDK compatibility checks, and 
 - Teaches asking about someone's occupation, introducing one's own job, and recognizing common masculine/feminine job-name pairs.
 - Includes Sinhala meanings, Sinhala-script pronunciation support through the lesson renderer, Serbian TTS, examples, a short dialogue and four quiz questions.
 - Serbian job titles have different gender forms and not all follow one identical suffix rule; the lesson teaches common pairs rather than a universal grammar rule.
+
+
+### Serbian A1 listening and mixed revision
+- Added one Serbian listening-discrimination task for each of the seven current A1 starter lessons, with Serbian TTS replay, three Sinhala meaning choices, answer feedback, and approximate Sinhala-script readings/audio for the choices.
+- Added a seven-question mixed revision test covering introductions, greetings, café ordering, numbers, market quantities, workplace communication and occupations. Each Serbian sentence has a Sinhala-script reading, replay control, answer choices and feedback.
+- Listening/revision checks remain session-only; they are not persisted as long-term mastery. Sinhala-script Serbian readings are approximations and should be checked against native-speaker audio.
