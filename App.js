@@ -349,9 +349,15 @@ export default function App(){
      </View>)}
      <Text style={s.lessonHeading}>🧠 {lesson.grammarTitle}</Text>
      <Text style={s.sub}>{lesson.grammar}</Text>
+     {lesson.grammarTerms?.map(term=><View key={lesson.id+"-grammar-"+term.sr} style={s.example}>
+      <Text style={s.lessonSerbian}>{term.sr}</Text>
+      <Text style={s.sound}>සිංහල අකුරෙන්: {term.reading}</Text>
+      <Text style={s.sub}>{term.si}</Text>
+      <TouchableOpacity accessibilityRole="button" accessibilityLabel={term.sr+" හඬ අහන්න"} onPress={()=>speak(term.sr,"Serbian")}><Text style={s.link}>🔊 මේ වාක්‍ය කොටස අහන්න</Text></TouchableOpacity>
+     </View>)}
      {lesson.examples.map(ex=><View key={ex.sr} style={s.example}>
       <Text style={s.lessonSerbian}>{ex.sr}</Text>
-      <Text style={s.sound}>සිංහලෙන්: {pronounceSinhala(ex.sr)}</Text>
+      <Text style={s.sound}>සිංහල අකුරෙන් උච්චාරණය: {pronounceSinhala(ex.sr)}</Text>
       <Text style={s.sub}>{ex.si}</Text>
       <TouchableOpacity onPress={()=>speak(ex.sr,"Serbian")}><Text style={s.link}>▶ උදාහරණය අහන්න</Text></TouchableOpacity>
      </View>)}
@@ -359,7 +365,7 @@ export default function App(){
      {lesson.dialogue.map((line,i)=><View key={lesson.id+"-d-"+i} style={s.dialogueLine}>
       <View style={{flex:1}}>
        <Text style={s.lessonSerbian}>{line.sr}</Text>
-       <Text style={s.sound}>සිංහලෙන්: {pronounceSinhala(line.sr)}</Text>
+       <Text style={s.sound}>සිංහල අකුරෙන් උච්චාරණය: {pronounceSinhala(line.sr)}</Text>
        <Text style={s.sub}>{line.si}</Text>
       </View>
       <TouchableOpacity onPress={()=>speak(line.sr,"Serbian")}><Text style={s.link}>🔊</Text></TouchableOpacity>
