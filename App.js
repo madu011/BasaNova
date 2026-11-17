@@ -4,6 +4,7 @@ import * as Speech from "expo-speech";
 import * as Clipboard from "expo-clipboard";
 import { COURSE_LEVELS, LESSON_METHOD } from "./curriculum";
 import { SERBIAN_A1_LESSONS } from "./serbianLessons";
+import { SERBIAN_A1_LISTENING, SERBIAN_A1_MIXED_REVISION } from "./serbianRevision";
 import { ENGLISH_A1_LESSONS } from "./englishLessons";
 import { SERBIAN_EXTRA_VOCAB, ENGLISH_EXTRA_VOCAB } from "./vocabularyPacks";
 import { SERBIAN_VOCAB_PACK_2, ENGLISH_VOCAB_PACK_2 } from "./vocabularyPack2";
@@ -344,7 +345,7 @@ export default function App(){
     <Text style={s.sub}>වචන පමණක් නොව, ව්‍යාකරණය, උදාහරණ, සංවාද සහ කෙටි පරීක්ෂණ සමඟ පියවරෙන් පියවර ඉගෙනගන්න.</Text>
     {SERBIAN_A1_LESSONS.map((lesson,li)=>{
      const isExpanded=expandedLessonId===lesson.id;
-     const checkedCount=lesson.practice.filter((q,qi)=>lessonChecked[lesson.id+"-"+qi]).length+(lessonChecked[lesson.id+"-listen"]?1:0);
+     const checkedCount=lesson.practice.filter((q,qi)=>lessonChecked[lesson.id+"-"+qi]).length+(SERBIAN_A1_LISTENING[li]&&lessonChecked[lesson.id+"-listen"]?1:0);
      return <View key={lesson.id} style={s.lessonCard}>
       <TouchableOpacity activeOpacity={0.8} onPress={()=>setExpandedLessonId(isExpanded?null:lesson.id)} style={{paddingVertical:4}}>
        <Text style={s.eyebrow}>LESSON {li+1} · A1 · {checkedCount}/{lesson.practice.length+(lesson.listeningPractice?1:0)} ප්‍රශ්න පරීක්ෂා කරලා</Text>
@@ -408,6 +409,48 @@ export default function App(){
       </View>}
      </View>;
     })}
+    <View style={s.quizCard}>
+     <Text style={s.lessonHeading}>🎧 Serbian A1 · එක් එක් පාඩමේ සවන් දීම</Text>
+     <Text style={s.sub}>පාඩම් 1–7 සඳහා Serbian හඬ අහලා නිවැරදි සිංහල අර්ථය තෝරන්න. අවශ්‍ය නම් වාක්‍යය සහ පිළිතුරු නැවත අහන්න.</Text>
+     {SERBIAN_A1_LESSONS.map((lesson,li)=>{
+      const q=SERBIAN_A1_LISTENING[li];if(!q)return null;
+      const key=lesson.id+"-listen";const selected=lessonAnswers[key];const checked=lessonChecked[key];
+      return <View key={key} style={s.quizCard}>
+       <Text style={s.eyebrow}>LESSON {li+1} · {lesson.title}</Text>
+       <Text style={s.sub}>{q.prompt}</Text>
+       <TouchableOpacity onPress={()=>speak(q.audio,"Serbian")} style={s.action}><Text style={s.actionText}>🔊 Serbian වාක්‍යය නැවත අහන්න</Text></TouchableOpacity>
+       {q.options.map((option,oi)=><View key={option} style={{flexDirection:"row",alignItems:"center",gap:7}}>
+        <TouchableOpacity disabled={!!checked} onPress={()=>setLessonAnswers(v=>({...v,[key]:oi}))} style={[s.quizOption,{flex:1},selected===oi&&s.quizSelected,checked&&oi===q.answer&&s.quizCorrect,checked&&selected===oi&&selected!==q.answer&&s.quizWrong]}>
+         <Text style={s.quizOptionText}>{String.fromCharCode(65+oi)}. {option}</Text>
+         {checked&&<Text style={s.sound}>Serbian උච්චාරණය: {q.readings[oi]}</Text>}
+        </TouchableOpacity>
+        <TouchableOpacity accessibilityRole="button" accessibilityLabel="Serbian පිළිතුර අහන්න" onPress={()=>speak(option,"Serbian")} style={{padding:7}}><Text style={s.link}>🔊</Text></TouchableOpacity>
+       </View>)}
+       {checked?<Text style={s.sub}>{selected===q.answer?"නිවැරදියි! ✓ ":"නැවත අහලා උත්සාහ කරමු. "}{q.meaning}</Text>:<TouchableOpacity disabled={selected===undefined} onPress={()=>setLessonChecked(v=>({...v,[key]:true}))} style={[s.action,selected===undefined&&{opacity:0.45}]}><Text style={s.actionText}>පිළිතුර පරීක්ෂා කරන්න</Text></TouchableOpacity>}
+      </View>;
+     })}
+    </View>
+    <View style={s.quizCard}>
+     <Text style={s.lessonHeading}>🏆 Serbian A1 · පාඩම් 1–7 මිශ්‍ර නැවත පුහුණුව</Text>
+     <Text style={s.sub}>සියලු පාඩම්වලින් තෝරාගත් වාක්‍ය අහන්න. සිංහල අකුරෙන් කියන විදිහ බලලා, නිවැරදි තේරුම තෝරන්න.</Text>
+     {SERBIAN_A1_MIXED_REVISION.map((q,qi)=>{
+      const key="serbian-a1-mixed-"+qi;const selected=lessonAnswers[key];const checked=lessonChecked[key];
+      return <View key={key} style={s.quizCard}>
+       <Text style={s.sub}>{qi+1}. හඬ අසා නිවැරදි අර්ථය තෝරන්න</Text>
+       <Text style={s.lessonSerbian}>{q.audio}</Text>
+       <Text style={s.sound}>සිංහල අකුරෙන් උච්චාරණය: {q.reading}</Text>
+       <TouchableOpacity onPress={()=>speak(q.audio,"Serbian")} style={s.action}><Text style={s.actionText}>🔊 නැවත අහන්න</Text></TouchableOpacity>
+       {q.options.map((option,oi)=><View key={option} style={{flexDirection:"row",alignItems:"center",gap:7}}>
+        <TouchableOpacity disabled={!!checked} onPress={()=>setLessonAnswers(v=>({...v,[key]:oi}))} style={[s.quizOption,{flex:1},selected===oi&&s.quizSelected,checked&&oi===q.answer&&s.quizCorrect,checked&&selected===oi&&selected!==q.answer&&s.quizWrong]}>
+         <Text style={s.quizOptionText}>{String.fromCharCode(65+oi)}. {option}</Text>
+        </TouchableOpacity>
+        <TouchableOpacity onPress={()=>speak(option,"Serbian")} style={{padding:7}}><Text style={s.link}>🔊</Text></TouchableOpacity>
+       </View>)}
+       {checked?<Text style={s.sub}>{selected===q.answer?"නිවැරදියි! ✓ ":"නැවත පුහුණු වෙමු. "}{q.options[q.answer]}</Text>:<TouchableOpacity disabled={selected===undefined} onPress={()=>setLessonChecked(v=>({...v,[key]:true}))} style={[s.action,selected===undefined&&{opacity:0.45}]}><Text style={s.actionText}>පිළිතුර පරීක්ෂා කරන්න</Text></TouchableOpacity>}
+      </View>;
+     })}
+     <Text style={s.sub}>මෙම listening සහ revision ප්‍රතිඵල දැනට මේ සැසිය තුළ පමණයි. යෙදුම වසා නැවත විවෘත කළ විට සුරැකෙන්නේ නැහැ.</Text>
+    </View>
     </View>:<View style={s.panel}>
     <Text style={s.eyebrow}>ENGLISH · A1 · STRUCTURED LESSONS</Text>
     <Text style={s.cardTitle}>📘 English A1 සැබෑ පාඩම්</Text>
