@@ -613,5 +613,54 @@ export const SERBIAN_A1_LESSONS = [
       { prompt: "“ඔබගේ රැකියාව කුමක්ද?” යන ප්‍රශ්නය තෝරන්න.", options: ["Gde živite?", "Koje je vaše zanimanje?", "Koliko košta?"], answer: 1, explanation: "“Koje je vaše zanimanje?” යනු ඔබගේ රැකියාව කුමක්ද? යන්නයි." }
     ]
   }
+  ,
+  {
+    id: "sr-a1-u4-l1",
+    unit: "ගමන් මඟ සහ ප්‍රවාහනය",
+    title: "පාඩම 8 · මාර්ගය සහ ප්‍රවාහනය විමසීම",
+    objective: "ස්ථානයක් කොහෙදැයි අසන්න, සරල මාර්ග උපදෙස් තේරුම්ගන්න සහ බස්/දුම්රිය භාවිතයට අවශ්‍ය වාක්‍ය කියන්න.",
+    vocabulary: [
+      { word: "Gde je ...?", meaning: "... කොහෙද?", example: "Gde je autobuska stanica?", translation: "බස් නැවතුම්පොළ කොහෙද?" },
+      { word: "Levo", meaning: "වමට", example: "Skrenite levo.", translation: "වමට හැරෙන්න." },
+      { word: "Desno", meaning: "දකුණට", example: "Skrenite desno.", translation: "දකුණට හැරෙන්න." },
+      { word: "Pravo", meaning: "කෙළින්ම", example: "Idite pravo.", translation: "කෙළින්ම යන්න." },
+      { word: "Blizu", meaning: "ළඟ", example: "Stanica je blizu.", translation: "නැවතුම්පොළ ළඟයි." },
+      { word: "Daleko", meaning: "දුර", example: "Da li je centar daleko?", translation: "නගර මධ්‍යස්ථානය දුරද?" },
+      { word: "Autobuska stanica", meaning: "බස් නැවතුම්පොළ", example: "Gde je autobuska stanica?", translation: "බස් නැවතුම්පොළ කොහෙද?" },
+      { word: "Železnička stanica", meaning: "දුම්රිය ස්ථානය", example: "Železnička stanica je tamo.", translation: "දුම්රිය ස්ථානය එතැනයි." },
+      { word: "Karta", meaning: "ටිකට්පත", example: "Jednu kartu, molim.", translation: "එක ටිකට්පතක්, කරුණාකර." },
+      { word: "Autobus", meaning: "බස් රථය", example: "Kada dolazi autobus?", translation: "බස් රථය එන්නේ කීයටද?" }
+    ],
+    grammarTerms: [
+      { sr: "Gde je ...?", si: "... කොහෙද?", reading: "ග්දේ යේ ...?" },
+      { sr: "Skrenite levo.", si: "වමට හැරෙන්න.", reading: "ස්ක්‍රෙනිතෙ ලෙවො." },
+      { sr: "Skrenite desno.", si: "දකුණට හැරෙන්න.", reading: "ස්ක්‍රෙනිතෙ දෙස්නො." },
+      { sr: "Idite pravo.", si: "කෙළින්ම යන්න.", reading: "ඉදිතෙ ප්‍රාවො." },
+      { sr: "Da li je ... blizu?", si: "... ළඟද?", reading: "දා ලි යේ ... බ්ලිසු?" },
+      { sr: "Jednu kartu, molim.", si: "එක ටිකට්පතක්, කරුණාකර.", reading: "යෙද්නු කාර්තු, මොලීම්." }
+    ],
+    grammarTitle: "ව්‍යාකරණය · ස්ථාන අසන සහ මාර්ග උපදෙස් දෙන රටා",
+    grammar: "ස්ථානයක් අසන්න “Gde je ...?” භාවිත කරන්න. දිශාවක් කියන විට “levo” (වමට), “desno” (දකුණට), “pravo” (කෙළින්ම) යොදාගන්න. ගෞරවයෙන් උපදෙස් දීමට “Skrenite ...” (හැරෙන්න) සහ “Idite ...” (යන්න) භාවිත කළ හැක. දුර විමසීමට “Da li je ... blizu?” කියන්න.",
+    examples: [
+      { sr: "Izvinite, gde je autobuska stanica?", si: "සමාවෙන්න, බස් නැවතුම්පොළ කොහෙද?" },
+      { sr: "Idite pravo, pa skrenite levo.", si: "කෙළින්ම ගිහින්, පසුව වමට හැරෙන්න." },
+      { sr: "Železnička stanica je blizu.", si: "දුම්රිය ස්ථානය ළඟයි." },
+      { sr: "Jednu kartu do centra, molim.", si: "නගර මධ්‍යස්ථානයට එක ටිකට්පතක්, කරුණාකර." }
+    ],
+    dialogue: [
+      { sr: "Izvinite, gde je autobuska stanica?", si: "සමාවෙන්න, බස් නැවතුම්පොළ කොහෙද?" },
+      { sr: "Idite pravo i skrenite desno.", si: "කෙළින්ම ගිහින් දකුණට හැරෙන්න." },
+      { sr: "Da li je daleko?", si: "ඒක දුරද?" },
+      { sr: "Ne, veoma je blizu.", si: "නැහැ, ඒක ඉතා ළඟයි." },
+      { sr: "Hvala puno!", si: "බොහොම ස්තුතියි!" },
+      { sr: "Nema na čemu.", si: "ඒකට කමක් නැහැ." }
+    ],
+    practice: [
+      { prompt: "“වමට” යන අර්ථය ඇති වචනය තෝරන්න.", options: ["Desno", "Levo", "Pravo"], answer: 1, explanation: "Levo = වමට; desno = දකුණට; pravo = කෙළින්ම." },
+      { prompt: "“බස් නැවතුම්පොළ කොහෙද?” කියන්නේ?", options: ["Gde je autobuska stanica?", "Koliko košta autobus?", "Kada radite?"], answer: 0, explanation: "Gde je ...? යනු ... කොහෙද? යන ප්‍රශ්න රටාවයි." },
+      { prompt: "“කෙළින්ම යන්න” කියන උපදෙස තෝරන්න.", options: ["Skrenite levo.", "Idite pravo.", "Skrenite desno."], answer: 1, explanation: "Idite pravo = කෙළින්ම යන්න." },
+      { prompt: "“එක ටිකට්පතක්, කරුණාකර” යන ප්‍රකාශය කුමක්ද?", options: ["Jednu kartu, molim.", "Dobar dan, molim.", "Jedan kilogram, molim."], answer: 0, explanation: "Jednu kartu, molim = එක ටිකට්පතක්, කරුණාකර." }
+    ]
+  }
 
 ];
