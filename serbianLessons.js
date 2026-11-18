@@ -539,7 +539,7 @@ export const SERBIAN_A1_LESSONS = [
       { sr: "Možete li da ...?", si: "ඔබට ... කරන්න පුළුවන්ද?", reading: "මොෂෙතෙ ලි දා ...?" },
       { sr: "Treba mi pomoć.", si: "මට උදව් අවශ්‍යයි.", reading: "ත්‍රෙබා මි පොමොච්" },
       { sr: "Ne razumem.", si: "මට තේරෙන්නේ නැහැ.", reading: "නේ රාසුමේම්" }
-    , { sr: "Radim ovde.", si: "මම මෙහි වැඩ කරනවා.", reading: "රාදිම් ඔව්ඩේ" }, { sr: "Možete li da ponovite?", si: "ඔබට නැවත කියන්න පුළුවන්ද?", reading: "මොෂෙතෙ ლી දા ಪೊನೊವಿತೆ" }, { sr: "Radno vreme", si: "වැඩ කරන වේලාව", reading: "රාද්නො ව්‍රෙමේ" }],
+    , { sr: "Radim ovde.", si: "මම මෙහි වැඩ කරනවා.", reading: "රාදිම් ඔව්ඩේ" }, { sr: "Možete li da ponovite?", si: "ඔබට නැවත කියන්න පුළුවන්ද?", reading: "මොෂෙතෙ ලි දා පොනොවිතෙ" }, { sr: "Radno vreme", si: "වැඩ කරන වේලාව", reading: "රාද්නො ව්‍රෙමේ" }],
     grammarTitle: "භාෂා රටාව · වැඩ ගැන කියීම සහ ආචාරශීලීව උදව් ඉල්ලීම",
     grammar: "තමන් කරන දේ කියන්න “Radim ...” (මම වැඩ කරනවා) භාවිත කරන්න. කෙනෙකුගෙන් විධිමත්ව අසන විට “Gde radite?” කියන්න පුළුවන්. “Možete li da ...?” යනු “ඔබට ... කරන්න පුළුවන්ද?” යන ආචාරශීලී ප්‍රශ්න රටාවයි. උපදෙස් නොතේරුණොත් “Ne razumem” කියා, “Možete li da ponovite?” යනුවෙන් නැවත කියන ලෙස ඉල්ලන්න.",
     examples: [
