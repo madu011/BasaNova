@@ -627,5 +627,99 @@ export const ENGLISH_A1_LESSONS = [
   ]
  }
 
+ ,
+ {
+  id:"en-a1-u4-l2",
+  unit:"Travel and transport",
+  title:"Lesson 18 · Travel and transport",
+  objective:"Ask for a bus or train ticket, check departure times, and find a platform or destination.",
+  vocabulary:[
+   {word:"Bus",reading:"බස්",meaning:"බස් රථය",example:"The bus arrives at eight.",exampleReading:"ද බස් අරයිව්ස් ඇට් එයිට්.",translation:"බස් රථය අටට එනවා."},
+   {word:"Train",reading:"ට්‍රේන්",meaning:"දුම්රිය",example:"The train leaves at nine.",exampleReading:"ද ට්‍රේන් ලීව්ස් ඇට් නයින්.",translation:"දුම්රිය නවයට පිටත් වෙනවා."},
+   {word:"Ticket",reading:"ටික්ට්",meaning:"ටිකට්පත",example:"One ticket, please.",exampleReading:"වන් ටික්ට්, ප්ලීස්.",translation:"ටිකට් එකක් දෙන්න, කරුණාකර."},
+   {word:"Station",reading:"ස්ටේෂන්",meaning:"නැවතුම්පොළ / ස්ථානය",example:"Where is the bus station?",exampleReading:"වෙයාර් ඉස් ද බස් ස්ටේෂන්?",translation:"බස් නැවතුම්පොළ කොහෙද?"},
+   {word:"Departure",reading:"ඩිපාර්චර්",meaning:"පිටත්වීම",example:"What time is the departure?",exampleReading:"වොට් ටයිම් ඉස් ද ඩිපාර්චර්?",translation:"පිටත්වීමේ වේලාව කීයද?"},
+   {word:"Arrival",reading:"අරයිවල්",meaning:"පැමිණීම",example:"What time is the arrival?",exampleReading:"වොට් ටයිම් ඉස් ද අරයිවල්?",translation:"පැමිණීමේ වේලාව කීයද?"},
+   {word:"Platform",reading:"ප්ලැට්ෆෝම්",meaning:"වේදිකාව",example:"The train leaves from platform two.",exampleReading:"ද ට්‍රේන් ලීව්ස් ෆ්‍රම් ප්ලැට්ෆෝම් ටූ.",translation:"දුම්රිය දෙවන වේදිකාවෙන් පිටත් වෙනවා."},
+   {word:"One-way ticket",reading:"වන් වේ ටික්ට්",meaning:"එක් පැත්තකට ටිකට්පත",example:"I need a one-way ticket.",exampleReading:"අයි නීඩ් අ වන් වේ ටික්ට්.",translation:"මට එක් පැත්තකට ටිකට්පතක් ඕනේ."}
+  ],
+  grammarTitle:"Grammar · Asking about tickets and journeys",
+  grammar:"Use “One ticket, please” to ask for a ticket. Ask about departure with “When does ... leave?” Use “Where is ...?” to find a place. Use “from” to say which platform a train leaves from.",
+  grammarTerms:[
+   {text:"One ticket, please.",reading:"වන් ටික්ට්, ප්ලීස්.",meaning:"ටිකට් එකක් දෙන්න, කරුණාකර."},
+   {text:"When does the bus leave?",reading:"වෙන් ඩස් ද බස් ලීව්?",meaning:"බස් රථය පිටත් වන්නේ කවදාද?"},
+   {text:"Where is the platform?",reading:"වෙයාර් ඉස් ද ප්ලැට්ෆෝම්?",meaning:"වේදිකාව කොහෙද?"},
+   {text:"The train is late.",reading:"ද ට්‍රේන් ඉස් ලේට්.",meaning:"දුම්රිය ප්‍රමාදයි."},
+   {text:"How long is the journey?",reading:"හවු ලෝන් ඉස් ද ජර්නි?",meaning:"ගමනට කොපමණ වේලාවක් ගත වෙනවාද?"}
+  ],
+  examples:[
+   {text:"One ticket to Belgrade, please.",reading:"වන් ටික්ට් ටු බෙල්ග්‍රේඩ්, ප්ලීස්.",meaning:"බෙල්ග්‍රේඩ් දක්වා ටිකට් එකක් දෙන්න, කරුණාකර."},
+   {text:"When does the next bus leave?",reading:"වෙන් ඩස් ද නෙක්ස්ට් බස් ලීව්?",meaning:"ඊළඟ බස් රථය පිටත් වන්නේ කවදාද?"},
+   {text:"The train leaves from platform three.",reading:"ද ට්‍රේන් ලීව්ස් ෆ්‍රම් ප්ලැට්ෆෝම් ත්‍රී.",meaning:"දුම්රිය තුන්වන වේදිකාවෙන් පිටත් වෙනවා."},
+   {text:"Is this the bus to the city centre?",reading:"ඉස් දිස් ද බස් ටු ද සිටි සෙන්ටර්?",meaning:"මේ නගර මධ්‍යයට යන බස් රථයද?"}
+  ],
+  dialogue:[
+   {text:"Good afternoon. One ticket to Novi Sad, please.",reading:"ගුඩ් ආෆ්ටර්නූන්. වන් ටික්ට් ටු නොවි සාද්, ප්ලීස්.",meaning:"සුබ දවසක්. නෝවි සාද් දක්වා ටිකට් එකක් දෙන්න."},
+   {text:"One-way or return?",reading:"වන් වේ ඕර් රිටර්න්?",meaning:"එක් පැත්තකටද නැත්නම් ආපසු එන ටිකට් එකක්ද?"},
+   {text:"One-way, please.",reading:"වන් වේ, ප්ලීස්.",meaning:"එක් පැත්තකට, කරුණාකර."},
+   {text:"The train leaves at ten fifteen.",reading:"ද ට්‍රේන් ලීව්ස් ඇට් ටෙන් ෆිෆ්ටීන්.",meaning:"දුම්රිය දහයයි පහළොවට පිටත් වෙනවා."},
+   {text:"Which platform?",reading:"විච් ප්ලැට්ෆෝම්?",meaning:"මොන වේදිකාවෙන්ද?"},
+   {text:"Platform two. Have a good trip!",reading:"ප්ලැට්ෆෝම් ටූ. හැව් අ ගුඩ් ට්‍රිප්!",meaning:"දෙවන වේදිකාවෙන්. සුබ ගමනක්!"}
+  ],
+  listeningPractice:{prompt:"Listen and choose the correct meaning: “The train leaves from platform two.”",audio:"The train leaves from platform two.",options:["දුම්රිය පළමු වේදිකාවෙන් පිටත් වෙනවා.","දුම්රිය දෙවන වේදිකාවෙන් පිටත් වෙනවා.","බස් රථය දෙවන වේදිකාවට එනවා."],readings:["ද ට්‍රේන් ලීව්ස් ෆ්‍රම් ප්ලැට්ෆෝම් වන්.","ද ට්‍රේන් ලීව්ස් ෆ්‍රම් ප්ලැට්ෆෝම් ටූ.","ද බස් අරයිව්ස් ඇට් ප්ලැට්ෆෝම් ටූ."],answer:1,meaning:"The train leaves from platform two. = දුම්රිය දෙවන වේදිකාවෙන් පිටත් වෙනවා."},
+  practice:[
+   {prompt:"Choose “One ticket, please.”",options:["One ticket, please.","Where is the platform?","The train is late."],readings:["වන් ටික්ට්, ප්ලීස්.","වෙයාර් ඉස් ද ප්ලැට්ෆෝම්?","ද ට්‍රේන් ඉස් ලේට්."],answer:0,explanation:"One ticket, please = ටිකට් එකක් දෙන්න, කරුණාකර."},
+   {prompt:"How do you ask where the platform is?",options:["When is arrival?","Where is the platform?","How much is it?"],readings:["වෙන් ඉස් අරයිවල්?","වෙයාර් ඉස් ද ප්ලැට්ෆෝම්?","හවු මච් ඉස් ඉට්?"],answer:1,explanation:"Where is the platform? = වේදිකාව කොහෙද?"},
+   {prompt:"Choose “The train is late.”",options:["The train is late.","The train is early.","The bus is leaving."],readings:["ද ට්‍රේන් ඉස් ලේට්.","ද ට්‍රේන් ඉස් අර්ලි.","ද බස් ඉස් ලීවින්."],answer:0,explanation:"The train is late = දුම්රිය ප්‍රමාදයි."},
+   {prompt:"What is a one-way ticket?",options:["A return ticket","A one-way ticket","A bus stop"],readings:["අ රිටර්න් ටික්ට්","අ වන් වේ ටික්ට්","අ බස් ස්ටොප්"],answer:1,explanation:"A one-way ticket = එක් පැත්තකට ටිකට්පතක්."}
+  ]
+ },
+ {
+  id:"en-a1-u4-l3",
+  unit:"Home and household",
+  title:"Lesson 19 · Home and household",
+  objective:"Describe where you live, name rooms and basic furniture, and say where things are in a home.",
+  vocabulary:[
+   {word:"Apartment",reading:"අපාර්ට්මන්ට්",meaning:"මහල් නිවාසය",example:"I live in an apartment.",exampleReading:"අයි ලිව් ඉන් ඇන් අපාර්ට්මන්ට්.",translation:"මම මහල් නිවාසයක ජීවත් වෙනවා."},
+   {word:"House",reading:"හවුස්",meaning:"නිවස",example:"My house is small.",exampleReading:"මයි හවුස් ඉස් ස්මෝල්.",translation:"මගේ නිවස කුඩායි."},
+   {word:"Room",reading:"රූම්",meaning:"කාමරය",example:"My room is bright.",exampleReading:"මයි රූම් ඉස් බ්‍රයිට්.",translation:"මගේ කාමරය ආලෝකවත්."},
+   {word:"Kitchen",reading:"කිචන්",meaning:"මුළුතැන්ගෙය",example:"The kitchen is clean.",exampleReading:"ද කිචන් ඉස් ක්ලීන්.",translation:"මුළුතැන්ගෙය පිරිසිදුයි."},
+   {word:"Bathroom",reading:"බාත්රූම්",meaning:"නාන කාමරය",example:"The bathroom is small.",exampleReading:"ද බාත්රූම් ඉස් ස්මෝල්.",translation:"නාන කාමරය කුඩායි."},
+   {word:"Table",reading:"ටේබල්",meaning:"මේසය",example:"The book is on the table.",exampleReading:"ද බුක් ඉස් ඔන් ද ටේබල්.",translation:"පොත මේසය මත තියෙනවා."},
+   {word:"Chair",reading:"චෙයාර්",meaning:"පුටුව",example:"The chair is next to the table.",exampleReading:"ද චෙයාර් ඉස් නෙක්ස්ට් ටු ද ටේබල්.",translation:"පුටුව මේසය අසල තියෙනවා."},
+   {word:"Bed",reading:"බෙඩ්",meaning:"ඇඳ",example:"The bed is in the room.",exampleReading:"ද බෙඩ් ඉස් ඉන් ද රූම්.",translation:"ඇඳ කාමරයේ තියෙනවා."}
+  ],
+  grammarTitle:"Grammar · Describing rooms and locations",
+  grammar:"Use “in” for something inside a room and “on” for something on a surface: “in the room”, “on the table”. Use “my” to show possession. Use “There is/There are” to say that something exists: “There are two rooms.”",
+  grammarTerms:[
+   {text:"I live in an apartment.",reading:"අයි ලිව් ඉන් ඇන් අපාර්ට්මන්ට්.",meaning:"මම මහල් නිවාසයක ජීවත් වෙනවා."},
+   {text:"The book is on the table.",reading:"ද බුක් ඉස් ඔන් ද ටේබල්.",meaning:"පොත මේසය මත තියෙනවා."},
+   {text:"The bed is in the room.",reading:"ද බෙඩ් ඉස් ඉන් ද රූම්.",meaning:"ඇඳ කාමරයේ තියෙනවා."},
+   {text:"There are two rooms.",reading:"දෙයාර් ආ ටූ රූම්ස්.",meaning:"කාමර දෙකක් තියෙනවා."},
+   {text:"Where is the kitchen?",reading:"වෙයාර් ඉස් ද කිචන්?",meaning:"මුළුතැන්ගෙය කොහෙද?"}
+  ],
+  examples:[
+   {text:"I live in a small apartment.",reading:"අයි ලිව් ඉන් අ ස්මෝල් අපාර්ට්මන්ට්.",meaning:"මම කුඩා මහල් නිවාසයක ජීවත් වෙනවා."},
+   {text:"There are two rooms in my apartment.",reading:"දෙයාර් ආ ටූ රූම්ස් ඉන් මයි අපාර්ට්මන්ට්.",meaning:"මගේ මහල් නිවාසයේ කාමර දෙකක් තියෙනවා."},
+   {text:"The table is in the kitchen, and the bed is in the room.",reading:"ද ටේබල් ඉස් ඉන් ද කිචන්, ඇන්ඩ් ද බෙඩ් ඉස් ඉන් ද රූම්.",meaning:"මේසය මුළුතැන්ගෙයේ, ඇඳ කාමරයේ තියෙනවා."},
+   {text:"The bathroom is next to the kitchen.",reading:"ද බාත්රූම් ඉස් නෙක්ස්ට් ටු ද කිචන්.",meaning:"නාන කාමරය මුළුතැන්ගෙය අසල තියෙනවා."}
+  ],
+  dialogue:[
+   {text:"Where do you live?",reading:"වෙයාර් ඩූ යූ ලිව්?",meaning:"ඔයා කොහෙද ජීවත් වෙන්නේ?"},
+   {text:"I live in a small apartment.",reading:"අයි ලිව් ඉන් අ ස්මෝල් අපාර්ට්මන්ට්.",meaning:"මම කුඩා මහල් නිවාසයක ජීවත් වෙනවා."},
+   {text:"How many rooms are there?",reading:"හවු මෙනි රූම්ස් ආ දෙයාර්?",meaning:"එහි කාමර කීයක් තියෙනවාද?"},
+   {text:"There are two rooms, a kitchen and a bathroom.",reading:"දෙයාර් ආ ටූ රූම්ස්, අ කිචන් ඇන්ඩ් අ බාත්රූම්.",meaning:"කාමර දෙකක්, මුළුතැන්ගෙයක් සහ නාන කාමරයක් තියෙනවා."},
+   {text:"Where is the table?",reading:"වෙයාර් ඉස් ද ටේබල්?",meaning:"මේසය කොහෙද?"},
+   {text:"The table is in the kitchen.",reading:"ද ටේබල් ඉස් ඉන් ද කිචන්.",meaning:"මේසය මුළුතැන්ගෙයේ තියෙනවා."}
+  ],
+  listeningPractice:{prompt:"Listen and choose the correct meaning: “The book is on the table.”",audio:"The book is on the table.",options:["පොත කාමරයේ තියෙනවා.","පොත මේසය මත තියෙනවා.","පොත පුටුව යට තියෙනවා."],readings:["ද බුක් ඉස් ඉන් ද රූම්.","ද බුක් ඉස් ඔන් ද ටේබල්.","ද බුක් ඉස් අන්ඩර් ද චෙයාර්."],answer:1,meaning:"The book is on the table. = පොත මේසය මත තියෙනවා."},
+  practice:[
+   {prompt:"Choose “Room”.",options:["Room","Table","Apartment"],readings:["රූම්","ටේබල්","අපාර්ට්මන්ට්"],answer:0,explanation:"Room = කාමරය."},
+   {prompt:"Choose “The book is on the table.”",options:["The book is in the room.","The book is on the table.","The bed is in the room."],readings:["ද බුක් ඉස් ඉන් ද රූම්.","ද බුක් ඉස් ඔන් ද ටේබල්.","ද බෙඩ් ඉස් ඉන් ද රූම්."],answer:1,explanation:"On the table = මේසය මත."},
+   {prompt:"How do you say “I live in an apartment”?",options:["I live in an apartment.","I live in a house.","There are two rooms."],readings:["අයි ලිව් ඉන් ඇන් අපාර්ට්මන්ට්.","අයි ලිව් ඉන් අ හවුස්.","දෙයාර් ආ ටූ රූම්ස්."],answer:0,explanation:"I live in an apartment = මම මහල් නිවාසයක ජීවත් වෙනවා."},
+   {prompt:"Choose “Bathroom”.",options:["Kitchen","Bathroom","Chair"],readings:["කිචන්","බාත්රූම්","චෙයාර්"],answer:1,explanation:"Bathroom = නාන කාමරය."}
+  ]
+ }
+
 
 ];
