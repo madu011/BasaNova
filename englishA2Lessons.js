@@ -2594,5 +2594,870 @@ export const ENGLISH_A2_LESSONS = [
         "explanation": "කරුණාකර මට උදව් කරන්න පුළුවන්ද?"
       }
     ]
+  },
+{
+    "id": "en-a2-l16",
+    "unit": "රැකියාව සහ සම්මුඛ පරීක්ෂණ",
+    "title": "A2 · Lesson 16 · Job applications and workplace communication",
+    "objective": "Talk about more detailed everyday situations",
+    "vocabulary": [
+      {
+        "word": "job",
+        "reading": "ජොබ්",
+        "meaning": "රැකියාව",
+        "example": "job",
+        "exampleReading": "ජොබ්",
+        "translation": "රැකියාව"
+      },
+      {
+        "word": "application",
+        "reading": "ඇප්ලිකේෂන්",
+        "meaning": "අයදුම්පත",
+        "example": "application",
+        "exampleReading": "ඇප්ලිකේෂන්",
+        "translation": "අයදුම්පත"
+      },
+      {
+        "word": "experience",
+        "reading": "ඉක්ස්පීරියන්ස්",
+        "meaning": "අත්දැකීම",
+        "example": "experience",
+        "exampleReading": "ඉක්ස්පීරියන්ස්",
+        "translation": "අත්දැකීම"
+      },
+      {
+        "word": "skill",
+        "reading": "ස්කිල්",
+        "meaning": "කුසලතාව",
+        "example": "skill",
+        "exampleReading": "ස්කිල්",
+        "translation": "කුසලතාව"
+      },
+      {
+        "word": "interview",
+        "reading": "ඉන්ටර්වියූ",
+        "meaning": "සම්මුඛ පරීක්ෂණය",
+        "example": "interview",
+        "exampleReading": "ඉන්ටර්වියූ",
+        "translation": "සම්මුඛ පරීක්ෂණය"
+      },
+      {
+        "word": "colleague",
+        "reading": "කොලීග්",
+        "meaning": "සහකරු",
+        "example": "colleague",
+        "exampleReading": "කොලීග්",
+        "translation": "සහකරු"
+      },
+      {
+        "word": "salary",
+        "reading": "සැලරි",
+        "meaning": "වැටුප",
+        "example": "salary",
+        "exampleReading": "සැලරි",
+        "translation": "වැටුප"
+      },
+      {
+        "word": "contract",
+        "reading": "කොන්ට්‍රැක්ට්",
+        "meaning": "ගිවිසුම",
+        "example": "contract",
+        "exampleReading": "කොන්ට්‍රැක්ට්",
+        "translation": "ගිවිසුම"
+      }
+    ],
+    "grammarTitle": "Grammar",
+    "grammar": "Use “I have experience in...” for background, “I can...” for skills and “I'm looking for...” for a job search.",
+    "grammarTerms": [
+      {
+        "text": "I'm looking for a new job.",
+        "reading": "අයිම් ලුකින් ෆෝර් අ නිව් ජොබ්.",
+        "meaning": "මම අලුත් රැකියාවක් සොයනවා."
+      }
+    ],
+    "examples": [
+      {
+        "text": "I'm looking for a new job.",
+        "reading": "අයිම් ලුකින් ෆෝර් අ නිව් ජොබ්.",
+        "meaning": "මම අලුත් රැකියාවක් සොයනවා."
+      },
+      {
+        "text": "I have experience in sales.",
+        "reading": "අයි හැව් ඉක්ස්පීරියන්ස් ඉන් සේල්ස්.",
+        "meaning": "මට විකුණුම් ක්ෂේත්‍රයේ අත්දැකීම් තියෙනවා."
+      },
+      {
+        "text": "When is the job interview?",
+        "reading": "වෙන් ඉස් දි ජොබ් ඉන්ටර්වියූ?",
+        "meaning": "රැකියා සම්මුඛ පරීක්ෂණය කවදාද?"
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "Do you have work experience?",
+        "reading": "ඩූ යූ හැව් වර්ක් ඉක්ස්පීරියන්ස්?",
+        "meaning": "ඔබට සේවා පළපුරුද්ද තියෙනවාද?"
+      },
+      {
+        "text": "Yes, I have worked in sales.",
+        "reading": "යෙස්, අයි හැව් වර්ක්ට් ඉන් සේල්ස්.",
+        "meaning": "ඔව්, මම විකුණුම් අංශයේ වැඩ කරලා තියෙනවා."
+      },
+      {
+        "text": "What are your skills?",
+        "reading": "වොට් ආර් යෝර් ස්කිල්ස්?",
+        "meaning": "ඔබගේ කුසලතා මොනවාද?"
+      },
+      {
+        "text": "I communicate well with people.",
+        "reading": "අයි කමියුනිකේට් වෙල් විත් පීපල්.",
+        "meaning": "මම මිනිසුන් සමඟ හොඳින් සන්නිවේදනය කරනවා."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the meaning: “I'm looking for a new job.”",
+      "audio": "I'm looking for a new job.",
+      "reading": "අයිම් ලුකින් ෆෝර් අ නිව් ජොබ්.",
+      "options": [
+        "මම අලුත් රැකියාවක් සොයනවා.",
+        "මට විකුණුම් ක්ෂේත්‍රයේ අත්දැකීම් තියෙනවා.",
+        "රැකියා සම්මුඛ පරීක්ෂණය කවදාද?"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "Choose the correct word.",
+        "options": [
+          "experience",
+          "bill",
+          "course"
+        ],
+        "answer": 0,
+        "explanation": "experience = අත්දැකීම"
+      },
+      {
+        "prompt": "Choose “tomorrow”.",
+        "options": [
+          "tomorrow",
+          "yesterday",
+          "today"
+        ],
+        "answer": 0,
+        "explanation": "හෙට = tomorrow / sutra"
+      },
+      {
+        "prompt": "Choose “please”.",
+        "options": [
+          "please",
+          "maybe",
+          "definitely"
+        ],
+        "answer": 0,
+        "explanation": "කරුණාකර = please / molim vas"
+      },
+      {
+        "prompt": "Choose a sentence that expresses an opinion.",
+        "options": [
+          "I think...",
+          "How much is it?",
+          "Where is the station?"
+        ],
+        "answer": 0,
+        "explanation": "I think... = මම හිතන්නේ..."
+      }
+    ]
+  },
+  {
+    "id": "en-a2-l17",
+    "unit": "මුදල් සහ බැංකු",
+    "title": "A2 · Lesson 17 · Banking and managing money",
+    "objective": "Talk about more detailed everyday situations",
+    "vocabulary": [
+      {
+        "word": "bank",
+        "reading": "බෑන්ක්",
+        "meaning": "බැංකුව",
+        "example": "bank",
+        "exampleReading": "බෑන්ක්",
+        "translation": "බැංකුව"
+      },
+      {
+        "word": "account",
+        "reading": "අකවුන්ට්",
+        "meaning": "ගිණුම",
+        "example": "account",
+        "exampleReading": "අකවුන්ට්",
+        "translation": "ගිණුම"
+      },
+      {
+        "word": "cash",
+        "reading": "කෑෂ්",
+        "meaning": "මුදල් නෝට්ටු",
+        "example": "cash",
+        "exampleReading": "කෑෂ්",
+        "translation": "මුදල් නෝට්ටු"
+      },
+      {
+        "word": "card",
+        "reading": "කාඩ්",
+        "meaning": "කාඩ්පත",
+        "example": "card",
+        "exampleReading": "කාඩ්",
+        "translation": "කාඩ්පත"
+      },
+      {
+        "word": "withdrawal",
+        "reading": "විත්ඩ්‍රෝවල්",
+        "meaning": "මුදල් ගැනීම",
+        "example": "withdrawal",
+        "exampleReading": "විත්ඩ්‍රෝවල්",
+        "translation": "මුදල් ගැනීම"
+      },
+      {
+        "word": "deposit",
+        "reading": "ඩිපොසිට්",
+        "meaning": "තැන්පතුව",
+        "example": "deposit",
+        "exampleReading": "ඩිපොසිට්",
+        "translation": "තැන්පතුව"
+      },
+      {
+        "word": "save",
+        "reading": "සේව්",
+        "meaning": "ඉතිරි කරනවා",
+        "example": "save",
+        "exampleReading": "සේව්",
+        "translation": "ඉතිරි කරනවා"
+      },
+      {
+        "word": "expense",
+        "reading": "ඉක්ස්පෙන්ස්",
+        "meaning": "වියදම",
+        "example": "expense",
+        "exampleReading": "ඉක්ස්පෙන්ස්",
+        "translation": "වියදම"
+      }
+    ],
+    "grammarTitle": "Grammar",
+    "grammar": "Use “I'd like to withdraw...” to ask for cash and “I'm saving for...” to explain a savings goal.",
+    "grammarTerms": [
+      {
+        "text": "Where is the nearest bank?",
+        "reading": "වෙයාර් ඉස් දි නියරස්ට් බෑන්ක්?",
+        "meaning": "ළඟම බැංකුව කොහෙද?"
+      }
+    ],
+    "examples": [
+      {
+        "text": "Where is the nearest bank?",
+        "reading": "වෙයාර් ඉස් දි නියරස්ට් බෑන්ක්?",
+        "meaning": "ළඟම බැංකුව කොහෙද?"
+      },
+      {
+        "text": "I'd like to withdraw some money.",
+        "reading": "අයිඩ් ලයික් ටු විත්ඩ්‍රෝ සම් මනි.",
+        "meaning": "මට මුදල් ටිකක් ගන්න ඕනේ."
+      },
+      {
+        "text": "I'm trying to save money every month.",
+        "reading": "අයිම් ට්‍රයිං ටු සේව් මනි එව්රි මන්ත්.",
+        "meaning": "මම හැම මාසෙම මුදල් ඉතිරි කරන්න උත්සාහ කරනවා."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "Can I pay by card?",
+        "reading": "කැන් අයි පේ බයි කාඩ්?",
+        "meaning": "මට කාඩ්පතෙන් ගෙවන්න පුළුවන්ද?"
+      },
+      {
+        "text": "Of course.",
+        "reading": "ඔෆ් කෝර්ස්.",
+        "meaning": "අනිවාර්යයෙන්."
+      },
+      {
+        "text": "Where can I withdraw cash?",
+        "reading": "වෙයාර් කැන් අයි විත්ඩ්‍රෝ කෑෂ්?",
+        "meaning": "මට මුදල් ගන්න පුළුවන් කොහෙන්ද?"
+      },
+      {
+        "text": "The ATM is in front of the bank.",
+        "reading": "දි ඒ ටී එම් ඉස් ඉන් ෆ්‍රන්ට් ඔෆ් දි බෑන්ක්.",
+        "meaning": "ATM එක බැංකුව ඉදිරිපිටයි."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the meaning: “Where is the nearest bank?”",
+      "audio": "Where is the nearest bank?",
+      "reading": "වෙයාර් ඉස් දි නියරස්ට් බෑන්ක්?",
+      "options": [
+        "ළඟම බැංකුව කොහෙද?",
+        "මට මුදල් ටිකක් ගන්න ඕනේ.",
+        "මම හැම මාසෙම මුදල් ඉතිරි කරන්න උත්සාහ කරනවා."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "Choose the correct word.",
+        "options": [
+          "withdrawal",
+          "bill",
+          "course"
+        ],
+        "answer": 0,
+        "explanation": "withdrawal = මුදල් ගැනීම"
+      },
+      {
+        "prompt": "Choose “tomorrow”.",
+        "options": [
+          "tomorrow",
+          "yesterday",
+          "today"
+        ],
+        "answer": 0,
+        "explanation": "හෙට = tomorrow / sutra"
+      },
+      {
+        "prompt": "Choose “please”.",
+        "options": [
+          "please",
+          "maybe",
+          "definitely"
+        ],
+        "answer": 0,
+        "explanation": "කරුණාකර = please / molim vas"
+      },
+      {
+        "prompt": "Choose a sentence that expresses an opinion.",
+        "options": [
+          "I think...",
+          "How much is it?",
+          "Where is the station?"
+        ],
+        "answer": 0,
+        "explanation": "I think... = මම හිතන්නේ..."
+      }
+    ]
+  },
+  {
+    "id": "en-a2-l18",
+    "unit": "නිවස සහ ගෘහ කටයුතු",
+    "title": "A2 · Lesson 18 · Household chores and repairs",
+    "objective": "Talk about more detailed everyday situations",
+    "vocabulary": [
+      {
+        "word": "apartment",
+        "reading": "අපාර්ට්මන්ට්",
+        "meaning": "මහල් නිවාසය",
+        "example": "apartment",
+        "exampleReading": "අපාර්ට්මන්ට්",
+        "translation": "මහල් නිවාසය"
+      },
+      {
+        "word": "kitchen",
+        "reading": "කිචන්",
+        "meaning": "මුළුතැන්ගෙය",
+        "example": "kitchen",
+        "exampleReading": "කිචන්",
+        "translation": "මුළුතැන්ගෙය"
+      },
+      {
+        "word": "cleaning",
+        "reading": "ක්ලීනින්",
+        "meaning": "පිරිසිදු කිරීම",
+        "example": "cleaning",
+        "exampleReading": "ක්ලීනින්",
+        "translation": "පිරිසිදු කිරීම"
+      },
+      {
+        "word": "repair",
+        "reading": "රිපෙයාර්",
+        "meaning": "අලුත්වැඩියාව",
+        "example": "repair",
+        "exampleReading": "රිපෙයාර්",
+        "translation": "අලුත්වැඩියාව"
+      },
+      {
+        "word": "broken",
+        "reading": "බ්‍රෝකන්",
+        "meaning": "කැඩුණු",
+        "example": "broken",
+        "exampleReading": "බ්‍රෝකන්",
+        "translation": "කැඩුණු"
+      },
+      {
+        "word": "tap",
+        "reading": "ටැප්",
+        "meaning": "ටැප් එක",
+        "example": "tap",
+        "exampleReading": "ටැප්",
+        "translation": "ටැප් එක"
+      },
+      {
+        "word": "electricity",
+        "reading": "ඉලෙක්ට්‍රිසිටි",
+        "meaning": "විදුලිය",
+        "example": "electricity",
+        "exampleReading": "ඉලෙක්ට්‍රිසිටි",
+        "translation": "විදුලිය"
+      },
+      {
+        "word": "electricity bill",
+        "reading": "ඉලෙක්ට්‍රිසිටි බිල්",
+        "meaning": "විදුලි බිල",
+        "example": "electricity bill",
+        "exampleReading": "ඉලෙක්ට්‍රිසිටි බිල්",
+        "translation": "විදුලි බිල"
+      }
+    ],
+    "grammarTitle": "Grammar",
+    "grammar": "Describe a fault with “It isn't working” or “It's broken”. Use “I need to...” for a household task.",
+    "grammarTerms": [
+      {
+        "text": "The kitchen tap isn't working.",
+        "reading": "දි කිචන් ටැප් ඉසන්ට් වර්කින්.",
+        "meaning": "මුළුතැන්ගෙයි ටැප් එක වැඩ කරන්නේ නැහැ."
+      }
+    ],
+    "examples": [
+      {
+        "text": "The kitchen tap isn't working.",
+        "reading": "දි කිචන් ටැප් ඉසන්ට් වර්කින්.",
+        "meaning": "මුළුතැන්ගෙයි ටැප් එක වැඩ කරන්නේ නැහැ."
+      },
+      {
+        "text": "I need to clean the apartment.",
+        "reading": "අයි නීඩ් ටු ක්ලීන් දි අපාර්ට්මන්ට්.",
+        "meaning": "මට නිවස පිරිසිදු කරන්න ඕනේ."
+      },
+      {
+        "text": "How much is the electricity bill?",
+        "reading": "හවු මච් ඉස් දි ඉලෙක්ට්‍රිසිටි බිල්?",
+        "meaning": "විදුලි බිල කොච්චරද?"
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "We have a problem with the washing machine.",
+        "reading": "වී හැව් අ ප්‍රොබ්ලම් විත් දි වොෂින් මෂීන්.",
+        "meaning": "අපේ රෙදි සෝදන යන්ත්‍රයේ ගැටලුවක් තියෙනවා."
+      },
+      {
+        "text": "Is it broken?",
+        "reading": "ඉස් ඉට් බ්‍රෝකන්?",
+        "meaning": "ඒක කැඩිලාද?"
+      },
+      {
+        "text": "Yes, it won't turn on.",
+        "reading": "යෙස්, ඉට් වෝන්ට් ටර්න් ඔන්.",
+        "meaning": "ඔව්, ඒක ක්‍රියාත්මක වෙන්නේ නැහැ."
+      },
+      {
+        "text": "I'll call a repair person.",
+        "reading": "අයිල් කෝල් අ රිපෙයාර් පර්සන්.",
+        "meaning": "මම කාර්මිකයෙකුට කතා කරන්නම්."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the meaning: “The kitchen tap isn't working.”",
+      "audio": "The kitchen tap isn't working.",
+      "reading": "දි කිචන් ටැප් ඉසන්ට් වර්කින්.",
+      "options": [
+        "මුළුතැන්ගෙයි ටැප් එක වැඩ කරන්නේ නැහැ.",
+        "මට නිවස පිරිසිදු කරන්න ඕනේ.",
+        "විදුලි බිල කොච්චරද?"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "Choose the correct word.",
+        "options": [
+          "repair",
+          "bill",
+          "course"
+        ],
+        "answer": 0,
+        "explanation": "repair = අලුත්වැඩියාව"
+      },
+      {
+        "prompt": "Choose “tomorrow”.",
+        "options": [
+          "tomorrow",
+          "yesterday",
+          "today"
+        ],
+        "answer": 0,
+        "explanation": "හෙට = tomorrow / sutra"
+      },
+      {
+        "prompt": "Choose “please”.",
+        "options": [
+          "please",
+          "maybe",
+          "definitely"
+        ],
+        "answer": 0,
+        "explanation": "කරුණාකර = please / molim vas"
+      },
+      {
+        "prompt": "Choose a sentence that expresses an opinion.",
+        "options": [
+          "I think...",
+          "How much is it?",
+          "Where is the station?"
+        ],
+        "answer": 0,
+        "explanation": "I think... = මම හිතන්නේ..."
+      }
+    ]
+  },
+  {
+    "id": "en-a2-l19",
+    "unit": "අත්දැකීම් සහ සංචාර",
+    "title": "A2 · Lesson 19 · Past experiences and travel memories",
+    "objective": "Talk about more detailed everyday situations",
+    "vocabulary": [
+      {
+        "word": "experience",
+        "reading": "ඉක්ස්පීරියන්ස්",
+        "meaning": "අත්දැකීම",
+        "example": "experience",
+        "exampleReading": "ඉක්ස්පීරියන්ස්",
+        "translation": "අත්දැකීම"
+      },
+      {
+        "word": "travel",
+        "reading": "ට්‍රැවල්",
+        "meaning": "ගමන් කරනවා",
+        "example": "travel",
+        "exampleReading": "ට්‍රැවල්",
+        "translation": "ගමන් කරනවා"
+      },
+      {
+        "word": "visit",
+        "reading": "විසිට්",
+        "meaning": "සංචාරය කරනවා",
+        "example": "visit",
+        "exampleReading": "විසිට්",
+        "translation": "සංචාරය කරනවා"
+      },
+      {
+        "word": "museum",
+        "reading": "මියුසියම්",
+        "meaning": "කෞතුකාගාරය",
+        "example": "museum",
+        "exampleReading": "මියුසියම්",
+        "translation": "කෞතුකාගාරය"
+      },
+      {
+        "word": "beach",
+        "reading": "බීච්",
+        "meaning": "වෙරළ",
+        "example": "beach",
+        "exampleReading": "බීච්",
+        "translation": "වෙරළ"
+      },
+      {
+        "word": "mountain",
+        "reading": "මවුන්ටන්",
+        "meaning": "කන්ද",
+        "example": "mountain",
+        "exampleReading": "මවුන්ටන්",
+        "translation": "කන්ද"
+      },
+      {
+        "word": "unforgettable",
+        "reading": "අන්ෆොර්ගෙටබල්",
+        "meaning": "අමතක නොවන",
+        "example": "unforgettable",
+        "exampleReading": "අන්ෆොර්ගෙටබල්",
+        "translation": "අමතක නොවන"
+      },
+      {
+        "word": "past",
+        "reading": "පාස්ට්",
+        "meaning": "අතීතය",
+        "example": "past",
+        "exampleReading": "පාස්ට්",
+        "translation": "අතීතය"
+      }
+    ],
+    "grammarTitle": "Grammar",
+    "grammar": "Use the past simple for finished trips: “I visited...” and “We stayed...”. Use “It was...” to describe an experience.",
+    "grammarTerms": [
+      {
+        "text": "I visited Belgrade last year.",
+        "reading": "අයි විසිටඩ් බෙල්ග්‍රේඩ් ලාස්ට් ඉයර්.",
+        "meaning": "මම පසුගිය අවුරුද්දේ බෙල්ග්‍රේඩ් සංචාරය කළා."
+      }
+    ],
+    "examples": [
+      {
+        "text": "I visited Belgrade last year.",
+        "reading": "අයි විසිටඩ් බෙල්ග්‍රේඩ් ලාස්ට් ඉයර්.",
+        "meaning": "මම පසුගිය අවුරුද්දේ බෙල්ග්‍රේඩ් සංචාරය කළා."
+      },
+      {
+        "text": "The trip was unforgettable.",
+        "reading": "දි ට්‍රිප් වොස් අන්ෆොර්ගෙටබල්.",
+        "meaning": "ගමන අමතක නොවන එකක් වුණා."
+      },
+      {
+        "text": "We visited a museum and a fortress.",
+        "reading": "වී විසිටඩ් අ මියුසියම් ඇන්ඩ් අ ෆෝට්‍රස්.",
+        "meaning": "අපි කෞතුකාගාරයක් සහ බලකොටුවක් නැරඹුවා."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "Where did you go on holiday?",
+        "reading": "වෙයාර් ඩිඩ් යූ ගෝ ඔන් හොලිඩේ?",
+        "meaning": "ඔයා නිවාඩුවට කොහෙද ගියේ?"
+      },
+      {
+        "text": "I went to the mountains.",
+        "reading": "අයි වෙන්ට් ටු දි මවුන්ටන්ස්.",
+        "meaning": "මම කඳුකරයට ගියා."
+      },
+      {
+        "text": "Did you enjoy it?",
+        "reading": "ඩිඩ් යූ එන්ජෝයි ඉට්?",
+        "meaning": "ඔයා ඒකට කැමති වුණාද?"
+      },
+      {
+        "text": "Yes, it was beautiful.",
+        "reading": "යෙස්, ඉට් වොස් බියුටිෆුල්.",
+        "meaning": "ඔව්, ඒක හරිම ලස්සනයි."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the meaning: “I visited Belgrade last year.”",
+      "audio": "I visited Belgrade last year.",
+      "reading": "අයි විසිටඩ් බෙල්ග්‍රේඩ් ලාස්ට් ඉයර්.",
+      "options": [
+        "මම පසුගිය අවුරුද්දේ බෙල්ග්‍රේඩ් සංචාරය කළා.",
+        "ගමන අමතක නොවන එකක් වුණා.",
+        "අපි කෞතුකාගාරයක් සහ බලකොටුවක් නැරඹුවා."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "Choose the correct word.",
+        "options": [
+          "unforgettable",
+          "bill",
+          "course"
+        ],
+        "answer": 0,
+        "explanation": "unforgettable = අමතක නොවන"
+      },
+      {
+        "prompt": "Choose “tomorrow”.",
+        "options": [
+          "tomorrow",
+          "yesterday",
+          "today"
+        ],
+        "answer": 0,
+        "explanation": "හෙට = tomorrow / sutra"
+      },
+      {
+        "prompt": "Choose “please”.",
+        "options": [
+          "please",
+          "maybe",
+          "definitely"
+        ],
+        "answer": 0,
+        "explanation": "කරුණාකර = please / molim vas"
+      },
+      {
+        "prompt": "Choose a sentence that expresses an opinion.",
+        "options": [
+          "I think...",
+          "How much is it?",
+          "Where is the station?"
+        ],
+        "answer": 0,
+        "explanation": "I think... = මම හිතන්නේ..."
+      }
+    ]
+  },
+  {
+    "id": "en-a2-l20",
+    "unit": "අදහස් සහ කැමැත්ත",
+    "title": "A2 · Lesson 20 · Expressing opinions and making suggestions",
+    "objective": "Talk about more detailed everyday situations",
+    "vocabulary": [
+      {
+        "word": "opinion",
+        "reading": "ඔපිනියන්",
+        "meaning": "අදහස",
+        "example": "opinion",
+        "exampleReading": "ඔපිනියන්",
+        "translation": "අදහස"
+      },
+      {
+        "word": "agree",
+        "reading": "අග්‍රී",
+        "meaning": "එකඟ වෙනවා",
+        "example": "agree",
+        "exampleReading": "අග්‍රී",
+        "translation": "එකඟ වෙනවා"
+      },
+      {
+        "word": "disagree",
+        "reading": "ඩිස්අග්‍රී",
+        "meaning": "එකඟ නොවෙනවා",
+        "example": "disagree",
+        "exampleReading": "ඩිස්අග්‍රී",
+        "translation": "එකඟ නොවෙනවා"
+      },
+      {
+        "word": "because",
+        "reading": "බිකෝස්",
+        "meaning": "මොකද / නිසා",
+        "example": "because",
+        "exampleReading": "බිකෝස්",
+        "translation": "මොකද / නිසා"
+      },
+      {
+        "word": "suggestion",
+        "reading": "සජෙස්චන්",
+        "meaning": "යෝජනාව",
+        "example": "suggestion",
+        "exampleReading": "සජෙස්චන්",
+        "translation": "යෝජනාව"
+      },
+      {
+        "word": "choice",
+        "reading": "චොයිස්",
+        "meaning": "තේරීම",
+        "example": "choice",
+        "exampleReading": "චොයිස්",
+        "translation": "තේරීම"
+      },
+      {
+        "word": "important",
+        "reading": "ඉම්පෝටන්ට්",
+        "meaning": "වැදගත්",
+        "example": "important",
+        "exampleReading": "ඉම්පෝටන්ට්",
+        "translation": "වැදගත්"
+      },
+      {
+        "word": "rather",
+        "reading": "රැදර්",
+        "meaning": "වඩා කැමැත්තෙන්",
+        "example": "rather",
+        "exampleReading": "රැදර්",
+        "translation": "වඩා කැමැත්තෙන්"
+      }
+    ],
+    "grammarTitle": "Grammar",
+    "grammar": "Give an opinion with “I think...” and a reason with “because”. Agree with “I agree”; disagree politely with “I see your point, but...”.",
+    "grammarTerms": [
+      {
+        "text": "I think this film is interesting.",
+        "reading": "අයි තින්ක් දිස් ෆිල්ම් ඉස් ඉන්ට්‍රස්ටින්.",
+        "meaning": "මම හිතන්නේ මේ චිත්‍රපටය රසවත් කියලා."
+      }
+    ],
+    "examples": [
+      {
+        "text": "I think this film is interesting.",
+        "reading": "අයි තින්ක් දිස් ෆිල්ම් ඉස් ඉන්ට්‍රස්ටින්.",
+        "meaning": "මම හිතන්නේ මේ චිත්‍රපටය රසවත් කියලා."
+      },
+      {
+        "text": "I agree with you.",
+        "reading": "අයි අග්‍රී විත් යූ.",
+        "meaning": "මම ඔයා සමඟ එකඟයි."
+      },
+      {
+        "text": "I'd rather stay at home.",
+        "reading": "අයිඩ් රැදර් ස්ටේ ඇට් හෝම්.",
+        "meaning": "මම ගෙදර ඉන්න වඩා කැමතියි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "What do you think of this suggestion?",
+        "reading": "වොට් ඩූ යූ තින්ක් ඔෆ් දිස් සජෙස්චන්?",
+        "meaning": "මේ යෝජනාව ගැන ඔයා මොකද හිතන්නේ?"
+      },
+      {
+        "text": "I think it's very good.",
+        "reading": "අයි තින්ක් ඉට්ස් වෙරි ගුඩ්.",
+        "meaning": "මම හිතන්නේ ඒක ඉතා හොඳයි."
+      },
+      {
+        "text": "Why do you like it?",
+        "reading": "වයි ඩූ යූ ලයික් ඉට්?",
+        "meaning": "ඔයා ඒකට කැමති ඇයි?"
+      },
+      {
+        "text": "Because it's simple.",
+        "reading": "බිකෝස් ඉට්ස් සිම්පල්.",
+        "meaning": "මොකද ඒක සරලයි."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the meaning: “I think this film is interesting.”",
+      "audio": "I think this film is interesting.",
+      "reading": "අයි තින්ක් දිස් ෆිල්ම් ඉස් ඉන්ට්‍රස්ටින්.",
+      "options": [
+        "මම හිතන්නේ මේ චිත්‍රපටය රසවත් කියලා.",
+        "මම ඔයා සමඟ එකඟයි.",
+        "මම ගෙදර ඉන්න වඩා කැමතියි."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "Choose the correct word.",
+        "options": [
+          "opinion",
+          "bill",
+          "course"
+        ],
+        "answer": 0,
+        "explanation": "opinion = අදහස"
+      },
+      {
+        "prompt": "Choose “tomorrow”.",
+        "options": [
+          "tomorrow",
+          "yesterday",
+          "today"
+        ],
+        "answer": 0,
+        "explanation": "හෙට = tomorrow / sutra"
+      },
+      {
+        "prompt": "Choose “please”.",
+        "options": [
+          "please",
+          "maybe",
+          "definitely"
+        ],
+        "answer": 0,
+        "explanation": "කරුණාකර = please / molim vas"
+      },
+      {
+        "prompt": "Choose a sentence that expresses an opinion.",
+        "options": [
+          "I think...",
+          "How much is it?",
+          "Where is the station?"
+        ],
+        "answer": 0,
+        "explanation": "I think... = මම හිතන්නේ..."
+      }
+    ]
   }
 ];
