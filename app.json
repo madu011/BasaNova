@@ -2,14 +2,15 @@
   "expo": {
     "name": "BasaNova",
     "slug": "basanova",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
     "splash": {
       "backgroundColor": "#071426"
     },
     "android": {
-      "package": "com.madhurangayasanath.basanova"
+      "package": "com.madhurangayasanath.basanova",
+      "versionCode": 2
     },
     "ios": {
       "bundleIdentifier": "com.madhurangayasanath.basanova"
