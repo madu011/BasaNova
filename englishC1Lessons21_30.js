@@ -68,51 +68,51 @@ export const ENGLISH_C1_LESSONS_21_30 = [
     "examples": [
       {
         "text": "A clear claim must be supported by evidence.",
-        "reading": "",
+        "reading": "ඇ ක්ල්ඊර් ක්ල්ඒම් ම්අස්ට් බ්එ ස්අප්ප්ඔර්ට්එඩ් බ්යි එව්ඉඩ්එන්ක්එ.",
         "meaning": "පැහැදිලි ප්‍රකාශයක් සාක්ෂි මඟින් තහවුරු කළ යුතුය."
       },
       {
         "text": "The speaker emphasised the key distinction.",
-        "reading": "",
+        "reading": "ත්එ ස්ප්ඊක්එර් එම්ෆ්ඇස්ඉස්එඩ් ත්එ ක්එයි ඩ්ඉස්ට්ඉන්ක්ෂන්.",
         "meaning": "කථිකයා ප්‍රධාන වෙනස අවධාරණය කළේය."
       },
       {
         "text": "Contrast makes the argument more persuasive.",
-        "reading": "",
+        "reading": "ක්ඔන්ට්ර්ඇස්ට් ම්ඇක්එස් ත්එ ඇර්ග්අම්එන්ට් ම්ඔර්එ ප්එර්ස්අඇස්ඉව්එ.",
         "meaning": "විරුද්ධතාව තර්කය වඩාත් ඒත්තු ගන්වන සුළු කරයි."
       },
       {
         "text": "The conclusion should answer the initial question.",
-        "reading": "",
+        "reading": "ත්එ ක්ඔන්ක්ල්අෂන් ෂ්අවුල්ඩ් ඇන්ස්ව්එර් ත්එ ඉන්ඉට්ඉඇල් ක්වඑස්ෂන්.",
         "meaning": "නිගමනය ආරම්භක ප්‍රශ්නයට පිළිතුරු දිය යුතුය."
       }
     ],
     "dialogue": [
       {
         "text": "What is the central argument?",
-        "reading": "",
+        "reading": "ව්ඇට් ඉස් ත්එ ක්එන්ට්ර්ඇල් ඇර්ග්අම්එන්ට්?",
         "meaning": "ප්‍රධාන තර්කය කුමක්ද?"
       },
       {
         "text": "It relies on evidence that can be verified.",
-        "reading": "",
+        "reading": "ඉට් ර්එල්ඉඑස් ඔන් එව්ඉඩ්එන්ක්එ ත්ඇට් ක්ඇන් බ්එ ව්එර්ඉෆ්ඉඑඩ්.",
         "meaning": "එය පරීක්ෂා කළ හැකි සාක්ෂි මත පදනම් වේ."
       },
       {
         "text": "Is there an important limitation?",
-        "reading": "",
+        "reading": "ඉස් ත්එර්එ ඇන් ඉම්ප්ඔර්ට්ඇන්ට් ල්ඉම්ඉට්ඇෂන්?",
         "meaning": "වැදගත් සීමාවක් තිබේද?"
       },
       {
         "text": "Yes, so the conclusion needs careful wording.",
-        "reading": "",
+        "reading": "යිඑස්, ස්ඔ ත්එ ක්ඔන්ක්ල්අෂන් න්ඊඩ්ස් ක්ඇර්එෆ්අල් ව්ඔර්ඩ්ඉං.",
         "meaning": "ඔව්, ඒ නිසා නිගමනය ප්‍රවේශමෙන් සකස් කළ යුතුය."
       }
     ],
     "listeningPractice": {
       "prompt": "Listen and choose the most accurate meaning.",
       "audio": "A clear claim must be supported by evidence. The speaker emphasised the key distinction. Contrast makes the argument more persuasive.",
-      "reading": "",
+      "reading": "ඇ ක්ල්ඊර් ක්ල්ඒම් ම්අස්ට් බ්එ ස්අප්ප්ඔර්ට්එඩ් බ්යි එව්ඉඩ්එන්ක්එ. ත්එ ස්ප්ඊක්එර් එම්ෆ්ඇස්ඉස්එඩ් ත්එ ක්එයි ඩ්ඉස්ට්ඉන්ක්ෂන්. ක්ඔන්ට්ර්ඇස්ට් ම්ඇක්එස් ත්එ ඇර්ග්අම්එන්ට් ම්ඔර්එ ප්එර්ස්අඇස්ඉව්එ.",
       "options": [
         "පැහැදිලි ප්‍රකාශයක් සාක්ෂි මඟින් තහවුරු කළ යුතුය. කථිකයා ප්‍රධාන වෙනස අවධාරණය කළේය.",
         "Every statement is completely certain.",
@@ -231,51 +231,51 @@ export const ENGLISH_C1_LESSONS_21_30 = [
     "examples": [
       {
         "text": "The proposal is costly; nevertheless, it is worthwhile in the long term.",
-        "reading": "",
+        "reading": "ත්එ ප්ර්ඔප්ඔස්ඇල් ඉස් ක්ඔස්ට්ල්යි; න්එව්එර්ත්එල්එස්ස්, ඉට් ඉස් ව්ඔර්ත්ව්ඉල්එ ඉන් ත්එ ල්ඔං ට්එර්ම්.",
         "meaning": "යෝජනාව මිල අධිකය; එසේ වුවත් දිගුකාලීනව වටිනාකමක් ඇත."
       },
       {
         "text": "The data are limited; therefore, the conclusion is provisional.",
-        "reading": "",
+        "reading": "ත්එ ඩ්ඇට්ඇ ඇර්එ ල්ඉම්ඉට්එඩ්; ත්එර්එෆ්ඔර්එ, ත්එ ක්ඔන්ක්ල්අෂන් ඉස් ප්ර්ඔව්ඉෂන්ඇල්.",
         "meaning": "දත්ත සීමිතය; එබැවින් නිගමනය තාවකාලිකය."
       },
       {
         "text": "Moreover, the results confirm the earlier assumption.",
-        "reading": "",
+        "reading": "ම්ඔර්එඔව්එර්, ත්එ ර්එස්අල්ට්ස් ක්ඔන්ෆ්ඉර්ම් ත්එ ඊර්ල්ඉඑර් ඇස්ස්අම්ප්ෂන්.",
         "meaning": "තවද, ප්‍රතිඵල පෙර උපකල්පනය තහවුරු කරයි."
       },
       {
         "text": "Conversely, the second study points to the opposite trend.",
-        "reading": "",
+        "reading": "ක්ඔන්ව්එර්ස්එල්යි, ත්එ ස්එක්ඔන්ඩ් ස්ට්අඩ්යි ප්ඔඉන්ට්ස් ට්ඔ ත්එ ඔප්ප්ඔස්ඉට්එ ට්ර්එන්ඩ්.",
         "meaning": "ඊට ප්‍රතිවිරුද්ධව, දෙවන අධ්‍යයනය වෙනස් ප්‍රවණතාවක් පෙන්වයි."
       }
     ],
     "dialogue": [
       {
         "text": "What is the central argument?",
-        "reading": "",
+        "reading": "ව්ඇට් ඉස් ත්එ ක්එන්ට්ර්ඇල් ඇර්ග්අම්එන්ට්?",
         "meaning": "ප්‍රධාන තර්කය කුමක්ද?"
       },
       {
         "text": "It relies on evidence that can be verified.",
-        "reading": "",
+        "reading": "ඉට් ර්එල්ඉඑස් ඔන් එව්ඉඩ්එන්ක්එ ත්ඇට් ක්ඇන් බ්එ ව්එර්ඉෆ්ඉඑඩ්.",
         "meaning": "එය පරීක්ෂා කළ හැකි සාක්ෂි මත පදනම් වේ."
       },
       {
         "text": "Is there an important limitation?",
-        "reading": "",
+        "reading": "ඉස් ත්එර්එ ඇන් ඉම්ප්ඔර්ට්ඇන්ට් ල්ඉම්ඉට්ඇෂන්?",
         "meaning": "වැදගත් සීමාවක් තිබේද?"
       },
       {
         "text": "Yes, so the conclusion needs careful wording.",
-        "reading": "",
+        "reading": "යිඑස්, ස්ඔ ත්එ ක්ඔන්ක්ල්අෂන් න්ඊඩ්ස් ක්ඇර්එෆ්අල් ව්ඔර්ඩ්ඉං.",
         "meaning": "ඔව්, ඒ නිසා නිගමනය ප්‍රවේශමෙන් සකස් කළ යුතුය."
       }
     ],
     "listeningPractice": {
       "prompt": "Listen and choose the most accurate meaning.",
       "audio": "The proposal is costly; nevertheless, it is worthwhile in the long term. The data are limited; therefore, the conclusion is provisional. Moreover, the results confirm the earlier assumption.",
-      "reading": "",
+      "reading": "ත්එ ප්ර්ඔප්ඔස්ඇල් ඉස් ක්ඔස්ට්ල්යි; න්එව්එර්ත්එල්එස්ස්, ඉට් ඉස් ව්ඔර්ත්ව්ඉල්එ ඉන් ත්එ ල්ඔං ට්එර්ම්. ත්එ ඩ්ඇට්ඇ ඇර්එ ල්ඉම්ඉට්එඩ්; ත්එර්එෆ්ඔර්එ, ත්එ ක්ඔන්ක්ල්අෂන් ඉස් ප්ර්ඔව්ඉෂන්ඇල්. ම්ඔර්එඔව්එර්, ත්එ ර්එස්අල්ට්ස් ක්ඔන්ෆ්ඉර්ම් ත්එ ඊර්ල්ඉඑර් ඇස්ස්අම්ප්ෂන්.",
       "options": [
         "යෝජනාව මිල අධිකය; එසේ වුවත් දිගුකාලීනව වටිනාකමක් ඇත. දත්ත සීමිතය; එබැවින් නිගමනය තාවකාලිකය.",
         "Every statement is completely certain.",
@@ -394,51 +394,51 @@ export const ENGLISH_C1_LESSONS_21_30 = [
     "examples": [
       {
         "text": "The agreement takes effect after it is signed.",
-        "reading": "",
+        "reading": "ත්එ ඇග්ර්ඊම්එන්ට් ට්ඇක්එස් එෆ්ෆ්එක්ට් ඇෆ්ට්එර් ඉට් ඉස් ස්ඉග්න්එඩ්.",
         "meaning": "අත්සන් කිරීමෙන් පසු ගිවිසුම බලාත්මක වේ."
       },
       {
         "text": "The exception applies only under the stated conditions.",
-        "reading": "",
+        "reading": "ත්එ එක්ස්ක්එප්ෂන් ඇප්ප්ල්ඉඑස් ඔන්ල්යි අන්ඩ්එර් ත්එ ස්ට්ඇට්එඩ් ක්ඔන්ඩ්ඉෂන්ස්.",
         "meaning": "සඳහන් කොන්දේසි යටතේ පමණක් ව්‍යතිරේකය අදාළ වේ."
       },
       {
         "text": "The parties are required to observe the deadline.",
-        "reading": "",
+        "reading": "ත්එ ප්ඇර්ට්ඉඑස් ඇර්එ ර්එක්වඉර්එඩ් ට්ඔ ඔබ්ස්එර්ව්එ ත්එ ඩ්ඊඩ්ල්ඉන්එ.",
         "meaning": "පාර්ශ්වයන් කාලසීමාව පිළිපැදීමට බැඳී සිටී."
       },
       {
         "text": "Liability is defined in a separate clause.",
-        "reading": "",
+        "reading": "ල්ඉඇබ්ඉල්ඉට්යි ඉස් ඩ්එෆ්ඉන්එඩ් ඉන් ඇ ස්එප්ඇර්ඇට්එ ක්ල්ඇඅස්එ.",
         "meaning": "වගකීම වෙනම වගන්තියකින් නිර්වචනය කර ඇත."
       }
     ],
     "dialogue": [
       {
         "text": "What is the central argument?",
-        "reading": "",
+        "reading": "ව්ඇට් ඉස් ත්එ ක්එන්ට්ර්ඇල් ඇර්ග්අම්එන්ට්?",
         "meaning": "ප්‍රධාන තර්කය කුමක්ද?"
       },
       {
         "text": "It relies on evidence that can be verified.",
-        "reading": "",
+        "reading": "ඉට් ර්එල්ඉඑස් ඔන් එව්ඉඩ්එන්ක්එ ත්ඇට් ක්ඇන් බ්එ ව්එර්ඉෆ්ඉඑඩ්.",
         "meaning": "එය පරීක්ෂා කළ හැකි සාක්ෂි මත පදනම් වේ."
       },
       {
         "text": "Is there an important limitation?",
-        "reading": "",
+        "reading": "ඉස් ත්එර්එ ඇන් ඉම්ප්ඔර්ට්ඇන්ට් ල්ඉම්ඉට්ඇෂන්?",
         "meaning": "වැදගත් සීමාවක් තිබේද?"
       },
       {
         "text": "Yes, so the conclusion needs careful wording.",
-        "reading": "",
+        "reading": "යිඑස්, ස්ඔ ත්එ ක්ඔන්ක්ල්අෂන් න්ඊඩ්ස් ක්ඇර්එෆ්අල් ව්ඔර්ඩ්ඉං.",
         "meaning": "ඔව්, ඒ නිසා නිගමනය ප්‍රවේශමෙන් සකස් කළ යුතුය."
       }
     ],
     "listeningPractice": {
       "prompt": "Listen and choose the most accurate meaning.",
       "audio": "The agreement takes effect after it is signed. The exception applies only under the stated conditions. The parties are required to observe the deadline.",
-      "reading": "",
+      "reading": "ත්එ ඇග්ර්ඊම්එන්ට් ට්ඇක්එස් එෆ්ෆ්එක්ට් ඇෆ්ට්එර් ඉට් ඉස් ස්ඉග්න්එඩ්. ත්එ එක්ස්ක්එප්ෂන් ඇප්ප්ල්ඉඑස් ඔන්ල්යි අන්ඩ්එර් ත්එ ස්ට්ඇට්එඩ් ක්ඔන්ඩ්ඉෂන්ස්. ත්එ ප්ඇර්ට්ඉඑස් ඇර්එ ර්එක්වඉර්එඩ් ට්ඔ ඔබ්ස්එර්ව්එ ත්එ ඩ්ඊඩ්ල්ඉන්එ.",
       "options": [
         "අත්සන් කිරීමෙන් පසු ගිවිසුම බලාත්මක වේ. සඳහන් කොන්දේසි යටතේ පමණක් ව්‍යතිරේකය අදාළ වේ.",
         "Every statement is completely certain.",
@@ -557,51 +557,51 @@ export const ENGLISH_C1_LESSONS_21_30 = [
     "examples": [
       {
         "text": "We will publish verified information as soon as it is available.",
-        "reading": "",
+        "reading": "ව්එ ව්ඉල්ල් ප්අබ්ල්ඉෂ් ව්එර්ඉෆ්ඉඑඩ් ඉන්ෆ්ඔර්ම්ඇෂන් ඇස් ස්උන් ඇස් ඉට් ඉස් ඇව්ඒල්ඇබ්ල්එ.",
         "meaning": "තහවුරු කළ තොරතුරු ලැබුණු වහාම අපි ප්‍රකාශ කරන්නෙමු."
       },
       {
         "text": "At present, we cannot confirm the cause of the incident.",
-        "reading": "",
+        "reading": "ඇට් ප්ර්එස්එන්ට්, ව්එ ක්ඇන්න්ඔට් ක්ඔන්ෆ්ඉර්ම් ත්එ ක්ඇඅස්එ ඔෆ් ත්එ ඉන්ක්ඉඩ්එන්ට්.",
         "meaning": "දැනට සිදුවීමට හේතුව තහවුරු කළ නොහැක."
       },
       {
         "text": "The next update will be issued at noon.",
-        "reading": "",
+        "reading": "ත්එ න්එක්ස්ට් අප්ඩ්ඇට්එ ව්ඉල්ල් බ්එ ඉස්ස්අඑඩ් ඇට් න්උන්.",
         "meaning": "ඊළඟ යාවත්කාලීනය දහවල් නිකුත් කෙරේ."
       },
       {
         "text": "Transparency matters even when the facts are incomplete.",
-        "reading": "",
+        "reading": "ට්ර්ඇන්ස්ප්ඇර්එන්ක්යි ම්ඇට්ට්එර්ස් එව්එන් ව්එන් ත්එ ෆ්ඇක්ට්ස් ඇර්එ ඉන්ක්ඔම්ප්ල්එට්එ.",
         "meaning": "කරුණු අසම්පූර්ණ වූ විට පවා විනිවිදභාවය වැදගත්ය."
       }
     ],
     "dialogue": [
       {
         "text": "What is the central argument?",
-        "reading": "",
+        "reading": "ව්ඇට් ඉස් ත්එ ක්එන්ට්ර්ඇල් ඇර්ග්අම්එන්ට්?",
         "meaning": "ප්‍රධාන තර්කය කුමක්ද?"
       },
       {
         "text": "It relies on evidence that can be verified.",
-        "reading": "",
+        "reading": "ඉට් ර්එල්ඉඑස් ඔන් එව්ඉඩ්එන්ක්එ ත්ඇට් ක්ඇන් බ්එ ව්එර්ඉෆ්ඉඑඩ්.",
         "meaning": "එය පරීක්ෂා කළ හැකි සාක්ෂි මත පදනම් වේ."
       },
       {
         "text": "Is there an important limitation?",
-        "reading": "",
+        "reading": "ඉස් ත්එර්එ ඇන් ඉම්ප්ඔර්ට්ඇන්ට් ල්ඉම්ඉට්ඇෂන්?",
         "meaning": "වැදගත් සීමාවක් තිබේද?"
       },
       {
         "text": "Yes, so the conclusion needs careful wording.",
-        "reading": "",
+        "reading": "යිඑස්, ස්ඔ ත්එ ක්ඔන්ක්ල්අෂන් න්ඊඩ්ස් ක්ඇර්එෆ්අල් ව්ඔර්ඩ්ඉං.",
         "meaning": "ඔව්, ඒ නිසා නිගමනය ප්‍රවේශමෙන් සකස් කළ යුතුය."
       }
     ],
     "listeningPractice": {
       "prompt": "Listen and choose the most accurate meaning.",
       "audio": "We will publish verified information as soon as it is available. At present, we cannot confirm the cause of the incident. The next update will be issued at noon.",
-      "reading": "",
+      "reading": "ව්එ ව්ඉල්ල් ප්අබ්ල්ඉෂ් ව්එර්ඉෆ්ඉඑඩ් ඉන්ෆ්ඔර්ම්ඇෂන් ඇස් ස්උන් ඇස් ඉට් ඉස් ඇව්ඒල්ඇබ්ල්එ. ඇට් ප්ර්එස්එන්ට්, ව්එ ක්ඇන්න්ඔට් ක්ඔන්ෆ්ඉර්ම් ත්එ ක්ඇඅස්එ ඔෆ් ත්එ ඉන්ක්ඉඩ්එන්ට්. ත්එ න්එක්ස්ට් අප්ඩ්ඇට්එ ව්ඉල්ල් බ්එ ඉස්ස්අඑඩ් ඇට් න්උන්.",
       "options": [
         "තහවුරු කළ තොරතුරු ලැබුණු වහාම අපි ප්‍රකාශ කරන්නෙමු. දැනට සිදුවීමට හේතුව තහවුරු කළ නොහැක.",
         "Every statement is completely certain.",
@@ -720,51 +720,51 @@ export const ENGLISH_C1_LESSONS_21_30 = [
     "examples": [
       {
         "text": "The pilot project showed that the solution is feasible.",
-        "reading": "",
+        "reading": "ත්එ ප්ඉල්ඔට් ප්ර්ඔජ්එක්ට් ෂ්ඔඑඩ් ත්ඇට් ත්එ ස්ඔල්අෂන් ඉස් ෆ්ඊස්ඉබ්ල්එ.",
         "meaning": "පරීක්ෂණ ව්‍යාපෘතියෙන් විසඳුම ක්‍රියාත්මක කළ හැකි බව පෙන්වීය."
       },
       {
         "text": "Adopting the new system requires training.",
-        "reading": "",
+        "reading": "ඇඩ්ඔප්ට්ඉං ත්එ න්එව් ස්යිස්ට්එම් ර්එක්වඉර්එස් ට්ර්ඒන්ඉං.",
         "meaning": "නව පද්ධතිය භාවිතයට ගැනීමට පුහුණුව අවශ්‍යය."
       },
       {
         "text": "Resistance to change often stems from uncertainty.",
-        "reading": "",
+        "reading": "ර්එස්ඉස්ට්ඇන්ක්එ ට්ඔ ච්ඇංඑ ඔෆ්ට්එන් ස්ට්එම්ස් ෆ්ර්ඔම් අන්ක්එර්ට්ඒන්ට්යි.",
         "meaning": "වෙනස්කම්වලට ඇති විරෝධය බොහෝවිට අනිශ්චිතතාවයෙන් ඇතිවේ."
       },
       {
         "text": "Feedback helps improve the prototype.",
-        "reading": "",
+        "reading": "ෆ්ඊඩ්බ්ඇක්ක් හ්එල්ප්ස් ඉම්ප්ර්ඔව්එ ත්එ ප්ර්ඔට්ඔට්යිප්එ.",
         "meaning": "ප්‍රතිචාර මූලාකෘතිය වැඩිදියුණු කිරීමට උපකාරී වේ."
       }
     ],
     "dialogue": [
       {
         "text": "What is the central argument?",
-        "reading": "",
+        "reading": "ව්ඇට් ඉස් ත්එ ක්එන්ට්ර්ඇල් ඇර්ග්අම්එන්ට්?",
         "meaning": "ප්‍රධාන තර්කය කුමක්ද?"
       },
       {
         "text": "It relies on evidence that can be verified.",
-        "reading": "",
+        "reading": "ඉට් ර්එල්ඉඑස් ඔන් එව්ඉඩ්එන්ක්එ ත්ඇට් ක්ඇන් බ්එ ව්එර්ඉෆ්ඉඑඩ්.",
         "meaning": "එය පරීක්ෂා කළ හැකි සාක්ෂි මත පදනම් වේ."
       },
       {
         "text": "Is there an important limitation?",
-        "reading": "",
+        "reading": "ඉස් ත්එර්එ ඇන් ඉම්ප්ඔර්ට්ඇන්ට් ල්ඉම්ඉට්ඇෂන්?",
         "meaning": "වැදගත් සීමාවක් තිබේද?"
       },
       {
         "text": "Yes, so the conclusion needs careful wording.",
-        "reading": "",
+        "reading": "යිඑස්, ස්ඔ ත්එ ක්ඔන්ක්ල්අෂන් න්ඊඩ්ස් ක්ඇර්එෆ්අල් ව්ඔර්ඩ්ඉං.",
         "meaning": "ඔව්, ඒ නිසා නිගමනය ප්‍රවේශමෙන් සකස් කළ යුතුය."
       }
     ],
     "listeningPractice": {
       "prompt": "Listen and choose the most accurate meaning.",
       "audio": "The pilot project showed that the solution is feasible. Adopting the new system requires training. Resistance to change often stems from uncertainty.",
-      "reading": "",
+      "reading": "ත්එ ප්ඉල්ඔට් ප්ර්ඔජ්එක්ට් ෂ්ඔඑඩ් ත්ඇට් ත්එ ස්ඔල්අෂන් ඉස් ෆ්ඊස්ඉබ්ල්එ. ඇඩ්ඔප්ට්ඉං ත්එ න්එව් ස්යිස්ට්එම් ර්එක්වඉර්එස් ට්ර්ඒන්ඉං. ර්එස්ඉස්ට්ඇන්ක්එ ට්ඔ ච්ඇංඑ ඔෆ්ට්එන් ස්ට්එම්ස් ෆ්ර්ඔම් අන්ක්එර්ට්ඒන්ට්යි.",
       "options": [
         "පරීක්ෂණ ව්‍යාපෘතියෙන් විසඳුම ක්‍රියාත්මක කළ හැකි බව පෙන්වීය. නව පද්ධතිය භාවිතයට ගැනීමට පුහුණුව අවශ්‍යය.",
         "Every statement is completely certain.",
@@ -883,51 +883,51 @@ export const ENGLISH_C1_LESSONS_21_30 = [
     "examples": [
       {
         "text": "Sustainability requires responsible use of resources.",
-        "reading": "",
+        "reading": "ස්අස්ට්ඒන්ඇබ්ඉල්ඉට්යි ර්එක්වඉර්එස් ර්එස්ප්ඔන්ස්ඉබ්ල්එ අස්එ ඔෆ් ර්එස්අවුර්ක්එස්.",
         "meaning": "තිරසාරභාවයට සම්පත් වගකීමෙන් භාවිත කිරීම අවශ්‍යය."
       },
       {
         "text": "Impact should be measured over a longer period.",
-        "reading": "",
+        "reading": "ඉම්ප්ඇක්ට් ෂ්අවුල්ඩ් බ්එ ම්ඊස්අර්එඩ් ඔව්එර් ඇ ල්ඔංඑර් ප්එර්ඉඔඩ්.",
         "meaning": "බලපෑම දිගු කාලයක් පුරා මැනිය යුතුය."
       },
       {
         "text": "The programme benefited the local community.",
-        "reading": "",
+        "reading": "ත්එ ප්ර්ඔග්ර්ඇම්ම්එ බ්එන්එෆ්ඉට්එඩ් ත්එ ල්ඔක්ඇල් ක්ඔම්ම්අන්ඉට්යි.",
         "meaning": "වැඩසටහන ප්‍රාදේශීය ප්‍රජාවට ප්‍රතිලාභ ලබා දුන්නේය."
       },
       {
         "text": "Emission indicators point to gradual improvement.",
-        "reading": "",
+        "reading": "එම්ඉස්ෂන් ඉන්ඩ්ඉක්ඇට්ඔර්ස් ප්ඔඉන්ට් ට්ඔ ග්ර්ඇඩ්අඇල් ඉම්ප්ර්ඔව්එම්එන්ට්.",
         "meaning": "විමෝචන දර්ශක ක්‍රමික දියුණුවක් පෙන්වයි."
       }
     ],
     "dialogue": [
       {
         "text": "What is the central argument?",
-        "reading": "",
+        "reading": "ව්ඇට් ඉස් ත්එ ක්එන්ට්ර්ඇල් ඇර්ග්අම්එන්ට්?",
         "meaning": "ප්‍රධාන තර්කය කුමක්ද?"
       },
       {
         "text": "It relies on evidence that can be verified.",
-        "reading": "",
+        "reading": "ඉට් ර්එල්ඉඑස් ඔන් එව්ඉඩ්එන්ක්එ ත්ඇට් ක්ඇන් බ්එ ව්එර්ඉෆ්ඉඑඩ්.",
         "meaning": "එය පරීක්ෂා කළ හැකි සාක්ෂි මත පදනම් වේ."
       },
       {
         "text": "Is there an important limitation?",
-        "reading": "",
+        "reading": "ඉස් ත්එර්එ ඇන් ඉම්ප්ඔර්ට්ඇන්ට් ල්ඉම්ඉට්ඇෂන්?",
         "meaning": "වැදගත් සීමාවක් තිබේද?"
       },
       {
         "text": "Yes, so the conclusion needs careful wording.",
-        "reading": "",
+        "reading": "යිඑස්, ස්ඔ ත්එ ක්ඔන්ක්ල්අෂන් න්ඊඩ්ස් ක්ඇර්එෆ්අල් ව්ඔර්ඩ්ඉං.",
         "meaning": "ඔව්, ඒ නිසා නිගමනය ප්‍රවේශමෙන් සකස් කළ යුතුය."
       }
     ],
     "listeningPractice": {
       "prompt": "Listen and choose the most accurate meaning.",
       "audio": "Sustainability requires responsible use of resources. Impact should be measured over a longer period. The programme benefited the local community.",
-      "reading": "",
+      "reading": "ස්අස්ට්ඒන්ඇබ්ඉල්ඉට්යි ර්එක්වඉර්එස් ර්එස්ප්ඔන්ස්ඉබ්ල්එ අස්එ ඔෆ් ර්එස්අවුර්ක්එස්. ඉම්ප්ඇක්ට් ෂ්අවුල්ඩ් බ්එ ම්ඊස්අර්එඩ් ඔව්එර් ඇ ල්ඔංඑර් ප්එර්ඉඔඩ්. ත්එ ප්ර්ඔග්ර්ඇම්ම්එ බ්එන්එෆ්ඉට්එඩ් ත්එ ල්ඔක්ඇල් ක්ඔම්ම්අන්ඉට්යි.",
       "options": [
         "තිරසාරභාවයට සම්පත් වගකීමෙන් භාවිත කිරීම අවශ්‍යය. බලපෑම දිගු කාලයක් පුරා මැනිය යුතුය.",
         "Every statement is completely certain.",
@@ -1046,51 +1046,51 @@ export const ENGLISH_C1_LESSONS_21_30 = [
     "examples": [
       {
         "text": "The unreliable narrator shifts the reader's perspective.",
-        "reading": "",
+        "reading": "ත්එ අන්ර්එල්ඉඇබ්ල්එ න්ඇර්ර්ඇට්ඔර් ෂ්ඉෆ්ට්ස් ත්එ ර්ඊඩ්එර්'ස් ප්එර්ස්ප්එක්ට්ඉව්එ.",
         "meaning": "විශ්වාස කළ නොහැකි කථකයා පාඨකයාගේ දෘෂ්ටිකෝණය වෙනස් කරයි."
       },
       {
         "text": "The symbolism develops through a recurring motif.",
-        "reading": "",
+        "reading": "ත්එ ස්යිම්බ්ඔල්ඉස්ම් ඩ්එව්එල්ඔප්ස් ත්ර්ඔෆ් ඇ ර්එක්අර්ර්ඉං ම්ඔට්ඉෆ්.",
         "meaning": "නැවත නැවත මතුවන තේමාවක් හරහා සංකේතවාදය වර්ධනය වේ."
       },
       {
         "text": "This detail can be read as foreshadowing the conflict.",
-        "reading": "",
+        "reading": "ත්ඉස් ඩ්එට්ඒල් ක්ඇන් බ්එ ර්ඊඩ් ඇස් ෆ්ඔර්එෂ්ඇඩ්ඔඉං ත්එ ක්ඔන්ෆ්ල්ඉක්ට්.",
         "meaning": "මෙම විස්තරය ගැටුම පිළිබඳ පූර්ව ඉඟියක් ලෙස කියවිය හැක."
       },
       {
         "text": "An interpretation should be supported by textual evidence.",
-        "reading": "",
+        "reading": "ඇන් ඉන්ට්එර්ප්ර්එට්ඇෂන් ෂ්අවුල්ඩ් බ්එ ස්අප්ප්ඔර්ට්එඩ් බ්යි ට්එක්ස්ට්අඇල් එව්ඉඩ්එන්ක්එ.",
         "meaning": "අර්ථකථනය පාඨමය සාක්ෂිවලින් තහවුරු කළ යුතුය."
       }
     ],
     "dialogue": [
       {
         "text": "What is the central argument?",
-        "reading": "",
+        "reading": "ව්ඇට් ඉස් ත්එ ක්එන්ට්ර්ඇල් ඇර්ග්අම්එන්ට්?",
         "meaning": "ප්‍රධාන තර්කය කුමක්ද?"
       },
       {
         "text": "It relies on evidence that can be verified.",
-        "reading": "",
+        "reading": "ඉට් ර්එල්ඉඑස් ඔන් එව්ඉඩ්එන්ක්එ ත්ඇට් ක්ඇන් බ්එ ව්එර්ඉෆ්ඉඑඩ්.",
         "meaning": "එය පරීක්ෂා කළ හැකි සාක්ෂි මත පදනම් වේ."
       },
       {
         "text": "Is there an important limitation?",
-        "reading": "",
+        "reading": "ඉස් ත්එර්එ ඇන් ඉම්ප්ඔර්ට්ඇන්ට් ල්ඉම්ඉට්ඇෂන්?",
         "meaning": "වැදගත් සීමාවක් තිබේද?"
       },
       {
         "text": "Yes, so the conclusion needs careful wording.",
-        "reading": "",
+        "reading": "යිඑස්, ස්ඔ ත්එ ක්ඔන්ක්ල්අෂන් න්ඊඩ්ස් ක්ඇර්එෆ්අල් ව්ඔර්ඩ්ඉං.",
         "meaning": "ඔව්, ඒ නිසා නිගමනය ප්‍රවේශමෙන් සකස් කළ යුතුය."
       }
     ],
     "listeningPractice": {
       "prompt": "Listen and choose the most accurate meaning.",
       "audio": "The unreliable narrator shifts the reader's perspective. The symbolism develops through a recurring motif. This detail can be read as foreshadowing the conflict.",
-      "reading": "",
+      "reading": "ත්එ අන්ර්එල්ඉඇබ්ල්එ න්ඇර්ර්ඇට්ඔර් ෂ්ඉෆ්ට්ස් ත්එ ර්ඊඩ්එර්'ස් ප්එර්ස්ප්එක්ට්ඉව්එ. ත්එ ස්යිම්බ්ඔල්ඉස්ම් ඩ්එව්එල්ඔප්ස් ත්ර්ඔෆ් ඇ ර්එක්අර්ර්ඉං ම්ඔට්ඉෆ්. ත්ඉස් ඩ්එට්ඒල් ක්ඇන් බ්එ ර්ඊඩ් ඇස් ෆ්ඔර්එෂ්ඇඩ්ඔඉං ත්එ ක්ඔන්ෆ්ල්ඉක්ට්.",
       "options": [
         "විශ්වාස කළ නොහැකි කථකයා පාඨකයාගේ දෘෂ්ටිකෝණය වෙනස් කරයි. නැවත නැවත මතුවන තේමාවක් හරහා සංකේතවාදය වර්ධනය වේ.",
         "Every statement is completely certain.",
@@ -1209,51 +1209,51 @@ export const ENGLISH_C1_LESSONS_21_30 = [
     "examples": [
       {
         "text": "The headline emphasises conflict rather than agreement.",
-        "reading": "",
+        "reading": "ත්එ හ්ඊඩ්ල්ඉන්එ එම්ෆ්ඇස්ඉස්එස් ක්ඔන්ෆ්ල්ඉක්ට් ර්ඇත්එර් ත්ඇන් ඇග්ර්ඊම්එන්ට්.",
         "meaning": "සිරස්තලය එකඟතාවට වඩා ගැටුම අවධාරණය කරයි."
       },
       {
         "text": "Missing context can change the meaning of a statement.",
-        "reading": "",
+        "reading": "ම්ඉස්ස්ඉං ක්ඔන්ට්එක්ස්ට් ක්ඇන් ච්ඇංඑ ත්එ ම්ඊන්ඉං ඔෆ් ඇ ස්ට්ඇට්එම්එන්ට්.",
         "meaning": "අතුරුදහන් සන්දර්භය ප්‍රකාශයක අර්ථය වෙනස් කළ හැක."
       },
       {
         "text": "Fact-checking revealed an inaccurate figure.",
-        "reading": "",
+        "reading": "ෆ්ඇක්ට්-ච්එක්ක්ඉං ර්එව්ඊල්එඩ් ඇන් ඉන්ඇක්ක්අර්ඇට්එ ෆ්ඉග්අර්එ.",
         "meaning": "කරුණු පරීක්ෂාවෙන් වැරදි දත්තයක් හෙළි විය."
       },
       {
         "text": "Several independent sources should be compared.",
-        "reading": "",
+        "reading": "ස්එව්එර්ඇල් ඉන්ඩ්එප්එන්ඩ්එන්ට් ස්අවුර්ක්එස් ෂ්අවුල්ඩ් බ්එ ක්ඔම්ප්ඇර්එඩ්.",
         "meaning": "ස්වාධීන මූලාශ්‍ර කිහිපයක් සසඳා බැලිය යුතුය."
       }
     ],
     "dialogue": [
       {
         "text": "What is the central argument?",
-        "reading": "",
+        "reading": "ව්ඇට් ඉස් ත්එ ක්එන්ට්ර්ඇල් ඇර්ග්අම්එන්ට්?",
         "meaning": "ප්‍රධාන තර්කය කුමක්ද?"
       },
       {
         "text": "It relies on evidence that can be verified.",
-        "reading": "",
+        "reading": "ඉට් ර්එල්ඉඑස් ඔන් එව්ඉඩ්එන්ක්එ ත්ඇට් ක්ඇන් බ්එ ව්එර්ඉෆ්ඉඑඩ්.",
         "meaning": "එය පරීක්ෂා කළ හැකි සාක්ෂි මත පදනම් වේ."
       },
       {
         "text": "Is there an important limitation?",
-        "reading": "",
+        "reading": "ඉස් ත්එර්එ ඇන් ඉම්ප්ඔර්ට්ඇන්ට් ල්ඉම්ඉට්ඇෂන්?",
         "meaning": "වැදගත් සීමාවක් තිබේද?"
       },
       {
         "text": "Yes, so the conclusion needs careful wording.",
-        "reading": "",
+        "reading": "යිඑස්, ස්ඔ ත්එ ක්ඔන්ක්ල්අෂන් න්ඊඩ්ස් ක්ඇර්එෆ්අල් ව්ඔර්ඩ්ඉං.",
         "meaning": "ඔව්, ඒ නිසා නිගමනය ප්‍රවේශමෙන් සකස් කළ යුතුය."
       }
     ],
     "listeningPractice": {
       "prompt": "Listen and choose the most accurate meaning.",
       "audio": "The headline emphasises conflict rather than agreement. Missing context can change the meaning of a statement. Fact-checking revealed an inaccurate figure.",
-      "reading": "",
+      "reading": "ත්එ හ්ඊඩ්ල්ඉන්එ එම්ෆ්ඇස්ඉස්එස් ක්ඔන්ෆ්ල්ඉක්ට් ර්ඇත්එර් ත්ඇන් ඇග්ර්ඊම්එන්ට්. ම්ඉස්ස්ඉං ක්ඔන්ට්එක්ස්ට් ක්ඇන් ච්ඇංඑ ත්එ ම්ඊන්ඉං ඔෆ් ඇ ස්ට්ඇට්එම්එන්ට්. ෆ්ඇක්ට්-ච්එක්ක්ඉං ර්එව්ඊල්එඩ් ඇන් ඉන්ඇක්ක්අර්ඇට්එ ෆ්ඉග්අර්එ.",
       "options": [
         "සිරස්තලය එකඟතාවට වඩා ගැටුම අවධාරණය කරයි. අතුරුදහන් සන්දර්භය ප්‍රකාශයක අර්ථය වෙනස් කළ හැක.",
         "Every statement is completely certain.",
@@ -1372,51 +1372,51 @@ export const ENGLISH_C1_LESSONS_21_30 = [
     "examples": [
       {
         "text": "Had we acted earlier, the consequences would have been less severe.",
-        "reading": "",
+        "reading": "හ්ඇඩ් ව්එ ඇක්ට්එඩ් ඊර්ල්ඉඑර්, ත්එ ක්ඔන්ස්එක්වඑන්ක්එස් ව්අවුල්ඩ් හ්ඇව්එ බ්ඊන් ල්එස්ස් ස්එව්එර්එ.",
         "meaning": "අපි කලින් ක්‍රියා කළා නම්, ප්‍රතිවිපාක අඩු විය හැකිව තිබුණි."
       },
       {
         "text": "If the assumption is confirmed, the plan will be revised.",
-        "reading": "",
+        "reading": "ඉෆ් ත්එ ඇස්ස්අම්ප්ෂන් ඉස් ක්ඔන්ෆ්ඉර්ම්එඩ්, ත්එ ප්ල්ඇන් ව්ඉල්ල් බ්එ ර්එව්ඉස්එඩ්.",
         "meaning": "උපකල්පනය තහවුරු වුවහොත් සැලැස්ම සංශෝධනය කෙරේ."
       },
       {
         "text": "The possibility of additional costs cannot be ruled out.",
-        "reading": "",
+        "reading": "ත්එ ප්ඔස්ස්ඉබ්ඉල්ඉට්යි ඔෆ් ඇඩ්ඩ්ඉෂන්ඇල් ක්ඔස්ට්ස් ක්ඇන්න්ඔට් බ්එ ර්අල්එඩ් අවුට්.",
         "meaning": "අමතර වියදම් ඇතිවීමේ හැකියාව බැහැර කළ නොහැක."
       },
       {
         "text": "The conclusion holds provided that the data are accurate.",
-        "reading": "",
+        "reading": "ත්එ ක්ඔන්ක්ල්අෂන් හ්ඔල්ඩ්ස් ප්ර්ඔව්ඉඩ්එඩ් ත්ඇට් ත්එ ඩ්ඇට්ඇ ඇර්එ ඇක්ක්අර්ඇට්එ.",
         "meaning": "දත්ත නිවැරදි නම් පමණක් නිගමනය වලංගු වේ."
       }
     ],
     "dialogue": [
       {
         "text": "What is the central argument?",
-        "reading": "",
+        "reading": "ව්ඇට් ඉස් ත්එ ක්එන්ට්ර්ඇල් ඇර්ග්අම්එන්ට්?",
         "meaning": "ප්‍රධාන තර්කය කුමක්ද?"
       },
       {
         "text": "It relies on evidence that can be verified.",
-        "reading": "",
+        "reading": "ඉට් ර්එල්ඉඑස් ඔන් එව්ඉඩ්එන්ක්එ ත්ඇට් ක්ඇන් බ්එ ව්එර්ඉෆ්ඉඑඩ්.",
         "meaning": "එය පරීක්ෂා කළ හැකි සාක්ෂි මත පදනම් වේ."
       },
       {
         "text": "Is there an important limitation?",
-        "reading": "",
+        "reading": "ඉස් ත්එර්එ ඇන් ඉම්ප්ඔර්ට්ඇන්ට් ල්ඉම්ඉට්ඇෂන්?",
         "meaning": "වැදගත් සීමාවක් තිබේද?"
       },
       {
         "text": "Yes, so the conclusion needs careful wording.",
-        "reading": "",
+        "reading": "යිඑස්, ස්ඔ ත්එ ක්ඔන්ක්ල්අෂන් න්ඊඩ්ස් ක්ඇර්එෆ්අල් ව්ඔර්ඩ්ඉං.",
         "meaning": "ඔව්, ඒ නිසා නිගමනය ප්‍රවේශමෙන් සකස් කළ යුතුය."
       }
     ],
     "listeningPractice": {
       "prompt": "Listen and choose the most accurate meaning.",
       "audio": "Had we acted earlier, the consequences would have been less severe. If the assumption is confirmed, the plan will be revised. The possibility of additional costs cannot be ruled out.",
-      "reading": "",
+      "reading": "හ්ඇඩ් ව්එ ඇක්ට්එඩ් ඊර්ල්ඉඑර්, ත්එ ක්ඔන්ස්එක්වඑන්ක්එස් ව්අවුල්ඩ් හ්ඇව්එ බ්ඊන් ල්එස්ස් ස්එව්එර්එ. ඉෆ් ත්එ ඇස්ස්අම්ප්ෂන් ඉස් ක්ඔන්ෆ්ඉර්ම්එඩ්, ත්එ ප්ල්ඇන් ව්ඉල්ල් බ්එ ර්එව්ඉස්එඩ්. ත්එ ප්ඔස්ස්ඉබ්ඉල්ඉට්යි ඔෆ් ඇඩ්ඩ්ඉෂන්ඇල් ක්ඔස්ට්ස් ක්ඇන්න්ඔට් බ්එ ර්අල්එඩ් අවුට්.",
       "options": [
         "අපි කලින් ක්‍රියා කළා නම්, ප්‍රතිවිපාක අඩු විය හැකිව තිබුණි. උපකල්පනය තහවුරු වුවහොත් සැලැස්ම සංශෝධනය කෙරේ.",
         "Every statement is completely certain.",
@@ -1535,51 +1535,51 @@ export const ENGLISH_C1_LESSONS_21_30 = [
     "examples": [
       {
         "text": "This paragraph should be rephrased for clarity.",
-        "reading": "",
+        "reading": "ත්ඉස් ප්ඇර්ඇග්ර්ඇෆ් ෂ්අවුල්ඩ් බ්එ ර්එෆ්ර්ඇස්එඩ් ෆ්ඔර් ක්ල්ඇර්ඉට්යි.",
         "meaning": "පැහැදිලිභාවය සඳහා මෙම ඡේදය නැවත සකස් කළ යුතුය."
       },
       {
         "text": "Inconsistent terminology confuses the reader.",
-        "reading": "",
+        "reading": "ඉන්ක්ඔන්ස්ඉස්ට්එන්ට් ට්එර්ම්ඉන්ඔල්ඔග්යි ක්ඔන්ෆ්අස්එස් ත්එ ර්ඊඩ්එර්.",
         "meaning": "අනුකූල නොවන පාරිභාෂික වචන පාඨකයා ව්‍යාකූල කරයි."
       },
       {
         "text": "Remove redundant repetition, but preserve the nuance.",
-        "reading": "",
+        "reading": "ර්එම්ඔව්එ ර්එඩ්අන්ඩ්ඇන්ට් ර්එප්එට්ඉෂන්, බ්අට් ප්ර්එස්එර්ව්එ ත්එ න්අඇන්ක්එ.",
         "meaning": "අනවශ්‍ය පුනරාවර්තන ඉවත් කළත් අර්ථ සූක්ෂ්මතාව රැකගන්න."
       },
       {
         "text": "Proofreading covers grammar and punctuation.",
-        "reading": "",
+        "reading": "ප්ර්උෆ්ර්ඊඩ්ඉං ක්ඔව්එර්ස් ග්ර්ඇම්ම්ඇර් ඇන්ඩ් ප්අන්ක්ට්අඇෂන්.",
         "meaning": "භාෂා නිවැරදි කිරීමේදී ව්‍යාකරණය සහ විරාම ලකුණු පරීක්ෂා කෙරේ."
       }
     ],
     "dialogue": [
       {
         "text": "What is the central argument?",
-        "reading": "",
+        "reading": "ව්ඇට් ඉස් ත්එ ක්එන්ට්ර්ඇල් ඇර්ග්අම්එන්ට්?",
         "meaning": "ප්‍රධාන තර්කය කුමක්ද?"
       },
       {
         "text": "It relies on evidence that can be verified.",
-        "reading": "",
+        "reading": "ඉට් ර්එල්ඉඑස් ඔන් එව්ඉඩ්එන්ක්එ ත්ඇට් ක්ඇන් බ්එ ව්එර්ඉෆ්ඉඑඩ්.",
         "meaning": "එය පරීක්ෂා කළ හැකි සාක්ෂි මත පදනම් වේ."
       },
       {
         "text": "Is there an important limitation?",
-        "reading": "",
+        "reading": "ඉස් ත්එර්එ ඇන් ඉම්ප්ඔර්ට්ඇන්ට් ල්ඉම්ඉට්ඇෂන්?",
         "meaning": "වැදගත් සීමාවක් තිබේද?"
       },
       {
         "text": "Yes, so the conclusion needs careful wording.",
-        "reading": "",
+        "reading": "යිඑස්, ස්ඔ ත්එ ක්ඔන්ක්ල්අෂන් න්ඊඩ්ස් ක්ඇර්එෆ්අල් ව්ඔර්ඩ්ඉං.",
         "meaning": "ඔව්, ඒ නිසා නිගමනය ප්‍රවේශමෙන් සකස් කළ යුතුය."
       }
     ],
     "listeningPractice": {
       "prompt": "Listen and choose the most accurate meaning.",
       "audio": "This paragraph should be rephrased for clarity. Inconsistent terminology confuses the reader. Remove redundant repetition, but preserve the nuance.",
-      "reading": "",
+      "reading": "ත්ඉස් ප්ඇර්ඇග්ර්ඇෆ් ෂ්අවුල්ඩ් බ්එ ර්එෆ්ර්ඇස්එඩ් ෆ්ඔර් ක්ල්ඇර්ඉට්යි. ඉන්ක්ඔන්ස්ඉස්ට්එන්ට් ට්එර්ම්ඉන්ඔල්ඔග්යි ක්ඔන්ෆ්අස්එස් ත්එ ර්ඊඩ්එර්. ර්එම්ඔව්එ ර්එඩ්අන්ඩ්ඇන්ට් ර්එප්එට්ඉෂන්, බ්අට් ප්ර්එස්එර්ව්එ ත්එ න්අඇන්ක්එ.",
       "options": [
         "පැහැදිලිභාවය සඳහා මෙම ඡේදය නැවත සකස් කළ යුතුය. අනුකූල නොවන පාරිභාෂික වචන පාඨකයා ව්‍යාකූල කරයි.",
         "Every statement is completely certain.",
