@@ -381,7 +381,7 @@ export const SERBIAN_A1_LESSONS = [
     {
       "word": "Dvesta",
       "meaning": "දෙසියය",
-      "example": "Broj dvjesta.",
+      "example": "Broj dvesta.",
       "translation": "අංකය: දෙසියය."
     },
     {
