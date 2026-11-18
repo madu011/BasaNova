@@ -467,11 +467,35 @@ export const SERBIAN_A1_LESSONS = [
       "meaning": "මිලියනය (1,000,000)",
       "example": "Jedan milion dinara.",
       "translation": "ඩිනාර් මිලියනයක්."
+    },
+    {
+      "word": "Dva miliona",
+      "meaning": "මිලියන දෙක (2,000,000)",
+      "example": "Dva miliona dinara.",
+      "translation": "ඩිනාර් මිලියන දෙකක්."
+    },
+    {
+      "word": "Pet miliona",
+      "meaning": "මිලියන පහ (5,000,000)",
+      "example": "Pet miliona dinara.",
+      "translation": "ඩිනාර් මිලියන පහක්."
+    },
+    {
+      "word": "Deset miliona",
+      "meaning": "මිලියන දහය (10,000,000)",
+      "example": "Deset miliona dinara.",
+      "translation": "ඩිනාර් මිලියන දහයක්."
+    },
+    {
+      "word": "Sto miliona",
+      "meaning": "මිලියන සියය (100,000,000)",
+      "example": "Sto miliona dinara.",
+      "translation": "ඩිනාර් මිලියන සියයක්."
     }
   ],
-  "grammarTerms": [{ "sr": "dvadeset jedan", "si": "විසි එක", "reading": "ද්වාදෙසෙත් යෙදාන්" }, { "sr": "dvadeset dva", "si": "විසි දෙක", "reading": "ද්වාදෙසෙත් ද්වා" }, { "sr": "trideset pet", "si": "තිස් පහ", "reading": "ත්‍රිදෙසෙත් පෙත්" }, { "sr": "sto", "si": "සියය", "reading": "ස්තො" }, { "sr": "hiljadu", "si": "දහස", "reading": "හිල්‍යාදු" }, { "sr": "deset hiljada", "si": "දසදහස (10,000)", "reading": "දෙසෙත් හිල්‍යාදා" }, { "sr": "pedeset hiljada", "si": "පනස්දහස (50,000)", "reading": "පෙදෙසෙත් හිල්‍යාදා" }, { "sr": "sto hiljada", "si": "ලක්ෂය (100,000)", "reading": "ස්තො හිල්‍යාදා" }, { "sr": "petsto hiljada", "si": "පන්ලක්ෂය (500,000)", "reading": "පෙත්ස්තො හිල්‍යාදා" }, { "sr": "dvesta hiljada", "si": "දෙලක්ෂය (200,000)", "reading": "ද්වෙස්තා හිල්‍යාදා" }, { "sr": "milion", "si": "මිලියනය (1,000,000)", "reading": "මිලියොන්" }, { "sr": "jedan milion", "si": "මිලියනයක්", "reading": "යෙදාන් මිලියොන්" }, { "sr": "jedan / jedna / jedno", "si": "එක — නාම පදයේ ලිංගය අනුව වෙනස් වේ", "reading": "යෙදාන් / යෙද්නා / යෙද්නො" }, { "sr": "dva / dve", "si": "දෙක — නාම පදයේ ලිංගය අනුව වෙනස් වේ", "reading": "ද්වා / ද්වේ" }],
+  "grammarTerms": [{ "sr": "dvadeset jedan", "si": "විසි එක", "reading": "ද්වාදෙසෙත් යෙදාන්" }, { "sr": "dvadeset dva", "si": "විසි දෙක", "reading": "ද්වාදෙසෙත් ද්වා" }, { "sr": "trideset pet", "si": "තිස් පහ", "reading": "ත්‍රිදෙසෙත් පෙත්" }, { "sr": "sto", "si": "සියය", "reading": "ස්තො" }, { "sr": "hiljadu", "si": "දහස", "reading": "හිල්‍යාදු" }, { "sr": "deset hiljada", "si": "දසදහස (10,000)", "reading": "දෙසෙත් හිල්‍යාදා" }, { "sr": "pedeset hiljada", "si": "පනස්දහස (50,000)", "reading": "පෙදෙසෙත් හිල්‍යාදා" }, { "sr": "sto hiljada", "si": "ලක්ෂය (100,000)", "reading": "ස්තො හිල්‍යාදා" }, { "sr": "petsto hiljada", "si": "පන්ලක්ෂය (500,000)", "reading": "පෙත්ස්තො හිල්‍යාදා" }, { "sr": "dvesta hiljada", "si": "දෙලක්ෂය (200,000)", "reading": "ද්වෙස්තා හිල්‍යාදා" }, { "sr": "milion", "si": "මිලියනය (1,000,000)", "reading": "මිලියොන්" }, { "sr": "jedan milion", "si": "මිලියනයක්", "reading": "යෙදාන් මිලියොන්" }, { "sr": "dva miliona", "si": "මිලියන දෙක (2,000,000)", "reading": "ද්වා මිලියොනා" }, { "sr": "pet miliona", "si": "මිලියන පහ (5,000,000)", "reading": "පෙත් මිලියොනා" }, { "sr": "deset miliona", "si": "මිලියන දහය (10,000,000)", "reading": "දෙසෙත් මිලියොනා" }, { "sr": "sto miliona", "si": "මිලියන සියය (100,000,000)", "reading": "ස්තො මිලියොනා" }, { "sr": "jedan / jedna / jedno", "si": "එක — නාම පදයේ ලිංගය අනුව වෙනස් වේ", "reading": "යෙදාන් / යෙද්නා / යෙද්නො" }, { "sr": "dva / dve", "si": "දෙක — නාම පදයේ ලිංගය අනුව වෙනස් වේ", "reading": "ද්වා / ද්වේ" }],
   "grammarTitle": "අංක රටාව · 21 සිට මිලියනය දක්වා",
-  "grammar": "Serbian භාෂාවේ 21 = dvadeset jedan (20 + 1), 22 = dvadeset dva (20 + 2), 35 = trideset pet (30 + 5). 100 = sto, 1,000 = hiljadu. 10,000 කියන්නේ deset hiljada, 50,000 කියන්නේ pedeset hiljada, 100,000 කියන්නේ sto hiljada (සියයක් × දහස), 200,000 කියන්නේ dvesta hiljada, 500,000 කියන්නේ petsto hiljada, 1,000,000 කියන්නේ milion හෝ jedan milion. 'Hiljada' යනු දහස සඳහා භාවිත වන ස්ත්‍රී ලිංග නාම පදයයි; එයට පෙර sto/dvesta වැනි අංක යෙදේ. මිලියනය සඳහා 'milion' කියන වචනය භාවිත වෙනවා.",
+  "grammar": "Serbian භාෂාවේ 21 = dvadeset jedan (20 + 1), 22 = dvadeset dva (20 + 2), 35 = trideset pet (30 + 5). 100 = sto, 1,000 = hiljadu. 10,000 කියන්නේ deset hiljada, 50,000 කියන්නේ pedeset hiljada, 100,000 කියන්නේ sto hiljada (සියයක් × දහස), 200,000 කියන්නේ dvesta hiljada, 500,000 කියන්නේ petsto hiljada, 1,000,000 කියන්නේ milion හෝ jedan milion. 2,000,000 = dva miliona, 5,000,000 = pet miliona, 10,000,000 = deset miliona, 100,000,000 = sto miliona. එක මිලියනයකට 'milion' කියන අතර 2 හෝ ඊට වැඩි ගණනක් සඳහා මේ උදාහරණවල 'miliona' යන බහුවචන/විභක්ති රූපය භාවිත වෙනවා. 'Hiljada' යනු දහස සඳහා භාවිත වන ස්ත්‍රී ලිංග නාම පදයයි; එයට පෙර sto/dvesta වැනි අංක යෙදේ. මිලියනය සඳහා 'milion' කියන වචනය භාවිත වෙනවා.",
   "examples": [
     {
       "sr": "Jedan, dva, tri, četiri, pet.",
@@ -516,6 +540,22 @@ export const SERBIAN_A1_LESSONS = [
     {
       "sr": "Jedan milion dinara.",
       "si": "ඩිනාර් මිලියනයක්."
+    },
+    {
+      "sr": "Dva miliona dinara.",
+      "si": "ඩිනාර් මිලියන දෙකක්."
+    },
+    {
+      "sr": "Pet miliona dinara.",
+      "si": "ඩිනාර් මිලියන පහක්."
+    },
+    {
+      "sr": "Deset miliona dinara.",
+      "si": "ඩිනාර් මිලියන දහයක්."
+    },
+    {
+      "sr": "Sto miliona dinara.",
+      "si": "ඩිනාර් මිලියන සියයක්."
     }
   ],
   "dialogue": [
@@ -568,6 +608,24 @@ export const SERBIAN_A1_LESSONS = [
       "options": ["Petsto hiljada", "Pedeset hiljada", "Sto hiljada"],
       "answer": 1,
       "explanation": "Pedeset = පනහ; pedeset hiljada = 50,000."
+    },
+    {
+      "prompt": "“මිලියන දෙක (2,000,000)” Serbian භාෂාවෙන් කියන්නේ කොහොමද?",
+      "options": ["Dva miliona", "Dva hiljada", "Dva milion"],
+      "answer": 0,
+      "explanation": "2,000,000 = dva miliona. මෙහි miliona යන රූපය භාවිත වෙනවා."
+    },
+    {
+      "prompt": "“මිලියන පහ (5,000,000)” තෝරන්න.",
+      "options": ["Pet miliona", "Pedeset miliona", "Petsto miliona"],
+      "answer": 0,
+      "explanation": "Pet = පහ; pet miliona = මිලියන පහ."
+    },
+    {
+      "prompt": "“මිලියන දහය (10,000,000)” කියන්නේ කුමක්ද?",
+      "options": ["Sto miliona", "Deset miliona", "Dva miliona"],
+      "answer": 1,
+      "explanation": "Deset = දහය; deset miliona = මිලියන දහය."
     },
     {
       "prompt": "“පන්ලක්ෂය (500,000)” කියන්නේ කුමක්ද?",
