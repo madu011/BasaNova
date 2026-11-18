@@ -373,6 +373,7 @@ export default function App(){
      </View>)}
      <Text style={s.lessonHeading}>🧠 {lesson.grammarTitle}</Text>
      <Text style={s.sub}>{lesson.grammar}</Text>
+     {(lesson.grammar.match(/[“"]([^”"]+)[”"]/g)||[]).map((quoted,qi)=>{const phrase=quoted.slice(1,-1);return /[A-Za-zČĆĐŠŽčćđšž]/.test(phrase)?<View key={lesson.id+"-grammar-audio-"+qi} style={s.dialogueLine}><View style={{flex:1}}><Text style={s.lessonSerbian}>{phrase}</Text><Text style={s.sound}>සිංහල අකුරෙන් උච්චාරණය: {pronounceSinhala(phrase)}</Text></View><TouchableOpacity accessibilityRole="button" accessibilityLabel={phrase+" හඬ අහන්න"} onPress={()=>speak(phrase,"Serbian")}><Text style={s.link}>🔊</Text></TouchableOpacity></View>:null;})}
      {lesson.grammarTerms?.map(term=><View key={lesson.id+"-grammar-"+term.sr} style={s.example}>
       <Text style={s.lessonSerbian}>{term.sr}</Text>
       <Text style={s.sound}>සිංහල අකුරෙන්: {term.reading}</Text>
@@ -407,7 +408,7 @@ export default function App(){
         </TouchableOpacity>
         {/[A-Za-zČĆĐŠŽčćđšž]/.test(option)&&<TouchableOpacity accessibilityRole="button" accessibilityLabel="පිළිතුරේ උච්චාරණය අහන්න" onPress={()=>speak(option,"Serbian")} style={{padding:8}}><Text style={s.link}>🔊</Text></TouchableOpacity>}
        </View>)}
-       {checked?<Text style={s.sub}>{selected===q.answer?"නිවැරදියි! ✓ ":"නැවත පුහුණු වෙමු. "}{q.explanation}</Text>:<TouchableOpacity disabled={selected===undefined} onPress={()=>setLessonChecked(v=>({...v,[key]:true}))} style={[s.action,selected===undefined&&{opacity:0.45}]}><Text style={s.actionText}>පිළිතුර පරීක්ෂා කරන්න</Text></TouchableOpacity>}
+       {checked?<><Text style={s.sub}>{selected===q.answer?"නිවැරදියි! ✓ ":"නැවත පුහුණු වෙමු. "}{q.explanation}</Text>{(q.explanation.match(/[“"]([^”"]+)[”"]/g)||[]).map((quoted,ei)=>{const phrase=quoted.slice(1,-1);return /[A-Za-zČĆĐŠŽčćđšž]/.test(phrase)?<View key={key+"-explain-audio-"+ei} style={s.dialogueLine}><Text style={[s.lessonSerbian,{flex:1}]}>{phrase}</Text><TouchableOpacity accessibilityRole="button" accessibilityLabel={phrase+" හඬ අහන්න"} onPress={()=>speak(phrase,"Serbian")}><Text style={s.link}>🔊</Text></TouchableOpacity></View>:null;})}</>:<TouchableOpacity disabled={selected===undefined} onPress={()=>setLessonChecked(v=>({...v,[key]:true}))} style={[s.action,selected===undefined&&{opacity:0.45}]}><Text style={s.actionText}>පිළිතුර පරීක්ෂා කරන්න</Text></TouchableOpacity>}
       </View>;
      })}
       </View>}
