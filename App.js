@@ -14,7 +14,7 @@ import { SERBIAN_A2_LESSONS } from "./serbianA2Lessons";
 import { ENGLISH_A2_LESSONS } from "./englishA2Lessons";
 import { SERBIAN_B1_LESSONS } from "./serbianB1Lessons";
 import { ENGLISH_B1_LESSONS } from "./englishB1Lessons";
-import { SERBIAN_B1_FINAL_EXAM, ENGLISH_B1_FINAL_EXAM } from "./b1FinalExams";
+import { SERBIAN_B1_FINAL_EXAM, ENGLISH_B1_FINAL_EXAM, SERBIAN_B1_MIXED_REVISION, ENGLISH_B1_MIXED_REVISION } from "./b1FinalExams";
 import { SERBIAN_EXTRA_VOCAB, ENGLISH_EXTRA_VOCAB } from "./vocabularyPacks";
 import { SERBIAN_VOCAB_PACK_2, ENGLISH_VOCAB_PACK_2 } from "./vocabularyPack2";
 import { SERBIAN_VOCAB_PACK_3, ENGLISH_VOCAB_PACK_3 } from "./vocabularyPack3";
@@ -799,6 +799,11 @@ export default function App(){
       </View>}
      </View>
     })}
+    <View style={s.quizCard}>
+     <Text style={s.lessonHeading}>🔁 B1 · පාඩම් 50ම මිශ්‍ර නැවත පුහුණුව</Text>
+     <Text style={s.sub}>පාඩම් මාලාව පුරා ඉගෙනගත් ව්‍යාකරණ සහ වචන මතකදැයි පරීක්ෂා කරන්න. පිළිතුර තෝරා වෙන වෙනම පරීක්ෂා කරන්න.</Text>
+     {(language==="Serbian"?SERBIAN_B1_MIXED_REVISION:ENGLISH_B1_MIXED_REVISION).map((q,qi)=>{const key="b1-revision-"+language+"-"+qi,selected=lessonAnswers[key],checked=lessonChecked[key];return <View key={q.id} style={s.quizCard}><Text style={s.eyebrow}>{qi+1}/10 · {q.topic}</Text><Text style={s.sub}>{q.prompt}</Text>{q.options.map((option,oi)=><TouchableOpacity key={q.id+"-"+oi} disabled={!!checked} onPress={()=>setLessonAnswers(v=>({...v,[key]:oi}))} style={[s.quizOption,selected===oi&&s.quizSelected,checked&&oi===q.answer&&s.quizCorrect,checked&&selected===oi&&selected!==q.answer&&s.quizWrong]}><Text style={s.quizOptionText}>{String.fromCharCode(65+oi)}. {option}</Text></TouchableOpacity>)}{checked?<Text style={s.sub}>{selected===q.answer?"නිවැරදියි! ✓ ":"නැවත පුහුණු වෙමු. "}{q.explanation}</Text>:<TouchableOpacity disabled={selected===undefined} onPress={()=>setLessonChecked(v=>({...v,[key]:true}))} style={[s.action,selected===undefined&&{opacity:0.45}]}><Text style={s.actionText}>පිළිතුර පරීක්ෂා කරන්න</Text></TouchableOpacity>}</View>})}
+    </View>
     <View style={s.quizCard}>
      <Text style={s.lessonHeading}>🏆 B1 · අවසාන මිශ්‍ර පරීක්ෂණය</Text>
      <Text style={s.sub}>පාඩම් 50ම ආවරණය කරන ප්‍රශ්න 20ක්. වචන දැනුම සහ ශ්‍රවණ අවබෝධය පරීක්ෂා කරන්න. 70% හෝ ඊට වැඩි ලකුණු ලබාගැනීම ඉලක්කයයි.</Text>
