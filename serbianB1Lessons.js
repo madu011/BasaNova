@@ -3409,42 +3409,58 @@ export const SERBIAN_B1_LESSONS = [
       {
         "word": "sertifikat",
         "reading": "සෙර්තිෆිකාත්",
-        "meaning": "සහතිකය"
+        "meaning": "සහතිකය",
+        "example": "Želim da završim kurs kako bih unapredio svoje veštine.",
+        "translation": "මගේ කුසලතා දියුණු කරගැනීමට පාඨමාලාව අවසන් කරන්න කැමතියි."
       },
       {
         "word": "kvalifikacija",
         "reading": "ක්වාලිෆිකාත්සියා",
-        "meaning": "සුදුසුකම"
+        "meaning": "සුදුසුකම",
+        "example": "Želim da završim kurs kako bih unapredio svoje veštine.",
+        "translation": "මගේ කුසලතා දියුණු කරගැනීමට පාඨමාලාව අවසන් කරන්න කැමතියි."
       },
       {
         "word": "obuka",
         "reading": "ඔබුකා",
-        "meaning": "පුහුණුව"
+        "meaning": "පුහුණුව",
+        "example": "Želim da završim kurs kako bih unapredio svoje veštine.",
+        "translation": "මගේ කුසලතා දියුණු කරගැනීමට පාඨමාලාව අවසන් කරන්න කැමතියි."
       },
       {
         "word": "predavanje",
         "reading": "ප්‍රෙදාවාන්යේ",
-        "meaning": "දේශනය"
+        "meaning": "දේශනය",
+        "example": "Želim da završim kurs kako bih unapredio svoje veštine.",
+        "translation": "මගේ කුසලතා දියුණු කරගැනීමට පාඨමාලාව අවසන් කරන්න කැමතියි."
       },
       {
         "word": "zadatak",
         "reading": "සාදාතාක්",
-        "meaning": "පැවරුම"
+        "meaning": "පැවරුම",
+        "example": "Želim da završim kurs kako bih unapredio svoje veštine.",
+        "translation": "මගේ කුසලතා දියුණු කරගැනීමට පාඨමාලාව අවසන් කරන්න කැමතියි."
       },
       {
         "word": "rok",
         "reading": "රොක්",
-        "meaning": "අවසන් දිනය"
+        "meaning": "අවසන් දිනය",
+        "example": "Želim da završim kurs kako bih unapredio svoje veštine.",
+        "translation": "මගේ කුසලතා දියුණු කරගැනීමට පාඨමාලාව අවසන් කරන්න කැමතියි."
       },
       {
         "word": "upisati se",
         "reading": "උපිසාති සෙ",
-        "meaning": "ලියාපදිංචි වෙනවා"
+        "meaning": "ලියාපදිංචි වෙනවා",
+        "example": "Želim da završim kurs kako bih unapredio svoje veštine.",
+        "translation": "මගේ කුසලතා දියුණු කරගැනීමට පාඨමාලාව අවසන් කරන්න කැමතියි."
       },
       {
         "word": "unaprediti",
         "reading": "උනප්‍රෙදити",
-        "meaning": "දියුණු කරනවා"
+        "meaning": "දියුණු කරනවා",
+        "example": "Želim da završim kurs kako bih unapredio svoje veštine.",
+        "translation": "මගේ කුසලතා දියුණු කරගැනීමට පාඨමාලාව අවසන් කරන්න කැමතියි."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -3563,42 +3579,58 @@ export const SERBIAN_B1_LESSONS = [
       {
         "word": "aplikacija",
         "reading": "අප්ලිකාත්සියා",
-        "meaning": "යෙදුම"
+        "meaning": "යෙදුම",
+        "example": "Koristim aplikaciju koja mi pomaže da organizujem obaveze.",
+        "translation": "මගේ වැඩ සංවිධානය කිරීමට උදව් කරන යෙදුමක් භාවිතා කරනවා."
       },
       {
         "word": "nalog",
         "reading": "නාලොග්",
-        "meaning": "ගිණුම"
+        "meaning": "ගිණුම",
+        "example": "Koristim aplikaciju koja mi pomaže da organizujem obaveze.",
+        "translation": "මගේ වැඩ සංවිධානය කිරීමට උදව් කරන යෙදුමක් භාවිතා කරනවා."
       },
       {
         "word": "lozinka",
         "reading": "ලොසින්කා",
-        "meaning": "මුරපදය"
+        "meaning": "මුරපදය",
+        "example": "Koristim aplikaciju koja mi pomaže da organizujem obaveze.",
+        "translation": "මගේ වැඩ සංවිධානය කිරීමට උදව් කරන යෙදුමක් භාවිතා කරනවා."
       },
       {
         "word": "prilog",
         "reading": "ප්‍රිලොග්",
-        "meaning": "ඇමුණුම"
+        "meaning": "ඇමුණුම",
+        "example": "Koristim aplikaciju koja mi pomaže da organizujem obaveze.",
+        "translation": "මගේ වැඩ සංවිධානය කිරීමට උදව් කරන යෙදුමක් භාවිතා කරනවා."
       },
       {
         "word": "preuzeti",
         "reading": "ප්‍රෙඋසෙති",
-        "meaning": "බාගත කරනවා"
+        "meaning": "බාගත කරනවා",
+        "example": "Koristim aplikaciju koja mi pomaže da organizujem obaveze.",
+        "translation": "මගේ වැඩ සංවිධානය කිරීමට උදව් කරන යෙදුමක් භාවිතා කරනවා."
       },
       {
         "word": "ažurirati",
         "reading": "අෂුරිරати",
-        "meaning": "යාවත්කාලීන කරනවා"
+        "meaning": "යාවත්කාලීන කරනවා",
+        "example": "Koristim aplikaciju koja mi pomaže da organizujem obaveze.",
+        "translation": "මගේ වැඩ සංවිධානය කිරීමට උදව් කරන යෙදුමක් භාවිතා කරනවා."
       },
       {
         "word": "privatnost",
         "reading": "ප්‍රිවාත්නොස්ත්",
-        "meaning": "පෞද්ගලිකත්වය"
+        "meaning": "පෞද්ගලිකත්වය",
+        "example": "Koristim aplikaciju koja mi pomaže da organizujem obaveze.",
+        "translation": "මගේ වැඩ සංවිධානය කිරීමට උදව් කරන යෙදුමක් භාවිතා කරනවා."
       },
       {
         "word": "veza",
         "reading": "වෙසා",
-        "meaning": "සම්බන්ධතාව"
+        "meaning": "සම්බන්ධතාව",
+        "example": "Koristim aplikaciju koja mi pomaže da organizujem obaveze.",
+        "translation": "මගේ වැඩ සංවිධානය කිරීමට උදව් කරන යෙදුමක් භාවිතා කරනවා."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -3717,42 +3749,58 @@ export const SERBIAN_B1_LESSONS = [
       {
         "word": "ušteđevina",
         "reading": "උෂ්තෙජෙවිනා",
-        "meaning": "ඉතිරිකිරීම්"
+        "meaning": "ඉතිරිකිරීම්",
+        "example": "Ukoliko redovno štedim, mogu da planiram veće troškove.",
+        "translation": "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්."
       },
       {
         "word": "budžet",
         "reading": "බුජෙත්",
-        "meaning": "අයවැය"
+        "meaning": "අයවැය",
+        "example": "Ukoliko redovno štedim, mogu da planiram veće troškove.",
+        "translation": "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්."
       },
       {
         "word": "trošak",
         "reading": "ත්‍රොෂාක්",
-        "meaning": "වියදම"
+        "meaning": "වියදම",
+        "example": "Ukoliko redovno štedim, mogu da planiram veće troškove.",
+        "translation": "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්."
       },
       {
         "word": "prihod",
         "reading": "ප්‍රිහොද්",
-        "meaning": "ආදායම"
+        "meaning": "ආදායම",
+        "example": "Ukoliko redovno štedim, mogu da planiram veće troškove.",
+        "translation": "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්."
       },
       {
         "word": "prenos",
         "reading": "ප්‍රෙනොස්",
-        "meaning": "මාරු කිරීම"
+        "meaning": "මාරු කිරීම",
+        "example": "Ukoliko redovno štedim, mogu da planiram veće troškove.",
+        "translation": "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්."
       },
       {
         "word": "naknada",
         "reading": "නක්නාදා",
-        "meaning": "ගාස්තුව"
+        "meaning": "ගාස්තුව",
+        "example": "Ukoliko redovno štedim, mogu da planiram veće troškove.",
+        "translation": "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්."
       },
       {
         "word": "kamata",
         "reading": "කමාතා",
-        "meaning": "පොලිය"
+        "meaning": "පොලිය",
+        "example": "Ukoliko redovno štedim, mogu da planiram veće troškove.",
+        "translation": "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්."
       },
       {
         "word": "izvod",
         "reading": "ඉස්වොද්",
-        "meaning": "ගිණුම් ප්‍රකාශය"
+        "meaning": "ගිණුම් ප්‍රකාශය",
+        "example": "Ukoliko redovno štedim, mogu da planiram veće troškove.",
+        "translation": "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -3871,42 +3919,58 @@ export const SERBIAN_B1_LESSONS = [
       {
         "word": "dobrobit",
         "reading": "දොබ්‍රොබිත්",
-        "meaning": "යහපැවැත්ම"
+        "meaning": "යහපැවැත්ම",
+        "example": "Iako imam mnogo obaveza, trudim se da dovoljno spavam.",
+        "translation": "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා."
       },
       {
         "word": "navika",
         "reading": "නාවිකා",
-        "meaning": "පුරුද්ද"
+        "meaning": "පුරුද්ද",
+        "example": "Iako imam mnogo obaveza, trudim se da dovoljno spavam.",
+        "translation": "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා."
       },
       {
         "word": "san",
         "reading": "සාන්",
-        "meaning": "නින්ද"
+        "meaning": "නින්ද",
+        "example": "Iako imam mnogo obaveza, trudim se da dovoljno spavam.",
+        "translation": "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා."
       },
       {
         "word": "vežbanje",
         "reading": "වෙෂ්බාන්යේ",
-        "meaning": "ව්‍යායාමය"
+        "meaning": "ව්‍යායාමය",
+        "example": "Iako imam mnogo obaveza, trudim se da dovoljno spavam.",
+        "translation": "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා."
       },
       {
         "word": "uravnotežen",
         "reading": "උරාව්නොතෙෂෙන්",
-        "meaning": "සමබර"
+        "meaning": "සමබර",
+        "example": "Iako imam mnogo obaveza, trudim se da dovoljno spavam.",
+        "translation": "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා."
       },
       {
         "word": "stres",
         "reading": "ස්ත්‍රෙස්",
-        "meaning": "මානසික පීඩනය"
+        "meaning": "මානසික පීඩනය",
+        "example": "Iako imam mnogo obaveza, trudim se da dovoljno spavam.",
+        "translation": "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා."
       },
       {
         "word": "rutina",
         "reading": "රුතිනා",
-        "meaning": "දෛනික රටාව"
+        "meaning": "දෛනික රටාව",
+        "example": "Iako imam mnogo obaveza, trudim se da dovoljno spavam.",
+        "translation": "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා."
       },
       {
         "word": "oporavak",
         "reading": "ඔපොරාවාක්",
-        "meaning": "සුවය ලැබීම"
+        "meaning": "සුවය ලැබීම",
+        "example": "Iako imam mnogo obaveza, trudim se da dovoljno spavam.",
+        "translation": "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -4025,42 +4089,58 @@ export const SERBIAN_B1_LESSONS = [
       {
         "word": "tradicija",
         "reading": "ත්‍රාදිත්සියා",
-        "meaning": "සම්ප්‍රදාය"
+        "meaning": "සම්ප්‍රදාය",
+        "example": "Ovaj običaj se prenosi sa generacije na generaciju.",
+        "translation": "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා."
       },
       {
         "word": "običaj",
         "reading": "ඔබිචායි",
-        "meaning": "චාරිත්‍රය"
+        "meaning": "චාරිත්‍රය",
+        "example": "Ovaj običaj se prenosi sa generacije na generaciju.",
+        "translation": "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා."
       },
       {
         "word": "nasleđe",
         "reading": "නාස්ලෙජෙ",
-        "meaning": "උරුමය"
+        "meaning": "උරුමය",
+        "example": "Ovaj običaj se prenosi sa generacije na generaciju.",
+        "translation": "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා."
       },
       {
         "word": "generacija",
         "reading": "ජෙනෙරාත්සියා",
-        "meaning": "පරම්පරාව"
+        "meaning": "පරම්පරාව",
+        "example": "Ovaj običaj se prenosi sa generacije na generaciju.",
+        "translation": "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා."
       },
       {
         "word": "proslava",
         "reading": "ප්‍රොස්ලාවා",
-        "meaning": "උත්සවය"
+        "meaning": "උත්සවය",
+        "example": "Ovaj običaj se prenosi sa generacije na generaciju.",
+        "translation": "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා."
       },
       {
         "word": "nošnja",
         "reading": "නොෂ්න්යා",
-        "meaning": "සාම්ප්‍රදායික ඇඳුම"
+        "meaning": "සාම්ප්‍රදායික ඇඳුම",
+        "example": "Ovaj običaj se prenosi sa generacije na generaciju.",
+        "translation": "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා."
       },
       {
         "word": "uticaj",
         "reading": "උතිත්සායි",
-        "meaning": "බලපෑම"
+        "meaning": "බලපෑම",
+        "example": "Ovaj običaj se prenosi sa generacije na generaciju.",
+        "translation": "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා."
       },
       {
         "word": "identitet",
         "reading": "ඉදෙන්තිතෙත්",
-        "meaning": "අනන්‍යතාව"
+        "meaning": "අනන්‍යතාව",
+        "example": "Ovaj običaj se prenosi sa generacije na generaciju.",
+        "translation": "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -4179,42 +4259,58 @@ export const SERBIAN_B1_LESSONS = [
       {
         "word": "iskustvo",
         "reading": "ඉස්කුස්ත්වො",
-        "meaning": "පළපුරුද්ද"
+        "meaning": "පළපුරුද්ද",
+        "example": "Radio sam u prodaji i naučio sam da rešavam probleme kupaca.",
+        "translation": "මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කරලා පාරිභෝගික ගැටලු විසඳන්න ඉගෙන ගත්තා."
       },
       {
         "word": "postignuće",
         "reading": "පොස්තිග්නුචෙ",
-        "meaning": "ජයග්‍රහණය"
+        "meaning": "ජයග්‍රහණය",
+        "example": "Radio sam u prodaji i naučio sam da rešavam probleme kupaca.",
+        "translation": "මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කරලා පාරිභෝගික ගැටලු විසඳන්න ඉගෙන ගත්තා."
       },
       {
         "word": "odgovornost",
         "reading": "ඔද්ගොවොර්නොස්ත්",
-        "meaning": "වගකීම"
+        "meaning": "වගකීම",
+        "example": "Radio sam u prodaji i naučio sam da rešavam probleme kupaca.",
+        "translation": "මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කරලා පාරිභෝගික ගැටලු විසඳන්න ඉගෙන ගත්තා."
       },
       {
         "word": "razgovor za posao",
         "reading": "රාස්ගොවොර සා පොසාඔ",
-        "meaning": "සම්මුඛ පරීක්ෂණය"
+        "meaning": "සම්මුඛ පරීක්ෂණය",
+        "example": "Radio sam u prodaji i naučio sam da rešavam probleme kupaca.",
+        "translation": "මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කරලා පාරිභෝගික ගැටලු විසඳන්න ඉගෙන ගත්තා."
       },
       {
         "word": "poslodavac",
         "reading": "පොස්ලොදාවාත්ස්",
-        "meaning": "සේවායෝජකයා"
+        "meaning": "සේවායෝජකයා",
+        "example": "Radio sam u prodaji i naučio sam da rešavam probleme kupaca.",
+        "translation": "මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කරලා පාරිභෝගික ගැටලු විසඳන්න ඉගෙන ගත්තා."
       },
       {
         "word": "kolega",
         "reading": "කොලෙගා",
-        "meaning": "සගයා"
+        "meaning": "සගයා",
+        "example": "Radio sam u prodaji i naučio sam da rešavam probleme kupaca.",
+        "translation": "මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කරලා පාරිභෝගික ගැටලු විසඳන්න ඉගෙන ගත්තා."
       },
       {
         "word": "unapređenje",
         "reading": "උනප්‍රෙජෙන්යේ",
-        "meaning": "උසස්වීම"
+        "meaning": "උසස්වීම",
+        "example": "Radio sam u prodaji i naučio sam da rešavam probleme kupaca.",
+        "translation": "මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කරලා පාරිභෝගික ගැටලු විසඳන්න ඉගෙන ගත්තා."
       },
       {
         "word": "preporuka",
         "reading": "ප්‍රෙපොරුකා",
-        "meaning": "නිර්දේශය"
+        "meaning": "නිර්දේශය",
+        "example": "Radio sam u prodaji i naučio sam da rešavam probleme kupaca.",
+        "translation": "මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කරලා පාරිභෝගික ගැටලු විසඳන්න ඉගෙන ගත්තා."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -4333,42 +4429,58 @@ export const SERBIAN_B1_LESSONS = [
       {
         "word": "sporazum",
         "reading": "ස්පොරසුම්",
-        "meaning": "එකඟතාව"
+        "meaning": "එකඟතාව",
+        "example": "Predlažem da saslušamo obe strane pre nego što odlučimo.",
+        "translation": "තීරණය කිරීමට පෙර දෙපාර්ශ්වයටම සවන් දෙමු කියලා මම යෝජනා කරනවා."
       },
       {
         "word": "kompromis",
         "reading": "කොම්ප්‍රොමිස්",
-        "meaning": "සම්මුතිය"
+        "meaning": "සම්මුතිය",
+        "example": "Predlažem da saslušamo obe strane pre nego što odlučimo.",
+        "translation": "තීරණය කිරීමට පෙර දෙපාර්ශ්වයටම සවන් දෙමු කියලා මම යෝජනා කරනවා."
       },
       {
         "word": "neslaganje",
         "reading": "නෙස්ලාගාන්යේ",
-        "meaning": "නොඑකඟතාව"
+        "meaning": "නොඑකඟතාව",
+        "example": "Predlažem da saslušamo obe strane pre nego što odlučimo.",
+        "translation": "තීරණය කිරීමට පෙර දෙපාර්ශ්වයටම සවන් දෙමු කියලා මම යෝජනා කරනවා."
       },
       {
         "word": "pregovarati",
         "reading": "ප්‍රෙගොවාරාති",
-        "meaning": "සාකච්ඡා කරනවා"
+        "meaning": "සාකච්ඡා කරනවා",
+        "example": "Predlažem da saslušamo obe strane pre nego što odlučimo.",
+        "translation": "තීරණය කිරීමට පෙර දෙපාර්ශ්වයටම සවන් දෙමු කියලා මම යෝජනා කරනවා."
       },
       {
         "word": "predlog",
         "reading": "ප්‍රෙද්ලොග්",
-        "meaning": "යෝජනාව"
+        "meaning": "යෝජනාව",
+        "example": "Predlažem da saslušamo obe strane pre nego što odlučimo.",
+        "translation": "තීරණය කිරීමට පෙර දෙපාර්ශ්වයටම සවන් දෙමු කියලා මම යෝජනා කරනවා."
       },
       {
         "word": "briga",
         "reading": "බ්‍රිගා",
-        "meaning": "කනස්සල්ල"
+        "meaning": "කනස්සල්ල",
+        "example": "Predlažem da saslušamo obe strane pre nego što odlučimo.",
+        "translation": "තීරණය කිරීමට පෙර දෙපාර්ශ්වයටම සවන් දෙමු කියලා මම යෝජනා කරනවා."
       },
       {
         "word": "rešenje",
         "reading": "රෙෂෙන්යේ",
-        "meaning": "විසඳුම"
+        "meaning": "විසඳුම",
+        "example": "Predlažem da saslušamo obe strane pre nego što odlučimo.",
+        "translation": "තීරණය කිරීමට පෙර දෙපාර්ශ්වයටම සවන් දෙමු කියලා මම යෝජනා කරනවා."
       },
       {
         "word": "poštovanje",
         "reading": "පොෂ්තොවාන්යේ",
-        "meaning": "ගෞරවය"
+        "meaning": "ගෞරවය",
+        "example": "Predlažem da saslušamo obe strane pre nego što odlučimo.",
+        "translation": "තීරණය කිරීමට පෙර දෙපාර්ශ්වයටම සවන් දෙමු කියලා මම යෝජනා කරනවා."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -4487,42 +4599,58 @@ export const SERBIAN_B1_LESSONS = [
       {
         "word": "izvor",
         "reading": "ඉස්වොර",
-        "meaning": "මූලාශ්‍රය"
+        "meaning": "මූලාශ්‍රය",
+        "example": "Pre nego što podelim vest, proverim izvor i datum objave.",
+        "translation": "ප්‍රවෘත්තියක් බෙදාගැනීමට පෙර මූලාශ්‍රය සහ පළ කළ දිනය පරීක්ෂා කරනවා."
       },
       {
         "word": "naslov",
         "reading": "නාස්ලොව්",
-        "meaning": "ශීර්ෂ පාඨය"
+        "meaning": "ශීර්ෂ පාඨය",
+        "example": "Pre nego što podelim vest, proverim izvor i datum objave.",
+        "translation": "ප්‍රවෘත්තියක් බෙදාගැනීමට පෙර මූලාශ්‍රය සහ පළ කළ දිනය පරීක්ෂා කරනවා."
       },
       {
         "word": "izveštaj",
         "reading": "ඉස්වෙෂ්තායි",
-        "meaning": "වාර්තාව"
+        "meaning": "වාර්තාව",
+        "example": "Pre nego što podelim vest, proverim izvor i datum objave.",
+        "translation": "ප්‍රවෘත්තියක් බෙදාගැනීමට පෙර මූලාශ්‍රය සහ පළ කළ දිනය පරීක්ෂා කරනවා."
       },
       {
         "word": "tvrdnja",
         "reading": "ත්ව්ර්ද්න්යා",
-        "meaning": "ප්‍රකාශය"
+        "meaning": "ප්‍රකාශය",
+        "example": "Pre nego što podelim vest, proverim izvor i datum objave.",
+        "translation": "ප්‍රවෘත්තියක් බෙදාගැනීමට පෙර මූලාශ්‍රය සහ පළ කළ දිනය පරීක්ෂා කරනවා."
       },
       {
         "word": "dokaz",
         "reading": "දොකාස්",
-        "meaning": "සාක්ෂිය"
+        "meaning": "සාක්ෂිය",
+        "example": "Pre nego što podelim vest, proverim izvor i datum objave.",
+        "translation": "ප්‍රවෘත්තියක් බෙදාගැනීමට පෙර මූලාශ්‍රය සහ පළ කළ දිනය පරීක්ෂා කරනවා."
       },
       {
         "word": "pouzdan",
         "reading": "පොඋස්දාන්",
-        "meaning": "විශ්වාසදායක"
+        "meaning": "විශ්වාසදායක",
+        "example": "Pre nego što podelim vest, proverim izvor i datum objave.",
+        "translation": "ප්‍රවෘත්තියක් බෙදාගැනීමට පෙර මූලාශ්‍රය සහ පළ කළ දිනය පරීක්ෂා කරනවා."
       },
       {
         "word": "pristrasnost",
         "reading": "ප්‍රිස්ත්‍රාස්නොස්ත්",
-        "meaning": "පක්ෂපාතීත්වය"
+        "meaning": "පක්ෂපාතීත්වය",
+        "example": "Pre nego što podelim vest, proverim izvor i datum objave.",
+        "translation": "ප්‍රවෘත්තියක් බෙදාගැනීමට පෙර මූලාශ්‍රය සහ පළ කළ දිනය පරීක්ෂා කරනවා."
       },
       {
         "word": "objaviti",
         "reading": "ඔබ්යාවිති",
-        "meaning": "පළ කරනවා"
+        "meaning": "පළ කරනවා",
+        "example": "Pre nego što podelim vest, proverim izvor i datum objave.",
+        "translation": "ප්‍රවෘත්තියක් බෙදාගැනීමට පෙර මූලාශ්‍රය සහ පළ කළ දිනය පරීක්ෂා කරනවා."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -4641,42 +4769,58 @@ export const SERBIAN_B1_LESSONS = [
       {
         "word": "odredište",
         "reading": "ඔද්‍රෙදිෂ්තෙ",
-        "meaning": "ගමනාන්තය"
+        "meaning": "ගමනාන්තය",
+        "example": "Čim stignemo u hotel, ostavićemo prtljag i istražiti grad.",
+        "translation": "හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා."
       },
       {
         "word": "smeštaj",
         "reading": "ස්මෙෂ්තායි",
-        "meaning": "නවාතැන"
+        "meaning": "නවාතැන",
+        "example": "Čim stignemo u hotel, ostavićemo prtljag i istražiti grad.",
+        "translation": "හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා."
       },
       {
         "word": "razgledanje",
         "reading": "රාස්ග්ලෙදාන්යේ",
-        "meaning": "නගර නැරඹීම"
+        "meaning": "නගර නැරඹීම",
+        "example": "Čim stignemo u hotel, ostavićemo prtljag i istražiti grad.",
+        "translation": "හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා."
       },
       {
         "word": "rezervacija",
         "reading": "රෙසෙර්වාත්සියා",
-        "meaning": "වෙන්කිරීම"
+        "meaning": "වෙන්කිරීම",
+        "example": "Čim stignemo u hotel, ostavićemo prtljag i istražiti grad.",
+        "translation": "හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා."
       },
       {
         "word": "lokalni",
         "reading": "ලොකල්නි",
-        "meaning": "දේශීය"
+        "meaning": "දේශීය",
+        "example": "Čim stignemo u hotel, ostavićemo prtljag i istražiti grad.",
+        "translation": "හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා."
       },
       {
         "word": "ruta",
         "reading": "රුතා",
-        "meaning": "මාර්ගය"
+        "meaning": "මාර්ගය",
+        "example": "Čim stignemo u hotel, ostavićemo prtljag i istražiti grad.",
+        "translation": "හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා."
       },
       {
         "word": "prtljag",
         "reading": "ප්‍ර්ත්ල්යාග්",
-        "meaning": "ගමන් මලු"
+        "meaning": "ගමන් මලු",
+        "example": "Čim stignemo u hotel, ostavićemo prtljag i istražiti grad.",
+        "translation": "හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා."
       },
       {
         "word": "doživljaj",
         "reading": "දොෂිව්ල්යායි",
-        "meaning": "අත්දැකීම"
+        "meaning": "අත්දැකීම",
+        "example": "Čim stignemo u hotel, ostavićemo prtljag i istražiti grad.",
+        "translation": "හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -4795,42 +4939,58 @@ export const SERBIAN_B1_LESSONS = [
       {
         "word": "uspomena",
         "reading": "උස්පොමෙනා",
-        "meaning": "මතකය"
+        "meaning": "මතකය",
+        "example": "Kada sam se preselio, trebalo mi je vremena da se naviknem na novi grad.",
+        "translation": "මම පදිංචිය මාරු කළ විට අලුත් නගරයට හුරු වෙන්න කාලයක් ගත වුණා."
       },
       {
         "word": "promena",
         "reading": "ප්‍රොමේනා",
-        "meaning": "වෙනස"
+        "meaning": "වෙනස",
+        "example": "Kada sam se preselio, trebalo mi je vremena da se naviknem na novi grad.",
+        "translation": "මම පදිංචිය මාරු කළ විට අලුත් නගරයට හුරු වෙන්න කාලයක් ගත වුණා."
       },
       {
         "word": "preseliti se",
         "reading": "ප්‍රෙසෙලිතи සෙ",
-        "meaning": "පදිංචිය මාරු කරනවා"
+        "meaning": "පදිංචිය මාරු කරනවා",
+        "example": "Kada sam se preselio, trebalo mi je vremena da se naviknem na novi grad.",
+        "translation": "මම පදිංචිය මාරු කළ විට අලුත් නගරයට හුරු වෙන්න කාලයක් ගත වුණා."
       },
       {
         "word": "prilagoditi se",
         "reading": "ප්‍රිලාගොදිති සෙ",
-        "meaning": "හැඩගැසෙනවා"
+        "meaning": "හැඩගැසෙනවා",
+        "example": "Kada sam se preselio, trebalo mi je vremena da se naviknem na novi grad.",
+        "translation": "මම පදිංචිය මාරු කළ විට අලුත් නගරයට හුරු වෙන්න කාලයක් ගත වුණා."
       },
       {
         "word": "poznat",
         "reading": "පොස්නාත්",
-        "meaning": "හුරුපුරුදු"
+        "meaning": "හුරුපුරුදු",
+        "example": "Kada sam se preselio, trebalo mi je vremena da se naviknem na novi grad.",
+        "translation": "මම පදිංචිය මාරු කළ විට අලුත් නගරයට හුරු වෙන්න කාලයක් ගත වුණා."
       },
       {
         "word": "izazov",
         "reading": "ඉසාසොව්",
-        "meaning": "අභියෝගය"
+        "meaning": "අභියෝගය",
+        "example": "Kada sam se preselio, trebalo mi je vremena da se naviknem na novi grad.",
+        "translation": "මම පදිංචිය මාරු කළ විට අලුත් නගරයට හුරු වෙන්න කාලයක් ගත වුණා."
       },
       {
         "word": "prilika",
         "reading": "ප්‍රිලිකා",
-        "meaning": "අවස්ථාව"
+        "meaning": "අවස්ථාව",
+        "example": "Kada sam se preselio, trebalo mi je vremena da se naviknem na novi grad.",
+        "translation": "මම පදිංචිය මාරු කළ විට අලුත් නගරයට හුරු වෙන්න කාලයක් ගත වුණා."
       },
       {
         "word": "samopouzdanje",
         "reading": "සාමොපොඋස්දාන්යේ",
-        "meaning": "ආත්මවිශ්වාසය"
+        "meaning": "ආත්මවිශ්වාසය",
+        "example": "Kada sam se preselio, trebalo mi je vremena da se naviknem na novi grad.",
+        "translation": "මම පදිංචිය මාරු කළ විට අලුත් නගරයට හුරු වෙන්න කාලයක් ගත වුණා."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
