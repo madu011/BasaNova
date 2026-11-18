@@ -1,4 +1,4 @@
-// C1 lessons 41–50. Paired advanced topics; Sinhala readings are learner approximations.
+// C1 lessons 41–50. Sinhala-script pronunciation guides are learner approximations.
 export const ENGLISH_C1_LESSONS_41_50 = [
   {
     "id": "en-c1-l41",
@@ -1464,6 +1464,169 @@ export const ENGLISH_C1_LESSONS_41_50 = [
         ],
         "answer": 0,
         "explanation": "Limitations should be stated clearly."
+      }
+    ]
+  },
+  {
+    "id": "en-c1-l50",
+    "unit": "C1 · Professional integrity and ethical judgement",
+    "title": "C1 · 50 · Professional integrity and ethical judgement",
+    "objective": "සංකීර්ණ වෘත්තීය තත්ත්වයකදී සදාචාරාත්මක මූලධර්ම, වගවීම සහ ප්‍රතිවිපාක සලකා තීරණයක් සාධාරණීකරණය කරන්න.",
+    "vocabulary": [
+      {
+        "word": "integrity",
+        "reading": "ඉන්ට්එග්ර්ඉට්යි",
+        "meaning": "අඛණ්ඩතාව",
+        "example": "Ethical principles should guide professional decisions.",
+        "translation": "වෘත්තීය තීරණවලට සදාචාරාත්මක මූලධර්ම මඟපෙන්විය යුතුය."
+      },
+      {
+        "word": "principle",
+        "reading": "ප්ර්ඉන්ක්ඉප්ල්එ",
+        "meaning": "මූලධර්මය",
+        "example": "Integrity requires consistency between words and actions.",
+        "translation": "අඛණ්ඩතාව සඳහා වචන සහ ක්‍රියා අතර අනුකූලතාව අවශ්‍යය."
+      },
+      {
+        "word": "dilemma",
+        "reading": "ඩ්ඉල්එම්ම්ඇ",
+        "meaning": "සදාචාරාත්මක උභතෝකෝටිකය",
+        "example": "A difficult choice calls for considering the consequences for everyone involved.",
+        "translation": "අසීරු තේරීමක් සියලු දෙනාට ඇති ප්‍රතිවිපාක සලකා බැලීම අවශ්‍ය කරයි."
+      },
+      {
+        "word": "fairness",
+        "reading": "ෆ්ඇඉර්න්එස්ස්",
+        "meaning": "සාධාරණත්වය",
+        "example": "Accountability means being prepared to explain a decision.",
+        "translation": "වගවීම යනු තීරණයක් පැහැදිලි කිරීමට සූදානම් වීමයි."
+      },
+      {
+        "word": "consequence",
+        "reading": "ක්ඔන්ස්එක්අඑන්ක්එ",
+        "meaning": "ප්‍රතිවිපාකය",
+        "example": "Ethical principles should guide professional decisions.",
+        "translation": "වෘත්තීය තීරණවලට සදාචාරාත්මක මූලධර්ම මඟපෙන්විය යුතුය."
+      },
+      {
+        "word": "accountability",
+        "reading": "ඇක්ක්ඔඅන්ට්ඇබ්ඉල්ඉට්යි",
+        "meaning": "වගවීම",
+        "example": "Integrity requires consistency between words and actions.",
+        "translation": "අඛණ්ඩතාව සඳහා වචන සහ ක්‍රියා අතර අනුකූලතාව අවශ්‍යය."
+      },
+      {
+        "word": "consistency",
+        "reading": "ක්ඔන්ස්ඉස්ට්එන්ක්යි",
+        "meaning": "අනුකූලතාව",
+        "example": "A difficult choice calls for considering the consequences for everyone involved.",
+        "translation": "අසීරු තේරීමක් සියලු දෙනාට ඇති ප්‍රතිවිපාක සලකා බැලීම අවශ්‍ය කරයි."
+      },
+      {
+        "word": "justification",
+        "reading": "ජ්අස්ට්ඉෆ්ඉක්ඇෂන්",
+        "meaning": "සාධාරණීකරණය",
+        "example": "Accountability means being prepared to explain a decision.",
+        "translation": "වගවීම යනු තීරණයක් පැහැදිලි කිරීමට සූදානම් වීමයි."
+      }
+    ],
+    "grammarTitle": "Grammar and style",
+    "grammar": "When justifying an ethical decision, use conditional structures, cause-and-effect links and precise expressions of certainty. Distinguish personal preference from professional responsibility.",
+    "examples": [
+      {
+        "text": "Ethical principles should guide professional decisions.",
+        "reading": "එත්ඉක්ඇල් ප්ර්ඉන්ක්ඉප්ල්එස් ෂ්ඔඅල්ඩ් ග්අඉඩ්එ ප්ර්ඔෆ්එස්ස්ඉඔන්ඇල් ඩ්එක්ඉස්ඉඔන්ස්.",
+        "meaning": "වෘත්තීය තීරණවලට සදාචාරාත්මක මූලධර්ම මඟපෙන්විය යුතුය."
+      },
+      {
+        "text": "Integrity requires consistency between words and actions.",
+        "reading": "ඉන්ට්එග්ර්ඉට්යි ර්එක්අඉර්එස් ක්ඔන්ස්ඉස්ට්එන්ක්යි බ්එට්ව්එඑන් ව්ඔර්ඩ්ස් ඇන්ඩ් ඇක්ට්ඉඔන්ස්.",
+        "meaning": "අඛණ්ඩතාව සඳහා වචන සහ ක්‍රියා අතර අනුකූලතාව අවශ්‍යය."
+      },
+      {
+        "text": "A difficult choice calls for considering the consequences for everyone involved.",
+        "reading": "ඇ ඩ්ඉෆ්ෆ්ඉක්අල්ට් ච්ඔඉක්එ ක්ඇල්ල්ස් ෆ්ඔර් ක්ඔන්ස්ඉඩ්එර්ඉන්ග් ත්එ ක්ඔන්ස්එක්අඑන්ක්එස් ෆ්ඔර් එව්එර්යිඔන්එ ඉන්ව්ඔල්ව්එඩ්.",
+        "meaning": "අසීරු තේරීමක් සියලු දෙනාට ඇති ප්‍රතිවිපාක සලකා බැලීම අවශ්‍ය කරයි."
+      },
+      {
+        "text": "Accountability means being prepared to explain a decision.",
+        "reading": "ඇක්ක්ඔඅන්ට්ඇබ්ඉල්ඉට්යි ම්එඇන්ස් බ්එඉන්ග් ප්ර්එප්ඇර්එඩ් ට්ඔ එක්ස්ප්ල්ඇඉන් ඇ ඩ්එක්ඉස්ඉඔන්.",
+        "meaning": "වගවීම යනු තීරණයක් පැහැදිලි කිරීමට සූදානම් වීමයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "Which principle should guide our response?",
+        "reading": "ව්හ්ඉච් ප්ර්ඉන්ක්ඉප්ල්එ ෂ්ඔඅල්ඩ් ග්අඉඩ්එ ඔඅර් ර්එස්ප්ඔන්ස්එ?",
+        "meaning": "අපගේ ප්‍රතිචාරයට මඟපෙන්විය යුතු මූලධර්මය කුමක්ද?"
+      },
+      {
+        "text": "We should act fairly and transparently.",
+        "reading": "ව්එ ෂ්ඔඅල්ඩ් ඇක්ට් ෆ්ඇඉර්ල්යි ඇන්ඩ් ට්ර්ඇන්ස්ප්ඇර්එන්ට්ල්යි.",
+        "meaning": "අප සාධාරණව සහ විනිවිදභාවයෙන් ක්‍රියා කළ යුතුය."
+      },
+      {
+        "text": "What if the interests conflict?",
+        "reading": "ව්හ්ඇට් ඉෆ් ත්එ ඉන්ට්එර්එස්ට්ස් ක්ඔන්ෆ්ල්ඉක්ට්?",
+        "meaning": "අවශ්‍යතා ගැටුණහොත් කුමක්ද?"
+      },
+      {
+        "text": "Then we must explain the decision and its consequences.",
+        "reading": "ත්එන් ව්එ ම්අස්ට් එක්ස්ප්ල්ඇඉන් ත්එ ඩ්එක්ඉස්ඉඔන් ඇන්ඩ් ඉට්ස් ක්ඔන්ස්එක්අඑන්ක්එස්.",
+        "meaning": "එවිට තීරණය සහ එහි ප්‍රතිවිපාක පැහැදිලි කළ යුතුය."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the most accurate interpretation.",
+      "audio": "Ethical principles should guide professional decisions. Integrity requires consistency between words and actions. A difficult choice calls for considering the consequences for everyone involved. Accountability means being prepared to explain a decision.",
+      "reading": "එත්ඉක්ඇල් ප්ර්ඉන්ක්ඉප්ල්එස් ෂ්ඔඅල්ඩ් ග්අඉඩ්එ ප්ර්ඔෆ්එස්ස්ඉඔන්ඇල් ඩ්එක්ඉස්ඉඔන්ස්. ඉන්ට්එග්ර්ඉට්යි ර්එක්අඉර්එස් ක්ඔන්ස්ඉස්ට්එන්ක්යි බ්එට්ව්එඑන් ව්ඔර්ඩ්ස් ඇන්ඩ් ඇක්ට්ඉඔන්ස්. ඇ ඩ්ඉෆ්ෆ්ඉක්අල්ට් ච්ඔඉක්එ ක්ඇල්ල්ස් ෆ්ඔර් ක්ඔන්ස්ඉඩ්එර්ඉන්ග් ත්එ ක්ඔන්ස්එක්අඑන්ක්එස් ෆ්ඔර් එව්එර්යිඔන්එ ඉන්ව්ඔල්ව්එඩ්. ඇක්ක්ඔඅන්ට්ඇබ්ඉල්ඉට්යි ම්එඇන්ස් බ්එඉන්ග් ප්ර්එප්ඇර්එඩ් ට්ඔ එක්ස්ප්ල්ඇඉන් ඇ ඩ්එක්ඉස්ඉඔන්.",
+      "options": [
+        "වෘත්තීය තීරණවලට සදාචාරාත්මක මූලධර්ම මඟපෙන්විය යුතුය. වගවීම යනු තීරණයක් පැහැදිලි කිරීමට සූදානම් වීමයි.",
+        "Every decision is simple.",
+        "No explanation is needed."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "Which term describes consistency between words and actions?",
+        "options": [
+          "integrity",
+          "dilemma",
+          "consequence"
+        ],
+        "answer": 0,
+        "explanation": "Integrity requires consistency."
+      },
+      {
+        "prompt": "Which word describes a difficult choice?",
+        "options": [
+          "principle",
+          "dilemma",
+          "consistency"
+        ],
+        "answer": 1,
+        "explanation": "A dilemma involves a difficult choice."
+      },
+      {
+        "prompt": "What should an ethical decision consider?",
+        "options": [
+          "Consequences for everyone involved",
+          "Only personal benefit",
+          "Unverified assumptions"
+        ],
+        "answer": 0,
+        "explanation": "Consider the consequences for all parties."
+      },
+      {
+        "prompt": "How should a decision be justified?",
+        "options": [
+          "Clearly and responsibly",
+          "Without evidence",
+          "By avoiding questions"
+        ],
+        "answer": 0,
+        "explanation": "Accountability requires a clear justification."
       }
     ]
   }
