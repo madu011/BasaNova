@@ -1,4 +1,4 @@
-// Structured English B2 lessons 1–25. Sinhala readings are approximate learner guides.
+// Structured English B2 lessons 1–40. Sinhala readings are approximate learner guides.
 export const ENGLISH_B2_LESSONS = [
   {
     "id": "en-b2-l1",
@@ -4547,6 +4547,2676 @@ export const ENGLISH_B2_LESSONS = [
         ],
         "answer": 0,
         "explanation": "association = සම්බන්ධතාව"
+      }
+    ]
+  },
+  {
+    "id": "en-b2-l26",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · Lesson 26 · ගිවිසුම් සාකච්ඡා කිරීම",
+    "objective": "ගිවිසුම් කොන්දේසි සාකච්ඡා කර සාධාරණ එකඟතාවකට පැමිණෙන්න.",
+    "vocabulary": [
+      {
+        "word": "contract",
+        "reading": "කොන්ට්‍රැක්ට්",
+        "meaning": "ගිවිසුම",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "ගිවිසුම් සාකච්ඡා කිරීම පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "clause",
+        "reading": "ක්ලෝස්",
+        "meaning": "වගන්තිය",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "ගිවිසුම් සාකච්ඡා කිරීම පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "deadline",
+        "reading": "ඩෙඩ්ලයින්",
+        "meaning": "අවසාන දිනය",
+        "example": "The decision should be clear, consistent and well explained.",
+        "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "translation": "ගිවිසුම් සාකච්ඡා කිරීම පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "negotiate",
+        "reading": "නිගෝෂියේට්",
+        "meaning": "සාකච්ඡා කිරීම",
+        "example": "If the circumstances change, we will adjust our plan.",
+        "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "translation": "ගිවිසුම් සාකච්ඡා කිරීම පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "proposal",
+        "reading": "ප්‍රපෝසල්",
+        "meaning": "යෝජනාව",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "ගිවිසුම් සාකච්ඡා කිරීම පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "compromise",
+        "reading": "කොම්ප්‍රමයිස්",
+        "meaning": "සම්මුතිය",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "ගිවිසුම් සාකච්ඡා කිරීම පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "liable",
+        "reading": "ලයබල්",
+        "meaning": "වගකිව යුතු",
+        "example": "The decision should be clear, consistent and well explained.",
+        "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "translation": "ගිවිසුම් සාකච්ඡා කිරීම පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "renewal",
+        "reading": "රිනිවල්",
+        "meaning": "අලුත් කිරීම",
+        "example": "If the circumstances change, we will adjust our plan.",
+        "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "translation": "ගිවිසුම් සාකච්ඡා කිරීම පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "grammarTitle": "Conditional and diplomatic requests",
+    "grammar": "Conditional and diplomatic requests: If you accept this condition, we can sign the contract. මෙම රටාව නිවැරදි සන්දර්භයක භාවිතා කරමින් අදහස් වඩාත් නිවැරදිව හා ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "text": "If you accept this condition, we can sign the contract.",
+        "reading": "ඉෆ් යූ ඇක්සෙප්ට් දිස් කන්ඩිෂන්, වී කෑන් සයින් දි කන්ට්‍රැක්ට්.",
+        "meaning": "ගිවිසුම් සාකච්ඡා කිරීම"
+      }
+    ],
+    "examples": [
+      {
+        "text": "It is important to consider all the relevant facts.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "meaning": "ගිවිසුම් සාකච්ඡා කිරීම පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I suggest that we compare several possible solutions.",
+        "reading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "meaning": "ගිවිසුම් සාකච්ඡා කිරීම පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "The decision should be clear, consistent and well explained.",
+        "reading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "meaning": "ගිවිසුම් සාකච්ඡා කිරීම පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "If the circumstances change, we will adjust our plan.",
+        "reading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "meaning": "ගිවිසුම් සාකච්ඡා කිරීම පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "How would you assess the current situation?",
+        "reading": "හවු වුඩ් යූ අසෙස් දි කරන්ට් සිචුවේෂන්?",
+        "meaning": "ගිවිසුම් සාකච්ඡා කිරීම පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I would first check the available information.",
+        "reading": "අයි වුඩ් ෆර්ස්ට් චෙක් දි අවේලබල් ඉන්ෆොමේෂන්.",
+        "meaning": "ගිවිසුම් සාකච්ඡා කිරීම පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I agree, but we should also consider the costs.",
+        "reading": "අයි අග්‍රී, බට් වී ෂුඩ් ඕල්සෝ කන්සිඩර් දි කොස්ට්ස්.",
+        "meaning": "ගිවිසුම් සාකච්ඡා කිරීම පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "Then we can suggest a balanced solution.",
+        "reading": "දෙන් වී කෑන් සජෙස්ට් අ බැලන්ස්ඩ් සොලූෂන්.",
+        "meaning": "ගිවිසුම් සාකච්ඡා කිරීම පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "හඬ අසා නිවැරදි සිංහල අර්ථය තෝරන්න.",
+      "audio": "If you accept this condition, we can sign the contract.",
+      "reading": "ඉෆ් යූ ඇක්සෙප්ට් දිස් කන්ඩිෂන්, වී කෑන් සයින් දි කන්ට්‍රැක්ට්.",
+      "options": [
+        "මෙම කොන්දේසිය පිළිගත්තොත් අපට ගිවිසුම අත්සන් කළ හැකියි.",
+        "අපි හෙට ගමනක් යනවා.",
+        "කාලගුණය අද ඉතා හොඳයි."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "ගිවිසුම් සාකච්ඡා කිරීම: Choose the correct sentence.",
+        "options": [
+          "If you accept this condition, we can sign the contract.",
+          "අපි හෙට ගමනක් යනවා.",
+          "කාලගුණය අද ඉතා හොඳයි."
+        ],
+        "answer": 0,
+        "explanation": "මෙය ගිවිසුම් සාකච්ඡා කිරීම සන්දර්භයට ගැළපෙන නිවැරදි වාක්‍යයයි."
+      },
+      {
+        "prompt": "Which expression introduces a careful suggestion?",
+        "options": [
+          "I suggest that we compare the options.",
+          "The weather is sunny.",
+          "I forgot my keys."
+        ],
+        "answer": 0,
+        "explanation": "“I suggest that…” යෝජනාවක් ආචාරශීලීව ඉදිරිපත් කරයි."
+      },
+      {
+        "prompt": "සංවාදයකදී හොඳම ප්‍රතිචාරය කුමක්ද?",
+        "options": [
+          "කරුණු පරීක්ෂා කර විකල්ප සසඳමු.",
+          "මට කිසිවක් අසන්න අවශ්‍ය නැහැ.",
+          "අපි සාකච්ඡාව නවත්වමු."
+        ],
+        "answer": 0,
+        "explanation": "කරුණු සහ විකල්ප සලකා බැලීම B2 මට්ටමේ සාකච්ඡා කුසලතාවකි."
+      },
+      {
+        "prompt": "Choose the best way to express a conditional outcome.",
+        "options": [
+          "If the circumstances change, we will adjust our plan.",
+          "Yesterday is a colour.",
+          "Because quickly table."
+        ],
+        "answer": 0,
+        "explanation": "If-clause එකෙන් කොන්දේසිය සහ එහි ප්‍රතිඵලය සම්බන්ධ කරයි."
+      }
+    ]
+  },
+  {
+    "id": "en-b2-l27",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · Lesson 27 · අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම",
+    "objective": "ඉගෙනුම් ක්‍රම, සුදුසුකම් සහ වෘත්තීය සංවර්ධනය සංසන්දනය කරන්න.",
+    "vocabulary": [
+      {
+        "word": "qualification",
+        "reading": "කොන්ට්‍රැක්ට්",
+        "meaning": "සුදුසුකම",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "scholarship",
+        "reading": "ක්ලෝස්",
+        "meaning": "ශිෂ්‍යත්වය",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "curriculum",
+        "reading": "ඩෙඩ්ලයින්",
+        "meaning": "විෂය නිර්දේශය",
+        "example": "The decision should be clear, consistent and well explained.",
+        "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "translation": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "assessment",
+        "reading": "නිගෝෂියේට්",
+        "meaning": "ඇගයීම",
+        "example": "If the circumstances change, we will adjust our plan.",
+        "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "translation": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "enrolment",
+        "reading": "ප්‍රපෝසල්",
+        "meaning": "ලියාපදිංචිය",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "research",
+        "reading": "කොම්ප්‍රමයිස්",
+        "meaning": "පර්යේෂණය",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "apprenticeship",
+        "reading": "ලයබල්",
+        "meaning": "පුහුණුව",
+        "example": "The decision should be clear, consistent and well explained.",
+        "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "translation": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "expertise",
+        "reading": "රිනිවල්",
+        "meaning": "විශේෂ දැනුම",
+        "example": "If the circumstances change, we will adjust our plan.",
+        "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "translation": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "grammarTitle": "Relative clauses",
+    "grammar": "Relative clauses: The course that I completed helped me change careers. මෙම රටාව නිවැරදි සන්දර්භයක භාවිතා කරමින් අදහස් වඩාත් නිවැරදිව හා ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "text": "The course that I completed helped me change careers.",
+        "reading": "ඉෆ් යූ ඇක්සෙප්ට් දිස් කන්ඩිෂන්, වී කෑන් සයින් දි කන්ට්‍රැක්ට්.",
+        "meaning": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම"
+      }
+    ],
+    "examples": [
+      {
+        "text": "It is important to consider all the relevant facts.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "meaning": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I suggest that we compare several possible solutions.",
+        "reading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "meaning": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "The decision should be clear, consistent and well explained.",
+        "reading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "meaning": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "If the circumstances change, we will adjust our plan.",
+        "reading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "meaning": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "How would you assess the current situation?",
+        "reading": "හවු වුඩ් යූ අසෙස් දි කරන්ට් සිචුවේෂන්?",
+        "meaning": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I would first check the available information.",
+        "reading": "අයි වුඩ් ෆර්ස්ට් චෙක් දි අවේලබල් ඉන්ෆොමේෂන්.",
+        "meaning": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I agree, but we should also consider the costs.",
+        "reading": "අයි අග්‍රී, බට් වී ෂුඩ් ඕල්සෝ කන්සිඩර් දි කොස්ට්ස්.",
+        "meaning": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "Then we can suggest a balanced solution.",
+        "reading": "දෙන් වී කෑන් සජෙස්ට් අ බැලන්ස්ඩ් සොලූෂන්.",
+        "meaning": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "හඬ අසා නිවැරදි සිංහල අර්ථය තෝරන්න.",
+      "audio": "The course that I completed helped me change careers.",
+      "reading": "ඉෆ් යූ ඇක්සෙප්ට් දිස් කන්ඩිෂන්, වී කෑන් සයින් දි කන්ට්‍රැක්ට්.",
+      "options": [
+        "මෙම කොන්දේසිය පිළිගත්තොත් අපට ගිවිසුම අත්සන් කළ හැකියි.",
+        "අපි හෙට ගමනක් යනවා.",
+        "කාලගුණය අද ඉතා හොඳයි."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම: Choose the correct sentence.",
+        "options": [
+          "The course that I completed helped me change careers.",
+          "අපි හෙට ගමනක් යනවා.",
+          "කාලගුණය අද ඉතා හොඳයි."
+        ],
+        "answer": 0,
+        "explanation": "මෙය අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම සන්දර්භයට ගැළපෙන නිවැරදි වාක්‍යයයි."
+      },
+      {
+        "prompt": "Which expression introduces a careful suggestion?",
+        "options": [
+          "I suggest that we compare the options.",
+          "The weather is sunny.",
+          "I forgot my keys."
+        ],
+        "answer": 0,
+        "explanation": "“I suggest that…” යෝජනාවක් ආචාරශීලීව ඉදිරිපත් කරයි."
+      },
+      {
+        "prompt": "සංවාදයකදී හොඳම ප්‍රතිචාරය කුමක්ද?",
+        "options": [
+          "කරුණු පරීක්ෂා කර විකල්ප සසඳමු.",
+          "මට කිසිවක් අසන්න අවශ්‍ය නැහැ.",
+          "අපි සාකච්ඡාව නවත්වමු."
+        ],
+        "answer": 0,
+        "explanation": "කරුණු සහ විකල්ප සලකා බැලීම B2 මට්ටමේ සාකච්ඡා කුසලතාවකි."
+      },
+      {
+        "prompt": "Choose the best way to express a conditional outcome.",
+        "options": [
+          "If the circumstances change, we will adjust our plan.",
+          "Yesterday is a colour.",
+          "Because quickly table."
+        ],
+        "answer": 0,
+        "explanation": "If-clause එකෙන් කොන්දේසිය සහ එහි ප්‍රතිඵලය සම්බන්ධ කරයි."
+      }
+    ]
+  },
+  {
+    "id": "en-b2-l28",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · Lesson 28 · නගර සැලසුම් සහ නිවාස",
+    "objective": "නිවාස, ප්‍රවාහනය සහ පොදු අවකාශ පිළිබඳ යෝජනා ඉදිරිපත් කරන්න.",
+    "vocabulary": [
+      {
+        "word": "zoning",
+        "reading": "කොන්ට්‍රැක්ට්",
+        "meaning": "කලාප වෙන් කිරීම",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "නගර සැලසුම් සහ නිවාස පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "residential",
+        "reading": "ක්ලෝස්",
+        "meaning": "නේවාසික",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "නගර සැලසුම් සහ නිවාස පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "infrastructure",
+        "reading": "ඩෙඩ්ලයින්",
+        "meaning": "යටිතල පහසුකම්",
+        "example": "The decision should be clear, consistent and well explained.",
+        "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "translation": "නගර සැලසුම් සහ නිවාස පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "commute",
+        "reading": "නිගෝෂියේට්",
+        "meaning": "රැකියාවට ගමන් කිරීම",
+        "example": "If the circumstances change, we will adjust our plan.",
+        "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "translation": "නගර සැලසුම් සහ නිවාස පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "density",
+        "reading": "ප්‍රපෝසල්",
+        "meaning": "ඝනත්වය",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "නගර සැලසුම් සහ නිවාස පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "affordable",
+        "reading": "කොම්ප්‍රමයිස්",
+        "meaning": "දරාගත හැකි මිල",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "නගර සැලසුම් සහ නිවාස පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "renovation",
+        "reading": "ලයබල්",
+        "meaning": "ප්‍රතිසංස්කරණය",
+        "example": "The decision should be clear, consistent and well explained.",
+        "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "translation": "නගර සැලසුම් සහ නිවාස පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "public space",
+        "reading": "රිනිවල්",
+        "meaning": "පොදු අවකාශය",
+        "example": "If the circumstances change, we will adjust our plan.",
+        "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "translation": "නගර සැලසුම් සහ නිවාස පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "grammarTitle": "Passive voice for planning and policy",
+    "grammar": "Passive voice for planning and policy: The new residential area will be connected to the city centre. මෙම රටාව නිවැරදි සන්දර්භයක භාවිතා කරමින් අදහස් වඩාත් නිවැරදිව හා ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "text": "The new residential area will be connected to the city centre.",
+        "reading": "ඉෆ් යූ ඇක්සෙප්ට් දිස් කන්ඩිෂන්, වී කෑන් සයින් දි කන්ට්‍රැක්ට්.",
+        "meaning": "නගර සැලසුම් සහ නිවාස"
+      }
+    ],
+    "examples": [
+      {
+        "text": "It is important to consider all the relevant facts.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "meaning": "නගර සැලසුම් සහ නිවාස පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I suggest that we compare several possible solutions.",
+        "reading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "meaning": "නගර සැලසුම් සහ නිවාස පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "The decision should be clear, consistent and well explained.",
+        "reading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "meaning": "නගර සැලසුම් සහ නිවාස පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "If the circumstances change, we will adjust our plan.",
+        "reading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "meaning": "නගර සැලසුම් සහ නිවාස පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "How would you assess the current situation?",
+        "reading": "හවු වුඩ් යූ අසෙස් දි කරන්ට් සිචුවේෂන්?",
+        "meaning": "නගර සැලසුම් සහ නිවාස පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I would first check the available information.",
+        "reading": "අයි වුඩ් ෆර්ස්ට් චෙක් දි අවේලබල් ඉන්ෆොමේෂන්.",
+        "meaning": "නගර සැලසුම් සහ නිවාස පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I agree, but we should also consider the costs.",
+        "reading": "අයි අග්‍රී, බට් වී ෂුඩ් ඕල්සෝ කන්සිඩර් දි කොස්ට්ස්.",
+        "meaning": "නගර සැලසුම් සහ නිවාස පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "Then we can suggest a balanced solution.",
+        "reading": "දෙන් වී කෑන් සජෙස්ට් අ බැලන්ස්ඩ් සොලූෂන්.",
+        "meaning": "නගර සැලසුම් සහ නිවාස පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "හඬ අසා නිවැරදි සිංහල අර්ථය තෝරන්න.",
+      "audio": "The new residential area will be connected to the city centre.",
+      "reading": "ඉෆ් යූ ඇක්සෙප්ට් දිස් කන්ඩිෂන්, වී කෑන් සයින් දි කන්ට්‍රැක්ට්.",
+      "options": [
+        "මෙම කොන්දේසිය පිළිගත්තොත් අපට ගිවිසුම අත්සන් කළ හැකියි.",
+        "අපි හෙට ගමනක් යනවා.",
+        "කාලගුණය අද ඉතා හොඳයි."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "නගර සැලසුම් සහ නිවාස: Choose the correct sentence.",
+        "options": [
+          "The new residential area will be connected to the city centre.",
+          "අපි හෙට ගමනක් යනවා.",
+          "කාලගුණය අද ඉතා හොඳයි."
+        ],
+        "answer": 0,
+        "explanation": "මෙය නගර සැලසුම් සහ නිවාස සන්දර්භයට ගැළපෙන නිවැරදි වාක්‍යයයි."
+      },
+      {
+        "prompt": "Which expression introduces a careful suggestion?",
+        "options": [
+          "I suggest that we compare the options.",
+          "The weather is sunny.",
+          "I forgot my keys."
+        ],
+        "answer": 0,
+        "explanation": "“I suggest that…” යෝජනාවක් ආචාරශීලීව ඉදිරිපත් කරයි."
+      },
+      {
+        "prompt": "සංවාදයකදී හොඳම ප්‍රතිචාරය කුමක්ද?",
+        "options": [
+          "කරුණු පරීක්ෂා කර විකල්ප සසඳමු.",
+          "මට කිසිවක් අසන්න අවශ්‍ය නැහැ.",
+          "අපි සාකච්ඡාව නවත්වමු."
+        ],
+        "answer": 0,
+        "explanation": "කරුණු සහ විකල්ප සලකා බැලීම B2 මට්ටමේ සාකච්ඡා කුසලතාවකි."
+      },
+      {
+        "prompt": "Choose the best way to express a conditional outcome.",
+        "options": [
+          "If the circumstances change, we will adjust our plan.",
+          "Yesterday is a colour.",
+          "Because quickly table."
+        ],
+        "answer": 0,
+        "explanation": "If-clause එකෙන් කොන්දේසිය සහ එහි ප්‍රතිඵලය සම්බන්ධ කරයි."
+      }
+    ]
+  },
+  {
+    "id": "en-b2-l29",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · Lesson 29 · සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම",
+    "objective": "ගැටුමක දෙපාර්ශ්වය අසා විසඳුමක් යෝජනා කරන්න.",
+    "vocabulary": [
+      {
+        "word": "mediation",
+        "reading": "කොන්ට්‍රැක්ට්",
+        "meaning": "මැදිහත්වීම",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "misunderstanding",
+        "reading": "ක්ලෝස්",
+        "meaning": "වැරදි අවබෝධය",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "grievance",
+        "reading": "ඩෙඩ්ලයින්",
+        "meaning": "පැමිණිල්ල",
+        "example": "The decision should be clear, consistent and well explained.",
+        "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "translation": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "impartial",
+        "reading": "නිගෝෂියේට්",
+        "meaning": "පක්ෂපාතී නොවන",
+        "example": "If the circumstances change, we will adjust our plan.",
+        "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "translation": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "resolve",
+        "reading": "ප්‍රපෝසල්",
+        "meaning": "විසඳීම",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "tension",
+        "reading": "කොම්ප්‍රමයිස්",
+        "meaning": "ආතතිය",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "feedback",
+        "reading": "ලයබල්",
+        "meaning": "ප්‍රතිචාරය",
+        "example": "The decision should be clear, consistent and well explained.",
+        "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "translation": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "agreement",
+        "reading": "රිනිවල්",
+        "meaning": "එකඟතාව",
+        "example": "If the circumstances change, we will adjust our plan.",
+        "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "translation": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "grammarTitle": "Reported speech",
+    "grammar": "Reported speech: She said that the deadline had been unclear and that she needed support. මෙම රටාව නිවැරදි සන්දර්භයක භාවිතා කරමින් අදහස් වඩාත් නිවැරදිව හා ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "text": "She said that the deadline had been unclear and that she needed support.",
+        "reading": "ඉෆ් යූ ඇක්සෙප්ට් දිස් කන්ඩිෂන්, වී කෑන් සයින් දි කන්ට්‍රැක්ට්.",
+        "meaning": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම"
+      }
+    ],
+    "examples": [
+      {
+        "text": "It is important to consider all the relevant facts.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "meaning": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I suggest that we compare several possible solutions.",
+        "reading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "meaning": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "The decision should be clear, consistent and well explained.",
+        "reading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "meaning": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "If the circumstances change, we will adjust our plan.",
+        "reading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "meaning": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "How would you assess the current situation?",
+        "reading": "හවු වුඩ් යූ අසෙස් දි කරන්ට් සිචුවේෂන්?",
+        "meaning": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I would first check the available information.",
+        "reading": "අයි වුඩ් ෆර්ස්ට් චෙක් දි අවේලබල් ඉන්ෆොමේෂන්.",
+        "meaning": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I agree, but we should also consider the costs.",
+        "reading": "අයි අග්‍රී, බට් වී ෂුඩ් ඕල්සෝ කන්සිඩර් දි කොස්ට්ස්.",
+        "meaning": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "Then we can suggest a balanced solution.",
+        "reading": "දෙන් වී කෑන් සජෙස්ට් අ බැලන්ස්ඩ් සොලූෂන්.",
+        "meaning": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "හඬ අසා නිවැරදි සිංහල අර්ථය තෝරන්න.",
+      "audio": "She said that the deadline had been unclear and that she needed support.",
+      "reading": "ඉෆ් යූ ඇක්සෙප්ට් දිස් කන්ඩිෂන්, වී කෑන් සයින් දි කන්ට්‍රැක්ට්.",
+      "options": [
+        "මෙම කොන්දේසිය පිළිගත්තොත් අපට ගිවිසුම අත්සන් කළ හැකියි.",
+        "අපි හෙට ගමනක් යනවා.",
+        "කාලගුණය අද ඉතා හොඳයි."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම: Choose the correct sentence.",
+        "options": [
+          "She said that the deadline had been unclear and that she needed support.",
+          "අපි හෙට ගමනක් යනවා.",
+          "කාලගුණය අද ඉතා හොඳයි."
+        ],
+        "answer": 0,
+        "explanation": "මෙය සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම සන්දර්භයට ගැළපෙන නිවැරදි වාක්‍යයයි."
+      },
+      {
+        "prompt": "Which expression introduces a careful suggestion?",
+        "options": [
+          "I suggest that we compare the options.",
+          "The weather is sunny.",
+          "I forgot my keys."
+        ],
+        "answer": 0,
+        "explanation": "“I suggest that…” යෝජනාවක් ආචාරශීලීව ඉදිරිපත් කරයි."
+      },
+      {
+        "prompt": "සංවාදයකදී හොඳම ප්‍රතිචාරය කුමක්ද?",
+        "options": [
+          "කරුණු පරීක්ෂා කර විකල්ප සසඳමු.",
+          "මට කිසිවක් අසන්න අවශ්‍ය නැහැ.",
+          "අපි සාකච්ඡාව නවත්වමු."
+        ],
+        "answer": 0,
+        "explanation": "කරුණු සහ විකල්ප සලකා බැලීම B2 මට්ටමේ සාකච්ඡා කුසලතාවකි."
+      },
+      {
+        "prompt": "Choose the best way to express a conditional outcome.",
+        "options": [
+          "If the circumstances change, we will adjust our plan.",
+          "Yesterday is a colour.",
+          "Because quickly table."
+        ],
+        "answer": 0,
+        "explanation": "If-clause එකෙන් කොන්දේසිය සහ එහි ප්‍රතිඵලය සම්බන්ධ කරයි."
+      }
+    ]
+  },
+  {
+    "id": "en-b2-l30",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · Lesson 30 · පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි",
+    "objective": "භාණ්ඩයක ගැටලුවක් පැහැදිලි කර සාධාරණ විසඳුමක් ඉල්ලන්න.",
+    "vocabulary": [
+      {
+        "word": "warranty",
+        "reading": "කොන්ට්‍රැක්ට්",
+        "meaning": "වගකීම් සහතිකය",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "refund",
+        "reading": "ක්ලෝස්",
+        "meaning": "මුදල් ආපසු ගෙවීම",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "replacement",
+        "reading": "ඩෙඩ්ලයින්",
+        "meaning": "වෙනත් භාණ්ඩයක් ලබාදීම",
+        "example": "The decision should be clear, consistent and well explained.",
+        "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "translation": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "defect",
+        "reading": "නිගෝෂියේට්",
+        "meaning": "දෝෂය",
+        "example": "If the circumstances change, we will adjust our plan.",
+        "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "translation": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "receipt",
+        "reading": "ප්‍රපෝසල්",
+        "meaning": "රිසිට්පත",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "consumer",
+        "reading": "කොම්ප්‍රමයිස්",
+        "meaning": "පාරිභෝගිකයා",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "complaint",
+        "reading": "ලයබල්",
+        "meaning": "පැමිණිල්ල",
+        "example": "The decision should be clear, consistent and well explained.",
+        "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "translation": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "entitlement",
+        "reading": "රිනිවල්",
+        "meaning": "හිමිකම",
+        "example": "If the circumstances change, we will adjust our plan.",
+        "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "translation": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "grammarTitle": "Polite formal requests and subjunctive-style expressions",
+    "grammar": "Polite formal requests and subjunctive-style expressions: I would like to file a complaint about a faulty product. මෙම රටාව නිවැරදි සන්දර්භයක භාවිතා කරමින් අදහස් වඩාත් නිවැරදිව හා ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "text": "I would like to file a complaint about a faulty product.",
+        "reading": "ඉෆ් යූ ඇක්සෙප්ට් දිස් කන්ඩිෂන්, වී කෑන් සයින් දි කන්ට්‍රැක්ට්.",
+        "meaning": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි"
+      }
+    ],
+    "examples": [
+      {
+        "text": "It is important to consider all the relevant facts.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "meaning": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I suggest that we compare several possible solutions.",
+        "reading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "meaning": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "The decision should be clear, consistent and well explained.",
+        "reading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "meaning": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "If the circumstances change, we will adjust our plan.",
+        "reading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "meaning": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "How would you assess the current situation?",
+        "reading": "හවු වුඩ් යූ අසෙස් දි කරන්ට් සිචුවේෂන්?",
+        "meaning": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I would first check the available information.",
+        "reading": "අයි වුඩ් ෆර්ස්ට් චෙක් දි අවේලබල් ඉන්ෆොමේෂන්.",
+        "meaning": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I agree, but we should also consider the costs.",
+        "reading": "අයි අග්‍රී, බට් වී ෂුඩ් ඕල්සෝ කන්සිඩර් දි කොස්ට්ස්.",
+        "meaning": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "Then we can suggest a balanced solution.",
+        "reading": "දෙන් වී කෑන් සජෙස්ට් අ බැලන්ස්ඩ් සොලූෂන්.",
+        "meaning": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "හඬ අසා නිවැරදි සිංහල අර්ථය තෝරන්න.",
+      "audio": "I would like to file a complaint about a faulty product.",
+      "reading": "ඉෆ් යූ ඇක්සෙප්ට් දිස් කන්ඩිෂන්, වී කෑන් සයින් දි කන්ට්‍රැක්ට්.",
+      "options": [
+        "මෙම කොන්දේසිය පිළිගත්තොත් අපට ගිවිසුම අත්සන් කළ හැකියි.",
+        "අපි හෙට ගමනක් යනවා.",
+        "කාලගුණය අද ඉතා හොඳයි."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි: Choose the correct sentence.",
+        "options": [
+          "I would like to file a complaint about a faulty product.",
+          "අපි හෙට ගමනක් යනවා.",
+          "කාලගුණය අද ඉතා හොඳයි."
+        ],
+        "answer": 0,
+        "explanation": "මෙය පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි සන්දර්භයට ගැළපෙන නිවැරදි වාක්‍යයයි."
+      },
+      {
+        "prompt": "Which expression introduces a careful suggestion?",
+        "options": [
+          "I suggest that we compare the options.",
+          "The weather is sunny.",
+          "I forgot my keys."
+        ],
+        "answer": 0,
+        "explanation": "“I suggest that…” යෝජනාවක් ආචාරශීලීව ඉදිරිපත් කරයි."
+      },
+      {
+        "prompt": "සංවාදයකදී හොඳම ප්‍රතිචාරය කුමක්ද?",
+        "options": [
+          "කරුණු පරීක්ෂා කර විකල්ප සසඳමු.",
+          "මට කිසිවක් අසන්න අවශ්‍ය නැහැ.",
+          "අපි සාකච්ඡාව නවත්වමු."
+        ],
+        "answer": 0,
+        "explanation": "කරුණු සහ විකල්ප සලකා බැලීම B2 මට්ටමේ සාකච්ඡා කුසලතාවකි."
+      },
+      {
+        "prompt": "Choose the best way to express a conditional outcome.",
+        "options": [
+          "If the circumstances change, we will adjust our plan.",
+          "Yesterday is a colour.",
+          "Because quickly table."
+        ],
+        "answer": 0,
+        "explanation": "If-clause එකෙන් කොන්දේසිය සහ එහි ප්‍රතිඵලය සම්බන්ධ කරයි."
+      }
+    ]
+  },
+  {
+    "id": "en-b2-l31",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · Lesson 31 · බලශක්ති පරිවර්තනය සහ තිරසාරභාවය",
+    "objective": "පුනර්ජනනීය බලශක්තියේ වාසි සහ සීමා සාධක සමඟ විස්තර කරන්න.",
+    "vocabulary": [
+      {
+        "word": "renewable",
+        "reading": "කොන්ට්‍රැක්ට්",
+        "meaning": "පුනර්ජනනීය",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "emissions",
+        "reading": "ක්ලෝස්",
+        "meaning": "විමෝචන",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "efficiency",
+        "reading": "ඩෙඩ්ලයින්",
+        "meaning": "කාර්යක්ෂමතාව",
+        "example": "The decision should be clear, consistent and well explained.",
+        "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "translation": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "grid",
+        "reading": "නිගෝෂියේට්",
+        "meaning": "විදුලි ජාලය",
+        "example": "If the circumstances change, we will adjust our plan.",
+        "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "translation": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "storage",
+        "reading": "ප්‍රපෝසල්",
+        "meaning": "ගබඩා කිරීම",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "transition",
+        "reading": "කොම්ප්‍රමයිස්",
+        "meaning": "පරිවර්තනය",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "subsidy",
+        "reading": "ලයබල්",
+        "meaning": "සහනාධාරය",
+        "example": "The decision should be clear, consistent and well explained.",
+        "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "translation": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "sustainable",
+        "reading": "රිනිවල්",
+        "meaning": "තිරසාර",
+        "example": "If the circumstances change, we will adjust our plan.",
+        "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "translation": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "grammarTitle": "Cause, consequence and concession linkers",
+    "grammar": "Cause, consequence and concession linkers: Although the initial investment is high, long-term costs may be lower. මෙම රටාව නිවැරදි සන්දර්භයක භාවිතා කරමින් අදහස් වඩාත් නිවැරදිව හා ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "text": "Although the initial investment is high, long-term costs may be lower.",
+        "reading": "ඉෆ් යූ ඇක්සෙප්ට් දිස් කන්ඩිෂන්, වී කෑන් සයින් දි කන්ට්‍රැක්ට්.",
+        "meaning": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය"
+      }
+    ],
+    "examples": [
+      {
+        "text": "It is important to consider all the relevant facts.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "meaning": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I suggest that we compare several possible solutions.",
+        "reading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "meaning": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "The decision should be clear, consistent and well explained.",
+        "reading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "meaning": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "If the circumstances change, we will adjust our plan.",
+        "reading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "meaning": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "How would you assess the current situation?",
+        "reading": "හවු වුඩ් යූ අසෙස් දි කරන්ට් සිචුවේෂන්?",
+        "meaning": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I would first check the available information.",
+        "reading": "අයි වුඩ් ෆර්ස්ට් චෙක් දි අවේලබල් ඉන්ෆොමේෂන්.",
+        "meaning": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I agree, but we should also consider the costs.",
+        "reading": "අයි අග්‍රී, බට් වී ෂුඩ් ඕල්සෝ කන්සිඩර් දි කොස්ට්ස්.",
+        "meaning": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "Then we can suggest a balanced solution.",
+        "reading": "දෙන් වී කෑන් සජෙස්ට් අ බැලන්ස්ඩ් සොලූෂන්.",
+        "meaning": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "හඬ අසා නිවැරදි සිංහල අර්ථය තෝරන්න.",
+      "audio": "Although the initial investment is high, long-term costs may be lower.",
+      "reading": "ඉෆ් යූ ඇක්සෙප්ට් දිස් කන්ඩිෂන්, වී කෑන් සයින් දි කන්ට්‍රැක්ට්.",
+      "options": [
+        "මෙම කොන්දේසිය පිළිගත්තොත් අපට ගිවිසුම අත්සන් කළ හැකියි.",
+        "අපි හෙට ගමනක් යනවා.",
+        "කාලගුණය අද ඉතා හොඳයි."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය: Choose the correct sentence.",
+        "options": [
+          "Although the initial investment is high, long-term costs may be lower.",
+          "අපි හෙට ගමනක් යනවා.",
+          "කාලගුණය අද ඉතා හොඳයි."
+        ],
+        "answer": 0,
+        "explanation": "මෙය බලශක්ති පරිවර්තනය සහ තිරසාරභාවය සන්දර්භයට ගැළපෙන නිවැරදි වාක්‍යයයි."
+      },
+      {
+        "prompt": "Which expression introduces a careful suggestion?",
+        "options": [
+          "I suggest that we compare the options.",
+          "The weather is sunny.",
+          "I forgot my keys."
+        ],
+        "answer": 0,
+        "explanation": "“I suggest that…” යෝජනාවක් ආචාරශීලීව ඉදිරිපත් කරයි."
+      },
+      {
+        "prompt": "සංවාදයකදී හොඳම ප්‍රතිචාරය කුමක්ද?",
+        "options": [
+          "කරුණු පරීක්ෂා කර විකල්ප සසඳමු.",
+          "මට කිසිවක් අසන්න අවශ්‍ය නැහැ.",
+          "අපි සාකච්ඡාව නවත්වමු."
+        ],
+        "answer": 0,
+        "explanation": "කරුණු සහ විකල්ප සලකා බැලීම B2 මට්ටමේ සාකච්ඡා කුසලතාවකි."
+      },
+      {
+        "prompt": "Choose the best way to express a conditional outcome.",
+        "options": [
+          "If the circumstances change, we will adjust our plan.",
+          "Yesterday is a colour.",
+          "Because quickly table."
+        ],
+        "answer": 0,
+        "explanation": "If-clause එකෙන් කොන්දේසිය සහ එහි ප්‍රතිඵලය සම්බන්ධ කරයි."
+      }
+    ]
+  },
+  {
+    "id": "en-b2-l32",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · Lesson 32 · පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය",
+    "objective": "දත්තවල විශ්වසනීයත්වය, නියැදි සහ පර්යේෂණ සීමා ඇගයීමට ලක් කරන්න.",
+    "vocabulary": [
+      {
+        "word": "sample",
+        "reading": "කොන්ට්‍රැක්ට්",
+        "meaning": "නියැදිය",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "bias",
+        "reading": "ක්ලෝස්",
+        "meaning": "පක්ෂපාතීත්වය",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "reliability",
+        "reading": "ඩෙඩ්ලයින්",
+        "meaning": "විශ්වසනීයත්වය",
+        "example": "The decision should be clear, consistent and well explained.",
+        "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "translation": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "validity",
+        "reading": "නිගෝෂියේට්",
+        "meaning": "වලංගුභාවය",
+        "example": "If the circumstances change, we will adjust our plan.",
+        "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "translation": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "correlation",
+        "reading": "ප්‍රපෝසල්",
+        "meaning": "සහසම්බන්ධතාව",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "causation",
+        "reading": "කොම්ප්‍රමයිස්",
+        "meaning": "හේතුකාරකත්වය",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "methodology",
+        "reading": "ලයබල්",
+        "meaning": "ක්‍රමවේදය",
+        "example": "The decision should be clear, consistent and well explained.",
+        "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "translation": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "limitation",
+        "reading": "රිනිවල්",
+        "meaning": "සීමාව",
+        "example": "If the circumstances change, we will adjust our plan.",
+        "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "translation": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "grammarTitle": "Hedging and cautious claims",
+    "grammar": "Hedging and cautious claims: The results suggest a possible link, but they do not prove causation. මෙම රටාව නිවැරදි සන්දර්භයක භාවිතා කරමින් අදහස් වඩාත් නිවැරදිව හා ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "text": "The results suggest a possible link, but they do not prove causation.",
+        "reading": "ඉෆ් යූ ඇක්සෙප්ට් දිස් කන්ඩිෂන්, වී කෑන් සයින් දි කන්ට්‍රැක්ට්.",
+        "meaning": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය"
+      }
+    ],
+    "examples": [
+      {
+        "text": "It is important to consider all the relevant facts.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "meaning": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I suggest that we compare several possible solutions.",
+        "reading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "meaning": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "The decision should be clear, consistent and well explained.",
+        "reading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "meaning": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "If the circumstances change, we will adjust our plan.",
+        "reading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "meaning": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "How would you assess the current situation?",
+        "reading": "හවු වුඩ් යූ අසෙස් දි කරන්ට් සිචුවේෂන්?",
+        "meaning": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I would first check the available information.",
+        "reading": "අයි වුඩ් ෆර්ස්ට් චෙක් දි අවේලබල් ඉන්ෆොමේෂන්.",
+        "meaning": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I agree, but we should also consider the costs.",
+        "reading": "අයි අග්‍රී, බට් වී ෂුඩ් ඕල්සෝ කන්සිඩර් දි කොස්ට්ස්.",
+        "meaning": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "Then we can suggest a balanced solution.",
+        "reading": "දෙන් වී කෑන් සජෙස්ට් අ බැලන්ස්ඩ් සොලූෂන්.",
+        "meaning": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "හඬ අසා නිවැරදි සිංහල අර්ථය තෝරන්න.",
+      "audio": "The results suggest a possible link, but they do not prove causation.",
+      "reading": "ඉෆ් යූ ඇක්සෙප්ට් දිස් කන්ඩිෂන්, වී කෑන් සයින් දි කන්ට්‍රැක්ට්.",
+      "options": [
+        "මෙම කොන්දේසිය පිළිගත්තොත් අපට ගිවිසුම අත්සන් කළ හැකියි.",
+        "අපි හෙට ගමනක් යනවා.",
+        "කාලගුණය අද ඉතා හොඳයි."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය: Choose the correct sentence.",
+        "options": [
+          "The results suggest a possible link, but they do not prove causation.",
+          "අපි හෙට ගමනක් යනවා.",
+          "කාලගුණය අද ඉතා හොඳයි."
+        ],
+        "answer": 0,
+        "explanation": "මෙය පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය සන්දර්භයට ගැළපෙන නිවැරදි වාක්‍යයයි."
+      },
+      {
+        "prompt": "Which expression introduces a careful suggestion?",
+        "options": [
+          "I suggest that we compare the options.",
+          "The weather is sunny.",
+          "I forgot my keys."
+        ],
+        "answer": 0,
+        "explanation": "“I suggest that…” යෝජනාවක් ආචාරශීලීව ඉදිරිපත් කරයි."
+      },
+      {
+        "prompt": "සංවාදයකදී හොඳම ප්‍රතිචාරය කුමක්ද?",
+        "options": [
+          "කරුණු පරීක්ෂා කර විකල්ප සසඳමු.",
+          "මට කිසිවක් අසන්න අවශ්‍ය නැහැ.",
+          "අපි සාකච්ඡාව නවත්වමු."
+        ],
+        "answer": 0,
+        "explanation": "කරුණු සහ විකල්ප සලකා බැලීම B2 මට්ටමේ සාකච්ඡා කුසලතාවකි."
+      },
+      {
+        "prompt": "Choose the best way to express a conditional outcome.",
+        "options": [
+          "If the circumstances change, we will adjust our plan.",
+          "Yesterday is a colour.",
+          "Because quickly table."
+        ],
+        "answer": 0,
+        "explanation": "If-clause එකෙන් කොන්දේසිය සහ එහි ප්‍රතිඵලය සම්බන්ධ කරයි."
+      }
+    ]
+  },
+  {
+    "id": "en-b2-l33",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · Lesson 33 · ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව",
+    "objective": "කථාවක් සංවිධානය කර ප්‍රේක්ෂක ප්‍රශ්නවලට පැහැදිලිව පිළිතුරු දෙන්න.",
+    "vocabulary": [
+      {
+        "word": "opening",
+        "reading": "කොන්ට්‍රැක්ට්",
+        "meaning": "ආරම්භය",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "audience",
+        "reading": "ක්ලෝස්",
+        "meaning": "ප්‍රේක්ෂක පිරිස",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "emphasis",
+        "reading": "ඩෙඩ්ලයින්",
+        "meaning": "අවධාරණය",
+        "example": "The decision should be clear, consistent and well explained.",
+        "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "translation": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "transition",
+        "reading": "නිගෝෂියේට්",
+        "meaning": "මාරුව",
+        "example": "If the circumstances change, we will adjust our plan.",
+        "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "translation": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "clarify",
+        "reading": "ප්‍රපෝසල්",
+        "meaning": "පැහැදිලි කිරීම",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "summarise",
+        "reading": "කොම්ප්‍රමයිස්",
+        "meaning": "සාරාංශ කිරීම",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "engagement",
+        "reading": "ලයබල්",
+        "meaning": "සහභාගීත්වය",
+        "example": "The decision should be clear, consistent and well explained.",
+        "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "translation": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "visual aid",
+        "reading": "රිනිවල්",
+        "meaning": "දෘශ්‍ය ආධාරකය",
+        "example": "If the circumstances change, we will adjust our plan.",
+        "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "translation": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "grammarTitle": "Signposting expressions",
+    "grammar": "Signposting expressions: First, I will introduce the problem; then I will explain the possible options. මෙම රටාව නිවැරදි සන්දර්භයක භාවිතා කරමින් අදහස් වඩාත් නිවැරදිව හා ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "text": "First, I will introduce the problem; then I will explain the possible options.",
+        "reading": "ඉෆ් යූ ඇක්සෙප්ට් දිස් කන්ඩිෂන්, වී කෑන් සයින් දි කන්ට්‍රැක්ට්.",
+        "meaning": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව"
+      }
+    ],
+    "examples": [
+      {
+        "text": "It is important to consider all the relevant facts.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "meaning": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I suggest that we compare several possible solutions.",
+        "reading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "meaning": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "The decision should be clear, consistent and well explained.",
+        "reading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "meaning": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "If the circumstances change, we will adjust our plan.",
+        "reading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "meaning": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "How would you assess the current situation?",
+        "reading": "හවු වුඩ් යූ අසෙස් දි කරන්ට් සිචුවේෂන්?",
+        "meaning": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I would first check the available information.",
+        "reading": "අයි වුඩ් ෆර්ස්ට් චෙක් දි අවේලබල් ඉන්ෆොමේෂන්.",
+        "meaning": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I agree, but we should also consider the costs.",
+        "reading": "අයි අග්‍රී, බට් වී ෂුඩ් ඕල්සෝ කන්සිඩර් දි කොස්ට්ස්.",
+        "meaning": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "Then we can suggest a balanced solution.",
+        "reading": "දෙන් වී කෑන් සජෙස්ට් අ බැලන්ස්ඩ් සොලූෂන්.",
+        "meaning": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "හඬ අසා නිවැරදි සිංහල අර්ථය තෝරන්න.",
+      "audio": "First, I will introduce the problem; then I will explain the possible options.",
+      "reading": "ඉෆ් යූ ඇක්සෙප්ට් දිස් කන්ඩිෂන්, වී කෑන් සයින් දි කන්ට්‍රැක්ට්.",
+      "options": [
+        "මෙම කොන්දේසිය පිළිගත්තොත් අපට ගිවිසුම අත්සන් කළ හැකියි.",
+        "අපි හෙට ගමනක් යනවා.",
+        "කාලගුණය අද ඉතා හොඳයි."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව: Choose the correct sentence.",
+        "options": [
+          "First, I will introduce the problem; then I will explain the possible options.",
+          "අපි හෙට ගමනක් යනවා.",
+          "කාලගුණය අද ඉතා හොඳයි."
+        ],
+        "answer": 0,
+        "explanation": "මෙය ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව සන්දර්භයට ගැළපෙන නිවැරදි වාක්‍යයයි."
+      },
+      {
+        "prompt": "Which expression introduces a careful suggestion?",
+        "options": [
+          "I suggest that we compare the options.",
+          "The weather is sunny.",
+          "I forgot my keys."
+        ],
+        "answer": 0,
+        "explanation": "“I suggest that…” යෝජනාවක් ආචාරශීලීව ඉදිරිපත් කරයි."
+      },
+      {
+        "prompt": "සංවාදයකදී හොඳම ප්‍රතිචාරය කුමක්ද?",
+        "options": [
+          "කරුණු පරීක්ෂා කර විකල්ප සසඳමු.",
+          "මට කිසිවක් අසන්න අවශ්‍ය නැහැ.",
+          "අපි සාකච්ඡාව නවත්වමු."
+        ],
+        "answer": 0,
+        "explanation": "කරුණු සහ විකල්ප සලකා බැලීම B2 මට්ටමේ සාකච්ඡා කුසලතාවකි."
+      },
+      {
+        "prompt": "Choose the best way to express a conditional outcome.",
+        "options": [
+          "If the circumstances change, we will adjust our plan.",
+          "Yesterday is a colour.",
+          "Because quickly table."
+        ],
+        "answer": 0,
+        "explanation": "If-clause එකෙන් කොන්දේසිය සහ එහි ප්‍රතිඵලය සම්බන්ධ කරයි."
+      }
+    ]
+  },
+  {
+    "id": "en-b2-l34",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · Lesson 34 · සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය",
+    "objective": "සංස්කෘතික අනන්‍යතාව, ඒකාබද්ධ වීම සහ බහුභාෂාභාවය ගැන සාකච්ඡා කරන්න.",
+    "vocabulary": [
+      {
+        "word": "identity",
+        "reading": "කොන්ට්‍රැක්ට්",
+        "meaning": "අනන්‍යතාව",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "heritage",
+        "reading": "ක්ලෝස්",
+        "meaning": "උරුමය",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "integration",
+        "reading": "ඩෙඩ්ලයින්",
+        "meaning": "ඒකාබද්ධ වීම",
+        "example": "The decision should be clear, consistent and well explained.",
+        "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "translation": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "migration",
+        "reading": "නිගෝෂියේට්",
+        "meaning": "සංක්‍රමණය",
+        "example": "If the circumstances change, we will adjust our plan.",
+        "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "translation": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "belonging",
+        "reading": "ප්‍රපෝසල්",
+        "meaning": "අයත්භාවය",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "diversity",
+        "reading": "කොම්ප්‍රමයිස්",
+        "meaning": "විවිධත්වය",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "custom",
+        "reading": "ලයබල්",
+        "meaning": "සම්ප්‍රදාය",
+        "example": "The decision should be clear, consistent and well explained.",
+        "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "translation": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "adaptation",
+        "reading": "රිනිවල්",
+        "meaning": "අනුගත වීම",
+        "example": "If the circumstances change, we will adjust our plan.",
+        "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "translation": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "grammarTitle": "Contrastive clauses and nuanced comparisons",
+    "grammar": "Contrastive clauses and nuanced comparisons: While some adapt quickly, others need more time. මෙම රටාව නිවැරදි සන්දර්භයක භාවිතා කරමින් අදහස් වඩාත් නිවැරදිව හා ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "text": "While some adapt quickly, others need more time.",
+        "reading": "ඉෆ් යූ ඇක්සෙප්ට් දිස් කන්ඩිෂන්, වී කෑන් සයින් දි කන්ට්‍රැක්ට්.",
+        "meaning": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය"
+      }
+    ],
+    "examples": [
+      {
+        "text": "It is important to consider all the relevant facts.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "meaning": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I suggest that we compare several possible solutions.",
+        "reading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "meaning": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "The decision should be clear, consistent and well explained.",
+        "reading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "meaning": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "If the circumstances change, we will adjust our plan.",
+        "reading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "meaning": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "How would you assess the current situation?",
+        "reading": "හවු වුඩ් යූ අසෙස් දි කරන්ට් සිචුවේෂන්?",
+        "meaning": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I would first check the available information.",
+        "reading": "අයි වුඩ් ෆර්ස්ට් චෙක් දි අවේලබල් ඉන්ෆොමේෂන්.",
+        "meaning": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I agree, but we should also consider the costs.",
+        "reading": "අයි අග්‍රී, බට් වී ෂුඩ් ඕල්සෝ කන්සිඩර් දි කොස්ට්ස්.",
+        "meaning": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "Then we can suggest a balanced solution.",
+        "reading": "දෙන් වී කෑන් සජෙස්ට් අ බැලන්ස්ඩ් සොලූෂන්.",
+        "meaning": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "හඬ අසා නිවැරදි සිංහල අර්ථය තෝරන්න.",
+      "audio": "While some adapt quickly, others need more time.",
+      "reading": "ඉෆ් යූ ඇක්සෙප්ට් දිස් කන්ඩිෂන්, වී කෑන් සයින් දි කන්ට්‍රැක්ට්.",
+      "options": [
+        "මෙම කොන්දේසිය පිළිගත්තොත් අපට ගිවිසුම අත්සන් කළ හැකියි.",
+        "අපි හෙට ගමනක් යනවා.",
+        "කාලගුණය අද ඉතා හොඳයි."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය: Choose the correct sentence.",
+        "options": [
+          "While some adapt quickly, others need more time.",
+          "අපි හෙට ගමනක් යනවා.",
+          "කාලගුණය අද ඉතා හොඳයි."
+        ],
+        "answer": 0,
+        "explanation": "මෙය සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය සන්දර්භයට ගැළපෙන නිවැරදි වාක්‍යයයි."
+      },
+      {
+        "prompt": "Which expression introduces a careful suggestion?",
+        "options": [
+          "I suggest that we compare the options.",
+          "The weather is sunny.",
+          "I forgot my keys."
+        ],
+        "answer": 0,
+        "explanation": "“I suggest that…” යෝජනාවක් ආචාරශීලීව ඉදිරිපත් කරයි."
+      },
+      {
+        "prompt": "සංවාදයකදී හොඳම ප්‍රතිචාරය කුමක්ද?",
+        "options": [
+          "කරුණු පරීක්ෂා කර විකල්ප සසඳමු.",
+          "මට කිසිවක් අසන්න අවශ්‍ය නැහැ.",
+          "අපි සාකච්ඡාව නවත්වමු."
+        ],
+        "answer": 0,
+        "explanation": "කරුණු සහ විකල්ප සලකා බැලීම B2 මට්ටමේ සාකච්ඡා කුසලතාවකි."
+      },
+      {
+        "prompt": "Choose the best way to express a conditional outcome.",
+        "options": [
+          "If the circumstances change, we will adjust our plan.",
+          "Yesterday is a colour.",
+          "Because quickly table."
+        ],
+        "answer": 0,
+        "explanation": "If-clause එකෙන් කොන්දේසිය සහ එහි ප්‍රතිඵලය සම්බන්ධ කරයි."
+      }
+    ]
+  },
+  {
+    "id": "en-b2-l35",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · Lesson 35 · ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව",
+    "objective": "දත්ත එකතු කිරීමේ අවදානම් සහ ආරක්ෂිත භාවිත ක්‍රම පැහැදිලි කරන්න.",
+    "vocabulary": [
+      {
+        "word": "privacy",
+        "reading": "කොන්ට්‍රැක්ට්",
+        "meaning": "පෞද්ගලිකත්වය",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "consent",
+        "reading": "ක්ලෝස්",
+        "meaning": "අනුමැතිය",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "encryption",
+        "reading": "ඩෙඩ්ලයින්",
+        "meaning": "කේතනය",
+        "example": "The decision should be clear, consistent and well explained.",
+        "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "translation": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "breach",
+        "reading": "නිගෝෂියේට්",
+        "meaning": "දත්ත කඩවීම",
+        "example": "If the circumstances change, we will adjust our plan.",
+        "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "translation": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "permission",
+        "reading": "ප්‍රපෝසල්",
+        "meaning": "අවසරය",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "tracking",
+        "reading": "කොම්ප්‍රමයිස්",
+        "meaning": "අනුගමනය කිරීම",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "retention",
+        "reading": "ලයබල්",
+        "meaning": "රඳවා තබාගැනීම",
+        "example": "The decision should be clear, consistent and well explained.",
+        "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "translation": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "disclosure",
+        "reading": "රිනිවල්",
+        "meaning": "හෙළිදරව් කිරීම",
+        "example": "If the circumstances change, we will adjust our plan.",
+        "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "translation": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "grammarTitle": "Modal verbs for obligation and possibility",
+    "grammar": "Modal verbs for obligation and possibility: Users should check which data an application collects. මෙම රටාව නිවැරදි සන්දර්භයක භාවිතා කරමින් අදහස් වඩාත් නිවැරදිව හා ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "text": "Users should check which data an application collects.",
+        "reading": "ඉෆ් යූ ඇක්සෙප්ට් දිස් කන්ඩිෂන්, වී කෑන් සයින් දි කන්ට්‍රැක්ට්.",
+        "meaning": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව"
+      }
+    ],
+    "examples": [
+      {
+        "text": "It is important to consider all the relevant facts.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "meaning": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I suggest that we compare several possible solutions.",
+        "reading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "meaning": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "The decision should be clear, consistent and well explained.",
+        "reading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "meaning": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "If the circumstances change, we will adjust our plan.",
+        "reading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "meaning": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "How would you assess the current situation?",
+        "reading": "හවු වුඩ් යූ අසෙස් දි කරන්ට් සිචුවේෂන්?",
+        "meaning": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I would first check the available information.",
+        "reading": "අයි වුඩ් ෆර්ස්ට් චෙක් දි අවේලබල් ඉන්ෆොමේෂන්.",
+        "meaning": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I agree, but we should also consider the costs.",
+        "reading": "අයි අග්‍රී, බට් වී ෂුඩ් ඕල්සෝ කන්සිඩර් දි කොස්ට්ස්.",
+        "meaning": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "Then we can suggest a balanced solution.",
+        "reading": "දෙන් වී කෑන් සජෙස්ට් අ බැලන්ස්ඩ් සොලූෂන්.",
+        "meaning": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "හඬ අසා නිවැරදි සිංහල අර්ථය තෝරන්න.",
+      "audio": "Users should check which data an application collects.",
+      "reading": "ඉෆ් යූ ඇක්සෙප්ට් දිස් කන්ඩිෂන්, වී කෑන් සයින් දි කන්ට්‍රැක්ට්.",
+      "options": [
+        "මෙම කොන්දේසිය පිළිගත්තොත් අපට ගිවිසුම අත්සන් කළ හැකියි.",
+        "අපි හෙට ගමනක් යනවා.",
+        "කාලගුණය අද ඉතා හොඳයි."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව: Choose the correct sentence.",
+        "options": [
+          "Users should check which data an application collects.",
+          "අපි හෙට ගමනක් යනවා.",
+          "කාලගුණය අද ඉතා හොඳයි."
+        ],
+        "answer": 0,
+        "explanation": "මෙය ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව සන්දර්භයට ගැළපෙන නිවැරදි වාක්‍යයයි."
+      },
+      {
+        "prompt": "Which expression introduces a careful suggestion?",
+        "options": [
+          "I suggest that we compare the options.",
+          "The weather is sunny.",
+          "I forgot my keys."
+        ],
+        "answer": 0,
+        "explanation": "“I suggest that…” යෝජනාවක් ආචාරශීලීව ඉදිරිපත් කරයි."
+      },
+      {
+        "prompt": "සංවාදයකදී හොඳම ප්‍රතිචාරය කුමක්ද?",
+        "options": [
+          "කරුණු පරීක්ෂා කර විකල්ප සසඳමු.",
+          "මට කිසිවක් අසන්න අවශ්‍ය නැහැ.",
+          "අපි සාකච්ඡාව නවත්වමු."
+        ],
+        "answer": 0,
+        "explanation": "කරුණු සහ විකල්ප සලකා බැලීම B2 මට්ටමේ සාකච්ඡා කුසලතාවකි."
+      },
+      {
+        "prompt": "Choose the best way to express a conditional outcome.",
+        "options": [
+          "If the circumstances change, we will adjust our plan.",
+          "Yesterday is a colour.",
+          "Because quickly table."
+        ],
+        "answer": 0,
+        "explanation": "If-clause එකෙන් කොන්දේසිය සහ එහි ප්‍රතිඵලය සම්බන්ධ කරයි."
+      }
+    ]
+  },
+  {
+    "id": "en-b2-l36",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · Lesson 36 · සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය",
+    "objective": "සෞඛ්‍ය තොරතුරු විමසා විකල්ප තේරුම් ගෙන ප්‍රශ්න අසන්න.",
+    "vocabulary": [
+      {
+        "word": "diagnosis",
+        "reading": "කොන්ට්‍රැක්ට්",
+        "meaning": "රෝග විනිශ්චය",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "treatment",
+        "reading": "ක්ලෝස්",
+        "meaning": "ප්‍රතිකාරය",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "side effect",
+        "reading": "ඩෙඩ්ලයින්",
+        "meaning": "අතුරු ආබාධය",
+        "example": "The decision should be clear, consistent and well explained.",
+        "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "translation": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "appointment",
+        "reading": "නිගෝෂියේට්",
+        "meaning": "වෛද්‍ය හමුව",
+        "example": "If the circumstances change, we will adjust our plan.",
+        "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "translation": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "consent",
+        "reading": "ප්‍රපෝසල්",
+        "meaning": "එකඟතාව",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "symptom",
+        "reading": "කොම්ප්‍රමයිස්",
+        "meaning": "රෝග ලක්ෂණය",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "referral",
+        "reading": "ලයබල්",
+        "meaning": "යොමු කිරීම",
+        "example": "The decision should be clear, consistent and well explained.",
+        "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "translation": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "recovery",
+        "reading": "රිනිවල්",
+        "meaning": "සුවය ලැබීම",
+        "example": "If the circumstances change, we will adjust our plan.",
+        "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "translation": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "grammarTitle": "Indirect questions",
+    "grammar": "Indirect questions: Could you explain what the benefits and risks of this treatment are? මෙම රටාව නිවැරදි සන්දර්භයක භාවිතා කරමින් අදහස් වඩාත් නිවැරදිව හා ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "text": "Could you explain what the benefits and risks of this treatment are?",
+        "reading": "ඉෆ් යූ ඇක්සෙප්ට් දිස් කන්ඩිෂන්, වී කෑන් සයින් දි කන්ට්‍රැක්ට්.",
+        "meaning": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය"
+      }
+    ],
+    "examples": [
+      {
+        "text": "It is important to consider all the relevant facts.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "meaning": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I suggest that we compare several possible solutions.",
+        "reading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "meaning": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "The decision should be clear, consistent and well explained.",
+        "reading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "meaning": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "If the circumstances change, we will adjust our plan.",
+        "reading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "meaning": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "How would you assess the current situation?",
+        "reading": "හවු වුඩ් යූ අසෙස් දි කරන්ට් සිචුවේෂන්?",
+        "meaning": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I would first check the available information.",
+        "reading": "අයි වුඩ් ෆර්ස්ට් චෙක් දි අවේලබල් ඉන්ෆොමේෂන්.",
+        "meaning": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I agree, but we should also consider the costs.",
+        "reading": "අයි අග්‍රී, බට් වී ෂුඩ් ඕල්සෝ කන්සිඩර් දි කොස්ට්ස්.",
+        "meaning": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "Then we can suggest a balanced solution.",
+        "reading": "දෙන් වී කෑන් සජෙස්ට් අ බැලන්ස්ඩ් සොලූෂන්.",
+        "meaning": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "හඬ අසා නිවැරදි සිංහල අර්ථය තෝරන්න.",
+      "audio": "Could you explain what the benefits and risks of this treatment are?",
+      "reading": "ඉෆ් යූ ඇක්සෙප්ට් දිස් කන්ඩිෂන්, වී කෑන් සයින් දි කන්ට්‍රැක්ට්.",
+      "options": [
+        "මෙම කොන්දේසිය පිළිගත්තොත් අපට ගිවිසුම අත්සන් කළ හැකියි.",
+        "අපි හෙට ගමනක් යනවා.",
+        "කාලගුණය අද ඉතා හොඳයි."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය: Choose the correct sentence.",
+        "options": [
+          "Could you explain what the benefits and risks of this treatment are?",
+          "අපි හෙට ගමනක් යනවා.",
+          "කාලගුණය අද ඉතා හොඳයි."
+        ],
+        "answer": 0,
+        "explanation": "මෙය සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය සන්දර්භයට ගැළපෙන නිවැරදි වාක්‍යයයි."
+      },
+      {
+        "prompt": "Which expression introduces a careful suggestion?",
+        "options": [
+          "I suggest that we compare the options.",
+          "The weather is sunny.",
+          "I forgot my keys."
+        ],
+        "answer": 0,
+        "explanation": "“I suggest that…” යෝජනාවක් ආචාරශීලීව ඉදිරිපත් කරයි."
+      },
+      {
+        "prompt": "සංවාදයකදී හොඳම ප්‍රතිචාරය කුමක්ද?",
+        "options": [
+          "කරුණු පරීක්ෂා කර විකල්ප සසඳමු.",
+          "මට කිසිවක් අසන්න අවශ්‍ය නැහැ.",
+          "අපි සාකච්ඡාව නවත්වමු."
+        ],
+        "answer": 0,
+        "explanation": "කරුණු සහ විකල්ප සලකා බැලීම B2 මට්ටමේ සාකච්ඡා කුසලතාවකි."
+      },
+      {
+        "prompt": "Choose the best way to express a conditional outcome.",
+        "options": [
+          "If the circumstances change, we will adjust our plan.",
+          "Yesterday is a colour.",
+          "Because quickly table."
+        ],
+        "answer": 0,
+        "explanation": "If-clause එකෙන් කොන්දේසිය සහ එහි ප්‍රතිඵලය සම්බන්ධ කරයි."
+      }
+    ]
+  },
+  {
+    "id": "en-b2-l37",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · Lesson 37 · මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම",
+    "objective": "අයවැය, ඉතිරිකිරීම් සහ අවදානම් මට්ටම් සංසන්දනය කරන්න.",
+    "vocabulary": [
+      {
+        "word": "budget",
+        "reading": "කොන්ට්‍රැක්ට්",
+        "meaning": "අයවැය",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "savings",
+        "reading": "ක්ලෝස්",
+        "meaning": "ඉතිරිකිරීම්",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "investment",
+        "reading": "ඩෙඩ්ලයින්",
+        "meaning": "ආයෝජනය",
+        "example": "The decision should be clear, consistent and well explained.",
+        "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "translation": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "interest rate",
+        "reading": "නිගෝෂියේට්",
+        "meaning": "පොලී අනුපාතය",
+        "example": "If the circumstances change, we will adjust our plan.",
+        "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "translation": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "return",
+        "reading": "ප්‍රපෝසල්",
+        "meaning": "ප්‍රතිලාභය",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "risk",
+        "reading": "කොම්ප්‍රමයිස්",
+        "meaning": "අවදානම",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "debt",
+        "reading": "ලයබල්",
+        "meaning": "ණය",
+        "example": "The decision should be clear, consistent and well explained.",
+        "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "translation": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "forecast",
+        "reading": "රිනිවල්",
+        "meaning": "පුරෝකථනය",
+        "example": "If the circumstances change, we will adjust our plan.",
+        "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "translation": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "grammarTitle": "Conditionals for financial scenarios",
+    "grammar": "Conditionals for financial scenarios: If we diversify our investments, we can reduce individual risk. මෙම රටාව නිවැරදි සන්දර්භයක භාවිතා කරමින් අදහස් වඩාත් නිවැරදිව හා ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "text": "If we diversify our investments, we can reduce individual risk.",
+        "reading": "ඉෆ් යූ ඇක්සෙප්ට් දිස් කන්ඩිෂන්, වී කෑන් සයින් දි කන්ට්‍රැක්ට්.",
+        "meaning": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම"
+      }
+    ],
+    "examples": [
+      {
+        "text": "It is important to consider all the relevant facts.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "meaning": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I suggest that we compare several possible solutions.",
+        "reading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "meaning": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "The decision should be clear, consistent and well explained.",
+        "reading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "meaning": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "If the circumstances change, we will adjust our plan.",
+        "reading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "meaning": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "How would you assess the current situation?",
+        "reading": "හවු වුඩ් යූ අසෙස් දි කරන්ට් සිචුවේෂන්?",
+        "meaning": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I would first check the available information.",
+        "reading": "අයි වුඩ් ෆර්ස්ට් චෙක් දි අවේලබල් ඉන්ෆොමේෂන්.",
+        "meaning": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I agree, but we should also consider the costs.",
+        "reading": "අයි අග්‍රී, බට් වී ෂුඩ් ඕල්සෝ කන්සිඩර් දි කොස්ට්ස්.",
+        "meaning": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "Then we can suggest a balanced solution.",
+        "reading": "දෙන් වී කෑන් සජෙස්ට් අ බැලන්ස්ඩ් සොලූෂන්.",
+        "meaning": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "හඬ අසා නිවැරදි සිංහල අර්ථය තෝරන්න.",
+      "audio": "If we diversify our investments, we can reduce individual risk.",
+      "reading": "ඉෆ් යූ ඇක්සෙප්ට් දිස් කන්ඩිෂන්, වී කෑන් සයින් දි කන්ට්‍රැක්ට්.",
+      "options": [
+        "මෙම කොන්දේසිය පිළිගත්තොත් අපට ගිවිසුම අත්සන් කළ හැකියි.",
+        "අපි හෙට ගමනක් යනවා.",
+        "කාලගුණය අද ඉතා හොඳයි."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම: Choose the correct sentence.",
+        "options": [
+          "If we diversify our investments, we can reduce individual risk.",
+          "අපි හෙට ගමනක් යනවා.",
+          "කාලගුණය අද ඉතා හොඳයි."
+        ],
+        "answer": 0,
+        "explanation": "මෙය මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම සන්දර්භයට ගැළපෙන නිවැරදි වාක්‍යයයි."
+      },
+      {
+        "prompt": "Which expression introduces a careful suggestion?",
+        "options": [
+          "I suggest that we compare the options.",
+          "The weather is sunny.",
+          "I forgot my keys."
+        ],
+        "answer": 0,
+        "explanation": "“I suggest that…” යෝජනාවක් ආචාරශීලීව ඉදිරිපත් කරයි."
+      },
+      {
+        "prompt": "සංවාදයකදී හොඳම ප්‍රතිචාරය කුමක්ද?",
+        "options": [
+          "කරුණු පරීක්ෂා කර විකල්ප සසඳමු.",
+          "මට කිසිවක් අසන්න අවශ්‍ය නැහැ.",
+          "අපි සාකච්ඡාව නවත්වමු."
+        ],
+        "answer": 0,
+        "explanation": "කරුණු සහ විකල්ප සලකා බැලීම B2 මට්ටමේ සාකච්ඡා කුසලතාවකි."
+      },
+      {
+        "prompt": "Choose the best way to express a conditional outcome.",
+        "options": [
+          "If the circumstances change, we will adjust our plan.",
+          "Yesterday is a colour.",
+          "Because quickly table."
+        ],
+        "answer": 0,
+        "explanation": "If-clause එකෙන් කොන්දේසිය සහ එහි ප්‍රතිඵලය සම්බන්ධ කරයි."
+      }
+    ]
+  },
+  {
+    "id": "en-b2-l38",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · Lesson 38 · මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම",
+    "objective": "ප්‍රවෘත්ති මූලාශ්‍රවල විශ්වසනීයත්වය සහ පක්ෂපාතීත්වය පරීක්ෂා කරන්න.",
+    "vocabulary": [
+      {
+        "word": "source",
+        "reading": "කොන්ට්‍රැක්ට්",
+        "meaning": "මූලාශ්‍රය",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "headline",
+        "reading": "ක්ලෝස්",
+        "meaning": "සිරස්තලය",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "editorial",
+        "reading": "ඩෙඩ්ලයින්",
+        "meaning": "කතුවැකිය",
+        "example": "The decision should be clear, consistent and well explained.",
+        "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "translation": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "verification",
+        "reading": "නිගෝෂියේට්",
+        "meaning": "තහවුරු කිරීම",
+        "example": "If the circumstances change, we will adjust our plan.",
+        "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "translation": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "misinformation",
+        "reading": "ප්‍රපෝසල්",
+        "meaning": "වැරදි තොරතුරු",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "coverage",
+        "reading": "කොම්ප්‍රමයිස්",
+        "meaning": "වාර්තාකරණය",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "quotation",
+        "reading": "ලයබල්",
+        "meaning": "උපුටා දැක්වීම",
+        "example": "The decision should be clear, consistent and well explained.",
+        "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "translation": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "bias",
+        "reading": "රිනිවල්",
+        "meaning": "පක්ෂපාතීත්වය",
+        "example": "If the circumstances change, we will adjust our plan.",
+        "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "translation": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "grammarTitle": "Attribution and reported claims",
+    "grammar": "Attribution and reported claims: According to the report, the data were checked against several independent sources. මෙම රටාව නිවැරදි සන්දර්භයක භාවිතා කරමින් අදහස් වඩාත් නිවැරදිව හා ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "text": "According to the report, the data were checked against several independent sources.",
+        "reading": "ඉෆ් යූ ඇක්සෙප්ට් දිස් කන්ඩිෂන්, වී කෑන් සයින් දි කන්ට්‍රැක්ට්.",
+        "meaning": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම"
+      }
+    ],
+    "examples": [
+      {
+        "text": "It is important to consider all the relevant facts.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "meaning": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I suggest that we compare several possible solutions.",
+        "reading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "meaning": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "The decision should be clear, consistent and well explained.",
+        "reading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "meaning": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "If the circumstances change, we will adjust our plan.",
+        "reading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "meaning": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "How would you assess the current situation?",
+        "reading": "හවු වුඩ් යූ අසෙස් දි කරන්ට් සිචුවේෂන්?",
+        "meaning": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I would first check the available information.",
+        "reading": "අයි වුඩ් ෆර්ස්ට් චෙක් දි අවේලබල් ඉන්ෆොමේෂන්.",
+        "meaning": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I agree, but we should also consider the costs.",
+        "reading": "අයි අග්‍රී, බට් වී ෂුඩ් ඕල්සෝ කන්සිඩර් දි කොස්ට්ස්.",
+        "meaning": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "Then we can suggest a balanced solution.",
+        "reading": "දෙන් වී කෑන් සජෙස්ට් අ බැලන්ස්ඩ් සොලූෂන්.",
+        "meaning": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "හඬ අසා නිවැරදි සිංහල අර්ථය තෝරන්න.",
+      "audio": "According to the report, the data were checked against several independent sources.",
+      "reading": "ඉෆ් යූ ඇක්සෙප්ට් දිස් කන්ඩිෂන්, වී කෑන් සයින් දි කන්ට්‍රැක්ට්.",
+      "options": [
+        "මෙම කොන්දේසිය පිළිගත්තොත් අපට ගිවිසුම අත්සන් කළ හැකියි.",
+        "අපි හෙට ගමනක් යනවා.",
+        "කාලගුණය අද ඉතා හොඳයි."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම: Choose the correct sentence.",
+        "options": [
+          "According to the report, the data were checked against several independent sources.",
+          "අපි හෙට ගමනක් යනවා.",
+          "කාලගුණය අද ඉතා හොඳයි."
+        ],
+        "answer": 0,
+        "explanation": "මෙය මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම සන්දර්භයට ගැළපෙන නිවැරදි වාක්‍යයයි."
+      },
+      {
+        "prompt": "Which expression introduces a careful suggestion?",
+        "options": [
+          "I suggest that we compare the options.",
+          "The weather is sunny.",
+          "I forgot my keys."
+        ],
+        "answer": 0,
+        "explanation": "“I suggest that…” යෝජනාවක් ආචාරශීලීව ඉදිරිපත් කරයි."
+      },
+      {
+        "prompt": "සංවාදයකදී හොඳම ප්‍රතිචාරය කුමක්ද?",
+        "options": [
+          "කරුණු පරීක්ෂා කර විකල්ප සසඳමු.",
+          "මට කිසිවක් අසන්න අවශ්‍ය නැහැ.",
+          "අපි සාකච්ඡාව නවත්වමු."
+        ],
+        "answer": 0,
+        "explanation": "කරුණු සහ විකල්ප සලකා බැලීම B2 මට්ටමේ සාකච්ඡා කුසලතාවකි."
+      },
+      {
+        "prompt": "Choose the best way to express a conditional outcome.",
+        "options": [
+          "If the circumstances change, we will adjust our plan.",
+          "Yesterday is a colour.",
+          "Because quickly table."
+        ],
+        "answer": 0,
+        "explanation": "If-clause එකෙන් කොන්දේසිය සහ එහි ප්‍රතිඵලය සම්බන්ධ කරයි."
+      }
+    ]
+  },
+  {
+    "id": "en-b2-l39",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · Lesson 39 · ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය",
+    "objective": "ව්‍යාපෘතියක ප්‍රතිඵල, ප්‍රමාද සහ ඉදිරි වැඩ සැලැස්ම සමාලෝචනය කරන්න.",
+    "vocabulary": [
+      {
+        "word": "milestone",
+        "reading": "කොන්ට්‍රැක්ට්",
+        "meaning": "ප්‍රධාන අදියර",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "deliverable",
+        "reading": "ක්ලෝස්",
+        "meaning": "භාරදිය යුතු ප්‍රතිඵලය",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "performance",
+        "reading": "ඩෙඩ්ලයින්",
+        "meaning": "කාර්යසාධනය",
+        "example": "The decision should be clear, consistent and well explained.",
+        "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "translation": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "delay",
+        "reading": "නිගෝෂියේට්",
+        "meaning": "ප්‍රමාදය",
+        "example": "If the circumstances change, we will adjust our plan.",
+        "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "translation": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "review",
+        "reading": "ප්‍රපෝසල්",
+        "meaning": "සමාලෝචනය",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "outcome",
+        "reading": "කොම්ප්‍රමයිස්",
+        "meaning": "ප්‍රතිඵලය",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "resource",
+        "reading": "ලයබල්",
+        "meaning": "සම්පත",
+        "example": "The decision should be clear, consistent and well explained.",
+        "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "translation": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "priority",
+        "reading": "රිනිවල්",
+        "meaning": "ප්‍රමුඛතාව",
+        "example": "If the circumstances change, we will adjust our plan.",
+        "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "translation": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "grammarTitle": "Present perfect and outcome reporting",
+    "grammar": "Present perfect and outcome reporting: The team has completed the main tasks, but the testing deadline has been moved. මෙම රටාව නිවැරදි සන්දර්භයක භාවිතා කරමින් අදහස් වඩාත් නිවැරදිව හා ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "text": "The team has completed the main tasks, but the testing deadline has been moved.",
+        "reading": "ඉෆ් යූ ඇක්සෙප්ට් දිස් කන්ඩිෂන්, වී කෑන් සයින් දි කන්ට්‍රැක්ට්.",
+        "meaning": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය"
+      }
+    ],
+    "examples": [
+      {
+        "text": "It is important to consider all the relevant facts.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "meaning": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I suggest that we compare several possible solutions.",
+        "reading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "meaning": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "The decision should be clear, consistent and well explained.",
+        "reading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "meaning": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "If the circumstances change, we will adjust our plan.",
+        "reading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "meaning": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "How would you assess the current situation?",
+        "reading": "හවු වුඩ් යූ අසෙස් දි කරන්ට් සිචුවේෂන්?",
+        "meaning": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I would first check the available information.",
+        "reading": "අයි වුඩ් ෆර්ස්ට් චෙක් දි අවේලබල් ඉන්ෆොමේෂන්.",
+        "meaning": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I agree, but we should also consider the costs.",
+        "reading": "අයි අග්‍රී, බට් වී ෂුඩ් ඕල්සෝ කන්සිඩර් දි කොස්ට්ස්.",
+        "meaning": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "Then we can suggest a balanced solution.",
+        "reading": "දෙන් වී කෑන් සජෙස්ට් අ බැලන්ස්ඩ් සොලූෂන්.",
+        "meaning": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "හඬ අසා නිවැරදි සිංහල අර්ථය තෝරන්න.",
+      "audio": "The team has completed the main tasks, but the testing deadline has been moved.",
+      "reading": "ඉෆ් යූ ඇක්සෙප්ට් දිස් කන්ඩිෂන්, වී කෑන් සයින් දි කන්ට්‍රැක්ට්.",
+      "options": [
+        "මෙම කොන්දේසිය පිළිගත්තොත් අපට ගිවිසුම අත්සන් කළ හැකියි.",
+        "අපි හෙට ගමනක් යනවා.",
+        "කාලගුණය අද ඉතා හොඳයි."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය: Choose the correct sentence.",
+        "options": [
+          "The team has completed the main tasks, but the testing deadline has been moved.",
+          "අපි හෙට ගමනක් යනවා.",
+          "කාලගුණය අද ඉතා හොඳයි."
+        ],
+        "answer": 0,
+        "explanation": "මෙය ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය සන්දර්භයට ගැළපෙන නිවැරදි වාක්‍යයයි."
+      },
+      {
+        "prompt": "Which expression introduces a careful suggestion?",
+        "options": [
+          "I suggest that we compare the options.",
+          "The weather is sunny.",
+          "I forgot my keys."
+        ],
+        "answer": 0,
+        "explanation": "“I suggest that…” යෝජනාවක් ආචාරශීලීව ඉදිරිපත් කරයි."
+      },
+      {
+        "prompt": "සංවාදයකදී හොඳම ප්‍රතිචාරය කුමක්ද?",
+        "options": [
+          "කරුණු පරීක්ෂා කර විකල්ප සසඳමු.",
+          "මට කිසිවක් අසන්න අවශ්‍ය නැහැ.",
+          "අපි සාකච්ඡාව නවත්වමු."
+        ],
+        "answer": 0,
+        "explanation": "කරුණු සහ විකල්ප සලකා බැලීම B2 මට්ටමේ සාකච්ඡා කුසලතාවකි."
+      },
+      {
+        "prompt": "Choose the best way to express a conditional outcome.",
+        "options": [
+          "If the circumstances change, we will adjust our plan.",
+          "Yesterday is a colour.",
+          "Because quickly table."
+        ],
+        "answer": 0,
+        "explanation": "If-clause එකෙන් කොන්දේසිය සහ එහි ප්‍රතිඵලය සම්බන්ධ කරයි."
+      }
+    ]
+  },
+  {
+    "id": "en-b2-l40",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · Lesson 40 · විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම්",
+    "objective": "නව තාක්ෂණයක ප්‍රතිලාභ, අවදානම් සහ සදාචාර සීමා තක්සේරු කරන්න.",
+    "vocabulary": [
+      {
+        "word": "ethics",
+        "reading": "කොන්ට්‍රැක්ට්",
+        "meaning": "සදාචාරය",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "accountability",
+        "reading": "ක්ලෝස්",
+        "meaning": "වගවීම",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "transparency",
+        "reading": "ඩෙඩ්ලයින්",
+        "meaning": "විනිවිදභාවය",
+        "example": "The decision should be clear, consistent and well explained.",
+        "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "translation": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "algorithm",
+        "reading": "නිගෝෂියේට්",
+        "meaning": "ඇල්ගොරිතමය",
+        "example": "If the circumstances change, we will adjust our plan.",
+        "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "translation": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "consent",
+        "reading": "ප්‍රපෝසල්",
+        "meaning": "අනුමැතිය",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "impact",
+        "reading": "කොම්ප්‍රමයිස්",
+        "meaning": "බලපෑම",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "oversight",
+        "reading": "ලයබල්",
+        "meaning": "අධීක්ෂණය",
+        "example": "The decision should be clear, consistent and well explained.",
+        "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "translation": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "safeguard",
+        "reading": "රිනිවල්",
+        "meaning": "ආරක්ෂක පියවර",
+        "example": "If the circumstances change, we will adjust our plan.",
+        "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "translation": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "grammarTitle": "Evaluative language and qualified conclusions",
+    "grammar": "Evaluative language and qualified conclusions: The technology may bring benefits, provided that it is used responsibly. මෙම රටාව නිවැරදි සන්දර්භයක භාවිතා කරමින් අදහස් වඩාත් නිවැරදිව හා ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "text": "The technology may bring benefits, provided that it is used responsibly.",
+        "reading": "ඉෆ් යූ ඇක්සෙප්ට් දිස් කන්ඩිෂන්, වී කෑන් සයින් දි කන්ට්‍රැක්ට්.",
+        "meaning": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම්"
+      }
+    ],
+    "examples": [
+      {
+        "text": "It is important to consider all the relevant facts.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "meaning": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I suggest that we compare several possible solutions.",
+        "reading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "meaning": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "The decision should be clear, consistent and well explained.",
+        "reading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
+        "meaning": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "If the circumstances change, we will adjust our plan.",
+        "reading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
+        "meaning": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "How would you assess the current situation?",
+        "reading": "හවු වුඩ් යූ අසෙස් දි කරන්ට් සිචුවේෂන්?",
+        "meaning": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I would first check the available information.",
+        "reading": "අයි වුඩ් ෆර්ස්ට් චෙක් දි අවේලබල් ඉන්ෆොමේෂන්.",
+        "meaning": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "I agree, but we should also consider the costs.",
+        "reading": "අයි අග්‍රී, බට් වී ෂුඩ් ඕල්සෝ කන්සිඩර් දි කොස්ට්ස්.",
+        "meaning": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "text": "Then we can suggest a balanced solution.",
+        "reading": "දෙන් වී කෑන් සජෙස්ට් අ බැලන්ස්ඩ් සොලූෂන්.",
+        "meaning": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "හඬ අසා නිවැරදි සිංහල අර්ථය තෝරන්න.",
+      "audio": "The technology may bring benefits, provided that it is used responsibly.",
+      "reading": "ඉෆ් යූ ඇක්සෙප්ට් දිස් කන්ඩිෂන්, වී කෑන් සයින් දි කන්ට්‍රැක්ට්.",
+      "options": [
+        "මෙම කොන්දේසිය පිළිගත්තොත් අපට ගිවිසුම අත්සන් කළ හැකියි.",
+        "අපි හෙට ගමනක් යනවා.",
+        "කාලගුණය අද ඉතා හොඳයි."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම්: Choose the correct sentence.",
+        "options": [
+          "The technology may bring benefits, provided that it is used responsibly.",
+          "අපි හෙට ගමනක් යනවා.",
+          "කාලගුණය අද ඉතා හොඳයි."
+        ],
+        "answer": 0,
+        "explanation": "මෙය විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් සන්දර්භයට ගැළපෙන නිවැරදි වාක්‍යයයි."
+      },
+      {
+        "prompt": "Which expression introduces a careful suggestion?",
+        "options": [
+          "I suggest that we compare the options.",
+          "The weather is sunny.",
+          "I forgot my keys."
+        ],
+        "answer": 0,
+        "explanation": "“I suggest that…” යෝජනාවක් ආචාරශීලීව ඉදිරිපත් කරයි."
+      },
+      {
+        "prompt": "සංවාදයකදී හොඳම ප්‍රතිචාරය කුමක්ද?",
+        "options": [
+          "කරුණු පරීක්ෂා කර විකල්ප සසඳමු.",
+          "මට කිසිවක් අසන්න අවශ්‍ය නැහැ.",
+          "අපි සාකච්ඡාව නවත්වමු."
+        ],
+        "answer": 0,
+        "explanation": "කරුණු සහ විකල්ප සලකා බැලීම B2 මට්ටමේ සාකච්ඡා කුසලතාවකි."
+      },
+      {
+        "prompt": "Choose the best way to express a conditional outcome.",
+        "options": [
+          "If the circumstances change, we will adjust our plan.",
+          "Yesterday is a colour.",
+          "Because quickly table."
+        ],
+        "answer": 0,
+        "explanation": "If-clause එකෙන් කොන්දේසිය සහ එහි ප්‍රතිඵලය සම්බන්ධ කරයි."
       }
     ]
   }
