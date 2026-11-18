@@ -100,3 +100,15 @@ export const C1_BATCH_11_20_STATUS = {
   remainingC1Lessons: 30,
   remainingValidation: ["fluent Serbian and English review", "Sinhala pronunciation and translation review", "cumulative C1 revision and practice final assessment", "CI and Android device verification"]
 };
+
+
+// C1 paired lesson batch 21–30: authored for both language tracks.
+export const C1_BATCH_21_30_STATUS = {
+  completed: true,
+  lessons: { Serbian: 30, English: 30 },
+  pairedLessons: 30,
+  totalAuthoredC1Records: 60,
+  nextBatch: "C1 lessons 31–40",
+  remainingC1Lessons: 20,
+  remainingValidation: ["fluent Serbian and English review", "review approximate Sinhala-script readings and translations", "add cumulative C1 revision and practice final assessment", "CI and Android device verification"]
+};
