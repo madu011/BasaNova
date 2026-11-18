@@ -389,4 +389,54 @@ export const ENGLISH_A1_LESSONS = [
   ]
  }
 
+ ,
+ {
+  id:"en-a1-u3-l3",
+  unit:"වෙළඳපොළ සහ ප්‍රමාණ",
+  title:"පාඩම 13 · වෙළඳපොළේ පලතුරු සහ එළවළු මිලදී ගැනීම",
+  objective:"වෙළඳපොළක පලතුරු හා එළවළු ඉල්ලීම, කිලෝ ප්‍රමාණ පැවසීම, මිල විමසීම සහ මිලදී ගැනීම අවසන් කිරීම.",
+  vocabulary:[
+   {word:"A kilogram",reading:"අ කිලෝග්‍රෑම්",meaning:"කිලෝග්‍රෑමයක්",example:"One kilogram of apples, please.",exampleReading:"වන් කිලෝග්‍රෑම් අව් ඇපල්ස්, ප්ලීස්.",translation:"ඇපල් කිලෝ එකක්, කරුණාකර."},
+   {word:"Half a kilo",reading:"හාෆ් අ කිලෝ",meaning:"කිලෝ භාගයක්",example:"Half a kilo of tomatoes, please.",exampleReading:"හාෆ් අ කිලෝ අව් ටුමාටෝස්, ප්ලීස්.",translation:"තක්කාලි කිලෝ භාගයක්, කරුණාකර."},
+   {word:"Apples",reading:"ඇපල්ස්",meaning:"ඇපල්",example:"Are these apples fresh?",exampleReading:"ආර් දීස් ඇපල්ස් ෆ්‍රෙෂ්?",translation:"මේ ඇපල් නැවුම්ද?"},
+   {word:"Tomatoes",reading:"ටුමාටෝස්",meaning:"තක්කාලි",example:"I need one kilo of tomatoes.",exampleReading:"අයි නීඩ් වන් කිලෝ අව් ටුමාටෝස්.",translation:"මට තක්කාලි කිලෝ එකක් අවශ්‍යයි."},
+   {word:"Potatoes",reading:"පටේටෝස්",meaning:"අර්තාපල්",example:"Two kilos of potatoes, please.",exampleReading:"ටූ කිලෝස් අව් පටේටෝස්, ප්ලීස්.",translation:"අර්තාපල් කිලෝ දෙකක්, කරුණාකර."},
+   {word:"Onions",reading:"අන්යන්ස්",meaning:"ලූනු",example:"Do you have red onions?",exampleReading:"ඩූ යූ හැව් රෙඩ් අන්යන්ස්?",translation:"ඔබට රතු ලූනු තිබෙනවාද?"},
+   {word:"Cabbage",reading:"කැබිජ්",meaning:"ගෝවා",example:"One cabbage, please.",exampleReading:"වන් කැබිජ්, ප්ලීස්.",translation:"ගෝවා ගෙඩියක්, කරුණාකර."},
+   {word:"Fresh",reading:"ෆ්‍රෙෂ්",meaning:"නැවුම්",example:"I would like fresh vegetables.",exampleReading:"අයි වුඩ් ලයික් ෆ්‍රෙෂ් වෙජිටබල්ස්.",translation:"මට නැවුම් එළවළු අවශ්‍යයි."},
+   {word:"How much is a kilo?",reading:"හවු මච් ඉස් අ කිලෝ?",meaning:"කිලෝ එකක් කීයද?",example:"How much is a kilo of apples?",exampleReading:"හවු මච් ඉස් අ කිලෝ අව් ඇපල්ස්?",translation:"ඇපල් කිලෝ එකක් කීයද?"},
+   {word:"That's all",reading:"දැට්ස් ඕල්",meaning:"එච්චරයි / එපමණයි",example:"That's all, thank you.",exampleReading:"දැට්ස් ඕල්, තෑන්ක් යූ.",translation:"එච්චරයි, ස්තුතියි."}
+  ],
+  grammarTitle:"ව්‍යාකරණය · බර සහ ප්‍රමාණ කියන රටා",
+  grammar:"ප්‍රමාණයක් ඉල්ලීමට “one kilogram of ...”, “half a kilo of ...”, “two kilos of ...” භාවිත කරන්න. කිලෝ එකක මිල අසන්න “How much is a kilo of ...?” කියන්න. මිලදී ගැනීම අවසන් කරන විට “That's all, thank you” යොදාගන්න.",
+  grammarTerms:[
+   {text:"One kilogram of apples.",reading:"වන් කිලෝග්‍රෑම් අව් ඇපල්ස්.",meaning:"ඇපල් කිලෝ එකක්."},
+   {text:"Half a kilo of tomatoes.",reading:"හාෆ් අ කිලෝ අව් ටුමාටෝස්.",meaning:"තක්කාලි කිලෝ භාගයක්."},
+   {text:"Two kilos of potatoes.",reading:"ටූ කිලෝස් අව් පටේටෝස්.",meaning:"අර්තාපල් කිලෝ දෙකක්."},
+   {text:"How much is a kilo of ...?",reading:"හවු මච් ඉස් අ කිලෝ අව් ...?",meaning:"... කිලෝ එකක් කීයද?"},
+   {text:"That's all, thank you.",reading:"දැට්ස් ඕල්, තෑන්ක් යූ.",meaning:"එච්චරයි, ස්තුතියි."}
+  ],
+  examples:[
+   {text:"Good morning. One kilogram of apples, please.",reading:"ගුඩ් මෝර්නින්. වන් කිලෝග්‍රෑම් අව් ඇපල්ස්, ප්ලීස්.",meaning:"සුබ උදෑසනක්. ඇපල් කිලෝ එකක්, කරුණාකර."},
+   {text:"Half a kilo of tomatoes and two kilos of potatoes.",reading:"හාෆ් අ කිලෝ අව් ටුමාටෝස් ඇන්ඩ් ටූ කිලෝස් අව් පටේටෝස්.",meaning:"තක්කාලි කිලෝ භාගයක් සහ අර්තාපල් කිලෝ දෙකක්."},
+   {text:"How much is a kilo of apples?",reading:"හවු මච් ඉස් අ කිලෝ අව් ඇපල්ස්?",meaning:"ඇපල් කිලෝ එකක් කීයද?"},
+   {text:"That's all, thank you. How much is it altogether?",reading:"දැට්ස් ඕල්, තෑන්ක් යූ. හවු මච් ඉස් ඉට් ඕල්ටුගෙදර්?",meaning:"එච්චරයි, ස්තුතියි. මුළු ගාණ කීයද?"}
+  ],
+  dialogue:[
+   {text:"Good morning! What would you like?",reading:"ගුඩ් මෝර්නින්! වොට් වුඩ් යූ ලයික්?",meaning:"සුබ උදෑසනක්! ඔබට මොනවාද අවශ්‍ය?"},
+   {text:"One kilogram of apples and half a kilo of tomatoes, please.",reading:"වන් කිලෝග්‍රෑම් අව් ඇපල්ස් ඇන්ඩ් හාෆ් අ කිලෝ අව් ටුමාටෝස්, ප්ලීස්.",meaning:"ඇපල් කිලෝ එකක් සහ තක්කාලි කිලෝ භාගයක්, කරුණාකර."},
+   {text:"Would you like anything else?",reading:"වුඩ් යූ ලයික් එනිතිං එල්ස්?",meaning:"ඔබට තව මොනවාහරි අවශ්‍යද?"},
+   {text:"Yes, two kilos of potatoes.",reading:"යෙස්, ටූ කිලෝස් අව් පටේටෝස්.",meaning:"ඔව්, අර්තාපල් කිලෝ දෙකක්."},
+   {text:"That's all. The total is five hundred dinars.",reading:"දැට්ස් ඕල්. ද ටෝටල් ඉස් ෆයිව් හන්ඩ්‍රඩ් ඩිනාර්ස්.",meaning:"එච්චරයි. මුළු ගාණ ඩිනාර් පන්සියයයි."},
+   {text:"Here you are. Thank you, goodbye!",reading:"හියර් යූ ආර්. තෑන්ක් යූ, ගුඩ්බායි!",meaning:"මෙන්න. ස්තුතියි, නැවත හමුවෙමු!"}
+  ],
+  listeningPractice:{prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Half a kilo of tomatoes, please.”",audio:"Half a kilo of tomatoes, please.",options:["තක්කාලි කිලෝ භාගයක්, කරුණාකර.","ඇපල් කිලෝ එකක්, කරුණාකර.","අර්තාපල් කිලෝ දෙකක්, කරුණාකර."],readings:["හාෆ් අ කිලෝ අව් ටුමාටෝස්, ප්ලීස්.","වන් කිලෝග්‍රෑම් අව් ඇපල්ස්, ප්ලීස්.","ටූ කිලෝස් අව් පටේටෝස්, ප්ලීස්."],answer:0,meaning:"Half a kilo of tomatoes, please. = තක්කාලි කිලෝ භාගයක්, කරුණාකර."},
+  practice:[
+   {prompt:"“ඇපල් කිලෝ එකක්” කියන්නේ?",options:["One kilogram of apples.","Half a kilo of tomatoes.","Two kilos of potatoes."],readings:["වන් කිලෝග්‍රෑම් අව් ඇපල්ස්.","හාෆ් අ කිලෝ අව් ටුමාටෝස්.","ටූ කිලෝස් අව් පටේටෝස්."],answer:0,explanation:"One kilogram of apples = ඇපල් කිලෝ එකක්."},
+   {prompt:"“කිලෝ භාගයක්” තෝරන්න.",options:["Two kilos","Half a kilo","One kilogram"],readings:["ටූ කිලෝස්","හාෆ් අ කිලෝ","වන් කිලෝග්‍රෑම්"],answer:1,explanation:"Half a kilo යනු කිලෝ භාගයක්."},
+   {prompt:"කිලෝ එකක මිල අසන ප්‍රශ්නය?",options:["How much is a kilo of apples?","Where is the station?","What time is it?"],readings:["හවු මච් ඉස් අ කිලෝ අව් ඇපල්ස්?","වෙයාර් ඉස් ද ස්ටේෂන්?","වොට් ටයිම් ඉස් ඉට්?"],answer:0,explanation:"How much is a kilo of ...? යනු කිලෝ එකක මිල අසන රටාවයි."},
+   {prompt:"“එච්චරයි, ස්තුතියි” කියන්නේ?",options:["Would you like anything else?","That's all, thank you.","I don't understand."],readings:["වුඩ් යූ ලයික් එනිතිං එල්ස්?","දැට්ස් ඕල්, තෑන්ක් යූ.","අයි ඩෝන්ට් අන්ඩර්ස්ටෑන්ඩ්."],answer:1,explanation:"That's all = එච්චරයි; thank you = ස්තුතියි."}
+  ]
+ }
+
 ];
