@@ -2043,4 +2043,112 @@ practice:[
 {prompt:"“සිකුරාදා මට ගැළපෙනවා” කියන්නේ?",options:["Petak mi odgovara.","Petak mi ne treba.","Petak je hladan."],answer:0,explanation:"Petak mi odgovara = සිකුරාදා මට ගැළපෙනවා."},
 {prompt:"“මට හමුවීමක් වෙන්කරගන්න ඕනේ” තෝරන්න.",options:["Želim da zakažem sastanak.","Želim da idem kući.","Želim da promenim posao."],answer:0,explanation:"Želim da zakažem sastanak = මට හමුවීමක් වෙන්කරගන්න ඕනේ."}]}
 
+ // Paired A1 completion batch — lessons 40–42
+ ,{id:"sr-a1-u14-l1",unit:"Куповина и свакодневне услуге",title:"පාඩම 40 · සුපිරි වෙළඳසැලේ බිල් ගෙවීම",objective:"කැෂියර් අසලදී භාණ්ඩ, බෑග්, ගෙවීම සහ රිසිට්පත ගැන සරලව කතා කිරීම.",
+ vocabulary:[
+ {word:"Kasa",reading:"කාසා",meaning:"මුදල් අයකැමි කවුළුව",example:"Gde je kasa?",exampleReading:"ග්දේ යේ කාසා?",translation:"කැෂියර් කවුළුව කොහෙද?"},
+ {word:"Kasir",reading:"කාසීර්",meaning:"මුදල් අයකැමි",example:"Kasir je ljubazan.",exampleReading:"කාසීර් යේ ලුබාසාන්.",translation:"මුදල් අයකැමියා සුහදශීලියි."},
+ {word:"Kesa",reading:"කෙසා",meaning:"බෑගය",example:"Treba mi kesa.",exampleReading:"ත්‍රෙබා මි කෙසා.",translation:"මට බෑගයක් ඕනේ."},
+ {word:"Gotovina",reading:"ගොතොවිනා",meaning:"මුදල්",example:"Plaćam gotovinom.",exampleReading:"ප්ලාචාම් ගොතොවිනොම්.",translation:"මම මුදලින් ගෙවනවා."},
+ {word:"Kartica",reading:"කාර්තිත්සා",meaning:"කාඩ්පත",example:"Plaćam karticom.",exampleReading:"ප්ලාචාම් කාර්තිත්සොම්.",translation:"මම කාඩ්පතෙන් ගෙවනවා."},
+ {word:"Račun",reading:"රාචුන්",meaning:"රිසිට්පත / බිල",example:"Molim vas, račun.",exampleReading:"මොලීම් වාස්, රාචුන්.",translation:"කරුණාකර බිල දෙන්න."},
+ {word:"Kusur",reading:"කුසූර්",meaning:"ඉතිරි මුදල්",example:"Koliki je kusur?",exampleReading:"කොලිකි යේ කුසූර්?",translation:"ඉතිරි මුදල කීයද?"},
+ {word:"Ukupno",reading:"උකුප්නො",meaning:"මුළු එකතුව",example:"Koliko je ukupno?",exampleReading:"කොලිකො යේ උකුප්නො?",translation:"මුළු එකතුව කීයද?"}],
+ grammarTitle:"ව්‍යාකරණය · ගෙවීමේදී භාවිත කරන වාක්‍ය",
+ grammar:"“Plaćam karticom” යනු කාඩ්පතෙන් ගෙවන බවයි. “Plaćam gotovinom” යනු මුදලින් ගෙවීමයි. “Koliko je ukupno?” යනුවෙන් මුළු මිල අසන්න. “Treba mi...” යනු මට ... අවශ්‍යයි.",
+ grammarTerms:[
+ {sr:"Plaćam karticom.",reading:"ප්ලාචාම් කාර්තිත්සොම්.",si:"මම කාඩ්පතෙන් ගෙවනවා."},
+ {sr:"Plaćam gotovinom.",reading:"ප්ලාචාම් ගොතොවිනොම්.",si:"මම මුදලින් ගෙවනවා."},
+ {sr:"Koliko je ukupno?",reading:"කොලිකො යේ උකුප්නො?",si:"මුළු එකතුව කීයද?"},
+ {sr:"Treba mi kesa.",reading:"ත්‍රෙබා මි කෙසා.",si:"මට බෑගයක් ඕනේ."}],
+ examples:[
+ {sr:"Gde je kasa?",reading:"ග්දේ යේ කාසා?",si:"කැෂියර් කවුළුව කොහෙද?"},
+ {sr:"Plaćam karticom, molim.",reading:"ප්ලාචාම් කාර්තිත්සොම්, මොලීම්.",si:"මම කාඩ්පතෙන් ගෙවන්නම්, කරුණාකර."},
+ {sr:"Koliko je ukupno?",reading:"කොලිකො යේ උකුප්නො?",si:"මුළු එකතුව කීයද?"},
+ {sr:"Hvala, ne treba mi kesa.",reading:"හ්වාලා, නෙ ත්‍රෙබා මි කෙසා.",si:"ස්තුතියි, මට බෑගයක් අවශ්‍ය නැහැ."}],
+ dialogue:[
+ {sr:"Dobar dan. Da li imate kesu?",reading:"දොබාර් දාන්. දා ලි ඉමාතෙ කෙසු?",si:"සුබ දවසක්. ඔබට බෑගයක් තියෙනවාද?"},
+ {sr:"Da, izvolite.",reading:"දා, ඉස්වොලිතෙ.",si:"ඔව්, මෙන්න."},
+ {sr:"Koliko je ukupno?",reading:"කොලිකො යේ උකුප්නො?",si:"මුළු එකතුව කීයද?"},
+ {sr:"Ukupno je hiljadu dinara.",reading:"උකුප්නො යේ හිල්යාදු දිනාරා.",si:"මුළු එකතුව ඩිනාර් දහසයි."},
+ {sr:"Mogu li da platim karticom?",reading:"මොගු ලි දා ප්ලාතිම් කාර්තිත්සොම්?",si:"මට කාඩ්පතෙන් ගෙවන්න පුළුවන්ද?"},
+ {sr:"Naravno. Hvala i prijatno!",reading:"නාරාව්නො. හ්වාලා ඉ ප්‍රියාත්නො!",si:"අනිවාර්යයෙන්. ස්තුතියි, සුබ දවසක්!"}],
+ listeningPractice:{prompt:"හඬ අසා නිවැරදි තේරුම තෝරන්න: “Plaćam karticom.”",audio:"Plaćam karticom.",options:["මම කාඩ්පතෙන් ගෙවනවා.","මට බෑගයක් ඕනේ.","මුළු එකතුව කීයද?"],readings:["ප්ලාචාම් කාර්තිත්සොම්.","ත්‍රෙබා මි කෙසා.","කොලිකො යේ උකුප්නො?"],answer:0,meaning:"Plaćam karticom = මම කාඩ්පතෙන් ගෙවනවා."},
+ practice:[
+ {prompt:"“කාඩ්පත” යන වචනය තෝරන්න.",options:["Kartica","Kesa","Kasa"],answer:0,explanation:"Kartica = කාඩ්පත."},
+ {prompt:"“මුළු එකතුව කීයද?” තෝරන්න.",options:["Koliko je ukupno?","Gde je kasa?","Ko je kasir?"],answer:0,explanation:"Koliko je ukupno? = මුළු එකතුව කීයද?"},
+ {prompt:"“මම මුදලින් ගෙවනවා” කියන්නේ?",options:["Plaćam gotovinom.","Plaćam karticom.","Treba mi račun."],answer:0,explanation:"Gotovinom = මුදලින්."},
+ {prompt:"“ඉතිරි මුදල්” යන වචනය?",options:["Kusur","Ukupno","Kasir"],answer:0,explanation:"Kusur = ඉතිරි මුදල්."}]}
+ ,{id:"sr-a1-u14-l2",unit:"Град и сналажење",title:"පාඩම 41 · නගරයේ ස්ථාන සහ දිශා",objective:"නගරයේ පොදු ස්ථාන හඳුනාගෙන ඒවාට යන මාර්ගය සරලව විමසීම.",
+ vocabulary:[
+ {word:"Centar",reading:"ත්සෙන්තාර්",meaning:"නගර මධ්‍යය",example:"Gde je centar?",exampleReading:"ග්දේ යේ ත්සෙන්තාර්?",translation:"නගර මධ්‍යය කොහෙද?"},
+ {word:"Ulica",reading:"උලිත්සා",meaning:"වීදිය",example:"Ova ulica je duga.",exampleReading:"ඔවා උලිත්සා යේ දුගා.",translation:"මේ වීදිය දිගයි."},
+ {word:"Trg",reading:"ත්‍ර්ග්",meaning:"චතුරශ්‍රය",example:"Trg je blizu.",exampleReading:"ත්‍ර්ග් යේ බ්ලිසු.",translation:"චතුරශ්‍රය ළඟයි."},
+ {word:"Most",reading:"මොස්ත්",meaning:"පාලම",example:"Most je preko reke.",exampleReading:"මොස්ත් යේ ප්‍රෙකො රෙකෙ.",translation:"පාලම ගඟට එහා පැත්තේ."},
+ {word:"Apoteka",reading:"අපොතෙකා",meaning:"ඖෂධහල",example:"Apoteka je tamo.",exampleReading:"අපොතෙකා යේ තාමො.",translation:"ඖෂධහල එතැනයි."},
+ {word:"Banka",reading:"බාන්කා",meaning:"බැංකුව",example:"Banka je u centru.",exampleReading:"බාන්කා යේ උ ත්සෙන්ත්‍රු.",translation:"බැංකුව මධ්‍යයේ තියෙනවා."},
+ {word:"Blizu",reading:"බ්ලිසු",meaning:"ළඟ",example:"Stanica je blizu.",exampleReading:"ස්තානිත්සා යේ බ්ලිසු.",translation:"නැවතුම්පොළ ළඟයි."},
+ {word:"Daleko",reading:"දලෙකො",meaning:"දුර",example:"Nije daleko.",exampleReading:"නියේ දලෙකො.",translation:"දුර නැහැ."}],
+ grammarTitle:"ව්‍යාකරණය · ස්ථානයක් විස්තර කිරීම",
+ grammar:"“Gde je...?” යනු ... කොහෙද? යන්නයි. “blizu” ළඟ යන අර්ථය දෙන අතර “daleko” දුර යන්නයි. “Idite pravo” යනු කෙළින් යන්න; “skrenite levo/desno” යනු වමට/දකුණට හැරෙන්න.",
+ grammarTerms:[
+ {sr:"Gde je apoteka?",reading:"ග්දේ යේ අපොතෙකා?",si:"ඖෂධහල කොහෙද?"},
+ {sr:"Blizu je.",reading:"බ්ලිසු යේ.",si:"එය ළඟයි."},
+ {sr:"Nije daleko.",reading:"නියේ දලෙකො.",si:"දුර නැහැ."},
+ {sr:"Idite pravo.",reading:"ඉදිතෙ ප්‍රාවො.",si:"කෙළින් යන්න."}],
+ examples:[
+ {sr:"Banka je u centru.",reading:"බාන්කා යේ උ ත්සෙන්ත්‍රු.",si:"බැංකුව නගර මධ්‍යයේ තියෙනවා."},
+ {sr:"Apoteka je blizu trga.",reading:"අපොතෙකා යේ බ්ලිසු ත්‍ර්ගා.",si:"ඖෂධහල චතුරශ්‍රය ළඟයි."},
+ {sr:"Most je preko reke.",reading:"මොස්ත් යේ ප්‍රෙකො රෙකෙ.",si:"පාලම ගඟට එහා පැත්තේ."},
+ {sr:"Stanica nije daleko.",reading:"ස්තානිත්සා නියේ දලෙකො.",si:"නැවතුම්පොළ දුර නැහැ."}],
+ dialogue:[
+ {sr:"Izvinite, gde je apoteka?",reading:"ඉස්විණිතෙ, ග්දේ යේ අපොතෙකා?",si:"සමාවෙන්න, ඖෂධහල කොහෙද?"},
+ {sr:"Idite pravo do trga.",reading:"ඉදිතෙ ප්‍රාවො දො ත්‍ර්ගා.",si:"චතුරශ්‍රය දක්වා කෙළින් යන්න."},
+ {sr:"Da li je daleko?",reading:"දා ලි යේ දලෙකො?",si:"ඒක දුරද?"},
+ {sr:"Ne, veoma je blizu.",reading:"නෙ, වෙඔමා යේ බ්ලිසු.",si:"නැහැ, ඉතා ළඟයි."},
+ {sr:"Da li je pored banke?",reading:"දා ලි යේ පොරෙද් බාන්කෙ?",si:"එය බැංකුව අසලද?"},
+ {sr:"Da, preko puta banke.",reading:"දා, ප්‍රෙකො පුතා බාන්කෙ.",si:"ඔව්, බැංකුවට ඉදිරිපස."}],
+ listeningPractice:{prompt:"හඬ අසා නිවැරදි තේරුම තෝරන්න: “Nije daleko.”",audio:"Nije daleko.",options:["දුර නැහැ.","ඉතා දුරයි.","වමට හැරෙන්න."],readings:["නියේ දලෙකො.","වෙඔමා යේ දලෙකො.","ස්ක්‍රෙනිතෙ ලෙවො."],answer:0,meaning:"Nije daleko = දුර නැහැ."},
+ practice:[
+ {prompt:"“ඖෂධහල” යන වචනය?",options:["Apoteka","Banka","Ulica"],answer:0,explanation:"Apoteka = ඖෂධහල."},
+ {prompt:"“ළඟ” යන අර්ථය?",options:["Blizu","Daleko","Centar"],answer:0,explanation:"Blizu = ළඟ."},
+ {prompt:"“නගර මධ්‍යය කොහෙද?” කියන්නේ?",options:["Gde je centar?","Gde je most?","Gde je banka?"],answer:0,explanation:"Gde je centar? = නගර මධ්‍යය කොහෙද?"},
+ {prompt:"“දුර නැහැ” තෝරන්න.",options:["Nije daleko.","Veoma je daleko.","Ulica je duga."],answer:0,explanation:"Nije daleko = දුර නැහැ."}]}
+ ,{id:"sr-a1-u14-l3",unit:"Безбедност на послу",title:"පාඩම 42 · වැඩබිමේ ආරක්ෂාව සහ උපදෙස්",objective:"සරල ආරක්ෂක උපදෙස් තේරුම්ගෙන අවදානමක් ඇති විට උදව් ඉල්ලීම.",
+ vocabulary:[
+ {word:"Pažljivo",reading:"පාෂ්ලිවො",meaning:"පරිස්සමින්",example:"Radite pažljivo.",exampleReading:"රාදිතෙ පාෂ්ලිවො.",translation:"පරිස්සමින් වැඩ කරන්න."},
+ {word:"Opasno",reading:"ඔපාස්නො",meaning:"අනතුරුදායකයි",example:"Ovo je opasno.",exampleReading:"ඔවො යේ ඔපාස්නො.",translation:"මේක අනතුරුදායකයි."},
+ {word:"Rukavice",reading:"රුකාවිත්සේ",meaning:"අත්වැසුම්",example:"Nosite rukavice.",exampleReading:"නොසිටෙ රුකාවිත්සේ.",translation:"අත්වැසුම් පළඳින්න."},
+ {word:"Zaštita",reading:"ෂ්තිතා",meaning:"ආරක්ෂාව",example:"Zaštita je važna.",exampleReading:"ෂ්තිතා යේ වාෂ්නා.",translation:"ආරක්ෂාව වැදගත්."},
+ {word:"Pod",reading:"පොද්",meaning:"බිම",example:"Pod je mokar.",exampleReading:"පොද් යේ මොකාර්.",translation:"බිම තෙතයි."},
+ {word:"Klizavo",reading:"ක්ලිසාවො",meaning:"ලිස්සන සුළු",example:"Pod je klizav.",exampleReading:"පොද් යේ ක්ලිසාව්.",translation:"බිම ලිස්සන සුළුයි."},
+ {word:"Pomoć",reading:"පොමොච්",meaning:"උදව්",example:"Treba mi pomoć.",exampleReading:"ත්‍රෙබා මි පොමොච්.",translation:"මට උදව් අවශ්‍යයි."},
+ {word:"Šef",reading:"ෂෙෆ්",meaning:"ප්‍රධානියා",example:"Pozovite šefa.",exampleReading:"පොසොවිතෙ ෂෙෆා.",translation:"ප්‍රධානියාට කතා කරන්න."}],
+ grammarTitle:"ව්‍යාකරණය · උපදෙස් සහ අනතුරු ඇඟවීම්",
+ grammar:"“Morate...” යනු ඔබ කළ යුතුයි යන්නයි. “Nemojte...” යනු එය කරන්න එපා යන්නයි. “Pazite!” යනු පරිස්සම් වෙන්න! යන්නයි. අවශ්‍යතාවයක් කියන්න “Treba mi pomoć” භාවිත කරන්න.",
+ grammarTerms:[
+ {sr:"Morate nositi rukavice.",reading:"මොරატෙ නොසිති රුකාවිත්සේ.",si:"ඔබ අත්වැසුම් පැළඳිය යුතුයි."},
+ {sr:"Nemojte trčati.",reading:"නෙමොයිතෙ ත්‍ර්චාති.",si:"දුවන්න එපා."},
+ {sr:"Pazite!",reading:"පාසිටෙ!",si:"පරිස්සම් වෙන්න!"},
+ {sr:"Treba mi pomoć.",reading:"ත්‍රෙබා මි පොමොච්.",si:"මට උදව් අවශ්‍යයි."}],
+ examples:[
+ {sr:"Pod je mokar.",reading:"පොද් යේ මොකාර්.",si:"බිම තෙතයි."},
+ {sr:"Radite pažljivo.",reading:"රාදිතෙ පාෂ්ලිවො.",si:"පරිස්සමින් වැඩ කරන්න."},
+ {sr:"Ovo je opasno.",reading:"ඔවො යේ ඔපාස්නො.",si:"මේක අනතුරුදායකයි."},
+ {sr:"Molim vas, pozovite šefa.",reading:"මොලීම් වාස්, පොසොවිතෙ ෂෙෆා.",si:"කරුණාකර ප්‍රධානියාට කතා කරන්න."}],
+ dialogue:[
+ {sr:"Pazite! Pod je mokar.",reading:"පාසිටෙ! පොද් යේ මොකාර්.",si:"පරිස්සම් වෙන්න! බිම තෙතයි."},
+ {sr:"Hvala. Šta treba da uradim?",reading:"හ්වාලා. ෂ්තා ත්‍රෙබා දා උරාදිම්?",si:"ස්තුතියි. මම මොකක්ද කරන්න ඕනේ?"},
+ {sr:"Stavite znak i očistite pod.",reading:"ස්තාවිතෙ ස්නාක් ඉ ඔචිස්තිතෙ පොද්.",si:"සලකුණක් දමා බිම පිරිසිදු කරන්න."},
+ {sr:"Da li treba da nosim rukavice?",reading:"දා ලි ත්‍රෙබා දා නොසිම් රුකාවිත්සේ?",si:"මම අත්වැසුම් පැළඳිය යුතුද?"},
+ {sr:"Da, morate da ih nosite.",reading:"දා, මොරატෙ දා ඉහ නොසිටෙ.",si:"ඔව්, ඒවා පැළඳිය යුතුයි."},
+ {sr:"Razumem. Hvala na pomoći.",reading:"රාසුමෙම්. හ්වාලා නා පොමොචි.",si:"මට තේරුණා. උදව්වට ස්තුතියි."}],
+ listeningPractice:{prompt:"හඬ අසා නිවැරදි තේරුම තෝරන්න: “Pod je klizav.”",audio:"Pod je klizav.",options:["බිම ලිස්සන සුළුයි.","බිම වියළියි.","දොර වහන්න."],readings:["පොද් යේ ක්ලිසාව්.","පොද් යේ සුහ්.","සාත්වොරිතෙ ව්‍රාතා."],answer:0,meaning:"Pod je klizav = බිම ලිස්සන සුළුයි."},
+ practice:[
+ {prompt:"“අත්වැසුම්” යන වචනය?",options:["Rukavice","Zaštita","Pomoć"],answer:0,explanation:"Rukavice = අත්වැසුම්."},
+ {prompt:"“පරිස්සමින්” කියන්නේ?",options:["Pažljivo","Opasno","Klizavo"],answer:0,explanation:"Pažljivo = පරිස්සමින්."},
+ {prompt:"“මට උදව් අවශ්‍යයි” තෝරන්න.",options:["Treba mi pomoć.","Ovo je opasno.","Pozovite šefa."],answer:0,explanation:"Treba mi pomoć = මට උදව් අවශ්‍යයි."},
+ {prompt:"“දුවන්න එපා” කියන්නේ?",options:["Nemojte trčati.","Radite pažljivo.","Nosite rukavice."],answer:0,explanation:"Nemojte trčati = දුවන්න එපා."}]}
+
+
 ];
