@@ -583,10 +583,10 @@ export default function App(){
     <Text style={s.sub}>සෑම ඉංග්‍රීසි වචනයකටම සහ වාක්‍යයකටම සිංහල අකුරෙන් උච්චාරණය, සිංහල තේරුම සහ වෙනම හඬ පාලකය ඇතුළත්.</Text>
     {ENGLISH_A1_LESSONS.map((lesson,li)=>{
      const isExpanded=expandedLessonId===lesson.id;
-     const checkedCount=lesson.practice.filter((q,qi)=>lessonChecked[lesson.id+"-"+qi]).length;
+     const checkedCount=lesson.practice.filter((q,qi)=>lessonChecked[lesson.id+"-"+qi]).length+(lesson.listeningPractice&&lessonChecked[lesson.id+"-listen"]?1:0);
      return <View key={lesson.id} style={s.lessonCard}>
       <TouchableOpacity activeOpacity={0.8} onPress={()=>setExpandedLessonId(isExpanded?null:lesson.id)} style={{paddingVertical:4}}>
-       <Text style={s.eyebrow}>LESSON {li+1} · A1 · {checkedCount}/{lesson.practice.length} ප්‍රශ්න පරීක්ෂා කරලා</Text>
+       <Text style={s.eyebrow}>LESSON {li+1} · A1 · {checkedCount}/{lesson.practice.length+(lesson.listeningPractice?1:0)} ප්‍රශ්න පරීක්ෂා කරලා</Text>
        <View style={{flexDirection:"row",alignItems:"center",justifyContent:"space-between"}}><View style={{flex:1,paddingRight:10}}><Text style={s.cardTitle}>{lesson.title}</Text><Text style={s.sub}>අරමුණ: {lesson.objective}</Text></View><Text style={s.cardTitle}>{isExpanded?"⌃":"⌄"}</Text></View>
        <Text style={s.link}>{isExpanded?"පාඩම හකුළන්න":"පාඩම විවෘත කරන්න · වචන, ව්‍යාකරණ, සංවාද සහ ප්‍රශ්න"}</Text>
       </TouchableOpacity>
