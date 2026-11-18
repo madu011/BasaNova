@@ -6920,4 +6920,895 @@ export const ENGLISH_A2_LESSONS = [
     }
   ]
 }
+,
+{
+  "id": "en-a2-l41",
+  "unit": "ආරාධනා කිරීම සහ සැලසුම් සකස් කිරීම",
+  "title": "A2 · Lesson 41 · Invitations and making plans",
+  "objective": "මිතුරන්ට ආරාධනා කර වේලාවක් සහ ස්ථානයක් එකඟ කරගැනීම",
+  "vocabulary": [
+    {
+      "word": "invite",
+      "reading": "ඉන්වයිට්",
+      "meaning": "ආරාධනා කරන්න",
+      "example": "invite",
+      "translation": "ආරාධනා කරන්න",
+      "exampleReading": "ඉන්වයිට්"
+    },
+    {
+      "word": "available",
+      "reading": "අවේලබල්",
+      "meaning": "වෙලාව තිබෙන",
+      "example": "available",
+      "translation": "වෙලාව තිබෙන",
+      "exampleReading": "අවේලබල්"
+    },
+    {
+      "word": "arrangement",
+      "reading": "අරේන්ජ්මන්ට්",
+      "meaning": "සැලසුම් කළ එකඟතාව",
+      "example": "arrangement",
+      "translation": "සැලසුම් කළ එකඟතාව",
+      "exampleReading": "අරේන්ජ්මන්ට්"
+    },
+    {
+      "word": "suggest",
+      "reading": "සජෙස්ට්",
+      "meaning": "යෝජනා කරන්න",
+      "example": "suggest",
+      "translation": "යෝජනා කරන්න",
+      "exampleReading": "සජෙස්ට්"
+    },
+    {
+      "word": "suit",
+      "reading": "සූට්",
+      "meaning": "ගැළපෙන්න",
+      "example": "suit",
+      "translation": "ගැළපෙන්න",
+      "exampleReading": "සූට්"
+    },
+    {
+      "word": "Saturday",
+      "reading": "සැටර්ඩේ",
+      "meaning": "සෙනසුරාදා",
+      "example": "Saturday",
+      "translation": "සෙනසුරාදා",
+      "exampleReading": "සැටර්ඩේ"
+    },
+    {
+      "word": "later",
+      "reading": "ලේටර්",
+      "meaning": "පසුව",
+      "example": "later",
+      "translation": "පසුව",
+      "exampleReading": "ලේටර්"
+    },
+    {
+      "word": "cancel",
+      "reading": "කැන්සල්",
+      "meaning": "අවලංගු කරන්න",
+      "example": "cancel",
+      "translation": "අවලංගු කරන්න",
+      "exampleReading": "කැන්සල්"
+    }
+  ],
+  "grammarTitle": "Grammar",
+  "grammar": "Use “Would you like to…?” for an invitation and “How about…?” to suggest a time. Accept with “That sounds good” or decline politely with “I’m afraid I can’t.”",
+  "grammarTerms": [
+    {
+      "text": "Would you like to go to the cinema?",
+      "reading": "වුඩ් යූ ලයික් ටු ගෝ ටු ද සිනමා?",
+      "meaning": "ඔයා සිනමාහලට යන්න කැමතිද?"
+    }
+  ],
+  "examples": [
+    {
+      "text": "Would you like to go to the cinema?",
+      "reading": "වුඩ් යූ ලයික් ටු ගෝ ටු ද සිනමා?",
+      "meaning": "ඔයා සිනමාහලට යන්න කැමතිද?"
+    },
+    {
+      "text": "I’m available on Saturday.",
+      "reading": "අයිම් අවේලබල් ඔන් සැටර්ඩේ.",
+      "meaning": "මට සෙනසුරාදා වෙලාව තිබෙනවා."
+    },
+    {
+      "text": "We can meet at six.",
+      "reading": "වී කැන් මීට් ඇට් සික්ස්.",
+      "meaning": "අපි හයට හමුවෙමු."
+    },
+    {
+      "text": "That works for me.",
+      "reading": "දැට් වර්ක්ස් ෆෝර් මී.",
+      "meaning": "ඒ වේලාව මට ගැළපෙනවා."
+    }
+  ],
+  "dialogue": [
+    {
+      "text": "Are you free this evening?",
+      "reading": "ආර් යූ ෆ්‍රී දිස් ඊවිනිං?",
+      "meaning": "අද සවස ඔයාට වෙලාව තියෙනවද?"
+    },
+    {
+      "text": "Yes. What do you suggest?",
+      "reading": "යෙස්. වොට් ඩූ යූ සජෙස්ට්?",
+      "meaning": "ඔව්. ඔයා මොකක්ද යෝජනා කරන්නේ?"
+    },
+    {
+      "text": "We can have dinner at seven.",
+      "reading": "වී කැන් හැව් ඩිනර් ඇට් සෙවන්.",
+      "meaning": "අපි හතට රාත්‍රී කෑම ගමු."
+    },
+    {
+      "text": "Great, see you!",
+      "reading": "ග්‍රේට්, සී යූ!",
+      "meaning": "නියමයි, හමුවෙමු!"
+    }
+  ],
+  "listeningPractice": {
+    "prompt": "Listen and choose the meaning: “Would you like to go to the cinema?”",
+    "audio": "Would you like to go to the cinema?",
+    "reading": "වුඩ් යූ ලයික් ටු ගෝ ටු ද සිනමා?",
+    "options": [
+      "ඔයා සිනමාහලට යන්න කැමතිද?",
+      "මට සෙනසුරාදා වෙලාව තිබෙනවා.",
+      "අපි හයට හමුවෙමු."
+    ],
+    "answer": 0
+  },
+  "practice": [
+    {
+      "prompt": "Choose the meaning of “invite”.",
+      "options": [
+        "ආරාධනා කරන්න",
+        "අවලංගු කරන්න",
+        "පසුව"
+      ],
+      "answer": 0,
+      "explanation": "invite = ආරාධනා කරන්න"
+    },
+    {
+      "prompt": "Choose “I’m available on Saturday.”",
+      "options": [
+        "I’m available on Saturday.",
+        "I cancelled on Saturday.",
+        "I arrived yesterday."
+      ],
+      "answer": 0,
+      "explanation": "මට සෙනසුරාදා වෙලාව තිබෙනවා."
+    },
+    {
+      "prompt": "Choose a suitable invitation.",
+      "options": [
+        "Would you like to go to the cinema?",
+        "Where is the station?",
+        "I lost my ticket."
+      ],
+      "answer": 0,
+      "explanation": "Would you like to…? = ඔයා කැමතිද…?"
+    },
+    {
+      "prompt": "Choose “That works for me.”",
+      "options": [
+        "That works for me.",
+        "I don’t know the address.",
+        "I saw you yesterday."
+      ],
+      "answer": 0,
+      "explanation": "ඒ වේලාව මට ගැළපෙනවා."
+    }
+  ]
+},
+{
+  "id": "en-a2-l42",
+  "unit": "රැකියා අත්දැකීම් සහ සම්මුඛ පරීක්ෂණය",
+  "title": "A2 · Lesson 42 · Work experience and interviews",
+  "objective": "රැකියා අත්දැකීම්, කුසලතා සහ වගකීම් සරලව විස්තර කිරීම",
+  "vocabulary": [
+    {
+      "word": "experience",
+      "reading": "ඉක්ස්පීරියන්ස්",
+      "meaning": "අත්දැකීම",
+      "example": "experience",
+      "translation": "අත්දැකීම",
+      "exampleReading": "ඉක්ස්පීරියන්ස්"
+    },
+    {
+      "word": "employed",
+      "reading": "එම්ප්ලොයිඩ්",
+      "meaning": "රැකියාවක නිරත",
+      "example": "employed",
+      "translation": "රැකියාවක නිරත",
+      "exampleReading": "එම්ප්ලොයිඩ්"
+    },
+    {
+      "word": "skill",
+      "reading": "ස්කිල්",
+      "meaning": "කුසලතාව",
+      "example": "skill",
+      "translation": "කුසලතාව",
+      "exampleReading": "ස්කිල්"
+    },
+    {
+      "word": "responsibility",
+      "reading": "රිස්පොන්සිබිලිටි",
+      "meaning": "වගකීම",
+      "example": "responsibility",
+      "translation": "වගකීම",
+      "exampleReading": "රිස්පොන්සිබිලිටි"
+    },
+    {
+      "word": "apply",
+      "reading": "අප්ලයි",
+      "meaning": "අයදුම් කරන්න",
+      "example": "apply",
+      "translation": "අයදුම් කරන්න",
+      "exampleReading": "අප්ලයි"
+    },
+    {
+      "word": "interview",
+      "reading": "ඉන්ටර්වියූ",
+      "meaning": "සම්මුඛ සාකච්ඡාව",
+      "example": "interview",
+      "translation": "සම්මුඛ සාකච්ඡාව",
+      "exampleReading": "ඉන්ටර්වියූ"
+    },
+    {
+      "word": "shifts",
+      "reading": "ෂිෆ්ට්ස්",
+      "meaning": "වැඩ මුර",
+      "example": "shifts",
+      "translation": "වැඩ මුර",
+      "exampleReading": "ෂිෆ්ට්ස්"
+    },
+    {
+      "word": "reference",
+      "reading": "රෙෆරන්ස්",
+      "meaning": "නිර්දේශය",
+      "example": "reference",
+      "translation": "නිර්දේශය",
+      "exampleReading": "රෙෆරන්ස්"
+    }
+  ],
+  "grammarTitle": "Grammar",
+  "grammar": "Use the present perfect to describe experience that is relevant now: “I have worked in…”. Use “I was responsible for…” to explain duties and “I can…” to describe skills.",
+  "grammarTerms": [
+    {
+      "text": "I have three years of experience in sales.",
+      "reading": "අයි හැව් ත්‍රී යියර්ස් ඔෆ් එක්ස්පීරියන්ස් ඉන් සේල්ස්.",
+      "meaning": "විකිණීම් ක්ෂේත්‍රයේ මට අවුරුදු තුනක අත්දැකීම් තිබෙනවා."
+    }
+  ],
+  "examples": [
+    {
+      "text": "I have three years of experience in sales.",
+      "reading": "අයි හැව් ත්‍රී යියර්ස් ඔෆ් එක්ස්පීරියන්ස් ඉන් සේල්ස්.",
+      "meaning": "විකිණීම් ක්ෂේත්‍රයේ මට අවුරුදු තුනක අත්දැකීම් තිබෙනවා."
+    },
+    {
+      "text": "I worked in sales.",
+      "reading": "අයි වර්ක්ට් ඉන් සේල්ස්.",
+      "meaning": "මම විකිණීම් අංශයේ වැඩ කළා."
+    },
+    {
+      "text": "I was responsible for customers.",
+      "reading": "අයි වස් රිස්පොන්සිබල් ෆෝර් කස්ටමර්ස්.",
+      "meaning": "මම පාරිභෝගිකයන් පිළිබඳ වගකිවයුතු වුණා."
+    },
+    {
+      "text": "I can work shifts.",
+      "reading": "අයි කැන් වර්ක් ෂිෆ්ට්ස්.",
+      "meaning": "මට වැඩ මුරවල වැඩ කරන්න පුළුවන්."
+    }
+  ],
+  "dialogue": [
+    {
+      "text": "What experience do you have?",
+      "reading": "වොට් එක්ස්පීරියන්ස් ඩූ යූ හැව්?",
+      "meaning": "ඔබට මොන වගේ අත්දැකීම් තිබෙනවාද?"
+    },
+    {
+      "text": "I have experience in sales.",
+      "reading": "අයි හැව් එක්ස්පීරියන්ස් ඉන් සේල්ස්.",
+      "meaning": "මට විකිණීම් අත්දැකීම් තිබෙනවා."
+    },
+    {
+      "text": "What are your skills?",
+      "reading": "වොට් ආර් යුවර් ස්කිල්ස්?",
+      "meaning": "ඔබගේ කුසලතා මොනවාද?"
+    },
+    {
+      "text": "I communicate well with people.",
+      "reading": "අයි කමියුනිකේට් වෙල් විත් පීපල්.",
+      "meaning": "මම මිනිසුන් සමඟ හොඳින් සන්නිවේදනය කරනවා."
+    }
+  ],
+  "listeningPractice": {
+    "prompt": "Listen and choose the meaning: “I have three years of experience in sales.”",
+    "audio": "I have three years of experience in sales.",
+    "reading": "අයි හැව් ත්‍රී යියර්ස් ඔෆ් එක්ස්පීරියන්ස් ඉන් සේල්ස්.",
+    "options": [
+      "විකිණීම් ක්ෂේත්‍රයේ මට අවුරුදු තුනක අත්දැකීම් තිබෙනවා.",
+      "මම විකිණීම් අංශයේ වැඩ කළා.",
+      "මම පාරිභෝගිකයන් පිළිබඳ වගකිවයුතු වුණා."
+    ],
+    "answer": 0
+  },
+  "practice": [
+    {
+      "prompt": "Choose the meaning of “skill”.",
+      "options": [
+        "කුසලතාව",
+        "වැඩ මුරය",
+        "නිවාඩුව"
+      ],
+      "answer": 0,
+      "explanation": "skill = කුසලතාව"
+    },
+    {
+      "prompt": "Choose the verb meaning “apply for a job”.",
+      "options": [
+        "apply",
+        "cancel",
+        "invite"
+      ],
+      "answer": 0,
+      "explanation": "apply = අයදුම් කරන්න"
+    },
+    {
+      "prompt": "Choose “I have experience in sales.”",
+      "options": [
+        "I have experience in sales.",
+        "I lost my ticket.",
+        "I will call tomorrow."
+      ],
+      "answer": 0,
+      "explanation": "මට විකිණීම් අත්දැකීම් තිබෙනවා."
+    },
+    {
+      "prompt": "Choose the word “shifts”.",
+      "options": [
+        "shifts",
+        "lunch",
+        "address"
+      ],
+      "answer": 0,
+      "explanation": "shifts = වැඩ මුර"
+    }
+  ]
+},
+{
+  "id": "en-a2-l43",
+  "unit": "ගෘහස්ථ ගැටලු සහ අලුත්වැඩියා",
+  "title": "A2 · Lesson 43 · Household problems and repairs",
+  "objective": "ගෙදර ඇතිවන සාමාන්‍ය ගැටලුවක් පැහැදිලි කර උදව් ඉල්ලීම",
+  "vocabulary": [
+    {
+      "word": "break down",
+      "reading": "බ්‍රේක් ඩවුන්",
+      "meaning": "ක්‍රියා විරහිත වන්න",
+      "example": "break down",
+      "translation": "ක්‍රියා විරහිත වන්න",
+      "exampleReading": "බ්‍රේක් ඩවුන්"
+    },
+    {
+      "word": "repair",
+      "reading": "රිපෙයාර්",
+      "meaning": "අලුත්වැඩියාව",
+      "example": "repair",
+      "translation": "අලුත්වැඩියාව",
+      "exampleReading": "රිපෙයාර්"
+    },
+    {
+      "word": "tap",
+      "reading": "ටැප්",
+      "meaning": "කරාමය",
+      "example": "tap",
+      "translation": "කරාමය",
+      "exampleReading": "ටැප්"
+    },
+    {
+      "word": "electricity",
+      "reading": "ඉලෙක්ට්‍රිසිටි",
+      "meaning": "විදුලිය",
+      "example": "electricity",
+      "translation": "විදුලිය",
+      "exampleReading": "ඉලෙක්ට්‍රිසිටි"
+    },
+    {
+      "word": "leak",
+      "reading": "ලීක්",
+      "meaning": "කාන්දු වන්න",
+      "example": "leak",
+      "translation": "කාන්දු වන්න",
+      "exampleReading": "ලීක්"
+    },
+    {
+      "word": "repairer",
+      "reading": "රිපෙයාර්ර්",
+      "meaning": "අලුත්වැඩියා කාර්මිකයා",
+      "example": "repairer",
+      "translation": "අලුත්වැඩියා කාර්මිකයා",
+      "exampleReading": "රිපෙයාර්ර්"
+    },
+    {
+      "word": "urgent",
+      "reading": "අර්ජන්ට්",
+      "meaning": "හදිසි",
+      "example": "urgent",
+      "translation": "හදිසි",
+      "exampleReading": "අර්ජන්ට්"
+    },
+    {
+      "word": "bill",
+      "reading": "බිල්",
+      "meaning": "බිල්පත",
+      "example": "bill",
+      "translation": "බිල්පත",
+      "exampleReading": "බිල්"
+    }
+  ],
+  "grammarTitle": "Grammar",
+  "grammar": "Describe a problem with “The … isn’t working” or “There is a leak”. Make a polite request with “Could you send someone to repair it?”",
+  "grammarTerms": [
+    {
+      "text": "The tap isn’t working.",
+      "reading": "ද ටැප් ඉස්න්ට් වර්කිං.",
+      "meaning": "කරාමය වැඩ කරන්නේ නැහැ."
+    }
+  ],
+  "examples": [
+    {
+      "text": "The tap isn’t working.",
+      "reading": "ද ටැප් ඉස්න්ට් වර්කිං.",
+      "meaning": "කරාමය වැඩ කරන්නේ නැහැ."
+    },
+    {
+      "text": "Water is leaking under the sink.",
+      "reading": "වෝටර් ඉස් ලීකිං අන්ඩර් ද සිංක්.",
+      "meaning": "සින්ක් එක යටින් වතුර කාන්දු වෙනවා."
+    },
+    {
+      "text": "The problem is urgent.",
+      "reading": "ද ප්‍රොබ්ලම් ඉස් අර්ජන්ට්.",
+      "meaning": "ගැටලුව හදිසි එකක්."
+    },
+    {
+      "text": "Could you send a repair person?",
+      "reading": "කුඩ් යූ සෙන්ඩ් අ රිපෙයාර් පර්සන්?",
+      "meaning": "ඔබට අලුත්වැඩියා කාර්මිකයෙකු එවන්න පුළුවන්ද?"
+    }
+  ],
+  "dialogue": [
+    {
+      "text": "What has happened?",
+      "reading": "වොට් හැස් හැපන්ඩ්?",
+      "meaning": "මොකද වුණේ?"
+    },
+    {
+      "text": "The tap isn’t working and water is leaking.",
+      "reading": "ද ටැප් ඉස්න්ට් වර්කිං ඇන්ඩ් වෝටර් ඉස් ලීකිං.",
+      "meaning": "කරාමය වැඩ කරන්නේ නැහැ, වතුරත් කාන්දු වෙනවා."
+    },
+    {
+      "text": "We’ll send someone today.",
+      "reading": "වීල් සෙන්ඩ් සම්වන් ටුඩේ.",
+      "meaning": "අපි අද කෙනෙකු එවන්නම්."
+    },
+    {
+      "text": "Thank you, it’s urgent.",
+      "reading": "තෑන්ක් යූ, ඉට්ස් අර්ජන්ට්.",
+      "meaning": "ස්තුතියි, මේක හදිසි එකක්."
+    }
+  ],
+  "listeningPractice": {
+    "prompt": "Listen and choose the meaning: “The tap isn’t working.”",
+    "audio": "The tap isn’t working.",
+    "reading": "ද ටැප් ඉස්න්ට් වර්කිං.",
+    "options": [
+      "කරාමය වැඩ කරන්නේ නැහැ.",
+      "සින්ක් එක යටින් වතුර කාන්දු වෙනවා.",
+      "ගැටලුව හදිසි එකක්."
+    ],
+    "answer": 0
+  },
+  "practice": [
+    {
+      "prompt": "Choose the meaning of “break down”.",
+      "options": [
+        "ක්‍රියා විරහිත වන්න",
+        "පිරිසිදු කරන්න",
+        "ආරාධනා කරන්න"
+      ],
+      "answer": 0,
+      "explanation": "break down = ක්‍රියා විරහිත වන්න"
+    },
+    {
+      "prompt": "Choose the word meaning “leak”.",
+      "options": [
+        "leak",
+        "work",
+        "invite"
+      ],
+      "answer": 0,
+      "explanation": "leak = කාන්දු වන්න"
+    },
+    {
+      "prompt": "Choose the word meaning “urgent”.",
+      "options": [
+        "urgent",
+        "later",
+        "available"
+      ],
+      "answer": 0,
+      "explanation": "urgent = හදිසි"
+    },
+    {
+      "prompt": "Choose a polite repair request.",
+      "options": [
+        "Could you send a repair person?",
+        "Where is the bus?",
+        "Would you like coffee?"
+      ],
+      "answer": 0,
+      "explanation": "අලුත්වැඩියා කාර්මිකයෙකු එවන්න පුළුවන්ද?"
+    }
+  ]
+},
+{
+  "id": "en-a2-l44",
+  "unit": "අදහස් ප්‍රකාශ කිරීම සහ විකල්ප සැසඳීම",
+  "title": "A2 · Lesson 44 · Opinions and comparisons",
+  "objective": "තමන්ගේ අදහස කියා විකල්ප දෙකක් සරලව සැසඳීම",
+  "vocabulary": [
+    {
+      "word": "opinion",
+      "reading": "ඔපිනියන්",
+      "meaning": "අදහස",
+      "example": "opinion",
+      "translation": "අදහස",
+      "exampleReading": "ඔපිනියන්"
+    },
+    {
+      "word": "agree",
+      "reading": "අග්‍රී",
+      "meaning": "එකඟ වන්න",
+      "example": "agree",
+      "translation": "එකඟ වන්න",
+      "exampleReading": "අග්‍රී"
+    },
+    {
+      "word": "disagree",
+      "reading": "ඩිස්අග්‍රී",
+      "meaning": "එකඟ නොවන්න",
+      "example": "disagree",
+      "translation": "එකඟ නොවන්න",
+      "exampleReading": "ඩිස්අග්‍රී"
+    },
+    {
+      "word": "better",
+      "reading": "බෙටර්",
+      "meaning": "වඩා හොඳ",
+      "example": "better",
+      "translation": "වඩා හොඳ",
+      "exampleReading": "බෙටර්"
+    },
+    {
+      "word": "cheaper",
+      "reading": "චීපර්",
+      "meaning": "වඩා ලාභ",
+      "example": "cheaper",
+      "translation": "වඩා ලාභ",
+      "exampleReading": "චීපර්"
+    },
+    {
+      "word": "more expensive",
+      "reading": "මෝර් එක්ස්පෙන්සිව්",
+      "meaning": "වඩා මිල අධික",
+      "example": "more expensive",
+      "translation": "වඩා මිල අධික",
+      "exampleReading": "මෝර් එක්ස්පෙන්සිව්"
+    },
+    {
+      "word": "advantage",
+      "reading": "ඇඩ්වාන්ටේජ්",
+      "meaning": "වාසිය",
+      "example": "advantage",
+      "translation": "වාසිය",
+      "exampleReading": "ඇඩ්වාන්ටේජ්"
+    },
+    {
+      "word": "disadvantage",
+      "reading": "ඩිස්ඇඩ්වාන්ටේජ්",
+      "meaning": "අවාසිය",
+      "example": "disadvantage",
+      "translation": "අවාසිය",
+      "exampleReading": "ඩිස්ඇඩ්වාන්ටේජ්"
+    }
+  ],
+  "grammarTitle": "Grammar",
+  "grammar": "Give an opinion with “I think (that)…”. Compare options with comparative adjectives such as “cheaper than”, “better than” and “more convenient than”.",
+  "grammarTerms": [
+    {
+      "text": "I think the bus is cheaper.",
+      "reading": "අයි තිංක් ද බස් ඉස් චීපර්.",
+      "meaning": "මම හිතන්නේ බස් එක වඩා ලාභයි."
+    }
+  ],
+  "examples": [
+    {
+      "text": "I think the bus is cheaper.",
+      "reading": "අයි තිංක් ද බස් ඉස් චීපර්.",
+      "meaning": "මම හිතන්නේ බස් එක වඩා ලාභයි."
+    },
+    {
+      "text": "I agree with you.",
+      "reading": "අයි අග්‍රී විත් යූ.",
+      "meaning": "මම ඔයා සමඟ එකඟයි."
+    },
+    {
+      "text": "The train is faster than the bus.",
+      "reading": "ද ට්‍රේන් ඉස් ෆාස්ටර් දැන් ද බස්.",
+      "meaning": "දුම්රිය බස් එකට වඩා වේගවත්."
+    },
+    {
+      "text": "But the bus is cheaper.",
+      "reading": "බට් ද බස් ඉස් චීපර්.",
+      "meaning": "නමුත් බස් එක වඩා ලාභයි."
+    }
+  ],
+  "dialogue": [
+    {
+      "text": "What do you think about the train?",
+      "reading": "වොට් ඩූ යූ තිංක් අබවුට් ද ට්‍රේන්?",
+      "meaning": "දුම්රිය ගැන ඔයා මොකද හිතන්නේ?"
+    },
+    {
+      "text": "I think it is faster.",
+      "reading": "අයි තිංක් ඉට් ඉස් ෆාස්ටර්.",
+      "meaning": "මම හිතන්නේ එය වේගවත්."
+    },
+    {
+      "text": "I agree, but it is more expensive.",
+      "reading": "අයි අග්‍රී, බට් ඉට් ඉස් මෝර් එක්ස්පෙන්සිව්.",
+      "meaning": "එකඟයි, නමුත් එය මිල වැඩියි."
+    },
+    {
+      "text": "The bus has a lower price.",
+      "reading": "ද බස් හැස් අ ලෝවර් ප්‍රයිස්.",
+      "meaning": "බස් එකේ මිල අඩුයි."
+    }
+  ],
+  "listeningPractice": {
+    "prompt": "Listen and choose the meaning: “I think the bus is cheaper.”",
+    "audio": "I think the bus is cheaper.",
+    "reading": "අයි තිංක් ද බස් ඉස් චීපර්.",
+    "options": [
+      "මම හිතන්නේ බස් එක වඩා ලාභයි.",
+      "මම ඔයා සමඟ එකඟයි.",
+      "දුම්රිය බස් එකට වඩා වේගවත්."
+    ],
+    "answer": 0
+  },
+  "practice": [
+    {
+      "prompt": "Choose the meaning of “opinion”.",
+      "options": [
+        "අදහස",
+        "මිල",
+        "වේලාව"
+      ],
+      "answer": 0,
+      "explanation": "opinion = අදහස"
+    },
+    {
+      "prompt": "Choose “I agree”.",
+      "options": [
+        "agree",
+        "disagree",
+        "cancel"
+      ],
+      "answer": 0,
+      "explanation": "agree = එකඟ වන්න"
+    },
+    {
+      "prompt": "Choose “cheaper”.",
+      "options": [
+        "cheaper",
+        "more expensive",
+        "slower"
+      ],
+      "answer": 0,
+      "explanation": "cheaper = වඩා ලාභ"
+    },
+    {
+      "prompt": "Choose a comparison.",
+      "options": [
+        "The train is faster than the bus.",
+        "Where is the station?",
+        "It is raining today."
+      ],
+      "answer": 0,
+      "explanation": "දුම්රිය බස් එකට වඩා වේගවත්."
+    }
+  ]
+},
+{
+  "id": "en-a2-l45",
+  "unit": "නීති, අවසර සහ වගකීම්",
+  "title": "A2 · Lesson 45 · Rules, permission and obligations",
+  "objective": "අවසර ඉල්ලීම, තහනම් දේ සහ කළ යුතු වගකීම් පැහැදිලි කිරීම",
+  "vocabulary": [
+    {
+      "word": "allowed",
+      "reading": "අලවුඩ්",
+      "meaning": "අවසර තිබෙන",
+      "example": "allowed",
+      "translation": "අවසර තිබෙන",
+      "exampleReading": "අලවුඩ්"
+    },
+    {
+      "word": "forbidden",
+      "reading": "ෆෝබිඩන්",
+      "meaning": "තහනම්",
+      "example": "forbidden",
+      "translation": "තහනම්",
+      "exampleReading": "ෆෝබිඩන්"
+    },
+    {
+      "word": "must",
+      "reading": "මස්ට්",
+      "meaning": "අනිවාර්යයෙන් කළ යුතු",
+      "example": "must",
+      "translation": "අනිවාර්යයෙන් කළ යුතු",
+      "exampleReading": "මස්ට්"
+    },
+    {
+      "word": "may",
+      "reading": "මේ",
+      "meaning": "අවසර තිබිය",
+      "example": "may",
+      "translation": "අවසර තිබිය",
+      "exampleReading": "මේ"
+    },
+    {
+      "word": "rule",
+      "reading": "රූල්",
+      "meaning": "නීතිය / රීතිය",
+      "example": "rule",
+      "translation": "නීතිය / රීතිය",
+      "exampleReading": "රූල්"
+    },
+    {
+      "word": "mandatory",
+      "reading": "මැන්ඩටරි",
+      "meaning": "අනිවාර්ය",
+      "example": "mandatory",
+      "translation": "අනිවාර්ය",
+      "exampleReading": "මැන්ඩටරි"
+    },
+    {
+      "word": "permission",
+      "reading": "පර්මිෂන්",
+      "meaning": "අවසරය",
+      "example": "permission",
+      "translation": "අවසරය",
+      "exampleReading": "පර්මිෂන්"
+    },
+    {
+      "word": "follow",
+      "reading": "ෆොලෝ",
+      "meaning": "අනුගමනය කරන්න",
+      "example": "follow",
+      "translation": "අනුගමනය කරන්න",
+      "exampleReading": "ෆොලෝ"
+    }
+  ],
+  "grammarTitle": "Grammar",
+  "grammar": "Use “must” for obligations, “have to” for necessary duties, “may/can” to ask permission, and “mustn’t” for prohibition. “You don’t have to” means something is not necessary, not forbidden.",
+  "grammarTerms": [
+    {
+      "text": "You must wear a uniform.",
+      "reading": "යූ මස්ට් වෙයර් අ යුනිෆෝම්.",
+      "meaning": "ඔබ නිල ඇඳුම ඇඳිය යුතුයි."
+    }
+  ],
+  "examples": [
+    {
+      "text": "You must wear a uniform.",
+      "reading": "යූ මස්ට් වෙයර් අ යුනිෆෝම්.",
+      "meaning": "ඔබ නිල ඇඳුම ඇඳිය යුතුයි."
+    },
+    {
+      "text": "May I come in?",
+      "reading": "මේ අයි කම් ඉන්?",
+      "meaning": "මට ඇතුළට එන්න අවසරද?"
+    },
+    {
+      "text": "Smoking is not allowed here.",
+      "reading": "ස්මෝකිං ඉස් නොට් අලවුඩ් හියර්.",
+      "meaning": "මෙහි දුම්පානයට අවසර නැහැ."
+    },
+    {
+      "text": "You must follow the rules.",
+      "reading": "යූ මස්ට් ෆොලෝ ද රූල්ස්.",
+      "meaning": "ඔබ නීති අනුගමනය කළ යුතුයි."
+    }
+  ],
+  "dialogue": [
+    {
+      "text": "May I use my phone?",
+      "reading": "මේ අයි යූස් මයි ෆෝන්?",
+      "meaning": "මට දුරකථනය භාවිතා කරන්න අවසරද?"
+    },
+    {
+      "text": "It is not allowed here.",
+      "reading": "ඉට් ඉස් නොට් අලවුඩ් හියර්.",
+      "meaning": "මෙහි ඒකට අවසර නැහැ."
+    },
+    {
+      "text": "The phone must be switched off.",
+      "reading": "ද ෆෝන් මස්ට් බී ස්විච්ට් ඔෆ්.",
+      "meaning": "දුරකථනය ක්‍රියා විරහිත කළ යුතුයි."
+    },
+    {
+      "text": "I understand. I’ll follow the rule.",
+      "reading": "අයි අන්ඩර්ස්ටෑන්ඩ්. අයිල් ෆොලෝ ද රූල්.",
+      "meaning": "මට තේරුණා. මම නීතිය අනුගමනය කරන්නම්."
+    }
+  ],
+  "listeningPractice": {
+    "prompt": "Listen and choose the meaning: “You must wear a uniform.”",
+    "audio": "You must wear a uniform.",
+    "reading": "යූ මස්ට් වෙයර් අ යුනිෆෝම්.",
+    "options": [
+      "ඔබ නිල ඇඳුම ඇඳිය යුතුයි.",
+      "මට ඇතුළට එන්න අවසරද?",
+      "මෙහි දුම්පානයට අවසර නැහැ."
+    ],
+    "answer": 0
+  },
+  "practice": [
+    {
+      "prompt": "Choose the meaning of “forbidden”.",
+      "options": [
+        "තහනම්",
+        "අවසර තිබෙන",
+        "අනිවාර්ය"
+      ],
+      "answer": 0,
+      "explanation": "forbidden = තහනම්"
+    },
+    {
+      "prompt": "Choose a permission question.",
+      "options": [
+        "May I come in?",
+        "You must work.",
+        "It is more expensive."
+      ],
+      "answer": 0,
+      "explanation": "May I…? = මට අවසරද?"
+    },
+    {
+      "prompt": "Choose “You must follow the rules.”",
+      "options": [
+        "You must follow the rules.",
+        "You may cancel it.",
+        "I’m free tomorrow."
+      ],
+      "answer": 0,
+      "explanation": "must = කළ යුතුයි."
+    },
+    {
+      "prompt": "Choose the meaning of “allowed”.",
+      "options": [
+        "අවසර තිබෙන",
+        "තහනම්",
+        "මිල අධික"
+      ],
+      "answer": 0,
+      "explanation": "allowed = අවසර තිබෙන"
+    }
+  ]
+}
 ];
