@@ -277,3 +277,5 @@
 - **Not yet live:** Cloudflare Worker deployment, Google API enablement/key, GitHub Actions variable `EXPO_PUBLIC_VOICE_API_URL`, Google billing/quota setup, and real-device audio testing require account-side configuration. Do not claim Google voices are active until these are completed.
 - Current Android APK workflow run 44317457889 was still building Gradle when checked; the next source push may cancel it because the workflow uses cancel-in-progress concurrency. Verify the newest run after these commits.
 - Next: deploy Worker, add secret and GitHub Actions variable, then rebuild and test Serbian/English audio playback on Android.
+
+- Android build workflow now injects the optional GitHub Actions repository variable `EXPO_PUBLIC_VOICE_API_URL` during JS bundle export. If absent, the APK retains device TTS fallback. Workflow commit: `b95379b8bbf8f009f29d5638b10a12f58f6103c5`.
