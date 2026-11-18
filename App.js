@@ -537,7 +537,7 @@ export default function App(){
     })}
     <View style={s.quizCard}>
      <Text style={s.lessonHeading}>🎧 Serbian A1 · එක් එක් පාඩමේ සවන් දීම</Text>
-     <Text style={s.sub}>පාඩම් 1–14 සඳහා Serbian හඬ අහලා නිවැරදි සිංහල අර්ථය තෝරන්න. අවශ්‍ය නම් වාක්‍යය සහ පිළිතුරු නැවත අහන්න.</Text>
+     <Text style={s.sub}>පාඩම් 1–16 සඳහා Serbian හඬ අහලා නිවැරදි සිංහල අර්ථය තෝරන්න. අවශ්‍ය නම් වාක්‍යය සහ පිළිතුරු නැවත අහන්න.</Text>
      {SERBIAN_A1_LESSONS.map((lesson,li)=>{
       const q=SERBIAN_A1_LISTENING[li];if(!q)return null;
       const key=lesson.id+"-listen";const selected=lessonAnswers[key];const checked=lessonChecked[key];
@@ -557,7 +557,7 @@ export default function App(){
      })}
     </View>
     <View style={s.quizCard}>
-     <Text style={s.lessonHeading}>🏆 Serbian A1 · පාඩම් 1–14 මිශ්‍ර නැවත පුහුණුව</Text>
+     <Text style={s.lessonHeading}>🏆 Serbian A1 · පාඩම් 1–16 මිශ්‍ර නැවත පුහුණුව</Text>
      <Text style={s.sub}>සියලු පාඩම්වලින් තෝරාගත් වාක්‍ය අහන්න. සිංහල අකුරෙන් කියන විදිහ බලලා, නිවැරදි තේරුම තෝරන්න.</Text>
      {SERBIAN_A1_MIXED_REVISION.map((q,qi)=>{
       const key="serbian-a1-mixed-"+qi;const selected=lessonAnswers[key];const checked=lessonChecked[key];
@@ -623,7 +623,7 @@ export default function App(){
     })}
     <View style={s.quizCard}>
      <Text style={s.lessonHeading}>🏆 English A1 · මිශ්‍ර නැවත පුහුණුව</Text>
-     <Text style={s.sub}>පාඩම් 1–14 සඳහා තෝරාගත් වාක්‍යවල මිශ්‍ර පුහුණුව. ඉංග්‍රීසි වාක්‍යය අහලා නිවැරදි සිංහල තේරුම තෝරන්න.</Text>
+     <Text style={s.sub}>පාඩම් 1–16 සඳහා තෝරාගත් වාක්‍යවල මිශ්‍ර පුහුණුව. ඉංග්‍රීසි වාක්‍යය අහලා නිවැරදි සිංහල තේරුම තෝරන්න.</Text>
      {[
       {audio:"Good morning. My name is Anna.",reading:"ගුඩ් මෝර්නිං. මයි නේම් ඉස් ඇනා.",answer:0,options:["සුබ උදෑසනක්. මගේ නම ආනා.","සුබ රාත්‍රියක්. මම හොඳින්.","මට කෝපි එකක් ඕනේ."]},
       {audio:"I am fine, thank you.",reading:"අයි ඇම් ෆයින්, තෑන්ක් යූ.",answer:1,options:["මට උදව් කරන්න පුළුවන්ද?","මම හොඳින්, ස්තුතියි.","මගේ වැඩ මුරය අටට පටන් ගන්නවා."]},
@@ -634,6 +634,9 @@ export default function App(){
       {audio:"Is breakfast included?",reading:"ඉස් බ්‍රෙක්ෆස්ට් ඉන්ක්ලූඩිඩ්?",answer:1,options:["කාමරයේ යතුර කොහෙද?","උදෑසන ආහාරය ඇතුළත්ද?","එක් රාත්‍රියකට කීයද?"]}
       ,{audio:"The meeting is tomorrow at ten.",reading:"ද මීටින් ඉස් ටුමාරෝ ඇට් ටෙන්.",answer:1,options:["හමුවීම අද දහයට.","හමුවීම හෙට දහයට.","හමුවීම ඊයේ දහයට."]}
       ,{audio:"I work from nine to five.",reading:"අයි වර්ක් ෆ්‍රම් නයින් ටු ෆයිව්.",answer:0,options:["මම නවයේ සිට පහ දක්වා වැඩ කරනවා.","මම හතට නැගිටිනවා.","මම සවස විවේක ගන්නවා."]}
+
+      ,{audio:"One ticket to Belgrade, please.",reading:"වන් ටික්ට් ටු බෙල්ග්‍රේඩ්, ප්ලීස්.",answer:0,options:["බෙල්ග්‍රේඩ් දක්වා ටිකට් එකක් දෙන්න, කරුණාකර.","වේදිකාව කොහෙද?","දුම්රිය ප්‍රමාදයි."]}
+      ,{audio:"The book is on the table.",reading:"ද බුක් ඉස් ඔන් ද ටේබල්.",answer:1,options:["පොත කාමරයේ තියෙනවා.","පොත මේසය මත තියෙනවා.","පොත පුටුව යට තියෙනවා."]}
       ,{audio:"Sunday is my day off.",reading:"සන්ඩේ ඉස් මයි ඩේ ඕෆ්.",answer:2,options:["මම ඉරිදා උදේ වැඩ කරනවා.","ඉරිදා මගේ වැඩ මුරයයි.","ඉරිදා මගේ නිවාඩු දිනයයි."]}
      ].map((q,qi)=>{
       const key="english-a1-mixed-"+qi;const selected=lessonAnswers[key];const checked=lessonChecked[key];
