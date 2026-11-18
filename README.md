@@ -195,3 +195,7 @@ GitHub Actions runs dependency installation, Expo SDK compatibility checks, and 
 - Added two Serbian lesson-aligned listening checks and two Serbian cumulative revision items. The Serbian listening and revision UI scope now covers lessons 1–18.
 - Both structured A1 courses now contain 18 paired lessons. These remain beginner starter courses, not a claim of complete CEFR A1 coverage. Pronunciation guides are approximate and need speaker review.
 - No JavaScript parser, Expo bundle, APK build or Android device test was run for this content update.
+
+### English A1 cumulative mixed revision alignment
+- Expanded the English A1 mixed revision from 12 to 18 questions so it now reaches the same lesson range as the Serbian A1 cumulative revision (lessons 1–18). Added coverage for food and cooking, weather, the home and family alongside the existing travel, work and daily-life items.
+- Each item retains a Sinhala-script pronunciation guide, spoken English replay and Sinhala answer choices. This is a cumulative review set, not a substitute for the per-lesson quizzes.
