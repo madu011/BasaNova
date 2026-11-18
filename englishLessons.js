@@ -439,4 +439,143 @@ export const ENGLISH_A1_LESSONS = [
   ]
  }
 
+ ,
+ {
+  id:"en-a1-u3-l4",
+  unit:"අංක, දිනය සහ වේලාව",
+  title:"පාඩම 14 · අංක, දිනය සහ වේලාව",
+  objective:"දුරකථන අංකයක්, දිනයක් සහ වේලාවක් පැවසීම, වේලාව විමසීම සහ සරල හමුවීමක් නියම කිරීම.",
+  vocabulary:[
+   {word:"A number",reading:"අ නම්බර්",meaning:"අංකයක්",example:"What is your phone number?",exampleReading:"වොට් ඉස් යෝර් ෆෝන් නම්බර්?",translation:"ඔබගේ දුරකථන අංකය කුමක්ද?"},
+   {word:"A phone",reading:"අ ෆෝන්",meaning:"දුරකථනයක්",example:"My phone is new.",exampleReading:"මයි ෆෝන් ඉස් නිව්.",translation:"මගේ දුරකථනය අලුත්."},
+   {word:"Today",reading:"ටුඩේ",meaning:"අද",example:"I am free today.",exampleReading:"අයි ඇම් ෆ්‍රී ටුඩේ.",translation:"මම අද නිදහස්."},
+   {word:"Tomorrow",reading:"ටුමාරෝ",meaning:"හෙට",example:"See you tomorrow.",exampleReading:"සී යූ ටුමාරෝ.",translation:"හෙට හමුවෙමු."},
+   {word:"Yesterday",reading:"යෙස්ටර්ඩේ",meaning:"ඊයේ",example:"I was busy yesterday.",exampleReading:"අයි වොස් බිසි යෙස්ටර්ඩේ.",translation:"මම ඊයේ කාර්යබහුලව හිටියා."},
+   {word:"What time?",reading:"වොට් ටයිම්?",meaning:"කීයටද? / වෙලාව කීයද?",example:"What time is the meeting?",exampleReading:"වොට් ටයිම් ඉස් ද මීටින්?",translation:"හමුවීම කීයටද?"},
+   {word:"At eight",reading:"ඇට් එයිට්",meaning:"අටට",example:"Work starts at eight.",exampleReading:"වර්ක් ස්ටාර්ට්ස් ඇට් එයිට්.",translation:"වැඩ අටට පටන් ගන්නවා."},
+   {word:"The date",reading:"ද ඩේට්",meaning:"දිනය",example:"What is the date today?",exampleReading:"වොට් ඉස් ද ඩේට් ටුඩේ?",translation:"අද දිනය කුමක්ද?"}
+  ],
+  grammarTitle:"ව්‍යාකරණය · වේලාව සහ දිනය කියන ආකාරය",
+  grammar:"වේලාව අසන්න “What time is it?” හෝ සිදුවීමක වේලාවට “What time is the meeting?” කියන්න. නිශ්චිත වේලාවක් සමඟ “at” යොදන්න: “at eight” (අටට), “at ten” (දහයට). Today, tomorrow සහ yesterday යන වචන පිළිවෙළින් අද, හෙට සහ ඊයේ යන්නයි.",
+  grammarTerms:[
+   {text:"What time is it?",reading:"වොට් ටයිම් ඉස් ඉට්?",meaning:"වෙලාව කීයද?"},
+   {text:"What time is the meeting?",reading:"වොට් ටයිම් ඉස් ද මීටින්?",meaning:"හමුවීම කීයටද?"},
+   {text:"The meeting is at ten.",reading:"ද මීටින් ඉස් ඇට් ටෙන්.",meaning:"හමුවීම දහයට."},
+   {text:"What is the date today?",reading:"වොට් ඉස් ද ඩේට් ටුඩේ?",meaning:"අද දිනය කුමක්ද?"},
+   {text:"See you tomorrow.",reading:"සී යූ ටුමාරෝ.",meaning:"හෙට හමුවෙමු."}
+  ],
+  examples:[
+   {text:"Excuse me, what time is it?",reading:"ඉක්ස්කියූස් මී, වොට් ටයිම් ඉස් ඉට්?",meaning:"සමාවෙන්න, වෙලාව කීයද?"},
+   {text:"It is nine fifteen.",reading:"ඉට් ඉස් නයින් ෆිෆ්ටීන්.",meaning:"නවයයි පහළොවයි."},
+   {text:"The meeting is tomorrow at ten.",reading:"ද මීටින් ඉස් ටුමාරෝ ඇට් ටෙන්.",meaning:"හමුවීම හෙට දහයට."},
+   {text:"My phone number is 064 123 456.",reading:"මයි ෆෝන් නම්බර් ඉස් ...",meaning:"මගේ දුරකථන අංකය 064 123 456."}
+  ],
+  dialogue:[
+   {text:"Excuse me, what time is it?",reading:"ඉක්ස්කියූස් මී, වොට් ටයිම් ඉස් ඉට්?",meaning:"සමාවෙන්න, වෙලාව කීයද?"},
+   {text:"It is nine fifteen.",reading:"ඉට් ඉස් නයින් ෆිෆ්ටීන්.",meaning:"නවයයි පහළොවයි."},
+   {text:"Thank you. When is the meeting?",reading:"තෑන්ක් යූ. වෙන් ඉස් ද මීටින්?",meaning:"ස්තුතියි. හමුවීම කවදාද?"},
+   {text:"Tomorrow at ten.",reading:"ටුමාරෝ ඇට් ටෙන්.",meaning:"හෙට දහයට."},
+   {text:"All right. See you tomorrow.",reading:"ඕල් රයිට්. සී යූ ටුමාරෝ.",meaning:"හරි. හෙට හමුවෙමු."}
+  ],
+  listeningPractice:{prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “The meeting is tomorrow at ten.”",audio:"The meeting is tomorrow at ten.",options:["හමුවීම අද දහයට.","හමුවීම හෙට දහයට.","හමුවීම ඊයේ දහයට."],readings:["ද මීටින් ඉස් ටුඩේ ඇට් ටෙන්.","ද මීටින් ඉස් ටුමාරෝ ඇට් ටෙන්.","ද මීටින් ඉස් යෙස්ටර්ඩේ ඇට් ටෙන්."],answer:1,meaning:"The meeting is tomorrow at ten. = හමුවීම හෙට දහයට."},
+  practice:[
+   {prompt:"“වෙලාව කීයද?” අසන්නේ කෙසේද?",options:["What time is it?","What is your name?","Where is the phone?"],readings:["වොට් ටයිම් ඉස් ඉට්?","වොට් ඉස් යෝර් නේම්?","වෙයාර් ඉස් ද ෆෝන්?"],answer:0,explanation:"What time is it? = වෙලාව කීයද?"},
+   {prompt:"“හෙට” යන වචනය තෝරන්න.",options:["Yesterday","Today","Tomorrow"],readings:["යෙස්ටර්ඩේ","ටුඩේ","ටුමාරෝ"],answer:2,explanation:"Tomorrow = හෙට."},
+   {prompt:"“අටට” කියන නිවැරදි රටාව?",options:["At eight","In eight","On eight"],readings:["ඇට් එයිට්","ඉන් එයිට්","ඔන් එයිට්"],answer:0,explanation:"නිශ්චිත වේලාවකට පෙර at යොදනවා."},
+   {prompt:"“අද දිනය කුමක්ද?” අසන්න.",options:["What is the date today?","How much is it?","How are you?"],readings:["වොට් ඉස් ද ඩේට් ටුඩේ?","හවු මච් ඉස් ඉට්?","හවු ආ යූ?"],answer:0,explanation:"What is the date today? = අද දිනය කුමක්ද?"}
+  ]
+ },
+ {
+  id:"en-a1-u3-l5",
+  unit:"දෛනික ජීවිතය සහ පුරුදු",
+  title:"පාඩම 15 · දෛනික වැඩ සහ පුරුදු",
+  objective:"උදෑසන සිට රාත්‍රිය දක්වා කරන දේවල්, දෛනික පුරුදු සහ සරල කාල අනුපිළිවෙළ විස්තර කිරීම.",
+  vocabulary:[
+   {word:"Wake up",reading:"වේක් අප්",meaning:"නැගිටිනවා",example:"I wake up at seven.",exampleReading:"අයි වේක් අප් ඇට් සෙවන්.",translation:"මම හතට නැගිටිනවා."},
+   {word:"Breakfast",reading:"බ්‍රෙක්ෆස්ට්",meaning:"උදෑසන ආහාරය",example:"I have breakfast at eight.",exampleReading:"අයි හැව් බ්‍රෙක්ෆස්ට් ඇට් එයිට්.",translation:"මම අටට උදෑසන ආහාරය ගන්නවා."},
+   {word:"Work",reading:"වර්ක්",meaning:"වැඩ කරනවා",example:"I work from nine to five.",exampleReading:"අයි වර්ක් ෆ්‍රම් නයින් ටු ෆයිව්.",translation:"මම නවයේ සිට පහ දක්වා වැඩ කරනවා."},
+   {word:"Study",reading:"ස්ටඩි",meaning:"ඉගෙනගන්නවා",example:"I study Serbian every day.",exampleReading:"අයි ස්ටඩි සර්බියන් එව්රි ඩේ.",translation:"මම හැමදාම Serbian ඉගෙනගන්නවා."},
+   {word:"Lunch",reading:"ලන්ච්",meaning:"දවල් ආහාරය",example:"I have lunch at one.",exampleReading:"අයි හැව් ලන්ච් ඇට් වන්.",translation:"මම එකට දවල් ආහාරය ගන්නවා."},
+   {word:"Go home",reading:"ගෝ හෝම්",meaning:"ගෙදර යනවා",example:"I go home at six.",exampleReading:"අයි ගෝ හෝම් ඇට් සික්ස්.",translation:"මම හයට ගෙදර යනවා."},
+   {word:"In the evening",reading:"ඉන් දි ඊව්නින්",meaning:"සවස",example:"I read in the evening.",exampleReading:"අයි රීඩ් ඉන් දි ඊව්නින්.",translation:"මම සවස කියවනවා."},
+   {word:"Every day",reading:"එව්රි ඩේ",meaning:"හැමදාම",example:"I walk every day.",exampleReading:"අයි වෝක් එව්රි ඩේ.",translation:"මම හැමදාම ඇවිදිනවා."}
+  ],
+  grammarTitle:"ව්‍යාකරණය · දිනපතා කරන දේවල්",
+  grammar:"දෛනික පුරුදු ගැන කියන විට Present Simple භාවිත කරන්න: I wake up, I work, I study. තුන්වන පුද්ගල ඒකවචනයේ he/she/it සමඟ බොහෝ ක්‍රියා පදවලට -s එකතු වෙනවා: He works. “From ... to ...” යනු ... සිට ... දක්වා යන්නයි.",
+  grammarTerms:[
+   {text:"I wake up at seven.",reading:"අයි වේක් අප් ඇට් සෙවන්.",meaning:"මම හතට නැගිටිනවා."},
+   {text:"I work from nine to five.",reading:"අයි වර්ක් ෆ්‍රම් නයින් ටු ෆයිව්.",meaning:"මම නවයේ සිට පහ දක්වා වැඩ කරනවා."},
+   {text:"I study every day.",reading:"අයි ස්ටඩි එව්රි ඩේ.",meaning:"මම හැමදාම ඉගෙනගන්නවා."},
+   {text:"He works in the morning.",reading:"හී වර්ක්ස් ඉන් ද මෝර්නින්.",meaning:"ඔහු උදේ වැඩ කරනවා."},
+   {text:"I relax in the evening.",reading:"අයි රිලැක්ස් ඉන් දි ඊව්නින්.",meaning:"මම සවස විවේක ගන්නවා."}
+  ],
+  examples:[
+   {text:"I wake up at seven and have breakfast.",reading:"අයි වේක් අප් ඇට් සෙවන් ඇන්ඩ් හැව් බ්‍රෙක්ෆස්ට්.",meaning:"මම හතට නැගිටලා උදෑසන ආහාරය ගන්නවා."},
+   {text:"I work from nine to five.",reading:"අයි වර්ක් ෆ්‍රම් නයින් ටු ෆයිව්.",meaning:"මම නවයේ සිට පහ දක්වා වැඩ කරනවා."},
+   {text:"After work, I study English.",reading:"ආෆ්ටර් වර්ක්, අයි ස්ටඩි ඉංග්ලිෂ්.",meaning:"වැඩෙන් පස්සේ මම ඉංග්‍රීසි ඉගෙනගන්නවා."},
+   {text:"I relax at home in the evening.",reading:"අයි රිලැක්ස් ඇට් හෝම් ඉන් දි ඊව්නින්.",meaning:"මම සවස ගෙදරදී විවේක ගන්නවා."}
+  ],
+  dialogue:[
+   {text:"What time do you wake up?",reading:"වොට් ටයිම් ඩූ යූ වේක් අප්?",meaning:"ඔයා කීයටද නැගිටින්නේ?"},
+   {text:"I wake up at seven. What about you?",reading:"අයි වේක් අප් ඇට් සෙවන්. වොට් අබවුට් යූ?",meaning:"මම හතට නැගිටිනවා. ඔයා?"},
+   {text:"At six. When do you start work?",reading:"ඇට් සික්ස්. වෙන් ඩූ යූ ස්ටාර්ට් වර්ක්?",meaning:"හයට. ඔයා වැඩ පටන් ගන්නේ කවදාද?"},
+   {text:"At nine. I finish at five.",reading:"ඇට් නයින්. අයි ෆිනිෂ් ඇට් ෆයිව්.",meaning:"නවයට. මම පහට ඉවර කරනවා."},
+   {text:"What do you do in the evening?",reading:"වොට් ඩූ යූ ඩූ ඉන් දි ඊව්නින්?",meaning:"ඔයා සවස මොනවාද කරන්නේ?"},
+   {text:"I study languages and relax.",reading:"අයි ස්ටඩි ලැන්ග්විජස් ඇන්ඩ් රිලැක්ස්.",meaning:"මම භාෂා ඉගෙනගෙන විවේක ගන්නවා."}
+  ],
+  listeningPractice:{prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “I work from nine to five.”",audio:"I work from nine to five.",options:["මම නවයේ සිට පහ දක්වා වැඩ කරනවා.","මම හතට නැගිටිනවා.","මම සවස විවේක ගන්නවා."],readings:["අයි වර්ක් ෆ්‍රම් නයින් ටු ෆයිව්.","අයි වේක් අප් ඇට් සෙවන්.","අයි රිලැක්ස් ඉන් දි ඊව්නින්."],answer:0,meaning:"I work from nine to five. = මම නවයේ සිට පහ දක්වා වැඩ කරනවා."},
+  practice:[
+   {prompt:"“මම හතට නැගිටිනවා” තෝරන්න.",options:["I wake up at seven.","I work until five.","I study at night."],readings:["අයි වේක් අප් ඇට් සෙවන්.","අයි වර්ක් අන්ටිල් ෆයිව්.","අයි ස්ටඩි ඇට් නයිට්."],answer:0,explanation:"I wake up at seven = මම හතට නැගිටිනවා."},
+   {prompt:"“හැමදාම” යන අර්ථය?",options:["Yesterday","Every day","In the evening"],readings:["යෙස්ටර්ඩේ","එව්රි ඩේ","ඉන් දි ඊව්නින්"],answer:1,explanation:"Every day = හැමදාම."},
+   {prompt:"“... සිට ... දක්වා” කියන රටාව?",options:["Without","From ... to ...","To go"],readings:["විදවුට්","ෆ්‍රම් ... ටු ...","ටු ගෝ"],answer:1,explanation:"From ... to ... = ... සිට ... දක්වා."},
+   {prompt:"“වැඩෙන් පස්සේ” කියන්නේ?",options:["Before work","After work","Tomorrow"],readings:["බිෆෝර් වර්ක්","ආෆ්ටර් වර්ක්","ටුමාරෝ"],answer:1,explanation:"After work = වැඩෙන් පස්සේ."}
+  ]
+ },
+ {
+  id:"en-a1-u3-l6",
+  unit:"වැඩ මුර සහ කාලසටහන්",
+  title:"පාඩම 16 · වැඩ මුර සහ කාලසටහන",
+  objective:"වැඩ මුරයක් ආරම්භ වන වේලාව, අවසන් වන වේලාව, නිවාඩු දිනය සහ මාරුවක් ඉල්ලීම ගැන කතා කිරීම.",
+  vocabulary:[
+   {word:"A shift",reading:"අ ෂිෆ්ට්",meaning:"වැඩ මුරයක්",example:"I work the morning shift.",exampleReading:"අයි වර්ක් ද මෝර්නින් ෂිෆ්ට්.",translation:"මම උදෑසන වැඩ මුරයේ වැඩ කරනවා."},
+   {word:"The morning shift",reading:"ද මෝර්නින් ෂිෆ්ට්",meaning:"උදෑසන වැඩ මුරය",example:"The morning shift starts at seven.",exampleReading:"ද මෝර්නින් ෂිෆ්ට් ස්ටාර්ට්ස් ඇට් සෙවන්.",translation:"උදෑසන වැඩ මුරය හතට පටන් ගන්නවා."},
+   {word:"The evening shift",reading:"දි ඊව්නින් ෂිෆ්ට්",meaning:"සවස වැඩ මුරය",example:"I have the evening shift tomorrow.",exampleReading:"අයි හැව් දි ඊව්නින් ෂිෆ්ට් ටුමාරෝ.",translation:"හෙට මට සවස වැඩ මුරය තියෙනවා."},
+   {word:"A day off",reading:"අ ඩේ ඕෆ්",meaning:"නිවාඩු දිනයක්",example:"Sunday is my day off.",exampleReading:"සන්ඩේ ඉස් මයි ඩේ ඕෆ්.",translation:"ඉරිදා මගේ නිවාඩු දිනයයි."},
+   {word:"Start",reading:"ස්ටාර්ට්",meaning:"පටන් ගන්නවා",example:"What time does the shift start?",exampleReading:"වොට් ටයිම් ඩස් ද ෂිෆ්ට් ස්ටාර්ට්?",translation:"වැඩ මුරය පටන් ගන්නේ කීයටද?"},
+   {word:"Finish",reading:"ෆිනිෂ්",meaning:"අවසන් කරනවා",example:"What time do I finish today?",exampleReading:"වොට් ටයිම් ඩූ අයි ෆිනිෂ් ටුඩේ?",translation:"මම අද වැඩ අවසන් කරන්නේ කීයටද?"},
+   {word:"A swap",reading:"අ ස්වොප්",meaning:"මාරුවක්",example:"I need to swap my shift.",exampleReading:"අයි නීඩ් ටු ස්වොප් මයි ෂිෆ්ට්.",translation:"මට මගේ වැඩ මුරය මාරු කරගන්න ඕනේ."},
+   {word:"The schedule",reading:"ද ස්කෙජූල්",meaning:"කාලසටහන",example:"Where is the shift schedule?",exampleReading:"වෙයාර් ඉස් ද ෂිෆ්ට් ස්කෙජූල්?",translation:"වැඩ මුර කාලසටහන කොහෙද?"}
+  ],
+  grammarTitle:"ව්‍යාකරණය · වැඩ මුර ගැන කතා කිරීම",
+  grammar:"වැඩ මුර සඳහා morning shift සහ evening shift යොදන්න. වේලාව අසන්න “What time does ... start?” කියන්න. අවසරයක් හෝ ඉල්ලීමක් කිරීමට “Can I ...?” භාවිත කරන්න. “Day off” යනු නිවාඩු දිනයයි.",
+  grammarTerms:[
+   {text:"I work the morning shift.",reading:"අයි වර්ක් ද මෝර්නින් ෂිෆ්ට්.",meaning:"මම උදෑසන වැඩ මුරයේ වැඩ කරනවා."},
+   {text:"I have the evening shift tomorrow.",reading:"අයි හැව් දි ඊව්නින් ෂිෆ්ට් ටුමාරෝ.",meaning:"හෙට මට සවස වැඩ මුරය තියෙනවා."},
+   {text:"What time does the shift start?",reading:"වොට් ටයිම් ඩස් ද ෂිෆ්ට් ස්ටාර්ට්?",meaning:"වැඩ මුරය පටන් ගන්නේ කීයටද?"},
+   {text:"Can I swap my shift?",reading:"කැන් අයි ස්වොප් මයි ෂිෆ්ට්?",meaning:"මට මගේ වැඩ මුරය මාරු කරගන්න පුළුවන්ද?"},
+   {text:"Sunday is my day off.",reading:"සන්ඩේ ඉස් මයි ඩේ ඕෆ්.",meaning:"ඉරිදා මගේ නිවාඩු දිනයයි."}
+  ],
+  examples:[
+   {text:"I work the morning shift from seven to three.",reading:"අයි වර්ක් ද මෝර්නින් ෂිෆ්ට් ෆ්‍රම් සෙවන් ටු ත්‍රී.",meaning:"මම හතේ සිට තුන දක්වා උදෑසන වැඩ මුරයේ වැඩ කරනවා."},
+   {text:"Tomorrow I have the evening shift.",reading:"ටුමාරෝ අයි හැව් දි ඊව්නින් ෂිෆ්ට්.",meaning:"හෙට මට සවස වැඩ මුරය තියෙනවා."},
+   {text:"Can I swap my shift on Friday?",reading:"කැන් අයි ස්වොප් මයි ෂිෆ්ට් ඔන් ෆ්‍රයිඩේ?",meaning:"මට සිකුරාදා වැඩ මුරය මාරු කරගන්න පුළුවන්ද?"},
+   {text:"Sunday is my day off.",reading:"සන්ඩේ ඉස් මයි ඩේ ඕෆ්.",meaning:"ඉරිදා මගේ නිවාඩු දිනයයි."}
+  ],
+  dialogue:[
+   {text:"Which shift are you working tomorrow?",reading:"විච් ෂිෆ්ට් ආ යූ වර්කින් ටුමාරෝ?",meaning:"ඔයා හෙට වැඩ කරන්නේ මොන වැඩ මුරයේද?"},
+   {text:"The evening shift, from three to eleven.",reading:"දි ඊව්නින් ෂිෆ්ට්, ෆ්‍රම් ත්‍රී ටු ඉලෙවන්.",meaning:"සවස වැඩ මුරය, තුනේ සිට එකොළහ දක්වා."},
+   {text:"When does the morning shift start?",reading:"වෙන් ඩස් ද මෝර්නින් ෂිෆ්ට් ස්ටාර්ට්?",meaning:"උදෑසන වැඩ මුරය පටන් ගන්නේ කවදාද?"},
+   {text:"At seven in the morning.",reading:"ඇට් සෙවන් ඉන් ද මෝර්නින්.",meaning:"උදේ හතට."},
+   {text:"Can I swap my shift on Friday?",reading:"කැන් අයි ස්වොප් මයි ෂිෆ්ට් ඔන් ෆ්‍රයිඩේ?",meaning:"මට සිකුරාදා වැඩ මුරය මාරු කරගන්න පුළුවන්ද?"},
+   {text:"I'll check the schedule and let you know.",reading:"අයිල් චෙක් ද ස්කෙජූල් ඇන්ඩ් ලෙට් යූ නෝ.",meaning:"මම කාලසටහන බලලා ඔයාට දන්වන්නම්."}
+  ],
+  listeningPractice:{prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Sunday is my day off.”",audio:"Sunday is my day off.",options:["ඉරිදා මගේ වැඩ මුරයයි.","ඉරිදා මගේ නිවාඩු දිනයයි.","මම ඉරිදා වැඩ පටන් ගන්නවා."],readings:["සන්ඩේ ඉස් මයි ෂිෆ්ට්.","සන්ඩේ ඉස් මයි ඩේ ඕෆ්.","අයි ස්ටාර්ට් වර්ක් ඔන් සන්ඩේ."],answer:1,meaning:"Sunday is my day off. = ඉරිදා මගේ නිවාඩු දිනයයි."},
+  practice:[
+   {prompt:"“සවස වැඩ මුරය” තෝරන්න.",options:["The morning shift","The evening shift","A day off"],readings:["ද මෝර්නින් ෂිෆ්ට්","දි ඊව්නින් ෂිෆ්ට්","අ ඩේ ඕෆ්"],answer:1,explanation:"The evening shift = සවස වැඩ මුරය."},
+   {prompt:"“නිවාඩු දිනය” කියන්නේ?",options:["The schedule","A day off","A swap"],readings:["ද ස්කෙජූල්","අ ඩේ ඕෆ්","අ ස්වොප්"],answer:1,explanation:"A day off = නිවාඩු දිනයක්."},
+   {prompt:"වැඩ මුරය පටන් ගන්නා වේලාව අසන්න.",options:["What time does the shift start?","How much is it?","Where is the pharmacy?"],readings:["වොට් ටයිම් ඩස් ද ෂිෆ්ට් ස්ටාර්ට්?","හවු මච් ඉස් ඉට්?","වෙයාර් ඉස් ද ෆාමසි?"],answer:0,explanation:"What time does the shift start? = වැඩ මුරය පටන් ගන්නේ කීයටද?"},
+   {prompt:"“මට වැඩ මුරය මාරු කරගන්න පුළුවන්ද?” තෝරන්න.",options:["Can I swap my shift?","I work every day.","That's all."],readings:["කැන් අයි ස්වොප් මයි ෂිෆ්ට්?","අයි වර්ක් එව්රි ඩේ.","දැට්ස් ඕල්."],answer:0,explanation:"Can I ...? යනු මට ... කරන්න පුළුවන්ද? යන ඉල්ලීමේ රටාවයි."}
+  ]
+ }
+
 ];
