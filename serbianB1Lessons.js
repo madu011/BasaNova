@@ -141,21 +141,21 @@ export const SERBIAN_B1_LESSONS = [
       {
         "prompt": "Choose the past form.",
         "options": [
-          "sam putovao",
           "putujem",
+          "sam putovao",
           "putovaću"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "sam putovao = මම ගමන් කළා"
       },
       {
         "prompt": "“odjednom” means…",
         "options": [
-          "එකවරම",
           "හැමදාම",
-          "හෙට"
+          "හෙට",
+          "එකවරම"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "odjednom = එකවරම"
       },
       {
@@ -301,21 +301,21 @@ export const SERBIAN_B1_LESSONS = [
       {
         "prompt": "“Po mom mišljenju” means…",
         "options": [
-          "මගේ අදහස අනුව",
           "ඊයේ උදේ",
+          "මගේ අදහස අනුව",
           "අවසානයේ"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Po mom mišljenju = මගේ අදහස අනුව"
       },
       {
         "prompt": "Choose agreement.",
         "options": [
-          "Slažem se.",
           "Kasnim.",
-          "Ne znam gde."
+          "Ne znam gde.",
+          "Slažem se."
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Slažem se = මම එකඟයි"
       },
       {
@@ -331,11 +331,11 @@ export const SERBIAN_B1_LESSONS = [
       {
         "prompt": "Choose a reason connector.",
         "options": [
-          "zato što",
           "juče",
+          "zato što",
           "uveče"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "zato što = මන්ද යත්"
       }
     ]
@@ -471,11 +471,11 @@ export const SERBIAN_B1_LESSONS = [
       {
         "prompt": "“raspored” means…",
         "options": [
-          "කාලසටහන",
           "පවුල",
-          "ප්‍රවෘත්තිය"
+          "ප්‍රවෘත්තිය",
+          "කාලසටහන"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "raspored = කාලසටහන"
       },
       {
@@ -491,21 +491,21 @@ export const SERBIAN_B1_LESSONS = [
       {
         "prompt": "“rok” means…",
         "options": [
-          "අවසාන දිනය",
           "උදෑසන",
+          "අවසාන දිනය",
           "අත්දැකීම"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "rok = අවසාන දිනය"
       },
       {
         "prompt": "“odgovoran” means…",
         "options": [
-          "වගකිවයුතු",
           "අමතක වූ",
-          "මිල අඩු"
+          "මිල අඩු",
+          "වගකිවයුතු"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "odgovoran = වගකිවයුතු"
       }
     ]
@@ -651,21 +651,21 @@ export const SERBIAN_B1_LESSONS = [
       {
         "prompt": "Choose the first conditional.",
         "options": [
-          "Ako krenemo, stići ćemo.",
           "Ako krenuli, stižemo juče.",
+          "Ako krenemo, stići ćemo.",
           "Krenuo sam sutra."
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Ako + present, ćemo + future"
       },
       {
         "prompt": "“posledica” means…",
         "options": [
-          "ප්‍රතිඵලය",
           "ආරාධනය",
-          "ලිපිනය"
+          "ලිපිනය",
+          "ප්‍රතිඵලය"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "posledica = ප්‍රතිඵලය"
       },
       {
@@ -811,21 +811,21 @@ export const SERBIAN_B1_LESSONS = [
       {
         "prompt": "“izveštaj” means…",
         "options": [
-          "වාර්තාව",
           "ගෙවීම",
+          "වාර්තාව",
           "සපත්තු"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "izveštaj = වාර්තාව"
       },
       {
         "prompt": "“Prema izveštaju” means…",
         "options": [
-          "වාර්තාවට අනුව",
           "මට අවශ්‍යයි",
-          "ඊළඟ සතියේ"
+          "ඊළඟ සතියේ",
+          "වාර්තාවට අනුව"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Prema izveštaju = වාර්තාවට අනුව"
       },
       {
@@ -841,11 +841,11 @@ export const SERBIAN_B1_LESSONS = [
       {
         "prompt": "“ukratko” means…",
         "options": [
-          "කෙටියෙන්",
           "ඉතා හොඳින්",
+          "කෙටියෙන්",
           "කලින්"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "ukratko = කෙටියෙන්"
       }
     ]
@@ -981,11 +981,11 @@ export const SERBIAN_B1_LESSONS = [
       {
         "prompt": "Choose a formal request.",
         "options": [
-          "Da li biste mogli…?",
           "Daj mi odmah!",
-          "Neću."
+          "Neću.",
+          "Da li biste mogli…?"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Da li biste mogli…? = ඔබට පුළුවන්ද…?"
       },
       {
@@ -1001,21 +1001,21 @@ export const SERBIAN_B1_LESSONS = [
       {
         "prompt": "“unapred” means…",
         "options": [
-          "කලින්",
           "පසුව",
+          "කලින්",
           "අද"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "unapred = කලින්"
       },
       {
         "prompt": "Choose a polite closing.",
         "options": [
-          "Hvala vam unapred.",
           "Ćao, požuri!",
-          "Ne zanima me."
+          "Ne zanima me.",
+          "Hvala vam unapred."
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Hvala vam unapred = කලින්ම ස්තුතියි"
       }
     ]
@@ -1161,21 +1161,21 @@ export const SERBIAN_B1_LESSONS = [
       {
         "prompt": "Choose a clarification question.",
         "options": [
-          "Možete li da pojasnite?",
           "Koliko je sati?",
+          "Možete li da pojasnite?",
           "Gde je stanica?"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Možete li da pojasnite? = පැහැදිලි කරන්න පුළුවන්ද?"
       },
       {
         "prompt": "“zapravo” means…",
         "options": [
-          "ඇත්ත වශයෙන්",
           "හෙට",
-          "අඩු මිල"
+          "අඩු මිල",
+          "ඇත්ත වශයෙන්"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "zapravo = ඇත්ත වශයෙන්"
       },
       {
@@ -1321,21 +1321,21 @@ export const SERBIAN_B1_LESSONS = [
       {
         "prompt": "“podeliti” means…",
         "options": [
-          "බෙදාගන්නවා",
           "අමතක කරනවා",
+          "බෙදාගන්නවා",
           "මිලදී ගන්නවා"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "podeliti = බෙදාගන්නවා"
       },
       {
         "prompt": "“zatim” means…",
         "options": [
-          "ඊළඟට",
           "කවදාවත්",
-          "ඊයේ"
+          "ඊයේ",
+          "ඊළඟට"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "zatim = ඊළඟට"
       },
       {
@@ -1351,11 +1351,11 @@ export const SERBIAN_B1_LESSONS = [
       {
         "prompt": "“napredak” means…",
         "options": [
-          "ප්‍රගතිය",
           "වට්ටම",
+          "ප්‍රගතිය",
           "අත්දැකීම"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "napredak = ප්‍රගතිය"
       }
     ]
@@ -1491,11 +1491,11 @@ export const SERBIAN_B1_LESSONS = [
       {
         "prompt": "“ranije” means…",
         "options": [
-          "කලින්",
           "අනාගතයේ",
-          "අද රාත්‍රියේ"
+          "අද රාත්‍රියේ",
+          "කලින්"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "ranije = කලින්"
       },
       {
@@ -1511,21 +1511,21 @@ export const SERBIAN_B1_LESSONS = [
       {
         "prompt": "“postepeno” means…",
         "options": [
-          "ක්‍රමයෙන්",
           "එකවරම",
+          "ක්‍රමයෙන්",
           "හදිසියේ"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "postepeno = ක්‍රමයෙන්"
       },
       {
         "prompt": "Choose a contrast word.",
         "options": [
-          "sada",
           "zato",
-          "jer"
+          "jer",
+          "sada"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "sada = දැන්"
       }
     ]
@@ -1671,21 +1671,21 @@ export const SERBIAN_B1_LESSONS = [
       {
         "prompt": "Choose advice.",
         "options": [
-          "Na tvom mestu, razgovarao bih…",
           "Sutra sam bio…",
+          "Na tvom mestu, razgovarao bih…",
           "Koliko imaš godina?"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Na tvom mestu = ඔයාගේ තැන මම හිටියා නම්"
       },
       {
         "prompt": "“razmotriti” means…",
         "options": [
-          "සලකා බලනවා",
           "අවසන් කරනවා",
-          "බෙදාගන්නවා"
+          "බෙදාගන්නවා",
+          "සලකා බලනවා"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "razmotriti = සලකා බලනවා"
       },
       {
