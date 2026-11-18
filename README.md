@@ -148,3 +148,9 @@ GitHub Actions runs dependency installation, Expo SDK compatibility checks, and 
 - Added practical hotel language for asking about room availability, choosing single/double rooms, checking nightly prices and breakfast, confirming a reservation, asking for the Wi-Fi password and reporting a room-service problem.
 - Includes 12 vocabulary entries, five grammar phrase cards, four examples, an eight-line dialogue, one listening task and four comprehension questions. Each English phrase has a Sinhala-script pronunciation approximation and Sinhala meaning; the existing lesson renderer supplies individual English TTS controls.
 - English A1 now has seven structured starter lessons. This is still a partial A1 course, not a complete CEFR A1 curriculum. Pronunciation guides are approximations and need review; no physical Android test or APK build has been performed.
+
+
+### English A1 mixed revision — hotel and accommodation
+- Extended the English mixed revision from six to seven questions, adding an accommodation listening item about breakfast inclusion.
+- The new item includes an English audio sentence, Sinhala-script approximate reading, three Sinhala meaning choices, answer feedback and the existing English TTS replay control.
+- The lesson 7 listening task remains available inside the hotel lesson itself. English A1 is still a partial starter curriculum, not a complete CEFR A1 course.
