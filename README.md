@@ -154,3 +154,8 @@ GitHub Actions runs dependency installation, Expo SDK compatibility checks, and 
 - Extended the English mixed revision from six to seven questions, adding an accommodation listening item about breakfast inclusion.
 - The new item includes an English audio sentence, Sinhala-script approximate reading, three Sinhala meaning choices, answer feedback and the existing English TTS replay control.
 - The lesson 7 listening task remains available inside the hotel lesson itself. English A1 is still a partial starter curriculum, not a complete CEFR A1 course.
+
+
+### Serbian A1 — audio for embedded phrases
+- Serbian grammar explanations and checked quiz explanations now surface quoted Serbian phrases as individual phrase rows, with approximate Sinhala-script pronunciation and a dedicated Serbian TTS replay control.
+- Existing vocabulary, grammar-term, example, dialogue and Serbian quiz-option controls remain unchanged. Sinhala transliterations are approximate and still need native-speaker review.
