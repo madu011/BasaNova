@@ -1,4 +1,4 @@
-// Structured Serbian B2 lessons 1–40. Sinhala readings are approximate learner guides.
+// Structured Serbian B2 lessons 1–50. Sinhala readings are approximate learner guides.
 export const SERBIAN_B2_LESSONS = [
   {
     "id": "sr-b2-l1",
@@ -6897,6 +6897,1706 @@ export const SERBIAN_B2_LESSONS = [
         ],
         "answer": 0,
         "explanation": "If-clause එකෙන් කොන්දේසිය සහ එහි ප්‍රතිඵලය සම්බන්ධ කරයි."
+      }
+    ]
+  },
+  {
+    "id": "sr-b2-l41",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · පාඩම 41 · ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය",
+    "objective": "ජාත්‍යන්තර සාකච්ඡාවලදී ස්ථාවරයන් පැහැදිලි කර සම්මුතියක් ගොඩනඟන්න.",
+    "vocabulary": [
+      {
+        "word": "saradnja",
+        "reading": "සරාද්න්යා",
+        "meaning": "සහයෝගීතාව",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය සන්දර්භයේ සහයෝගීතාව යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "sporazum",
+        "reading": "ස්පොරසුම්",
+        "meaning": "ගිවිසුම",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය සන්දර්භයේ ගිවිසුම යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "pregovori",
+        "reading": "ප්‍රෙගොවොරි",
+        "meaning": "සාකච්ඡා",
+        "example": "Iako postoje izazovi, možemo pronaći praktičan pristup.",
+        "translation": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය සන්දර්භයේ සාකච්ඡා යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "delegacija",
+        "reading": "දෙලෙගාත්සියා",
+        "meaning": "නියෝජිත පිරිස",
+        "example": "Na osnovu dokaza, treba doneti pažljivu odluku.",
+        "translation": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය සන්දර්භයේ නියෝජිත පිරිස යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "interes",
+        "reading": "ඉන්ටෙරෙස්",
+        "meaning": "අභිලාෂය",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය සන්දර්භයේ අභිලාෂය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "stav",
+        "reading": "ස්තාව",
+        "meaning": "ස්ථාවරය",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය සන්දර්භයේ ස්ථාවරය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "savez",
+        "reading": "සාවෙස්",
+        "meaning": "සන්ධානය",
+        "example": "Iako postoje izazovi, možemo pronaći praktičan pristup.",
+        "translation": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය සන්දර්භයේ සන්ධානය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "kompromis",
+        "reading": "කොම්ප්‍රොමිස්",
+        "meaning": "සම්මුතිය",
+        "example": "Na osnovu dokaza, treba doneti pažljivu odluku.",
+        "translation": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය සන්දර්භයේ සම්මුතිය යන වචනය භාවිතා වේ."
+      }
+    ],
+    "grammarTitle": "Diplomatic language and cautious proposals",
+    "grammar": "Diplomatic language and cautious proposals: Predlažemo zajednički okvir koji poštuje interese svih strana. මෙම රටාව සන්දර්භයට ගැළපෙන ලෙස භාවිතා කරමින් අදහස් පැහැදිලිව, නිවැරදිව සහ ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Predlažemo zajednički okvir koji poštuje interese svih strana.",
+        "reading": "වඅෂ්නො යේ දා රאַזමොත්‍රිමෝ ස්වේ රෙලෙවන්ත්නේ චිњෙනිත්සේ.",
+        "si": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය"
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Važno je da razmotrimo sve relevantne činjenice.",
+        "reading": "වඅෂ්නො යේ දා රאַזමොත්‍රිමෝ ස්වේ රෙලෙවන්ත්නේ චිњෙනිත්සේ.",
+        "si": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "sr": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "reading": "ප්‍රෙද්ලාෂෙම් දා උපොරෙදිමෝ නෙකොලිකෝ මොගුචිහ රෙෂෙන්යා.",
+        "si": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "sr": "Iako postoje izazovi, možemo pronaći praktičan pristup.",
+        "reading": "ඉයාකෝ පොස්තොයේ ඉස්ඛාසොවි, මොෂෙමෝ ප්‍රොනාචි ප්‍රාක්තිචාන් ප්‍රිස්තුප්.",
+        "si": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය: 3 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "sr": "Na osnovu dokaza, treba doneti pažljivu odluku.",
+        "reading": "නා ඔස්නොවු දොකාසා, ත්‍රෙබා දොනෙති පෂ්ලියිවු ඔද්ලුකු.",
+        "si": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය: 4 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "Kako biste opisali glavni izazov?",
+        "reading": "කාකෝ බිස්තෙ ඔපිසාලි ග්ලව්නි ඉස්සාස්?",
+        "si": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය පිළිබඳ සංවාදයේ 1 වන ප්‍රතිචාරය."
+      },
+      {
+        "sr": "Predložio bih da prvo proverimo činjenice.",
+        "reading": "ප්‍රෙද්ලොෂියෝ බිහ දා ප්‍ර්වෝ ප්‍රොවෙරිමෝ චිњෙනිත්සේ.",
+        "si": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය පිළිබඳ සංවාදයේ 2 වන ප්‍රතිචාරය."
+      },
+      {
+        "sr": "To ima smisla, ali treba razmotriti i posledice.",
+        "reading": "තෝ ඉමා ස්මිස්ලා, අලි ත්‍රෙබා රაზමොත්‍රිති ඉ පොස්ලෙදිත්සේ.",
+        "si": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය පිළිබඳ සංවාදයේ 3 වන ප්‍රතිචාරය."
+      },
+      {
+        "sr": "Slažem se. Hajde da dogovorimo sledeće korake.",
+        "reading": "ස්ලාෂෙම් සේ. හාය්දේ දා දොගොවොරිමෝ ස්ලෙදෙචේ කොරකේ.",
+        "si": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය පිළිබඳ සංවාදයේ 4 වන ප්‍රතිචාරය."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "හඬ අසා නිවැරදි අර්ථය තෝරන්න.",
+      "audio": "Predlažemo zajednički okvir koji poštuje interese svih strana.",
+      "reading": "වඅෂ්නො යේ දා රאַזමොත්‍රිමෝ ස්වේ රෙලෙවන්ත්නේ චිњෙනිත්සේ.",
+      "options": [
+        "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය සම්බන්ධයෙන් සියලු පාර්ශ්වවල අවශ්‍යතා සලකන පොදු රාමුවක් යෝජනා කරමු.",
+        "Danas je lepo vreme.",
+        "Kupio sam hleb u prodavnici."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය: නිවැරදි ප්‍රකාශය තෝරන්න.",
+        "options": [
+          "Predlažemo zajednički okvir koji poštuje interese svih strana.",
+          "Danas je lepo vreme.",
+          "Kupio sam hleb u prodavnici."
+        ],
+        "answer": 0,
+        "explanation": "මෙම වාක්‍යය ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය මාතෘකාවට ගැළපේ."
+      },
+      {
+        "prompt": "Which phrase introduces a careful recommendation?",
+        "options": [
+          "I would suggest that we review the evidence.",
+          "The blue quickly window.",
+          "Yesterday at seven because."
+        ],
+        "answer": 0,
+        "explanation": "“I would suggest…” යනු ආචාරශීලී නිර්දේශයක් ඉදිරිපත් කරන රටාවකි."
+      },
+      {
+        "prompt": "සංකීර්ණ සාකච්ඡාවකදී වඩාත් සුදුසු ක්‍රියාව කුමක්ද?",
+        "options": [
+          "සාධක පරීක්ෂා කර විකල්ප සසඳා බැලීම.",
+          "අනෙක් අදහස් නොසලකා හැරීම.",
+          "සාකච්ඡාවට අදාළ නොවන කරුණු පැවසීම."
+        ],
+        "answer": 0,
+        "explanation": "B2 මට්ටමේදී සාධක මත පදනම්ව විකල්ප ඇගයීම වැදගත්ය."
+      },
+      {
+        "prompt": "Choose the best sentence for a balanced conclusion.",
+        "options": [
+          "On the basis of the evidence, this option seems most reasonable.",
+          "I never read anything.",
+          "Because table quickly."
+        ],
+        "answer": 0,
+        "explanation": "මෙම වාක්‍යය සාධක මත පදනම් වූ සමබර නිගමනයක් දක්වයි."
+      }
+    ]
+  },
+  {
+    "id": "sr-b2-l42",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · පාඩම 42 · අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව",
+    "objective": "අර්බුදයකදී පැහැදිලි තොරතුරු ලබාදී අවිනිශ්චිතතාව නිවැරදිව දක්වන්න.",
+    "vocabulary": [
+      {
+        "word": "kriza",
+        "reading": "සරාද්න්යා",
+        "meaning": "අර්බුදය",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව සන්දර්භයේ අර්බුදය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "oporavak",
+        "reading": "ස්පොරසුම්",
+        "meaning": "ප්‍රකෘතිමත් වීම",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව සන්දර්භයේ ප්‍රකෘතිමත් වීම යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "otpornost",
+        "reading": "ප්‍රෙගොවොරි",
+        "meaning": "ඔරොත්තු දීමේ හැකියාව",
+        "example": "Iako postoje izazovi, možemo pronaći praktičan pristup.",
+        "translation": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව සන්දර්භයේ ඔරොත්තු දීමේ හැකියාව යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "upozorenje",
+        "reading": "දෙලෙගාත්සියා",
+        "meaning": "අනතුරු ඇඟවීම",
+        "example": "Na osnovu dokaza, treba doneti pažljivu odluku.",
+        "translation": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව සන්දර්භයේ අනතුරු ඇඟවීම යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "plan",
+        "reading": "ඉන්ටෙරෙස්",
+        "meaning": "සැලැස්ම",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව සන්දර්භයේ සැලැස්ම යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "prekid",
+        "reading": "ස්තාව",
+        "meaning": "බාධාව",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව සන්දර්භයේ බාධාව යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "procena",
+        "reading": "සාවෙස්",
+        "meaning": "ඇගයීම",
+        "example": "Iako postoje izazovi, možemo pronaći praktičan pristup.",
+        "translation": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව සන්දර්භයේ ඇගයීම යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "obaveštenje",
+        "reading": "කොම්ප්‍රොමිස්",
+        "meaning": "දැනුම්දීම",
+        "example": "Na osnovu dokaza, treba doneti pažljivu odluku.",
+        "translation": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව සන්දර්භයේ දැනුම්දීම යන වචනය භාවිතා වේ."
+      }
+    ],
+    "grammarTitle": "Clear sequencing and conditional updates",
+    "grammar": "Clear sequencing and conditional updates: Čim dobijemo potvrđene informacije, obavestićemo sve zaposlene. මෙම රටාව සන්දර්භයට ගැළපෙන ලෙස භාවිතා කරමින් අදහස් පැහැදිලිව, නිවැරදිව සහ ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Čim dobijemo potvrđene informacije, obavestićemo sve zaposlene.",
+        "reading": "වඅෂ්නො යේ දා රאַזමොත්‍රිමෝ ස්වේ රෙලෙවන්ත්නේ චිњෙනිත්සේ.",
+        "si": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව"
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Važno je da razmotrimo sve relevantne činjenice.",
+        "reading": "වඅෂ්නො යේ දා රאַזමොත්‍රිමෝ ස්වේ රෙලෙවන්ත්නේ චිњෙනිත්සේ.",
+        "si": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "sr": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "reading": "ප්‍රෙද්ලාෂෙම් දා උපොරෙදිමෝ නෙකොලිකෝ මොගුචිහ රෙෂෙන්යා.",
+        "si": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "sr": "Iako postoje izazovi, možemo pronaći praktičan pristup.",
+        "reading": "ඉයාකෝ පොස්තොයේ ඉස්ඛාසොවි, මොෂෙමෝ ප්‍රොනාචි ප්‍රාක්තිචාන් ප්‍රිස්තුප්.",
+        "si": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව: 3 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "sr": "Na osnovu dokaza, treba doneti pažljivu odluku.",
+        "reading": "නා ඔස්නොවු දොකාසා, ත්‍රෙබා දොනෙති පෂ්ලියිවු ඔද්ලුකු.",
+        "si": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව: 4 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "Kako biste opisali glavni izazov?",
+        "reading": "කාකෝ බිස්තෙ ඔපිසාලි ග්ලව්නි ඉස්සාස්?",
+        "si": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව පිළිබඳ සංවාදයේ 1 වන ප්‍රතිචාරය."
+      },
+      {
+        "sr": "Predložio bih da prvo proverimo činjenice.",
+        "reading": "ප්‍රෙද්ලොෂියෝ බිහ දා ප්‍ර්වෝ ප්‍රොවෙරිමෝ චිњෙනිත්සේ.",
+        "si": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව පිළිබඳ සංවාදයේ 2 වන ප්‍රතිචාරය."
+      },
+      {
+        "sr": "To ima smisla, ali treba razmotriti i posledice.",
+        "reading": "තෝ ඉමා ස්මිස්ලා, අලි ත්‍රෙබා රაზමොත්‍රිති ඉ පොස්ලෙදිත්සේ.",
+        "si": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව පිළිබඳ සංවාදයේ 3 වන ප්‍රතිචාරය."
+      },
+      {
+        "sr": "Slažem se. Hajde da dogovorimo sledeće korake.",
+        "reading": "ස්ලාෂෙම් සේ. හාය්දේ දා දොගොවොරිමෝ ස්ලෙදෙචේ කොරකේ.",
+        "si": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව පිළිබඳ සංවාදයේ 4 වන ප්‍රතිචාරය."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "හඬ අසා නිවැරදි අර්ථය තෝරන්න.",
+      "audio": "Čim dobijemo potvrđene informacije, obavestićemo sve zaposlene.",
+      "reading": "වඅෂ්නො යේ දා රאַזමොත්‍රිමෝ ස්වේ රෙලෙවන්ත්නේ චිњෙනිත්සේ.",
+      "options": [
+        "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව සම්බන්ධයෙන් සියලු පාර්ශ්වවල අවශ්‍යතා සලකන පොදු රාමුවක් යෝජනා කරමු.",
+        "Danas je lepo vreme.",
+        "Kupio sam hleb u prodavnici."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව: නිවැරදි ප්‍රකාශය තෝරන්න.",
+        "options": [
+          "Čim dobijemo potvrđene informacije, obavestićemo sve zaposlene.",
+          "Danas je lepo vreme.",
+          "Kupio sam hleb u prodavnici."
+        ],
+        "answer": 0,
+        "explanation": "මෙම වාක්‍යය අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව මාතෘකාවට ගැළපේ."
+      },
+      {
+        "prompt": "Which phrase introduces a careful recommendation?",
+        "options": [
+          "I would suggest that we review the evidence.",
+          "The blue quickly window.",
+          "Yesterday at seven because."
+        ],
+        "answer": 0,
+        "explanation": "“I would suggest…” යනු ආචාරශීලී නිර්දේශයක් ඉදිරිපත් කරන රටාවකි."
+      },
+      {
+        "prompt": "සංකීර්ණ සාකච්ඡාවකදී වඩාත් සුදුසු ක්‍රියාව කුමක්ද?",
+        "options": [
+          "සාධක පරීක්ෂා කර විකල්ප සසඳා බැලීම.",
+          "අනෙක් අදහස් නොසලකා හැරීම.",
+          "සාකච්ඡාවට අදාළ නොවන කරුණු පැවසීම."
+        ],
+        "answer": 0,
+        "explanation": "B2 මට්ටමේදී සාධක මත පදනම්ව විකල්ප ඇගයීම වැදගත්ය."
+      },
+      {
+        "prompt": "Choose the best sentence for a balanced conclusion.",
+        "options": [
+          "On the basis of the evidence, this option seems most reasonable.",
+          "I never read anything.",
+          "Because table quickly."
+        ],
+        "answer": 0,
+        "explanation": "මෙම වාක්‍යය සාධක මත පදනම් වූ සමබර නිගමනයක් දක්වයි."
+      }
+    ]
+  },
+  {
+    "id": "sr-b2-l43",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · පාඩම 43 · උසස් සාකච්ඡා උපායමාර්ග",
+    "objective": "විකල්ප සසඳා අන්‍යෝන්‍ය ප්‍රතිලාභ සහිත එකඟතාවක් සකස් කරන්න.",
+    "vocabulary": [
+      {
+        "word": "ustupak",
+        "reading": "සරාද්න්යා",
+        "meaning": "සහනයක් දීම",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "උසස් සාකච්ඡා උපායමාර්ග සන්දර්භයේ සහනයක් දීම යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "pregovaračka pozicija",
+        "reading": "ස්පොරසුම්",
+        "meaning": "සාකච්ඡා ස්ථාවරය",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "උසස් සාකච්ඡා උපායමාර්ග සන්දර්භයේ සාකච්ඡා ස්ථාවරය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "uslov",
+        "reading": "ප්‍රෙගොවොරි",
+        "meaning": "කොන්දේසිය",
+        "example": "Iako postoje izazovi, možemo pronaći praktičan pristup.",
+        "translation": "උසස් සාකච්ඡා උපායමාර්ග සන්දර්භයේ කොන්දේසිය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "ponuda",
+        "reading": "දෙලෙගාත්සියා",
+        "meaning": "ඉල්ලුම / යෝජනාව",
+        "example": "Na osnovu dokaza, treba doneti pažljivu odluku.",
+        "translation": "උසස් සාකච්ඡා උපායමාර්ග සන්දර්භයේ ඉල්ලුම / යෝජනාව යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "protivponuda",
+        "reading": "ඉන්ටෙරෙස්",
+        "meaning": "ප්‍රති යෝජනාව",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "උසස් සාකච්ඡා උපායමාර්ග සන්දර්භයේ ප්‍රති යෝජනාව යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "obostrano",
+        "reading": "ස්තාව",
+        "meaning": "දෙපාර්ශ්වයටම",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "උසස් සාකච්ඡා උපායමාර්ග සන්දර්භයේ දෙපාර්ශ්වයටම යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "fleksibilnost",
+        "reading": "සාවෙස්",
+        "meaning": "නම්‍යශීලීභාවය",
+        "example": "Iako postoje izazovi, možemo pronaći praktičan pristup.",
+        "translation": "උසස් සාකච්ඡා උපායමාර්ග සන්දර්භයේ නම්‍යශීලීභාවය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "ishod",
+        "reading": "කොම්ප්‍රොමිස්",
+        "meaning": "ප්‍රතිඵලය",
+        "example": "Na osnovu dokaza, treba doneti pažljivu odluku.",
+        "translation": "උසස් සාකච්ඡා උපායමාර්ග සන්දර්භයේ ප්‍රතිඵලය යන වචනය භාවිතා වේ."
+      }
+    ],
+    "grammarTitle": "Concessive clauses and bargaining language",
+    "grammar": "Concessive clauses and bargaining language: Ukoliko napravimo ustupak u ovom delu, očekujemo fleksibilnost u drugom. මෙම රටාව සන්දර්භයට ගැළපෙන ලෙස භාවිතා කරමින් අදහස් පැහැදිලිව, නිවැරදිව සහ ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Ukoliko napravimo ustupak u ovom delu, očekujemo fleksibilnost u drugom.",
+        "reading": "වඅෂ්නො යේ දා රאַזමොත්‍රිමෝ ස්වේ රෙලෙවන්ත්නේ චිњෙනිත්සේ.",
+        "si": "උසස් සාකච්ඡා උපායමාර්ග"
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Važno je da razmotrimo sve relevantne činjenice.",
+        "reading": "වඅෂ්නො යේ දා රאַזමොත්‍රිමෝ ස්වේ රෙලෙවන්ත්නේ චිњෙනිත්සේ.",
+        "si": "උසස් සාකච්ඡා උපායමාර්ග: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "sr": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "reading": "ප්‍රෙද්ලාෂෙම් දා උපොරෙදිමෝ නෙකොලිකෝ මොගුචිහ රෙෂෙන්යා.",
+        "si": "උසස් සාකච්ඡා උපායමාර්ග: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "sr": "Iako postoje izazovi, možemo pronaći praktičan pristup.",
+        "reading": "ඉයාකෝ පොස්තොයේ ඉස්ඛාසොවි, මොෂෙමෝ ප්‍රොනාචි ප්‍රාක්තිචාන් ප්‍රිස්තුප්.",
+        "si": "උසස් සාකච්ඡා උපායමාර්ග: 3 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "sr": "Na osnovu dokaza, treba doneti pažljivu odluku.",
+        "reading": "නා ඔස්නොවු දොකාසා, ත්‍රෙබා දොනෙති පෂ්ලියිවු ඔද්ලුකු.",
+        "si": "උසස් සාකච්ඡා උපායමාර්ග: 4 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "Kako biste opisali glavni izazov?",
+        "reading": "කාකෝ බිස්තෙ ඔපිසාලි ග්ලව්නි ඉස්සාස්?",
+        "si": "උසස් සාකච්ඡා උපායමාර්ග පිළිබඳ සංවාදයේ 1 වන ප්‍රතිචාරය."
+      },
+      {
+        "sr": "Predložio bih da prvo proverimo činjenice.",
+        "reading": "ප්‍රෙද්ලොෂියෝ බිහ දා ප්‍ර්වෝ ප්‍රොවෙරිමෝ චිњෙනිත්සේ.",
+        "si": "උසස් සාකච්ඡා උපායමාර්ග පිළිබඳ සංවාදයේ 2 වන ප්‍රතිචාරය."
+      },
+      {
+        "sr": "To ima smisla, ali treba razmotriti i posledice.",
+        "reading": "තෝ ඉමා ස්මිස්ලා, අලි ත්‍රෙබා රაზමොත්‍රිති ඉ පොස්ලෙදිත්සේ.",
+        "si": "උසස් සාකච්ඡා උපායමාර්ග පිළිබඳ සංවාදයේ 3 වන ප්‍රතිචාරය."
+      },
+      {
+        "sr": "Slažem se. Hajde da dogovorimo sledeće korake.",
+        "reading": "ස්ලාෂෙම් සේ. හාය්දේ දා දොගොවොරිමෝ ස්ලෙදෙචේ කොරකේ.",
+        "si": "උසස් සාකච්ඡා උපායමාර්ග පිළිබඳ සංවාදයේ 4 වන ප්‍රතිචාරය."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "හඬ අසා නිවැරදි අර්ථය තෝරන්න.",
+      "audio": "Ukoliko napravimo ustupak u ovom delu, očekujemo fleksibilnost u drugom.",
+      "reading": "වඅෂ්නො යේ දා රאַזමොත්‍රිමෝ ස්වේ රෙලෙවන්ත්නේ චිњෙනිත්සේ.",
+      "options": [
+        "උසස් සාකච්ඡා උපායමාර්ග සම්බන්ධයෙන් සියලු පාර්ශ්වවල අවශ්‍යතා සලකන පොදු රාමුවක් යෝජනා කරමු.",
+        "Danas je lepo vreme.",
+        "Kupio sam hleb u prodavnici."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "උසස් සාකච්ඡා උපායමාර්ග: නිවැරදි ප්‍රකාශය තෝරන්න.",
+        "options": [
+          "Ukoliko napravimo ustupak u ovom delu, očekujemo fleksibilnost u drugom.",
+          "Danas je lepo vreme.",
+          "Kupio sam hleb u prodavnici."
+        ],
+        "answer": 0,
+        "explanation": "මෙම වාක්‍යය උසස් සාකච්ඡා උපායමාර්ග මාතෘකාවට ගැළපේ."
+      },
+      {
+        "prompt": "Which phrase introduces a careful recommendation?",
+        "options": [
+          "I would suggest that we review the evidence.",
+          "The blue quickly window.",
+          "Yesterday at seven because."
+        ],
+        "answer": 0,
+        "explanation": "“I would suggest…” යනු ආචාරශීලී නිර්දේශයක් ඉදිරිපත් කරන රටාවකි."
+      },
+      {
+        "prompt": "සංකීර්ණ සාකච්ඡාවකදී වඩාත් සුදුසු ක්‍රියාව කුමක්ද?",
+        "options": [
+          "සාධක පරීක්ෂා කර විකල්ප සසඳා බැලීම.",
+          "අනෙක් අදහස් නොසලකා හැරීම.",
+          "සාකච්ඡාවට අදාළ නොවන කරුණු පැවසීම."
+        ],
+        "answer": 0,
+        "explanation": "B2 මට්ටමේදී සාධක මත පදනම්ව විකල්ප ඇගයීම වැදගත්ය."
+      },
+      {
+        "prompt": "Choose the best sentence for a balanced conclusion.",
+        "options": [
+          "On the basis of the evidence, this option seems most reasonable.",
+          "I never read anything.",
+          "Because table quickly."
+        ],
+        "answer": 0,
+        "explanation": "මෙම වාක්‍යය සාධක මත පදනම් වූ සමබර නිගමනයක් දක්වයි."
+      }
+    ]
+  },
+  {
+    "id": "sr-b2-l44",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · පාඩම 44 · සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය",
+    "objective": "කෘතියක තේමාව, කථන දෘෂ්ටිකෝණය සහ සංකේත විග්‍රහ කරන්න.",
+    "vocabulary": [
+      {
+        "word": "književnost",
+        "reading": "සරාද්න්යා",
+        "meaning": "සාහිත්‍යය",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය සන්දර්භයේ සාහිත්‍යය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "motiv",
+        "reading": "ස්පොරසුම්",
+        "meaning": "මූලික තේමාව",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය සන්දර්භයේ මූලික තේමාව යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "simbol",
+        "reading": "ප්‍රෙගොවොරි",
+        "meaning": "සංකේතය",
+        "example": "Iako postoje izazovi, možemo pronaći praktičan pristup.",
+        "translation": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය සන්දර්භයේ සංකේතය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "pripovedač",
+        "reading": "දෙලෙගාත්සියා",
+        "meaning": "කථකයා",
+        "example": "Na osnovu dokaza, treba doneti pažljivu odluku.",
+        "translation": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය සන්දර්භයේ කථකයා යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "tumačenje",
+        "reading": "ඉන්ටෙරෙස්",
+        "meaning": "අර්ථකථනය",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය සන්දර්භයේ අර්ථකථනය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "metafora",
+        "reading": "ස්තාව",
+        "meaning": "රූපකය",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය සන්දර්භයේ රූපකය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "kontekst",
+        "reading": "සාවෙස්",
+        "meaning": "සන්දර්භය",
+        "example": "Iako postoje izazovi, možemo pronaći praktičan pristup.",
+        "translation": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය සන්දර්භයේ සන්දර්භය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "perspektiva",
+        "reading": "කොම්ප්‍රොමිස්",
+        "meaning": "දෘෂ්ටිකෝණය",
+        "example": "Na osnovu dokaza, treba doneti pažljivu odluku.",
+        "translation": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය සන්දර්භයේ දෘෂ්ටිකෝණය යන වචනය භාවිතා වේ."
+      }
+    ],
+    "grammarTitle": "Interpretive and evidential language",
+    "grammar": "Interpretive and evidential language: Ovaj motiv može se tumačiti kao simbol društvene promene. මෙම රටාව සන්දර්භයට ගැළපෙන ලෙස භාවිතා කරමින් අදහස් පැහැදිලිව, නිවැරදිව සහ ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Ovaj motiv može se tumačiti kao simbol društvene promene.",
+        "reading": "වඅෂ්නො යේ දා රאַזමොත්‍රිමෝ ස්වේ රෙලෙවන්ත්නේ චිњෙනිත්සේ.",
+        "si": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය"
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Važno je da razmotrimo sve relevantne činjenice.",
+        "reading": "වඅෂ්නො යේ දා රאַזමොත්‍රිමෝ ස්වේ රෙලෙවන්ත්නේ චිњෙනිත්සේ.",
+        "si": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "sr": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "reading": "ප්‍රෙද්ලාෂෙම් දා උපොරෙදිමෝ නෙකොලිකෝ මොගුචිහ රෙෂෙන්යා.",
+        "si": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "sr": "Iako postoje izazovi, možemo pronaći praktičan pristup.",
+        "reading": "ඉයාකෝ පොස්තොයේ ඉස්ඛාසොවි, මොෂෙමෝ ප්‍රොනාචි ප්‍රාක්තිචාන් ප්‍රිස්තුප්.",
+        "si": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය: 3 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "sr": "Na osnovu dokaza, treba doneti pažljivu odluku.",
+        "reading": "නා ඔස්නොවු දොකාසා, ත්‍රෙබා දොනෙති පෂ්ලියිවු ඔද්ලුකු.",
+        "si": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය: 4 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "Kako biste opisali glavni izazov?",
+        "reading": "කාකෝ බිස්තෙ ඔපිසාලි ග්ලව්නි ඉස්සාස්?",
+        "si": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය පිළිබඳ සංවාදයේ 1 වන ප්‍රතිචාරය."
+      },
+      {
+        "sr": "Predložio bih da prvo proverimo činjenice.",
+        "reading": "ප්‍රෙද්ලොෂියෝ බිහ දා ප්‍ර්වෝ ප්‍රොවෙරිමෝ චිњෙනිත්සේ.",
+        "si": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය පිළිබඳ සංවාදයේ 2 වන ප්‍රතිචාරය."
+      },
+      {
+        "sr": "To ima smisla, ali treba razmotriti i posledice.",
+        "reading": "තෝ ඉමා ස්මිස්ලා, අලි ත්‍රෙබා රაზමොත්‍රිති ඉ පොස්ලෙදිත්සේ.",
+        "si": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය පිළිබඳ සංවාදයේ 3 වන ප්‍රතිචාරය."
+      },
+      {
+        "sr": "Slažem se. Hajde da dogovorimo sledeće korake.",
+        "reading": "ස්ලාෂෙම් සේ. හාය්දේ දා දොගොවොරිමෝ ස්ලෙදෙචේ කොරකේ.",
+        "si": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය පිළිබඳ සංවාදයේ 4 වන ප්‍රතිචාරය."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "හඬ අසා නිවැරදි අර්ථය තෝරන්න.",
+      "audio": "Ovaj motiv može se tumačiti kao simbol društvene promene.",
+      "reading": "වඅෂ්නො යේ දා රאַזමොත්‍රිමෝ ස්වේ රෙලෙවන්ත්නේ චිњෙනිත්සේ.",
+      "options": [
+        "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය සම්බන්ධයෙන් සියලු පාර්ශ්වවල අවශ්‍යතා සලකන පොදු රාමුවක් යෝජනා කරමු.",
+        "Danas je lepo vreme.",
+        "Kupio sam hleb u prodavnici."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය: නිවැරදි ප්‍රකාශය තෝරන්න.",
+        "options": [
+          "Ovaj motiv može se tumačiti kao simbol društvene promene.",
+          "Danas je lepo vreme.",
+          "Kupio sam hleb u prodavnici."
+        ],
+        "answer": 0,
+        "explanation": "මෙම වාක්‍යය සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය මාතෘකාවට ගැළපේ."
+      },
+      {
+        "prompt": "Which phrase introduces a careful recommendation?",
+        "options": [
+          "I would suggest that we review the evidence.",
+          "The blue quickly window.",
+          "Yesterday at seven because."
+        ],
+        "answer": 0,
+        "explanation": "“I would suggest…” යනු ආචාරශීලී නිර්දේශයක් ඉදිරිපත් කරන රටාවකි."
+      },
+      {
+        "prompt": "සංකීර්ණ සාකච්ඡාවකදී වඩාත් සුදුසු ක්‍රියාව කුමක්ද?",
+        "options": [
+          "සාධක පරීක්ෂා කර විකල්ප සසඳා බැලීම.",
+          "අනෙක් අදහස් නොසලකා හැරීම.",
+          "සාකච්ඡාවට අදාළ නොවන කරුණු පැවසීම."
+        ],
+        "answer": 0,
+        "explanation": "B2 මට්ටමේදී සාධක මත පදනම්ව විකල්ප ඇගයීම වැදගත්ය."
+      },
+      {
+        "prompt": "Choose the best sentence for a balanced conclusion.",
+        "options": [
+          "On the basis of the evidence, this option seems most reasonable.",
+          "I never read anything.",
+          "Because table quickly."
+        ],
+        "answer": 0,
+        "explanation": "මෙම වාක්‍යය සාධක මත පදනම් වූ සමබර නිගමනයක් දක්වයි."
+      }
+    ]
+  },
+  {
+    "id": "sr-b2-l45",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · පාඩම 45 · වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා",
+    "objective": "විධිමත් ලිපි, විධායක සාරාංශ සහ වාර්තා පැහැදිලිව සකස් කරන්න.",
+    "vocabulary": [
+      {
+        "word": "prilog",
+        "reading": "සරාද්න්යා",
+        "meaning": "ඇමුණුම",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා සන්දර්භයේ ඇමුණුම යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "sažetak",
+        "reading": "ස්පොරසුම්",
+        "meaning": "සාරාංශය",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා සන්දර්භයේ සාරාංශය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "nalaz",
+        "reading": "ප්‍රෙගොවොරි",
+        "meaning": "සොයාගැනීම",
+        "example": "Iako postoje izazovi, možemo pronaći praktičan pristup.",
+        "translation": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා සන්දර්භයේ සොයාගැනීම යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "preporuka",
+        "reading": "දෙලෙගාත්සියා",
+        "meaning": "නිර්දේශය",
+        "example": "Na osnovu dokaza, treba doneti pažljivu odluku.",
+        "translation": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා සන්දර්භයේ නිර්දේශය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "dopuna",
+        "reading": "ඉන්ටෙරෙස්",
+        "meaning": "අතිරේකය",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා සන්දර්භයේ අතිරේකය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "rok",
+        "reading": "ස්තාව",
+        "meaning": "කාලසීමාව",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා සන්දර්භයේ කාලසීමාව යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "zapisnik",
+        "reading": "සාවෙස්",
+        "meaning": "වාර්තා සටහන",
+        "example": "Iako postoje izazovi, možemo pronaći praktičan pristup.",
+        "translation": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා සන්දර්භයේ වාර්තා සටහන යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "zahtev",
+        "reading": "කොම්ප්‍රොමිස්",
+        "meaning": "ඉල්ලීම",
+        "example": "Na osnovu dokaza, treba doneti pažljivu odluku.",
+        "translation": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා සන්දර්භයේ ඉල්ලීම යන වචනය භාවිතා වේ."
+      }
+    ],
+    "grammarTitle": "Formal register and concise reporting",
+    "grammar": "Formal register and concise reporting: U prilogu dostavljamo sažetak nalaza i preporučene naredne korake. මෙම රටාව සන්දර්භයට ගැළපෙන ලෙස භාවිතා කරමින් අදහස් පැහැදිලිව, නිවැරදිව සහ ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "U prilogu dostavljamo sažetak nalaza i preporučene naredne korake.",
+        "reading": "වඅෂ්නො යේ දා රאַזමොත්‍රිමෝ ස්වේ රෙලෙවන්ත්නේ චිњෙනිත්සේ.",
+        "si": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා"
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Važno je da razmotrimo sve relevantne činjenice.",
+        "reading": "වඅෂ්නො යේ දා රאַזමොත්‍රිමෝ ස්වේ රෙලෙවන්ත්නේ චිњෙනිත්සේ.",
+        "si": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "sr": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "reading": "ප්‍රෙද්ලාෂෙම් දා උපොරෙදිමෝ නෙකොලිකෝ මොගුචිහ රෙෂෙන්යා.",
+        "si": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "sr": "Iako postoje izazovi, možemo pronaći praktičan pristup.",
+        "reading": "ඉයාකෝ පොස්තොයේ ඉස්ඛාසොවි, මොෂෙමෝ ප්‍රොනාචි ප්‍රාක්තිචාන් ප්‍රිස්තුප්.",
+        "si": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා: 3 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "sr": "Na osnovu dokaza, treba doneti pažljivu odluku.",
+        "reading": "නා ඔස්නොවු දොකාසා, ත්‍රෙබා දොනෙති පෂ්ලියිවු ඔද්ලුකු.",
+        "si": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා: 4 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "Kako biste opisali glavni izazov?",
+        "reading": "කාකෝ බිස්තෙ ඔපිසාලි ග්ලව්නි ඉස්සාස්?",
+        "si": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා පිළිබඳ සංවාදයේ 1 වන ප්‍රතිචාරය."
+      },
+      {
+        "sr": "Predložio bih da prvo proverimo činjenice.",
+        "reading": "ප්‍රෙද්ලොෂියෝ බිහ දා ප්‍ර්වෝ ප්‍රොවෙරිමෝ චිњෙනිත්සේ.",
+        "si": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා පිළිබඳ සංවාදයේ 2 වන ප්‍රතිචාරය."
+      },
+      {
+        "sr": "To ima smisla, ali treba razmotriti i posledice.",
+        "reading": "තෝ ඉමා ස්මිස්ලා, අලි ත්‍රෙබා රაზමොත්‍රිති ඉ පොස්ලෙදිත්සේ.",
+        "si": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා පිළිබඳ සංවාදයේ 3 වන ප්‍රතිචාරය."
+      },
+      {
+        "sr": "Slažem se. Hajde da dogovorimo sledeće korake.",
+        "reading": "ස්ලාෂෙම් සේ. හාය්දේ දා දොගොවොරිමෝ ස්ලෙදෙචේ කොරකේ.",
+        "si": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා පිළිබඳ සංවාදයේ 4 වන ප්‍රතිචාරය."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "හඬ අසා නිවැරදි අර්ථය තෝරන්න.",
+      "audio": "U prilogu dostavljamo sažetak nalaza i preporučene naredne korake.",
+      "reading": "වඅෂ්නො යේ දා රאַזමොත්‍රිමෝ ස්වේ රෙලෙවන්ත්නේ චිњෙනිත්සේ.",
+      "options": [
+        "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා සම්බන්ධයෙන් සියලු පාර්ශ්වවල අවශ්‍යතා සලකන පොදු රාමුවක් යෝජනා කරමු.",
+        "Danas je lepo vreme.",
+        "Kupio sam hleb u prodavnici."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා: නිවැරදි ප්‍රකාශය තෝරන්න.",
+        "options": [
+          "U prilogu dostavljamo sažetak nalaza i preporučene naredne korake.",
+          "Danas je lepo vreme.",
+          "Kupio sam hleb u prodavnici."
+        ],
+        "answer": 0,
+        "explanation": "මෙම වාක්‍යය වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා මාතෘකාවට ගැළපේ."
+      },
+      {
+        "prompt": "Which phrase introduces a careful recommendation?",
+        "options": [
+          "I would suggest that we review the evidence.",
+          "The blue quickly window.",
+          "Yesterday at seven because."
+        ],
+        "answer": 0,
+        "explanation": "“I would suggest…” යනු ආචාරශීලී නිර්දේශයක් ඉදිරිපත් කරන රටාවකි."
+      },
+      {
+        "prompt": "සංකීර්ණ සාකච්ඡාවකදී වඩාත් සුදුසු ක්‍රියාව කුමක්ද?",
+        "options": [
+          "සාධක පරීක්ෂා කර විකල්ප සසඳා බැලීම.",
+          "අනෙක් අදහස් නොසලකා හැරීම.",
+          "සාකච්ඡාවට අදාළ නොවන කරුණු පැවසීම."
+        ],
+        "answer": 0,
+        "explanation": "B2 මට්ටමේදී සාධක මත පදනම්ව විකල්ප ඇගයීම වැදගත්ය."
+      },
+      {
+        "prompt": "Choose the best sentence for a balanced conclusion.",
+        "options": [
+          "On the basis of the evidence, this option seems most reasonable.",
+          "I never read anything.",
+          "Because table quickly."
+        ],
+        "answer": 0,
+        "explanation": "මෙම වාක්‍යය සාධක මත පදනම් වූ සමබර නිගමනයක් දක්වයි."
+      }
+    ]
+  },
+  {
+    "id": "sr-b2-l46",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · පාඩම 46 · සමාජ අසමානතාව සහ ඇතුළත්කම",
+    "objective": "සමාජ ප්‍රතිපත්ති සහ අවස්ථා සමානත්වය පිළිබඳ තර්කානුකූලව සාකච්ඡා කරන්න.",
+    "vocabulary": [
+      {
+        "word": "nejednakost",
+        "reading": "සරාද්න්යා",
+        "meaning": "අසමානතාව",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "සමාජ අසමානතාව සහ ඇතුළත්කම සන්දර්භයේ අසමානතාව යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "uključenost",
+        "reading": "ස්පොරසුම්",
+        "meaning": "ඇතුළත්කම",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "සමාජ අසමානතාව සහ ඇතුළත්කම සන්දර්භයේ ඇතුළත්කම යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "pristup",
+        "reading": "ප්‍රෙගොවොරි",
+        "meaning": "ප්‍රවේශය",
+        "example": "Iako postoje izazovi, možemo pronaći praktičan pristup.",
+        "translation": "සමාජ අසමානතාව සහ ඇතුළත්කම සන්දර්භයේ ප්‍රවේශය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "jednakost",
+        "reading": "දෙලෙගාත්සියා",
+        "meaning": "සමානාත්මතාව",
+        "example": "Na osnovu dokaza, treba doneti pažljivu odluku.",
+        "translation": "සමාජ අසමානතාව සහ ඇතුළත්කම සන්දර්භයේ සමානාත්මතාව යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "siromaštvo",
+        "reading": "ඉන්ටෙරෙස්",
+        "meaning": "දරිද්‍රතාව",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "සමාජ අසමානතාව සහ ඇතුළත්කම සන්දර්භයේ දරිද්‍රතාව යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "podrška",
+        "reading": "ස්තාව",
+        "meaning": "සහාය",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "සමාජ අසමානතාව සහ ඇතුළත්කම සන්දර්භයේ සහාය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "diskriminacija",
+        "reading": "සාවෙස්",
+        "meaning": "වෙනස්කොට සැලකීම",
+        "example": "Iako postoje izazovi, možemo pronaći praktičan pristup.",
+        "translation": "සමාජ අසමානතාව සහ ඇතුළත්කම සන්දර්භයේ වෙනස්කොට සැලකීම යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "mogućnost",
+        "reading": "කොම්ප්‍රොමිස්",
+        "meaning": "අවස්ථාව",
+        "example": "Na osnovu dokaza, treba doneti pažljivu odluku.",
+        "translation": "සමාජ අසමානතාව සහ ඇතුළත්කම සන්දර්භයේ අවස්ථාව යන වචනය භාවිතා වේ."
+      }
+    ],
+    "grammarTitle": "Comparative structures and balanced claims",
+    "grammar": "Comparative structures and balanced claims: Pristup obrazovanju treba da bude jednako dostupan svim grupama. මෙම රටාව සන්දර්භයට ගැළපෙන ලෙස භාවිතා කරමින් අදහස් පැහැදිලිව, නිවැරදිව සහ ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Pristup obrazovanju treba da bude jednako dostupan svim grupama.",
+        "reading": "වඅෂ්නො යේ දා රאַזමොත්‍රිමෝ ස්වේ රෙලෙවන්ත්නේ චිњෙනිත්සේ.",
+        "si": "සමාජ අසමානතාව සහ ඇතුළත්කම"
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Važno je da razmotrimo sve relevantne činjenice.",
+        "reading": "වඅෂ්නො යේ දා රאַזමොත්‍රිමෝ ස්වේ රෙලෙවන්ත්නේ චිњෙනිත්සේ.",
+        "si": "සමාජ අසමානතාව සහ ඇතුළත්කම: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "sr": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "reading": "ප්‍රෙද්ලාෂෙම් දා උපොරෙදිමෝ නෙකොලිකෝ මොගුචිහ රෙෂෙන්යා.",
+        "si": "සමාජ අසමානතාව සහ ඇතුළත්කම: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "sr": "Iako postoje izazovi, možemo pronaći praktičan pristup.",
+        "reading": "ඉයාකෝ පොස්තොයේ ඉස්ඛාසොවි, මොෂෙමෝ ප්‍රොනාචි ප්‍රාක්තිචාන් ප්‍රිස්තුප්.",
+        "si": "සමාජ අසමානතාව සහ ඇතුළත්කම: 3 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "sr": "Na osnovu dokaza, treba doneti pažljivu odluku.",
+        "reading": "නා ඔස්නොවු දොකාසා, ත්‍රෙබා දොනෙති පෂ්ලියිවු ඔද්ලුකු.",
+        "si": "සමාජ අසමානතාව සහ ඇතුළත්කම: 4 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "Kako biste opisali glavni izazov?",
+        "reading": "කාකෝ බිස්තෙ ඔපිසාලි ග්ලව්නි ඉස්සාස්?",
+        "si": "සමාජ අසමානතාව සහ ඇතුළත්කම පිළිබඳ සංවාදයේ 1 වන ප්‍රතිචාරය."
+      },
+      {
+        "sr": "Predložio bih da prvo proverimo činjenice.",
+        "reading": "ප්‍රෙද්ලොෂියෝ බිහ දා ප්‍ර්වෝ ප්‍රොවෙරිමෝ චිњෙනිත්සේ.",
+        "si": "සමාජ අසමානතාව සහ ඇතුළත්කම පිළිබඳ සංවාදයේ 2 වන ප්‍රතිචාරය."
+      },
+      {
+        "sr": "To ima smisla, ali treba razmotriti i posledice.",
+        "reading": "තෝ ඉමා ස්මිස්ලා, අලි ත්‍රෙබා රაზමොත්‍රිති ඉ පොස්ලෙදිත්සේ.",
+        "si": "සමාජ අසමානතාව සහ ඇතුළත්කම පිළිබඳ සංවාදයේ 3 වන ප්‍රතිචාරය."
+      },
+      {
+        "sr": "Slažem se. Hajde da dogovorimo sledeće korake.",
+        "reading": "ස්ලාෂෙම් සේ. හාය්දේ දා දොගොවොරිමෝ ස්ලෙදෙචේ කොරකේ.",
+        "si": "සමාජ අසමානතාව සහ ඇතුළත්කම පිළිබඳ සංවාදයේ 4 වන ප්‍රතිචාරය."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "හඬ අසා නිවැරදි අර්ථය තෝරන්න.",
+      "audio": "Pristup obrazovanju treba da bude jednako dostupan svim grupama.",
+      "reading": "වඅෂ්නො යේ දා රאַזමොත්‍රිමෝ ස්වේ රෙලෙවන්ත්නේ චිњෙනිත්සේ.",
+      "options": [
+        "සමාජ අසමානතාව සහ ඇතුළත්කම සම්බන්ධයෙන් සියලු පාර්ශ්වවල අවශ්‍යතා සලකන පොදු රාමුවක් යෝජනා කරමු.",
+        "Danas je lepo vreme.",
+        "Kupio sam hleb u prodavnici."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "සමාජ අසමානතාව සහ ඇතුළත්කම: නිවැරදි ප්‍රකාශය තෝරන්න.",
+        "options": [
+          "Pristup obrazovanju treba da bude jednako dostupan svim grupama.",
+          "Danas je lepo vreme.",
+          "Kupio sam hleb u prodavnici."
+        ],
+        "answer": 0,
+        "explanation": "මෙම වාක්‍යය සමාජ අසමානතාව සහ ඇතුළත්කම මාතෘකාවට ගැළපේ."
+      },
+      {
+        "prompt": "Which phrase introduces a careful recommendation?",
+        "options": [
+          "I would suggest that we review the evidence.",
+          "The blue quickly window.",
+          "Yesterday at seven because."
+        ],
+        "answer": 0,
+        "explanation": "“I would suggest…” යනු ආචාරශීලී නිර්දේශයක් ඉදිරිපත් කරන රටාවකි."
+      },
+      {
+        "prompt": "සංකීර්ණ සාකච්ඡාවකදී වඩාත් සුදුසු ක්‍රියාව කුමක්ද?",
+        "options": [
+          "සාධක පරීක්ෂා කර විකල්ප සසඳා බැලීම.",
+          "අනෙක් අදහස් නොසලකා හැරීම.",
+          "සාකච්ඡාවට අදාළ නොවන කරුණු පැවසීම."
+        ],
+        "answer": 0,
+        "explanation": "B2 මට්ටමේදී සාධක මත පදනම්ව විකල්ප ඇගයීම වැදගත්ය."
+      },
+      {
+        "prompt": "Choose the best sentence for a balanced conclusion.",
+        "options": [
+          "On the basis of the evidence, this option seems most reasonable.",
+          "I never read anything.",
+          "Because table quickly."
+        ],
+        "answer": 0,
+        "explanation": "මෙම වාක්‍යය සාධක මත පදනම් වූ සමබර නිගමනයක් දක්වයි."
+      }
+    ]
+  },
+  {
+    "id": "sr-b2-l47",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · පාඩම 47 · සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව",
+    "objective": "සංචාරක කර්මාන්තයේ ආර්ථික වාසි සහ ප්‍රාදේශීය බලපෑම් සසඳන්න.",
+    "vocabulary": [
+      {
+        "word": "turizam",
+        "reading": "සරාද්න්යා",
+        "meaning": "සංචාරක කර්මාන්තය",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව සන්දර්භයේ සංචාරක කර්මාන්තය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "baština",
+        "reading": "ස්පොරසුම්",
+        "meaning": "උරුමය",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව සන්දර්භයේ උරුමය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "posetilac",
+        "reading": "ප්‍රෙගොවොරි",
+        "meaning": "අමුත්තා",
+        "example": "Iako postoje izazovi, možemo pronaći praktičan pristup.",
+        "translation": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව සන්දර්භයේ අමුත්තා යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "sezona",
+        "reading": "දෙලෙගාත්සියා",
+        "meaning": "කාලසීමාව",
+        "example": "Na osnovu dokaza, treba doneti pažljivu odluku.",
+        "translation": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව සන්දර්භයේ කාලසීමාව යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "prihod",
+        "reading": "ඉන්ටෙරෙස්",
+        "meaning": "ආදායම",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව සන්දර්භයේ ආදායම යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "zajednica",
+        "reading": "ස්තාව",
+        "meaning": "ප්‍රජාව",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව සන්දර්භයේ ප්‍රජාව යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "očuvanje",
+        "reading": "සාවෙස්",
+        "meaning": "සංරක්ෂණය",
+        "example": "Iako postoje izazovi, možemo pronaći praktičan pristup.",
+        "translation": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව සන්දර්භයේ සංරක්ෂණය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "održivost",
+        "reading": "කොම්ප්‍රොමිස්",
+        "meaning": "තිරසාරභාවය",
+        "example": "Na osnovu dokaza, treba doneti pažljivu odluku.",
+        "translation": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව සන්දර්භයේ තිරසාරභාවය යන වචනය භාවිතා වේ."
+      }
+    ],
+    "grammarTitle": "Balancing benefits and drawbacks",
+    "grammar": "Balancing benefits and drawbacks: Turizam donosi prihod, ali mora očuvati lokalnu kulturu i prirodu. මෙම රටාව සන්දර්භයට ගැළපෙන ලෙස භාවිතා කරමින් අදහස් පැහැදිලිව, නිවැරදිව සහ ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Turizam donosi prihod, ali mora očuvati lokalnu kulturu i prirodu.",
+        "reading": "වඅෂ්නො යේ දා රאַזමොත්‍රිමෝ ස්වේ රෙලෙවන්ත්නේ චිњෙනිත්සේ.",
+        "si": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව"
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Važno je da razmotrimo sve relevantne činjenice.",
+        "reading": "වඅෂ්නො යේ දා රאַזමොත්‍රිමෝ ස්වේ රෙලෙවන්ත්නේ චිњෙනිත්සේ.",
+        "si": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "sr": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "reading": "ප්‍රෙද්ලාෂෙම් දා උපොරෙදිමෝ නෙකොලිකෝ මොගුචිහ රෙෂෙන්යා.",
+        "si": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "sr": "Iako postoje izazovi, možemo pronaći praktičan pristup.",
+        "reading": "ඉයාකෝ පොස්තොයේ ඉස්ඛාසොවි, මොෂෙමෝ ප්‍රොනාචි ප්‍රාක්තිචාන් ප්‍රිස්තුප්.",
+        "si": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව: 3 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "sr": "Na osnovu dokaza, treba doneti pažljivu odluku.",
+        "reading": "නා ඔස්නොවු දොකාසා, ත්‍රෙබා දොනෙති පෂ්ලියිවු ඔද්ලුකු.",
+        "si": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව: 4 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "Kako biste opisali glavni izazov?",
+        "reading": "කාකෝ බිස්තෙ ඔපිසාලි ග්ලව්නි ඉස්සාස්?",
+        "si": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව පිළිබඳ සංවාදයේ 1 වන ප්‍රතිචාරය."
+      },
+      {
+        "sr": "Predložio bih da prvo proverimo činjenice.",
+        "reading": "ප්‍රෙද්ලොෂියෝ බිහ දා ප්‍ර්වෝ ප්‍රොවෙරිමෝ චිњෙනිත්සේ.",
+        "si": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව පිළිබඳ සංවාදයේ 2 වන ප්‍රතිචාරය."
+      },
+      {
+        "sr": "To ima smisla, ali treba razmotriti i posledice.",
+        "reading": "තෝ ඉමා ස්මිස්ලා, අලි ත්‍රෙබා රაზමොත්‍රිති ඉ පොස්ලෙදිත්සේ.",
+        "si": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව පිළිබඳ සංවාදයේ 3 වන ප්‍රතිචාරය."
+      },
+      {
+        "sr": "Slažem se. Hajde da dogovorimo sledeće korake.",
+        "reading": "ස්ලාෂෙම් සේ. හාය්දේ දා දොගොවොරිමෝ ස්ලෙදෙචේ කොරකේ.",
+        "si": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව පිළිබඳ සංවාදයේ 4 වන ප්‍රතිචාරය."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "හඬ අසා නිවැරදි අර්ථය තෝරන්න.",
+      "audio": "Turizam donosi prihod, ali mora očuvati lokalnu kulturu i prirodu.",
+      "reading": "වඅෂ්නො යේ දා රאַזමොත්‍රිමෝ ස්වේ රෙලෙවන්ත්නේ චිњෙනිත්සේ.",
+      "options": [
+        "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව සම්බන්ධයෙන් සියලු පාර්ශ්වවල අවශ්‍යතා සලකන පොදු රාමුවක් යෝජනා කරමු.",
+        "Danas je lepo vreme.",
+        "Kupio sam hleb u prodavnici."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව: නිවැරදි ප්‍රකාශය තෝරන්න.",
+        "options": [
+          "Turizam donosi prihod, ali mora očuvati lokalnu kulturu i prirodu.",
+          "Danas je lepo vreme.",
+          "Kupio sam hleb u prodavnici."
+        ],
+        "answer": 0,
+        "explanation": "මෙම වාක්‍යය සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව මාතෘකාවට ගැළපේ."
+      },
+      {
+        "prompt": "Which phrase introduces a careful recommendation?",
+        "options": [
+          "I would suggest that we review the evidence.",
+          "The blue quickly window.",
+          "Yesterday at seven because."
+        ],
+        "answer": 0,
+        "explanation": "“I would suggest…” යනු ආචාරශීලී නිර්දේශයක් ඉදිරිපත් කරන රටාවකි."
+      },
+      {
+        "prompt": "සංකීර්ණ සාකච්ඡාවකදී වඩාත් සුදුසු ක්‍රියාව කුමක්ද?",
+        "options": [
+          "සාධක පරීක්ෂා කර විකල්ප සසඳා බැලීම.",
+          "අනෙක් අදහස් නොසලකා හැරීම.",
+          "සාකච්ඡාවට අදාළ නොවන කරුණු පැවසීම."
+        ],
+        "answer": 0,
+        "explanation": "B2 මට්ටමේදී සාධක මත පදනම්ව විකල්ප ඇගයීම වැදගත්ය."
+      },
+      {
+        "prompt": "Choose the best sentence for a balanced conclusion.",
+        "options": [
+          "On the basis of the evidence, this option seems most reasonable.",
+          "I never read anything.",
+          "Because table quickly."
+        ],
+        "answer": 0,
+        "explanation": "මෙම වාක්‍යය සාධක මත පදනම් වූ සමබර නිගමනයක් දක්වයි."
+      }
+    ]
+  },
+  {
+    "id": "sr-b2-l48",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · පාඩම 48 · නවෝත්පාදනය සහ ව්‍යවසායකත්වය",
+    "objective": "ව්‍යාපාර අදහසක්, වෙළඳපොළ අවශ්‍යතාව සහ අවදානම ඉදිරිපත් කරන්න.",
+    "vocabulary": [
+      {
+        "word": "preduzetništvo",
+        "reading": "සරාද්න්යා",
+        "meaning": "ව්‍යවසායකත්වය",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය සන්දර්භයේ ව්‍යවසායකත්වය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "inovacija",
+        "reading": "ස්පොරසුම්",
+        "meaning": "නවෝත්පාදනය",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය සන්දර්භයේ නවෝත්පාදනය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "ulaganje",
+        "reading": "ප්‍රෙගොවොරි",
+        "meaning": "ආයෝජනය",
+        "example": "Iako postoje izazovi, možemo pronaći praktičan pristup.",
+        "translation": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය සන්දර්භයේ ආයෝජනය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "tržište",
+        "reading": "දෙලෙගාත්සියා",
+        "meaning": "වෙළඳපොළ",
+        "example": "Na osnovu dokaza, treba doneti pažljivu odluku.",
+        "translation": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය සන්දර්භයේ වෙළඳපොළ යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "pokretanje",
+        "reading": "ඉන්ටෙරෙස්",
+        "meaning": "ආරම්භ කිරීම",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය සන්දර්භයේ ආරම්භ කිරීම යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "konkurencija",
+        "reading": "ස්තාව",
+        "meaning": "තරඟය",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය සන්දර්භයේ තරඟය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "poslovni model",
+        "reading": "සාවෙස්",
+        "meaning": "ව්‍යාපාර ආකෘතිය",
+        "example": "Iako postoje izazovi, možemo pronaći praktičan pristup.",
+        "translation": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය සන්දර්භයේ ව්‍යාපාර ආකෘතිය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "rast",
+        "reading": "කොම්ප්‍රොමිස්",
+        "meaning": "වර්ධනය",
+        "example": "Na osnovu dokaza, treba doneti pažljivu odluku.",
+        "translation": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය සන්දර්භයේ වර්ධනය යන වචනය භාවිතා වේ."
+      }
+    ],
+    "grammarTitle": "Future forms and projected outcomes",
+    "grammar": "Future forms and projected outcomes: Ako pilot-projekat uspe, proširićemo uslugu na nova tržišta. මෙම රටාව සන්දර්භයට ගැළපෙන ලෙස භාවිතා කරමින් අදහස් පැහැදිලිව, නිවැරදිව සහ ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Ako pilot-projekat uspe, proširićemo uslugu na nova tržišta.",
+        "reading": "වඅෂ්නො යේ දා රאַזමොත්‍රිමෝ ස්වේ රෙලෙවන්ත්නේ චිњෙනිත්සේ.",
+        "si": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය"
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Važno je da razmotrimo sve relevantne činjenice.",
+        "reading": "වඅෂ්නො යේ දා රאַזමොත්‍රිමෝ ස්වේ රෙලෙවන්ත්නේ චිњෙනිත්සේ.",
+        "si": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "sr": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "reading": "ප්‍රෙද්ලාෂෙම් දා උපොරෙදිමෝ නෙකොලිකෝ මොගුචිහ රෙෂෙන්යා.",
+        "si": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "sr": "Iako postoje izazovi, možemo pronaći praktičan pristup.",
+        "reading": "ඉයාකෝ පොස්තොයේ ඉස්ඛාසොවි, මොෂෙමෝ ප්‍රොනාචි ප්‍රාක්තිචාන් ප්‍රිස්තුප්.",
+        "si": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය: 3 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "sr": "Na osnovu dokaza, treba doneti pažljivu odluku.",
+        "reading": "නා ඔස්නොවු දොකාසා, ත්‍රෙබා දොනෙති පෂ්ලියිවු ඔද්ලුකු.",
+        "si": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය: 4 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "Kako biste opisali glavni izazov?",
+        "reading": "කාකෝ බිස්තෙ ඔපිසාලි ග්ලව්නි ඉස්සාස්?",
+        "si": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය පිළිබඳ සංවාදයේ 1 වන ප්‍රතිචාරය."
+      },
+      {
+        "sr": "Predložio bih da prvo proverimo činjenice.",
+        "reading": "ප්‍රෙද්ලොෂියෝ බිහ දා ප්‍ර්වෝ ප්‍රොවෙරිමෝ චිњෙනිත්සේ.",
+        "si": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය පිළිබඳ සංවාදයේ 2 වන ප්‍රතිචාරය."
+      },
+      {
+        "sr": "To ima smisla, ali treba razmotriti i posledice.",
+        "reading": "තෝ ඉමා ස්මිස්ලා, අලි ත්‍රෙබා රაზමොත්‍රිති ඉ පොස්ලෙදිත්සේ.",
+        "si": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය පිළිබඳ සංවාදයේ 3 වන ප්‍රතිචාරය."
+      },
+      {
+        "sr": "Slažem se. Hajde da dogovorimo sledeće korake.",
+        "reading": "ස්ලාෂෙම් සේ. හාය්දේ දා දොගොවොරිමෝ ස්ලෙදෙචේ කොරකේ.",
+        "si": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය පිළිබඳ සංවාදයේ 4 වන ප්‍රතිචාරය."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "හඬ අසා නිවැරදි අර්ථය තෝරන්න.",
+      "audio": "Ako pilot-projekat uspe, proširićemo uslugu na nova tržišta.",
+      "reading": "වඅෂ්නො යේ දා රאַזමොත්‍රිමෝ ස්වේ රෙලෙවන්ත්නේ චිњෙනිත්සේ.",
+      "options": [
+        "නවෝත්පාදනය සහ ව්‍යවසායකත්වය සම්බන්ධයෙන් සියලු පාර්ශ්වවල අවශ්‍යතා සලකන පොදු රාමුවක් යෝජනා කරමු.",
+        "Danas je lepo vreme.",
+        "Kupio sam hleb u prodavnici."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය: නිවැරදි ප්‍රකාශය තෝරන්න.",
+        "options": [
+          "Ako pilot-projekat uspe, proširićemo uslugu na nova tržišta.",
+          "Danas je lepo vreme.",
+          "Kupio sam hleb u prodavnici."
+        ],
+        "answer": 0,
+        "explanation": "මෙම වාක්‍යය නවෝත්පාදනය සහ ව්‍යවසායකත්වය මාතෘකාවට ගැළපේ."
+      },
+      {
+        "prompt": "Which phrase introduces a careful recommendation?",
+        "options": [
+          "I would suggest that we review the evidence.",
+          "The blue quickly window.",
+          "Yesterday at seven because."
+        ],
+        "answer": 0,
+        "explanation": "“I would suggest…” යනු ආචාරශීලී නිර්දේශයක් ඉදිරිපත් කරන රටාවකි."
+      },
+      {
+        "prompt": "සංකීර්ණ සාකච්ඡාවකදී වඩාත් සුදුසු ක්‍රියාව කුමක්ද?",
+        "options": [
+          "සාධක පරීක්ෂා කර විකල්ප සසඳා බැලීම.",
+          "අනෙක් අදහස් නොසලකා හැරීම.",
+          "සාකච්ඡාවට අදාළ නොවන කරුණු පැවසීම."
+        ],
+        "answer": 0,
+        "explanation": "B2 මට්ටමේදී සාධක මත පදනම්ව විකල්ප ඇගයීම වැදගත්ය."
+      },
+      {
+        "prompt": "Choose the best sentence for a balanced conclusion.",
+        "options": [
+          "On the basis of the evidence, this option seems most reasonable.",
+          "I never read anything.",
+          "Because table quickly."
+        ],
+        "answer": 0,
+        "explanation": "මෙම වාක්‍යය සාධක මත පදනම් වූ සමබර නිගමනයක් දක්වයි."
+      }
+    ]
+  },
+  {
+    "id": "sr-b2-l49",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · පාඩම 49 · භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ",
+    "objective": "සන්දර්භය අනුව වචන තෝරාගෙන සෘජු සහ වක්‍ර අර්ථ හඳුනාගන්න.",
+    "vocabulary": [
+      {
+        "word": "nijansa",
+        "reading": "සරාද්න්යා",
+        "meaning": "සූක්ෂ්ම වෙනස",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ සන්දර්භයේ සූක්ෂ්ම වෙනස යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "izraz",
+        "reading": "ස්පොරසුම්",
+        "meaning": "ප්‍රකාශය",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ සන්දර්භයේ ප්‍රකාශය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "doslovno",
+        "reading": "ප්‍රෙගොවොරි",
+        "meaning": "වචනාර්ථයෙන්",
+        "example": "Iako postoje izazovi, možemo pronaći praktičan pristup.",
+        "translation": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ සන්දර්භයේ වචනාර්ථයෙන් යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "prenesen",
+        "reading": "දෙලෙගාත්සියා",
+        "meaning": "ව්‍යංගාර්ථයෙන්",
+        "example": "Na osnovu dokaza, treba doneti pažljivu odluku.",
+        "translation": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ සන්දර්භයේ ව්‍යංගාර්ථයෙන් යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "registar",
+        "reading": "ඉන්ටෙරෙස්",
+        "meaning": "භාෂා ශෛලිය",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ සන්දර්භයේ භාෂා ශෛලිය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "nagoveštaj",
+        "reading": "ස්තාව",
+        "meaning": "ඉඟිය",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ සන්දර්භයේ ඉඟිය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "dvosmislen",
+        "reading": "සාවෙස්",
+        "meaning": "ද්විඅර්ථවත්",
+        "example": "Iako postoje izazovi, možemo pronaći praktičan pristup.",
+        "translation": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ සන්දර්භයේ ද්විඅර්ථවත් යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "kontekst",
+        "reading": "කොම්ප්‍රොමිස්",
+        "meaning": "සන්දර්භය",
+        "example": "Na osnovu dokaza, treba doneti pažljivu odluku.",
+        "translation": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ සන්දර්භයේ සන්දර්භය යන වචනය භාවිතා වේ."
+      }
+    ],
+    "grammarTitle": "Idioms, register and implied meaning",
+    "grammar": "Idioms, register and implied meaning: Izraz može imati drugačije značenje u zavisnosti od konteksta. මෙම රටාව සන්දර්භයට ගැළපෙන ලෙස භාවිතා කරමින් අදහස් පැහැදිලිව, නිවැරදිව සහ ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Izraz može imati drugačije značenje u zavisnosti od konteksta.",
+        "reading": "වඅෂ්නො යේ දා රאַזමොත්‍රිමෝ ස්වේ රෙලෙවන්ත්නේ චිњෙනිත්සේ.",
+        "si": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ"
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Važno je da razmotrimo sve relevantne činjenice.",
+        "reading": "වඅෂ්නො යේ දා රאַזමොත්‍රිමෝ ස්වේ රෙලෙවන්ත්නේ චිњෙනිත්සේ.",
+        "si": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "sr": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "reading": "ප්‍රෙද්ලාෂෙම් දා උපොරෙදිමෝ නෙකොලිකෝ මොගුචිහ රෙෂෙන්යා.",
+        "si": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "sr": "Iako postoje izazovi, možemo pronaći praktičan pristup.",
+        "reading": "ඉයාකෝ පොස්තොයේ ඉස්ඛාසොවි, මොෂෙමෝ ප්‍රොනාචි ප්‍රාක්තිචාන් ප්‍රිස්තුප්.",
+        "si": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ: 3 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "sr": "Na osnovu dokaza, treba doneti pažljivu odluku.",
+        "reading": "නා ඔස්නොවු දොකාසා, ත්‍රෙබා දොනෙති පෂ්ලියිවු ඔද්ලුකු.",
+        "si": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ: 4 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "Kako biste opisali glavni izazov?",
+        "reading": "කාකෝ බිස්තෙ ඔපිසාලි ග්ලව්නි ඉස්සාස්?",
+        "si": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ පිළිබඳ සංවාදයේ 1 වන ප්‍රතිචාරය."
+      },
+      {
+        "sr": "Predložio bih da prvo proverimo činjenice.",
+        "reading": "ප්‍රෙද්ලොෂියෝ බිහ දා ප්‍ර්වෝ ප්‍රොවෙරිමෝ චිњෙනිත්සේ.",
+        "si": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ පිළිබඳ සංවාදයේ 2 වන ප්‍රතිචාරය."
+      },
+      {
+        "sr": "To ima smisla, ali treba razmotriti i posledice.",
+        "reading": "තෝ ඉමා ස්මිස්ලා, අලි ත්‍රෙබා රაზමොත්‍රිති ඉ පොස්ලෙදිත්සේ.",
+        "si": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ පිළිබඳ සංවාදයේ 3 වන ප්‍රතිචාරය."
+      },
+      {
+        "sr": "Slažem se. Hajde da dogovorimo sledeće korake.",
+        "reading": "ස්ලාෂෙම් සේ. හාය්දේ දා දොගොවොරිමෝ ස්ලෙදෙචේ කොරකේ.",
+        "si": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ පිළිබඳ සංවාදයේ 4 වන ප්‍රතිචාරය."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "හඬ අසා නිවැරදි අර්ථය තෝරන්න.",
+      "audio": "Izraz može imati drugačije značenje u zavisnosti od konteksta.",
+      "reading": "වඅෂ්නො යේ දා රאַזමොත්‍රිමෝ ස්වේ රෙලෙවන්ත්නේ චිњෙනිත්සේ.",
+      "options": [
+        "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ සම්බන්ධයෙන් සියලු පාර්ශ්වවල අවශ්‍යතා සලකන පොදු රාමුවක් යෝජනා කරමු.",
+        "Danas je lepo vreme.",
+        "Kupio sam hleb u prodavnici."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ: නිවැරදි ප්‍රකාශය තෝරන්න.",
+        "options": [
+          "Izraz može imati drugačije značenje u zavisnosti od konteksta.",
+          "Danas je lepo vreme.",
+          "Kupio sam hleb u prodavnici."
+        ],
+        "answer": 0,
+        "explanation": "මෙම වාක්‍යය භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ මාතෘකාවට ගැළපේ."
+      },
+      {
+        "prompt": "Which phrase introduces a careful recommendation?",
+        "options": [
+          "I would suggest that we review the evidence.",
+          "The blue quickly window.",
+          "Yesterday at seven because."
+        ],
+        "answer": 0,
+        "explanation": "“I would suggest…” යනු ආචාරශීලී නිර්දේශයක් ඉදිරිපත් කරන රටාවකි."
+      },
+      {
+        "prompt": "සංකීර්ණ සාකච්ඡාවකදී වඩාත් සුදුසු ක්‍රියාව කුමක්ද?",
+        "options": [
+          "සාධක පරීක්ෂා කර විකල්ප සසඳා බැලීම.",
+          "අනෙක් අදහස් නොසලකා හැරීම.",
+          "සාකච්ඡාවට අදාළ නොවන කරුණු පැවසීම."
+        ],
+        "answer": 0,
+        "explanation": "B2 මට්ටමේදී සාධක මත පදනම්ව විකල්ප ඇගයීම වැදගත්ය."
+      },
+      {
+        "prompt": "Choose the best sentence for a balanced conclusion.",
+        "options": [
+          "On the basis of the evidence, this option seems most reasonable.",
+          "I never read anything.",
+          "Because table quickly."
+        ],
+        "answer": 0,
+        "explanation": "මෙම වාක්‍යය සාධක මත පදනම් වූ සමබර නිගමනයක් දක්වයි."
+      }
+    ]
+  },
+  {
+    "id": "sr-b2-l50",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · පාඩම 50 · B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය",
+    "objective": "සංකීර්ණ මාතෘකාවක් පිළිබඳ කථනය, ලිවීම, කියවීම සහ ශ්‍රවණය ඒකාබද්ධ කරන්න.",
+    "vocabulary": [
+      {
+        "word": "zaključak",
+        "reading": "සරාද්න්යා",
+        "meaning": "නිගමනය",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය සන්දර්භයේ නිගමනය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "dokaz",
+        "reading": "ස්පොරසුම්",
+        "meaning": "සාධකය",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය සන්දර්භයේ සාධකය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "argument",
+        "reading": "ප්‍රෙගොවොරි",
+        "meaning": "තර්කය",
+        "example": "Iako postoje izazovi, možemo pronaći praktičan pristup.",
+        "translation": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය සන්දර්භයේ තර්කය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "sažeti",
+        "reading": "දෙලෙගාත්සියා",
+        "meaning": "සාරාංශ කිරීම",
+        "example": "Na osnovu dokaza, treba doneti pažljivu odluku.",
+        "translation": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය සන්දර්භයේ සාරාංශ කිරීම යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "procena",
+        "reading": "ඉන්ටෙරෙස්",
+        "meaning": "ඇගයීම",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය සන්දර්භයේ ඇගයීම යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "stav",
+        "reading": "ස්තාව",
+        "meaning": "මතය",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය සන්දර්භයේ මතය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "povezanost",
+        "reading": "සාවෙස්",
+        "meaning": "සම්බන්ධතාව",
+        "example": "Iako postoje izazovi, možemo pronaći praktičan pristup.",
+        "translation": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය සන්දර්භයේ සම්බන්ධතාව යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "preciznost",
+        "reading": "කොම්ප්‍රොමිස්",
+        "meaning": "නිරවද්‍යතාව",
+        "example": "Na osnovu dokaza, treba doneti pažljivu odluku.",
+        "translation": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය සන්දර්භයේ නිරවද්‍යතාව යන වචනය භාවිතා වේ."
+      }
+    ],
+    "grammarTitle": "Combining argument, evidence, concession and conclusion",
+    "grammar": "Combining argument, evidence, concession and conclusion: Na osnovu dostupnih dokaza, zaključujem da je ovo najuravnoteženije rešenje. මෙම රටාව සන්දර්භයට ගැළපෙන ලෙස භාවිතා කරමින් අදහස් පැහැදිලිව, නිවැරදිව සහ ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Na osnovu dostupnih dokaza, zaključujem da je ovo najuravnoteženije rešenje.",
+        "reading": "වඅෂ්නො යේ දා රאַזමොත්‍රිමෝ ස්වේ රෙලෙවන්ත්නේ චිњෙනිත්සේ.",
+        "si": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය"
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Važno je da razmotrimo sve relevantne činjenice.",
+        "reading": "වඅෂ්නො යේ දා රאַזමොත්‍රිමෝ ස්වේ රෙලෙවන්ත්නේ චිњෙනිත්සේ.",
+        "si": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "sr": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "reading": "ප්‍රෙද්ලාෂෙම් දා උපොරෙදිමෝ නෙකොලිකෝ මොගුචිහ රෙෂෙන්යා.",
+        "si": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "sr": "Iako postoje izazovi, možemo pronaći praktičan pristup.",
+        "reading": "ඉයාකෝ පොස්තොයේ ඉස්ඛාසොවි, මොෂෙමෝ ප්‍රොනාචි ප්‍රාක්තිචාන් ප්‍රිස්තුප්.",
+        "si": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය: 3 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "sr": "Na osnovu dokaza, treba doneti pažljivu odluku.",
+        "reading": "නා ඔස්නොවු දොකාසා, ත්‍රෙබා දොනෙති පෂ්ලියිවු ඔද්ලුකු.",
+        "si": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය: 4 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "Kako biste opisali glavni izazov?",
+        "reading": "කාකෝ බිස්තෙ ඔපිසාලි ග්ලව්නි ඉස්සාස්?",
+        "si": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය පිළිබඳ සංවාදයේ 1 වන ප්‍රතිචාරය."
+      },
+      {
+        "sr": "Predložio bih da prvo proverimo činjenice.",
+        "reading": "ප්‍රෙද්ලොෂියෝ බිහ දා ප්‍ර්වෝ ප්‍රොවෙරිමෝ චිњෙනිත්සේ.",
+        "si": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය පිළිබඳ සංවාදයේ 2 වන ප්‍රතිචාරය."
+      },
+      {
+        "sr": "To ima smisla, ali treba razmotriti i posledice.",
+        "reading": "තෝ ඉමා ස්මිස්ලා, අලි ත්‍රෙබා රაზමොත්‍රිති ඉ පොස්ලෙදිත්සේ.",
+        "si": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය පිළිබඳ සංවාදයේ 3 වන ප්‍රතිචාරය."
+      },
+      {
+        "sr": "Slažem se. Hajde da dogovorimo sledeće korake.",
+        "reading": "ස්ලාෂෙම් සේ. හාය්දේ දා දොගොවොරිමෝ ස්ලෙදෙචේ කොරකේ.",
+        "si": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය පිළිබඳ සංවාදයේ 4 වන ප්‍රතිචාරය."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "හඬ අසා නිවැරදි අර්ථය තෝරන්න.",
+      "audio": "Na osnovu dostupnih dokaza, zaključujem da je ovo najuravnoteženije rešenje.",
+      "reading": "වඅෂ්නො යේ දා රאַזමොත්‍රිමෝ ස්වේ රෙලෙවන්ත්නේ චිњෙනිත්සේ.",
+      "options": [
+        "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය සම්බන්ධයෙන් සියලු පාර්ශ්වවල අවශ්‍යතා සලකන පොදු රාමුවක් යෝජනා කරමු.",
+        "Danas je lepo vreme.",
+        "Kupio sam hleb u prodavnici."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය: නිවැරදි ප්‍රකාශය තෝරන්න.",
+        "options": [
+          "Na osnovu dostupnih dokaza, zaključujem da je ovo najuravnoteženije rešenje.",
+          "Danas je lepo vreme.",
+          "Kupio sam hleb u prodavnici."
+        ],
+        "answer": 0,
+        "explanation": "මෙම වාක්‍යය B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය මාතෘකාවට ගැළපේ."
+      },
+      {
+        "prompt": "Which phrase introduces a careful recommendation?",
+        "options": [
+          "I would suggest that we review the evidence.",
+          "The blue quickly window.",
+          "Yesterday at seven because."
+        ],
+        "answer": 0,
+        "explanation": "“I would suggest…” යනු ආචාරශීලී නිර්දේශයක් ඉදිරිපත් කරන රටාවකි."
+      },
+      {
+        "prompt": "සංකීර්ණ සාකච්ඡාවකදී වඩාත් සුදුසු ක්‍රියාව කුමක්ද?",
+        "options": [
+          "සාධක පරීක්ෂා කර විකල්ප සසඳා බැලීම.",
+          "අනෙක් අදහස් නොසලකා හැරීම.",
+          "සාකච්ඡාවට අදාළ නොවන කරුණු පැවසීම."
+        ],
+        "answer": 0,
+        "explanation": "B2 මට්ටමේදී සාධක මත පදනම්ව විකල්ප ඇගයීම වැදගත්ය."
+      },
+      {
+        "prompt": "Choose the best sentence for a balanced conclusion.",
+        "options": [
+          "On the basis of the evidence, this option seems most reasonable.",
+          "I never read anything.",
+          "Because table quickly."
+        ],
+        "answer": 0,
+        "explanation": "මෙම වාක්‍යය සාධක මත පදනම් වූ සමබර නිගමනයක් දක්වයි."
       }
     ]
   }
