@@ -43,13 +43,6 @@ export const SERBIAN_VOCAB_PACK_3 = [
     "translation": "මගේ මේස් කොහෙද?"
   },
   {
-    "word": "Cipele",
-    "meaning": "සපත්තු",
-    "sound": "ත්සිපෙලෙ",
-    "example": "Obuj cipele.",
-    "translation": "සපත්තු දාගන්න."
-  },
-  {
     "word": "Kaput",
     "meaning": "කෝට් එක",
     "sound": "කාපුත්",
@@ -395,13 +388,6 @@ export const ENGLISH_VOCAB_PACK_3 = [
     "translation": "මගේ මේස් කොහෙද?"
   },
   {
-    "word": "Shoes",
-    "meaning": "සපත්තු",
-    "sound": "ෂූස්",
-    "example": "Put on your shoes.",
-    "translation": "සපත්තු දාගන්න."
-  },
-  {
     "word": "Coat",
     "meaning": "කෝට් එක",
     "sound": "කෝට්",
@@ -589,13 +575,6 @@ export const ENGLISH_VOCAB_PACK_3 = [
     "sound": "සෙල්",
     "example": "I want to sell my bicycle.",
     "translation": "මට බයිසිකලය විකුණන්න ඕනේ."
-  },
-  {
-    "word": "Open",
-    "meaning": "අරිනවා",
-    "sound": "ඕපන්",
-    "example": "Open the door.",
-    "translation": "දොර අරින්න."
   },
   {
     "word": "Close",
