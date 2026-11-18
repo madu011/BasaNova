@@ -54,7 +54,7 @@ Created by **Madhuranga Yasanath**.
 
 
 ## Automated validation
-GitHub Actions runs dependency installation, Expo SDK compatibility checks, and an Android JavaScript bundle export on pushes and pull requests to `main`. The workflow generates a temporary lockfile during CI because this repository does not yet contain a committed `package-lock.json`. A successful workflow run is required before treating the current source as build-verified.
+GitHub Actions runs dependency installation, Expo SDK compatibility checks, and an Android JavaScript bundle export on pushes and pull requests to `main`. A separate **Android APK build** workflow generates the native Android project, assembles a signed debug APK, and uploads it as a downloadable artifact. CI generates a temporary lockfile because the repository does not yet commit `package-lock.json`. See [`BUILD.md`](./BUILD.md) for APK download and installation steps. A successful APK workflow run and artifact are required before treating the APK build as verified.
 
 
 ### English A1 lesson 3 — Numbers and time
