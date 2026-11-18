@@ -174,3 +174,10 @@ GitHub Actions runs dependency installation, Expo SDK compatibility checks, and 
 - Each lesson includes ten vocabulary entries with Sinhala meanings and Sinhala-script pronunciation, five grammar phrase cards, four examples, a six-line dialogue, one listening task, and four quizzes.
 - Added the Serbian lesson's matching listening-discrimination prompt at the same lesson-array index. The English lesson includes its own listening task and uses the existing lesson renderer.
 - Both languages now contain 14 structured A1 lessons. This remains a starter course rather than a complete CEFR A1 syllabus; pronunciation guides are approximate and need language-speaker review.
+
+
+### Paired A1 lessons 18–19 — Travel, transport and home
+- Added matching Serbian and English lessons on buying bus/train tickets, departure and arrival, platforms, one-way tickets, rooms and furniture, and describing where household objects are.
+- Each language lesson contains eight vocabulary entries with Sinhala meanings/readings, five grammar phrase cards, four examples, a six-line dialogue, four quizzes and one listening task.
+- Added two Serbian listening checks in lesson-array order and two new English mixed-revision checks. The course totals are now 16 structured A1 lessons in each language.
+- This is still a starter course, not a complete CEFR A1 syllabus. Sinhala-script pronunciation is approximate and requires speaker review.
