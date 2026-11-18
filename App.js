@@ -1,6 +1,8 @@
 import React, { createContext, useContext, useMemo, useState, useEffect } from "react";
 import { SafeAreaView, View, Text, TouchableOpacity, ScrollView, StyleSheet, StatusBar, TextInput } from "react-native";
 import * as Speech from "expo-speech";
+import { Audio } from "expo-av";
+import * as FileSystem from "expo-file-system/legacy";
 import * as Clipboard from "expo-clipboard";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import { COURSE_LEVELS, LESSON_METHOD } from "./curriculum";
@@ -378,7 +380,34 @@ const pronounceEnglishSinhala=(text)=>{
  for(const [pattern,replacement] of rules) out=out.replace(pattern,replacement);
  return out.replace(/\s+/g," ").replace(/([.!?,])/g,"$1");
 };
-const speak=(text,lang)=>{Speech.stop();Speech.speak(text,{language:lang==="Serbian"?"sr-RS":"en-US",rate:0.82});};
+const GOOGLE_TTS_ENDPOINT=process.env.EXPO_PUBLIC_VOICE_API_URL||"";
+let activeGoogleSound=null;
+const speak=async(text,lang)=>{
+ const phrase=String(text||"").trim();
+ if(!phrase)return;
+ Speech.stop();
+ if(GOOGLE_TTS_ENDPOINT){
+  try{
+   const response=await fetch(GOOGLE_TTS_ENDPOINT.replace(/\\/$/,"")+"/speak",{
+    method:"POST",
+    headers:{"Content-Type":"application/json"},
+    body:JSON.stringify({text:phrase,language:lang==="Serbian"?"sr-RS":"en-US"})
+   });
+   if(!response.ok)throw new Error("Google voice service returned "+response.status);
+   const payload=await response.json();
+   if(!payload.audioContent)throw new Error("Voice response did not contain audio");
+   const uri=FileSystem.cacheDirectory+"basanova-voice-"+Date.now()+".mp3";
+   await FileSystem.writeAsStringAsync(uri,payload.audioContent,{encoding:FileSystem.EncodingType.Base64});
+   if(activeGoogleSound){await activeGoogleSound.unloadAsync().catch(()=>{});activeGoogleSound=null;}
+   const result=await Audio.Sound.createAsync({uri},{shouldPlay:true});
+   activeGoogleSound=result.sound;
+   return;
+  }catch(error){
+   console.warn("Google TTS unavailable; using device speech fallback",error);
+  }
+ }
+ Speech.speak(phrase,{language:lang==="Serbian"?"sr-RS":"en-US",rate:0.82});
+};
 function Action({children,onPress,secondary=false}){const {styles:s,colors:C}=useContext(ThemeContext);return <TouchableOpacity onPress={onPress} style={[s.action,secondary&&s.secondary]}><Text style={[s.actionText,secondary&&{color:C.teal}]}>{children}</Text></TouchableOpacity>;}
 export default function App(){
  const [theme,setTheme]=useState("dark");
