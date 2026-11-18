@@ -61,4 +61,7 @@ export const SERBIAN_A1_MIXED_REVISION = [
  {audio:"Ko je primalac?",reading:"කො යේ ප්‍රිමාලාත්ස්?",options:["ලබන්නා කවුද?","යවන්නා කවුද?","පාර්සලය කීයද?"],answer:0},
  {audio:"Pošalji mi poruku.",reading:"පොෂාල්යි මි පොරූකු.",options:["මට පණිවිඩයක් එවන්න.","මට ලිපිනය දෙන්න.","මට පසුව කතා කරන්න."],answer:0}
 
+ ,{audio:"Plaćam karticom.",reading:"ප්ලාචාම් කාර්තිත්සොම්.",options:["මම කාඩ්පතෙන් ගෙවනවා.","මට බෑගයක් ඕනේ.","මුළු එකතුව කීයද?"],answer:0}
+ ,{audio:"Nije daleko.",reading:"නියේ දලෙකො.",options:["දුර නැහැ.","ඉතා දුරයි.","වමට හැරෙන්න."],answer:0}
+ ,{audio:"Pod je klizav.",reading:"පොද් යේ ක්ලිසාව්.",options:["බිම ලිස්සන සුළුයි.","බිම වියළියි.","දොර වහන්න."],answer:0}
 ];
