@@ -282,3 +282,10 @@ The Cloudflare Worker uses the included `cloudflare/wrangler.toml` rate-limit bi
 - Each language lesson includes eight vocabulary entries with Sinhala-script pronunciation and Sinhala meaning, a Sinhala-supported grammar note and phrase, three examples, a four-line dialogue, one listening check and four practice questions.
 - Serbian lesson IDs: `sr-a2-l41` through `sr-a2-l45`; English lesson IDs: `en-a2-l41` through `en-a2-l45`.
 - Sinhala-script readings are approximate learner aids and need fluent-speaker review. No build, APK, or device test is claimed by this content update.
+
+
+### Paired A2 lessons 46–55 — 2026-11-18
+- Added ten matched A2 lessons to both Serbian and English: travel delays and alternatives; banking and payment issues; finding/viewing a rental home; environment and recycling; celebrations and traditions; emails and digital communication; apologies and clarification; telephone customer support; budgeting and shopping expenses; and solving problems/giving advice.
+- Each lesson includes eight vocabulary cards with Sinhala-script readings and meanings, Sinhala-supported grammar, four example phrases, a four-line dialogue, one listening check and four practice questions.
+- Serbian lesson IDs: `sr-a2-l46` through `sr-a2-l55`; English lesson IDs: `en-a2-l46` through `en-a2-l55`.
+- Pronunciation guides are approximate. Source validation and build/device test status will be recorded in HANDOFF; no APK or physical-device result is claimed.
