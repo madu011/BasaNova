@@ -994,4 +994,43 @@ practice:[
 {prompt:"Choose the question about getting your money back.",options:["Can I get a refund?","What time is it?","Where is the post office?"],readings:["කැන් අයි ගෙට් අ රීෆන්ඩ්?","වොට් ටයිම් ඉස් ඉට්?","වෙයාර් ඉස් දි පෝස්ට් ඔෆිස්?"],answer:0,explanation:"Can I get a refund? = මට මුදල් ආපසු ලබාගන්න පුළුවන්ද?"}]}
 
 
+
+,
+{
+id:"en-a1-u7-l1",unit:"Making plans and meeting",title:"Lesson 29 · Making plans and meeting",objective:"Talk about simple plans, suggest a time to meet and confirm whether a time is suitable.",
+vocabulary:[
+{word:"Plan",reading:"ප්ලෑන්",meaning:"සැලැස්ම",example:"I have a plan for the weekend.",exampleReading:"අයි හැව් අ ප්ලෑන් ෆෝ දි වීකෙන්ඩ්.",translation:"සති අන්තයට මට සැලැස්මක් තියෙනවා."},
+{word:"Weekend",reading:"වීකෙන්ඩ්",meaning:"සති අන්තය",example:"What are you doing this weekend?",exampleReading:"වොට් ආර් යූ ඩූඉං දිස් වීකෙන්ඩ්?",translation:"මේ සති අන්තයේ ඔයා මොකද කරන්නේ?"},
+{word:"Free",reading:"ෆ්‍රී",meaning:"නිදහස් / වැඩ නැති",example:"Are you free on Saturday?",exampleReading:"ආර් යූ ෆ්‍රී ඔන් සැටර්ඩේ?",translation:"ඔයා සෙනසුරාදා නිදහස්ද?"},
+{word:"Meet",reading:"මීට්",meaning:"හමුවීම",example:"Can we meet tomorrow?",exampleReading:"කැන් වී මීට් ටුමොරෝ?",translation:"අපිට හෙට හමුවෙන්න පුළුවන්ද?"},
+{word:"At five",reading:"ඇට් ෆයිව්",meaning:"පහට",example:"Let's meet at five.",exampleReading:"ලෙට්ස් මීට් ඇට් ෆයිව්.",translation:"අපි පහට හමුවෙමු."},
+{word:"What time?",reading:"වොට් ටයිම්?",meaning:"කීයටද?",example:"What time is good for you?",exampleReading:"වොට් ටයිම් ඉස් ගුඩ් ෆෝ යූ?",translation:"ඔයාට පහසු වෙලාව කීයද?"},
+{word:"That works for me",reading:"දැට් වර්ක්ස් ෆෝ මී",meaning:"ඒක මට ගැළපෙනවා",example:"Six o'clock works for me.",exampleReading:"සික්ස් ඔක්ලොක් වර්ක්ස් ෆෝ මී.",translation:"හයට මට ගැළපෙනවා."},
+{word:"Maybe",reading:"මේබි",meaning:"සමහරවිට",example:"Maybe we can meet on Sunday.",exampleReading:"මේබි වී කැන් මීට් ඔන් සන්ඩේ.",translation:"සමහරවිට අපිට ඉරිදා හමුවෙන්න පුළුවන්."}],
+grammarTitle:"Grammar · Suggesting and confirming plans",grammar:"Use “Are you free on ...?” to ask about availability. Use “Can we meet ...?” to suggest a meeting. Use “Let's meet at ...” to make a suggestion. Say “That works for me” when the suggested time is suitable, or “Sorry, I'm busy” when it is not.",
+grammarTerms:[
+{text:"Are you free on Saturday?",reading:"ආර් යූ ෆ්‍රී ඔන් සැටර්ඩේ?",meaning:"ඔයා සෙනසුරාදා නිදහස්ද?"},
+{text:"Can we meet tomorrow?",reading:"කැන් වී මීට් ටුමොරෝ?",meaning:"අපිට හෙට හමුවෙන්න පුළුවන්ද?"},
+{text:"What time is good for you?",reading:"වොට් ටයිම් ඉස් ගුඩ් ෆෝ යූ?",meaning:"ඔයාට පහසු වෙලාව කීයද?"},
+{text:"Let's meet at five.",reading:"ලෙට්ස් මීට් ඇට් ෆයිව්.",meaning:"අපි පහට හමුවෙමු."},
+{text:"That works for me.",reading:"දැට් වර්ක්ස් ෆෝ මී.",meaning:"ඒක මට ගැළපෙනවා."}],
+examples:[
+{text:"What are you doing this weekend?",reading:"වොට් ආර් යූ ඩූඉං දිස් වීකෙන්ඩ්?",meaning:"මේ සති අන්තයේ ඔයා මොකද කරන්නේ?"},
+{text:"Are you free on Sunday?",reading:"ආර් යූ ෆ්‍රී ඔන් සන්ඩේ?",meaning:"ඔයා ඉරිදා නිදහස්ද?"},
+{text:"Can we meet at six o'clock?",reading:"කැන් වී මීට් ඇට් සික්ස් ඔක්ලොක්?",meaning:"අපිට හයට හමුවෙන්න පුළුවන්ද?"},
+{text:"Sorry, I'm busy on Friday. Saturday works for me.",reading:"සොරි, අයිම් බිසි ඔන් ෆ්‍රයිඩේ. සැටර්ඩේ වර්ක්ස් ෆෝ මී.",meaning:"සමාවෙන්න, මම සිකුරාදා කාර්යබහුලයි. සෙනසුරාදා මට ගැළපෙනවා."}],
+dialogue:[
+{text:"Hi! What are you doing this weekend?",reading:"හායි! වොට් ආර් යූ ඩූඉං දිස් වීකෙන්ඩ්?",meaning:"හායි! මේ සති අන්තයේ ඔයා මොකද කරන්නේ?"},
+{text:"I don't have a plan yet.",reading:"අයි ඩෝන්ට් හැව් අ ප්ලෑන් යෙට්.",meaning:"මට තවම සැලැස්මක් නැහැ."},
+{text:"Are you free on Saturday?",reading:"ආර් යූ ෆ්‍රී ඔන් සැටර්ඩේ?",meaning:"ඔයා සෙනසුරාදා නිදහස්ද?"},
+{text:"Yes, I am. We can meet.",reading:"යෙස්, අයි ඇම්. වී කැන් මීට්.",meaning:"ඔව්, මම නිදහස්. අපිට හමුවෙන්න පුළුවන්."},
+{text:"What time is good for you?",reading:"වොට් ටයිම් ඉස් ගුඩ් ෆෝ යූ?",meaning:"ඔයාට පහසු වෙලාව කීයද?"},
+{text:"Five o'clock works for me.",reading:"ෆයිව් ඔක්ලොක් වර්ක්ස් ෆෝ මී.",meaning:"පහට මට ගැළපෙනවා."}],
+listeningPractice:{prompt:"Listen and choose the correct Sinhala meaning: “What time is good for you?”",audio:"What time is good for you?",options:["ඔයාට පහසු වෙලාව කීයද?","ඔයා කොහෙද ඉන්නේ?","ඔයාට කෑම ඕනෙද?"],readings:["වොට් ටයිම් ඉස් ගුඩ් ෆෝ යූ?","වෙයාර් ආර් යූ?","ඩූ යූ වෝන්ට් ෆුඩ්?"],answer:0,meaning:"What time is good for you? = ඔයාට පහසු වෙලාව කීයද?"},
+practice:[
+{prompt:"Choose the English word for “සති අන්තය”.",options:["Weekend","Weekday","Morning"],readings:["වීකෙන්ඩ්","වීක්ඩේ","මෝර්නින්"],answer:0,explanation:"Weekend = සති අන්තය."},
+{prompt:"How do you ask “ඔයා සෙනසුරාදා නිදහස්ද?”",options:["Are you free on Saturday?","Where are you going?","What is your name?"],readings:["ආර් යූ ෆ්‍රී ඔන් සැටර්ඩේ?","වෙයාර් ආර් යූ ගෝඉං?","වොට් ඉස් යෝර් නේම්?"],answer:0,explanation:"Are you free on Saturday? = ඔයා සෙනසුරාදා නිදහස්ද?"},
+{prompt:"Choose “ඒක මට ගැළපෙනවා”.",options:["I'm not sure.","That works for me.","Maybe tomorrow."],readings:["අයිම් නොට් ෂුවර්.","දැට් වර්ක්ස් ෆෝ මී.","මේබි ටුමොරෝ."],answer:1,explanation:"That works for me = ඒක මට ගැළපෙනවා."},
+{prompt:"How do you suggest meeting at five?",options:["Let's meet at five.","I work at five.","It's five minutes."],readings:["ලෙට්ස් මීට් ඇට් ෆයිව්.","අයි වර්ක් ඇට් ෆයිව්.","ඉට්ස් ෆයිව් මිනිට්ස්."],answer:0,explanation:"Let's meet at five = අපි පහට හමුවෙමු."}]}
+
 ];
