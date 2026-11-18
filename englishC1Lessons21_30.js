@@ -8,56 +8,56 @@ export const ENGLISH_C1_LESSONS_21_30 = [
     "vocabulary": [
       {
         "word": "persuasive",
-        "reading": "පර්ස්වේසිව්",
+        "reading": "ප්එර්ස්අඇස්ඉව්එ",
         "meaning": "ඒත්තු ගන්වන",
         "example": "A clear claim must be supported by evidence.",
         "translation": "පැහැදිලි ප්‍රකාශයක් සාක්ෂි මඟින් තහවුරු කළ යුතුය."
       },
       {
         "word": "claim",
-        "reading": "ක්ලේම්",
+        "reading": "ක්ල්ඒම්",
         "meaning": "ප්‍රකාශය",
         "example": "The speaker emphasised the key distinction.",
         "translation": "කථිකයා ප්‍රධාන වෙනස අවධාරණය කළේය."
       },
       {
         "word": "evidence",
-        "reading": "එවිඩන්ස්",
+        "reading": "එව්ඉඩ්එන්ක්එ",
         "meaning": "සාක්ෂිය",
         "example": "Contrast makes the argument more persuasive.",
         "translation": "විරුද්ධතාව තර්කය වඩාත් ඒත්තු ගන්වන සුළු කරයි."
       },
       {
         "word": "emphasis",
-        "reading": "එම්ෆසිස්",
+        "reading": "එම්ෆ්ඇස්ඉස්",
         "meaning": "අවධාරණය",
         "example": "The conclusion should answer the initial question.",
         "translation": "නිගමනය ආරම්භක ප්‍රශ්නයට පිළිතුරු දිය යුතුය."
       },
       {
         "word": "rhetoric",
-        "reading": "රෙටරික්",
+        "reading": "ර්හ්එට්ඔර්ඉක්",
         "meaning": "වාග් ශෛලිය",
         "example": "A clear claim must be supported by evidence.",
         "translation": "පැහැදිලි ප්‍රකාශයක් සාක්ෂි මඟින් තහවුරු කළ යුතුය."
       },
       {
         "word": "audience",
-        "reading": "ඕඩියන්ස්",
+        "reading": "ඇඅඩ්ඉඑන්ක්එ",
         "meaning": "ප්‍රේක්ෂක පිරිස",
         "example": "The speaker emphasised the key distinction.",
         "translation": "කථිකයා ප්‍රධාන වෙනස අවධාරණය කළේය."
       },
       {
         "word": "contrast",
-        "reading": "කොන්ට්‍රාස්ට්",
+        "reading": "ක්ඔන්ට්ර්ඇස්ට්",
         "meaning": "විරුද්ධතාව",
         "example": "Contrast makes the argument more persuasive.",
         "translation": "විරුද්ධතාව තර්කය වඩාත් ඒත්තු ගන්වන සුළු කරයි."
       },
       {
         "word": "conclusion",
-        "reading": "කන්ක්ලූෂන්",
+        "reading": "ක්ඔන්ක්ල්අෂන්",
         "meaning": "නිගමනය",
         "example": "The conclusion should answer the initial question.",
         "translation": "නිගමනය ආරම්භක ප්‍රශ්නයට පිළිතුරු දිය යුතුය."
@@ -171,56 +171,56 @@ export const ENGLISH_C1_LESSONS_21_30 = [
     "vocabulary": [
       {
         "word": "moreover",
-        "reading": "මෝරෝවර්",
+        "reading": "ම්ඔර්එඔව්එර්",
         "meaning": "තවද",
         "example": "The proposal is costly; nevertheless, it is worthwhile in the long term.",
         "translation": "යෝජනාව මිල අධිකය; එසේ වුවත් දිගුකාලීනව වටිනාකමක් ඇත."
       },
       {
         "word": "nevertheless",
-        "reading": "නෙවර්දලස්",
+        "reading": "න්එව්එර්ත්එල්එස්ස්",
         "meaning": "එසේ වුවත්",
         "example": "The data are limited; therefore, the conclusion is provisional.",
         "translation": "දත්ත සීමිතය; එබැවින් නිගමනය තාවකාලිකය."
       },
       {
         "word": "therefore",
-        "reading": "දෙයර්ෆෝර්",
+        "reading": "ත්එර්එෆ්ඔර්එ",
         "meaning": "එබැවින්",
         "example": "Moreover, the results confirm the earlier assumption.",
         "translation": "තවද, ප්‍රතිඵල පෙර උපකල්පනය තහවුරු කරයි."
       },
       {
         "word": "conversely",
-        "reading": "කන්වර්ස්ලි",
+        "reading": "ක්ඔන්ව්එර්ස්එල්යි",
         "meaning": "ඊට ප්‍රතිවිරුද්ධව",
         "example": "Conversely, the second study points to the opposite trend.",
         "translation": "ඊට ප්‍රතිවිරුද්ධව, දෙවන අධ්‍යයනය වෙනස් ප්‍රවණතාවක් පෙන්වයි."
       },
       {
         "word": "consistency",
-        "reading": "කන්සිස්ටන්සි",
+        "reading": "ක්ඔන්ස්ඉස්ට්එන්ක්යි",
         "meaning": "අනුකූලතාව",
         "example": "The proposal is costly; nevertheless, it is worthwhile in the long term.",
         "translation": "යෝජනාව මිල අධිකය; එසේ වුවත් දිගුකාලීනව වටිනාකමක් ඇත."
       },
       {
         "word": "cohesion",
-        "reading": "කෝහීෂන්",
+        "reading": "ක්ඔහ්එෂන්",
         "meaning": "සම්බන්ධීකරණය",
         "example": "The data are limited; therefore, the conclusion is provisional.",
         "translation": "දත්ත සීමිතය; එබැවින් නිගමනය තාවකාලිකය."
       },
       {
         "word": "transition",
-        "reading": "ට්‍රාන්සිෂන්",
+        "reading": "ට්ර්ඇන්ස්ඉෂන්",
         "meaning": "සංක්‍රාන්තිය",
         "example": "Moreover, the results confirm the earlier assumption.",
         "translation": "තවද, ප්‍රතිඵල පෙර උපකල්පනය තහවුරු කරයි."
       },
       {
         "word": "nuance",
-        "reading": "නූආන්ස්",
+        "reading": "න්අඇන්ක්එ",
         "meaning": "අර්ථ සූක්ෂ්මතාව",
         "example": "Conversely, the second study points to the opposite trend.",
         "translation": "ඊට ප්‍රතිවිරුද්ධව, දෙවන අධ්‍යයනය වෙනස් ප්‍රවණතාවක් පෙන්වයි."
@@ -334,56 +334,56 @@ export const ENGLISH_C1_LESSONS_21_30 = [
     "vocabulary": [
       {
         "word": "clause",
-        "reading": "ක්ලෝස්",
+        "reading": "ක්ල්ඇඅස්එ",
         "meaning": "වගන්තිය",
         "example": "The agreement takes effect after it is signed.",
         "translation": "අත්සන් කිරීමෙන් පසු ගිවිසුම බලාත්මක වේ."
       },
       {
         "word": "obligation",
-        "reading": "ඔබ්ලිගේෂන්",
+        "reading": "ඔබ්ල්ඉග්ඇෂන්",
         "meaning": "බැඳීම",
         "example": "The exception applies only under the stated conditions.",
         "translation": "සඳහන් කොන්දේසි යටතේ පමණක් ව්‍යතිරේකය අදාළ වේ."
       },
       {
         "word": "condition",
-        "reading": "කන්ඩිෂන්",
+        "reading": "ක්ඔන්ඩ්ඉෂන්",
         "meaning": "කොන්දේසිය",
         "example": "The parties are required to observe the deadline.",
         "translation": "පාර්ශ්වයන් කාලසීමාව පිළිපැදීමට බැඳී සිටී."
       },
       {
         "word": "exception",
-        "reading": "එක්සෙප්ෂන්",
+        "reading": "එක්ස්ක්එප්ෂන්",
         "meaning": "ව්‍යතිරේකය",
         "example": "Liability is defined in a separate clause.",
         "translation": "වගකීම වෙනම වගන්තියකින් නිර්වචනය කර ඇත."
       },
       {
         "word": "termination",
-        "reading": "ටර්මිනේෂන්",
+        "reading": "ට්එර්ම්ඉන්ඇෂන්",
         "meaning": "අවසන් කිරීම",
         "example": "The agreement takes effect after it is signed.",
         "translation": "අත්සන් කිරීමෙන් පසු ගිවිසුම බලාත්මක වේ."
       },
       {
         "word": "deadline",
-        "reading": "ඩෙඩ්ලයින්",
+        "reading": "ඩ්ඊඩ්ල්ඉන්එ",
         "meaning": "කාලසීමාව",
         "example": "The exception applies only under the stated conditions.",
         "translation": "සඳහන් කොන්දේසි යටතේ පමණක් ව්‍යතිරේකය අදාළ වේ."
       },
       {
         "word": "compliance",
-        "reading": "කම්ප්ලයන්ස්",
+        "reading": "ක්ඔම්ප්ල්ඉඇන්ක්එ",
         "meaning": "අනුකූලතාව",
         "example": "The parties are required to observe the deadline.",
         "translation": "පාර්ශ්වයන් කාලසීමාව පිළිපැදීමට බැඳී සිටී."
       },
       {
         "word": "liability",
-        "reading": "ලයබිලිටි",
+        "reading": "ල්ඉඇබ්ඉල්ඉට්යි",
         "meaning": "වගකීම",
         "example": "Liability is defined in a separate clause.",
         "translation": "වගකීම වෙනම වගන්තියකින් නිර්වචනය කර ඇත."
@@ -497,56 +497,56 @@ export const ENGLISH_C1_LESSONS_21_30 = [
     "vocabulary": [
       {
         "word": "statement",
-        "reading": "ස්ටේට්මන්ට්",
+        "reading": "ස්ට්ඇට්එම්එන්ට්",
         "meaning": "නිවේදනය",
         "example": "We will publish verified information as soon as it is available.",
         "translation": "තහවුරු කළ තොරතුරු ලැබුණු වහාම අපි ප්‍රකාශ කරන්නෙමු."
       },
       {
         "word": "verification",
-        "reading": "වෙරිෆිකේෂන්",
+        "reading": "ව්එර්ඉෆ්ඉක්ඇෂන්",
         "meaning": "තහවුරු කිරීම",
         "example": "At present, we cannot confirm the cause of the incident.",
         "translation": "දැනට සිදුවීමට හේතුව තහවුරු කළ නොහැක."
       },
       {
         "word": "rumour",
-        "reading": "රූමර්",
+        "reading": "ර්අම්අවුර්",
         "meaning": "කටකතාව",
         "example": "The next update will be issued at noon.",
         "translation": "ඊළඟ යාවත්කාලීනය දහවල් නිකුත් කෙරේ."
       },
       {
         "word": "incident",
-        "reading": "ඉන්සිඩන්ට්",
+        "reading": "ඉන්ක්ඉඩ්එන්ට්",
         "meaning": "සිදුවීම",
         "example": "Transparency matters even when the facts are incomplete.",
         "translation": "කරුණු අසම්පූර්ණ වූ විට පවා විනිවිදභාවය වැදගත්ය."
       },
       {
         "word": "recovery",
-        "reading": "රි කවරි",
+        "reading": "ර්එක්ඔව්එර්යි",
         "meaning": "ප්‍රකෘති තත්ත්වයට පත්වීම",
         "example": "We will publish verified information as soon as it is available.",
         "translation": "තහවුරු කළ තොරතුරු ලැබුණු වහාම අපි ප්‍රකාශ කරන්නෙමු."
       },
       {
         "word": "transparency",
-        "reading": "ට්‍රාන්ස්පැරන්සි",
+        "reading": "ට්ර්ඇන්ස්ප්ඇර්එන්ක්යි",
         "meaning": "විනිවිදභාවය",
         "example": "At present, we cannot confirm the cause of the incident.",
         "translation": "දැනට සිදුවීමට හේතුව තහවුරු කළ නොහැක."
       },
       {
         "word": "update",
-        "reading": "අප්ඩේට්",
+        "reading": "අප්ඩ්ඇට්එ",
         "meaning": "යාවත්කාලීන කිරීම",
         "example": "The next update will be issued at noon.",
         "translation": "ඊළඟ යාවත්කාලීනය දහවල් නිකුත් කෙරේ."
       },
       {
         "word": "responsibility",
-        "reading": "රිස්පොන්සිබිලිටි",
+        "reading": "ර්එස්ප්ඔන්ස්ඉබ්ඉල්ඉට්යි",
         "meaning": "බලය සහ වගකීම",
         "example": "Transparency matters even when the facts are incomplete.",
         "translation": "කරුණු අසම්පූර්ණ වූ විට පවා විනිවිදභාවය වැදගත්ය."
@@ -660,56 +660,56 @@ export const ENGLISH_C1_LESSONS_21_30 = [
     "vocabulary": [
       {
         "word": "innovation",
-        "reading": "ඉනොවේෂන්",
+        "reading": "ඉන්න්ඔව්ඇෂන්",
         "meaning": "නවෝත්පාදනය",
         "example": "The pilot project showed that the solution is feasible.",
         "translation": "පරීක්ෂණ ව්‍යාපෘතියෙන් විසඳුම ක්‍රියාත්මක කළ හැකි බව පෙන්වීය."
       },
       {
         "word": "implementation",
-        "reading": "ඉම්ප්ලිමෙන්ටේෂන්",
+        "reading": "ඉම්ප්ල්එම්එන්ට්ඇෂන්",
         "meaning": "හඳුන්වාදීම",
         "example": "Adopting the new system requires training.",
         "translation": "නව පද්ධතිය භාවිතයට ගැනීමට පුහුණුව අවශ්‍යය."
       },
       {
         "word": "adoption",
-        "reading": "අඩොප්ෂන්",
+        "reading": "ඇඩ්ඔප්ෂන්",
         "meaning": "භාවිතයට ගැනීම",
         "example": "Resistance to change often stems from uncertainty.",
         "translation": "වෙනස්කම්වලට ඇති විරෝධය බොහෝවිට අනිශ්චිතතාවයෙන් ඇතිවේ."
       },
       {
         "word": "resistance",
-        "reading": "රිසිස්ටන්ස්",
+        "reading": "ර්එස්ඉස්ට්ඇන්ක්එ",
         "meaning": "විරෝධය",
         "example": "Feedback helps improve the prototype.",
         "translation": "ප්‍රතිචාර මූලාකෘතිය වැඩිදියුණු කිරීමට උපකාරී වේ."
       },
       {
         "word": "prototype",
-        "reading": "ප්‍රෝටටයිප්",
+        "reading": "ප්ර්ඔට්ඔට්යිප්එ",
         "meaning": "මූලාකෘතිය",
         "example": "The pilot project showed that the solution is feasible.",
         "translation": "පරීක්ෂණ ව්‍යාපෘතියෙන් විසඳුම ක්‍රියාත්මක කළ හැකි බව පෙන්වීය."
       },
       {
         "word": "scaling",
-        "reading": "ස්කේලිං",
+        "reading": "ස්ක්ඇල්ඉං",
         "meaning": "පුළුල් කිරීම",
         "example": "Adopting the new system requires training.",
         "translation": "නව පද්ධතිය භාවිතයට ගැනීමට පුහුණුව අවශ්‍යය."
       },
       {
         "word": "feasibility",
-        "reading": "ෆීසිබිලිටි",
+        "reading": "ෆ්ඊස්ඉබ්ඉල්ඉට්යි",
         "meaning": "කළ හැකි බව",
         "example": "Resistance to change often stems from uncertainty.",
         "translation": "වෙනස්කම්වලට ඇති විරෝධය බොහෝවිට අනිශ්චිතතාවයෙන් ඇතිවේ."
       },
       {
         "word": "feedback",
-        "reading": "ෆීඩ්බැක්",
+        "reading": "ෆ්ඊඩ්බ්ඇක්ක්",
         "meaning": "ප්‍රතිචාර",
         "example": "Feedback helps improve the prototype.",
         "translation": "ප්‍රතිචාර මූලාකෘතිය වැඩිදියුණු කිරීමට උපකාරී වේ."
@@ -823,56 +823,56 @@ export const ENGLISH_C1_LESSONS_21_30 = [
     "vocabulary": [
       {
         "word": "sustainability",
-        "reading": "සස්ටේනබිලිටි",
+        "reading": "ස්අස්ට්ඒන්ඇබ්ඉල්ඉට්යි",
         "meaning": "තිරසාරභාවය",
         "example": "Sustainability requires responsible use of resources.",
         "translation": "තිරසාරභාවයට සම්පත් වගකීමෙන් භාවිත කිරීම අවශ්‍යය."
       },
       {
         "word": "impact",
-        "reading": "ඉම්පැක්ට්",
+        "reading": "ඉම්ප්ඇක්ට්",
         "meaning": "බලපෑම",
         "example": "Impact should be measured over a longer period.",
         "translation": "බලපෑම දිගු කාලයක් පුරා මැනිය යුතුය."
       },
       {
         "word": "resource",
-        "reading": "රිසෝර්ස්",
+        "reading": "ර්එස්අවුර්ක්එ",
         "meaning": "සම්පත",
         "example": "The programme benefited the local community.",
         "translation": "වැඩසටහන ප්‍රාදේශීය ප්‍රජාවට ප්‍රතිලාභ ලබා දුන්නේය."
       },
       {
         "word": "emission",
-        "reading": "එමිෂන්",
+        "reading": "එම්ඉස්ෂන්",
         "meaning": "විමෝචනය",
         "example": "Emission indicators point to gradual improvement.",
         "translation": "විමෝචන දර්ශක ක්‍රමික දියුණුවක් පෙන්වයි."
       },
       {
         "word": "community",
-        "reading": "කමියුනිටි",
+        "reading": "ක්ඔම්ම්අන්ඉට්යි",
         "meaning": "ප්‍රජාව",
         "example": "Sustainability requires responsible use of resources.",
         "translation": "තිරසාරභාවයට සම්පත් වගකීමෙන් භාවිත කිරීම අවශ්‍යය."
       },
       {
         "word": "equity",
-        "reading": "එක්විටි",
+        "reading": "එක්වඉට්යි",
         "meaning": "සාධාරණත්වය",
         "example": "Impact should be measured over a longer period.",
         "translation": "බලපෑම දිගු කාලයක් පුරා මැනිය යුතුය."
       },
       {
         "word": "indicator",
-        "reading": "ඉන්ඩිකේටර්",
+        "reading": "ඉන්ඩ්ඉක්ඇට්ඔර්",
         "meaning": "දර්ශකය",
         "example": "The programme benefited the local community.",
         "translation": "වැඩසටහන ප්‍රාදේශීය ප්‍රජාවට ප්‍රතිලාභ ලබා දුන්නේය."
       },
       {
         "word": "long-term",
-        "reading": "ලෝන්ග් ටර්ම්",
+        "reading": "ල්ඔං-ට්එර්ම්",
         "meaning": "දිගුකාලීන",
         "example": "Emission indicators point to gradual improvement.",
         "translation": "විමෝචන දර්ශක ක්‍රමික දියුණුවක් පෙන්වයි."
@@ -986,56 +986,56 @@ export const ENGLISH_C1_LESSONS_21_30 = [
     "vocabulary": [
       {
         "word": "narrator",
-        "reading": "නරේටර්",
+        "reading": "න්ඇර්ර්ඇට්ඔර්",
         "meaning": "කථකයා",
         "example": "The unreliable narrator shifts the reader's perspective.",
         "translation": "විශ්වාස කළ නොහැකි කථකයා පාඨකයාගේ දෘෂ්ටිකෝණය වෙනස් කරයි."
       },
       {
         "word": "perspective",
-        "reading": "පර්ස්පෙක්ටිව්",
+        "reading": "ප්එර්ස්ප්එක්ට්ඉව්එ",
         "meaning": "දෘෂ්ටිකෝණය",
         "example": "The symbolism develops through a recurring motif.",
         "translation": "නැවත නැවත මතුවන තේමාවක් හරහා සංකේතවාදය වර්ධනය වේ."
       },
       {
         "word": "symbolism",
-        "reading": "සිම්බලිසම්",
+        "reading": "ස්යිම්බ්ඔල්ඉස්ම්",
         "meaning": "සංකේතවාදය",
         "example": "This detail can be read as foreshadowing the conflict.",
         "translation": "මෙම විස්තරය ගැටුම පිළිබඳ පූර්ව ඉඟියක් ලෙස කියවිය හැක."
       },
       {
         "word": "foreshadowing",
-        "reading": "ෆෝෂැඩෝවිං",
+        "reading": "ෆ්ඔර්එෂ්ඇඩ්ඔඉං",
         "meaning": "පූර්ව ඉඟිය",
         "example": "An interpretation should be supported by textual evidence.",
         "translation": "අර්ථකථනය පාඨමය සාක්ෂිවලින් තහවුරු කළ යුතුය."
       },
       {
         "word": "ambiguity",
-        "reading": "ඇම්බිගියුටි",
+        "reading": "ඇම්බ්ඉග්අඉට්යි",
         "meaning": "ද්විත්ව අර්ථය",
         "example": "The unreliable narrator shifts the reader's perspective.",
         "translation": "විශ්වාස කළ නොහැකි කථකයා පාඨකයාගේ දෘෂ්ටිකෝණය වෙනස් කරයි."
       },
       {
         "word": "motif",
-        "reading": "මෝටිෆ්",
+        "reading": "ම්ඔට්ඉෆ්",
         "meaning": "පුනරාවර්තන තේමාව",
         "example": "The symbolism develops through a recurring motif.",
         "translation": "නැවත නැවත මතුවන තේමාවක් හරහා සංකේතවාදය වර්ධනය වේ."
       },
       {
         "word": "interpretation",
-        "reading": "ඉන්ටර්ප්‍රිටේෂන්",
+        "reading": "ඉන්ට්එර්ප්ර්එට්ඇෂන්",
         "meaning": "අර්ථකථනය",
         "example": "This detail can be read as foreshadowing the conflict.",
         "translation": "මෙම විස්තරය ගැටුම පිළිබඳ පූර්ව ඉඟියක් ලෙස කියවිය හැක."
       },
       {
         "word": "allusion",
-        "reading": "අලූෂන්",
+        "reading": "ඇල්ල්අෂන්",
         "meaning": "සෘජු නොවන සඳහන",
         "example": "An interpretation should be supported by textual evidence.",
         "translation": "අර්ථකථනය පාඨමය සාක්ෂිවලින් තහවුරු කළ යුතුය."
@@ -1149,56 +1149,56 @@ export const ENGLISH_C1_LESSONS_21_30 = [
     "vocabulary": [
       {
         "word": "framing",
-        "reading": "ෆ්‍රේමිං",
+        "reading": "ෆ්ර්ඇම්ඉං",
         "meaning": "රාමුව / ඉදිරිපත් කිරීමේ කෝණය",
         "example": "The headline emphasises conflict rather than agreement.",
         "translation": "සිරස්තලය එකඟතාවට වඩා ගැටුම අවධාරණය කරයි."
       },
       {
         "word": "bias",
-        "reading": "බයස්",
+        "reading": "බ්ඉඇස්",
         "meaning": "පක්ෂපාතීත්වය",
         "example": "Missing context can change the meaning of a statement.",
         "translation": "අතුරුදහන් සන්දර්භය ප්‍රකාශයක අර්ථය වෙනස් කළ හැක."
       },
       {
         "word": "headline",
-        "reading": "හෙඩ්ලයින්",
+        "reading": "හ්ඊඩ්ල්ඉන්එ",
         "meaning": "සිරස්තලය",
         "example": "Fact-checking revealed an inaccurate figure.",
         "translation": "කරුණු පරීක්ෂාවෙන් වැරදි දත්තයක් හෙළි විය."
       },
       {
         "word": "source",
-        "reading": "සෝර්ස්",
+        "reading": "ස්අවුර්ක්එ",
         "meaning": "මූලාශ්‍රය",
         "example": "Several independent sources should be compared.",
         "translation": "ස්වාධීන මූලාශ්‍ර කිහිපයක් සසඳා බැලිය යුතුය."
       },
       {
         "word": "omission",
-        "reading": "ඔමිෂන්",
+        "reading": "ඔම්ඉස්ෂන්",
         "meaning": "අත්හැරීම",
         "example": "The headline emphasises conflict rather than agreement.",
         "translation": "සිරස්තලය එකඟතාවට වඩා ගැටුම අවධාරණය කරයි."
       },
       {
         "word": "fact-checking",
-        "reading": "ෆැක්ට් චෙකිං",
+        "reading": "ෆ්ඇක්ට්-ච්එක්ක්ඉං",
         "meaning": "කරුණු පරීක්ෂාව",
         "example": "Missing context can change the meaning of a statement.",
         "translation": "අතුරුදහන් සන්දර්භය ප්‍රකාශයක අර්ථය වෙනස් කළ හැක."
       },
       {
         "word": "tone",
-        "reading": "ටෝන්",
+        "reading": "ට්ඔන්එ",
         "meaning": "ස්වරය",
         "example": "Fact-checking revealed an inaccurate figure.",
         "translation": "කරුණු පරීක්ෂාවෙන් වැරදි දත්තයක් හෙළි විය."
       },
       {
         "word": "context",
-        "reading": "කොන්ටෙක්ස්ට්",
+        "reading": "ක්ඔන්ට්එක්ස්ට්",
         "meaning": "සන්දර්භය",
         "example": "Several independent sources should be compared.",
         "translation": "ස්වාධීන මූලාශ්‍ර කිහිපයක් සසඳා බැලිය යුතුය."
@@ -1312,56 +1312,56 @@ export const ENGLISH_C1_LESSONS_21_30 = [
     "vocabulary": [
       {
         "word": "assumption",
-        "reading": "අසම්ප්ෂන්",
+        "reading": "ඇස්ස්අම්ප්ෂන්",
         "meaning": "උපකල්පනය",
         "example": "Had we acted earlier, the consequences would have been less severe.",
         "translation": "අපි කලින් ක්‍රියා කළා නම්, ප්‍රතිවිපාක අඩු විය හැකිව තිබුණි."
       },
       {
         "word": "likelihood",
-        "reading": "ලයික්ලිහුඩ්",
+        "reading": "ල්ඉක්එල්ඉහ්උඩ්",
         "meaning": "සම්භාවිතාව",
         "example": "If the assumption is confirmed, the plan will be revised.",
         "translation": "උපකල්පනය තහවුරු වුවහොත් සැලැස්ම සංශෝධනය කෙරේ."
       },
       {
         "word": "conditional",
-        "reading": "කන්ඩිෂනල්",
+        "reading": "ක්ඔන්ඩ්ඉෂන්ඇල්",
         "meaning": "කොන්දේසි සහිත",
         "example": "The possibility of additional costs cannot be ruled out.",
         "translation": "අමතර වියදම් ඇතිවීමේ හැකියාව බැහැර කළ නොහැක."
       },
       {
         "word": "hypothetical",
-        "reading": "හයිපොතෙටිකල්",
+        "reading": "හ්යිප්ඔත්එට්ඉක්ඇල්",
         "meaning": "කල්පිත",
         "example": "The conclusion holds provided that the data are accurate.",
         "translation": "දත්ත නිවැරදි නම් පමණක් නිගමනය වලංගු වේ."
       },
       {
         "word": "qualification",
-        "reading": "ක්වොලිෆිකේෂන්",
+        "reading": "ක්වඇල්ඉෆ්ඉක්ඇෂන්",
         "meaning": "සීමා දැක්වීම",
         "example": "Had we acted earlier, the consequences would have been less severe.",
         "translation": "අපි කලින් ක්‍රියා කළා නම්, ප්‍රතිවිපාක අඩු විය හැකිව තිබුණි."
       },
       {
         "word": "certainty",
-        "reading": "සර්ටන්ටි",
+        "reading": "ක්එර්ට්ඒන්ට්යි",
         "meaning": "නිශ්චිතභාවය",
         "example": "If the assumption is confirmed, the plan will be revised.",
         "translation": "උපකල්පනය තහවුරු වුවහොත් සැලැස්ම සංශෝධනය කෙරේ."
       },
       {
         "word": "consequence",
-        "reading": "කොන්සික్వෙන්ස්",
+        "reading": "ක්ඔන්ස්එක්වඑන්ක්එ",
         "meaning": "ප්‍රතිවිපාකය",
         "example": "The possibility of additional costs cannot be ruled out.",
         "translation": "අමතර වියදම් ඇතිවීමේ හැකියාව බැහැර කළ නොහැක."
       },
       {
         "word": "counterfactual",
-        "reading": "කවුන්ටර්ෆැක්චුවල්",
+        "reading": "ක්අවුන්ට්එර්ෆ්ඇක්ට්අඇල්",
         "meaning": "විකල්ප අතීත තත්ත්වයක්",
         "example": "The conclusion holds provided that the data are accurate.",
         "translation": "දත්ත නිවැරදි නම් පමණක් නිගමනය වලංගු වේ."
@@ -1475,56 +1475,56 @@ export const ENGLISH_C1_LESSONS_21_30 = [
     "vocabulary": [
       {
         "word": "precision",
-        "reading": "ප්‍රිසිෂන්",
+        "reading": "ප්ර්එක්ඉෂන්",
         "meaning": "නිරවද්‍යතාව",
         "example": "This paragraph should be rephrased for clarity.",
         "translation": "පැහැදිලිභාවය සඳහා මෙම ඡේදය නැවත සකස් කළ යුතුය."
       },
       {
         "word": "ambiguous",
-        "reading": "ඇම්බිගියුඅස්",
+        "reading": "ඇම්බ්ඉග්අඅවුස්",
         "meaning": "අපැහැදිලි / දෙඅර්ථ",
         "example": "Inconsistent terminology confuses the reader.",
         "translation": "අනුකූල නොවන පාරිභාෂික වචන පාඨකයා ව්‍යාකූල කරයි."
       },
       {
         "word": "consistent",
-        "reading": "කන්සිස්ටන්ට්",
+        "reading": "ක්ඔන්ස්ඉස්ට්එන්ට්",
         "meaning": "අනුකූල",
         "example": "Remove redundant repetition, but preserve the nuance.",
         "translation": "අනවශ්‍ය පුනරාවර්තන ඉවත් කළත් අර්ථ සූක්ෂ්මතාව රැකගන්න."
       },
       {
         "word": "redundant",
-        "reading": "රිඩන්ඩන්ට්",
+        "reading": "ර්එඩ්අන්ඩ්ඇන්ට්",
         "meaning": "අනවශ්‍ය නැවතීම",
         "example": "Proofreading covers grammar and punctuation.",
         "translation": "භාෂා නිවැරදි කිරීමේදී ව්‍යාකරණය සහ විරාම ලකුණු පරීක්ෂා කෙරේ."
       },
       {
         "word": "rephrase",
-        "reading": "රීෆ්‍රේස්",
+        "reading": "ර්එෆ්ර්ඇස්එ",
         "meaning": "නැවත සකස් කිරීම",
         "example": "This paragraph should be rephrased for clarity.",
         "translation": "පැහැදිලිභාවය සඳහා මෙම ඡේදය නැවත සකස් කළ යුතුය."
       },
       {
         "word": "reference",
-        "reading": "රෙෆරන්ස්",
+        "reading": "ර්එෆ්එර්එන්ක්එ",
         "meaning": "යොමුව",
         "example": "Inconsistent terminology confuses the reader.",
         "translation": "අනුකූල නොවන පාරිභාෂික වචන පාඨකයා ව්‍යාකූල කරයි."
       },
       {
         "word": "conciseness",
-        "reading": "කන්සයිස්නස්",
+        "reading": "ක්ඔන්ක්ඉස්එන්එස්ස්",
         "meaning": "සංක්ෂිප්තභාවය",
         "example": "Remove redundant repetition, but preserve the nuance.",
         "translation": "අනවශ්‍ය පුනරාවර්තන ඉවත් කළත් අර්ථ සූක්ෂ්මතාව රැකගන්න."
       },
       {
         "word": "proofreading",
-        "reading": "ප්‍රූෆ්රීඩිං",
+        "reading": "ප්ර්උෆ්ර්ඊඩ්ඉං",
         "meaning": "භාෂා නිවැරදි කිරීම",
         "example": "Proofreading covers grammar and punctuation.",
         "translation": "භාෂා නිවැරදි කිරීමේදී ව්‍යාකරණය සහ විරාම ලකුණු පරීක්ෂා කෙරේ."
