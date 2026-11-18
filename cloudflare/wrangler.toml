@@ -1,0 +1,8 @@
+name = "basanova-voice"
+main = "voice-worker.js"
+compatibility_date = "2026-11-18"
+
+[[ratelimits]]
+name = "VOICE_LIMITER"
+namespace_id = "1001"
+simple = { limit = 30, period = 60 }
