@@ -758,7 +758,7 @@ export const SERBIAN_A1_LESSONS = [
       { sr: "U redu. Želim da rezervišem sobu za dve noći.", si: "හරි. මට රාත්‍රී දෙකකට කාමරයක් වෙන් කරගන්න ඕනේ." },
       { sr: "Naravno. Evo ključa. Internet je besplatan.", si: "අනිවාර්යයෙන්ම. මෙන්න යතුර. අන්තර්ජාලය නොමිලේ." },
       { sr: "Hvala. Izvinite, klima ne radi.", si: "ස්තුතියි. සමාවෙන්න, වායුසමීකරණය වැඩ කරන්නේ නැහැ." },
-      { sr: "Odmah ćemo proveriti. Mogu li još nešto da pomognem?", si: "අපි දැන්ම පරීක්ෂා කරන්නම්. තවත් උදව්වක් අවශ්‍යද?" }
+      { sr: "Odmah ćemo proveriti. Mogu li još nekako da pomognem?", si: "අපි දැන්ම පරීක්ෂා කරන්නම්. තවත් මොන විදිහකින් හරි උදව් කරන්නද?" }
     ],
     practice: [
       { prompt: "“ඔබට හිස් කාමරයක් තිබෙනවාද?” තෝරන්න.", options: ["Imate li slobodnu sobu?", "Gde je autobus?", "Koliko je sati?"], answer: 0, explanation: "Imate li ...? යනු ඔබට ... තිබෙනවාද? යන ප්‍රශ්න රටාවයි." },
