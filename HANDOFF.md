@@ -394,7 +394,7 @@
 - Source validation re-fetched both committed arrays and confirmed 20 unique, sequential lesson IDs per language; each lesson has 8 vocabulary entries, 4 examples, 4 dialogue turns, 4 practice questions, grammar, phrase card and listening task; answer indexes are valid. Existing App.js imports and B1 renderer remain in place, so the new lesson objects are included by the same arrays.
 - Quality limitation: the new Serbian and English dialogue turns are explicitly alternating A/B, but several topic examples and vocabulary sample translations are generic patterns and should receive a language-speaker quality pass. Sinhala-script readings are approximate and require fluent-speaker review.
 - No Expo/JavaScript build, CI pass, APK artifact, installation or physical-device test was run for this batch. Do not claim runtime or build success.
-- Next: author paired B1 lessons 31–40, then 41–50; add cumulative revision and end-of-level assessment only after the full 50-lesson sequence is authored.
+- Next: add cumulative B1 revision and scored end-of-level listening/comprehension assessments for Serbian and English; then perform a full B1 quality audit and build/device verification.
 
 
 ## Latest session — paired B1 lessons 21–30 (2026-11-18)
@@ -409,3 +409,15 @@
 - Sinhala-script readings are approximate; Serbian grammar, idiomatic phrasing and vocabulary-example quality still require fluent-speaker review. This batch's example patterns and some dialogue turns are deliberately simple practice models, not a native-speaker editorial certification.
 - No Expo/JavaScript build, CI pass, APK artifact, installation or physical-device test was run. Do not claim runtime/build success.
 - Next: author paired B1 lessons 31–40, then 41–50; after the 50 lessons are complete, add cumulative revision and end-of-level assessments for both languages.
+
+
+## Latest session — completed paired B1 lessons 31–50 (2026-11-18)
+
+- Added Serbian IDs `sr-b1-l31`–`sr-b1-l50` and English IDs `en-b1-l31`–`en-b1-l50`. Both B1 arrays now contain 50 lessons.
+- Matched topics include science/discoveries; rights/responsibilities; art/creativity; economy/job market; housing/renting; public transport/infrastructure; environmental policy/climate; food culture; education/work goals; travel services; communication/body language; digital citizenship; time management; cultural differences; entrepreneurship; report writing/data; media debates; evaluating complex problems; future planning; and integrated speaking/writing.
+- Each new lesson contains eight vocabulary entries with Sinhala-script readings and meanings, example/translation support, grammar guidance, a phrase card, four examples, a four-turn A/B dialogue, one listening task and four practice questions.
+- Serbian data commit: `fc4e976d68396ad1768e8b7a08d6ca2fe1fedfb1`; English data commit: `eb41860aa6fdbe144c15212e28508a4527ae9f1a`; curriculum status commit: `016f435c54b1b0dbcf3062d3de1548e2a0cbde81` (50/50 per language, zero lessons remaining). README commit: `5c774f2bc9c7470813807ab41f3dedea7d93d5c8`.
+- Re-fetched both lesson arrays and verified 50 unique sequential IDs each; all lessons have eight vocabulary entries, required Sinhala reading/meaning/example fields, four examples, four dialogue rows, grammar, phrase cards, listening audio and four practice questions; answer indices are valid. Existing App.js imports remain present.
+- Quality limitations: the new final 20 lessons use some repeated example/dialogue scaffolding and Sinhala-script pronunciation approximations; Serbian naturalness, grammar, and translations need fluent-speaker review. The lesson sequence is complete by count, but this is not a CEFR-certified B1 course until full content/editorial and assessment validation is complete.
+- No Expo/JavaScript build, CI pass, APK artifact, installation or physical-device test was run. Do not claim runtime/build success.
+- Next: create cumulative B1 revision and scored end-of-level listening/comprehension assessments for both languages; then audit all 50 lessons and verify build/device readiness.
