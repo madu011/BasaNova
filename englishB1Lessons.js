@@ -5339,5 +5339,3565 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "Let us make a plan = අපි සැලැස්මක් හදමු."
       }
     ]
+  },
+  {
+    "id": "en-b1-l31",
+    "unit": "Independent use",
+    "title": "B1 · Lesson 31 · Science and discoveries",
+    "objective": "Discuss science and discoveries and support ideas with reasons and examples.",
+    "vocabulary": [
+      {
+        "word": "discovery",
+        "reading": "ඩිස්කවරි",
+        "meaning": "සොයාගැනීම",
+        "example": "සයන්ටිෆික් ඩිස්කවරිස් චේන්ජ් හව් වී අන්ඩර්ස්ටෑන්ඩ් දි වර්ල්ඩ්.",
+        "exampleReading": "Passive voice and present perfect for discoveries.",
+        "translation": "Scientific discoveries change how we understand the world."
+      },
+      {
+        "word": "research",
+        "reading": "රිසර්ච්",
+        "meaning": "පර්යේෂණය",
+        "example": "සයන්ටිෆික් ඩිස්කවරිස් චේන්ජ් හව් වී අන්ඩර්ස්ටෑන්ඩ් දි වර්ල්ඩ්.",
+        "exampleReading": "Passive voice and present perfect for discoveries.",
+        "translation": "Scientific discoveries change how we understand the world."
+      },
+      {
+        "word": "experiment",
+        "reading": "එක්ස්පෙරිමන්ට්",
+        "meaning": "පරීක්ෂණය",
+        "example": "සයන්ටිෆික් ඩිස්කවරිස් චේන්ජ් හව් වී අන්ඩර්ස්ටෑන්ඩ් දි වර්ල්ඩ්.",
+        "exampleReading": "Passive voice and present perfect for discoveries.",
+        "translation": "Scientific discoveries change how we understand the world."
+      },
+      {
+        "word": "scientist",
+        "reading": "සයන්ටිස්ට්",
+        "meaning": "විද්‍යාඥයා",
+        "example": "සයන්ටිෆික් ඩිස්කවරිස් චේන්ජ් හව් වී අන්ඩර්ස්ටෑන්ඩ් දි වර්ල්ඩ්.",
+        "exampleReading": "Passive voice and present perfect for discoveries.",
+        "translation": "Scientific discoveries change how we understand the world."
+      },
+      {
+        "word": "evidence",
+        "reading": "එවිඩන්ස්",
+        "meaning": "සාක්ෂිය",
+        "example": "සයන්ටිෆික් ඩිස්කවරිස් චේන්ජ් හව් වී අන්ඩර්ස්ටෑන්ඩ් දි වර්ල්ඩ්.",
+        "exampleReading": "Passive voice and present perfect for discoveries.",
+        "translation": "Scientific discoveries change how we understand the world."
+      },
+      {
+        "word": "technology",
+        "reading": "ටෙක්නොලජි",
+        "meaning": "තාක්ෂණය",
+        "example": "සයන්ටිෆික් ඩිස්කවරිස් චේන්ජ් හව් වී අන්ඩර්ස්ටෑන්ඩ් දි වර්ල්ඩ්.",
+        "exampleReading": "Passive voice and present perfect for discoveries.",
+        "translation": "Scientific discoveries change how we understand the world."
+      },
+      {
+        "word": "develop",
+        "reading": "ඩිවෙලප්",
+        "meaning": "දියුණු කරනවා",
+        "example": "සයන්ටිෆික් ඩිස්කවරිස් චේන්ජ් හව් වී අන්ඩර්ස්ටෑන්ඩ් දි වර්ල්ඩ්.",
+        "exampleReading": "Passive voice and present perfect for discoveries.",
+        "translation": "Scientific discoveries change how we understand the world."
+      },
+      {
+        "word": "result",
+        "reading": "රිසල්ට්",
+        "meaning": "ප්‍රතිඵලය",
+        "example": "සයන්ටිෆික් ඩිස්කවරිස් චේන්ජ් හව් වී අන්ඩර්ස්ටෑන්ඩ් දි වර්ල්ඩ්.",
+        "exampleReading": "Passive voice and present perfect for discoveries.",
+        "translation": "Scientific discoveries change how we understand the world."
+      }
+    ],
+    "grammarTitle": "Grammar",
+    "grammar": "Passive voice and present perfect for discoveries.",
+    "grammarTerms": [
+      {
+        "text": "සයන්ටිෆික් ඩිස්කවරිස් චේන්ජ් හව් වී අන්ඩර්ස්ටෑන්ඩ් දි වර්ල්ඩ්.",
+        "reading": "Passive voice and present perfect for discoveries.",
+        "meaning": "Scientific discoveries change how we understand the world."
+      }
+    ],
+    "examples": [
+      {
+        "text": "සයන්ටිෆික් ඩිස්කවරිස් චේන්ජ් හව් වී අන්ඩර්ස්ටෑන්ඩ් දි වර්ල්ඩ්.",
+        "reading": "Passive voice and present perfect for discoveries.",
+        "meaning": "Scientific discoveries change how we understand the world."
+      },
+      {
+        "text": "It is important to consider all available options carefully.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
+        "meaning": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "Based on the available information, we can make a better decision.",
+        "reading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
+        "meaning": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      },
+      {
+        "text": "This approach has advantages, but possible risks should also be considered.",
+        "reading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
+        "meaning": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "A: සයන්ටිෆික් ඩිස්කවරිස් චේන්ජ් හව් වී අන්ඩර්ස්ටෑන්ඩ් දි වර්ල්ඩ්.",
+        "reading": "A: Passive voice and present perfect for discoveries.",
+        "meaning": "Scientific discoveries change how we understand the world."
+      },
+      {
+        "text": "B: Could you give an example?",
+        "reading": "B: කුඩ් යූ ගිව් ඇන් ඉග්සැම්පල්?",
+        "meaning": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+      },
+      {
+        "text": "A: It is important to consider every option.",
+        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
+        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "B: I agree. That will help us make a better decision.",
+        "reading": "B: අයි අග්‍රී. දැට් විල් හෙල්ප් අස් මේක් අ බෙටර් ඩිසිෂන්.",
+        "meaning": "එකඟයි. එය වඩා හොඳ තීරණයක් ගැනීමට උදව් වේවි."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the meaning: සයන්ටිෆික් ඩිස්කවරිස් චේන්ජ් හව් වී අන්ඩර්ස්ටෑන්ඩ් දි වර්ල්ඩ්.",
+      "audio": "සයන්ටිෆික් ඩිස්කවරිස් චේන්ජ් හව් වී අන්ඩර්ස්ටෑන්ඩ් දි වර්ල්ඩ්.",
+      "reading": "Passive voice and present perfect for discoveries.",
+      "options": [
+        "Scientific discoveries change how we understand the world.",
+        "A different idea",
+        "A question"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "What does “discovery” mean?",
+        "options": [
+          "සොයාගැනීම",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් අර්ථයක්"
+        ],
+        "answer": 0,
+        "explanation": "discovery = සොයාගැනීම"
+      },
+      {
+        "prompt": "Choose the correct sentence.",
+        "options": [
+          "Yesterday I will goes.",
+          "සයන්ටිෆික් ඩිස්කවරිස් චේන්ජ් හව් වී අන්ඩර්ස්ටෑන්ඩ් දි වර්ල්ඩ්.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "Scientific discoveries change how we understand the world."
+      },
+      {
+        "prompt": "What does “research” mean?",
+        "options": [
+          "පර්යේෂණය",
+          "අදාළ නැති වචනය",
+          "විරුද්ධ අර්ථය"
+        ],
+        "answer": 0,
+        "explanation": "research = පර්යේෂණය"
+      },
+      {
+        "prompt": "What does speaker B ask for?",
+        "options": [
+          "An example",
+          "A price",
+          "An address"
+        ],
+        "answer": 0,
+        "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "en-b1-l32",
+    "unit": "Independent use",
+    "title": "B1 · Lesson 32 · Rules, rights and responsibilities",
+    "objective": "Discuss rules, rights and responsibilities and support ideas with reasons and examples.",
+    "vocabulary": [
+      {
+        "word": "right",
+        "reading": "රයිට්",
+        "meaning": "අයිතිය",
+        "example": "එව්රිවන් හැස් රයිට්ස් ඇන්ඩ් රිස්පොන්සිබිලිටීස් ටුවර්ඩ්ස් අදර්ස්.",
+        "exampleReading": "Modal verbs and conditional clauses for obligations.",
+        "translation": "Everyone has rights and responsibilities towards others."
+      },
+      {
+        "word": "responsibility",
+        "reading": "රිස්පොන්සිබිලිටි",
+        "meaning": "වගකීම",
+        "example": "එව්රිවන් හැස් රයිට්ස් ඇන්ඩ් රිස්පොන්සිබිලිටීස් ටුවර්ඩ්ස් අදර්ස්.",
+        "exampleReading": "Modal verbs and conditional clauses for obligations.",
+        "translation": "Everyone has rights and responsibilities towards others."
+      },
+      {
+        "word": "law",
+        "reading": "ලෝ",
+        "meaning": "නීතිය",
+        "example": "එව්රිවන් හැස් රයිට්ස් ඇන්ඩ් රිස්පොන්සිබිලිටීස් ටුවර්ඩ්ස් අදර්ස්.",
+        "exampleReading": "Modal verbs and conditional clauses for obligations.",
+        "translation": "Everyone has rights and responsibilities towards others."
+      },
+      {
+        "word": "rule",
+        "reading": "රූල්",
+        "meaning": "රීතිය",
+        "example": "එව්රිවන් හැස් රයිට්ස් ඇන්ඩ් රිස්පොන්සිබිලිටීස් ටුවර්ඩ්ස් අදර්ස්.",
+        "exampleReading": "Modal verbs and conditional clauses for obligations.",
+        "translation": "Everyone has rights and responsibilities towards others."
+      },
+      {
+        "word": "permission",
+        "reading": "පර්මිෂන්",
+        "meaning": "අවසරය",
+        "example": "එව්රිවන් හැස් රයිට්ස් ඇන්ඩ් රිස්පොන්සිබිලිටීස් ටුවර්ඩ්ස් අදර්ස්.",
+        "exampleReading": "Modal verbs and conditional clauses for obligations.",
+        "translation": "Everyone has rights and responsibilities towards others."
+      },
+      {
+        "word": "obligation",
+        "reading": "ඔබ්ලිගේෂන්",
+        "meaning": "බැඳීම",
+        "example": "එව්රිවන් හැස් රයිට්ස් ඇන්ඩ් රිස්පොන්සිබිලිටීස් ටුවර්ඩ්ස් අදර්ස්.",
+        "exampleReading": "Modal verbs and conditional clauses for obligations.",
+        "translation": "Everyone has rights and responsibilities towards others."
+      },
+      {
+        "word": "fair",
+        "reading": "ෆෙයාර්",
+        "meaning": "සාධාරණ",
+        "example": "එව්රිවන් හැස් රයිට්ස් ඇන්ඩ් රිස්පොන්සිබිලිටීස් ටුවර්ඩ්ස් අදර්ස්.",
+        "exampleReading": "Modal verbs and conditional clauses for obligations.",
+        "translation": "Everyone has rights and responsibilities towards others."
+      },
+      {
+        "word": "protect",
+        "reading": "ප්‍රොටෙක්ට්",
+        "meaning": "ආරක්ෂා කරනවා",
+        "example": "එව්රිවන් හැස් රයිට්ස් ඇන්ඩ් රිස්පොන්සිබිලිටීස් ටුවර්ඩ්ස් අදර්ස්.",
+        "exampleReading": "Modal verbs and conditional clauses for obligations.",
+        "translation": "Everyone has rights and responsibilities towards others."
+      }
+    ],
+    "grammarTitle": "Grammar",
+    "grammar": "Modal verbs and conditional clauses for obligations.",
+    "grammarTerms": [
+      {
+        "text": "එව්රිවන් හැස් රයිට්ස් ඇන්ඩ් රිස්පොන්සිබිලිටීස් ටුවර්ඩ්ස් අදර්ස්.",
+        "reading": "Modal verbs and conditional clauses for obligations.",
+        "meaning": "Everyone has rights and responsibilities towards others."
+      }
+    ],
+    "examples": [
+      {
+        "text": "එව්රිවන් හැස් රයිට්ස් ඇන්ඩ් රිස්පොන්සිබිලිටීස් ටුවර්ඩ්ස් අදර්ස්.",
+        "reading": "Modal verbs and conditional clauses for obligations.",
+        "meaning": "Everyone has rights and responsibilities towards others."
+      },
+      {
+        "text": "It is important to consider all available options carefully.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
+        "meaning": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "Based on the available information, we can make a better decision.",
+        "reading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
+        "meaning": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      },
+      {
+        "text": "This approach has advantages, but possible risks should also be considered.",
+        "reading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
+        "meaning": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "A: එව්රිවන් හැස් රයිට්ස් ඇන්ඩ් රිස්පොන්සිබිලිටීස් ටුවර්ඩ්ස් අදර්ස්.",
+        "reading": "A: Modal verbs and conditional clauses for obligations.",
+        "meaning": "Everyone has rights and responsibilities towards others."
+      },
+      {
+        "text": "B: Could you give an example?",
+        "reading": "B: කුඩ් යූ ගිව් ඇන් ඉග්සැම්පල්?",
+        "meaning": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+      },
+      {
+        "text": "A: It is important to consider every option.",
+        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
+        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "B: I agree. That will help us make a better decision.",
+        "reading": "B: අයි අග්‍රී. දැට් විල් හෙල්ප් අස් මේක් අ බෙටර් ඩිසිෂන්.",
+        "meaning": "එකඟයි. එය වඩා හොඳ තීරණයක් ගැනීමට උදව් වේවි."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the meaning: එව්රිවන් හැස් රයිට්ස් ඇන්ඩ් රිස්පොන්සිබිලිටීස් ටුවර්ඩ්ස් අදර්ස්.",
+      "audio": "එව්රිවන් හැස් රයිට්ස් ඇන්ඩ් රිස්පොන්සිබිලිටීස් ටුවර්ඩ්ස් අදර්ස්.",
+      "reading": "Modal verbs and conditional clauses for obligations.",
+      "options": [
+        "Everyone has rights and responsibilities towards others.",
+        "A different idea",
+        "A question"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "What does “right” mean?",
+        "options": [
+          "අයිතිය",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් අර්ථයක්"
+        ],
+        "answer": 0,
+        "explanation": "right = අයිතිය"
+      },
+      {
+        "prompt": "Choose the correct sentence.",
+        "options": [
+          "Yesterday I will goes.",
+          "එව්රිවන් හැස් රයිට්ස් ඇන්ඩ් රිස්පොන්සිබිලිටීස් ටුවර්ඩ්ස් අදර්ස්.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "Everyone has rights and responsibilities towards others."
+      },
+      {
+        "prompt": "What does “responsibility” mean?",
+        "options": [
+          "වගකීම",
+          "අදාළ නැති වචනය",
+          "විරුද්ධ අර්ථය"
+        ],
+        "answer": 0,
+        "explanation": "responsibility = වගකීම"
+      },
+      {
+        "prompt": "What does speaker B ask for?",
+        "options": [
+          "An example",
+          "A price",
+          "An address"
+        ],
+        "answer": 0,
+        "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "en-b1-l33",
+    "unit": "Independent use",
+    "title": "B1 · Lesson 33 · Art and creativity",
+    "objective": "Discuss art and creativity and support ideas with reasons and examples.",
+    "vocabulary": [
+      {
+        "word": "creativity",
+        "reading": "ක්‍රීඒටිවිටි",
+        "meaning": "නිර්මාණශීලීත්වය",
+        "example": "ආර්ට් අලවුස් අස් ටු එක්ස්ප්‍රෙස් ෆීලිංස් ඉන් ඩිෆරන්ට් වේස්.",
+        "exampleReading": "Relative clauses and descriptive adjectives.",
+        "translation": "Art allows us to express feelings in different ways."
+      },
+      {
+        "word": "painting",
+        "reading": "පේන්ටින්",
+        "meaning": "චිත්‍රය",
+        "example": "ආර්ට් අලවුස් අස් ටු එක්ස්ප්‍රෙස් ෆීලිංස් ඉන් ඩිෆරන්ට් වේස්.",
+        "exampleReading": "Relative clauses and descriptive adjectives.",
+        "translation": "Art allows us to express feelings in different ways."
+      },
+      {
+        "word": "exhibition",
+        "reading": "එක්සිබිෂන්",
+        "meaning": "ප්‍රදර්ශනය",
+        "example": "ආර්ට් අලවුස් අස් ටු එක්ස්ප්‍රෙස් ෆීලිංස් ඉන් ඩිෆරන්ට් වේස්.",
+        "exampleReading": "Relative clauses and descriptive adjectives.",
+        "translation": "Art allows us to express feelings in different ways."
+      },
+      {
+        "word": "performance",
+        "reading": "පර්ෆෝමන්ස්",
+        "meaning": "ප්‍රසංගය",
+        "example": "ආර්ට් අලවුස් අස් ටු එක්ස්ප්‍රෙස් ෆීලිංස් ඉන් ඩිෆරන්ට් වේස්.",
+        "exampleReading": "Relative clauses and descriptive adjectives.",
+        "translation": "Art allows us to express feelings in different ways."
+      },
+      {
+        "word": "inspiration",
+        "reading": "ඉන්ස්පිරේෂන්",
+        "meaning": "ආභාසය",
+        "example": "ආර්ට් අලවුස් අස් ටු එක්ස්ප්‍රෙස් ෆීලිංස් ඉන් ඩිෆරන්ට් වේස්.",
+        "exampleReading": "Relative clauses and descriptive adjectives.",
+        "translation": "Art allows us to express feelings in different ways."
+      },
+      {
+        "word": "talent",
+        "reading": "ටැලන්ට්",
+        "meaning": "දක්ෂතාව",
+        "example": "ආර්ට් අලවුස් අස් ටු එක්ස්ප්‍රෙස් ෆීලිංස් ඉන් ඩිෆරන්ට් වේස්.",
+        "exampleReading": "Relative clauses and descriptive adjectives.",
+        "translation": "Art allows us to express feelings in different ways."
+      },
+      {
+        "word": "craft",
+        "reading": "ක්‍රාෆ්ට්",
+        "meaning": "හස්ත කර්මාන්තය",
+        "example": "ආර්ට් අලවුස් අස් ටු එක්ස්ප්‍රෙස් ෆීලිංස් ඉන් ඩිෆරන්ට් වේස්.",
+        "exampleReading": "Relative clauses and descriptive adjectives.",
+        "translation": "Art allows us to express feelings in different ways."
+      },
+      {
+        "word": "audience",
+        "reading": "ඕඩියන්ස්",
+        "meaning": "ප්‍රේක්ෂකයෝ",
+        "example": "ආර්ට් අලවුස් අස් ටු එක්ස්ප්‍රෙස් ෆීලිංස් ඉන් ඩිෆරන්ට් වේස්.",
+        "exampleReading": "Relative clauses and descriptive adjectives.",
+        "translation": "Art allows us to express feelings in different ways."
+      }
+    ],
+    "grammarTitle": "Grammar",
+    "grammar": "Relative clauses and descriptive adjectives.",
+    "grammarTerms": [
+      {
+        "text": "ආර්ට් අලවුස් අස් ටු එක්ස්ප්‍රෙස් ෆීලිංස් ඉන් ඩිෆරන්ට් වේස්.",
+        "reading": "Relative clauses and descriptive adjectives.",
+        "meaning": "Art allows us to express feelings in different ways."
+      }
+    ],
+    "examples": [
+      {
+        "text": "ආර්ට් අලවුස් අස් ටු එක්ස්ප්‍රෙස් ෆීලිංස් ඉන් ඩිෆරන්ට් වේස්.",
+        "reading": "Relative clauses and descriptive adjectives.",
+        "meaning": "Art allows us to express feelings in different ways."
+      },
+      {
+        "text": "It is important to consider all available options carefully.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
+        "meaning": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "Based on the available information, we can make a better decision.",
+        "reading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
+        "meaning": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      },
+      {
+        "text": "This approach has advantages, but possible risks should also be considered.",
+        "reading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
+        "meaning": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "A: ආර්ට් අලවුස් අස් ටු එක්ස්ප්‍රෙස් ෆීලිංස් ඉන් ඩිෆරන්ට් වේස්.",
+        "reading": "A: Relative clauses and descriptive adjectives.",
+        "meaning": "Art allows us to express feelings in different ways."
+      },
+      {
+        "text": "B: Could you give an example?",
+        "reading": "B: කුඩ් යූ ගිව් ඇන් ඉග්සැම්පල්?",
+        "meaning": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+      },
+      {
+        "text": "A: It is important to consider every option.",
+        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
+        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "B: I agree. That will help us make a better decision.",
+        "reading": "B: අයි අග්‍රී. දැට් විල් හෙල්ප් අස් මේක් අ බෙටර් ඩිසිෂන්.",
+        "meaning": "එකඟයි. එය වඩා හොඳ තීරණයක් ගැනීමට උදව් වේවි."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the meaning: ආර්ට් අලවුස් අස් ටු එක්ස්ප්‍රෙස් ෆීලිංස් ඉන් ඩිෆරන්ට් වේස්.",
+      "audio": "ආර්ට් අලවුස් අස් ටු එක්ස්ප්‍රෙස් ෆීලිංස් ඉන් ඩිෆරන්ට් වේස්.",
+      "reading": "Relative clauses and descriptive adjectives.",
+      "options": [
+        "Art allows us to express feelings in different ways.",
+        "A different idea",
+        "A question"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "What does “creativity” mean?",
+        "options": [
+          "නිර්මාණශීලීත්වය",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් අර්ථයක්"
+        ],
+        "answer": 0,
+        "explanation": "creativity = නිර්මාණශීලීත්වය"
+      },
+      {
+        "prompt": "Choose the correct sentence.",
+        "options": [
+          "Yesterday I will goes.",
+          "ආර්ට් අලවුස් අස් ටු එක්ස්ප්‍රෙස් ෆීලිංස් ඉන් ඩිෆරන්ට් වේස්.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "Art allows us to express feelings in different ways."
+      },
+      {
+        "prompt": "What does “painting” mean?",
+        "options": [
+          "චිත්‍රය",
+          "අදාළ නැති වචනය",
+          "විරුද්ධ අර්ථය"
+        ],
+        "answer": 0,
+        "explanation": "painting = චිත්‍රය"
+      },
+      {
+        "prompt": "What does speaker B ask for?",
+        "options": [
+          "An example",
+          "A price",
+          "An address"
+        ],
+        "answer": 0,
+        "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "en-b1-l34",
+    "unit": "Independent use",
+    "title": "B1 · Lesson 34 · Economy and the job market",
+    "objective": "Discuss economy and the job market and support ideas with reasons and examples.",
+    "vocabulary": [
+      {
+        "word": "economy",
+        "reading": "ඉකොනමි",
+        "meaning": "ආර්ථිකය",
+        "example": "දි ජොබ් මාර්කට් ඉස් චේන්ජිං බිකෝස් ඔෆ් න්‍යූ ස්කිල්ස් ඇන්ඩ් ටෙක්නොලජි.",
+        "exampleReading": "Comparatives, trends and cause-effect connectors.",
+        "translation": "The job market is changing because of new skills and technology."
+      },
+      {
+        "word": "job market",
+        "reading": "ජොබ් මාර්කට්",
+        "meaning": "රැකියා වෙළඳපොළ",
+        "example": "දි ජොබ් මාර්කට් ඉස් චේන්ජිං බිකෝස් ඔෆ් න්‍යූ ස්කිල්ස් ඇන්ඩ් ටෙක්නොලජි.",
+        "exampleReading": "Comparatives, trends and cause-effect connectors.",
+        "translation": "The job market is changing because of new skills and technology."
+      },
+      {
+        "word": "employment",
+        "reading": "එම්ප්ලොයිමන්ට්",
+        "meaning": "රැකියාව",
+        "example": "දි ජොබ් මාර්කට් ඉස් චේන්ජිං බිකෝස් ඔෆ් න්‍යූ ස්කිල්ස් ඇන්ඩ් ටෙක්නොලජි.",
+        "exampleReading": "Comparatives, trends and cause-effect connectors.",
+        "translation": "The job market is changing because of new skills and technology."
+      },
+      {
+        "word": "unemployment",
+        "reading": "අන්එම්ප්ලොයිමන්ට්",
+        "meaning": "විරැකියාව",
+        "example": "දි ජොබ් මාර්කට් ඉස් චේන්ජිං බිකෝස් ඔෆ් න්‍යූ ස්කිල්ස් ඇන්ඩ් ටෙක්නොලජි.",
+        "exampleReading": "Comparatives, trends and cause-effect connectors.",
+        "translation": "The job market is changing because of new skills and technology."
+      },
+      {
+        "word": "salary",
+        "reading": "සැලරි",
+        "meaning": "වැටුප",
+        "example": "දි ජොබ් මාර්කට් ඉස් චේන්ජිං බිකෝස් ඔෆ් න්‍යූ ස්කිල්ස් ඇන්ඩ් ටෙක්නොලජි.",
+        "exampleReading": "Comparatives, trends and cause-effect connectors.",
+        "translation": "The job market is changing because of new skills and technology."
+      },
+      {
+        "word": "demand",
+        "reading": "ඩිමාන්ඩ්",
+        "meaning": "ඉල්ලුම",
+        "example": "දි ජොබ් මාර්කට් ඉස් චේන්ජිං බිකෝස් ඔෆ් න්‍යූ ස්කිල්ස් ඇන්ඩ් ටෙක්නොලජි.",
+        "exampleReading": "Comparatives, trends and cause-effect connectors.",
+        "translation": "The job market is changing because of new skills and technology."
+      },
+      {
+        "word": "supply",
+        "reading": "සැප්ලයි",
+        "meaning": "සැපයුම",
+        "example": "දි ජොබ් මාර්කට් ඉස් චේන්ජිං බිකෝස් ඔෆ් න්‍යූ ස්කිල්ස් ඇන්ඩ් ටෙක්නොලජි.",
+        "exampleReading": "Comparatives, trends and cause-effect connectors.",
+        "translation": "The job market is changing because of new skills and technology."
+      },
+      {
+        "word": "industry",
+        "reading": "ඉන්ඩස්ට්‍රි",
+        "meaning": "කර්මාන්තය",
+        "example": "දි ජොබ් මාර්කට් ඉස් චේන්ජිං බිකෝස් ඔෆ් න්‍යූ ස්කිල්ස් ඇන්ඩ් ටෙක්නොලජි.",
+        "exampleReading": "Comparatives, trends and cause-effect connectors.",
+        "translation": "The job market is changing because of new skills and technology."
+      }
+    ],
+    "grammarTitle": "Grammar",
+    "grammar": "Comparatives, trends and cause-effect connectors.",
+    "grammarTerms": [
+      {
+        "text": "දි ජොබ් මාර්කට් ඉස් චේන්ජිං බිකෝස් ඔෆ් න්‍යූ ස්කිල්ස් ඇන්ඩ් ටෙක්නොලජි.",
+        "reading": "Comparatives, trends and cause-effect connectors.",
+        "meaning": "The job market is changing because of new skills and technology."
+      }
+    ],
+    "examples": [
+      {
+        "text": "දි ජොබ් මාර්කට් ඉස් චේන්ජිං බිකෝස් ඔෆ් න්‍යූ ස්කිල්ස් ඇන්ඩ් ටෙක්නොලජි.",
+        "reading": "Comparatives, trends and cause-effect connectors.",
+        "meaning": "The job market is changing because of new skills and technology."
+      },
+      {
+        "text": "It is important to consider all available options carefully.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
+        "meaning": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "Based on the available information, we can make a better decision.",
+        "reading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
+        "meaning": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      },
+      {
+        "text": "This approach has advantages, but possible risks should also be considered.",
+        "reading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
+        "meaning": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "A: දි ජොබ් මාර්කට් ඉස් චේන්ජිං බිකෝස් ඔෆ් න්‍යූ ස්කිල්ස් ඇන්ඩ් ටෙක්නොලජි.",
+        "reading": "A: Comparatives, trends and cause-effect connectors.",
+        "meaning": "The job market is changing because of new skills and technology."
+      },
+      {
+        "text": "B: Could you give an example?",
+        "reading": "B: කුඩ් යූ ගිව් ඇන් ඉග්සැම්පල්?",
+        "meaning": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+      },
+      {
+        "text": "A: It is important to consider every option.",
+        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
+        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "B: I agree. That will help us make a better decision.",
+        "reading": "B: අයි අග්‍රී. දැට් විල් හෙල්ප් අස් මේක් අ බෙටර් ඩිසිෂන්.",
+        "meaning": "එකඟයි. එය වඩා හොඳ තීරණයක් ගැනීමට උදව් වේවි."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the meaning: දි ජොබ් මාර්කට් ඉස් චේන්ජිං බිකෝස් ඔෆ් න්‍යූ ස්කිල්ස් ඇන්ඩ් ටෙක්නොලජි.",
+      "audio": "දි ජොබ් මාර්කට් ඉස් චේන්ජිං බිකෝස් ඔෆ් න්‍යූ ස්කිල්ස් ඇන්ඩ් ටෙක්නොලජි.",
+      "reading": "Comparatives, trends and cause-effect connectors.",
+      "options": [
+        "The job market is changing because of new skills and technology.",
+        "A different idea",
+        "A question"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "What does “economy” mean?",
+        "options": [
+          "ආර්ථිකය",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් අර්ථයක්"
+        ],
+        "answer": 0,
+        "explanation": "economy = ආර්ථිකය"
+      },
+      {
+        "prompt": "Choose the correct sentence.",
+        "options": [
+          "Yesterday I will goes.",
+          "දි ජොබ් මාර්කට් ඉස් චේන්ජිං බිකෝස් ඔෆ් න්‍යූ ස්කිල්ස් ඇන්ඩ් ටෙක්නොලජි.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "The job market is changing because of new skills and technology."
+      },
+      {
+        "prompt": "What does “job market” mean?",
+        "options": [
+          "රැකියා වෙළඳපොළ",
+          "අදාළ නැති වචනය",
+          "විරුද්ධ අර්ථය"
+        ],
+        "answer": 0,
+        "explanation": "job market = රැකියා වෙළඳපොළ"
+      },
+      {
+        "prompt": "What does speaker B ask for?",
+        "options": [
+          "An example",
+          "A price",
+          "An address"
+        ],
+        "answer": 0,
+        "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "en-b1-l35",
+    "unit": "Independent use",
+    "title": "B1 · Lesson 35 · Housing, renting and neighbourhood life",
+    "objective": "Discuss housing, renting and neighbourhood life and support ideas with reasons and examples.",
+    "vocabulary": [
+      {
+        "word": "rent",
+        "reading": "රෙන්ට්",
+        "meaning": "කුලිය",
+        "example": "බිෆෝර් සයිනින් අ කොන්ට්‍රැක්ට් වී ෂුඩ් චෙක් දි කන්ඩිෂන්ස් කෙයර්ෆුලි.",
+        "exampleReading": "Need to, should have and before/after clauses.",
+        "translation": "Before signing a contract, we should check the conditions carefully."
+      },
+      {
+        "word": "landlord",
+        "reading": "ලෑන්ඩ්ලෝර්ඩ්",
+        "meaning": "නිවාස හිමියා",
+        "example": "බිෆෝර් සයිනින් අ කොන්ට්‍රැක්ට් වී ෂුඩ් චෙක් දි කන්ඩිෂන්ස් කෙයර්ෆුලි.",
+        "exampleReading": "Need to, should have and before/after clauses.",
+        "translation": "Before signing a contract, we should check the conditions carefully."
+      },
+      {
+        "word": "tenant",
+        "reading": "ටෙනන්ට්",
+        "meaning": "කුලී නිවැසියා",
+        "example": "බිෆෝර් සයිනින් අ කොන්ට්‍රැක්ට් වී ෂුඩ් චෙක් දි කන්ඩිෂන්ස් කෙයර්ෆුලි.",
+        "exampleReading": "Need to, should have and before/after clauses.",
+        "translation": "Before signing a contract, we should check the conditions carefully."
+      },
+      {
+        "word": "contract",
+        "reading": "කොන්ට්‍රැක්ට්",
+        "meaning": "ගිවිසුම",
+        "example": "බිෆෝර් සයිනින් අ කොන්ට්‍රැක්ට් වී ෂුඩ් චෙක් දි කන්ඩිෂන්ස් කෙයර්ෆුලි.",
+        "exampleReading": "Need to, should have and before/after clauses.",
+        "translation": "Before signing a contract, we should check the conditions carefully."
+      },
+      {
+        "word": "deposit",
+        "reading": "ඩිපොසිට්",
+        "meaning": "තැන්පතුව",
+        "example": "බිෆෝර් සයිනින් අ කොන්ට්‍රැක්ට් වී ෂුඩ් චෙක් දි කන්ඩිෂන්ස් කෙයර්ෆුලි.",
+        "exampleReading": "Need to, should have and before/after clauses.",
+        "translation": "Before signing a contract, we should check the conditions carefully."
+      },
+      {
+        "word": "utility bill",
+        "reading": "යූටිලිටි බිල්",
+        "meaning": "උපයෝගිතා බිල්පත",
+        "example": "බිෆෝර් සයිනින් අ කොන්ට්‍රැක්ට් වී ෂුඩ් චෙක් දි කන්ඩිෂන්ස් කෙයර්ෆුලි.",
+        "exampleReading": "Need to, should have and before/after clauses.",
+        "translation": "Before signing a contract, we should check the conditions carefully."
+      },
+      {
+        "word": "neighbour",
+        "reading": "නේබර්",
+        "meaning": "අසල්වැසියා",
+        "example": "බිෆෝර් සයිනින් අ කොන්ට්‍රැක්ට් වී ෂුඩ් චෙක් දි කන්ඩිෂන්ස් කෙයර්ෆුලි.",
+        "exampleReading": "Need to, should have and before/after clauses.",
+        "translation": "Before signing a contract, we should check the conditions carefully."
+      },
+      {
+        "word": "maintenance",
+        "reading": "මේන්ටෙනන්ස්",
+        "meaning": "නඩත්තුව",
+        "example": "බිෆෝර් සයිනින් අ කොන්ට්‍රැක්ට් වී ෂුඩ් චෙක් දි කන්ඩිෂන්ස් කෙයර්ෆුලි.",
+        "exampleReading": "Need to, should have and before/after clauses.",
+        "translation": "Before signing a contract, we should check the conditions carefully."
+      }
+    ],
+    "grammarTitle": "Grammar",
+    "grammar": "Need to, should have and before/after clauses.",
+    "grammarTerms": [
+      {
+        "text": "බිෆෝර් සයිනින් අ කොන්ට්‍රැක්ට් වී ෂුඩ් චෙක් දි කන්ඩිෂන්ස් කෙයර්ෆුලි.",
+        "reading": "Need to, should have and before/after clauses.",
+        "meaning": "Before signing a contract, we should check the conditions carefully."
+      }
+    ],
+    "examples": [
+      {
+        "text": "බිෆෝර් සයිනින් අ කොන්ට්‍රැක්ට් වී ෂුඩ් චෙක් දි කන්ඩිෂන්ස් කෙයර්ෆුලි.",
+        "reading": "Need to, should have and before/after clauses.",
+        "meaning": "Before signing a contract, we should check the conditions carefully."
+      },
+      {
+        "text": "It is important to consider all available options carefully.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
+        "meaning": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "Based on the available information, we can make a better decision.",
+        "reading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
+        "meaning": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      },
+      {
+        "text": "This approach has advantages, but possible risks should also be considered.",
+        "reading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
+        "meaning": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "A: බිෆෝර් සයිනින් අ කොන්ට්‍රැක්ට් වී ෂුඩ් චෙක් දි කන්ඩිෂන්ස් කෙයර්ෆුලි.",
+        "reading": "A: Need to, should have and before/after clauses.",
+        "meaning": "Before signing a contract, we should check the conditions carefully."
+      },
+      {
+        "text": "B: Could you give an example?",
+        "reading": "B: කුඩ් යූ ගිව් ඇන් ඉග්සැම්පල්?",
+        "meaning": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+      },
+      {
+        "text": "A: It is important to consider every option.",
+        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
+        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "B: I agree. That will help us make a better decision.",
+        "reading": "B: අයි අග්‍රී. දැට් විල් හෙල්ප් අස් මේක් අ බෙටර් ඩිසිෂන්.",
+        "meaning": "එකඟයි. එය වඩා හොඳ තීරණයක් ගැනීමට උදව් වේවි."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the meaning: බිෆෝර් සයිනින් අ කොන්ට්‍රැක්ට් වී ෂුඩ් චෙක් දි කන්ඩිෂන්ස් කෙයර්ෆුලි.",
+      "audio": "බිෆෝර් සයිනින් අ කොන්ට්‍රැක්ට් වී ෂුඩ් චෙක් දි කන්ඩිෂන්ස් කෙයර්ෆුලි.",
+      "reading": "Need to, should have and before/after clauses.",
+      "options": [
+        "Before signing a contract, we should check the conditions carefully.",
+        "A different idea",
+        "A question"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "What does “rent” mean?",
+        "options": [
+          "කුලිය",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් අර්ථයක්"
+        ],
+        "answer": 0,
+        "explanation": "rent = කුලිය"
+      },
+      {
+        "prompt": "Choose the correct sentence.",
+        "options": [
+          "Yesterday I will goes.",
+          "බිෆෝර් සයිනින් අ කොන්ට්‍රැක්ට් වී ෂුඩ් චෙක් දි කන්ඩිෂන්ස් කෙයර්ෆුලි.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "Before signing a contract, we should check the conditions carefully."
+      },
+      {
+        "prompt": "What does “landlord” mean?",
+        "options": [
+          "නිවාස හිමියා",
+          "අදාළ නැති වචනය",
+          "විරුද්ධ අර්ථය"
+        ],
+        "answer": 0,
+        "explanation": "landlord = නිවාස හිමියා"
+      },
+      {
+        "prompt": "What does speaker B ask for?",
+        "options": [
+          "An example",
+          "A price",
+          "An address"
+        ],
+        "answer": 0,
+        "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "en-b1-l36",
+    "unit": "Independent use",
+    "title": "B1 · Lesson 36 · Public transport and city infrastructure",
+    "objective": "Discuss public transport and city infrastructure and support ideas with reasons and examples.",
+    "vocabulary": [
+      {
+        "word": "infrastructure",
+        "reading": "ඉන්ෆ්‍රාස්ට්‍රක්චර්",
+        "meaning": "යටිතල පහසුකම්",
+        "example": "රිලයබල් පබ්ලික් ට්‍රාන්ස්පෝට් කෑන් රිඩියූස් කන්ජෙස්චන් ඉන් අ සිටි.",
+        "exampleReading": "Passive voice and modal verbs for public services.",
+        "translation": "Reliable public transport can reduce congestion in a city."
+      },
+      {
+        "word": "congestion",
+        "reading": "කන්ජෙස්චන්",
+        "meaning": "වාහන තදබදය",
+        "example": "රිලයබල් පබ්ලික් ට්‍රාන්ස්පෝට් කෑන් රිඩියූස් කන්ජෙස්චන් ඉන් අ සිටි.",
+        "exampleReading": "Passive voice and modal verbs for public services.",
+        "translation": "Reliable public transport can reduce congestion in a city."
+      },
+      {
+        "word": "route",
+        "reading": "රූට්",
+        "meaning": "මාර්ගය",
+        "example": "රිලයබල් පබ්ලික් ට්‍රාන්ස්පෝට් කෑන් රිඩියූස් කන්ජෙස්චන් ඉන් අ සිටි.",
+        "exampleReading": "Passive voice and modal verbs for public services.",
+        "translation": "Reliable public transport can reduce congestion in a city."
+      },
+      {
+        "word": "subway",
+        "reading": "සබ්වේ",
+        "meaning": "භූගත දුම්රිය",
+        "example": "රිලයබල් පබ්ලික් ට්‍රාන්ස්පෝට් කෑන් රිඩියූස් කන්ජෙස්චන් ඉන් අ සිටි.",
+        "exampleReading": "Passive voice and modal verbs for public services.",
+        "translation": "Reliable public transport can reduce congestion in a city."
+      },
+      {
+        "word": "reliable",
+        "reading": "රිලයබල්",
+        "meaning": "විශ්වාසදායක",
+        "example": "රිලයබල් පබ්ලික් ට්‍රාන්ස්පෝට් කෑන් රිඩියූස් කන්ජෙස්චන් ඉන් අ සිටි.",
+        "exampleReading": "Passive voice and modal verbs for public services.",
+        "translation": "Reliable public transport can reduce congestion in a city."
+      },
+      {
+        "word": "accessible",
+        "reading": "ඇක්සෙසිබල්",
+        "meaning": "ප්‍රවේශ විය හැකි",
+        "example": "රිලයබල් පබ්ලික් ට්‍රාන්ස්පෝට් කෑන් රිඩියූස් කන්ජෙස්චන් ඉන් අ සිටි.",
+        "exampleReading": "Passive voice and modal verbs for public services.",
+        "translation": "Reliable public transport can reduce congestion in a city."
+      },
+      {
+        "word": "facility",
+        "reading": "ෆසිලිටි",
+        "meaning": "පහසුකම",
+        "example": "රිලයබල් පබ්ලික් ට්‍රාන්ස්පෝට් කෑන් රිඩියූස් කන්ජෙස්චන් ඉන් අ සිටි.",
+        "exampleReading": "Passive voice and modal verbs for public services.",
+        "translation": "Reliable public transport can reduce congestion in a city."
+      },
+      {
+        "word": "construction",
+        "reading": "කන්ස්ට්‍රක්ෂන්",
+        "meaning": "ඉදිකිරීම",
+        "example": "රිලයබල් පබ්ලික් ට්‍රාන්ස්පෝට් කෑන් රිඩියූස් කන්ජෙස්චන් ඉන් අ සිටි.",
+        "exampleReading": "Passive voice and modal verbs for public services.",
+        "translation": "Reliable public transport can reduce congestion in a city."
+      }
+    ],
+    "grammarTitle": "Grammar",
+    "grammar": "Passive voice and modal verbs for public services.",
+    "grammarTerms": [
+      {
+        "text": "රිලයබල් පබ්ලික් ට්‍රාන්ස්පෝට් කෑන් රිඩියූස් කන්ජෙස්චන් ඉන් අ සිටි.",
+        "reading": "Passive voice and modal verbs for public services.",
+        "meaning": "Reliable public transport can reduce congestion in a city."
+      }
+    ],
+    "examples": [
+      {
+        "text": "රිලයබල් පබ්ලික් ට්‍රාන්ස්පෝට් කෑන් රිඩියූස් කන්ජෙස්චන් ඉන් අ සිටි.",
+        "reading": "Passive voice and modal verbs for public services.",
+        "meaning": "Reliable public transport can reduce congestion in a city."
+      },
+      {
+        "text": "It is important to consider all available options carefully.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
+        "meaning": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "Based on the available information, we can make a better decision.",
+        "reading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
+        "meaning": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      },
+      {
+        "text": "This approach has advantages, but possible risks should also be considered.",
+        "reading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
+        "meaning": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "A: රිලයබල් පබ්ලික් ට්‍රාන්ස්පෝට් කෑන් රිඩියූස් කන්ජෙස්චන් ඉන් අ සිටි.",
+        "reading": "A: Passive voice and modal verbs for public services.",
+        "meaning": "Reliable public transport can reduce congestion in a city."
+      },
+      {
+        "text": "B: Could you give an example?",
+        "reading": "B: කුඩ් යූ ගිව් ඇන් ඉග්සැම්පල්?",
+        "meaning": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+      },
+      {
+        "text": "A: It is important to consider every option.",
+        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
+        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "B: I agree. That will help us make a better decision.",
+        "reading": "B: අයි අග්‍රී. දැට් විල් හෙල්ප් අස් මේක් අ බෙටර් ඩිසිෂන්.",
+        "meaning": "එකඟයි. එය වඩා හොඳ තීරණයක් ගැනීමට උදව් වේවි."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the meaning: රිලයබල් පබ්ලික් ට්‍රාන්ස්පෝට් කෑන් රිඩියූස් කන්ජෙස්චන් ඉන් අ සිටි.",
+      "audio": "රිලයබල් පබ්ලික් ට්‍රාන්ස්පෝට් කෑන් රිඩියූස් කන්ජෙස්චන් ඉන් අ සිටි.",
+      "reading": "Passive voice and modal verbs for public services.",
+      "options": [
+        "Reliable public transport can reduce congestion in a city.",
+        "A different idea",
+        "A question"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "What does “infrastructure” mean?",
+        "options": [
+          "යටිතල පහසුකම්",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් අර්ථයක්"
+        ],
+        "answer": 0,
+        "explanation": "infrastructure = යටිතල පහසුකම්"
+      },
+      {
+        "prompt": "Choose the correct sentence.",
+        "options": [
+          "Yesterday I will goes.",
+          "රිලයබල් පබ්ලික් ට්‍රාන්ස්පෝට් කෑන් රිඩියූස් කන්ජෙස්චන් ඉන් අ සිටි.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "Reliable public transport can reduce congestion in a city."
+      },
+      {
+        "prompt": "What does “congestion” mean?",
+        "options": [
+          "වාහන තදබදය",
+          "අදාළ නැති වචනය",
+          "විරුද්ධ අර්ථය"
+        ],
+        "answer": 0,
+        "explanation": "congestion = වාහන තදබදය"
+      },
+      {
+        "prompt": "What does speaker B ask for?",
+        "options": [
+          "An example",
+          "A price",
+          "An address"
+        ],
+        "answer": 0,
+        "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "en-b1-l37",
+    "unit": "Independent use",
+    "title": "B1 · Lesson 37 · Environmental policy and climate",
+    "objective": "Discuss environmental policy and climate and support ideas with reasons and examples.",
+    "vocabulary": [
+      {
+        "word": "climate",
+        "reading": "ක්ලයිමට්",
+        "meaning": "දේශගුණය",
+        "example": "ක්ලයිමට් චේන්ජ් රික්වයර්ස් ලෝන්ග් ටර්ම් ඇන්ඩ් ෂෙයර්ඩ් සලූෂන්ස්.",
+        "exampleReading": "Future forms and expressions of necessity and consequence.",
+        "translation": "Climate change requires long-term and shared solutions."
+      },
+      {
+        "word": "emission",
+        "reading": "ඉමිෂන්",
+        "meaning": "විමෝචනය",
+        "example": "ක්ලයිමට් චේන්ජ් රික්වයර්ස් ලෝන්ග් ටර්ම් ඇන්ඩ් ෂෙයර්ඩ් සලූෂන්ස්.",
+        "exampleReading": "Future forms and expressions of necessity and consequence.",
+        "translation": "Climate change requires long-term and shared solutions."
+      },
+      {
+        "word": "renewable",
+        "reading": "රිනියුවබල්",
+        "meaning": "පුනර්ජනනීය",
+        "example": "ක්ලයිමට් චේන්ජ් රික්වයර්ස් ලෝන්ග් ටර්ම් ඇන්ඩ් ෂෙයර්ඩ් සලූෂන්ස්.",
+        "exampleReading": "Future forms and expressions of necessity and consequence.",
+        "translation": "Climate change requires long-term and shared solutions."
+      },
+      {
+        "word": "policy",
+        "reading": "පොලිසි",
+        "meaning": "ප්‍රතිපත්තිය",
+        "example": "ක්ලයිමට් චේන්ජ් රික්වයර්ස් ලෝන්ග් ටර්ම් ඇන්ඩ් ෂෙයර්ඩ් සලූෂන්ස්.",
+        "exampleReading": "Future forms and expressions of necessity and consequence.",
+        "translation": "Climate change requires long-term and shared solutions."
+      },
+      {
+        "word": "drought",
+        "reading": "ඩ්‍රවුට්",
+        "meaning": "නියඟය",
+        "example": "ක්ලයිමට් චේන්ජ් රික්වයර්ස් ලෝන්ග් ටර්ම් ඇන්ඩ් ෂෙයර්ඩ් සලූෂන්ස්.",
+        "exampleReading": "Future forms and expressions of necessity and consequence.",
+        "translation": "Climate change requires long-term and shared solutions."
+      },
+      {
+        "word": "flood",
+        "reading": "ෆ්ලඩ්",
+        "meaning": "ගංවතුර",
+        "example": "ක්ලයිමට් චේන්ජ් රික්වයර්ස් ලෝන්ග් ටර්ම් ඇන්ඩ් ෂෙයර්ඩ් සලූෂන්ස්.",
+        "exampleReading": "Future forms and expressions of necessity and consequence.",
+        "translation": "Climate change requires long-term and shared solutions."
+      },
+      {
+        "word": "conservation",
+        "reading": "කන්සර්වේෂන්",
+        "meaning": "සංරක්ෂණය",
+        "example": "ක්ලයිමට් චේන්ජ් රික්වයර්ස් ලෝන්ග් ටර්ම් ඇන්ඩ් ෂෙයර්ඩ් සලූෂන්ස්.",
+        "exampleReading": "Future forms and expressions of necessity and consequence.",
+        "translation": "Climate change requires long-term and shared solutions."
+      },
+      {
+        "word": "impact",
+        "reading": "ඉම්පැක්ට්",
+        "meaning": "බලපෑම",
+        "example": "ක්ලයිමට් චේන්ජ් රික්වයර්ස් ලෝන්ග් ටර්ම් ඇන්ඩ් ෂෙයර්ඩ් සලූෂන්ස්.",
+        "exampleReading": "Future forms and expressions of necessity and consequence.",
+        "translation": "Climate change requires long-term and shared solutions."
+      }
+    ],
+    "grammarTitle": "Grammar",
+    "grammar": "Future forms and expressions of necessity and consequence.",
+    "grammarTerms": [
+      {
+        "text": "ක්ලයිමට් චේන්ජ් රික්වයර්ස් ලෝන්ග් ටර්ම් ඇන්ඩ් ෂෙයර්ඩ් සලූෂන්ස්.",
+        "reading": "Future forms and expressions of necessity and consequence.",
+        "meaning": "Climate change requires long-term and shared solutions."
+      }
+    ],
+    "examples": [
+      {
+        "text": "ක්ලයිමට් චේන්ජ් රික්වයර්ස් ලෝන්ග් ටර්ම් ඇන්ඩ් ෂෙයර්ඩ් සලූෂන්ස්.",
+        "reading": "Future forms and expressions of necessity and consequence.",
+        "meaning": "Climate change requires long-term and shared solutions."
+      },
+      {
+        "text": "It is important to consider all available options carefully.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
+        "meaning": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "Based on the available information, we can make a better decision.",
+        "reading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
+        "meaning": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      },
+      {
+        "text": "This approach has advantages, but possible risks should also be considered.",
+        "reading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
+        "meaning": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "A: ක්ලයිමට් චේන්ජ් රික්වයර්ස් ලෝන්ග් ටර්ම් ඇන්ඩ් ෂෙයර්ඩ් සලූෂන්ස්.",
+        "reading": "A: Future forms and expressions of necessity and consequence.",
+        "meaning": "Climate change requires long-term and shared solutions."
+      },
+      {
+        "text": "B: Could you give an example?",
+        "reading": "B: කුඩ් යූ ගිව් ඇන් ඉග්සැම්පල්?",
+        "meaning": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+      },
+      {
+        "text": "A: It is important to consider every option.",
+        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
+        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "B: I agree. That will help us make a better decision.",
+        "reading": "B: අයි අග්‍රී. දැට් විල් හෙල්ප් අස් මේක් අ බෙටර් ඩිසිෂන්.",
+        "meaning": "එකඟයි. එය වඩා හොඳ තීරණයක් ගැනීමට උදව් වේවි."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the meaning: ක්ලයිමට් චේන්ජ් රික්වයර්ස් ලෝන්ග් ටර්ම් ඇන්ඩ් ෂෙයර්ඩ් සලූෂන්ස්.",
+      "audio": "ක්ලයිමට් චේන්ජ් රික්වයර්ස් ලෝන්ග් ටර්ම් ඇන්ඩ් ෂෙයර්ඩ් සලූෂන්ස්.",
+      "reading": "Future forms and expressions of necessity and consequence.",
+      "options": [
+        "Climate change requires long-term and shared solutions.",
+        "A different idea",
+        "A question"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "What does “climate” mean?",
+        "options": [
+          "දේශගුණය",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් අර්ථයක්"
+        ],
+        "answer": 0,
+        "explanation": "climate = දේශගුණය"
+      },
+      {
+        "prompt": "Choose the correct sentence.",
+        "options": [
+          "Yesterday I will goes.",
+          "ක්ලයිමට් චේන්ජ් රික්වයර්ස් ලෝන්ග් ටර්ම් ඇන්ඩ් ෂෙයර්ඩ් සලූෂන්ස්.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "Climate change requires long-term and shared solutions."
+      },
+      {
+        "prompt": "What does “emission” mean?",
+        "options": [
+          "විමෝචනය",
+          "අදාළ නැති වචනය",
+          "විරුද්ධ අර්ථය"
+        ],
+        "answer": 0,
+        "explanation": "emission = විමෝචනය"
+      },
+      {
+        "prompt": "What does speaker B ask for?",
+        "options": [
+          "An example",
+          "A price",
+          "An address"
+        ],
+        "answer": 0,
+        "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "en-b1-l38",
+    "unit": "Independent use",
+    "title": "B1 · Lesson 38 · Food culture and eating habits",
+    "objective": "Discuss food culture and eating habits and support ideas with reasons and examples.",
+    "vocabulary": [
+      {
+        "word": "nutrition",
+        "reading": "න්‍යූට්‍රිෂන්",
+        "meaning": "පෝෂණය",
+        "example": "ඊටින් හැබිට්ස් ඔෆන් රිෆ්ලෙක්ට් අ ෆැමිලිස් කල්චර් ඇන්ඩ් ට්‍රඩිෂන්.",
+        "exampleReading": "Frequency adverbs and relative clauses.",
+        "translation": "Eating habits often reflect a family's culture and tradition."
+      },
+      {
+        "word": "ingredient",
+        "reading": "ඉන්ග්‍රීඩියන්ට්",
+        "meaning": "අමුද්‍රව්‍යය",
+        "example": "ඊටින් හැබිට්ස් ඔෆන් රිෆ්ලෙක්ට් අ ෆැමිලිස් කල්චර් ඇන්ඩ් ට්‍රඩිෂන්.",
+        "exampleReading": "Frequency adverbs and relative clauses.",
+        "translation": "Eating habits often reflect a family's culture and tradition."
+      },
+      {
+        "word": "recipe",
+        "reading": "රෙසිපි",
+        "meaning": "වට්ටෝරුව",
+        "example": "ඊටින් හැබිට්ස් ඔෆන් රිෆ්ලෙක්ට් අ ෆැමිලිස් කල්චර් ඇන්ඩ් ට්‍රඩිෂන්.",
+        "exampleReading": "Frequency adverbs and relative clauses.",
+        "translation": "Eating habits often reflect a family's culture and tradition."
+      },
+      {
+        "word": "portion",
+        "reading": "පෝෂන්",
+        "meaning": "ආහාර ප්‍රමාණය",
+        "example": "ඊටින් හැබිට්ස් ඔෆන් රිෆ්ලෙක්ට් අ ෆැමිලිස් කල්චර් ඇන්ඩ් ට්‍රඩිෂන්.",
+        "exampleReading": "Frequency adverbs and relative clauses.",
+        "translation": "Eating habits often reflect a family's culture and tradition."
+      },
+      {
+        "word": "diet",
+        "reading": "ඩයට්",
+        "meaning": "ආහාර රටාව",
+        "example": "ඊටින් හැබිට්ස් ඔෆන් රිෆ්ලෙක්ට් අ ෆැමිලිස් කල්චර් ඇන්ඩ් ට්‍රඩිෂන්.",
+        "exampleReading": "Frequency adverbs and relative clauses.",
+        "translation": "Eating habits often reflect a family's culture and tradition."
+      },
+      {
+        "word": "flavour",
+        "reading": "ෆ්ලේවර්",
+        "meaning": "රසය",
+        "example": "ඊටින් හැබිට්ස් ඔෆන් රිෆ්ලෙක්ට් අ ෆැමිලිස් කල්චර් ඇන්ඩ් ට්‍රඩිෂන්.",
+        "exampleReading": "Frequency adverbs and relative clauses.",
+        "translation": "Eating habits often reflect a family's culture and tradition."
+      },
+      {
+        "word": "traditional",
+        "reading": "ට්‍රඩිෂනල්",
+        "meaning": "සාම්ප්‍රදායික",
+        "example": "ඊටින් හැබිට්ස් ඔෆන් රිෆ්ලෙක්ට් අ ෆැමිලිස් කල්චර් ඇන්ඩ් ට්‍රඩිෂන්.",
+        "exampleReading": "Frequency adverbs and relative clauses.",
+        "translation": "Eating habits often reflect a family's culture and tradition."
+      },
+      {
+        "word": "ingredient list",
+        "reading": "ඉන්ග්‍රීඩියන්ට් ලිස්ට්",
+        "meaning": "අමුද්‍රව්‍ය ලැයිස්තුව",
+        "example": "ඊටින් හැබිට්ස් ඔෆන් රිෆ්ලෙක්ට් අ ෆැමිලිස් කල්චර් ඇන්ඩ් ට්‍රඩිෂන්.",
+        "exampleReading": "Frequency adverbs and relative clauses.",
+        "translation": "Eating habits often reflect a family's culture and tradition."
+      }
+    ],
+    "grammarTitle": "Grammar",
+    "grammar": "Frequency adverbs and relative clauses.",
+    "grammarTerms": [
+      {
+        "text": "ඊටින් හැබිට්ස් ඔෆන් රිෆ්ලෙක්ට් අ ෆැමිලිස් කල්චර් ඇන්ඩ් ට්‍රඩිෂන්.",
+        "reading": "Frequency adverbs and relative clauses.",
+        "meaning": "Eating habits often reflect a family's culture and tradition."
+      }
+    ],
+    "examples": [
+      {
+        "text": "ඊටින් හැබිට්ස් ඔෆන් රිෆ්ලෙක්ට් අ ෆැමිලිස් කල්චර් ඇන්ඩ් ට්‍රඩිෂන්.",
+        "reading": "Frequency adverbs and relative clauses.",
+        "meaning": "Eating habits often reflect a family's culture and tradition."
+      },
+      {
+        "text": "It is important to consider all available options carefully.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
+        "meaning": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "Based on the available information, we can make a better decision.",
+        "reading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
+        "meaning": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      },
+      {
+        "text": "This approach has advantages, but possible risks should also be considered.",
+        "reading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
+        "meaning": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "A: ඊටින් හැබිට්ස් ඔෆන් රිෆ්ලෙක්ට් අ ෆැමිලිස් කල්චර් ඇන්ඩ් ට්‍රඩිෂන්.",
+        "reading": "A: Frequency adverbs and relative clauses.",
+        "meaning": "Eating habits often reflect a family's culture and tradition."
+      },
+      {
+        "text": "B: Could you give an example?",
+        "reading": "B: කුඩ් යූ ගිව් ඇන් ඉග්සැම්පල්?",
+        "meaning": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+      },
+      {
+        "text": "A: It is important to consider every option.",
+        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
+        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "B: I agree. That will help us make a better decision.",
+        "reading": "B: අයි අග්‍රී. දැට් විල් හෙල්ප් අස් මේක් අ බෙටර් ඩිසිෂන්.",
+        "meaning": "එකඟයි. එය වඩා හොඳ තීරණයක් ගැනීමට උදව් වේවි."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the meaning: ඊටින් හැබිට්ස් ඔෆන් රිෆ්ලෙක්ට් අ ෆැමිලිස් කල්චර් ඇන්ඩ් ට්‍රඩිෂන්.",
+      "audio": "ඊටින් හැබිට්ස් ඔෆන් රිෆ්ලෙක්ට් අ ෆැමිලිස් කල්චර් ඇන්ඩ් ට්‍රඩිෂන්.",
+      "reading": "Frequency adverbs and relative clauses.",
+      "options": [
+        "Eating habits often reflect a family's culture and tradition.",
+        "A different idea",
+        "A question"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "What does “nutrition” mean?",
+        "options": [
+          "පෝෂණය",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් අර්ථයක්"
+        ],
+        "answer": 0,
+        "explanation": "nutrition = පෝෂණය"
+      },
+      {
+        "prompt": "Choose the correct sentence.",
+        "options": [
+          "Yesterday I will goes.",
+          "ඊටින් හැබිට්ස් ඔෆන් රිෆ්ලෙක්ට් අ ෆැමිලිස් කල්චර් ඇන්ඩ් ට්‍රඩිෂන්.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "Eating habits often reflect a family's culture and tradition."
+      },
+      {
+        "prompt": "What does “ingredient” mean?",
+        "options": [
+          "අමුද්‍රව්‍යය",
+          "අදාළ නැති වචනය",
+          "විරුද්ධ අර්ථය"
+        ],
+        "answer": 0,
+        "explanation": "ingredient = අමුද්‍රව්‍යය"
+      },
+      {
+        "prompt": "What does speaker B ask for?",
+        "options": [
+          "An example",
+          "A price",
+          "An address"
+        ],
+        "answer": 0,
+        "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "en-b1-l39",
+    "unit": "Independent use",
+    "title": "B1 · Lesson 39 · Goals in education and work",
+    "objective": "Discuss goals in education and work and support ideas with reasons and examples.",
+    "vocabulary": [
+      {
+        "word": "goal",
+        "reading": "ගෝල්",
+        "meaning": "ඉලක්කය",
+        "example": "සෙටින් ක්ලියර් ගෝල්ස් හෙල්ප්ස් අස් ට්‍රැක් අවර් ප්‍රොග්‍රෙස්.",
+        "exampleReading": "Infinitives and future perfect for targets and deadlines.",
+        "translation": "Setting clear goals helps us track our progress."
+      },
+      {
+        "word": "milestone",
+        "reading": "මයිල්ස්ටෝන්",
+        "meaning": "වැදගත් අදියර",
+        "example": "සෙටින් ක්ලියර් ගෝල්ස් හෙල්ප්ස් අස් ට්‍රැක් අවර් ප්‍රොග්‍රෙස්.",
+        "exampleReading": "Infinitives and future perfect for targets and deadlines.",
+        "translation": "Setting clear goals helps us track our progress."
+      },
+      {
+        "word": "target",
+        "reading": "ටාගට්",
+        "meaning": "ඉලක්කය",
+        "example": "සෙටින් ක්ලියර් ගෝල්ස් හෙල්ප්ස් අස් ට්‍රැක් අවර් ප්‍රොග්‍රෙස්.",
+        "exampleReading": "Infinitives and future perfect for targets and deadlines.",
+        "translation": "Setting clear goals helps us track our progress."
+      },
+      {
+        "word": "progress",
+        "reading": "ප්‍රොග්‍රෙස්",
+        "meaning": "ප්‍රගතිය",
+        "example": "සෙටින් ක්ලියර් ගෝල්ස් හෙල්ප්ස් අස් ට්‍රැක් අවර් ප්‍රොග්‍රෙස්.",
+        "exampleReading": "Infinitives and future perfect for targets and deadlines.",
+        "translation": "Setting clear goals helps us track our progress."
+      },
+      {
+        "word": "achieve",
+        "reading": "අචීව්",
+        "meaning": "ළඟා වෙනවා",
+        "example": "සෙටින් ක්ලියර් ගෝල්ස් හෙල්ප්ස් අස් ට්‍රැක් අවර් ප්‍රොග්‍රෙස්.",
+        "exampleReading": "Infinitives and future perfect for targets and deadlines.",
+        "translation": "Setting clear goals helps us track our progress."
+      },
+      {
+        "word": "deadline",
+        "reading": "ඩෙඩ්ලයින්",
+        "meaning": "අවසන් දිනය",
+        "example": "සෙටින් ක්ලියර් ගෝල්ස් හෙල්ප්ස් අස් ට්‍රැක් අවර් ප්‍රොග්‍රෙස්.",
+        "exampleReading": "Infinitives and future perfect for targets and deadlines.",
+        "translation": "Setting clear goals helps us track our progress."
+      },
+      {
+        "word": "plan",
+        "reading": "ප්ලෑන්",
+        "meaning": "සැලැස්ම",
+        "example": "සෙටින් ක්ලියර් ගෝල්ස් හෙල්ප්ස් අස් ට්‍රැක් අවර් ප්‍රොග්‍රෙස්.",
+        "exampleReading": "Infinitives and future perfect for targets and deadlines.",
+        "translation": "Setting clear goals helps us track our progress."
+      },
+      {
+        "word": "motivation",
+        "reading": "මෝටිවේෂන්",
+        "meaning": "අභිප්‍රේරණය",
+        "example": "සෙටින් ක්ලියර් ගෝල්ස් හෙල්ප්ස් අස් ට්‍රැක් අවර් ප්‍රොග්‍රෙස්.",
+        "exampleReading": "Infinitives and future perfect for targets and deadlines.",
+        "translation": "Setting clear goals helps us track our progress."
+      }
+    ],
+    "grammarTitle": "Grammar",
+    "grammar": "Infinitives and future perfect for targets and deadlines.",
+    "grammarTerms": [
+      {
+        "text": "සෙටින් ක්ලියර් ගෝල්ස් හෙල්ප්ස් අස් ට්‍රැක් අවර් ප්‍රොග්‍රෙස්.",
+        "reading": "Infinitives and future perfect for targets and deadlines.",
+        "meaning": "Setting clear goals helps us track our progress."
+      }
+    ],
+    "examples": [
+      {
+        "text": "සෙටින් ක්ලියර් ගෝල්ස් හෙල්ප්ස් අස් ට්‍රැක් අවර් ප්‍රොග්‍රෙස්.",
+        "reading": "Infinitives and future perfect for targets and deadlines.",
+        "meaning": "Setting clear goals helps us track our progress."
+      },
+      {
+        "text": "It is important to consider all available options carefully.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
+        "meaning": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "Based on the available information, we can make a better decision.",
+        "reading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
+        "meaning": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      },
+      {
+        "text": "This approach has advantages, but possible risks should also be considered.",
+        "reading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
+        "meaning": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "A: සෙටින් ක්ලියර් ගෝල්ස් හෙල්ප්ස් අස් ට්‍රැක් අවර් ප්‍රොග්‍රෙස්.",
+        "reading": "A: Infinitives and future perfect for targets and deadlines.",
+        "meaning": "Setting clear goals helps us track our progress."
+      },
+      {
+        "text": "B: Could you give an example?",
+        "reading": "B: කුඩ් යූ ගිව් ඇන් ඉග්සැම්පල්?",
+        "meaning": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+      },
+      {
+        "text": "A: It is important to consider every option.",
+        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
+        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "B: I agree. That will help us make a better decision.",
+        "reading": "B: අයි අග්‍රී. දැට් විල් හෙල්ප් අස් මේක් අ බෙටර් ඩිසිෂන්.",
+        "meaning": "එකඟයි. එය වඩා හොඳ තීරණයක් ගැනීමට උදව් වේවි."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the meaning: සෙටින් ක්ලියර් ගෝල්ස් හෙල්ප්ස් අස් ට්‍රැක් අවර් ප්‍රොග්‍රෙස්.",
+      "audio": "සෙටින් ක්ලියර් ගෝල්ස් හෙල්ප්ස් අස් ට්‍රැක් අවර් ප්‍රොග්‍රෙස්.",
+      "reading": "Infinitives and future perfect for targets and deadlines.",
+      "options": [
+        "Setting clear goals helps us track our progress.",
+        "A different idea",
+        "A question"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "What does “goal” mean?",
+        "options": [
+          "ඉලක්කය",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් අර්ථයක්"
+        ],
+        "answer": 0,
+        "explanation": "goal = ඉලක්කය"
+      },
+      {
+        "prompt": "Choose the correct sentence.",
+        "options": [
+          "Yesterday I will goes.",
+          "සෙටින් ක්ලියර් ගෝල්ස් හෙල්ප්ස් අස් ට්‍රැක් අවර් ප්‍රොග්‍රෙස්.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "Setting clear goals helps us track our progress."
+      },
+      {
+        "prompt": "What does “milestone” mean?",
+        "options": [
+          "වැදගත් අදියර",
+          "අදාළ නැති වචනය",
+          "විරුද්ධ අර්ථය"
+        ],
+        "answer": 0,
+        "explanation": "milestone = වැදගත් අදියර"
+      },
+      {
+        "prompt": "What does speaker B ask for?",
+        "options": [
+          "An example",
+          "A price",
+          "An address"
+        ],
+        "answer": 0,
+        "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "en-b1-l40",
+    "unit": "Independent use",
+    "title": "B1 · Lesson 40 · Travel services and complaints",
+    "objective": "Discuss travel services and complaints and support ideas with reasons and examples.",
+    "vocabulary": [
+      {
+        "word": "booking",
+        "reading": "බුකින්",
+        "meaning": "වෙන්කිරීම",
+        "example": "ඉෆ් දි සර්විස් ඩස් නොට් මැච් දි බුකින් වී කෑන් රික්වෙස්ට් අ සලූෂන්.",
+        "exampleReading": "Conditionals and polite indirect requests.",
+        "translation": "If the service does not match the booking, we can request a solution."
+      },
+      {
+        "word": "complaint",
+        "reading": "කම්ප්ලේන්ට්",
+        "meaning": "පැමිණිල්ල",
+        "example": "ඉෆ් දි සර්විස් ඩස් නොට් මැච් දි බුකින් වී කෑන් රික්වෙස්ට් අ සලූෂන්.",
+        "exampleReading": "Conditionals and polite indirect requests.",
+        "translation": "If the service does not match the booking, we can request a solution."
+      },
+      {
+        "word": "service",
+        "reading": "සර්විස්",
+        "meaning": "සේවාව",
+        "example": "ඉෆ් දි සර්විස් ඩස් නොට් මැච් දි බුකින් වී කෑන් රික්වෙස්ට් අ සලූෂන්.",
+        "exampleReading": "Conditionals and polite indirect requests.",
+        "translation": "If the service does not match the booking, we can request a solution."
+      },
+      {
+        "word": "compensation",
+        "reading": "කම්පෙන්සේෂන්",
+        "meaning": "වන්දි",
+        "example": "ඉෆ් දි සර්විස් ඩස් නොට් මැච් දි බුකින් වී කෑන් රික්වෙස්ට් අ සලූෂන්.",
+        "exampleReading": "Conditionals and polite indirect requests.",
+        "translation": "If the service does not match the booking, we can request a solution."
+      },
+      {
+        "word": "confirmation",
+        "reading": "කන්ෆර්මේෂන්",
+        "meaning": "තහවුරු කිරීම",
+        "example": "ඉෆ් දි සර්විස් ඩස් නොට් මැච් දි බුකින් වී කෑන් රික්වෙස්ට් අ සලූෂන්.",
+        "exampleReading": "Conditionals and polite indirect requests.",
+        "translation": "If the service does not match the booking, we can request a solution."
+      },
+      {
+        "word": "cancellation",
+        "reading": "කැන්සලේෂන්",
+        "meaning": "අවලංගු කිරීම",
+        "example": "ඉෆ් දි සර්විස් ඩස් නොට් මැච් දි බුකින් වී කෑන් රික්වෙස්ට් අ සලූෂන්.",
+        "exampleReading": "Conditionals and polite indirect requests.",
+        "translation": "If the service does not match the booking, we can request a solution."
+      },
+      {
+        "word": "alternative",
+        "reading": "අල්ටර්නටිව්",
+        "meaning": "විකල්පය",
+        "example": "ඉෆ් දි සර්විස් ඩස් නොට් මැච් දි බුකින් වී කෑන් රික්වෙස්ට් අ සලූෂන්.",
+        "exampleReading": "Conditionals and polite indirect requests.",
+        "translation": "If the service does not match the booking, we can request a solution."
+      },
+      {
+        "word": "customer service",
+        "reading": "කස්ටමර් සර්විස්",
+        "meaning": "පාරිභෝගික සේවාව",
+        "example": "ඉෆ් දි සර්විස් ඩස් නොට් මැච් දි බුකින් වී කෑන් රික්වෙස්ට් අ සලූෂන්.",
+        "exampleReading": "Conditionals and polite indirect requests.",
+        "translation": "If the service does not match the booking, we can request a solution."
+      }
+    ],
+    "grammarTitle": "Grammar",
+    "grammar": "Conditionals and polite indirect requests.",
+    "grammarTerms": [
+      {
+        "text": "ඉෆ් දි සර්විස් ඩස් නොට් මැච් දි බුකින් වී කෑන් රික්වෙස්ට් අ සලූෂන්.",
+        "reading": "Conditionals and polite indirect requests.",
+        "meaning": "If the service does not match the booking, we can request a solution."
+      }
+    ],
+    "examples": [
+      {
+        "text": "ඉෆ් දි සර්විස් ඩස් නොට් මැච් දි බුකින් වී කෑන් රික්වෙස්ට් අ සලූෂන්.",
+        "reading": "Conditionals and polite indirect requests.",
+        "meaning": "If the service does not match the booking, we can request a solution."
+      },
+      {
+        "text": "It is important to consider all available options carefully.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
+        "meaning": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "Based on the available information, we can make a better decision.",
+        "reading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
+        "meaning": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      },
+      {
+        "text": "This approach has advantages, but possible risks should also be considered.",
+        "reading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
+        "meaning": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "A: ඉෆ් දි සර්විස් ඩස් නොට් මැච් දි බුකින් වී කෑන් රික්වෙස්ට් අ සලූෂන්.",
+        "reading": "A: Conditionals and polite indirect requests.",
+        "meaning": "If the service does not match the booking, we can request a solution."
+      },
+      {
+        "text": "B: Could you give an example?",
+        "reading": "B: කුඩ් යූ ගිව් ඇන් ඉග්සැම්පල්?",
+        "meaning": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+      },
+      {
+        "text": "A: It is important to consider every option.",
+        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
+        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "B: I agree. That will help us make a better decision.",
+        "reading": "B: අයි අග්‍රී. දැට් විල් හෙල්ප් අස් මේක් අ බෙටර් ඩිසිෂන්.",
+        "meaning": "එකඟයි. එය වඩා හොඳ තීරණයක් ගැනීමට උදව් වේවි."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the meaning: ඉෆ් දි සර්විස් ඩස් නොට් මැච් දි බුකින් වී කෑන් රික්වෙස්ට් අ සලූෂන්.",
+      "audio": "ඉෆ් දි සර්විස් ඩස් නොට් මැච් දි බුකින් වී කෑන් රික්වෙස්ට් අ සලූෂන්.",
+      "reading": "Conditionals and polite indirect requests.",
+      "options": [
+        "If the service does not match the booking, we can request a solution.",
+        "A different idea",
+        "A question"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "What does “booking” mean?",
+        "options": [
+          "වෙන්කිරීම",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් අර්ථයක්"
+        ],
+        "answer": 0,
+        "explanation": "booking = වෙන්කිරීම"
+      },
+      {
+        "prompt": "Choose the correct sentence.",
+        "options": [
+          "Yesterday I will goes.",
+          "ඉෆ් දි සර්විස් ඩස් නොට් මැච් දි බුකින් වී කෑන් රික්වෙස්ට් අ සලූෂන්.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "If the service does not match the booking, we can request a solution."
+      },
+      {
+        "prompt": "What does “complaint” mean?",
+        "options": [
+          "පැමිණිල්ල",
+          "අදාළ නැති වචනය",
+          "විරුද්ධ අර්ථය"
+        ],
+        "answer": 0,
+        "explanation": "complaint = පැමිණිල්ල"
+      },
+      {
+        "prompt": "What does speaker B ask for?",
+        "options": [
+          "An example",
+          "A price",
+          "An address"
+        ],
+        "answer": 0,
+        "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "en-b1-l41",
+    "unit": "Independent use",
+    "title": "B1 · Lesson 41 · Communication styles and body language",
+    "objective": "Discuss communication styles and body language and support ideas with reasons and examples.",
+    "vocabulary": [
+      {
+        "word": "body language",
+        "reading": "බොඩි ලැංග්විජ්",
+        "meaning": "ශරීර භාෂාව",
+        "example": "ක්ලියර් කමියුනිකේෂන් ඩිපෙන්ඩ්ස් ඔන් වර්ඩ්ස් ඇන්ඩ් දි වේ වී සේ දෙම්.",
+        "exampleReading": "Reported speech and adverbs describing communication.",
+        "translation": "Clear communication depends on words and the way we say them."
+      },
+      {
+        "word": "gesture",
+        "reading": "ජෙස්චර්",
+        "meaning": "අංග චලනය",
+        "example": "ක්ලියර් කමියුනිකේෂන් ඩිපෙන්ඩ්ස් ඔන් වර්ඩ්ස් ඇන්ඩ් දි වේ වී සේ දෙම්.",
+        "exampleReading": "Reported speech and adverbs describing communication.",
+        "translation": "Clear communication depends on words and the way we say them."
+      },
+      {
+        "word": "tone",
+        "reading": "ටෝන්",
+        "meaning": "හඬේ ස්වරය",
+        "example": "ක්ලියර් කමියුනිකේෂන් ඩිපෙන්ඩ්ස් ඔන් වර්ඩ්ස් ඇන්ඩ් දි වේ වී සේ දෙම්.",
+        "exampleReading": "Reported speech and adverbs describing communication.",
+        "translation": "Clear communication depends on words and the way we say them."
+      },
+      {
+        "word": "expression",
+        "reading": "එක්ස්ප්‍රෙෂන්",
+        "meaning": "ප්‍රකාශනය",
+        "example": "ක්ලියර් කමියුනිකේෂන් ඩිපෙන්ඩ්ස් ඔන් වර්ඩ්ස් ඇන්ඩ් දි වේ වී සේ දෙම්.",
+        "exampleReading": "Reported speech and adverbs describing communication.",
+        "translation": "Clear communication depends on words and the way we say them."
+      },
+      {
+        "word": "misunderstanding",
+        "reading": "මිස්අන්ඩර්ස්ටෑන්ඩින්",
+        "meaning": "වැරදි අවබෝධය",
+        "example": "ක්ලියර් කමියුනිකේෂන් ඩිපෙන්ඩ්ස් ඔන් වර්ඩ්ස් ඇන්ඩ් දි වේ වී සේ දෙම්.",
+        "exampleReading": "Reported speech and adverbs describing communication.",
+        "translation": "Clear communication depends on words and the way we say them."
+      },
+      {
+        "word": "feedback",
+        "reading": "ෆීඩ්බැක්",
+        "meaning": "ප්‍රතිචාරය",
+        "example": "ක්ලියර් කමියුනිකේෂන් ඩිපෙන්ඩ්ස් ඔන් වර්ඩ්ස් ඇන්ඩ් දි වේ වී සේ දෙම්.",
+        "exampleReading": "Reported speech and adverbs describing communication.",
+        "translation": "Clear communication depends on words and the way we say them."
+      },
+      {
+        "word": "polite",
+        "reading": "පොලයිට්",
+        "meaning": "ආචාරශීලී",
+        "example": "ක්ලියර් කමියුනිකේෂන් ඩිපෙන්ඩ්ස් ඔන් වර්ඩ්ස් ඇන්ඩ් දි වේ වී සේ දෙම්.",
+        "exampleReading": "Reported speech and adverbs describing communication.",
+        "translation": "Clear communication depends on words and the way we say them."
+      },
+      {
+        "word": "clarify",
+        "reading": "ක්ලැරිෆයි",
+        "meaning": "පැහැදිලි කරනවා",
+        "example": "ක්ලියර් කමියුනිකේෂන් ඩිපෙන්ඩ්ස් ඔන් වර්ඩ්ස් ඇන්ඩ් දි වේ වී සේ දෙම්.",
+        "exampleReading": "Reported speech and adverbs describing communication.",
+        "translation": "Clear communication depends on words and the way we say them."
+      }
+    ],
+    "grammarTitle": "Grammar",
+    "grammar": "Reported speech and adverbs describing communication.",
+    "grammarTerms": [
+      {
+        "text": "ක්ලියර් කමියුනිකේෂන් ඩිපෙන්ඩ්ස් ඔන් වර්ඩ්ස් ඇන්ඩ් දි වේ වී සේ දෙම්.",
+        "reading": "Reported speech and adverbs describing communication.",
+        "meaning": "Clear communication depends on words and the way we say them."
+      }
+    ],
+    "examples": [
+      {
+        "text": "ක්ලියර් කමියුනිකේෂන් ඩිපෙන්ඩ්ස් ඔන් වර්ඩ්ස් ඇන්ඩ් දි වේ වී සේ දෙම්.",
+        "reading": "Reported speech and adverbs describing communication.",
+        "meaning": "Clear communication depends on words and the way we say them."
+      },
+      {
+        "text": "It is important to consider all available options carefully.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
+        "meaning": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "Based on the available information, we can make a better decision.",
+        "reading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
+        "meaning": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      },
+      {
+        "text": "This approach has advantages, but possible risks should also be considered.",
+        "reading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
+        "meaning": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "A: ක්ලියර් කමියුනිකේෂන් ඩිපෙන්ඩ්ස් ඔන් වර්ඩ්ස් ඇන්ඩ් දි වේ වී සේ දෙම්.",
+        "reading": "A: Reported speech and adverbs describing communication.",
+        "meaning": "Clear communication depends on words and the way we say them."
+      },
+      {
+        "text": "B: Could you give an example?",
+        "reading": "B: කුඩ් යූ ගිව් ඇන් ඉග්සැම්පල්?",
+        "meaning": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+      },
+      {
+        "text": "A: It is important to consider every option.",
+        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
+        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "B: I agree. That will help us make a better decision.",
+        "reading": "B: අයි අග්‍රී. දැට් විල් හෙල්ප් අස් මේක් අ බෙටර් ඩිසිෂන්.",
+        "meaning": "එකඟයි. එය වඩා හොඳ තීරණයක් ගැනීමට උදව් වේවි."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the meaning: ක්ලියර් කමියුනිකේෂන් ඩිපෙන්ඩ්ස් ඔන් වර්ඩ්ස් ඇන්ඩ් දි වේ වී සේ දෙම්.",
+      "audio": "ක්ලියර් කමියුනිකේෂන් ඩිපෙන්ඩ්ස් ඔන් වර්ඩ්ස් ඇන්ඩ් දි වේ වී සේ දෙම්.",
+      "reading": "Reported speech and adverbs describing communication.",
+      "options": [
+        "Clear communication depends on words and the way we say them.",
+        "A different idea",
+        "A question"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "What does “body language” mean?",
+        "options": [
+          "ශරීර භාෂාව",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් අර්ථයක්"
+        ],
+        "answer": 0,
+        "explanation": "body language = ශරීර භාෂාව"
+      },
+      {
+        "prompt": "Choose the correct sentence.",
+        "options": [
+          "Yesterday I will goes.",
+          "ක්ලියර් කමියුනිකේෂන් ඩිපෙන්ඩ්ස් ඔන් වර්ඩ්ස් ඇන්ඩ් දි වේ වී සේ දෙම්.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "Clear communication depends on words and the way we say them."
+      },
+      {
+        "prompt": "What does “gesture” mean?",
+        "options": [
+          "අංග චලනය",
+          "අදාළ නැති වචනය",
+          "විරුද්ධ අර්ථය"
+        ],
+        "answer": 0,
+        "explanation": "gesture = අංග චලනය"
+      },
+      {
+        "prompt": "What does speaker B ask for?",
+        "options": [
+          "An example",
+          "A price",
+          "An address"
+        ],
+        "answer": 0,
+        "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "en-b1-l42",
+    "unit": "Independent use",
+    "title": "B1 · Lesson 42 · Social media and digital citizenship",
+    "objective": "Discuss social media and digital citizenship and support ideas with reasons and examples.",
+    "vocabulary": [
+      {
+        "word": "privacy",
+        "reading": "ප්‍රයිවසි",
+        "meaning": "පෞද්ගලිකත්වය",
+        "example": "බිෆෝර් පෝස්ටින් අ ෆෝටෝ වී ෂුඩ් රිස්පෙක්ට් අදර් පීපල්ස් ප්‍රයිවසි.",
+        "exampleReading": "Should, ought to and relative clauses for responsible online behaviour.",
+        "translation": "Before posting a photo, we should respect other people's privacy."
+      },
+      {
+        "word": "content",
+        "reading": "කන්ටෙන්ට්",
+        "meaning": "අන්තර්ගතය",
+        "example": "බිෆෝර් පෝස්ටින් අ ෆෝටෝ වී ෂුඩ් රිස්පෙක්ට් අදර් පීපල්ස් ප්‍රයිවසි.",
+        "exampleReading": "Should, ought to and relative clauses for responsible online behaviour.",
+        "translation": "Before posting a photo, we should respect other people's privacy."
+      },
+      {
+        "word": "comment",
+        "reading": "කමෙන්ට්",
+        "meaning": "අදහස",
+        "example": "බිෆෝර් පෝස්ටින් අ ෆෝටෝ වී ෂුඩ් රිස්පෙක්ට් අදර් පීපල්ස් ප්‍රයිවසි.",
+        "exampleReading": "Should, ought to and relative clauses for responsible online behaviour.",
+        "translation": "Before posting a photo, we should respect other people's privacy."
+      },
+      {
+        "word": "share",
+        "reading": "ෂෙයාර්",
+        "meaning": "බෙදාගන්නවා",
+        "example": "බිෆෝර් පෝස්ටින් අ ෆෝටෝ වී ෂුඩ් රිස්පෙක්ට් අදර් පීපල්ස් ප්‍රයිවසි.",
+        "exampleReading": "Should, ought to and relative clauses for responsible online behaviour.",
+        "translation": "Before posting a photo, we should respect other people's privacy."
+      },
+      {
+        "word": "misinformation",
+        "reading": "මිස්ඉන්ෆොර්මේෂන්",
+        "meaning": "වැරදි තොරතුරු",
+        "example": "බිෆෝර් පෝස්ටින් අ ෆෝටෝ වී ෂුඩ් රිස්පෙක්ට් අදර් පීපල්ස් ප්‍රයිවසි.",
+        "exampleReading": "Should, ought to and relative clauses for responsible online behaviour.",
+        "translation": "Before posting a photo, we should respect other people's privacy."
+      },
+      {
+        "word": "account",
+        "reading": "අකවුන්ට්",
+        "meaning": "ගිණුම",
+        "example": "බිෆෝර් පෝස්ටින් අ ෆෝටෝ වී ෂුඩ් රිස්පෙක්ට් අදර් පීපල්ස් ප්‍රයිවසි.",
+        "exampleReading": "Should, ought to and relative clauses for responsible online behaviour.",
+        "translation": "Before posting a photo, we should respect other people's privacy."
+      },
+      {
+        "word": "security",
+        "reading": "සික්‍යුරිටි",
+        "meaning": "ආරක්ෂාව",
+        "example": "බිෆෝර් පෝස්ටින් අ ෆෝටෝ වී ෂුඩ් රිස්පෙක්ට් අදර් පීපල්ස් ප්‍රයිවසි.",
+        "exampleReading": "Should, ought to and relative clauses for responsible online behaviour.",
+        "translation": "Before posting a photo, we should respect other people's privacy."
+      },
+      {
+        "word": "audience",
+        "reading": "ඕඩියන්ස්",
+        "meaning": "ප්‍රේක්ෂක පිරිස",
+        "example": "බිෆෝර් පෝස්ටින් අ ෆෝටෝ වී ෂුඩ් රිස්පෙක්ට් අදර් පීපල්ස් ප්‍රයිවසි.",
+        "exampleReading": "Should, ought to and relative clauses for responsible online behaviour.",
+        "translation": "Before posting a photo, we should respect other people's privacy."
+      }
+    ],
+    "grammarTitle": "Grammar",
+    "grammar": "Should, ought to and relative clauses for responsible online behaviour.",
+    "grammarTerms": [
+      {
+        "text": "බිෆෝර් පෝස්ටින් අ ෆෝටෝ වී ෂුඩ් රිස්පෙක්ට් අදර් පීපල්ස් ප්‍රයිවසි.",
+        "reading": "Should, ought to and relative clauses for responsible online behaviour.",
+        "meaning": "Before posting a photo, we should respect other people's privacy."
+      }
+    ],
+    "examples": [
+      {
+        "text": "බිෆෝර් පෝස්ටින් අ ෆෝටෝ වී ෂුඩ් රිස්පෙක්ට් අදර් පීපල්ස් ප්‍රයිවසි.",
+        "reading": "Should, ought to and relative clauses for responsible online behaviour.",
+        "meaning": "Before posting a photo, we should respect other people's privacy."
+      },
+      {
+        "text": "It is important to consider all available options carefully.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
+        "meaning": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "Based on the available information, we can make a better decision.",
+        "reading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
+        "meaning": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      },
+      {
+        "text": "This approach has advantages, but possible risks should also be considered.",
+        "reading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
+        "meaning": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "A: බිෆෝර් පෝස්ටින් අ ෆෝටෝ වී ෂුඩ් රිස්පෙක්ට් අදර් පීපල්ස් ප්‍රයිවසි.",
+        "reading": "A: Should, ought to and relative clauses for responsible online behaviour.",
+        "meaning": "Before posting a photo, we should respect other people's privacy."
+      },
+      {
+        "text": "B: Could you give an example?",
+        "reading": "B: කුඩ් යූ ගිව් ඇන් ඉග්සැම්පල්?",
+        "meaning": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+      },
+      {
+        "text": "A: It is important to consider every option.",
+        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
+        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "B: I agree. That will help us make a better decision.",
+        "reading": "B: අයි අග්‍රී. දැට් විල් හෙල්ප් අස් මේක් අ බෙටර් ඩිසිෂන්.",
+        "meaning": "එකඟයි. එය වඩා හොඳ තීරණයක් ගැනීමට උදව් වේවි."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the meaning: බිෆෝර් පෝස්ටින් අ ෆෝටෝ වී ෂුඩ් රිස්පෙක්ට් අදර් පීපල්ස් ප්‍රයිවසි.",
+      "audio": "බිෆෝර් පෝස්ටින් අ ෆෝටෝ වී ෂුඩ් රිස්පෙක්ට් අදර් පීපල්ස් ප්‍රයිවසි.",
+      "reading": "Should, ought to and relative clauses for responsible online behaviour.",
+      "options": [
+        "Before posting a photo, we should respect other people's privacy.",
+        "A different idea",
+        "A question"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "What does “privacy” mean?",
+        "options": [
+          "පෞද්ගලිකත්වය",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් අර්ථයක්"
+        ],
+        "answer": 0,
+        "explanation": "privacy = පෞද්ගලිකත්වය"
+      },
+      {
+        "prompt": "Choose the correct sentence.",
+        "options": [
+          "Yesterday I will goes.",
+          "බිෆෝර් පෝස්ටින් අ ෆෝටෝ වී ෂුඩ් රිස්පෙක්ට් අදර් පීපල්ස් ප්‍රයිවසි.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "Before posting a photo, we should respect other people's privacy."
+      },
+      {
+        "prompt": "What does “content” mean?",
+        "options": [
+          "අන්තර්ගතය",
+          "අදාළ නැති වචනය",
+          "විරුද්ධ අර්ථය"
+        ],
+        "answer": 0,
+        "explanation": "content = අන්තර්ගතය"
+      },
+      {
+        "prompt": "What does speaker B ask for?",
+        "options": [
+          "An example",
+          "A price",
+          "An address"
+        ],
+        "answer": 0,
+        "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "en-b1-l43",
+    "unit": "Independent use",
+    "title": "B1 · Lesson 43 · Time management and priorities",
+    "objective": "Discuss time management and priorities and support ideas with reasons and examples.",
+    "vocabulary": [
+      {
+        "word": "priority",
+        "reading": "ප්‍රයෝරිටි",
+        "meaning": "ප්‍රමුඛතාව",
+        "example": "වෙන් වී සෙට් ප්‍රයෝරිටීස් වී ෆිනිෂ් ඉම්පෝර්ටන්ට් ටාස්ක්ස් මෝර් ඊසිලි.",
+        "exampleReading": "Time clauses, adverbs and gerunds for routines.",
+        "translation": "When we set priorities, we finish important tasks more easily."
+      },
+      {
+        "word": "schedule",
+        "reading": "ෂෙඩ්‍යූල්",
+        "meaning": "කාලසටහන",
+        "example": "වෙන් වී සෙට් ප්‍රයෝරිටීස් වී ෆිනිෂ් ඉම්පෝර්ටන්ට් ටාස්ක්ස් මෝර් ඊසිලි.",
+        "exampleReading": "Time clauses, adverbs and gerunds for routines.",
+        "translation": "When we set priorities, we finish important tasks more easily."
+      },
+      {
+        "word": "deadline",
+        "reading": "ඩෙඩ්ලයින්",
+        "meaning": "අවසන් දිනය",
+        "example": "වෙන් වී සෙට් ප්‍රයෝරිටීස් වී ෆිනිෂ් ඉම්පෝර්ටන්ට් ටාස්ක්ස් මෝර් ඊසිලි.",
+        "exampleReading": "Time clauses, adverbs and gerunds for routines.",
+        "translation": "When we set priorities, we finish important tasks more easily."
+      },
+      {
+        "word": "distraction",
+        "reading": "ඩිස්ට්‍රැක්ෂන්",
+        "meaning": "අවධානය වෙනතකට යාම",
+        "example": "වෙන් වී සෙට් ප්‍රයෝරිටීස් වී ෆිනිෂ් ඉම්පෝර්ටන්ට් ටාස්ක්ස් මෝර් ඊසිලි.",
+        "exampleReading": "Time clauses, adverbs and gerunds for routines.",
+        "translation": "When we set priorities, we finish important tasks more easily."
+      },
+      {
+        "word": "focus",
+        "reading": "ෆෝකස්",
+        "meaning": "අවධානය",
+        "example": "වෙන් වී සෙට් ප්‍රයෝරිටීස් වී ෆිනිෂ් ඉම්පෝර්ටන්ට් ටාස්ක්ස් මෝර් ඊසිලි.",
+        "exampleReading": "Time clauses, adverbs and gerunds for routines.",
+        "translation": "When we set priorities, we finish important tasks more easily."
+      },
+      {
+        "word": "postpone",
+        "reading": "පෝස්ට්පෝන්",
+        "meaning": "කල් දමනවා",
+        "example": "වෙන් වී සෙට් ප්‍රයෝරිටීස් වී ෆිනිෂ් ඉම්පෝර්ටන්ට් ටාස්ක්ස් මෝර් ඊසිලි.",
+        "exampleReading": "Time clauses, adverbs and gerunds for routines.",
+        "translation": "When we set priorities, we finish important tasks more easily."
+      },
+      {
+        "word": "complete",
+        "reading": "කම්ප්ලීට්",
+        "meaning": "අවසන් කරනවා",
+        "example": "වෙන් වී සෙට් ප්‍රයෝරිටීස් වී ෆිනිෂ් ඉම්පෝර්ටන්ට් ටාස්ක්ස් මෝර් ඊසිලි.",
+        "exampleReading": "Time clauses, adverbs and gerunds for routines.",
+        "translation": "When we set priorities, we finish important tasks more easily."
+      },
+      {
+        "word": "efficient",
+        "reading": "එෆිෂන්ට්",
+        "meaning": "කාර්යක්ෂම",
+        "example": "වෙන් වී සෙට් ප්‍රයෝරිටීස් වී ෆිනිෂ් ඉම්පෝර්ටන්ට් ටාස්ක්ස් මෝර් ඊසිලි.",
+        "exampleReading": "Time clauses, adverbs and gerunds for routines.",
+        "translation": "When we set priorities, we finish important tasks more easily."
+      }
+    ],
+    "grammarTitle": "Grammar",
+    "grammar": "Time clauses, adverbs and gerunds for routines.",
+    "grammarTerms": [
+      {
+        "text": "වෙන් වී සෙට් ප්‍රයෝරිටීස් වී ෆිනිෂ් ඉම්පෝර්ටන්ට් ටාස්ක්ස් මෝර් ඊසිලි.",
+        "reading": "Time clauses, adverbs and gerunds for routines.",
+        "meaning": "When we set priorities, we finish important tasks more easily."
+      }
+    ],
+    "examples": [
+      {
+        "text": "වෙන් වී සෙට් ප්‍රයෝරිටීස් වී ෆිනිෂ් ඉම්පෝර්ටන්ට් ටාස්ක්ස් මෝර් ඊසිලි.",
+        "reading": "Time clauses, adverbs and gerunds for routines.",
+        "meaning": "When we set priorities, we finish important tasks more easily."
+      },
+      {
+        "text": "It is important to consider all available options carefully.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
+        "meaning": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "Based on the available information, we can make a better decision.",
+        "reading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
+        "meaning": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      },
+      {
+        "text": "This approach has advantages, but possible risks should also be considered.",
+        "reading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
+        "meaning": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "A: වෙන් වී සෙට් ප්‍රයෝරිටීස් වී ෆිනිෂ් ඉම්පෝර්ටන්ට් ටාස්ක්ස් මෝර් ඊසිලි.",
+        "reading": "A: Time clauses, adverbs and gerunds for routines.",
+        "meaning": "When we set priorities, we finish important tasks more easily."
+      },
+      {
+        "text": "B: Could you give an example?",
+        "reading": "B: කුඩ් යූ ගිව් ඇන් ඉග්සැම්පල්?",
+        "meaning": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+      },
+      {
+        "text": "A: It is important to consider every option.",
+        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
+        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "B: I agree. That will help us make a better decision.",
+        "reading": "B: අයි අග්‍රී. දැට් විල් හෙල්ප් අස් මේක් අ බෙටර් ඩිසිෂන්.",
+        "meaning": "එකඟයි. එය වඩා හොඳ තීරණයක් ගැනීමට උදව් වේවි."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the meaning: වෙන් වී සෙට් ප්‍රයෝරිටීස් වී ෆිනිෂ් ඉම්පෝර්ටන්ට් ටාස්ක්ස් මෝර් ඊසිලි.",
+      "audio": "වෙන් වී සෙට් ප්‍රයෝරිටීස් වී ෆිනිෂ් ඉම්පෝර්ටන්ට් ටාස්ක්ස් මෝර් ඊසිලි.",
+      "reading": "Time clauses, adverbs and gerunds for routines.",
+      "options": [
+        "When we set priorities, we finish important tasks more easily.",
+        "A different idea",
+        "A question"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "What does “priority” mean?",
+        "options": [
+          "ප්‍රමුඛතාව",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් අර්ථයක්"
+        ],
+        "answer": 0,
+        "explanation": "priority = ප්‍රමුඛතාව"
+      },
+      {
+        "prompt": "Choose the correct sentence.",
+        "options": [
+          "Yesterday I will goes.",
+          "වෙන් වී සෙට් ප්‍රයෝරිටීස් වී ෆිනිෂ් ඉම්පෝර්ටන්ට් ටාස්ක්ස් මෝර් ඊසිලි.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "When we set priorities, we finish important tasks more easily."
+      },
+      {
+        "prompt": "What does “schedule” mean?",
+        "options": [
+          "කාලසටහන",
+          "අදාළ නැති වචනය",
+          "විරුද්ධ අර්ථය"
+        ],
+        "answer": 0,
+        "explanation": "schedule = කාලසටහන"
+      },
+      {
+        "prompt": "What does speaker B ask for?",
+        "options": [
+          "An example",
+          "A price",
+          "An address"
+        ],
+        "answer": 0,
+        "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "en-b1-l44",
+    "unit": "Independent use",
+    "title": "B1 · Lesson 44 · Cultural differences and understanding",
+    "objective": "Discuss cultural differences and understanding and support ideas with reasons and examples.",
+    "vocabulary": [
+      {
+        "word": "culture",
+        "reading": "කල්චර්",
+        "meaning": "සංස්කෘතිය",
+        "example": "රිස්පෙක්ටින් ඩිෆරන්ට් කස්ටම්ස් හෙල්ප්ස් පීපල් වර්ක් ටුගෙදර්.",
+        "exampleReading": "Contrast clauses and expressions of perspective.",
+        "translation": "Respecting different customs helps people work together."
+      },
+      {
+        "word": "custom",
+        "reading": "කස්ටම්",
+        "meaning": "චාරිත්‍රය",
+        "example": "රිස්පෙක්ටින් ඩිෆරන්ට් කස්ටම්ස් හෙල්ප්ස් පීපල් වර්ක් ටුගෙදර්.",
+        "exampleReading": "Contrast clauses and expressions of perspective.",
+        "translation": "Respecting different customs helps people work together."
+      },
+      {
+        "word": "perspective",
+        "reading": "පර්ස්පෙක්ටිව්",
+        "meaning": "දෘෂ්ටිකෝණය",
+        "example": "රිස්පෙක්ටින් ඩිෆරන්ට් කස්ටම්ස් හෙල්ප්ස් පීපල් වර්ක් ටුගෙදර්.",
+        "exampleReading": "Contrast clauses and expressions of perspective.",
+        "translation": "Respecting different customs helps people work together."
+      },
+      {
+        "word": "diversity",
+        "reading": "ඩයිවර්සිටි",
+        "meaning": "විවිධත්වය",
+        "example": "රිස්පෙක්ටින් ඩිෆරන්ට් කස්ටම්ස් හෙල්ප්ස් පීපල් වර්ක් ටුගෙදර්.",
+        "exampleReading": "Contrast clauses and expressions of perspective.",
+        "translation": "Respecting different customs helps people work together."
+      },
+      {
+        "word": "respect",
+        "reading": "රිස්පෙක්ට්",
+        "meaning": "ගෞරවය",
+        "example": "රිස්පෙක්ටින් ඩිෆරන්ට් කස්ටම්ස් හෙල්ප්ස් පීපල් වර්ක් ටුගෙදර්.",
+        "exampleReading": "Contrast clauses and expressions of perspective.",
+        "translation": "Respecting different customs helps people work together."
+      },
+      {
+        "word": "adapt",
+        "reading": "අඩැප්ට්",
+        "meaning": "හැඩගැසෙනවා",
+        "example": "රිස්පෙක්ටින් ඩිෆරන්ට් කස්ටම්ස් හෙල්ප්ස් පීපල් වර්ක් ටුගෙදර්.",
+        "exampleReading": "Contrast clauses and expressions of perspective.",
+        "translation": "Respecting different customs helps people work together."
+      },
+      {
+        "word": "communication",
+        "reading": "කමියුනිකේෂන්",
+        "meaning": "සන්නිවේදනය",
+        "example": "රිස්පෙක්ටින් ඩිෆරන්ට් කස්ටම්ස් හෙල්ප්ස් පීපල් වර්ක් ටුගෙදර්.",
+        "exampleReading": "Contrast clauses and expressions of perspective.",
+        "translation": "Respecting different customs helps people work together."
+      },
+      {
+        "word": "stereotype",
+        "reading": "ස්ටීරියටයිප්",
+        "meaning": "ඒකාකෘතිය",
+        "example": "රිස්පෙක්ටින් ඩිෆරන්ට් කස්ටම්ස් හෙල්ප්ස් පීපල් වර්ක් ටුගෙදර්.",
+        "exampleReading": "Contrast clauses and expressions of perspective.",
+        "translation": "Respecting different customs helps people work together."
+      }
+    ],
+    "grammarTitle": "Grammar",
+    "grammar": "Contrast clauses and expressions of perspective.",
+    "grammarTerms": [
+      {
+        "text": "රිස්පෙක්ටින් ඩිෆරන්ට් කස්ටම්ස් හෙල්ප්ස් පීපල් වර්ක් ටුගෙදර්.",
+        "reading": "Contrast clauses and expressions of perspective.",
+        "meaning": "Respecting different customs helps people work together."
+      }
+    ],
+    "examples": [
+      {
+        "text": "රිස්පෙක්ටින් ඩිෆරන්ට් කස්ටම්ස් හෙල්ප්ස් පීපල් වර්ක් ටුගෙදර්.",
+        "reading": "Contrast clauses and expressions of perspective.",
+        "meaning": "Respecting different customs helps people work together."
+      },
+      {
+        "text": "It is important to consider all available options carefully.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
+        "meaning": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "Based on the available information, we can make a better decision.",
+        "reading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
+        "meaning": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      },
+      {
+        "text": "This approach has advantages, but possible risks should also be considered.",
+        "reading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
+        "meaning": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "A: රිස්පෙක්ටින් ඩිෆරන්ට් කස්ටම්ස් හෙල්ප්ස් පීපල් වර්ක් ටුගෙදර්.",
+        "reading": "A: Contrast clauses and expressions of perspective.",
+        "meaning": "Respecting different customs helps people work together."
+      },
+      {
+        "text": "B: Could you give an example?",
+        "reading": "B: කුඩ් යූ ගිව් ඇන් ඉග්සැම්පල්?",
+        "meaning": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+      },
+      {
+        "text": "A: It is important to consider every option.",
+        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
+        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "B: I agree. That will help us make a better decision.",
+        "reading": "B: අයි අග්‍රී. දැට් විල් හෙල්ප් අස් මේක් අ බෙටර් ඩිසිෂන්.",
+        "meaning": "එකඟයි. එය වඩා හොඳ තීරණයක් ගැනීමට උදව් වේවි."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the meaning: රිස්පෙක්ටින් ඩිෆරන්ට් කස්ටම්ස් හෙල්ප්ස් පීපල් වර්ක් ටුගෙදර්.",
+      "audio": "රිස්පෙක්ටින් ඩිෆරන්ට් කස්ටම්ස් හෙල්ප්ස් පීපල් වර්ක් ටුගෙදර්.",
+      "reading": "Contrast clauses and expressions of perspective.",
+      "options": [
+        "Respecting different customs helps people work together.",
+        "A different idea",
+        "A question"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "What does “culture” mean?",
+        "options": [
+          "සංස්කෘතිය",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් අර්ථයක්"
+        ],
+        "answer": 0,
+        "explanation": "culture = සංස්කෘතිය"
+      },
+      {
+        "prompt": "Choose the correct sentence.",
+        "options": [
+          "Yesterday I will goes.",
+          "රිස්පෙක්ටින් ඩිෆරන්ට් කස්ටම්ස් හෙල්ප්ස් පීපල් වර්ක් ටුගෙදර්.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "Respecting different customs helps people work together."
+      },
+      {
+        "prompt": "What does “custom” mean?",
+        "options": [
+          "චාරිත්‍රය",
+          "අදාළ නැති වචනය",
+          "විරුද්ධ අර්ථය"
+        ],
+        "answer": 0,
+        "explanation": "custom = චාරිත්‍රය"
+      },
+      {
+        "prompt": "What does speaker B ask for?",
+        "options": [
+          "An example",
+          "A price",
+          "An address"
+        ],
+        "answer": 0,
+        "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "en-b1-l45",
+    "unit": "Independent use",
+    "title": "B1 · Lesson 45 · Business and entrepreneurship",
+    "objective": "Discuss business and entrepreneurship and support ideas with reasons and examples.",
+    "vocabulary": [
+      {
+        "word": "entrepreneur",
+        "reading": "ඔන්ට්‍රප්‍රනර්",
+        "meaning": "ව්‍යවසායකයා",
+        "example": "අ ගුඩ් බිස්නස් ප්ලෑන් ටේක්ස් කස්ටමර්ස් නීඩ්ස් ඉන්ටු අකවුන්ට්.",
+        "exampleReading": "Purpose clauses and formal requests in business.",
+        "translation": "A good business plan takes customers' needs into account."
+      },
+      {
+        "word": "business plan",
+        "reading": "බිස්නස් ප්ලෑන්",
+        "meaning": "ව්‍යාපාර සැලැස්ම",
+        "example": "අ ගුඩ් බිස්නස් ප්ලෑන් ටේක්ස් කස්ටමර්ස් නීඩ්ස් ඉන්ටු අකවුන්ට්.",
+        "exampleReading": "Purpose clauses and formal requests in business.",
+        "translation": "A good business plan takes customers' needs into account."
+      },
+      {
+        "word": "customer",
+        "reading": "කස්ටමර්",
+        "meaning": "පාරිභෝගිකයා",
+        "example": "අ ගුඩ් බිස්නස් ප්ලෑන් ටේක්ස් කස්ටමර්ස් නීඩ්ස් ඉන්ටු අකවුන්ට්.",
+        "exampleReading": "Purpose clauses and formal requests in business.",
+        "translation": "A good business plan takes customers' needs into account."
+      },
+      {
+        "word": "demand",
+        "reading": "ඩිමාන්ඩ්",
+        "meaning": "ඉල්ලුම",
+        "example": "අ ගුඩ් බිස්නස් ප්ලෑන් ටේක්ස් කස්ටමර්ස් නීඩ්ස් ඉන්ටු අකවුන්ට්.",
+        "exampleReading": "Purpose clauses and formal requests in business.",
+        "translation": "A good business plan takes customers' needs into account."
+      },
+      {
+        "word": "profit",
+        "reading": "ප්‍රොෆිට්",
+        "meaning": "ලාභය",
+        "example": "අ ගුඩ් බිස්නස් ප්ලෑන් ටේක්ස් කස්ටමර්ස් නීඩ්ස් ඉන්ටු අකවුන්ට්.",
+        "exampleReading": "Purpose clauses and formal requests in business.",
+        "translation": "A good business plan takes customers' needs into account."
+      },
+      {
+        "word": "cost",
+        "reading": "කොස්ට්",
+        "meaning": "පිරිවැය",
+        "example": "අ ගුඩ් බිස්නස් ප්ලෑන් ටේක්ස් කස්ටමර්ස් නීඩ්ස් ඉන්ටු අකවුන්ට්.",
+        "exampleReading": "Purpose clauses and formal requests in business.",
+        "translation": "A good business plan takes customers' needs into account."
+      },
+      {
+        "word": "supplier",
+        "reading": "සප්ලයර්",
+        "meaning": "සැපයුම්කරු",
+        "example": "අ ගුඩ් බිස්නස් ප්ලෑන් ටේක්ස් කස්ටමර්ස් නීඩ්ස් ඉන්ටු අකවුන්ට්.",
+        "exampleReading": "Purpose clauses and formal requests in business.",
+        "translation": "A good business plan takes customers' needs into account."
+      },
+      {
+        "word": "feedback",
+        "reading": "ෆීඩ්බැක්",
+        "meaning": "ප්‍රතිචාරය",
+        "example": "අ ගුඩ් බිස්නස් ප්ලෑන් ටේක්ස් කස්ටමර්ස් නීඩ්ස් ඉන්ටු අකවුන්ට්.",
+        "exampleReading": "Purpose clauses and formal requests in business.",
+        "translation": "A good business plan takes customers' needs into account."
+      }
+    ],
+    "grammarTitle": "Grammar",
+    "grammar": "Purpose clauses and formal requests in business.",
+    "grammarTerms": [
+      {
+        "text": "අ ගුඩ් බිස්නස් ප්ලෑන් ටේක්ස් කස්ටමර්ස් නීඩ්ස් ඉන්ටු අකවුන්ට්.",
+        "reading": "Purpose clauses and formal requests in business.",
+        "meaning": "A good business plan takes customers' needs into account."
+      }
+    ],
+    "examples": [
+      {
+        "text": "අ ගුඩ් බිස්නස් ප්ලෑන් ටේක්ස් කස්ටමර්ස් නීඩ්ස් ඉන්ටු අකවුන්ට්.",
+        "reading": "Purpose clauses and formal requests in business.",
+        "meaning": "A good business plan takes customers' needs into account."
+      },
+      {
+        "text": "It is important to consider all available options carefully.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
+        "meaning": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "Based on the available information, we can make a better decision.",
+        "reading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
+        "meaning": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      },
+      {
+        "text": "This approach has advantages, but possible risks should also be considered.",
+        "reading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
+        "meaning": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "A: අ ගුඩ් බිස්නස් ප්ලෑන් ටේක්ස් කස්ටමර්ස් නීඩ්ස් ඉන්ටු අකවුන්ට්.",
+        "reading": "A: Purpose clauses and formal requests in business.",
+        "meaning": "A good business plan takes customers' needs into account."
+      },
+      {
+        "text": "B: Could you give an example?",
+        "reading": "B: කුඩ් යූ ගිව් ඇන් ඉග්සැම්පල්?",
+        "meaning": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+      },
+      {
+        "text": "A: It is important to consider every option.",
+        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
+        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "B: I agree. That will help us make a better decision.",
+        "reading": "B: අයි අග්‍රී. දැට් විල් හෙල්ප් අස් මේක් අ බෙටර් ඩිසිෂන්.",
+        "meaning": "එකඟයි. එය වඩා හොඳ තීරණයක් ගැනීමට උදව් වේවි."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the meaning: අ ගුඩ් බිස්නස් ප්ලෑන් ටේක්ස් කස්ටමර්ස් නීඩ්ස් ඉන්ටු අකවුන්ට්.",
+      "audio": "අ ගුඩ් බිස්නස් ප්ලෑන් ටේක්ස් කස්ටමර්ස් නීඩ්ස් ඉන්ටු අකවුන්ට්.",
+      "reading": "Purpose clauses and formal requests in business.",
+      "options": [
+        "A good business plan takes customers' needs into account.",
+        "A different idea",
+        "A question"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "What does “entrepreneur” mean?",
+        "options": [
+          "ව්‍යවසායකයා",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් අර්ථයක්"
+        ],
+        "answer": 0,
+        "explanation": "entrepreneur = ව්‍යවසායකයා"
+      },
+      {
+        "prompt": "Choose the correct sentence.",
+        "options": [
+          "Yesterday I will goes.",
+          "අ ගුඩ් බිස්නස් ප්ලෑන් ටේක්ස් කස්ටමර්ස් නීඩ්ස් ඉන්ටු අකවුන්ට්.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "A good business plan takes customers' needs into account."
+      },
+      {
+        "prompt": "What does “business plan” mean?",
+        "options": [
+          "ව්‍යාපාර සැලැස්ම",
+          "අදාළ නැති වචනය",
+          "විරුද්ධ අර්ථය"
+        ],
+        "answer": 0,
+        "explanation": "business plan = ව්‍යාපාර සැලැස්ම"
+      },
+      {
+        "prompt": "What does speaker B ask for?",
+        "options": [
+          "An example",
+          "A price",
+          "An address"
+        ],
+        "answer": 0,
+        "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "en-b1-l46",
+    "unit": "Independent use",
+    "title": "B1 · Lesson 46 · Report writing and presenting data",
+    "objective": "Discuss report writing and presenting data and support ideas with reasons and examples.",
+    "vocabulary": [
+      {
+        "word": "report",
+        "reading": "රිපෝර්ට්",
+        "meaning": "වාර්තාව",
+        "example": "අ රිපෝර්ට් ෂුඩ් ප්‍රෙසෙන්ට් දි ඩේටා ඇන්ඩ් කන්ක්ලූෂන්ස් ක්ලියර්ලි.",
+        "exampleReading": "Linking phrases, passive voice and cautious data interpretation.",
+        "translation": "A report should present the data and conclusions clearly."
+      },
+      {
+        "word": "data",
+        "reading": "ඩේටා",
+        "meaning": "දත්ත",
+        "example": "අ රිපෝර්ට් ෂුඩ් ප්‍රෙසෙන්ට් දි ඩේටා ඇන්ඩ් කන්ක්ලූෂන්ස් ක්ලියර්ලි.",
+        "exampleReading": "Linking phrases, passive voice and cautious data interpretation.",
+        "translation": "A report should present the data and conclusions clearly."
+      },
+      {
+        "word": "figure",
+        "reading": "ෆිගර්",
+        "meaning": "සංඛ්‍යාව",
+        "example": "අ රිපෝර්ට් ෂුඩ් ප්‍රෙසෙන්ට් දි ඩේටා ඇන්ඩ් කන්ක්ලූෂන්ස් ක්ලියර්ලි.",
+        "exampleReading": "Linking phrases, passive voice and cautious data interpretation.",
+        "translation": "A report should present the data and conclusions clearly."
+      },
+      {
+        "word": "trend",
+        "reading": "ට්‍රෙන්ඩ්",
+        "meaning": "ප්‍රවණතාව",
+        "example": "අ රිපෝර්ට් ෂුඩ් ප්‍රෙසෙන්ට් දි ඩේටා ඇන්ඩ් කන්ක්ලූෂන්ස් ක්ලියර්ලි.",
+        "exampleReading": "Linking phrases, passive voice and cautious data interpretation.",
+        "translation": "A report should present the data and conclusions clearly."
+      },
+      {
+        "word": "increase",
+        "reading": "ඉන්ක්‍රීස්",
+        "meaning": "වැඩිවීම",
+        "example": "අ රිපෝර්ට් ෂුඩ් ප්‍රෙසෙන්ට් දි ඩේටා ඇන්ඩ් කන්ක්ලූෂන්ස් ක්ලියර්ලි.",
+        "exampleReading": "Linking phrases, passive voice and cautious data interpretation.",
+        "translation": "A report should present the data and conclusions clearly."
+      },
+      {
+        "word": "decrease",
+        "reading": "ඩික්‍රීස්",
+        "meaning": "අඩුවීම",
+        "example": "අ රිපෝර්ට් ෂුඩ් ප්‍රෙසෙන්ට් දි ඩේටා ඇන්ඩ් කන්ක්ලූෂන්ස් ක්ලියර්ලි.",
+        "exampleReading": "Linking phrases, passive voice and cautious data interpretation.",
+        "translation": "A report should present the data and conclusions clearly."
+      },
+      {
+        "word": "conclusion",
+        "reading": "කන්ක්ලූෂන්",
+        "meaning": "නිගමනය",
+        "example": "අ රිපෝර්ට් ෂුඩ් ප්‍රෙසෙන්ට් දි ඩේටා ඇන්ඩ් කන්ක්ලූෂන්ස් ක්ලියර්ලි.",
+        "exampleReading": "Linking phrases, passive voice and cautious data interpretation.",
+        "translation": "A report should present the data and conclusions clearly."
+      },
+      {
+        "word": "appendix",
+        "reading": "අපෙන්ඩික්ස්",
+        "meaning": "ඇමුණුම",
+        "example": "අ රිපෝර්ට් ෂුඩ් ප්‍රෙසෙන්ට් දි ඩේටා ඇන්ඩ් කන්ක්ලූෂන්ස් ක්ලියර්ලි.",
+        "exampleReading": "Linking phrases, passive voice and cautious data interpretation.",
+        "translation": "A report should present the data and conclusions clearly."
+      }
+    ],
+    "grammarTitle": "Grammar",
+    "grammar": "Linking phrases, passive voice and cautious data interpretation.",
+    "grammarTerms": [
+      {
+        "text": "අ රිපෝර්ට් ෂුඩ් ප්‍රෙසෙන්ට් දි ඩේටා ඇන්ඩ් කන්ක්ලූෂන්ස් ක්ලියර්ලි.",
+        "reading": "Linking phrases, passive voice and cautious data interpretation.",
+        "meaning": "A report should present the data and conclusions clearly."
+      }
+    ],
+    "examples": [
+      {
+        "text": "අ රිපෝර්ට් ෂුඩ් ප්‍රෙසෙන්ට් දි ඩේටා ඇන්ඩ් කන්ක්ලූෂන්ස් ක්ලියර්ලි.",
+        "reading": "Linking phrases, passive voice and cautious data interpretation.",
+        "meaning": "A report should present the data and conclusions clearly."
+      },
+      {
+        "text": "It is important to consider all available options carefully.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
+        "meaning": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "Based on the available information, we can make a better decision.",
+        "reading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
+        "meaning": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      },
+      {
+        "text": "This approach has advantages, but possible risks should also be considered.",
+        "reading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
+        "meaning": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "A: අ රිපෝර්ට් ෂුඩ් ප්‍රෙසෙන්ට් දි ඩේටා ඇන්ඩ් කන්ක්ලූෂන්ස් ක්ලියර්ලි.",
+        "reading": "A: Linking phrases, passive voice and cautious data interpretation.",
+        "meaning": "A report should present the data and conclusions clearly."
+      },
+      {
+        "text": "B: Could you give an example?",
+        "reading": "B: කුඩ් යූ ගිව් ඇන් ඉග්සැම්පල්?",
+        "meaning": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+      },
+      {
+        "text": "A: It is important to consider every option.",
+        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
+        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "B: I agree. That will help us make a better decision.",
+        "reading": "B: අයි අග්‍රී. දැට් විල් හෙල්ප් අස් මේක් අ බෙටර් ඩිසිෂන්.",
+        "meaning": "එකඟයි. එය වඩා හොඳ තීරණයක් ගැනීමට උදව් වේවි."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the meaning: අ රිපෝර්ට් ෂුඩ් ප්‍රෙසෙන්ට් දි ඩේටා ඇන්ඩ් කන්ක්ලූෂන්ස් ක්ලියර්ලි.",
+      "audio": "අ රිපෝර්ට් ෂුඩ් ප්‍රෙසෙන්ට් දි ඩේටා ඇන්ඩ් කන්ක්ලූෂන්ස් ක්ලියර්ලි.",
+      "reading": "Linking phrases, passive voice and cautious data interpretation.",
+      "options": [
+        "A report should present the data and conclusions clearly.",
+        "A different idea",
+        "A question"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "What does “report” mean?",
+        "options": [
+          "වාර්තාව",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් අර්ථයක්"
+        ],
+        "answer": 0,
+        "explanation": "report = වාර්තාව"
+      },
+      {
+        "prompt": "Choose the correct sentence.",
+        "options": [
+          "Yesterday I will goes.",
+          "අ රිපෝර්ට් ෂුඩ් ප්‍රෙසෙන්ට් දි ඩේටා ඇන්ඩ් කන්ක්ලූෂන්ස් ක්ලියර්ලි.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "A report should present the data and conclusions clearly."
+      },
+      {
+        "prompt": "What does “data” mean?",
+        "options": [
+          "දත්ත",
+          "අදාළ නැති වචනය",
+          "විරුද්ධ අර්ථය"
+        ],
+        "answer": 0,
+        "explanation": "data = දත්ත"
+      },
+      {
+        "prompt": "What does speaker B ask for?",
+        "options": [
+          "An example",
+          "A price",
+          "An address"
+        ],
+        "answer": 0,
+        "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "en-b1-l47",
+    "unit": "Independent use",
+    "title": "B1 · Lesson 47 · Media debates and public opinion",
+    "objective": "Discuss media debates and public opinion and support ideas with reasons and examples.",
+    "vocabulary": [
+      {
+        "word": "debate",
+        "reading": "ඩිබේට්",
+        "meaning": "විවාදය",
+        "example": "පබ්ලික් ඩිබේට් හෙල්ප්ස් අස් අන්ඩර්ස්ටෑන්ඩ් ඩිෆරන්ට් ඔපීනියන්ස්.",
+        "exampleReading": "Reported speech, opinion phrases and concession clauses.",
+        "translation": "Public debate helps us understand different opinions."
+      },
+      {
+        "word": "public opinion",
+        "reading": "පබ්ලික් ඔපීනියන්",
+        "meaning": "මහජන මතය",
+        "example": "පබ්ලික් ඩිබේට් හෙල්ප්ස් අස් අන්ඩර්ස්ටෑන්ඩ් ඩිෆරන්ට් ඔපීනියන්ස්.",
+        "exampleReading": "Reported speech, opinion phrases and concession clauses.",
+        "translation": "Public debate helps us understand different opinions."
+      },
+      {
+        "word": "viewpoint",
+        "reading": "වීව්පොයින්ට්",
+        "meaning": "දෘෂ්ටිකෝණය",
+        "example": "පබ්ලික් ඩිබේට් හෙල්ප්ස් අස් අන්ඩර්ස්ටෑන්ඩ් ඩිෆරන්ට් ඔපීනියන්ස්.",
+        "exampleReading": "Reported speech, opinion phrases and concession clauses.",
+        "translation": "Public debate helps us understand different opinions."
+      },
+      {
+        "word": "argument",
+        "reading": "ආර්ග්‍යුමන්ට්",
+        "meaning": "තර්කය",
+        "example": "පබ්ලික් ඩිබේට් හෙල්ප්ස් අස් අන්ඩර්ස්ටෑන්ඩ් ඩිෆරන්ට් ඔපීනියන්ස්.",
+        "exampleReading": "Reported speech, opinion phrases and concession clauses.",
+        "translation": "Public debate helps us understand different opinions."
+      },
+      {
+        "word": "counterargument",
+        "reading": "කවුන්ටර් ආර්ග්‍යුමන්ට්",
+        "meaning": "ප්‍රතිතර්කය",
+        "example": "පබ්ලික් ඩිබේට් හෙල්ප්ස් අස් අන්ඩර්ස්ටෑන්ඩ් ඩිෆරන්ට් ඔපීනියන්ස්.",
+        "exampleReading": "Reported speech, opinion phrases and concession clauses.",
+        "translation": "Public debate helps us understand different opinions."
+      },
+      {
+        "word": "persuade",
+        "reading": "පර්ස්වේඩ්",
+        "meaning": "ඒත්තු ගන්වනවා",
+        "example": "පබ්ලික් ඩිබේට් හෙල්ප්ස් අස් අන්ඩර්ස්ටෑන්ඩ් ඩිෆරන්ට් ඔපීනියන්ස්.",
+        "exampleReading": "Reported speech, opinion phrases and concession clauses.",
+        "translation": "Public debate helps us understand different opinions."
+      },
+      {
+        "word": "discuss",
+        "reading": "ඩිස්කස්",
+        "meaning": "සාකච්ඡා කරනවා",
+        "example": "පබ්ලික් ඩිබේට් හෙල්ප්ස් අස් අන්ඩර්ස්ටෑන්ඩ් ඩිෆරන්ට් ඔපීනියන්ස්.",
+        "exampleReading": "Reported speech, opinion phrases and concession clauses.",
+        "translation": "Public debate helps us understand different opinions."
+      },
+      {
+        "word": "conclude",
+        "reading": "කන්ක්ලූඩ්",
+        "meaning": "නිගමනය කරනවා",
+        "example": "පබ්ලික් ඩිබේට් හෙල්ප්ස් අස් අන්ඩර්ස්ටෑන්ඩ් ඩිෆරන්ට් ඔපීනියන්ස්.",
+        "exampleReading": "Reported speech, opinion phrases and concession clauses.",
+        "translation": "Public debate helps us understand different opinions."
+      }
+    ],
+    "grammarTitle": "Grammar",
+    "grammar": "Reported speech, opinion phrases and concession clauses.",
+    "grammarTerms": [
+      {
+        "text": "පබ්ලික් ඩිබේට් හෙල්ප්ස් අස් අන්ඩර්ස්ටෑන්ඩ් ඩිෆරන්ට් ඔපීනියන්ස්.",
+        "reading": "Reported speech, opinion phrases and concession clauses.",
+        "meaning": "Public debate helps us understand different opinions."
+      }
+    ],
+    "examples": [
+      {
+        "text": "පබ්ලික් ඩිබේට් හෙල්ප්ස් අස් අන්ඩර්ස්ටෑන්ඩ් ඩිෆරන්ට් ඔපීනියන්ස්.",
+        "reading": "Reported speech, opinion phrases and concession clauses.",
+        "meaning": "Public debate helps us understand different opinions."
+      },
+      {
+        "text": "It is important to consider all available options carefully.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
+        "meaning": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "Based on the available information, we can make a better decision.",
+        "reading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
+        "meaning": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      },
+      {
+        "text": "This approach has advantages, but possible risks should also be considered.",
+        "reading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
+        "meaning": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "A: පබ්ලික් ඩිබේට් හෙල්ප්ස් අස් අන්ඩර්ස්ටෑන්ඩ් ඩිෆරන්ට් ඔපීනියන්ස්.",
+        "reading": "A: Reported speech, opinion phrases and concession clauses.",
+        "meaning": "Public debate helps us understand different opinions."
+      },
+      {
+        "text": "B: Could you give an example?",
+        "reading": "B: කුඩ් යූ ගිව් ඇන් ඉග්සැම්පල්?",
+        "meaning": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+      },
+      {
+        "text": "A: It is important to consider every option.",
+        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
+        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "B: I agree. That will help us make a better decision.",
+        "reading": "B: අයි අග්‍රී. දැට් විල් හෙල්ප් අස් මේක් අ බෙටර් ඩිසිෂන්.",
+        "meaning": "එකඟයි. එය වඩා හොඳ තීරණයක් ගැනීමට උදව් වේවි."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the meaning: පබ්ලික් ඩිබේට් හෙල්ප්ස් අස් අන්ඩර්ස්ටෑන්ඩ් ඩිෆරන්ට් ඔපීනියන්ස්.",
+      "audio": "පබ්ලික් ඩිබේට් හෙල්ප්ස් අස් අන්ඩර්ස්ටෑන්ඩ් ඩිෆරන්ට් ඔපීනියන්ස්.",
+      "reading": "Reported speech, opinion phrases and concession clauses.",
+      "options": [
+        "Public debate helps us understand different opinions.",
+        "A different idea",
+        "A question"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "What does “debate” mean?",
+        "options": [
+          "විවාදය",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් අර්ථයක්"
+        ],
+        "answer": 0,
+        "explanation": "debate = විවාදය"
+      },
+      {
+        "prompt": "Choose the correct sentence.",
+        "options": [
+          "Yesterday I will goes.",
+          "පබ්ලික් ඩිබේට් හෙල්ප්ස් අස් අන්ඩර්ස්ටෑන්ඩ් ඩිෆරන්ට් ඔපීනියන්ස්.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "Public debate helps us understand different opinions."
+      },
+      {
+        "prompt": "What does “public opinion” mean?",
+        "options": [
+          "මහජන මතය",
+          "අදාළ නැති වචනය",
+          "විරුද්ධ අර්ථය"
+        ],
+        "answer": 0,
+        "explanation": "public opinion = මහජන මතය"
+      },
+      {
+        "prompt": "What does speaker B ask for?",
+        "options": [
+          "An example",
+          "A price",
+          "An address"
+        ],
+        "answer": 0,
+        "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "en-b1-l48",
+    "unit": "Independent use",
+    "title": "B1 · Lesson 48 · Complex problems and evaluating solutions",
+    "objective": "Discuss complex problems and evaluating solutions and support ideas with reasons and examples.",
+    "vocabulary": [
+      {
+        "word": "complex",
+        "reading": "කොම්ප්ලෙක්ස්",
+        "meaning": "සංකීර්ණ",
+        "example": "බිෆෝර් චූසිං අ සලූෂන් වී ෂුඩ් ඉවැලුවේට් පොසිබල් කොන්සිකුවෙන්සිස්.",
+        "exampleReading": "Conditionals, modal perfect and evaluation adjectives.",
+        "translation": "Before choosing a solution, we should evaluate possible consequences."
+      },
+      {
+        "word": "evaluate",
+        "reading": "ඉවැලුවේට්",
+        "meaning": "ඇගයීම",
+        "example": "බිෆෝර් චූසිං අ සලූෂන් වී ෂුඩ් ඉවැලුවේට් පොසිබල් කොන්සිකුවෙන්සිස්.",
+        "exampleReading": "Conditionals, modal perfect and evaluation adjectives.",
+        "translation": "Before choosing a solution, we should evaluate possible consequences."
+      },
+      {
+        "word": "consequence",
+        "reading": "කොන්සිකුවෙන්ස්",
+        "meaning": "ප්‍රතිවිපාකය",
+        "example": "බිෆෝර් චූසිං අ සලූෂන් වී ෂුඩ් ඉවැලුවේට් පොසිබල් කොන්සිකුවෙන්සිස්.",
+        "exampleReading": "Conditionals, modal perfect and evaluation adjectives.",
+        "translation": "Before choosing a solution, we should evaluate possible consequences."
+      },
+      {
+        "word": "option",
+        "reading": "ඔප්ෂන්",
+        "meaning": "විකල්පය",
+        "example": "බිෆෝර් චූසිං අ සලූෂන් වී ෂුඩ් ඉවැලුවේට් පොසිබල් කොන්සිකුවෙන්සිස්.",
+        "exampleReading": "Conditionals, modal perfect and evaluation adjectives.",
+        "translation": "Before choosing a solution, we should evaluate possible consequences."
+      },
+      {
+        "word": "risk",
+        "reading": "රිස්ක්",
+        "meaning": "අවදානම",
+        "example": "බිෆෝර් චූසිං අ සලූෂන් වී ෂුඩ් ඉවැලුවේට් පොසිබල් කොන්සිකුවෙන්සිස්.",
+        "exampleReading": "Conditionals, modal perfect and evaluation adjectives.",
+        "translation": "Before choosing a solution, we should evaluate possible consequences."
+      },
+      {
+        "word": "benefit",
+        "reading": "බෙනිෆිට්",
+        "meaning": "ප්‍රයෝජනය",
+        "example": "බිෆෝර් චූසිං අ සලූෂන් වී ෂුඩ් ඉවැලුවේට් පොසිබල් කොන්සිකුවෙන්සිස්.",
+        "exampleReading": "Conditionals, modal perfect and evaluation adjectives.",
+        "translation": "Before choosing a solution, we should evaluate possible consequences."
+      },
+      {
+        "word": "effective",
+        "reading": "ඉෆෙක්ටිව්",
+        "meaning": "ඵලදායී",
+        "example": "බිෆෝර් චූසිං අ සලූෂන් වී ෂුඩ් ඉවැලුවේට් පොසිබල් කොන්සිකුවෙන්සිස්.",
+        "exampleReading": "Conditionals, modal perfect and evaluation adjectives.",
+        "translation": "Before choosing a solution, we should evaluate possible consequences."
+      },
+      {
+        "word": "feasible",
+        "reading": "ෆීසිබල්",
+        "meaning": "කළ හැකි",
+        "example": "බිෆෝර් චූසිං අ සලූෂන් වී ෂුඩ් ඉවැලුවේට් පොසිබල් කොන්සිකුවෙන්සිස්.",
+        "exampleReading": "Conditionals, modal perfect and evaluation adjectives.",
+        "translation": "Before choosing a solution, we should evaluate possible consequences."
+      }
+    ],
+    "grammarTitle": "Grammar",
+    "grammar": "Conditionals, modal perfect and evaluation adjectives.",
+    "grammarTerms": [
+      {
+        "text": "බිෆෝර් චූසිං අ සලූෂන් වී ෂුඩ් ඉවැලුවේට් පොසිබල් කොන්සිකුවෙන්සිස්.",
+        "reading": "Conditionals, modal perfect and evaluation adjectives.",
+        "meaning": "Before choosing a solution, we should evaluate possible consequences."
+      }
+    ],
+    "examples": [
+      {
+        "text": "බිෆෝර් චූසිං අ සලූෂන් වී ෂුඩ් ඉවැලුවේට් පොසිබල් කොන්සිකුවෙන්සිස්.",
+        "reading": "Conditionals, modal perfect and evaluation adjectives.",
+        "meaning": "Before choosing a solution, we should evaluate possible consequences."
+      },
+      {
+        "text": "It is important to consider all available options carefully.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
+        "meaning": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "Based on the available information, we can make a better decision.",
+        "reading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
+        "meaning": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      },
+      {
+        "text": "This approach has advantages, but possible risks should also be considered.",
+        "reading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
+        "meaning": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "A: බිෆෝර් චූසිං අ සලූෂන් වී ෂුඩ් ඉවැලුවේට් පොසිබල් කොන්සිකුවෙන්සිස්.",
+        "reading": "A: Conditionals, modal perfect and evaluation adjectives.",
+        "meaning": "Before choosing a solution, we should evaluate possible consequences."
+      },
+      {
+        "text": "B: Could you give an example?",
+        "reading": "B: කුඩ් යූ ගිව් ඇන් ඉග්සැම්පල්?",
+        "meaning": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+      },
+      {
+        "text": "A: It is important to consider every option.",
+        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
+        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "B: I agree. That will help us make a better decision.",
+        "reading": "B: අයි අග්‍රී. දැට් විල් හෙල්ප් අස් මේක් අ බෙටර් ඩිසිෂන්.",
+        "meaning": "එකඟයි. එය වඩා හොඳ තීරණයක් ගැනීමට උදව් වේවි."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the meaning: බිෆෝර් චූසිං අ සලූෂන් වී ෂුඩ් ඉවැලුවේට් පොසිබල් කොන්සිකුවෙන්සිස්.",
+      "audio": "බිෆෝර් චූසිං අ සලූෂන් වී ෂුඩ් ඉවැලුවේට් පොසිබල් කොන්සිකුවෙන්සිස්.",
+      "reading": "Conditionals, modal perfect and evaluation adjectives.",
+      "options": [
+        "Before choosing a solution, we should evaluate possible consequences.",
+        "A different idea",
+        "A question"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "What does “complex” mean?",
+        "options": [
+          "සංකීර්ණ",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් අර්ථයක්"
+        ],
+        "answer": 0,
+        "explanation": "complex = සංකීර්ණ"
+      },
+      {
+        "prompt": "Choose the correct sentence.",
+        "options": [
+          "Yesterday I will goes.",
+          "බිෆෝර් චූසිං අ සලූෂන් වී ෂුඩ් ඉවැලුවේට් පොසිබල් කොන්සිකුවෙන්සිස්.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "Before choosing a solution, we should evaluate possible consequences."
+      },
+      {
+        "prompt": "What does “evaluate” mean?",
+        "options": [
+          "ඇගයීම",
+          "අදාළ නැති වචනය",
+          "විරුද්ධ අර්ථය"
+        ],
+        "answer": 0,
+        "explanation": "evaluate = ඇගයීම"
+      },
+      {
+        "prompt": "What does speaker B ask for?",
+        "options": [
+          "An example",
+          "A price",
+          "An address"
+        ],
+        "answer": 0,
+        "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "en-b1-l49",
+    "unit": "Independent use",
+    "title": "B1 · Lesson 49 · Future planning and preparing for change",
+    "objective": "Discuss future planning and preparing for change and support ideas with reasons and examples.",
+    "vocabulary": [
+      {
+        "word": "forecast",
+        "reading": "ෆෝර්කාස්ට්",
+        "meaning": "අනාවැකිය",
+        "example": "අ ෆ්ලෙක්සිබල් ප්ලෑන් හෙල්ප්ස් අස් අඩැප්ට් ටු චේන්ජස්.",
+        "exampleReading": "Future continuous, future perfect and conditional planning.",
+        "translation": "A flexible plan helps us adapt to changes."
+      },
+      {
+        "word": "flexible",
+        "reading": "ෆ්ලෙක්සිබල්",
+        "meaning": "නම්‍යශීලී",
+        "example": "අ ෆ්ලෙක්සිබල් ප්ලෑන් හෙල්ප්ස් අස් අඩැප්ට් ටු චේන්ජස්.",
+        "exampleReading": "Future continuous, future perfect and conditional planning.",
+        "translation": "A flexible plan helps us adapt to changes."
+      },
+      {
+        "word": "prepare",
+        "reading": "ප්‍රිපෙයාර්",
+        "meaning": "සූදානම් කරනවා",
+        "example": "අ ෆ්ලෙක්සිබල් ප්ලෑන් හෙල්ප්ස් අස් අඩැප්ට් ටු චේන්ජස්.",
+        "exampleReading": "Future continuous, future perfect and conditional planning.",
+        "translation": "A flexible plan helps us adapt to changes."
+      },
+      {
+        "word": "adapt",
+        "reading": "අඩැප්ට්",
+        "meaning": "හැඩගැසෙනවා",
+        "example": "අ ෆ්ලෙක්සිබල් ප්ලෑන් හෙල්ප්ස් අස් අඩැප්ට් ටු චේන්ජස්.",
+        "exampleReading": "Future continuous, future perfect and conditional planning.",
+        "translation": "A flexible plan helps us adapt to changes."
+      },
+      {
+        "word": "uncertainty",
+        "reading": "අන්සර්ටන්ටි",
+        "meaning": "අනිශ්චිතභාවය",
+        "example": "අ ෆ්ලෙක්සිබල් ප්ලෑන් හෙල්ප්ස් අස් අඩැප්ට් ටු චේන්ජස්.",
+        "exampleReading": "Future continuous, future perfect and conditional planning.",
+        "translation": "A flexible plan helps us adapt to changes."
+      },
+      {
+        "word": "strategy",
+        "reading": "ස්ට්‍රැටජි",
+        "meaning": "උපායමාර්ගය",
+        "example": "අ ෆ්ලෙක්සිබල් ප්ලෑන් හෙල්ප්ස් අස් අඩැප්ට් ටු චේන්ජස්.",
+        "exampleReading": "Future continuous, future perfect and conditional planning.",
+        "translation": "A flexible plan helps us adapt to changes."
+      },
+      {
+        "word": "backup plan",
+        "reading": "බැකප් ප්ලෑන්",
+        "meaning": "විකල්ප සැලැස්ම",
+        "example": "අ ෆ්ලෙක්සිබල් ප්ලෑන් හෙල්ප්ස් අස් අඩැප්ට් ටු චේන්ජස්.",
+        "exampleReading": "Future continuous, future perfect and conditional planning.",
+        "translation": "A flexible plan helps us adapt to changes."
+      },
+      {
+        "word": "long-term",
+        "reading": "ලෝන්ග් ටර්ම්",
+        "meaning": "දිගුකාලීන",
+        "example": "අ ෆ්ලෙක්සිබල් ප්ලෑන් හෙල්ප්ස් අස් අඩැප්ට් ටු චේන්ජස්.",
+        "exampleReading": "Future continuous, future perfect and conditional planning.",
+        "translation": "A flexible plan helps us adapt to changes."
+      }
+    ],
+    "grammarTitle": "Grammar",
+    "grammar": "Future continuous, future perfect and conditional planning.",
+    "grammarTerms": [
+      {
+        "text": "අ ෆ්ලෙක්සිබල් ප්ලෑන් හෙල්ප්ස් අස් අඩැප්ට් ටු චේන්ජස්.",
+        "reading": "Future continuous, future perfect and conditional planning.",
+        "meaning": "A flexible plan helps us adapt to changes."
+      }
+    ],
+    "examples": [
+      {
+        "text": "අ ෆ්ලෙක්සිබල් ප්ලෑන් හෙල්ප්ස් අස් අඩැප්ට් ටු චේන්ජස්.",
+        "reading": "Future continuous, future perfect and conditional planning.",
+        "meaning": "A flexible plan helps us adapt to changes."
+      },
+      {
+        "text": "It is important to consider all available options carefully.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
+        "meaning": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "Based on the available information, we can make a better decision.",
+        "reading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
+        "meaning": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      },
+      {
+        "text": "This approach has advantages, but possible risks should also be considered.",
+        "reading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
+        "meaning": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "A: අ ෆ්ලෙක්සිබල් ප්ලෑන් හෙල්ප්ස් අස් අඩැප්ට් ටු චේන්ජස්.",
+        "reading": "A: Future continuous, future perfect and conditional planning.",
+        "meaning": "A flexible plan helps us adapt to changes."
+      },
+      {
+        "text": "B: Could you give an example?",
+        "reading": "B: කුඩ් යූ ගිව් ඇන් ඉග්සැම්පල්?",
+        "meaning": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+      },
+      {
+        "text": "A: It is important to consider every option.",
+        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
+        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "B: I agree. That will help us make a better decision.",
+        "reading": "B: අයි අග්‍රී. දැට් විල් හෙල්ප් අස් මේක් අ බෙටර් ඩිසිෂන්.",
+        "meaning": "එකඟයි. එය වඩා හොඳ තීරණයක් ගැනීමට උදව් වේවි."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the meaning: අ ෆ්ලෙක්සිබල් ප්ලෑන් හෙල්ප්ස් අස් අඩැප්ට් ටු චේන්ජස්.",
+      "audio": "අ ෆ්ලෙක්සිබල් ප්ලෑන් හෙල්ප්ස් අස් අඩැප්ට් ටු චේන්ජස්.",
+      "reading": "Future continuous, future perfect and conditional planning.",
+      "options": [
+        "A flexible plan helps us adapt to changes.",
+        "A different idea",
+        "A question"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "What does “forecast” mean?",
+        "options": [
+          "අනාවැකිය",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් අර්ථයක්"
+        ],
+        "answer": 0,
+        "explanation": "forecast = අනාවැකිය"
+      },
+      {
+        "prompt": "Choose the correct sentence.",
+        "options": [
+          "Yesterday I will goes.",
+          "අ ෆ්ලෙක්සිබල් ප්ලෑන් හෙල්ප්ස් අස් අඩැප්ට් ටු චේන්ජස්.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "A flexible plan helps us adapt to changes."
+      },
+      {
+        "prompt": "What does “flexible” mean?",
+        "options": [
+          "නම්‍යශීලී",
+          "අදාළ නැති වචනය",
+          "විරුද්ධ අර්ථය"
+        ],
+        "answer": 0,
+        "explanation": "flexible = නම්‍යශීලී"
+      },
+      {
+        "prompt": "What does speaker B ask for?",
+        "options": [
+          "An example",
+          "A price",
+          "An address"
+        ],
+        "answer": 0,
+        "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "en-b1-l50",
+    "unit": "Independent use",
+    "title": "B1 · Lesson 50 · Integrated B1 speaking and writing",
+    "objective": "Discuss integrated b1 speaking and writing and support ideas with reasons and examples.",
+    "vocabulary": [
+      {
+        "word": "introduction",
+        "reading": "ඉන්ට්‍රඩක්ෂන්",
+        "meaning": "හැඳින්වීම",
+        "example": "අ ක්ලියර් ප්‍රෙසෙන්ටේෂන් කනෙක්ට්ස් ඉග්සැම්පල්ස් රීසන්ස් ඇන්ඩ් අ කන්ක්ලූෂන්.",
+        "exampleReading": "Discourse markers for introductions, supporting points and conclusions.",
+        "translation": "A clear presentation connects examples, reasons and a conclusion."
+      },
+      {
+        "word": "supporting point",
+        "reading": "සපෝර්ටින් පොයින්ට්",
+        "meaning": "සහායක කරුණ",
+        "example": "අ ක්ලියර් ප්‍රෙසෙන්ටේෂන් කනෙක්ට්ස් ඉග්සැම්පල්ස් රීසන්ස් ඇන්ඩ් අ කන්ක්ලූෂන්.",
+        "exampleReading": "Discourse markers for introductions, supporting points and conclusions.",
+        "translation": "A clear presentation connects examples, reasons and a conclusion."
+      },
+      {
+        "word": "example",
+        "reading": "ඉග්සැම්පල්",
+        "meaning": "උදාහරණය",
+        "example": "අ ක්ලියර් ප්‍රෙසෙන්ටේෂන් කනෙක්ට්ස් ඉග්සැම්පල්ස් රීසන්ස් ඇන්ඩ් අ කන්ක්ලූෂන්.",
+        "exampleReading": "Discourse markers for introductions, supporting points and conclusions.",
+        "translation": "A clear presentation connects examples, reasons and a conclusion."
+      },
+      {
+        "word": "summary",
+        "reading": "සමරි",
+        "meaning": "සාරාංශය",
+        "example": "අ ක්ලියර් ප්‍රෙසෙන්ටේෂන් කනෙක්ට්ස් ඉග්සැම්පල්ස් රීසන්ස් ඇන්ඩ් අ කන්ක්ලූෂන්.",
+        "exampleReading": "Discourse markers for introductions, supporting points and conclusions.",
+        "translation": "A clear presentation connects examples, reasons and a conclusion."
+      },
+      {
+        "word": "structure",
+        "reading": "ස්ට්‍රක්චර්",
+        "meaning": "ව්‍යුහය",
+        "example": "අ ක්ලියර් ප්‍රෙසෙන්ටේෂන් කනෙක්ට්ස් ඉග්සැම්පල්ස් රීසන්ස් ඇන්ඩ් අ කන්ක්ලූෂන්.",
+        "exampleReading": "Discourse markers for introductions, supporting points and conclusions.",
+        "translation": "A clear presentation connects examples, reasons and a conclusion."
+      },
+      {
+        "word": "transition",
+        "reading": "ට්‍රාන්සිෂන්",
+        "meaning": "සංක්‍රාන්තිය",
+        "example": "අ ක්ලියර් ප්‍රෙසෙන්ටේෂන් කනෙක්ට්ස් ඉග්සැම්පල්ස් රීසන්ස් ඇන්ඩ් අ කන්ක්ලූෂන්.",
+        "exampleReading": "Discourse markers for introductions, supporting points and conclusions.",
+        "translation": "A clear presentation connects examples, reasons and a conclusion."
+      },
+      {
+        "word": "emphasise",
+        "reading": "එම්ෆසයිස්",
+        "meaning": "අවධාරණය කරනවා",
+        "example": "අ ක්ලියර් ප්‍රෙසෙන්ටේෂන් කනෙක්ට්ස් ඉග්සැම්පල්ස් රීසන්ස් ඇන්ඩ් අ කන්ක්ලූෂන්.",
+        "exampleReading": "Discourse markers for introductions, supporting points and conclusions.",
+        "translation": "A clear presentation connects examples, reasons and a conclusion."
+      },
+      {
+        "word": "conclusion",
+        "reading": "කන්ක්ලූෂන්",
+        "meaning": "නිගමනය",
+        "example": "අ ක්ලියර් ප්‍රෙසෙන්ටේෂන් කනෙක්ට්ස් ඉග්සැම්පල්ස් රීසන්ස් ඇන්ඩ් අ කන්ක්ලූෂන්.",
+        "exampleReading": "Discourse markers for introductions, supporting points and conclusions.",
+        "translation": "A clear presentation connects examples, reasons and a conclusion."
+      }
+    ],
+    "grammarTitle": "Grammar",
+    "grammar": "Discourse markers for introductions, supporting points and conclusions.",
+    "grammarTerms": [
+      {
+        "text": "අ ක්ලියර් ප්‍රෙසෙන්ටේෂන් කනෙක්ට්ස් ඉග්සැම්පල්ස් රීසන්ස් ඇන්ඩ් අ කන්ක්ලූෂන්.",
+        "reading": "Discourse markers for introductions, supporting points and conclusions.",
+        "meaning": "A clear presentation connects examples, reasons and a conclusion."
+      }
+    ],
+    "examples": [
+      {
+        "text": "අ ක්ලියර් ප්‍රෙසෙන්ටේෂන් කනෙක්ට්ස් ඉග්සැම්පල්ස් රීසන්ස් ඇන්ඩ් අ කන්ක්ලූෂන්.",
+        "reading": "Discourse markers for introductions, supporting points and conclusions.",
+        "meaning": "A clear presentation connects examples, reasons and a conclusion."
+      },
+      {
+        "text": "It is important to consider all available options carefully.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
+        "meaning": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "Based on the available information, we can make a better decision.",
+        "reading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
+        "meaning": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      },
+      {
+        "text": "This approach has advantages, but possible risks should also be considered.",
+        "reading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
+        "meaning": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "A: අ ක්ලියර් ප්‍රෙසෙන්ටේෂන් කනෙක්ට්ස් ඉග්සැම්පල්ස් රීසන්ස් ඇන්ඩ් අ කන්ක්ලූෂන්.",
+        "reading": "A: Discourse markers for introductions, supporting points and conclusions.",
+        "meaning": "A clear presentation connects examples, reasons and a conclusion."
+      },
+      {
+        "text": "B: Could you give an example?",
+        "reading": "B: කුඩ් යූ ගිව් ඇන් ඉග්සැම්පල්?",
+        "meaning": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+      },
+      {
+        "text": "A: It is important to consider every option.",
+        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
+        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "B: I agree. That will help us make a better decision.",
+        "reading": "B: අයි අග්‍රී. දැට් විල් හෙල්ප් අස් මේක් අ බෙටර් ඩිසිෂන්.",
+        "meaning": "එකඟයි. එය වඩා හොඳ තීරණයක් ගැනීමට උදව් වේවි."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the meaning: අ ක්ලියර් ප්‍රෙසෙන්ටේෂන් කනෙක්ට්ස් ඉග්සැම්පල්ස් රීසන්ස් ඇන්ඩ් අ කන්ක්ලූෂන්.",
+      "audio": "අ ක්ලියර් ප්‍රෙසෙන්ටේෂන් කනෙක්ට්ස් ඉග්සැම්පල්ස් රීසන්ස් ඇන්ඩ් අ කන්ක්ලූෂන්.",
+      "reading": "Discourse markers for introductions, supporting points and conclusions.",
+      "options": [
+        "A clear presentation connects examples, reasons and a conclusion.",
+        "A different idea",
+        "A question"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "What does “introduction” mean?",
+        "options": [
+          "හැඳින්වීම",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් අර්ථයක්"
+        ],
+        "answer": 0,
+        "explanation": "introduction = හැඳින්වීම"
+      },
+      {
+        "prompt": "Choose the correct sentence.",
+        "options": [
+          "Yesterday I will goes.",
+          "අ ක්ලියර් ප්‍රෙසෙන්ටේෂන් කනෙක්ට්ස් ඉග්සැම්පල්ස් රීසන්ස් ඇන්ඩ් අ කන්ක්ලූෂන්.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "A clear presentation connects examples, reasons and a conclusion."
+      },
+      {
+        "prompt": "What does “supporting point” mean?",
+        "options": [
+          "සහායක කරුණ",
+          "අදාළ නැති වචනය",
+          "විරුද්ධ අර්ථය"
+        ],
+        "answer": 0,
+        "explanation": "supporting point = සහායක කරුණ"
+      },
+      {
+        "prompt": "What does speaker B ask for?",
+        "options": [
+          "An example",
+          "A price",
+          "An address"
+        ],
+        "answer": 0,
+        "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+      }
+    ]
   }
 ];
