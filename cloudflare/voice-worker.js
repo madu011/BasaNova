@@ -8,9 +8,7 @@ const corsHeaders = {
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
-    if (request.method === "OPTIONS") {
-      return new Response(null, { status: 204, headers: corsHeaders });
-    }
+    if (request.method === "OPTIONS") return new Response(null, { status: 204, headers: corsHeaders });
     if (url.pathname !== "/speak" || request.method !== "POST") {
       return Response.json({ error: "Not found" }, { status: 404, headers: corsHeaders });
     }
@@ -18,12 +16,17 @@ export default {
       return Response.json({ error: "Voice service is not configured" }, { status: 503, headers: corsHeaders });
     }
 
-    let body;
-    try {
-      body = await request.json();
-    } catch {
-      return Response.json({ error: "Invalid JSON body" }, { status: 400, headers: corsHeaders });
+    const clientIp = request.headers.get("CF-Connecting-IP") || "unknown";
+    if (env.VOICE_LIMITER) {
+      const limit = await env.VOICE_LIMITER.limit({ key: clientIp });
+      if (!limit.success) {
+        return Response.json({ error: "Voice request limit reached. Please try again later." }, { status: 429, headers: corsHeaders });
+      }
     }
+
+    let body;
+    try { body = await request.json(); }
+    catch { return Response.json({ error: "Invalid JSON body" }, { status: 400, headers: corsHeaders }); }
 
     const text = typeof body.text === "string" ? body.text.trim() : "";
     const language = body.language;
@@ -43,15 +46,10 @@ export default {
         })
       }
     );
-
     if (!googleResponse.ok) {
       const details = await googleResponse.text();
-      return Response.json(
-        { error: "Google Text-to-Speech request failed", details: details.slice(0, 500) },
-        { status: 502, headers: corsHeaders }
-      );
+      return Response.json({ error: "Google Text-to-Speech request failed", details: details.slice(0, 500) }, { status: 502, headers: corsHeaders });
     }
-
     const result = await googleResponse.json();
     if (!result.audioContent) {
       return Response.json({ error: "Google returned no audio" }, { status: 502, headers: corsHeaders });
