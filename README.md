@@ -187,3 +187,11 @@ GitHub Actions runs dependency installation, Expo SDK compatibility checks, and 
 - Added travel-ticket and household-location checks to both Serbian and English cumulative revision practice.
 - Serbian A1 now has 16 lesson-aligned listening prompts and 16 mixed-revision questions. English A1 has 16 lesson listening exercises and 12 cumulative mixed-revision questions.
 - Lesson and revision totals are source-count checks only; no parser, Expo export, APK build or physical-device test was run for this update.
+
+
+### Paired A1 lessons 20–21 — Food, cooking, weather and clothes
+- Added the same two everyday topics to both Serbian and English A1 courses: meals and simple cooking routines, followed by weather conditions and suitable clothing.
+- Each new lesson in both languages includes eight vocabulary items with Sinhala meanings and Sinhala-script readings, five grammar phrase cards, four examples, a six-line dialogue, four quizzes and a listening task.
+- Added two Serbian lesson-aligned listening checks and two Serbian cumulative revision items. The Serbian listening and revision UI scope now covers lessons 1–18.
+- Both structured A1 courses now contain 18 paired lessons. These remain beginner starter courses, not a claim of complete CEFR A1 coverage. Pronunciation guides are approximate and need speaker review.
+- No JavaScript parser, Expo bundle, APK build or Android device test was run for this content update.
