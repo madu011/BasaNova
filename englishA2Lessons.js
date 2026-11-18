@@ -6054,5 +6054,870 @@ export const ENGLISH_A2_LESSONS = [
         "explanation": "ඔව්, උද්‍යානය අසලම තියෙනවා."
       }
     ]
-  }
+  },
+{
+  "id": "en-a2-l36",
+  "unit": "ගමන් සැලසුම් කිරීම",
+  "title": "A2 · Lesson 36 · Planning a trip and booking accommodation",
+  "objective": "ගමනක් සැලසුම් කර ප්‍රවාහනය සහ නවාතැන් ගැන විමසීම",
+  "vocabulary": [
+    {
+      "word": "journey",
+      "reading": "ජර්නි",
+      "meaning": "ගමන",
+      "example": "journey",
+      "translation": "ගමන",
+      "exampleReading": "ජර්නි"
+    },
+    {
+      "word": "reservation",
+      "reading": "රෙසර්වේෂන්",
+      "meaning": "වෙන්කිරීම",
+      "example": "reservation",
+      "translation": "වෙන්කිරීම",
+      "exampleReading": "රෙසර්වේෂන්"
+    },
+    {
+      "word": "accommodation",
+      "reading": "අකමඩේෂන්",
+      "meaning": "නවාතැන්",
+      "example": "accommodation",
+      "translation": "නවාතැන්",
+      "exampleReading": "අකමඩේෂන්"
+    },
+    {
+      "word": "overnight stay",
+      "reading": "ඕවර්නයිට් ස්ටේ",
+      "meaning": "රාත්‍රී නවාතැන",
+      "example": "overnight stay",
+      "translation": "රාත්‍රී නවාතැන",
+      "exampleReading": "ඕවර්නයිට් ස්ටේ"
+    },
+    {
+      "word": "departure",
+      "reading": "ඩිපාර්චර්",
+      "meaning": "පිටත්වීම",
+      "example": "departure",
+      "translation": "පිටත්වීම",
+      "exampleReading": "ඩිපාර්චර්"
+    },
+    {
+      "word": "arrival",
+      "reading": "අරයිවල්",
+      "meaning": "පැමිණීම",
+      "example": "arrival",
+      "translation": "පැමිණීම",
+      "exampleReading": "අරයිවල්"
+    },
+    {
+      "word": "luggage",
+      "reading": "ලගිජ්",
+      "meaning": "ගමන් මලු",
+      "example": "luggage",
+      "translation": "ගමන් මලු",
+      "exampleReading": "ලගිජ්"
+    },
+    {
+      "word": "available place",
+      "reading": "අවේලබල් ප්ලේස්",
+      "meaning": "හිස් ස්ථානය",
+      "example": "available place",
+      "translation": "හිස් ස්ථානය",
+      "exampleReading": "අවේලබල් ප්ලේස්"
+    }
+  ],
+  "grammarTitle": "Grammar",
+  "grammar": "Use “going to” for plans and “could you...” for polite requests.",
+  "grammarTerms": [
+    {
+      "text": "I am planning a trip next week.",
+      "reading": "අයි ඇම් ප්ලෑනින් අ ට්‍රිප් නෙක්ස්ට් වීක්.",
+      "meaning": "මම ලබන සතියේ ගමනක් සැලසුම් කරනවා."
+    }
+  ],
+  "examples": [
+    {
+      "text": "I am planning a trip next week.",
+      "reading": "අයි ඇම් ප්ලෑනින් අ ට්‍රිප් නෙක්ස්ට් වීක්.",
+      "meaning": "මම ලබන සතියේ ගමනක් සැලසුම් කරනවා."
+    },
+    {
+      "text": "I would like to book a room.",
+      "reading": "අයි වුඩ් ලයික් ටු බුක් අ රූම්.",
+      "meaning": "මම කාමරයක් වෙන්කරගන්න කැමතියි."
+    },
+    {
+      "text": "What time is the departure?",
+      "reading": "වොට් ටයිම් ඉස් දි ඩිපාර්චර්?",
+      "meaning": "පිටත්වීම කීයටද?"
+    }
+  ],
+  "dialogue": [
+    {
+      "text": "I am planning a trip next week.",
+      "reading": "අයි ඇම් ප්ලෑනින් අ ට්‍රිප් නෙක්ස්ට් වීක්.",
+      "meaning": "මම ලබන සතියේ ගමනක් සැලසුම් කරනවා."
+    },
+    {
+      "text": "I would like to book a room.",
+      "reading": "අයි වුඩ් ලයික් ටු බුක් අ රූම්.",
+      "meaning": "මම කාමරයක් වෙන්කරගන්න කැමතියි."
+    },
+    {
+      "text": "What time is the departure?",
+      "reading": "වොට් ටයිම් ඉස් දි ඩිපාර්චර්?",
+      "meaning": "පිටත්වීම කීයටද?"
+    },
+    {
+      "text": "I am planning a trip next week.",
+      "reading": "අයි ඇම් ප්ලෑනින් අ ට්‍රිප් නෙක්ස්ට් වීක්.",
+      "meaning": "මම ලබන සතියේ ගමනක් සැලසුම් කරනවා."
+    }
+  ],
+  "listeningPractice": {
+    "prompt": "Listen and choose the meaning: “I am planning a trip next week.”",
+    "audio": "I am planning a trip next week.",
+    "reading": "අයි ඇම් ප්ලෑනින් අ ට්‍රිප් නෙක්ස්ට් වීක්.",
+    "options": [
+      "මම ලබන සතියේ ගමනක් සැලසුම් කරනවා.",
+      "මම කාමරයක් වෙන්කරගන්න කැමතියි.",
+      "පිටත්වීම කීයටද?"
+    ],
+    "answer": 0
+  },
+  "practice": [
+    {
+      "prompt": "Choose the word meaning “ගමන”.",
+      "options": [
+        "journey",
+        "reservation",
+        "accommodation"
+      ],
+      "answer": 0,
+      "explanation": "journey = ගමන"
+    },
+    {
+      "prompt": "Choose the word meaning “වෙන්කිරීම”.",
+      "options": [
+        "journey",
+        "reservation",
+        "accommodation"
+      ],
+      "answer": 1,
+      "explanation": "reservation = වෙන්කිරීම"
+    },
+    {
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "I am planning a trip next week.",
+        "I would like to book a room.",
+        "What time is the departure?"
+      ],
+      "answer": 0,
+      "explanation": "මම ලබන සතියේ ගමනක් සැලසුම් කරනවා."
+    },
+    {
+      "prompt": "Choose the final line of the dialogue.",
+      "options": [
+        "I am planning a trip next week.",
+        "What time is the departure?",
+        "I would like to book a room."
+      ],
+      "answer": 1,
+      "explanation": "පිටත්වීම කීයටද?"
+    }
+  ]
+},
+{
+  "id": "en-a2-l37",
+  "unit": "පාරිභෝගික පැමිණිලි සහ විසඳුම්",
+  "title": "A2 · Lesson 37 · Making a complaint and asking for a solution",
+  "objective": "ගැටලුවක් පැහැදිලි කර ආචාරශීලීව විසඳුමක් ඉල්ලීම",
+  "vocabulary": [
+    {
+      "word": "problem",
+      "reading": "ප්‍රොබ්ලම්",
+      "meaning": "ගැටලුව",
+      "example": "problem",
+      "translation": "ගැටලුව",
+      "exampleReading": "ප්‍රොබ්ලම්"
+    },
+    {
+      "word": "damaged",
+      "reading": "ඩෑමිජ්ඩ්",
+      "meaning": "හානි වූ",
+      "example": "damaged",
+      "translation": "හානි වූ",
+      "exampleReading": "ඩෑමිජ්ඩ්"
+    },
+    {
+      "word": "incorrect",
+      "reading": "ඉන්කරෙක්ට්",
+      "meaning": "වැරදි",
+      "example": "incorrect",
+      "translation": "වැරදි",
+      "exampleReading": "ඉන්කරෙක්ට්"
+    },
+    {
+      "word": "receipt",
+      "reading": "රිසීට්",
+      "meaning": "බිල",
+      "example": "receipt",
+      "translation": "බිල",
+      "exampleReading": "රිසීට්"
+    },
+    {
+      "word": "replacement",
+      "reading": "රිප්ලේස්මන්ට්",
+      "meaning": "මාරු කිරීම",
+      "example": "replacement",
+      "translation": "මාරු කිරීම",
+      "exampleReading": "රිප්ලේස්මන්ට්"
+    },
+    {
+      "word": "refund",
+      "reading": "රීෆන්ඩ්",
+      "meaning": "මුදල් ආපසු ලබාදීම",
+      "example": "refund",
+      "translation": "මුදල් ආපසු ලබාදීම",
+      "exampleReading": "රීෆන්ඩ්"
+    },
+    {
+      "word": "complaint",
+      "reading": "කම්ප්ලේන්ට්",
+      "meaning": "පැමිණිල්ල",
+      "example": "complaint",
+      "translation": "පැමිණිල්ල",
+      "exampleReading": "කම්ප්ලේන්ට්"
+    },
+    {
+      "word": "solution",
+      "reading": "සලුෂන්",
+      "meaning": "විසඳුම",
+      "example": "solution",
+      "translation": "විසඳුම",
+      "exampleReading": "සලුෂන්"
+    }
+  ],
+  "grammarTitle": "Grammar",
+  "grammar": "Use the present perfect to explain what has happened and “Could you...?” to request a solution.",
+  "grammarTerms": [
+    {
+      "text": "I have a problem with this product.",
+      "reading": "අයි හැව් අ ප්‍රොබ්ලම් විත් දිස් ප්‍රොඩක්ට්.",
+      "meaning": "මට මේ භාණ්ඩය සම්බන්ධ ගැටලුවක් තියෙනවා."
+    }
+  ],
+  "examples": [
+    {
+      "text": "I have a problem with this product.",
+      "reading": "අයි හැව් අ ප්‍රොබ්ලම් විත් දිස් ප්‍රොඩක්ට්.",
+      "meaning": "මට මේ භාණ්ඩය සම්බන්ධ ගැටලුවක් තියෙනවා."
+    },
+    {
+      "text": "The product has been damaged.",
+      "reading": "දි ප්‍රොඩක්ට් හැස් බීන් ඩෑමිජ්ඩ්.",
+      "meaning": "භාණ්ඩයට හානි වෙලා."
+    },
+    {
+      "text": "Could you replace it, please?",
+      "reading": "කුඩ් යූ රිප්ලේස් ඉට් ප්ලීස්?",
+      "meaning": "කරුණාකර එය මාරු කරලා දෙන්න පුළුවන්ද?"
+    }
+  ],
+  "dialogue": [
+    {
+      "text": "I have a problem with this product.",
+      "reading": "අයි හැව් අ ප්‍රොබ්ලම් විත් දිස් ප්‍රොඩක්ට්.",
+      "meaning": "මට මේ භාණ්ඩය සම්බන්ධ ගැටලුවක් තියෙනවා."
+    },
+    {
+      "text": "The product has been damaged.",
+      "reading": "දි ප්‍රොඩක්ට් හැස් බීන් ඩෑමිජ්ඩ්.",
+      "meaning": "භාණ්ඩයට හානි වෙලා."
+    },
+    {
+      "text": "Could you replace it, please?",
+      "reading": "කුඩ් යූ රිප්ලේස් ඉට් ප්ලීස්?",
+      "meaning": "කරුණාකර එය මාරු කරලා දෙන්න පුළුවන්ද?"
+    },
+    {
+      "text": "I have a problem with this product.",
+      "reading": "අයි හැව් අ ප්‍රොබ්ලම් විත් දිස් ප්‍රොඩක්ට්.",
+      "meaning": "මට මේ භාණ්ඩය සම්බන්ධ ගැටලුවක් තියෙනවා."
+    }
+  ],
+  "listeningPractice": {
+    "prompt": "Listen and choose the meaning: “I have a problem with this product.”",
+    "audio": "I have a problem with this product.",
+    "reading": "අයි හැව් අ ප්‍රොබ්ලම් විත් දිස් ප්‍රොඩක්ට්.",
+    "options": [
+      "මට මේ භාණ්ඩය සම්බන්ධ ගැටලුවක් තියෙනවා.",
+      "භාණ්ඩයට හානි වෙලා.",
+      "කරුණාකර එය මාරු කරලා දෙන්න පුළුවන්ද?"
+    ],
+    "answer": 0
+  },
+  "practice": [
+    {
+      "prompt": "Choose the word meaning “ගැටලුව”.",
+      "options": [
+        "problem",
+        "damaged",
+        "incorrect"
+      ],
+      "answer": 0,
+      "explanation": "problem = ගැටලුව"
+    },
+    {
+      "prompt": "Choose the word meaning “හානි වූ”.",
+      "options": [
+        "problem",
+        "damaged",
+        "incorrect"
+      ],
+      "answer": 1,
+      "explanation": "damaged = හානි වූ"
+    },
+    {
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "I have a problem with this product.",
+        "The product has been damaged.",
+        "Could you replace it, please?"
+      ],
+      "answer": 0,
+      "explanation": "මට මේ භාණ්ඩය සම්බන්ධ ගැටලුවක් තියෙනවා."
+    },
+    {
+      "prompt": "Choose the final line of the dialogue.",
+      "options": [
+        "I have a problem with this product.",
+        "Could you replace it, please?",
+        "The product has been damaged."
+      ],
+      "answer": 1,
+      "explanation": "කරුණාකර එය මාරු කරලා දෙන්න පුළුවන්ද?"
+    }
+  ]
+},
+{
+  "id": "en-a2-l38",
+  "unit": "ආහාර පිසීම සහ වට්ටෝරු",
+  "title": "A2 · Lesson 38 · Cooking and following a recipe",
+  "objective": "අමුද්‍රව්‍ය, ප්‍රමාණ සහ ආහාර පිසීමේ පියවර විස්තර කිරීම",
+  "vocabulary": [
+    {
+      "word": "recipe",
+      "reading": "රෙසපී",
+      "meaning": "වට්ටෝරුව",
+      "example": "recipe",
+      "translation": "වට්ටෝරුව",
+      "exampleReading": "රෙසපී"
+    },
+    {
+      "word": "ingredient",
+      "reading": "ඉන්ග්‍රීඩියන්ට්",
+      "meaning": "අමුද්‍රව්‍යය",
+      "example": "ingredient",
+      "translation": "අමුද්‍රව්‍යය",
+      "exampleReading": "ඉන්ග්‍රීඩියන්ට්"
+    },
+    {
+      "word": "flour",
+      "reading": "ෆ්ලවර්",
+      "meaning": "පිටි",
+      "example": "flour",
+      "translation": "පිටි",
+      "exampleReading": "ෆ්ලවර්"
+    },
+    {
+      "word": "oil",
+      "reading": "ඔයිල්",
+      "meaning": "තෙල්",
+      "example": "oil",
+      "translation": "තෙල්",
+      "exampleReading": "ඔයිල්"
+    },
+    {
+      "word": "spoon",
+      "reading": "ස්පූන්",
+      "meaning": "හැන්ද",
+      "example": "spoon",
+      "translation": "හැන්ද",
+      "exampleReading": "ස්පූන්"
+    },
+    {
+      "word": "chop",
+      "reading": "චොප්",
+      "meaning": "කපන්න",
+      "example": "chop",
+      "translation": "කපන්න",
+      "exampleReading": "චොප්"
+    },
+    {
+      "word": "mix",
+      "reading": "මික්ස්",
+      "meaning": "මිශ්‍ර කරන්න",
+      "example": "mix",
+      "translation": "මිශ්‍ර කරන්න",
+      "exampleReading": "මික්ස්"
+    },
+    {
+      "word": "boil",
+      "reading": "බොයිල්",
+      "meaning": "තම්බන්න",
+      "example": "boil",
+      "translation": "තම්බන්න",
+      "exampleReading": "බොයිල්"
+    }
+  ],
+  "grammarTitle": "Grammar",
+  "grammar": "Use sequencing words such as “first”, “then” and “finally”. Use “you need” to describe ingredients.",
+  "grammarTerms": [
+    {
+      "text": "First, chop the vegetables.",
+      "reading": "ෆර්ස්ට් චොප් දි වෙජිටබල්ස්.",
+      "meaning": "මුලින්ම එළවළු කපන්න."
+    }
+  ],
+  "examples": [
+    {
+      "text": "First, chop the vegetables.",
+      "reading": "ෆර්ස්ට් චොප් දි වෙජිටබල්ස්.",
+      "meaning": "මුලින්ම එළවළු කපන්න."
+    },
+    {
+      "text": "Then mix all the ingredients.",
+      "reading": "දෙන් මික්ස් ඕල් දි ඉන්ග්‍රීඩියන්ට්ස්.",
+      "meaning": "ඊළඟට සියලු අමුද්‍රව්‍ය මිශ්‍ර කරන්න."
+    },
+    {
+      "text": "Cook for ten minutes.",
+      "reading": "කුක් ෆෝර් ටෙන් මිනිට්ස්.",
+      "meaning": "විනාඩි දහයක් උයන්න."
+    }
+  ],
+  "dialogue": [
+    {
+      "text": "First, chop the vegetables.",
+      "reading": "ෆර්ස්ට් චොප් දි වෙජිටබල්ස්.",
+      "meaning": "මුලින්ම එළවළු කපන්න."
+    },
+    {
+      "text": "Then mix all the ingredients.",
+      "reading": "දෙන් මික්ස් ඕල් දි ඉන්ග්‍රීඩියන්ට්ස්.",
+      "meaning": "ඊළඟට සියලු අමුද්‍රව්‍ය මිශ්‍ර කරන්න."
+    },
+    {
+      "text": "Cook for ten minutes.",
+      "reading": "කුක් ෆෝර් ටෙන් මිනිට්ස්.",
+      "meaning": "විනාඩි දහයක් උයන්න."
+    },
+    {
+      "text": "First, chop the vegetables.",
+      "reading": "ෆර්ස්ට් චොප් දි වෙජිටබල්ස්.",
+      "meaning": "මුලින්ම එළවළු කපන්න."
+    }
+  ],
+  "listeningPractice": {
+    "prompt": "Listen and choose the meaning: “First, chop the vegetables.”",
+    "audio": "First, chop the vegetables.",
+    "reading": "ෆර්ස්ට් චොප් දි වෙජිටබල්ස්.",
+    "options": [
+      "මුලින්ම එළවළු කපන්න.",
+      "ඊළඟට සියලු අමුද්‍රව්‍ය මිශ්‍ර කරන්න.",
+      "විනාඩි දහයක් උයන්න."
+    ],
+    "answer": 0
+  },
+  "practice": [
+    {
+      "prompt": "Choose the word meaning “වට්ටෝරුව”.",
+      "options": [
+        "recipe",
+        "ingredient",
+        "flour"
+      ],
+      "answer": 0,
+      "explanation": "recipe = වට්ටෝරුව"
+    },
+    {
+      "prompt": "Choose the word meaning “අමුද්‍රව්‍යය”.",
+      "options": [
+        "recipe",
+        "ingredient",
+        "flour"
+      ],
+      "answer": 1,
+      "explanation": "ingredient = අමුද්‍රව්‍යය"
+    },
+    {
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "First, chop the vegetables.",
+        "Then mix all the ingredients.",
+        "Cook for ten minutes."
+      ],
+      "answer": 0,
+      "explanation": "මුලින්ම එළවළු කපන්න."
+    },
+    {
+      "prompt": "Choose the final line of the dialogue.",
+      "options": [
+        "First, chop the vegetables.",
+        "Cook for ten minutes.",
+        "Then mix all the ingredients."
+      ],
+      "answer": 1,
+      "explanation": "විනාඩි දහයක් උයන්න."
+    }
+  ]
+},
+{
+  "id": "en-a2-l39",
+  "unit": "කාලගුණ අනාවැකි සහ සැලසුම්",
+  "title": "A2 · Lesson 39 · Planning around the weather forecast",
+  "objective": "කාලගුණය ගැන කතා කර ඒ අනුව සැලසුම් වෙනස් කිරීම",
+  "vocabulary": [
+    {
+      "word": "forecast",
+      "reading": "ෆෝර්කාස්ට්",
+      "meaning": "අනාවැකිය",
+      "example": "forecast",
+      "translation": "අනාවැකිය",
+      "exampleReading": "ෆෝර්කාස්ට්"
+    },
+    {
+      "word": "shower",
+      "reading": "ෂවර්",
+      "meaning": "තද වැස්ස",
+      "example": "shower",
+      "translation": "තද වැස්ස",
+      "exampleReading": "ෂවර්"
+    },
+    {
+      "word": "windy",
+      "reading": "වින්ඩි",
+      "meaning": "සුළං සහිත",
+      "example": "windy",
+      "translation": "සුළං සහිත",
+      "exampleReading": "වින්ඩි"
+    },
+    {
+      "word": "cloudy",
+      "reading": "ක්ලවුඩි",
+      "meaning": "වලාකුළු සහිත",
+      "example": "cloudy",
+      "translation": "වලාකුළු සහිත",
+      "exampleReading": "ක්ලවුඩි"
+    },
+    {
+      "word": "temperature",
+      "reading": "ටෙම්පරචර්",
+      "meaning": "උෂ්ණත්වය",
+      "example": "temperature",
+      "translation": "උෂ්ණත්වය",
+      "exampleReading": "ටෙම්පරචර්"
+    },
+    {
+      "word": "take along",
+      "reading": "ටේක් අලොං",
+      "meaning": "ගෙන යන්න",
+      "example": "take along",
+      "translation": "ගෙන යන්න",
+      "exampleReading": "ටේක් අලොං"
+    },
+    {
+      "word": "cancel",
+      "reading": "කැන්සල්",
+      "meaning": "අවලංගු කරන්න",
+      "example": "cancel",
+      "translation": "අවලංගු කරන්න",
+      "exampleReading": "කැන්සල්"
+    },
+    {
+      "word": "postpone",
+      "reading": "පෝස්ට්පෝන්",
+      "meaning": "කල් දමන්න",
+      "example": "postpone",
+      "translation": "කල් දමන්න",
+      "exampleReading": "පෝස්ට්පෝන්"
+    }
+  ],
+  "grammarTitle": "Grammar",
+  "grammar": "Use “if it is...” for conditions and “might” for possibilities.",
+  "grammarTerms": [
+    {
+      "text": "According to the forecast, it will rain tomorrow.",
+      "reading": "අකෝර්ඩින් ටු දි ෆෝර්කාස්ට් ඉට් විල් රේන් ටුමාරෝ.",
+      "meaning": "අනාවැකිය අනුව හෙට වැසි වැටේවි."
+    }
+  ],
+  "examples": [
+    {
+      "text": "According to the forecast, it will rain tomorrow.",
+      "reading": "අකෝර්ඩින් ටු දි ෆෝර්කාස්ට් ඉට් විල් රේන් ටුමාරෝ.",
+      "meaning": "අනාවැකිය අනුව හෙට වැසි වැටේවි."
+    },
+    {
+      "text": "If it is cold, I will take a jacket.",
+      "reading": "ඉෆ් ඉට් ඉස් කෝල්ඩ් අයි විල් ටේක් අ ජැකට්.",
+      "meaning": "සීතල වුණොත් මම ජැකට් එකක් ගෙන යනවා."
+    },
+    {
+      "text": "We might postpone the trip.",
+      "reading": "වී මයිට් පෝස්ට්පෝන් දි ට්‍රිප්.",
+      "meaning": "සමහරවිට අපි සංචාරය කල් දමාවි."
+    }
+  ],
+  "dialogue": [
+    {
+      "text": "According to the forecast, it will rain tomorrow.",
+      "reading": "අකෝර්ඩින් ටු දි ෆෝර්කාස්ට් ඉට් විල් රේන් ටුමාරෝ.",
+      "meaning": "අනාවැකිය අනුව හෙට වැසි වැටේවි."
+    },
+    {
+      "text": "If it is cold, I will take a jacket.",
+      "reading": "ඉෆ් ඉට් ඉස් කෝල්ඩ් අයි විල් ටේක් අ ජැකට්.",
+      "meaning": "සීතල වුණොත් මම ජැකට් එකක් ගෙන යනවා."
+    },
+    {
+      "text": "We might postpone the trip.",
+      "reading": "වී මයිට් පෝස්ට්පෝන් දි ට්‍රිප්.",
+      "meaning": "සමහරවිට අපි සංචාරය කල් දමාවි."
+    },
+    {
+      "text": "According to the forecast, it will rain tomorrow.",
+      "reading": "අකෝර්ඩින් ටු දි ෆෝර්කාස්ට් ඉට් විල් රේන් ටුමාරෝ.",
+      "meaning": "අනාවැකිය අනුව හෙට වැසි වැටේවි."
+    }
+  ],
+  "listeningPractice": {
+    "prompt": "Listen and choose the meaning: “According to the forecast, it will rain tomorrow.”",
+    "audio": "According to the forecast, it will rain tomorrow.",
+    "reading": "අකෝර්ඩින් ටු දි ෆෝර්කාස්ට් ඉට් විල් රේන් ටුමාරෝ.",
+    "options": [
+      "අනාවැකිය අනුව හෙට වැසි වැටේවි.",
+      "සීතල වුණොත් මම ජැකට් එකක් ගෙන යනවා.",
+      "සමහරවිට අපි සංචාරය කල් දමාවි."
+    ],
+    "answer": 0
+  },
+  "practice": [
+    {
+      "prompt": "Choose the word meaning “අනාවැකිය”.",
+      "options": [
+        "forecast",
+        "shower",
+        "windy"
+      ],
+      "answer": 0,
+      "explanation": "forecast = අනාවැකිය"
+    },
+    {
+      "prompt": "Choose the word meaning “තද වැස්ස”.",
+      "options": [
+        "forecast",
+        "shower",
+        "windy"
+      ],
+      "answer": 1,
+      "explanation": "shower = තද වැස්ස"
+    },
+    {
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "According to the forecast, it will rain tomorrow.",
+        "If it is cold, I will take a jacket.",
+        "We might postpone the trip."
+      ],
+      "answer": 0,
+      "explanation": "අනාවැකිය අනුව හෙට වැසි වැටේවි."
+    },
+    {
+      "prompt": "Choose the final line of the dialogue.",
+      "options": [
+        "According to the forecast, it will rain tomorrow.",
+        "We might postpone the trip.",
+        "If it is cold, I will take a jacket."
+      ],
+      "answer": 1,
+      "explanation": "සමහරවිට අපි සංචාරය කල් දමාවි."
+    }
+  ]
+},
+{
+  "id": "en-a2-l40",
+  "unit": "අතීත අත්දැකීම් විස්තර කිරීම",
+  "title": "A2 · Lesson 40 · Describing a past experience and event",
+  "objective": "අතීත සිදුවීමක් අනුපිළිවෙළින් විස්තර කර අදහස් ප්‍රකාශ කිරීම",
+  "vocabulary": [
+    {
+      "word": "experience",
+      "reading": "ඉක්ස්පීරියන්ස්",
+      "meaning": "අත්දැකීම",
+      "example": "experience",
+      "translation": "අත්දැකීම",
+      "exampleReading": "ඉක්ස්පීරියන්ස්"
+    },
+    {
+      "word": "event",
+      "reading": "ඉවෙන්ට්",
+      "meaning": "සිදුවීම",
+      "example": "event",
+      "translation": "සිදුවීම",
+      "exampleReading": "ඉවෙන්ට්"
+    },
+    {
+      "word": "last week",
+      "reading": "ලාස්ට් වීක්",
+      "meaning": "පසුගිය සතියේ",
+      "example": "last week",
+      "translation": "පසුගිය සතියේ",
+      "exampleReading": "ලාස්ට් වීක්"
+    },
+    {
+      "word": "suddenly",
+      "reading": "සඩන්ලි",
+      "meaning": "හදිසියේ",
+      "example": "suddenly",
+      "translation": "හදිසියේ",
+      "exampleReading": "සඩන්ලි"
+    },
+    {
+      "word": "decide",
+      "reading": "ඩිසයිඩ්",
+      "meaning": "තීරණය කරන්න",
+      "example": "decide",
+      "translation": "තීරණය කරන්න",
+      "exampleReading": "ඩිසයිඩ්"
+    },
+    {
+      "word": "visit",
+      "reading": "විසිට්",
+      "meaning": "සංචාරය කරන්න",
+      "example": "visit",
+      "translation": "සංචාරය කරන්න",
+      "exampleReading": "විසිට්"
+    },
+    {
+      "word": "forget",
+      "reading": "ෆර්ගෙට්",
+      "meaning": "අමතක කරන්න",
+      "example": "forget",
+      "translation": "අමතක කරන්න",
+      "exampleReading": "ෆර්ගෙට්"
+    },
+    {
+      "word": "remember",
+      "reading": "රිමෙම්බර්",
+      "meaning": "මතක තබාගන්න",
+      "example": "remember",
+      "translation": "මතක තබාගන්න",
+      "exampleReading": "රිමෙම්බර්"
+    }
+  ],
+  "grammarTitle": "Grammar",
+  "grammar": "Use the past simple to describe completed events and sequencing words to tell a story.",
+  "grammarTerms": [
+    {
+      "text": "Last week, I visited a friend.",
+      "reading": "ලාස්ට් වීක් අයි විසිටඩ් අ ෆ්‍රෙන්ඩ්.",
+      "meaning": "පසුගිය සතියේ මම මිතුරෙකු හමුවීමට ගියා."
+    }
+  ],
+  "examples": [
+    {
+      "text": "Last week, I visited a friend.",
+      "reading": "ලාස්ට් වීක් අයි විසිටඩ් අ ෆ්‍රෙන්ඩ්.",
+      "meaning": "පසුගිය සතියේ මම මිතුරෙකු හමුවීමට ගියා."
+    },
+    {
+      "text": "Suddenly, it started to rain.",
+      "reading": "සඩන්ලි ඉට් ස්ටාර්ටඩ් ටු රේන්.",
+      "meaning": "හදිසියේ වැස්ස පටන් ගත්තා."
+    },
+    {
+      "text": "It was very interesting.",
+      "reading": "ඉට් වස් වෙරි ඉන්ට්‍රස්ටින්.",
+      "meaning": "එය ඉතා රසවත් වුණා."
+    }
+  ],
+  "dialogue": [
+    {
+      "text": "Last week, I visited a friend.",
+      "reading": "ලාස්ට් වීක් අයි විසිටඩ් අ ෆ්‍රෙන්ඩ්.",
+      "meaning": "පසුගිය සතියේ මම මිතුරෙකු හමුවීමට ගියා."
+    },
+    {
+      "text": "Suddenly, it started to rain.",
+      "reading": "සඩන්ලි ඉට් ස්ටාර්ටඩ් ටු රේන්.",
+      "meaning": "හදිසියේ වැස්ස පටන් ගත්තා."
+    },
+    {
+      "text": "It was very interesting.",
+      "reading": "ඉට් වස් වෙරි ඉන්ට්‍රස්ටින්.",
+      "meaning": "එය ඉතා රසවත් වුණා."
+    },
+    {
+      "text": "Last week, I visited a friend.",
+      "reading": "ලාස්ට් වීක් අයි විසිටඩ් අ ෆ්‍රෙන්ඩ්.",
+      "meaning": "පසුගිය සතියේ මම මිතුරෙකු හමුවීමට ගියා."
+    }
+  ],
+  "listeningPractice": {
+    "prompt": "Listen and choose the meaning: “Last week, I visited a friend.”",
+    "audio": "Last week, I visited a friend.",
+    "reading": "ලාස්ට් වීක් අයි විසිටඩ් අ ෆ්‍රෙන්ඩ්.",
+    "options": [
+      "පසුගිය සතියේ මම මිතුරෙකු හමුවීමට ගියා.",
+      "හදිසියේ වැස්ස පටන් ගත්තා.",
+      "එය ඉතා රසවත් වුණා."
+    ],
+    "answer": 0
+  },
+  "practice": [
+    {
+      "prompt": "Choose the word meaning “අත්දැකීම”.",
+      "options": [
+        "experience",
+        "event",
+        "last week"
+      ],
+      "answer": 0,
+      "explanation": "experience = අත්දැකීම"
+    },
+    {
+      "prompt": "Choose the word meaning “සිදුවීම”.",
+      "options": [
+        "experience",
+        "event",
+        "last week"
+      ],
+      "answer": 1,
+      "explanation": "event = සිදුවීම"
+    },
+    {
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "Last week, I visited a friend.",
+        "Suddenly, it started to rain.",
+        "It was very interesting."
+      ],
+      "answer": 0,
+      "explanation": "පසුගිය සතියේ මම මිතුරෙකු හමුවීමට ගියා."
+    },
+    {
+      "prompt": "Choose the final line of the dialogue.",
+      "options": [
+        "Last week, I visited a friend.",
+        "It was very interesting.",
+        "Suddenly, it started to rain."
+      ],
+      "answer": 1,
+      "explanation": "එය ඉතා රසවත් වුණා."
+    }
+  ]
+}
 ];
