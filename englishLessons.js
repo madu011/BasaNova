@@ -1033,4 +1033,43 @@ practice:[
 {prompt:"Choose “ඒක මට ගැළපෙනවා”.",options:["I'm not sure.","That works for me.","Maybe tomorrow."],readings:["අයිම් නොට් ෂුවර්.","දැට් වර්ක්ස් ෆෝ මී.","මේබි ටුමොරෝ."],answer:1,explanation:"That works for me = ඒක මට ගැළපෙනවා."},
 {prompt:"How do you suggest meeting at five?",options:["Let's meet at five.","I work at five.","It's five minutes."],readings:["ලෙට්ස් මීට් ඇට් ෆයිව්.","අයි වර්ක් ඇට් ෆයිව්.","ඉට්ස් ෆයිව් මිනිට්ස්."],answer:0,explanation:"Let's meet at five = අපි පහට හමුවෙමු."}]}
 
+
+,
+{
+id:"en-a1-u7-l2",unit:"Being late and apologising",title:"Lesson 30 · Being late and apologising",objective:"Say that you are late, give a simple reason and tell someone when you will arrive.",
+vocabulary:[
+{word:"Late",reading:"ලේට්",meaning:"පරක්කු",example:"Sorry, I am late.",exampleReading:"සොරි, අයි ඇම් ලේට්.",translation:"සමාවෙන්න, මම පරක්කුයි."},
+{word:"Sorry",reading:"සොරි",meaning:"සමාවෙන්න",example:"Sorry for being late.",exampleReading:"සොරි ෆෝ බීඉං ලේට්.",translation:"පරක්කු වුණාට සමාවෙන්න."},
+{word:"Bus",reading:"බස්",meaning:"බස් රථය",example:"The bus is late.",exampleReading:"දි බස් ඉස් ලේට්.",translation:"බස් එක පරක්කුයි."},
+{word:"Traffic",reading:"ට්‍රැෆික්",meaning:"වාහන තදබදය",example:"There is a lot of traffic.",exampleReading:"දෙයාර් ඉස් අ ලොට් ඔෆ් ට්‍රැෆික්.",translation:"වාහන තදබදය ගොඩක් තියෙනවා."},
+{word:"Arrive",reading:"අරයිව්",meaning:"ළඟා වෙනවා / පැමිණෙනවා",example:"I will arrive soon.",exampleReading:"අයි විල් අරයිව් සූන්.",translation:"මම ඉක්මනින් එනවා."},
+{word:"In ten minutes",reading:"ඉන් ටෙන් මිනිට්ස්",meaning:"විනාඩි දහයකින්",example:"I will be there in ten minutes.",exampleReading:"අයි විල් බී දෙයාර් ඉන් ටෙන් මිනිට්ස්.",translation:"මම විනාඩි දහයකින් එතැනට එනවා."},
+{word:"No problem",reading:"නෝ ප්‍රොබ්ලම්",meaning:"ප්‍රශ්නයක් නැහැ",example:"No problem. Take your time.",exampleReading:"නෝ ප්‍රොබ්ලම්. ටේක් යෝර් ටයිම්.",translation:"ප්‍රශ්නයක් නැහැ. හෙමින් එන්න."},
+{word:"Let someone know",reading:"ලෙට් සම්වන් නෝ",meaning:"කෙනෙකුට දැනුම් දෙනවා",example:"Please let me know when you arrive.",exampleReading:"ප්ලීස් ලෙට් මී නෝ වෙන් යූ අරයිව්.",translation:"ඔයා ආවම මට දැනුම් දෙන්න."}],
+grammarTitle:"Grammar · Explaining that you are late",grammar:"Use “I'm late” to say you are not on time. Add a reason with “because”: “I'm late because the bus is late.” Use “I'll be there in ten minutes” to give an estimated arrival time. “Sorry for being late” is a polite apology.",
+grammarTerms:[
+{text:"Sorry for being late.",reading:"සොරි ෆෝ බීඉං ලේට්.",meaning:"පරක්කු වුණාට සමාවෙන්න."},
+{text:"The bus is late.",reading:"දි බස් ඉස් ලේට්.",meaning:"බස් එක පරක්කුයි."},
+{text:"There is a lot of traffic.",reading:"දෙයාර් ඉස් අ ලොට් ඔෆ් ට්‍රැෆික්.",meaning:"වාහන තදබදය ගොඩක් තියෙනවා."},
+{text:"I'll be there in ten minutes.",reading:"අයිල් බී දෙයාර් ඉන් ටෙන් මිනිට්ස්.",meaning:"මම විනාඩි දහයකින් එතැනට එනවා."},
+{text:"Please let me know when you arrive.",reading:"ප්ලීස් ලෙට් මී නෝ වෙන් යූ අරයිව්.",meaning:"ඔයා ආවම මට දැනුම් දෙන්න."}],
+examples:[
+{text:"Sorry, I'm late because the bus is late.",reading:"සොරි, අයිම් ලේට් බිකෝස් දි බස් ඉස් ලේට්.",meaning:"සමාවෙන්න, බස් එක පරක්කු නිසා මම පරක්කුයි."},
+{text:"There is a lot of traffic today.",reading:"දෙයාර් ඉස් අ ලොට් ඔෆ් ට්‍රැෆික් ටුඩේ.",meaning:"අද වාහන තදබදය ගොඩක් තියෙනවා."},
+{text:"I'll be there in five minutes.",reading:"අයිල් බී දෙයාර් ඉන් ෆයිව් මිනිට්ස්.",meaning:"මම විනාඩි පහකින් එතැනට එනවා."},
+{text:"Thank you for waiting.",reading:"තෑන්ක් යූ ෆෝ වේටින්.",meaning:"බලාගෙන හිටියාට ස්තුතියි."}],
+dialogue:[
+{text:"Where are you? We're waiting.",reading:"වෙයාර් ආර් යූ? වීර් වේටින්.",meaning:"ඔයා කොහෙද? අපි බලාගෙන ඉන්නවා."},
+{text:"Sorry, I'm late.",reading:"සොරි, අයිම් ලේට්.",meaning:"සමාවෙන්න, මම පරක්කුයි."},
+{text:"What happened?",reading:"වොට් හැපන්ඩ්?",meaning:"මොකක්ද වුණේ?"},
+{text:"The bus is late. I'll be there in ten minutes.",reading:"දි බස් ඉස් ලේට්. අයිල් බී දෙයාර් ඉන් ටෙන් මිනිට්ස්.",meaning:"බස් එක පරක්කුයි. මම විනාඩි දහයකින් එතැනට එනවා."},
+{text:"No problem. See you soon.",reading:"නෝ ප්‍රොබ්ලම්. සී යූ සූන්.",meaning:"ප්‍රශ්නයක් නැහැ. ඉක්මනින් හමුවෙමු."},
+{text:"Thanks for waiting. I'll let you know when I arrive.",reading:"තෑන්ක්ස් ෆෝ වේටින්. අයිල් ලෙට් යූ නෝ වෙන් අයි අරයිව්.",meaning:"බලාගෙන හිටියාට ස්තුතියි. මම ආවම දැනුම් දෙන්නම්."}],
+listeningPractice:{prompt:"Listen and choose the correct Sinhala meaning: “I'll be there in ten minutes.”",audio:"I'll be there in ten minutes.",options:["මම විනාඩි දහයකින් එතැනට එනවා.","මම විනාඩි දහයක් එතැන ඉන්නවා.","මම විනාඩි දහයකට කලින් ආවා."],readings:["අයිල් බී දෙයාර් ඉන් ටෙන් මිනිට්ස්.","අයිම් දෙයාර් ෆෝ ටෙන් මිනිට්ස්.","අයි කේම් ටෙන් මිනිට්ස් අගෝ."],answer:0,meaning:"I'll be there in ten minutes = මම විනාඩි දහයකින් එතැනට එනවා."},
+practice:[
+{prompt:"Choose the English word for “පරක්කු”.",options:["Early","Late","Ready"],readings:["අර්ලි","ලේට්","රෙඩි"],answer:1,explanation:"Late = පරක්කු."},
+{prompt:"How do you say “බස් එක පරක්කුයි”?",options:["The bus is late.","The bus is here.","I need a bus."],readings:["දි බස් ඉස් ලේට්.","දි බස් ඉස් හියර්.","අයි නීඩ් අ බස්."],answer:0,explanation:"The bus is late = බස් එක පරක්කුයි."},
+{prompt:"Choose “මම විනාඩි දහයකින් එතැනට එනවා”.",options:["I was there yesterday.","I'll be there in ten minutes.","I am ten minutes late."],readings:["අයි වොස් දෙයාර් යෙස්ටර්ඩේ.","අයිල් බී දෙයාර් ඉන් ටෙන් මිනිට්ස්.","අයි ඇම් ටෙන් මිනිට්ස් ලේට්."],answer:1,explanation:"I'll be there in ten minutes = මම විනාඩි දහයකින් එතැනට එනවා."},
+{prompt:"How do you politely apologise?",options:["Sorry for being late.","Where is the bus?","No, thank you."],readings:["සොරි ෆෝ බීඉං ලේට්.","වෙයාර් ඉස් දි බස්?","නෝ, තෑන්ක් යූ."],answer:0,explanation:"Sorry for being late = පරක්කු වුණාට සමාවෙන්න."}]}
+
 ];
