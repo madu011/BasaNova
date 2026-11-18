@@ -1554,5 +1554,82 @@ practice:[
 {prompt:"“ඖෂධහල” යන වචනය?",options:["Termin","Pregled","Apoteka"],answer:2,explanation:"Apoteka = ඖෂධහල."},
 {prompt:"“මට පරීක්ෂාවක් වෙන්කරගන්න ඕනේ” තෝරන්න.",options:["Želim da zakažem pregled.","Imam recept.","Boli me grlo."],answer:0,explanation:"Želim da zakažem pregled = මට පරීක්ෂාවක් වෙන්කරගන්න ඕනේ."}]
 }
+,
+{
+id:"sr-a1-u10-l6",unit:"හදිසි සේවා සහ උදව් ඉල්ලීම",title:"පාඩම 27 · හදිසි සේවා සහ උදව් ඉල්ලීම",objective:"හදිසි අවස්ථාවකදී උපකාර ඉල්ලීම, අවශ්‍ය සේවාව හඳුනාගැනීම සහ තම ස්ථානය පැහැදිලි කිරීම.",
+vocabulary:[
+{word:"Hitna pomoć",reading:"හිත්නා පොමොච්",meaning:"හදිසි වෛද්‍ය සේවාව",example:"Pozovite hitnu pomoć.",exampleReading:"පොසොවිතෙ හිත්නු පොමොච්.",translation:"හදිසි වෛද්‍ය සේවාව අමතන්න."},
+{word:"Policija",reading:"පොලිත්සියා",meaning:"පොලීසිය",example:"Pozovite policiju, molim.",exampleReading:"පොසොවිතෙ පොලිත්සියු, මොලීම්.",translation:"කරුණාකර පොලීසිය අමතන්න."},
+{word:"Vatrogasci",reading:"වතොරොගාස්ත්සි",meaning:"ගිනි නිවන සේවාව",example:"Gde su vatrogasci?",exampleReading:"ග්දේ සු වතොරොගාස්ත්සි?",translation:"ගිනි නිවන සේවාව කොහෙද?"},
+{word:"Pomoć",reading:"පොමොච්",meaning:"උදව්ව / උපකාරය",example:"Treba mi pomoć.",exampleReading:"ත්‍රෙබා මි පොමොච්.",translation:"මට උදව් අවශ්‍යයි."},
+{word:"Hitno",reading:"හිත්නො",meaning:"හදිසියි",example:"Ovo je hitno.",exampleReading:"ඔවො යේ හිත්නො.",translation:"මේක හදිසි අවස්ථාවක්."},
+{word:"Adresa",reading:"අද්‍රෙසා",meaning:"ලිපිනය",example:"Moja adresa je u ovoj ulici.",exampleReading:"මොයා අද්‍රෙසා යේ උ ඔවොයි උලිත්සි.",translation:"මගේ ලිපිනය මේ වීදියේයි."},
+{word:"Izgubio sam se",reading:"ඉස්ගුබියො සාම් සේ",meaning:"මට මඟ වැරදුණා (පිරිමි කථිකයා)",example:"Izvinite, izgubio sam se.",exampleReading:"ඉස්විනිතෙ, ඉස්ගුබියො සාම් සේ.",translation:"සමාවෙන්න, මට මඟ වැරදුණා."},
+{word:"Gde sam?",reading:"ග්දේ සාම්?",meaning:"මම ඉන්නේ කොහෙද?",example:"Ne znam gde sam.",exampleReading:"නේ සාම් ග්දේ සාම්.",translation:"මම ඉන්නේ කොහෙද කියලා මට දන්නේ නැහැ."}],
+grammarTitle:"ව්‍යාකරණය · හදිසි අවස්ථාවක උදව් ඉල්ලීම",
+grammar:"“Treba mi pomoć” යනු “මට උදව් අවශ්‍යයි” යන්නයි. “Pozovite ...” යනු ගෞරවාන්විතව සේවාවක් අමතන්න කියන ඉල්ලීමකි. හදිසි සේවාව අමතන විට ඔබ සිටින ස්ථානය සහ සිදුවී ඇති දේ සරලව පැහැදිලි කරන්න. සැබෑ හදිසි අවස්ථාවකදී ප්‍රාදේශීය හදිසි සේවා අමතන්න.",
+grammarTerms:[
+{sr:"Treba mi pomoć.",si:"මට උදව් අවශ්‍යයි.",reading:"ත්‍රෙබා මි පොමොච්."},
+{sr:"Ovo je hitno.",si:"මේක හදිසියි.",reading:"ඔවො යේ හිත්නො."},
+{sr:"Pozovite hitnu pomoć.",si:"හදිසි වෛද්‍ය සේවාව අමතන්න.",reading:"පොසොවිතෙ හිත්නු පොමොච්."},
+{sr:"Moja adresa je ...",si:"මගේ ලිපිනය ...",reading:"මොයා අද්‍රෙසා යේ ..."},
+{sr:"Ne znam gde sam.",si:"මම ඉන්නේ කොහෙද කියලා මට දන්නේ නැහැ.",reading:"නේ සාම් ග්දේ සාම්."}],
+examples:[
+{sr:"Molim vas, treba mi pomoć.",reading:"මොලීම් වාස්, ත්‍රෙබා මි පොමොච්.",si:"කරුණාකර, මට උදව් අවශ්‍යයි."},
+{sr:"Ovo je hitno. Pozovite policiju.",reading:"ඔවො යේ හිත්නො. පොසොවිතෙ පොලිත්සියු.",si:"මේක හදිසියි. පොලීසිය අමතන්න."},
+{sr:"Nalazim se u Ulici Knez Mihailovoj.",reading:"නාලාසිම් සේ උ උලිත්සි ක්නෙස් මිහායිලොවොයි.",si:"මම ක්නෙස් මිහායිලෝවා වීදියේ ඉන්නේ."},
+{sr:"Izvinite, izgubio sam se. Možete li da mi pomognete?",reading:"ඉස්විනිතෙ, ඉස්ගුබියො සාම් සේ. මොෂෙතෙ ලි දා මි පොමොග්නෙතෙ?",si:"සමාවෙන්න, මට මඟ වැරදුණා. මට උදව් කරන්න පුළුවන්ද?"}],
+dialogue:[
+{sr:"Izvinite, treba mi pomoć.",reading:"ඉස්විනිතෙ, ත්‍රෙබා මි පොමොච්.",si:"සමාවෙන්න, මට උදව් අවශ්‍යයි."},
+{sr:"Naravno. Šta se dogodilo?",reading:"නාරාව්නො. ෂ්තා සේ දොගොදිලො?",si:"අනිවාර්යයෙන්. මොකක්ද සිදු වුණේ?"},
+{sr:"Izgubio sam se i ne znam adresu.",reading:"ඉස්ගුබියො සාම් සේ ඉ නේ සාම් අද්‍රෙසු.",si:"මට මඟ වැරදුණා, ලිපිනයත් මට මතක නැහැ."},
+{sr:"Gde se trenutno nalazite?",reading:"ග්දේ සේ ත්‍රෙනූත්නො නාලාසිටෙ?",si:"ඔබ දැන් සිටින්නේ කොහෙද?"},
+{sr:"Nalazim se blizu autobuske stanice.",reading:"නාලාසිම් සේ බ්ලිසු ආවුතොබුස්කෙ ස්තානිත්සෙ.",si:"මම බස් නැවතුම්පොළ අසල ඉන්නේ."},
+{sr:"U redu. Pomoći ćemo vam.",reading:"උ රෙදු. පොමොචි චෙමො වාම්.",si:"හරි. අපි ඔබට උදව් කරන්නම්."}],
+listeningPractice:{prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Treba mi pomoć.”",audio:"Treba mi pomoć.",options:["මට උදව් අවශ්‍යයි.","මට ලිපිනය අවශ්‍යයි.","මම ගෙදර යනවා."],readings:["ත්‍රෙබා මි පොමොච්.","ත්‍රෙබා මි අද්‍රෙසා.","ඉදෙම් කුචි."],answer:0,meaning:"Treba mi pomoć. = මට උදව් අවශ්‍යයි."},
+practice:[
+{prompt:"“මට උදව් අවශ්‍යයි” කියන්නේ?",options:["Treba mi pomoć.","Gde sam?","Dobar dan."],answer:0,explanation:"Treba mi pomoć = මට උදව් අවශ්‍යයි."},
+{prompt:"“පොලීසිය” යන වචනය තෝරන්න.",options:["Apoteka","Policija","Pošta"],answer:1,explanation:"Policija = පොලීසිය."},
+{prompt:"“මේක හදිසියි” කියන්නේ?",options:["Ovo je hitno.","Ovo je dobro.","Gde je stanica?"],answer:0,explanation:"Ovo je hitno = මේක හදිසියි."},
+{prompt:"“හදිසි වෛද්‍ය සේවාව” යන වචන?",options:["Vatrogasci","Hitna pomoć","Adresa"],answer:1,explanation:"Hitna pomoć = හදිසි වෛද්‍ය සේවාව."}]}
+,
+{
+id:"sr-a1-u10-l7",unit:"භාණ්ඩ මාරු කිරීම සහ ආපසු දීම",title:"පාඩම 28 · භාණ්ඩ මාරු කිරීම සහ ආපසු දීම",objective:"කඩයකදී භාණ්ඩයක ගැටලුවක් පැහැදිලි කිරීම, වෙනත් ප්‍රමාණයක් ඉල්ලීම සහ මුදල් ආපසු ලබාගැනීම ගැන විමසීම.",
+vocabulary:[
+{word:"Zamena",reading:"සාමෙනා",meaning:"මාරු කිරීම / වෙනුවට ලබාදීම",example:"Želim zamenu, molim.",exampleReading:"ෂෙලිම් සාමෙනු, මොලීම්.",translation:"මට භාණ්ඩය මාරු කරගන්න ඕනේ."},
+{word:"Povraćaj novca",reading:"පොව්‍රාචායි නොව්ත්සා",meaning:"මුදල් ආපසු ලබාදීම",example:"Da li je moguć povraćaj novca?",exampleReading:"දා ලි යේ මොගුච් පොව්‍රාචායි නොව්ත්සා?",translation:"මුදල් ආපසු ලබාගන්න පුළුවන්ද?"},
+{word:"Račun",reading:"රාචුන්",meaning:"බිල / රිසිට්පත",example:"Imam račun.",exampleReading:"ඉමාම් රාචුන්.",translation:"මගේ ළඟ රිසිට්පත තියෙනවා."},
+{word:"Veličina",reading:"වෙලිචිනා",meaning:"ප්‍රමාණය",example:"Treba mi veća veličina.",exampleReading:"ත්‍රෙබා මි වෙචා වෙලිචිනා.",translation:"මට ඊට වඩා විශාල ප්‍රමාණයක් ඕනේ."},
+{word:"Malo",reading:"මාලො",meaning:"කුඩා / ටිකක්",example:"Ovo mi je malo.",exampleReading:"ඔවො මි යේ මාලො.",translation:"මේක මට කුඩා වැඩියි."},
+{word:"Veliko",reading:"වෙලිකො",meaning:"විශාල",example:"Ovo mi je veliko.",exampleReading:"ඔවො මි යේ වෙලිකො.",translation:"මේක මට විශාල වැඩියි."},
+{word:"Neispravno",reading:"නෙඉස්ප්‍රාව්නො",meaning:"දෝෂ සහිත / නිසි ලෙස ක්‍රියා නොකරන",example:"Proizvod je neispravan.",exampleReading:"ප්‍රොයිස්වොද් යේ නෙඉස්ප්‍රාවාන්.",translation:"භාණ්ඩය දෝෂ සහිතයි."},
+{word:"Drugi",reading:"ද්‍රුගි",meaning:"වෙනත් / දෙවැනි",example:"Mogu li da dobijem drugi?",exampleReading:"මොගු ලි දා දොබියෙම් ද්‍රුගි?",translation:"මට වෙනත් එකක් ලබාගන්න පුළුවන්ද?"}],
+grammarTitle:"ව්‍යාකරණය · ගැටලුවක් පැහැදිලි කිරීම සහ විකල්පයක් ඉල්ලීම",
+grammar:"“Ovo mi je malo/veliko” යනු “මේක මට කුඩා/විශාල වැඩියි” යන්නයි. “Mogu li da dobijem ...?” යනු වෙනත් භාණ්ඩයක් ඉල්ලන ආචාරශීලී රටාවකි. “Da li je moguć povraćaj novca?” යනු මුදල් ආපසු ලබාගත හැකිදැයි විමසීමයි.",
+grammarTerms:[
+{sr:"Ovo mi je malo.",si:"මේක මට කුඩා වැඩියි.",reading:"ඔවො මි යේ මාලො."},
+{sr:"Treba mi veća veličina.",si:"මට ඊට වඩා විශාල ප්‍රමාණයක් ඕනේ.",reading:"ත්‍රෙබා මි වෙචා වෙලිචිනා."},
+{sr:"Mogu li da dobijem drugi?",si:"මට වෙනත් එකක් ලබාගන්න පුළුවන්ද?",reading:"මොගු ලි දා දොබියෙම් ද්‍රුගි?"},
+{sr:"Imam račun.",si:"මගේ ළඟ රිසිට්පත තියෙනවා.",reading:"ඉමාම් රාචුන්."},
+{sr:"Da li je moguć povraćaj novca?",si:"මුදල් ආපසු ලබාගන්න පුළුවන්ද?",reading:"දා ලි යේ මොගුච් පොව්‍රාචායි නොව්ත්සා?"}],
+examples:[
+{sr:"Izvinite, ova košulja mi je mala.",reading:"ඉස්විනිතෙ, ඔවා කොෂුල්යා මි යේ මාලා.",si:"සමාවෙන්න, මේ කමිසය මට කුඩා වැඩියි."},
+{sr:"Imate li veću veličinu?",reading:"ඉමාතෙ ලි වෙචු වෙලිචිනු?",si:"ඔබ ළඟ ඊට වඩා විශාල ප්‍රමාණයක් තියෙනවාද?"},
+{sr:"Proizvod je neispravan. Imam račun.",reading:"ප්‍රොයිස්වොද් යේ නෙඉස්ප්‍රාවාන්. ඉමාම් රාචුන්.",si:"භාණ්ඩය දෝෂ සහිතයි. මගේ ළඟ රිසිට්පත තියෙනවා."},
+{sr:"Da li mogu da zamenim ovaj proizvod?",reading:"දා ලි මොගු දා සාමෙනිම් ඔවායි ප්‍රොයිස්වොද්?",si:"මට මේ භාණ්ඩය මාරු කරගන්න පුළුවන්ද?"}],
+dialogue:[
+{sr:"Dobar dan. Mogu li da vam pomognem?",reading:"දොබාර් දාන්. මොගු ලි දා වාම් පොමොග්නෙම්?",si:"සුබ දවසක්. මට ඔබට උදව් කරන්න පුළුවන්ද?"},
+{sr:"Da, ova košulja mi je mala.",reading:"දා, ඔවා කොෂුල්යා මි යේ මාලා.",si:"ඔව්, මේ කමිසය මට කුඩා වැඩියි."},
+{sr:"Koju veličinu tražite?",reading:"කොයු වෙලිචිනු ත්‍රාෂිතෙ?",si:"ඔබ සොයන්නේ කුමන ප්‍රමාණයද?"},
+{sr:"Treba mi veća veličina.",reading:"ත්‍රෙබා මි වෙචා වෙලිචිනා.",si:"මට ඊට වඩා විශාල ප්‍රමාණයක් ඕනේ."},
+{sr:"Naravno. Evo druge veličine.",reading:"නාරාව්නො. එවො ද්‍රුගෙ වෙලිචිනෙ.",si:"අනිවාර්යයෙන්. මෙන්න වෙනත් ප්‍රමාණයක්."},
+{sr:"Hvala. Mogu li da platim karticom?",reading:"හ්වාලා. මොගු ලි දා ප්ලාතිම් කාර්තිත්සොම්?",si:"ස්තුතියි. මට කාඩ්පතෙන් ගෙවන්න පුළුවන්ද?"}],
+listeningPractice:{prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Imam račun.”",audio:"Imam račun.",options:["මගේ ළඟ රිසිට්පත තියෙනවා.","මට වෙනත් ප්‍රමාණයක් ඕනේ.","භාණ්ඩය අලුත්."],readings:["ඉමාම් රාචුන්.","ත්‍රෙබා මි වෙචා වෙලිචිනා.","ප්‍රොයිස්වොද් යේ නොව්."],answer:0,meaning:"Imam račun. = මගේ ළඟ රිසිට්පත තියෙනවා."},
+practice:[
+{prompt:"“රිසිට්පත” යන වචනය?",options:["Račun","Veličina","Zamena"],answer:0,explanation:"Račun = බිල / රිසිට්පත."},
+{prompt:"“මේක මට කුඩා වැඩියි” කියන්නේ?",options:["Ovo mi je veliko.","Ovo mi je malo.","Ovo je novo."],answer:1,explanation:"Ovo mi je malo = මේක මට කුඩා වැඩියි."},
+{prompt:"“මාරු කිරීම” යන වචනය?",options:["Povraćaj","Zamena","Adresa"],answer:1,explanation:"Zamena = භාණ්ඩය මාරු කිරීම."},
+{prompt:"මුදල් ආපසු ලබාගැනීම ගැන අසන වාක්‍යය තෝරන්න.",options:["Da li je moguć povraćaj novca?","Koliko je sati?","Gde je pošta?"],answer:0,explanation:"Da li je moguć povraćaj novca? = මුදල් ආපසු ලබාගන්න පුළුවන්ද?"}]}
+
 
 ];
