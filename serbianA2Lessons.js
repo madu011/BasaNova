@@ -5774,5 +5774,830 @@ export const SERBIAN_A2_LESSONS = [
         "explanation": "ඔව්, උද්‍යානය අසලම තියෙනවා."
       }
     ]
-  }
+  },
+{
+  "id": "sr-a2-l36",
+  "unit": "ගමන් සැලසුම් කිරීම",
+  "title": "A2 · පාඩම 36 · ගමන් සැලසුම් කිරීම සහ නවාතැන් වෙන්කරවා ගැනීම",
+  "objective": "ගමනක් සැලසුම් කර ප්‍රවාහනය සහ නවාතැන් ගැන විමසීම",
+  "vocabulary": [
+    {
+      "word": "putovanje",
+      "reading": "පුතොවාන්යෙ",
+      "meaning": "ගමන",
+      "example": "putovanje",
+      "translation": "ගමන"
+    },
+    {
+      "word": "rezervacija",
+      "reading": "රෙසෙර්වාත්සියා",
+      "meaning": "වෙන්කිරීම",
+      "example": "rezervacija",
+      "translation": "වෙන්කිරීම"
+    },
+    {
+      "word": "smeštaj",
+      "reading": "ස්මෙෂ්තායි",
+      "meaning": "නවාතැන්",
+      "example": "smeštaj",
+      "translation": "නවාතැන්"
+    },
+    {
+      "word": "prenoćište",
+      "reading": "ප්‍රෙනොචිෂ්තෙ",
+      "meaning": "රාත්‍රී නවාතැන",
+      "example": "prenoćište",
+      "translation": "රාත්‍රී නවාතැන"
+    },
+    {
+      "word": "polazak",
+      "reading": "පොලාසාක්",
+      "meaning": "පිටත්වීම",
+      "example": "polazak",
+      "translation": "පිටත්වීම"
+    },
+    {
+      "word": "dolazak",
+      "reading": "දොලාසාක්",
+      "meaning": "පැමිණීම",
+      "example": "dolazak",
+      "translation": "පැමිණීම"
+    },
+    {
+      "word": "prtljag",
+      "reading": "ප්‍ර්ත්ල්යාග්",
+      "meaning": "ගමන් මලු",
+      "example": "prtljag",
+      "translation": "ගමන් මලු"
+    },
+    {
+      "word": "slobodno mesto",
+      "reading": "ස්ලොබොද්නො මෙස්තො",
+      "meaning": "හිස් ස්ථානය",
+      "example": "slobodno mesto",
+      "translation": "හිස් ස්ථානය"
+    }
+  ],
+  "grammarTitle": "ව්‍යාකරණය",
+  "grammar": "අනාගත සැලසුම් සඳහා “planiram da + වර්තමාන ක්‍රියාපදය” භාවිතා කරන්න. ආචාරශීලී ඉල්ලීමකට “Da li biste mogli...?” යොදන්න.",
+  "grammarTerms": [
+    {
+      "sr": "Planiram putovanje sledeće nedelje.",
+      "reading": "ප්ලානිрам පුතොවාන්යෙ ස්ලෙදෙචෙ නෙදෙල්යෙ.",
+      "si": "මම ලබන සතියේ ගමනක් සැලසුම් කරනවා."
+    }
+  ],
+  "examples": [
+    {
+      "sr": "Planiram putovanje sledeće nedelje.",
+      "reading": "ප්ලානිрам පුතොවාන්යෙ ස්ලෙදෙචෙ නෙදෙල්යෙ.",
+      "si": "මම ලබන සතියේ ගමනක් සැලසුම් කරනවා."
+    },
+    {
+      "sr": "Želeo bih da rezervišem sobu.",
+      "reading": "ෂෙලෙඔ බිහ් දා රෙසෙර්විෂෙම් සොබු.",
+      "si": "මම කාමරයක් වෙන්කරගන්න කැමතියි."
+    },
+    {
+      "sr": "Kada je polazak?",
+      "reading": "කාදා යේ පොලාසාක්?",
+      "si": "පිටත්වීම කවදාද?"
+    }
+  ],
+  "dialogue": [
+    {
+      "sr": "Planiram putovanje sledeće nedelje.",
+      "reading": "ප්ලානිрам පුතොවාන්යෙ ස්ලෙදෙචෙ නෙදෙල්යෙ.",
+      "si": "මම ලබන සතියේ ගමනක් සැලසුම් කරනවා."
+    },
+    {
+      "sr": "Želeo bih da rezervišem sobu.",
+      "reading": "ෂෙලෙඔ බිහ් දා රෙසෙර්විෂෙම් සොබු.",
+      "si": "මම කාමරයක් වෙන්කරගන්න කැමතියි."
+    },
+    {
+      "sr": "Kada je polazak?",
+      "reading": "කාදා යේ පොලාසාක්?",
+      "si": "පිටත්වීම කවදාද?"
+    },
+    {
+      "sr": "Planiram putovanje sledeće nedelje.",
+      "reading": "ප්ලානිрам පුතොවාන්යෙ ස්ලෙදෙචෙ නෙදෙල්යෙ.",
+      "si": "මම ලබන සතියේ ගමනක් සැලසුම් කරනවා."
+    }
+  ],
+  "listeningPractice": {
+    "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: “Planiram putovanje sledeće nedelje.”",
+    "audio": "Planiram putovanje sledeće nedelje.",
+    "reading": "ප්ලානිрам පුතොවාන්යෙ ස්ලෙදෙචෙ නෙදෙල්යෙ.",
+    "options": [
+      "මම ලබන සතියේ ගමනක් සැලසුම් කරනවා.",
+      "මම කාමරයක් වෙන්කරගන්න කැමතියි.",
+      "පිටත්වීම කවදාද?"
+    ],
+    "answer": 0
+  },
+  "practice": [
+    {
+      "prompt": "“ගමන” යන්නට ගැළපෙන වචනය තෝරන්න.",
+      "options": [
+        "putovanje",
+        "rezervacija",
+        "smeštaj"
+      ],
+      "answer": 0,
+      "explanation": "putovanje = ගමන"
+    },
+    {
+      "prompt": "“වෙන්කිරීම” යන්නට ගැළපෙන වචනය තෝරන්න.",
+      "options": [
+        "putovanje",
+        "rezervacija",
+        "smeštaj"
+      ],
+      "answer": 1,
+      "explanation": "rezervacija = වෙන්කිරීම"
+    },
+    {
+      "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+      "options": [
+        "Planiram putovanje sledeće nedelje.",
+        "Želeo bih da rezervišem sobu.",
+        "Kada je polazak?"
+      ],
+      "answer": 0,
+      "explanation": "මම ලබන සතියේ ගමනක් සැලසුම් කරනවා."
+    },
+    {
+      "prompt": "සංවාදයේ අවසාන වාක්‍යය තෝරන්න.",
+      "options": [
+        "Planiram putovanje sledeće nedelje.",
+        "Kada je polazak?",
+        "Želeo bih da rezervišem sobu."
+      ],
+      "answer": 1,
+      "explanation": "පිටත්වීම කවදාද?"
+    }
+  ]
+},
+{
+  "id": "sr-a2-l37",
+  "unit": "පාරිභෝගික පැමිණිලි සහ විසඳුම්",
+  "title": "A2 · පාඩම 37 · පැමිණිල්ලක් ඉදිරිපත් කිරීම සහ විසඳුමක් ඉල්ලීම",
+  "objective": "ගැටලුවක් පැහැදිලි කර ආචාරශීලීව විසඳුමක් ඉල්ලීම",
+  "vocabulary": [
+    {
+      "word": "problem",
+      "reading": "ප්‍රොබ්ලෙම්",
+      "meaning": "ගැටලුව",
+      "example": "problem",
+      "translation": "ගැටලුව"
+    },
+    {
+      "word": "oštećen",
+      "reading": "ඔෂ්තෙචෙන්",
+      "meaning": "හානි වූ",
+      "example": "oštećen",
+      "translation": "හානි වූ"
+    },
+    {
+      "word": "pogrešan",
+      "reading": "පොග්‍රෙෂාන්",
+      "meaning": "වැරදි",
+      "example": "pogrešan",
+      "translation": "වැරදි"
+    },
+    {
+      "word": "račun",
+      "reading": "රාචුන්",
+      "meaning": "බිල",
+      "example": "račun",
+      "translation": "බිල"
+    },
+    {
+      "word": "zamena",
+      "reading": "සාමෙනා",
+      "meaning": "මාරු කිරීම",
+      "example": "zamena",
+      "translation": "මාරු කිරීම"
+    },
+    {
+      "word": "povraćaj novca",
+      "reading": "පොව්රාචායි නොව්ත්සා",
+      "meaning": "මුදල් ආපසු ලබාදීම",
+      "example": "povraćaj novca",
+      "translation": "මුදල් ආපසු ලබාදීම"
+    },
+    {
+      "word": "reklamacija",
+      "reading": "රෙක්ලාමාත්සියා",
+      "meaning": "පැමිණිල්ල",
+      "example": "reklamacija",
+      "translation": "පැමිණිල්ල"
+    },
+    {
+      "word": "rešenje",
+      "reading": "රෙෂෙන්යෙ",
+      "meaning": "විසඳුම",
+      "example": "rešenje",
+      "translation": "විසඳුම"
+    }
+  ],
+  "grammarTitle": "ව්‍යාකරණය",
+  "grammar": "ගැටලුවක් විස්තර කිරීමට “Imam problem sa...” සහ ඉල්ලීමකට “Možete li da...?” භාවිතා කරන්න.",
+  "grammarTerms": [
+    {
+      "sr": "Imam problem sa ovim proizvodom.",
+      "reading": "ඉමාම් ප්‍රොබ්ලෙම් සා ඔවිම් ප්‍රොයිස්වොදොම්.",
+      "si": "මට මේ භාණ්ඩය සම්බන්ධ ගැටලුවක් තියෙනවා."
+    }
+  ],
+  "examples": [
+    {
+      "sr": "Imam problem sa ovim proizvodom.",
+      "reading": "ඉමාම් ප්‍රොබ්ලෙම් සා ඔවිම් ප්‍රොයිස්වොදොම්.",
+      "si": "මට මේ භාණ්ඩය සම්බන්ධ ගැටලුවක් තියෙනවා."
+    },
+    {
+      "sr": "Proizvod je oštećen.",
+      "reading": "ප්‍රොයිස්වොද් යේ ඔෂ්තෙචෙන්.",
+      "si": "භාණ්ඩය හානි වෙලා."
+    },
+    {
+      "sr": "Možete li da ga zamenite?",
+      "reading": "මොෂෙතෙ ලි දා ගා සාමෙණිතෙ?",
+      "si": "ඔබට ඒක මාරු කරලා දෙන්න පුළුවන්ද?"
+    }
+  ],
+  "dialogue": [
+    {
+      "sr": "Imam problem sa ovim proizvodom.",
+      "reading": "ඉමාම් ප්‍රොබ්ලෙම් සා ඔවිම් ප්‍රොයිස්වොදොම්.",
+      "si": "මට මේ භාණ්ඩය සම්බන්ධ ගැටලුවක් තියෙනවා."
+    },
+    {
+      "sr": "Proizvod je oštećen.",
+      "reading": "ප්‍රොයිස්වොද් යේ ඔෂ්තෙචෙන්.",
+      "si": "භාණ්ඩය හානි වෙලා."
+    },
+    {
+      "sr": "Možete li da ga zamenite?",
+      "reading": "මොෂෙතෙ ලි දා ගා සාමෙණිතෙ?",
+      "si": "ඔබට ඒක මාරු කරලා දෙන්න පුළුවන්ද?"
+    },
+    {
+      "sr": "Imam problem sa ovim proizvodom.",
+      "reading": "ඉමාම් ප්‍රොබ්ලෙම් සා ඔවිම් ප්‍රොයිස්වොදොම්.",
+      "si": "මට මේ භාණ්ඩය සම්බන්ධ ගැටලුවක් තියෙනවා."
+    }
+  ],
+  "listeningPractice": {
+    "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: “Imam problem sa ovim proizvodom.”",
+    "audio": "Imam problem sa ovim proizvodom.",
+    "reading": "ඉමාම් ප්‍රොබ්ලෙම් සා ඔවිම් ප්‍රොයිස්වොදොම්.",
+    "options": [
+      "මට මේ භාණ්ඩය සම්බන්ධ ගැටලුවක් තියෙනවා.",
+      "භාණ්ඩය හානි වෙලා.",
+      "ඔබට ඒක මාරු කරලා දෙන්න පුළුවන්ද?"
+    ],
+    "answer": 0
+  },
+  "practice": [
+    {
+      "prompt": "“ගැටලුව” යන්නට ගැළපෙන වචනය තෝරන්න.",
+      "options": [
+        "problem",
+        "oštećen",
+        "pogrešan"
+      ],
+      "answer": 0,
+      "explanation": "problem = ගැටලුව"
+    },
+    {
+      "prompt": "“හානි වූ” යන්නට ගැළපෙන වචනය තෝරන්න.",
+      "options": [
+        "problem",
+        "oštećen",
+        "pogrešan"
+      ],
+      "answer": 1,
+      "explanation": "oštećen = හානි වූ"
+    },
+    {
+      "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+      "options": [
+        "Imam problem sa ovim proizvodom.",
+        "Proizvod je oštećen.",
+        "Možete li da ga zamenite?"
+      ],
+      "answer": 0,
+      "explanation": "මට මේ භාණ්ඩය සම්බන්ධ ගැටලුවක් තියෙනවා."
+    },
+    {
+      "prompt": "සංවාදයේ අවසාන වාක්‍යය තෝරන්න.",
+      "options": [
+        "Imam problem sa ovim proizvodom.",
+        "Možete li da ga zamenite?",
+        "Proizvod je oštećen."
+      ],
+      "answer": 1,
+      "explanation": "ඔබට ඒක මාරු කරලා දෙන්න පුළුවන්ද?"
+    }
+  ]
+},
+{
+  "id": "sr-a2-l38",
+  "unit": "ආහාර පිසීම සහ වට්ටෝරු",
+  "title": "A2 · පාඩම 38 · ආහාර පිසීම සහ වට්ටෝරුවක් අනුගමනය කිරීම",
+  "objective": "අමුද්‍රව්‍ය, ප්‍රමාණ සහ ආහාර පිසීමේ පියවර විස්තර කිරීම",
+  "vocabulary": [
+    {
+      "word": "recept",
+      "reading": "රෙත්සෙප්ත්",
+      "meaning": "වට්ටෝරුව",
+      "example": "recept",
+      "translation": "වට්ටෝරුව"
+    },
+    {
+      "word": "sastojak",
+      "reading": "සාස්තොයාක්",
+      "meaning": "අමුද්‍රව්‍යය",
+      "example": "sastojak",
+      "translation": "අමුද්‍රව්‍යය"
+    },
+    {
+      "word": "brašno",
+      "reading": "බ්‍රාෂ්නො",
+      "meaning": "පිටි",
+      "example": "brašno",
+      "translation": "පිටි"
+    },
+    {
+      "word": "ulje",
+      "reading": "උල්යෙ",
+      "meaning": "තෙල්",
+      "example": "ulje",
+      "translation": "තෙල්"
+    },
+    {
+      "word": "kašika",
+      "reading": "කාෂිකා",
+      "meaning": "හැන්ද",
+      "example": "kašika",
+      "translation": "හැන්ද"
+    },
+    {
+      "word": "iseći",
+      "reading": "ඉසෙචි",
+      "meaning": "කපන්න",
+      "example": "iseći",
+      "translation": "කපන්න"
+    },
+    {
+      "word": "pomešati",
+      "reading": "පොමෙෂාති",
+      "meaning": "මිශ්‍ර කරන්න",
+      "example": "pomešati",
+      "translation": "මිශ්‍ර කරන්න"
+    },
+    {
+      "word": "kuvati",
+      "reading": "කුවාති",
+      "meaning": "උයන්න",
+      "example": "kuvati",
+      "translation": "උයන්න"
+    }
+  ],
+  "grammarTitle": "ව්‍යාකරණය",
+  "grammar": "අනුපිළිවෙළට උපදෙස් දෙන්න “Prvo”, “zatim”, “na kraju” යොදන්න. අවශ්‍යතාවට “treba mi” භාවිතා කරන්න.",
+  "grammarTerms": [
+    {
+      "sr": "Prvo iseći povrće.",
+      "reading": "ප්‍ර්වො ඉසෙචි පොව්ර්චෙ.",
+      "si": "මුලින්ම එළවළු කපන්න."
+    }
+  ],
+  "examples": [
+    {
+      "sr": "Prvo iseći povrće.",
+      "reading": "ප්‍ර්වො ඉසෙචි පොව්ර්චෙ.",
+      "si": "මුලින්ම එළවළු කපන්න."
+    },
+    {
+      "sr": "Zatim pomešati sve sastojke.",
+      "reading": "සාතිම් පොමෙෂාති ස්වේ සාස්තොයිකෙ.",
+      "si": "ඊළඟට සියලු අමුද්‍රව්‍ය මිශ්‍ර කරන්න."
+    },
+    {
+      "sr": "Kuvajte deset minuta.",
+      "reading": "කුවායිතෙ දෙසෙත් මිනුතා.",
+      "si": "විනාඩි දහයක් උයන්න."
+    }
+  ],
+  "dialogue": [
+    {
+      "sr": "Prvo iseći povrće.",
+      "reading": "ප්‍ර්වො ඉසෙචි පොව්ර්චෙ.",
+      "si": "මුලින්ම එළවළු කපන්න."
+    },
+    {
+      "sr": "Zatim pomešati sve sastojke.",
+      "reading": "සාතිම් පොමෙෂාති ස්වේ සාස්තොයිකෙ.",
+      "si": "ඊළඟට සියලු අමුද්‍රව්‍ය මිශ්‍ර කරන්න."
+    },
+    {
+      "sr": "Kuvajte deset minuta.",
+      "reading": "කුවායිතෙ දෙසෙත් මිනුතා.",
+      "si": "විනාඩි දහයක් උයන්න."
+    },
+    {
+      "sr": "Prvo iseći povrće.",
+      "reading": "ප්‍ර්වො ඉසෙචි පොව්ර්චෙ.",
+      "si": "මුලින්ම එළවළු කපන්න."
+    }
+  ],
+  "listeningPractice": {
+    "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: “Prvo iseći povrće.”",
+    "audio": "Prvo iseći povrće.",
+    "reading": "ප්‍ර්වො ඉසෙචි පොව්ර්චෙ.",
+    "options": [
+      "මුලින්ම එළවළු කපන්න.",
+      "ඊළඟට සියලු අමුද්‍රව්‍ය මිශ්‍ර කරන්න.",
+      "විනාඩි දහයක් උයන්න."
+    ],
+    "answer": 0
+  },
+  "practice": [
+    {
+      "prompt": "“වට්ටෝරුව” යන්නට ගැළපෙන වචනය තෝරන්න.",
+      "options": [
+        "recept",
+        "sastojak",
+        "brašno"
+      ],
+      "answer": 0,
+      "explanation": "recept = වට්ටෝරුව"
+    },
+    {
+      "prompt": "“අමුද්‍රව්‍යය” යන්නට ගැළපෙන වචනය තෝරන්න.",
+      "options": [
+        "recept",
+        "sastojak",
+        "brašno"
+      ],
+      "answer": 1,
+      "explanation": "sastojak = අමුද්‍රව්‍යය"
+    },
+    {
+      "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+      "options": [
+        "Prvo iseći povrće.",
+        "Zatim pomešati sve sastojke.",
+        "Kuvajte deset minuta."
+      ],
+      "answer": 0,
+      "explanation": "මුලින්ම එළවළු කපන්න."
+    },
+    {
+      "prompt": "සංවාදයේ අවසාන වාක්‍යය තෝරන්න.",
+      "options": [
+        "Prvo iseći povrće.",
+        "Kuvajte deset minuta.",
+        "Zatim pomešati sve sastojke."
+      ],
+      "answer": 1,
+      "explanation": "විනාඩි දහයක් උයන්න."
+    }
+  ]
+},
+{
+  "id": "sr-a2-l39",
+  "unit": "කාලගුණ අනාවැකි සහ සැලසුම්",
+  "title": "A2 · පාඩම 39 · කාලගුණ අනාවැකි අනුව සැලසුම් කිරීම",
+  "objective": "කාලගුණය ගැන කතා කර ඒ අනුව සැලසුම් වෙනස් කිරීම",
+  "vocabulary": [
+    {
+      "word": "prognoza",
+      "reading": "ප්‍රොග්නොසා",
+      "meaning": "අනාවැකිය",
+      "example": "prognoza",
+      "translation": "අනාවැකිය"
+    },
+    {
+      "word": "pljusak",
+      "reading": "ප්ල්යුසාක්",
+      "meaning": "තද වැස්ස",
+      "example": "pljusak",
+      "translation": "තද වැස්ස"
+    },
+    {
+      "word": "vetrovito",
+      "reading": "වෙත්‍රොවිතො",
+      "meaning": "සුළං සහිත",
+      "example": "vetrovito",
+      "translation": "සුළං සහිත"
+    },
+    {
+      "word": "oblačno",
+      "reading": "ඔබ්ලාච්නො",
+      "meaning": "වලාකුළු සහිත",
+      "example": "oblačno",
+      "translation": "වලාකුළු සහිත"
+    },
+    {
+      "word": "temperatura",
+      "reading": "තෙම්පෙරාතුරා",
+      "meaning": "උෂ්ණත්වය",
+      "example": "temperatura",
+      "translation": "උෂ්ණත්වය"
+    },
+    {
+      "word": "poneti",
+      "reading": "පොනෙති",
+      "meaning": "ගෙන යන්න",
+      "example": "poneti",
+      "translation": "ගෙන යන්න"
+    },
+    {
+      "word": "otkazati",
+      "reading": "ඔත්කාසාති",
+      "meaning": "අවලංගු කරන්න",
+      "example": "otkazati",
+      "translation": "අවලංගු කරන්න"
+    },
+    {
+      "word": "odložiti",
+      "reading": "ඔද්ලොෂිති",
+      "meaning": "කල් දමන්න",
+      "example": "odložiti",
+      "translation": "කල් දමන්න"
+    }
+  ],
+  "grammarTitle": "ව්‍යාකරණය",
+  "grammar": "අනාගත තත්ත්වයක් ගැන “Ako bude...” (එසේ වුණොත්) සහ “možda” (සමහරවිට) භාවිතා කරන්න.",
+  "grammarTerms": [
+    {
+      "sr": "Prema prognozi, sutra će padati kiša.",
+      "reading": "ප්‍රෙමා ප්‍රොග්නොසි, සුත්‍රා චෙ පාදාති කිෂා.",
+      "si": "අනාවැකිය අනුව හෙට වැසි වැටේවි."
+    }
+  ],
+  "examples": [
+    {
+      "sr": "Prema prognozi, sutra će padati kiša.",
+      "reading": "ප්‍රෙමා ප්‍රොග්නොසි, සුත්‍රා චෙ පාදාති කිෂා.",
+      "si": "අනාවැකිය අනුව හෙට වැසි වැටේවි."
+    },
+    {
+      "sr": "Ako bude hladno, poneću jaknu.",
+      "reading": "අකො බුදෙ හ්ලාද්නො, පොනෙචු යාක්නු.",
+      "si": "සීතල වුණොත් මම ජැකට් එකක් ගෙන යනවා."
+    },
+    {
+      "sr": "Možda ćemo odložiti izlet.",
+      "reading": "මොෂ්දා චෙමො ඔද්ලොෂිති ඉස්ලෙත්.",
+      "si": "සමහරවිට අපි සංචාරය කල් දමාවි."
+    }
+  ],
+  "dialogue": [
+    {
+      "sr": "Prema prognozi, sutra će padati kiša.",
+      "reading": "ප්‍රෙමා ප්‍රොග්නොසි, සුත්‍රා චෙ පාදාති කිෂා.",
+      "si": "අනාවැකිය අනුව හෙට වැසි වැටේවි."
+    },
+    {
+      "sr": "Ako bude hladno, poneću jaknu.",
+      "reading": "අකො බුදෙ හ්ලාද්නො, පොනෙචු යාක්නු.",
+      "si": "සීතල වුණොත් මම ජැකට් එකක් ගෙන යනවා."
+    },
+    {
+      "sr": "Možda ćemo odložiti izlet.",
+      "reading": "මොෂ්දා චෙමො ඔද්ලොෂිති ඉස්ලෙත්.",
+      "si": "සමහරවිට අපි සංචාරය කල් දමාවි."
+    },
+    {
+      "sr": "Prema prognozi, sutra će padati kiša.",
+      "reading": "ප්‍රෙමා ප්‍රොග්නොසි, සුත්‍රා චෙ පාදාති කිෂා.",
+      "si": "අනාවැකිය අනුව හෙට වැසි වැටේවි."
+    }
+  ],
+  "listeningPractice": {
+    "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: “Prema prognozi, sutra će padati kiša.”",
+    "audio": "Prema prognozi, sutra će padati kiša.",
+    "reading": "ප්‍රෙමා ප්‍රොග්නොසි, සුත්‍රා චෙ පාදාති කිෂා.",
+    "options": [
+      "අනාවැකිය අනුව හෙට වැසි වැටේවි.",
+      "සීතල වුණොත් මම ජැකට් එකක් ගෙන යනවා.",
+      "සමහරවිට අපි සංචාරය කල් දමාවි."
+    ],
+    "answer": 0
+  },
+  "practice": [
+    {
+      "prompt": "“අනාවැකිය” යන්නට ගැළපෙන වචනය තෝරන්න.",
+      "options": [
+        "prognoza",
+        "pljusak",
+        "vetrovito"
+      ],
+      "answer": 0,
+      "explanation": "prognoza = අනාවැකිය"
+    },
+    {
+      "prompt": "“තද වැස්ස” යන්නට ගැළපෙන වචනය තෝරන්න.",
+      "options": [
+        "prognoza",
+        "pljusak",
+        "vetrovito"
+      ],
+      "answer": 1,
+      "explanation": "pljusak = තද වැස්ස"
+    },
+    {
+      "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+      "options": [
+        "Prema prognozi, sutra će padati kiša.",
+        "Ako bude hladno, poneću jaknu.",
+        "Možda ćemo odložiti izlet."
+      ],
+      "answer": 0,
+      "explanation": "අනාවැකිය අනුව හෙට වැසි වැටේවි."
+    },
+    {
+      "prompt": "සංවාදයේ අවසාන වාක්‍යය තෝරන්න.",
+      "options": [
+        "Prema prognozi, sutra će padati kiša.",
+        "Možda ćemo odložiti izlet.",
+        "Ako bude hladno, poneću jaknu."
+      ],
+      "answer": 1,
+      "explanation": "සමහරවිට අපි සංචාරය කල් දමාවි."
+    }
+  ]
+},
+{
+  "id": "sr-a2-l40",
+  "unit": "අතීත අත්දැකීම් විස්තර කිරීම",
+  "title": "A2 · පාඩම 40 · අතීත අත්දැකීමක් සහ සිදුවීමක් විස්තර කිරීම",
+  "objective": "අතීත සිදුවීමක් අනුපිළිවෙළින් විස්තර කර අදහස් ප්‍රකාශ කිරීම",
+  "vocabulary": [
+    {
+      "word": "iskustvo",
+      "reading": "ඉස්කුස්ත්වො",
+      "meaning": "අත්දැකීම",
+      "example": "iskustvo",
+      "translation": "අත්දැකීම"
+    },
+    {
+      "word": "događaj",
+      "reading": "දොගාජායි",
+      "meaning": "සිදුවීම",
+      "example": "događaj",
+      "translation": "සිදුවීම"
+    },
+    {
+      "word": "prošle nedelje",
+      "reading": "ප්‍රොෂ්ලෙ නෙදෙල්යෙ",
+      "meaning": "පසුගිය සතියේ",
+      "example": "prošle nedelje",
+      "translation": "පසුගිය සතියේ"
+    },
+    {
+      "word": "iznenada",
+      "reading": "ඉස්නෙනාදා",
+      "meaning": "හදිසියේ",
+      "example": "iznenada",
+      "translation": "හදිසියේ"
+    },
+    {
+      "word": "odlučiti",
+      "reading": "ඔද්ලුචිති",
+      "meaning": "තීරණය කරන්න",
+      "example": "odlučiti",
+      "translation": "තීරණය කරන්න"
+    },
+    {
+      "word": "posetiti",
+      "reading": "පොසෙතිති",
+      "meaning": "සංචාරය කරන්න",
+      "example": "posetiti",
+      "translation": "සංචාරය කරන්න"
+    },
+    {
+      "word": "zaboraviti",
+      "reading": "සාබොравිති",
+      "meaning": "අමතක කරන්න",
+      "example": "zaboraviti",
+      "translation": "අමතක කරන්න"
+    },
+    {
+      "word": "sećati se",
+      "reading": "සෙචාති සේ",
+      "meaning": "මතක තබාගන්න",
+      "example": "sećati se",
+      "translation": "මතක තබාගන්න"
+    }
+  ],
+  "grammarTitle": "ව්‍යාකරණය",
+  "grammar": "අතීත කාලයේ ක්‍රියාපද ලිංගය සහ පුද්ගලයා අනුව වෙනස් වේ. “Juče sam radio/radila” වැනි රටාවක් භාවිතා කරන්න.",
+  "grammarTerms": [
+    {
+      "sr": "Prošle nedelje sam posetio prijatelja.",
+      "reading": "ප්‍රොෂ්ලෙ නෙදෙල්යෙ සාම් පොසෙතියො ප්‍රියාතෙල්යා.",
+      "si": "පසුගිය සතියේ මම මිතුරෙකු හමුවීමට ගියා."
+    }
+  ],
+  "examples": [
+    {
+      "sr": "Prošle nedelje sam posetio prijatelja.",
+      "reading": "ප්‍රොෂ්ලෙ නෙදෙල්යෙ සාම් පොසෙතියො ප්‍රියාතෙල්යා.",
+      "si": "පසුගිය සතියේ මම මිතුරෙකු හමුවීමට ගියා."
+    },
+    {
+      "sr": "Iznenada je počela kiša.",
+      "reading": "ඉස්නෙනාදා යේ පොචෙලා කිෂා.",
+      "si": "හදිසියේ වැස්ස පටන් ගත්තා."
+    },
+    {
+      "sr": "Bilo je veoma zanimljivo.",
+      "reading": "බිලො යේ වෙඔමා සානිම්ලිවො.",
+      "si": "එය ඉතා රසවත් වුණා."
+    }
+  ],
+  "dialogue": [
+    {
+      "sr": "Prošle nedelje sam posetio prijatelja.",
+      "reading": "ප්‍රොෂ්ලෙ නෙදෙල්යෙ සාම් පොසෙතියො ප්‍රියාතෙල්යා.",
+      "si": "පසුගිය සතියේ මම මිතුරෙකු හමුවීමට ගියා."
+    },
+    {
+      "sr": "Iznenada je počela kiša.",
+      "reading": "ඉස්නෙනාදා යේ පොචෙලා කිෂා.",
+      "si": "හදිසියේ වැස්ස පටන් ගත්තා."
+    },
+    {
+      "sr": "Bilo je veoma zanimljivo.",
+      "reading": "බිලො යේ වෙඔමා සානිම්ලිවො.",
+      "si": "එය ඉතා රසවත් වුණා."
+    },
+    {
+      "sr": "Prošle nedelje sam posetio prijatelja.",
+      "reading": "ප්‍රොෂ්ලෙ නෙදෙල්යෙ සාම් පොසෙතියො ප්‍රියාතෙල්යා.",
+      "si": "පසුගිය සතියේ මම මිතුරෙකු හමුවීමට ගියා."
+    }
+  ],
+  "listeningPractice": {
+    "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: “Prošle nedelje sam posetio prijatelja.”",
+    "audio": "Prošle nedelje sam posetio prijatelja.",
+    "reading": "ප්‍රොෂ්ලෙ නෙදෙල්යෙ සාම් පොසෙතියො ප්‍රියාතෙල්යා.",
+    "options": [
+      "පසුගිය සතියේ මම මිතුරෙකු හමුවීමට ගියා.",
+      "හදිසියේ වැස්ස පටන් ගත්තා.",
+      "එය ඉතා රසවත් වුණා."
+    ],
+    "answer": 0
+  },
+  "practice": [
+    {
+      "prompt": "“අත්දැකීම” යන්නට ගැළපෙන වචනය තෝරන්න.",
+      "options": [
+        "iskustvo",
+        "događaj",
+        "prošle nedelje"
+      ],
+      "answer": 0,
+      "explanation": "iskustvo = අත්දැකීම"
+    },
+    {
+      "prompt": "“සිදුවීම” යන්නට ගැළපෙන වචනය තෝරන්න.",
+      "options": [
+        "iskustvo",
+        "događaj",
+        "prošle nedelje"
+      ],
+      "answer": 1,
+      "explanation": "događaj = සිදුවීම"
+    },
+    {
+      "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+      "options": [
+        "Prošle nedelje sam posetio prijatelja.",
+        "Iznenada je počela kiša.",
+        "Bilo je veoma zanimljivo."
+      ],
+      "answer": 0,
+      "explanation": "පසුගිය සතියේ මම මිතුරෙකු හමුවීමට ගියා."
+    },
+    {
+      "prompt": "සංවාදයේ අවසාන වාක්‍යය තෝරන්න.",
+      "options": [
+        "Prošle nedelje sam posetio prijatelja.",
+        "Bilo je veoma zanimljivo.",
+        "Iznenada je počela kiša."
+      ],
+      "answer": 1,
+      "explanation": "එය ඉතා රසවත් වුණා."
+    }
+  ]
+}
 ];
