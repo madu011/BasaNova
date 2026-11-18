@@ -391,6 +391,42 @@ export const SERBIAN_A1_LESSONS = [
       "translation": "අංකය: තුන්සියය."
     },
     {
+      "word": "Četiristo",
+      "meaning": "හාරසියය",
+      "example": "Broj četiristo.",
+      "translation": "අංකය: හාරසියය."
+    },
+    {
+      "word": "Petsto",
+      "meaning": "පන්සියය",
+      "example": "Broj petsto.",
+      "translation": "අංකය: පන්සියය."
+    },
+    {
+      "word": "Šeststo",
+      "meaning": "හයසියය",
+      "example": "Broj šeststo.",
+      "translation": "අංකය: හයසියය."
+    },
+    {
+      "word": "Sedamsto",
+      "meaning": "හත්සියය",
+      "example": "Broj sedamsto.",
+      "translation": "අංකය: හත්සියය."
+    },
+    {
+      "word": "Osamsto",
+      "meaning": "අටසියය",
+      "example": "Broj osamsto.",
+      "translation": "අංකය: අටසියය."
+    },
+    {
+      "word": "Devetsto",
+      "meaning": "නවසියය",
+      "example": "Broj devetsto.",
+      "translation": "අංකය: නවසියය."
+    },
+    {
       "word": "Hiljadu",
       "meaning": "දහස",
       "example": "Broj hiljadu.",
