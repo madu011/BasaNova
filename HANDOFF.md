@@ -47,21 +47,21 @@
 
 ## Progress snapshot — 2026-11-18
 
-**Estimated overall app completion: 46%.** This is a planning estimate of product scope completed, not a measured code percentage or a guarantee that every listed feature has passed device testing. Recalculate it when substantial features are implemented.
+**Estimated overall app completion: 47%.** This is a planning estimate of product scope completed, not a measured code percentage or a guarantee that every listed feature has passed device testing. Recalculate it when substantial features are implemented.
 
 | Workstream | Estimated completion | Notes |
 |---|---:|---|
 | App foundation, navigation and visual shell | 70% | Expo app, language modes, core tabs and theme are present; final UI polish and accessibility remain |
 | Vocabulary and reference library | 85% | README records 577 Serbian + 575 English standard vocabulary entries after pack 12; A–Z dictionary, search and saved-word filter exist |
-| Structured language curriculum | 28% | 18 Serbian + 18 English structured A1 lessons are present; A1 still needs broader coverage and all A2–C2 lesson content is outstanding |
-| Learning interactions | 72% | TTS, paired lesson quizzes/listening exercises, authored Sinhala readings, mixed revision and vocabulary examples exist; speaking feedback and broader assessments remain |
+| Structured language curriculum | 29% | 23 Serbian + 23 English structured A1 lesson objects are present, with visible numbering through lesson 26; A1 still needs broader coverage and all A2–C2 lesson content is outstanding |
+| Learning interactions | 73% | TTS, paired lesson quizzes/listening exercises, authored Sinhala readings, mixed revision and vocabulary examples exist; speaking feedback and broader assessments remain |
 | Progress persistence and accounts | 15% | Vocabulary bookmarks are saved locally; lesson mastery/XP and full account/cloud sync are not yet complete |
 | Advanced services and offline support | 20% | Translator and preview-level AI area exist; live AI tutor, speech recognition and complete offline packs are not implemented |
 | QA, native build and release readiness | 5% | Some earlier CI/bundle checks exist, but latest source has not been fully validated; no verified native APK/device installation |
 
-**How the estimate is weighted:** app foundation 15%, vocabulary/library 15%, structured curriculum 30%, learning interactions 15%, persistence/accounts 10%, advanced services/offline 10%, QA/release 5%. Applying the workstream estimates gives approximately 46%.
+**How the estimate is weighted:** app foundation 15%, vocabulary/library 15%, structured curriculum 30%, learning interactions 15%, persistence/accounts 10%, advanced services/offline 10%, QA/release 5%. Applying the workstream estimates gives approximately 47%.
 
-**Current learning-content count:** 18 Serbian A1 lessons and 18 English A1 lessons, with matched topics through food/cooking and weather/clothing. Each of the latest paired modules includes eight vocabulary entries with Sinhala meaning and reading, grammar phrase cards, four examples, a six-line dialogue, four practice questions and a listening check. Serbian and English cumulative mixed-revision sets both contain 18 questions. Earlier lessons still need a complete topic-by-topic audit; do not assume the entire syllabus is fully aligned. Keep grammar and natural expressions language-specific.
+**Current learning-content count:** 23 Serbian A1 lesson objects and 23 English A1 lesson objects; visible lesson numbering now reaches lesson 26. Paired topics include food/cooking, weather/clothing, restaurant ordering, customer service, phone calls, parcels and doctor/health. Lesson 26 in each language contains eight vocabulary entries, grammar phrase cards, four examples, a six-line dialogue, four practice questions and one listening task. The Serbian listening and mixed-revision arrays need continued array-to-lesson order checks as content is added. Earlier lessons still need a complete topic-by-topic audit; do not assume the entire syllabus is fully aligned.
 
 **Not yet verified:** latest full CI run, native Android APK build, APK installation, physical-device runtime, complete offline behavior, and end-to-end persistence of lesson progress. Do not treat the 46% estimate as build/test certification.
 
@@ -93,7 +93,7 @@
 - No live API, Supabase migration, Google sign-in or Android device tests have been completed.
 
 ## Next task — resume here
-1. **Keep Serbian + English lesson development synchronized.** Continue the A1 topic audit and add the next matched practical topic pair to both courses in the same batch with comparable vocabulary, grammar, examples, dialogues, listening, speaking and quizzes. Suggested next pair: family and personal information.
+1. **Keep Serbian + English lesson development synchronized.** Continue A1 with paired lesson 27 on emergency services and asking for urgent help, including vocabulary, Sinhala-script readings, grammar, examples, dialogue, listening and quizzes in both languages.
 2. Audit target-language phrases embedded in Sinhala grammar/quiz explanations in BOTH languages and ensure each important phrase has a Sinhala-script reading and individual TTS playback.
 3. Add saved local progress for lesson checks, listening results and mixed revision in a language-separated way; then design spaced review from saved mastery.
 4. Continue paired A1 topics until both courses have balanced A1 coverage; then advance both to A2 together.
@@ -255,3 +255,5 @@
 
 
 - 2026-11-18 paired A1 lesson expansion: Added two matched practical topics to both courses: lesson 24, phone calls and messages, and lesson 25, post office and parcels. Serbian IDs `sr-a1-u10-l3` and `sr-a1-u10-l4`; English IDs `en-a1-u6-l3` and `en-a1-u6-l4`. Each new lesson has 8 vocabulary cards with Sinhala meaning and Sinhala-script reading, grammar notes and five phrase cards, four examples, a six-line dialogue and four quizzes. English lessons each include a dedicated listening check. Added two aligned Serbian listening prompts and four Serbian cumulative mixed-revision items. Source audit: 22 Serbian + 22 English lesson IDs; 22 Serbian listening prompts; 24 Serbian mixed-revision questions; 22 English lesson listening checks. README updated to reflect 22 lessons per language. Commits: `250ac634409e46197d31d8b3e6f505a3bae1c9fd` (Serbian lessons), `e01c6813e52b184aab74e49707b3b3323e0ecade` (English lessons), `ec1605cb17ac58abfe482fd44c2476308db21e42` (Serbian listening/revision), `c098c8a55961681f5fb57e26cc5ed0fcfa95c35a` (README). App lesson arrays are imported dynamically and the lesson list renders from each array; no separate fixed lesson limit was changed. No JavaScript parser, Expo bundle, automated test, APK build or Android device test was run. Sinhala-script readings are approximate and need fluent-speaker review. Next: continue A1 topic coverage and audit the earlier lessons for missing readings, repeated headwords and inconsistent grammar explanations.
+
+- 2026-11-18: Corrected the resume point: lessons 22–25 were already present, so development continued after lesson 25 rather than recreating lesson 22. Added paired lesson 26, “Doctor and health”, to serbianLessons.js and englishLessons.js. Each side has eight vocabulary entries with Sinhala readings/meanings, five grammar phrase cards, four examples, a six-line dialogue, four practice questions and a listening task. English lesson 26 uses the existing listeningPractice renderer. Added one Serbian lesson-aligned listening prompt to serbianRevision.js. Commits: 2028377c237d842f0a77304cb309558db5f75ba9 (Serbian lesson), 948ee57c73742f4734d8378f378a513f1a19c2c9 (English lesson), 8da5a9e747d6dc6ded7318ddaccc64f19429464e (initial listening data), 18b303ce4f9e5094e3cd3348a245d7fb64eca2a4 (English listening renderer data), 97eb58e1004bcb0a4fd16c385ca1d562a47a8f4c (align Serbian listening array to one new lesson item). Source-level checks confirmed 23 lesson objects in each language and the lesson 26 IDs; no parser, Expo bundle, CI completion, APK build or Android device test was run. Pronunciation readings are approximate and require fluent-speaker review. Next: paired lesson 27 on emergency services and asking for urgent help.
