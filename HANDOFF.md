@@ -53,7 +53,7 @@
 |---|---:|---|
 | App foundation, navigation and visual shell | 70% | Expo app, language modes, core tabs and theme are present; final UI polish and accessibility remain |
 | Vocabulary and reference library | 85% | README records 577 Serbian + 575 English standard vocabulary entries after pack 12; A–Z dictionary, search and saved-word filter exist |
-| Structured language curriculum | 31% | 25 Serbian + 25 English structured A1 lesson objects are present, with visible numbering through lesson 28; A1 still needs broader coverage and all A2–C2 lesson content is outstanding |
+| Structured language curriculum | 31% | 26 Serbian + 26 English structured A1 lesson objects are present, with visible numbering through lesson 28; A1 still needs broader coverage and all A2–C2 lesson content is outstanding |
 | Learning interactions | 73% | TTS, paired lesson quizzes/listening exercises, authored Sinhala readings, mixed revision and vocabulary examples exist; speaking feedback and broader assessments remain |
 | Progress persistence and accounts | 40% | AsyncStorage saves selected language, lesson/revision checks, vocabulary, XP/missions, theme and translator history locally; account and cloud sync remain outstanding |
 | Advanced services and offline support | 20% | Translator and preview-level AI area exist; live AI tutor, speech recognition and complete offline packs are not implemented |
@@ -286,3 +286,6 @@
 - Added a Cloudflare Workers rate-limit binding (30 requests per client IP per 60 seconds) and enforcement before calling Google to reduce accidental/API-cost abuse. Deploy with the included `cloudflare/wrangler.toml` and set Worker secret `GOOGLE_TTS_API_KEY`.
 - Google voice is not live until the owner enables Google Cloud Text-to-Speech, configures the API key secret, deploys the Worker, and sets GitHub Actions variable `EXPO_PUBLIC_VOICE_API_URL`. Device TTS remains the fallback.
 - Failed pre-fix verification: run 44318472246; invalid regular expression at App.js line 391. Re-run bundle and APK workflow after this fix.
+
+
+- 2026-11-18: Added paired A1 lesson 29, “Making plans and meeting”, to both Serbian and English. Both lessons cover weekend plans, asking whether someone is free, suggesting a meeting time, confirming suitability, eight vocabulary entries with Sinhala meanings/readings, grammar phrase cards, four examples, six dialogue lines, a listening task and four quiz questions. Serbian data commit `d5d02c36a5f624cb8a3d9a82805c05dbc7f7c96d`; English data commit `cd6bf2008829bc6d393a8634514c027b246cc8c0`; README commit `af87b8087209d767927ad3d8be81e25e4a77192c`. The previous Android validation run `44319531618` passed dependency installation, Expo compatibility and Android bundle export on the preceding voice/rate-limit changes. A fresh CI run for lesson 29 is required; no APK or device test is confirmed. Next: validate lesson 29 in CI, then add another paired practical A1 lesson and continue local-progress persistence audit.
