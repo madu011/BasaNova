@@ -65,5 +65,5 @@ export const B1_COURSE_STATUS = {
   authoredLessons: { Serbian: 50, English: 50 },
   pairedTopics: true,
   remainingLessons: 0,
-  remainingValidation: ["add cumulative B1 revision and scored listening/comprehension assessments", "cumulative B1 revision and assessment", "fluent-speaker review of Sinhala pronunciation", "CI and Android device verification"]
+  remainingValidation: ["fluent-speaker review of B1 final exam items and answer translations", "full B1 assessment content review", "fluent-speaker review of Sinhala pronunciation", "CI and Android device verification"]
 };
