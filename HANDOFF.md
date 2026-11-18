@@ -457,3 +457,14 @@
 - Content caveat: this batch includes some technical vocabulary and Sinhala pronunciation approximations; Serbian Latin-script consistency and idiomatic usage should be reviewed by a fluent speaker. The lesson examples and dialogue rows currently share the same four phrases, which is suitable for guided practice but should later be expanded into richer multi-turn contextual dialogues.
 - No JavaScript/Expo build, CI pass, APK artifact, installation or physical-device test was run.
 - Next: add paired B2 lessons 26–40, then 41–50; afterward create B2 cumulative revision and scored final assessments, audit language quality, and verify build/device readiness.
+
+
+## Latest session — B2 lessons 26–40 (2026-11-18)
+
+- Added 15 paired Serbian and English B2 lesson records (lessons 26–40), bringing each B2 course array to 40/50 lessons; 10 lessons remain per language.
+- Topics: contract negotiation; lifelong learning; urban planning and housing; workplace conflict mediation; consumer rights; energy transition; research methods and data quality; public speaking; cultural identity and migration; digital privacy; healthcare communication; financial planning; journalism and source evaluation; project delivery; ethics in science and technology.
+- Serbian lesson data commit: `6a64647a6e0a74ba2f891b158e46b5132e599c36`; English lesson data commit: `97dc0aeceee89b7188adc9c1d91f784849f75f1c`; curriculum update: `dbaca86921aa6540ea077edf8abc5b50dac4220c`; README update: `72ed20954162843b25fa948af30780e7fba5d6ff`.
+- Existing B2 Learn screen already consumes the lesson arrays; no App.js integration change was needed. Curriculum now records 40 authored paired lessons and 10 remaining.
+- Validation performed in this session is source-level only so far; re-fetch and verify the final arrays and curriculum before reporting completion. The new lesson batch uses reusable practice scaffolding and some generalized examples; Sinhala-script readings and Serbian naturalness need fluent-speaker/editorial review. These records are learning drafts, not CEFR certification.
+- No Expo/JavaScript build, CI pass, APK artifact, installation or physical-device test was run.
+- Next: add paired B2 lessons 41–50, then build B2 cumulative revision and scored final assessments for both languages. Afterward audit language quality and run build/Android verification.
