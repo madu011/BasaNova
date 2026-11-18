@@ -45,6 +45,26 @@
 - Use the navy/teal/gold visual identity and keep mobile-first UI.
 - AI Teacher is currently only a preview; do not imply it is a live AI tutor or speech-recognition feature until implemented.
 
+## Progress snapshot — 2026-11-18
+
+**Estimated overall app completion: 42%.** This is a planning estimate of product scope completed, not a measured code percentage or a guarantee that every listed feature has passed device testing. Recalculate it when substantial features are implemented.
+
+| Workstream | Estimated completion | Notes |
+|---|---:|---|
+| App foundation, navigation and visual shell | 70% | Expo app, language modes, core tabs and theme are present; final UI polish and accessibility remain |
+| Vocabulary and reference library | 85% | README records 502 Serbian + 500 English standard vocabulary entries; A–Z dictionary, search and saved-word filter exist |
+| Structured language curriculum | 18% | 7 Serbian + 7 English structured lessons are present, but only A1 has authored lesson content; the two sets still need fuller topic-by-topic alignment and all A2–C2 content is outstanding |
+| Learning interactions | 65% | TTS, lesson quizzes/listening exercises, vocabulary examples and bookmarks exist; speaking feedback and broader assessments remain |
+| Progress persistence and accounts | 15% | Vocabulary bookmarks are saved locally; lesson mastery/XP and full account/cloud sync are not yet complete |
+| Advanced services and offline support | 20% | Translator and preview-level AI area exist; live AI tutor, speech recognition and complete offline packs are not implemented |
+| QA, native build and release readiness | 5% | Some earlier CI/bundle checks exist, but latest source has not been fully validated; no verified native APK/device installation |
+
+**How the estimate is weighted:** app foundation 15%, vocabulary/library 15%, structured curriculum 30%, learning interactions 15%, persistence/accounts 10%, advanced services/offline 10%, QA/release 5%. Applying the workstream estimates gives approximately 42%.
+
+**Current learning-content count:** 7 Serbian A1 lessons and 7 English A1 lessons. They are not yet a fully matched syllabus: the lesson topics and numbering differ in places. From the current development cycle onward, add and review paired Serbian + English lessons together at the same topic and CEFR level. Keep their grammar and natural expressions language-specific.
+
+**Not yet verified:** latest full CI run, native Android APK build, APK installation, physical-device runtime, complete offline behavior, and end-to-end persistence of lesson progress. Do not treat the 42% estimate as build/test certification.
+
 ## Current verified state
 
 - Latest vocabulary deck count after packs 8 and 9 integration: 502 Serbian + 500 English = 1,002 standard entries. Pack 8 was deduplicated against packs 1-7; pack 9 had its repeated English `Manager` removed and one new occupation added. Standard vocabulary remains separate from slang.
@@ -71,10 +91,11 @@
 - No live API, Supabase migration, Google sign-in or Android device tests have been completed.
 
 ## Next task — resume here
-1. **Start synchronized Serbian + English A1 lesson development.** First map existing lessons by topic and identify the gaps on each side; then add the next matching practical topic to both courses in the same batch, with equivalent vocabulary, grammar, examples, dialogues, listening, speaking and quizzes.
+1. **Keep Serbian + English lesson development synchronized.** Map existing topics, then add the next matched practical A1 topic to both courses in the same batch with comparable vocabulary, grammar, examples, dialogues, listening, speaking and quizzes.
 2. Audit target-language phrases embedded in Sinhala grammar/quiz explanations in BOTH languages and ensure each important phrase has a Sinhala-script reading and individual TTS playback.
-3. Add saved local progress for lesson checks, listening results and mixed revision in a language-separated way; only then design spaced review based on actual saved mastery.
-4. Continue through the remaining A1 topics in paired Serbian/English batches before moving both courses together to A2.
+3. Add saved local progress for lesson checks, listening results and mixed revision in a language-separated way; then design spaced review from saved mastery.
+4. Continue paired A1 topics until both courses have balanced A1 coverage; then advance both to A2 together.
+5. Recalculate the overall completion estimate in this Progress snapshot after each substantial milestone, using the same weighted workstreams and noting what has actually been tested.
 5. Generate a valid `package-lock.json` in a proper npm checkout and update CI to use it.
 6. Implement local persistence for progress, XP, missions, theme and translator history, then safe cloud sync after Supabase configuration.
 7. Replace emoji/text glyph icons with optimized static 3D-style PNG/WebP assets.
