@@ -1699,5 +1699,1705 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "verovatno = බොහෝවිට"
       }
     ]
+  },
+  {
+    "id": "sr-b1-l11",
+    "unit": "ස්වාධීන භාවිතය",
+    "title": "B1 · පාඩම 11 · හැකියාව සහ නිශ්චිතභාවය",
+    "objective": "හැකියාව සහ නිශ්චිතභාවය ගැන පැහැදිලිව අදහස් ප්‍රකාශ කිරීම සහ උදාහරණ දීම",
+    "vocabulary": [
+      {
+        "word": "certainty",
+        "reading": "සිගුර්නොස්ත්",
+        "meaning": "නිශ්චිතභාවය",
+        "example": "Možda će voz kasniti, ali verovatno stižemo na vreme.",
+        "translation": "දුම්රිය ප්‍රමාද විය හැකියි, නමුත් අපි බොහෝවිට වෙලාවට එනවා."
+      },
+      {
+        "word": "perhaps",
+        "reading": "මොෂ්දා",
+        "meaning": "සමහරවිට",
+        "example": "Ako bude gužve, možda ćemo uzeti taksi.",
+        "translation": "තදබදයක් තිබුණොත් අපි සමහරවිට ටැක්සියක් ගන්නවා."
+      },
+      {
+        "word": "likely",
+        "reading": "ඉස්ග්ලෙද්නො",
+        "meaning": "විය හැකි",
+        "example": "Važno je da unapred razmotrimo sve mogućnosti.",
+        "translation": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්."
+      },
+      {
+        "word": "unlikely",
+        "reading": "මාලො වෙරොවාත්නො",
+        "meaning": "අඩු ඉඩක් ඇති",
+        "example": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
+        "translation": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා."
+      },
+      {
+        "word": "estimate",
+        "reading": "ප්‍රොත්සේනා",
+        "meaning": "ඇස්තමේන්තුව",
+        "example": "Možda će voz kasniti, ali verovatno stižemo na vreme.",
+        "translation": "දුම්රිය ප්‍රමාද විය හැකියි, නමුත් අපි බොහෝවිට වෙලාවට එනවා."
+      },
+      {
+        "word": "forecast",
+        "reading": "ප්‍රොග්නොසා",
+        "meaning": "අනාවැකිය",
+        "example": "Ako bude gužve, možda ćemo uzeti taksi.",
+        "translation": "තදබදයක් තිබුණොත් අපි සමහරවිට ටැක්සියක් ගන්නවා."
+      },
+      {
+        "word": "definitely",
+        "reading": "සිගුර්නො",
+        "meaning": "නිසැකවම",
+        "example": "Važno je da unapred razmotrimo sve mogućnosti.",
+        "translation": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්."
+      },
+      {
+        "word": "possibility",
+        "reading": "මොගුච්නොස්ත්",
+        "meaning": "හැකියාව",
+        "example": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
+        "translation": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා."
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "“možda”, “verovatno” සහ “sigurno” මඟින් හැකියාව හා විශ්වාස මට්ටම පෙන්වයි.",
+    "grammarTerms": [
+      {
+        "sr": "Možda će voz kasniti, ali verovatno stižemo na vreme.",
+        "reading": "දුම්රිය ප්‍රමාද විය හැකියි, නමුත් අපි බොහෝවිට වෙලාවට එනවා.",
+        "si": "දුම්රිය ප්‍රමාද විය හැකියි, නමුත් අපි බොහෝවිට වෙලාවට එනවා."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Možda će voz kasniti, ali verovatno stižemo na vreme.",
+        "reading": "දුම්රිය ප්‍රමාද විය හැකියි, නමුත් අපි බොහෝවිට වෙලාවට එනවා.",
+        "si": "දුම්රිය ප්‍රමාද විය හැකියි, නමුත් අපි බොහෝවිට වෙලාවට එනවා."
+      },
+      {
+        "sr": "Ako bude gužve, možda ćemo uzeti taksi.",
+        "reading": "තදබදයක් තිබුණොත් අපි සමහරවිට ටැක්සියක් ගන්නවා.",
+        "si": "තදබදයක් තිබුණොත් අපි සමහරවිට ටැක්සියක් ගන්නවා."
+      },
+      {
+        "sr": "Važno je da unapred razmotrimo sve mogućnosti.",
+        "reading": "වාෂ්නො යෙ ද උනප්‍රෙද් රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
+        "reading": "නා ක්‍රායු චෙමො ඉස්සාබ්‍රාති රෙෂෙන්යේ කොයෙ නායිවිෂෙ ඔද්ගොවාරා ස්විමා.",
+        "si": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "A: Možda će voz kasniti, ali verovatno stižemo na vreme.",
+        "reading": "ඒ: දුම්රිය ප්‍රමාද විය හැකියි, නමුත් අපි බොහෝවිට වෙලාවට එනවා.",
+        "si": "දුම්රිය ප්‍රමාද විය හැකියි, නමුත් අපි බොහෝවිට වෙලාවට එනවා."
+      },
+      {
+        "sr": "B: Razumem. Šta predlažeš?",
+        "reading": "බී: රාසුමෙම්. ෂ්තා ප්‍රෙද්ලාෂෙෂ්?",
+        "si": "තේරුණා. ඔයා මොකක්ද යෝජනා කරන්නේ?"
+      },
+      {
+        "sr": "A: Ako bude gužve, možda ćemo uzeti taksi.",
+        "reading": "ඒ: තදබදයක් තිබුණොත් අපි සමහරවිට ටැක්සියක් ගන්නවා.",
+        "si": "තදබදයක් තිබුණොත් අපි සමහරවිට ටැක්සියක් ගන්නවා."
+      },
+      {
+        "sr": "B: Slažem se. Tako ćemo lakše rešiti problem.",
+        "reading": "බී: ස්ලාෂෙම් සෙ. තාකො චෙමො ලක්ෂෙ රෙෂිති ප්‍රොබ්ලෙම්.",
+        "si": "එකඟයි. එහෙම කළොත් ගැටලුව පහසුවෙන් විසඳගන්න පුළුවන්."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Ako bude gužve, možda ćemo uzeti taksi.",
+      "audio": "Ako bude gužve, možda ćemo uzeti taksi.",
+      "reading": "තදබදයක් තිබුණොත් අපි සමහරවිට ටැක්සියක් ගන්නවා.",
+      "options": [
+        "තදබදයක් තිබුණොත් අපි සමහරවිට ටැක්සියක් ගන්නවා.",
+        "එය සම්පූර්ණයෙන්ම වෙනස් අදහසකි.",
+        "මට ඒ ගැන කිසිවක් කියන්න බැහැ."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“sigurnost” යන්නෙහි අර්ථය කුමක්ද?",
+        "options": [
+          "නිශ්චිතභාවය",
+          "අවාසිය",
+          "ප්‍රශ්නය"
+        ],
+        "answer": 0,
+        "explanation": "sigurnost = නිශ්චිතභාවය"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Ja juče sutra.",
+          "Možda će voz kasniti, ali verovatno stižemo na vreme.",
+          "On i mi bila."
+        ],
+        "answer": 1,
+        "explanation": "දුම්රිය ප්‍රමාද විය හැකියි, නමුත් අපි බොහෝවිට වෙලාවට එනවා."
+      },
+      {
+        "prompt": "“možda” යන්නෙහි අර්ථය?",
+        "options": [
+          "කල් දැමීම",
+          "සමහරවිට",
+          "අමතක කිරීම"
+        ],
+        "answer": 1,
+        "explanation": "možda = සමහරවිට"
+      },
+      {
+        "prompt": "සංවාදයේ A පුද්ගලයාගේ අදහසට B ප්‍රතිචාරය කුමක්ද?",
+        "options": [
+          "Ne znam gde je.",
+          "Slažem se. Tako ćemo lakše rešiti problem.",
+          "Koliko košta?"
+        ],
+        "answer": 1,
+        "explanation": "“Slažem se” යනු “මම එකඟයි” යන්නයි."
+      }
+    ]
+  },
+  {
+    "id": "sr-b1-l12",
+    "unit": "ස්වාධීන භාවිතය",
+    "title": "B1 · පාඩම 12 · අධ්‍යාපනය සහ ඉගෙනීමේ ක්‍රම",
+    "objective": "අධ්‍යාපනය සහ ඉගෙනීමේ ක්‍රම ගැන පැහැදිලිව අදහස් ප්‍රකාශ කිරීම සහ උදාහරණ දීම",
+    "vocabulary": [
+      {
+        "word": "strategy",
+        "reading": "ස්ත්‍රාත්‍රෙගියා",
+        "meaning": "උපායමාර්ගය",
+        "example": "Redovno ponavljanje pomaže da bolje zapamtimo nove reči.",
+        "translation": "නිතිපතා නැවත කිරීමෙන් අලුත් වචන හොඳින් මතක තබාගන්න පුළුවන්."
+      },
+      {
+        "word": "revision",
+        "reading": "පොනව්ල්යාන්යේ",
+        "meaning": "නැවත පුහුණුව",
+        "example": "Najviše naučim kada koristim jezik u razgovoru.",
+        "translation": "සංවාදයකදී භාෂාව භාවිතා කරන විට මම වැඩිපුර ඉගෙන ගන්නවා."
+      },
+      {
+        "word": "skill",
+        "reading": "වෙෂ්තිනා",
+        "meaning": "කුසලතාව",
+        "example": "Važno je da unapred razmotrimo sve mogućnosti.",
+        "translation": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්."
+      },
+      {
+        "word": "course",
+        "reading": "කුර්ස්",
+        "meaning": "පාඨමාලාව",
+        "example": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
+        "translation": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා."
+      },
+      {
+        "word": "goal",
+        "reading": "ත්සිල්ය්",
+        "meaning": "ඉලක්කය",
+        "example": "Redovno ponavljanje pomaže da bolje zapamtimo nove reči.",
+        "translation": "නිතිපතා නැවත කිරීමෙන් අලුත් වචන හොඳින් මතක තබාගන්න පුළුවන්."
+      },
+      {
+        "word": "progress",
+        "reading": "නප්‍රෙදාක්",
+        "meaning": "ප්‍රගතිය",
+        "example": "Najviše naučim kada koristim jezik u razgovoru.",
+        "translation": "සංවාදයකදී භාෂාව භාවිතා කරන විට මම වැඩිපුර ඉගෙන ගන්නවා."
+      },
+      {
+        "word": "note",
+        "reading": "බෙලෙෂ්කා",
+        "meaning": "සටහන",
+        "example": "Važno je da unapred razmotrimo sve mogućnosti.",
+        "translation": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්."
+      },
+      {
+        "word": "method",
+        "reading": "මෙතොදා",
+        "meaning": "ක්‍රමය",
+        "example": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
+        "translation": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා."
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "“kada”, “dok” සහ “zato što” යොදා ඉගෙනීමේ ක්‍රම සහ හේතු සම්බන්ධ කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Redovno ponavljanje pomaže da bolje zapamtimo nove reči.",
+        "reading": "නිතිපතා නැවත කිරීමෙන් අලුත් වචන හොඳින් මතක තබාගන්න පුළුවන්.",
+        "si": "නිතිපතා නැවත කිරීමෙන් අලුත් වචන හොඳින් මතක තබාගන්න පුළුවන්."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Redovno ponavljanje pomaže da bolje zapamtimo nove reči.",
+        "reading": "නිතිපතා නැවත කිරීමෙන් අලුත් වචන හොඳින් මතක තබාගන්න පුළුවන්.",
+        "si": "නිතිපතා නැවත කිරීමෙන් අලුත් වචන හොඳින් මතක තබාගන්න පුළුවන්."
+      },
+      {
+        "sr": "Najviše naučim kada koristim jezik u razgovoru.",
+        "reading": "සංවාදයකදී භාෂාව භාවිතා කරන විට මම වැඩිපුර ඉගෙන ගන්නවා.",
+        "si": "සංවාදයකදී භාෂාව භාවිතා කරන විට මම වැඩිපුර ඉගෙන ගන්නවා."
+      },
+      {
+        "sr": "Važno je da unapred razmotrimo sve mogućnosti.",
+        "reading": "වාෂ්නො යෙ ද උනප්‍රෙද් රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
+        "reading": "නා ක්‍රායු චෙමො ඉස්සාබ්‍රාති රෙෂෙන්යේ කොයෙ නායිවිෂෙ ඔද්ගොවාරා ස්විමා.",
+        "si": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "A: Redovno ponavljanje pomaže da bolje zapamtimo nove reči.",
+        "reading": "ඒ: නිතිපතා නැවත කිරීමෙන් අලුත් වචන හොඳින් මතක තබාගන්න පුළුවන්.",
+        "si": "නිතිපතා නැවත කිරීමෙන් අලුත් වචන හොඳින් මතක තබාගන්න පුළුවන්."
+      },
+      {
+        "sr": "B: Razumem. Šta predlažeš?",
+        "reading": "බී: රාසුමෙම්. ෂ්තා ප්‍රෙද්ලාෂෙෂ්?",
+        "si": "තේරුණා. ඔයා මොකක්ද යෝජනා කරන්නේ?"
+      },
+      {
+        "sr": "A: Najviše naučim kada koristim jezik u razgovoru.",
+        "reading": "ඒ: සංවාදයකදී භාෂාව භාවිතා කරන විට මම වැඩිපුර ඉගෙන ගන්නවා.",
+        "si": "සංවාදයකදී භාෂාව භාවිතා කරන විට මම වැඩිපුර ඉගෙන ගන්නවා."
+      },
+      {
+        "sr": "B: Slažem se. Tako ćemo lakše rešiti problem.",
+        "reading": "බී: ස්ලාෂෙම් සෙ. තාකො චෙමො ලක්ෂෙ රෙෂිති ප්‍රොබ්ලෙම්.",
+        "si": "එකඟයි. එහෙම කළොත් ගැටලුව පහසුවෙන් විසඳගන්න පුළුවන්."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Najviše naučim kada koristim jezik u razgovoru.",
+      "audio": "Najviše naučim kada koristim jezik u razgovoru.",
+      "reading": "සංවාදයකදී භාෂාව භාවිතා කරන විට මම වැඩිපුර ඉගෙන ගන්නවා.",
+      "options": [
+        "සංවාදයකදී භාෂාව භාවිතා කරන විට මම වැඩිපුර ඉගෙන ගන්නවා.",
+        "එය සම්පූර්ණයෙන්ම වෙනස් අදහසකි.",
+        "මට ඒ ගැන කිසිවක් කියන්න බැහැ."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“strategija” යන්නෙහි අර්ථය කුමක්ද?",
+        "options": [
+          "උපායමාර්ගය",
+          "අවාසිය",
+          "ප්‍රශ්නය"
+        ],
+        "answer": 0,
+        "explanation": "strategija = උපායමාර්ගය"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Ja juče sutra.",
+          "Redovno ponavljanje pomaže da bolje zapamtimo nove reči.",
+          "On i mi bila."
+        ],
+        "answer": 1,
+        "explanation": "නිතිපතා නැවත කිරීමෙන් අලුත් වචන හොඳින් මතක තබාගන්න පුළුවන්."
+      },
+      {
+        "prompt": "“ponavljanje” යන්නෙහි අර්ථය?",
+        "options": [
+          "කල් දැමීම",
+          "නැවත පුහුණුව",
+          "අමතක කිරීම"
+        ],
+        "answer": 1,
+        "explanation": "ponavljanje = නැවත පුහුණුව"
+      },
+      {
+        "prompt": "සංවාදයේ A පුද්ගලයාගේ අදහසට B ප්‍රතිචාරය කුමක්ද?",
+        "options": [
+          "Ne znam gde je.",
+          "Slažem se. Tako ćemo lakše rešiti problem.",
+          "Koliko košta?"
+        ],
+        "answer": 1,
+        "explanation": "“Slažem se” යනු “මම එකඟයි” යන්නයි."
+      }
+    ]
+  },
+  {
+    "id": "sr-b1-l13",
+    "unit": "ස්වාධීන භාවිතය",
+    "title": "B1 · පාඩම 13 · ගමන් සැලසුම් සහ හදිසි වෙනස්කම්",
+    "objective": "ගමන් සැලසුම් සහ හදිසි වෙනස්කම් ගැන පැහැදිලිව අදහස් ප්‍රකාශ කිරීම සහ උදාහරණ දීම",
+    "vocabulary": [
+      {
+        "word": "itinerary",
+        "reading": "ප්ලාන් පුතා",
+        "meaning": "ගමන් සැලැස්ම",
+        "example": "Zbog radova, autobus polazi sa druge stanice.",
+        "translation": "අලුත්වැඩියා නිසා බස් රථය වෙනත් නැවතුමකින් පිටත් වෙනවා."
+      },
+      {
+        "word": "departure",
+        "reading": "පොලාසාක්",
+        "meaning": "පිටත්වීම",
+        "example": "Ako propustimo voz, proverićemo sledeći polazak.",
+        "translation": "දුම්රිය මඟහැරුණොත් ඊළඟ පිටත්වීම පරීක්ෂා කරනවා."
+      },
+      {
+        "word": "delay",
+        "reading": "කාෂ්න්යේන්යේ",
+        "meaning": "ප්‍රමාදය",
+        "example": "Važno je da unapred razmotrimo sve mogućnosti.",
+        "translation": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්."
+      },
+      {
+        "word": "platform",
+        "reading": "පෙරොන්",
+        "meaning": "වේදිකාව",
+        "example": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
+        "translation": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා."
+      },
+      {
+        "word": "alternative",
+        "reading": "අල්තෙර්නාතිවා",
+        "meaning": "විකල්පය",
+        "example": "Zbog radova, autobus polazi sa druge stanice.",
+        "translation": "අලුත්වැඩියා නිසා බස් රථය වෙනත් නැවතුමකින් පිටත් වෙනවා."
+      },
+      {
+        "word": "reservation",
+        "reading": "රෙසෙර්වාත්සියා",
+        "meaning": "වෙන්කිරීම",
+        "example": "Ako propustimo voz, proverićemo sledeći polazak.",
+        "translation": "දුම්රිය මඟහැරුණොත් ඊළඟ පිටත්වීම පරීක්ෂා කරනවා."
+      },
+      {
+        "word": "luggage",
+        "reading": "ප්‍ර්ත්ල්යාග්",
+        "meaning": "ගමන් මලු",
+        "example": "Važno je da unapred razmotrimo sve mogućnosti.",
+        "translation": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්."
+      },
+      {
+        "word": "schedule",
+        "reading": "රාස්පොරෙද්",
+        "meaning": "කාලසටහන",
+        "example": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
+        "translation": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා."
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "“ako” යොදා කොන්දේසියක් සහ එහි ප්‍රතිඵලය දක්වන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Zbog radova, autobus polazi sa druge stanice.",
+        "reading": "අලුත්වැඩියා නිසා බස් රථය වෙනත් නැවතුමකින් පිටත් වෙනවා.",
+        "si": "අලුත්වැඩියා නිසා බස් රථය වෙනත් නැවතුමකින් පිටත් වෙනවා."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Zbog radova, autobus polazi sa druge stanice.",
+        "reading": "අලුත්වැඩියා නිසා බස් රථය වෙනත් නැවතුමකින් පිටත් වෙනවා.",
+        "si": "අලුත්වැඩියා නිසා බස් රථය වෙනත් නැවතුමකින් පිටත් වෙනවා."
+      },
+      {
+        "sr": "Ako propustimo voz, proverićemo sledeći polazak.",
+        "reading": "දුම්රිය මඟහැරුණොත් ඊළඟ පිටත්වීම පරීක්ෂා කරනවා.",
+        "si": "දුම්රිය මඟහැරුණොත් ඊළඟ පිටත්වීම පරීක්ෂා කරනවා."
+      },
+      {
+        "sr": "Važno je da unapred razmotrimo sve mogućnosti.",
+        "reading": "වාෂ්නො යෙ ද උනප්‍රෙද් රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
+        "reading": "නා ක්‍රායු චෙමො ඉස්සාබ්‍රාති රෙෂෙන්යේ කොයෙ නායිවිෂෙ ඔද්ගොවාරා ස්විමා.",
+        "si": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "A: Zbog radova, autobus polazi sa druge stanice.",
+        "reading": "ඒ: අලුත්වැඩියා නිසා බස් රථය වෙනත් නැවතුමකින් පිටත් වෙනවා.",
+        "si": "අලුත්වැඩියා නිසා බස් රථය වෙනත් නැවතුමකින් පිටත් වෙනවා."
+      },
+      {
+        "sr": "B: Razumem. Šta predlažeš?",
+        "reading": "බී: රාසුමෙම්. ෂ්තා ප්‍රෙද්ලාෂෙෂ්?",
+        "si": "තේරුණා. ඔයා මොකක්ද යෝජනා කරන්නේ?"
+      },
+      {
+        "sr": "A: Ako propustimo voz, proverićemo sledeći polazak.",
+        "reading": "ඒ: දුම්රිය මඟහැරුණොත් ඊළඟ පිටත්වීම පරීක්ෂා කරනවා.",
+        "si": "දුම්රිය මඟහැරුණොත් ඊළඟ පිටත්වීම පරීක්ෂා කරනවා."
+      },
+      {
+        "sr": "B: Slažem se. Tako ćemo lakše rešiti problem.",
+        "reading": "බී: ස්ලාෂෙම් සෙ. තාකො චෙමො ලක්ෂෙ රෙෂිති ප්‍රොබ්ලෙම්.",
+        "si": "එකඟයි. එහෙම කළොත් ගැටලුව පහසුවෙන් විසඳගන්න පුළුවන්."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Ako propustimo voz, proverićemo sledeći polazak.",
+      "audio": "Ako propustimo voz, proverićemo sledeći polazak.",
+      "reading": "දුම්රිය මඟහැරුණොත් ඊළඟ පිටත්වීම පරීක්ෂා කරනවා.",
+      "options": [
+        "දුම්රිය මඟහැරුණොත් ඊළඟ පිටත්වීම පරීක්ෂා කරනවා.",
+        "එය සම්පූර්ණයෙන්ම වෙනස් අදහසකි.",
+        "මට ඒ ගැන කිසිවක් කියන්න බැහැ."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“plan puta” යන්නෙහි අර්ථය කුමක්ද?",
+        "options": [
+          "ගමන් සැලැස්ම",
+          "අවාසිය",
+          "ප්‍රශ්නය"
+        ],
+        "answer": 0,
+        "explanation": "plan puta = ගමන් සැලැස්ම"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Ja juče sutra.",
+          "Zbog radova, autobus polazi sa druge stanice.",
+          "On i mi bila."
+        ],
+        "answer": 1,
+        "explanation": "අලුත්වැඩියා නිසා බස් රථය වෙනත් නැවතුමකින් පිටත් වෙනවා."
+      },
+      {
+        "prompt": "“polazak” යන්නෙහි අර්ථය?",
+        "options": [
+          "කල් දැමීම",
+          "පිටත්වීම",
+          "අමතක කිරීම"
+        ],
+        "answer": 1,
+        "explanation": "polazak = පිටත්වීම"
+      },
+      {
+        "prompt": "සංවාදයේ A පුද්ගලයාගේ අදහසට B ප්‍රතිචාරය කුමක්ද?",
+        "options": [
+          "Ne znam gde je.",
+          "Slažem se. Tako ćemo lakše rešiti problem.",
+          "Koliko košta?"
+        ],
+        "answer": 1,
+        "explanation": "“Slažem se” යනු “මම එකඟයි” යන්නයි."
+      }
+    ]
+  },
+  {
+    "id": "sr-b1-l14",
+    "unit": "ස්වාධීන භාවිතය",
+    "title": "B1 · පාඩම 14 · පාරිභෝගික තේරීම් සහ සේවා පැමිණිලි",
+    "objective": "පාරිභෝගික තේරීම් සහ සේවා පැමිණිලි ගැන පැහැදිලිව අදහස් ප්‍රකාශ කිරීම සහ උදාහරණ දීම",
+    "vocabulary": [
+      {
+        "word": "refund",
+        "reading": "පොව්‍රාචායි නොව්ත්සා",
+        "meaning": "මුදල් ආපසු ගෙවීම",
+        "example": "Želeo bih da podnesem reklamaciju zbog oštećenog proizvoda.",
+        "translation": "හානි වූ භාණ්ඩය ගැන පැමිණිල්ලක් ඉදිරිපත් කරන්න කැමතියි."
+      },
+      {
+        "word": "receipt",
+        "reading": "රාචුන්",
+        "meaning": "රිසිට්පත",
+        "example": "Molim vas da mi objasnite koje su mogućnosti zamene.",
+        "translation": "මාරු කිරීමේ විකල්ප මොනවාද කියලා පැහැදිලි කරන්න."
+      },
+      {
+        "word": "damaged",
+        "reading": "ඔෂ්තෙචෙන්",
+        "meaning": "හානි වූ",
+        "example": "Važno je da unapred razmotrimo sve mogućnosti.",
+        "translation": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්."
+      },
+      {
+        "word": "replacement",
+        "reading": "සාමෙනා",
+        "meaning": "මාරු කිරීම",
+        "example": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
+        "translation": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා."
+      },
+      {
+        "word": "quality",
+        "reading": "ක්වාලිටෙත්",
+        "meaning": "ගුණාත්මකභාවය",
+        "example": "Želeo bih da podnesem reklamaciju zbog oštećenog proizvoda.",
+        "translation": "හානි වූ භාණ්ඩය ගැන පැමිණිල්ලක් ඉදිරිපත් කරන්න කැමතියි."
+      },
+      {
+        "word": "warranty",
+        "reading": "ගරාන්ත්සියා",
+        "meaning": "වගකීම් සහතිකය",
+        "example": "Molim vas da mi objasnite koje su mogućnosti zamene.",
+        "translation": "මාරු කිරීමේ විකල්ප මොනවාද කියලා පැහැදිලි කරන්න."
+      },
+      {
+        "word": "customer",
+        "reading": "කුපාත්ස්",
+        "meaning": "පාරිභෝගිකයා",
+        "example": "Važno je da unapred razmotrimo sve mogućnosti.",
+        "translation": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්."
+      },
+      {
+        "word": "solution",
+        "reading": "රෙෂෙන්යේ",
+        "meaning": "විසඳුම",
+        "example": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
+        "translation": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා."
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "“želeo bih” සහ “bilo bi dobro” යොදා ආචාරශීලී පැමිණිලි ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Želeo bih da podnesem reklamaciju zbog oštećenog proizvoda.",
+        "reading": "හානි වූ භාණ්ඩය ගැන පැමිණිල්ලක් ඉදිරිපත් කරන්න කැමතියි.",
+        "si": "හානි වූ භාණ්ඩය ගැන පැමිණිල්ලක් ඉදිරිපත් කරන්න කැමතියි."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Želeo bih da podnesem reklamaciju zbog oštećenog proizvoda.",
+        "reading": "හානි වූ භාණ්ඩය ගැන පැමිණිල්ලක් ඉදිරිපත් කරන්න කැමතියි.",
+        "si": "හානි වූ භාණ්ඩය ගැන පැමිණිල්ලක් ඉදිරිපත් කරන්න කැමතියි."
+      },
+      {
+        "sr": "Molim vas da mi objasnite koje su mogućnosti zamene.",
+        "reading": "මාරු කිරීමේ විකල්ප මොනවාද කියලා පැහැදිලි කරන්න.",
+        "si": "මාරු කිරීමේ විකල්ප මොනවාද කියලා පැහැදිලි කරන්න."
+      },
+      {
+        "sr": "Važno je da unapred razmotrimo sve mogućnosti.",
+        "reading": "වාෂ්නො යෙ ද උනප්‍රෙද් රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
+        "reading": "නා ක්‍රායු චෙමො ඉස්සාබ්‍රාති රෙෂෙන්යේ කොයෙ නායිවිෂෙ ඔද්ගොවාරා ස්විමා.",
+        "si": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "A: Želeo bih da podnesem reklamaciju zbog oštećenog proizvoda.",
+        "reading": "ඒ: හානි වූ භාණ්ඩය ගැන පැමිණිල්ලක් ඉදිරිපත් කරන්න කැමතියි.",
+        "si": "හානි වූ භාණ්ඩය ගැන පැමිණිල්ලක් ඉදිරිපත් කරන්න කැමතියි."
+      },
+      {
+        "sr": "B: Razumem. Šta predlažeš?",
+        "reading": "බී: රාසුමෙම්. ෂ්තා ප්‍රෙද්ලාෂෙෂ්?",
+        "si": "තේරුණා. ඔයා මොකක්ද යෝජනා කරන්නේ?"
+      },
+      {
+        "sr": "A: Molim vas da mi objasnite koje su mogućnosti zamene.",
+        "reading": "ඒ: මාරු කිරීමේ විකල්ප මොනවාද කියලා පැහැදිලි කරන්න.",
+        "si": "මාරු කිරීමේ විකල්ප මොනවාද කියලා පැහැදිලි කරන්න."
+      },
+      {
+        "sr": "B: Slažem se. Tako ćemo lakše rešiti problem.",
+        "reading": "බී: ස්ලාෂෙම් සෙ. තාකො චෙමො ලක්ෂෙ රෙෂිති ප්‍රොබ්ලෙම්.",
+        "si": "එකඟයි. එහෙම කළොත් ගැටලුව පහසුවෙන් විසඳගන්න පුළුවන්."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Molim vas da mi objasnite koje su mogućnosti zamene.",
+      "audio": "Molim vas da mi objasnite koje su mogućnosti zamene.",
+      "reading": "මාරු කිරීමේ විකල්ප මොනවාද කියලා පැහැදිලි කරන්න.",
+      "options": [
+        "මාරු කිරීමේ විකල්ප මොනවාද කියලා පැහැදිලි කරන්න.",
+        "එය සම්පූර්ණයෙන්ම වෙනස් අදහසකි.",
+        "මට ඒ ගැන කිසිවක් කියන්න බැහැ."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“povraćaj novca” යන්නෙහි අර්ථය කුමක්ද?",
+        "options": [
+          "මුදල් ආපසු ගෙවීම",
+          "අවාසිය",
+          "ප්‍රශ්නය"
+        ],
+        "answer": 0,
+        "explanation": "povraćaj novca = මුදල් ආපසු ගෙවීම"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Ja juče sutra.",
+          "Želeo bih da podnesem reklamaciju zbog oštećenog proizvoda.",
+          "On i mi bila."
+        ],
+        "answer": 1,
+        "explanation": "හානි වූ භාණ්ඩය ගැන පැමිණිල්ලක් ඉදිරිපත් කරන්න කැමතියි."
+      },
+      {
+        "prompt": "“račun” යන්නෙහි අර්ථය?",
+        "options": [
+          "කල් දැමීම",
+          "රිසිට්පත",
+          "අමතක කිරීම"
+        ],
+        "answer": 1,
+        "explanation": "račun = රිසිට්පත"
+      },
+      {
+        "prompt": "සංවාදයේ A පුද්ගලයාගේ අදහසට B ප්‍රතිචාරය කුමක්ද?",
+        "options": [
+          "Ne znam gde je.",
+          "Slažem se. Tako ćemo lakše rešiti problem.",
+          "Koliko košta?"
+        ],
+        "answer": 1,
+        "explanation": "“Slažem se” යනු “මම එකඟයි” යන්නයි."
+      }
+    ]
+  },
+  {
+    "id": "sr-b1-l15",
+    "unit": "ස්වාධීන භාවිතය",
+    "title": "B1 · පාඩම 15 · ක්‍රියාවලි සහ උපදෙස් විස්තර කිරීම",
+    "objective": "ක්‍රියාවලි සහ උපදෙස් විස්තර කිරීම ගැන පැහැදිලිව අදහස් ප්‍රකාශ කිරීම සහ උදාහරණ දීම",
+    "vocabulary": [
+      {
+        "word": "step",
+        "reading": "කොරක්",
+        "meaning": "පියවර",
+        "example": "Prvo popunite obrazac, a zatim ga predajte službeniku.",
+        "translation": "මුලින් පෝරමය පුරවා පසුව නිලධාරියාට භාර දෙන්න."
+      },
+      {
+        "word": "instruction",
+        "reading": "උපුත්ස්ත්වො",
+        "meaning": "උපදෙස්",
+        "example": "Nakon što se uređaj uključi, sačekajte nekoliko sekundi.",
+        "translation": "උපාංගය ක්‍රියාත්මක කළ පසු තත්පර කිහිපයක් රැඳී සිටින්න."
+      },
+      {
+        "word": "equipment",
+        "reading": "ඔප්‍රෙමා",
+        "meaning": "උපකරණ",
+        "example": "Važno je da unapred razmotrimo sve mogućnosti.",
+        "translation": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්."
+      },
+      {
+        "word": "switch on",
+        "reading": "උක්ල්යුචිති",
+        "meaning": "ක්‍රියාත්මක කරනවා",
+        "example": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
+        "translation": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා."
+      },
+      {
+        "word": "submit",
+        "reading": "ප්‍රෙදාති",
+        "meaning": "භාර දෙනවා",
+        "example": "Prvo popunite obrazac, a zatim ga predajte službeniku.",
+        "translation": "මුලින් පෝරමය පුරවා පසුව නිලධාරියාට භාර දෙන්න."
+      },
+      {
+        "word": "check",
+        "reading": "ප්‍රොවෙරිති",
+        "meaning": "පරීක්ෂා කරනවා",
+        "example": "Nakon što se uređaj uključi, sačekajte nekoliko sekundi.",
+        "translation": "උපාංගය ක්‍රියාත්මක කළ පසු තත්පර කිහිපයක් රැඳී සිටින්න."
+      },
+      {
+        "word": "carefully",
+        "reading": "පාෂ්ල්යීවො",
+        "meaning": "ප්‍රවේශමෙන්",
+        "example": "Važno je da unapred razmotrimo sve mogućnosti.",
+        "translation": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්."
+      },
+      {
+        "word": "before",
+        "reading": "ප්‍රෙ",
+        "meaning": "පෙර",
+        "example": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
+        "translation": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා."
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "“nakon što” සහ “pre nego što” යොදා ක්‍රියාවලියේ අනුපිළිවෙළ කියන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Prvo popunite obrazac, a zatim ga predajte službeniku.",
+        "reading": "මුලින් පෝරමය පුරවා පසුව නිලධාරියාට භාර දෙන්න.",
+        "si": "මුලින් පෝරමය පුරවා පසුව නිලධාරියාට භාර දෙන්න."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Prvo popunite obrazac, a zatim ga predajte službeniku.",
+        "reading": "මුලින් පෝරමය පුරවා පසුව නිලධාරියාට භාර දෙන්න.",
+        "si": "මුලින් පෝරමය පුරවා පසුව නිලධාරියාට භාර දෙන්න."
+      },
+      {
+        "sr": "Nakon što se uređaj uključi, sačekajte nekoliko sekundi.",
+        "reading": "උපාංගය ක්‍රියාත්මක කළ පසු තත්පර කිහිපයක් රැඳී සිටින්න.",
+        "si": "උපාංගය ක්‍රියාත්මක කළ පසු තත්පර කිහිපයක් රැඳී සිටින්න."
+      },
+      {
+        "sr": "Važno je da unapred razmotrimo sve mogućnosti.",
+        "reading": "වාෂ්නො යෙ ද උනප්‍රෙද් රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
+        "reading": "නා ක්‍රායු චෙමො ඉස්සාබ්‍රාති රෙෂෙන්යේ කොයෙ නායිවිෂෙ ඔද්ගොවාරා ස්විමා.",
+        "si": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "A: Prvo popunite obrazac, a zatim ga predajte službeniku.",
+        "reading": "ඒ: මුලින් පෝරමය පුරවා පසුව නිලධාරියාට භාර දෙන්න.",
+        "si": "මුලින් පෝරමය පුරවා පසුව නිලධාරියාට භාර දෙන්න."
+      },
+      {
+        "sr": "B: Razumem. Šta predlažeš?",
+        "reading": "බී: රාසුමෙම්. ෂ්තා ප්‍රෙද්ලාෂෙෂ්?",
+        "si": "තේරුණා. ඔයා මොකක්ද යෝජනා කරන්නේ?"
+      },
+      {
+        "sr": "A: Nakon što se uređaj uključi, sačekajte nekoliko sekundi.",
+        "reading": "ඒ: උපාංගය ක්‍රියාත්මක කළ පසු තත්පර කිහිපයක් රැඳී සිටින්න.",
+        "si": "උපාංගය ක්‍රියාත්මක කළ පසු තත්පර කිහිපයක් රැඳී සිටින්න."
+      },
+      {
+        "sr": "B: Slažem se. Tako ćemo lakše rešiti problem.",
+        "reading": "බී: ස්ලාෂෙම් සෙ. තාකො චෙමො ලක්ෂෙ රෙෂිති ප්‍රොබ්ලෙම්.",
+        "si": "එකඟයි. එහෙම කළොත් ගැටලුව පහසුවෙන් විසඳගන්න පුළුවන්."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Nakon što se uređaj uključi, sačekajte nekoliko sekundi.",
+      "audio": "Nakon što se uređaj uključi, sačekajte nekoliko sekundi.",
+      "reading": "උපාංගය ක්‍රියාත්මක කළ පසු තත්පර කිහිපයක් රැඳී සිටින්න.",
+      "options": [
+        "උපාංගය ක්‍රියාත්මක කළ පසු තත්පර කිහිපයක් රැඳී සිටින්න.",
+        "එය සම්පූර්ණයෙන්ම වෙනස් අදහසකි.",
+        "මට ඒ ගැන කිසිවක් කියන්න බැහැ."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“korak” යන්නෙහි අර්ථය කුමක්ද?",
+        "options": [
+          "පියවර",
+          "අවාසිය",
+          "ප්‍රශ්නය"
+        ],
+        "answer": 0,
+        "explanation": "korak = පියවර"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Ja juče sutra.",
+          "Prvo popunite obrazac, a zatim ga predajte službeniku.",
+          "On i mi bila."
+        ],
+        "answer": 1,
+        "explanation": "මුලින් පෝරමය පුරවා පසුව නිලධාරියාට භාර දෙන්න."
+      },
+      {
+        "prompt": "“uputstvo” යන්නෙහි අර්ථය?",
+        "options": [
+          "කල් දැමීම",
+          "උපදෙස්",
+          "අමතක කිරීම"
+        ],
+        "answer": 1,
+        "explanation": "uputstvo = උපදෙස්"
+      },
+      {
+        "prompt": "සංවාදයේ A පුද්ගලයාගේ අදහසට B ප්‍රතිචාරය කුමක්ද?",
+        "options": [
+          "Ne znam gde je.",
+          "Slažem se. Tako ćemo lakše rešiti problem.",
+          "Koliko košta?"
+        ],
+        "answer": 1,
+        "explanation": "“Slažem se” යනු “මම එකඟයි” යන්නයි."
+      }
+    ]
+  },
+  {
+    "id": "sr-b1-l16",
+    "unit": "ස්වාධීන භාවිතය",
+    "title": "B1 · පාඩම 16 · සමාජ ගැටලු සහ ප්‍රජා සහභාගීත්වය",
+    "objective": "සමාජ ගැටලු සහ ප්‍රජා සහභාගීත්වය ගැන පැහැදිලිව අදහස් ප්‍රකාශ කිරීම සහ උදාහරණ දීම",
+    "vocabulary": [
+      {
+        "word": "citizen",
+        "reading": "ග්‍රාජානින්",
+        "meaning": "පුරවැසියා",
+        "example": "Naša zajednica organizuje akciju čišćenja parka.",
+        "translation": "අපේ ප්‍රජාව උද්‍යානය පිරිසිදු කිරීමේ වැඩසටහනක් සංවිධානය කරනවා."
+      },
+      {
+        "word": "volunteer",
+        "reading": "වොලොන්තර",
+        "meaning": "ස්වේච්ඡා සේවකයා",
+        "example": "Građani mogu da predlože rešenja na javnom sastanku.",
+        "translation": "පුරවැසියන්ට මහජන රැස්වීමේදී විසඳුම් යෝජනා කළ හැකියි."
+      },
+      {
+        "word": "neighbourhood",
+        "reading": "නාසෙල්යේ",
+        "meaning": "අසල්වැසි ප්‍රදේශය",
+        "example": "Važno je da unapred razmotrimo sve mogućnosti.",
+        "translation": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්."
+      },
+      {
+        "word": "meeting",
+        "reading": "සාස්තානාක්",
+        "meaning": "රැස්වීම",
+        "example": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
+        "translation": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා."
+      },
+      {
+        "word": "proposal",
+        "reading": "ප්‍රෙද්ලොග්",
+        "meaning": "යෝජනාව",
+        "example": "Naša zajednica organizuje akciju čišćenja parka.",
+        "translation": "අපේ ප්‍රජාව උද්‍යානය පිරිසිදු කිරීමේ වැඩසටහනක් සංවිධානය කරනවා."
+      },
+      {
+        "word": "support",
+        "reading": "පොද්ර්ෂ්කා",
+        "meaning": "සහාය",
+        "example": "Građani mogu da predlože rešenja na javnom sastanku.",
+        "translation": "පුරවැසියන්ට මහජන රැස්වීමේදී විසඳුම් යෝජනා කළ හැකියි."
+      },
+      {
+        "word": "public",
+        "reading": "යාව්නි",
+        "meaning": "මහජන",
+        "example": "Važno je da unapred razmotrimo sve mogućnosti.",
+        "translation": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්."
+      },
+      {
+        "word": "issue",
+        "reading": "ප්‍රොබ්ලෙම්",
+        "meaning": "ගැටලුව",
+        "example": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
+        "translation": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා."
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "“treba da” සහ “mogu da” යොදා යෝජනා සහ හැකියාවන් ප්‍රකාශ කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Naša zajednica organizuje akciju čišćenja parka.",
+        "reading": "අපේ ප්‍රජාව උද්‍යානය පිරිසිදු කිරීමේ වැඩසටහනක් සංවිධානය කරනවා.",
+        "si": "අපේ ප්‍රජාව උද්‍යානය පිරිසිදු කිරීමේ වැඩසටහනක් සංවිධානය කරනවා."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Naša zajednica organizuje akciju čišćenja parka.",
+        "reading": "අපේ ප්‍රජාව උද්‍යානය පිරිසිදු කිරීමේ වැඩසටහනක් සංවිධානය කරනවා.",
+        "si": "අපේ ප්‍රජාව උද්‍යානය පිරිසිදු කිරීමේ වැඩසටහනක් සංවිධානය කරනවා."
+      },
+      {
+        "sr": "Građani mogu da predlože rešenja na javnom sastanku.",
+        "reading": "පුරවැසියන්ට මහජන රැස්වීමේදී විසඳුම් යෝජනා කළ හැකියි.",
+        "si": "පුරවැසියන්ට මහජන රැස්වීමේදී විසඳුම් යෝජනා කළ හැකියි."
+      },
+      {
+        "sr": "Važno je da unapred razmotrimo sve mogućnosti.",
+        "reading": "වාෂ්නො යෙ ද උනප්‍රෙද් රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
+        "reading": "නා ක්‍රායු චෙමො ඉස්සාබ්‍රාති රෙෂෙන්යේ කොයෙ නායිවිෂෙ ඔද්ගොවාරා ස්විමා.",
+        "si": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "A: Naša zajednica organizuje akciju čišćenja parka.",
+        "reading": "ඒ: අපේ ප්‍රජාව උද්‍යානය පිරිසිදු කිරීමේ වැඩසටහනක් සංවිධානය කරනවා.",
+        "si": "අපේ ප්‍රජාව උද්‍යානය පිරිසිදු කිරීමේ වැඩසටහනක් සංවිධානය කරනවා."
+      },
+      {
+        "sr": "B: Razumem. Šta predlažeš?",
+        "reading": "බී: රාසුමෙම්. ෂ්තා ප්‍රෙද්ලාෂෙෂ්?",
+        "si": "තේරුණා. ඔයා මොකක්ද යෝජනා කරන්නේ?"
+      },
+      {
+        "sr": "A: Građani mogu da predlože rešenja na javnom sastanku.",
+        "reading": "ඒ: පුරවැසියන්ට මහජන රැස්වීමේදී විසඳුම් යෝජනා කළ හැකියි.",
+        "si": "පුරවැසියන්ට මහජන රැස්වීමේදී විසඳුම් යෝජනා කළ හැකියි."
+      },
+      {
+        "sr": "B: Slažem se. Tako ćemo lakše rešiti problem.",
+        "reading": "බී: ස්ලාෂෙම් සෙ. තාකො චෙමො ලක්ෂෙ රෙෂිති ප්‍රොබ්ලෙම්.",
+        "si": "එකඟයි. එහෙම කළොත් ගැටලුව පහසුවෙන් විසඳගන්න පුළුවන්."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Građani mogu da predlože rešenja na javnom sastanku.",
+      "audio": "Građani mogu da predlože rešenja na javnom sastanku.",
+      "reading": "පුරවැසියන්ට මහජන රැස්වීමේදී විසඳුම් යෝජනා කළ හැකියි.",
+      "options": [
+        "පුරවැසියන්ට මහජන රැස්වීමේදී විසඳුම් යෝජනා කළ හැකියි.",
+        "එය සම්පූර්ණයෙන්ම වෙනස් අදහසකි.",
+        "මට ඒ ගැන කිසිවක් කියන්න බැහැ."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“građanin” යන්නෙහි අර්ථය කුමක්ද?",
+        "options": [
+          "පුරවැසියා",
+          "අවාසිය",
+          "ප්‍රශ්නය"
+        ],
+        "answer": 0,
+        "explanation": "građanin = පුරවැසියා"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Ja juče sutra.",
+          "Naša zajednica organizuje akciju čišćenja parka.",
+          "On i mi bila."
+        ],
+        "answer": 1,
+        "explanation": "අපේ ප්‍රජාව උද්‍යානය පිරිසිදු කිරීමේ වැඩසටහනක් සංවිධානය කරනවා."
+      },
+      {
+        "prompt": "“volonter” යන්නෙහි අර්ථය?",
+        "options": [
+          "කල් දැමීම",
+          "ස්වේච්ඡා සේවකයා",
+          "අමතක කිරීම"
+        ],
+        "answer": 1,
+        "explanation": "volonter = ස්වේච්ඡා සේවකයා"
+      },
+      {
+        "prompt": "සංවාදයේ A පුද්ගලයාගේ අදහසට B ප්‍රතිචාරය කුමක්ද?",
+        "options": [
+          "Ne znam gde je.",
+          "Slažem se. Tako ćemo lakše rešiti problem.",
+          "Koliko košta?"
+        ],
+        "answer": 1,
+        "explanation": "“Slažem se” යනු “මම එකඟයි” යන්නයි."
+      }
+    ]
+  },
+  {
+    "id": "sr-b1-l17",
+    "unit": "ස්වාධීන භාවිතය",
+    "title": "B1 · පාඩම 17 · වැඩ සහ පෞද්ගලික ජීවිතයේ සමබරතාව",
+    "objective": "වැඩ සහ පෞද්ගලික ජීවිතයේ සමබරතාව ගැන පැහැදිලිව අදහස් ප්‍රකාශ කිරීම සහ උදාහරණ දීම",
+    "vocabulary": [
+      {
+        "word": "schedule",
+        "reading": "රාස්පොරෙද්",
+        "meaning": "කාලසටහන",
+        "example": "Pokušavam da napravim ravnotežu između posla i odmora.",
+        "translation": "වැඩ සහ විවේකය අතර සමබරතාවයක් ඇති කරන්න උත්සාහ කරනවා."
+      },
+      {
+        "word": "deadline",
+        "reading": "රොක්",
+        "meaning": "අවසන් දිනය",
+        "example": "Ako unapred isplaniramo obaveze, imaćemo više slobodnog vremena.",
+        "translation": "කලින් වැඩ සැලසුම් කළොත් වැඩි නිදහස් කාලයක් ලැබෙනවා."
+      },
+      {
+        "word": "priority",
+        "reading": "ප්‍රියොරිතෙත්",
+        "meaning": "ප්‍රමුඛතාව",
+        "example": "Važno je da unapred razmotrimo sve mogućnosti.",
+        "translation": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්."
+      },
+      {
+        "word": "break",
+        "reading": "පවුසා",
+        "meaning": "විවේකය",
+        "example": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
+        "translation": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා."
+      },
+      {
+        "word": "overtime",
+        "reading": "ප්‍රෙකොව්‍රෙමෙනි රාද්",
+        "meaning": "අතිකාල වැඩ",
+        "example": "Pokušavam da napravim ravnotežu između posla i odmora.",
+        "translation": "වැඩ සහ විවේකය අතර සමබරතාවයක් ඇති කරන්න උත්සාහ කරනවා."
+      },
+      {
+        "word": "rest",
+        "reading": "ඔද්මොර",
+        "meaning": "විවේකය",
+        "example": "Ako unapred isplaniramo obaveze, imaćemo više slobodnog vremena.",
+        "translation": "කලින් වැඩ සැලසුම් කළොත් වැඩි නිදහස් කාලයක් ලැබෙනවා."
+      },
+      {
+        "word": "manage",
+        "reading": "ඔර්ගානිසොවාති",
+        "meaning": "සංවිධානය කරනවා",
+        "example": "Važno je da unapred razmotrimo sve mogućnosti.",
+        "translation": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්."
+      },
+      {
+        "word": "free time",
+        "reading": "ස්ලොබොද්නො ව්‍රෙමෙ",
+        "meaning": "නිදහස් කාලය",
+        "example": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
+        "translation": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා."
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "“dok” සහ “kada” යොදා කාල කළමනාකරණය පැහැදිලි කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Pokušavam da napravim ravnotežu između posla i odmora.",
+        "reading": "වැඩ සහ විවේකය අතර සමබරතාවයක් ඇති කරන්න උත්සාහ කරනවා.",
+        "si": "වැඩ සහ විවේකය අතර සමබරතාවයක් ඇති කරන්න උත්සාහ කරනවා."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Pokušavam da napravim ravnotežu između posla i odmora.",
+        "reading": "වැඩ සහ විවේකය අතර සමබරතාවයක් ඇති කරන්න උත්සාහ කරනවා.",
+        "si": "වැඩ සහ විවේකය අතර සමබරතාවයක් ඇති කරන්න උත්සාහ කරනවා."
+      },
+      {
+        "sr": "Ako unapred isplaniramo obaveze, imaćemo više slobodnog vremena.",
+        "reading": "කලින් වැඩ සැලසුම් කළොත් වැඩි නිදහස් කාලයක් ලැබෙනවා.",
+        "si": "කලින් වැඩ සැලසුම් කළොත් වැඩි නිදහස් කාලයක් ලැබෙනවා."
+      },
+      {
+        "sr": "Važno je da unapred razmotrimo sve mogućnosti.",
+        "reading": "වාෂ්නො යෙ ද උනප්‍රෙද් රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
+        "reading": "නා ක්‍රායු චෙමො ඉස්සාබ්‍රාති රෙෂෙන්යේ කොයෙ නායිවිෂෙ ඔද්ගොවාරා ස්විමා.",
+        "si": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "A: Pokušavam da napravim ravnotežu između posla i odmora.",
+        "reading": "ඒ: වැඩ සහ විවේකය අතර සමබරතාවයක් ඇති කරන්න උත්සාහ කරනවා.",
+        "si": "වැඩ සහ විවේකය අතර සමබරතාවයක් ඇති කරන්න උත්සාහ කරනවා."
+      },
+      {
+        "sr": "B: Razumem. Šta predlažeš?",
+        "reading": "බී: රාසුමෙම්. ෂ්තා ප්‍රෙද්ලාෂෙෂ්?",
+        "si": "තේරුණා. ඔයා මොකක්ද යෝජනා කරන්නේ?"
+      },
+      {
+        "sr": "A: Ako unapred isplaniramo obaveze, imaćemo više slobodnog vremena.",
+        "reading": "ඒ: කලින් වැඩ සැලසුම් කළොත් වැඩි නිදහස් කාලයක් ලැබෙනවා.",
+        "si": "කලින් වැඩ සැලසුම් කළොත් වැඩි නිදහස් කාලයක් ලැබෙනවා."
+      },
+      {
+        "sr": "B: Slažem se. Tako ćemo lakše rešiti problem.",
+        "reading": "බී: ස්ලාෂෙම් සෙ. තාකො චෙමො ලක්ෂෙ රෙෂිති ප්‍රොබ්ලෙම්.",
+        "si": "එකඟයි. එහෙම කළොත් ගැටලුව පහසුවෙන් විසඳගන්න පුළුවන්."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Ako unapred isplaniramo obaveze, imaćemo više slobodnog vremena.",
+      "audio": "Ako unapred isplaniramo obaveze, imaćemo više slobodnog vremena.",
+      "reading": "කලින් වැඩ සැලසුම් කළොත් වැඩි නිදහස් කාලයක් ලැබෙනවා.",
+      "options": [
+        "කලින් වැඩ සැලසුම් කළොත් වැඩි නිදහස් කාලයක් ලැබෙනවා.",
+        "එය සම්පූර්ණයෙන්ම වෙනස් අදහසකි.",
+        "මට ඒ ගැන කිසිවක් කියන්න බැහැ."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“raspored” යන්නෙහි අර්ථය කුමක්ද?",
+        "options": [
+          "කාලසටහන",
+          "අවාසිය",
+          "ප්‍රශ්නය"
+        ],
+        "answer": 0,
+        "explanation": "raspored = කාලසටහන"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Ja juče sutra.",
+          "Pokušavam da napravim ravnotežu između posla i odmora.",
+          "On i mi bila."
+        ],
+        "answer": 1,
+        "explanation": "වැඩ සහ විවේකය අතර සමබරතාවයක් ඇති කරන්න උත්සාහ කරනවා."
+      },
+      {
+        "prompt": "“rok” යන්නෙහි අර්ථය?",
+        "options": [
+          "කල් දැමීම",
+          "අවසන් දිනය",
+          "අමතක කිරීම"
+        ],
+        "answer": 1,
+        "explanation": "rok = අවසන් දිනය"
+      },
+      {
+        "prompt": "සංවාදයේ A පුද්ගලයාගේ අදහසට B ප්‍රතිචාරය කුමක්ද?",
+        "options": [
+          "Ne znam gde je.",
+          "Slažem se. Tako ćemo lakše rešiti problem.",
+          "Koliko košta?"
+        ],
+        "answer": 1,
+        "explanation": "“Slažem se” යනු “මම එකඟයි” යන්නයි."
+      }
+    ]
+  },
+  {
+    "id": "sr-b1-l18",
+    "unit": "ස්වාධීන භාවිතය",
+    "title": "B1 · පාඩම 18 · පරිසරය සහ තිරසාර තේරීම්",
+    "objective": "පරිසරය සහ තිරසාර තේරීම් ගැන පැහැදිලිව අදහස් ප්‍රකාශ කිරීම සහ උදාහරණ දීම",
+    "vocabulary": [
+      {
+        "word": "recycling",
+        "reading": "රෙත්සික්ලාෂා",
+        "meaning": "ප්‍රතිචක්‍රීකරණය",
+        "example": "Javni prevoz je često održiviji izbor od automobila.",
+        "translation": "පෞද්ගලික මෝටර් රථයට වඩා පොදු ප්‍රවාහනය බොහෝවිට තිරසාර තේරීමක්."
+      },
+      {
+        "word": "waste",
+        "reading": "ඔත්පාද්",
+        "meaning": "අපද්‍රව්‍ය",
+        "example": "Ako smanjimo otpad, čuvamo prirodne resurse.",
+        "translation": "අපද්‍රව්‍ය අඩු කළොත් ස්වභාවික සම්පත් ආරක්ෂා කරනවා."
+      },
+      {
+        "word": "resource",
+        "reading": "රෙසුර්ස්",
+        "meaning": "සම්පත",
+        "example": "Važno je da unapred razmotrimo sve mogućnosti.",
+        "translation": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්."
+      },
+      {
+        "word": "energy",
+        "reading": "එනෙර්ගියා",
+        "meaning": "ශක්තිය",
+        "example": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
+        "translation": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා."
+      },
+      {
+        "word": "pollution",
+        "reading": "සාගාජෙන්යේ",
+        "meaning": "දූෂණය",
+        "example": "Javni prevoz je često održiviji izbor od automobila.",
+        "translation": "පෞද්ගලික මෝටර් රථයට වඩා පොදු ප්‍රවාහනය බොහෝවිට තිරසාර තේරීමක්."
+      },
+      {
+        "word": "reusable",
+        "reading": "සා විෂෙක්‍රාත්නු උපොත්‍රෙබු",
+        "meaning": "නැවත භාවිත කළ හැකි",
+        "example": "Ako smanjimo otpad, čuvamo prirodne resurse.",
+        "translation": "අපද්‍රව්‍ය අඩු කළොත් ස්වභාවික සම්පත් ආරක්ෂා කරනවා."
+      },
+      {
+        "word": "public transport",
+        "reading": "යාව්නි ප්‍රෙවොස්",
+        "meaning": "පොදු ප්‍රවාහනය",
+        "example": "Važno je da unapred razmotrimo sve mogućnosti.",
+        "translation": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්."
+      },
+      {
+        "word": "protect",
+        "reading": "සාෂ්තිති",
+        "meaning": "ආරක්ෂා කරනවා",
+        "example": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
+        "translation": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා."
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "“trebalo bi” සහ සංසන්දනාත්මක රටා යොදා තිරසාර තේරීම් විස්තර කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Javni prevoz je često održiviji izbor od automobila.",
+        "reading": "පෞද්ගලික මෝටර් රථයට වඩා පොදු ප්‍රවාහනය බොහෝවිට තිරසාර තේරීමක්.",
+        "si": "පෞද්ගලික මෝටර් රථයට වඩා පොදු ප්‍රවාහනය බොහෝවිට තිරසාර තේරීමක්."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Javni prevoz je često održiviji izbor od automobila.",
+        "reading": "පෞද්ගලික මෝටර් රථයට වඩා පොදු ප්‍රවාහනය බොහෝවිට තිරසාර තේරීමක්.",
+        "si": "පෞද්ගලික මෝටර් රථයට වඩා පොදු ප්‍රවාහනය බොහෝවිට තිරසාර තේරීමක්."
+      },
+      {
+        "sr": "Ako smanjimo otpad, čuvamo prirodne resurse.",
+        "reading": "අපද්‍රව්‍ය අඩු කළොත් ස්වභාවික සම්පත් ආරක්ෂා කරනවා.",
+        "si": "අපද්‍රව්‍ය අඩු කළොත් ස්වභාවික සම්පත් ආරක්ෂා කරනවා."
+      },
+      {
+        "sr": "Važno je da unapred razmotrimo sve mogućnosti.",
+        "reading": "වාෂ්නො යෙ ද උනප්‍රෙද් රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
+        "reading": "නා ක්‍රායු චෙමො ඉස්සාබ්‍රාති රෙෂෙන්යේ කොයෙ නායිවිෂෙ ඔද්ගොවාරා ස්විමා.",
+        "si": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "A: Javni prevoz je često održiviji izbor od automobila.",
+        "reading": "ඒ: පෞද්ගලික මෝටර් රථයට වඩා පොදු ප්‍රවාහනය බොහෝවිට තිරසාර තේරීමක්.",
+        "si": "පෞද්ගලික මෝටර් රථයට වඩා පොදු ප්‍රවාහනය බොහෝවිට තිරසාර තේරීමක්."
+      },
+      {
+        "sr": "B: Razumem. Šta predlažeš?",
+        "reading": "බී: රාසුමෙම්. ෂ්තා ප්‍රෙද්ලාෂෙෂ්?",
+        "si": "තේරුණා. ඔයා මොකක්ද යෝජනා කරන්නේ?"
+      },
+      {
+        "sr": "A: Ako smanjimo otpad, čuvamo prirodne resurse.",
+        "reading": "ඒ: අපද්‍රව්‍ය අඩු කළොත් ස්වභාවික සම්පත් ආරක්ෂා කරනවා.",
+        "si": "අපද්‍රව්‍ය අඩු කළොත් ස්වභාවික සම්පත් ආරක්ෂා කරනවා."
+      },
+      {
+        "sr": "B: Slažem se. Tako ćemo lakše rešiti problem.",
+        "reading": "බී: ස්ලාෂෙම් සෙ. තාකො චෙමො ලක්ෂෙ රෙෂිති ප්‍රොබ්ලෙම්.",
+        "si": "එකඟයි. එහෙම කළොත් ගැටලුව පහසුවෙන් විසඳගන්න පුළුවන්."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Ako smanjimo otpad, čuvamo prirodne resurse.",
+      "audio": "Ako smanjimo otpad, čuvamo prirodne resurse.",
+      "reading": "අපද්‍රව්‍ය අඩු කළොත් ස්වභාවික සම්පත් ආරක්ෂා කරනවා.",
+      "options": [
+        "අපද්‍රව්‍ය අඩු කළොත් ස්වභාවික සම්පත් ආරක්ෂා කරනවා.",
+        "එය සම්පූර්ණයෙන්ම වෙනස් අදහසකි.",
+        "මට ඒ ගැන කිසිවක් කියන්න බැහැ."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“reciklaža” යන්නෙහි අර්ථය කුමක්ද?",
+        "options": [
+          "ප්‍රතිචක්‍රීකරණය",
+          "අවාසිය",
+          "ප්‍රශ්නය"
+        ],
+        "answer": 0,
+        "explanation": "reciklaža = ප්‍රතිචක්‍රීකරණය"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Ja juče sutra.",
+          "Javni prevoz je često održiviji izbor od automobila.",
+          "On i mi bila."
+        ],
+        "answer": 1,
+        "explanation": "පෞද්ගලික මෝටර් රථයට වඩා පොදු ප්‍රවාහනය බොහෝවිට තිරසාර තේරීමක්."
+      },
+      {
+        "prompt": "“otpad” යන්නෙහි අර්ථය?",
+        "options": [
+          "කල් දැමීම",
+          "අපද්‍රව්‍ය",
+          "අමතක කිරීම"
+        ],
+        "answer": 1,
+        "explanation": "otpad = අපද්‍රව්‍ය"
+      },
+      {
+        "prompt": "සංවාදයේ A පුද්ගලයාගේ අදහසට B ප්‍රතිචාරය කුමක්ද?",
+        "options": [
+          "Ne znam gde je.",
+          "Slažem se. Tako ćemo lakše rešiti problem.",
+          "Koliko košta?"
+        ],
+        "answer": 1,
+        "explanation": "“Slažem se” යනු “මම එකඟයි” යන්නයි."
+      }
+    ]
+  },
+  {
+    "id": "sr-b1-l19",
+    "unit": "ස්වාධීන භාවිතය",
+    "title": "B1 · පාඩම 19 · හේතු සහ ප්‍රතිඵල පැහැදිලි කිරීම",
+    "objective": "හේතු සහ ප්‍රතිඵල පැහැදිලි කිරීම ගැන පැහැදිලිව අදහස් ප්‍රකාශ කිරීම සහ උදාහරණ දීම",
+    "vocabulary": [
+      {
+        "word": "cause",
+        "reading": "උස්‍රොක්",
+        "meaning": "හේතුව",
+        "example": "Zbog jake kiše, utakmica je odložena.",
+        "translation": "තද වැස්ස නිසා තරගය කල් දැමුවා."
+      },
+      {
+        "word": "effect",
+        "reading": "එෆෙකාත්",
+        "meaning": "බලපෑම",
+        "example": "Nije bilo dovoljno vremena, zato smo promenili plan.",
+        "translation": "ප්‍රමාණවත් කාලයක් නොතිබූ නිසා අපි සැලැස්ම වෙනස් කළා."
+      },
+      {
+        "word": "consequence",
+        "reading": "පොස්ලෙදිත්සා",
+        "meaning": "ප්‍රතිඵලය",
+        "example": "Važno je da unapred razmotrimo sve mogućnosti.",
+        "translation": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්."
+      },
+      {
+        "word": "therefore",
+        "reading": "සාතො",
+        "meaning": "එබැවින්",
+        "example": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
+        "translation": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා."
+      },
+      {
+        "word": "because of",
+        "reading": "ස්බොග්",
+        "meaning": "නිසා",
+        "example": "Zbog jake kiše, utakmica je odložena.",
+        "translation": "තද වැස්ස නිසා තරගය කල් දැමුවා."
+      },
+      {
+        "word": "result",
+        "reading": "රෙසුල්තාත්",
+        "meaning": "ප්‍රතිඵලය",
+        "example": "Nije bilo dovoljno vremena, zato smo promenili plan.",
+        "translation": "ප්‍රමාණවත් කාලයක් නොතිබූ නිසා අපි සැලැස්ම වෙනස් කළා."
+      },
+      {
+        "word": "increase",
+        "reading": "පොවෙචාති",
+        "meaning": "වැඩි කරනවා",
+        "example": "Važno je da unapred razmotrimo sve mogućnosti.",
+        "translation": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්."
+      },
+      {
+        "word": "reduce",
+        "reading": "ස්මාන්යිති",
+        "meaning": "අඩු කරනවා",
+        "example": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
+        "translation": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා."
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "“zbog” සහ “zato” යොදා හේතුව හා ප්‍රතිඵලය වෙන්කර දක්වන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Zbog jake kiše, utakmica je odložena.",
+        "reading": "තද වැස්ස නිසා තරගය කල් දැමුවා.",
+        "si": "තද වැස්ස නිසා තරගය කල් දැමුවා."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Zbog jake kiše, utakmica je odložena.",
+        "reading": "තද වැස්ස නිසා තරගය කල් දැමුවා.",
+        "si": "තද වැස්ස නිසා තරගය කල් දැමුවා."
+      },
+      {
+        "sr": "Nije bilo dovoljno vremena, zato smo promenili plan.",
+        "reading": "ප්‍රමාණවත් කාලයක් නොතිබූ නිසා අපි සැලැස්ම වෙනස් කළා.",
+        "si": "ප්‍රමාණවත් කාලයක් නොතිබූ නිසා අපි සැලැස්ම වෙනස් කළා."
+      },
+      {
+        "sr": "Važno je da unapred razmotrimo sve mogućnosti.",
+        "reading": "වාෂ්නො යෙ ද උනප්‍රෙද් රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
+        "reading": "නා ක්‍රායු චෙමො ඉස්සාබ්‍රාති රෙෂෙන්යේ කොයෙ නායිවිෂෙ ඔද්ගොවාරා ස්විමා.",
+        "si": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "A: Zbog jake kiše, utakmica je odložena.",
+        "reading": "ඒ: තද වැස්ස නිසා තරගය කල් දැමුවා.",
+        "si": "තද වැස්ස නිසා තරගය කල් දැමුවා."
+      },
+      {
+        "sr": "B: Razumem. Šta predlažeš?",
+        "reading": "බී: රාසුමෙම්. ෂ්තා ප්‍රෙද්ලාෂෙෂ්?",
+        "si": "තේරුණා. ඔයා මොකක්ද යෝජනා කරන්නේ?"
+      },
+      {
+        "sr": "A: Nije bilo dovoljno vremena, zato smo promenili plan.",
+        "reading": "ඒ: ප්‍රමාණවත් කාලයක් නොතිබූ නිසා අපි සැලැස්ම වෙනස් කළා.",
+        "si": "ප්‍රමාණවත් කාලයක් නොතිබූ නිසා අපි සැලැස්ම වෙනස් කළා."
+      },
+      {
+        "sr": "B: Slažem se. Tako ćemo lakše rešiti problem.",
+        "reading": "බී: ස්ලාෂෙම් සෙ. තාකො චෙමො ලක්ෂෙ රෙෂිති ප්‍රොබ්ලෙම්.",
+        "si": "එකඟයි. එහෙම කළොත් ගැටලුව පහසුවෙන් විසඳගන්න පුළුවන්."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Nije bilo dovoljno vremena, zato smo promenili plan.",
+      "audio": "Nije bilo dovoljno vremena, zato smo promenili plan.",
+      "reading": "ප්‍රමාණවත් කාලයක් නොතිබූ නිසා අපි සැලැස්ම වෙනස් කළා.",
+      "options": [
+        "ප්‍රමාණවත් කාලයක් නොතිබූ නිසා අපි සැලැස්ම වෙනස් කළා.",
+        "එය සම්පූර්ණයෙන්ම වෙනස් අදහසකි.",
+        "මට ඒ ගැන කිසිවක් කියන්න බැහැ."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“uzrok” යන්නෙහි අර්ථය කුමක්ද?",
+        "options": [
+          "හේතුව",
+          "අවාසිය",
+          "ප්‍රශ්නය"
+        ],
+        "answer": 0,
+        "explanation": "uzrok = හේතුව"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Ja juče sutra.",
+          "Zbog jake kiše, utakmica je odložena.",
+          "On i mi bila."
+        ],
+        "answer": 1,
+        "explanation": "තද වැස්ස නිසා තරගය කල් දැමුවා."
+      },
+      {
+        "prompt": "“efekat” යන්නෙහි අර්ථය?",
+        "options": [
+          "කල් දැමීම",
+          "බලපෑම",
+          "අමතක කිරීම"
+        ],
+        "answer": 1,
+        "explanation": "efekat = බලපෑම"
+      },
+      {
+        "prompt": "සංවාදයේ A පුද්ගලයාගේ අදහසට B ප්‍රතිචාරය කුමක්ද?",
+        "options": [
+          "Ne znam gde je.",
+          "Slažem se. Tako ćemo lakše rešiti problem.",
+          "Koliko košta?"
+        ],
+        "answer": 1,
+        "explanation": "“Slažem se” යනු “මම එකඟයි” යන්නයි."
+      }
+    ]
+  },
+  {
+    "id": "sr-b1-l20",
+    "unit": "ස්වාධීන භාවිතය",
+    "title": "B1 · පාඩම 20 · සංවිධානාත්මක තර්කයක් ඉදිරිපත් කිරීම",
+    "objective": "සංවිධානාත්මක තර්කයක් ඉදිරිපත් කිරීම ගැන පැහැදිලිව අදහස් ප්‍රකාශ කිරීම සහ උදාහරණ දීම",
+    "vocabulary": [
+      {
+        "word": "advantage",
+        "reading": "ප්‍රෙද්නොස්ත්",
+        "meaning": "වාසිය",
+        "example": "S jedne strane, ova opcija je jeftinija; s druge strane, sporija je.",
+        "translation": "එක් පැත්තකින් මේ විකල්පය ලාභයි; අනෙක් පැත්තෙන් එය මන්දගාමීයි."
+      },
+      {
+        "word": "disadvantage",
+        "reading": "නෙදොස්තාතාක්",
+        "meaning": "අවාසිය",
+        "example": "Po mom mišljenju, prednosti su veće od nedostataka.",
+        "translation": "මගේ අදහසට අනුව වාසි අවාසිවලට වඩා වැඩියි."
+      },
+      {
+        "word": "evidence",
+        "reading": "දොකාස්",
+        "meaning": "සාක්ෂිය",
+        "example": "Važno je da unapred razmotrimo sve mogućnosti.",
+        "translation": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්."
+      },
+      {
+        "word": "opinion",
+        "reading": "මිෂ්ල්යේන්යේ",
+        "meaning": "මතය",
+        "example": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
+        "translation": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා."
+      },
+      {
+        "word": "argument",
+        "reading": "අර්ගුමෙන්ත්",
+        "meaning": "තර්කය",
+        "example": "S jedne strane, ova opcija je jeftinija; s druge strane, sporija je.",
+        "translation": "එක් පැත්තකින් මේ විකල්පය ලාභයි; අනෙක් පැත්තෙන් එය මන්දගාමීයි."
+      },
+      {
+        "word": "on the one hand",
+        "reading": "ස් යෙද්නෙ ස්ත්‍රානෙ",
+        "meaning": "එක් පැත්තකින්",
+        "example": "Po mom mišljenju, prednosti su veće od nedostataka.",
+        "translation": "මගේ අදහසට අනුව වාසි අවාසිවලට වඩා වැඩියි."
+      },
+      {
+        "word": "on the other hand",
+        "reading": "ස් ද්රුගෙ ස්ත්‍රානෙ",
+        "meaning": "අනෙක් පැත්තෙන්",
+        "example": "Važno je da unapred razmotrimo sve mogućnosti.",
+        "translation": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්."
+      },
+      {
+        "word": "conclusion",
+        "reading": "සාක්ල්යුචාක්",
+        "meaning": "නිගමනය",
+        "example": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
+        "translation": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා."
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "“s jedne strane… s druge strane” යොදා සමබර තර්කයක් ගොඩනඟන්න.",
+    "grammarTerms": [
+      {
+        "sr": "S jedne strane, ova opcija je jeftinija; s druge strane, sporija je.",
+        "reading": "එක් පැත්තකින් මේ විකල්පය ලාභයි; අනෙක් පැත්තෙන් එය මන්දගාමීයි.",
+        "si": "එක් පැත්තකින් මේ විකල්පය ලාභයි; අනෙක් පැත්තෙන් එය මන්දගාමීයි."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "S jedne strane, ova opcija je jeftinija; s druge strane, sporija je.",
+        "reading": "එක් පැත්තකින් මේ විකල්පය ලාභයි; අනෙක් පැත්තෙන් එය මන්දගාමීයි.",
+        "si": "එක් පැත්තකින් මේ විකල්පය ලාභයි; අනෙක් පැත්තෙන් එය මන්දගාමීයි."
+      },
+      {
+        "sr": "Po mom mišljenju, prednosti su veće od nedostataka.",
+        "reading": "මගේ අදහසට අනුව වාසි අවාසිවලට වඩා වැඩියි.",
+        "si": "මගේ අදහසට අනුව වාසි අවාසිවලට වඩා වැඩියි."
+      },
+      {
+        "sr": "Važno je da unapred razmotrimo sve mogućnosti.",
+        "reading": "වාෂ්නො යෙ ද උනප්‍රෙද් රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
+        "reading": "නා ක්‍රායු චෙමො ඉස්සාබ්‍රාති රෙෂෙන්යේ කොයෙ නායිවිෂෙ ඔද්ගොවාරා ස්විමා.",
+        "si": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "A: S jedne strane, ova opcija je jeftinija; s druge strane, sporija je.",
+        "reading": "ඒ: එක් පැත්තකින් මේ විකල්පය ලාභයි; අනෙක් පැත්තෙන් එය මන්දගාමීයි.",
+        "si": "එක් පැත්තකින් මේ විකල්පය ලාභයි; අනෙක් පැත්තෙන් එය මන්දගාමීයි."
+      },
+      {
+        "sr": "B: Razumem. Šta predlažeš?",
+        "reading": "බී: රාසුමෙම්. ෂ්තා ප්‍රෙද්ලාෂෙෂ්?",
+        "si": "තේරුණා. ඔයා මොකක්ද යෝජනා කරන්නේ?"
+      },
+      {
+        "sr": "A: Po mom mišljenju, prednosti su veće od nedostataka.",
+        "reading": "ඒ: මගේ අදහසට අනුව වාසි අවාසිවලට වඩා වැඩියි.",
+        "si": "මගේ අදහසට අනුව වාසි අවාසිවලට වඩා වැඩියි."
+      },
+      {
+        "sr": "B: Slažem se. Tako ćemo lakše rešiti problem.",
+        "reading": "බී: ස්ලාෂෙම් සෙ. තාකො චෙමො ලක්ෂෙ රෙෂිති ප්‍රොබ්ලෙම්.",
+        "si": "එකඟයි. එහෙම කළොත් ගැටලුව පහසුවෙන් විසඳගන්න පුළුවන්."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Po mom mišljenju, prednosti su veće od nedostataka.",
+      "audio": "Po mom mišljenju, prednosti su veće od nedostataka.",
+      "reading": "මගේ අදහසට අනුව වාසි අවාසිවලට වඩා වැඩියි.",
+      "options": [
+        "මගේ අදහසට අනුව වාසි අවාසිවලට වඩා වැඩියි.",
+        "එය සම්පූර්ණයෙන්ම වෙනස් අදහසකි.",
+        "මට ඒ ගැන කිසිවක් කියන්න බැහැ."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“prednost” යන්නෙහි අර්ථය කුමක්ද?",
+        "options": [
+          "වාසිය",
+          "අවාසිය",
+          "ප්‍රශ්නය"
+        ],
+        "answer": 0,
+        "explanation": "prednost = වාසිය"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Ja juče sutra.",
+          "S jedne strane, ova opcija je jeftinija; s druge strane, sporija je.",
+          "On i mi bila."
+        ],
+        "answer": 1,
+        "explanation": "එක් පැත්තකින් මේ විකල්පය ලාභයි; අනෙක් පැත්තෙන් එය මන්දගාමීයි."
+      },
+      {
+        "prompt": "“nedostatak” යන්නෙහි අර්ථය?",
+        "options": [
+          "කල් දැමීම",
+          "අවාසිය",
+          "අමතක කිරීම"
+        ],
+        "answer": 1,
+        "explanation": "nedostatak = අවාසිය"
+      },
+      {
+        "prompt": "සංවාදයේ A පුද්ගලයාගේ අදහසට B ප්‍රතිචාරය කුමක්ද?",
+        "options": [
+          "Ne znam gde je.",
+          "Slažem se. Tako ćemo lakše rešiti problem.",
+          "Koliko košta?"
+        ],
+        "answer": 1,
+        "explanation": "“Slažem se” යනු “මම එකඟයි” යන්නයි."
+      }
+    ]
   }
 ];
