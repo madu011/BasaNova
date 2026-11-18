@@ -911,6 +911,7 @@ dialogue:[
 {text:"Can you come tomorrow at ten?",reading:"කැන් යූ කම් ටුමොරෝ ඇට් ටෙන්?",meaning:"ඔබට හෙට දහයට එන්න පුළුවන්ද?"},
 {text:"Yes, that time works for me.",reading:"යෙස්, දැට් ටයිම් වර්ක්ස් ෆෝ මී.",meaning:"ඔව්, ඒ වේලාව මට ගැළපෙනවා."},
 {text:"All right. Please bring your health card.",reading:"ඕල් රයිට්. ප්ලීස් බ්‍රිං යෝර් හෙල්ත් කාඩ්.",meaning:"හරි. කරුණාකර ඔබගේ සෞඛ්‍ය කාඩ්පත රැගෙන එන්න."}],
+listeningPractice:{prompt:"Listen and choose the correct Sinhala meaning: “I would like to make an appointment.”",audio:"I would like to make an appointment.",options:["මට හමුවීමේ වේලාවක් වෙන්කරගන්න ඕනේ.","මට බෙහෙත් වට්ටෝරුවක් තියෙනවා.","ඖෂධහල කොහෙද?"],readings:["අයි වුඩ් ලයික් ටු මේක් ඇන් අපොයින්ට්මන්ට්.","අයි හැව් අ ප්‍රිස්ක්‍රිප්ෂන්.","වෙයාර් ඉස් ද ෆාමසි?"],answer:0,meaning:"I would like to make an appointment = මට හමුවීමේ වේලාවක් වෙන්කරගන්න ඕනේ."},
 practice:[
 {prompt:"Choose the English word for “වෛද්‍යවරයා”.",options:["Doctor","Prescription","Pain"],readings:["ඩොක්ටර්","ප්‍රිස්ක්‍රිප්ෂන්","පේන්"],answer:0,explanation:"Doctor = වෛද්‍යවරයා."},
 {prompt:"How do you say “මගේ හිස රිදෙනවා”?",options:["I have an appointment.","My head hurts.","Where is the pharmacy?"],readings:["අයි හැව් ඇන් අපොයින්ට්මන්ට්.","මයි හෙඩ් හර්ට්ස්.","වෙයාර් ඉස් ද ෆාමසි?"],answer:1,explanation:"My head hurts = මගේ හිස රිදෙනවා."},
