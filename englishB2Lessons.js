@@ -1,4 +1,4 @@
-// Structured English B2 lessons 1–40. Sinhala readings are approximate learner guides.
+// Structured English B2 lessons 1–50. Sinhala readings are approximate learner guides.
 export const ENGLISH_B2_LESSONS = [
   {
     "id": "en-b2-l1",
@@ -7217,6 +7217,1786 @@ export const ENGLISH_B2_LESSONS = [
         ],
         "answer": 0,
         "explanation": "If-clause එකෙන් කොන්දේසිය සහ එහි ප්‍රතිඵලය සම්බන්ධ කරයි."
+      }
+    ]
+  },
+  {
+    "id": "en-b2-l41",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · Lesson 41 · ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය",
+    "objective": "ජාත්‍යන්තර සාකච්ඡාවලදී ස්ථාවරයන් පැහැදිලි කර සම්මුතියක් ගොඩනඟන්න.",
+    "vocabulary": [
+      {
+        "word": "cooperation",
+        "reading": "කොඔපරේෂන්",
+        "meaning": "සහයෝගීතාව",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය සන්දර්භයේ සහයෝගීතාව යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "agreement",
+        "reading": "අග්‍රීමන්ට්",
+        "meaning": "ගිවිසුම",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය සන්දර්භයේ ගිවිසුම යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "negotiation",
+        "reading": "නෙගෝෂියේෂන්",
+        "meaning": "සාකච්ඡා",
+        "example": "Although challenges remain, we can find a practical approach.",
+        "exampleReading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
+        "translation": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය සන්දර්භයේ සාකච්ඡා යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "delegation",
+        "reading": "ඩෙලිගේෂන්",
+        "meaning": "නියෝජිත පිරිස",
+        "example": "A careful decision should be based on the available evidence.",
+        "exampleReading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
+        "translation": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය සන්දර්භයේ නියෝජිත පිරිස යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "interest",
+        "reading": "ඉන්ටරෙස්ට්",
+        "meaning": "අභිලාෂය",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය සන්දර්භයේ අභිලාෂය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "position",
+        "reading": "ස්ටෑන්ස්",
+        "meaning": "ස්ථාවරය",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය සන්දර්භයේ ස්ථාවරය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "alliance",
+        "reading": "අලයනස්",
+        "meaning": "සන්ධානය",
+        "example": "Although challenges remain, we can find a practical approach.",
+        "exampleReading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
+        "translation": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය සන්දර්භයේ සන්ධානය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "compromise",
+        "reading": "කොම්ප්‍රමයිස්",
+        "meaning": "සම්මුතිය",
+        "example": "A careful decision should be based on the available evidence.",
+        "exampleReading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
+        "translation": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය සන්දර්භයේ සම්මුතිය යන වචනය භාවිතා වේ."
+      }
+    ],
+    "grammarTitle": "Diplomatic language and cautious proposals",
+    "grammar": "Diplomatic language and cautious proposals: We propose a shared framework that respects the interests of all parties. මෙම රටාව සන්දර්භයට ගැළපෙන ලෙස භාවිතා කරමින් අදහස් පැහැදිලිව, නිවැරදිව සහ ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "text": "We propose a shared framework that respects the interests of all parties.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "meaning": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය"
+      }
+    ],
+    "examples": [
+      {
+        "text": "It is important to consider all the relevant facts.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "meaning": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "text": "I suggest that we compare several possible solutions.",
+        "reading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "meaning": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "text": "Although challenges remain, we can find a practical approach.",
+        "reading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
+        "meaning": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය: 3 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "text": "A careful decision should be based on the available evidence.",
+        "reading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
+        "meaning": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය: 4 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "How would you describe the main challenge?",
+        "reading": "හවු වුඩ් යූ ඩිස්ක්‍රයිබ් දි මේන් චැලෙන්ජ්?",
+        "meaning": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය පිළිබඳ සංවාදයේ 1 වන ප්‍රතිචාරය."
+      },
+      {
+        "text": "I would suggest checking the facts first.",
+        "reading": "අයි වුඩ් සජෙස්ට් චෙකින් දි ෆැක්ට්ස් ෆර්ස්ට්.",
+        "meaning": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය පිළිබඳ සංවාදයේ 2 වන ප්‍රතිචාරය."
+      },
+      {
+        "text": "That makes sense, but we should consider the consequences too.",
+        "reading": "දැට් මේක්ස් සෙන්ස්, බට් වී ෂුඩ් කන්සිඩර් දි කොන්සික්වෙන්සිස් ටූ.",
+        "meaning": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය පිළිබඳ සංවාදයේ 3 වන ප්‍රතිචාරය."
+      },
+      {
+        "text": "I agree. Let us decide on the next steps.",
+        "reading": "අයි අග්‍රී. ලෙට් අස් ඩිසයිඩ් ඔන් දි නෙක්ස්ට් ස්ටෙප්ස්.",
+        "meaning": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය පිළිබඳ සංවාදයේ 4 වන ප්‍රතිචාරය."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the correct Sinhala meaning.",
+      "audio": "We propose a shared framework that respects the interests of all parties.",
+      "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+      "options": [
+        "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය සම්බන්ධයෙන් සියලු පාර්ශ්වවල අවශ්‍යතා සලකන පොදු රාමුවක් යෝජනා කරමු.",
+        "The weather is pleasant today.",
+        "I bought bread at the shop."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය: නිවැරදි ප්‍රකාශය තෝරන්න.",
+        "options": [
+          "We propose a shared framework that respects the interests of all parties.",
+          "The weather is pleasant today.",
+          "I bought bread at the shop."
+        ],
+        "answer": 0,
+        "explanation": "මෙම වාක්‍යය ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය මාතෘකාවට ගැළපේ."
+      },
+      {
+        "prompt": "Which phrase introduces a careful recommendation?",
+        "options": [
+          "I would suggest that we review the evidence.",
+          "The blue quickly window.",
+          "Yesterday at seven because."
+        ],
+        "answer": 0,
+        "explanation": "“I would suggest…” යනු ආචාරශීලී නිර්දේශයක් ඉදිරිපත් කරන රටාවකි."
+      },
+      {
+        "prompt": "සංකීර්ණ සාකච්ඡාවකදී වඩාත් සුදුසු ක්‍රියාව කුමක්ද?",
+        "options": [
+          "සාධක පරීක්ෂා කර විකල්ප සසඳා බැලීම.",
+          "අනෙක් අදහස් නොසලකා හැරීම.",
+          "සාකච්ඡාවට අදාළ නොවන කරුණු පැවසීම."
+        ],
+        "answer": 0,
+        "explanation": "B2 මට්ටමේදී සාධක මත පදනම්ව විකල්ප ඇගයීම වැදගත්ය."
+      },
+      {
+        "prompt": "Choose the best sentence for a balanced conclusion.",
+        "options": [
+          "On the basis of the evidence, this option seems most reasonable.",
+          "I never read anything.",
+          "Because table quickly."
+        ],
+        "answer": 0,
+        "explanation": "මෙම වාක්‍යය සාධක මත පදනම් වූ සමබර නිගමනයක් දක්වයි."
+      }
+    ]
+  },
+  {
+    "id": "en-b2-l42",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · Lesson 42 · අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව",
+    "objective": "අර්බුදයකදී පැහැදිලි තොරතුරු ලබාදී අවිනිශ්චිතතාව නිවැරදිව දක්වන්න.",
+    "vocabulary": [
+      {
+        "word": "cooperation",
+        "reading": "කොඔපරේෂන්",
+        "meaning": "අර්බුදය",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව සන්දර්භයේ අර්බුදය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "agreement",
+        "reading": "අග්‍රීමන්ට්",
+        "meaning": "ප්‍රකෘතිමත් වීම",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව සන්දර්භයේ ප්‍රකෘතිමත් වීම යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "negotiation",
+        "reading": "නෙගෝෂියේෂන්",
+        "meaning": "ඔරොත්තු දීමේ හැකියාව",
+        "example": "Although challenges remain, we can find a practical approach.",
+        "exampleReading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
+        "translation": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව සන්දර්භයේ ඔරොත්තු දීමේ හැකියාව යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "delegation",
+        "reading": "ඩෙලිගේෂන්",
+        "meaning": "අනතුරු ඇඟවීම",
+        "example": "A careful decision should be based on the available evidence.",
+        "exampleReading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
+        "translation": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව සන්දර්භයේ අනතුරු ඇඟවීම යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "interest",
+        "reading": "ඉන්ටරෙස්ට්",
+        "meaning": "සැලැස්ම",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව සන්දර්භයේ සැලැස්ම යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "position",
+        "reading": "ස්ටෑන්ස්",
+        "meaning": "බාධාව",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව සන්දර්භයේ බාධාව යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "alliance",
+        "reading": "අලයනස්",
+        "meaning": "ඇගයීම",
+        "example": "Although challenges remain, we can find a practical approach.",
+        "exampleReading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
+        "translation": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව සන්දර්භයේ ඇගයීම යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "compromise",
+        "reading": "කොම්ප්‍රමයිස්",
+        "meaning": "දැනුම්දීම",
+        "example": "A careful decision should be based on the available evidence.",
+        "exampleReading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
+        "translation": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව සන්දර්භයේ දැනුම්දීම යන වචනය භාවිතා වේ."
+      }
+    ],
+    "grammarTitle": "Clear sequencing and conditional updates",
+    "grammar": "Clear sequencing and conditional updates: As soon as we receive verified information, we will inform all employees. මෙම රටාව සන්දර්භයට ගැළපෙන ලෙස භාවිතා කරමින් අදහස් පැහැදිලිව, නිවැරදිව සහ ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "text": "As soon as we receive verified information, we will inform all employees.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "meaning": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව"
+      }
+    ],
+    "examples": [
+      {
+        "text": "It is important to consider all the relevant facts.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "meaning": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "text": "I suggest that we compare several possible solutions.",
+        "reading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "meaning": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "text": "Although challenges remain, we can find a practical approach.",
+        "reading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
+        "meaning": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව: 3 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "text": "A careful decision should be based on the available evidence.",
+        "reading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
+        "meaning": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව: 4 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "How would you describe the main challenge?",
+        "reading": "හවු වුඩ් යූ ඩිස්ක්‍රයිබ් දි මේන් චැලෙන්ජ්?",
+        "meaning": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව පිළිබඳ සංවාදයේ 1 වන ප්‍රතිචාරය."
+      },
+      {
+        "text": "I would suggest checking the facts first.",
+        "reading": "අයි වුඩ් සජෙස්ට් චෙකින් දි ෆැක්ට්ස් ෆර්ස්ට්.",
+        "meaning": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව පිළිබඳ සංවාදයේ 2 වන ප්‍රතිචාරය."
+      },
+      {
+        "text": "That makes sense, but we should consider the consequences too.",
+        "reading": "දැට් මේක්ස් සෙන්ස්, බට් වී ෂුඩ් කන්සිඩර් දි කොන්සික්වෙන්සිස් ටූ.",
+        "meaning": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව පිළිබඳ සංවාදයේ 3 වන ප්‍රතිචාරය."
+      },
+      {
+        "text": "I agree. Let us decide on the next steps.",
+        "reading": "අයි අග්‍රී. ලෙට් අස් ඩිසයිඩ් ඔන් දි නෙක්ස්ට් ස්ටෙප්ස්.",
+        "meaning": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව පිළිබඳ සංවාදයේ 4 වන ප්‍රතිචාරය."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the correct Sinhala meaning.",
+      "audio": "As soon as we receive verified information, we will inform all employees.",
+      "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+      "options": [
+        "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව සම්බන්ධයෙන් සියලු පාර්ශ්වවල අවශ්‍යතා සලකන පොදු රාමුවක් යෝජනා කරමු.",
+        "The weather is pleasant today.",
+        "I bought bread at the shop."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව: නිවැරදි ප්‍රකාශය තෝරන්න.",
+        "options": [
+          "As soon as we receive verified information, we will inform all employees.",
+          "The weather is pleasant today.",
+          "I bought bread at the shop."
+        ],
+        "answer": 0,
+        "explanation": "මෙම වාක්‍යය අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව මාතෘකාවට ගැළපේ."
+      },
+      {
+        "prompt": "Which phrase introduces a careful recommendation?",
+        "options": [
+          "I would suggest that we review the evidence.",
+          "The blue quickly window.",
+          "Yesterday at seven because."
+        ],
+        "answer": 0,
+        "explanation": "“I would suggest…” යනු ආචාරශීලී නිර්දේශයක් ඉදිරිපත් කරන රටාවකි."
+      },
+      {
+        "prompt": "සංකීර්ණ සාකච්ඡාවකදී වඩාත් සුදුසු ක්‍රියාව කුමක්ද?",
+        "options": [
+          "සාධක පරීක්ෂා කර විකල්ප සසඳා බැලීම.",
+          "අනෙක් අදහස් නොසලකා හැරීම.",
+          "සාකච්ඡාවට අදාළ නොවන කරුණු පැවසීම."
+        ],
+        "answer": 0,
+        "explanation": "B2 මට්ටමේදී සාධක මත පදනම්ව විකල්ප ඇගයීම වැදගත්ය."
+      },
+      {
+        "prompt": "Choose the best sentence for a balanced conclusion.",
+        "options": [
+          "On the basis of the evidence, this option seems most reasonable.",
+          "I never read anything.",
+          "Because table quickly."
+        ],
+        "answer": 0,
+        "explanation": "මෙම වාක්‍යය සාධක මත පදනම් වූ සමබර නිගමනයක් දක්වයි."
+      }
+    ]
+  },
+  {
+    "id": "en-b2-l43",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · Lesson 43 · උසස් සාකච්ඡා උපායමාර්ග",
+    "objective": "විකල්ප සසඳා අන්‍යෝන්‍ය ප්‍රතිලාභ සහිත එකඟතාවක් සකස් කරන්න.",
+    "vocabulary": [
+      {
+        "word": "cooperation",
+        "reading": "කොඔපරේෂන්",
+        "meaning": "සහනයක් දීම",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "උසස් සාකච්ඡා උපායමාර්ග සන්දර්භයේ සහනයක් දීම යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "agreement",
+        "reading": "අග්‍රීමන්ට්",
+        "meaning": "සාකච්ඡා ස්ථාවරය",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "උසස් සාකච්ඡා උපායමාර්ග සන්දර්භයේ සාකච්ඡා ස්ථාවරය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "negotiation",
+        "reading": "නෙගෝෂියේෂන්",
+        "meaning": "කොන්දේසිය",
+        "example": "Although challenges remain, we can find a practical approach.",
+        "exampleReading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
+        "translation": "උසස් සාකච්ඡා උපායමාර්ග සන්දර්භයේ කොන්දේසිය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "delegation",
+        "reading": "ඩෙලිගේෂන්",
+        "meaning": "ඉල්ලුම / යෝජනාව",
+        "example": "A careful decision should be based on the available evidence.",
+        "exampleReading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
+        "translation": "උසස් සාකච්ඡා උපායමාර්ග සන්දර්භයේ ඉල්ලුම / යෝජනාව යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "interest",
+        "reading": "ඉන්ටරෙස්ට්",
+        "meaning": "ප්‍රති යෝජනාව",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "උසස් සාකච්ඡා උපායමාර්ග සන්දර්භයේ ප්‍රති යෝජනාව යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "position",
+        "reading": "ස්ටෑන්ස්",
+        "meaning": "දෙපාර්ශ්වයටම",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "උසස් සාකච්ඡා උපායමාර්ග සන්දර්භයේ දෙපාර්ශ්වයටම යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "alliance",
+        "reading": "අලයනස්",
+        "meaning": "නම්‍යශීලීභාවය",
+        "example": "Although challenges remain, we can find a practical approach.",
+        "exampleReading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
+        "translation": "උසස් සාකච්ඡා උපායමාර්ග සන්දර්භයේ නම්‍යශීලීභාවය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "compromise",
+        "reading": "කොම්ප්‍රමයිස්",
+        "meaning": "ප්‍රතිඵලය",
+        "example": "A careful decision should be based on the available evidence.",
+        "exampleReading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
+        "translation": "උසස් සාකච්ඡා උපායමාර්ග සන්දර්භයේ ප්‍රතිඵලය යන වචනය භාවිතා වේ."
+      }
+    ],
+    "grammarTitle": "Concessive clauses and bargaining language",
+    "grammar": "Concessive clauses and bargaining language: If we make a concession in this area, we expect flexibility in another. මෙම රටාව සන්දර්භයට ගැළපෙන ලෙස භාවිතා කරමින් අදහස් පැහැදිලිව, නිවැරදිව සහ ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "text": "If we make a concession in this area, we expect flexibility in another.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "meaning": "උසස් සාකච්ඡා උපායමාර්ග"
+      }
+    ],
+    "examples": [
+      {
+        "text": "It is important to consider all the relevant facts.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "meaning": "උසස් සාකච්ඡා උපායමාර්ග: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "text": "I suggest that we compare several possible solutions.",
+        "reading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "meaning": "උසස් සාකච්ඡා උපායමාර්ග: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "text": "Although challenges remain, we can find a practical approach.",
+        "reading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
+        "meaning": "උසස් සාකච්ඡා උපායමාර්ග: 3 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "text": "A careful decision should be based on the available evidence.",
+        "reading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
+        "meaning": "උසස් සාකච්ඡා උපායමාර්ග: 4 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "How would you describe the main challenge?",
+        "reading": "හවු වුඩ් යූ ඩිස්ක්‍රයිබ් දි මේන් චැලෙන්ජ්?",
+        "meaning": "උසස් සාකච්ඡා උපායමාර්ග පිළිබඳ සංවාදයේ 1 වන ප්‍රතිචාරය."
+      },
+      {
+        "text": "I would suggest checking the facts first.",
+        "reading": "අයි වුඩ් සජෙස්ට් චෙකින් දි ෆැක්ට්ස් ෆර්ස්ට්.",
+        "meaning": "උසස් සාකච්ඡා උපායමාර්ග පිළිබඳ සංවාදයේ 2 වන ප්‍රතිචාරය."
+      },
+      {
+        "text": "That makes sense, but we should consider the consequences too.",
+        "reading": "දැට් මේක්ස් සෙන්ස්, බට් වී ෂුඩ් කන්සිඩර් දි කොන්සික්වෙන්සිස් ටූ.",
+        "meaning": "උසස් සාකච්ඡා උපායමාර්ග පිළිබඳ සංවාදයේ 3 වන ප්‍රතිචාරය."
+      },
+      {
+        "text": "I agree. Let us decide on the next steps.",
+        "reading": "අයි අග්‍රී. ලෙට් අස් ඩිසයිඩ් ඔන් දි නෙක්ස්ට් ස්ටෙප්ස්.",
+        "meaning": "උසස් සාකච්ඡා උපායමාර්ග පිළිබඳ සංවාදයේ 4 වන ප්‍රතිචාරය."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the correct Sinhala meaning.",
+      "audio": "If we make a concession in this area, we expect flexibility in another.",
+      "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+      "options": [
+        "උසස් සාකච්ඡා උපායමාර්ග සම්බන්ධයෙන් සියලු පාර්ශ්වවල අවශ්‍යතා සලකන පොදු රාමුවක් යෝජනා කරමු.",
+        "The weather is pleasant today.",
+        "I bought bread at the shop."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "උසස් සාකච්ඡා උපායමාර්ග: නිවැරදි ප්‍රකාශය තෝරන්න.",
+        "options": [
+          "If we make a concession in this area, we expect flexibility in another.",
+          "The weather is pleasant today.",
+          "I bought bread at the shop."
+        ],
+        "answer": 0,
+        "explanation": "මෙම වාක්‍යය උසස් සාකච්ඡා උපායමාර්ග මාතෘකාවට ගැළපේ."
+      },
+      {
+        "prompt": "Which phrase introduces a careful recommendation?",
+        "options": [
+          "I would suggest that we review the evidence.",
+          "The blue quickly window.",
+          "Yesterday at seven because."
+        ],
+        "answer": 0,
+        "explanation": "“I would suggest…” යනු ආචාරශීලී නිර්දේශයක් ඉදිරිපත් කරන රටාවකි."
+      },
+      {
+        "prompt": "සංකීර්ණ සාකච්ඡාවකදී වඩාත් සුදුසු ක්‍රියාව කුමක්ද?",
+        "options": [
+          "සාධක පරීක්ෂා කර විකල්ප සසඳා බැලීම.",
+          "අනෙක් අදහස් නොසලකා හැරීම.",
+          "සාකච්ඡාවට අදාළ නොවන කරුණු පැවසීම."
+        ],
+        "answer": 0,
+        "explanation": "B2 මට්ටමේදී සාධක මත පදනම්ව විකල්ප ඇගයීම වැදගත්ය."
+      },
+      {
+        "prompt": "Choose the best sentence for a balanced conclusion.",
+        "options": [
+          "On the basis of the evidence, this option seems most reasonable.",
+          "I never read anything.",
+          "Because table quickly."
+        ],
+        "answer": 0,
+        "explanation": "මෙම වාක්‍යය සාධක මත පදනම් වූ සමබර නිගමනයක් දක්වයි."
+      }
+    ]
+  },
+  {
+    "id": "en-b2-l44",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · Lesson 44 · සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය",
+    "objective": "කෘතියක තේමාව, කථන දෘෂ්ටිකෝණය සහ සංකේත විග්‍රහ කරන්න.",
+    "vocabulary": [
+      {
+        "word": "cooperation",
+        "reading": "කොඔපරේෂන්",
+        "meaning": "සාහිත්‍යය",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය සන්දර්භයේ සාහිත්‍යය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "agreement",
+        "reading": "අග්‍රීමන්ට්",
+        "meaning": "මූලික තේමාව",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය සන්දර්භයේ මූලික තේමාව යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "negotiation",
+        "reading": "නෙගෝෂියේෂන්",
+        "meaning": "සංකේතය",
+        "example": "Although challenges remain, we can find a practical approach.",
+        "exampleReading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
+        "translation": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය සන්දර්භයේ සංකේතය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "delegation",
+        "reading": "ඩෙලිගේෂන්",
+        "meaning": "කථකයා",
+        "example": "A careful decision should be based on the available evidence.",
+        "exampleReading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
+        "translation": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය සන්දර්භයේ කථකයා යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "interest",
+        "reading": "ඉන්ටරෙස්ට්",
+        "meaning": "අර්ථකථනය",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය සන්දර්භයේ අර්ථකථනය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "position",
+        "reading": "ස්ටෑන්ස්",
+        "meaning": "රූපකය",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය සන්දර්භයේ රූපකය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "alliance",
+        "reading": "අලයනස්",
+        "meaning": "සන්දර්භය",
+        "example": "Although challenges remain, we can find a practical approach.",
+        "exampleReading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
+        "translation": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය සන්දර්භයේ සන්දර්භය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "compromise",
+        "reading": "කොම්ප්‍රමයිස්",
+        "meaning": "දෘෂ්ටිකෝණය",
+        "example": "A careful decision should be based on the available evidence.",
+        "exampleReading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
+        "translation": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය සන්දර්භයේ දෘෂ්ටිකෝණය යන වචනය භාවිතා වේ."
+      }
+    ],
+    "grammarTitle": "Interpretive and evidential language",
+    "grammar": "Interpretive and evidential language: This motif can be interpreted as a symbol of social change. මෙම රටාව සන්දර්භයට ගැළපෙන ලෙස භාවිතා කරමින් අදහස් පැහැදිලිව, නිවැරදිව සහ ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "text": "This motif can be interpreted as a symbol of social change.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "meaning": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය"
+      }
+    ],
+    "examples": [
+      {
+        "text": "It is important to consider all the relevant facts.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "meaning": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "text": "I suggest that we compare several possible solutions.",
+        "reading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "meaning": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "text": "Although challenges remain, we can find a practical approach.",
+        "reading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
+        "meaning": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය: 3 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "text": "A careful decision should be based on the available evidence.",
+        "reading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
+        "meaning": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය: 4 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "How would you describe the main challenge?",
+        "reading": "හවු වුඩ් යූ ඩිස්ක්‍රයිබ් දි මේන් චැලෙන්ජ්?",
+        "meaning": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය පිළිබඳ සංවාදයේ 1 වන ප්‍රතිචාරය."
+      },
+      {
+        "text": "I would suggest checking the facts first.",
+        "reading": "අයි වුඩ් සජෙස්ට් චෙකින් දි ෆැක්ට්ස් ෆර්ස්ට්.",
+        "meaning": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය පිළිබඳ සංවාදයේ 2 වන ප්‍රතිචාරය."
+      },
+      {
+        "text": "That makes sense, but we should consider the consequences too.",
+        "reading": "දැට් මේක්ස් සෙන්ස්, බට් වී ෂුඩ් කන්සිඩර් දි කොන්සික්වෙන්සිස් ටූ.",
+        "meaning": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය පිළිබඳ සංවාදයේ 3 වන ප්‍රතිචාරය."
+      },
+      {
+        "text": "I agree. Let us decide on the next steps.",
+        "reading": "අයි අග්‍රී. ලෙට් අස් ඩිසයිඩ් ඔන් දි නෙක්ස්ට් ස්ටෙප්ස්.",
+        "meaning": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය පිළිබඳ සංවාදයේ 4 වන ප්‍රතිචාරය."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the correct Sinhala meaning.",
+      "audio": "This motif can be interpreted as a symbol of social change.",
+      "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+      "options": [
+        "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය සම්බන්ධයෙන් සියලු පාර්ශ්වවල අවශ්‍යතා සලකන පොදු රාමුවක් යෝජනා කරමු.",
+        "The weather is pleasant today.",
+        "I bought bread at the shop."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය: නිවැරදි ප්‍රකාශය තෝරන්න.",
+        "options": [
+          "This motif can be interpreted as a symbol of social change.",
+          "The weather is pleasant today.",
+          "I bought bread at the shop."
+        ],
+        "answer": 0,
+        "explanation": "මෙම වාක්‍යය සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය මාතෘකාවට ගැළපේ."
+      },
+      {
+        "prompt": "Which phrase introduces a careful recommendation?",
+        "options": [
+          "I would suggest that we review the evidence.",
+          "The blue quickly window.",
+          "Yesterday at seven because."
+        ],
+        "answer": 0,
+        "explanation": "“I would suggest…” යනු ආචාරශීලී නිර්දේශයක් ඉදිරිපත් කරන රටාවකි."
+      },
+      {
+        "prompt": "සංකීර්ණ සාකච්ඡාවකදී වඩාත් සුදුසු ක්‍රියාව කුමක්ද?",
+        "options": [
+          "සාධක පරීක්ෂා කර විකල්ප සසඳා බැලීම.",
+          "අනෙක් අදහස් නොසලකා හැරීම.",
+          "සාකච්ඡාවට අදාළ නොවන කරුණු පැවසීම."
+        ],
+        "answer": 0,
+        "explanation": "B2 මට්ටමේදී සාධක මත පදනම්ව විකල්ප ඇගයීම වැදගත්ය."
+      },
+      {
+        "prompt": "Choose the best sentence for a balanced conclusion.",
+        "options": [
+          "On the basis of the evidence, this option seems most reasonable.",
+          "I never read anything.",
+          "Because table quickly."
+        ],
+        "answer": 0,
+        "explanation": "මෙම වාක්‍යය සාධක මත පදනම් වූ සමබර නිගමනයක් දක්වයි."
+      }
+    ]
+  },
+  {
+    "id": "en-b2-l45",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · Lesson 45 · වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා",
+    "objective": "විධිමත් ලිපි, විධායක සාරාංශ සහ වාර්තා පැහැදිලිව සකස් කරන්න.",
+    "vocabulary": [
+      {
+        "word": "cooperation",
+        "reading": "කොඔපරේෂන්",
+        "meaning": "ඇමුණුම",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා සන්දර්භයේ ඇමුණුම යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "agreement",
+        "reading": "අග්‍රීමන්ට්",
+        "meaning": "සාරාංශය",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා සන්දර්භයේ සාරාංශය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "negotiation",
+        "reading": "නෙගෝෂියේෂන්",
+        "meaning": "සොයාගැනීම",
+        "example": "Although challenges remain, we can find a practical approach.",
+        "exampleReading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
+        "translation": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා සන්දර්භයේ සොයාගැනීම යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "delegation",
+        "reading": "ඩෙලිගේෂන්",
+        "meaning": "නිර්දේශය",
+        "example": "A careful decision should be based on the available evidence.",
+        "exampleReading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
+        "translation": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා සන්දර්භයේ නිර්දේශය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "interest",
+        "reading": "ඉන්ටරෙස්ට්",
+        "meaning": "අතිරේකය",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා සන්දර්භයේ අතිරේකය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "position",
+        "reading": "ස්ටෑන්ස්",
+        "meaning": "කාලසීමාව",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා සන්දර්භයේ කාලසීමාව යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "alliance",
+        "reading": "අලයනස්",
+        "meaning": "වාර්තා සටහන",
+        "example": "Although challenges remain, we can find a practical approach.",
+        "exampleReading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
+        "translation": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා සන්දර්භයේ වාර්තා සටහන යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "compromise",
+        "reading": "කොම්ප්‍රමයිස්",
+        "meaning": "ඉල්ලීම",
+        "example": "A careful decision should be based on the available evidence.",
+        "exampleReading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
+        "translation": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා සන්දර්භයේ ඉල්ලීම යන වචනය භාවිතා වේ."
+      }
+    ],
+    "grammarTitle": "Formal register and concise reporting",
+    "grammar": "Formal register and concise reporting: Please find attached a summary of the findings and the recommended next steps. මෙම රටාව සන්දර්භයට ගැළපෙන ලෙස භාවිතා කරමින් අදහස් පැහැදිලිව, නිවැරදිව සහ ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "text": "Please find attached a summary of the findings and the recommended next steps.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "meaning": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා"
+      }
+    ],
+    "examples": [
+      {
+        "text": "It is important to consider all the relevant facts.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "meaning": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "text": "I suggest that we compare several possible solutions.",
+        "reading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "meaning": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "text": "Although challenges remain, we can find a practical approach.",
+        "reading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
+        "meaning": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා: 3 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "text": "A careful decision should be based on the available evidence.",
+        "reading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
+        "meaning": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා: 4 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "How would you describe the main challenge?",
+        "reading": "හවු වුඩ් යූ ඩිස්ක්‍රයිබ් දි මේන් චැලෙන්ජ්?",
+        "meaning": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා පිළිබඳ සංවාදයේ 1 වන ප්‍රතිචාරය."
+      },
+      {
+        "text": "I would suggest checking the facts first.",
+        "reading": "අයි වුඩ් සජෙස්ට් චෙකින් දි ෆැක්ට්ස් ෆර්ස්ට්.",
+        "meaning": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා පිළිබඳ සංවාදයේ 2 වන ප්‍රතිචාරය."
+      },
+      {
+        "text": "That makes sense, but we should consider the consequences too.",
+        "reading": "දැට් මේක්ස් සෙන්ස්, බට් වී ෂුඩ් කන්සිඩර් දි කොන්සික්වෙන්සිස් ටූ.",
+        "meaning": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා පිළිබඳ සංවාදයේ 3 වන ප්‍රතිචාරය."
+      },
+      {
+        "text": "I agree. Let us decide on the next steps.",
+        "reading": "අයි අග්‍රී. ලෙට් අස් ඩිසයිඩ් ඔන් දි නෙක්ස්ට් ස්ටෙප්ස්.",
+        "meaning": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා පිළිබඳ සංවාදයේ 4 වන ප්‍රතිචාරය."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the correct Sinhala meaning.",
+      "audio": "Please find attached a summary of the findings and the recommended next steps.",
+      "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+      "options": [
+        "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා සම්බන්ධයෙන් සියලු පාර්ශ්වවල අවශ්‍යතා සලකන පොදු රාමුවක් යෝජනා කරමු.",
+        "The weather is pleasant today.",
+        "I bought bread at the shop."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා: නිවැරදි ප්‍රකාශය තෝරන්න.",
+        "options": [
+          "Please find attached a summary of the findings and the recommended next steps.",
+          "The weather is pleasant today.",
+          "I bought bread at the shop."
+        ],
+        "answer": 0,
+        "explanation": "මෙම වාක්‍යය වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා මාතෘකාවට ගැළපේ."
+      },
+      {
+        "prompt": "Which phrase introduces a careful recommendation?",
+        "options": [
+          "I would suggest that we review the evidence.",
+          "The blue quickly window.",
+          "Yesterday at seven because."
+        ],
+        "answer": 0,
+        "explanation": "“I would suggest…” යනු ආචාරශීලී නිර්දේශයක් ඉදිරිපත් කරන රටාවකි."
+      },
+      {
+        "prompt": "සංකීර්ණ සාකච්ඡාවකදී වඩාත් සුදුසු ක්‍රියාව කුමක්ද?",
+        "options": [
+          "සාධක පරීක්ෂා කර විකල්ප සසඳා බැලීම.",
+          "අනෙක් අදහස් නොසලකා හැරීම.",
+          "සාකච්ඡාවට අදාළ නොවන කරුණු පැවසීම."
+        ],
+        "answer": 0,
+        "explanation": "B2 මට්ටමේදී සාධක මත පදනම්ව විකල්ප ඇගයීම වැදගත්ය."
+      },
+      {
+        "prompt": "Choose the best sentence for a balanced conclusion.",
+        "options": [
+          "On the basis of the evidence, this option seems most reasonable.",
+          "I never read anything.",
+          "Because table quickly."
+        ],
+        "answer": 0,
+        "explanation": "මෙම වාක්‍යය සාධක මත පදනම් වූ සමබර නිගමනයක් දක්වයි."
+      }
+    ]
+  },
+  {
+    "id": "en-b2-l46",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · Lesson 46 · සමාජ අසමානතාව සහ ඇතුළත්කම",
+    "objective": "සමාජ ප්‍රතිපත්ති සහ අවස්ථා සමානත්වය පිළිබඳ තර්කානුකූලව සාකච්ඡා කරන්න.",
+    "vocabulary": [
+      {
+        "word": "cooperation",
+        "reading": "කොඔපරේෂන්",
+        "meaning": "අසමානතාව",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "සමාජ අසමානතාව සහ ඇතුළත්කම සන්දර්භයේ අසමානතාව යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "agreement",
+        "reading": "අග්‍රීමන්ට්",
+        "meaning": "ඇතුළත්කම",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "සමාජ අසමානතාව සහ ඇතුළත්කම සන්දර්භයේ ඇතුළත්කම යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "negotiation",
+        "reading": "නෙගෝෂියේෂන්",
+        "meaning": "ප්‍රවේශය",
+        "example": "Although challenges remain, we can find a practical approach.",
+        "exampleReading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
+        "translation": "සමාජ අසමානතාව සහ ඇතුළත්කම සන්දර්භයේ ප්‍රවේශය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "delegation",
+        "reading": "ඩෙලිගේෂන්",
+        "meaning": "සමානාත්මතාව",
+        "example": "A careful decision should be based on the available evidence.",
+        "exampleReading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
+        "translation": "සමාජ අසමානතාව සහ ඇතුළත්කම සන්දර්භයේ සමානාත්මතාව යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "interest",
+        "reading": "ඉන්ටරෙස්ට්",
+        "meaning": "දරිද්‍රතාව",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "සමාජ අසමානතාව සහ ඇතුළත්කම සන්දර්භයේ දරිද්‍රතාව යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "position",
+        "reading": "ස්ටෑන්ස්",
+        "meaning": "සහාය",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "සමාජ අසමානතාව සහ ඇතුළත්කම සන්දර්භයේ සහාය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "alliance",
+        "reading": "අලයනස්",
+        "meaning": "වෙනස්කොට සැලකීම",
+        "example": "Although challenges remain, we can find a practical approach.",
+        "exampleReading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
+        "translation": "සමාජ අසමානතාව සහ ඇතුළත්කම සන්දර්භයේ වෙනස්කොට සැලකීම යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "compromise",
+        "reading": "කොම්ප්‍රමයිස්",
+        "meaning": "අවස්ථාව",
+        "example": "A careful decision should be based on the available evidence.",
+        "exampleReading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
+        "translation": "සමාජ අසමානතාව සහ ඇතුළත්කම සන්දර්භයේ අවස්ථාව යන වචනය භාවිතා වේ."
+      }
+    ],
+    "grammarTitle": "Comparative structures and balanced claims",
+    "grammar": "Comparative structures and balanced claims: Access to education should be equally available to all groups. මෙම රටාව සන්දර්භයට ගැළපෙන ලෙස භාවිතා කරමින් අදහස් පැහැදිලිව, නිවැරදිව සහ ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "text": "Access to education should be equally available to all groups.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "meaning": "සමාජ අසමානතාව සහ ඇතුළත්කම"
+      }
+    ],
+    "examples": [
+      {
+        "text": "It is important to consider all the relevant facts.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "meaning": "සමාජ අසමානතාව සහ ඇතුළත්කම: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "text": "I suggest that we compare several possible solutions.",
+        "reading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "meaning": "සමාජ අසමානතාව සහ ඇතුළත්කම: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "text": "Although challenges remain, we can find a practical approach.",
+        "reading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
+        "meaning": "සමාජ අසමානතාව සහ ඇතුළත්කම: 3 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "text": "A careful decision should be based on the available evidence.",
+        "reading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
+        "meaning": "සමාජ අසමානතාව සහ ඇතුළත්කම: 4 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "How would you describe the main challenge?",
+        "reading": "හවු වුඩ් යූ ඩිස්ක්‍රයිබ් දි මේන් චැලෙන්ජ්?",
+        "meaning": "සමාජ අසමානතාව සහ ඇතුළත්කම පිළිබඳ සංවාදයේ 1 වන ප්‍රතිචාරය."
+      },
+      {
+        "text": "I would suggest checking the facts first.",
+        "reading": "අයි වුඩ් සජෙස්ට් චෙකින් දි ෆැක්ට්ස් ෆර්ස්ට්.",
+        "meaning": "සමාජ අසමානතාව සහ ඇතුළත්කම පිළිබඳ සංවාදයේ 2 වන ප්‍රතිචාරය."
+      },
+      {
+        "text": "That makes sense, but we should consider the consequences too.",
+        "reading": "දැට් මේක්ස් සෙන්ස්, බට් වී ෂුඩ් කන්සිඩර් දි කොන්සික්වෙන්සිස් ටූ.",
+        "meaning": "සමාජ අසමානතාව සහ ඇතුළත්කම පිළිබඳ සංවාදයේ 3 වන ප්‍රතිචාරය."
+      },
+      {
+        "text": "I agree. Let us decide on the next steps.",
+        "reading": "අයි අග්‍රී. ලෙට් අස් ඩිසයිඩ් ඔන් දි නෙක්ස්ට් ස්ටෙප්ස්.",
+        "meaning": "සමාජ අසමානතාව සහ ඇතුළත්කම පිළිබඳ සංවාදයේ 4 වන ප්‍රතිචාරය."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the correct Sinhala meaning.",
+      "audio": "Access to education should be equally available to all groups.",
+      "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+      "options": [
+        "සමාජ අසමානතාව සහ ඇතුළත්කම සම්බන්ධයෙන් සියලු පාර්ශ්වවල අවශ්‍යතා සලකන පොදු රාමුවක් යෝජනා කරමු.",
+        "The weather is pleasant today.",
+        "I bought bread at the shop."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "සමාජ අසමානතාව සහ ඇතුළත්කම: නිවැරදි ප්‍රකාශය තෝරන්න.",
+        "options": [
+          "Access to education should be equally available to all groups.",
+          "The weather is pleasant today.",
+          "I bought bread at the shop."
+        ],
+        "answer": 0,
+        "explanation": "මෙම වාක්‍යය සමාජ අසමානතාව සහ ඇතුළත්කම මාතෘකාවට ගැළපේ."
+      },
+      {
+        "prompt": "Which phrase introduces a careful recommendation?",
+        "options": [
+          "I would suggest that we review the evidence.",
+          "The blue quickly window.",
+          "Yesterday at seven because."
+        ],
+        "answer": 0,
+        "explanation": "“I would suggest…” යනු ආචාරශීලී නිර්දේශයක් ඉදිරිපත් කරන රටාවකි."
+      },
+      {
+        "prompt": "සංකීර්ණ සාකච්ඡාවකදී වඩාත් සුදුසු ක්‍රියාව කුමක්ද?",
+        "options": [
+          "සාධක පරීක්ෂා කර විකල්ප සසඳා බැලීම.",
+          "අනෙක් අදහස් නොසලකා හැරීම.",
+          "සාකච්ඡාවට අදාළ නොවන කරුණු පැවසීම."
+        ],
+        "answer": 0,
+        "explanation": "B2 මට්ටමේදී සාධක මත පදනම්ව විකල්ප ඇගයීම වැදගත්ය."
+      },
+      {
+        "prompt": "Choose the best sentence for a balanced conclusion.",
+        "options": [
+          "On the basis of the evidence, this option seems most reasonable.",
+          "I never read anything.",
+          "Because table quickly."
+        ],
+        "answer": 0,
+        "explanation": "මෙම වාක්‍යය සාධක මත පදනම් වූ සමබර නිගමනයක් දක්වයි."
+      }
+    ]
+  },
+  {
+    "id": "en-b2-l47",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · Lesson 47 · සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව",
+    "objective": "සංචාරක කර්මාන්තයේ ආර්ථික වාසි සහ ප්‍රාදේශීය බලපෑම් සසඳන්න.",
+    "vocabulary": [
+      {
+        "word": "cooperation",
+        "reading": "කොඔපරේෂන්",
+        "meaning": "සංචාරක කර්මාන්තය",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව සන්දර්භයේ සංචාරක කර්මාන්තය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "agreement",
+        "reading": "අග්‍රීමන්ට්",
+        "meaning": "උරුමය",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව සන්දර්භයේ උරුමය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "negotiation",
+        "reading": "නෙගෝෂියේෂන්",
+        "meaning": "අමුත්තා",
+        "example": "Although challenges remain, we can find a practical approach.",
+        "exampleReading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
+        "translation": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව සන්දර්භයේ අමුත්තා යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "delegation",
+        "reading": "ඩෙලිගේෂන්",
+        "meaning": "කාලසීමාව",
+        "example": "A careful decision should be based on the available evidence.",
+        "exampleReading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
+        "translation": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව සන්දර්භයේ කාලසීමාව යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "interest",
+        "reading": "ඉන්ටරෙස්ට්",
+        "meaning": "ආදායම",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව සන්දර්භයේ ආදායම යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "position",
+        "reading": "ස්ටෑන්ස්",
+        "meaning": "ප්‍රජාව",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව සන්දර්භයේ ප්‍රජාව යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "alliance",
+        "reading": "අලයනස්",
+        "meaning": "සංරක්ෂණය",
+        "example": "Although challenges remain, we can find a practical approach.",
+        "exampleReading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
+        "translation": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව සන්දර්භයේ සංරක්ෂණය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "compromise",
+        "reading": "කොම්ප්‍රමයිස්",
+        "meaning": "තිරසාරභාවය",
+        "example": "A careful decision should be based on the available evidence.",
+        "exampleReading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
+        "translation": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව සන්දර්භයේ තිරසාරභාවය යන වචනය භාවිතා වේ."
+      }
+    ],
+    "grammarTitle": "Balancing benefits and drawbacks",
+    "grammar": "Balancing benefits and drawbacks: Tourism generates income, but it must preserve local culture and nature. මෙම රටාව සන්දර්භයට ගැළපෙන ලෙස භාවිතා කරමින් අදහස් පැහැදිලිව, නිවැරදිව සහ ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "text": "Tourism generates income, but it must preserve local culture and nature.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "meaning": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව"
+      }
+    ],
+    "examples": [
+      {
+        "text": "It is important to consider all the relevant facts.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "meaning": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "text": "I suggest that we compare several possible solutions.",
+        "reading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "meaning": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "text": "Although challenges remain, we can find a practical approach.",
+        "reading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
+        "meaning": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව: 3 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "text": "A careful decision should be based on the available evidence.",
+        "reading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
+        "meaning": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව: 4 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "How would you describe the main challenge?",
+        "reading": "හවු වුඩ් යූ ඩිස්ක්‍රයිබ් දි මේන් චැලෙන්ජ්?",
+        "meaning": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව පිළිබඳ සංවාදයේ 1 වන ප්‍රතිචාරය."
+      },
+      {
+        "text": "I would suggest checking the facts first.",
+        "reading": "අයි වුඩ් සජෙස්ට් චෙකින් දි ෆැක්ට්ස් ෆර්ස්ට්.",
+        "meaning": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව පිළිබඳ සංවාදයේ 2 වන ප්‍රතිචාරය."
+      },
+      {
+        "text": "That makes sense, but we should consider the consequences too.",
+        "reading": "දැට් මේක්ස් සෙන්ස්, බට් වී ෂුඩ් කන්සිඩර් දි කොන්සික්වෙන්සිස් ටූ.",
+        "meaning": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව පිළිබඳ සංවාදයේ 3 වන ප්‍රතිචාරය."
+      },
+      {
+        "text": "I agree. Let us decide on the next steps.",
+        "reading": "අයි අග්‍රී. ලෙට් අස් ඩිසයිඩ් ඔන් දි නෙක්ස්ට් ස්ටෙප්ස්.",
+        "meaning": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව පිළිබඳ සංවාදයේ 4 වන ප්‍රතිචාරය."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the correct Sinhala meaning.",
+      "audio": "Tourism generates income, but it must preserve local culture and nature.",
+      "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+      "options": [
+        "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව සම්බන්ධයෙන් සියලු පාර්ශ්වවල අවශ්‍යතා සලකන පොදු රාමුවක් යෝජනා කරමු.",
+        "The weather is pleasant today.",
+        "I bought bread at the shop."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව: නිවැරදි ප්‍රකාශය තෝරන්න.",
+        "options": [
+          "Tourism generates income, but it must preserve local culture and nature.",
+          "The weather is pleasant today.",
+          "I bought bread at the shop."
+        ],
+        "answer": 0,
+        "explanation": "මෙම වාක්‍යය සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව මාතෘකාවට ගැළපේ."
+      },
+      {
+        "prompt": "Which phrase introduces a careful recommendation?",
+        "options": [
+          "I would suggest that we review the evidence.",
+          "The blue quickly window.",
+          "Yesterday at seven because."
+        ],
+        "answer": 0,
+        "explanation": "“I would suggest…” යනු ආචාරශීලී නිර්දේශයක් ඉදිරිපත් කරන රටාවකි."
+      },
+      {
+        "prompt": "සංකීර්ණ සාකච්ඡාවකදී වඩාත් සුදුසු ක්‍රියාව කුමක්ද?",
+        "options": [
+          "සාධක පරීක්ෂා කර විකල්ප සසඳා බැලීම.",
+          "අනෙක් අදහස් නොසලකා හැරීම.",
+          "සාකච්ඡාවට අදාළ නොවන කරුණු පැවසීම."
+        ],
+        "answer": 0,
+        "explanation": "B2 මට්ටමේදී සාධක මත පදනම්ව විකල්ප ඇගයීම වැදගත්ය."
+      },
+      {
+        "prompt": "Choose the best sentence for a balanced conclusion.",
+        "options": [
+          "On the basis of the evidence, this option seems most reasonable.",
+          "I never read anything.",
+          "Because table quickly."
+        ],
+        "answer": 0,
+        "explanation": "මෙම වාක්‍යය සාධක මත පදනම් වූ සමබර නිගමනයක් දක්වයි."
+      }
+    ]
+  },
+  {
+    "id": "en-b2-l48",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · Lesson 48 · නවෝත්පාදනය සහ ව්‍යවසායකත්වය",
+    "objective": "ව්‍යාපාර අදහසක්, වෙළඳපොළ අවශ්‍යතාව සහ අවදානම ඉදිරිපත් කරන්න.",
+    "vocabulary": [
+      {
+        "word": "cooperation",
+        "reading": "කොඔපරේෂන්",
+        "meaning": "ව්‍යවසායකත්වය",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය සන්දර්භයේ ව්‍යවසායකත්වය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "agreement",
+        "reading": "අග්‍රීමන්ට්",
+        "meaning": "නවෝත්පාදනය",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය සන්දර්භයේ නවෝත්පාදනය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "negotiation",
+        "reading": "නෙගෝෂියේෂන්",
+        "meaning": "ආයෝජනය",
+        "example": "Although challenges remain, we can find a practical approach.",
+        "exampleReading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
+        "translation": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය සන්දර්භයේ ආයෝජනය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "delegation",
+        "reading": "ඩෙලිගේෂන්",
+        "meaning": "වෙළඳපොළ",
+        "example": "A careful decision should be based on the available evidence.",
+        "exampleReading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
+        "translation": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය සන්දර්භයේ වෙළඳපොළ යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "interest",
+        "reading": "ඉන්ටරෙස්ට්",
+        "meaning": "ආරම්භ කිරීම",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය සන්දර්භයේ ආරම්භ කිරීම යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "position",
+        "reading": "ස්ටෑන්ස්",
+        "meaning": "තරඟය",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය සන්දර්භයේ තරඟය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "alliance",
+        "reading": "අලයනස්",
+        "meaning": "ව්‍යාපාර ආකෘතිය",
+        "example": "Although challenges remain, we can find a practical approach.",
+        "exampleReading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
+        "translation": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය සන්දර්භයේ ව්‍යාපාර ආකෘතිය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "compromise",
+        "reading": "කොම්ප්‍රමයිස්",
+        "meaning": "වර්ධනය",
+        "example": "A careful decision should be based on the available evidence.",
+        "exampleReading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
+        "translation": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය සන්දර්භයේ වර්ධනය යන වචනය භාවිතා වේ."
+      }
+    ],
+    "grammarTitle": "Future forms and projected outcomes",
+    "grammar": "Future forms and projected outcomes: If the pilot project succeeds, we will expand the service into new markets. මෙම රටාව සන්දර්භයට ගැළපෙන ලෙස භාවිතා කරමින් අදහස් පැහැදිලිව, නිවැරදිව සහ ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "text": "If the pilot project succeeds, we will expand the service into new markets.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "meaning": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය"
+      }
+    ],
+    "examples": [
+      {
+        "text": "It is important to consider all the relevant facts.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "meaning": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "text": "I suggest that we compare several possible solutions.",
+        "reading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "meaning": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "text": "Although challenges remain, we can find a practical approach.",
+        "reading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
+        "meaning": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය: 3 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "text": "A careful decision should be based on the available evidence.",
+        "reading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
+        "meaning": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය: 4 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "How would you describe the main challenge?",
+        "reading": "හවු වුඩ් යූ ඩිස්ක්‍රයිබ් දි මේන් චැලෙන්ජ්?",
+        "meaning": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය පිළිබඳ සංවාදයේ 1 වන ප්‍රතිචාරය."
+      },
+      {
+        "text": "I would suggest checking the facts first.",
+        "reading": "අයි වුඩ් සජෙස්ට් චෙකින් දි ෆැක්ට්ස් ෆර්ස්ට්.",
+        "meaning": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය පිළිබඳ සංවාදයේ 2 වන ප්‍රතිචාරය."
+      },
+      {
+        "text": "That makes sense, but we should consider the consequences too.",
+        "reading": "දැට් මේක්ස් සෙන්ස්, බට් වී ෂුඩ් කන්සිඩර් දි කොන්සික්වෙන්සිස් ටූ.",
+        "meaning": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය පිළිබඳ සංවාදයේ 3 වන ප්‍රතිචාරය."
+      },
+      {
+        "text": "I agree. Let us decide on the next steps.",
+        "reading": "අයි අග්‍රී. ලෙට් අස් ඩිසයිඩ් ඔන් දි නෙක්ස්ට් ස්ටෙප්ස්.",
+        "meaning": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය පිළිබඳ සංවාදයේ 4 වන ප්‍රතිචාරය."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the correct Sinhala meaning.",
+      "audio": "If the pilot project succeeds, we will expand the service into new markets.",
+      "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+      "options": [
+        "නවෝත්පාදනය සහ ව්‍යවසායකත්වය සම්බන්ධයෙන් සියලු පාර්ශ්වවල අවශ්‍යතා සලකන පොදු රාමුවක් යෝජනා කරමු.",
+        "The weather is pleasant today.",
+        "I bought bread at the shop."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය: නිවැරදි ප්‍රකාශය තෝරන්න.",
+        "options": [
+          "If the pilot project succeeds, we will expand the service into new markets.",
+          "The weather is pleasant today.",
+          "I bought bread at the shop."
+        ],
+        "answer": 0,
+        "explanation": "මෙම වාක්‍යය නවෝත්පාදනය සහ ව්‍යවසායකත්වය මාතෘකාවට ගැළපේ."
+      },
+      {
+        "prompt": "Which phrase introduces a careful recommendation?",
+        "options": [
+          "I would suggest that we review the evidence.",
+          "The blue quickly window.",
+          "Yesterday at seven because."
+        ],
+        "answer": 0,
+        "explanation": "“I would suggest…” යනු ආචාරශීලී නිර්දේශයක් ඉදිරිපත් කරන රටාවකි."
+      },
+      {
+        "prompt": "සංකීර්ණ සාකච්ඡාවකදී වඩාත් සුදුසු ක්‍රියාව කුමක්ද?",
+        "options": [
+          "සාධක පරීක්ෂා කර විකල්ප සසඳා බැලීම.",
+          "අනෙක් අදහස් නොසලකා හැරීම.",
+          "සාකච්ඡාවට අදාළ නොවන කරුණු පැවසීම."
+        ],
+        "answer": 0,
+        "explanation": "B2 මට්ටමේදී සාධක මත පදනම්ව විකල්ප ඇගයීම වැදගත්ය."
+      },
+      {
+        "prompt": "Choose the best sentence for a balanced conclusion.",
+        "options": [
+          "On the basis of the evidence, this option seems most reasonable.",
+          "I never read anything.",
+          "Because table quickly."
+        ],
+        "answer": 0,
+        "explanation": "මෙම වාක්‍යය සාධක මත පදනම් වූ සමබර නිගමනයක් දක්වයි."
+      }
+    ]
+  },
+  {
+    "id": "en-b2-l49",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · Lesson 49 · භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ",
+    "objective": "සන්දර්භය අනුව වචන තෝරාගෙන සෘජු සහ වක්‍ර අර්ථ හඳුනාගන්න.",
+    "vocabulary": [
+      {
+        "word": "cooperation",
+        "reading": "කොඔපරේෂන්",
+        "meaning": "සූක්ෂ්ම වෙනස",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ සන්දර්භයේ සූක්ෂ්ම වෙනස යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "agreement",
+        "reading": "අග්‍රීමන්ට්",
+        "meaning": "ප්‍රකාශය",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ සන්දර්භයේ ප්‍රකාශය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "negotiation",
+        "reading": "නෙගෝෂියේෂන්",
+        "meaning": "වචනාර්ථයෙන්",
+        "example": "Although challenges remain, we can find a practical approach.",
+        "exampleReading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
+        "translation": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ සන්දර්භයේ වචනාර්ථයෙන් යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "delegation",
+        "reading": "ඩෙලිගේෂන්",
+        "meaning": "ව්‍යංගාර්ථයෙන්",
+        "example": "A careful decision should be based on the available evidence.",
+        "exampleReading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
+        "translation": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ සන්දර්භයේ ව්‍යංගාර්ථයෙන් යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "interest",
+        "reading": "ඉන්ටරෙස්ට්",
+        "meaning": "භාෂා ශෛලිය",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ සන්දර්භයේ භාෂා ශෛලිය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "position",
+        "reading": "ස්ටෑන්ස්",
+        "meaning": "ඉඟිය",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ සන්දර්භයේ ඉඟිය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "alliance",
+        "reading": "අලයනස්",
+        "meaning": "ද්විඅර්ථවත්",
+        "example": "Although challenges remain, we can find a practical approach.",
+        "exampleReading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
+        "translation": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ සන්දර්භයේ ද්විඅර්ථවත් යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "compromise",
+        "reading": "කොම්ප්‍රමයිස්",
+        "meaning": "සන්දර්භය",
+        "example": "A careful decision should be based on the available evidence.",
+        "exampleReading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
+        "translation": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ සන්දර්භයේ සන්දර්භය යන වචනය භාවිතා වේ."
+      }
+    ],
+    "grammarTitle": "Idioms, register and implied meaning",
+    "grammar": "Idioms, register and implied meaning: An expression may have a different meaning depending on the context. මෙම රටාව සන්දර්භයට ගැළපෙන ලෙස භාවිතා කරමින් අදහස් පැහැදිලිව, නිවැරදිව සහ ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "text": "An expression may have a different meaning depending on the context.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "meaning": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ"
+      }
+    ],
+    "examples": [
+      {
+        "text": "It is important to consider all the relevant facts.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "meaning": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "text": "I suggest that we compare several possible solutions.",
+        "reading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "meaning": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "text": "Although challenges remain, we can find a practical approach.",
+        "reading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
+        "meaning": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ: 3 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "text": "A careful decision should be based on the available evidence.",
+        "reading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
+        "meaning": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ: 4 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "How would you describe the main challenge?",
+        "reading": "හවු වුඩ් යූ ඩිස්ක්‍රයිබ් දි මේන් චැලෙන්ජ්?",
+        "meaning": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ පිළිබඳ සංවාදයේ 1 වන ප්‍රතිචාරය."
+      },
+      {
+        "text": "I would suggest checking the facts first.",
+        "reading": "අයි වුඩ් සජෙස්ට් චෙකින් දි ෆැක්ට්ස් ෆර්ස්ට්.",
+        "meaning": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ පිළිබඳ සංවාදයේ 2 වන ප්‍රතිචාරය."
+      },
+      {
+        "text": "That makes sense, but we should consider the consequences too.",
+        "reading": "දැට් මේක්ස් සෙන්ස්, බට් වී ෂුඩ් කන්සිඩර් දි කොන්සික්වෙන්සිස් ටූ.",
+        "meaning": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ පිළිබඳ සංවාදයේ 3 වන ප්‍රතිචාරය."
+      },
+      {
+        "text": "I agree. Let us decide on the next steps.",
+        "reading": "අයි අග්‍රී. ලෙට් අස් ඩිසයිඩ් ඔන් දි නෙක්ස්ට් ස්ටෙප්ස්.",
+        "meaning": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ පිළිබඳ සංවාදයේ 4 වන ප්‍රතිචාරය."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the correct Sinhala meaning.",
+      "audio": "An expression may have a different meaning depending on the context.",
+      "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+      "options": [
+        "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ සම්බන්ධයෙන් සියලු පාර්ශ්වවල අවශ්‍යතා සලකන පොදු රාමුවක් යෝජනා කරමු.",
+        "The weather is pleasant today.",
+        "I bought bread at the shop."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ: නිවැරදි ප්‍රකාශය තෝරන්න.",
+        "options": [
+          "An expression may have a different meaning depending on the context.",
+          "The weather is pleasant today.",
+          "I bought bread at the shop."
+        ],
+        "answer": 0,
+        "explanation": "මෙම වාක්‍යය භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ මාතෘකාවට ගැළපේ."
+      },
+      {
+        "prompt": "Which phrase introduces a careful recommendation?",
+        "options": [
+          "I would suggest that we review the evidence.",
+          "The blue quickly window.",
+          "Yesterday at seven because."
+        ],
+        "answer": 0,
+        "explanation": "“I would suggest…” යනු ආචාරශීලී නිර්දේශයක් ඉදිරිපත් කරන රටාවකි."
+      },
+      {
+        "prompt": "සංකීර්ණ සාකච්ඡාවකදී වඩාත් සුදුසු ක්‍රියාව කුමක්ද?",
+        "options": [
+          "සාධක පරීක්ෂා කර විකල්ප සසඳා බැලීම.",
+          "අනෙක් අදහස් නොසලකා හැරීම.",
+          "සාකච්ඡාවට අදාළ නොවන කරුණු පැවසීම."
+        ],
+        "answer": 0,
+        "explanation": "B2 මට්ටමේදී සාධක මත පදනම්ව විකල්ප ඇගයීම වැදගත්ය."
+      },
+      {
+        "prompt": "Choose the best sentence for a balanced conclusion.",
+        "options": [
+          "On the basis of the evidence, this option seems most reasonable.",
+          "I never read anything.",
+          "Because table quickly."
+        ],
+        "answer": 0,
+        "explanation": "මෙම වාක්‍යය සාධක මත පදනම් වූ සමබර නිගමනයක් දක්වයි."
+      }
+    ]
+  },
+  {
+    "id": "en-b2-l50",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · Lesson 50 · B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය",
+    "objective": "සංකීර්ණ මාතෘකාවක් පිළිබඳ කථනය, ලිවීම, කියවීම සහ ශ්‍රවණය ඒකාබද්ධ කරන්න.",
+    "vocabulary": [
+      {
+        "word": "cooperation",
+        "reading": "කොඔපරේෂන්",
+        "meaning": "නිගමනය",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය සන්දර්භයේ නිගමනය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "agreement",
+        "reading": "අග්‍රීමන්ට්",
+        "meaning": "සාධකය",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය සන්දර්භයේ සාධකය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "negotiation",
+        "reading": "නෙගෝෂියේෂන්",
+        "meaning": "තර්කය",
+        "example": "Although challenges remain, we can find a practical approach.",
+        "exampleReading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
+        "translation": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය සන්දර්භයේ තර්කය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "delegation",
+        "reading": "ඩෙලිගේෂන්",
+        "meaning": "සාරාංශ කිරීම",
+        "example": "A careful decision should be based on the available evidence.",
+        "exampleReading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
+        "translation": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය සන්දර්භයේ සාරාංශ කිරීම යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "interest",
+        "reading": "ඉන්ටරෙස්ට්",
+        "meaning": "ඇගයීම",
+        "example": "It is important to consider all the relevant facts.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "translation": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය සන්දර්භයේ ඇගයීම යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "position",
+        "reading": "ස්ටෑන්ස්",
+        "meaning": "මතය",
+        "example": "I suggest that we compare several possible solutions.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "translation": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය සන්දර්භයේ මතය යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "alliance",
+        "reading": "අලයනස්",
+        "meaning": "සම්බන්ධතාව",
+        "example": "Although challenges remain, we can find a practical approach.",
+        "exampleReading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
+        "translation": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය සන්දර්භයේ සම්බන්ධතාව යන වචනය භාවිතා වේ."
+      },
+      {
+        "word": "compromise",
+        "reading": "කොම්ප්‍රමයිස්",
+        "meaning": "නිරවද්‍යතාව",
+        "example": "A careful decision should be based on the available evidence.",
+        "exampleReading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
+        "translation": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය සන්දර්භයේ නිරවද්‍යතාව යන වචනය භාවිතා වේ."
+      }
+    ],
+    "grammarTitle": "Combining argument, evidence, concession and conclusion",
+    "grammar": "Combining argument, evidence, concession and conclusion: On the basis of the available evidence, I conclude that this is the most balanced solution. මෙම රටාව සන්දර්භයට ගැළපෙන ලෙස භාවිතා කරමින් අදහස් පැහැදිලිව, නිවැරදිව සහ ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "text": "On the basis of the available evidence, I conclude that this is the most balanced solution.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "meaning": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය"
+      }
+    ],
+    "examples": [
+      {
+        "text": "It is important to consider all the relevant facts.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+        "meaning": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "text": "I suggest that we compare several possible solutions.",
+        "reading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
+        "meaning": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "text": "Although challenges remain, we can find a practical approach.",
+        "reading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
+        "meaning": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය: 3 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      },
+      {
+        "text": "A careful decision should be based on the available evidence.",
+        "reading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
+        "meaning": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය: 4 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "How would you describe the main challenge?",
+        "reading": "හවු වුඩ් යූ ඩිස්ක්‍රයිබ් දි මේන් චැලෙන්ජ්?",
+        "meaning": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය පිළිබඳ සංවාදයේ 1 වන ප්‍රතිචාරය."
+      },
+      {
+        "text": "I would suggest checking the facts first.",
+        "reading": "අයි වුඩ් සජෙස්ට් චෙකින් දි ෆැක්ට්ස් ෆර්ස්ට්.",
+        "meaning": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය පිළිබඳ සංවාදයේ 2 වන ප්‍රතිචාරය."
+      },
+      {
+        "text": "That makes sense, but we should consider the consequences too.",
+        "reading": "දැට් මේක්ස් සෙන්ස්, බට් වී ෂුඩ් කන්සිඩර් දි කොන්සික්වෙන්සිස් ටූ.",
+        "meaning": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය පිළිබඳ සංවාදයේ 3 වන ප්‍රතිචාරය."
+      },
+      {
+        "text": "I agree. Let us decide on the next steps.",
+        "reading": "අයි අග්‍රී. ලෙට් අස් ඩිසයිඩ් ඔන් දි නෙක්ස්ට් ස්ටෙප්ස්.",
+        "meaning": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය පිළිබඳ සංවාදයේ 4 වන ප්‍රතිචාරය."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the correct Sinhala meaning.",
+      "audio": "On the basis of the available evidence, I conclude that this is the most balanced solution.",
+      "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
+      "options": [
+        "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය සම්බන්ධයෙන් සියලු පාර්ශ්වවල අවශ්‍යතා සලකන පොදු රාමුවක් යෝජනා කරමු.",
+        "The weather is pleasant today.",
+        "I bought bread at the shop."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය: නිවැරදි ප්‍රකාශය තෝරන්න.",
+        "options": [
+          "On the basis of the available evidence, I conclude that this is the most balanced solution.",
+          "The weather is pleasant today.",
+          "I bought bread at the shop."
+        ],
+        "answer": 0,
+        "explanation": "මෙම වාක්‍යය B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය මාතෘකාවට ගැළපේ."
+      },
+      {
+        "prompt": "Which phrase introduces a careful recommendation?",
+        "options": [
+          "I would suggest that we review the evidence.",
+          "The blue quickly window.",
+          "Yesterday at seven because."
+        ],
+        "answer": 0,
+        "explanation": "“I would suggest…” යනු ආචාරශීලී නිර්දේශයක් ඉදිරිපත් කරන රටාවකි."
+      },
+      {
+        "prompt": "සංකීර්ණ සාකච්ඡාවකදී වඩාත් සුදුසු ක්‍රියාව කුමක්ද?",
+        "options": [
+          "සාධක පරීක්ෂා කර විකල්ප සසඳා බැලීම.",
+          "අනෙක් අදහස් නොසලකා හැරීම.",
+          "සාකච්ඡාවට අදාළ නොවන කරුණු පැවසීම."
+        ],
+        "answer": 0,
+        "explanation": "B2 මට්ටමේදී සාධක මත පදනම්ව විකල්ප ඇගයීම වැදගත්ය."
+      },
+      {
+        "prompt": "Choose the best sentence for a balanced conclusion.",
+        "options": [
+          "On the basis of the evidence, this option seems most reasonable.",
+          "I never read anything.",
+          "Because table quickly."
+        ],
+        "answer": 0,
+        "explanation": "මෙම වාක්‍යය සාධක මත පදනම් වූ සමබර නිගමනයක් දක්වයි."
       }
     ]
   }
