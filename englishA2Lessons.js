@@ -3459,5 +3459,870 @@ export const ENGLISH_A2_LESSONS = [
         "explanation": "I think... = මම හිතන්නේ..."
       }
     ]
-  }
+  },
+{
+  "id": "en-a2-l21",
+  "unit": "Travel and transport",
+  "title": "A2 · Lesson 21 · Travel and transport",
+  "objective": "Talk about transport options, tickets and journey times",
+  "vocabulary": [
+    {
+      "word": "platform",
+      "reading": "ප්ලැට්ෆෝම්",
+      "meaning": "වේදිකාව",
+      "example": "platform",
+      "exampleReading": "ප්ලැට්ෆෝම්",
+      "translation": "වේදිකාව"
+    },
+    {
+      "word": "departure",
+      "reading": "ඩිපාර්චර්",
+      "meaning": "පිටත්වීම",
+      "example": "departure",
+      "exampleReading": "ඩිපාර්චර්",
+      "translation": "පිටත්වීම"
+    },
+    {
+      "word": "arrival",
+      "reading": "අරයිවල්",
+      "meaning": "පැමිණීම",
+      "example": "arrival",
+      "exampleReading": "අරයිවල්",
+      "translation": "පැමිණීම"
+    },
+    {
+      "word": "ticket",
+      "reading": "ටික්ට්",
+      "meaning": "ටිකට්පත",
+      "example": "ticket",
+      "exampleReading": "ටික්ට්",
+      "translation": "ටිකට්පත"
+    },
+    {
+      "word": "journey",
+      "reading": "ජර්නි",
+      "meaning": "ගමන",
+      "example": "journey",
+      "exampleReading": "ජර්නි",
+      "translation": "ගමන"
+    },
+    {
+      "word": "delay",
+      "reading": "ඩිලේ",
+      "meaning": "ප්‍රමාදය",
+      "example": "delay",
+      "exampleReading": "ඩිලේ",
+      "translation": "ප්‍රමාදය"
+    },
+    {
+      "word": "change",
+      "reading": "චේන්ජ්",
+      "meaning": "මාරු කිරීම",
+      "example": "change",
+      "exampleReading": "චේන්ජ්",
+      "translation": "මාරු කිරීම"
+    },
+    {
+      "word": "route",
+      "reading": "රූට්",
+      "meaning": "ගමන් මාර්ගය",
+      "example": "route",
+      "exampleReading": "රූට්",
+      "translation": "ගමන් මාර්ගය"
+    }
+  ],
+  "grammarTitle": "Grammar",
+  "grammar": "Ask “How long does it take?” about duration. Say “I need to change trains” when a transfer is necessary.",
+  "grammarTerms": [
+    {
+      "text": "Which platform does the train leave from?",
+      "reading": "විච් ප්ලැට්ෆෝම් ඩස් දි ට්‍රේන් ලීව් ෆ්‍රම්?",
+      "meaning": "දුම්රිය පිටත් වෙන්නේ කුමන වේදිකාවෙන්ද?"
+    }
+  ],
+  "examples": [
+    {
+      "text": "Which platform does the train leave from?",
+      "reading": "විච් ප්ලැට්ෆෝම් ඩස් දි ට්‍රේන් ලීව් ෆ්‍රම්?",
+      "meaning": "දුම්රිය පිටත් වෙන්නේ කුමන වේදිකාවෙන්ද?"
+    },
+    {
+      "text": "It leaves from platform three.",
+      "reading": "ඉට් ලීව්ස් ෆ්‍රම් ප්ලැට්ෆෝම් ත්‍රී.",
+      "meaning": "එය තුන්වන වේදිකාවෙන් පිටත් වෙනවා."
+    },
+    {
+      "text": "How long does the journey take?",
+      "reading": "හවු ලෝං ඩස් දි ජර්නි ටේක්?",
+      "meaning": "ගමනට කොච්චර වෙලාවක් ගත වෙනවාද?"
+    }
+  ],
+  "dialogue": [
+    {
+      "text": "Excuse me, is this the bus to the centre?",
+      "reading": "ඉක්ස්කියුස් මී, ඉස් දිස් දි බස් ටු දි සෙන්ටර්?",
+      "meaning": "දුම්රිය නවයට පිටත් වෙනවා."
+    },
+    {
+      "text": "Yes, but you need the correct ticket.",
+      "reading": "යෙස්, බට් යූ නීඩ් දි කරෙක්ට් ටිකට්.",
+      "meaning": "දුම්රිය නවයට පිටත් වෙනවා."
+    },
+    {
+      "text": "Where can I buy one?",
+      "reading": "වෙයාර් කැන් අයි බයි වන්?",
+      "meaning": "දුම්රිය නවයට පිටත් වෙනවා."
+    },
+    {
+      "text": "At the machine next to the entrance.",
+      "reading": "ඇට් දි මෂීන් නෙක්ස්ට් ටු දි එන්ට්‍රන්ස්.",
+      "meaning": "දුම්රිය නවයට පිටත් වෙනවා."
+    }
+  ],
+  "listeningPractice": {
+    "prompt": "Listen and choose the meaning: “The train leaves at nine.”",
+    "audio": "The train leaves at nine.",
+    "reading": "",
+    "options": [
+      "දුම්රිය නවයට පිටත් වෙනවා.",
+      "වෙනත් අර්ථයක්",
+      "අදාළ නොවන අර්ථයක්"
+    ],
+    "answer": 0
+  },
+  "practice": [
+    {
+      "prompt": "Choose the word meaning “වේදිකාව”.",
+      "options": [
+        "platform",
+        "departure",
+        "arrival"
+      ],
+      "answer": 0,
+      "explanation": "platform = වේදිකාව"
+    },
+    {
+      "prompt": "Choose the word meaning “ටිකට්පත”.",
+      "options": [
+        "arrival",
+        "ticket",
+        "journey"
+      ],
+      "answer": 1,
+      "explanation": "ticket = ටිකට්පත"
+    },
+    {
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "Which platform does the train leave from?",
+        "It leaves from platform three.",
+        "How long does the journey take?"
+      ],
+      "answer": 0,
+      "explanation": "දුම්රිය පිටත් වෙන්නේ කුමන වේදිකාවෙන්ද?"
+    },
+    {
+      "prompt": "Choose the final line of the dialogue.",
+      "options": [
+        "Excuse me, is this the bus to the centre?",
+        "At the machine next to the entrance.",
+        "Yes, but you need the correct ticket."
+      ],
+      "answer": 1,
+      "explanation": "දුම්රිය නවයට පිටත් වෙනවා."
+    }
+  ]
+},
+{
+  "id": "en-a2-l22",
+  "unit": "Shopping for clothes",
+  "title": "A2 · Lesson 22 · Shopping for clothes",
+  "objective": "Ask about clothing sizes, fitting rooms, discounts and payment",
+  "vocabulary": [
+    {
+      "word": "size",
+      "reading": "සයිස්",
+      "meaning": "ප්‍රමාණය",
+      "example": "size",
+      "exampleReading": "සයිස්",
+      "translation": "ප්‍රමාණය"
+    },
+    {
+      "word": "fitting room",
+      "reading": "ෆිටින් රූම්",
+      "meaning": "ඇඳුම් මාරු කරන කාමරය",
+      "example": "fitting room",
+      "exampleReading": "ෆිටින් රූම්",
+      "translation": "ඇඳුම් මාරු කරන කාමරය"
+    },
+    {
+      "word": "discount",
+      "reading": "ඩිස්කවුන්ට්",
+      "meaning": "වට්ටම",
+      "example": "discount",
+      "exampleReading": "ඩිස්කවුන්ට්",
+      "translation": "වට්ටම"
+    },
+    {
+      "word": "receipt",
+      "reading": "රිසීට්",
+      "meaning": "රිසිට්පත",
+      "example": "receipt",
+      "exampleReading": "රිසීට්",
+      "translation": "රිසිට්පත"
+    },
+    {
+      "word": "cash",
+      "reading": "කෑෂ්",
+      "meaning": "මුදල්",
+      "example": "cash",
+      "exampleReading": "කෑෂ්",
+      "translation": "මුදල්"
+    },
+    {
+      "word": "card",
+      "reading": "කාඩ්",
+      "meaning": "කාඩ්පත",
+      "example": "card",
+      "exampleReading": "කාඩ්",
+      "translation": "කාඩ්පත"
+    },
+    {
+      "word": "comfortable",
+      "reading": "කම්ෆටබල්",
+      "meaning": "සුවපහසු",
+      "example": "comfortable",
+      "exampleReading": "කම්ෆටබල්",
+      "translation": "සුවපහසු"
+    },
+    {
+      "word": "exchange",
+      "reading": "ඉක්ස්චේන්ජ්",
+      "meaning": "මාරු කරගැනීම",
+      "example": "exchange",
+      "exampleReading": "ඉක්ස්චේන්ජ්",
+      "translation": "මාරු කරගැනීම"
+    }
+  ],
+  "grammarTitle": "Grammar",
+  "grammar": "Ask permission with “Could I try this on?” Ask for another size with “Do you have it in a larger size?”",
+  "grammarTerms": [
+    {
+      "text": "Could I try this jacket on?",
+      "reading": "කුඩ් අයි ට්‍රයි දිස් ජැකට් ඔන්?",
+      "meaning": "මට මේ ජැකට් එක ඇඳලා බලන්න පුළුවන්ද?"
+    }
+  ],
+  "examples": [
+    {
+      "text": "Could I try this jacket on?",
+      "reading": "කුඩ් අයි ට්‍රයි දිස් ජැකට් ඔන්?",
+      "meaning": "මට මේ ජැකට් එක ඇඳලා බලන්න පුළුවන්ද?"
+    },
+    {
+      "text": "Of course. The fitting room is over there.",
+      "reading": "ඔෆ් කෝස්. දි ෆිටින් රූම් ඉස් ඕවර් දෙයාර්.",
+      "meaning": "අනිවාර්යයෙන්. ඇඳුම් මාරු කරන කාමරය එතනයි."
+    },
+    {
+      "text": "Do you have a smaller size?",
+      "reading": "ඩූ යූ හැව් අ ස්මෝලර් සයිස්?",
+      "meaning": "ඔබ ළඟ කුඩා ප්‍රමාණයක් තියෙනවාද?"
+    }
+  ],
+  "dialogue": [
+    {
+      "text": "Can I help you?",
+      "reading": "කැන් අයි හෙල්ප් යූ?",
+      "meaning": "මට මේ ජැකට් එක ඇඳලා බලන්න පුළුවන්ද?"
+    },
+    {
+      "text": "Yes, I'm looking for comfortable shoes.",
+      "reading": "යෙස්, අයිම් ලුකින් ෆෝ කම්ෆටබල් ෂූස්.",
+      "meaning": "මට මේ ජැකට් එක ඇඳලා බලන්න පුළුවන්ද?"
+    },
+    {
+      "text": "What size do you need?",
+      "reading": "වොට් සයිස් ඩූ යූ නීඩ්?",
+      "meaning": "මට මේ ජැකට් එක ඇඳලා බලන්න පුළුවන්ද?"
+    },
+    {
+      "text": "Size forty, please.",
+      "reading": "සයිස් ෆෝටි, ප්ලීස්.",
+      "meaning": "මට මේ ජැකට් එක ඇඳලා බලන්න පුළුවන්ද?"
+    }
+  ],
+  "listeningPractice": {
+    "prompt": "Listen and choose the meaning: “Could I try this jacket on?”",
+    "audio": "Could I try this jacket on?",
+    "reading": "කුඩ් අයි ට්‍රයි දිස් ජැකට් ඔන්?",
+    "options": [
+      "මට මේ ජැකට් එක ඇඳලා බලන්න පුළුවන්ද?",
+      "වෙනත් අර්ථයක්",
+      "අදාළ නොවන අර්ථයක්"
+    ],
+    "answer": 0
+  },
+  "practice": [
+    {
+      "prompt": "Choose the word meaning “ප්‍රමාණය”.",
+      "options": [
+        "size",
+        "fitting room",
+        "discount"
+      ],
+      "answer": 0,
+      "explanation": "size = ප්‍රමාණය"
+    },
+    {
+      "prompt": "Choose the word meaning “රිසිට්පත”.",
+      "options": [
+        "discount",
+        "receipt",
+        "cash"
+      ],
+      "answer": 1,
+      "explanation": "receipt = රිසිට්පත"
+    },
+    {
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "Could I try this jacket on?",
+        "Of course. The fitting room is over there.",
+        "Do you have a smaller size?"
+      ],
+      "answer": 0,
+      "explanation": "මට මේ ජැකට් එක ඇඳලා බලන්න පුළුවන්ද?"
+    },
+    {
+      "prompt": "Choose the final line of the dialogue.",
+      "options": [
+        "Can I help you?",
+        "Size forty, please.",
+        "Yes, I'm looking for comfortable shoes."
+      ],
+      "answer": 1,
+      "explanation": "මට මේ ජැකට් එක ඇඳලා බලන්න පුළුවන්ද?"
+    }
+  ]
+},
+{
+  "id": "en-a2-l23",
+  "unit": "Weather and seasons",
+  "title": "A2 · Lesson 23 · Weather and seasons",
+  "objective": "Describe weather conditions and make plans based on the forecast",
+  "vocabulary": [
+    {
+      "word": "forecast",
+      "reading": "ෆෝර්කාස්ට්",
+      "meaning": "කාලගුණ අනාවැකිය",
+      "example": "forecast",
+      "exampleReading": "ෆෝර්කාස්ට්",
+      "translation": "කාලගුණ අනාවැකිය"
+    },
+    {
+      "word": "sunny",
+      "reading": "සනි",
+      "meaning": "අව්ව සහිත",
+      "example": "sunny",
+      "exampleReading": "සනි",
+      "translation": "අව්ව සහිත"
+    },
+    {
+      "word": "cloudy",
+      "reading": "ක්ලවුඩි",
+      "meaning": "වලාකුළු සහිත",
+      "example": "cloudy",
+      "exampleReading": "ක්ලවුඩි",
+      "translation": "වලාකුළු සහිත"
+    },
+    {
+      "word": "rainy",
+      "reading": "රේනි",
+      "meaning": "වැසි සහිත",
+      "example": "rainy",
+      "exampleReading": "රේනි",
+      "translation": "වැසි සහිත"
+    },
+    {
+      "word": "windy",
+      "reading": "වින්ඩි",
+      "meaning": "සුළං සහිත",
+      "example": "windy",
+      "exampleReading": "වින්ඩි",
+      "translation": "සුළං සහිත"
+    },
+    {
+      "word": "spring",
+      "reading": "ස්ප්‍රිං",
+      "meaning": "වසන්තය",
+      "example": "spring",
+      "exampleReading": "ස්ප්‍රිං",
+      "translation": "වසන්තය"
+    },
+    {
+      "word": "summer",
+      "reading": "සමර්",
+      "meaning": "ගිම්හානය",
+      "example": "summer",
+      "exampleReading": "සමර්",
+      "translation": "ගිම්හානය"
+    },
+    {
+      "word": "winter",
+      "reading": "වින්ටර්",
+      "meaning": "ශීත ඍතුව",
+      "example": "winter",
+      "exampleReading": "වින්ටර්",
+      "translation": "ශීත ඍතුව"
+    }
+  ],
+  "grammarTitle": "Grammar",
+  "grammar": "Use “It will be...” for a forecast and “If it rains...” for a possible condition.",
+  "grammarTerms": [
+    {
+      "text": "What's the weather going to be like tomorrow?",
+      "reading": "වොට්ස් දි වෙදර් ගෝයිං ටු බී ලයික් ටුමොරෝ?",
+      "meaning": "හෙට කාලගුණය කොහොම වේවිද?"
+    }
+  ],
+  "examples": [
+    {
+      "text": "What's the weather going to be like tomorrow?",
+      "reading": "වොට්ස් දි වෙදර් ගෝයිං ටු බී ලයික් ටුමොරෝ?",
+      "meaning": "හෙට කාලගුණය කොහොම වේවිද?"
+    },
+    {
+      "text": "It will be sunny and warm.",
+      "reading": "ඉට් විල් බී සනි ඇන්ඩ් වෝම්.",
+      "meaning": "අව්ව සහ උණුසුම තියේවි."
+    },
+    {
+      "text": "If it rains, we'll stay inside.",
+      "reading": "ඉෆ් ඉට් රේන්ස්, වීල් ස්ටේ ඉන්සයිඩ්.",
+      "meaning": "වැස්ස වැටුණොත් අපි ඇතුළේ ඉන්නවා."
+    }
+  ],
+  "dialogue": [
+    {
+      "text": "Shall we go for a walk?",
+      "reading": "ෂැල් වී ගෝ ෆෝ අ වෝක්?",
+      "meaning": "අව්ව සහ උණුසුම තියේවි."
+    },
+    {
+      "text": "Let's check the forecast first.",
+      "reading": "ලෙට්ස් චෙක් දි ෆෝර්කාස්ට් ෆර්ස්ට්.",
+      "meaning": "අව්ව සහ උණුසුම තියේවි."
+    },
+    {
+      "text": "It might be windy this afternoon.",
+      "reading": "ඉට් මයිට් බී වින්ඩි දිස් ආෆ්ටර්නූන්.",
+      "meaning": "අව්ව සහ උණුසුම තියේවි."
+    },
+    {
+      "text": "Then we should take a jacket.",
+      "reading": "දෙන් වී ෂුඩ් ටේක් අ ජැකට්.",
+      "meaning": "අව්ව සහ උණුසුම තියේවි."
+    }
+  ],
+  "listeningPractice": {
+    "prompt": "Listen and choose the meaning: “It will be sunny and warm.”",
+    "audio": "It will be sunny and warm.",
+    "reading": "ඉට් විල් බී සනි ඇන්ඩ් වෝම්.",
+    "options": [
+      "අව්ව සහ උණුසුම තියේවි.",
+      "වෙනත් අර්ථයක්",
+      "අදාළ නොවන අර්ථයක්"
+    ],
+    "answer": 0
+  },
+  "practice": [
+    {
+      "prompt": "Choose the word meaning “කාලගුණ අනාවැකිය”.",
+      "options": [
+        "forecast",
+        "sunny",
+        "cloudy"
+      ],
+      "answer": 0,
+      "explanation": "forecast = කාලගුණ අනාවැකිය"
+    },
+    {
+      "prompt": "Choose the word meaning “වැසි සහිත”.",
+      "options": [
+        "cloudy",
+        "rainy",
+        "windy"
+      ],
+      "answer": 1,
+      "explanation": "rainy = වැසි සහිත"
+    },
+    {
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "What's the weather going to be like tomorrow?",
+        "It will be sunny and warm.",
+        "If it rains, we'll stay inside."
+      ],
+      "answer": 0,
+      "explanation": "හෙට කාලගුණය කොහොම වේවිද?"
+    },
+    {
+      "prompt": "Choose the final line of the dialogue.",
+      "options": [
+        "Shall we go for a walk?",
+        "Then we should take a jacket.",
+        "Let's check the forecast first."
+      ],
+      "answer": 1,
+      "explanation": "අව්ව සහ උණුසුම තියේවි."
+    }
+  ]
+},
+{
+  "id": "en-a2-l24",
+  "unit": "Appointments and arrangements",
+  "title": "A2 · Lesson 24 · Appointments and arrangements",
+  "objective": "Arrange appointments, check availability and change meeting times",
+  "vocabulary": [
+    {
+      "word": "appointment",
+      "reading": "අපොයින්ට්මන්ට්",
+      "meaning": "හමුවීම",
+      "example": "appointment",
+      "exampleReading": "අපොයින්ට්මන්ට්",
+      "translation": "හමුවීම"
+    },
+    {
+      "word": "schedule",
+      "reading": "ස්කෙජූල්",
+      "meaning": "කාලසටහන",
+      "example": "schedule",
+      "exampleReading": "ස්කෙජූල්",
+      "translation": "කාලසටහන"
+    },
+    {
+      "word": "available",
+      "reading": "අවේලබල්",
+      "meaning": "නිදහස් / ලබාගත හැකි",
+      "example": "available",
+      "exampleReading": "අවේලබල්",
+      "translation": "නිදහස් / ලබාගත හැකි"
+    },
+    {
+      "word": "cancel",
+      "reading": "කැන්සල්",
+      "meaning": "අවලංගු කරනවා",
+      "example": "cancel",
+      "exampleReading": "කැන්සල්",
+      "translation": "අවලංගු කරනවා"
+    },
+    {
+      "word": "reschedule",
+      "reading": "රීස්කෙජූල්",
+      "meaning": "වේලාව වෙනස් කරනවා",
+      "example": "reschedule",
+      "exampleReading": "රීස්කෙජූල්",
+      "translation": "වේලාව වෙනස් කරනවා"
+    },
+    {
+      "word": "on time",
+      "reading": "ඔන් ටයිම්",
+      "meaning": "නියමිත වේලාවට",
+      "example": "on time",
+      "exampleReading": "ඔන් ටයිම්",
+      "translation": "නියමිත වේලාවට"
+    },
+    {
+      "word": "late",
+      "reading": "ලේට්",
+      "meaning": "ප්‍රමාද",
+      "example": "late",
+      "exampleReading": "ලේට්",
+      "translation": "ප්‍රමාද"
+    },
+    {
+      "word": "confirm",
+      "reading": "කන්ෆර්ම්",
+      "meaning": "තහවුරු කරනවා",
+      "example": "confirm",
+      "exampleReading": "කන්ෆර්ම්",
+      "translation": "තහවුරු කරනවා"
+    }
+  ],
+  "grammarTitle": "Grammar",
+  "grammar": "Check availability with “Are you available on Friday?” Politely change a time with “Could we reschedule?”",
+  "grammarTerms": [
+    {
+      "text": "Are you available on Friday?",
+      "reading": "ආර් යූ අවේලබල් ඔන් ෆ්‍රයිඩේ?",
+      "meaning": "ඔයාට සිකුරාදා නිදහස්ද?"
+    }
+  ],
+  "examples": [
+    {
+      "text": "Are you available on Friday?",
+      "reading": "ආර් යූ අවේලබල් ඔන් ෆ්‍රයිඩේ?",
+      "meaning": "ඔයාට සිකුරාදා නිදහස්ද?"
+    },
+    {
+      "text": "Yes, I'm free in the afternoon.",
+      "reading": "යෙස්, අයිම් ෆ්‍රී ඉන් දි ආෆ්ටර්නූන්.",
+      "meaning": "ඔව්, මම හවස නිදහස්."
+    },
+    {
+      "text": "Could we move the appointment to Monday?",
+      "reading": "කුඩ් වී මූව් දි අපොයින්ට්මන්ට් ටු මන්ඩේ?",
+      "meaning": "අපිට හමුවීම සඳුදාට මාරු කරන්න පුළුවන්ද?"
+    }
+  ],
+  "dialogue": [
+    {
+      "text": "Your appointment is at ten.",
+      "reading": "යෝර් අපොයින්ට්මන්ට් ඉස් ඇට් ටෙන්.",
+      "meaning": "ඔයාට සිකුරාදා නිදහස්ද?"
+    },
+    {
+      "text": "I'm sorry, I may be fifteen minutes late.",
+      "reading": "අයිම් සොරි, අයි මේ බී ෆිෆ්ටීන් මිනිට්ස් ලේට්.",
+      "meaning": "ඔයාට සිකුරාදා නිදහස්ද?"
+    },
+    {
+      "text": "Thank you for letting us know.",
+      "reading": "තෑන්ක් යූ ෆෝ ලෙටින් අස් නෝ.",
+      "meaning": "ඔයාට සිකුරාදා නිදහස්ද?"
+    },
+    {
+      "text": "We'll start a little later.",
+      "reading": "වීල් ස්ටාට් අ ලිට්ල් ලේටර්.",
+      "meaning": "ඔයාට සිකුරාදා නිදහස්ද?"
+    }
+  ],
+  "listeningPractice": {
+    "prompt": "Listen and choose the meaning: “Are you available on Friday?”",
+    "audio": "Are you available on Friday?",
+    "reading": "ආර් යූ අවේලබල් ඔන් ෆ්‍රයිඩේ?",
+    "options": [
+      "ඔයාට සිකුරාදා නිදහස්ද?",
+      "වෙනත් අර්ථයක්",
+      "අදාළ නොවන අර්ථයක්"
+    ],
+    "answer": 0
+  },
+  "practice": [
+    {
+      "prompt": "Choose the word meaning “හමුවීම”.",
+      "options": [
+        "appointment",
+        "schedule",
+        "available"
+      ],
+      "answer": 0,
+      "explanation": "appointment = හමුවීම"
+    },
+    {
+      "prompt": "Choose the word meaning “අවලංගු කරනවා”.",
+      "options": [
+        "available",
+        "cancel",
+        "reschedule"
+      ],
+      "answer": 1,
+      "explanation": "cancel = අවලංගු කරනවා"
+    },
+    {
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "Are you available on Friday?",
+        "Yes, I'm free in the afternoon.",
+        "Could we move the appointment to Monday?"
+      ],
+      "answer": 0,
+      "explanation": "ඔයාට සිකුරාදා නිදහස්ද?"
+    },
+    {
+      "prompt": "Choose the final line of the dialogue.",
+      "options": [
+        "Your appointment is at ten.",
+        "We'll start a little later.",
+        "I'm sorry, I may be fifteen minutes late."
+      ],
+      "answer": 1,
+      "explanation": "ඔයාට සිකුරාදා නිදහස්ද?"
+    }
+  ]
+},
+{
+  "id": "en-a2-l25",
+  "unit": "Cooking and recipes",
+  "title": "A2 · Lesson 25 · Cooking and recipes",
+  "objective": "Describe ingredients, cooking methods and simple recipe instructions",
+  "vocabulary": [
+    {
+      "word": "recipe",
+      "reading": "රෙසපි",
+      "meaning": "වට්ටෝරුව",
+      "example": "recipe",
+      "exampleReading": "රෙසපි",
+      "translation": "වට්ටෝරුව"
+    },
+    {
+      "word": "ingredient",
+      "reading": "ඉන්ග්‍රීඩියන්ට්",
+      "meaning": "අමුද්‍රව්‍යය",
+      "example": "ingredient",
+      "exampleReading": "ඉන්ග්‍රීඩියන්ට්",
+      "translation": "අමුද්‍රව්‍යය"
+    },
+    {
+      "word": "chop",
+      "reading": "චොප්",
+      "meaning": "කුඩා කැබලිවලට කපනවා",
+      "example": "chop",
+      "exampleReading": "චොප්",
+      "translation": "කුඩා කැබලිවලට කපනවා"
+    },
+    {
+      "word": "boil",
+      "reading": "බොයිල්",
+      "meaning": "තම්බනවා",
+      "example": "boil",
+      "exampleReading": "බොයිල්",
+      "translation": "තම්බනවා"
+    },
+    {
+      "word": "fry",
+      "reading": "ෆ්‍රයි",
+      "meaning": "බදිනවා",
+      "example": "fry",
+      "exampleReading": "ෆ්‍රයි",
+      "translation": "බදිනවා"
+    },
+    {
+      "word": "add",
+      "reading": "ඇඩ්",
+      "meaning": "එකතු කරනවා",
+      "example": "add",
+      "exampleReading": "ඇඩ්",
+      "translation": "එකතු කරනවා"
+    },
+    {
+      "word": "stir",
+      "reading": "ස්ටර්",
+      "meaning": "කලවම් කරනවා",
+      "example": "stir",
+      "exampleReading": "ස්ටර්",
+      "translation": "කලවම් කරනවා"
+    },
+    {
+      "word": "delicious",
+      "reading": "ඩිලිෂස්",
+      "meaning": "රසවත්",
+      "example": "delicious",
+      "exampleReading": "ඩිලිෂස්",
+      "translation": "රසවත්"
+    }
+  ],
+  "grammarTitle": "Grammar",
+  "grammar": "Use imperative verbs in recipe instructions: “Add the vegetables”, “Stir slowly” and “Boil for ten minutes”.",
+  "grammarTerms": [
+    {
+      "text": "What ingredients do we need?",
+      "reading": "වොට් ඉන්ග්‍රීඩියන්ට්ස් ඩූ වී නීඩ්?",
+      "meaning": "අපිට මොන අමුද්‍රව්‍යද අවශ්‍ය?"
+    }
+  ],
+  "examples": [
+    {
+      "text": "What ingredients do we need?",
+      "reading": "වොට් ඉන්ග්‍රීඩියන්ට්ස් ඩූ වී නීඩ්?",
+      "meaning": "අපිට මොන අමුද්‍රව්‍යද අවශ්‍ය?"
+    },
+    {
+      "text": "We need potatoes and carrots.",
+      "reading": "වී නීඩ් පොටේටෝස් ඇන්ඩ් කැරට්ස්.",
+      "meaning": "අපිට අර්තාපල් සහ කැරට් අවශ්‍යයි."
+    },
+    {
+      "text": "How long should we cook it?",
+      "reading": "හවු ලෝං ෂුඩ් වී කුක් ඉට්?",
+      "meaning": "අපි ඒක කොච්චර වෙලාවක් උයන්න ඕනෙද?"
+    }
+  ],
+  "dialogue": [
+    {
+      "text": "First, chop the vegetables.",
+      "reading": "ෆර්ස්ට්, චොප් දි වෙජිටබල්ස්.",
+      "meaning": "අවසානයේ ලුණු ටිකක් එකතු කරන්න."
+    },
+    {
+      "text": "Then add them to the pot.",
+      "reading": "දෙන් ඇඩ් දෙම් ටු දි පොට්.",
+      "meaning": "අවසානයේ ලුණු ටිකක් එකතු කරන්න."
+    },
+    {
+      "text": "Boil everything for twenty minutes.",
+      "reading": "බොයිල් එව්රිතිං ෆෝ ට්වෙන්ටි මිනිට්ස්.",
+      "meaning": "අවසානයේ ලුණු ටිකක් එකතු කරන්න."
+    },
+    {
+      "text": "Finally, add a little salt.",
+      "reading": "ෆයිනලි, ඇඩ් අ ලිට්ල් සෝල්ට්.",
+      "meaning": "අවසානයේ ලුණු ටිකක් එකතු කරන්න."
+    }
+  ],
+  "listeningPractice": {
+    "prompt": "Listen and choose the meaning: “Finally, add a little salt.”",
+    "audio": "Finally, add a little salt.",
+    "reading": "ෆයිනලි, ඇඩ් අ ලිට්ල් සෝල්ට්.",
+    "options": [
+      "අවසානයේ ලුණු ටිකක් එකතු කරන්න.",
+      "වෙනත් අර්ථයක්",
+      "අදාළ නොවන අර්ථයක්"
+    ],
+    "answer": 0
+  },
+  "practice": [
+    {
+      "prompt": "Choose the word meaning “වට්ටෝරුව”.",
+      "options": [
+        "recipe",
+        "ingredient",
+        "chop"
+      ],
+      "answer": 0,
+      "explanation": "recipe = වට්ටෝරුව"
+    },
+    {
+      "prompt": "Choose the word meaning “තම්බනවා”.",
+      "options": [
+        "chop",
+        "boil",
+        "fry"
+      ],
+      "answer": 1,
+      "explanation": "boil = තම්බනවා"
+    },
+    {
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "What ingredients do we need?",
+        "We need potatoes and carrots.",
+        "How long should we cook it?"
+      ],
+      "answer": 0,
+      "explanation": "අපිට මොන අමුද්‍රව්‍යද අවශ්‍ය?"
+    },
+    {
+      "prompt": "Choose the final line of the dialogue.",
+      "options": [
+        "First, chop the vegetables.",
+        "Finally, add a little salt.",
+        "Then add them to the pot."
+      ],
+      "answer": 1,
+      "explanation": "අවසානයේ ලුණු ටිකක් එකතු කරන්න."
+    }
+  ]
+}
 ];
