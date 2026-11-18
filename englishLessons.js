@@ -293,4 +293,100 @@ export const ENGLISH_A1_LESSONS = [
  {prompt:"වායුසමීකරණය වැඩ නොකරන බව කියන්නේ?",options:["The room is ready.","The air conditioning doesn't work.","Breakfast is included."],readings:["ද රූම් ඉස් රෙඩි.","දි එයාර් කන්ඩිෂනින් ඩසන්ට් වර්ක්.","බ්‍රෙක්ෆස්ට් ඉස් ඉන්ක්ලූඩිඩ්."],answer:1,explanation:"Doesn't work යනු වැඩ කරන්නේ නැහැ යන අර්ථයයි."}
  ]
  }
+ ,
+ {
+  id:"en-a1-u3-l1",
+  unit:"කැෆේ සහ ආහාර ඇණවුම් කිරීම",
+  title:"පාඩම 11 · කැෆේ එකකින් ආහාර ඇණවුම් කිරීම",
+  objective:"කැෆේ එකකින් මෙනුව ඉල්ලීම, ආහාර සහ පානයක් ඇණවුම් කිරීම, විශේෂ අවශ්‍යතාවක් පැවසීම සහ බිල ඉල්ලීම.",
+  vocabulary:[
+   {word:"Menu",reading:"මෙනියු",meaning:"ආහාර මෙනුව",example:"Could I see the menu, please?",exampleReading:"කුඩ් අයි සී ද මෙනියු, ප්ලීස්?",translation:"කරුණාකර මට මෙනුව බලන්න පුළුවන්ද?"},
+   {word:"I'd like...",reading:"අයිඩ් ලයික්",meaning:"මට ... අවශ්‍යයි",example:"I'd like a coffee, please.",exampleReading:"අයිඩ් ලයික් අ කොෆී, ප්ලීස්.",translation:"මට කෝපි එකක් අවශ්‍යයි, කරුණාකර."},
+   {word:"Order",reading:"ඕඩර්",meaning:"ඇණවුම / ඇණවුම් කිරීම",example:"I'd like to order now.",exampleReading:"අයිඩ් ලයික් ටු ඕඩර් නව්.",translation:"මට දැන් ඇණවුම් කරන්න ඕනේ."},
+   {word:"A sandwich",reading:"අ සැන්ඩ්විච්",meaning:"සැන්ඩ්විච් එකක්",example:"Can I have a sandwich?",exampleReading:"කැන් අයි හැව් අ සැන්ඩ්විච්?",translation:"මට සැන්ඩ්විච් එකක් ගන්න පුළුවන්ද?"},
+   {word:"Without sugar",reading:"විදවුට් ෂුගර්",meaning:"සීනි නැතුව",example:"Tea without sugar, please.",exampleReading:"ටී විදවුට් ෂුගර්, ප්ලීස්.",translation:"සීනි නැති තේ, කරුණාකර."},
+   {word:"Without milk",reading:"විදවුට් මිල්ක්",meaning:"කිරි නැතුව",example:"Coffee without milk, please.",exampleReading:"කොෆී විදවුට් මිල්ක්, ප්ලීස්.",translation:"කිරි නැති කෝපි, කරුණාකර."},
+   {word:"For here",reading:"ෆෝර් හියර්",meaning:"මෙතැනදී භාවිතයට",example:"Is that for here or to go?",exampleReading:"ඉස් දැට් ෆෝර් හියර් ඕර් ටු ගෝ?",translation:"ඒක මෙතැනටද නැත්නම් ගෙන යන්නද?"},
+   {word:"To go",reading:"ටු ගෝ",meaning:"ගෙන යාමට",example:"Two coffees to go, please.",exampleReading:"ටූ කොෆීස් ටු ගෝ, ප්ලීස්.",translation:"ගෙන යන්න කෝපි දෙකක්, කරුණාකර."},
+   {word:"The bill",reading:"ද බිල්",meaning:"බිල",example:"Could I have the bill, please?",exampleReading:"කුඩ් අයි හැව් ද බිල්, ප්ලීස්?",translation:"කරුණාකර බිල දෙන්න පුළුවන්ද?"}
+  ],
+  grammarTitle:"ව්‍යාකරණය · ආචාරශීලීව ඇණවුම් කිරීම",
+  grammar:"කැෆේ එකක යමක් ඉල්ලීමට “I'd like ...” හෝ “Could I have ...?” යොදාගන්න. “Without” යනු නැතුව / රහිතව යන්නයි. කෑම මෙතැනදී ගන්නවාද නැත්නම් ගෙන යනවාද කියා “For here or to go?” අසන්න පුළුවන්.",
+  grammarTerms:[
+   {text:"I'd like a coffee, please.",reading:"අයිඩ් ලයික් අ කොෆී, ප්ලීස්.",meaning:"මට කෝපි එකක් අවශ්‍යයි, කරුණාකර."},
+   {text:"Could I see the menu?",reading:"කුඩ් අයි සී ද මෙනියු?",meaning:"මට මෙනුව බලන්න පුළුවන්ද?"},
+   {text:"Without milk",reading:"විදවුට් මිල්ක්",meaning:"කිරි නැතුව"},
+   {text:"For here or to go?",reading:"ෆෝර් හියර් ඕර් ටු ගෝ?",meaning:"මෙතැනටද නැත්නම් ගෙන යන්නද?"},
+   {text:"Could I have the bill?",reading:"කුඩ් අයි හැව් ද බිල්?",meaning:"මට බිල දෙන්න පුළුවන්ද?"}
+  ],
+  examples:[
+   {text:"Good afternoon. I'd like a tea without sugar, please.",reading:"ගුඩ් ආෆ්ටර්නූන්. අයිඩ් ලයික් අ ටී විදවුට් ෂුගර්, ප්ලීස්.",meaning:"සුබ දහවල්. මට සීනි නැති තේ එකක් අවශ්‍යයි, කරුණාකර."},
+   {text:"Could I have a chicken sandwich?",reading:"කුඩ් අයි හැව් අ චිකන් සැන්ඩ්විච්?",meaning:"මට චිකන් සැන්ඩ්විච් එකක් ගන්න පුළුවන්ද?"},
+   {text:"For here, please.",reading:"ෆෝර් හියර්, ප්ලීස්.",meaning:"මෙතැනදී ගන්නවා, කරුණාකර."},
+   {text:"Could I have the bill, please?",reading:"කුඩ් අයි හැව් ද බිල්, ප්ලීස්?",meaning:"කරුණාකර බිල දෙන්න පුළුවන්ද?"}
+  ],
+  dialogue:[
+   {text:"Good afternoon! Are you ready to order?",reading:"ගුඩ් ආෆ්ටර්නූන්! ආර් යූ රෙඩි ටු ඕඩර්?",meaning:"සුබ දහවල්! ඔබ ඇණවුම් කරන්න සූදානම්ද?"},
+   {text:"Yes. Could I see the menu, please?",reading:"යෙස්. කුඩ් අයි සී ද මෙනියු, ප්ලීස්?",meaning:"ඔව්. කරුණාකර මට මෙනුව බලන්න පුළුවන්ද?"},
+   {text:"Of course. What would you like?",reading:"අව් කෝර්ස්. වොට් වුඩ් යූ ලයික්?",meaning:"අනිවාර්යයෙන්ම. ඔබට මොනවාද අවශ්‍ය?"},
+   {text:"I'd like a coffee and a sandwich.",reading:"අයිඩ් ලයික් අ කොෆී ඇන්ඩ් අ සැන්ඩ්විච්.",meaning:"මට කෝපි එකක් සහ සැන්ඩ්විච් එකක් අවශ්‍යයි."},
+   {text:"For here or to go?",reading:"ෆෝර් හියර් ඕර් ටු ගෝ?",meaning:"මෙතැනටද නැත්නම් ගෙන යන්නද?"},
+   {text:"To go, please. And the bill?",reading:"ටු ගෝ, ප්ලීස්. ඇන්ඩ් ද බිල්?",meaning:"ගෙන යන්න, කරුණාකර. බිලත් දෙන්න."}
+  ],
+  listeningPractice:{prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “I'd like a coffee without milk, please.”",audio:"I'd like a coffee without milk, please.",options:["මට කිරි නැති කෝපි එකක් අවශ්‍යයි, කරුණාකර.","මට සීනි නැති තේ එකක් අවශ්‍යයි.","මට බිල ගෙවන්න බැහැ."],readings:["අයිඩ් ලයික් අ කොෆී විදවුට් මිල්ක්, ප්ලීස්.","අයිඩ් ලයික් අ ටී විදවුට් ෂුගර්, ප්ලීස්.","අයි කෑන්ට් පේ ද බිල්."],answer:0,meaning:"I'd like a coffee without milk, please. = මට කිරි නැති කෝපි එකක් අවශ්‍යයි, කරුණාකර."},
+  practice:[
+   {prompt:"“මට කෝපි එකක් අවශ්‍යයි” කියන විනීත වාක්‍යය තෝරන්න.",options:["I'd like a coffee, please.","Where is the station?","I am late."],readings:["අයිඩ් ලයික් අ කොෆී, ප්ලීස්.","වෙයාර් ඉස් ද ස්ටේෂන්?","අයි ඇම් ලේට්."],answer:0,explanation:"I'd like ... යනු මට ... අවශ්‍යයි යන විනීත රටාවයි."},
+   {prompt:"“කිරි නැතුව” කියන අර්ථය කුමක්ද?",options:["For here","Without milk","To go"],readings:["ෆෝර් හියර්","විදවුට් මිල්ක්","ටු ගෝ"],answer:1,explanation:"Without milk = කිරි නැතුව."},
+   {prompt:"මෙනුව ඉල්ලීමට සුදුසු ප්‍රශ්නය?",options:["Could I see the menu?","What time is it?","How old are you?"],readings:["කුඩ් අයි සී ද මෙනියු?","වොට් ටයිම් ඉස් ඉට්?","හවු ඕල්ඩ් ආ යූ?"],answer:0,explanation:"Could I ...? යනු විනීතව ඉල්ලීමක් කරන රටාවකි."},
+   {prompt:"බිල ඉල්ලීමට නිවැරදි වාක්‍යය තෝරන්න.",options:["Could I have the bill, please?","I need a map.","See you tomorrow."],readings:["කුඩ් අයි හැව් ද බිල්, ප්ලීස්?","අයි නීඩ් අ මැප්.","සී යූ ටුමාරෝ."],answer:0,explanation:"Could I have the bill, please? = කරුණාකර බිල දෙන්න පුළුවන්ද?"}
+  ]
+ },
+ {
+  id:"en-a1-u3-l2",
+  unit:"දෛනික ඉල්ලීම් සහ උදව් ලබාගැනීම",
+  title:"පාඩම 12 · උදව් ඉල්ලීම සහ නොතේරුණු විට කතා කිරීම",
+  objective:"ආචාරශීලීව උදව් ඉල්ලීම, නැවත කියන්න පැවසීම, හෙමින් කතා කරන්න ඉල්ලීම සහ සරල අවශ්‍යතාවක් පැහැදිලි කිරීම.",
+  vocabulary:[
+   {word:"Could you help me?",reading:"කුඩ් යූ හෙල්ප් මී?",meaning:"ඔබට මට උදව් කරන්න පුළුවන්ද?",example:"Excuse me, could you help me?",exampleReading:"ඉක්ස්කියූස් මී, කුඩ් යූ හෙල්ප් මී?",translation:"සමාවෙන්න, ඔබට මට උදව් කරන්න පුළුවන්ද?"},
+   {word:"I don't understand",reading:"අයි ඩෝන්ට් අන්ඩර්ස්ටෑන්ඩ්",meaning:"මට තේරෙන්නේ නැහැ",example:"Sorry, I don't understand.",exampleReading:"සොරි, අයි ඩෝන්ට් අන්ඩර්ස්ටෑන්ඩ්.",translation:"සමාවෙන්න, මට තේරෙන්නේ නැහැ."},
+   {word:"Could you repeat that?",reading:"කුඩ් යූ රිපීට් දැට්?",meaning:"ඔබට ඒක නැවත කියන්න පුළුවන්ද?",example:"Could you repeat that, please?",exampleReading:"කුඩ් යූ රිපීට් දැට්, ප්ලීස්?",translation:"කරුණාකර ඒක නැවත කියන්න පුළුවන්ද?"},
+   {word:"More slowly",reading:"මෝර් ස්ලෝලි",meaning:"වඩා හෙමින්",example:"Please speak more slowly.",exampleReading:"ප්ලීස් ස්පීක් මෝර් ස්ලෝලි.",translation:"කරුණාකර වඩා හෙමින් කතා කරන්න."},
+   {word:"I need...",reading:"අයි නීඩ්",meaning:"මට ... අවශ්‍යයි",example:"I need a doctor.",exampleReading:"අයි නීඩ් අ ඩොක්ටර්.",translation:"මට වෛද්‍යවරයෙක් අවශ්‍යයි."},
+   {word:"A pharmacy",reading:"අ ෆාමසි",meaning:"ඖෂධහලක්",example:"Where is the nearest pharmacy?",exampleReading:"වෙයාර් ඉස් ද නියරස්ට් ෆාමසි?",translation:"ළඟම ඖෂධහල කොහෙද?"},
+   {word:"An address",reading:"ඇන් ඇඩ්‍රස්",meaning:"ලිපිනයක්",example:"I am looking for this address.",exampleReading:"අයි ඇම් ලුකින් ෆෝර් දිස් ඇඩ්‍රස්.",translation:"මම මේ ලිපිනය හොයනවා."},
+   {word:"A map",reading:"අ මැප්",meaning:"සිතියමක්",example:"Can you show me on the map?",exampleReading:"කැන් යූ ෂෝ මී ඔන් ද මැප්?",translation:"සිතියමේ මට පෙන්වන්න පුළුවන්ද?"},
+   {word:"A doctor",reading:"අ ඩොක්ටර්",meaning:"වෛද්‍යවරයෙක්",example:"I need a doctor, please.",exampleReading:"අයි නීඩ් අ ඩොක්ටර්, ප්ලීස්.",translation:"කරුණාකර මට වෛද්‍යවරයෙක් අවශ්‍යයි."}
+  ],
+  grammarTitle:"ව්‍යාකරණය · උදව් ඉල්ලන විනීත ප්‍රශ්න",
+  grammar:"“Could you ...?” යනු “ඔබට ... කරන්න පුළුවන්ද?” යන විනීත ප්‍රශ්න රටාවයි. “I need ...” යොදාගෙන අවශ්‍ය දෙයක් කියන්න. “I don't understand” කියා පසුව “Could you repeat that?” හෝ “Please speak more slowly” යොදාගන්න පුළුවන්.",
+  grammarTerms:[
+   {text:"Could you help me?",reading:"කුඩ් යූ හෙල්ප් මී?",meaning:"ඔබට මට උදව් කරන්න පුළුවන්ද?"},
+   {text:"Could you repeat that?",reading:"කුඩ් යූ රිපීට් දැට්?",meaning:"ඔබට ඒක නැවත කියන්න පුළුවන්ද?"},
+   {text:"Please speak more slowly.",reading:"ප්ලීස් ස්පීක් මෝර් ස්ලෝලි.",meaning:"කරුණාකර වඩා හෙමින් කතා කරන්න."},
+   {text:"Where is the nearest pharmacy?",reading:"වෙයාර් ඉස් ද නියරස්ට් ෆාමසි?",meaning:"ළඟම ඖෂධහල කොහෙද?"},
+   {text:"I need ...",reading:"අයි නීඩ් ...",meaning:"මට ... අවශ්‍යයි."}
+  ],
+  examples:[
+   {text:"Excuse me, could you help me?",reading:"ඉක්ස්කියූස් මී, කුඩ් යූ හෙල්ප් මී?",meaning:"සමාවෙන්න, ඔබට මට උදව් කරන්න පුළුවන්ද?"},
+   {text:"I don't understand. Could you repeat that?",reading:"අයි ඩෝන්ට් අන්ඩර්ස්ටෑන්ඩ්. කුඩ් යූ රිපීට් දැට්?",meaning:"මට තේරෙන්නේ නැහැ. ඒක නැවත කියන්න පුළුවන්ද?"},
+   {text:"Please speak more slowly.",reading:"ප්ලීස් ස්පීක් මෝර් ස්ලෝලි.",meaning:"කරුණාකර වඩා හෙමින් කතා කරන්න."},
+   {text:"Where is the nearest pharmacy?",reading:"වෙයාර් ඉස් ද නියරස්ට් ෆාමසි?",meaning:"ළඟම ඖෂධහල කොහෙද?"}
+  ],
+  dialogue:[
+   {text:"Excuse me, could you help me?",reading:"ඉක්ස්කියූස් මී, කුඩ් යූ හෙල්ප් මී?",meaning:"සමාවෙන්න, ඔබට මට උදව් කරන්න පුළුවන්ද?"},
+   {text:"Of course. What do you need?",reading:"අව් කෝර්ස්. වොට් ඩූ යූ නීඩ්?",meaning:"අනිවාර්යයෙන්ම. ඔබට මොනවාද අවශ්‍ය?"},
+   {text:"I'm looking for this address, but I don't understand the map.",reading:"අයිම් ලුකින් ෆෝර් දිස් ඇඩ්‍රස්, බට් අයි ඩෝන්ට් අන්ඩර්ස්ටෑන්ඩ් ද මැප්.",meaning:"මම මේ ලිපිනය හොයනවා, නමුත් මට සිතියම තේරෙන්නේ නැහැ."},
+   {text:"I can show you. Go straight and then turn left.",reading:"අයි කැන් ෂෝ යූ. ගෝ ස්ට්‍රේට් ඇන්ඩ් දැන් ටර්න් ලෙෆ්ට්.",meaning:"මට ඔබට පෙන්වන්න පුළුවන්. කෙළින්ම ගිහින් පසුව වමට හැරෙන්න."},
+   {text:"Could you repeat that more slowly, please?",reading:"කුඩ් යූ රිපීට් දැට් මෝර් ස්ලෝලි, ප්ලීස්?",meaning:"කරුණාකර ඒක ටිකක් හෙමින් නැවත කියන්න පුළුවන්ද?"},
+   {text:"Of course. No problem.",reading:"අව් කෝර්ස්. නෝ ප්‍රොබ්ලම්.",meaning:"අනිවාර්යයෙන්ම. ප්‍රශ්නයක් නැහැ."}
+  ],
+  listeningPractice:{prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Could you repeat that, please?”",audio:"Could you repeat that, please?",options:["කරුණාකර ඒක නැවත කියන්න පුළුවන්ද?","මට වෛද්‍යවරයෙක් අවශ්‍යයි.","මට කාමරයක් වෙන් කරන්න ඕනේ."],readings:["කුඩ් යූ රිපීට් දැට්, ප්ලීස්?","අයි නීඩ් අ ඩොක්ටර්.","අයි වුඩ් ලයික් අ රූම්."],answer:0,meaning:"Could you repeat that, please? = කරුණාකර ඒක නැවත කියන්න පුළුවන්ද?"},
+  practice:[
+   {prompt:"“ඔබට මට උදව් කරන්න පුළුවන්ද?” තෝරන්න.",options:["Could you help me?","Where is the bus?","I am hungry."],readings:["කුඩ් යූ හෙල්ප් මී?","වෙයාර් ඉස් ද බස්?","අයි ඇම් හන්ග්‍රි."],answer:0,explanation:"Could you help me? යනු උදව් ඉල්ලන විනීත ප්‍රශ්නයයි."},
+   {prompt:"“මට තේරෙන්නේ නැහැ” කියන්නේ?",options:["I understand.","I don't understand.","I am ready."],readings:["අයි අන්ඩර්ස්ටෑන්ඩ්.","අයි ඩෝන්ට් අන්ඩර්ස්ටෑන්ඩ්.","අයි ඇම් රෙඩි."],answer:1,explanation:"I don't understand = මට තේරෙන්නේ නැහැ."},
+   {prompt:"කෙනෙකුට නැවත කියන්න කියන්නේ?",options:["Could you repeat that?","How much is it?","See you later."],readings:["කුඩ් යූ රිපීට් දැට්?","හවු මච් ඉස් ඉට්?","සී යූ ලේටර්."],answer:0,explanation:"Could you repeat that? යනු ඒක නැවත කියන්න පුළුවන්ද? යන්නයි."},
+   {prompt:"“ළඟම ඖෂධහල කොහෙද?” කියන්නේ?",options:["Where is the nearest pharmacy?","What time is it?","Where is my room?"],readings:["වෙයාර් ඉස් ද නියරස්ට් ෆාමසි?","වොට් ටයිම් ඉස් ඉට්?","වෙයාර් ඉස් මයි රූම්?"],answer:0,explanation:"Where is the nearest pharmacy? = ළඟම ඖෂධහල කොහෙද?"}
+  ]
+ }
+
 ];
