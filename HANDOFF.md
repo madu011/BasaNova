@@ -93,15 +93,14 @@
 - No live API, Supabase migration, Google sign-in or Android device tests have been completed.
 
 ## Next task — resume here
-1. **Verify the Android APK workflow run 44317457889** and download the `basanova-android-debug-apk` artifact only if the run succeeds. Fix any Gradle/build error before claiming APK readiness.
-2. **Keep Serbian + English lesson development synchronized.** Continue A1 with paired lesson 29 onward, including vocabulary, Sinhala-script readings, grammar, examples, dialogue, listening and quizzes in both languages.
-2. Audit target-language phrases embedded in Sinhala grammar/quiz explanations in BOTH languages and ensure each important phrase has a Sinhala-script reading and individual TTS playback.
-3. Add saved local progress for lesson checks, listening results and mixed revision in a language-separated way; then design spaced review from saved mastery.
-4. Continue paired A1 topics until both courses have balanced A1 coverage; then advance both to A2 together.
-5. Recalculate the overall completion estimate in this Progress snapshot after each substantial milestone, using the same weighted workstreams and noting what has actually been tested.
-6. Generate a valid `package-lock.json` in a proper npm checkout and update CI to use it.
-7. Implement local persistence for progress, XP, missions, theme and translator history, then safe cloud sync after Supabase configuration.
-8. Replace emoji/text glyph icons with optimized static 3D-style PNG/WebP assets.
+1. Continue synchronized A2 development with paired Serbian and English lessons 46–50. Keep the same full lesson structure and Sinhala pronunciation/meaning support.
+2. Audit A2 lessons 1–50 in both languages for topic progression, duplicated or weak vocabulary, Serbian/English objective alignment, Sinhala readings, and exercise coverage.
+3. Add cumulative A2 revision and a scored end-of-level listening/comprehension assessment for both languages; keep speaking self-practice clearly distinguished from automatic speech grading.
+4. Audit target-language phrases embedded in Sinhala grammar and quiz explanations and ensure important phrases have Sinhala-script readings and individual TTS playback.
+5. Add saved local progress for lesson checks, listening results and mixed revision in a language-separated way; then design spaced review from saved mastery.
+6. Verify current GitHub Actions/Android build workflow and fix failures before claiming build readiness; no APK or physical-device success is currently established by this lesson-content work.
+7. Generate a valid `package-lock.json` in a proper npm checkout and update CI to use it.
+8. Implement local persistence for progress, XP, missions, theme and translator history, then safe cloud sync after Supabase configuration.
 9. Test translator, clipboard, TTS, lessons, scrolling and offline behavior on Android; only claim APK success after an actual native build and install.
 
 ## Session log
@@ -358,3 +357,5 @@
 - No parser/build command, Expo bundle, GitHub Actions success, APK artifact, installation, or physical Android test was performed for this batch. Sinhala pronunciation readings are approximations and need fluent-speaker review.
 - Previous progress estimates and some older handoff sections are historical and should not be treated as the current verified lesson count. Current source-level lesson totals: Serbian A1 50 + A2 40; English A1 50 + A2 40. B1–C2 lesson content remains outstanding.
 - Next task: add paired A2 lessons 41–45 to both languages, then audit A2 lesson progression and create aligned A2 revision/final assessments. Check the latest GitHub Actions workflows before claiming build readiness.
+
+- 2026-11-18: Added paired A2 lessons 41–45 to Serbian and English. Topics: invitations and making plans; work experience and interviews; household problems and repairs; opinions and comparisons; rules, permission and obligations. Each new lesson includes eight vocabulary cards with Sinhala-script readings and meanings, a Sinhala-supported grammar note and phrase, three topic examples plus the lead phrase, a four-line dialogue, one listening check and four practice questions. Serbian commit: `3d2295e7788f2ac0da4d1417ca2b184d28dca11c`; English commit: `3ed7ed6404f62ebb73d88d53fde7190e5541b2c4`; README commit: `e824896cb26974fdb05b756b7c85ad7fb49fd017`. Source-level JSON parsing confirmed 45 lesson objects per language, unique IDs, complete numbering 1–45, matching paired IDs, and required sections for all ten new lessons. No JavaScript/Expo build, CI pass, APK build, or Android device test was run. Sinhala-script readings are approximate and require fluent-speaker review. Next: paired A2 lessons 46–50, then audit the A2 syllabus and add cumulative revision/assessment.
