@@ -242,3 +242,10 @@ The Cloudflare Worker uses the included `cloudflare/wrangler.toml` rate-limit bi
 - Serbian lesson commit: `79ba4542acc17a65a229011eab7cc3c7bc2dbf91`; English lesson commit: `04c52ddcd22a996383d98f9a0cb0b69553643dce`.
 - The repository now contains 39 structured A1 lesson objects per language, with visible lesson numbering through lesson 42. The complete A1 curriculum still needs a final syllabus coverage audit and cumulative assessment; A2–C2 lesson content remains outstanding.
 - Expo validation and the Android APK workflow have started for this batch; their results are not yet confirmed. No APK artifact or device installation is claimed.
+
+### A1 mixed revision update — lessons 40–42
+- Extended the Serbian A1 mixed revision with listening questions for card payment, city distance/directions and a slippery floor warning.
+- Extended the English A1 mixed revision with the matching three listening questions and Sinhala-script pronunciation.
+- Updated both revision section headings to avoid the old lesson 1–20 label. This is cumulative mixed practice, not yet a scored final A1 examination.
+- Serbian revision commit: `eb71471bdc5fe3be7d55a986c5dedb52a372843e`; app integration commit: `3dcd679b939bd181c707290fe49673e91c99805a`.
+- CI runs for these latest commits are queued/pending at the time of this note. No APK or device test is confirmed.
