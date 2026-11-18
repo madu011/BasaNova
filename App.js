@@ -501,14 +501,15 @@ export default function App(){
     })}
     <View style={s.quizCard}>
      <Text style={s.lessonHeading}>🏆 English A1 · මිශ්‍ර නැවත පුහුණුව</Text>
-     <Text style={s.sub}>පාඩම් 1–6 එකට එකතු කළ පුහුණුව. ඉංග්‍රීසි වාක්‍යය අහලා නිවැරදි සිංහල තේරුම තෝරන්න.</Text>
+     <Text style={s.sub}>පාඩම් 1–7 එකට එකතු කළ පුහුණුව. ඉංග්‍රීසි වාක්‍යය අහලා නිවැරදි සිංහල තේරුම තෝරන්න.</Text>
      {[
       {audio:"Good morning. My name is Anna.",reading:"ගුඩ් මෝර්නිං. මයි නේම් ඉස් ඇනා.",answer:0,options:["සුබ උදෑසනක්. මගේ නම ආනා.","සුබ රාත්‍රියක්. මම හොඳින්.","මට කෝපි එකක් ඕනේ."]},
       {audio:"I am fine, thank you.",reading:"අයි ඇම් ෆයින්, තෑන්ක් යූ.",answer:1,options:["මට උදව් කරන්න පුළුවන්ද?","මම හොඳින්, ස්තුතියි.","මගේ වැඩ මුරය අටට පටන් ගන්නවා."]},
       {audio:"What time is it?",reading:"වොට් ටයිම් ඉස් ඉට්?",answer:2,options:["මේකේ මිල කීයද?","ඔබට කොහොමද?","දැන් වෙලාව කීයද?"]},
       {audio:"How much is this?",reading:"හවු මච් ඉස් දිස්?",answer:0,options:["මේකේ මිල කීයද?","දුම්රිය ස්ථානය කොහෙද?","මට වතුර එකක් ඕනේ."]},
       {audio:"Turn left at the station.",reading:"ටර්න් ලෙෆ්ට් ඇට් ද ස්ටේෂන්.",answer:1,options:["දුම්රිය ස්ථානයේදී දකුණට හැරෙන්න.","දුම්රිය ස්ථානයේදී වමට හැරෙන්න.","කෙළින්ම ගෙදර යන්න."]},
-      {audio:"Can you help me?",reading:"කැන් යූ හෙල්ප් මී?",answer:2,options:["මම මෙතැනට අලුත්.","මට තේරෙන්නේ නැහැ.","ඔබට මට උදව් කරන්න පුළුවන්ද?"]}
+      {audio:"Can you help me?",reading:"කැන් යූ හෙල්ප් මී?",answer:2,options:["මම මෙතැනට අලුත්.","මට තේරෙන්නේ නැහැ.","ඔබට මට උදව් කරන්න පුළුවන්ද?"]},
+      {audio:"Is breakfast included?",reading:"ඉස් බ්‍රෙක්ෆස්ට් ඉන්ක්ලූඩිඩ්?",answer:1,options:["කාමරයේ යතුර කොහෙද?","උදෑසන ආහාරය ඇතුළත්ද?","එක් රාත්‍රියකට කීයද?"]}
      ].map((q,qi)=>{
       const key="english-a1-mixed-"+qi;const selected=lessonAnswers[key];const checked=lessonChecked[key];
       return <View key={key} style={s.quizCard}>
