@@ -122,44 +122,44 @@ export const SERBIAN_C2_LESSONS = [
     },
     "practice": [
       {
-        "prompt": "Which concept is central to this lesson?",
+        "prompt": "Koji pojam je ključan za ovu lekciju?",
         "options": [
           "implikatura",
           "zaključivanje",
           "preduslov"
         ],
         "answer": 0,
-        "explanation": "implikatura is a key term in this topic."
+        "explanation": "implikatura je ključni pojam ove teme."
       },
       {
-        "prompt": "Choose another relevant specialist term.",
+        "prompt": "Izaberite još jedan važan stručni izraz.",
         "options": [
           "suptilnost",
           "ublažavanje",
           "aluzija"
         ],
         "answer": 1,
-        "explanation": "ublažavanje is also central to this topic."
+        "explanation": "Izraz ublažavanje takođe je važan za ovu temu."
       },
       {
-        "prompt": "What should guide a nuanced interpretation?",
+        "prompt": "Šta treba da usmerava nijansirano tumačenje?",
         "options": [
-          "Context, evidence and speaker intention",
-          "Dictionary meaning alone",
-          "An unsupported assumption"
+          "Kontekst, dokazi i namera govornika",
+          "Samo rečničko značenje",
+          "Nepotkrepljena pretpostavka"
         ],
         "answer": 0,
-        "explanation": "Interpretation should consider context and evidence."
+        "explanation": "Tumačenje treba da uzme u obzir kontekst i dokaze."
       },
       {
-        "prompt": "How should uncertainty be expressed?",
+        "prompt": "Kako treba izraziti neizvesnost?",
         "options": [
-          "Qualify the claim precisely",
-          "Present inference as proven fact",
-          "Ignore alternative readings"
+          "Precizno ograničiti tvrdnju",
+          "Predstaviti zaključak kao dokazanu činjenicu",
+          "Zanemariti alternativna tumačenja"
         ],
         "answer": 0,
-        "explanation": "C2 discourse requires precise qualification."
+        "explanation": "Na nivou C2 neophodno je precizno označiti stepen sigurnosti."
       }
     ]
   },
@@ -285,44 +285,44 @@ export const SERBIAN_C2_LESSONS = [
     },
     "practice": [
       {
-        "prompt": "Which concept is central to this lesson?",
+        "prompt": "Koji pojam je ključan za ovu lekciju?",
         "options": [
           "ironija",
           "sarkazam",
           "parodija"
         ],
         "answer": 0,
-        "explanation": "ironija is a key term in this topic."
+        "explanation": "ironija je ključni pojam ove teme."
       },
       {
-        "prompt": "Choose another relevant specialist term.",
+        "prompt": "Izaberite još jedan važan stručni izraz.",
         "options": [
           "poenta",
           "ravnodušan izraz",
           "satiričan"
         ],
         "answer": 1,
-        "explanation": "ravnodušan izraz is also central to this topic."
+        "explanation": "Izraz ravnodušan izraz takođe je važan za ovu temu."
       },
       {
-        "prompt": "What should guide a nuanced interpretation?",
+        "prompt": "Šta treba da usmerava nijansirano tumačenje?",
         "options": [
-          "Context, evidence and speaker intention",
-          "Dictionary meaning alone",
-          "An unsupported assumption"
+          "Kontekst, dokazi i namera govornika",
+          "Samo rečničko značenje",
+          "Nepotkrepljena pretpostavka"
         ],
         "answer": 0,
-        "explanation": "Interpretation should consider context and evidence."
+        "explanation": "Tumačenje treba da uzme u obzir kontekst i dokaze."
       },
       {
-        "prompt": "How should uncertainty be expressed?",
+        "prompt": "Kako treba izraziti neizvesnost?",
         "options": [
-          "Qualify the claim precisely",
-          "Present inference as proven fact",
-          "Ignore alternative readings"
+          "Precizno ograničiti tvrdnju",
+          "Predstaviti zaključak kao dokazanu činjenicu",
+          "Zanemariti alternativna tumačenja"
         ],
         "answer": 0,
-        "explanation": "C2 discourse requires precise qualification."
+        "explanation": "Na nivou C2 neophodno je precizno označiti stepen sigurnosti."
       }
     ]
   },
@@ -448,44 +448,44 @@ export const SERBIAN_C2_LESSONS = [
     },
     "practice": [
       {
-        "prompt": "Which concept is central to this lesson?",
+        "prompt": "Koji pojam je ključan za ovu lekciju?",
         "options": [
           "idiolekt",
           "narodni govor",
           "registar"
         ],
         "answer": 0,
-        "explanation": "idiolekt is a key term in this topic."
+        "explanation": "idiolekt je ključni pojam ove teme."
       },
       {
-        "prompt": "Choose another relevant specialist term.",
+        "prompt": "Izaberite još jedan važan stručni izraz.",
         "options": [
           "promena jezičkog koda",
           "akcenat",
           "sociolekt"
         ],
         "answer": 1,
-        "explanation": "akcenat is also central to this topic."
+        "explanation": "Izraz akcenat takođe je važan za ovu temu."
       },
       {
-        "prompt": "What should guide a nuanced interpretation?",
+        "prompt": "Šta treba da usmerava nijansirano tumačenje?",
         "options": [
-          "Context, evidence and speaker intention",
-          "Dictionary meaning alone",
-          "An unsupported assumption"
+          "Kontekst, dokazi i namera govornika",
+          "Samo rečničko značenje",
+          "Nepotkrepljena pretpostavka"
         ],
         "answer": 0,
-        "explanation": "Interpretation should consider context and evidence."
+        "explanation": "Tumačenje treba da uzme u obzir kontekst i dokaze."
       },
       {
-        "prompt": "How should uncertainty be expressed?",
+        "prompt": "Kako treba izraziti neizvesnost?",
         "options": [
-          "Qualify the claim precisely",
-          "Present inference as proven fact",
-          "Ignore alternative readings"
+          "Precizno ograničiti tvrdnju",
+          "Predstaviti zaključak kao dokazanu činjenicu",
+          "Zanemariti alternativna tumačenja"
         ],
         "answer": 0,
-        "explanation": "C2 discourse requires precise qualification."
+        "explanation": "Na nivou C2 neophodno je precizno označiti stepen sigurnosti."
       }
     ]
   },
@@ -611,44 +611,44 @@ export const SERBIAN_C2_LESSONS = [
     },
     "practice": [
       {
-        "prompt": "Which concept is central to this lesson?",
+        "prompt": "Koji pojam je ključan za ovu lekciju?",
         "options": [
           "uokviravanje",
           "retorički",
           "ustupak"
         ],
         "answer": 0,
-        "explanation": "uokviravanje is a key term in this topic."
+        "explanation": "uokviravanje je ključni pojam ove teme."
       },
       {
-        "prompt": "Choose another relevant specialist term.",
+        "prompt": "Izaberite još jedan važan stručni izraz.",
         "options": [
           "pobijanje",
           "anafora",
           "paralelizam"
         ],
         "answer": 1,
-        "explanation": "anafora is also central to this topic."
+        "explanation": "Izraz anafora takođe je važan za ovu temu."
       },
       {
-        "prompt": "What should guide a nuanced interpretation?",
+        "prompt": "Šta treba da usmerava nijansirano tumačenje?",
         "options": [
-          "Context, evidence and speaker intention",
-          "Dictionary meaning alone",
-          "An unsupported assumption"
+          "Kontekst, dokazi i namera govornika",
+          "Samo rečničko značenje",
+          "Nepotkrepljena pretpostavka"
         ],
         "answer": 0,
-        "explanation": "Interpretation should consider context and evidence."
+        "explanation": "Tumačenje treba da uzme u obzir kontekst i dokaze."
       },
       {
-        "prompt": "How should uncertainty be expressed?",
+        "prompt": "Kako treba izraziti neizvesnost?",
         "options": [
-          "Qualify the claim precisely",
-          "Present inference as proven fact",
-          "Ignore alternative readings"
+          "Precizno ograničiti tvrdnju",
+          "Predstaviti zaključak kao dokazanu činjenicu",
+          "Zanemariti alternativna tumačenja"
         ],
         "answer": 0,
-        "explanation": "C2 discourse requires precise qualification."
+        "explanation": "Na nivou C2 neophodno je precizno označiti stepen sigurnosti."
       }
     ]
   },
@@ -774,44 +774,44 @@ export const SERBIAN_C2_LESSONS = [
     },
     "practice": [
       {
-        "prompt": "Which concept is central to this lesson?",
+        "prompt": "Koji pojam je ključan za ovu lekciju?",
         "options": [
           "konotacija",
           "denotacija",
           "registar"
         ],
         "answer": 0,
-        "explanation": "konotacija is a key term in this topic."
+        "explanation": "konotacija je ključni pojam ove teme."
       },
       {
-        "prompt": "Choose another relevant specialist term.",
+        "prompt": "Izaberite još jedan važan stručni izraz.",
         "options": [
           "kolokacija",
           "polisemija",
           "semantički"
         ],
         "answer": 1,
-        "explanation": "polisemija is also central to this topic."
+        "explanation": "Izraz polisemija takođe je važan za ovu temu."
       },
       {
-        "prompt": "What should guide a nuanced interpretation?",
+        "prompt": "Šta treba da usmerava nijansirano tumačenje?",
         "options": [
-          "Context, evidence and speaker intention",
-          "Dictionary meaning alone",
-          "An unsupported assumption"
+          "Kontekst, dokazi i namera govornika",
+          "Samo rečničko značenje",
+          "Nepotkrepljena pretpostavka"
         ],
         "answer": 0,
-        "explanation": "Interpretation should consider context and evidence."
+        "explanation": "Tumačenje treba da uzme u obzir kontekst i dokaze."
       },
       {
-        "prompt": "How should uncertainty be expressed?",
+        "prompt": "Kako treba izraziti neizvesnost?",
         "options": [
-          "Qualify the claim precisely",
-          "Present inference as proven fact",
-          "Ignore alternative readings"
+          "Precizno ograničiti tvrdnju",
+          "Predstaviti zaključak kao dokazanu činjenicu",
+          "Zanemariti alternativna tumačenja"
         ],
         "answer": 0,
-        "explanation": "C2 discourse requires precise qualification."
+        "explanation": "Na nivou C2 neophodno je precizno označiti stepen sigurnosti."
       }
     ]
   },
@@ -937,44 +937,44 @@ export const SERBIAN_C2_LESSONS = [
     },
     "practice": [
       {
-        "prompt": "Which concept is central to this lesson?",
+        "prompt": "Koji pojam je ključan za ovu lekciju?",
         "options": [
           "aluzija",
           "intertekstualnost",
           "arhetip"
         ],
         "answer": 0,
-        "explanation": "aluzija is a key term in this topic."
+        "explanation": "aluzija je ključni pojam ove teme."
       },
       {
-        "prompt": "Choose another relevant specialist term.",
+        "prompt": "Izaberite još jedan važan stručni izraz.",
         "options": [
           "motiv",
           "odjek",
           "novo tumačenje"
         ],
         "answer": 1,
-        "explanation": "odjek is also central to this topic."
+        "explanation": "Izraz odjek takođe je važan za ovu temu."
       },
       {
-        "prompt": "What should guide a nuanced interpretation?",
+        "prompt": "Šta treba da usmerava nijansirano tumačenje?",
         "options": [
-          "Context, evidence and speaker intention",
-          "Dictionary meaning alone",
-          "An unsupported assumption"
+          "Kontekst, dokazi i namera govornika",
+          "Samo rečničko značenje",
+          "Nepotkrepljena pretpostavka"
         ],
         "answer": 0,
-        "explanation": "Interpretation should consider context and evidence."
+        "explanation": "Tumačenje treba da uzme u obzir kontekst i dokaze."
       },
       {
-        "prompt": "How should uncertainty be expressed?",
+        "prompt": "Kako treba izraziti neizvesnost?",
         "options": [
-          "Qualify the claim precisely",
-          "Present inference as proven fact",
-          "Ignore alternative readings"
+          "Precizno ograničiti tvrdnju",
+          "Predstaviti zaključak kao dokazanu činjenicu",
+          "Zanemariti alternativna tumačenja"
         ],
         "answer": 0,
-        "explanation": "C2 discourse requires precise qualification."
+        "explanation": "Na nivou C2 neophodno je precizno označiti stepen sigurnosti."
       }
     ]
   },
@@ -1100,44 +1100,44 @@ export const SERBIAN_C2_LESSONS = [
     },
     "practice": [
       {
-        "prompt": "Which concept is central to this lesson?",
+        "prompt": "Koji pojam je ključan za ovu lekciju?",
         "options": [
           "ispravka teksta",
           "varijanta",
           "rukopis"
         ],
         "answer": 0,
-        "explanation": "ispravka teksta is a key term in this topic."
+        "explanation": "ispravka teksta je ključni pojam ove teme."
       },
       {
-        "prompt": "Choose another relevant specialist term.",
+        "prompt": "Izaberite još jedan važan stručni izraz.",
         "options": [
           "praznina u tekstu",
           "transkripcija",
           "poreklo"
         ],
         "answer": 1,
-        "explanation": "transkripcija is also central to this topic."
+        "explanation": "Izraz transkripcija takođe je važan za ovu temu."
       },
       {
-        "prompt": "What should guide a nuanced interpretation?",
+        "prompt": "Šta treba da usmerava nijansirano tumačenje?",
         "options": [
-          "Context, evidence and speaker intention",
-          "Dictionary meaning alone",
-          "An unsupported assumption"
+          "Kontekst, dokazi i namera govornika",
+          "Samo rečničko značenje",
+          "Nepotkrepljena pretpostavka"
         ],
         "answer": 0,
-        "explanation": "Interpretation should consider context and evidence."
+        "explanation": "Tumačenje treba da uzme u obzir kontekst i dokaze."
       },
       {
-        "prompt": "How should uncertainty be expressed?",
+        "prompt": "Kako treba izraziti neizvesnost?",
         "options": [
-          "Qualify the claim precisely",
-          "Present inference as proven fact",
-          "Ignore alternative readings"
+          "Precizno ograničiti tvrdnju",
+          "Predstaviti zaključak kao dokazanu činjenicu",
+          "Zanemariti alternativna tumačenja"
         ],
         "answer": 0,
-        "explanation": "C2 discourse requires precise qualification."
+        "explanation": "Na nivou C2 neophodno je precizno označiti stepen sigurnosti."
       }
     ]
   },
@@ -1263,44 +1263,44 @@ export const SERBIAN_C2_LESSONS = [
     },
     "practice": [
       {
-        "prompt": "Which concept is central to this lesson?",
+        "prompt": "Koji pojam je ključan za ovu lekciju?",
         "options": [
           "očuvanje dostojanstva",
           "dobar odnos",
           "pomirenje"
         ],
         "answer": 0,
-        "explanation": "očuvanje dostojanstva is a key term in this topic."
+        "explanation": "očuvanje dostojanstva je ključni pojam ove teme."
       },
       {
-        "prompt": "Choose another relevant specialist term.",
+        "prompt": "Izaberite još jedan važan stručni izraz.",
         "options": [
           "ćorsokak",
           "smirivanje sukoba",
           "poverljivost"
         ],
         "answer": 1,
-        "explanation": "smirivanje sukoba is also central to this topic."
+        "explanation": "Izraz smirivanje sukoba takođe je važan za ovu temu."
       },
       {
-        "prompt": "What should guide a nuanced interpretation?",
+        "prompt": "Šta treba da usmerava nijansirano tumačenje?",
         "options": [
-          "Context, evidence and speaker intention",
-          "Dictionary meaning alone",
-          "An unsupported assumption"
+          "Kontekst, dokazi i namera govornika",
+          "Samo rečničko značenje",
+          "Nepotkrepljena pretpostavka"
         ],
         "answer": 0,
-        "explanation": "Interpretation should consider context and evidence."
+        "explanation": "Tumačenje treba da uzme u obzir kontekst i dokaze."
       },
       {
-        "prompt": "How should uncertainty be expressed?",
+        "prompt": "Kako treba izraziti neizvesnost?",
         "options": [
-          "Qualify the claim precisely",
-          "Present inference as proven fact",
-          "Ignore alternative readings"
+          "Precizno ograničiti tvrdnju",
+          "Predstaviti zaključak kao dokazanu činjenicu",
+          "Zanemariti alternativna tumačenja"
         ],
         "answer": 0,
-        "explanation": "C2 discourse requires precise qualification."
+        "explanation": "Na nivou C2 neophodno je precizno označiti stepen sigurnosti."
       }
     ]
   },
@@ -1426,44 +1426,44 @@ export const SERBIAN_C2_LESSONS = [
     },
     "practice": [
       {
-        "prompt": "Which concept is central to this lesson?",
+        "prompt": "Koji pojam je ključan za ovu lekciju?",
         "options": [
           "ekvivalentnost",
           "neprevodiv",
           "prilagođavanje kulturi"
         ],
         "answer": 0,
-        "explanation": "ekvivalentnost is a key term in this topic."
+        "explanation": "ekvivalentnost je ključni pojam ove teme."
       },
       {
-        "prompt": "Choose another relevant specialist term.",
+        "prompt": "Izaberite još jedan važan stručni izraz.",
         "options": [
           "očuvanje stranog elementa",
           "pragmatika",
           "idiomatski"
         ],
         "answer": 1,
-        "explanation": "pragmatika is also central to this topic."
+        "explanation": "Izraz pragmatika takođe je važan za ovu temu."
       },
       {
-        "prompt": "What should guide a nuanced interpretation?",
+        "prompt": "Šta treba da usmerava nijansirano tumačenje?",
         "options": [
-          "Context, evidence and speaker intention",
-          "Dictionary meaning alone",
-          "An unsupported assumption"
+          "Kontekst, dokazi i namera govornika",
+          "Samo rečničko značenje",
+          "Nepotkrepljena pretpostavka"
         ],
         "answer": 0,
-        "explanation": "Interpretation should consider context and evidence."
+        "explanation": "Tumačenje treba da uzme u obzir kontekst i dokaze."
       },
       {
-        "prompt": "How should uncertainty be expressed?",
+        "prompt": "Kako treba izraziti neizvesnost?",
         "options": [
-          "Qualify the claim precisely",
-          "Present inference as proven fact",
-          "Ignore alternative readings"
+          "Precizno ograničiti tvrdnju",
+          "Predstaviti zaključak kao dokazanu činjenicu",
+          "Zanemariti alternativna tumačenja"
         ],
         "answer": 0,
-        "explanation": "C2 discourse requires precise qualification."
+        "explanation": "Na nivou C2 neophodno je precizno označiti stepen sigurnosti."
       }
     ]
   },
@@ -1589,44 +1589,44 @@ export const SERBIAN_C2_LESSONS = [
     },
     "practice": [
       {
-        "prompt": "Which concept is central to this lesson?",
+        "prompt": "Koji pojam je ključan za ovu lekciju?",
         "options": [
           "sinteza",
           "koherentnost",
           "promena registra"
         ],
         "answer": 0,
-        "explanation": "sinteza is a key term in this topic."
+        "explanation": "sinteza je ključni pojam ove teme."
       },
       {
-        "prompt": "Choose another relevant specialist term.",
+        "prompt": "Izaberite još jedan važan stručni izraz.",
         "options": [
           "ograda",
           "kontrafaktualan",
           "metadiskurs"
         ],
         "answer": 1,
-        "explanation": "kontrafaktualan is also central to this topic."
+        "explanation": "Izraz kontrafaktualan takođe je važan za ovu temu."
       },
       {
-        "prompt": "What should guide a nuanced interpretation?",
+        "prompt": "Šta treba da usmerava nijansirano tumačenje?",
         "options": [
-          "Context, evidence and speaker intention",
-          "Dictionary meaning alone",
-          "An unsupported assumption"
+          "Kontekst, dokazi i namera govornika",
+          "Samo rečničko značenje",
+          "Nepotkrepljena pretpostavka"
         ],
         "answer": 0,
-        "explanation": "Interpretation should consider context and evidence."
+        "explanation": "Tumačenje treba da uzme u obzir kontekst i dokaze."
       },
       {
-        "prompt": "How should uncertainty be expressed?",
+        "prompt": "Kako treba izraziti neizvesnost?",
         "options": [
-          "Qualify the claim precisely",
-          "Present inference as proven fact",
-          "Ignore alternative readings"
+          "Precizno ograničiti tvrdnju",
+          "Predstaviti zaključak kao dokazanu činjenicu",
+          "Zanemariti alternativna tumačenja"
         ],
         "answer": 0,
-        "explanation": "C2 discourse requires precise qualification."
+        "explanation": "Na nivou C2 neophodno je precizno označiti stepen sigurnosti."
       }
     ]
   }
