@@ -147,3 +147,15 @@ export const C1_ASSESSMENT_STATUS = {
   speakingAssessment: "guided self-practice; not automatically graded",
   remainingValidation: ["fluent-speaker review of Serbian and English items", "review Sinhala translations and pronunciation guides", "CI, Expo build and Android device verification"]
 };
+
+
+// First paired C2 lesson batch (1–10) is integrated in the Learn screen.
+export const C2_BATCH_1_10_STATUS = {
+  completed: true,
+  lessons: { Serbian: 10, English: 10 },
+  pairedLessons: 10,
+  totalAuthoredC2Records: 20,
+  nextBatch: "C2 lessons 11–20",
+  remainingC2Lessons: 40,
+  remainingValidation: ["fluent-speaker review of advanced Serbian and English nuance", "review Sinhala-script pronunciation and translations", "add C2 revision and final practice assessment after lesson 50", "CI, Expo build and Android device verification"]
+};
