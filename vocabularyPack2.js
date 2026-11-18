@@ -698,9 +698,9 @@ export const ENGLISH_VOCAB_PACK_2 = [
   },
   {
     "word": "Open",
-    "meaning": "විවෘතයි",
+    "meaning": "විවෘතයි / විවෘත කරනවා",
     "sound": "ඕපන්",
-    "example": "The shop is open.",
-    "translation": "කඩය විවෘතයි."
+    "example": "The shop is open. Open the door.",
+    "translation": "කඩය විවෘතයි. දොර අරින්න."
   }
 ];
