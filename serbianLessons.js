@@ -431,11 +431,29 @@ export const SERBIAN_A1_LESSONS = [
       "meaning": "දහස",
       "example": "Broj hiljadu.",
       "translation": "අංකය: දහස."
+    },
+    {
+      "word": "Sto hiljada",
+      "meaning": "ලක්ෂය (100,000)",
+      "example": "Sto hiljada dinara.",
+      "translation": "ඩිනාර් ලක්ෂයක්."
+    },
+    {
+      "word": "Dvesta hiljada",
+      "meaning": "දෙලක්ෂය (200,000)",
+      "example": "Dvesta hiljada dinara.",
+      "translation": "ඩිනාර් දෙලක්ෂයක්."
+    },
+    {
+      "word": "Milion",
+      "meaning": "මිලියනය (1,000,000)",
+      "example": "Jedan milion dinara.",
+      "translation": "ඩිනාර් මිලියනයක්."
     }
   ],
-  "grammarTerms": [{ "sr": "dvadeset jedan", "si": "විසි එක", "reading": "ද්වාදෙසෙත් යෙදාන්" }, { "sr": "dvadeset dva", "si": "විසි දෙක", "reading": "ද්වාදෙසෙත් ද්වා" }, { "sr": "trideset pet", "si": "තිස් පහ", "reading": "ත්‍රිදෙසෙත් පෙත්" }, { "sr": "sto", "si": "සියය", "reading": "ස්තො" }, { "sr": "hiljadu", "si": "දහස", "reading": "හිල්‍යාදු" }, { "sr": "jedan / jedna / jedno", "si": "එක — නාම පදයේ ලිංගය අනුව වෙනස් වේ", "reading": "යෙදාන් / යෙද්නා / යෙද්නො" }, { "sr": "dva / dve", "si": "දෙක — නාම පදයේ ලිංගය අනුව වෙනස් වේ", "reading": "ද්වා / ද්වේ" }],
-  "grammarTitle": "අංක රටාව · 21, 22, 35 වැනි සංයුක්ත අංක",
-  "grammar": "Serbian භාෂාවේ 21 = dvadeset jedan (20 + 1), 22 = dvadeset dva (20 + 2), 35 = trideset pet (30 + 5). මුලින් දහයේ අංකය කියලා පසුව එකක අංකය කියනවා. 100 = sto, 1,000 = hiljadu. පුද්ගලයෙකු හෝ වස්තුවක් සමඟ භාවිත කරන විට jedan/jedna/jedno සහ dva/dve වැනි ස්ත්‍රී/පුං/නපුංසක ලිංග අනුව වෙනස්කම් තියෙනවා; මුලින් ගණන් කිරීමේ මූලික රටාව ඉගෙනගමු.",
+  "grammarTerms": [{ "sr": "dvadeset jedan", "si": "විසි එක", "reading": "ද්වාදෙසෙත් යෙදාන්" }, { "sr": "dvadeset dva", "si": "විසි දෙක", "reading": "ද්වාදෙසෙත් ද්වා" }, { "sr": "trideset pet", "si": "තිස් පහ", "reading": "ත්‍රිදෙසෙත් පෙත්" }, { "sr": "sto", "si": "සියය", "reading": "ස්තො" }, { "sr": "hiljadu", "si": "දහස", "reading": "හිල්‍යාදු" }, { "sr": "sto hiljada", "si": "ලක්ෂය (100,000)", "reading": "ස්තො හිල්‍යාදා" }, { "sr": "dvesta hiljada", "si": "දෙලක්ෂය (200,000)", "reading": "ද්වෙස්තා හිල්‍යාදා" }, { "sr": "milion", "si": "මිලියනය (1,000,000)", "reading": "මිලියොන්" }, { "sr": "jedan milion", "si": "මිලියනයක්", "reading": "යෙදාන් මිලියොන්" }, { "sr": "jedan / jedna / jedno", "si": "එක — නාම පදයේ ලිංගය අනුව වෙනස් වේ", "reading": "යෙදාන් / යෙද්නා / යෙද්නො" }, { "sr": "dva / dve", "si": "දෙක — නාම පදයේ ලිංගය අනුව වෙනස් වේ", "reading": "ද්වා / ද්වේ" }],
+  "grammarTitle": "අංක රටාව · 21 සිට මිලියනය දක්වා",
+  "grammar": "Serbian භාෂාවේ 21 = dvadeset jedan (20 + 1), 22 = dvadeset dva (20 + 2), 35 = trideset pet (30 + 5). 100 = sto, 1,000 = hiljadu. 100,000 කියන්නේ sto hiljada (සියයක් × දහස), 200,000 කියන්නේ dvesta hiljada (දෙසියයක් × දහස), 1,000,000 කියන්නේ milion හෝ jedan milion. 'Hiljada' යනු දහස සඳහා භාවිත වන ස්ත්‍රී ලිංග නාම පදයයි; එයට පෙර sto/dvesta වැනි අංක යෙදේ. මිලියනය සඳහා 'milion' කියන වචනය භාවිත වෙනවා.",
   "examples": [
     {
       "sr": "Jedan, dva, tri, četiri, pet.",
@@ -456,6 +474,18 @@ export const SERBIAN_A1_LESSONS = [
     {
       "sr": "Hiljadu dinara.",
       "si": "ඩිනාර් දහසයි."
+    },
+    {
+      "sr": "Sto hiljada dinara.",
+      "si": "ඩිනාර් ලක්ෂයක්."
+    },
+    {
+      "sr": "Dvesta hiljada dinara.",
+      "si": "ඩිනාර් දෙලක්ෂයක්."
+    },
+    {
+      "sr": "Jedan milion dinara.",
+      "si": "ඩිනාර් මිලියනයක්."
     }
   ],
   "dialogue": [
