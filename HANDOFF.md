@@ -267,3 +267,13 @@
 
 
 - 2026-11-18 Android APK pipeline follow-up: Fixed the initial APK workflow failure caused by `android-actions/setup-android@v3` trying to install the obsolete SDK package named `tools`. The runner already has an Android SDK, so the workflow now verifies the preinstalled SDK instead. Added path filters and concurrency cancellation to avoid duplicate native builds. On commit `cdff9ffd56548a575d677a7043fb15530bd8e359`, Expo validation run `44317457758` passed, and APK workflow run `44317457889` passed dependency-lock generation, npm ci, Expo compatibility, Android JS bundle export and native project generation; Gradle `assembleDebug` is currently running. No APK artifact is confirmed until that workflow completes and the artifact list contains the APK. The previous SDK-setup failures were runs `44317350417`, `44317357946` and `44317368459`. The current 50% estimate is a planning estimate, not proof of 80% completion.
+
+## Online voice implementation — 2026-11-18
+
+- Product direction confirmed: **online-first**, not offline-first. Do not describe the app as fully offline.
+- Added a Google Cloud Text-to-Speech integration path for all existing Serbian and English audio buttons. The app posts the selected phrase and language to a configurable Cloudflare Worker endpoint, writes returned MP3 base64 to the app cache, and plays it with Expo AV.
+- Added a server-side Worker at `cloudflare/voice-worker.js`. It accepts only `sr-RS` and `en-US`, validates non-empty text up to 5,000 characters, calls Google Cloud Text-to-Speech, and keeps the Google API key in the Worker secret `GOOGLE_TTS_API_KEY`.
+- Added `expo-av` and `expo-file-system` dependencies. If `EXPO_PUBLIC_VOICE_API_URL` is not configured or the online service fails, the existing device speech is used as a graceful fallback.
+- **Not yet live:** Cloudflare Worker deployment, Google API enablement/key, GitHub Actions variable `EXPO_PUBLIC_VOICE_API_URL`, Google billing/quota setup, and real-device audio testing require account-side configuration. Do not claim Google voices are active until these are completed.
+- Current Android APK workflow run 44317457889 was still building Gradle when checked; the next source push may cancel it because the workflow uses cancel-in-progress concurrency. Verify the newest run after these commits.
+- Next: deploy Worker, add secret and GitHub Actions variable, then rebuild and test Serbian/English audio playback on Android.
