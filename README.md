@@ -249,3 +249,14 @@ The Cloudflare Worker uses the included `cloudflare/wrangler.toml` rate-limit bi
 - Updated both revision section headings to avoid the old lesson 1–20 label. This is cumulative mixed practice, not yet a scored final A1 examination.
 - Serbian revision commit: `eb71471bdc5fe3be7d55a986c5dedb52a372843e`; app integration commit: `3dcd679b939bd181c707290fe49673e91c99805a`.
 - CI runs for these latest commits are queued/pending at the time of this note. No APK or device test is confirmed.
+
+
+## A1 completion batch — lessons 43–50 and final assessments
+- Added paired Serbian and English lessons 43–47: dates/months/calendar, numbers/time/money, transport/tickets, doctor/health-service phrases, and everyday questions/answers.
+- Added paired lessons 48–50: A1 grammar review, integrated everyday conversations, and final listening/speaking self-practice.
+- Every new lesson includes eight vocabulary items with Sinhala-script pronunciation and Sinhala meaning, phrase/grammar guidance, examples, a short dialogue, a listening prompt and four practice questions.
+- Added separate 20-question Serbian and English A1 cumulative listening/comprehension exams. The Learn screen grades the multiple-choice section, saves answers with local progress, and displays a 70% pass threshold. Speaking prompts are self-practice only; the app does not automatically grade speech.
+- Lesson data commits: Serbian 43–47 `d09d132e3c66868be98a3554bf74dfb601f12ecb`; English 43–47 `a337d0f755c6ad95899ec5bf9a81ed059fe4ead2`; Serbian 48–50 `5b27763c73191d6ea8fbc687b8f3e3f2675dbfcf`; English 48–50 `68ce6dcaa7a8d2f799304c77d274cc4984925bb5`.
+- Final exam data commit: `433cf2c913647ce786fe5e36ba15786d30e004eb`; Learn-screen integration commit: `dfcd55435754fae8d3ccc39faed40285c4fab82f`.
+- This completes the planned 50-lesson A1 lesson sequence and adds scored listening/comprehension assessments. It does not yet represent a fully CEFR-certified exam: reading/writing assessment and automatic speaking evaluation are not implemented, and Sinhala pronunciation requires fluent-speaker review.
+- Latest Expo validation and Android build runs must be checked before claiming the app builds successfully. No APK artifact or physical-device test is confirmed by this documentation update.
