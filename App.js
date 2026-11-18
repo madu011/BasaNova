@@ -554,7 +554,7 @@ export default function App(){
     })}
     <View style={s.quizCard}>
      <Text style={s.lessonHeading}>🎧 Serbian A1 · එක් එක් පාඩමේ සවන් දීම</Text>
-     <Text style={s.sub}>පාඩම් 1–18 සඳහා Serbian හඬ අහලා නිවැරදි සිංහල අර්ථය තෝරන්න. අවශ්‍ය නම් වාක්‍යය සහ පිළිතුරු නැවත අහන්න.</Text>
+     <Text style={s.sub}>පාඩම් 1–20 සඳහා Serbian හඬ අහලා නිවැරදි සිංහල අර්ථය තෝරන්න. අවශ්‍ය නම් වාක්‍යය සහ පිළිතුරු නැවත අහන්න.</Text>
      {SERBIAN_A1_LESSONS.map((lesson,li)=>{
       const q=SERBIAN_A1_LISTENING[li];if(!q)return null;
       const key=lesson.id+"-listen";const selected=lessonAnswers[key];const checked=lessonChecked[key];
@@ -574,7 +574,7 @@ export default function App(){
      })}
     </View>
     <View style={s.quizCard}>
-     <Text style={s.lessonHeading}>🏆 Serbian A1 · පාඩම් 1–18 මිශ්‍ර නැවත පුහුණුව</Text>
+     <Text style={s.lessonHeading}>🏆 Serbian A1 · පාඩම් 1–20 මිශ්‍ර නැවත පුහුණුව</Text>
      <Text style={s.sub}>සියලු පාඩම්වලින් තෝරාගත් වාක්‍ය අහන්න. සිංහල අකුරෙන් කියන විදිහ බලලා, නිවැරදි තේරුම තෝරන්න.</Text>
      {SERBIAN_A1_MIXED_REVISION.map((q,qi)=>{
       const key="serbian-a1-mixed-"+qi;const selected=lessonAnswers[key];const checked=lessonChecked[key];
@@ -640,7 +640,7 @@ export default function App(){
     })}
     <View style={s.quizCard}>
      <Text style={s.lessonHeading}>🏆 English A1 · මිශ්‍ර නැවත පුහුණුව</Text>
-     <Text style={s.sub}>පාඩම් 1–18 සඳහා තෝරාගත් වාක්‍යවල මිශ්‍ර පුහුණුව. ඉංග්‍රීසි වාක්‍යය අහලා නිවැරදි සිංහල තේරුම තෝරන්න.</Text>
+     <Text style={s.sub}>පාඩම් 1–20 සඳහා තෝරාගත් වාක්‍යවල මිශ්‍ර පුහුණුව. ඉංග්‍රීසි වාක්‍යය අහලා නිවැරදි සිංහල තේරුම තෝරන්න.</Text>
      {[
       {audio:"Good morning. My name is Anna.",reading:"ගුඩ් මෝර්නිං. මයි නේම් ඉස් ඇනා.",answer:0,options:["සුබ උදෑසනක්. මගේ නම ආනා.","සුබ රාත්‍රියක්. මම හොඳින්.","මට කෝපි එකක් ඕනේ."]},
       {audio:"I am fine, thank you.",reading:"අයි ඇම් ෆයින්, තෑන්ක් යූ.",answer:1,options:["මට උදව් කරන්න පුළුවන්ද?","මම හොඳින්, ස්තුතියි.","මගේ වැඩ මුරය අටට පටන් ගන්නවා."]},
