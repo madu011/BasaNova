@@ -727,4 +727,79 @@ export const ENGLISH_A1_LESSONS = [
 {id:"en-a1-u5-l2",unit:"Weather and clothes",title:"Lesson 21 · Weather and clothes",objective:"Describe the weather, talk about temperature and name clothes for different conditions.",vocabulary:[
 {word:"Weather",reading:"වෙදර්",meaning:"කාලගුණය",example:"What is the weather like today?",exampleReading:"වොට් ඉස් ද වෙදර් ලයික් ටුඩේ?",translation:"අද කාලගුණය කොහොමද?"},{word:"Sunny",reading:"සන්නි",meaning:"අව්ව සහිත",example:"It is sunny today.",exampleReading:"ඉට් ඉස් සන්නි ටුඩේ.",translation:"අද අව්වයි."},{word:"Rain",reading:"රේන්",meaning:"වැස්ස",example:"It is raining.",exampleReading:"ඉට් ඉස් රේනින්.",translation:"වැස්ස වැටෙනවා."},{word:"Cold",reading:"කෝල්ඩ්",meaning:"සීතල",example:"It is cold outside.",exampleReading:"ඉට් ඉස් කෝල්ඩ් අවුට්සයිඩ්.",translation:"එළියේ සීතලයි."},{word:"Warm",reading:"වෝර්ම්",meaning:"උණුසුම්",example:"It is warm today.",exampleReading:"ඉට් ඉස් වෝර්ම් ටුඩේ.",translation:"අද උණුසුම්."},{word:"Jacket",reading:"ජැකට්",meaning:"ජැකට්ටුව",example:"Wear your jacket.",exampleReading:"වෙයාර් යෝර් ජැකට්.",translation:"ඔයාගේ ජැකට්ටුව ඇඳගන්න."},{word:"Umbrella",reading:"අම්බ්‍රෙලා",meaning:"කුඩය",example:"Take an umbrella.",exampleReading:"ටේක් ඇන් අම්බ්‍රෙලා.",translation:"කුඩයක් රැගෙන යන්න."},{word:"Shoes",reading:"ෂූස්",meaning:"සපත්තු",example:"My shoes are new.",exampleReading:"මයි ෂූස් ආර් න්‍යූ.",translation:"මගේ සපත්තු අලුත්."}],grammarTitle:"Grammar · Asking about and describing weather",grammar:"Ask “What is the weather like?” Use “It is ...” to describe conditions. Use “It is raining” for rain happening now and “It will be ...” for a simple forecast.",grammarTerms:[{text:"What is the weather like today?",reading:"වොට් ඉස් ද වෙදර් ලයික් ටුඩේ?",meaning:"අද කාලගුණය කොහොමද?"},{text:"It is sunny.",reading:"ඉට් ඉස් සන්නි.",meaning:"අව්වයි."},{text:"It is raining.",reading:"ඉට් ඉස් රේනින්.",meaning:"වැස්ස වැටෙනවා."},{text:"It is cold outside.",reading:"ඉට් ඉස් කෝල්ඩ් අවුට්සයිඩ්.",meaning:"එළියේ සීතලයි."},{text:"I need a jacket.",reading:"අයි නීඩ් අ ජැකට්.",meaning:"මට ජැකට්ටුවක් අවශ්‍යයි."}],examples:[{text:"It is cold and windy today.",reading:"ඉට් ඉස් කෝල්ඩ් ඇන්ඩ් වින්ඩි ටුඩේ.",meaning:"අද සීතලයි සහ සුළං සහිතයි."},{text:"Take an umbrella. It is raining.",reading:"ටේක් ඇන් අම්බ්‍රෙලා. ඉට් ඉස් රේනින්.",meaning:"කුඩයක් රැගෙන යන්න. වැස්ස වැටෙනවා."},{text:"I am wearing a warm jacket.",reading:"අයි ඇම් වෙයරින් අ වෝර්ම් ජැකට්.",meaning:"මම උණුසුම් ජැකට්ටුවක් ඇඳගෙන ඉන්නවා."},{text:"It will be sunny tomorrow.",reading:"ඉට් විල් බී සන්නි ටුමාරෝ.",meaning:"හෙට අව්ව සහිත වේවි."}],dialogue:[{text:"What is the weather like today?",reading:"වොට් ඉස් ද වෙදර් ලයික් ටුඩේ?",meaning:"අද කාලගුණය කොහොමද?"},{text:"It is cold and raining.",reading:"ඉට් ඉස් කෝල්ඩ් ඇන්ඩ් රේනින්.",meaning:"සීතලයි, වැස්සත් වැටෙනවා."},{text:"Do I need a jacket?",reading:"ඩූ අයි නීඩ් අ ජැකට්?",meaning:"මට ජැකට්ටුවක් අවශ්‍යද?"},{text:"Yes, and take an umbrella.",reading:"යෙස්, ඇන්ඩ් ටේක් ඇන් අම්බ්‍රෙලා.",meaning:"ඔව්, කුඩයකුත් රැගෙන යන්න."},{text:"What will the weather be like tomorrow?",reading:"වොට් විල් ද වෙදර් බී ලයික් ටුමාරෝ?",meaning:"හෙට කාලගුණය කොහොම වේවිද?"},{text:"It will be sunny and warm.",reading:"ඉට් විල් බී සන්නි ඇන්ඩ් වෝර්ම්.",meaning:"අව්ව සහිතව උණුසුම් වේවි."}],listeningPractice:{prompt:"Listen and choose the correct meaning: “Take an umbrella.”",audio:"Take an umbrella.",options:["කුඩයක් රැගෙන යන්න.","ජැකට්ටුවක් මිලදී ගන්න.","සපත්තු ගලවන්න."],readings:["ටේක් ඇන් අම්බ්‍රෙලා.","බයි අ ජැකට්.","ටේක් ඕෆ් යෝර් ෂූස්."],answer:0,meaning:"Take an umbrella. = කුඩයක් රැගෙන යන්න."},practice:[{prompt:"Choose “Rain”.",options:["Sunny","Rain","Jacket"],readings:["සන්නි","රේන්","ජැකට්"],answer:1,explanation:"Rain = වැස්ස."},{prompt:"How do you say “අද අව්වයි”?",options:["It is sunny today.","It is raining today.","It is cold today."],readings:["ඉට් ඉස් සන්නි ටුඩේ.","ඉට් ඉස් රේනින් ටුඩේ.","ඉට් ඉස් කෝල්ඩ් ටුඩේ."],answer:0,explanation:"It is sunny today = අද අව්වයි."},{prompt:"Choose “Umbrella”.",options:["Shoes","Jacket","Umbrella"],readings:["ෂූස්","ජැකට්","අම්බ්‍රෙලා"],answer:2,explanation:"Umbrella = කුඩය."},{prompt:"Choose “It is cold outside”.",options:["It is cold outside.","It is warm today.","My shoes are new."],readings:["ඉට් ඉස් කෝල්ඩ් අවුට්සයිඩ්.","ඉට් ඉස් වෝර්ම් ටුඩේ.","මයි ෂූස් ආර් න්‍යූ."],answer:0,explanation:"It is cold outside = එළියේ සීතලයි."}]}
 
+,
+{id:"en-a1-u6-l1",unit:"Restaurant and ordering food",title:"Lesson 22 · Restaurant and ordering food",objective:"Ask for a menu, order food and drinks, request extras and ask for the bill.",
+vocabulary:[
+{word:"Menu",reading:"මෙනියූ",meaning:"මෙනුව",example:"Could I see the menu, please?",exampleReading:"කුඩ් අයි සී ද මෙනියූ ප්ලීස්?",translation:"මට මෙනුව බලන්න පුළුවන්ද?"},
+{word:"Waiter",reading:"වේටර්",meaning:"වේටර්",example:"The waiter brings some water.",exampleReading:"ද වේටර් බ්‍රිංස් සම් වෝටර්.",translation:"වේටර් වතුර ටිකක් ගෙනෙනවා."},
+{word:"Order",reading:"ඕඩර්",meaning:"ඇණවුම",example:"My order is ready.",exampleReading:"මයි ඕඩර් ඉස් රෙඩි.",translation:"මගේ ඇණවුම සූදානම්."},
+{word:"Main course",reading:"මේන් කෝර්ස්",meaning:"ප්‍රධාන ආහාරය",example:"The main course is delicious.",exampleReading:"ද මේන් කෝර්ස් ඉස් ඩිලිෂස්.",translation:"ප්‍රධාන ආහාරය රසවත්."},
+{word:"Drink",reading:"ඩ්‍රිංක්",meaning:"බීම",example:"I would like a cold drink.",exampleReading:"අයි වුඩ් ලයික් අ කෝල්ඩ් ඩ්‍රිංක්.",translation:"මට සිසිල් බීමක් ඕනේ."},
+{word:"Bill",reading:"බිල්",meaning:"බිල",example:"Could we have the bill, please?",exampleReading:"කුඩ් වී හැව් ද බිල් ප්ලීස්?",translation:"අපට බිල ලබාගන්න පුළුවන්ද?"},
+{word:"Side dish",reading:"සයිඩ් ඩිෂ්",meaning:"අමතර ආහාරය",example:"Fries are a side dish.",exampleReading:"ෆ්‍රයිස් ආර් අ සයිඩ් ඩිෂ්.",translation:"ෆ්‍රයිස් අමතර ආහාරයක්."},
+{word:"Takeaway",reading:"ටේකඅවේ",meaning:"ගෙන යාම සඳහා",example:"This order is for takeaway.",exampleReading:"දිස් ඕඩර් ඉස් ෆෝ ටේකඅවේ.",translation:"මේ ඇණවුම ගෙන යාම සඳහායි."}],
+grammarTitle:"Grammar · Polite requests and ordering",
+grammar:"Use “I would like ...” to order politely. Use “Could I have ...?” to request an item. “With” adds something and “without” removes it. Ask for the bill with “Could we have the bill, please?”",
+grammarTerms:[
+{text:"Could I see the menu, please?",reading:"කුඩ් අයි සී ද මෙනියූ ප්ලීස්?",meaning:"මට මෙනුව බලන්න පුළුවන්ද?"},
+{text:"I would like some water.",reading:"අයි වුඩ් ලයික් සම් වෝටර්.",meaning:"මට වතුර ටිකක් ඕනේ."},
+{text:"Could I have fries with that?",reading:"කුඩ් අයි හැව් ෆ්‍රයිස් විත් දැට්?",meaning:"ඒ සමඟ ෆ්‍රයිස් ලබාගන්න පුළුවන්ද?"},
+{text:"Without onions, please.",reading:"විදවුට් අනියන්ස් ප්ලීස්.",meaning:"ළූණු නැතිව, කරුණාකරලා."},
+{text:"Could we have the bill, please?",reading:"කුඩ් වී හැව් ද බිල් ප්ලීස්?",meaning:"අපට බිල ලබාගන්න පුළුවන්ද?"}],
+examples:[
+{text:"Good afternoon. Could I see the menu?",reading:"ගුඩ් ආෆ්ටර්නූන්. කුඩ් අයි සී ද මෙනියූ?",meaning:"සුබ දහවල්. මට මෙනුව බලන්න පුළුවන්ද?"},
+{text:"I would like a chicken wrap and water.",reading:"අයි වුඩ් ලයික් අ චිකන් රැප් ඇන්ඩ් වෝටර්.",meaning:"මට කුකුළු මස් රැප් එකක් සහ වතුර ඕනේ."},
+{text:"Could I have the sauce on the side?",reading:"කුඩ් අයි හැව් ද සෝස් ඔන් ද සයිඩ්?",meaning:"සෝස් එක වෙනම ලබාගන්න පුළුවන්ද?"},
+{text:"This is takeaway, please.",reading:"දිස් ඉස් ටේකඅවේ ප්ලීස්.",meaning:"මේක ගෙන යාම සඳහායි."}],
+dialogue:[
+{text:"Good afternoon. Could I see the menu, please?",reading:"ගුඩ් ආෆ්ටර්නූන්. කුඩ් අයි සී ද මෙනියූ ප්ලීස්?",meaning:"සුබ දහවල්. මට මෙනුව බලන්න පුළුවන්ද?"},
+{text:"Of course. Here you are.",reading:"ඔෆ් කෝර්ස්. හියර් යූ ආර්.",meaning:"අනිවාර්යයෙන්. මෙන්න."},
+{text:"I would like a chicken wrap and water.",reading:"අයි වුඩ් ලයික් අ චිකන් රැප් ඇන්ඩ් වෝටර්.",meaning:"මට කුකුළු මස් රැප් එකක් සහ වතුර ඕනේ."},
+{text:"Would you like fries with that?",reading:"වුඩ් යූ ලයික් ෆ්‍රයිස් විත් දැට්?",meaning:"ඒ සමඟ ෆ්‍රයිස් ඕනේද?"},
+{text:"Yes, and the sauce on the side, please.",reading:"යෙස් ඇන්ඩ් ද සෝස් ඔන් ද සයිඩ් ප්ලීස්.",meaning:"ඔව්, සෝස් එක වෙනමත් දෙන්න."},
+{text:"Certainly. I will bring your order soon.",reading:"සර්ටන්ලි. අයි විල් බ්‍රිං යෝර් ඕඩර් සූන්.",meaning:"හරි. මම ඔබේ ඇණවුම ඉක්මනින් ගෙනෙන්නම්."}],
+listeningPractice:{prompt:"Listen and choose the correct meaning: “Could we have the bill, please?”",audio:"Could we have the bill, please?",options:["අපට බිල ලබාගන්න පුළුවන්ද?","මට මෙනුව බලන්න පුළුවන්ද?","වතුර ටිකක් ඕනේ."],readings:["කුඩ් වී හැව් ද බිල් ප්ලීස්?","කුඩ් අයි සී ද මෙනියූ?","අයි වුඩ් ලයික් සම් වෝටර්."],answer:0,meaning:"Could we have the bill, please? = අපට බිල ලබාගන්න පුළුවන්ද?"},
+practice:[
+{prompt:"Choose “Menu”.",options:["Bill","Menu","Drink"],readings:["බිල්","මෙනියූ","ඩ්‍රිංක්"],answer:1,explanation:"Menu = මෙනුව."},
+{prompt:"How do you politely order water?",options:["I would like some water.","Where is the station?","It is raining."],readings:["අයි වුඩ් ලයික් සම් වෝටර්.","වෙයාර් ඉස් ද ස්ටේෂන්?","ඉට් ඉස් රේනින්."],answer:0,explanation:"I would like some water = මට වතුර ටිකක් ඕනේ."},
+{prompt:"Choose “Takeaway”.",options:["Main course","Side dish","Takeaway"],readings:["මේන් කෝර්ස්","සයිඩ් ඩිෂ්","ටේකඅවේ"],answer:2,explanation:"Takeaway = ගෙන යාම සඳහා."},
+{prompt:"How do you ask for the bill?",options:["Could we have the bill, please?","Could I see the menu?","I need a jacket."],readings:["කුඩ් වී හැව් ද බිල් ප්ලීස්?","කුඩ් අයි සී ද මෙනියූ?","අයි නීඩ් අ ජැකට්."],answer:0,explanation:"Could we have the bill, please? = අපට බිල ලබාගන්න පුළුවන්ද?"}]}
+,
+{id:"en-a1-u6-l2",unit:"Customer service and simple problems",title:"Lesson 23 · Customer service and simple problems",objective:"Ask a staff member for help, explain a simple order problem and make a polite request.",
+vocabulary:[
+{word:"Help",reading:"හෙල්ප්",meaning:"උදව්ව",example:"I need some help, please.",exampleReading:"අයි නීඩ් සම් හෙල්ප් ප්ලීස්.",translation:"මට උදව්වක් අවශ්‍යයි."},
+{word:"Incorrect",reading:"ඉන්කරෙක්ට්",meaning:"වැරදි",example:"This is the incorrect order.",exampleReading:"දිස් ඉස් දි ඉන්කරෙක්ට් ඕඩර්.",translation:"මේක වැරදි ඇණවුමයි."},
+{word:"Missing",reading:"මිසිං",meaning:"අඩු / නැති",example:"One drink is missing.",exampleReading:"වන් ඩ්‍රිංක් ඉස් මිසිං.",translation:"බීම එකක් අඩුයි."},
+{word:"Wait",reading:"වේට්",meaning:"බලා සිටීම",example:"How long must I wait?",exampleReading:"හව් ලෝං මස්ට් අයි වේට්?",translation:"මට කොපමණ වේලාවක් බලා සිටින්න ඕනේද?"},
+{word:"Replace",reading:"රිප්ලේස්",meaning:"වෙනුවට අලුත් එකක් දීම",example:"Could you replace this, please?",exampleReading:"කුඩ් යූ රිප්ලේස් දිස් ප්ලීස්?",translation:"කරුණාකර මේක වෙනුවට වෙන එකක් දෙන්න පුළුවන්ද?"},
+{word:"Cold",reading:"කෝල්ඩ්",meaning:"සීතල",example:"The food is cold.",exampleReading:"ද ෆූඩ් ඉස් කෝල්ඩ්.",translation:"කෑම සීතලයි."},
+{word:"Warm",reading:"වෝර්ම්",meaning:"උණුසුම්",example:"Could you warm this up?",exampleReading:"කුඩ් යූ වෝර්ම් දිස් අප්?",translation:"මේක උණුසුම් කරන්න පුළුවන්ද?"},
+{word:"Apology",reading:"අපොලජි",meaning:"සමාව ඉල්ලීම",example:"Thank you for your apology.",exampleReading:"තෑන්ක් යූ ෆෝ යෝර් අපොලජි.",translation:"ඔබ සමාව ඉල්ලීම ගැන ස්තුතියි."}],
+grammarTitle:"Grammar · Explaining a problem and asking for help",
+grammar:"Use “This is not ...” to correct an order and “One ... is missing” to explain what is absent. Use “Could you ...?” for a polite request. Finish with “Thank you for your help.”",
+grammarTerms:[
+{text:"This is not my order.",reading:"දිස් ඉස් නොට් මයි ඕඩර්.",meaning:"මේක මගේ ඇණවුම නෙවෙයි."},
+{text:"One drink is missing.",reading:"වන් ඩ්‍රිංක් ඉස් මිසිං.",meaning:"බීම එකක් අඩුයි."},
+{text:"Could you check, please?",reading:"කුඩ් යූ චෙක් ප්ලීස්?",meaning:"කරුණාකර පරීක්ෂා කරන්න පුළුවන්ද?"},
+{text:"Could you replace this?",reading:"කුඩ් යූ රිප්ලේස් දිස්?",meaning:"ඔබට මේක වෙනුවට වෙන එකක් දෙන්න පුළුවන්ද?"},
+{text:"Thank you for your help.",reading:"තෑන්ක් යූ ෆෝ යෝර් හෙල්ප්.",meaning:"ඔබේ උදව්වට ස්තුතියි."}],
+examples:[
+{text:"Excuse me, I ordered water, not juice.",reading:"එක්ස්කියුස් මී, අයි ඕඩර්ඩ් වෝටර් නොට් ජූස්.",meaning:"සමාවෙන්න, මම ඇණවුම් කළේ වතුර, ජූස් නෙවෙයි."},
+{text:"One sandwich is missing from my order.",reading:"වන් සැන්ඩ්විච් ඉස් මිසිං ෆ්‍රම් මයි ඕඩර්.",meaning:"මගේ ඇණවුමේ සැන්ඩ්විච් එකක් අඩුයි."},
+{text:"Could you check the bill, please?",reading:"කුඩ් යූ චෙක් ද බිල් ප්ලීස්?",meaning:"කරුණාකර බිල පරීක්ෂා කරන්න පුළුවන්ද?"},
+{text:"The food is cold. Could you warm it up?",reading:"ද ෆූඩ් ඉස් කෝල්ඩ්. කුඩ් යූ වෝර්ම් ඉට් අප්?",meaning:"කෑම සීතලයි. ඒක උණුසුම් කරන්න පුළුවන්ද?"}],
+dialogue:[
+{text:"Excuse me, could I ask you something?",reading:"එක්ස්කියුස් මී, කුඩ් අයි ආස්ක් යූ සමතිං?",meaning:"සමාවෙන්න, මට දෙයක් අහන්න පුළුවන්ද?"},
+{text:"Of course. How can I help?",reading:"ඔෆ් කෝර්ස්. හව් කැන් අයි හෙල්ප්?",meaning:"අනිවාර්යයෙන්. මට උදව් කරන්න පුළුවන් කොහොමද?"},
+{text:"One drink is missing from my order.",reading:"වන් ඩ්‍රිංක් ඉස් මිසිං ෆ්‍රම් මයි ඕඩර්.",meaning:"මගේ ඇණවුමේ බීම එකක් අඩුයි."},
+{text:"I am sorry about that. I will check now.",reading:"අයි ඇම් සොරි අබවුට් දැට්. අයි විල් චෙක් නව්.",meaning:"ඒ ගැන සමාවෙන්න. මම දැන් පරීක්ෂා කරන්නම්."},
+{text:"Thank you. Could you also check the bill?",reading:"තෑන්ක් යූ. කුඩ් යූ ඕල්සෝ චෙක් ද බිල්?",meaning:"ස්තුතියි. බිලත් පරීක්ෂා කරන්න පුළුවන්ද?"},
+{text:"Certainly. Thank you for your patience.",reading:"සර්ටන්ලි. තෑන්ක් යූ ෆෝ යෝර් පේෂන්ස්.",meaning:"අනිවාර්යයෙන්. ඉවසීම ගැන ස්තුතියි."}],
+listeningPractice:{prompt:"Listen and choose the correct meaning: “One drink is missing.”",audio:"One drink is missing.",options:["බීම එකක් අඩුයි.","මෙනුව සූදානම්.","බිල ගෙවා අවසන්."],readings:["වන් ඩ්‍රිංක් ඉස් මිසිං.","ද මෙනියූ ඉස් රෙඩි.","ද බිල් ඉස් පේඩ්."],answer:0,meaning:"One drink is missing. = බීම එකක් අඩුයි."},
+practice:[
+{prompt:"Choose “Help”.",options:["Wait","Help","Cold"],readings:["වේට්","හෙල්ප්","කෝල්ඩ්"],answer:1,explanation:"Help = උදව්ව."},
+{prompt:"How do you say “බීම එකක් අඩුයි”?",options:["One drink is missing.","The food is warm.","Here is the menu."],readings:["වන් ඩ්‍රිංක් ඉස් මිසිං.","ද ෆූඩ් ඉස් වෝර්ම්.","හියර් ඉස් ද මෙනියූ."],answer:0,explanation:"One drink is missing = බීම එකක් අඩුයි."},
+{prompt:"Choose a polite request to replace an item.",options:["Could you replace this?","It is sunny.","Good night."],readings:["කුඩ් යූ රිප්ලේස් දිස්?","ඉට් ඉස් සන්නි.","ගුඩ් නයිට්."],answer:0,explanation:"Could you replace this? = මේක වෙනුවට වෙන එකක් දෙන්න පුළුවන්ද?"},
+{prompt:"How do you thank someone for help?",options:["Thank you for your help.","Where is the station?","I am cold."],readings:["තෑන්ක් යූ ෆෝ යෝර් හෙල්ප්.","වෙයාර් ඉස් ද ස්ටේෂන්?","අයි ඇම් කෝල්ඩ්."],answer:0,explanation:"Thank you for your help = ඔබේ උදව්වට ස්තුතියි."}]}
+
 ];
