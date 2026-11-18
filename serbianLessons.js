@@ -1035,4 +1035,53 @@ export const SERBIAN_A1_LESSONS = [
     ]
   }
 
+ ,
+ {
+  id:"sr-a1-u6-l3",
+  unit:"වෙළඳපොළ සහ ප්‍රමාණ",
+  title:"පාඩම 13 · වෙළඳපොළේ පලතුරු සහ එළවළු මිලදී ගැනීම",
+  objective:"වෙළඳපොළක පලතුරු හා එළවළු ඉල්ලීම, කිලෝ ප්‍රමාණ පැවසීම, මිල විමසීම සහ මිලදී ගැනීම අවසන් කිරීම.",
+  vocabulary:[
+   {word:"Kilogram",reading:"කිලොග්‍රාම්",meaning:"කිලෝග්‍රෑමය",example:"Jedan kilogram jabuka, molim.",exampleReading:"යෙදාන් කිලොග්‍රාම් යාබුකා, මොලීම්.",translation:"ඇපල් කිලෝ එකක්, කරුණාකර."},
+   {word:"Pola kilograma",reading:"පොලා කිලොග්‍රාමා",meaning:"කිලෝ භාගයක්",example:"Pola kilograma paradajza, molim.",exampleReading:"පොලා කිලොග්‍රාමා පරදායිසා, මොලීම්.",translation:"තක්කාලි කිලෝ භාගයක්, කරුණාකර."},
+   {word:"Jabuke",reading:"යාබුකෙ",meaning:"ඇපල්",example:"Da li su jabuke sveže?",exampleReading:"දා ලි සු යාබුකෙ ස්වේෂෙ?",translation:"ඇපල් නැවුම්ද?"},
+   {word:"Paradajz",reading:"පරදායිස්",meaning:"තක්කාලි",example:"Treba mi kilogram paradajza.",exampleReading:"ත්‍රෙබා මි කිලොග්‍රාම් පරදායිසා.",translation:"මට තක්කාලි කිලෝ එකක් අවශ්‍යයි."},
+   {word:"Krompir",reading:"ක්‍රොම්පීර්",meaning:"අර්තාපල්",example:"Dva kilograma krompira, molim.",exampleReading:"ද්වා කිලොග්‍රාමා ක්‍රොම්පීරා, මොලීම්.",translation:"අර්තාපල් කිලෝ දෙකක්, කරුණාකර."},
+   {word:"Luk",reading:"ලුක්",meaning:"ලූනු",example:"Imate li crni luk?",exampleReading:"ඉමාතෙ ලි ත්ස්ර්නි ලුක්?",translation:"ඔබට රතු ලූනු තිබෙනවාද?"},
+   {word:"Kupus",reading:"කුපුස්",meaning:"ගෝවා",example:"Jedan kupus, molim.",exampleReading:"යෙදාන් කුපුස්, මොලීම්.",translation:"ගෝවා ගෙඩියක්, කරුණාකර."},
+   {word:"Sveže",reading:"ස්වේෂෙ",meaning:"නැවුම්",example:"Želim sveže povrće.",exampleReading:"ෂෙලිම් ස්වේෂෙ පොව්ර්චෙ.",translation:"මට නැවුම් එළවළු අවශ්‍යයි."},
+   {word:"Koliko košta kilogram?",reading:"කොලිකො කොෂ්තා කිලොග්‍රාම්?",meaning:"කිලෝ එකක් කීයද?",example:"Koliko košta kilogram jabuka?",exampleReading:"කොලිකො කොෂ්තා කිලොග්‍රාම් යාබුකා?",translation:"ඇපල් කිලෝ එකක් කීයද?"},
+   {word:"To je sve",reading:"තො යේ ස්වේ",meaning:"එච්චරයි / එපමණයි",example:"To je sve, hvala.",exampleReading:"තො යේ ස්වේ, හ්වාලා.",translation:"එච්චරයි, ස්තුතියි."}
+  ],
+  grammarTerms:[
+   {sr:"Jedan kilogram jabuka.",si:"ඇපල් කිලෝ එකක්.",reading:"යෙදාන් කිලොග්‍රාම් යාබුකා."},
+   {sr:"Pola kilograma paradajza.",si:"තක්කාලි කිලෝ භාගයක්.",reading:"පොලා කිලොග්‍රාමා පරදායිසා."},
+   {sr:"Dva kilograma krompira.",si:"අර්තාපල් කිලෝ දෙකක්.",reading:"ද්වා කිලොග්‍රාමා ක්‍රොම්පීරා."},
+   {sr:"Koliko košta kilogram ...?",si:"... කිලෝ එකක් කීයද?",reading:"කොලිකො කොෂ්තා කිලොග්‍රාම් ...?"},
+   {sr:"To je sve, hvala.",si:"එච්චරයි, ස්තුතියි.",reading:"තො යේ ස්වේ, හ්වාලා."}
+  ],
+  grammarTitle:"ව්‍යාකරණය · කිලෝ ප්‍රමාණ සහ මිල විමසීම",
+  grammar:"ප්‍රමාණයක් ඉල්ලීමට “jedan kilogram ...” (කිලෝ එකක්), “pola kilograma ...” (කිලෝ භාගයක්), “dva kilograma ...” (කිලෝ දෙකක්) කියන්න. “Koliko košta kilogram ...?” යනු කිලෝ එකක මිල අසන රටාවයි. Serbian භාෂාවේ kilogram පසු එන භාණ්ඩයේ නාම පදය බොහෝවිට genitive රූපයට යන නිසා “jabuka”, “paradajza”, “krompira” වැනි රූප මතක තබාගන්න.",
+  examples:[
+   {sr:"Dobar dan. Jedan kilogram jabuka, molim.",reading:"දොබාර් දාන්. යෙදාන් කිලොග්‍රාම් යාබුකා, මොලීම්.",si:"සුබ දවසක්. ඇපල් කිලෝ එකක්, කරුණාකර."},
+   {sr:"Pola kilograma paradajza i dva kilograma krompira.",reading:"පොලා කිලොග්‍රාමා පරදායිසා ඉ ද්වා කිලොග්‍රාමා ක්‍රොම්පීරා.",si:"තක්කාලි කිලෝ භාගයක් සහ අර්තාපල් කිලෝ දෙකක්."},
+   {sr:"Koliko košta kilogram jabuka?",reading:"කොලිකො කොෂ්තා කිලොග්‍රාම් යාබුකා?",si:"ඇපල් කිලෝ එකක් කීයද?"},
+   {sr:"To je sve, hvala. Koliko ukupno?",reading:"තො යේ ස්වේ, හ්වාලා. කොලිකො උකුප්නො?",si:"එච්චරයි, ස්තුතියි. මුළු ගාණ කීයද?"}
+  ],
+  dialogue:[
+   {sr:"Dobar dan! Šta želite?",reading:"දොබාර් දාන්! ෂ්තා ෂෙලිතෙ?",si:"සුබ දවසක්! ඔබට මොනවාද අවශ්‍ය?"},
+   {sr:"Jedan kilogram jabuka i pola kilograma paradajza, molim.",reading:"යෙදාන් කිලොග්‍රාම් යාබුකා ඉ පොලා කිලොග්‍රාමා පරදායිසා, මොලීම්.",si:"ඇපල් කිලෝ එකක් සහ තක්කාලි කිලෝ භාගයක්, කරුණාකර."},
+   {sr:"Da li želite još nešto?",reading:"දා ලි ෂෙලිතෙ යෝෂ් නෙෂ්තො?",si:"ඔබට තව මොනවාහරි අවශ්‍යද?"},
+   {sr:"Da, dva kilograma krompira.",reading:"දා, ද්වා කිලොග්‍රාමා ක්‍රොම්පීරා.",si:"ඔව්, අර්තාපල් කිලෝ දෙකක්."},
+   {sr:"To je sve. Ukupno je petsto dinara.",reading:"තො යේ ස්වේ. උකුප්නො යේ පෙත්ස්තො දිනාරා.",si:"එච්චරයි. මුළු ගාණ ඩිනාර් පන්සියයයි."},
+   {sr:"Izvolite. Hvala, doviđenja!",reading:"ඉස්වොලිතෙ. හ්වාලා, දොවිජෙන්‍යා!",si:"මෙන්න. ස්තුතියි, නැවත හමුවෙමු!"}
+  ],
+  practice:[
+   {prompt:"“ඇපල් කිලෝ එකක්” කියන්නේ කොහොමද?",options:["Jedan kilogram jabuka.","Pola kilograma paradajza.","Dva kilograma krompira."],answer:0,explanation:"Jedan kilogram jabuka = ඇපල් කිලෝ එකක්."},
+   {prompt:"“කිලෝ භාගයක්” තෝරන්න.",options:["Dva kilograma","Pola kilograma","Jedan kilogram"],answer:1,explanation:"Pola kilograma යනු කිලෝ භාගයක්."},
+   {prompt:"කිලෝ එකක මිල අසන ප්‍රශ්නය?",options:["Koliko košta kilogram jabuka?","Gde je stanica?","Koliko je sati?"],answer:0,explanation:"Koliko košta kilogram ...? යනු කිලෝ එකක මිල අසන රටාවයි."},
+   {prompt:"“එච්චරයි, ස්තුතියි” කියන්නේ?",options:["Još nešto?","To je sve, hvala.","Ne razumem."],answer:1,explanation:"To je sve = එච්චරයි; hvala = ස්තුතියි."}
+  ]
+ }
+
 ];
