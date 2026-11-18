@@ -1516,5 +1516,43 @@ practice:[
 {prompt:"“ලිපිනය” යන වචනය?",options:["Adresa","Paket","Pošta"],answer:0,explanation:"Adresa = ලිපිනය."}]
 }
 
+,
+{
+id:"sr-a1-u10-l5",unit:"වෛද්‍යවරයා සහ සෞඛ්‍යය",title:"පාඩම 26 · වෛද්‍යවරයා සහ සෞඛ්‍යය",objective:"වෛද්‍යවරයකු හමුවීමට වේලාවක් ඉල්ලීම, සාමාන්‍ය රෝග ලක්ෂණ පැවසීම සහ සරල උපදෙස් තේරුම් ගැනීම.",
+vocabulary:[
+{word:"Lekar",reading:"ලෙකාර්",meaning:"වෛද්‍යවරයා",example:"Moram da idem kod lekara.",exampleReading:"මොරම් දා ඉදෙම් කොද් ලෙකාරා.",translation:"මට වෛද්‍යවරයා ළඟට යන්න ඕනේ."},
+{word:"Pregled",reading:"ප්‍රෙග්ලෙද්",meaning:"වෛද්‍ය පරීක්ෂාව",example:"Imam pregled danas.",exampleReading:"ඉමාම් ප්‍රෙග්ලෙද් දානස්.",translation:"මට අද පරීක්ෂාවක් තියෙනවා."},
+{word:"Termin",reading:"තෙර්මින්",meaning:"වෙන්කරගත් වේලාව / හමුවීමේ වේලාව",example:"Želim da zakažem termin.",exampleReading:"ෂෙලිම් දා සාකාෂෙම් තෙර්මින්.",translation:"මට හමුවීමේ වේලාවක් වෙන්කරගන්න ඕනේ."},
+{word:"Bol",reading:"බොල්",meaning:"වේදනාව",example:"Imam bol u grlu.",exampleReading:"ඉමාම් බොල් උ ග්‍ර්ලු.",translation:"මගේ උගුරේ වේදනාවක් තියෙනවා."},
+{word:"Glava",reading:"ග්ලාවා",meaning:"හිස",example:"Boli me glava.",exampleReading:"බොලි මෙ ග්ලාවා.",translation:"මගේ හිස රිදෙනවා."},
+{word:"Temperatura",reading:"තෙම්පෙරතූරා",meaning:"උණ / ශරීර උෂ්ණත්වය",example:"Imam temperaturu.",exampleReading:"ඉමාම් තෙම්පෙරතූරු.",translation:"මට උණ තියෙනවා."},
+{word:"Apoteka",reading:"අපොතෙකා",meaning:"ඖෂධහල",example:"Gde je najbliža apoteka?",exampleReading:"ග්දේ යේ නායිබ්ලිෂා අපොතෙකා?",translation:"ළඟම ඖෂධහල කොහෙද?"},
+{word:"Recept",reading:"රෙත්සෙප්ත්",meaning:"වෛද්‍ය බෙහෙත් වට්ටෝරුව",example:"Imam recept od lekara.",exampleReading:"ඉමාම් රෙත්සෙප්ත් ඔද් ලෙකාරා.",translation:"මට වෛද්‍යවරයාගෙන් බෙහෙත් වට්ටෝරුවක් තියෙනවා."}],
+grammarTitle:"ව්‍යාකරණය · රෝග ලක්ෂණ සහ වේලාවක් වෙන්කරගැනීම",
+grammar:"“Boli me ...” යනු “මගේ ... රිදෙනවා” යන්නයි. උදාහරණ: “Boli me glava” (හිස රිදෙනවා), “Boli me grlo” (උගුර රිදෙනවා). “Želim da zakažem ...” යනු හමුවීමේ වේලාවක් වෙන්කරගැනීමට භාවිත කරන ආචාරශීලී වාක්‍ය රටාවකි.",
+grammarTerms:[
+{sr:"Želim da zakažem pregled.",si:"මට වෛද්‍ය පරීක්ෂාවක් වෙන්කරගන්න ඕනේ.",reading:"ෂෙලිම් දා සාකාෂෙම් ප්‍රෙග්ලෙද්."},
+{sr:"Boli me glava.",si:"මගේ හිස රිදෙනවා.",reading:"බොලි මෙ ග්ලාවා."},
+{sr:"Imam temperaturu.",si:"මට උණ තියෙනවා.",reading:"ඉමාම් තෙම්පෙරතූරු."},
+{sr:"Od kada imate simptome?",si:"ඔබට රෝග ලක්ෂණ තියෙන්නේ කවදා සිටද?",reading:"ඔද් කාදා ඉමාතෙ සිම්ප්තොමෙ?"},
+{sr:"Da li treba da dođem sutra?",si:"මම හෙට එන්න ඕනෙද?",reading:"දා ලි ත්‍රෙබා දා දොජෙම් සුත්‍රා?"}],
+examples:[
+{sr:"Dobar dan. Želim da zakažem pregled.",reading:"දොබාර් දාන්. ෂෙලිම් දා සාකාෂෙම් ප්‍රෙග්ලෙද්.",si:"සුබ දවසක්. මට වෛද්‍ය පරීක්ෂාවක් වෙන්කරගන්න ඕනේ."},
+{sr:"Boli me grlo i imam kašalj.",reading:"බොලි මෙ ග්‍ර්ලො ඉ ඉමාම් කාෂාල්.",si:"මගේ උගුර රිදෙනවා, කැස්සකුත් තියෙනවා."},
+{sr:"Da li imate slobodan termin danas?",reading:"දා ලි ඉමාතෙ ස්ලොබොදාන් තෙර්මින් දානස්?",si:"අද ඔබට හිස් වේලාවක් තියෙනවාද?"},
+{sr:"Gde je najbliža apoteka?",reading:"ග්දේ යේ නායිබ්ලිෂා අපොතෙකා?",si:"ළඟම ඖෂධහල කොහෙද?"}],
+dialogue:[
+{sr:"Dobar dan. Želim da zakažem pregled.",reading:"දොබාර් දාන්. ෂෙලිම් දා සාකාෂෙම් ප්‍රෙග්ලෙද්.",si:"සුබ දවසක්. මට පරීක්ෂාවක් වෙන්කරගන්න ඕනේ."},
+{sr:"Naravno. Šta vas muči?",reading:"නාරාව්නො. ෂ්තා වාස් මුචි?",si:"අනිවාර්යයෙන්. ඔබට තියෙන අපහසුතාවය මොකක්ද?"},
+{sr:"Boli me glava i imam temperaturu.",reading:"බොලි මෙ ග්ලාවා ඉ ඉමාම් තෙම්පෙරතූරු.",si:"මගේ හිස රිදෙනවා, උණත් තියෙනවා."},
+{sr:"Da li možete da dođete sutra u deset?",reading:"දා ලි මොෂෙතෙ දා දොජෙතෙ සුත්‍රා උ දෙසෙත්?",si:"ඔබට හෙට දහයට එන්න පුළුවන්ද?"},
+{sr:"Da, odgovara mi.",reading:"දා, ඔද්ගොවාරා මි.",si:"ඔව්, ඒ වේලාව මට ගැළපෙනවා."},
+{sr:"U redu. Ponesite zdravstvenu knjižicu.",reading:"උ රෙදු. පොනෙසිටෙ ස්ද්‍රාව්ස්ත්වෙනු ක්න්යිෂිත්සු.",si:"හරි. සෞඛ්‍ය කාඩ්පත රැගෙන එන්න."}],
+practice:[
+{prompt:"“වෛද්‍යවරයා” යන Serbian වචනය තෝරන්න.",options:["Lekar","Recept","Bol"],answer:0,explanation:"Lekar = වෛද්‍යවරයා."},
+{prompt:"“මගේ හිස රිදෙනවා” කියන්නේ?",options:["Imam pregled.","Boli me glava.","Gde je apoteka?"],answer:1,explanation:"Boli me glava = මගේ හිස රිදෙනවා."},
+{prompt:"“ඖෂධහල” යන වචනය?",options:["Termin","Pregled","Apoteka"],answer:2,explanation:"Apoteka = ඖෂධහල."},
+{prompt:"“මට පරීක්ෂාවක් වෙන්කරගන්න ඕනේ” තෝරන්න.",options:["Želim da zakažem pregled.","Imam recept.","Boli me grlo."],answer:0,explanation:"Želim da zakažem pregled = මට පරීක්ෂාවක් වෙන්කරගන්න ඕනේ."}]
+}
 
 ];
