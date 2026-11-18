@@ -567,3 +567,23 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 ### Known limitations
 - Approximate Sinhala pronunciation aids, Serbian naturalness, English phrasing, translations and quiz distractors need fluent-speaker/editorial review.
 - No successful build, APK artifact, installation or physical-device runtime test is confirmed for this batch.
+
+
+## Latest continuation — 2026-11-18: C1 lessons 31–40
+
+- Added `serbianC1Lessons31_40.js` and `englishC1Lessons31_40.js`, with ten paired advanced lessons each. Topics: diplomacy and tactful communication; public policy evaluation; financial reporting and accountability; scientific uncertainty and peer review; leadership and organisational culture; data privacy and information governance; academic writing and source attribution; idioms/metaphors/register; debate and rebuttal; integrated professional project.
+- Each lesson contains eight vocabulary entries, Sinhala meanings and approximate Sinhala-script readings, Sinhala grammar guidance, four examples, a four-line dialogue, listening comprehension and four practice questions. Readings are generated approximations and require fluent-speaker review.
+- Integrated both arrays into the C1 Learn panel in `App.js`; updated `curriculum.js` with `C1_BATCH_31_40_STATUS` and appended the progress to README.
+- Current structured lesson records: A1 50/50, A2 50/50, B1 50/50, B2 50/50, C1 40/40, C2 0/0 (Serbian/English). Total: 480 records (240 Serbian + 240 English). This is authored source content, not CEFR certification.
+- Commits: Serbian data `8e5d4dd8856ddfa880bf63318dbfc8a494fd271b`; English data `182acb367107fe08c96288741c0bd5d9916e5bc9`; App integration `9d1e8fd073bd9cea2969365b2243d39a66bdeea7`; curriculum `2b3c03e5ea12ee9801b84419ad32a2b6e2a6b745`; README `14486e3b1601e4434f731a8879297c64f8251d2b`.
+- Source validation: both JS exports parsed as JSON-compatible arrays; 10 lessons each; 80 vocabulary items, 40 examples, 40 dialogue lines and 40 practice questions per language; unique IDs; all reading fields populated and no Latin/Cyrillic letters remain in reading fields; App imports and panel mapping present. No Expo build, CI pass, APK artifact or Android device test was run in this session.
+
+### Next exact task
+1. Create C1 lessons 41–50 in Serbian and English together, with new non-duplicated topics and the same full lesson structure.
+2. Integrate both lesson arrays into the C1 Learn panel and update curriculum, README and HANDOFF.
+3. Then create cumulative C1 revision and practice final assessments in both languages. After C1 is fully completed, begin C2 lessons 1–10.
+4. Check CI and run Expo/Android build and device verification when possible; do not claim success without actual evidence.
+
+### Known limitations
+- Serbian naturalness, English phrasing, Sinhala translations, approximate Sinhala pronunciation and exercise distractors require fluent-speaker/editorial review.
+- No successful build, APK artifact, installation or physical-device runtime test is confirmed for this batch.
