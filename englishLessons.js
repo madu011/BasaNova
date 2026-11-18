@@ -1286,4 +1286,111 @@ practice:[
 {prompt:"Choose “මස් නැතුව”.",options:["Without meat","With meat","Without water"],readings:["විදවුට් මීට්","විත් මීට්","විදවුට් වෝටර්"],answer:0,explanation:"Without meat = මස් නැතුව."},
 {prompt:"Choose the word for “අමුද්‍රව්‍ය”.",options:["Ingredients","Recommendation","Menu"],readings:["ඉන්ග්‍රීඩියන්ට්ස්","රෙකමෙන්ඩේෂන්","මෙනියු"],answer:0,explanation:"Ingredients = අමුද්‍රව්‍ය."}]}
 
+
+,
+{id:"en-a1-u10-l1",unit:"Family and people",title:"Lesson 37 · Family and people",objective:"Introduce family members and give simple information about them.",
+vocabulary:[
+{word:"Family",reading:"ෆැමිලි",meaning:"පවුල",example:"My family is big.",exampleReading:"මයි ෆැමිලි ඉස් බිග්.",translation:"මගේ පවුල විශාලයි."},
+{word:"Mother",reading:"මදර්",meaning:"මව",example:"My mother lives in Serbia.",exampleReading:"මයි මදර් ලිව්ස් ඉන් සර්බියා.",translation:"මගේ මව සර්බියාවේ ජීවත් වෙනවා."},
+{word:"Father",reading:"ෆාදර්",meaning:"පියා",example:"My father works.",exampleReading:"මයි ෆාදර් වර්ක්ස්.",translation:"මගේ පියා වැඩ කරනවා."},
+{word:"Brother",reading:"බ්‍රදර්",meaning:"සහෝදරයා",example:"I have one brother.",exampleReading:"අයි හැව් වන් බ්‍රදර්.",translation:"මට සහෝදරයෙක් ඉන්නවා."},
+{word:"Sister",reading:"සිස්ටර්",meaning:"සහෝදරිය",example:"My sister is a student.",exampleReading:"මයි සිස්ටර් ඉස් අ ස්ටූඩන්ට්.",translation:"මගේ සහෝදරිය ශිෂ්‍යාවක්."},
+{word:"Parents",reading:"පේරන්ට්ස්",meaning:"දෙමාපියන්",example:"My parents are at home.",exampleReading:"මයි පේරන්ට්ස් ආර් ඇට් හෝම්.",translation:"මගේ දෙමාපියන් ගෙදර ඉන්නවා."},
+{word:"Married",reading:"මැරීඩ්",meaning:"විවාහක",example:"He is married.",exampleReading:"හී ඉස් මැරීඩ්.",translation:"ඔහු විවාහකයි."},
+{word:"Children",reading:"චිල්ඩ්‍රන්",meaning:"දරුවන්",example:"They have two children.",exampleReading:"දේ හැව් ටූ චිල්ඩ්‍රන්.",translation:"ඔවුන්ට දරුවන් දෙදෙනෙක් ඉන්නවා."}],
+grammarTitle:"Grammar · Introducing your family",grammar:"Use “I have ...” to say which family members you have. Use “my” before a family word: my mother, my brother. Use “He is ...” and “She is ...” to describe a person.",
+grammarTerms:[
+{text:"I have one brother.",reading:"අයි හැව් වන් බ්‍රදර්.",meaning:"මට සහෝදරයෙක් ඉන්නවා."},
+{text:"My family is big.",reading:"මයි ෆැමිලි ඉස් බිග්.",meaning:"මගේ පවුල විශාලයි."},
+{text:"He is my father.",reading:"හී ඉස් මයි ෆාදර්.",meaning:"ඔහු මගේ පියා."},
+{text:"She is my sister.",reading:"ෂී ඉස් මයි සිස්ටර්.",meaning:"ඇය මගේ සහෝදරිය."}],
+examples:[
+{text:"My mother's name is Ana.",reading:"මයි මදර්ස් නේම් ඉස් ආනා.",meaning:"මගේ මවගේ නම ආනා."},
+{text:"I have two sisters.",reading:"අයි හැව් ටූ සිස්ටර්ස්.",meaning:"මට සහෝදරියන් දෙදෙනෙක් ඉන්නවා."},
+{text:"My brother lives in Belgrade.",reading:"මයි බ්‍රදර් ලිව්ස් ඉන් බෙල්ග්‍රේඩ්.",meaning:"මගේ සහෝදරයා බෙල්ග්‍රේඩ්වල ජීවත් වෙනවා."},
+{text:"My parents work.",reading:"මයි පේරන්ට්ස් වර්ක්.",meaning:"මගේ දෙමාපියන් වැඩ කරනවා."}],
+dialogue:[
+{text:"How many people are in your family?",reading:"හවු මෙනි පීපල් ආර් ඉන් යෝර් ෆැමිලි?",meaning:"ඔයාගේ පවුලේ කීදෙනෙක් ඉන්නවාද?"},
+{text:"There are four people.",reading:"දෙයාර් ආර් ෆෝර් පීපල්.",meaning:"අපේ පවුලේ හතර දෙනෙක් ඉන්නවා."},
+{text:"Do you have a brother or a sister?",reading:"ඩූ යූ හැව් අ බ්‍රදර් ඕර් අ සිස්ටර්?",meaning:"ඔයාට සහෝදරයෙක් හෝ සහෝදරියක් ඉන්නවාද?"},
+{text:"I have one brother and one sister.",reading:"අයි හැව් වන් බ්‍රදර් ඇන්ඩ් වන් සිස්ටර්.",meaning:"මට සහෝදරයෙක් සහ සහෝදරියක් ඉන්නවා."},
+{text:"Where do your parents live?",reading:"වෙයාර් ඩූ යෝර් පේරන්ට්ස් ලිව්?",meaning:"ඔයාගේ දෙමාපියන් ජීවත් වෙන්නේ කොහෙද?"},
+{text:"They live in Sri Lanka.",reading:"දේ ලිව් ඉන් ශ්‍රී ලංකා.",meaning:"ඔවුන් ශ්‍රී ලංකාවේ ජීවත් වෙනවා."}],
+listeningPractice:{prompt:"Listen and choose the correct Sinhala meaning: “I have one brother.”",audio:"I have one brother.",options:["මට සහෝදරයෙක් ඉන්නවා.","මට සහෝදරියක් ඉන්නවා.","මට දරුවන් දෙදෙනෙක් ඉන්නවා."],readings:["අයි හැව් වන් බ්‍රදර්.","අයි හැව් વન සිස්ටර්.","દේ හැව් ටූ චිල්ඩ්‍රන්."],answer:0,meaning:"I have one brother = මට සහෝදරයෙක් ඉන්නවා."},
+practice:[
+{prompt:"Choose the English word for “පවුල”.",options:["Family","Work","Friend"],readings:["ෆැමිලි","වර්ක්","ෆ්‍රෙන්ඩ්"],answer:0,explanation:"Family = පවුල."},
+{prompt:"Choose “පියා”.",options:["Mother","Father","Sister"],readings:["මදර්","ෆාදර්","සිස්ටර්"],answer:1,explanation:"Father = පියා."},
+{prompt:"How do you say “මට සහෝදරියක් ඉන්නවා”?",options:["I have a sister.","I have a brother.","I have a son."],readings:["අයි හැව් අ සිස්ටර්.","අයි හැව් අ බ්‍රදර්.","අයි හැව් අ සන්."],answer:0,explanation:"I have a sister = මට සහෝදරියක් ඉන්නවා."},
+{prompt:"Choose the word for “දෙමාපියන්”.",options:["Parents","Children","Friends"],readings:["පේරන්ට්ස්","චිල්ඩ්‍රන්","ෆ්‍රෙන්ඩ්ස්"],answer:0,explanation:"Parents = දෙමාපියන්."}]}
+,
+{id:"en-a1-u10-l2",unit:"Home and rooms",title:"Lesson 38 · Home and rooms",objective:"Describe rooms, furniture and the place where you live.",
+vocabulary:[
+{word:"Apartment",reading:"අපාර්ට්මන්ට්",meaning:"මහල් නිවස / අපාර්ට්මන්ට්",example:"I live in an apartment.",exampleReading:"අයි ලිව් ඉන් ඇන් අපාර්ට්මන්ට්.",translation:"මම අපාර්ට්මන්ට් එකක ජීවත් වෙනවා."},
+{word:"House",reading:"හවුස්",meaning:"නිවස",example:"My house is small.",exampleReading:"මයි හවුස් ඉස් ස්මෝල්.",translation:"මගේ නිවස කුඩායි."},
+{word:"Room",reading:"රූම්",meaning:"කාමරය",example:"My room is big.",exampleReading:"මයි රූම් ඉස් බිග්.",translation:"මගේ කාමරය විශාලයි."},
+{word:"Kitchen",reading:"කිචන්",meaning:"මුළුතැන්ගෙය",example:"The kitchen is clean.",exampleReading:"දි කිචන් ඉස් ක්ලීන්.",translation:"මුළුතැන්ගෙය පිරිසිදුයි."},
+{word:"Bathroom",reading:"බාත්රූම්",meaning:"නාන කාමරය",example:"The bathroom is on the left.",exampleReading:"දි බාත්රූම් ඉස් ඔන් දි ලෙෆ්ට්.",translation:"නාන කාමරය වම් පැත්තේ."},
+{word:"Table",reading:"ටේබල්",meaning:"මේසය",example:"The book is on the table.",exampleReading:"දි බුක් ඉස් ඔන් දි ටේබල්.",translation:"පොත මේසය මත තියෙනවා."},
+{word:"Bed",reading:"බෙඩ්",meaning:"ඇඳ",example:"The bed is in the room.",exampleReading:"දි බෙඩ් ඉස් ඉන් දි රූම්.",translation:"ඇඳ කාමරයේ තියෙනවා."},
+{word:"Rent",reading:"රෙන්ට්",meaning:"කුලියට ගැනීම",example:"I want to rent an apartment.",exampleReading:"අයි වොන්ට් ටු රෙන්ට් ඇන් අපාර්ට්මන්ට්.",translation:"මට අපාර්ට්මන්ට් එකක් කුලියට ගන්න ඕනේ."}],
+grammarTitle:"Grammar · Describing your home",grammar:"Use “I live in ...” to say where you live. Use “in” for inside a room and “on” for a surface: “in the room”, “on the table”. Use “I want to rent ...” when looking for a place.",
+grammarTerms:[
+{text:"I live in an apartment.",reading:"අයි ලිව් ඉන් ඇන් අපාර්ට්මන්ට්.",meaning:"මම අපාර්ට්මන්ට් එකක ජීවත් වෙනවා."},
+{text:"The kitchen is clean.",reading:"දි කිචන් ඉස් ක්ලීන්.",meaning:"මුළුතැන්ගෙය පිරිසිදුයි."},
+{text:"The book is on the table.",reading:"දි බුක් ඉස් ඔන් දි ටේබල්.",meaning:"පොත මේසය මත තියෙනවා."},
+{text:"I want to rent an apartment.",reading:"අයි වොන්ට් ටු රෙන්ට් ඇන් අපාර්ට්මන්ට්.",meaning:"මට අපාර්ට්මන්ට් එකක් කුලියට ගන්න ඕනේ."}],
+examples:[
+{text:"My apartment has two rooms.",reading:"මයි අපාර්ට්මන්ට් හැස් ටූ රූම්ස්.",meaning:"මගේ අපාර්ට්මන්ට් එකේ කාමර දෙකක් තියෙනවා."},
+{text:"The kitchen is next to the living room.",reading:"දි කිචන් ඉස් නෙක්ස්ට් ටු දි ලිවිං රූම්.",meaning:"මුළුතැන්ගෙය සාලය අසලයි."},
+{text:"The bathroom is on the right.",reading:"දි බාත්රූම් ඉස් ඔන් දි රයිට්.",meaning:"නාන කාමරය දකුණු පැත්තේ."},
+{text:"I am looking for an apartment near the centre.",reading:"අයි ඇම් ලුකිං ෆෝර් ඇන් අපාර්ට්මන්ට් නියර් දි සෙන්ටර්.",meaning:"මම නගර මධ්‍යයට ළඟින් අපාර්ට්මන්ට් එකක් සොයනවා."}],
+dialogue:[
+{text:"Do you rent this apartment?",reading:"ඩූ යූ රෙන්ට් දිස් අපාර්ට්මන්ට්?",meaning:"ඔබ මේ අපාර්ට්මන්ට් එක කුලියට දෙනවාද?"},
+{text:"Yes. It has two rooms.",reading:"යෙස්. ඉට් හැස් ටූ රූම්ස්.",meaning:"ඔව්. මේකේ කාමර දෙකක් තියෙනවා."},
+{text:"Where is the kitchen?",reading:"වෙයාර් ඉස් දි කිචන්?",meaning:"මුළුතැන්ගෙය කොහෙද?"},
+{text:"The kitchen is next to the living room.",reading:"දි කිචන් ඉස් නෙක්ස්ට් ටු දි ලිවිං රූම්.",meaning:"මුළුතැන්ගෙය සාලය අසලයි."},
+{text:"Does the apartment have a bathroom?",reading:"ඩස් දි අපාර්ට්මන්ට් හැව් අ බාත්රූම්?",meaning:"අපාර්ට්මන්ට් එකේ නාන කාමරයක් තියෙනවාද?"},
+{text:"Yes, the bathroom is on the right.",reading:"යෙස්, දි බාත්රූම් ඉස් ඔන් දි රයිට්.",meaning:"ඔව්, නාන කාමරය දකුණු පැත්තේ."}],
+listeningPractice:{prompt:"Listen and choose the correct Sinhala meaning: “I live in an apartment.”",audio:"I live in an apartment.",options:["මම අපාර්ට්මන්ට් එකක ජීවත් වෙනවා.","මම නිවසක් මිලදී ගන්නවා.","මම කාමරය පිරිසිදු කරනවා."],readings:["අයි ලිව් ඉන් ඇන් අපාර්ට්මන්ට්.","අයි බයි අ හවුස්.","අයි ක්ලීන් දි රූම්."],answer:0,meaning:"I live in an apartment = මම අපාර්ට්මන්ට් එකක ජීවත් වෙනවා."},
+practice:[
+{prompt:"Choose the English word for “කාමරය”.",options:["Room","Kitchen","Table"],readings:["රූම්","කිචන්","ටේබල්"],answer:0,explanation:"Room = කාමරය."},
+{prompt:"Choose “මුළුතැන්ගෙය”.",options:["Bathroom","Kitchen","House"],readings:["බාත්රූම්","කිචන්","හවුස්"],answer:1,explanation:"Kitchen = මුළුතැන්ගෙය."},
+{prompt:"How do you say “මම අපාර්ට්මන්ට් එකක ජීවත් වෙනවා”?",options:["I live in an apartment.","I work in an apartment.","I sleep in a house."],readings:["අයි ලිව් ඉන් ඇන් අපාර්ට්මන්ට්.","අයි වර්ක් ඉන් ඇන් අපාර්ට්මන්ට්.","අයි ස්ලීප් ඉන් අ හවුස්."],answer:0,explanation:"I live in an apartment = මම අපාර්ට්මන්ට් එකක ජීවත් වෙනවා."},
+{prompt:"Choose the English word for “ඇඳ”.",options:["Bed","Table","Window"],readings:["බෙඩ්","ටේබල්","වින්ඩෝ"],answer:0,explanation:"Bed = ඇඳ."}]}
+,
+{id:"en-a1-u10-l3",unit:"Booking an appointment",title:"Lesson 39 · Booking an appointment",objective:"Ask for an appointment, confirm a date and time, and understand a simple booking response.",
+vocabulary:[
+{word:"Book",reading:"බුක්",meaning:"වෙන්කරගැනීම",example:"I want to book an appointment.",exampleReading:"අයි වොන්ට් ටු බුක් ඇන් අපොයින්ට්මන්ට්.",translation:"මට හමුවීමක් වෙන්කරගන්න ඕනේ."},
+{word:"Appointment",reading:"අපොයින්ට්මන්ට්",meaning:"හමුවීම / වෙන්කළ වේලාව",example:"I have an appointment on Friday.",exampleReading:"අයි හැව් ඇන් අපොයින්ට්මන්ට් ඔන් ෆ්‍රයිඩේ.",translation:"මට සිකුරාදා හමුවීමක් තියෙනවා."},
+{word:"Available",reading:"අවේලබල්",meaning:"හිස් / ලබාගත හැකි",example:"Are you available tomorrow?",exampleReading:"ආර් යූ අවේලබල් ටුමොරෝ?",translation:"ඔබට හෙට වේලාවක් තියෙනවාද?"},
+{word:"Free time",reading:"ෆ්‍රී ටයිම්",meaning:"හිස් වේලාව",example:"Do you have free time?",exampleReading:"ඩූ යූ හැව් ෆ්‍රී ටයිම්?",translation:"ඔබට හිස් වේලාවක් තියෙනවාද?"},
+{word:"Confirm",reading:"කන්ෆර්ම්",meaning:"තහවුරු කිරීම",example:"Please confirm the appointment.",exampleReading:"ප්ලීස් කන්ෆර්ම් දි අපොයින්ට්මන්ට්.",translation:"කරුණාකර හමුවීම තහවුරු කරන්න."},
+{word:"Date",reading:"ඩේට්",meaning:"දිනය",example:"What is the date?",exampleReading:"වොට් ඉස් දි ඩේට්?",translation:"දිනය කුමක්ද?"},
+{word:"Suitable",reading:"සූටබල්",meaning:"ගැළපෙන / සුදුසු",example:"Friday is suitable for me.",exampleReading:"ෆ්‍රයිඩේ ඉස් සූටබල් ෆෝර් මී.",translation:"සිකුරාදා මට ගැළපෙනවා."},
+{word:"Change",reading:"චේන්ජ්",meaning:"වෙනස් කිරීම",example:"I need to change the time.",exampleReading:"අයි නීඩ් ටු චේන්ජ් දි ටයිම්.",translation:"මට වේලාව වෙනස් කරන්න ඕනේ."}],
+grammarTitle:"Grammar · Booking a date and time",grammar:"Use “I would like to book ...” to request an appointment. Ask “Do you have any availability?” to find an open time. Say “That time works for me” to confirm, or “Can we change the time?” to request a change.",
+grammarTerms:[
+{text:"I would like to book an appointment.",reading:"අයි වුඩ් ලයික් ටු බුක් ඇන් අපොයින්ට්මන්ට්.",meaning:"මට හමුවීමක් වෙන්කරගන්න ඕනේ."},
+{text:"Do you have any availability?",reading:"ඩූ යූ හැව් එනි අවේලබිලිටි?",meaning:"ඔබට හිස් වේලාවක් තියෙනවාද?"},
+{text:"Friday works for me.",reading:"ෆ්‍රයිඩේ වර්ක්ස් ෆෝර් මී.",meaning:"සිකුරාදා මට ගැළපෙනවා."},
+{text:"Can we change the time?",reading:"කැන් වී චේන්ජ් දි ටයිම්?",meaning:"අපිට වේලාව වෙනස් කරන්න පුළුවන්ද?"}],
+examples:[
+{text:"Are you available on Monday?",reading:"ආර් යූ අවේලබල් ඔන් මන්ඩේ?",meaning:"ඔබට සඳුදා වේලාවක් තියෙනවාද?"},
+{text:"I can come at ten o'clock.",reading:"අයි කැන් කම් ඇට් ටෙන් ඔක්ලොක්.",meaning:"මට දහයට එන්න පුළුවන්."},
+{text:"That time is suitable for me.",reading:"දැට් ටයිම් ඉස් සූටබල් ෆෝර් මී.",meaning:"ඒ වේලාව මට ගැළපෙනවා."},
+{text:"Thank you. See you on Friday.",reading:"තෑන්ක් යූ. සී යූ ඔන් ෆ්‍රයිඩේ.",meaning:"ස්තුතියි. සිකුරාදා හමුවෙමු."}],
+dialogue:[
+{text:"Good morning. I would like to book an appointment.",reading:"ගුඩ් මෝර්නින්. අයි වුඩ් ලයික් ටු බුක් ඇන් අපොයින්ට්මන්ට්.",meaning:"සුබ උදෑසනක්. මට හමුවීමක් වෙන්කරගන්න ඕනේ."},
+{text:"Of course. Are you available on Monday?",reading:"ඔෆ් කෝර්ස්. ආර් යූ අවේලබල් ඔන් මන්ඩේ?",meaning:"අනිවාර්යයෙන්. ඔබට සඳුදා වේලාවක් තියෙනවාද?"},
+{text:"Do you have a time at ten?",reading:"ඩූ යූ හැව් අ ටයිම් ඇට් ටෙන්?",meaning:"ඔබට දහයට වේලාවක් තියෙනවාද?"},
+{text:"Yes, ten o'clock is available.",reading:"යෙස්, ටෙන් ඔක්ලොක් ඉස් අවේලබල්.",meaning:"ඔව්, දහයට වේලාවක් තියෙනවා."},
+{text:"That time works for me.",reading:"දැට් ටයිම් වර්ක්ස් ෆෝර් මී.",meaning:"ඒ වේලාව මට ගැළපෙනවා."},
+{text:"Your appointment is confirmed. Thank you.",reading:"යෝර් අපොයින්ට්මන්ට් ඉස් කන්ෆර්ම්ඩ්. තෑන්ක් යූ.",meaning:"ඔබගේ හමුවීම තහවුරු කළා. ස්තුතියි."}],
+listeningPractice:{prompt:"Listen and choose the correct Sinhala meaning: “Do you have any availability?”",audio:"Do you have any availability?",options:["ඔබට හිස් වේලාවක් තියෙනවාද?","ඔබට ලිපිනයක් තියෙනවාද?","ඔබට නිවාඩු දිනයක් ඕනේද?"],readings:["ඩූ යූ හැව් එනි අවේලබිලිටි?","ඩූ යූ හැව් ඇන් ඇඩ්‍රස්?","ඩූ යූ නීඩ් අ ඩේ ඔෆ්?"],answer:0,meaning:"Do you have any availability? = ඔබට හිස් වේලාවක් තියෙනවාද?"},
+practice:[
+{prompt:"Choose the English word for “හමුවීම”.",options:["Appointment","Address","Weather"],readings:["අපොයින්ට්මන්ට්","ඇඩ්‍රස්","වෙදර්"],answer:0,explanation:"Appointment = හමුවීම."},
+{prompt:"Choose “දිනය”.",options:["Date","Time","Place"],readings:["ඩේට්","ටයිම්","ප්ලේස්"],answer:0,explanation:"Date = දිනය."},
+{prompt:"How do you say “සිකුරාදා මට ගැළපෙනවා”?",options:["Friday works for me.","Friday is far away.","I work on Friday."],readings:["ෆ්‍රයිඩේ වර්ක්ස් ෆෝර් මී.","ෆ්‍රයිඩේ ඉස් ෆාර් අවේ.","අයි වර්ක් ඔන් ෆ්‍රයිඩේ."],answer:0,explanation:"Friday works for me = සිකුරාදා මට ගැළපෙනවා."},
+{prompt:"Choose “මට වේලාව වෙනස් කරන්න ඕනේ”.",options:["I need to change the time.","I need to book a room.","I need to leave now."],readings:["අයි නීඩ් ටු චේන්ජ් දි ටයිම්.","අයි නීඩ් ටු බුක් අ රූම්.","අයි නීඩ් ටු ලීව් නව්."],answer:0,explanation:"I need to change the time = මට වේලාව වෙනස් කරන්න ඕනේ."}]}
+
 ];
