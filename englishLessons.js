@@ -293,4 +293,4 @@ export const ENGLISH_A1_LESSONS = [
  {prompt:"වායුසමීකරණය වැඩ නොකරන බව කියන්නේ?",options:["The room is ready.","The air conditioning doesn't work.","Breakfast is included."],readings:["ද රූම් ඉස් රෙඩි.","දි එයාර් කන්ඩිෂනින් ඩසන්ට් වර්ක්.","බ්‍රෙක්ෆස්ට් ඉස් ඉන්ක්ලූඩිඩ්."],answer:1,explanation:"Doesn't work යනු වැඩ කරන්නේ නැහැ යන අර්ථයයි."}
  ]
  }
-];\n
+];
