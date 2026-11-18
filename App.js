@@ -482,10 +482,10 @@ export default function App(){
      <Text style={s.lessonHeading}>📚 නව වචන සහ වාක්‍ය</Text>
      {lesson.vocabulary.map(item=><View key={item.word} style={s.lessonWord}>
       <Text style={s.lessonSerbian}>{item.word}</Text>
-      <Text style={s.sound}>සිංහලෙන්: {pronounceSinhala(item.word)}</Text>
+      <Text style={s.sound}>සිංහලෙන්: {item.reading||pronounceSinhala(item.word)}</Text>
       <Text style={s.sub}>{item.meaning}</Text>
       <Text style={s.lessonExample}>{item.example}</Text>
-      <Text style={s.sound}>උදාහරණයේ සිංහල උච්චාරණය: {pronounceSinhala(item.example)}</Text>
+      <Text style={s.sound}>උදාහරණයේ සිංහල උච්චාරණය: {item.exampleReading||pronounceSinhala(item.example)}</Text>
       <Text style={s.sub}>{item.translation}</Text>
       <View style={{flexDirection:"row",gap:10,flexWrap:"wrap"}}>
        <TouchableOpacity accessibilityRole="button" accessibilityLabel={item.word+" උච්චාරණය අහන්න"} onPress={()=>speak(item.word,"Serbian")}><Text style={s.link}>🔊 වචනය අහන්න</Text></TouchableOpacity>
@@ -503,7 +503,7 @@ export default function App(){
      </View>)}
      {lesson.examples.map(ex=><View key={ex.sr} style={s.example}>
       <Text style={s.lessonSerbian}>{ex.sr}</Text>
-      <Text style={s.sound}>සිංහල අකුරෙන් උච්චාරණය: {pronounceSinhala(ex.sr)}</Text>
+      <Text style={s.sound}>සිංහල අකුරෙන් උච්චාරණය: {ex.reading||pronounceSinhala(ex.sr)}</Text>
       <Text style={s.sub}>{ex.si}</Text>
       <TouchableOpacity onPress={()=>speak(ex.sr,"Serbian")}><Text style={s.link}>▶ උදාහරණය අහන්න</Text></TouchableOpacity>
      </View>)}
@@ -511,7 +511,7 @@ export default function App(){
      {lesson.dialogue.map((line,i)=><View key={lesson.id+"-d-"+i} style={s.dialogueLine}>
       <View style={{flex:1}}>
        <Text style={s.lessonSerbian}>{line.sr}</Text>
-       <Text style={s.sound}>සිංහල අකුරෙන් උච්චාරණය: {pronounceSinhala(line.sr)}</Text>
+       <Text style={s.sound}>සිංහල අකුරෙන් උච්චාරණය: {line.reading||pronounceSinhala(line.sr)}</Text>
        <Text style={s.sub}>{line.si}</Text>
       </View>
       <TouchableOpacity onPress={()=>speak(line.sr,"Serbian")}><Text style={s.link}>🔊</Text></TouchableOpacity>
