@@ -1632,4 +1632,44 @@ practice:[
 {prompt:"මුදල් ආපසු ලබාගැනීම ගැන අසන වාක්‍යය තෝරන්න.",options:["Da li je moguć povraćaj novca?","Koliko je sati?","Gde je pošta?"],answer:0,explanation:"Da li je moguć povraćaj novca? = මුදල් ආපසු ලබාගන්න පුළුවන්ද?"}]}
 
 
+
+,
+{
+id:"sr-a1-u10-l8",unit:"සැලසුම් සහ හමුවීම්",title:"පාඩම 29 · සැලසුම් සහ හමුවීම්",objective:"සරල සැලසුමක් ගැන කතා කිරීම, හමුවීමට වේලාවක් යෝජනා කිරීම සහ වේලාව තහවුරු කිරීම.",
+vocabulary:[
+{word:"Plan",reading:"ප්ලාන්",meaning:"සැලැස්ම",example:"Imam plan za vikend.",exampleReading:"ඉමාම් ප්ලාන් සා විකෙන්ද්.",translation:"සති අන්තයට මට සැලැස්මක් තියෙනවා."},
+{word:"Vikend",reading:"විකෙන්ද්",meaning:"සති අන්තය",example:"Šta radiš za vikend?",exampleReading:"ෂ්තා රාදිෂ් සා විකෙන්ද්?",translation:"සති අන්තයේ ඔයා මොකද කරන්නේ?"},
+{word:"Slobodan",reading:"ස්ලොබොදාන්",meaning:"නිදහස් / වැඩ නැති (පිරිමි)",example:"Da li si slobodan u petak?",exampleReading:"දා ලි සී ස්ලොබොදාන් උ පෙතාක්?",translation:"ඔයා සිකුරාදා නිදහස්ද?"},
+{word:"Slobodna",reading:"ස්ලොබොද්නා",meaning:"නිදහස් / වැඩ නැති (ගැහැණු)",example:"Da li si slobodna sutra?",exampleReading:"දා ලි සී ස්ලොබොද්නා සුත්‍රා?",translation:"ඔයා හෙට නිදහස්ද?"},
+{word:"Videti se",reading:"විදෙති සේ",meaning:"හමුවීම",example:"Možemo da se vidimo sutra.",exampleReading:"මොෂෙමො දා සේ විදිමො සුත්‍රා.",translation:"අපිට හෙට හමුවෙන්න පුළුවන්."},
+{word:"U petak",reading:"උ පෙතාක්",meaning:"සිකුරාදා",example:"Vidimo se u petak.",exampleReading:"විදිමො සේ උ පෙතාක්.",translation:"අපි සිකුරාදා හමුවෙමු."},
+{word:"U koliko sati?",reading:"උ කොලිකො සාති?",meaning:"කීයටද?",example:"U koliko sati počinjemo?",exampleReading:"උ කොලිකො සාති පොචිංයෙමො?",translation:"අපි පටන්ගන්නේ කීයටද?"},
+{word:"Odgovara mi",reading:"ඔද්ගොවාරා මි",meaning:"ඒක මට ගැළපෙනවා",example:"Pet sati mi odgovara.",exampleReading:"පෙත් සාති මි ඔද්ගොවාරා.",translation:"පහ මට ගැළපෙනවා."}],
+grammarTitle:"ව්‍යාකරණය · සැලසුම් සහ වේලාවක් යෝජනා කිරීම",
+grammar:"“Da li si slobodan/slobodna ...?” යනු කෙනෙකු නිදහස්දැයි අසන රටාවයි. පිරිමි පුද්ගලයෙකුට slobodan ද, ගැහැණු පුද්ගලයෙකුට slobodna ද භාවිත කරන්න. “Možemo da se vidimo ...” යනු “අපිට ... හමුවෙන්න පුළුවන්” යන්නයි. වේලාවක් තහවුරු කිරීමට “Odgovara mi” කියන්න.",
+grammarTerms:[
+{sr:"Da li si slobodan u petak?",reading:"දා ලි සී ස්ලොබොදාන් උ පෙතාක්?",si:"ඔයා සිකුරාදා නිදහස්ද?"},
+{sr:"Možemo da se vidimo sutra.",reading:"මොෂෙමො දා සේ විදිමො සුත්‍රා.",si:"අපිට හෙට හමුවෙන්න පුළුවන්."},
+{sr:"U koliko sati?",reading:"උ කොලිකො සාති?",si:"කීයටද?"},
+{sr:"U pet sati.",reading:"උ පෙත් සාති.",si:"පහට."},
+{sr:"To mi odgovara.",reading:"තො මි ඔද්ගොවාරා.",si:"ඒක මට ගැළපෙනවා."}],
+examples:[
+{sr:"Šta radiš za vikend?",reading:"ෂ්තා රාදිෂ් සා විකෙන්ද්?",si:"සති අන්තයේ ඔයා මොකද කරන්නේ?"},
+{sr:"Da li si slobodan u subotu?",reading:"දා ලි සී ස්ලොබොදාන් උ සුබොතු?",si:"ඔයා සෙනසුරාදා නිදහස්ද?"},
+{sr:"Možemo da se vidimo u šest sati.",reading:"මොෂෙමො දා සේ විදිමො උ ෂෙස්ත් සාති.",si:"අපිට හයට හමුවෙන්න පුළුවන්."},
+{sr:"Petak mi ne odgovara. Može subota?",reading:"පෙතාක් මි නේ ඔද්ගොවාරා. මොෂෙ සුබොතා?",si:"සිකුරාදා මට ගැළපෙන්නේ නැහැ. සෙනසුරාදා පුළුවන්ද?"}],
+dialogue:[
+{sr:"Ćao! Šta radiš za vikend?",reading:"චාඔ! ෂ්තා රාදිෂ් සා විකෙන්ද්?",si:"හායි! සති අන්තයේ ඔයා මොකද කරන්නේ?"},
+{sr:"Još nemam plan.",reading:"යෝෂ් නෙමාම් ප්ලාන්.",si:"මට තවම සැලැස්මක් නැහැ."},
+{sr:"Da li si slobodan u subotu?",reading:"දා ලි සී ස්ලොබොදාන් උ සුබොතු?",si:"ඔයා සෙනසුරාදා නිදහස්ද?"},
+{sr:"Jesam. Možemo da se vidimo.",reading:"යෙසාම්. මොෂෙමො දා සේ විදිමො.",si:"ඔව්. අපිට හමුවෙන්න පුළුවන්."},
+{sr:"U koliko sati?",reading:"උ කොලිකො සාති?",si:"කීයටද?"},
+{sr:"U pet sati. To mi odgovara.",reading:"උ පෙත් සාති. තො මි ඔද්ගොවාරා.",si:"පහට. ඒ වේලාව මට ගැළපෙනවා."}],
+listeningPractice:{prompt:"හඬ අසා නිවැරදි සිංහල තේරුම තෝරන්න: “U koliko sati?”",audio:"U koliko sati?",options:["කීයටද?","කොහෙද?","කවදාද?"],readings:["උ කොලිකො සාති?","ග්දේ යේ?","කාදා?"],answer:0,meaning:"U koliko sati? = කීයටද?"},
+practice:[
+{prompt:"“සති අන්තය” යන Serbian වචනය තෝරන්න.",options:["Vikend","Plan","Petak"],answer:0,explanation:"Vikend = සති අන්තය."},
+{prompt:"“කීයටද?” කියන්නේ?",options:["Gde?","U koliko sati?","Zašto?"],answer:1,explanation:"U koliko sati? = කීයටද?"},
+{prompt:"“ඒක මට ගැළපෙනවා” තෝරන්න.",options:["Ne znam.","To mi odgovara.","Nemam plan."],answer:1,explanation:"To mi odgovara = ඒක මට ගැළපෙනවා."},
+{prompt:"“අපිට හෙට හමුවෙන්න පුළුවන්” කියන්නේ?",options:["Možemo da se vidimo sutra.","Radim danas.","Gde je stanica?"],answer:0,explanation:"Možemo da se vidimo sutra = අපිට හෙට හමුවෙන්න පුළුවන්."}]}
+
 ];
