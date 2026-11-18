@@ -617,3 +617,18 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 4. Verify CI/Expo/Android build and device behavior when possible; never equate authored content with a verified APK or CEFR certification.
 
 - Follow-up assessment accessibility refinement: commit `4668ccb498d4f4e6f62adfea8fe36c0df3b30504` adds Sinhala-script pronunciation fields for each vocabulary term in the C1 revision/final questions; App commit `163fc4bc449c57cbcdb2ce8c178245fac107e565` displays those readings and offers TTS playback. Current GitHub Actions for the latest App commit were queued/pending at the last status check; no successful result is confirmed yet.
+
+
+## 2026-11-18 — C2 lessons 1–10 started
+- Added paired modules `serbianC2Lessons.js` and `englishC2Lessons.js`, each with ten C2 lessons and 8 vocabulary entries, Sinhala meanings/readings, grammar guidance, four examples, four dialogue lines, listening practice and four questions. Topics include pragmatic implicature, irony/sarcasm, dialect variation, rhetoric, lexical nuance, intertextuality, textual reconstruction, mediation, cultural translation and expert synthesis.
+- Integrated both C2 lesson arrays into a dedicated C2 Learn panel in `App.js`, reusing the existing expanded-lesson, answer-check, listening and TTS behavior. Serbian practice prompts/explanations are localised in Serbian in commit `2ba223b27a0c1eccf1d9fd6aac1adbaf48335341`.
+- Commits: Serbian C2 source `b8a8493f805b345dc578716f5de09a43eb07b367`; English C2 source `4172ba04f8f22f9eb0453e92955e41b6b67c177c`; App integration `fd5df5e5b8bec3a9e0ba3515e3d3f36ab413807c`; curriculum `2793044c7146a9021e7973f83cd73a4f963bfc48`; README `2af1ccb8cd7b98cc886ac3263b5e8859bae984d2`.
+- Source validation: both C2 modules parse as JSON-compatible JS; 10 unique lessons each, 80 vocabulary items, 40 examples, 40 dialogue lines, 40 practice questions and 10 listening tasks per language; all vocabulary/example/dialogue readings populated and Sinhala-script-only. App imports and C2 Learn panel references are present. This is source validation, not a successful app build.
+- C1 cumulative assessment work in this session: 10 revision + 20 final questions per language (14 vocabulary, 6 listening), integrated into Learn. Sinhala pronunciation fields and audio playback are displayed for target vocabulary. Serbian C1 41–49 examples/dialogue were corrected into Serbian text during review.
+- Latest known CI/Android workflows were queued/in progress; no successful Expo bundle or APK build/install result has been confirmed. Continue checking Actions; do not claim build success.
+
+### Next exact task
+1. Continue paired C2 lessons 11–20 for Serbian and English with ten new, non-duplicated expert-level topics and full lesson schema.
+2. Integrate both batches in the C2 Learn panel and update curriculum, README and HANDOFF.
+3. Continue batches 21–30, 31–40 and 41–50, then create cumulative C2 revision and final practice exams.
+4. Review all C1/C2 advanced phrasing, Sinhala meanings and approximate readings with fluent speakers; verify CI, Expo bundle, native APK and Android device before claiming release readiness.
