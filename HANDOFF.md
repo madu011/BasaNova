@@ -169,3 +169,6 @@
 
 
 - 2026-11-18 continuation: Continued reviewing Serbian A1 lesson dialogue. Polished the hotel-service closing question from the less idiomatic `Mogu li još nešto da pomognem?` to the natural `Mogu li još nekako da pomognem?` (“Can I help in any other way?”), and aligned the Sinhala translation. Lesson commit: `53c0cba069eba61b6ba3ac0927b860affbc60fb3`. This is a language-usage improvement; all Sinhala-script readings remain approximate and should be reviewed by a Serbian speaker before treating them as authoritative.
+
+
+- 2026-11-18 continuation: Audited the exact Serbian-to-Sinhala pronunciation dictionary and fixed two inconsistent vowel-length spellings: `Zdravo` and `Zdravo, kako si?` now use `ස්ද්‍රාවො` (matching the lesson's existing `Zdravo` reading), and `Račun, molim` / `Račun, molim.` now use `රාචුන්` consistently rather than an unnecessarily lengthened `රාචූන්`. App commit: `f8bb462dd6c65acac800bd9fabd5624c0d9ca400`. These remain learner-friendly Sinhala approximations; Serbian audio playback remains the authoritative sound model.
