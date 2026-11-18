@@ -93,9 +93,9 @@
 - No live API, Supabase migration, Google sign-in or Android device tests have been completed.
 
 ## Next task — resume here
-1. Continue synchronized A2 development in batches of ten: add paired Serbian and English lessons 56–65, keeping the full lesson structure and Sinhala pronunciation/meaning support.
-2. Once A2 lesson 60 or 65 is reached, audit the complete A2 sequence for topic progression, repeated/weak vocabulary, paired objectives, grammar progression, natural target-language phrasing, Sinhala readings, and exercise coverage.
-3. Add cumulative A2 revision and a scored end-of-level listening/comprehension assessment for both languages; clearly distinguish speaking self-practice from automatic speech grading.
+1. Continue synchronized B1 development in batches of ten: add paired Serbian and English lessons 21–30, keeping the full lesson structure and Sinhala pronunciation/meaning support.
+2. After B1 lesson 50 is complete, audit the full B1 sequence for topic progression, repeated/weak vocabulary, paired objectives, grammar progression, natural target-language phrasing, Sinhala readings, and exercise coverage.
+3. Add cumulative B1 revision and a scored end-of-level listening/comprehension assessment for both languages; clearly distinguish speaking self-practice from automatic speech grading.
 4. Audit target-language phrases embedded in Sinhala grammar and quiz explanations and ensure important phrases have Sinhala-script readings and individual TTS playback.
 5. Add saved local progress for lesson checks, listening results and mixed revision in a language-separated way; then design spaced review from saved mastery.
 6. Verify current GitHub Actions/Android build workflow and fix failures before claiming build readiness; no APK or physical-device success is established by the lesson-content work.
@@ -382,3 +382,16 @@
 - Quality note: the current dialogue rows reuse the four authored example sentences as a short dialogue section; a later content-polish pass should turn these into more natural alternating-speaker conversations. Sinhala-script readings are approximate and need fluent-speaker review.
 - No JavaScript/Expo build, CI pass, APK artifact, installation or physical-device test was performed. Do not claim build/runtime success.
 - Next: continue paired B1 lessons 11–20 in one batch; then add cumulative B1 revision and assessment after lesson 50. Keep each CEFR level capped at 50 lessons.
+
+
+## Latest session — paired B1 lessons 11–20 (2026-11-18)
+
+- Added Serbian lesson IDs `sr-b1-l11`–`sr-b1-l20` and English lesson IDs `en-b1-l11`–`en-b1-l20`, extending each B1 course from 10 to 20 authored lessons.
+- Matched topics: probability/certainty; education and learning strategies; travel planning and unexpected changes; consumer choices and service complaints; processes and instructions; social issues and community participation; work-life balance/time management; environment and sustainable choices; causes/effects; and structured argumentation.
+- Every new lesson has eight vocabulary entries with Sinhala-script readings and meanings, grammar guidance, a phrase card, four examples, a four-turn alternating-speaker dialogue, one listening task, and four practice questions. Quiz answer indexes were source-checked against their options.
+- Serbian data commit: `7422e78b7960c5bba5e7a05f4040c7d783180418`; English data commit: `a2ca4ba9c4d5c9797e0eb853d56ecaa4cbceff0a`.
+- Curriculum status commit: `e03ddb575fa6b1bd4f433776e7f10d5cd3b5ab9a` (20/50 per language; 30 remain). README commit: `3ed3ac84b5fdcee17d17bb3559752f339af93f9f`.
+- Source validation re-fetched both committed arrays and confirmed 20 unique, sequential lesson IDs per language; each lesson has 8 vocabulary entries, 4 examples, 4 dialogue turns, 4 practice questions, grammar, phrase card and listening task; answer indexes are valid. Existing App.js imports and B1 renderer remain in place, so the new lesson objects are included by the same arrays.
+- Quality limitation: the new Serbian and English dialogue turns are explicitly alternating A/B, but several topic examples and vocabulary sample translations are generic patterns and should receive a language-speaker quality pass. Sinhala-script readings are approximate and require fluent-speaker review.
+- No Expo/JavaScript build, CI pass, APK artifact, installation or physical-device test was run for this batch. Do not claim runtime or build success.
+- Next: author paired B1 lessons 21–30; then 31–40 and 41–50; add cumulative revision and end-of-level assessment only after the full 50-lesson sequence is authored.
