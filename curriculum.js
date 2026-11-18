@@ -136,3 +136,14 @@ export const C1_BATCH_41_50_STATUS = {
   remainingC1Lessons: 0,
   remainingValidation: ["fluent Serbian and English editorial review", "review Sinhala translations and approximate pronunciation readings", "review final assessment answer alignment and distractors", "CI and Android device verification"]
 };
+
+
+// C1 cumulative revision and practice final assessments are integrated in Learn.
+export const C1_ASSESSMENT_STATUS = {
+  pairedRevisionQuestions: { Serbian: 10, English: 10 },
+  pairedFinalExamQuestions: { Serbian: 20, English: 20 },
+  finalExamComposition: { vocabulary: 14, listening: 6 },
+  suggestedPassThresholdPercent: 70,
+  speakingAssessment: "guided self-practice; not automatically graded",
+  remainingValidation: ["fluent-speaker review of Serbian and English items", "review Sinhala translations and pronunciation guides", "CI, Expo build and Android device verification"]
+};
