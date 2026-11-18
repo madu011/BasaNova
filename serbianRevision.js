@@ -26,4 +26,8 @@ export const SERBIAN_A1_MIXED_REVISION = [
  {audio:"Želim da zakažem termin.",reading:"ෂෙලිම් දා සාකාෂෙම් තෙර්මින්.",options:["මට හමුවීමක් සඳහා වේලාවක් වෙන් කරගන්න ඕනේ.","මට බස් ටිකට් එකක් ඕනේ.","මම අද වැඩ කරනවා."],answer:0},
  {audio:"Imate li slobodnu sobu?",reading:"ඉමාතෙ ලි ස්ලොබොද්නු සොබු?",options:["ඔබට හිස් කාමරයක් තිබෙනවාද?","ඔබට කෝපි ඕනේද?","බස් නැවතුම්පොළ කොහෙද?"],answer:0},
  {audio:"Želim da rezervišem sobu.",reading:"ෂෙලිම් දා රෙසෙර්විෂෙම් සොබු.",options:["මට කාමරයක් වෙන් කරගන්න ඕනේ.","මට ටිකට්පතක් ඕනේ.","මට වැඩට යන්න ඕනේ."],answer:0}
+ ,
+ {prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Jednu kafu i jedan sendvič, molim.”",audio:"Jednu kafu i jedan sendvič, molim.",options:["කෝපි එකක් සහ සැන්ඩ්විච් එකක්, කරුණාකර.","බිල දෙන්න, කරුණාකර.","මට වතුර එපා."],readings:["යෙද්නු කාෆු ඉ යෙදාන් සෙන්ද්විච්, මොලීම්.","රාචුන්, මොලීම්.","නේ, වොදු."],answer:0,meaning:"Jednu kafu i jedan sendvič, molim. = කෝපි එකක් සහ සැන්ඩ්විච් එකක්, කරුණාකර."},
+ {prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Možete li da ponovite?”",audio:"Možete li da ponovite?",options:["ඔබට නැවත කියන්න පුළුවන්ද?","මට කෝපි එකක් ඕනේ.","බස් රථය ප්‍රමාදයි."],readings:["මොෂෙතෙ ලි දා පොනොවිතෙ?","ෂෙලිම් කාෆු.","ආවුතොබුස් കാസ්නි."],answer:0,meaning:"Možete li da ponovite? = ඔබට නැවත කියන්න පුළුවන්ද?"}
+
 ];
