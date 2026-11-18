@@ -313,3 +313,13 @@
 - Current batch workflows: Expo validation run `44322886065`; Android APK build run `44322885943`. Both were in progress at the last check. Do not claim pass or APK artifact until checked.
 - No physical Android device test has been performed. Sinhala pronunciation spellings are approximations and require fluent-speaker review.
 - Next: verify both current workflows; audit A1 syllabus coverage and lesson schema alignment; add matched Serbian/English cumulative A1 final tests and connect them to the Learn UI; only then mark A1 lessons complete. After that, start paired A2 content. Do not imply A2–C2 courses are complete.
+
+### A1 mixed revision update — lessons 40–42
+- Extended the Serbian A1 mixed revision with listening questions for card payment, city distance/directions and a slippery floor warning.
+- Extended the English A1 mixed revision with the matching three listening questions and Sinhala-script pronunciation.
+- Updated both revision section headings to avoid the old lesson 1–20 label. This is cumulative mixed practice, not yet a scored final A1 examination.
+- Serbian revision commit: `eb71471bdc5fe3be7d55a986c5dedb52a372843e`; app integration commit: `3dcd679b939bd181c707290fe49673e91c99805a`.
+- CI runs for these latest commits are queued/pending at the time of this note. No APK or device test is confirmed.
+
+- Latest CI runs: Expo validation `44323110932` and Android APK build `44323110978` for App commit `3dcd679b939bd181c707290fe49673e91c99805a`; Expo validation `44323100283` and Android APK build `44323100494` for revision data commit `eb71471bdc5fe3be7d55a986c5dedb52a372843e`. They were queued/pending when checked.
+- Immediate next task: check these runs and fix any errors; then complete a proper A1 syllabus map and scored end-of-level assessments for both languages. Do not mark A1 complete yet, and do not claim A2–C2 lesson content exists.
