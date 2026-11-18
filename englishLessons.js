@@ -1179,4 +1179,111 @@ practice:[
 {prompt:"Choose “ඊළඟ සතියේ”.",options:["Last week","Next week","Every week"],readings:["ලාස්ට් වීක්","නෙක්ස්ට් වීක්","එව්රි වීක්"],answer:1,explanation:"Next week = ඊළඟ සතියේ."},
 {prompt:"Choose “මට කාලසටහන පරීක්ෂා කරන්න ඕනේ”.",options:["I need to check the schedule.","I need to change the manager.","I need to start work."],readings:["අයි නීඩ් ටු චෙක් දි ස්කෙජූල්.","අයි නීඩ් ටු චේන්ජ් දි මැනේජර්.","අයි නීඩ් ටු ස්ටාර්ට් වර්ක්."],answer:0,explanation:"I need to check the schedule = මට කාලසටහන පරීක්ෂා කරන්න ඕනේ."}]}
 
+
+,
+{id:"en-a1-u9-l1",unit:"Phone calls",title:"Lesson 34 · Phone calls",objective:"Introduce yourself on the phone, ask for someone and say that you will call again later.",
+vocabulary:[
+{word:"Phone",reading:"ෆෝන්",meaning:"දුරකථනය",example:"My phone is ringing.",exampleReading:"මයි ෆෝන් ඉස් රිංගිං.",translation:"මගේ දුරකථනය නාද වෙනවා."},
+{word:"Call",reading:"කෝල්",meaning:"ඇමතුමක් දීම",example:"Can I call you?",exampleReading:"කැන් අයි කෝල් යූ?",translation:"මට ඔයාට ඇමතුමක් දෙන්න පුළුවන්ද?"},
+{word:"Answer",reading:"ආන්සර්",meaning:"පිළිතුරු දීම",example:"I can't answer now.",exampleReading:"අයි කාන්ට් ආන්සර් නව්.",translation:"මට දැන් පිළිතුරු දෙන්න බැහැ."},
+{word:"Who is speaking?",reading:"හූ ඉස් ස්පීකිං?",meaning:"කවුද කතා කරන්නේ?",example:"Hello, who is speaking?",exampleReading:"හෙලෝ, හූ ඉස් ස්පීකිං?",translation:"හෙලෝ, කවුද කතා කරන්නේ?"},
+{word:"At the moment",reading:"ඇට් දි මෝමන්ට්",meaning:"මේ මොහොතේ",example:"She is busy at the moment.",exampleReading:"ෂී ඉස් බිසි ඇට් දි මෝමන්ට්.",translation:"ඇය මේ මොහොතේ කාර්යබහුලයි."},
+{word:"Later",reading:"ලේටර්",meaning:"පසුව",example:"I'll call you later.",exampleReading:"අයිල් කෝල් යූ ලේටර්.",translation:"මම ඔයාට පසුව කතා කරන්නම්."},
+{word:"Message",reading:"මෙසිජ්",meaning:"පණිවිඩය",example:"Can I leave a message?",exampleReading:"කැන් අයි ලීව් අ මෙසිජ්?",translation:"මට පණිවිඩයක් තබන්න පුළුවන්ද?"},
+{word:"Talk soon",reading:"ටෝක් සූන්",meaning:"ඉක්මනින් නැවත කතා කරමු",example:"Okay, talk soon.",exampleReading:"ඕකේ, ටෝක් සූන්.",translation:"හරි, ඉක්මනින් නැවත කතා කරමු."}],
+grammarTitle:"Grammar · Speaking on the phone",grammar:"Use “Hello, this is ...” to introduce yourself. Ask “May I speak to ...?” when requesting someone. Use “I'll call you later” when you cannot talk now. “Can I leave a message?” asks permission to pass on information.",
+grammarTerms:[
+{text:"Hello, this is Nimal.",reading:"හෙලෝ, දිස් ඉස් නිමල්.",meaning:"හෙලෝ, මේ නිමල්."},
+{text:"May I speak to Ana?",reading:"මේ අයි ස්පීක් ටු ආනා?",meaning:"මට ආනා සමඟ කතා කරන්න පුළුවන්ද?"},
+{text:"She is busy at the moment.",reading:"ෂී ඉස් බිසි ඇට් දි මෝමන්ට්.",meaning:"ඇය මේ මොහොතේ කාර්යබහුලයි."},
+{text:"I'll call you later.",reading:"අයිල් කෝල් යූ ලේටර්.",meaning:"මම ඔයාට පසුව කතා කරන්නම්."}],
+examples:[
+{text:"Hello, this is Mark.",reading:"හෙලෝ, දිස් ඉස් මාර්ක්.",meaning:"හෙලෝ, මේ මාර්ක්."},
+{text:"May I speak to the manager?",reading:"මේ අයි ස්පීක් ටු දි මැනේජර්?",meaning:"මට කළමනාකරු සමඟ කතා කරන්න පුළුවන්ද?"},
+{text:"I can't talk right now.",reading:"අයි කාන්ට් ටෝක් රයිට් නව්.",meaning:"මට දැන් කතා කරන්න බැහැ."},
+{text:"Please leave a message.",reading:"ප්ලීස් ලීව් අ මෙසිජ්.",meaning:"කරුණාකර පණිවිඩයක් තබන්න."}],
+dialogue:[
+{text:"Hello, good morning. This is Alex.",reading:"හෙලෝ, ගුඩ් මෝර්නින්. දිස් ඉස් ඇලෙක්ස්.",meaning:"හෙලෝ, සුබ උදෑසනක්. මේ ඇලෙක්ස්."},
+{text:"Good morning. May I speak to Ana?",reading:"ගුඩ් මෝර්නින්. මේ අයි ස්පීක් ටු ආනා?",meaning:"සුබ උදෑසනක්. මට ආනා සමඟ කතා කරන්න පුළුවන්ද?"},
+{text:"She is busy at the moment.",reading:"ෂී ඉස් බිසි ඇට් දි මෝමන්ට්.",meaning:"ඇය මේ මොහොතේ කාර්යබහුලයි."},
+{text:"Can I leave a message?",reading:"කැන් අයි ලීව් අ මෙසිජ්?",meaning:"මට පණිවිඩයක් තබන්න පුළුවන්ද?"},
+{text:"Of course. What would you like to say?",reading:"ඔෆ් කෝර්ස්. වොට් වුඩ් යූ ලයික් ටු සේ?",meaning:"අනිවාර්යයෙන්. ඔබට කියන්න ඕනේ මොකක්ද?"},
+{text:"Please tell her I'll call later. Thank you.",reading:"ප්ලීස් ටෙල් හර් අයිල් කෝල් ලේටර්. තෑන්ක් යූ.",meaning:"මම පසුව කතා කරන්නම් කියලා ඇයට කියන්න. ස්තුතියි."}],
+listeningPractice:{prompt:"Listen and choose the correct Sinhala meaning: “I'll call you later.”",audio:"I'll call you later.",options:["මම ඔයාට පසුව කතා කරන්නම්.","මම දැන් එනවා.","මට පණිවිඩයක් ඕනේ."],readings:["අයිල් කෝල් යූ ලේටර්.","අයිම් කමින් නව්.","අයි නීඩ් අ මෙසිජ්."],answer:0,meaning:"I'll call you later = මම ඔයාට පසුව කතා කරන්නම්."},
+practice:[
+{prompt:"Choose the English word for “පණිවිඩය”.",options:["Message","Phone","Answer"],readings:["මෙසිජ්","ෆෝන්","ආන්සර්"],answer:0,explanation:"Message = පණිවිඩය."},
+{prompt:"How do you ask “මට ආනා සමඟ කතා කරන්න පුළුවන්ද?”",options:["May I speak to Ana?","Where is Ana?","Is Ana working?"],readings:["මේ අයි ස්පීක් ටු ආනා?","වෙයාර් ඉස් ආනා?","ඉස් ආනා වර්කිං?"],answer:0,explanation:"May I speak to Ana? = මට ආනා සමඟ කතා කරන්න පුළුවන්ද?"},
+{prompt:"Choose “මම ඔයාට පසුව කතා කරන්නම්”.",options:["I'll call you later.","I'll see you yesterday.","I can't hear you."],readings:["අයිල් කෝල් යූ ලේටර්.","අයිල් සී යූ යෙස්ටර්ඩේ.","අයි කාන්ට් හියර් යූ."],answer:0,explanation:"I'll call you later = මම ඔයාට පසුව කතා කරන්නම්."},
+{prompt:"How do you ask to leave information?",options:["Can I leave a message?","Can I buy a phone?","Can I go home?"],readings:["කැන් අයි ලීව් අ මෙසිජ්?","කැන් අයි බයි අ ෆෝන්?","කැන් අයි ගෝ හෝම්?"],answer:0,explanation:"Can I leave a message? = මට පණිවිඩයක් තබන්න පුළුවන්ද?"}]}
+,
+{id:"en-a1-u9-l2",unit:"Weather and clothes",title:"Lesson 35 · Weather and clothes",objective:"Describe the weather and talk about clothes you may need.",
+vocabulary:[
+{word:"Weather",reading:"වෙදර්",meaning:"කාලගුණය",example:"What's the weather like today?",exampleReading:"වොට්ස් දි වෙදර් ලයික් ටුඩේ?",translation:"අද කාලගුණය කොහොමද?"},
+{word:"Sunny",reading:"සනී",meaning:"අව්ව සහිත",example:"It is sunny today.",exampleReading:"ඉට් ඉස් සනී ටුඩේ.",translation:"අද අව්ව තියෙනවා."},
+{word:"Rain",reading:"රේන්",meaning:"වැස්ස",example:"It is raining.",exampleReading:"ඉට් ඉස් රේනින්.",translation:"වැස්ස වැටෙනවා."},
+{word:"Cold",reading:"කෝල්ඩ්",meaning:"සීතලයි",example:"It is cold outside.",exampleReading:"ඉට් ඉස් කෝල්ඩ් අවුට්සයිඩ්.",translation:"එළියේ සීතලයි."},
+{word:"Warm",reading:"වෝර්ම්",meaning:"උණුසුම්",example:"It is warm today.",exampleReading:"ඉට් ඉස් වෝර්ම් ටුඩේ.",translation:"අද උණුසුම්."},
+{word:"Jacket",reading:"ජැකට්",meaning:"ජැකට්ටුව",example:"Take your jacket.",exampleReading:"ටේක් යෝර් ජැකට්.",translation:"ඔයාගේ ජැකට්ටුව ගන්න."},
+{word:"Umbrella",reading:"අම්බ්‍රෙලා",meaning:"කුඩය",example:"I need an umbrella.",exampleReading:"අයි නීඩ් ඇන් අම්බ්‍රෙලා.",translation:"මට කුඩයක් ඕනේ."},
+{word:"Wear",reading:"වෙයාර්",meaning:"ඇඳගෙන ඉන්නවා",example:"What should I wear?",exampleReading:"වොට් ෂුඩ් අයි වෙයාර්?",translation:"මම මොනවාද අඳින්න ඕනේ?"}],
+grammarTitle:"Grammar · Describing the weather",grammar:"Use “It's ...” to describe weather: “It's sunny”, “It's cold”. Use “It's raining” for rain happening now. “Take a jacket” or “Bring an umbrella” gives a simple suggestion.",
+grammarTerms:[
+{text:"What's the weather like today?",reading:"වොට්ස් දි වෙදර් ලයික් ටුඩේ?",meaning:"අද කාලගුණය කොහොමද?"},
+{text:"It is sunny today.",reading:"ඉට් ඉස් සනී ටුඩේ.",meaning:"අද අව්ව තියෙනවා."},
+{text:"It is cold outside.",reading:"ඉට් ඉස් කෝල්ඩ් අවුට්සයිඩ්.",meaning:"එළියේ සීතලයි."},
+{text:"Take your jacket.",reading:"ටේක් යෝර් ජැකට්.",meaning:"ඔයාගේ ජැකට්ටුව ගන්න."}],
+examples:[
+{text:"It is raining today.",reading:"ඉට් ඉස් රේනින් ටුඩේ.",meaning:"අද වැස්ස වැටෙනවා."},
+{text:"It is cold in the morning but warm in the afternoon.",reading:"ඉට් ඉස් කෝල්ඩ් ඉන් දි මෝර්නින් බට් වෝර්ම් ඉන් දි ආෆ්ටර්නූන්.",meaning:"උදේ සීතලයි, නමුත් දවල් උණුසුම්."},
+{text:"Bring an umbrella, please.",reading:"බ්‍රිං ඇන් අම්බ්‍රෙලා, ප්ලීස්.",meaning:"කරුණාකර කුඩයක් රැගෙන එන්න."},
+{text:"I don't know what to wear.",reading:"අයි ඩෝන්ට් නෝ වොට් ටු වෙයාර්.",meaning:"මම මොනවා අඳින්නද කියලා දන්නේ නැහැ."}],
+dialogue:[
+{text:"What's the weather like today?",reading:"වොට්ස් දි වෙදර් ලයික් ටුඩේ?",meaning:"අද කාලගුණය කොහොමද?"},
+{text:"It's raining and quite cold.",reading:"ඉට්ස් රේනින් ඇන්ඩ් ක්වයිට් කෝල්ඩ්.",meaning:"වැස්ස වැටෙනවා, සෑහෙන්න සීතලයි."},
+{text:"Should I take a jacket?",reading:"ෂුඩ් අයි ටේක් අ ජැකට්?",meaning:"මම ජැකට්ටුවක් ගන්න ඕනෙද?"},
+{text:"Yes, and bring an umbrella.",reading:"යෙස්, ඇන්ඩ් බ්‍රිං ඇන් අම්බ්‍රෙලා.",meaning:"ඔව්, කුඩයක් රැගෙන එන්න."},
+{text:"Will it be sunny tomorrow?",reading:"විල් ඉට් බී සනී ටුමොරෝ?",meaning:"හෙට අව්ව තියෙයිද?"},
+{text:"I think so. Have a nice day!",reading:"අයි තිංක් සෝ. හැව් අ නයිස් ඩේ!",meaning:"මම හිතන්නේ ඔව්. සුබ දවසක්!"}],
+listeningPractice:{prompt:"Listen and choose the correct Sinhala meaning: “It is raining.”",audio:"It is raining.",options:["වැස්ස වැටෙනවා.","අව්ව තියෙනවා.","සුළඟ නැහැ."],readings:["ඉට් ඉස් රේනින්.","ඉට් ඉස් සනී.","දෙයාර් ඉස් නෝ වින්ඩ්."],answer:0,meaning:"It is raining = වැස්ස වැටෙනවා."},
+practice:[
+{prompt:"Choose the English word for “කුඩය”.",options:["Umbrella","Jacket","Shoes"],readings:["අම්බ්‍රෙලා","ජැකට්","ෂූස්"],answer:0,explanation:"Umbrella = කුඩය."},
+{prompt:"How do you say “අද අව්ව තියෙනවා”?",options:["It is sunny today.","It is raining today.","It is cold today."],readings:["ඉට් ඉස් සනී ටුඩේ.","ඉට් ඉස් රේනින් ටුඩේ.","ඉට් ඉස් කෝල්ඩ් ටුඩේ."],answer:0,explanation:"It is sunny today = අද අව්ව තියෙනවා."},
+{prompt:"Choose “එළියේ සීතලයි”.",options:["It is warm outside.","It is cold outside.","It is sunny outside."],readings:["ඉට් ඉස් වෝර්ම් අවුට්සයිඩ්.","ඉට් ඉස් කෝල්ඩ් අවුට්සයිඩ්.","ඉට් ඉස් සනී අවුට්සයිඩ්."],answer:1,explanation:"It is cold outside = එළියේ සීතලයි."},
+{prompt:"How do you say “මම මොනවාද අඳින්න ඕනේ?”",options:["What should I wear?","Where should I go?","What should I buy?"],readings:["වොට් ෂුඩ් අයි වෙයාර්?","වෙයාර් ෂුඩ් අයි ගෝ?","වොට් ෂුඩ් අයි බයි?"],answer:0,explanation:"What should I wear? = මම මොනවාද අඳින්න ඕනේ?"}]}
+,
+{id:"en-a1-u9-l3",unit:"Choosing food at a café",title:"Lesson 36 · Choosing food at a café",objective:"Choose food or a drink, ask about ingredients and express simple preferences.",
+vocabulary:[
+{word:"Menu",reading:"මෙනියු",meaning:"ආහාර මෙනුව",example:"Can I see the menu?",exampleReading:"කැන් අයි සී දි මෙනියු?",translation:"මට මෙනුව බලන්න පුළුවන්ද?"},
+{word:"Recommendation",reading:"රෙකමෙන්ඩේෂන්",meaning:"නිර්දේශය",example:"What do you recommend?",exampleReading:"වොට් ඩූ යූ රෙකමෙන්ඩ්?",translation:"ඔබ නිර්දේශ කරන්නේ මොකක්ද?"},
+{word:"Ingredient",reading:"ඉන්ග්‍රීඩියන්ට්",meaning:"අමුද්‍රව්‍යය",example:"What are the ingredients?",exampleReading:"වොට් ආර් දි ඉන්ග්‍රීඩියන්ට්ස්?",translation:"අමුද්‍රව්‍ය මොනවාද?"},
+{word:"Without meat",reading:"විදවුට් මීට්",meaning:"මස් නැතුව",example:"I'd like a meal without meat.",exampleReading:"අයිඩ් ලයික් අ මීල් විදවුට් මීට්.",translation:"මට මස් නැති කෑමක් ඕනේ."},
+{word:"Spicy",reading:"ස්පයිසි",meaning:"සැර",example:"Is this spicy?",exampleReading:"ඉස් දිස් ස්පයිසි?",translation:"මේක සැරද?"},
+{word:"Sweet",reading:"ස්වීට්",meaning:"පැණි රස",example:"I would like something sweet.",exampleReading:"අයි වුඩ් ලයික් සම්තිං ස්වීට්.",translation:"මට පැණි රස දෙයක් ඕනේ."},
+{word:"Delicious",reading:"ඩිලිෂස්",meaning:"රසවත්",example:"This is delicious.",exampleReading:"දිස් ඉස් ඩිලිෂස්.",translation:"මේක රසවත්."},
+{word:"Allergy",reading:"ඇලර්ජි",meaning:"අසාත්මිකතාව",example:"I have a nut allergy.",exampleReading:"අයි හැව් අ නට් ඇලර්ජි.",translation:"මට ගෙඩි වර්ග අසාත්මිකයි."}],
+grammarTitle:"Grammar · Choosing food and asking about ingredients",grammar:"Use “What do you recommend?” to ask for a suggestion. “Without ...” means you do not want an ingredient. Ask “Is this spicy?” to check a dish. If you have an allergy, explain it clearly before ordering.",
+grammarTerms:[
+{text:"What do you recommend?",reading:"වොට් ඩූ යූ රෙකමෙන්ඩ්?",meaning:"ඔබ නිර්දේශ කරන්නේ මොකක්ද?"},
+{text:"I'd like a meal without meat.",reading:"අයිඩ් ලයික් අ මීල් විදවුට් මීට්.",meaning:"මට මස් නැති කෑමක් ඕනේ."},
+{text:"Is this spicy?",reading:"ඉස් දිස් ස්පයිසි?",meaning:"මේක සැරද?"},
+{text:"I have a nut allergy.",reading:"අයි හැව් අ නට් ඇලර්ජි.",meaning:"මට ගෙඩි වර්ග අසාත්මිකයි."}],
+examples:[
+{text:"Can I see the menu, please?",reading:"කැන් අයි සී දි මෙනියු, ප්ලීස්?",meaning:"කරුණාකර මට මෙනුව බලන්න පුළුවන්ද?"},
+{text:"Does this dish contain meat?",reading:"ඩස් දිස් ඩිෂ් කන්ටේන් මීට්?",meaning:"මේ කෑමට මස් අඩංගුද?"},
+{text:"No spicy sauce, please.",reading:"නෝ ස්පයිසි සෝස්, ප්ලීස්.",meaning:"කරුණාකර සැර සෝස් එපා."},
+{text:"Thank you, it was delicious.",reading:"තෑන්ක් යූ, ඉට් වොස් ඩිලිෂස්.",meaning:"ස්තුතියි, ඒක රසවත්."}],
+dialogue:[
+{text:"Good afternoon. Can I see the menu?",reading:"ගුඩ් ආෆ්ටර්නූන්. කැන් අයි සී දි මෙනියු?",meaning:"සුබ සන්ධ්‍යාවක්. මට මෙනුව බලන්න පුළුවන්ද?"},
+{text:"Of course. Here you are.",reading:"ඔෆ් කෝර්ස්. හියර් යූ ආර්.",meaning:"අනිවාර්යයෙන්. මෙන්න."},
+{text:"What do you recommend?",reading:"වොට් ඩූ යූ රෙකමෙන්ඩ්?",meaning:"ඔබ නිර්දේශ කරන්නේ මොකක්ද?"},
+{text:"This dish is very popular.",reading:"දිස් ඩිෂ් ඉස් වෙරි පොපියුලර්.",meaning:"මේ කෑම ඉතා ජනප්‍රියයි."},
+{text:"Does it contain nuts?",reading:"ඩස් ඉට් කන්ටේන් නට්ස්?",meaning:"මේකට ගෙඩි වර්ග අඩංගුද?"},
+{text:"No, it doesn't. Enjoy your meal!",reading:"නෝ, ඉට් ඩසන්ට්. එන්ජෝයි යෝර් මීල්!",meaning:"නැහැ, අඩංගු නැහැ. රස විඳින්න!"}],
+listeningPractice:{prompt:"Listen and choose the correct Sinhala meaning: “What do you recommend?”",audio:"What do you recommend?",options:["ඔබ නිර්දේශ කරන්නේ මොකක්ද?","මේක කීයද?","මට වතුර ඕනේ."],readings:["වොට් ඩූ යූ රෙකමෙන්ඩ්?","හවු මච් ඉස් දිස්?","අයි නීඩ් වෝටර්."],answer:0,meaning:"What do you recommend? = ඔබ නිර්දේශ කරන්නේ මොකක්ද?"},
+practice:[
+{prompt:"Choose the English word for “මෙනුව”.",options:["Menu","Bill","Table"],readings:["මෙනියු","බිල්","ටේබල්"],answer:0,explanation:"Menu = මෙනුව."},
+{prompt:"How do you ask “මේක සැරද?”",options:["Is this spicy?","Is this sweet?","Is this ready?"],readings:["ඉස් දිස් ස්පයිසි?","ඉස් දිස් ස්වීට්?","ඉස් දිස් රෙඩි?"],answer:0,explanation:"Is this spicy? = මේක සැරද?"},
+{prompt:"Choose “මස් නැතුව”.",options:["Without meat","With meat","Without water"],readings:["විදවුට් මීට්","විත් මීට්","විදවුට් වෝටර්"],answer:0,explanation:"Without meat = මස් නැතුව."},
+{prompt:"Choose the word for “අමුද්‍රව්‍ය”.",options:["Ingredients","Recommendation","Menu"],readings:["ඉන්ග්‍රීඩියන්ට්ස්","රෙකමෙන්ඩේෂන්","මෙනියු"],answer:0,explanation:"Ingredients = අමුද්‍රව්‍ය."}]}
+
 ];
