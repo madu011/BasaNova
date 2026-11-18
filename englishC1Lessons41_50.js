@@ -511,7 +511,7 @@ export const ENGLISH_C1_LESSONS_41_50 = [
       },
       {
         "word": "exposure",
-        "reading": "එxප්ඔස්අර්එ",
+        "reading": "එක්ස්ප්ඔස්අර්එ",
         "meaning": "නිරාවරණය",
         "example": "Biodiversity loss can increase ecosystem vulnerability.",
         "translation": "ජෛව විවිධත්වය අහිමි වීම පරිසර පද්ධතියේ අවදානම වැඩි කළ හැකිය."
@@ -579,7 +579,7 @@ export const ENGLISH_C1_LESSONS_41_50 = [
     "dialogue": [
       {
         "text": "Which communities face the greatest exposure?",
-        "reading": "ව්හ්ඉච් ක්ඔම්ම්අන්ඉට්ඉඑස් ෆ්ඇක්එ ත්එ ග්ර්එඇට්එස්ට් එxප්ඔස්අර්එ?",
+        "reading": "ව්හ්ඉච් ක්ඔම්ම්අන්ඉට්ඉඑස් ෆ්ඇක්එ ත්එ ග්ර්එඇට්එස්ට් එක්ස්ප්ඔස්අර්එ?",
         "meaning": "වැඩිම නිරාවරණයකට මුහුණ දෙන්නේ කුමන ප්‍රජාවන්ද?"
       },
       {
@@ -742,17 +742,17 @@ export const ENGLISH_C1_LESSONS_41_50 = [
     "dialogue": [
       {
         "text": "Why has adoption been slower than expected?",
-        "reading": "ව්හ්යි හ්ඇස් ඇඩ්ඔප්ෂන් බ්ඊන් ස්ල්ඔව්එර් ත්ඇන් එxප්එක්ට්එඩ්?",
+        "reading": "ව්හ්යි හ්ඇස් ඇඩ්ඔප්ෂන් බ්ඊන් ස්ල්ඔව්එර් ත්ඇන් එක්ස්ප්එක්ට්එඩ්?",
         "meaning": "භාවිතයට ගැනීම අපේක්ෂා කළාට වඩා මන්දගාමී වූයේ ඇයි?"
       },
       {
         "text": "The workflow was not explained clearly.",
-        "reading": "ත්එ ව්ඔර්ක්ෆ්ල්ඔව් ව්ඇස් න්ඔට් එxප්ල්ඇඉන්එඩ් ක්ල්එඇර්ල්යි.",
+        "reading": "ත්එ ව්ඔර්ක්ෆ්ල්ඔව් ව්ඇස් න්ඔට් එක්ස්ප්ල්ඇඉන්එඩ් ක්ල්එඇර්ල්යි.",
         "meaning": "වැඩ ප්‍රවාහය පැහැදිලිව විස්තර කර නොතිබුණි."
       },
       {
         "text": "Should we expand the pilot?",
-        "reading": "ෂ්ඔඅල්ඩ් ව්එ එxප්ඇන්ඩ් ත්එ ප්ඉල්ඔට්?",
+        "reading": "ෂ්ඔඅල්ඩ් ව්එ එක්ස්ප්ඇන්ඩ් ත්එ ප්ඉල්ඔට්?",
         "meaning": "අත්හදා බැලීම පුළුල් කළ යුතුද?"
       },
       {
@@ -888,7 +888,7 @@ export const ENGLISH_C1_LESSONS_41_50 = [
       },
       {
         "text": "A confounder may explain the observed association.",
-        "reading": "ඇ ක්ඔන්ෆ්ඔඅන්ඩ්එර් ම්ඇයි එxප්ල්ඇඉන් ත්එ ඔබ්ස්එර්ව්එඩ් ඇස්ස්ඔක්ඉඇෂන්.",
+        "reading": "ඇ ක්ඔන්ෆ්ඔඅන්ඩ්එර් ම්ඇයි එක්ස්ප්ල්ඇඉන් ත්එ ඔබ්ස්එර්ව්එඩ් ඇස්ස්ඔක්ඉඇෂන්.",
         "meaning": "නිරීක්ෂිත සම්බන්ධතාවය ව්‍යාකූලකාරක සාධකයක් මඟින් පැහැදිලි කළ හැකිය."
       },
       {
@@ -898,7 +898,7 @@ export const ENGLISH_C1_LESSONS_41_50 = [
       },
       {
         "text": "The findings require independent replication.",
-        "reading": "ත්එ ෆ්ඉන්ඩ්ඉන්ග්ස් ර්එqඅඉර්එ ඉන්ඩ්එප්එන්ඩ්එන්ට් ර්එප්ල්ඉක්ඇෂන්.",
+        "reading": "ත්එ ෆ්ඉන්ඩ්ඉන්ග්ස් ර්එක්අඉර්එ ඉන්ඩ්එප්එන්ඩ්එන්ට් ර්එප්ල්ඉක්ඇෂන්.",
         "meaning": "සොයාගැනීම් ස්වාධීනව නැවත පරීක්ෂා කළ යුතුය."
       }
     ],
@@ -910,7 +910,7 @@ export const ENGLISH_C1_LESSONS_41_50 = [
       },
       {
         "text": "Not without ruling out alternative explanations.",
-        "reading": "න්ඔට් ව්ඉත්ඔඅට් ර්අල්ඉං ඔඅට් ඇල්ට්එර්න්ඇට්ඉව්එ එxප්ල්ඇන්ඇට්ඉඔන්ස්.",
+        "reading": "න්ඔට් ව්ඉත්ඔඅට් ර්අල්ඉං ඔඅට් ඇල්ට්එර්න්ඇට්ඉව්එ එක්ස්ප්ල්ඇන්ඇට්ඉඔන්ස්.",
         "meaning": "විකල්ප පැහැදිලි කිරීම් ඉවත් නොකර එසේ කිව නොහැකිය."
       },
       {
@@ -927,7 +927,7 @@ export const ENGLISH_C1_LESSONS_41_50 = [
     "listeningPractice": {
       "prompt": "Listen and choose the most accurate interpretation.",
       "audio": "Correlation alone does not establish causality. A confounder may explain the observed association. Longitudinal data can reveal changes over time. The findings require independent replication.",
-      "reading": "ක්ඔර්ර්එල්ඇෂන් ඇල්ඔන්එ ඩ්ඔඑස් න්ඔට් එස්ට්ඇබ්ල්ඉෂ් ක්ඇඅස්ඇල්ඉට්යි. ඇ ක්ඔන්ෆ්ඔඅන්ඩ්එර් ම්ඇයි එxප්ල්ඇඉන් ත්එ ඔබ්ස්එර්ව්එඩ් ඇස්ස්ඔක්ඉඇෂන්. ල්ඔන්ග්ඉට්අඩ්ඉන්ඇල් ඩ්ඇට්ඇ ක්ඇන් ර්එව්එඇල් ච්ඇන්ග්එස් ඔව්එර් ට්ඉම්එ. ත්එ ෆ්ඉන්ඩ්ඉන්ග්ස් ර්එqඅඉර්එ ඉන්ඩ්එප්එන්ඩ්එන්ට් ර්එප්ල්ඉක්ඇෂන්.",
+      "reading": "ක්ඔර්ර්එල්ඇෂන් ඇල්ඔන්එ ඩ්ඔඑස් න්ඔට් එස්ට්ඇබ්ල්ඉෂ් ක්ඇඅස්ඇල්ඉට්යි. ඇ ක්ඔන්ෆ්ඔඅන්ඩ්එර් ම්ඇයි එක්ස්ප්ල්ඇඉන් ත්එ ඔබ්ස්එර්ව්එඩ් ඇස්ස්ඔක්ඉඇෂන්. ල්ඔන්ග්ඉට්අඩ්ඉන්ඇල් ඩ්ඇට්ඇ ක්ඇන් ර්එව්එඇල් ච්ඇන්ග්එස් ඔව්එර් ට්ඉම්එ. ත්එ ෆ්ඉන්ඩ්ඉන්ග්ස් ර්එක්අඉර්එ ඉන්ඩ්එප්එන්ඩ්එන්ට් ර්එප්ල්ඉක්ඇෂන්.",
       "options": [
         "සහසම්බන්ධතාව පමණක් හේතුකාරකත්වය තහවුරු නොකරයි. නිරීක්ෂිත සම්බන්ධතාවය ව්‍යාකූලකාරක සාධකයක් මඟින් පැහැදිලි කළ හැකිය.",
         "All claims are completely certain.",
@@ -1007,7 +1007,7 @@ export const ENGLISH_C1_LESSONS_41_50 = [
       },
       {
         "word": "subtext",
-        "reading": "ස්අබ්ට්එxට්",
+        "reading": "ස්අබ්ට්එක්ස්ට්",
         "meaning": "යටිපෙළ අර්ථය",
         "example": "Several interpretations remain plausible.",
         "translation": "අර්ථකථන කිහිපයක්ම පිළිගත හැකිව පවතී."
@@ -1073,7 +1073,7 @@ export const ENGLISH_C1_LESSONS_41_50 = [
       },
       {
         "text": "The text gives reasons to doubt that.",
-        "reading": "ත්එ ට්එxට් ග්ඉව්එස් ර්එඇස්ඔන්ස් ට්ඔ ඩ්ඔඅබ්ට් ත්ඇට්.",
+        "reading": "ත්එ ට්එක්ස්ට් ග්ඉව්එස් ර්එඇස්ඔන්ස් ට්ඔ ඩ්ඔඅබ්ට් ත්ඇට්.",
         "meaning": "එය සැක කිරීමට පාඨය හේතු සපයයි."
       },
       {
@@ -1231,7 +1231,7 @@ export const ENGLISH_C1_LESSONS_41_50 = [
     "dialogue": [
       {
         "text": "When will the next update be issued?",
-        "reading": "ව්හ්එන් ව්ඉල්ල් ත්එ න්එxට් අප්ඩ්ඇට්එ බ්එ ඉස්ස්අඑඩ්?",
+        "reading": "ව්හ්එන් ව්ඉල්ල් ත්එ න්එක්ස්ට් අප්ඩ්ඇට්එ බ්එ ඉස්ස්අඑඩ්?",
         "meaning": "ඊළඟ යාවත්කාලීනය නිකුත් කරන්නේ කවදාද?"
       },
       {
@@ -1312,7 +1312,7 @@ export const ENGLISH_C1_LESSONS_41_50 = [
     "vocabulary": [
       {
         "word": "executive brief",
-        "reading": "එxඑක්අට්ඉව්එ බ්ර්ඉඑෆ්",
+        "reading": "එක්ස්එක්අට්ඉව්එ බ්ර්ඉඑෆ්",
         "meaning": "විධායක සාරාංශය",
         "example": "The executive brief summarises the evidence and decision.",
         "translation": "විධායක සාරාංශය සාක්ෂි සහ තීරණය සාරාංශ කරයි."
@@ -1372,7 +1372,7 @@ export const ENGLISH_C1_LESSONS_41_50 = [
     "examples": [
       {
         "text": "The executive brief summarises the evidence and decision.",
-        "reading": "ත්එ එxඑක්අට්ඉව්එ බ්ර්ඉඑෆ් ස්අම්ම්ඇර්ඉස්එස් ත්එ එව්ඉඩ්එන්ක්එ ඇන්ඩ් ඩ්එක්ඉස්ඉඔන්.",
+        "reading": "ත්එ එක්ස්එක්අට්ඉව්එ බ්ර්ඉඑෆ් ස්අම්ම්ඇර්ඉස්එස් ත්එ එව්ඉඩ්එන්ක්එ ඇන්ඩ් ඩ්එක්ඉස්ඉඔන්.",
         "meaning": "විධායක සාරාංශය සාක්ෂි සහ තීරණය සාරාංශ කරයි."
       },
       {
@@ -1387,7 +1387,7 @@ export const ENGLISH_C1_LESSONS_41_50 = [
       },
       {
         "text": "Monitoring will show whether the expected benefits materialise.",
-        "reading": "ම්ඔන්ඉට්ඔර්ඉං ව්ඉල්ල් ෂ්ඔව් ව්හ්එත්එර් ත්එ එxප්එක්ට්එඩ් බ්එන්එෆ්ඉට්ස් ම්ඇට්එර්ඉඇල්ඉස්එ.",
+        "reading": "ම්ඔන්ඉට්ඔර්ඉං ව්ඉල්ල් ෂ්ඔව් ව්හ්එත්එර් ත්එ එක්ස්ප්එක්ට්එඩ් බ්එන්එෆ්ඉට්ස් ම්ඇට්එර්ඉඇල්ඉස්එ.",
         "meaning": "අපේක්ෂිත ප්‍රතිලාභ සැබෑ වේද යන්න නිරීක්ෂණයෙන් පෙනේ."
       }
     ],
@@ -1416,7 +1416,7 @@ export const ENGLISH_C1_LESSONS_41_50 = [
     "listeningPractice": {
       "prompt": "Listen and choose the most accurate interpretation.",
       "audio": "The executive brief summarises the evidence and decision. Each option should be assessed for feasibility. The recommendation includes an implementation timetable. Monitoring will show whether the expected benefits materialise.",
-      "reading": "ත්එ එxඑක්අට්ඉව්එ බ්ර්ඉඑෆ් ස්අම්ම්ඇර්ඉස්එස් ත්එ එව්ඉඩ්එන්ක්එ ඇන්ඩ් ඩ්එක්ඉස්ඉඔන්. එඇච් ඔප්ෂන් ෂ්ඔඅල්ඩ් බ්එ ඇස්ස්එස්ස්එඩ් ෆ්ඔර් ෆ්එඇස්ඉබ්ඉල්ඉට්යි. ත්එ ර්එක්ඔම්ම්එන්ඩ්ඇෂන් ඉන්ක්ල්අඩ්එස් ඇන් ඉම්ප්ල්එම්එන්ට්ඇෂන් ට්ඉම්එට්ඇබ්ල්එ. ම්ඔන්ඉට්ඔර්ඉං ව්ඉල්ල් ෂ්ඔව් ව්හ්එත්එර් ත්එ එxප්එක්ට්එඩ් බ්එන්එෆ්ඉට්ස් ම්ඇට්එර්ඉඇල්ඉස්එ.",
+      "reading": "ත්එ එක්ස්එක්අට්ඉව්එ බ්ර්ඉඑෆ් ස්අම්ම්ඇර්ඉස්එස් ත්එ එව්ඉඩ්එන්ක්එ ඇන්ඩ් ඩ්එක්ඉස්ඉඔන්. එඇච් ඔප්ෂන් ෂ්ඔඅල්ඩ් බ්එ ඇස්ස්එස්ස්එඩ් ෆ්ඔර් ෆ්එඇස්ඉබ්ඉල්ඉට්යි. ත්එ ර්එක්ඔම්ම්එන්ඩ්ඇෂන් ඉන්ක්ල්අඩ්එස් ඇන් ඉම්ප්ල්එම්එන්ට්ඇෂන් ට්ඉම්එට්ඇබ්ල්එ. ම්ඔන්ඉට්ඔර්ඉං ව්ඉල්ල් ෂ්ඔව් ව්හ්එත්එර් ත්එ එක්ස්ප්එක්ට්එඩ් බ්එන්එෆ්ඉට්ස් ම්ඇට්එර්ඉඇල්ඉස්එ.",
       "options": [
         "විධායක සාරාංශය සාක්ෂි සහ තීරණය සාරාංශ කරයි. සෑම විකල්පයක්ම ක්‍රියාත්මක කළ හැකි බව අනුව ඇගයිය යුතුය.",
         "All claims are completely certain.",
