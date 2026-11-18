@@ -275,3 +275,10 @@ The Cloudflare Worker uses the included `cloudflare/wrangler.toml` rate-limit bi
 - Serbian data commit: `dbdab4eaa242626ce750e1133a49c219449bb1eb`; English data commit: `693ec65c5de98310934bd7b279b96ec27534d80e`.
 - Source-level validation confirmed 40 unique structured lesson objects in each A2 course, matching lesson IDs and required learning sections. No Expo bundle, CI pass, APK build, or Android device test is claimed for this batch.
 - Sinhala-script readings are approximate learner aids and require fluent-speaker review.
+
+
+### Paired A2 lessons 41–45 — 2026-11-18
+- Added five matched Serbian and English A2 lessons: invitations and making plans; work experience and interviews; household problems and repairs; opinions and comparisons; and rules, permission and obligations.
+- Each language lesson includes eight vocabulary entries with Sinhala-script pronunciation and Sinhala meaning, a Sinhala-supported grammar note and phrase, three examples, a four-line dialogue, one listening check and four practice questions.
+- Serbian lesson IDs: `sr-a2-l41` through `sr-a2-l45`; English lesson IDs: `en-a2-l41` through `en-a2-l45`.
+- Sinhala-script readings are approximate learner aids and need fluent-speaker review. No build, APK, or device test is claimed by this content update.
