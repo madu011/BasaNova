@@ -317,3 +317,8 @@ BasaNova now includes 40 paired Serbian and English B2 lesson records (40/50 per
 ## B2 course progress update — lessons 41–50 complete
 
 The Serbian and English B2 lesson arrays now each contain 50 paired lesson records (50/50). The final batch covers international cooperation and diplomacy, crisis communication, advanced negotiation, literature and critical interpretation, professional correspondence, social inequality, sustainable tourism, entrepreneurship, linguistic nuance, and integrated B2 communication. The lesson arrays are consumed by the existing B2 Learn screen. B2 cumulative revision and final assessments are the next content milestone. Lesson count completion does not mean accredited CEFR certification: language review, richer contextual dialogues, assessment design, and build/device verification remain.
+
+
+## B2 revision and final assessment
+
+Added paired cumulative B2 revision and final assessment panels for Serbian and English. Each language has 10 mixed-revision questions and a 20-question final practice exam with vocabulary and listening items, device text-to-speech playback, answer feedback, score display, a suggested 70% pass threshold (14/20), and retry. The panels are integrated into the existing B2 Learn screen. These are practice assessments, not accredited CEFR certification; question wording, listening-answer alignment, Serbian naturalness, Sinhala readings and translations require editorial review.
