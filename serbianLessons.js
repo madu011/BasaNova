@@ -1084,4 +1084,140 @@ export const SERBIAN_A1_LESSONS = [
   ]
  }
 
+ ,
+ {
+  id:"sr-a1-u7-l1",
+  unit:"අංක, දිනය සහ වේලාව",
+  title:"පාඩම 14 · අංක, දිනය සහ වේලාව",
+  objective:"දුරකථන අංකයක්, දිනයක් සහ වේලාවක් පැවසීම, වේලාව විමසීම සහ සරල හමුවීමක් නියම කිරීම.",
+  vocabulary:[
+   {word:"Broj",reading:"බ්‍රොයි",meaning:"අංකය / සංඛ්‍යාව",example:"Koji je vaš broj telefona?",exampleReading:"කොයි යේ වාෂ් බ්‍රොයි තෙලෙෆොනා?",translation:"ඔබගේ දුරකථන අංකය කුමක්ද?"},
+   {word:"Telefon",reading:"තෙලෙෆොන්",meaning:"දුරකථනය",example:"Moj telefon je nov.",exampleReading:"මොයි තෙලෙෆොන් යේ නොව්.",translation:"මගේ දුරකථනය අලුත්."},
+   {word:"Danas",reading:"දනාස්",meaning:"අද",example:"Danas imam vremena.",exampleReading:"දනාස් ඉමාම් ව්‍රෙමෙනා.",translation:"අද මට වෙලාව තියෙනවා."},
+   {word:"Sutra",reading:"සුත්‍රා",meaning:"හෙට",example:"Vidimo se sutra.",exampleReading:"විදිමො සේ සුත්‍රා.",translation:"හෙට හමුවෙමු."},
+   {word:"Juče",reading:"යූචේ",meaning:"ඊයේ",example:"Juče sam radio.",exampleReading:"යූචේ සාම් රාදියො.",translation:"මම ඊයේ වැඩ කළා."},
+   {word:"Sat",reading:"සාත්",meaning:"පැය / ඔරලෝසුව",example:"Koliko je sati?",exampleReading:"කොලිකො යේ සාති?",translation:"වෙලාව කීයද?"},
+   {word:"U osam",reading:"උ ඔසාම්",meaning:"අටට",example:"Rad počinje u osam.",exampleReading:"රාද් පොචිංයේ උ ඔසාම්.",translation:"වැඩ අටට පටන් ගන්නවා."},
+   {word:"Datum",reading:"දාතුම්",meaning:"දිනය",example:"Koji je danas datum?",exampleReading:"කොයි යේ දනාස් දාතුම්?",translation:"අද දිනය කුමක්ද?"}
+  ],
+  grammarTerms:[
+   {sr:"Koliko je sati?",si:"වෙලාව කීයද?",reading:"කොලිකො යේ සාති?"},
+   {sr:"U koliko sati?",si:"කීයටද?",reading:"උ කොලිකො සාති?"},
+   {sr:"Danas je ponedeljak.",si:"අද සඳුදා.",reading:"දනාස් යේ පොනෙදෙල්යාක්."},
+   {sr:"Vidimo se sutra u deset.",si:"හෙට දහයට හමුවෙමු.",reading:"විදිමො සේ සුත්‍රා උ දෙසෙත්."},
+   {sr:"Koji je datum?",si:"දිනය කුමක්ද?",reading:"කොයි යේ දාතුම්?"}
+  ],
+  grammarTitle:"ව්‍යාකරණය · වේලාව සහ දිනය කියන ආකාරය",
+  grammar:"වේලාව අසන්න “Koliko je sati?” කියන්න. යම් වේලාවක සිදුවීමක් කියන විට “u” සමඟ වේලාව යොදන්න: “u osam” (අටට), “u deset” (දහයට). අද/හෙට/ඊයේ සඳහා “danas”, “sutra”, “juče” භාවිත කරන්න. දිනය අසන්න “Koji je datum?” කියන්න.",
+  examples:[
+   {sr:"Izvinite, koliko je sati?",reading:"ඉස්විනිතෙ, කොලිකො යේ සාති?",si:"සමාවෙන්න, වෙලාව කීයද?"},
+   {sr:"Sada je devet i petnaest.",reading:"සාදා යේ දෙවෙත් ඉ පෙත්නාඑස්ත්.",si:"දැන් නවයයි පහළොවයි."},
+   {sr:"Sastanak je sutra u deset.",reading:"සාස්තානාක් යේ සුත්‍රා උ දෙසෙත්.",si:"හමුවීම හෙට දහයට."},
+   {sr:"Moj broj telefona je 064 123 456.",reading:"මොයි බ්‍රොයි තෙලෙෆොනා යේ ...",si:"මගේ දුරකථන අංකය 064 123 456."}
+  ],
+  dialogue:[
+   {sr:"Izvinite, koliko je sati?",reading:"ඉස්විනිතෙ, කොලිකො යේ සාති?",si:"සමාවෙන්න, වෙලාව කීයද?"},
+   {sr:"Devet je i petnaest.",reading:"දෙවෙත් යේ ඉ පෙත්නාඑස්ත්.",si:"නවයයි පහළොවයි."},
+   {sr:"Hvala. Kada je sastanak?",reading:"හ්වාලා. කාදා යේ සාස්තානාක්?",si:"ස්තුතියි. හමුවීම කවදාද?"},
+   {sr:"Sutra u deset sati.",reading:"සුත්‍රා උ දෙසෙත් සාති.",si:"හෙට දහයට."},
+   {sr:"U redu. Vidimo se sutra.",reading:"උ රෙදු. විදිමො සේ සුත්‍රා.",si:"හරි. හෙට හමුවෙමු."}
+  ],
+  practice:[
+   {prompt:"“වෙලාව කීයද?” අසන්නේ කෙසේද?",options:["Koliko je sati?","Koji je datum?","Gde je telefon?"],answer:0,explanation:"Koliko je sati? = වෙලාව කීයද?"},
+   {prompt:"“හෙට” යන Serbian වචනය තෝරන්න.",options:["Juče","Sutra","Danas"],answer:1,explanation:"Sutra = හෙට."},
+   {prompt:"“අටට” කියන රටාව කුමක්ද?",options:["U osam","U deset","U pet"],answer:0,explanation:"U + වේලාව යොදා සිදුවීම සිදුවන වේලාව කියනවා."},
+   {prompt:"“දිනය කුමක්ද?” අසන්න.",options:["Koliko košta?","Koji je datum?","Kako se zoveš?"],answer:1,explanation:"Koji je datum? = දිනය කුමක්ද?"}
+  ]
+ },
+ {
+  id:"sr-a1-u7-l2",
+  unit:"දෛනික ජීවිතය සහ පුරුදු",
+  title:"පාඩම 15 · දෛනික වැඩ සහ පුරුදු",
+  objective:"උදෑසන සිට රාත්‍රිය දක්වා කරන දේවල්, දෛනික පුරුදු සහ සරල කාල අනුපිළිවෙළ විස්තර කිරීම.",
+  vocabulary:[
+   {word:"Ustati",reading:"උස්තාති",meaning:"නැගිටිනවා",example:"Ustajem u sedam.",exampleReading:"උස්තායෙම් උ සෙදාම්.",translation:"මම හතට නැගිටිනවා."},
+   {word:"Doručak",reading:"දොරූචාක්",meaning:"උදෑසන ආහාරය",example:"Doručkujem u osam.",exampleReading:"දොරූචුයෙම් උ ඔසාම්.",translation:"මම අටට උදෑසන ආහාරය ගන්නවා."},
+   {word:"Raditi",reading:"රාදිති",meaning:"වැඩ කරනවා",example:"Radim od devet do pet.",exampleReading:"රාදිම් ඔද් දෙවෙත් දො පෙත්.",translation:"මම නවයේ සිට පහ දක්වා වැඩ කරනවා."},
+   {word:"Učiti",reading:"උචිති",meaning:"ඉගෙනගන්නවා",example:"Učim srpski svaki dan.",exampleReading:"උචිම් ස්ර්ප්ස්කි ස්වාකි දාන්.",translation:"මම හැමදාම Serbian ඉගෙනගන්නවා."},
+   {word:"Ručak",reading:"රූචාක්",meaning:"දවල් ආහාරය",example:"Ručam u jedan.",exampleReading:"රූචාම් උ යෙදාන්.",translation:"මම එකට දවල් ආහාරය ගන්නවා."},
+   {word:"Vratiti se",reading:"ව්‍රාතිති සේ",meaning:"ආපසු එනවා",example:"Vraćam se kući u šest.",exampleReading:"ව්‍රාචාම් සේ කුචි උ ෂෙස්ත්.",translation:"මම හයට ගෙදර එනවා."},
+   {word:"Uveče",reading:"උවෙචේ",meaning:"සවස / රාත්‍රියට",example:"Uveče čitam knjigu.",exampleReading:"උවෙචේ චීතාම් ක්න්යිගු.",translation:"මම සවස පොතක් කියවනවා."},
+   {word:"Svaki dan",reading:"ස්වාකි දාන්",meaning:"හැමදාම",example:"Šetam svaki dan.",exampleReading:"ෂෙතාම් ස්වාකි දාන්.",translation:"මම හැමදාම ඇවිදිනවා."}
+  ],
+  grammarTerms:[
+   {sr:"Ustajem u sedam.",si:"මම හතට නැගිටිනවා.",reading:"උස්තායෙම් උ සෙදාම්."},
+   {sr:"Radim od devet do pet.",si:"මම නවයේ සිට පහ දක්වා වැඩ කරනවා.",reading:"රාදිම් ඔද් දෙවෙත් දො පෙත්."},
+   {sr:"Svaki dan učim srpski.",si:"මම හැමදාම Serbian ඉගෙනගන්නවා.",reading:"ස්වාකි දාන් උචිම් ස්ර්ප්ස්කි."},
+   {sr:"Posle posla idem kući.",si:"වැඩෙන් පස්සේ මම ගෙදර යනවා.",reading:"පොස්ලෙ පොස්ලා ඉදෙම් කුචි."},
+   {sr:"Uveče se odmaram.",si:"මම සවස විවේක ගන්නවා.",reading:"උවෙචේ සේ ඔද්මරාම්."}
+  ],
+  grammarTitle:"ව්‍යාකරණය · දිනපතා කරන දේවල්",
+  grammar:"දෛනික පුරුදු ගැන කියන විට වර්තමාන කාලයේ ක්‍රියා පද යොදන්න: “ustajem” (මම නැගිටිනවා), “radim” (මම වැඩ කරනවා), “učim” (මම ඉගෙනගන්නවා). “od ... do ...” යනු “... සිට ... දක්වා” යන්නයි. “svaki dan” යනු හැමදාමයි.",
+  examples:[
+   {sr:"Ustajem u sedam i doručkujem.",reading:"උස්තායෙම් උ සෙදාම් ඉ දොරූචුයෙම්.",si:"මම හතට නැගිටලා උදෑසන ආහාරය ගන්නවා."},
+   {sr:"Radim od devet do pet.",reading:"රාදිම් ඔද් දෙවෙත් දො පෙත්.",si:"මම නවයේ සිට පහ දක්වා වැඩ කරනවා."},
+   {sr:"Posle posla učim engleski.",reading:"පොස්ලෙ පොස්ලා උචිම් එන්ග්ලෙස්කි.",si:"වැඩෙන් පස්සේ මම ඉංග්‍රීසි ඉගෙනගන්නවා."},
+   {sr:"Uveče se odmaram kod kuće.",reading:"උවෙචේ සේ ඔද්මරාම් කොද් කුචේ.",si:"මම සවස ගෙදරදී විවේක ගන්නවා."}
+  ],
+  dialogue:[
+   {sr:"Kada ustaješ?",reading:"කාදා උස්තායේෂ්?",si:"ඔයා කීයටද නැගිටින්නේ?"},
+   {sr:"Ustajem u sedam. A ti?",reading:"උස්තායෙම් උ සෙදාම්. අ ති?",si:"මම හතට නැගිටිනවා. ඔයා?"},
+   {sr:"U šest. Kada počinješ da radiš?",reading:"උ ෂෙස්ත්. කාදා පොචිංයේෂ් දා රාදිෂ්?",si:"හයට. ඔයා වැඩ පටන් ගන්නේ කීයටද?"},
+   {sr:"U devet, a završavam u pet.",reading:"උ දෙවෙත්, අ සාව්ර්ෂාවාම් උ පෙත්.",si:"නවයට, ඉවර කරන්නේ පහට."},
+   {sr:"Šta radiš uveče?",reading:"ෂ්තා රාදිෂ් උවෙචේ?",si:"ඔයා සවස මොනවාද කරන්නේ?"},
+   {sr:"Učim jezike i odmaram se.",reading:"උචිම් යෙසිකෙ ඉ ඔද්මරාම් සේ.",si:"මම භාෂා ඉගෙනගෙන විවේක ගන්නවා."}
+  ],
+  practice:[
+   {prompt:"“මම හතට නැගිටිනවා” තෝරන්න.",options:["Ustajem u sedam.","Radim do pet.","Učim uveče."],answer:0,explanation:"Ustajem = මම නැගිටිනවා; u sedam = හතට."},
+   {prompt:"“හැමදාම” යන අර්ථය?",options:["Juče","Svaki dan","Uveče"],answer:1,explanation:"Svaki dan = හැමදාම."},
+   {prompt:"“... සිට ... දක්වා” කියන රටාව?",options:["bez ...","od ... do ...","za poneti"],answer:1,explanation:"Od ... do ... = ... සිට ... දක්වා."},
+   {prompt:"“වැඩෙන් පස්සේ” කියන්නේ?",options:["Pre posla","Posle posla","Sutra"],answer:1,explanation:"Posle posla = වැඩෙන් පස්සේ."}
+  ]
+ },
+ {
+  id:"sr-a1-u7-l3",
+  unit:"වැඩ මුර සහ කාලසටහන්",
+  title:"පාඩම 16 · වැඩ මුර සහ කාලසටහන",
+  objective:"වැඩ මුරයක් ආරම්භ වන වේලාව, අවසන් වන වේලාව, නිවාඩු දිනය සහ මාරුවක් ඉල්ලීම ගැන කතා කිරීම.",
+  vocabulary:[
+   {word:"Smene",reading:"ස්මෙණෙ",meaning:"වැඩ මුර",example:"Radim u prvoj smeni.",exampleReading:"රාදිම් උ ප්‍ර්වොයි ස්මෙණි.",translation:"මම පළමු වැඩ මුරයේ වැඩ කරනවා."},
+   {word:"Prva smena",reading:"ප්‍ර්වා ස්මෙණා",meaning:"පළමු වැඩ මුරය",example:"Prva smena počinje u sedam.",exampleReading:"ප්‍ර්වා ස්මෙණා පොචිංයේ උ සෙදාම්.",translation:"පළමු වැඩ මුරය හතට පටන් ගන්නවා."},
+   {word:"Druga smena",reading:"ද්‍රූගා ස්මෙණා",meaning:"දෙවන වැඩ මුරය",example:"Sutra radim drugu smenu.",exampleReading:"සුත්‍රා රාදිම් ද්‍රූගු ස්මෙණු.",translation:"හෙට මම දෙවන වැඩ මුරයේ වැඩ කරනවා."},
+   {word:"Slobodan dan",reading:"ස්ලොබොදාන් දාන්",meaning:"නිවාඩු දිනය",example:"Nedelja je moj slobodan dan.",exampleReading:"නෙදෙල්යා යේ මොයි ස්ලොබොදාන් දාන්.",translation:"ඉරිදා මගේ නිවාඩු දිනයයි."},
+   {word:"Početi",reading:"පොචෙති",meaning:"පටන් ගන්නවා",example:"Kada počinje smena?",exampleReading:"කාදා පොචිංයේ ස්මෙණා?",translation:"වැඩ මුරය පටන් ගන්නේ කීයටද?"},
+   {word:"Završiti",reading:"සාව්ර්ෂිති",meaning:"අවසන් කරනවා",example:"Kada završavam danas?",exampleReading:"කාදා සාව්ර්ෂාවාම් දනාස්?",translation:"මම අද වැඩ අවසන් කරන්නේ කීයටද?"},
+   {word:"Zamena",reading:"සාමෙණා",meaning:"මාරුව / වෙනුවට වැඩ කිරීම",example:"Treba mi zamena za smenu.",exampleReading:"ත්‍රෙබා මි සාමෙණා සා ස්මෙණු.",translation:"මට වැඩ මුරයට වෙනුවට කෙනෙක් අවශ්‍යයි."},
+   {word:"Raspored",reading:"රාස්පොරෙද්",meaning:"කාලසටහන",example:"Gde je raspored smena?",exampleReading:"ග්දේ යේ රාස්පොරෙද් ස්මෙණා?",translation:"වැඩ මුර කාලසටහන කොහෙද?"}
+  ],
+  grammarTerms:[
+   {sr:"Radim u prvoj smeni.",si:"මම පළමු වැඩ මුරයේ වැඩ කරනවා.",reading:"රාදිම් උ ප්‍ර්වොයි ස්මෙණි."},
+   {sr:"Sutra radim drugu smenu.",si:"හෙට මම දෙවන වැඩ මුරයේ වැඩ කරනවා.",reading:"සුත්‍රා රාදිම් ද්‍රූගු ස්මෙණු."},
+   {sr:"Kada počinje smena?",si:"වැඩ මුරය පටන් ගන්නේ කීයටද?",reading:"කාදා පොචිංයේ ස්මෙණා?"},
+   {sr:"Da li mogu da zamenim smenu?",si:"මට වැඩ මුරය මාරු කරගන්න පුළුවන්ද?",reading:"දා ලි මොගු දා සාමෙණිම් ස්මෙණු?"},
+   {sr:"Nedelja mi je slobodna.",si:"ඉරිදා මට නිවාඩුයි.",reading:"නෙදෙල්යා මි යේ ස්ලොබොද්නා."}
+  ],
+  grammarTitle:"ව්‍යාකරණය · වැඩ මුර ගැන කතා කිරීම",
+  grammar:"වැඩ මුරය කියන්න “prva smena” (පළමු වැඩ මුරය), “druga smena” (දෙවන වැඩ මුරය) භාවිත කරන්න. වේලාව අසන්න “Kada počinje ...?” කියන්න. ඉල්ලීමක් කිරීමට “Da li mogu da ...?” යොදාගන්න. “slobodan dan” යනු නිවාඩු දිනයයි.",
+  examples:[
+   {sr:"Radim u prvoj smeni od sedam do tri.",reading:"රාදිම් උ ප්‍ර්වොයි ස්මෙණි ඔද් සෙදාම් දො ත්‍රි.",si:"මම හතේ සිට තුන දක්වා පළමු වැඩ මුරයේ වැඩ කරනවා."},
+   {sr:"Sutra radim drugu smenu.",reading:"සුත්‍රා රාදිම් ද්‍රූගු ස්මෙණු.",si:"හෙට මම දෙවන වැඩ මුරයේ වැඩ කරනවා."},
+   {sr:"Da li mogu da zamenim smenu u petak?",reading:"දා ලි මොගු දා සාමෙණිම් ස්මෙණු උ පෙතාක්?",si:"මට සිකුරාදා වැඩ මුරය මාරු කරගන්න පුළුවන්ද?"},
+   {sr:"Nedelja mi je slobodna.",reading:"නෙදෙල්යා මි යේ ස්ලොබොද්නා.",si:"ඉරිදා මට නිවාඩුයි."}
+  ],
+  dialogue:[
+   {sr:"U kojoj smeni radiš sutra?",reading:"උ කොයොයි ස්මෙණි රාදිෂ් සුත්‍රා?",si:"ඔයා හෙට වැඩ කරන්නේ මොන වැඩ මුරයේද?"},
+   {sr:"U drugoj smeni, od tri do jedanaest.",reading:"උ ද්‍රූගොයි ස්මෙණි, ඔද් ත්‍රි දො යෙදානාඑස්ත්.",si:"දෙවන වැඩ මුරයේ, තුනේ සිට එකොළහ දක්වා."},
+   {sr:"A kada počinje prva smena?",reading:"අ කාදා පොචිංයේ ප්‍ර්වා ස්මෙණා?",si:"එතකොට පළමු වැඩ මුරය පටන් ගන්නේ කීයටද?"},
+   {sr:"U sedam ujutru.",reading:"උ සෙදාම් උයුත්‍රු.",si:"උදේ හතට."},
+   {sr:"Mogu li da zamenim smenu u petak?",reading:"මොගු ලි දා සාමෙණිම් ස්මෙණු උ පෙතාක්?",si:"මට සිකුරාදා වැඩ මුරය මාරු කරගන්න පුළුවන්ද?"},
+   {sr:"Proveriću raspored i javiću ti.",reading:"ප්‍රොවෙරිචු රාස්පොරෙද් ඉ යාවිචු ති.",si:"මම කාලසටහන බලලා ඔයාට දන්වන්නම්."}
+  ],
+  practice:[
+   {prompt:"“දෙවන වැඩ මුරය” තෝරන්න.",options:["Prva smena","Druga smena","Slobodan dan"],answer:1,explanation:"Druga smena = දෙවන වැඩ මුරය."},
+   {prompt:"“නිවාඩු දිනය” කියන්නේ?",options:["Raspored","Zamena","Slobodan dan"],answer:2,explanation:"Slobodan dan = නිවාඩු දිනය."},
+   {prompt:"වැඩ මුරය පටන් ගන්නේ කීයටද අසන්න.",options:["Kada počinje smena?","Koliko košta?","Gde je apoteka?"],answer:0,explanation:"Kada počinje smena? = වැඩ මුරය පටන් ගන්නේ කීයටද?"},
+   {prompt:"“මට වැඩ මුරය මාරු කරගන්න පුළුවන්ද?” තෝරන්න.",options:["Da li mogu da zamenim smenu?","Radim ujutru.","To je sve."],answer:0,explanation:"Da li mogu da ...? යනු මට ... කළ හැකිද? යන ප්‍රශ්න රටාවයි."}
+  ]
+ }
+
 ];
