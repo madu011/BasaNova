@@ -163,3 +163,6 @@
 
 
 - 2026-11-18 continuation: Continued the Serbian A1 language-content audit and corrected a Croatian-form spelling accidentally used in the Serbian number lesson: `Broj dvjesta.` is now `Broj dvesta.` to match the Serbian vocabulary item `Dvesta` and dialogue usage. App content commit: `eaef024671314b2f817e85b5d5ef0f070bbebc1c`. This is a narrow spelling correction, not a full native-speaker review of all Sinhala-script pronunciation guides. Next: continue checking Serbian A1 vocabulary, example sentences, grammar explanations, and listening readings for accuracy.
+
+
+- 2026-11-18 continuation: Added exact Sinhala-script pronunciation entries for Serbian `Dvesta`, `Dvesta dinara.` and `To je 200 dinara.` so the vocabulary book and phrase audio reading use the Serbian form /dvesta/ rather than the previous inaccurate `dvesto`-like approximation. App commit: `94814070fa4e1b46aa29c88cb7b6d7141755b2ef`. Combined with the lesson example spelling correction above, the number 200 now uses consistent Serbian spelling and reading across the beginner lesson. Readings remain approximate Sinhala guidance, not IPA or a substitute for native-speaker review.
