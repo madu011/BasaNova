@@ -2,245 +2,245 @@
 export const SERBIAN_C1_MIXED_REVISION = [
   {
     "id": "c1-sr-revision-1",
-    "topic": "C1 · උපායමාර්ගික දුරදක්නා බව",
+    "topic": "C1 · දුරදක්නා සැලසුම්කරණය",
     "prompt": "“predviđanje” යන වචනයේ සිංහල තේරුම තෝරන්න。",
     "options": [
-      "දුරදක්නා බව",
-      "අසම්බන්ධ තොරතුර",
-      "විරുദ്ധ අර්ථය"
+      "සීමා අගය",
+      "දුරදක්නා සැලසුම්කරණය",
+      "නියැදිය"
     ],
-    "answer": 0,
-    "explanation": "predviđanje = දුරදක්නා බව"
+    "answer": 1,
+    "explanation": "predviđanje = දුරදක්නා සැලසුම්කරණය"
   },
   {
     "id": "c1-sr-revision-2",
     "topic": "C1 · උසස් සාකච්ඡා",
     "prompt": "“ustupak” යන වචනයේ සිංහල තේරුම තෝරන්න。",
     "options": [
-      "සහනයක් ලබාදීම",
-      "අසම්බන්ධ තොරතුර",
-      "විරുദ്ധ අර්ථය"
+      "උසස් සාකච්ඡා",
+      "අවහිර තත්ත්වය",
+      "සමීක්ෂණය"
     ],
     "answer": 0,
-    "explanation": "ustupak = සහනයක් ලබාදීම"
+    "explanation": "ustupak = උසස් සාකච්ඡා"
   },
   {
     "id": "c1-sr-revision-3",
     "topic": "C1 · ආයතනික පාලනය",
     "prompt": "“nadzor” යන වචනයේ සිංහල තේරුම තෝරන්න。",
     "options": [
-      "අධීක්ෂණය",
-      "අසම්බන්ධ තොරතුර",
-      "විරുദ്ധ අර්ථය"
+      "ප්‍රතිවිපාකය",
+      "පාරිතෝෂිකය",
+      "ආයතනික පාලනය"
     ],
-    "answer": 0,
-    "explanation": "nadzor = අධීක්ෂණය"
+    "answer": 2,
+    "explanation": "nadzor = ආයතනික පාලනය"
   },
   {
     "id": "c1-sr-revision-4",
     "topic": "C1 · දේශගුණික ප්‍රතිපත්ති",
     "prompt": "“ranjivost” යන වචනයේ සිංහල තේරුම තෝරන්න。",
     "options": [
-      "අවදානමට ලක්වීමේ හැකියාව",
-      "අසම්බන්ධ තොරතුර",
-      "විරുദ്ധ අර්ථය"
+      "විශ්වසනීයත්වය",
+      "දේශගුණික ප්‍රතිපත්ති",
+      "කාලසටහන"
     ],
-    "answer": 0,
-    "explanation": "ranjivost = අවදානමට ලක්වීමේ හැකියාව"
+    "answer": 1,
+    "explanation": "ranjivost = දේශගුණික ප්‍රතිපත්ති"
   },
   {
     "id": "c1-sr-revision-5",
     "topic": "C1 · ඩිජිටල් පරිවර්තනය",
     "prompt": "“interoperabilnost” යන වචනයේ සිංහල තේරුම තෝරන්න。",
     "options": [
-      "පද්ධති අතර අන්තර්ක්‍රියා හැකියාව",
-      "අසම්බන්ධ තොරතුර",
-      "විරുദ്ധ අර්ථය"
+      "වෙන් කිරීම",
+      "ස්වයංක්‍රීයකරණය",
+      "ඩිජිටල් පරිවර්තනය"
     ],
-    "answer": 0,
-    "explanation": "interoperabilnost = පද්ධති අතර අන්තර්ක්‍රියා හැකියාව"
+    "answer": 2,
+    "explanation": "interoperabilnost = ඩිජිටල් පරිවර්තනය"
   },
   {
     "id": "c1-sr-revision-6",
     "topic": "C1 · පර්යේෂණ ක්‍රම",
     "prompt": "“uzročnost” යන වචනයේ සිංහල තේරුම තෝරන්න。",
     "options": [
-      "හේතුකාරකත්වය",
-      "අසම්බන්ධ තොරතුර",
-      "විරുദ്ധ අර්ථය"
+      "පර්යේෂණ ක්‍රම",
+      "සහසම්බන්ධතාව",
+      "උපමා"
     ],
     "answer": 0,
-    "explanation": "uzročnost = හේතුකාරකත්වය"
+    "explanation": "uzročnost = පර්යේෂණ ක්‍රම"
   },
   {
     "id": "c1-sr-revision-7",
     "topic": "C1 · සාහිත්‍ය විචාරය",
     "prompt": "“podtekst” යන වචනයේ සිංහල තේරුම තෝරන්න。",
     "options": [
-      "යටිපෙළ අර්ථය",
-      "අසම්බන්ධ තොරතුර",
-      "විරുദ്ധ අර්ථය"
+      "කථකයා",
+      "සාහිත්‍ය විචාරය",
+      "විමෝචනය"
     ],
-    "answer": 0,
-    "explanation": "podtekst = යටිපෙළ අර්ථය"
+    "answer": 1,
+    "explanation": "podtekst = සාහිත්‍ය විචාරය"
   },
   {
     "id": "c1-sr-revision-8",
     "topic": "C1 · අර්බුද සන්නිවේදනය",
     "prompt": "“transparentnost” යන වචනයේ සිංහල තේරුම තෝරන්න。",
     "options": [
-      "විනිවිදභාවය",
-      "අසම්බන්ධ තොරතුර",
-      "විරുദ്ധ අර්ථය"
+      "අනුගත වීම",
+      "කටකතාව",
+      "අර්බුද සන්නිවේදනය"
     ],
-    "answer": 0,
-    "explanation": "transparentnost = විනිවිදභාවය"
+    "answer": 2,
+    "explanation": "transparentnost = අර්බුද සන්නිවේදනය"
   },
   {
     "id": "c1-sr-revision-9",
     "topic": "C1 · සාක්ෂි මත නිර්දේශ",
     "prompt": "“izvodljivost” යන වචනයේ සිංහල තේරුම තෝරන්න。",
     "options": [
-      "ක්‍රියාත්මක කළ හැකි බව",
-      "අසම්බන්ධ තොරතුර",
-      "විරുദ്ധ අර්ථය"
+      "සාක්ෂි මත නිර්දේශ",
+      "උපකල්පනය",
+      "පක්ෂපාතීත්වය"
     ],
     "answer": 0,
-    "explanation": "izvodljivost = ක්‍රියාත්මක කළ හැකි බව"
+    "explanation": "izvodljivost = සාක්ෂි මත නිර්දේශ"
   },
   {
     "id": "c1-sr-revision-10",
     "topic": "C1 · වෘත්තීය අඛණ්ඩතාව",
     "prompt": "“integritet” යන වචනයේ සිංහල තේරුම තෝරන්න。",
     "options": [
-      "අඛණ්ඩතාව",
-      "අසම්බන්ධ තොරතුර",
-      "විරുദ്ധ අර්ථය"
+      "උභතෝකෝටිකය",
+      "වෘත්තීය අඛණ්ඩතාව",
+      "සංඛ්‍යාතය"
     ],
-    "answer": 0,
-    "explanation": "integritet = අඛණ්ඩතාව"
+    "answer": 1,
+    "explanation": "integritet = වෘත්තීය අඛණ්ඩතාව"
   }
 ];
 export const ENGLISH_C1_MIXED_REVISION = [
   {
     "id": "c1-en-revision-1",
-    "topic": "C1 · උපායමාර්ගික දුරදක්නා බව",
+    "topic": "C1 · දුරදක්නා සැලසුම්කරණය",
     "prompt": "Choose the Sinhala meaning of “foresight”.",
     "options": [
-      "දුරදක්නා බව",
-      "අසම්බන්ධ තොරතුර",
-      "විරുദ്ധ අර්ථය"
+      "සීමා අගය",
+      "දුරදක්නා සැලසුම්කරණය",
+      "නියැදිය"
     ],
-    "answer": 0,
-    "explanation": "foresight = දුරදක්නා බව"
+    "answer": 1,
+    "explanation": "foresight = දුරදක්නා සැලසුම්කරණය"
   },
   {
     "id": "c1-en-revision-2",
     "topic": "C1 · උසස් සාකච්ඡා",
     "prompt": "Choose the Sinhala meaning of “concession”.",
     "options": [
-      "සහනයක් ලබාදීම",
-      "අසම්බන්ධ තොරතුර",
-      "විරുദ്ധ අර්ථය"
+      "උසස් සාකච්ඡා",
+      "අවහිර තත්ත්වය",
+      "සමීක්ෂණය"
     ],
     "answer": 0,
-    "explanation": "concession = සහනයක් ලබාදීම"
+    "explanation": "concession = උසස් සාකච්ඡා"
   },
   {
     "id": "c1-en-revision-3",
     "topic": "C1 · ආයතනික පාලනය",
     "prompt": "Choose the Sinhala meaning of “oversight”.",
     "options": [
-      "අධීක්ෂණය",
-      "අසම්බන්ධ තොරතුර",
-      "විරുദ്ധ අර්ථය"
+      "ප්‍රතිවිපාකය",
+      "පාරිතෝෂිකය",
+      "ආයතනික පාලනය"
     ],
-    "answer": 0,
-    "explanation": "oversight = අධීක්ෂණය"
+    "answer": 2,
+    "explanation": "oversight = ආයතනික පාලනය"
   },
   {
     "id": "c1-en-revision-4",
     "topic": "C1 · දේශගුණික ප්‍රතිපත්ති",
     "prompt": "Choose the Sinhala meaning of “vulnerability”.",
     "options": [
-      "අවදානමට ලක්වීමේ හැකියාව",
-      "අසම්බන්ධ තොරතුර",
-      "විරുദ്ധ අර්ථය"
+      "විශ්වසනීයත්වය",
+      "දේශගුණික ප්‍රතිපත්ති",
+      "කාලසටහන"
     ],
-    "answer": 0,
-    "explanation": "vulnerability = අවදානමට ලක්වීමේ හැකියාව"
+    "answer": 1,
+    "explanation": "vulnerability = දේශගුණික ප්‍රතිපත්ති"
   },
   {
     "id": "c1-en-revision-5",
     "topic": "C1 · ඩිජිටල් පරිවර්තනය",
     "prompt": "Choose the Sinhala meaning of “interoperability”.",
     "options": [
-      "පද්ධති අතර අන්තර්ක්‍රියා හැකියාව",
-      "අසම්බන්ධ තොරතුර",
-      "විරുദ്ധ අර්ථය"
+      "වෙන් කිරීම",
+      "ස්වයංක්‍රීයකරණය",
+      "ඩිජිටල් පරිවර්තනය"
     ],
-    "answer": 0,
-    "explanation": "interoperability = පද්ධති අතර අන්තර්ක්‍රියා හැකියාව"
+    "answer": 2,
+    "explanation": "interoperability = ඩිජිටල් පරිවර්තනය"
   },
   {
     "id": "c1-en-revision-6",
     "topic": "C1 · පර්යේෂණ ක්‍රම",
     "prompt": "Choose the Sinhala meaning of “causality”.",
     "options": [
-      "හේතුකාරකත්වය",
-      "අසම්බන්ධ තොරතුර",
-      "විරുദ്ധ අර්ථය"
+      "පර්යේෂණ ක්‍රම",
+      "සහසම්බන්ධතාව",
+      "උපමා"
     ],
     "answer": 0,
-    "explanation": "causality = හේතුකාරකත්වය"
+    "explanation": "causality = පර්යේෂණ ක්‍රම"
   },
   {
     "id": "c1-en-revision-7",
     "topic": "C1 · සාහිත්‍ය විචාරය",
     "prompt": "Choose the Sinhala meaning of “subtext”.",
     "options": [
-      "යටිපෙළ අර්ථය",
-      "අසම්බන්ධ තොරතුර",
-      "විරുദ്ധ අර්ථය"
+      "කථකයා",
+      "සාහිත්‍ය විචාරය",
+      "විමෝචනය"
     ],
-    "answer": 0,
-    "explanation": "subtext = යටිපෙළ අර්ථය"
+    "answer": 1,
+    "explanation": "subtext = සාහිත්‍ය විචාරය"
   },
   {
     "id": "c1-en-revision-8",
     "topic": "C1 · අර්බුද සන්නිවේදනය",
     "prompt": "Choose the Sinhala meaning of “transparency”.",
     "options": [
-      "විනිවිදභාවය",
-      "අසම්බන්ධ තොරතුර",
-      "විරുദ്ധ අර්ථය"
+      "අනුගත වීම",
+      "කටකතාව",
+      "අර්බුද සන්නිවේදනය"
     ],
-    "answer": 0,
-    "explanation": "transparency = විනිවිදභාවය"
+    "answer": 2,
+    "explanation": "transparency = අර්බුද සන්නිවේදනය"
   },
   {
     "id": "c1-en-revision-9",
     "topic": "C1 · සාක්ෂි මත නිර්දේශ",
     "prompt": "Choose the Sinhala meaning of “feasibility”.",
     "options": [
-      "ක්‍රියාත්මක කළ හැකි බව",
-      "අසම්බන්ධ තොරතුර",
-      "විරുദ്ധ අර්ථය"
+      "සාක්ෂි මත නිර්දේශ",
+      "උපකල්පනය",
+      "පක්ෂපාතීත්වය"
     ],
     "answer": 0,
-    "explanation": "feasibility = ක්‍රියාත්මක කළ හැකි බව"
+    "explanation": "feasibility = සාක්ෂි මත නිර්දේශ"
   },
   {
     "id": "c1-en-revision-10",
     "topic": "C1 · වෘත්තීය අඛණ්ඩතාව",
     "prompt": "Choose the Sinhala meaning of “integrity”.",
     "options": [
-      "අඛණ්ඩතාව",
-      "අසම්බන්ධ තොරතුර",
-      "විරുദ്ധ අර්ථය"
+      "උභතෝකෝටිකය",
+      "වෘත්තීය අඛණ්ඩතාව",
+      "සංඛ්‍යාතය"
     ],
-    "answer": 0,
-    "explanation": "integrity = අඛණ්ඩතාව"
+    "answer": 1,
+    "explanation": "integrity = වෘත්තීය අඛණ්ඩතාව"
   }
 ];
 export const SERBIAN_C1_FINAL_EXAM = [
@@ -252,12 +252,12 @@ export const SERBIAN_C1_FINAL_EXAM = [
     "reading": null,
     "word": "predviđanje",
     "options": [
+      "විනිවිදභාවය",
       "අවදානමට ලක්වීමේ හැකියාව",
       "දුරදක්නා බව",
-      "ක්‍රියාත්මක කළ හැකි බව",
-      "ජෛව විවිධත්වය"
+      "ප්‍රතියෝජනාව"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "predviđanje = දුරදක්නා බව"
   },
   {
@@ -268,12 +268,12 @@ export const SERBIAN_C1_FINAL_EXAM = [
     "reading": null,
     "word": "ustupak",
     "options": [
-      "පද්ධති අතර අන්තර්ක්‍රියා හැකියාව",
       "සහනයක් ලබාදීම",
-      "අඛණ්ඩතාව",
-      "ස්වයංක්‍රීයකරණය"
+      "පද්ධති අතර අන්තර්ක්‍රියා හැකියාව",
+      "ක්‍රියාත්මක කළ හැකි බව",
+      "වගවීම"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "ustupak = සහනයක් ලබාදීම"
   },
   {
@@ -284,12 +284,12 @@ export const SERBIAN_C1_FINAL_EXAM = [
     "reading": null,
     "word": "nadzor",
     "options": [
+      "ජෛව විවිධත්වය",
       "හේතුකාරකත්වය",
-      "අධීක්ෂණය",
-      "උපකල්පනය",
-      "සහසම්බන්ධතාව"
+      "අඛණ්ඩතාව",
+      "අධීක්ෂණය"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation": "nadzor = අධීක්ෂණය"
   },
   {
@@ -302,8 +302,8 @@ export const SERBIAN_C1_FINAL_EXAM = [
     "options": [
       "යටිපෙළ අර්ථය",
       "අවදානමට ලක්වීමේ හැකියාව",
-      "ප්‍රතියෝජනාව",
-      "කථකයා"
+      "උපකල්පනය",
+      "දුරදක්නා බව"
     ],
     "answer": 1,
     "explanation": "ranjivost = අවදානමට ලක්වීමේ හැකියාව"
@@ -316,12 +316,12 @@ export const SERBIAN_C1_FINAL_EXAM = [
     "reading": null,
     "word": "interoperabilnost",
     "options": [
+      "ප්‍රතියෝජනාව",
       "විනිවිදභාවය",
       "පද්ධති අතර අන්තර්ක්‍රියා හැකියාව",
-      "වගවීම",
-      "විශ්වසනීයත්වය"
+      "සහනයක් ලබාදීම"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "interoperabilnost = පද්ධති අතර අන්තර්ක්‍රියා හැකියාව"
   },
   {
@@ -334,8 +334,8 @@ export const SERBIAN_C1_FINAL_EXAM = [
     "options": [
       "ක්‍රියාත්මක කළ හැකි බව",
       "හේතුකාරකත්වය",
-      "ජෛව විවිධත්වය",
-      "නිර්දේශය"
+      "වගවීම",
+      "අධීක්ෂණය"
     ],
     "answer": 1,
     "explanation": "uzročnost = හේතුකාරකත්වය"
@@ -348,12 +348,12 @@ export const SERBIAN_C1_FINAL_EXAM = [
     "reading": null,
     "word": "podtekst",
     "options": [
-      "අඛණ්ඩතාව",
       "යටිපෙළ අර්ථය",
-      "ස්වයංක්‍රීයකරණය",
-      "අනුකූලතාව"
+      "අඛණ්ඩතාව",
+      "ජෛව විවිධත්වය",
+      "අවදානමට ලක්වීමේ හැකියාව"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "podtekst = යටිපෙළ අර්ථය"
   },
   {
@@ -364,12 +364,12 @@ export const SERBIAN_C1_FINAL_EXAM = [
     "reading": null,
     "word": "transparentnost",
     "options": [
+      "පද්ධති අතර අන්තර්ක්‍රියා හැකියාව",
       "උපකල්පනය",
-      "විනිවිදභාවය",
-      "සහසම්බන්ධතාව",
-      "දුරදක්නා බව"
+      "දුරදක්නා බව",
+      "විනිවිදභාවය"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation": "transparentnost = විනිවිදභාවය"
   },
   {
@@ -382,8 +382,8 @@ export const SERBIAN_C1_FINAL_EXAM = [
     "options": [
       "ප්‍රතියෝජනාව",
       "ක්‍රියාත්මක කළ හැකි බව",
-      "කථකයා",
-      "සහනයක් ලබාදීම"
+      "සහනයක් ලබාදීම",
+      "හේතුකාරකත්වය"
     ],
     "answer": 1,
     "explanation": "izvodljivost = ක්‍රියාත්මක කළ හැකි බව"
@@ -396,12 +396,12 @@ export const SERBIAN_C1_FINAL_EXAM = [
     "reading": null,
     "word": "integritet",
     "options": [
+      "අධීක්ෂණය",
       "වගවීම",
       "අඛණ්ඩතාව",
-      "විශ්වසනීයත්වය",
-      "අධීක්ෂණය"
+      "යටිපෙළ අර්ථය"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "integritet = අඛණ්ඩතාව"
   },
   {
@@ -412,12 +412,12 @@ export const SERBIAN_C1_FINAL_EXAM = [
     "reading": null,
     "word": "pretpostavka",
     "options": [
+      "විනිවිදභාවය",
       "ජෛව විවිධත්වය",
-      "උපකල්පනය",
-      "නිර්දේශය",
-      "අවදානමට ලක්වීමේ හැකියාව"
+      "අවදානමට ලක්වීමේ හැකියාව",
+      "උපකල්පනය"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation": "pretpostavka = උපකල්පනය"
   },
   {
@@ -428,12 +428,12 @@ export const SERBIAN_C1_FINAL_EXAM = [
     "reading": null,
     "word": "protivpredlog",
     "options": [
-      "ස්වයංක්‍රීයකරණය",
       "ප්‍රතියෝජනාව",
-      "අනුකූලතාව",
-      "පද්ධති අතර අන්තර්ක්‍රියා හැකියාව"
+      "දුරදක්නා බව",
+      "පද්ධති අතර අන්තර්ක්‍රියා හැකියාව",
+      "ක්‍රියාත්මක කළ හැකි බව"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "protivpredlog = ප්‍රතියෝජනාව"
   },
   {
@@ -444,12 +444,12 @@ export const SERBIAN_C1_FINAL_EXAM = [
     "reading": null,
     "word": "odgovornost",
     "options": [
-      "සහසම්බන්ධතාව",
+      "හේතුකාරකත්වය",
+      "සහනයක් ලබාදීම",
       "වගවීම",
-      "දුරදක්නා බව",
-      "හේතුකාරකත්වය"
+      "අඛණ්ඩතාව"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "odgovornost = වගවීම"
   },
   {
@@ -460,151 +460,55 @@ export const SERBIAN_C1_FINAL_EXAM = [
     "reading": null,
     "word": "biodiverzitet",
     "options": [
-      "කථකයා",
+      "අධීක්ෂණය",
       "ජෛව විවිධත්වය",
-      "සහනයක් ලබාදීම",
-      "යටිපෙළ අර්ථය"
+      "යටිපෙළ අර්ථය",
+      "උපකල්පනය"
     ],
     "answer": 1,
     "explanation": "biodiverzitet = ජෛව විවිධත්වය"
   },
   {
     "id": "c1-sr-final-15",
-    "type": "vocabulary",
-    "prompt": "“automatizacija” යන වචනයේ නිවැරදි සිංහල තේරුම තෝරන්න。",
-    "audio": null,
-    "reading": null,
-    "word": "automatizacija",
+    "type": "listening",
+    "prompt": "සවන් දී නිවැරදි සිංහල අර්ථය තෝරන්න.",
+    "audio": "Strateško predviđanje nas priprema za više mogućih budućnosti.",
+    "reading": "ස්ට්ර්අට්එෂ්ක්ඔ ප්ර්එඩ්ව්ඉජ්අන්ය්එ න්අස් ප්ර්ඉප්ර්එම්අ ස්අ ව්ඉෂ්එ ම්ඔග්උච්ඉහ් බ්උඩ්උච්න්ඔස්ට්ඉ.",
+    "word": null,
     "options": [
-      "විශ්වසනීයත්වය",
-      "ස්වයංක්‍රීයකරණය",
-      "අධීක්ෂණය",
-      "විනිවිදභාවය"
-    ],
-    "answer": 1,
-    "explanation": "automatizacija = ස්වයංක්‍රීයකරණය"
-  },
-  {
-    "id": "c1-sr-final-16",
-    "type": "vocabulary",
-    "prompt": "“korelacija” යන වචනයේ නිවැරදි සිංහල තේරුම තෝරන්න。",
-    "audio": null,
-    "reading": null,
-    "word": "korelacija",
-    "options": [
-      "නිර්දේශය",
-      "සහසම්බන්ධතාව",
-      "අවදානමට ලක්වීමේ හැකියාව",
-      "ක්‍රියාත්මක කළ හැකි බව"
-    ],
-    "answer": 1,
-    "explanation": "korelacija = සහසම්බන්ධතාව"
-  },
-  {
-    "id": "c1-sr-final-17",
-    "type": "vocabulary",
-    "prompt": "“pripovedač” යන වචනයේ නිවැරදි සිංහල තේරුම තෝරන්න。",
-    "audio": null,
-    "reading": null,
-    "word": "pripovedač",
-    "options": [
-      "අනුකූලතාව",
-      "කථකයා",
       "පද්ධති අතර අන්තර්ක්‍රියා හැකියාව",
+      "උපායමාර්ගික දුරදක්නා බව සිදුවිය හැකි අනාගත කිහිපයකට සූදානම් කරයි.",
       "අඛණ්ඩතාව"
     ],
     "answer": 1,
-    "explanation": "pripovedač = කථකයා"
-  },
-  {
-    "id": "c1-sr-final-18",
-    "type": "vocabulary",
-    "prompt": "“kredibilitet” යන වචනයේ නිවැරදි සිංහල තේරුම තෝරන්න。",
-    "audio": null,
-    "reading": null,
-    "word": "kredibilitet",
-    "options": [
-      "දුරදක්නා බව",
-      "විශ්වසනීයත්වය",
-      "හේතුකාරකත්වය",
-      "උපකල්පනය"
-    ],
-    "answer": 1,
-    "explanation": "kredibilitet = විශ්වසනීයත්වය"
-  },
-  {
-    "id": "c1-sr-final-19",
-    "type": "vocabulary",
-    "prompt": "“preporuka” යන වචනයේ නිවැරදි සිංහල තේරුම තෝරන්න。",
-    "audio": null,
-    "reading": null,
-    "word": "preporuka",
-    "options": [
-      "සහනයක් ලබාදීම",
-      "නිර්දේශය",
-      "යටිපෙළ අර්ථය",
-      "ප්‍රතියෝජනාව"
-    ],
-    "answer": 1,
-    "explanation": "preporuka = නිර්දේශය"
-  },
-  {
-    "id": "c1-sr-final-20",
-    "type": "vocabulary",
-    "prompt": "“doslednost” යන වචනයේ නිවැරදි සිංහල තේරුම තෝරන්න。",
-    "audio": null,
-    "reading": null,
-    "word": "doslednost",
-    "options": [
-      "අධීක්ෂණය",
-      "අනුකූලතාව",
-      "විනිවිදභාවය",
-      "වගවීම"
-    ],
-    "answer": 1,
-    "explanation": "doslednost = අනුකූලතාව"
-  },
-  {
-    "id": "c1-sr-final-15",
-    "type": "listening",
-    "prompt": "සවන් දී නිවැරදි සිංහල අර්ථය තෝරන්න。",
-    "audio": "Strateško predviđanje nas priprema za više mogućih budućnosti.",
-    "reading": "стратешко предвиђанье нас припрема за више могућих будућности.",
-    "word": null,
-    "options": [
-      "උපායමාර්ගික දුරදක්නා බව",
-      "හේතුකාරකත්වය",
-      "ප්‍රතියෝජනාව"
-    ],
-    "answer": 0,
-    "explanation": "උපායමාර්ගික දුරදක්නා බව"
+    "explanation": "උපායමාර්ගික දුරදක්නා බව සිදුවිය හැකි අනාගත කිහිපයකට සූදානම් කරයි."
   },
   {
     "id": "c1-sr-final-16",
     "type": "listening",
-    "prompt": "සවන් දී නිවැරදි සිංහල අර්ථය තෝරන්න。",
+    "prompt": "සවන් දී නිවැරදි සිංහල අර්ථය තෝරන්න.",
     "audio": "Ograničen ustupak može pokrenuti pregovore.",
-    "reading": "ограничен уступак може покренути преговоре.",
+    "reading": "ඔග්ර්අන්ඉච්එන් උස්ට්උප්අක් ම්ඔෂ්එ ප්ඔක්ර්එන්උට්ඉ ප්ර්එග්ඔව්ඔර්එ.",
     "word": null,
     "options": [
-      "සීමිත සහනයක් සාකච්ඡා ඉදිරියට ගෙන යා හැකිය.",
-      "යටිපෙළ අර්ථය",
-      "වගවීම"
+      "උපකල්පනය",
+      "හේතුකාරකත්වය",
+      "සීමිත සහනයක් සාකච්ඡා ඉදිරියට ගෙන යා හැකිය."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "සීමිත සහනයක් සාකච්ඡා ඉදිරියට ගෙන යා හැකිය."
   },
   {
     "id": "c1-sr-final-17",
     "type": "listening",
-    "prompt": "සවන් දී නිවැරදි සිංහල අර්ථය තෝරන්න。",
+    "prompt": "සවන් දී නිවැරදි සිංහල අර්ථය තෝරන්න.",
     "audio": "Odbor je odgovoran za delotvoran nadzor.",
-    "reading": "одбор је одговоран за делотворан надзор.",
+    "reading": "ඔඩ්බ්ඔර් ය්එ ඔඩ්ග්ඔව්ඔර්අන් ස්අ ඩ්එල්ඔට්ව්ඔර්අන් න්අඩ්ස්ඔර්.",
     "word": null,
     "options": [
       "අධ්‍යක්ෂ මණ්ඩලය ඵලදායී අධීක්ෂණයට වගකිව යුතුය.",
-      "විනිවිදභාවය",
-      "ජෛව විවිධත්වය"
+      "යටිපෙළ අර්ථය",
+      "ප්‍රතියෝජනාව"
     ],
     "answer": 0,
     "explanation": "අධ්‍යක්ෂ මණ්ඩලය ඵලදායී අධීක්ෂණයට වගකිව යුතුය."
@@ -612,44 +516,44 @@ export const SERBIAN_C1_FINAL_EXAM = [
   {
     "id": "c1-sr-final-18",
     "type": "listening",
-    "prompt": "සවන් දී නිවැරදි සිංහල අර්ථය තෝරන්න。",
+    "prompt": "සවන් දී නිවැරදි සිංහල අර්ථය තෝරන්න.",
     "audio": "Gubitak biodiverziteta može povećati ranjivost ekosistema.",
-    "reading": "губитак биодиверзитета може повећати раньивост екосистема.",
+    "reading": "ග්උබ්ඉට්අක් බ්ඉඔඩ්ඉව්එර්ස්ඉට්එට්අ ම්ඔෂ්එ ප්ඔව්එච්අට්ඉ ර්අන්ය්ඉව්ඔස්ට් එක්ඔස්ඉස්ට්එම්අ.",
     "word": null,
     "options": [
+      "විනිවිදභාවය",
       "ජෛව විවිධත්වය අහිමි වීම පරිසර පද්ධතියේ අවදානම වැඩි කළ හැකිය.",
-      "ක්‍රියාත්මක කළ හැකි බව",
-      "ස්වයංක්‍රීයකරණය"
+      "වගවීම"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "ජෛව විවිධත්වය අහිමි වීම පරිසර පද්ධතියේ අවදානම වැඩි කළ හැකිය."
   },
   {
     "id": "c1-sr-final-19",
     "type": "listening",
-    "prompt": "සවන් දී නිවැරදි සිංහල අර්ථය තෝරන්න。",
+    "prompt": "සවන් දී නිවැරදි සිංහල අර්ථය තෝරන්න.",
     "audio": "Interoperabilnost je ključna pri povezivanju sistema.",
-    "reading": "интероперабилност је кльучна при повезиваньу система.",
+    "reading": "ඉන්ට්එර්ඔප්එර්අබ්ඉල්න්ඔස්ට් ය්එ ක්ල්ය්උච්න්අ ප්ර්ඉ ප්ඔව්එස්ඉව්අන්ය්උ ස්ඉස්ට්එම්අ.",
     "word": null,
     "options": [
-      "පද්ධති ඒකාබද්ධ කරන විට අන්තර්ක්‍රියා හැකියාව අත්‍යවශ්‍යය.",
-      "අඛණ්ඩතාව",
-      "සහසම්බන්ධතාව"
+      "ජෛව විවිධත්වය",
+      "ක්‍රියාත්මක කළ හැකි බව",
+      "පද්ධති ඒකාබද්ධ කරන විට අන්තර්ක්‍රියා හැකියාව අත්‍යවශ්‍යය."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "පද්ධති ඒකාබද්ධ කරන විට අන්තර්ක්‍රියා හැකියාව අත්‍යවශ්‍යය."
   },
   {
     "id": "c1-sr-final-20",
     "type": "listening",
-    "prompt": "සවන් දී නිවැරදි සිංහල අර්ථය තෝරන්න。",
+    "prompt": "සවන් දී නිවැරදි සිංහල අර්ථය තෝරන්න.",
     "audio": "Korelacija sama po sebi ne dokazuje uzročnost.",
-    "reading": "корелација сама по себи не доказује узрочност.",
+    "reading": "ක්ඔර්එල්අට්ස්ඉය්අ ස්අම්අ ප්ඔ ස්එබ්ඉ න්එ ඩ්ඔක්අස්උය්එ උස්ර්ඔච්න්ඔස්ට්.",
     "word": null,
     "options": [
       "සහසම්බන්ධතාව පමණක් හේතුකාරකත්වය තහවුරු නොකරයි.",
-      "උපකල්පනය",
-      "කථකයා"
+      "අඛණ්ඩතාව",
+      "දුරදක්නා බව"
     ],
     "answer": 0,
     "explanation": "සහසම්බන්ධතාව පමණක් හේතුකාරකත්වය තහවුරු නොකරයි."
@@ -664,12 +568,12 @@ export const ENGLISH_C1_FINAL_EXAM = [
     "reading": null,
     "word": "foresight",
     "options": [
+      "විනිවිදභාවය",
       "අවදානමට ලක්වීමේ හැකියාව",
       "දුරදක්නා බව",
-      "ක්‍රියාත්මක කළ හැකි බව",
-      "ජෛව විවිධත්වය"
+      "ප්‍රතියෝජනාව"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "foresight = දුරදක්නා බව"
   },
   {
@@ -680,12 +584,12 @@ export const ENGLISH_C1_FINAL_EXAM = [
     "reading": null,
     "word": "concession",
     "options": [
-      "පද්ධති අතර අන්තර්ක්‍රියා හැකියාව",
       "සහනයක් ලබාදීම",
-      "අඛණ්ඩතාව",
-      "ස්වයංක්‍රීයකරණය"
+      "පද්ධති අතර අන්තර්ක්‍රියා හැකියාව",
+      "ක්‍රියාත්මක කළ හැකි බව",
+      "වගවීම"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "concession = සහනයක් ලබාදීම"
   },
   {
@@ -696,12 +600,12 @@ export const ENGLISH_C1_FINAL_EXAM = [
     "reading": null,
     "word": "oversight",
     "options": [
+      "ජෛව විවිධත්වය",
       "හේතුකාරකත්වය",
-      "අධීක්ෂණය",
-      "උපකල්පනය",
-      "සහසම්බන්ධතාව"
+      "අඛණ්ඩතාව",
+      "අධීක්ෂණය"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation": "oversight = අධීක්ෂණය"
   },
   {
@@ -714,8 +618,8 @@ export const ENGLISH_C1_FINAL_EXAM = [
     "options": [
       "යටිපෙළ අර්ථය",
       "අවදානමට ලක්වීමේ හැකියාව",
-      "ප්‍රතියෝජනාව",
-      "කථකයා"
+      "උපකල්පනය",
+      "දුරදක්නා බව"
     ],
     "answer": 1,
     "explanation": "vulnerability = අවදානමට ලක්වීමේ හැකියාව"
@@ -728,12 +632,12 @@ export const ENGLISH_C1_FINAL_EXAM = [
     "reading": null,
     "word": "interoperability",
     "options": [
+      "ප්‍රතියෝජනාව",
       "විනිවිදභාවය",
       "පද්ධති අතර අන්තර්ක්‍රියා හැකියාව",
-      "වගවීම",
-      "විශ්වසනීයත්වය"
+      "සහනයක් ලබාදීම"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "interoperability = පද්ධති අතර අන්තර්ක්‍රියා හැකියාව"
   },
   {
@@ -746,8 +650,8 @@ export const ENGLISH_C1_FINAL_EXAM = [
     "options": [
       "ක්‍රියාත්මක කළ හැකි බව",
       "හේතුකාරකත්වය",
-      "ජෛව විවිධත්වය",
-      "නිර්දේශය"
+      "වගවීම",
+      "අධීක්ෂණය"
     ],
     "answer": 1,
     "explanation": "causality = හේතුකාරකත්වය"
@@ -760,12 +664,12 @@ export const ENGLISH_C1_FINAL_EXAM = [
     "reading": null,
     "word": "subtext",
     "options": [
-      "අඛණ්ඩතාව",
       "යටිපෙළ අර්ථය",
-      "ස්වයංක්‍රීයකරණය",
-      "අනුකූලතාව"
+      "අඛණ්ඩතාව",
+      "ජෛව විවිධත්වය",
+      "අවදානමට ලක්වීමේ හැකියාව"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "subtext = යටිපෙළ අර්ථය"
   },
   {
@@ -776,12 +680,12 @@ export const ENGLISH_C1_FINAL_EXAM = [
     "reading": null,
     "word": "transparency",
     "options": [
+      "පද්ධති අතර අන්තර්ක්‍රියා හැකියාව",
       "උපකල්පනය",
-      "විනිවිදභාවය",
-      "සහසම්බන්ධතාව",
-      "දුරදක්නා බව"
+      "දුරදක්නා බව",
+      "විනිවිදභාවය"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation": "transparency = විනිවිදභාවය"
   },
   {
@@ -794,8 +698,8 @@ export const ENGLISH_C1_FINAL_EXAM = [
     "options": [
       "ප්‍රතියෝජනාව",
       "ක්‍රියාත්මක කළ හැකි බව",
-      "කථකයා",
-      "සහනයක් ලබාදීම"
+      "සහනයක් ලබාදීම",
+      "හේතුකාරකත්වය"
     ],
     "answer": 1,
     "explanation": "feasibility = ක්‍රියාත්මක කළ හැකි බව"
@@ -808,12 +712,12 @@ export const ENGLISH_C1_FINAL_EXAM = [
     "reading": null,
     "word": "integrity",
     "options": [
+      "අධීක්ෂණය",
       "වගවීම",
       "අඛණ්ඩතාව",
-      "විශ්වසනීයත්වය",
-      "අධීක්ෂණය"
+      "යටිපෙළ අර්ථය"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "integrity = අඛණ්ඩතාව"
   },
   {
@@ -824,12 +728,12 @@ export const ENGLISH_C1_FINAL_EXAM = [
     "reading": null,
     "word": "assumption",
     "options": [
+      "විනිවිදභාවය",
       "ජෛව විවිධත්වය",
-      "උපකල්පනය",
-      "නිර්දේශය",
-      "අවදානමට ලක්වීමේ හැකියාව"
+      "අවදානමට ලක්වීමේ හැකියාව",
+      "උපකල්පනය"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation": "assumption = උපකල්පනය"
   },
   {
@@ -840,12 +744,12 @@ export const ENGLISH_C1_FINAL_EXAM = [
     "reading": null,
     "word": "counterproposal",
     "options": [
-      "ස්වයංක්‍රීයකරණය",
       "ප්‍රතියෝජනාව",
-      "අනුකූලතාව",
-      "පද්ධති අතර අන්තර්ක්‍රියා හැකියාව"
+      "දුරදක්නා බව",
+      "පද්ධති අතර අන්තර්ක්‍රියා හැකියාව",
+      "ක්‍රියාත්මක කළ හැකි බව"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "counterproposal = ප්‍රතියෝජනාව"
   },
   {
@@ -856,12 +760,12 @@ export const ENGLISH_C1_FINAL_EXAM = [
     "reading": null,
     "word": "accountability",
     "options": [
-      "සහසම්බන්ධතාව",
+      "හේතුකාරකත්වය",
+      "සහනයක් ලබාදීම",
       "වගවීම",
-      "දුරදක්නා බව",
-      "හේතුකාරකත්වය"
+      "අඛණ්ඩතාව"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "accountability = වගවීම"
   },
   {
@@ -872,151 +776,55 @@ export const ENGLISH_C1_FINAL_EXAM = [
     "reading": null,
     "word": "biodiversity",
     "options": [
-      "කථකයා",
+      "අධීක්ෂණය",
       "ජෛව විවිධත්වය",
-      "සහනයක් ලබාදීම",
-      "යටිපෙළ අර්ථය"
+      "යටිපෙළ අර්ථය",
+      "උපකල්පනය"
     ],
     "answer": 1,
     "explanation": "biodiversity = ජෛව විවිධත්වය"
   },
   {
     "id": "c1-en-final-15",
-    "type": "vocabulary",
-    "prompt": "“automation” යන වචනයේ නිවැරදි සිංහල තේරුම තෝරන්න。",
-    "audio": null,
-    "reading": null,
-    "word": "automation",
-    "options": [
-      "විශ්වසනීයත්වය",
-      "ස්වයංක්‍රීයකරණය",
-      "අධීක්ෂණය",
-      "විනිවිදභාවය"
-    ],
-    "answer": 1,
-    "explanation": "automation = ස්වයංක්‍රීයකරණය"
-  },
-  {
-    "id": "c1-en-final-16",
-    "type": "vocabulary",
-    "prompt": "“correlation” යන වචනයේ නිවැරදි සිංහල තේරුම තෝරන්න。",
-    "audio": null,
-    "reading": null,
-    "word": "correlation",
-    "options": [
-      "නිර්දේශය",
-      "සහසම්බන්ධතාව",
-      "අවදානමට ලක්වීමේ හැකියාව",
-      "ක්‍රියාත්මක කළ හැකි බව"
-    ],
-    "answer": 1,
-    "explanation": "correlation = සහසම්බන්ධතාව"
-  },
-  {
-    "id": "c1-en-final-17",
-    "type": "vocabulary",
-    "prompt": "“narrator” යන වචනයේ නිවැරදි සිංහල තේරුම තෝරන්න。",
-    "audio": null,
-    "reading": null,
-    "word": "narrator",
-    "options": [
-      "අනුකූලතාව",
-      "කථකයා",
-      "පද්ධති අතර අන්තර්ක්‍රියා හැකියාව",
-      "අඛණ්ඩතාව"
-    ],
-    "answer": 1,
-    "explanation": "narrator = කථකයා"
-  },
-  {
-    "id": "c1-en-final-18",
-    "type": "vocabulary",
-    "prompt": "“credibility” යන වචනයේ නිවැරදි සිංහල තේරුම තෝරන්න。",
-    "audio": null,
-    "reading": null,
-    "word": "credibility",
-    "options": [
-      "දුරදක්නා බව",
-      "විශ්වසනීයත්වය",
-      "හේතුකාරකත්වය",
-      "උපකල්පනය"
-    ],
-    "answer": 1,
-    "explanation": "credibility = විශ්වසනීයත්වය"
-  },
-  {
-    "id": "c1-en-final-19",
-    "type": "vocabulary",
-    "prompt": "“recommendation” යන වචනයේ නිවැරදි සිංහල තේරුම තෝරන්න。",
-    "audio": null,
-    "reading": null,
-    "word": "recommendation",
-    "options": [
-      "සහනයක් ලබාදීම",
-      "නිර්දේශය",
-      "යටිපෙළ අර්ථය",
-      "ප්‍රතියෝජනාව"
-    ],
-    "answer": 1,
-    "explanation": "recommendation = නිර්දේශය"
-  },
-  {
-    "id": "c1-en-final-20",
-    "type": "vocabulary",
-    "prompt": "“consistency” යන වචනයේ නිවැරදි සිංහල තේරුම තෝරන්න。",
-    "audio": null,
-    "reading": null,
-    "word": "consistency",
-    "options": [
-      "අධීක්ෂණය",
-      "අනුකූලතාව",
-      "විනිවිදභාවය",
-      "වගවීම"
-    ],
-    "answer": 1,
-    "explanation": "consistency = අනුකූලතාව"
-  },
-  {
-    "id": "c1-en-final-15",
     "type": "listening",
-    "prompt": "සවන් දී නිවැරදි සිංහල අර්ථය තෝරන්න。",
+    "prompt": "සවන් දී නිවැරදි සිංහල අර්ථය තෝරන්න.",
     "audio": "Strategic foresight prepares us for several plausible futures.",
     "reading": "ස්ට්ර්ඇට්එග්ඉක් ෆ්ඔර්එස්ඉග්හ්ට් ප්ර්එප්ඇර්එස් අස් ෆ්ඔර් ස්එව්එර්ඇල් ප්ල්ඇඅස්ඉබ්ල්එ ෆ්අට්අර්එස්.",
     "word": null,
     "options": [
-      "උපායමාර්ගික දුරදක්නා බව සිදුවිය හැකි අනාගත කිහිපයකට සූදානම් කරයි.",
-      "හේතුකාරකත්වය",
-      "ප්‍රතියෝජනාව"
+      "පද්ධති අතර අන්තර්ක්‍රියා හැකියාව",
+      "උපායමාර්ගික දුරදක්නා බව අනාගත හැකියාවන් කිහිපයකට සූදානම් කරයි.",
+      "අඛණ්ඩතාව"
     ],
-    "answer": 0,
-    "explanation": "උපායමාර්ගික දුරදක්නා බව සිදුවිය හැකි අනාගත කිහිපයකට සූදානම් කරයි."
+    "answer": 1,
+    "explanation": "උපායමාර්ගික දුරදක්නා බව අනාගත හැකියාවන් කිහිපයකට සූදානම් කරයි."
   },
   {
     "id": "c1-en-final-16",
     "type": "listening",
-    "prompt": "සවන් දී නිවැරදි සිංහල අර්ථය තෝරන්න。",
+    "prompt": "සවන් දී නිවැරදි සිංහල අර්ථය තෝරන්න.",
     "audio": "A limited concession may unlock the negotiations.",
     "reading": "ඇ ල්ඉම්ඉට්එඩ් ක්ඔන්ක්එස්ස්ඉඔන් ම්ඇයි අන්ල්ඔක්ක් ත්එ න්එග්ඔට්ඉඇෂන්ස්.",
     "word": null,
     "options": [
-      "සීමිත සහනයක් සාකච්ඡා ඉදිරියට ගෙන යා හැකිය.",
-      "යටිපෙළ අර්ථය",
-      "වගවීම"
+      "උපකල්පනය",
+      "හේතුකාරකත්වය",
+      "සීමිත සහනයක් සාකච්ඡා ඉදිරියට ගෙන යා හැකිය."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "සීමිත සහනයක් සාකච්ඡා ඉදිරියට ගෙන යා හැකිය."
   },
   {
     "id": "c1-en-final-17",
     "type": "listening",
-    "prompt": "සවන් දී නිවැරදි සිංහල අර්ථය තෝරන්න。",
+    "prompt": "සවන් දී නිවැරදි සිංහල අර්ථය තෝරන්න.",
     "audio": "The board is responsible for effective oversight.",
     "reading": "ත්එ බ්ඔඇර්ඩ් ඉස් ර්එස්ප්ඔන්ස්ඉබ්ල්එ ෆ්ඔර් එෆ්ෆ්එක්ට්ඉව්එ ඔව්එර්ස්ඉග්හ්ට්.",
     "word": null,
     "options": [
       "අධ්‍යක්ෂ මණ්ඩලය ඵලදායී අධීක්ෂණයට වගකිව යුතුය.",
-      "විනිවිදභාවය",
-      "ජෛව විවිධත්වය"
+      "යටිපෙළ අර්ථය",
+      "ප්‍රතියෝජනාව"
     ],
     "answer": 0,
     "explanation": "අධ්‍යක්ෂ මණ්ඩලය ඵලදායී අධීක්ෂණයට වගකිව යුතුය."
@@ -1024,44 +832,44 @@ export const ENGLISH_C1_FINAL_EXAM = [
   {
     "id": "c1-en-final-18",
     "type": "listening",
-    "prompt": "සවන් දී නිවැරදි සිංහල අර්ථය තෝරන්න。",
+    "prompt": "සවන් දී නිවැරදි සිංහල අර්ථය තෝරන්න.",
     "audio": "Biodiversity loss can increase ecosystem vulnerability.",
     "reading": "බ්ඉඔඩ්ඉව්එර්ස්ඉට්යි ල්ඔස්ස් ක්ඇන් ඉන්ක්ර්එඇස්එ එක්ඔස්යිස්ට්එම් ව්අල්න්එර්ඇබ්ඉල්ඉට්යි.",
     "word": null,
     "options": [
+      "විනිවිදභාවය",
       "ජෛව විවිධත්වය අහිමි වීම පරිසර පද්ධතියේ අවදානම වැඩි කළ හැකිය.",
-      "ක්‍රියාත්මක කළ හැකි බව",
-      "ස්වයංක්‍රීයකරණය"
+      "වගවීම"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "ජෛව විවිධත්වය අහිමි වීම පරිසර පද්ධතියේ අවදානම වැඩි කළ හැකිය."
   },
   {
     "id": "c1-en-final-19",
     "type": "listening",
-    "prompt": "සවන් දී නිවැරදි සිංහල අර්ථය තෝරන්න。",
+    "prompt": "සවන් දී නිවැරදි සිංහල අර්ථය තෝරන්න.",
     "audio": "Interoperability is essential when systems are integrated.",
     "reading": "ඉන්ට්එර්ඔප්එර්ඇබ්ඉල්ඉට්යි ඉස් එස්ස්එන්ට්ඉඇල් ව්හ්එන් ස්යිස්ට්එම්ස් ඇර්එ ඉන්ට්එග්ර්ඇට්එඩ්.",
     "word": null,
     "options": [
-      "පද්ධති ඒකාබද්ධ කරන විට අන්තර්ක්‍රියා හැකියාව අත්‍යවශ්‍යය.",
-      "අඛණ්ඩතාව",
-      "සහසම්බන්ධතාව"
+      "ජෛව විවිධත්වය",
+      "ක්‍රියාත්මක කළ හැකි බව",
+      "පද්ධති ඒකාබද්ධ කරන විට අන්තර්ක්‍රියා හැකියාව අත්‍යවශ්‍යය."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "පද්ධති ඒකාබද්ධ කරන විට අන්තර්ක්‍රියා හැකියාව අත්‍යවශ්‍යය."
   },
   {
     "id": "c1-en-final-20",
     "type": "listening",
-    "prompt": "සවන් දී නිවැරදි සිංහල අර්ථය තෝරන්න。",
+    "prompt": "සවන් දී නිවැරදි සිංහල අර්ථය තෝරන්න.",
     "audio": "Correlation alone does not establish causality.",
     "reading": "ක්ඔර්ර්එල්ඇෂන් ඇල්ඔන්එ ඩ්ඔඑස් න්ඔට් එස්ට්ඇබ්ල්ඉෂ් ක්ඇඅස්ඇල්ඉට්යි.",
     "word": null,
     "options": [
       "සහසම්බන්ධතාව පමණක් හේතුකාරකත්වය තහවුරු නොකරයි.",
-      "උපකල්පනය",
-      "කථකයා"
+      "අඛණ්ඩතාව",
+      "දුරදක්නා බව"
     ],
     "answer": 0,
     "explanation": "සහසම්බන්ධතාව පමණක් හේතුකාරකත්වය තහවුරු නොකරයි."
