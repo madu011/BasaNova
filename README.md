@@ -312,3 +312,8 @@ The B2 course now has 25 paired Serbian and English lessons authored and connect
 ## B2 course progress update — lessons 26–40
 
 BasaNova now includes 40 paired Serbian and English B2 lesson records (40/50 per language), connected to the existing B2 lesson arrays consumed by the Learn screen. The new batch covers contract negotiation, lifelong learning, urban planning and housing, workplace mediation, consumer rights, energy transition, research quality, public speaking, cultural identity and migration, digital privacy, healthcare communication, financial planning, journalism and source evaluation, project delivery, and technology ethics. Each lesson record includes vocabulary, Sinhala meanings and pronunciation guidance, grammar, examples, a dialogue, listening and practice questions. Ten lessons remain per language. This batch is a structured learning draft: Serbian readings and idiom, English/Sinhala translations, and the repeated practice scaffolding need editorial review; it is not CEFR certification.
+
+
+## B2 course progress update — lessons 41–50 complete
+
+The Serbian and English B2 lesson arrays now each contain 50 paired lesson records (50/50). The final batch covers international cooperation and diplomacy, crisis communication, advanced negotiation, literature and critical interpretation, professional correspondence, social inequality, sustainable tourism, entrepreneurship, linguistic nuance, and integrated B2 communication. The lesson arrays are consumed by the existing B2 Learn screen. B2 cumulative revision and final assessments are the next content milestone. Lesson count completion does not mean accredited CEFR certification: language review, richer contextual dialogues, assessment design, and build/device verification remain.
