@@ -293,3 +293,7 @@ The Cloudflare Worker uses the included `cloudflare/wrangler.toml` rate-limit bi
 
 ### Course size and A2 lesson count
 Each CEFR level is planned for **50 lessons**. A2 is capped at lessons 1–50 in both Serbian and English; future content work proceeds in paired batches of at least 10 lessons per language rather than extending the level beyond its 50-lesson target.
+
+
+### B1 course progress
+The first 10 paired B1 lessons are now authored for Serbian and English and integrated into the Learn screen. Topics cover memorable experiences, opinions and reasons, workplace problem-solving, comparing options, news and reports, formal requests, clarification, project planning, changes over time, and balanced advice. Each lesson contains eight vocabulary entries, Sinhala-script pronunciation, Sinhala meanings, grammar guidance, four examples, a four-line dialogue, listening practice and four questions. The B1 level target remains 50 lessons; 40 per language remain to be authored. Pronunciation guides are approximate.
