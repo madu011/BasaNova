@@ -187,3 +187,6 @@
 
 
 - 2026-11-18 continuation: Expanded Serbian number lesson with `deset hiljada` (10,000), `pedeset hiljada` (50,000), and `petsto hiljada` (500,000). Added Sinhala meanings, currency examples, grammar coverage, quiz questions, and exact Sinhala-script readings for each phrase and its dinar example. Lesson commit: `3c90c2060094cac96d2f84c76826bc573a231de2`; pronunciation commit: `2f539ca9eeeafc948a37265bab2e0366d93c4c73`. All readings are approximate learner aids; Serbian TTS/native-speaker review remains important.
+
+
+- 2026-11-18 continuation: Extended Serbian large-number lesson to `dva miliona` (2,000,000), `pet miliona` (5,000,000), `deset miliona` (10,000,000), and `sto miliona` (100,000,000). Added vocabulary, Sinhala meanings, dinar examples, a short explanation of the `milion` / `miliona` forms, quiz items, and exact Sinhala-script readings. Lesson commit: `b33dc5797f52396dc1bc0871e1e3b11d8647d0d1`; pronunciation commit: `e609a67d129e2c5f35b79e36da4e5f61c5dc30af`. Readings are approximate aids; use Serbian audio/native-speaker review for pronunciation.
