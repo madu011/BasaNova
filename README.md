@@ -9,12 +9,12 @@ BasaNova is a Sinhala-first language-learning app for learning Serbian and Engli
 - Serbian and English learning modes
 - Expanded Serbian and English beginner vocabulary decks (502 Serbian and 500 English entries; 1,002 total) with Sinhala meanings, approximate readings and example sentences
 - The A1 vocabulary packs cover numbers, weekdays, meals/food, everyday objects, shopping, directions, workplace, transport, home, weather, basic health, clothing, colours, daily verbs, useful adjectives, money, public places, technology, time expressions, family, feelings, cooking, meals, travel, road safety, tools, nature, healthcare, household cleaning, appliances, food, shopping, city services, travel, communication and specialist professions in both languages
-- Structured Serbian A1 lessons with Sinhala-script pronunciation guides for vocabulary, example sentences and dialogue lines; individual audio controls for each headword, example, and key Serbian grammar phrase; Sinhala-script readings and Serbian audio for quiz answer choices; grammar explanations and interactive comprehension questions; current authored lessons include introductions, greetings, café ordering, numbers/counting, and market shopping with quantities and prices
+- Structured A1 curricula developed in parallel: 9 Serbian lessons and 9 English lessons, with matching new modules for café ordering and everyday requests/help. Lessons include Sinhala meanings, Sinhala-script pronunciation support, grammar, examples, dialogues, quizzes and listening checks; Serbian vocabulary/example/dialogue cards use manually authored readings where provided and a documented approximate fallback elsewhere
 - More than 1,000 standard vocabulary entries across Serbian and English
 - Separate Serbian and English slang / mild profanity learning cards with Sinhala meanings, approximate pronunciation, contextual examples, caution notes, and audio playback; kept outside the standard vocabulary deck
 - Expanded Serbian A1 practical phrases for asking the time, requesting slower speech or repetition, asking for help/directions, and basic work communication
 - English vocabulary deck now shows a Sinhala-script approximate reading for every example sentence, alongside the existing headword reading and separate word/example audio controls
-- Item-by-item Sinhala-script pronunciation guides and separate speaker controls for English A1 vocabulary, example sentences, grammar phrases, dialogue lines and quiz options
+- Item-by-item Sinhala-script pronunciation guides and separate speaker controls for English A1 vocabulary, example sentences, grammar phrases, dialogue lines, quiz options and listening checks
 - Sinhala pronunciation guides
 - Sinhala-to-Serbian translator panel with Sinhala pronunciation approximation, Serbian text-to-speech, copy-to-clipboard and recent phrase history (saved locally on the device)
 - Text-to-speech playback for words and example sentences
@@ -39,8 +39,8 @@ npx expo start
 Open the project with Expo Go on Android to preview it.
 
 ## Roadmap
-1. Expand Serbian curriculum: Latin/Cyrillic alphabet, pronunciation, grammar, cases, verbs, and practical conversations.
-2. Expand English curriculum from beginner to advanced.
+1. Continue building Serbian and English curricula in parallel, matching topics and learning depth at each CEFR level.
+2. Expand both curricula from A1 through A2, B1, B2, C1 and C2 with practical conversations, grammar, listening, speaking, reading and writing.
 3. Add speech recognition and speaking feedback.
 4. Add secure AI tutor backend and adaptive lesson generation.
 5. Add Supabase authentication, cloud progress sync, and user profiles.
