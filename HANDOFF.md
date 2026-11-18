@@ -529,3 +529,19 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 
 
 - C1 source review follow-up: corrected several mixed Latin/Cyrillic characters in Sinhala-script Serbian pronunciation readings and replaced a Cyrillic quiz answer with Sinhala options. Commit: `b9740c94c2b6158a19d2eb925da1eb2027e06635`. This is a source-level correction only; pronunciation remains approximate and still needs a fluent Serbian speaker.
+
+
+## Latest continuation — 2026-11-18: C1 lessons 11–20
+
+- Added `serbianC1Lessons11_20.js` and `englishC1Lessons11_20.js`, ten lessons per language. Topics: negotiation/consensus; risk and uncertainty; data interpretation/statistical caution; ethical dilemmas; cross-cultural pragmatics; complex sentence cohesion; mediation; research design/evidence quality; strategic planning; integrated C1 case study and synthesis.
+- Each lesson has eight vocabulary entries, Sinhala meanings and approximate Sinhala-script readings, grammar guidance, four examples, four dialogue lines, one listening comprehension check and four practice questions.
+- Integrated both new arrays in `App.js` so the existing C1 panel displays lessons 1–20 in each selected language.
+- Updated `curriculum.js` and README. C1 now has 20 Serbian + 20 English authored records; 30 more per language remain.
+- Commits: Serbian batch file `fe383436fc370a1604752e4c4340e473b94648d6`; English batch file `8fd79bd62b5d3fc4cde45df444b2baa578dec282`; Serbian reading cleanup `976d2e84d2b916afce4ff61df1161c9367408cf3`; App integration `24ad7b7cb179f8e9bd554879b195e7e2821597c8`; curriculum `a6ba69da7f9e1fed8adf0379f75c7648d284e6bc`; README `101c5f1734c64a809e08908d872e9616b1a8d73f`.
+- Source JSON structure was parsed and checked: 10 lessons per file; each lesson has the expected vocabulary, examples, dialogue, listening options and practice counts. Sinhala pronunciation fields were checked for Latin/Cyrillic characters. This is a data-structure check only, not a React Native/Expo build or device test.
+
+### Next exact task
+1. Verify the latest App integration and CI/build status; fix any errors before further expansion.
+2. Continue C1 lessons 21–30 in Serbian and English together, preserving non-duplicate topics and the existing lesson schema.
+3. Continue with lessons 31–40 and 41–50, then add cumulative C1 revision and a practice final assessment.
+4. Start C2 after C1 is complete. Do not claim an APK is ready until an actual build artifact and Android runtime test are confirmed.
