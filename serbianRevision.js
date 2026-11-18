@@ -25,7 +25,7 @@ export const SERBIAN_A1_LISTENING = [
  {prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Želim da pošaljem paket.”",audio:"Želim da pošaljem paket.",options:["මට පාර්සලයක් යවන්න ඕනේ.","මට ලිපිනය වෙනස් කරන්න ඕනේ.","තැපැල් කාර්යාලය කොහෙද?"],readings:["ෂෙලිම් දා පොෂාල්යෙම් පාකෙත්.","ෂෙලිම් දා ප්‍රොමෙනිම් අද්‍රෙසු.","ග්දේ යේ පොෂ්තා?"],answer:0,meaning:"Želim da pošaljem paket. = මට පාර්සලයක් යවන්න ඕනේ."}
 
  ,{prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Želim da zakažem pregled.”",audio:"Želim da zakažem pregled.",options:["මට වෛද්‍ය පරීක්ෂාවක් වෙන්කරගන්න ඕනේ.","මට පාර්සලයක් යවන්න ඕනේ.","මට කෝපි එකක් ඕනේ."],readings:["ෂෙලිම් දා සාකාෂෙම් ප්‍රෙග්ලෙද්.","ෂෙලිම් දා පොෂාල්යෙම් පාකෙත්.","ෂෙලිම් කාෆු."],answer:0,meaning:"Želim da zakažem pregled. = මට වෛද්‍ය පරීක්ෂාවක් වෙන්කරගන්න ඕනේ."}
- ,{prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Boli me glava.”",audio:"Boli me glava.",options:["මගේ හිස රිදෙනවා.","මට උණ තියෙනවා.","ඖෂධහල කොහෙද?"],readings:["බොලි මෙ ග්ලාවා.","ඉමාම් තෙම්පෙරතූරු.","ග්දේ යේ අපොතෙකා?"],answer:0,meaning:"Boli me glava. = මගේ හිස රිදෙනවා."}
+ 
 
 
 ];
