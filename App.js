@@ -316,9 +316,11 @@ export default function App(){
  const [translateInput,setTranslateInput]=useState(""),[translateOutput,setTranslateOutput]=useState(""),[translateLoading,setTranslateLoading]=useState(false),[translateError,setTranslateError]=useState(""),[translateHistory,setTranslateHistory]=useState([]),[translateCopied,setTranslateCopied]=useState(false);
  const [vocabSearch,setVocabSearch]=useState("");
  const [vocabLetter,setVocabLetter]=useState("ALL");
+ const [favoriteWords,setFavoriteWords]=useState([]);
+ const [showFavoritesOnly,setShowFavoritesOnly]=useState(false);
  const [storageReady,setStorageReady]=useState(false);
- useEffect(()=>{let active=true;(async()=>{try{const raw=await AsyncStorage.getItem("basanova-progress-v1");if(raw&&active){const saved=JSON.parse(raw);setTheme(saved.theme==="light"?"light":"dark");setLessonAnswers(saved.lessonAnswers||{});setLessonChecked(saved.lessonChecked||{});setMissionDone(Array.isArray(saved.missionDone)?saved.missionDone:[]);setXp(Number.isFinite(saved.xp)?saved.xp:0);setLearned({Serbian:Array.isArray(saved.learned?.Serbian)?saved.learned.Serbian:[],English:Array.isArray(saved.learned?.English)?saved.learned.English:[]});setTranslateHistory(Array.isArray(saved.translateHistory)?saved.translateHistory:[]);if(saved.language==="Serbian"||saved.language==="English")setLanguage(saved.language);}}catch(error){console.warn("Could not restore BasaNova progress",error);}finally{if(active)setStorageReady(true);}})();return()=>{active=false;};},[]);
- useEffect(()=>{if(!storageReady)return;const payload={theme,lessonAnswers,lessonChecked,missionDone,xp,learned,translateHistory,language};AsyncStorage.setItem("basanova-progress-v1",JSON.stringify(payload)).catch(error=>console.warn("Could not save BasaNova progress",error));},[storageReady,theme,lessonAnswers,lessonChecked,missionDone,xp,learned,translateHistory,language]);
+ useEffect(()=>{let active=true;(async()=>{try{const raw=await AsyncStorage.getItem("basanova-progress-v1");if(raw&&active){const saved=JSON.parse(raw);setTheme(saved.theme==="light"?"light":"dark");setLessonAnswers(saved.lessonAnswers||{});setLessonChecked(saved.lessonChecked||{});setMissionDone(Array.isArray(saved.missionDone)?saved.missionDone:[]);setXp(Number.isFinite(saved.xp)?saved.xp:0);setLearned({Serbian:Array.isArray(saved.learned?.Serbian)?saved.learned.Serbian:[],English:Array.isArray(saved.learned?.English)?saved.learned.English:[]});setTranslateHistory(Array.isArray(saved.translateHistory)?saved.translateHistory:[]);setFavoriteWords(Array.isArray(saved.favoriteWords)?saved.favoriteWords:[]);if(saved.language==="Serbian"||saved.language==="English")setLanguage(saved.language);}}catch(error){console.warn("Could not restore BasaNova progress",error);}finally{if(active)setStorageReady(true);}})();return()=>{active=false;};},[]);
+ useEffect(()=>{if(!storageReady)return;const payload={theme,lessonAnswers,lessonChecked,missionDone,xp,learned,translateHistory,language,favoriteWords};AsyncStorage.setItem("basanova-progress-v1",JSON.stringify(payload)).catch(error=>console.warn("Could not save BasaNova progress",error));},[storageReady,theme,lessonAnswers,lessonChecked,missionDone,xp,learned,translateHistory,language,favoriteWords]);
  const words=language?courses[language]:[],current=language?words[index%words.length]:null;
  const vocabularyEntries=useMemo(()=>{
   if(!language)return [];
@@ -346,7 +348,8 @@ export default function App(){
   return [...unique.values()].sort((a,b)=>a.word.localeCompare(b.word,language==="Serbian"?"sr":"en",{sensitivity:"base"}));
  },[language,words]);
  const alphabetLetters=language==="Serbian"?["ALL",..."ABCČĆDEFGHIJKLMNOPRSŠTUVZŽ"]:["ALL",..."ABCDEFGHIJKLMNOPQRSTUVWXYZ"];
- const filteredVocabulary=vocabularyEntries.filter(item=>(vocabLetter==="ALL"||item.word.toLocaleUpperCase().startsWith(vocabLetter))&&(!vocabSearch.trim()||(item.word+" "+item.meaning+" "+item.reading).toLocaleLowerCase().includes(vocabSearch.trim().toLocaleLowerCase())));
+ const filteredVocabulary=vocabularyEntries.filter(item=>(!showFavoritesOnly||favoriteWords.includes(item.word))&&(vocabLetter==="ALL"||item.word.toLocaleUpperCase().startsWith(vocabLetter))&&(!vocabSearch.trim()||(item.word+" "+item.meaning+" "+item.reading).toLocaleLowerCase().includes(vocabSearch.trim().toLocaleLowerCase())));
+ const toggleFavorite=word=>setFavoriteWords(items=>items.includes(word)?items.filter(item=>item!==word):[...items,word]);
 
  const count=language?learned[language].length:0,percent=language?Math.round(count/words.length*100):0;
  const dialogs=language?speakingPractice[language]:[],dialog=dialogs[dialogIndex%dialogs.length];
@@ -373,13 +376,14 @@ export default function App(){
     <Text style={s.eyebrow}>📖 BASANOVA · VOCABULARY LIBRARY</Text>
     <Text style={s.cardTitle}>{language==="Serbian"?"🇷🇸 Serbian":"🇬🇧 English"} වචන පොත</Text>
     <Text style={s.sub}>පාඩම්, උදාහරණ, සංවාද සහ වචන එකතුවෙන් සකස් කළ වචන සහ වාක්‍ය. අලුත් අන්තර්ගතය එකතු වන විට මෙයද ස්වයංක්‍රීයව යාවත්කාලීන වේ.</Text>
+    <TouchableOpacity onPress={()=>setShowFavoritesOnly(v=>!v)} style={[s.action,{backgroundColor:showFavoritesOnly?C.gold:C.panel2,borderWidth:1,borderColor:C.line}]}><Text style={[s.actionText,{color:showFavoritesOnly?C.bg:C.teal}]}>★ {showFavoritesOnly?"සුරැකි වචන පමණක්":"සුරැකි වචන බලන්න"} · {favoriteWords.length}</Text></TouchableOpacity>
     <View style={s.vocabSummary}><Text style={s.vocabCount}>{filteredVocabulary.length}</Text><Text style={s.sub}>පෙන්වන වචන / වාක්‍ය · මුළු එකතුව {vocabularyEntries.length}</Text></View>
     <TextInput value={vocabSearch} onChangeText={setVocabSearch} placeholder="වචනයක්, තේරුමක් හෝ උච්චාරණයක් සොයන්න..." placeholderTextColor={C.muted} style={s.vocabSearch}/>
     <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={{gap:7,paddingVertical:12}}>
      {alphabetLetters.map(letter=><TouchableOpacity key={letter} onPress={()=>setVocabLetter(letter)} style={[s.vocabLetter,vocabLetter===letter&&s.vocabLetterActive]}><Text style={[s.vocabLetterText,vocabLetter===letter&&s.vocabLetterTextActive]}>{letter==="ALL"?"සියල්ල":letter}</Text></TouchableOpacity>)}
     </ScrollView>
     {filteredVocabulary.length===0?<Text style={s.sub}>මේ අකුරෙන් හෝ සෙවුමට ගැළපෙන වචන හමු වුණේ නැහැ.</Text>:filteredVocabulary.map((item,i)=><View key={item.word+"-"+i} style={s.vocabEntry}>
-     <View style={s.vocabEntryTop}><Text style={s.vocabWord}>{item.word}</Text><Text style={s.vocabSource}>{item.source}</Text></View>
+     <View style={s.vocabEntryTop}><Text style={s.vocabWord}>{item.word}</Text><TouchableOpacity accessibilityRole="button" accessibilityLabel={favoriteWords.includes(item.word)?"සුරැකි වචනවලින් ඉවත් කරන්න":"වචනය සුරකින්න"} onPress={()=>toggleFavorite(item.word)}><Text style={{fontSize:20,color:favoriteWords.includes(item.word)?C.gold:C.muted}}>{favoriteWords.includes(item.word)?"★":"☆"}</Text></TouchableOpacity><Text style={s.vocabSource}>{item.source}</Text></View>
      <Text style={s.sound}>සිංහල උච්චාරණය: {item.reading}</Text>
      <Text style={s.vocabMeaning}>{item.meaning}</Text>
      {!!item.example&&<View style={s.vocabExample}><Text style={s.vocabExampleText}>{item.example}</Text><Text style={s.sound}>උච්චාරණය: {item.exampleReading}</Text>{!!item.translation&&<Text style={s.sub}>තේරුම: {item.translation}</Text>}<TouchableOpacity accessibilityRole="button" accessibilityLabel="උදාහරණ වාක්‍යයේ හඬ අහන්න" onPress={()=>speak(item.example,language)}><Text style={s.link}>🔊 උදාහරණය අහන්න</Text></TouchableOpacity></View>}
