@@ -216,3 +216,16 @@ GitHub Actions runs dependency installation, Expo SDK compatibility checks, and 
 - Each lesson includes eight vocabulary entries with Sinhala meanings and Sinhala-script readings, five grammar phrase cards, four examples, a six-line dialogue, one listening task and four quizzes.
 - Added two lesson-aligned Serbian listening prompts. Lesson objects remain paired by topic across both courses.
 - Source-level checks are recorded in HANDOFF.md. No native APK build or Android device test is claimed; pronunciation guides remain approximate and need fluent-speaker review.
+
+
+## Online Google voice (Serbian + English)
+
+BasaNova can use Google Cloud Text-to-Speech for natural Serbian and English playback. The app sends only the selected learning text and language to a small Cloudflare Worker; the Google API key stays on the Worker and must never be placed in the mobile app.
+
+1. In Google Cloud, enable the **Cloud Text-to-Speech API** and configure billing/usage limits.
+2. Create a Cloudflare Worker using `cloudflare/voice-worker.js`.
+3. Add a Worker secret named `GOOGLE_TTS_API_KEY` containing the Google API key.
+4. Set the GitHub Actions repository variable `EXPO_PUBLIC_VOICE_API_URL` to the deployed Worker base URL (for example, `https://basanova-voice.<your-subdomain>.workers.dev`, without `/speak`).
+5. Rebuild the Android app. The app calls the online Google voice service for every existing Serbian/English audio button. If the service URL is not configured or the request fails, it falls back to the device's built-in speech voice.
+
+The Worker accepts only Serbian (`sr-RS`) and English (`en-US`), limits text to 5,000 characters, returns MP3 audio, and keeps the Google key server-side. Google Cloud usage may incur charges; configure API restrictions, quotas and billing alerts before public release.
