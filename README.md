@@ -289,3 +289,7 @@ The Cloudflare Worker uses the included `cloudflare/wrangler.toml` rate-limit bi
 - Each lesson includes eight vocabulary cards with Sinhala-script readings and meanings, Sinhala-supported grammar, four example phrases, a four-line dialogue, one listening check and four practice questions.
 - Serbian lesson IDs: `sr-a2-l46` through `sr-a2-l55`; English lesson IDs: `en-a2-l46` through `en-a2-l55`.
 - Pronunciation guides are approximate. Source validation and build/device test status will be recorded in HANDOFF; no APK or physical-device result is claimed.
+
+
+### Course size and A2 lesson count
+Each CEFR level is planned for **50 lessons**. A2 is capped at lessons 1–50 in both Serbian and English; future content work proceeds in paired batches of at least 10 lessons per language rather than extending the level beyond its 50-lesson target.
