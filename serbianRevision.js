@@ -33,6 +33,8 @@ export const SERBIAN_A1_MIXED_REVISION = [
  {audio:"Želim da rezervišem sobu.",reading:"ෂෙලිම් දා රෙසෙර්විෂෙම් සොබු.",options:["මට කාමරයක් වෙන් කරගන්න ඕනේ.","මට ටිකට්පතක් ඕනේ.","මට වැඩට යන්න ඕනේ."],answer:0},
  {audio:"Koliko je sati?",reading:"කොලිකො යේ සාති?",options:["වෙලාව කීයද?","මේක කීයද?","ඔබගේ නම කුමක්ද?"],answer:0},
  {audio:"Radim od devet do pet.",reading:"රාදිම් ඔද් දෙවෙත් දො පෙත්.",options:["මම හතට නැගිටිනවා.","මම නවයේ සිට පහ දක්වා වැඩ කරනවා.","මම සවස විවේක ගන්නවා."],answer:1},
- {audio:"Nedelja mi je slobodna.",reading:"නෙදෙල්යා මි යේ ස්ලොබොද්නා.",options:["ඉරිදා මට නිවාඩුයි.","ඉරිදා මම වැඩ පටන් ගන්නවා.","මම සෙනසුරාදා ගමන් කරනවා."],answer:0}
+ {audio:"Nedelja mi je slobodna.",reading:"නෙදෙල්යා මි යේ ස්ලොබොද්නා.",options:["ඉරිදා මට නිවාඩුයි.","ඉරිදා මම වැඩ පටන් ගන්නවා.","මම සෙනසුරාදා ගමන් කරනවා."],answer:0},
+ {audio:"Jednu kartu do Novog Sada, molim.",reading:"යෙද්නු කාර්තු දො නොවොග් සාදා, මොලීම්.",options:["නෝවි සාද් දක්වා ටිකට් එකක් දෙන්න, කරුණාකර.","වේදිකාව කොහෙද?","දුම්රිය ප්‍රමාදයි."],answer:0},
+ {audio:"Knjiga je na stolu.",reading:"ක්න්යිගා යේ නා ස්තොලු.",options:["පොත කාමරයේ තියෙනවා.","පොත මේසය මත තියෙනවා.","ඇඳ කාමරයේ තියෙනවා."],answer:1}
 
 ];
