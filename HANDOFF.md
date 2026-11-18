@@ -53,7 +53,7 @@
 |---|---:|---|
 | App foundation, navigation and visual shell | 70% | Expo app, language modes, core tabs and theme are present; final UI polish and accessibility remain |
 | Vocabulary and reference library | 85% | README records 577 Serbian + 575 English standard vocabulary entries after pack 12; A–Z dictionary, search and saved-word filter exist |
-| Structured language curriculum | 31% | 36 Serbian + 36 English structured A1 lesson objects are present, with visible numbering through lesson 28; A1 still needs broader coverage and all A2–C2 lesson content is outstanding |
+| Structured language curriculum | 33% | 39 Serbian + 39 English structured A1 lesson objects are present, with visible numbering through lesson 42; A1 final coverage audit and cumulative assessments remain, and A2–C2 lesson content is outstanding |
 | Learning interactions | 73% | TTS, paired lesson quizzes/listening exercises, authored Sinhala readings, mixed revision and vocabulary examples exist; speaking feedback and broader assessments remain |
 | Progress persistence and accounts | 40% | AsyncStorage saves selected language, lesson/revision checks, vocabulary, XP/missions, theme and translator history locally; account and cloud sync remain outstanding |
 | Advanced services and offline support | 20% | Translator and preview-level AI area exist; live AI tutor, speech recognition and complete offline packs are not implemented |
@@ -61,7 +61,7 @@
 
 **How the estimate is weighted:** app foundation 15%, vocabulary/library 15%, structured curriculum 30%, learning interactions 15%, persistence/accounts 10%, advanced services/offline 10%, QA/release 5%. Applying the workstream estimates gives approximately 47%.
 
-**Current learning-content count:** 25 Serbian A1 lesson objects and 25 English A1 lesson objects; visible lesson numbering now reaches lesson 28. Paired topics include food/cooking, weather/clothing, restaurant ordering, customer service, phone calls, parcels and doctor/health. Lesson 26 in each language contains eight vocabulary entries, grammar phrase cards, four examples, a six-line dialogue, four practice questions and one listening task. The Serbian listening and mixed-revision arrays need continued array-to-lesson order checks as content is added. Earlier lessons still need a complete topic-by-topic audit; do not assume the entire syllabus is fully aligned.
+**Current learning-content count:** 39 Serbian A1 lesson objects and 39 English A1 lesson objects; visible lesson numbering now reaches lesson 42. Paired topics include food/cooking, weather/clothing, restaurant ordering, customer service, phone calls, parcels and doctor/health. Lesson 26 in each language contains eight vocabulary entries, grammar phrase cards, four examples, a six-line dialogue, four practice questions and one listening task. The Serbian listening and mixed-revision arrays need continued array-to-lesson order checks as content is added. Earlier lessons still need a complete topic-by-topic audit; do not assume the entire syllabus is fully aligned.
 
 **Not yet verified:** latest full CI run, native Android APK build, APK installation, physical-device runtime, complete offline behavior, and end-to-end persistence of lesson progress. Do not treat the 46% estimate as build/test certification.
 
@@ -301,3 +301,15 @@
 
 
 - 2026-11-18: Added three paired A1 lessons (37–39): family and people, home and rooms, and booking appointments. Both Serbian and English versions include eight vocabulary items with Sinhala readings/meanings, grammar cards, four examples, a six-line dialogue, listening practice and four quiz questions. Serbian commit `fd7cafd6b04e9600ca1b94dd3c0e8ef0b08101c4`; English commit `048dcd6a0785005f913f510d8d02e1dbb81f2139`; README commit is recorded in this session. CI for lessons 34–36 is still in progress; CI for lessons 37–39 is pending. No APK/device test is confirmed. Next: complete remaining A1 topics and create matched A1 revision + final tests for both languages, then begin A2 content in parallel.
+
+
+## A1 lesson continuation — 2026-11-18 (latest)
+- Added paired Serbian and English A1 lessons 40–42: supermarket checkout and payment, city places/directions, and workplace safety/instructions.
+- Each of the six new lesson objects includes 8 vocabulary entries, Sinhala readings and meanings, grammar phrase cards, 4 examples, a 6-line dialogue, one listening task, and 4 quiz questions.
+- Serbian data commit: `79ba4542acc17a65a229011eab7cc3c7bc2dbf91`.
+- English data commit: `04c52ddcd22a996383d98f9a0cb0b69553643dce`.
+- Verified source-level lesson object IDs before the new batch: 36 per language. The new batch adds 3 per language, for 39 each; visible numbering is now 40–42.
+- Prior validation for lessons 37–39 passed on both languages: Expo validation run `44322095970` and `44322089683`.
+- Current batch workflows: Expo validation run `44322886065`; Android APK build run `44322885943`. Both were in progress at the last check. Do not claim pass or APK artifact until checked.
+- No physical Android device test has been performed. Sinhala pronunciation spellings are approximations and require fluent-speaker review.
+- Next: verify both current workflows; audit A1 syllabus coverage and lesson schema alignment; add matched Serbian/English cumulative A1 final tests and connect them to the Learn UI; only then mark A1 lessons complete. After that, start paired A2 content. Do not imply A2–C2 courses are complete.
