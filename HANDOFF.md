@@ -479,3 +479,15 @@
 - Source-level validation is pending re-fetch in this session. Content limitations: Sinhala pronunciation is approximate; Serbian idiom and grammar, translations, and English/Sinhala readings need editorial review. Newer batches use reusable practice scaffolding and require richer contextual dialogues and more topic-specific exercises. 50 lesson records do not constitute CEFR certification.
 - No Expo/JavaScript build, CI pass, APK artifact, installation or physical-device test was run.
 - Next: create paired B2 cumulative revision and scored final assessments (Serbian and English), using language-specific question sets, listening/TTS prompts, valid answer keys, score feedback and a retry flow. Then audit language quality and run build/Android verification.
+
+
+## Latest session — B2 revision and final assessments (2026-11-18)
+
+- Added `b2FinalExams.js` with paired Serbian and English cumulative revision sets (10 questions each) and final practice exams (20 questions each; 10 vocabulary + 10 listening).
+- Integrated the B2 revision and final assessment panels into the existing B2 section in App.js. The UI includes TTS playback for vocabulary/listening, per-question revision feedback, final answer review, score percentage, suggested 70% threshold (14/20), language-switch reset for submitted exam state, and retry.
+- Assessment data commit: `e1526304b3615e23ac42eb0c9059a027f47bf5df`; App integration commit: `efa2817f57cef10322707f0e7d9c90bd7e22f0fc`; curriculum update: `73342d86151024913fa16a323990e2b3861ae594`; README update: `3030e13a0e5ccd70928d7307f8cf5a40a8b64dd8`.
+- Both B2 lesson arrays are complete at 50/50 each. B2 cumulative revision and final exam content is now authored and wired into the existing Learn screen.
+- Source-level validation: each language has 10 revision questions and 20 final questions; every answer index is within the corresponding options array; final exams contain 10 vocabulary and 10 listening items; App.js imports and renders both language sets. Some questions have three options and others four; UI renders the supplied option count. This validates structure, not semantic correctness of every distractor or listening translation.
+- Quality limitations: Serbian naturalness and Sinhala-script pronunciation, English/Sinhala translations, and listening answer alignment require editorial review. Assessments are practice tools, not CEFR certification.
+- No Expo/JavaScript build, CI pass, APK artifact, installation or physical-device test was run.
+- Next: audit B2 final exam listening answers and lesson language quality; run JavaScript/Expo build and CI if possible; then Android APK/device verification. Do not claim build or device success until actually tested.
