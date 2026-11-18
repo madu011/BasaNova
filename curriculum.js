@@ -57,3 +57,13 @@ export const LESSON_METHOD = [
   "ශ්‍රවණය, කථනය, කියවීම සහ ලිවීමේ පුහුණුව",
   "නැවත මතක් කිරීම සහ පාඩම් ප්‍රශ්න"
 ];
+
+
+// B1 lesson-content milestone. Ten paired lessons are authored; the full 50-lesson level is not complete.
+export const B1_COURSE_STATUS = {
+  plannedLessons: 50,
+  authoredLessons: { Serbian: 10, English: 10 },
+  pairedTopics: true,
+  remainingLessons: 40,
+  remainingValidation: ["complete lessons 11–50 in paired batches", "cumulative B1 revision and assessment", "fluent-speaker review of Sinhala pronunciation", "CI and Android device verification"]
+};
