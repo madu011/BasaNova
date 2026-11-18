@@ -545,3 +545,5 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 2. Continue C1 lessons 21–30 in Serbian and English together, preserving non-duplicate topics and the existing lesson schema.
 3. Continue with lessons 31–40 and 41–50, then add cumulative C1 revision and a practice final assessment.
 4. Start C2 after C1 is complete. Do not claim an APK is ready until an actual build artifact and Android runtime test are confirmed.
+
+- Final Sinhala-script reading sweep for Serbian C1 batch 11–20 completed in commit `3ae8ebf537ae2af0a24415f29598f6af79b28d7c`; all reading fields now contain Sinhala script only. Pronunciation is still approximate and requires fluent-speaker review.
