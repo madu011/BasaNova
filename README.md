@@ -181,3 +181,9 @@ GitHub Actions runs dependency installation, Expo SDK compatibility checks, and 
 - Each language lesson contains eight vocabulary entries with Sinhala meanings/readings, five grammar phrase cards, four examples, a six-line dialogue, four quizzes and one listening task.
 - Added two Serbian listening checks in lesson-array order and two new English mixed-revision checks. The course totals are now 16 structured A1 lessons in each language.
 - This is still a starter course, not a complete CEFR A1 syllabus. Sinhala-script pronunciation is approximate and requires speaker review.
+
+
+### A1 cumulative revision update
+- Added travel-ticket and household-location checks to both Serbian and English cumulative revision practice.
+- Serbian A1 now has 16 lesson-aligned listening prompts and 16 mixed-revision questions. English A1 has 16 lesson listening exercises and 12 cumulative mixed-revision questions.
+- Lesson and revision totals are source-count checks only; no parser, Expo export, APK build or physical-device test was run for this update.
