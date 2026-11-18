@@ -1,5 +1,3 @@
-// Sinhala-taught Serbian A1 listening checks aligned to lesson array order.
-// Sinhala-script readings are practical learner approximations, not IPA.
 export const SERBIAN_A1_LISTENING = [
  {prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Kako se zoveš?”",audio:"Kako se zoveš?",options:["ඔයාගේ නම මොකක්ද?","ඔයාට කොහොමද?","ඔබට ස්තුතියි."],readings:["කාකො සේ සොවේෂ්?","කාකො සී?","හ්වාලා."],answer:0,meaning:"Kako se zoveš? = ඔයාගේ නම මොකක්ද?"},
  {prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Dobro jutro!”",audio:"Dobro jutro!",options:["සුබ රාත්‍රියක්!","සුබ උදෑසනක්!","නැවත හමුවෙමු!"],readings:["ලාකු නොච්!","දොබ්‍රො යූත්‍රො!","දොවිජෙන්‍යා!"],answer:1,meaning:"Dobro jutro! = සුබ උදෑසනක්!"},
@@ -25,6 +23,10 @@ export const SERBIAN_A1_LISTENING = [
 
  ,{prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Pozvaću te kasnije.”",audio:"Pozvaću te kasnije.",options:["මම ඔයාට පසුව කතා කරන්නම්.","මම දැන් කාර්යබහුලයි.","මට පණිවිඩයක් ලැබුණා."],readings:["පොස්වාචු තෙ කාස්නියේ.","ත්‍රෙනූත්නො සාම් සාවුසෙත්.","දොබියො සාම් පොරූකු."],answer:0,meaning:"Pozvaću te kasnije. = මම ඔයාට පසුව කතා කරන්නම්."},
  {prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Želim da pošaljem paket.”",audio:"Želim da pošaljem paket.",options:["මට පාර්සලයක් යවන්න ඕනේ.","මට ලිපිනය වෙනස් කරන්න ඕනේ.","තැපැල් කාර්යාලය කොහෙද?"],readings:["ෂෙලිම් දා පොෂාල්යෙම් පාකෙත්.","ෂෙලිම් දා ප්‍රොමෙනිම් අද්‍රෙසු.","ග්දේ යේ පොෂ්තා?"],answer:0,meaning:"Želim da pošaljem paket. = මට පාර්සලයක් යවන්න ඕනේ."}
+
+ ,{prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Želim da zakažem pregled.”",audio:"Želim da zakažem pregled.",options:["මට වෛද්‍ය පරීක්ෂාවක් වෙන්කරගන්න ඕනේ.","මට පාර්සලයක් යවන්න ඕනේ.","මට කෝපි එකක් ඕනේ."],readings:["ෂෙලිම් දා සාකාෂෙම් ප්‍රෙග්ලෙද්.","ෂෙලිම් දා පොෂාල්යෙම් පාකෙත්.","ෂෙලිම් කාෆු."],answer:0,meaning:"Želim da zakažem pregled. = මට වෛද්‍ය පරීක්ෂාවක් වෙන්කරගන්න ඕනේ."}
+ ,{prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Boli me glava.”",audio:"Boli me glava.",options:["මගේ හිස රිදෙනවා.","මට උණ තියෙනවා.","ඖෂධහල කොහෙද?"],readings:["බොලි මෙ ග්ලාවා.","ඉමාම් තෙම්පෙරතූරු.","ග්දේ යේ අපොතෙකා?"],answer:0,meaning:"Boli me glava. = මගේ හිස රිදෙනවා."}
+
 
 ];
 
