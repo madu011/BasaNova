@@ -72,9 +72,9 @@ export const B1_COURSE_STATUS = {
 // B2 opening batch. Further lessons 12-50 are planned, not yet authored.
 export const B2_COURSE_STATUS = {
   plannedLessons: 50,
-  authoredLessons: { Serbian: 11, English: 11 },
+  authoredLessons: { Serbian: 25, English: 25 },
   pairedTopics: true,
-  remainingLessons: 39,
-  completedBatch: "lessons 1-11 in both languages",
+  remainingLessons: 25,
+  completedBatch: "lessons 1-25 in both languages",
   remainingValidation: ["review Serbian idiom and Sinhala-script pronunciation", "review English-to-Sinhala translations", "complete lessons 12-50", "CI and Android device verification"]
 };
