@@ -864,5 +864,870 @@ export const ENGLISH_A2_LESSONS = [
         "explanation": "I'd like to book a check-up. = මට වෛද්‍ය පරීක්ෂාවක් වෙන්කරගන්න ඕනේ."
       }
     ]
+  },
+{
+    "id": "en-a2-l6",
+    "unit": "සැලසුම් සහ ආරාධනා",
+    "title": "A2 · Lesson 6 · Plans, invitations and arrangements",
+    "objective": "Make plans, invite people and arrange a time to meet",
+    "vocabulary": [
+      {
+        "word": "plan",
+        "reading": "ප්ලෑන්",
+        "meaning": "සැලැස්ම",
+        "example": "plan",
+        "exampleReading": "ප්ලෑන්",
+        "translation": "සැලැස්ම"
+      },
+      {
+        "word": "invite",
+        "reading": "ඉන්වයිට්",
+        "meaning": "ආරාධනා කරනවා",
+        "example": "invite",
+        "exampleReading": "ඉන්වයිට්",
+        "translation": "ආරාධනා කරනවා"
+      },
+      {
+        "word": "arrangement",
+        "reading": "අරේන්ජ්මන්ට්",
+        "meaning": "සැලසුම / එකඟතාව",
+        "example": "arrangement",
+        "exampleReading": "අරේන්ජ්මන්ට්",
+        "translation": "සැලසුම / එකඟතාව"
+      },
+      {
+        "word": "available",
+        "reading": "අවේලබල්",
+        "meaning": "නිදහස් / ලබාගත හැකි",
+        "example": "available",
+        "exampleReading": "අවේලබල්",
+        "translation": "නිදහස් / ලබාගත හැකි"
+      },
+      {
+        "word": "tonight",
+        "reading": "ටුනයිට්",
+        "meaning": "අද රාත්‍රියේ",
+        "example": "tonight",
+        "exampleReading": "ටුනයිට්",
+        "translation": "අද රාත්‍රියේ"
+      },
+      {
+        "word": "maybe",
+        "reading": "මේබි",
+        "meaning": "සමහරවිට",
+        "example": "maybe",
+        "exampleReading": "මේබි",
+        "translation": "සමහරවිට"
+      },
+      {
+        "word": "definitely",
+        "reading": "ඩෙෆිනිට්ලි",
+        "meaning": "නිසැකවම",
+        "example": "definitely",
+        "exampleReading": "ඩෙෆිනිට්ලි",
+        "translation": "නිසැකවම"
+      },
+      {
+        "word": "see you",
+        "reading": "සී යූ",
+        "meaning": "නැවත හමුවෙමු",
+        "example": "see you",
+        "exampleReading": "සී යූ",
+        "translation": "නැවත හමුවෙමු"
+      }
+    ],
+    "grammarTitle": "Grammar",
+    "grammar": "Use “I'm planning to...” for intentions, “Would you like to...?” for invitations, and “What time shall we meet?” to arrange a time.",
+    "grammarTerms": [
+      {
+        "text": "What are you planning for the weekend?",
+        "reading": "වොට් ආර් යූ ප්ලෑනින් ෆෝර් දි වීකෙන්ඩ්?",
+        "meaning": "සති අන්තයට මොනවාද සැලසුම් කරන්නේ?"
+      }
+    ],
+    "examples": [
+      {
+        "text": "What are you planning for the weekend?",
+        "reading": "වොට් ආර් යූ ප්ලෑනින් ෆෝර් දි වීකෙන්ඩ්?",
+        "meaning": "සති අන්තයට මොනවාද සැලසුම් කරන්නේ?"
+      },
+      {
+        "text": "I'm planning to visit the city centre.",
+        "reading": "අයිම් ප්ලෑනින් ටු විසිට් දි සිටි සෙන්ටර්.",
+        "meaning": "මම නගර මධ්‍යයට යන්න සැලසුම් කරනවා."
+      },
+      {
+        "text": "Would you like to have coffee tonight?",
+        "reading": "වුඩ් යූ ලයික් ටු හැව් කොෆී ටුනයිට්?",
+        "meaning": "අද සවස කෝපි බොන්න කැමතිද?"
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "Would you like to have coffee tonight?",
+        "reading": "වුඩ් යූ ලයික් ටු හැව් කොෆී ටුනයිට්?",
+        "meaning": "අද සවස කෝපි බොන්න කැමතිද?"
+      },
+      {
+        "text": "That sounds great. What time?",
+        "reading": "දැට් සවුන්ඩ්ස් ග්‍රේට්. වොට් ටයිම්?",
+        "meaning": "ඒක හොඳයි. කීයටද?"
+      },
+      {
+        "text": "At seven, in front of the station.",
+        "reading": "ඇට් සෙවන්, ඉන් ෆ්‍රන්ට් ඔෆ් දි ස්ටේෂන්.",
+        "meaning": "හතට, ස්ථානය ඉදිරිපිට."
+      },
+      {
+        "text": "Perfect. See you then!",
+        "reading": "පර්ෆෙක්ට්. සී යූ දෙන්!",
+        "meaning": "හරිම හොඳයි. එහෙනම් හමුවෙමු!"
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the meaning: “Would you like to have coffee tonight?”",
+      "audio": "Would you like to have coffee tonight?",
+      "reading": "වුඩ් යූ ලයික් ටු හැව් කොෆී ටුනයිට්?",
+      "options": [
+        "අද සවස කෝපි බොන්න කැමතිද?",
+        "සති අන්තයට මොනවාද සැලසුම් කරන්නේ?",
+        "මම නගර මධ්‍යයට යන්න සැලසුම් කරනවා."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "Choose a polite invitation.",
+        "options": [
+          "Would you like to come with us?",
+          "Where is the ticket?",
+          "It is raining."
+        ],
+        "answer": 0,
+        "explanation": "Would you like to come with us? = correct answer"
+      },
+      {
+        "prompt": "Choose “tomorrow”.",
+        "options": [
+          "tomorrow",
+          "yesterday",
+          "today"
+        ],
+        "answer": 0,
+        "explanation": "tomorrow = හෙට"
+      },
+      {
+        "prompt": "Choose “please”.",
+        "options": [
+          "please",
+          "maybe",
+          "definitely"
+        ],
+        "answer": 0,
+        "explanation": "please = කරුණාකර"
+      },
+      {
+        "prompt": "Choose the polite request for help.",
+        "options": [
+          "Could you help me, please?",
+          "How much is it?",
+          "See you."
+        ],
+        "answer": 0,
+        "explanation": "Could you help me, please? = කරුණාකර මට උදව් කරන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "en-a2-l7",
+    "unit": "සාප්පු සවාරි",
+    "title": "A2 · Lesson 7 · Shopping, comparisons and returns",
+    "objective": "Compare products, ask about prices and exchange an item",
+    "vocabulary": [
+      {
+        "word": "price",
+        "reading": "ප්‍රයිස්",
+        "meaning": "මිල",
+        "example": "price",
+        "exampleReading": "ප්‍රයිස්",
+        "translation": "මිල"
+      },
+      {
+        "word": "cheap",
+        "reading": "චීප්",
+        "meaning": "ලාභ",
+        "example": "cheap",
+        "exampleReading": "චීප්",
+        "translation": "ලාභ"
+      },
+      {
+        "word": "expensive",
+        "reading": "ඉක්ස්පෙන්සිව්",
+        "meaning": "මිල අධික",
+        "example": "expensive",
+        "exampleReading": "ඉක්ස්පෙන්සිව්",
+        "translation": "මිල අධික"
+      },
+      {
+        "word": "size",
+        "reading": "සයිස්",
+        "meaning": "ප්‍රමාණය",
+        "example": "size",
+        "exampleReading": "සයිස්",
+        "translation": "ප්‍රමාණය"
+      },
+      {
+        "word": "try on",
+        "reading": "ට්‍රයි ඔන්",
+        "meaning": "ඇඳලා බලනවා",
+        "example": "try on",
+        "exampleReading": "ට්‍රයි ඔන්",
+        "translation": "ඇඳලා බලනවා"
+      },
+      {
+        "word": "receipt",
+        "reading": "රිසීට්",
+        "meaning": "රිසිට්පත",
+        "example": "receipt",
+        "exampleReading": "රිසීට්",
+        "translation": "රිසිට්පත"
+      },
+      {
+        "word": "exchange",
+        "reading": "ඉක්ස්චේන්ජ්",
+        "meaning": "මාරු කරනවා",
+        "example": "exchange",
+        "exampleReading": "ඉක්ස්චේන්ජ්",
+        "translation": "මාරු කරනවා"
+      },
+      {
+        "word": "discount",
+        "reading": "ඩිස්කවුන්ට්",
+        "meaning": "වට්ටම",
+        "example": "discount",
+        "exampleReading": "ඩිස්කවුන්ට්",
+        "translation": "වට්ටම"
+      }
+    ],
+    "grammarTitle": "Grammar",
+    "grammar": "Use comparative adjectives with “-er” or “more”: cheaper than, more expensive than. Ask for an exchange with “Could I exchange this for a different size?”",
+    "grammarTerms": [
+      {
+        "text": "How much is this jacket?",
+        "reading": "හවු මච් ඉස් දිස් ජැකට්?",
+        "meaning": "මේ ජැකට් එක කීයද?"
+      }
+    ],
+    "examples": [
+      {
+        "text": "How much is this jacket?",
+        "reading": "හවු මච් ඉස් දිස් ජැකට්?",
+        "meaning": "මේ ජැකට් එක කීයද?"
+      },
+      {
+        "text": "This one is cheaper than that one.",
+        "reading": "දිස් වන් ඉස් චීපර් දැන් දැට් වන්.",
+        "meaning": "මේක අරකට වඩා ලාභයි."
+      },
+      {
+        "text": "Could I exchange it for a different size?",
+        "reading": "කුඩ් අයි ඉක්ස්චේන්ජ් ඉට් ෆෝර් අ ඩිෆරන්ට් සයිස්?",
+        "meaning": "මට මේක වෙනත් ප්‍රමාණයකට මාරු කළ හැකිද?"
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "Can I try this T-shirt on?",
+        "reading": "කැන් අයි ට්‍රයි දිස් ටී ෂර්ට් ඔන්?",
+        "meaning": "මට මේ ටී ෂර්ට් එක ඇඳලා බලන්න පුළුවන්ද?"
+      },
+      {
+        "text": "Of course. The fitting room is over there.",
+        "reading": "ඔෆ් කෝර්ස්. දි ෆිටින් රූම් ඉස් ඕවර් දෙයාර්.",
+        "meaning": "අනිවාර්යයෙන්. ඇඳුම් මාරු කරන කාමරය එතැන."
+      },
+      {
+        "text": "Do you have a larger size?",
+        "reading": "ඩූ යූ හැව් අ ලාජර් සයිස්?",
+        "meaning": "මීට වඩා ලොකු ප්‍රමාණයක් තියෙනවාද?"
+      },
+      {
+        "text": "Yes, here you are.",
+        "reading": "යෙස්, හියර් යූ ආර්.",
+        "meaning": "ඔව්, මෙන්න."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the meaning: “Could I exchange it for a different size?”",
+      "audio": "Could I exchange it for a different size?",
+      "reading": "කුඩ් අයි ඉක්ස්චේන්ජ් ඉට් ෆෝර් අ ඩිෆරන්ට් සයිස්?",
+      "options": [
+        "මට මේ ටී ෂර්ට් එක ඇඳලා බලන්න පුළුවන්ද?",
+        "මේ ජැකට් එක කීයද?",
+        "මේක අරකට වඩා ලාභයි."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "Choose the word meaning “discount”.",
+        "options": [
+          "discount",
+          "receipt",
+          "size"
+        ],
+        "answer": 0,
+        "explanation": "discount = correct answer"
+      },
+      {
+        "prompt": "Choose “tomorrow”.",
+        "options": [
+          "tomorrow",
+          "yesterday",
+          "today"
+        ],
+        "answer": 0,
+        "explanation": "tomorrow = හෙට"
+      },
+      {
+        "prompt": "Choose “please”.",
+        "options": [
+          "please",
+          "maybe",
+          "definitely"
+        ],
+        "answer": 0,
+        "explanation": "please = කරුණාකර"
+      },
+      {
+        "prompt": "Choose the polite request for help.",
+        "options": [
+          "Could you help me, please?",
+          "How much is it?",
+          "See you."
+        ],
+        "answer": 0,
+        "explanation": "Could you help me, please? = කරුණාකර මට උදව් කරන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "en-a2-l8",
+    "unit": "ගමන් සහ නවාතැන්",
+    "title": "A2 · Lesson 8 · Travel plans, hotels and tickets",
+    "objective": "Discuss transport, travel times and hotel reservations",
+    "vocabulary": [
+      {
+        "word": "journey",
+        "reading": "ජර්නි",
+        "meaning": "ගමන",
+        "example": "journey",
+        "exampleReading": "ජර්නි",
+        "translation": "ගමන"
+      },
+      {
+        "word": "ticket",
+        "reading": "ටික්කට්",
+        "meaning": "ටිකට්පත",
+        "example": "ticket",
+        "exampleReading": "ටික්කට්",
+        "translation": "ටිකට්පත"
+      },
+      {
+        "word": "return ticket",
+        "reading": "රිටර්න් ටික්කට්",
+        "meaning": "ආපසු ටිකට්පත",
+        "example": "return ticket",
+        "exampleReading": "රිටර්න් ටික්කට්",
+        "translation": "ආපසු ටිකට්පත"
+      },
+      {
+        "word": "book",
+        "reading": "බුක්",
+        "meaning": "වෙන්කරවා ගන්නවා",
+        "example": "book",
+        "exampleReading": "බුක්",
+        "translation": "වෙන්කරවා ගන්නවා"
+      },
+      {
+        "word": "hotel",
+        "reading": "හෝටෙල්",
+        "meaning": "හෝටලය",
+        "example": "hotel",
+        "exampleReading": "හෝටෙල්",
+        "translation": "හෝටලය"
+      },
+      {
+        "word": "check-in",
+        "reading": "චෙක් ඉන්",
+        "meaning": "පැමිණ ලියාපදිංචි වීම",
+        "example": "check-in",
+        "exampleReading": "චෙක් ඉන්",
+        "translation": "පැමිණ ලියාපදිංචි වීම"
+      },
+      {
+        "word": "departure",
+        "reading": "ඩිපාර්චර්",
+        "meaning": "පිටත්වීම",
+        "example": "departure",
+        "exampleReading": "ඩිපාර්චර්",
+        "translation": "පිටත්වීම"
+      },
+      {
+        "word": "arrival",
+        "reading": "අරයිවල්",
+        "meaning": "පැමිණීම",
+        "example": "arrival",
+        "exampleReading": "අරයිවල්",
+        "translation": "පැමිණීම"
+      }
+    ],
+    "grammarTitle": "Grammar",
+    "grammar": "Use “I'm travelling to...” for destinations. Ask about schedules with “What time does it leave?” and reservations with “I have a booking under the name...”.",
+    "grammarTerms": [
+      {
+        "text": "I'm travelling to Novi Sad tomorrow.",
+        "reading": "අයිම් ට්‍රැවලින් ටු නොවි සාද් ටුමාරෝ.",
+        "meaning": "මම හෙට නොවි සාද් යනවා."
+      }
+    ],
+    "examples": [
+      {
+        "text": "I'm travelling to Novi Sad tomorrow.",
+        "reading": "අයිම් ට්‍රැවලින් ටු නොවි සාද් ටුමාරෝ.",
+        "meaning": "මම හෙට නොවි සාද් යනවා."
+      },
+      {
+        "text": "How much is a return ticket?",
+        "reading": "හවු මච් ඉස් අ රිටර්න් ටික්කට්?",
+        "meaning": "ආපසු ටිකට්පත කීයද?"
+      },
+      {
+        "text": "I've booked a room at the hotel.",
+        "reading": "අයිව් බුක්ට් අ රූම් ඇට් දි හෝටෙල්.",
+        "meaning": "මම හෝටලයේ කාමරයක් වෙන්කරගෙන තියෙනවා."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "Do you have a reservation?",
+        "reading": "ඩූ යූ හැව් අ රිසර්වේෂන්?",
+        "meaning": "ඔබට වෙන්කිරීමක් තිබෙනවාද?"
+      },
+      {
+        "text": "Yes, under the name Perera.",
+        "reading": "යෙස්, අන්ඩර් දි නේම් පෙරේරා.",
+        "meaning": "ඔව්, පෙරේරා නමින්."
+      },
+      {
+        "text": "Breakfast is included.",
+        "reading": "බ්‍රෙක්ෆස්ට් ඉස් ඉන්ක්ලූඩඩ්.",
+        "meaning": "උදෑසන ආහාරය ඇතුළත්."
+      },
+      {
+        "text": "What time is check-out?",
+        "reading": "වොට් ටයිම් ඉස් චෙක් අවුට්?",
+        "meaning": "පිටත්වීමේ වේලාව කීයද?"
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the meaning: “How much is a return ticket?”",
+      "audio": "How much is a return ticket?",
+      "reading": "හවු මච් ඉස් අ රිටර්න් ටික්කට්?",
+      "options": [
+        "ඔබට වෙන්කිරීමක් තිබෙනවාද?",
+        "මම හෙට නොවි සාද් යනවා.",
+        "ආපසු ටිකට්පත කීයද?"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "Choose the word meaning “departure”.",
+        "options": [
+          "departure",
+          "arrival",
+          "hotel"
+        ],
+        "answer": 0,
+        "explanation": "departure = correct answer"
+      },
+      {
+        "prompt": "Choose “tomorrow”.",
+        "options": [
+          "tomorrow",
+          "yesterday",
+          "today"
+        ],
+        "answer": 0,
+        "explanation": "tomorrow = හෙට"
+      },
+      {
+        "prompt": "Choose “please”.",
+        "options": [
+          "please",
+          "maybe",
+          "definitely"
+        ],
+        "answer": 0,
+        "explanation": "please = කරුණාකර"
+      },
+      {
+        "prompt": "Choose the polite request for help.",
+        "options": [
+          "Could you help me, please?",
+          "How much is it?",
+          "See you."
+        ],
+        "answer": 0,
+        "explanation": "Could you help me, please? = කරුණාකර මට උදව් කරන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "en-a2-l9",
+    "unit": "සේවා සහ ගැටලු විසඳීම",
+    "title": "A2 · Lesson 9 · Customer service and polite requests",
+    "objective": "Explain a problem and ask for help politely",
+    "vocabulary": [
+      {
+        "word": "problem",
+        "reading": "ප්‍රොබ්ලම්",
+        "meaning": "ගැටලුව",
+        "example": "problem",
+        "exampleReading": "ප්‍රොබ්ලම්",
+        "translation": "ගැටලුව"
+      },
+      {
+        "word": "help",
+        "reading": "හෙල්ප්",
+        "meaning": "උදව්",
+        "example": "help",
+        "exampleReading": "හෙල්ප්",
+        "translation": "උදව්"
+      },
+      {
+        "word": "incorrect",
+        "reading": "ඉන්කරෙක්ට්",
+        "meaning": "වැරදි",
+        "example": "incorrect",
+        "exampleReading": "ඉන්කරෙක්ට්",
+        "translation": "වැරදි"
+      },
+      {
+        "word": "missing",
+        "reading": "මිසිං",
+        "meaning": "අඩු / නැති",
+        "example": "missing",
+        "exampleReading": "මිසිං",
+        "translation": "අඩු / නැති"
+      },
+      {
+        "word": "repair",
+        "reading": "රිපෙයාර්",
+        "meaning": "අලුත්වැඩියා කරනවා",
+        "example": "repair",
+        "exampleReading": "රිපෙයාර්",
+        "translation": "අලුත්වැඩියා කරනවා"
+      },
+      {
+        "word": "bill",
+        "reading": "බිල්",
+        "meaning": "බිල",
+        "example": "bill",
+        "exampleReading": "බිල්",
+        "translation": "බිල"
+      },
+      {
+        "word": "please",
+        "reading": "ප්ලීස්",
+        "meaning": "කරුණාකර",
+        "example": "please",
+        "exampleReading": "ප්ලීස්",
+        "translation": "කරුණාකර"
+      },
+      {
+        "word": "possible",
+        "reading": "පොසිබල්",
+        "meaning": "හැකි",
+        "example": "possible",
+        "exampleReading": "පොසිබල්",
+        "translation": "හැකි"
+      }
+    ],
+    "grammarTitle": "Grammar",
+    "grammar": "Use “Could you...?” for polite requests and “There seems to be a problem with...” to explain an issue. Add “please” to make requests courteous.",
+    "grammarTerms": [
+      {
+        "text": "There is a problem with the internet.",
+        "reading": "දෙයාර් ඉස් අ ප්‍රොබ්ලම් විත් දි ඉන්ටර්නෙට්.",
+        "meaning": "අන්තර්ජාලය සම්බන්ධ ගැටලුවක් තියෙනවා."
+      }
+    ],
+    "examples": [
+      {
+        "text": "There is a problem with the internet.",
+        "reading": "දෙයාර් ඉස් අ ප්‍රොබ්ලම් විත් දි ඉන්ටර්නෙට්.",
+        "meaning": "අන්තර්ජාලය සම්බන්ධ ගැටලුවක් තියෙනවා."
+      },
+      {
+        "text": "Could you help me, please?",
+        "reading": "කුඩ් යූ හෙල්ප් මී ප්ලීස්?",
+        "meaning": "කරුණාකර මට උදව් කරන්න පුළුවන්ද?"
+      },
+      {
+        "text": "The bill is incorrect.",
+        "reading": "දි බිල් ඉස් ඉන්කරෙක්ට්.",
+        "meaning": "බිල වැරදියි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "Excuse me, there is a problem.",
+        "reading": "ඉක්ස්කියුස් මී, දෙයාර් ඉස් අ ප්‍රොබ්ලම්.",
+        "meaning": "සමාවන්න, ගැටලුවක් තියෙනවා."
+      },
+      {
+        "text": "What seems to be wrong?",
+        "reading": "වොට් සීම්ස් ටු බී රෝං?",
+        "meaning": "මොකක්ද ගැටලුව?"
+      },
+      {
+        "text": "One item is missing.",
+        "reading": "වන් අයිටම් ඉස් මිසිං.",
+        "meaning": "එක් භාණ්ඩයක් අඩුයි."
+      },
+      {
+        "text": "We'll check it right away.",
+        "reading": "වීල් චෙක් ඉට් රයිට් අවේ.",
+        "meaning": "අපි දැන්ම පරීක්ෂා කරන්නම්."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the meaning: “Could you help me, please?”",
+      "audio": "Could you help me, please?",
+      "reading": "කුඩ් යූ හෙල්ප් මී ප්ලීස්?",
+      "options": [
+        "සමාවන්න, ගැටලුවක් තියෙනවා.",
+        "අන්තර්ජාලය සම්බන්ධ ගැටලුවක් තියෙනවා.",
+        "කරුණාකර මට උදව් කරන්න පුළුවන්ද?"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "Choose the polite way to ask for help.",
+        "options": [
+          "Could you help me, please?",
+          "How much is it?",
+          "See you tomorrow."
+        ],
+        "answer": 0,
+        "explanation": "Could you help me, please? = correct answer"
+      },
+      {
+        "prompt": "Choose “tomorrow”.",
+        "options": [
+          "tomorrow",
+          "yesterday",
+          "today"
+        ],
+        "answer": 0,
+        "explanation": "tomorrow = හෙට"
+      },
+      {
+        "prompt": "Choose “please”.",
+        "options": [
+          "please",
+          "maybe",
+          "definitely"
+        ],
+        "answer": 0,
+        "explanation": "please = කරුණාකර"
+      },
+      {
+        "prompt": "Choose the polite request for help.",
+        "options": [
+          "Could you help me, please?",
+          "How much is it?",
+          "See you."
+        ],
+        "answer": 0,
+        "explanation": "Could you help me, please? = කරුණාකර මට උදව් කරන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "en-a2-l10",
+    "unit": "කාලගුණය සහ අනාගතය",
+    "title": "A2 · Lesson 10 · Weather, clothes and future plans",
+    "objective": "Describe the weather and talk about future intentions",
+    "vocabulary": [
+      {
+        "word": "weather",
+        "reading": "වෙදර්",
+        "meaning": "කාලගුණය",
+        "example": "weather",
+        "exampleReading": "වෙදර්",
+        "translation": "කාලගුණය"
+      },
+      {
+        "word": "sunny",
+        "reading": "සනි",
+        "meaning": "අව්ව සහිත",
+        "example": "sunny",
+        "exampleReading": "සනි",
+        "translation": "අව්ව සහිත"
+      },
+      {
+        "word": "cloudy",
+        "reading": "ක්ලවුඩි",
+        "meaning": "වලාකුළු සහිත",
+        "example": "cloudy",
+        "exampleReading": "ක්ලවුඩි",
+        "translation": "වලාකුළු සහිත"
+      },
+      {
+        "word": "rain",
+        "reading": "රේන්",
+        "meaning": "වැස්ස",
+        "example": "rain",
+        "exampleReading": "රේන්",
+        "translation": "වැස්ස"
+      },
+      {
+        "word": "cold",
+        "reading": "කෝල්ඩ්",
+        "meaning": "සීතල",
+        "example": "cold",
+        "exampleReading": "කෝල්ඩ්",
+        "translation": "සීතල"
+      },
+      {
+        "word": "warm",
+        "reading": "වෝර්ම්",
+        "meaning": "උණුසුම්",
+        "example": "warm",
+        "exampleReading": "වෝර්ම්",
+        "translation": "උණුසුම්"
+      },
+      {
+        "word": "jacket",
+        "reading": "ජැකට්",
+        "meaning": "ජැකට් එක",
+        "example": "jacket",
+        "exampleReading": "ජැකට්",
+        "translation": "ජැකට් එක"
+      },
+      {
+        "word": "next week",
+        "reading": "නෙක්ස්ට් වීක්",
+        "meaning": "ඊළඟ සතියේ",
+        "example": "next week",
+        "exampleReading": "නෙක්ස්ට් වීක්",
+        "translation": "ඊළඟ සතියේ"
+      }
+    ],
+    "grammarTitle": "Grammar",
+    "grammar": "Use “will” for predictions and “going to” for plans: “It will rain tomorrow”; “I'm going to travel next week.”",
+    "grammarTerms": [
+      {
+        "text": "What's the weather like today?",
+        "reading": "වොට්ස් දි වෙදර් ලයික් ටුඩේ?",
+        "meaning": "අද කාලගුණය කොහොමද?"
+      }
+    ],
+    "examples": [
+      {
+        "text": "What's the weather like today?",
+        "reading": "වොට්ස් දි වෙදර් ලයික් ටුඩේ?",
+        "meaning": "අද කාලගුණය කොහොමද?"
+      },
+      {
+        "text": "It's cold and cloudy today.",
+        "reading": "ඉට්ස් කෝල්ඩ් ඇන්ඩ් ක්ලවුඩි ටුඩේ.",
+        "meaning": "අද සීතලයි, වලාකුළු සහිතයි."
+      },
+      {
+        "text": "I'm going to travel next week.",
+        "reading": "අයිම් ගොයිං ටු ට්‍රැවල් නෙක්ස්ට් වීක්.",
+        "meaning": "ඊළඟ සතියේ මම ගමන් කරන්න යනවා."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "Will it rain tomorrow?",
+        "reading": "විල් ඉට් රේන් ටුමාරෝ?",
+        "meaning": "හෙට වැස්ස වැටෙයිද?"
+      },
+      {
+        "text": "No, it will be sunny.",
+        "reading": "නෝ, ඉට් විල් බී සනි.",
+        "meaning": "නැහැ, අව්ව තියේවි."
+      },
+      {
+        "text": "What are you going to wear?",
+        "reading": "වොට් ආර් යූ ගොයිං ටු වෙයාර්?",
+        "meaning": "ඔයා මොනවාද අඳින්න යන්නේ?"
+      },
+      {
+        "text": "I'm going to wear a jacket.",
+        "reading": "අයිම් ගොයිං ටු වෙයාර් අ ජැකට්.",
+        "meaning": "මම ජැකට් එකක් අඳින්න යනවා."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the meaning: “What's the weather like today?”",
+      "audio": "What's the weather like today?",
+      "reading": "වොට්ස් දි වෙදර් ලයික් ටුඩේ?",
+      "options": [
+        "හෙට වැස්ස වැටෙයිද?",
+        "අද කාලගුණය කොහොමද?",
+        "අද සීතලයි, වලාකුළු සහිතයි."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "Choose the word meaning “cloudy”.",
+        "options": [
+          "cloudy",
+          "sunny",
+          "warm"
+        ],
+        "answer": 0,
+        "explanation": "cloudy = correct answer"
+      },
+      {
+        "prompt": "Choose “tomorrow”.",
+        "options": [
+          "tomorrow",
+          "yesterday",
+          "today"
+        ],
+        "answer": 0,
+        "explanation": "tomorrow = හෙට"
+      },
+      {
+        "prompt": "Choose “please”.",
+        "options": [
+          "please",
+          "maybe",
+          "definitely"
+        ],
+        "answer": 0,
+        "explanation": "please = කරුණාකර"
+      },
+      {
+        "prompt": "Choose the polite request for help.",
+        "options": [
+          "Could you help me, please?",
+          "How much is it?",
+          "See you."
+        ],
+        "answer": 0,
+        "explanation": "Could you help me, please? = කරුණාකර මට උදව් කරන්න පුළුවන්ද?"
+      }
+    ]
   }
 ];
