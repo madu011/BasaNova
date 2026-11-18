@@ -1,4 +1,4 @@
-// Structured Serbian B2 lessons 1–25. Sinhala readings are approximate learner guides.
+// Structured Serbian B2 lessons 1–40. Sinhala readings are approximate learner guides.
 export const SERBIAN_B2_LESSONS = [
   {
     "id": "sr-b2-l1",
@@ -4347,6 +4347,2556 @@ export const SERBIAN_B2_LESSONS = [
         ],
         "answer": 0,
         "explanation": "povezanost = සම්බන්ධතාව"
+      }
+    ]
+  },
+  {
+    "id": "sr-b2-l26",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · පාඩම 26 · ගිවිසුම් සාකච්ඡා කිරීම",
+    "objective": "ගිවිසුම් කොන්දේසි සාකච්ඡා කර සාධාරණ එකඟතාවකට පැමිණෙන්න.",
+    "vocabulary": [
+      {
+        "word": "ugovor",
+        "reading": "කොන්ත්‍රැක්ට්",
+        "meaning": "ගිවිසුම",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "ගිවිසුම් සාකච්ඡා කිරීම පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "klauzula",
+        "reading": "ක්ලෝස්",
+        "meaning": "වගන්තිය",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "ගිවිසුම් සාකච්ඡා කිරීම පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "rok",
+        "reading": "ඩෙඩ්ලයින්",
+        "meaning": "අවසාන දිනය",
+        "example": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "translation": "ගිවිසුම් සාකච්ඡා කිරීම පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "pregovarati",
+        "reading": "නෙගොෂියේට්",
+        "meaning": "සාකච්ඡා කිරීම",
+        "example": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "translation": "ගිවිසුම් සාකච්ඡා කිරීම පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "predlog",
+        "reading": "ප්‍රපෝසල්",
+        "meaning": "යෝජනාව",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "ගිවිසුම් සාකච්ඡා කිරීම පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "kompromis",
+        "reading": "කොම්ප්‍රොමයිස්",
+        "meaning": "සම්මුතිය",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "ගිවිසුම් සාකච්ඡා කිරීම පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "odgovoran",
+        "reading": "ලයබල්",
+        "meaning": "වගකිව යුතු",
+        "example": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "translation": "ගිවිසුම් සාකච්ඡා කිරීම පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "obnova",
+        "reading": "රිනියුවල්",
+        "meaning": "අලුත් කිරීම",
+        "example": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "translation": "ගිවිසුම් සාකච්ඡා කිරීම පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "grammarTitle": "Conditional and diplomatic requests",
+    "grammar": "Conditional and diplomatic requests: Ako prihvatite ovaj uslov, možemo potpisati ugovor. මෙම රටාව නිවැරදි සන්දර්භයක භාවිතා කරමින් අදහස් වඩාත් නිවැරදිව හා ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Ako prihvatite ovaj uslov, možemo potpisati ugovor.",
+        "reading": "ආකෝ උස්ලොව් බුදේ ප්‍රිහ්වතීත්, මොෂෙමෝ පොත්පිසාති උගොවෝර්.",
+        "si": "ගිවිසුම් සාකච්ඡා කිරීම"
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Važno je da razmotrimo sve relevantne činjenice.",
+        "reading": "කොන්ත්‍රැක්ට්",
+        "si": "ගිවිසුම් සාකච්ඡා කිරීම පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "reading": "ක්ලෝස්",
+        "si": "ගිවිසුම් සාකච්ඡා කිරීම පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "reading": "ඩෙඩ්ලයින්",
+        "si": "ගිවිසුම් සාකච්ඡා කිරීම පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "reading": "නෙගොෂියේට්",
+        "si": "ගිවිසුම් සාකච්ඡා කිරීම පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "Kako biste ocenili trenutnu situaciju?",
+        "reading": "කාකෝ බිස්තෙ ඔදෙලිමෝ ස්ත්‍රෙණු සිතුආත්සියු?",
+        "si": "ගිවිසුම් සාකච්ඡා කිරීම පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Najpre bih proverio dostupne podatke.",
+        "reading": "නාය්ප්‍රෙ බිහ ප්‍රොවෙරියෝ දොස්තුප්නේ පොදත්කේ.",
+        "si": "ගිවිසුම් සාකච්ඡා කිරීම පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Slažem se, ali treba uzeti u obzir i troškove.",
+        "reading": "ස්ලාෂෙම් සේ, අලි ත්‍රෙබා උසෙති උ ඔබ්සිර් ඉ ත්‍රොෂ්කොවේ.",
+        "si": "ගිවිසුම් සාකච්ඡා කිරීම පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Onda možemo predložiti uravnoteženo rešenje.",
+        "reading": "ඔන්දා මොෂෙමෝ ප්‍රෙද්ලොෂිති උරව්නොතෙෂෙනෝ රෙෂෙන්යේ.",
+        "si": "ගිවිසුම් සාකච්ඡා කිරීම පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "හඬ අසා නිවැරදි සිංහල අර්ථය තෝරන්න.",
+      "audio": "Ako prihvatite ovaj uslov, možemo potpisati ugovor.",
+      "reading": "ආකෝ ප්‍රිහ්වතීතේ ඔවාය් උස්ලොව්, මොෂෙමෝ පොත්පිසාති උගොවෝර්.",
+      "options": [
+        "මෙම කොන්දේසිය පිළිගත්තොත් අපට ගිවිසුම අත්සන් කළ හැකියි.",
+        "අපි හෙට ගමනක් යනවා.",
+        "කාලගුණය අද ඉතා හොඳයි."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "ගිවිසුම් සාකච්ඡා කිරීම: නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Ako prihvatite ovaj uslov, možemo potpisati ugovor.",
+          "අපි හෙට ගමනක් යනවා.",
+          "කාලගුණය අද ඉතා හොඳයි."
+        ],
+        "answer": 0,
+        "explanation": "මෙය ගිවිසුම් සාකච්ඡා කිරීම සන්දර්භයට ගැළපෙන නිවැරදි වාක්‍යයයි."
+      },
+      {
+        "prompt": "Which expression introduces a careful suggestion?",
+        "options": [
+          "I suggest that we compare the options.",
+          "The weather is sunny.",
+          "I forgot my keys."
+        ],
+        "answer": 0,
+        "explanation": "“I suggest that…” යෝජනාවක් ආචාරශීලීව ඉදිරිපත් කරයි."
+      },
+      {
+        "prompt": "සංවාදයකදී හොඳම ප්‍රතිචාරය කුමක්ද?",
+        "options": [
+          "කරුණු පරීක්ෂා කර විකල්ප සසඳමු.",
+          "මට කිසිවක් අසන්න අවශ්‍ය නැහැ.",
+          "අපි සාකච්ඡාව නවත්වමු."
+        ],
+        "answer": 0,
+        "explanation": "කරුණු සහ විකල්ප සලකා බැලීම B2 මට්ටමේ සාකච්ඡා කුසලතාවකි."
+      },
+      {
+        "prompt": "Choose the best way to express a conditional outcome.",
+        "options": [
+          "If the circumstances change, we will adjust our plan.",
+          "Yesterday is a colour.",
+          "Because quickly table."
+        ],
+        "answer": 0,
+        "explanation": "If-clause එකෙන් කොන්දේසිය සහ එහි ප්‍රතිඵලය සම්බන්ධ කරයි."
+      }
+    ]
+  },
+  {
+    "id": "sr-b2-l27",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · පාඩම 27 · අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම",
+    "objective": "ඉගෙනුම් ක්‍රම, සුදුසුකම් සහ වෘත්තීය සංවර්ධනය සංසන්දනය කරන්න.",
+    "vocabulary": [
+      {
+        "word": "kvalifikacija",
+        "reading": "කොන්ත්‍රැක්ට්",
+        "meaning": "සුදුසුකම",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "stipendija",
+        "reading": "ක්ලෝස්",
+        "meaning": "ශිෂ්‍යත්වය",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "nastavni plan",
+        "reading": "ඩෙඩ්ලයින්",
+        "meaning": "විෂය නිර්දේශය",
+        "example": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "translation": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "procena",
+        "reading": "නෙගොෂියේට්",
+        "meaning": "ඇගයීම",
+        "example": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "translation": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "upis",
+        "reading": "ප්‍රපෝසල්",
+        "meaning": "ලියාපදිංචිය",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "istraživanje",
+        "reading": "කොම්ප්‍රොමයිස්",
+        "meaning": "පර්යේෂණය",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "praksa",
+        "reading": "ලයබල්",
+        "meaning": "පුහුණුව",
+        "example": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "translation": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "stručnost",
+        "reading": "රිනියුවල්",
+        "meaning": "විශේෂ දැනුම",
+        "example": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "translation": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "grammarTitle": "Relative clauses",
+    "grammar": "Relative clauses: Kurs koji sam završio pomogao mi je da promenim karijeru. මෙම රටාව නිවැරදි සන්දර්භයක භාවිතා කරමින් අදහස් වඩාත් නිවැරදිව හා ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Kurs koji sam završio pomogao mi je da promenim karijeru.",
+        "reading": "ආකෝ උස්ලොව් බුදේ ප්‍රිහ්වතීත්, මොෂෙමෝ පොත්පිසාති උගොවෝර්.",
+        "si": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම"
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Važno je da razmotrimo sve relevantne činjenice.",
+        "reading": "කොන්ත්‍රැක්ට්",
+        "si": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "reading": "ක්ලෝස්",
+        "si": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "reading": "ඩෙඩ්ලයින්",
+        "si": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "reading": "නෙගොෂියේට්",
+        "si": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "Kako biste ocenili trenutnu situaciju?",
+        "reading": "කාකෝ බිස්තෙ ඔදෙලිමෝ ස්ත්‍රෙණු සිතුආත්සියු?",
+        "si": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Najpre bih proverio dostupne podatke.",
+        "reading": "නාය්ප්‍රෙ බිහ ප්‍රොවෙරියෝ දොස්තුප්නේ පොදත්කේ.",
+        "si": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Slažem se, ali treba uzeti u obzir i troškove.",
+        "reading": "ස්ලාෂෙම් සේ, අලි ත්‍රෙබා උසෙති උ ඔබ්සිර් ඉ ත්‍රොෂ්කොවේ.",
+        "si": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Onda možemo predložiti uravnoteženo rešenje.",
+        "reading": "ඔන්දා මොෂෙමෝ ප්‍රෙද්ලොෂිති උරව්නොතෙෂෙනෝ රෙෂෙන්යේ.",
+        "si": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "හඬ අසා නිවැරදි සිංහල අර්ථය තෝරන්න.",
+      "audio": "Kurs koji sam završio pomogao mi je da promenim karijeru.",
+      "reading": "ආකෝ ප්‍රිහ්වතීතේ ඔවාය් උස්ලොව්, මොෂෙමෝ පොත්පිසාති උගොවෝර්.",
+      "options": [
+        "මෙම කොන්දේසිය පිළිගත්තොත් අපට ගිවිසුම අත්සන් කළ හැකියි.",
+        "අපි හෙට ගමනක් යනවා.",
+        "කාලගුණය අද ඉතා හොඳයි."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම: නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Kurs koji sam završio pomogao mi je da promenim karijeru.",
+          "අපි හෙට ගමනක් යනවා.",
+          "කාලගුණය අද ඉතා හොඳයි."
+        ],
+        "answer": 0,
+        "explanation": "මෙය අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම සන්දර්භයට ගැළපෙන නිවැරදි වාක්‍යයයි."
+      },
+      {
+        "prompt": "Which expression introduces a careful suggestion?",
+        "options": [
+          "I suggest that we compare the options.",
+          "The weather is sunny.",
+          "I forgot my keys."
+        ],
+        "answer": 0,
+        "explanation": "“I suggest that…” යෝජනාවක් ආචාරශීලීව ඉදිරිපත් කරයි."
+      },
+      {
+        "prompt": "සංවාදයකදී හොඳම ප්‍රතිචාරය කුමක්ද?",
+        "options": [
+          "කරුණු පරීක්ෂා කර විකල්ප සසඳමු.",
+          "මට කිසිවක් අසන්න අවශ්‍ය නැහැ.",
+          "අපි සාකච්ඡාව නවත්වමු."
+        ],
+        "answer": 0,
+        "explanation": "කරුණු සහ විකල්ප සලකා බැලීම B2 මට්ටමේ සාකච්ඡා කුසලතාවකි."
+      },
+      {
+        "prompt": "Choose the best way to express a conditional outcome.",
+        "options": [
+          "If the circumstances change, we will adjust our plan.",
+          "Yesterday is a colour.",
+          "Because quickly table."
+        ],
+        "answer": 0,
+        "explanation": "If-clause එකෙන් කොන්දේසිය සහ එහි ප්‍රතිඵලය සම්බන්ධ කරයි."
+      }
+    ]
+  },
+  {
+    "id": "sr-b2-l28",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · පාඩම 28 · නගර සැලසුම් සහ නිවාස",
+    "objective": "නිවාස, ප්‍රවාහනය සහ පොදු අවකාශ පිළිබඳ යෝජනා ඉදිරිපත් කරන්න.",
+    "vocabulary": [
+      {
+        "word": "zoniranje",
+        "reading": "කොන්ත්‍රැක්ට්",
+        "meaning": "කලාප වෙන් කිරීම",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "නගර සැලසුම් සහ නිවාස පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "stambeni",
+        "reading": "ක්ලෝස්",
+        "meaning": "නේවාසික",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "නගර සැලසුම් සහ නිවාස පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "infrastruktura",
+        "reading": "ඩෙඩ්ලයින්",
+        "meaning": "යටිතල පහසුකම්",
+        "example": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "translation": "නගර සැලසුම් සහ නිවාස පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "putovanje na posao",
+        "reading": "නෙගොෂියේට්",
+        "meaning": "රැකියාවට ගමන් කිරීම",
+        "example": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "translation": "නගර සැලසුම් සහ නිවාස පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "gustina",
+        "reading": "ප්‍රපෝසල්",
+        "meaning": "ඝනත්වය",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "නගර සැලසුම් සහ නිවාස පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "pristupačan",
+        "reading": "කොම්ප්‍රොමයිස්",
+        "meaning": "දරාගත හැකි මිල",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "නගර සැලසුම් සහ නිවාස පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "renoviranje",
+        "reading": "ලයබල්",
+        "meaning": "ප්‍රතිසංස්කරණය",
+        "example": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "translation": "නගර සැලසුම් සහ නිවාස පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "javni prostor",
+        "reading": "රිනියුවල්",
+        "meaning": "පොදු අවකාශය",
+        "example": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "translation": "නගර සැලසුම් සහ නිවාස පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "grammarTitle": "Passive voice for planning and policy",
+    "grammar": "Passive voice for planning and policy: Nova stambena zona biće povezana sa centrom grada. මෙම රටාව නිවැරදි සන්දර්භයක භාවිතා කරමින් අදහස් වඩාත් නිවැරදිව හා ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Nova stambena zona biće povezana sa centrom grada.",
+        "reading": "ආකෝ උස්ලොව් බුදේ ප්‍රිහ්වතීත්, මොෂෙමෝ පොත්පිසාති උගොවෝර්.",
+        "si": "නගර සැලසුම් සහ නිවාස"
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Važno je da razmotrimo sve relevantne činjenice.",
+        "reading": "කොන්ත්‍රැක්ට්",
+        "si": "නගර සැලසුම් සහ නිවාස පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "reading": "ක්ලෝස්",
+        "si": "නගර සැලසුම් සහ නිවාස පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "reading": "ඩෙඩ්ලයින්",
+        "si": "නගර සැලසුම් සහ නිවාස පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "reading": "නෙගොෂියේට්",
+        "si": "නගර සැලසුම් සහ නිවාස පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "Kako biste ocenili trenutnu situaciju?",
+        "reading": "කාකෝ බිස්තෙ ඔදෙලිමෝ ස්ත්‍රෙණු සිතුආත්සියු?",
+        "si": "නගර සැලසුම් සහ නිවාස පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Najpre bih proverio dostupne podatke.",
+        "reading": "නාය්ප්‍රෙ බිහ ප්‍රොවෙරියෝ දොස්තුප්නේ පොදත්කේ.",
+        "si": "නගර සැලසුම් සහ නිවාස පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Slažem se, ali treba uzeti u obzir i troškove.",
+        "reading": "ස්ලාෂෙම් සේ, අලි ත්‍රෙබා උසෙති උ ඔබ්සිර් ඉ ත්‍රොෂ්කොවේ.",
+        "si": "නගර සැලසුම් සහ නිවාස පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Onda možemo predložiti uravnoteženo rešenje.",
+        "reading": "ඔන්දා මොෂෙමෝ ප්‍රෙද්ලොෂිති උරව්නොතෙෂෙනෝ රෙෂෙන්යේ.",
+        "si": "නගර සැලසුම් සහ නිවාස පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "හඬ අසා නිවැරදි සිංහල අර්ථය තෝරන්න.",
+      "audio": "Nova stambena zona biće povezana sa centrom grada.",
+      "reading": "ආකෝ ප්‍රිහ්වතීතේ ඔවාය් උස්ලොව්, මොෂෙමෝ පොත්පිසාති උගොවෝර්.",
+      "options": [
+        "මෙම කොන්දේසිය පිළිගත්තොත් අපට ගිවිසුම අත්සන් කළ හැකියි.",
+        "අපි හෙට ගමනක් යනවා.",
+        "කාලගුණය අද ඉතා හොඳයි."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "නගර සැලසුම් සහ නිවාස: නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Nova stambena zona biće povezana sa centrom grada.",
+          "අපි හෙට ගමනක් යනවා.",
+          "කාලගුණය අද ඉතා හොඳයි."
+        ],
+        "answer": 0,
+        "explanation": "මෙය නගර සැලසුම් සහ නිවාස සන්දර්භයට ගැළපෙන නිවැරදි වාක්‍යයයි."
+      },
+      {
+        "prompt": "Which expression introduces a careful suggestion?",
+        "options": [
+          "I suggest that we compare the options.",
+          "The weather is sunny.",
+          "I forgot my keys."
+        ],
+        "answer": 0,
+        "explanation": "“I suggest that…” යෝජනාවක් ආචාරශීලීව ඉදිරිපත් කරයි."
+      },
+      {
+        "prompt": "සංවාදයකදී හොඳම ප්‍රතිචාරය කුමක්ද?",
+        "options": [
+          "කරුණු පරීක්ෂා කර විකල්ප සසඳමු.",
+          "මට කිසිවක් අසන්න අවශ්‍ය නැහැ.",
+          "අපි සාකච්ඡාව නවත්වමු."
+        ],
+        "answer": 0,
+        "explanation": "කරුණු සහ විකල්ප සලකා බැලීම B2 මට්ටමේ සාකච්ඡා කුසලතාවකි."
+      },
+      {
+        "prompt": "Choose the best way to express a conditional outcome.",
+        "options": [
+          "If the circumstances change, we will adjust our plan.",
+          "Yesterday is a colour.",
+          "Because quickly table."
+        ],
+        "answer": 0,
+        "explanation": "If-clause එකෙන් කොන්දේසිය සහ එහි ප්‍රතිඵලය සම්බන්ධ කරයි."
+      }
+    ]
+  },
+  {
+    "id": "sr-b2-l29",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · පාඩම 29 · සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම",
+    "objective": "ගැටුමක දෙපාර්ශ්වය අසා විසඳුමක් යෝජනා කරන්න.",
+    "vocabulary": [
+      {
+        "word": "posredovanje",
+        "reading": "කොන්ත්‍රැක්ට්",
+        "meaning": "මැදිහත්වීම",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "nesporazum",
+        "reading": "ක්ලෝස්",
+        "meaning": "වැරදි අවබෝධය",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "pritužba",
+        "reading": "ඩෙඩ්ලයින්",
+        "meaning": "පැමිණිල්ල",
+        "example": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "translation": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "nepristrasan",
+        "reading": "නෙගොෂියේට්",
+        "meaning": "පක්ෂපාතී නොවන",
+        "example": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "translation": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "rešiti",
+        "reading": "ප්‍රපෝසල්",
+        "meaning": "විසඳීම",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "napetost",
+        "reading": "කොම්ප්‍රොමයිස්",
+        "meaning": "ආතතිය",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "povratna informacija",
+        "reading": "ලයබල්",
+        "meaning": "ප්‍රතිචාරය",
+        "example": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "translation": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "sporazum",
+        "reading": "රිනියුවල්",
+        "meaning": "එකඟතාව",
+        "example": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "translation": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "grammarTitle": "Reported speech",
+    "grammar": "Reported speech: Rekla je da je rok bio nejasan i da joj je potrebna podrška. මෙම රටාව නිවැරදි සන්දර්භයක භාවිතා කරමින් අදහස් වඩාත් නිවැරදිව හා ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Rekla je da je rok bio nejasan i da joj je potrebna podrška.",
+        "reading": "ආකෝ උස්ලොව් බුදේ ප්‍රිහ්වතීත්, මොෂෙමෝ පොත්පිසාති උගොවෝර්.",
+        "si": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම"
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Važno je da razmotrimo sve relevantne činjenice.",
+        "reading": "කොන්ත්‍රැක්ට්",
+        "si": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "reading": "ක්ලෝස්",
+        "si": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "reading": "ඩෙඩ්ලයින්",
+        "si": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "reading": "නෙගොෂියේට්",
+        "si": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "Kako biste ocenili trenutnu situaciju?",
+        "reading": "කාකෝ බිස්තෙ ඔදෙලිමෝ ස්ත්‍රෙණු සිතුආත්සියු?",
+        "si": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Najpre bih proverio dostupne podatke.",
+        "reading": "නාය්ප්‍රෙ බිහ ප්‍රොවෙරියෝ දොස්තුප්නේ පොදත්කේ.",
+        "si": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Slažem se, ali treba uzeti u obzir i troškove.",
+        "reading": "ස්ලාෂෙම් සේ, අලි ත්‍රෙබා උසෙති උ ඔබ්සිර් ඉ ත්‍රොෂ්කොවේ.",
+        "si": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Onda možemo predložiti uravnoteženo rešenje.",
+        "reading": "ඔන්දා මොෂෙමෝ ප්‍රෙද්ලොෂිති උරව්නොතෙෂෙනෝ රෙෂෙන්යේ.",
+        "si": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "හඬ අසා නිවැරදි සිංහල අර්ථය තෝරන්න.",
+      "audio": "Rekla je da je rok bio nejasan i da joj je potrebna podrška.",
+      "reading": "ආකෝ ප්‍රිහ්වතීතේ ඔවාය් උස්ලොව්, මොෂෙමෝ පොත්පිසාති උගොවෝර්.",
+      "options": [
+        "මෙම කොන්දේසිය පිළිගත්තොත් අපට ගිවිසුම අත්සන් කළ හැකියි.",
+        "අපි හෙට ගමනක් යනවා.",
+        "කාලගුණය අද ඉතා හොඳයි."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම: නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Rekla je da je rok bio nejasan i da joj je potrebna podrška.",
+          "අපි හෙට ගමනක් යනවා.",
+          "කාලගුණය අද ඉතා හොඳයි."
+        ],
+        "answer": 0,
+        "explanation": "මෙය සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම සන්දර්භයට ගැළපෙන නිවැරදි වාක්‍යයයි."
+      },
+      {
+        "prompt": "Which expression introduces a careful suggestion?",
+        "options": [
+          "I suggest that we compare the options.",
+          "The weather is sunny.",
+          "I forgot my keys."
+        ],
+        "answer": 0,
+        "explanation": "“I suggest that…” යෝජනාවක් ආචාරශීලීව ඉදිරිපත් කරයි."
+      },
+      {
+        "prompt": "සංවාදයකදී හොඳම ප්‍රතිචාරය කුමක්ද?",
+        "options": [
+          "කරුණු පරීක්ෂා කර විකල්ප සසඳමු.",
+          "මට කිසිවක් අසන්න අවශ්‍ය නැහැ.",
+          "අපි සාකච්ඡාව නවත්වමු."
+        ],
+        "answer": 0,
+        "explanation": "කරුණු සහ විකල්ප සලකා බැලීම B2 මට්ටමේ සාකච්ඡා කුසලතාවකි."
+      },
+      {
+        "prompt": "Choose the best way to express a conditional outcome.",
+        "options": [
+          "If the circumstances change, we will adjust our plan.",
+          "Yesterday is a colour.",
+          "Because quickly table."
+        ],
+        "answer": 0,
+        "explanation": "If-clause එකෙන් කොන්දේසිය සහ එහි ප්‍රතිඵලය සම්බන්ධ කරයි."
+      }
+    ]
+  },
+  {
+    "id": "sr-b2-l30",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · පාඩම 30 · පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි",
+    "objective": "භාණ්ඩයක ගැටලුවක් පැහැදිලි කර සාධාරණ විසඳුමක් ඉල්ලන්න.",
+    "vocabulary": [
+      {
+        "word": "garancija",
+        "reading": "කොන්ත්‍රැක්ට්",
+        "meaning": "වගකීම් සහතිකය",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "povraćaj novca",
+        "reading": "ක්ලෝස්",
+        "meaning": "මුදල් ආපසු ගෙවීම",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "zamena",
+        "reading": "ඩෙඩ්ලයින්",
+        "meaning": "වෙනත් භාණ්ඩයක් ලබාදීම",
+        "example": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "translation": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "nedostatak",
+        "reading": "නෙගොෂියේට්",
+        "meaning": "දෝෂය",
+        "example": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "translation": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "račun",
+        "reading": "ප්‍රපෝසල්",
+        "meaning": "රිසිට්පත",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "potrošač",
+        "reading": "කොම්ප්‍රොමයිස්",
+        "meaning": "පාරිභෝගිකයා",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "reklamacija",
+        "reading": "ලයබල්",
+        "meaning": "පැමිණිල්ල",
+        "example": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "translation": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "pravo",
+        "reading": "රිනියුවල්",
+        "meaning": "හිමිකම",
+        "example": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "translation": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "grammarTitle": "Polite formal requests and subjunctive-style expressions",
+    "grammar": "Polite formal requests and subjunctive-style expressions: Želeo bih da podnesem reklamaciju zbog neispravnog proizvoda. මෙම රටාව නිවැරදි සන්දර්භයක භාවිතා කරමින් අදහස් වඩාත් නිවැරදිව හා ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Želeo bih da podnesem reklamaciju zbog neispravnog proizvoda.",
+        "reading": "ආකෝ උස්ලොව් බුදේ ප්‍රිහ්වතීත්, මොෂෙමෝ පොත්පිසාති උගොවෝර්.",
+        "si": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි"
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Važno je da razmotrimo sve relevantne činjenice.",
+        "reading": "කොන්ත්‍රැක්ට්",
+        "si": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "reading": "ක්ලෝස්",
+        "si": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "reading": "ඩෙඩ්ලයින්",
+        "si": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "reading": "නෙගොෂියේට්",
+        "si": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "Kako biste ocenili trenutnu situaciju?",
+        "reading": "කාකෝ බිස්තෙ ඔදෙලිමෝ ස්ත්‍රෙණු සිතුආත්සියු?",
+        "si": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Najpre bih proverio dostupne podatke.",
+        "reading": "නාය්ප්‍රෙ බිහ ප්‍රොවෙරියෝ දොස්තුප්නේ පොදත්කේ.",
+        "si": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Slažem se, ali treba uzeti u obzir i troškove.",
+        "reading": "ස්ලාෂෙම් සේ, අලි ත්‍රෙබා උසෙති උ ඔබ්සිර් ඉ ත්‍රොෂ්කොවේ.",
+        "si": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Onda možemo predložiti uravnoteženo rešenje.",
+        "reading": "ඔන්දා මොෂෙමෝ ප්‍රෙද්ලොෂිති උරව්නොතෙෂෙනෝ රෙෂෙන්යේ.",
+        "si": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "හඬ අසා නිවැරදි සිංහල අර්ථය තෝරන්න.",
+      "audio": "Želeo bih da podnesem reklamaciju zbog neispravnog proizvoda.",
+      "reading": "ආකෝ ප්‍රිහ්වතීතේ ඔවාය් උස්ලොව්, මොෂෙමෝ පොත්පිසාති උගොවෝර්.",
+      "options": [
+        "මෙම කොන්දේසිය පිළිගත්තොත් අපට ගිවිසුම අත්සන් කළ හැකියි.",
+        "අපි හෙට ගමනක් යනවා.",
+        "කාලගුණය අද ඉතා හොඳයි."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි: නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Želeo bih da podnesem reklamaciju zbog neispravnog proizvoda.",
+          "අපි හෙට ගමනක් යනවා.",
+          "කාලගුණය අද ඉතා හොඳයි."
+        ],
+        "answer": 0,
+        "explanation": "මෙය පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි සන්දර්භයට ගැළපෙන නිවැරදි වාක්‍යයයි."
+      },
+      {
+        "prompt": "Which expression introduces a careful suggestion?",
+        "options": [
+          "I suggest that we compare the options.",
+          "The weather is sunny.",
+          "I forgot my keys."
+        ],
+        "answer": 0,
+        "explanation": "“I suggest that…” යෝජනාවක් ආචාරශීලීව ඉදිරිපත් කරයි."
+      },
+      {
+        "prompt": "සංවාදයකදී හොඳම ප්‍රතිචාරය කුමක්ද?",
+        "options": [
+          "කරුණු පරීක්ෂා කර විකල්ප සසඳමු.",
+          "මට කිසිවක් අසන්න අවශ්‍ය නැහැ.",
+          "අපි සාකච්ඡාව නවත්වමු."
+        ],
+        "answer": 0,
+        "explanation": "කරුණු සහ විකල්ප සලකා බැලීම B2 මට්ටමේ සාකච්ඡා කුසලතාවකි."
+      },
+      {
+        "prompt": "Choose the best way to express a conditional outcome.",
+        "options": [
+          "If the circumstances change, we will adjust our plan.",
+          "Yesterday is a colour.",
+          "Because quickly table."
+        ],
+        "answer": 0,
+        "explanation": "If-clause එකෙන් කොන්දේසිය සහ එහි ප්‍රතිඵලය සම්බන්ධ කරයි."
+      }
+    ]
+  },
+  {
+    "id": "sr-b2-l31",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · පාඩම 31 · බලශක්ති පරිවර්තනය සහ තිරසාරභාවය",
+    "objective": "පුනර්ජනනීය බලශක්තියේ වාසි සහ සීමා සාධක සමඟ විස්තර කරන්න.",
+    "vocabulary": [
+      {
+        "word": "obnovljiv",
+        "reading": "කොන්ත්‍රැක්ට්",
+        "meaning": "පුනර්ජනනීය",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "emisije",
+        "reading": "ක්ලෝස්",
+        "meaning": "විමෝචන",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "efikasnost",
+        "reading": "ඩෙඩ්ලයින්",
+        "meaning": "කාර්යක්ෂමතාව",
+        "example": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "translation": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "mreža",
+        "reading": "නෙගොෂියේට්",
+        "meaning": "විදුලි ජාලය",
+        "example": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "translation": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "skladištenje",
+        "reading": "ප්‍රපෝසල්",
+        "meaning": "ගබඩා කිරීම",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "prelaz",
+        "reading": "කොම්ප්‍රොමයිස්",
+        "meaning": "පරිවර්තනය",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "subvencija",
+        "reading": "ලයබල්",
+        "meaning": "සහනාධාරය",
+        "example": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "translation": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "održiv",
+        "reading": "රිනියුවල්",
+        "meaning": "තිරසාර",
+        "example": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "translation": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "grammarTitle": "Cause, consequence and concession linkers",
+    "grammar": "Cause, consequence and concession linkers: Iako je početno ulaganje veliko, dugoročni troškovi mogu biti niži. මෙම රටාව නිවැරදි සන්දර්භයක භාවිතා කරමින් අදහස් වඩාත් නිවැරදිව හා ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Iako je početno ulaganje veliko, dugoročni troškovi mogu biti niži.",
+        "reading": "ආකෝ උස්ලොව් බුදේ ප්‍රිහ්වතීත්, මොෂෙමෝ පොත්පිසාති උගොවෝර්.",
+        "si": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය"
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Važno je da razmotrimo sve relevantne činjenice.",
+        "reading": "කොන්ත්‍රැක්ට්",
+        "si": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "reading": "ක්ලෝස්",
+        "si": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "reading": "ඩෙඩ්ලයින්",
+        "si": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "reading": "නෙගොෂියේට්",
+        "si": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "Kako biste ocenili trenutnu situaciju?",
+        "reading": "කාකෝ බිස්තෙ ඔදෙලිමෝ ස්ත්‍රෙණු සිතුආත්සියු?",
+        "si": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Najpre bih proverio dostupne podatke.",
+        "reading": "නාය්ප්‍රෙ බිහ ප්‍රොවෙරියෝ දොස්තුප්නේ පොදත්කේ.",
+        "si": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Slažem se, ali treba uzeti u obzir i troškove.",
+        "reading": "ස්ලාෂෙම් සේ, අලි ත්‍රෙබා උසෙති උ ඔබ්සිර් ඉ ත්‍රොෂ්කොවේ.",
+        "si": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Onda možemo predložiti uravnoteženo rešenje.",
+        "reading": "ඔන්දා මොෂෙමෝ ප්‍රෙද්ලොෂිති උරව්නොතෙෂෙනෝ රෙෂෙන්යේ.",
+        "si": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "හඬ අසා නිවැරදි සිංහල අර්ථය තෝරන්න.",
+      "audio": "Iako je početno ulaganje veliko, dugoročni troškovi mogu biti niži.",
+      "reading": "ආකෝ ප්‍රිහ්වතීතේ ඔවාය් උස්ලොව්, මොෂෙමෝ පොත්පිසාති උගොවෝර්.",
+      "options": [
+        "මෙම කොන්දේසිය පිළිගත්තොත් අපට ගිවිසුම අත්සන් කළ හැකියි.",
+        "අපි හෙට ගමනක් යනවා.",
+        "කාලගුණය අද ඉතා හොඳයි."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය: නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Iako je početno ulaganje veliko, dugoročni troškovi mogu biti niži.",
+          "අපි හෙට ගමනක් යනවා.",
+          "කාලගුණය අද ඉතා හොඳයි."
+        ],
+        "answer": 0,
+        "explanation": "මෙය බලශක්ති පරිවර්තනය සහ තිරසාරභාවය සන්දර්භයට ගැළපෙන නිවැරදි වාක්‍යයයි."
+      },
+      {
+        "prompt": "Which expression introduces a careful suggestion?",
+        "options": [
+          "I suggest that we compare the options.",
+          "The weather is sunny.",
+          "I forgot my keys."
+        ],
+        "answer": 0,
+        "explanation": "“I suggest that…” යෝජනාවක් ආචාරශීලීව ඉදිරිපත් කරයි."
+      },
+      {
+        "prompt": "සංවාදයකදී හොඳම ප්‍රතිචාරය කුමක්ද?",
+        "options": [
+          "කරුණු පරීක්ෂා කර විකල්ප සසඳමු.",
+          "මට කිසිවක් අසන්න අවශ්‍ය නැහැ.",
+          "අපි සාකච්ඡාව නවත්වමු."
+        ],
+        "answer": 0,
+        "explanation": "කරුණු සහ විකල්ප සලකා බැලීම B2 මට්ටමේ සාකච්ඡා කුසලතාවකි."
+      },
+      {
+        "prompt": "Choose the best way to express a conditional outcome.",
+        "options": [
+          "If the circumstances change, we will adjust our plan.",
+          "Yesterday is a colour.",
+          "Because quickly table."
+        ],
+        "answer": 0,
+        "explanation": "If-clause එකෙන් කොන්දේසිය සහ එහි ප්‍රතිඵලය සම්බන්ධ කරයි."
+      }
+    ]
+  },
+  {
+    "id": "sr-b2-l32",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · පාඩම 32 · පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය",
+    "objective": "දත්තවල විශ්වසනීයත්වය, නියැදි සහ පර්යේෂණ සීමා ඇගයීමට ලක් කරන්න.",
+    "vocabulary": [
+      {
+        "word": "uzorak",
+        "reading": "කොන්ත්‍රැක්ට්",
+        "meaning": "නියැදිය",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "pristrasnost",
+        "reading": "ක්ලෝස්",
+        "meaning": "පක්ෂපාතීත්වය",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "pouzdanost",
+        "reading": "ඩෙඩ්ලයින්",
+        "meaning": "විශ්වසනීයත්වය",
+        "example": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "translation": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "validnost",
+        "reading": "නෙගොෂියේට්",
+        "meaning": "වලංගුභාවය",
+        "example": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "translation": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "korelacija",
+        "reading": "ප්‍රපෝසල්",
+        "meaning": "සහසම්බන්ධතාව",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "uzročnost",
+        "reading": "කොම්ප්‍රොමයිස්",
+        "meaning": "හේතුකාරකත්වය",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "metodologija",
+        "reading": "ලයබල්",
+        "meaning": "ක්‍රමවේදය",
+        "example": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "translation": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "ograničenje",
+        "reading": "රිනියුවල්",
+        "meaning": "සීමාව",
+        "example": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "translation": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "grammarTitle": "Hedging and cautious claims",
+    "grammar": "Hedging and cautious claims: Rezultati ukazuju na moguću vezu, ali ne dokazuju uzročnost. මෙම රටාව නිවැරදි සන්දර්භයක භාවිතා කරමින් අදහස් වඩාත් නිවැරදිව හා ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Rezultati ukazuju na moguću vezu, ali ne dokazuju uzročnost.",
+        "reading": "ආකෝ උස්ලොව් බුදේ ප්‍රිහ්වතීත්, මොෂෙමෝ පොත්පිසාති උගොවෝර්.",
+        "si": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය"
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Važno je da razmotrimo sve relevantne činjenice.",
+        "reading": "කොන්ත්‍රැක්ට්",
+        "si": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "reading": "ක්ලෝස්",
+        "si": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "reading": "ඩෙඩ්ලයින්",
+        "si": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "reading": "නෙගොෂියේට්",
+        "si": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "Kako biste ocenili trenutnu situaciju?",
+        "reading": "කාකෝ බිස්තෙ ඔදෙලිමෝ ස්ත්‍රෙණු සිතුආත්සියු?",
+        "si": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Najpre bih proverio dostupne podatke.",
+        "reading": "නාය්ප්‍රෙ බිහ ප්‍රොවෙරියෝ දොස්තුප්නේ පොදත්කේ.",
+        "si": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Slažem se, ali treba uzeti u obzir i troškove.",
+        "reading": "ස්ලාෂෙම් සේ, අලි ත්‍රෙබා උසෙති උ ඔබ්සිර් ඉ ත්‍රොෂ්කොවේ.",
+        "si": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Onda možemo predložiti uravnoteženo rešenje.",
+        "reading": "ඔන්දා මොෂෙමෝ ප්‍රෙද්ලොෂිති උරව්නොතෙෂෙනෝ රෙෂෙන්යේ.",
+        "si": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "හඬ අසා නිවැරදි සිංහල අර්ථය තෝරන්න.",
+      "audio": "Rezultati ukazuju na moguću vezu, ali ne dokazuju uzročnost.",
+      "reading": "ආකෝ ප්‍රිහ්වතීතේ ඔවාය් උස්ලොව්, මොෂෙමෝ පොත්පිසාති උගොවෝර්.",
+      "options": [
+        "මෙම කොන්දේසිය පිළිගත්තොත් අපට ගිවිසුම අත්සන් කළ හැකියි.",
+        "අපි හෙට ගමනක් යනවා.",
+        "කාලගුණය අද ඉතා හොඳයි."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය: නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Rezultati ukazuju na moguću vezu, ali ne dokazuju uzročnost.",
+          "අපි හෙට ගමනක් යනවා.",
+          "කාලගුණය අද ඉතා හොඳයි."
+        ],
+        "answer": 0,
+        "explanation": "මෙය පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය සන්දර්භයට ගැළපෙන නිවැරදි වාක්‍යයයි."
+      },
+      {
+        "prompt": "Which expression introduces a careful suggestion?",
+        "options": [
+          "I suggest that we compare the options.",
+          "The weather is sunny.",
+          "I forgot my keys."
+        ],
+        "answer": 0,
+        "explanation": "“I suggest that…” යෝජනාවක් ආචාරශීලීව ඉදිරිපත් කරයි."
+      },
+      {
+        "prompt": "සංවාදයකදී හොඳම ප්‍රතිචාරය කුමක්ද?",
+        "options": [
+          "කරුණු පරීක්ෂා කර විකල්ප සසඳමු.",
+          "මට කිසිවක් අසන්න අවශ්‍ය නැහැ.",
+          "අපි සාකච්ඡාව නවත්වමු."
+        ],
+        "answer": 0,
+        "explanation": "කරුණු සහ විකල්ප සලකා බැලීම B2 මට්ටමේ සාකච්ඡා කුසලතාවකි."
+      },
+      {
+        "prompt": "Choose the best way to express a conditional outcome.",
+        "options": [
+          "If the circumstances change, we will adjust our plan.",
+          "Yesterday is a colour.",
+          "Because quickly table."
+        ],
+        "answer": 0,
+        "explanation": "If-clause එකෙන් කොන්දේසිය සහ එහි ප්‍රතිඵලය සම්බන්ධ කරයි."
+      }
+    ]
+  },
+  {
+    "id": "sr-b2-l33",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · පාඩම 33 · ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව",
+    "objective": "කථාවක් සංවිධානය කර ප්‍රේක්ෂක ප්‍රශ්නවලට පැහැදිලිව පිළිතුරු දෙන්න.",
+    "vocabulary": [
+      {
+        "word": "uvod",
+        "reading": "කොන්ත්‍රැක්ට්",
+        "meaning": "ආරම්භය",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "publika",
+        "reading": "ක්ලෝස්",
+        "meaning": "ප්‍රේක්ෂක පිරිස",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "naglasak",
+        "reading": "ඩෙඩ්ලයින්",
+        "meaning": "අවධාරණය",
+        "example": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "translation": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "prelaz",
+        "reading": "නෙගොෂියේට්",
+        "meaning": "මාරුව",
+        "example": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "translation": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "pojasniti",
+        "reading": "ප්‍රපෝසල්",
+        "meaning": "පැහැදිලි කිරීම",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "sažeti",
+        "reading": "කොම්ප්‍රොමයිස්",
+        "meaning": "සාරාංශ කිරීම",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "uključenost",
+        "reading": "ලයබල්",
+        "meaning": "සහභාගීත්වය",
+        "example": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "translation": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "vizuelno pomagalo",
+        "reading": "රිනියුවල්",
+        "meaning": "දෘශ්‍ය ආධාරකය",
+        "example": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "translation": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "grammarTitle": "Signposting expressions",
+    "grammar": "Signposting expressions: Najpre ću predstaviti problem, zatim ću objasniti moguće opcije. මෙම රටාව නිවැරදි සන්දර්භයක භාවිතා කරමින් අදහස් වඩාත් නිවැරදිව හා ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Najpre ću predstaviti problem, zatim ću objasniti moguće opcije.",
+        "reading": "ආකෝ උස්ලොව් බුදේ ප්‍රිහ්වතීත්, මොෂෙමෝ පොත්පිසාති උගොවෝර්.",
+        "si": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව"
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Važno je da razmotrimo sve relevantne činjenice.",
+        "reading": "කොන්ත්‍රැක්ට්",
+        "si": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "reading": "ක්ලෝස්",
+        "si": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "reading": "ඩෙඩ්ලයින්",
+        "si": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "reading": "නෙගොෂියේට්",
+        "si": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "Kako biste ocenili trenutnu situaciju?",
+        "reading": "කාකෝ බිස්තෙ ඔදෙලිමෝ ස්ත්‍රෙණු සිතුආත්සියු?",
+        "si": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Najpre bih proverio dostupne podatke.",
+        "reading": "නාය්ප්‍රෙ බිහ ප්‍රොවෙරියෝ දොස්තුප්නේ පොදත්කේ.",
+        "si": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Slažem se, ali treba uzeti u obzir i troškove.",
+        "reading": "ස්ලාෂෙම් සේ, අලි ත්‍රෙබා උසෙති උ ඔබ්සිර් ඉ ත්‍රොෂ්කොවේ.",
+        "si": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Onda možemo predložiti uravnoteženo rešenje.",
+        "reading": "ඔන්දා මොෂෙමෝ ප්‍රෙද්ලොෂිති උරව්නොතෙෂෙනෝ රෙෂෙන්යේ.",
+        "si": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "හඬ අසා නිවැරදි සිංහල අර්ථය තෝරන්න.",
+      "audio": "Najpre ću predstaviti problem, zatim ću objasniti moguće opcije.",
+      "reading": "ආකෝ ප්‍රිහ්වතීතේ ඔවාය් උස්ලොව්, මොෂෙමෝ පොත්පිසාති උගොවෝර්.",
+      "options": [
+        "මෙම කොන්දේසිය පිළිගත්තොත් අපට ගිවිසුම අත්සන් කළ හැකියි.",
+        "අපි හෙට ගමනක් යනවා.",
+        "කාලගුණය අද ඉතා හොඳයි."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව: නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Najpre ću predstaviti problem, zatim ću objasniti moguće opcije.",
+          "අපි හෙට ගමනක් යනවා.",
+          "කාලගුණය අද ඉතා හොඳයි."
+        ],
+        "answer": 0,
+        "explanation": "මෙය ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව සන්දර්භයට ගැළපෙන නිවැරදි වාක්‍යයයි."
+      },
+      {
+        "prompt": "Which expression introduces a careful suggestion?",
+        "options": [
+          "I suggest that we compare the options.",
+          "The weather is sunny.",
+          "I forgot my keys."
+        ],
+        "answer": 0,
+        "explanation": "“I suggest that…” යෝජනාවක් ආචාරශීලීව ඉදිරිපත් කරයි."
+      },
+      {
+        "prompt": "සංවාදයකදී හොඳම ප්‍රතිචාරය කුමක්ද?",
+        "options": [
+          "කරුණු පරීක්ෂා කර විකල්ප සසඳමු.",
+          "මට කිසිවක් අසන්න අවශ්‍ය නැහැ.",
+          "අපි සාකච්ඡාව නවත්වමු."
+        ],
+        "answer": 0,
+        "explanation": "කරුණු සහ විකල්ප සලකා බැලීම B2 මට්ටමේ සාකච්ඡා කුසලතාවකි."
+      },
+      {
+        "prompt": "Choose the best way to express a conditional outcome.",
+        "options": [
+          "If the circumstances change, we will adjust our plan.",
+          "Yesterday is a colour.",
+          "Because quickly table."
+        ],
+        "answer": 0,
+        "explanation": "If-clause එකෙන් කොන්දේසිය සහ එහි ප්‍රතිඵලය සම්බන්ධ කරයි."
+      }
+    ]
+  },
+  {
+    "id": "sr-b2-l34",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · පාඩම 34 · සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය",
+    "objective": "සංස්කෘතික අනන්‍යතාව, ඒකාබද්ධ වීම සහ බහුභාෂාභාවය ගැන සාකච්ඡා කරන්න.",
+    "vocabulary": [
+      {
+        "word": "identitet",
+        "reading": "කොන්ත්‍රැක්ට්",
+        "meaning": "අනන්‍යතාව",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "nasleđe",
+        "reading": "ක්ලෝස්",
+        "meaning": "උරුමය",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "integracija",
+        "reading": "ඩෙඩ්ලයින්",
+        "meaning": "ඒකාබද්ධ වීම",
+        "example": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "translation": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "migracija",
+        "reading": "නෙගොෂියේට්",
+        "meaning": "සංක්‍රමණය",
+        "example": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "translation": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "pripadnost",
+        "reading": "ප්‍රපෝසල්",
+        "meaning": "අයත්භාවය",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "raznolikost",
+        "reading": "කොම්ප්‍රොමයිස්",
+        "meaning": "විවිධත්වය",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "običaj",
+        "reading": "ලයබල්",
+        "meaning": "සම්ප්‍රදාය",
+        "example": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "translation": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "prilagođavanje",
+        "reading": "රිනියුවල්",
+        "meaning": "අනුගත වීම",
+        "example": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "translation": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "grammarTitle": "Contrastive clauses and nuanced comparisons",
+    "grammar": "Contrastive clauses and nuanced comparisons: Dok se neki brzo prilagode, drugima je potrebno više vremena. මෙම රටාව නිවැරදි සන්දර්භයක භාවිතා කරමින් අදහස් වඩාත් නිවැරදිව හා ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Dok se neki brzo prilagode, drugima je potrebno više vremena.",
+        "reading": "ආකෝ උස්ලොව් බුදේ ප්‍රිහ්වතීත්, මොෂෙමෝ පොත්පිසාති උගොවෝර්.",
+        "si": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය"
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Važno je da razmotrimo sve relevantne činjenice.",
+        "reading": "කොන්ත්‍රැක්ට්",
+        "si": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "reading": "ක්ලෝස්",
+        "si": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "reading": "ඩෙඩ්ලයින්",
+        "si": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "reading": "නෙගොෂියේට්",
+        "si": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "Kako biste ocenili trenutnu situaciju?",
+        "reading": "කාකෝ බිස්තෙ ඔදෙලිමෝ ස්ත්‍රෙණු සිතුආත්සියු?",
+        "si": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Najpre bih proverio dostupne podatke.",
+        "reading": "නාය්ප්‍රෙ බිහ ප්‍රොවෙරියෝ දොස්තුප්නේ පොදත්කේ.",
+        "si": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Slažem se, ali treba uzeti u obzir i troškove.",
+        "reading": "ස්ලාෂෙම් සේ, අලි ත්‍රෙබා උසෙති උ ඔබ්සිර් ඉ ත්‍රොෂ්කොවේ.",
+        "si": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Onda možemo predložiti uravnoteženo rešenje.",
+        "reading": "ඔන්දා මොෂෙමෝ ප්‍රෙද්ලොෂිති උරව්නොතෙෂෙනෝ රෙෂෙන්යේ.",
+        "si": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "හඬ අසා නිවැරදි සිංහල අර්ථය තෝරන්න.",
+      "audio": "Dok se neki brzo prilagode, drugima je potrebno više vremena.",
+      "reading": "ආකෝ ප්‍රිහ්වතීතේ ඔවාය් උස්ලොව්, මොෂෙමෝ පොත්පිසාති උගොවෝර්.",
+      "options": [
+        "මෙම කොන්දේසිය පිළිගත්තොත් අපට ගිවිසුම අත්සන් කළ හැකියි.",
+        "අපි හෙට ගමනක් යනවා.",
+        "කාලගුණය අද ඉතා හොඳයි."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය: නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Dok se neki brzo prilagode, drugima je potrebno više vremena.",
+          "අපි හෙට ගමනක් යනවා.",
+          "කාලගුණය අද ඉතා හොඳයි."
+        ],
+        "answer": 0,
+        "explanation": "මෙය සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය සන්දර්භයට ගැළපෙන නිවැරදි වාක්‍යයයි."
+      },
+      {
+        "prompt": "Which expression introduces a careful suggestion?",
+        "options": [
+          "I suggest that we compare the options.",
+          "The weather is sunny.",
+          "I forgot my keys."
+        ],
+        "answer": 0,
+        "explanation": "“I suggest that…” යෝජනාවක් ආචාරශීලීව ඉදිරිපත් කරයි."
+      },
+      {
+        "prompt": "සංවාදයකදී හොඳම ප්‍රතිචාරය කුමක්ද?",
+        "options": [
+          "කරුණු පරීක්ෂා කර විකල්ප සසඳමු.",
+          "මට කිසිවක් අසන්න අවශ්‍ය නැහැ.",
+          "අපි සාකච්ඡාව නවත්වමු."
+        ],
+        "answer": 0,
+        "explanation": "කරුණු සහ විකල්ප සලකා බැලීම B2 මට්ටමේ සාකච්ඡා කුසලතාවකි."
+      },
+      {
+        "prompt": "Choose the best way to express a conditional outcome.",
+        "options": [
+          "If the circumstances change, we will adjust our plan.",
+          "Yesterday is a colour.",
+          "Because quickly table."
+        ],
+        "answer": 0,
+        "explanation": "If-clause එකෙන් කොන්දේසිය සහ එහි ප්‍රතිඵලය සම්බන්ධ කරයි."
+      }
+    ]
+  },
+  {
+    "id": "sr-b2-l35",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · පාඩම 35 · ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව",
+    "objective": "දත්ත එකතු කිරීමේ අවදානම් සහ ආරක්ෂිත භාවිත ක්‍රම පැහැදිලි කරන්න.",
+    "vocabulary": [
+      {
+        "word": "privatnost",
+        "reading": "කොන්ත්‍රැක්ට්",
+        "meaning": "පෞද්ගලිකත්වය",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "saglasnost",
+        "reading": "ක්ලෝස්",
+        "meaning": "අනුමැතිය",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "šifrovanje",
+        "reading": "ඩෙඩ්ලයින්",
+        "meaning": "කේතනය",
+        "example": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "translation": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "povreda podataka",
+        "reading": "නෙගොෂියේට්",
+        "meaning": "දත්ත කඩවීම",
+        "example": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "translation": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "dozvola",
+        "reading": "ප්‍රපෝසල්",
+        "meaning": "අවසරය",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "praćenje",
+        "reading": "කොම්ප්‍රොමයිස්",
+        "meaning": "අනුගමනය කිරීම",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "čuvanje",
+        "reading": "ලයබල්",
+        "meaning": "රඳවා තබාගැනීම",
+        "example": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "translation": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "otkrivanje",
+        "reading": "රිනියුවල්",
+        "meaning": "හෙළිදරව් කිරීම",
+        "example": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "translation": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "grammarTitle": "Modal verbs for obligation and possibility",
+    "grammar": "Modal verbs for obligation and possibility: Korisnici bi trebalo da provere koje podatke aplikacija prikuplja. මෙම රටාව නිවැරදි සන්දර්භයක භාවිතා කරමින් අදහස් වඩාත් නිවැරදිව හා ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Korisnici bi trebalo da provere koje podatke aplikacija prikuplja.",
+        "reading": "ආකෝ උස්ලොව් බුදේ ප්‍රිහ්වතීත්, මොෂෙමෝ පොත්පිසාති උගොවෝර්.",
+        "si": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව"
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Važno je da razmotrimo sve relevantne činjenice.",
+        "reading": "කොන්ත්‍රැක්ට්",
+        "si": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "reading": "ක්ලෝස්",
+        "si": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "reading": "ඩෙඩ්ලයින්",
+        "si": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "reading": "නෙගොෂියේට්",
+        "si": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "Kako biste ocenili trenutnu situaciju?",
+        "reading": "කාකෝ බිස්තෙ ඔදෙලිමෝ ස්ත්‍රෙණු සිතුආත්සියු?",
+        "si": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Najpre bih proverio dostupne podatke.",
+        "reading": "නාය්ප්‍රෙ බිහ ප්‍රොවෙරියෝ දොස්තුප්නේ පොදත්කේ.",
+        "si": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Slažem se, ali treba uzeti u obzir i troškove.",
+        "reading": "ස්ලාෂෙම් සේ, අලි ත්‍රෙබා උසෙති උ ඔබ්සිර් ඉ ත්‍රොෂ්කොවේ.",
+        "si": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Onda možemo predložiti uravnoteženo rešenje.",
+        "reading": "ඔන්දා මොෂෙමෝ ප්‍රෙද්ලොෂිති උරව්නොතෙෂෙනෝ රෙෂෙන්යේ.",
+        "si": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "හඬ අසා නිවැරදි සිංහල අර්ථය තෝරන්න.",
+      "audio": "Korisnici bi trebalo da provere koje podatke aplikacija prikuplja.",
+      "reading": "ආකෝ ප්‍රිහ්වතීතේ ඔවාය් උස්ලොව්, මොෂෙමෝ පොත්පිසාති උගොවෝර්.",
+      "options": [
+        "මෙම කොන්දේසිය පිළිගත්තොත් අපට ගිවිසුම අත්සන් කළ හැකියි.",
+        "අපි හෙට ගමනක් යනවා.",
+        "කාලගුණය අද ඉතා හොඳයි."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව: නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Korisnici bi trebalo da provere koje podatke aplikacija prikuplja.",
+          "අපි හෙට ගමනක් යනවා.",
+          "කාලගුණය අද ඉතා හොඳයි."
+        ],
+        "answer": 0,
+        "explanation": "මෙය ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව සන්දර්භයට ගැළපෙන නිවැරදි වාක්‍යයයි."
+      },
+      {
+        "prompt": "Which expression introduces a careful suggestion?",
+        "options": [
+          "I suggest that we compare the options.",
+          "The weather is sunny.",
+          "I forgot my keys."
+        ],
+        "answer": 0,
+        "explanation": "“I suggest that…” යෝජනාවක් ආචාරශීලීව ඉදිරිපත් කරයි."
+      },
+      {
+        "prompt": "සංවාදයකදී හොඳම ප්‍රතිචාරය කුමක්ද?",
+        "options": [
+          "කරුණු පරීක්ෂා කර විකල්ප සසඳමු.",
+          "මට කිසිවක් අසන්න අවශ්‍ය නැහැ.",
+          "අපි සාකච්ඡාව නවත්වමු."
+        ],
+        "answer": 0,
+        "explanation": "කරුණු සහ විකල්ප සලකා බැලීම B2 මට්ටමේ සාකච්ඡා කුසලතාවකි."
+      },
+      {
+        "prompt": "Choose the best way to express a conditional outcome.",
+        "options": [
+          "If the circumstances change, we will adjust our plan.",
+          "Yesterday is a colour.",
+          "Because quickly table."
+        ],
+        "answer": 0,
+        "explanation": "If-clause එකෙන් කොන්දේසිය සහ එහි ප්‍රතිඵලය සම්බන්ධ කරයි."
+      }
+    ]
+  },
+  {
+    "id": "sr-b2-l36",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · පාඩම 36 · සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය",
+    "objective": "සෞඛ්‍ය තොරතුරු විමසා විකල්ප තේරුම් ගෙන ප්‍රශ්න අසන්න.",
+    "vocabulary": [
+      {
+        "word": "dijagnoza",
+        "reading": "කොන්ත්‍රැක්ට්",
+        "meaning": "රෝග විනිශ්චය",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "lečenje",
+        "reading": "ක්ලෝස්",
+        "meaning": "ප්‍රතිකාරය",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "neželjeni efekat",
+        "reading": "ඩෙඩ්ලයින්",
+        "meaning": "අතුරු ආබාධය",
+        "example": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "translation": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "pregled",
+        "reading": "නෙගොෂියේට්",
+        "meaning": "වෛද්‍ය හමුව",
+        "example": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "translation": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "pristanak",
+        "reading": "ප්‍රපෝසල්",
+        "meaning": "එකඟතාව",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "simptom",
+        "reading": "කොම්ප්‍රොමයිස්",
+        "meaning": "රෝග ලක්ෂණය",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "uput",
+        "reading": "ලයබල්",
+        "meaning": "යොමු කිරීම",
+        "example": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "translation": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "oporavak",
+        "reading": "රිනියුවල්",
+        "meaning": "සුවය ලැබීම",
+        "example": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "translation": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "grammarTitle": "Indirect questions",
+    "grammar": "Indirect questions: Možete li mi objasniti koje su prednosti i rizici ove terapije? මෙම රටාව නිවැරදි සන්දර්භයක භාවිතා කරමින් අදහස් වඩාත් නිවැරදිව හා ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Možete li mi objasniti koje su prednosti i rizici ove terapije?",
+        "reading": "ආකෝ උස්ලොව් බුදේ ප්‍රිහ්වතීත්, මොෂෙමෝ පොත්පිසාති උගොවෝර්.",
+        "si": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය"
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Važno je da razmotrimo sve relevantne činjenice.",
+        "reading": "කොන්ත්‍රැක්ට්",
+        "si": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "reading": "ක්ලෝස්",
+        "si": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "reading": "ඩෙඩ්ලයින්",
+        "si": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "reading": "නෙගොෂියේට්",
+        "si": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "Kako biste ocenili trenutnu situaciju?",
+        "reading": "කාකෝ බිස්තෙ ඔදෙලිමෝ ස්ත්‍රෙණු සිතුආත්සියු?",
+        "si": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Najpre bih proverio dostupne podatke.",
+        "reading": "නාය්ප්‍රෙ බිහ ප්‍රොවෙරියෝ දොස්තුප්නේ පොදත්කේ.",
+        "si": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Slažem se, ali treba uzeti u obzir i troškove.",
+        "reading": "ස්ලාෂෙම් සේ, අලි ත්‍රෙබා උසෙති උ ඔබ්සිර් ඉ ත්‍රොෂ්කොවේ.",
+        "si": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Onda možemo predložiti uravnoteženo rešenje.",
+        "reading": "ඔන්දා මොෂෙමෝ ප්‍රෙද්ලොෂිති උරව්නොතෙෂෙනෝ රෙෂෙන්යේ.",
+        "si": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "හඬ අසා නිවැරදි සිංහල අර්ථය තෝරන්න.",
+      "audio": "Možete li mi objasniti koje su prednosti i rizici ove terapije?",
+      "reading": "ආකෝ ප්‍රිහ්වතීතේ ඔවාය් උස්ලොව්, මොෂෙමෝ පොත්පිසාති උගොවෝර්.",
+      "options": [
+        "මෙම කොන්දේසිය පිළිගත්තොත් අපට ගිවිසුම අත්සන් කළ හැකියි.",
+        "අපි හෙට ගමනක් යනවා.",
+        "කාලගුණය අද ඉතා හොඳයි."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය: නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Možete li mi objasniti koje su prednosti i rizici ove terapije?",
+          "අපි හෙට ගමනක් යනවා.",
+          "කාලගුණය අද ඉතා හොඳයි."
+        ],
+        "answer": 0,
+        "explanation": "මෙය සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය සන්දර්භයට ගැළපෙන නිවැරදි වාක්‍යයයි."
+      },
+      {
+        "prompt": "Which expression introduces a careful suggestion?",
+        "options": [
+          "I suggest that we compare the options.",
+          "The weather is sunny.",
+          "I forgot my keys."
+        ],
+        "answer": 0,
+        "explanation": "“I suggest that…” යෝජනාවක් ආචාරශීලීව ඉදිරිපත් කරයි."
+      },
+      {
+        "prompt": "සංවාදයකදී හොඳම ප්‍රතිචාරය කුමක්ද?",
+        "options": [
+          "කරුණු පරීක්ෂා කර විකල්ප සසඳමු.",
+          "මට කිසිවක් අසන්න අවශ්‍ය නැහැ.",
+          "අපි සාකච්ඡාව නවත්වමු."
+        ],
+        "answer": 0,
+        "explanation": "කරුණු සහ විකල්ප සලකා බැලීම B2 මට්ටමේ සාකච්ඡා කුසලතාවකි."
+      },
+      {
+        "prompt": "Choose the best way to express a conditional outcome.",
+        "options": [
+          "If the circumstances change, we will adjust our plan.",
+          "Yesterday is a colour.",
+          "Because quickly table."
+        ],
+        "answer": 0,
+        "explanation": "If-clause එකෙන් කොන්දේසිය සහ එහි ප්‍රතිඵලය සම්බන්ධ කරයි."
+      }
+    ]
+  },
+  {
+    "id": "sr-b2-l37",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · පාඩම 37 · මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම",
+    "objective": "අයවැය, ඉතිරිකිරීම් සහ අවදානම් මට්ටම් සංසන්දනය කරන්න.",
+    "vocabulary": [
+      {
+        "word": "budžet",
+        "reading": "කොන්ත්‍රැක්ට්",
+        "meaning": "අයවැය",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "ušteđevina",
+        "reading": "ක්ලෝස්",
+        "meaning": "ඉතිරිකිරීම්",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "ulaganje",
+        "reading": "ඩෙඩ්ලයින්",
+        "meaning": "ආයෝජනය",
+        "example": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "translation": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "kamatna stopa",
+        "reading": "නෙගොෂියේට්",
+        "meaning": "පොලී අනුපාතය",
+        "example": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "translation": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "prinos",
+        "reading": "ප්‍රපෝසල්",
+        "meaning": "ප්‍රතිලාභය",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "rizik",
+        "reading": "කොම්ප්‍රොමයිස්",
+        "meaning": "අවදානම",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "dug",
+        "reading": "ලයබල්",
+        "meaning": "ණය",
+        "example": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "translation": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "prognoza",
+        "reading": "රිනියුවල්",
+        "meaning": "පුරෝකථනය",
+        "example": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "translation": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "grammarTitle": "Conditionals for financial scenarios",
+    "grammar": "Conditionals for financial scenarios: Ako rasporedimo ulaganja, možemo smanjiti pojedinačni rizik. මෙම රටාව නිවැරදි සන්දර්භයක භාවිතා කරමින් අදහස් වඩාත් නිවැරදිව හා ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Ako rasporedimo ulaganja, možemo smanjiti pojedinačni rizik.",
+        "reading": "ආකෝ උස්ලොව් බුදේ ප්‍රිහ්වතීත්, මොෂෙමෝ පොත්පිසාති උගොවෝර්.",
+        "si": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම"
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Važno je da razmotrimo sve relevantne činjenice.",
+        "reading": "කොන්ත්‍රැක්ට්",
+        "si": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "reading": "ක්ලෝස්",
+        "si": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "reading": "ඩෙඩ්ලයින්",
+        "si": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "reading": "නෙගොෂියේට්",
+        "si": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "Kako biste ocenili trenutnu situaciju?",
+        "reading": "කාකෝ බිස්තෙ ඔදෙලිමෝ ස්ත්‍රෙණු සිතුආත්සියු?",
+        "si": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Najpre bih proverio dostupne podatke.",
+        "reading": "නාය්ප්‍රෙ බිහ ප්‍රොවෙරියෝ දොස්තුප්නේ පොදත්කේ.",
+        "si": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Slažem se, ali treba uzeti u obzir i troškove.",
+        "reading": "ස්ලාෂෙම් සේ, අලි ත්‍රෙබා උසෙති උ ඔබ්සිර් ඉ ත්‍රොෂ්කොවේ.",
+        "si": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Onda možemo predložiti uravnoteženo rešenje.",
+        "reading": "ඔන්දා මොෂෙමෝ ප්‍රෙද්ලොෂිති උරව්නොතෙෂෙනෝ රෙෂෙන්යේ.",
+        "si": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "හඬ අසා නිවැරදි සිංහල අර්ථය තෝරන්න.",
+      "audio": "Ako rasporedimo ulaganja, možemo smanjiti pojedinačni rizik.",
+      "reading": "ආකෝ ප්‍රිහ්වතීතේ ඔවාය් උස්ලොව්, මොෂෙමෝ පොත්පිසාති උගොවෝර්.",
+      "options": [
+        "මෙම කොන්දේසිය පිළිගත්තොත් අපට ගිවිසුම අත්සන් කළ හැකියි.",
+        "අපි හෙට ගමනක් යනවා.",
+        "කාලගුණය අද ඉතා හොඳයි."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම: නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Ako rasporedimo ulaganja, možemo smanjiti pojedinačni rizik.",
+          "අපි හෙට ගමනක් යනවා.",
+          "කාලගුණය අද ඉතා හොඳයි."
+        ],
+        "answer": 0,
+        "explanation": "මෙය මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම සන්දර්භයට ගැළපෙන නිවැරදි වාක්‍යයයි."
+      },
+      {
+        "prompt": "Which expression introduces a careful suggestion?",
+        "options": [
+          "I suggest that we compare the options.",
+          "The weather is sunny.",
+          "I forgot my keys."
+        ],
+        "answer": 0,
+        "explanation": "“I suggest that…” යෝජනාවක් ආචාරශීලීව ඉදිරිපත් කරයි."
+      },
+      {
+        "prompt": "සංවාදයකදී හොඳම ප්‍රතිචාරය කුමක්ද?",
+        "options": [
+          "කරුණු පරීක්ෂා කර විකල්ප සසඳමු.",
+          "මට කිසිවක් අසන්න අවශ්‍ය නැහැ.",
+          "අපි සාකච්ඡාව නවත්වමු."
+        ],
+        "answer": 0,
+        "explanation": "කරුණු සහ විකල්ප සලකා බැලීම B2 මට්ටමේ සාකච්ඡා කුසලතාවකි."
+      },
+      {
+        "prompt": "Choose the best way to express a conditional outcome.",
+        "options": [
+          "If the circumstances change, we will adjust our plan.",
+          "Yesterday is a colour.",
+          "Because quickly table."
+        ],
+        "answer": 0,
+        "explanation": "If-clause එකෙන් කොන්දේසිය සහ එහි ප්‍රතිඵලය සම්බන්ධ කරයි."
+      }
+    ]
+  },
+  {
+    "id": "sr-b2-l38",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · පාඩම 38 · මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම",
+    "objective": "ප්‍රවෘත්ති මූලාශ්‍රවල විශ්වසනීයත්වය සහ පක්ෂපාතීත්වය පරීක්ෂා කරන්න.",
+    "vocabulary": [
+      {
+        "word": "izvor",
+        "reading": "කොන්ත්‍රැක්ට්",
+        "meaning": "මූලාශ්‍රය",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "naslov",
+        "reading": "ක්ලෝස්",
+        "meaning": "සිරස්තලය",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "uvodnik",
+        "reading": "ඩෙඩ්ලයින්",
+        "meaning": "කතුවැකිය",
+        "example": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "translation": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "provera",
+        "reading": "නෙගොෂියේට්",
+        "meaning": "තහවුරු කිරීම",
+        "example": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "translation": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "dezinformacija",
+        "reading": "ප්‍රපෝසල්",
+        "meaning": "වැරදි තොරතුරු",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "izveštavanje",
+        "reading": "කොම්ප්‍රොමයිස්",
+        "meaning": "වාර්තාකරණය",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "citat",
+        "reading": "ලයබල්",
+        "meaning": "උපුටා දැක්වීම",
+        "example": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "translation": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "pristrasnost",
+        "reading": "රිනියුවල්",
+        "meaning": "පක්ෂපාතීත්වය",
+        "example": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "translation": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "grammarTitle": "Attribution and reported claims",
+    "grammar": "Attribution and reported claims: Prema izveštaju, podaci su provereni iz više nezavisnih izvora. මෙම රටාව නිවැරදි සන්දර්භයක භාවිතා කරමින් අදහස් වඩාත් නිවැරදිව හා ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Prema izveštaju, podaci su provereni iz više nezavisnih izvora.",
+        "reading": "ආකෝ උස්ලොව් බුදේ ප්‍රිහ්වතීත්, මොෂෙමෝ පොත්පිසාති උගොවෝර්.",
+        "si": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම"
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Važno je da razmotrimo sve relevantne činjenice.",
+        "reading": "කොන්ත්‍රැක්ට්",
+        "si": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "reading": "ක්ලෝස්",
+        "si": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "reading": "ඩෙඩ්ලයින්",
+        "si": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "reading": "නෙගොෂියේට්",
+        "si": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "Kako biste ocenili trenutnu situaciju?",
+        "reading": "කාකෝ බිස්තෙ ඔදෙලිමෝ ස්ත්‍රෙණු සිතුආත්සියු?",
+        "si": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Najpre bih proverio dostupne podatke.",
+        "reading": "නාය්ප්‍රෙ බිහ ප්‍රොවෙරියෝ දොස්තුප්නේ පොදත්කේ.",
+        "si": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Slažem se, ali treba uzeti u obzir i troškove.",
+        "reading": "ස්ලාෂෙම් සේ, අලි ත්‍රෙබා උසෙති උ ඔබ්සිර් ඉ ත්‍රොෂ්කොවේ.",
+        "si": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Onda možemo predložiti uravnoteženo rešenje.",
+        "reading": "ඔන්දා මොෂෙමෝ ප්‍රෙද්ලොෂිති උරව්නොතෙෂෙනෝ රෙෂෙන්යේ.",
+        "si": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "හඬ අසා නිවැරදි සිංහල අර්ථය තෝරන්න.",
+      "audio": "Prema izveštaju, podaci su provereni iz više nezavisnih izvora.",
+      "reading": "ආකෝ ප්‍රිහ්වතීතේ ඔවාය් උස්ලොව්, මොෂෙමෝ පොත්පිසාති උගොවෝර්.",
+      "options": [
+        "මෙම කොන්දේසිය පිළිගත්තොත් අපට ගිවිසුම අත්සන් කළ හැකියි.",
+        "අපි හෙට ගමනක් යනවා.",
+        "කාලගුණය අද ඉතා හොඳයි."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම: නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Prema izveštaju, podaci su provereni iz više nezavisnih izvora.",
+          "අපි හෙට ගමනක් යනවා.",
+          "කාලගුණය අද ඉතා හොඳයි."
+        ],
+        "answer": 0,
+        "explanation": "මෙය මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම සන්දර්භයට ගැළපෙන නිවැරදි වාක්‍යයයි."
+      },
+      {
+        "prompt": "Which expression introduces a careful suggestion?",
+        "options": [
+          "I suggest that we compare the options.",
+          "The weather is sunny.",
+          "I forgot my keys."
+        ],
+        "answer": 0,
+        "explanation": "“I suggest that…” යෝජනාවක් ආචාරශීලීව ඉදිරිපත් කරයි."
+      },
+      {
+        "prompt": "සංවාදයකදී හොඳම ප්‍රතිචාරය කුමක්ද?",
+        "options": [
+          "කරුණු පරීක්ෂා කර විකල්ප සසඳමු.",
+          "මට කිසිවක් අසන්න අවශ්‍ය නැහැ.",
+          "අපි සාකච්ඡාව නවත්වමු."
+        ],
+        "answer": 0,
+        "explanation": "කරුණු සහ විකල්ප සලකා බැලීම B2 මට්ටමේ සාකච්ඡා කුසලතාවකි."
+      },
+      {
+        "prompt": "Choose the best way to express a conditional outcome.",
+        "options": [
+          "If the circumstances change, we will adjust our plan.",
+          "Yesterday is a colour.",
+          "Because quickly table."
+        ],
+        "answer": 0,
+        "explanation": "If-clause එකෙන් කොන්දේසිය සහ එහි ප්‍රතිඵලය සම්බන්ධ කරයි."
+      }
+    ]
+  },
+  {
+    "id": "sr-b2-l39",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · පාඩම 39 · ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය",
+    "objective": "ව්‍යාපෘතියක ප්‍රතිඵල, ප්‍රමාද සහ ඉදිරි වැඩ සැලැස්ම සමාලෝචනය කරන්න.",
+    "vocabulary": [
+      {
+        "word": "prekretnica",
+        "reading": "කොන්ත්‍රැක්ට්",
+        "meaning": "ප්‍රධාන අදියර",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "rezultat",
+        "reading": "ක්ලෝස්",
+        "meaning": "භාරදිය යුතු ප්‍රතිඵලය",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "učinak",
+        "reading": "ඩෙඩ්ලයින්",
+        "meaning": "කාර්යසාධනය",
+        "example": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "translation": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "kašnjenje",
+        "reading": "නෙගොෂියේට්",
+        "meaning": "ප්‍රමාදය",
+        "example": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "translation": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "pregled",
+        "reading": "ප්‍රපෝසල්",
+        "meaning": "සමාලෝචනය",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "ishod",
+        "reading": "කොම්ප්‍රොමයිස්",
+        "meaning": "ප්‍රතිඵලය",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "resurs",
+        "reading": "ලයබල්",
+        "meaning": "සම්පත",
+        "example": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "translation": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "prioritet",
+        "reading": "රිනියුවල්",
+        "meaning": "ප්‍රමුඛතාව",
+        "example": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "translation": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "grammarTitle": "Present perfect and outcome reporting",
+    "grammar": "Present perfect and outcome reporting: Tim je završio glavne zadatke, ali je rok za testiranje pomeren. මෙම රටාව නිවැරදි සන්දර්භයක භාවිතා කරමින් අදහස් වඩාත් නිවැරදිව හා ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Tim je završio glavne zadatke, ali je rok za testiranje pomeren.",
+        "reading": "ආකෝ උස්ලොව් බුදේ ප්‍රිහ්වතීත්, මොෂෙමෝ පොත්පිසාති උගොවෝර්.",
+        "si": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය"
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Važno je da razmotrimo sve relevantne činjenice.",
+        "reading": "කොන්ත්‍රැක්ට්",
+        "si": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "reading": "ක්ලෝස්",
+        "si": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "reading": "ඩෙඩ්ලයින්",
+        "si": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "reading": "නෙගොෂියේට්",
+        "si": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "Kako biste ocenili trenutnu situaciju?",
+        "reading": "කාකෝ බිස්තෙ ඔදෙලිමෝ ස්ත්‍රෙණු සිතුආත්සියු?",
+        "si": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Najpre bih proverio dostupne podatke.",
+        "reading": "නාය්ප්‍රෙ බිහ ප්‍රොවෙරියෝ දොස්තුප්නේ පොදත්කේ.",
+        "si": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Slažem se, ali treba uzeti u obzir i troškove.",
+        "reading": "ස්ලාෂෙම් සේ, අලි ත්‍රෙබා උසෙති උ ඔබ්සිර් ඉ ත්‍රොෂ්කොවේ.",
+        "si": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Onda možemo predložiti uravnoteženo rešenje.",
+        "reading": "ඔන්දා මොෂෙමෝ ප්‍රෙද්ලොෂිති උරව්නොතෙෂෙනෝ රෙෂෙන්යේ.",
+        "si": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "හඬ අසා නිවැරදි සිංහල අර්ථය තෝරන්න.",
+      "audio": "Tim je završio glavne zadatke, ali je rok za testiranje pomeren.",
+      "reading": "ආකෝ ප්‍රිහ්වතීතේ ඔවාය් උස්ලොව්, මොෂෙමෝ පොත්පිසාති උගොවෝර්.",
+      "options": [
+        "මෙම කොන්දේසිය පිළිගත්තොත් අපට ගිවිසුම අත්සන් කළ හැකියි.",
+        "අපි හෙට ගමනක් යනවා.",
+        "කාලගුණය අද ඉතා හොඳයි."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය: නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Tim je završio glavne zadatke, ali je rok za testiranje pomeren.",
+          "අපි හෙට ගමනක් යනවා.",
+          "කාලගුණය අද ඉතා හොඳයි."
+        ],
+        "answer": 0,
+        "explanation": "මෙය ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය සන්දර්භයට ගැළපෙන නිවැරදි වාක්‍යයයි."
+      },
+      {
+        "prompt": "Which expression introduces a careful suggestion?",
+        "options": [
+          "I suggest that we compare the options.",
+          "The weather is sunny.",
+          "I forgot my keys."
+        ],
+        "answer": 0,
+        "explanation": "“I suggest that…” යෝජනාවක් ආචාරශීලීව ඉදිරිපත් කරයි."
+      },
+      {
+        "prompt": "සංවාදයකදී හොඳම ප්‍රතිචාරය කුමක්ද?",
+        "options": [
+          "කරුණු පරීක්ෂා කර විකල්ප සසඳමු.",
+          "මට කිසිවක් අසන්න අවශ්‍ය නැහැ.",
+          "අපි සාකච්ඡාව නවත්වමු."
+        ],
+        "answer": 0,
+        "explanation": "කරුණු සහ විකල්ප සලකා බැලීම B2 මට්ටමේ සාකච්ඡා කුසලතාවකි."
+      },
+      {
+        "prompt": "Choose the best way to express a conditional outcome.",
+        "options": [
+          "If the circumstances change, we will adjust our plan.",
+          "Yesterday is a colour.",
+          "Because quickly table."
+        ],
+        "answer": 0,
+        "explanation": "If-clause එකෙන් කොන්දේසිය සහ එහි ප්‍රතිඵලය සම්බන්ධ කරයි."
+      }
+    ]
+  },
+  {
+    "id": "sr-b2-l40",
+    "unit": "ඉහළ ස්වාධීන භාවිතය",
+    "title": "B2 · පාඩම 40 · විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම්",
+    "objective": "නව තාක්ෂණයක ප්‍රතිලාභ, අවදානම් සහ සදාචාර සීමා තක්සේරු කරන්න.",
+    "vocabulary": [
+      {
+        "word": "etika",
+        "reading": "කොන්ත්‍රැක්ට්",
+        "meaning": "සදාචාරය",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "odgovornost",
+        "reading": "ක්ලෝස්",
+        "meaning": "වගවීම",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "transparentnost",
+        "reading": "ඩෙඩ්ලයින්",
+        "meaning": "විනිවිදභාවය",
+        "example": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "translation": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "algoritam",
+        "reading": "නෙගොෂියේට්",
+        "meaning": "ඇල්ගොරිතමය",
+        "example": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "translation": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "saglasnost",
+        "reading": "ප්‍රපෝසල්",
+        "meaning": "අනුමැතිය",
+        "example": "Važno je da razmotrimo sve relevantne činjenice.",
+        "translation": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "uticaj",
+        "reading": "කොම්ප්‍රොමයිස්",
+        "meaning": "බලපෑම",
+        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "translation": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "nadzor",
+        "reading": "ලයබල්",
+        "meaning": "අධීක්ෂණය",
+        "example": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "translation": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "word": "zaštitna mera",
+        "reading": "රිනියුවල්",
+        "meaning": "ආරක්ෂක පියවර",
+        "example": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "translation": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "grammarTitle": "Evaluative language and qualified conclusions",
+    "grammar": "Evaluative language and qualified conclusions: Tehnologija može doneti korist, pod uslovom da se koristi odgovorno. මෙම රටාව නිවැරදි සන්දර්භයක භාවිතා කරමින් අදහස් වඩාත් නිවැරදිව හා ආචාරශීලීව ඉදිරිපත් කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Tehnologija može doneti korist, pod uslovom da se koristi odgovorno.",
+        "reading": "ආකෝ උස්ලොව් බුදේ ප්‍රිහ්වතීත්, මොෂෙමෝ පොත්පිසාති උගොවෝර්.",
+        "si": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම්"
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Važno je da razmotrimo sve relevantne činjenice.",
+        "reading": "කොන්ත්‍රැක්ට්",
+        "si": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Predlažem da uporedimo nekoliko mogućih rešenja.",
+        "reading": "ක්ලෝස්",
+        "si": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Odluka treba da bude jasna, dosledna i obrazložena.",
+        "reading": "ඩෙඩ්ලයින්",
+        "si": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Ako se okolnosti promene, prilagodićemo naš plan.",
+        "reading": "නෙගොෂියේට්",
+        "si": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "Kako biste ocenili trenutnu situaciju?",
+        "reading": "කාකෝ බිස්තෙ ඔදෙලිමෝ ස්ත්‍රෙණු සිතුආත්සියු?",
+        "si": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Najpre bih proverio dostupne podatke.",
+        "reading": "නාය්ප්‍රෙ බිහ ප්‍රොවෙරියෝ දොස්තුප්නේ පොදත්කේ.",
+        "si": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Slažem se, ali treba uzeti u obzir i troškove.",
+        "reading": "ස්ලාෂෙම් සේ, අලි ත්‍රෙබා උසෙති උ ඔබ්සිර් ඉ ත්‍රොෂ්කොවේ.",
+        "si": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      },
+      {
+        "sr": "Onda možemo predložiti uravnoteženo rešenje.",
+        "reading": "ඔන්දා මොෂෙමෝ ප්‍රෙද්ලොෂිති උරව්නොතෙෂෙනෝ රෙෂෙන්යේ.",
+        "si": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "හඬ අසා නිවැරදි සිංහල අර්ථය තෝරන්න.",
+      "audio": "Tehnologija može doneti korist, pod uslovom da se koristi odgovorno.",
+      "reading": "ආකෝ ප්‍රිහ්වතීතේ ඔවාය් උස්ලොව්, මොෂෙමෝ පොත්පිසාති උගොවෝර්.",
+      "options": [
+        "මෙම කොන්දේසිය පිළිගත්තොත් අපට ගිවිසුම අත්සන් කළ හැකියි.",
+        "අපි හෙට ගමනක් යනවා.",
+        "කාලගුණය අද ඉතා හොඳයි."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම්: නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Tehnologija može doneti korist, pod uslovom da se koristi odgovorno.",
+          "අපි හෙට ගමනක් යනවා.",
+          "කාලගුණය අද ඉතා හොඳයි."
+        ],
+        "answer": 0,
+        "explanation": "මෙය විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් සන්දර්භයට ගැළපෙන නිවැරදි වාක්‍යයයි."
+      },
+      {
+        "prompt": "Which expression introduces a careful suggestion?",
+        "options": [
+          "I suggest that we compare the options.",
+          "The weather is sunny.",
+          "I forgot my keys."
+        ],
+        "answer": 0,
+        "explanation": "“I suggest that…” යෝජනාවක් ආචාරශීලීව ඉදිරිපත් කරයි."
+      },
+      {
+        "prompt": "සංවාදයකදී හොඳම ප්‍රතිචාරය කුමක්ද?",
+        "options": [
+          "කරුණු පරීක්ෂා කර විකල්ප සසඳමු.",
+          "මට කිසිවක් අසන්න අවශ්‍ය නැහැ.",
+          "අපි සාකච්ඡාව නවත්වමු."
+        ],
+        "answer": 0,
+        "explanation": "කරුණු සහ විකල්ප සලකා බැලීම B2 මට්ටමේ සාකච්ඡා කුසලතාවකි."
+      },
+      {
+        "prompt": "Choose the best way to express a conditional outcome.",
+        "options": [
+          "If the circumstances change, we will adjust our plan.",
+          "Yesterday is a colour.",
+          "Because quickly table."
+        ],
+        "answer": 0,
+        "explanation": "If-clause එකෙන් කොන්දේසිය සහ එහි ප්‍රතිඵලය සම්බන්ධ කරයි."
       }
     ]
   }
