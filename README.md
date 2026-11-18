@@ -142,3 +142,9 @@ GitHub Actions runs dependency installation, Expo SDK compatibility checks, and 
 - BasaNova uses AsyncStorage to restore and save learning state on the device under the local key `basanova-progress-v1`. This includes checked lesson and revision answers, learned vocabulary, XP and mission completion, theme, selected language and translator history.
 - This is local device storage only; it is not cloud backup or cross-device synchronization. Storage restore still needs physical Android device testing.
 - Serbian A1 currently contains ten structured starter lessons and matching listening/revision practice. Sinhala-script readings are approximate and should be reviewed by a Serbian native speaker.
+
+
+### English A1 lesson 7 — Hotel and accommodation
+- Added practical hotel language for asking about room availability, choosing single/double rooms, checking nightly prices and breakfast, confirming a reservation, asking for the Wi-Fi password and reporting a room-service problem.
+- Includes 12 vocabulary entries, five grammar phrase cards, four examples, an eight-line dialogue, one listening task and four comprehension questions. Each English phrase has a Sinhala-script pronunciation approximation and Sinhala meaning; the existing lesson renderer supplies individual English TTS controls.
+- English A1 now has seven structured starter lessons. This is still a partial A1 course, not a complete CEFR A1 curriculum. Pronunciation guides are approximations and need review; no physical Android test or APK build has been performed.
