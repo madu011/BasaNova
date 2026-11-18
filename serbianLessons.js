@@ -1933,4 +1933,114 @@ practice:[
 {prompt:"“මස් නැතුව” යන්න?",options:["Bez mesa","Sa mesom","Bez vode"],answer:0,explanation:"Bez mesa = මස් නැතුව."},
 {prompt:"“අමුද්‍රව්‍ය” යන වචනය?",options:["Sastojci","Preporuka","Jelovnik"],answer:0,explanation:"Sastojci = අමුද්‍රව්‍ය."}]}
 
+
+,
+{id:"sr-a1-u13-l1",unit:"පවුල සහ පුද්ගලයන්",title:"පාඩම 37 · පවුල සහ පුද්ගලයන්",objective:"පවුලේ සාමාජිකයන් හඳුන්වා දීම සහ ඔවුන් ගැන සරල තොරතුරු පැවසීම.",
+vocabulary:[
+{word:"Porodica",reading:"පොරොදිත්සා",meaning:"පවුල",example:"Moja porodica je velika.",exampleReading:"මොයා පොරොදිත්සා යේ වෙලිකා.",translation:"මගේ පවුල විශාලයි."},
+{word:"Majka",reading:"මායිකා",meaning:"මව",example:"Moja majka živi u Srbiji.",exampleReading:"මොයා මායිකා ෂිවි උ ස්ර්බියි.",translation:"මගේ මව සර්බියාවේ ජීවත් වෙනවා."},
+{word:"Otac",reading:"ඔතාත්ස්",meaning:"පියා",example:"Moj otac radi.",exampleReading:"මොයි ඔතාත්ස් රාදි.",translation:"මගේ පියා වැඩ කරනවා."},
+{word:"Brat",reading:"බ්‍රාත්",meaning:"සහෝදරයා",example:"Imam jednog brata.",exampleReading:"ඉමාම් යෙද්නොග් බ්‍රාතා.",translation:"මට සහෝදරයෙක් ඉන්නවා."},
+{word:"Sestra",reading:"සෙස්ත්‍රා",meaning:"සහෝදරිය",example:"Moja sestra je studentkinja.",exampleReading:"මොයා සෙස්ත්‍රා යේ ස්තුදෙන්ත්කින්යා.",translation:"මගේ සහෝදරිය ශිෂ්‍යාවක්."},
+{word:"Roditelji",reading:"රොදිතෙල්යි",meaning:"දෙමාපියන්",example:"Moji roditelji su kod kuće.",exampleReading:"මොයි රොදිතෙල්යි සු කොද් කුචෙ.",translation:"මගේ දෙමාපියන් ගෙදර ඉන්නවා."},
+{word:"Oženjen",reading:"ඔෂෙන්යෙන්",meaning:"විවාහක (පිරිමි)",example:"On je oženjen.",exampleReading:"ඔන් යේ ඔෂෙන්යෙන්.",translation:"ඔහු විවාහකයි."},
+{word:"Udata",reading:"උදාතා",meaning:"විවාහක (ගැහැණු)",example:"Ona je udata.",exampleReading:"ඔනා යේ උදාතා.",translation:"ඇය විවාහකයි."}],
+grammarTitle:"ව්‍යාකරණය · පවුල හඳුන්වා දීම",
+grammar:"“Imam ...” යනු “මට ... ඉන්නවා/තියෙනවා” යන්නයි. පිරිමි නාම පද සමඟ moj සහ ගැහැණු නාම පද සමඟ moja භාවිත වේ. “On je ...” ඔහු ගැනත් “Ona je ...” ඇය ගැනත් කියයි.",
+grammarTerms:[
+{sr:"Imam jednog brata.",reading:"ඉමාම් යෙද්නොග් බ්‍රාතා.",si:"මට සහෝදරයෙක් ඉන්නවා."},
+{sr:"Moja porodica je velika.",reading:"මොයා පොරොදිත්සා යේ වෙලිකා.",si:"මගේ පවුල විශාලයි."},
+{sr:"On je moj otac.",reading:"ඔන් යේ මොයි ඔතාත්ස්.",si:"ඔහු මගේ පියා."},
+{sr:"Ona je moja sestra.",reading:"ඔනා යේ මොයා සෙස්ත්‍රා.",si:"ඇය මගේ සහෝදරිය."}],
+examples:[
+{sr:"Moja majka se zove Ana.",reading:"මොයා මායිකා සේ සොවේ ආනා.",si:"මගේ මවගේ නම ආනා."},
+{sr:"Imam dve sestre.",reading:"ඉමාම් ද්වේ සෙස්ත්‍රෙ.",si:"මට සහෝදරියන් දෙදෙනෙක් ඉන්නවා."},
+{sr:"Moj brat živi u Beogradu.",reading:"මොයි බ්‍රාත් ෂිවි උ බෙඔග්‍රාදු.",si:"මගේ සහෝදරයා බෙල්ග්‍රේඩ්වල ජීවත් වෙනවා."},
+{sr:"Moji roditelji rade.",reading:"මොයි රොදිතෙල්යි රාදෙ.",si:"මගේ දෙමාපියන් වැඩ කරනවා."}],
+dialogue:[
+{sr:"Koliko članova ima tvoja porodica?",reading:"කොලිකො ච්ලානොවා ඉමා ත්වොයා පොරොදිත්සා?",si:"ඔයාගේ පවුලේ සාමාජිකයන් කීදෙනෙක් ඉන්නවාද?"},
+{sr:"Imamo četiri člana.",reading:"ඉමාමො චෙතිරි ච්ලානා.",si:"අපේ පවුලේ සාමාජිකයන් හතර දෙනෙක් ඉන්නවා."},
+{sr:"Imaš li brata ili sestru?",reading:"ඉමාෂ් ලි බ්‍රාතා ඉලි සෙස්ත්‍රු?",si:"ඔයාට සහෝදරයෙක් හෝ සහෝදරියක් ඉන්නවාද?"},
+{sr:"Imam jednog brata i jednu sestru.",reading:"ඉමාම් යෙද්නොග් බ්‍රාතා ඉ යෙද්නු සෙස්ත්‍රු.",si:"මට සහෝදරයෙක් සහ සහෝදරියක් ඉන්නවා."},
+{sr:"Gde žive tvoji roditelji?",reading:"ග්දේ ෂිවෙ ත්වොයි රොදිතෙල්යි?",si:"ඔයාගේ දෙමාපියන් ජීවත් වෙන්නේ කොහෙද?"},
+{sr:"Žive u Sri Lanki.",reading:"ෂිවෙ උ ශ්‍රී ලන්කි.",si:"ඔවුන් ශ්‍රී ලංකාවේ ජීවත් වෙනවා."}],
+listeningPractice:{prompt:"හඬ අසා නිවැරදි තේරුම තෝරන්න: “Imam jednog brata.”",audio:"Imam jednog brata.",options:["මට සහෝදරයෙක් ඉන්නවා.","මට සහෝදරියක් ඉන්නවා.","මට දරුවන් දෙදෙනෙක් ඉන්නවා."],readings:["ඉමාම් යෙද්නොග් බ්‍රාතා.","ඉමාම් යෙද්නු සෙස්ත්‍රු.","ඉමාම් ද්වොයෙ දෙතෙතා."],answer:0,meaning:"Imam jednog brata = මට සහෝදරයෙක් ඉන්නවා."},
+practice:[
+{prompt:"“පවුල” යන වචනය?",options:["Porodica","Posao","Poruka"],answer:0,explanation:"Porodica = පවුල."},
+{prompt:"“පියා” තෝරන්න.",options:["Majka","Otac","Sestra"],answer:1,explanation:"Otac = පියා."},
+{prompt:"“මට සහෝදරියක් ඉන්නවා” කියන්නේ?",options:["Imam sestru.","Imam brata.","Nemam porodicu."],answer:0,explanation:"Imam sestru = මට සහෝදරියක් ඉන්නවා."},
+{prompt:"“දෙමාපියන්” යන වචනය?",options:["Roditelji","Deca","Prijatelji"],answer:0,explanation:"Roditelji = දෙමාපියන්."}]}
+,
+{id:"sr-a1-u13-l2",unit:"නිවස සහ කාමර",title:"පාඩම 38 · නිවස සහ කාමර",objective:"නිවසේ කාමර, ගෘහ භාණ්ඩ සහ තමන් ජීවත් වන ස්ථානය විස්තර කිරීම.",
+vocabulary:[
+{word:"Stan",reading:"ස්තාන්",meaning:"මහල් නිවස / අපාර්ට්මන්ට්",example:"Živim u stanu.",exampleReading:"ෂිවිම් උ ස්තානු.",translation:"මම අපාර්ට්මන්ට් එකක ජීවත් වෙනවා."},
+{word:"Kuća",reading:"කුචා",meaning:"නිවස",example:"Moja kuća je mala.",exampleReading:"මොයා කුචා යේ මාලා.",translation:"මගේ නිවස කුඩායි."},
+{word:"Soba",reading:"සොබා",meaning:"කාමරය",example:"Moja soba je velika.",exampleReading:"මොයා සොබා යේ වෙලිකා.",translation:"මගේ කාමරය විශාලයි."},
+{word:"Kuhinja",reading:"කුහින්යා",meaning:"මුළුතැන්ගෙය",example:"Kuhinja je čista.",exampleReading:"කුහින්යා යේ චිස්තා.",translation:"මුළුතැන්ගෙය පිරිසිදුයි."},
+{word:"Kupatilo",reading:"කුපාතිලො",meaning:"නාන කාමරය",example:"Kupatilo je levo.",exampleReading:"කුපාතිලො යේ ලෙවො.",translation:"නාන කාමරය වම් පැත්තේ."},
+{word:"Sto",reading:"ස්තො",meaning:"මේසය",example:"Knjiga je na stolu.",exampleReading:"ක්න්යිගා යේ නා ස්තොලු.",translation:"පොත මේසය මත තියෙනවා."},
+{word:"Krevet",reading:"ක්‍රෙවෙත්",meaning:"ඇඳ",example:"Krevet je u sobi.",exampleReading:"ක්‍රෙවෙත් යේ උ සොබි.",translation:"ඇඳ කාමරයේ තියෙනවා."},
+{word:"Iznajmiti",reading:"ඉස්නායිමිති",meaning:"කුලියට ගැනීම",example:"Želim da iznajmim stan.",exampleReading:"ෂෙලිම් දා ඉස්නායිමිම් ස්තාන්.",translation:"මට අපාර්ට්මන්ට් එකක් කුලියට ගන්න ඕනේ."}],
+grammarTitle:"ව්‍යාකරණය · නිවස විස්තර කිරීම",
+grammar:"“Živim u ...” යනු “මම ... ජීවත් වෙනවා” යන්නයි. ස්ථානයක් විස්තර කිරීමට “u sobi” (කාමරයේ), “na stolu” (මේසය මත) වැනි රටා භාවිත කරන්න. “Želim da iznajmim ...” යනු කුලියට ගැනීමට අවශ්‍ය බව කියයි.",
+grammarTerms:[
+{sr:"Živim u stanu.",reading:"ෂිවිම් උ ස්තානු.",si:"මම අපාර්ට්මන්ට් එකක ජීවත් වෙනවා."},
+{sr:"Kuhinja je čista.",reading:"කුහින්යා යේ චිස්තා.",si:"මුළුතැන්ගෙය පිරිසිදුයි."},
+{sr:"Knjiga je na stolu.",reading:"ක්න්යිගා යේ නා ස්තොලු.",si:"පොත මේසය මත තියෙනවා."},
+{sr:"Želim da iznajmim stan.",reading:"ෂෙලිම් දා ඉස්නායිමිම් ස්තාන්.",si:"මට අපාර්ට්මන්ට් එකක් කුලියට ගන්න ඕනේ."}],
+examples:[
+{sr:"Moj stan ima dve sobe.",reading:"මොයි ස්තාන් ඉමා ද්වේ සොබෙ.",si:"මගේ අපාර්ට්මන්ට් එකේ කාමර දෙකක් තියෙනවා."},
+{sr:"Kuhinja je pored dnevne sobe.",reading:"කුහින්යා යේ පොරෙද් ද්නෙව්නෙ සොබෙ.",si:"මුළුතැන්ගෙය සාලය අසලයි."},
+{sr:"Kupatilo je desno od sobe.",reading:"කුපාතිලො යේ දෙස්නො ඔද් සොබෙ.",si:"නාන කාමරය කාමරයට දකුණු පැත්තේ."},
+{sr:"Tražim stan blizu centra.",reading:"ත්‍රාෂිම් ස්තාන් බ්ලිසු ත්සෙන්ත්‍රා.",si:"මම නගර මධ්‍යයට ළඟින් අපාර්ට්මන්ට් එකක් සොයනවා."}],
+dialogue:[
+{sr:"Da li iznajmljujete ovaj stan?",reading:"දා ලි ඉස්නායිම්ලියුයෙතෙ ඔවායි ස්තාන්?",si:"ඔබ මේ අපාර්ට්මන්ට් එක කුලියට දෙනවාද?"},
+{sr:"Da. Stan ima dve sobe.",reading:"දා. ස්තාන් ඉමා ද්වේ සොබෙ.",si:"ඔව්. මේකේ කාමර දෙකක් තියෙනවා."},
+{sr:"Gde je kuhinja?",reading:"ග්දේ යේ කුහින්යා?",si:"මුළුතැන්ගෙය කොහෙද?"},
+{sr:"Kuhinja je pored dnevne sobe.",reading:"කුහින්යා යේ පොරෙද් ද්නෙව්නෙ සොබෙ.",si:"මුළුතැන්ගෙය සාලය අසලයි."},
+{sr:"Da li stan ima kupatilo?",reading:"දා ලි ස්තාන් ඉමා කුපාතිලො?",si:"අපාර්ට්මන්ට් එකේ නාන කාමරයක් තියෙනවාද?"},
+{sr:"Da, kupatilo je desno.",reading:"දා, කුපාතිලො යේ දෙස්නො.",si:"ඔව්, නාන කාමරය දකුණු පැත්තේ."}],
+listeningPractice:{prompt:"හඬ අසා නිවැරදි තේරුම තෝරන්න: “Živim u stanu.”",audio:"Živim u stanu.",options:["මම අපාර්ට්මන්ට් එකක ජීවත් වෙනවා.","මම නිවසක් මිලදී ගන්නවා.","මම කාමරය පිරිසිදු කරනවා."],readings:["ෂිවිම් උ ස්තානු.","කුපුයෙම් කුචු.","චිස්තිම් සොබු."],answer:0,meaning:"Živim u stanu = මම අපාර්ට්මන්ට් එකක ජීවත් වෙනවා."},
+practice:[
+{prompt:"“කාමරය” යන වචනය?",options:["Soba","Kuhinja","Sto"],answer:0,explanation:"Soba = කාමරය."},
+{prompt:"“මුළුතැන්ගෙය” තෝරන්න.",options:["Kupatilo","Kuhinja","Kuća"],answer:1,explanation:"Kuhinja = මුළුතැන්ගෙය."},
+{prompt:"“මම අපාර්ට්මන්ට් එකක ජීවත් වෙනවා” කියන්නේ?",options:["Živim u stanu.","Radim u stanu.","Spavam u kući."],answer:0,explanation:"Živim u stanu = මම අපාර්ට්මන්ට් එකක ජීවත් වෙනවා."},
+{prompt:"“ඇඳ” යන වචනය?",options:["Krevet","Sto","Prozor"],answer:0,explanation:"Krevet = ඇඳ."}]}
+,
+{id:"sr-a1-u13-l3",unit:"සරල හමුවීම් වෙන්කරගැනීම",title:"පාඩම 39 · හමුවීමක් වෙන්කරගැනීම",objective:"කාර්යාලයක හෝ සේවාවක හමුවීමක් ඉල්ලීම, දිනය සහ වේලාව තහවුරු කිරීම.",
+vocabulary:[
+{word:"Zakazati",reading:"සාකාසාති",meaning:"වේලාවක් වෙන්කරගැනීම",example:"Želim da zakažem sastanak.",exampleReading:"ෂෙලිම් දා සාකාෂෙම් සාස්තානාක්.",translation:"මට හමුවීමක් වෙන්කරගන්න ඕනේ."},
+{word:"Sastanak",reading:"සාස්තානාක්",meaning:"හමුවීම / රැස්වීම",example:"Imam sastanak u petak.",exampleReading:"ඉමාම් සාස්තානාක් උ පෙතාක්.",translation:"මට සිකුරාදා හමුවීමක් තියෙනවා."},
+{word:"Dostupan",reading:"දොස්තුපාන්",meaning:"ලබාගත හැකි / හිස් (පිරිමි)",example:"Da li ste dostupni sutra?",exampleReading:"දා ලි ස්තෙ දොස්තුප්නි සුත්‍රා?",translation:"ඔබට හෙට වේලාවක් තියෙනවාද?"},
+{word:"Slobodan termin",reading:"ස්ලොබොදාන් තෙර්මින්",meaning:"හිස් වේලාව",example:"Imate li slobodan termin?",exampleReading:"ඉමාතෙ ලි ස්ලොබොදාන් තෙර්මින්?",translation:"ඔබට හිස් වේලාවක් තියෙනවාද?"},
+{word:"Potvrditi",reading:"පොත්ව්ර්දිති",meaning:"තහවුරු කිරීම",example:"Molim vas, potvrdite termin.",exampleReading:"මොලීම් වාස්, පොත්ව්ර්දිටෙ තෙර්මින්.",translation:"කරුණාකර වේලාව තහවුරු කරන්න."},
+{word:"Datum",reading:"දාතුම්",meaning:"දිනය",example:"Koji je datum sastanka?",exampleReading:"කොයි යේ දාතුම් සාස්තාන්කා?",translation:"හමුවීමේ දිනය කුමක්ද?"},
+{word:"Odgovara",reading:"ඔද්ගොවාරා",meaning:"ගැළපෙනවා",example:"Petak mi odgovara.",exampleReading:"පෙතාක් මි ඔද්ගොවාරා.",translation:"සිකුරාදා මට ගැළපෙනවා."},
+{word:"Promeniti",reading:"ප්‍රොමෙනිති",meaning:"වෙනස් කිරීම",example:"Moram da promenim termin.",exampleReading:"මොරාම් දා ප්‍රොමෙනිම් තෙර්මින්.",translation:"මට වේලාව වෙනස් කරන්න වෙනවා."}],
+grammarTitle:"ව්‍යාකරණය · දිනයක් සහ වේලාවක් වෙන්කරගැනීම",
+grammar:"“Želim da zakažem ...” යනු හමුවීමක් වෙන්කරගැනීමට භාවිත කරන රටාවයි. “Imate li slobodan termin?” යනු හිස් වේලාවක් තිබේදැයි අසයි. “Odgovara mi” යනු යෝජිත වේලාව ගැළපෙන බව කියයි.",
+grammarTerms:[
+{sr:"Želim da zakažem sastanak.",reading:"ෂෙලිම් දා සාකාෂෙම් සාස්තානාක්.",si:"මට හමුවීමක් වෙන්කරගන්න ඕනේ."},
+{sr:"Imate li slobodan termin?",reading:"ඉමාතෙ ලි ස්ලොබොදාන් තෙර්මින්?",si:"ඔබට හිස් වේලාවක් තියෙනවාද?"},
+{sr:"Petak mi odgovara.",reading:"පෙතාක් මි ඔද්ගොවාරා.",si:"සිකුරාදා මට ගැළපෙනවා."},
+{sr:"Moram da promenim termin.",reading:"මොරාම් දා ප්‍රොමෙනිම් තෙර්මින්.",si:"මට වේලාව වෙනස් කරන්න වෙනවා."}],
+examples:[
+{sr:"Da li imate slobodan termin u ponedeljak?",reading:"දා ලි ඉමාතෙ ස්ලොබොදාන් තෙර්මින් උ පොනෙදෙල්යාක්?",si:"ඔබට සඳුදා හිස් වේලාවක් තියෙනවාද?"},
+{sr:"Mogu da dođem u deset sati.",reading:"මොගු දා දොජෙම් උ දෙසෙත් සාති.",si:"මට දහයට එන්න පුළුවන්."},
+{sr:"Taj termin mi odgovara.",reading:"තායි තෙර්මින් මි ඔද්ගොවාරා.",si:"ඒ වේලාව මට ගැළපෙනවා."},
+{sr:"Hvala, vidimo se u petak.",reading:"හ්වාලා, විදිමො සේ උ පෙතාක්.",si:"ස්තුතියි, සිකුරාදා හමුවෙමු."}],
+dialogue:[
+{sr:"Dobar dan. Želim da zakažem sastanak.",reading:"දොබාර් දාන්. ෂෙලිම් දා සාකාෂෙම් සාස්තානාක්.",si:"සුබ දවසක්. මට හමුවීමක් වෙන්කරගන්න ඕනේ."},
+{sr:"Naravno. Da li vam odgovara ponedeljak?",reading:"නාරාව්නො. දා ලි වාම් ඔද්ගොවාරා පොනෙදෙල්යාක්?",si:"අනිවාර්යයෙන්. සඳුදා ඔබට ගැළපෙනවාද?"},
+{sr:"Da li imate termin u deset sati?",reading:"දා ලි ඉමාතෙ තෙර්මින් උ දෙසෙත් සාති?",si:"ඔබට දහයට වේලාවක් තියෙනවාද?"},
+{sr:"Da, taj termin je slobodan.",reading:"දා, තායි තෙර්මින් යේ ස්ලොබොදාන්.",si:"ඔව්, ඒ වේලාව හිස්."},
+{sr:"Odlično. Potvrdite, molim vas.",reading:"ඔද්ලිච්නො. පොත්ව්ර්දිටෙ, මොලීම් වාස්.",si:"හොඳයි. කරුණාකර තහවුරු කරන්න."},
+{sr:"Termin je potvrđen. Vidimo se!",reading:"තෙර්මින් යේ පොත්ව්ර්ජෙන්. විදිමො සේ!",si:"වේලාව තහවුරු කළා. හමුවෙමු!"}],
+listeningPractice:{prompt:"හඬ අසා නිවැරදි තේරුම තෝරන්න: “Imate li slobodan termin?”",audio:"Imate li slobodan termin?",options:["ඔබට හිස් වේලාවක් තියෙනවාද?","ඔබට නිවාඩු දිනයක් තියෙනවාද?","ඔබට ලිපිනයක් තියෙනවාද?"],readings:["ඉමාතෙ ලි ස්ලොබොදාන් තෙර්මින්?","ඉමාතෙ ලි ස්ලොබොදාන් දාන්?","ඉමාතෙ ලි අද්‍රෙසු?"],answer:0,meaning:"Imate li slobodan termin? = ඔබට හිස් වේලාවක් තියෙනවාද?"},
+practice:[
+{prompt:"“හමුවීම / රැස්වීම” යන වචනය?",options:["Sastanak","Sastojak","Soba"],answer:0,explanation:"Sastanak = හමුවීම / රැස්වීම."},
+{prompt:"“දිනය” යන වචනය?",options:["Datum","Vreme","Termin"],answer:0,explanation:"Datum = දිනය."},
+{prompt:"“සිකුරාදා මට ගැළපෙනවා” කියන්නේ?",options:["Petak mi odgovara.","Petak mi ne treba.","Petak je hladan."],answer:0,explanation:"Petak mi odgovara = සිකුරාදා මට ගැළපෙනවා."},
+{prompt:"“මට හමුවීමක් වෙන්කරගන්න ඕනේ” තෝරන්න.",options:["Želim da zakažem sastanak.","Želim da idem kući.","Želim da promenim posao."],answer:0,explanation:"Želim da zakažem sastanak = මට හමුවීමක් වෙන්කරගන්න ඕනේ."}]}
+
 ];
