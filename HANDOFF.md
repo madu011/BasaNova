@@ -632,3 +632,18 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 2. Integrate both batches in the C2 Learn panel and update curriculum, README and HANDOFF.
 3. Continue batches 21–30, 31–40 and 41–50, then create cumulative C2 revision and final practice exams.
 4. Review all C1/C2 advanced phrasing, Sinhala meanings and approximate readings with fluent speakers; verify CI, Expo bundle, native APK and Android device before claiming release readiness.
+
+
+## 2026-11-18 — C2 lessons 11–20 completed
+- Added paired modules `serbianC2Lessons11_20.js` and `englishC2Lessons11_20.js`. Ten lessons per language cover philosophy of language; legal interpretation; diplomatic protocol/strategic ambiguity; synthesis of conflicting evidence; cognitive bias; semantic change; cross-cultural pragmatics; ethics in emerging technologies; expert dialogue; and a C2 capstone under uncertainty.
+- Each lesson contains 8 vocabulary entries, Sinhala meanings and approximate Sinhala-script readings, grammar guidance, four examples, four dialogue lines, listening practice and four practice questions. Serbian examples and dialogue are Serbian-language; English equivalents are authored separately. Serbian practice prompts in the initial C2 batch 1–10 were localised in Serbian.
+- Integrated the new arrays in `App.js` so C2 now renders lessons 1–20 in sequence. Commits: Serbian data `794b8435f8d99c2c972d8bbda029f7f387ef926f`; English data `9ca1504f9a4599e58b711a27b828e332b1ce5e79`; App integration `37d7ee3acc5e2a16cedfcbbd12bfde919daed592`; curriculum `0d9d3e396c022a0b88df5b4ee33fee8383da15e9`; README `c88f599b998bcda099c4d9f015558f58dc63c5d8`.
+- Source validation: each new file parses as a JSON-compatible JS array; 10 unique IDs, 80 vocabulary items, 40 examples, 40 dialogue lines, 40 practice questions, 10 listening tasks; no missing required readings and no Latin/Cyrillic characters remain in vocabulary/example/dialogue reading fields. App imports and combined C2 array mapping present.
+- C2 authored total is now 20 lessons per language (40 lesson records); 30 lessons remain in each track. C1 has 50 lessons per language and paired revision/final practice assessments.
+- CI and native Android build status remain unconfirmed; recent Expo/Android Actions were queued or in progress at the last check. No successful APK artifact or device installation is confirmed.
+
+### Next exact task
+1. Continue paired C2 lessons 21–30 for Serbian and English with ten fresh expert-level topics and the full lesson schema.
+2. Integrate both batches and update curriculum, README and HANDOFF.
+3. Continue C2 lessons 31–40 and 41–50, then add C2 cumulative revision and final practice assessments.
+4. Review C1/C2 Serbian and English naturalness, Sinhala translations and pronunciation with fluent speakers; verify Expo/Android builds and physical-device behavior before claiming release readiness.
