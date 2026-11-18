@@ -53,7 +53,7 @@
 |---|---:|---|
 | App foundation, navigation and visual shell | 70% | Expo app, language modes, core tabs and theme are present; final UI polish and accessibility remain |
 | Vocabulary and reference library | 85% | README records 577 Serbian + 575 English standard vocabulary entries after pack 12; A–Z dictionary, search and saved-word filter exist |
-| Structured language curriculum | 31% | 30 Serbian + 30 English structured A1 lesson objects are present, with visible numbering through lesson 28; A1 still needs broader coverage and all A2–C2 lesson content is outstanding |
+| Structured language curriculum | 31% | 33 Serbian + 33 English structured A1 lesson objects are present, with visible numbering through lesson 28; A1 still needs broader coverage and all A2–C2 lesson content is outstanding |
 | Learning interactions | 73% | TTS, paired lesson quizzes/listening exercises, authored Sinhala readings, mixed revision and vocabulary examples exist; speaking feedback and broader assessments remain |
 | Progress persistence and accounts | 40% | AsyncStorage saves selected language, lesson/revision checks, vocabulary, XP/missions, theme and translator history locally; account and cloud sync remain outstanding |
 | Advanced services and offline support | 20% | Translator and preview-level AI area exist; live AI tutor, speech recognition and complete offline packs are not implemented |
@@ -295,3 +295,6 @@
 
 
 - 2026-11-18: Added three paired A1 lessons (31–33) to Serbian and English: daily routines, work shifts/schedules, and politely requesting a day off. Each lesson has eight vocabulary entries with Sinhala readings/meanings, grammar cards, four examples, a six-line dialogue, a listening task and four quiz questions. Serbian commit `fa148af3ade1a1ed2ed30ae2281ea1ad41a15fa4`; English commit `ff0e560021ca3dd3e51b06fc5a440ae486da76d3`; README commit `c6d8d488a40d7707d3f261a8f6afe1bc86663953`. Corrected a Serbian spelling typo in the shift lesson in a follow-up commit. The latest source has not yet passed a fresh CI run; no APK/device verification is claimed. Next: keep adding paired A1 topics in batches, then audit lesson counts/coverage and save mastery locally.
+
+
+- 2026-11-18: Added three more paired A1 lessons (34–36) in Serbian and English: phone calls, weather/clothes, and choosing food/asking about ingredients. Each side includes eight vocabulary items with Sinhala-script readings and meanings, grammar phrase cards, four examples, a six-line dialogue, one listening task and four quiz questions. Serbian commit `42a9fb9c17750d26168ef1b97e23f1854c6378df`; English commit `548c29e851e63453f4e5c8e292593c9b1bc43418`; README commit is recorded in this session's commits. CI and syntax checks for lessons 31–36 are pending; no APK/device test is confirmed. Next: add paired lessons 37 onward, then complete A1 revision and test modules for both languages and begin A2 in parallel.
