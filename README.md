@@ -302,3 +302,8 @@ All 50 paired B1 lessons are now authored for Serbian and English and integrated
 ## B2 course progress
 
 The opening B2 batch now contains 11 paired Serbian and English lessons, integrated into the Learn screen. Topics include argumentation, negotiation, leadership feedback, urban development, hypothetical situations, passive structures, presentations, data analysis, media interpretation, conflict mediation and project risk decisions. Each lesson includes eight vocabulary entries, Sinhala-script pronunciation guidance, grammar, four examples, a dialogue, a listening exercise and four practice questions. B2 lessons 12–50 remain planned. Sinhala pronunciation guides are approximate and the Serbian material needs fluent-speaker review.
+
+
+## B2 course progress update
+
+The B2 course now has 25 paired Serbian and English lessons authored and connected to the Learn screen (25/50 per language). The new lessons 12–25 cover professional networking, workplace diversity, technology ethics, environmental policy, cost of living, academic research, civic rights, public health, cultural heritage, work-life balance, global supply chains, discursive writing, automation and scientific uncertainty, customer experience, and statistics. Each lesson includes eight vocabulary items, grammar guidance, four examples, a dialogue, a listening task and four practice questions. Lessons 26–50 remain planned. Sinhala-script readings are approximate and Serbian language consistency requires fluent-speaker review.
