@@ -157,3 +157,6 @@
 
 
 - 2026-11-18 continuation: Added vocabulary-book bookmarks in `App.js`. Learners can save/unsave individual Serbian or English entries with a star, switch the dictionary to show saved entries only, and retain the saved list in the existing `basanova-progress-v1` AsyncStorage payload across app restarts. App commit: `a3cf05be043c8abd6eb5a7321d868bda5ffbd191`. This is a source change only; no workflow run, Expo build, emulator, or physical-device test was available in this session. Next: run the app build/type or syntax checks, test bookmark persistence on Android, and continue pronunciation review.
+
+
+- 2026-11-18 continuation: Polished the saved-vocabulary filter UX in `App.js`: switching between all entries and saved-only now clears stale search/letter filters, includes accessibility labels, and shows a specific helpful empty state when no words have been bookmarked. App commit: `5fdcd7e2ab5f9d599711bace9700d83a5389e6ae`. Inspected `package.json` and `app.json`: the project currently has only Expo start scripts and no test/lint/build script, `eas.json`, or GitHub Actions workflow file at the checked paths. Therefore no automated build/test result is available from this repo state; Android runtime and persistence still require device testing.
