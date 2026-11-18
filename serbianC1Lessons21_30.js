@@ -68,51 +68,51 @@ export const SERBIAN_C1_LESSONS_21_30 = [
     "examples": [
       {
         "sr": "Jasna tvrdnja mora biti potkrepljena dokazima.",
-        "reading": "",
+        "reading": "ය්අස්න්අ ත්ව්ර්ද්න්ය්අ ම්ඔර්අ බ්ඉත්ඉ ප්ඔත්ක්ර්එප්ල්ය්එන්අ ද්ඔක්අස්ඉම්අ.",
         "si": "පැහැදිලි ප්‍රකාශයක් සාක්ෂි මඟින් තහවුරු කළ යුතුය."
       },
       {
         "sr": "Govornik je naglasio ključnu razliku.",
-        "reading": "",
+        "reading": "ග්ඔව්ඔර්න්ඉක් ය්එ න්අග්ල්අස්ඉඔ ක්ල්ය්උච්න්උ ර්අස්ල්ඉක්උ.",
         "si": "කථිකයා ප්‍රධාන වෙනස අවධාරණය කළේය."
       },
       {
         "sr": "Kontrast čini argument uverljivijim.",
-        "reading": "",
+        "reading": "ක්ඔන්ත්ර්අස්ත් ච්ඉන්ඉ අර්ග්උම්එන්ත් උව්එර්ල්ය්ඉව්ඉය්ඉම්.",
         "si": "විරුද්ධතාව තර්කය වඩාත් ඒත්තු ගන්වන සුළු කරයි."
       },
       {
         "sr": "Zaključak treba da odgovori na početno pitanje.",
-        "reading": "",
+        "reading": "ස්අක්ල්ය්උච්අක් ත්ර්එබ්අ ද්අ ඔද්ග්ඔව්ඔර්ඉ න්අ ප්ඔච්එත්න්ඔ ප්ඉත්අන්ය්එ.",
         "si": "නිගමනය ආරම්භක ප්‍රශ්නයට පිළිතුරු දිය යුතුය."
       }
     ],
     "dialogue": [
       {
         "sr": "Koji je glavni argument?",
-        "reading": "",
+        "reading": "ක්ඔය්ඉ ය්එ ග්ල්අව්න්ඉ අර්ග්උම්එන්ත්?",
         "si": "ප්‍රධාන තර්කය කුමක්ද?"
       },
       {
         "sr": "Oslanja se na proverljive dokaze.",
-        "reading": "",
+        "reading": "ඔස්ල්අන්ය්අ ස්එ න්අ ප්ර්ඔව්එර්ල්ය්ඉව්එ ද්ඔක්අස්එ.",
         "si": "එය පරීක්ෂා කළ හැකි සාක්ෂි මත පදනම් වේ."
       },
       {
         "sr": "Postoji li neko važno ograničenje?",
-        "reading": "",
+        "reading": "ප්ඔස්ත්ඔය්ඉ ල්ඉ න්එක්ඔ ව්අෂ්න්ඔ ඔග්ර්අන්ඉච්එන්ය්එ?",
         "si": "වැදගත් සීමාවක් තිබේද?"
       },
       {
         "sr": "Da, i zato treba pažljivo formulisati zaključak.",
-        "reading": "",
+        "reading": "ද්අ, ඉ ස්අත්ඔ ත්ර්එබ්අ ප්අෂ්ල්ය්ඉව්ඔ ෆ්ඔර්ම්උල්ඉස්අත්ඉ ස්අක්ල්ය්උච්අක්.",
         "si": "ඔව්, ඒ නිසා නිගමනය ප්‍රවේශමෙන් සකස් කළ යුතුය."
       }
     ],
     "listeningPractice": {
       "prompt": "Послушајте и изаберите најтачније значење.",
       "audio": "Jasna tvrdnja mora biti potkrepljena dokazima. Govornik je naglasio ključnu razliku. Kontrast čini argument uverljivijim.",
-      "reading": "",
+      "reading": "ය්අස්න්අ ත්ව්ර්ද්න්ය්අ ම්ඔර්අ බ්ඉත්ඉ ප්ඔත්ක්ර්එප්ල්ය්එන්අ ද්ඔක්අස්ඉම්අ. ග්ඔව්ඔර්න්ඉක් ය්එ න්අග්ල්අස්ඉඔ ක්ල්ය්උච්න්උ ර්අස්ල්ඉක්උ. ක්ඔන්ත්ර්අස්ත් ච්ඉන්ඉ අර්ග්උම්එන්ත් උව්එර්ල්ය්ඉව්ඉය්ඉම්.",
       "options": [
         "පැහැදිලි ප්‍රකාශයක් සාක්ෂි මඟින් තහවුරු කළ යුතුය. කථිකයා ප්‍රධාන වෙනස අවධාරණය කළේය.",
         "Све тврдње су потпуно сигурне.",
@@ -231,51 +231,51 @@ export const SERBIAN_C1_LESSONS_21_30 = [
     "examples": [
       {
         "sr": "Predlog je skup; ipak, dugoročno je isplativ.",
-        "reading": "",
+        "reading": "ප්ර්එද්ල්ඔග් ය්එ ස්ක්උප්; ඉප්අක්, ද්උග්ඔර්ඔච්න්ඔ ය්එ ඉස්ප්ල්අත්ඉව්.",
         "si": "යෝජනාව මිල අධිකය; එසේ වුවත් දිගුකාලීනව වටිනාකමක් ඇත."
       },
       {
         "sr": "Podaci su ograničeni; stoga je zaključak privremen.",
-        "reading": "",
+        "reading": "ප්ඔද්අත්ස්ඉ ස්උ ඔග්ර්අන්ඉච්එන්ඉ; ස්ත්ඔග්අ ය්එ ස්අක්ල්ය්උච්අක් ප්ර්ඉව්ර්එම්එන්.",
         "si": "දත්ත සීමිතය; එබැවින් නිගමනය තාවකාලිකය."
       },
       {
         "sr": "Štaviše, rezultati potvrđuju raniju pretpostavku.",
-        "reading": "",
+        "reading": "ෂ්ත්අව්ඉෂ්එ, ර්එස්උල්ත්අත්ඉ ප්ඔත්ව්ර්ජ්උය්උ ර්අන්ඉය්උ ප්ර්එත්ප්ඔස්ත්අව්ක්උ.",
         "si": "තවද, ප්‍රතිඵල පෙර උපකල්පනය තහවුරු කරයි."
       },
       {
         "sr": "Nasuprot tome, druga studija ukazuje na suprotan trend.",
-        "reading": "",
+        "reading": "න්අස්උප්ර්ඔත් ත්ඔම්එ, ද්ර්උග්අ ස්ත්උද්ඉය්අ උක්අස්උය්එ න්අ ස්උප්ර්ඔත්අන් ත්ර්එන්ද්.",
         "si": "ඊට ප්‍රතිවිරුද්ධව, දෙවන අධ්‍යයනය වෙනස් ප්‍රවණතාවක් පෙන්වයි."
       }
     ],
     "dialogue": [
       {
         "sr": "Koji je glavni argument?",
-        "reading": "",
+        "reading": "ක්ඔය්ඉ ය්එ ග්ල්අව්න්ඉ අර්ග්උම්එන්ත්?",
         "si": "ප්‍රධාන තර්කය කුමක්ද?"
       },
       {
         "sr": "Oslanja se na proverljive dokaze.",
-        "reading": "",
+        "reading": "ඔස්ල්අන්ය්අ ස්එ න්අ ප්ර්ඔව්එර්ල්ය්ඉව්එ ද්ඔක්අස්එ.",
         "si": "එය පරීක්ෂා කළ හැකි සාක්ෂි මත පදනම් වේ."
       },
       {
         "sr": "Postoji li neko važno ograničenje?",
-        "reading": "",
+        "reading": "ප්ඔස්ත්ඔය්ඉ ල්ඉ න්එක්ඔ ව්අෂ්න්ඔ ඔග්ර්අන්ඉච්එන්ය්එ?",
         "si": "වැදගත් සීමාවක් තිබේද?"
       },
       {
         "sr": "Da, i zato treba pažljivo formulisati zaključak.",
-        "reading": "",
+        "reading": "ද්අ, ඉ ස්අත්ඔ ත්ර්එබ්අ ප්අෂ්ල්ය්ඉව්ඔ ෆ්ඔර්ම්උල්ඉස්අත්ඉ ස්අක්ල්ය්උච්අක්.",
         "si": "ඔව්, ඒ නිසා නිගමනය ප්‍රවේශමෙන් සකස් කළ යුතුය."
       }
     ],
     "listeningPractice": {
       "prompt": "Послушајте и изаберите најтачније значење.",
       "audio": "Predlog je skup; ipak, dugoročno je isplativ. Podaci su ograničeni; stoga je zaključak privremen. Štaviše, rezultati potvrđuju raniju pretpostavku.",
-      "reading": "",
+      "reading": "ප්ර්එද්ල්ඔග් ය්එ ස්ක්උප්; ඉප්අක්, ද්උග්ඔර්ඔච්න්ඔ ය්එ ඉස්ප්ල්අත්ඉව්. ප්ඔද්අත්ස්ඉ ස්උ ඔග්ර්අන්ඉච්එන්ඉ; ස්ත්ඔග්අ ය්එ ස්අක්ල්ය්උච්අක් ප්ර්ඉව්ර්එම්එන්. ෂ්ත්අව්ඉෂ්එ, ර්එස්උල්ත්අත්ඉ ප්ඔත්ව්ර්ජ්උය්උ ර්අන්ඉය්උ ප්ර්එත්ප්ඔස්ත්අව්ක්උ.",
       "options": [
         "යෝජනාව මිල අධිකය; එසේ වුවත් දිගුකාලීනව වටිනාකමක් ඇත. දත්ත සීමිතය; එබැවින් නිගමනය තාවකාලිකය.",
         "Све тврдње су потпуно сигурне.",
@@ -394,51 +394,51 @@ export const SERBIAN_C1_LESSONS_21_30 = [
     "examples": [
       {
         "sr": "Ugovor stupa na snagu nakon potpisivanja.",
-        "reading": "",
+        "reading": "උග්ඔව්ඔර් ස්ත්උප්අ න්අ ස්න්අග්උ න්අක්ඔන් ප්ඔත්ප්ඉස්ඉව්අන්ය්අ.",
         "si": "අත්සන් කිරීමෙන් පසු ගිවිසුම බලාත්මක වේ."
       },
       {
         "sr": "Izuzetak važi samo pod navedenim uslovima.",
-        "reading": "",
+        "reading": "ඉස්උස්එත්අක් ව්අෂ්ඉ ස්අම්ඔ ප්ඔද් න්අව්එද්එන්ඉම් උස්ල්ඔව්ඉම්අ.",
         "si": "සඳහන් කොන්දේසි යටතේ පමණක් ව්‍යතිරේකය අදාළ වේ."
       },
       {
         "sr": "Strane su dužne da poštuju rok.",
-        "reading": "",
+        "reading": "ස්ත්ර්අන්එ ස්උ ද්උෂ්න්එ ද්අ ප්ඔෂ්ත්උය්උ ර්ඔක්.",
         "si": "පාර්ශ්වයන් කාලසීමාව පිළිපැදීමට බැඳී සිටී."
       },
       {
         "sr": "Odgovornost je definisana posebnom odredbom.",
-        "reading": "",
+        "reading": "ඔද්ග්ඔව්ඔර්න්ඔස්ත් ය්එ ද්එෆ්ඉන්ඉස්අන්අ ප්ඔස්එබ්න්ඔම් ඔද්ර්එද්බ්ඔම්.",
         "si": "වගකීම වෙනම වගන්තියකින් නිර්වචනය කර ඇත."
       }
     ],
     "dialogue": [
       {
         "sr": "Koji je glavni argument?",
-        "reading": "",
+        "reading": "ක්ඔය්ඉ ය්එ ග්ල්අව්න්ඉ අර්ග්උම්එන්ත්?",
         "si": "ප්‍රධාන තර්කය කුමක්ද?"
       },
       {
         "sr": "Oslanja se na proverljive dokaze.",
-        "reading": "",
+        "reading": "ඔස්ල්අන්ය්අ ස්එ න්අ ප්ර්ඔව්එර්ල්ය්ඉව්එ ද්ඔක්අස්එ.",
         "si": "එය පරීක්ෂා කළ හැකි සාක්ෂි මත පදනම් වේ."
       },
       {
         "sr": "Postoji li neko važno ograničenje?",
-        "reading": "",
+        "reading": "ප්ඔස්ත්ඔය්ඉ ල්ඉ න්එක්ඔ ව්අෂ්න්ඔ ඔග්ර්අන්ඉච්එන්ය්එ?",
         "si": "වැදගත් සීමාවක් තිබේද?"
       },
       {
         "sr": "Da, i zato treba pažljivo formulisati zaključak.",
-        "reading": "",
+        "reading": "ද්අ, ඉ ස්අත්ඔ ත්ර්එබ්අ ප්අෂ්ල්ය්ඉව්ඔ ෆ්ඔර්ම්උල්ඉස්අත්ඉ ස්අක්ල්ය්උච්අක්.",
         "si": "ඔව්, ඒ නිසා නිගමනය ප්‍රවේශමෙන් සකස් කළ යුතුය."
       }
     ],
     "listeningPractice": {
       "prompt": "Послушајте и изаберите најтачније значење.",
       "audio": "Ugovor stupa na snagu nakon potpisivanja. Izuzetak važi samo pod navedenim uslovima. Strane su dužne da poštuju rok.",
-      "reading": "",
+      "reading": "උග්ඔව්ඔර් ස්ත්උප්අ න්අ ස්න්අග්උ න්අක්ඔන් ප්ඔත්ප්ඉස්ඉව්අන්ය්අ. ඉස්උස්එත්අක් ව්අෂ්ඉ ස්අම්ඔ ප්ඔද් න්අව්එද්එන්ඉම් උස්ල්ඔව්ඉම්අ. ස්ත්ර්අන්එ ස්උ ද්උෂ්න්එ ද්අ ප්ඔෂ්ත්උය්උ ර්ඔක්.",
       "options": [
         "අත්සන් කිරීමෙන් පසු ගිවිසුම බලාත්මක වේ. සඳහන් කොන්දේසි යටතේ පමණක් ව්‍යතිරේකය අදාළ වේ.",
         "Све тврдње су потпуно сигурне.",
@@ -557,51 +557,51 @@ export const SERBIAN_C1_LESSONS_21_30 = [
     "examples": [
       {
         "sr": "Objavićemo proverene informacije čim budu dostupne.",
-        "reading": "",
+        "reading": "ඔබ්ය්අව්ඉච්එම්ඔ ප්ර්ඔව්එර්එන්එ ඉන්ෆ්ඔර්ම්අත්ස්ඉය්එ ච්ඉම් බ්උද්උ ද්ඔස්ත්උප්න්එ.",
         "si": "තහවුරු කළ තොරතුරු ලැබුණු වහාම අපි ප්‍රකාශ කරන්නෙමු."
       },
       {
         "sr": "Trenutno ne možemo potvrditi uzrok incidenta.",
-        "reading": "",
+        "reading": "ත්ර්එන්උත්න්ඔ න්එ ම්ඔෂ්එම්ඔ ප්ඔත්ව්ර්ද්ඉත්ඉ උස්ර්ඔක් ඉන්ත්ස්ඉද්එන්ත්අ.",
         "si": "දැනට සිදුවීමට හේතුව තහවුරු කළ නොහැක."
       },
       {
         "sr": "Sledeće ažuriranje biće objavljeno u podne.",
-        "reading": "",
+        "reading": "ස්ල්එද්එච්එ අෂ්උර්ඉර්අන්ය්එ බ්ඉච්එ ඔබ්ය්අව්ල්ය්එන්ඔ උ ප්ඔද්න්එ.",
         "si": "ඊළඟ යාවත්කාලීනය දහවල් නිකුත් කෙරේ."
       },
       {
         "sr": "Transparentnost je važna i kada su činjenice nepotpune.",
-        "reading": "",
+        "reading": "ත්ර්අන්ස්ප්අර්එන්ත්න්ඔස්ත් ය්එ ව්අෂ්න්අ ඉ ක්අද්අ ස්උ ච්ඉන්ය්එන්ඉත්ස්එ න්එප්ඔත්ප්උන්එ.",
         "si": "කරුණු අසම්පූර්ණ වූ විට පවා විනිවිදභාවය වැදගත්ය."
       }
     ],
     "dialogue": [
       {
         "sr": "Koji je glavni argument?",
-        "reading": "",
+        "reading": "ක්ඔය්ඉ ය්එ ග්ල්අව්න්ඉ අර්ග්උම්එන්ත්?",
         "si": "ප්‍රධාන තර්කය කුමක්ද?"
       },
       {
         "sr": "Oslanja se na proverljive dokaze.",
-        "reading": "",
+        "reading": "ඔස්ල්අන්ය්අ ස්එ න්අ ප්ර්ඔව්එර්ල්ය්ඉව්එ ද්ඔක්අස්එ.",
         "si": "එය පරීක්ෂා කළ හැකි සාක්ෂි මත පදනම් වේ."
       },
       {
         "sr": "Postoji li neko važno ograničenje?",
-        "reading": "",
+        "reading": "ප්ඔස්ත්ඔය්ඉ ල්ඉ න්එක්ඔ ව්අෂ්න්ඔ ඔග්ර්අන්ඉච්එන්ය්එ?",
         "si": "වැදගත් සීමාවක් තිබේද?"
       },
       {
         "sr": "Da, i zato treba pažljivo formulisati zaključak.",
-        "reading": "",
+        "reading": "ද්අ, ඉ ස්අත්ඔ ත්ර්එබ්අ ප්අෂ්ල්ය්ඉව්ඔ ෆ්ඔර්ම්උල්ඉස්අත්ඉ ස්අක්ල්ය්උච්අක්.",
         "si": "ඔව්, ඒ නිසා නිගමනය ප්‍රවේශමෙන් සකස් කළ යුතුය."
       }
     ],
     "listeningPractice": {
       "prompt": "Послушајте и изаберите најтачније значење.",
       "audio": "Objavićemo proverene informacije čim budu dostupne. Trenutno ne možemo potvrditi uzrok incidenta. Sledeće ažuriranje biće objavljeno u podne.",
-      "reading": "",
+      "reading": "ඔබ්ය්අව්ඉච්එම්ඔ ප්ර්ඔව්එර්එන්එ ඉන්ෆ්ඔර්ම්අත්ස්ඉය්එ ච්ඉම් බ්උද්උ ද්ඔස්ත්උප්න්එ. ත්ර්එන්උත්න්ඔ න්එ ම්ඔෂ්එම්ඔ ප්ඔත්ව්ර්ද්ඉත්ඉ උස්ර්ඔක් ඉන්ත්ස්ඉද්එන්ත්අ. ස්ල්එද්එච්එ අෂ්උර්ඉර්අන්ය්එ බ්ඉච්එ ඔබ්ය්අව්ල්ය්එන්ඔ උ ප්ඔද්න්එ.",
       "options": [
         "තහවුරු කළ තොරතුරු ලැබුණු වහාම අපි ප්‍රකාශ කරන්නෙමු. දැනට සිදුවීමට හේතුව තහවුරු කළ නොහැක.",
         "Све тврдње су потпуно сигурне.",
@@ -720,51 +720,51 @@ export const SERBIAN_C1_LESSONS_21_30 = [
     "examples": [
       {
         "sr": "Pilot-projekat je pokazao da je rešenje izvodljivo.",
-        "reading": "",
+        "reading": "ප්ඉල්ඔත්-ප්ර්ඔය්එක්අත් ය්එ ප්ඔක්අස්අඔ ද්අ ය්එ ර්එෂ්එන්ය්එ ඉස්ව්ඔද්ල්ය්ඉව්ඔ.",
         "si": "පරීක්ෂණ ව්‍යාපෘතියෙන් විසඳුම ක්‍රියාත්මක කළ හැකි බව පෙන්වීය."
       },
       {
         "sr": "Usvajanje novog sistema zahteva obuku.",
-        "reading": "",
+        "reading": "උස්ව්අය්අන්ය්එ න්ඔව්ඔග් ස්ඉස්ත්එම්අ ස්අහ්ත්එව්අ ඔබ්උක්උ.",
         "si": "නව පද්ධතිය භාවිතයට ගැනීමට පුහුණුව අවශ්‍යය."
       },
       {
         "sr": "Otpor promenama često proizlazi iz neizvesnosti.",
-        "reading": "",
+        "reading": "ඔත්ප්ඔර් ප්ර්ඔම්එන්අම්අ ච්එස්ත්ඔ ප්ර්ඔඉස්ල්අස්ඉ ඉස් න්එඉස්ව්එස්න්ඔස්ත්ඉ.",
         "si": "වෙනස්කම්වලට ඇති විරෝධය බොහෝවිට අනිශ්චිතතාවයෙන් ඇතිවේ."
       },
       {
         "sr": "Povratne informacije pomažu da se prototip unapredi.",
-        "reading": "",
+        "reading": "ප්ඔව්ර්අත්න්එ ඉන්ෆ්ඔර්ම්අත්ස්ඉය්එ ප්ඔම්අෂ්උ ද්අ ස්එ ප්ර්ඔත්ඔත්ඉප් උන්අප්ර්එද්ඉ.",
         "si": "ප්‍රතිචාර මූලාකෘතිය වැඩිදියුණු කිරීමට උපකාරී වේ."
       }
     ],
     "dialogue": [
       {
         "sr": "Koji je glavni argument?",
-        "reading": "",
+        "reading": "ක්ඔය්ඉ ය්එ ග්ල්අව්න්ඉ අර්ග්උම්එන්ත්?",
         "si": "ප්‍රධාන තර්කය කුමක්ද?"
       },
       {
         "sr": "Oslanja se na proverljive dokaze.",
-        "reading": "",
+        "reading": "ඔස්ල්අන්ය්අ ස්එ න්අ ප්ර්ඔව්එර්ල්ය්ඉව්එ ද්ඔක්අස්එ.",
         "si": "එය පරීක්ෂා කළ හැකි සාක්ෂි මත පදනම් වේ."
       },
       {
         "sr": "Postoji li neko važno ograničenje?",
-        "reading": "",
+        "reading": "ප්ඔස්ත්ඔය්ඉ ල්ඉ න්එක්ඔ ව්අෂ්න්ඔ ඔග්ර්අන්ඉච්එන්ය්එ?",
         "si": "වැදගත් සීමාවක් තිබේද?"
       },
       {
         "sr": "Da, i zato treba pažljivo formulisati zaključak.",
-        "reading": "",
+        "reading": "ද්අ, ඉ ස්අත්ඔ ත්ර්එබ්අ ප්අෂ්ල්ය්ඉව්ඔ ෆ්ඔර්ම්උල්ඉස්අත්ඉ ස්අක්ල්ය්උච්අක්.",
         "si": "ඔව්, ඒ නිසා නිගමනය ප්‍රවේශමෙන් සකස් කළ යුතුය."
       }
     ],
     "listeningPractice": {
       "prompt": "Послушајте и изаберите најтачније значење.",
       "audio": "Pilot-projekat je pokazao da je rešenje izvodljivo. Usvajanje novog sistema zahteva obuku. Otpor promenama često proizlazi iz neizvesnosti.",
-      "reading": "",
+      "reading": "ප්ඉල්ඔත්-ප්ර්ඔය්එක්අත් ය්එ ප්ඔක්අස්අඔ ද්අ ය්එ ර්එෂ්එන්ය්එ ඉස්ව්ඔද්ල්ය්ඉව්ඔ. උස්ව්අය්අන්ය්එ න්ඔව්ඔග් ස්ඉස්ත්එම්අ ස්අහ්ත්එව්අ ඔබ්උක්උ. ඔත්ප්ඔර් ප්ර්ඔම්එන්අම්අ ච්එස්ත්ඔ ප්ර්ඔඉස්ල්අස්ඉ ඉස් න්එඉස්ව්එස්න්ඔස්ත්ඉ.",
       "options": [
         "පරීක්ෂණ ව්‍යාපෘතියෙන් විසඳුම ක්‍රියාත්මක කළ හැකි බව පෙන්වීය. නව පද්ධතිය භාවිතයට ගැනීමට පුහුණුව අවශ්‍යය.",
         "Све тврдње су потпуно сигурне.",
@@ -883,51 +883,51 @@ export const SERBIAN_C1_LESSONS_21_30 = [
     "examples": [
       {
         "sr": "Održivost zahteva odgovorno korišćenje resursa.",
-        "reading": "",
+        "reading": "ඔද්ර්ෂ්ඉව්ඔස්ත් ස්අහ්ත්එව්අ ඔද්ග්ඔව්ඔර්න්ඔ ක්ඔර්ඉෂ්ච්එන්ය්එ ර්එස්උර්ස්අ.",
         "si": "තිරසාරභාවයට සම්පත් වගකීමෙන් භාවිත කිරීම අවශ්‍යය."
       },
       {
         "sr": "Uticaj treba meriti tokom dužeg perioda.",
-        "reading": "",
+        "reading": "උත්ඉත්ස්අය් ත්ර්එබ්අ ම්එර්ඉත්ඉ ත්ඔක්ඔම් ද්උෂ්එග් ප්එර්ඉඔද්අ.",
         "si": "බලපෑම දිගු කාලයක් පුරා මැනිය යුතුය."
       },
       {
         "sr": "Program je doneo korist lokalnoj zajednici.",
-        "reading": "",
+        "reading": "ප්ර්ඔග්ර්අම් ය්එ ද්ඔන්එඔ ක්ඔර්ඉස්ත් ල්ඔක්අල්න්ඔය් ස්අය්එද්න්ඉත්ස්ඉ.",
         "si": "වැඩසටහන ප්‍රාදේශීය ප්‍රජාවට ප්‍රතිලාභ ලබා දුන්නේය."
       },
       {
         "sr": "Pokazatelji emisija ukazuju na postepeno poboljšanje.",
-        "reading": "",
+        "reading": "ප්ඔක්අස්අත්එල්ය්ඉ එම්ඉස්ඉය්අ උක්අස්උය්උ න්අ ප්ඔස්ත්එප්එන්ඔ ප්ඔබ්ඔල්ය්ෂ්අන්ය්එ.",
         "si": "විමෝචන දර්ශක ක්‍රමික දියුණුවක් පෙන්වයි."
       }
     ],
     "dialogue": [
       {
         "sr": "Koji je glavni argument?",
-        "reading": "",
+        "reading": "ක්ඔය්ඉ ය්එ ග්ල්අව්න්ඉ අර්ග්උම්එන්ත්?",
         "si": "ප්‍රධාන තර්කය කුමක්ද?"
       },
       {
         "sr": "Oslanja se na proverljive dokaze.",
-        "reading": "",
+        "reading": "ඔස්ල්අන්ය්අ ස්එ න්අ ප්ර්ඔව්එර්ල්ය්ඉව්එ ද්ඔක්අස්එ.",
         "si": "එය පරීක්ෂා කළ හැකි සාක්ෂි මත පදනම් වේ."
       },
       {
         "sr": "Postoji li neko važno ograničenje?",
-        "reading": "",
+        "reading": "ප්ඔස්ත්ඔය්ඉ ල්ඉ න්එක්ඔ ව්අෂ්න්ඔ ඔග්ර්අන්ඉච්එන්ය්එ?",
         "si": "වැදගත් සීමාවක් තිබේද?"
       },
       {
         "sr": "Da, i zato treba pažljivo formulisati zaključak.",
-        "reading": "",
+        "reading": "ද්අ, ඉ ස්අත්ඔ ත්ර්එබ්අ ප්අෂ්ල්ය්ඉව්ඔ ෆ්ඔර්ම්උල්ඉස්අත්ඉ ස්අක්ල්ය්උච්අක්.",
         "si": "ඔව්, ඒ නිසා නිගමනය ප්‍රවේශමෙන් සකස් කළ යුතුය."
       }
     ],
     "listeningPractice": {
       "prompt": "Послушајте и изаберите најтачније значење.",
       "audio": "Održivost zahteva odgovorno korišćenje resursa. Uticaj treba meriti tokom dužeg perioda. Program je doneo korist lokalnoj zajednici.",
-      "reading": "",
+      "reading": "ඔද්ර්ෂ්ඉව්ඔස්ත් ස්අහ්ත්එව්අ ඔද්ග්ඔව්ඔර්න්ඔ ක්ඔර්ඉෂ්ච්එන්ය්එ ර්එස්උර්ස්අ. උත්ඉත්ස්අය් ත්ර්එබ්අ ම්එර්ඉත්ඉ ත්ඔක්ඔම් ද්උෂ්එග් ප්එර්ඉඔද්අ. ප්ර්ඔග්ර්අම් ය්එ ද්ඔන්එඔ ක්ඔර්ඉස්ත් ල්ඔක්අල්න්ඔය් ස්අය්එද්න්ඉත්ස්ඉ.",
       "options": [
         "තිරසාරභාවයට සම්පත් වගකීමෙන් භාවිත කිරීම අවශ්‍යය. බලපෑම දිගු කාලයක් පුරා මැනිය යුතුය.",
         "Све тврдње су потпуно сигурне.",
@@ -1046,51 +1046,51 @@ export const SERBIAN_C1_LESSONS_21_30 = [
     "examples": [
       {
         "sr": "Nepouzdani pripovedač menja čitaočevu perspektivu.",
-        "reading": "",
+        "reading": "න්එප්ඔඋස්ද්අන්ඉ ප්ර්ඉප්ඔව්එද්අච් ම්එන්ය්අ ච්ඉත්අඔච්එව්උ ප්එර්ස්ප්එක්ත්ඉව්උ.",
         "si": "විශ්වාස කළ නොහැකි කථකයා පාඨකයාගේ දෘෂ්ටිකෝණය වෙනස් කරයි."
       },
       {
         "sr": "Simbolika se razvija kroz ponavljajući motiv.",
-        "reading": "",
+        "reading": "ස්ඉම්බ්ඔල්ඉක්අ ස්එ ර්අස්ව්ඉය්අ ක්ර්ඔස් ප්ඔන්අව්ල්ය්අය්උච්ඉ ම්ඔත්ඉව්.",
         "si": "නැවත නැවත මතුවන තේමාවක් හරහා සංකේතවාදය වර්ධනය වේ."
       },
       {
         "sr": "Ovaj detalj može se čitati kao nagoveštaj sukoba.",
-        "reading": "",
+        "reading": "ඔව්අය් ද්එත්අල්ය් ම්ඔෂ්එ ස්එ ච්ඉත්අත්ඉ ක්අඔ න්අග්ඔව්එෂ්ත්අය් ස්උක්ඔබ්අ.",
         "si": "මෙම විස්තරය ගැටුම පිළිබඳ පූර්ව ඉඟියක් ලෙස කියවිය හැක."
       },
       {
         "sr": "Tumačenje treba potkrepiti tekstualnim dokazima.",
-        "reading": "",
+        "reading": "ත්උම්අච්එන්ය්එ ත්ර්එබ්අ ප්ඔත්ක්ර්එප්ඉත්ඉ ත්එක්ස්ත්උඅල්න්ඉම් ද්ඔක්අස්ඉම්අ.",
         "si": "අර්ථකථනය පාඨමය සාක්ෂිවලින් තහවුරු කළ යුතුය."
       }
     ],
     "dialogue": [
       {
         "sr": "Koji je glavni argument?",
-        "reading": "",
+        "reading": "ක්ඔය්ඉ ය්එ ග්ල්අව්න්ඉ අර්ග්උම්එන්ත්?",
         "si": "ප්‍රධාන තර්කය කුමක්ද?"
       },
       {
         "sr": "Oslanja se na proverljive dokaze.",
-        "reading": "",
+        "reading": "ඔස්ල්අන්ය්අ ස්එ න්අ ප්ර්ඔව්එර්ල්ය්ඉව්එ ද්ඔක්අස්එ.",
         "si": "එය පරීක්ෂා කළ හැකි සාක්ෂි මත පදනම් වේ."
       },
       {
         "sr": "Postoji li neko važno ograničenje?",
-        "reading": "",
+        "reading": "ප්ඔස්ත්ඔය්ඉ ල්ඉ න්එක්ඔ ව්අෂ්න්ඔ ඔග්ර්අන්ඉච්එන්ය්එ?",
         "si": "වැදගත් සීමාවක් තිබේද?"
       },
       {
         "sr": "Da, i zato treba pažljivo formulisati zaključak.",
-        "reading": "",
+        "reading": "ද්අ, ඉ ස්අත්ඔ ත්ර්එබ්අ ප්අෂ්ල්ය්ඉව්ඔ ෆ්ඔර්ම්උල්ඉස්අත්ඉ ස්අක්ල්ය්උච්අක්.",
         "si": "ඔව්, ඒ නිසා නිගමනය ප්‍රවේශමෙන් සකස් කළ යුතුය."
       }
     ],
     "listeningPractice": {
       "prompt": "Послушајте и изаберите најтачније значење.",
       "audio": "Nepouzdani pripovedač menja čitaočevu perspektivu. Simbolika se razvija kroz ponavljajući motiv. Ovaj detalj može se čitati kao nagoveštaj sukoba.",
-      "reading": "",
+      "reading": "න්එප්ඔඋස්ද්අන්ඉ ප්ර්ඉප්ඔව්එද්අච් ම්එන්ය්අ ච්ඉත්අඔච්එව්උ ප්එර්ස්ප්එක්ත්ඉව්උ. ස්ඉම්බ්ඔල්ඉක්අ ස්එ ර්අස්ව්ඉය්අ ක්ර්ඔස් ප්ඔන්අව්ල්ය්අය්උච්ඉ ම්ඔත්ඉව්. ඔව්අය් ද්එත්අල්ය් ම්ඔෂ්එ ස්එ ච්ඉත්අත්ඉ ක්අඔ න්අග්ඔව්එෂ්ත්අය් ස්උක්ඔබ්අ.",
       "options": [
         "විශ්වාස කළ නොහැකි කථකයා පාඨකයාගේ දෘෂ්ටිකෝණය වෙනස් කරයි. නැවත නැවත මතුවන තේමාවක් හරහා සංකේතවාදය වර්ධනය වේ.",
         "Све тврдње су потпуно сигурне.",
@@ -1209,51 +1209,51 @@ export const SERBIAN_C1_LESSONS_21_30 = [
     "examples": [
       {
         "sr": "Naslov naglašava sukob, a ne dogovor.",
-        "reading": "",
+        "reading": "න්අස්ල්ඔව් න්අග්ල්අෂ්අව්අ ස්උක්ඔබ්, අ න්එ ද්ඔග්ඔව්ඔර්.",
         "si": "සිරස්තලය එකඟතාවට වඩා ගැටුම අවධාරණය කරයි."
       },
       {
         "sr": "Nedostajući kontekst može promeniti značenje izjave.",
-        "reading": "",
+        "reading": "න්එද්ඔස්ත්අය්උච්ඉ ක්ඔන්ත්එක්ස්ත් ම්ඔෂ්එ ප්ර්ඔම්එන්ඉත්ඉ ස්න්අච්එන්ය්එ ඉස්ය්අව්එ.",
         "si": "අතුරුදහන් සන්දර්භය ප්‍රකාශයක අර්ථය වෙනස් කළ හැක."
       },
       {
         "sr": "Provera činjenica otkrila je netačan podatak.",
-        "reading": "",
+        "reading": "ප්ර්ඔව්එර්අ ච්ඉන්ය්එන්ඉත්ස්අ ඔත්ක්ර්ඉල්අ ය්එ න්එත්අච්අන් ප්ඔද්අත්අක්.",
         "si": "කරුණු පරීක්ෂාවෙන් වැරදි දත්තයක් හෙළි විය."
       },
       {
         "sr": "Treba uporediti više nezavisnih izvora.",
-        "reading": "",
+        "reading": "ත්ර්එබ්අ උප්ඔර්එද්ඉත්ඉ ව්ඉෂ්එ න්එස්අව්ඉස්න්ඉහ් ඉස්ව්ඔර්අ.",
         "si": "ස්වාධීන මූලාශ්‍ර කිහිපයක් සසඳා බැලිය යුතුය."
       }
     ],
     "dialogue": [
       {
         "sr": "Koji je glavni argument?",
-        "reading": "",
+        "reading": "ක්ඔය්ඉ ය්එ ග්ල්අව්න්ඉ අර්ග්උම්එන්ත්?",
         "si": "ප්‍රධාන තර්කය කුමක්ද?"
       },
       {
         "sr": "Oslanja se na proverljive dokaze.",
-        "reading": "",
+        "reading": "ඔස්ල්අන්ය්අ ස්එ න්අ ප්ර්ඔව්එර්ල්ය්ඉව්එ ද්ඔක්අස්එ.",
         "si": "එය පරීක්ෂා කළ හැකි සාක්ෂි මත පදනම් වේ."
       },
       {
         "sr": "Postoji li neko važno ograničenje?",
-        "reading": "",
+        "reading": "ප්ඔස්ත්ඔය්ඉ ල්ඉ න්එක්ඔ ව්අෂ්න්ඔ ඔග්ර්අන්ඉච්එන්ය්එ?",
         "si": "වැදගත් සීමාවක් තිබේද?"
       },
       {
         "sr": "Da, i zato treba pažljivo formulisati zaključak.",
-        "reading": "",
+        "reading": "ද්අ, ඉ ස්අත්ඔ ත්ර්එබ්අ ප්අෂ්ල්ය්ඉව්ඔ ෆ්ඔර්ම්උල්ඉස්අත්ඉ ස්අක්ල්ය්උච්අක්.",
         "si": "ඔව්, ඒ නිසා නිගමනය ප්‍රවේශමෙන් සකස් කළ යුතුය."
       }
     ],
     "listeningPractice": {
       "prompt": "Послушајте и изаберите најтачније значење.",
       "audio": "Naslov naglašava sukob, a ne dogovor. Nedostajući kontekst može promeniti značenje izjave. Provera činjenica otkrila je netačan podatak.",
-      "reading": "",
+      "reading": "න්අස්ල්ඔව් න්අග්ල්අෂ්අව්අ ස්උක්ඔබ්, අ න්එ ද්ඔග්ඔව්ඔර්. න්එද්ඔස්ත්අය්උච්ඉ ක්ඔන්ත්එක්ස්ත් ම්ඔෂ්එ ප්ර්ඔම්එන්ඉත්ඉ ස්න්අච්එන්ය්එ ඉස්ය්අව්එ. ප්ර්ඔව්එර්අ ච්ඉන්ය්එන්ඉත්ස්අ ඔත්ක්ර්ඉල්අ ය්එ න්එත්අච්අන් ප්ඔද්අත්අක්.",
       "options": [
         "සිරස්තලය එකඟතාවට වඩා ගැටුම අවධාරණය කරයි. අතුරුදහන් සන්දර්භය ප්‍රකාශයක අර්ථය වෙනස් කළ හැක.",
         "Све тврдње су потпуно сигурне.",
@@ -1372,51 +1372,51 @@ export const SERBIAN_C1_LESSONS_21_30 = [
     "examples": [
       {
         "sr": "Da smo ranije reagovali, posledice bi bile blaže.",
-        "reading": "",
+        "reading": "ද්අ ස්ම්ඔ ර්අන්ඉය්එ ර්එඅග්ඔව්අල්ඉ, ප්ඔස්ල්එද්ඉත්ස්එ බ්ඉ බ්ඉල්එ බ්ල්අෂ්එ.",
         "si": "අපි කලින් ක්‍රියා කළා නම්, ප්‍රතිවිපාක අඩු විය හැකිව තිබුණි."
       },
       {
         "sr": "Ukoliko se potvrdi pretpostavka, plan će biti izmenjen.",
-        "reading": "",
+        "reading": "උක්ඔල්ඉක්ඔ ස්එ ප්ඔත්ව්ර්ද්ඉ ප්ර්එත්ප්ඔස්ත්අව්ක්අ, ප්ල්අන් ච්එ බ්ඉත්ඉ ඉස්ම්එන්ය්එන්.",
         "si": "උපකල්පනය තහවුරු වුවහොත් සැලැස්ම සංශෝධනය කෙරේ."
       },
       {
         "sr": "Ne može se isključiti mogućnost dodatnih troškova.",
-        "reading": "",
+        "reading": "න්එ ම්ඔෂ්එ ස්එ ඉස්ක්ල්ය්උච්ඉත්ඉ ම්ඔග්උච්න්ඔස්ත් ද්ඔද්අත්න්ඉහ් ත්ර්ඔෂ්ක්ඔව්අ.",
         "si": "අමතර වියදම් ඇතිවීමේ හැකියාව බැහැර කළ නොහැක."
       },
       {
         "sr": "Zaključak važi pod uslovom da su podaci tačni.",
-        "reading": "",
+        "reading": "ස්අක්ල්ය්උච්අක් ව්අෂ්ඉ ප්ඔද් උස්ල්ඔව්ඔම් ද්අ ස්උ ප්ඔද්අත්ස්ඉ ත්අච්න්ඉ.",
         "si": "දත්ත නිවැරදි නම් පමණක් නිගමනය වලංගු වේ."
       }
     ],
     "dialogue": [
       {
         "sr": "Koji je glavni argument?",
-        "reading": "",
+        "reading": "ක්ඔය්ඉ ය්එ ග්ල්අව්න්ඉ අර්ග්උම්එන්ත්?",
         "si": "ප්‍රධාන තර්කය කුමක්ද?"
       },
       {
         "sr": "Oslanja se na proverljive dokaze.",
-        "reading": "",
+        "reading": "ඔස්ල්අන්ය්අ ස්එ න්අ ප්ර්ඔව්එර්ල්ය්ඉව්එ ද්ඔක්අස්එ.",
         "si": "එය පරීක්ෂා කළ හැකි සාක්ෂි මත පදනම් වේ."
       },
       {
         "sr": "Postoji li neko važno ograničenje?",
-        "reading": "",
+        "reading": "ප්ඔස්ත්ඔය්ඉ ල්ඉ න්එක්ඔ ව්අෂ්න්ඔ ඔග්ර්අන්ඉච්එන්ය්එ?",
         "si": "වැදගත් සීමාවක් තිබේද?"
       },
       {
         "sr": "Da, i zato treba pažljivo formulisati zaključak.",
-        "reading": "",
+        "reading": "ද්අ, ඉ ස්අත්ඔ ත්ර්එබ්අ ප්අෂ්ල්ය්ඉව්ඔ ෆ්ඔර්ම්උල්ඉස්අත්ඉ ස්අක්ල්ය්උච්අක්.",
         "si": "ඔව්, ඒ නිසා නිගමනය ප්‍රවේශමෙන් සකස් කළ යුතුය."
       }
     ],
     "listeningPractice": {
       "prompt": "Послушајте и изаберите најтачније значење.",
       "audio": "Da smo ranije reagovali, posledice bi bile blaže. Ukoliko se potvrdi pretpostavka, plan će biti izmenjen. Ne može se isključiti mogućnost dodatnih troškova.",
-      "reading": "",
+      "reading": "ද්අ ස්ම්ඔ ර්අන්ඉය්එ ර්එඅග්ඔව්අල්ඉ, ප්ඔස්ල්එද්ඉත්ස්එ බ්ඉ බ්ඉල්එ බ්ල්අෂ්එ. උක්ඔල්ඉක්ඔ ස්එ ප්ඔත්ව්ර්ද්ඉ ප්ර්එත්ප්ඔස්ත්අව්ක්අ, ප්ල්අන් ච්එ බ්ඉත්ඉ ඉස්ම්එන්ය්එන්. න්එ ම්ඔෂ්එ ස්එ ඉස්ක්ල්ය්උච්ඉත්ඉ ම්ඔග්උච්න්ඔස්ත් ද්ඔද්අත්න්ඉහ් ත්ර්ඔෂ්ක්ඔව්අ.",
       "options": [
         "අපි කලින් ක්‍රියා කළා නම්, ප්‍රතිවිපාක අඩු විය හැකිව තිබුණි. උපකල්පනය තහවුරු වුවහොත් සැලැස්ම සංශෝධනය කෙරේ.",
         "Све тврдње су потпуно сигурне.",
@@ -1535,51 +1535,51 @@ export const SERBIAN_C1_LESSONS_21_30 = [
     "examples": [
       {
         "sr": "Ovaj pasus treba preformulisati radi jasnoće.",
-        "reading": "",
+        "reading": "ඔව්අය් ප්අස්උස් ත්ර්එබ්අ ප්ර්එෆ්ඔර්ම්උල්ඉස්අත්ඉ ර්අද්ඉ ය්අස්න්ඔච්එ.",
         "si": "පැහැදිලිභාවය සඳහා මෙම ඡේදය නැවත සකස් කළ යුතුය."
       },
       {
         "sr": "Nedosledna terminologija zbunjuje čitaoca.",
-        "reading": "",
+        "reading": "න්එද්ඔස්ල්එද්න්අ ත්එර්ම්ඉන්ඔල්ඔග්ඉය්අ ස්බ්උන්ය්උය්එ ච්ඉත්අඔත්ස්අ.",
         "si": "අනුකූල නොවන පාරිභාෂික වචන පාඨකයා ව්‍යාකූල කරයි."
       },
       {
         "sr": "Uklonite suvišna ponavljanja, ali sačuvajte nijansu.",
-        "reading": "",
+        "reading": "උක්ල්ඔන්ඉත්එ ස්උව්ඉෂ්න්අ ප්ඔන්අව්ල්ය්අන්ය්අ, අල්ඉ ස්අච්උව්අය්ත්එ න්ඉය්අන්ස්උ.",
         "si": "අනවශ්‍ය පුනරාවර්තන ඉවත් කළත් අර්ථ සූක්ෂ්මතාව රැකගන්න."
       },
       {
         "sr": "Lektorisanje obuhvata gramatiku i interpunkciju.",
-        "reading": "",
+        "reading": "ල්එක්ත්ඔර්ඉස්අන්ය්එ ඔබ්උහ්ව්අත්අ ග්ර්අම්අත්ඉක්උ ඉ ඉන්ත්එර්ප්උන්ක්ත්ස්ඉය්උ.",
         "si": "භාෂා නිවැරදි කිරීමේදී ව්‍යාකරණය සහ විරාම ලකුණු පරීක්ෂා කෙරේ."
       }
     ],
     "dialogue": [
       {
         "sr": "Koji je glavni argument?",
-        "reading": "",
+        "reading": "ක්ඔය්ඉ ය්එ ග්ල්අව්න්ඉ අර්ග්උම්එන්ත්?",
         "si": "ප්‍රධාන තර්කය කුමක්ද?"
       },
       {
         "sr": "Oslanja se na proverljive dokaze.",
-        "reading": "",
+        "reading": "ඔස්ල්අන්ය්අ ස්එ න්අ ප්ර්ඔව්එර්ල්ය්ඉව්එ ද්ඔක්අස්එ.",
         "si": "එය පරීක්ෂා කළ හැකි සාක්ෂි මත පදනම් වේ."
       },
       {
         "sr": "Postoji li neko važno ograničenje?",
-        "reading": "",
+        "reading": "ප්ඔස්ත්ඔය්ඉ ල්ඉ න්එක්ඔ ව්අෂ්න්ඔ ඔග්ර්අන්ඉච්එන්ය්එ?",
         "si": "වැදගත් සීමාවක් තිබේද?"
       },
       {
         "sr": "Da, i zato treba pažljivo formulisati zaključak.",
-        "reading": "",
+        "reading": "ද්අ, ඉ ස්අත්ඔ ත්ර්එබ්අ ප්අෂ්ල්ය්ඉව්ඔ ෆ්ඔර්ම්උල්ඉස්අත්ඉ ස්අක්ල්ය්උච්අක්.",
         "si": "ඔව්, ඒ නිසා නිගමනය ප්‍රවේශමෙන් සකස් කළ යුතුය."
       }
     ],
     "listeningPractice": {
       "prompt": "Послушајте и изаберите најтачније значење.",
       "audio": "Ovaj pasus treba preformulisati radi jasnoće. Nedosledna terminologija zbunjuje čitaoca. Uklonite suvišna ponavljanja, ali sačuvajte nijansu.",
-      "reading": "",
+      "reading": "ඔව්අය් ප්අස්උස් ත්ර්එබ්අ ප්ර්එෆ්ඔර්ම්උල්ඉස්අත්ඉ ර්අද්ඉ ය්අස්න්ඔච්එ. න්එද්ඔස්ල්එද්න්අ ත්එර්ම්ඉන්ඔල්ඔග්ඉය්අ ස්බ්උන්ය්උය්එ ච්ඉත්අඔත්ස්අ. උක්ල්ඔන්ඉත්එ ස්උව්ඉෂ්න්අ ප්ඔන්අව්ල්ය්අන්ය්අ, අල්ඉ ස්අච්උව්අය්ත්එ න්ඉය්අන්ස්උ.",
       "options": [
         "පැහැදිලිභාවය සඳහා මෙම ඡේදය නැවත සකස් කළ යුතුය. අනුකූල නොවන පාරිභාෂික වචන පාඨකයා ව්‍යාකූල කරයි.",
         "Све тврдње су потпуно сигурне.",
