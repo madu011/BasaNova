@@ -644,3 +644,248 @@ export const ENGLISH_B1_FINAL_EXAM = [
     "explanation": "supporting point = සහායක කරුණ"
   }
 ];
+
+export const SERBIAN_B1_MIXED_REVISION = [
+  {
+    "id": "sr-b1-revision-1",
+    "prompt": "“nezaboravan” means…",
+    "options": [
+      "අමතක නොවන",
+      "මිල අධික",
+      "ප්‍රමාද"
+    ],
+    "answer": 0,
+    "explanation": "nezaboravan = අමතක නොවන",
+    "topic": "B1 · පාඩම 1 · අමතක නොවන අත්දැකීම්"
+  },
+  {
+    "id": "sr-b1-revision-2",
+    "prompt": "“potvrda” means…",
+    "options": [
+      "තහවුරු කිරීම",
+      "කාලසටහන",
+      "අත්දැකීම"
+    ],
+    "answer": 0,
+    "explanation": "potvrda = තහවුරු කිරීම",
+    "topic": "B1 · පාඩම 6 · නිල ඉල්ලීම්"
+  },
+  {
+    "id": "sr-b1-revision-3",
+    "prompt": "“možda” යන්නෙහි අර්ථය?",
+    "options": [
+      "කල් දැමීම",
+      "සමහරවිට",
+      "අමතක කිරීම"
+    ],
+    "answer": 1,
+    "explanation": "možda = සමහරවිට",
+    "topic": "B1 · පාඩම 11 · හැකියාව සහ නිශ්චිතභාවය"
+  },
+  {
+    "id": "sr-b1-revision-4",
+    "prompt": "සංවාදයේ A පුද්ගලයාගේ අදහසට B ප්‍රතිචාරය කුමක්ද?",
+    "options": [
+      "Ne znam gde je.",
+      "Slažem se. Tako ćemo lakše rešiti problem.",
+      "Koliko košta?"
+    ],
+    "answer": 1,
+    "explanation": "“Slažem se” යනු “මම එකඟයි” යන්නයි.",
+    "topic": "B1 · පාඩම 16 · සමාජ ගැටලු සහ ප්‍රජා සහභාගීත්වය"
+  },
+  {
+    "id": "sr-b1-revision-5",
+    "prompt": "“sertifikat” යන්නෙහි අර්ථය?",
+    "options": [
+      "සහතිකය",
+      "වෙනත් අර්ථයක්",
+      "එයට සම්බන්ධ නැති අදහස"
+    ],
+    "answer": 0,
+    "explanation": "sertifikat = සහතිකය",
+    "topic": "B1 · පාඩම 21 · මගේ කුසලතා දියුණු කරගැනීමට පාඨමාලාව අවසන් කරන්න කැමතියි."
+  },
+  {
+    "id": "sr-b1-revision-6",
+    "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+    "options": [
+      "Ja sutra juče.",
+      "Radio sam u prodaji i naučio sam da rešavam probleme kupaca.",
+      "Mi biti dobro."
+    ],
+    "answer": 1,
+    "explanation": "මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කරලා පාරිභෝගික ගැටලු විසඳන්න ඉගෙන ගත්තා.",
+    "topic": "B1 · පාඩම 26 · මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කරලා පාරිභෝගික ගැටලු විසඳන්න ඉගෙන ගත්තා."
+  },
+  {
+    "id": "sr-b1-revision-7",
+    "prompt": "“istraživanje” යන්නෙහි තේරුම?",
+    "options": [
+      "පර්යේෂණය",
+      "අදාළ නැති වචනය",
+      "විරුද්ධ අර්ථය"
+    ],
+    "answer": 0,
+    "explanation": "istraživanje = පර්යේෂණය",
+    "topic": "B1 · පාඩම 31 · විද්‍යාව සහ නව සොයාගැනීම්"
+  },
+  {
+    "id": "sr-b1-revision-8",
+    "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+    "options": [
+      "උදාහරණයක්",
+      "මිලක්",
+      "ලිපිනයක්"
+    ],
+    "answer": 0,
+    "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?",
+    "topic": "B1 · පාඩම 36 · පොදු ප්‍රවාහනය සහ නගර පහසුකම්"
+  },
+  {
+    "id": "sr-b1-revision-9",
+    "prompt": "“govor tela” යන්නෙහි තේරුම?",
+    "options": [
+      "ශරීර භාෂාව",
+      "විරුද්ධ අර්ථය",
+      "වෙනත් අර්ථයක්"
+    ],
+    "answer": 0,
+    "explanation": "govor tela = ශරීර භාෂාව",
+    "topic": "B1 · පාඩම 41 · සන්නිවේදන ශෛලීන් සහ ශරීර භාෂාව"
+  },
+  {
+    "id": "sr-b1-revision-10",
+    "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+    "options": [
+      "Yesterday I will goes.",
+      "Izveštaj treba jasno da predstavi podatke i zaključke.",
+      "She have finished yesterday."
+    ],
+    "answer": 1,
+    "explanation": "A report should present the data and conclusions clearly.",
+    "topic": "B1 · පාඩම 46 · වාර්තා ලිවීම සහ දත්ත ඉදිරිපත් කිරීම"
+  }
+];
+export const ENGLISH_B1_MIXED_REVISION = [
+  {
+    "id": "en-b1-revision-1",
+    "prompt": "“nezaboravan” means…",
+    "options": [
+      "අමතක නොවන",
+      "මිල අධික",
+      "ප්‍රමාද"
+    ],
+    "answer": 0,
+    "explanation": "nezaboravan = අමතක නොවන",
+    "topic": "B1 · Lesson 1 · Memorable experiences"
+  },
+  {
+    "id": "en-b1-revision-2",
+    "prompt": "“potvrda” means…",
+    "options": [
+      "තහවුරු කිරීම",
+      "කාලසටහන",
+      "අත්දැකීම"
+    ],
+    "answer": 0,
+    "explanation": "potvrda = තහවුරු කිරීම",
+    "topic": "B1 · Lesson 6 · Formal requests"
+  },
+  {
+    "id": "en-b1-revision-3",
+    "prompt": "What does “perhaps” mean?",
+    "options": [
+      "to forget",
+      "සමහරවිට",
+      "to refuse"
+    ],
+    "answer": 1,
+    "explanation": "perhaps = සමහරවිට",
+    "topic": "B1 · Lesson 11 · Probability and certainty"
+  },
+  {
+    "id": "en-b1-revision-4",
+    "prompt": "How does speaker B respond?",
+    "options": [
+      "I do not know the address.",
+      "I agree. That should help us solve the problem.",
+      "How old is the station?"
+    ],
+    "answer": 1,
+    "explanation": "“I agree” expresses agreement with the suggestion.",
+    "topic": "B1 · Lesson 16 · Social issues and community participation"
+  },
+  {
+    "id": "en-b1-revision-5",
+    "prompt": "What does “certificate” mean?",
+    "options": [
+      "සහතිකය",
+      "the opposite meaning",
+      "an unrelated word"
+    ],
+    "answer": 0,
+    "explanation": "certificate = සහතිකය",
+    "topic": "B1 · Lesson 21 · Education and professional training"
+  },
+  {
+    "id": "en-b1-revision-6",
+    "prompt": "Choose the grammatically correct sentence.",
+    "options": [
+      "Yesterday I will goes.",
+      "I have worked in sales and learned how to solve customer problems.",
+      "She have finished yesterday."
+    ],
+    "answer": 1,
+    "explanation": "මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කරලා පාරිභෝගික ගැටලු විසඳන්න ඉගෙන ගත්තා.",
+    "topic": "B1 · Lesson 26 · Job interviews and career development"
+  },
+  {
+    "id": "en-b1-revision-7",
+    "prompt": "What does “research” mean?",
+    "options": [
+      "පර්යේෂණය",
+      "අදාළ නැති වචනය",
+      "විරුද්ධ අර්ථය"
+    ],
+    "answer": 0,
+    "explanation": "research = පර්යේෂණය",
+    "topic": "B1 · Lesson 31 · Science and discoveries"
+  },
+  {
+    "id": "en-b1-revision-8",
+    "prompt": "What does speaker B ask for?",
+    "options": [
+      "An example",
+      "A price",
+      "An address"
+    ],
+    "answer": 0,
+    "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?",
+    "topic": "B1 · Lesson 36 · Public transport and city infrastructure"
+  },
+  {
+    "id": "en-b1-revision-9",
+    "prompt": "What does “body language” mean?",
+    "options": [
+      "ශරීර භාෂාව",
+      "විරුද්ධ අර්ථය",
+      "වෙනත් අර්ථයක්"
+    ],
+    "answer": 0,
+    "explanation": "body language = ශරීර භාෂාව",
+    "topic": "B1 · Lesson 41 · Communication styles and body language"
+  },
+  {
+    "id": "en-b1-revision-10",
+    "prompt": "Choose the correct sentence.",
+    "options": [
+      "Yesterday I will goes.",
+      "අ රිපෝර්ට් ෂුඩ් ප්‍රෙසෙන්ට් දි ඩේටා ඇන්ඩ් කන්ක්ලූෂන්ස් ක්ලියර්ලි.",
+      "She have finished yesterday."
+    ],
+    "answer": 1,
+    "explanation": "A report should present the data and conclusions clearly.",
+    "topic": "B1 · Lesson 46 · Report writing and presenting data"
+  }
+];
