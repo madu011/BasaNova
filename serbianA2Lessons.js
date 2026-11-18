@@ -825,7 +825,7 @@ export const SERBIAN_A2_LESSONS = [
       }
     ]
   },
-{
+  {
     "id": "sr-a2-l6",
     "unit": "සැලසුම් සහ ආරාධනා",
     "title": "A2 · පාඩම 6 · සැලසුම් කිරීම සහ ආරාධනා",
@@ -1650,7 +1650,7 @@ export const SERBIAN_A2_LESSONS = [
       }
     ]
   },
-{
+  {
     "id": "sr-a2-l11",
     "unit": "ආහාර සහ අවන්හල්",
     "title": "A2 · පාඩම 11 · ආහාර ඇණවුම් කිරීම",
@@ -2475,7 +2475,7 @@ export const SERBIAN_A2_LESSONS = [
       }
     ]
   },
-{
+  {
     "id": "sr-a2-l16",
     "unit": "රැකියාව සහ සම්මුඛ පරීක්ෂණ",
     "title": "A2 · පාඩම 16 · රැකියා සෙවීම සහ සේවා ස්ථානයේ සන්නිවේදනය",
@@ -3300,1654 +3300,2479 @@ export const SERBIAN_A2_LESSONS = [
       }
     ]
   },
-{
-  "id": "sr-a2-l21",
-  "unit": "ප්‍රවාහනය",
-  "title": "A2 · පාඩම 21 · ප්‍රවාහනය",
-  "objective": "ගමන් මාර්ග, ටිකට්පත් සහ ප්‍රවාහන වේලාවන් ගැන කතා කිරීම",
-  "vocabulary": [
-    {
-      "word": "autobus",
-      "reading": "අඋතොබුස්",
-      "meaning": "බස් රථය",
-      "example": "autobus",
-      "translation": "බස් රථය"
-    },
-    {
-      "word": "voz",
-      "reading": "වොස්",
-      "meaning": "දුම්රිය",
-      "example": "voz",
-      "translation": "දුම්රිය"
-    },
-    {
-      "word": "stanica",
-      "reading": "ස්තаница",
-      "meaning": "නැවතුම්පොළ",
-      "example": "stanica",
-      "translation": "නැවතුම්පොළ"
-    },
-    {
-      "word": "karta",
-      "reading": "කාර්තා",
-      "meaning": "ටිකට්පත",
-      "example": "karta",
-      "translation": "ටිකට්පත"
-    },
-    {
-      "word": "presedanje",
-      "reading": "ප්‍රෙසෙදාන්යෙ",
-      "meaning": "වාහන මාරු කිරීම",
-      "example": "presedanje",
-      "translation": "වාහන මාරු කිරීම"
-    },
-    {
-      "word": "kašnjenje",
-      "reading": "කාෂ්න්යෙන්යෙ",
-      "meaning": "ප්‍රමාදය",
-      "example": "kašnjenje",
-      "translation": "ප්‍රමාදය"
-    },
-    {
-      "word": "polazak",
-      "reading": "පොලාසාක්",
-      "meaning": "පිටත්වීම",
-      "example": "polazak",
-      "translation": "පිටත්වීම"
-    },
-    {
-      "word": "dolazak",
-      "reading": "දොලාසාක්",
-      "meaning": "පැමිණීම",
-      "example": "dolazak",
-      "translation": "පැමිණීම"
-    }
-  ],
-  "grammarTitle": "ව්‍යාකරණය",
-  "grammar": "ස්ථානය සහ වේලාව විමසීමට “Gde je...?” සහ “Kada polazi...?” භාවිතා කරන්න.",
-  "grammarTerms": [
-    {
-      "sr": "Kada polazi autobus?",
-      "reading": "කාදා පොලාසි අඋතොබුස්?",
-      "si": "බස් රථය පිටත් වෙන්නේ කීයටද?"
-    }
-  ],
-  "examples": [
-    {
-      "sr": "Kada polazi autobus?",
-      "reading": "කාදා පොලාසි අඋතොබුස්?",
-      "si": "බස් රථය පිටත් වෙන්නේ කීයටද?"
-    },
-    {
-      "sr": "Autobus polazi za deset minuta.",
-      "reading": "අඋතොබුස් පොලාසි සා දෙසෙත් මිනුතා.",
-      "si": "බස් රථය විනාඩි දහයකින් පිටත් වෙනවා."
-    },
-    {
-      "sr": "Da li moram da presedam?",
-      "reading": "දා ලි මොරම් දා ප්‍රෙසෙදාම්?",
-      "si": "මට වෙනත් බස් රථයකට මාරු වෙන්න ඕනෙද?"
-    }
-  ],
-  "dialogue": [
-    {
-      "sr": "Gde je autobuska stanica?",
-      "reading": "ග්දෙ යෙ අඋතොබුස්කා ස්තаница?",
-      "si": "බස් නැවතුම්පොළ කොහෙද?"
-    },
-    {
-      "sr": "Stanica je preko puta.",
-      "reading": "ස්තаница යෙ ප්‍රෙකො පුතා.",
-      "si": "නැවතුම්පොළ තියෙන්නේ පාරෙන් එහා පැත්තේ."
-    },
-    {
-      "sr": "Koliko košta karta?",
-      "reading": "කොලිකො කොෂ්තා කාර්තා?",
-      "si": "ටිකට් එක කීයද?"
-    },
-    {
-      "sr": "Karta košta trista dinara.",
-      "reading": "කාර්තා කොෂ්තා ත්‍රිස්තා දිනාра.",
-      "si": "ටිකට් එක ඩිනාර් තුන්සියයක්."
-    }
-  ],
-  "listeningPractice": {
-    "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: “Voz polazi u devet.”",
-    "audio": "Voz polazi u devet.",
-    "reading": "",
-    "options": [
-      "දුම්රිය නවයට පිටත් වෙනවා.",
-      "වෙනත් අර්ථයක්",
-      "අදාළ නොවන අර්ථයක්"
+  {
+    "id": "sr-a2-l21",
+    "unit": "ප්‍රවාහනය",
+    "title": "A2 · පාඩම 21 · ප්‍රවාහනය",
+    "objective": "ගමන් මාර්ග, ටිකට්පත් සහ ප්‍රවාහන වේලාවන් ගැන කතා කිරීම",
+    "vocabulary": [
+      {
+        "word": "autobus",
+        "reading": "අඋතොබුස්",
+        "meaning": "බස් රථය",
+        "example": "autobus",
+        "translation": "බස් රථය"
+      },
+      {
+        "word": "voz",
+        "reading": "වොස්",
+        "meaning": "දුම්රිය",
+        "example": "voz",
+        "translation": "දුම්රිය"
+      },
+      {
+        "word": "stanica",
+        "reading": "ස්තаница",
+        "meaning": "නැවතුම්පොළ",
+        "example": "stanica",
+        "translation": "නැවතුම්පොළ"
+      },
+      {
+        "word": "karta",
+        "reading": "කාර්තා",
+        "meaning": "ටිකට්පත",
+        "example": "karta",
+        "translation": "ටිකට්පත"
+      },
+      {
+        "word": "presedanje",
+        "reading": "ප්‍රෙසෙදාන්යෙ",
+        "meaning": "වාහන මාරු කිරීම",
+        "example": "presedanje",
+        "translation": "වාහන මාරු කිරීම"
+      },
+      {
+        "word": "kašnjenje",
+        "reading": "කාෂ්න්යෙන්යෙ",
+        "meaning": "ප්‍රමාදය",
+        "example": "kašnjenje",
+        "translation": "ප්‍රමාදය"
+      },
+      {
+        "word": "polazak",
+        "reading": "පොලාසාක්",
+        "meaning": "පිටත්වීම",
+        "example": "polazak",
+        "translation": "පිටත්වීම"
+      },
+      {
+        "word": "dolazak",
+        "reading": "දොලාසාක්",
+        "meaning": "පැමිණීම",
+        "example": "dolazak",
+        "translation": "පැමිණීම"
+      }
     ],
-    "answer": 0
-  },
-  "practice": [
-    {
-      "prompt": "“බස් රථය” යන අර්ථයට ගැළපෙන වචනය තෝරන්න.",
-      "options": [
-        "autobus",
-        "voz",
-        "stanica"
-      ],
-      "answer": 0,
-      "explanation": "autobus = බස් රථය"
-    },
-    {
-      "prompt": "“ටිකට්පත” යන අර්ථයට ගැළපෙන වචනය තෝරන්න.",
-      "options": [
-        "stanica",
-        "karta",
-        "presedanje"
-      ],
-      "answer": 1,
-      "explanation": "karta = ටිකට්පත"
-    },
-    {
-      "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
-      "options": [
-        "Kada polazi autobus?",
-        "Autobus polazi za deset minuta.",
-        "Da li moram da presedam?"
-      ],
-      "answer": 0,
-      "explanation": "බස් රථය පිටත් වෙන්නේ කීයටද?"
-    },
-    {
-      "prompt": "සංවාදයේ අවසාන වාක්‍යය තෝරන්න.",
-      "options": [
-        "Gde je autobuska stanica?",
-        "Karta košta trista dinara.",
-        "Stanica je preko puta."
-      ],
-      "answer": 1,
-      "explanation": "ටිකට් එක ඩිනාර් තුන්සියයක්."
-    }
-  ]
-},
-{
-  "id": "sr-a2-l22",
-  "unit": "සාප්පු සවාරි",
-  "title": "A2 · පාඩම 22 · සාප්පු සවාරි",
-  "objective": "ඇඳුම්වල ප්‍රමාණ, මිල සහ ගෙවීම් ගැන විමසීම",
-  "vocabulary": [
-    {
-      "word": "odeća",
-      "reading": "ඔදෙචා",
-      "meaning": "ඇඳුම්",
-      "example": "odeća",
-      "translation": "ඇඳුම්"
-    },
-    {
-      "word": "veličina",
-      "reading": "වෙලිචිනා",
-      "meaning": "ප්‍රමාණය",
-      "example": "veličina",
-      "translation": "ප්‍රමාණය"
-    },
-    {
-      "word": "probati",
-      "reading": "ප්‍රොබාති",
-      "meaning": "ඇඳලා බලන්න",
-      "example": "probati",
-      "translation": "ඇඳලා බලන්න"
-    },
-    {
-      "word": "popust",
-      "reading": "පොපුස්ත්",
-      "meaning": "වට්ටම",
-      "example": "popust",
-      "translation": "වට්ටම"
-    },
-    {
-      "word": "račun",
-      "reading": "රාචුන්",
-      "meaning": "බිල්පත",
-      "example": "račun",
-      "translation": "බිල්පත"
-    },
-    {
-      "word": "gotovina",
-      "reading": "ගොතොවිනා",
-      "meaning": "මුදල්",
-      "example": "gotovina",
-      "translation": "මුදල්"
-    },
-    {
-      "word": "kartica",
-      "reading": "කාර්තිца",
-      "meaning": "කාඩ්පත",
-      "example": "kartica",
-      "translation": "කාඩ්පත"
-    },
-    {
-      "word": "izbor",
-      "reading": "ඉස්බොර්",
-      "meaning": "තේරීම",
-      "example": "izbor",
-      "translation": "තේරීම"
-    }
-  ],
-  "grammarTitle": "ව්‍යාකරණය",
-  "grammar": "ඇඳලා බලන්න අවසර ඉල්ලීමට “Mogu li da probam...?” යොදන්න. මිල අසන්න “Koliko košta?” කියන්න.",
-  "grammarTerms": [
-    {
-      "sr": "Mogu li da probam ovu jaknu?",
-      "reading": "මොගු ලි දා ප්‍රොබාම් ඔවු යාක්නු?",
-      "si": "මට මේ ජැකට් එක ඇඳලා බලන්න පුළුවන්ද?"
-    }
-  ],
-  "examples": [
-    {
-      "sr": "Mogu li da probam ovu jaknu?",
-      "reading": "මොගු ලි දා ප්‍රොබාම් ඔවු යාක්නු?",
-      "si": "මට මේ ජැකට් එක ඇඳලා බලන්න පුළුවන්ද?"
-    },
-    {
-      "sr": "Naravno, kabina je tamo.",
-      "reading": "නරාව්නො, කබිනා යෙ තාමො.",
-      "si": "අනිවාර්යයෙන්, ඇඳුම් මාරු කරන කාමරය එතනයි."
-    },
-    {
-      "sr": "Imate li manju veličinu?",
-      "reading": "ඉමාතෙ ලි මාන්යු වෙලිචිනු?",
-      "si": "ඔබ ළඟ කුඩා ප්‍රමාණයක් තියෙනවාද?"
-    }
-  ],
-  "dialogue": [
-    {
-      "sr": "Dobar dan. Tražim pantalone.",
-      "reading": "දොබාර් දාන්. ත්‍රාෂිම් පන්තාලොනෙ.",
-      "si": "මට මේ ජැකට් එක ඇඳලා බලන්න පුළුවන්ද?"
-    },
-    {
-      "sr": "Koju veličinu nosite?",
-      "reading": "කොයු වෙලිචිනු නොසිਤੇ?",
-      "si": "මට මේ ජැකට් එක ඇඳලා බලන්න පුළුවන්ද?"
-    },
-    {
-      "sr": "Veličinu M, molim.",
-      "reading": "වෙලිචිනු එම්, මොලිම්.",
-      "si": "මට මේ ජැකට් එක ඇඳලා බලන්න පුළුවන්ද?"
-    },
-    {
-      "sr": "Naravno. Kabina je tamo.",
-      "reading": "සිංහල උච්චාරණ මඟපෙන්වීම",
-      "si": "මට මේ ජැකට් එක ඇඳලා බලන්න පුළුවන්ද?"
-    }
-  ],
-  "listeningPractice": {
-    "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: “Mogu li da probam ovu jaknu?”",
-    "audio": "Mogu li da probam ovu jaknu?",
-    "reading": "මොගු ලි දා ප්‍රොබාම් ඔවු යාක්නු?",
-    "options": [
-      "මට මේ ජැකට් එක ඇඳලා බලන්න පුළුවන්ද?",
-      "වෙනත් අර්ථයක්",
-      "අදාළ නොවන අර්ථයක්"
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "ස්ථානය සහ වේලාව විමසීමට “Gde je...?” සහ “Kada polazi...?” භාවිතා කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Kada polazi autobus?",
+        "reading": "කාදා පොලාසි අඋතොබුස්?",
+        "si": "බස් රථය පිටත් වෙන්නේ කීයටද?"
+      }
     ],
-    "answer": 0
+    "examples": [
+      {
+        "sr": "Kada polazi autobus?",
+        "reading": "කාදා පොලාසි අඋතොබුස්?",
+        "si": "බස් රථය පිටත් වෙන්නේ කීයටද?"
+      },
+      {
+        "sr": "Autobus polazi za deset minuta.",
+        "reading": "අඋතොබුස් පොලාසි සා දෙසෙත් මිනුතා.",
+        "si": "බස් රථය විනාඩි දහයකින් පිටත් වෙනවා."
+      },
+      {
+        "sr": "Da li moram da presedam?",
+        "reading": "දා ලි මොරම් දා ප්‍රෙසෙදාම්?",
+        "si": "මට වෙනත් බස් රථයකට මාරු වෙන්න ඕනෙද?"
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "Gde je autobuska stanica?",
+        "reading": "ග්දෙ යෙ අඋතොබුස්කා ස්තаница?",
+        "si": "බස් නැවතුම්පොළ කොහෙද?"
+      },
+      {
+        "sr": "Stanica je preko puta.",
+        "reading": "ස්තаница යෙ ප්‍රෙකො පුතා.",
+        "si": "නැවතුම්පොළ තියෙන්නේ පාරෙන් එහා පැත්තේ."
+      },
+      {
+        "sr": "Koliko košta karta?",
+        "reading": "කොලිකො කොෂ්තා කාර්තා?",
+        "si": "ටිකට් එක කීයද?"
+      },
+      {
+        "sr": "Karta košta trista dinara.",
+        "reading": "කාර්තා කොෂ්තා ත්‍රිස්තා දිනාра.",
+        "si": "ටිකට් එක ඩිනාර් තුන්සියයක්."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: “Voz polazi u devet.”",
+      "audio": "Voz polazi u devet.",
+      "reading": "",
+      "options": [
+        "දුම්රිය නවයට පිටත් වෙනවා.",
+        "වෙනත් අර්ථයක්",
+        "අදාළ නොවන අර්ථයක්"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“බස් රථය” යන අර්ථයට ගැළපෙන වචනය තෝරන්න.",
+        "options": [
+          "autobus",
+          "voz",
+          "stanica"
+        ],
+        "answer": 0,
+        "explanation": "autobus = බස් රථය"
+      },
+      {
+        "prompt": "“ටිකට්පත” යන අර්ථයට ගැළපෙන වචනය තෝරන්න.",
+        "options": [
+          "stanica",
+          "karta",
+          "presedanje"
+        ],
+        "answer": 1,
+        "explanation": "karta = ටිකට්පත"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Kada polazi autobus?",
+          "Autobus polazi za deset minuta.",
+          "Da li moram da presedam?"
+        ],
+        "answer": 0,
+        "explanation": "බස් රථය පිටත් වෙන්නේ කීයටද?"
+      },
+      {
+        "prompt": "සංවාදයේ අවසාන වාක්‍යය තෝරන්න.",
+        "options": [
+          "Gde je autobuska stanica?",
+          "Karta košta trista dinara.",
+          "Stanica je preko puta."
+        ],
+        "answer": 1,
+        "explanation": "ටිකට් එක ඩිනාර් තුන්සියයක්."
+      }
+    ]
   },
-  "practice": [
-    {
-      "prompt": "“ඇඳුම්” යන අර්ථයට ගැළපෙන වචනය තෝරන්න.",
+  {
+    "id": "sr-a2-l22",
+    "unit": "සාප්පු සවාරි",
+    "title": "A2 · පාඩම 22 · සාප්පු සවාරි",
+    "objective": "ඇඳුම්වල ප්‍රමාණ, මිල සහ ගෙවීම් ගැන විමසීම",
+    "vocabulary": [
+      {
+        "word": "odeća",
+        "reading": "ඔදෙචා",
+        "meaning": "ඇඳුම්",
+        "example": "odeća",
+        "translation": "ඇඳුම්"
+      },
+      {
+        "word": "veličina",
+        "reading": "වෙලිචිනා",
+        "meaning": "ප්‍රමාණය",
+        "example": "veličina",
+        "translation": "ප්‍රමාණය"
+      },
+      {
+        "word": "probati",
+        "reading": "ප්‍රොබාති",
+        "meaning": "ඇඳලා බලන්න",
+        "example": "probati",
+        "translation": "ඇඳලා බලන්න"
+      },
+      {
+        "word": "popust",
+        "reading": "පොපුස්ත්",
+        "meaning": "වට්ටම",
+        "example": "popust",
+        "translation": "වට්ටම"
+      },
+      {
+        "word": "račun",
+        "reading": "රාචුන්",
+        "meaning": "බිල්පත",
+        "example": "račun",
+        "translation": "බිල්පත"
+      },
+      {
+        "word": "gotovina",
+        "reading": "ගොතොවිනා",
+        "meaning": "මුදල්",
+        "example": "gotovina",
+        "translation": "මුදල්"
+      },
+      {
+        "word": "kartica",
+        "reading": "කාර්තිца",
+        "meaning": "කාඩ්පත",
+        "example": "kartica",
+        "translation": "කාඩ්පත"
+      },
+      {
+        "word": "izbor",
+        "reading": "ඉස්බොර්",
+        "meaning": "තේරීම",
+        "example": "izbor",
+        "translation": "තේරීම"
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "ඇඳලා බලන්න අවසර ඉල්ලීමට “Mogu li da probam...?” යොදන්න. මිල අසන්න “Koliko košta?” කියන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Mogu li da probam ovu jaknu?",
+        "reading": "මොගු ලි දා ප්‍රොබාම් ඔවු යාක්නු?",
+        "si": "මට මේ ජැකට් එක ඇඳලා බලන්න පුළුවන්ද?"
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Mogu li da probam ovu jaknu?",
+        "reading": "මොගු ලි දා ප්‍රොබාම් ඔවු යාක්නු?",
+        "si": "මට මේ ජැකට් එක ඇඳලා බලන්න පුළුවන්ද?"
+      },
+      {
+        "sr": "Naravno, kabina je tamo.",
+        "reading": "නරාව්නො, කබිනා යෙ තාමො.",
+        "si": "අනිවාර්යයෙන්, ඇඳුම් මාරු කරන කාමරය එතනයි."
+      },
+      {
+        "sr": "Imate li manju veličinu?",
+        "reading": "ඉමාතෙ ලි මාන්යු වෙලිචිනු?",
+        "si": "ඔබ ළඟ කුඩා ප්‍රමාණයක් තියෙනවාද?"
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "Dobar dan. Tražim pantalone.",
+        "reading": "දොබාර් දාන්. ත්‍රාෂිම් පන්තාලොනෙ.",
+        "si": "මට මේ ජැකට් එක ඇඳලා බලන්න පුළුවන්ද?"
+      },
+      {
+        "sr": "Koju veličinu nosite?",
+        "reading": "කොයු වෙලිචිනු නොසිਤੇ?",
+        "si": "මට මේ ජැකට් එක ඇඳලා බලන්න පුළුවන්ද?"
+      },
+      {
+        "sr": "Veličinu M, molim.",
+        "reading": "වෙලිචිනු එම්, මොලිම්.",
+        "si": "මට මේ ජැකට් එක ඇඳලා බලන්න පුළුවන්ද?"
+      },
+      {
+        "sr": "Naravno. Kabina je tamo.",
+        "reading": "සිංහල උච්චාරණ මඟපෙන්වීම",
+        "si": "මට මේ ජැකට් එක ඇඳලා බලන්න පුළුවන්ද?"
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: “Mogu li da probam ovu jaknu?”",
+      "audio": "Mogu li da probam ovu jaknu?",
+      "reading": "මොගු ලි දා ප්‍රොබාම් ඔවු යාක්නු?",
       "options": [
-        "odeća",
-        "veličina",
-        "probati"
+        "මට මේ ජැකට් එක ඇඳලා බලන්න පුළුවන්ද?",
+        "වෙනත් අර්ථයක්",
+        "අදාළ නොවන අර්ථයක්"
       ],
-      "answer": 0,
-      "explanation": "odeća = ඇඳුම්"
+      "answer": 0
     },
-    {
-      "prompt": "“වට්ටම” යන අර්ථයට ගැළපෙන වචනය තෝරන්න.",
-      "options": [
-        "probati",
-        "popust",
-        "račun"
-      ],
-      "answer": 1,
-      "explanation": "popust = වට්ටම"
-    },
-    {
-      "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
-      "options": [
-        "Mogu li da probam ovu jaknu?",
-        "Naravno, kabina je tamo.",
-        "Imate li manju veličinu?"
-      ],
-      "answer": 0,
-      "explanation": "මට මේ ජැකට් එක ඇඳලා බලන්න පුළුවන්ද?"
-    },
-    {
-      "prompt": "සංවාදයේ අවසාන වාක්‍යය තෝරන්න.",
-      "options": [
-        "Dobar dan. Tražim pantalone.",
-        "Naravno. Kabina je tamo.",
-        "Koju veličinu nosite?"
-      ],
-      "answer": 1,
-      "explanation": "මට මේ ජැකට් එක ඇඳලා බලන්න පුළුවන්ද?"
-    }
-  ]
-},
-{
-  "id": "sr-a2-l23",
-  "unit": "කාලගුණය සහ සෘතු",
-  "title": "A2 · පාඩම 23 · කාලගුණය සහ සෘතු",
-  "objective": "කාලගුණය විස්තර කර ඒ අනුව සැලසුම් කිරීම",
-  "vocabulary": [
-    {
-      "word": "vreme",
-      "reading": "ව්‍රෙමෙ",
-      "meaning": "කාලගුණය",
-      "example": "vreme",
-      "translation": "කාලගුණය"
-    },
-    {
-      "word": "sunčano",
-      "reading": "සුන්චානො",
-      "meaning": "අව්ව සහිත",
-      "example": "sunčano",
-      "translation": "අව්ව සහිත"
-    },
-    {
-      "word": "oblačno",
-      "reading": "ඔබ්ලාච්නො",
-      "meaning": "වලාකුළු සහිත",
-      "example": "oblačno",
-      "translation": "වලාකුළු සහිත"
-    },
-    {
-      "word": "kiša",
-      "reading": "කීෂා",
-      "meaning": "වැස්ස",
-      "example": "kiša",
-      "translation": "වැස්ස"
-    },
-    {
-      "word": "vetar",
-      "reading": "වෙතාර්",
-      "meaning": "සුළඟ",
-      "example": "vetar",
-      "translation": "සුළඟ"
-    },
-    {
-      "word": "proleće",
-      "reading": "ප්‍රොලෙචෙ",
-      "meaning": "වසන්තය",
-      "example": "proleće",
-      "translation": "වසන්තය"
-    },
-    {
-      "word": "leto",
-      "reading": "ලෙතො",
-      "meaning": "ගිම්හානය",
-      "example": "leto",
-      "translation": "ගිම්හානය"
-    },
-    {
-      "word": "zima",
-      "reading": "සිමා",
-      "meaning": "ශීත ඍතුව",
-      "example": "zima",
-      "translation": "ශීත ඍතුව"
-    }
-  ],
-  "grammarTitle": "ව්‍යාකරණය",
-  "grammar": "අනාගත කාලගුණය සඳහා “Biće...” (වේවි) යොදන්න. “Ako...” යන්නෙන් කොන්දේසියක් දක්වයි.",
-  "grammarTerms": [
-    {
-      "sr": "Kakvo će vreme biti sutra?",
-      "reading": "කාක්වො චෙ ව්‍රෙමෙ бити සුත්‍රා?",
-      "si": "හෙට කාලගුණය කොහොම වේවිද?"
-    }
-  ],
-  "examples": [
-    {
-      "sr": "Kakvo će vreme biti sutra?",
-      "reading": "කාක්වො චෙ ව්‍රෙමෙ бити සුත්‍රා?",
-      "si": "හෙට කාලගුණය කොහොම වේවිද?"
-    },
-    {
-      "sr": "Biće sunčano i toplo.",
+    "practice": [
+      {
+        "prompt": "“ඇඳුම්” යන අර්ථයට ගැළපෙන වචනය තෝරන්න.",
+        "options": [
+          "odeća",
+          "veličina",
+          "probati"
+        ],
+        "answer": 0,
+        "explanation": "odeća = ඇඳුම්"
+      },
+      {
+        "prompt": "“වට්ටම” යන අර්ථයට ගැළපෙන වචනය තෝරන්න.",
+        "options": [
+          "probati",
+          "popust",
+          "račun"
+        ],
+        "answer": 1,
+        "explanation": "popust = වට්ටම"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Mogu li da probam ovu jaknu?",
+          "Naravno, kabina je tamo.",
+          "Imate li manju veličinu?"
+        ],
+        "answer": 0,
+        "explanation": "මට මේ ජැකට් එක ඇඳලා බලන්න පුළුවන්ද?"
+      },
+      {
+        "prompt": "සංවාදයේ අවසාන වාක්‍යය තෝරන්න.",
+        "options": [
+          "Dobar dan. Tražim pantalone.",
+          "Naravno. Kabina je tamo.",
+          "Koju veličinu nosite?"
+        ],
+        "answer": 1,
+        "explanation": "මට මේ ජැකට් එක ඇඳලා බලන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "sr-a2-l23",
+    "unit": "කාලගුණය සහ සෘතු",
+    "title": "A2 · පාඩම 23 · කාලගුණය සහ සෘතු",
+    "objective": "කාලගුණය විස්තර කර ඒ අනුව සැලසුම් කිරීම",
+    "vocabulary": [
+      {
+        "word": "vreme",
+        "reading": "ව්‍රෙමෙ",
+        "meaning": "කාලගුණය",
+        "example": "vreme",
+        "translation": "කාලගුණය"
+      },
+      {
+        "word": "sunčano",
+        "reading": "සුන්චානො",
+        "meaning": "අව්ව සහිත",
+        "example": "sunčano",
+        "translation": "අව්ව සහිත"
+      },
+      {
+        "word": "oblačno",
+        "reading": "ඔබ්ලාච්නො",
+        "meaning": "වලාකුළු සහිත",
+        "example": "oblačno",
+        "translation": "වලාකුළු සහිත"
+      },
+      {
+        "word": "kiša",
+        "reading": "කීෂා",
+        "meaning": "වැස්ස",
+        "example": "kiša",
+        "translation": "වැස්ස"
+      },
+      {
+        "word": "vetar",
+        "reading": "වෙතාර්",
+        "meaning": "සුළඟ",
+        "example": "vetar",
+        "translation": "සුළඟ"
+      },
+      {
+        "word": "proleće",
+        "reading": "ප්‍රොලෙචෙ",
+        "meaning": "වසන්තය",
+        "example": "proleće",
+        "translation": "වසන්තය"
+      },
+      {
+        "word": "leto",
+        "reading": "ලෙතො",
+        "meaning": "ගිම්හානය",
+        "example": "leto",
+        "translation": "ගිම්හානය"
+      },
+      {
+        "word": "zima",
+        "reading": "සිමා",
+        "meaning": "ශීත ඍතුව",
+        "example": "zima",
+        "translation": "ශීත ඍතුව"
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "අනාගත කාලගුණය සඳහා “Biće...” (වේවි) යොදන්න. “Ako...” යන්නෙන් කොන්දේසියක් දක්වයි.",
+    "grammarTerms": [
+      {
+        "sr": "Kakvo će vreme biti sutra?",
+        "reading": "කාක්වො චෙ ව්‍රෙමෙ бити සුත්‍රා?",
+        "si": "හෙට කාලගුණය කොහොම වේවිද?"
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Kakvo će vreme biti sutra?",
+        "reading": "කාක්වො චෙ ව්‍රෙමෙ бити සුත්‍රා?",
+        "si": "හෙට කාලගුණය කොහොම වේවිද?"
+      },
+      {
+        "sr": "Biće sunčano i toplo.",
+        "reading": "බිචෙ සුන්චානො ඉ තොප්ලො.",
+        "si": "අව්ව සහ උණුසුම තියේවි."
+      },
+      {
+        "sr": "Ako bude kiše, ostaću kod kuće.",
+        "reading": "අකො බුදෙ කීෂෙ, ඔස්තාචු කොද් කුචෙ.",
+        "si": "වැස්ස තිබුණොත් මම ගෙදර ඉන්නවා."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "Idemo li u park danas?",
+        "reading": "ඉදෙමො ලි උ පාර්ක් දනාස්?",
+        "si": "අව්ව සහ උණුසුම තියේවි."
+      },
+      {
+        "sr": "Možemo, ali proveri vreme.",
+        "reading": "මොෂෙමො, අලි ප්‍රොවෙරි ව්‍රෙමෙ.",
+        "si": "අව්ව සහ උණුසුම තියේවි."
+      },
+      {
+        "sr": "Kažu da će biti vetrovito.",
+        "reading": "කාෂු දා චෙ бити වෙත්‍රොවිතො.",
+        "si": "අව්ව සහ උණුසුම තියේවි."
+      },
+      {
+        "sr": "Onda ćemo poneti jakne.",
+        "reading": "ඔන්දා චෙමො පොනෙති යාක්නෙ.",
+        "si": "අව්ව සහ උණුසුම තියේවි."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: “Biće sunčano i toplo.”",
+      "audio": "Biće sunčano i toplo.",
       "reading": "බිචෙ සුන්චානො ඉ තොප්ලො.",
-      "si": "අව්ව සහ උණුසුම තියේවි."
+      "options": [
+        "අව්ව සහ උණුසුම තියේවි.",
+        "වෙනත් අර්ථයක්",
+        "අදාළ නොවන අර්ථයක්"
+      ],
+      "answer": 0
     },
-    {
-      "sr": "Ako bude kiše, ostaću kod kuće.",
-      "reading": "අකො බුදෙ කීෂෙ, ඔස්තාචු කොද් කුචෙ.",
-      "si": "වැස්ස තිබුණොත් මම ගෙදර ඉන්නවා."
-    }
-  ],
-  "dialogue": [
-    {
-      "sr": "Idemo li u park danas?",
-      "reading": "ඉදෙමො ලි උ පාර්ක් දනාස්?",
-      "si": "අව්ව සහ උණුසුම තියේවි."
-    },
-    {
-      "sr": "Možemo, ali proveri vreme.",
-      "reading": "මොෂෙමො, අලි ප්‍රොවෙරි ව්‍රෙමෙ.",
-      "si": "අව්ව සහ උණුසුම තියේවි."
-    },
-    {
-      "sr": "Kažu da će biti vetrovito.",
-      "reading": "කාෂු දා චෙ бити වෙත්‍රොවිතො.",
-      "si": "අව්ව සහ උණුසුම තියේවි."
-    },
-    {
-      "sr": "Onda ćemo poneti jakne.",
-      "reading": "ඔන්දා චෙමො පොනෙති යාක්නෙ.",
-      "si": "අව්ව සහ උණුසුම තියේවි."
-    }
-  ],
-  "listeningPractice": {
-    "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: “Biće sunčano i toplo.”",
-    "audio": "Biće sunčano i toplo.",
-    "reading": "බිචෙ සුන්චානො ඉ තොප්ලො.",
-    "options": [
-      "අව්ව සහ උණුසුම තියේවි.",
-      "වෙනත් අර්ථයක්",
-      "අදාළ නොවන අර්ථයක්"
-    ],
-    "answer": 0
+    "practice": [
+      {
+        "prompt": "“කාලගුණය” යන අර්ථයට ගැළපෙන වචනය තෝරන්න.",
+        "options": [
+          "vreme",
+          "sunčano",
+          "oblačno"
+        ],
+        "answer": 0,
+        "explanation": "vreme = කාලගුණය"
+      },
+      {
+        "prompt": "“වැස්ස” යන අර්ථයට ගැළපෙන වචනය තෝරන්න.",
+        "options": [
+          "oblačno",
+          "kiša",
+          "vetar"
+        ],
+        "answer": 1,
+        "explanation": "kiša = වැස්ස"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Kakvo će vreme biti sutra?",
+          "Biće sunčano i toplo.",
+          "Ako bude kiše, ostaću kod kuće."
+        ],
+        "answer": 0,
+        "explanation": "හෙට කාලගුණය කොහොම වේවිද?"
+      },
+      {
+        "prompt": "සංවාදයේ අවසාන වාක්‍යය තෝරන්න.",
+        "options": [
+          "Idemo li u park danas?",
+          "Onda ćemo poneti jakne.",
+          "Možemo, ali proveri vreme."
+        ],
+        "answer": 1,
+        "explanation": "අව්ව සහ උණුසුම තියේවි."
+      }
+    ]
   },
-  "practice": [
-    {
-      "prompt": "“කාලගුණය” යන අර්ථයට ගැළපෙන වචනය තෝරන්න.",
-      "options": [
-        "vreme",
-        "sunčano",
-        "oblačno"
-      ],
-      "answer": 0,
-      "explanation": "vreme = කාලගුණය"
-    },
-    {
-      "prompt": "“වැස්ස” යන අර්ථයට ගැළපෙන වචනය තෝරන්න.",
-      "options": [
-        "oblačno",
-        "kiša",
-        "vetar"
-      ],
-      "answer": 1,
-      "explanation": "kiša = වැස්ස"
-    },
-    {
-      "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
-      "options": [
-        "Kakvo će vreme biti sutra?",
-        "Biće sunčano i toplo.",
-        "Ako bude kiše, ostaću kod kuće."
-      ],
-      "answer": 0,
-      "explanation": "හෙට කාලගුණය කොහොම වේවිද?"
-    },
-    {
-      "prompt": "සංවාදයේ අවසාන වාක්‍යය තෝරන්න.",
-      "options": [
-        "Idemo li u park danas?",
-        "Onda ćemo poneti jakne.",
-        "Možemo, ali proveri vreme."
-      ],
-      "answer": 1,
-      "explanation": "අව්ව සහ උණුසුම තියේවි."
-    }
-  ]
-},
-{
-  "id": "sr-a2-l24",
-  "unit": "හමුවීම් සහ සැලසුම්",
-  "title": "A2 · පාඩම 24 · හමුවීම් සහ සැලසුම්",
-  "objective": "හමුවීම් නියම කිරීම සහ වේලාව වෙනස් කිරීම",
-  "vocabulary": [
-    {
-      "word": "sastanak",
-      "reading": "සස්තානාක්",
-      "meaning": "හමුවීම",
-      "example": "sastanak",
-      "translation": "හමුවීම"
-    },
-    {
-      "word": "termin",
-      "reading": "තර්මින්",
-      "meaning": "වෙන් කළ වේලාව",
-      "example": "termin",
-      "translation": "වෙන් කළ වේලාව"
-    },
-    {
-      "word": "zakasniti",
-      "reading": "සාකාස්නිති",
-      "meaning": "ප්‍රමාද වීම",
-      "example": "zakasniti",
-      "translation": "ප්‍රමාද වීම"
-    },
-    {
-      "word": "otkazati",
-      "reading": "ඔත්කාසාති",
-      "meaning": "අවලංගු කිරීම",
-      "example": "otkazati",
-      "translation": "අවලංගු කිරීම"
-    },
-    {
-      "word": "pomeriti",
-      "reading": "පොමෙරිති",
-      "meaning": "වෙනත් වේලාවකට මාරු කිරීම",
-      "example": "pomeriti",
-      "translation": "වෙනත් වේලාවකට මාරු කිරීම"
-    },
-    {
-      "word": "slobodan",
-      "reading": "ස්ලොබොදාන්",
-      "meaning": "නිදහස්",
-      "example": "slobodan",
-      "translation": "නිදහස්"
-    },
-    {
-      "word": "dogovor",
-      "reading": "දොගොවොර්",
-      "meaning": "එකඟතාව",
-      "example": "dogovor",
-      "translation": "එකඟතාව"
-    },
-    {
-      "word": "na vreme",
-      "reading": "නා ව්‍රෙමෙ",
-      "meaning": "නියමිත වේලාවට",
-      "example": "na vreme",
-      "translation": "නියමිත වේලාවට"
-    }
-  ],
-  "grammarTitle": "ව්‍යාකරණය",
-  "grammar": "කෙනෙකුට වේලාව පහසුදැයි “Da li ti odgovara...?” ලෙස අසන්න. “Moramo da pomerimo...” යනු වෙනත් වේලාවකට මාරු කළ යුතු බවයි.",
-  "grammarTerms": [
-    {
-      "sr": "Da li ti odgovara petak?",
-      "reading": "දා ලි ති ඔද්ගොවාරා පෙතාක්?",
-      "si": "ඔයාට සිකුරාදා පහසුද?"
-    }
-  ],
-  "examples": [
-    {
-      "sr": "Da li ti odgovara petak?",
-      "reading": "දා ලි ති ඔද්ගොවාරා පෙතාක්?",
-      "si": "ඔයාට සිකුරාදා පහසුද?"
-    },
-    {
-      "sr": "Da, slobodan sam posle podne.",
-      "reading": "දා, ස්ලොබොදාන් සාම් පොස්ලෙ පොද්නෙ.",
-      "si": "ඔව්, මම හවස නිදහස්."
-    },
-    {
-      "sr": "Možemo li da pomerimo sastanak?",
-      "reading": "මොෂෙමො ලි දා පොමෙරිමො සස්තානාක්?",
-      "si": "අපිට හමුවීම වෙනත් වේලාවකට මාරු කරන්න පුළුවන්ද?"
-    }
-  ],
-  "dialogue": [
-    {
-      "sr": "Imamo sastanak u deset.",
-      "reading": "ඉමාමො සස්තානාක් උ දෙසෙත්.",
-      "si": "ඔයාට සිකුරාදා පහසුද?"
-    },
-    {
-      "sr": "Izvinite, kasniću petnaest minuta.",
-      "reading": "ඉස්විනිතෙ, කස්නිචු පෙත්නාඑස්ත් මිනුතා.",
-      "si": "ඔයාට සිකුරාදා පහසුද?"
-    },
-    {
-      "sr": "U redu, možemo da počnemo kasnije.",
-      "reading": "උ රෙදු, මොෂෙමො දා පොච්නෙමො කස්නියේ.",
-      "si": "ඔයාට සිකුරාදා පහසුද?"
-    },
-    {
-      "sr": "Hvala na razumevanju.",
-      "reading": "හ්වාලා නා රාසුමෙවාන්යු.",
-      "si": "ඔයාට සිකුරාදා පහසුද?"
-    }
-  ],
-  "listeningPractice": {
-    "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: “Da li ti odgovara petak?”",
-    "audio": "Da li ti odgovara petak?",
-    "reading": "දා ලි ති ඔද්ගොවාරා පෙතාක්?",
-    "options": [
-      "ඔයාට සිකුරාදා පහසුද?",
-      "වෙනත් අර්ථයක්",
-      "අදාළ නොවන අර්ථයක්"
+  {
+    "id": "sr-a2-l24",
+    "unit": "හමුවීම් සහ සැලසුම්",
+    "title": "A2 · පාඩම 24 · හමුවීම් සහ සැලසුම්",
+    "objective": "හමුවීම් නියම කිරීම සහ වේලාව වෙනස් කිරීම",
+    "vocabulary": [
+      {
+        "word": "sastanak",
+        "reading": "සස්තානාක්",
+        "meaning": "හමුවීම",
+        "example": "sastanak",
+        "translation": "හමුවීම"
+      },
+      {
+        "word": "termin",
+        "reading": "තර්මින්",
+        "meaning": "වෙන් කළ වේලාව",
+        "example": "termin",
+        "translation": "වෙන් කළ වේලාව"
+      },
+      {
+        "word": "zakasniti",
+        "reading": "සාකාස්නිති",
+        "meaning": "ප්‍රමාද වීම",
+        "example": "zakasniti",
+        "translation": "ප්‍රමාද වීම"
+      },
+      {
+        "word": "otkazati",
+        "reading": "ඔත්කාසාති",
+        "meaning": "අවලංගු කිරීම",
+        "example": "otkazati",
+        "translation": "අවලංගු කිරීම"
+      },
+      {
+        "word": "pomeriti",
+        "reading": "පොමෙරිති",
+        "meaning": "වෙනත් වේලාවකට මාරු කිරීම",
+        "example": "pomeriti",
+        "translation": "වෙනත් වේලාවකට මාරු කිරීම"
+      },
+      {
+        "word": "slobodan",
+        "reading": "ස්ලොබොදාන්",
+        "meaning": "නිදහස්",
+        "example": "slobodan",
+        "translation": "නිදහස්"
+      },
+      {
+        "word": "dogovor",
+        "reading": "දොගොවොර්",
+        "meaning": "එකඟතාව",
+        "example": "dogovor",
+        "translation": "එකඟතාව"
+      },
+      {
+        "word": "na vreme",
+        "reading": "නා ව්‍රෙමෙ",
+        "meaning": "නියමිත වේලාවට",
+        "example": "na vreme",
+        "translation": "නියමිත වේලාවට"
+      }
     ],
-    "answer": 0
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "කෙනෙකුට වේලාව පහසුදැයි “Da li ti odgovara...?” ලෙස අසන්න. “Moramo da pomerimo...” යනු වෙනත් වේලාවකට මාරු කළ යුතු බවයි.",
+    "grammarTerms": [
+      {
+        "sr": "Da li ti odgovara petak?",
+        "reading": "දා ලි ති ඔද්ගොවාරා පෙතාක්?",
+        "si": "ඔයාට සිකුරාදා පහසුද?"
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Da li ti odgovara petak?",
+        "reading": "දා ලි ති ඔද්ගොවාරා පෙතාක්?",
+        "si": "ඔයාට සිකුරාදා පහසුද?"
+      },
+      {
+        "sr": "Da, slobodan sam posle podne.",
+        "reading": "දා, ස්ලොබොදාන් සාම් පොස්ලෙ පොද්නෙ.",
+        "si": "ඔව්, මම හවස නිදහස්."
+      },
+      {
+        "sr": "Možemo li da pomerimo sastanak?",
+        "reading": "මොෂෙමො ලි දා පොමෙරිමො සස්තානාක්?",
+        "si": "අපිට හමුවීම වෙනත් වේලාවකට මාරු කරන්න පුළුවන්ද?"
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "Imamo sastanak u deset.",
+        "reading": "ඉමාමො සස්තානාක් උ දෙසෙත්.",
+        "si": "ඔයාට සිකුරාදා පහසුද?"
+      },
+      {
+        "sr": "Izvinite, kasniću petnaest minuta.",
+        "reading": "ඉස්විනිතෙ, කස්නිචු පෙත්නාඑස්ත් මිනුතා.",
+        "si": "ඔයාට සිකුරාදා පහසුද?"
+      },
+      {
+        "sr": "U redu, možemo da počnemo kasnije.",
+        "reading": "උ රෙදු, මොෂෙමො දා පොච්නෙමො කස්නියේ.",
+        "si": "ඔයාට සිකුරාදා පහසුද?"
+      },
+      {
+        "sr": "Hvala na razumevanju.",
+        "reading": "හ්වාලා නා රාසුමෙවාන්යු.",
+        "si": "ඔයාට සිකුරාදා පහසුද?"
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: “Da li ti odgovara petak?”",
+      "audio": "Da li ti odgovara petak?",
+      "reading": "දා ලි ති ඔද්ගොවාරා පෙතාක්?",
+      "options": [
+        "ඔයාට සිකුරාදා පහසුද?",
+        "වෙනත් අර්ථයක්",
+        "අදාළ නොවන අර්ථයක්"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“හමුවීම” යන අර්ථයට ගැළපෙන වචනය තෝරන්න.",
+        "options": [
+          "sastanak",
+          "termin",
+          "zakasniti"
+        ],
+        "answer": 0,
+        "explanation": "sastanak = හමුවීම"
+      },
+      {
+        "prompt": "“අවලංගු කිරීම” යන අර්ථයට ගැළපෙන වචනය තෝරන්න.",
+        "options": [
+          "zakasniti",
+          "otkazati",
+          "pomeriti"
+        ],
+        "answer": 1,
+        "explanation": "otkazati = අවලංගු කිරීම"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Da li ti odgovara petak?",
+          "Da, slobodan sam posle podne.",
+          "Možemo li da pomerimo sastanak?"
+        ],
+        "answer": 0,
+        "explanation": "ඔයාට සිකුරාදා පහසුද?"
+      },
+      {
+        "prompt": "සංවාදයේ අවසාන වාක්‍යය තෝරන්න.",
+        "options": [
+          "Imamo sastanak u deset.",
+          "Hvala na razumevanju.",
+          "Izvinite, kasniću petnaest minuta."
+        ],
+        "answer": 1,
+        "explanation": "ඔයාට සිකුරාදා පහසුද?"
+      }
+    ]
   },
-  "practice": [
-    {
-      "prompt": "“හමුවීම” යන අර්ථයට ගැළපෙන වචනය තෝරන්න.",
-      "options": [
-        "sastanak",
-        "termin",
-        "zakasniti"
-      ],
-      "answer": 0,
-      "explanation": "sastanak = හමුවීම"
-    },
-    {
-      "prompt": "“අවලංගු කිරීම” යන අර්ථයට ගැළපෙන වචනය තෝරන්න.",
-      "options": [
-        "zakasniti",
-        "otkazati",
-        "pomeriti"
-      ],
-      "answer": 1,
-      "explanation": "otkazati = අවලංගු කිරීම"
-    },
-    {
-      "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
-      "options": [
-        "Da li ti odgovara petak?",
-        "Da, slobodan sam posle podne.",
-        "Možemo li da pomerimo sastanak?"
-      ],
-      "answer": 0,
-      "explanation": "ඔයාට සිකුරාදා පහසුද?"
-    },
-    {
-      "prompt": "සංවාදයේ අවසාන වාක්‍යය තෝරන්න.",
-      "options": [
-        "Imamo sastanak u deset.",
-        "Hvala na razumevanju.",
-        "Izvinite, kasniću petnaest minuta."
-      ],
-      "answer": 1,
-      "explanation": "ඔයාට සිකුරාදා පහසුද?"
-    }
-  ]
-},
-{
-  "id": "sr-a2-l25",
-  "unit": "ආහාර පිසීම",
-  "title": "A2 · පාඩම 25 · ආහාර පිසීම",
-  "objective": "අමුද්‍රව්‍ය සහ පිසීමේ උපදෙස් විස්තර කිරීම",
-  "vocabulary": [
-    {
-      "word": "recept",
-      "reading": "රෙцеп්ත්",
-      "meaning": "වට්ටෝරුව",
-      "example": "recept",
-      "translation": "වට්ටෝරුව"
-    },
-    {
-      "word": "sastojak",
-      "reading": "සස්තොයාක්",
-      "meaning": "අමුද්‍රව්‍යය",
-      "example": "sastojak",
-      "translation": "අමුද්‍රව්‍යය"
-    },
-    {
-      "word": "iseckati",
-      "reading": "ඉසෙත්කාති",
-      "meaning": "කුඩා කැබලිවලට කපන්න",
-      "example": "iseckati",
-      "translation": "කුඩා කැබලිවලට කපන්න"
-    },
-    {
-      "word": "kuvati",
-      "reading": "කුතාවති",
-      "meaning": "තම්බන්න / උයන්න",
-      "example": "kuvati",
-      "translation": "තම්බන්න / උයන්න"
-    },
-    {
-      "word": "pržiti",
-      "reading": "ප්‍ර්ෂිති",
-      "meaning": "බදිනවා",
-      "example": "pržiti",
-      "translation": "බදිනවා"
-    },
-    {
-      "word": "dodati",
-      "reading": "දොදාති",
-      "meaning": "එකතු කරන්න",
-      "example": "dodati",
-      "translation": "එකතු කරන්න"
-    },
-    {
-      "word": "mešati",
-      "reading": "මෙෂාති",
-      "meaning": "කලවම් කරන්න",
-      "example": "mešati",
-      "translation": "කලවම් කරන්න"
-    },
-    {
-      "word": "ukusno",
-      "reading": "උකුස්නො",
-      "meaning": "රසවත්",
-      "example": "ukusno",
-      "translation": "රසවත්"
-    }
-  ],
-  "grammarTitle": "ව්‍යාකරණය",
-  "grammar": "වට්ටෝරු උපදෙස් සඳහා “Dodajte...” (එකතු කරන්න), “Kuvajte...” (උයන්න) වැනි විධාන භාවිතා කරන්න.",
-  "grammarTerms": [
-    {
-      "sr": "Šta nam je potrebno za supu?",
-      "reading": "ෂ්තා නාම් යෙ පොත්‍රෙබ්නො සා සුපු?",
-      "si": "සුප් එකට අපිට මොනවාද අවශ්‍ය?"
-    }
-  ],
-  "examples": [
-    {
-      "sr": "Šta nam je potrebno za supu?",
-      "reading": "ෂ්තා නාම් යෙ පොත්‍රෙබ්නො සා සුපු?",
-      "si": "සුප් එකට අපිට මොනවාද අවශ්‍ය?"
-    },
-    {
-      "sr": "Potrebni su nam krompir i šargarepa.",
-      "reading": "පොත්‍රෙබ්නි සු නාම් ක්‍රොම්පිර් ඉ ෂාර්ගරෙපා.",
-      "si": "අපිට අර්තාපල් සහ කැරට් අවශ්‍යයි."
-    },
-    {
-      "sr": "Koliko dugo treba da se kuva?",
-      "reading": "කොලිකො දුගො ත්‍රෙබා දා සේ කුවා?",
-      "si": "ඒක කොච්චර වෙලාවක් උයන්න ඕනෙද?"
-    }
-  ],
-  "dialogue": [
-    {
-      "sr": "Prvo iseckajte povrće.",
-      "reading": "ප්‍ර්වො ඉසෙත්කාය්තෙ පොව්ර්චෙ.",
-      "si": "අවසානයේ ලුණු ටිකක් එකතු කරන්න."
-    },
-    {
-      "sr": "Zatim dodajte vodu.",
-      "reading": "සාතිම් දොදාය්තෙ වොදු.",
-      "si": "අවසානයේ ලුණු ටිකක් එකතු කරන්න."
-    },
-    {
-      "sr": "Kuvajte dvadeset minuta.",
-      "reading": "කුවාය්තෙ ද්වාදෙසෙත් මිනුතා.",
-      "si": "අවසානයේ ලුණු ටිකක් එකතු කරන්න."
-    },
-    {
-      "sr": "Na kraju dodajte malo soli.",
+  {
+    "id": "sr-a2-l25",
+    "unit": "ආහාර පිසීම",
+    "title": "A2 · පාඩම 25 · ආහාර පිසීම",
+    "objective": "අමුද්‍රව්‍ය සහ පිසීමේ උපදෙස් විස්තර කිරීම",
+    "vocabulary": [
+      {
+        "word": "recept",
+        "reading": "රෙцеп්ත්",
+        "meaning": "වට්ටෝරුව",
+        "example": "recept",
+        "translation": "වට්ටෝරුව"
+      },
+      {
+        "word": "sastojak",
+        "reading": "සස්තොයාක්",
+        "meaning": "අමුද්‍රව්‍යය",
+        "example": "sastojak",
+        "translation": "අමුද්‍රව්‍යය"
+      },
+      {
+        "word": "iseckati",
+        "reading": "ඉසෙත්කාති",
+        "meaning": "කුඩා කැබලිවලට කපන්න",
+        "example": "iseckati",
+        "translation": "කුඩා කැබලිවලට කපන්න"
+      },
+      {
+        "word": "kuvati",
+        "reading": "කුතාවති",
+        "meaning": "තම්බන්න / උයන්න",
+        "example": "kuvati",
+        "translation": "තම්බන්න / උයන්න"
+      },
+      {
+        "word": "pržiti",
+        "reading": "ප්‍ර්ෂිති",
+        "meaning": "බදිනවා",
+        "example": "pržiti",
+        "translation": "බදිනවා"
+      },
+      {
+        "word": "dodati",
+        "reading": "දොදාති",
+        "meaning": "එකතු කරන්න",
+        "example": "dodati",
+        "translation": "එකතු කරන්න"
+      },
+      {
+        "word": "mešati",
+        "reading": "මෙෂාති",
+        "meaning": "කලවම් කරන්න",
+        "example": "mešati",
+        "translation": "කලවම් කරන්න"
+      },
+      {
+        "word": "ukusno",
+        "reading": "උකුස්නො",
+        "meaning": "රසවත්",
+        "example": "ukusno",
+        "translation": "රසවත්"
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "වට්ටෝරු උපදෙස් සඳහා “Dodajte...” (එකතු කරන්න), “Kuvajte...” (උයන්න) වැනි විධාන භාවිතා කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Šta nam je potrebno za supu?",
+        "reading": "ෂ්තා නාම් යෙ පොත්‍රෙබ්නො සා සුපු?",
+        "si": "සුප් එකට අපිට මොනවාද අවශ්‍ය?"
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Šta nam je potrebno za supu?",
+        "reading": "ෂ්තා නාම් යෙ පොත්‍රෙබ්නො සා සුපු?",
+        "si": "සුප් එකට අපිට මොනවාද අවශ්‍ය?"
+      },
+      {
+        "sr": "Potrebni su nam krompir i šargarepa.",
+        "reading": "පොත්‍රෙබ්නි සු නාම් ක්‍රොම්පිර් ඉ ෂාර්ගරෙපා.",
+        "si": "අපිට අර්තාපල් සහ කැරට් අවශ්‍යයි."
+      },
+      {
+        "sr": "Koliko dugo treba da se kuva?",
+        "reading": "කොලිකො දුගො ත්‍රෙබා දා සේ කුවා?",
+        "si": "ඒක කොච්චර වෙලාවක් උයන්න ඕනෙද?"
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "Prvo iseckajte povrće.",
+        "reading": "ප්‍ර්වො ඉසෙත්කාය්තෙ පොව්ර්චෙ.",
+        "si": "අවසානයේ ලුණු ටිකක් එකතු කරන්න."
+      },
+      {
+        "sr": "Zatim dodajte vodu.",
+        "reading": "සාතිම් දොදාය්තෙ වොදු.",
+        "si": "අවසානයේ ලුණු ටිකක් එකතු කරන්න."
+      },
+      {
+        "sr": "Kuvajte dvadeset minuta.",
+        "reading": "කුවාය්තෙ ද්වාදෙසෙත් මිනුතා.",
+        "si": "අවසානයේ ලුණු ටිකක් එකතු කරන්න."
+      },
+      {
+        "sr": "Na kraju dodajte malo soli.",
+        "reading": "නා ක්‍රායු දොදාය්තෙ මාලො සොලි.",
+        "si": "අවසානයේ ලුණු ටිකක් එකතු කරන්න."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: “Na kraju dodajte malo soli.”",
+      "audio": "Na kraju dodajte malo soli.",
       "reading": "නා ක්‍රායු දොදාය්තෙ මාලො සොලි.",
-      "si": "අවසානයේ ලුණු ටිකක් එකතු කරන්න."
-    }
-  ],
-  "listeningPractice": {
-    "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: “Na kraju dodajte malo soli.”",
-    "audio": "Na kraju dodajte malo soli.",
-    "reading": "නා ක්‍රායු දොදාය්තෙ මාලො සොලි.",
-    "options": [
-      "අවසානයේ ලුණු ටිකක් එකතු කරන්න.",
-      "වෙනත් අර්ථයක්",
-      "අදාළ නොවන අර්ථයක්"
-    ],
-    "answer": 0
+      "options": [
+        "අවසානයේ ලුණු ටිකක් එකතු කරන්න.",
+        "වෙනත් අර්ථයක්",
+        "අදාළ නොවන අර්ථයක්"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“වට්ටෝරුව” යන අර්ථයට ගැළපෙන වචනය තෝරන්න.",
+        "options": [
+          "recept",
+          "sastojak",
+          "iseckati"
+        ],
+        "answer": 0,
+        "explanation": "recept = වට්ටෝරුව"
+      },
+      {
+        "prompt": "“තම්බන්න / උයන්න” යන අර්ථයට ගැළපෙන වචනය තෝරන්න.",
+        "options": [
+          "iseckati",
+          "kuvati",
+          "pržiti"
+        ],
+        "answer": 1,
+        "explanation": "kuvati = තම්බන්න / උයන්න"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Šta nam je potrebno za supu?",
+          "Potrebni su nam krompir i šargarepa.",
+          "Koliko dugo treba da se kuva?"
+        ],
+        "answer": 0,
+        "explanation": "සුප් එකට අපිට මොනවාද අවශ්‍ය?"
+      },
+      {
+        "prompt": "සංවාදයේ අවසාන වාක්‍යය තෝරන්න.",
+        "options": [
+          "Prvo iseckajte povrće.",
+          "Na kraju dodajte malo soli.",
+          "Zatim dodajte vodu."
+        ],
+        "answer": 1,
+        "explanation": "අවසානයේ ලුණු ටිකක් එකතු කරන්න."
+      }
+    ]
   },
-  "practice": [
-    {
-      "prompt": "“වට්ටෝරුව” යන අර්ථයට ගැළපෙන වචනය තෝරන්න.",
-      "options": [
-        "recept",
-        "sastojak",
-        "iseckati"
-      ],
-      "answer": 0,
-      "explanation": "recept = වට්ටෝරුව"
-    },
-    {
-      "prompt": "“තම්බන්න / උයන්න” යන අර්ථයට ගැළපෙන වචනය තෝරන්න.",
-      "options": [
-        "iseckati",
-        "kuvati",
-        "pržiti"
-      ],
-      "answer": 1,
-      "explanation": "kuvati = තම්බන්න / උයන්න"
-    },
-    {
-      "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
-      "options": [
-        "Šta nam je potrebno za supu?",
-        "Potrebni su nam krompir i šargarepa.",
-        "Koliko dugo treba da se kuva?"
-      ],
-      "answer": 0,
-      "explanation": "සුප් එකට අපිට මොනවාද අවශ්‍ය?"
-    },
-    {
-      "prompt": "සංවාදයේ අවසාන වාක්‍යය තෝරන්න.",
-      "options": [
-        "Prvo iseckajte povrće.",
-        "Na kraju dodajte malo soli.",
-        "Zatim dodajte vodu."
-      ],
-      "answer": 1,
-      "explanation": "අවසානයේ ලුණු ටිකක් එකතු කරන්න."
-    }
-  ]
-},
-{
-  "id": "sr-a2-l26",
-  "unit": "පොදු සේවා සහ ලේඛන",
-  "title": "A2 · පාඩම 26 · පොදු සේවා සහ ලේඛන",
-  "objective": "පොදු සේවා ස්ථානවල අවශ්‍යතා සහ ලේඛන ගැන විමසීම",
-  "vocabulary": [
-    {
-      "word": "dokument",
-      "reading": "документ",
-      "meaning": "දොකුමෙන්ත්",
-      "example": "dokument",
-      "translation": "දොකුමෙන්ත්"
-    },
-    {
-      "word": "obrazac",
-      "reading": "ඔබ්‍රාසාත්ස්",
-      "meaning": "පෝරමය",
-      "example": "obrazac",
-      "translation": "පෝරමය"
-    },
-    {
-      "word": "potpis",
-      "reading": "පොත්පිස්",
-      "meaning": "අත්සන",
-      "example": "potpis",
-      "translation": "අත්සන"
-    },
-    {
-      "word": "adresa",
-      "reading": "අද්‍රෙසා",
-      "meaning": "ලිපිනය",
-      "example": "adresa",
-      "translation": "ලිපිනය"
-    },
-    {
-      "word": "lična karta",
-      "reading": "ලිච්නා කාර්තා",
-      "meaning": "හැඳුනුම්පත",
-      "example": "lična karta",
-      "translation": "හැඳුනුම්පත"
-    },
-    {
-      "word": "šalter",
-      "reading": "ෂාල්තෙර්",
-      "meaning": "සේවා කවුළුව",
-      "example": "šalter",
-      "translation": "සේවා කවුළුව"
-    },
-    {
-      "word": "zahtev",
-      "reading": "සාහ්තෙව්",
-      "meaning": "ඉල්ලීම",
-      "example": "zahtev",
-      "translation": "ඉල්ලීම"
-    },
-    {
-      "word": "kopija",
-      "reading": "කොපියා",
-      "meaning": "පිටපත",
-      "example": "kopija",
-      "translation": "පිටපත"
-    }
-  ],
-  "grammarTitle": "ව්‍යාකරණය",
-  "grammar": "Za traženje pomoći koristite “Gde mogu da...?” (මට කොහෙද ... කළ හැක්කේ?). “Potrebno mi je...” znači මට ... අවශ්‍යයි.",
-  "grammarTerms": [
-    {
-      "sr": "Gde mogu da predam ovaj zahtev?",
+  {
+    "id": "sr-a2-l26",
+    "unit": "පොදු සේවා සහ ලේඛන",
+    "title": "A2 · පාඩම 26 · පොදු සේවා සහ ලේඛන",
+    "objective": "පොදු සේවා ස්ථානවල අවශ්‍යතා සහ ලේඛන ගැන විමසීම",
+    "vocabulary": [
+      {
+        "word": "dokument",
+        "reading": "документ",
+        "meaning": "දොකුමෙන්ත්",
+        "example": "dokument",
+        "translation": "දොකුමෙන්ත්"
+      },
+      {
+        "word": "obrazac",
+        "reading": "ඔබ්‍රාසාත්ස්",
+        "meaning": "පෝරමය",
+        "example": "obrazac",
+        "translation": "පෝරමය"
+      },
+      {
+        "word": "potpis",
+        "reading": "පොත්පිස්",
+        "meaning": "අත්සන",
+        "example": "potpis",
+        "translation": "අත්සන"
+      },
+      {
+        "word": "adresa",
+        "reading": "අද්‍රෙසා",
+        "meaning": "ලිපිනය",
+        "example": "adresa",
+        "translation": "ලිපිනය"
+      },
+      {
+        "word": "lična karta",
+        "reading": "ලිච්නා කාර්තා",
+        "meaning": "හැඳුනුම්පත",
+        "example": "lična karta",
+        "translation": "හැඳුනුම්පත"
+      },
+      {
+        "word": "šalter",
+        "reading": "ෂාල්තෙර්",
+        "meaning": "සේවා කවුළුව",
+        "example": "šalter",
+        "translation": "සේවා කවුළුව"
+      },
+      {
+        "word": "zahtev",
+        "reading": "සාහ්තෙව්",
+        "meaning": "ඉල්ලීම",
+        "example": "zahtev",
+        "translation": "ඉල්ලීම"
+      },
+      {
+        "word": "kopija",
+        "reading": "කොපියා",
+        "meaning": "පිටපත",
+        "example": "kopija",
+        "translation": "පිටපත"
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "Za traženje pomoći koristite “Gde mogu da...?” (මට කොහෙද ... කළ හැක්කේ?). “Potrebno mi je...” znači මට ... අවශ්‍යයි.",
+    "grammarTerms": [
+      {
+        "sr": "Gde mogu da predam ovaj zahtev?",
+        "reading": "ග්දෙ මොගු දා ප්‍රෙදාම් ඔවායි සාහ්තෙව්?",
+        "si": "මට මේ ඉල්ලීම භාරදෙන්න පුළුවන් කොහෙද?"
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Gde mogu da predam ovaj zahtev?",
+        "reading": "ග්දෙ මොගු දා ප්‍රෙදාම් ඔවායි සාහ්තෙව්?",
+        "si": "මට මේ ඉල්ලීම භාරදෙන්න පුළුවන් කොහෙද?"
+      },
+      {
+        "sr": "Potrebna mi je kopija lične karte.",
+        "reading": "පොත්‍රෙබ්නා මි යෙ කොපියා ලිච්නෙ කාර්තෙ.",
+        "si": "ලේඛනය"
+      },
+      {
+        "sr": "Molim vas, popunite ovaj obrazac.",
+        "reading": "මොලිම් වාස්, පොපුනිත්තෙ ඔවායි ඔබ්‍රාසාත්ස්.",
+        "si": "මට මේ ඉල්ලීම භාරදෙන්න පුළුවන් කොහෙද?"
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "Dobar dan. Gde je šalter za dokumenta?",
+        "reading": "දොබාර් දාන්. ග්දෙ යෙ ෂාල්තෙර් සා දොකුමෙන්තා?",
+        "si": "මට මේ ඉල්ලීම භාරදෙන්න පුළුවන් කොහෙද?"
+      },
+      {
+        "sr": "Tamo, pored ulaza.",
+        "reading": "තාමො, පොරෙද් උලාසා.",
+        "si": "මට මේ ඉල්ලීම භාරදෙන්න පුළුවන් කොහෙද?"
+      },
+      {
+        "sr": "Šta mi je potrebno?",
+        "reading": "ෂ්තා මි යෙ පොත්‍රෙබ්නො?",
+        "si": "මට මේ ඉල්ලීම භාරදෙන්න පුළුවන් කොහෙද?"
+      },
+      {
+        "sr": "Ponesite ličnu kartu i kopiju.",
+        "reading": "පොනෙසිත්තෙ ලිච්නු කාර්තු ඉ කොපියු.",
+        "si": "මට මේ ඉල්ලීම භාරදෙන්න පුළුවන් කොහෙද?"
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: “Gde mogu da predam ovaj zahtev?”",
+      "audio": "Gde mogu da predam ovaj zahtev?",
       "reading": "ග්දෙ මොගු දා ප්‍රෙදාම් ඔවායි සාහ්තෙව්?",
-      "si": "මට මේ ඉල්ලීම භාරදෙන්න පුළුවන් කොහෙද?"
-    }
-  ],
-  "examples": [
-    {
-      "sr": "Gde mogu da predam ovaj zahtev?",
-      "reading": "ග්දෙ මොගු දා ප්‍රෙදාම් ඔවායි සාහ්තෙව්?",
-      "si": "මට මේ ඉල්ලීම භාරදෙන්න පුළුවන් කොහෙද?"
+      "options": [
+        "මට මේ ඉල්ලීම භාරදෙන්න පුළුවන් කොහෙද?",
+        "වෙනත් අර්ථයක්",
+        "අදාළ නොවන අර්ථයක්"
+      ],
+      "answer": 0
     },
-    {
-      "sr": "Potrebna mi je kopija lične karte.",
-      "reading": "පොත්‍රෙබ්නා මි යෙ කොපියා ලිච්නෙ කාර්තෙ.",
-      "si": "ලේඛනය"
-    },
-    {
-      "sr": "Molim vas, popunite ovaj obrazac.",
-      "reading": "මොලිම් වාස්, පොපුනිත්තෙ ඔවායි ඔබ්‍රාසාත්ස්.",
-      "si": "මට මේ ඉල්ලීම භාරදෙන්න පුළුවන් කොහෙද?"
-    }
-  ],
-  "dialogue": [
-    {
-      "sr": "Dobar dan. Gde je šalter za dokumenta?",
-      "reading": "දොබාර් දාන්. ග්දෙ යෙ ෂාල්තෙර් සා දොකුමෙන්තා?",
-      "si": "මට මේ ඉල්ලීම භාරදෙන්න පුළුවන් කොහෙද?"
-    },
-    {
-      "sr": "Tamo, pored ulaza.",
-      "reading": "තාමො, පොරෙද් උලාසා.",
-      "si": "මට මේ ඉල්ලීම භාරදෙන්න පුළුවන් කොහෙද?"
-    },
-    {
-      "sr": "Šta mi je potrebno?",
-      "reading": "ෂ්තා මි යෙ පොත්‍රෙබ්නො?",
-      "si": "මට මේ ඉල්ලීම භාරදෙන්න පුළුවන් කොහෙද?"
-    },
-    {
-      "sr": "Ponesite ličnu kartu i kopiju.",
-      "reading": "පොනෙසිත්තෙ ලිච්නු කාර්තු ඉ කොපියු.",
-      "si": "මට මේ ඉල්ලීම භාරදෙන්න පුළුවන් කොහෙද?"
-    }
-  ],
-  "listeningPractice": {
-    "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: “Gde mogu da predam ovaj zahtev?”",
-    "audio": "Gde mogu da predam ovaj zahtev?",
-    "reading": "ග්දෙ මොගු දා ප්‍රෙදාම් ඔවායි සාහ්තෙව්?",
-    "options": [
-      "මට මේ ඉල්ලීම භාරදෙන්න පුළුවන් කොහෙද?",
-      "වෙනත් අර්ථයක්",
-      "අදාළ නොවන අර්ථයක්"
-    ],
-    "answer": 0
+    "practice": [
+      {
+        "prompt": "“ලේඛනය” යන්නට ගැළපෙන වචනය තෝරන්න.",
+        "options": [
+          "dokument",
+          "obrazac",
+          "potpis"
+        ],
+        "answer": 0,
+        "explanation": "dokument = ලේඛනය"
+      },
+      {
+        "prompt": "“undefined” යන්නට ගැළපෙන වචනය තෝරන්න.",
+        "options": [
+          "potpis",
+          "adresa",
+          "lična karta"
+        ],
+        "answer": 1,
+        "explanation": "adresa = undefined"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Gde mogu da predam ovaj zahtev?",
+          "Potrebna mi je kopija lične karte.",
+          "Molim vas, popunite ovaj obrazac."
+        ],
+        "answer": 0,
+        "explanation": "මට මේ ඉල්ලීම භාරදෙන්න පුළුවන් කොහෙද?"
+      },
+      {
+        "prompt": "සංවාදයේ අවසාන වාක්‍යය තෝරන්න.",
+        "options": [
+          "Dobar dan. Gde je šalter za dokumenta?",
+          "Ponesite ličnu kartu i kopiju.",
+          "Tamo, pored ulaza."
+        ],
+        "answer": 1,
+        "explanation": "මට මේ ඉල්ලීම භාරදෙන්න පුළුවන් කොහෙද?"
+      }
+    ]
   },
-  "practice": [
-    {
-      "prompt": "“ලේඛනය” යන්නට ගැළපෙන වචනය තෝරන්න.",
-      "options": [
-        "dokument",
-        "obrazac",
-        "potpis"
-      ],
-      "answer": 0,
-      "explanation": "dokument = ලේඛනය"
-    },
-    {
-      "prompt": "“undefined” යන්නට ගැළපෙන වචනය තෝරන්න.",
-      "options": [
-        "potpis",
-        "adresa",
-        "lična karta"
-      ],
-      "answer": 1,
-      "explanation": "adresa = undefined"
-    },
-    {
-      "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
-      "options": [
-        "Gde mogu da predam ovaj zahtev?",
-        "Potrebna mi je kopija lične karte.",
-        "Molim vas, popunite ovaj obrazac."
-      ],
-      "answer": 0,
-      "explanation": "මට මේ ඉල්ලීම භාරදෙන්න පුළුවන් කොහෙද?"
-    },
-    {
-      "prompt": "සංවාදයේ අවසාන වාක්‍යය තෝරන්න.",
-      "options": [
-        "Dobar dan. Gde je šalter za dokumenta?",
-        "Ponesite ličnu kartu i kopiju.",
-        "Tamo, pored ulaza."
-      ],
-      "answer": 1,
-      "explanation": "මට මේ ඉල්ලීම භාරදෙන්න පුළුවන් කොහෙද?"
-    }
-  ]
-},
-{
-  "id": "sr-a2-l27",
-  "unit": "දුරකථන සහ අන්තර්ජාල සන්නිවේදනය",
-  "title": "A2 · පාඩම 27 · දුරකථන සහ අන්තර්ජාල සන්නිවේදනය",
-  "objective": "දුරකථන ගැටලු සහ අන්තර්ජාල සේවා ගැන කතා කිරීම",
-  "vocabulary": [
-    {
-      "word": "poziv",
-      "reading": "පොසිව්",
-      "meaning": "දුරකථන ඇමතුම",
-      "example": "poziv",
-      "translation": "දුරකථන ඇමතුම"
-    },
-    {
-      "word": "poruka",
-      "reading": "පොරුකා",
-      "meaning": "පණිවිඩය",
-      "example": "poruka",
-      "translation": "පණිවිඩය"
-    },
-    {
-      "word": "mreža",
-      "reading": "ම්‍රෙෂා",
-      "meaning": "ජාලය",
-      "example": "mreža",
-      "translation": "ජාලය"
-    },
-    {
-      "word": "signal",
-      "reading": "සිග්නාල්",
-      "meaning": "සංඥාව",
-      "example": "signal",
-      "translation": "සංඥාව"
-    },
-    {
-      "word": "punjač",
-      "reading": "පුන්යාච්",
-      "meaning": "චාජරය",
-      "example": "punjač",
-      "translation": "චාජරය"
-    },
-    {
-      "word": "baterija",
-      "reading": "බාතෙරියා",
-      "meaning": "බැටරිය",
-      "example": "baterija",
-      "translation": "බැටරිය"
-    },
-    {
-      "word": "internet paket",
-      "reading": "ඉන්ටර්නෙත් පාකෙත්",
-      "meaning": "අන්තර්ජාල පැකේජය",
-      "example": "internet paket",
-      "translation": "අන්තර්ජාල පැකේජය"
-    },
-    {
-      "word": "lozinka",
-      "reading": "ලොසින්කා",
-      "meaning": "මුරපදය",
-      "example": "lozinka",
-      "translation": "මුරපදය"
-    }
-  ],
-  "grammarTitle": "ව්‍යාකරණය",
-  "grammar": "“Ne radi mi...” යන්නෙන් යමක් ක්‍රියා නොකරන බව කියන්න. “Možete li da proverite...?” යනු පරීක්ෂා කර දෙන ලෙස කරන ආචාරශීලී ඉල්ලීමකි.",
-  "grammarTerms": [
-    {
-      "sr": "Telefon mi ne radi dobro.",
-      "reading": "තෙලෙෆොන් මි නෙ රාදි දොබ්‍රො.",
-      "si": "මගේ දුරකථනය හොඳින් වැඩ කරන්නේ නැහැ."
-    }
-  ],
-  "examples": [
-    {
-      "sr": "Telefon mi ne radi dobro.",
-      "reading": "තෙලෙෆොන් මි නෙ රාදි දොබ්‍රො.",
-      "si": "මගේ දුරකථනය හොඳින් වැඩ කරන්නේ නැහැ."
-    },
-    {
-      "sr": "Nemam dovoljno signala.",
-      "reading": "නෙමාම් දොව්ල්ය්නො සිග්නාලා.",
-      "si": "මගේ දුරකථනය හොඳින් වැඩ කරන්නේ නැහැ."
-    },
-    {
-      "sr": "Možete li da proverite moj internet paket?",
-      "reading": "මොෂෙතෙ ලි දා ප්‍රොවෙරිත්තෙ මොයි ඉන්ටර්නෙත් පාකෙත්?",
-      "si": "මගේ දුරකථනය හොඳින් වැඩ කරන්නේ නැහැ."
-    }
-  ],
-  "dialogue": [
-    {
-      "sr": "Ne mogu da pošaljem poruku.",
-      "reading": "නෙ මොගු දා පොෂාල්යෙම් පොරුකු.",
-      "si": "මගේ දුරකථනය හොඳින් වැඩ කරන්නේ නැහැ."
-    },
-    {
-      "sr": "Da li imate internet?",
-      "reading": "දා ලි ඉමාතෙ ඉන්ටර්නෙත්?",
-      "si": "මගේ දුරකථනය හොඳින් වැඩ කරන්නේ නැහැ."
-    },
-    {
-      "sr": "Imam, ali signal je slab.",
-      "reading": "ඉමාම්, අලි සිග්නාල් යෙ ස්ලාබ්.",
-      "si": "මගේ දුරකථනය හොඳින් වැඩ කරන්නේ නැහැ."
-    },
-    {
-      "sr": "Pokušaću ponovo kasnije.",
-      "reading": "පොකුෂාචු පොනොවො කස්නියේ.",
-      "si": "මගේ දුරකථනය හොඳින් වැඩ කරන්නේ නැහැ."
-    }
-  ],
-  "listeningPractice": {
-    "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: “Telefon mi ne radi dobro.”",
-    "audio": "Telefon mi ne radi dobro.",
-    "reading": "තෙලෙෆොන් මි නෙ රාදි දොබ්‍රො.",
-    "options": [
-      "මගේ දුරකථනය හොඳින් වැඩ කරන්නේ නැහැ.",
-      "වෙනත් අර්ථයක්",
-      "අදාළ නොවන අර්ථයක්"
+  {
+    "id": "sr-a2-l27",
+    "unit": "දුරකථන සහ අන්තර්ජාල සන්නිවේදනය",
+    "title": "A2 · පාඩම 27 · දුරකථන සහ අන්තර්ජාල සන්නිවේදනය",
+    "objective": "දුරකථන ගැටලු සහ අන්තර්ජාල සේවා ගැන කතා කිරීම",
+    "vocabulary": [
+      {
+        "word": "poziv",
+        "reading": "පොසිව්",
+        "meaning": "දුරකථන ඇමතුම",
+        "example": "poziv",
+        "translation": "දුරකථන ඇමතුම"
+      },
+      {
+        "word": "poruka",
+        "reading": "පොරුකා",
+        "meaning": "පණිවිඩය",
+        "example": "poruka",
+        "translation": "පණිවිඩය"
+      },
+      {
+        "word": "mreža",
+        "reading": "ම්‍රෙෂා",
+        "meaning": "ජාලය",
+        "example": "mreža",
+        "translation": "ජාලය"
+      },
+      {
+        "word": "signal",
+        "reading": "සිග්නාල්",
+        "meaning": "සංඥාව",
+        "example": "signal",
+        "translation": "සංඥාව"
+      },
+      {
+        "word": "punjač",
+        "reading": "පුන්යාච්",
+        "meaning": "චාජරය",
+        "example": "punjač",
+        "translation": "චාජරය"
+      },
+      {
+        "word": "baterija",
+        "reading": "බාතෙරියා",
+        "meaning": "බැටරිය",
+        "example": "baterija",
+        "translation": "බැටරිය"
+      },
+      {
+        "word": "internet paket",
+        "reading": "ඉන්ටර්නෙත් පාකෙත්",
+        "meaning": "අන්තර්ජාල පැකේජය",
+        "example": "internet paket",
+        "translation": "අන්තර්ජාල පැකේජය"
+      },
+      {
+        "word": "lozinka",
+        "reading": "ලොසින්කා",
+        "meaning": "මුරපදය",
+        "example": "lozinka",
+        "translation": "මුරපදය"
+      }
     ],
-    "answer": 0
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "“Ne radi mi...” යන්නෙන් යමක් ක්‍රියා නොකරන බව කියන්න. “Možete li da proverite...?” යනු පරීක්ෂා කර දෙන ලෙස කරන ආචාරශීලී ඉල්ලීමකි.",
+    "grammarTerms": [
+      {
+        "sr": "Telefon mi ne radi dobro.",
+        "reading": "තෙලෙෆොන් මි නෙ රාදි දොබ්‍රො.",
+        "si": "මගේ දුරකථනය හොඳින් වැඩ කරන්නේ නැහැ."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Telefon mi ne radi dobro.",
+        "reading": "තෙලෙෆොන් මි නෙ රාදි දොබ්‍රො.",
+        "si": "මගේ දුරකථනය හොඳින් වැඩ කරන්නේ නැහැ."
+      },
+      {
+        "sr": "Nemam dovoljno signala.",
+        "reading": "නෙමාම් දොව්ල්ය්නො සිග්නාලා.",
+        "si": "මගේ දුරකථනය හොඳින් වැඩ කරන්නේ නැහැ."
+      },
+      {
+        "sr": "Možete li da proverite moj internet paket?",
+        "reading": "මොෂෙතෙ ලි දා ප්‍රොවෙරිත්තෙ මොයි ඉන්ටර්නෙත් පාකෙත්?",
+        "si": "මගේ දුරකථනය හොඳින් වැඩ කරන්නේ නැහැ."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "Ne mogu da pošaljem poruku.",
+        "reading": "නෙ මොගු දා පොෂාල්යෙම් පොරුකු.",
+        "si": "මගේ දුරකථනය හොඳින් වැඩ කරන්නේ නැහැ."
+      },
+      {
+        "sr": "Da li imate internet?",
+        "reading": "දා ලි ඉමාතෙ ඉන්ටර්නෙත්?",
+        "si": "මගේ දුරකථනය හොඳින් වැඩ කරන්නේ නැහැ."
+      },
+      {
+        "sr": "Imam, ali signal je slab.",
+        "reading": "ඉමාම්, අලි සිග්නාල් යෙ ස්ලාබ්.",
+        "si": "මගේ දුරකථනය හොඳින් වැඩ කරන්නේ නැහැ."
+      },
+      {
+        "sr": "Pokušaću ponovo kasnije.",
+        "reading": "පොකුෂාචු පොනොවො කස්නියේ.",
+        "si": "මගේ දුරකථනය හොඳින් වැඩ කරන්නේ නැහැ."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: “Telefon mi ne radi dobro.”",
+      "audio": "Telefon mi ne radi dobro.",
+      "reading": "තෙලෙෆොන් මි නෙ රාදි දොබ්‍රො.",
+      "options": [
+        "මගේ දුරකථනය හොඳින් වැඩ කරන්නේ නැහැ.",
+        "වෙනත් අර්ථයක්",
+        "අදාළ නොවන අර්ථයක්"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“undefined” යන්නට ගැළපෙන වචනය තෝරන්න.",
+        "options": [
+          "poziv",
+          "poruka",
+          "mreža"
+        ],
+        "answer": 0,
+        "explanation": "poziv = undefined"
+      },
+      {
+        "prompt": "“undefined” යන්නට ගැළපෙන වචනය තෝරන්න.",
+        "options": [
+          "mreža",
+          "signal",
+          "punjač"
+        ],
+        "answer": 1,
+        "explanation": "signal = undefined"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Telefon mi ne radi dobro.",
+          "Nemam dovoljno signala.",
+          "Možete li da proverite moj internet paket?"
+        ],
+        "answer": 0,
+        "explanation": "මගේ දුරකථනය හොඳින් වැඩ කරන්නේ නැහැ."
+      },
+      {
+        "prompt": "සංවාදයේ අවසාන වාක්‍යය තෝරන්න.",
+        "options": [
+          "Ne mogu da pošaljem poruku.",
+          "Pokušaću ponovo kasnije.",
+          "Da li imate internet?"
+        ],
+        "answer": 1,
+        "explanation": "මගේ දුරකථනය හොඳින් වැඩ කරන්නේ නැහැ."
+      }
+    ]
   },
-  "practice": [
-    {
-      "prompt": "“undefined” යන්නට ගැළපෙන වචනය තෝරන්න.",
-      "options": [
-        "poziv",
-        "poruka",
-        "mreža"
-      ],
-      "answer": 0,
-      "explanation": "poziv = undefined"
-    },
-    {
-      "prompt": "“undefined” යන්නට ගැළපෙන වචනය තෝරන්න.",
-      "options": [
-        "mreža",
-        "signal",
-        "punjač"
-      ],
-      "answer": 1,
-      "explanation": "signal = undefined"
-    },
-    {
-      "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
-      "options": [
-        "Telefon mi ne radi dobro.",
-        "Nemam dovoljno signala.",
-        "Možete li da proverite moj internet paket?"
-      ],
-      "answer": 0,
-      "explanation": "මගේ දුරකථනය හොඳින් වැඩ කරන්නේ නැහැ."
-    },
-    {
-      "prompt": "සංවාදයේ අවසාන වාක්‍යය තෝරන්න.",
-      "options": [
-        "Ne mogu da pošaljem poruku.",
-        "Pokušaću ponovo kasnije.",
-        "Da li imate internet?"
-      ],
-      "answer": 1,
-      "explanation": "මගේ දුරකථනය හොඳින් වැඩ කරන්නේ නැහැ."
-    }
-  ]
-},
-{
-  "id": "sr-a2-l28",
-  "unit": "උත්සව සහ ආරාධනා",
-  "title": "A2 · පාඩම 28 · උත්සව සහ ආරාධනා",
-  "objective": "උත්සවයකට ආරාධනා කිරීම සහ සහභාගී වීම තහවුරු කිරීම",
-  "vocabulary": [
-    {
-      "word": "proslava",
-      "reading": "ප්‍රොස්ලාවා",
-      "meaning": "උත්සවය",
-      "example": "proslava",
-      "translation": "උත්සවය"
-    },
-    {
-      "word": "rođendan",
-      "reading": "රොජෙන්දාන්",
-      "meaning": "උපන්දිනය",
-      "example": "rođendan",
-      "translation": "උපන්දිනය"
-    },
-    {
-      "word": "pozivnica",
-      "reading": "පොසිව්නිතසා",
-      "meaning": "ආරාධනා පත්‍රය",
-      "example": "pozivnica",
-      "translation": "ආරාධනා පත්‍රය"
-    },
-    {
-      "word": "gost",
-      "reading": "ගොස්ත්",
-      "meaning": "අමුත්තා",
-      "example": "gost",
-      "translation": "අමුත්තා"
-    },
-    {
-      "word": "poklon",
-      "reading": "පොක්ලොන්",
-      "meaning": "තෑග්ග",
-      "example": "poklon",
-      "translation": "තෑග්ග"
-    },
-    {
-      "word": "slaviti",
-      "reading": "ස්ලාවිති",
-      "meaning": "සමරනවා",
-      "example": "slaviti",
-      "translation": "සමරනවා"
-    },
-    {
-      "word": "prihvatiti",
-      "reading": "ප්‍රිහ්වාතිති",
-      "meaning": "පිළිගන්නවා",
-      "example": "prihvatiti",
-      "translation": "පිළිගන්නවා"
-    },
-    {
-      "word": "odbiti",
-      "reading": "ඔද්බිති",
-      "meaning": "ප්‍රතික්ෂේප කරනවා",
-      "example": "odbiti",
-      "translation": "ප්‍රතික්ෂේප කරනවා"
-    }
-  ],
-  "grammarTitle": "ව්‍යාකරණය",
-  "grammar": "ආරාධනා කිරීමට “Želiš li da dođeš...?” කියන්න. ආරාධනාව පිළිගැනීමට “Rado ću doći” භාවිතා කරන්න.",
-  "grammarTerms": [
-    {
-      "sr": "Pozivam te na moj rođendan.",
-      "reading": "පොසිවාම් තෙ නා මොයි රොජෙන්දාන්.",
-      "si": "ආරාධනාවට ස්තුතියි, මම සතුටින් එන්නම්."
-    }
-  ],
-  "examples": [
-    {
-      "sr": "Pozivam te na moj rođendan.",
-      "reading": "පොසිවාම් තෙ නා මොයි රොජෙන්දාන්.",
-      "si": "ආරාධනාවට ස්තුතියි, මම සතුටින් එන්නම්."
-    },
-    {
-      "sr": "Hvala, rado ću doći.",
+  {
+    "id": "sr-a2-l28",
+    "unit": "උත්සව සහ ආරාධනා",
+    "title": "A2 · පාඩම 28 · උත්සව සහ ආරාධනා",
+    "objective": "උත්සවයකට ආරාධනා කිරීම සහ සහභාගී වීම තහවුරු කිරීම",
+    "vocabulary": [
+      {
+        "word": "proslava",
+        "reading": "ප්‍රොස්ලාවා",
+        "meaning": "උත්සවය",
+        "example": "proslava",
+        "translation": "උත්සවය"
+      },
+      {
+        "word": "rođendan",
+        "reading": "රොජෙන්දාන්",
+        "meaning": "උපන්දිනය",
+        "example": "rođendan",
+        "translation": "උපන්දිනය"
+      },
+      {
+        "word": "pozivnica",
+        "reading": "පොසිව්නිතසා",
+        "meaning": "ආරාධනා පත්‍රය",
+        "example": "pozivnica",
+        "translation": "ආරාධනා පත්‍රය"
+      },
+      {
+        "word": "gost",
+        "reading": "ගොස්ත්",
+        "meaning": "අමුත්තා",
+        "example": "gost",
+        "translation": "අමුත්තා"
+      },
+      {
+        "word": "poklon",
+        "reading": "පොක්ලොන්",
+        "meaning": "තෑග්ග",
+        "example": "poklon",
+        "translation": "තෑග්ග"
+      },
+      {
+        "word": "slaviti",
+        "reading": "ස්ලාවිති",
+        "meaning": "සමරනවා",
+        "example": "slaviti",
+        "translation": "සමරනවා"
+      },
+      {
+        "word": "prihvatiti",
+        "reading": "ප්‍රිහ්වාතිති",
+        "meaning": "පිළිගන්නවා",
+        "example": "prihvatiti",
+        "translation": "පිළිගන්නවා"
+      },
+      {
+        "word": "odbiti",
+        "reading": "ඔද්බිති",
+        "meaning": "ප්‍රතික්ෂේප කරනවා",
+        "example": "odbiti",
+        "translation": "ප්‍රතික්ෂේප කරනවා"
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "ආරාධනා කිරීමට “Želiš li da dođeš...?” කියන්න. ආරාධනාව පිළිගැනීමට “Rado ću doći” භාවිතා කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Pozivam te na moj rođendan.",
+        "reading": "පොසිවාම් තෙ නා මොයි රොජෙන්දාන්.",
+        "si": "ආරාධනාවට ස්තුතියි, මම සතුටින් එන්නම්."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Pozivam te na moj rođendan.",
+        "reading": "පොසිවාම් තෙ නා මොයි රොජෙන්දාන්.",
+        "si": "ආරාධනාවට ස්තුතියි, මම සතුටින් එන්නම්."
+      },
+      {
+        "sr": "Hvala, rado ću doći.",
+        "reading": "හ්වාලා, රාදො චු දොචි.",
+        "si": "ආරාධනාවට ස්තුතියි, මම සතුටින් එන්නම්."
+      },
+      {
+        "sr": "Nažalost, ne mogu tog dana.",
+        "reading": "නාෂාලොස්ත්, නෙ මොගු තොග දනා.",
+        "si": "ආරාධනාවට ස්තුතියි, මම සතුටින් එන්නම්."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "U subotu pravim malu proslavu.",
+        "reading": "උ සුබොතු ප්‍රාවිම් මාලු ප්‍රොස්ලාවු.",
+        "si": "ආරාධනාවට ස්තුතියි, මම සතුටින් එන්නම්."
+      },
+      {
+        "sr": "Hvala na pozivu!",
+        "reading": "හ්වාලා නා පොසිවු!",
+        "si": "ආරාධනාවට ස්තුතියි, මම සතුටින් එන්නම්."
+      },
+      {
+        "sr": "U koliko sati počinje?",
+        "reading": "උ කොලිකො සාති පොචින්යෙ?",
+        "si": "ආරාධනාවට ස්තුතියි, මම සතුටින් එන්නම්."
+      },
+      {
+        "sr": "Počinje u šest.",
+        "reading": "පොචින්යෙ උ ෂෙස්ත්.",
+        "si": "ආරාධනාවට ස්තුතියි, මම සතුටින් එන්නම්."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: “Hvala, rado ću doći.”",
+      "audio": "Hvala, rado ću doći.",
       "reading": "හ්වාලා, රාදො චු දොචි.",
-      "si": "ආරාධනාවට ස්තුතියි, මම සතුටින් එන්නම්."
+      "options": [
+        "ආරාධනාවට ස්තුතියි, මම සතුටින් එන්නම්.",
+        "වෙනත් අර්ථයක්",
+        "අදාළ නොවන අර්ථයක්"
+      ],
+      "answer": 0
     },
-    {
-      "sr": "Nažalost, ne mogu tog dana.",
-      "reading": "නාෂාලොස්ත්, නෙ මොගු තොග දනා.",
-      "si": "ආරාධනාවට ස්තුතියි, මම සතුටින් එන්නම්."
-    }
-  ],
-  "dialogue": [
-    {
-      "sr": "U subotu pravim malu proslavu.",
-      "reading": "උ සුබොතු ප්‍රාවිම් මාලු ප්‍රොස්ලාවු.",
-      "si": "ආරාධනාවට ස්තුතියි, මම සතුටින් එන්නම්."
-    },
-    {
-      "sr": "Hvala na pozivu!",
-      "reading": "හ්වාලා නා පොසිවු!",
-      "si": "ආරාධනාවට ස්තුතියි, මම සතුටින් එන්නම්."
-    },
-    {
-      "sr": "U koliko sati počinje?",
-      "reading": "උ කොලිකො සාති පොචින්යෙ?",
-      "si": "ආරාධනාවට ස්තුතියි, මම සතුටින් එන්නම්."
-    },
-    {
-      "sr": "Počinje u šest.",
-      "reading": "පොචින්යෙ උ ෂෙස්ත්.",
-      "si": "ආරාධනාවට ස්තුතියි, මම සතුටින් එන්නම්."
-    }
-  ],
-  "listeningPractice": {
-    "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: “Hvala, rado ću doći.”",
-    "audio": "Hvala, rado ću doći.",
-    "reading": "හ්වාලා, රාදො චු දොචි.",
-    "options": [
-      "ආරාධනාවට ස්තුතියි, මම සතුටින් එන්නම්.",
-      "වෙනත් අර්ථයක්",
-      "අදාළ නොවන අර්ථයක්"
-    ],
-    "answer": 0
+    "practice": [
+      {
+        "prompt": "“undefined” යන්නට ගැළපෙන වචනය තෝරන්න.",
+        "options": [
+          "proslava",
+          "rođendan",
+          "pozivnica"
+        ],
+        "answer": 0,
+        "explanation": "proslava = undefined"
+      },
+      {
+        "prompt": "“undefined” යන්නට ගැළපෙන වචනය තෝරන්න.",
+        "options": [
+          "pozivnica",
+          "gost",
+          "poklon"
+        ],
+        "answer": 1,
+        "explanation": "gost = undefined"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Pozivam te na moj rođendan.",
+          "Hvala, rado ću doći.",
+          "Nažalost, ne mogu tog dana."
+        ],
+        "answer": 0,
+        "explanation": "ආරාධනාවට ස්තුතියි, මම සතුටින් එන්නම්."
+      },
+      {
+        "prompt": "සංවාදයේ අවසාන වාක්‍යය තෝරන්න.",
+        "options": [
+          "U subotu pravim malu proslavu.",
+          "Počinje u šest.",
+          "Hvala na pozivu!"
+        ],
+        "answer": 1,
+        "explanation": "ආරාධනාවට ස්තුතියි, මම සතුටින් එන්නම්."
+      }
+    ]
   },
-  "practice": [
-    {
-      "prompt": "“undefined” යන්නට ගැළපෙන වචනය තෝරන්න.",
-      "options": [
-        "proslava",
-        "rođendan",
-        "pozivnica"
-      ],
-      "answer": 0,
-      "explanation": "proslava = undefined"
-    },
-    {
-      "prompt": "“undefined” යන්නට ගැළපෙන වචනය තෝරන්න.",
-      "options": [
-        "pozivnica",
-        "gost",
-        "poklon"
-      ],
-      "answer": 1,
-      "explanation": "gost = undefined"
-    },
-    {
-      "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
-      "options": [
-        "Pozivam te na moj rođendan.",
-        "Hvala, rado ću doći.",
-        "Nažalost, ne mogu tog dana."
-      ],
-      "answer": 0,
-      "explanation": "ආරාධනාවට ස්තුතියි, මම සතුටින් එන්නම්."
-    },
-    {
-      "prompt": "සංවාදයේ අවසාන වාක්‍යය තෝරන්න.",
-      "options": [
-        "U subotu pravim malu proslavu.",
-        "Počinje u šest.",
-        "Hvala na pozivu!"
-      ],
-      "answer": 1,
-      "explanation": "ආරාධනාවට ස්තුතියි, මම සතුටින් එන්නම්."
-    }
-  ]
-},
-{
-  "id": "sr-a2-l29",
-  "unit": "පරිසරය සහ දෛනික පුරුදු",
-  "title": "A2 · පාඩම 29 · පරිසරය සහ දෛනික පුරුදු",
-  "objective": "පරිසර හිතකාමී පුරුදු සහ අපද්‍රව්‍ය වෙන් කිරීම ගැන කතා කිරීම",
-  "vocabulary": [
-    {
-      "word": "životna sredina",
-      "reading": "ෂිවොත්නා ස්‍රෙදිනා",
-      "meaning": "පරිසරය",
-      "example": "životna sredina",
-      "translation": "පරිසරය"
-    },
-    {
-      "word": "otpad",
-      "reading": "ඔත්පාද්",
-      "meaning": "අපද්‍රව්‍ය",
-      "example": "otpad",
-      "translation": "අපද්‍රව්‍ය"
-    },
-    {
-      "word": "reciklaža",
-      "reading": "රෙත්සිකලාෂා",
-      "meaning": "ප්‍රතිචක්‍රීකරණය",
-      "example": "reciklaža",
-      "translation": "ප්‍රතිචක්‍රීකරණය"
-    },
-    {
-      "word": "plastika",
-      "reading": "ප්ලාස්තිකා",
-      "meaning": "ප්ලාස්ටික්",
-      "example": "plastika",
-      "translation": "ප්ලාස්ටික්"
-    },
-    {
-      "word": "papir",
-      "reading": "පාපිර්",
-      "meaning": "කඩදාසි",
-      "example": "papir",
-      "translation": "කඩදාසි"
-    },
-    {
-      "word": "štedeti",
-      "reading": "ෂ්තෙදෙති",
-      "meaning": "ඉතිරි කිරීම",
-      "example": "štedeti",
-      "translation": "ඉතිරි කිරීම"
-    },
-    {
-      "word": "čist",
-      "reading": "චිස්ත්",
-      "meaning": "පිරිසිදු",
-      "example": "čist",
-      "translation": "පිරිසිදු"
-    },
-    {
-      "word": "zagađenje",
-      "reading": "සාගාජෙන්යෙ",
-      "meaning": "දූෂණය",
-      "example": "zagađenje",
-      "translation": "දූෂණය"
-    }
-  ],
-  "grammarTitle": "ව්‍යාකරණය",
-  "grammar": "“Trebalo bi da...” යන්නෙන් කළ යුතු දෙයක් හෝ යෝජනාවක් දක්වයි. “Ne bi trebalo da...” යන්නෙන් නොකළ යුතු දෙයක් කියයි.",
-  "grammarTerms": [
-    {
-      "sr": "Trebalo bi da recikliramo papir.",
+  {
+    "id": "sr-a2-l29",
+    "unit": "පරිසරය සහ දෛනික පුරුදු",
+    "title": "A2 · පාඩම 29 · පරිසරය සහ දෛනික පුරුදු",
+    "objective": "පරිසර හිතකාමී පුරුදු සහ අපද්‍රව්‍ය වෙන් කිරීම ගැන කතා කිරීම",
+    "vocabulary": [
+      {
+        "word": "životna sredina",
+        "reading": "ෂිවොත්නා ස්‍රෙදිනා",
+        "meaning": "පරිසරය",
+        "example": "životna sredina",
+        "translation": "පරිසරය"
+      },
+      {
+        "word": "otpad",
+        "reading": "ඔත්පාද්",
+        "meaning": "අපද්‍රව්‍ය",
+        "example": "otpad",
+        "translation": "අපද්‍රව්‍ය"
+      },
+      {
+        "word": "reciklaža",
+        "reading": "රෙත්සිකලාෂා",
+        "meaning": "ප්‍රතිචක්‍රීකරණය",
+        "example": "reciklaža",
+        "translation": "ප්‍රතිචක්‍රීකරණය"
+      },
+      {
+        "word": "plastika",
+        "reading": "ප්ලාස්තිකා",
+        "meaning": "ප්ලාස්ටික්",
+        "example": "plastika",
+        "translation": "ප්ලාස්ටික්"
+      },
+      {
+        "word": "papir",
+        "reading": "පාපිර්",
+        "meaning": "කඩදාසි",
+        "example": "papir",
+        "translation": "කඩදාසි"
+      },
+      {
+        "word": "štedeti",
+        "reading": "ෂ්තෙදෙති",
+        "meaning": "ඉතිරි කිරීම",
+        "example": "štedeti",
+        "translation": "ඉතිරි කිරීම"
+      },
+      {
+        "word": "čist",
+        "reading": "චිස්ත්",
+        "meaning": "පිරිසිදු",
+        "example": "čist",
+        "translation": "පිරිසිදු"
+      },
+      {
+        "word": "zagađenje",
+        "reading": "සාගාජෙන්යෙ",
+        "meaning": "දූෂණය",
+        "example": "zagađenje",
+        "translation": "දූෂණය"
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "“Trebalo bi da...” යන්නෙන් කළ යුතු දෙයක් හෝ යෝජනාවක් දක්වයි. “Ne bi trebalo da...” යන්නෙන් නොකළ යුතු දෙයක් කියයි.",
+    "grammarTerms": [
+      {
+        "sr": "Trebalo bi da recikliramo papir.",
+        "reading": "ත්‍රෙබාලො බි දා රෙත්සිකලිрамො පාපිර්.",
+        "si": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Trebalo bi da recikliramo papir.",
+        "reading": "ත්‍රෙබාලො බි දා රෙත්සිකලිрамො පාපිර්.",
+        "si": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි."
+      },
+      {
+        "sr": "Ne koristim plastične kese.",
+        "reading": "නෙ කොරිස්තිම් ප්ලාස්තිච්නෙ කෙසෙ.",
+        "si": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි."
+      },
+      {
+        "sr": "Važno je da čuvamo prirodu.",
+        "reading": "වාෂ්නො යෙ දා චුවාමො ප්‍රිරොදු.",
+        "si": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "Razdvajamo papir i plastiku.",
+        "reading": "රාස්ද්වායමො පාපිර් ඉ ප්ලාස්තිකු.",
+        "si": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි."
+      },
+      {
+        "sr": "To je dobro za prirodu.",
+        "reading": "තො යෙ දොබ්‍රො සා ප්‍රිරොදු.",
+        "si": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි."
+      },
+      {
+        "sr": "Pokušavam da koristim manje plastike.",
+        "reading": "පොකුෂාවාම් දා කොරිස්තිම් මාන්යෙ ප්ලාස්තිකෙ.",
+        "si": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි."
+      },
+      {
+        "sr": "I ja takođe.",
+        "reading": "ඉ යා තාකොජෙ.",
+        "si": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: “Trebalo bi da recikliramo papir.”",
+      "audio": "Trebalo bi da recikliramo papir.",
       "reading": "ත්‍රෙබාලො බි දා රෙත්සිකලිрамො පාපිර්.",
-      "si": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි."
-    }
-  ],
-  "examples": [
-    {
-      "sr": "Trebalo bi da recikliramo papir.",
-      "reading": "ත්‍රෙබාලො බි දා රෙත්සිකලිрамො පාපිර්.",
-      "si": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි."
+      "options": [
+        "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි.",
+        "වෙනත් අර්ථයක්",
+        "අදාළ නොවන අර්ථයක්"
+      ],
+      "answer": 0
     },
-    {
-      "sr": "Ne koristim plastične kese.",
-      "reading": "නෙ කොරිස්තිම් ප්ලාස්තිච්නෙ කෙසෙ.",
-      "si": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි."
-    },
-    {
-      "sr": "Važno je da čuvamo prirodu.",
-      "reading": "වාෂ්නො යෙ දා චුවාමො ප්‍රිරොදු.",
-      "si": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි."
-    }
-  ],
-  "dialogue": [
-    {
-      "sr": "Razdvajamo papir i plastiku.",
-      "reading": "රාස්ද්වායමො පාපිර් ඉ ප්ලාස්තිකු.",
-      "si": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි."
-    },
-    {
-      "sr": "To je dobro za prirodu.",
-      "reading": "තො යෙ දොබ්‍රො සා ප්‍රිරොදු.",
-      "si": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි."
-    },
-    {
-      "sr": "Pokušavam da koristim manje plastike.",
-      "reading": "පොකුෂාවාම් දා කොරිස්තිම් මාන්යෙ ප්ලාස්තිකෙ.",
-      "si": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි."
-    },
-    {
-      "sr": "I ja takođe.",
-      "reading": "ඉ යා තාකොජෙ.",
-      "si": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි."
-    }
-  ],
-  "listeningPractice": {
-    "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: “Trebalo bi da recikliramo papir.”",
-    "audio": "Trebalo bi da recikliramo papir.",
-    "reading": "ත්‍රෙබාලො බි දා රෙත්සිකලිрамො පාපිර්.",
-    "options": [
-      "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි.",
-      "වෙනත් අර්ථයක්",
-      "අදාළ නොවන අර්ථයක්"
-    ],
-    "answer": 0
+    "practice": [
+      {
+        "prompt": "“undefined” යන්නට ගැළපෙන වචනය තෝරන්න.",
+        "options": [
+          "životna sredina",
+          "otpad",
+          "reciklaža"
+        ],
+        "answer": 0,
+        "explanation": "životna sredina = undefined"
+      },
+      {
+        "prompt": "“undefined” යන්නට ගැළපෙන වචනය තෝරන්න.",
+        "options": [
+          "reciklaža",
+          "plastika",
+          "papir"
+        ],
+        "answer": 1,
+        "explanation": "plastika = undefined"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Trebalo bi da recikliramo papir.",
+          "Ne koristim plastične kese.",
+          "Važno je da čuvamo prirodu."
+        ],
+        "answer": 0,
+        "explanation": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි."
+      },
+      {
+        "prompt": "සංවාදයේ අවසාන වාක්‍යය තෝරන්න.",
+        "options": [
+          "Razdvajamo papir i plastiku.",
+          "I ja takođe.",
+          "To je dobro za prirodu."
+        ],
+        "answer": 1,
+        "explanation": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි."
+      }
+    ]
   },
-  "practice": [
-    {
-      "prompt": "“undefined” යන්නට ගැළපෙන වචනය තෝරන්න.",
-      "options": [
-        "životna sredina",
-        "otpad",
-        "reciklaža"
-      ],
-      "answer": 0,
-      "explanation": "životna sredina = undefined"
-    },
-    {
-      "prompt": "“undefined” යන්නට ගැළපෙන වචනය තෝරන්න.",
-      "options": [
-        "reciklaža",
-        "plastika",
-        "papir"
-      ],
-      "answer": 1,
-      "explanation": "plastika = undefined"
-    },
-    {
-      "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
-      "options": [
-        "Trebalo bi da recikliramo papir.",
-        "Ne koristim plastične kese.",
-        "Važno je da čuvamo prirodu."
-      ],
-      "answer": 0,
-      "explanation": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි."
-    },
-    {
-      "prompt": "සංවාදයේ අවසාන වාක්‍යය තෝරන්න.",
-      "options": [
-        "Razdvajamo papir i plastiku.",
-        "I ja takođe.",
-        "To je dobro za prirodu."
-      ],
-      "answer": 1,
-      "explanation": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි."
-    }
-  ]
-},
-{
-  "id": "sr-a2-l30",
-  "unit": "විනෝදාංශ සහ නිදහස් කාලය",
-  "title": "A2 · පාඩම 30 · විනෝදාංශ සහ නිදහස් කාලය",
-  "objective": "විනෝදාංශ, රුචිකත්ව සහ නිදහස් කාලය ගැන විස්තර කිරීම",
-  "vocabulary": [
-    {
-      "word": "hobi",
-      "reading": "හොබි",
-      "meaning": "විනෝදාංශය",
-      "example": "hobi",
-      "translation": "විනෝදාංශය"
-    },
-    {
-      "word": "šetnja",
-      "reading": "ෂෙත්න්යා",
-      "meaning": "ඇවිදීම",
-      "example": "šetnja",
-      "translation": "ඇවිදීම"
-    },
-    {
-      "word": "članstvo",
-      "reading": "ච්ලාන්ස්ත්වො",
-      "meaning": "සාමාජිකත්වය",
-      "example": "članstvo",
-      "translation": "සාමාජිකත්වය"
-    },
-    {
-      "word": "teretana",
-      "reading": "තෙරෙතානා",
-      "meaning": "ව්‍යායාම ශාලාව",
-      "example": "teretana",
-      "translation": "ව්‍යායාම ශාලාව"
-    },
-    {
-      "word": "trening",
-      "reading": "ත්‍රෙනින්ග්",
-      "meaning": "පුහුණුව",
-      "example": "trening",
-      "translation": "පුහුණුව"
-    },
-    {
-      "word": "knjiga",
-      "reading": "ක්න්යිගා",
-      "meaning": "පොත",
-      "example": "knjiga",
-      "translation": "පොත"
-    },
-    {
-      "word": "svirati",
-      "reading": "ස්විරාති",
-      "meaning": "සංගීත භාණ්ඩයක් වාදනය කිරීම",
-      "example": "svirati",
-      "translation": "සංගීත භාණ්ඩයක් වාදනය කිරීම"
-    },
-    {
-      "word": "slobodno vreme",
-      "reading": "ස්ලොබොද්නො ව්‍රෙමෙ",
-      "meaning": "නිදහස් කාලය",
-      "example": "slobodno vreme",
-      "translation": "නිදහස් කාලය"
-    }
-  ],
-  "grammarTitle": "ව්‍යාකරණය",
-  "grammar": "රුචිකත්වයක් කියන්න “Volim da...” හෝ “Uživam u...” භාවිතා කරන්න. නිතර කරන ක්‍රියාවක් විස්තර කරන්න වර්තමාන කාලය යොදන්න.",
-  "grammarTerms": [
-    {
-      "sr": "U slobodno vreme čitam knjige.",
-      "reading": "උ ස්ලොබොද්නො ව්‍රෙමෙ චිතාම් ක්න්යිගෙ.",
-      "si": "නිදහස් කාලයේ මම පොත් කියවනවා."
-    }
-  ],
-  "examples": [
-    {
-      "sr": "U slobodno vreme čitam knjige.",
-      "reading": "උ ස්ලොබොද්නො ව්‍රෙමෙ චිතාම් ක්න්යිගෙ.",
-      "si": "නිදහස් කාලයේ මම පොත් කියවනවා."
-    },
-    {
-      "sr": "Volim da idem u teretanu.",
-      "reading": "වොලිම් දා ඉදෙම් උ තෙරෙතානු.",
-      "si": "නිදහස් කාලයේ මම පොත් කියවනවා."
-    },
-    {
-      "sr": "Vikendom često šetam.",
-      "reading": "විකෙන්දොම් චෙස්තො ෂෙතාම්.",
-      "si": "නිදහස් කාලයේ මම පොත් කියවනවා."
-    }
-  ],
-  "dialogue": [
-    {
-      "sr": "Šta radiš u slobodno vreme?",
-      "reading": "ෂ්තා රාදිෂ් උ ස්ලොබොද්නො ව්‍රෙමෙ?",
-      "si": "නිදහස් කාලයේ මම පොත් කියවනවා."
-    },
-    {
-      "sr": "Obično čitam ili slušam muziku.",
-      "reading": "ඔබිච්නො චිතාම් ඉලි ස්ලුෂාම් මුසිකු.",
-      "si": "නිදහස් කාලයේ මම පොත් කියවනවා."
-    },
-    {
-      "sr": "Da li se baviš sportom?",
-      "reading": "දා ලි සේ බාවිෂ් ස්පොර්තොම්?",
-      "si": "නිදහස් කාලයේ මම පොත් කියවනවා."
-    },
-    {
-      "sr": "Da, treniram dva puta nedeljno.",
-      "reading": "දා, ත්‍රෙනිරාම් ද්වා පුතා නෙදෙල්ය්නො.",
-      "si": "නිදහස් කාලයේ මම පොත් කියවනවා."
-    }
-  ],
-  "listeningPractice": {
-    "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: “U slobodno vreme čitam knjige.”",
-    "audio": "U slobodno vreme čitam knjige.",
-    "reading": "උ ස්ලොබොද්නො ව්‍රෙමෙ චිතාම් ක්න්යිගෙ.",
-    "options": [
-      "නිදහස් කාලයේ මම පොත් කියවනවා.",
-      "වෙනත් අර්ථයක්",
-      "අදාළ නොවන අර්ථයක්"
+  {
+    "id": "sr-a2-l30",
+    "unit": "විනෝදාංශ සහ නිදහස් කාලය",
+    "title": "A2 · පාඩම 30 · විනෝදාංශ සහ නිදහස් කාලය",
+    "objective": "විනෝදාංශ, රුචිකත්ව සහ නිදහස් කාලය ගැන විස්තර කිරීම",
+    "vocabulary": [
+      {
+        "word": "hobi",
+        "reading": "හොබි",
+        "meaning": "විනෝදාංශය",
+        "example": "hobi",
+        "translation": "විනෝදාංශය"
+      },
+      {
+        "word": "šetnja",
+        "reading": "ෂෙත්න්යා",
+        "meaning": "ඇවිදීම",
+        "example": "šetnja",
+        "translation": "ඇවිදීම"
+      },
+      {
+        "word": "članstvo",
+        "reading": "ච්ලාන්ස්ත්වො",
+        "meaning": "සාමාජිකත්වය",
+        "example": "članstvo",
+        "translation": "සාමාජිකත්වය"
+      },
+      {
+        "word": "teretana",
+        "reading": "තෙරෙතානා",
+        "meaning": "ව්‍යායාම ශාලාව",
+        "example": "teretana",
+        "translation": "ව්‍යායාම ශාලාව"
+      },
+      {
+        "word": "trening",
+        "reading": "ත්‍රෙනින්ග්",
+        "meaning": "පුහුණුව",
+        "example": "trening",
+        "translation": "පුහුණුව"
+      },
+      {
+        "word": "knjiga",
+        "reading": "ක්න්යිගා",
+        "meaning": "පොත",
+        "example": "knjiga",
+        "translation": "පොත"
+      },
+      {
+        "word": "svirati",
+        "reading": "ස්විරාති",
+        "meaning": "සංගීත භාණ්ඩයක් වාදනය කිරීම",
+        "example": "svirati",
+        "translation": "සංගීත භාණ්ඩයක් වාදනය කිරීම"
+      },
+      {
+        "word": "slobodno vreme",
+        "reading": "ස්ලොබොද්නො ව්‍රෙමෙ",
+        "meaning": "නිදහස් කාලය",
+        "example": "slobodno vreme",
+        "translation": "නිදහස් කාලය"
+      }
     ],
-    "answer": 0
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "රුචිකත්වයක් කියන්න “Volim da...” හෝ “Uživam u...” භාවිතා කරන්න. නිතර කරන ක්‍රියාවක් විස්තර කරන්න වර්තමාන කාලය යොදන්න.",
+    "grammarTerms": [
+      {
+        "sr": "U slobodno vreme čitam knjige.",
+        "reading": "උ ස්ලොබොද්නො ව්‍රෙමෙ චිතාම් ක්න්යිගෙ.",
+        "si": "නිදහස් කාලයේ මම පොත් කියවනවා."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "U slobodno vreme čitam knjige.",
+        "reading": "උ ස්ලොබොද්නො ව්‍රෙමෙ චිතාම් ක්න්යිගෙ.",
+        "si": "නිදහස් කාලයේ මම පොත් කියවනවා."
+      },
+      {
+        "sr": "Volim da idem u teretanu.",
+        "reading": "වොලිම් දා ඉදෙම් උ තෙරෙතානු.",
+        "si": "නිදහස් කාලයේ මම පොත් කියවනවා."
+      },
+      {
+        "sr": "Vikendom često šetam.",
+        "reading": "විකෙන්දොම් චෙස්තො ෂෙතාම්.",
+        "si": "නිදහස් කාලයේ මම පොත් කියවනවා."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "Šta radiš u slobodno vreme?",
+        "reading": "ෂ්තා රාදිෂ් උ ස්ලොබොද්නො ව්‍රෙමෙ?",
+        "si": "නිදහස් කාලයේ මම පොත් කියවනවා."
+      },
+      {
+        "sr": "Obično čitam ili slušam muziku.",
+        "reading": "ඔබිච්නො චිතාම් ඉලි ස්ලුෂාම් මුසිකු.",
+        "si": "නිදහස් කාලයේ මම පොත් කියවනවා."
+      },
+      {
+        "sr": "Da li se baviš sportom?",
+        "reading": "දා ලි සේ බාවිෂ් ස්පොර්තොම්?",
+        "si": "නිදහස් කාලයේ මම පොත් කියවනවා."
+      },
+      {
+        "sr": "Da, treniram dva puta nedeljno.",
+        "reading": "දා, ත්‍රෙනිරාම් ද්වා පුතා නෙදෙල්ය්නො.",
+        "si": "නිදහස් කාලයේ මම පොත් කියවනවා."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: “U slobodno vreme čitam knjige.”",
+      "audio": "U slobodno vreme čitam knjige.",
+      "reading": "උ ස්ලොබොද්නො ව්‍රෙමෙ චිතාම් ක්න්යිගෙ.",
+      "options": [
+        "නිදහස් කාලයේ මම පොත් කියවනවා.",
+        "වෙනත් අර්ථයක්",
+        "අදාළ නොවන අර්ථයක්"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“undefined” යන්නට ගැළපෙන වචනය තෝරන්න.",
+        "options": [
+          "hobi",
+          "šetnja",
+          "članstvo"
+        ],
+        "answer": 0,
+        "explanation": "hobi = undefined"
+      },
+      {
+        "prompt": "“undefined” යන්නට ගැළපෙන වචනය තෝරන්න.",
+        "options": [
+          "članstvo",
+          "teretana",
+          "trening"
+        ],
+        "answer": 1,
+        "explanation": "teretana = undefined"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "U slobodno vreme čitam knjige.",
+          "Volim da idem u teretanu.",
+          "Vikendom često šetam."
+        ],
+        "answer": 0,
+        "explanation": "නිදහස් කාලයේ මම පොත් කියවනවා."
+      },
+      {
+        "prompt": "සංවාදයේ අවසාන වාක්‍යය තෝරන්න.",
+        "options": [
+          "Šta radiš u slobodno vreme?",
+          "Da, treniram dva puta nedeljno.",
+          "Obično čitam ili slušam muziku."
+        ],
+        "answer": 1,
+        "explanation": "නිදහස් කාලයේ මම පොත් කියවනවා."
+      }
+    ]
   },
-  "practice": [
-    {
-      "prompt": "“undefined” යන්නට ගැළපෙන වචනය තෝරන්න.",
+  {
+    "id": "sr-a2-l31",
+    "unit": "බැංකු සේවා සහ ගෙවීම්",
+    "title": "A2 · පාඩම 31 · බැංකු සේවා සහ ගෙවීම්",
+    "objective": "බැංකුවකදී ගිණුම්, කාඩ්පත් සහ ගෙවීම් ගැන කතා කිරීම",
+    "vocabulary": [
+      {
+        "word": "račun",
+        "reading": "රාචුන්",
+        "meaning": "ගිණුම / බිල",
+        "example": "račun",
+        "translation": "ගිණුම / බිල"
+      },
+      {
+        "word": "bankomat",
+        "reading": "බන්කොමාත්",
+        "meaning": "ATM යන්ත්‍රය",
+        "example": "bankomat",
+        "translation": "ATM යන්ත්‍රය"
+      },
+      {
+        "word": "kartica",
+        "reading": "කාර්තිත්සා",
+        "meaning": "කාඩ්පත",
+        "example": "kartica",
+        "translation": "කාඩ්පත"
+      },
+      {
+        "word": "gotovina",
+        "reading": "ගොතොවිනා",
+        "meaning": "මුදල් නෝට්ටු",
+        "example": "gotovina",
+        "translation": "මුදල් නෝට්ටු"
+      },
+      {
+        "word": "uplata",
+        "reading": "උප්ලාතා",
+        "meaning": "මුදල් තැන්පත් කිරීම",
+        "example": "uplata",
+        "translation": "මුදල් තැන්පත් කිරීම"
+      },
+      {
+        "word": "isplata",
+        "reading": "ඉස්ප්ලාතා",
+        "meaning": "මුදල් ලබාගැනීම",
+        "example": "isplata",
+        "translation": "මුදල් ලබාගැනීම"
+      },
+      {
+        "word": "provizija",
+        "reading": "ප්‍රොවිසියා",
+        "meaning": "සේවා ගාස්තුව",
+        "example": "provizija",
+        "translation": "සේවා ගාස්තුව"
+      },
+      {
+        "word": "stanje",
+        "reading": "ස්තාන්යෙ",
+        "meaning": "ශේෂය",
+        "example": "stanje",
+        "translation": "ශේෂය"
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "“Želeo/Želela bih...” යනු “මම කැමතියි...” යන ආචාරශීලී ඉල්ලීමයි. “Mogu li...?” යනු “මට ... පුළුවන්ද?” යන්නයි.",
+    "grammarTerms": [
+      {
+        "sr": "Želeo bih da otvorim račun.",
+        "reading": "ෂෙලෙඔ බිහ් දා ඔත්වොරිම් රාචුන්.",
+        "si": "මට ගිණුමක් විවෘත කරන්න ඕනේ."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Želeo bih da otvorim račun.",
+        "reading": "ෂෙලෙඔ බිහ් දා ඔත්වොරිම් රාචුන්.",
+        "si": "මට ගිණුමක් විවෘත කරන්න ඕනේ."
+      },
+      {
+        "sr": "Da li mogu da platim karticom?",
+        "reading": "දා ලි මොගු දා ප්ලාතිම් කාර්තිත්සොම්?",
+        "si": "මට කාඩ්පතෙන් ගෙවන්න පුළුවන්ද?"
+      },
+      {
+        "sr": "Kolika je provizija?",
+        "reading": "කොලිකා යේ ප්‍රොවිසියා?",
+        "si": "සේවා ගාස්තුව කීයද?"
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "Dobar dan. Želeo bih da otvorim račun.",
+        "reading": "දොබාර් දාන්. ෂෙලෙඔ බිහ් දා ඔත්වොරිම් රාචුන්.",
+        "si": "සුබ දවසක්. මට ගිණුමක් විවෘත කරන්න ඕනේ."
+      },
+      {
+        "sr": "Da li imate ličnu kartu?",
+        "reading": "දා ලි ඉමාතෙ ලිච්නු කාර්තු?",
+        "si": "ඔබට හැඳුනුම්පත තියෙනවාද?"
+      },
+      {
+        "sr": "Da, izvolite.",
+        "reading": "දා, ඉස්වොලිතෙ.",
+        "si": "ඔව්, මෙන්න."
+      },
+      {
+        "sr": "Hvala. Evo formulara.",
+        "reading": "හ්වාලා. එවො ෆෝර්මුලාරා.",
+        "si": "ස්තුතියි. මෙන්න පෝරමය."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: “Želeo bih da otvorim račun.”",
+      "audio": "Želeo bih da otvorim račun.",
+      "reading": "ෂෙලෙඔ බිහ් දා ඔත්වොරිම් රාචුන්.",
       "options": [
-        "hobi",
-        "šetnja",
-        "članstvo"
+        "මට ගිණුමක් විවෘත කරන්න ඕනේ.",
+        "ATM යන්ත්‍රය",
+        "කාඩ්පත"
       ],
-      "answer": 0,
-      "explanation": "hobi = undefined"
+      "answer": 0
     },
-    {
-      "prompt": "“undefined” යන්නට ගැළපෙන වචනය තෝරන්න.",
+    "practice": [
+      {
+        "prompt": "“ගිණුම / බිල” යන්නට ගැළපෙන වචනය තෝරන්න.",
+        "options": [
+          "račun",
+          "bankomat",
+          "kartica"
+        ],
+        "answer": 0,
+        "explanation": "račun = ගිණුම / බිල"
+      },
+      {
+        "prompt": "“ATM යන්ත්‍රය” යන්නට ගැළපෙන වචනය තෝරන්න.",
+        "options": [
+          "račun",
+          "bankomat",
+          "kartica"
+        ],
+        "answer": 1,
+        "explanation": "bankomat = ATM යන්ත්‍රය"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Želeo bih da otvorim račun.",
+          "Da li mogu da platim karticom?",
+          "Kolika je provizija?"
+        ],
+        "answer": 0,
+        "explanation": "මට ගිණුමක් විවෘත කරන්න ඕනේ."
+      },
+      {
+        "prompt": "සංවාදයේ අවසාන වාක්‍යය තෝරන්න.",
+        "options": [
+          "Dobar dan. Želeo bih da otvorim račun.",
+          "Hvala. Evo formulara.",
+          "Da, izvolite."
+        ],
+        "answer": 1,
+        "explanation": "ස්තුතියි. මෙන්න පෝරමය."
+      }
+    ]
+  },
+  {
+    "id": "sr-a2-l32",
+    "unit": "තැපැල් සේවා සහ පාර්සල්",
+    "title": "A2 · පාඩම 32 · තැපැල් සේවා සහ පාර්සල්",
+    "objective": "ලිපි සහ පාර්සල් යැවීම, ලැබීම ගැන විමසීම",
+    "vocabulary": [
+      {
+        "word": "pošta",
+        "reading": "පොෂ්තා",
+        "meaning": "තැපැල් කාර්යාලය",
+        "example": "pošta",
+        "translation": "තැපැල් කාර්යාලය"
+      },
+      {
+        "word": "paket",
+        "reading": "පාකෙත්",
+        "meaning": "පාර්සලය",
+        "example": "paket",
+        "translation": "පාර්සලය"
+      },
+      {
+        "word": "pismo",
+        "reading": "පිස්මො",
+        "meaning": "ලිපිය",
+        "example": "pismo",
+        "translation": "ලිපිය"
+      },
+      {
+        "word": "adresa",
+        "reading": "අද්‍රෙසා",
+        "meaning": "ලිපිනය",
+        "example": "adresa",
+        "translation": "ලිපිනය"
+      },
+      {
+        "word": "pošiljalac",
+        "reading": "පොෂිලයාළත්ස්",
+        "meaning": "යවන්නා",
+        "example": "pošiljalac",
+        "translation": "යවන්නා"
+      },
+      {
+        "word": "primalac",
+        "reading": "ප්‍රිමාළත්ස්",
+        "meaning": "ලබන්නා",
+        "example": "primalac",
+        "translation": "ලබන්නා"
+      },
+      {
+        "word": "markica",
+        "reading": "මාර්කිත්සා",
+        "meaning": "මුද්දරය",
+        "example": "markica",
+        "translation": "මුද්දරය"
+      },
+      {
+        "word": "isporuka",
+        "reading": "ඉස්පොරුකා",
+        "meaning": "බෙදාහැරීම",
+        "example": "isporuka",
+        "translation": "බෙදාහැරීම"
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "“Koliko traje...?” යනු කාලය විමසීමයි. “Želim da pošaljem...” යනු යමක් යැවීමට අවශ්‍ය බවයි.",
+    "grammarTerms": [
+      {
+        "sr": "Želim da pošaljem paket.",
+        "reading": "ෂෙලිම් දා පොෂාල්යෙම් පාකෙත්.",
+        "si": "මට පාර්සලයක් යවන්න ඕනේ."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Želim da pošaljem paket.",
+        "reading": "ෂෙලිම් දා පොෂාල්යෙම් පාකෙත්.",
+        "si": "මට පාර්සලයක් යවන්න ඕනේ."
+      },
+      {
+        "sr": "Koliko traje isporuka?",
+        "reading": "කොලිකො ත්‍රායේ ඉස්පොරුකා?",
+        "si": "බෙදාහැරීමට කොපමණ කාලයක් යනවාද?"
+      },
+      {
+        "sr": "Ovo je moja adresa.",
+        "reading": "ඔවො යේ මොයා අද්‍රෙසා.",
+        "si": "මේ මගේ ලිපිනයයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "Dobar dan. Želim da pošaljem paket.",
+        "reading": "දොබාර් දාන්. ෂෙලිම් දා පොෂාල්යෙම් පාකෙත්.",
+        "si": "සුබ දවසක්. මට පාර්සලයක් යවන්න ඕනේ."
+      },
+      {
+        "sr": "Gde šaljete paket?",
+        "reading": "ග්දෙ ෂාල්යෙතෙ පාකෙත්?",
+        "si": "ඔබ පාර්සලය යවන්නේ කොහෙටද?"
+      },
+      {
+        "sr": "U Novi Sad.",
+        "reading": "උ නොවි සාද්.",
+        "si": "නොවි සාද් නගරයට."
+      },
+      {
+        "sr": "Isporuka traje dva dana.",
+        "reading": "ඉස්පොරුකා ත්‍රායේ ද්වා දානා.",
+        "si": "බෙදාහැරීමට දවස් දෙකක් යනවා."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: “Želim da pošaljem paket.”",
+      "audio": "Želim da pošaljem paket.",
+      "reading": "ෂෙලිම් දා පොෂාල්යෙම් පාකෙත්.",
       "options": [
-        "članstvo",
-        "teretana",
-        "trening"
+        "මට පාර්සලයක් යවන්න ඕනේ.",
+        "පාර්සලය",
+        "ලිපිය"
       ],
-      "answer": 1,
-      "explanation": "teretana = undefined"
+      "answer": 0
     },
-    {
-      "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+    "practice": [
+      {
+        "prompt": "“තැපැල් කාර්යාලය” යන්නට ගැළපෙන වචනය තෝරන්න.",
+        "options": [
+          "pošta",
+          "paket",
+          "pismo"
+        ],
+        "answer": 0,
+        "explanation": "pošta = තැපැල් කාර්යාලය"
+      },
+      {
+        "prompt": "“පාර්සලය” යන්නට ගැළපෙන වචනය තෝරන්න.",
+        "options": [
+          "pošta",
+          "paket",
+          "pismo"
+        ],
+        "answer": 1,
+        "explanation": "paket = පාර්සලය"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Želim da pošaljem paket.",
+          "Koliko traje isporuka?",
+          "Ovo je moja adresa."
+        ],
+        "answer": 0,
+        "explanation": "මට පාර්සලයක් යවන්න ඕනේ."
+      },
+      {
+        "prompt": "සංවාදයේ අවසාන වාක්‍යය තෝරන්න.",
+        "options": [
+          "Dobar dan. Želim da pošaljem paket.",
+          "Isporuka traje dva dana.",
+          "U Novi Sad."
+        ],
+        "answer": 1,
+        "explanation": "බෙදාහැරීමට දවස් දෙකක් යනවා."
+      }
+    ]
+  },
+  {
+    "id": "sr-a2-l33",
+    "unit": "පොදු ප්‍රවාහනයේ ගැටලු",
+    "title": "A2 · පාඩම 33 · පොදු ප්‍රවාහනයේ ගැටලු",
+    "objective": "ප්‍රමාද, අවලංගු ගමන් සහ විකල්ප මාර්ග ගැන කතා කිරීම",
+    "vocabulary": [
+      {
+        "word": "kašnjenje",
+        "reading": "කාෂ්න්යෙන්යෙ",
+        "meaning": "ප්‍රමාදය",
+        "example": "kašnjenje",
+        "translation": "ප්‍රමාදය"
+      },
+      {
+        "word": "otkazano",
+        "reading": "ඔත්කාසානො",
+        "meaning": "අවලංගු කළා",
+        "example": "otkazano",
+        "translation": "අවලංගු කළා"
+      },
+      {
+        "word": "polazak",
+        "reading": "පොලාසාක්",
+        "meaning": "පිටත්වීම",
+        "example": "polazak",
+        "translation": "පිටත්වීම"
+      },
+      {
+        "word": "dolazak",
+        "reading": "දොලාසාක්",
+        "meaning": "පැමිණීම",
+        "example": "dolazak",
+        "translation": "පැමිණීම"
+      },
+      {
+        "word": "peron",
+        "reading": "පෙරොන්",
+        "meaning": "වේදිකාව",
+        "example": "peron",
+        "translation": "වේදිකාව"
+      },
+      {
+        "word": "presedanje",
+        "reading": "ප්‍රෙසෙදාන්යෙ",
+        "meaning": "වාහන මාරු කිරීම",
+        "example": "presedanje",
+        "translation": "වාහන මාරු කිරීම"
+      },
+      {
+        "word": "gužva",
+        "reading": "ගුෂ්වා",
+        "meaning": "තදබදය",
+        "example": "gužva",
+        "translation": "තදබදය"
+      },
+      {
+        "word": "zamena",
+        "reading": "සාමෙනා",
+        "meaning": "විකල්පය / ආදේශය",
+        "example": "zamena",
+        "translation": "විකල්පය / ආදේශය"
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "“Kasni” යනු ප්‍රමාද වෙනවා. හේතුවක් කියන්න “zbog” (නිසා) භාවිතා කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Autobus kasni dvadeset minuta.",
+        "reading": "ඔතොබුස් කාස්නි ද්වාදෙසෙත් මිනූතා.",
+        "si": "බස් රථය විනාඩි විස්සක් ප්‍රමාදයි."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Autobus kasni dvadeset minuta.",
+        "reading": "ඔතොබුස් කාස්නි ද්වාදෙසෙත් මිනූතා.",
+        "si": "බස් රථය විනාඩි විස්සක් ප්‍රමාදයි."
+      },
+      {
+        "sr": "Voz je otkazan.",
+        "reading": "වොස් යේ ඔත්කාසාන්.",
+        "si": "දුම්රිය අවලංගු කරලා."
+      },
+      {
+        "sr": "Koji je sledeći polazak?",
+        "reading": "කොයි යේ ස්ලෙදෙචි පොලාසාක්?",
+        "si": "ඊළඟ පිටත්වීම කවදාද?"
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "Izvinite, da li autobus kasni?",
+        "reading": "ඉස්විනිතෙ, දා ලි ඔතොබුස් කාස්නි?",
+        "si": "සමාවන්න, බස් රථය ප්‍රමාදද?"
+      },
+      {
+        "sr": "Da, kasni dvadeset minuta.",
+        "reading": "දා, කාස්නි ද්වාදෙසෙත් මිනූතා.",
+        "si": "ඔව්, විනාඩි විස්සක් ප්‍රමාදයි."
+      },
+      {
+        "sr": "Da li postoji drugi autobus?",
+        "reading": "දා ලි පොස්තොයි දෙුගි ඔතොබුස්?",
+        "si": "වෙනත් බස් රථයක් තියෙනවාද?"
+      },
+      {
+        "sr": "Da, polazi sa perona tri.",
+        "reading": "දා, පොලාසි සා පෙරොනා ත්‍රි.",
+        "si": "ඔව්, තුන්වන වේදිකාවෙන් පිටත් වෙනවා."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: “Autobus kasni dvadeset minuta.”",
+      "audio": "Autobus kasni dvadeset minuta.",
+      "reading": "ඔතොබුස් කාස්නි ද්වාදෙසෙත් මිනූතා.",
       "options": [
-        "U slobodno vreme čitam knjige.",
-        "Volim da idem u teretanu.",
-        "Vikendom često šetam."
+        "බස් රථය විනාඩි විස්සක් ප්‍රමාදයි.",
+        "අවලංගු කළා",
+        "පිටත්වීම"
       ],
-      "answer": 0,
-      "explanation": "නිදහස් කාලයේ මම පොත් කියවනවා."
+      "answer": 0
     },
-    {
-      "prompt": "සංවාදයේ අවසාන වාක්‍යය තෝරන්න.",
+    "practice": [
+      {
+        "prompt": "“ප්‍රමාදය” යන්නට ගැළපෙන වචනය තෝරන්න.",
+        "options": [
+          "kašnjenje",
+          "otkazano",
+          "polazak"
+        ],
+        "answer": 0,
+        "explanation": "kašnjenje = ප්‍රමාදය"
+      },
+      {
+        "prompt": "“අවලංගු කළා” යන්නට ගැළපෙන වචනය තෝරන්න.",
+        "options": [
+          "kašnjenje",
+          "otkazano",
+          "polazak"
+        ],
+        "answer": 1,
+        "explanation": "otkazano = අවලංගු කළා"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Autobus kasni dvadeset minuta.",
+          "Voz je otkazan.",
+          "Koji je sledeći polazak?"
+        ],
+        "answer": 0,
+        "explanation": "බස් රථය විනාඩි විස්සක් ප්‍රමාදයි."
+      },
+      {
+        "prompt": "සංවාදයේ අවසාන වාක්‍යය තෝරන්න.",
+        "options": [
+          "Izvinite, da li autobus kasni?",
+          "Da, polazi sa perona tri.",
+          "Da li postoji drugi autobus?"
+        ],
+        "answer": 1,
+        "explanation": "ඔව්, තුන්වන වේදිකාවෙන් පිටත් වෙනවා."
+      }
+    ]
+  },
+  {
+    "id": "sr-a2-l34",
+    "unit": "රැකියා සම්මුඛ පරීක්ෂණය",
+    "title": "A2 · පාඩම 34 · රැකියා සම්මුඛ පරීක්ෂණය",
+    "objective": "තමන්ගේ පළපුරුද්ද සහ හැකියාවන් රැකියා සම්මුඛ පරීක්ෂණයකදී විස්තර කිරීම",
+    "vocabulary": [
+      {
+        "word": "iskustvo",
+        "reading": "ඉස්කුස්ත්වො",
+        "meaning": "පළපුරුද්ද",
+        "example": "iskustvo",
+        "translation": "පළපුරුද්ද"
+      },
+      {
+        "word": "veština",
+        "reading": "වෙෂ්තිනා",
+        "meaning": "කුසලතාව",
+        "example": "veština",
+        "translation": "කුසලතාව"
+      },
+      {
+        "word": "prijava",
+        "reading": "ප්‍රියාවා",
+        "meaning": "අයදුම්පත",
+        "example": "prijava",
+        "translation": "අයදුම්පත"
+      },
+      {
+        "word": "intervju",
+        "reading": "ඉන්ටර්ව්යු",
+        "meaning": "සම්මුඛ පරීක්ෂණය",
+        "example": "intervju",
+        "translation": "සම්මුඛ පරීක්ෂණය"
+      },
+      {
+        "word": "poslodavac",
+        "reading": "පොස්ලොදාවාත්ස්",
+        "meaning": "සේවායෝජකයා",
+        "example": "poslodavac",
+        "translation": "සේවායෝජකයා"
+      },
+      {
+        "word": "zaposlenje",
+        "reading": "සාපොස්ලෙන්යෙ",
+        "meaning": "රැකියාව",
+        "example": "zaposlenje",
+        "translation": "රැකියාව"
+      },
+      {
+        "word": "odgovornost",
+        "reading": "ඔද්ගොවොර්නොස්ත්",
+        "meaning": "වගකීම",
+        "example": "odgovornost",
+        "translation": "වගකීම"
+      },
+      {
+        "word": "preporuka",
+        "reading": "ප්‍රෙපොරුකා",
+        "meaning": "නිර්දේශය",
+        "example": "preporuka",
+        "translation": "නිර්දේශය"
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "අතීත පළපුරුද්ද විස්තර කිරීමට “Radio sam...” (පිරිමි) / “Radila sam...” (ගැහැණු) යොදන්න. හැකියාව සඳහා “Mogu da...” කියන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Imam tri godine iskustva.",
+        "reading": "ඉමාම් ත්‍රි ගොදිනෙ ඉස්කුස්ත්වා.",
+        "si": "මට අවුරුදු තුනක පළපුරුද්ද තියෙනවා."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Imam tri godine iskustva.",
+        "reading": "ඉමාම් ත්‍රි ගොදිනෙ ඉස්කුස්ත්වා.",
+        "si": "මට අවුරුදු තුනක පළපුරුද්ද තියෙනවා."
+      },
+      {
+        "sr": "Dobro radim u timu.",
+        "reading": "දොබ්‍රො රාදිම් උ තීමු.",
+        "si": "මම කණ්ඩායමක හොඳින් වැඩ කරනවා."
+      },
+      {
+        "sr": "Mogu da počnem odmah.",
+        "reading": "මොගු දා පොච්නෙම් ඔද්මාහ්.",
+        "si": "මට වහාම වැඩ පටන් ගන්න පුළුවන්."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "Recite mi nešto o svom iskustvu.",
+        "reading": "රෙචිතෙ මි නෙෂ්තො ඔ ස්වොම් ඉස්කුස්ත්වු.",
+        "si": "ඔබේ පළපුරුද්ද ගැන ටිකක් කියන්න."
+      },
+      {
+        "sr": "Imam iskustvo u prodaji.",
+        "reading": "ඉමාම් ඉස්කුස්ත්වො උ ප්‍රොදායි.",
+        "si": "මට විකුණුම් අංශයේ පළපුරුද්ද තියෙනවා."
+      },
+      {
+        "sr": "Koje su vaše veštine?",
+        "reading": "කොයේ සු වාෂෙ වෙෂ්තිනෙ?",
+        "si": "ඔබේ කුසලතා මොනවාද?"
+      },
+      {
+        "sr": "Komunikativan sam i odgovoran.",
+        "reading": "කොමුනිකාතිවාන් සාම් ඉ ඔද්ගොවොරාන්.",
+        "si": "මම හොඳින් සන්නිවේදනය කරන, වගකීම් සහිත කෙනෙක්."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: “Imam tri godine iskustva.”",
+      "audio": "Imam tri godine iskustva.",
+      "reading": "ඉමාම් ත්‍රි ගොදිනෙ ඉස්කුස්ත්වා.",
       "options": [
-        "Šta radiš u slobodno vreme?",
-        "Da, treniram dva puta nedeljno.",
-        "Obično čitam ili slušam muziku."
+        "මට අවුරුදු තුනක පළපුරුද්ද තියෙනවා.",
+        "කුසලතාව",
+        "අයදුම්පත"
       ],
-      "answer": 1,
-      "explanation": "නිදහස් කාලයේ මම පොත් කියවනවා."
-    }
-  ]
-}
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“පළපුරුද්ද” යන්නට ගැළපෙන වචනය තෝරන්න.",
+        "options": [
+          "iskustvo",
+          "veština",
+          "prijava"
+        ],
+        "answer": 0,
+        "explanation": "iskustvo = පළපුරුද්ද"
+      },
+      {
+        "prompt": "“කුසලතාව” යන්නට ගැළපෙන වචනය තෝරන්න.",
+        "options": [
+          "iskustvo",
+          "veština",
+          "prijava"
+        ],
+        "answer": 1,
+        "explanation": "veština = කුසලතාව"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Imam tri godine iskustva.",
+          "Dobro radim u timu.",
+          "Mogu da počnem odmah."
+        ],
+        "answer": 0,
+        "explanation": "මට අවුරුදු තුනක පළපුරුද්ද තියෙනවා."
+      },
+      {
+        "prompt": "සංවාදයේ අවසාන වාක්‍යය තෝරන්න.",
+        "options": [
+          "Recite mi nešto o svom iskustvu.",
+          "Komunikativan sam i odgovoran.",
+          "Koje su vaše veštine?"
+        ],
+        "answer": 1,
+        "explanation": "මම හොඳින් සන්නිවේදනය කරන, වගකීම් සහිත කෙනෙක්."
+      }
+    ]
+  },
+  {
+    "id": "sr-a2-l35",
+    "unit": "නගරය සහ ප්‍රදේශය විස්තර කිරීම",
+    "title": "A2 · පාඩම 35 · නගරය සහ ප්‍රදේශය විස්තර කිරීම",
+    "objective": "තමන් ජීවත් වන ප්‍රදේශයේ පහසුකම් සහ වාතාවරණය විස්තර කිරීම",
+    "vocabulary": [
+      {
+        "word": "naselje",
+        "reading": "නාසෙල්යෙ",
+        "meaning": "අසල්වැසි ප්‍රදේශය",
+        "example": "naselje",
+        "translation": "අසල්වැසි ප්‍රදේශය"
+      },
+      {
+        "word": "centar",
+        "reading": "ත්සෙන්තාර්",
+        "meaning": "නගර මධ්‍යය",
+        "example": "centar",
+        "translation": "නගර මධ්‍යය"
+      },
+      {
+        "word": "park",
+        "reading": "පාර්ක්",
+        "meaning": "උද්‍යානය",
+        "example": "park",
+        "translation": "උද්‍යානය"
+      },
+      {
+        "word": "prodavnica",
+        "reading": "ප්‍රොදාව්නිත්සා",
+        "meaning": "සාප්පුව",
+        "example": "prodavnica",
+        "translation": "සාප්පුව"
+      },
+      {
+        "word": "škola",
+        "reading": "ෂ්කොලා",
+        "meaning": "පාසල",
+        "example": "škola",
+        "translation": "පාසල"
+      },
+      {
+        "word": "bolnica",
+        "reading": "බොල්නිත्सा",
+        "meaning": "රෝහල",
+        "example": "bolnica",
+        "translation": "රෝහල"
+      },
+      {
+        "word": "mirno",
+        "reading": "මීර්නො",
+        "meaning": "නිස්කලංක",
+        "example": "mirno",
+        "translation": "නිස්කලංක"
+      },
+      {
+        "word": "prometno",
+        "reading": "ප්‍රොමෙත්නො",
+        "meaning": "වාහන තදබදය සහිත",
+        "example": "prometno",
+        "translation": "වාහන තදබදය සහිත"
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "සසඳන්න “veći od” (වඩා විශාල) සහ “mirniji od” (වඩා නිස්කලංක). ස්ථානයක් විස්තර කිරීමට “nalazi se” භාවිතා කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Moje naselje je veoma mirno.",
+        "reading": "මොයේ නාසෙල්යෙ යේ වෙඔමා මීර්නො.",
+        "si": "මගේ ප්‍රදේශය ඉතා නිස්කලංකයි."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Moje naselje je veoma mirno.",
+        "reading": "මොයේ නාසෙල්යෙ යේ වෙඔමා මීර්නො.",
+        "si": "මගේ ප්‍රදේශය ඉතා නිස්කලංකයි."
+      },
+      {
+        "sr": "U blizini ima veliki park.",
+        "reading": "උ බ්ලිසිනි ඉමා වෙලිකි පාර්ක්.",
+        "si": "ළඟ විශාල උද්‍යානයක් තියෙනවා."
+      },
+      {
+        "sr": "Centar je blizu mog stana.",
+        "reading": "ත්සෙන්තාර් යේ බ්ලිසු මොග් ස්තානා.",
+        "si": "නගර මධ්‍යය මගේ නිවසට ළඟයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "Kako ti se sviđa ovo naselje?",
+        "reading": "කාකො ති සේ ස්වීදා ඔවො නාසෙල්යෙ?",
+        "si": "ඔයාට මේ ප්‍රදේශය කොහොමද?"
+      },
+      {
+        "sr": "Sviđa mi se jer je mirno.",
+        "reading": "ස්වීදා මි සේ යෙර් යේ මීර්නො.",
+        "si": "නිස්කලංක නිසා මම කැමතියි."
+      },
+      {
+        "sr": "Ima li prodavnica u blizini?",
+        "reading": "ඉමා ලි ප්‍රොදාව්නිත්සා උ බ්ලිසිනි?",
+        "si": "ළඟ සාප්පුවක් තියෙනවාද?"
+      },
+      {
+        "sr": "Da, odmah pored parka.",
+        "reading": "දා, ඔද්මාහ් පොරෙද් පාර්කා.",
+        "si": "ඔව්, උද්‍යානය අසලම තියෙනවා."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: “Moje naselje je veoma mirno.”",
+      "audio": "Moje naselje je veoma mirno.",
+      "reading": "මොයේ නාසෙල්යෙ යේ වෙඔමා මීර්නො.",
+      "options": [
+        "මගේ ප්‍රදේශය ඉතා නිස්කලංකයි.",
+        "නගර මධ්‍යය",
+        "උද්‍යානය"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“අසල්වැසි ප්‍රදේශය” යන්නට ගැළපෙන වචනය තෝරන්න.",
+        "options": [
+          "naselje",
+          "centar",
+          "park"
+        ],
+        "answer": 0,
+        "explanation": "naselje = අසල්වැසි ප්‍රදේශය"
+      },
+      {
+        "prompt": "“නගර මධ්‍යය” යන්නට ගැළපෙන වචනය තෝරන්න.",
+        "options": [
+          "naselje",
+          "centar",
+          "park"
+        ],
+        "answer": 1,
+        "explanation": "centar = නගර මධ්‍යය"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Moje naselje je veoma mirno.",
+          "U blizini ima veliki park.",
+          "Centar je blizu mog stana."
+        ],
+        "answer": 0,
+        "explanation": "මගේ ප්‍රදේශය ඉතා නිස්කලංකයි."
+      },
+      {
+        "prompt": "සංවාදයේ අවසාන වාක්‍යය තෝරන්න.",
+        "options": [
+          "Kako ti se sviđa ovo naselje?",
+          "Da, odmah pored parka.",
+          "Ima li prodavnica u blizini?"
+        ],
+        "answer": 1,
+        "explanation": "ඔව්, උද්‍යානය අසලම තියෙනවා."
+      }
+    ]
+  }
 ];
