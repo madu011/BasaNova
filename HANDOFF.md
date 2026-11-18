@@ -615,3 +615,5 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 2. Integrate both C2 arrays in Learn, update curriculum, README and HANDOFF, and source-validate both tracks.
 3. Continue C2 in batches of ten through lesson 50, then add cumulative C2 revision and final practice assessments.
 4. Verify CI/Expo/Android build and device behavior when possible; never equate authored content with a verified APK or CEFR certification.
+
+- Follow-up assessment accessibility refinement: commit `4668ccb498d4f4e6f62adfea8fe36c0df3b30504` adds Sinhala-script pronunciation fields for each vocabulary term in the C1 revision/final questions; App commit `163fc4bc449c57cbcdb2ce8c178245fac107e565` displays those readings and offers TTS playback. Current GitHub Actions for the latest App commit were queued/pending at the last status check; no successful result is confirmed yet.
