@@ -435,3 +435,14 @@
 - Next: audit B1 assessment translations and lesson quality, run build/CI and Android verification, then begin paired B2 lessons 1–10.
 
 - Final verification for this session: 20 Serbian exam questions, 20 English exam questions, 10 Serbian revision questions, 10 English revision questions; valid answer indices and aligned listening explanations; App.js import/UI markers present. No build or device verification was performed.
+
+
+## Latest session — B2 lessons 1–11 (2026-11-18)
+
+- Added paired Serbian and English B2 lessons 1–11. Topics: argumentation and counterarguments; negotiations and agreements; leadership and feedback; urban development and social change; hypothetical situations and conditions; formal processes/passive structures; presentations and persuasion; reports/data analysis; media and cultural interpretation; conflict mediation; project risks and decision-making.
+- Each lesson contains eight vocabulary entries, Sinhala-script pronunciation guidance, Sinhala meanings, grammar guidance, four examples, a four-line dialogue, a listening task and four practice questions.
+- Serbian data commit: `c9a88db70cb63b12bcf35c6b4f5735e504539260`; English data commit: `5924a096c0b2d70826a29dfbe6f841b3ca2efaf4`; App integration: `cd7dda353d8e83e4eebac71f8b060e8e46ca4180`; curriculum status: `2357607b47abca4a55b43607be1f9a58975c91b3`; README: `849fb7bf746ed64728eb2b3ed49eccdd742cd5f7`.
+- B2 status: 11/50 lessons per language authored and integrated; 39 remain. This is an opening batch, not a completed B2 level or CEFR certification.
+- Quality limitations: Sinhala-script readings are approximate; Serbian vocabulary currently includes some Cyrillic forms alongside Latin script and requires consistency/naturalness review by a fluent speaker. English/Serbian example and dialogue translations need editorial review.
+- No JavaScript/Expo build, CI pass, APK artifact, installation or physical-device test was run.
+- Next: normalize Serbian vocabulary script and audit B2 lessons 1–11, then add lessons 12–25 in both languages.
