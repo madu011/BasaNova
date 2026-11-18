@@ -8,7 +8,7 @@ export const SERBIAN_C1_LESSONS = [
     "vocabulary": [
       {
         "word": "nijansa",
-        "reading": "нијанса",
+        "reading": "න්‍යියාන්සා",
         "meaning": "සූක්ෂ්ම වෙනස",
         "example": "Važna je nijansa u značenju.",
         "translation": "අර්ථයේ සූක්ෂ්ම වෙනස වැදගත්ය."
@@ -709,7 +709,7 @@ export const SERBIAN_C1_LESSONS = [
       },
       {
         "word": "uverljiv",
-        "reading": "උවෙර්ල්යив",
+        "reading": "උවෙර්ල්යීව්",
         "meaning": "ඒත්තුගන්වන",
         "example": "Argument nije sasvim uverljiv.",
         "translation": "තර්කය සම්පූර්ණයෙන් ඒත්තුගන්වන්නේ නැත."
@@ -806,9 +806,9 @@ export const SERBIAN_C1_LESSONS = [
       {
         "prompt": "කියූ දෙය හා අඟවන දෙය වෙනස්ද?",
         "options": [
-          "да",
-          "ne",
-          "uvek isto"
+          "ඔව්",
+          "නැහැ",
+          "හැමවිටම එකමයි"
         ],
         "answer": 0,
         "explanation": "да — исправан одговор"
@@ -865,7 +865,7 @@ export const SERBIAN_C1_LESSONS = [
       },
       {
         "word": "preformulisati",
-        "reading": "ප්‍රෙෆොර්මුලිසати",
+        "reading": "ප්‍රෙෆොර්මුලිසාති",
         "meaning": "නැවත වචනගත කිරීම",
         "example": "Mogu da preformulišem odgovor.",
         "translation": "පිළිතුර නැවත වචනගත කළ හැක."
@@ -1170,7 +1170,7 @@ export const SERBIAN_C1_LESSONS = [
       },
       {
         "word": "izvodljivost",
-        "reading": "ඉස්වොද්ල්යивොස්ත්",
+        "reading": "ඉස්වොද්ල්යීවොස්ත්",
         "meaning": "ක්‍රියාත්මක කළ හැකියාව",
         "example": "Izvodljivost treba proveriti.",
         "translation": "ක්‍රියාත්මක කළ හැකියාව පරීක්ෂා කළ යුතුය."
@@ -1209,7 +1209,7 @@ export const SERBIAN_C1_LESSONS = [
     "examples": [
       {
         "sr": "Predlog je izvodljiv, ali zahteva dodatna sredstva.",
-        "reading": "ප්‍රෙද්ලොග් යේ ඉස්වොද්ල්යив, අලි සාහ්තෙවා දොදාත්නා ස්‍රෙද්ස්ත්වා.",
+        "reading": "ප්‍රෙද්ලොග් යේ ඉස්වොද්ල්යීව්, අලි සාහ්තෙවා දොදාත්නා ස්‍රෙද්ස්ත්වා.",
         "si": "යෝජනාව ක්‍රියාත්මක කළ හැකි නමුත් අමතර සම්පත් අවශ්‍යය."
       },
       {
@@ -1253,7 +1253,7 @@ export const SERBIAN_C1_LESSONS = [
     "listeningPractice": {
       "prompt": "Послушајте и изаберите тачно значење: Predlog je izvodljiv, ali zahteva dodatna sredstva.",
       "audio": "Predlog je izvodljiv, ali zahteva dodatna sredstva.",
-      "reading": "ප්‍රෙද්ලොග් යේ ඉස්වොද්ල්යив, අලි සාහ්තෙවා දොදාත්නා ස්‍රෙද්ස්ත්වා.",
+      "reading": "ප්‍රෙද්ලොග් යේ ඉස්වොද්ල්යීව්, අලි සාහ්තෙවා දොදාත්නා ස්‍රෙද්ස්ත්වා.",
       "options": [
         "යෝජනාව ක්‍රියාත්මක කළ හැකි නමුත් අමතර සම්පත් අවශ්‍යය.",
         "යෝජනාව කළ හැකි නමුත් අමතර සම්පත් අවශ්‍යයි.",
@@ -1510,7 +1510,7 @@ export const SERBIAN_C1_LESSONS = [
       },
       {
         "word": "uverljivo",
-        "reading": "උවෙර්ල්යивො",
+        "reading": "උවෙර්ල්යීව්ො",
         "meaning": "ඒත්තුගන්වන ලෙස",
         "example": "Predstavite rezultate uverljivo.",
         "translation": "ප්‍රතිඵල ඒත්තුගන්වන ලෙස ඉදිරිපත් කරන්න."
