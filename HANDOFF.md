@@ -420,4 +420,16 @@
 - Re-fetched both lesson arrays and verified 50 unique sequential IDs each; all lessons have eight vocabulary entries, required Sinhala reading/meaning/example fields, four examples, four dialogue rows, grammar, phrase cards, listening audio and four practice questions; answer indices are valid. Existing App.js imports remain present.
 - Quality limitations: the new final 20 lessons use some repeated example/dialogue scaffolding and Sinhala-script pronunciation approximations; Serbian naturalness, grammar, and translations need fluent-speaker review. The lesson sequence is complete by count, but this is not a CEFR-certified B1 course until full content/editorial and assessment validation is complete.
 - No Expo/JavaScript build, CI pass, APK artifact, installation or physical-device test was run. Do not claim runtime/build success.
-- Next: create cumulative B1 revision and scored end-of-level listening/comprehension assessments for both languages; then audit all 50 lessons and verify build/device readiness.
+- Next: audit B1 assessment translations and lesson quality, then run a JavaScript/Expo build, CI and Android device verification. After that, begin paired B2 lessons 1–10.
+
+
+## Latest session — B1 cumulative revision and final exams (2026-11-18)
+
+- Added `b1FinalExams.js` with 10 cumulative mixed-revision questions and 20 final-assessment questions for Serbian, plus matching 10/20 sets for English.
+- Final exams contain vocabulary and listening items, device TTS playback, answer selection, score display, a suggested 70% pass threshold, answer feedback and a retry control.
+- Integrated the revision and exam panels into the existing Learn screen for the selected language. Added exam submission state and reused local answer state; no server-side exam submission is involved.
+- Data commit: `bb988473d03caef20982aba3641b5f02520f0a8b`; first exam integration: `cd5b1b6b1f83c1efba02443f4cbc3c8374017e81`; revision UI integration: `1bc2f9a04a77bea62a0afb2ecedfd0ef2019aa2f`; README commit: `bcf2eace454fd9bcf9034bc2775cf09efc5614f6`.
+- Validation: each language has 10 revision and 20 final exam questions; answer indices are within option bounds; both question sets are imported and rendered in App.js. Final assessment is 20 questions and 70% (14/20) suggested pass.
+- Content limitation: revision questions are drawn from existing lesson practice; final exam distractors and Sinhala meanings are programmatically assembled from lesson vocabulary. They require human language review before treating scores as formal proficiency evidence. The exam is practice assessment, not accredited CEFR certification.
+- No JavaScript/Expo build, CI pass, APK artifact, installation or physical-device test was run. Do not claim runtime/build success.
+- Next: audit B1 assessment translations and lesson quality, run build/CI and Android verification, then begin paired B2 lessons 1–10.
