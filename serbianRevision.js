@@ -17,6 +17,8 @@ export const SERBIAN_A1_LISTENING = [
  {prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Imam jednog brata i jednu sestru.”",audio:"Imam jednog brata i jednu sestru.",options:["මට සහෝදරයෙක් සහ සහෝදරියක් ඉන්නවා.","මම Serbian කතා කරනවා.","මගේ පවුල විශාලයි."],readings:["ඉමාම් යෙද්නොග් බ්‍රාතා ඉ යෙද්නු සෙස්ත්‍රු.","ගොවොරිම් ස්ර්ප්ස්කි.","මොයා පොරොදිත්සා යේ වෙලිකා."],answer:0,meaning:"Imam jednog brata i jednu sestru. = මට සහෝදරයෙක් සහ සහෝදරියක් ඉන්නවා."},
  {prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Jednu kartu do Novog Sada, molim.”",audio:"Jednu kartu do Novog Sada, molim.",options:["නෝවි සාද් දක්වා ටිකට් එකක් දෙන්න, කරුණාකර.","බස් නැවතුම්පොළ කොහෙද?","දුම්රිය ප්‍රමාදයි."],readings:["යෙද්නු කාර්තු දො නොවොග් සාදා, මොලීම්.","ග්දේ යේ ආවුතොබුස්කා ස්තානිත්සා?","වොස් කාස්නි."],answer:0,meaning:"Jednu kartu do Novog Sada, molim. = නෝවි සාද් දක්වා ටිකට් එකක් දෙන්න, කරුණාකර."},
  {prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Knjiga je na stolu.”",audio:"Knjiga je na stolu.",options:["පොත මේසය මත තියෙනවා.","පොත කාමරයේ තියෙනවා.","ඇඳ කාමරයේ තියෙනවා."],readings:["ක්න්යිගා යේ නා ස්තොලු.","ක්න්යිගා යේ උ සොබි.","ක්‍රෙවෙත් යේ උ සොබි."],answer:0,meaning:"Knjiga je na stolu. = පොත මේසය මත තියෙනවා."}
+ ,{prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Volim da kuvam.”",audio:"Volim da kuvam.",options:["මම උයන්න කැමතියි.","මම උදේ වැඩ කරනවා.","මට කාමරයක් ඕනේ."],readings:["වොලිම් දා කුවාම්.","රාදිම් උයුත්‍රු.","ත්‍රෙබා මි සොබා."],answer:0,meaning:"Volim da kuvam. = මම උයන්න කැමතියි."},
+ {prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Danas je sunčano.”",audio:"Danas je sunčano.",options:["අද අව්වයි.","අද වැස්සයි.","අද සීතලයි."],readings:["දනාස් යේ සුන්චානො.","පාදා කීෂා.","දනාස් යේ හ්ලාද්නො."],answer:0,meaning:"Danas je sunčano. = අද අව්වයි."}
 ];
 
 export const SERBIAN_A1_MIXED_REVISION = [
@@ -37,4 +39,6 @@ export const SERBIAN_A1_MIXED_REVISION = [
  {audio:"Jednu kartu do Novog Sada, molim.",reading:"යෙද්නු කාර්තු දො නොවොග් සාදා, මොලීම්.",options:["නෝවි සාද් දක්වා ටිකට් එකක් දෙන්න, කරුණාකර.","වේදිකාව කොහෙද?","දුම්රිය ප්‍රමාදයි."],answer:0},
  {audio:"Knjiga je na stolu.",reading:"ක්න්යිගා යේ නා ස්තොලු.",options:["පොත කාමරයේ තියෙනවා.","පොත මේසය මත තියෙනවා.","ඇඳ කාමරයේ තියෙනවා."],answer:1}
 
+ ,{audio:"Volim da kuvam.",reading:"වොලිම් දා කුවාම්.",options:["මම උයන්න කැමතියි.","මම උදේ වැඩ කරනවා.","මට කාමරයක් ඕනේ."],answer:0},
+ {audio:"Danas je sunčano.",reading:"දනාස් යේ සුන්චානො.",options:["අද වැස්සයි.","අද අව්වයි.","අද සීතලයි."],answer:1}
 ];
