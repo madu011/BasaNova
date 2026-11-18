@@ -1366,4 +1366,77 @@ export const SERBIAN_A1_LESSONS = [
 {id:"sr-a1-u9-l2",unit:"කාලගුණය සහ ඇඳුම්",title:"පාඩම 21 · කාලගුණය සහ ඇඳුම්",objective:"කාලගුණය විස්තර කිරීම, උෂ්ණත්වය ගැන කතා කිරීම සහ ඇඳුම් නම් කිරීම.",vocabulary:[
 {word:"Vreme",reading:"ව්‍රෙමෙ",meaning:"කාලගුණය",example:"Kakvo je vreme danas?",exampleReading:"කාක්වො යේ ව්‍රෙමෙ දනාස්?",translation:"අද කාලගුණය කොහොමද?"},{word:"Sunčano",reading:"සුන්චානො",meaning:"අව්ව සහිත",example:"Danas je sunčano.",exampleReading:"දනාස් යේ සුන්චානො.",translation:"අද අව්වයි."},{word:"Kiša",reading:"කීෂා",meaning:"වැස්ස",example:"Pada kiša.",exampleReading:"පාදා කීෂා.",translation:"වැස්ස වැටෙනවා."},{word:"Hladno",reading:"හ්ලාද්නො",meaning:"සීතල",example:"Napolju je hladno.",exampleReading:"නාපොල්යු යේ හ්ලාද්නො.",translation:"එළියේ සීතලයි."},{word:"Toplo",reading:"තොප්ලො",meaning:"උණුසුම්",example:"Danas je toplo.",exampleReading:"දනාස් යේ තොප්ලො.",translation:"අද උණුසුම්."},{word:"Jakna",reading:"යාක්නා",meaning:"ජැකට්ටුව",example:"Obuci jaknu.",exampleReading:"ඔබුචි යාක්නු.",translation:"ජැකට්ටුව ඇඳගන්න."},{word:"Kišobran",reading:"කීෂොබ්‍රාන්",meaning:"කුඩය",example:"Ponesi kišobran.",exampleReading:"පොනෙසි කීෂොබ්‍රාන්.",translation:"කුඩයක් රැගෙන යන්න."},{word:"Cipele",reading:"ත්සිපෙලෙ",meaning:"සපත්තු",example:"Moje cipele su nove.",exampleReading:"මොයේ ත්සිපෙලෙ සු නොවෙ.",translation:"මගේ සපත්තු අලුත්."}],grammarTitle:"ව්‍යාකරණය · Kakvo je vreme? සහ කාලගුණ විස්තර",grammar:"කාලගුණය අසන්න “Kakvo je vreme?” කියන්න. “Danas je ...” (අද ...යි) රටාවෙන් විස්තර කරන්න. වැස්ස සඳහා “Pada kiša” යොදන්න.",grammarTerms:[{sr:"Kakvo je vreme danas?",si:"අද කාලගුණය කොහොමද?",reading:"කාක්වො යේ ව්‍රෙමෙ දනාස්?"},{sr:"Danas je sunčano.",si:"අද අව්වයි.",reading:"දනාස් යේ සුන්චානො."},{sr:"Pada kiša.",si:"වැස්ස වැටෙනවා.",reading:"පාදා කීෂා."},{sr:"Napolju je hladno.",si:"එළියේ සීතලයි.",reading:"නාපොල්යු යේ හ්ලාද්නො."},{sr:"Treba mi jakna.",si:"මට ජැකට්ටුවක් අවශ්‍යයි.",reading:"ත්‍රෙබා මි යාක්නා."}],examples:[{sr:"Danas je hladno i vetrovito.",si:"අද සීතලයි සහ සුළං සහිතයි.",reading:"දනාස් යේ හ්ලාද්නො ඉ වෙත්‍රොවිතො."},{sr:"Ponesi kišobran, pada kiša.",si:"කුඩයක් රැගෙන යන්න, වැස්ස වැටෙනවා.",reading:"පොනෙසි කීෂොබ්‍රාන්, පාදා කීෂා."},{sr:"Oblačim toplu jaknu.",si:"මම උණුසුම් ජැකට්ටුවක් ඇඳගන්නවා.",reading:"ඔබ්ලාචිම් තොප්ලු යාක්නු."},{sr:"Sutra će biti sunčano.",si:"හෙට අව්ව සහිත වේවි.",reading:"සුත්‍රා චෙ බිති සුන්චානො."}],dialogue:[{sr:"Kakvo je vreme danas?",si:"අද කාලගුණය කොහොමද?",reading:"කාක්වො යේ ව්‍රෙමෙ දනාස්?"},{sr:"Hladno je i pada kiša.",si:"සීතලයි, වැස්සත් වැටෙනවා.",reading:"හ්ලාද්නො යේ ඉ පාදා කීෂා."},{sr:"Da li treba da ponesem jaknu?",si:"මම ජැකට්ටුවක් රැගෙන යන්න ඕනෙද?",reading:"දා ලි ත්‍රෙබා දා පොනෙසෙම් යාක්නු?"},{sr:"Da, i ponesi kišobran.",si:"ඔව්, කුඩයකුත් රැගෙන යන්න.",reading:"දා, ඉ පොනෙසි කීෂොබ්‍රාන්."},{sr:"A kakvo će vreme biti sutra?",si:"හෙට කාලගුණය කොහොම වේවිද?",reading:"අ කාක්වො චෙ ව්‍රෙමෙ බිති සුත්‍රා?"},{sr:"Biće sunčano i toplo.",si:"අව්ව සහිතව උණුසුම් වේවි.",reading:"බිචෙ සුන්චානො ඉ තොප්ලො."}],practice:[{prompt:"“වැස්ස” යන වචනය තෝරන්න.",options:["Sunčano","Kiša","Jakna"],answer:1,explanation:"Kiša = වැස්ස."},{prompt:"“අද අව්වයි” කියන්නේ?",options:["Danas je sunčano.","Pada kiša.","Napolju je hladno."],answer:0,explanation:"Danas je sunčano = අද අව්වයි."},{prompt:"“කුඩය” යන වචනය කුමක්ද?",options:["Cipele","Jakna","Kišobran"],answer:2,explanation:"Kišobran = කුඩය."},{prompt:"“එළියේ සීතලයි” තෝරන්න.",options:["Napolju je hladno.","Danas je toplo.","Moje cipele su nove."],answer:0,explanation:"Napolju je hladno = එළියේ සීතලයි."}]}
 
+,
+{id:"sr-a1-u10-l1",unit:"ආපනශාලාව සහ ආහාර ඇණවුම් කිරීම",title:"පාඩම 22 · ආපනශාලාව සහ ආහාර ඇණවුම් කිරීම",objective:"මෙනුව ඉල්ලීම, ආහාර සහ බීම ඇණවුම් කිරීම, අමතර දේ ඉල්ලීම සහ බිල ලබාගැනීම.",
+vocabulary:[
+{word:"Jelovnik",reading:"යෙලොව්නික්",meaning:"මෙනුව",example:"Mogu li da vidim jelovnik?",exampleReading:"මොගු ලි දා විදිම් යෙලොව්නික්?",translation:"මට මෙනුව බලන්න පුළුවන්ද?"},
+{word:"Konobar",reading:"කොනොබාර්",meaning:"වේටර්",example:"Konobar donosi vodu.",exampleReading:"කොනොබාර් දොනොසි වොදු.",translation:"වේටර් වතුර ගෙනෙනවා."},
+{word:"Porudžbina",reading:"පොරූජ්බිනා",meaning:"ඇණවුම",example:"Moja porudžbina je spremna.",exampleReading:"මොයා පොරූජ්බිනා යේ ස්ප්‍රෙම්නා.",translation:"මගේ ඇණවුම සූදානම්."},
+{word:"Glavno jelo",reading:"ග්ලාව්නො යෙලො",meaning:"ප්‍රධාන ආහාරය",example:"Glavno jelo je veoma ukusno.",exampleReading:"ග්ලාව්නො යෙලො යේ වෙඔමා උකුස්නො.",translation:"ප්‍රධාන ආහාරය ඉතා රසවත්."},
+{word:"Piće",reading:"පීචෙ",meaning:"බීම",example:"Želim jedno hladno piće.",exampleReading:"ෂෙලිම් යෙද්නො හ්ලාද්නො පීචෙ.",translation:"මට සිසිල් බීමක් ඕනේ."},
+{word:"Račun",reading:"රාචුන්",meaning:"බිල",example:"Račun, molim.",exampleReading:"රාචුන්, මොලීම්.",translation:"බිල දෙන්න, කරුණාකරලා."},
+{word:"Prilog",reading:"ප්‍රිලොග්",meaning:"අමතර ආහාරය",example:"Pomfrit je prilog.",exampleReading:"පොම්ෆ්‍රිත් යේ ප්‍රිලොග්.",translation:"ෆ්‍රෙන්ච් ෆ්‍රයිස් අමතර ආහාරයයි."},
+{word:"Za poneti",reading:"සා පොනෙති",meaning:"ගෙන යාම සඳහා",example:"Ovo je za poneti.",exampleReading:"ඔවො යේ සා පොනෙති.",translation:"මේක ගෙන යාම සඳහායි."}],
+grammarTitle:"ව්‍යාකරණය · ආචාරශීලී ඇණවුම් සහ කැමැත්ත",
+grammar:"ආචාරශීලීව ඉල්ලීමට “Želeo/Želela bih ...” (මට ... අවශ්‍යයි) හෝ සරලව “Molim ...” යොදන්න. “Može li ...?” යනු “... දෙන්න පුළුවන්ද?” යන්නයි. බිල ඉල්ලීමට “Račun, molim.” කියන්න.",
+grammarTerms:[
+{sr:"Mogu li da vidim jelovnik?",si:"මට මෙනුව බලන්න පුළුවන්ද?",reading:"මොගු ලි දා විදිම් යෙලොව්නික්?"},
+{sr:"Želeo bih vodu.",si:"මට වතුර අවශ්‍යයි. (පිරිමි කථකයා)",reading:"ෂෙලෙඔ බිහ් වොදු."},
+{sr:"Želela bih kafu.",si:"මට කෝපි අවශ්‍යයි. (කාන්තා කථිකාව)",reading:"ෂෙලෙලා බිහ් කාෆු."},
+{sr:"Može li bez luka?",si:"ළූණු නැතිව දෙන්න පුළුවන්ද?",reading:"මොෂෙ ලි බෙස් ලූකා?"},
+{sr:"Račun, molim.",si:"බිල දෙන්න, කරුණාකරලා.",reading:"රාචුන්, මොලීම්."}],
+examples:[
+{sr:"Dobar dan. Jedan giros i vodu, molim.",reading:"දොබාර් දාන්. යෙදාන් ගිරොස් ඉ වොදු, මොලීම්.",si:"සුබ දවසක්. ගයිරෝස් එකක් සහ වතුර එකක් දෙන්න."},
+{sr:"Želeo bih pomfrit kao prilog.",reading:"ෂෙලෙඔ බිහ් පොම්ෆ්‍රිත් කාඔ ප්‍රිලොග්.",si:"මට අමතර ආහාරයට ෆ්‍රෙන්ච් ෆ්‍රයිස් ඕනේ."},
+{sr:"Može li sos sa strane?",reading:"මොෂෙ ලි සොස් සා ස්ත්‍රානෙ?",si:"සෝස් එක වෙනම දෙන්න පුළුවන්ද?"},
+{sr:"Za poneti, molim.",reading:"සා පොනෙති, මොලීම්.",si:"ගෙන යන්නයි, කරුණාකරලා."}],
+dialogue:[
+{sr:"Dobar dan! Mogu li da vidim jelovnik?",reading:"දොබාර් දාන්! මොගු ලි දා විදිම් යෙලොව්නික්?",si:"සුබ දවසක්! මට මෙනුව බලන්න පුළුවන්ද?"},
+{sr:"Naravno. Izvolite.",reading:"නාරාව්නො. ඉස්වොලිතෙ.",si:"අනිවාර්යයෙන්. මෙන්න."},
+{sr:"Želeo bih jedan giros i vodu.",reading:"ෂෙලෙඔ බිහ් යෙදාන් ගිරොස් ඉ වොදු.",si:"මට ගයිරෝස් එකක් සහ වතුර එකක් ඕනේ."},
+{sr:"Želite li pomfrit uz to?",reading:"ෂෙලිතෙ ලි පොම්ෆ්‍රිත් උස් තො?",si:"ඒ සමඟ ෆ්‍රෙන්ච් ෆ්‍රයිස් ඕනේද?"},
+{sr:"Da, i sos sa strane, molim.",reading:"දා, ඉ සොස් සා ස්ත්‍රානෙ, මොලීම්.",si:"ඔව්, සෝස් එක වෙනමත් දෙන්න."},
+{sr:"U redu. Račun ćete dobiti na kraju.",reading:"උ රෙදු. රාචුන් චෙතෙ දොබිති නා ක්‍රායු.",si:"හරි. අවසානයේ ඔබට බිල ලැබේවි."}],
+practice:[
+{prompt:"“මෙනුව” යන Serbian වචනය තෝරන්න.",options:["Račun","Jelovnik","Piće"],answer:1,explanation:"Jelovnik = මෙනුව."},
+{prompt:"“බිල දෙන්න, කරුණාකරලා” කියන්නේ?",options:["Račun, molim.","Dobar dan.","Za poneti."],answer:0,explanation:"Račun, molim. = බිල දෙන්න, කරුණාකරලා."},
+{prompt:"“ගෙන යාම සඳහා” තෝරන්න.",options:["Glavno jelo","Prilog","Za poneti"],answer:2,explanation:"Za poneti = ගෙන යාම සඳහා."},
+{prompt:"“ළූණු නැතිව දෙන්න පුළුවන්ද?” කියන්නේ?",options:["Može li bez luka?","Gde je stanica?","Koliko je sati?"],answer:0,explanation:"Može li bez luka? = ළූණු නැතිව දෙන්න පුළුවන්ද?"}]}
+,
+{id:"sr-a1-u10-l2",unit:"පාරිභෝගික සේවය සහ සරල ගැටලු",title:"පාඩම 23 · පාරිභෝගික සේවය සහ සරල ගැටලු",objective:"සේවකයෙකුගෙන් උදව් ඉල්ලීම, ඇණවුම පැහැදිලි කිරීම සහ සරල ගැටලුවක් ආචාරශීලීව දැනුම් දීම.",
+vocabulary:[
+{word:"Pomoć",reading:"පොමොච්",meaning:"උදව්ව",example:"Treba mi pomoć.",exampleReading:"ත්‍රෙබා මි පොමොච්.",translation:"මට උදව් අවශ්‍යයි."},
+{word:"Pogrešno",reading:"පොග්‍රෙෂ්නො",meaning:"වැරදි ලෙස",example:"Ovo je pogrešno jelo.",exampleReading:"ඔවො යේ පොග්‍රෙෂ්නො යෙලො.",translation:"මේක වැරදි ආහාරයයි."},
+{word:"Nedostaje",reading:"නෙදොස්තායේ",meaning:"අඩුයි / නැතිවී ඇත",example:"Nedostaje jedan sok.",exampleReading:"නෙදොස්තායේ යෙදාන් සොක්.",translation:"ජූස් එකක් අඩුයි."},
+{word:"Čekati",reading:"චෙකාති",meaning:"බලා සිටීම",example:"Koliko dugo treba da čekam?",exampleReading:"කොලිකො දුගො ත්‍රෙබා දා චෙකාම්?",translation:"මට කොපමණ වේලාවක් බලා සිටින්න ඕනේද?"},
+{word:"Zameniti",reading:"සාමෙනිති",meaning:"මාරු කිරීම",example:"Možete li da zamenite ovo?",exampleReading:"මොෂෙතෙ ලි දා සාමෙනිතෙ ඔවො?",translation:"ඔබට මේක මාරු කරන්න පුළුවන්ද?"},
+{word:"Hladno",reading:"හ්ලාද්නො",meaning:"සිසිල් / සීතල",example:"Jelo je hladno.",exampleReading:"යෙලො යේ හ්ලාද්නො.",translation:"ආහාරය සීතලයි."},
+{word:"Toplo",reading:"තොප්ලො",meaning:"උණුසුම්",example:"Može li da bude toplo?",exampleReading:"මොෂෙ ලි දා බුදෙ තොප්ලො?",translation:"මේක උණුසුම් කරලා දෙන්න පුළුවන්ද?"},
+{word:"Izvinjenje",reading:"ඉස්වින්‍යෙන්‍යෙ",meaning:"සමාව ඉල්ලීම",example:"Hvala na izvinjenju.",exampleReading:"හ්වාලා නා ඉස්වින්‍යෙන්‍යු.",translation:"සමාව ඉල්ලීම ගැන ස්තුතියි."}],
+grammarTitle:"ව්‍යාකරණය · ගැටලුවක් පැහැදිලි කිරීම සහ ඉල්ලීම",
+grammar:"ගැටලුවක් පෙන්වීමට “Ovo nije ...” (මේක ... නෙවෙයි) සහ “Nedostaje ...” ( ... අඩුයි) යොදන්න. ආචාරශීලී ඉල්ලීමක් සඳහා “Možete li da ...?” (ඔබට ... කරන්න පුළුවන්ද?) කියන්න. අවසානයේ “Hvala na pomoći.” කියා ස්තුති කරන්න.",
+grammarTerms:[
+{sr:"Izvinite, ovo nije moja porudžbina.",si:"සමාවෙන්න, මේක මගේ ඇණවුම නෙවෙයි.",reading:"ඉස්විනිතෙ, ඔවො නියේ මොයා පොරූජ්බිනා."},
+{sr:"Nedostaje jedan sok.",si:"ජූස් එකක් අඩුයි.",reading:"නෙදොස්තායේ යෙදාන් සොක්."},
+{sr:"Možete li da proverite?",si:"ඔබට පරීක්ෂා කරන්න පුළුවන්ද?",reading:"මොෂෙතෙ ලි දා ප්‍රොවෙරිතෙ?"},
+{sr:"Možete li da zamenite ovo?",si:"ඔබට මේක මාරු කරන්න පුළුවන්ද?",reading:"මොෂෙතෙ ලි දා සාමෙනිතෙ ඔවො?"},
+{sr:"Hvala na pomoći.",si:"උදව්වට ස්තුතියි.",reading:"හ්වාලා නා පොමොචි."}],
+examples:[
+{sr:"Izvinite, naručio sam vodu, ne sok.",reading:"ඉස්විනිතෙ, නාරූචියො සාම් වොදු, නේ සොක්.",si:"සමාවෙන්න, මම ඇණවුම් කළේ වතුර, ජූස් නෙවෙයි."},
+{sr:"Nedostaje jedan sendvič iz porudžbine.",reading:"නෙදොස්තායේ යෙදාන් සෙන්ද්විච් ඉස් පොරූජ්බිනෙ.",si:"ඇණවුමේ සැන්ඩ්විච් එකක් අඩුයි."},
+{sr:"Možete li da proverite račun?",reading:"මොෂෙතෙ ලි දා ප්‍රොවෙරිතෙ රාචුන්?",si:"ඔබට බිල පරීක්ෂා කරන්න පුළුවන්ද?"},
+{sr:"Hrana je hladna. Može li da se zagreje?",reading:"හ්‍රානා යේ හ්ලාද්නා. මොෂෙ ලි දා සේ සාග්‍රෙයේ?",si:"කෑම සීතලයි. ඒක උණුසුම් කරන්න පුළුවන්ද?"}],
+dialogue:[
+{sr:"Izvinite, mogu li da vas pitam nešto?",reading:"ඉස්විනිතෙ, මොගු ලි දා වාස් පීතාම් නෙෂ්තො?",si:"සමාවෙන්න, මට දෙයක් අහන්න පුළුවන්ද?"},
+{sr:"Naravno. Kako mogu da pomognem?",reading:"නාරාව්නො. කාකො මොගු දා පොමොග්නෙම්?",si:"අනිවාර්යයෙන්. මට උදව් කරන්න පුළුවන් කොහොමද?"},
+{sr:"Nedostaje jedan sok iz porudžbine.",reading:"නෙදොස්තායේ යෙදාන් සොක් ඉස් පොරූජ්බිනෙ.",si:"ඇණවුමේ ජූස් එකක් අඩුයි."},
+{sr:"Izvinite zbog toga. Odmah ću proveriti.",reading:"ඉස්විනිතෙ ස්බොග් තොගා. ඔද්මාහ් චු ප්‍රොවෙරිති.",si:"ඒ ගැන සමාවෙන්න. මම දැන්ම පරීක්ෂා කරන්නම්."},
+{sr:"Hvala. Takođe, račun nije tačan.",reading:"හ්වාලා. තාකොජෙ, රාචුන් නියේ තාචාන්.",si:"ස්තුතියි. ඒ වගේම බිලත් නිවැරදි නැහැ."},
+{sr:"Razumem. Proverićemo sve. Hvala na strpljenju.",reading:"රාසුමෙම්. ප්‍රොවෙරිචෙමො ස්වේ. හ්වාලා නා ස්ත්‍රප්ල්යෙනු.",si:"මට තේරෙනවා. අපි සියල්ල පරීක්ෂා කරන්නම්. ඉවසීම ගැන ස්තුතියි."}],
+practice:[
+{prompt:"“මට උදව් අවශ්‍යයි” කියන්නේ?",options:["Treba mi pomoć.","Dobar dan.","Račun, molim."],answer:0,explanation:"Treba mi pomoć = මට උදව් අවශ්‍යයි."},
+{prompt:"“ඇණවුමේ එකක් අඩුයි” යන අදහසට ගැළපෙන්නේ?",options:["Sve je dobro.","Nedostaje jedan sok.","Želim jelovnik."],answer:1,explanation:"Nedostaje = අඩුයි / නැතිවී ඇත."},
+{prompt:"“ඔබට මේක මාරු කරන්න පුළුවන්ද?” තෝරන්න.",options:["Možete li da zamenite ovo?","Koliko košta?","Gde je kuhinja?"],answer:0,explanation:"Možete li da zamenite ovo? = ඔබට මේක මාරු කරන්න පුළුවන්ද?"},
+{prompt:"“උදව්වට ස්තුතියි” කියන්නේ?",options:["Nema problema.","Hvala na pomoći.","Doviđenja."],answer:1,explanation:"Hvala na pomoći = උදව්වට ස්තුතියි."}]}
+
 ];
