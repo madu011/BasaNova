@@ -4324,5 +4324,870 @@ export const ENGLISH_A2_LESSONS = [
       "explanation": "අවසානයේ ලුණු ටිකක් එකතු කරන්න."
     }
   ]
+},
+{
+  "id": "en-a2-l26",
+  "unit": "පොදු සේවා සහ ලේඛන",
+  "title": "A2 · Lesson 26 · Public services and documents",
+  "objective": "Ask for help with documents and public services",
+  "vocabulary": [
+    {
+      "word": "document",
+      "reading": "ඩොකියුමන්ට්",
+      "meaning": "ලේඛනය",
+      "example": "document",
+      "exampleReading": "ඩොකියුමන්ට්",
+      "translation": "ලේඛනය"
+    },
+    {
+      "word": "form",
+      "reading": "ෆෝම්",
+      "meaning": "පෝරමය",
+      "example": "form",
+      "exampleReading": "ෆෝම්",
+      "translation": "පෝරමය"
+    },
+    {
+      "word": "signature",
+      "reading": "සිග්නචර්",
+      "meaning": "අත්සන",
+      "example": "signature",
+      "exampleReading": "සිග්නචර්",
+      "translation": "අත්සන"
+    },
+    {
+      "word": "address",
+      "reading": "ඇඩ්‍රස්",
+      "meaning": "ලිපිනය",
+      "example": "address",
+      "exampleReading": "ඇඩ්‍රස්",
+      "translation": "ලිපිනය"
+    },
+    {
+      "word": "identity card",
+      "reading": "අයිඩෙන්ටිටි කාඩ්",
+      "meaning": "හැඳුනුම්පත",
+      "example": "identity card",
+      "exampleReading": "අයිඩෙන්ටිටි කාඩ්",
+      "translation": "හැඳුනුම්පත"
+    },
+    {
+      "word": "counter",
+      "reading": "කවුන්ටර්",
+      "meaning": "සේවා කවුළුව",
+      "example": "counter",
+      "exampleReading": "කවුන්ටර්",
+      "translation": "සේවා කවුළුව"
+    },
+    {
+      "word": "application",
+      "reading": "ඇප්ලිකේෂන්",
+      "meaning": "අයදුම්පත",
+      "example": "application",
+      "exampleReading": "ඇප්ලිකේෂන්",
+      "translation": "අයදුම්පත"
+    },
+    {
+      "word": "copy",
+      "reading": "කොපි",
+      "meaning": "පිටපත",
+      "example": "copy",
+      "exampleReading": "කොපි",
+      "translation": "පිටපත"
+    }
+  ],
+  "grammarTitle": "Grammar",
+  "grammar": "Use “Where can I...?” to ask where a service is available. Use “I need...” to explain what you require.",
+  "grammarTerms": [
+    {
+      "text": "Where can I submit this application?",
+      "reading": "වෙයාර් කැන් අයි සබ්මිට් දිස් ඇප්ලිකේෂන්?",
+      "meaning": "මට මේ අයදුම්පත භාරදෙන්න පුළුවන් කොහෙද?"
+    }
+  ],
+  "examples": [
+    {
+      "text": "Where can I submit this application?",
+      "reading": "වෙයාර් කැන් අයි සබ්මිට් දිස් ඇප්ලිකේෂන්?",
+      "meaning": "මට මේ අයදුම්පත භාරදෙන්න පුළුවන් කොහෙද?"
+    },
+    {
+      "text": "I need a copy of my identity card.",
+      "reading": "අයි නීඩ් අ කොපි ඔෆ් මයි අයිඩෙන්ටිටි කාඩ්.",
+      "meaning": "ලේඛනය"
+    },
+    {
+      "text": "Please fill in this form.",
+      "reading": "ප්ලීස් ෆිල් ඉන් දිස් ෆෝම්.",
+      "meaning": "පෝරමය"
+    }
+  ],
+  "dialogue": [
+    {
+      "text": "Good morning. Where is the document counter?",
+      "reading": "ගුඩ් මෝර්නින්. වෙයාර් ඉස් දි ඩොකියුමන්ට් කවුන්ටර්?",
+      "meaning": "මට මේ අයදුම්පත භාරදෙන්න පුළුවන් කොහෙද?"
+    },
+    {
+      "text": "It's over there, next to the entrance.",
+      "reading": "ඉට්ස් ඕවර් දෙයාර්, නෙක්ස්ට් ටු දි එන්ට්‍රන්ස්.",
+      "meaning": "මට මේ අයදුම්පත භාරදෙන්න පුළුවන් කොහෙද?"
+    },
+    {
+      "text": "What do I need to bring?",
+      "reading": "වොට් ඩූ අයි නීඩ් ටු බ්‍රිං?",
+      "meaning": "මට මේ අයදුම්පත භාරදෙන්න පුළුවන් කොහෙද?"
+    },
+    {
+      "text": "Please bring your identity card and a copy.",
+      "reading": "ප්ලීස් බ්‍රිං යෝර් අයිඩෙන්ටිටි කාඩ් ඇන්ඩ් අ කොපි.",
+      "meaning": "මට මේ අයදුම්පත භාරදෙන්න පුළුවන් කොහෙද?"
+    }
+  ],
+  "listeningPractice": {
+    "prompt": "Listen and choose the meaning: “Where can I submit this application?”",
+    "audio": "Where can I submit this application?",
+    "reading": "වෙයාර් කැන් අයි සබ්මිට් දිස් ඇප්ලිකේෂන්?",
+    "options": [
+      "මට මේ අයදුම්පත භාරදෙන්න පුළුවන් කොහෙද?",
+      "වෙනත් අර්ථයක්",
+      "අදාළ නොවන අර්ථයක්"
+    ],
+    "answer": 0
+  },
+  "practice": [
+    {
+      "prompt": "Choose the word meaning “ලේඛනය”.",
+      "options": [
+        "document",
+        "form",
+        "signature"
+      ],
+      "answer": 0,
+      "explanation": "document = ලේඛනය"
+    },
+    {
+      "prompt": "Choose the word meaning “ලිපිනය”.",
+      "options": [
+        "signature",
+        "address",
+        "identity card"
+      ],
+      "answer": 1,
+      "explanation": "address = ලිපිනය"
+    },
+    {
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "Where can I submit this application?",
+        "I need a copy of my identity card.",
+        "Please fill in this form."
+      ],
+      "answer": 0,
+      "explanation": "මට මේ අයදුම්පත භාරදෙන්න පුළුවන් කොහෙද?"
+    },
+    {
+      "prompt": "Choose the final line of the dialogue.",
+      "options": [
+        "Good morning. Where is the document counter?",
+        "Please bring your identity card and a copy.",
+        "It's over there, next to the entrance."
+      ],
+      "answer": 1,
+      "explanation": "මට මේ අයදුම්පත භාරදෙන්න පුළුවන් කොහෙද?"
+    }
+  ]
+},
+{
+  "id": "en-a2-l27",
+  "unit": "දුරකථන සහ අන්තර්ජාල සන්නිවේදනය",
+  "title": "A2 · Lesson 27 · Phone and internet communication",
+  "objective": "Explain common phone and internet problems",
+  "vocabulary": [
+    {
+      "word": "call",
+      "reading": "කෝල්",
+      "meaning": "ඇමතුම",
+      "example": "call",
+      "exampleReading": "කෝල්",
+      "translation": "ඇමතුම"
+    },
+    {
+      "word": "message",
+      "reading": "මෙසිජ්",
+      "meaning": "පණිවිඩය",
+      "example": "message",
+      "exampleReading": "මෙසිජ්",
+      "translation": "පණිවිඩය"
+    },
+    {
+      "word": "network",
+      "reading": "නෙට්වර්ක්",
+      "meaning": "ජාලය",
+      "example": "network",
+      "exampleReading": "නෙට්වර්ක්",
+      "translation": "ජාලය"
+    },
+    {
+      "word": "signal",
+      "reading": "සිග්නල්",
+      "meaning": "සංඥාව",
+      "example": "signal",
+      "exampleReading": "සිග්නල්",
+      "translation": "සංඥාව"
+    },
+    {
+      "word": "charger",
+      "reading": "චාර්ජර්",
+      "meaning": "චාජරය",
+      "example": "charger",
+      "exampleReading": "චාර්ජර්",
+      "translation": "චාජරය"
+    },
+    {
+      "word": "battery",
+      "reading": "බැටරි",
+      "meaning": "බැටරිය",
+      "example": "battery",
+      "exampleReading": "බැටරි",
+      "translation": "බැටරිය"
+    },
+    {
+      "word": "data plan",
+      "reading": "ඩේටා ප්ලෑන්",
+      "meaning": "දත්ත පැකේජය",
+      "example": "data plan",
+      "exampleReading": "ඩේටා ප්ලෑන්",
+      "translation": "දත්ත පැකේජය"
+    },
+    {
+      "word": "password",
+      "reading": "පාස්වර්ඩ්",
+      "meaning": "මුරපදය",
+      "example": "password",
+      "exampleReading": "පාස්වර්ඩ්",
+      "translation": "මුරපදය"
+    }
+  ],
+  "grammarTitle": "Grammar",
+  "grammar": "Use “It isn't working” to report a problem. Ask for help politely with “Could you check...?”",
+  "grammarTerms": [
+    {
+      "text": "My phone isn't working properly.",
+      "reading": "මයි ෆෝන් ඉසන්ට් වර්කින් ප්‍රොපර්ලි.",
+      "meaning": "මගේ දුරකථනය හොඳින් ක්‍රියා කරන්නේ නැහැ."
+    }
+  ],
+  "examples": [
+    {
+      "text": "My phone isn't working properly.",
+      "reading": "මයි ෆෝන් ඉසන්ට් වර්කින් ප්‍රොපර්ලි.",
+      "meaning": "මගේ දුරකථනය හොඳින් ක්‍රියා කරන්නේ නැහැ."
+    },
+    {
+      "text": "I don't have enough signal.",
+      "reading": "අයි ඩෝන්ට් හැව් ඉනෆ් සිග්නල්.",
+      "meaning": "ඇමතුම"
+    },
+    {
+      "text": "Could you check my data plan?",
+      "reading": "කුඩ් යූ චෙක් මයි ඩේටා ප්ලෑන්?",
+      "meaning": "පණිවිඩය"
+    }
+  ],
+  "dialogue": [
+    {
+      "text": "I can't send a message.",
+      "reading": "අයි කාන්ට් සෙන්ඩ් අ මෙසිජ්.",
+      "meaning": "මගේ දුරකථනය හොඳින් ක්‍රියා කරන්නේ නැහැ."
+    },
+    {
+      "text": "Do you have internet access?",
+      "reading": "ඩූ යූ හැව් ඉන්ටර්නෙට් ඇක්සස්?",
+      "meaning": "මගේ දුරකථනය හොඳින් ක්‍රියා කරන්නේ නැහැ."
+    },
+    {
+      "text": "Yes, but the signal is weak.",
+      "reading": "යෙස්, බට් දි සිග්නල් ඉස් වීක්.",
+      "meaning": "මගේ දුරකථනය හොඳින් ක්‍රියා කරන්නේ නැහැ."
+    },
+    {
+      "text": "I'll try again later.",
+      "reading": "අයිල් ට්‍රයි අගේන් ලේටර්.",
+      "meaning": "මගේ දුරකථනය හොඳින් ක්‍රියා කරන්නේ නැහැ."
+    }
+  ],
+  "listeningPractice": {
+    "prompt": "Listen and choose the meaning: “My phone isn't working properly.”",
+    "audio": "My phone isn't working properly.",
+    "reading": "මයි ෆෝන් ඉසන්ට් වර්කින් ප්‍රොපර්ලි.",
+    "options": [
+      "මගේ දුරකථනය හොඳින් ක්‍රියා කරන්නේ නැහැ.",
+      "වෙනත් අර්ථයක්",
+      "අදාළ නොවන අර්ථයක්"
+    ],
+    "answer": 0
+  },
+  "practice": [
+    {
+      "prompt": "Choose the word meaning “ඇමතුම”.",
+      "options": [
+        "call",
+        "message",
+        "network"
+      ],
+      "answer": 0,
+      "explanation": "call = ඇමතුම"
+    },
+    {
+      "prompt": "Choose the word meaning “සංඥාව”.",
+      "options": [
+        "network",
+        "signal",
+        "charger"
+      ],
+      "answer": 1,
+      "explanation": "signal = සංඥාව"
+    },
+    {
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "My phone isn't working properly.",
+        "I don't have enough signal.",
+        "Could you check my data plan?"
+      ],
+      "answer": 0,
+      "explanation": "මගේ දුරකථනය හොඳින් ක්‍රියා කරන්නේ නැහැ."
+    },
+    {
+      "prompt": "Choose the final line of the dialogue.",
+      "options": [
+        "I can't send a message.",
+        "I'll try again later.",
+        "Do you have internet access?"
+      ],
+      "answer": 1,
+      "explanation": "මගේ දුරකථනය හොඳින් ක්‍රියා කරන්නේ නැහැ."
+    }
+  ]
+},
+{
+  "id": "en-a2-l28",
+  "unit": "උත්සව සහ ආරාධනා",
+  "title": "A2 · Lesson 28 · Celebrations and invitations",
+  "objective": "Invite people and respond to invitations",
+  "vocabulary": [
+    {
+      "word": "celebration",
+      "reading": "සෙලිබ්‍රේෂන්",
+      "meaning": "උත්සවය",
+      "example": "celebration",
+      "exampleReading": "සෙලිබ්‍රේෂන්",
+      "translation": "උත්සවය"
+    },
+    {
+      "word": "birthday",
+      "reading": "බර්ත්ඩේ",
+      "meaning": "උපන්දිනය",
+      "example": "birthday",
+      "exampleReading": "බර්ත්ඩේ",
+      "translation": "උපන්දිනය"
+    },
+    {
+      "word": "invitation",
+      "reading": "ඉන්විටේෂන්",
+      "meaning": "ආරාධනාව",
+      "example": "invitation",
+      "exampleReading": "ඉන්විටේෂන්",
+      "translation": "ආරාධනාව"
+    },
+    {
+      "word": "guest",
+      "reading": "ගෙස්ට්",
+      "meaning": "අමුත්තා",
+      "example": "guest",
+      "exampleReading": "ගෙස්ට්",
+      "translation": "අමුත්තා"
+    },
+    {
+      "word": "present",
+      "reading": "ප්‍රෙසන්ට්",
+      "meaning": "තෑග්ග",
+      "example": "present",
+      "exampleReading": "ප්‍රෙසන්ට්",
+      "translation": "තෑග්ග"
+    },
+    {
+      "word": "celebrate",
+      "reading": "සෙලිබ්‍රේට්",
+      "meaning": "සමරනවා",
+      "example": "celebrate",
+      "exampleReading": "සෙලිබ්‍රේට්",
+      "translation": "සමරනවා"
+    },
+    {
+      "word": "accept",
+      "reading": "ඇක්සෙප්ට්",
+      "meaning": "පිළිගන්නවා",
+      "example": "accept",
+      "exampleReading": "ඇක්සෙප්ට්",
+      "translation": "පිළිගන්නවා"
+    },
+    {
+      "word": "decline",
+      "reading": "ඩික്ലයින්",
+      "meaning": "ප්‍රතික්ෂේප කරනවා",
+      "example": "decline",
+      "exampleReading": "ඩික്ലයින්",
+      "translation": "ප්‍රතික්ෂේප කරනවා"
+    }
+  ],
+  "grammarTitle": "Grammar",
+  "grammar": "Invite someone with “Would you like to come...?” Accept with “I'd love to come” and decline politely with “I'm afraid I can't.”",
+  "grammarTerms": [
+    {
+      "text": "I'd like to invite you to my birthday.",
+      "reading": "අයිඩ් ලයික් ටු ඉන්වයිට් යූ ටු මයි බර්ත්ඩේ.",
+      "meaning": "ආරාධනා කළාට ස්තුතියි!"
+    }
+  ],
+  "examples": [
+    {
+      "text": "I'd like to invite you to my birthday.",
+      "reading": "අයිඩ් ලයික් ටු ඉන්වයිට් යූ ටු මයි බර්ත්ඩේ.",
+      "meaning": "ආරාධනා කළාට ස්තුතියි!"
+    },
+    {
+      "text": "Thanks, I'd love to come.",
+      "reading": "තෑන්ක්ස්, අයිඩ් ලව් ටු කම්.",
+      "meaning": "උත්සවය"
+    },
+    {
+      "text": "Unfortunately, I can't make it that day.",
+      "reading": "අන්ෆෝචුනට්ලි, අයි කාන්ට් මේක් ඉට් දැට් ඩේ.",
+      "meaning": "උපන්දිනය"
+    }
+  ],
+  "dialogue": [
+    {
+      "text": "I'm having a small party on Saturday.",
+      "reading": "අයිම් හැවිං අ ස්මෝල් පාටි ඔන් සැටර්ඩේ.",
+      "meaning": "ආරාධනා කළාට ස්තුතියි!"
+    },
+    {
+      "text": "Thanks for inviting me!",
+      "reading": "තෑන්ක්ස් ෆෝ ඉන්වයිටිං මී!",
+      "meaning": "ආරාධනා කළාට ස්තුතියි!"
+    },
+    {
+      "text": "What time does it start?",
+      "reading": "වොට් ටයිම් ඩස් ඉට් ස්ටාට්?",
+      "meaning": "ආරාධනා කළාට ස්තුතියි!"
+    },
+    {
+      "text": "It starts at six.",
+      "reading": "ඉට් ස්ටාට්ස් ඇට් සික්ස්.",
+      "meaning": "ආරාධනා කළාට ස්තුතියි!"
+    }
+  ],
+  "listeningPractice": {
+    "prompt": "Listen and choose the meaning: “Thanks, I'd love to come.”",
+    "audio": "Thanks, I'd love to come.",
+    "reading": "තෑන්ක්ස්, අයිඩ් ලව් ටු කම්.",
+    "options": [
+      "ආරාධනා කළාට ස්තුතියි!",
+      "වෙනත් අර්ථයක්",
+      "අදාළ නොවන අර්ථයක්"
+    ],
+    "answer": 0
+  },
+  "practice": [
+    {
+      "prompt": "Choose the word meaning “උත්සවය”.",
+      "options": [
+        "celebration",
+        "birthday",
+        "invitation"
+      ],
+      "answer": 0,
+      "explanation": "celebration = උත්සවය"
+    },
+    {
+      "prompt": "Choose the word meaning “අමුත්තා”.",
+      "options": [
+        "invitation",
+        "guest",
+        "present"
+      ],
+      "answer": 1,
+      "explanation": "guest = අමුත්තා"
+    },
+    {
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "I'd like to invite you to my birthday.",
+        "Thanks, I'd love to come.",
+        "Unfortunately, I can't make it that day."
+      ],
+      "answer": 0,
+      "explanation": "ආරාධනා කළාට ස්තුතියි!"
+    },
+    {
+      "prompt": "Choose the final line of the dialogue.",
+      "options": [
+        "I'm having a small party on Saturday.",
+        "It starts at six.",
+        "Thanks for inviting me!"
+      ],
+      "answer": 1,
+      "explanation": "ආරාධනා කළාට ස්තුතියි!"
+    }
+  ]
+},
+{
+  "id": "en-a2-l29",
+  "unit": "පරිසරය සහ දෛනික පුරුදු",
+  "title": "A2 · Lesson 29 · The environment and daily habits",
+  "objective": "Talk about recycling and environmentally friendly habits",
+  "vocabulary": [
+    {
+      "word": "environment",
+      "reading": "එන්වයරන්මන්ට්",
+      "meaning": "පරිසරය",
+      "example": "environment",
+      "exampleReading": "එන්වයරන්මන්ට්",
+      "translation": "පරිසරය"
+    },
+    {
+      "word": "waste",
+      "reading": "වේස්ට්",
+      "meaning": "අපද්‍රව්‍ය",
+      "example": "waste",
+      "exampleReading": "වේස්ට්",
+      "translation": "අපද්‍රව්‍ය"
+    },
+    {
+      "word": "recycling",
+      "reading": "රීසයික්ලින්",
+      "meaning": "ප්‍රතිචක්‍රීකරණය",
+      "example": "recycling",
+      "exampleReading": "රීසයික්ලින්",
+      "translation": "ප්‍රතිචක්‍රීකරණය"
+    },
+    {
+      "word": "plastic",
+      "reading": "ප්ලාස්ටික්",
+      "meaning": "ප්ලාස්ටික්",
+      "example": "plastic",
+      "exampleReading": "ප්ලාස්ටික්",
+      "translation": "ප්ලාස්ටික්"
+    },
+    {
+      "word": "paper",
+      "reading": "පේපර්",
+      "meaning": "කඩදාසි",
+      "example": "paper",
+      "exampleReading": "පේපර්",
+      "translation": "කඩදාසි"
+    },
+    {
+      "word": "save",
+      "reading": "සේව්",
+      "meaning": "ඉතිරි කරනවා",
+      "example": "save",
+      "exampleReading": "සේව්",
+      "translation": "ඉතිරි කරනවා"
+    },
+    {
+      "word": "clean",
+      "reading": "ක්ලීන්",
+      "meaning": "පිරිසිදු",
+      "example": "clean",
+      "exampleReading": "ක්ලීන්",
+      "translation": "පිරිසිදු"
+    },
+    {
+      "word": "pollution",
+      "reading": "පොලූෂන්",
+      "meaning": "දූෂණය",
+      "example": "pollution",
+      "exampleReading": "පොලූෂන්",
+      "translation": "දූෂණය"
+    }
+  ],
+  "grammarTitle": "Grammar",
+  "grammar": "Use “We should...” to make a suggestion. Use “We shouldn't...” for something people should avoid.",
+  "grammarTerms": [
+    {
+      "text": "We should recycle paper.",
+      "reading": "වී ෂුඩ් රීසයිකල් පේපර්.",
+      "meaning": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි."
+    }
+  ],
+  "examples": [
+    {
+      "text": "We should recycle paper.",
+      "reading": "වී ෂුඩ් රීසයිකල් පේපර්.",
+      "meaning": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි."
+    },
+    {
+      "text": "I don't use plastic bags.",
+      "reading": "අයි ඩෝන්ට් යූස් ප්ලාස්ටික් බෑග්ස්.",
+      "meaning": "පරිසරය"
+    },
+    {
+      "text": "It's important to protect nature.",
+      "reading": "ඉට්ස් ඉම්පෝටන්ට් ටු ප්‍රොටෙක්ට් නේචර්.",
+      "meaning": "අපද්‍රව්‍ය"
+    }
+  ],
+  "dialogue": [
+    {
+      "text": "We separate paper and plastic.",
+      "reading": "වී සෙපරේට් පේපර් ඇන්ඩ් ප්ලාස්ටික්.",
+      "meaning": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි."
+    },
+    {
+      "text": "That's good for the environment.",
+      "reading": "දැට්ස් ගුඩ් ෆෝ දි එන්වයරන්මන්ට්.",
+      "meaning": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි."
+    },
+    {
+      "text": "I'm trying to use less plastic.",
+      "reading": "අයිම් ට්‍රයිං ටු යූස් ලෙස් ප්ලාස්ටික්.",
+      "meaning": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි."
+    },
+    {
+      "text": "Me too.",
+      "reading": "මී ටූ.",
+      "meaning": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි."
+    }
+  ],
+  "listeningPractice": {
+    "prompt": "Listen and choose the meaning: “We should recycle paper.”",
+    "audio": "We should recycle paper.",
+    "reading": "වී ෂුඩ් රීසයිකල් පේපර්.",
+    "options": [
+      "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි.",
+      "වෙනත් අර්ථයක්",
+      "අදාළ නොවන අර්ථයක්"
+    ],
+    "answer": 0
+  },
+  "practice": [
+    {
+      "prompt": "Choose the word meaning “පරිසරය”.",
+      "options": [
+        "environment",
+        "waste",
+        "recycling"
+      ],
+      "answer": 0,
+      "explanation": "environment = පරිසරය"
+    },
+    {
+      "prompt": "Choose the word meaning “ප්ලාස්ටික්”.",
+      "options": [
+        "recycling",
+        "plastic",
+        "paper"
+      ],
+      "answer": 1,
+      "explanation": "plastic = ප්ලාස්ටික්"
+    },
+    {
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "We should recycle paper.",
+        "I don't use plastic bags.",
+        "It's important to protect nature."
+      ],
+      "answer": 0,
+      "explanation": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි."
+    },
+    {
+      "prompt": "Choose the final line of the dialogue.",
+      "options": [
+        "We separate paper and plastic.",
+        "Me too.",
+        "That's good for the environment."
+      ],
+      "answer": 1,
+      "explanation": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි."
+    }
+  ]
+},
+{
+  "id": "en-a2-l30",
+  "unit": "විනෝදාංශ සහ නිදහස් කාලය",
+  "title": "A2 · Lesson 30 · Hobbies and free time",
+  "objective": "Describe hobbies and free-time activities",
+  "vocabulary": [
+    {
+      "word": "hobby",
+      "reading": "හොබි",
+      "meaning": "විනෝදාංශය",
+      "example": "hobby",
+      "exampleReading": "හොබි",
+      "translation": "විනෝදාංශය"
+    },
+    {
+      "word": "walk",
+      "reading": "වෝක්",
+      "meaning": "ඇවිදීම",
+      "example": "walk",
+      "exampleReading": "වෝක්",
+      "translation": "ඇවිදීම"
+    },
+    {
+      "word": "membership",
+      "reading": "මෙම්බර්ෂිප්",
+      "meaning": "සාමාජිකත්වය",
+      "example": "membership",
+      "exampleReading": "මෙම්බර්ෂිප්",
+      "translation": "සාමාජිකත්වය"
+    },
+    {
+      "word": "gym",
+      "reading": "ජිම්",
+      "meaning": "ව්‍යායාම ශාලාව",
+      "example": "gym",
+      "exampleReading": "ජිම්",
+      "translation": "ව්‍යායාම ශාලාව"
+    },
+    {
+      "word": "training",
+      "reading": "ට්‍රේනින්",
+      "meaning": "පුහුණුව",
+      "example": "training",
+      "exampleReading": "ට්‍රේනින්",
+      "translation": "පුහුණුව"
+    },
+    {
+      "word": "book",
+      "reading": "බුක්",
+      "meaning": "පොත",
+      "example": "book",
+      "exampleReading": "බුක්",
+      "translation": "පොත"
+    },
+    {
+      "word": "play an instrument",
+      "reading": "ප්ලේ ඇන් ඉන්ස්ට්‍රුමන්ට්",
+      "meaning": "සංගීත භාණ්ඩයක් වාදනය කිරීම",
+      "example": "play an instrument",
+      "exampleReading": "ප්ලේ ඇන් ඉන්ස්ට්‍රුමන්ට්",
+      "translation": "සංගීත භාණ්ඩයක් වාදනය කිරීම"
+    },
+    {
+      "word": "free time",
+      "reading": "ෆ්‍රී ටයිම්",
+      "meaning": "නිදහස් කාලය",
+      "example": "free time",
+      "exampleReading": "ෆ්‍රී ටයිම්",
+      "translation": "නිදහස් කාලය"
+    }
+  ],
+  "grammarTitle": "Grammar",
+  "grammar": "Use “I enjoy...” or “I like...” to describe interests. Follow these expressions with a noun or an -ing verb.",
+  "grammarTerms": [
+    {
+      "text": "I read books in my free time.",
+      "reading": "අයි රීඩ් බුක්ස් ඉන් මයි ෆ්‍රී ටයිම්.",
+      "meaning": "මගේ නිදහස් කාලයේ මම පොත් කියවනවා."
+    }
+  ],
+  "examples": [
+    {
+      "text": "I read books in my free time.",
+      "reading": "අයි රීඩ් බුක්ස් ඉන් මයි ෆ්‍රී ටයිම්.",
+      "meaning": "මගේ නිදහස් කාලයේ මම පොත් කියවනවා."
+    },
+    {
+      "text": "I enjoy going to the gym.",
+      "reading": "අයි එන්ජෝයි ගෝයිං ටු දි ජිම්.",
+      "meaning": "විනෝදාංශය"
+    },
+    {
+      "text": "I often go for a walk at weekends.",
+      "reading": "අයි ඔෆන් ගෝ ෆෝ අ වෝක් ඇට් වීකෙන්ඩ්ස්.",
+      "meaning": "ඇවිදීම"
+    }
+  ],
+  "dialogue": [
+    {
+      "text": "What do you do in your free time?",
+      "reading": "වොට් ඩූ යූ ඩූ ඉන් යෝර් ෆ්‍රී ටයිම්?",
+      "meaning": "මගේ නිදහස් කාලයේ මම පොත් කියවනවා."
+    },
+    {
+      "text": "I usually read or listen to music.",
+      "reading": "අයි යූෂුවලි රීඩ් ඕර් ලිසන් ටු මියුසික්.",
+      "meaning": "මගේ නිදහස් කාලයේ මම පොත් කියවනවා."
+    },
+    {
+      "text": "Are you interested in sports?",
+      "reading": "ආර් යූ ඉන්ට්‍රස්ටඩ් ඉන් ස්පෝර්ට්ස්?",
+      "meaning": "මගේ නිදහස් කාලයේ මම පොත් කියවනවා."
+    },
+    {
+      "text": "Yes, I train twice a week.",
+      "reading": "යෙස්, අයි ට්‍රේන් ට්වයිස් අ වීක්.",
+      "meaning": "මගේ නිදහස් කාලයේ මම පොත් කියවනවා."
+    }
+  ],
+  "listeningPractice": {
+    "prompt": "Listen and choose the meaning: “I read books in my free time.”",
+    "audio": "I read books in my free time.",
+    "reading": "අයි රීඩ් බුක්ස් ඉන් මයි ෆ්‍රී ටයිම්.",
+    "options": [
+      "මගේ නිදහස් කාලයේ මම පොත් කියවනවා.",
+      "වෙනත් අර්ථයක්",
+      "අදාළ නොවන අර්ථයක්"
+    ],
+    "answer": 0
+  },
+  "practice": [
+    {
+      "prompt": "Choose the word meaning “විනෝදාංශය”.",
+      "options": [
+        "hobby",
+        "walk",
+        "membership"
+      ],
+      "answer": 0,
+      "explanation": "hobby = විනෝදාංශය"
+    },
+    {
+      "prompt": "Choose the word meaning “ව්‍යායාම ශාලාව”.",
+      "options": [
+        "membership",
+        "gym",
+        "training"
+      ],
+      "answer": 1,
+      "explanation": "gym = ව්‍යායාම ශාලාව"
+    },
+    {
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "I read books in my free time.",
+        "I enjoy going to the gym.",
+        "I often go for a walk at weekends."
+      ],
+      "answer": 0,
+      "explanation": "මගේ නිදහස් කාලයේ මම පොත් කියවනවා."
+    },
+    {
+      "prompt": "Choose the final line of the dialogue.",
+      "options": [
+        "What do you do in your free time?",
+        "Yes, I train twice a week.",
+        "I usually read or listen to music."
+      ],
+      "answer": 1,
+      "explanation": "මගේ නිදහස් කාලයේ මම පොත් කියවනවා."
+    }
+  ]
 }
 ];
