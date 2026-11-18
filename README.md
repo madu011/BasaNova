@@ -9,7 +9,7 @@ BasaNova is a Sinhala-first language-learning app for learning Serbian and Engli
 - Serbian and English learning modes
 - Expanded Serbian and English beginner vocabulary decks (502 Serbian and 500 English entries; 1,002 total) with Sinhala meanings, approximate readings and example sentences
 - The A1 vocabulary packs cover numbers, weekdays, meals/food, everyday objects, shopping, directions, workplace, transport, home, weather, basic health, clothing, colours, daily verbs, useful adjectives, money, public places, technology, time expressions, family, feelings, cooking, meals, travel, road safety, tools, nature, healthcare, household cleaning, appliances, food, shopping, city services, travel, communication and specialist professions in both languages
-- Structured A1 curricula developed in parallel: 13 Serbian lessons and 13 English lessons, with matching matched modules for café ordering, everyday requests/help, numbers/date/time, daily routines, and work shifts/schedules. Lessons include Sinhala meanings, Sinhala-script pronunciation support, grammar, examples, dialogues, quizzes and listening checks; Serbian vocabulary/example/dialogue cards use manually authored readings where provided and a documented approximate fallback elsewhere
+- Structured A1 curricula developed in parallel: 13 Serbian lessons and 13 English lessons, with paired modules for café ordering, everyday requests/help, numbers/date/time, daily routines, and work shifts/schedules. Lessons include Sinhala meanings, Sinhala-script pronunciation support, grammar, examples, dialogues, quizzes and listening checks; Serbian vocabulary/example/dialogue cards use manually authored readings where provided and a documented approximate fallback elsewhere
 - More than 1,000 standard vocabulary entries across Serbian and English
 - Separate Serbian and English slang / mild profanity learning cards with Sinhala meanings, approximate pronunciation, contextual examples, caution notes, and audio playback; kept outside the standard vocabulary deck
 - Expanded Serbian A1 practical phrases for asking the time, requesting slower speech or repetition, asking for help/directions, and basic work communication
@@ -84,7 +84,7 @@ GitHub Actions runs dependency installation, Expo SDK compatibility checks, and 
 
 
 ### English A1 listening and revision practice
-- Added one listening-discrimination exercise to each of the six current English A1 lessons. Learners play/replay a target-language sentence, choose its Sinhala meaning, then check the answer; the correct option also reveals its Sinhala-script pronunciation reading.
+- Added one listening-discrimination exercise to each of the current English A1 lessons. Learners play/replay a target-language sentence, choose its Sinhala meaning, then check the answer; the correct option also reveals its Sinhala-script pronunciation reading.
 - Listening completion is included in each lesson's checked-question count. This is a session-only checked count, not persisted mastery or a proficiency score.
 
 
@@ -94,7 +94,7 @@ GitHub Actions runs dependency installation, Expo SDK compatibility checks, and 
 
 
 ### English A1 mixed revision test
-- Added a six-question mixed review beneath the six structured English A1 lessons. It samples greetings, responses, time, shopping, directions and workplace communication.
+- Added a ten-question mixed review beneath the structured English A1 lessons. It samples greetings, responses, time, shopping, directions and workplace communication.
 - Each question includes English TTS replay, a Sinhala-script pronunciation guide, three Sinhala meaning choices and answer feedback. Results are session-only; no saved mastery claim.
 
 
