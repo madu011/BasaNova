@@ -802,4 +802,82 @@ practice:[
 {prompt:"Choose a polite request to replace an item.",options:["Could you replace this?","It is sunny.","Good night."],readings:["කුඩ් යූ රිප්ලේස් දිස්?","ඉට් ඉස් සන්නි.","ගුඩ් නයිට්."],answer:0,explanation:"Could you replace this? = මේක වෙනුවට වෙන එකක් දෙන්න පුළුවන්ද?"},
 {prompt:"How do you thank someone for help?",options:["Thank you for your help.","Where is the station?","I am cold."],readings:["තෑන්ක් යූ ෆෝ යෝර් හෙල්ප්.","වෙයාර් ඉස් ද ස්ටේෂන්?","අයි ඇම් කෝල්ඩ්."],answer:0,explanation:"Thank you for your help = ඔබේ උදව්වට ස්තුතියි."}]}
 
+
+,
+{
+id:"en-a1-u6-l3",unit:"Phone calls and messages",title:"Lesson 24 · Phone calls and messages",objective:"Make a phone call, answer a call and send a short message.",
+vocabulary:[
+{word:"Call",reading:"කෝල්",meaning:"දුරකථන ඇමතුම",example:"I have a call.",exampleReading:"අයි හැව් අ කෝල්.",translation:"මට ඇමතුමක් තියෙනවා."},
+{word:"Message",reading:"මෙසිජ්",meaning:"පණිවිඩය",example:"I sent a message.",exampleReading:"අයි සෙන්ට් අ මෙසිජ්.",translation:"මම පණිවිඩයක් යැව්වා."},
+{word:"Phone number",reading:"ෆෝන් නම්බර්",meaning:"දුරකථන අංකය",example:"What is your phone number?",exampleReading:"වට් ඉස් යෝර් ෆෝන් නම්බර්?",translation:"ඔයාගේ දුරකථන අංකය මොකක්ද?"},
+{word:"Answer",reading:"ආන්සර්",meaning:"ඇමතුමට පිළිතුරු දීම",example:"Can you answer the phone?",exampleReading:"කැන් යූ ආන්සර් ද ෆෝන්?",translation:"ඔයාට දුරකථනයට පිළිතුරු දෙන්න පුළුවන්ද?"},
+{word:"Busy",reading:"බිසි",meaning:"කාර්යබහුල",example:"I am busy right now.",exampleReading:"අයි ඇම් බිසි රයිට් නව්.",translation:"මම මේ වෙලාවේ කාර්යබහුලයි."},
+{word:"Missed call",reading:"මිස්ට් කෝල්",meaning:"මඟහැරුණු ඇමතුම",example:"I saw your missed call.",exampleReading:"අයි සෝ යෝර් මිස්ට් කෝල්.",translation:"මම ඔයාගේ මඟහැරුණු ඇමතුම දැක්කා."},
+{word:"Send",reading:"සෙන්ඩ්",meaning:"යැවීම",example:"I can send you the address.",exampleReading:"අයි කැන් සෙන්ඩ් යූ දි ඇඩ්‍රස්.",translation:"මට ඔයාට ලිපිනය එවන්න පුළුවන්."},
+{word:"Reply",reading:"රිප්ලයි",meaning:"පිළිතුරු දීම",example:"I will reply soon.",exampleReading:"අයි විල් රිප්ලයි සූන්.",translation:"මම ඉක්මනින් පිළිතුරු දෙන්නම්."}],
+grammarTitle:"Grammar · Phone conversations and future plans",
+grammar:"Use “Hello, this is ...” to introduce yourself on a call. Use “Can I call you later?” to ask politely. Use “will + verb” for a future action: “I will reply soon.”",
+grammarTerms:[
+{text:"Hello, this is Mark.",reading:"හෙලෝ, දිස් ඉස් මාර්ක්.",meaning:"හෙලෝ, මේ මාර්ක්."},
+{text:"I cannot talk right now.",reading:"අයි කැන්නොට් ටෝක් රයිට් නව්.",meaning:"මට දැන් කතා කරන්න බැහැ."},
+{text:"I will call you later.",reading:"අයි විල් කෝල් යූ ලේටර්.",meaning:"මම ඔයාට පසුව කතා කරන්නම්."},
+{text:"Send me a message.",reading:"සෙන්ඩ් මී අ මෙසිජ්.",meaning:"මට පණිවිඩයක් එවන්න."},
+{text:"I will reply soon.",reading:"අයි විල් රිප්ලයි සූන්.",meaning:"මම ඉක්මනින් පිළිතුරු දෙන්නම්."}],
+examples:[
+{text:"Sorry, I am busy at the moment.",reading:"සොරි, අයි ඇම් බිසි ඇට් ද මෝමන්ට්.",meaning:"සමාවෙන්න, මම මේ වෙලාවේ කාර්යබහුලයි."},
+{text:"I will call you after work.",reading:"අයි විල් කෝල් යූ ආෆ්ටර් වර්ක්.",meaning:"වැඩෙන් පස්සේ මම ඔයාට කතා කරන්නම්."},
+{text:"Please send me the address by message.",reading:"ප්ලීස් සෙන්ඩ් මී දි ඇඩ්‍රස් බයි මෙසිජ්.",meaning:"කරුණාකර පණිවිඩයකින් මට ලිපිනය එවන්න."},
+{text:"I saw your missed call.",reading:"අයි සෝ යෝර් මිස්ට් කෝල්.",meaning:"මම ඔයාගේ මඟහැරුණු ඇමතුම දැක්කා."}],
+dialogue:[
+{text:"Hello, this is Mark.",reading:"හෙලෝ, දිස් ඉස් මාර්ක්.",meaning:"හෙලෝ, මේ මාර්ක්."},
+{text:"Hi! Can you talk now?",reading:"හායි! කැන් යූ ටෝක් නව්?",meaning:"හෙලෝ! ඔයාට දැන් කතා කරන්න පුළුවන්ද?"},
+{text:"Sorry, I am busy right now.",reading:"සොරි, අයි ඇම් බිසි රයිට් නව්.",meaning:"සමාවෙන්න, මම මේ වෙලාවේ කාර්යබහුලයි."},
+{text:"No problem. I will call you later.",reading:"නෝ ප්‍රොබ්ලම්. අයි විල් කෝල් යූ ලේටර්.",meaning:"කමක් නැහැ. මම ඔයාට පසුව කතා කරන්නම්."},
+{text:"Can you send me the address?",reading:"කැන් යූ සෙන්ඩ් මී දි ඇඩ්‍රස්?",meaning:"මට ලිපිනය එවන්න පුළුවන්ද?"},
+{text:"Of course. I will send a message.",reading:"ඔෆ් කෝර්ස්. අයි විල් සෙන්ඩ් අ මෙසිජ්.",meaning:"අනිවාර්යයෙන්. මම පණිවිඩයක් එවන්නම්."}],
+listeningPractice:{prompt:"Listen and choose the correct meaning: “I will call you later.”",audio:"I will call you later.",options:["මම ඔයාට පසුව කතා කරන්නම්.","මම දැන් කාර්යබහුලයි.","මට අංකය අමතකයි."],readings:["අයි විල් කෝල් යූ ලේටර්.","අයි ඇම් බිසි නව්.","අයි ෆොගොට් ද නම්බර්."],answer:0,meaning:"I will call you later. = මම ඔයාට පසුව කතා කරන්නම්."},
+practice:[
+{prompt:"Choose the word for “පණිවිඩය”.",options:["Call","Message","Busy"],readings:["කෝල්","මෙසිජ්","බිසි"],answer:1,explanation:"Message = පණිවිඩය."},
+{prompt:"How do you say “මම ඔයාට පසුව කතා කරන්නම්”?",options:["I will call you later.","I am busy now.","Send me a message."],readings:["අයි විල් කෝල් යූ ලේටර්.","අයි ඇම් බිසි නව්.","සෙන්ඩ් මී අ මෙසිජ්."],answer:0,explanation:"I will call you later = මම ඔයාට පසුව කතා කරන්නම්."},
+{prompt:"Choose “මඟහැරුණු ඇමතුම”.",options:["Phone number","Missed call","Reply"],readings:["ෆෝන් නම්බර්","මිස්ට් කෝල්","රිප්ලයි"],answer:1,explanation:"Missed call = මඟහැරුණු ඇමතුම."},
+{prompt:"How do you say “මට පණිවිඩයක් එවන්න”?",options:["Call me tomorrow.","Send me a message.","I am answering."],readings:["කෝල් මී ටුමොරෝ.","සෙන්ඩ් මී අ මෙසිජ්.","අයි ඇම් ආන්සරිං."],answer:1,explanation:"Send me a message = මට පණිවිඩයක් එවන්න."}]},
+{
+id:"en-a1-u6-l4",unit:"Post office and parcels",title:"Lesson 25 · Post office and parcels",objective:"Send a parcel, provide an address and ask about collecting a delivery.",
+vocabulary:[
+{word:"Post office",reading:"පෝස්ට් ඔෆිස්",meaning:"තැපැල් කාර්යාලය",example:"The post office is near the station.",exampleReading:"ද පෝස්ට් ඔෆිස් ඉස් නියර් ද ස්ටේෂන්.",translation:"තැපැල් කාර්යාලය නැවතුම්පොළ අසලයි."},
+{word:"Parcel",reading:"පාර්සල්",meaning:"පාර්සලය",example:"I want to send a parcel.",exampleReading:"අයි වොන්ට් ටු සෙන්ඩ් අ පාර්සල්.",translation:"මට පාර්සලයක් යවන්න ඕනේ."},
+{word:"Shipment",reading:"ෂිප්මන්ට්",meaning:"යැවූ භාණ්ඩය / තොගය",example:"The shipment arrives tomorrow.",exampleReading:"ද ෂිප්මන්ට් අරයිව්ස් ටුමොරෝ.",translation:"යැවූ භාණ්ඩය හෙට ලැබෙනවා."},
+{word:"Address",reading:"ඇඩ්‍රස්",meaning:"ලිපිනය",example:"Write the address here.",exampleReading:"රයිට් දි ඇඩ්‍රස් හියර්.",translation:"මෙතැන ලිපිනය ලියන්න."},
+{word:"Recipient",reading:"රිසිපියන්ට්",meaning:"ලබන්නා",example:"Who is the recipient?",exampleReading:"හූ ඉස් ද රිසිපියන්ට්?",translation:"ලබන්නා කවුද?"},
+{word:"Sender",reading:"සෙන්ඩර්",meaning:"යවන්නා",example:"Write the sender's name.",exampleReading:"රයිට් ද සෙන්ඩර්ස් නේම්.",translation:"යවන්නාගේ නම ලියන්න."},
+{word:"Send",reading:"සෙන්ඩ්",meaning:"යැවීම",example:"I can send the document.",exampleReading:"අයි කැන් සෙන්ඩ් ද ඩොකියුමන්ට්.",translation:"මට ලේඛනය යවන්න පුළුවන්."},
+{word:"Collect",reading:"කලෙක්ට්",meaning:"ලබාගැනීම / භාරගැනීම",example:"Where can I collect the parcel?",exampleReading:"වෙයාර් කැන් අයි කලෙක්ට් ද පාර්සල්?",translation:"මට පාර්සලය ලබාගන්න පුළුවන් කොහෙන්ද?"}],
+grammarTitle:"Grammar · Sending and collecting parcels",
+grammar:"Use “I would like to send ...” to make a polite request. Ask “Who is the recipient?” to identify the person receiving an item. Use “Where can I collect ...?” to ask where to pick something up.",
+grammarTerms:[
+{text:"I would like to send a parcel.",reading:"අයි වුඩ් ලයික් ටු සෙන්ඩ් අ පාර්සල්.",meaning:"මට පාර්සලයක් යවන්න ඕනේ."},
+{text:"Who is the recipient?",reading:"හූ ඉස් ද රිසිපියන්ට්?",meaning:"ලබන්නා කවුද?"},
+{text:"This is my address.",reading:"දිස් ඉස් මයි ඇඩ්‍රස්.",meaning:"මේ මගේ ලිපිනයයි."},
+{text:"When will the shipment arrive?",reading:"වෙන් විල් ද ෂිප්මන්ට් අරයිව්?",meaning:"යැවූ භාණ්ඩය ලැබෙන්නේ කවදාද?"},
+{text:"Where can I collect the parcel?",reading:"වෙයාර් කැන් අයි කලෙක්ට් ද පාර්සල්?",meaning:"මට පාර්සලය ලබාගන්න පුළුවන් කොහෙන්ද?"}],
+examples:[
+{text:"I would like to send a parcel to Belgrade.",reading:"අයි වුඩ් ලයික් ටු සෙන්ඩ් අ පාර්සල් ටු බෙල්ග්‍රේඩ්.",meaning:"මට බෙල්ග්‍රේඩ් වෙත පාර්සලයක් යවන්න ඕනේ."},
+{text:"This is the recipient's address.",reading:"දිස් ඉස් ද රිසිපියන්ට්ස් ඇඩ්‍රස්.",meaning:"මේ ලබන්නාගේ ලිපිනයයි."},
+{text:"How much does parcel delivery cost?",reading:"හව් මච් ඩස් පාර්සල් ඩිලිවරි කොස්ට්?",meaning:"පාර්සලය බෙදාහැරීමට කොපමණ මුදලක් වැය වෙනවාද?"},
+{text:"I can collect the shipment tomorrow.",reading:"අයි කැන් කලෙක්ට් ද ෂිප්මන්ට් ටුමොරෝ.",meaning:"මට හෙට යැවූ භාණ්ඩය ලබාගන්න පුළුවන්."}],
+dialogue:[
+{text:"Good afternoon. I would like to send a parcel.",reading:"ගුඩ් ආෆ්ටර්නූන්. අයි වුඩ් ලයික් ටු සෙන්ඩ් අ පාර්සල්.",meaning:"සුබ සන්ධ්‍යාවක්. මට පාර්සලයක් යවන්න ඕනේ."},
+{text:"Of course. Do you have the recipient's address?",reading:"ඔෆ් කෝර්ස්. ඩූ යූ හැව් ද රිසිපියන්ට්ස් ඇඩ්‍රස්?",meaning:"අනිවාර්යයෙන්. ලබන්නාගේ ලිපිනය ඔබ ළඟ තියෙනවාද?"},
+{text:"Yes, here is the address.",reading:"යෙස්, හියර් ඉස් දි ඇඩ්‍රස්.",meaning:"ඔව්, මෙන්න ලිපිනය."},
+{text:"What is the sender's name?",reading:"වට් ඉස් ද සෙන්ඩර්ස් නේම්?",meaning:"යවන්නාගේ නම මොකක්ද?"},
+{text:"My name is Mark.",reading:"මයි නේම් ඉස් මාර්ක්.",meaning:"මගේ නම මාර්ක්."},
+{text:"All right. The shipment will arrive in three days.",reading:"ඕල් රයිට්. ද ෂිප්මන්ට් විල් අරයිව් ඉන් ත්‍රී ඩේස්.",meaning:"හරි. යැවූ භාණ්ඩය දින තුනකින් ලැබෙනවා."}],
+listeningPractice:{prompt:"Listen and choose the correct meaning: “I would like to send a parcel.”",audio:"I would like to send a parcel.",options:["මට පාර්සලයක් යවන්න ඕනේ.","මට පාර්සලය ලබාගන්න ඕනේ.","තැපැල් කාර්යාලය වහලා."],readings:["අයි වුඩ් ලයික් ටු සෙන්ඩ් අ පාර්සල්.","අයි වුඩ් ලයික් ටු කලෙක්ට් ද පාර්සල්.","ද පෝස්ට් ඔෆිස් ඉස් ක්ලෝස්ඩ්."],answer:0,meaning:"I would like to send a parcel. = මට පාර්සලයක් යවන්න ඕනේ."},
+practice:[
+{prompt:"Choose the word for “පාර්සලය”.",options:["Address","Parcel","Sender"],readings:["ඇඩ්‍රස්","පාර්සල්","සෙන්ඩර්"],answer:1,explanation:"Parcel = පාර්සලය."},
+{prompt:"Choose “ලබන්නා”.",options:["Sender","Recipient","Shipment"],readings:["සෙන්ඩර්","රිසිපියන්ට්","ෂිප්මන්ට්"],answer:1,explanation:"Recipient = ලබන්නා."},
+{prompt:"How do you say “මට පාර්සලයක් යවන්න ඕනේ”?",options:["I want to collect a parcel.","I would like to send a parcel.","Where is the post office?"],readings:["අයි වොන්ට් ටු කලෙක්ට් අ පාර්සල්.","අයි වුඩ් ලයික් ටු සෙන්ඩ් අ පාර්සල්.","වෙයාර් ඉස් ද පෝස්ට් ඔෆිස්?"],answer:1,explanation:"I would like to send a parcel = මට පාර්සලයක් යවන්න ඕනේ."},
+{prompt:"Choose the word for “ලිපිනය”.",options:["Address","Parcel","Post office"],readings:["ඇඩ්‍රස්","පාර්සල්","පෝස්ට් ඔෆිස්"],answer:0,explanation:"Address = ලිපිනය."}]}
+
+
 ];
