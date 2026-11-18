@@ -879,5 +879,43 @@ practice:[
 {prompt:"How do you say “මට පාර්සලයක් යවන්න ඕනේ”?",options:["I want to collect a parcel.","I would like to send a parcel.","Where is the post office?"],readings:["අයි වොන්ට් ටු කලෙක්ට් අ පාර්සල්.","අයි වුඩ් ලයික් ටු සෙන්ඩ් අ පාර්සල්.","වෙයාර් ඉස් ද පෝස්ට් ඔෆිස්?"],answer:1,explanation:"I would like to send a parcel = මට පාර්සලයක් යවන්න ඕනේ."},
 {prompt:"Choose the word for “ලිපිනය”.",options:["Address","Parcel","Post office"],readings:["ඇඩ්‍රස්","පාර්සල්","පෝස්ට් ඔෆිස්"],answer:0,explanation:"Address = ලිපිනය."}]}
 
+,
+{
+id:"en-a1-u6-l5",unit:"Doctor and health",title:"Lesson 26 · Doctor and health",objective:"Ask for a medical appointment, describe common symptoms and understand simple instructions.",
+vocabulary:[
+{word:"Doctor",reading:"ඩොක්ටර්",meaning:"වෛද්‍යවරයා",example:"I need to see a doctor.",exampleReading:"අයි නීඩ් ටු සී අ ඩොක්ටර්.",translation:"මට වෛද්‍යවරයෙකු හමුවෙන්න ඕනේ."},
+{word:"Appointment",reading:"අපොයින්ට්මන්ට්",meaning:"වෙන්කරගත් වේලාව / හමුවීම",example:"I have an appointment today.",exampleReading:"අයි හැව් ඇන් අපොයින්ට්මන්ට් ටුඩේ.",translation:"මට අද හමුවීමක් තියෙනවා."},
+{word:"Check-up",reading:"චෙක්-අප්",meaning:"වෛද්‍ය පරීක්ෂාව",example:"I need a check-up.",exampleReading:"අයි නීඩ් අ චෙක්-අප්.",translation:"මට වෛද්‍ය පරීක්ෂාවක් අවශ්‍යයි."},
+{word:"Pain",reading:"පේන්",meaning:"වේදනාව",example:"I have pain in my throat.",exampleReading:"අයි හැව් පේන් ඉන් මයි ත්‍රෝට්.",translation:"මගේ උගුරේ වේදනාවක් තියෙනවා."},
+{word:"Head",reading:"හෙඩ්",meaning:"හිස",example:"My head hurts.",exampleReading:"මයි හෙඩ් හර්ට්ස්.",translation:"මගේ හිස රිදෙනවා."},
+{word:"Temperature",reading:"ටෙම්ප්‍රචර්",meaning:"උණ / ශරීර උෂ්ණත්වය",example:"I have a temperature.",exampleReading:"අයි හැව් අ ටෙම්ප්‍රචර්.",translation:"මට උණ තියෙනවා."},
+{word:"Pharmacy",reading:"ෆාමසි",meaning:"ඖෂධහල",example:"Where is the nearest pharmacy?",exampleReading:"වෙයාර් ඉස් ද නියරිස්ට් ෆාමසි?",translation:"ළඟම ඖෂධහල කොහෙද?"},
+{word:"Prescription",reading:"ප්‍රිස්ක්‍රිප්ෂන්",meaning:"වෛද්‍ය බෙහෙත් වට්ටෝරුව",example:"I have a prescription.",exampleReading:"අයි හැව් අ ප්‍රිස්ක්‍රිප්ෂන්.",translation:"මට බෙහෙත් වට්ටෝරුවක් තියෙනවා."}],
+grammarTitle:"Grammar · Describing symptoms and booking an appointment",
+grammar:"Use “I have ...” for a symptom or condition: “I have a temperature.” Use “My ... hurts” for pain: “My head hurts.” To request a visit politely, say “I would like to make an appointment.”",
+grammarTerms:[
+{text:"I would like to make an appointment.",reading:"අයි වුඩ් ලයික් ටු මේක් ඇන් අපොයින්ට්මන්ට්.",meaning:"මට හමුවීමේ වේලාවක් වෙන්කරගන්න ඕනේ."},
+{text:"My head hurts.",reading:"මයි හෙඩ් හර්ට්ස්.",meaning:"මගේ හිස රිදෙනවා."},
+{text:"I have a temperature.",reading:"අයි හැව් අ ටෙම්ප්‍රචර්.",meaning:"මට උණ තියෙනවා."},
+{text:"How long have you had the symptoms?",reading:"හවු ලොන්ග් හැව් යූ හැඩ් ද සිම්ප්ටම්ස්?",meaning:"ඔබට මේ රෝග ලක්ෂණ කොපමණ කාලයක සිට තියෙනවාද?"},
+{text:"Should I come tomorrow?",reading:"ෂුඩ් අයි කම් ටුමොරෝ?",meaning:"මම හෙට එන්න ඕනෙද?"}],
+examples:[
+{text:"Good morning. I would like to make an appointment.",reading:"ගුඩ් මෝර්නින්. අයි වුඩ් ලයික් ටු මේක් ඇන් අපොයින්ට්මන්ට්.",meaning:"සුබ උදෑසනක්. මට හමුවීමේ වේලාවක් වෙන්කරගන්න ඕනේ."},
+{text:"My throat hurts and I have a cough.",reading:"මයි ත්‍රෝට් හර්ට්ස් ඇන්ඩ් අයි හැව් අ කොෆ්.",meaning:"මගේ උගුර රිදෙනවා, කැස්සකුත් තියෙනවා."},
+{text:"Do you have an available appointment today?",reading:"ඩූ යූ හැව් ඇන් අවේලබල් අපොයින්ට්මන්ට් ටුඩේ?",meaning:"අද ඔබට හිස් හමුවීමේ වේලාවක් තියෙනවාද?"},
+{text:"Where is the nearest pharmacy?",reading:"වෙයාර් ඉස් ද නියරිස්ට් ෆාමසි?",meaning:"ළඟම ඖෂධහල කොහෙද?"}],
+dialogue:[
+{text:"Good morning. I would like to make an appointment.",reading:"ගුඩ් මෝර්නින්. අයි වුඩ් ලයික් ටු මේක් ඇන් අපොයින්ට්මන්ට්.",meaning:"සුබ උදෑසනක්. මට හමුවීමේ වේලාවක් වෙන්කරගන්න ඕනේ."},
+{text:"Of course. What seems to be the problem?",reading:"ඔෆ් කෝර්ස්. වොට් සීම්ස් ටු බී ද ප්‍රොබ්ලම්?",meaning:"අනිවාර්යයෙන්. ඔබට තියෙන අපහසුතාවය මොකක්ද?"},
+{text:"My head hurts and I have a temperature.",reading:"මයි හෙඩ් හර්ට්ස් ඇන්ඩ් අයි හැව් අ ටෙම්ප්‍රචර්.",meaning:"මගේ හිස රිදෙනවා, උණත් තියෙනවා."},
+{text:"Can you come tomorrow at ten?",reading:"කැන් යූ කම් ටුමොරෝ ඇට් ටෙන්?",meaning:"ඔබට හෙට දහයට එන්න පුළුවන්ද?"},
+{text:"Yes, that time works for me.",reading:"යෙස්, දැට් ටයිම් වර්ක්ස් ෆෝ මී.",meaning:"ඔව්, ඒ වේලාව මට ගැළපෙනවා."},
+{text:"All right. Please bring your health card.",reading:"ඕල් රයිට්. ප්ලීස් බ්‍රිං යෝර් හෙල්ත් කාඩ්.",meaning:"හරි. කරුණාකර ඔබගේ සෞඛ්‍ය කාඩ්පත රැගෙන එන්න."}],
+practice:[
+{prompt:"Choose the English word for “වෛද්‍යවරයා”.",options:["Doctor","Prescription","Pain"],readings:["ඩොක්ටර්","ප්‍රිස්ක්‍රිප්ෂන්","පේන්"],answer:0,explanation:"Doctor = වෛද්‍යවරයා."},
+{prompt:"How do you say “මගේ හිස රිදෙනවා”?",options:["I have an appointment.","My head hurts.","Where is the pharmacy?"],readings:["අයි හැව් ඇන් අපොයින්ට්මන්ට්.","මයි හෙඩ් හර්ට්ස්.","වෙයාර් ඉස් ද ෆාමසි?"],answer:1,explanation:"My head hurts = මගේ හිස රිදෙනවා."},
+{prompt:"Choose the word for “ඖෂධහල”.",options:["Temperature","Check-up","Pharmacy"],readings:["ටෙම්ප්‍රචර්","චෙක්-අප්","ෆාමසි"],answer:2,explanation:"Pharmacy = ඖෂධහල."},
+{prompt:"Choose “මට හමුවීමේ වේලාවක් වෙන්කරගන්න ඕනේ”.",options:["I would like to make an appointment.","I have a prescription.","My throat hurts."],readings:["අයි වුඩ් ලයික් ටු මේක් ඇන් අපොයින්ට්මන්ට්.","අයි හැව් අ ප්‍රිස්ක්‍රිප්ෂන්.","මයි ත්‍රෝට් හර්ට්ස්."],answer:0,explanation:"I would like to make an appointment = මට හමුවීමේ වේලාවක් වෙන්කරගන්න ඕනේ."}]
+}
 
 ];
