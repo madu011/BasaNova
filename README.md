@@ -260,3 +260,9 @@ The Cloudflare Worker uses the included `cloudflare/wrangler.toml` rate-limit bi
 - Final exam data commit: `433cf2c913647ce786fe5e36ba15786d30e004eb`; Learn-screen integration commit: `dfcd55435754fae8d3ccc39faed40285c4fab82f`.
 - This completes the planned 50-lesson A1 lesson sequence and adds scored listening/comprehension assessments. It does not yet represent a fully CEFR-certified exam: reading/writing assessment and automatic speaking evaluation are not implemented, and Sinhala pronunciation requires fluent-speaker review.
 - Latest Expo validation and Android build runs must be checked before claiming the app builds successfully. No APK artifact or physical-device test is confirmed by this documentation update.
+
+
+### A1 lesson-sequence integrity audit
+- Audited the lesson arrays after adding the final units. Serbian and English each now contain exactly 50 structured lesson objects, with lesson numbers 1–50 present once each.
+- Filled Serbian sequence gaps at lessons 3–5 and English sequence gaps at lessons 8–10; removed duplicate lesson objects introduced during the earlier batch additions.
+- The 50-object count is source-verified. Final CI validation and APK artifact verification are still pending; this does not replace native-speaker review or physical-device testing.
