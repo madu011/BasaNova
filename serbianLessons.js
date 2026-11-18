@@ -533,7 +533,7 @@ export const SERBIAN_A1_LESSONS = [
       { word: "Ne razumem.", meaning: "මට තේරෙන්නේ නැහැ.", example: "Izvinite, ne razumem.", translation: "සමාවෙන්න, මට තේරෙන්නේ නැහැ." }
     ],
     grammarTerms: [
-      { sr: "Radim", si: "මම වැඩ කරනවා", reading: "රාදිම්" },
+      { sr: "Radim", si: "මම වැඩ කරනවා", reading: "මොෂෙතෙ ලි දා පොනොවිතෙ" },
       { sr: "Radite", si: "ඔබ වැඩ කරනවා", reading: "රාදිතෙ" },
       { sr: "Gde radite?", si: "ඔබ කොහෙද වැඩ කරන්නේ?", reading: "ග්දේ රාදිතෙ?" },
       { sr: "Možete li da ...?", si: "ඔබට ... කරන්න පුළුවන්ද?", reading: "මොෂෙතෙ ලි දා ...?" },
