@@ -638,6 +638,13 @@ export default function App(){
       ,{audio:"One ticket to Belgrade, please.",reading:"වන් ටික්ට් ටු බෙල්ග්‍රේඩ්, ප්ලීස්.",answer:0,options:["බෙල්ග්‍රේඩ් දක්වා ටිකට් එකක් දෙන්න, කරුණාකර.","වේදිකාව කොහෙද?","දුම්රිය ප්‍රමාදයි."]}
       ,{audio:"The book is on the table.",reading:"ද බුක් ඉස් ඔන් ද ටේබල්.",answer:1,options:["පොත කාමරයේ තියෙනවා.","පොත මේසය මත තියෙනවා.","පොත පුටුව යට තියෙනවා."]}
       ,{audio:"Sunday is my day off.",reading:"සන්ඩේ ඉස් මයි ඩේ ඕෆ්.",answer:2,options:["මම ඉරිදා උදේ වැඩ කරනවා.","ඉරිදා මගේ වැඩ මුරයයි.","ඉරිදා මගේ නිවාඩු දිනයයි."]}
+      ,{audio:"I eat eggs and bread for breakfast.",reading:"අයි ඊට් එග්ස් ඇන්ඩ් බ්‍රෙඩ් ෆෝර් බ්‍රෙක්ෆස්ට්.",answer:1,options:["මම රාත්‍රී ආහාරයට සුප් බොනවා.","උදෑසනට මම බිත්තර සහ පාන් කනවා.","මම එළවළු මිලදී ගන්නවා."]}
+      ,{audio:"I like to cook.",reading:"අයි ලයික් ටු කුක්.",answer:0,options:["මම උයන්න කැමතියි.","මම කෑම කන්නේ නැහැ.","මම වැඩට යනවා."]}
+      ,{audio:"What is the weather like today?",reading:"වොට් ඉස් ද වෙදර් ලයික් ටුඩේ?",answer:2,options:["අද වෙලාව කීයද?","හෙට මොනවාද උයන්නේ?","අද කාලගුණය කොහොමද?"]}
+      ,{audio:"Take an umbrella. It is raining.",reading:"ටේක් ඇන් අම්බ්‍රෙලා. ඉට් ඉස් රේනින්.",answer:1,options:["ජැකට්ටුවක් ගලවන්න. අව්වයි.","කුඩයක් රැගෙන යන්න. වැස්ස වැටෙනවා.","සපත්තු මිලදී ගන්න."]}
+      ,{audio:"There are two rooms in my apartment.",reading:"දෙයාර් ආ ටූ රූම්ස් ඉන් මයි අපාර්ට්මන්ට්.",answer:0,options:["මගේ මහල් නිවාසයේ කාමර දෙකක් තියෙනවා.","මගේ නිවසේ පුටු දෙකක් තියෙනවා.","මගේ කාමරය කුඩායි."]}
+      ,{audio:"My sister is a teacher.",reading:"මයි සිස්ටර් ඉස් අ ටීචර්.",answer:2,options:["මගේ සහෝදරයා රියදුරෙක්.","මගේ මව ගෙදර ඉන්නවා.","මගේ සහෝදරිය ගුරුවරියක්."]}
+
      ].map((q,qi)=>{
       const key="english-a1-mixed-"+qi;const selected=lessonAnswers[key];const checked=lessonChecked[key];
       return <View key={key} style={s.quizCard}>
