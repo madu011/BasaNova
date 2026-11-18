@@ -59,11 +59,11 @@ export const LESSON_METHOD = [
 ];
 
 
-// B1 lesson-content milestone. Ten paired lessons are authored; the full 50-lesson level is not complete.
+// B1 lesson-content milestone. Twenty paired lessons are authored; the full 50-lesson level is not complete.
 export const B1_COURSE_STATUS = {
   plannedLessons: 50,
-  authoredLessons: { Serbian: 10, English: 10 },
+  authoredLessons: { Serbian: 20, English: 20 },
   pairedTopics: true,
-  remainingLessons: 40,
-  remainingValidation: ["complete lessons 11–50 in paired batches", "cumulative B1 revision and assessment", "fluent-speaker review of Sinhala pronunciation", "CI and Android device verification"]
+  remainingLessons: 30,
+  remainingValidation: ["complete lessons 21–50 in paired batches", "cumulative B1 revision and assessment", "fluent-speaker review of Sinhala pronunciation", "CI and Android device verification"]
 };
