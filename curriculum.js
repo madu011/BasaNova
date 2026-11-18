@@ -67,3 +67,14 @@ export const B1_COURSE_STATUS = {
   remainingLessons: 0,
   remainingValidation: ["fluent-speaker review of B1 final exam items and answer translations", "full B1 assessment content review", "fluent-speaker review of Sinhala pronunciation", "CI and Android device verification"]
 };
+
+
+// B2 opening batch. Further lessons 12-50 are planned, not yet authored.
+export const B2_COURSE_STATUS = {
+  plannedLessons: 50,
+  authoredLessons: { Serbian: 11, English: 11 },
+  pairedTopics: true,
+  remainingLessons: 39,
+  completedBatch: "lessons 1-11 in both languages",
+  remainingValidation: ["review Serbian idiom and Sinhala-script pronunciation", "review English-to-Sinhala translations", "complete lessons 12-50", "CI and Android device verification"]
+};
