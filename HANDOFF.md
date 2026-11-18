@@ -160,3 +160,6 @@
 
 
 - 2026-11-18 continuation: Polished the saved-vocabulary filter UX in `App.js`: switching between all entries and saved-only now clears stale search/letter filters, includes accessibility labels, and shows a specific helpful empty state when no words have been bookmarked. App commit: `5fdcd7e2ab5f9d599711bace9700d83a5389e6ae`. Inspected `package.json` and `app.json`: the project currently has only Expo start scripts and no test/lint/build script, `eas.json`, or GitHub Actions workflow file at the checked paths. Therefore no automated build/test result is available from this repo state; Android runtime and persistence still require device testing.
+
+
+- 2026-11-18 continuation: Continued the Serbian A1 language-content audit and corrected a Croatian-form spelling accidentally used in the Serbian number lesson: `Broj dvjesta.` is now `Broj dvesta.` to match the Serbian vocabulary item `Dvesta` and dialogue usage. App content commit: `eaef024671314b2f817e85b5d5ef0f070bbebc1c`. This is a narrow spelling correction, not a full native-speaker review of all Sinhala-script pronunciation guides. Next: continue checking Serbian A1 vocabulary, example sentences, grammar explanations, and listening readings for accuracy.
