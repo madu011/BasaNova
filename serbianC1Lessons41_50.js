@@ -1,4 +1,4 @@
-// C1 lessons 41–50. Paired advanced topics; Sinhala readings are learner approximations.
+// C1 lessons 41–50. Serbian examples and dialogue with approximate Sinhala-script readings.
 export const SERBIAN_C1_LESSONS_41_50 = [
   {
     "id": "sr-c1-l41",
@@ -1464,6 +1464,169 @@ export const SERBIAN_C1_LESSONS_41_50 = [
         ],
         "answer": 0,
         "explanation": "Ograničenja treba jasno navesti."
+      }
+    ]
+  },
+  {
+    "id": "sr-c1-l50",
+    "unit": "C1 · Profesionalni integritet i etičko rasuđivanje",
+    "title": "C1 · 50 · Profesionalni integritet i etičko rasuđivanje",
+    "objective": "සංකීර්ණ වෘත්තීය තත්ත්වයකදී සදාචාරාත්මක මූලධර්ම, වගවීම සහ ප්‍රතිවිපාක සලකා තීරණයක් සාධාරණීකරණය කරන්න.",
+    "vocabulary": [
+      {
+        "word": "integritet",
+        "reading": "ඉන්ට්එග්ර්ඉට්එට්",
+        "meaning": "අඛණ්ඩතාව",
+        "example": "Etički principi treba da usmeravaju profesionalne odluke.",
+        "translation": "වෘත්තීය තීරණවලට සදාචාරාත්මක මූලධර්ම මඟපෙන්විය යුතුය."
+      },
+      {
+        "word": "načelo",
+        "reading": "න්අච්එල්ඔ",
+        "meaning": "මූලධර්මය",
+        "example": "Integritet podrazumeva doslednost između reči i postupaka.",
+        "translation": "අඛණ්ඩතාව යනු වචන සහ ක්‍රියා අතර අනුකූලතාවයි."
+      },
+      {
+        "word": "dilema",
+        "reading": "ඩ්ඉල්එම්අ",
+        "meaning": "සදාචාරාත්මක උභතෝකෝටිකය",
+        "example": "Težak izbor zahteva razmatranje posledica po sve uključene strane.",
+        "translation": "අසීරු තේරීමක් සියලු පාර්ශ්වයන්ට ඇති ප්‍රතිවිපාක සලකා බැලීම අවශ්‍ය කරයි."
+      },
+      {
+        "word": "pravičnost",
+        "reading": "ප්ර්අව්ඉච්න්ඔස්ට්",
+        "meaning": "සාධාරණත්වය",
+        "example": "Odgovornost znači da smo spremni da obrazložimo svoju odluku.",
+        "translation": "වගවීම යනු අපගේ තීරණය පැහැදිලි කිරීමට සූදානම් වීමයි."
+      },
+      {
+        "word": "posledica",
+        "reading": "ප්ඔස්ල්එඩ්ඉcඅ",
+        "meaning": "ප්‍රතිවිපාකය",
+        "example": "Etički principi treba da usmeravaju profesionalne odluke.",
+        "translation": "වෘත්තීය තීරණවලට සදාචාරාත්මක මූලධර්ම මඟපෙන්විය යුතුය."
+      },
+      {
+        "word": "odgovornost",
+        "reading": "ඔඩ්ග්ඔව්ඔර්න්ඔස්ට්",
+        "meaning": "වගවීම",
+        "example": "Integritet podrazumeva doslednost između reči i postupaka.",
+        "translation": "අඛණ්ඩතාව යනු වචන සහ ක්‍රියා අතර අනුකූලතාවයි."
+      },
+      {
+        "word": "doslednost",
+        "reading": "ඩ්ඔස්ල්එඩ්න්ඔස්ට්",
+        "meaning": "අනුකූලතාව",
+        "example": "Težak izbor zahteva razmatranje posledica po sve uključene strane.",
+        "translation": "අසීරු තේරීමක් සියලු පාර්ශ්වයන්ට ඇති ප්‍රතිවිපාක සලකා බැලීම අවශ්‍ය කරයි."
+      },
+      {
+        "word": "obrazloženje",
+        "reading": "ඔබ්ර්අස්ල්ඔෂ්එන්ය්එ",
+        "meaning": "තර්කානුකූල පැහැදිලි කිරීම",
+        "example": "Odgovornost znači da smo spremni da obrazložimo svoju odluku.",
+        "translation": "වගවීම යනු අපගේ තීරණය පැහැදිලි කිරීමට සූදානම් වීමයි."
+      }
+    ],
+    "grammarTitle": "Gramatika i stil",
+    "grammar": "Pri obrazlaganju etičke odluke koristite uslovne konstrukcije, uzročno-posledične veze i precizne izraze za stepen sigurnosti. Razlikujte lični stav od profesionalne obaveze.",
+    "examples": [
+      {
+        "text": "Etički principi treba da usmeravaju profesionalne odluke.",
+        "reading": "එට්ඉච්ක්ඉ ප්ර්ඉන්cඉප්ඉ ට්ර්එබ්අ ඩ්අ උස්ම්එර්අව්අය්උ ප්ර්ඔෆ්එස්ඉඔන්අල්න්එ ඔඩ්ල්උක්එ.",
+        "meaning": "වෘත්තීය තීරණවලට සදාචාරාත්මක මූලධර්ම මඟපෙන්විය යුතුය."
+      },
+      {
+        "text": "Integritet podrazumeva doslednost između reči i postupaka.",
+        "reading": "ඉන්ට්එග්ර්ඉට්එට් ප්ඔඩ්ර්අස්උම්එව්අ ඩ්ඔස්ල්එඩ්න්ඔස්ට් ඉස්ම්එජ්උ ර්එච්ඉ ඉ ප්ඔස්ට්උප්අක්අ.",
+        "meaning": "අඛණ්ඩතාව යනු වචන සහ ක්‍රියා අතර අනුකූලතාවයි."
+      },
+      {
+        "text": "Težak izbor zahteva razmatranje posledica po sve uključene strane.",
+        "reading": "ට්එෂ්අක් ඉස්බ්ඔර් ස්අහ්ට්එව්අ ර්අස්ම්අට්ර්අන්ය්එ ප්ඔස්ල්එඩ්ඉcඅ ප්ඔ ස්ව්එ උක්ල්ය්උච්එන්එ ස්ට්ර්අන්එ.",
+        "meaning": "අසීරු තේරීමක් සියලු පාර්ශ්වයන්ට ඇති ප්‍රතිවිපාක සලකා බැලීම අවශ්‍ය කරයි."
+      },
+      {
+        "text": "Odgovornost znači da smo spremni da obrazložimo svoju odluku.",
+        "reading": "ඔඩ්ග්ඔව්ඔර්න්ඔස්ට් ස්න්අච්ඉ ඩ්අ ස්ම්ඔ ස්ප්ර්එම්න්ඉ ඩ්අ ඔබ්ර්අස්ල්ඔෂ්ඉම්ඔ ස්ව්ඔය්උ ඔඩ්ල්උක්උ.",
+        "meaning": "වගවීම යනු අපගේ තීරණය පැහැදිලි කිරීමට සූදානම් වීමයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "Koji princip treba da bude presudan?",
+        "reading": "ක්ඔය්ඉ ප්ර්ඉන්cඉප් ට්ර්එබ්අ ඩ්අ බ්උඩ්එ ප්ර්එස්උඩ්අන්?",
+        "meaning": "තීරණාත්මක විය යුතු මූලධර්මය කුමක්ද?"
+      },
+      {
+        "text": "Treba da postupimo pravično i transparentno.",
+        "reading": "ට්ර්එබ්අ ඩ්අ ප්ඔස්ට්උප්ඉම්ඔ ප්ර්අව්ඉච්න්ඔ ඉ ට්ර්අන්ස්ප්අර්එන්ට්න්ඔ.",
+        "meaning": "අප සාධාරණව සහ විනිවිදභාවයෙන් ක්‍රියා කළ යුතුය."
+      },
+      {
+        "text": "A šta ako se interesi sukobljavaju?",
+        "reading": "අ ෂ්ට්අ අක්ඔ ස්එ ඉන්ට්එර්එස්ඉ ස්උක්ඔබ්ල්ය්අව්අය්උ?",
+        "meaning": "අවශ්‍යතා එකිනෙකට ගැටුණහොත් කුමක්ද?"
+      },
+      {
+        "text": "Onda moramo jasno obrazložiti odluku i njene posledice.",
+        "reading": "ඔන්ඩ්අ ම්ඔර්අම්ඔ ය්අස්න්ඔ ඔබ්ර්අස්ල්ඔෂ්ඉට්ඉ ඔඩ්ල්උක්උ ඉ න්ය්එන්එ ප්ඔස්ල්එඩ්ඉcඑ.",
+        "meaning": "එවිට තීරණය සහ එහි ප්‍රතිවිපාක පැහැදිලිව සාධාරණීකරණය කළ යුතුය."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Poslušajte i izaberite najtačnije tumačenje.",
+      "audio": "Etički principi treba da usmeravaju profesionalne odluke. Integritet podrazumeva doslednost između reči i postupaka. Težak izbor zahteva razmatranje posledica po sve uključene strane. Odgovornost znači da smo spremni da obrazložimo svoju odluku.",
+      "reading": "එට්ඉච්ක්ඉ ප්ර්ඉන්cඉප්ඉ ට්ර්එබ්අ ඩ්අ උස්ම්එර්අව්අය්උ ප්ර්ඔෆ්එස්ඉඔන්අල්න්එ ඔඩ්ල්උක්එ. ඉන්ට්එග්ර්ඉට්එට් ප්ඔඩ්ර්අස්උම්එව්අ ඩ්ඔස්ල්එඩ්න්ඔස්ට් ඉස්ම්එජ්උ ර්එච්ඉ ඉ ප්ඔස්ට්උප්අක්අ. ට්එෂ්අක් ඉස්බ්ඔර් ස්අහ්ට්එව්අ ර්අස්ම්අට්ර්අන්ය්එ ප්ඔස්ල්එඩ්ඉcඅ ප්ඔ ස්ව්එ උක්ල්ය්උච්එන්එ ස්ට්ර්අන්එ. ඔඩ්ග්ඔව්ඔර්න්ඔස්ට් ස්න්අච්ඉ ඩ්අ ස්ම්ඔ ස්ප්ර්එම්න්ඉ ඩ්අ ඔබ්ර්අස්ල්ඔෂ්ඉම්ඔ ස්ව්ඔය්උ ඔඩ්ල්උක්උ.",
+      "options": [
+        "වෘත්තීය තීරණවලට සදාචාරාත්මක මූලධර්ම මඟපෙන්විය යුතුය. වගවීම යනු අපගේ තීරණය පැහැදිලි කිරීමට සූදානම් වීමයි.",
+        "Svaka odluka je jednostavna.",
+        "Nema potrebe za obrazloženjem."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "Koji pojam označava doslednost između reči i postupaka?",
+        "options": [
+          "integritet",
+          "dilema",
+          "posledica"
+        ],
+        "answer": 0,
+        "explanation": "Integritet podrazumeva doslednost."
+      },
+      {
+        "prompt": "Koji izraz označava težak izbor između mogućnosti?",
+        "options": [
+          "načelo",
+          "dilema",
+          "doslednost"
+        ],
+        "answer": 1,
+        "explanation": "Dilema je složen izbor."
+      },
+      {
+        "prompt": "Šta treba uzeti u obzir pri etičkoj odluci?",
+        "options": [
+          "Posledice po sve uključene strane",
+          "Samo ličnu korist",
+          "Nepotvrđene pretpostavke"
+        ],
+        "answer": 0,
+        "explanation": "Razmotrite posledice po sve strane."
+      },
+      {
+        "prompt": "Kako treba obrazložiti odluku?",
+        "options": [
+          "Jasno i odgovorno",
+          "Bez dokaza",
+          "Izbegavanjem pitanja"
+        ],
+        "answer": 0,
+        "explanation": "Odgovornost zahteva jasno obrazloženje."
       }
     ]
   }
