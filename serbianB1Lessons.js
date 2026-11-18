@@ -3399,5 +3399,1545 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "“Slažem se” යනු “මම එකඟයි” යන්නයි."
       }
     ]
+  },
+  {
+    "id": "sr-b1-l21",
+    "unit": "ස්වාධීන භාවිතය",
+    "title": "B1 · පාඩම 21 · මගේ කුසලතා දියුණු කරගැනීමට පාඨමාලාව අවසන් කරන්න කැමතියි.",
+    "objective": "මගේ කුසලතා දියුණු කරගැනීමට පාඨමාලාව අවසන් කරන්න කැමතියි. ගැන පැහැදිලිව කතා කිරීම සහ හේතු ඉදිරිපත් කිරීම",
+    "vocabulary": [
+      {
+        "word": "sertifikat",
+        "reading": "සෙර්තිෆිකාත්",
+        "meaning": "සහතිකය"
+      },
+      {
+        "word": "kvalifikacija",
+        "reading": "ක්වාලිෆිකාත්සියා",
+        "meaning": "සුදුසුකම"
+      },
+      {
+        "word": "obuka",
+        "reading": "ඔබුකා",
+        "meaning": "පුහුණුව"
+      },
+      {
+        "word": "predavanje",
+        "reading": "ප්‍රෙදාවාන්යේ",
+        "meaning": "දේශනය"
+      },
+      {
+        "word": "zadatak",
+        "reading": "සාදාතාක්",
+        "meaning": "පැවරුම"
+      },
+      {
+        "word": "rok",
+        "reading": "රොක්",
+        "meaning": "අවසන් දිනය"
+      },
+      {
+        "word": "upisati se",
+        "reading": "උපිසාති සෙ",
+        "meaning": "ලියාපදිංචි වෙනවා"
+      },
+      {
+        "word": "unaprediti",
+        "reading": "උනප්‍රෙදити",
+        "meaning": "දියුණු කරනවා"
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "“da bih” යොදා අරමුණක් සහ “kako bih” යොදා ක්‍රමයක් විස්තර කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Želim da završim kurs kako bih unapredio svoje veštine.",
+        "reading": "ෂෙලිම් ද සාව්ර්ෂිම් කුර්ස් කාකො බිහ් උනප්‍රෙදියො ස්වොයෙ වෙෂ්තිනෙ.",
+        "si": "මගේ කුසලතා දියුණු කරගැනීමට පාඨමාලාව අවසන් කරන්න කැමතියි."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Želim da završim kurs kako bih unapredio svoje veštine.",
+        "reading": "ෂෙලිම් ද සාව්ර්ෂිම් කුර්ස් කාකො බිහ් උනප්‍රෙදියො ස්වොයෙ වෙෂ්තිනෙ.",
+        "si": "මගේ කුසලතා දියුණු කරගැනීමට පාඨමාලාව අවසන් කරන්න කැමතියි."
+      },
+      {
+        "sr": "Važno je da razmotrimo sve dostupne mogućnosti.",
+        "reading": "වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ දොස්තුප්නෙ මොගුච්නොස්ති.",
+        "si": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "Možemo da napravimo plan i da ga prilagodimo situaciji.",
+        "reading": "මොෂෙමො ද නප්‍රාවිමො ප්ලාන් ඉ ද ගා ප්‍රිලාගොදිමො සිතුආත්සියි.",
+        "si": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි."
+      },
+      {
+        "sr": "Na osnovu iskustva, ovaj pristup može biti koristan.",
+        "reading": "නා ඔස්නොවු ඉස්කුස්ත්වා ඔවායි ප්‍රිස්තුප් මොෂෙ බිති කොරිස්තාන්.",
+        "si": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "A: Želim da završim kurs kako bih unapredio svoje veštine.",
+        "reading": "A: ෂෙලිම් ද සාව්ර්ෂිම් කුර්ස් කාකො බිහ් උනප්‍රෙදියො ස්වොයෙ වෙෂ්තිනෙ.",
+        "si": "මගේ කුසලතා දියුණු කරගැනීමට පාඨමාලාව අවසන් කරන්න කැමතියි."
+      },
+      {
+        "sr": "B: Razumem. Možeš li da objasniš zašto?",
+        "reading": "B: රාසුමෙම්. මොෂෙෂ් ලි ද ඔබ්යස්නිෂ් සාෂ්තො?",
+        "si": "තේරුණා. ඇයි කියලා පැහැදිලි කරන්න පුළුවන්ද?"
+      },
+      {
+        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
+        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "B: Slažem se. Hajde da napravimo plan.",
+        "reading": "B: ස්ලාෂෙම් සෙ. හාය්දෙ ද නප්‍රාවිමො ප්ලාන්.",
+        "si": "එකඟයි. අපි සැලැස්මක් හදමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Želim da završim kurs kako bih unapredio svoje veštine.",
+      "audio": "Želim da završim kurs kako bih unapredio svoje veštine.",
+      "reading": "ෂෙලිම් ද සාව්ර්ෂිම් කුර්ස් කාකො බිහ් උනප්‍රෙදියො ස්වොයෙ වෙෂ්තිනෙ.",
+      "options": [
+        "මගේ කුසලතා දියුණු කරගැනීමට පාඨමාලාව අවසන් කරන්න කැමතියි.",
+        "මෙහි අදහස වෙනස්ය.",
+        "මෙය ප්‍රශ්නයක් නොවේ."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“sertifikat” යන්නෙහි අර්ථය?",
+        "options": [
+          "සහතිකය",
+          "වෙනත් අර්ථයක්",
+          "එයට සම්බන්ධ නැති අදහස"
+        ],
+        "answer": 0,
+        "explanation": "sertifikat = සහතිකය"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Ja sutra juče.",
+          "Želim da završim kurs kako bih unapredio svoje veštine.",
+          "Mi biti dobro."
+        ],
+        "answer": 1,
+        "explanation": "මගේ කුසලතා දියුණු කරගැනීමට පාඨමාලාව අවසන් කරන්න කැමතියි."
+      },
+      {
+        "prompt": "“kvalifikacija” යන්නෙහි අර්ථය?",
+        "options": [
+          "සුදුසුකම",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් වචනය"
+        ],
+        "answer": 0,
+        "explanation": "kvalifikacija = සුදුසුකම"
+      },
+      {
+        "prompt": "සංවාදයේ B පුද්ගලයාගේ අවසාන යෝජනාව කුමක්ද?",
+        "options": [
+          "සැලැස්මක් සකස් කිරීම",
+          "ගමන නවත්වන්න",
+          "මිල අසන්න"
+        ],
+        "answer": 0,
+        "explanation": "Hajde da napravimo plan = අපි සැලැස්මක් හදමු."
+      }
+    ]
+  },
+  {
+    "id": "sr-b1-l22",
+    "unit": "ස්වාධීන භාවිතය",
+    "title": "B1 · පාඩම 22 · මගේ වැඩ සංවිධානය කිරීමට උදව් කරන යෙදුමක් භාවිතා කරනවා.",
+    "objective": "මගේ වැඩ සංවිධානය කිරීමට උදව් කරන යෙදුමක් භාවිතා කරනවා. ගැන පැහැදිලිව කතා කිරීම සහ හේතු ඉදිරිපත් කිරීම",
+    "vocabulary": [
+      {
+        "word": "aplikacija",
+        "reading": "අප්ලිකාත්සියා",
+        "meaning": "යෙදුම"
+      },
+      {
+        "word": "nalog",
+        "reading": "නාලොග්",
+        "meaning": "ගිණුම"
+      },
+      {
+        "word": "lozinka",
+        "reading": "ලොසින්කා",
+        "meaning": "මුරපදය"
+      },
+      {
+        "word": "prilog",
+        "reading": "ප්‍රිලොග්",
+        "meaning": "ඇමුණුම"
+      },
+      {
+        "word": "preuzeti",
+        "reading": "ප්‍රෙඋසෙති",
+        "meaning": "බාගත කරනවා"
+      },
+      {
+        "word": "ažurirati",
+        "reading": "අෂුරිරати",
+        "meaning": "යාවත්කාලීන කරනවා"
+      },
+      {
+        "word": "privatnost",
+        "reading": "ප්‍රිවාත්නොස්ත්",
+        "meaning": "පෞද්ගලිකත්වය"
+      },
+      {
+        "word": "veza",
+        "reading": "වෙසා",
+        "meaning": "සම්බන්ධතාව"
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "“koji/koja/koje” යොදා නාම පදයක් ගැන අමතර තොරතුරු දෙන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Koristim aplikaciju koja mi pomaže da organizujem obaveze.",
+        "reading": "කොරිස්තිම් අප්ලිකාත්සියු කොයා මි පොමාෂෙ ද ඔර්ගානිසුයෙම් ඔබාවේසෙ.",
+        "si": "මගේ වැඩ සංවිධානය කිරීමට උදව් කරන යෙදුමක් භාවිතා කරනවා."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Koristim aplikaciju koja mi pomaže da organizujem obaveze.",
+        "reading": "කොරිස්තිම් අප්ලිකාත්සියු කොයා මි පොමාෂෙ ද ඔර්ගානිසුයෙම් ඔබාවේසෙ.",
+        "si": "මගේ වැඩ සංවිධානය කිරීමට උදව් කරන යෙදුමක් භාවිතා කරනවා."
+      },
+      {
+        "sr": "Važno je da razmotrimo sve dostupne mogućnosti.",
+        "reading": "වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ දොස්තුප්නෙ මොගුච්නොස්ති.",
+        "si": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "Možemo da napravimo plan i da ga prilagodimo situaciji.",
+        "reading": "මොෂෙමො ද නප්‍රාවිමො ප්ලාන් ඉ ද ගා ප්‍රිලාගොදිමො සිතුආත්සියි.",
+        "si": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි."
+      },
+      {
+        "sr": "Na osnovu iskustva, ovaj pristup može biti koristan.",
+        "reading": "නා ඔස්නොවු ඉස්කුස්ත්වා ඔවායි ප්‍රිස්තුප් මොෂෙ බිති කොරිස්තාන්.",
+        "si": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "A: Koristim aplikaciju koja mi pomaže da organizujem obaveze.",
+        "reading": "A: කොරිස්තිම් අප්ලිකාත්සියු කොයා මි පොමාෂෙ ද ඔර්ගානිසුයෙම් ඔබාවේසෙ.",
+        "si": "මගේ වැඩ සංවිධානය කිරීමට උදව් කරන යෙදුමක් භාවිතා කරනවා."
+      },
+      {
+        "sr": "B: Razumem. Možeš li da objasniš zašto?",
+        "reading": "B: රාසුමෙම්. මොෂෙෂ් ලි ද ඔබ්යස්නිෂ් සාෂ්තො?",
+        "si": "තේරුණා. ඇයි කියලා පැහැදිලි කරන්න පුළුවන්ද?"
+      },
+      {
+        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
+        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "B: Slažem se. Hajde da napravimo plan.",
+        "reading": "B: ස්ලාෂෙම් සෙ. හාය්දෙ ද නප්‍රාවිමො ප්ලාන්.",
+        "si": "එකඟයි. අපි සැලැස්මක් හදමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Koristim aplikaciju koja mi pomaže da organizujem obaveze.",
+      "audio": "Koristim aplikaciju koja mi pomaže da organizujem obaveze.",
+      "reading": "කොරිස්තිම් අප්ලිකාත්සියු කොයා මි පොමාෂෙ ද ඔර්ගානිසුයෙම් ඔබාවේසෙ.",
+      "options": [
+        "මගේ වැඩ සංවිධානය කිරීමට උදව් කරන යෙදුමක් භාවිතා කරනවා.",
+        "මෙහි අදහස වෙනස්ය.",
+        "මෙය ප්‍රශ්නයක් නොවේ."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“aplikacija” යන්නෙහි අර්ථය?",
+        "options": [
+          "එයට සම්බන්ධ නැති අදහස",
+          "වෙනත් අර්ථයක්",
+          "යෙදුම"
+        ],
+        "answer": 1,
+        "explanation": "aplikacija = යෙදුම"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Ja sutra juče.",
+          "Koristim aplikaciju koja mi pomaže da organizujem obaveze.",
+          "Mi biti dobro."
+        ],
+        "answer": 1,
+        "explanation": "මගේ වැඩ සංවිධානය කිරීමට උදව් කරන යෙදුමක් භාවිතා කරනවා."
+      },
+      {
+        "prompt": "“nalog” යන්නෙහි අර්ථය?",
+        "options": [
+          "ගිණුම",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් වචනය"
+        ],
+        "answer": 0,
+        "explanation": "nalog = ගිණුම"
+      },
+      {
+        "prompt": "සංවාදයේ B පුද්ගලයාගේ අවසාන යෝජනාව කුමක්ද?",
+        "options": [
+          "සැලැස්මක් සකස් කිරීම",
+          "ගමන නවත්වන්න",
+          "මිල අසන්න"
+        ],
+        "answer": 0,
+        "explanation": "Hajde da napravimo plan = අපි සැලැස්මක් හදමු."
+      }
+    ]
+  },
+  {
+    "id": "sr-b1-l23",
+    "unit": "ස්වාධීන භාවිතය",
+    "title": "B1 · පාඩම 23 · නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්.",
+    "objective": "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්. ගැන පැහැදිලිව කතා කිරීම සහ හේතු ඉදිරිපත් කිරීම",
+    "vocabulary": [
+      {
+        "word": "ušteđevina",
+        "reading": "උෂ්තෙජෙවිනා",
+        "meaning": "ඉතිරිකිරීම්"
+      },
+      {
+        "word": "budžet",
+        "reading": "බුජෙත්",
+        "meaning": "අයවැය"
+      },
+      {
+        "word": "trošak",
+        "reading": "ත්‍රොෂාක්",
+        "meaning": "වියදම"
+      },
+      {
+        "word": "prihod",
+        "reading": "ප්‍රිහොද්",
+        "meaning": "ආදායම"
+      },
+      {
+        "word": "prenos",
+        "reading": "ප්‍රෙනොස්",
+        "meaning": "මාරු කිරීම"
+      },
+      {
+        "word": "naknada",
+        "reading": "නක්නාදා",
+        "meaning": "ගාස්තුව"
+      },
+      {
+        "word": "kamata",
+        "reading": "කමාතා",
+        "meaning": "පොලිය"
+      },
+      {
+        "word": "izvod",
+        "reading": "ඉස්වොද්",
+        "meaning": "ගිණුම් ප්‍රකාශය"
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "“ukoliko” සහ “pod uslovom da” යොදා කොන්දේසි පැහැදිලි කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Ukoliko redovno štedim, mogu da planiram veće troškove.",
+        "reading": "උකොලිකො රෙද්වොව්නො ෂ්තෙදිම් මොගු ද ප්ලානිрам වෙචෙ ත්‍රොෂ්කොවෙ.",
+        "si": "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Ukoliko redovno štedim, mogu da planiram veće troškove.",
+        "reading": "උකොලිකො රෙද්වොව්නො ෂ්තෙදිම් මොගු ද ප්ලානිрам වෙචෙ ත්‍රොෂ්කොවෙ.",
+        "si": "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්."
+      },
+      {
+        "sr": "Važno je da razmotrimo sve dostupne mogućnosti.",
+        "reading": "වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ දොස්තුප්නෙ මොගුච්නොස්ති.",
+        "si": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "Možemo da napravimo plan i da ga prilagodimo situaciji.",
+        "reading": "මොෂෙමො ද නප්‍රාවිමො ප්ලාන් ඉ ද ගා ප්‍රිලාගොදිමො සිතුආත්සියි.",
+        "si": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි."
+      },
+      {
+        "sr": "Na osnovu iskustva, ovaj pristup može biti koristan.",
+        "reading": "නා ඔස්නොවු ඉස්කුස්ත්වා ඔවායි ප්‍රිස්තුප් මොෂෙ බිති කොරිස්තාන්.",
+        "si": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "A: Ukoliko redovno štedim, mogu da planiram veće troškove.",
+        "reading": "A: උකොලිකො රෙද්වොව්නො ෂ්තෙදිම් මොගු ද ප්ලානිрам වෙචෙ ත්‍රොෂ්කොවෙ.",
+        "si": "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්."
+      },
+      {
+        "sr": "B: Razumem. Možeš li da objasniš zašto?",
+        "reading": "B: රාසුමෙම්. මොෂෙෂ් ලි ද ඔබ්යස්නිෂ් සාෂ්තො?",
+        "si": "තේරුණා. ඇයි කියලා පැහැදිලි කරන්න පුළුවන්ද?"
+      },
+      {
+        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
+        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "B: Slažem se. Hajde da napravimo plan.",
+        "reading": "B: ස්ලාෂෙම් සෙ. හාය්දෙ ද නප්‍රාවිමො ප්ලාන්.",
+        "si": "එකඟයි. අපි සැලැස්මක් හදමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Ukoliko redovno štedim, mogu da planiram veće troškove.",
+      "audio": "Ukoliko redovno štedim, mogu da planiram veće troškove.",
+      "reading": "උකොලිකො රෙද්වොව්නො ෂ්තෙදිම් මොගු ද ප්ලානිрам වෙචෙ ත්‍රොෂ්කොවෙ.",
+      "options": [
+        "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්.",
+        "මෙහි අදහස වෙනස්ය.",
+        "මෙය ප්‍රශ්නයක් නොවේ."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“ušteđevina” යන්නෙහි අර්ථය?",
+        "options": [
+          "වෙනත් අර්ථයක්",
+          "එයට සම්බන්ධ නැති අදහස",
+          "ඉතිරිකිරීම්"
+        ],
+        "answer": 2,
+        "explanation": "ušteđevina = ඉතිරිකිරීම්"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Ja sutra juče.",
+          "Ukoliko redovno štedim, mogu da planiram veće troškove.",
+          "Mi biti dobro."
+        ],
+        "answer": 1,
+        "explanation": "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්."
+      },
+      {
+        "prompt": "“budžet” යන්නෙහි අර්ථය?",
+        "options": [
+          "අයවැය",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් වචනය"
+        ],
+        "answer": 0,
+        "explanation": "budžet = අයවැය"
+      },
+      {
+        "prompt": "සංවාදයේ B පුද්ගලයාගේ අවසාන යෝජනාව කුමක්ද?",
+        "options": [
+          "සැලැස්මක් සකස් කිරීම",
+          "ගමන නවත්වන්න",
+          "මිල අසන්න"
+        ],
+        "answer": 0,
+        "explanation": "Hajde da napravimo plan = අපි සැලැස්මක් හදමු."
+      }
+    ]
+  },
+  {
+    "id": "sr-b1-l24",
+    "unit": "ස්වාධීන භාවිතය",
+    "title": "B1 · පාඩම 24 · වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා.",
+    "objective": "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා. ගැන පැහැදිලිව කතා කිරීම සහ හේතු ඉදිරිපත් කිරීම",
+    "vocabulary": [
+      {
+        "word": "dobrobit",
+        "reading": "දොබ්‍රොබිත්",
+        "meaning": "යහපැවැත්ම"
+      },
+      {
+        "word": "navika",
+        "reading": "නාවිකා",
+        "meaning": "පුරුද්ද"
+      },
+      {
+        "word": "san",
+        "reading": "සාන්",
+        "meaning": "නින්ද"
+      },
+      {
+        "word": "vežbanje",
+        "reading": "වෙෂ්බාන්යේ",
+        "meaning": "ව්‍යායාමය"
+      },
+      {
+        "word": "uravnotežen",
+        "reading": "උරාව්නොතෙෂෙන්",
+        "meaning": "සමබර"
+      },
+      {
+        "word": "stres",
+        "reading": "ස්ත්‍රෙස්",
+        "meaning": "මානසික පීඩනය"
+      },
+      {
+        "word": "rutina",
+        "reading": "රුතිනා",
+        "meaning": "දෛනික රටාව"
+      },
+      {
+        "word": "oporavak",
+        "reading": "ඔපොරාවාක්",
+        "meaning": "සුවය ලැබීම"
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "“iako” සහ “uprkos tome” යොදා විරුද්ධ අදහස් සම්බන්ධ කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Iako imam mnogo obaveza, trudim se da dovoljno spavam.",
+        "reading": "ඉයකො ඉමාම් ම්නොගො ඔබාවේසා ත්‍රුදිම් සෙ ද දොවොල්ය්නො ස්පාවාම්.",
+        "si": "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Iako imam mnogo obaveza, trudim se da dovoljno spavam.",
+        "reading": "ඉයකො ඉමාම් ම්නොගො ඔබාවේසා ත්‍රුදිම් සෙ ද දොවොල්ය්නො ස්පාවාම්.",
+        "si": "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා."
+      },
+      {
+        "sr": "Važno je da razmotrimo sve dostupne mogućnosti.",
+        "reading": "වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ දොස්තුප්නෙ මොගුච්නොස්ති.",
+        "si": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "Možemo da napravimo plan i da ga prilagodimo situaciji.",
+        "reading": "මොෂෙමො ද නප්‍රාවිමො ප්ලාන් ඉ ද ගා ප්‍රිලාගොදිමො සිතුආත්සියි.",
+        "si": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි."
+      },
+      {
+        "sr": "Na osnovu iskustva, ovaj pristup može biti koristan.",
+        "reading": "නා ඔස්නොවු ඉස්කුස්ත්වා ඔවායි ප්‍රිස්තුප් මොෂෙ බිති කොරිස්තාන්.",
+        "si": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "A: Iako imam mnogo obaveza, trudim se da dovoljno spavam.",
+        "reading": "A: ඉයකො ඉමාම් ම්නොගො ඔබාවේසා ත්‍රුදිම් සෙ ද දොවොල්ය්නො ස්පාවාම්.",
+        "si": "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා."
+      },
+      {
+        "sr": "B: Razumem. Možeš li da objasniš zašto?",
+        "reading": "B: රාසුමෙම්. මොෂෙෂ් ලි ද ඔබ්යස්නිෂ් සාෂ්තො?",
+        "si": "තේරුණා. ඇයි කියලා පැහැදිලි කරන්න පුළුවන්ද?"
+      },
+      {
+        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
+        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "B: Slažem se. Hajde da napravimo plan.",
+        "reading": "B: ස්ලාෂෙම් සෙ. හාය්දෙ ද නප්‍රාවිමො ප්ලාන්.",
+        "si": "එකඟයි. අපි සැලැස්මක් හදමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Iako imam mnogo obaveza, trudim se da dovoljno spavam.",
+      "audio": "Iako imam mnogo obaveza, trudim se da dovoljno spavam.",
+      "reading": "ඉයකො ඉමාම් ම්නොගො ඔබාවේසා ත්‍රුදිම් සෙ ද දොවොල්ය්නො ස්පාවාම්.",
+      "options": [
+        "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා.",
+        "මෙහි අදහස වෙනස්ය.",
+        "මෙය ප්‍රශ්නයක් නොවේ."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“dobrobit” යන්නෙහි අර්ථය?",
+        "options": [
+          "යහපැවැත්ම",
+          "වෙනත් අර්ථයක්",
+          "එයට සම්බන්ධ නැති අදහස"
+        ],
+        "answer": 0,
+        "explanation": "dobrobit = යහපැවැත්ම"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Ja sutra juče.",
+          "Iako imam mnogo obaveza, trudim se da dovoljno spavam.",
+          "Mi biti dobro."
+        ],
+        "answer": 1,
+        "explanation": "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා."
+      },
+      {
+        "prompt": "“navika” යන්නෙහි අර්ථය?",
+        "options": [
+          "පුරුද්ද",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් වචනය"
+        ],
+        "answer": 0,
+        "explanation": "navika = පුරුද්ද"
+      },
+      {
+        "prompt": "සංවාදයේ B පුද්ගලයාගේ අවසාන යෝජනාව කුමක්ද?",
+        "options": [
+          "සැලැස්මක් සකස් කිරීම",
+          "ගමන නවත්වන්න",
+          "මිල අසන්න"
+        ],
+        "answer": 0,
+        "explanation": "Hajde da napravimo plan = අපි සැලැස්මක් හදමු."
+      }
+    ]
+  },
+  {
+    "id": "sr-b1-l25",
+    "unit": "ස්වාධීන භාවිතය",
+    "title": "B1 · පාඩම 25 · මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා.",
+    "objective": "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා. ගැන පැහැදිලිව කතා කිරීම සහ හේතු ඉදිරිපත් කිරීම",
+    "vocabulary": [
+      {
+        "word": "tradicija",
+        "reading": "ත්‍රාදිත්සියා",
+        "meaning": "සම්ප්‍රදාය"
+      },
+      {
+        "word": "običaj",
+        "reading": "ඔබිචායි",
+        "meaning": "චාරිත්‍රය"
+      },
+      {
+        "word": "nasleđe",
+        "reading": "නාස්ලෙජෙ",
+        "meaning": "උරුමය"
+      },
+      {
+        "word": "generacija",
+        "reading": "ජෙනෙරාත්සියා",
+        "meaning": "පරම්පරාව"
+      },
+      {
+        "word": "proslava",
+        "reading": "ප්‍රොස්ලාවා",
+        "meaning": "උත්සවය"
+      },
+      {
+        "word": "nošnja",
+        "reading": "නොෂ්න්යා",
+        "meaning": "සාම්ප්‍රදායික ඇඳුම"
+      },
+      {
+        "word": "uticaj",
+        "reading": "උතිත්සායි",
+        "meaning": "බලපෑම"
+      },
+      {
+        "word": "identitet",
+        "reading": "ඉදෙන්තිතෙත්",
+        "meaning": "අනන්‍යතාව"
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "“nekada” සහ “danas” යොදා අතීතය හා වර්තමානය සංසන්දනය කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Ovaj običaj se prenosi sa generacije na generaciju.",
+        "reading": "ඔවායි ඔබිචායි සෙ ප්‍රෙනොසි සා ජෙනෙරාත්සියේ නා ජෙනෙරාත්සියු.",
+        "si": "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Ovaj običaj se prenosi sa generacije na generaciju.",
+        "reading": "ඔවායි ඔබිචායි සෙ ප්‍රෙනොසි සා ජෙනෙරාත්සියේ නා ජෙනෙරාත්සියු.",
+        "si": "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා."
+      },
+      {
+        "sr": "Važno je da razmotrimo sve dostupne mogućnosti.",
+        "reading": "වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ දොස්තුප්නෙ මොගුච්නොස්ති.",
+        "si": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "Možemo da napravimo plan i da ga prilagodimo situaciji.",
+        "reading": "මොෂෙමො ද නප්‍රාවිමො ප්ලාන් ඉ ද ගා ප්‍රිලාගොදිමො සිතුආත්සියි.",
+        "si": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි."
+      },
+      {
+        "sr": "Na osnovu iskustva, ovaj pristup može biti koristan.",
+        "reading": "නා ඔස්නොවු ඉස්කුස්ත්වා ඔවායි ප්‍රිස්තුප් මොෂෙ බිති කොරිස්තාන්.",
+        "si": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "A: Ovaj običaj se prenosi sa generacije na generaciju.",
+        "reading": "A: ඔවායි ඔබිචායි සෙ ප්‍රෙනොසි සා ජෙනෙරාත්සියේ නා ජෙනෙරාත්සියු.",
+        "si": "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා."
+      },
+      {
+        "sr": "B: Razumem. Možeš li da objasniš zašto?",
+        "reading": "B: රාසුමෙම්. මොෂෙෂ් ලි ද ඔබ්යස්නිෂ් සාෂ්තො?",
+        "si": "තේරුණා. ඇයි කියලා පැහැදිලි කරන්න පුළුවන්ද?"
+      },
+      {
+        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
+        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "B: Slažem se. Hajde da napravimo plan.",
+        "reading": "B: ස්ලාෂෙම් සෙ. හාය්දෙ ද නප්‍රාවිමො ප්ලාන්.",
+        "si": "එකඟයි. අපි සැලැස්මක් හදමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Ovaj običaj se prenosi sa generacije na generaciju.",
+      "audio": "Ovaj običaj se prenosi sa generacije na generaciju.",
+      "reading": "ඔවායි ඔබිචායි සෙ ප්‍රෙනොසි සා ජෙනෙරාත්සියේ නා ජෙනෙරාත්සියු.",
+      "options": [
+        "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා.",
+        "මෙහි අදහස වෙනස්ය.",
+        "මෙය ප්‍රශ්නයක් නොවේ."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“tradicija” යන්නෙහි අර්ථය?",
+        "options": [
+          "එයට සම්බන්ධ නැති අදහස",
+          "වෙනත් අර්ථයක්",
+          "සම්ප්‍රදාය"
+        ],
+        "answer": 1,
+        "explanation": "tradicija = සම්ප්‍රදාය"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Ja sutra juče.",
+          "Ovaj običaj se prenosi sa generacije na generaciju.",
+          "Mi biti dobro."
+        ],
+        "answer": 1,
+        "explanation": "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා."
+      },
+      {
+        "prompt": "“običaj” යන්නෙහි අර්ථය?",
+        "options": [
+          "චාරිත්‍රය",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් වචනය"
+        ],
+        "answer": 0,
+        "explanation": "običaj = චාරිත්‍රය"
+      },
+      {
+        "prompt": "සංවාදයේ B පුද්ගලයාගේ අවසාන යෝජනාව කුමක්ද?",
+        "options": [
+          "සැලැස්මක් සකස් කිරීම",
+          "ගමන නවත්වන්න",
+          "මිල අසන්න"
+        ],
+        "answer": 0,
+        "explanation": "Hajde da napravimo plan = අපි සැලැස්මක් හදමු."
+      }
+    ]
+  },
+  {
+    "id": "sr-b1-l26",
+    "unit": "ස්වාධීන භාවිතය",
+    "title": "B1 · පාඩම 26 · මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කරලා පාරිභෝගික ගැටලු විසඳන්න ඉගෙන ගත්තා.",
+    "objective": "මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කරලා පාරිභෝගික ගැටලු විසඳන්න ඉගෙන ගත්තා. ගැන පැහැදිලිව කතා කිරීම සහ හේතු ඉදිරිපත් කිරීම",
+    "vocabulary": [
+      {
+        "word": "iskustvo",
+        "reading": "ඉස්කුස්ත්වො",
+        "meaning": "පළපුරුද්ද"
+      },
+      {
+        "word": "postignuće",
+        "reading": "පොස්තිග්නුචෙ",
+        "meaning": "ජයග්‍රහණය"
+      },
+      {
+        "word": "odgovornost",
+        "reading": "ඔද්ගොවොර්නොස්ත්",
+        "meaning": "වගකීම"
+      },
+      {
+        "word": "razgovor za posao",
+        "reading": "රාස්ගොවොර සා පොසාඔ",
+        "meaning": "සම්මුඛ පරීක්ෂණය"
+      },
+      {
+        "word": "poslodavac",
+        "reading": "පොස්ලොදාවාත්ස්",
+        "meaning": "සේවායෝජකයා"
+      },
+      {
+        "word": "kolega",
+        "reading": "කොලෙගා",
+        "meaning": "සගයා"
+      },
+      {
+        "word": "unapređenje",
+        "reading": "උනප්‍රෙජෙන්යේ",
+        "meaning": "උසස්වීම"
+      },
+      {
+        "word": "preporuka",
+        "reading": "ප්‍රෙපොරුකා",
+        "meaning": "නිර්දේශය"
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "“imam iskustva u” සහ “odgovoran sam za” යොදා වෘත්තීය පළපුරුද්ද විස්තර කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Radio sam u prodaji i naučio sam da rešavam probleme kupaca.",
+        "reading": "රාදියො සාම් උ ප්‍රොදායි ඉ නවුචියො සාම් ද රෙෂාවාම් ප්‍රොබ්ලෙමෙ කුපාත්සා.",
+        "si": "මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කරලා පාරිභෝගික ගැටලු විසඳන්න ඉගෙන ගත්තා."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Radio sam u prodaji i naučio sam da rešavam probleme kupaca.",
+        "reading": "රාදියො සාම් උ ප්‍රොදායි ඉ නවුචියො සාම් ද රෙෂාවාම් ප්‍රොබ්ලෙමෙ කුපාත්සා.",
+        "si": "මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කරලා පාරිභෝගික ගැටලු විසඳන්න ඉගෙන ගත්තා."
+      },
+      {
+        "sr": "Važno je da razmotrimo sve dostupne mogućnosti.",
+        "reading": "වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ දොස්තුප්නෙ මොගුච්නොස්ති.",
+        "si": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "Možemo da napravimo plan i da ga prilagodimo situaciji.",
+        "reading": "මොෂෙමො ද නප්‍රාවිමො ප්ලාන් ඉ ද ගා ප්‍රිලාගොදිමො සිතුආත්සියි.",
+        "si": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි."
+      },
+      {
+        "sr": "Na osnovu iskustva, ovaj pristup može biti koristan.",
+        "reading": "නා ඔස්නොවු ඉස්කුස්ත්වා ඔවායි ප්‍රිස්තුප් මොෂෙ බිති කොරිස්තාන්.",
+        "si": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "A: Radio sam u prodaji i naučio sam da rešavam probleme kupaca.",
+        "reading": "A: රාදියො සාම් උ ප්‍රොදායි ඉ නවුචියො සාම් ද රෙෂාවාම් ප්‍රොබ්ලෙමෙ කුපාත්සා.",
+        "si": "මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කරලා පාරිභෝගික ගැටලු විසඳන්න ඉගෙන ගත්තා."
+      },
+      {
+        "sr": "B: Razumem. Možeš li da objasniš zašto?",
+        "reading": "B: රාසුමෙම්. මොෂෙෂ් ලි ද ඔබ්යස්නිෂ් සාෂ්තො?",
+        "si": "තේරුණා. ඇයි කියලා පැහැදිලි කරන්න පුළුවන්ද?"
+      },
+      {
+        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
+        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "B: Slažem se. Hajde da napravimo plan.",
+        "reading": "B: ස්ලාෂෙම් සෙ. හාය්දෙ ද නප්‍රාවිමො ප්ලාන්.",
+        "si": "එකඟයි. අපි සැලැස්මක් හදමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Radio sam u prodaji i naučio sam da rešavam probleme kupaca.",
+      "audio": "Radio sam u prodaji i naučio sam da rešavam probleme kupaca.",
+      "reading": "රාදියො සාම් උ ප්‍රොදායි ඉ නවුචියො සාම් ද රෙෂාවාම් ප්‍රොබ්ලෙමෙ කුපාත්සා.",
+      "options": [
+        "මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කරලා පාරිභෝගික ගැටලු විසඳන්න ඉගෙන ගත්තා.",
+        "මෙහි අදහස වෙනස්ය.",
+        "මෙය ප්‍රශ්නයක් නොවේ."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“iskustvo” යන්නෙහි අර්ථය?",
+        "options": [
+          "වෙනත් අර්ථයක්",
+          "එයට සම්බන්ධ නැති අදහස",
+          "පළපුරුද්ද"
+        ],
+        "answer": 2,
+        "explanation": "iskustvo = පළපුරුද්ද"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Ja sutra juče.",
+          "Radio sam u prodaji i naučio sam da rešavam probleme kupaca.",
+          "Mi biti dobro."
+        ],
+        "answer": 1,
+        "explanation": "මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කරලා පාරිභෝගික ගැටලු විසඳන්න ඉගෙන ගත්තා."
+      },
+      {
+        "prompt": "“postignuće” යන්නෙහි අර්ථය?",
+        "options": [
+          "ජයග්‍රහණය",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් වචනය"
+        ],
+        "answer": 0,
+        "explanation": "postignuće = ජයග්‍රහණය"
+      },
+      {
+        "prompt": "සංවාදයේ B පුද්ගලයාගේ අවසාන යෝජනාව කුමක්ද?",
+        "options": [
+          "සැලැස්මක් සකස් කිරීම",
+          "ගමන නවත්වන්න",
+          "මිල අසන්න"
+        ],
+        "answer": 0,
+        "explanation": "Hajde da napravimo plan = අපි සැලැස්මක් හදමු."
+      }
+    ]
+  },
+  {
+    "id": "sr-b1-l27",
+    "unit": "ස්වාධීන භාවිතය",
+    "title": "B1 · පාඩම 27 · තීරණය කිරීමට පෙර දෙපාර්ශ්වයටම සවන් දෙමු කියලා මම යෝජනා කරනවා.",
+    "objective": "තීරණය කිරීමට පෙර දෙපාර්ශ්වයටම සවන් දෙමු කියලා මම යෝජනා කරනවා. ගැන පැහැදිලිව කතා කිරීම සහ හේතු ඉදිරිපත් කිරීම",
+    "vocabulary": [
+      {
+        "word": "sporazum",
+        "reading": "ස්පොරසුම්",
+        "meaning": "එකඟතාව"
+      },
+      {
+        "word": "kompromis",
+        "reading": "කොම්ප්‍රොමිස්",
+        "meaning": "සම්මුතිය"
+      },
+      {
+        "word": "neslaganje",
+        "reading": "නෙස්ලාගාන්යේ",
+        "meaning": "නොඑකඟතාව"
+      },
+      {
+        "word": "pregovarati",
+        "reading": "ප්‍රෙගොවාරාති",
+        "meaning": "සාකච්ඡා කරනවා"
+      },
+      {
+        "word": "predlog",
+        "reading": "ප්‍රෙද්ලොග්",
+        "meaning": "යෝජනාව"
+      },
+      {
+        "word": "briga",
+        "reading": "බ්‍රිගා",
+        "meaning": "කනස්සල්ල"
+      },
+      {
+        "word": "rešenje",
+        "reading": "රෙෂෙන්යේ",
+        "meaning": "විසඳුම"
+      },
+      {
+        "word": "poštovanje",
+        "reading": "පොෂ්තොවාන්යේ",
+        "meaning": "ගෞරවය"
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "“mogli bismo” සහ “predlažem da” යොදා එකඟතාවකට පැමිණීමේ යෝජනා කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Predlažem da saslušamo obe strane pre nego što odlučimo.",
+        "reading": "ප්‍රෙද්ලාෂෙම් ද සාස්ලුෂාමො ඔබෙ ස්ත්‍රානෙ ප්‍රෙ නෙගො ෂ්තො ඔද්ලුචිමො.",
+        "si": "තීරණය කිරීමට පෙර දෙපාර්ශ්වයටම සවන් දෙමු කියලා මම යෝජනා කරනවා."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Predlažem da saslušamo obe strane pre nego što odlučimo.",
+        "reading": "ප්‍රෙද්ලාෂෙම් ද සාස්ලුෂාමො ඔබෙ ස්ත්‍රානෙ ප්‍රෙ නෙගො ෂ්තො ඔද්ලුචිමො.",
+        "si": "තීරණය කිරීමට පෙර දෙපාර්ශ්වයටම සවන් දෙමු කියලා මම යෝජනා කරනවා."
+      },
+      {
+        "sr": "Važno je da razmotrimo sve dostupne mogućnosti.",
+        "reading": "වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ දොස්තුප්නෙ මොගුච්නොස්ති.",
+        "si": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "Možemo da napravimo plan i da ga prilagodimo situaciji.",
+        "reading": "මොෂෙමො ද නප්‍රාවිමො ප්ලාන් ඉ ද ගා ප්‍රිලාගොදිමො සිතුආත්සියි.",
+        "si": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි."
+      },
+      {
+        "sr": "Na osnovu iskustva, ovaj pristup može biti koristan.",
+        "reading": "නා ඔස්නොවු ඉස්කුස්ත්වා ඔවායි ප්‍රිස්තුප් මොෂෙ බිති කොරිස්තාන්.",
+        "si": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "A: Predlažem da saslušamo obe strane pre nego što odlučimo.",
+        "reading": "A: ප්‍රෙද්ලාෂෙම් ද සාස්ලුෂාමො ඔබෙ ස්ත්‍රානෙ ප්‍රෙ නෙගො ෂ්තො ඔද්ලුචිමො.",
+        "si": "තීරණය කිරීමට පෙර දෙපාර්ශ්වයටම සවන් දෙමු කියලා මම යෝජනා කරනවා."
+      },
+      {
+        "sr": "B: Razumem. Možeš li da objasniš zašto?",
+        "reading": "B: රාසුමෙම්. මොෂෙෂ් ලි ද ඔබ්යස්නිෂ් සාෂ්තො?",
+        "si": "තේරුණා. ඇයි කියලා පැහැදිලි කරන්න පුළුවන්ද?"
+      },
+      {
+        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
+        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "B: Slažem se. Hajde da napravimo plan.",
+        "reading": "B: ස්ලාෂෙම් සෙ. හාය්දෙ ද නප්‍රාවිමො ප්ලාන්.",
+        "si": "එකඟයි. අපි සැලැස්මක් හදමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Predlažem da saslušamo obe strane pre nego što odlučimo.",
+      "audio": "Predlažem da saslušamo obe strane pre nego što odlučimo.",
+      "reading": "ප්‍රෙද්ලාෂෙම් ද සාස්ලුෂාමො ඔබෙ ස්ත්‍රානෙ ප්‍රෙ නෙගො ෂ්තො ඔද්ලුචිමො.",
+      "options": [
+        "තීරණය කිරීමට පෙර දෙපාර්ශ්වයටම සවන් දෙමු කියලා මම යෝජනා කරනවා.",
+        "මෙහි අදහස වෙනස්ය.",
+        "මෙය ප්‍රශ්නයක් නොවේ."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“sporazum” යන්නෙහි අර්ථය?",
+        "options": [
+          "එකඟතාව",
+          "වෙනත් අර්ථයක්",
+          "එයට සම්බන්ධ නැති අදහස"
+        ],
+        "answer": 0,
+        "explanation": "sporazum = එකඟතාව"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Ja sutra juče.",
+          "Predlažem da saslušamo obe strane pre nego što odlučimo.",
+          "Mi biti dobro."
+        ],
+        "answer": 1,
+        "explanation": "තීරණය කිරීමට පෙර දෙපාර්ශ්වයටම සවන් දෙමු කියලා මම යෝජනා කරනවා."
+      },
+      {
+        "prompt": "“kompromis” යන්නෙහි අර්ථය?",
+        "options": [
+          "සම්මුතිය",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් වචනය"
+        ],
+        "answer": 0,
+        "explanation": "kompromis = සම්මුතිය"
+      },
+      {
+        "prompt": "සංවාදයේ B පුද්ගලයාගේ අවසාන යෝජනාව කුමක්ද?",
+        "options": [
+          "සැලැස්මක් සකස් කිරීම",
+          "ගමන නවත්වන්න",
+          "මිල අසන්න"
+        ],
+        "answer": 0,
+        "explanation": "Hajde da napravimo plan = අපි සැලැස්මක් හදමු."
+      }
+    ]
+  },
+  {
+    "id": "sr-b1-l28",
+    "unit": "ස්වාධීන භාවිතය",
+    "title": "B1 · පාඩම 28 · ප්‍රවෘත්තියක් බෙදාගැනීමට පෙර මූලාශ්‍රය සහ පළ කළ දිනය පරීක්ෂා කරනවා.",
+    "objective": "ප්‍රවෘත්තියක් බෙදාගැනීමට පෙර මූලාශ්‍රය සහ පළ කළ දිනය පරීක්ෂා කරනවා. ගැන පැහැදිලිව කතා කිරීම සහ හේතු ඉදිරිපත් කිරීම",
+    "vocabulary": [
+      {
+        "word": "izvor",
+        "reading": "ඉස්වොර",
+        "meaning": "මූලාශ්‍රය"
+      },
+      {
+        "word": "naslov",
+        "reading": "නාස්ලොව්",
+        "meaning": "ශීර්ෂ පාඨය"
+      },
+      {
+        "word": "izveštaj",
+        "reading": "ඉස්වෙෂ්තායි",
+        "meaning": "වාර්තාව"
+      },
+      {
+        "word": "tvrdnja",
+        "reading": "ත්ව්ර්ද්න්යා",
+        "meaning": "ප්‍රකාශය"
+      },
+      {
+        "word": "dokaz",
+        "reading": "දොකාස්",
+        "meaning": "සාක්ෂිය"
+      },
+      {
+        "word": "pouzdan",
+        "reading": "පොඋස්දාන්",
+        "meaning": "විශ්වාසදායක"
+      },
+      {
+        "word": "pristrasnost",
+        "reading": "ප්‍රිස්ත්‍රාස්නොස්ත්",
+        "meaning": "පක්ෂපාතීත්වය"
+      },
+      {
+        "word": "objaviti",
+        "reading": "ඔබ්යාවිති",
+        "meaning": "පළ කරනවා"
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "“prema izvoru” සහ “navodno” යොදා වාර්තා කළ තොරතුරු හා තහවුරු කළ කරුණු වෙන් කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Pre nego što podelim vest, proverim izvor i datum objave.",
+        "reading": "ප්‍රෙ නෙගො ෂ්තො පොදෙලිම් වෙස්ත් ප්‍රොවෙරිම් ඉස්වොර ඉ දාතුම් ඔබ්යාවේ.",
+        "si": "ප්‍රවෘත්තියක් බෙදාගැනීමට පෙර මූලාශ්‍රය සහ පළ කළ දිනය පරීක්ෂා කරනවා."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Pre nego što podelim vest, proverim izvor i datum objave.",
+        "reading": "ප්‍රෙ නෙගො ෂ්තො පොදෙලිම් වෙස්ත් ප්‍රොවෙරිම් ඉස්වොර ඉ දාතුම් ඔබ්යාවේ.",
+        "si": "ප්‍රවෘත්තියක් බෙදාගැනීමට පෙර මූලාශ්‍රය සහ පළ කළ දිනය පරීක්ෂා කරනවා."
+      },
+      {
+        "sr": "Važno je da razmotrimo sve dostupne mogućnosti.",
+        "reading": "වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ දොස්තුප්නෙ මොගුච්නොස්ති.",
+        "si": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "Možemo da napravimo plan i da ga prilagodimo situaciji.",
+        "reading": "මොෂෙමො ද නප්‍රාවිමො ප්ලාන් ඉ ද ගා ප්‍රිලාගොදිමො සිතුආත්සියි.",
+        "si": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි."
+      },
+      {
+        "sr": "Na osnovu iskustva, ovaj pristup može biti koristan.",
+        "reading": "නා ඔස්නොවු ඉස්කුස්ත්වා ඔවායි ප්‍රිස්තුප් මොෂෙ බිති කොරිස්තාන්.",
+        "si": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "A: Pre nego što podelim vest, proverim izvor i datum objave.",
+        "reading": "A: ප්‍රෙ නෙගො ෂ්තො පොදෙලිම් වෙස්ත් ප්‍රොවෙරිම් ඉස්වොර ඉ දාතුම් ඔබ්යාවේ.",
+        "si": "ප්‍රවෘත්තියක් බෙදාගැනීමට පෙර මූලාශ්‍රය සහ පළ කළ දිනය පරීක්ෂා කරනවා."
+      },
+      {
+        "sr": "B: Razumem. Možeš li da objasniš zašto?",
+        "reading": "B: රාසුමෙම්. මොෂෙෂ් ලි ද ඔබ්යස්නිෂ් සාෂ්තො?",
+        "si": "තේරුණා. ඇයි කියලා පැහැදිලි කරන්න පුළුවන්ද?"
+      },
+      {
+        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
+        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "B: Slažem se. Hajde da napravimo plan.",
+        "reading": "B: ස්ලාෂෙම් සෙ. හාය්දෙ ද නප්‍රාවිමො ප්ලාන්.",
+        "si": "එකඟයි. අපි සැලැස්මක් හදමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Pre nego što podelim vest, proverim izvor i datum objave.",
+      "audio": "Pre nego što podelim vest, proverim izvor i datum objave.",
+      "reading": "ප්‍රෙ නෙගො ෂ්තො පොදෙලිම් වෙස්ත් ප්‍රොවෙරිම් ඉස්වොර ඉ දාතුම් ඔබ්යාවේ.",
+      "options": [
+        "ප්‍රවෘත්තියක් බෙදාගැනීමට පෙර මූලාශ්‍රය සහ පළ කළ දිනය පරීක්ෂා කරනවා.",
+        "මෙහි අදහස වෙනස්ය.",
+        "මෙය ප්‍රශ්නයක් නොවේ."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“izvor” යන්නෙහි අර්ථය?",
+        "options": [
+          "එයට සම්බන්ධ නැති අදහස",
+          "වෙනත් අර්ථයක්",
+          "මූලාශ්‍රය"
+        ],
+        "answer": 1,
+        "explanation": "izvor = මූලාශ්‍රය"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Ja sutra juče.",
+          "Pre nego što podelim vest, proverim izvor i datum objave.",
+          "Mi biti dobro."
+        ],
+        "answer": 1,
+        "explanation": "ප්‍රවෘත්තියක් බෙදාගැනීමට පෙර මූලාශ්‍රය සහ පළ කළ දිනය පරීක්ෂා කරනවා."
+      },
+      {
+        "prompt": "“naslov” යන්නෙහි අර්ථය?",
+        "options": [
+          "ශීර්ෂ පාඨය",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් වචනය"
+        ],
+        "answer": 0,
+        "explanation": "naslov = ශීර්ෂ පාඨය"
+      },
+      {
+        "prompt": "සංවාදයේ B පුද්ගලයාගේ අවසාන යෝජනාව කුමක්ද?",
+        "options": [
+          "සැලැස්මක් සකස් කිරීම",
+          "ගමන නවත්වන්න",
+          "මිල අසන්න"
+        ],
+        "answer": 0,
+        "explanation": "Hajde da napravimo plan = අපි සැලැස්මක් හදමු."
+      }
+    ]
+  },
+  {
+    "id": "sr-b1-l29",
+    "unit": "ස්වාධීන භාවිතය",
+    "title": "B1 · පාඩම 29 · හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා.",
+    "objective": "හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා. ගැන පැහැදිලිව කතා කිරීම සහ හේතු ඉදිරිපත් කිරීම",
+    "vocabulary": [
+      {
+        "word": "odredište",
+        "reading": "ඔද්‍රෙදිෂ්තෙ",
+        "meaning": "ගමනාන්තය"
+      },
+      {
+        "word": "smeštaj",
+        "reading": "ස්මෙෂ්තායි",
+        "meaning": "නවාතැන"
+      },
+      {
+        "word": "razgledanje",
+        "reading": "රාස්ග්ලෙදාන්යේ",
+        "meaning": "නගර නැරඹීම"
+      },
+      {
+        "word": "rezervacija",
+        "reading": "රෙසෙර්වාත්සියා",
+        "meaning": "වෙන්කිරීම"
+      },
+      {
+        "word": "lokalni",
+        "reading": "ලොකල්නි",
+        "meaning": "දේශීය"
+      },
+      {
+        "word": "ruta",
+        "reading": "රුතා",
+        "meaning": "මාර්ගය"
+      },
+      {
+        "word": "prtljag",
+        "reading": "ප්‍ර්ත්ල්යාග්",
+        "meaning": "ගමන් මලු"
+      },
+      {
+        "word": "doživljaj",
+        "reading": "දොෂිව්ල්යායි",
+        "meaning": "අත්දැකීම"
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "“gde god”, “čim” සහ “dok” යොදා සංචාරක අත්දැකීම් සම්බන්ධ කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Čim stignemo u hotel, ostavićemo prtljag i istražiti grad.",
+        "reading": "චිම් ස්තිග්නෙමො උ හොතෙල් ඔස්තාවිචෙමො ප්‍ර්ත්ල්යාග් ඉ ඉස්ත්‍රාෂිති ග්‍රාද්.",
+        "si": "හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Čim stignemo u hotel, ostavićemo prtljag i istražiti grad.",
+        "reading": "චිම් ස්තිග්නෙමො උ හොතෙල් ඔස්තාවිචෙමො ප්‍ර්ත්ල්යාග් ඉ ඉස්ත්‍රාෂිති ග්‍රාද්.",
+        "si": "හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා."
+      },
+      {
+        "sr": "Važno je da razmotrimo sve dostupne mogućnosti.",
+        "reading": "වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ දොස්තුප්නෙ මොගුච්නොස්ති.",
+        "si": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "Možemo da napravimo plan i da ga prilagodimo situaciji.",
+        "reading": "මොෂෙමො ද නප්‍රාවිමො ප්ලාන් ඉ ද ගා ප්‍රිලාගොදිමො සිතුආත්සියි.",
+        "si": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි."
+      },
+      {
+        "sr": "Na osnovu iskustva, ovaj pristup može biti koristan.",
+        "reading": "නා ඔස්නොවු ඉස්කුස්ත්වා ඔවායි ප්‍රිස්තුප් මොෂෙ බිති කොරිස්තාන්.",
+        "si": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "A: Čim stignemo u hotel, ostavićemo prtljag i istražiti grad.",
+        "reading": "A: චිම් ස්තිග්නෙමො උ හොතෙල් ඔස්තාවිචෙමො ප්‍ර්ත්ල්යාග් ඉ ඉස්ත්‍රාෂිති ග්‍රාද්.",
+        "si": "හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා."
+      },
+      {
+        "sr": "B: Razumem. Možeš li da objasniš zašto?",
+        "reading": "B: රාසුමෙම්. මොෂෙෂ් ලි ද ඔබ්යස්නිෂ් සාෂ්තො?",
+        "si": "තේරුණා. ඇයි කියලා පැහැදිලි කරන්න පුළුවන්ද?"
+      },
+      {
+        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
+        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "B: Slažem se. Hajde da napravimo plan.",
+        "reading": "B: ස්ලාෂෙම් සෙ. හාය්දෙ ද නප්‍රාවිමො ප්ලාන්.",
+        "si": "එකඟයි. අපි සැලැස්මක් හදමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Čim stignemo u hotel, ostavićemo prtljag i istražiti grad.",
+      "audio": "Čim stignemo u hotel, ostavićemo prtljag i istražiti grad.",
+      "reading": "චිම් ස්තිග්නෙමො උ හොතෙල් ඔස්තාවිචෙමො ප්‍ර්ත්ල්යාග් ඉ ඉස්ත්‍රාෂිති ග්‍රාද්.",
+      "options": [
+        "හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා.",
+        "මෙහි අදහස වෙනස්ය.",
+        "මෙය ප්‍රශ්නයක් නොවේ."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“odredište” යන්නෙහි අර්ථය?",
+        "options": [
+          "වෙනත් අර්ථයක්",
+          "එයට සම්බන්ධ නැති අදහස",
+          "ගමනාන්තය"
+        ],
+        "answer": 2,
+        "explanation": "odredište = ගමනාන්තය"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Ja sutra juče.",
+          "Čim stignemo u hotel, ostavićemo prtljag i istražiti grad.",
+          "Mi biti dobro."
+        ],
+        "answer": 1,
+        "explanation": "හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා."
+      },
+      {
+        "prompt": "“smeštaj” යන්නෙහි අර්ථය?",
+        "options": [
+          "නවාතැන",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් වචනය"
+        ],
+        "answer": 0,
+        "explanation": "smeštaj = නවාතැන"
+      },
+      {
+        "prompt": "සංවාදයේ B පුද්ගලයාගේ අවසාන යෝජනාව කුමක්ද?",
+        "options": [
+          "සැලැස්මක් සකස් කිරීම",
+          "ගමන නවත්වන්න",
+          "මිල අසන්න"
+        ],
+        "answer": 0,
+        "explanation": "Hajde da napravimo plan = අපි සැලැස්මක් හදමු."
+      }
+    ]
+  },
+  {
+    "id": "sr-b1-l30",
+    "unit": "ස්වාධීන භාවිතය",
+    "title": "B1 · පාඩම 30 · මම පදිංචිය මාරු කළ විට අලුත් නගරයට හුරු වෙන්න කාලයක් ගත වුණා.",
+    "objective": "මම පදිංචිය මාරු කළ විට අලුත් නගරයට හුරු වෙන්න කාලයක් ගත වුණා. ගැන පැහැදිලිව කතා කිරීම සහ හේතු ඉදිරිපත් කිරීම",
+    "vocabulary": [
+      {
+        "word": "uspomena",
+        "reading": "උස්පොමෙනා",
+        "meaning": "මතකය"
+      },
+      {
+        "word": "promena",
+        "reading": "ප්‍රොමේනා",
+        "meaning": "වෙනස"
+      },
+      {
+        "word": "preseliti se",
+        "reading": "ප්‍රෙසෙලිතи සෙ",
+        "meaning": "පදිංචිය මාරු කරනවා"
+      },
+      {
+        "word": "prilagoditi se",
+        "reading": "ප්‍රිලාගොදිති සෙ",
+        "meaning": "හැඩගැසෙනවා"
+      },
+      {
+        "word": "poznat",
+        "reading": "පොස්නාත්",
+        "meaning": "හුරුපුරුදු"
+      },
+      {
+        "word": "izazov",
+        "reading": "ඉසාසොව්",
+        "meaning": "අභියෝගය"
+      },
+      {
+        "word": "prilika",
+        "reading": "ප්‍රිලිකා",
+        "meaning": "අවස්ථාව"
+      },
+      {
+        "word": "samopouzdanje",
+        "reading": "සාමොපොඋස්දාන්යේ",
+        "meaning": "ආත්මවිශ්වාසය"
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "“nekada sam” සහ “sada sam navikao da” යොදා පෙර හා දැන් පුරුදු සංසන්දනය කරන්න.",
+    "grammarTerms": [
+      {
+        "sr": "Kada sam se preselio, trebalo mi je vremena da se naviknem na novi grad.",
+        "reading": "කාදා සාම් සෙ ප්‍රෙසෙලියො ත්‍රෙබාලො මි යෙ ව්‍රෙමෙනා ද සෙ නාවික්නෙම් නා නොවි ග්‍රාද්.",
+        "si": "මම පදිංචිය මාරු කළ විට අලුත් නගරයට හුරු වෙන්න කාලයක් ගත වුණා."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Kada sam se preselio, trebalo mi je vremena da se naviknem na novi grad.",
+        "reading": "කාදා සාම් සෙ ප්‍රෙසෙලියො ත්‍රෙබාලො මි යෙ ව්‍රෙමෙනා ද සෙ නාවික්නෙම් නා නොවි ග්‍රාද්.",
+        "si": "මම පදිංචිය මාරු කළ විට අලුත් නගරයට හුරු වෙන්න කාලයක් ගත වුණා."
+      },
+      {
+        "sr": "Važno je da razmotrimo sve dostupne mogućnosti.",
+        "reading": "වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ දොස්තුප්නෙ මොගුච්නොස්ති.",
+        "si": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "Možemo da napravimo plan i da ga prilagodimo situaciji.",
+        "reading": "මොෂෙමො ද නප්‍රාවිමො ප්ලාන් ඉ ද ගා ප්‍රිලාගොදිමො සිතුආත්සියි.",
+        "si": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි."
+      },
+      {
+        "sr": "Na osnovu iskustva, ovaj pristup može biti koristan.",
+        "reading": "නා ඔස්නොවු ඉස්කුස්ත්වා ඔවායි ප්‍රිස්තුප් මොෂෙ බිති කොරිස්තාන්.",
+        "si": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "A: Kada sam se preselio, trebalo mi je vremena da se naviknem na novi grad.",
+        "reading": "A: කාදා සාම් සෙ ප්‍රෙසෙලියො ත්‍රෙබාලො මි යෙ ව්‍රෙමෙනා ද සෙ නාවික්නෙම් නා නොවි ග්‍රාද්.",
+        "si": "මම පදිංචිය මාරු කළ විට අලුත් නගරයට හුරු වෙන්න කාලයක් ගත වුණා."
+      },
+      {
+        "sr": "B: Razumem. Možeš li da objasniš zašto?",
+        "reading": "B: රාසුමෙම්. මොෂෙෂ් ලි ද ඔබ්යස්නිෂ් සාෂ්තො?",
+        "si": "තේරුණා. ඇයි කියලා පැහැදිලි කරන්න පුළුවන්ද?"
+      },
+      {
+        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
+        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "B: Slažem se. Hajde da napravimo plan.",
+        "reading": "B: ස්ලාෂෙම් සෙ. හාය්දෙ ද නප්‍රාවිමො ප්ලාන්.",
+        "si": "එකඟයි. අපි සැලැස්මක් හදමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Kada sam se preselio, trebalo mi je vremena da se naviknem na novi grad.",
+      "audio": "Kada sam se preselio, trebalo mi je vremena da se naviknem na novi grad.",
+      "reading": "කාදා සාම් සෙ ප්‍රෙසෙලියො ත්‍රෙබාලො මි යෙ ව්‍රෙමෙනා ද සෙ නාවික්නෙම් නා නොවි ග්‍රාද්.",
+      "options": [
+        "මම පදිංචිය මාරු කළ විට අලුත් නගරයට හුරු වෙන්න කාලයක් ගත වුණා.",
+        "මෙහි අදහස වෙනස්ය.",
+        "මෙය ප්‍රශ්නයක් නොවේ."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“uspomena” යන්නෙහි අර්ථය?",
+        "options": [
+          "මතකය",
+          "වෙනත් අර්ථයක්",
+          "එයට සම්බන්ධ නැති අදහස"
+        ],
+        "answer": 0,
+        "explanation": "uspomena = මතකය"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Ja sutra juče.",
+          "Kada sam se preselio, trebalo mi je vremena da se naviknem na novi grad.",
+          "Mi biti dobro."
+        ],
+        "answer": 1,
+        "explanation": "මම පදිංචිය මාරු කළ විට අලුත් නගරයට හුරු වෙන්න කාලයක් ගත වුණා."
+      },
+      {
+        "prompt": "“promena” යන්නෙහි අර්ථය?",
+        "options": [
+          "වෙනස",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් වචනය"
+        ],
+        "answer": 0,
+        "explanation": "promena = වෙනස"
+      },
+      {
+        "prompt": "සංවාදයේ B පුද්ගලයාගේ අවසාන යෝජනාව කුමක්ද?",
+        "options": [
+          "සැලැස්මක් සකස් කිරීම",
+          "ගමන නවත්වන්න",
+          "මිල අසන්න"
+        ],
+        "answer": 0,
+        "explanation": "Hajde da napravimo plan = අපි සැලැස්මක් හදමු."
+      }
+    ]
   }
 ];
