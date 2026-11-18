@@ -166,3 +166,6 @@
 
 
 - 2026-11-18 continuation: Added exact Sinhala-script pronunciation entries for Serbian `Dvesta`, `Dvesta dinara.` and `To je 200 dinara.` so the vocabulary book and phrase audio reading use the Serbian form /dvesta/ rather than the previous inaccurate `dvesto`-like approximation. App commit: `94814070fa4e1b46aa29c88cb7b6d7141755b2ef`. Combined with the lesson example spelling correction above, the number 200 now uses consistent Serbian spelling and reading across the beginner lesson. Readings remain approximate Sinhala guidance, not IPA or a substitute for native-speaker review.
+
+
+- 2026-11-18 continuation: Continued reviewing Serbian A1 lesson dialogue. Polished the hotel-service closing question from the less idiomatic `Mogu li još nešto da pomognem?` to the natural `Mogu li još nekako da pomognem?` (“Can I help in any other way?”), and aligned the Sinhala translation. Lesson commit: `53c0cba069eba61b6ba3ac0927b860affbc60fb3`. This is a language-usage improvement; all Sinhala-script readings remain approximate and should be reviewed by a Serbian speaker before treating them as authoritative.
