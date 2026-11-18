@@ -279,3 +279,10 @@
 - Next: deploy Worker, add secret and GitHub Actions variable, then rebuild and test Serbian/English audio playback on Android.
 
 - Android build workflow now injects the optional GitHub Actions repository variable `EXPO_PUBLIC_VOICE_API_URL` during JS bundle export. If absent, the APK retains device TTS fallback. Workflow commit: `b95379b8bbf8f009f29d5638b10a12f58f6103c5`.
+
+
+## Voice build fix and abuse protection — 2026-11-18
+- First Google TTS integration CI failed during Metro bundling because the endpoint trailing-slash regular expression was malformed. Corrected the URL normalization expression; previous failure was before Android native compilation.
+- Added a Cloudflare Workers rate-limit binding (30 requests per client IP per 60 seconds) and enforcement before calling Google to reduce accidental/API-cost abuse. Deploy with the included `cloudflare/wrangler.toml` and set Worker secret `GOOGLE_TTS_API_KEY`.
+- Google voice is not live until the owner enables Google Cloud Text-to-Speech, configures the API key secret, deploys the Worker, and sets GitHub Actions variable `EXPO_PUBLIC_VOICE_API_URL`. Device TTS remains the fallback.
+- Failed pre-fix verification: run 44318472246; invalid regular expression at App.js line 391. Re-run bundle and APK workflow after this fix.
