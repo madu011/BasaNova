@@ -1,4 +1,4 @@
-// C1 lessons 41–50. Serbian examples and dialogue with approximate Sinhala-script readings.
+// C1 lessons 41–50. Serbian examples and dialogue with Sinhala-script pronunciation approximations.
 export const SERBIAN_C1_LESSONS_41_50 = [
   {
     "id": "sr-c1-l41",
@@ -67,52 +67,52 @@ export const SERBIAN_C1_LESSONS_41_50 = [
     "grammar": "U formalnom i stručnom govoru precizno označite uslove, ograničenja i odnos između dokaza i zaključka. Koristite ublažene formulacije kada podaci ne dopuštaju kategoričan sud.",
     "examples": [
       {
-        "text": "A credible scenario should state its assumptions.",
-        "reading": "predviđanje — ප්‍රෙඩ්විජාඤෙ",
-        "meaning": "විශ්වාස කළ හැකි සිදුවීම් ආකෘතියක් එහි උපකල්පන සඳහන් කළ යුතුය."
+        "text": "Uverljiv scenario mora jasno da navede svoje pretpostavke.",
+        "reading": "уверльив сcенарио мора йасно да наведе свойе претпоставке.",
+        "meaning": "විශ්වාසදායක සිදුවීම් ආකෘතියක් එහි උපකල්පන පැහැදිලිව සඳහන් කළ යුතුය."
       },
       {
-        "text": "We need a contingency plan if demand falls.",
-        "reading": "scenario — ස්සෙනාරියෝ",
-        "meaning": "ඉල්ලුම අඩු වුවහොත් අපට හදිසි සැලැස්මක් අවශ්‍යය."
+        "text": "Potreban nam je rezervni plan ako potražnja opadne.",
+        "reading": "потребан нам йе резервни план ако потражньа опадне.",
+        "meaning": "විශ්වාසදායක සිදුවීම් ආකෘතියක් එහි උපකල්පන පැහැදිලිව සඳහන් කළ යුතුය."
       },
       {
-        "text": "Early indicators can reveal a change in direction.",
-        "reading": "pretpostavka — ප්‍රෙට්පොස්ට්ව්කා",
-        "meaning": "මුල් දර්ශක මඟින් දිශාවේ වෙනසක් හඳුනාගත හැකිය."
+        "text": "Rani pokazatelji mogu ukazati na promenu pravca.",
+        "reading": "рани показательи могу указати на промену правcа.",
+        "meaning": "විශ්වාසදායක සිදුවීම් ආකෘතියක් එහි උපකල්පන පැහැදිලිව සඳහන් කළ යුතුය."
       },
       {
-        "text": "Strategic foresight prepares us for several plausible futures.",
-        "reading": "verovatan — වෙරොවතන්",
-        "meaning": "උපායමාර්ගික දුරදක්නා බව සිදුවිය හැකි අනාගත කිහිපයකට සූදානම් කරයි."
+        "text": "Strateško predviđanje nas priprema za više mogućih budućnosti.",
+        "reading": "стратешко предвиђанье нас припрема за више могучих будучности.",
+        "meaning": "විශ්වාසදායක සිදුවීම් ආකෘතියක් එහි උපකල්පන පැහැදිලිව සඳහන් කළ යුතුය."
       }
     ],
     "dialogue": [
       {
-        "text": "Which future scenarios should we consider?",
-        "reading": "ප්‍රෙඩ්විජාඤෙ",
+        "text": "Koje buduće scenarije treba da razmotrimo?",
+        "reading": "койе будуче сcенарийе треба да размотримо?",
         "meaning": "අප සලකා බැලිය යුතු අනාගත තත්ත්ව මොනවාද?"
       },
       {
-        "text": "At least three, including a difficult one.",
-        "reading": "ස්සෙනාරියෝ",
+        "text": "Najmanje tri, uključujući i jedan nepovoljan.",
+        "reading": "найманье три, укльучуйучи и йедан неповольан.",
         "meaning": "අභියෝගාත්මක එකක්ද ඇතුළුව අවම වශයෙන් තුනක්."
       },
       {
-        "text": "What would signal that it is becoming likely?",
-        "reading": "ප්‍රෙට්පොස්ට්ව්කා",
+        "text": "Šta bi ukazalo na to da je taj scenario sve verovatniji?",
+        "reading": "шта би указало на то да йе тай сcенарио све вероватнийи?",
         "meaning": "එය සිදුවීමට ඉඩ ඇති බව පෙන්වන්නේ කුමක්ද?"
       },
       {
-        "text": "We should monitor costs, demand and regulation.",
-        "reading": "වෙරොවතන්",
+        "text": "Treba da pratimo troškove, potražnju i propise.",
+        "reading": "треба да пратимо трошкове, потражньу и прописе.",
         "meaning": "පිරිවැය, ඉල්ලුම සහ නියාමනය නිරීක්ෂණය කළ යුතුය."
       }
     ],
     "listeningPractice": {
       "prompt": "Poslušajte i izaberite najtačnije tumačenje.",
-      "audio": "A credible scenario should state its assumptions. We need a contingency plan if demand falls. Early indicators can reveal a change in direction. Strategic foresight prepares us for several plausible futures.",
-      "reading": "ප්‍රෙඩ්විජාඤෙ ස්සෙනාරියෝ ප්‍රෙට්පොස්ට්ව්කා වෙරොවතන් රෙසෙර්ව්නි ප්ලාන් පොකાઝතෙල් ඔට්පොර්නොස්ට් හොරිසොන්ට්",
+      "audio": "Uverljiv scenario mora jasno da navede svoje pretpostavke. Potreban nam je rezervni plan ako potražnja opadne. Rani pokazatelji mogu ukazati na promenu pravca. Strateško predviđanje nas priprema za više mogućih budućnosti.",
+      "reading": "уверльив сcенарио мора йасно да наведе свойе претпоставке. потребан нам йе резервни план ако потражньа опадне. рани показательи могу указати на промену правcа. стратешко предвиђанье нас припрема за више могучих будучности.",
       "options": [
         "විශ්වාස කළ හැකි සිදුවීම් ආකෘතියක් එහි උපකල්පන සඳහන් කළ යුතුය. ඉල්ලුම අඩු වුවහොත් අපට හදිසි සැලැස්මක් අවශ්‍යය.",
         "Sve tvrdnje su potpuno sigurne.",
@@ -230,52 +230,52 @@ export const SERBIAN_C1_LESSONS_41_50 = [
     "grammar": "U formalnom i stručnom govoru precizno označite uslove, ograničenja i odnos između dokaza i zaključka. Koristite ublažene formulacije kada podaci ne dopuštaju kategoričan sud.",
     "examples": [
       {
-        "text": "A limited concession may unlock the negotiations.",
-        "reading": "ustupak — උස්ටුපාක්",
+        "text": "Ograničen ustupak može pokrenuti pregovore.",
+        "reading": "ограничен уступак може покренути преговоре.",
         "meaning": "සීමිත සහනයක් සාකච්ඡා ඉදිරියට ගෙන යා හැකිය."
       },
       {
-        "text": "Both teams have a clear mandate.",
-        "reading": "poluga — පොලුගා",
-        "meaning": "කණ්ඩායම් දෙකටම පැහැදිලි බලතල ඇත."
+        "text": "Oba tima imaju jasno definisan mandat.",
+        "reading": "оба тима имайу йасно дефинисан мандат.",
+        "meaning": "සීමිත සහනයක් සාකච්ඡා ඉදිරියට ගෙන යා හැකිය."
       },
       {
-        "text": "The counterproposal addresses our main concern.",
-        "reading": "mandat — මන්දාට්",
-        "meaning": "ප්‍රතියෝජනාව අපගේ ප්‍රධාන සැලකිල්ලට පිළිතුරු දෙයි."
+        "text": "Protivpredlog odgovara na našu glavnu zabrinutost.",
+        "reading": "противпредлог одговара на нашу главну забринутост.",
+        "meaning": "සීමිත සහනයක් සාකච්ඡා ඉදිරියට ගෙන යා හැකිය."
       },
       {
-        "text": "The agreement becomes binding once both parties sign.",
-        "reading": "kompromis — කොම්ප්‍රොමිස්",
-        "meaning": "පාර්ශ්ව දෙකම අත්සන් කළ පසු ගිවිසුම බැඳී පවතී."
+        "text": "Sporazum postaje obavezujući kada ga obe strane potpišu.",
+        "reading": "споразум постайе обавезуйучи када га обе стране потпишу.",
+        "meaning": "සීමිත සහනයක් සාකච්ඡා ඉදිරියට ගෙන යා හැකිය."
       }
     ],
     "dialogue": [
       {
-        "text": "We seem to have reached a deadlock.",
-        "reading": "උස්ටුපාක්",
+        "text": "Čini se da smo zapali u zastoj.",
+        "reading": "чини се да смо запали у застой.",
         "meaning": "අපි සාකච්ඡා අවහිරයකට පැමිණ ඇති බව පෙනේ."
       },
       {
-        "text": "Could a phased arrangement help?",
-        "reading": "පොලුගා",
+        "text": "Da li bi dogovor u nekoliko faza pomogao?",
+        "reading": "да ли би договор у неколико фаза помогао?",
         "meaning": "අදියර කිහිපයකින් ක්‍රියාත්මක කරන එකඟතාවක් උපකාරී වේවිද?"
       },
       {
-        "text": "That is possible if the review clause is mutual.",
-        "reading": "මන්දාට්",
+        "text": "Moguće je, ako je klauzula o reviziji uzajamna.",
+        "reading": "могуче йе, ако йе клаузула о ревизийи узайамна.",
         "meaning": "සමාලෝචන වගන්තිය අන්‍යෝන්‍ය නම් එය කළ හැකිය."
       },
       {
-        "text": "Let us record the revised terms in writing.",
-        "reading": "කොම්ප්‍රොමිස්",
+        "text": "Hajde da izmenjene uslove zabeležimo u pisanom obliku.",
+        "reading": "хайде да изменьене услове забележимо у писаном облику.",
         "meaning": "සංශෝධිත කොන්දේසි ලිඛිතව සටහන් කරමු."
       }
     ],
     "listeningPractice": {
       "prompt": "Poslušajte i izaberite najtačnije tumačenje.",
-      "audio": "A limited concession may unlock the negotiations. Both teams have a clear mandate. The counterproposal addresses our main concern. The agreement becomes binding once both parties sign.",
-      "reading": "උස්ටුපාක් පොලුගා මන්දාට් කොම්ප්‍රොමිස් සාස්ටොය් ප්‍රොටිව්ප්‍රෙඩ්ලොග් උසායමන් ඔබාවෙසුයුචි",
+      "audio": "Ograničen ustupak može pokrenuti pregovore. Oba tima imaju jasno definisan mandat. Protivpredlog odgovara na našu glavnu zabrinutost. Sporazum postaje obavezujući kada ga obe strane potpišu.",
+      "reading": "ограничен уступак може покренути преговоре. оба тима имайу йасно дефинисан мандат. противпредлог одговара на нашу главну забринутост. споразум постайе обавезуйучи када га обе стране потпишу.",
       "options": [
         "සීමිත සහනයක් සාකච්ඡා ඉදිරියට ගෙන යා හැකිය. කණ්ඩායම් දෙකටම පැහැදිලි බලතල ඇත.",
         "Sve tvrdnje su potpuno sigurne.",
@@ -393,52 +393,52 @@ export const SERBIAN_C1_LESSONS_41_50 = [
     "grammar": "U formalnom i stručnom govoru precizno označite uslove, ograničenja i odnos između dokaza i zaključka. Koristite ublažene formulacije kada podaci ne dopuštaju kategoričan sud.",
     "examples": [
       {
-        "text": "The board is responsible for effective oversight.",
-        "reading": "nadzor — නාдзор",
+        "text": "Odbor je odgovoran za delotvoran nadzor.",
+        "reading": "одбор йе одговоран за делотворан надзор.",
         "meaning": "අධ්‍යක්ෂ මණ්ඩලය ඵලදායී අධීක්ෂණයට වගකිව යුතුය."
       },
       {
-        "text": "Directors must disclose conflicts of interest.",
-        "reading": "poverenička dužnost — පොවෙරෙනිච්කා දුෂ්නොස්ට්",
-        "meaning": "අධ්‍යක්ෂවරුන් අවශ්‍යතා ගැටුම් හෙළි කළ යුතුය."
+        "text": "Direktori moraju prijaviti sukob interesa.",
+        "reading": "директори морайу прийавити сукоб интереса.",
+        "meaning": "අධ්‍යක්ෂ මණ්ඩලය ඵලදායී අධීක්ෂණයට වගකිව යුතුය."
       },
       {
-        "text": "An audit trail supports transparent decisions.",
-        "reading": "objavljivanje — ඔබ්යාව්ලිවාඤෙ",
-        "meaning": "විගණන සටහන් මාර්ගය විනිවිද පෙනෙන තීරණවලට සහාය වේ."
+        "text": "Revizorski trag podržava transparentno odlučivanje.",
+        "reading": "ревизорски траг подржава транспарентно одлучиванье.",
+        "meaning": "අධ්‍යක්ෂ මණ්ඩලය ඵලදායී අධීක්ෂණයට වගකිව යුතුය."
       },
       {
-        "text": "Remuneration should be linked to long-term performance.",
-        "reading": "naknada — නාක්නාදා",
-        "meaning": "පාරිතෝෂිකය දිගුකාලීන කාර්යසාධනයට සම්බන්ධ කළ යුතුය."
+        "text": "Naknada treba da bude povezana sa dugoročnim rezultatima.",
+        "reading": "накнада треба да буде повезана са дугорочним резултатима.",
+        "meaning": "අධ්‍යක්ෂ මණ්ඩලය ඵලදායී අධීක්ෂණයට වගකිව යුතුය."
       }
     ],
     "dialogue": [
       {
-        "text": "Has the board reviewed the risk register?",
-        "reading": "නාдзор",
+        "text": "Da li je odbor razmotrio registar rizika?",
+        "reading": "да ли йе одбор размотрио регистар ризика?",
         "meaning": "අධ්‍යක්ෂ මණ්ඩලය අවදානම් ලේඛනය සමාලෝචනය කළාද?"
       },
       {
-        "text": "Yes, and the unresolved items are documented.",
-        "reading": "පොවෙරෙනිච්කා දුෂ්නොස්ට්",
+        "text": "Jeste, a nerešene stavke su dokumentovane.",
+        "reading": "йесте, а нерешене ставке су документоване.",
         "meaning": "ඔව්, විසඳී නැති කරුණු ලේඛනගත කර ඇත."
       },
       {
-        "text": "Were all relevant interests disclosed?",
-        "reading": "ඔබ්යාව්ලිවාඤෙ",
+        "text": "Da li su svi relevantni interesi prijavljeni?",
+        "reading": "да ли су сви релевантни интереси прийавльени?",
         "meaning": "අදාළ සියලු අවශ්‍යතා හෙළි කළාද?"
       },
       {
-        "text": "The declarations are included in the meeting record.",
-        "reading": "නාක්නාදා",
+        "text": "Izjave su uključene u zapisnik sa sastanka.",
+        "reading": "изйаве су укльучене у записник са састанка.",
         "meaning": "ප්‍රකාශ රැස්වීම් වාර්තාවට ඇතුළත් කර ඇත."
       }
     ],
     "listeningPractice": {
       "prompt": "Poslušajte i izaberite najtačnije tumačenje.",
-      "audio": "The board is responsible for effective oversight. Directors must disclose conflicts of interest. An audit trail supports transparent decisions. Remuneration should be linked to long-term performance.",
-      "reading": "නාдзор පොවෙරෙනිච්කා දුෂ්නොස්ට් ඔබ්යාව්ලිවාඤෙ නාක්නාදා නෙසාවිස්නොස්ට් රෙවිසොර්ස්කි ට්‍රාග් ඔඩ්ගොවොර්නොස්ට් සුකොබ් ඉන්ටෙරෙසා",
+      "audio": "Odbor je odgovoran za delotvoran nadzor. Direktori moraju prijaviti sukob interesa. Revizorski trag podržava transparentno odlučivanje. Naknada treba da bude povezana sa dugoročnim rezultatima.",
+      "reading": "одбор йе одговоран за делотворан надзор. директори морайу прийавити сукоб интереса. ревизорски траг подржава транспарентно одлучиванье. накнада треба да буде повезана са дугорочним резултатима.",
       "options": [
         "අධ්‍යක්ෂ මණ්ඩලය ඵලදායී අධීක්ෂණයට වගකිව යුතුය. අධ්‍යක්ෂවරුන් අවශ්‍යතා ගැටුම් හෙළි කළ යුතුය.",
         "Sve tvrdnje su potpuno sigurne.",
@@ -556,52 +556,52 @@ export const SERBIAN_C1_LESSONS_41_50 = [
     "grammar": "U formalnom i stručnom govoru precizno označite uslove, ograničenja i odnos između dokaza i zaključka. Koristite ublažene formulacije kada podaci ne dopuštaju kategoričan sud.",
     "examples": [
       {
-        "text": "Adaptation reduces the impact of unavoidable changes.",
-        "reading": "prilagođavanje — ප්‍රිලාගොђаваඤෙ",
+        "text": "Prilagođavanje smanjuje posledice promena koje se ne mogu izbeći.",
+        "reading": "прилагођаванье сманьуйе последиcе промена койе се не могу избечи.",
         "meaning": "අනුවර්තනය වැළැක්විය නොහැකි වෙනස්කම්වල බලපෑම අඩු කරයි."
       },
       {
-        "text": "The policy combines mitigation with local resilience.",
-        "reading": "ublažavanje — උබ්ලාжавාඤෙ",
-        "meaning": "ප්‍රතිපත්තිය බලපෑම අවම කිරීම දේශීය ඔරොත්තු දීම සමඟ එක් කරයි."
+        "text": "Politika povezuje ublažavanje posledica sa lokalnom otpornošću.",
+        "reading": "политика повезуйе ублажаванье последиcа са локалном отпорношчу.",
+        "meaning": "අනුවර්තනය වැළැක්විය නොහැකි වෙනස්කම්වල බලපෑම අඩු කරයි."
       },
       {
-        "text": "Biodiversity loss can increase ecosystem vulnerability.",
-        "reading": "izloženost — ඉස්ලොженොස්ට්",
-        "meaning": "ජෛව විවිධත්වය අහිමි වීම පරිසර පද්ධතියේ අවදානම වැඩි කළ හැකිය."
+        "text": "Gubitak biodiverziteta može povećati ranjivost ekosistema.",
+        "reading": "губитак биодиверзитета може повечати раньивост екосистема.",
+        "meaning": "අනුවර්තනය වැළැක්විය නොහැකි වෙනස්කම්වල බලපෑම අඩු කරයි."
       },
       {
-        "text": "Emissions must be measured against a clear baseline.",
-        "reading": "ranjivost — රාන්යිවොස්ට්",
-        "meaning": "විමෝචන පැහැදිලි මූලික මට්ටමකට සාපේක්ෂව මැනිය යුතුය."
+        "text": "Emisije treba meriti u odnosu na jasno utvrđenu početnu vrednost.",
+        "reading": "емисийе треба мерити у односу на йасно утврђену почетну вредност.",
+        "meaning": "අනුවර්තනය වැළැක්විය නොහැකි වෙනස්කම්වල බලපෑම අඩු කරයි."
       }
     ],
     "dialogue": [
       {
-        "text": "Which communities face the greatest exposure?",
-        "reading": "ප්‍රිලාගොђаваඤෙ",
+        "text": "Koje zajednice su najviše izložene riziku?",
+        "reading": "койе зайедниcе су найвише изложене ризику?",
         "meaning": "වැඩිම නිරාවරණයකට මුහුණ දෙන්නේ කුමන ප්‍රජාවන්ද?"
       },
       {
-        "text": "Low-lying areas are particularly vulnerable.",
-        "reading": "උබ්ලාжавාඤෙ",
+        "text": "Posebno su ugrožena područja na maloj nadmorskoj visini.",
+        "reading": "посебно су угрожена подручйа на малой надморской висини.",
         "meaning": "පහත් බිම් ප්‍රදේශ විශේෂයෙන් අවදානමට ලක්විය හැකිය."
       },
       {
-        "text": "Can the programme address both adaptation and mitigation?",
-        "reading": "ඉස්ලොженොස්ට්",
+        "text": "Može li program obuhvatiti i prilagođavanje i ublažavanje?",
+        "reading": "може ли програм обухватити и прилагођаванье и ублажаванье?",
         "meaning": "වැඩසටහනට අනුවර්තනය සහ බලපෑම අවම කිරීම දෙකම ඇතුළත් කළ හැකිද?"
       },
       {
-        "text": "Yes, but the targets need measurable indicators.",
-        "reading": "රාන්යිවොස්ට්",
+        "text": "Može, ali ciljevi moraju imati merljive pokazatelje.",
+        "reading": "може, али cильеви морайу имати мерльиве показателье.",
         "meaning": "ඔව්, නමුත් ඉලක්ක මැනිය හැකි දර්ශක අවශ්‍යය."
       }
     ],
     "listeningPractice": {
       "prompt": "Poslušajte i izaberite najtačnije tumačenje.",
-      "audio": "Adaptation reduces the impact of unavoidable changes. The policy combines mitigation with local resilience. Biodiversity loss can increase ecosystem vulnerability. Emissions must be measured against a clear baseline.",
-      "reading": "ප්‍රිලාගොђаваඤෙ උබ්ලාжавාඤෙ ඉස්ලොженොස්ට් රාන්යිවොස්ට් බියොඩිවෙර්සිටෙට් එමිසියේ ඔඩ්ගොවොර්නො උප්‍රව්ලාඤෙ ප්‍රාග්",
+      "audio": "Prilagođavanje smanjuje posledice promena koje se ne mogu izbeći. Politika povezuje ublažavanje posledica sa lokalnom otpornošću. Gubitak biodiverziteta može povećati ranjivost ekosistema. Emisije treba meriti u odnosu na jasno utvrđenu početnu vrednost.",
+      "reading": "прилагођаванье сманьуйе последиcе промена койе се не могу избечи. политика повезуйе ублажаванье последиcа са локалном отпорношчу. губитак биодиверзитета може повечати раньивост екосистема. емисийе треба мерити у односу на йасно утврђену почетну вредност.",
       "options": [
         "අනුවර්තනය වැළැක්විය නොහැකි වෙනස්කම්වල බලපෑම අඩු කරයි. ප්‍රතිපත්තිය බලපෑම අවම කිරීම දේශීය ඔරොත්තු දීම සමඟ එක් කරයි.",
         "Sve tvrdnje su potpuno sigurne.",
@@ -719,52 +719,52 @@ export const SERBIAN_C1_LESSONS_41_50 = [
     "grammar": "U formalnom i stručnom govoru precizno označite uslove, ograničenja i odnos između dokaza i zaključka. Koristite ublažene formulacije kada podaci ne dopuštaju kategoričan sud.",
     "examples": [
       {
-        "text": "Interoperability is essential when systems are integrated.",
-        "reading": "transformacija — ට්‍රාන්ස්ෆොර්මාසියා",
-        "meaning": "පද්ධති ඒකාබද්ධ කරන විට අන්තර්ක්‍රියා හැකියාව අත්‍යවශ්‍යය."
+        "text": "Interoperabilnost je ključna pri povezivanju sistema.",
+        "reading": "интероперабилност йе кльучна при повезиваньу система.",
+        "meaning": "විශ්වාසදායක සිදුවීම් ආකෘතියක් එහි උපකල්පන පැහැදිලිව සඳහන් කළ යුතුය."
       },
       {
-        "text": "A phased rollout can improve adoption.",
-        "reading": "interoperabilnost — ඉන්ටෙරොපෙරාබිල්නොස්ට්",
-        "meaning": "අදියර අනුව හඳුන්වාදීම භාවිතය වැඩි කළ හැකිය."
+        "text": "Postepeno uvođenje može povećati prihvatanje novog rešenja.",
+        "reading": "постепено увођенье може повечати прихватанье новог решеньа.",
+        "meaning": "විශ්වාසදායක සිදුවීම් ආකෘතියක් එහි උපකල්පන පැහැදිලිව සඳහන් කළ යුතුය."
       },
       {
-        "text": "The legacy platform creates avoidable delays.",
-        "reading": "nasleđeni sistem — නාස්ලෙђෙනි සිස්ටෙම්",
-        "meaning": "පැරණි වේදිකාව වළක්වාගත හැකි ප්‍රමාද ඇති කරයි."
+        "text": "Nasleđeni sistem stvara nepotrebna kašnjenja.",
+        "reading": "наслеђени систем ствара непотребна кашньеньа.",
+        "meaning": "විශ්වාසදායක සිදුවීම් ආකෘතියක් එහි උපකල්පන පැහැදිලිව සඳහන් කළ යුතුය."
       },
       {
-        "text": "Change fatigue should be addressed through clear communication.",
-        "reading": "automatizacija — අව්ටොමාටිසාසියා",
-        "meaning": "පැහැදිලි සන්නිවේදනයෙන් වෙනස්කම් නිසා ඇති වෙහෙසට පිළියම් යෙදිය යුතුය."
+        "text": "Zamor od promena treba ublažiti jasnom komunikacijom.",
+        "reading": "замор од промена треба ублажити йасном комуникаcийом.",
+        "meaning": "විශ්වාසදායක සිදුවීම් ආකෘතියක් එහි උපකල්පන පැහැදිලිව සඳහන් කළ යුතුය."
       }
     ],
     "dialogue": [
       {
-        "text": "Why has adoption been slower than expected?",
-        "reading": "ට්‍රාන්ස්ෆොර්මාසියා",
+        "text": "Zašto je prihvatanje rešenja sporije od očekivanog?",
+        "reading": "зашто йе прихватанье решеньа спорийе од очекиваног?",
         "meaning": "භාවිතයට ගැනීම අපේක්ෂා කළාට වඩා මන්දගාමී වූයේ ඇයි?"
       },
       {
-        "text": "The workflow was not explained clearly.",
-        "reading": "ඉන්ටෙරොපෙරාබිල්නොස්ට්",
+        "text": "Tok rada nije bio dovoljno jasno objašnjen.",
+        "reading": "ток рада нийе био довольно йасно обйашньен.",
         "meaning": "වැඩ ප්‍රවාහය පැහැදිලිව විස්තර කර නොතිබුණි."
       },
       {
-        "text": "Should we expand the pilot?",
-        "reading": "නාස්ලෙђෙනි සිස්ටෙම්",
+        "text": "Da li treba da proširimo pilot-projekat?",
+        "reading": "да ли треба да проширимо пилот-пройекат?",
         "meaning": "අත්හදා බැලීම පුළුල් කළ යුතුද?"
       },
       {
-        "text": "Only after the support team is ready.",
-        "reading": "අව්ටොමාටිසාසියා",
+        "text": "Tek kada tim za podršku bude spreman.",
+        "reading": "тек када тим за подршку буде спреман.",
         "meaning": "සහාය කණ්ඩායම සූදානම් වූ පසුව පමණි."
       }
     ],
     "listeningPractice": {
       "prompt": "Poslušajte i izaberite najtačnije tumačenje.",
-      "audio": "Interoperability is essential when systems are integrated. A phased rollout can improve adoption. The legacy platform creates avoidable delays. Change fatigue should be addressed through clear communication.",
-      "reading": "ට්‍රාන්ස්ෆොර්මාසියා ඉන්ටෙරොපෙරාබිල්නොස්ට් නාස්ලෙђෙනි සිස්ටෙම් අව්ටොමාටිසාසියා උස්වායාඤෙ ටොක් රාදා ස්කාලාබිල්නොස්ට් සාමොර් ඔඩ් ප්‍රොමෙනා",
+      "audio": "Interoperabilnost je ključna pri povezivanju sistema. Postepeno uvođenje može povećati prihvatanje novog rešenja. Nasleđeni sistem stvara nepotrebna kašnjenja. Zamor od promena treba ublažiti jasnom komunikacijom.",
+      "reading": "интероперабилност йе кльучна при повезиваньу система. постепено увођенье може повечати прихватанье новог решеньа. наслеђени систем ствара непотребна кашньеньа. замор од промена треба ублажити йасном комуникаcийом.",
       "options": [
         "පද්ධති ඒකාබද්ධ කරන විට අන්තර්ක්‍රියා හැකියාව අත්‍යවශ්‍යය. අදියර අනුව හඳුන්වාදීම භාවිතය වැඩි කළ හැකිය.",
         "Sve tvrdnje su potpuno sigurne.",
@@ -882,52 +882,52 @@ export const SERBIAN_C1_LESSONS_41_50 = [
     "grammar": "U formalnom i stručnom govoru precizno označite uslove, ograničenja i odnos između dokaza i zaključka. Koristite ublažene formulacije kada podaci ne dopuštaju kategoričan sud.",
     "examples": [
       {
-        "text": "Correlation alone does not establish causality.",
-        "reading": "uzročnost — උස්රොච්නොස්ට්",
-        "meaning": "සහසම්බන්ධතාව පමණක් හේතුකාරකත්වය තහවුරු නොකරයි."
+        "text": "Korelacija sama po sebi ne dokazuje uzročnost.",
+        "reading": "корелаcийа сама по себи не доказуйе узрочност.",
+        "meaning": "සීමිත සහනයක් සාකච්ඡා ඉදිරියට ගෙන යා හැකිය."
       },
       {
-        "text": "A confounder may explain the observed association.",
-        "reading": "korelacija — කොරෙලාසියා",
-        "meaning": "නිරීක්ෂිත සම්බන්ධතාවය ව්‍යාකූලකාරක සාධකයක් මඟින් පැහැදිලි කළ හැකිය."
+        "text": "Ometajući faktor može objasniti uočenu povezanost.",
+        "reading": "ометайучи фактор може обйаснити уочену повезаност.",
+        "meaning": "සීමිත සහනයක් සාකච්ඡා ඉදිරියට ගෙන යා හැකිය."
       },
       {
-        "text": "Longitudinal data can reveal changes over time.",
-        "reading": "ometajući faktor — ඔමෙටායුචි ෆාක්ටොර්",
-        "meaning": "කාලානුක්‍රමික දත්ත කාලයත් සමඟ වෙනස්කම් පෙන්විය හැකිය."
+        "text": "Longitudinalni podaci mogu pokazati promene tokom vremena.",
+        "reading": "лонгитудинални подаcи могу показати промене током времена.",
+        "meaning": "සීමිත සහනයක් සාකච්ඡා ඉදිරියට ගෙන යා හැකිය."
       },
       {
-        "text": "The findings require independent replication.",
-        "reading": "pristrasnost uzorka — ප්‍රිස්ට්‍රාස්නොස්ට් උසොර්කා",
-        "meaning": "සොයාගැනීම් ස්වාධීනව නැවත පරීක්ෂා කළ යුතුය."
+        "text": "Nalaze treba nezavisno ponoviti i proveriti.",
+        "reading": "налазе треба независно поновити и проверити.",
+        "meaning": "සීමිත සහනයක් සාකච්ඡා ඉදිරියට ගෙන යා හැකිය."
       }
     ],
     "dialogue": [
       {
-        "text": "Can we claim that the intervention caused the change?",
-        "reading": "උස්රොච්නොස්ට්",
+        "text": "Možemo li tvrditi da je intervencija izazvala promenu?",
+        "reading": "можемо ли тврдити да йе интервенcийа изазвала промену?",
         "meaning": "මෙම මැදිහත්වීම වෙනසට හේතු වූ බව කියන්න පුළුවන්ද?"
       },
       {
-        "text": "Not without ruling out alternative explanations.",
-        "reading": "කොරෙලාසියා",
+        "text": "Ne, dok ne isključimo druga moguća objašnjenja.",
+        "reading": "не, док не искльучимо друга могуча обйашньеньа.",
         "meaning": "විකල්ප පැහැදිලි කිරීම් ඉවත් නොකර එසේ කිව නොහැකිය."
       },
       {
-        "text": "What additional evidence would strengthen the inference?",
-        "reading": "ඔමෙටායුචි ෆාක්ටොර්",
+        "text": "Koji bi dodatni dokazi ojačali taj zaključak?",
+        "reading": "койи би додатни докази ойачали тай закльучак?",
         "meaning": "නිගමනය ශක්තිමත් කිරීමට තවත් කුමන සාක්ෂි අවශ්‍යද?"
       },
       {
-        "text": "A replicated study with a suitable comparison group.",
-        "reading": "ප්‍රිස්ට්‍රාස්නොස්ට් උසොර්කා",
+        "text": "Ponovljeno istraživanje sa odgovarajućom kontrolnom grupom.",
+        "reading": "поновльено истраживанье са одговарайучом контролном групом.",
         "meaning": "සුදුසු සැසඳුම් කණ්ඩායමක් සහිතව නැවත කළ අධ්‍යයනයක්."
       }
     ],
     "listeningPractice": {
       "prompt": "Poslušajte i izaberite najtačnije tumačenje.",
-      "audio": "Correlation alone does not establish causality. A confounder may explain the observed association. Longitudinal data can reveal changes over time. The findings require independent replication.",
-      "reading": "උස්රොච්නොස්ට් කොරෙලාසියා ඔමෙටායුචි ෆාක්ටොර් ප්‍රිස්ට්‍රාස්නොස්ට් උසොර්කා ලොන්ගිටුඩිනාලන් පොනව්ලාඤෙ ඉස්ට්‍රාжිවාඤා සාක්ලුචිවාඤෙ රොබුස්ට්නොස්ට්",
+      "audio": "Korelacija sama po sebi ne dokazuje uzročnost. Ometajući faktor može objasniti uočenu povezanost. Longitudinalni podaci mogu pokazati promene tokom vremena. Nalaze treba nezavisno ponoviti i proveriti.",
+      "reading": "корелаcийа сама по себи не доказуйе узрочност. ометайучи фактор може обйаснити уочену повезаност. лонгитудинални подаcи могу показати промене током времена. налазе треба независно поновити и проверити.",
       "options": [
         "සහසම්බන්ධතාව පමණක් හේතුකාරකත්වය තහවුරු නොකරයි. නිරීක්ෂිත සම්බන්ධතාවය ව්‍යාකූලකාරක සාධකයක් මඟින් පැහැදිලි කළ හැකිය.",
         "Sve tvrdnje su potpuno sigurne.",
@@ -1045,52 +1045,52 @@ export const SERBIAN_C1_LESSONS_41_50 = [
     "grammar": "U formalnom i stručnom govoru precizno označite uslove, ograničenja i odnos između dokaza i zaključka. Koristite ublažene formulacije kada podaci ne dopuštaju kategoričan sud.",
     "examples": [
       {
-        "text": "The unreliable narrator complicates the reader's judgment.",
-        "reading": "dvosmislenost — ද්වොස්මිස්ලෙනොස්ට්",
-        "meaning": "විශ්වාස කළ නොහැකි කථකයා පාඨකයාගේ විනිශ්චය සංකීර්ණ කරයි."
+        "text": "Nepouzdan pripovedač otežava čitaocu donošenje suda.",
+        "reading": "непоуздан приповедач отежава читаоcу доношенье суда.",
+        "meaning": "අධ්‍යක්ෂ මණ්ඩලය ඵලදායී අධීක්ෂණයට වගකිව යුතුය."
       },
       {
-        "text": "The recurring motif links otherwise separate episodes.",
-        "reading": "pripovedač — ප්‍රිපොවෙදාච්",
-        "meaning": "නැවත මතුවන රූපකය වෙන වෙනම සිදුවීම් සම්බන්ධ කරයි."
+        "text": "Motiv koji se ponavlja povezuje naizgled odvojene epizode.",
+        "reading": "мотив койи се понавльа повезуйе наизглед одвойене епизоде.",
+        "meaning": "අධ්‍යක්ෂ මණ්ඩලය ඵලදායී අධීක්ෂණයට වගකිව යුතුය."
       },
       {
-        "text": "Irony creates tension between appearance and intention.",
-        "reading": "motiv — මොටිව්",
-        "meaning": "උපහාසය පෙනුම සහ අරමුණ අතර ආතතියක් ඇති කරයි."
+        "text": "Ironija stvara napetost između izgleda i namere.",
+        "reading": "иронийа ствара напетост између изгледа и намере.",
+        "meaning": "අධ්‍යක්ෂ මණ්ඩලය ඵලදායී අධීක්ෂණයට වගකිව යුතුය."
       },
       {
-        "text": "Several interpretations remain plausible.",
-        "reading": "podtekst — පොඩ්ටෙක්ස්ට්",
-        "meaning": "අර්ථකථන කිහිපයක්ම පිළිගත හැකිව පවතී."
+        "text": "Moguće je više uverljivih tumačenja.",
+        "reading": "могуче йе више уверльивих тумаченьа.",
+        "meaning": "අධ්‍යක්ෂ මණ්ඩලය ඵලදායී අධීක්ෂණයට වගකිව යුතුය."
       }
     ],
     "dialogue": [
       {
-        "text": "Does the narrator know the full truth?",
-        "reading": "ද්වොස්මිස්ලෙනොස්ට්",
+        "text": "Da li pripovedač zna celu istinu?",
+        "reading": "да ли приповедач зна cелу истину?",
         "meaning": "කථකයා සම්පූර්ණ සත්‍යය දන්නවාද?"
       },
       {
-        "text": "The text gives reasons to doubt that.",
-        "reading": "ප්‍රිපොවෙදාච්",
+        "text": "Tekst pruža razloge da u to posumnjamo.",
+        "reading": "текст пружа разлоге да у то посумньамо.",
         "meaning": "එය සැක කිරීමට පාඨය හේතු සපයයි."
       },
       {
-        "text": "Could the motif suggest a second meaning?",
-        "reading": "මොටිව්",
+        "text": "Može li motiv da nagovesti dodatno značenje?",
+        "reading": "може ли мотив да наговести додатно значенье?",
         "meaning": "එම රූපකයෙන් දෙවන අර්ථයක් යෝජනා විය හැකිද?"
       },
       {
-        "text": "Yes, especially when it appears at the ending.",
-        "reading": "පොඩ්ටෙක්ස්ට්",
+        "text": "Može, naročito kada se ponovo pojavi na kraju.",
+        "reading": "може, нарочито када се поново пойави на крайу.",
         "meaning": "ඔව්, විශේෂයෙන් අවසානයේ එය මතුවන විට."
       }
     ],
     "listeningPractice": {
       "prompt": "Poslušajte i izaberite najtačnije tumačenje.",
-      "audio": "The unreliable narrator complicates the reader's judgment. The recurring motif links otherwise separate episodes. Irony creates tension between appearance and intention. Several interpretations remain plausible.",
-      "reading": "ද්වොස්මිස්ලෙනොස්ට් ප්‍රිපොවෙදාච් මොටිව් පොඩ්ටෙක්ස්ට් අලුසියා ඉරොනියා පෙර්ස්පෙක්ටිවා තුමාචෙඤෙ",
+      "audio": "Nepouzdan pripovedač otežava čitaocu donošenje suda. Motiv koji se ponavlja povezuje naizgled odvojene epizode. Ironija stvara napetost između izgleda i namere. Moguće je više uverljivih tumačenja.",
+      "reading": "непоуздан приповедач отежава читаоcу доношенье суда. мотив койи се понавльа повезуйе наизглед одвойене епизоде. иронийа ствара напетост између изгледа и намере. могуче йе више уверльивих тумаченьа.",
       "options": [
         "විශ්වාස කළ නොහැකි කථකයා පාඨකයාගේ විනිශ්චය සංකීර්ණ කරයි. නැවත මතුවන රූපකය වෙන වෙනම සිදුවීම් සම්බන්ධ කරයි.",
         "Sve tvrdnje su potpuno sigurne.",
@@ -1208,52 +1208,52 @@ export const SERBIAN_C1_LESSONS_41_50 = [
     "grammar": "U formalnom i stručnom govoru precizno označite uslove, ograničenja i odnos između dokaza i zaključka. Koristite ublažene formulacije kada podaci ne dopuštaju kategoričan sud.",
     "examples": [
       {
-        "text": "Timely clarification can prevent rumours from spreading.",
-        "reading": "transparentnost — ට්‍රාන්ස්පාරෙන්ට්නොස්ට්",
-        "meaning": "කාලෝචිත පැහැදිලි කිරීම කටකතා පැතිරීම වළක්වයි."
+        "text": "Pravovremeno pojašnjenje može sprečiti širenje glasina.",
+        "reading": "правовремено пойашньенье може спречити ширенье гласина.",
+        "meaning": "අනුවර්තනය වැළැක්විය නොහැකි වෙනස්කම්වල බලපෑම අඩු කරයි."
       },
       {
-        "text": "A spokesperson should distinguish facts from estimates.",
-        "reading": "uveravanje — උවෙරාවාඤෙ",
-        "meaning": "ප්‍රකාශකයා කරුණු සහ ඇස්තමේන්තු වෙන් කළ යුතුය."
+        "text": "Portparol treba da razlikuje činjenice od procena.",
+        "reading": "портпарол треба да разликуйе чиньениcе од проcена.",
+        "meaning": "අනුවර්තනය වැළැක්විය නොහැකි වෙනස්කම්වල බලපෑම අඩු කරයි."
       },
       {
-        "text": "Transparency strengthens public credibility.",
-        "reading": "dezinformacije — දෙzinෆොර්මාසියේ",
-        "meaning": "විනිවිදභාවය මහජන විශ්වසනීයත්වය ශක්තිමත් කරයි."
+        "text": "Transparentnost jača poverenje javnosti.",
+        "reading": "транспарентност йача поверенье йавности.",
+        "meaning": "අනුවර්තනය වැළැක්විය නොහැකි වෙනස්කම්වල බලපෑම අඩු කරයි."
       },
       {
-        "text": "The message must acknowledge what remains unknown.",
-        "reading": "portparol — පොර්ට්පාරොල්",
-        "meaning": "තවමත් නොදන්නා දේ පණිවිඩය පිළිගත යුතුය."
+        "text": "Poruka mora priznati i ono što još nije poznato.",
+        "reading": "порука мора признати и оно што йош нийе познато.",
+        "meaning": "අනුවර්තනය වැළැක්විය නොහැකි වෙනස්කම්වල බලපෑම අඩු කරයි."
       }
     ],
     "dialogue": [
       {
-        "text": "When will the next update be issued?",
-        "reading": "ට්‍රාන්ස්පාරෙන්ට්නොස්ට්",
+        "text": "Kada će biti objavljeno sledeće obaveštenje?",
+        "reading": "када че бити обйавльено следече обавештенье?",
         "meaning": "ඊළඟ යාවත්කාලීනය නිකුත් කරන්නේ කවදාද?"
       },
       {
-        "text": "As soon as the verified figures are available.",
-        "reading": "උවෙරාවාඤෙ",
+        "text": "Čim budu dostupni provereni podaci.",
+        "reading": "чим буду доступни проверени подаcи.",
         "meaning": "තහවුරු කළ සංඛ්‍යා ලැබුණු වහාම."
       },
       {
-        "text": "Should we comment on the circulating claim?",
-        "reading": "දෙzinෆොර්මාසියේ",
+        "text": "Da li treba da komentarišemo tvrdnju koja kruži?",
+        "reading": "да ли треба да коментаришемо тврдньу койа кружи?",
         "meaning": "පැතිරෙන ප්‍රකාශය ගැන අදහස් දැක්විය යුතුද?"
       },
       {
-        "text": "We should correct it without repeating unverified details.",
-        "reading": "පොර්ට්පාරොල්",
+        "text": "Treba da je ispravimo bez ponavljanja nepotvrđenih detalja.",
+        "reading": "треба да йе исправимо без понавльаньа непотврђених детальа.",
         "meaning": "තහවුරු නොකළ විස්තර නැවත නොකියා එය නිවැරදි කළ යුතුය."
       }
     ],
     "listeningPractice": {
       "prompt": "Poslušajte i izaberite najtačnije tumačenje.",
-      "audio": "Timely clarification can prevent rumours from spreading. A spokesperson should distinguish facts from estimates. Transparency strengthens public credibility. The message must acknowledge what remains unknown.",
-      "reading": "ට්‍රාන්ස්පාරෙන්ට්නොස්ට් උවෙරාවාඤෙ දෙzinෆොර්මාසියේ පොර්ට්පාරොල් ප්‍රාවොව්‍රෙමෙනොස්ට් පොයාෂ්ඤෙඤෙ ක්‍රෙඩිබිලිටෙට් සායින්ටෙරෙසොවානා ස්ට්‍රානා",
+      "audio": "Pravovremeno pojašnjenje može sprečiti širenje glasina. Portparol treba da razlikuje činjenice od procena. Transparentnost jača poverenje javnosti. Poruka mora priznati i ono što još nije poznato.",
+      "reading": "правовремено пойашньенье може спречити ширенье гласина. портпарол треба да разликуйе чиньениcе од проcена. транспарентност йача поверенье йавности. порука мора признати и оно што йош нийе познато.",
       "options": [
         "කාලෝචිත පැහැදිලි කිරීම කටකතා පැතිරීම වළක්වයි. ප්‍රකාශකයා කරුණු සහ ඇස්තමේන්තු වෙන් කළ යුතුය.",
         "Sve tvrdnje su potpuno sigurne.",
@@ -1371,52 +1371,52 @@ export const SERBIAN_C1_LESSONS_41_50 = [
     "grammar": "U formalnom i stručnom govoru precizno označite uslove, ograničenja i odnos između dokaza i zaključka. Koristite ublažene formulacije kada podaci ne dopuštaju kategoričan sud.",
     "examples": [
       {
-        "text": "The executive brief summarises the evidence and decision.",
-        "reading": "izvršni sažetak — ඉස්ව්ර්ෂ්නි සාжෙටාක්",
-        "meaning": "විධායක සාරාංශය සාක්ෂි සහ තීරණය සාරාංශ කරයි."
+        "text": "Izvršni sažetak prikazuje dokaze i predloženu odluku.",
+        "reading": "извршни сажетак приказуйе доказе и предложену одлуку.",
+        "meaning": "විශ්වාසදායක සිදුවීම් ආකෘතියක් එහි උපකල්පන පැහැදිලිව සඳහන් කළ යුතුය."
       },
       {
-        "text": "Each option should be assessed for feasibility.",
-        "reading": "merilo — මෙරිලෝ",
-        "meaning": "සෑම විකල්පයක්ම ක්‍රියාත්මක කළ හැකි බව අනුව ඇගයිය යුතුය."
+        "text": "Svaku opciju treba proceniti prema izvodljivosti.",
+        "reading": "сваку опcийу треба проcенити према изводльивости.",
+        "meaning": "විශ්වාසදායක සිදුවීම් ආකෘතියක් එහි උපකල්පන පැහැදිලිව සඳහන් කළ යුතුය."
       },
       {
-        "text": "The recommendation includes an implementation timetable.",
-        "reading": "izvodljivost — ඉස්වොඩ්љивොස්ට්",
-        "meaning": "නිර්දේශයට ක්‍රියාත්මක කිරීමේ කාලසටහනක් ඇතුළත් වේ."
+        "text": "Preporuka uključuje vremenski plan sprovođenja.",
+        "reading": "препорука укльучуйе временски план спровођеньа.",
+        "meaning": "විශ්වාසදායක සිදුවීම් ආකෘතියක් එහි උපකල්පන පැහැදිලිව සඳහන් කළ යුතුය."
       },
       {
-        "text": "Monitoring will show whether the expected benefits materialise.",
-        "reading": "implikacija — ඉම්ප්ලිකාසියා",
-        "meaning": "අපේක්ෂිත ප්‍රතිලාභ සැබෑ වේද යන්න නිරීක්ෂණයෙන් පෙනේ."
+        "text": "Praćenje će pokazati da li su očekivane koristi ostvarene.",
+        "reading": "праченье че показати да ли су очекиване користи остварене.",
+        "meaning": "විශ්වාසදායක සිදුවීම් ආකෘතියක් එහි උපකල්පන පැහැදිලිව සඳහන් කළ යුතුය."
       }
     ],
     "dialogue": [
       {
-        "text": "What is the strongest evidence for this option?",
-        "reading": "ඉස්ව්ර්ෂ්නි සාжෙටාක්",
+        "text": "Koji su najjači dokazi u prilog ovoj opciji?",
+        "reading": "койи су наййачи докази у прилог овой опcийи?",
         "meaning": "මෙම විකල්පයට ඇති ශක්තිමත්ම සාක්ෂිය කුමක්ද?"
       },
       {
-        "text": "The comparative results and the independent review.",
-        "reading": "මෙරිලෝ",
+        "text": "Uporedni rezultati i nezavisna procena.",
+        "reading": "упоредни резултати и независна проcена.",
         "meaning": "සැසඳුම් ප්‍රතිඵල සහ ස්වාධීන සමාලෝචනයයි."
       },
       {
-        "text": "What are the main trade-offs?",
-        "reading": "ඉස්වොඩ්љивොස්ට්",
+        "text": "Koji su glavni kompromisi?",
+        "reading": "койи су главни компромиси?",
         "meaning": "ප්‍රධාන හුවමාරු තේරීම් මොනවාද?"
       },
       {
-        "text": "Higher initial costs, but lower long-term risk.",
-        "reading": "ඉම්ප්ලිකාසියා",
+        "text": "Veći početni troškovi, ali manji dugoročni rizik.",
+        "reading": "вечи почетни трошкови, али маньи дугорочни ризик.",
         "meaning": "ආරම්භක පිරිවැය වැඩි නමුත් දිගුකාලීන අවදානම අඩුය."
       }
     ],
     "listeningPractice": {
       "prompt": "Poslušajte i izaberite najtačnije tumačenje.",
-      "audio": "The executive brief summarises the evidence and decision. Each option should be assessed for feasibility. The recommendation includes an implementation timetable. Monitoring will show whether the expected benefits materialise.",
-      "reading": "ඉස්ව්ර්ෂ්නි සාжෙටාක් මෙරිලෝ ඉස්වොඩ්љивොස්ට් ඉම්ප්ලිකාසියා ස්ප්‍රොවොђෙඤෙ ප්‍රාචෙඤෙ කොම්ප්‍රොමිස් ප්‍රෙපොරුකා",
+      "audio": "Izvršni sažetak prikazuje dokaze i predloženu odluku. Svaku opciju treba proceniti prema izvodljivosti. Preporuka uključuje vremenski plan sprovođenja. Praćenje će pokazati da li su očekivane koristi ostvarene.",
+      "reading": "извршни сажетак приказуйе доказе и предложену одлуку. сваку опcийу треба проcенити према изводльивости. препорука укльучуйе временски план спровођеньа. праченье че показати да ли су очекиване користи остварене.",
       "options": [
         "විධායක සාරාංශය සාක්ෂි සහ තීරණය සාරාංශ කරයි. සෑම විකල්පයක්ම ක්‍රියාත්මක කළ හැකි බව අනුව ඇගයිය යුතුය.",
         "Sve tvrdnje su potpuno sigurne.",
