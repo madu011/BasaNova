@@ -1326,7 +1326,7 @@ export const SERBIAN_A1_LESSONS = [
    {word:"Kuhinja",reading:"කුහින්‍යා",meaning:"මුළුතැන්ගෙය",example:"Kuhinja je čista.",exampleReading:"කුහින්‍යා යේ චිස්තා.",translation:"මුළුතැන්ගෙය පිරිසිදුයි."},
    {word:"Kupatilo",reading:"කුපාතිලො",meaning:"නාන කාමරය",example:"Kupatilo je malo.",exampleReading:"කුපාතිලො යේ මාලො.",translation:"නාන කාමරය කුඩායි."},
    {word:"Sto",reading:"ස්තො",meaning:"මේසය",example:"Knjiga je na stolu.",exampleReading:"ක්න්යිගා යේ නා ස්තොලු.",translation:"පොත මේසය මත තියෙනවා."},
-   {word:"Stolica",reading:"ස්තොලිත्सा",meaning:"පුටුව",example:"Stolica je pored stola.",exampleReading:"ස්තොලිත्सा යේ පොරෙද් ස්තොලා.",translation:"පුටුව මේසය අසල තියෙනවා."},
+   {word:"Stolica",reading:"ස්තොලීත්සා",meaning:"පුටුව",example:"Stolica je pored stola.",exampleReading:"ස්තොලීත්සා යේ පොරෙද් ස්තොලා.",translation:"පුටුව මේසය අසල තියෙනවා."},
    {word:"Krevet",reading:"ක්‍රෙවෙත්",meaning:"ඇඳ",example:"Krevet je u sobi.",exampleReading:"ක්‍රෙවෙත් යේ උ සොබි.",translation:"ඇඳ කාමරයේ තියෙනවා."}
   ],
   grammarTitle:"ව්‍යාකරණය · නිවසේ දේවල් තිබෙන තැන්",
