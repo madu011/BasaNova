@@ -526,3 +526,6 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 - No APK artifact, installation, or physical Android runtime test is confirmed by this session.
 - Native-speaker review of Serbian idiom/grammar, English naturalness, Sinhala translations and approximate pronunciation remains necessary.
 - C1 currently has lessons only; cumulative revision and final assessment are not yet implemented. C2 is still roadmap-only.
+
+
+- C1 source review follow-up: corrected several mixed Latin/Cyrillic characters in Sinhala-script Serbian pronunciation readings and replaced a Cyrillic quiz answer with Sinhala options. Commit: `b9740c94c2b6158a19d2eb925da1eb2027e06635`. This is a source-level correction only; pronunciation remains approximate and still needs a fluent Serbian speaker.
