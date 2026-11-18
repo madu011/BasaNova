@@ -158,7 +158,7 @@ courses.English.push(...ENGLISH_VOCAB_PACK_8);
 courses.Serbian.push(...SERBIAN_VOCAB_PACK_9);
 courses.English.push(...ENGLISH_VOCAB_PACK_9);
 const serbianSinhala = {
-  "Zdravo": "ස්ද්‍රාවෝ",
+  "Zdravo": "ස්ද්‍රාවො",
   "Dobar dan": "දොබාර් දාන්",
   "Dobro jutro": "දොබ්‍රො යූත්‍රො",
   "Dobro veče": "දොබ්‍රො වෙචේ",
@@ -177,8 +177,8 @@ const serbianSinhala = {
   "Koliko košta?": "කොලිකො කොෂ්තා?",
   "Gde je...?": "ග්දේ යේ?",
   "Voda": "වොදා",
-  "Račun, molim": "රාචූන්, මොලීම්",
-  "Zdravo, kako si?": "ස්ද්‍රාවෝ, කාකො සී?",
+  "Račun, molim": "රාචුන්, මොලීම්",
+  "Zdravo, kako si?": "ස්ද්‍රාවො, කාකො සී?",
   "Dobar dan, gospodine.": "දොබාර් දාන්, ගොස්පොදිනේ.",
   "Dobro jutro svima.": "දොබ්‍රො යූත්‍රො ස්විමා.",
   "Dobro veče, Ana.": "දොබ්‍රො වෙචේ, ආනා.",
@@ -194,7 +194,7 @@ const serbianSinhala = {
   "Koliko košta ova kafa?": "කොලිකො කොෂ්තා ඔවා කාෆා?",
   "Gde je autobuska stanica?": "ග්දේ යේ අව්තොබුස්කා ස්තානිත්සා?",
   "Molim vas, jednu vodu.": "මොලීම් වාස්, යෙද්නු වොදු.",
-  "Račun, molim.": "රාචූන්, මොලීම්.",
+  "Račun, molim.": "රාචුන්, මොලීම්.",
   "auto": "ආවුතො",
   "baba": "බාබා",
   "car": "ත්සාර්",
