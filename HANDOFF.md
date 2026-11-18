@@ -369,3 +369,16 @@
 - Serbian A2 commit: 4157879d984a1e681e89a1cfa14ad5618cfafe45. English A2 commit: da7532aa5f3a759768290062471576fef1042961.
 - Next implementation: start B1 with a paired batch of at least 10 Serbian and 10 English lessons, then wire B1 into the course selector only after verifying the current app architecture. Continue with 50 lessons total for B1 and each later level.
 - No build, CI run, APK build, or Android device test was performed for this correction. Source array count must be re-fetched and validated before claiming final verification.
+
+
+## B1 implementation update — 2026-11-18
+- Added the first paired B1 batch: 10 Serbian lessons and 10 English lessons. Topics are memorable experiences; opinions and reasons; workplace problem-solving; comparing options; news and reports; formal requests; clarifying misunderstandings; project planning; changes over time; and balanced advice.
+- Each lesson object includes 8 vocabulary entries with Sinhala-script readings and meanings, grammar guidance, a phrase card, 4 examples, a 4-line dialogue section, a listening check and 4 practice questions. Quiz answer positions were varied rather than always using option A.
+- Created serbianB1Lessons.js and englishB1Lessons.js; integrated both imports and a B1 lesson panel into App.js; recorded the milestone in curriculum.js (B1_COURSE_STATUS) and README.
+- Serbian lesson data commits: 01808743fd19531131aaf0dbb396c3c0ce1dd839, followed by quiz-position correction 7efb6889c92b5a89856280e8e4752075d41a99dc.
+- English lesson data commits: 54c4a65ef3df1c0475a3ee291bac2df4c78be545, followed by quiz-position correction 7e8ad6c2e05e1f20f96a9443d7412355d624c285.
+- App integration commit: 58f9455480d5ce2ea9d3e301897fedff9b9d56da; curriculum milestone commit: a7c4395da6141f49adde9fbb17bcfb8dddbc3fc1; README commit: 7cfe2ec3dbee748fa712c76b9322120b41022515.
+- Re-fetched committed files and source-parsed both arrays: 10 unique sequential lesson IDs per language, all 10 lessons have 8 vocabulary entries, 4 examples, 4 dialogue rows, 4 practice questions, grammar, phrase card and listening task; answer indices are within option bounds. App imports and B1 screen references are present.
+- Quality note: the current dialogue rows reuse the four authored example sentences as a short dialogue section; a later content-polish pass should turn these into more natural alternating-speaker conversations. Sinhala-script readings are approximate and need fluent-speaker review.
+- No JavaScript/Expo build, CI pass, APK artifact, installation or physical-device test was performed. Do not claim build/runtime success.
+- Next: continue paired B1 lessons 11–20 in one batch; then add cumulative B1 revision and assessment after lesson 50. Keep each CEFR level capped at 50 lessons.
