@@ -172,3 +172,6 @@
 
 
 - 2026-11-18 continuation: Audited the exact Serbian-to-Sinhala pronunciation dictionary and fixed two inconsistent vowel-length spellings: `Zdravo` and `Zdravo, kako si?` now use `ස්ද්‍රාවො` (matching the lesson's existing `Zdravo` reading), and `Račun, molim` / `Račun, molim.` now use `රාචුන්` consistently rather than an unnecessarily lengthened `රාචූන්`. App commit: `f8bb462dd6c65acac800bd9fabd5624c0d9ca400`. These remain learner-friendly Sinhala approximations; Serbian audio playback remains the authoritative sound model.
+
+
+- 2026-11-18 continuation: Improved the vocabulary/phrase pronunciation lookup for the Serbian sound-guide examples. Added exact Sinhala-script readings for `cena`, `čaj`, `ćao`, `džem`, `đak`, `škola`, `žena`, `ljubav`, `njiva`, and `zima`, including brief voice-quality notes where Sinhala has no exact equivalent. This prevents the generic letter-by-letter fallback from obscuring the intended Serbian consonant sound. App commit: `c43b1be21c1bf64f283836bc180f3b62c099ec9c`. These are still approximations; use the app's Serbian TTS to hear the actual sounds.
