@@ -394,4 +394,18 @@
 - Source validation re-fetched both committed arrays and confirmed 20 unique, sequential lesson IDs per language; each lesson has 8 vocabulary entries, 4 examples, 4 dialogue turns, 4 practice questions, grammar, phrase card and listening task; answer indexes are valid. Existing App.js imports and B1 renderer remain in place, so the new lesson objects are included by the same arrays.
 - Quality limitation: the new Serbian and English dialogue turns are explicitly alternating A/B, but several topic examples and vocabulary sample translations are generic patterns and should receive a language-speaker quality pass. Sinhala-script readings are approximate and require fluent-speaker review.
 - No Expo/JavaScript build, CI pass, APK artifact, installation or physical-device test was run for this batch. Do not claim runtime or build success.
-- Next: author paired B1 lessons 21–30; then 31–40 and 41–50; add cumulative revision and end-of-level assessment only after the full 50-lesson sequence is authored.
+- Next: author paired B1 lessons 31–40, then 41–50; add cumulative revision and end-of-level assessment only after the full 50-lesson sequence is authored.
+
+
+## Latest session — paired B1 lessons 21–30 (2026-11-18)
+
+- Added Serbian lesson IDs `sr-b1-l21`–`sr-b1-l30` and English lesson IDs `en-b1-l21`–`en-b1-l30`, extending both B1 arrays to 30 lessons.
+- Matched topics: education/professional training; technology/digital communication; banking/financial planning; healthy habits/well-being; culture/traditions; job interviews/career development; conflict resolution/negotiation; media/information reliability; travel destinations/accommodation; and personal memories/life changes.
+- Each lesson has eight vocabulary entries with Sinhala-script readings and Sinhala meanings, example support, grammar guidance, a phrase card, four examples, a four-turn A/B dialogue, one listening task and four practice questions.
+- Serbian data commits: initial `bac00178f97b8c91ebdccaf657253a16cf3dab82`, vocabulary example completion `459a6426de3a95fbf14c427cc20cf5e77701e5e3`.
+- English data commit: `2d156f693061663dbc1d2753703922c3927315d7`.
+- Curriculum milestone commit: `e537eb37e00e01c1eaa49321291c4e94d093e340` (30/50 per language; 20 remain). README commit: `27fdb15a363d43f5a3eb4380b529c91b1866b49a`.
+- The English data was re-fetched and checked for missing vocabulary reading/example-reading/translation fields; none were missing. Full paired-array validation and handoff commit follow below.
+- Sinhala-script readings are approximate; Serbian grammar, idiomatic phrasing and vocabulary-example quality still require fluent-speaker review. This batch's example patterns and some dialogue turns are deliberately simple practice models, not a native-speaker editorial certification.
+- No Expo/JavaScript build, CI pass, APK artifact, installation or physical-device test was run. Do not claim runtime/build success.
+- Next: author paired B1 lessons 31–40, then 41–50; after the 50 lessons are complete, add cumulative revision and end-of-level assessments for both languages.
