@@ -340,3 +340,21 @@
 - Audited the lesson arrays after adding the final units. Serbian and English each now contain exactly 50 structured lesson objects, with lesson numbers 1–50 present once each.
 - Filled Serbian sequence gaps at lessons 3–5 and English sequence gaps at lessons 8–10; removed duplicate lesson objects introduced during the earlier batch additions.
 - The 50-object count is source-verified. Final CI validation and APK artifact verification are still pending; this does not replace native-speaker review or physical-device testing.
+
+
+## Latest development update — 2026-11-18 (A2 lessons 36–40)
+- Read the current repository handoff and inspected the latest commits before editing. The current A2 source files contained lesson IDs 1–35 in both languages.
+- Added five paired A2 lessons to `serbianA2Lessons.js` and `englishA2Lessons.js`:
+  36. Planning a trip and booking accommodation.
+  37. Making a complaint and asking for a solution.
+  38. Cooking and following a recipe.
+  39. Planning around the weather forecast.
+  40. Describing a past experience and event.
+- Each new lesson has 8 vocabulary entries with Sinhala-script readings and meanings, a grammar explanation and phrase card, 3 examples, a 4-line dialogue, a listening task, and 4 practice questions.
+- Serbian data commit: `dbdab4eaa242626ce750e1133a49c219449bb1eb`.
+- English data commit: `693ec65c5de98310934bd7b279b96ec27534d80e`.
+- README documentation commit: `12b2fdccd7876bb7926aa198d147384895a8a5b1`.
+- Source validation after fetching the committed files confirmed 40 lesson objects in each language, unique IDs, matching lesson IDs 36–40, and the expected vocabulary/examples/dialogue/listening/practice fields. `App.js` already imports both A2 lesson arrays, so the content uses the existing A2 course integration.
+- No parser/build command, Expo bundle, GitHub Actions success, APK artifact, installation, or physical Android test was performed for this batch. Sinhala pronunciation readings are approximations and need fluent-speaker review.
+- Previous progress estimates and some older handoff sections are historical and should not be treated as the current verified lesson count. Current source-level lesson totals: Serbian A1 50 + A2 40; English A1 50 + A2 40. B1–C2 lesson content remains outstanding.
+- Next task: add paired A2 lessons 41–45 to both languages, then audit A2 lesson progression and create aligned A2 revision/final assessments. Check the latest GitHub Actions workflows before claiming build readiness.
