@@ -16,6 +16,7 @@ import { SERBIAN_B1_LESSONS } from "./serbianB1Lessons";
 import { ENGLISH_B1_LESSONS } from "./englishB1Lessons";
 import { SERBIAN_B2_LESSONS } from "./serbianB2Lessons";
 import { ENGLISH_B2_LESSONS } from "./englishB2Lessons";
+import { SERBIAN_B2_FINAL_EXAM, ENGLISH_B2_FINAL_EXAM, SERBIAN_B2_MIXED_REVISION, ENGLISH_B2_MIXED_REVISION } from "./b2FinalExams";
 import { SERBIAN_B1_FINAL_EXAM, ENGLISH_B1_FINAL_EXAM, SERBIAN_B1_MIXED_REVISION, ENGLISH_B1_MIXED_REVISION } from "./b1FinalExams";
 import { SERBIAN_EXTRA_VOCAB, ENGLISH_EXTRA_VOCAB } from "./vocabularyPacks";
 import { SERBIAN_VOCAB_PACK_2, ENGLISH_VOCAB_PACK_2 } from "./vocabularyPack2";
@@ -423,7 +424,8 @@ export default function App(){
  const s=useMemo(()=>makeStyles(C),[theme]);
  const [lessonAnswers,setLessonAnswers]=useState({});
  const [b1ExamSubmitted,setB1ExamSubmitted]=useState(false);
- useEffect(()=>{setB1ExamSubmitted(false);},[language]);
+ const [b2ExamSubmitted,setB2ExamSubmitted]=useState(false);
+ useEffect(()=>{setB1ExamSubmitted(false);setB2ExamSubmitted(false);},[language]);
  const [lessonChecked,setLessonChecked]=useState({});
  const [expandedLessonId,setExpandedLessonId]=useState(SERBIAN_A1_LESSONS[0]?.id||null);
  const [missionDone,setMissionDone]=useState([]);
@@ -847,6 +849,24 @@ export default function App(){
       {lesson.practice.map((q,qi)=>{const key=lesson.id+"-"+qi,selected=lessonAnswers[key],checked=lessonChecked[key];return <View key={key} style={s.quizCard}><Text style={s.sub}>{qi+1}. {q.prompt}</Text>{q.options.map((option,oi)=><TouchableOpacity key={option} disabled={!!checked} onPress={()=>setLessonAnswers(v=>({...v,[key]:oi}))} style={[s.quizOption,selected===oi&&s.quizSelected,checked&&oi===q.answer&&s.quizCorrect,checked&&selected===oi&&selected!==q.answer&&s.quizWrong]}><Text style={s.quizOptionText}>{String.fromCharCode(65+oi)}. {option}</Text></TouchableOpacity>)}{checked?<Text style={s.sub}>{selected===q.answer?"නිවැරදියි! ✓ ":"නැවත පුහුණු වෙමු. "}{q.explanation}</Text>:<TouchableOpacity disabled={selected===undefined} onPress={()=>setLessonChecked(v=>({...v,[key]:true}))} style={[s.action,selected===undefined&&{opacity:0.45}]}><Text style={s.actionText}>පිළිතුර පරීක්ෂා කරන්න</Text></TouchableOpacity>}</View>})}
      </View>}
     </View>})}
+    <View style={s.quizCard}>
+     <Text style={s.lessonHeading}>🔁 B2 · පාඩම් 50ම මිශ්‍ර නැවත පුහුණුව</Text>
+     <Text style={s.sub}>B2 පාඩම් මාලාවේ ප්‍රධාන වචන සහ සන්නිවේදන රටා නැවත පරීක්ෂා කරන්න.</Text>
+     {(language==="Serbian"?SERBIAN_B2_MIXED_REVISION:ENGLISH_B2_MIXED_REVISION).map((q,qi)=>{const key="b2-revision-"+language+"-"+qi,selected=lessonAnswers[key],checked=lessonChecked[key];return <View key={q.id} style={s.quizCard}><Text style={s.eyebrow}>{qi+1}/10 · {q.topic}</Text><Text style={s.sub}>{q.prompt}</Text>{q.options.map((option,oi)=><TouchableOpacity key={q.id+"-"+oi} disabled={!!checked} onPress={()=>setLessonAnswers(v=>({...v,[key]:oi}))} style={[s.quizOption,selected===oi&&s.quizSelected,checked&&oi===q.answer&&s.quizCorrect,checked&&selected===oi&&selected!==q.answer&&s.quizWrong]}><Text style={s.quizOptionText}>{String.fromCharCode(65+oi)}. {option}</Text></TouchableOpacity>)}{checked?<Text style={s.sub}>{selected===q.answer?"නිවැරදියි! ✓ ":"නැවත පුහුණු වෙමු. "}{q.explanation}</Text>:<TouchableOpacity disabled={selected===undefined} onPress={()=>setLessonChecked(v=>({...v,[key]:true}))} style={[s.action,selected===undefined&&{opacity:0.45}]}><Text style={s.actionText}>පිළිතුර පරීක්ෂා කරන්න</Text></TouchableOpacity>}</View>})}
+    </View>
+    <View style={s.quizCard}>
+     <Text style={s.lessonHeading}>🏆 B2 · අවසාන මිශ්‍ර පරීක්ෂණය</Text>
+     <Text style={s.sub}>ප්‍රශ්න 20ක්: වචන දැනුම සහ ශ්‍රවණ අවබෝධය. 70% (14/20) සමත් වීමේ ඉලක්කයයි. මෙය පුහුණු ඇගයීමක් පමණි; නිල CEFR සහතිකයක් නොවේ.</Text>
+     {(language==="Serbian"?SERBIAN_B2_FINAL_EXAM:ENGLISH_B2_FINAL_EXAM).map((q,qi)=>{const key="b2-final-"+language+"-"+qi,selected=lessonAnswers[key];return <View key={q.id} style={s.quizCard}>
+      <Text style={s.eyebrow}>{qi+1}/20 · {q.type==="listening"?"🎧 LISTENING":"📚 VOCABULARY"}</Text>
+      <Text style={s.sub}>{q.prompt}</Text>
+      {q.audio&&<><Text style={s.lessonSerbian}>{q.audio}</Text>{!!q.reading&&<Text style={s.sound}>සිංහල උච්චාරණය: {q.reading}</Text>}<TouchableOpacity onPress={()=>speak(q.audio,language)} style={s.action}><Text style={s.actionText}>🔊 නැවත අහන්න</Text></TouchableOpacity></>}
+      {!q.audio&&<><Text style={s.lessonSerbian}>{q.word}</Text><TouchableOpacity onPress={()=>speak(q.word,language)}><Text style={s.link}>🔊 වචනය අහන්න</Text></TouchableOpacity></>}
+      {q.options.map((option,oi)=><TouchableOpacity key={q.id+"-"+oi} disabled={b2ExamSubmitted} onPress={()=>setLessonAnswers(v=>({...v,[key]:oi}))} style={[s.quizOption,selected===oi&&s.quizSelected,b2ExamSubmitted&&oi===q.answer&&s.quizCorrect,b2ExamSubmitted&&selected===oi&&selected!==q.answer&&s.quizWrong]}><Text style={s.quizOptionText}>{String.fromCharCode(65+oi)}. {option}</Text></TouchableOpacity>)}
+      {b2ExamSubmitted&&<Text style={s.sub}>{selected===q.answer?"නිවැරදියි! ✓ ":"නිවැරදි පිළිතුර: "}{q.explanation}</Text>}
+     </View>})}
+     {b2ExamSubmitted?<><Text style={s.cardTitle}>ලකුණු: {(language==="Serbian"?SERBIAN_B2_FINAL_EXAM:ENGLISH_B2_FINAL_EXAM).filter((q,qi)=>lessonAnswers["b2-final-"+language+"-"+qi]===q.answer).length}/20 · {Math.round((language==="Serbian"?SERBIAN_B2_FINAL_EXAM:ENGLISH_B2_FINAL_EXAM).filter((q,qi)=>lessonAnswers["b2-final-"+language+"-"+qi]===q.answer).length/20*100)}%</Text><Text style={s.sub}>{(language==="Serbian"?SERBIAN_B2_FINAL_EXAM:ENGLISH_B2_FINAL_EXAM).filter((q,qi)=>lessonAnswers["b2-final-"+language+"-"+qi]===q.answer).length>=14?"🎉 70% සීමාව සමත්!":"තව පුහුණු වී නැවත උත්සාහ කරන්න."}</Text><TouchableOpacity onPress={()=>{setLessonAnswers(v=>{const n={...v};for(let i=0;i<20;i++)delete n["b2-final-"+language+"-"+i];return n;});setB2ExamSubmitted(false);}} style={s.action}><Text style={s.actionText}>🔄 නැවත පරීක්ෂණය කරන්න</Text></TouchableOpacity></>:<TouchableOpacity onPress={()=>setB2ExamSubmitted(true)} disabled={(language==="Serbian"?SERBIAN_B2_FINAL_EXAM:ENGLISH_B2_FINAL_EXAM).some((q,qi)=>lessonAnswers["b2-final-"+language+"-"+qi]===undefined)} style={[s.action,(language==="Serbian"?SERBIAN_B2_FINAL_EXAM:ENGLISH_B2_FINAL_EXAM).some((q,qi)=>lessonAnswers["b2-final-"+language+"-"+qi]===undefined)&&{opacity:0.45}]}><Text style={s.actionText}>පිළිතුරු සියල්ල පරීක්ෂා කරන්න</Text></TouchableOpacity>}
+    </View>
    </View>
    <View style={s.panel}><Text style={s.eyebrow}>📖 {language.toUpperCase()} · BEGINNER</Text><Text style={s.word}>{current.word}</Text><Text style={s.sound}>සිංහල උච්චාරණය: {language==="Serbian"?pronounceSinhala(current.word):current.sound}</Text><Text style={s.meaning}>{current.meaning}</Text>{language==="Serbian"&&<Text style={s.sound}>කියන විදිහ: {pronounceSinhala(current.word)}</Text>}<Action onPress={()=>speak(current.word,language)}>🔊 {language} හඬ අහන්න</Action><View style={s.example}><Text style={s.sub}>💬 උදාහරණ වාක්‍යය</Text><Text style={s.exampleWord}>{current.example}</Text>{language==="Serbian"&&<Text style={s.sound}>සිංහලෙන් කියන විදිහ: {pronounceSinhala(current.example)}</Text>}{language==="English"&&<Text style={s.sound}>සිංහල අකුරෙන් උච්චාරණය (ආසන්නව): {pronounceEnglishSinhala(current.example)}</Text>}<Text style={s.sub}>{current.translation}</Text><TouchableOpacity onPress={()=>speak(current.example,language)}><Text style={s.link}>▶ {language} වාක්‍ය හඬ අහන්න</Text></TouchableOpacity></View><Action onPress={mark}>මම මේක ඉගෙනගත්තා ✓</Action><Action secondary onPress={next}>ඊළඟ වචනය →</Action></View><View style={s.panel}><Text style={s.cardTitle}>🗺️ සම්පූර්ණ {language} පාඨමාලා මාර්ගසටහන</Text><Text style={s.sub}>A1 සිට C2 දක්වා සියලු මට්ටම් සැලසුම් කර ඇත. පහත දැක්වෙන්නේ පාඩම් අන්තර්ගතය සකස් කරන මාර්ගසටහනයි; සියලු ඒකක තවම සම්පූර්ණ කර නැත.</Text>{COURSE_LEVELS.map(level=><View key={level.id} style={s.soundCard}><View style={s.soundHead}><Text style={s.soundLetters}>{LEVEL_LABELS[level.id]}</Text><Text style={s.soundName}>{level.title}</Text></View><Text style={s.sub}>{level.goal}</Text>{level.units.map((unit,i)=><Text key={unit} style={s.sub}>{i+1}. {unit}</Text>)}</View>)}<Text style={s.cardTitle}>🧩 සෑම පාඩමකම ඉගෙනුම් ක්‍රමය</Text>{LESSON_METHOD.map((item,i)=><Text key={item} style={s.sub}>{item}</Text>)}</View>
 
