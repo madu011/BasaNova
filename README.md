@@ -167,3 +167,10 @@ GitHub Actions runs dependency installation, Expo SDK compatibility checks, and 
 - Entries are alphabetically sorted (Serbian Latin letters include its accented characters), searchable by target phrase, Sinhala meaning or Sinhala-script pronunciation, and filterable by letter.
 - Each entry displays the target phrase, approximate Sinhala-script pronunciation, Sinhala meaning, and where available an example with its reading and Sinhala translation; individual TTS controls are provided for the entry and example.
 - The list is derived from app content at runtime, so new entries added to the connected course and lesson data sources appear without maintaining a separate duplicate dictionary. Pronunciation approximations still require language-speaker review.
+
+
+### Paired A1 lesson 17 — Family and personal information
+- Added the same practical topic to both Serbian and English A1: family members, siblings, country of origin, and languages spoken.
+- Each lesson includes ten vocabulary entries with Sinhala meanings and Sinhala-script pronunciation, five grammar phrase cards, four examples, a six-line dialogue, one listening task, and four quizzes.
+- Added the Serbian lesson's matching listening-discrimination prompt at the same lesson-array index. The English lesson includes its own listening task and uses the existing lesson renderer.
+- Both languages now contain 14 structured A1 lessons. This remains a starter course rather than a complete CEFR A1 syllabus; pronunciation guides are approximate and need language-speaker review.
