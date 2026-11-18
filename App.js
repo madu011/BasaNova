@@ -334,7 +334,8 @@ export default function App(){
    (lesson.grammarTerms||[]).forEach(item=>add(item.sr||item.text,item.si||item.meaning,item.reading,"","",null,"ව්‍යාකරණය"));
    (lesson.examples||[]).forEach(item=>add(item.sr||item.text,item.si||item.meaning,item.reading,"","",null,"උදාහරණ"));
    (lesson.dialogue||[]).forEach(item=>add(item.sr||item.text,item.si||item.meaning,item.reading,"","",null,"සංවාදය"));
-   (lesson.practice||[]).forEach(q=>(q.options||[]).forEach(option=>add(option,"පිළිතුරු විකල්පය",null,"","",null,"පුහුණු ප්‍රශ්න")));
+   (lesson.practice||[]).forEach(q=>{(q.options||[]).forEach(option=>add(option,"පිළිතුරු විකල්පය",null,"","",null,"පුහුණු ප්‍රශ්න"));(q.explanation?.match(/[“"]([^”"]+)[”"]/g)||[]).forEach(quoted=>{const phrase=quoted.slice(1,-1);if(/[A-Za-z]/.test(phrase))add(phrase,q.explanation,null,"","",null,"පිළිතුරු පැහැදිලි කිරීම");});});
+   (lesson.grammar?.match(/[“"]([^”"]+)[”"]/g)||[]).forEach(quoted=>{const phrase=quoted.slice(1,-1);if(/[A-Za-z]/.test(phrase))add(phrase,lesson.grammar,null,"","",null,"ව්‍යාකරණ පැහැදිලි කිරීම");});
   });
   const unique=new Map();
   entries.forEach(item=>{
