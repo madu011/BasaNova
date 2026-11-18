@@ -22,6 +22,10 @@ export const SERBIAN_A1_LISTENING = [
 
  ,{prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Mogu li da vidim jelovnik?”",audio:"Mogu li da vidim jelovnik?",options:["මට මෙනුව බලන්න පුළුවන්ද?","බිල දෙන්න, කරුණාකරලා.","මට උදව් අවශ්‍යයි."],readings:["මොගු ලි දා විදිම් යෙලොව්නික්?","රාචුන්, මොලීම්.","ත්‍රෙබා මි පොමොච්."],answer:0,meaning:"Mogu li da vidim jelovnik? = මට මෙනුව බලන්න පුළුවන්ද?"},
  {prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Nedostaje jedan sok.”",audio:"Nedostaje jedan sok.",options:["ජූස් එකක් අඩුයි.","මෙනුව මෙන්න.","මම බිල ගෙව්වා."],readings:["නෙදොස්තායේ යෙදාන් සොක්.","ඉස්වොලිතෙ යෙලොව්නික්.","ප්ලාතිඔ සාම් රාචුන්."],answer:0,meaning:"Nedostaje jedan sok. = ජූස් එකක් අඩුයි."}
+
+ ,{prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Pozvaću te kasnije.”",audio:"Pozvaću te kasnije.",options:["මම ඔයාට පසුව කතා කරන්නම්.","මම දැන් කාර්යබහුලයි.","මට පණිවිඩයක් ලැබුණා."],readings:["පොස්වාචු තෙ කාස්නියේ.","ත්‍රෙනූත්නො සාම් සාවුසෙත්.","දොබියො සාම් පොරූකු."],answer:0,meaning:"Pozvaću te kasnije. = මම ඔයාට පසුව කතා කරන්නම්."},
+ {prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Želim da pošaljem paket.”",audio:"Želim da pošaljem paket.",options:["මට පාර්සලයක් යවන්න ඕනේ.","මට ලිපිනය වෙනස් කරන්න ඕනේ.","තැපැල් කාර්යාලය කොහෙද?"],readings:["ෂෙලිම් දා පොෂාල්යෙම් පාකෙත්.","ෂෙලිම් දා ප්‍රොමෙනිම් අද්‍රෙසු.","ග්දේ යේ පොෂ්තා?"],answer:0,meaning:"Želim da pošaljem paket. = මට පාර්සලයක් යවන්න ඕනේ."}
+
 ];
 
 export const SERBIAN_A1_MIXED_REVISION = [
@@ -47,4 +51,10 @@ export const SERBIAN_A1_MIXED_REVISION = [
 
  ,{audio:"Račun, molim.",reading:"රාචුන්, මොලීම්.",options:["බිල දෙන්න, කරුණාකරලා.","මට මෙනුව බලන්න ඕනේ.","ජූස් එකක් අඩුයි."],answer:0},
  {audio:"Možete li da proverite?",reading:"මොෂෙතෙ ලි දා ප්‍රොවෙරිතෙ?",options:["ඔබට පරීක්ෂා කරන්න පුළුවන්ද?","මම උයන්න කැමතියි.","අද අව්වයි."],answer:0}
+
+ ,{audio:"Pozvaću te kasnije.",reading:"පොස්වාචු තෙ කාස්නියේ.",options:["මම ඔයාට පසුව කතා කරන්නම්.","මම දැන් කාර්යබහුලයි.","මට පණිවිඩයක් ලැබුණා."],answer:0},
+ {audio:"Želim da pošaljem paket.",reading:"ෂෙලිම් දා පොෂාල්යෙම් පාකෙත්.",options:["මට පාර්සලයක් යවන්න ඕනේ.","මට ලිපිනය වෙනස් කරන්න ඕනේ.","තැපැල් කාර්යාලය කොහෙද?"],answer:0},
+ {audio:"Ko je primalac?",reading:"කො යේ ප්‍රිමාලාත්ස්?",options:["ලබන්නා කවුද?","යවන්නා කවුද?","පාර්සලය කීයද?"],answer:0},
+ {audio:"Pošalji mi poruku.",reading:"පොෂාල්යි මි පොරූකු.",options:["මට පණිවිඩයක් එවන්න.","මට ලිපිනය දෙන්න.","මට පසුව කතා කරන්න."],answer:0}
+
 ];
