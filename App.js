@@ -22,6 +22,8 @@ import { SERBIAN_C1_LESSONS_11_20 } from "./serbianC1Lessons11_20";
 import { ENGLISH_C1_LESSONS_11_20 } from "./englishC1Lessons11_20";
 import { SERBIAN_C1_LESSONS_21_30 } from "./serbianC1Lessons21_30";
 import { ENGLISH_C1_LESSONS_21_30 } from "./englishC1Lessons21_30";
+import { SERBIAN_C1_LESSONS_31_40 } from "./serbianC1Lessons31_40";
+import { ENGLISH_C1_LESSONS_31_40 } from "./englishC1Lessons31_40";
 import { SERBIAN_B2_FINAL_EXAM, ENGLISH_B2_FINAL_EXAM, SERBIAN_B2_MIXED_REVISION, ENGLISH_B2_MIXED_REVISION } from "./b2FinalExams";
 import { SERBIAN_B1_FINAL_EXAM, ENGLISH_B1_FINAL_EXAM, SERBIAN_B1_MIXED_REVISION, ENGLISH_B1_MIXED_REVISION } from "./b1FinalExams";
 import { SERBIAN_EXTRA_VOCAB, ENGLISH_EXTRA_VOCAB } from "./vocabularyPacks";
@@ -878,7 +880,7 @@ export default function App(){
     <Text style={s.eyebrow}>C1 · ADVANCED LANGUAGE SKILLS</Text>
     <Text style={s.cardTitle}>🎓 C1 · උසස් භාෂා හැකියාව</Text>
     <Text style={s.sub}>සූක්ෂ්ම අර්ථ, අධ්‍යයන සාකච්ඡා, වෘත්තීය ලිවීම සහ සංකීර්ණ අදහස් ස්වභාවිකව ඉදිරිපත් කිරීම.</Text>
-    {[...(language==="Serbian"?SERBIAN_C1_LESSONS:ENGLISH_C1_LESSONS),...(language==="Serbian"?SERBIAN_C1_LESSONS_11_20:ENGLISH_C1_LESSONS_11_20),...(language==="Serbian"?SERBIAN_C1_LESSONS_21_30:ENGLISH_C1_LESSONS_21_30)].map((lesson,li)=>{const expanded=expandedLessonId===lesson.id;const checkedCount=lesson.practice.filter((q,qi)=>lessonChecked[lesson.id+"-"+qi]).length+(lesson.listeningPractice&&lessonChecked[lesson.id+"-listen"]?1:0);return <View key={lesson.id} style={s.lessonCard}>
+    {[...(language==="Serbian"?SERBIAN_C1_LESSONS:ENGLISH_C1_LESSONS),...(language==="Serbian"?SERBIAN_C1_LESSONS_11_20:ENGLISH_C1_LESSONS_11_20),...(language==="Serbian"?SERBIAN_C1_LESSONS_21_30:ENGLISH_C1_LESSONS_21_30),...(language==="Serbian"?SERBIAN_C1_LESSONS_31_40:ENGLISH_C1_LESSONS_31_40)].map((lesson,li)=>{const expanded=expandedLessonId===lesson.id;const checkedCount=lesson.practice.filter((q,qi)=>lessonChecked[lesson.id+"-"+qi]).length+(lesson.listeningPractice&&lessonChecked[lesson.id+"-listen"]?1:0);return <View key={lesson.id} style={s.lessonCard}>
      <TouchableOpacity activeOpacity={0.8} onPress={()=>setExpandedLessonId(expanded?null:lesson.id)} style={{paddingVertical:4}}>
       <Text style={s.eyebrow}>C1 · LESSON {li+1} · {checkedCount}/{lesson.practice.length+1} පරීක්ෂා කරලා</Text>
       <View style={{flexDirection:"row",alignItems:"center",justifyContent:"space-between"}}><View style={{flex:1,paddingRight:10}}><Text style={s.cardTitle}>{lesson.title}</Text><Text style={s.sub}>අරමුණ: {lesson.objective}</Text></View><Text style={s.cardTitle}>{expanded?"⌃":"⌄"}</Text></View>
