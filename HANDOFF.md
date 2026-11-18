@@ -178,3 +178,6 @@
 
 
 - 2026-11-18 continuation: Completed the missing hundreds in Serbian A1 Lesson 4. The lesson already introduced 100, 200, 300 and 1,000 under a 0–1,000 title, but omitted 400–900. Added `četiristo`, `petsto`, `šeststo`, `sedamsto`, `osamsto`, and `devetsto` with Sinhala meanings and simple “Broj …” examples. Lesson commit: `a0442674c83002076d0ba2009cab647c16ce48f7`. This closes the obvious vocabulary gap; it does not mean every integer from 0 to 1,000 is individually listed.
+
+
+- 2026-11-18 continuation: Added exact dictionary entries for Sinhala-script readings of Serbian A1 number vocabulary, from `nula` through `hiljadu` (including 11–19, tens, and hundreds 100–900). This ensures the vocabulary book uses deliberate whole-word readings instead of the generic character fallback for the number lesson. App commit: `545e8bb4aa2b17bc307c6819de5db271d093eee8`. Sinhala readings are learner approximations and should be checked against Serbian audio/native-speaker feedback.
