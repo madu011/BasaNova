@@ -1,120 +1,120 @@
-// C1 lessons 41–50. Sinhala-script readings are approximate learner aids, not phonetic transcription.
+// C1 lessons 41–50. Serbian practice examples and dialogue have Sinhala-script pronunciation approximations.
 export const SERBIAN_C1_LESSONS_41_50 = [
   {
     "id": "sr-c1-l41",
-    "unit": "C1 · predviđanje,scenario,pretpostavka,verovatan,rezervni plan,pokazatelj,otpornost,horizont",
-    "title": "C1 · 41 · predviđanje,scenario,pretpostavka,verovatan,rezervni plan,pokazatelj,otpornost,horizont",
+    "unit": "C1 · Strateško predviđanje i planiranje scenarija",
+    "title": "C1 · 41 · Strateško predviđanje i planiranje scenarija",
     "objective": "අනාගත අවස්ථා කිහිපයක් සලකා අවදානම් සහ සූදානම් වීමේ ක්‍රියාමාර්ග පැහැදිලි කරන්න.",
     "vocabulary": [
       {
         "word": "predviđanje",
         "reading": "ප්ර්එඩ්ව්ඉජ්අන්ය්එ",
         "meaning": "දුරදක්නා සැලසුම්කරණය",
-        "example": "A credible scenario should state its assumptions.",
-        "translation": "විශ්වාස කළ හැකි සිදුවීම් ආකෘතියක් එහි උපකල්පන සඳහන් කළ යුතුය."
+        "example": "Strateško predviđanje pomaže nam da se pripremimo za nekoliko mogućih budućnosti.",
+        "translation": "විශ්වාසදායක සිදුවීම් ආකෘතියක් එහි උපකල්පන පැහැදිලිව සඳහන් කළ යුතුය."
       },
       {
         "word": "scenario",
         "reading": "ස්ට්ස්එන්අර්ඉඔ",
         "meaning": "සිදුවිය හැකි තත්ත්වය",
-        "example": "We need a contingency plan if demand falls.",
-        "translation": "ඉල්ලුම අඩු වුවහොත් අපට හදිසි සැලැස්මක් අවශ්‍යය."
+        "example": "Verodostojan scenario mora jasno da navede svoje pretpostavke.",
+        "translation": "ඉල්ලුම අඩු වුවහොත් අපට විකල්ප සැලැස්මක් අවශ්‍ය වේ."
       },
       {
         "word": "pretpostavka",
         "reading": "ප්ර්එට්ප්ඔස්ට්අව්ක්අ",
         "meaning": "උපකල්පනය",
-        "example": "Early indicators can reveal a change in direction.",
+        "example": "Potreban nam je rezervni plan ako potražnja opadne.",
         "translation": "මුල් දර්ශක මඟින් දිශාවේ වෙනසක් හඳුනාගත හැකිය."
       },
       {
         "word": "verovatan",
         "reading": "ව්එර්ඔව්අට්අන්",
         "meaning": "විශ්වාස කළ හැකි",
-        "example": "Strategic foresight prepares us for several plausible futures.",
-        "translation": "උපායමාර්ගික දුරදක්නා බව සිදුවිය හැකි අනාගත කිහිපයකට සූදානම් කරයි."
+        "example": "Rani pokazatelji mogu otkriti promenu pravca.",
+        "translation": "උපායමාර්ගික දුරදක්නා බව අනාගත හැකියාවන් කිහිපයකට සූදානම් කරයි."
       },
       {
         "word": "rezervni plan",
         "reading": "ර්එස්එර්ව්න්ඉ ප්ල්අන්",
         "meaning": "හදිසි සැලැස්ම",
-        "example": "A credible scenario should state its assumptions.",
-        "translation": "විශ්වාස කළ හැකි සිදුවීම් ආකෘතියක් එහි උපකල්පන සඳහන් කළ යුතුය."
+        "example": "Strateško predviđanje pomaže nam da se pripremimo za nekoliko mogućih budućnosti.",
+        "translation": "විශ්වාසදායක සිදුවීම් ආකෘතියක් එහි උපකල්පන පැහැදිලිව සඳහන් කළ යුතුය."
       },
       {
         "word": "pokazatelj",
         "reading": "ප්ඔක්අස්අට්එල්ය්",
         "meaning": "දර්ශකය",
-        "example": "We need a contingency plan if demand falls.",
-        "translation": "ඉල්ලුම අඩු වුවහොත් අපට හදිසි සැලැස්මක් අවශ්‍යය."
+        "example": "Verodostojan scenario mora jasno da navede svoje pretpostavke.",
+        "translation": "ඉල්ලුම අඩු වුවහොත් අපට විකල්ප සැලැස්මක් අවශ්‍ය වේ."
       },
       {
         "word": "otpornost",
         "reading": "ඔට්ප්ඔර්න්ඔස්ට්",
         "meaning": "ඔරොත්තු දීමේ හැකියාව",
-        "example": "Early indicators can reveal a change in direction.",
+        "example": "Potreban nam je rezervni plan ako potražnja opadne.",
         "translation": "මුල් දර්ශක මඟින් දිශාවේ වෙනසක් හඳුනාගත හැකිය."
       },
       {
         "word": "horizont",
         "reading": "හ්ඔර්ඉස්ඔන්ට්",
         "meaning": "කාල පරාසය",
-        "example": "Strategic foresight prepares us for several plausible futures.",
-        "translation": "උපායමාර්ගික දුරදක්නා බව සිදුවිය හැකි අනාගත කිහිපයකට සූදානම් කරයි."
+        "example": "Rani pokazatelji mogu otkriti promenu pravca.",
+        "translation": "උපායමාර්ගික දුරදක්නා බව අනාගත හැකියාවන් කිහිපයකට සූදානම් කරයි."
       }
     ],
     "grammarTitle": "Gramatika i stil",
     "grammar": "U formalnom i stručnom govoru precizno označite uslove, ograničenja i odnos između dokaza i zaključka. Koristite ublažene formulacije kada podaci ne dopuštaju kategoričan sud.",
     "examples": [
       {
-        "text": "Uverljiv scenario mora jasno da navede svoje pretpostavke.",
-        "reading": "උව්එර්ල්ය්ඉව් ස්ට්ස්එන්අර්ඉඔ ම්ඔර්අ ය්අස්න්ඔ ඩ්අ න්අව්එඩ්එ ස්ව්ඔය්එ ප්ර්එට්ප්ඔස්ට්අව්ක්එ.",
+        "text": "Strateško predviđanje pomaže nam da se pripremimo za nekoliko mogućih budućnosti.",
+        "reading": "ස්ට්ර්අට්එෂ්ක්ඔ ප්ර්එඩ්ව්ඉජ්අන්ය්එ ප්ඔම්අෂ්එ න්අම් ඩ්අ ස්එ ප්ර්ඉප්ර්එම්ඉම්ඔ ස්අ න්එක්ඔල්ඉක්ඔ ම්ඔග්උච්ඉහ් බ්උඩ්උච්න්ඔස්ට්ඉ.",
         "meaning": "විශ්වාසදායක සිදුවීම් ආකෘතියක් එහි උපකල්පන පැහැදිලිව සඳහන් කළ යුතුය."
+      },
+      {
+        "text": "Verodostojan scenario mora jasno da navede svoje pretpostavke.",
+        "reading": "ව්එර්ඔඩ්ඔස්ට්ඔය්අන් ස්ට්ස්එන්අර්ඉඔ ම්ඔර්අ ය්අස්න්ඔ ඩ්අ න්අව්එඩ්එ ස්ව්ඔය්එ ප්ර්එට්ප්ඔස්ට්අව්ක්එ.",
+        "meaning": "ඉල්ලුම අඩු වුවහොත් අපට විකල්ප සැලැස්මක් අවශ්‍ය වේ."
       },
       {
         "text": "Potreban nam je rezervni plan ako potražnja opadne.",
         "reading": "ප්ඔට්ර්එබ්අන් න්අම් ය්එ ර්එස්එර්ව්න්ඉ ප්ල්අන් අක්ඔ ප්ඔට්ර්අෂ්න්ය්අ ඔප්අඩ්න්එ.",
-        "meaning": "විශ්වාසදායක සිදුවීම් ආකෘතියක් එහි උපකල්පන පැහැදිලිව සඳහන් කළ යුතුය."
+        "meaning": "මුල් දර්ශක මඟින් දිශාවේ වෙනසක් හඳුනාගත හැකිය."
       },
       {
-        "text": "Rani pokazatelji mogu ukazati na promenu pravca.",
-        "reading": "ර්අන්ඉ ප්ඔක්අස්අට්එල්ය්ඉ ම්ඔග්උ උක්අස්අට්ඉ න්අ ප්ර්ඔම්එන්උ ප්ර්අව්ට්ස්අ.",
-        "meaning": "විශ්වාසදායක සිදුවීම් ආකෘතියක් එහි උපකල්පන පැහැදිලිව සඳහන් කළ යුතුය."
-      },
-      {
-        "text": "Strateško predviđanje nas priprema za više mogućih budućnosti.",
-        "reading": "ස්ට්ර්අට්එෂ්ක්ඔ ප්ර්එඩ්ව්ඉජ්අන්ය්එ න්අස් ප්ර්ඉප්ර්එම්අ ස්අ ව්ඉෂ්එ ම්ඔග්උච්ඉහ් බ්උඩ්උච්න්ඔස්ට්ඉ.",
-        "meaning": "විශ්වාසදායක සිදුවීම් ආකෘතියක් එහි උපකල්පන පැහැදිලිව සඳහන් කළ යුතුය."
+        "text": "Rani pokazatelji mogu otkriti promenu pravca.",
+        "reading": "ර්අන්ඉ ප්ඔක්අස්අට්එල්ය්ඉ ම්ඔග්උ ඔට්ක්ර්ඉට්ඉ ප්ර්ඔම්එන්උ ප්ර්අව්ට්ස්අ.",
+        "meaning": "උපායමාර්ගික දුරදක්නා බව අනාගත හැකියාවන් කිහිපයකට සූදානම් කරයි."
       }
     ],
     "dialogue": [
       {
         "text": "Koje buduće scenarije treba da razmotrimo?",
         "reading": "ක්ඔය්එ බ්උඩ්උච්එ ස්ට්ස්එන්අර්ඉය්එ ට්ර්එබ්අ ඩ්අ ර්අස්ම්ඔට්ර්ඉම්ඔ?",
-        "meaning": "අප සලකා බැලිය යුතු අනාගත තත්ත්ව මොනවාද?"
+        "meaning": "මෙම මාතෘකාව පිළිබඳ ප්‍රශ්නයක්."
       },
       {
         "text": "Najmanje tri, uključujući i jedan nepovoljan.",
         "reading": "න්අය්ම්අන්ය්එ ට්ර්ඉ, උක්ල්ය්උච්උය්උච්ඉ ඉ ය්එඩ්අන් න්එප්ඔව්ඔල්ය්අන්.",
-        "meaning": "අභියෝගාත්මක එකක්ද ඇතුළුව අවම වශයෙන් තුනක්."
+        "meaning": "එය හොඳින් සලකා බැලිය යුතු කරුණකි."
       },
       {
-        "text": "Šta bi ukazalo na to da je taj scenario sve verovatniji?",
-        "reading": "ෂ්ට්අ බ්ඉ උක්අස්අල්ඔ න්අ ට්ඔ ඩ්අ ය්එ ට්අය් ස්ට්ස්එන්අර්ඉඔ ස්ව්එ ව්එර්ඔව්අට්න්ඉය්ඉ?",
-        "meaning": "එය සිදුවීමට ඉඩ ඇති බව පෙන්වන්නේ කුමක්ද?"
+        "text": "Šta bi ukazalo na to da taj scenario postaje verovatniji?",
+        "reading": "ෂ්ට්අ බ්ඉ උක්අස්අල්ඔ න්අ ට්ඔ ඩ්අ ට්අය් ස්ට්ස්එන්අර්ඉඔ ප්ඔස්ට්අය්එ ව්එර්ඔව්අට්න්ඉය්ඉ?",
+        "meaning": "තවත් විකල්පයක් සලකා බැලිය හැකිද?"
       },
       {
         "text": "Treba da pratimo troškove, potražnju i propise.",
         "reading": "ට්ර්එබ්අ ඩ්අ ප්ර්අට්ඉම්ඔ ට්ර්ඔෂ්ක්ඔව්එ, ප්ඔට්ර්අෂ්න්ය්උ ඉ ප්ර්ඔප්ඉස්එ.",
-        "meaning": "පිරිවැය, ඉල්ලුම සහ නියාමනය නිරීක්ෂණය කළ යුතුය."
+        "meaning": "ඔව්, සාක්ෂි මත තීරණය කරමු."
       }
     ],
     "listeningPractice": {
       "prompt": "Poslušajte i izaberite najtačnije tumačenje.",
-      "audio": "Uverljiv scenario mora jasno da navede svoje pretpostavke. Potreban nam je rezervni plan ako potražnja opadne. Rani pokazatelji mogu ukazati na promenu pravca. Strateško predviđanje nas priprema za više mogućih budućnosti.",
-      "reading": "උව්එර්ල්ය්ඉව් ස්ට්ස්එන්අර්ඉඔ ම්ඔර්අ ය්අස්න්ඔ ඩ්අ න්අව්එඩ්එ ස්ව්ඔය්එ ප්ර්එට්ප්ඔස්ට්අව්ක්එ. ප්ඔට්ර්එබ්අන් න්අම් ය්එ ර්එස්එර්ව්න්ඉ ප්ල්අන් අක්ඔ ප්ඔට්ර්අෂ්න්ය්අ ඔප්අඩ්න්එ. ර්අන්ඉ ප්ඔක්අස්අට්එල්ය්ඉ ම්ඔග්උ උක්අස්අට්ඉ න්අ ප්ර්ඔම්එන්උ ප්ර්අව්ට්ස්අ. ස්ට්ර්අට්එෂ්ක්ඔ ප්ර්එඩ්ව්ඉජ්අන්ය්එ න්අස් ප්ර්ඉප්ර්එම්අ ස්අ ව්ඉෂ්එ ම්ඔග්උච්ඉහ් බ්උඩ්උච්න්ඔස්ට්ඉ.",
+      "audio": "Strateško predviđanje pomaže nam da se pripremimo za nekoliko mogućih budućnosti. Verodostojan scenario mora jasno da navede svoje pretpostavke. Potreban nam je rezervni plan ako potražnja opadne. Rani pokazatelji mogu otkriti promenu pravca.",
+      "reading": "ස්ට්ර්අට්එෂ්ක්ඔ ප්ර්එඩ්ව්ඉජ්අන්ය්එ ප්ඔම්අෂ්එ න්අම් ඩ්අ ස්එ ප්ර්ඉප්ර්එම්ඉම්ඔ ස්අ න්එක්ඔල්ඉක්ඔ ම්ඔග්උච්ඉහ් බ්උඩ්උච්න්ඔස්ට්ඉ. ව්එර්ඔඩ්ඔස්ට්ඔය්අන් ස්ට්ස්එන්අර්ඉඔ ම්ඔර්අ ය්අස්න්ඔ ඩ්අ න්අව්එඩ්එ ස්ව්ඔය්එ ප්ර්එට්ප්ඔස්ට්අව්ක්එ. ප්ඔට්ර්එබ්අන් න්අම් ය්එ ර්එස්එර්ව්න්ඉ ප්ල්අන් අක්ඔ ප්ඔට්ර්අෂ්න්ය්අ ඔප්අඩ්න්එ. ර්අන්ඉ ප්ඔක්අස්අට්එල්ය්ඉ ම්ඔග්උ ඔට්ක්ර්ඉට්ඉ ප්ර්ඔම්එන්උ ප්ර්අව්ට්ස්අ.",
       "options": [
-        "විශ්වාස කළ හැකි සිදුවීම් ආකෘතියක් එහි උපකල්පන සඳහන් කළ යුතුය. ඉල්ලුම අඩු වුවහොත් අපට හදිසි සැලැස්මක් අවශ්‍යය.",
+        "විශ්වාසදායක සිදුවීම් ආකෘතියක් එහි උපකල්පන පැහැදිලිව සඳහන් කළ යුතුය. ඉල්ලුම අඩු වුවහොත් අපට විකල්ප සැලැස්මක් අවශ්‍ය වේ.",
         "Sve tvrdnje su potpuno sigurne.",
         "Nijedno tumačenje nije moguće."
       ],
@@ -165,64 +165,64 @@ export const SERBIAN_C1_LESSONS_41_50 = [
   },
   {
     "id": "sr-c1-l42",
-    "unit": "C1 · ustupak,poluga,mandat,kompromis,zastoj,protivpredlog,uzajaman,obavezujući",
-    "title": "C1 · 42 · ustupak,poluga,mandat,kompromis,zastoj,protivpredlog,uzajaman,obavezujući",
+    "unit": "C1 · Napredno pregovaranje i diplomatski kompromis",
+    "title": "C1 · 42 · Napredno pregovaranje i diplomatski kompromis",
     "objective": "විරුද්ධ අවශ්‍යතා හඳුනාගෙන සාධාරණ සම්මුතියක් සහ පැහැදිලි කොන්දේසි සාකච්ඡා කරන්න.",
     "vocabulary": [
       {
         "word": "ustupak",
         "reading": "උස්ට්උප්අක්",
         "meaning": "සහනයක් ලබාදීම",
-        "example": "A limited concession may unlock the negotiations.",
+        "example": "Ograničen ustupak može pokrenuti pregovore.",
         "translation": "සීමිත සහනයක් සාකච්ඡා ඉදිරියට ගෙන යා හැකිය."
       },
       {
         "word": "poluga",
         "reading": "ප්ඔල්උග්අ",
         "meaning": "සාකච්ඡා බලය",
-        "example": "Both teams have a clear mandate.",
+        "example": "Oba tima imaju jasno definisan mandat.",
         "translation": "කණ්ඩායම් දෙකටම පැහැදිලි බලතල ඇත."
       },
       {
         "word": "mandat",
         "reading": "ම්අන්ඩ්අට්",
         "meaning": "ලබාදුන් බලතල",
-        "example": "The counterproposal addresses our main concern.",
+        "example": "Protivpredlog odgovara na našu glavnu zabrinutost.",
         "translation": "ප්‍රතියෝජනාව අපගේ ප්‍රධාන සැලකිල්ලට පිළිතුරු දෙයි."
       },
       {
         "word": "kompromis",
         "reading": "ක්ඔම්ප්ර්ඔම්ඉස්",
         "meaning": "එකක් වෙනුවට අනෙකක් තෝරාගැනීම",
-        "example": "The agreement becomes binding once both parties sign.",
+        "example": "Sporazum postaje obavezujući kada ga obe strane potpišu.",
         "translation": "පාර්ශ්ව දෙකම අත්සන් කළ පසු ගිවිසුම බැඳී පවතී."
       },
       {
         "word": "zastoj",
         "reading": "ස්අස්ට්ඔය්",
         "meaning": "අවහිර තත්ත්වය",
-        "example": "A limited concession may unlock the negotiations.",
+        "example": "Ograničen ustupak može pokrenuti pregovore.",
         "translation": "සීමිත සහනයක් සාකච්ඡා ඉදිරියට ගෙන යා හැකිය."
       },
       {
         "word": "protivpredlog",
         "reading": "ප්ර්ඔට්ඉව්ප්ර්එඩ්ල්ඔග්",
         "meaning": "ප්‍රතියෝජනාව",
-        "example": "Both teams have a clear mandate.",
+        "example": "Oba tima imaju jasno definisan mandat.",
         "translation": "කණ්ඩායම් දෙකටම පැහැදිලි බලතල ඇත."
       },
       {
         "word": "uzajaman",
         "reading": "උස්අය්අම්අන්",
         "meaning": "අන්‍යෝන්‍ය",
-        "example": "The counterproposal addresses our main concern.",
+        "example": "Protivpredlog odgovara na našu glavnu zabrinutost.",
         "translation": "ප්‍රතියෝජනාව අපගේ ප්‍රධාන සැලකිල්ලට පිළිතුරු දෙයි."
       },
       {
         "word": "obavezujući",
         "reading": "ඔබ්අව්එස්උය්උච්ඉ",
         "meaning": "බැඳී පවතින",
-        "example": "The agreement becomes binding once both parties sign.",
+        "example": "Sporazum postaje obavezujući kada ga obe strane potpišu.",
         "translation": "පාර්ශ්ව දෙකම අත්සන් කළ පසු ගිවිසුම බැඳී පවතී."
       }
     ],
@@ -237,39 +237,39 @@ export const SERBIAN_C1_LESSONS_41_50 = [
       {
         "text": "Oba tima imaju jasno definisan mandat.",
         "reading": "ඔබ්අ ට්ඉම්අ ඉම්අය්උ ය්අස්න්ඔ ඩ්එෆ්ඉන්ඉස්අන් ම්අන්ඩ්අට්.",
-        "meaning": "සීමිත සහනයක් සාකච්ඡා ඉදිරියට ගෙන යා හැකිය."
+        "meaning": "කණ්ඩායම් දෙකටම පැහැදිලි බලතල ඇත."
       },
       {
         "text": "Protivpredlog odgovara na našu glavnu zabrinutost.",
         "reading": "ප්ර්ඔට්ඉව්ප්ර්එඩ්ල්ඔග් ඔඩ්ග්ඔව්අර්අ න්අ න්අෂ්උ ග්ල්අව්න්උ ස්අබ්ර්ඉන්උට්ඔස්ට්.",
-        "meaning": "සීමිත සහනයක් සාකච්ඡා ඉදිරියට ගෙන යා හැකිය."
+        "meaning": "ප්‍රතියෝජනාව අපගේ ප්‍රධාන සැලකිල්ලට පිළිතුරු දෙයි."
       },
       {
         "text": "Sporazum postaje obavezujući kada ga obe strane potpišu.",
         "reading": "ස්ප්ඔර්අස්උම් ප්ඔස්ට්අය්එ ඔබ්අව්එස්උය්උච්ඉ ක්අඩ්අ ග්අ ඔබ්එ ස්ට්ර්අන්එ ප්ඔට්ප්ඉෂ්උ.",
-        "meaning": "සීමිත සහනයක් සාකච්ඡා ඉදිරියට ගෙන යා හැකිය."
+        "meaning": "පාර්ශ්ව දෙකම අත්සන් කළ පසු ගිවිසුම බැඳී පවතී."
       }
     ],
     "dialogue": [
       {
         "text": "Čini se da smo zapali u zastoj.",
         "reading": "ච්ඉන්ඉ ස්එ ඩ්අ ස්ම්ඔ ස්අප්අල්ඉ උ ස්අස්ට්ඔය්.",
-        "meaning": "අපි සාකච්ඡා අවහිරයකට පැමිණ ඇති බව පෙනේ."
+        "meaning": "මෙම මාතෘකාව පිළිබඳ ප්‍රශ්නයක්."
       },
       {
         "text": "Da li bi dogovor u nekoliko faza pomogao?",
         "reading": "ඩ්අ ල්ඉ බ්ඉ ඩ්ඔග්ඔව්ඔර් උ න්එක්ඔල්ඉක්ඔ ෆ්අස්අ ප්ඔම්ඔග්අඔ?",
-        "meaning": "අදියර කිහිපයකින් ක්‍රියාත්මක කරන එකඟතාවක් උපකාරී වේවිද?"
+        "meaning": "එය හොඳින් සලකා බැලිය යුතු කරුණකි."
       },
       {
         "text": "Moguće je, ako je klauzula o reviziji uzajamna.",
         "reading": "ම්ඔග්උච්එ ය්එ, අක්ඔ ය්එ ක්ල්අඋස්උල්අ ඔ ර්එව්ඉස්ඉය්ඉ උස්අය්අම්න්අ.",
-        "meaning": "සමාලෝචන වගන්තිය අන්‍යෝන්‍ය නම් එය කළ හැකිය."
+        "meaning": "තවත් විකල්පයක් සලකා බැලිය හැකිද?"
       },
       {
         "text": "Hajde da izmenjene uslove zabeležimo u pisanom obliku.",
         "reading": "හ්අය්ඩ්එ ඩ්අ ඉස්ම්එන්ය්එන්එ උස්ල්ඔව්එ ස්අබ්එල්එෂ්ඉම්ඔ උ ප්ඉස්අන්ඔම් ඔබ්ල්ඉක්උ.",
-        "meaning": "සංශෝධිත කොන්දේසි ලිඛිතව සටහන් කරමු."
+        "meaning": "ඔව්, සාක්ෂි මත තීරණය කරමු."
       }
     ],
     "listeningPractice": {
@@ -328,64 +328,64 @@ export const SERBIAN_C1_LESSONS_41_50 = [
   },
   {
     "id": "sr-c1-l43",
-    "unit": "C1 · nadzor,poverenička dužnost,objavljivanje,naknada,nezavisnost,revizorski trag,odgovornost,sukob interesa",
-    "title": "C1 · 43 · nadzor,poverenička dužnost,objavljivanje,naknada,nezavisnost,revizorski trag,odgovornost,sukob interesa",
+    "unit": "C1 · Korporativno upravljanje i nadzor odbora",
+    "title": "C1 · 43 · Korporativno upravljanje i nadzor odbora",
     "objective": "පාලන වගකීම්, අධීක්ෂණය සහ වගවීම අතර වෙනස පැහැදිලි කරන්න.",
     "vocabulary": [
       {
         "word": "nadzor",
         "reading": "න්අඩ්ස්ඔර්",
         "meaning": "අධීක්ෂණය",
-        "example": "The board is responsible for effective oversight.",
+        "example": "Odbor je odgovoran za delotvoran nadzor.",
         "translation": "අධ්‍යක්ෂ මණ්ඩලය ඵලදායී අධීක්ෂණයට වගකිව යුතුය."
       },
       {
         "word": "poverenička dužnost",
         "reading": "ප්ඔව්එර්එන්ඉච්ක්අ ඩ්උෂ්න්ඔස්ට්",
         "meaning": "විශ්වාස භාරකාර",
-        "example": "Directors must disclose conflicts of interest.",
+        "example": "Direktori moraju prijaviti sukob interesa.",
         "translation": "අධ්‍යක්ෂවරුන් අවශ්‍යතා ගැටුම් හෙළි කළ යුතුය."
       },
       {
         "word": "objavljivanje",
         "reading": "ඔබ්ය්අව්ල්ය්ඉව්අන්ය්එ",
         "meaning": "තොරතුරු හෙළිදරව් කිරීම",
-        "example": "An audit trail supports transparent decisions.",
+        "example": "Revizorski trag podržava transparentno odlučivanje.",
         "translation": "විගණන සටහන් මාර්ගය විනිවිද පෙනෙන තීරණවලට සහාය වේ."
       },
       {
         "word": "naknada",
         "reading": "න්අක්න්අඩ්අ",
         "meaning": "පාරිතෝෂිකය",
-        "example": "Remuneration should be linked to long-term performance.",
+        "example": "Naknada treba da bude povezana sa dugoročnim rezultatima.",
         "translation": "පාරිතෝෂිකය දිගුකාලීන කාර්යසාධනයට සම්බන්ධ කළ යුතුය."
       },
       {
         "word": "nezavisnost",
         "reading": "න්එස්අව්ඉස්න්ඔස්ට්",
         "meaning": "ස්වාධීනත්වය",
-        "example": "The board is responsible for effective oversight.",
+        "example": "Odbor je odgovoran za delotvoran nadzor.",
         "translation": "අධ්‍යක්ෂ මණ්ඩලය ඵලදායී අධීක්ෂණයට වගකිව යුතුය."
       },
       {
         "word": "revizorski trag",
         "reading": "ර්එව්ඉස්ඔර්ස්ක්ඉ ට්ර්අග්",
         "meaning": "විගණන සටහන් මාර්ගය",
-        "example": "Directors must disclose conflicts of interest.",
+        "example": "Direktori moraju prijaviti sukob interesa.",
         "translation": "අධ්‍යක්ෂවරුන් අවශ්‍යතා ගැටුම් හෙළි කළ යුතුය."
       },
       {
         "word": "odgovornost",
         "reading": "ඔඩ්ග්ඔව්ඔර්න්ඔස්ට්",
         "meaning": "වගවීම",
-        "example": "An audit trail supports transparent decisions.",
+        "example": "Revizorski trag podržava transparentno odlučivanje.",
         "translation": "විගණන සටහන් මාර්ගය විනිවිද පෙනෙන තීරණවලට සහාය වේ."
       },
       {
         "word": "sukob interesa",
         "reading": "ස්උක්ඔබ් ඉන්ට්එර්එස්අ",
         "meaning": "අවශ්‍යතා ගැටුම",
-        "example": "Remuneration should be linked to long-term performance.",
+        "example": "Naknada treba da bude povezana sa dugoročnim rezultatima.",
         "translation": "පාරිතෝෂිකය දිගුකාලීන කාර්යසාධනයට සම්බන්ධ කළ යුතුය."
       }
     ],
@@ -400,39 +400,39 @@ export const SERBIAN_C1_LESSONS_41_50 = [
       {
         "text": "Direktori moraju prijaviti sukob interesa.",
         "reading": "ඩ්ඉර්එක්ට්ඔර්ඉ ම්ඔර්අය්උ ප්ර්ඉය්අව්ඉට්ඉ ස්උක්ඔබ් ඉන්ට්එර්එස්අ.",
-        "meaning": "අධ්‍යක්ෂ මණ්ඩලය ඵලදායී අධීක්ෂණයට වගකිව යුතුය."
+        "meaning": "අධ්‍යක්ෂවරුන් අවශ්‍යතා ගැටුම් හෙළි කළ යුතුය."
       },
       {
         "text": "Revizorski trag podržava transparentno odlučivanje.",
         "reading": "ර්එව්ඉස්ඔර්ස්ක්ඉ ට්ර්අග් ප්ඔඩ්ර්ෂ්අව්අ ට්ර්අන්ස්ප්අර්එන්ට්න්ඔ ඔඩ්ල්උච්ඉව්අන්ය්එ.",
-        "meaning": "අධ්‍යක්ෂ මණ්ඩලය ඵලදායී අධීක්ෂණයට වගකිව යුතුය."
+        "meaning": "විගණන සටහන් මාර්ගය විනිවිද පෙනෙන තීරණවලට සහාය වේ."
       },
       {
         "text": "Naknada treba da bude povezana sa dugoročnim rezultatima.",
         "reading": "න්අක්න්අඩ්අ ට්ර්එබ්අ ඩ්අ බ්උඩ්එ ප්ඔව්එස්අන්අ ස්අ ඩ්උග්ඔර්ඔච්න්ඉම් ර්එස්උල්ට්අට්ඉම්අ.",
-        "meaning": "අධ්‍යක්ෂ මණ්ඩලය ඵලදායී අධීක්ෂණයට වගකිව යුතුය."
+        "meaning": "පාරිතෝෂිකය දිගුකාලීන කාර්යසාධනයට සම්බන්ධ කළ යුතුය."
       }
     ],
     "dialogue": [
       {
         "text": "Da li je odbor razmotrio registar rizika?",
         "reading": "ඩ්අ ල්ඉ ය්එ ඔඩ්බ්ඔර් ර්අස්ම්ඔට්ර්ඉඔ ර්එග්ඉස්ට්අර් ර්ඉස්ඉක්අ?",
-        "meaning": "අධ්‍යක්ෂ මණ්ඩලය අවදානම් ලේඛනය සමාලෝචනය කළාද?"
+        "meaning": "මෙම මාතෘකාව පිළිබඳ ප්‍රශ්නයක්."
       },
       {
         "text": "Jeste, a nerešene stavke su dokumentovane.",
         "reading": "ය්එස්ට්එ, අ න්එර්එෂ්එන්එ ස්ට්අව්ක්එ ස්උ ඩ්ඔක්උම්එන්ට්ඔව්අන්එ.",
-        "meaning": "ඔව්, විසඳී නැති කරුණු ලේඛනගත කර ඇත."
+        "meaning": "එය හොඳින් සලකා බැලිය යුතු කරුණකි."
       },
       {
         "text": "Da li su svi relevantni interesi prijavljeni?",
         "reading": "ඩ්අ ල්ඉ ස්උ ස්ව්ඉ ර්එල්එව්අන්ට්න්ඉ ඉන්ට්එර්එස්ඉ ප්ර්ඉය්අව්ල්ය්එන්ඉ?",
-        "meaning": "අදාළ සියලු අවශ්‍යතා හෙළි කළාද?"
+        "meaning": "තවත් විකල්පයක් සලකා බැලිය හැකිද?"
       },
       {
         "text": "Izjave su uključene u zapisnik sa sastanka.",
         "reading": "ඉස්ය්අව්එ ස්උ උක්ල්ය්උච්එන්එ උ ස්අප්ඉස්න්ඉක් ස්අ ස්අස්ට්අන්ක්අ.",
-        "meaning": "ප්‍රකාශ රැස්වීම් වාර්තාවට ඇතුළත් කර ඇත."
+        "meaning": "ඔව්, සාක්ෂි මත තීරණය කරමු."
       }
     ],
     "listeningPractice": {
@@ -491,64 +491,64 @@ export const SERBIAN_C1_LESSONS_41_50 = [
   },
   {
     "id": "sr-c1-l44",
-    "unit": "C1 · prilagođavanje,ublažavanje,izloženost,ranjivost,biodiverzitet,emisije,odgovorno upravljanje,prag",
-    "title": "C1 · 44 · prilagođavanje,ublažavanje,izloženost,ranjivost,biodiverzitet,emisije,odgovorno upravljanje,prag",
+    "unit": "C1 · Prilagođavanje klimatskim promenama i politika zaštite životne sredine",
+    "title": "C1 · 44 · Prilagođavanje klimatskim promenama i politika zaštite životne sredine",
     "objective": "දේශගුණික අවදානම්, අනුවර්තනය සහ ප්‍රතිපත්ති ක්‍රියාමාර්ග පිළිබඳ සාකච්ඡා කරන්න.",
     "vocabulary": [
       {
         "word": "prilagođavanje",
         "reading": "ප්ර්ඉල්අග්ඔජ්අව්අන්ය්එ",
         "meaning": "අනුවර්තනය",
-        "example": "Adaptation reduces the impact of unavoidable changes.",
+        "example": "Prilagođavanje smanjuje posledice promena koje se ne mogu izbeći.",
         "translation": "අනුවර්තනය වැළැක්විය නොහැකි වෙනස්කම්වල බලපෑම අඩු කරයි."
       },
       {
         "word": "ublažavanje",
         "reading": "උබ්ල්අෂ්අව්අන්ය්එ",
         "meaning": "බලපෑම අවම කිරීම",
-        "example": "The policy combines mitigation with local resilience.",
+        "example": "Politika povezuje ublažavanje posledica sa lokalnom otpornošću.",
         "translation": "ප්‍රතිපත්තිය බලපෑම අවම කිරීම දේශීය ඔරොත්තු දීම සමඟ එක් කරයි."
       },
       {
         "word": "izloženost",
         "reading": "ඉස්ල්ඔෂ්එන්ඔස්ට්",
         "meaning": "නිරාවරණය",
-        "example": "Biodiversity loss can increase ecosystem vulnerability.",
+        "example": "Gubitak biodiverziteta može povećati ranjivost ekosistema.",
         "translation": "ජෛව විවිධත්වය අහිමි වීම පරිසර පද්ධතියේ අවදානම වැඩි කළ හැකිය."
       },
       {
         "word": "ranjivost",
         "reading": "ර්අන්ය්ඉව්ඔස්ට්",
         "meaning": "අවදානමට ලක්වීමේ හැකියාව",
-        "example": "Emissions must be measured against a clear baseline.",
+        "example": "Emisije treba meriti u odnosu na jasno utvrđenu početnu vrednost.",
         "translation": "විමෝචන පැහැදිලි මූලික මට්ටමකට සාපේක්ෂව මැනිය යුතුය."
       },
       {
         "word": "biodiverzitet",
         "reading": "බ්ඉඔඩ්ඉව්එර්ස්ඉට්එට්",
         "meaning": "ජෛව විවිධත්වය",
-        "example": "Adaptation reduces the impact of unavoidable changes.",
+        "example": "Prilagođavanje smanjuje posledice promena koje se ne mogu izbeći.",
         "translation": "අනුවර්තනය වැළැක්විය නොහැකි වෙනස්කම්වල බලපෑම අඩු කරයි."
       },
       {
         "word": "emisije",
         "reading": "එම්ඉස්ඉය්එ",
         "meaning": "විමෝචන",
-        "example": "The policy combines mitigation with local resilience.",
+        "example": "Politika povezuje ublažavanje posledica sa lokalnom otpornošću.",
         "translation": "ප්‍රතිපත්තිය බලපෑම අවම කිරීම දේශීය ඔරොත්තු දීම සමඟ එක් කරයි."
       },
       {
         "word": "odgovorno upravljanje",
         "reading": "ඔඩ්ග්ඔව්ඔර්න්ඔ උප්ර්අව්ල්ය්අන්ය්එ",
         "meaning": "භාරකාරී කළමනාකරණය",
-        "example": "Biodiversity loss can increase ecosystem vulnerability.",
+        "example": "Gubitak biodiverziteta može povećati ranjivost ekosistema.",
         "translation": "ජෛව විවිධත්වය අහිමි වීම පරිසර පද්ධතියේ අවදානම වැඩි කළ හැකිය."
       },
       {
         "word": "prag",
         "reading": "ප්ර්අග්",
         "meaning": "සීමා අගය",
-        "example": "Emissions must be measured against a clear baseline.",
+        "example": "Emisije treba meriti u odnosu na jasno utvrđenu početnu vrednost.",
         "translation": "විමෝචන පැහැදිලි මූලික මට්ටමකට සාපේක්ෂව මැනිය යුතුය."
       }
     ],
@@ -563,39 +563,39 @@ export const SERBIAN_C1_LESSONS_41_50 = [
       {
         "text": "Politika povezuje ublažavanje posledica sa lokalnom otpornošću.",
         "reading": "ප්ඔල්ඉට්ඉක්අ ප්ඔව්එස්උය්එ උබ්ල්අෂ්අව්අන්ය්එ ප්ඔස්ල්එඩ්ඉට්ස්අ ස්අ ල්ඔක්අල්න්ඔම් ඔට්ප්ඔර්න්ඔෂ්ච්උ.",
-        "meaning": "අනුවර්තනය වැළැක්විය නොහැකි වෙනස්කම්වල බලපෑම අඩු කරයි."
+        "meaning": "ප්‍රතිපත්තිය බලපෑම අවම කිරීම දේශීය ඔරොත්තු දීම සමඟ එක් කරයි."
       },
       {
         "text": "Gubitak biodiverziteta može povećati ranjivost ekosistema.",
         "reading": "ග්උබ්ඉට්අක් බ්ඉඔඩ්ඉව්එර්ස්ඉට්එට්අ ම්ඔෂ්එ ප්ඔව්එච්අට්ඉ ර්අන්ය්ඉව්ඔස්ට් එක්ඔස්ඉස්ට්එම්අ.",
-        "meaning": "අනුවර්තනය වැළැක්විය නොහැකි වෙනස්කම්වල බලපෑම අඩු කරයි."
+        "meaning": "ජෛව විවිධත්වය අහිමි වීම පරිසර පද්ධතියේ අවදානම වැඩි කළ හැකිය."
       },
       {
         "text": "Emisije treba meriti u odnosu na jasno utvrđenu početnu vrednost.",
         "reading": "එම්ඉස්ඉය්එ ට්ර්එබ්අ ම්එර්ඉට්ඉ උ ඔඩ්න්ඔස්උ න්අ ය්අස්න්ඔ උට්ව්ර්ජ්එන්උ ප්ඔච්එට්න්උ ව්ර්එඩ්න්ඔස්ට්.",
-        "meaning": "අනුවර්තනය වැළැක්විය නොහැකි වෙනස්කම්වල බලපෑම අඩු කරයි."
+        "meaning": "විමෝචන පැහැදිලි මූලික මට්ටමකට සාපේක්ෂව මැනිය යුතුය."
       }
     ],
     "dialogue": [
       {
         "text": "Koje zajednice su najviše izložene riziku?",
         "reading": "ක්ඔය්එ ස්අය්එඩ්න්ඉට්ස්එ ස්උ න්අය්ව්ඉෂ්එ ඉස්ල්ඔෂ්එන්එ ර්ඉස්ඉක්උ?",
-        "meaning": "වැඩිම නිරාවරණයකට මුහුණ දෙන්නේ කුමන ප්‍රජාවන්ද?"
+        "meaning": "මෙම මාතෘකාව පිළිබඳ ප්‍රශ්නයක්."
       },
       {
         "text": "Posebno su ugrožena područja na maloj nadmorskoj visini.",
         "reading": "ප්ඔස්එබ්න්ඔ ස්උ උග්ර්ඔෂ්එන්අ ප්ඔඩ්ර්උච්ය්අ න්අ ම්අල්ඔය් න්අඩ්ම්ඔර්ස්ක්ඔය් ව්ඉස්ඉන්ඉ.",
-        "meaning": "පහත් බිම් ප්‍රදේශ විශේෂයෙන් අවදානමට ලක්විය හැකිය."
+        "meaning": "එය හොඳින් සලකා බැලිය යුතු කරුණකි."
       },
       {
         "text": "Može li program obuhvatiti i prilagođavanje i ublažavanje?",
         "reading": "ම්ඔෂ්එ ල්ඉ ප්ර්ඔග්ර්අම් ඔබ්උහ්ව්අට්ඉට්ඉ ඉ ප්ර්ඉල්අග්ඔජ්අව්අන්ය්එ ඉ උබ්ල්අෂ්අව්අන්ය්එ?",
-        "meaning": "වැඩසටහනට අනුවර්තනය සහ බලපෑම අවම කිරීම දෙකම ඇතුළත් කළ හැකිද?"
+        "meaning": "තවත් විකල්පයක් සලකා බැලිය හැකිද?"
       },
       {
         "text": "Može, ali ciljevi moraju imati merljive pokazatelje.",
         "reading": "ම්ඔෂ්එ, අල්ඉ ට්ස්ඉල්ය්එව්ඉ ම්ඔර්අය්උ ඉම්අට්ඉ ම්එර්ල්ය්ඉව්එ ප්ඔක්අස්අට්එල්ය්එ.",
-        "meaning": "ඔව්, නමුත් ඉලක්ක මැනිය හැකි දර්ශක අවශ්‍යය."
+        "meaning": "ඔව්, සාක්ෂි මත තීරණය කරමු."
       }
     ],
     "listeningPractice": {
@@ -654,65 +654,65 @@ export const SERBIAN_C1_LESSONS_41_50 = [
   },
   {
     "id": "sr-c1-l45",
-    "unit": "C1 · transformacija,interoperabilnost,nasleđeni sistem,automatizacija,usvajanje,tok rada,skalabilnost,zamor od promena",
-    "title": "C1 · 45 · transformacija,interoperabilnost,nasleđeni sistem,automatizacija,usvajanje,tok rada,skalabilnost,zamor od promena",
+    "unit": "C1 · Digitalna transformacija i organizacione promene",
+    "title": "C1 · 45 · Digitalna transformacija i organizacione promene",
     "objective": "තාක්ෂණික වෙනසක් ආයතනික ක්‍රියාවලි හා සේවකයන්ට බලපාන ආකාරය ඇගයීමට ලක් කරන්න.",
     "vocabulary": [
       {
         "word": "transformacija",
         "reading": "ට්ර්අන්ස්ෆ්ඔර්ම්අට්ස්ඉය්අ",
         "meaning": "පරිවර්තනය",
-        "example": "Interoperability is essential when systems are integrated.",
+        "example": "Interoperabilnost je ključna pri povezivanju sistema.",
         "translation": "පද්ධති ඒකාබද්ධ කරන විට අන්තර්ක්‍රියා හැකියාව අත්‍යවශ්‍යය."
       },
       {
         "word": "interoperabilnost",
         "reading": "ඉන්ට්එර්ඔප්එර්අබ්ඉල්න්ඔස්ට්",
         "meaning": "පද්ධති අතර අන්තර්ක්‍රියා හැකියාව",
-        "example": "A phased rollout can improve adoption.",
+        "example": "Postepeno uvođenje može povećati prihvatanje novog rešenja.",
         "translation": "අදියර අනුව හඳුන්වාදීම භාවිතය වැඩි කළ හැකිය."
       },
       {
         "word": "nasleđeni sistem",
         "reading": "න්අස්ල්එජ්එන්ඉ ස්ඉස්ට්එම්",
         "meaning": "පැරණි පද්ධතිය",
-        "example": "The legacy platform creates avoidable delays.",
-        "translation": "පැරණි වේදිකාව වළක්වාගත හැකි ප්‍රමාද ඇති කරයි."
+        "example": "Nasleđeni sistem stvara nepotrebna kašnjenja.",
+        "translation": "පැරණි පද්ධතිය වළක්වාගත හැකි ප්‍රමාද ඇති කරයි."
       },
       {
         "word": "automatizacija",
         "reading": "අඋට්ඔම්අට්ඉස්අට්ස්ඉය්අ",
         "meaning": "ස්වයංක්‍රීයකරණය",
-        "example": "Change fatigue should be addressed through clear communication.",
-        "translation": "පැහැදිලි සන්නිවේදනයෙන් වෙනස්කම් නිසා ඇති වෙහෙසට පිළියම් යෙදිය යුතුය."
+        "example": "Zamor od promena treba ublažiti jasnom komunikacijom.",
+        "translation": "වෙනස්කම් නිසා ඇති වෙහෙසට පැහැදිලි සන්නිවේදනයෙන් පිළියම් යෙදිය යුතුය."
       },
       {
         "word": "usvajanje",
         "reading": "උස්ව්අය්අන්ය්එ",
         "meaning": "භාවිතයට ගැනීම",
-        "example": "Interoperability is essential when systems are integrated.",
+        "example": "Interoperabilnost je ključna pri povezivanju sistema.",
         "translation": "පද්ධති ඒකාබද්ධ කරන විට අන්තර්ක්‍රියා හැකියාව අත්‍යවශ්‍යය."
       },
       {
         "word": "tok rada",
         "reading": "ට්ඔක් ර්අඩ්අ",
         "meaning": "වැඩ ප්‍රවාහය",
-        "example": "A phased rollout can improve adoption.",
+        "example": "Postepeno uvođenje može povećati prihvatanje novog rešenja.",
         "translation": "අදියර අනුව හඳුන්වාදීම භාවිතය වැඩි කළ හැකිය."
       },
       {
         "word": "skalabilnost",
         "reading": "ස්ක්අල්අබ්ඉල්න්ඔස්ට්",
         "meaning": "පුළුල් කළ හැකි බව",
-        "example": "The legacy platform creates avoidable delays.",
-        "translation": "පැරණි වේදිකාව වළක්වාගත හැකි ප්‍රමාද ඇති කරයි."
+        "example": "Nasleđeni sistem stvara nepotrebna kašnjenja.",
+        "translation": "පැරණි පද්ධතිය වළක්වාගත හැකි ප්‍රමාද ඇති කරයි."
       },
       {
         "word": "zamor od promena",
         "reading": "ස්අම්ඔර් ඔඩ් ප්ර්ඔම්එන්අ",
         "meaning": "වෙනස්කම් නිසා ඇති වෙහෙස",
-        "example": "Change fatigue should be addressed through clear communication.",
-        "translation": "පැහැදිලි සන්නිවේදනයෙන් වෙනස්කම් නිසා ඇති වෙහෙසට පිළියම් යෙදිය යුතුය."
+        "example": "Zamor od promena treba ublažiti jasnom komunikacijom.",
+        "translation": "වෙනස්කම් නිසා ඇති වෙහෙසට පැහැදිලි සන්නිවේදනයෙන් පිළියම් යෙදිය යුතුය."
       }
     ],
     "grammarTitle": "Gramatika i stil",
@@ -721,44 +721,44 @@ export const SERBIAN_C1_LESSONS_41_50 = [
       {
         "text": "Interoperabilnost je ključna pri povezivanju sistema.",
         "reading": "ඉන්ට්එර්ඔප්එර්අබ්ඉල්න්ඔස්ට් ය්එ ක්ල්ය්උච්න්අ ප්ර්ඉ ප්ඔව්එස්ඉව්අන්ය්උ ස්ඉස්ට්එම්අ.",
-        "meaning": "විශ්වාසදායක සිදුවීම් ආකෘතියක් එහි උපකල්පන පැහැදිලිව සඳහන් කළ යුතුය."
+        "meaning": "පද්ධති ඒකාබද්ධ කරන විට අන්තර්ක්‍රියා හැකියාව අත්‍යවශ්‍යය."
       },
       {
         "text": "Postepeno uvođenje može povećati prihvatanje novog rešenja.",
         "reading": "ප්ඔස්ට්එප්එන්ඔ උව්ඔජ්එන්ය්එ ම්ඔෂ්එ ප්ඔව්එච්අට්ඉ ප්ර්ඉහ්ව්අට්අන්ය්එ න්ඔව්ඔග් ර්එෂ්එන්ය්අ.",
-        "meaning": "විශ්වාසදායක සිදුවීම් ආකෘතියක් එහි උපකල්පන පැහැදිලිව සඳහන් කළ යුතුය."
+        "meaning": "අදියර අනුව හඳුන්වාදීම භාවිතය වැඩි කළ හැකිය."
       },
       {
         "text": "Nasleđeni sistem stvara nepotrebna kašnjenja.",
         "reading": "න්අස්ල්එජ්එන්ඉ ස්ඉස්ට්එම් ස්ට්ව්අර්අ න්එප්ඔට්ර්එබ්න්අ ක්අෂ්න්ය්එන්ය්අ.",
-        "meaning": "විශ්වාසදායක සිදුවීම් ආකෘතියක් එහි උපකල්පන පැහැදිලිව සඳහන් කළ යුතුය."
+        "meaning": "පැරණි පද්ධතිය වළක්වාගත හැකි ප්‍රමාද ඇති කරයි."
       },
       {
         "text": "Zamor od promena treba ublažiti jasnom komunikacijom.",
         "reading": "ස්අම්ඔර් ඔඩ් ප්ර්ඔම්එන්අ ට්ර්එබ්අ උබ්ල්අෂ්ඉට්ඉ ය්අස්න්ඔම් ක්ඔම්උන්ඉක්අට්ස්ඉය්ඔම්.",
-        "meaning": "විශ්වාසදායක සිදුවීම් ආකෘතියක් එහි උපකල්පන පැහැදිලිව සඳහන් කළ යුතුය."
+        "meaning": "වෙනස්කම් නිසා ඇති වෙහෙසට පැහැදිලි සන්නිවේදනයෙන් පිළියම් යෙදිය යුතුය."
       }
     ],
     "dialogue": [
       {
         "text": "Zašto je prihvatanje rešenja sporije od očekivanog?",
         "reading": "ස්අෂ්ට්ඔ ය්එ ප්ර්ඉහ්ව්අට්අන්ය්එ ර්එෂ්එන්ය්අ ස්ප්ඔර්ඉය්එ ඔඩ් ඔච්එක්ඉව්අන්ඔග්?",
-        "meaning": "භාවිතයට ගැනීම අපේක්ෂා කළාට වඩා මන්දගාමී වූයේ ඇයි?"
+        "meaning": "මෙම මාතෘකාව පිළිබඳ ප්‍රශ්නයක්."
       },
       {
         "text": "Tok rada nije bio dovoljno jasno objašnjen.",
         "reading": "ට්ඔක් ර්අඩ්අ න්ඉය්එ බ්ඉඔ ඩ්ඔව්ඔල්ය්න්ඔ ය්අස්න්ඔ ඔබ්ය්අෂ්න්ය්එන්.",
-        "meaning": "වැඩ ප්‍රවාහය පැහැදිලිව විස්තර කර නොතිබුණි."
+        "meaning": "එය හොඳින් සලකා බැලිය යුතු කරුණකි."
       },
       {
         "text": "Da li treba da proširimo pilot-projekat?",
         "reading": "ඩ්අ ල්ඉ ට්ර්එබ්අ ඩ්අ ප්ර්ඔෂ්ඉර්ඉම්ඔ ප්ඉල්ඔට්-ප්ර්ඔය්එක්අට්?",
-        "meaning": "අත්හදා බැලීම පුළුල් කළ යුතුද?"
+        "meaning": "තවත් විකල්පයක් සලකා බැලිය හැකිද?"
       },
       {
         "text": "Tek kada tim za podršku bude spreman.",
         "reading": "ට්එක් ක්අඩ්අ ට්ඉම් ස්අ ප්ඔඩ්ර්ෂ්ක්උ බ්උඩ්එ ස්ප්ර්එම්අන්.",
-        "meaning": "සහාය කණ්ඩායම සූදානම් වූ පසුව පමණි."
+        "meaning": "ඔව්, සාක්ෂි මත තීරණය කරමු."
       }
     ],
     "listeningPractice": {
@@ -817,64 +817,64 @@ export const SERBIAN_C1_LESSONS_41_50 = [
   },
   {
     "id": "sr-c1-l46",
-    "unit": "C1 · uzročnost,korelacija,ometajući faktor,pristrasnost uzorka,longitudinalan,ponavljanje istraživanja,zaključivanje,robustnost",
-    "title": "C1 · 46 · uzročnost,korelacija,ometajući faktor,pristrasnost uzorka,longitudinalan,ponavljanje istraživanja,zaključivanje,robustnost",
+    "unit": "C1 · Napredne istraživačke metode i uzročno zaključivanje",
+    "title": "C1 · 46 · Napredne istraživačke metode i uzročno zaključivanje",
     "objective": "සම්බන්ධතාවය සහ හේතුකාරකත්වය වෙන්කර පර්යේෂණ නිගමනවල සීමා දක්වන්න.",
     "vocabulary": [
       {
         "word": "uzročnost",
         "reading": "උස්ර්ඔච්න්ඔස්ට්",
         "meaning": "හේතුකාරකත්වය",
-        "example": "Correlation alone does not establish causality.",
+        "example": "Korelacija sama po sebi ne dokazuje uzročnost.",
         "translation": "සහසම්බන්ධතාව පමණක් හේතුකාරකත්වය තහවුරු නොකරයි."
       },
       {
         "word": "korelacija",
         "reading": "ක්ඔර්එල්අට්ස්ඉය්අ",
         "meaning": "සහසම්බන්ධතාව",
-        "example": "A confounder may explain the observed association.",
-        "translation": "නිරීක්ෂිත සම්බන්ධතාවය ව්‍යාකූලකාරක සාධකයක් මඟින් පැහැදිලි කළ හැකිය."
+        "example": "Ometajući faktor može objasniti uočenu povezanost.",
+        "translation": "ව්‍යාකූලකාරක සාධකයක් නිරීක්ෂිත සම්බන්ධතාවය පැහැදිලි කළ හැකිය."
       },
       {
         "word": "ometajući faktor",
         "reading": "ඔම්එට්අය්උච්ඉ ෆ්අක්ට්ඔර්",
         "meaning": "ව්‍යාකූලකාරක සාධකය",
-        "example": "Longitudinal data can reveal changes over time.",
+        "example": "Longitudinalni podaci mogu pokazati promene tokom vremena.",
         "translation": "කාලානුක්‍රමික දත්ත කාලයත් සමඟ වෙනස්කම් පෙන්විය හැකිය."
       },
       {
         "word": "pristrasnost uzorka",
         "reading": "ප්ර්ඉස්ට්ර්අස්න්ඔස්ට් උස්ඔර්ක්අ",
         "meaning": "නියැදි පක්ෂපාතීත්වය",
-        "example": "The findings require independent replication.",
+        "example": "Nalaze treba nezavisno ponoviti i proveriti.",
         "translation": "සොයාගැනීම් ස්වාධීනව නැවත පරීක්ෂා කළ යුතුය."
       },
       {
         "word": "longitudinalan",
         "reading": "ල්ඔන්ග්ඉට්උඩ්ඉන්අල්අන්",
         "meaning": "කාලය පුරා අනුගමනය කරන",
-        "example": "Correlation alone does not establish causality.",
+        "example": "Korelacija sama po sebi ne dokazuje uzročnost.",
         "translation": "සහසම්බන්ධතාව පමණක් හේතුකාරකත්වය තහවුරු නොකරයි."
       },
       {
         "word": "ponavljanje istraživanja",
         "reading": "ප්ඔන්අව්ල්ය්අන්ය්එ ඉස්ට්ර්අෂ්ඉව්අන්ය්අ",
         "meaning": "ප්‍රතිනිර්මාණය",
-        "example": "A confounder may explain the observed association.",
-        "translation": "නිරීක්ෂිත සම්බන්ධතාවය ව්‍යාකූලකාරක සාධකයක් මඟින් පැහැදිලි කළ හැකිය."
+        "example": "Ometajući faktor može objasniti uočenu povezanost.",
+        "translation": "ව්‍යාකූලකාරක සාධකයක් නිරීක්ෂිත සම්බන්ධතාවය පැහැදිලි කළ හැකිය."
       },
       {
         "word": "zaključivanje",
         "reading": "ස්අක්ල්ය්උච්ඉව්අන්ය්එ",
         "meaning": "නිගමනයකට පැමිණීම",
-        "example": "Longitudinal data can reveal changes over time.",
+        "example": "Longitudinalni podaci mogu pokazati promene tokom vremena.",
         "translation": "කාලානුක්‍රමික දත්ත කාලයත් සමඟ වෙනස්කම් පෙන්විය හැකිය."
       },
       {
         "word": "robustnost",
         "reading": "ර්ඔබ්උස්ට්න්ඔස්ට්",
         "meaning": "ශක්තිමත් බව",
-        "example": "The findings require independent replication.",
+        "example": "Nalaze treba nezavisno ponoviti i proveriti.",
         "translation": "සොයාගැනීම් ස්වාධීනව නැවත පරීක්ෂා කළ යුතුය."
       }
     ],
@@ -884,44 +884,44 @@ export const SERBIAN_C1_LESSONS_41_50 = [
       {
         "text": "Korelacija sama po sebi ne dokazuje uzročnost.",
         "reading": "ක්ඔර්එල්අට්ස්ඉය්අ ස්අම්අ ප්ඔ ස්එබ්ඉ න්එ ඩ්ඔක්අස්උය්එ උස්ර්ඔච්න්ඔස්ට්.",
-        "meaning": "සීමිත සහනයක් සාකච්ඡා ඉදිරියට ගෙන යා හැකිය."
+        "meaning": "සහසම්බන්ධතාව පමණක් හේතුකාරකත්වය තහවුරු නොකරයි."
       },
       {
         "text": "Ometajući faktor može objasniti uočenu povezanost.",
         "reading": "ඔම්එට්අය්උච්ඉ ෆ්අක්ට්ඔර් ම්ඔෂ්එ ඔබ්ය්අස්න්ඉට්ඉ උඔච්එන්උ ප්ඔව්එස්අන්ඔස්ට්.",
-        "meaning": "සීමිත සහනයක් සාකච්ඡා ඉදිරියට ගෙන යා හැකිය."
+        "meaning": "ව්‍යාකූලකාරක සාධකයක් නිරීක්ෂිත සම්බන්ධතාවය පැහැදිලි කළ හැකිය."
       },
       {
         "text": "Longitudinalni podaci mogu pokazati promene tokom vremena.",
         "reading": "ල්ඔන්ග්ඉට්උඩ්ඉන්අල්න්ඉ ප්ඔඩ්අට්ස්ඉ ම්ඔග්උ ප්ඔක්අස්අට්ඉ ප්ර්ඔම්එන්එ ට්ඔක්ඔම් ව්ර්එම්එන්අ.",
-        "meaning": "සීමිත සහනයක් සාකච්ඡා ඉදිරියට ගෙන යා හැකිය."
+        "meaning": "කාලානුක්‍රමික දත්ත කාලයත් සමඟ වෙනස්කම් පෙන්විය හැකිය."
       },
       {
         "text": "Nalaze treba nezavisno ponoviti i proveriti.",
         "reading": "න්අල්අස්එ ට්ර්එබ්අ න්එස්අව්ඉස්න්ඔ ප්ඔන්ඔව්ඉට්ඉ ඉ ප්ර්ඔව්එර්ඉට්ඉ.",
-        "meaning": "සීමිත සහනයක් සාකච්ඡා ඉදිරියට ගෙන යා හැකිය."
+        "meaning": "සොයාගැනීම් ස්වාධීනව නැවත පරීක්ෂා කළ යුතුය."
       }
     ],
     "dialogue": [
       {
         "text": "Možemo li tvrditi da je intervencija izazvala promenu?",
         "reading": "ම්ඔෂ්එම්ඔ ල්ඉ ට්ව්ර්ඩ්ඉට්ඉ ඩ්අ ය්එ ඉන්ට්එර්ව්එන්ට්ස්ඉය්අ ඉස්අස්ව්අල්අ ප්ර්ඔම්එන්උ?",
-        "meaning": "මෙම මැදිහත්වීම වෙනසට හේතු වූ බව කියන්න පුළුවන්ද?"
+        "meaning": "මෙම මාතෘකාව පිළිබඳ ප්‍රශ්නයක්."
       },
       {
         "text": "Ne, dok ne isključimo druga moguća objašnjenja.",
         "reading": "න්එ, ඩ්ඔක් න්එ ඉස්ක්ල්ය්උච්ඉම්ඔ ඩ්ර්උග්අ ම්ඔග්උච්අ ඔබ්ය්අෂ්න්ය්එන්ය්අ.",
-        "meaning": "විකල්ප පැහැදිලි කිරීම් ඉවත් නොකර එසේ කිව නොහැකිය."
+        "meaning": "එය හොඳින් සලකා බැලිය යුතු කරුණකි."
       },
       {
         "text": "Koji bi dodatni dokazi ojačali taj zaključak?",
         "reading": "ක්ඔය්ඉ බ්ඉ ඩ්ඔඩ්අට්න්ඉ ඩ්ඔක්අස්ඉ ඔය්අච්අල්ඉ ට්අය් ස්අක්ල්ය්උච්අක්?",
-        "meaning": "නිගමනය ශක්තිමත් කිරීමට තවත් කුමන සාක්ෂි අවශ්‍යද?"
+        "meaning": "තවත් විකල්පයක් සලකා බැලිය හැකිද?"
       },
       {
         "text": "Ponovljeno istraživanje sa odgovarajućom kontrolnom grupom.",
         "reading": "ප්ඔන්ඔව්ල්ය්එන්ඔ ඉස්ට්ර්අෂ්ඉව්අන්ය්එ ස්අ ඔඩ්ග්ඔව්අර්අය්උච්ඔම් ක්ඔන්ට්ර්ඔල්න්ඔම් ග්ර්උප්ඔම්.",
-        "meaning": "සුදුසු සැසඳුම් කණ්ඩායමක් සහිතව නැවත කළ අධ්‍යයනයක්."
+        "meaning": "ඔව්, සාක්ෂි මත තීරණය කරමු."
       }
     ],
     "listeningPractice": {
@@ -929,7 +929,7 @@ export const SERBIAN_C1_LESSONS_41_50 = [
       "audio": "Korelacija sama po sebi ne dokazuje uzročnost. Ometajući faktor može objasniti uočenu povezanost. Longitudinalni podaci mogu pokazati promene tokom vremena. Nalaze treba nezavisno ponoviti i proveriti.",
       "reading": "ක්ඔර්එල්අට්ස්ඉය්අ ස්අම්අ ප්ඔ ස්එබ්ඉ න්එ ඩ්ඔක්අස්උය්එ උස්ර්ඔච්න්ඔස්ට්. ඔම්එට්අය්උච්ඉ ෆ්අක්ට්ඔර් ම්ඔෂ්එ ඔබ්ය්අස්න්ඉට්ඉ උඔච්එන්උ ප්ඔව්එස්අන්ඔස්ට්. ල්ඔන්ග්ඉට්උඩ්ඉන්අල්න්ඉ ප්ඔඩ්අට්ස්ඉ ම්ඔග්උ ප්ඔක්අස්අට්ඉ ප්ර්ඔම්එන්එ ට්ඔක්ඔම් ව්ර්එම්එන්අ. න්අල්අස්එ ට්ර්එබ්අ න්එස්අව්ඉස්න්ඔ ප්ඔන්ඔව්ඉට්ඉ ඉ ප්ර්ඔව්එර්ඉට්ඉ.",
       "options": [
-        "සහසම්බන්ධතාව පමණක් හේතුකාරකත්වය තහවුරු නොකරයි. නිරීක්ෂිත සම්බන්ධතාවය ව්‍යාකූලකාරක සාධකයක් මඟින් පැහැදිලි කළ හැකිය.",
+        "සහසම්බන්ධතාව පමණක් හේතුකාරකත්වය තහවුරු නොකරයි. ව්‍යාකූලකාරක සාධකයක් නිරීක්ෂිත සම්බන්ධතාවය පැහැදිලි කළ හැකිය.",
         "Sve tvrdnje su potpuno sigurne.",
         "Nijedno tumačenje nije moguće."
       ],
@@ -980,64 +980,64 @@ export const SERBIAN_C1_LESSONS_41_50 = [
   },
   {
     "id": "sr-c1-l47",
-    "unit": "C1 · dvosmislenost,pripovedač,motiv,podtekst,aluzija,ironija,perspektiva,tumačenje",
-    "title": "C1 · 47 · dvosmislenost,pripovedač,motiv,podtekst,aluzija,ironija,perspektiva,tumačenje",
+    "unit": "C1 · Književna kritika i višeznačnost tumačenja",
+    "title": "C1 · 47 · Književna kritika i višeznačnost tumačenja",
     "objective": "සාහිත්‍ය කෘතියක හඬ, සංකේත සහ අර්ථයේ බහුත්වය සාක්ෂි සමඟ විග්‍රහ කරන්න.",
     "vocabulary": [
       {
         "word": "dvosmislenost",
         "reading": "ඩ්ව්ඔස්ම්ඉස්ල්එන්ඔස්ට්",
         "meaning": "අර්ථ අපැහැදිලි බව",
-        "example": "The unreliable narrator complicates the reader's judgment.",
+        "example": "Nepouzdan pripovedač otežava čitaocu donošenje suda.",
         "translation": "විශ්වාස කළ නොහැකි කථකයා පාඨකයාගේ විනිශ්චය සංකීර්ණ කරයි."
       },
       {
         "word": "pripovedač",
         "reading": "ප්ර්ඉප්ඔව්එඩ්අච්",
         "meaning": "කථකයා",
-        "example": "The recurring motif links otherwise separate episodes.",
+        "example": "Motiv koji se ponavlja povezuje naizgled odvojene epizode.",
         "translation": "නැවත මතුවන රූපකය වෙන වෙනම සිදුවීම් සම්බන්ධ කරයි."
       },
       {
         "word": "motiv",
         "reading": "ම්ඔට්ඉව්",
         "meaning": "නැවත නැවත මතුවන රූපකය",
-        "example": "Irony creates tension between appearance and intention.",
+        "example": "Ironija stvara napetost između izgleda i namere.",
         "translation": "උපහාසය පෙනුම සහ අරමුණ අතර ආතතියක් ඇති කරයි."
       },
       {
         "word": "podtekst",
         "reading": "ප්ඔඩ්ට්එක්ස්ට්",
         "meaning": "යටිපෙළ අර්ථය",
-        "example": "Several interpretations remain plausible.",
+        "example": "Moguće je više uverljivih tumačenja.",
         "translation": "අර්ථකථන කිහිපයක්ම පිළිගත හැකිව පවතී."
       },
       {
         "word": "aluzija",
         "reading": "අල්උස්ඉය්අ",
         "meaning": "සංස්කෘතික/සාහිත්‍ය සඳහන",
-        "example": "The unreliable narrator complicates the reader's judgment.",
+        "example": "Nepouzdan pripovedač otežava čitaocu donošenje suda.",
         "translation": "විශ්වාස කළ නොහැකි කථකයා පාඨකයාගේ විනිශ්චය සංකීර්ණ කරයි."
       },
       {
         "word": "ironija",
         "reading": "ඉර්ඔන්ඉය්අ",
         "meaning": "උපහාසය",
-        "example": "The recurring motif links otherwise separate episodes.",
+        "example": "Motiv koji se ponavlja povezuje naizgled odvojene epizode.",
         "translation": "නැවත මතුවන රූපකය වෙන වෙනම සිදුවීම් සම්බන්ධ කරයි."
       },
       {
         "word": "perspektiva",
         "reading": "ප්එර්ස්ප්එක්ට්ඉව්අ",
         "meaning": "දෘෂ්ටිකෝණය",
-        "example": "Irony creates tension between appearance and intention.",
+        "example": "Ironija stvara napetost između izgleda i namere.",
         "translation": "උපහාසය පෙනුම සහ අරමුණ අතර ආතතියක් ඇති කරයි."
       },
       {
         "word": "tumačenje",
         "reading": "ට්උම්අච්එන්ය්එ",
         "meaning": "අර්ථකථනය",
-        "example": "Several interpretations remain plausible.",
+        "example": "Moguće je više uverljivih tumačenja.",
         "translation": "අර්ථකථන කිහිපයක්ම පිළිගත හැකිව පවතී."
       }
     ],
@@ -1047,44 +1047,44 @@ export const SERBIAN_C1_LESSONS_41_50 = [
       {
         "text": "Nepouzdan pripovedač otežava čitaocu donošenje suda.",
         "reading": "න්එප්ඔඋස්ඩ්අන් ප්ර්ඉප්ඔව්එඩ්අච් ඔට්එෂ්අව්අ ච්ඉට්අඔට්ස්උ ඩ්ඔන්ඔෂ්එන්ය්එ ස්උඩ්අ.",
-        "meaning": "අධ්‍යක්ෂ මණ්ඩලය ඵලදායී අධීක්ෂණයට වගකිව යුතුය."
+        "meaning": "විශ්වාස කළ නොහැකි කථකයා පාඨකයාගේ විනිශ්චය සංකීර්ණ කරයි."
       },
       {
         "text": "Motiv koji se ponavlja povezuje naizgled odvojene epizode.",
         "reading": "ම්ඔට්ඉව් ක්ඔය්ඉ ස්එ ප්ඔන්අව්ල්ය්අ ප්ඔව්එස්උය්එ න්අඉස්ග්ල්එඩ් ඔඩ්ව්ඔය්එන්එ එප්ඉස්ඔඩ්එ.",
-        "meaning": "අධ්‍යක්ෂ මණ්ඩලය ඵලදායී අධීක්ෂණයට වගකිව යුතුය."
+        "meaning": "නැවත මතුවන රූපකය වෙන වෙනම සිදුවීම් සම්බන්ධ කරයි."
       },
       {
         "text": "Ironija stvara napetost između izgleda i namere.",
         "reading": "ඉර්ඔන්ඉය්අ ස්ට්ව්අර්අ න්අප්එට්ඔස්ට් ඉස්ම්එජ්උ ඉස්ග්ල්එඩ්අ ඉ න්අම්එර්එ.",
-        "meaning": "අධ්‍යක්ෂ මණ්ඩලය ඵලදායී අධීක්ෂණයට වගකිව යුතුය."
+        "meaning": "උපහාසය පෙනුම සහ අරමුණ අතර ආතතියක් ඇති කරයි."
       },
       {
         "text": "Moguće je više uverljivih tumačenja.",
         "reading": "ම්ඔග්උච්එ ය්එ ව්ඉෂ්එ උව්එර්ල්ය්ඉව්ඉහ් ට්උම්අච්එන්ය්අ.",
-        "meaning": "අධ්‍යක්ෂ මණ්ඩලය ඵලදායී අධීක්ෂණයට වගකිව යුතුය."
+        "meaning": "අර්ථකථන කිහිපයක්ම පිළිගත හැකිව පවතී."
       }
     ],
     "dialogue": [
       {
         "text": "Da li pripovedač zna celu istinu?",
         "reading": "ඩ්අ ල්ඉ ප්ර්ඉප්ඔව්එඩ්අච් ස්න්අ ට්ස්එල්උ ඉස්ට්ඉන්උ?",
-        "meaning": "කථකයා සම්පූර්ණ සත්‍යය දන්නවාද?"
+        "meaning": "මෙම මාතෘකාව පිළිබඳ ප්‍රශ්නයක්."
       },
       {
         "text": "Tekst pruža razloge da u to posumnjamo.",
         "reading": "ට්එක්ස්ට් ප්ර්උෂ්අ ර්අස්ල්ඔග්එ ඩ්අ උ ට්ඔ ප්ඔස්උම්න්ය්අම්ඔ.",
-        "meaning": "එය සැක කිරීමට පාඨය හේතු සපයයි."
+        "meaning": "එය හොඳින් සලකා බැලිය යුතු කරුණකි."
       },
       {
         "text": "Može li motiv da nagovesti dodatno značenje?",
         "reading": "ම්ඔෂ්එ ල්ඉ ම්ඔට්ඉව් ඩ්අ න්අග්ඔව්එස්ට්ඉ ඩ්ඔඩ්අට්න්ඔ ස්න්අච්එන්ය්එ?",
-        "meaning": "එම රූපකයෙන් දෙවන අර්ථයක් යෝජනා විය හැකිද?"
+        "meaning": "තවත් විකල්පයක් සලකා බැලිය හැකිද?"
       },
       {
         "text": "Može, naročito kada se ponovo pojavi na kraju.",
         "reading": "ම්ඔෂ්එ, න්අර්ඔච්ඉට්ඔ ක්අඩ්අ ස්එ ප්ඔන්ඔව්ඔ ප්ඔය්අව්ඉ න්අ ක්ර්අය්උ.",
-        "meaning": "ඔව්, විශේෂයෙන් අවසානයේ එය මතුවන විට."
+        "meaning": "ඔව්, සාක්ෂි මත තීරණය කරමු."
       }
     ],
     "listeningPractice": {
@@ -1143,64 +1143,64 @@ export const SERBIAN_C1_LESSONS_41_50 = [
   },
   {
     "id": "sr-c1-l48",
-    "unit": "C1 · transparentnost,uveravanje,dezinformacije,portparol,pravovremenost,pojašnjenje,kredibilitet,zainteresovana strana",
-    "title": "C1 · 48 · transparentnost,uveravanje,dezinformacije,portparol,pravovremenost,pojašnjenje,kredibilitet,zainteresovana strana",
+    "unit": "C1 · Javna komunikacija i krizno informisanje",
+    "title": "C1 · 48 · Javna komunikacija i krizno informisanje",
     "objective": "අර්බුදයකදී නිවැරදි, සංවේදී සහ කාලෝචිත පණිවිඩයක් සකස් කරන්න.",
     "vocabulary": [
       {
         "word": "transparentnost",
         "reading": "ට්ර්අන්ස්ප්අර්එන්ට්න්ඔස්ට්",
         "meaning": "විනිවිදභාවය",
-        "example": "Timely clarification can prevent rumours from spreading.",
+        "example": "Pravovremeno pojašnjenje može sprečiti širenje glasina.",
         "translation": "කාලෝචිත පැහැදිලි කිරීම කටකතා පැතිරීම වළක්වයි."
       },
       {
         "word": "uveravanje",
         "reading": "උව්එර්අව්අන්ය්එ",
         "meaning": "සැනසිලිදායක සහතිකය",
-        "example": "A spokesperson should distinguish facts from estimates.",
+        "example": "Portparol treba da razlikuje činjenice od procena.",
         "translation": "ප්‍රකාශකයා කරුණු සහ ඇස්තමේන්තු වෙන් කළ යුතුය."
       },
       {
         "word": "dezinformacije",
         "reading": "ඩ්එස්ඉන්ෆ්ඔර්ම්අට්ස්ඉය්එ",
         "meaning": "වැරදි තොරතුරු",
-        "example": "Transparency strengthens public credibility.",
+        "example": "Transparentnost jača poverenje javnosti.",
         "translation": "විනිවිදභාවය මහජන විශ්වසනීයත්වය ශක්තිමත් කරයි."
       },
       {
         "word": "portparol",
         "reading": "ප්ඔර්ට්ප්අර්ඔල්",
         "meaning": "ප්‍රකාශකයා",
-        "example": "The message must acknowledge what remains unknown.",
+        "example": "Poruka mora priznati i ono što još nije poznato.",
         "translation": "තවමත් නොදන්නා දේ පණිවිඩය පිළිගත යුතුය."
       },
       {
         "word": "pravovremenost",
         "reading": "ප්ර්අව්ඔව්ර්එම්එන්ඔස්ට්",
         "meaning": "කාලෝචිත බව",
-        "example": "Timely clarification can prevent rumours from spreading.",
+        "example": "Pravovremeno pojašnjenje može sprečiti širenje glasina.",
         "translation": "කාලෝචිත පැහැදිලි කිරීම කටකතා පැතිරීම වළක්වයි."
       },
       {
         "word": "pojašnjenje",
         "reading": "ප්ඔය්අෂ්න්ය්එන්ය්එ",
         "meaning": "පැහැදිලි කිරීම",
-        "example": "A spokesperson should distinguish facts from estimates.",
+        "example": "Portparol treba da razlikuje činjenice od procena.",
         "translation": "ප්‍රකාශකයා කරුණු සහ ඇස්තමේන්තු වෙන් කළ යුතුය."
       },
       {
         "word": "kredibilitet",
         "reading": "ක්ර්එඩ්ඉබ්ඉල්ඉට්එට්",
         "meaning": "විශ්වසනීයත්වය",
-        "example": "Transparency strengthens public credibility.",
+        "example": "Transparentnost jača poverenje javnosti.",
         "translation": "විනිවිදභාවය මහජන විශ්වසනීයත්වය ශක්තිමත් කරයි."
       },
       {
         "word": "zainteresovana strana",
         "reading": "ස්අඉන්ට්එර්එස්ඔව්අන්අ ස්ට්ර්අන්අ",
         "meaning": "අදාළ පාර්ශ්වය",
-        "example": "The message must acknowledge what remains unknown.",
+        "example": "Poruka mora priznati i ono što još nije poznato.",
         "translation": "තවමත් නොදන්නා දේ පණිවිඩය පිළිගත යුතුය."
       }
     ],
@@ -1210,44 +1210,44 @@ export const SERBIAN_C1_LESSONS_41_50 = [
       {
         "text": "Pravovremeno pojašnjenje može sprečiti širenje glasina.",
         "reading": "ප්ර්අව්ඔව්ර්එම්එන්ඔ ප්ඔය්අෂ්න්ය්එන්ය්එ ම්ඔෂ්එ ස්ප්ර්එච්ඉට්ඉ ෂ්ඉර්එන්ය්එ ග්ල්අස්ඉන්අ.",
-        "meaning": "අනුවර්තනය වැළැක්විය නොහැකි වෙනස්කම්වල බලපෑම අඩු කරයි."
+        "meaning": "කාලෝචිත පැහැදිලි කිරීම කටකතා පැතිරීම වළක්වයි."
       },
       {
         "text": "Portparol treba da razlikuje činjenice od procena.",
         "reading": "ප්ඔර්ට්ප්අර්ඔල් ට්ර්එබ්අ ඩ්අ ර්අස්ල්ඉක්උය්එ ච්ඉන්ය්එන්ඉට්ස්එ ඔඩ් ප්ර්ඔට්ස්එන්අ.",
-        "meaning": "අනුවර්තනය වැළැක්විය නොහැකි වෙනස්කම්වල බලපෑම අඩු කරයි."
+        "meaning": "ප්‍රකාශකයා කරුණු සහ ඇස්තමේන්තු වෙන් කළ යුතුය."
       },
       {
         "text": "Transparentnost jača poverenje javnosti.",
         "reading": "ට්ර්අන්ස්ප්අර්එන්ට්න්ඔස්ට් ය්අච්අ ප්ඔව්එර්එන්ය්එ ය්අව්න්ඔස්ට්ඉ.",
-        "meaning": "අනුවර්තනය වැළැක්විය නොහැකි වෙනස්කම්වල බලපෑම අඩු කරයි."
+        "meaning": "විනිවිදභාවය මහජන විශ්වසනීයත්වය ශක්තිමත් කරයි."
       },
       {
         "text": "Poruka mora priznati i ono što još nije poznato.",
         "reading": "ප්ඔර්උක්අ ම්ඔර්අ ප්ර්ඉස්න්අට්ඉ ඉ ඔන්ඔ ෂ්ට්ඔ ය්ඔෂ් න්ඉය්එ ප්ඔස්න්අට්ඔ.",
-        "meaning": "අනුවර්තනය වැළැක්විය නොහැකි වෙනස්කම්වල බලපෑම අඩු කරයි."
+        "meaning": "තවමත් නොදන්නා දේ පණිවිඩය පිළිගත යුතුය."
       }
     ],
     "dialogue": [
       {
         "text": "Kada će biti objavljeno sledeće obaveštenje?",
         "reading": "ක්අඩ්අ ච්එ බ්ඉට්ඉ ඔබ්ය්අව්ල්ය්එන්ඔ ස්ල්එඩ්එච්එ ඔබ්අව්එෂ්ට්එන්ය්එ?",
-        "meaning": "ඊළඟ යාවත්කාලීනය නිකුත් කරන්නේ කවදාද?"
+        "meaning": "මෙම මාතෘකාව පිළිබඳ ප්‍රශ්නයක්."
       },
       {
         "text": "Čim budu dostupni provereni podaci.",
         "reading": "ච්ඉම් බ්උඩ්උ ඩ්ඔස්ට්උප්න්ඉ ප්ර්ඔව්එර්එන්ඉ ප්ඔඩ්අට්ස්ඉ.",
-        "meaning": "තහවුරු කළ සංඛ්‍යා ලැබුණු වහාම."
+        "meaning": "එය හොඳින් සලකා බැලිය යුතු කරුණකි."
       },
       {
         "text": "Da li treba da komentarišemo tvrdnju koja kruži?",
         "reading": "ඩ්අ ල්ඉ ට්ර්එබ්අ ඩ්අ ක්ඔම්එන්ට්අර්ඉෂ්එම්ඔ ට්ව්ර්ඩ්න්ය්උ ක්ඔය්අ ක්ර්උෂ්ඉ?",
-        "meaning": "පැතිරෙන ප්‍රකාශය ගැන අදහස් දැක්විය යුතුද?"
+        "meaning": "තවත් විකල්පයක් සලකා බැලිය හැකිද?"
       },
       {
         "text": "Treba da je ispravimo bez ponavljanja nepotvrđenih detalja.",
         "reading": "ට්ර්එබ්අ ඩ්අ ය්එ ඉස්ප්ර්අව්ඉම්ඔ බ්එස් ප්ඔන්අව්ල්ය්අන්ය්අ න්එප්ඔට්ව්ර්ජ්එන්ඉහ් ඩ්එට්අල්ය්අ.",
-        "meaning": "තහවුරු නොකළ විස්තර නැවත නොකියා එය නිවැරදි කළ යුතුය."
+        "meaning": "ඔව්, සාක්ෂි මත තීරණය කරමු."
       }
     ],
     "listeningPractice": {
@@ -1306,64 +1306,64 @@ export const SERBIAN_C1_LESSONS_41_50 = [
   },
   {
     "id": "sr-c1-l49",
-    "unit": "C1 · izvršni sažetak,merilo,izvodljivost,implikacija,sprovođenje,praćenje,kompromis,preporuka",
-    "title": "C1 · 49 · izvršni sažetak,merilo,izvodljivost,implikacija,sprovođenje,praćenje,kompromis,preporuka",
+    "unit": "C1 · Završni integrisani projekat C1: preporuka zasnovana na dokazima",
+    "title": "C1 · 49 · Završni integrisani projekat C1: preporuka zasnovana na dokazima",
     "objective": "සාක්ෂි විශ්ලේෂණය, විකල්ප සැසඳීම සහ ක්‍රියාත්මක කළ හැකි නිර්දේශයක් ඉදිරිපත් කරන්න.",
     "vocabulary": [
       {
         "word": "izvršni sažetak",
         "reading": "ඉස්ව්ර්ෂ්න්ඉ ස්අෂ්එට්අක්",
         "meaning": "විධායක සාරාංශය",
-        "example": "The executive brief summarises the evidence and decision.",
+        "example": "Izvršni sažetak prikazuje dokaze i predloženu odluku.",
         "translation": "විධායක සාරාංශය සාක්ෂි සහ තීරණය සාරාංශ කරයි."
       },
       {
         "word": "merilo",
         "reading": "ම්එර්ඉල්ඔ",
         "meaning": "සම්මත සැසඳුම",
-        "example": "Each option should be assessed for feasibility.",
+        "example": "Svaku opciju treba proceniti prema izvodljivosti.",
         "translation": "සෑම විකල්පයක්ම ක්‍රියාත්මක කළ හැකි බව අනුව ඇගයිය යුතුය."
       },
       {
         "word": "izvodljivost",
         "reading": "ඉස්ව්ඔඩ්ල්ය්ඉව්ඔස්ට්",
         "meaning": "කළ හැකි බව",
-        "example": "The recommendation includes an implementation timetable.",
+        "example": "Preporuka uključuje vremenski plan sprovođenja.",
         "translation": "නිර්දේශයට ක්‍රියාත්මක කිරීමේ කාලසටහනක් ඇතුළත් වේ."
       },
       {
         "word": "implikacija",
         "reading": "ඉම්ප්ල්ඉක්අට්ස්ඉය්අ",
         "meaning": "ප්‍රතිවිපාකය",
-        "example": "Monitoring will show whether the expected benefits materialise.",
+        "example": "Praćenje će pokazati da li su očekivane koristi ostvarene.",
         "translation": "අපේක්ෂිත ප්‍රතිලාභ සැබෑ වේද යන්න නිරීක්ෂණයෙන් පෙනේ."
       },
       {
         "word": "sprovođenje",
         "reading": "ස්ප්ර්ඔව්ඔජ්එන්ය්එ",
         "meaning": "ක්‍රියාත්මක කිරීම",
-        "example": "The executive brief summarises the evidence and decision.",
+        "example": "Izvršni sažetak prikazuje dokaze i predloženu odluku.",
         "translation": "විධායක සාරාංශය සාක්ෂි සහ තීරණය සාරාංශ කරයි."
       },
       {
         "word": "praćenje",
         "reading": "ප්ර්අච්එන්ය්එ",
         "meaning": "නිරීක්ෂණය",
-        "example": "Each option should be assessed for feasibility.",
+        "example": "Svaku opciju treba proceniti prema izvodljivosti.",
         "translation": "සෑම විකල්පයක්ම ක්‍රියාත්මක කළ හැකි බව අනුව ඇගයිය යුතුය."
       },
       {
         "word": "kompromis",
         "reading": "ක්ඔම්ප්ර්ඔම්ඉස්",
         "meaning": "හුවමාරු තේරීම",
-        "example": "The recommendation includes an implementation timetable.",
+        "example": "Preporuka uključuje vremenski plan sprovođenja.",
         "translation": "නිර්දේශයට ක්‍රියාත්මක කිරීමේ කාලසටහනක් ඇතුළත් වේ."
       },
       {
         "word": "preporuka",
         "reading": "ප්ර්එප්ඔර්උක්අ",
         "meaning": "නිර්දේශය",
-        "example": "Monitoring will show whether the expected benefits materialise.",
+        "example": "Praćenje će pokazati da li su očekivane koristi ostvarene.",
         "translation": "අපේක්ෂිත ප්‍රතිලාභ සැබෑ වේද යන්න නිරීක්ෂණයෙන් පෙනේ."
       }
     ],
@@ -1373,44 +1373,44 @@ export const SERBIAN_C1_LESSONS_41_50 = [
       {
         "text": "Izvršni sažetak prikazuje dokaze i predloženu odluku.",
         "reading": "ඉස්ව්ර්ෂ්න්ඉ ස්අෂ්එට්අක් ප්ර්ඉක්අස්උය්එ ඩ්ඔක්අස්එ ඉ ප්ර්එඩ්ල්ඔෂ්එන්උ ඔඩ්ල්උක්උ.",
-        "meaning": "විශ්වාසදායක සිදුවීම් ආකෘතියක් එහි උපකල්පන පැහැදිලිව සඳහන් කළ යුතුය."
+        "meaning": "විධායක සාරාංශය සාක්ෂි සහ තීරණය සාරාංශ කරයි."
       },
       {
         "text": "Svaku opciju treba proceniti prema izvodljivosti.",
         "reading": "ස්ව්අක්උ ඔප්ට්ස්ඉය්උ ට්ර්එබ්අ ප්ර්ඔට්ස්එන්ඉට්ඉ ප්ර්එම්අ ඉස්ව්ඔඩ්ල්ය්ඉව්ඔස්ට්ඉ.",
-        "meaning": "විශ්වාසදායක සිදුවීම් ආකෘතියක් එහි උපකල්පන පැහැදිලිව සඳහන් කළ යුතුය."
+        "meaning": "සෑම විකල්පයක්ම ක්‍රියාත්මක කළ හැකි බව අනුව ඇගයිය යුතුය."
       },
       {
         "text": "Preporuka uključuje vremenski plan sprovođenja.",
         "reading": "ප්ර්එප්ඔර්උක්අ උක්ල්ය්උච්උය්එ ව්ර්එම්එන්ස්ක්ඉ ප්ල්අන් ස්ප්ර්ඔව්ඔජ්එන්ය්අ.",
-        "meaning": "විශ්වාසදායක සිදුවීම් ආකෘතියක් එහි උපකල්පන පැහැදිලිව සඳහන් කළ යුතුය."
+        "meaning": "නිර්දේශයට ක්‍රියාත්මක කිරීමේ කාලසටහනක් ඇතුළත් වේ."
       },
       {
         "text": "Praćenje će pokazati da li su očekivane koristi ostvarene.",
         "reading": "ප්ර්අච්එන්ය්එ ච්එ ප්ඔක්අස්අට්ඉ ඩ්අ ල්ඉ ස්උ ඔච්එක්ඉව්අන්එ ක්ඔර්ඉස්ට්ඉ ඔස්ට්ව්අර්එන්එ.",
-        "meaning": "විශ්වාසදායක සිදුවීම් ආකෘතියක් එහි උපකල්පන පැහැදිලිව සඳහන් කළ යුතුය."
+        "meaning": "අපේක්ෂිත ප්‍රතිලාභ සැබෑ වේද යන්න නිරීක්ෂණයෙන් පෙනේ."
       }
     ],
     "dialogue": [
       {
         "text": "Koji su najjači dokazi u prilog ovoj opciji?",
         "reading": "ක්ඔය්ඉ ස්උ න්අය්ය්අච්ඉ ඩ්ඔක්අස්ඉ උ ප්ර්ඉල්ඔග් ඔව්ඔය් ඔප්ට්ස්ඉය්ඉ?",
-        "meaning": "මෙම විකල්පයට ඇති ශක්තිමත්ම සාක්ෂිය කුමක්ද?"
+        "meaning": "මෙම මාතෘකාව පිළිබඳ ප්‍රශ්නයක්."
       },
       {
         "text": "Uporedni rezultati i nezavisna procena.",
         "reading": "උප්ඔර්එඩ්න්ඉ ර්එස්උල්ට්අට්ඉ ඉ න්එස්අව්ඉස්න්අ ප්ර්ඔට්ස්එන්අ.",
-        "meaning": "සැසඳුම් ප්‍රතිඵල සහ ස්වාධීන සමාලෝචනයයි."
+        "meaning": "එය හොඳින් සලකා බැලිය යුතු කරුණකි."
       },
       {
         "text": "Koji su glavni kompromisi?",
         "reading": "ක්ඔය්ඉ ස්උ ග්ල්අව්න්ඉ ක්ඔම්ප්ර්ඔම්ඉස්ඉ?",
-        "meaning": "ප්‍රධාන හුවමාරු තේරීම් මොනවාද?"
+        "meaning": "තවත් විකල්පයක් සලකා බැලිය හැකිද?"
       },
       {
         "text": "Veći početni troškovi, ali manji dugoročni rizik.",
         "reading": "ව්එච්ඉ ප්ඔච්එට්න්ඉ ට්ර්ඔෂ්ක්ඔව්ඉ, අල්ඉ ම්අන්ය්ඉ ඩ්උග්ඔර්ඔච්න්ඉ ර්ඉස්ඉක්.",
-        "meaning": "ආරම්භක පිරිවැය වැඩි නමුත් දිගුකාලීන අවදානම අඩුය."
+        "meaning": "ඔව්, සාක්ෂි මත තීරණය කරමු."
       }
     ],
     "listeningPractice": {
