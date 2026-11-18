@@ -27,6 +27,10 @@
 - Sinhala is the default explanation language throughout the app.
 - The main learning goal is practical speaking and listening fluency in Serbian and English; alphabet study is supportive, not the main course.
 - Keep Serbian and English courses and progress separate.
+- **Build Serbian and English in parallel from now on.** Do not finish Serbian first and postpone English. Every new lesson batch, unit, topic, revision set, and major learning feature must be created for BOTH languages in the same development cycle, with equivalent learning objectives and comparable depth.
+- Pair lessons by the same practical topic and CEFR level (for example, introductions in Serbian and English, then greetings, numbers/time, café orders, directions, accommodation, and workplace communication). Adapt grammar and natural expressions correctly for each language; do not force literal translations where they are unnatural.
+- For each paired batch, include vocabulary, Sinhala-script pronunciation, Sinhala meaning, grammar, examples, dialogues, listening, speaking prompts, reading/writing where appropriate, and quizzes in both languages. Keep language-specific progress separate.
+- Before committing a paired lesson batch, check that both language files contain the corresponding topic and comparable exercise coverage. If one side cannot be completed in that cycle, record the exact gap and do not describe the batch as complete.
 - Teach consistently, not just in selected vocabulary cards. For every Serbian word/phrase wherever it appears (vocabulary, dialogues, grammar examples, exercises, quizzes, prompts), provide:
   - Serbian spelling
   - Sinhala-script pronunciation guide
@@ -67,10 +71,10 @@
 - No live API, Supabase migration, Google sign-in or Android device tests have been completed.
 
 ## Next task — resume here
-1. Audit all nine Serbian A1 lessons for target-language snippets embedded inside Sinhala grammar explanations and quiz explanations; extract important phrases into explicit Sinhala-reading/audio cards, and review approximate readings with native-speaker references.
-2. Continue Serbian A1 with practical daily-life lessons on everyday requests, accommodation, directions in buildings and basic services, keeping every Serbian phrase supported by Sinhala meaning, reading and individual audio.
-3. Add saved local progress for lesson checks, listening results and mixed revision; only then design spaced review based on actual saved mastery.
-4. Expand English A1 beyond its six current starter lessons and add equivalent practical speaking/listening content.
+1. **Start synchronized Serbian + English A1 lesson development.** First map existing lessons by topic and identify the gaps on each side; then add the next matching practical topic to both courses in the same batch, with equivalent vocabulary, grammar, examples, dialogues, listening, speaking and quizzes.
+2. Audit target-language phrases embedded in Sinhala grammar/quiz explanations in BOTH languages and ensure each important phrase has a Sinhala-script reading and individual TTS playback.
+3. Add saved local progress for lesson checks, listening results and mixed revision in a language-separated way; only then design spaced review based on actual saved mastery.
+4. Continue through the remaining A1 topics in paired Serbian/English batches before moving both courses together to A2.
 5. Generate a valid `package-lock.json` in a proper npm checkout and update CI to use it.
 6. Implement local persistence for progress, XP, missions, theme and translator history, then safe cloud sync after Supabase configuration.
 7. Replace emoji/text glyph icons with optimized static 3D-style PNG/WebP assets.
@@ -192,3 +196,5 @@
 - 2026-11-18 continuation: Extended Serbian large-number lesson to `dva miliona` (2,000,000), `pet miliona` (5,000,000), `deset miliona` (10,000,000), and `sto miliona` (100,000,000). Added vocabulary, Sinhala meanings, dinar examples, a short explanation of the `milion` / `miliona` forms, quiz items, and exact Sinhala-script readings. Lesson commit: `b33dc5797f52396dc1bc0871e1e3b11d8647d0d1`; pronunciation commit: `e609a67d129e2c5f35b79e36da4e5f61c5dc30af`. Readings are approximate aids; use Serbian audio/native-speaker review for pronunciation.
 
 - 2026-11-18 continuation: Corrected the Serbian A1 number lesson's outdated scope label. Lesson 4 now accurately advertises numbers from 0 to 100 million, and its objective clarifies that it teaches key number patterns and selected examples rather than listing every integer in that range. This avoids promising exhaustive coverage that the lesson does not provide. Lesson commit: `25312256aa299e1178d139a18528bc25d28c5c8d`. Source/document inspection only; no automated test, Expo bundle, native APK build, or Android device test was run. Next: continue Serbian A1 content accuracy review, especially large-number examples and the Sinhala pronunciation/meaning cards; then validate the renderer and saved-vocabulary persistence on Android when a test environment is available.
+
+- 2026-11-18 product-direction update: The user explicitly requested Serbian and English be developed together in parallel, not that Serbian be completed first and English afterward. Updated the non-negotiable teaching requirements and Next task to require paired lesson batches at the same CEFR level/topic, comparable learning depth and exercises, and a balance check before marking a batch complete. Language-specific grammar and natural phrasing must remain correct; courses/progress remain separate. This change updates project workflow/documentation only; no lesson content or app code was changed in this commit. HANDOFF commit: 
