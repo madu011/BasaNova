@@ -243,4 +243,54 @@ export const ENGLISH_A1_LESSONS = [
  {prompt:"“කරුණාකර මට පෙන්වන්න” යන්න තෝරන්න.",options:["Please show me.","Be careful.","That's all, thank you."],readings:["ප්ලීස් ෂෝ මී.","බී කෙයර්ෆුල්.","දැට්ස් ඕල්, තෑන්ක් යූ."],answer:0,explanation:"Please show me යනු යමක් පෙන්වන ලෙස ආචාරශීලීව ඉල්ලීමයි."}
  ]
  }
-];
+
+ ,
+ {id:"en-a1-u2-l1",unit:"නවාතැන් සහ දෛනික සේවා",title:"පාඩම 7 · හෝටලයක කාමරයක් වෙන් කිරීම",objective:"හෝටලයක කාමරයක් තිබේදැයි විමසීම, මිල අසීම, වෙන් කිරීම සහ සරල ගැටලුවක් පැහැදිලි කිරීම",
+ vocabulary:[
+ {word:"Room",reading:"රූම්",meaning:"කාමරය",example:"I need a room.",exampleReading:"අයි නීඩ් අ රූම්.",translation:"මට කාමරයක් අවශ්‍යයි."},
+ {word:"Do you have a room?",reading:"ඩූ යූ හැව් අ රූම්?",meaning:"ඔබට කාමරයක් තිබෙනවාද?",example:"Hello, do you have a room for tonight?",exampleReading:"හෙලෝ, ඩූ යූ හැව් අ රූම් ෆෝර් ටුනයිට්?",translation:"හෙලෝ, අද රාත්‍රියට ඔබට කාමරයක් තිබෙනවාද?"},
+ {word:"Single room",reading:"සිංගල් රූම්",meaning:"තනි පුද්ගලයෙකුට කාමරය",example:"I would like a single room.",exampleReading:"අයි වුඩ් ලයික් අ සිංගල් රූම්.",translation:"මට තනි පුද්ගල කාමරයක් අවශ්‍යයි."},
+ {word:"Double room",reading:"ඩබල් රූම්",meaning:"දෙදෙනෙකුට කාමරය",example:"Do you have a double room?",exampleReading:"ඩූ යූ හැව් අ ඩබල් රූම්?",translation:"ඔබට දෙදෙනෙකුට කාමරයක් තිබෙනවාද?"},
+ {word:"How much is it per night?",reading:"හවු මච් ඉස් ඉට් පර් නයිට්?",meaning:"එක් රාත්‍රියකට කීයද?",example:"How much is it per night?",exampleReading:"හවු මච් ඉස් ඉට් පර් නයිට්?",translation:"එක් රාත්‍රියකට කීයද?"},
+ {word:"I have a reservation.",reading:"අයි හැව් අ රෙසර්වේෂන්.",meaning:"මට වෙන් කිරීමක් තිබෙනවා.",example:"Hello, I have a reservation.",exampleReading:"හෙලෝ, අයි හැව් අ රෙසර්වේෂන්.",translation:"හෙලෝ, මට වෙන් කිරීමක් තිබෙනවා."},
+ {word:"For two nights",reading:"ෆෝර් ටූ නයිට්ස්",meaning:"රාත්‍රී දෙකකට",example:"I need a room for two nights.",exampleReading:"අයි නීඩ් අ රූම් ෆෝර් ටූ නයිට්ස්.",translation:"මට රාත්‍රී දෙකකට කාමරයක් අවශ්‍යයි."},
+ {word:"Breakfast included",reading:"බ්‍රෙක්ෆස්ට් ඉන්ක්ලූඩිඩ්",meaning:"උදෑසන ආහාරය ඇතුළත්",example:"Is breakfast included?",exampleReading:"ඉස් බ්‍රෙක්ෆස්ට් ඉන්ක්ලූඩිඩ්?",translation:"උදෑසන ආහාරය ඇතුළත්ද?"},
+ {word:"Wi-Fi password",reading:"වයිෆයි පාස්වර්ඩ්",meaning:"Wi-Fi මුරපදය",example:"What is the Wi-Fi password?",exampleReading:"වොට් ඉස් ද වයිෆයි පාස්වර්ඩ්?",translation:"Wi-Fi මුරපදය කුමක්ද?"},
+ {word:"The key",reading:"ද කී",meaning:"යතුර",example:"Here is the key.",exampleReading:"හියර් ඉස් ද කී.",translation:"මෙන්න යතුර."},
+ {word:"The air conditioning doesn't work.",reading:"දි එයාර් කන්ඩිෂනින් ඩසන්ට් වර්ක්.",meaning:"වායුසමීකරණය වැඩ කරන්නේ නැහැ.",example:"Excuse me, the air conditioning doesn't work.",exampleReading:"ඉක්ස්කියූස් මී, දි එයාර් කන්ඩිෂනින් ඩසන්ට් වර්ක්.",translation:"සමාවෙන්න, වායුසමීකරණය වැඩ කරන්නේ නැහැ."},
+ {word:"Can you help me?",reading:"කැන් යූ හෙල්ප් මී?",meaning:"ඔබට මට උදව් කරන්න පුළුවන්ද?",example:"Can you help me with this, please?",exampleReading:"කැන් යූ හෙල්ප් මී විත් දිස්, ප්ලීස්?",translation:"කරුණාකර මේ ගැන මට උදව් කරන්න පුළුවන්ද?"}
+ ],
+ grammarTitle:"ඉල්ලීම් සහ ප්‍රශ්න රටා",
+ grammar:"කාමරයක් තිබේදැයි අසන්න “Do you have ...?” භාවිත කරන්න. ආචාරශීලීව යමක් ඉල්ලීමට “I would like ...” කියන්න. මිල අසන්න “How much is it ...?” යොදන්න. ගැටලුවක් පැහැදිලි කිරීමට “... doesn't work” භාවිත කළ හැක.",
+ grammarTerms:[
+ {text:"Do you have a room?",reading:"ඩූ යූ හැව් අ රූම්?",meaning:"ඔබට කාමරයක් තිබෙනවාද?"},
+ {text:"I would like a single room.",reading:"අයි වුඩ් ලයික් අ සිංගල් රූම්.",meaning:"මට තනි පුද්ගල කාමරයක් අවශ්‍යයි."},
+ {text:"How much is it per night?",reading:"හවු මච් ඉස් ඉට් පර් නයිට්?",meaning:"එක් රාත්‍රියකට කීයද?"},
+ {text:"Is breakfast included?",reading:"ඉස් බ්‍රෙක්ෆස්ට් ඉන්ක්ලූඩිඩ්?",meaning:"උදෑසන ආහාරය ඇතුළත්ද?"},
+ {text:"The air conditioning doesn't work.",reading:"දි එයාර් කන්ඩිෂනින් ඩසන්ට් වර්ක්.",meaning:"වායුසමීකරණය වැඩ කරන්නේ නැහැ."}
+ ],
+ examples:[
+ {text:"Do you have a double room for tonight?",reading:"ඩූ යූ හැව් අ ඩබල් රූම් ෆෝර් ටුනයිට්?",meaning:"අද රාත්‍රියට ඔබට දෙදෙනෙකුට කාමරයක් තිබෙනවාද?"},
+ {text:"I would like to stay for two nights.",reading:"අයි වුඩ් ලයික් ටු ස්ටේ ෆෝර් ටූ නයිට්ස්.",meaning:"මට රාත්‍රී දෙකක් නවාතැන් ගන්න අවශ්‍යයි."},
+ {text:"Is Wi-Fi included in the price?",reading:"ඉස් වයිෆයි ඉන්ක්ලූඩිඩ් ඉන් ද ප්‍රයිස්?",meaning:"මිලට Wi-Fi ඇතුළත්ද?"},
+ {text:"Excuse me, the air conditioning doesn't work.",reading:"ඉක්ස්කියූස් මී, දි එයාර් කන්ඩිෂනින් ඩසන්ට් වර්ක්.",meaning:"සමාවෙන්න, වායුසමීකරණය වැඩ කරන්නේ නැහැ."}
+ ],
+ dialogue:[
+ {text:"Good evening. Do you have a double room?",reading:"ගුඩ් ඊව්නින්. ඩූ යූ හැව් අ ඩබල් රූම්?",meaning:"සුබ සන්ධ්‍යාවක්. ඔබට දෙදෙනෙකුට කාමරයක් තිබෙනවාද?"},
+ {text:"Yes, we do. For how many nights?",reading:"යෙස්, වී ඩූ. ෆෝර් හවු මෙනි නයිට්ස්?",meaning:"ඔව්, තිබෙනවා. රාත්‍රී කීයකටද?"},
+ {text:"For two nights, please. How much is it per night?",reading:"ෆෝර් ටූ නයිට්ස්, ප්ලීස්. හවු මච් ඉස් ඉට් පර් නයිට්?",meaning:"රාත්‍රී දෙකකට, කරුණාකර. එක් රාත්‍රියකට කීයද?"},
+ {text:"It is sixty euros per night. Breakfast is included.",reading:"ඉට් ඉස් සික්ස්ටි යූරෝස් පර් නයිට්. බ්‍රෙක්ෆස්ට් ඉස් ඉන්ක්ලූඩිඩ්.",meaning:"එක් රාත්‍රියකට යුරෝ හැටයි. උදෑසන ආහාරය ඇතුළත්."},
+ {text:"Great. I have a reservation under the name Alex.",reading:"ග්‍රේට්. අයි හැව් අ රෙසර්වේෂන් අන්ඩර් ද නේම් ඇලෙක්ස්.",meaning:"හොඳයි. ඇලෙක්ස් නමින් මට වෙන් කිරීමක් තිබෙනවා."},
+ {text:"Here is your key. The Wi-Fi password is on the card.",reading:"හියර් ඉස් යෝර් කී. ද වයිෆයි පාස්වර්ඩ් ඉස් ඔන් ද කාඩ්.",meaning:"මෙන්න ඔබේ යතුර. Wi-Fi මුරපදය කාඩ්පතේ තිබෙනවා."},
+ {text:"Thank you. Excuse me, the air conditioning doesn't work.",reading:"තෑන්ක් යූ. ඉක්ස්කියූස් මී, දි එයාර් කන්ඩිෂනින් ඩසන්ට් වර්ක්.",meaning:"ස්තුතියි. සමාවෙන්න, වායුසමීකරණය වැඩ කරන්නේ නැහැ."},
+ {text:"I'm sorry. I will ask someone to check it.",reading:"අයිම් සොරි. අයි විල් ආස්ක් සම්වන් ටු චෙක් ඉට්.",meaning:"සමාවෙන්න. මම කෙනෙකුට එය පරීක්ෂා කරන්න කියන්නම්."}
+ ],
+ listeningPractice:{prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Is breakfast included?”",audio:"Is breakfast included?",options:["උදෑසන ආහාරය ඇතුළත්ද?","කාමරය කොහෙද?","මට යතුරක් අවශ්‍යයි."],readings:["ඉස් බ්‍රෙක්ෆස්ට් ඉන්ක්ලූඩිඩ්?","වෙයාර් ඉස් ද රූම්?","අයි නීඩ් අ කී."],answer:0,meaning:"Is breakfast included? = උදෑසන ආහාරය ඇතුළත්ද?"},
+ practice:[
+ {prompt:"“ඔබට දෙදෙනෙකුට කාමරයක් තිබෙනවාද?” තෝරන්න.",options:["Do you have a double room?","Where is the bus stop?","How are you today?"],readings:["ඩූ යූ හැව් අ ඩබල් රූම්?","වෙයාර් ඉස් ද බස් ස්ටොප්?","හවු ආර් යූ ටුඩේ?"],answer:0,explanation:"Do you have ...? යනු යමක් තිබේදැයි අසන ප්‍රශ්න රටාවයි."},
+ {prompt:"“එක් රාත්‍රියකට කීයද?” අසන්නේ කෙසේද?",options:["What is your name?","How much is it per night?","Can you help me?"],readings:["වොට් ඉස් යෝර් නේම්?","හවු මච් ඉස් ඉට් පර් නයිට්?","කැන් යූ හෙල්ප් මී?"],answer:1,explanation:"How much is it ...? යොදාගෙන මිල අසන්න."},
+ {prompt:"“උදෑසන ආහාරය ඇතුළත්ද?” යන්න තෝරන්න.",options:["Is breakfast included?","I have a reservation.","Here is the key."],readings:["ඉස් බ්‍රෙක්ෆස්ට් ඉන්ක්ලූඩිඩ්?","අයි හැව් අ රෙසර්වේෂන්.","හියර් ඉස් ද කී."],answer:0,explanation:"Included යනු යම් මිලකට හෝ සේවාවකට ඇතුළත් යන්නයි."},
+ {prompt:"වායුසමීකරණය වැඩ නොකරන බව කියන්නේ?",options:["The room is ready.","The air conditioning doesn't work.","Breakfast is included."],readings:["ද රූම් ඉස් රෙඩි.","දි එයාර් කන්ඩිෂනින් ඩසන්ට් වර්ක්.","බ්‍රෙක්ෆස්ට් ඉස් ඉන්ක්ලූඩිඩ්."],answer:1,explanation:"Doesn't work යනු වැඩ කරන්නේ නැහැ යන අර්ථයයි."}
+ ]
+ }
+];\n
