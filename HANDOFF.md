@@ -468,3 +468,14 @@
 - Validation performed in this session is source-level only so far; re-fetch and verify the final arrays and curriculum before reporting completion. The new lesson batch uses reusable practice scaffolding and some generalized examples; Sinhala-script readings and Serbian naturalness need fluent-speaker/editorial review. These records are learning drafts, not CEFR certification.
 - No Expo/JavaScript build, CI pass, APK artifact, installation or physical-device test was run.
 - Next: add paired B2 lessons 41–50, then build B2 cumulative revision and scored final assessments for both languages. Afterward audit language quality and run build/Android verification.
+
+
+## Latest session — B2 lessons 41–50 (2026-11-18)
+
+- Added the final 10 paired Serbian and English B2 lesson records. Both lesson arrays now contain 50 sequential unique lessons (50/50 per language).
+- Topics: international cooperation and diplomacy; crisis communication and resilience; advanced negotiation; literature and critical interpretation; professional correspondence and reports; social inequality and inclusion; sustainable tourism; innovation and entrepreneurship; linguistic nuance and idiomatic expression; integrated B2 communication and reflection.
+- Serbian data commit: `f5abddcf55b32992d0e931e620b3211563ad246c`; English data commit: `6debb692f0e6ed463b1210c4a76418391eb8f562`; curriculum status update: `d7fde0f434552f3482d3a54108337143605f9dca`; README update: `5743b1d4c24908f7c16732b73aceef7ff30a2881`.
+- Existing App.js B2 panel consumes the arrays; no new panel or import is needed. Curriculum records 50 authored lessons in each language and zero remaining lesson records.
+- Source-level validation is pending re-fetch in this session. Content limitations: Sinhala pronunciation is approximate; Serbian idiom and grammar, translations, and English/Sinhala readings need editorial review. Newer batches use reusable practice scaffolding and require richer contextual dialogues and more topic-specific exercises. 50 lesson records do not constitute CEFR certification.
+- No Expo/JavaScript build, CI pass, APK artifact, installation or physical-device test was run.
+- Next: create paired B2 cumulative revision and scored final assessments (Serbian and English), using language-specific question sets, listening/TTS prompts, valid answer keys, score feedback and a retry flow. Then audit language quality and run build/Android verification.
