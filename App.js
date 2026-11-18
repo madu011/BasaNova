@@ -376,13 +376,13 @@ export default function App(){
     <Text style={s.eyebrow}>📖 BASANOVA · VOCABULARY LIBRARY</Text>
     <Text style={s.cardTitle}>{language==="Serbian"?"🇷🇸 Serbian":"🇬🇧 English"} වචන පොත</Text>
     <Text style={s.sub}>පාඩම්, උදාහරණ, සංවාද සහ වචන එකතුවෙන් සකස් කළ වචන සහ වාක්‍ය. අලුත් අන්තර්ගතය එකතු වන විට මෙයද ස්වයංක්‍රීයව යාවත්කාලීන වේ.</Text>
-    <TouchableOpacity onPress={()=>setShowFavoritesOnly(v=>!v)} style={[s.action,{backgroundColor:showFavoritesOnly?C.gold:C.panel2,borderWidth:1,borderColor:C.line}]}><Text style={[s.actionText,{color:showFavoritesOnly?C.bg:C.teal}]}>★ {showFavoritesOnly?"සුරැකි වචන පමණක්":"සුරැකි වචන බලන්න"} · {favoriteWords.length}</Text></TouchableOpacity>
+    <TouchableOpacity accessibilityRole="button" accessibilityLabel={showFavoritesOnly?"සියලු වචන වෙත යන්න":"සුරැකි වචන පමණක් පෙන්වන්න"} onPress={()=>{setShowFavoritesOnly(v=>!v);setVocabLetter("ALL");setVocabSearch("");}} style={[s.action,{backgroundColor:showFavoritesOnly?C.gold:C.panel2,borderWidth:1,borderColor:C.line}]}><Text style={[s.actionText,{color:showFavoritesOnly?C.bg:C.teal}]}>★ {showFavoritesOnly?"සියලු වචන බලන්න":"සුරැකි වචන බලන්න"} · {favoriteWords.length}</Text></TouchableOpacity>
     <View style={s.vocabSummary}><Text style={s.vocabCount}>{filteredVocabulary.length}</Text><Text style={s.sub}>පෙන්වන වචන / වාක්‍ය · මුළු එකතුව {vocabularyEntries.length}</Text></View>
     <TextInput value={vocabSearch} onChangeText={setVocabSearch} placeholder="වචනයක්, තේරුමක් හෝ උච්චාරණයක් සොයන්න..." placeholderTextColor={C.muted} style={s.vocabSearch}/>
     <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={{gap:7,paddingVertical:12}}>
      {alphabetLetters.map(letter=><TouchableOpacity key={letter} onPress={()=>setVocabLetter(letter)} style={[s.vocabLetter,vocabLetter===letter&&s.vocabLetterActive]}><Text style={[s.vocabLetterText,vocabLetter===letter&&s.vocabLetterTextActive]}>{letter==="ALL"?"සියල්ල":letter}</Text></TouchableOpacity>)}
     </ScrollView>
-    {filteredVocabulary.length===0?<Text style={s.sub}>මේ අකුරෙන් හෝ සෙවුමට ගැළපෙන වචන හමු වුණේ නැහැ.</Text>:filteredVocabulary.map((item,i)=><View key={item.word+"-"+i} style={s.vocabEntry}>
+    {filteredVocabulary.length===0?<Text style={s.sub}>{showFavoritesOnly?"තවම සුරැකි වචන නැහැ. ☆ බොත්තම ඔබලා වචන සුරකින්න.":"මේ අකුරෙන් හෝ සෙවුමට ගැළපෙන වචන හමු වුණේ නැහැ."}</Text>:filteredVocabulary.map((item,i)=><View key={item.word+"-"+i} style={s.vocabEntry}>
      <View style={s.vocabEntryTop}><Text style={s.vocabWord}>{item.word}</Text><TouchableOpacity accessibilityRole="button" accessibilityLabel={favoriteWords.includes(item.word)?"සුරැකි වචනවලින් ඉවත් කරන්න":"වචනය සුරකින්න"} onPress={()=>toggleFavorite(item.word)}><Text style={{fontSize:20,color:favoriteWords.includes(item.word)?C.gold:C.muted}}>{favoriteWords.includes(item.word)?"★":"☆"}</Text></TouchableOpacity><Text style={s.vocabSource}>{item.source}</Text></View>
      <Text style={s.sound}>සිංහල උච්චාරණය: {item.reading}</Text>
      <Text style={s.vocabMeaning}>{item.meaning}</Text>
