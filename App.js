@@ -9,6 +9,7 @@ import { COURSE_LEVELS, LESSON_METHOD } from "./curriculum";
 import { SERBIAN_A1_LESSONS } from "./serbianLessons";
 import { SERBIAN_A1_LISTENING, SERBIAN_A1_MIXED_REVISION } from "./serbianRevision";
 import { ENGLISH_A1_LESSONS } from "./englishLessons";
+import { SERBIAN_A1_FINAL_EXAM, ENGLISH_A1_FINAL_EXAM } from "./a1FinalExams";
 import { SERBIAN_EXTRA_VOCAB, ENGLISH_EXTRA_VOCAB } from "./vocabularyPacks";
 import { SERBIAN_VOCAB_PACK_2, ENGLISH_VOCAB_PACK_2 } from "./vocabularyPack2";
 import { SERBIAN_VOCAB_PACK_3, ENGLISH_VOCAB_PACK_3 } from "./vocabularyPack3";
@@ -710,6 +711,21 @@ export default function App(){
      <Text style={s.sub}>මෙම ප්‍රශ්නවල පිළිතුරු සහ ප්‍රගතිය ඔබගේ දුරකථනයේ ස්වයංක්‍රීයව සුරැකේ.</Text>
     </View>
    </View>}
+   <View style={s.quizCard}>
+    <Text style={s.lessonHeading}>🏆 {language} A1 · අවසාන පරීක්ෂණය</Text>
+    <Text style={s.sub}>ප්‍රශ්න 20යි. එක් ප්‍රශ්නයකට ලකුණු 1යි. හඬ අසා සිංහල තේරුම තෝරන්න. 70% හෝ ඊට වැඩි ලකුණු ලබාගැනීම ඉලක්කයයි. කථන කොටස සඳහා අවසානයේ ඔබම හඬින් පිළිතුරු පුහුණු කරන්න; යෙදුම තවම කථනය ස්වයංක්‍රීයව ලකුණු කරන්නේ නැහැ.</Text>
+    {(()=>{const exam=language==="Serbian"?SERBIAN_A1_FINAL_EXAM:ENGLISH_A1_FINAL_EXAM;const prefix=language.toLowerCase()+"-a1-final-";const done=exam.filter((q)=>lessonChecked[q.id]).length;const score=exam.filter(q=>lessonChecked[q.id]&&lessonAnswers[q.id]===q.answer).length;return <View>
+     <Text style={s.sound}>සම්පූර්ණ කරලා: {done}/{exam.length} · ලකුණු: {score}/{exam.length}{done===exam.length?" · "+Math.round(score/exam.length*100)+"%":""}</Text>
+     {exam.map((q,qi)=>{const selected=lessonAnswers[q.id];const checked=lessonChecked[q.id];return <View key={q.id} style={s.quizCard}>
+      <Text style={s.sub}>{q.prompt}</Text><Text style={s.lessonSerbian}>{q.audio}</Text><Text style={s.sound}>සිංහල උච්චාරණය: {q.reading}</Text>
+      <TouchableOpacity onPress={()=>speak(q.audio,language)} style={s.action}><Text style={s.actionText}>🔊 හඬ නැවත අහන්න</Text></TouchableOpacity>
+      {q.options.map((option,oi)=><TouchableOpacity key={q.id+"-"+oi} disabled={!!checked} onPress={()=>setLessonAnswers(v=>({...v,[q.id]:oi}))} style={[s.quizOption,selected===oi&&s.quizSelected,checked&&oi===q.answer&&s.quizCorrect,checked&&selected===oi&&selected!==q.answer&&s.quizWrong]}><Text style={s.quizOptionText}>{String.fromCharCode(65+oi)}. {option}</Text></TouchableOpacity>)}
+      {checked?<Text style={s.sub}>{selected===q.answer?"නිවැරදියි! ✓":"නිවැරදි පිළිතුර: "+q.options[q.answer]}</Text>:<TouchableOpacity disabled={selected===undefined} onPress={()=>setLessonChecked(v=>({...v,[q.id]:true}))} style={[s.action,selected===undefined&&{opacity:0.45}]}><Text style={s.actionText}>පිළිතුර තහවුරු කරන්න</Text></TouchableOpacity>}
+     </View>})}
+     {done===exam.length&&<View style={s.example}><Text style={s.cardTitle}>{score>=14?"🎉 A1 පරීක්ෂණය සමත්!":"📘 තව පුහුණුව අවශ්‍යයි"}</Text><Text style={s.sub}>ඔබේ ප්‍රතිඵලය {score}/20 ({Math.round(score/20*100)}%). {score>=14?"හොඳ වැඩක්! දැන් කථන පුහුණුව කරන්න.":"වැරදුණු පාඩම් නැවත බලලා පරීක්ෂණය නැවත කරන්න."}</Text><Text style={s.lessonHeading}>🗣️ කථන ස්වයං පුහුණුව</Text><Text style={s.sub}>1. ඔබේ නම සහ ඔබ ජීවත් වන නගරය කියන්න.</Text><Text style={s.sub}>2. ඔබේ දෛනික වැඩ සහ වේලාවන් ගැන වාක්‍ය 3ක් කියන්න.</Text><Text style={s.sub}>3. කඩයකදී භාණ්ඩයක් ඉල්ලා මිල අසන්න.</Text><Text style={s.sub}>4. නැවතුම්පොළක් හෝ වෛද්‍යවරයෙක් ගැන උදව් ඉල්ලන්න.</Text><Text style={s.sub}>මෙම කථන කොටස ඔබම පුහුණු කරගන්න; ස්වයංක්‍රීය කථන ලකුණු කිරීම තවම නැහැ.</Text></View>}
+     <TouchableOpacity onPress={()=>{setLessonAnswers(v=>{const n={...v};exam.forEach(q=>delete n[q.id]);return n;});setLessonChecked(v=>{const n={...v};exam.forEach(q=>delete n[q.id]);return n;});}} style={[s.action,{marginTop:12}]}><Text style={s.actionText}>↻ අවසාන පරීක්ෂණය නැවත ආරම්භ කරන්න</Text></TouchableOpacity>
+    </View>})()}
+   </View>
    <View style={s.panel}><Text style={s.eyebrow}>📖 {language.toUpperCase()} · BEGINNER</Text><Text style={s.word}>{current.word}</Text><Text style={s.sound}>සිංහල උච්චාරණය: {language==="Serbian"?pronounceSinhala(current.word):current.sound}</Text><Text style={s.meaning}>{current.meaning}</Text>{language==="Serbian"&&<Text style={s.sound}>කියන විදිහ: {pronounceSinhala(current.word)}</Text>}<Action onPress={()=>speak(current.word,language)}>🔊 {language} හඬ අහන්න</Action><View style={s.example}><Text style={s.sub}>💬 උදාහරණ වාක්‍යය</Text><Text style={s.exampleWord}>{current.example}</Text>{language==="Serbian"&&<Text style={s.sound}>සිංහලෙන් කියන විදිහ: {pronounceSinhala(current.example)}</Text>}{language==="English"&&<Text style={s.sound}>සිංහල අකුරෙන් උච්චාරණය (ආසන්නව): {pronounceEnglishSinhala(current.example)}</Text>}<Text style={s.sub}>{current.translation}</Text><TouchableOpacity onPress={()=>speak(current.example,language)}><Text style={s.link}>▶ {language} වාක්‍ය හඬ අහන්න</Text></TouchableOpacity></View><Action onPress={mark}>මම මේක ඉගෙනගත්තා ✓</Action><Action secondary onPress={next}>ඊළඟ වචනය →</Action></View><View style={s.panel}><Text style={s.cardTitle}>🗺️ සම්පූර්ණ {language} පාඨමාලා මාර්ගසටහන</Text><Text style={s.sub}>A1 සිට C2 දක්වා සියලු මට්ටම් සැලසුම් කර ඇත. පහත දැක්වෙන්නේ පාඩම් අන්තර්ගතය සකස් කරන මාර්ගසටහනයි; සියලු ඒකක තවම සම්පූර්ණ කර නැත.</Text>{COURSE_LEVELS.map(level=><View key={level.id} style={s.soundCard}><View style={s.soundHead}><Text style={s.soundLetters}>{LEVEL_LABELS[level.id]}</Text><Text style={s.soundName}>{level.title}</Text></View><Text style={s.sub}>{level.goal}</Text>{level.units.map((unit,i)=><Text key={unit} style={s.sub}>{i+1}. {unit}</Text>)}</View>)}<Text style={s.cardTitle}>🧩 සෑම පාඩමකම ඉගෙනුම් ක්‍රමය</Text>{LESSON_METHOD.map((item,i)=><Text key={item} style={s.sub}>{item}</Text>)}</View>
 
     </>}
