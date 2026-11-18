@@ -388,7 +388,7 @@ const speak=async(text,lang)=>{
  Speech.stop();
  if(GOOGLE_TTS_ENDPOINT){
   try{
-   const response=await fetch(GOOGLE_TTS_ENDPOINT.replace(/\\/$/,"")+"/speak",{
+   const response=await fetch(GOOGLE_TTS_ENDPOINT.replace(/\/+$/, "")+"/speak",{
     method:"POST",
     headers:{"Content-Type":"application/json"},
     body:JSON.stringify({text:phrase,language:lang==="Serbian"?"sr-RS":"en-US"})
