@@ -69,12 +69,12 @@ export const B1_COURSE_STATUS = {
 };
 
 
-// B2 paired lesson content milestone; not a CEFR certification.
+// B2 paired lesson content milestone; this records authored lesson count, not CEFR certification.
 export const B2_COURSE_STATUS = {
   plannedLessons: 50,
-  authoredLessons: { Serbian: 40, English: 40 },
+  authoredLessons: { Serbian: 50, English: 50 },
   pairedTopics: true,
-  remainingLessons: 10,
-  completedBatch: "lessons 1-40 in both languages",
-  remainingValidation: ["editorial review of Serbian idiom, grammar and Sinhala pronunciation", "review English-to-Sinhala translations and example quality", "expand contextual dialogues and topic-specific vocabulary practice", "complete lessons 41-50", "B2 cumulative revision and final assessments", "CI and Android device verification"]
+  remainingLessons: 0,
+  completedBatch: "lessons 1-50 in both languages",
+  remainingValidation: ["editorial review of Serbian idiom, grammar and Sinhala pronunciation", "review English-to-Sinhala translations and example quality", "expand contextual dialogues and topic-specific vocabulary practice", "create cumulative B2 revision and final assessments", "CI and Android device verification"]
 };
