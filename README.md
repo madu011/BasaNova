@@ -229,3 +229,8 @@ BasaNova can use Google Cloud Text-to-Speech for natural Serbian and English pla
 5. Rebuild the Android app. The app calls the online Google voice service for every existing Serbian/English audio button. If the service URL is not configured or the request fails, it falls back to the device's built-in speech voice.
 
 The Worker accepts only Serbian (`sr-RS`) and English (`en-US`), limits text to 5,000 characters, returns MP3 audio, and keeps the Google key server-side. Google Cloud usage may incur charges; configure API restrictions, quotas and billing alerts before public release.
+
+
+### Voice service deployment and request protection
+
+The Cloudflare Worker uses the included `cloudflare/wrangler.toml` rate-limit binding (30 requests per client IP per 60 seconds). Deploy from the `cloudflare` directory with Wrangler, set the Worker secret `GOOGLE_TTS_API_KEY`, and configure GitHub Actions variable `EXPO_PUBLIC_VOICE_API_URL` to the deployed Worker URL. Keep the Google API key in the Worker secret store; never commit it to Git.
