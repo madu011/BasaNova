@@ -47,21 +47,21 @@
 
 ## Progress snapshot — 2026-11-18
 
-**Estimated overall app completion: 47%.** This is a planning estimate of product scope completed, not a measured code percentage or a guarantee that every listed feature has passed device testing. Recalculate it when substantial features are implemented.
+**Estimated overall app completion: 50%.** This is a planning estimate of product scope completed, not a measured code percentage or a guarantee that every listed feature has passed device testing. Recalculate it when substantial features are implemented.
 
 | Workstream | Estimated completion | Notes |
 |---|---:|---|
 | App foundation, navigation and visual shell | 70% | Expo app, language modes, core tabs and theme are present; final UI polish and accessibility remain |
 | Vocabulary and reference library | 85% | README records 577 Serbian + 575 English standard vocabulary entries after pack 12; A–Z dictionary, search and saved-word filter exist |
-| Structured language curriculum | 29% | 23 Serbian + 23 English structured A1 lesson objects are present, with visible numbering through lesson 26; A1 still needs broader coverage and all A2–C2 lesson content is outstanding |
+| Structured language curriculum | 31% | 25 Serbian + 25 English structured A1 lesson objects are present, with visible numbering through lesson 28; A1 still needs broader coverage and all A2–C2 lesson content is outstanding |
 | Learning interactions | 73% | TTS, paired lesson quizzes/listening exercises, authored Sinhala readings, mixed revision and vocabulary examples exist; speaking feedback and broader assessments remain |
-| Progress persistence and accounts | 15% | Vocabulary bookmarks are saved locally; lesson mastery/XP and full account/cloud sync are not yet complete |
+| Progress persistence and accounts | 40% | AsyncStorage saves selected language, lesson/revision checks, vocabulary, XP/missions, theme and translator history locally; account and cloud sync remain outstanding |
 | Advanced services and offline support | 20% | Translator and preview-level AI area exist; live AI tutor, speech recognition and complete offline packs are not implemented |
-| QA, native build and release readiness | 5% | Some earlier CI/bundle checks exist, but latest source has not been fully validated; no verified native APK/device installation |
+| QA, native build and release readiness | 15% | Expo validation and Android JS bundle export pass on current source; native debug APK workflow has been added and is running, but no APK artifact or device installation is yet verified |
 
 **How the estimate is weighted:** app foundation 15%, vocabulary/library 15%, structured curriculum 30%, learning interactions 15%, persistence/accounts 10%, advanced services/offline 10%, QA/release 5%. Applying the workstream estimates gives approximately 47%.
 
-**Current learning-content count:** 23 Serbian A1 lesson objects and 23 English A1 lesson objects; visible lesson numbering now reaches lesson 26. Paired topics include food/cooking, weather/clothing, restaurant ordering, customer service, phone calls, parcels and doctor/health. Lesson 26 in each language contains eight vocabulary entries, grammar phrase cards, four examples, a six-line dialogue, four practice questions and one listening task. The Serbian listening and mixed-revision arrays need continued array-to-lesson order checks as content is added. Earlier lessons still need a complete topic-by-topic audit; do not assume the entire syllabus is fully aligned.
+**Current learning-content count:** 25 Serbian A1 lesson objects and 25 English A1 lesson objects; visible lesson numbering now reaches lesson 28. Paired topics include food/cooking, weather/clothing, restaurant ordering, customer service, phone calls, parcels and doctor/health. Lesson 26 in each language contains eight vocabulary entries, grammar phrase cards, four examples, a six-line dialogue, four practice questions and one listening task. The Serbian listening and mixed-revision arrays need continued array-to-lesson order checks as content is added. Earlier lessons still need a complete topic-by-topic audit; do not assume the entire syllabus is fully aligned.
 
 **Not yet verified:** latest full CI run, native Android APK build, APK installation, physical-device runtime, complete offline behavior, and end-to-end persistence of lesson progress. Do not treat the 46% estimate as build/test certification.
 
@@ -93,7 +93,8 @@
 - No live API, Supabase migration, Google sign-in or Android device tests have been completed.
 
 ## Next task — resume here
-1. **Keep Serbian + English lesson development synchronized.** Continue A1 with paired lesson 27 on emergency services and asking for urgent help, including vocabulary, Sinhala-script readings, grammar, examples, dialogue, listening and quizzes in both languages.
+1. **Verify the Android APK workflow run 44317457889** and download the `basanova-android-debug-apk` artifact only if the run succeeds. Fix any Gradle/build error before claiming APK readiness.
+2. **Keep Serbian + English lesson development synchronized.** Continue A1 with paired lesson 29 onward, including vocabulary, Sinhala-script readings, grammar, examples, dialogue, listening and quizzes in both languages.
 2. Audit target-language phrases embedded in Sinhala grammar/quiz explanations in BOTH languages and ensure each important phrase has a Sinhala-script reading and individual TTS playback.
 3. Add saved local progress for lesson checks, listening results and mixed revision in a language-separated way; then design spaced review from saved mastery.
 4. Continue paired A1 topics until both courses have balanced A1 coverage; then advance both to A2 together.
@@ -263,3 +264,6 @@
 
 
 - 2026-11-18 Android build-readiness batch: Repository audit found no committed package-lock.json, no `eas.json`, and no Android APK build script. Existing Expo validation workflow completed successfully on commit `9b58f5558aa405131f44d44d0b5003284635aef0` (run 44316982815), proving dependency installation, Expo compatibility check and Android JS bundle export passed for that source. Added `build:android:debug` to package.json, bumped app version to 0.2.0 / Android versionCode 2, added `.github/workflows/android-apk.yml` to generate native Android files and assemble a debug-signed APK, and added `BUILD.md` with artifact download/install instructions. Updated README. New workflow triggers on main pushes and manual dispatch; it must finish successfully and upload `basanova-android-debug-apk` before an APK can be claimed. No APK is yet verified in this session; monitor the new Actions run after this commit. Debug APK is for testing, not Play Store release. Physical-device install and feature tests remain outstanding.
+
+
+- 2026-11-18 Android APK pipeline follow-up: Fixed the initial APK workflow failure caused by `android-actions/setup-android@v3` trying to install the obsolete SDK package named `tools`. The runner already has an Android SDK, so the workflow now verifies the preinstalled SDK instead. Added path filters and concurrency cancellation to avoid duplicate native builds. On commit `cdff9ffd56548a575d677a7043fb15530bd8e359`, Expo validation run `44317457758` passed, and APK workflow run `44317457889` passed dependency-lock generation, npm ci, Expo compatibility, Android JS bundle export and native project generation; Gradle `assembleDebug` is currently running. No APK artifact is confirmed until that workflow completes and the artifact list contains the APK. The previous SDK-setup failures were runs `44317350417`, `44317357946` and `44317368459`. The current 50% estimate is a planning estimate, not proof of 80% completion.
