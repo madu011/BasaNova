@@ -417,8 +417,16 @@ export default function App(){
   });
   return [...unique.values()].sort((a,b)=>a.word.localeCompare(b.word,language==="Serbian"?"sr":"en",{sensitivity:"base"}));
  },[language,words]);
- const alphabetLetters=language==="Serbian"?["ALL",..."ABCČĆDEFGHIJKLMNOPRSŠTUVZŽ"]:["ALL",..."ABCDEFGHIJKLMNOPQRSTUVWXYZ"];
- const filteredVocabulary=vocabularyEntries.filter(item=>(!showFavoritesOnly||favoriteWords.includes(item.word))&&(vocabLetter==="ALL"||item.word.toLocaleUpperCase().startsWith(vocabLetter))&&(!vocabSearch.trim()||(item.word+" "+item.meaning+" "+item.reading).toLocaleLowerCase().includes(vocabSearch.trim().toLocaleLowerCase())));
+ const alphabetLetters=language==="Serbian"?["ALL","A","B","C","Č","Ć","D","DŽ","Đ","E","F","G","H","I","J","K","L","LJ","M","N","NJ","O","P","R","S","Š","T","U","V","Z","Ž"]:["ALL",..."ABCDEFGHIJKLMNOPQRSTUVWXYZ"];
+ const matchesVocabLetter=(word,letter)=>{
+  const upper=word.toLocaleUpperCase();
+  if(letter==="ALL")return true;
+  if(letter==="D")return upper.startsWith("D")&&!upper.startsWith("DŽ");
+  if(letter==="L")return upper.startsWith("L")&&!upper.startsWith("LJ");
+  if(letter==="N")return upper.startsWith("N")&&!upper.startsWith("NJ");
+  return upper.startsWith(letter);
+ };
+ const filteredVocabulary=vocabularyEntries.filter(item=>(!showFavoritesOnly||favoriteWords.includes(item.word))&&matchesVocabLetter(item.word,vocabLetter)&&(!vocabSearch.trim()||(item.word+" "+item.meaning+" "+item.reading).toLocaleLowerCase().includes(vocabSearch.trim().toLocaleLowerCase())));
  const toggleFavorite=word=>setFavoriteWords(items=>items.includes(word)?items.filter(item=>item!==word):[...items,word]);
 
  const count=language?learned[language].length:0,percent=language?Math.round(count/words.length*100):0;
@@ -445,12 +453,12 @@ export default function App(){
    {tab==="vocabulary"&&<View style={s.panel}>
     <Text style={s.eyebrow}>📖 BASANOVA · VOCABULARY LIBRARY</Text>
     <Text style={s.cardTitle}>{language==="Serbian"?"🇷🇸 Serbian":"🇬🇧 English"} වචන පොත</Text>
-    <Text style={s.sub}>පාඩම්, උදාහරණ, සංවාද සහ වචන එකතුවෙන් සකස් කළ වචන සහ වාක්‍ය. අලුත් අන්තර්ගතය එකතු වන විට මෙයද ස්වයංක්‍රීයව යාවත්කාලීන වේ.</Text>
+    <Text style={s.sub}>පාඩම්, සංවාද සහ සියලු vocabulary packs එකතු කළ සම්පූර්ණ වචන පොත. English සඳහා A–Z අකුරුත් Serbian සඳහා සම්පූර්ණ ලතින් අක්ෂර මාලාවත් අනුව වචන සොයන්න. සෑම වචනයකටම සිංහල තේරුම, උච්චාරණය සහ හඬ පාලකය ඇත.</Text>
     <TouchableOpacity accessibilityRole="button" accessibilityLabel={showFavoritesOnly?"සියලු වචන වෙත යන්න":"සුරැකි වචන පමණක් පෙන්වන්න"} onPress={()=>{setShowFavoritesOnly(v=>!v);setVocabLetter("ALL");setVocabSearch("");}} style={[s.action,{backgroundColor:showFavoritesOnly?C.gold:C.panel2,borderWidth:1,borderColor:C.line}]}><Text style={[s.actionText,{color:showFavoritesOnly?C.bg:C.teal}]}>★ {showFavoritesOnly?"සියලු වචන බලන්න":"සුරැකි වචන බලන්න"} · {favoriteWords.length}</Text></TouchableOpacity>
     <View style={s.vocabSummary}><Text style={s.vocabCount}>{filteredVocabulary.length}</Text><Text style={s.sub}>පෙන්වන වචන / වාක්‍ය · මුළු එකතුව {vocabularyEntries.length}</Text></View>
     <TextInput value={vocabSearch} onChangeText={setVocabSearch} placeholder="වචනයක්, තේරුමක් හෝ උච්චාරණයක් සොයන්න..." placeholderTextColor={C.muted} style={s.vocabSearch}/>
     <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={{gap:7,paddingVertical:12}}>
-     {alphabetLetters.map(letter=><TouchableOpacity key={letter} onPress={()=>setVocabLetter(letter)} style={[s.vocabLetter,vocabLetter===letter&&s.vocabLetterActive]}><Text style={[s.vocabLetterText,vocabLetter===letter&&s.vocabLetterTextActive]}>{letter==="ALL"?"සියල්ල":letter}</Text></TouchableOpacity>)}
+     {alphabetLetters.map(letter=><TouchableOpacity key={letter} onPress={()=>setVocabLetter(letter)} style={[s.vocabLetter,vocabLetter===letter&&s.vocabLetterActive]}><Text style={[s.vocabLetterText,vocabLetter===letter&&s.vocabLetterTextActive]}>{letter==="ALL"?"සියල්ල · "+vocabularyEntries.length:letter+" · "+vocabularyEntries.filter(item=>matchesVocabLetter(item.word,letter)).length}</Text></TouchableOpacity>)}
     </ScrollView>
     {filteredVocabulary.length===0?<Text style={s.sub}>{showFavoritesOnly?"තවම සුරැකි වචන නැහැ. ☆ බොත්තම ඔබලා වචන සුරකින්න.":"මේ අකුරෙන් හෝ සෙවුමට ගැළපෙන වචන හමු වුණේ නැහැ."}</Text>:filteredVocabulary.map((item,i)=><View key={item.word+"-"+i} style={s.vocabEntry}>
      <View style={s.vocabEntryTop}><Text style={s.vocabWord}>{item.word}</Text><TouchableOpacity accessibilityRole="button" accessibilityLabel={favoriteWords.includes(item.word)?"සුරැකි වචනවලින් ඉවත් කරන්න":"වචනය සුරකින්න"} onPress={()=>toggleFavorite(item.word)}><Text style={{fontSize:20,color:favoriteWords.includes(item.word)?C.gold:C.muted}}>{favoriteWords.includes(item.word)?"★":"☆"}</Text></TouchableOpacity><Text style={s.vocabSource}>{item.source}</Text></View>
