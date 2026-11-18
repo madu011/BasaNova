@@ -51,18 +51,18 @@ export const SERBIAN_B1_FINAL_EXAM = [
   {
     "id": "b1-sr-final-4",
     "type": "listening",
-    "prompt": "හඬ අසා නිවැරදි සිංහල තේරුම තෝරන්න.",
+    "prompt": "හඬ අසා වාක්‍යයේ නිවැරදි තේරුම තෝරන්න.",
     "audio": "Sada radim u većoj firmi.",
     "reading": "සාදා රාදිම් උ වෙචොයි ෆිර්මි.",
-    "word": "nowadays",
+    "word": null,
     "options": [
-      "ප්‍රවෘත්තිය",
-      "අදහස් කරනවා",
-      "වර්තමානයේ",
-      "කලින්"
+      "දුම්රිය ප්‍රමාද විය හැකියි, නමුත් අපි බොහෝවිට වෙලාවට එනවා.",
+      "නිතිපතා නැවත කිරීමෙන් අලුත් වචන හොඳින් මතක තබාගන්න පුළුවන්.",
+      "කලින් මම කුඩා වෙළඳසැලක වැඩ කළා.",
+      "අලුත්වැඩියා නිසා බස් රථය වෙනත් නැවතුමකින් පිටත් වෙනවා."
     ],
     "answer": 2,
-    "explanation": "nowadays = වර්තමානයේ"
+    "explanation": "Sada radim u većoj firmi. = කලින් මම කුඩා වෙළඳසැලක වැඩ කළා."
   },
   {
     "id": "b1-sr-final-5",
@@ -115,18 +115,18 @@ export const SERBIAN_B1_FINAL_EXAM = [
   {
     "id": "b1-sr-final-8",
     "type": "listening",
-    "prompt": "හඬ අසා නිවැරදි සිංහල තේරුම තෝරන්න.",
+    "prompt": "හඬ අසා වාක්‍යයේ නිවැරදි තේරුම තෝරන්න.",
     "audio": "Nije bilo dovoljno vremena, zato smo promenili plan.",
     "reading": "ප්‍රමාණවත් කාලයක් නොතිබූ නිසා අපි සැලැස්ම වෙනස් කළා.",
-    "word": "result",
+    "word": null,
     "options": [
-      "බොහෝවිට",
-      "ක්‍රමය",
-      "ප්‍රතිඵලය",
-      "වගකීම් සහතිකය"
+      "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්.",
+      "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා.",
+      "තද වැස්ස නිසා තරගය කල් දැමුවා.",
+      "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා."
     ],
     "answer": 2,
-    "explanation": "result = ප්‍රතිඵලය"
+    "explanation": "Nije bilo dovoljno vremena, zato smo promenili plan. = තද වැස්ස නිසා තරගය කල් දැමුවා."
   },
   {
     "id": "b1-sr-final-9",
@@ -179,18 +179,18 @@ export const SERBIAN_B1_FINAL_EXAM = [
   {
     "id": "b1-sr-final-12",
     "type": "listening",
-    "prompt": "හඬ අසා නිවැරදි සිංහල තේරුම තෝරන්න.",
+    "prompt": "හඬ අසා වාක්‍යයේ නිවැරදි තේරුම තෝරන්න.",
     "audio": "Čim stignemo u hotel, ostavićemo prtljag i istražiti grad.",
     "reading": "චිම් ස්තිග්නෙමො උ හොතෙල් ඔස්තාවිචෙමො ප්‍ර්ත්ල්යාග් ඉ ඉස්ත්‍රාෂිති ග්‍රාද්.",
-    "word": "smeštaj",
+    "word": null,
     "options": [
-      "ස්වේච්ඡා සේවකයා",
-      "සම්පත",
-      "නවාතැන",
-      "වාසිය"
+      "Before signing a contract, we should check the conditions carefully.",
+      "Reliable public transport can reduce congestion in a city.",
+      "හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා.",
+      "Climate change requires long-term and shared solutions."
     ],
     "answer": 2,
-    "explanation": "smeštaj = නවාතැන"
+    "explanation": "Čim stignemo u hotel, ostavićemo prtljag i istražiti grad. = හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා."
   },
   {
     "id": "b1-sr-final-13",
@@ -243,18 +243,18 @@ export const SERBIAN_B1_FINAL_EXAM = [
   {
     "id": "b1-sr-final-16",
     "type": "listening",
-    "prompt": "හඬ අසා නිවැරදි සිංහල තේරුම තෝරන්න.",
+    "prompt": "හඬ අසා වාක්‍යයේ නිවැරදි තේරුම තෝරන්න.",
     "audio": "Ako usluga ne odgovara rezervaciji, možemo zatražiti rešenje.",
     "reading": "අකො උස්ලුගා නෙ ඔද්ගොවාරා රෙසෙර්වාත්සියි මොෂෙමො සාත්‍රාෂිති රෙෂෙන්යේ.",
-    "word": "otkazivanje",
+    "word": null,
     "options": [
-      "අවසන් දිනය",
-      "පොලිය",
-      "අවලංගු කිරීම",
-      "උත්සවය"
+      "ඔබට මට තහවුරු කිරීම එවන්න පුළුවන්ද?",
+      "මට හරියට තේරුණාද කියලා විශ්වාස නැහැ.",
+      "If the service does not match the booking, we can request a solution.",
+      "මුලින් කාර්ය බෙදාගමු."
     ],
     "answer": 2,
-    "explanation": "otkazivanje = අවලංගු කිරීම"
+    "explanation": "Ako usluga ne odgovara rezervaciji, možemo zatražiti rešenje. = If the service does not match the booking, we can request a solution."
   },
   {
     "id": "b1-sr-final-17",
@@ -307,18 +307,18 @@ export const SERBIAN_B1_FINAL_EXAM = [
   {
     "id": "b1-sr-final-20",
     "type": "listening",
-    "prompt": "හඬ අසා නිවැරදි සිංහල තේරුම තෝරන්න.",
+    "prompt": "හඬ අසා වාක්‍යයේ නිවැරදි තේරුම තෝරන්න.",
     "audio": "Jasno izlaganje povezuje primere, razloge i zaključak.",
     "reading": "යාස්නො ඉස්ලාගාන්යේ පොවෙසුයෙ ප්‍රිමෙරෙ රාස්ලොගෙ ඉ සාක්ල්යුචාක්.",
-    "word": "potporna tačka",
+    "word": null,
     "options": [
-      "සම්මුතිය",
-      "නගර නැරඹීම",
-      "සහායක කරුණ",
-      "සොයාගැනීම"
+      "පෞද්ගලික මෝටර් රථයට වඩා පොදු ප්‍රවාහනය බොහෝවිට තිරසාර තේරීමක්.",
+      "තද වැස්ස නිසා තරගය කල් දැමුවා.",
+      "A clear presentation connects examples, reasons and a conclusion.",
+      "එක් පැත්තකින් මේ විකල්පය ලාභයි; අනෙක් පැත්තෙන් එය මන්දගාමීයි."
     ],
     "answer": 2,
-    "explanation": "potporna tačka = සහායක කරුණ"
+    "explanation": "Jasno izlaganje povezuje primere, razloge i zaključak. = A clear presentation connects examples, reasons and a conclusion."
   }
 ];
 
@@ -374,18 +374,18 @@ export const ENGLISH_B1_FINAL_EXAM = [
   {
     "id": "b1-en-final-4",
     "type": "listening",
-    "prompt": "Listen and choose the correct Sinhala meaning.",
+    "prompt": "Listen and choose the correct meaning of the sentence.",
     "audio": "Now I work for a larger company.",
     "reading": "නව් අයි වර්ක් ෆෝර් අ ලාජර් කම්පනි.",
-    "word": "nowadays",
+    "word": null,
     "options": [
-      "ප්‍රවෘත්තිය",
-      "අදහස් කරනවා",
-      "වර්තමානයේ",
-      "කලින්"
+      "It may rain, but we will probably arrive on time.",
+      "Regular revision helps us remember new words.",
+      "කලින් මම කුඩා වෙළඳසැලක වැඩ කළා.",
+      "Because of the roadworks, the bus leaves from another stop."
     ],
     "answer": 2,
-    "explanation": "nowadays = වර්තමානයේ"
+    "explanation": "Now I work for a larger company. = කලින් මම කුඩා වෙළඳසැලක වැඩ කළා."
   },
   {
     "id": "b1-en-final-5",
@@ -438,18 +438,18 @@ export const ENGLISH_B1_FINAL_EXAM = [
   {
     "id": "b1-en-final-8",
     "type": "listening",
-    "prompt": "Listen and choose the correct Sinhala meaning.",
+    "prompt": "Listen and choose the correct meaning of the sentence.",
     "audio": "There was not enough time, so we changed the plan.",
     "reading": "දෙයාර් වොස් නොට් ඉනෆ් ටයිම් සෝ වී චේන්ජ්ඩ් දි ප්ලෑන්.",
-    "word": "result",
+    "word": null,
     "options": [
-      "බොහෝවිට",
-      "ක්‍රමය",
-      "ප්‍රතිඵලය",
-      "වගකීම් සහතිකය"
+      "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්.",
+      "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා.",
+      "Because of heavy rain, the match was postponed.",
+      "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා."
     ],
     "answer": 2,
-    "explanation": "result = ප්‍රතිඵලය"
+    "explanation": "There was not enough time, so we changed the plan. = Because of heavy rain, the match was postponed."
   },
   {
     "id": "b1-en-final-9",
@@ -502,18 +502,18 @@ export const ENGLISH_B1_FINAL_EXAM = [
   {
     "id": "b1-en-final-12",
     "type": "listening",
-    "prompt": "Listen and choose the correct Sinhala meaning.",
+    "prompt": "Listen and choose the correct meaning of the sentence.",
     "audio": "As soon as we arrive at the hotel, we will leave our luggage and explore the city.",
     "reading": "ඇස් සූන් ඇස් වී අරයිව් ඇට් දි හෝටෙල් වී විල් ලීව් අවර් ලගිජ් ඇන්ඩ් එක්ස්ප්ලෝර් දි සිටි.",
-    "word": "accommodation",
+    "word": null,
     "options": [
-      "ස්වේච්ඡා සේවකයා",
-      "සම්පත",
-      "නවාතැන",
-      "වාසිය"
+      "Before signing a contract, we should check the conditions carefully.",
+      "Reliable public transport can reduce congestion in a city.",
+      "හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා.",
+      "Climate change requires long-term and shared solutions."
     ],
     "answer": 2,
-    "explanation": "accommodation = නවාතැන"
+    "explanation": "As soon as we arrive at the hotel, we will leave our luggage and explore the city. = හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා."
   },
   {
     "id": "b1-en-final-13",
@@ -566,18 +566,18 @@ export const ENGLISH_B1_FINAL_EXAM = [
   {
     "id": "b1-en-final-16",
     "type": "listening",
-    "prompt": "Listen and choose the correct Sinhala meaning.",
+    "prompt": "Listen and choose the correct meaning of the sentence.",
     "audio": "ඉෆ් දි සර්විස් ඩස් නොට් මැච් දි බුකින් වී කෑන් රික්වෙස්ට් අ සලූෂන්.",
     "reading": "Conditionals and polite indirect requests.",
-    "word": "cancellation",
+    "word": null,
     "options": [
-      "අවසන් දිනය",
-      "පොලිය",
-      "අවලංගු කිරීම",
-      "උත්සවය"
+      "ඔබට මට තහවුරු කිරීම එවන්න පුළුවන්ද?",
+      "මට හරියට තේරුණාද කියලා විශ්වාස නැහැ.",
+      "If the service does not match the booking, we can request a solution.",
+      "මුලින් කාර්ය බෙදාගමු."
     ],
     "answer": 2,
-    "explanation": "cancellation = අවලංගු කිරීම"
+    "explanation": "ඉෆ් දි සර්විස් ඩස් නොට් මැච් දි බුකින් වී කෑන් රික්වෙස්ට් අ සලූෂන්. = If the service does not match the booking, we can request a solution."
   },
   {
     "id": "b1-en-final-17",
@@ -630,18 +630,18 @@ export const ENGLISH_B1_FINAL_EXAM = [
   {
     "id": "b1-en-final-20",
     "type": "listening",
-    "prompt": "Listen and choose the correct Sinhala meaning.",
+    "prompt": "Listen and choose the correct meaning of the sentence.",
     "audio": "අ ක්ලියර් ප්‍රෙසෙන්ටේෂන් කනෙක්ට්ස් ඉග්සැම්පල්ස් රීසන්ස් ඇන්ඩ් අ කන්ක්ලූෂන්.",
     "reading": "Discourse markers for introductions, supporting points and conclusions.",
-    "word": "supporting point",
+    "word": null,
     "options": [
-      "සම්මුතිය",
-      "නගර නැරඹීම",
-      "සහායක කරුණ",
-      "සොයාගැනීම"
+      "Public transport is often a more sustainable choice than a car.",
+      "Because of heavy rain, the match was postponed.",
+      "A clear presentation connects examples, reasons and a conclusion.",
+      "On the one hand, this option is cheaper; on the other hand, it is slower."
     ],
     "answer": 2,
-    "explanation": "supporting point = සහායක කරුණ"
+    "explanation": "අ ක්ලියර් ප්‍රෙසෙන්ටේෂන් කනෙක්ට්ස් ඉග්සැම්පල්ස් රීසන්ස් ඇන්ඩ් අ කන්ක්ලූෂන්. = A clear presentation connects examples, reasons and a conclusion."
   }
 ];
 
