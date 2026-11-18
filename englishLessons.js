@@ -918,5 +918,80 @@ practice:[
 {prompt:"Choose the word for “ඖෂධහල”.",options:["Temperature","Check-up","Pharmacy"],readings:["ටෙම්ප්‍රචර්","චෙක්-අප්","ෆාමසි"],answer:2,explanation:"Pharmacy = ඖෂධහල."},
 {prompt:"Choose “මට හමුවීමේ වේලාවක් වෙන්කරගන්න ඕනේ”.",options:["I would like to make an appointment.","I have a prescription.","My throat hurts."],readings:["අයි වුඩ් ලයික් ටු මේක් ඇන් අපොයින්ට්මන්ට්.","අයි හැව් අ ප්‍රිස්ක්‍රිප්ෂන්.","මයි ත්‍රෝට් හර්ට්ස්."],answer:0,explanation:"I would like to make an appointment = මට හමුවීමේ වේලාවක් වෙන්කරගන්න ඕනේ."}]
 }
+,
+{
+id:"en-a1-u6-l6",unit:"Emergency services and asking for help",title:"Lesson 27 · Emergency services and asking for help",objective:"Ask for help, identify an emergency service and explain your location in simple English.",
+vocabulary:[
+{word:"Emergency services",reading:"ඉමර්ජන්සි සර්විසස්",meaning:"හදිසි සේවා",example:"Call the emergency services.",exampleReading:"කෝල් දි ඉමර්ජන්සි සර්විසස්.",translation:"හදිසි සේවා අමතන්න."},
+{word:"Ambulance",reading:"ඇම්බියුලන්ස්",meaning:"ගිලන් රථය",example:"Please call an ambulance.",exampleReading:"ප්ලීස් කෝල් ඇන් ඇම්බියුලන්ස්.",translation:"කරුණාකර ගිලන් රථයක් අමතන්න."},
+{word:"Police",reading:"පොලීස්",meaning:"පොලීසිය",example:"Please call the police.",exampleReading:"ප්ලීස් කෝල් දි පොලීස්.",translation:"කරුණාකර පොලීසිය අමතන්න."},
+{word:"Fire service",reading:"ෆයර් සර්විස්",meaning:"ගිනි නිවන සේවාව",example:"Where is the fire service?",exampleReading:"වෙයාර් ඉස් දි ෆයර් සර්විස්?",translation:"ගිනි නිවන සේවාව කොහෙද?"},
+{word:"Help",reading:"හෙල්ප්",meaning:"උදව්ව",example:"I need help.",exampleReading:"අයි නීඩ් හෙල්ප්.",translation:"මට උදව් අවශ්‍යයි."},
+{word:"Urgent",reading:"අර්ජන්ට්",meaning:"හදිසි",example:"This is urgent.",exampleReading:"දිස් ඉස් අර්ජන්ට්.",translation:"මේක හදිසියි."},
+{word:"Address",reading:"ඇඩ්‍රස්",meaning:"ලිපිනය",example:"What is your address?",exampleReading:"වොට් ඉස් යෝර් ඇඩ්‍රස්?",translation:"ඔබගේ ලිපිනය මොකක්ද?"},
+{word:"I am lost",reading:"අයි ඇම් ලොස්ට්",meaning:"මට මඟ වැරදිලා",example:"Excuse me, I am lost.",exampleReading:"එක්ස්කියුස් මී, අයි ඇම් ලොස්ට්.",translation:"සමාවෙන්න, මට මඟ වැරදිලා."}],
+grammarTitle:"Grammar · Asking for urgent help",grammar:"Use “I need ...” to explain what you need. Use “Please call ...” to request a service politely. Give a clear location: “I am near the bus station.” In a real emergency, contact local emergency services.",
+grammarTerms:[
+{text:"I need help.",reading:"අයි නීඩ් හෙල්ප්.",meaning:"මට උදව් අවශ්‍යයි."},
+{text:"This is urgent.",reading:"දිස් ඉස් අර්ජන්ට්.",meaning:"මේක හදිසියි."},
+{text:"Please call an ambulance.",reading:"ප්ලීස් කෝල් ඇන් ඇම්බියුලන්ස්.",meaning:"කරුණාකර ගිලන් රථයක් අමතන්න."},
+{text:"My address is ...",reading:"මයි ඇඩ්‍රස් ඉස් ...",meaning:"මගේ ලිපිනය ..."},
+{text:"I do not know where I am.",reading:"අයි ඩූ නොට් නෝ වෙයාර් අයි ඇම්.",meaning:"මම ඉන්නේ කොහෙද කියලා මට දන්නේ නැහැ."}],
+examples:[
+{text:"Please, I need help.",reading:"ප්ලීස්, අයි නීඩ් හෙල්ප්.",meaning:"කරුණාකර, මට උදව් අවශ්‍යයි."},
+{text:"This is urgent. Please call the police.",reading:"දිස් ඉස් අර්ජන්ට්. ප්ලීස් කෝල් දි පොලීස්.",meaning:"මේක හදිසියි. කරුණාකර පොලීසිය අමතන්න."},
+{text:"I am near the bus station.",reading:"අයි ඇම් නියර් දි බස් ස්ටේෂන්.",meaning:"මම බස් නැවතුම්පොළ අසල ඉන්නේ."},
+{text:"I am lost. Can you help me?",reading:"අයි ඇම් ලොස්ට්. කැන් යූ හෙල්ප් මී?",meaning:"මට මඟ වැරදිලා. මට උදව් කරන්න පුළුවන්ද?"}],
+dialogue:[
+{text:"Excuse me, I need help.",reading:"එක්ස්කියුස් මී, අයි නීඩ් හෙල්ප්.",meaning:"සමාවෙන්න, මට උදව් අවශ්‍යයි."},
+{text:"Of course. What happened?",reading:"ඔෆ් කෝර්ස්. වොට් හැපන්ඩ්?",meaning:"අනිවාර්යයෙන්. මොකක්ද සිදු වුණේ?"},
+{text:"I am lost and I do not know the address.",reading:"අයි ඇම් ලොස්ට් ඇන්ඩ් අයි ඩූ නොට් නෝ දි ඇඩ්‍රස්.",meaning:"මට මඟ වැරදිලා, ලිපිනයත් මට මතක නැහැ."},
+{text:"Where are you now?",reading:"වෙයාර් ආර් යූ නව්?",meaning:"ඔබ දැන් කොහෙද ඉන්නේ?"},
+{text:"I am near the bus station.",reading:"අයි ඇම් නියර් දි බස් ස්ටේෂන්.",meaning:"මම බස් නැවතුම්පොළ අසල ඉන්නේ."},
+{text:"All right. We will help you.",reading:"ඕල් රයිට්. වී විල් හෙල්ප් යූ.",meaning:"හරි. අපි ඔබට උදව් කරන්නම්."}],
+listeningPractice:{prompt:"Listen and choose the correct Sinhala meaning: “I need help.”",audio:"I need help.",options:["මට උදව් අවශ්‍යයි.","මට ලිපිනය අවශ්‍යයි.","මම ගෙදර යනවා."],readings:["අයි නීඩ් හෙල්ප්.","අයි නීඩ් ඇඩ්‍රස්.","අයි ඇම් ගෝයිං හෝම්."],answer:0,meaning:"I need help = මට උදව් අවශ්‍යයි."},
+practice:[
+{prompt:"Choose the English word for “පොලීසිය”.",options:["Pharmacy","Police","Post office"],readings:["ෆාමසි","පොලීස්","පෝස්ට් ඔෆිස්"],answer:1,explanation:"Police = පොලීසිය."},
+{prompt:"How do you say “මට උදව් අවශ්‍යයි”?",options:["I need help.","I am lost.","This is urgent."],readings:["අයි නීඩ් හෙල්ප්.","අයි ඇම් ලොස්ට්.","දිස් ඉස් අර්ජන්ට්."],answer:0,explanation:"I need help = මට උදව් අවශ්‍යයි."},
+{prompt:"Choose the word for “ලිපිනය”.",options:["Address","Ambulance","Help"],readings:["ඇඩ්‍රස්","ඇම්බියුලන්ස්","හෙල්ප්"],answer:0,explanation:"Address = ලිපිනය."},
+{prompt:"Choose “මේක හදිසියි”.",options:["This is urgent.","This is easy.","I am ready."],readings:["දිස් ඉස් අර්ජන්ට්.","දිස් ඉස් ඊසි.","අයි ඇම් රෙඩි."],answer:0,explanation:"This is urgent = මේක හදිසියි."}]}
+,
+{
+id:"en-a1-u6-l7",unit:"Returns and exchanges",title:"Lesson 28 · Returns and exchanges",objective:"Explain a problem with an item, ask for another size and ask about a refund.",
+vocabulary:[
+{word:"Exchange",reading:"එක්ස්චේන්ජ්",meaning:"භාණ්ඩය මාරු කිරීම",example:"I would like an exchange.",exampleReading:"අයි වුඩ් ලයික් ඇන් එක්ස්චේන්ජ්.",translation:"මට භාණ්ඩය මාරු කරගන්න ඕනේ."},
+{word:"Refund",reading:"රීෆන්ඩ්",meaning:"මුදල් ආපසු ලබාදීම",example:"Can I get a refund?",exampleReading:"කැන් අයි ගෙට් අ රීෆන්ඩ්?",translation:"මට මුදල් ආපසු ලබාගන්න පුළුවන්ද?"},
+{word:"Receipt",reading:"රිසීට්",meaning:"රිසිට්පත",example:"I have the receipt.",exampleReading:"අයි හැව් දි රිසීට්.",translation:"මගේ ළඟ රිසිට්පත තියෙනවා."},
+{word:"Size",reading:"සයිස්",meaning:"ප්‍රමාණය",example:"Do you have a larger size?",exampleReading:"ඩූ යූ හැව් අ ලාජර් සයිස්?",translation:"ඔබ ළඟ ඊට වඩා විශාල ප්‍රමාණයක් තියෙනවාද?"},
+{word:"Too small",reading:"ටූ ස්මෝල්",meaning:"කුඩා වැඩියි",example:"This shirt is too small.",exampleReading:"දිස් ෂර්ට් ඉස් ටූ ස්මෝල්.",translation:"මේ කමිසය කුඩා වැඩියි."},
+{word:"Too large",reading:"ටූ ලාජ්",meaning:"විශාල වැඩියි",example:"These shoes are too large.",exampleReading:"දීස් ෂූස් ආර් ටූ ලාජ්.",translation:"මේ සපත්තු විශාල වැඩියි."},
+{word:"Faulty",reading:"ෆෝල්ටි",meaning:"දෝෂ සහිත",example:"The item is faulty.",exampleReading:"දි අයිටම් ඉස් ෆෝල්ටි.",translation:"භාණ්ඩය දෝෂ සහිතයි."},
+{word:"Another one",reading:"අනදර් වන්",meaning:"වෙනත් එකක්",example:"Can I have another one?",exampleReading:"කැන් අයි හැව් අනදර් වන්?",translation:"මට වෙනත් එකක් ලබාගන්න පුළුවන්ද?"}],
+grammarTitle:"Grammar · Explaining an item problem and asking for an option",grammar:"Use “This is too small/large” to explain a size problem. Use “Can I have ...?” to request another item. “Can I get a refund?” asks politely about returning the money. Keep your receipt if you may need to return an item.",
+grammarTerms:[
+{text:"This is too small.",reading:"දිස් ඉස් ටූ ස්මෝල්.",meaning:"මේක කුඩා වැඩියි."},
+{text:"Do you have a larger size?",reading:"ඩූ යූ හැව් අ ලාජර් සයිස්?",meaning:"ඔබ ළඟ ඊට වඩා විශාල ප්‍රමාණයක් තියෙනවාද?"},
+{text:"Can I have another one?",reading:"කැන් අයි හැව් අනදර් වන්?",meaning:"මට වෙනත් එකක් ලබාගන්න පුළුවන්ද?"},
+{text:"I have the receipt.",reading:"අයි හැව් දි රිසීට්.",meaning:"මගේ ළඟ රිසිට්පත තියෙනවා."},
+{text:"Can I get a refund?",reading:"කැන් අයි ගෙට් අ රීෆන්ඩ්?",meaning:"මට මුදල් ආපසු ලබාගන්න පුළුවන්ද?"}],
+examples:[
+{text:"Excuse me, this shirt is too small.",reading:"එක්ස්කියුස් මී, දිස් ෂර්ට් ඉස් ටූ ස්මෝල්.",meaning:"සමාවෙන්න, මේ කමිසය කුඩා වැඩියි."},
+{text:"Do you have a larger size?",reading:"ඩූ යූ හැව් අ ලාජර් සයිස්?",meaning:"ඔබ ළඟ ඊට වඩා විශාල ප්‍රමාණයක් තියෙනවාද?"},
+{text:"The item is faulty. I have the receipt.",reading:"දි අයිටම් ඉස් ෆෝල්ටි. අයි හැව් දි රිසීට්.",meaning:"භාණ්ඩය දෝෂ සහිතයි. මගේ ළඟ රිසිට්පත තියෙනවා."},
+{text:"Can I exchange this item?",reading:"කැන් අයි එක්ස්චේන්ජ් දිස් අයිටම්?",meaning:"මට මේ භාණ්ඩය මාරු කරගන්න පුළුවන්ද?"}],
+dialogue:[
+{text:"Good afternoon. Can I help you?",reading:"ගුඩ් ආෆ්ටර්නූන්. කැන් අයි හෙල්ප් යූ?",meaning:"සුබ සන්ධ්‍යාවක්. මට ඔබට උදව් කරන්න පුළුවන්ද?"},
+{text:"Yes, this shirt is too small.",reading:"යෙස්, දිස් ෂර්ට් ඉස් ටූ ස්මෝල්.",meaning:"ඔව්, මේ කමිසය කුඩා වැඩියි."},
+{text:"What size do you need?",reading:"වොට් සයිස් ඩූ යූ නීඩ්?",meaning:"ඔබට අවශ්‍ය ප්‍රමාණය මොකක්ද?"},
+{text:"I need a larger size.",reading:"අයි නීඩ් අ ලාජර් සයිස්.",meaning:"මට ඊට වඩා විශාල ප්‍රමාණයක් ඕනේ."},
+{text:"Of course. Here is another size.",reading:"ඔෆ් කෝර්ස්. හියර් ඉස් අනදර් සයිස්.",meaning:"අනිවාර්යයෙන්. මෙන්න වෙනත් ප්‍රමාණයක්."},
+{text:"Thank you. Can I pay by card?",reading:"තෑන්ක් යූ. කැන් අයි පේ බයි කාඩ්?",meaning:"ස්තුතියි. මට කාඩ්පතෙන් ගෙවන්න පුළුවන්ද?"}],
+listeningPractice:{prompt:"Listen and choose the correct Sinhala meaning: “I have the receipt.”",audio:"I have the receipt.",options:["මගේ ළඟ රිසිට්පත තියෙනවා.","මට වෙනත් ප්‍රමාණයක් ඕනේ.","භාණ්ඩය අලුත්."],readings:["අයි හැව් දි රිසීට්.","අයි නීඩ් අනදර් සයිස්.","දි අයිටම් ඉස් නිව්."],answer:0,meaning:"I have the receipt = මගේ ළඟ රිසිට්පත තියෙනවා."},
+practice:[
+{prompt:"Choose the English word for “රිසිට්පත”.",options:["Receipt","Size","Exchange"],readings:["රිසීට්","සයිස්","එක්ස්චේන්ජ්"],answer:0,explanation:"Receipt = රිසිට්පත."},
+{prompt:"How do you say “මේක කුඩා වැඩියි”?",options:["This is too large.","This is too small.","This is new."],readings:["දිස් ඉස් ටූ ලාජ්.","දිස් ඉස් ටූ ස්මෝල්.","දිස් ඉස් නිව්."],answer:1,explanation:"This is too small = මේක කුඩා වැඩියි."},
+{prompt:"Choose the word for “භාණ්ඩය මාරු කිරීම”.",options:["Refund","Exchange","Address"],readings:["රීෆන්ඩ්","එක්ස්චේන්ජ්","ඇඩ්‍රස්"],answer:1,explanation:"Exchange = භාණ්ඩය මාරු කිරීම."},
+{prompt:"Choose the question about getting your money back.",options:["Can I get a refund?","What time is it?","Where is the post office?"],readings:["කැන් අයි ගෙට් අ රීෆන්ඩ්?","වොට් ටයිම් ඉස් ඉට්?","වෙයාර් ඉස් දි පෝස්ට් ඔෆිස්?"],answer:0,explanation:"Can I get a refund? = මට මුදල් ආපසු ලබාගන්න පුළුවන්ද?"}]}
+
 
 ];
