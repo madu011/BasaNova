@@ -19,6 +19,9 @@ export const SERBIAN_A1_LISTENING = [
  {prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Knjiga je na stolu.”",audio:"Knjiga je na stolu.",options:["පොත මේසය මත තියෙනවා.","පොත කාමරයේ තියෙනවා.","ඇඳ කාමරයේ තියෙනවා."],readings:["ක්න්යිගා යේ නා ස්තොලු.","ක්න්යිගා යේ උ සොබි.","ක්‍රෙවෙත් යේ උ සොබි."],answer:0,meaning:"Knjiga je na stolu. = පොත මේසය මත තියෙනවා."}
  ,{prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Volim da kuvam.”",audio:"Volim da kuvam.",options:["මම උයන්න කැමතියි.","මම උදේ වැඩ කරනවා.","මට කාමරයක් ඕනේ."],readings:["වොලිම් දා කුවාම්.","රාදිම් උයුත්‍රු.","ත්‍රෙබා මි සොබා."],answer:0,meaning:"Volim da kuvam. = මම උයන්න කැමතියි."},
  {prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Danas je sunčano.”",audio:"Danas je sunčano.",options:["අද අව්වයි.","අද වැස්සයි.","අද සීතලයි."],readings:["දනාස් යේ සුන්චානො.","පාදා කීෂා.","දනාස් යේ හ්ලාද්නො."],answer:0,meaning:"Danas je sunčano. = අද අව්වයි."}
+
+ ,{prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Mogu li da vidim jelovnik?”",audio:"Mogu li da vidim jelovnik?",options:["මට මෙනුව බලන්න පුළුවන්ද?","බිල දෙන්න, කරුණාකරලා.","මට උදව් අවශ්‍යයි."],readings:["මොගු ලි да විදිම් යෙලොව්නික්?","රාචුන්, මොලීම්.","ත්‍රෙබා මි පොමොච්."],answer:0,meaning:"Mogu li da vidim jelovnik? = මට මෙනුව බලන්න පුළුවන්ද?"},
+ {prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Nedostaje jedan sok.”",audio:"Nedostaje jedan sok.",options:["ජූස් එකක් අඩුයි.","මෙනුව මෙන්න.","මම බිල ගෙව්වා."],readings:["නෙදොස්තායේ යෙදාන් සොක්.","ඉස්වොලිතෙ යෙලොව්නික්.","ප්ලාතිඔ සාම් රාචුන්."],answer:0,meaning:"Nedostaje jedan sok. = ජූස් එකක් අඩුයි."}
 ];
 
 export const SERBIAN_A1_MIXED_REVISION = [
@@ -41,4 +44,7 @@ export const SERBIAN_A1_MIXED_REVISION = [
 
  ,{audio:"Volim da kuvam.",reading:"වොලිම් දා කුවාම්.",options:["මම උයන්න කැමතියි.","මම උදේ වැඩ කරනවා.","මට කාමරයක් ඕනේ."],answer:0},
  {audio:"Danas je sunčano.",reading:"දනාස් යේ සුන්චානො.",options:["අද වැස්සයි.","අද අව්වයි.","අද සීතලයි."],answer:1}
+
+ ,{audio:"Račun, molim.",reading:"රාචුන්, මොලීම්.",options:["බිල දෙන්න, කරුණාකරලා.","මට මෙනුව බලන්න ඕනේ.","ජූස් එකක් අඩුයි."],answer:0},
+ {audio:"Možete li da proverite?",reading:"මොෂෙතෙ ලි දා ප්‍රොවෙරිතෙ?",options:["ඔබට පරීක්ෂා කරන්න පුළුවන්ද?","මම උයන්න කැමතියි.","අද අව්වයි."],answer:0}
 ];
