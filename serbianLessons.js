@@ -1258,7 +1258,7 @@ export const SERBIAN_A1_LESSONS = [
    {sr:"Odakle ste?",reading:"ඔදාක්ලෙ ස්තෙ?",si:"ඔබ කොහෙන්ද?"},
    {sr:"Ja sam iz Šri Lanke. A vi?",reading:"යා සාම් ඉස් ශ්‍රි ලන්කෙ. අ වි?",si:"මම ශ්‍රී ලංකාවෙන්. ඔබ?"},
    {sr:"Ja sam iz Srbije. Koje jezike govorite?",reading:"යා සාම් ඉස් ස්ර්බියේ. කොයේ යෙසිකෙ ගොවොරිතෙ?",si:"මම සර්බියාවෙන්. ඔබ මොන භාෂාද කතා කරන්නේ?"},
-   {sr:"Govorim sinhalski, engleski i malo srpski.",reading:"ගොවොරිම් සිංහල්ස්කි, එන්ග්ලෙස්කි ඉ මාලො ස්ර්ප්ස්කි.",si:"මම සිංහල, English සහ ටිකක් Serbian කතා කරනවා."}
+   {sr:"Govorim singalski, engleski i malo srpski.",reading:"ගොවොරිම් සිංගල්ස්කි, එන්ග්ලෙස්කි ඉ මාලො ස්ර්ප්ස්කි.",si:"මම සිංහල, English සහ ටිකක් Serbian කතා කරනවා."}
   ],
   practice:[
    {prompt:"“මගේ පවුල” කියන්නේ?",options:["Moja porodica","Moj brat","Moja sestra"],answer:0,explanation:"Moja porodica = මගේ පවුල."},
