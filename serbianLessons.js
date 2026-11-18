@@ -1219,5 +1219,54 @@ export const SERBIAN_A1_LESSONS = [
    {prompt:"“මට වැඩ මුරය මාරු කරගන්න පුළුවන්ද?” තෝරන්න.",options:["Da li mogu da zamenim smenu?","Radim ujutru.","To je sve."],answer:0,explanation:"Da li mogu da ...? යනු මට ... කළ හැකිද? යන ප්‍රශ්න රටාවයි."}
   ]
  }
+ ,
+ {
+  id:"sr-a1-u8-l1",
+  unit:"පවුල සහ පුද්ගලික තොරතුරු",
+  title:"පාඩම 17 · පවුල සහ තමන් ගැන තොරතුරු",
+  objective:"පවුලේ සාමාජිකයන් හඳුන්වාදීම, විවාහක තත්ත්වය, භාෂා සහ තමන් ගැන සරල තොරතුරු පැවසීම.",
+  vocabulary:[
+   {word:"Porodica",reading:"පොරොදිත්සා",meaning:"පවුල",example:"Moja porodica je velika.",exampleReading:"මොයා පොරොදිත්සා යේ වෙලිකා.",translation:"මගේ පවුල විශාලයි."},
+   {word:"Majka",reading:"මායිකා",meaning:"අම්මා",example:"Moja majka živi u Srbiji.",exampleReading:"මොයා මායිකා ෂිවි උ ස්ර්බියි.",translation:"මගේ අම්මා සර්බියාවේ ජීවත් වෙනවා."},
+   {word:"Otac",reading:"ඔතාත්ස්",meaning:"තාත්තා",example:"Moj otac radi.",exampleReading:"මොයි ඔතාත්ස් රාදි.",translation:"මගේ තාත්තා වැඩ කරනවා."},
+   {word:"Brat",reading:"බ්‍රාත්",meaning:"සහෝදරයා",example:"Imam jednog brata.",exampleReading:"ඉමාම් යෙද්නොග් බ්‍රාතා.",translation:"මට සහෝදරයෙක් ඉන්නවා."},
+   {word:"Sestra",reading:"සෙස්ත්‍රා",meaning:"සහෝදරිය",example:"Moja sestra je studentkinja.",exampleReading:"මොයා සෙස්ත්‍රා යේ ස්තුදෙන්ත්කින්‍යා.",translation:"මගේ සහෝදරිය විශ්වවිද්‍යාල ශිෂ්‍යාවක්."},
+   {word:"Suprug",reading:"සුප්රුග්",meaning:"සැමියා",example:"Ovo je moj suprug.",exampleReading:"ඔවො යේ මොයි සුප්රුග්.",translation:"මේ මගේ සැමියා."},
+   {word:"Supruga",reading:"සුප්රුගා",meaning:"බිරිඳ",example:"Ovo je moja supruga.",exampleReading:"ඔවො යේ මොයා සුප්රුගා.",translation:"මේ මගේ බිරිඳ."},
+   {word:"Imam",reading:"ඉමාම්",meaning:"මට ඉන්නවා / මට තිබෙනවා",example:"Imam dve sestre.",exampleReading:"ඉමාම් ද්වේ සෙස්ත්‍රෙ.",translation:"මට සහෝදරියන් දෙදෙනෙක් ඉන්නවා."},
+   {word:"Govorim",reading:"ගොවොරිම්",meaning:"මම කතා කරනවා",example:"Govorim srpski i engleski.",exampleReading:"ගොවොරිම් ස්ර්ප්ස්කි ඉ එන්ග්ලෙස්කි.",translation:"මම Serbian සහ English කතා කරනවා."},
+   {word:"Odakle ste?",reading:"ඔදාක්ලෙ ස්තෙ?",meaning:"ඔබ කොහෙන්ද?",example:"Odakle ste? Ja sam sa Šri Lanke.",exampleReading:"ඔදාක්ලෙ ස්තෙ? යා සාම් සා ශ්‍රි ලන්කෙ.",translation:"ඔබ කොහෙන්ද? මම ශ්‍රී ලංකාවෙන්."}
+  ],
+  grammarTitle:"ව්‍යාකරණය · පවුල සහ තමන් ගැන කියන රටා",
+  grammar:"“Imam” යනු මට ඉන්නවා/තිබෙනවා යන්නයි: “Imam brata” (මට සහෝදරයෙක් ඉන්නවා). අයිතිය පෙන්වීමට පුරුෂ ඒකවචනය සමඟ “moj”, ස්ත්‍රී ඒකවචනය සමඟ “moja” යොදනවා: “moj brat”, “moja sestra”. තමන් කතා කරන භාෂාව කියන්න “Govorim + භාෂාව” භාවිත කරන්න. විධිමත් ලෙස “Odakle ste?” කියා රට/නගරය අහන්න පුළුවන්.",
+  grammarTerms:[
+   {sr:"Imam brata.",si:"මට සහෝදරයෙක් ඉන්නවා.",reading:"ඉමාම් බ්‍රාතා."},
+   {sr:"Imam dve sestre.",si:"මට සහෝදරියන් දෙදෙනෙක් ඉන්නවා.",reading:"ඉමාම් ද්වේ සෙස්ත්‍රෙ."},
+   {sr:"Ovo je moja porodica.",si:"මේ මගේ පවුල.",reading:"ඔවො යේ මොයා පොරොදිත්සා."},
+   {sr:"Govorim srpski.",si:"මම Serbian කතා කරනවා.",reading:"ගොවොරිම් ස්ර්ප්ස්කි."},
+   {sr:"Odakle ste?",si:"ඔබ කොහෙන්ද?",reading:"ඔදාක්ලෙ ස්තෙ?"}
+  ],
+  examples:[
+   {sr:"Ovo je moja porodica.",reading:"ඔවො යේ මොයා පොරොදිත්සා.",si:"මේ මගේ පවුල."},
+   {sr:"Imam jednog brata i jednu sestru.",reading:"ඉමාම් යෙද්නොග් බ්‍රාතා ඉ යෙද්නු සෙස්ත්‍රු.",si:"මට සහෝදරයෙක් සහ සහෝදරියක් ඉන්නවා."},
+   {sr:"Govorim srpski i malo engleski.",reading:"ගොවොරිම් ස්ර්ප්ස්කි ඉ මාලො එන්ග්ලෙස්කි.",si:"මම Serbian සහ ටිකක් English කතා කරනවා."},
+   {sr:"Ja sam iz Šri Lanke.",reading:"යා සාම් ඉස් ශ්‍රි ලන්කෙ.",si:"මම ශ්‍රී ලංකාවෙන්."}
+  ],
+  dialogue:[
+   {sr:"Da li imate braću i sestre?",reading:"දා ලි ඉමාතෙ බ්‍රාචු ඉ සෙස්ත්‍රෙ?",si:"ඔබට සහෝදර සහෝදරියන් ඉන්නවාද?"},
+   {sr:"Da, imam jednog brata i jednu sestru.",reading:"දා, ඉමාම් යෙද්නොග් බ්‍රාතා ඉ යෙද්නු සෙස්ත්‍රු.",si:"ඔව්, මට සහෝදරයෙක් සහ සහෝදරියක් ඉන්නවා."},
+   {sr:"Odakle ste?",reading:"ඔදාක්ලෙ ස්තෙ?",si:"ඔබ කොහෙන්ද?"},
+   {sr:"Ja sam iz Šri Lanke. A vi?",reading:"යා සාම් ඉස් ශ්‍රි ලන්කෙ. අ වි?",si:"මම ශ්‍රී ලංකාවෙන්. ඔබ?"},
+   {sr:"Ja sam iz Srbije. Koje jezike govorite?",reading:"යා සාම් ඉස් ස්ර්බියේ. කොයේ යෙසිකෙ ගොවොරිතෙ?",si:"මම සර්බියාවෙන්. ඔබ මොන භාෂාද කතා කරන්නේ?"},
+   {sr:"Govorim sinhalski, engleski i malo srpski.",reading:"ගොවොරිම් සිංහල්ස්කි, එන්ග්ලෙස්කි ඉ මාලො ස්ර්ප්ස්කි.",si:"මම සිංහල, English සහ ටිකක් Serbian කතා කරනවා."}
+  ],
+  practice:[
+   {prompt:"“මගේ පවුල” කියන්නේ?",options:["Moja porodica","Moj brat","Moja sestra"],answer:0,explanation:"Moja porodica = මගේ පවුල."},
+   {prompt:"“මට සහෝදරයෙක් ඉන්නවා” තෝරන්න.",options:["Govorim srpski.","Imam brata.","Odakle ste?"],answer:1,explanation:"Imam = මට ඉන්නවා; brata = සහෝදරයෙක්."},
+   {prompt:"“මම Serbian කතා කරනවා” කියන්නේ?",options:["Živim u Srbiji.","Govorim srpski.","Ovo je moj otac."],answer:1,explanation:"Govorim srpski = මම Serbian කතා කරනවා."},
+   {prompt:"“ඔබ කොහෙන්ද?” විධිමත්ව අසන්න.",options:["Koliko imate godina?","Kako se zovete?","Odakle ste?"],answer:2,explanation:"Odakle ste? = ඔබ කොහෙන්ද?"}
+  ]
+ }
+
 
 ];
