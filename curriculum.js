@@ -76,5 +76,5 @@ export const B2_COURSE_STATUS = {
   pairedTopics: true,
   remainingLessons: 0,
   completedBatch: "lessons 1-50 in both languages",
-  remainingValidation: ["editorial review of Serbian idiom, grammar and Sinhala pronunciation", "review English-to-Sinhala translations and example quality", "expand contextual dialogues and topic-specific vocabulary practice", "create cumulative B2 revision and final assessments", "CI and Android device verification"]
+  remainingValidation: ["editorial review of Serbian idiom, grammar and Sinhala pronunciation", "review English-to-Sinhala translations and example quality", "expand contextual dialogues and topic-specific vocabulary practice", "review B2 revision and final exam questions, listening answer alignment and distractors", "CI and Android device verification"]
 };
