@@ -421,6 +421,7 @@ export default function App(){
  const s=useMemo(()=>makeStyles(C),[theme]);
  const [lessonAnswers,setLessonAnswers]=useState({});
  const [b1ExamSubmitted,setB1ExamSubmitted]=useState(false);
+ useEffect(()=>{setB1ExamSubmitted(false);},[language]);
  const [lessonChecked,setLessonChecked]=useState({});
  const [expandedLessonId,setExpandedLessonId]=useState(SERBIAN_A1_LESSONS[0]?.id||null);
  const [missionDone,setMissionDone]=useState([]);
