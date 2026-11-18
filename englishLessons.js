@@ -577,5 +577,55 @@ export const ENGLISH_A1_LESSONS = [
    {prompt:"“මට වැඩ මුරය මාරු කරගන්න පුළුවන්ද?” තෝරන්න.",options:["Can I swap my shift?","I work every day.","That's all."],readings:["කැන් අයි ස්වොප් මයි ෂිෆ්ට්?","අයි වර්ක් එව්රි ඩේ.","දැට්ස් ඕල්."],answer:0,explanation:"Can I ...? යනු මට ... කරන්න පුළුවන්ද? යන ඉල්ලීමේ රටාවයි."}
   ]
  }
+ ,
+ {
+  id:"en-a1-u4-l1",
+  unit:"Family and personal information",
+  title:"Lesson 17 · Family and personal information",
+  objective:"Introduce family members, say where you are from, and describe the languages you speak.",
+  vocabulary:[
+   {word:"Family",reading:"ෆැමිලි",meaning:"පවුල",example:"My family is big.",exampleReading:"මයි ෆැමිලි ඉස් බිග්.",translation:"මගේ පවුල විශාලයි."},
+   {word:"Mother",reading:"මදර්",meaning:"අම්මා",example:"My mother lives in Serbia.",exampleReading:"මයි මදර් ලිව්ස් ඉන් සර්බියා.",translation:"මගේ අම්මා සර්බියාවේ ජීවත් වෙනවා."},
+   {word:"Father",reading:"ෆාදර්",meaning:"තාත්තා",example:"My father works.",exampleReading:"මයි ෆාදර් වර්ක්ස්.",translation:"මගේ තාත්තා වැඩ කරනවා."},
+   {word:"Brother",reading:"බ්‍රදර්",meaning:"සහෝදරයා",example:"I have one brother.",exampleReading:"අයි හැව් වන් බ්‍රදර්.",translation:"මට සහෝදරයෙක් ඉන්නවා."},
+   {word:"Sister",reading:"සිස්ටර්",meaning:"සහෝදරිය",example:"I have one sister.",exampleReading:"අයි හැව් වන් සිස්ටර්.",translation:"මට සහෝදරියක් ඉන්නවා."},
+   {word:"Husband",reading:"හස්බන්ඩ්",meaning:"සැමියා",example:"This is my husband.",exampleReading:"දිස් ඉස් මයි හස්බන්ඩ්.",translation:"මේ මගේ සැමියා."},
+   {word:"Wife",reading:"වයිෆ්",meaning:"බිරිඳ",example:"This is my wife.",exampleReading:"දිස් ඉස් මයි වයිෆ්.",translation:"මේ මගේ බිරිඳ."},
+   {word:"I have",reading:"අයි හැව්",meaning:"මට ඉන්නවා / තිබෙනවා",example:"I have two sisters.",exampleReading:"අයි හැව් ටූ සිස්ටර්ස්.",translation:"මට සහෝදරියන් දෙදෙනෙක් ඉන්නවා."},
+   {word:"I speak",reading:"අයි ස්පීක්",meaning:"මම කතා කරනවා",example:"I speak Serbian and English.",exampleReading:"අයි ස්පීක් සර්බියන් ඇන්ඩ් ඉංග්ලිෂ්.",translation:"මම Serbian සහ English කතා කරනවා."},
+   {word:"Where are you from?",reading:"වෙයාර් ආ යූ ෆ්‍රම්?",meaning:"ඔබ කොහෙන්ද?",example:"Where are you from? I am from Sri Lanka.",exampleReading:"වෙයාර් ආ යූ ෆ්‍රම්? අයි ඇම් ෆ්‍රම් ශ්‍රී ලංකා.",translation:"ඔබ කොහෙන්ද? මම ශ්‍රී ලංකාවෙන්."}
+  ],
+  grammarTitle:"ව්‍යාකරණය · Talking about family and yourself",
+  grammar:"Use “have” to talk about family members: “I have a brother.” Use “my” before a family word to show possession: “my mother”, “my sister”. Use “I speak + language” for languages. Ask about a person's origin with “Where are you from?” and answer with “I am from + place.”",
+  grammarTerms:[
+   {text:"I have a brother.",reading:"අයි හැව් අ බ්‍රදර්.",meaning:"මට සහෝදරයෙක් ඉන්නවා."},
+   {text:"This is my family.",reading:"දිස් ඉස් මයි ෆැමිලි.",meaning:"මේ මගේ පවුල."},
+   {text:"I speak Serbian.",reading:"අයි ස්පීක් සර්බියන්.",meaning:"මම Serbian කතා කරනවා."},
+   {text:"Where are you from?",reading:"වෙයාර් ආ යූ ෆ්‍රම්?",meaning:"ඔබ කොහෙන්ද?"},
+   {text:"I am from Sri Lanka.",reading:"අයි ඇම් ෆ්‍රම් ශ්‍රී ලංකා.",meaning:"මම ශ්‍රී ලංකාවෙන්."}
+  ],
+  examples:[
+   {text:"This is my family.",reading:"දිස් ඉස් මයි ෆැමිලි.",meaning:"මේ මගේ පවුල."},
+   {text:"I have one brother and one sister.",reading:"අයි හැව් වන් බ්‍රදර් ඇන්ඩ් වන් සිස්ටර්.",meaning:"මට සහෝදරයෙක් සහ සහෝදරියක් ඉන්නවා."},
+   {text:"I speak Serbian and a little English.",reading:"අයි ස්පීක් සර්බියන් ඇන්ඩ් අ ලිට්ල් ඉංග්ලිෂ්.",meaning:"මම Serbian සහ ටිකක් English කතා කරනවා."},
+   {text:"I am from Sri Lanka.",reading:"අයි ඇම් ෆ්‍රම් ශ්‍රී ලංකා.",meaning:"මම ශ්‍රී ලංකාවෙන්."}
+  ],
+  dialogue:[
+   {text:"Do you have any brothers or sisters?",reading:"ඩූ යූ හැව් එනි බ්‍රදර්ස් ඕර් සිස්ටර්ස්?",meaning:"ඔබට සහෝදර සහෝදරියන් ඉන්නවාද?"},
+   {text:"Yes, I have one brother and one sister.",reading:"යෙස්, අයි හැව් වන් බ්‍රදර් ඇන්ඩ් වන් සිස්ටර්.",meaning:"ඔව්, මට සහෝදරයෙක් සහ සහෝදරියක් ඉන්නවා."},
+   {text:"Where are you from?",reading:"වෙයාර් ආ යූ ෆ්‍රම්?",meaning:"ඔබ කොහෙන්ද?"},
+   {text:"I am from Sri Lanka. And you?",reading:"අයි ඇම් ෆ්‍රම් ශ්‍රී ලංකා. ඇන්ඩ් යූ?",meaning:"මම ශ්‍රී ලංකාවෙන්. ඔබ?"},
+   {text:"I am from Serbia. What languages do you speak?",reading:"අයි ඇම් ෆ්‍රම් සර්බියා. වොට් ලැන්ග්විජස් ඩූ යූ ස්පීක්?",meaning:"මම සර්බියාවෙන්. ඔබ මොන භාෂාද කතා කරන්නේ?"},
+   {text:"I speak Sinhala, English and a little Serbian.",reading:"අයි ස්පීක් සිංහල, ඉංග්ලිෂ් ඇන්ඩ් අ ලිට්ල් සර්බියන්.",meaning:"මම සිංහල, English සහ ටිකක් Serbian කතා කරනවා."}
+  ],
+  listeningPractice:{prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “I speak Serbian and English.”",audio:"I speak Serbian and English.",options:["මම Serbian සහ English කතා කරනවා.","මට සහෝදරයෙක් ඉන්නවා.","මම ශ්‍රී ලංකාවෙන්."],readings:["අයි ස්පීක් සර්බියන් ඇන්ඩ් ඉංග්ලිෂ්.","අයි හැව් අ බ්‍රදර්.","අයි ඇම් ෆ්‍රම් ශ්‍රී ලංකා."],answer:0,meaning:"I speak Serbian and English. = මම Serbian සහ English කතා කරනවා."},
+  practice:[
+   {prompt:"“මගේ පවුල” තෝරන්න.",options:["My brother","My family","My mother"],readings:["මයි බ්‍රදර්","මයි ෆැමිලි","මයි මදර්"],answer:1,explanation:"My family = මගේ පවුල."},
+   {prompt:"“මට සහෝදරයෙක් ඉන්නවා” කියන්නේ?",options:["I speak Serbian.","I have a brother.","I am from Serbia."],readings:["අයි ස්පීක් සර්බියන්.","අයි හැව් අ බ්‍රදර්.","අයි ඇම් ෆ්‍රම් සර්බියා."],answer:1,explanation:"I have a brother = මට සහෝදරයෙක් ඉන්නවා."},
+   {prompt:"“මම English කතා කරනවා” කියන්නේ?",options:["I live in England.","I speak English.","I have English."],readings:["අයි ලිව් ඉන් ඉංග්ලන්ඩ්.","අයි ස්පීක් ඉංග්ලිෂ්.","අයි හැව් ඉංග්ලිෂ්."],answer:1,explanation:"I speak English = මම English කතා කරනවා."},
+   {prompt:"“ඔබ කොහෙන්ද?” අසන්න.",options:["How old are you?","Where are you from?","What time is it?"],readings:["හවු ඕල්ඩ් ආ යූ?","වෙයාර් ආ යූ ෆ්‍රම්?","වොට් ටයිම් ඉස් ඉට්?"],answer:1,explanation:"Where are you from? = ඔබ කොහෙන්ද?"}
+  ]
+ }
+
 
 ];
