@@ -181,3 +181,6 @@
 
 
 - 2026-11-18 continuation: Added exact dictionary entries for Sinhala-script readings of Serbian A1 number vocabulary, from `nula` through `hiljadu` (including 11–19, tens, and hundreds 100–900). This ensures the vocabulary book uses deliberate whole-word readings instead of the generic character fallback for the number lesson. App commit: `545e8bb4aa2b17bc307c6819de5db271d093eee8`. Sinhala readings are learner approximations and should be checked against Serbian audio/native-speaker feedback.
+
+
+- 2026-11-18 continuation: Expanded Serbian A1 number lesson beyond 1,000 with `sto hiljada` (100,000), `dvesta hiljada` (200,000), and `milion` / `jedan milion` (1,000,000). Added Sinhala meanings, lesson examples, grammar explanation of the `hiljada` construction, and exact dictionary readings for the new terms and money examples. Lesson commit: `8631690bcef019b8a615b5d45ff972fb6572431f`; pronunciation commit: `e12cca04075e387835543c7df7cb064550439e0e`. The readings are approximate Sinhala guides; Serbian audio should be used to hear pronunciation.
