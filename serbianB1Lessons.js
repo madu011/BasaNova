@@ -5099,5 +5099,3405 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "Hajde da napravimo plan = අපි සැලැස්මක් හදමු."
       }
     ]
+  },
+  {
+    "id": "sr-b1-l31",
+    "unit": "ස්වාධීන භාවිතය",
+    "title": "B1 · පාඩම 31 · විද්‍යාව සහ නව සොයාගැනීම්",
+    "objective": "විද්‍යාව සහ නව සොයාගැනීම් ගැන පැහැදිලිව කතා කිරීම සහ උදාහරණ ඉදිරිපත් කිරීම",
+    "vocabulary": [
+      {
+        "word": "otkriće",
+        "reading": "ඔත්ක්‍රිචෙ",
+        "meaning": "සොයාගැනීම",
+        "example": "Naučna otkrića menjaju način na koji razumemo svet.",
+        "translation": "Scientific discoveries change how we understand the world."
+      },
+      {
+        "word": "istraživanje",
+        "reading": "ඉස්ත්‍රාෂිවාන්යේ",
+        "meaning": "පර්යේෂණය",
+        "example": "Naučna otkrića menjaju način na koji razumemo svet.",
+        "translation": "Scientific discoveries change how we understand the world."
+      },
+      {
+        "word": "eksperiment",
+        "reading": "එක්ස්පෙරිමෙන්ත්",
+        "meaning": "පරීක්ෂණය",
+        "example": "Naučna otkrića menjaju način na koji razumemo svet.",
+        "translation": "Scientific discoveries change how we understand the world."
+      },
+      {
+        "word": "naučnik",
+        "reading": "නාඋච්නික්",
+        "meaning": "විද්‍යාඥයා",
+        "example": "Naučna otkrića menjaju način na koji razumemo svet.",
+        "translation": "Scientific discoveries change how we understand the world."
+      },
+      {
+        "word": "dokaz",
+        "reading": "දොකාස්",
+        "meaning": "සාක්ෂිය",
+        "example": "Naučna otkrića menjaju način na koji razumemo svet.",
+        "translation": "Scientific discoveries change how we understand the world."
+      },
+      {
+        "word": "tehnologija",
+        "reading": "තෙහ්නොලොගියා",
+        "meaning": "තාක්ෂණය",
+        "example": "Naučna otkrića menjaju način na koji razumemo svet.",
+        "translation": "Scientific discoveries change how we understand the world."
+      },
+      {
+        "word": "razviti",
+        "reading": "රාස්විති",
+        "meaning": "දියුණු කරනවා",
+        "example": "Naučna otkrića menjaju način na koji razumemo svet.",
+        "translation": "Scientific discoveries change how we understand the world."
+      },
+      {
+        "word": "rezultat",
+        "reading": "රෙසුල්තාත්",
+        "meaning": "ප්‍රතිඵලය",
+        "example": "Naučna otkrića menjaju način na koji razumemo svet.",
+        "translation": "Scientific discoveries change how we understand the world."
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "Passive voice and present perfect for discoveries.",
+    "grammarTerms": [
+      {
+        "sr": "Naučna otkrića menjaju način na koji razumemo svet.",
+        "reading": "නාඋච්නා ඔත්ක්‍රිචා මෙන්යායු නාචින් නා කොයි රාසුමෙමො ස්වෙත්.",
+        "si": "Scientific discoveries change how we understand the world."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Naučna otkrića menjaju način na koji razumemo svet.",
+        "reading": "නාඋච්නා ඔත්ක්‍රිචා මෙන්යායු නාචින් නා කොයි රාසුමෙමො ස්වෙත්.",
+        "si": "Scientific discoveries change how we understand the world."
+      },
+      {
+        "sr": "Važno je da pažljivo razmotrimo sve mogućnosti.",
+        "reading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
+        "reading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
+        "si": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      },
+      {
+        "sr": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
+        "reading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ.",
+        "si": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "A: Naučna otkrića menjaju način na koji razumemo svet.",
+        "reading": "A: නාඋච්නා ඔත්ක්‍රිචා මෙන්යායු නාචින් නා කොයි රාසුමෙමො ස්වෙත්.",
+        "si": "Scientific discoveries change how we understand the world."
+      },
+      {
+        "sr": "B: Možeš li da navedeš primer?",
+        "reading": "B: මොෂෙෂ් ලි ද නාවෙදෙෂ් ප්‍රිමෙර්?",
+        "si": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+      },
+      {
+        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
+        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "B: Slažem se. Tako možemo da donesemo bolju odluku.",
+        "reading": "B: ස්ලාෂෙම් සෙ. තාකො මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
+        "si": "එකඟයි. එහෙම අපට වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Naučna otkrića menjaju način na koji razumemo svet.",
+      "audio": "Naučna otkrića menjaju način na koji razumemo svet.",
+      "reading": "නාඋච්නා ඔත්ක්‍රිචා මෙන්යායු නාචින් නා කොයි රාසුමෙමො ස්වෙත්.",
+      "options": [
+        "Scientific discoveries change how we understand the world.",
+        "වෙනත් අදහසක්",
+        "ප්‍රශ්නයක්"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“otkriće” යන්නෙහි තේරුම?",
+        "options": [
+          "සොයාගැනීම",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් අර්ථයක්"
+        ],
+        "answer": 0,
+        "explanation": "otkriće = සොයාගැනීම"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Yesterday I will goes.",
+          "Naučna otkrića menjaju način na koji razumemo svet.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "Scientific discoveries change how we understand the world."
+      },
+      {
+        "prompt": "“istraživanje” යන්නෙහි තේරුම?",
+        "options": [
+          "පර්යේෂණය",
+          "අදාළ නැති වචනය",
+          "විරුද්ධ අර්ථය"
+        ],
+        "answer": 0,
+        "explanation": "istraživanje = පර්යේෂණය"
+      },
+      {
+        "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+        "options": [
+          "උදාහරණයක්",
+          "මිලක්",
+          "ලිපිනයක්"
+        ],
+        "answer": 0,
+        "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "sr-b1-l32",
+    "unit": "ස්වාධීන භාවිතය",
+    "title": "B1 · පාඩම 32 · නීති, අයිතිවාසිකම් සහ වගකීම්",
+    "objective": "නීති, අයිතිවාසිකම් සහ වගකීම් ගැන පැහැදිලිව කතා කිරීම සහ උදාහරණ ඉදිරිපත් කිරීම",
+    "vocabulary": [
+      {
+        "word": "pravo",
+        "reading": "ප්‍රාවො",
+        "meaning": "අයිතිය",
+        "example": "Svako ima prava i odgovornosti prema drugima.",
+        "translation": "Everyone has rights and responsibilities towards others."
+      },
+      {
+        "word": "odgovornost",
+        "reading": "ඔද්ගොවොර්නොස්ත්",
+        "meaning": "වගකීම",
+        "example": "Svako ima prava i odgovornosti prema drugima.",
+        "translation": "Everyone has rights and responsibilities towards others."
+      },
+      {
+        "word": "zakon",
+        "reading": "සාකොන්",
+        "meaning": "නීතිය",
+        "example": "Svako ima prava i odgovornosti prema drugima.",
+        "translation": "Everyone has rights and responsibilities towards others."
+      },
+      {
+        "word": "pravilo",
+        "reading": "ප්‍රාවිලො",
+        "meaning": "රීතිය",
+        "example": "Svako ima prava i odgovornosti prema drugima.",
+        "translation": "Everyone has rights and responsibilities towards others."
+      },
+      {
+        "word": "dozvola",
+        "reading": "දොස්වොලා",
+        "meaning": "අවසරය",
+        "example": "Svako ima prava i odgovornosti prema drugima.",
+        "translation": "Everyone has rights and responsibilities towards others."
+      },
+      {
+        "word": "obaveza",
+        "reading": "ඔබාවේසා",
+        "meaning": "බැඳීම",
+        "example": "Svako ima prava i odgovornosti prema drugima.",
+        "translation": "Everyone has rights and responsibilities towards others."
+      },
+      {
+        "word": "pravedan",
+        "reading": "ප්‍රාවෙදාන්",
+        "meaning": "සාධාරණ",
+        "example": "Svako ima prava i odgovornosti prema drugima.",
+        "translation": "Everyone has rights and responsibilities towards others."
+      },
+      {
+        "word": "zaštititi",
+        "reading": "සාෂ්තිති",
+        "meaning": "ආරක්ෂා කරනවා",
+        "example": "Svako ima prava i odgovornosti prema drugima.",
+        "translation": "Everyone has rights and responsibilities towards others."
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "Modal verbs and conditional clauses for obligations.",
+    "grammarTerms": [
+      {
+        "sr": "Svako ima prava i odgovornosti prema drugima.",
+        "reading": "ස්වාකො ඉමා ප්‍රාවා ඉ ඔද්ගොවොර්නොස්ති ප්‍රෙමා ද්රුගිමා.",
+        "si": "Everyone has rights and responsibilities towards others."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Svako ima prava i odgovornosti prema drugima.",
+        "reading": "ස්වාකො ඉමා ප්‍රාවා ඉ ඔද්ගොවොර්නොස්ති ප්‍රෙමා ද්රුගිමා.",
+        "si": "Everyone has rights and responsibilities towards others."
+      },
+      {
+        "sr": "Važno je da pažljivo razmotrimo sve mogućnosti.",
+        "reading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
+        "reading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
+        "si": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      },
+      {
+        "sr": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
+        "reading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ.",
+        "si": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "A: Svako ima prava i odgovornosti prema drugima.",
+        "reading": "A: ස්වාකො ඉමා ප්‍රාවා ඉ ඔද්ගොවොර්නොස්ති ප්‍රෙමා ද්රුගිමා.",
+        "si": "Everyone has rights and responsibilities towards others."
+      },
+      {
+        "sr": "B: Možeš li da navedeš primer?",
+        "reading": "B: මොෂෙෂ් ලි ද නාවෙදෙෂ් ප්‍රිමෙර්?",
+        "si": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+      },
+      {
+        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
+        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "B: Slažem se. Tako možemo da donesemo bolju odluku.",
+        "reading": "B: ස්ලාෂෙම් සෙ. තාකො මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
+        "si": "එකඟයි. එහෙම අපට වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Svako ima prava i odgovornosti prema drugima.",
+      "audio": "Svako ima prava i odgovornosti prema drugima.",
+      "reading": "ස්වාකො ඉමා ප්‍රාවා ඉ ඔද්ගොවොර්නොස්ති ප්‍රෙමා ද්රුගිමා.",
+      "options": [
+        "Everyone has rights and responsibilities towards others.",
+        "වෙනත් අදහසක්",
+        "ප්‍රශ්නයක්"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“pravo” යන්නෙහි තේරුම?",
+        "options": [
+          "අයිතිය",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් අර්ථයක්"
+        ],
+        "answer": 0,
+        "explanation": "pravo = අයිතිය"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Yesterday I will goes.",
+          "Svako ima prava i odgovornosti prema drugima.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "Everyone has rights and responsibilities towards others."
+      },
+      {
+        "prompt": "“odgovornost” යන්නෙහි තේරුම?",
+        "options": [
+          "වගකීම",
+          "අදාළ නැති වචනය",
+          "විරුද්ධ අර්ථය"
+        ],
+        "answer": 0,
+        "explanation": "odgovornost = වගකීම"
+      },
+      {
+        "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+        "options": [
+          "උදාහරණයක්",
+          "මිලක්",
+          "ලිපිනයක්"
+        ],
+        "answer": 0,
+        "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "sr-b1-l33",
+    "unit": "ස්වාධීන භාවිතය",
+    "title": "B1 · පාඩම 33 · කලාව සහ නිර්මාණශීලීත්වය",
+    "objective": "කලාව සහ නිර්මාණශීලීත්වය ගැන පැහැදිලිව කතා කිරීම සහ උදාහරණ ඉදිරිපත් කිරීම",
+    "vocabulary": [
+      {
+        "word": "kreativnost",
+        "reading": "ක්‍රෙඅතිව්නොස්ත්",
+        "meaning": "නිර්මාණශීලීත්වය",
+        "example": "Umetnost nam omogućava da izrazimo osećanja na različite načine.",
+        "translation": "Art allows us to express feelings in different ways."
+      },
+      {
+        "word": "slika",
+        "reading": "ස්ලිකා",
+        "meaning": "චිත්‍රය",
+        "example": "Umetnost nam omogućava da izrazimo osećanja na različite načine.",
+        "translation": "Art allows us to express feelings in different ways."
+      },
+      {
+        "word": "izložba",
+        "reading": "ඉස්ලොෂ්බා",
+        "meaning": "ප්‍රදර්ශනය",
+        "example": "Umetnost nam omogućava da izrazimo osećanja na različite načine.",
+        "translation": "Art allows us to express feelings in different ways."
+      },
+      {
+        "word": "nastup",
+        "reading": "නාස්තුප්",
+        "meaning": "ප්‍රසංගය",
+        "example": "Umetnost nam omogućava da izrazimo osećanja na različite načine.",
+        "translation": "Art allows us to express feelings in different ways."
+      },
+      {
+        "word": "inspiracija",
+        "reading": "ඉන්ස්පිරාත්සියා",
+        "meaning": "ආභාසය",
+        "example": "Umetnost nam omogućava da izrazimo osećanja na različite načine.",
+        "translation": "Art allows us to express feelings in different ways."
+      },
+      {
+        "word": "talenat",
+        "reading": "තාලෙනාත්",
+        "meaning": "දක්ෂතාව",
+        "example": "Umetnost nam omogućava da izrazimo osećanja na različite načine.",
+        "translation": "Art allows us to express feelings in different ways."
+      },
+      {
+        "word": "zanat",
+        "reading": "සානාත්",
+        "meaning": "හස්ත කර්මාන්තය",
+        "example": "Umetnost nam omogućava da izrazimo osećanja na različite načine.",
+        "translation": "Art allows us to express feelings in different ways."
+      },
+      {
+        "word": "publika",
+        "reading": "පුබ්ලිකා",
+        "meaning": "ප්‍රේක්ෂකයෝ",
+        "example": "Umetnost nam omogućava da izrazimo osećanja na različite načine.",
+        "translation": "Art allows us to express feelings in different ways."
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "Relative clauses and descriptive adjectives.",
+    "grammarTerms": [
+      {
+        "sr": "Umetnost nam omogućava da izrazimo osećanja na različite načine.",
+        "reading": "උමෙත්නොස්ත් නාම් ඔමොගුචාවා ද ඉස්‍රාසිමො ඔසෙචාන්යා නා රාස්ලිචිතෙ නාචිනෙ.",
+        "si": "Art allows us to express feelings in different ways."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Umetnost nam omogućava da izrazimo osećanja na različite načine.",
+        "reading": "උමෙත්නොස්ත් නාම් ඔමොගුචාවා ද ඉස්‍රාසිමො ඔසෙචාන්යා නා රාස්ලිචිතෙ නාචිනෙ.",
+        "si": "Art allows us to express feelings in different ways."
+      },
+      {
+        "sr": "Važno je da pažljivo razmotrimo sve mogućnosti.",
+        "reading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
+        "reading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
+        "si": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      },
+      {
+        "sr": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
+        "reading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ.",
+        "si": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "A: Umetnost nam omogućava da izrazimo osećanja na različite načine.",
+        "reading": "A: උමෙත්නොස්ත් නාම් ඔමොගුචාවා ද ඉස්‍රාසිමො ඔසෙචාන්යා නා රාස්ලිචිතෙ නාචිනෙ.",
+        "si": "Art allows us to express feelings in different ways."
+      },
+      {
+        "sr": "B: Možeš li da navedeš primer?",
+        "reading": "B: මොෂෙෂ් ලි ද නාවෙදෙෂ් ප්‍රිමෙර්?",
+        "si": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+      },
+      {
+        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
+        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "B: Slažem se. Tako možemo da donesemo bolju odluku.",
+        "reading": "B: ස්ලාෂෙම් සෙ. තාකො මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
+        "si": "එකඟයි. එහෙම අපට වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Umetnost nam omogućava da izrazimo osećanja na različite načine.",
+      "audio": "Umetnost nam omogućava da izrazimo osećanja na različite načine.",
+      "reading": "උමෙත්නොස්ත් නාම් ඔමොගුචාවා ද ඉස්‍රාසිමො ඔසෙචාන්යා නා රාස්ලිචිතෙ නාචිනෙ.",
+      "options": [
+        "Art allows us to express feelings in different ways.",
+        "වෙනත් අදහසක්",
+        "ප්‍රශ්නයක්"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“kreativnost” යන්නෙහි තේරුම?",
+        "options": [
+          "නිර්මාණශීලීත්වය",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් අර්ථයක්"
+        ],
+        "answer": 0,
+        "explanation": "kreativnost = නිර්මාණශීලීත්වය"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Yesterday I will goes.",
+          "Umetnost nam omogućava da izrazimo osećanja na različite načine.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "Art allows us to express feelings in different ways."
+      },
+      {
+        "prompt": "“slika” යන්නෙහි තේරුම?",
+        "options": [
+          "චිත්‍රය",
+          "අදාළ නැති වචනය",
+          "විරුද්ධ අර්ථය"
+        ],
+        "answer": 0,
+        "explanation": "slika = චිත්‍රය"
+      },
+      {
+        "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+        "options": [
+          "උදාහරණයක්",
+          "මිලක්",
+          "ලිපිනයක්"
+        ],
+        "answer": 0,
+        "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "sr-b1-l34",
+    "unit": "ස්වාධීන භාවිතය",
+    "title": "B1 · පාඩම 34 · ආර්ථිකය සහ රැකියා වෙළඳපොළ",
+    "objective": "ආර්ථිකය සහ රැකියා වෙළඳපොළ ගැන පැහැදිලිව කතා කිරීම සහ උදාහරණ ඉදිරිපත් කිරීම",
+    "vocabulary": [
+      {
+        "word": "ekonomija",
+        "reading": "එකොනොමියා",
+        "meaning": "ආර්ථිකය",
+        "example": "Tržište rada se menja zbog novih veština i tehnologije.",
+        "translation": "The job market is changing because of new skills and technology."
+      },
+      {
+        "word": "tržište rada",
+        "reading": "ත්‍ර්ෂිෂ්තෙ රාදා",
+        "meaning": "රැකියා වෙළඳපොළ",
+        "example": "Tržište rada se menja zbog novih veština i tehnologije.",
+        "translation": "The job market is changing because of new skills and technology."
+      },
+      {
+        "word": "zaposlenje",
+        "reading": "සාපොස්ලෙන්යේ",
+        "meaning": "රැකියාව",
+        "example": "Tržište rada se menja zbog novih veština i tehnologije.",
+        "translation": "The job market is changing because of new skills and technology."
+      },
+      {
+        "word": "nezaposlenost",
+        "reading": "නෙසапොස්ලෙනොස්ත්",
+        "meaning": "විරැකියාව",
+        "example": "Tržište rada se menja zbog novih veština i tehnologije.",
+        "translation": "The job market is changing because of new skills and technology."
+      },
+      {
+        "word": "plata",
+        "reading": "ප්ලාතා",
+        "meaning": "වැටුප",
+        "example": "Tržište rada se menja zbog novih veština i tehnologije.",
+        "translation": "The job market is changing because of new skills and technology."
+      },
+      {
+        "word": "potražnja",
+        "reading": "පොත්‍රාෂ්න්යා",
+        "meaning": "ඉල්ලුම",
+        "example": "Tržište rada se menja zbog novih veština i tehnologije.",
+        "translation": "The job market is changing because of new skills and technology."
+      },
+      {
+        "word": "ponuda",
+        "reading": "පොනුදා",
+        "meaning": "සැපයුම",
+        "example": "Tržište rada se menja zbog novih veština i tehnologije.",
+        "translation": "The job market is changing because of new skills and technology."
+      },
+      {
+        "word": "industrija",
+        "reading": "ඉන්දුස්ත්‍රියා",
+        "meaning": "කර්මාන්තය",
+        "example": "Tržište rada se menja zbog novih veština i tehnologije.",
+        "translation": "The job market is changing because of new skills and technology."
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "Comparatives, trends and cause-effect connectors.",
+    "grammarTerms": [
+      {
+        "sr": "Tržište rada se menja zbog novih veština i tehnologije.",
+        "reading": "ත්‍ර්ෂිෂ්තෙ රාදා සෙ මෙන්යා ස්බොග් නොවිහ් වෙෂ්තිනා ඉ තෙහ්නොලොගියේ.",
+        "si": "The job market is changing because of new skills and technology."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Tržište rada se menja zbog novih veština i tehnologije.",
+        "reading": "ත්‍ර්ෂිෂ්තෙ රාදා සෙ මෙන්යා ස්බොග් නොවිහ් වෙෂ්තිනා ඉ තෙහ්නොලොගියේ.",
+        "si": "The job market is changing because of new skills and technology."
+      },
+      {
+        "sr": "Važno je da pažljivo razmotrimo sve mogućnosti.",
+        "reading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
+        "reading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
+        "si": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      },
+      {
+        "sr": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
+        "reading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ.",
+        "si": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "A: Tržište rada se menja zbog novih veština i tehnologije.",
+        "reading": "A: ත්‍ර්ෂිෂ්තෙ රාදා සෙ මෙන්යා ස්බොග් නොවිහ් වෙෂ්තිනා ඉ තෙහ්නොලොගියේ.",
+        "si": "The job market is changing because of new skills and technology."
+      },
+      {
+        "sr": "B: Možeš li da navedeš primer?",
+        "reading": "B: මොෂෙෂ් ලි ද නාවෙදෙෂ් ප්‍රිමෙර්?",
+        "si": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+      },
+      {
+        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
+        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "B: Slažem se. Tako možemo da donesemo bolju odluku.",
+        "reading": "B: ස්ලාෂෙම් සෙ. තාකො මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
+        "si": "එකඟයි. එහෙම අපට වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Tržište rada se menja zbog novih veština i tehnologije.",
+      "audio": "Tržište rada se menja zbog novih veština i tehnologije.",
+      "reading": "ත්‍ර්ෂිෂ්තෙ රාදා සෙ මෙන්යා ස්බොග් නොවිහ් වෙෂ්තිනා ඉ තෙහ්නොලොගියේ.",
+      "options": [
+        "The job market is changing because of new skills and technology.",
+        "වෙනත් අදහසක්",
+        "ප්‍රශ්නයක්"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“ekonomija” යන්නෙහි තේරුම?",
+        "options": [
+          "ආර්ථිකය",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් අර්ථයක්"
+        ],
+        "answer": 0,
+        "explanation": "ekonomija = ආර්ථිකය"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Yesterday I will goes.",
+          "Tržište rada se menja zbog novih veština i tehnologije.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "The job market is changing because of new skills and technology."
+      },
+      {
+        "prompt": "“tržište rada” යන්නෙහි තේරුම?",
+        "options": [
+          "රැකියා වෙළඳපොළ",
+          "අදාළ නැති වචනය",
+          "විරුද්ධ අර්ථය"
+        ],
+        "answer": 0,
+        "explanation": "tržište rada = රැකියා වෙළඳපොළ"
+      },
+      {
+        "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+        "options": [
+          "උදාහරණයක්",
+          "මිලක්",
+          "ලිපිනයක්"
+        ],
+        "answer": 0,
+        "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "sr-b1-l35",
+    "unit": "ස්වාධීන භාවිතය",
+    "title": "B1 · පාඩම 35 · නිවාස, කුලී සහ අසල්වැසි ජීවිතය",
+    "objective": "නිවාස, කුලී සහ අසල්වැසි ජීවිතය ගැන පැහැදිලිව කතා කිරීම සහ උදාහරණ ඉදිරිපත් කිරීම",
+    "vocabulary": [
+      {
+        "word": "kirija",
+        "reading": "කිරියා",
+        "meaning": "කුලිය",
+        "example": "Pre potpisivanja ugovora treba pažljivo proveriti uslove.",
+        "translation": "Before signing a contract, we should check the conditions carefully."
+      },
+      {
+        "word": "stanodavac",
+        "reading": "ස්තනොදාවාත්ස්",
+        "meaning": "නිවාස හිමියා",
+        "example": "Pre potpisivanja ugovora treba pažljivo proveriti uslove.",
+        "translation": "Before signing a contract, we should check the conditions carefully."
+      },
+      {
+        "word": "stanar",
+        "reading": "ස්තනාර්",
+        "meaning": "කුලී නිවැසියා",
+        "example": "Pre potpisivanja ugovora treba pažljivo proveriti uslove.",
+        "translation": "Before signing a contract, we should check the conditions carefully."
+      },
+      {
+        "word": "ugovor",
+        "reading": "උගොවොර්",
+        "meaning": "ගිවිසුම",
+        "example": "Pre potpisivanja ugovora treba pažljivo proveriti uslove.",
+        "translation": "Before signing a contract, we should check the conditions carefully."
+      },
+      {
+        "word": "depozit",
+        "reading": "දෙපොසිත්",
+        "meaning": "තැන්පතුව",
+        "example": "Pre potpisivanja ugovora treba pažljivo proveriti uslove.",
+        "translation": "Before signing a contract, we should check the conditions carefully."
+      },
+      {
+        "word": "račun za komunalije",
+        "reading": "රාචුන් සා කොමුනාලියේ",
+        "meaning": "උපයෝගිතා බිල්පත",
+        "example": "Pre potpisivanja ugovora treba pažljivo proveriti uslove.",
+        "translation": "Before signing a contract, we should check the conditions carefully."
+      },
+      {
+        "word": "komšija",
+        "reading": "කොම්ෂියා",
+        "meaning": "අසල්වැසියා",
+        "example": "Pre potpisivanja ugovora treba pažljivo proveriti uslove.",
+        "translation": "Before signing a contract, we should check the conditions carefully."
+      },
+      {
+        "word": "održavanje",
+        "reading": "ඔද්ර්ෂාවාන්යේ",
+        "meaning": "නඩත්තුව",
+        "example": "Pre potpisivanja ugovora treba pažljivo proveriti uslove.",
+        "translation": "Before signing a contract, we should check the conditions carefully."
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "Need to, should have and before/after clauses.",
+    "grammarTerms": [
+      {
+        "sr": "Pre potpisivanja ugovora treba pažljivo proveriti uslove.",
+        "reading": "ප්‍රෙ පොත්පිසිවාන්යා උගොවොරා ත්‍රෙබා පාෂ්ල්යීවො ප්‍රොවෙරිති උස්ලොවෙ.",
+        "si": "Before signing a contract, we should check the conditions carefully."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Pre potpisivanja ugovora treba pažljivo proveriti uslove.",
+        "reading": "ප්‍රෙ පොත්පිසිවාන්යා උගොවොරා ත්‍රෙබා පාෂ්ල්යීවො ප්‍රොවෙරිති උස්ලොවෙ.",
+        "si": "Before signing a contract, we should check the conditions carefully."
+      },
+      {
+        "sr": "Važno je da pažljivo razmotrimo sve mogućnosti.",
+        "reading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
+        "reading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
+        "si": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      },
+      {
+        "sr": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
+        "reading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ.",
+        "si": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "A: Pre potpisivanja ugovora treba pažljivo proveriti uslove.",
+        "reading": "A: ප්‍රෙ පොත්පිසිවාන්යා උගොවොරා ත්‍රෙබා පාෂ්ල්යීවො ප්‍රොවෙරිති උස්ලොවෙ.",
+        "si": "Before signing a contract, we should check the conditions carefully."
+      },
+      {
+        "sr": "B: Možeš li da navedeš primer?",
+        "reading": "B: මොෂෙෂ් ලි ද නාවෙදෙෂ් ප්‍රිමෙර්?",
+        "si": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+      },
+      {
+        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
+        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "B: Slažem se. Tako možemo da donesemo bolju odluku.",
+        "reading": "B: ස්ලාෂෙම් සෙ. තාකො මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
+        "si": "එකඟයි. එහෙම අපට වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Pre potpisivanja ugovora treba pažljivo proveriti uslove.",
+      "audio": "Pre potpisivanja ugovora treba pažljivo proveriti uslove.",
+      "reading": "ප්‍රෙ පොත්පිසිවාන්යා උගොවොරා ත්‍රෙබා පාෂ්ල්යීවො ප්‍රොවෙරිති උස්ලොවෙ.",
+      "options": [
+        "Before signing a contract, we should check the conditions carefully.",
+        "වෙනත් අදහසක්",
+        "ප්‍රශ්නයක්"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“kirija” යන්නෙහි තේරුම?",
+        "options": [
+          "කුලිය",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් අර්ථයක්"
+        ],
+        "answer": 0,
+        "explanation": "kirija = කුලිය"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Yesterday I will goes.",
+          "Pre potpisivanja ugovora treba pažljivo proveriti uslove.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "Before signing a contract, we should check the conditions carefully."
+      },
+      {
+        "prompt": "“stanodavac” යන්නෙහි තේරුම?",
+        "options": [
+          "නිවාස හිමියා",
+          "අදාළ නැති වචනය",
+          "විරුද්ධ අර්ථය"
+        ],
+        "answer": 0,
+        "explanation": "stanodavac = නිවාස හිමියා"
+      },
+      {
+        "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+        "options": [
+          "උදාහරණයක්",
+          "මිලක්",
+          "ලිපිනයක්"
+        ],
+        "answer": 0,
+        "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "sr-b1-l36",
+    "unit": "ස්වාධීන භාවිතය",
+    "title": "B1 · පාඩම 36 · පොදු ප්‍රවාහනය සහ නගර පහසුකම්",
+    "objective": "පොදු ප්‍රවාහනය සහ නගර පහසුකම් ගැන පැහැදිලිව කතා කිරීම සහ උදාහරණ ඉදිරිපත් කිරීම",
+    "vocabulary": [
+      {
+        "word": "infrastruktura",
+        "reading": "ඉන්ෆ්‍රාස්ත්‍රුක්තුරා",
+        "meaning": "යටිතල පහසුකම්",
+        "example": "Pouzdan javni prevoz može da smanji gužvu u gradu.",
+        "translation": "Reliable public transport can reduce congestion in a city."
+      },
+      {
+        "word": "gužva",
+        "reading": "ගුෂ්වා",
+        "meaning": "වාහන තදබදය",
+        "example": "Pouzdan javni prevoz može da smanji gužvu u gradu.",
+        "translation": "Reliable public transport can reduce congestion in a city."
+      },
+      {
+        "word": "linija",
+        "reading": "ලිනියා",
+        "meaning": "මාර්ගය",
+        "example": "Pouzdan javni prevoz može da smanji gužvu u gradu.",
+        "translation": "Reliable public transport can reduce congestion in a city."
+      },
+      {
+        "word": "metro",
+        "reading": "මෙත්‍රො",
+        "meaning": "භූගත දුම්රිය",
+        "example": "Pouzdan javni prevoz može da smanji gužvu u gradu.",
+        "translation": "Reliable public transport can reduce congestion in a city."
+      },
+      {
+        "word": "pouzdan",
+        "reading": "පොඋස්දාන්",
+        "meaning": "විශ්වාසදායක",
+        "example": "Pouzdan javni prevoz može da smanji gužvu u gradu.",
+        "translation": "Reliable public transport can reduce congestion in a city."
+      },
+      {
+        "word": "pristupačan",
+        "reading": "ප්‍රිස්තුපාචාන්",
+        "meaning": "ප්‍රවේශ විය හැකි",
+        "example": "Pouzdan javni prevoz može da smanji gužvu u gradu.",
+        "translation": "Reliable public transport can reduce congestion in a city."
+      },
+      {
+        "word": "objekat",
+        "reading": "ඔබ්යෙකාත්",
+        "meaning": "පහසුකම",
+        "example": "Pouzdan javni prevoz može da smanji gužvu u gradu.",
+        "translation": "Reliable public transport can reduce congestion in a city."
+      },
+      {
+        "word": "izgradnja",
+        "reading": "ඉස්ග්‍රාද්න්යා",
+        "meaning": "ඉදිකිරීම",
+        "example": "Pouzdan javni prevoz može da smanji gužvu u gradu.",
+        "translation": "Reliable public transport can reduce congestion in a city."
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "Passive voice and modal verbs for public services.",
+    "grammarTerms": [
+      {
+        "sr": "Pouzdan javni prevoz može da smanji gužvu u gradu.",
+        "reading": "පොඋස්දාන් යාව්නි ප්‍රෙවොස් මොෂෙ ද ස්මාන්යි ගුෂ්වු උ ග්‍රාදු.",
+        "si": "Reliable public transport can reduce congestion in a city."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Pouzdan javni prevoz može da smanji gužvu u gradu.",
+        "reading": "පොඋස්දාන් යාව්නි ප්‍රෙවොස් මොෂෙ ද ස්මාන්යි ගුෂ්වු උ ග්‍රාදු.",
+        "si": "Reliable public transport can reduce congestion in a city."
+      },
+      {
+        "sr": "Važno je da pažljivo razmotrimo sve mogućnosti.",
+        "reading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
+        "reading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
+        "si": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      },
+      {
+        "sr": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
+        "reading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ.",
+        "si": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "A: Pouzdan javni prevoz može da smanji gužvu u gradu.",
+        "reading": "A: පොඋස්දාන් යාව්නි ප්‍රෙවොස් මොෂෙ ද ස්මාන්යි ගුෂ්වු උ ග්‍රාදු.",
+        "si": "Reliable public transport can reduce congestion in a city."
+      },
+      {
+        "sr": "B: Možeš li da navedeš primer?",
+        "reading": "B: මොෂෙෂ් ලි ද නාවෙදෙෂ් ප්‍රිමෙර්?",
+        "si": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+      },
+      {
+        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
+        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "B: Slažem se. Tako možemo da donesemo bolju odluku.",
+        "reading": "B: ස්ලාෂෙම් සෙ. තාකො මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
+        "si": "එකඟයි. එහෙම අපට වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Pouzdan javni prevoz može da smanji gužvu u gradu.",
+      "audio": "Pouzdan javni prevoz može da smanji gužvu u gradu.",
+      "reading": "පොඋස්දාන් යාව්නි ප්‍රෙවොස් මොෂෙ ද ස්මාන්යි ගුෂ්වු උ ග්‍රාදු.",
+      "options": [
+        "Reliable public transport can reduce congestion in a city.",
+        "වෙනත් අදහසක්",
+        "ප්‍රශ්නයක්"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“infrastruktura” යන්නෙහි තේරුම?",
+        "options": [
+          "යටිතල පහසුකම්",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් අර්ථයක්"
+        ],
+        "answer": 0,
+        "explanation": "infrastruktura = යටිතල පහසුකම්"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Yesterday I will goes.",
+          "Pouzdan javni prevoz može da smanji gužvu u gradu.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "Reliable public transport can reduce congestion in a city."
+      },
+      {
+        "prompt": "“gužva” යන්නෙහි තේරුම?",
+        "options": [
+          "වාහන තදබදය",
+          "අදාළ නැති වචනය",
+          "විරුද්ධ අර්ථය"
+        ],
+        "answer": 0,
+        "explanation": "gužva = වාහන තදබදය"
+      },
+      {
+        "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+        "options": [
+          "උදාහරණයක්",
+          "මිලක්",
+          "ලිපිනයක්"
+        ],
+        "answer": 0,
+        "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "sr-b1-l37",
+    "unit": "ස්වාධීන භාවිතය",
+    "title": "B1 · පාඩම 37 · පාරිසරික ප්‍රතිපත්ති සහ දේශගුණය",
+    "objective": "පාරිසරික ප්‍රතිපත්ති සහ දේශගුණය ගැන පැහැදිලිව කතා කිරීම සහ උදාහරණ ඉදිරිපත් කිරීම",
+    "vocabulary": [
+      {
+        "word": "klima",
+        "reading": "ක්ලිමා",
+        "meaning": "දේශගුණය",
+        "example": "Klimatske promene zahtevaju dugoročna i zajednička rešenja.",
+        "translation": "Climate change requires long-term and shared solutions."
+      },
+      {
+        "word": "emisija",
+        "reading": "එමිසියා",
+        "meaning": "විමෝචනය",
+        "example": "Klimatske promene zahtevaju dugoročna i zajednička rešenja.",
+        "translation": "Climate change requires long-term and shared solutions."
+      },
+      {
+        "word": "obnovljiv",
+        "reading": "ඔබ්නොව්ල්යීව්",
+        "meaning": "පුනර්ජනනීය",
+        "example": "Klimatske promene zahtevaju dugoročna i zajednička rešenja.",
+        "translation": "Climate change requires long-term and shared solutions."
+      },
+      {
+        "word": "politika",
+        "reading": "පොලිතිකා",
+        "meaning": "ප්‍රතිපත්තිය",
+        "example": "Klimatske promene zahtevaju dugoročna i zajednička rešenja.",
+        "translation": "Climate change requires long-term and shared solutions."
+      },
+      {
+        "word": "suša",
+        "reading": "සුෂා",
+        "meaning": "නියඟය",
+        "example": "Klimatske promene zahtevaju dugoročna i zajednička rešenja.",
+        "translation": "Climate change requires long-term and shared solutions."
+      },
+      {
+        "word": "poplava",
+        "reading": "පොප්ලාවා",
+        "meaning": "ගංවතුර",
+        "example": "Klimatske promene zahtevaju dugoročna i zajednička rešenja.",
+        "translation": "Climate change requires long-term and shared solutions."
+      },
+      {
+        "word": "očuvanje",
+        "reading": "ඔචුවාන්යේ",
+        "meaning": "සංරක්ෂණය",
+        "example": "Klimatske promene zahtevaju dugoročna i zajednička rešenja.",
+        "translation": "Climate change requires long-term and shared solutions."
+      },
+      {
+        "word": "uticaj",
+        "reading": "උතිත්සායි",
+        "meaning": "බලපෑම",
+        "example": "Klimatske promene zahtevaju dugoročna i zajednička rešenja.",
+        "translation": "Climate change requires long-term and shared solutions."
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "Future forms and expressions of necessity and consequence.",
+    "grammarTerms": [
+      {
+        "sr": "Klimatske promene zahtevaju dugoročna i zajednička rešenja.",
+        "reading": "ක්ලිමාත්ස්කෙ ප්‍රොමෙනෙ සාහ්තෙවායු දුගොරොච්නා ඉ සායෙද්නිච්කා රෙෂෙන්යා.",
+        "si": "Climate change requires long-term and shared solutions."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Klimatske promene zahtevaju dugoročna i zajednička rešenja.",
+        "reading": "ක්ලිමාත්ස්කෙ ප්‍රොමෙනෙ සාහ්තෙවායු දුගොරොච්නා ඉ සායෙද්නිච්කා රෙෂෙන්යා.",
+        "si": "Climate change requires long-term and shared solutions."
+      },
+      {
+        "sr": "Važno je da pažljivo razmotrimo sve mogućnosti.",
+        "reading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
+        "reading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
+        "si": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      },
+      {
+        "sr": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
+        "reading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ.",
+        "si": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "A: Klimatske promene zahtevaju dugoročna i zajednička rešenja.",
+        "reading": "A: ක්ලිමාත්ස්කෙ ප්‍රොමෙනෙ සාහ්තෙවායු දුගොරොච්නා ඉ සායෙද්නිච්කා රෙෂෙන්යා.",
+        "si": "Climate change requires long-term and shared solutions."
+      },
+      {
+        "sr": "B: Možeš li da navedeš primer?",
+        "reading": "B: මොෂෙෂ් ලි ද නාවෙදෙෂ් ප්‍රිමෙර්?",
+        "si": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+      },
+      {
+        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
+        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "B: Slažem se. Tako možemo da donesemo bolju odluku.",
+        "reading": "B: ස්ලාෂෙම් සෙ. තාකො මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
+        "si": "එකඟයි. එහෙම අපට වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Klimatske promene zahtevaju dugoročna i zajednička rešenja.",
+      "audio": "Klimatske promene zahtevaju dugoročna i zajednička rešenja.",
+      "reading": "ක්ලිමාත්ස්කෙ ප්‍රොමෙනෙ සාහ්තෙවායු දුගොරොච්නා ඉ සායෙද්නිච්කා රෙෂෙන්යා.",
+      "options": [
+        "Climate change requires long-term and shared solutions.",
+        "වෙනත් අදහසක්",
+        "ප්‍රශ්නයක්"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“klima” යන්නෙහි තේරුම?",
+        "options": [
+          "දේශගුණය",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් අර්ථයක්"
+        ],
+        "answer": 0,
+        "explanation": "klima = දේශගුණය"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Yesterday I will goes.",
+          "Klimatske promene zahtevaju dugoročna i zajednička rešenja.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "Climate change requires long-term and shared solutions."
+      },
+      {
+        "prompt": "“emisija” යන්නෙහි තේරුම?",
+        "options": [
+          "විමෝචනය",
+          "අදාළ නැති වචනය",
+          "විරුද්ධ අර්ථය"
+        ],
+        "answer": 0,
+        "explanation": "emisija = විමෝචනය"
+      },
+      {
+        "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+        "options": [
+          "උදාහරණයක්",
+          "මිලක්",
+          "ලිපිනයක්"
+        ],
+        "answer": 0,
+        "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "sr-b1-l38",
+    "unit": "ස්වාධීන භාවිතය",
+    "title": "B1 · පාඩම 38 · ආහාර සංස්කෘතිය සහ පුරුදු",
+    "objective": "ආහාර සංස්කෘතිය සහ පුරුදු ගැන පැහැදිලිව කතා කිරීම සහ උදාහරණ ඉදිරිපත් කිරීම",
+    "vocabulary": [
+      {
+        "word": "ishrana",
+        "reading": "ඉස්හ්‍රානා",
+        "meaning": "පෝෂණය",
+        "example": "Način ishrane često odražava kulturu i tradiciju porodice.",
+        "translation": "Eating habits often reflect a family's culture and tradition."
+      },
+      {
+        "word": "sastojak",
+        "reading": "සාස්තොයාක්",
+        "meaning": "අමුද්‍රව්‍යය",
+        "example": "Način ishrane često odražava kulturu i tradiciju porodice.",
+        "translation": "Eating habits often reflect a family's culture and tradition."
+      },
+      {
+        "word": "recept",
+        "reading": "රෙත්සෙප්ත්",
+        "meaning": "වට්ටෝරුව",
+        "example": "Način ishrane često odražava kulturu i tradiciju porodice.",
+        "translation": "Eating habits often reflect a family's culture and tradition."
+      },
+      {
+        "word": "porcija",
+        "reading": "පොර්ත්සියා",
+        "meaning": "ආහාර ප්‍රමාණය",
+        "example": "Način ishrane često odražava kulturu i tradiciju porodice.",
+        "translation": "Eating habits often reflect a family's culture and tradition."
+      },
+      {
+        "word": "ishrana",
+        "reading": "ඉස්හ්‍රානා",
+        "meaning": "ආහාර රටාව",
+        "example": "Način ishrane često odražava kulturu i tradiciju porodice.",
+        "translation": "Eating habits often reflect a family's culture and tradition."
+      },
+      {
+        "word": "ukus",
+        "reading": "උකුස්",
+        "meaning": "රසය",
+        "example": "Način ishrane često odražava kulturu i tradiciju porodice.",
+        "translation": "Eating habits often reflect a family's culture and tradition."
+      },
+      {
+        "word": "tradicionalan",
+        "reading": "ත්‍රාදිත්සියොනාලන්",
+        "meaning": "සාම්ප්‍රදායික",
+        "example": "Način ishrane često odražava kulturu i tradiciju porodice.",
+        "translation": "Eating habits often reflect a family's culture and tradition."
+      },
+      {
+        "word": "spisak sastojaka",
+        "reading": "ස්පිසාක් සාස්තොයාකා",
+        "meaning": "අමුද්‍රව්‍ය ලැයිස්තුව",
+        "example": "Način ishrane često odražava kulturu i tradiciju porodice.",
+        "translation": "Eating habits often reflect a family's culture and tradition."
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "Frequency adverbs and relative clauses.",
+    "grammarTerms": [
+      {
+        "sr": "Način ishrane često odražava kulturu i tradiciju porodice.",
+        "reading": "නාචින් ඉස්හ්‍රානෙ චෙස්තො ඔද්‍රාෂාවා културу ඉ ත්‍රාදිත්සියු පොරොදිත්සෙ.",
+        "si": "Eating habits often reflect a family's culture and tradition."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Način ishrane često odražava kulturu i tradiciju porodice.",
+        "reading": "නාචින් ඉස්හ්‍රානෙ චෙස්තො ඔද්‍රාෂාවා културу ඉ ත්‍රාදිත්සියු පොරොදිත්සෙ.",
+        "si": "Eating habits often reflect a family's culture and tradition."
+      },
+      {
+        "sr": "Važno je da pažljivo razmotrimo sve mogućnosti.",
+        "reading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
+        "reading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
+        "si": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      },
+      {
+        "sr": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
+        "reading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ.",
+        "si": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "A: Način ishrane često odražava kulturu i tradiciju porodice.",
+        "reading": "A: නාචින් ඉස්හ්‍රානෙ චෙස්තො ඔද්‍රාෂාවා културу ඉ ත්‍රාදිත්සියු පොරොදිත්සෙ.",
+        "si": "Eating habits often reflect a family's culture and tradition."
+      },
+      {
+        "sr": "B: Možeš li da navedeš primer?",
+        "reading": "B: මොෂෙෂ් ලි ද නාවෙදෙෂ් ප්‍රිමෙර්?",
+        "si": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+      },
+      {
+        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
+        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "B: Slažem se. Tako možemo da donesemo bolju odluku.",
+        "reading": "B: ස්ලාෂෙම් සෙ. තාකො මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
+        "si": "එකඟයි. එහෙම අපට වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Način ishrane često odražava kulturu i tradiciju porodice.",
+      "audio": "Način ishrane često odražava kulturu i tradiciju porodice.",
+      "reading": "නාචින් ඉස්හ්‍රානෙ චෙස්තො ඔද්‍රාෂාවා културу ඉ ත්‍රාදිත්සියු පොරොදිත්සෙ.",
+      "options": [
+        "Eating habits often reflect a family's culture and tradition.",
+        "වෙනත් අදහසක්",
+        "ප්‍රශ්නයක්"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“ishrana” යන්නෙහි තේරුම?",
+        "options": [
+          "පෝෂණය",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් අර්ථයක්"
+        ],
+        "answer": 0,
+        "explanation": "ishrana = පෝෂණය"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Yesterday I will goes.",
+          "Način ishrane često odražava kulturu i tradiciju porodice.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "Eating habits often reflect a family's culture and tradition."
+      },
+      {
+        "prompt": "“sastojak” යන්නෙහි තේරුම?",
+        "options": [
+          "අමුද්‍රව්‍යය",
+          "අදාළ නැති වචනය",
+          "විරුද්ධ අර්ථය"
+        ],
+        "answer": 0,
+        "explanation": "sastojak = අමුද්‍රව්‍යය"
+      },
+      {
+        "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+        "options": [
+          "උදාහරණයක්",
+          "මිලක්",
+          "ලිපිනයක්"
+        ],
+        "answer": 0,
+        "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "sr-b1-l39",
+    "unit": "ස්වාධීන භාවිතය",
+    "title": "B1 · පාඩම 39 · අධ්‍යාපනයේ සහ රැකියාවේ ඉලක්ක",
+    "objective": "අධ්‍යාපනයේ සහ රැකියාවේ ඉලක්ක ගැන පැහැදිලිව කතා කිරීම සහ උදාහරණ ඉදිරිපත් කිරීම",
+    "vocabulary": [
+      {
+        "word": "cilj",
+        "reading": "ත්සිල්ය්",
+        "meaning": "ඉලක්කය",
+        "example": "Postavljanje jasnih ciljeva pomaže nam da pratimo napredak.",
+        "translation": "Setting clear goals helps us track our progress."
+      },
+      {
+        "word": "prekretnica",
+        "reading": "ප්‍රෙක්‍රෙත්නීත්සා",
+        "meaning": "වැදගත් අදියර",
+        "example": "Postavljanje jasnih ciljeva pomaže nam da pratimo napredak.",
+        "translation": "Setting clear goals helps us track our progress."
+      },
+      {
+        "word": "meta",
+        "reading": "මෙතා",
+        "meaning": "ඉලක්කය",
+        "example": "Postavljanje jasnih ciljeva pomaže nam da pratimo napredak.",
+        "translation": "Setting clear goals helps us track our progress."
+      },
+      {
+        "word": "napredak",
+        "reading": "නප්‍රෙදාක්",
+        "meaning": "ප්‍රගතිය",
+        "example": "Postavljanje jasnih ciljeva pomaže nam da pratimo napredak.",
+        "translation": "Setting clear goals helps us track our progress."
+      },
+      {
+        "word": "postići",
+        "reading": "පොස්තිචි",
+        "meaning": "ළඟා වෙනවා",
+        "example": "Postavljanje jasnih ciljeva pomaže nam da pratimo napredak.",
+        "translation": "Setting clear goals helps us track our progress."
+      },
+      {
+        "word": "rok",
+        "reading": "රොක්",
+        "meaning": "අවසන් දිනය",
+        "example": "Postavljanje jasnih ciljeva pomaže nam da pratimo napredak.",
+        "translation": "Setting clear goals helps us track our progress."
+      },
+      {
+        "word": "plan",
+        "reading": "ප්ලාන්",
+        "meaning": "සැලැස්ම",
+        "example": "Postavljanje jasnih ciljeva pomaže nam da pratimo napredak.",
+        "translation": "Setting clear goals helps us track our progress."
+      },
+      {
+        "word": "motivacija",
+        "reading": "මොතිවාත්සියා",
+        "meaning": "අභිප්‍රේරණය",
+        "example": "Postavljanje jasnih ciljeva pomaže nam da pratimo napredak.",
+        "translation": "Setting clear goals helps us track our progress."
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "Infinitives and future perfect for targets and deadlines.",
+    "grammarTerms": [
+      {
+        "sr": "Postavljanje jasnih ciljeva pomaže nam da pratimo napredak.",
+        "reading": "පොස්තාව්ල්යාන්යේ යාස්නිහ් ත්සිල්යෙවා පොමාෂෙ නාම් ද ප්‍රාතිමො නප්‍රෙදාක්.",
+        "si": "Setting clear goals helps us track our progress."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Postavljanje jasnih ciljeva pomaže nam da pratimo napredak.",
+        "reading": "පොස්තාව්ල්යාන්යේ යාස්නිහ් ත්සිල්යෙවා පොමාෂෙ නාම් ද ප්‍රාතිමො නප්‍රෙදාක්.",
+        "si": "Setting clear goals helps us track our progress."
+      },
+      {
+        "sr": "Važno je da pažljivo razmotrimo sve mogućnosti.",
+        "reading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
+        "reading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
+        "si": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      },
+      {
+        "sr": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
+        "reading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ.",
+        "si": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "A: Postavljanje jasnih ciljeva pomaže nam da pratimo napredak.",
+        "reading": "A: පොස්තාව්ල්යාන්යේ යාස්නිහ් ත්සිල්යෙවා පොමාෂෙ නාම් ද ප්‍රාතිමො නප්‍රෙදාක්.",
+        "si": "Setting clear goals helps us track our progress."
+      },
+      {
+        "sr": "B: Možeš li da navedeš primer?",
+        "reading": "B: මොෂෙෂ් ලි ද නාවෙදෙෂ් ප්‍රිමෙර්?",
+        "si": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+      },
+      {
+        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
+        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "B: Slažem se. Tako možemo da donesemo bolju odluku.",
+        "reading": "B: ස්ලාෂෙම් සෙ. තාකො මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
+        "si": "එකඟයි. එහෙම අපට වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Postavljanje jasnih ciljeva pomaže nam da pratimo napredak.",
+      "audio": "Postavljanje jasnih ciljeva pomaže nam da pratimo napredak.",
+      "reading": "පොස්තාව්ල්යාන්යේ යාස්නිහ් ත්සිල්යෙවා පොමාෂෙ නාම් ද ප්‍රාතිමො නප්‍රෙදාක්.",
+      "options": [
+        "Setting clear goals helps us track our progress.",
+        "වෙනත් අදහසක්",
+        "ප්‍රශ්නයක්"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“cilj” යන්නෙහි තේරුම?",
+        "options": [
+          "ඉලක්කය",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් අර්ථයක්"
+        ],
+        "answer": 0,
+        "explanation": "cilj = ඉලක්කය"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Yesterday I will goes.",
+          "Postavljanje jasnih ciljeva pomaže nam da pratimo napredak.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "Setting clear goals helps us track our progress."
+      },
+      {
+        "prompt": "“prekretnica” යන්නෙහි තේරුම?",
+        "options": [
+          "වැදගත් අදියර",
+          "අදාළ නැති වචනය",
+          "විරුද්ධ අර්ථය"
+        ],
+        "answer": 0,
+        "explanation": "prekretnica = වැදගත් අදියර"
+      },
+      {
+        "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+        "options": [
+          "උදාහරණයක්",
+          "මිලක්",
+          "ලිපිනයක්"
+        ],
+        "answer": 0,
+        "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "sr-b1-l40",
+    "unit": "ස්වාධීන භාවිතය",
+    "title": "B1 · පාඩම 40 · සංචාරක සේවා සහ පැමිණිලි",
+    "objective": "සංචාරක සේවා සහ පැමිණිලි ගැන පැහැදිලිව කතා කිරීම සහ උදාහරණ ඉදිරිපත් කිරීම",
+    "vocabulary": [
+      {
+        "word": "rezervacija",
+        "reading": "රෙසෙර්වාත්සියා",
+        "meaning": "වෙන්කිරීම",
+        "example": "Ako usluga ne odgovara rezervaciji, možemo zatražiti rešenje.",
+        "translation": "If the service does not match the booking, we can request a solution."
+      },
+      {
+        "word": "žalba",
+        "reading": "ෂාල්බා",
+        "meaning": "පැමිණිල්ල",
+        "example": "Ako usluga ne odgovara rezervaciji, možemo zatražiti rešenje.",
+        "translation": "If the service does not match the booking, we can request a solution."
+      },
+      {
+        "word": "usluga",
+        "reading": "උස්ලුගා",
+        "meaning": "සේවාව",
+        "example": "Ako usluga ne odgovara rezervaciji, možemo zatražiti rešenje.",
+        "translation": "If the service does not match the booking, we can request a solution."
+      },
+      {
+        "word": "naknada",
+        "reading": "නක්නාදා",
+        "meaning": "වන්දි",
+        "example": "Ako usluga ne odgovara rezervaciji, možemo zatražiti rešenje.",
+        "translation": "If the service does not match the booking, we can request a solution."
+      },
+      {
+        "word": "potvrda",
+        "reading": "පොත්ව්ර්දා",
+        "meaning": "තහවුරු කිරීම",
+        "example": "Ako usluga ne odgovara rezervaciji, možemo zatražiti rešenje.",
+        "translation": "If the service does not match the booking, we can request a solution."
+      },
+      {
+        "word": "otkazivanje",
+        "reading": "ඔත්කාසිවාන්යේ",
+        "meaning": "අවලංගු කිරීම",
+        "example": "Ako usluga ne odgovara rezervaciji, možemo zatražiti rešenje.",
+        "translation": "If the service does not match the booking, we can request a solution."
+      },
+      {
+        "word": "alternativa",
+        "reading": "අල්තෙර්නාතිවා",
+        "meaning": "විකල්පය",
+        "example": "Ako usluga ne odgovara rezervaciji, možemo zatražiti rešenje.",
+        "translation": "If the service does not match the booking, we can request a solution."
+      },
+      {
+        "word": "korisnička služba",
+        "reading": "කොරිස්නිච්කා ස්ලුෂ්බා",
+        "meaning": "පාරිභෝගික සේවාව",
+        "example": "Ako usluga ne odgovara rezervaciji, možemo zatražiti rešenje.",
+        "translation": "If the service does not match the booking, we can request a solution."
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "Conditionals and polite indirect requests.",
+    "grammarTerms": [
+      {
+        "sr": "Ako usluga ne odgovara rezervaciji, možemo zatražiti rešenje.",
+        "reading": "අකො උස්ලුගා නෙ ඔද්ගොවාරා රෙසෙර්වාත්සියි මොෂෙමො සාත්‍රාෂිති රෙෂෙන්යේ.",
+        "si": "If the service does not match the booking, we can request a solution."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Ako usluga ne odgovara rezervaciji, možemo zatražiti rešenje.",
+        "reading": "අකො උස්ලුගා නෙ ඔද්ගොවාරා රෙසෙර්වාත්සියි මොෂෙමො සාත්‍රාෂිති රෙෂෙන්යේ.",
+        "si": "If the service does not match the booking, we can request a solution."
+      },
+      {
+        "sr": "Važno je da pažljivo razmotrimo sve mogućnosti.",
+        "reading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
+        "reading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
+        "si": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      },
+      {
+        "sr": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
+        "reading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ.",
+        "si": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "A: Ako usluga ne odgovara rezervaciji, možemo zatražiti rešenje.",
+        "reading": "A: අකො උස්ලුගා නෙ ඔද්ගොවාරා රෙසෙර්වාත්සියි මොෂෙමො සාත්‍රාෂිති රෙෂෙන්යේ.",
+        "si": "If the service does not match the booking, we can request a solution."
+      },
+      {
+        "sr": "B: Možeš li da navedeš primer?",
+        "reading": "B: මොෂෙෂ් ලි ද නාවෙදෙෂ් ප්‍රිමෙර්?",
+        "si": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+      },
+      {
+        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
+        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "B: Slažem se. Tako možemo da donesemo bolju odluku.",
+        "reading": "B: ස්ලාෂෙම් සෙ. තාකො මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
+        "si": "එකඟයි. එහෙම අපට වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Ako usluga ne odgovara rezervaciji, možemo zatražiti rešenje.",
+      "audio": "Ako usluga ne odgovara rezervaciji, možemo zatražiti rešenje.",
+      "reading": "අකො උස්ලුගා නෙ ඔද්ගොවාරා රෙසෙර්වාත්සියි මොෂෙමො සාත්‍රාෂිති රෙෂෙන්යේ.",
+      "options": [
+        "If the service does not match the booking, we can request a solution.",
+        "වෙනත් අදහසක්",
+        "ප්‍රශ්නයක්"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“rezervacija” යන්නෙහි තේරුම?",
+        "options": [
+          "වෙන්කිරීම",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් අර්ථයක්"
+        ],
+        "answer": 0,
+        "explanation": "rezervacija = වෙන්කිරීම"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Yesterday I will goes.",
+          "Ako usluga ne odgovara rezervaciji, možemo zatražiti rešenje.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "If the service does not match the booking, we can request a solution."
+      },
+      {
+        "prompt": "“žalba” යන්නෙහි තේරුම?",
+        "options": [
+          "පැමිණිල්ල",
+          "අදාළ නැති වචනය",
+          "විරුද්ධ අර්ථය"
+        ],
+        "answer": 0,
+        "explanation": "žalba = පැමිණිල්ල"
+      },
+      {
+        "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+        "options": [
+          "උදාහරණයක්",
+          "මිලක්",
+          "ලිපිනයක්"
+        ],
+        "answer": 0,
+        "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "sr-b1-l41",
+    "unit": "ස්වාධීන භාවිතය",
+    "title": "B1 · පාඩම 41 · සන්නිවේදන ශෛලීන් සහ ශරීර භාෂාව",
+    "objective": "සන්නිවේදන ශෛලීන් සහ ශරීර භාෂාව ගැන පැහැදිලිව කතා කිරීම සහ උදාහරණ ඉදිරිපත් කිරීම",
+    "vocabulary": [
+      {
+        "word": "govor tela",
+        "reading": "ගොවොර තෙලා",
+        "meaning": "ශරීර භාෂාව",
+        "example": "Jasna komunikacija zavisi od reči i načina na koji ih izgovaramo.",
+        "translation": "Clear communication depends on words and the way we say them."
+      },
+      {
+        "word": "gest",
+        "reading": "ගෙස්ත්",
+        "meaning": "අංග චලනය",
+        "example": "Jasna komunikacija zavisi od reči i načina na koji ih izgovaramo.",
+        "translation": "Clear communication depends on words and the way we say them."
+      },
+      {
+        "word": "ton",
+        "reading": "තොන්",
+        "meaning": "හඬේ ස්වරය",
+        "example": "Jasna komunikacija zavisi od reči i načina na koji ih izgovaramo.",
+        "translation": "Clear communication depends on words and the way we say them."
+      },
+      {
+        "word": "izraz",
+        "reading": "ඉස්රාස්",
+        "meaning": "ප්‍රකාශනය",
+        "example": "Jasna komunikacija zavisi od reči i načina na koji ih izgovaramo.",
+        "translation": "Clear communication depends on words and the way we say them."
+      },
+      {
+        "word": "nesporazum",
+        "reading": "නෙස්පොරසුම්",
+        "meaning": "වැරදි අවබෝධය",
+        "example": "Jasna komunikacija zavisi od reči i načina na koji ih izgovaramo.",
+        "translation": "Clear communication depends on words and the way we say them."
+      },
+      {
+        "word": "povratna informacija",
+        "reading": "පොව්‍රාත්නා ඉන්ෆොර්මාත්සියා",
+        "meaning": "ප්‍රතිචාරය",
+        "example": "Jasna komunikacija zavisi od reči i načina na koji ih izgovaramo.",
+        "translation": "Clear communication depends on words and the way we say them."
+      },
+      {
+        "word": "ljubazan",
+        "reading": "ල්යුබාසාන්",
+        "meaning": "ආචාරශීලී",
+        "example": "Jasna komunikacija zavisi od reči i načina na koji ih izgovaramo.",
+        "translation": "Clear communication depends on words and the way we say them."
+      },
+      {
+        "word": "pojasniti",
+        "reading": "පොයාස්නිති",
+        "meaning": "පැහැදිලි කරනවා",
+        "example": "Jasna komunikacija zavisi od reči i načina na koji ih izgovaramo.",
+        "translation": "Clear communication depends on words and the way we say them."
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "Reported speech and adverbs describing communication.",
+    "grammarTerms": [
+      {
+        "sr": "Jasna komunikacija zavisi od reči i načina na koji ih izgovaramo.",
+        "reading": "යාස්නා කොමුනිකාත්සියා සාවිසි ඔද් රෙචි ඉ නාචිනා නා කොයි ඉහ් ඉස්ගොවාරාමො.",
+        "si": "Clear communication depends on words and the way we say them."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Jasna komunikacija zavisi od reči i načina na koji ih izgovaramo.",
+        "reading": "යාස්නා කොමුනිකාත්සියා සාවිසි ඔද් රෙචි ඉ නාචිනා නා කොයි ඉහ් ඉස්ගොවාරාමො.",
+        "si": "Clear communication depends on words and the way we say them."
+      },
+      {
+        "sr": "Važno je da pažljivo razmotrimo sve mogućnosti.",
+        "reading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
+        "reading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
+        "si": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      },
+      {
+        "sr": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
+        "reading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ.",
+        "si": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "A: Jasna komunikacija zavisi od reči i načina na koji ih izgovaramo.",
+        "reading": "A: යාස්නා කොමුනිකාත්සියා සාවිසි ඔද් රෙචි ඉ නාචිනා නා කොයි ඉහ් ඉස්ගොවාරාමො.",
+        "si": "Clear communication depends on words and the way we say them."
+      },
+      {
+        "sr": "B: Možeš li da navedeš primer?",
+        "reading": "B: මොෂෙෂ් ලි ද නාවෙදෙෂ් ප්‍රිමෙර්?",
+        "si": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+      },
+      {
+        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
+        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "B: Slažem se. Tako možemo da donesemo bolju odluku.",
+        "reading": "B: ස්ලාෂෙම් සෙ. තාකො මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
+        "si": "එකඟයි. එහෙම අපට වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Jasna komunikacija zavisi od reči i načina na koji ih izgovaramo.",
+      "audio": "Jasna komunikacija zavisi od reči i načina na koji ih izgovaramo.",
+      "reading": "යාස්නා කොමුනිකාත්සියා සාවිසි ඔද් රෙචි ඉ නාචිනා නා කොයි ඉහ් ඉස්ගොවාරාමො.",
+      "options": [
+        "Clear communication depends on words and the way we say them.",
+        "වෙනත් අදහසක්",
+        "ප්‍රශ්නයක්"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“govor tela” යන්නෙහි තේරුම?",
+        "options": [
+          "ශරීර භාෂාව",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් අර්ථයක්"
+        ],
+        "answer": 0,
+        "explanation": "govor tela = ශරීර භාෂාව"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Yesterday I will goes.",
+          "Jasna komunikacija zavisi od reči i načina na koji ih izgovaramo.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "Clear communication depends on words and the way we say them."
+      },
+      {
+        "prompt": "“gest” යන්නෙහි තේරුම?",
+        "options": [
+          "අංග චලනය",
+          "අදාළ නැති වචනය",
+          "විරුද්ධ අර්ථය"
+        ],
+        "answer": 0,
+        "explanation": "gest = අංග චලනය"
+      },
+      {
+        "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+        "options": [
+          "උදාහරණයක්",
+          "මිලක්",
+          "ලිපිනයක්"
+        ],
+        "answer": 0,
+        "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "sr-b1-l42",
+    "unit": "ස්වාධීන භාවිතය",
+    "title": "B1 · පාඩම 42 · සමාජ මාධ්‍ය සහ ඩිජිටල් පුරවැසිභාවය",
+    "objective": "සමාජ මාධ්‍ය සහ ඩිජිටල් පුරවැසිභාවය ගැන පැහැදිලිව කතා කිරීම සහ උදාහරණ ඉදිරිපත් කිරීම",
+    "vocabulary": [
+      {
+        "word": "privatnost",
+        "reading": "ප්‍රිවාත්නොස්ත්",
+        "meaning": "පෞද්ගලිකත්වය",
+        "example": "Pre objavljivanja fotografije treba poštovati privatnost drugih.",
+        "translation": "Before posting a photo, we should respect other people's privacy."
+      },
+      {
+        "word": "sadržaj",
+        "reading": "සාද්ර්ෂායි",
+        "meaning": "අන්තර්ගතය",
+        "example": "Pre objavljivanja fotografije treba poštovati privatnost drugih.",
+        "translation": "Before posting a photo, we should respect other people's privacy."
+      },
+      {
+        "word": "komentar",
+        "reading": "කොමෙන්තාර්",
+        "meaning": "අදහස",
+        "example": "Pre objavljivanja fotografije treba poštovati privatnost drugih.",
+        "translation": "Before posting a photo, we should respect other people's privacy."
+      },
+      {
+        "word": "podeliti",
+        "reading": "පොදෙලිති",
+        "meaning": "බෙදාගන්නවා",
+        "example": "Pre objavljivanja fotografije treba poštovati privatnost drugih.",
+        "translation": "Before posting a photo, we should respect other people's privacy."
+      },
+      {
+        "word": "dezinformacija",
+        "reading": "දෙසින්ෆොර්මාත්සියා",
+        "meaning": "වැරදි තොරතුරු",
+        "example": "Pre objavljivanja fotografije treba poštovati privatnost drugih.",
+        "translation": "Before posting a photo, we should respect other people's privacy."
+      },
+      {
+        "word": "nalog",
+        "reading": "නාලොග්",
+        "meaning": "ගිණුම",
+        "example": "Pre objavljivanja fotografije treba poštovati privatnost drugih.",
+        "translation": "Before posting a photo, we should respect other people's privacy."
+      },
+      {
+        "word": "bezbednost",
+        "reading": "බෙස්බෙද්නොස්ත්",
+        "meaning": "ආරක්ෂාව",
+        "example": "Pre objavljivanja fotografije treba poštovati privatnost drugih.",
+        "translation": "Before posting a photo, we should respect other people's privacy."
+      },
+      {
+        "word": "publika",
+        "reading": "පුබ්ලිකා",
+        "meaning": "ප්‍රේක්ෂක පිරිස",
+        "example": "Pre objavljivanja fotografije treba poštovati privatnost drugih.",
+        "translation": "Before posting a photo, we should respect other people's privacy."
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "Should, ought to and relative clauses for responsible online behaviour.",
+    "grammarTerms": [
+      {
+        "sr": "Pre objavljivanja fotografije treba poštovati privatnost drugih.",
+        "reading": "ප්‍රෙ ඔබ්යාව්ල්යීවාන්යා ෆොතොග්‍රාෆියේ ත්‍රෙබා පොෂ්තොවාති ප්‍රිවාත්නොස්ත් ද්රුගිහ්.",
+        "si": "Before posting a photo, we should respect other people's privacy."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Pre objavljivanja fotografije treba poštovati privatnost drugih.",
+        "reading": "ප්‍රෙ ඔබ්යාව්ල්යීවාන්යා ෆොතොග්‍රාෆියේ ත්‍රෙබා පොෂ්තොවාති ප්‍රිවාත්නොස්ත් ද්රුගිහ්.",
+        "si": "Before posting a photo, we should respect other people's privacy."
+      },
+      {
+        "sr": "Važno je da pažljivo razmotrimo sve mogućnosti.",
+        "reading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
+        "reading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
+        "si": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      },
+      {
+        "sr": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
+        "reading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ.",
+        "si": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "A: Pre objavljivanja fotografije treba poštovati privatnost drugih.",
+        "reading": "A: ප්‍රෙ ඔබ්යාව්ල්යීවාන්යා ෆොතොග්‍රාෆියේ ත්‍රෙබා පොෂ්තොවාති ප්‍රිවාත්නොස්ත් ද්රුගිහ්.",
+        "si": "Before posting a photo, we should respect other people's privacy."
+      },
+      {
+        "sr": "B: Možeš li da navedeš primer?",
+        "reading": "B: මොෂෙෂ් ලි ද නාවෙදෙෂ් ප්‍රිමෙර්?",
+        "si": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+      },
+      {
+        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
+        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "B: Slažem se. Tako možemo da donesemo bolju odluku.",
+        "reading": "B: ස්ලාෂෙම් සෙ. තාකො මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
+        "si": "එකඟයි. එහෙම අපට වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Pre objavljivanja fotografije treba poštovati privatnost drugih.",
+      "audio": "Pre objavljivanja fotografije treba poštovati privatnost drugih.",
+      "reading": "ප්‍රෙ ඔබ්යාව්ල්යීවාන්යා ෆොතොග්‍රාෆියේ ත්‍රෙබා පොෂ්තොවාති ප්‍රිවාත්නොස්ත් ද්රුගිහ්.",
+      "options": [
+        "Before posting a photo, we should respect other people's privacy.",
+        "වෙනත් අදහසක්",
+        "ප්‍රශ්නයක්"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“privatnost” යන්නෙහි තේරුම?",
+        "options": [
+          "පෞද්ගලිකත්වය",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් අර්ථයක්"
+        ],
+        "answer": 0,
+        "explanation": "privatnost = පෞද්ගලිකත්වය"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Yesterday I will goes.",
+          "Pre objavljivanja fotografije treba poštovati privatnost drugih.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "Before posting a photo, we should respect other people's privacy."
+      },
+      {
+        "prompt": "“sadržaj” යන්නෙහි තේරුම?",
+        "options": [
+          "අන්තර්ගතය",
+          "අදාළ නැති වචනය",
+          "විරුද්ධ අර්ථය"
+        ],
+        "answer": 0,
+        "explanation": "sadržaj = අන්තර්ගතය"
+      },
+      {
+        "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+        "options": [
+          "උදාහරණයක්",
+          "මිලක්",
+          "ලිපිනයක්"
+        ],
+        "answer": 0,
+        "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "sr-b1-l43",
+    "unit": "ස්වාධීන භාවිතය",
+    "title": "B1 · පාඩම 43 · කාල කළමනාකරණය සහ ප්‍රමුඛතා",
+    "objective": "කාල කළමනාකරණය සහ ප්‍රමුඛතා ගැන පැහැදිලිව කතා කිරීම සහ උදාහරණ ඉදිරිපත් කිරීම",
+    "vocabulary": [
+      {
+        "word": "prioritet",
+        "reading": "ප්‍රියොරිතෙත්",
+        "meaning": "ප්‍රමුඛතාව",
+        "example": "Kada odredimo prioritete, lakše završavamo važne zadatke.",
+        "translation": "When we set priorities, we finish important tasks more easily."
+      },
+      {
+        "word": "raspored",
+        "reading": "රාස්පොරෙද්",
+        "meaning": "කාලසටහන",
+        "example": "Kada odredimo prioritete, lakše završavamo važne zadatke.",
+        "translation": "When we set priorities, we finish important tasks more easily."
+      },
+      {
+        "word": "rok",
+        "reading": "රොක්",
+        "meaning": "අවසන් දිනය",
+        "example": "Kada odredimo prioritete, lakše završavamo važne zadatke.",
+        "translation": "When we set priorities, we finish important tasks more easily."
+      },
+      {
+        "word": "ometanje",
+        "reading": "ඔමෙතාන්යේ",
+        "meaning": "අවධානය වෙනතකට යාම",
+        "example": "Kada odredimo prioritete, lakše završavamo važne zadatke.",
+        "translation": "When we set priorities, we finish important tasks more easily."
+      },
+      {
+        "word": "usredsređenost",
+        "reading": "උස්‍රෙද්ස්‍රෙජෙනොස්ත්",
+        "meaning": "අවධානය",
+        "example": "Kada odredimo prioritete, lakše završavamo važne zadatke.",
+        "translation": "When we set priorities, we finish important tasks more easily."
+      },
+      {
+        "word": "odložiti",
+        "reading": "ඔද්ලොෂිති",
+        "meaning": "කල් දමනවා",
+        "example": "Kada odredimo prioritete, lakše završavamo važne zadatke.",
+        "translation": "When we set priorities, we finish important tasks more easily."
+      },
+      {
+        "word": "završiti",
+        "reading": "සාව්ර්ෂිති",
+        "meaning": "අවසන් කරනවා",
+        "example": "Kada odredimo prioritete, lakše završavamo važne zadatke.",
+        "translation": "When we set priorities, we finish important tasks more easily."
+      },
+      {
+        "word": "efikasan",
+        "reading": "එෆිකාසාන්",
+        "meaning": "කාර්යක්ෂම",
+        "example": "Kada odredimo prioritete, lakše završavamo važne zadatke.",
+        "translation": "When we set priorities, we finish important tasks more easily."
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "Time clauses, adverbs and gerunds for routines.",
+    "grammarTerms": [
+      {
+        "sr": "Kada odredimo prioritete, lakše završavamo važne zadatke.",
+        "reading": "කාදා ඔද්‍රෙදිමො ප්‍රියොරිතෙතෙ ලක්ෂෙ සාව්ර්ෂාවාමො වාෂ්නෙ සාදාත්කෙ.",
+        "si": "When we set priorities, we finish important tasks more easily."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Kada odredimo prioritete, lakše završavamo važne zadatke.",
+        "reading": "කාදා ඔද්‍රෙදිමො ප්‍රියොරිතෙතෙ ලක්ෂෙ සාව්ර්ෂාවාමො වාෂ්නෙ සාදාත්කෙ.",
+        "si": "When we set priorities, we finish important tasks more easily."
+      },
+      {
+        "sr": "Važno je da pažljivo razmotrimo sve mogućnosti.",
+        "reading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
+        "reading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
+        "si": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      },
+      {
+        "sr": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
+        "reading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ.",
+        "si": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "A: Kada odredimo prioritete, lakše završavamo važne zadatke.",
+        "reading": "A: කාදා ඔද්‍රෙදිමො ප්‍රියොරිතෙතෙ ලක්ෂෙ සාව්ර්ෂාවාමො වාෂ්නෙ සාදාත්කෙ.",
+        "si": "When we set priorities, we finish important tasks more easily."
+      },
+      {
+        "sr": "B: Možeš li da navedeš primer?",
+        "reading": "B: මොෂෙෂ් ලි ද නාවෙදෙෂ් ප්‍රිමෙර්?",
+        "si": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+      },
+      {
+        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
+        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "B: Slažem se. Tako možemo da donesemo bolju odluku.",
+        "reading": "B: ස්ලාෂෙම් සෙ. තාකො මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
+        "si": "එකඟයි. එහෙම අපට වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Kada odredimo prioritete, lakše završavamo važne zadatke.",
+      "audio": "Kada odredimo prioritete, lakše završavamo važne zadatke.",
+      "reading": "කාදා ඔද්‍රෙදිමො ප්‍රියොරිතෙතෙ ලක්ෂෙ සාව්ර්ෂාවාමො වාෂ්නෙ සාදාත්කෙ.",
+      "options": [
+        "When we set priorities, we finish important tasks more easily.",
+        "වෙනත් අදහසක්",
+        "ප්‍රශ්නයක්"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“prioritet” යන්නෙහි තේරුම?",
+        "options": [
+          "ප්‍රමුඛතාව",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් අර්ථයක්"
+        ],
+        "answer": 0,
+        "explanation": "prioritet = ප්‍රමුඛතාව"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Yesterday I will goes.",
+          "Kada odredimo prioritete, lakše završavamo važne zadatke.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "When we set priorities, we finish important tasks more easily."
+      },
+      {
+        "prompt": "“raspored” යන්නෙහි තේරුම?",
+        "options": [
+          "කාලසටහන",
+          "අදාළ නැති වචනය",
+          "විරුද්ධ අර්ථය"
+        ],
+        "answer": 0,
+        "explanation": "raspored = කාලසටහන"
+      },
+      {
+        "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+        "options": [
+          "උදාහරණයක්",
+          "මිලක්",
+          "ලිපිනයක්"
+        ],
+        "answer": 0,
+        "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "sr-b1-l44",
+    "unit": "ස්වාධීන භාවිතය",
+    "title": "B1 · පාඩම 44 · සංස්කෘතික වෙනස්කම් සහ අවබෝධය",
+    "objective": "සංස්කෘතික වෙනස්කම් සහ අවබෝධය ගැන පැහැදිලිව කතා කිරීම සහ උදාහරණ ඉදිරිපත් කිරීම",
+    "vocabulary": [
+      {
+        "word": "kultura",
+        "reading": "කුල්තුරා",
+        "meaning": "සංස්කෘතිය",
+        "example": "Poštovanje različitih običaja pomaže ljudima da sarađuju.",
+        "translation": "Respecting different customs helps people work together."
+      },
+      {
+        "word": "običaj",
+        "reading": "ඔබිචායි",
+        "meaning": "චාරිත්‍රය",
+        "example": "Poštovanje različitih običaja pomaže ljudima da sarađuju.",
+        "translation": "Respecting different customs helps people work together."
+      },
+      {
+        "word": "perspektiva",
+        "reading": "පෙර්ස්පෙක්තිවා",
+        "meaning": "දෘෂ්ටිකෝණය",
+        "example": "Poštovanje različitih običaja pomaže ljudima da sarađuju.",
+        "translation": "Respecting different customs helps people work together."
+      },
+      {
+        "word": "raznolikost",
+        "reading": "රාස්නොලිකොස්ත්",
+        "meaning": "විවිධත්වය",
+        "example": "Poštovanje različitih običaja pomaže ljudima da sarađuju.",
+        "translation": "Respecting different customs helps people work together."
+      },
+      {
+        "word": "poštovanje",
+        "reading": "පොෂ්තොවාන්යේ",
+        "meaning": "ගෞරවය",
+        "example": "Poštovanje različitih običaja pomaže ljudima da sarađuju.",
+        "translation": "Respecting different customs helps people work together."
+      },
+      {
+        "word": "prilagoditi se",
+        "reading": "ප්‍රිලාගොදිති සෙ",
+        "meaning": "හැඩගැසෙනවා",
+        "example": "Poštovanje različitih običaja pomaže ljudima da sarađuju.",
+        "translation": "Respecting different customs helps people work together."
+      },
+      {
+        "word": "komunikacija",
+        "reading": "කොමුනිකාත්සියා",
+        "meaning": "සන්නිවේදනය",
+        "example": "Poštovanje različitih običaja pomaže ljudima da sarađuju.",
+        "translation": "Respecting different customs helps people work together."
+      },
+      {
+        "word": "stereotip",
+        "reading": "ස්තෙරෙඔතිප්",
+        "meaning": "ඒකාකෘතිය",
+        "example": "Poštovanje različitih običaja pomaže ljudima da sarađuju.",
+        "translation": "Respecting different customs helps people work together."
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "Contrast clauses and expressions of perspective.",
+    "grammarTerms": [
+      {
+        "sr": "Poštovanje različitih običaja pomaže ljudima da sarađuju.",
+        "reading": "පොෂ්තොවාන්යේ රාස්ලිචිතිහ් ඔබිචායා පොමාෂෙ ල්යුදිමා ද සා රාජුයු.",
+        "si": "Respecting different customs helps people work together."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Poštovanje različitih običaja pomaže ljudima da sarađuju.",
+        "reading": "පොෂ්තොවාන්යේ රාස්ලිචිතිහ් ඔබිචායා පොමාෂෙ ල්යුදිමා ද සා රාජුයු.",
+        "si": "Respecting different customs helps people work together."
+      },
+      {
+        "sr": "Važno je da pažljivo razmotrimo sve mogućnosti.",
+        "reading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
+        "reading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
+        "si": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      },
+      {
+        "sr": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
+        "reading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ.",
+        "si": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "A: Poštovanje različitih običaja pomaže ljudima da sarađuju.",
+        "reading": "A: පොෂ්තොවාන්යේ රාස්ලිචිතිහ් ඔබිචායා පොමාෂෙ ල්යුදිමා ද සා රාජුයු.",
+        "si": "Respecting different customs helps people work together."
+      },
+      {
+        "sr": "B: Možeš li da navedeš primer?",
+        "reading": "B: මොෂෙෂ් ලි ද නාවෙදෙෂ් ප්‍රිමෙර්?",
+        "si": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+      },
+      {
+        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
+        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "B: Slažem se. Tako možemo da donesemo bolju odluku.",
+        "reading": "B: ස්ලාෂෙම් සෙ. තාකො මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
+        "si": "එකඟයි. එහෙම අපට වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Poštovanje različitih običaja pomaže ljudima da sarađuju.",
+      "audio": "Poštovanje različitih običaja pomaže ljudima da sarađuju.",
+      "reading": "පොෂ්තොවාන්යේ රාස්ලිචිතිහ් ඔබිචායා පොමාෂෙ ල්යුදිමා ද සා රාජුයු.",
+      "options": [
+        "Respecting different customs helps people work together.",
+        "වෙනත් අදහසක්",
+        "ප්‍රශ්නයක්"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“kultura” යන්නෙහි තේරුම?",
+        "options": [
+          "සංස්කෘතිය",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් අර්ථයක්"
+        ],
+        "answer": 0,
+        "explanation": "kultura = සංස්කෘතිය"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Yesterday I will goes.",
+          "Poštovanje različitih običaja pomaže ljudima da sarađuju.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "Respecting different customs helps people work together."
+      },
+      {
+        "prompt": "“običaj” යන්නෙහි තේරුම?",
+        "options": [
+          "චාරිත්‍රය",
+          "අදාළ නැති වචනය",
+          "විරුද්ධ අර්ථය"
+        ],
+        "answer": 0,
+        "explanation": "običaj = චාරිත්‍රය"
+      },
+      {
+        "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+        "options": [
+          "උදාහරණයක්",
+          "මිලක්",
+          "ලිපිනයක්"
+        ],
+        "answer": 0,
+        "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "sr-b1-l45",
+    "unit": "ස්වාධීන භාවිතය",
+    "title": "B1 · පාඩම 45 · ව්‍යාපාර සහ ව්‍යවසායකත්වය",
+    "objective": "ව්‍යාපාර සහ ව්‍යවසායකත්වය ගැන පැහැදිලිව කතා කිරීම සහ උදාහරණ ඉදිරිපත් කිරීම",
+    "vocabulary": [
+      {
+        "word": "preduzetnik",
+        "reading": "ප්‍රෙදුසෙත්නික්",
+        "meaning": "ව්‍යවසායකයා",
+        "example": "Dobar poslovni plan uzima u obzir potrebe kupaca.",
+        "translation": "A good business plan takes customers' needs into account."
+      },
+      {
+        "word": "poslovni plan",
+        "reading": "පොස්ලොව්නි ප්ලාන්",
+        "meaning": "ව්‍යාපාර සැලැස්ම",
+        "example": "Dobar poslovni plan uzima u obzir potrebe kupaca.",
+        "translation": "A good business plan takes customers' needs into account."
+      },
+      {
+        "word": "kupac",
+        "reading": "කුපාත්ස්",
+        "meaning": "පාරිභෝගිකයා",
+        "example": "Dobar poslovni plan uzima u obzir potrebe kupaca.",
+        "translation": "A good business plan takes customers' needs into account."
+      },
+      {
+        "word": "potražnja",
+        "reading": "පොත්‍රාෂ්න්යා",
+        "meaning": "ඉල්ලුම",
+        "example": "Dobar poslovni plan uzima u obzir potrebe kupaca.",
+        "translation": "A good business plan takes customers' needs into account."
+      },
+      {
+        "word": "dobit",
+        "reading": "දොබිත්",
+        "meaning": "ලාභය",
+        "example": "Dobar poslovni plan uzima u obzir potrebe kupaca.",
+        "translation": "A good business plan takes customers' needs into account."
+      },
+      {
+        "word": "trošak",
+        "reading": "ත්‍රොෂාක්",
+        "meaning": "පිරිවැය",
+        "example": "Dobar poslovni plan uzima u obzir potrebe kupaca.",
+        "translation": "A good business plan takes customers' needs into account."
+      },
+      {
+        "word": "dobavljač",
+        "reading": "දොබාව්ල්යාච්",
+        "meaning": "සැපයුම්කරු",
+        "example": "Dobar poslovni plan uzima u obzir potrebe kupaca.",
+        "translation": "A good business plan takes customers' needs into account."
+      },
+      {
+        "word": "povratna informacija",
+        "reading": "පොව්‍රාත්නා ඉන්ෆොර්මාත්සියා",
+        "meaning": "ප්‍රතිචාරය",
+        "example": "Dobar poslovni plan uzima u obzir potrebe kupaca.",
+        "translation": "A good business plan takes customers' needs into account."
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "Purpose clauses and formal requests in business.",
+    "grammarTerms": [
+      {
+        "sr": "Dobar poslovni plan uzima u obzir potrebe kupaca.",
+        "reading": "දොබාර් පොස්ලොව්නි ප්ලාන් උසිමා උ ඔබ්සීර් පොත්‍රෙබෙ කුපාත්සා.",
+        "si": "A good business plan takes customers' needs into account."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Dobar poslovni plan uzima u obzir potrebe kupaca.",
+        "reading": "දොබාර් පොස්ලොව්නි ප්ලාන් උසිමා උ ඔබ්සීර් පොත්‍රෙබෙ කුපාත්සා.",
+        "si": "A good business plan takes customers' needs into account."
+      },
+      {
+        "sr": "Važno je da pažljivo razmotrimo sve mogućnosti.",
+        "reading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
+        "reading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
+        "si": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      },
+      {
+        "sr": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
+        "reading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ.",
+        "si": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "A: Dobar poslovni plan uzima u obzir potrebe kupaca.",
+        "reading": "A: දොබාර් පොස්ලොව්නි ප්ලාන් උසිමා උ ඔබ්සීර් පොත්‍රෙබෙ කුපාත්සා.",
+        "si": "A good business plan takes customers' needs into account."
+      },
+      {
+        "sr": "B: Možeš li da navedeš primer?",
+        "reading": "B: මොෂෙෂ් ලි ද නාවෙදෙෂ් ප්‍රිමෙර්?",
+        "si": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+      },
+      {
+        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
+        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "B: Slažem se. Tako možemo da donesemo bolju odluku.",
+        "reading": "B: ස්ලාෂෙම් සෙ. තාකො මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
+        "si": "එකඟයි. එහෙම අපට වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Dobar poslovni plan uzima u obzir potrebe kupaca.",
+      "audio": "Dobar poslovni plan uzima u obzir potrebe kupaca.",
+      "reading": "දොබාර් පොස්ලොව්නි ප්ලාන් උසිමා උ ඔබ්සීර් පොත්‍රෙබෙ කුපාත්සා.",
+      "options": [
+        "A good business plan takes customers' needs into account.",
+        "වෙනත් අදහසක්",
+        "ප්‍රශ්නයක්"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“preduzetnik” යන්නෙහි තේරුම?",
+        "options": [
+          "ව්‍යවසායකයා",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් අර්ථයක්"
+        ],
+        "answer": 0,
+        "explanation": "preduzetnik = ව්‍යවසායකයා"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Yesterday I will goes.",
+          "Dobar poslovni plan uzima u obzir potrebe kupaca.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "A good business plan takes customers' needs into account."
+      },
+      {
+        "prompt": "“poslovni plan” යන්නෙහි තේරුම?",
+        "options": [
+          "ව්‍යාපාර සැලැස්ම",
+          "අදාළ නැති වචනය",
+          "විරුද්ධ අර්ථය"
+        ],
+        "answer": 0,
+        "explanation": "poslovni plan = ව්‍යාපාර සැලැස්ම"
+      },
+      {
+        "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+        "options": [
+          "උදාහරණයක්",
+          "මිලක්",
+          "ලිපිනයක්"
+        ],
+        "answer": 0,
+        "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "sr-b1-l46",
+    "unit": "ස්වාධීන භාවිතය",
+    "title": "B1 · පාඩම 46 · වාර්තා ලිවීම සහ දත්ත ඉදිරිපත් කිරීම",
+    "objective": "වාර්තා ලිවීම සහ දත්ත ඉදිරිපත් කිරීම ගැන පැහැදිලිව කතා කිරීම සහ උදාහරණ ඉදිරිපත් කිරීම",
+    "vocabulary": [
+      {
+        "word": "izveštaj",
+        "reading": "ඉස්වෙෂ්තායි",
+        "meaning": "වාර්තාව",
+        "example": "Izveštaj treba jasno da predstavi podatke i zaključke.",
+        "translation": "A report should present the data and conclusions clearly."
+      },
+      {
+        "word": "podaci",
+        "reading": "පොදාත්සි",
+        "meaning": "දත්ත",
+        "example": "Izveštaj treba jasno da predstavi podatke i zaključke.",
+        "translation": "A report should present the data and conclusions clearly."
+      },
+      {
+        "word": "brojka",
+        "reading": "බ්‍රොයිකා",
+        "meaning": "සංඛ්‍යාව",
+        "example": "Izveštaj treba jasno da predstavi podatke i zaključke.",
+        "translation": "A report should present the data and conclusions clearly."
+      },
+      {
+        "word": "trend",
+        "reading": "ත්‍රෙන්ද්",
+        "meaning": "ප්‍රවණතාව",
+        "example": "Izveštaj treba jasno da predstavi podatke i zaključke.",
+        "translation": "A report should present the data and conclusions clearly."
+      },
+      {
+        "word": "povećanje",
+        "reading": "පොවෙචාන්යේ",
+        "meaning": "වැඩිවීම",
+        "example": "Izveštaj treba jasno da predstavi podatke i zaključke.",
+        "translation": "A report should present the data and conclusions clearly."
+      },
+      {
+        "word": "smanjenje",
+        "reading": "ස්මාන්යේන්යේ",
+        "meaning": "අඩුවීම",
+        "example": "Izveštaj treba jasno da predstavi podatke i zaključke.",
+        "translation": "A report should present the data and conclusions clearly."
+      },
+      {
+        "word": "zaključak",
+        "reading": "සාක්ල්යුචාක්",
+        "meaning": "නිගමනය",
+        "example": "Izveštaj treba jasno da predstavi podatke i zaključke.",
+        "translation": "A report should present the data and conclusions clearly."
+      },
+      {
+        "word": "dodatak",
+        "reading": "දොදාතාක්",
+        "meaning": "ඇමුණුම",
+        "example": "Izveštaj treba jasno da predstavi podatke i zaključke.",
+        "translation": "A report should present the data and conclusions clearly."
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "Linking phrases, passive voice and cautious data interpretation.",
+    "grammarTerms": [
+      {
+        "sr": "Izveštaj treba jasno da predstavi podatke i zaključke.",
+        "reading": "ඉස්වෙෂ්තායි ත්‍රෙබා යාස්නො ද ප්‍රෙද්ස්තාවි පොදාත්කෙ ඉ සාක්ල්යුච්කෙ.",
+        "si": "A report should present the data and conclusions clearly."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Izveštaj treba jasno da predstavi podatke i zaključke.",
+        "reading": "ඉස්වෙෂ්තායි ත්‍රෙබා යාස්නො ද ප්‍රෙද්ස්තාවි පොදාත්කෙ ඉ සාක්ල්යුච්කෙ.",
+        "si": "A report should present the data and conclusions clearly."
+      },
+      {
+        "sr": "Važno je da pažljivo razmotrimo sve mogućnosti.",
+        "reading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
+        "reading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
+        "si": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      },
+      {
+        "sr": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
+        "reading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ.",
+        "si": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "A: Izveštaj treba jasno da predstavi podatke i zaključke.",
+        "reading": "A: ඉස්වෙෂ්තායි ත්‍රෙබා යාස්නො ද ප්‍රෙද්ස්තාවි පොදාත්කෙ ඉ සාක්ල්යුච්කෙ.",
+        "si": "A report should present the data and conclusions clearly."
+      },
+      {
+        "sr": "B: Možeš li da navedeš primer?",
+        "reading": "B: මොෂෙෂ් ලි ද නාවෙදෙෂ් ප්‍රිමෙර්?",
+        "si": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+      },
+      {
+        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
+        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "B: Slažem se. Tako možemo da donesemo bolju odluku.",
+        "reading": "B: ස්ලාෂෙම් සෙ. තාකො මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
+        "si": "එකඟයි. එහෙම අපට වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Izveštaj treba jasno da predstavi podatke i zaključke.",
+      "audio": "Izveštaj treba jasno da predstavi podatke i zaključke.",
+      "reading": "ඉස්වෙෂ්තායි ත්‍රෙබා යාස්නො ද ප්‍රෙද්ස්තාවි පොදාත්කෙ ඉ සාක්ල්යුච්කෙ.",
+      "options": [
+        "A report should present the data and conclusions clearly.",
+        "වෙනත් අදහසක්",
+        "ප්‍රශ්නයක්"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“izveštaj” යන්නෙහි තේරුම?",
+        "options": [
+          "වාර්තාව",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් අර්ථයක්"
+        ],
+        "answer": 0,
+        "explanation": "izveštaj = වාර්තාව"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Yesterday I will goes.",
+          "Izveštaj treba jasno da predstavi podatke i zaključke.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "A report should present the data and conclusions clearly."
+      },
+      {
+        "prompt": "“podaci” යන්නෙහි තේරුම?",
+        "options": [
+          "දත්ත",
+          "අදාළ නැති වචනය",
+          "විරුද්ධ අර්ථය"
+        ],
+        "answer": 0,
+        "explanation": "podaci = දත්ත"
+      },
+      {
+        "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+        "options": [
+          "උදාහරණයක්",
+          "මිලක්",
+          "ලිපිනයක්"
+        ],
+        "answer": 0,
+        "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "sr-b1-l47",
+    "unit": "ස්වාධීන භාවිතය",
+    "title": "B1 · පාඩම 47 · ජනමාධ්‍ය විවාද සහ මහජන මතය",
+    "objective": "ජනමාධ්‍ය විවාද සහ මහජන මතය ගැන පැහැදිලිව කතා කිරීම සහ උදාහරණ ඉදිරිපත් කිරීම",
+    "vocabulary": [
+      {
+        "word": "rasprava",
+        "reading": "රාස්ප්‍රාවා",
+        "meaning": "විවාදය",
+        "example": "Javna rasprava pomaže da razumemo različita mišljenja.",
+        "translation": "Public debate helps us understand different opinions."
+      },
+      {
+        "word": "javno mišljenje",
+        "reading": "යාව්නො මිෂ්ල්යේන්යේ",
+        "meaning": "මහජන මතය",
+        "example": "Javna rasprava pomaže da razumemo različita mišljenja.",
+        "translation": "Public debate helps us understand different opinions."
+      },
+      {
+        "word": "stanovište",
+        "reading": "ස්තනොවිෂ්තෙ",
+        "meaning": "දෘෂ්ටිකෝණය",
+        "example": "Javna rasprava pomaže da razumemo različita mišljenja.",
+        "translation": "Public debate helps us understand different opinions."
+      },
+      {
+        "word": "argument",
+        "reading": "අර්ගුමෙන්ත්",
+        "meaning": "තර්කය",
+        "example": "Javna rasprava pomaže da razumemo različita mišljenja.",
+        "translation": "Public debate helps us understand different opinions."
+      },
+      {
+        "word": "protivargument",
+        "reading": "ප්‍රොතිවාර්ගුමෙන්ත්",
+        "meaning": "ප්‍රතිතර්කය",
+        "example": "Javna rasprava pomaže da razumemo različita mišljenja.",
+        "translation": "Public debate helps us understand different opinions."
+      },
+      {
+        "word": "ubediti",
+        "reading": "උබෙදිති",
+        "meaning": "ඒත්තු ගන්වනවා",
+        "example": "Javna rasprava pomaže da razumemo različita mišljenja.",
+        "translation": "Public debate helps us understand different opinions."
+      },
+      {
+        "word": "razgovarati",
+        "reading": "රාස්ගොවාරාති",
+        "meaning": "සාකච්ඡා කරනවා",
+        "example": "Javna rasprava pomaže da razumemo različita mišljenja.",
+        "translation": "Public debate helps us understand different opinions."
+      },
+      {
+        "word": "zaključiti",
+        "reading": "සාක්ල්යුචිති",
+        "meaning": "නිගමනය කරනවා",
+        "example": "Javna rasprava pomaže da razumemo različita mišljenja.",
+        "translation": "Public debate helps us understand different opinions."
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "Reported speech, opinion phrases and concession clauses.",
+    "grammarTerms": [
+      {
+        "sr": "Javna rasprava pomaže da razumemo različita mišljenja.",
+        "reading": "යාව්නා රාස්ප්‍රාවා පොමාෂෙ ද රාසුමෙමො රාස්ලිචිතා මිෂ්ල්යේන්යා.",
+        "si": "Public debate helps us understand different opinions."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Javna rasprava pomaže da razumemo različita mišljenja.",
+        "reading": "යාව්නා රාස්ප්‍රාවා පොමාෂෙ ද රාසුමෙමො රාස්ලිචිතා මිෂ්ල්යේන්යා.",
+        "si": "Public debate helps us understand different opinions."
+      },
+      {
+        "sr": "Važno je da pažljivo razmotrimo sve mogućnosti.",
+        "reading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
+        "reading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
+        "si": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      },
+      {
+        "sr": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
+        "reading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ.",
+        "si": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "A: Javna rasprava pomaže da razumemo različita mišljenja.",
+        "reading": "A: යාව්නා රාස්ප්‍රාවා පොමාෂෙ ද රාසුමෙමො රාස්ලිචිතා මිෂ්ල්යේන්යා.",
+        "si": "Public debate helps us understand different opinions."
+      },
+      {
+        "sr": "B: Možeš li da navedeš primer?",
+        "reading": "B: මොෂෙෂ් ලි ද නාවෙදෙෂ් ප්‍රිමෙර්?",
+        "si": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+      },
+      {
+        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
+        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "B: Slažem se. Tako možemo da donesemo bolju odluku.",
+        "reading": "B: ස්ලාෂෙම් සෙ. තාකො මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
+        "si": "එකඟයි. එහෙම අපට වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Javna rasprava pomaže da razumemo različita mišljenja.",
+      "audio": "Javna rasprava pomaže da razumemo različita mišljenja.",
+      "reading": "යාව්නා රාස්ප්‍රාවා පොමාෂෙ ද රාසුමෙමො රාස්ලිචිතා මිෂ්ල්යේන්යා.",
+      "options": [
+        "Public debate helps us understand different opinions.",
+        "වෙනත් අදහසක්",
+        "ප්‍රශ්නයක්"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“rasprava” යන්නෙහි තේරුම?",
+        "options": [
+          "විවාදය",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් අර්ථයක්"
+        ],
+        "answer": 0,
+        "explanation": "rasprava = විවාදය"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Yesterday I will goes.",
+          "Javna rasprava pomaže da razumemo različita mišljenja.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "Public debate helps us understand different opinions."
+      },
+      {
+        "prompt": "“javno mišljenje” යන්නෙහි තේරුම?",
+        "options": [
+          "මහජන මතය",
+          "අදාළ නැති වචනය",
+          "විරුද්ධ අර්ථය"
+        ],
+        "answer": 0,
+        "explanation": "javno mišljenje = මහජන මතය"
+      },
+      {
+        "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+        "options": [
+          "උදාහරණයක්",
+          "මිලක්",
+          "ලිපිනයක්"
+        ],
+        "answer": 0,
+        "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "sr-b1-l48",
+    "unit": "ස්වාධීන භාවිතය",
+    "title": "B1 · පාඩම 48 · සංකීර්ණ ගැටලු සහ විසඳුම් ඇගයීම",
+    "objective": "සංකීර්ණ ගැටලු සහ විසඳුම් ඇගයීම ගැන පැහැදිලිව කතා කිරීම සහ උදාහරණ ඉදිරිපත් කිරීම",
+    "vocabulary": [
+      {
+        "word": "složen",
+        "reading": "ස්ලොෂෙන්",
+        "meaning": "සංකීර්ණ",
+        "example": "Pre izbora rešenja treba proceniti moguće posledice.",
+        "translation": "Before choosing a solution, we should evaluate possible consequences."
+      },
+      {
+        "word": "proceniti",
+        "reading": "ප්‍රොත්සෙනිති",
+        "meaning": "ඇගයීම",
+        "example": "Pre izbora rešenja treba proceniti moguće posledice.",
+        "translation": "Before choosing a solution, we should evaluate possible consequences."
+      },
+      {
+        "word": "posledica",
+        "reading": "පොස්ලෙදිත්සා",
+        "meaning": "ප්‍රතිවිපාකය",
+        "example": "Pre izbora rešenja treba proceniti moguće posledice.",
+        "translation": "Before choosing a solution, we should evaluate possible consequences."
+      },
+      {
+        "word": "opcija",
+        "reading": "ඔප්ත්සියා",
+        "meaning": "විකල්පය",
+        "example": "Pre izbora rešenja treba proceniti moguće posledice.",
+        "translation": "Before choosing a solution, we should evaluate possible consequences."
+      },
+      {
+        "word": "rizik",
+        "reading": "රිසික්",
+        "meaning": "අවදානම",
+        "example": "Pre izbora rešenja treba proceniti moguće posledice.",
+        "translation": "Before choosing a solution, we should evaluate possible consequences."
+      },
+      {
+        "word": "korist",
+        "reading": "කොරිස්ත්",
+        "meaning": "ප්‍රයෝජනය",
+        "example": "Pre izbora rešenja treba proceniti moguće posledice.",
+        "translation": "Before choosing a solution, we should evaluate possible consequences."
+      },
+      {
+        "word": "delotvoran",
+        "reading": "දෙලොත්වොරාන්",
+        "meaning": "ඵලදායී",
+        "example": "Pre izbora rešenja treba proceniti moguće posledice.",
+        "translation": "Before choosing a solution, we should evaluate possible consequences."
+      },
+      {
+        "word": "izvodljiv",
+        "reading": "ඉස්වොද්ල්යීව්",
+        "meaning": "කළ හැකි",
+        "example": "Pre izbora rešenja treba proceniti moguće posledice.",
+        "translation": "Before choosing a solution, we should evaluate possible consequences."
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "Conditionals, modal perfect and evaluation adjectives.",
+    "grammarTerms": [
+      {
+        "sr": "Pre izbora rešenja treba proceniti moguće posledice.",
+        "reading": "ප්‍රෙ ඉස්බොරා රෙෂෙන්යා ත්‍රෙබා ප්‍රොත්සෙනිති මොගුචෙ පොස්ලෙදිත්සෙ.",
+        "si": "Before choosing a solution, we should evaluate possible consequences."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Pre izbora rešenja treba proceniti moguće posledice.",
+        "reading": "ප්‍රෙ ඉස්බොරා රෙෂෙන්යා ත්‍රෙබා ප්‍රොත්සෙනිති මොගුචෙ පොස්ලෙදිත්සෙ.",
+        "si": "Before choosing a solution, we should evaluate possible consequences."
+      },
+      {
+        "sr": "Važno je da pažljivo razmotrimo sve mogućnosti.",
+        "reading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
+        "reading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
+        "si": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      },
+      {
+        "sr": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
+        "reading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ.",
+        "si": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "A: Pre izbora rešenja treba proceniti moguće posledice.",
+        "reading": "A: ප්‍රෙ ඉස්බොරා රෙෂෙන්යා ත්‍රෙබා ප්‍රොත්සෙනිති මොගුචෙ පොස්ලෙදිත්සෙ.",
+        "si": "Before choosing a solution, we should evaluate possible consequences."
+      },
+      {
+        "sr": "B: Možeš li da navedeš primer?",
+        "reading": "B: මොෂෙෂ් ලි ද නාවෙදෙෂ් ප්‍රිමෙර්?",
+        "si": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+      },
+      {
+        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
+        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "B: Slažem se. Tako možemo da donesemo bolju odluku.",
+        "reading": "B: ස්ලාෂෙම් සෙ. තාකො මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
+        "si": "එකඟයි. එහෙම අපට වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Pre izbora rešenja treba proceniti moguće posledice.",
+      "audio": "Pre izbora rešenja treba proceniti moguće posledice.",
+      "reading": "ප්‍රෙ ඉස්බොරා රෙෂෙන්යා ත්‍රෙබා ප්‍රොත්සෙනිති මොගුචෙ පොස්ලෙදිත්සෙ.",
+      "options": [
+        "Before choosing a solution, we should evaluate possible consequences.",
+        "වෙනත් අදහසක්",
+        "ප්‍රශ්නයක්"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“složen” යන්නෙහි තේරුම?",
+        "options": [
+          "සංකීර්ණ",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් අර්ථයක්"
+        ],
+        "answer": 0,
+        "explanation": "složen = සංකීර්ණ"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Yesterday I will goes.",
+          "Pre izbora rešenja treba proceniti moguće posledice.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "Before choosing a solution, we should evaluate possible consequences."
+      },
+      {
+        "prompt": "“proceniti” යන්නෙහි තේරුම?",
+        "options": [
+          "ඇගයීම",
+          "අදාළ නැති වචනය",
+          "විරුද්ධ අර්ථය"
+        ],
+        "answer": 0,
+        "explanation": "proceniti = ඇගයීම"
+      },
+      {
+        "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+        "options": [
+          "උදාහරණයක්",
+          "මිලක්",
+          "ලිපිනයක්"
+        ],
+        "answer": 0,
+        "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "sr-b1-l49",
+    "unit": "ස්වාධීන භාවිතය",
+    "title": "B1 · පාඩම 49 · අනාගත සැලසුම් සහ වෙනස්වීම්",
+    "objective": "අනාගත සැලසුම් සහ වෙනස්වීම් ගැන පැහැදිලිව කතා කිරීම සහ උදාහරණ ඉදිරිපත් කිරීම",
+    "vocabulary": [
+      {
+        "word": "prognoza",
+        "reading": "ප්‍රොග්නොසා",
+        "meaning": "අනාවැකිය",
+        "example": "Fleksibilan plan pomaže nam da se prilagodimo promenama.",
+        "translation": "A flexible plan helps us adapt to changes."
+      },
+      {
+        "word": "fleksibilan",
+        "reading": "ෆ්ලෙක්සිබිලාන්",
+        "meaning": "නම්‍යශීලී",
+        "example": "Fleksibilan plan pomaže nam da se prilagodimo promenama.",
+        "translation": "A flexible plan helps us adapt to changes."
+      },
+      {
+        "word": "pripremiti",
+        "reading": "ප්‍රිප්‍රෙමිති",
+        "meaning": "සූදානම් කරනවා",
+        "example": "Fleksibilan plan pomaže nam da se prilagodimo promenama.",
+        "translation": "A flexible plan helps us adapt to changes."
+      },
+      {
+        "word": "prilagoditi se",
+        "reading": "ප්‍රිලාගොදිති සෙ",
+        "meaning": "හැඩගැසෙනවා",
+        "example": "Fleksibilan plan pomaže nam da se prilagodimo promenama.",
+        "translation": "A flexible plan helps us adapt to changes."
+      },
+      {
+        "word": "neizvesnost",
+        "reading": "නෙඉස්වෙස්නොස්ත්",
+        "meaning": "අනිශ්චිතභාවය",
+        "example": "Fleksibilan plan pomaže nam da se prilagodimo promenama.",
+        "translation": "A flexible plan helps us adapt to changes."
+      },
+      {
+        "word": "strategija",
+        "reading": "ස්ත්‍රාත්‍රෙගියා",
+        "meaning": "උපායමාර්ගය",
+        "example": "Fleksibilan plan pomaže nam da se prilagodimo promenama.",
+        "translation": "A flexible plan helps us adapt to changes."
+      },
+      {
+        "word": "rezervni plan",
+        "reading": "රෙසෙර්ව්නි ප්ලාන්",
+        "meaning": "විකල්ප සැලැස්ම",
+        "example": "Fleksibilan plan pomaže nam da se prilagodimo promenama.",
+        "translation": "A flexible plan helps us adapt to changes."
+      },
+      {
+        "word": "dugoročan",
+        "reading": "දුගොරොචාන්",
+        "meaning": "දිගුකාලීන",
+        "example": "Fleksibilan plan pomaže nam da se prilagodimo promenama.",
+        "translation": "A flexible plan helps us adapt to changes."
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "Future continuous, future perfect and conditional planning.",
+    "grammarTerms": [
+      {
+        "sr": "Fleksibilan plan pomaže nam da se prilagodimo promenama.",
+        "reading": "ෆ්ලෙක්සිබිලාන් ප්ලාන් පොමාෂෙ නාම් ද සෙ ප්‍රිලාගොදිමො ප්‍රොමෙනාමා.",
+        "si": "A flexible plan helps us adapt to changes."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Fleksibilan plan pomaže nam da se prilagodimo promenama.",
+        "reading": "ෆ්ලෙක්සිබිලාන් ප්ලාන් පොමාෂෙ නාම් ද සෙ ප්‍රිලාගොදිමො ප්‍රොමෙනාමා.",
+        "si": "A flexible plan helps us adapt to changes."
+      },
+      {
+        "sr": "Važno je da pažljivo razmotrimo sve mogućnosti.",
+        "reading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
+        "reading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
+        "si": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      },
+      {
+        "sr": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
+        "reading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ.",
+        "si": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "A: Fleksibilan plan pomaže nam da se prilagodimo promenama.",
+        "reading": "A: ෆ්ලෙක්සිබිලාන් ප්ලාන් පොමාෂෙ නාම් ද සෙ ප්‍රිලාගොදිමො ප්‍රොමෙනාමා.",
+        "si": "A flexible plan helps us adapt to changes."
+      },
+      {
+        "sr": "B: Možeš li da navedeš primer?",
+        "reading": "B: මොෂෙෂ් ලි ද නාවෙදෙෂ් ප්‍රිමෙර්?",
+        "si": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+      },
+      {
+        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
+        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "B: Slažem se. Tako možemo da donesemo bolju odluku.",
+        "reading": "B: ස්ලාෂෙම් සෙ. තාකො මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
+        "si": "එකඟයි. එහෙම අපට වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Fleksibilan plan pomaže nam da se prilagodimo promenama.",
+      "audio": "Fleksibilan plan pomaže nam da se prilagodimo promenama.",
+      "reading": "ෆ්ලෙක්සිබිලාන් ප්ලාන් පොමාෂෙ නාම් ද සෙ ප්‍රිලාගොදිමො ප්‍රොමෙනාමා.",
+      "options": [
+        "A flexible plan helps us adapt to changes.",
+        "වෙනත් අදහසක්",
+        "ප්‍රශ්නයක්"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“prognoza” යන්නෙහි තේරුම?",
+        "options": [
+          "අනාවැකිය",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් අර්ථයක්"
+        ],
+        "answer": 0,
+        "explanation": "prognoza = අනාවැකිය"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Yesterday I will goes.",
+          "Fleksibilan plan pomaže nam da se prilagodimo promenama.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "A flexible plan helps us adapt to changes."
+      },
+      {
+        "prompt": "“fleksibilan” යන්නෙහි තේරුම?",
+        "options": [
+          "නම්‍යශීලී",
+          "අදාළ නැති වචනය",
+          "විරුද්ධ අර්ථය"
+        ],
+        "answer": 0,
+        "explanation": "fleksibilan = නම්‍යශීලී"
+      },
+      {
+        "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+        "options": [
+          "උදාහරණයක්",
+          "මිලක්",
+          "ලිපිනයක්"
+        ],
+        "answer": 0,
+        "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+      }
+    ]
+  },
+  {
+    "id": "sr-b1-l50",
+    "unit": "ස්වාධීන භාවිතය",
+    "title": "B1 · පාඩම 50 · B1 ඒකාබද්ධ කථන සහ ලිවීමේ කුසලතා",
+    "objective": "B1 ඒකාබද්ධ කථන සහ ලිවීමේ කුසලතා ගැන පැහැදිලිව කතා කිරීම සහ උදාහරණ ඉදිරිපත් කිරීම",
+    "vocabulary": [
+      {
+        "word": "uvod",
+        "reading": "උවොද්",
+        "meaning": "හැඳින්වීම",
+        "example": "Jasno izlaganje povezuje primere, razloge i zaključak.",
+        "translation": "A clear presentation connects examples, reasons and a conclusion."
+      },
+      {
+        "word": "potporna tačka",
+        "reading": "පොත්පොර්නා තාච්කා",
+        "meaning": "සහායක කරුණ",
+        "example": "Jasno izlaganje povezuje primere, razloge i zaključak.",
+        "translation": "A clear presentation connects examples, reasons and a conclusion."
+      },
+      {
+        "word": "primer",
+        "reading": "ප්‍රිමෙර්",
+        "meaning": "උදාහරණය",
+        "example": "Jasno izlaganje povezuje primere, razloge i zaključak.",
+        "translation": "A clear presentation connects examples, reasons and a conclusion."
+      },
+      {
+        "word": "sažetak",
+        "reading": "සාෂෙතාක්",
+        "meaning": "සාරාංශය",
+        "example": "Jasno izlaganje povezuje primere, razloge i zaključak.",
+        "translation": "A clear presentation connects examples, reasons and a conclusion."
+      },
+      {
+        "word": "struktura",
+        "reading": "ස්ත්‍රුක්තුරා",
+        "meaning": "ව්‍යුහය",
+        "example": "Jasno izlaganje povezuje primere, razloge i zaključak.",
+        "translation": "A clear presentation connects examples, reasons and a conclusion."
+      },
+      {
+        "word": "prelaz",
+        "reading": "ප්‍රෙලාස්",
+        "meaning": "සංක්‍රාන්තිය",
+        "example": "Jasno izlaganje povezuje primere, razloge i zaključak.",
+        "translation": "A clear presentation connects examples, reasons and a conclusion."
+      },
+      {
+        "word": "naglasiti",
+        "reading": "නාග්ලාසිති",
+        "meaning": "අවධාරණය කරනවා",
+        "example": "Jasno izlaganje povezuje primere, razloge i zaključak.",
+        "translation": "A clear presentation connects examples, reasons and a conclusion."
+      },
+      {
+        "word": "zaključak",
+        "reading": "සාක්ල්යුචාක්",
+        "meaning": "නිගමනය",
+        "example": "Jasno izlaganje povezuje primere, razloge i zaključak.",
+        "translation": "A clear presentation connects examples, reasons and a conclusion."
+      }
+    ],
+    "grammarTitle": "ව්‍යාකරණය",
+    "grammar": "Discourse markers for introductions, supporting points and conclusions.",
+    "grammarTerms": [
+      {
+        "sr": "Jasno izlaganje povezuje primere, razloge i zaključak.",
+        "reading": "යාස්නො ඉස්ලාගාන්යේ පොවෙසුයෙ ප්‍රිමෙරෙ රාස්ලොගෙ ඉ සාක්ල්යුචාක්.",
+        "si": "A clear presentation connects examples, reasons and a conclusion."
+      }
+    ],
+    "examples": [
+      {
+        "sr": "Jasno izlaganje povezuje primere, razloge i zaključak.",
+        "reading": "යාස්නො ඉස්ලාගාන්යේ පොවෙසුයෙ ප්‍රිමෙරෙ රාස්ලොගෙ ඉ සාක්ල්යුචාක්.",
+        "si": "A clear presentation connects examples, reasons and a conclusion."
+      },
+      {
+        "sr": "Važno je da pažljivo razmotrimo sve mogućnosti.",
+        "reading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
+        "reading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
+        "si": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      },
+      {
+        "sr": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
+        "reading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ.",
+        "si": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+      }
+    ],
+    "dialogue": [
+      {
+        "sr": "A: Jasno izlaganje povezuje primere, razloge i zaključak.",
+        "reading": "A: යාස්නො ඉස්ලාගාන්යේ පොවෙසුයෙ ප්‍රිමෙරෙ රාස්ලොගෙ ඉ සාක්ල්යුචාක්.",
+        "si": "A clear presentation connects examples, reasons and a conclusion."
+      },
+      {
+        "sr": "B: Možeš li da navedeš primer?",
+        "reading": "B: මොෂෙෂ් ලි ද නාවෙදෙෂ් ප්‍රිමෙර්?",
+        "si": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+      },
+      {
+        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
+        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
+        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+      },
+      {
+        "sr": "B: Slažem se. Tako možemo da donesemo bolju odluku.",
+        "reading": "B: ස්ලාෂෙම් සෙ. තාකො මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
+        "si": "එකඟයි. එහෙම අපට වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Jasno izlaganje povezuje primere, razloge i zaključak.",
+      "audio": "Jasno izlaganje povezuje primere, razloge i zaključak.",
+      "reading": "යාස්නො ඉස්ලාගාන්යේ පොවෙසුයෙ ප්‍රිමෙරෙ රාස්ලොගෙ ඉ සාක්ල්යුචාක්.",
+      "options": [
+        "A clear presentation connects examples, reasons and a conclusion.",
+        "වෙනත් අදහසක්",
+        "ප්‍රශ්නයක්"
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "“uvod” යන්නෙහි තේරුම?",
+        "options": [
+          "හැඳින්වීම",
+          "විරුද්ධ අර්ථය",
+          "වෙනත් අර්ථයක්"
+        ],
+        "answer": 0,
+        "explanation": "uvod = හැඳින්වීම"
+      },
+      {
+        "prompt": "නිවැරදි වාක්‍යය තෝරන්න.",
+        "options": [
+          "Yesterday I will goes.",
+          "Jasno izlaganje povezuje primere, razloge i zaključak.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "A clear presentation connects examples, reasons and a conclusion."
+      },
+      {
+        "prompt": "“potporna tačka” යන්නෙහි තේරුම?",
+        "options": [
+          "සහායක කරුණ",
+          "අදාළ නැති වචනය",
+          "විරුද්ධ අර්ථය"
+        ],
+        "answer": 0,
+        "explanation": "potporna tačka = සහායක කරුණ"
+      },
+      {
+        "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+        "options": [
+          "උදාහරණයක්",
+          "මිලක්",
+          "ලිපිනයක්"
+        ],
+        "answer": 0,
+        "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+      }
+    ]
   }
 ];
