@@ -446,3 +446,14 @@
 - Quality limitations: Sinhala-script readings are approximate; Serbian vocabulary currently includes some Cyrillic forms alongside Latin script and requires consistency/naturalness review by a fluent speaker. English/Serbian example and dialogue translations need editorial review.
 - No JavaScript/Expo build, CI pass, APK artifact, installation or physical-device test was run.
 - Next: normalize Serbian vocabulary script and audit B2 lessons 1–11, then add lessons 12–25 in both languages.
+
+
+## Latest session — B2 lessons 12–25 (2026-11-18)
+
+- Added paired B2 lessons 12–25 in Serbian and English. The new topics cover professional networking; workplace diversity and inclusion; technology and ethics; environmental policy; economic trends/cost of living; academic research and sources; legal rights/civic responsibilities; healthcare systems; cultural heritage/tourism; workplace stress/work-life balance; global trade/supply chains; discursive writing/editing; future work/automation; scientific uncertainty/risk communication; customer experience/service quality; statistics/trend interpretation.
+- Each added lesson contains eight vocabulary items, Sinhala-script pronunciation guidance, Sinhala meanings, grammar guidance, four examples, a four-line dialogue, a listening exercise and four practice questions.
+- Serbian lesson file commit: `e7f91fdd9f65f6f769b3cd0ae3cbd66b52771a6d`; English lesson file commit: `52d21bc0526a87b85de37122f6601a366d3c5dc8`; curriculum update: `c54f3784fb9bc135c8b3cd0efd5b6459aa22ff9c`; README update: `8b3fcb9ab1a2d6370fb13415ea5eeed5cf70fd96`.
+- Corrected the lesson arrays to exactly sequential lessons 1–25; no duplicate IDs remain. B2 status is 25/50 per language, 25 remaining. The existing B2 App panel consumes these arrays, so no new UI panel was needed.
+- Content caveat: this batch includes some technical vocabulary and Sinhala pronunciation approximations; Serbian Latin-script consistency and idiomatic usage should be reviewed by a fluent speaker. The lesson examples and dialogue rows currently share the same four phrases, which is suitable for guided practice but should later be expanded into richer multi-turn contextual dialogues.
+- No JavaScript/Expo build, CI pass, APK artifact, installation or physical-device test was run.
+- Next: add paired B2 lessons 26–40, then 41–50; afterward create B2 cumulative revision and scored final assessments, audit language quality, and verify build/device readiness.
