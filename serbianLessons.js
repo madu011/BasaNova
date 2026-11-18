@@ -1439,4 +1439,82 @@ practice:[
 {prompt:"“ඔබට මේක මාරු කරන්න පුළුවන්ද?” තෝරන්න.",options:["Možete li da zamenite ovo?","Koliko košta?","Gde je kuhinja?"],answer:0,explanation:"Možete li da zamenite ovo? = ඔබට මේක මාරු කරන්න පුළුවන්ද?"},
 {prompt:"“උදව්වට ස්තුතියි” කියන්නේ?",options:["Nema problema.","Hvala na pomoći.","Doviđenja."],answer:1,explanation:"Hvala na pomoći = උදව්වට ස්තුතියි."}]}
 
+
+,
+{
+id:"sr-a1-u10-l3",unit:"දුරකථන ඇමතුම් සහ පණිවිඩ",title:"පාඩම 24 · දුරකථන ඇමතුම් සහ පණිවිඩ",objective:"දුරකථනයෙන් කතා කිරීම, ඇමතුමකට පිළිතුරු දීම සහ කෙටි පණිවිඩ යැවීම.",
+vocabulary:[
+{word:"Poziv",reading:"පොසිව්",meaning:"දුරකථන ඇමතුම",example:"Imam jedan poziv.",exampleReading:"ඉමාම් යෙදාන් පොසිව්.",translation:"මට ඇමතුමක් තියෙනවා."},
+{word:"Poruka",reading:"පොරූකා",meaning:"පණිවිඩය",example:"Poslao sam poruku.",exampleReading:"පොස්ලාඔ සාම් පොරූකු.",translation:"මම පණිවිඩයක් යැව්වා."},
+{word:"Broj telefona",reading:"බ්‍රොයි තෙලෙෆොනා",meaning:"දුරකථන අංකය",example:"Koji je tvoj broj telefona?",exampleReading:"කොයි යේ ත්වොයි බ්‍රොයි තෙලෙෆොනා?",translation:"ඔයාගේ දුරකථන අංකය මොකක්ද?"},
+{word:"Javiti se",reading:"යාවිති සේ",meaning:"ඇමතුමට පිළිතුරු දීම",example:"Mogu li da se javim kasnije?",exampleReading:"මොගු ලි දා සේ යාවිම් කාස්නියේ?",translation:"මට පසුව ඇමතුමට පිළිතුරු දෙන්න පුළුවන්ද?"},
+{word:"Zauzet",reading:"සාවුසෙත්",meaning:"කාර්යබහුල / දුරකථනය කාර්යබහුලයි",example:"Trenutno sam zauzet.",exampleReading:"ත්‍රෙනූත්නො සාම් සාවුසෙත්.",translation:"මම මේ වෙලාවේ කාර්යබහුලයි."},
+{word:"Propušten poziv",reading:"ප්‍රොපුෂ්තෙන් පොසිව්",meaning:"මඟහැරුණු ඇමතුම",example:"Imam propušten poziv.",exampleReading:"ඉමාම් ප්‍රොපුෂ්තෙන් පොසිව්.",translation:"මට මඟහැරුණු ඇමතුමක් තියෙනවා."},
+{word:"Poslati",reading:"පොස්ලාති",meaning:"යැවීම",example:"Mogu da ti pošaljem adresu.",exampleReading:"මොගු දා ති පොෂාල්යෙම් අද්‍රෙසු.",translation:"මට ඔයාට ලිපිනය එවන්න පුළුවන්."},
+{word:"Odgovoriti",reading:"ඔද්ගොවොරිති",meaning:"පිළිතුරු දීම",example:"Odgovoriću na poruku.",exampleReading:"ඔද්ගොවොරිචු නා පොරූකු.",translation:"මම පණිවිඩයට පිළිතුරු දෙන්නම්."}],
+grammarTitle:"ව්‍යාකරණය · දුරකථනයෙන් කතා කිරීම සහ අනාගත ක්‍රියාව",
+grammar:"ඇමතුමකදී “Halo?” (හෙලෝ?) සහ “Ko je?” (කවුද?) යොදන්න. ඉල්ලීමක් සඳහා “Možeš li da ...?” කියන්න. අනාගත ක්‍රියාවක් සඳහා “ću + ක්‍රියාපදය” යෙදේ: “Odgovoriću” (මම පිළිතුරු දෙන්නම්).",
+grammarTerms:[
+{sr:"Halo, ko je?",si:"හෙලෝ, කවුද?",reading:"හාලො, කො යේ?"},
+{sr:"Trenutno ne mogu da razgovaram.",si:"මට දැන් කතා කරන්න බැහැ.",reading:"ත්‍රෙනූත්නො නේ මොගු දා රාස්ගොවාරාම්."},
+{sr:"Pozvaću te kasnije.",si:"මම ඔයාට පසුව කතා කරන්නම්.",reading:"පොස්වාචු තෙ කාස්නියේ."},
+{sr:"Pošalji mi poruku.",si:"මට පණිවිඩයක් එවන්න.",reading:"පොෂාල්යි මි පොරූකු."},
+{sr:"Odgovoriću uskoro.",si:"මම ඉක්මනින් පිළිතුරු දෙන්නම්.",reading:"ඔද්ගොවොරිචු උස්කොරො."}],
+examples:[
+{sr:"Izvini, trenutno sam zauzet.",reading:"ඉස්විනි, ත්‍රෙනූත්නො සාම් සාවුසෙත්.",si:"සමාවෙන්න, මම මේ වෙලාවේ කාර්යබහුලයි."},
+{sr:"Pozvaću te posle posla.",reading:"පොස්වාචු තෙ පොස්ලෙ පොස්ලා.",si:"වැඩෙන් පස්සේ මම ඔයාට කතා කරන්නම්."},
+{sr:"Pošalji mi adresu porukom.",reading:"පොෂාල්යි මි අද්‍රෙසු පොරූකොම්.",si:"පණිවිඩයකින් මට ලිපිනය එවන්න."},
+{sr:"Video sam tvoj propušten poziv.",reading:"විදෙඔ සාම් ත්වොයි ප්‍රොපුෂ්තෙන් පොසිව්.",si:"මම ඔයාගේ මඟහැරුණු ඇමතුම දැක්කා."}],
+dialogue:[
+{sr:"Halo, ovde Marko.",reading:"හාලො, ඔව්ඩෙ මාර්කො.",si:"හෙලෝ, මෙතැන මාර්කෝ."},
+{sr:"Zdravo! Možeš li sada da razgovaraš?",reading:"ස්ද්‍රාවො! මොෂෙෂ් ලි සාදා දා රාස්ගොවාරාෂ්?",si:"හෙලෝ! ඔයාට දැන් කතා කරන්න පුළුවන්ද?"},
+{sr:"Izvini, trenutno sam zauzet.",reading:"ඉස්විනි, ත්‍රෙනූත්නො සාම් සාවුසෙත්.",si:"සමාවෙන්න, මම මේ වෙලාවේ කාර්යබහුලයි."},
+{sr:"Nema problema. Pozvaću te kasnije.",reading:"නෙමා ප්‍රොබ්ලෙමා. පොස්වාචු තෙ කාස්නියේ.",si:"කමක් නැහැ. මම ඔයාට පසුව කතා කරන්නම්."},
+{sr:"Možeš li da mi pošalješ adresu?",reading:"මොෂෙෂ් ලි දා මි පොෂාල්යෙෂ් අද්‍රෙසු?",si:"මට ලිපිනය එවන්න පුළුවන්ද?"},
+{sr:"Naravno. Šaljem ti poruku.",reading:"නාරාව්නො. ෂාල්යෙම් ති පොරූකු.",si:"අනිවාර්යයෙන්. මම ඔයාට පණිවිඩයක් එවනවා."}],
+practice:[
+{prompt:"“පණිවිඩය” යන Serbian වචනය තෝරන්න.",options:["Poziv","Poruka","Broj"],answer:1,explanation:"Poruka = පණිවිඩය."},
+{prompt:"“මම ඔයාට පසුව කතා කරන්නම්” කියන්නේ?",options:["Pozvaću te kasnije.","Trenutno sam zauzet.","Pošalji mi poruku."],answer:0,explanation:"Pozvaću te kasnije = මම ඔයාට පසුව කතා කරන්නම්."},
+{prompt:"“මඟහැරුණු ඇමතුම” තෝරන්න.",options:["Broj telefona","Propušten poziv","Odgovoriti"],answer:1,explanation:"Propušten poziv = මඟහැරුණු ඇමතුම."},
+{prompt:"“මට පණිවිඩයක් එවන්න” කියන්නේ?",options:["Javi se kasnije.","Pošalji mi poruku.","Ko je? "],answer:1,explanation:"Pošalji mi poruku = මට පණිවිඩයක් එවන්න."}]
+},
+{
+id:"sr-a1-u10-l4",unit:"තැපැල් කාර්යාලය සහ පාර්සල්",title:"පාඩම 25 · තැපැල් කාර්යාලය සහ පාර්සල්",objective:"තැපැල් කාර්යාලයේදී පාර්සලයක් යැවීම, ලිපිනයක් ලබාදීම සහ භාරගැනීම ගැන විමසීම.",
+vocabulary:[
+{word:"Pošta",reading:"පොෂ්තා",meaning:"තැපැල් කාර්යාලය / තැපෑල",example:"Pošta je blizu stanice.",exampleReading:"පොෂ්තා යේ බ්ලිසු ස්තානිත්සෙ.",translation:"තැපැල් කාර්යාලය නැවතුම්පොළ අසලයි."},
+{word:"Paket",reading:"පාකෙත්",meaning:"පාර්සලය",example:"Želim da pošaljem paket.",exampleReading:"ෂෙලිම් දා පොෂාල්යෙම් පාකෙත්.",translation:"මට පාර්සලයක් යවන්න ඕනේ."},
+{word:"Pošiljka",reading:"පොෂිල්කා",meaning:"තැපැල් භාණ්ඩය / යැවූ භාණ්ඩය",example:"Pošiljka stiže sutra.",exampleReading:"පොෂිල්කා ස්තීෂෙ සුත්‍රා.",translation:"යැවූ භාණ්ඩය හෙට ලැබෙනවා."},
+{word:"Adresa",reading:"අද්‍රෙසා",meaning:"ලිපිනය",example:"Napišite adresu ovde.",exampleReading:"නාපීෂිතෙ අද්‍රෙසු ඔව්දෙ.",translation:"මෙතැන ලිපිනය ලියන්න."},
+{word:"Primalac",reading:"ප්‍රිමාලාත්ස්",meaning:"ලබන්නා",example:"Ko je primalac paketa?",exampleReading:"කො යේ ප්‍රිමාලාත්ස් පාකෙතා?",translation:"පාර්සලයේ ලබන්නා කවුද?"},
+{word:"Pošiljalac",reading:"පොෂිල්යාලාත්ස්",meaning:"යවන්නා",example:"Upišite ime pošiljaoca.",exampleReading:"උපීෂිතෙ ඉමෙ පොෂිල්යාලාත්සා.",translation:"යවන්නාගේ නම ලියන්න."},
+{word:"Poslati",reading:"පොස්ලාති",meaning:"යැවීම",example:"Mogu da pošaljem dokument.",exampleReading:"මොගු දා පොෂාල්යෙම් දොකුමෙන්ත්.",translation:"මට ලේඛනය යවන්න පුළුවන්."},
+{word:"Preuzeti",reading:"ප්‍රෙඋසෙති",meaning:"භාරගැනීම / ලබාගැනීම",example:"Gde mogu da preuzmem paket?",exampleReading:"ග්දේ මොගු දා ප්‍රෙඋස්මෙම් පාකෙත්?",translation:"මට පාර්සලය ලබාගන්න පුළුවන් කොහෙන්ද?"}],
+grammarTitle:"ව්‍යාකරණය · යැවීම සහ ලබන්නා ගැන විමසීම",
+grammar:"“Želim da pošaljem ...” යනු “මට ... යවන්න ඕනේ” යන්නයි. “Za koga?” (කාටද?) සහ “Od koga?” (කාගෙන්ද?) යන ප්‍රශ්න භාවිත කරන්න. “Gde mogu da ...?” යනු “මට ... කරන්න පුළුවන් කොහෙන්ද?” යන්නයි.",
+grammarTerms:[
+{sr:"Želim da pošaljem paket.",si:"මට පාර්සලයක් යවන්න ඕනේ.",reading:"ෂෙලිම් දා පොෂාල්යෙම් පාකෙත්."},
+{sr:"Ko je primalac?",si:"ලබන්නා කවුද?",reading:"කො යේ ප්‍රිමාලාත්ස්?"},
+{sr:"Ovo je moja adresa.",si:"මේ මගේ ලිපිනයයි.",reading:"ඔවො යේ මොයා අද්‍රෙසා."},
+{sr:"Kada stiže pošiljka?",si:"යැවූ භාණ්ඩය ලැබෙන්නේ කවදාද?",reading:"කාදා ස්තීෂෙ පොෂිල්කා?"},
+{sr:"Gde mogu da preuzmem paket?",si:"මට පාර්සලය ලබාගන්න පුළුවන් කොහෙන්ද?",reading:"ග්දේ මොගු දා ප්‍රෙඋස්මෙම් පාකෙත්?"}],
+examples:[
+{sr:"Želim da pošaljem paket u Beograd.",reading:"ෂෙලිම් දා පොෂාල්යෙම් පාකෙත් උ බෙඔග්‍රාද්.",si:"මට බෙල්ග්‍රේඩ් වෙත පාර්සලයක් යවන්න ඕනේ."},
+{sr:"Ovo je adresa primaoca.",reading:"ඔවො යේ අද්‍රෙසා ප්‍රිමාඔත්සා.",si:"මේ ලබන්නාගේ ලිපිනයයි."},
+{sr:"Koliko košta slanje paketa?",reading:"කොලිකො කොෂ්තා ස්ලාන්‍යෙ පාකෙතා?",si:"පාර්සලය යැවීමට කොපමණ මුදලක් වැය වෙනවාද?"},
+{sr:"Pošiljku mogu da preuzmem sutra.",reading:"පොෂිල්කු මොගු දා ප්‍රෙඋස්මෙම් සුත්‍රා.",si:"මට හෙට යැවූ භාණ්ඩය ලබාගන්න පුළුවන්."}],
+dialogue:[
+{sr:"Dobar dan. Želim da pošaljem paket.",reading:"දොබාර් දාන්. ෂෙලිම් දා පොෂාල්යෙම් පාකෙත්.",si:"සුබ දවසක්. මට පාර්සලයක් යවන්න ඕනේ."},
+{sr:"Naravno. Imate li adresu primaoca?",reading:"නාරාව්නො. ඉමාතෙ ලි අද්‍රෙසු ප්‍රිමාඔත්සා?",si:"අනිවාර්යයෙන්. ලබන්නාගේ ලිපිනය ඔබ ළඟ තියෙනවාද?"},
+{sr:"Da, ovde je adresa.",reading:"දා, ඔව්දෙ යේ අද්‍රෙසා.",si:"ඔව්, මෙන්න ලිපිනය."},
+{sr:"Koje je ime pošiljaoca?",reading:"කොයේ යේ ඉමෙ පොෂිල්යාලාත්සා?",si:"යවන්නාගේ නම මොකක්ද?"},
+{sr:"Moje ime je Marko.",reading:"මොයේ ඉමෙ යේ මාර්කො.",si:"මගේ නම මාර්කෝ."},
+{sr:"U redu. Pošiljka stiže za tri dana.",reading:"උ රෙදු. පොෂිල්කා ස්තීෂෙ සා ත්‍රි දානා.",si:"හරි. යැවූ භාණ්ඩය දින තුනකින් ලැබෙනවා."}],
+practice:[
+{prompt:"“පාර්සලය” යන Serbian වචනය?",options:["Pošta","Paket","Adresa"],answer:1,explanation:"Paket = පාර්සලය."},
+{prompt:"“ලබන්නා” තෝරන්න.",options:["Pošiljalac","Primalac","Pošiljka"],answer:1,explanation:"Primalac = ලබන්නා."},
+{prompt:"“මට පාර්සලයක් යවන්න ඕනේ” කියන්නේ?",options:["Želim da pošaljem paket.","Želim da preuzmem paket.","Gde je pošta?"],answer:0,explanation:"Želim da pošaljem paket = මට පාර්සලයක් යවන්න ඕනේ."},
+{prompt:"“ලිපිනය” යන වචනය?",options:["Adresa","Paket","Pošta"],answer:0,explanation:"Adresa = ලිපිනය."}]
+}
+
+
 ];
