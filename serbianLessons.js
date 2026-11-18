@@ -1822,4 +1822,115 @@ practice:[
 {prompt:"“මට පුළුවන්ද?” යන ආරම්භය?",options:["Da li mogu","Gde je","Koliko košta"],answer:0,explanation:"Da li mogu = මට පුළුවන්ද."},
 {prompt:"“එකඟයි” යන වචනය?",options:["Dogovoreno","Kasnim","Uveče"],answer:0,explanation:"Dogovoreno = එකඟයි."}]}
 
+
+,
+{id:"sr-a1-u12-l1",unit:"දුරකථන ඇමතුම්",title:"පාඩම 34 · දුරකථන ඇමතුම්",objective:"දුරකථනයෙන් තමන් හඳුන්වා දීම, කෙනෙකු ඉල්ලීම සහ පසුව නැවත කතා කරන බව පැවසීම.",
+vocabulary:[
+{word:"Telefon",reading:"තෙලෙෆොන්",meaning:"දුරකථනය",example:"Telefon mi zvoni.",exampleReading:"තෙලෙෆොන් මි ස්වොනි.",translation:"මගේ දුරකථනය නාද වෙනවා."},
+{word:"Pozvati",reading:"පොස්වති",meaning:"ඇමතීම",example:"Mogu li da vas pozovem?",exampleReading:"මොගු ලි දා වාස් පොස්වොවෙම්?",translation:"මට ඔබට ඇමතුමක් දෙන්න පුළුවන්ද?"},
+{word:"Javiti se",reading:"යාවිති සේ",meaning:"ඇමතුමට පිළිතුරු දීම",example:"Ne mogu sada da se javim.",exampleReading:"නේ මොගු සාදා දා සේ යාවිම්.",translation:"මට දැන් ඇමතුමට පිළිතුරු දෙන්න බැහැ."},
+{word:"Ko je?",reading:"කො යේ?",meaning:"කවුද?",example:"Halo, ko je?",exampleReading:"හාලො, කො යේ?",translation:"හෙලෝ, කවුද කතා කරන්නේ?"},
+{word:"Trenutno",reading:"ත්‍රෙනූත්නො",meaning:"මේ මොහොතේ",example:"Trenutno sam zauzet.",exampleReading:"ත්‍රෙනූත්නො සාම් සාවුසෙත්.",translation:"මම මේ මොහොතේ කාර්යබහුලයි."},
+{word:"Kasnije",reading:"කාස්නියෙ",meaning:"පසුව",example:"Pozvaću vas kasnije.",exampleReading:"පොස්වාචු වාස් කාස්නියෙ.",translation:"මම ඔබට පසුව ඇමතුමක් දෙන්නම්."},
+{word:"Poruka",reading:"පොරූකා",meaning:"පණිවිඩය",example:"Ostavite poruku.",exampleReading:"ඔස්තාවිතෙ පොරූකු.",translation:"පණිවිඩයක් තබන්න."},
+{word:"Čuti se",reading:"චූති සේ",meaning:"නැවත කතා කිරීම / සම්බන්ධ වීම",example:"Čujemo se sutra.",exampleReading:"චූයෙමො සේ සුත්‍රා.",translation:"අපි හෙට නැවත කතා කරමු."}],
+grammarTitle:"ව්‍යාකරණය · දුරකථනයෙන් කතා කිරීම",
+grammar:"“Halo” යනු දුරකථනයට පිළිතුරු දෙන විට භාවිත කරන හෙලෝ යන්නයි. “Mogu li da razgovaram sa ...?” යනු කෙනෙකු සමඟ කතා කිරීමට ඉල්ලීමකි. “Pozvaću vas kasnije” යනු පසුව නැවත අමතන බව කියයි.",
+grammarTerms:[
+{sr:"Halo, dobar dan.",reading:"හාලො, දොබාර් දාන්.",si:"හෙලෝ, සුබ දවසක්."},
+{sr:"Mogu li da razgovaram sa Markom?",reading:"මොගු ලි දා රාස්ගොවාරාම් සා මාර්කොම්?",si:"මට මාර්කෝ සමඟ කතා කරන්න පුළුවන්ද?"},
+{sr:"Trenutno nije dostupan.",reading:"ත්‍රෙනූත්නො නියෙ දොස්තුපාන්.",si:"ඔහු මේ මොහොතේ සම්බන්ධ කරගන්න බැහැ."},
+{sr:"Pozvaću vas kasnije.",reading:"පොස්වාචු වාස් කාස්නියෙ.",si:"මම ඔබට පසුව ඇමතුමක් දෙන්නම්."}],
+examples:[
+{sr:"Halo, ovde Ana.",reading:"හාලො, ඔව්දෙ ආනා.",si:"හෙලෝ, මේ ආනා."},
+{sr:"Da li je Marko tu?",reading:"දා ලි යේ මාර්කො තු?",si:"මාර්කෝ ඉන්නවාද?"},
+{sr:"Trenutno ne mogu da razgovaram.",reading:"ත්‍රෙනූත්නො නේ මොගු දා රාස්ගොවාරාම්.",si:"මට මේ මොහොතේ කතා කරන්න බැහැ."},
+{sr:"Pozvaću te za deset minuta.",reading:"පොස්වාචු තෙ සා දෙසෙත් මිනූතා.",si:"මම විනාඩි දහයකින් ඔයාට කතා කරන්නම්."}],
+dialogue:[
+{sr:"Halo, dobar dan. Ovde Nikola.",reading:"හාලො, දොබාර් දාන්. ඔව්දෙ නිකොලා.",si:"හෙලෝ, සුබ දවසක්. මේ නිකොලා."},
+{sr:"Dobar dan. Mogu li da razgovaram sa Anom?",reading:"දොබාර් දාන්. මොගු ලි දා රාස්ගොවාරාම් සා ආනොම්?",si:"සුබ දවසක්. මට ආනා සමඟ කතා කරන්න පුළුවන්ද?"},
+{sr:"Trenutno nije dostupna.",reading:"ත්‍රෙනූත්නො නියෙ දොස්තුප්නා.",si:"ඇය මේ මොහොතේ සම්බන්ධ කරගන්න බැහැ."},
+{sr:"Možete li da joj ostavite poruku?",reading:"මොෂෙතෙ ලි දා යොයි ඔස්තාවිතෙ පොරූකු?",si:"ඔබට ඇයට පණිවිඩයක් තබන්න පුළුවන්ද?"},
+{sr:"Naravno. Recite joj da sam zvao.",reading:"නාරාව්නො. රෙත්සිටෙ යොයි දා සාම් ස්වාවො.",si:"අනිවාර්යයෙන්. මම ඇමතුමක් දුන්නා කියලා ඇයට කියන්න."},
+{sr:"Hvala. Čujemo se kasnije.",reading:"හ්වාලා. චූයෙමො සේ කාස්නියෙ.",si:"ස්තුතියි. අපි පසුව නැවත කතා කරමු."}],
+listeningPractice:{prompt:"හඬ අසා නිවැරදි තේරුම තෝරන්න: “Pozvaću vas kasnije.”",audio:"Pozvaću vas kasnije.",options:["මම ඔබට පසුව ඇමතුමක් දෙන්නම්.","මම දැන් කතා කරනවා.","මට පණිවිඩයක් ලැබුණා."],readings:["පොස්වාචු වාස් කාස්නියෙ.","රාස්ගොවාරාම් සාදා.","දොබියම් පොරූකු."],answer:0,meaning:"Pozvaću vas kasnije = මම ඔබට පසුව ඇමතුමක් දෙන්නම්."},
+practice:[
+{prompt:"“පණිවිඩය” යන වචනය?",options:["Poruka","Telefon","Vreme"],answer:0,explanation:"Poruka = පණිවිඩය."},
+{prompt:"“මම ඔබට පසුව ඇමතුමක් දෙන්නම්” තෝරන්න.",options:["Pozvaću vas kasnije.","Čujem vas sada.","Ne znam."],answer:0,explanation:"Pozvaću vas kasnije = මම ඔබට පසුව ඇමතුමක් දෙන්නම්."},
+{prompt:"“කවුද?” කියන්නේ?",options:["Ko je?","Gde je?","Koliko? "],answer:0,explanation:"Ko je? = කවුද?"},
+{prompt:"“අපි හෙට නැවත කතා කරමු” කියන්නේ?",options:["Čujemo se sutra.","Vidim te juče.","Radim danas."],answer:0,explanation:"Čujemo se sutra = අපි හෙට නැවත කතා කරමු."}]}
+,
+{id:"sr-a1-u12-l2",unit:"කාලගුණය සහ ඇඳුම්",title:"පාඩම 35 · කාලගුණය සහ ඇඳුම්",objective:"කාලගුණය විස්තර කිරීම සහ ඒ අනුව අවශ්‍ය ඇඳුම් ගැන කතා කිරීම.",
+vocabulary:[
+{word:"Vreme",reading:"ව්‍රෙමෙ",meaning:"කාලගුණය / වේලාව",example:"Kakvo je vreme danas?",exampleReading:"කාක්වො යේ ව්‍රෙමෙ දානාස්?",translation:"අද කාලගුණය කොහොමද?"},
+{word:"Sunčano",reading:"සුන්චානො",meaning:"අව්ව සහිත",example:"Danas je sunčano.",exampleReading:"දානාස් යේ සුන්චානො.",translation:"අද අව්ව තියෙනවා."},
+{word:"Kiša",reading:"කීෂා",meaning:"වැස්ස",example:"Pada kiša.",exampleReading:"පාදා කීෂා.",translation:"වැස්ස වැටෙනවා."},
+{word:"Hladno",reading:"හ්ලාද්නො",meaning:"සීතලයි",example:"Napolju je hladno.",exampleReading:"නාපොල්යු යේ හ්ලාද්නො.",translation:"එළියේ සීතලයි."},
+{word:"Toplo",reading:"තොප්ලො",meaning:"උණුසුම්",example:"Danas je toplo.",exampleReading:"දානාස් යේ තොප්ලො.",translation:"අද උණුසුම්."},
+{word:"Jakna",reading:"යාක්නා",meaning:"ජැකට්ටුව",example:"Ponesi jaknu.",exampleReading:"පොනෙසි යාක්නු.",translation:"ජැකට්ටුව රැගෙන යන්න."},
+{word:"Kišobran",reading:"කීෂොබ්‍රාන්",meaning:"කුඩය",example:"Treba mi kišobran.",exampleReading:"ත්‍රෙබා මි කීෂොබ්‍රාන්.",translation:"මට කුඩයක් ඕනේ."},
+{word:"Obući",reading:"ඔබුචි",meaning:"ඇඳගැනීම",example:"Šta da obučem?",exampleReading:"ෂ්තා දා ඔබුචෙම්?",translation:"මම මොනවාද අඳින්නේ?"}],
+grammarTitle:"ව්‍යාකරණය · කාලගුණය විස්තර කිරීම",
+grammar:"“Danas je ...” යනු “අද ...” යන්නයි. කාලගුණය ගැන අසන්න “Kakvo je vreme?” කියන්න. “Pada kiša” යනු වැස්ස වැටෙනවා. ඇඳුමක් රැගෙන යන්න කියන්න “Ponesi ...” භාවිත කරන්න.",
+grammarTerms:[
+{sr:"Kakvo je vreme danas?",reading:"කාක්වො යේ ව්‍රෙමෙ දානාස්?",si:"අද කාලගුණය කොහොමද?"},
+{sr:"Danas je sunčano.",reading:"දානාස් යේ සුන්චානො.",si:"අද අව්ව තියෙනවා."},
+{sr:"Napolju je hladno.",reading:"නාපොල්යු යේ හ්ලාද්නො.",si:"එළියේ සීතලයි."},
+{sr:"Ponesi jaknu.",reading:"පොනෙසි යාක්නු.",si:"ජැකට්ටුව රැගෙන යන්න."}],
+examples:[
+{sr:"Danas pada kiša.",reading:"දානාස් පාදා කීෂා.",si:"අද වැස්ස වැටෙනවා."},
+{sr:"Ujutru je hladno, a popodne je toplo.",reading:"උයූත්‍රු යේ හ්ලාද්නො, ආ පොපොද්නෙ යේ තොප්ලො.",si:"උදේ සීතලයි, දවල් උණුසුම්."},
+{sr:"Ponesi kišobran, molim te.",reading:"පොනෙසි කීෂොබ්‍රාන්, මොලීම් තෙ.",si:"කරුණාකර කුඩය රැගෙන යන්න."},
+{sr:"Ne znam šta da obučem.",reading:"නේ සාම් ෂ්තා දා ඔබුචෙම්.",si:"මම මොනවා අඳින්නද කියලා දන්නේ නැහැ."}],
+dialogue:[
+{sr:"Kakvo je vreme danas?",reading:"කාක්වො යේ ව්‍රෙමෙ දානාස්?",si:"අද කාලගුණය කොහොමද?"},
+{sr:"Pada kiša i prilično je hladno.",reading:"පාදා කීෂා ඉ ප්‍රිලිච්නො යේ හ්ලාද්නො.",si:"වැස්ස වැටෙනවා, සෑහෙන්න සීතලයි."},
+{sr:"Da li treba da ponesem jaknu?",reading:"දා ලි ත්‍රෙබා දා පොනෙසෙම් යාක්නු?",si:"මම ජැකට්ටුවක් රැගෙන යන්න ඕනෙද?"},
+{sr:"Da, i uzmi kišobran.",reading:"දා, ඉ උස්මි කීෂොබ්‍රාන්.",si:"ඔව්, කුඩයත් ගන්න."},
+{sr:"A kakvo će biti sutra?",reading:"ආ කාක්වො චෙ බිති සුත්‍රා?",si:"හෙට කාලගුණය කොහොම වෙයිද?"},
+{sr:"Mislim da će biti sunčano.",reading:"මිස්ලිම් දා චෙ බිති සුන්චානො.",si:"මම හිතන්නේ හෙට අව්ව තියෙයි."}],
+listeningPractice:{prompt:"හඬ අසා නිවැරදි තේරුම තෝරන්න: “Pada kiša.”",audio:"Pada kiša.",options:["වැස්ස වැටෙනවා.","අව්ව තියෙනවා.","සීතල නැහැ."],readings:["පාදා කීෂා.","දානාස් යේ සුන්චානො.","නියෙ හ්ලාද්නො."],answer:0,meaning:"Pada kiša = වැස්ස වැටෙනවා."},
+practice:[
+{prompt:"“වැස්ස” යන වචනය?",options:["Kiša","Sunce","Jakna"],answer:0,explanation:"Kiša = වැස්ස."},
+{prompt:"“අද අව්ව තියෙනවා” තෝරන්න.",options:["Danas je sunčano.","Danas pada kiša.","Danas je hladno."],answer:0,explanation:"Danas je sunčano = අද අව්ව තියෙනවා."},
+{prompt:"“කුඩය” යන වචනය?",options:["Jakna","Kišobran","Obuća"],answer:1,explanation:"Kišobran = කුඩය."},
+{prompt:"“එළියේ සීතලයි” කියන්නේ?",options:["Napolju je toplo.","Napolju je hladno.","Napolju je sunčano."],answer:1,explanation:"Napolju je hladno = එළියේ සීතලයි."}]}
+,
+{id:"sr-a1-u12-l3",unit:"කැෆේ සහ ආහාර තේරීම්",title:"පාඩම 36 · කැෆේ සහ ආහාර තේරීම්",objective:"කෑමක් හෝ පානයක් තෝරා ගැනීම, අමුද්‍රව්‍ය ගැන විමසීම සහ කැමැත්ත ප්‍රකාශ කිරීම.",
+vocabulary:[
+{word:"Jelovnik",reading:"යෙලොව්නික්",meaning:"ආහාර මෙනුව",example:"Mogu li da vidim jelovnik?",exampleReading:"මොගු ලි දා විදිම් යෙලොව්නික්?",translation:"මට මෙනුව බලන්න පුළුවන්ද?"},
+{word:"Preporuka",reading:"ප්‍රෙපොරූකා",meaning:"නිර්දේශය",example:"Šta preporučujete?",exampleReading:"ෂ්තා ප්‍රෙපොරූචුයෙතෙ?",translation:"ඔබ නිර්දේශ කරන්නේ මොකක්ද?"},
+{word:"Sastojak",reading:"සාස්තොයාක්",meaning:"අමුද්‍රව්‍යය",example:"Koji su sastojci?",exampleReading:"කොයි සු සාස්තොයිත්සි?",translation:"අමුද්‍රව්‍ය මොනවාද?"},
+{word:"Bez mesa",reading:"බෙස් මෙසා",meaning:"මස් නැතුව",example:"Želim jelo bez mesa.",exampleReading:"ෂෙලිම් යෙලො බෙස් මෙසා.",translation:"මට මස් නැති කෑමක් ඕනේ."},
+{word:"Ljuto",reading:"ල්‍යුතො",meaning:"මිරිස් සැර",example:"Da li je ovo ljuto?",exampleReading:"දා ලි යේ ඔවො ල්‍යුතො?",translation:"මේක සැරද?"},
+{word:"Slatko",reading:"ස්ලාත්කො",meaning:"මිහිරි / පැණි රස",example:"Volim nešto slatko.",exampleReading:"වොලිම් නෙෂ්තො ස්ලාත්කො.",translation:"මම පැණි රස දෙයක් කැමතියි."},
+{word:"Ukusno",reading:"උකුස්නො",meaning:"රසවත්",example:"Ovo je veoma ukusno.",exampleReading:"ඔවො යේ වෙඔමා උකුස්නො.",translation:"මේක ඉතා රසවත්."},
+{word:"Alergija",reading:"ආලෙර්ගියා",meaning:"අසාත්මිකතාව",example:"Imam alergiju na orahe.",exampleReading:"ඉමාම් ආලෙර්ගියු නා ඔරාහෙ.",translation:"මට වොල්නට්ස් අසාත්මිකයි."}],
+grammarTitle:"ව්‍යාකරණය · ආහාර තේරීම සහ අමුද්‍රව්‍ය ගැන විමසීම",
+grammar:"“Šta preporučujete?” යනු නිර්දේශයක් ඉල්ලීමයි. “Bez ...” යනු යමක් නැතුව යන්නයි. “Da li je ovo ...?” යන රටාවෙන් ආහාරය සැරද, පැණි රසද වැනි දේ අසන්න. අසාත්මිකතාවක් තිබේ නම් එය පැහැදිලිව කියන්න.",
+grammarTerms:[
+{sr:"Šta preporučujete?",reading:"ෂ්තා ප්‍රෙපොරූචුයෙතෙ?",si:"ඔබ නිර්දේශ කරන්නේ මොකක්ද?"},
+{sr:"Želim jelo bez mesa.",reading:"ෂෙලිම් යෙලො බෙස් මෙසා.",si:"මට මස් නැති කෑමක් ඕනේ."},
+{sr:"Da li je ovo ljuto?",reading:"දා ලි යේ ඔවො ල්‍යුතො?",si:"මේක සැරද?"},
+{sr:"Imam alergiju na orahe.",reading:"ඉමාම් ආලෙර්ගියු නා ඔරාහෙ.",si:"මට වොල්නට්ස් අසාත්මිකයි."}],
+examples:[
+{sr:"Mogu li da dobijem jelovnik?",reading:"මොගු ලි දා දොබියෙම් යෙලොව්නික්?",si:"මට මෙනුව ලබාගන්න පුළුවන්ද?"},
+{sr:"Da li ovo jelo sadrži meso?",reading:"දා ලි ඔවො යෙලො සාද්ර්ෂි මෙසො?",si:"මේ කෑමට මස් අඩංගුද?"},
+{sr:"Molim vas, bez ljutog sosa.",reading:"මොලීම් වාස්, බෙස් ල්‍යුතොග් සොසා.",si:"කරුණාකර සැර සෝස් නැතුව දෙන්න."},
+{sr:"Hvala, bilo je veoma ukusno.",reading:"හ්වාලා, බිලො යේ වෙඔමා උකුස්නො.",si:"ස්තුතියි, ඒක ඉතා රසවත්."}],
+dialogue:[
+{sr:"Dobar dan. Mogu li da vidim jelovnik?",reading:"දොබාර් දාන්. මොගු ලි දා විදිම් යෙලොව්නික්?",si:"සුබ දවසක්. මට මෙනුව බලන්න පුළුවන්ද?"},
+{sr:"Naravno. Izvolite.",reading:"නාරාව්නො. ඉස්වොලිතෙ.",si:"අනිවාර්යයෙන්. මෙන්න."},
+{sr:"Šta preporučujete?",reading:"ෂ්තා ප්‍රෙපොරූචුයෙතෙ?",si:"ඔබ නිර්දේශ කරන්නේ මොකක්ද?"},
+{sr:"Ovo jelo je veoma popularno.",reading:"ඔවො යෙලො යේ වෙඔමා පොපුලාර්නො.",si:"මේ කෑම ඉතා ජනප්‍රියයි."},
+{sr:"Da li sadrži orahe?",reading:"දා ලි සාද්ර්ෂි ඔරාහෙ?",si:"මේකට වොල්නට්ස් අඩංගුද?"},
+{sr:"Ne, nema oraha. Prijatno!",reading:"නෙ, නෙමා ඔරාහා. ප්‍රියාත්නො!",si:"නැහැ, වොල්නට්ස් නැහැ. රස විඳින්න!"},
+],
+listeningPractice:{prompt:"හඬ අසා නිවැරදි තේරුම තෝරන්න: “Šta preporučujete?”",audio:"Šta preporučujete?",options:["ඔබ නිර්දේශ කරන්නේ මොකක්ද?","මේක කීයද?","කොහෙද යන්නේ?"],readings:["ෂ්තා ප්‍රෙපොරූචුයෙතෙ?","කොලිකො කොෂ්තා?","කුදා ඉදෙෂ්?"],answer:0,meaning:"Šta preporučujete? = ඔබ නිර්දේශ කරන්නේ මොකක්ද?"},
+practice:[
+{prompt:"“මෙනුව” යන වචනය?",options:["Jelovnik","Račun","Voda"],answer:0,explanation:"Jelovnik = මෙනුව."},
+{prompt:"“මේක සැරද?” කියන්නේ?",options:["Da li je ovo ljuto?","Da li je ovo slatko?","Gde je sto?"],answer:0,explanation:"Da li je ovo ljuto? = මේක සැරද?"},
+{prompt:"“මස් නැතුව” යන්න?",options:["Bez mesa","Sa mesom","Bez vode"],answer:0,explanation:"Bez mesa = මස් නැතුව."},
+{prompt:"“අමුද්‍රව්‍ය” යන වචනය?",options:["Sastojci","Preporuka","Jelovnik"],answer:0,explanation:"Sastojci = අමුද්‍රව්‍ය."}]}
+
 ];
