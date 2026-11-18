@@ -1268,5 +1268,97 @@ export const SERBIAN_A1_LESSONS = [
   ]
  }
 
+ ,
+ {
+  id:"sr-a1-u8-l2",
+  unit:"ගමන් බිමන් සහ ප්‍රවාහනය",
+  title:"පාඩම 18 · ගමන් බිමන් සහ ප්‍රවාහනය",
+  objective:"බස් හෝ දුම්රිය ටිකට් ඉල්ලීම, පිටත්වන වේලාව විමසීම, ගමනාන්තය සහ වේදිකාව සොයාගැනීම.",
+  vocabulary:[
+   {word:"Autobus",reading:"ආවුතොබුස්",meaning:"බස් රථය",example:"Autobus stiže u osam.",exampleReading:"ආවුතොබුස් ස්තීෂෙ උ ඔසාම්.",translation:"බස් රථය අටට එනවා."},
+   {word:"Voz",reading:"වොස්",meaning:"දුම්රිය",example:"Voz polazi u devet.",exampleReading:"වොස් පොලාසි උ දෙවෙත්.",translation:"දුම්රිය නවයට පිටත් වෙනවා."},
+   {word:"Karta",reading:"කාර්තා",meaning:"ටිකට්පත",example:"Jednu kartu, molim.",exampleReading:"යෙද්නු කාර්තු, මොලීම්.",translation:"ටිකට් එකක් දෙන්න, කරුණාකර."},
+   {word:"Stanica",reading:"ස්තානිත්සා",meaning:"නැවතුම්පොළ / ස්ථානය",example:"Gde je autobuska stanica?",exampleReading:"ග්දේ යේ ආවුතොබුස්කා ස්තානිත්සා?",translation:"බස් නැවතුම්පොළ කොහෙද?"},
+   {word:"Polazak",reading:"පොලාසාක්",meaning:"පිටත්වීම",example:"Kada je polazak?",exampleReading:"කාදා යේ පොලාසාක්?",translation:"පිටත්වීම කවදාද?"},
+   {word:"Dolazak",reading:"දොලාසාක්",meaning:"පැමිණීම",example:"Kada je dolazak?",exampleReading:"කාදා යේ දොලාසාක්?",translation:"පැමිණීම කවදාද?"},
+   {word:"Peron",reading:"පෙරොන්",meaning:"වේදිකාව",example:"Voz polazi sa drugog perona.",exampleReading:"වොස් පොලාසි සා ද්‍රූගොග් පෙරොනා.",translation:"දුම්රිය දෙවන වේදිකාවෙන් පිටත් වෙනවා."},
+   {word:"Jednosmerna karta",reading:"යෙද්නොස්මෙර්නා කාර්තා",meaning:"එක් පැත්තකට ටිකට්පත",example:"Treba mi jednosmerna karta.",exampleReading:"ත්‍රෙබා මි යෙද්නොස්මෙර්නා කාර්තා.",translation:"මට එක් පැත්තකට ටිකට්පතක් ඕනේ."}
+  ],
+  grammarTitle:"ව්‍යාකරණය · ටිකට් සහ ගමන් විමසීම්",
+  grammar:"ටිකට් ඉල්ලීමට “Jednu kartu, molim” කියන්න. ගමන් වේලාව අසන්න “Kada polazi ...?” ( ... පිටත් වන්නේ කවදාද?) යොදන්න. “Gde je ...?” යනු ... කොහෙද? යන්නයි. “sa” සමඟ වේදිකාවෙන් පිටත් වීම කියන්න පුළුවන්.",
+  grammarTerms:[
+   {sr:"Jednu kartu, molim.",si:"ටිකට් එකක් දෙන්න, කරුණාකර.",reading:"යෙද්නු කාර්තු, මොලීම්."},
+   {sr:"Kada polazi autobus?",si:"බස් රථය පිටත් වන්නේ කවදාද?",reading:"කාදා පොලාසි ආවුතොබුස්?"},
+   {sr:"Gde je peron?",si:"වේදිකාව කොහෙද?",reading:"ග්දේ යේ පෙරොන්?"},
+   {sr:"Voz kasni.",si:"දුම්රිය ප්‍රමාදයි.",reading:"වොස් කාස්නි."},
+   {sr:"Koliko traje putovanje?",si:"ගමනට කොපමණ වේලාවක් ගත වෙනවාද?",reading:"කොලිකො ත්‍රායේ පුතොවාන්‍යෙ?"}
+  ],
+  examples:[
+   {sr:"Jednu kartu do Beograda, molim.",reading:"යෙද්නු කාර්තු දො බෙඔග්‍රාදා, මොලීම්.",si:"බෙල්ග්‍රේඩ් දක්වා ටිකට් එකක් දෙන්න, කරුණාකර."},
+   {sr:"Kada polazi sledeći autobus?",reading:"කාදා පොලාසි ස්ලෙදෙචි ආවුතොබුස්?",si:"ඊළඟ බස් රථය පිටත් වන්නේ කවදාද?"},
+   {sr:"Voz polazi sa trećeg perona.",reading:"වොස් පොලාසි සා ත්‍රෙචෙග් පෙරොනා.",si:"දුම්රිය තුන්වන වේදිකාවෙන් පිටත් වෙනවා."},
+   {sr:"Da li je ovo autobus za centar?",reading:"දා ලි යේ ඔවො ආවුතොබුස් සා ත්සෙන්තාර්?",si:"මේ නගර මධ්‍යයට යන බස් රථයද?"}
+  ],
+  dialogue:[
+   {sr:"Dobar dan. Jednu kartu do Novog Sada, molim.",reading:"දොබාර් දාන්. යෙද්නු කාර්තු දො නොවොග් සාදා, මොලීම්.",si:"සුබ දවසක්. නෝවි සාද් දක්වා ටිකට් එකක් දෙන්න."},
+   {sr:"Jednosmernu ili povratnu kartu?",reading:"යෙද්නොස්මෙර්නු ඉලි පොව්‍රාත්නු කාර්තු?",si:"එක් පැත්තකටද නැත්නම් ආපසු එන ටිකට් එකක්ද?"},
+   {sr:"Jednosmernu, molim.",reading:"යෙද්නොස්මෙර්නු, මොලීම්.",si:"එක් පැත්තකට, කරුණාකර."},
+   {sr:"Voz polazi u deset i petnaest.",reading:"වොස් පොලාසි උ දෙසෙත් ඉ පෙත්නාඑස්ත්.",si:"දුම්රිය දහයයි පහළොවට පිටත් වෙනවා."},
+   {sr:"Sa kog perona?",reading:"සා කොග් පෙරොනා?",si:"මොන වේදිකාවෙන්ද?"},
+   {sr:"Sa drugog perona. Srećan put!",reading:"සා ද්‍රූගොග් පෙරොනා. ස්‍රෙචාන් පුත්!",si:"දෙවන වේදිකාවෙන්. සුබ ගමනක්!"}
+  ],
+  practice:[
+   {prompt:"“ටිකට් එකක් දෙන්න, කරුණාකර” තෝරන්න.",options:["Jednu kartu, molim.","Gde je peron?","Voz kasni."],answer:0,explanation:"Jednu kartu, molim. = ටිකට් එකක් දෙන්න, කරුණාකර."},
+   {prompt:"“වේදිකාව කොහෙද?” අසන්නේ?",options:["Kada je dolazak?","Gde je peron?","Koliko košta?"],answer:1,explanation:"Gde je peron? = වේදිකාව කොහෙද?"},
+   {prompt:"“දුම්රිය ප්‍රමාදයි” කියන්නේ?",options:["Voz kasni.","Voz stiže.","Autobus polazi."],answer:0,explanation:"Voz kasni. = දුම්රිය ප්‍රමාදයි."},
+   {prompt:"“එක් පැත්තකට ටිකට්පතක්” තෝරන්න.",options:["Povratna karta","Autobuska stanica","Jednosmerna karta"],answer:2,explanation:"Jednosmerna karta = එක් පැත්තකට ටිකට්පත."}
+  ]
+ },
+ {
+  id:"sr-a1-u8-l3",
+  unit:"නිවස සහ ගෘහ භාණ්ඩ",
+  title:"පාඩම 19 · නිවස සහ ගෘහ භාණ්ඩ",
+  objective:"තමන් ජීවත් වන නිවස, කාමර, මූලික ගෘහ භාණ්ඩ සහ නිවසේ ඇති දේවල් විස්තර කිරීම.",
+  vocabulary:[
+   {word:"Stan",reading:"ස්තාන්",meaning:"මහල් නිවාසය",example:"Živim u stanu.",exampleReading:"ෂිවිම් උ ස්තානු.",translation:"මම මහල් නිවාසයක ජීවත් වෙනවා."},
+   {word:"Kuća",reading:"කුචා",meaning:"නිවස",example:"Moja kuća je mala.",exampleReading:"මොයා කුචා යේ මාලා.",translation:"මගේ නිවස කුඩායි."},
+   {word:"Soba",reading:"සොබා",meaning:"කාමරය",example:"Moja soba je svetla.",exampleReading:"මොයා සොබා යේ ස්වෙත්ලා.",translation:"මගේ කාමරය ආලෝකවත්."},
+   {word:"Kuhinja",reading:"කුහින්‍යා",meaning:"මුළුතැන්ගෙය",example:"Kuhinja je čista.",exampleReading:"කුහින්‍යා යේ චිස්තා.",translation:"මුළුතැන්ගෙය පිරිසිදුයි."},
+   {word:"Kupatilo",reading:"කුපාතිලො",meaning:"නාන කාමරය",example:"Kupatilo je malo.",exampleReading:"කුපාතිලො යේ මාලො.",translation:"නාන කාමරය කුඩායි."},
+   {word:"Sto",reading:"ස්තො",meaning:"මේසය",example:"Knjiga je na stolu.",exampleReading:"ක්න්යිගා යේ නා ස්තොලු.",translation:"පොත මේසය මත තියෙනවා."},
+   {word:"Stolica",reading:"ස්තොලිත्सा",meaning:"පුටුව",example:"Stolica je pored stola.",exampleReading:"ස්තොලිත्सा යේ පොරෙද් ස්තොලා.",translation:"පුටුව මේසය අසල තියෙනවා."},
+   {word:"Krevet",reading:"ක්‍රෙවෙත්",meaning:"ඇඳ",example:"Krevet je u sobi.",exampleReading:"ක්‍රෙවෙත් යේ උ සොබි.",translation:"ඇඳ කාමරයේ තියෙනවා."}
+  ],
+  grammarTitle:"ව්‍යාකරණය · නිවසේ දේවල් තිබෙන තැන්",
+  grammar:"ස්ථානයක් කියන විට “u” (තුළ/හි) සහ “na” (මත) භාවිත වෙනවා: “u sobi” (කාමරයේ), “na stolu” (මේසය මත). අයිතිය පෙන්වීමට “moj/moja” යොදන්න. “Ima” යනු තිබෙනවා යන්නයි: “U stanu ima dve sobe.”",
+  grammarTerms:[
+   {sr:"Živim u stanu.",si:"මම මහල් නිවාසයක ජීවත් වෙනවා.",reading:"ෂිවිම් උ ස්තානු."},
+   {sr:"Knjiga je na stolu.",si:"පොත මේසය මත තියෙනවා.",reading:"ක්න්යිගා යේ නා ස්තොලු."},
+   {sr:"Krevet je u sobi.",si:"ඇඳ කාමරයේ තියෙනවා.",reading:"ක්‍රෙවෙත් යේ උ සොබි."},
+   {sr:"U stanu ima dve sobe.",si:"මහල් නිවාසයේ කාමර දෙකක් තියෙනවා.",reading:"උ ස්තානු ඉමා ද්වේ සොබෙ."},
+   {sr:"Gde je kuhinja?",si:"මුළුතැන්ගෙය කොහෙද?",reading:"ග්දේ යේ කුහින්‍යා?"}
+  ],
+  examples:[
+   {sr:"Živim u malom stanu.",reading:"ෂිවිම් උ මාලොම් ස්තානු.",si:"මම කුඩා මහල් නිවාසයක ජීවත් වෙනවා."},
+   {sr:"U mom stanu su dve sobe.",reading:"උ මොම් ස්තානු සු ද්වේ සොබෙ.",si:"මගේ මහල් නිවාසයේ කාමර දෙකක් තියෙනවා."},
+   {sr:"Sto je u kuhinji, a krevet je u sobi.",reading:"ස්තො යේ උ කුහින්‍යි, අ ක්‍රෙවෙත් යේ උ සොබි.",si:"මේසය මුළුතැන්ගෙයේ, ඇඳ කාමරයේ තියෙනවා."},
+   {sr:"Kupatilo je pored kuhinje.",reading:"කුපාතිලො යේ පොරෙද් කුහින්‍යෙ.",si:"නාන කාමරය මුළුතැන්ගෙය අසල තියෙනවා."}
+  ],
+  dialogue:[
+   {sr:"Gde živiš?",reading:"ග්දේ ෂිවිෂ්?",si:"ඔයා කොහෙද ජීවත් වෙන්නේ?"},
+   {sr:"Živim u malom stanu.",reading:"ෂිවිම් උ මාලොම් ස්තානු.",si:"මම කුඩා මහල් නිවාසයක ජීවත් වෙනවා."},
+   {sr:"Koliko soba imaš?",reading:"කොලිකො සොබා ඉමාෂ්?",si:"ඔයාට කාමර කීයක් තියෙනවාද?"},
+   {sr:"Imam dve sobe, kuhinju i kupatilo.",reading:"ඉමාම් ද්වේ සොබෙ, කුහින්‍යු ඉ කුපාතිලො.",si:"මට කාමර දෙකක්, මුළුතැන්ගෙයක් සහ නාන කාමරයක් තියෙනවා."},
+   {sr:"Gde je sto?",reading:"ග්දේ යේ ස්තො?",si:"මේසය කොහෙද?"},
+   {sr:"Sto je u kuhinji.",reading:"ස්තො යේ උ කුහින්‍යි.",si:"මේසය මුළුතැන්ගෙයේ තියෙනවා."}
+  ],
+  practice:[
+   {prompt:"“කාමරය” යන Serbian වචනය?",options:["Soba","Sto","Stan"],answer:0,explanation:"Soba = කාමරය."},
+   {prompt:"“පොත මේසය මත තියෙනවා” තෝරන්න.",options:["Knjiga je u sobi.","Knjiga je na stolu.","Krevet je u sobi."],answer:1,explanation:"Na stolu = මේසය මත."},
+   {prompt:"“මම මහල් නිවාසයක ජීවත් වෙනවා” කියන්නේ?",options:["Živim u stanu.","Živim u kući.","Imam dve sobe."],answer:0,explanation:"Živim u stanu = මම මහල් නිවාසයක ජීවත් වෙනවා."},
+   {prompt:"“නාන කාමරය” තෝරන්න.",options:["Kuhinja","Kupatilo","Stolica"],answer:1,explanation:"Kupatilo = නාන කාමරය."}
+  ]
+ }
+
 
 ];
