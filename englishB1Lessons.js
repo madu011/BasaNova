@@ -3559,5 +3559,1785 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "“I agree” expresses agreement with the suggestion."
       }
     ]
+  },
+  {
+    "id": "en-b1-l21",
+    "unit": "Independent use",
+    "title": "B1 · Lesson 21 · Education and professional training",
+    "objective": "Discuss education and professional training clearly and explain your reasons.",
+    "vocabulary": [
+      {
+        "word": "certificate",
+        "reading": "සර්ටිෆිකට්",
+        "meaning": "සහතිකය",
+        "example": "I want to complete the course so that I can improve my skills.",
+        "exampleReading": "අයි වොන්ට් ටු කම්ප්ලීට් දි කෝර්ස් සෝ දැට් අයි කෑන් ඉම්ප්‍රූව් මයි ස්කිල්ස්.",
+        "translation": "මගේ කුසලතා දියුණු කරගැනීමට පාඨමාලාව අවසන් කරන්න කැමතියි."
+      },
+      {
+        "word": "qualification",
+        "reading": "ක්වොලිෆිකේෂන්",
+        "meaning": "සුදුසුකම",
+        "example": "I want to complete the course so that I can improve my skills.",
+        "exampleReading": "අයි වොන්ට් ටු කම්ප්ලීට් දි කෝර්ස් සෝ දැට් අයි කෑන් ඉම්ප්‍රූව් මයි ස්කිල්ස්.",
+        "translation": "මගේ කුසලතා දියුණු කරගැනීමට පාඨමාලාව අවසන් කරන්න කැමතියි."
+      },
+      {
+        "word": "training",
+        "reading": "ට්‍රේනින්",
+        "meaning": "පුහුණුව",
+        "example": "I want to complete the course so that I can improve my skills.",
+        "exampleReading": "අයි වොන්ට් ටු කම්ප්ලීට් දි කෝර්ස් සෝ දැට් අයි කෑන් ඉම්ප්‍රූව් මයි ස්කිල්ස්.",
+        "translation": "මගේ කුසලතා දියුණු කරගැනීමට පාඨමාලාව අවසන් කරන්න කැමතියි."
+      },
+      {
+        "word": "lecture",
+        "reading": "ලෙක්චර්",
+        "meaning": "දේශනය",
+        "example": "I want to complete the course so that I can improve my skills.",
+        "exampleReading": "අයි වොන්ට් ටු කම්ප්ලීට් දි කෝර්ස් සෝ දැට් අයි කෑන් ඉම්ප්‍රූව් මයි ස්කිල්ස්.",
+        "translation": "මගේ කුසලතා දියුණු කරගැනීමට පාඨමාලාව අවසන් කරන්න කැමතියි."
+      },
+      {
+        "word": "assignment",
+        "reading": "අසයින්මන්ට්",
+        "meaning": "පැවරුම",
+        "example": "I want to complete the course so that I can improve my skills.",
+        "exampleReading": "අයි වොන්ට් ටු කම්ප්ලීට් දි කෝර්ස් සෝ දැට් අයි කෑන් ඉම්ප්‍රූව් මයි ස්කිල්ස්.",
+        "translation": "මගේ කුසලතා දියුණු කරගැනීමට පාඨමාලාව අවසන් කරන්න කැමතියි."
+      },
+      {
+        "word": "deadline",
+        "reading": "ඩෙඩ්ලයින්",
+        "meaning": "අවසන් දිනය",
+        "example": "I want to complete the course so that I can improve my skills.",
+        "exampleReading": "අයි වොන්ට් ටු කම්ප්ලීට් දි කෝර්ස් සෝ දැට් අයි කෑන් ඉම්ප්‍රූව් මයි ස්කිල්ස්.",
+        "translation": "මගේ කුසලතා දියුණු කරගැනීමට පාඨමාලාව අවසන් කරන්න කැමතියි."
+      },
+      {
+        "word": "enrol",
+        "reading": "එන්රෝල්",
+        "meaning": "ලියාපදිංචි වෙනවා",
+        "example": "I want to complete the course so that I can improve my skills.",
+        "exampleReading": "අයි වොන්ට් ටු කම්ප්ලීට් දි කෝර්ස් සෝ දැට් අයි කෑන් ඉම්ප්‍රූව් මයි ස්කිල්ස්.",
+        "translation": "මගේ කුසලතා දියුණු කරගැනීමට පාඨමාලාව අවසන් කරන්න කැමතියි."
+      },
+      {
+        "word": "improve",
+        "reading": "ඉම්ප්රූව්",
+        "meaning": "දියුණු කරනවා",
+        "example": "I want to complete the course so that I can improve my skills.",
+        "exampleReading": "අයි වොන්ට් ටු කම්ප්ලීට් දි කෝර්ස් සෝ දැට් අයි කෑන් ඉම්ප්‍රූව් මයි ස්කිල්ස්.",
+        "translation": "මගේ කුසලතා දියුණු කරගැනීමට පාඨමාලාව අවසන් කරන්න කැමතියි."
+      }
+    ],
+    "grammarTitle": "Grammar",
+    "grammar": "Use infinitive patterns and so that to explain learning goals and methods.",
+    "grammarTerms": [
+      {
+        "text": "I want to complete the course so that I can improve my skills.",
+        "reading": "අයි වොන්ට් ටු කම්ප්ලීට් දි කෝර්ස් සෝ දැට් අයි කෑන් ඉම්ප්‍රූව් මයි ස්කිල්ස්.",
+        "meaning": "මගේ කුසලතා දියුණු කරගැනීමට පාඨමාලාව අවසන් කරන්න කැමතියි."
+      }
+    ],
+    "examples": [
+      {
+        "text": "I want to complete the course so that I can improve my skills.",
+        "reading": "අයි වොන්ට් ටු කම්ප්ලීට් දි කෝර්ස් සෝ දැට් අයි කෑන් ඉම්ප්‍රූව් මයි ස්කිල්ස්.",
+        "meaning": "මගේ කුසලතා දියුණු කරගැනීමට පාඨමාලාව අවසන් කරන්න කැමතියි."
+      },
+      {
+        "text": "It is important to consider all the available options.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි අවේලබල් ඔප්ෂන්ස්.",
+        "meaning": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "We can make a plan and adapt it to the situation.",
+        "reading": "වී කෑන් මේක් අ ප්ලෑන් ඇන්ඩ් අඩැප්ට් ඉට් ටු දි සිචුවේෂන්.",
+        "meaning": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි."
+      },
+      {
+        "text": "Based on experience, this approach may be useful.",
+        "reading": "බේස්ඩ් ඔන් එක්ස්පීරියන්ස් දිස් ඇප්‍රෝච් මේ බී යූස්ෆුල්.",
+        "meaning": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "A: I want to complete the course so that I can improve my skills.",
+        "reading": "A: අයි වොන්ට් ටු කම්ප්ලීට් දි කෝර්ස් සෝ දැට් අයි කෑන් ඉම්ප්‍රූව් මයි ස්කිල්ස්.",
+        "meaning": "මගේ කුසලතා දියුණු කරගැනීමට පාඨමාලාව අවසන් කරන්න කැමතියි."
+      },
+      {
+        "text": "B: I understand. Could you explain why?",
+        "reading": "B: අයි අන්ඩර්ස්ටෑන්ඩ්. කුඩ් යූ එක්ස්ප්ලේන් වයි?",
+        "meaning": "තේරුණා. ඇයි කියලා පැහැදිලි කරන්න පුළුවන්ද?"
+      },
+      {
+        "text": "A: It is important to consider every option.",
+        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
+        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "B: I agree. Let us make a plan.",
+        "reading": "B: අයි අග්‍රී. ලෙට් අස් මේක් අ ප්ලෑන්.",
+        "meaning": "එකඟයි. අපි සැලැස්මක් හදමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the meaning: I want to complete the course so that I can improve my skills.",
+      "audio": "I want to complete the course so that I can improve my skills.",
+      "reading": "අයි වොන්ට් ටු කම්ප්ලීට් දි කෝර්ස් සෝ දැට් අයි කෑන් ඉම්ප්‍රූව් මයි ස්කිල්ස්.",
+      "options": [
+        "මගේ කුසලතා දියුණු කරගැනීමට පාඨමාලාව අවසන් කරන්න කැමතියි.",
+        "This has a different meaning.",
+        "This is not a question."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "What does “certificate” mean?",
+        "options": [
+          "සහතිකය",
+          "the opposite meaning",
+          "an unrelated word"
+        ],
+        "answer": 0,
+        "explanation": "certificate = සහතිකය"
+      },
+      {
+        "prompt": "Choose the grammatically correct sentence.",
+        "options": [
+          "Yesterday I will goes.",
+          "I want to complete the course so that I can improve my skills.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "මගේ කුසලතා දියුණු කරගැනීමට පාඨමාලාව අවසන් කරන්න කැමතියි."
+      },
+      {
+        "prompt": "What does “qualification” mean?",
+        "options": [
+          "සුදුසුකම",
+          "the opposite meaning",
+          "an unrelated word"
+        ],
+        "answer": 0,
+        "explanation": "qualification = සුදුසුකම"
+      },
+      {
+        "prompt": "What does speaker B suggest?",
+        "options": [
+          "Make a plan",
+          "Cancel the trip",
+          "Ask about the price"
+        ],
+        "answer": 0,
+        "explanation": "Let us make a plan = අපි සැලැස්මක් හදමු."
+      }
+    ]
+  },
+  {
+    "id": "en-b1-l22",
+    "unit": "Independent use",
+    "title": "B1 · Lesson 22 · Technology and digital communication",
+    "objective": "Discuss technology and digital communication clearly and explain your reasons.",
+    "vocabulary": [
+      {
+        "word": "application",
+        "reading": "ඇප්ලිකේෂන්",
+        "meaning": "යෙදුම",
+        "example": "I use an app that helps me organise my tasks.",
+        "exampleReading": "අයි යූස් ඇන් ඇප් දැට් හෙල්ප්ස් මී ඕගනයිස් මයි ටාස්ක්ස්.",
+        "translation": "මගේ වැඩ සංවිධානය කිරීමට උදව් කරන යෙදුමක් භාවිතා කරනවා."
+      },
+      {
+        "word": "account",
+        "reading": "අකවුන්ට්",
+        "meaning": "ගිණුම",
+        "example": "I use an app that helps me organise my tasks.",
+        "exampleReading": "අයි යූස් ඇන් ඇප් දැට් හෙල්ප්ස් මී ඕගනයිස් මයි ටාස්ක්ස්.",
+        "translation": "මගේ වැඩ සංවිධානය කිරීමට උදව් කරන යෙදුමක් භාවිතා කරනවා."
+      },
+      {
+        "word": "password",
+        "reading": "පාස්වර්ඩ්",
+        "meaning": "මුරපදය",
+        "example": "I use an app that helps me organise my tasks.",
+        "exampleReading": "අයි යූස් ඇන් ඇප් දැට් හෙල්ප්ස් මී ඕගනයිස් මයි ටාස්ක්ස්.",
+        "translation": "මගේ වැඩ සංවිධානය කිරීමට උදව් කරන යෙදුමක් භාවිතා කරනවා."
+      },
+      {
+        "word": "attachment",
+        "reading": "අටැච්මන්ට්",
+        "meaning": "ඇමුණුම",
+        "example": "I use an app that helps me organise my tasks.",
+        "exampleReading": "අයි යූස් ඇන් ඇප් දැට් හෙල්ප්ස් මී ඕගනයිස් මයි ටාස්ක්ස්.",
+        "translation": "මගේ වැඩ සංවිධානය කිරීමට උදව් කරන යෙදුමක් භාවිතා කරනවා."
+      },
+      {
+        "word": "download",
+        "reading": "ඩවුන්ලෝඩ්",
+        "meaning": "බාගත කරනවා",
+        "example": "I use an app that helps me organise my tasks.",
+        "exampleReading": "අයි යූස් ඇන් ඇප් දැට් හෙල්ප්ස් මී ඕගනයිස් මයි ටාස්ක්ස්.",
+        "translation": "මගේ වැඩ සංවිධානය කිරීමට උදව් කරන යෙදුමක් භාවිතා කරනවා."
+      },
+      {
+        "word": "update",
+        "reading": "අප්ඩේට්",
+        "meaning": "යාවත්කාලීන කරනවා",
+        "example": "I use an app that helps me organise my tasks.",
+        "exampleReading": "අයි යූස් ඇන් ඇප් දැට් හෙල්ප්ස් මී ඕගනයිස් මයි ටාස්ක්ස්.",
+        "translation": "මගේ වැඩ සංවිධානය කිරීමට උදව් කරන යෙදුමක් භාවිතා කරනවා."
+      },
+      {
+        "word": "privacy",
+        "reading": "ප්‍රයිවසි",
+        "meaning": "පෞද්ගලිකත්වය",
+        "example": "I use an app that helps me organise my tasks.",
+        "exampleReading": "අයි යූස් ඇන් ඇප් දැට් හෙල්ප්ස් මී ඕගනයිස් මයි ටාස්ක්ස්.",
+        "translation": "මගේ වැඩ සංවිධානය කිරීමට උදව් කරන යෙදුමක් භාවිතා කරනවා."
+      },
+      {
+        "word": "connection",
+        "reading": "කනෙක්ෂන්",
+        "meaning": "සම්බන්ධතාව",
+        "example": "I use an app that helps me organise my tasks.",
+        "exampleReading": "අයි යූස් ඇන් ඇප් දැට් හෙල්ප්ස් මී ඕගනයිස් මයි ටාස්ක්ස්.",
+        "translation": "මගේ වැඩ සංවිධානය කිරීමට උදව් කරන යෙදුමක් භාවිතා කරනවා."
+      }
+    ],
+    "grammarTitle": "Grammar",
+    "grammar": "Use defining and non-defining relative clauses with who, which and that.",
+    "grammarTerms": [
+      {
+        "text": "I use an app that helps me organise my tasks.",
+        "reading": "අයි යූස් ඇන් ඇප් දැට් හෙල්ප්ස් මී ඕගනයිස් මයි ටාස්ක්ස්.",
+        "meaning": "මගේ වැඩ සංවිධානය කිරීමට උදව් කරන යෙදුමක් භාවිතා කරනවා."
+      }
+    ],
+    "examples": [
+      {
+        "text": "I use an app that helps me organise my tasks.",
+        "reading": "අයි යූස් ඇන් ඇප් දැට් හෙල්ප්ස් මී ඕගනයිස් මයි ටාස්ක්ස්.",
+        "meaning": "මගේ වැඩ සංවිධානය කිරීමට උදව් කරන යෙදුමක් භාවිතා කරනවා."
+      },
+      {
+        "text": "It is important to consider all the available options.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි අවේලබල් ඔප්ෂන්ස්.",
+        "meaning": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "We can make a plan and adapt it to the situation.",
+        "reading": "වී කෑන් මේක් අ ප්ලෑන් ඇන්ඩ් අඩැප්ට් ඉට් ටු දි සිචුවේෂන්.",
+        "meaning": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි."
+      },
+      {
+        "text": "Based on experience, this approach may be useful.",
+        "reading": "බේස්ඩ් ඔන් එක්ස්පීරියන්ස් දිස් ඇප්‍රෝච් මේ බී යූස්ෆුල්.",
+        "meaning": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "A: I use an app that helps me organise my tasks.",
+        "reading": "A: අයි යූස් ඇන් ඇප් දැට් හෙල්ප්ස් මී ඕගනයිස් මයි ටාස්ක්ස්.",
+        "meaning": "මගේ වැඩ සංවිධානය කිරීමට උදව් කරන යෙදුමක් භාවිතා කරනවා."
+      },
+      {
+        "text": "B: I understand. Could you explain why?",
+        "reading": "B: අයි අන්ඩර්ස්ටෑන්ඩ්. කුඩ් යූ එක්ස්ප්ලේන් වයි?",
+        "meaning": "තේරුණා. ඇයි කියලා පැහැදිලි කරන්න පුළුවන්ද?"
+      },
+      {
+        "text": "A: It is important to consider every option.",
+        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
+        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "B: I agree. Let us make a plan.",
+        "reading": "B: අයි අග්‍රී. ලෙට් අස් මේක් අ ප්ලෑන්.",
+        "meaning": "එකඟයි. අපි සැලැස්මක් හදමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the meaning: I use an app that helps me organise my tasks.",
+      "audio": "I use an app that helps me organise my tasks.",
+      "reading": "අයි යූස් ඇන් ඇප් දැට් හෙල්ප්ස් මී ඕගනයිස් මයි ටාස්ක්ස්.",
+      "options": [
+        "මගේ වැඩ සංවිධානය කිරීමට උදව් කරන යෙදුමක් භාවිතා කරනවා.",
+        "This has a different meaning.",
+        "This is not a question."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "What does “application” mean?",
+        "options": [
+          "යෙදුම",
+          "the opposite meaning",
+          "an unrelated word"
+        ],
+        "answer": 0,
+        "explanation": "application = යෙදුම"
+      },
+      {
+        "prompt": "Choose the grammatically correct sentence.",
+        "options": [
+          "Yesterday I will goes.",
+          "I use an app that helps me organise my tasks.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "මගේ වැඩ සංවිධානය කිරීමට උදව් කරන යෙදුමක් භාවිතා කරනවා."
+      },
+      {
+        "prompt": "What does “account” mean?",
+        "options": [
+          "ගිණුම",
+          "the opposite meaning",
+          "an unrelated word"
+        ],
+        "answer": 0,
+        "explanation": "account = ගිණුම"
+      },
+      {
+        "prompt": "What does speaker B suggest?",
+        "options": [
+          "Make a plan",
+          "Cancel the trip",
+          "Ask about the price"
+        ],
+        "answer": 0,
+        "explanation": "Let us make a plan = අපි සැලැස්මක් හදමු."
+      }
+    ]
+  },
+  {
+    "id": "en-b1-l23",
+    "unit": "Independent use",
+    "title": "B1 · Lesson 23 · Banking services and financial planning",
+    "objective": "Discuss banking services and financial planning clearly and explain your reasons.",
+    "vocabulary": [
+      {
+        "word": "savings",
+        "reading": "සේවිංස්",
+        "meaning": "ඉතිරිකිරීම්",
+        "example": "If I save regularly, I can plan for larger expenses.",
+        "exampleReading": "ඉෆ් අයි සේව් රෙග්‍යුලර්ලි අයි කෑන් ප්ලෑන් ෆෝ ලාජර් එක්ස්පෙන්සිස්.",
+        "translation": "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්."
+      },
+      {
+        "word": "budget",
+        "reading": "බජට්",
+        "meaning": "අයවැය",
+        "example": "If I save regularly, I can plan for larger expenses.",
+        "exampleReading": "ඉෆ් අයි සේව් රෙග්‍යුලර්ලි අයි කෑන් ප්ලෑන් ෆෝ ලාජර් එක්ස්පෙන්සිස්.",
+        "translation": "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්."
+      },
+      {
+        "word": "expense",
+        "reading": "එක්ස්පෙන්ස්",
+        "meaning": "වියදම",
+        "example": "If I save regularly, I can plan for larger expenses.",
+        "exampleReading": "ඉෆ් අයි සේව් රෙග්‍යුලර්ලි අයි කෑන් ප්ලෑන් ෆෝ ලාජර් එක්ස්පෙන්සිස්.",
+        "translation": "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්."
+      },
+      {
+        "word": "income",
+        "reading": "ඉන්කම්",
+        "meaning": "ආදායම",
+        "example": "If I save regularly, I can plan for larger expenses.",
+        "exampleReading": "ඉෆ් අයි සේව් රෙග්‍යුලර්ලි අයි කෑන් ප්ලෑන් ෆෝ ලාජර් එක්ස්පෙන්සිස්.",
+        "translation": "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්."
+      },
+      {
+        "word": "transfer",
+        "reading": "ට්‍රාන්ස්ෆර්",
+        "meaning": "මාරු කිරීම",
+        "example": "If I save regularly, I can plan for larger expenses.",
+        "exampleReading": "ඉෆ් අයි සේව් රෙග්‍යුලර්ලි අයි කෑන් ප්ලෑන් ෆෝ ලාජර් එක්ස්පෙන්සිස්.",
+        "translation": "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්."
+      },
+      {
+        "word": "fee",
+        "reading": "ෆී",
+        "meaning": "ගාස්තුව",
+        "example": "If I save regularly, I can plan for larger expenses.",
+        "exampleReading": "ඉෆ් අයි සේව් රෙග්‍යුලර්ලි අයි කෑන් ප්ලෑන් ෆෝ ලාජර් එක්ස්පෙන්සිස්.",
+        "translation": "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්."
+      },
+      {
+        "word": "interest",
+        "reading": "ඉන්ටරස්ට්",
+        "meaning": "පොලිය",
+        "example": "If I save regularly, I can plan for larger expenses.",
+        "exampleReading": "ඉෆ් අයි සේව් රෙග්‍යුලර්ලි අයි කෑන් ප්ලෑන් ෆෝ ලාජර් එක්ස්පෙන්සිස්.",
+        "translation": "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්."
+      },
+      {
+        "word": "statement",
+        "reading": "ස්ටේට්මන්ට්",
+        "meaning": "ගිණුම් ප්‍රකාශය",
+        "example": "If I save regularly, I can plan for larger expenses.",
+        "exampleReading": "ඉෆ් අයි සේව් රෙග්‍යුලර්ලි අයි කෑන් ප්ලෑන් ෆෝ ලාජර් එක්ස්පෙන්සිස්.",
+        "translation": "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්."
+      }
+    ],
+    "grammarTitle": "Grammar",
+    "grammar": "Use unless, provided that and as long as to describe financial conditions.",
+    "grammarTerms": [
+      {
+        "text": "If I save regularly, I can plan for larger expenses.",
+        "reading": "ඉෆ් අයි සේව් රෙග්‍යුලර්ලි අයි කෑන් ප්ලෑන් ෆෝ ලාජර් එක්ස්පෙන්සිස්.",
+        "meaning": "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්."
+      }
+    ],
+    "examples": [
+      {
+        "text": "If I save regularly, I can plan for larger expenses.",
+        "reading": "ඉෆ් අයි සේව් රෙග්‍යුලර්ලි අයි කෑන් ප්ලෑන් ෆෝ ලාජර් එක්ස්පෙන්සිස්.",
+        "meaning": "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්."
+      },
+      {
+        "text": "It is important to consider all the available options.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි අවේලබල් ඔප්ෂන්ස්.",
+        "meaning": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "We can make a plan and adapt it to the situation.",
+        "reading": "වී කෑන් මේක් අ ප්ලෑන් ඇන්ඩ් අඩැප්ට් ඉට් ටු දි සිචුවේෂන්.",
+        "meaning": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි."
+      },
+      {
+        "text": "Based on experience, this approach may be useful.",
+        "reading": "බේස්ඩ් ඔන් එක්ස්පීරියන්ස් දිස් ඇප්‍රෝච් මේ බී යූස්ෆුල්.",
+        "meaning": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "A: If I save regularly, I can plan for larger expenses.",
+        "reading": "A: ඉෆ් අයි සේව් රෙග්‍යුලර්ලි අයි කෑන් ප්ලෑන් ෆෝ ලාජර් එක්ස්පෙන්සිස්.",
+        "meaning": "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්."
+      },
+      {
+        "text": "B: I understand. Could you explain why?",
+        "reading": "B: අයි අන්ඩර්ස්ටෑන්ඩ්. කුඩ් යූ එක්ස්ප්ලේන් වයි?",
+        "meaning": "තේරුණා. ඇයි කියලා පැහැදිලි කරන්න පුළුවන්ද?"
+      },
+      {
+        "text": "A: It is important to consider every option.",
+        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
+        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "B: I agree. Let us make a plan.",
+        "reading": "B: අයි අග්‍රී. ලෙට් අස් මේක් අ ප්ලෑන්.",
+        "meaning": "එකඟයි. අපි සැලැස්මක් හදමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the meaning: If I save regularly, I can plan for larger expenses.",
+      "audio": "If I save regularly, I can plan for larger expenses.",
+      "reading": "ඉෆ් අයි සේව් රෙග්‍යුලර්ලි අයි කෑන් ප්ලෑන් ෆෝ ලාජර් එක්ස්පෙන්සිස්.",
+      "options": [
+        "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්.",
+        "This has a different meaning.",
+        "This is not a question."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "What does “savings” mean?",
+        "options": [
+          "ඉතිරිකිරීම්",
+          "the opposite meaning",
+          "an unrelated word"
+        ],
+        "answer": 0,
+        "explanation": "savings = ඉතිරිකිරීම්"
+      },
+      {
+        "prompt": "Choose the grammatically correct sentence.",
+        "options": [
+          "Yesterday I will goes.",
+          "If I save regularly, I can plan for larger expenses.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්."
+      },
+      {
+        "prompt": "What does “budget” mean?",
+        "options": [
+          "අයවැය",
+          "the opposite meaning",
+          "an unrelated word"
+        ],
+        "answer": 0,
+        "explanation": "budget = අයවැය"
+      },
+      {
+        "prompt": "What does speaker B suggest?",
+        "options": [
+          "Make a plan",
+          "Cancel the trip",
+          "Ask about the price"
+        ],
+        "answer": 0,
+        "explanation": "Let us make a plan = අපි සැලැස්මක් හදමු."
+      }
+    ]
+  },
+  {
+    "id": "en-b1-l24",
+    "unit": "Independent use",
+    "title": "B1 · Lesson 24 · Healthy habits and well-being",
+    "objective": "Discuss healthy habits and well-being clearly and explain your reasons.",
+    "vocabulary": [
+      {
+        "word": "well-being",
+        "reading": "වෙල් බීයිං",
+        "meaning": "යහපැවැත්ම",
+        "example": "Although I have many tasks, I try to get enough sleep.",
+        "exampleReading": "ඔල්දෝ අයි හැව් මෙනි ටාස්ක්ස් අයි ට්‍රයි ටු ගෙට් ඉනෆ් ස්ලීප්.",
+        "translation": "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා."
+      },
+      {
+        "word": "habit",
+        "reading": "හැබිට්",
+        "meaning": "පුරුද්ද",
+        "example": "Although I have many tasks, I try to get enough sleep.",
+        "exampleReading": "ඔල්දෝ අයි හැව් මෙනි ටාස්ක්ස් අයි ට්‍රයි ටු ගෙට් ඉනෆ් ස්ලීප්.",
+        "translation": "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා."
+      },
+      {
+        "word": "sleep",
+        "reading": "ස්ලීප්",
+        "meaning": "නින්ද",
+        "example": "Although I have many tasks, I try to get enough sleep.",
+        "exampleReading": "ඔල්දෝ අයි හැව් මෙනි ටාස්ක්ස් අයි ට්‍රයි ටු ගෙට් ඉනෆ් ස්ලීප්.",
+        "translation": "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා."
+      },
+      {
+        "word": "exercise",
+        "reading": "එක්සර්සයිස්",
+        "meaning": "ව්‍යායාමය",
+        "example": "Although I have many tasks, I try to get enough sleep.",
+        "exampleReading": "ඔල්දෝ අයි හැව් මෙනි ටාස්ක්ස් අයි ට්‍රයි ටු ගෙට් ඉනෆ් ස්ලීප්.",
+        "translation": "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා."
+      },
+      {
+        "word": "balanced",
+        "reading": "බැලන්ස්ඩ්",
+        "meaning": "සමබර",
+        "example": "Although I have many tasks, I try to get enough sleep.",
+        "exampleReading": "ඔල්දෝ අයි හැව් මෙනි ටාස්ක්ස් අයි ට්‍රයි ටු ගෙට් ඉනෆ් ස්ලීප්.",
+        "translation": "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා."
+      },
+      {
+        "word": "stress",
+        "reading": "ස්ට්‍රෙස්",
+        "meaning": "මානසික පීඩනය",
+        "example": "Although I have many tasks, I try to get enough sleep.",
+        "exampleReading": "ඔල්දෝ අයි හැව් මෙනි ටාස්ක්ස් අයි ට්‍රයි ටු ගෙට් ඉනෆ් ස්ලීප්.",
+        "translation": "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා."
+      },
+      {
+        "word": "routine",
+        "reading": "රූටීන්",
+        "meaning": "දෛනික රටාව",
+        "example": "Although I have many tasks, I try to get enough sleep.",
+        "exampleReading": "ඔල්දෝ අයි හැව් මෙනි ටාස්ක්ස් අයි ට්‍රයි ටු ගෙට් ඉනෆ් ස්ලීප්.",
+        "translation": "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා."
+      },
+      {
+        "word": "recovery",
+        "reading": "රිකවරි",
+        "meaning": "සුවය ලැබීම",
+        "example": "Although I have many tasks, I try to get enough sleep.",
+        "exampleReading": "ඔල්දෝ අයි හැව් මෙනි ටාස්ක්ස් අයි ට්‍රයි ටු ගෙට් ඉනෆ් ස්ලීප්.",
+        "translation": "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා."
+      }
+    ],
+    "grammarTitle": "Grammar",
+    "grammar": "Use although, despite and however to contrast habits and difficulties.",
+    "grammarTerms": [
+      {
+        "text": "Although I have many tasks, I try to get enough sleep.",
+        "reading": "ඔල්දෝ අයි හැව් මෙනි ටාස්ක්ස් අයි ට්‍රයි ටු ගෙට් ඉනෆ් ස්ලීප්.",
+        "meaning": "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Although I have many tasks, I try to get enough sleep.",
+        "reading": "ඔල්දෝ අයි හැව් මෙනි ටාස්ක්ස් අයි ට්‍රයි ටු ගෙට් ඉනෆ් ස්ලීප්.",
+        "meaning": "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා."
+      },
+      {
+        "text": "It is important to consider all the available options.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි අවේලබල් ඔප්ෂන්ස්.",
+        "meaning": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "We can make a plan and adapt it to the situation.",
+        "reading": "වී කෑන් මේක් අ ප්ලෑන් ඇන්ඩ් අඩැප්ට් ඉට් ටු දි සිචුවේෂන්.",
+        "meaning": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි."
+      },
+      {
+        "text": "Based on experience, this approach may be useful.",
+        "reading": "බේස්ඩ් ඔන් එක්ස්පීරියන්ස් දිස් ඇප්‍රෝච් මේ බී යූස්ෆුල්.",
+        "meaning": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "A: Although I have many tasks, I try to get enough sleep.",
+        "reading": "A: ඔල්දෝ අයි හැව් මෙනි ටාස්ක්ස් අයි ට්‍රයි ටු ගෙට් ඉනෆ් ස්ලීප්.",
+        "meaning": "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා."
+      },
+      {
+        "text": "B: I understand. Could you explain why?",
+        "reading": "B: අයි අන්ඩර්ස්ටෑන්ඩ්. කුඩ් යූ එක්ස්ප්ලේන් වයි?",
+        "meaning": "තේරුණා. ඇයි කියලා පැහැදිලි කරන්න පුළුවන්ද?"
+      },
+      {
+        "text": "A: It is important to consider every option.",
+        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
+        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "B: I agree. Let us make a plan.",
+        "reading": "B: අයි අග්‍රී. ලෙට් අස් මේක් අ ප්ලෑන්.",
+        "meaning": "එකඟයි. අපි සැලැස්මක් හදමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the meaning: Although I have many tasks, I try to get enough sleep.",
+      "audio": "Although I have many tasks, I try to get enough sleep.",
+      "reading": "ඔල්දෝ අයි හැව් මෙනි ටාස්ක්ස් අයි ට්‍රයි ටු ගෙට් ඉනෆ් ස්ලීප්.",
+      "options": [
+        "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා.",
+        "This has a different meaning.",
+        "This is not a question."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "What does “well-being” mean?",
+        "options": [
+          "යහපැවැත්ම",
+          "the opposite meaning",
+          "an unrelated word"
+        ],
+        "answer": 0,
+        "explanation": "well-being = යහපැවැත්ම"
+      },
+      {
+        "prompt": "Choose the grammatically correct sentence.",
+        "options": [
+          "Yesterday I will goes.",
+          "Although I have many tasks, I try to get enough sleep.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා."
+      },
+      {
+        "prompt": "What does “habit” mean?",
+        "options": [
+          "පුරුද්ද",
+          "the opposite meaning",
+          "an unrelated word"
+        ],
+        "answer": 0,
+        "explanation": "habit = පුරුද්ද"
+      },
+      {
+        "prompt": "What does speaker B suggest?",
+        "options": [
+          "Make a plan",
+          "Cancel the trip",
+          "Ask about the price"
+        ],
+        "answer": 0,
+        "explanation": "Let us make a plan = අපි සැලැස්මක් හදමු."
+      }
+    ]
+  },
+  {
+    "id": "en-b1-l25",
+    "unit": "Independent use",
+    "title": "B1 · Lesson 25 · Culture and traditions",
+    "objective": "Discuss culture and traditions clearly and explain your reasons.",
+    "vocabulary": [
+      {
+        "word": "tradition",
+        "reading": "ට්‍රඩිෂන්",
+        "meaning": "සම්ප්‍රදාය",
+        "example": "This tradition is passed down from one generation to another.",
+        "exampleReading": "දිස් ට්‍රඩිෂන් ඉස් පාස්ඩ් ඩවුන් ෆ්‍රම් වන් ජෙනරේෂන් ටු අනදර්.",
+        "translation": "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා."
+      },
+      {
+        "word": "custom",
+        "reading": "කස්ටම්",
+        "meaning": "චාරිත්‍රය",
+        "example": "This tradition is passed down from one generation to another.",
+        "exampleReading": "දිස් ට්‍රඩිෂන් ඉස් පාස්ඩ් ඩවුන් ෆ්‍රම් වන් ජෙනරේෂන් ටු අනදර්.",
+        "translation": "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා."
+      },
+      {
+        "word": "heritage",
+        "reading": "හෙරිටේජ්",
+        "meaning": "උරුමය",
+        "example": "This tradition is passed down from one generation to another.",
+        "exampleReading": "දිස් ට්‍රඩිෂන් ඉස් පාස්ඩ් ඩවුන් ෆ්‍රම් වන් ජෙනරේෂන් ටු අනදර්.",
+        "translation": "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා."
+      },
+      {
+        "word": "generation",
+        "reading": "ජෙනරේෂන්",
+        "meaning": "පරම්පරාව",
+        "example": "This tradition is passed down from one generation to another.",
+        "exampleReading": "දිස් ට්‍රඩිෂන් ඉස් පාස්ඩ් ඩවුන් ෆ්‍රම් වන් ජෙනරේෂන් ටු අනදර්.",
+        "translation": "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා."
+      },
+      {
+        "word": "celebration",
+        "reading": "සෙලිබ්‍රේෂන්",
+        "meaning": "උත්සවය",
+        "example": "This tradition is passed down from one generation to another.",
+        "exampleReading": "දිස් ට්‍රඩිෂන් ඉස් පාස්ඩ් ඩවුන් ෆ්‍රම් වන් ජෙනරේෂන් ටු අනදර්.",
+        "translation": "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා."
+      },
+      {
+        "word": "costume",
+        "reading": "කොස්ටියුම්",
+        "meaning": "සාම්ප්‍රදායික ඇඳුම",
+        "example": "This tradition is passed down from one generation to another.",
+        "exampleReading": "දිස් ට්‍රඩිෂන් ඉස් පාස්ඩ් ඩවුන් ෆ්‍රම් වන් ජෙනරේෂන් ටු අනදර්.",
+        "translation": "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා."
+      },
+      {
+        "word": "influence",
+        "reading": "ඉන්ෆ්ලුවෙන්ස්",
+        "meaning": "බලපෑම",
+        "example": "This tradition is passed down from one generation to another.",
+        "exampleReading": "දිස් ට්‍රඩිෂන් ඉස් පාස්ඩ් ඩවුන් ෆ්‍රම් වන් ජෙනරේෂන් ටු අනදර්.",
+        "translation": "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා."
+      },
+      {
+        "word": "identity",
+        "reading": "අයිඩෙන්ටිටි",
+        "meaning": "අනන්‍යතාව",
+        "example": "This tradition is passed down from one generation to another.",
+        "exampleReading": "දිස් ට්‍රඩිෂන් ඉස් පාස්ඩ් ඩවුන් ෆ්‍රම් වන් ජෙනරේෂන් ටු අනදර්.",
+        "translation": "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා."
+      }
+    ],
+    "grammarTitle": "Grammar",
+    "grammar": "Use used to, would and present habits to compare past and present traditions.",
+    "grammarTerms": [
+      {
+        "text": "This tradition is passed down from one generation to another.",
+        "reading": "දිස් ට්‍රඩිෂන් ඉස් පාස්ඩ් ඩවුන් ෆ්‍රම් වන් ජෙනරේෂන් ටු අනදර්.",
+        "meaning": "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා."
+      }
+    ],
+    "examples": [
+      {
+        "text": "This tradition is passed down from one generation to another.",
+        "reading": "දිස් ට්‍රඩිෂන් ඉස් පාස්ඩ් ඩවුන් ෆ්‍රම් වන් ජෙනරේෂන් ටු අනදර්.",
+        "meaning": "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා."
+      },
+      {
+        "text": "It is important to consider all the available options.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි අවේලබල් ඔප්ෂන්ස්.",
+        "meaning": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "We can make a plan and adapt it to the situation.",
+        "reading": "වී කෑන් මේක් අ ප්ලෑන් ඇන්ඩ් අඩැප්ට් ඉට් ටු දි සිචුවේෂන්.",
+        "meaning": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි."
+      },
+      {
+        "text": "Based on experience, this approach may be useful.",
+        "reading": "බේස්ඩ් ඔන් එක්ස්පීරියන්ස් දිස් ඇප්‍රෝච් මේ බී යූස්ෆුල්.",
+        "meaning": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "A: This tradition is passed down from one generation to another.",
+        "reading": "A: දිස් ට්‍රඩිෂන් ඉස් පාස්ඩ් ඩවුන් ෆ්‍රම් වන් ජෙනරේෂන් ටු අනදර්.",
+        "meaning": "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා."
+      },
+      {
+        "text": "B: I understand. Could you explain why?",
+        "reading": "B: අයි අන්ඩර්ස්ටෑන්ඩ්. කුඩ් යූ එක්ස්ප්ලේන් වයි?",
+        "meaning": "තේරුණා. ඇයි කියලා පැහැදිලි කරන්න පුළුවන්ද?"
+      },
+      {
+        "text": "A: It is important to consider every option.",
+        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
+        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "B: I agree. Let us make a plan.",
+        "reading": "B: අයි අග්‍රී. ලෙට් අස් මේක් අ ප්ලෑන්.",
+        "meaning": "එකඟයි. අපි සැලැස්මක් හදමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the meaning: This tradition is passed down from one generation to another.",
+      "audio": "This tradition is passed down from one generation to another.",
+      "reading": "දිස් ට්‍රඩිෂන් ඉස් පාස්ඩ් ඩවුන් ෆ්‍රම් වන් ජෙනරේෂන් ටු අනදර්.",
+      "options": [
+        "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා.",
+        "This has a different meaning.",
+        "This is not a question."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "What does “tradition” mean?",
+        "options": [
+          "සම්ප්‍රදාය",
+          "the opposite meaning",
+          "an unrelated word"
+        ],
+        "answer": 0,
+        "explanation": "tradition = සම්ප්‍රදාය"
+      },
+      {
+        "prompt": "Choose the grammatically correct sentence.",
+        "options": [
+          "Yesterday I will goes.",
+          "This tradition is passed down from one generation to another.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා."
+      },
+      {
+        "prompt": "What does “custom” mean?",
+        "options": [
+          "චාරිත්‍රය",
+          "the opposite meaning",
+          "an unrelated word"
+        ],
+        "answer": 0,
+        "explanation": "custom = චාරිත්‍රය"
+      },
+      {
+        "prompt": "What does speaker B suggest?",
+        "options": [
+          "Make a plan",
+          "Cancel the trip",
+          "Ask about the price"
+        ],
+        "answer": 0,
+        "explanation": "Let us make a plan = අපි සැලැස්මක් හදමු."
+      }
+    ]
+  },
+  {
+    "id": "en-b1-l26",
+    "unit": "Independent use",
+    "title": "B1 · Lesson 26 · Job interviews and career development",
+    "objective": "Discuss job interviews and career development clearly and explain your reasons.",
+    "vocabulary": [
+      {
+        "word": "experience",
+        "reading": "එක්ස්පීරියන්ස්",
+        "meaning": "පළපුරුද්ද",
+        "example": "I have worked in sales and learned how to solve customer problems.",
+        "exampleReading": "අයි හැව් වර්ක්ඩ් ඉන් සේල්ස් ඇන්ඩ් ලර්න්ඩ් හව් ටු සෝල්ව් කස්ටමර් ප්‍රොබ්ලම්ස්.",
+        "translation": "මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කරලා පාරිභෝගික ගැටලු විසඳන්න ඉගෙන ගත්තා."
+      },
+      {
+        "word": "achievement",
+        "reading": "අචීව්මන්ට්",
+        "meaning": "ජයග්‍රහණය",
+        "example": "I have worked in sales and learned how to solve customer problems.",
+        "exampleReading": "අයි හැව් වර්ක්ඩ් ඉන් සේල්ස් ඇන්ඩ් ලර්න්ඩ් හව් ටු සෝල්ව් කස්ටමර් ප්‍රොබ්ලම්ස්.",
+        "translation": "මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කරලා පාරිභෝගික ගැටලු විසඳන්න ඉගෙන ගත්තා."
+      },
+      {
+        "word": "responsibility",
+        "reading": "රිස්පොන්සිබිලිටි",
+        "meaning": "වගකීම",
+        "example": "I have worked in sales and learned how to solve customer problems.",
+        "exampleReading": "අයි හැව් වර්ක්ඩ් ඉන් සේල්ස් ඇන්ඩ් ලර්න්ඩ් හව් ටු සෝල්ව් කස්ටමර් ප්‍රොබ්ලම්ස්.",
+        "translation": "මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කරලා පාරිභෝගික ගැටලු විසඳන්න ඉගෙන ගත්තා."
+      },
+      {
+        "word": "interview",
+        "reading": "ඉන්ටර්වියූ",
+        "meaning": "සම්මුඛ පරීක්ෂණය",
+        "example": "I have worked in sales and learned how to solve customer problems.",
+        "exampleReading": "අයි හැව් වර්ක්ඩ් ඉන් සේල්ස් ඇන්ඩ් ලර්න්ඩ් හව් ටු සෝල්ව් කස්ටමර් ප්‍රොබ්ලම්ස්.",
+        "translation": "මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කරලා පාරිභෝගික ගැටලු විසඳන්න ඉගෙන ගත්තා."
+      },
+      {
+        "word": "employer",
+        "reading": "එම්ප්ලොයර්",
+        "meaning": "සේවායෝජකයා",
+        "example": "I have worked in sales and learned how to solve customer problems.",
+        "exampleReading": "අයි හැව් වර්ක්ඩ් ඉන් සේල්ස් ඇන්ඩ් ලර්න්ඩ් හව් ටු සෝල්ව් කස්ටමර් ප්‍රොබ්ලම්ස්.",
+        "translation": "මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කරලා පාරිභෝගික ගැටලු විසඳන්න ඉගෙන ගත්තා."
+      },
+      {
+        "word": "colleague",
+        "reading": "කොලීග්",
+        "meaning": "සගයා",
+        "example": "I have worked in sales and learned how to solve customer problems.",
+        "exampleReading": "අයි හැව් වර්ක්ඩ් ඉන් සේල්ස් ඇන්ඩ් ලර්න්ඩ් හව් ටු සෝල්ව් කස්ටමර් ප්‍රොබ්ලම්ස්.",
+        "translation": "මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කරලා පාරිභෝගික ගැටලු විසඳන්න ඉගෙන ගත්තා."
+      },
+      {
+        "word": "promotion",
+        "reading": "ප්‍රමෝෂන්",
+        "meaning": "උසස්වීම",
+        "example": "I have worked in sales and learned how to solve customer problems.",
+        "exampleReading": "අයි හැව් වර්ක්ඩ් ඉන් සේල්ස් ඇන්ඩ් ලර්න්ඩ් හව් ටු සෝල්ව් කස්ටමර් ප්‍රොබ්ලම්ස්.",
+        "translation": "මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කරලා පාරිභෝගික ගැටලු විසඳන්න ඉගෙන ගත්තා."
+      },
+      {
+        "word": "reference",
+        "reading": "රෙෆරන්ස්",
+        "meaning": "නිර්දේශය",
+        "example": "I have worked in sales and learned how to solve customer problems.",
+        "exampleReading": "අයි හැව් වර්ක්ඩ් ඉන් සේල්ස් ඇන්ඩ් ලර්න්ඩ් හව් ටු සෝල්ව් කස්ටමර් ප්‍රොබ්ලම්ස්.",
+        "translation": "මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කරලා පාරිභෝගික ගැටලු විසඳන්න ඉගෙන ගත්තා."
+      }
+    ],
+    "grammarTitle": "Grammar",
+    "grammar": "Use present perfect and past simple to describe experience and achievements.",
+    "grammarTerms": [
+      {
+        "text": "I have worked in sales and learned how to solve customer problems.",
+        "reading": "අයි හැව් වර්ක්ඩ් ඉන් සේල්ස් ඇන්ඩ් ලර්න්ඩ් හව් ටු සෝල්ව් කස්ටමර් ප්‍රොබ්ලම්ස්.",
+        "meaning": "මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කරලා පාරිභෝගික ගැටලු විසඳන්න ඉගෙන ගත්තා."
+      }
+    ],
+    "examples": [
+      {
+        "text": "I have worked in sales and learned how to solve customer problems.",
+        "reading": "අයි හැව් වර්ක්ඩ් ඉන් සේල්ස් ඇන්ඩ් ලර්න්ඩ් හව් ටු සෝල්ව් කස්ටමර් ප්‍රොබ්ලම්ස්.",
+        "meaning": "මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කරලා පාරිභෝගික ගැටලු විසඳන්න ඉගෙන ගත්තා."
+      },
+      {
+        "text": "It is important to consider all the available options.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි අවේලබල් ඔප්ෂන්ස්.",
+        "meaning": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "We can make a plan and adapt it to the situation.",
+        "reading": "වී කෑන් මේක් අ ප්ලෑන් ඇන්ඩ් අඩැප්ට් ඉට් ටු දි සිචුවේෂන්.",
+        "meaning": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි."
+      },
+      {
+        "text": "Based on experience, this approach may be useful.",
+        "reading": "බේස්ඩ් ඔන් එක්ස්පීරියන්ස් දිස් ඇප්‍රෝච් මේ බී යූස්ෆුල්.",
+        "meaning": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "A: I have worked in sales and learned how to solve customer problems.",
+        "reading": "A: අයි හැව් වර්ක්ඩ් ඉන් සේල්ස් ඇන්ඩ් ලර්න්ඩ් හව් ටු සෝල්ව් කස්ටමර් ප්‍රොබ්ලම්ස්.",
+        "meaning": "මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කරලා පාරිභෝගික ගැටලු විසඳන්න ඉගෙන ගත්තා."
+      },
+      {
+        "text": "B: I understand. Could you explain why?",
+        "reading": "B: අයි අන්ඩර්ස්ටෑන්ඩ්. කුඩ් යූ එක්ස්ප්ලේන් වයි?",
+        "meaning": "තේරුණා. ඇයි කියලා පැහැදිලි කරන්න පුළුවන්ද?"
+      },
+      {
+        "text": "A: It is important to consider every option.",
+        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
+        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "B: I agree. Let us make a plan.",
+        "reading": "B: අයි අග්‍රී. ලෙට් අස් මේක් අ ප්ලෑන්.",
+        "meaning": "එකඟයි. අපි සැලැස්මක් හදමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the meaning: I have worked in sales and learned how to solve customer problems.",
+      "audio": "I have worked in sales and learned how to solve customer problems.",
+      "reading": "අයි හැව් වර්ක්ඩ් ඉන් සේල්ස් ඇන්ඩ් ලර්න්ඩ් හව් ටු සෝල්ව් කස්ටමර් ප්‍රොබ්ලම්ස්.",
+      "options": [
+        "මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කරලා පාරිභෝගික ගැටලු විසඳන්න ඉගෙන ගත්තා.",
+        "This has a different meaning.",
+        "This is not a question."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "What does “experience” mean?",
+        "options": [
+          "පළපුරුද්ද",
+          "the opposite meaning",
+          "an unrelated word"
+        ],
+        "answer": 0,
+        "explanation": "experience = පළපුරුද්ද"
+      },
+      {
+        "prompt": "Choose the grammatically correct sentence.",
+        "options": [
+          "Yesterday I will goes.",
+          "I have worked in sales and learned how to solve customer problems.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කරලා පාරිභෝගික ගැටලු විසඳන්න ඉගෙන ගත්තා."
+      },
+      {
+        "prompt": "What does “achievement” mean?",
+        "options": [
+          "ජයග්‍රහණය",
+          "the opposite meaning",
+          "an unrelated word"
+        ],
+        "answer": 0,
+        "explanation": "achievement = ජයග්‍රහණය"
+      },
+      {
+        "prompt": "What does speaker B suggest?",
+        "options": [
+          "Make a plan",
+          "Cancel the trip",
+          "Ask about the price"
+        ],
+        "answer": 0,
+        "explanation": "Let us make a plan = අපි සැලැස්මක් හදමු."
+      }
+    ]
+  },
+  {
+    "id": "en-b1-l27",
+    "unit": "Independent use",
+    "title": "B1 · Lesson 27 · Conflict resolution and negotiation",
+    "objective": "Discuss conflict resolution and negotiation clearly and explain your reasons.",
+    "vocabulary": [
+      {
+        "word": "agreement",
+        "reading": "අග්‍රීමන්ට්",
+        "meaning": "එකඟතාව",
+        "example": "I suggest that we listen to both sides before we decide.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී ලිසන් ටු බෝත් සයිඩ්ස් බිෆෝර් වී ඩිසයිඩ්.",
+        "translation": "තීරණය කිරීමට පෙර දෙපාර්ශ්වයටම සවන් දෙමු කියලා මම යෝජනා කරනවා."
+      },
+      {
+        "word": "compromise",
+        "reading": "කොම්ප්‍රමයිස්",
+        "meaning": "සම්මුතිය",
+        "example": "I suggest that we listen to both sides before we decide.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී ලිසන් ටු බෝත් සයිඩ්ස් බිෆෝර් වී ඩිසයිඩ්.",
+        "translation": "තීරණය කිරීමට පෙර දෙපාර්ශ්වයටම සවන් දෙමු කියලා මම යෝජනා කරනවා."
+      },
+      {
+        "word": "disagreement",
+        "reading": "ඩිසඅග්‍රීමන්ට්",
+        "meaning": "නොඑකඟතාව",
+        "example": "I suggest that we listen to both sides before we decide.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී ලිසන් ටු බෝත් සයිඩ්ස් බිෆෝර් වී ඩිසයිඩ්.",
+        "translation": "තීරණය කිරීමට පෙර දෙපාර්ශ්වයටම සවන් දෙමු කියලා මම යෝජනා කරනවා."
+      },
+      {
+        "word": "negotiate",
+        "reading": "නිගෝෂියේට්",
+        "meaning": "සාකච්ඡා කරනවා",
+        "example": "I suggest that we listen to both sides before we decide.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී ලිසන් ටු බෝත් සයිඩ්ස් බිෆෝර් වී ඩිසයිඩ්.",
+        "translation": "තීරණය කිරීමට පෙර දෙපාර්ශ්වයටම සවන් දෙමු කියලා මම යෝජනා කරනවා."
+      },
+      {
+        "word": "proposal",
+        "reading": "ප්‍රපෝසල්",
+        "meaning": "යෝජනාව",
+        "example": "I suggest that we listen to both sides before we decide.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී ලිසන් ටු බෝත් සයිඩ්ස් බිෆෝර් වී ඩිසයිඩ්.",
+        "translation": "තීරණය කිරීමට පෙර දෙපාර්ශ්වයටම සවන් දෙමු කියලා මම යෝජනා කරනවා."
+      },
+      {
+        "word": "concern",
+        "reading": "කන්සර්න්",
+        "meaning": "කනස්සල්ල",
+        "example": "I suggest that we listen to both sides before we decide.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී ලිසන් ටු බෝත් සයිඩ්ස් බිෆෝර් වී ඩිසයිඩ්.",
+        "translation": "තීරණය කිරීමට පෙර දෙපාර්ශ්වයටම සවන් දෙමු කියලා මම යෝජනා කරනවා."
+      },
+      {
+        "word": "solution",
+        "reading": "සලූෂන්",
+        "meaning": "විසඳුම",
+        "example": "I suggest that we listen to both sides before we decide.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී ලිසන් ටු බෝත් සයිඩ්ස් බිෆෝර් වී ඩිසයිඩ්.",
+        "translation": "තීරණය කිරීමට පෙර දෙපාර්ශ්වයටම සවන් දෙමු කියලා මම යෝජනා කරනවා."
+      },
+      {
+        "word": "respect",
+        "reading": "රිස්පෙක්ට්",
+        "meaning": "ගෞරවය",
+        "example": "I suggest that we listen to both sides before we decide.",
+        "exampleReading": "අයි සජෙස්ට් දැට් වී ලිසන් ටු බෝත් සයිඩ්ස් බිෆෝර් වී ඩිසයිඩ්.",
+        "translation": "තීරණය කිරීමට පෙර දෙපාර්ශ්වයටම සවන් දෙමු කියලා මම යෝජනා කරනවා."
+      }
+    ],
+    "grammarTitle": "Grammar",
+    "grammar": "Use could, would and suggest that to negotiate and reach agreement.",
+    "grammarTerms": [
+      {
+        "text": "I suggest that we listen to both sides before we decide.",
+        "reading": "අයි සජෙස්ට් දැට් වී ලිසන් ටු බෝත් සයිඩ්ස් බිෆෝර් වී ඩිසයිඩ්.",
+        "meaning": "තීරණය කිරීමට පෙර දෙපාර්ශ්වයටම සවන් දෙමු කියලා මම යෝජනා කරනවා."
+      }
+    ],
+    "examples": [
+      {
+        "text": "I suggest that we listen to both sides before we decide.",
+        "reading": "අයි සජෙස්ට් දැට් වී ලිසන් ටු බෝත් සයිඩ්ස් බිෆෝර් වී ඩිසයිඩ්.",
+        "meaning": "තීරණය කිරීමට පෙර දෙපාර්ශ්වයටම සවන් දෙමු කියලා මම යෝජනා කරනවා."
+      },
+      {
+        "text": "It is important to consider all the available options.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි අවේලබල් ඔප්ෂන්ස්.",
+        "meaning": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "We can make a plan and adapt it to the situation.",
+        "reading": "වී කෑන් මේක් අ ප්ලෑන් ඇන්ඩ් අඩැප්ට් ඉට් ටු දි සිචුවේෂන්.",
+        "meaning": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි."
+      },
+      {
+        "text": "Based on experience, this approach may be useful.",
+        "reading": "බේස්ඩ් ඔන් එක්ස්පීරියන්ස් දිස් ඇප්‍රෝච් මේ බී යූස්ෆුල්.",
+        "meaning": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "A: I suggest that we listen to both sides before we decide.",
+        "reading": "A: අයි සජෙස්ට් දැට් වී ලිසන් ටු බෝත් සයිඩ්ස් බිෆෝර් වී ඩිසයිඩ්.",
+        "meaning": "තීරණය කිරීමට පෙර දෙපාර්ශ්වයටම සවන් දෙමු කියලා මම යෝජනා කරනවා."
+      },
+      {
+        "text": "B: I understand. Could you explain why?",
+        "reading": "B: අයි අන්ඩර්ස්ටෑන්ඩ්. කුඩ් යූ එක්ස්ප්ලේන් වයි?",
+        "meaning": "තේරුණා. ඇයි කියලා පැහැදිලි කරන්න පුළුවන්ද?"
+      },
+      {
+        "text": "A: It is important to consider every option.",
+        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
+        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "B: I agree. Let us make a plan.",
+        "reading": "B: අයි අග්‍රී. ලෙට් අස් මේක් අ ප්ලෑන්.",
+        "meaning": "එකඟයි. අපි සැලැස්මක් හදමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the meaning: I suggest that we listen to both sides before we decide.",
+      "audio": "I suggest that we listen to both sides before we decide.",
+      "reading": "අයි සජෙස්ට් දැට් වී ලිසන් ටු බෝත් සයිඩ්ස් බිෆෝර් වී ඩිසයිඩ්.",
+      "options": [
+        "තීරණය කිරීමට පෙර දෙපාර්ශ්වයටම සවන් දෙමු කියලා මම යෝජනා කරනවා.",
+        "This has a different meaning.",
+        "This is not a question."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "What does “agreement” mean?",
+        "options": [
+          "එකඟතාව",
+          "the opposite meaning",
+          "an unrelated word"
+        ],
+        "answer": 0,
+        "explanation": "agreement = එකඟතාව"
+      },
+      {
+        "prompt": "Choose the grammatically correct sentence.",
+        "options": [
+          "Yesterday I will goes.",
+          "I suggest that we listen to both sides before we decide.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "තීරණය කිරීමට පෙර දෙපාර්ශ්වයටම සවන් දෙමු කියලා මම යෝජනා කරනවා."
+      },
+      {
+        "prompt": "What does “compromise” mean?",
+        "options": [
+          "සම්මුතිය",
+          "the opposite meaning",
+          "an unrelated word"
+        ],
+        "answer": 0,
+        "explanation": "compromise = සම්මුතිය"
+      },
+      {
+        "prompt": "What does speaker B suggest?",
+        "options": [
+          "Make a plan",
+          "Cancel the trip",
+          "Ask about the price"
+        ],
+        "answer": 0,
+        "explanation": "Let us make a plan = අපි සැලැස්මක් හදමු."
+      }
+    ]
+  },
+  {
+    "id": "en-b1-l28",
+    "unit": "Independent use",
+    "title": "B1 · Lesson 28 · Media, information and reliability",
+    "objective": "Discuss media, information and reliability clearly and explain your reasons.",
+    "vocabulary": [
+      {
+        "word": "source",
+        "reading": "සෝර්ස්",
+        "meaning": "මූලාශ්‍රය",
+        "example": "Before I share a story, I check the source and publication date.",
+        "exampleReading": "බිෆෝර් අයි ෂෙයාර් අ ස්ටෝරි අයි චෙක් දි සෝර්ස් ඇන්ඩ් පබ්ලිකේෂන් ඩේට්.",
+        "translation": "ප්‍රවෘත්තියක් බෙදාගැනීමට පෙර මූලාශ්‍රය සහ පළ කළ දිනය පරීක්ෂා කරනවා."
+      },
+      {
+        "word": "headline",
+        "reading": "හෙඩ්ලයින්",
+        "meaning": "ශීර්ෂ පාඨය",
+        "example": "Before I share a story, I check the source and publication date.",
+        "exampleReading": "බිෆෝර් අයි ෂෙයාර් අ ස්ටෝරි අයි චෙක් දි සෝර්ස් ඇන්ඩ් පබ්ලිකේෂන් ඩේට්.",
+        "translation": "ප්‍රවෘත්තියක් බෙදාගැනීමට පෙර මූලාශ්‍රය සහ පළ කළ දිනය පරීක්ෂා කරනවා."
+      },
+      {
+        "word": "report",
+        "reading": "රිපෝර්ට්",
+        "meaning": "වාර්තාව",
+        "example": "Before I share a story, I check the source and publication date.",
+        "exampleReading": "බිෆෝර් අයි ෂෙයාර් අ ස්ටෝරි අයි චෙක් දි සෝර්ස් ඇන්ඩ් පබ්ලිකේෂන් ඩේට්.",
+        "translation": "ප්‍රවෘත්තියක් බෙදාගැනීමට පෙර මූලාශ්‍රය සහ පළ කළ දිනය පරීක්ෂා කරනවා."
+      },
+      {
+        "word": "claim",
+        "reading": "ක්ලේම්",
+        "meaning": "ප්‍රකාශය",
+        "example": "Before I share a story, I check the source and publication date.",
+        "exampleReading": "බිෆෝර් අයි ෂෙයාර් අ ස්ටෝරි අයි චෙක් දි සෝර්ස් ඇන්ඩ් පබ්ලිකේෂන් ඩේට්.",
+        "translation": "ප්‍රවෘත්තියක් බෙදාගැනීමට පෙර මූලාශ්‍රය සහ පළ කළ දිනය පරීක්ෂා කරනවා."
+      },
+      {
+        "word": "evidence",
+        "reading": "එවිඩන්ස්",
+        "meaning": "සාක්ෂිය",
+        "example": "Before I share a story, I check the source and publication date.",
+        "exampleReading": "බිෆෝර් අයි ෂෙයාර් අ ස්ටෝරි අයි චෙක් දි සෝර්ස් ඇන්ඩ් පබ්ලිකේෂන් ඩේට්.",
+        "translation": "ප්‍රවෘත්තියක් බෙදාගැනීමට පෙර මූලාශ්‍රය සහ පළ කළ දිනය පරීක්ෂා කරනවා."
+      },
+      {
+        "word": "reliable",
+        "reading": "රිලයබල්",
+        "meaning": "විශ්වාසදායක",
+        "example": "Before I share a story, I check the source and publication date.",
+        "exampleReading": "බිෆෝර් අයි ෂෙයාර් අ ස්ටෝරි අයි චෙක් දි සෝර්ස් ඇන්ඩ් පබ්ලිකේෂන් ඩේට්.",
+        "translation": "ප්‍රවෘත්තියක් බෙදාගැනීමට පෙර මූලාශ්‍රය සහ පළ කළ දිනය පරීක්ෂා කරනවා."
+      },
+      {
+        "word": "bias",
+        "reading": "බයස්",
+        "meaning": "පක්ෂපාතීත්වය",
+        "example": "Before I share a story, I check the source and publication date.",
+        "exampleReading": "බිෆෝර් අයි ෂෙයාර් අ ස්ටෝරි අයි චෙක් දි සෝර්ස් ඇන්ඩ් පබ්ලිකේෂන් ඩේට්.",
+        "translation": "ප්‍රවෘත්තියක් බෙදාගැනීමට පෙර මූලාශ්‍රය සහ පළ කළ දිනය පරීක්ෂා කරනවා."
+      },
+      {
+        "word": "publish",
+        "reading": "පබ්ලිෂ්",
+        "meaning": "පළ කරනවා",
+        "example": "Before I share a story, I check the source and publication date.",
+        "exampleReading": "බිෆෝර් අයි ෂෙයාර් අ ස්ටෝරි අයි චෙක් දි සෝර්ස් ඇන්ඩ් පබ්ලිකේෂන් ඩේට්.",
+        "translation": "ප්‍රවෘත්තියක් බෙදාගැනීමට පෙර මූලාශ්‍රය සහ පළ කළ දිනය පරීක්ෂා කරනවා."
+      }
+    ],
+    "grammarTitle": "Grammar",
+    "grammar": "Use reporting verbs and cautious language to distinguish claims from verified facts.",
+    "grammarTerms": [
+      {
+        "text": "Before I share a story, I check the source and publication date.",
+        "reading": "බිෆෝර් අයි ෂෙයාර් අ ස්ටෝරි අයි චෙක් දි සෝර්ස් ඇන්ඩ් පබ්ලිකේෂන් ඩේට්.",
+        "meaning": "ප්‍රවෘත්තියක් බෙදාගැනීමට පෙර මූලාශ්‍රය සහ පළ කළ දිනය පරීක්ෂා කරනවා."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Before I share a story, I check the source and publication date.",
+        "reading": "බිෆෝර් අයි ෂෙයාර් අ ස්ටෝරි අයි චෙක් දි සෝර්ස් ඇන්ඩ් පබ්ලිකේෂන් ඩේට්.",
+        "meaning": "ප්‍රවෘත්තියක් බෙදාගැනීමට පෙර මූලාශ්‍රය සහ පළ කළ දිනය පරීක්ෂා කරනවා."
+      },
+      {
+        "text": "It is important to consider all the available options.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි අවේලබල් ඔප්ෂන්ස්.",
+        "meaning": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "We can make a plan and adapt it to the situation.",
+        "reading": "වී කෑන් මේක් අ ප්ලෑන් ඇන්ඩ් අඩැප්ට් ඉට් ටු දි සිචුවේෂන්.",
+        "meaning": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි."
+      },
+      {
+        "text": "Based on experience, this approach may be useful.",
+        "reading": "බේස්ඩ් ඔන් එක්ස්පීරියන්ස් දිස් ඇප්‍රෝච් මේ බී යූස්ෆුල්.",
+        "meaning": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "A: Before I share a story, I check the source and publication date.",
+        "reading": "A: බිෆෝර් අයි ෂෙයාර් අ ස්ටෝරි අයි චෙක් දි සෝර්ස් ඇන්ඩ් පබ්ලිකේෂන් ඩේට්.",
+        "meaning": "ප්‍රවෘත්තියක් බෙදාගැනීමට පෙර මූලාශ්‍රය සහ පළ කළ දිනය පරීක්ෂා කරනවා."
+      },
+      {
+        "text": "B: I understand. Could you explain why?",
+        "reading": "B: අයි අන්ඩර්ස්ටෑන්ඩ්. කුඩ් යූ එක්ස්ප්ලේන් වයි?",
+        "meaning": "තේරුණා. ඇයි කියලා පැහැදිලි කරන්න පුළුවන්ද?"
+      },
+      {
+        "text": "A: It is important to consider every option.",
+        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
+        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "B: I agree. Let us make a plan.",
+        "reading": "B: අයි අග්‍රී. ලෙට් අස් මේක් අ ප්ලෑන්.",
+        "meaning": "එකඟයි. අපි සැලැස්මක් හදමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the meaning: Before I share a story, I check the source and publication date.",
+      "audio": "Before I share a story, I check the source and publication date.",
+      "reading": "බිෆෝර් අයි ෂෙයාර් අ ස්ටෝරි අයි චෙක් දි සෝර්ස් ඇන්ඩ් පබ්ලිකේෂන් ඩේට්.",
+      "options": [
+        "ප්‍රවෘත්තියක් බෙදාගැනීමට පෙර මූලාශ්‍රය සහ පළ කළ දිනය පරීක්ෂා කරනවා.",
+        "This has a different meaning.",
+        "This is not a question."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "What does “source” mean?",
+        "options": [
+          "මූලාශ්‍රය",
+          "the opposite meaning",
+          "an unrelated word"
+        ],
+        "answer": 0,
+        "explanation": "source = මූලාශ්‍රය"
+      },
+      {
+        "prompt": "Choose the grammatically correct sentence.",
+        "options": [
+          "Yesterday I will goes.",
+          "Before I share a story, I check the source and publication date.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "ප්‍රවෘත්තියක් බෙදාගැනීමට පෙර මූලාශ්‍රය සහ පළ කළ දිනය පරීක්ෂා කරනවා."
+      },
+      {
+        "prompt": "What does “headline” mean?",
+        "options": [
+          "ශීර්ෂ පාඨය",
+          "the opposite meaning",
+          "an unrelated word"
+        ],
+        "answer": 0,
+        "explanation": "headline = ශීර්ෂ පාඨය"
+      },
+      {
+        "prompt": "What does speaker B suggest?",
+        "options": [
+          "Make a plan",
+          "Cancel the trip",
+          "Ask about the price"
+        ],
+        "answer": 0,
+        "explanation": "Let us make a plan = අපි සැලැස්මක් හදමු."
+      }
+    ]
+  },
+  {
+    "id": "en-b1-l29",
+    "unit": "Independent use",
+    "title": "B1 · Lesson 29 · Destinations, accommodation and travel experiences",
+    "objective": "Discuss destinations, accommodation and travel experiences clearly and explain your reasons.",
+    "vocabulary": [
+      {
+        "word": "destination",
+        "reading": "ඩෙස්ටිනේෂන්",
+        "meaning": "ගමනාන්තය",
+        "example": "As soon as we arrive at the hotel, we will leave our luggage and explore the city.",
+        "exampleReading": "ඇස් සූන් ඇස් වී අරයිව් ඇට් දි හෝටෙල් වී විල් ලීව් අවර් ලගිජ් ඇන්ඩ් එක්ස්ප්ලෝර් දි සිටි.",
+        "translation": "හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා."
+      },
+      {
+        "word": "accommodation",
+        "reading": "අකමඩේෂන්",
+        "meaning": "නවාතැන",
+        "example": "As soon as we arrive at the hotel, we will leave our luggage and explore the city.",
+        "exampleReading": "ඇස් සූන් ඇස් වී අරයිව් ඇට් දි හෝටෙල් වී විල් ලීව් අවර් ලගිජ් ඇන්ඩ් එක්ස්ප්ලෝර් දි සිටි.",
+        "translation": "හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා."
+      },
+      {
+        "word": "sightseeing",
+        "reading": "සයිට්සීං",
+        "meaning": "නගර නැරඹීම",
+        "example": "As soon as we arrive at the hotel, we will leave our luggage and explore the city.",
+        "exampleReading": "ඇස් සූන් ඇස් වී අරයිව් ඇට් දි හෝටෙල් වී විල් ලීව් අවර් ලගිජ් ඇන්ඩ් එක්ස්ප්ලෝර් දි සිටි.",
+        "translation": "හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා."
+      },
+      {
+        "word": "reservation",
+        "reading": "රෙසර්වේෂන්",
+        "meaning": "වෙන්කිරීම",
+        "example": "As soon as we arrive at the hotel, we will leave our luggage and explore the city.",
+        "exampleReading": "ඇස් සූන් ඇස් වී අරයිව් ඇට් දි හෝටෙල් වී විල් ලීව් අවර් ලගිජ් ඇන්ඩ් එක්ස්ප්ලෝර් දි සිටි.",
+        "translation": "හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා."
+      },
+      {
+        "word": "local",
+        "reading": "ලෝකල්",
+        "meaning": "දේශීය",
+        "example": "As soon as we arrive at the hotel, we will leave our luggage and explore the city.",
+        "exampleReading": "ඇස් සූන් ඇස් වී අරයිව් ඇට් දි හෝටෙල් වී විල් ලීව් අවර් ලගිජ් ඇන්ඩ් එක්ස්ප්ලෝර් දි සිටි.",
+        "translation": "හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා."
+      },
+      {
+        "word": "route",
+        "reading": "රූට්",
+        "meaning": "මාර්ගය",
+        "example": "As soon as we arrive at the hotel, we will leave our luggage and explore the city.",
+        "exampleReading": "ඇස් සූන් ඇස් වී අරයිව් ඇට් දි හෝටෙල් වී විල් ලීව් අවර් ලගිජ් ඇන්ඩ් එක්ස්ප්ලෝර් දි සිටි.",
+        "translation": "හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා."
+      },
+      {
+        "word": "luggage",
+        "reading": "ලගිජ්",
+        "meaning": "ගමන් මලු",
+        "example": "As soon as we arrive at the hotel, we will leave our luggage and explore the city.",
+        "exampleReading": "ඇස් සූන් ඇස් වී අරයිව් ඇට් දි හෝටෙල් වී විල් ලීව් අවර් ලගිජ් ඇන්ඩ් එක්ස්ප්ලෝර් දි සිටි.",
+        "translation": "හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා."
+      },
+      {
+        "word": "experience",
+        "reading": "එක්ස්පීරියන්ස්",
+        "meaning": "අත්දැකීම",
+        "example": "As soon as we arrive at the hotel, we will leave our luggage and explore the city.",
+        "exampleReading": "ඇස් සූන් ඇස් වී අරයිව් ඇට් දි හෝටෙල් වී විල් ලීව් අවර් ලගිජ් ඇන්ඩ් එක්ස්ප්ලෝර් දි සිටි.",
+        "translation": "හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා."
+      }
+    ],
+    "grammarTitle": "Grammar",
+    "grammar": "Use wherever, as soon as and while to connect travel events and experiences.",
+    "grammarTerms": [
+      {
+        "text": "As soon as we arrive at the hotel, we will leave our luggage and explore the city.",
+        "reading": "ඇස් සූන් ඇස් වී අරයිව් ඇට් දි හෝටෙල් වී විල් ලීව් අවර් ලගිජ් ඇන්ඩ් එක්ස්ප්ලෝර් දි සිටි.",
+        "meaning": "හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා."
+      }
+    ],
+    "examples": [
+      {
+        "text": "As soon as we arrive at the hotel, we will leave our luggage and explore the city.",
+        "reading": "ඇස් සූන් ඇස් වී අරයිව් ඇට් දි හෝටෙල් වී විල් ලීව් අවර් ලගිජ් ඇන්ඩ් එක්ස්ප්ලෝර් දි සිටි.",
+        "meaning": "හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා."
+      },
+      {
+        "text": "It is important to consider all the available options.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි අවේලබල් ඔප්ෂන්ස්.",
+        "meaning": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "We can make a plan and adapt it to the situation.",
+        "reading": "වී කෑන් මේක් අ ප්ලෑන් ඇන්ඩ් අඩැප්ට් ඉට් ටු දි සිචුවේෂන්.",
+        "meaning": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි."
+      },
+      {
+        "text": "Based on experience, this approach may be useful.",
+        "reading": "බේස්ඩ් ඔන් එක්ස්පීරියන්ස් දිස් ඇප්‍රෝච් මේ බී යූස්ෆුල්.",
+        "meaning": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "A: As soon as we arrive at the hotel, we will leave our luggage and explore the city.",
+        "reading": "A: ඇස් සූන් ඇස් වී අරයිව් ඇට් දි හෝටෙල් වී විල් ලීව් අවර් ලගිජ් ඇන්ඩ් එක්ස්ප්ලෝර් දි සිටි.",
+        "meaning": "හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා."
+      },
+      {
+        "text": "B: I understand. Could you explain why?",
+        "reading": "B: අයි අන්ඩර්ස්ටෑන්ඩ්. කුඩ් යූ එක්ස්ප්ලේන් වයි?",
+        "meaning": "තේරුණා. ඇයි කියලා පැහැදිලි කරන්න පුළුවන්ද?"
+      },
+      {
+        "text": "A: It is important to consider every option.",
+        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
+        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "B: I agree. Let us make a plan.",
+        "reading": "B: අයි අග්‍රී. ලෙට් අස් මේක් අ ප්ලෑන්.",
+        "meaning": "එකඟයි. අපි සැලැස්මක් හදමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the meaning: As soon as we arrive at the hotel, we will leave our luggage and explore the city.",
+      "audio": "As soon as we arrive at the hotel, we will leave our luggage and explore the city.",
+      "reading": "ඇස් සූන් ඇස් වී අරයිව් ඇට් දි හෝටෙල් වී විල් ලීව් අවර් ලගිජ් ඇන්ඩ් එක්ස්ප්ලෝර් දි සිටි.",
+      "options": [
+        "හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා.",
+        "This has a different meaning.",
+        "This is not a question."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "What does “destination” mean?",
+        "options": [
+          "ගමනාන්තය",
+          "the opposite meaning",
+          "an unrelated word"
+        ],
+        "answer": 0,
+        "explanation": "destination = ගමනාන්තය"
+      },
+      {
+        "prompt": "Choose the grammatically correct sentence.",
+        "options": [
+          "Yesterday I will goes.",
+          "As soon as we arrive at the hotel, we will leave our luggage and explore the city.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා."
+      },
+      {
+        "prompt": "What does “accommodation” mean?",
+        "options": [
+          "නවාතැන",
+          "the opposite meaning",
+          "an unrelated word"
+        ],
+        "answer": 0,
+        "explanation": "accommodation = නවාතැන"
+      },
+      {
+        "prompt": "What does speaker B suggest?",
+        "options": [
+          "Make a plan",
+          "Cancel the trip",
+          "Ask about the price"
+        ],
+        "answer": 0,
+        "explanation": "Let us make a plan = අපි සැලැස්මක් හදමු."
+      }
+    ]
+  },
+  {
+    "id": "en-b1-l30",
+    "unit": "Independent use",
+    "title": "B1 · Lesson 30 · Personal memories and changes in life",
+    "objective": "Discuss personal memories and changes in life clearly and explain your reasons.",
+    "vocabulary": [
+      {
+        "word": "memory",
+        "reading": "මෙමරි",
+        "meaning": "මතකය",
+        "example": "When I moved, it took me time to get used to the new city.",
+        "exampleReading": "වෙන් අයි මූව්ඩ් ඉට් ටුක් මී ටයිම් ටු ගෙට් යූස්ඩ් ටු දි න්‍යූ සිටි.",
+        "translation": "මම පදිංචිය මාරු කළ විට අලුත් නගරයට හුරු වෙන්න කාලයක් ගත වුණා."
+      },
+      {
+        "word": "change",
+        "reading": "චේන්ජ්",
+        "meaning": "වෙනස",
+        "example": "When I moved, it took me time to get used to the new city.",
+        "exampleReading": "වෙන් අයි මූව්ඩ් ඉට් ටුක් මී ටයිම් ටු ගෙට් යූස්ඩ් ටු දි න්‍යූ සිටි.",
+        "translation": "මම පදිංචිය මාරු කළ විට අලුත් නගරයට හුරු වෙන්න කාලයක් ගත වුණා."
+      },
+      {
+        "word": "move house",
+        "reading": "මූව් හවුස්",
+        "meaning": "පදිංචිය මාරු කරනවා",
+        "example": "When I moved, it took me time to get used to the new city.",
+        "exampleReading": "වෙන් අයි මූව්ඩ් ඉට් ටුක් මී ටයිම් ටු ගෙට් යූස්ඩ් ටු දි න්‍යූ සිටි.",
+        "translation": "මම පදිංචිය මාරු කළ විට අලුත් නගරයට හුරු වෙන්න කාලයක් ගත වුණා."
+      },
+      {
+        "word": "adapt",
+        "reading": "අඩැප්ට්",
+        "meaning": "හැඩගැසෙනවා",
+        "example": "When I moved, it took me time to get used to the new city.",
+        "exampleReading": "වෙන් අයි මූව්ඩ් ඉට් ටුක් මී ටයිම් ටු ගෙට් යූස්ඩ් ටු දි න්‍යූ සිටි.",
+        "translation": "මම පදිංචිය මාරු කළ විට අලුත් නගරයට හුරු වෙන්න කාලයක් ගත වුණා."
+      },
+      {
+        "word": "familiar",
+        "reading": "ෆමිලියර්",
+        "meaning": "හුරුපුරුදු",
+        "example": "When I moved, it took me time to get used to the new city.",
+        "exampleReading": "වෙන් අයි මූව්ඩ් ඉට් ටුක් මී ටයිම් ටු ගෙට් යූස්ඩ් ටු දි න්‍යූ සිටි.",
+        "translation": "මම පදිංචිය මාරු කළ විට අලුත් නගරයට හුරු වෙන්න කාලයක් ගත වුණා."
+      },
+      {
+        "word": "challenge",
+        "reading": "චැලෙන්ජ්",
+        "meaning": "අභියෝගය",
+        "example": "When I moved, it took me time to get used to the new city.",
+        "exampleReading": "වෙන් අයි මූව්ඩ් ඉට් ටුක් මී ටයිම් ටු ගෙට් යූස්ඩ් ටු දි න්‍යූ සිටි.",
+        "translation": "මම පදිංචිය මාරු කළ විට අලුත් නගරයට හුරු වෙන්න කාලයක් ගත වුණා."
+      },
+      {
+        "word": "opportunity",
+        "reading": "ඔපචුනිටි",
+        "meaning": "අවස්ථාව",
+        "example": "When I moved, it took me time to get used to the new city.",
+        "exampleReading": "වෙන් අයි මූව්ඩ් ඉට් ටුක් මී ටයිම් ටු ගෙට් යූස්ඩ් ටු දි න්‍යූ සිටි.",
+        "translation": "මම පදිංචිය මාරු කළ විට අලුත් නගරයට හුරු වෙන්න කාලයක් ගත වුණා."
+      },
+      {
+        "word": "confidence",
+        "reading": "කොන්ෆිඩන්ස්",
+        "meaning": "ආත්මවිශ්වාසය",
+        "example": "When I moved, it took me time to get used to the new city.",
+        "exampleReading": "වෙන් අයි මූව්ඩ් ඉට් ටුක් මී ටයිම් ටු ගෙට් යූස්ඩ් ටු දි න්‍යූ සිටි.",
+        "translation": "මම පදිංචිය මාරු කළ විට අලුත් නගරයට හුරු වෙන්න කාලයක් ගත වුණා."
+      }
+    ],
+    "grammarTitle": "Grammar",
+    "grammar": "Use used to, be used to and get used to for changes in habits.",
+    "grammarTerms": [
+      {
+        "text": "When I moved, it took me time to get used to the new city.",
+        "reading": "වෙන් අයි මූව්ඩ් ඉට් ටුක් මී ටයිම් ටු ගෙට් යූස්ඩ් ටු දි න්‍යූ සිටි.",
+        "meaning": "මම පදිංචිය මාරු කළ විට අලුත් නගරයට හුරු වෙන්න කාලයක් ගත වුණා."
+      }
+    ],
+    "examples": [
+      {
+        "text": "When I moved, it took me time to get used to the new city.",
+        "reading": "වෙන් අයි මූව්ඩ් ඉට් ටුක් මී ටයිම් ටු ගෙට් යූස්ඩ් ටු දි න්‍යූ සිටි.",
+        "meaning": "මම පදිංචිය මාරු කළ විට අලුත් නගරයට හුරු වෙන්න කාලයක් ගත වුණා."
+      },
+      {
+        "text": "It is important to consider all the available options.",
+        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි අවේලබල් ඔප්ෂන්ස්.",
+        "meaning": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "We can make a plan and adapt it to the situation.",
+        "reading": "වී කෑන් මේක් අ ප්ලෑන් ඇන්ඩ් අඩැප්ට් ඉට් ටු දි සිචුවේෂන්.",
+        "meaning": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි."
+      },
+      {
+        "text": "Based on experience, this approach may be useful.",
+        "reading": "බේස්ඩ් ඔන් එක්ස්පීරියන්ස් දිස් ඇප්‍රෝච් මේ බී යූස්ෆුල්.",
+        "meaning": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි."
+      }
+    ],
+    "dialogue": [
+      {
+        "text": "A: When I moved, it took me time to get used to the new city.",
+        "reading": "A: වෙන් අයි මූව්ඩ් ඉට් ටුක් මී ටයිම් ටු ගෙට් යූස්ඩ් ටු දි න්‍යූ සිටි.",
+        "meaning": "මම පදිංචිය මාරු කළ විට අලුත් නගරයට හුරු වෙන්න කාලයක් ගත වුණා."
+      },
+      {
+        "text": "B: I understand. Could you explain why?",
+        "reading": "B: අයි අන්ඩර්ස්ටෑන්ඩ්. කුඩ් යූ එක්ස්ප්ලේන් වයි?",
+        "meaning": "තේරුණා. ඇයි කියලා පැහැදිලි කරන්න පුළුවන්ද?"
+      },
+      {
+        "text": "A: It is important to consider every option.",
+        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
+        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+      },
+      {
+        "text": "B: I agree. Let us make a plan.",
+        "reading": "B: අයි අග්‍රී. ලෙට් අස් මේක් අ ප්ලෑන්.",
+        "meaning": "එකඟයි. අපි සැලැස්මක් හදමු."
+      }
+    ],
+    "listeningPractice": {
+      "prompt": "Listen and choose the meaning: When I moved, it took me time to get used to the new city.",
+      "audio": "When I moved, it took me time to get used to the new city.",
+      "reading": "වෙන් අයි මූව්ඩ් ඉට් ටුක් මී ටයිම් ටු ගෙට් යූස්ඩ් ටු දි න්‍යූ සිටි.",
+      "options": [
+        "මම පදිංචිය මාරු කළ විට අලුත් නගරයට හුරු වෙන්න කාලයක් ගත වුණා.",
+        "This has a different meaning.",
+        "This is not a question."
+      ],
+      "answer": 0
+    },
+    "practice": [
+      {
+        "prompt": "What does “memory” mean?",
+        "options": [
+          "මතකය",
+          "the opposite meaning",
+          "an unrelated word"
+        ],
+        "answer": 0,
+        "explanation": "memory = මතකය"
+      },
+      {
+        "prompt": "Choose the grammatically correct sentence.",
+        "options": [
+          "Yesterday I will goes.",
+          "When I moved, it took me time to get used to the new city.",
+          "She have finished yesterday."
+        ],
+        "answer": 1,
+        "explanation": "මම පදිංචිය මාරු කළ විට අලුත් නගරයට හුරු වෙන්න කාලයක් ගත වුණා."
+      },
+      {
+        "prompt": "What does “change” mean?",
+        "options": [
+          "වෙනස",
+          "the opposite meaning",
+          "an unrelated word"
+        ],
+        "answer": 0,
+        "explanation": "change = වෙනස"
+      },
+      {
+        "prompt": "What does speaker B suggest?",
+        "options": [
+          "Make a plan",
+          "Cancel the trip",
+          "Ask about the price"
+        ],
+        "answer": 0,
+        "explanation": "Let us make a plan = අපි සැලැස්මක් හදමු."
+      }
+    ]
   }
 ];
