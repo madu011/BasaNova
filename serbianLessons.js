@@ -1672,4 +1672,44 @@ practice:[
 {prompt:"“ඒක මට ගැළපෙනවා” තෝරන්න.",options:["Ne znam.","To mi odgovara.","Nemam plan."],answer:1,explanation:"To mi odgovara = ඒක මට ගැළපෙනවා."},
 {prompt:"“අපිට හෙට හමුවෙන්න පුළුවන්” කියන්නේ?",options:["Možemo da se vidimo sutra.","Radim danas.","Gde je stanica?"],answer:0,explanation:"Možemo da se vidimo sutra = අපිට හෙට හමුවෙන්න පුළුවන්."}]}
 
+
+,
+{
+id:"sr-a1-u10-l9",unit:"පරක්කු වීම සහ සමාව ඉල්ලීම",title:"පාඩම 30 · පරක්කු වීම සහ සමාව ඉල්ලීම",objective:"පරක්කු වන බව දැනුම් දීම, හේතුවක් සරලව පැවසීම සහ පැමිණෙන වේලාව කියීම.",
+vocabulary:[
+{word:"Kasnim",reading:"කාස්නිම්",meaning:"මම පරක්කු වෙනවා",example:"Izvinite, kasnim.",exampleReading:"ඉස්විනිතෙ, කාස්නිම්.",translation:"සමාවෙන්න, මම පරක්කු වෙනවා."},
+{word:"Izvinite",reading:"ඉස්විනිතෙ",meaning:"සමාවෙන්න",example:"Izvinite što kasnim.",exampleReading:"ඉස්විනිතෙ ෂ්තො කාස්නිම්.",translation:"මම පරක්කු වුණාට සමාවෙන්න."},
+{word:"Autobus",reading:"ආවුතොබුස්",meaning:"බස් රථය",example:"Autobus kasni.",exampleReading:"ආවුතොබුස් කාස්නි.",translation:"බස් එක පරක්කුයි."},
+{word:"Saobraćaj",reading:"සාඔබ්‍රාචායි",meaning:"වාහන ගමනාගමනය",example:"Velika je gužva u saobraćaju.",exampleReading:"වෙලිකා යේ ගුෂ්වා උ සාඔබ්‍රාචායු.",translation:"වාහන තදබදය වැඩියි."},
+{word:"Stižem",reading:"ස්තීෂෙම්",meaning:"මම එනවා / ළඟා වෙනවා",example:"Stižem za deset minuta.",exampleReading:"ස්තීෂෙම් සා දෙසෙත් මිනූතා.",translation:"මම විනාඩි දහයකින් එනවා."},
+{word:"Minut",reading:"මිනූත්",meaning:"විනාඩිය",example:"Sačekajte pet minuta.",exampleReading:"සාචෙකායිතෙ පෙත් මිනූතා.",translation:"විනාඩි පහක් ඉන්න."},
+{word:"Nema problema",reading:"නෙමා ප්‍රොබ්ලෙමා",meaning:"ප්‍රශ්නයක් නැහැ",example:"Nema problema, čekam.",exampleReading:"නෙමා ප්‍රොබ්ලෙමා, චෙකාම්.",translation:"ප්‍රශ්නයක් නැහැ, මම බලාගෙන ඉන්නවා."},
+{word:"Javiti",reading:"යාවිති",meaning:"දැනුම් දීම / පණිවිඩයක් දීම",example:"Javi mi kada stigneš.",exampleReading:"යාවි මි කාදා ස්තිග්නෙෂ්.",translation:"ඔයා ආවම මට දැනුම් දෙන්න."}],
+grammarTitle:"ව්‍යාකරණය · පරක්කු වීම සහ පැමිණෙන වේලාව පැවසීම",
+grammar:"“Kasnim” යනු “මම පරක්කු වෙනවා” යන්නයි. හේතුවක් කියන්න “Autobus kasni” හෝ “Gužva je u saobraćaju” භාවිත කරන්න. “Stižem za deset minuta” යනු “මම විනාඩි දහයකින් එනවා” යන්නයි. “Izvinite što kasnim” යනු පරක්කු වීම ගැන සමාව ඉල්ලන ස්වභාවික වාක්‍යයකි.",
+grammarTerms:[
+{sr:"Izvinite što kasnim.",reading:"ඉස්විනිතෙ ෂ්තො කාස්නිම්.",si:"මම පරක්කු වුණාට සමාවෙන්න."},
+{sr:"Autobus kasni.",reading:"ආවුතොබුස් කාස්නි.",si:"බස් එක පරක්කුයි."},
+{sr:"Stižem za deset minuta.",reading:"ස්තීෂෙම් සා දෙසෙත් මිනූතා.",si:"මම විනාඩි දහයකින් එනවා."},
+{sr:"Nema problema.",reading:"නෙමා ප්‍රොබ්ලෙමා.",si:"ප්‍රශ්නයක් නැහැ."},
+{sr:"Javi mi kada stigneš.",reading:"යාවි මි කාදා ස්තිග්නෙෂ්.",si:"ඔයා ආවම මට දැනුම් දෙන්න."}],
+examples:[
+{sr:"Izvinite, kasnim zbog autobusa.",reading:"ඉස්විනිතෙ, කාස්නිම් ස්බොග් ආවුතොබුසා.",si:"සමාවෙන්න, බස් එක නිසා මම පරක්කුයි."},
+{sr:"Velika je gužva u saobraćaju.",reading:"වෙලිකා යේ ගුෂ්වා උ සාඔබ්‍රාචායු.",si:"වාහන තදබදය වැඩියි."},
+{sr:"Stižem za pet minuta.",reading:"ස්තීෂෙම් සා පෙත් මිනූතා.",si:"මම විනාඩි පහකින් එනවා."},
+{sr:"Hvala na razumevanju.",reading:"හ්වාලා නා රාසුමෙවාන්යු.",si:"තේරුම් ගැනීම ගැන ස්තුතියි."}],
+dialogue:[
+{sr:"Gde si? Čekamo te.",reading:"ග්දේ සී? චෙකාමො තෙ.",si:"ඔයා කොහෙද? අපි ඔයා එනකම් ඉන්නවා."},
+{sr:"Izvinite, kasnim.",reading:"ඉස්විනිතෙ, කාස්නිම්.",si:"සමාවෙන්න, මම පරක්කු වෙනවා."},
+{sr:"Šta se dogodilo?",reading:"ෂ්තා සේ දොගොදිලො?",si:"මොකක්ද වුණේ?"},
+{sr:"Autobus kasni. Stižem za deset minuta.",reading:"ආවුතොබුස් කාස්නි. ස්තීෂෙම් සා දෙසෙත් මිනූතා.",si:"බස් එක පරක්කුයි. මම විනාඩි දහයකින් එනවා."},
+{sr:"U redu, nema problema.",reading:"උ රෙදු, නෙමා ප්‍රොබ්ලෙමා.",si:"හරි, ප්‍රශ්නයක් නැහැ."},
+{sr:"Hvala. Javiću se kada stignem.",reading:"හ්වාලා. යාවිචු සේ කාදා ස්තිග්නෙම්.",si:"ස්තුතියි. මම ආවම දැනුම් දෙන්නම්."}],
+listeningPractice:{prompt:"හඬ අසා නිවැරදි සිංහල තේරුම තෝරන්න: “Stižem za deset minuta.”",audio:"Stižem za deset minuta.",options:["මම විනාඩි දහයකින් එනවා.","මම විනාඩි දහයක් ඉන්නවා.","බස් එක විනාඩි දහයක් පරක්කුයි."],readings:["ස්තීෂෙම් සා දෙසෙත් මිනූතා.","චෙකාම් දෙසෙත් මිනූතා.","ආවුතොබුස් කාස්නි දෙසෙත් මිනූතා."],answer:0,meaning:"Stižem za deset minuta = මම විනාඩි දහයකින් එනවා."},
+practice:[
+{prompt:"“මම පරක්කු වෙනවා” කියන්නේ?",options:["Kasnim","Stižem","Čekam"],answer:0,explanation:"Kasnim = මම පරක්කු වෙනවා."},
+{prompt:"“බස් එක පරක්කුයි” තෝරන්න.",options:["Autobus kasni.","Autobus je nov.","Gde je autobus?"],answer:0,explanation:"Autobus kasni = බස් එක පරක්කුයි."},
+{prompt:"“මම විනාඩි දහයකින් එනවා” කියන්නේ?",options:["Čekam deset minuta.","Stižem za deset minuta.","Radim deset sati."],answer:1,explanation:"Stižem za deset minuta = මම විනාඩි දහයකින් එනවා."},
+{prompt:"“ප්‍රශ්නයක් නැහැ” යන වාක්‍යය?",options:["Nema problema.","Nema vremena.","Dobar dan."],answer:0,explanation:"Nema problema = ප්‍රශ්නයක් නැහැ."}]}
+
 ];
