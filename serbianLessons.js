@@ -940,4 +940,99 @@ export const SERBIAN_A1_LESSONS = [
     ]
   }
 
+  ,
+  {
+    id: "sr-a1-u6-l1",
+    unit: "කැෆේ සහ ආහාර ඇණවුම් කිරීම",
+    title: "පාඩම 11 · කැෆේ එකකින් ආහාර ඇණවුම් කිරීම",
+    objective: "කැෆේ එකක මෙනුව ඉල්ලීම, ආහාර සහ පානයක් ඇණවුම් කිරීම, විශේෂ අවශ්‍යතාවක් පැවසීම සහ බිල ඉල්ලීම.",
+    vocabulary: [
+      { word: "Jelovnik", reading: "යෙලොව්නික්", meaning: "ආහාර මෙනුව", example: "Možete li da donesete jelovnik?", exampleReading: "මොෂෙතෙ ලි දා දොනෙසෙතෙ යෙලොව්නික්?", translation: "මෙනුව ගෙනත් දෙන්න පුළුවන්ද?" },
+      { word: "Poručiti", reading: "පොරුචිතී", meaning: "ඇණවුම් කිරීම", example: "Želim da poručim hranu.", exampleReading: "ෂෙලිම් දා පොරුචිම් හ්‍රානු.", translation: "මට ආහාර ඇණවුම් කරන්න ඕනේ." },
+      { word: "Kafa", reading: "කාෆා", meaning: "කෝපි", example: "Jednu kafu, molim.", exampleReading: "යෙද්නු කාෆු, මොලීම්.", translation: "කෝපි එකක්, කරුණාකර." },
+      { word: "Čaj", reading: "චායි", meaning: "තේ", example: "Želim čaj bez šećera.", exampleReading: "ෂෙලිම් චායි බෙස් ෂෙචෙරා.", translation: "මට සීනි නැති තේ එකක් ඕනේ." },
+      { word: "Sendvič", reading: "සෙන්ද්විච්", meaning: "සැන්ඩ්විච්", example: "Koliko košta ovaj sendvič?", exampleReading: "කොලිකො කොෂ්තා ඔවායි සෙන්ද්විච්?", translation: "මේ සැන්ඩ්විච් එක කීයද?" },
+      { word: "Voda", reading: "වොදා", meaning: "වතුර", example: "Jednu vodu, molim.", exampleReading: "යෙද්නු වොදු, මොලීම්.", translation: "වතුර බෝතලයක්, කරුණාකර." },
+      { word: "Bez mleka", reading: "බෙස් ම්ලෙකා", meaning: "කිරි නැතුව", example: "Kafu bez mleka, molim.", exampleReading: "කාෆු බෙස් ම්ලෙකා, මොලීම්.", translation: "කිරි නැති කෝපි එකක්, කරුණාකර." },
+      { word: "Za poneti", reading: "සා පොනෙති", meaning: "ගෙන යාමට / takeaway", example: "Ovo je za poneti.", exampleReading: "ඔවො යේ සා පොනෙති.", translation: "මේක ගෙන යන්නයි." },
+      { word: "Račun", reading: "රාචුන්", meaning: "බිල", example: "Račun, molim.", exampleReading: "රාචුන්, මොලීම්.", translation: "බිල දෙන්න, කරුණාකර." }
+    ],
+    grammarTerms: [
+      { sr: "Želim da poručim ...", si: "මට ... ඇණවුම් කරන්න ඕනේ.", reading: "ෂෙලිම් දා පොරුචිම් ..." },
+      { sr: "Jednu kafu, molim.", si: "කෝපි එකක්, කරුණාකර.", reading: "යෙද්නු කාෆු, මොලීම්." },
+      { sr: "Da li imate ...?", si: "ඔබට ... තිබෙනවාද?", reading: "දා ලි ඉමාතෙ ...?" },
+      { sr: "Za poneti ili ovde?", si: "ගෙන යන්නද නැත්නම් මෙතැනද?", reading: "සා පොනෙති ඉලි ඔව්ඩෙ?" },
+      { sr: "Račun, molim.", si: "බිල දෙන්න, කරුණාකර.", reading: "රාචුන්, මොලීම්." }
+    ],
+    grammarTitle: "ව්‍යාකරණය · ආහාර ඇණවුම් කරන විනීත රටා",
+    grammar: "ඇණවුමක් කිරීමට “Želim da poručim ...” හෝ කෙටියෙන් “... , molim” භාවිත කරන්න. Serbian භාෂාවේ සමහර නාම පද ඇණවුමකදී වෙනස් අවසානයක් ගන්නවා: “kafa” වෙනුවට “kafu”, “voda” වෙනුවට “vodu”, “jedna” වෙනුවට “jednu” කියන රූප භාවිත වෙනවා. “bez” යන්නෙන් නැතුව / රහිතව යන අර්ථය ලැබෙනවා.",
+    examples: [
+      { sr: "Dobar dan. Želim jednu kafu, molim.", reading: "දොබාර් දාන්. ෂෙලිම් යෙද්නු කාෆු, මොලීම්.", si: "සුබ දවසක්. මට කෝපි එකක් ඕනේ, කරුණාකර." },
+      { sr: "Da li imate sendvič bez sira?", reading: "දා ලි ඉමාතෙ සෙන්ද්විච් බෙස් සීරා?", si: "ඔබට චීස් නැති සැන්ඩ්විච් එකක් තිබෙනවාද?" },
+      { sr: "Jednu vodu za poneti, molim.", reading: "යෙද්නු වොදු සා පොනෙති, මොලීම්.", si: "ගෙන යන්න වතුර බෝතලයක්, කරුණාකර." },
+      { sr: "Račun, molim. Hvala.", reading: "රාචුන්, මොලීම්. හ්වාලා.", si: "බිල දෙන්න, කරුණාකර. ස්තුතියි." }
+    ],
+    dialogue: [
+      { sr: "Dobar dan! Šta želite?", reading: "දොබාර් දාන්! ෂ්තා ෂෙලිතෙ?", si: "සුබ දවසක්! ඔබට මොනවාද අවශ්‍ය?" },
+      { sr: "Jednu kafu i jedan sendvič, molim.", reading: "යෙද්නු කාෆු ඉ යෙදාන් සෙන්ද්විච්, මොලීම්.", si: "කෝපි එකක් සහ සැන්ඩ්විච් එකක්, කරුණාකර." },
+      { sr: "Da li želite nešto za poneti?", reading: "දා ලි ෂෙලිතෙ නෙෂ්තො සා පොනෙති?", si: "ඔබට ගෙන යන්නද අවශ්‍ය?" },
+      { sr: "Da, sve je za poneti.", reading: "දා, ස්වේ යේ සා පොනෙති.", si: "ඔව්, සියල්ල ගෙන යන්නයි." },
+      { sr: "U redu. Još nešto?", reading: "උ රෙදු. යෝෂ් නෙෂ්තො?", si: "හරි. තව මොනවාහරිද?" },
+      { sr: "Ne, hvala. Račun, molim.", reading: "නේ, හ්වාලා. රාචුන්, මොලීම්.", si: "නැහැ, ස්තුතියි. බිල දෙන්න, කරුණාකර." }
+    ],
+    practice: [
+      { prompt: "“මට කෝපි එකක් ඕනේ” යන ඇණවුම තෝරන්න.", options: ["Želim jednu kafu.", "Gde je stanica?", "Nemam vremena."], answer: 0, explanation: "Želim jednu kafu = මට කෝපි එකක් ඕනේ." },
+      { prompt: "“ගෙන යන්න” යන අර්ථය කුමක්ද?", options: ["Bez mleka", "Za poneti", "Jelovnik"], answer: 1, explanation: "Za poneti යනු ගෙන යාමට / takeaway යන්නයි." },
+      { prompt: "කිරි නැති කෝපි එකක් ඉල්ලන්නේ කොහොමද?", options: ["Kafu bez mleka, molim.", "Račun, molim.", "Dobar dan."], answer: 0, explanation: "Bez mleka = කිරි නැතුව." },
+      { prompt: "කැෆේ එකක බිල ඉල්ලන නිවැරදි වාක්‍යය?", options: ["Šta želite?", "Koliko je sati?", "Račun, molim."], answer: 2, explanation: "Račun, molim = බිල දෙන්න, කරුණාකර." }
+    ]
+  },
+  {
+    id: "sr-a1-u6-l2",
+    unit: "දෛනික ඉල්ලීම් සහ උදව් ලබාගැනීම",
+    title: "පාඩම 12 · උදව් ඉල්ලීම සහ නොතේරුණු විට කතා කිරීම",
+    objective: "ආචාරශීලීව උදව් ඉල්ලීම, නැවත කියන්න පැවසීම, හෙමින් කතා කරන්න ඉල්ලීම සහ සරල අවශ්‍යතාවක් පැහැදිලි කිරීම.",
+    vocabulary: [
+      { word: "Pomoć", reading: "පොමොච්", meaning: "උදව්", example: "Treba mi pomoć.", exampleReading: "ත්‍රෙබා මි පොමොච්.", translation: "මට උදව් අවශ්‍යයි." },
+      { word: "Možete li da pomognete?", reading: "මොෂෙතෙ ලි දා පොමොග්නෙතෙ?", meaning: "ඔබට උදව් කරන්න පුළුවන්ද?", example: "Izvinite, možete li da pomognete?", exampleReading: "ඉස්විනිතෙ, මොෂෙතෙ ලි දා පොමොග්නෙතෙ?", translation: "සමාවෙන්න, ඔබට උදව් කරන්න පුළුවන්ද?" },
+      { word: "Ponoviti", reading: "පොනොවිතී", meaning: "නැවත කියනවා", example: "Možete li da ponovite?", exampleReading: "මොෂෙතෙ ලි දා පොනොවිතෙ?", translation: "නැවත කියන්න පුළුවන්ද?" },
+      { word: "Sporije", reading: "ස්පොරියේ", meaning: "වඩා හෙමින්", example: "Govorite malo sporije, molim.", exampleReading: "ගොවොරිතෙ මාලො ස්පොරියේ, මොලීම්.", translation: "කරුණාකර ටිකක් හෙමින් කතා කරන්න." },
+      { word: "Razumem", reading: "රාසුමේම්", meaning: "මට තේරෙනවා", example: "Da, sada razumem.", exampleReading: "දා, සාදා රාසුමේම්.", translation: "ඔව්, දැන් මට තේරෙනවා." },
+      { word: "Ne razumem", reading: "නේ රාසුමේම්", meaning: "මට තේරෙන්නේ නැහැ", example: "Izvinite, ne razumem.", exampleReading: "ඉස්විනිතෙ, නේ රාසුමේම්.", translation: "සමාවෙන්න, මට තේරෙන්නේ නැහැ." },
+      { word: "Apoteka", reading: "අපොතෙකා", meaning: "ඖෂධහල", example: "Gde je najbliža apoteka?", exampleReading: "ග්දේ යේ නයිබ්ලිෂා අපොතෙකා?", translation: "ළඟම ඖෂධහල කොහෙද?" },
+      { word: "Adresa", reading: "අද්‍රෙසා", meaning: "ලිපිනය", example: "Tražim ovu adresu.", exampleReading: "ත්‍රාෂිම් ඔවු අද්‍රෙසු.", translation: "මම මේ ලිපිනය හොයනවා." },
+      { word: "Mapa", reading: "මාපා", meaning: "සිතියම", example: "Možete li da mi pokažete na mapi?", exampleReading: "මොෂෙතෙ ලි දා මි පොකාෂෙතෙ නා මාපි?", translation: "සිතියමේ පෙන්වන්න පුළුවන්ද?" },
+      { word: "Lekar", reading: "ලෙකාර්", meaning: "වෛද්‍යවරයා", example: "Treba mi lekar.", exampleReading: "ත්‍රෙබා මි ලෙකාර්.", translation: "මට වෛද්‍යවරයෙක් අවශ්‍යයි." }
+    ],
+    grammarTerms: [
+      { sr: "Možete li da ...?", si: "ඔබට ... කරන්න පුළුවන්ද?", reading: "මොෂෙතෙ ලි දා ...?" },
+      { sr: "Možete li da ponovite?", si: "නැවත කියන්න පුළුවන්ද?", reading: "මොෂෙතෙ ලි දා පොනොවිතෙ?" },
+      { sr: "Govorite malo sporije, molim.", si: "කරුණාකර ටිකක් හෙමින් කතා කරන්න.", reading: "ගොවොරිතෙ මාලො ස්පොරියේ, මොලීම්." },
+      { sr: "Gde je najbliža apoteka?", si: "ළඟම ඖෂධහල කොහෙද?", reading: "ග්දේ යේ නයිබ්ලිෂා අපොතෙකා?" },
+      { sr: "Treba mi ...", si: "මට ... අවශ්‍යයි.", reading: "ත්‍රෙබා මි ..." }
+    ],
+    grammarTitle: "ව්‍යාකරණය · විනීත ඉල්ලීම් සහ අවශ්‍යතා",
+    grammar: "“Možete li da ...?” යනු “ඔබට ... කරන්න පුළුවන්ද?” යන විනීත ප්‍රශ්න රටාවයි. “Treba mi ...” යොදාගෙන තමන්ට අවශ්‍ය දෙයක් කියන්න පුළුවන්. “Ne razumem” යනු මට තේරෙන්නේ නැහැ; එයට පසුව “Možete li da ponovite?” හෝ “Govorite malo sporije, molim” කියා උදව් ඉල්ලන්න.",
+    examples: [
+      { sr: "Izvinite, možete li da mi pomognete?", reading: "ඉස්විනිතෙ, මොෂෙතෙ ලි දා මි පොමොග්නෙතෙ?", si: "සමාවෙන්න, ඔබට මට උදව් කරන්න පුළුවන්ද?" },
+      { sr: "Ne razumem. Možete li da ponovite?", reading: "නේ රාසුමේම්. මොෂෙතෙ ලි දා පොනොවිතෙ?", si: "මට තේරෙන්නේ නැහැ. නැවත කියන්න පුළුවන්ද?" },
+      { sr: "Govorite malo sporije, molim vas.", reading: "ගොවොරිතෙ මාලො ස්පොරියේ, මොලීම් වාස්.", si: "කරුණාකර ටිකක් හෙමින් කතා කරන්න." },
+      { sr: "Gde je najbliža apoteka?", reading: "ග්දේ යේ නයිබ්ලිෂා අපොතෙකා?", si: "ළඟම ඖෂධහල කොහෙද?" }
+    ],
+    dialogue: [
+      { sr: "Izvinite, možete li da mi pomognete?", reading: "ඉස්විනිතෙ, මොෂෙතෙ ලි දා මි පොමොග්නෙතෙ?", si: "සමාවෙන්න, ඔබට මට උදව් කරන්න පුළුවන්ද?" },
+      { sr: "Naravno. Šta vam treba?", reading: "නාරාව්නො. ෂ්තා වාම් ත්‍රෙබා?", si: "අනිවාර්යයෙන්ම. ඔබට මොනවාද අවශ්‍ය?" },
+      { sr: "Tražim ovu adresu, ali ne razumem mapu.", reading: "ත්‍රාෂිම් ඔවු අද්‍රෙසු, අලි නේ රාසුමේම් මාපු.", si: "මම මේ ලිපිනය හොයනවා, නමුත් මට සිතියම තේරෙන්නේ නැහැ." },
+      { sr: "Mogu da vam pokažem. Idite pravo, pa skrenite levo.", reading: "මොගු දා වාම් පොකාෂෙම්. ඉදිතෙ ප්‍රාවො, පා ස්ක්‍රෙනිතෙ ලෙවො.", si: "මට ඔබට පෙන්වන්න පුළුවන්. කෙළින්ම ගිහින් පසුව වමට හැරෙන්න." },
+      { sr: "Možete li da ponovite malo sporije?", reading: "මොෂෙතෙ ලි දා පොනොවිතෙ මාලො ස්පොරියේ?", si: "ටිකක් හෙමින් නැවත කියන්න පුළුවන්ද?" },
+      { sr: "Naravno. Nema problema.", reading: "නාරාව්නො. නෙමා ප්‍රොබ්ලෙමා.", si: "අනිවාර්යයෙන්ම. ප්‍රශ්නයක් නැහැ." }
+    ],
+    practice: [
+      { prompt: "“මට තේරෙන්නේ නැහැ” කියන වාක්‍යය තෝරන්න.", options: ["Razumem.", "Ne razumem.", "Hvala puno."], answer: 1, explanation: "Ne razumem = මට තේරෙන්නේ නැහැ." },
+      { prompt: "“නැවත කියන්න පුළුවන්ද?” අසන්නේ කොහොමද?", options: ["Možete li da ponovite?", "Gde je apoteka?", "Koliko košta?"], answer: 0, explanation: "Možete li da ponovite? යනු නැවත කියන්න පුළුවන්ද? යන්නයි." },
+      { prompt: "“මට වෛද්‍යවරයෙක් අවශ්‍යයි” තෝරන්න.", options: ["Treba mi lekar.", "Treba mi mapa.", "Treba mi voda."], answer: 0, explanation: "Treba mi lekar = මට වෛද්‍යවරයෙක් අවශ්‍යයි." },
+      { prompt: "කෙනෙකුට ටිකක් හෙමින් කතා කරන්න කියන්නේ?", options: ["Govorite malo sporije, molim.", "Vidimo se sutra.", "Račun, molim."], answer: 0, explanation: "Govorite malo sporije, molim = කරුණාකර ටිකක් හෙමින් කතා කරන්න." }
+    ]
+  }
+
 ];
