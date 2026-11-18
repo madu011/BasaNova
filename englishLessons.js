@@ -1393,4 +1393,109 @@ practice:[
 {prompt:"How do you say “සිකුරාදා මට ගැළපෙනවා”?",options:["Friday works for me.","Friday is far away.","I work on Friday."],readings:["ෆ්‍රයිඩේ වර්ක්ස් ෆෝර් මී.","ෆ්‍රයිඩේ ඉස් ෆාර් අවේ.","අයි වර්ක් ඔන් ෆ්‍රයිඩේ."],answer:0,explanation:"Friday works for me = සිකුරාදා මට ගැළපෙනවා."},
 {prompt:"Choose “මට වේලාව වෙනස් කරන්න ඕනේ”.",options:["I need to change the time.","I need to book a room.","I need to leave now."],readings:["අයි නීඩ් ටු චේන්ජ් දි ටයිම්.","අයි නීඩ් ටු බුක් අ රූම්.","අයි නීඩ් ටු ලීව් නව්."],answer:0,explanation:"I need to change the time = මට වේලාව වෙනස් කරන්න ඕනේ."}]}
 
+ // Paired A1 completion batch — lessons 40–42
+ ,{id:"en-a1-u11-l1",unit:"Shopping and everyday services",title:"Lesson 40 · Paying at the supermarket checkout",objective:"Ask about the checkout, bags, payment methods, the total and the receipt.",
+ vocabulary:[
+ {word:"Checkout",reading:"චෙක්අවුට්",meaning:"මුදල් ගෙවන කවුළුව",example:"Where is the checkout?",exampleReading:"වෙයාර් ඉස් දි චෙක්අවුට්?",translation:"මුදල් ගෙවන කවුළුව කොහෙද?"},
+ {word:"Cashier",reading:"කෑෂියර්",meaning:"මුදල් අයකැමි",example:"The cashier is friendly.",exampleReading:"දි කෑෂියර් ඉස් ෆ්‍රෙන්ඩ්ලි.",translation:"මුදල් අයකැමියා සුහදශීලියි."},
+ {word:"Bag",reading:"බැග්",meaning:"බෑගය",example:"I need a bag.",exampleReading:"අයි නීඩ් අ බැග්.",translation:"මට බෑගයක් ඕනේ."},
+ {word:"Cash",reading:"කෑෂ්",meaning:"මුදල්",example:"I am paying in cash.",exampleReading:"අයි ඇම් පේයිං ඉන් කෑෂ්.",translation:"මම මුදලින් ගෙවනවා."},
+ {word:"Card",reading:"කාඩ්",meaning:"කාඩ්පත",example:"I am paying by card.",exampleReading:"අයි ඇම් පේයිං බයි කාඩ්.",translation:"මම කාඩ්පතෙන් ගෙවනවා."},
+ {word:"Receipt",reading:"රිසීට්",meaning:"රිසිට්පත",example:"Can I have the receipt?",exampleReading:"කැන් අයි හැව් දි රිසීට්?",translation:"මට රිසිට්පත ලබාගන්න පුළුවන්ද?"},
+ {word:"Change",reading:"චේන්ජ්",meaning:"ඉතිරි මුදල්",example:"Here is your change.",exampleReading:"හියර් ඉස් යෝර් චේන්ජ්.",translation:"මෙන්න ඔබේ ඉතිරි මුදල්."},
+ {word:"Total",reading:"ටෝටල්",meaning:"මුළු එකතුව",example:"What is the total?",exampleReading:"වොට් ඉස් දි ටෝටල්?",translation:"මුළු එකතුව කීයද?"}],
+ grammarTitle:"Grammar · Paying for shopping",grammar:"Use “I am paying by card” for a card payment and “I am paying in cash” for cash. Ask “What is the total?” to check the full amount. “I need...” is a simple way to request something.",
+ grammarTerms:[
+ {text:"I am paying by card.",reading:"අයි ඇම් පේයිං බයි කාඩ්.",meaning:"මම කාඩ්පතෙන් ගෙවනවා."},
+ {text:"I am paying in cash.",reading:"අයි ඇම් පේයිං ඉන් කෑෂ්.",meaning:"මම මුදලින් ගෙවනවා."},
+ {text:"What is the total?",reading:"වොට් ඉස් දි ටෝටල්?",meaning:"මුළු එකතුව කීයද?"},
+ {text:"I need a bag.",reading:"අයි නීඩ් අ බැග්.",meaning:"මට බෑගයක් ඕනේ."}],
+ examples:[
+ {text:"Where is the checkout?",reading:"වෙයාර් ඉස් දි චෙක්අවුට්?",meaning:"මුදල් ගෙවන කවුළුව කොහෙද?"},
+ {text:"I am paying by card.",reading:"අයි ඇම් පේයිං බයි කාඩ්.",meaning:"මම කාඩ්පතෙන් ගෙවනවා."},
+ {text:"What is the total?",reading:"වොට් ඉස් දි ටෝටල්?",meaning:"මුළු එකතුව කීයද?"},
+ {text:"I don't need a bag, thank you.",reading:"අයි ඩෝන්ට් නීඩ් අ බැග්, තෑන්ක් යූ.",meaning:"මට බෑගයක් අවශ්‍ය නැහැ, ස්තුතියි."}],
+ dialogue:[
+ {text:"Good afternoon. Would you like a bag?",reading:"ගුඩ් ආෆ්ටර්නූන්. වුඩ් යූ ලයික් අ බැග්?",meaning:"සුබ සන්ධ්‍යාවක්. ඔබට බෑගයක් අවශ්‍යද?"},
+ {text:"Yes, please.",reading:"යෙස්, ප්ලීස්.",meaning:"ඔව්, කරුණාකර."},
+ {text:"The total is ten euros.",reading:"දි ටෝටල් ඉස් ටෙන් යූරෝස්.",meaning:"මුළු එකතුව යුරෝ දහයයි."},
+ {text:"Can I pay by card?",reading:"කැන් අයි පේ බයි කාඩ්?",meaning:"මට කාඩ්පතෙන් ගෙවන්න පුළුවන්ද?"},
+ {text:"Of course. Here is your receipt.",reading:"අව් කෝර්ස්. හියර් ඉස් යෝර් රිසීට්.",meaning:"අනිවාර්යයෙන්. මෙන්න ඔබේ රිසිට්පත."},
+ {text:"Thank you. Have a nice day!",reading:"තෑන්ක් යූ. හැව් අ නයිස් ඩේ!",meaning:"ස්තුතියි. සුබ දවසක්!"}],
+ listeningPractice:{prompt:"Listen and choose the correct Sinhala meaning: “I am paying by card.”",audio:"I am paying by card.",options:["මම කාඩ්පතෙන් ගෙවනවා.","මට බෑගයක් ඕනේ.","මුළු එකතුව කීයද?"],readings:["අයි ඇම් පේයිං බයි කාඩ්.","අයි නීඩ් අ බැග්.","වොට් ඉස් දි ටෝටල්?"],answer:0,meaning:"I am paying by card = මම කාඩ්පතෙන් ගෙවනවා."},
+ practice:[
+ {prompt:"Choose the English word for “මුදල් අයකැමි”.",options:["Cashier","Checkout","Receipt"],readings:["කෑෂියර්","චෙක්අවුට්","රිසීට්"],answer:0,explanation:"Cashier = මුදල් අයකැමි."},
+ {prompt:"How do you ask “මුළු එකතුව කීයද?”",options:["What is the total?","Where is the checkout?","Can I have a bag?"],readings:["වොට් ඉස් දි ටෝටල්?","වෙයාර් ඉස් දි චෙක්අවුට්?","කැන් අයි හැව් අ බැග්?"],answer:0,explanation:"What is the total? = මුළු එකතුව කීයද?"},
+ {prompt:"Choose “මම මුදලින් ගෙවනවා”.",options:["I am paying in cash.","I am paying by card.","I need a receipt."],readings:["අයි ඇම් පේයිං ඉන් කෑෂ්.","අයි ඇම් පේයිං බයි කාඩ්.","අයි නීඩ් අ රිසීට්."],answer:0,explanation:"In cash = මුදලින්."},
+ {prompt:"Choose the word for “ඉතිරි මුදල්”.",options:["Change","Total","Cashier"],readings:["චේන්ජ්","ටෝටල්","කෑෂියර්"],answer:0,explanation:"Change = ඉතිරි මුදල්."}]}
+ ,{id:"en-a1-u11-l2",unit:"The city and finding places",title:"Lesson 41 · Places in the city and directions",objective:"Recognise common city places and ask for simple directions.",
+ vocabulary:[
+ {word:"City centre",reading:"සිටි සෙන්ටර්",meaning:"නගර මධ්‍යය",example:"Where is the city centre?",exampleReading:"වෙයාර් ඉස් දි සිටි සෙන්ටර්?",translation:"නගර මධ්‍යය කොහෙද?"},
+ {word:"Street",reading:"ස්ට්‍රීට්",meaning:"වීදිය",example:"This street is long.",exampleReading:"දිස් ස්ට්‍රීට් ඉස් ලෝං.",translation:"මේ වීදිය දිගයි."},
+ {word:"Square",reading:"ස්ක්වෙයාර්",meaning:"චතුරශ්‍රය",example:"The square is nearby.",exampleReading:"දි ස්ක්වෙයාර් ඉස් නියර්බයි.",translation:"චතුරශ්‍රය ළඟයි."},
+ {word:"Bridge",reading:"බ්‍රිජ්",meaning:"පාලම",example:"The bridge is over the river.",exampleReading:"දි බ්‍රිජ් ඉස් ඕවර් දි රිවර්.",translation:"පාලම ගඟට ඉහළින් තියෙනවා."},
+ {word:"Pharmacy",reading:"ෆාමසි",meaning:"ඖෂධහල",example:"The pharmacy is over there.",exampleReading:"දි ෆාමසි ඉස් ඕවර් දෙයාර්.",translation:"ඖෂධහල එතැනයි."},
+ {word:"Bank",reading:"බෑන්ක්",meaning:"බැංකුව",example:"The bank is in the centre.",exampleReading:"දි බෑන්ක් ඉස් ඉන් දි සෙන්ටර්.",translation:"බැංකුව මධ්‍යයේ තියෙනවා."},
+ {word:"Nearby",reading:"නියර්බයි",meaning:"ළඟ",example:"The station is nearby.",exampleReading:"දි ස්ටේෂන් ඉස් නියර්බයි.",translation:"නැවතුම්පොළ ළඟයි."},
+ {word:"Far",reading:"ෆාර්",meaning:"දුර",example:"It is not far.",exampleReading:"ඉට් ඉස් නොට් ෆාර්.",translation:"එය දුර නැහැ."}],
+ grammarTitle:"Grammar · Describing where places are",grammar:"Ask “Where is...?” to find a place. “Nearby” means close, while “far” means a long distance away. Use “Go straight” for directions and “Turn left/right” to change direction.",
+ grammarTerms:[
+ {text:"Where is the pharmacy?",reading:"වෙයාර් ඉස් දි ෆාමසි?",meaning:"ඖෂධහල කොහෙද?"},
+ {text:"It is nearby.",reading:"ඉට් ඉස් නියර්බයි.",meaning:"එය ළඟයි."},
+ {text:"It is not far.",reading:"ඉට් ඉස් නොට් ෆාර්.",meaning:"එය දුර නැහැ."},
+ {text:"Go straight.",reading:"ගෝ ස්ට්‍රේට්.",meaning:"කෙළින් යන්න."}],
+ examples:[
+ {text:"The bank is in the city centre.",reading:"දි බෑන්ක් ඉස් ඉන් දි සිටි සෙන්ටර්.",meaning:"බැංකුව නගර මධ්‍යයේ තියෙනවා."},
+ {text:"The pharmacy is near the square.",reading:"දි ෆාමසි ඉස් නියර් දි ස්ක්වෙයාර්.",meaning:"ඖෂධහල චතුරශ්‍රය ළඟයි."},
+ {text:"The bridge is over the river.",reading:"දි බ්‍රිජ් ඉස් ඕවර් දි රිවර්.",meaning:"පාලම ගඟට ඉහළින් තියෙනවා."},
+ {text:"The station is not far.",reading:"දි ස්ටේෂන් ඉස් නොට් ෆාර්.",meaning:"නැවතුම්පොළ දුර නැහැ."}],
+ dialogue:[
+ {text:"Excuse me, where is the pharmacy?",reading:"ඉක්ස්කියූස් මී, වෙයාර් ඉස් දි ෆාමසි?",meaning:"සමාවෙන්න, ඖෂධහල කොහෙද?"},
+ {text:"Go straight to the square.",reading:"ගෝ ස්ට්‍රේට් ටු දි ස්ක්වෙයාර්.",meaning:"චතුරශ්‍රය දක්වා කෙළින් යන්න."},
+ {text:"Is it far?",reading:"ඉස් ඉට් ෆාර්?",meaning:"එය දුරද?"},
+ {text:"No, it is very close.",reading:"නෝ, ඉට් ඉස් වෙරි ක්ලෝස්.",meaning:"නැහැ, ඉතා ළඟයි."},
+ {text:"Is it next to the bank?",reading:"ඉස් ඉට් නෙක්ස්ට් ටු දි බෑන්ක්?",meaning:"එය බැංකුව අසලද?"},
+ {text:"Yes, across from the bank.",reading:"යෙස්, අක්‍රොස් ෆ්‍රම් දි බෑන්ක්.",meaning:"ඔව්, බැංකුවට ඉදිරිපස."}],
+ listeningPractice:{prompt:"Listen and choose the correct Sinhala meaning: “It is not far.”",audio:"It is not far.",options:["එය දුර නැහැ.","එය ඉතා දුරයි.","වමට හැරෙන්න."],readings:["ඉට් ඉස් නොට් ෆාර්.","ඉට් ඉස් වෙරි ෆාර්.","ටර්න් ලෙෆ්ට්."],answer:0,meaning:"It is not far = එය දුර නැහැ."},
+ practice:[
+ {prompt:"Choose the English word for “ඖෂධහල”.",options:["Pharmacy","Bank","Street"],readings:["ෆාමසි","බෑන්ක්","ස්ට්‍රීට්"],answer:0,explanation:"Pharmacy = ඖෂධහල."},
+ {prompt:"Choose the meaning of “Nearby”.",options:["ළඟ","දුර","මධ්‍යය"],readings:["නියර්බයි","ෆාර්","සෙන්ටර්"],answer:0,explanation:"Nearby = ළඟ."},
+ {prompt:"How do you ask “නගර මධ්‍යය කොහෙද?”",options:["Where is the city centre?","Where is the bridge?","Where is the bank?"],readings:["වෙයාර් ඉස් දි සිටි සෙන්ටර්?","වෙයාර් ඉස් දි බ්‍රිජ්?","වෙයාර් ඉස් දි බෑන්ක්?"],answer:0,explanation:"Where is the city centre? = නගර මධ්‍යය කොහෙද?"},
+ {prompt:"Choose “එය දුර නැහැ”.",options:["It is not far.","It is very far.","The street is long."],readings:["ඉට් ඉස් නොට් ෆාර්.","ඉට් ඉස් වෙරි ෆාර්.","දි ස්ට්‍රීට් ඉස් ලෝං."],answer:0,explanation:"It is not far = එය දුර නැහැ."}]}
+ ,{id:"en-a1-u11-l3",unit:"Workplace safety",title:"Lesson 42 · Workplace safety and instructions",objective:"Understand simple safety instructions and ask for help when something is unsafe.",
+ vocabulary:[
+ {word:"Carefully",reading:"කෙයර්ෆුලි",meaning:"පරිස්සමින්",example:"Work carefully.",exampleReading:"වර්ක් කෙයර්ෆුලි.",translation:"පරිස්සමින් වැඩ කරන්න."},
+ {word:"Dangerous",reading:"ඩේන්ජරස්",meaning:"අනතුරුදායක",example:"This is dangerous.",exampleReading:"දිස් ඉස් ඩේන්ජරස්.",translation:"මේක අනතුරුදායකයි."},
+ {word:"Gloves",reading:"ග්ලව්ස්",meaning:"අත්වැසුම්",example:"Wear your gloves.",exampleReading:"වෙයාර් යෝර් ග්ලව්ස්.",translation:"ඔබේ අත්වැසුම් පළඳින්න."},
+ {word:"Safety",reading:"සේෆ්ටි",meaning:"ආරක්ෂාව",example:"Safety is important.",exampleReading:"සේෆ්ටි ඉස් ඉම්පෝර්ටන්ට්.",translation:"ආරක්ෂාව වැදගත්."},
+ {word:"Floor",reading:"ෆ්ලෝර්",meaning:"බිම",example:"The floor is wet.",exampleReading:"දි ෆ්ලෝර් ඉස් වෙට්.",translation:"බිම තෙතයි."},
+ {word:"Slippery",reading:"ස්ලිපරි",meaning:"ලිස්සන සුළු",example:"The floor is slippery.",exampleReading:"දි ෆ්ලෝර් ඉස් ස්ලිපරි.",translation:"බිම ලිස්සන සුළුයි."},
+ {word:"Help",reading:"හෙල්ප්",meaning:"උදව්",example:"I need help.",exampleReading:"අයි නීඩ් හෙල්ප්.",translation:"මට උදව් අවශ්‍යයි."},
+ {word:"Supervisor",reading:"සූපර්වයිසර්",meaning:"අධීක්ෂක / ප්‍රධානියා",example:"Call the supervisor.",exampleReading:"කෝල් දි සූපර්වයිසර්.",translation:"අධීක්ෂකට කතා කරන්න."}],
+ grammarTitle:"Grammar · Instructions and warnings",grammar:"Use “You must...” for an important requirement. “Don't...” gives a negative instruction. “Be careful!” is a warning. Say “I need help” when you need assistance.",
+ grammarTerms:[
+ {text:"You must wear gloves.",reading:"යූ මස්ට් වෙයාර් ග්ලව්ස්.",meaning:"ඔබ අත්වැසුම් පැළඳිය යුතුයි."},
+ {text:"Don't run.",reading:"ඩෝන්ට් රන්.",meaning:"දුවන්න එපා."},
+ {text:"Be careful!",reading:"බී කෙයර්ෆුල්!",meaning:"පරිස්සම් වෙන්න!"},
+ {text:"I need help.",reading:"අයි නීඩ් හෙල්ප්.",meaning:"මට උදව් අවශ්‍යයි."}],
+ examples:[
+ {text:"The floor is wet.",reading:"දි ෆ්ලෝර් ඉස් වෙට්.",meaning:"බිම තෙතයි."},
+ {text:"Work carefully.",reading:"වර්ක් කෙයර්ෆුලි.",meaning:"පරිස්සමින් වැඩ කරන්න."},
+ {text:"This is dangerous.",reading:"දිස් ඉස් ඩේන්ජරස්.",meaning:"මේක අනතුරුදායකයි."},
+ {text:"Please call the supervisor.",reading:"ප්ලීස් කෝල් දි සූපර්වයිසර්.",meaning:"කරුණාකර අධීක්ෂකට කතා කරන්න."}],
+ dialogue:[
+ {text:"Be careful! The floor is wet.",reading:"බී කෙයර්ෆුල්! දි ෆ්ලෝර් ඉස් වෙට්.",meaning:"පරිස්සම් වෙන්න! බිම තෙතයි."},
+ {text:"Thank you. What should I do?",reading:"තෑන්ක් යූ. වොට් ෂුඩ් අයි ඩූ?",meaning:"ස්තුතියි. මම මොකක්ද කරන්න ඕනේ?"},
+ {text:"Put up a sign and clean the floor.",reading:"පුට් අප් අ සයින් ඇන්ඩ් ක්ලීන් දි ෆ්ලෝර්.",meaning:"සලකුණක් දමා බිම පිරිසිදු කරන්න."},
+ {text:"Should I wear gloves?",reading:"ෂුඩ් අයි වෙයාර් ග්ලව්ස්?",meaning:"මම අත්වැසුම් පැළඳිය යුතුද?"},
+ {text:"Yes, you must wear them.",reading:"යෙස්, යූ මස්ට් වෙයාර් දෙම්.",meaning:"ඔව්, ඔබ ඒවා පැළඳිය යුතුයි."},
+ {text:"I understand. Thank you for your help.",reading:"අයි අන්ඩර්ස්ටෑන්ඩ්. තෑන්ක් යූ ෆෝර් යෝර් හෙල්ප්.",meaning:"මට තේරුණා. ඔබේ උදව්වට ස්තුතියි."}],
+ listeningPractice:{prompt:"Listen and choose the correct Sinhala meaning: “The floor is slippery.”",audio:"The floor is slippery.",options:["බිම ලිස්සන සුළුයි.","බිම වියළියි.","දොර වහන්න."],readings:["දි ෆ්ලෝර් ඉස් ස්ලිපරි.","දි ෆ්ලෝර් ඉස් ඩ්‍රයි.","ක්ලෝස් දි ඩෝර්."],answer:0,meaning:"The floor is slippery = බිම ලිස්සන සුළුයි."},
+ practice:[
+ {prompt:"Choose the English word for “අත්වැසුම්”.",options:["Gloves","Safety","Help"],readings:["ග්ලව්ස්","සේෆ්ටි","හෙල්ප්"],answer:0,explanation:"Gloves = අත්වැසුම්."},
+ {prompt:"Choose “පරිස්සමින්”.",options:["Carefully","Dangerous","Slippery"],readings:["කෙයර්ෆුලි","ඩේන්ජරස්","ස්ලිපරි"],answer:0,explanation:"Carefully = පරිස්සමින්."},
+ {prompt:"How do you say “මට උදව් අවශ්‍යයි”?",options:["I need help.","This is dangerous.","Call the supervisor."],readings:["අයි නීඩ් හෙල්ප්.","දිස් ඉස් ඩේන්ජරස්.","කෝල් දි සූපර්වයිසර්."],answer:0,explanation:"I need help = මට උදව් අවශ්‍යයි."},
+ {prompt:"Choose “දුවන්න එපා”.",options:["Don't run.","Work carefully.","Wear your gloves."],readings:["ඩෝන්ට් රන්.","වර්ක් කෙයර්ෆුලි.","වෙයාර් යෝර් ග්ලව්ස්."],answer:0,explanation:"Don't run = දුවන්න එපා."}]}
+
+
 ];
