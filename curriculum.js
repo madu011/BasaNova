@@ -78,3 +78,14 @@ export const B2_COURSE_STATUS = {
   completedBatch: "lessons 1-50 in both languages",
   remainingValidation: ["editorial review of Serbian idiom, grammar and Sinhala pronunciation", "review English-to-Sinhala translations and example quality", "expand contextual dialogues and topic-specific vocabulary practice", "review B2 revision and final exam questions, listening answer alignment and distractors", "CI and Android device verification"]
 };
+
+
+// C1 paired lesson milestone. First ten lessons are authored in both languages.
+export const C1_COURSE_STATUS = {
+  plannedLessons: 50,
+  authoredLessons: { Serbian: 10, English: 10 },
+  pairedTopics: true,
+  remainingLessons: 40,
+  completedBatch: "lessons 1-10 in both languages",
+  remainingValidation: ["fluent-speaker review of Serbian and English phrasing", "review Sinhala pronunciation and translations", "add lessons 11-50 and cumulative C1 assessments", "CI and Android device verification"]
+};
