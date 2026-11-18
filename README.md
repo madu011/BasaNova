@@ -209,3 +209,10 @@ GitHub Actions runs dependency installation, Expo SDK compatibility checks, and 
 - Serbian listening discrimination was extended with one lesson-aligned item. English lesson 26 includes its own listeningPractice object, rendered by the existing English lesson UI with speech playback and Sinhala answer choices.
 - Both courses now contain 23 structured A1 lesson objects; the visible lesson numbering reaches lesson 26 because earlier content was grouped into units and lesson numbers are not a count of array entries.
 - Source-level counts and lesson alignment were checked. No JavaScript parser, Expo bundle, APK build or Android device test was run. Sinhala pronunciation guides are approximations and should be reviewed by fluent speakers.
+
+
+### Paired A1 lessons 27–28 — Emergency help and returns/exchanges
+- Added matched Serbian and English lessons for asking for help and identifying emergency services, followed by returns, exchanges, receipts, sizes and refunds.
+- Each lesson includes eight vocabulary entries with Sinhala meanings and Sinhala-script readings, five grammar phrase cards, four examples, a six-line dialogue, one listening task and four quizzes.
+- Added two lesson-aligned Serbian listening prompts. Lesson objects remain paired by topic across both courses.
+- Source-level checks are recorded in HANDOFF.md. No native APK build or Android device test is claimed; pronunciation guides remain approximate and need fluent-speaker review.
