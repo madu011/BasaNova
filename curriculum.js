@@ -38,6 +38,16 @@ export const COURSE_LEVELS = [
   }
 ];
 
+// A1 lesson-content milestone. This is an internal project status, not a CEFR certification.
+export const A1_COURSE_STATUS = {
+  plannedLessons: 50,
+  lessonSequenceAdded: true,
+  finalListeningExams: { Serbian: 20, English: 20 },
+  passThresholdPercent: 70,
+  speakingAssessment: "guided self-practice; not automatically graded",
+  remainingValidation: ["reading and writing assessment", "fluent-speaker review of Sinhala pronunciation", "CI and Android artifact verification", "physical-device testing"]
+};
+
 export const LESSON_METHOD = [
   "වචනය හෝ වාක්‍යය",
   "සිංහල උච්චාරණ මඟපෙන්වීම",
