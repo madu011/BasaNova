@@ -3,7 +3,16 @@ name: Android APK build
 on:
   push:
     branches: [main]
+    paths:
+      - '**.js'
+      - 'package.json'
+      - 'app.json'
+      - '.github/workflows/android-apk.yml'
   workflow_dispatch:
+
+concurrency:
+  group: basanova-apk-${{ github.ref }}
+  cancel-in-progress: true
 
 permissions:
   contents: read
@@ -28,8 +37,11 @@ jobs:
           distribution: temurin
           java-version: '17'
 
-      - name: Set up Android SDK
-        uses: android-actions/setup-android@v3
+      - name: Confirm preinstalled Android SDK
+        run: |
+          echo "ANDROID_HOME=$ANDROID_HOME"
+          test -d "$ANDROID_HOME/platform-tools"
+          test -d "$ANDROID_HOME/build-tools"
 
       - name: Generate dependency lock for clean CI install
         run: npm install --package-lock-only --ignore-scripts
