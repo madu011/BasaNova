@@ -583,7 +583,7 @@ export default function App(){
     })}
     <View style={s.quizCard}>
      <Text style={s.lessonHeading}>🎧 Serbian A1 · එක් එක් පාඩමේ සවන් දීම</Text>
-     <Text style={s.sub}>පාඩම් 1–20 සඳහා Serbian හඬ අහලා නිවැරදි සිංහල අර්ථය තෝරන්න. අවශ්‍ය නම් වාක්‍යය සහ පිළිතුරු නැවත අහන්න.</Text>
+     <Text style={s.sub}>දැනට ඇතුළත් කර ඇති පාඩම්වලින් Serbian හඬ අහලා නිවැරදි සිංහල අර්ථය තෝරන්න. අවශ්‍ය නම් වාක්‍යය සහ පිළිතුරු නැවත අහන්න.</Text>
      {SERBIAN_A1_LESSONS.map((lesson,li)=>{
       const q=SERBIAN_A1_LISTENING[li];if(!q)return null;
       const key=lesson.id+"-listen";const selected=lessonAnswers[key];const checked=lessonChecked[key];
@@ -603,7 +603,7 @@ export default function App(){
      })}
     </View>
     <View style={s.quizCard}>
-     <Text style={s.lessonHeading}>🏆 Serbian A1 · පාඩම් 1–20 මිශ්‍ර නැවත පුහුණුව</Text>
+     <Text style={s.lessonHeading}>🏆 Serbian A1 · සම්පූර්ණ කළ පාඩම්වල මිශ්‍ර නැවත පුහුණුව</Text>
      <Text style={s.sub}>සියලු පාඩම්වලින් තෝරාගත් වාක්‍ය අහන්න. සිංහල අකුරෙන් කියන විදිහ බලලා, නිවැරදි තේරුම තෝරන්න.</Text>
      {SERBIAN_A1_MIXED_REVISION.map((q,qi)=>{
       const key="serbian-a1-mixed-"+qi;const selected=lessonAnswers[key];const checked=lessonChecked[key];
@@ -668,8 +668,8 @@ export default function App(){
      </View>;
     })}
     <View style={s.quizCard}>
-     <Text style={s.lessonHeading}>🏆 English A1 · මිශ්‍ර නැවත පුහුණුව</Text>
-     <Text style={s.sub}>පාඩම් 1–20 සඳහා තෝරාගත් වාක්‍යවල මිශ්‍ර පුහුණුව. ඉංග්‍රීසි වාක්‍යය අහලා නිවැරදි සිංහල තේරුම තෝරන්න.</Text>
+     <Text style={s.lessonHeading}>🏆 English A1 · සම්පූර්ණ කළ පාඩම්වල මිශ්‍ර නැවත පුහුණුව</Text>
+     <Text style={s.sub}>A1 පාඩම්වලින් තෝරාගත් වාක්‍යවල මිශ්‍ර පුහුණුව. ඉංග්‍රීසි වාක්‍යය අහලා නිවැරදි සිංහල තේරුම තෝරන්න.</Text>
      {[
       {audio:"Good morning. My name is Anna.",reading:"ගුඩ් මෝර්නිං. මයි නේම් ඉස් ඇනා.",answer:0,options:["සුබ උදෑසනක්. මගේ නම ආනා.","සුබ රාත්‍රියක්. මම හොඳින්.","මට කෝපි එකක් ඕනේ."]},
       {audio:"I am fine, thank you.",reading:"අයි ඇම් ෆයින්, තෑන්ක් යූ.",answer:1,options:["මට උදව් කරන්න පුළුවන්ද?","මම හොඳින්, ස්තුතියි.","මගේ වැඩ මුරය අටට පටන් ගන්නවා."]},
@@ -690,6 +690,9 @@ export default function App(){
       ,{audio:"Take an umbrella. It is raining.",reading:"ටේක් ඇන් අම්බ්‍රෙලා. ඉට් ඉස් රේනින්.",answer:1,options:["ජැකට්ටුවක් ගලවන්න. අව්වයි.","කුඩයක් රැගෙන යන්න. වැස්ස වැටෙනවා.","සපත්තු මිලදී ගන්න."]}
       ,{audio:"There are two rooms in my apartment.",reading:"දෙයාර් ආ ටූ රූම්ස් ඉන් මයි අපාර්ට්මන්ට්.",answer:0,options:["මගේ මහල් නිවාසයේ කාමර දෙකක් තියෙනවා.","මගේ නිවසේ පුටු දෙකක් තියෙනවා.","මගේ කාමරය කුඩායි."]}
       ,{audio:"My sister is a teacher.",reading:"මයි සිස්ටර් ඉස් අ ටීචර්.",answer:2,options:["මගේ සහෝදරයා රියදුරෙක්.","මගේ මව ගෙදර ඉන්නවා.","මගේ සහෝදරිය ගුරුවරියක්."]}
+      ,{audio:"I am paying by card.",reading:"අයි ඇම් පේයිං බයි කාඩ්.",answer:0,options:["මම කාඩ්පතෙන් ගෙවනවා.","මට බෑගයක් ඕනේ.","මුළු එකතුව කීයද?"]}
+      ,{audio:"It is not far.",reading:"ඉට් ඉස් නොට් ෆාර්.",answer:1,options:["එය ඉතා දුරයි.","එය දුර නැහැ.","වමට හැරෙන්න."]}
+      ,{audio:"The floor is slippery.",reading:"දි ෆ්ලෝර් ඉස් ස්ලිපරි.",answer:2,options:["බිම වියළියි.","දොර වහන්න.","බිම ලිස්සන සුළුයි."]}
 
      ].map((q,qi)=>{
       const key="english-a1-mixed-"+qi;const selected=lessonAnswers[key];const checked=lessonChecked[key];
