@@ -1752,11 +1752,11 @@ practice:[
 ,
 {id:"sr-a1-u11-l2",unit:"වැඩ මුර සහ කාලසටහන්",title:"පාඩම 32 · වැඩ මුර සහ කාලසටහන්",objective:"වැඩ කරන වේලාව, උදෑසන හෝ සවස වැඩ මුරය සහ සතිපතා වැඩ දින ගැන විමසීම.",
 vocabulary:[
-{word:"Sm ena",reading:"ස්මෙනා",meaning:"වැඩ මුරය",example:"Radim drugu smenu.",exampleReading:"රාදිම් ද්‍රූගු ස්මෙනු.",translation:"මම දෙවැනි වැඩ මුරයේ වැඩ කරනවා."},
+{word:"Smena",reading:"ස්මෙනා",meaning:"වැඩ මුරය",example:"Radim drugu smenu.",exampleReading:"රාදිම් ද්‍රූගු ස්මෙනු.",translation:"මම දෙවැනි වැඩ මුරයේ වැඩ කරනවා."},
 {word:"Prva smena",reading:"ප්‍ර්වා ස්මෙනා",meaning:"පළමු වැඩ මුරය",example:"Prva smena počinje u sedam.",exampleReading:"ප්‍ර්වා ස්මෙනා පොචින්යෙ උ සෙදාම්.",translation:"පළමු වැඩ මුරය හතට පටන් ගන්නවා."},
 {word:"Druga smena",reading:"ද්‍රූගා ස්මෙනා",meaning:"දෙවැනි වැඩ මුරය",example:"Danas radim drugu smenu.",exampleReading:"දානාස් රාදිම් ද්‍රූගු ස්මෙනු.",translation:"අද මම දෙවැනි වැඩ මුරයේ වැඩ කරනවා."},
 {word:"Raspored",reading:"රාස්පොරෙද්",meaning:"කාලසටහන",example:"Kada izlazi raspored?",exampleReading:"කාදා ඉලසි රාස්පොරෙද්?",translation:"කාලසටහන එන්නේ කවදාද?"},
-{word:"Počinje",reading:"පොචින්යෙ",meaning:"පටන් ගන්නවා",example:"Sm ena počinje u osam.",exampleReading:"ස්මෙනා පොචින්යෙ උ ඔසාම්.",translation:"වැඩ මුරය අටට පටන් ගන්නවා."},
+{word:"Počinje",reading:"පොචින්යෙ",meaning:"පටන් ගන්නවා",example:"Smena počinje u osam.",exampleReading:"ස්මෙනා පොචින්යෙ උ ඔසාම්.",translation:"වැඩ මුරය අටට පටන් ගන්නවා."},
 {word:"Završava se",reading:"සාව්ර්ෂාවා සේ",meaning:"අවසන් වෙනවා",example:"Moj posao se završava u četiri.",exampleReading:"මොයි පොසාඔ සේ සාව්ර්ෂාවා උ චෙතිරි.",translation:"මගේ වැඩ හතරට අවසන් වෙනවා."},
 {word:"Radni dan",reading:"රාද්නි දාන්",meaning:"වැඩ කරන දිනය",example:"Ponedeljak je radni dan.",exampleReading:"පොනෙදෙල්යාක් යේ රාද්නි දාන්.",translation:"සඳුදා වැඩ කරන දිනයක්."},
 {word:"Slobodan dan",reading:"ස්ලොබොදාන් දාන්",meaning:"නිවාඩු දිනය",example:"Nedelja mi je slobodan dan.",exampleReading:"නෙදෙල්යා මි යේ ස්ලොබොදාන් දාන්.",translation:"ඉරිදා මගේ නිවාඩු දිනයයි."}],
