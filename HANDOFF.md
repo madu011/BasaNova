@@ -491,3 +491,38 @@
 - Quality limitations: Serbian naturalness and Sinhala-script pronunciation, English/Sinhala translations, and listening answer alignment require editorial review. Assessments are practice tools, not CEFR certification.
 - No Expo/JavaScript build, CI pass, APK artifact, installation or physical-device test was run.
 - Next: audit B2 final exam listening answers and lesson language quality; run JavaScript/Expo build and CI if possible; then Android APK/device verification. Do not claim build or device success until actually tested.
+
+
+## Superseding verification and development log — 2026-11-18 (latest session)
+
+The earlier progress snapshot and resume note above are stale where they conflict with this section. A fresh repository inspection on `main` confirmed the following actual structured lesson arrays:
+
+| Level | Serbian | English |
+|---|---:|---:|
+| A1 | 50 | 50 |
+| A2 | 50 | 50 |
+| B1 | 50 | 50 |
+| B2 | 50 | 50 |
+| C1 | 10 | 10 |
+| C2 | 0 | 0 |
+
+Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–10 are now the first paired batch; C1 lessons 11–50 and all C2 lessons remain. Counts describe source records, not CEFR certification or native-speaker approval.
+
+### C1 batch 1 completed
+- Added `serbianC1Lessons.js` and `englishC1Lessons.js`, each with 10 paired C1 lessons. Topics: nuance/register; concise executive summaries; academic seminars/argumentation; metaphor/idiom; extended listening/inference; presentations and challenging questions; editing/style consistency; policy analysis; complex professional correspondence; integrated C1 communication.
+- Each lesson includes eight vocabulary entries, Sinhala meanings and approximate Sinhala-script readings, grammar guidance, four examples, a four-line dialogue, one listening check and four practice questions.
+- Integrated both C1 lesson arrays into `App.js` with an expandable C1 Learn panel, TTS controls, listening answer checks and per-question feedback.
+- Updated `curriculum.js` with `C1_COURSE_STATUS` and updated README C1 progress.
+- Commits: Serbian data `93202fcf40386adce8ad3424b122792e3431b441`; English data `5316e2269901121d5ebcc25f307913caec5daa43`; App integration `3c29b891e5f3812daf7c7e842038113e54be78f6`; curriculum status `6ae2d84e0e04164ba3a8e155f9c40257fb9e7440`; README `7915b15575643387a24c68d82449a558ea7504b2`.
+- No JavaScript parser, Expo export, CI completion, APK build, or Android device test has yet been run for this C1 batch. Sinhala readings are approximate. Serbian and English wording, translations, and quiz distractors need fluent-speaker review.
+
+### Exact next task
+1. Verify that all five C1 batch commits are present on `main` and check GitHub Actions for the App integration commit; fix any actual build errors before adding more features.
+2. Continue C1 lessons 11–20 for Serbian and English together, keeping the same lesson structure and quality.
+3. After C1 reaches 50/50, add paired cumulative revision and a practice final assessment; then start C2 lessons 1–10.
+4. Keep the 50-lessons-per-level target and never repeat existing topics or overwrite newer commits. Update this handoff after every batch.
+
+### Known release limitations
+- No APK artifact, installation, or physical Android runtime test is confirmed by this session.
+- Native-speaker review of Serbian idiom/grammar, English naturalness, Sinhala translations and approximate pronunciation remains necessary.
+- C1 currently has lessons only; cumulative revision and final assessment are not yet implemented. C2 is still roadmap-only.
