@@ -159,3 +159,11 @@ GitHub Actions runs dependency installation, Expo SDK compatibility checks, and 
 ### Serbian A1 — audio for embedded phrases
 - Serbian grammar explanations and checked quiz explanations now surface quoted Serbian phrases as individual phrase rows, with approximate Sinhala-script pronunciation and a dedicated Serbian TTS replay control.
 - Existing vocabulary, grammar-term, example, dialogue and Serbian quiz-option controls remain unchanged. Sinhala transliterations are approximate and still need native-speaker review.
+
+
+### Alphabetical vocabulary book
+- Added a dedicated **වචන පොත** tab for the selected Serbian or English course.
+- The book aggregates the current course vocabulary collections and vocabulary packs, plus structured lesson vocabulary, grammar terms, examples, dialogue phrases, practice options, and quoted phrases in grammar/answer explanations.
+- Entries are alphabetically sorted (Serbian Latin letters include its accented characters), searchable by target phrase, Sinhala meaning or Sinhala-script pronunciation, and filterable by letter.
+- Each entry displays the target phrase, approximate Sinhala-script pronunciation, Sinhala meaning, and where available an example with its reading and Sinhala translation; individual TTS controls are provided for the entry and example.
+- The list is derived from app content at runtime, so new entries added to the connected course and lesson data sources appear without maintaining a separate duplicate dictionary. Pronunciation approximations still require language-speaker review.
