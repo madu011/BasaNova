@@ -10,7 +10,9 @@ export const SERBIAN_C1_MIXED_REVISION = [
       "නියැදිය"
     ],
     "answer": 1,
-    "explanation": "predviđanje = දුරදක්නා සැලසුම්කරණය"
+    "explanation": "predviđanje = දුරදක්නා සැලසුම්කරණය",
+    "word": "predviđanje",
+    "wordReading": "ප්ර්එඩ්ව්ඉජ්අන්ය්එ"
   },
   {
     "id": "c1-sr-revision-2",
@@ -22,7 +24,9 @@ export const SERBIAN_C1_MIXED_REVISION = [
       "සමීක්ෂණය"
     ],
     "answer": 0,
-    "explanation": "ustupak = උසස් සාකච්ඡා"
+    "explanation": "ustupak = උසස් සාකච්ඡා",
+    "word": "ustupak",
+    "wordReading": "උස්ට්උප්අක්"
   },
   {
     "id": "c1-sr-revision-3",
@@ -34,7 +38,9 @@ export const SERBIAN_C1_MIXED_REVISION = [
       "ආයතනික පාලනය"
     ],
     "answer": 2,
-    "explanation": "nadzor = ආයතනික පාලනය"
+    "explanation": "nadzor = ආයතනික පාලනය",
+    "word": "nadzor",
+    "wordReading": "න්අඩ්ස්ඔර්"
   },
   {
     "id": "c1-sr-revision-4",
@@ -46,7 +52,9 @@ export const SERBIAN_C1_MIXED_REVISION = [
       "කාලසටහන"
     ],
     "answer": 1,
-    "explanation": "ranjivost = දේශගුණික ප්‍රතිපත්ති"
+    "explanation": "ranjivost = දේශගුණික ප්‍රතිපත්ති",
+    "word": "ranjivost",
+    "wordReading": "ර්අන්ය්ඉව්ඔස්ට්"
   },
   {
     "id": "c1-sr-revision-5",
@@ -58,7 +66,9 @@ export const SERBIAN_C1_MIXED_REVISION = [
       "ඩිජිටල් පරිවර්තනය"
     ],
     "answer": 2,
-    "explanation": "interoperabilnost = ඩිජිටල් පරිවර්තනය"
+    "explanation": "interoperabilnost = ඩිජිටල් පරිවර්තනය",
+    "word": "interoperabilnost",
+    "wordReading": "ඉන්ට්එර්ඔප්එර්අබ්ඉල්න්ඔස්ට්"
   },
   {
     "id": "c1-sr-revision-6",
@@ -70,7 +80,9 @@ export const SERBIAN_C1_MIXED_REVISION = [
       "උපමා"
     ],
     "answer": 0,
-    "explanation": "uzročnost = පර්යේෂණ ක්‍රම"
+    "explanation": "uzročnost = පර්යේෂණ ක්‍රම",
+    "word": "uzročnost",
+    "wordReading": "උස්ර්ඔච්න්ඔස්ට්"
   },
   {
     "id": "c1-sr-revision-7",
@@ -82,7 +94,9 @@ export const SERBIAN_C1_MIXED_REVISION = [
       "විමෝචනය"
     ],
     "answer": 1,
-    "explanation": "podtekst = සාහිත්‍ය විචාරය"
+    "explanation": "podtekst = සාහිත්‍ය විචාරය",
+    "word": "podtekst",
+    "wordReading": "ප්ඔඩ්ට්එක්ස්ට්"
   },
   {
     "id": "c1-sr-revision-8",
@@ -94,7 +108,9 @@ export const SERBIAN_C1_MIXED_REVISION = [
       "අර්බුද සන්නිවේදනය"
     ],
     "answer": 2,
-    "explanation": "transparentnost = අර්බුද සන්නිවේදනය"
+    "explanation": "transparentnost = අර්බුද සන්නිවේදනය",
+    "word": "transparentnost",
+    "wordReading": "ට්ර්අන්ස්ප්අර්එන්ට්න්ඔස්ට්"
   },
   {
     "id": "c1-sr-revision-9",
@@ -106,7 +122,9 @@ export const SERBIAN_C1_MIXED_REVISION = [
       "පක්ෂපාතීත්වය"
     ],
     "answer": 0,
-    "explanation": "izvodljivost = සාක්ෂි මත නිර්දේශ"
+    "explanation": "izvodljivost = සාක්ෂි මත නිර්දේශ",
+    "word": "izvodljivost",
+    "wordReading": "ඉස්ව්ඔඩ්ල්ය්ඉව්ඔස්ට්"
   },
   {
     "id": "c1-sr-revision-10",
@@ -118,7 +136,9 @@ export const SERBIAN_C1_MIXED_REVISION = [
       "සංඛ්‍යාතය"
     ],
     "answer": 1,
-    "explanation": "integritet = වෘත්තීය අඛණ්ඩතාව"
+    "explanation": "integritet = වෘත්තීය අඛණ්ඩතාව",
+    "word": "integritet",
+    "wordReading": "ඉන්ට්එග්ර්ඉට්එට්"
   }
 ];
 export const ENGLISH_C1_MIXED_REVISION = [
@@ -132,7 +152,9 @@ export const ENGLISH_C1_MIXED_REVISION = [
       "නියැදිය"
     ],
     "answer": 1,
-    "explanation": "foresight = දුරදක්නා සැලසුම්කරණය"
+    "explanation": "foresight = දුරදක්නා සැලසුම්කරණය",
+    "word": "foresight",
+    "wordReading": "ෆ්ඔර්එස්ඉග්හ්ට්"
   },
   {
     "id": "c1-en-revision-2",
@@ -144,7 +166,9 @@ export const ENGLISH_C1_MIXED_REVISION = [
       "සමීක්ෂණය"
     ],
     "answer": 0,
-    "explanation": "concession = උසස් සාකච්ඡා"
+    "explanation": "concession = උසස් සාකච්ඡා",
+    "word": "concession",
+    "wordReading": "ක්ඔන්ක්එස්ස්ඉඔන්"
   },
   {
     "id": "c1-en-revision-3",
@@ -156,7 +180,9 @@ export const ENGLISH_C1_MIXED_REVISION = [
       "ආයතනික පාලනය"
     ],
     "answer": 2,
-    "explanation": "oversight = ආයතනික පාලනය"
+    "explanation": "oversight = ආයතනික පාලනය",
+    "word": "oversight",
+    "wordReading": "ඔව්එර්ස්ඉග්හ්ට්"
   },
   {
     "id": "c1-en-revision-4",
@@ -168,7 +194,9 @@ export const ENGLISH_C1_MIXED_REVISION = [
       "කාලසටහන"
     ],
     "answer": 1,
-    "explanation": "vulnerability = දේශගුණික ප්‍රතිපත්ති"
+    "explanation": "vulnerability = දේශගුණික ප්‍රතිපත්ති",
+    "word": "vulnerability",
+    "wordReading": "ව්අල්න්එර්ඇබ්ඉල්ඉට්යි"
   },
   {
     "id": "c1-en-revision-5",
@@ -180,7 +208,9 @@ export const ENGLISH_C1_MIXED_REVISION = [
       "ඩිජිටල් පරිවර්තනය"
     ],
     "answer": 2,
-    "explanation": "interoperability = ඩිජිටල් පරිවර්තනය"
+    "explanation": "interoperability = ඩිජිටල් පරිවර්තනය",
+    "word": "interoperability",
+    "wordReading": "ඉන්ට්එර්ඔප්එර්ඇබ්ඉල්ඉට්යි"
   },
   {
     "id": "c1-en-revision-6",
@@ -192,7 +222,9 @@ export const ENGLISH_C1_MIXED_REVISION = [
       "උපමා"
     ],
     "answer": 0,
-    "explanation": "causality = පර්යේෂණ ක්‍රම"
+    "explanation": "causality = පර්යේෂණ ක්‍රම",
+    "word": "causality",
+    "wordReading": "ක්ඇඅස්ඇල්ඉට්යි"
   },
   {
     "id": "c1-en-revision-7",
@@ -204,7 +236,9 @@ export const ENGLISH_C1_MIXED_REVISION = [
       "විමෝචනය"
     ],
     "answer": 1,
-    "explanation": "subtext = සාහිත්‍ය විචාරය"
+    "explanation": "subtext = සාහිත්‍ය විචාරය",
+    "word": "subtext",
+    "wordReading": "ස්අබ්ට්එක්ස්ට්"
   },
   {
     "id": "c1-en-revision-8",
@@ -216,7 +250,9 @@ export const ENGLISH_C1_MIXED_REVISION = [
       "අර්බුද සන්නිවේදනය"
     ],
     "answer": 2,
-    "explanation": "transparency = අර්බුද සන්නිවේදනය"
+    "explanation": "transparency = අර්බුද සන්නිවේදනය",
+    "word": "transparency",
+    "wordReading": "ට්ර්ඇන්ස්ප්ඇර්එන්ක්යි"
   },
   {
     "id": "c1-en-revision-9",
@@ -228,7 +264,9 @@ export const ENGLISH_C1_MIXED_REVISION = [
       "පක්ෂපාතීත්වය"
     ],
     "answer": 0,
-    "explanation": "feasibility = සාක්ෂි මත නිර්දේශ"
+    "explanation": "feasibility = සාක්ෂි මත නිර්දේශ",
+    "word": "feasibility",
+    "wordReading": "ෆ්එඇස්ඉබ්ඉල්ඉට්යි"
   },
   {
     "id": "c1-en-revision-10",
@@ -240,7 +278,9 @@ export const ENGLISH_C1_MIXED_REVISION = [
       "සංඛ්‍යාතය"
     ],
     "answer": 1,
-    "explanation": "integrity = වෘත්තීය අඛණ්ඩතාව"
+    "explanation": "integrity = වෘත්තීය අඛණ්ඩතාව",
+    "word": "integrity",
+    "wordReading": "ඉන්ට්එග්ර්ඉට්යි"
   }
 ];
 export const SERBIAN_C1_FINAL_EXAM = [
@@ -258,7 +298,8 @@ export const SERBIAN_C1_FINAL_EXAM = [
       "ප්‍රතියෝජනාව"
     ],
     "answer": 2,
-    "explanation": "predviđanje = දුරදක්නා බව"
+    "explanation": "predviđanje = දුරදක්නා බව",
+    "wordReading": "ප්ර්එඩ්ව්ඉජ්අන්ය්එ"
   },
   {
     "id": "c1-sr-final-2",
@@ -274,7 +315,8 @@ export const SERBIAN_C1_FINAL_EXAM = [
       "වගවීම"
     ],
     "answer": 0,
-    "explanation": "ustupak = සහනයක් ලබාදීම"
+    "explanation": "ustupak = සහනයක් ලබාදීම",
+    "wordReading": "උස්ට්උප්අක්"
   },
   {
     "id": "c1-sr-final-3",
@@ -290,7 +332,8 @@ export const SERBIAN_C1_FINAL_EXAM = [
       "අධීක්ෂණය"
     ],
     "answer": 3,
-    "explanation": "nadzor = අධීක්ෂණය"
+    "explanation": "nadzor = අධීක්ෂණය",
+    "wordReading": "න්අඩ්ස්ඔර්"
   },
   {
     "id": "c1-sr-final-4",
@@ -306,7 +349,8 @@ export const SERBIAN_C1_FINAL_EXAM = [
       "දුරදක්නා බව"
     ],
     "answer": 1,
-    "explanation": "ranjivost = අවදානමට ලක්වීමේ හැකියාව"
+    "explanation": "ranjivost = අවදානමට ලක්වීමේ හැකියාව",
+    "wordReading": "ර්අන්ය්ඉව්ඔස්ට්"
   },
   {
     "id": "c1-sr-final-5",
@@ -322,7 +366,8 @@ export const SERBIAN_C1_FINAL_EXAM = [
       "සහනයක් ලබාදීම"
     ],
     "answer": 2,
-    "explanation": "interoperabilnost = පද්ධති අතර අන්තර්ක්‍රියා හැකියාව"
+    "explanation": "interoperabilnost = පද්ධති අතර අන්තර්ක්‍රියා හැකියාව",
+    "wordReading": "ඉන්ට්එර්ඔප්එර්අබ්ඉල්න්ඔස්ට්"
   },
   {
     "id": "c1-sr-final-6",
@@ -338,7 +383,8 @@ export const SERBIAN_C1_FINAL_EXAM = [
       "අධීක්ෂණය"
     ],
     "answer": 1,
-    "explanation": "uzročnost = හේතුකාරකත්වය"
+    "explanation": "uzročnost = හේතුකාරකත්වය",
+    "wordReading": "උස්ර්ඔච්න්ඔස්ට්"
   },
   {
     "id": "c1-sr-final-7",
@@ -354,7 +400,8 @@ export const SERBIAN_C1_FINAL_EXAM = [
       "අවදානමට ලක්වීමේ හැකියාව"
     ],
     "answer": 0,
-    "explanation": "podtekst = යටිපෙළ අර්ථය"
+    "explanation": "podtekst = යටිපෙළ අර්ථය",
+    "wordReading": "ප්ඔඩ්ට්එක්ස්ට්"
   },
   {
     "id": "c1-sr-final-8",
@@ -370,7 +417,8 @@ export const SERBIAN_C1_FINAL_EXAM = [
       "විනිවිදභාවය"
     ],
     "answer": 3,
-    "explanation": "transparentnost = විනිවිදභාවය"
+    "explanation": "transparentnost = විනිවිදභාවය",
+    "wordReading": "ට්ර්අන්ස්ප්අර්එන්ට්න්ඔස්ට්"
   },
   {
     "id": "c1-sr-final-9",
@@ -386,7 +434,8 @@ export const SERBIAN_C1_FINAL_EXAM = [
       "හේතුකාරකත්වය"
     ],
     "answer": 1,
-    "explanation": "izvodljivost = ක්‍රියාත්මක කළ හැකි බව"
+    "explanation": "izvodljivost = ක්‍රියාත්මක කළ හැකි බව",
+    "wordReading": "ඉස්ව්ඔඩ්ල්ය්ඉව්ඔස්ට්"
   },
   {
     "id": "c1-sr-final-10",
@@ -402,7 +451,8 @@ export const SERBIAN_C1_FINAL_EXAM = [
       "යටිපෙළ අර්ථය"
     ],
     "answer": 2,
-    "explanation": "integritet = අඛණ්ඩතාව"
+    "explanation": "integritet = අඛණ්ඩතාව",
+    "wordReading": "ඉන්ට්එග්ර්ඉට්එට්"
   },
   {
     "id": "c1-sr-final-11",
@@ -418,7 +468,8 @@ export const SERBIAN_C1_FINAL_EXAM = [
       "උපකල්පනය"
     ],
     "answer": 3,
-    "explanation": "pretpostavka = උපකල්පනය"
+    "explanation": "pretpostavka = උපකල්පනය",
+    "wordReading": "ප්ර්එට්ප්ඔස්ට්අව්ක්අ"
   },
   {
     "id": "c1-sr-final-12",
@@ -434,7 +485,8 @@ export const SERBIAN_C1_FINAL_EXAM = [
       "ක්‍රියාත්මක කළ හැකි බව"
     ],
     "answer": 0,
-    "explanation": "protivpredlog = ප්‍රතියෝජනාව"
+    "explanation": "protivpredlog = ප්‍රතියෝජනාව",
+    "wordReading": "ප්ර්ඔට්ඉව්ප්ර්එඩ්ල්ඔග්"
   },
   {
     "id": "c1-sr-final-13",
@@ -450,7 +502,8 @@ export const SERBIAN_C1_FINAL_EXAM = [
       "අඛණ්ඩතාව"
     ],
     "answer": 2,
-    "explanation": "odgovornost = වගවීම"
+    "explanation": "odgovornost = වගවීම",
+    "wordReading": "ඔඩ්ග්ඔව්ඔර්න්ඔස්ට්"
   },
   {
     "id": "c1-sr-final-14",
@@ -466,7 +519,8 @@ export const SERBIAN_C1_FINAL_EXAM = [
       "උපකල්පනය"
     ],
     "answer": 1,
-    "explanation": "biodiverzitet = ජෛව විවිධත්වය"
+    "explanation": "biodiverzitet = ජෛව විවිධත්වය",
+    "wordReading": "බ්ඉඔඩ්ඉව්එර්ස්ඉට්එට්"
   },
   {
     "id": "c1-sr-final-15",
@@ -574,7 +628,8 @@ export const ENGLISH_C1_FINAL_EXAM = [
       "ප්‍රතියෝජනාව"
     ],
     "answer": 2,
-    "explanation": "foresight = දුරදක්නා බව"
+    "explanation": "foresight = දුරදක්නා බව",
+    "wordReading": "ෆ්ඔර්එස්ඉග්හ්ට්"
   },
   {
     "id": "c1-en-final-2",
@@ -590,7 +645,8 @@ export const ENGLISH_C1_FINAL_EXAM = [
       "වගවීම"
     ],
     "answer": 0,
-    "explanation": "concession = සහනයක් ලබාදීම"
+    "explanation": "concession = සහනයක් ලබාදීම",
+    "wordReading": "ක්ඔන්ක්එස්ස්ඉඔන්"
   },
   {
     "id": "c1-en-final-3",
@@ -606,7 +662,8 @@ export const ENGLISH_C1_FINAL_EXAM = [
       "අධීක්ෂණය"
     ],
     "answer": 3,
-    "explanation": "oversight = අධීක්ෂණය"
+    "explanation": "oversight = අධීක්ෂණය",
+    "wordReading": "ඔව්එර්ස්ඉග්හ්ට්"
   },
   {
     "id": "c1-en-final-4",
@@ -622,7 +679,8 @@ export const ENGLISH_C1_FINAL_EXAM = [
       "දුරදක්නා බව"
     ],
     "answer": 1,
-    "explanation": "vulnerability = අවදානමට ලක්වීමේ හැකියාව"
+    "explanation": "vulnerability = අවදානමට ලක්වීමේ හැකියාව",
+    "wordReading": "ව්අල්න්එර්ඇබ්ඉල්ඉට්යි"
   },
   {
     "id": "c1-en-final-5",
@@ -638,7 +696,8 @@ export const ENGLISH_C1_FINAL_EXAM = [
       "සහනයක් ලබාදීම"
     ],
     "answer": 2,
-    "explanation": "interoperability = පද්ධති අතර අන්තර්ක්‍රියා හැකියාව"
+    "explanation": "interoperability = පද්ධති අතර අන්තර්ක්‍රියා හැකියාව",
+    "wordReading": "ඉන්ට්එර්ඔප්එර්ඇබ්ඉල්ඉට්යි"
   },
   {
     "id": "c1-en-final-6",
@@ -654,7 +713,8 @@ export const ENGLISH_C1_FINAL_EXAM = [
       "අධීක්ෂණය"
     ],
     "answer": 1,
-    "explanation": "causality = හේතුකාරකත්වය"
+    "explanation": "causality = හේතුකාරකත්වය",
+    "wordReading": "ක්ඇඅස්ඇල්ඉට්යි"
   },
   {
     "id": "c1-en-final-7",
@@ -670,7 +730,8 @@ export const ENGLISH_C1_FINAL_EXAM = [
       "අවදානමට ලක්වීමේ හැකියාව"
     ],
     "answer": 0,
-    "explanation": "subtext = යටිපෙළ අර්ථය"
+    "explanation": "subtext = යටිපෙළ අර්ථය",
+    "wordReading": "ස්අබ්ට්එක්ස්ට්"
   },
   {
     "id": "c1-en-final-8",
@@ -686,7 +747,8 @@ export const ENGLISH_C1_FINAL_EXAM = [
       "විනිවිදභාවය"
     ],
     "answer": 3,
-    "explanation": "transparency = විනිවිදභාවය"
+    "explanation": "transparency = විනිවිදභාවය",
+    "wordReading": "ට්ර්ඇන්ස්ප්ඇර්එන්ක්යි"
   },
   {
     "id": "c1-en-final-9",
@@ -702,7 +764,8 @@ export const ENGLISH_C1_FINAL_EXAM = [
       "හේතුකාරකත්වය"
     ],
     "answer": 1,
-    "explanation": "feasibility = ක්‍රියාත්මක කළ හැකි බව"
+    "explanation": "feasibility = ක්‍රියාත්මක කළ හැකි බව",
+    "wordReading": "ෆ්එඇස්ඉබ්ඉල්ඉට්යි"
   },
   {
     "id": "c1-en-final-10",
@@ -718,7 +781,8 @@ export const ENGLISH_C1_FINAL_EXAM = [
       "යටිපෙළ අර්ථය"
     ],
     "answer": 2,
-    "explanation": "integrity = අඛණ්ඩතාව"
+    "explanation": "integrity = අඛණ්ඩතාව",
+    "wordReading": "ඉන්ට්එග්ර්ඉට්යි"
   },
   {
     "id": "c1-en-final-11",
@@ -734,7 +798,8 @@ export const ENGLISH_C1_FINAL_EXAM = [
       "උපකල්පනය"
     ],
     "answer": 3,
-    "explanation": "assumption = උපකල්පනය"
+    "explanation": "assumption = උපකල්පනය",
+    "wordReading": "ඇස්ස්අම්ප්ෂන්"
   },
   {
     "id": "c1-en-final-12",
@@ -750,7 +815,8 @@ export const ENGLISH_C1_FINAL_EXAM = [
       "ක්‍රියාත්මක කළ හැකි බව"
     ],
     "answer": 0,
-    "explanation": "counterproposal = ප්‍රතියෝජනාව"
+    "explanation": "counterproposal = ප්‍රතියෝජනාව",
+    "wordReading": "ක්ඔඅන්ට්එර්ප්ර්ඔප්ඔස්ඇල්"
   },
   {
     "id": "c1-en-final-13",
@@ -766,7 +832,8 @@ export const ENGLISH_C1_FINAL_EXAM = [
       "අඛණ්ඩතාව"
     ],
     "answer": 2,
-    "explanation": "accountability = වගවීම"
+    "explanation": "accountability = වගවීම",
+    "wordReading": "ඇක්ක්ඔඅන්ට්ඇබ්ඉල්ඉට්යි"
   },
   {
     "id": "c1-en-final-14",
@@ -782,7 +849,8 @@ export const ENGLISH_C1_FINAL_EXAM = [
       "උපකල්පනය"
     ],
     "answer": 1,
-    "explanation": "biodiversity = ජෛව විවිධත්වය"
+    "explanation": "biodiversity = ජෛව විවිධත්වය",
+    "wordReading": "බ්ඉඔඩ්ඉව්එර්ස්ඉට්යි"
   },
   {
     "id": "c1-en-final-15",
