@@ -1712,4 +1712,114 @@ practice:[
 {prompt:"“මම විනාඩි දහයකින් එනවා” කියන්නේ?",options:["Čekam deset minuta.","Stižem za deset minuta.","Radim deset sati."],answer:1,explanation:"Stižem za deset minuta = මම විනාඩි දහයකින් එනවා."},
 {prompt:"“ප්‍රශ්නයක් නැහැ” යන වාක්‍යය?",options:["Nema problema.","Nema vremena.","Dobar dan."],answer:0,explanation:"Nema problema = ප්‍රශ්නයක් නැහැ."}]}
 
+
+,
+{id:"sr-a1-u11-l1",unit:"දෛනික පුරුදු",title:"පාඩම 31 · දෛනික පුරුදු",objective:"දිනපතා කරන දේවල්, උදෑසන සහ සවස පුරුදු ගැන සරලව කතා කිරීම.",
+vocabulary:[
+{word:"Ustajem",reading:"උස්තායෙම්",meaning:"මම නැගිටිනවා",example:"Ustajem u sedam.",exampleReading:"උස්තායෙම් උ සෙදාම්.",translation:"මම හතට නැගිටිනවා."},
+{word:"Doručak",reading:"දොරූචාක්",meaning:"උදෑසන ආහාරය",example:"Doručkujem kod kuće.",exampleReading:"දොරූච්කුයෙම් කොද් කුචෙ.",translation:"මම ගෙදරදී උදෑසන ආහාරය ගන්නවා."},
+{word:"Radim",reading:"රාදිම්",meaning:"මම වැඩ කරනවා",example:"Radim svaki dan.",exampleReading:"රාදිම් ස්වාකි දාන්.",translation:"මම හැමදාම වැඩ කරනවා."},
+{word:"Uveče",reading:"උවෙචෙ",meaning:"සවස / රාත්‍රියේ",example:"Uveče gledam televiziju.",exampleReading:"උවෙචෙ ග්ලෙදාම් තෙලෙවිසියු.",translation:"මම සවස රූපවාහිනිය බලනවා."},
+{word:"Spavam",reading:"ස්පාවාම්",meaning:"මම නිදාගන්නවා",example:"Spavam osam sati.",exampleReading:"ස්පාවාම් ඔසාම් සාති.",translation:"මම පැය අටක් නිදාගන්නවා."},
+{word:"Svaki dan",reading:"ස්වාකි දාන්",meaning:"හැමදාම",example:"Šetam svaki dan.",exampleReading:"ෂෙතාම් ස්වාකි දාන්.",translation:"මම හැමදාම ඇවිදිනවා."},
+{word:"Obično",reading:"ඔබිච්නො",meaning:"සාමාන්‍යයෙන්",example:"Obično pijem kafu ujutru.",exampleReading:"ඔබිච්නො පියෙම් කාෆු උයූත්‍රු.",translation:"මම සාමාන්‍යයෙන් උදේ කෝපි බොනවා."},
+{word:"Posle posla",reading:"පොස්ලෙ පොස්ලා",meaning:"වැඩෙන් පස්සේ",example:"Posle posla idem kući.",exampleReading:"පොස්ලෙ පොස්ලා ඉදෙම් කුචි.",translation:"වැඩෙන් පස්සේ මම ගෙදර යනවා."}],
+grammarTitle:"ව්‍යාකරණය · දෛනික පුරුදු ගැන කතා කිරීම",
+grammar:"දිනපතා කරන ක්‍රියා ගැන කියන්න වර්තමාන කාලය භාවිත කරන්න. “Obično” යනු සාමාන්‍යයෙන්, “svaki dan” යනු හැමදාම. වේලාවක් එක් කිරීමට “u sedam” (හතට) වැනි රටාවක් භාවිත කරන්න.",
+grammarTerms:[
+{sr:"Ustajem u sedam.",reading:"උස්තායෙම් උ සෙදාම්.",si:"මම හතට නැගිටිනවා."},
+{sr:"Obično pijem kafu.",reading:"ඔබිච්නො පියෙම් කාෆු.",si:"මම සාමාන්‍යයෙන් කෝපි බොනවා."},
+{sr:"Radim svaki dan.",reading:"රාදිම් ස්වාකි දාන්.",si:"මම හැමදාම වැඩ කරනවා."},
+{sr:"Posle posla idem kući.",reading:"පොස්ලෙ පොස්ලා ඉදෙම් කුචි.",si:"වැඩෙන් පස්සේ මම ගෙදර යනවා."}],
+examples:[
+{sr:"Ustajem u šest i idem na posao.",reading:"උස්තායෙම් උ ෂෙස්ත් ඉ ඉදෙම් නා පොසාඔ.",si:"මම හයට නැගිටලා වැඩට යනවා."},
+{sr:"Doručkujem u sedam sati.",reading:"දොරූච්කුයෙම් උ සෙදාම් සාති.",si:"මම හතට උදෑසන ආහාරය ගන්නවා."},
+{sr:"Uveče učim srpski.",reading:"උවෙචෙ උචිම් ස්ර්ප්ස්කි.",si:"මම සවස සර්බියානු භාෂාව ඉගෙනගන්නවා."},
+{sr:"Obično spavam u jedanaest.",reading:"ඔබිච්නො ස්පාවාම් උ යෙදානාඑස්ත්.",si:"මම සාමාන්‍යයෙන් එකොළහට නිදාගන්නවා."}],
+dialogue:[
+{sr:"Kada ustaješ?",reading:"කාදා උස්තායෙෂ්?",si:"ඔයා නැගිටින්නේ කීයටද?"},
+{sr:"Obično ustajem u šest.",reading:"ඔබිච්නො උස්තායෙම් උ ෂෙස්ත්.",si:"මම සාමාන්‍යයෙන් හයට නැගිටිනවා."},
+{sr:"Da li doručkuješ kod kuće?",reading:"දා ලි දොරූච්කුයෙෂ් කොද් කුචෙ?",si:"ඔයා ගෙදරදී උදෑසන ආහාරය ගන්නවාද?"},
+{sr:"Da, pijem kafu i jedem hleb.",reading:"දා, පියෙම් කාෆු ඉ යෙදෙම් හ්ලෙබ්.",si:"ඔව්, මම කෝපි බීලා පාන් කනවා."},
+{sr:"Šta radiš posle posla?",reading:"ෂ්තා රාදිෂ් පොස්ලෙ පොස්ලා?",si:"වැඩෙන් පස්සේ ඔයා මොකද කරන්නේ?"},
+{sr:"Idem kući i učim srpski.",reading:"ඉදෙම් කුචි ඉ උචිම් ස්ර්ප්ස්කි.",si:"මම ගෙදර ගිහින් සර්බියානු භාෂාව ඉගෙනගන්නවා."}],
+listeningPractice:{prompt:"හඬ අසා නිවැරදි තේරුම තෝරන්න: “Ustajem u sedam.”",audio:"Ustajem u sedam.",options:["මම හතට නැගිටිනවා.","මම හතට වැඩට යනවා.","මම හතට නිදාගන්නවා."],readings:["උස්තායෙම් උ සෙදාම්.","රාදිම් උ සෙදාම්.","ස්පාවාම් උ සෙදාම්."],answer:0,meaning:"Ustajem u sedam = මම හතට නැගිටිනවා."},
+practice:[
+{prompt:"“උදෑසන ආහාරය” තෝරන්න.",options:["Doručak","Večera","Posao"],answer:0,explanation:"Doručak = උදෑසන ආහාරය."},
+{prompt:"“මම වැඩ කරනවා” කියන්නේ?",options:["Spavam","Radim","Ustajem"],answer:1,explanation:"Radim = මම වැඩ කරනවා."},
+{prompt:"“වැඩෙන් පස්සේ” යන වචන?",options:["Pre posla","Posle posla","Svaki dan"],answer:1,explanation:"Posle posla = වැඩෙන් පස්සේ."},
+{prompt:"“මම සාමාන්‍යයෙන් කෝපි බොනවා” තෝරන්න.",options:["Obično pijem kafu.","Obično spavam.","Obično radim."],answer:0,explanation:"Obično pijem kafu = මම සාමාන්‍යයෙන් කෝපි බොනවා."}]}
+,
+{id:"sr-a1-u11-l2",unit:"වැඩ මුර සහ කාලසටහන්",title:"පාඩම 32 · වැඩ මුර සහ කාලසටහන්",objective:"වැඩ කරන වේලාව, උදෑසන හෝ සවස වැඩ මුරය සහ සතිපතා වැඩ දින ගැන විමසීම.",
+vocabulary:[
+{word:"Sm ena",reading:"ස්මෙනා",meaning:"වැඩ මුරය",example:"Radim drugu smenu.",exampleReading:"රාදිම් ද්‍රූගු ස්මෙනු.",translation:"මම දෙවැනි වැඩ මුරයේ වැඩ කරනවා."},
+{word:"Prva smena",reading:"ප්‍ර්වා ස්මෙනා",meaning:"පළමු වැඩ මුරය",example:"Prva smena počinje u sedam.",exampleReading:"ප්‍ර්වා ස්මෙනා පොචින්යෙ උ සෙදාම්.",translation:"පළමු වැඩ මුරය හතට පටන් ගන්නවා."},
+{word:"Druga smena",reading:"ද්‍රූගා ස්මෙනා",meaning:"දෙවැනි වැඩ මුරය",example:"Danas radim drugu smenu.",exampleReading:"දානාස් රාදිම් ද්‍රූගු ස්මෙනු.",translation:"අද මම දෙවැනි වැඩ මුරයේ වැඩ කරනවා."},
+{word:"Raspored",reading:"රාස්පොරෙද්",meaning:"කාලසටහන",example:"Kada izlazi raspored?",exampleReading:"කාදා ඉලසි රාස්පොරෙද්?",translation:"කාලසටහන එන්නේ කවදාද?"},
+{word:"Počinje",reading:"පොචින්යෙ",meaning:"පටන් ගන්නවා",example:"Sm ena počinje u osam.",exampleReading:"ස්මෙනා පොචින්යෙ උ ඔසාම්.",translation:"වැඩ මුරය අටට පටන් ගන්නවා."},
+{word:"Završava se",reading:"සාව්ර්ෂාවා සේ",meaning:"අවසන් වෙනවා",example:"Moj posao se završava u četiri.",exampleReading:"මොයි පොසාඔ සේ සාව්ර්ෂාවා උ චෙතිරි.",translation:"මගේ වැඩ හතරට අවසන් වෙනවා."},
+{word:"Radni dan",reading:"රාද්නි දාන්",meaning:"වැඩ කරන දිනය",example:"Ponedeljak je radni dan.",exampleReading:"පොනෙදෙල්යාක් යේ රාද්නි දාන්.",translation:"සඳුදා වැඩ කරන දිනයක්."},
+{word:"Slobodan dan",reading:"ස්ලොබොදාන් දාන්",meaning:"නිවාඩු දිනය",example:"Nedelja mi je slobodan dan.",exampleReading:"නෙදෙල්යා මි යේ ස්ලොබොදාන් දාන්.",translation:"ඉරිදා මගේ නිවාඩු දිනයයි."}],
+grammarTitle:"ව්‍යාකරණය · වැඩ මුර සහ වේලාවන්",
+grammar:"“Radim prvu/drugu smenu” යනු පළමු/දෙවැනි වැඩ මුරයේ වැඩ කරනවා යන්නයි. ආරම්භය අසන්න “Kada počinje ...?” සහ අවසන් වේලාව අසන්න “Kada se završava ...?” භාවිත කරන්න.",
+grammarTerms:[
+{sr:"Radim prvu smenu.",reading:"රාදිම් ප්‍ර්වු ස්මෙනු.",si:"මම පළමු වැඩ මුරයේ වැඩ කරනවා."},
+{sr:"Radim drugu smenu.",reading:"රාදිම් ද්‍රූගු ස්මෙනු.",si:"මම දෙවැනි වැඩ මුරයේ වැඩ කරනවා."},
+{sr:"Kada počinje smena?",reading:"කාදා පොචින්යෙ ස්මෙනා?",si:"වැඩ මුරය පටන් ගන්නේ කීයටද?"},
+{sr:"Kada se završava posao?",reading:"කාදා සේ සාව්ර්ෂාවා පොසාඔ?",si:"වැඩ අවසන් වෙන්නේ කීයටද?"}],
+examples:[
+{sr:"Moja smena počinje u osam.",reading:"මොයා ස්මෙනා පොචින්යෙ උ ඔසාම්.",si:"මගේ වැඩ මුරය අටට පටන් ගන්නවා."},
+{sr:"Danas radim prvu smenu.",reading:"දානාස් රාදිම් ප්‍ර්වු ස්මෙනු.",si:"අද මම පළමු වැඩ මුරයේ වැඩ කරනවා."},
+{sr:"Sutra imam slobodan dan.",reading:"සුත්‍රා ඉමාම් ස්ලොබොදාන් දාන්.",si:"හෙට මට නිවාඩු දිනයක්."},
+{sr:"Raspored dobijamo u petak.",reading:"රාස්පොරෙද් දොබියාමො උ පෙතාක්.",si:"අපිට කාලසටහන සිකුරාදා ලැබෙනවා."}],
+dialogue:[
+{sr:"Koju smenu radiš danas?",reading:"කොයු ස්මෙනු රාදිෂ් දානාස්?",si:"අද ඔයා වැඩ කරන්නේ මොන වැඩ මුරයේද?"},
+{sr:"Danas radim drugu smenu.",reading:"දානාස් රාදිම් ද්‍රූගු ස්මෙනු.",si:"අද මම දෙවැනි වැඩ මුරයේ වැඩ කරනවා."},
+{sr:"U koliko sati počinje?",reading:"උ කොලිකො සාති පොචින්යෙ?",si:"ඒක පටන් ගන්නේ කීයටද?"},
+{sr:"Počinje u dva popodne.",reading:"පොචින්යෙ උ ද්වා පොපොද්නෙ.",si:"දවල් දෙකට පටන් ගන්නවා."},
+{sr:"A kada se završava?",reading:"ආ කාදා සේ සාව්ර්ෂාවා?",si:"එතකොට අවසන් වෙන්නේ කීයටද?"},
+{sr:"U deset uveče.",reading:"උ දෙසෙත් උවෙචෙ.",si:"රාත්‍රී දහයට."}],
+listeningPractice:{prompt:"හඬ අසා නිවැරදි තේරුම තෝරන්න: “Radim drugu smenu.”",audio:"Radim drugu smenu.",options:["මම දෙවැනි වැඩ මුරයේ වැඩ කරනවා.","මම අද නිවාඩුයි.","මම උදෑසන ආහාරය ගන්නවා."],readings:["රාදිම් ද්‍රූගු ස්මෙනු.","ඉමාම් ස්ලොබොදාන් දාන්.","දොරූච්කුයෙම්."],answer:0,meaning:"Radim drugu smenu = මම දෙවැනි වැඩ මුරයේ වැඩ කරනවා."},
+practice:[
+{prompt:"“වැඩ මුරය” යන වචනය?",options:["Smena","Adresa","Vreme"],answer:0,explanation:"Smena = වැඩ මුරය."},
+{prompt:"“කාලසටහන” තෝරන්න.",options:["Raspored","Doručak","Vikend"],answer:0,explanation:"Raspored = කාලසටහන."},
+{prompt:"“මම පළමු වැඩ මුරයේ වැඩ කරනවා” කියන්නේ?",options:["Radim prvu smenu.","Radim drugu smenu.","Imam slobodan dan."],answer:0,explanation:"Radim prvu smenu = මම පළමු වැඩ මුරයේ වැඩ කරනවා."},
+{prompt:"“නිවාඩු දිනය” යන වචන?",options:["Radni dan","Slobodan dan","Svaki dan"],answer:1,explanation:"Slobodan dan = නිවාඩු දිනය."}]}
+,
+{id:"sr-a1-u11-l3",unit:"නිවාඩු දිනයක් ඉල්ලීම",title:"පාඩම 33 · නිවාඩු දිනයක් ඉල්ලීම",objective:"කළමනාකරුවෙකුගෙන් නිවාඩු දිනයක් ආචාරශීලීව ඉල්ලීම සහ ඒ ගැන පිළිතුරු දීම.",
+vocabulary:[
+{word:"Slobodan dan",reading:"ස්ලොබොදාන් දාන්",meaning:"නිවාඩු දිනය",example:"Treba mi slobodan dan.",exampleReading:"ත්‍රෙබා මි ස්ලොබොදාන් දාන්.",translation:"මට නිවාඩු දිනයක් අවශ්‍යයි."},
+{word:"Odmor",reading:"ඔද්මොර්",meaning:"විවේකය / නිවාඩුව",example:"Želim da uzmem odmor.",exampleReading:"ෂෙලිම් දා උස්මෙම් ඔද්මොර්.",translation:"මට නිවාඩුවක් ගන්න ඕනේ."},
+{word:"Molba",reading:"මොල්බා",meaning:"ඉල්ලීම",example:"Imam jednu molbu.",exampleReading:"ඉමාම් යෙද්නු මොල්බු.",translation:"මට එක ඉල්ලීමක් තියෙනවා."},
+{word:"Menadžer",reading:"මෙනාජෙර්",meaning:"කළමනාකරු",example:"Razgovaraću sa menadžerom.",exampleReading:"රාස්ගොවාරාචු සා මෙනාජෙරොම්.",translation:"මම කළමනාකරු සමඟ කතා කරන්නම්."},
+{word:"Da li mogu",reading:"දා ලි මොගු",meaning:"මට පුළුවන්ද?",example:"Da li mogu da uzmem slobodan dan?",exampleReading:"දා ලි මොගු දා උස්මෙම් ස්ලොබොදාන් දාන්?",translation:"මට නිවාඩු දිනයක් ගන්න පුළුවන්ද?"},
+{word:"Sledeće nedelje",reading:"ස්ලෙදෙචෙ නෙදෙල්යෙ",meaning:"ඊළඟ සතියේ",example:"Treba mi slobodan dan sledeće nedelje.",exampleReading:"ත්‍රෙබා මි ස්ලොබොදාන් දාන් ස්ලෙදෙචෙ නෙදෙල්යෙ.",translation:"මට ඊළඟ සතියේ නිවාඩු දිනයක් අවශ්‍යයි."},
+{word:"Razumem",reading:"රාසුමේම්",meaning:"මට තේරෙනවා",example:"Razumem, hvala.",exampleReading:"රාසුමේම්, හ්වාලා.",translation:"මට තේරෙනවා, ස්තුතියි."},
+{word:"Dogovoreno",reading:"දොගොවොරෙනො",meaning:"එකඟයි / තීරණය කළා",example:"U redu, dogovoreno.",exampleReading:"උ රෙදු, දොගොවොරෙනො.",translation:"හරි, එකඟයි."}],
+grammarTitle:"ව්‍යාකරණය · ආචාරශීලී ඉල්ලීමක් කිරීම",
+grammar:"“Da li mogu da ...?” යනු “මට ... කරන්න පුළුවන්ද?” යන ආචාරශීලී ප්‍රශ්න රටාවයි. “Treba mi ...” යනු “මට ... අවශ්‍යයි”. දිනයක් කියන විට “u petak” (සිකුරාදා) හෝ “sledeće nedelje” (ඊළඟ සතියේ) භාවිත කරන්න.",
+grammarTerms:[
+{sr:"Da li mogu da uzmem slobodan dan?",reading:"දා ලි මොගු දා උස්මෙම් ස්ලොබොදාන් දාන්?",si:"මට නිවාඩු දිනයක් ගන්න පුළුවන්ද?"},
+{sr:"Treba mi slobodan dan u petak.",reading:"ත්‍රෙබා මි ස්ලොබොදාන් දාන් උ පෙතාක්.",si:"මට සිකුරාදා නිවාඩු දිනයක් අවශ්‍යයි."},
+{sr:"Imam jednu molbu.",reading:"ඉමාම් යෙද්නු මොල්බු.",si:"මට එක ඉල්ලීමක් තියෙනවා."},
+{sr:"U redu, dogovoreno.",reading:"උ රෙදු, දොගොවොරෙනො.",si:"හරි, එකඟයි."}],
+examples:[
+{sr:"Da li mogu da uzmem slobodan dan u ponedeljak?",reading:"දා ලි මොගු දා උස්මෙම් ස්ලොබොදාන් දාන් උ පොනෙදෙල්යාක්?",si:"මට සඳුදා නිවාඩු දිනයක් ගන්න පුළුවන්ද?"},
+{sr:"Treba mi odmor sledeće nedelje.",reading:"ත්‍රෙබා මි ඔද්මොර් ස්ලෙදෙචෙ නෙදෙල්යෙ.",si:"මට ඊළඟ සතියේ නිවාඩුවක් අවශ්‍යයි."},
+{sr:"Mogu da zamenim smenu sa kolegom.",reading:"මොගු දා සාමෙනිම් ස්මෙනු සා කොලෙගොම්.",si:"මට සහකාර සේවකයෙකු සමඟ වැඩ මුරය මාරු කරගන්න පුළුවන්."},
+{sr:"Hvala vam na razumevanju.",reading:"හ්වාලා වාම් නා රාසුමෙවාන්යු.",si:"ඔබගේ අවබෝධයට ස්තුතියි."}],
+dialogue:[
+{sr:"Dobar dan. Imam jednu molbu.",reading:"දොබාර් දාන්. ඉමාම් යෙද්නු මොල්බු.",si:"සුබ දවසක්. මට එක ඉල්ලීමක් තියෙනවා."},
+{sr:"Naravno. Kako mogu da pomognem?",reading:"නාරාව්නො. කාකො මොගු දා පොමොග්නෙම්?",si:"අනිවාර්යයෙන්. මට උදව් කරන්න පුළුවන් කොහොමද?"},
+{sr:"Da li mogu da uzmem slobodan dan u petak?",reading:"දා ලි මොගු දා උස්මෙම් ස්ලොබොදාන් දාන් උ පෙතාක්?",si:"මට සිකුරාදා නිවාඩු දිනයක් ගන්න පුළුවන්ද?"},
+{sr:"Moram prvo da proverim raspored.",reading:"මොරාම් ප්‍ර්වො දා ප්‍රොවෙරිම් රාස්පොරෙද්.",si:"මට මුලින් කාලසටහන පරීක්ෂා කරන්න ඕනේ."},
+{sr:"U redu. Mogu da zamenim smenu ako treba.",reading:"උ රෙදු. මොගු දා සාමෙනිම් ස්මෙනු ආකො ත්‍රෙබා.",si:"හරි. අවශ්‍ය නම් මට වැඩ මුරය මාරු කරගන්න පුළුවන්."},
+{sr:"Hvala. Javiću vam sutra.",reading:"හ්වාලා. යාවිචු වාම් සුත්‍රා.",si:"ස්තුතියි. මම හෙට ඔබට දැනුම් දෙන්නම්."}],
+listeningPractice:{prompt:"හඬ අසා නිවැරදි තේරුම තෝරන්න: “Da li mogu da uzmem slobodan dan?”",audio:"Da li mogu da uzmem slobodan dan?",options:["මට නිවාඩු දිනයක් ගන්න පුළුවන්ද?","මම අද වැඩ කරනවා.","කාලසටහන කොහෙද?"],readings:["දා ලි මොගු දා උස්මෙම් ස්ලොබොදාන් දාන්?","රාදිම් දානාස්.","ග්දේ යේ රාස්පොරෙද්?"],answer:0,meaning:"Da li mogu da uzmem slobodan dan? = මට නිවාඩු දිනයක් ගන්න පුළුවන්ද?"},
+practice:[
+{prompt:"“කළමනාකරු” යන වචනය?",options:["Menadžer","Kolega","Radnik"],answer:0,explanation:"Menadžer = කළමනාකරු."},
+{prompt:"“මට නිවාඩු දිනයක් අවශ්‍යයි” කියන්නේ?",options:["Treba mi slobodan dan.","Radim svaki dan.","Nemam vremena."],answer:0,explanation:"Treba mi slobodan dan = මට නිවාඩු දිනයක් අවශ්‍යයි."},
+{prompt:"“මට පුළුවන්ද?” යන ආරම්භය?",options:["Da li mogu","Gde je","Koliko košta"],answer:0,explanation:"Da li mogu = මට පුළුවන්ද."},
+{prompt:"“එකඟයි” යන වචනය?",options:["Dogovoreno","Kasnim","Uveče"],answer:0,explanation:"Dogovoreno = එකඟයි."}]}
+
 ];
