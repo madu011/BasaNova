@@ -238,7 +238,17 @@ const serbianSinhala = {
   "Možete li ponoviti?": "මොෂෙතේ ලි පොනොවිතී?",
   "Idite pravo.": "ඉදිතේ ප්‍රාවො.",
   "Skrenite levo.": "ස්ක්‍රෙනිතේ ලෙවො.",
-  "Hvala na pomoći.": "හ්වාලා නා පොමොචි."
+  "Hvala na pomoći.": "හ්වාලා නා පොමොචි.",
+  "cena": "ත්සේනා",
+  "čaj": "චායි",
+  "ćao": "ච්‍යාඔ (මෘදු ච්)",
+  "džem": "ජෙම්",
+  "đak": "ජ්‍යාක් (මෘදු ජ්)",
+  "škola": "ෂ්කොලා",
+  "žena": "ෂෙනා (හඬ ඇති ෂ්)",
+  "ljubav": "ල්‍යුබාව්",
+  "njiva": "න්‍යීවා",
+  "zima": "සිමා (හඬ ඇති ස)"
 };
 const pronounceSinhala=(text)=>{
  if(serbianSinhala[text]) return serbianSinhala[text];
