@@ -2501,65 +2501,65 @@ const englishB1Lessons = [
         "word": "step",
         "reading": "ස්ටෙප්",
         "meaning": "පියවර",
-        "example": "First complete the form, then hand it to the officer.",
-        "exampleReading": "ෆර්ස්ට් කම්ප්ලීට් දි ෆෝම් දෙන් හැන්ඩ් ඉට් ටු දි ඔෆිසර්.",
-        "translation": "මුලින් පෝරමය පුරවා, ඉන්පසු නිලධාරියාට භාර දෙන්න."
+        "example": "First, read each step before starting the task.",
+        "exampleReading": "ෆර්ස්ට් රීඩ් ඊච් ස්ටෙප් බිෆෝර් ස්ටාටින් දි ටාස්ක්.",
+        "translation": "කාර්යය ආරම්භ කිරීමට පෙර සෑම පියවරක්ම කියවන්න."
       },
       {
         "word": "instruction",
         "reading": "ඉන්ස්ට්‍රක්ෂන්",
         "meaning": "උපදෙස්",
-        "example": "After the device is switched on, wait a few seconds.",
-        "exampleReading": "ආෆ්ටර් දි ඩිවයිස් ඉස් ස්විච්ඩ් ඔන් වේට් අ ෆියු සෙකන්ඩ්ස්.",
-        "translation": "උපාංගය ක්‍රියාත්මක කළ පසු තත්පර කිහිපයක් රැඳී සිටින්න."
+        "example": "The instruction explains how to reset the machine.",
+        "exampleReading": "දි ඉන්ස්ට්‍රක්ෂන් එක්ස්ප්ලේන්ස් හවු ටු රීසෙට් දි මෂීන්.",
+        "translation": "යන්ත්‍රය නැවත සකස් කරන ආකාරය උපදෙසේ පැහැදිලි කරනවා."
       },
       {
         "word": "equipment",
         "reading": "ඉක්විප්මන්ට්",
         "meaning": "උපකරණ",
-        "example": "It is important to consider every option in advance.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන් ඉන් ඇඩ්වාන්ස්.",
-        "translation": "සෑම විකල්පයක්ම කලින් සලකා බැලීම වැදගත්."
+        "example": "The team checked all the equipment before the event.",
+        "exampleReading": "දි ටීම් චෙක්ට් ඕල් දි ඉක්විප්මන්ට් බිෆෝර් දි ඉවෙන්ට්.",
+        "translation": "වැඩසටහනට පෙර කණ්ඩායම සියලු උපකරණ පරීක්ෂා කළා."
       },
       {
         "word": "switch on",
         "reading": "ස්විච් ඔන්",
-        "meaning": "ක්‍රියාත්මක කරනවා",
-        "example": "In the end, we will choose the solution that works best for everyone.",
-        "exampleReading": "ඉන් දි එන්ඩ් වී විල් චූස් දි සලූෂන් දැට් වර්ක්ස් බෙස්ට් ෆෝ එව්රීවන්.",
-        "translation": "අවසානයේ හැමෝටම හොඳම විසඳුම තෝරනවා."
+        "meaning": "ක්‍රියාත්මක කරන්න",
+        "example": "Press this button to switch on the computer.",
+        "exampleReading": "ප්‍රෙස් දිස් බටන් ටු ස්විච් ඔන් දි කම්පියුටර්.",
+        "translation": "පරිගණකය ක්‍රියාත්මක කිරීමට මේ බොත්තම ඔබන්න."
       },
       {
         "word": "submit",
         "reading": "සබ්මිට්",
-        "meaning": "භාර දෙනවා",
-        "example": "First complete the form, then hand it to the officer.",
-        "exampleReading": "ෆර්ස්ට් කම්ප්ලීට් දි ෆෝම් දෙන් හැන්ඩ් ඉට් ටු දි ඔෆිසර්.",
-        "translation": "මුලින් පෝරමය පුරවා, ඉන්පසු නිලධාරියාට භාර දෙන්න."
+        "meaning": "භාර දෙන්න / ඉදිරිපත් කරන්න",
+        "example": "Please submit your application before Friday.",
+        "exampleReading": "ප්ලීස් සබ්මිට් යෝර් ඇප්ලිකේෂන් බිෆෝර් ෆ්‍රයිඩේ.",
+        "translation": "කරුණාකර සිකුරාදාට පෙර ඔබේ අයදුම්පත ඉදිරිපත් කරන්න."
       },
       {
         "word": "check",
         "reading": "චෙක්",
-        "meaning": "පරීක්ෂා කරනවා",
-        "example": "After the device is switched on, wait a few seconds.",
-        "exampleReading": "ආෆ්ටර් දි ඩිවයිස් ඉස් ස්විච්ඩ් ඔන් වේට් අ ෆියු සෙකන්ඩ්ස්.",
-        "translation": "උපාංගය ක්‍රියාත්මක කළ පසු තත්පර කිහිපයක් රැඳී සිටින්න."
+        "meaning": "පරීක්ෂා කරන්න",
+        "example": "Check the address carefully before sending the parcel.",
+        "exampleReading": "චෙක් දි ඇඩ්‍රස් කෙයාර්ෆුලි බිෆෝර් සෙන්ඩින් දි පාර්සල්.",
+        "translation": "පාර්සලය යැවීමට පෙර ලිපිනය හොඳින් පරීක්ෂා කරන්න."
       },
       {
         "word": "carefully",
         "reading": "කෙයර්ෆුලි",
         "meaning": "ප්‍රවේශමෙන්",
-        "example": "It is important to consider every option in advance.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන් ඉන් ඇඩ්වාන්ස්.",
-        "translation": "සෑම විකල්පයක්ම කලින් සලකා බැලීම වැදගත්."
+        "example": "Handle the glass containers carefully.",
+        "exampleReading": "හැන්ඩල් දි ග්ලාස් කන්ටේනර්ස් කෙයාර්ෆුලි.",
+        "translation": "වීදුරු බඳුන් ප්‍රවේශමෙන් හසුරුවන්න."
       },
       {
         "word": "before",
         "reading": "බිෆෝර්",
         "meaning": "පෙර",
-        "example": "In the end, we will choose the solution that works best for everyone.",
-        "exampleReading": "ඉන් දි එන්ඩ් වී විල් චූස් දි සලූෂන් දැට් වර්ක්ස් බෙස්ට් ෆෝ එව්රීවන්.",
-        "translation": "අවසානයේ හැමෝටම හොඳම විසඳුම තෝරනවා."
+        "example": "Wash your hands before preparing the food.",
+        "exampleReading": "වොෂ් යෝර් හැන්ඩ්ස් බිෆෝර් ප්‍රිපෙයරින් දි ෆූඩ්.",
+        "translation": "ආහාර සකස් කිරීමට පෙර අත් සෝදන්න."
       }
     ],
     "grammarTitle": "Grammar",
@@ -2679,65 +2679,65 @@ const englishB1Lessons = [
         "word": "citizen",
         "reading": "සිටිසන්",
         "meaning": "පුරවැසියා",
-        "example": "Our community is organising a park clean-up.",
-        "exampleReading": "අවර් කමියුනිටි ඉස් ඕගනයිසිං අ පාක් ක්ලීන් අප්.",
-        "translation": "අපේ ප්‍රජාව උද්‍යානයක් පිරිසිදු කිරීමේ වැඩසටහනක් සංවිධානය කරනවා."
+        "example": "Every citizen can vote in local elections.",
+        "exampleReading": "එව්රි සිටිසන් කැන් වෝට් ඉන් ලෝකල් ඉලෙක්ෂන්ස්.",
+        "translation": "සෑම පුරවැසියෙකුටම ප්‍රාදේශීය මැතිවරණවලදී ඡන්දය දිය හැකියි."
       },
       {
         "word": "volunteer",
         "reading": "වොලන්ටියර්",
         "meaning": "ස්වේච්ඡා සේවකයා",
-        "example": "Residents can suggest solutions at the public meeting.",
-        "exampleReading": "රෙසිඩන්ට්ස් කෑන් සජෙස්ට් සොලූෂන්ස් ඇට් දි පබ්ලික් මීටින්.",
-        "translation": "පොදු රැස්වීමේදී පදිංචිකරුවන්ට විසඳුම් යෝජනා කළ හැකියි."
+        "example": "A volunteer helps at the community food centre every Saturday.",
+        "exampleReading": "අ වොලන්ටියර් හෙල්ප්ස් ඇට් දි කමියුනිටි ෆූඩ් සෙන්ටර් එව්රි සැටර්ඩේ.",
+        "translation": "ස්වේච්ඡා සේවකයෙක් සෑම සෙනසුරාදාවකම ප්‍රජා ආහාර මධ්‍යස්ථානයේ උදව් කරනවා."
       },
       {
         "word": "neighbourhood",
         "reading": "නේබර්හුඩ්",
         "meaning": "අසල්වැසි ප්‍රදේශය",
-        "example": "It is important to consider every option in advance.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන් ඉන් ඇඩ්වාන්ස්.",
-        "translation": "සෑම විකල්පයක්ම කලින් සලකා බැලීම වැදගත්."
+        "example": "Our neighbourhood has a new playground.",
+        "exampleReading": "අවර් නේබර්හුඩ් හැස් අ නිව් ප්ලේග්‍රවුන්ඩ්.",
+        "translation": "අපේ අසල්වැසි ප්‍රදේශයේ නව ක්‍රීඩා පිටියක් තිබෙනවා."
       },
       {
         "word": "meeting",
         "reading": "මීටින්",
         "meaning": "රැස්වීම",
-        "example": "Residents can suggest solutions at the public meeting.",
-        "exampleReading": "රෙසිඩන්ට්ස් කෑන් සජෙස්ට් සොලූෂන්ස් ඇට් දි පබ්ලික් මීටින්.",
-        "translation": "පොදු රැස්වීමේදී පදිංචිකරුවන්ට විසඳුම් යෝජනා කළ හැකියි."
+        "example": "The residents' meeting starts at six o'clock.",
+        "exampleReading": "දි රෙසිඩන්ට්ස් මීටින් ස්ටාට්ස් ඇට් සික්ස් ඔක්ලොක්.",
+        "translation": "නිවැසියන්ගේ රැස්වීම හයට පටන් ගන්නවා."
       },
       {
         "word": "proposal",
         "reading": "ප්‍රපෝසල්",
         "meaning": "යෝජනාව",
-        "example": "Our community is organising a park clean-up.",
-        "exampleReading": "අවර් කමියුනිටි ඉස් ඕගනයිසිං අ පාක් ක්ලීන් අප්.",
-        "translation": "අපේ ප්‍රජාව උද්‍යානයක් පිරිසිදු කිරීමේ වැඩසටහනක් සංවිධානය කරනවා."
+        "example": "Her proposal is to add more rubbish bins to the park.",
+        "exampleReading": "හර් ප්‍රපෝසල් ඉස් ටු ඇඩ් මෝර් රබිෂ් බින්ස් ටු දි පාක්.",
+        "translation": "ඇගේ යෝජනාව වන්නේ උද්‍යානයට තවත් කසළ බඳුන් එක් කිරීමයි."
       },
       {
         "word": "support",
         "reading": "සපෝර්ට්",
         "meaning": "සහාය",
-        "example": "Residents can suggest solutions at the public meeting.",
-        "exampleReading": "රෙසිඩන්ට්ස් කෑන් සජෙස්ට් සොලූෂන්ස් ඇට් දි පබ්ලික් මීටින්.",
-        "translation": "පොදු රැස්වීමේදී පදිංචිකරුවන්ට විසඳුම් යෝජනා කළ හැකියි."
+        "example": "The project received support from local residents.",
+        "exampleReading": "දි ප්‍රොජෙක්ට් රිසීව්ඩ් සපෝර්ට් ෆ්‍රම් ලෝකල් රෙසිඩන්ට්ස්.",
+        "translation": "ව්‍යාපෘතියට ප්‍රදේශවාසීන්ගෙන් සහාය ලැබුණා."
       },
       {
         "word": "public",
         "reading": "පබ්ලික්",
-        "meaning": "මහජන",
-        "example": "Residents can suggest solutions at the public meeting.",
-        "exampleReading": "රෙසිඩන්ට්ස් කෑන් සජෙස්ට් සොලූෂන්ස් ඇට් දි පබ්ලික් මීටින්.",
-        "translation": "පොදු රැස්වීමේදී පදිංචිකරුවන්ට විසඳුම් යෝජනා කළ හැකියි."
+        "meaning": "මහජන / පොදු",
+        "example": "The public library is open until eight in the evening.",
+        "exampleReading": "දි පබ්ලික් ලයිබ්‍රරි ඉස් ඕපන් අන්ටිල් එයිට් ඉන් දි ඊවිනින්.",
+        "translation": "මහජන පුස්තකාලය සවස අට දක්වා විවෘතයි."
       },
       {
         "word": "issue",
         "reading": "ඉෂූ",
-        "meaning": "ගැටලුව",
-        "example": "In the end, we will choose the solution that works best for everyone.",
-        "exampleReading": "ඉන් දි එන්ඩ් වී විල් චූස් දි සලූෂන් දැට් වර්ක්ස් බෙස්ට් ෆෝ එව්රීවන්.",
-        "translation": "අවසානයේ හැමෝටම හොඳම විසඳුම තෝරනවා."
+        "meaning": "ගැටලුව / ප්‍රශ්නය",
+        "example": "Air pollution is a serious issue in large cities.",
+        "exampleReading": "එයාර් පොලූෂන් ඉස් අ සීරියස් ඉෂූ ඉන් ලාජ් සිටීස්.",
+        "translation": "වායු දූෂණය විශාල නගරවල බරපතළ ගැටලුවක්."
       }
     ],
     "grammarTitle": "Grammar",
@@ -2857,65 +2857,65 @@ const englishB1Lessons = [
         "word": "schedule",
         "reading": "ෂෙඩ්‍යූල්",
         "meaning": "කාලසටහන",
-        "example": "I am trying to create a balance between work and rest.",
-        "exampleReading": "අයි ඇම් ට්‍රයිං ටු ක්‍රියේට් අ බැලන්ස් බිට්වීන් වර්ක් ඇන්ඩ් රෙස්ට්.",
-        "translation": "වැඩ සහ විවේකය අතර සමතුලිතතාවක් ඇති කරගැනීමට මම උත්සාහ කරනවා."
+        "example": "I checked my work schedule for next week.",
+        "exampleReading": "අයි චෙක්ට් මයි වර්ක් ස්කෙජූල් ෆෝ නෙක්ස්ට් වීක්.",
+        "translation": "මම ඊළඟ සතියේ වැඩ කාලසටහන පරීක්ෂා කළා."
       },
       {
         "word": "deadline",
         "reading": "ඩෙඩ්ලයින්",
-        "meaning": "අවසන් දිනය",
-        "example": "If we plan our tasks in advance, we will have more free time.",
-        "exampleReading": "ඉෆ් වී ප්ලෑන් අවර් ටාස්ක්ස් ඉන් ඇඩ්වාන්ස් වී විල් හැව් මෝර් ෆ්‍රී ටයිම්.",
-        "translation": "අපේ කාර්යයන් කලින් සැලසුම් කළොත් වැඩි නිදහස් කාලයක් ලැබේවි."
+        "meaning": "අවසන් දිනය / කාලසීමාව",
+        "example": "The deadline for the report is Friday.",
+        "exampleReading": "දි ඩෙඩ්ලයින් ෆෝර් දි රිපෝර්ට් ඉස් ෆ්‍රයිඩේ.",
+        "translation": "වාර්තාව භාරදිය යුතු අවසන් දිනය සිකුරාදායි."
       },
       {
         "word": "priority",
         "reading": "ප්‍රයෝරිටි",
         "meaning": "ප්‍රමුඛතාව",
-        "example": "It is important to consider every option in advance.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන් ඉන් ඇඩ්වාන්ස්.",
-        "translation": "සෑම විකල්පයක්ම කලින් සලකා බැලීම වැදගත්."
+        "example": "Safety must be our first priority.",
+        "exampleReading": "සේෆ්ටි මස්ට් බී අවර් ෆර්ස්ට් ප්‍රයෝරිටි.",
+        "translation": "ආරක්ෂාව අපේ පළමු ප්‍රමුඛතාව විය යුතුයි."
       },
       {
         "word": "break",
         "reading": "බ්‍රේක්",
         "meaning": "විවේකය",
-        "example": "In the end, we will choose the solution that works best for everyone.",
-        "exampleReading": "ඉන් දි එන්ඩ් වී විල් චූස් දි සලූෂන් දැට් වර්ක්ස් බෙස්ට් ෆෝ එව්රීවන්.",
-        "translation": "අවසානයේ හැමෝටම හොඳම විසඳුම තෝරනවා."
+        "example": "We took a short break after three hours of work.",
+        "exampleReading": "වී ටුක් අ ෂෝර්ට් බ්‍රේක් ආෆ්ටර් ත්‍රී අවර්ස් ඔෆ් වර්ක්.",
+        "translation": "පැය තුනක් වැඩ කළ පසු අපි කෙටි විවේකයක් ගත්තා."
       },
       {
         "word": "overtime",
         "reading": "ඕවර්ටයිම්",
         "meaning": "අතිකාල වැඩ",
-        "example": "I am trying to create a balance between work and rest.",
-        "exampleReading": "අයි ඇම් ට්‍රයිං ටු ක්‍රියේට් අ බැලන්ස් බිට්වීන් වර්ක් ඇන්ඩ් රෙස්ට්.",
-        "translation": "වැඩ සහ විවේකය අතර සමතුලිතතාවක් ඇති කරගැනීමට මම උත්සාහ කරනවා."
+        "example": "I worked two hours of overtime yesterday.",
+        "exampleReading": "අයි වර්ක්ට් ටූ අවර්ස් ඔෆ් ඕවර්ටයිම් යෙස්ටර්ඩේ.",
+        "translation": "මම ඊයේ පැය දෙකක් අතිකාල වැඩ කළා."
       },
       {
         "word": "rest",
         "reading": "රෙස්ට්",
         "meaning": "විවේකය",
-        "example": "I am trying to create a balance between work and rest.",
-        "exampleReading": "අයි ඇම් ට්‍රයිං ටු ක්‍රියේට් අ බැලන්ස් බිට්වීන් වර්ක් ඇන්ඩ් රෙස්ට්.",
-        "translation": "වැඩ සහ විවේකය අතර සමතුලිතතාවක් ඇති කරගැනීමට මම උත්සාහ කරනවා."
+        "example": "A good night's rest helps me concentrate.",
+        "exampleReading": "අ ගුඩ් නයිට්ස් රෙස්ට් හෙල්ප්ස් මී කොන්සන්ට්‍රේට්.",
+        "translation": "හොඳ රාත්‍රී විවේකයක් මට අවධානය යොමු කිරීමට උපකාරී වෙනවා."
       },
       {
         "word": "manage",
         "reading": "මැනේජ්",
-        "meaning": "සංවිධානය කරනවා",
-        "example": "It is important to consider every option in advance.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන් ඉන් ඇඩ්වාන්ස්.",
-        "translation": "සෑම විකල්පයක්ම කලින් සලකා බැලීම වැදගත්."
+        "meaning": "කළමනාකරණය කරන්න",
+        "example": "She manages her time by planning each day.",
+        "exampleReading": "ෂී මැනිජස් හර් ටයිම් බයි ප්ලෑනින් ඊච් ඩේ.",
+        "translation": "ඇය සෑම දවසක්ම සැලසුම් කරමින් කාලය කළමනාකරණය කරනවා."
       },
       {
         "word": "free time",
         "reading": "ෆ්‍රී ටයිම්",
         "meaning": "නිදහස් කාලය",
-        "example": "If we plan our tasks in advance, we will have more free time.",
-        "exampleReading": "ඉෆ් වී ප්ලෑන් අවර් ටාස්ක්ස් ඉන් ඇඩ්වාන්ස් වී විල් හැව් මෝර් ෆ්‍රී ටයිම්.",
-        "translation": "අපේ කාර්යයන් කලින් සැලසුම් කළොත් වැඩි නිදහස් කාලයක් ලැබේවි."
+        "example": "I enjoy spending my free time with my family.",
+        "exampleReading": "අයි එන්ජෝයි ස්පෙන්ඩින් මයි ෆ්‍රී ටයිම් විත් මයි ෆැමිලි.",
+        "translation": "පවුලේ අය සමඟ නිදහස් කාලය ගත කිරීමට මම කැමතියි."
       }
     ],
     "grammarTitle": "Grammar",
