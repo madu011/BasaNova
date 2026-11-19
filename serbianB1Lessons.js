@@ -3,7 +3,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l1",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 1 · අමතක නොවන අත්දැකීම්",
+    "title": "B1 · Lekcija 1 · Nezaboravna iskustva",
     "objective": "විශේෂ අත්දැකීමක් අතීත කාලයෙන් විස්තර කිරීම",
     "vocabulary": [
       {
@@ -181,7 +181,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l2",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 2 · අදහස් සහ හේතු",
+    "title": "B1 · Lekcija 2 · Mišljenja i razlozi",
     "objective": "තම මතය හේතු සමඟ ඉදිරිපත් කිරීම",
     "vocabulary": [
       {
@@ -359,7 +359,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l3",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 3 · වැඩබිමේ ගැටලු විසඳීම",
+    "title": "B1 · Lekcija 3 · Rešavanje problema na radnom mestu",
     "objective": "වැඩබිමේ ගැටලුවක් පැහැදිලි කර විසඳුමක් යෝජනා කිරීම",
     "vocabulary": [
       {
@@ -537,7 +537,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l4",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 4 · විකල්ප සැසඳීම",
+    "title": "B1 · Lekcija 4 · Upoređivanje mogućnosti",
     "objective": "විකල්ප සසඳා ඒවායේ ප්‍රතිඵල පැහැදිලි කිරීම",
     "vocabulary": [
       {
@@ -715,7 +715,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l5",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 5 · ප්‍රවෘත්ති සහ වාර්තා",
+    "title": "B1 · Lekcija 5 · Vesti i izveštaji",
     "objective": "කෙටි වාර්තාවක කරුණු සාරාංශ කිරීම",
     "vocabulary": [
       {
@@ -893,7 +893,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l6",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 6 · නිල ඉල්ලීම්",
+    "title": "B1 · Lekcija 6 · Formalni zahtevi",
     "objective": "ගෞරවාන්විතව ඉල්ලීමක් කර අරමුණ පැහැදිලි කිරීම",
     "vocabulary": [
       {
@@ -1071,7 +1071,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l7",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 7 · වැරදි අවබෝධ පැහැදිලි කිරීම",
+    "title": "B1 · Lekcija 7 · Razjašnjavanje nesporazuma",
     "objective": "වැරදි අවබෝධයක් නිවැරදි කර දෙපාර්ශ්වයේ තේරුම තහවුරු කිරීම",
     "vocabulary": [
       {
@@ -1249,7 +1249,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l8",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 8 · ව්‍යාපෘති සැලසුම් කිරීම",
+    "title": "B1 · Lekcija 8 · Planiranje projekata",
     "objective": "ව්‍යාපෘතියක් සඳහා කාර්ය බෙදාගෙන අවසාන දින එකඟ වීම",
     "vocabulary": [
       {
@@ -1427,7 +1427,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l9",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 9 · කාලයත් සමඟ වෙනස්කම්",
+    "title": "B1 · Lekcija 9 · Promene tokom vremena",
     "objective": "අතීත පුරුදු සහ වර්තමාන තත්ත්වය සසඳා විස්තර කිරීම",
     "vocabulary": [
       {
@@ -1605,7 +1605,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l10",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 10 · සමබර උපදෙස්",
+    "title": "B1 · Lekcija 10 · Uravnoteženi saveti",
     "objective": "විකල්පවල වාසි සහ අවදානම් සලකා උපදෙසක් දීම",
     "vocabulary": [
       {
@@ -1783,7 +1783,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l11",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 11 · හැකියාව සහ නිශ්චිතභාවය",
+    "title": "B1 · Lekcija 11 · Verovatnoća i sigurnost",
     "objective": "හැකියාව සහ නිශ්චිතභාවය ගැන පැහැදිලිව අදහස් ප්‍රකාශ කිරීම සහ උදාහරණ දීම",
     "vocabulary": [
       {
@@ -1961,7 +1961,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l12",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 12 · අධ්‍යාපනය සහ ඉගෙනීමේ ක්‍රම",
+    "title": "B1 · Lekcija 12 · Obrazovanje i strategije učenja",
     "objective": "අධ්‍යාපනය සහ ඉගෙනීමේ ක්‍රම ගැන පැහැදිලිව අදහස් ප්‍රකාශ කිරීම සහ උදාහරණ දීම",
     "vocabulary": [
       {
@@ -2139,7 +2139,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l13",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 13 · ගමන් සැලසුම් සහ හදිසි වෙනස්කම්",
+    "title": "B1 · Lekcija 13 · Planiranje putovanja i neočekivane promene",
     "objective": "ගමන් සැලසුම් සහ හදිසි වෙනස්කම් ගැන පැහැදිලිව අදහස් ප්‍රකාශ කිරීම සහ උදාහරණ දීම",
     "vocabulary": [
       {
@@ -2317,7 +2317,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l14",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 14 · පාරිභෝගික තේරීම් සහ සේවා පැමිණිලි",
+    "title": "B1 · Lekcija 14 · Izbor potrošača i reklamacije na usluge",
     "objective": "පාරිභෝගික තේරීම් සහ සේවා පැමිණිලි ගැන පැහැදිලිව අදහස් ප්‍රකාශ කිරීම සහ උදාහරණ දීම",
     "vocabulary": [
       {
@@ -2495,7 +2495,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l15",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 15 · ක්‍රියාවලි සහ උපදෙස් විස්තර කිරීම",
+    "title": "B1 · Lekcija 15 · Opisivanje postupaka i uputstava",
     "objective": "ක්‍රියාවලි සහ උපදෙස් විස්තර කිරීම ගැන පැහැදිලිව අදහස් ප්‍රකාශ කිරීම සහ උදාහරණ දීම",
     "vocabulary": [
       {
@@ -2673,7 +2673,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l16",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 16 · සමාජ ගැටලු සහ ප්‍රජා සහභාගීත්වය",
+    "title": "B1 · Lekcija 16 · Društvena pitanja i učešće zajednice",
     "objective": "සමාජ ගැටලු සහ ප්‍රජා සහභාගීත්වය ගැන පැහැදිලිව අදහස් ප්‍රකාශ කිරීම සහ උදාහරණ දීම",
     "vocabulary": [
       {
@@ -2851,7 +2851,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l17",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 17 · වැඩ සහ පෞද්ගලික ජීවිතයේ සමබරතාව",
+    "title": "B1 · Lekcija 17 · Ravnoteža između posla i privatnog života",
     "objective": "වැඩ සහ පෞද්ගලික ජීවිතයේ සමබරතාව ගැන පැහැදිලිව අදහස් ප්‍රකාශ කිරීම සහ උදාහරණ දීම",
     "vocabulary": [
       {
@@ -3029,7 +3029,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l18",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 18 · පරිසරය සහ තිරසාර තේරීම්",
+    "title": "B1 · Lekcija 18 · Životna sredina i održivi izbori",
     "objective": "පරිසරය සහ තිරසාර තේරීම් ගැන පැහැදිලිව අදහස් ප්‍රකාශ කිරීම සහ උදාහරණ දීම",
     "vocabulary": [
       {
@@ -3207,7 +3207,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l19",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 19 · හේතු සහ ප්‍රතිඵල පැහැදිලි කිරීම",
+    "title": "B1 · Lekcija 19 · Objašnjavanje uzroka i posledica",
     "objective": "හේතු සහ ප්‍රතිඵල පැහැදිලි කිරීම ගැන පැහැදිලිව අදහස් ප්‍රකාශ කිරීම සහ උදාහරණ දීම",
     "vocabulary": [
       {
@@ -3385,7 +3385,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l20",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 20 · සංවිධානාත්මක තර්කයක් ඉදිරිපත් කිරීම",
+    "title": "B1 · Lekcija 20 · Iznošenje strukturisanog argumenta",
     "objective": "සංවිධානාත්මක තර්කයක් ඉදිරිපත් කිරීම ගැන පැහැදිලිව අදහස් ප්‍රකාශ කිරීම සහ උදාහරණ දීම",
     "vocabulary": [
       {
@@ -3563,7 +3563,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l21",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 21 · මගේ කුසලතා දියුණු කරගැනීමට පාඨමාලාව අවසන් කරන්න කැමතියි.",
+    "title": "B1 · Lekcija 21 · Obrazovanje i stručno usavršavanje",
     "objective": "මගේ කුසලතා දියුණු කරගැනීමට පාඨමාලාව අවසන් කරන්න කැමතියි. ගැන පැහැදිලිව කතා කිරීම සහ හේතු ඉදිරිපත් කිරීම",
     "vocabulary": [
       {
@@ -3741,7 +3741,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l22",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 22 · මගේ වැඩ සංවිධානය කිරීමට උදව් කරන යෙදුමක් භාවිතා කරනවා.",
+    "title": "B1 · Lekcija 22 · Tehnologija i digitalna komunikacija",
     "objective": "මගේ වැඩ සංවිධානය කිරීමට උදව් කරන යෙදුමක් භාවිතා කරනවා. ගැන පැහැදිලිව කතා කිරීම සහ හේතු ඉදිරිපත් කිරීම",
     "vocabulary": [
       {
@@ -3919,7 +3919,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l23",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 23 · නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්.",
+    "title": "B1 · Lekcija 23 · Bankarske usluge i finansijsko planiranje",
     "objective": "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්. ගැන පැහැදිලිව කතා කිරීම සහ හේතු ඉදිරිපත් කිරීම",
     "vocabulary": [
       {
@@ -4097,7 +4097,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l24",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 24 · වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා.",
+    "title": "B1 · Lekcija 24 · Zdrave navike i dobrobit",
     "objective": "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා. ගැන පැහැදිලිව කතා කිරීම සහ හේතු ඉදිරිපත් කිරීම",
     "vocabulary": [
       {
@@ -4275,7 +4275,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l25",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 25 · මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා.",
+    "title": "B1 · Lekcija 25 · Kultura i tradicija",
     "objective": "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා. ගැන පැහැදිලිව කතා කිරීම සහ හේතු ඉදිරිපත් කිරීම",
     "vocabulary": [
       {
@@ -4453,7 +4453,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l26",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 26 · මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කරලා පාරිභෝගික ගැටලු විසඳන්න ඉගෙන ගත්තා.",
+    "title": "B1 · Lekcija 26 · Razgovori za posao i razvoj karijere",
     "objective": "මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කරලා පාරිභෝගික ගැටලු විසඳන්න ඉගෙන ගත්තා. ගැන පැහැදිලිව කතා කිරීම සහ හේතු ඉදිරිපත් කිරීම",
     "vocabulary": [
       {
@@ -4631,7 +4631,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l27",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 27 · තීරණය කිරීමට පෙර දෙපාර්ශ්වයටම සවන් දෙමු කියලා මම යෝජනා කරනවා.",
+    "title": "B1 · Lekcija 27 · Rešavanje sukoba i pregovaranje",
     "objective": "තීරණය කිරීමට පෙර දෙපාර්ශ්වයටම සවන් දෙමු කියලා මම යෝජනා කරනවා. ගැන පැහැදිලිව කතා කිරීම සහ හේතු ඉදිරිපත් කිරීම",
     "vocabulary": [
       {
@@ -4809,7 +4809,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l28",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 28 · ප්‍රවෘත්තියක් බෙදාගැනීමට පෙර මූලාශ්‍රය සහ පළ කළ දිනය පරීක්ෂා කරනවා.",
+    "title": "B1 · Lekcija 28 · Mediji, informacije i pouzdanost",
     "objective": "ප්‍රවෘත්තියක් බෙදාගැනීමට පෙර මූලාශ්‍රය සහ පළ කළ දිනය පරීක්ෂා කරනවා. ගැන පැහැදිලිව කතා කිරීම සහ හේතු ඉදිරිපත් කිරීම",
     "vocabulary": [
       {
@@ -4987,7 +4987,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l29",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 29 · හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා.",
+    "title": "B1 · Lekcija 29 · Destinacije, smeštaj i iskustva sa putovanja",
     "objective": "හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා. ගැන පැහැදිලිව කතා කිරීම සහ හේතු ඉදිරිපත් කිරීම",
     "vocabulary": [
       {
@@ -5165,7 +5165,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l30",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 30 · මම පදිංචිය මාරු කළ විට අලුත් නගරයට හුරු වෙන්න කාලයක් ගත වුණා.",
+    "title": "B1 · Lekcija 30 · Lična sećanja i životne promene",
     "objective": "මම පදිංචිය මාරු කළ විට අලුත් නගරයට හුරු වෙන්න කාලයක් ගත වුණා. ගැන පැහැදිලිව කතා කිරීම සහ හේතු ඉදිරිපත් කිරීම",
     "vocabulary": [
       {
@@ -5343,7 +5343,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l31",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 31 · විද්‍යාව සහ නව සොයාගැනීම්",
+    "title": "B1 · Lekcija 31 · Nauka i otkrića",
     "objective": "විද්‍යාව සහ නව සොයාගැනීම් ගැන පැහැදිලිව කතා කිරීම සහ උදාහරණ ඉදිරිපත් කිරීම",
     "vocabulary": [
       {
@@ -5521,7 +5521,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l32",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 32 · නීති, අයිතිවාසිකම් සහ වගකීම්",
+    "title": "B1 · Lekcija 32 · Pravila, prava i odgovornosti",
     "objective": "නීති, අයිතිවාසිකම් සහ වගකීම් ගැන පැහැදිලිව කතා කිරීම සහ උදාහරණ ඉදිරිපත් කිරීම",
     "vocabulary": [
       {
@@ -5699,7 +5699,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l33",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 33 · කලාව සහ නිර්මාණශීලීත්වය",
+    "title": "B1 · Lekcija 33 · Umetnost i kreativnost",
     "objective": "කලාව සහ නිර්මාණශීලීත්වය ගැන පැහැදිලිව කතා කිරීම සහ උදාහරණ ඉදිරිපත් කිරීම",
     "vocabulary": [
       {
@@ -5877,7 +5877,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l34",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 34 · ආර්ථිකය සහ රැකියා වෙළඳපොළ",
+    "title": "B1 · Lekcija 34 · Ekonomija i tržište rada",
     "objective": "ආර්ථිකය සහ රැකියා වෙළඳපොළ ගැන පැහැදිලිව කතා කිරීම සහ උදාහරණ ඉදිරිපත් කිරීම",
     "vocabulary": [
       {
@@ -6055,7 +6055,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l35",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 35 · නිවාස, කුලී සහ අසල්වැසි ජීවිතය",
+    "title": "B1 · Lekcija 35 · Stanovanje, iznajmljivanje i život u komšiluku",
     "objective": "නිවාස, කුලී සහ අසල්වැසි ජීවිතය ගැන පැහැදිලිව කතා කිරීම සහ උදාහරණ ඉදිරිපත් කිරීම",
     "vocabulary": [
       {
@@ -6233,7 +6233,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l36",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 36 · පොදු ප්‍රවාහනය සහ නගර පහසුකම්",
+    "title": "B1 · Lekcija 36 · Javni prevoz i gradska infrastruktura",
     "objective": "පොදු ප්‍රවාහනය සහ නගර පහසුකම් ගැන පැහැදිලිව කතා කිරීම සහ උදාහරණ ඉදිරිපත් කිරීම",
     "vocabulary": [
       {
@@ -6411,7 +6411,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l37",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 37 · පාරිසරික ප්‍රතිපත්ති සහ දේශගුණය",
+    "title": "B1 · Lekcija 37 · Ekološka politika i klima",
     "objective": "පාරිසරික ප්‍රතිපත්ති සහ දේශගුණය ගැන පැහැදිලිව කතා කිරීම සහ උදාහරණ ඉදිරිපත් කිරීම",
     "vocabulary": [
       {
@@ -6589,7 +6589,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l38",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 38 · ආහාර සංස්කෘතිය සහ පුරුදු",
+    "title": "B1 · Lekcija 38 · Kultura hrane i prehrambene navike",
     "objective": "ආහාර සංස්කෘතිය සහ පුරුදු ගැන පැහැදිලිව කතා කිරීම සහ උදාහරණ ඉදිරිපත් කිරීම",
     "vocabulary": [
       {
@@ -6767,7 +6767,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l39",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 39 · අධ්‍යාපනයේ සහ රැකියාවේ ඉලක්ක",
+    "title": "B1 · Lekcija 39 · Ciljevi u obrazovanju i radu",
     "objective": "අධ්‍යාපනයේ සහ රැකියාවේ ඉලක්ක ගැන පැහැදිලිව කතා කිරීම සහ උදාහරණ ඉදිරිපත් කිරීම",
     "vocabulary": [
       {
@@ -6945,7 +6945,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l40",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 40 · සංචාරක සේවා සහ පැමිණිලි",
+    "title": "B1 · Lekcija 40 · Turističke usluge i reklamacije",
     "objective": "සංචාරක සේවා සහ පැමිණිලි ගැන පැහැදිලිව කතා කිරීම සහ උදාහරණ ඉදිරිපත් කිරීම",
     "vocabulary": [
       {
@@ -7123,7 +7123,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l41",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 41 · සන්නිවේදන ශෛලීන් සහ ශරීර භාෂාව",
+    "title": "B1 · Lekcija 41 · Stilovi komunikacije i govor tela",
     "objective": "සන්නිවේදන ශෛලීන් සහ ශරීර භාෂාව ගැන පැහැදිලිව කතා කිරීම සහ උදාහරණ ඉදිරිපත් කිරීම",
     "vocabulary": [
       {
@@ -7301,7 +7301,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l42",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 42 · සමාජ මාධ්‍ය සහ ඩිජිටල් පුරවැසිභාවය",
+    "title": "B1 · Lekcija 42 · Društvene mreže i digitalno građanstvo",
     "objective": "සමාජ මාධ්‍ය සහ ඩිජිටල් පුරවැසිභාවය ගැන පැහැදිලිව කතා කිරීම සහ උදාහරණ ඉදිරිපත් කිරීම",
     "vocabulary": [
       {
@@ -7479,7 +7479,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l43",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 43 · කාල කළමනාකරණය සහ ප්‍රමුඛතා",
+    "title": "B1 · Lekcija 43 · Upravljanje vremenom i prioriteti",
     "objective": "කාල කළමනාකරණය සහ ප්‍රමුඛතා ගැන පැහැදිලිව කතා කිරීම සහ උදාහරණ ඉදිරිපත් කිරීම",
     "vocabulary": [
       {
@@ -7657,7 +7657,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l44",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 44 · සංස්කෘතික වෙනස්කම් සහ අවබෝධය",
+    "title": "B1 · Lekcija 44 · Kulturne razlike i razumevanje",
     "objective": "සංස්කෘතික වෙනස්කම් සහ අවබෝධය ගැන පැහැදිලිව කතා කිරීම සහ උදාහරණ ඉදිරිපත් කිරීම",
     "vocabulary": [
       {
@@ -7835,7 +7835,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l45",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 45 · ව්‍යාපාර සහ ව්‍යවසායකත්වය",
+    "title": "B1 · Lekcija 45 · Preduzetništvo i poslovanje",
     "objective": "ව්‍යාපාර සහ ව්‍යවසායකත්වය ගැන පැහැදිලිව කතා කිරීම සහ උදාහරණ ඉදිරිපත් කිරීම",
     "vocabulary": [
       {
@@ -8013,7 +8013,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l46",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 46 · වාර්තා ලිවීම සහ දත්ත ඉදිරිපත් කිරීම",
+    "title": "B1 · Lekcija 46 · Pisanje izveštaja i predstavljanje podataka",
     "objective": "වාර්තා ලිවීම සහ දත්ත ඉදිරිපත් කිරීම ගැන පැහැදිලිව කතා කිරීම සහ උදාහරණ ඉදිරිපත් කිරීම",
     "vocabulary": [
       {
@@ -8191,7 +8191,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l47",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 47 · ජනමාධ්‍ය විවාද සහ මහජන මතය",
+    "title": "B1 · Lekcija 47 · Medijske debate i javno mnjenje",
     "objective": "ජනමාධ්‍ය විවාද සහ මහජන මතය ගැන පැහැදිලිව කතා කිරීම සහ උදාහරණ ඉදිරිපත් කිරීම",
     "vocabulary": [
       {
@@ -8369,7 +8369,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l48",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 48 · සංකීර්ණ ගැටලු සහ විසඳුම් ඇගයීම",
+    "title": "B1 · Lekcija 48 · Složeni problemi i procena rešenja",
     "objective": "සංකීර්ණ ගැටලු සහ විසඳුම් ඇගයීම ගැන පැහැදිලිව කතා කිරීම සහ උදාහරණ ඉදිරිපත් කිරීම",
     "vocabulary": [
       {
@@ -8547,7 +8547,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l49",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 49 · අනාගත සැලසුම් සහ වෙනස්වීම්",
+    "title": "B1 · Lekcija 49 · Planiranje budućnosti i prilagođavanje promenama",
     "objective": "අනාගත සැලසුම් සහ වෙනස්වීම් ගැන පැහැදිලිව කතා කිරීම සහ උදාහරණ ඉදිරිපත් කිරීම",
     "vocabulary": [
       {
@@ -8725,7 +8725,7 @@ export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l50",
     "unit": "ස්වාධීන භාවිතය",
-    "title": "B1 · පාඩම 50 · B1 ඒකාබද්ධ කථන සහ ලිවීමේ කුසලතා",
+    "title": "B1 · Lekcija 50 · Objedinjene B1 veštine govora i pisanja",
     "objective": "B1 ඒකාබද්ධ කථන සහ ලිවීමේ කුසලතා ගැන පැහැදිලිව කතා කිරීම සහ උදාහරණ ඉදිරිපත් කිරීම",
     "vocabulary": [
       {
