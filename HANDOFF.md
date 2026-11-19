@@ -693,3 +693,10 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 2. Integrate assessment UI in `App.js`, using the established C1 assessment patterns while keeping C2 tests clearly marked as practice, not official certification.
 3. Validate all C2 lessons and assessments, including unique IDs, Sinhala readings/meanings and Serbian localization.
 4. Review advanced Serbian/English naturalness and Sinhala pronunciation with fluent speakers; verify Expo/Android builds and a physical Android device before claiming release readiness.
+
+
+## Final C2 lesson validation — 2026-11-19
+- Final Serbian source polish corrected Croatian-form vocabulary in the Serbian C2 41–50 file (`Procijenite` → `Procenite`, `protuprimer` → `kontraprimer`, `protuargument` → `kontraargument`). Correction commit: `809a6e12e8ea473fab6dca4118dab02689aa54b4`.
+- Final batch source validation: 10 unique lesson IDs per language; 80 vocabulary entries, 40 examples, 40 dialogue lines, 40 practice questions and 10 listening tasks per language; no missing Sinhala-script readings or Sinhala meanings in vocabulary/examples/dialogue.
+- C2 aggregate source validation: exactly 50 lessons and 50 unique IDs in Serbian, and 50 lessons and 50 unique IDs in English. App imports and the full 1–50 lesson sequence are present.
+- This is source/content validation only. CI/Expo workflow state must be checked separately; no successful APK or device test is claimed.
