@@ -726,3 +726,9 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 - Updated commits: Serbian A2 `a45cf08e258d5a90d4e63cfd236cf1f804145716`, English A2 `d3eb9f6e2ddac9b31968a06d6ab55d3b379b4e78`, Serbian B1 `b4a775d9808c7785100d0e5b2056c849b02df006`, English B1 `89e3f1d3a2ce6ede35b768abbfa0404af7182494`, Serbian B2 `bb2b0c4c81a1fc7397aa4c97eab24b86ea37d55e`, English B2 `c9b99dd793803fa78432461c4c650cacd3283ece`.
 - Added `CONTENT_QA_REPORT.md` and `CONTENT_QA_STATUS` in curriculum. A1 legacy parser-aware QA, full remaining C1/C2 QA, fluent-speaker review and physical Android testing remain.
 - Android APK artifact from run `44552002628` is available in GitHub Actions as `basanova-android-debug-apk` (about 41 MB; expiry 2026-12-03). CI build succeeded; physical installation has not yet been verified.
+
+
+## CI after A2/B1/B2 example QA updates
+- Expo validation run `44554871348` passed for code commit `c9b99dd7`, including dependency install, Expo compatibility and Android bundle export after the A2/B1/B2 vocabulary example corrections.
+- Android APK build run `44555170085` was still in progress at the latest status check, targeting curriculum commit `e3c754fa` (which includes the content QA changes). An older successful APK artifact exists from run `44552002628` / commit `3b236e4a`, but it predates the A2/B1/B2 example corrections. Prefer the newer build once it completes.
+- Latest documentation-only Expo runs were queued/in progress. No physical Android install test has been completed.
