@@ -1,4 +1,4 @@
-const englishB1Lessons = [
+export const ENGLISH_B1_LESSONS = [
   {
     "id": "en-b1-l1",
     "unit": "Independent use",
@@ -4459,65 +4459,65 @@ const englishB1Lessons = [
         "word": "experience",
         "reading": "එක්ස්පීරියන්ස්",
         "meaning": "පළපුරුද්ද",
-        "example": "Based on experience, this approach may be useful.",
-        "exampleReading": "බේස්ඩ් ඔන් එක්ස්පීරියන්ස් දිස් ඇප්‍රෝච් මේ බී යූස්ෆුල්.",
-        "translation": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි."
+        "example": "I gained valuable experience working with customers in retail.",
+        "exampleReading": "අයි ග්අඉන්එඩ් ව්අල්අඅබල්එ එක්ස්ප්එර්ඉඑන්කඑ ව්ඔර්ක්ඉන්ග් විත් කඅස්ට්ඔම්එර්ස් ඉන් ර්එට්අඉල්",
+        "translation": "මම සිල්ලර වෙළඳාමේ පාරිභෝගිකයන් සමඟ වැඩ කරමින් වටිනා පළපුරුද්දක් ලබාගත්තා."
       },
       {
         "word": "achievement",
         "reading": "අචීව්මන්ට්",
         "meaning": "ජයග්‍රහණය",
-        "example": "It is important to consider all the available options.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි අවේලබල් ඔප්ෂන්ස්.",
-        "translation": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්."
+        "example": "Completing the project on time was my biggest achievement this year.",
+        "exampleReading": "කඔම්ප්ල්එට්ඉන්ග් දි ප්ර්ඔජ්එකට් ඔන් ට්ඉම්එ වොස් මයි බඉග්ග්එස්ට් අකහ්ඉඑව්එම්එන්ට් දිස් යඑඅර්",
+        "translation": "ව්‍යාපෘතිය නියමිත වේලාවට අවසන් කිරීම මේ වසරේ මගේ ලොකුම ජයග්‍රහණයයි."
       },
       {
         "word": "responsibility",
         "reading": "රිස්පොන්සිබිලිටි",
         "meaning": "වගකීම",
-        "example": "We can make a plan and adapt it to the situation.",
-        "exampleReading": "වී කෑන් මේක් අ ප්ලෑන් ඇන්ඩ් අඩැප්ට් ඉට් ටු දි සිචුවේෂන්.",
-        "translation": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි."
+        "example": "The team leader has responsibility for assigning tasks to staff.",
+        "exampleReading": "දි ට්එඅම් ල්එඅඩ්එර් හැස් ර්එස්ප්ඔන්ස්ඉබඉල්ඉට්ය ෆෝ අස්ස්ඉග්න්ඉන්ග් ට්අස්ක්ස් ටු ස්ට්අෆ්ෆ්",
+        "translation": "කාර්ය මණ්ඩලයට කාර්යයන් පැවරීමේ වගකීම කණ්ඩායම් නායකයාට තිබෙනවා."
       },
       {
         "word": "interview",
         "reading": "ඉන්ටර්වියූ",
         "meaning": "සම්මුඛ පරීක්ෂණය",
-        "example": "Based on experience, this approach may be useful.",
-        "exampleReading": "බේස්ඩ් ඔන් එක්ස්පීරියන්ස් දිස් ඇප්‍රෝච් මේ බී යූස්ෆුල්.",
-        "translation": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි."
+        "example": "I have a job interview with an international company tomorrow.",
+        "exampleReading": "අයි හැව් අ ජ්ඔබ ඉන්ට්එර්ව්ඉඑව් විත් ඇන් ඉන්ට්එර්න්අට්ඉඔන්අල් කඔම්ප්අන්ය ට්ඔම්ඔර්ර්ඔව්",
+        "translation": "හෙට මට ජාත්‍යන්තර සමාගමක රැකියා සම්මුඛ පරීක්ෂණයක් තිබෙනවා."
       },
       {
         "word": "employer",
         "reading": "එම්ප්ලොයර්",
         "meaning": "සේවායෝජකයා",
-        "example": "I have worked in sales and learned how to solve customer problems.",
-        "exampleReading": "අයි හැව් වර්ක්ඩ් ඉන් සේල්ස් ඇන්ඩ් ලර්න්ඩ් හව් ටු සෝල්ව් කස්ටමර් ප්‍රොබ්ලම්ස්.",
-        "translation": "මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කරලා පාරිභෝගික ගැටලු විසඳන්න ඉගෙන ගත්තා."
+        "example": "My employer provides training for all new employees.",
+        "exampleReading": "මයි එම්ප්ල්ඔයඑර් ප්ර්ඔව්ඉඩ්එස් ට්ර්අඉන්ඉන්ග් ෆෝ අල්ල් නිව් එම්ප්ල්ඔයඑඑස්",
+        "translation": "මගේ සේවායෝජකයා සියලු නව සේවකයන්ට පුහුණුව ලබාදෙනවා."
       },
       {
         "word": "colleague",
         "reading": "කොලීග්",
         "meaning": "සගයා",
-        "example": "It is important to consider all the available options.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි අවේලබල් ඔප්ෂන්ස්.",
-        "translation": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්."
+        "example": "A colleague helped me finish the report before the deadline.",
+        "exampleReading": "අ කඔල්ල්එඅග්අඑ හ්එල්ප්එඩ් ම්එ ෆ්ඉන්ඉස්හ් දි ර්එප්ඔර්ට් බිෆෝර් දි ඩ්එඅඩ්ල්ඉන්එ",
+        "translation": "අවසන් දිනයට පෙර වාර්තාව අවසන් කිරීමට මගේ සගයෙක් මට උදව් කළා."
       },
       {
         "word": "promotion",
         "reading": "ප්‍රමෝෂන්",
         "meaning": "උසස්වීම",
-        "example": "We can make a plan and adapt it to the situation.",
-        "exampleReading": "වී කෑන් මේක් අ ප්ලෑන් ඇන්ඩ් අඩැප්ට් ඉට් ටු දි සිචුවේෂන්.",
-        "translation": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි."
+        "example": "She received a promotion after two years of excellent work.",
+        "exampleReading": "ස්හ්එ ර්එකඑඉව්එඩ් අ ප්ර්ඔම්ඔට්ඉඔන් ආෆ්ටර් ට්ව්ඔ යඑඅර්ස් ඔෆ් එක්ස්කඑල්ල්එන්ට් ව්ඔර්ක්",
+        "translation": "වසර දෙකක් විශිෂ්ට ලෙස වැඩ කිරීමෙන් පසු ඇයට උසස්වීමක් ලැබුණා."
       },
       {
         "word": "reference",
         "reading": "රෙෆරන්ස්",
         "meaning": "නිර්දේශය",
-        "example": "Based on experience, this approach may be useful.",
-        "exampleReading": "බේස්ඩ් ඔන් එක්ස්පීරියන්ස් දිස් ඇප්‍රෝච් මේ බී යූස්ෆුල්.",
-        "translation": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි."
+        "example": "The application requires a reference from a previous employer.",
+        "exampleReading": "දි අප්ප්ල්ඉකඅට්ඉඔන් ර්එක්අඉර්එස් අ ර්එෆ්එර්එන්කඑ ෆ්‍රම් අ ප්ර්එව්ඉඔඅස් එම්ප්ල්ඔයඑර්",
+        "translation": "අයදුම්පතට පෙර සේවායෝජකයෙකුගෙන් නිර්දේශයක් අවශ්‍යයි."
       }
     ],
     "grammarTitle": "Grammar",
@@ -4637,65 +4637,65 @@ const englishB1Lessons = [
         "word": "agreement",
         "reading": "අග්‍රීමන්ට්",
         "meaning": "එකඟතාව",
-        "example": "I suggest that we listen to both sides before we decide.",
-        "exampleReading": "අයි සජෙස්ට් දැට් වී ලිසන් ටු බෝත් සයිඩ්ස් බිෆෝර් වී ඩිසයිඩ්.",
-        "translation": "තීරණය කිරීමට පෙර දෙපාර්ශ්වයටම සවන් දෙමු කියලා මම යෝජනා කරනවා."
+        "example": "Both sides signed the agreement after lengthy negotiations.",
+        "exampleReading": "බෝත් ස්ඉඩ්එස් ස්ඉග්න්එඩ් දි අග්ර්එඑම්එන්ට් ආෆ්ටර් ල්එන්ග්ට්හ්ය න්එග්ඔට්ඉඅට්ඉඔන්ස්",
+        "translation": "දිගු සාකච්ඡාවලින් පසු දෙපාර්ශ්වයම ගිවිසුමට අත්සන් කළා."
       },
       {
         "word": "compromise",
         "reading": "කොම්ප්‍රමයිස්",
         "meaning": "සම්මුතිය",
-        "example": "It is important to consider all the available options.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි අවේලබල් ඔප්ෂන්ස්.",
-        "translation": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්."
+        "example": "We reached a compromise that satisfied both the staff and management.",
+        "exampleReading": "වී ර්එඅකහ්එඩ් අ කඔම්ප්ර්ඔම්ඉස්එ දැට් ස්අට්ඉස්ෆ්ඉඑඩ් බෝත් දි ස්ට්අෆ්ෆ් ඇන්ඩ් ම්අන්අග්එම්එන්ට්",
+        "translation": "සේවකයන්ටත් කළමනාකාරීත්වයටත් සතුටුදායක සම්මුතියකට අපි පැමිණියා."
       },
       {
         "word": "disagreement",
         "reading": "ඩිසඅග්‍රීමන්ට්",
         "meaning": "නොඑකඟතාව",
-        "example": "We can make a plan and adapt it to the situation.",
-        "exampleReading": "වී කෑන් මේක් අ ප්ලෑන් ඇන්ඩ් අඩැප්ට් ඉට් ටු දි සිචුවේෂන්.",
-        "translation": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි."
+        "example": "There was a disagreement about the project's starting date.",
+        "exampleReading": "ට්හ්එර්එ වොස් අ ඩ්ඉස්අග්ර්එඑම්එන්ට් අබඔඅට් දි ප්ර්ඔජ්එකට්'ස් ස්ට්අර්ට්ඉන්ග් ඩ්අට්එ",
+        "translation": "ව්‍යාපෘතිය ආරම්භ කරන දිනය පිළිබඳ නොඑකඟතාවක් තිබුණා."
       },
       {
         "word": "negotiate",
         "reading": "නිගෝෂියේට්",
         "meaning": "සාකච්ඡා කරනවා",
-        "example": "Based on experience, this approach may be useful.",
-        "exampleReading": "බේස්ඩ් ඔන් එක්ස්පීරියන්ස් දිස් ඇප්‍රෝච් මේ බී යූස්ෆුල්.",
-        "translation": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි."
+        "example": "The union plans to negotiate better working conditions.",
+        "exampleReading": "දි අන්ඉඔන් ප්ල්අන්ස් ටු න්එග්ඔට්ඉඅට්එ බඑට්ට්එර් ව්ඔර්ක්ඉන්ග් කඔන්ඩ්ඉට්ඉඔන්ස්",
+        "translation": "වඩා හොඳ සේවා කොන්දේසි ගැන සාකච්ඡා කිරීමට වෘත්තීය සමිතිය සැලසුම් කරනවා."
       },
       {
         "word": "proposal",
         "reading": "ප්‍රපෝසල්",
         "meaning": "යෝජනාව",
-        "example": "I suggest that we listen to both sides before we decide.",
-        "exampleReading": "අයි සජෙස්ට් දැට් වී ලිසන් ටු බෝත් සයිඩ්ස් බිෆෝර් වී ඩිසයිඩ්.",
-        "translation": "තීරණය කිරීමට පෙර දෙපාර්ශ්වයටම සවන් දෙමු කියලා මම යෝජනා කරනවා."
+        "example": "Their proposal includes shorter working hours on Fridays.",
+        "exampleReading": "දෙයර් ප්ර්ඔප්ඔස්අල් ඉන්කල්අඩ්එස් ස්හ්ඔර්ට්එර් ව්ඔර්ක්ඉන්ග් හ්ඔඅර්ස් ඔන් ෆ්ර්ඉඩ්අයස්",
+        "translation": "ඔවුන්ගේ යෝජනාවට සිකුරාදා කෙටි වැඩ වේලාවක් ඇතුළත් වෙනවා."
       },
       {
         "word": "concern",
         "reading": "කන්සර්න්",
         "meaning": "කනස්සල්ල",
-        "example": "It is important to consider all the available options.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි අවේලබල් ඔප්ෂන්ස්.",
-        "translation": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්."
+        "example": "My main concern is that everyone gets a chance to speak.",
+        "exampleReading": "මයි ම්අඉන් කඔන්කඑර්න් ඉස් දැට් එව්එර්යඔන්එ ග්එට්ස් අ කහ්අන්කඑ ටු ස්ප්එඅක්",
+        "translation": "සෑම කෙනෙකුටම කතා කිරීමට අවස්ථාව ලැබේද යන්න මගේ ප්‍රධාන කනස්සල්ලයි."
       },
       {
         "word": "solution",
         "reading": "සලූෂන්",
         "meaning": "විසඳුම",
-        "example": "We can make a plan and adapt it to the situation.",
-        "exampleReading": "වී කෑන් මේක් අ ප්ලෑන් ඇන්ඩ් අඩැප්ට් ඉට් ටු දි සිචුවේෂන්.",
-        "translation": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි."
+        "example": "A joint meeting helped us find a solution to the problem.",
+        "exampleReading": "අ ජ්ඔඉන්ට් ම්එඑට්ඉන්ග් හ්එල්ප්එඩ් අස් ෆ්ඉන්ඩ් අ ස්ඔල්අට්ඉඔන් ටු දි ප්ර්ඔබල්එම්",
+        "translation": "එක්ව පැවැත්වූ රැස්වීම ගැටලුවට විසඳුමක් සොයාගැනීමට උදව් කළා."
       },
       {
         "word": "respect",
         "reading": "රිස්පෙක්ට්",
         "meaning": "ගෞරවය",
-        "example": "Based on experience, this approach may be useful.",
-        "exampleReading": "බේස්ඩ් ඔන් එක්ස්පීරියන්ස් දිස් ඇප්‍රෝච් මේ බී යූස්ෆුල්.",
-        "translation": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි."
+        "example": "The discussion should take place with mutual respect.",
+        "exampleReading": "දි ඩ්ඉස්කඅස්ස්ඉඔන් ස්හ්ඔඅල්ඩ් ට්අක්එ ප්ල්අකඑ විත් ම්අට්අඅල් ර්එස්ප්එකට්",
+        "translation": "සාකච්ඡාව අන්‍යෝන්‍ය ගෞරවයෙන් පැවැත්විය යුතුයි."
       }
     ],
     "grammarTitle": "Grammar",
@@ -4815,65 +4815,65 @@ const englishB1Lessons = [
         "word": "source",
         "reading": "සෝර්ස්",
         "meaning": "මූලාශ්‍රය",
-        "example": "Before I share a story, I check the source and publication date.",
-        "exampleReading": "බිෆෝර් අයි ෂෙයාර් අ ස්ටෝරි අයි චෙක් දි සෝර්ස් ඇන්ඩ් පබ්ලිකේෂන් ඩේට්.",
-        "translation": "ප්‍රවෘත්තියක් බෙදාගැනීමට පෙර මූලාශ්‍රය සහ පළ කළ දිනය පරීක්ෂා කරනවා."
+        "example": "Before sharing a story, I check its source and publication date.",
+        "exampleReading": "බිෆෝර් ස්හ්අර්ඉන්ග් අ ස්ට්ඔර්ය අයි කහ්එකක් ඉට්ස් ස්ඔඅර්කඑ ඇන්ඩ් ප්අබල්ඉකඅට්ඉඔන් ඩ්අට්එ",
+        "translation": "ප්‍රවෘත්තියක් බෙදාගැනීමට පෙර එහි මූලාශ්‍රය සහ පළ කළ දිනය පරීක්ෂා කරනවා."
       },
       {
         "word": "headline",
         "reading": "හෙඩ්ලයින්",
         "meaning": "ශීර්ෂ පාඨය",
-        "example": "It is important to consider all the available options.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි අවේලබල් ඔප්ෂන්ස්.",
-        "translation": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්."
+        "example": "The headline should clearly introduce the main topic of the article.",
+        "exampleReading": "දි හ්එඅඩ්ල්ඉන්එ ස්හ්ඔඅල්ඩ් කල්එඅර්ල්ය ඉන්ට්ර්ඔඩ්අකඑ දි ම්අඉන් ට්ඔප්ඉක ඔෆ් දි අර්ට්ඉකල්එ",
+        "translation": "ලිපියේ ශීර්ෂ පාඨය ප්‍රධාන මාතෘකාව පැහැදිලිව හඳුන්වා දිය යුතුයි."
       },
       {
         "word": "report",
         "reading": "රිපෝර්ට්",
         "meaning": "වාර්තාව",
-        "example": "We can make a plan and adapt it to the situation.",
-        "exampleReading": "වී කෑන් මේක් අ ප්ලෑන් ඇන්ඩ් අඩැප්ට් ඉට් ටු දි සිචුවේෂන්.",
-        "translation": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි."
+        "example": "The journalist published a detailed report on the election results.",
+        "exampleReading": "දි ජ්ඔඅර්න්අල්ඉස්ට් ප්අබල්ඉස්හ්එඩ් අ ඩ්එට්අඉල්එඩ් ර්එප්ඔර්ට් ඔන් දි එල්එකට්ඉඔන් ර්එස්අල්ට්ස්",
+        "translation": "මාධ්‍යවේදියා මැතිවරණ ප්‍රතිඵල පිළිබඳ සවිස්තර වාර්තාවක් පළ කළා."
       },
       {
         "word": "claim",
         "reading": "ක්ලේම්",
         "meaning": "ප්‍රකාශය",
-        "example": "Based on experience, this approach may be useful.",
-        "exampleReading": "බේස්ඩ් ඔන් එක්ස්පීරියන්ස් දිස් ඇප්‍රෝච් මේ බී යූස්ෆුල්.",
-        "translation": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි."
+        "example": "The author makes a claim that still needs to be checked.",
+        "exampleReading": "දි අඅට්හ්ඔර් ම්අක්එස් අ කල්අඉම් දැට් ස්ට්ඉල්ල් න්එඑඩ්ස් ටු බඑ කහ්එකක්එඩ්",
+        "translation": "කතුවරයා තවමත් පරීක්ෂා කළ යුතු ප්‍රකාශයක් කරනවා."
       },
       {
         "word": "evidence",
         "reading": "එවිඩන්ස්",
         "meaning": "සාක්ෂිය",
-        "example": "Before I share a story, I check the source and publication date.",
-        "exampleReading": "බිෆෝර් අයි ෂෙයාර් අ ස්ටෝරි අයි චෙක් දි සෝර්ස් ඇන්ඩ් පබ්ලිකේෂන් ඩේට්.",
-        "translation": "ප්‍රවෘත්තියක් බෙදාගැනීමට පෙර මූලාශ්‍රය සහ පළ කළ දිනය පරීක්ෂා කරනවා."
+        "example": "The police found evidence that supported his statement.",
+        "exampleReading": "දි ප්ඔල්ඉකඑ ෆ්ඔඅන්ඩ් එව්ඉඩ්එන්කඑ දැට් ස්අප්ප්ඔර්ට්එඩ් හ්ඉස් ස්ට්අට්එම්එන්ට්",
+        "translation": "ඔහුගේ ප්‍රකාශයට සහාය දක්වන සාක්ෂි පොලිසිය සොයාගත්තා."
       },
       {
         "word": "reliable",
         "reading": "රිලයබල්",
         "meaning": "විශ්වාසදායක",
-        "example": "It is important to consider all the available options.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි අවේලබල් ඔප්ෂන්ස්.",
-        "translation": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්."
+        "example": "I use only reliable sources when making important decisions.",
+        "exampleReading": "අයි අස්එ ඕන්ලි ර්එල්ඉඅබල්එ ස්ඔඅර්කඑස් වෙන් ම්අක්ඉන්ග් ඉම්ප්ඔර්ට්අන්ට් ඩ්එකඉස්ඉඔන්ස්",
+        "translation": "වැදගත් තීරණ ගන්නා විට මම විශ්වාසදායක මූලාශ්‍ර පමණක් භාවිත කරනවා."
       },
       {
         "word": "bias",
         "reading": "බයස්",
         "meaning": "පක්ෂපාතීත්වය",
-        "example": "We can make a plan and adapt it to the situation.",
-        "exampleReading": "වී කෑන් මේක් අ ප්ලෑන් ඇන්ඩ් අඩැප්ට් ඉට් ටු දි සිචුවේෂන්.",
-        "translation": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි."
+        "example": "Media bias can affect how the public understands events.",
+        "exampleReading": "ම්එඩ්ඉඅ බඉඅස් කැන් අෆ්ෆ්එකට් හවු දි ප්අබල්ඉක අන්ඩ්එර්ස්ට්අන්ඩ්ස් එව්එන්ට්ස්",
+        "translation": "මාධ්‍ය පක්ෂපාතීත්වය මහජනයා සිදුවීම් තේරුම් ගන්නා ආකාරයට බලපාන්න පුළුවන්."
       },
       {
         "word": "publish",
         "reading": "පබ්ලිෂ්",
         "meaning": "පළ කරනවා",
-        "example": "Based on experience, this approach may be useful.",
-        "exampleReading": "බේස්ඩ් ඔන් එක්ස්පීරියන්ස් දිස් ඇප්‍රෝච් මේ බී යූස්ෆුල්.",
-        "translation": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි."
+        "example": "The university will publish the competition results next week.",
+        "exampleReading": "දි අන්ඉව්එර්ස්ඉට්ය විල් ප්අබල්ඉස්හ් දි කඔම්ප්එට්ඉට්ඉඔන් ර්එස්අල්ට්ස් නෙක්ස්ට් ව්එඑක්",
+        "translation": "විශ්වවිද්‍යාලය තරගයේ ප්‍රතිඵල ලබන සතියේ පළ කරනවා."
       }
     ],
     "grammarTitle": "Grammar",
@@ -4993,65 +4993,65 @@ const englishB1Lessons = [
         "word": "destination",
         "reading": "ඩෙස්ටිනේෂන්",
         "meaning": "ගමනාන්තය",
-        "example": "As soon as we arrive at the hotel, we will leave our luggage and explore the city.",
-        "exampleReading": "ඇස් සූන් ඇස් වී අරයිව් ඇට් දි හෝටෙල් වී විල් ලීව් අවර් ලගිජ් ඇන්ඩ් එක්ස්ප්ලෝර් දි සිටි.",
-        "translation": "හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා."
+        "example": "Our final destination is a small seaside town in the south.",
+        "exampleReading": "අවර් ෆ්ඉන්අල් ඩ්එස්ට්ඉන්අට්ඉඔන් ඉස් අ ස්ම්අල්ල් ස්එඅස්ඉඩ්එ ට්ඔව්න් ඉන් දි ස්ඔඅට්හ්",
+        "translation": "අපේ අවසාන ගමනාන්තය දකුණේ කුඩා වෙරළබඩ නගරයක්."
       },
       {
         "word": "accommodation",
         "reading": "අකමඩේෂන්",
         "meaning": "නවාතැන",
-        "example": "It is important to consider all the available options.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි අවේලබල් ඔප්ෂන්ස්.",
-        "translation": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්."
+        "example": "We booked accommodation near the railway station.",
+        "exampleReading": "වී බඔඔක්එඩ් අකකඔම්ම්ඔඩ්අට්ඉඔන් න්එඅර් දි ර්අඉල්ව්අය ස්ට්අට්ඉඔන්",
+        "translation": "අපි දුම්රිය ස්ථානය අසල නවාතැනක් වෙන් කරගත්තා."
       },
       {
         "word": "sightseeing",
         "reading": "සයිට්සීං",
         "meaning": "නගර නැරඹීම",
-        "example": "We can make a plan and adapt it to the situation.",
-        "exampleReading": "වී කෑන් මේක් අ ප්ලෑන් ඇන්ඩ් අඩැප්ට් ඉට් ටු දි සිචුවේෂන්.",
-        "translation": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි."
+        "example": "Tomorrow we are going sightseeing in the old town with a guide.",
+        "exampleReading": "ට්ඔම්ඔර්ර්ඔව් වී ආර් ග්ඔඉන්ග් ස්ඉග්හ්ට්ස්එඑඉන්ග් ඉන් දි ඔල්ඩ් ට්ඔව්න් විත් අ ග්අඉඩ්එ",
+        "translation": "හෙට මඟපෙන්වන්නෙකු සමඟ පැරණි නගරය නැරඹීමට යනවා."
       },
       {
         "word": "reservation",
         "reading": "රෙසර්වේෂන්",
         "meaning": "වෙන්කිරීම",
-        "example": "Based on experience, this approach may be useful.",
-        "exampleReading": "බේස්ඩ් ඔන් එක්ස්පීරියන්ස් දිස් ඇප්‍රෝච් මේ බී යූස්ෆුල්.",
-        "translation": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි."
+        "example": "The hotel confirmed our reservation for two nights.",
+        "exampleReading": "දි හ්ඔට්එල් කඔන්ෆ්ඉර්ම්එඩ් අවර් ර්එස්එර්ව්අට්ඉඔන් ෆෝ ට්ව්ඔ න්ඉග්හ්ට්ස්",
+        "translation": "රාත්‍රී දෙකක් සඳහා වූ අපේ වෙන්කිරීම හෝටලය තහවුරු කළා."
       },
       {
         "word": "local",
         "reading": "ලෝකල්",
         "meaning": "දේශීය",
-        "example": "As soon as we arrive at the hotel, we will leave our luggage and explore the city.",
-        "exampleReading": "ඇස් සූන් ඇස් වී අරයිව් ඇට් දි හෝටෙල් වී විල් ලීව් අවර් ලගිජ් ඇන්ඩ් එක්ස්ප්ලෝර් දි සිටි.",
-        "translation": "හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා."
+        "example": "I always try local food when I travel.",
+        "exampleReading": "අයි අල්ව්අයස් ට්ර්ය ල්ඔකඅල් ෆ්ඔඔඩ් වෙන් අයි ට්ර්අව්එල්",
+        "translation": "මම සංචාරය කරන විට හැමවිටම දේශීය ආහාර රස බලනවා."
       },
       {
         "word": "route",
         "reading": "රූට්",
         "meaning": "මාර්ගය",
-        "example": "It is important to consider all the available options.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි අවේලබල් ඔප්ෂන්ස්.",
-        "translation": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්."
+        "example": "We chose a shorter route through the mountains.",
+        "exampleReading": "වී කහ්ඔස්එ අ ස්හ්ඔර්ට්එර් ර්ඔඅට්එ ට්හ්ර්ඔඅග්හ් දි ම්ඔඅන්ට්අඉන්ස්",
+        "translation": "අපි කඳු හරහා යන කෙටි මාර්ගය තෝරාගත්තා."
       },
       {
         "word": "luggage",
         "reading": "ලගිජ්",
         "meaning": "ගමන් මලු",
-        "example": "As soon as we arrive at the hotel, we will leave our luggage and explore the city.",
-        "exampleReading": "ඇස් සූන් ඇස් වී අරයිව් ඇට් දි හෝටෙල් වී විල් ලීව් අවර් ලගිජ් ඇන්ඩ් එක්ස්ප්ලෝර් දි සිටි.",
-        "translation": "හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා."
+        "example": "The airline lost my luggage during the transfer.",
+        "exampleReading": "දි අඉර්ල්ඉන්එ ල්ඔස්ට් මයි ල්අග්ග්අග්එ ඩ්අර්ඉන්ග් දි ට්ර්අන්ස්ෆ්එර්",
+        "translation": "මාරු ගමන අතරතුර ගුවන් සමාගම මගේ ගමන් මලු නැති කළා."
       },
       {
         "word": "experience",
         "reading": "එක්ස්පීරියන්ස්",
         "meaning": "අත්දැකීම",
-        "example": "Based on experience, this approach may be useful.",
-        "exampleReading": "බේස්ඩ් ඔන් එක්ස්පීරියන්ස් දිස් ඇප්‍රෝච් මේ බී යූස්ෆුල්.",
-        "translation": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි."
+        "example": "The train journey through the canyon was an unforgettable experience.",
+        "exampleReading": "දි ට්ර්අඉන් ජ්ඔඅර්න්එය ට්හ්ර්ඔඅග්හ් දි කඅන්යඔන් වොස් ඇන් අන්ෆ්ඔර්ග්එට්ට්අබල්එ එක්ස්ප්එර්ඉඑන්කඑ",
+        "translation": "කඳු පටු නිම්නය හරහා දුම්රියෙන් ගිය ගමන අමතක නොවන අත්දැකීමක් වුණා."
       }
     ],
     "grammarTitle": "Grammar",
@@ -5171,65 +5171,65 @@ const englishB1Lessons = [
         "word": "memory",
         "reading": "මෙමරි",
         "meaning": "මතකය",
-        "example": "When I moved, it took me time to get used to the new city.",
-        "exampleReading": "වෙන් අයි මූව්ඩ් ඉට් ටුක් මී ටයිම් ටු ගෙට් යූස්ඩ් ටු දි න්‍යූ සිටි.",
-        "translation": "මම පදිංචිය මාරු කළ විට අලුත් නගරයට හුරු වෙන්න කාලයක් ගත වුණා."
+        "example": "This photograph is a lovely memory of my first trip to Serbia.",
+        "exampleReading": "දිස් ප්හ්ඔට්ඔග්ර්අප්හ් ඉස් අ ල්ඔව්එල්ය ම්එම්ඔර්ය ඔෆ් මයි ෆ්ඉර්ස්ට් ට්ර්ඉප් ටු ස්එර්බඉඅ",
+        "translation": "මේ ඡායාරූපය සර්බියාවට ගිය මගේ පළමු සංචාරයේ සුන්දර මතකයක්."
       },
       {
         "word": "change",
         "reading": "චේන්ජ්",
         "meaning": "වෙනස",
-        "example": "It is important to consider all the available options.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි අවේලබල් ඔප්ෂන්ස්.",
-        "translation": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්."
+        "example": "Moving to another city brought a big change to my life.",
+        "exampleReading": "ම්ඔව්ඉන්ග් ටු අන්ඔට්හ්එර් කඉට්ය බර්ඔඅග්හ්ට් අ බඉග් කහ්අන්ග්එ ටු මයි ල්ඉෆ්එ",
+        "translation": "වෙනත් නගරයකට පදිංචිය මාරු කිරීම මගේ ජීවිතයට විශාල වෙනසක් ගෙනාවා."
       },
       {
         "word": "move house",
         "reading": "මූව් හවුස්",
         "meaning": "පදිංචිය මාරු කරනවා",
-        "example": "We can make a plan and adapt it to the situation.",
-        "exampleReading": "වී කෑන් මේක් අ ප්ලෑන් ඇන්ඩ් අඩැප්ට් ඉට් ටු දි සිචුවේෂන්.",
-        "translation": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි."
+        "example": "We plan to move house closer to the city centre next spring.",
+        "exampleReading": "වී ප්ල්අන් ටු ම්ඔව්එ හ්ඔඅස්එ කල්ඔස්එර් ටු දි කඉට්ය කඑන්ට්ර්එ නෙක්ස්ට් ස්ප්ර්ඉන්ග්",
+        "translation": "ලබන වසන්තයේදී නගර මධ්‍යයට ළඟින් පදිංචිය මාරු කිරීමට අපි සැලසුම් කරනවා."
       },
       {
         "word": "adapt",
         "reading": "අඩැප්ට්",
         "meaning": "හැඩගැසෙනවා",
-        "example": "We can make a plan and adapt it to the situation.",
-        "exampleReading": "වී කෑන් මේක් අ ප්ලෑන් ඇන්ඩ් අඩැප්ට් ඉට් ටු දි සිචුවේෂන්.",
-        "translation": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි."
+        "example": "It took me several months to adapt to the new working environment.",
+        "exampleReading": "ඉට් ට්ඔඔක් ම්එ ස්එව්එර්අල් ම්ඔන්ට්හ්ස් ටු අඩ්අප්ට් ටු දි නිව් ව්ඔර්ක්ඉන්ග් එන්ව්ඉර්ඔන්ම්එන්ට්",
+        "translation": "නව සේවා පරිසරයට හැඩගැසීමට මට මාස කිහිපයක් ගත වුණා."
       },
       {
         "word": "familiar",
         "reading": "ෆමිලියර්",
         "meaning": "හුරුපුරුදු",
-        "example": "When I moved, it took me time to get used to the new city.",
-        "exampleReading": "වෙන් අයි මූව්ඩ් ඉට් ටුක් මී ටයිම් ටු ගෙට් යූස්ඩ් ටු දි න්‍යූ සිටි.",
-        "translation": "මම පදිංචිය මාරු කළ විට අලුත් නගරයට හුරු වෙන්න කාලයක් ගත වුණා."
+        "example": "After living here for a few months, the area became familiar to me.",
+        "exampleReading": "ආෆ්ටර් ල්ඉව්ඉන්ග් හියර් ෆෝ අ ෆ්එව් ම්ඔන්ට්හ්ස් දි අර්එඅ බඑකඅම්එ ෆ්අම්ඉල්ඉඅර් ටු ම්එ",
+        "translation": "මෙහි මාස කිහිපයක් ජීවත් වූ පසු මේ ප්‍රදේශය මට හුරුපුරුදු වුණා."
       },
       {
         "word": "challenge",
         "reading": "චැලෙන්ජ්",
         "meaning": "අභියෝගය",
-        "example": "It is important to consider all the available options.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි අවේලබල් ඔප්ෂන්ස්.",
-        "translation": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්."
+        "example": "Learning a new language can be a challenge, but it brings many benefits.",
+        "exampleReading": "ල්එඅර්න්ඉන්ග් අ නිව් ල්අන්ග්අඅග්එ කැන් බඑ අ කහ්අල්ල්එන්ග්එ බඅට් ඉට් බර්ඉන්ග්ස් ම්අන්ය බඑන්එෆ්ඉට්ස්",
+        "translation": "නව භාෂාවක් ඉගෙනීම අභියෝගයක් විය හැකි නමුත් බොහෝ ප්‍රයෝජන ගෙනෙනවා."
       },
       {
         "word": "opportunity",
         "reading": "ඔපචුනිටි",
         "meaning": "අවස්ථාව",
-        "example": "We can make a plan and adapt it to the situation.",
-        "exampleReading": "වී කෑන් මේක් අ ප්ලෑන් ඇන්ඩ් අඩැප්ට් ඉට් ටු දි සිචුවේෂන්.",
-        "translation": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි."
+        "example": "Working abroad gave me an opportunity to discover a new culture.",
+        "exampleReading": "ව්ඔර්ක්ඉන්ග් අබර්ඔඅඩ් ග්අව්එ ම්එ ඇන් ඔප්ප්ඔර්ට්අන්ඉට්ය ටු ඩ්ඉස්කඔව්එර් අ නිව් කඅල්ට්අර්එ",
+        "translation": "විදේශයක රැකියාව කිරීමෙන් නව සංස්කෘතියක් හඳුනාගැනීමට මට අවස්ථාව ලැබුණා."
       },
       {
         "word": "confidence",
         "reading": "කොන්ෆිඩන්ස්",
         "meaning": "ආත්මවිශ්වාසය",
-        "example": "Based on experience, this approach may be useful.",
-        "exampleReading": "බේස්ඩ් ඔන් එක්ස්පීරියන්ස් දිස් ඇප්‍රෝච් මේ බී යූස්ෆුල්.",
-        "translation": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි."
+        "example": "Every successful conversation increases my confidence.",
+        "exampleReading": "එව්රි ස්අකකඑස්ස්ෆ්අල් කඔන්ව්එර්ස්අට්ඉඔන් ඉන්කර්එඅස්එස් මයි කඔන්ෆ්ඉඩ්එන්කඑ",
+        "translation": "සාර්ථක සෑම සංවාදයක්ම මගේ ආත්මවිශ්වාසය වැඩි කරනවා."
       }
     ],
     "grammarTitle": "Grammar",
@@ -8901,4 +8901,4 @@ const englishB1Lessons = [
   }
 ];
 
-export default englishB1Lessons;
+export default ENGLISH_B1_LESSONS;
