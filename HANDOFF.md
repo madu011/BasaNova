@@ -1152,3 +1152,10 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 - Corrected the Sinhala and mixed-script detection ranges in the QA script to use explicit Unicode character ranges. Commits: lesson QA extension `c4ad8366d2910ea3a354d4eb77f6e8e816db0c0e`; Unicode range correction `d34e786857305e43cc5e579676ba03074fefd8d4`.
 - This check has not yet been executed end-to-end because the user's GitHub Actions billing block remains unresolved and there is no local checkout/runtime attached here. Do not claim the A1 lesson QA passed until it actually runs.
 - Next: continue content audits and only fix concrete findings; avoid build attempts until the monthly included quota resets and the account block is resolved.
+
+
+## 2026-11-19 — A1 language-content audit expansion
+- Inspected both A1 lesson source files directly. Each contains 39 lessons with unique lesson IDs; each has all 39 unit/title/objective/grammarTitle/grammar/vocabulary/examples/dialogue/practice sections.
+- Regex audit across all `reading` and `exampleReading` string fields found 1,112 pronunciation fields in Serbian and 1,268 in English; no Latin/Cyrillic mixed-script readings and no readings without Sinhala characters were found.
+- Expanded `scripts/content-qa.mjs` to check every A1 vocabulary reading for Sinhala script and reject Latin/Cyrillic contamination, plus require source and Sinhala meaning fields for every example and dialogue line. Fixed a malformed duplicated loop introduced during the extension. Commits: `04dc0b0082afe1c0e3c7d8f6176ca2b86e44e8b7` and `f51d70b5d0f61d300b729f1ba899e3c9ce2eb7e2`.
+- Static source audit is positive, but the automated Node QA script has still not been executed end-to-end. No claim that the script passes. Also, matching counts (39 each) do not prove that Serbian and English lesson topics align one-to-one; their unit/lesson ID sequences differ.
