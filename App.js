@@ -366,6 +366,26 @@ const pronounceSinhala=(text)=>{
  }
  return out;
 };
+const buildVocabularyListening=(lesson)=>{
+ const unique=[];
+ const seen=new Set();
+ (lesson.vocabulary||[]).forEach(item=>{
+  if(item?.word&&item?.meaning&&!seen.has(item.meaning)){
+   seen.add(item.meaning);unique.push(item);
+  }
+ });
+ const choices=unique.slice(0,3);
+ if(choices.length<3)return null;
+ const target=choices[0];
+ return {
+  prompt:`හඬ අසා නිවැරදි සිංහල අර්ථය තෝරන්න: “${target.word}”`,
+  audio:target.word,
+  readings:choices.map(item=>item.reading||pronounceSinhala(item.word)),
+  options:choices.map(item=>item.meaning),
+  answer:0,
+  meaning:`${target.word} = ${target.meaning}`
+ };
+};
 const speakingPractice={
  Serbian:[
   {title:"කෙනෙක් හමුවීම",context:"දිනපතා හමුවීම් සහ හඳුනාගැනීම්",lines:[["Zdravo! Kako si?","හෙලෝ! ඔයාට කොහොමද?"],["Dobro sam, hvala. A ti?","මම හොඳින්, ස්තුතියි. ඔයාට?"],["I ja sam dobro.","මමත් හොඳින්."],["Kako se zoveš?","ඔයාගේ නම මොකක්ද?"],["Zovem se...","මගේ නම..."]]},
@@ -574,10 +594,11 @@ export default function App(){
     <Text style={s.sub}>වචන පමණක් නොව, ව්‍යාකරණය, උදාහරණ, සංවාද සහ කෙටි පරීක්ෂණ සමඟ පියවරෙන් පියවර ඉගෙනගන්න.</Text>
     {SERBIAN_A1_LESSONS.map((lesson,li)=>{
      const isExpanded=expandedLessonId===lesson.id;
-     const checkedCount=lesson.practice.filter((q,qi)=>lessonChecked[lesson.id+"-"+qi]).length+(SERBIAN_A1_LISTENING[li]&&lessonChecked[lesson.id+"-listen"]?1:0);
+     const listening=SERBIAN_A1_LISTENING[li]||buildVocabularyListening(lesson);
+     const checkedCount=lesson.practice.filter((q,qi)=>lessonChecked[lesson.id+"-"+qi]).length+(listening&&lessonChecked[lesson.id+"-listen"]?1:0);
      return <View key={lesson.id} style={s.lessonCard}>
       <TouchableOpacity activeOpacity={0.8} onPress={()=>setExpandedLessonId(isExpanded?null:lesson.id)} style={{paddingVertical:4}}>
-       <Text style={s.eyebrow}>LESSON {lesson.title.match(/(?:පාඩම|Lesson)\s*(\d+)/)?.[1]||li+1} · A1 · {checkedCount}/{lesson.practice.length+(SERBIAN_A1_LISTENING[li]?1:0)} ප්‍රශ්න පරීක්ෂා කරලා</Text>
+       <Text style={s.eyebrow}>LESSON {lesson.title.match(/(?:පාඩම|Lesson)\s*(\d+)/)?.[1]||li+1} · A1 · {checkedCount}/{lesson.practice.length+(listening?1:0)} ප්‍රශ්න පරීක්ෂා කරලා</Text>
        <View style={{flexDirection:"row",alignItems:"center",justifyContent:"space-between"}}><View style={{flex:1,paddingRight:10}}><Text style={s.cardTitle}>{lesson.title}</Text><Text style={s.sub}>අරමුණ: {lesson.objective}</Text></View><Text style={s.cardTitle}>{isExpanded?"⌃":"⌄"}</Text></View>
        <Text style={s.link}>{isExpanded?"පාඩම හකුළන්න":"පාඩම විවෘත කරන්න · වචන, ව්‍යාකරණ, සංවාද සහ ප්‍රශ්න"}</Text>
       </TouchableOpacity>
@@ -643,7 +664,7 @@ export default function App(){
      <Text style={s.lessonHeading}>🎧 Serbian A1 · එක් එක් පාඩමේ සවන් දීම</Text>
      <Text style={s.sub}>දැනට ඇතුළත් කර ඇති පාඩම්වලින් Serbian හඬ අහලා නිවැරදි සිංහල අර්ථය තෝරන්න. අවශ්‍ය නම් වාක්‍යය සහ පිළිතුරු නැවත අහන්න.</Text>
      {SERBIAN_A1_LESSONS.map((lesson,li)=>{
-      const q=SERBIAN_A1_LISTENING[li];if(!q)return null;
+      const q=SERBIAN_A1_LISTENING[li]||buildVocabularyListening(lesson);if(!q)return null;
       const key=lesson.id+"-listen";const selected=lessonAnswers[key];const checked=lessonChecked[key];
       return <View key={key} style={s.quizCard}>
        <Text style={s.eyebrow}>LESSON {li+1} · {lesson.title}</Text>
@@ -686,11 +707,12 @@ export default function App(){
     <Text style={s.cardTitle}>📘 English A1 සැබෑ පාඩම්</Text>
     <Text style={s.sub}>සෑම ඉංග්‍රීසි වචනයකටම සහ වාක්‍යයකටම සිංහල අකුරෙන් උච්චාරණය, සිංහල තේරුම සහ වෙනම හඬ පාලකය ඇතුළත්.</Text>
     {ENGLISH_A1_LESSONS.map((lesson,li)=>{
+     const listening=(listening?.readings?.length===listening?.options?.length)?listening:buildVocabularyListening(lesson);
      const isExpanded=expandedLessonId===lesson.id;
-     const checkedCount=lesson.practice.filter((q,qi)=>lessonChecked[lesson.id+"-"+qi]).length+(lesson.listeningPractice&&lessonChecked[lesson.id+"-listen"]?1:0);
+     const checkedCount=lesson.practice.filter((q,qi)=>lessonChecked[lesson.id+"-"+qi]).length+(listening&&lessonChecked[lesson.id+"-listen"]?1:0);
      return <View key={lesson.id} style={s.lessonCard}>
       <TouchableOpacity activeOpacity={0.8} onPress={()=>setExpandedLessonId(isExpanded?null:lesson.id)} style={{paddingVertical:4}}>
-       <Text style={s.eyebrow}>LESSON {lesson.title.match(/(?:පාඩම|Lesson)\s*(\d+)/)?.[1]||li+1} · A1 · {checkedCount}/{lesson.practice.length+(lesson.listeningPractice?1:0)} ප්‍රශ්න පරීක්ෂා කරලා</Text>
+       <Text style={s.eyebrow}>LESSON {lesson.title.match(/(?:පාඩම|Lesson)\s*(\d+)/)?.[1]||li+1} · A1 · {checkedCount}/{lesson.practice.length+(listening?1:0)} ප්‍රශ්න පරීක්ෂා කරලා</Text>
        <View style={{flexDirection:"row",alignItems:"center",justifyContent:"space-between"}}><View style={{flex:1,paddingRight:10}}><Text style={s.cardTitle}>{lesson.title}</Text><Text style={s.sub}>අරමුණ: {lesson.objective}</Text></View><Text style={s.cardTitle}>{isExpanded?"⌃":"⌄"}</Text></View>
        <Text style={s.link}>{isExpanded?"පාඩම හකුළන්න":"පාඩම විවෘත කරන්න · වචන, ව්‍යාකරණ, සංවාද සහ ප්‍රශ්න"}</Text>
       </TouchableOpacity>
@@ -709,18 +731,18 @@ export default function App(){
        {lesson.dialogue.map((line,i)=><View key={lesson.id+"-d-"+i} style={s.dialogueLine}><View style={{flex:1}}><Text style={s.lessonSerbian}>{line.text}</Text><Text style={s.sound}>සිංහල අකුරෙන්: {line.reading}</Text><Text style={s.sub}>{line.meaning}</Text></View><TouchableOpacity onPress={()=>speak(line.text,"English")}><Text style={s.link}>🔊</Text></TouchableOpacity></View>)}
        <Text style={s.lessonHeading}>✍️ දැනුම පරීක්ෂා කරමු</Text>
        {lesson.practice.map((q,qi)=>{const key=lesson.id+"-"+qi;const selected=lessonAnswers[key];const checked=lessonChecked[key];return <View key={key} style={s.quizCard}><Text style={s.sub}>{qi+1}. {q.prompt}</Text>{q.options.map((option,oi)=><View key={option} style={{flexDirection:"row",alignItems:"center",gap:8}}><TouchableOpacity disabled={!!checked} onPress={()=>setLessonAnswers(v=>({...v,[key]:oi}))} style={[s.quizOption,{flex:1},selected===oi&&s.quizSelected,checked&&oi===q.answer&&s.quizCorrect,checked&&selected===oi&&selected!==q.answer&&s.quizWrong]}><Text style={s.quizOptionText}>{String.fromCharCode(65+oi)}. {option}</Text></TouchableOpacity><TouchableOpacity onPress={()=>speak(option,"English")} style={{padding:8}}><Text style={s.link}>🔊</Text></TouchableOpacity></View>)}{checked?<Text style={s.sub}>{selected===q.answer?"නිවැරදියි! ✓ ":"නැවත පුහුණු වෙමු. "}{q.explanation}</Text>:<TouchableOpacity disabled={selected===undefined} onPress={()=>setLessonChecked(v=>({...v,[key]:true}))} style={[s.action,selected===undefined&&{opacity:0.45}]}><Text style={s.actionText}>පිළිතුර පරීක්ෂා කරන්න</Text></TouchableOpacity>}</View>})}
-       {lesson.listeningPractice&&<View style={s.quizCard}>
+       {listening&&<View style={s.quizCard}>
         <Text style={s.lessonHeading}>🎧 අසා හඳුනාගනිමු</Text>
-        <Text style={s.sub}>{lesson.listeningPractice.prompt}</Text>
-        <TouchableOpacity accessibilityRole="button" onPress={()=>speak(lesson.listeningPractice.audio,"English")} style={s.action}><Text style={s.actionText}>🔊 වාක්‍යය නැවත අහන්න</Text></TouchableOpacity>
-        {lesson.listeningPractice.options.map((option,oi)=>{
+        <Text style={s.sub}>{listening.prompt}</Text>
+        <TouchableOpacity accessibilityRole="button" onPress={()=>speak(listening.audio,"English")} style={s.action}><Text style={s.actionText}>🔊 වාක්‍යය නැවත අහන්න</Text></TouchableOpacity>
+        {listening.options.map((option,oi)=>{
          const key=lesson.id+"-listen";const selected=lessonAnswers[key];const checked=lessonChecked[key];
-         return <TouchableOpacity key={option} disabled={!!checked} onPress={()=>setLessonAnswers(v=>({...v,[key]:oi}))} style={[s.quizOption,selected===oi&&s.quizSelected,checked&&oi===lesson.listeningPractice.answer&&s.quizCorrect,checked&&selected===oi&&selected!==lesson.listeningPractice.answer&&s.quizWrong]}>
+         return <TouchableOpacity key={option} disabled={!!checked} onPress={()=>setLessonAnswers(v=>({...v,[key]:oi}))} style={[s.quizOption,selected===oi&&s.quizSelected,checked&&oi===listening.answer&&s.quizCorrect,checked&&selected===oi&&selected!==listening.answer&&s.quizWrong]}>
           <Text style={s.quizOptionText}>{String.fromCharCode(65+oi)}. {option}</Text>
-          {checked&&<Text style={s.sound}>ඉංග්‍රීසි උච්චාරණය: {lesson.listeningPractice.readings[oi]}</Text>}
+          {checked&&<Text style={s.sound}>ඉංග්‍රීසි උච්චාරණය: {listening.readings[oi]}</Text>}
          </TouchableOpacity>;
         })}
-        {lessonChecked[lesson.id+"-listen"]?<Text style={s.sub}>{lessonAnswers[lesson.id+"-listen"]===lesson.listeningPractice.answer?"නිවැරදියි! ✓ ":"නැවත අහලා උත්සාහ කරමු. "}{lesson.listeningPractice.meaning}</Text>:<TouchableOpacity disabled={lessonAnswers[lesson.id+"-listen"]===undefined} onPress={()=>setLessonChecked(v=>({...v,[lesson.id+"-listen"]:true}))} style={[s.action,lessonAnswers[lesson.id+"-listen"]===undefined&&{opacity:0.45}]}><Text style={s.actionText}>පිළිතුර පරීක්ෂා කරන්න</Text></TouchableOpacity>}
+        {lessonChecked[lesson.id+"-listen"]?<Text style={s.sub}>{lessonAnswers[lesson.id+"-listen"]===listening.answer?"නිවැරදියි! ✓ ":"නැවත අහලා උත්සාහ කරමු. "}{listening.meaning}</Text>:<TouchableOpacity disabled={lessonAnswers[lesson.id+"-listen"]===undefined} onPress={()=>setLessonChecked(v=>({...v,[lesson.id+"-listen"]:true}))} style={[s.action,lessonAnswers[lesson.id+"-listen"]===undefined&&{opacity:0.45}]}><Text style={s.actionText}>පිළිතුර පරීක්ෂා කරන්න</Text></TouchableOpacity>}
        </View>}
       </View>}
      </View>;
