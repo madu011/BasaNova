@@ -1037,3 +1037,22 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 2. Continue paired B1 vocabulary semantic repair for lessons 15–20 in both tracks, with distinct examples, Sinhala meanings and approximate pronunciation guides.
 3. Keep auditing target-language examples and pronunciation aids; retain the approximate-not-native-verified caveat.
 4. Do not claim CI/APK success unless a successful latest-main workflow and artifact are verified.
+
+
+## 2026-11-19 — B1 lessons 15–20 semantic vocabulary repair and CI diagnosis
+- Repaired all 48 vocabulary entries in Serbian B1 lessons 15–20 and all 48 corresponding English entries. Replaced repeated generic sentences with distinct headword-specific examples and matching Sinhala meanings.
+- Added/reworked Sinhala-script approximate pronunciation readings for all 96 example sentences. A follow-up source audit caught eight Serbian reading fields in lessons 18–20 containing mixed Latin/Cyrillic text; corrected those, then caught and fixed two remaining Cyrillic fragments in Serbian lesson 18.
+- Serbian lesson 15–17 commit: `9897fa7805c0c399d8efca814e0e918716d90640`.
+- English lesson 15–17 commit: `62f8977e84518cc7aace86ef98fcfa08d86c2ec6`.
+- Serbian lesson 18–20 commit: `a5e80dbffd4c25c8523def1f821f542607b33512`.
+- English lesson 18–20 commit: `b34f9f3e2881df55a186bc2ee4011bfeb2748a3e`.
+- Serbian pronunciation script cleanup commits: `af5f8caa517408b77570889cfff381715b0b6e6e` and final correction `e33326ba2e88f589745f040854244fd1519c4dcf`.
+- Source-level structural audit on latest fetched files: lessons 15–20 exist in both tracks, each has eight vocabulary entries, and every entry has a non-empty example, Sinhala translation and example-reading field. The pronunciation audit passed for English lessons 15–20 and Serbian lessons 15, 16, 17, 19 and 20; lesson 18 had two remaining mixed-script readings that were corrected in the final commit. Re-run the audit on latest main to confirm final correction.
+- CI diagnosis: repeated Expo validation and APK build jobs terminate within about 1–2 seconds with `runner_id: 0`, blank runner name, and `steps: []`; one latest queued run also failed before steps. GitHub log download returns 404 BlobNotFound. This indicates the jobs are failing before a hosted runner is assigned, so there is no test/build output identifying an application-code error. The workflow files currently use `ubuntu-latest`; do not change app code to chase an unreported build error. Recheck GitHub Actions availability/account runner access and retry when jobs can be assigned.
+- No Expo export, native APK build, artifact upload, APK installation or Android device test has succeeded or been verified in this session. Do not claim otherwise.
+
+### Next exact task
+1. Re-fetch latest Serbian/English B1 files and confirm the final lesson 18 Sinhala-reading correction; run the same structural and mixed-script audit across lessons 15–20.
+2. Inspect the newest CI jobs. If `runner_id: 0` and no steps persist, report this as a GitHub runner provisioning/service issue rather than a code test failure; only diagnose application build errors from actual logs.
+3. Continue paired B1 semantic vocabulary audit for lessons 21–30, fixing generic examples, Sinhala translations and pronunciation readings in both tracks.
+4. Keep pronunciation aids marked approximate pending native-speaker review; verify an uploaded APK artifact before sharing any download link.
