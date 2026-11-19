@@ -137,44 +137,44 @@ export const ENGLISH_B1_LESSONS = [
     },
     "practice": [
       {
-        "prompt": "“nezaboravan” means…",
+        "prompt": "What does “memorable” mean?",
         "options": [
           "අමතක නොවන",
           "මිල අධික",
           "ප්‍රමාද"
         ],
         "answer": 0,
-        "explanation": "nezaboravan = අමතක නොවන"
+        "explanation": "memorable = අමතක නොවන"
       },
       {
-        "prompt": "Choose the past form.",
+        "prompt": "Choose the correct past simple sentence.",
         "options": [
-          "putujem",
-          "sam putovao",
-          "putovaću"
+          "I travel to Novi Sad last year.",
+          "I travelled to Novi Sad last year.",
+          "I will travelled to Novi Sad last year."
         ],
         "answer": 1,
-        "explanation": "sam putovao = මම ගමන් කළා"
+        "explanation": "Use the past simple for a finished time: travelled."
       },
       {
-        "prompt": "“odjednom” means…",
+        "prompt": "What does “suddenly” mean?",
         "options": [
           "හැමදාම",
           "හෙට",
           "එකවරම"
         ],
         "answer": 2,
-        "explanation": "odjednom = එකවරම"
+        "explanation": "suddenly = එකවරම"
       },
       {
-        "prompt": "Choose a memory phrase.",
+        "prompt": "Choose the sentence that describes a memory.",
         "options": [
-          "Još se sećam tog dana.",
-          "Sutra ću raditi.",
-          "Koliko košta?"
+          "I still remember that day clearly.",
+          "I am buying a ticket now.",
+          "The shop opens at nine."
         ],
         "answer": 0,
-        "explanation": "Još se sećam tog dana = මට ඒ දවස මතකයි"
+        "explanation": "The sentence describes something remembered from the past."
       }
     ]
   },
@@ -315,44 +315,44 @@ export const ENGLISH_B1_LESSONS = [
     },
     "practice": [
       {
-        "prompt": "“Po mom mišljenju” means…",
+        "prompt": "What does “in my opinion” express?",
         "options": [
           "ඊයේ උදේ",
           "මගේ අදහස අනුව",
           "අවසානයේ"
         ],
         "answer": 1,
-        "explanation": "Po mom mišljenju = මගේ අදහස අනුව"
+        "explanation": "In my opinion = මගේ අදහස අනුව"
       },
       {
-        "prompt": "Choose agreement.",
+        "prompt": "Choose the sentence that shows agreement.",
         "options": [
-          "Kasnim.",
-          "Ne znam gde.",
-          "Slažem se."
+          "I disagree with the plan.",
+          "I have not decided yet.",
+          "I agree with your suggestion."
         ],
         "answer": 2,
-        "explanation": "Slažem se = මම එකඟයි"
+        "explanation": "I agree expresses agreement."
       },
       {
-        "prompt": "“ipak” means…",
+        "prompt": "What does “however” mean?",
         "options": [
           "කෙසේවෙතත්",
           "එතැන",
           "ඉක්මනින්"
         ],
         "answer": 0,
-        "explanation": "ipak = කෙසේවෙතත්"
+        "explanation": "however = කෙසේවෙතත්"
       },
       {
-        "prompt": "Choose a reason connector.",
+        "prompt": "Choose the correct reason connector.",
         "options": [
-          "juče",
-          "zato što",
-          "uveče"
+          "although",
+          "because",
+          "unless"
         ],
         "answer": 1,
-        "explanation": "zato što = මන්ද යත්"
+        "explanation": "Because introduces a reason."
       }
     ]
   },
@@ -493,44 +493,44 @@ export const ENGLISH_B1_LESSONS = [
     },
     "practice": [
       {
-        "prompt": "“raspored” means…",
+        "prompt": "What does “deadline” mean?",
         "options": [
           "පවුල",
-          "ප්‍රවෘත්තිය",
-          "කාලසටහන"
-        ],
-        "answer": 2,
-        "explanation": "raspored = කාලසටහන"
-      },
-      {
-        "prompt": "Choose a suggestion.",
-        "options": [
-          "Predlažem da razgovaramo.",
-          "Juče sam spavao.",
-          "Lepo vreme."
-        ],
-        "answer": 0,
-        "explanation": "Predlažem da = මම යෝජනා කරනවා"
-      },
-      {
-        "prompt": "“rok” means…",
-        "options": [
-          "උදෑසන",
           "අවසාන දිනය",
           "අත්දැකීම"
         ],
         "answer": 1,
-        "explanation": "rok = අවසාන දිනය"
+        "explanation": "deadline = අවසාන දිනය"
       },
       {
-        "prompt": "“odgovoran” means…",
+        "prompt": "Choose a polite workplace suggestion.",
+        "options": [
+          "I suggest that we speak to the manager.",
+          "I slept yesterday.",
+          "The weather is nice."
+        ],
+        "answer": 0,
+        "explanation": "I suggest that... introduces a suggestion."
+      },
+      {
+        "prompt": "What does “responsible” mean?",
         "options": [
           "අමතක වූ",
           "මිල අඩු",
           "වගකිවයුතු"
         ],
         "answer": 2,
-        "explanation": "odgovoran = වගකිවයුතු"
+        "explanation": "responsible = වගකිවයුතු"
+      },
+      {
+        "prompt": "Choose the best solution to a missed deadline.",
+        "options": [
+          "Ignore the task.",
+          "Explain the delay and agree on a new deadline.",
+          "Blame a colleague without checking."
+        ],
+        "answer": 1,
+        "explanation": "A clear explanation and a new agreed deadline are practical steps."
       }
     ]
   },
@@ -671,44 +671,44 @@ export const ENGLISH_B1_LESSONS = [
     },
     "practice": [
       {
-        "prompt": "“jeftiniji” means…",
+        "prompt": "What does “cheaper” mean?",
         "options": [
           "වඩා ලාභ",
           "වඩා පැරණි",
           "වඩා දුර"
         ],
         "answer": 0,
-        "explanation": "jeftiniji = වඩා ලාභ"
+        "explanation": "cheaper = වඩා ලාභ"
       },
       {
-        "prompt": "Choose the first conditional.",
+        "prompt": "Choose the correct first conditional sentence.",
         "options": [
-          "Ako krenuli, stižemo juče.",
-          "Ako krenemo, stići ćemo.",
-          "Krenuo sam sutra."
+          "If we left yesterday, we arrive tomorrow.",
+          "If we leave now, we will arrive on time.",
+          "If we will leave, we arrived."
         ],
         "answer": 1,
-        "explanation": "Ako + present, ćemo + future"
+        "explanation": "First conditional: if + present simple, will + base verb."
       },
       {
-        "prompt": "“posledica” means…",
+        "prompt": "What does “consequence” mean?",
         "options": [
           "ආරාධනය",
           "ලිපිනය",
           "ප්‍රතිඵලය"
         ],
         "answer": 2,
-        "explanation": "posledica = ප්‍රතිඵලය"
+        "explanation": "consequence = ප්‍රතිඵලය"
       },
       {
-        "prompt": "Choose “compare”.",
+        "prompt": "Which verb means “to compare”?",
         "options": [
-          "porediti",
-          "odmarati",
-          "zaboraviti"
+          "compare",
+          "relax",
+          "forget"
         ],
         "answer": 0,
-        "explanation": "porediti = සසඳනවා"
+        "explanation": "compare = සසඳනවා"
       }
     ]
   },
@@ -849,44 +849,44 @@ export const ENGLISH_B1_LESSONS = [
     },
     "practice": [
       {
-        "prompt": "“izveštaj” means…",
+        "prompt": "What does “report” mean?",
         "options": [
           "ගෙවීම",
           "වාර්තාව",
           "සපත්තු"
         ],
         "answer": 1,
-        "explanation": "izveštaj = වාර්තාව"
+        "explanation": "report = වාර්තාව"
       },
       {
-        "prompt": "“Prema izveštaju” means…",
+        "prompt": "What does “according to the report” mean?",
         "options": [
           "මට අවශ්‍යයි",
           "ඊළඟ සතියේ",
           "වාර්තාවට අනුව"
         ],
         "answer": 2,
-        "explanation": "Prema izveštaju = වාර්තාවට අනුව"
+        "explanation": "According to the report = වාර්තාවට අනුව"
       },
       {
-        "prompt": "Choose “source”.",
+        "prompt": "Choose the word meaning “source”.",
         "options": [
-          "izvor",
-          "rok",
-          "mana"
+          "source",
+          "deadline",
+          "disadvantage"
         ],
         "answer": 0,
-        "explanation": "izvor = මූලාශ්‍රය"
+        "explanation": "source = මූලාශ්‍රය"
       },
       {
-        "prompt": "“ukratko” means…",
+        "prompt": "What does “briefly” mean?",
         "options": [
           "ඉතා හොඳින්",
           "කෙටියෙන්",
           "කලින්"
         ],
         "answer": 1,
-        "explanation": "ukratko = කෙටියෙන්"
+        "explanation": "briefly = කෙටියෙන්"
       }
     ]
   },
@@ -1029,42 +1029,42 @@ export const ENGLISH_B1_LESSONS = [
       {
         "prompt": "Choose a formal request.",
         "options": [
-          "Daj mi odmah!",
-          "Neću.",
-          "Da li biste mogli…?"
+          "Give it to me now!",
+          "I refuse.",
+          "Could you please send me the details?"
         ],
         "answer": 2,
-        "explanation": "Da li biste mogli…? = ඔබට පුළුවන්ද…?"
+        "explanation": "Could you please... is a polite formal request."
       },
       {
-        "prompt": "“potvrda” means…",
+        "prompt": "What does “confirmation” mean?",
         "options": [
           "තහවුරු කිරීම",
           "කාලසටහන",
           "අත්දැකීම"
         ],
         "answer": 0,
-        "explanation": "potvrda = තහවුරු කිරීම"
+        "explanation": "confirmation = තහවුරු කිරීම"
       },
       {
-        "prompt": "“unapred” means…",
+        "prompt": "What does “in advance” mean?",
         "options": [
           "පසුව",
           "කලින්",
           "අද"
         ],
         "answer": 1,
-        "explanation": "unapred = කලින්"
+        "explanation": "in advance = කලින්"
       },
       {
-        "prompt": "Choose a polite closing.",
+        "prompt": "Choose a polite closing for a work email.",
         "options": [
-          "Ćao, požuri!",
-          "Ne zanima me.",
-          "Hvala vam unapred."
+          "Hurry up!",
+          "I do not care.",
+          "Thank you for your help."
         ],
         "answer": 2,
-        "explanation": "Hvala vam unapred = කලින්ම ස්තුතියි"
+        "explanation": "Thank you for your help is a polite closing."
       }
     ]
   },
@@ -1205,44 +1205,44 @@ export const ENGLISH_B1_LESSONS = [
     },
     "practice": [
       {
-        "prompt": "“nesporazum” means…",
+        "prompt": "What does “misunderstanding” mean?",
         "options": [
           "වැරදි අවබෝධය",
           "ප්‍රගතිය",
           "තීරණය"
         ],
         "answer": 0,
-        "explanation": "nesporazum = වැරදි අවබෝධය"
+        "explanation": "misunderstanding = වැරදි අවබෝධය"
       },
       {
-        "prompt": "Choose a clarification question.",
+        "prompt": "Choose a question that asks someone to clarify.",
         "options": [
-          "Koliko je sati?",
-          "Možete li da pojasnite?",
-          "Gde je stanica?"
+          "What time is it?",
+          "Could you explain that more clearly?",
+          "Where is the station?"
         ],
         "answer": 1,
-        "explanation": "Možete li da pojasnite? = පැහැදිලි කරන්න පුළුවන්ද?"
+        "explanation": "Could you explain that more clearly? asks for clarification."
       },
       {
-        "prompt": "“zapravo” means…",
+        "prompt": "What does “actually” mean?",
         "options": [
           "හෙට",
           "අඩු මිල",
           "ඇත්ත වශයෙන්"
         ],
         "answer": 2,
-        "explanation": "zapravo = ඇත්ත වශයෙන්"
+        "explanation": "actually = ඇත්ත වශයෙන්"
       },
       {
-        "prompt": "Choose a confirmation phrase.",
+        "prompt": "Choose a phrase that checks understanding.",
         "options": [
-          "Da li sam dobro razumeo?",
-          "Ne dolazim nikad.",
-          "Dobar tek."
+          "Have I understood correctly?",
+          "I will never come.",
+          "Enjoy your meal."
         ],
         "answer": 0,
-        "explanation": "Da li sam dobro razumeo? = මට හරියට තේරුණාද?"
+        "explanation": "Have I understood correctly? checks whether the message was understood."
       }
     ]
   },
@@ -1383,44 +1383,44 @@ export const ENGLISH_B1_LESSONS = [
     },
     "practice": [
       {
-        "prompt": "“podeliti” means…",
+        "prompt": "What does “share” mean?",
         "options": [
           "අමතක කරනවා",
           "බෙදාගන්නවා",
           "මිලදී ගන්නවා"
         ],
         "answer": 1,
-        "explanation": "podeliti = බෙදාගන්නවා"
+        "explanation": "share = බෙදාගන්නවා"
       },
       {
-        "prompt": "“zatim” means…",
+        "prompt": "What does “then” mean?",
         "options": [
           "කවදාවත්",
           "ඊයේ",
           "ඊළඟට"
         ],
         "answer": 2,
-        "explanation": "zatim = ඊළඟට"
+        "explanation": "then = ඊළඟට"
       },
       {
-        "prompt": "Choose a deadline question.",
+        "prompt": "Choose a question about a project deadline.",
         "options": [
-          "Koji je rok?",
-          "Koliko košta?",
-          "Kako se zoveš?"
+          "When is the deadline?",
+          "How much does it cost?",
+          "What is your name?"
         ],
         "answer": 0,
-        "explanation": "Koji je rok? = අවසාන දිනය කවදාද?"
+        "explanation": "When is the deadline? asks for the final date."
       },
       {
-        "prompt": "“napredak” means…",
+        "prompt": "What does “progress” mean?",
         "options": [
           "වට්ටම",
           "ප්‍රගතිය",
           "අත්දැකීම"
         ],
         "answer": 1,
-        "explanation": "napredak = ප්‍රගතිය"
+        "explanation": "progress = ප්‍රගතිය"
       }
     ]
   },
@@ -1561,44 +1561,44 @@ export const ENGLISH_B1_LESSONS = [
     },
     "practice": [
       {
-        "prompt": "“ranije” means…",
+        "prompt": "What does “earlier” mean?",
         "options": [
           "අනාගතයේ",
           "අද රාත්‍රියේ",
           "කලින්"
         ],
         "answer": 2,
-        "explanation": "ranije = කලින්"
+        "explanation": "earlier = කලින්"
       },
       {
-        "prompt": "Choose a past habit.",
+        "prompt": "Choose the sentence that describes a past habit.",
         "options": [
-          "Ranije sam radio ovde.",
-          "Sada radim ovde.",
-          "Sutra ću doći."
+          "I used to work here.",
+          "I am working here right now.",
+          "I will arrive tomorrow."
         ],
         "answer": 0,
-        "explanation": "Ranije sam radio = කලින් මම වැඩ කළා"
+        "explanation": "Used to describes a past habit or situation."
       },
       {
-        "prompt": "“postepeno” means…",
+        "prompt": "What does “gradually” mean?",
         "options": [
           "එකවරම",
           "ක්‍රමයෙන්",
           "හදිසියේ"
         ],
         "answer": 1,
-        "explanation": "postepeno = ක්‍රමයෙන්"
+        "explanation": "gradually = ක්‍රමයෙන්"
       },
       {
-        "prompt": "Choose a contrast word.",
+        "prompt": "Choose a word that shows contrast.",
         "options": [
-          "zato",
-          "jer",
-          "sada"
+          "therefore",
+          "because",
+          "however"
         ],
         "answer": 2,
-        "explanation": "sada = දැන්"
+        "explanation": "however introduces a contrast."
       }
     ]
   },
@@ -1739,44 +1739,44 @@ export const ENGLISH_B1_LESSONS = [
     },
     "practice": [
       {
-        "prompt": "“rizik” means…",
+        "prompt": "What does “risk” mean?",
         "options": [
           "අවදානම",
           "උපදෙස",
           "වාසිය"
         ],
         "answer": 0,
-        "explanation": "rizik = අවදානම"
+        "explanation": "risk = අවදානම"
       },
       {
-        "prompt": "Choose advice.",
+        "prompt": "Choose a sentence that gives advice.",
         "options": [
-          "Sutra sam bio…",
-          "Na tvom mestu, razgovarao bih…",
-          "Koliko imaš godina?"
+          "I was at work yesterday.",
+          "If I were you, I would speak to the manager.",
+          "How old are you?"
         ],
         "answer": 1,
-        "explanation": "Na tvom mestu = ඔයාගේ තැන මම හිටියා නම්"
+        "explanation": "If I were you, I would... is a common advice structure."
       },
       {
-        "prompt": "“razmotriti” means…",
+        "prompt": "What does “consider” mean?",
         "options": [
           "අවසන් කරනවා",
           "බෙදාගන්නවා",
           "සලකා බලනවා"
         ],
         "answer": 2,
-        "explanation": "razmotriti = සලකා බලනවා"
+        "explanation": "consider = සලකා බලනවා"
       },
       {
-        "prompt": "“verovatno” means…",
+        "prompt": "What does “probably” mean?",
         "options": [
           "බොහෝවිට",
           "කවදාවත්",
           "කලින්"
         ],
         "answer": 0,
-        "explanation": "verovatno = බොහෝවිට"
+        "explanation": "probably = බොහෝවිට"
       }
     ]
   },
