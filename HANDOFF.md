@@ -1221,3 +1221,13 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 
 ### Next exact task
 - With A1 lessons 1–50 now source-audited, continue to A1 final exam + lesson integration QA: verify all lesson IDs are unique, lesson array ordering/progress mapping is stable, compare the A1 final exam coverage to lessons, and inspect App.js rendering for vocabulary `exampleReading` support. Do not run builds until the usage reset and account restriction are resolved.
+
+
+## A1 final assessment QA follow-up — 2026-11-19
+- Rechecked the A1 course sources and Learn renderer against the prior handoff task. Serbian and English each have 50 lesson objects, 50 unique lesson IDs, and lesson titles numbered 1–50 with no missing numbers. No duplicate lesson IDs were found.
+- Confirmed App.js renders lesson example text with its authored Sinhala pronunciation where available and uses a pronunciation fallback when absent; the vocabulary-book aggregation also consumes `exampleReading`.
+- Confirmed the A1 final assessment has 20 Serbian and 20 English questions, each with audio, a Sinhala reading, three answer options and a valid answer index. The Learn UI checks the selected option against each question's `answer` value and computes the 70% pass threshold without assuming a fixed option position.
+- Found a weakness: all 40 correct answers were originally option index 0. Reordered the options without changing question wording, correct meanings or distractor content. The new distribution is 6 correct answers at index 0, 7 at index 1 and 7 at index 2 for each language. All 40 answer indexes remain valid. Commit: `04d86fc569619b556dfd9ecd90bb5bdae2618052`.
+- Coverage spot-check: the 20-question exams sample common A1 greetings, introductions, ordering, prices, directions, dates, work schedules, money, health, clarification, transport and everyday conversation. The exam is a sampled cumulative listening check, not a one-question-per-lesson coverage map; no new duplicated lesson content was added.
+- No build or CI was started, in line with the existing account/usage restriction noted in the preceding handoff. APK and physical Android verification remain outstanding. Fluent-speaker review of Serbian/English naturalness and Sinhala pronunciation remains outstanding.
+- Next: continue the A1 content/rendering QA with targeted checks for missing pronunciation/meaning fields and progress-key stability; fix only verified defects, then proceed to the next documented curriculum task when usage/build access is available.
