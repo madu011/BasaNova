@@ -122,31 +122,31 @@ export const ENGLISH_C1_LESSONS = [
       "audio": "The expression is not entirely appropriate.",
       "reading": "දි එක්ස්ප්‍රෙෂන් ඉස් නොට් එන්ටයර්ලි අප්‍රෝප්‍රියේට්.",
       "options": [
-        "ප්‍රකාශය සම්පූර්ණයෙන් සුදුසු නැත.",
         "එම ප්‍රකාශය සම්පූර්ණයෙන්ම ගැළපෙන්නේ නැත.",
+        "ප්‍රකාශය සම්පූර්ණයෙන් සුදුසු නැත.",
         "Neither answer is correct."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "A subtle difference in meaning?",
         "options": [
-          "nuance",
           "register",
+          "nuance",
           "emphasis"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "nuance — correct answer"
       },
       {
         "prompt": "Best for a formal report?",
         "options": [
-          "precise wording",
           "slang",
-          "ambiguous wording"
+          "ambiguous wording",
+          "precise wording"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "precise wording — correct answer"
       },
       {
@@ -162,11 +162,11 @@ export const ENGLISH_C1_LESSONS = [
       {
         "prompt": "If a sentence has two possible meanings?",
         "options": [
-          "ambiguous",
           "precise",
+          "ambiguous",
           "appropriate"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "ambiguous — correct answer"
       }
     ]
@@ -293,31 +293,31 @@ export const ENGLISH_C1_LESSONS = [
       "audio": "The main finding was confirmed.",
       "reading": "දි මේන් ෆයින්ඩිං වොස් කන්ෆර්ම්ඩ්.",
       "options": [
-        "ප්‍රධාන සොයාගැනීම තහවුරු විය.",
         "ප්‍රධාන සොයාගැනීම තවමත් තහවුරු කර නැත.",
-        "Ниједан одговор није тачан."
+        "Ниједан одговор није тачан.",
+        "ප්‍රධාන සොයාගැනීම තහවුරු විය."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "A concise overview?",
         "options": [
-          "summary",
           "scope",
+          "summary",
           "appendix"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "summary — correct answer"
       },
       {
         "prompt": "To select key points?",
         "options": [
-          "highlight",
           "omit",
-          "expand"
+          "expand",
+          "highlight"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "highlight — correct answer"
       },
       {
@@ -333,11 +333,11 @@ export const ENGLISH_C1_LESSONS = [
       {
         "prompt": "A good summary focuses on?",
         "options": [
-          "key information",
           "every minor detail",
+          "key information",
           "unsupported opinions"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "key information — correct answer"
       }
     ]
@@ -474,21 +474,21 @@ export const ENGLISH_C1_LESSONS = [
       {
         "prompt": "A proposed explanation to test?",
         "options": [
-          "hypothesis",
           "conclusion",
+          "hypothesis",
           "sample"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "hypothesis — correct answer"
       },
       {
         "prompt": "Correlation does not prove?",
         "options": [
-          "causation",
           "methodology",
-          "contribution"
+          "contribution",
+          "causation"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "causation — correct answer"
       },
       {
@@ -504,11 +504,11 @@ export const ENGLISH_C1_LESSONS = [
       {
         "prompt": "Research method?",
         "options": [
-          "methodology",
           "correlation",
+          "methodology",
           "limitation"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "methodology — correct answer"
       }
     ]
@@ -635,31 +635,31 @@ export const ENGLISH_C1_LESSONS = [
       "audio": "Do not take the remark literally.",
       "reading": "ඩූ නොට් ටේක් දි රිමාර්ක් ලිටරලි.",
       "options": [
-        "ප්‍රකාශය වචනාර්ථයෙන් නොගන්න.",
         "ප්‍රකාශය වචනාර්ථයෙන්ම ගන්න.",
+        "ප්‍රකාශය වචනාර්ථයෙන් නොගන්න.",
         "Ниједан одговор није тачан."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "A fixed figurative expression?",
         "options": [
-          "idiom",
           "number",
+          "idiom",
           "date"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "idiom — correct answer"
       },
       {
         "prompt": "“Tip of the iceberg” means?",
         "options": [
-          "a small visible part",
           "the whole issue",
-          "a literal iceberg"
+          "a literal iceberg",
+          "a small visible part"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "a small visible part — correct answer"
       },
       {
@@ -675,11 +675,11 @@ export const ENGLISH_C1_LESSONS = [
       {
         "prompt": "Irony depends on?",
         "options": [
-          "context",
           "temperature",
+          "context",
           "spelling"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "context — correct answer"
       }
     ]
@@ -806,31 +806,31 @@ export const ENGLISH_C1_LESSONS = [
       "audio": "From the tone, we can infer that she is unconvinced.",
       "reading": "ෆ්‍රම් දි ටෝන්, වී කැන් ඉන්ෆර් දැට් ෂී ඉස් අන්කන්වින්ස්ඩ්.",
       "options": [
-        "ස්වරයෙන් ඇය ඒත්තු ගොස් නැති බව නිගමනය කළ හැක.",
         "කථිකාව තවමත් ඒත්තු ගොස් නැති බවයි.",
-        "Neither answer is correct."
+        "Neither answer is correct.",
+        "ස්වරයෙන් ඇය ඒත්තු ගොස් නැති බව නිගමනය කළ හැක."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "An unstated suggested meaning?",
         "options": [
-          "implication",
           "title",
+          "implication",
           "pause"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "implication — correct answer"
       },
       {
         "prompt": "The speaker’s manner of speaking?",
         "options": [
-          "tone",
           "sample",
-          "summary"
+          "summary",
+          "tone"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "tone — correct answer"
       },
       {
@@ -846,11 +846,11 @@ export const ENGLISH_C1_LESSONS = [
       {
         "prompt": "Explicit and implied meanings are?",
         "options": [
-          "different",
           "always identical",
+          "different",
           "unrelated to context"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "different — correct answer"
       }
     ]
@@ -987,21 +987,21 @@ export const ENGLISH_C1_LESSONS = [
       {
         "prompt": "The central argument?",
         "options": [
-          "thesis",
           "audience",
+          "thesis",
           "clarification"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "thesis — correct answer"
       },
       {
         "prompt": "Brief and clear?",
         "options": [
-          "concise",
           "ambiguous",
-          "reserved"
+          "reserved",
+          "concise"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "concise — correct answer"
       },
       {
@@ -1017,11 +1017,11 @@ export const ENGLISH_C1_LESSONS = [
       {
         "prompt": "A strong response to criticism?",
         "options": [
-          "acknowledge and explain with evidence",
           "change the subject",
+          "acknowledge and explain with evidence",
           "ignore the question"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "acknowledge and explain with evidence — correct answer"
       }
     ]
@@ -1148,31 +1148,31 @@ export const ENGLISH_C1_LESSONS = [
       "audio": "Terminology must remain consistent.",
       "reading": "ටර්මිනොලජි මස්ට් රිමේන් කන්සිස්ටන්ට්.",
       "options": [
-        "පාරිභාෂික භාවිතය අනුකූලව පැවතිය යුතුය.",
         "පාරිභාෂික වචන එකම අර්ථයෙන් අඛණ්ඩව භාවිත කළ යුතුය.",
+        "පාරිභාෂික භාවිතය අනුකූලව පැවතිය යුතුය.",
         "Neither answer is correct."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Consistent use?",
         "options": [
-          "consistency",
           "ambiguity",
+          "consistency",
           "redundancy"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "consistency — correct answer"
       },
       {
         "prompt": "Logical connection of ideas?",
         "options": [
-          "coherence",
           "tone",
-          "sample"
+          "sample",
+          "coherence"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "coherence — correct answer"
       },
       {
@@ -1188,11 +1188,11 @@ export const ENGLISH_C1_LESSONS = [
       {
         "prompt": "Final language check?",
         "options": [
-          "proofreading",
           "presentation",
+          "proofreading",
           "hypothesis"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "proofreading — correct answer"
       }
     ]
@@ -1319,31 +1319,31 @@ export const ENGLISH_C1_LESSONS = [
       "audio": "The proposal is feasible but requires additional resources.",
       "reading": "දි ප්‍රපෝසල් ඉස් ෆීසබල් බට් රික්වයර්ස් අඩිෂනල් රිසෝර්සස්.",
       "options": [
-        "යෝජනාව ක්‍රියාත්මක කළ හැකි නමුත් අමතර සම්පත් අවශ්‍යය.",
         "යෝජනාව කළ හැකි නමුත් අමතර සම්පත් අවශ්‍යයි.",
-        "Neither answer is correct."
+        "Neither answer is correct.",
+        "යෝජනාව ක්‍රියාත්මක කළ හැකි නමුත් අමතර සම්පත් අවශ්‍යය."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Practical possibility?",
         "options": [
-          "feasibility",
           "consequence",
+          "feasibility",
           "expenditure"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "feasibility — correct answer"
       },
       {
         "prompt": "An outcome or result?",
         "options": [
-          "consequence",
           "measure",
-          "benefit"
+          "benefit",
+          "consequence"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "consequence — correct answer"
       },
       {
@@ -1359,11 +1359,11 @@ export const ENGLISH_C1_LESSONS = [
       {
         "prompt": "Policy analysis should consider?",
         "options": [
-          "stakeholders and effects",
           "one interest only",
+          "stakeholders and effects",
           "no evidence"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "stakeholders and effects — correct answer"
       }
     ]
@@ -1500,21 +1500,21 @@ export const ENGLISH_C1_LESSONS = [
       {
         "prompt": "Professional letters/messages?",
         "options": [
-          "correspondence",
           "attachment",
+          "correspondence",
           "deadline"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "correspondence — correct answer"
       },
       {
         "prompt": "Explain the reasons for?",
         "options": [
-          "justify",
           "postpone",
-          "confirm"
+          "confirm",
+          "justify"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "justify — correct answer"
       },
       {
@@ -1530,11 +1530,11 @@ export const ENGLISH_C1_LESSONS = [
       {
         "prompt": "A tactful response?",
         "options": [
-          "diplomatic",
           "ambiguous",
+          "diplomatic",
           "rude"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "diplomatic — correct answer"
       }
     ]
@@ -1661,31 +1661,31 @@ export const ENGLISH_C1_LESSONS = [
       "audio": "The conclusion is nuanced but clearly substantiated.",
       "reading": "දි කන්ක්ලූෂන් ඉස් න්‍යුවාන්ස්ඩ් බට් ක්ලියර්ලි සබ්ස්ටැන්ෂියේටඩ්.",
       "options": [
-        "නිගමනය සියුම් නමුත් පැහැදිලි සාක්ෂි සහිතය.",
         "නිගමනයට සූක්ෂ්ම අර්ථයක් තිබුණත් එය සාක්ෂි සහිතය.",
+        "නිගමනය සියුම් නමුත් පැහැදිලි සාක්ෂි සහිතය.",
         "Neither answer is correct."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Combining ideas from sources?",
         "options": [
-          "synthesis",
           "isolation",
+          "synthesis",
           "pause"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "synthesis — correct answer"
       },
       {
         "prompt": "Showing subtle distinctions?",
         "options": [
-          "nuanced",
           "literal",
-          "superficial"
+          "superficial",
+          "nuanced"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "nuanced — correct answer"
       },
       {
@@ -1701,11 +1701,11 @@ export const ENGLISH_C1_LESSONS = [
       {
         "prompt": "C1 communication requires?",
         "options": [
-          "evidence, nuance and audience awareness",
           "memorising words only",
+          "evidence, nuance and audience awareness",
           "ignoring context"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "evidence, nuance and audience awareness — correct answer"
       }
     ]
