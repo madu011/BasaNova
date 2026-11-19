@@ -647,3 +647,19 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 2. Integrate both batches and update curriculum, README and HANDOFF.
 3. Continue C2 lessons 31–40 and 41–50, then add C2 cumulative revision and final practice assessments.
 4. Review C1/C2 Serbian and English naturalness, Sinhala translations and pronunciation with fluent speakers; verify Expo/Android builds and physical-device behavior before claiming release readiness.
+
+
+
+## 2026-11-19 — C2 lessons 21–30 completed
+- Added paired modules `serbianC2Lessons21_30.js` and `englishC2Lessons21_30.js`, with ten advanced lessons per language: corpus linguistics/concordances; discourse markers/information structure; phonological variation/prosody; translation/untranslatability; public narratives/historical memory; epistemic modality/evidentiality; academic peer review; conflict-sensitive public discourse; humour/satire/intercultural transfer; and research presentation/expert defence.
+- Each lesson has eight vocabulary entries with Sinhala meanings and approximate Sinhala-script readings, grammar guidance, four examples, four dialogue lines, listening practice and four practice questions. Serbian and English content are authored separately; Serbian practice prompts are Serbian.
+- Integrated both arrays into the C2 Learn sequence in `App.js`; updated `curriculum.js` and `README.md`.
+- Commits: Serbian source `c312f93186a6104270b45055213e660ddc4ce016`; English source `59fd3ff051c5b761f06d1abd547988d247bf9cf7`; App integration `52ae6c8b88c4550f1ae061d546be0a7ff5da5117`; curriculum `3b1839f0fa3158db2dda72c0643761c54b1c375f`; README `6c9c177871312fec79a4efb30394a8d646d48721`.
+- Source validation: each batch has 10 unique lessons, 80 vocabulary items, 40 examples, 40 dialogue lines, 40 practice questions and 10 listening tasks; no required vocabulary/example/dialogue readings are missing. App imports and combined C2 sequence references are present. This is source validation only; no build, APK installation or physical-device test is claimed.
+- Sinhala-script readings are approximate and require fluent-speaker review. C2 now has 30/50 lessons per language. Across the six levels, the authored total is 280 lessons per language, 560/600 paired records (93.3%).
+
+### Next exact task
+1. Continue paired C2 lessons 31–40 for Serbian and English with ten fresh expert-level topics and the full lesson schema.
+2. Integrate both batches and update curriculum, README and HANDOFF.
+3. Complete C2 lessons 41–50, then create cumulative C2 revision and final practice assessments.
+4. Review advanced language naturalness, Sinhala meanings/readings with fluent speakers; verify Expo/Android builds and a physical Android device before claiming release readiness.
