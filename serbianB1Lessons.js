@@ -51,7 +51,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "සෙචාති සේ",
         "meaning": "මතක තබාගන්නවා",
         "example": "Uvek ću se sećati tog putovanja.",
-        "translation": "මට ඒ ගමන හැමදාම මතක থাকবে.",
+        "translation": "මට ඒ ගමන හැමදාම මතක තියේවි.",
         "exampleReading": "උවෙක් චු සේ සෙචාති තොග පුතොවාන්යා."
       },
       {
