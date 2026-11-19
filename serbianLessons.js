@@ -1372,7 +1372,7 @@ export const SERBIAN_A1_LESSONS = [
   title:"පාඩම 19 · නිවස සහ ගෘහ භාණ්ඩ",
   objective:"තමන් ජීවත් වන නිවස, කාමර, මූලික ගෘහ භාණ්ඩ සහ නිවසේ ඇති දේවල් විස්තර කිරීම.",
   vocabulary:[
-   {word:"Stan",reading:"ෂිවිම් උ මාлом ස්තානු.",meaning:"මහල් නිවාසය",example:"Živim u stanu.",exampleReading:"ෂිවිම් උ ස්තානු.",translation:"මම මහල් නිවාසයක ජීවත් වෙනවා."},
+   {word:"Stan",reading:"ෂිවිම් උ මාලොම් ස්තානු.",meaning:"මහල් නිවාසය",example:"Živim u stanu.",exampleReading:"ෂිවිම් උ ස්තානු.",translation:"මම මහල් නිවාසයක ජීවත් වෙනවා."},
    {word:"Kuća",reading:"කුචා",meaning:"නිවස",example:"Moja kuća je mala.",exampleReading:"මොයා කුචා යේ මාලා.",translation:"මගේ නිවස කුඩායි."},
    {word:"Soba",reading:"සොබා",meaning:"කාමරය",example:"Moja soba je svetla.",exampleReading:"මොයා සොබා යේ ස්වෙත්ලා.",translation:"මගේ කාමරය ආලෝකවත්."},
    {word:"Kuhinja",reading:"කුහින්‍යා",meaning:"මුළුතැන්ගෙය",example:"Kuhinja je čista.",exampleReading:"කුහින්‍යා යේ චිස්තා.",translation:"මුළුතැන්ගෙය පිරිසිදුයි."},
