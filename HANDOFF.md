@@ -978,3 +978,18 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 1. Check rerun outcomes for Expo run `44570485963` and APK run `44570437110`; inspect job steps/logs if jobs start.
 2. Continue the paired B1 vocabulary semantic review for lessons 1–30, replacing repeated generic examples with word-specific target-language sentences and matching Sinhala translations/readings.
 3. Only share a fresh APK after the latest-main workflow uploads a verified artifact; physical Android installation still needs testing.
+
+
+## 2026-11-19 — B1 lesson 11 vocabulary repair
+- Repaired the eight vocabulary-card examples in both `serbianB1Lessons.js` and `englishB1Lessons.js` for B1 lesson 11 (Probability and certainty).
+- Replaced repeated generic examples with eight word-specific, natural sentences covering certainty, perhaps, likely, unlikely, estimate, forecast, definitely and possibility.
+- Added matching Sinhala meanings and language-appropriate Sinhala-script pronunciation guides for each example.
+- Serbian update commit: `ea2c4d3f2edd72bcf8a0546c313e889b2dd71a9d`.
+- English update commit: `a4ed3223e0a6a73bf1f6a356c108a81bb3cba6bd`.
+- Expo validation for handoff commit `30dc1e82071f59123d4ee6fbf84ecc81a7a7ef53` failed. GitHub job log endpoint returned 404, so the precise failure cause is not verified. No fresh APK artifact or successful Android build is confirmed.
+- Source changes were committed to main; no local JavaScript parser, Expo export, APK build, or device test was available in this session.
+
+### Next exact task
+1. Repair paired B1 lesson 12 vocabulary-card examples and pronunciation/meaning fields, checking that each example actually demonstrates its target word.
+2. Continue paired semantic QA through lessons 13–20, especially repeated generic examples, mismatched Sinhala translations, and copied/non-phonetic reading fields.
+3. Investigate why GitHub Actions jobs fail before logs are available; do not claim CI or APK success until a run and artifact are verified.
