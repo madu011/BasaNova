@@ -89,24 +89,20 @@ export const ENGLISH_C1_LESSONS_21_30 = [
     ],
     "dialogue": [
       {
-        "text": "What is the central argument?",
-        "reading": "ව්ඇට් ඉස් ත්එ ක්එන්ට්ර්ඇල් ඇර්ග්අම්එන්ට්?",
-        "meaning": "ප්‍රධාන තර්කය කුමක්ද?"
+        "text": "Which evidence supports this claim?",
+        "meaning": "මෙම ප්‍රකාශයට සහාය දෙන සාක්ෂිය කුමක්ද?"
       },
       {
-        "text": "It relies on evidence that can be verified.",
-        "reading": "ඉට් ර්එල්ඉඑස් ඔන් එව්ඉඩ්එන්ක්එ ත්ඇට් ක්ඇන් බ්එ ව්එර්ඉෆ්ඉඑඩ්.",
-        "meaning": "එය පරීක්ෂා කළ හැකි සාක්ෂි මත පදනම් වේ."
+        "text": "Independent data from several sources.",
+        "meaning": "මූලාශ්‍ර කිහිපයක ස්වාධීන දත්ත."
       },
       {
-        "text": "Is there an important limitation?",
-        "reading": "ඉස් ත්එර්එ ඇන් ඉම්ප්ඔර්ට්ඇන්ට් ල්ඉම්ඉට්ඇෂන්?",
-        "meaning": "වැදගත් සීමාවක් තිබේද?"
+        "text": "How do we answer the counterargument?",
+        "meaning": "විරුද්ධ තර්කයට පිළිතුරු දෙන්නේ කෙසේද?"
       },
       {
-        "text": "Yes, so the conclusion needs careful wording.",
-        "reading": "යිඑස්, ස්ඔ ත්එ ක්ඔන්ක්ල්අෂන් න්ඊඩ්ස් ක්ඇර්එෆ්අල් ව්ඔර්ඩ්ඉං.",
-        "meaning": "ඔව්, ඒ නිසා නිගමනය ප්‍රවේශමෙන් සකස් කළ යුතුය."
+        "text": "Acknowledge its strength, then explain the distinction.",
+        "meaning": "එහි ශක්තිය පිළිගෙන වෙනස පැහැදිලි කරමු."
       }
     ],
     "listeningPractice": {
@@ -252,24 +248,20 @@ export const ENGLISH_C1_LESSONS_21_30 = [
     ],
     "dialogue": [
       {
-        "text": "What is the central argument?",
-        "reading": "ව්ඇට් ඉස් ත්එ ක්එන්ට්ර්ඇල් ඇර්ග්අම්එන්ට්?",
-        "meaning": "ප්‍රධාන තර්කය කුමක්ද?"
+        "text": "How can we connect these two paragraphs?",
+        "meaning": "මෙම ඡේද දෙක සම්බන්ධ කරන්නේ කෙසේද?"
       },
       {
-        "text": "It relies on evidence that can be verified.",
-        "reading": "ඉට් ර්එල්ඉඑස් ඔන් එව්ඉඩ්එන්ක්එ ත්ඇට් ක්ඇන් බ්එ ව්එර්ඉෆ්ඉඑඩ්.",
-        "meaning": "එය පරීක්ෂා කළ හැකි සාක්ෂි මත පදනම් වේ."
+        "text": "We could begin with “moreover”.",
+        "meaning": "“ඊට අමතරව” යන්නෙන් ආරම්භ කළ හැකියි."
       },
       {
-        "text": "Is there an important limitation?",
-        "reading": "ඉස් ත්එර්එ ඇන් ඉම්ප්ඔර්ට්ඇන්ට් ල්ඉම්ඉට්ඇෂන්?",
-        "meaning": "වැදගත් සීමාවක් තිබේද?"
+        "text": "How do we show a contrast?",
+        "meaning": "විරුද්ධතාව පෙන්වන්නේ කෙසේද?"
       },
       {
-        "text": "Yes, so the conclusion needs careful wording.",
-        "reading": "යිඑස්, ස්ඔ ත්එ ක්ඔන්ක්ල්අෂන් න්ඊඩ්ස් ක්ඇර්එෆ්අල් ව්ඔර්ඩ්ඉං.",
-        "meaning": "ඔව්, ඒ නිසා නිගමනය ප්‍රවේශමෙන් සකස් කළ යුතුය."
+        "text": "“Nevertheless” sounds more natural here.",
+        "meaning": "“එසේ වුවත්” යන්න මෙහි වඩාත් ස්වාභාවිකයි."
       }
     ],
     "listeningPractice": {
@@ -415,24 +407,20 @@ export const ENGLISH_C1_LESSONS_21_30 = [
     ],
     "dialogue": [
       {
-        "text": "What is the central argument?",
-        "reading": "ව්ඇට් ඉස් ත්එ ක්එන්ට්ර්ඇල් ඇර්ග්අම්එන්ට්?",
-        "meaning": "ප්‍රධාන තර්කය කුමක්ද?"
+        "text": "Who is responsible for delivery?",
+        "meaning": "භාරදීම සඳහා වගකිව යුත්තේ කවුද?"
       },
       {
-        "text": "It relies on evidence that can be verified.",
-        "reading": "ඉට් ර්එල්ඉඑස් ඔන් එව්ඉඩ්එන්ක්එ ත්ඇට් ක්ඇන් බ්එ ව්එර්ඉෆ්ඉඑඩ්.",
-        "meaning": "එය පරීක්ෂා කළ හැකි සාක්ෂි මත පදනම් වේ."
+        "text": "The supplier, under the second clause.",
+        "meaning": "දෙවන වගන්තිය අනුව සැපයුම්කරුයි."
       },
       {
-        "text": "Is there an important limitation?",
-        "reading": "ඉස් ත්එර්එ ඇන් ඉම්ප්ඔර්ට්ඇන්ට් ල්ඉම්ඉට්ඇෂන්?",
-        "meaning": "වැදගත් සීමාවක් තිබේද?"
+        "text": "Can we change the deadline?",
+        "meaning": "අපට අවසන් දිනය වෙනස් කළ හැකිද?"
       },
       {
-        "text": "Yes, so the conclusion needs careful wording.",
-        "reading": "යිඑස්, ස්ඔ ත්එ ක්ඔන්ක්ල්අෂන් න්ඊඩ්ස් ක්ඇර්එෆ්අල් ව්ඔර්ඩ්ඉං.",
-        "meaning": "ඔව්, ඒ නිසා නිගමනය ප්‍රවේශමෙන් සකස් කළ යුතුය."
+        "text": "Only with written consent from both parties.",
+        "meaning": "දෙපාර්ශ්වයේ ලිඛිත කැමැත්තෙන් පමණයි."
       }
     ],
     "listeningPractice": {
@@ -578,24 +566,20 @@ export const ENGLISH_C1_LESSONS_21_30 = [
     ],
     "dialogue": [
       {
-        "text": "What is the central argument?",
-        "reading": "ව්ඇට් ඉස් ත්එ ක්එන්ට්ර්ඇල් ඇර්ග්අම්එන්ට්?",
-        "meaning": "ප්‍රධාන තර්කය කුමක්ද?"
+        "text": "Has the information been verified?",
+        "meaning": "තොරතුර තහවුරු කර තිබේද?"
       },
       {
-        "text": "It relies on evidence that can be verified.",
-        "reading": "ඉට් ර්එල්ඉඑස් ඔන් එව්ඉඩ්එන්ක්එ ත්ඇට් ක්ඇන් බ්එ ව්එර්ඉෆ්ඉඑඩ්.",
-        "meaning": "එය පරීක්ෂා කළ හැකි සාක්ෂි මත පදනම් වේ."
+        "text": "We are waiting for official confirmation.",
+        "meaning": "නිල තහවුරු කිරීම බලා සිටිනවා."
       },
       {
-        "text": "Is there an important limitation?",
-        "reading": "ඉස් ත්එර්එ ඇන් ඉම්ප්ඔර්ට්ඇන්ට් ල්ඉම්ඉට්ඇෂන්?",
-        "meaning": "වැදගත් සීමාවක් තිබේද?"
+        "text": "What should we publish meanwhile?",
+        "meaning": "ඒ අතරතුර අප ප්‍රකාශ කළ යුත්තේ කුමක්ද?"
       },
       {
-        "text": "Yes, so the conclusion needs careful wording.",
-        "reading": "යිඑස්, ස්ඔ ත්එ ක්ඔන්ක්ල්අෂන් න්ඊඩ්ස් ක්ඇර්එෆ්අල් ව්ඔර්ඩ්ඉං.",
-        "meaning": "ඔව්, ඒ නිසා නිගමනය ප්‍රවේශමෙන් සකස් කළ යුතුය."
+        "text": "Known facts and the next update time.",
+        "meaning": "දන්නා කරුණු සහ ඊළඟ යාවත්කාලීන වේලාව."
       }
     ],
     "listeningPractice": {
@@ -741,24 +725,20 @@ export const ENGLISH_C1_LESSONS_21_30 = [
     ],
     "dialogue": [
       {
-        "text": "What is the central argument?",
-        "reading": "ව්ඇට් ඉස් ත්එ ක්එන්ට්ර්ඇල් ඇර්ග්අම්එන්ට්?",
-        "meaning": "ප්‍රධාන තර්කය කුමක්ද?"
+        "text": "Why are staff avoiding the new system?",
+        "meaning": "සේවකයන් නව පද්ධතිය මඟහරින්නේ ඇයි?"
       },
       {
-        "text": "It relies on evidence that can be verified.",
-        "reading": "ඉට් ර්එල්ඉඑස් ඔන් එව්ඉඩ්එන්ක්එ ත්ඇට් ක්ඇන් බ්එ ව්එර්ඉෆ්ඉඑඩ්.",
-        "meaning": "එය පරීක්ෂා කළ හැකි සාක්ෂි මත පදනම් වේ."
+        "text": "The training did not reflect their tasks.",
+        "meaning": "පුහුණුව ඔවුන්ගේ කාර්යයන්ට ගැළපුණේ නැහැ."
       },
       {
-        "text": "Is there an important limitation?",
-        "reading": "ඉස් ත්එර්එ ඇන් ඉම්ප්ඔර්ට්ඇන්ට් ල්ඉම්ඉට්ඇෂන්?",
-        "meaning": "වැදගත් සීමාවක් තිබේද?"
+        "text": "How can we improve implementation?",
+        "meaning": "ක්‍රියාත්මක කිරීම වැඩිදියුණු කරන්නේ කෙසේද?"
       },
       {
-        "text": "Yes, so the conclusion needs careful wording.",
-        "reading": "යිඑස්, ස්ඔ ත්එ ක්ඔන්ක්ල්අෂන් න්ඊඩ්ස් ක්ඇර්එෆ්අල් ව්ඔර්ඩ්ඉං.",
-        "meaning": "ඔව්, ඒ නිසා නිගමනය ප්‍රවේශමෙන් සකස් කළ යුතුය."
+        "text": "Involve users in the pilot phase.",
+        "meaning": "පරීක්ෂණ අදියරට පරිශීලකයන් එක්කරමු."
       }
     ],
     "listeningPractice": {
@@ -904,24 +884,20 @@ export const ENGLISH_C1_LESSONS_21_30 = [
     ],
     "dialogue": [
       {
-        "text": "What is the central argument?",
-        "reading": "ව්ඇට් ඉස් ත්එ ක්එන්ට්ර්ඇල් ඇර්ග්අම්එන්ට්?",
-        "meaning": "ප්‍රධාන තර්කය කුමක්ද?"
+        "text": "What is the main environmental impact?",
+        "meaning": "ප්‍රධාන පාරිසරික බලපෑම කුමක්ද?"
       },
       {
-        "text": "It relies on evidence that can be verified.",
-        "reading": "ඉට් ර්එල්ඉඑස් ඔන් එව්ඉඩ්එන්ක්එ ත්ඇට් ක්ඇන් බ්එ ව්එර්ඉෆ්ඉඑඩ්.",
-        "meaning": "එය පරීක්ෂා කළ හැකි සාක්ෂි මත පදනම් වේ."
+        "text": "The project reduces waste and consumption.",
+        "meaning": "ව්‍යාපෘතිය අපද්‍රව්‍ය සහ පරිභෝජනය අඩු කරනවා."
       },
       {
-        "text": "Is there an important limitation?",
-        "reading": "ඉස් ත්එර්එ ඇන් ඉම්ප්ඔර්ට්ඇන්ට් ල්ඉම්ඉට්ඇෂන්?",
-        "meaning": "වැදගත් සීමාවක් තිබේද?"
+        "text": "How do we measure sustainability?",
+        "meaning": "තිරසාරභාවය මනින්නේ කෙසේද?"
       },
       {
-        "text": "Yes, so the conclusion needs careful wording.",
-        "reading": "යිඑස්, ස්ඔ ත්එ ක්ඔන්ක්ල්අෂන් න්ඊඩ්ස් ක්ඇර්එෆ්අල් ව්ඔර්ඩ්ඉං.",
-        "meaning": "ඔව්, ඒ නිසා නිගමනය ප්‍රවේශමෙන් සකස් කළ යුතුය."
+        "text": "Track resources and long-term outcomes.",
+        "meaning": "සම්පත් සහ දිගුකාලීන ප්‍රතිඵල නිරීක්ෂණය කරමු."
       }
     ],
     "listeningPractice": {
@@ -1067,24 +1043,20 @@ export const ENGLISH_C1_LESSONS_21_30 = [
     ],
     "dialogue": [
       {
-        "text": "What is the central argument?",
-        "reading": "ව්ඇට් ඉස් ත්එ ක්එන්ට්ර්ඇල් ඇර්ග්අම්එන්ට්?",
-        "meaning": "ප්‍රධාන තර්කය කුමක්ද?"
+        "text": "Why does the narrator seem unreliable?",
+        "meaning": "කථකයා විශ්වාස කළ නොහැකි බව පෙනෙන්නේ ඇයි?"
       },
       {
-        "text": "It relies on evidence that can be verified.",
-        "reading": "ඉට් ර්එල්ඉඑස් ඔන් එව්ඉඩ්එන්ක්එ ත්ඇට් ක්ඇන් බ්එ ව්එර්ඉෆ්ඉඑඩ්.",
-        "meaning": "එය පරීක්ෂා කළ හැකි සාක්ෂි මත පදනම් වේ."
+        "text": "The account differs from the others.",
+        "meaning": "ඔහුගේ විස්තරය අනෙක් ඒවාට වෙනස්."
       },
       {
-        "text": "Is there an important limitation?",
-        "reading": "ඉස් ත්එර්එ ඇන් ඉම්ප්ඔර්ට්ඇන්ට් ල්ඉම්ඉට්ඇෂන්?",
-        "meaning": "වැදගත් සීමාවක් තිබේද?"
+        "text": "What does the symbol mean at the end?",
+        "meaning": "අවසානයේ සංකේතයෙන් අදහස් වන්නේ කුමක්ද?"
       },
       {
-        "text": "Yes, so the conclusion needs careful wording.",
-        "reading": "යිඑස්, ස්ඔ ත්එ ක්ඔන්ක්ල්අෂන් න්ඊඩ්ස් ක්ඇර්එෆ්අල් ව්ඔර්ඩ්ඉං.",
-        "meaning": "ඔව්, ඒ නිසා නිගමනය ප්‍රවේශමෙන් සකස් කළ යුතුය."
+        "text": "It may foreshadow the character’s change.",
+        "meaning": "එය චරිතයේ වෙනසක් ඉඟි කරනවා විය හැකියි."
       }
     ],
     "listeningPractice": {
@@ -1230,24 +1202,20 @@ export const ENGLISH_C1_LESSONS_21_30 = [
     ],
     "dialogue": [
       {
-        "text": "What is the central argument?",
-        "reading": "ව්ඇට් ඉස් ත්එ ක්එන්ට්ර්ඇල් ඇර්ග්අම්එන්ට්?",
-        "meaning": "ප්‍රධාන තර්කය කුමක්ද?"
+        "text": "Why does the headline highlight one detail?",
+        "meaning": "ශීර්ෂය එක් විස්තරයක් පමණක් ඉස්මතු කරන්නේ ඇයි?"
       },
       {
-        "text": "It relies on evidence that can be verified.",
-        "reading": "ඉට් ර්එල්ඉඑස් ඔන් එව්ඉඩ්එන්ක්එ ත්ඇට් ක්ඇන් බ්එ ව්එර්ඉෆ්ඉඑඩ්.",
-        "meaning": "එය පරීක්ෂා කළ හැකි සාක්ෂි මත පදනම් වේ."
+        "text": "That framing shapes the reader’s impression.",
+        "meaning": "එම ඉදිරිපත් කිරීම පාඨකයාගේ හැඟීමට බලපානවා."
       },
       {
-        "text": "Is there an important limitation?",
-        "reading": "ඉස් ත්එර්එ ඇන් ඉම්ප්ඔර්ට්ඇන්ට් ල්ඉම්ඉට්ඇෂන්?",
-        "meaning": "වැදගත් සීමාවක් තිබේද?"
+        "text": "Does the article show the other side?",
+        "meaning": "ලිපිය අනෙක් පැත්තත් පෙන්වනවාද?"
       },
       {
-        "text": "Yes, so the conclusion needs careful wording.",
-        "reading": "යිඑස්, ස්ඔ ත්එ ක්ඔන්ක්ල්අෂන් න්ඊඩ්ස් ක්ඇර්එෆ්අල් ව්ඔර්ඩ්ඉං.",
-        "meaning": "ඔව්, ඒ නිසා නිගමනය ප්‍රවේශමෙන් සකස් කළ යුතුය."
+        "text": "It mentions it only in the final paragraph.",
+        "meaning": "එය සඳහන් කරන්නේ අවසාන ඡේදයේ පමණයි."
       }
     ],
     "listeningPractice": {
@@ -1393,24 +1361,20 @@ export const ENGLISH_C1_LESSONS_21_30 = [
     ],
     "dialogue": [
       {
-        "text": "What is the central argument?",
-        "reading": "ව්ඇට් ඉස් ත්එ ක්එන්ට්ර්ඇල් ඇර්ග්අම්එන්ට්?",
-        "meaning": "ප්‍රධාන තර්කය කුමක්ද?"
+        "text": "Is the forecast completely certain?",
+        "meaning": "පුරෝකථනය සම්පූර්ණයෙන් නිශ්චිතද?"
       },
       {
-        "text": "It relies on evidence that can be verified.",
-        "reading": "ඉට් ර්එල්ඉඑස් ඔන් එව්ඉඩ්එන්ක්එ ත්ඇට් ක්ඇන් බ්එ ව්එර්ඉෆ්ඉඑඩ්.",
-        "meaning": "එය පරීක්ෂා කළ හැකි සාක්ෂි මත පදනම් වේ."
+        "text": "It holds if the current trend continues.",
+        "meaning": "දැනට ඇති ප්‍රවණතාව පැවතුණොත් එය වලංගුයි."
       },
       {
-        "text": "Is there an important limitation?",
-        "reading": "ඉස් ත්එර්එ ඇන් ඉම්ප්ඔර්ට්ඇන්ට් ල්ඉම්ඉට්ඇෂන්?",
-        "meaning": "වැදගත් සීමාවක් තිබේද?"
+        "text": "What if costs rise?",
+        "meaning": "වියදම් වැඩි වුවහොත්?"
       },
       {
-        "text": "Yes, so the conclusion needs careful wording.",
-        "reading": "යිඑස්, ස්ඔ ත්එ ක්ඔන්ක්ල්අෂන් න්ඊඩ්ස් ක්ඇර්එෆ්අල් ව්ඔර්ඩ්ඉං.",
-        "meaning": "ඔව්, ඒ නිසා නිගමනය ප්‍රවේශමෙන් සකස් කළ යුතුය."
+        "text": "Then we must adjust the estimate.",
+        "meaning": "එවිට ඇස්තමේන්තුව සකස් කළ යුතුයි."
       }
     ],
     "listeningPractice": {
@@ -1556,24 +1520,20 @@ export const ENGLISH_C1_LESSONS_21_30 = [
     ],
     "dialogue": [
       {
-        "text": "What is the central argument?",
-        "reading": "ව්ඇට් ඉස් ත්එ ක්එන්ට්ර්ඇල් ඇර්ග්අම්එන්ට්?",
-        "meaning": "ප්‍රධාන තර්කය කුමක්ද?"
+        "text": "This paragraph has two possible meanings.",
+        "meaning": "මෙම ඡේදයට අර්ථ දෙකක් තිබිය හැකියි."
       },
       {
-        "text": "It relies on evidence that can be verified.",
-        "reading": "ඉට් ර්එල්ඉඑස් ඔන් එව්ඉඩ්එන්ක්එ ත්ඇට් ක්ඇන් බ්එ ව්එර්ඉෆ්ඉඑඩ්.",
-        "meaning": "එය පරීක්ෂා කළ හැකි සාක්ෂි මත පදනම් වේ."
+        "text": "We should clarify what the pronoun refers to.",
+        "meaning": "සර්වනාමය යොමු වන්නේ කුමකටදැයි පැහැදිලි කළ යුතුයි."
       },
       {
-        "text": "Is there an important limitation?",
-        "reading": "ඉස් ත්එර්එ ඇන් ඉම්ප්ඔර්ට්ඇන්ට් ල්ඉම්ඉට්ඇෂන්?",
-        "meaning": "වැදගත් සීමාවක් තිබේද?"
+        "text": "Is the term consistent throughout the text?",
+        "meaning": "ලේඛනය පුරාම පදය එකසේ භාවිතා කර තිබේද?"
       },
       {
-        "text": "Yes, so the conclusion needs careful wording.",
-        "reading": "යිඑස්, ස්ඔ ත්එ ක්ඔන්ක්ල්අෂන් න්ඊඩ්ස් ක්ඇර්එෆ්අල් ව්ඔර්ඩ්ඉං.",
-        "meaning": "ඔව්, ඒ නිසා නිගමනය ප්‍රවේශමෙන් සකස් කළ යුතුය."
+        "text": "I will check every section and standardise it.",
+        "meaning": "සෑම කොටසක්ම පරීක්ෂා කර එය සම්මත කරන්නම්."
       }
     ],
     "listeningPractice": {
