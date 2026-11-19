@@ -114,31 +114,31 @@ export const ENGLISH_C1_LESSONS_41_50 = [
       "audio": "A credible scenario should state its assumptions. We need a contingency plan if demand falls. Early indicators can reveal a change in direction. Strategic foresight prepares us for several plausible futures.",
       "reading": "ඇ ක්ර්එඩ්ඉබ්ල්එ ස්ක්එන්ඇර්ඉඔ ෂ්ඔඅල්ඩ් ස්ට්ඇට්එ ඉට්ස් ඇස්ස්අම්ප්ට්ඉඔන්ස්. ව්එ න්ඊඩ් ඇ ක්ඔන්ට්ඉන්ග්එන්ක්යි ප්ල්ඇන් ඉෆ් ඩ්එම්ඇන්ඩ් ෆ්ඇල්ල්ස්. එඇර්ල්යි ඉන්ඩ්ඉක්ඇට්ඔර්ස් ක්ඇන් ර්එව්එඇල් ඇ ච්ඇන්ග්එ ඉන් ඩ්ඉර්එක්ෂන්. ස්ට්ර්ඇට්එග්ඉක් ෆ්ඔර්එස්ඉග්හ්ට් ප්ර්එප්ඇර්එස් අස් ෆ්ඔර් ස්එව්එර්ඇල් ප්ල්ඇඅස්ඉබ්ල්එ ෆ්අට්අර්එස්.",
       "options": [
-        "විශ්වාස කළ හැකි සිදුවීම් ආකෘතියක් එහි උපකල්පන සඳහන් කළ යුතුය. ඉල්ලුම අඩු වුවහොත් අපට හදිසි සැලැස්මක් අවශ්‍යය.",
         "All claims are completely certain.",
+        "විශ්වාස කළ හැකි සිදුවීම් ආකෘතියක් එහි උපකල්පන සඳහන් කළ යුතුය. ඉල්ලුම අඩු වුවහොත් අපට හදිසි සැලැස්මක් අවශ්‍යය.",
         "No interpretation is possible."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Which term is central to this lesson?",
         "options": [
-          "foresight",
           "scenario",
+          "foresight",
           "assumption"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "The first term is a key concept in this topic."
       },
       {
         "prompt": "Choose another relevant specialist expression.",
         "options": [
           "plausible",
-          "contingency",
-          "indicator"
+          "indicator",
+          "contingency"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Review the vocabulary list for its meaning."
       },
       {
@@ -154,11 +154,11 @@ export const ENGLISH_C1_LESSONS_41_50 = [
       {
         "prompt": "How should uncertainty be presented?",
         "options": [
-          "State limitations openly",
           "Present assumptions as facts",
+          "State limitations openly",
           "Omit unknown information"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Limitations should be stated clearly."
       }
     ]
@@ -277,31 +277,31 @@ export const ENGLISH_C1_LESSONS_41_50 = [
       "audio": "A limited concession may unlock the negotiations. Both teams have a clear mandate. The counterproposal addresses our main concern. The agreement becomes binding once both parties sign.",
       "reading": "ඇ ල්ඉම්ඉට්එඩ් ක්ඔන්ක්එස්ස්ඉඔන් ම්ඇයි අන්ල්ඔක්ක් ත්එ න්එග්ඔට්ඉඇට්ඉඔන්ස්. බ්ඔත් ට්එඇම්ස් හ්ඇව්එ ඇ ක්ල්එඇර් ම්ඇන්ඩ්ඇට්එ. ත්එ ක්ඔඅන්ට්එර්ප්ර්ඔප්ඔස්ඇල් ඇඩ්ඩ්ර්එස්ස්එස් ඔඅර් ම්ඇඉන් ක්ඔන්ක්එර්න්. ත්එ ඇග්ර්ඊම්එන්ට් බ්එක්ඔම්එස් බ්ඉන්ඩ්ඉං ඔන්ක්එ බ්ඔත් ප්ඇර්ට්ඉඑස් ස්ඉග්න්.",
       "options": [
-        "සීමිත සහනයක් සාකච්ඡා ඉදිරියට ගෙන යා හැකිය. කණ්ඩායම් දෙකටම පැහැදිලි බලතල ඇත.",
         "All claims are completely certain.",
-        "No interpretation is possible."
+        "No interpretation is possible.",
+        "සීමිත සහනයක් සාකච්ඡා ඉදිරියට ගෙන යා හැකිය. කණ්ඩායම් දෙකටම පැහැදිලි බලතල ඇත."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Which term is central to this lesson?",
         "options": [
-          "concession",
           "leverage",
+          "concession",
           "mandate"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "The first term is a key concept in this topic."
       },
       {
         "prompt": "Choose another relevant specialist expression.",
         "options": [
           "trade-off",
-          "deadlock",
-          "counterproposal"
+          "counterproposal",
+          "deadlock"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Review the vocabulary list for its meaning."
       },
       {
@@ -317,11 +317,11 @@ export const ENGLISH_C1_LESSONS_41_50 = [
       {
         "prompt": "How should uncertainty be presented?",
         "options": [
-          "State limitations openly",
           "Present assumptions as facts",
+          "State limitations openly",
           "Omit unknown information"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Limitations should be stated clearly."
       }
     ]
@@ -450,21 +450,21 @@ export const ENGLISH_C1_LESSONS_41_50 = [
       {
         "prompt": "Which term is central to this lesson?",
         "options": [
-          "oversight",
           "fiduciary",
+          "oversight",
           "disclosure"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "The first term is a key concept in this topic."
       },
       {
         "prompt": "Choose another relevant specialist expression.",
         "options": [
           "remuneration",
-          "independence",
-          "audit trail"
+          "audit trail",
+          "independence"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Review the vocabulary list for its meaning."
       },
       {
@@ -480,11 +480,11 @@ export const ENGLISH_C1_LESSONS_41_50 = [
       {
         "prompt": "How should uncertainty be presented?",
         "options": [
-          "State limitations openly",
           "Present assumptions as facts",
+          "State limitations openly",
           "Omit unknown information"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Limitations should be stated clearly."
       }
     ]
@@ -603,31 +603,31 @@ export const ENGLISH_C1_LESSONS_41_50 = [
       "audio": "Adaptation reduces the impact of unavoidable changes. The policy combines mitigation with local resilience. Biodiversity loss can increase ecosystem vulnerability. Emissions must be measured against a clear baseline.",
       "reading": "ඇඩ්ඇප්ට්ඇෂන් ර්එඩ්අක්එස් ත්එ ඉම්ප්ඇක්ට් ඔෆ් අන්ඇව්ඔඉඩ්ඇබ්ල්එ ච්ඇන්ග්එස්. ත්එ ප්ඔල්ඉක්යි ක්ඔම්බ්ඉන්එස් ම්ඉට්ඉග්ඇෂන් ව්ඉත් ල්ඔක්ඇල් ර්එස්ඉල්ඉඑන්ක්එ. බ්ඉඔඩ්ඉව්එර්ස්ඉට්යි ල්ඔස්ස් ක්ඇන් ඉන්ක්ර්එඇස්එ එක්ඔස්යිස්ට්එම් ව්අල්න්එර්ඇබ්ඉල්ඉට්යි. එම්ඉස්ස්ඉඔන්ස් ම්අස්ට් බ්එ ම්එඇස්අර්එඩ් ඇග්ඇඉන්ස්ට් ඇ ක්ල්එඇර් බ්ඇස්එල්ඉන්එ.",
       "options": [
-        "අනුවර්තනය වැළැක්විය නොහැකි වෙනස්කම්වල බලපෑම අඩු කරයි. ප්‍රතිපත්තිය බලපෑම අවම කිරීම දේශීය ඔරොත්තු දීම සමඟ එක් කරයි.",
         "All claims are completely certain.",
+        "අනුවර්තනය වැළැක්විය නොහැකි වෙනස්කම්වල බලපෑම අඩු කරයි. ප්‍රතිපත්තිය බලපෑම අවම කිරීම දේශීය ඔරොත්තු දීම සමඟ එක් කරයි.",
         "No interpretation is possible."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Which term is central to this lesson?",
         "options": [
-          "adaptation",
           "mitigation",
+          "adaptation",
           "exposure"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "The first term is a key concept in this topic."
       },
       {
         "prompt": "Choose another relevant specialist expression.",
         "options": [
           "vulnerability",
-          "biodiversity",
-          "emissions"
+          "emissions",
+          "biodiversity"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Review the vocabulary list for its meaning."
       },
       {
@@ -643,11 +643,11 @@ export const ENGLISH_C1_LESSONS_41_50 = [
       {
         "prompt": "How should uncertainty be presented?",
         "options": [
-          "State limitations openly",
           "Present assumptions as facts",
+          "State limitations openly",
           "Omit unknown information"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Limitations should be stated clearly."
       }
     ]
@@ -766,31 +766,31 @@ export const ENGLISH_C1_LESSONS_41_50 = [
       "audio": "Interoperability is essential when systems are integrated. A phased rollout can improve adoption. The legacy platform creates avoidable delays. Change fatigue should be addressed through clear communication.",
       "reading": "ඉන්ට්එර්ඔප්එර්ඇබ්ඉල්ඉට්යි ඉස් එස්ස්එන්ට්ඉඇල් ව්හ්එන් ස්යිස්ට්එම්ස් ඇර්එ ඉන්ට්එග්ර්ඇට්එඩ්. ඇ ෆ්ඇස්එඩ් ර්ඔල්ල්ඔඅට් ක්ඇන් ඉම්ප්ර්ඔව්එ ඇඩ්ඔප්ෂන්. ත්එ ල්එග්ඇක්යි ප්ල්ඇට්ෆ්ඔර්ම් ක්ර්එඇට්එස් ඇව්ඔඉඩ්ඇබ්ල්එ ඩ්එල්ඇයිස්. ච්ඇන්ග්එ ෆ්ඇට්ඉග්අඑ ෂ්ඔඅල්ඩ් බ්එ ඇඩ්ඩ්ර්එස්ස්එඩ් ත්ර්ඔඅග්හ් ක්ල්එඇර් ක්ඔම්ම්අන්ඉක්ඇෂන්.",
       "options": [
-        "පද්ධති ඒකාබද්ධ කරන විට අන්තර්ක්‍රියා හැකියාව අත්‍යවශ්‍යය. අදියර අනුව හඳුන්වාදීම භාවිතය වැඩි කළ හැකිය.",
         "All claims are completely certain.",
-        "No interpretation is possible."
+        "No interpretation is possible.",
+        "පද්ධති ඒකාබද්ධ කරන විට අන්තර්ක්‍රියා හැකියාව අත්‍යවශ්‍යය. අදියර අනුව හඳුන්වාදීම භාවිතය වැඩි කළ හැකිය."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Which term is central to this lesson?",
         "options": [
-          "transformation",
           "interoperability",
+          "transformation",
           "legacy"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "The first term is a key concept in this topic."
       },
       {
         "prompt": "Choose another relevant specialist expression.",
         "options": [
           "automation",
-          "adoption",
-          "workflow"
+          "workflow",
+          "adoption"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Review the vocabulary list for its meaning."
       },
       {
@@ -806,11 +806,11 @@ export const ENGLISH_C1_LESSONS_41_50 = [
       {
         "prompt": "How should uncertainty be presented?",
         "options": [
-          "State limitations openly",
           "Present assumptions as facts",
+          "State limitations openly",
           "Omit unknown information"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Limitations should be stated clearly."
       }
     ]
@@ -939,21 +939,21 @@ export const ENGLISH_C1_LESSONS_41_50 = [
       {
         "prompt": "Which term is central to this lesson?",
         "options": [
-          "causality",
           "correlation",
+          "causality",
           "confounder"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "The first term is a key concept in this topic."
       },
       {
         "prompt": "Choose another relevant specialist expression.",
         "options": [
           "sample bias",
-          "longitudinal",
-          "replication"
+          "replication",
+          "longitudinal"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Review the vocabulary list for its meaning."
       },
       {
@@ -969,11 +969,11 @@ export const ENGLISH_C1_LESSONS_41_50 = [
       {
         "prompt": "How should uncertainty be presented?",
         "options": [
-          "State limitations openly",
           "Present assumptions as facts",
+          "State limitations openly",
           "Omit unknown information"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Limitations should be stated clearly."
       }
     ]
@@ -1092,31 +1092,31 @@ export const ENGLISH_C1_LESSONS_41_50 = [
       "audio": "The unreliable narrator complicates the reader's judgment. The recurring motif links otherwise separate episodes. Irony creates tension between appearance and intention. Several interpretations remain plausible.",
       "reading": "ත්එ අන්ර්එල්ඉඇබ්ල්එ න්ඇර්ර්ඇට්ඔර් ක්ඔම්ප්ල්ඉක්ඇට්එස් ත්එ ර්එඇඩ්එර්'ස් ජ්අඩ්ග්ම්එන්ට්. ත්එ ර්එක්අර්ර්ඉං ම්ඔට්ඉෆ් ල්ඉන්ක්ස් ඔත්එර්ව්ඉස්එ ස්එප්ඇර්ඇට්එ එප්ඉස්ඔඩ්එස්. ඉර්ඔන්යි ක්ර්එඇට්එස් ට්එන්ස්ඉඔන් බ්එට්ව්ඊන් ඇප්ප්එඇර්ඇන්ක්එ ඇන්ඩ් ඉන්ට්එන්ෂන්. ස්එව්එර්ඇල් ඉන්ට්එර්ප්ර්එට්ඇට්ඉඔන්ස් ර්එම්ඇඉන් ප්ල්ඇඅස්ඉබ්ල්එ.",
       "options": [
-        "විශ්වාස කළ නොහැකි කථකයා පාඨකයාගේ විනිශ්චය සංකීර්ණ කරයි. නැවත මතුවන රූපකය වෙන වෙනම සිදුවීම් සම්බන්ධ කරයි.",
         "All claims are completely certain.",
+        "විශ්වාස කළ නොහැකි කථකයා පාඨකයාගේ විනිශ්චය සංකීර්ණ කරයි. නැවත මතුවන රූපකය වෙන වෙනම සිදුවීම් සම්බන්ධ කරයි.",
         "No interpretation is possible."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Which term is central to this lesson?",
         "options": [
-          "ambiguity",
           "narrator",
+          "ambiguity",
           "motif"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "The first term is a key concept in this topic."
       },
       {
         "prompt": "Choose another relevant specialist expression.",
         "options": [
           "subtext",
-          "allusion",
-          "irony"
+          "irony",
+          "allusion"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Review the vocabulary list for its meaning."
       },
       {
@@ -1132,11 +1132,11 @@ export const ENGLISH_C1_LESSONS_41_50 = [
       {
         "prompt": "How should uncertainty be presented?",
         "options": [
-          "State limitations openly",
           "Present assumptions as facts",
+          "State limitations openly",
           "Omit unknown information"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Limitations should be stated clearly."
       }
     ]
@@ -1255,31 +1255,31 @@ export const ENGLISH_C1_LESSONS_41_50 = [
       "audio": "Timely clarification can prevent rumours from spreading. A spokesperson should distinguish facts from estimates. Transparency strengthens public credibility. The message must acknowledge what remains unknown.",
       "reading": "ට්ඉම්එල්යි ක්ල්ඇර්ඉෆ්ඉක්ඇෂන් ක්ඇන් ප්ර්එව්එන්ට් ර්අම්ඔඅර්ස් ෆ්ර්ඔම් ස්ප්ර්එඇඩ්ඉං. ඇ ස්ප්ඔක්එස්ප්එර්ස්ඔන් ෂ්ඔඅල්ඩ් ඩ්ඉස්ට්ඉන්ග්අඉෂ් ෆ්ඇක්ට්ස් ෆ්ර්ඔම් එස්ට්ඉම්ඇට්එස්. ට්ර්ඇන්ස්ප්ඇර්එන්ක්යි ස්ට්ර්එන්ග්ත්එන්ස් ප්අබ්ල්ඉක් ක්ර්එඩ්ඉබ්ඉල්ඉට්යි. ත්එ ම්එස්ස්ඇග්එ ම්අස්ට් ඇක්ක්න්ඔව්ල්එඩ්ග්එ ව්හ්ඇට් ර්එම්ඇඉන්ස් අන්ක්න්ඔව්න්.",
       "options": [
-        "කාලෝචිත පැහැදිලි කිරීම කටකතා පැතිරීම වළක්වයි. ප්‍රකාශකයා කරුණු සහ ඇස්තමේන්තු වෙන් කළ යුතුය.",
         "All claims are completely certain.",
-        "No interpretation is possible."
+        "No interpretation is possible.",
+        "කාලෝචිත පැහැදිලි කිරීම කටකතා පැතිරීම වළක්වයි. ප්‍රකාශකයා කරුණු සහ ඇස්තමේන්තු වෙන් කළ යුතුය."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Which term is central to this lesson?",
         "options": [
-          "transparency",
           "reassurance",
+          "transparency",
           "misinformation"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "The first term is a key concept in this topic."
       },
       {
         "prompt": "Choose another relevant specialist expression.",
         "options": [
           "spokesperson",
-          "timeliness",
-          "clarification"
+          "clarification",
+          "timeliness"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Review the vocabulary list for its meaning."
       },
       {
@@ -1295,11 +1295,11 @@ export const ENGLISH_C1_LESSONS_41_50 = [
       {
         "prompt": "How should uncertainty be presented?",
         "options": [
-          "State limitations openly",
           "Present assumptions as facts",
+          "State limitations openly",
           "Omit unknown information"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Limitations should be stated clearly."
       }
     ]
@@ -1428,21 +1428,21 @@ export const ENGLISH_C1_LESSONS_41_50 = [
       {
         "prompt": "Which term is central to this lesson?",
         "options": [
-          "executive brief",
           "benchmark",
+          "executive brief",
           "feasibility"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "The first term is a key concept in this topic."
       },
       {
         "prompt": "Choose another relevant specialist expression.",
         "options": [
           "implication",
-          "implementation",
-          "monitoring"
+          "monitoring",
+          "implementation"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Review the vocabulary list for its meaning."
       },
       {
@@ -1458,11 +1458,11 @@ export const ENGLISH_C1_LESSONS_41_50 = [
       {
         "prompt": "How should uncertainty be presented?",
         "options": [
-          "State limitations openly",
           "Present assumptions as facts",
+          "State limitations openly",
           "Omit unknown information"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Limitations should be stated clearly."
       }
     ]
@@ -1581,31 +1581,31 @@ export const ENGLISH_C1_LESSONS_41_50 = [
       "audio": "Ethical principles should guide professional decisions. Integrity requires consistency between words and actions. A difficult choice calls for considering the consequences for everyone involved. Accountability means being prepared to explain a decision.",
       "reading": "එත්ඉක්ඇල් ප්ර්ඉන්ක්ඉප්ල්එස් ෂ්ඔඅල්ඩ් ග්අඉඩ්එ ප්ර්ඔෆ්එස්ස්ඉඔන්ඇල් ඩ්එක්ඉස්ඉඔන්ස්. ඉන්ට්එග්ර්ඉට්යි ර්එක්අඉර්එස් ක්ඔන්ස්ඉස්ට්එන්ක්යි බ්එට්ව්එඑන් ව්ඔර්ඩ්ස් ඇන්ඩ් ඇක්ට්ඉඔන්ස්. ඇ ඩ්ඉෆ්ෆ්ඉක්අල්ට් ච්ඔඉක්එ ක්ඇල්ල්ස් ෆ්ඔර් ක්ඔන්ස්ඉඩ්එර්ඉන්ග් ත්එ ක්ඔන්ස්එක්අඑන්ක්එස් ෆ්ඔර් එව්එර්යිඔන්එ ඉන්ව්ඔල්ව්එඩ්. ඇක්ක්ඔඅන්ට්ඇබ්ඉල්ඉට්යි ම්එඇන්ස් බ්එඉන්ග් ප්ර්එප්ඇර්එඩ් ට්ඔ එක්ස්ප්ල්ඇඉන් ඇ ඩ්එක්ඉස්ඉඔන්.",
       "options": [
-        "වෘත්තීය තීරණවලට සදාචාරාත්මක මූලධර්ම මඟපෙන්විය යුතුය. වගවීම යනු තීරණයක් පැහැදිලි කිරීමට සූදානම් වීමයි.",
         "Every decision is simple.",
+        "වෘත්තීය තීරණවලට සදාචාරාත්මක මූලධර්ම මඟපෙන්විය යුතුය. වගවීම යනු තීරණයක් පැහැදිලි කිරීමට සූදානම් වීමයි.",
         "No explanation is needed."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Which term describes consistency between words and actions?",
         "options": [
-          "integrity",
           "dilemma",
+          "integrity",
           "consequence"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Integrity requires consistency."
       },
       {
         "prompt": "Which word describes a difficult choice?",
         "options": [
           "principle",
-          "dilemma",
-          "consistency"
+          "consistency",
+          "dilemma"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "A dilemma involves a difficult choice."
       },
       {
@@ -1621,11 +1621,11 @@ export const ENGLISH_C1_LESSONS_41_50 = [
       {
         "prompt": "How should a decision be justified?",
         "options": [
-          "Clearly and responsibly",
           "Without evidence",
+          "Clearly and responsibly",
           "By avoiding questions"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Accountability requires a clear justification."
       }
     ]
