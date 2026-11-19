@@ -114,31 +114,31 @@ export const ENGLISH_C1_LESSONS_21_30 = [
       "audio": "A clear claim must be supported by evidence. The speaker emphasised the key distinction. Contrast makes the argument more persuasive.",
       "reading": "ඇ ක්ල්ඊර් ක්ල්ඒම් ම්අස්ට් බ්එ ස්අප්ප්ඔර්ට්එඩ් බ්යි එව්ඉඩ්එන්ක්එ. ත්එ ස්ප්ඊක්එර් එම්ෆ්ඇස්ඉස්එඩ් ත්එ ක්එයි ඩ්ඉස්ට්ඉන්ක්ෂන්. ක්ඔන්ට්ර්ඇස්ට් ම්ඇක්එස් ත්එ ඇර්ග්අම්එන්ට් ම්ඔර්එ ප්එර්ස්අඇස්ඉව්එ.",
       "options": [
-        "පැහැදිලි ප්‍රකාශයක් සාක්ෂි මඟින් තහවුරු කළ යුතුය. කථිකයා ප්‍රධාන වෙනස අවධාරණය කළේය.",
         "Every statement is completely certain.",
+        "පැහැදිලි ප්‍රකාශයක් සාක්ෂි මඟින් තහවුරු කළ යුතුය. කථිකයා ප්‍රධාන වෙනස අවධාරණය කළේය.",
         "Neither answer is correct."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Which term best describes the central idea?",
         "options": [
-          "persuasive",
           "emphasis",
+          "persuasive",
           "contrast"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "The first term is a key concept in this lesson."
       },
       {
         "prompt": "Choose the relevant specialist term.",
         "options": [
           "claim",
-          "rhetoric",
-          "conclusion"
+          "conclusion",
+          "rhetoric"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Check the vocabulary list for the precise meaning."
       },
       {
@@ -154,11 +154,11 @@ export const ENGLISH_C1_LESSONS_21_30 = [
       {
         "prompt": "How should uncertainty be presented?",
         "options": [
-          "State limitations precisely",
           "Hide unknown facts",
+          "State limitations precisely",
           "Make an absolute claim"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Limitations should be stated openly and precisely."
       }
     ]
@@ -277,31 +277,31 @@ export const ENGLISH_C1_LESSONS_21_30 = [
       "audio": "The proposal is costly; nevertheless, it is worthwhile in the long term. The data are limited; therefore, the conclusion is provisional. Moreover, the results confirm the earlier assumption.",
       "reading": "ත්එ ප්ර්ඔප්ඔස්ඇල් ඉස් ක්ඔස්ට්ල්යි; න්එව්එර්ත්එල්එස්ස්, ඉට් ඉස් ව්ඔර්ත්ව්ඉල්එ ඉන් ත්එ ල්ඔං ට්එර්ම්. ත්එ ඩ්ඇට්ඇ ඇර්එ ල්ඉම්ඉට්එඩ්; ත්එර්එෆ්ඔර්එ, ත්එ ක්ඔන්ක්ල්අෂන් ඉස් ප්ර්ඔව්ඉෂන්ඇල්. ම්ඔර්එඔව්එර්, ත්එ ර්එස්අල්ට්ස් ක්ඔන්ෆ්ඉර්ම් ත්එ ඊර්ල්ඉඑර් ඇස්ස්අම්ප්ෂන්.",
       "options": [
-        "යෝජනාව මිල අධිකය; එසේ වුවත් දිගුකාලීනව වටිනාකමක් ඇත. දත්ත සීමිතය; එබැවින් නිගමනය තාවකාලිකය.",
         "Every statement is completely certain.",
-        "Neither answer is correct."
+        "Neither answer is correct.",
+        "යෝජනාව මිල අධිකය; එසේ වුවත් දිගුකාලීනව වටිනාකමක් ඇත. දත්ත සීමිතය; එබැවින් නිගමනය තාවකාලිකය."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Which term best describes the central idea?",
         "options": [
-          "moreover",
           "conversely",
+          "moreover",
           "transition"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "The first term is a key concept in this lesson."
       },
       {
         "prompt": "Choose the relevant specialist term.",
         "options": [
           "nevertheless",
-          "consistency",
-          "nuance"
+          "nuance",
+          "consistency"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Check the vocabulary list for the precise meaning."
       },
       {
@@ -317,11 +317,11 @@ export const ENGLISH_C1_LESSONS_21_30 = [
       {
         "prompt": "How should uncertainty be presented?",
         "options": [
-          "State limitations precisely",
           "Hide unknown facts",
+          "State limitations precisely",
           "Make an absolute claim"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Limitations should be stated openly and precisely."
       }
     ]
@@ -450,21 +450,21 @@ export const ENGLISH_C1_LESSONS_21_30 = [
       {
         "prompt": "Which term best describes the central idea?",
         "options": [
-          "clause",
           "exception",
+          "clause",
           "compliance"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "The first term is a key concept in this lesson."
       },
       {
         "prompt": "Choose the relevant specialist term.",
         "options": [
           "obligation",
-          "termination",
-          "liability"
+          "liability",
+          "termination"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Check the vocabulary list for the precise meaning."
       },
       {
@@ -480,11 +480,11 @@ export const ENGLISH_C1_LESSONS_21_30 = [
       {
         "prompt": "How should uncertainty be presented?",
         "options": [
-          "State limitations precisely",
           "Hide unknown facts",
+          "State limitations precisely",
           "Make an absolute claim"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Limitations should be stated openly and precisely."
       }
     ]
@@ -603,31 +603,31 @@ export const ENGLISH_C1_LESSONS_21_30 = [
       "audio": "We will publish verified information as soon as it is available. At present, we cannot confirm the cause of the incident. The next update will be issued at noon.",
       "reading": "ව්එ ව්ඉල්ල් ප්අබ්ල්ඉෂ් ව්එර්ඉෆ්ඉඑඩ් ඉන්ෆ්ඔර්ම්ඇෂන් ඇස් ස්උන් ඇස් ඉට් ඉස් ඇව්ඒල්ඇබ්ල්එ. ඇට් ප්ර්එස්එන්ට්, ව්එ ක්ඇන්න්ඔට් ක්ඔන්ෆ්ඉර්ම් ත්එ ක්ඇඅස්එ ඔෆ් ත්එ ඉන්ක්ඉඩ්එන්ට්. ත්එ න්එක්ස්ට් අප්ඩ්ඇට්එ ව්ඉල්ල් බ්එ ඉස්ස්අඑඩ් ඇට් න්උන්.",
       "options": [
-        "තහවුරු කළ තොරතුරු ලැබුණු වහාම අපි ප්‍රකාශ කරන්නෙමු. දැනට සිදුවීමට හේතුව තහවුරු කළ නොහැක.",
         "Every statement is completely certain.",
+        "තහවුරු කළ තොරතුරු ලැබුණු වහාම අපි ප්‍රකාශ කරන්නෙමු. දැනට සිදුවීමට හේතුව තහවුරු කළ නොහැක.",
         "Neither answer is correct."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Which term best describes the central idea?",
         "options": [
-          "statement",
           "incident",
+          "statement",
           "update"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "The first term is a key concept in this lesson."
       },
       {
         "prompt": "Choose the relevant specialist term.",
         "options": [
           "verification",
-          "recovery",
-          "responsibility"
+          "responsibility",
+          "recovery"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Check the vocabulary list for the precise meaning."
       },
       {
@@ -643,11 +643,11 @@ export const ENGLISH_C1_LESSONS_21_30 = [
       {
         "prompt": "How should uncertainty be presented?",
         "options": [
-          "State limitations precisely",
           "Hide unknown facts",
+          "State limitations precisely",
           "Make an absolute claim"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Limitations should be stated openly and precisely."
       }
     ]
@@ -766,31 +766,31 @@ export const ENGLISH_C1_LESSONS_21_30 = [
       "audio": "The pilot project showed that the solution is feasible. Adopting the new system requires training. Resistance to change often stems from uncertainty.",
       "reading": "ත්එ ප්ඉල්ඔට් ප්ර්ඔජ්එක්ට් ෂ්ඔඑඩ් ත්ඇට් ත්එ ස්ඔල්අෂන් ඉස් ෆ්ඊස්ඉබ්ල්එ. ඇඩ්ඔප්ට්ඉං ත්එ න්එව් ස්යිස්ට්එම් ර්එක්වඉර්එස් ට්ර්ඒන්ඉං. ර්එස්ඉස්ට්ඇන්ක්එ ට්ඔ ච්ඇංඑ ඔෆ්ට්එන් ස්ට්එම්ස් ෆ්ර්ඔම් අන්ක්එර්ට්ඒන්ට්යි.",
       "options": [
-        "පරීක්ෂණ ව්‍යාපෘතියෙන් විසඳුම ක්‍රියාත්මක කළ හැකි බව පෙන්වීය. නව පද්ධතිය භාවිතයට ගැනීමට පුහුණුව අවශ්‍යය.",
         "Every statement is completely certain.",
-        "Neither answer is correct."
+        "Neither answer is correct.",
+        "පරීක්ෂණ ව්‍යාපෘතියෙන් විසඳුම ක්‍රියාත්මක කළ හැකි බව පෙන්වීය. නව පද්ධතිය භාවිතයට ගැනීමට පුහුණුව අවශ්‍යය."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Which term best describes the central idea?",
         "options": [
-          "innovation",
           "resistance",
+          "innovation",
           "feasibility"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "The first term is a key concept in this lesson."
       },
       {
         "prompt": "Choose the relevant specialist term.",
         "options": [
           "implementation",
-          "prototype",
-          "feedback"
+          "feedback",
+          "prototype"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Check the vocabulary list for the precise meaning."
       },
       {
@@ -806,11 +806,11 @@ export const ENGLISH_C1_LESSONS_21_30 = [
       {
         "prompt": "How should uncertainty be presented?",
         "options": [
-          "State limitations precisely",
           "Hide unknown facts",
+          "State limitations precisely",
           "Make an absolute claim"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Limitations should be stated openly and precisely."
       }
     ]
@@ -939,21 +939,21 @@ export const ENGLISH_C1_LESSONS_21_30 = [
       {
         "prompt": "Which term best describes the central idea?",
         "options": [
-          "sustainability",
           "emission",
+          "sustainability",
           "indicator"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "The first term is a key concept in this lesson."
       },
       {
         "prompt": "Choose the relevant specialist term.",
         "options": [
           "impact",
-          "community",
-          "long-term"
+          "long-term",
+          "community"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Check the vocabulary list for the precise meaning."
       },
       {
@@ -969,11 +969,11 @@ export const ENGLISH_C1_LESSONS_21_30 = [
       {
         "prompt": "How should uncertainty be presented?",
         "options": [
-          "State limitations precisely",
           "Hide unknown facts",
+          "State limitations precisely",
           "Make an absolute claim"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Limitations should be stated openly and precisely."
       }
     ]
@@ -1092,31 +1092,31 @@ export const ENGLISH_C1_LESSONS_21_30 = [
       "audio": "The unreliable narrator shifts the reader's perspective. The symbolism develops through a recurring motif. This detail can be read as foreshadowing the conflict.",
       "reading": "ත්එ අන්ර්එල්ඉඇබ්ල්එ න්ඇර්ර්ඇට්ඔර් ෂ්ඉෆ්ට්ස් ත්එ ර්ඊඩ්එර්'ස් ප්එර්ස්ප්එක්ට්ඉව්එ. ත්එ ස්යිම්බ්ඔල්ඉස්ම් ඩ්එව්එල්ඔප්ස් ත්ර්ඔෆ් ඇ ර්එක්අර්ර්ඉං ම්ඔට්ඉෆ්. ත්ඉස් ඩ්එට්ඒල් ක්ඇන් බ්එ ර්ඊඩ් ඇස් ෆ්ඔර්එෂ්ඇඩ්ඔඉං ත්එ ක්ඔන්ෆ්ල්ඉක්ට්.",
       "options": [
-        "විශ්වාස කළ නොහැකි කථකයා පාඨකයාගේ දෘෂ්ටිකෝණය වෙනස් කරයි. නැවත නැවත මතුවන තේමාවක් හරහා සංකේතවාදය වර්ධනය වේ.",
         "Every statement is completely certain.",
+        "විශ්වාස කළ නොහැකි කථකයා පාඨකයාගේ දෘෂ්ටිකෝණය වෙනස් කරයි. නැවත නැවත මතුවන තේමාවක් හරහා සංකේතවාදය වර්ධනය වේ.",
         "Neither answer is correct."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Which term best describes the central idea?",
         "options": [
-          "narrator",
           "foreshadowing",
+          "narrator",
           "interpretation"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "The first term is a key concept in this lesson."
       },
       {
         "prompt": "Choose the relevant specialist term.",
         "options": [
           "perspective",
-          "ambiguity",
-          "allusion"
+          "allusion",
+          "ambiguity"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Check the vocabulary list for the precise meaning."
       },
       {
@@ -1132,11 +1132,11 @@ export const ENGLISH_C1_LESSONS_21_30 = [
       {
         "prompt": "How should uncertainty be presented?",
         "options": [
-          "State limitations precisely",
           "Hide unknown facts",
+          "State limitations precisely",
           "Make an absolute claim"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Limitations should be stated openly and precisely."
       }
     ]
@@ -1255,31 +1255,31 @@ export const ENGLISH_C1_LESSONS_21_30 = [
       "audio": "The headline emphasises conflict rather than agreement. Missing context can change the meaning of a statement. Fact-checking revealed an inaccurate figure.",
       "reading": "ත්එ හ්ඊඩ්ල්ඉන්එ එම්ෆ්ඇස්ඉස්එස් ක්ඔන්ෆ්ල්ඉක්ට් ර්ඇත්එර් ත්ඇන් ඇග්ර්ඊම්එන්ට්. ම්ඉස්ස්ඉං ක්ඔන්ට්එක්ස්ට් ක්ඇන් ච්ඇංඑ ත්එ ම්ඊන්ඉං ඔෆ් ඇ ස්ට්ඇට්එම්එන්ට්. ෆ්ඇක්ට්-ච්එක්ක්ඉං ර්එව්ඊල්එඩ් ඇන් ඉන්ඇක්ක්අර්ඇට්එ ෆ්ඉග්අර්එ.",
       "options": [
-        "සිරස්තලය එකඟතාවට වඩා ගැටුම අවධාරණය කරයි. අතුරුදහන් සන්දර්භය ප්‍රකාශයක අර්ථය වෙනස් කළ හැක.",
         "Every statement is completely certain.",
-        "Neither answer is correct."
+        "Neither answer is correct.",
+        "සිරස්තලය එකඟතාවට වඩා ගැටුම අවධාරණය කරයි. අතුරුදහන් සන්දර්භය ප්‍රකාශයක අර්ථය වෙනස් කළ හැක."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Which term best describes the central idea?",
         "options": [
-          "framing",
           "source",
+          "framing",
           "tone"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "The first term is a key concept in this lesson."
       },
       {
         "prompt": "Choose the relevant specialist term.",
         "options": [
           "bias",
-          "omission",
-          "context"
+          "context",
+          "omission"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Check the vocabulary list for the precise meaning."
       },
       {
@@ -1295,11 +1295,11 @@ export const ENGLISH_C1_LESSONS_21_30 = [
       {
         "prompt": "How should uncertainty be presented?",
         "options": [
-          "State limitations precisely",
           "Hide unknown facts",
+          "State limitations precisely",
           "Make an absolute claim"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Limitations should be stated openly and precisely."
       }
     ]
@@ -1428,21 +1428,21 @@ export const ENGLISH_C1_LESSONS_21_30 = [
       {
         "prompt": "Which term best describes the central idea?",
         "options": [
-          "assumption",
           "hypothetical",
+          "assumption",
           "consequence"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "The first term is a key concept in this lesson."
       },
       {
         "prompt": "Choose the relevant specialist term.",
         "options": [
           "likelihood",
-          "qualification",
-          "counterfactual"
+          "counterfactual",
+          "qualification"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Check the vocabulary list for the precise meaning."
       },
       {
@@ -1458,11 +1458,11 @@ export const ENGLISH_C1_LESSONS_21_30 = [
       {
         "prompt": "How should uncertainty be presented?",
         "options": [
-          "State limitations precisely",
           "Hide unknown facts",
+          "State limitations precisely",
           "Make an absolute claim"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Limitations should be stated openly and precisely."
       }
     ]
@@ -1581,31 +1581,31 @@ export const ENGLISH_C1_LESSONS_21_30 = [
       "audio": "This paragraph should be rephrased for clarity. Inconsistent terminology confuses the reader. Remove redundant repetition, but preserve the nuance.",
       "reading": "ත්ඉස් ප්ඇර්ඇග්ර්ඇෆ් ෂ්අවුල්ඩ් බ්එ ර්එෆ්ර්ඇස්එඩ් ෆ්ඔර් ක්ල්ඇර්ඉට්යි. ඉන්ක්ඔන්ස්ඉස්ට්එන්ට් ට්එර්ම්ඉන්ඔල්ඔග්යි ක්ඔන්ෆ්අස්එස් ත්එ ර්ඊඩ්එර්. ර්එම්ඔව්එ ර්එඩ්අන්ඩ්ඇන්ට් ර්එප්එට්ඉෂන්, බ්අට් ප්ර්එස්එර්ව්එ ත්එ න්අඇන්ක්එ.",
       "options": [
-        "පැහැදිලිභාවය සඳහා මෙම ඡේදය නැවත සකස් කළ යුතුය. අනුකූල නොවන පාරිභාෂික වචන පාඨකයා ව්‍යාකූල කරයි.",
         "Every statement is completely certain.",
+        "පැහැදිලිභාවය සඳහා මෙම ඡේදය නැවත සකස් කළ යුතුය. අනුකූල නොවන පාරිභාෂික වචන පාඨකයා ව්‍යාකූල කරයි.",
         "Neither answer is correct."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Which term best describes the central idea?",
         "options": [
-          "precision",
           "redundant",
+          "precision",
           "conciseness"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "The first term is a key concept in this lesson."
       },
       {
         "prompt": "Choose the relevant specialist term.",
         "options": [
           "ambiguous",
-          "rephrase",
-          "proofreading"
+          "proofreading",
+          "rephrase"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Check the vocabulary list for the precise meaning."
       },
       {
@@ -1621,11 +1621,11 @@ export const ENGLISH_C1_LESSONS_21_30 = [
       {
         "prompt": "How should uncertainty be presented?",
         "options": [
-          "State limitations precisely",
           "Hide unknown facts",
+          "State limitations precisely",
           "Make an absolute claim"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Limitations should be stated openly and precisely."
       }
     ]
