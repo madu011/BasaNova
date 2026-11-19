@@ -810,3 +810,15 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 1. Audit Serbian and English B1 lesson pairs for topic, vocabulary, examples, dialogue and exercise alignment; identify repeated or generic content and any mismatched language.
 2. Validate English B1 listening prompts/audio against answers and translations across all 50 lessons.
 3. Check GitHub Actions for commits `72f6b06d` and `a7cc8fbe`; run a fresh release build if needed and test the artifact on Android.
+
+
+## 2026-11-19 — English B1 listening text correction
+- The follow-up listening audit found that English B1 lessons 31–50 also used Sinhala-script phonetic renderings as the listening audio and prompt text, despite having the correct English sentence in the answer option.
+- Replaced the listening audio and prompt sentence with the matching English example sentence in all 20 lessons. Confirmed each listening audio matches the lesson's English example, contains no Sinhala-script characters, and has a valid correct-answer option.
+- Commit: `9d8e261d76ecd0b498903778b04d6619abf5be20`.
+- This is source-level validation. TTS voice quality and playback still need actual Android testing; the pronunciation guide fields remain approximate and should be reviewed.
+
+### Next exact task
+1. Audit English B1 lesson 31–50 listening translations and pronunciation aids; validate Serbian/English paired lesson content and answer alignment.
+2. Review repeated fourth-question patterns across B1 and make them more lesson-specific without changing correct answer semantics.
+3. Verify CI and standalone release APK after the recent English B1 content fixes; install and test on a physical Android device.
