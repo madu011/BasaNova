@@ -114,31 +114,31 @@ export const SERBIAN_C1_LESSONS_41_50 = [
       "audio": "Strateško predviđanje pomaže nam da se pripremimo za nekoliko mogućih budućnosti. Verodostojan scenario mora jasno da navede svoje pretpostavke. Potreban nam je rezervni plan ako potražnja opadne. Rani pokazatelji mogu otkriti promenu pravca.",
       "reading": "ස්ට්ර්අට්එෂ්ක්ඔ ප්ර්එඩ්ව්ඉජ්අන්ය්එ ප්ඔම්අෂ්එ න්අම් ඩ්අ ස්එ ප්ර්ඉප්ර්එම්ඉම්ඔ ස්අ න්එක්ඔල්ඉක්ඔ ම්ඔග්උච්ඉහ් බ්උඩ්උච්න්ඔස්ට්ඉ. ව්එර්ඔඩ්ඔස්ට්ඔය්අන් ස්ට්ස්එන්අර්ඉඔ ම්ඔර්අ ය්අස්න්ඔ ඩ්අ න්අව්එඩ්එ ස්ව්ඔය්එ ප්ර්එට්ප්ඔස්ට්අව්ක්එ. ප්ඔට්ර්එබ්අන් න්අම් ය්එ ර්එස්එර්ව්න්ඉ ප්ල්අන් අක්ඔ ප්ඔට්ර්අෂ්න්ය්අ ඔප්අඩ්න්එ. ර්අන්ඉ ප්ඔක්අස්අට්එල්ය්ඉ ම්ඔග්උ ඔට්ක්ර්ඉට්ඉ ප්ර්ඔම්එන්උ ප්ර්අව්ට්ස්අ.",
       "options": [
-        "විශ්වාසදායක සිදුවීම් ආකෘතියක් එහි උපකල්පන පැහැදිලිව සඳහන් කළ යුතුය. ඉල්ලුම අඩු වුවහොත් අපට විකල්ප සැලැස්මක් අවශ්‍ය වේ.",
         "Sve tvrdnje su potpuno sigurne.",
+        "විශ්වාසදායක සිදුවීම් ආකෘතියක් එහි උපකල්පන පැහැදිලිව සඳහන් කළ යුතුය. ඉල්ලුම අඩු වුවහොත් අපට විකල්ප සැලැස්මක් අවශ්‍ය වේ.",
         "Nijedno tumačenje nije moguće."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Koji je ključni izraz ove lekcije?",
         "options": [
-          "predviđanje",
           "scenario",
+          "predviđanje",
           "pretpostavka"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Prvi izraz je ključni pojam ove teme."
       },
       {
         "prompt": "Izaberite izraz koji je takođe važan za temu.",
         "options": [
           "verovatan",
-          "rezervni plan",
-          "pokazatelj"
+          "pokazatelj",
+          "rezervni plan"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Proverite značenje u rečniku lekcije."
       },
       {
@@ -154,11 +154,11 @@ export const SERBIAN_C1_LESSONS_41_50 = [
       {
         "prompt": "Kako treba predstaviti neizvesnost?",
         "options": [
-          "Otvoreno navesti ograničenja",
           "Pretpostavke prikazati kao činjenice",
+          "Otvoreno navesti ograničenja",
           "Izostaviti nepoznate podatke"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Ograničenja treba jasno navesti."
       }
     ]
@@ -277,31 +277,31 @@ export const SERBIAN_C1_LESSONS_41_50 = [
       "audio": "Ograničen ustupak može pokrenuti pregovore. Oba tima imaju jasno definisan mandat. Protivpredlog odgovara na našu glavnu zabrinutost. Sporazum postaje obavezujući kada ga obe strane potpišu.",
       "reading": "ඔග්ර්අන්ඉච්එන් උස්ට්උප්අක් ම්ඔෂ්එ ප්ඔක්ර්එන්උට්ඉ ප්ර්එග්ඔව්ඔර්එ. ඔබ්අ ට්ඉම්අ ඉම්අය්උ ය්අස්න්ඔ ඩ්එෆ්ඉන්ඉස්අන් ම්අන්ඩ්අට්. ප්ර්ඔට්ඉව්ප්ර්එඩ්ල්ඔග් ඔඩ්ග්ඔව්අර්අ න්අ න්අෂ්උ ග්ල්අව්න්උ ස්අබ්ර්ඉන්උට්ඔස්ට්. ස්ප්ඔර්අස්උම් ප්ඔස්ට්අය්එ ඔබ්අව්එස්උය්උච්ඉ ක්අඩ්අ ග්අ ඔබ්එ ස්ට්ර්අන්එ ප්ඔට්ප්ඉෂ්උ.",
       "options": [
-        "සීමිත සහනයක් සාකච්ඡා ඉදිරියට ගෙන යා හැකිය. කණ්ඩායම් දෙකටම පැහැදිලි බලතල ඇත.",
         "Sve tvrdnje su potpuno sigurne.",
-        "Nijedno tumačenje nije moguće."
+        "Nijedno tumačenje nije moguće.",
+        "සීමිත සහනයක් සාකච්ඡා ඉදිරියට ගෙන යා හැකිය. කණ්ඩායම් දෙකටම පැහැදිලි බලතල ඇත."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Koji je ključni izraz ove lekcije?",
         "options": [
-          "ustupak",
           "poluga",
+          "ustupak",
           "mandat"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Prvi izraz je ključni pojam ove teme."
       },
       {
         "prompt": "Izaberite izraz koji je takođe važan za temu.",
         "options": [
           "kompromis",
-          "zastoj",
-          "protivpredlog"
+          "protivpredlog",
+          "zastoj"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Proverite značenje u rečniku lekcije."
       },
       {
@@ -317,11 +317,11 @@ export const SERBIAN_C1_LESSONS_41_50 = [
       {
         "prompt": "Kako treba predstaviti neizvesnost?",
         "options": [
-          "Otvoreno navesti ograničenja",
           "Pretpostavke prikazati kao činjenice",
+          "Otvoreno navesti ograničenja",
           "Izostaviti nepoznate podatke"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Ograničenja treba jasno navesti."
       }
     ]
@@ -450,21 +450,21 @@ export const SERBIAN_C1_LESSONS_41_50 = [
       {
         "prompt": "Koji je ključni izraz ove lekcije?",
         "options": [
-          "nadzor",
           "poverenička dužnost",
+          "nadzor",
           "objavljivanje"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Prvi izraz je ključni pojam ove teme."
       },
       {
         "prompt": "Izaberite izraz koji je takođe važan za temu.",
         "options": [
           "naknada",
-          "nezavisnost",
-          "revizorski trag"
+          "revizorski trag",
+          "nezavisnost"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Proverite značenje u rečniku lekcije."
       },
       {
@@ -480,11 +480,11 @@ export const SERBIAN_C1_LESSONS_41_50 = [
       {
         "prompt": "Kako treba predstaviti neizvesnost?",
         "options": [
-          "Otvoreno navesti ograničenja",
           "Pretpostavke prikazati kao činjenice",
+          "Otvoreno navesti ograničenja",
           "Izostaviti nepoznate podatke"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Ograničenja treba jasno navesti."
       }
     ]
@@ -603,31 +603,31 @@ export const SERBIAN_C1_LESSONS_41_50 = [
       "audio": "Prilagođavanje smanjuje posledice promena koje se ne mogu izbeći. Politika povezuje ublažavanje posledica sa lokalnom otpornošću. Gubitak biodiverziteta može povećati ranjivost ekosistema. Emisije treba meriti u odnosu na jasno utvrđenu početnu vrednost.",
       "reading": "ප්ර්ඉල්අග්ඔජ්අව්අන්ය්එ ස්ම්අන්ය්උය්එ ප්ඔස්ල්එඩ්ඉට්ස්එ ප්ර්ඔම්එන්අ ක්ඔය්එ ස්එ න්එ ම්ඔග්උ ඉස්බ්එච්ඉ. ප්ඔල්ඉට්ඉක්අ ප්ඔව්එස්උය්එ උබ්ල්අෂ්අව්අන්ය්එ ප්ඔස්ල්එඩ්ඉට්ස්අ ස්අ ල්ඔක්අල්න්ඔම් ඔට්ප්ඔර්න්ඔෂ්ච්උ. ග්උබ්ඉට්අක් බ්ඉඔඩ්ඉව්එර්ස්ඉට්එට්අ ම්ඔෂ්එ ප්ඔව්එච්අට්ඉ ර්අන්ය්ඉව්ඔස්ට් එක්ඔස්ඉස්ට්එම්අ. එම්ඉස්ඉය්එ ට්ර්එබ්අ ම්එර්ඉට්ඉ උ ඔඩ්න්ඔස්උ න්අ ය්අස්න්ඔ උට්ව්ර්ජ්එන්උ ප්ඔච්එට්න්උ ව්ර්එඩ්න්ඔස්ට්.",
       "options": [
-        "අනුවර්තනය වැළැක්විය නොහැකි වෙනස්කම්වල බලපෑම අඩු කරයි. ප්‍රතිපත්තිය බලපෑම අවම කිරීම දේශීය ඔරොත්තු දීම සමඟ එක් කරයි.",
         "Sve tvrdnje su potpuno sigurne.",
+        "අනුවර්තනය වැළැක්විය නොහැකි වෙනස්කම්වල බලපෑම අඩු කරයි. ප්‍රතිපත්තිය බලපෑම අවම කිරීම දේශීය ඔරොත්තු දීම සමඟ එක් කරයි.",
         "Nijedno tumačenje nije moguće."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Koji je ključni izraz ove lekcije?",
         "options": [
-          "prilagođavanje",
           "ublažavanje",
+          "prilagođavanje",
           "izloženost"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Prvi izraz je ključni pojam ove teme."
       },
       {
         "prompt": "Izaberite izraz koji je takođe važan za temu.",
         "options": [
           "ranjivost",
-          "biodiverzitet",
-          "emisije"
+          "emisije",
+          "biodiverzitet"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Proverite značenje u rečniku lekcije."
       },
       {
@@ -643,11 +643,11 @@ export const SERBIAN_C1_LESSONS_41_50 = [
       {
         "prompt": "Kako treba predstaviti neizvesnost?",
         "options": [
-          "Otvoreno navesti ograničenja",
           "Pretpostavke prikazati kao činjenice",
+          "Otvoreno navesti ograničenja",
           "Izostaviti nepoznate podatke"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Ograničenja treba jasno navesti."
       }
     ]
@@ -766,31 +766,31 @@ export const SERBIAN_C1_LESSONS_41_50 = [
       "audio": "Interoperabilnost je ključna pri povezivanju sistema. Postepeno uvođenje može povećati prihvatanje novog rešenja. Nasleđeni sistem stvara nepotrebna kašnjenja. Zamor od promena treba ublažiti jasnom komunikacijom.",
       "reading": "ඉන්ට්එර්ඔප්එර්අබ්ඉල්න්ඔස්ට් ය්එ ක්ල්ය්උච්න්අ ප්ර්ඉ ප්ඔව්එස්ඉව්අන්ය්උ ස්ඉස්ට්එම්අ. ප්ඔස්ට්එප්එන්ඔ උව්ඔජ්එන්ය්එ ම්ඔෂ්එ ප්ඔව්එච්අට්ඉ ප්ර්ඉහ්ව්අට්අන්ය්එ න්ඔව්ඔග් ර්එෂ්එන්ය්අ. න්අස්ල්එජ්එන්ඉ ස්ඉස්ට්එම් ස්ට්ව්අර්අ න්එප්ඔට්ර්එබ්න්අ ක්අෂ්න්ය්එන්ය්අ. ස්අම්ඔර් ඔඩ් ප්ර්ඔම්එන්අ ට්ර්එබ්අ උබ්ල්අෂ්ඉට්ඉ ය්අස්න්ඔම් ක්ඔම්උන්ඉක්අට්ස්ඉය්ඔම්.",
       "options": [
-        "පද්ධති ඒකාබද්ධ කරන විට අන්තර්ක්‍රියා හැකියාව අත්‍යවශ්‍යය. අදියර අනුව හඳුන්වාදීම භාවිතය වැඩි කළ හැකිය.",
         "Sve tvrdnje su potpuno sigurne.",
-        "Nijedno tumačenje nije moguće."
+        "Nijedno tumačenje nije moguće.",
+        "පද්ධති ඒකාබද්ධ කරන විට අන්තර්ක්‍රියා හැකියාව අත්‍යවශ්‍යය. අදියර අනුව හඳුන්වාදීම භාවිතය වැඩි කළ හැකිය."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Koji je ključni izraz ove lekcije?",
         "options": [
-          "transformacija",
           "interoperabilnost",
+          "transformacija",
           "nasleđeni sistem"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Prvi izraz je ključni pojam ove teme."
       },
       {
         "prompt": "Izaberite izraz koji je takođe važan za temu.",
         "options": [
           "automatizacija",
-          "usvajanje",
-          "tok rada"
+          "tok rada",
+          "usvajanje"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Proverite značenje u rečniku lekcije."
       },
       {
@@ -806,11 +806,11 @@ export const SERBIAN_C1_LESSONS_41_50 = [
       {
         "prompt": "Kako treba predstaviti neizvesnost?",
         "options": [
-          "Otvoreno navesti ograničenja",
           "Pretpostavke prikazati kao činjenice",
+          "Otvoreno navesti ograničenja",
           "Izostaviti nepoznate podatke"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Ograničenja treba jasno navesti."
       }
     ]
@@ -939,21 +939,21 @@ export const SERBIAN_C1_LESSONS_41_50 = [
       {
         "prompt": "Koji je ključni izraz ove lekcije?",
         "options": [
-          "uzročnost",
           "korelacija",
+          "uzročnost",
           "ometajući faktor"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Prvi izraz je ključni pojam ove teme."
       },
       {
         "prompt": "Izaberite izraz koji je takođe važan za temu.",
         "options": [
           "pristrasnost uzorka",
-          "longitudinalan",
-          "ponavljanje istraživanja"
+          "ponavljanje istraživanja",
+          "longitudinalan"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Proverite značenje u rečniku lekcije."
       },
       {
@@ -969,11 +969,11 @@ export const SERBIAN_C1_LESSONS_41_50 = [
       {
         "prompt": "Kako treba predstaviti neizvesnost?",
         "options": [
-          "Otvoreno navesti ograničenja",
           "Pretpostavke prikazati kao činjenice",
+          "Otvoreno navesti ograničenja",
           "Izostaviti nepoznate podatke"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Ograničenja treba jasno navesti."
       }
     ]
@@ -1092,31 +1092,31 @@ export const SERBIAN_C1_LESSONS_41_50 = [
       "audio": "Nepouzdan pripovedač otežava čitaocu donošenje suda. Motiv koji se ponavlja povezuje naizgled odvojene epizode. Ironija stvara napetost između izgleda i namere. Moguće je više uverljivih tumačenja.",
       "reading": "න්එප්ඔඋස්ඩ්අන් ප්ර්ඉප්ඔව්එඩ්අච් ඔට්එෂ්අව්අ ච්ඉට්අඔට්ස්උ ඩ්ඔන්ඔෂ්එන්ය්එ ස්උඩ්අ. ම්ඔට්ඉව් ක්ඔය්ඉ ස්එ ප්ඔන්අව්ල්ය්අ ප්ඔව්එස්උය්එ න්අඉස්ග්ල්එඩ් ඔඩ්ව්ඔය්එන්එ එප්ඉස්ඔඩ්එ. ඉර්ඔන්ඉය්අ ස්ට්ව්අර්අ න්අප්එට්ඔස්ට් ඉස්ම්එජ්උ ඉස්ග්ල්එඩ්අ ඉ න්අම්එර්එ. ම්ඔග්උච්එ ය්එ ව්ඉෂ්එ උව්එර්ල්ය්ඉව්ඉහ් ට්උම්අච්එන්ය්අ.",
       "options": [
-        "විශ්වාස කළ නොහැකි කථකයා පාඨකයාගේ විනිශ්චය සංකීර්ණ කරයි. නැවත මතුවන රූපකය වෙන වෙනම සිදුවීම් සම්බන්ධ කරයි.",
         "Sve tvrdnje su potpuno sigurne.",
+        "විශ්වාස කළ නොහැකි කථකයා පාඨකයාගේ විනිශ්චය සංකීර්ණ කරයි. නැවත මතුවන රූපකය වෙන වෙනම සිදුවීම් සම්බන්ධ කරයි.",
         "Nijedno tumačenje nije moguće."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Koji je ključni izraz ove lekcije?",
         "options": [
-          "dvosmislenost",
           "pripovedač",
+          "dvosmislenost",
           "motiv"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Prvi izraz je ključni pojam ove teme."
       },
       {
         "prompt": "Izaberite izraz koji je takođe važan za temu.",
         "options": [
           "podtekst",
-          "aluzija",
-          "ironija"
+          "ironija",
+          "aluzija"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Proverite značenje u rečniku lekcije."
       },
       {
@@ -1132,11 +1132,11 @@ export const SERBIAN_C1_LESSONS_41_50 = [
       {
         "prompt": "Kako treba predstaviti neizvesnost?",
         "options": [
-          "Otvoreno navesti ograničenja",
           "Pretpostavke prikazati kao činjenice",
+          "Otvoreno navesti ograničenja",
           "Izostaviti nepoznate podatke"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Ograničenja treba jasno navesti."
       }
     ]
@@ -1255,31 +1255,31 @@ export const SERBIAN_C1_LESSONS_41_50 = [
       "audio": "Pravovremeno pojašnjenje može sprečiti širenje glasina. Portparol treba da razlikuje činjenice od procena. Transparentnost jača poverenje javnosti. Poruka mora priznati i ono što još nije poznato.",
       "reading": "ප්ර්අව්ඔව්ර්එම්එන්ඔ ප්ඔය්අෂ්න්ය්එන්ය්එ ම්ඔෂ්එ ස්ප්ර්එච්ඉට්ඉ ෂ්ඉර්එන්ය්එ ග්ල්අස්ඉන්අ. ප්ඔර්ට්ප්අර්ඔල් ට්ර්එබ්අ ඩ්අ ර්අස්ල්ඉක්උය්එ ච්ඉන්ය්එන්ඉට්ස්එ ඔඩ් ප්ර්ඔට්ස්එන්අ. ට්ර්අන්ස්ප්අර්එන්ට්න්ඔස්ට් ය්අච්අ ප්ඔව්එර්එන්ය්එ ය්අව්න්ඔස්ට්ඉ. ප්ඔර්උක්අ ම්ඔර්අ ප්ර්ඉස්න්අට්ඉ ඉ ඔන්ඔ ෂ්ට්ඔ ය්ඔෂ් න්ඉය්එ ප්ඔස්න්අට්ඔ.",
       "options": [
-        "කාලෝචිත පැහැදිලි කිරීම කටකතා පැතිරීම වළක්වයි. ප්‍රකාශකයා කරුණු සහ ඇස්තමේන්තු වෙන් කළ යුතුය.",
         "Sve tvrdnje su potpuno sigurne.",
-        "Nijedno tumačenje nije moguće."
+        "Nijedno tumačenje nije moguće.",
+        "කාලෝචිත පැහැදිලි කිරීම කටකතා පැතිරීම වළක්වයි. ප්‍රකාශකයා කරුණු සහ ඇස්තමේන්තු වෙන් කළ යුතුය."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Koji je ključni izraz ove lekcije?",
         "options": [
-          "transparentnost",
           "uveravanje",
+          "transparentnost",
           "dezinformacije"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Prvi izraz je ključni pojam ove teme."
       },
       {
         "prompt": "Izaberite izraz koji je takođe važan za temu.",
         "options": [
           "portparol",
-          "pravovremenost",
-          "pojašnjenje"
+          "pojašnjenje",
+          "pravovremenost"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Proverite značenje u rečniku lekcije."
       },
       {
@@ -1295,11 +1295,11 @@ export const SERBIAN_C1_LESSONS_41_50 = [
       {
         "prompt": "Kako treba predstaviti neizvesnost?",
         "options": [
-          "Otvoreno navesti ograničenja",
           "Pretpostavke prikazati kao činjenice",
+          "Otvoreno navesti ograničenja",
           "Izostaviti nepoznate podatke"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Ograničenja treba jasno navesti."
       }
     ]
@@ -1428,21 +1428,21 @@ export const SERBIAN_C1_LESSONS_41_50 = [
       {
         "prompt": "Koji je ključni izraz ove lekcije?",
         "options": [
-          "izvršni sažetak",
           "merilo",
+          "izvršni sažetak",
           "izvodljivost"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Prvi izraz je ključni pojam ove teme."
       },
       {
         "prompt": "Izaberite izraz koji je takođe važan za temu.",
         "options": [
           "implikacija",
-          "sprovođenje",
-          "praćenje"
+          "praćenje",
+          "sprovođenje"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Proverite značenje u rečniku lekcije."
       },
       {
@@ -1458,11 +1458,11 @@ export const SERBIAN_C1_LESSONS_41_50 = [
       {
         "prompt": "Kako treba predstaviti neizvesnost?",
         "options": [
-          "Otvoreno navesti ograničenja",
           "Pretpostavke prikazati kao činjenice",
+          "Otvoreno navesti ograničenja",
           "Izostaviti nepoznate podatke"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Ograničenja treba jasno navesti."
       }
     ]
@@ -1581,31 +1581,31 @@ export const SERBIAN_C1_LESSONS_41_50 = [
       "audio": "Etički principi treba da usmeravaju profesionalne odluke. Integritet podrazumeva doslednost između reči i postupaka. Težak izbor zahteva razmatranje posledica po sve uključene strane. Odgovornost znači da smo spremni da obrazložimo svoju odluku.",
       "reading": "එට්ඉච්ක්ඉ ප්ර්ඉන්ට්ස්ඉප්ඉ ට්ර්එබ්අ ඩ්අ උස්ම්එර්අව්අය්උ ප්ර්ඔෆ්එස්ඉඔන්අල්න්එ ඔඩ්ල්උක්එ. ඉන්ට්එග්ර්ඉට්එට් ප්ඔඩ්ර්අස්උම්එව්අ ඩ්ඔස්ල්එඩ්න්ඔස්ට් ඉස්ම්එජ්උ ර්එච්ඉ ඉ ප්ඔස්ට්උප්අක්අ. ට්එෂ්අක් ඉස්බ්ඔර් ස්අහ්ට්එව්අ ර්අස්ම්අට්ර්අන්ය්එ ප්ඔස්ල්එඩ්ඉට්ස්අ ප්ඔ ස්ව්එ උක්ල්ය්උච්එන්එ ස්ට්ර්අන්එ. ඔඩ්ග්ඔව්ඔර්න්ඔස්ට් ස්න්අච්ඉ ඩ්අ ස්ම්ඔ ස්ප්ර්එම්න්ඉ ඩ්අ ඔබ්ර්අස්ල්ඔෂ්ඉම්ඔ ස්ව්ඔය්උ ඔඩ්ල්උක්උ.",
       "options": [
-        "වෘත්තීය තීරණවලට සදාචාරාත්මක මූලධර්ම මඟපෙන්විය යුතුය. වගවීම යනු අපගේ තීරණය පැහැදිලි කිරීමට සූදානම් වීමයි.",
         "Svaka odluka je jednostavna.",
+        "වෘත්තීය තීරණවලට සදාචාරාත්මක මූලධර්ම මඟපෙන්විය යුතුය. වගවීම යනු අපගේ තීරණය පැහැදිලි කිරීමට සූදානම් වීමයි.",
         "Nema potrebe za obrazloženjem."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Koji pojam označava doslednost između reči i postupaka?",
         "options": [
-          "integritet",
           "dilema",
+          "integritet",
           "posledica"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Integritet podrazumeva doslednost."
       },
       {
         "prompt": "Koji izraz označava težak izbor između mogućnosti?",
         "options": [
           "načelo",
-          "dilema",
-          "doslednost"
+          "doslednost",
+          "dilema"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Dilema je složen izbor."
       },
       {
@@ -1621,11 +1621,11 @@ export const SERBIAN_C1_LESSONS_41_50 = [
       {
         "prompt": "Kako treba obrazložiti odluku?",
         "options": [
-          "Jasno i odgovorno",
           "Bez dokaza",
+          "Jasno i odgovorno",
           "Izbegavanjem pitanja"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Odgovornost zahteva jasno obrazloženje."
       }
     ]
