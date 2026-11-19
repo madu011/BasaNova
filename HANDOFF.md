@@ -1175,3 +1175,16 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 - Kept a separate lesson 11 for more detailed café ordering, so the existing progression after lesson 10 is preserved.
 - English A1 now has 50 lessons, 50 unique IDs, continuous title numbers 1–50, and no duplicate lesson numbers in a static source audit. Serbian A1 also has 50 unique IDs and continuous title numbers 1–50.
 - Added `validateLessonNumbering` to `scripts/content-qa.mjs` so future content QA checks continuous numbering. The full QA script has not yet been executed because GitHub Actions remains blocked by the account billing/usage restriction; this is static source inspection only.
+
+
+## 2026-11-19 — A1 lessons 11–20 listening parity
+- Reviewed the exact Serbian and English A1 lesson objects 11–20. Topic sequence aligns: café ordering; help/clarification; buying fruit and vegetables; dates/numbers/time; daily routines; work shifts; family/personal information; travel/transport; home/furniture; food/cooking.
+- English lessons 11–20 already had listening tasks. Serbian lessons 11–20 had no authored `listeningPractice` objects, although the app supports this field and renders an audio button plus answer choices.
+- Added one Serbian listening task to each of lessons 11–20, with Serbian audio text, Sinhala-script approximate reading, three Sinhala answer choices, and a correct-answer index. The task is intended for TTS playback through the existing lesson UI; no recorded audio files were added.
+- Corrected mixed-script Sinhala readings discovered during the static scan. Static checks now show 50 Serbian lessons/50 unique IDs and 50 English lessons/50 unique IDs; all 10 Serbian lessons 11–20 contain listening tasks with three options and Sinhala-only reading strings. English lessons 11–20 also each contain listening tasks.
+- Extended `scripts/content-qa.mjs` so listening tasks require Sinhala-script readings and reject Latin/Cyrillic mixed-script readings.
+- Important: these are source-level checks only. The full QA script, Expo app, TTS playback and Android UI have not been run/tested because the user asked to pause builds while GitHub account usage/billing restrictions remain. Sinhala pronunciation is approximate and needs fluent Serbian-speaker review.
+- Commits: Serbian listening tasks `cfca3885db4390fe2bbefc8a2ed85e429b2e55d9`; reading corrections `5757e806881c616236402a3d546a5014bb569644`, `0ac39577545b54b08faf84096e0f419d59216662`, `3a7476ec762434ebaf0bef35cf8673ad735126fa`, `bf3a8201a4dcb0e40f191870d7580f4775c4ffa4`; QA rule `8521d28478234ce36221c0533f0e90d1ceee765b`.
+
+### Next exact task
+- Continue paired audit of A1 lessons 21–30: compare topic alignment, required Sinhala pronunciation/meaning, practice counts and listening parity. Correct only verified gaps and preserve current lesson IDs/progress keys.
