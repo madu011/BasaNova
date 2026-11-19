@@ -1889,19 +1889,19 @@ export const SERBIAN_B1_LESSONS = [
         "si": "දුම්රිය ප්‍රමාද විය හැකියි, නමුත් අපි බොහෝවිට වෙලාවට එනවා."
       },
       {
-        "sr": "B: Razumem. Šta predlažeš?",
-        "reading": "බී: රාසුමෙම්. ෂ්තා ප්‍රෙද්ලාෂෙෂ්?",
-        "si": "තේරුණා. ඔයා මොකක්ද යෝජනා කරන්නේ?"
+        "sr": "B: Da li obično proveravaš red vožnje pre polaska?",
+        "reading": "B: Da li obiච්no proveravaෂ් red voෂ්න්‍යe pre polaska?",
+        "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "sr": "A: Ako bude gužve, možda ćemo uzeti taksi.",
-        "reading": "ඒ: තදබදයක් තිබුණොත් අපි සමහරවිට ටැක්සියක් ගන්නවා.",
-        "si": "තදබදයක් තිබුණොත් අපි සමහරවිට ටැක්සියක් ගන්නවා."
+        "reading": "A: Ako bude guෂ්ve, moෂ්da ච්emo uzeti taksi.",
+        "si": "එය සාධාරණයි. පැමිණෙන වේලාව පරීක්ෂා කර ඉක්මන්ම විකල්පය තෝරමු."
       },
       {
-        "sr": "B: Slažem se. Tako ćemo lakše rešiti problem.",
-        "reading": "බී: ස්ලාෂෙම් සෙ. තාකො චෙමො ලක්ෂෙ රෙෂිති ප්‍රොබ්ලෙම්.",
-        "si": "එකඟයි. එහෙම කළොත් ගැටලුව පහසුවෙන් විසඳගන්න පුළුවන්."
+        "sr": "B: To je razumno. Proverićemo vreme dolaska i izabrati najbržu opciju.",
+        "reading": "B: To je razumno. Proveriච්emo vreme dolaska i izabrati najbrෂ්u opciju.",
+        "si": "ගමන් වේලාව පරීක්ෂා කර ඉක්මන්ම විකල්පය තෝරාගැනීම."
       }
     ],
     "listeningPractice": {
@@ -1947,14 +1947,14 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "možda = සමහරවිට"
       },
       {
-        "prompt": "සංවාදයේ A පුද්ගලයාගේ අදහසට B ප්‍රතිචාරය කුමක්ද?",
+        "prompt": "B කතාබහේදී යෝජනා කරන්නේ හෝ අවධාරණය කරන්නේ කුමක්ද?",
         "options": [
-          "Ne znam gde je.",
-          "Slažem se. Tako ćemo lakše rešiti problem.",
-          "Koliko košta?"
+          "ගමන් වේලාව පරීක්ෂා කිරීම",
+          "ලිපිනය වෙනස් කිරීම",
+          "දුම්රිය අවලංගු කිරීම"
         ],
-        "answer": 1,
-        "explanation": "“Slažem se” යනු “මම එකඟයි” යන්නයි."
+        "answer": 0,
+        "explanation": "To je razumno. Proverićemo vreme dolaska i izabrati najbržu opciju. = ගමන් වේලාව පරීක්ෂා කර ඉක්මන්ම විකල්පය තෝරාගැනීම."
       }
     ]
   },
@@ -2067,19 +2067,19 @@ export const SERBIAN_B1_LESSONS = [
         "si": "නිතිපතා නැවත කිරීමෙන් අලුත් වචන හොඳින් මතක තබාගන්න පුළුවන්."
       },
       {
-        "sr": "B: Razumem. Šta predlažeš?",
-        "reading": "බී: රාසුමෙම්. ෂ්තා ප්‍රෙද්ලාෂෙෂ්?",
-        "si": "තේරුණා. ඔයා මොකක්ද යෝජනා කරන්නේ?"
+        "sr": "B: Da li ti više pomaže čitanje ili razgovor?",
+        "reading": "B: Da li ti viෂ්e pomaෂ්e ච්itaන්‍යe ili razgovor?",
+        "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "sr": "A: Najviše naučim kada koristim jezik u razgovoru.",
-        "reading": "ඒ: සංවාදයකදී භාෂාව භාවිතා කරන විට මම වැඩිපුර ඉගෙන ගන්නවා.",
-        "si": "සංවාදයකදී භාෂාව භාවිතා කරන විට මම වැඩිපුර ඉගෙන ගන්නවා."
+        "reading": "A: Najviෂ්e nauච්im kada koristim jezik u razgovoru.",
+        "si": "එහෙනම් අපට හැමදාම කෙටි සංවාදයකින් පුහුණු වෙන්න පුළුවන්."
       },
       {
-        "sr": "B: Slažem se. Tako ćemo lakše rešiti problem.",
-        "reading": "බී: ස්ලාෂෙම් සෙ. තාකො චෙමො ලක්ෂෙ රෙෂිති ප්‍රොබ්ලෙම්.",
-        "si": "එකඟයි. එහෙම කළොත් ගැටලුව පහසුවෙන් විසඳගන්න පුළුවන්."
+        "sr": "B: Onda možemo svakog dana da vežbamo kroz kratak razgovor.",
+        "reading": "B: Onda moෂ්emo svakog dana da veෂ්bamo kroz kratak razgovor.",
+        "si": "දිනපතා කෙටි සංවාදයකින් පුහුණු වීම."
       }
     ],
     "listeningPractice": {
@@ -2125,14 +2125,14 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "ponavljanje = නැවත පුහුණුව"
       },
       {
-        "prompt": "සංවාදයේ A පුද්ගලයාගේ අදහසට B ප්‍රතිචාරය කුමක්ද?",
+        "prompt": "B කතාබහේදී යෝජනා කරන්නේ හෝ අවධාරණය කරන්නේ කුමක්ද?",
         "options": [
-          "Ne znam gde je.",
-          "Slažem se. Tako ćemo lakše rešiti problem.",
-          "Koliko košta?"
+          "දිනපතා කෙටි සංවාද පුහුණුව",
+          "පාඩම් නවත්වීම",
+          "පොත් පමණක් කියවීම"
         ],
-        "answer": 1,
-        "explanation": "“Slažem se” යනු “මම එකඟයි” යන්නයි."
+        "answer": 0,
+        "explanation": "Onda možemo svakog dana da vežbamo kroz kratak razgovor. = දිනපතා කෙටි සංවාදයකින් පුහුණු වීම."
       }
     ]
   },
@@ -2245,19 +2245,19 @@ export const SERBIAN_B1_LESSONS = [
         "si": "අලුත්වැඩියා නිසා බස් රථය වෙනත් නැවතුමකින් පිටත් වෙනවා."
       },
       {
-        "sr": "B: Razumem. Šta predlažeš?",
-        "reading": "බී: රාසුමෙම්. ෂ්තා ප්‍රෙද්ලාෂෙෂ්?",
-        "si": "තේරුණා. ඔයා මොකක්ද යෝජනා කරන්නේ?"
+        "sr": "B: Da li si proverio vreme sledećeg polaska?",
+        "reading": "B: Da li si proverio vreme sledeච්eg polaska?",
+        "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "sr": "A: Ako propustimo voz, proverićemo sledeći polazak.",
-        "reading": "ඒ: දුම්රිය මඟහැරුණොත් ඊළඟ පිටත්වීම පරීක්ෂා කරනවා.",
-        "si": "දුම්රිය මඟහැරුණොත් ඊළඟ පිටත්වීම පරීක්ෂා කරනවා."
+        "reading": "A: Ako propustimo voz, proveriච්emo sledeච්i polazak.",
+        "si": "හොඳයි. එවිට කොපමණ වේලාවක් බලා සිටිය යුතුදැයි දැනගන්න පුළුවන්."
       },
       {
-        "sr": "B: Slažem se. Tako ćemo lakše rešiti problem.",
-        "reading": "බී: ස්ලාෂෙම් සෙ. තාකො චෙමො ලක්ෂෙ රෙෂිති ප්‍රොබ්ලෙම්.",
-        "si": "එකඟයි. එහෙම කළොත් ගැටලුව පහසුවෙන් විසඳගන්න පුළුවන්."
+        "sr": "B: Dobro. Tako ćemo znati koliko treba da čekamo.",
+        "reading": "B: Dobro. Tako ච්emo znati koliko treba da ච්ekamo.",
+        "si": "ඊළඟ දුම්රිය පිටත්වන වේලාව පරීක්ෂා කිරීම."
       }
     ],
     "listeningPractice": {
@@ -2303,14 +2303,14 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "polazak = පිටත්වීම"
       },
       {
-        "prompt": "සංවාදයේ A පුද්ගලයාගේ අදහසට B ප්‍රතිචාරය කුමක්ද?",
+        "prompt": "B කතාබහේදී යෝජනා කරන්නේ හෝ අවධාරණය කරන්නේ කුමක්ද?",
         "options": [
-          "Ne znam gde je.",
-          "Slažem se. Tako ćemo lakše rešiti problem.",
-          "Koliko košta?"
+          "ඊළඟ දුම්රිය වේලාව පරීක්ෂා කිරීම",
+          "ගමන අවලංගු කිරීම",
+          "ටිකට්පත ඉවත දැමීම"
         ],
-        "answer": 1,
-        "explanation": "“Slažem se” යනු “මම එකඟයි” යන්නයි."
+        "answer": 0,
+        "explanation": "Dobro. Tako ćemo znati koliko treba da čekamo. = ඊළඟ දුම්රිය පිටත්වන වේලාව පරීක්ෂා කිරීම."
       }
     ]
   },
@@ -2423,19 +2423,19 @@ export const SERBIAN_B1_LESSONS = [
         "si": "හානි වූ භාණ්ඩය ගැන පැමිණිල්ලක් ඉදිරිපත් කරන්න කැමතියි."
       },
       {
-        "sr": "B: Razumem. Šta predlažeš?",
-        "reading": "බී: රාසුමෙම්. ෂ්තා ප්‍රෙද්ලාෂෙෂ්?",
-        "si": "තේරුණා. ඔයා මොකක්ද යෝජනා කරන්නේ?"
+        "sr": "B: Da li imate račun i fotografiju oštećenja?",
+        "reading": "B: Da li imate raච්un i fotografiju oෂ්teච්eන්‍යa?",
+        "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "sr": "A: Molim vas da mi objasnite koje su mogućnosti zamene.",
-        "reading": "ඒ: මාරු කිරීමේ විකල්ප මොනවාද කියලා පැහැදිලි කරන්න.",
-        "si": "මාරු කිරීමේ විකල්ප මොනවාද කියලා පැහැදිලි කරන්න."
+        "reading": "A: Molim vas da mi objasnite koje su moguච්nosti zamene.",
+        "si": "ඇත්තෙන්ම. නීති අනුව භාණ්ඩය මාරු කිරීමක් හෝ මුදල් ආපසු ලබාගැනීමක් ඉල්ලන්න පුළුවන්."
       },
       {
-        "sr": "B: Slažem se. Tako ćemo lakše rešiti problem.",
-        "reading": "බී: ස්ලාෂෙම් සෙ. තාකො චෙමො ලක්ෂෙ රෙෂිති ප්‍රොබ්ලෙම්.",
-        "si": "එකඟයි. එහෙම කළොත් ගැටලුව පහසුවෙන් විසඳගන්න පුළුවන්."
+        "sr": "B: Naravno. Možemo da zatražimo zamenu ili povraćaj novca u skladu sa pravilima.",
+        "reading": "B: Naravno. Moෂ්emo da zatraෂ්imo zamenu ili povraච්aj novca u skladu sa pravilima.",
+        "si": "භාණ්ඩය මාරු කිරීමක් හෝ මුදල් ආපසු ලබාගැනීමක් ඉල්ලීම."
       }
     ],
     "listeningPractice": {
@@ -2481,14 +2481,14 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "račun = රිසිට්පත"
       },
       {
-        "prompt": "සංවාදයේ A පුද්ගලයාගේ අදහසට B ප්‍රතිචාරය කුමක්ද?",
+        "prompt": "B කතාබහේදී යෝජනා කරන්නේ හෝ අවධාරණය කරන්නේ කුමක්ද?",
         "options": [
-          "Ne znam gde je.",
-          "Slažem se. Tako ćemo lakše rešiti problem.",
-          "Koliko košta?"
+          "භාණ්ඩය මාරු කිරීම හෝ මුදල් ආපසු ඉල්ලීම",
+          "නව භාණ්ඩයක් මිලදී ගැනීම",
+          "පැමිණිල්ල ඉවත් කිරීම"
         ],
-        "answer": 1,
-        "explanation": "“Slažem se” යනු “මම එකඟයි” යන්නයි."
+        "answer": 0,
+        "explanation": "Naravno. Možemo da zatražimo zamenu ili povraćaj novca u skladu sa pravilima. = භාණ්ඩය මාරු කිරීමක් හෝ මුදල් ආපසු ලබාගැනීමක් ඉල්ලීම."
       }
     ]
   },
@@ -2601,19 +2601,19 @@ export const SERBIAN_B1_LESSONS = [
         "si": "මුලින් පෝරමය පුරවා පසුව නිලධාරියාට භාර දෙන්න."
       },
       {
-        "sr": "B: Razumem. Šta predlažeš?",
-        "reading": "බී: රාසුමෙම්. ෂ්තා ප්‍රෙද්ලාෂෙෂ්?",
-        "si": "තේරුණා. ඔයා මොකක්ද යෝජනා කරන්නේ?"
+        "sr": "B: Da li su koraci jasni i kojim redom ih treba pratiti?",
+        "reading": "B: Da li su koraci jasni i kojim redom ih treba pratiti?",
+        "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "sr": "A: Nakon što se uređaj uključi, sačekajte nekoliko sekundi.",
-        "reading": "ඒ: උපාංගය ක්‍රියාත්මක කළ පසු තත්පර කිහිපයක් රැඳී සිටින්න.",
-        "si": "උපාංගය ක්‍රියාත්මක කළ පසු තත්පර කිහිපයක් රැඳී සිටින්න."
+        "reading": "A: Nakon ෂ්to se ureජ්aj ukල්‍යuච්i, saච්ekajte nekoliko sekundi.",
+        "si": "පියවර අනුපිළිවෙළට අනුගමනය කර ආරක්ෂක උපදෙස් මඟ නොහැරීම වැදගත්."
       },
       {
-        "sr": "B: Slažem se. Tako ćemo lakše rešiti problem.",
-        "reading": "බී: ස්ලාෂෙම් සෙ. තාකො චෙමො ලක්ෂෙ රෙෂිති ප්‍රොබ්ලෙම්.",
-        "si": "එකඟයි. එහෙම කළොත් ගැටලුව පහසුවෙන් විසඳගන්න පුළුවන්."
+        "sr": "B: Važno je da pratite redosled i ne preskačete bezbednosna uputstva.",
+        "reading": "B: Vaෂ්no je da pratite redosled i ne preskaච්ete bezbednosna uputstva.",
+        "si": "පියවර අනුපිළිවෙළට අනුගමනය කිරීම සහ ආරක්ෂක උපදෙස් පිළිපැදීම."
       }
     ],
     "listeningPractice": {
@@ -2659,14 +2659,14 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "uputstvo = උපදෙස්"
       },
       {
-        "prompt": "සංවාදයේ A පුද්ගලයාගේ අදහසට B ප්‍රතිචාරය කුමක්ද?",
+        "prompt": "B කතාබහේදී යෝජනා කරන්නේ හෝ අවධාරණය කරන්නේ කුමක්ද?",
         "options": [
-          "Ne znam gde je.",
-          "Slažem se. Tako ćemo lakše rešiti problem.",
-          "Koliko košta?"
+          "පියවර අනුපිළිවෙළට අනුගමනය කිරීම",
+          "උපදෙස් නොසලකා හැරීම",
+          "උපාංගය වහාම විසන්ධි කිරීම"
         ],
-        "answer": 1,
-        "explanation": "“Slažem se” යනු “මම එකඟයි” යන්නයි."
+        "answer": 0,
+        "explanation": "Važno je da pratite redosled i ne preskačete bezbednosna uputstva. = පියවර අනුපිළිවෙළට අනුගමනය කිරීම සහ ආරක්ෂක උපදෙස් පිළිපැදීම."
       }
     ]
   },
@@ -2779,19 +2779,19 @@ export const SERBIAN_B1_LESSONS = [
         "si": "අපේ ප්‍රජාව උද්‍යානය පිරිසිදු කිරීමේ වැඩසටහනක් සංවිධානය කරනවා."
       },
       {
-        "sr": "B: Razumem. Šta predlažeš?",
-        "reading": "බී: රාසුමෙම්. ෂ්තා ප්‍රෙද්ලාෂෙෂ්?",
-        "si": "තේරුණා. ඔයා මොකක්ද යෝජනා කරන්නේ?"
+        "sr": "B: Kako građani mogu da učestvuju u akciji?",
+        "reading": "B: Kako graජ්ani mogu da uච්estvuju u akciji?",
+        "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "sr": "A: Građani mogu da predlože rešenja na javnom sastanku.",
-        "reading": "ඒ: පුරවැසියන්ට මහජන රැස්වීමේදී විසඳුම් යෝජනා කළ හැකියි.",
-        "si": "පුරවැසියන්ට මහජන රැස්වීමේදී විසඳුම් යෝජනා කළ හැකියි."
+        "reading": "A: Graජ්ani mogu da predloෂ්e reෂ්eන්‍යa na javnom sastanku.",
+        "si": "විශිෂ්ටයි. හැමෝටම සහභාගී විය හැකි ලෙස රැස්වීමේ වේලාව ප්‍රකාශ කරමු."
       },
       {
-        "sr": "B: Slažem se. Tako ćemo lakše rešiti problem.",
-        "reading": "බී: ස්ලාෂෙම් සෙ. තාකො චෙමො ලක්ෂෙ රෙෂිති ප්‍රොබ්ලෙම්.",
-        "si": "එකඟයි. එහෙම කළොත් ගැටලුව පහසුවෙන් විසඳගන්න පුළුවන්."
+        "sr": "B: Odlično. Objavićemo vreme sastanka kako bi svi mogli da dođu.",
+        "reading": "B: Odliච්no. Objaviච්emo vreme sastanka kako bi svi mogli da doජ්u.",
+        "si": "රැස්වීමේ වේලාව ප්‍රකාශ කර සියලු දෙනාට සහභාගී වීමට ඉඩ සැලසීම."
       }
     ],
     "listeningPractice": {
@@ -2837,14 +2837,14 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "volonter = ස්වේච්ඡා සේවකයා"
       },
       {
-        "prompt": "සංවාදයේ A පුද්ගලයාගේ අදහසට B ප්‍රතිචාරය කුමක්ද?",
+        "prompt": "B කතාබහේදී යෝජනා කරන්නේ හෝ අවධාරණය කරන්නේ කුමක්ද?",
         "options": [
-          "Ne znam gde je.",
-          "Slažem se. Tako ćemo lakše rešiti problem.",
-          "Koliko košta?"
+          "රැස්වීමේ වේලාව ප්‍රකාශ කිරීම",
+          "උද්‍යානය වසා දැමීම",
+          "අදහස් නොසලකා හැරීම"
         ],
-        "answer": 1,
-        "explanation": "“Slažem se” යනු “මම එකඟයි” යන්නයි."
+        "answer": 0,
+        "explanation": "Odlično. Objavićemo vreme sastanka kako bi svi mogli da dođu. = රැස්වීමේ වේලාව ප්‍රකාශ කර සියලු දෙනාට සහභාගී වීමට ඉඩ සැලසීම."
       }
     ]
   },
@@ -2957,19 +2957,19 @@ export const SERBIAN_B1_LESSONS = [
         "si": "වැඩ සහ විවේකය අතර සමබරතාවයක් ඇති කරන්න උත්සාහ කරනවා."
       },
       {
-        "sr": "B: Razumem. Šta predlažeš?",
-        "reading": "බී: රාසුමෙම්. ෂ්තා ප්‍රෙද්ලාෂෙෂ්?",
-        "si": "තේරුණා. ඔයා මොකක්ද යෝජනා කරන්නේ?"
+        "sr": "B: Šta ti najviše oduzima slobodno vreme?",
+        "reading": "B: ෂ්ta ti najviෂ්e oduzima slobodno vreme?",
+        "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "sr": "A: Ako unapred isplaniramo obaveze, imaćemo više slobodnog vremena.",
-        "reading": "ඒ: කලින් වැඩ සැලසුම් කළොත් වැඩි නිදහස් කාලයක් ලැබෙනවා.",
-        "si": "කලින් වැඩ සැලසුම් කළොත් වැඩි නිදහස් කාලයක් ලැබෙනවා."
+        "reading": "A: Ako unapred isplaniramo obaveze, imaච්emo viෂ්e slobodnog vremena.",
+        "si": "අපට කාලසටහනක් සකස් කර විවේකයටත් කාලය වෙන් කරන්න පුළුවන්."
       },
       {
-        "sr": "B: Slažem se. Tako ćemo lakše rešiti problem.",
-        "reading": "බී: ස්ලාෂෙම් සෙ. තාකො චෙමො ලක්ෂෙ රෙෂිති ප්‍රොබ්ලෙම්.",
-        "si": "එකඟයි. එහෙම කළොත් ගැටලුව පහසුවෙන් විසඳගන්න පුළුවන්."
+        "sr": "B: Možemo da napravimo raspored i ostavimo vreme za odmor.",
+        "reading": "B: Moෂ්emo da napravimo raspored i ostavimo vreme za odmor.",
+        "si": "කාලසටහනක් සකස් කර විවේකයට කාලය වෙන් කිරීම."
       }
     ],
     "listeningPractice": {
@@ -3015,14 +3015,14 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "rok = අවසන් දිනය"
       },
       {
-        "prompt": "සංවාදයේ A පුද්ගලයාගේ අදහසට B ප්‍රතිචාරය කුමක්ද?",
+        "prompt": "B කතාබහේදී යෝජනා කරන්නේ හෝ අවධාරණය කරන්නේ කුමක්ද?",
         "options": [
-          "Ne znam gde je.",
-          "Slažem se. Tako ćemo lakše rešiti problem.",
-          "Koliko košta?"
+          "කාලසටහනක් සහ විවේක වේලාවක් සකස් කිරීම",
+          "සියලු විවේකය ඉවත් කිරීම",
+          "වැඩ කල් දැමීම"
         ],
-        "answer": 1,
-        "explanation": "“Slažem se” යනු “මම එකඟයි” යන්නයි."
+        "answer": 0,
+        "explanation": "Možemo da napravimo raspored i ostavimo vreme za odmor. = කාලසටහනක් සකස් කර විවේකයට කාලය වෙන් කිරීම."
       }
     ]
   },
@@ -3135,19 +3135,19 @@ export const SERBIAN_B1_LESSONS = [
         "si": "පෞද්ගලික මෝටර් රථයට වඩා පොදු ප්‍රවාහනය බොහෝවිට තිරසාර තේරීමක්."
       },
       {
-        "sr": "B: Razumem. Šta predlažeš?",
-        "reading": "බී: රාසුමෙම්. ෂ්තා ප්‍රෙද්ලාෂෙෂ්?",
-        "si": "තේරුණා. ඔයා මොකක්ද යෝජනා කරන්නේ?"
+        "sr": "B: Koje male promene možemo da uvedemo kod kuće?",
+        "reading": "B: Koje male promene moෂ්emo da uvedemo kod kuච්e?",
+        "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "sr": "A: Ako smanjimo otpad, čuvamo prirodne resurse.",
-        "reading": "ඒ: අපද්‍රව්‍ය අඩු කළොත් ස්වභාවික සම්පත් ආරක්ෂා කරනවා.",
-        "si": "අපද්‍රව්‍ය අඩු කළොත් ස්වභාවික සම්පත් ආරක්ෂා කරනවා."
+        "reading": "A: Ako smaන්‍යimo otpad, ච්uvamo prirodne resurse.",
+        "si": "අපට අපද්‍රව්‍ය වෙන් කර පොදු ප්‍රවාහනය වැඩිපුර භාවිත කළ හැකියි."
       },
       {
-        "sr": "B: Slažem se. Tako ćemo lakše rešiti problem.",
-        "reading": "බී: ස්ලාෂෙම් සෙ. තාකො චෙමො ලක්ෂෙ රෙෂිති ප්‍රොබ්ලෙම්.",
-        "si": "එකඟයි. එහෙම කළොත් ගැටලුව පහසුවෙන් විසඳගන්න පුළුවන්."
+        "sr": "B: Možemo da razdvajamo otpad i češće koristimo javni prevoz.",
+        "reading": "B: Moෂ්emo da razdvajamo otpad i ච්eෂ්ච්e koristimo javni prevoz.",
+        "si": "අපද්‍රව්‍ය වෙන් කිරීම සහ පොදු ප්‍රවාහනය භාවිත කිරීම."
       }
     ],
     "listeningPractice": {
@@ -3193,14 +3193,14 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "otpad = අපද්‍රව්‍ය"
       },
       {
-        "prompt": "සංවාදයේ A පුද්ගලයාගේ අදහසට B ප්‍රතිචාරය කුමක්ද?",
+        "prompt": "B කතාබහේදී යෝජනා කරන්නේ හෝ අවධාරණය කරන්නේ කුමක්ද?",
         "options": [
-          "Ne znam gde je.",
-          "Slažem se. Tako ćemo lakše rešiti problem.",
-          "Koliko košta?"
+          "අපද්‍රව්‍ය වෙන් කර පොදු ප්‍රවාහනය භාවිත කිරීම",
+          "වැඩිපුර අපද්‍රව්‍ය නිපදවීම",
+          "කෙටි ගමන්වලටත් මෝටර් රථය භාවිත කිරීම"
         ],
-        "answer": 1,
-        "explanation": "“Slažem se” යනු “මම එකඟයි” යන්නයි."
+        "answer": 0,
+        "explanation": "Možemo da razdvajamo otpad i češće koristimo javni prevoz. = අපද්‍රව්‍ය වෙන් කිරීම සහ පොදු ප්‍රවාහනය භාවිත කිරීම."
       }
     ]
   },
@@ -3313,19 +3313,19 @@ export const SERBIAN_B1_LESSONS = [
         "si": "තද වැස්ස නිසා තරගය කල් දැමුවා."
       },
       {
-        "sr": "B: Razumem. Šta predlažeš?",
-        "reading": "බී: රාසුමෙම්. ෂ්තා ප්‍රෙද්ලාෂෙෂ්?",
-        "si": "තේරුණා. ඔයා මොකක්ද යෝජනා කරන්නේ?"
+        "sr": "B: Zašto je utakmica odložena?",
+        "reading": "B: Zaෂ්to je utakmica odloෂ්ena?",
+        "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "sr": "A: Nije bilo dovoljno vremena, zato smo promenili plan.",
-        "reading": "ඒ: ප්‍රමාණවත් කාලයක් නොතිබූ නිසා අපි සැලැස්ම වෙනස් කළා.",
-        "si": "ප්‍රමාණවත් කාලයක් නොතිබූ නිසා අපි සැලැස්ම වෙනස් කළා."
+        "reading": "A: Nije bilo dovoල්‍යno vremena, zato smo promenili plan.",
+        "si": "තේරුණා. කාලය ප්‍රමාණවත් නොවීම වෙනස්කමේ ප්‍රධාන හේතුවයි."
       },
       {
-        "sr": "B: Slažem se. Tako ćemo lakše rešiti problem.",
-        "reading": "බී: ස්ලාෂෙම් සෙ. තාකො චෙමො ලක්ෂෙ රෙෂිති ප්‍රොබ්ලෙම්.",
-        "si": "එකඟයි. එහෙම කළොත් ගැටලුව පහසුවෙන් විසඳගන්න පුළුවන්."
+        "sr": "B: Razumem. Nedostatak vremena je bio glavni razlog promene.",
+        "reading": "B: Razumem. Nedostatak vremena je bio glavni razlog promene.",
+        "si": "කාලය ප්‍රමාණවත් නොවීම ප්‍රධාන හේතුව බව පැහැදිලි කිරීම."
       }
     ],
     "listeningPractice": {
@@ -3371,14 +3371,14 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "efekat = බලපෑම"
       },
       {
-        "prompt": "සංවාදයේ A පුද්ගලයාගේ අදහසට B ප්‍රතිචාරය කුමක්ද?",
+        "prompt": "B කතාබහේදී යෝජනා කරන්නේ හෝ අවධාරණය කරන්නේ කුමක්ද?",
         "options": [
-          "Ne znam gde je.",
-          "Slažem se. Tako ćemo lakše rešiti problem.",
-          "Koliko košta?"
+          "කාලය ප්‍රමාණවත් නොවීම",
+          "අධික වියදම",
+          "අයහපත් ආහාර"
         ],
-        "answer": 1,
-        "explanation": "“Slažem se” යනු “මම එකඟයි” යන්නයි."
+        "answer": 0,
+        "explanation": "Razumem. Nedostatak vremena je bio glavni razlog promene. = කාලය ප්‍රමාණවත් නොවීම ප්‍රධාන හේතුව බව පැහැදිලි කිරීම."
       }
     ]
   },
@@ -3491,19 +3491,19 @@ export const SERBIAN_B1_LESSONS = [
         "si": "එක් පැත්තකින් මේ විකල්පය ලාභයි; අනෙක් පැත්තෙන් එය මන්දගාමීයි."
       },
       {
-        "sr": "B: Razumem. Šta predlažeš?",
-        "reading": "බී: රාසුමෙම්. ෂ්තා ප්‍රෙද්ලාෂෙෂ්?",
-        "si": "තේරුණා. ඔයා මොකක්ද යෝජනා කරන්නේ?"
+        "sr": "B: Koji kriterijum ti je najvažniji pri izboru?",
+        "reading": "B: Koji kriterijum ti je najvaෂ්niji pri izboru?",
+        "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "sr": "A: Po mom mišljenju, prednosti su veće od nedostataka.",
-        "reading": "ඒ: මගේ අදහසට අනුව වාසි අවාසිවලට වඩා වැඩියි.",
-        "si": "මගේ අදහසට අනුව වාසි අවාසිවලට වඩා වැඩියි."
+        "reading": "A: Po mom miෂ්ල්‍යeන්‍යu, prednosti su veච්e od nedostataka.",
+        "si": "අවසාන තීරණයට පෙර මිල සහ වේගය සසඳමු."
       },
       {
-        "sr": "B: Slažem se. Tako ćemo lakše rešiti problem.",
-        "reading": "බී: ස්ලාෂෙම් සෙ. තාකො චෙමො ලක්ෂෙ රෙෂිති ප්‍රොබ්ලෙම්.",
-        "si": "එකඟයි. එහෙම කළොත් ගැටලුව පහසුවෙන් විසඳගන්න පුළුවන්."
+        "sr": "B: Hajde da uporedimo cenu i brzinu pre konačne odluke.",
+        "reading": "B: Hajde da uporedimo cenu i brzinu pre konaච්ne odluke.",
+        "si": "මිල සහ වේගය සසඳා අවසාන තීරණය ගැනීම."
       }
     ],
     "listeningPractice": {
@@ -3549,14 +3549,14 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "nedostatak = අවාසිය"
       },
       {
-        "prompt": "සංවාදයේ A පුද්ගලයාගේ අදහසට B ප්‍රතිචාරය කුමක්ද?",
+        "prompt": "B කතාබහේදී යෝජනා කරන්නේ හෝ අවධාරණය කරන්නේ කුමක්ද?",
         "options": [
-          "Ne znam gde je.",
-          "Slažem se. Tako ćemo lakše rešiti problem.",
-          "Koliko košta?"
+          "මිල සහ වේගය සසඳීම",
+          "කිසිවක් සසඳන්නේ නැතිව තේරීම",
+          "තීරණය කල් දැමීම"
         ],
-        "answer": 1,
-        "explanation": "“Slažem se” යනු “මම එකඟයි” යන්නයි."
+        "answer": 0,
+        "explanation": "Hajde da uporedimo cenu i brzinu pre konačne odluke. = මිල සහ වේගය සසඳා අවසාන තීරණය ගැනීම."
       }
     ]
   },
@@ -3669,19 +3669,19 @@ export const SERBIAN_B1_LESSONS = [
         "si": "මගේ කුසලතා දියුණු කරගැනීමට පාඨමාලාව අවසන් කරන්න කැමතියි."
       },
       {
-        "sr": "B: Razumem. Možeš li da objasniš zašto?",
-        "reading": "B: රාසුමෙම්. මොෂෙෂ් ලි ද ඔබ්යස්නිෂ් සාෂ්තො?",
-        "si": "තේරුණා. ඇයි කියලා පැහැදිලි කරන්න පුළුවන්ද?"
+        "sr": "B: Koji kurs ti je potreban za posao?",
+        "reading": "B: Koji kurs ti je potreban za posao?",
+        "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
-        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
-        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+        "sr": "A: Važno je da izaberem program koji odgovara mom rasporedu i ciljevima.",
+        "reading": "A: Vaෂ්no je da izaberem program koji odgovara mom rasporedu i ciල්‍යevima.",
+        "si": "එහෙනම් පාඨමාලාවේ අන්තර්ගතය, කාලය සහ මිල මුලින් සසඳමු."
       },
       {
-        "sr": "B: Slažem se. Hajde da napravimo plan.",
-        "reading": "B: ස්ලාෂෙම් සෙ. හාය්දෙ ද නප්‍රාවිමො ප්ලාන්.",
-        "si": "එකඟයි. අපි සැලැස්මක් හදමු."
+        "sr": "B: Onda prvo uporedimo sadržaj kursa, trajanje i cenu.",
+        "reading": "B: Onda prvo uporedimo sadrෂ්aj kursa, trajaන්‍යe i cenu.",
+        "si": "පාඨමාලාවේ අන්තර්ගතය, කාලය සහ මිල සසඳා බැලීම."
       }
     ],
     "listeningPractice": {
@@ -3727,14 +3727,14 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "kvalifikacija = සුදුසුකම"
       },
       {
-        "prompt": "සංවාදයේ B පුද්ගලයාගේ අවසාන යෝජනාව කුමක්ද?",
+        "prompt": "B කතාබහේදී යෝජනා කරන්නේ හෝ අවධාරණය කරන්නේ කුමක්ද?",
         "options": [
-          "සැලැස්මක් සකස් කිරීම",
-          "ගමන නවත්වන්න",
-          "මිල අසන්න"
+          "පාඨමාලා අන්තර්ගතය, කාලය සහ මිල සසඳීම",
+          "කිසිදු තොරතුරක් නොබලා ලියාපදිංචි වීම",
+          "ඉගෙනීම නවත්වීම"
         ],
         "answer": 0,
-        "explanation": "Hajde da napravimo plan = අපි සැලැස්මක් හදමු."
+        "explanation": "Onda prvo uporedimo sadržaj kursa, trajanje i cenu. = පාඨමාලාවේ අන්තර්ගතය, කාලය සහ මිල සසඳා බැලීම."
       }
     ]
   },
@@ -3847,19 +3847,19 @@ export const SERBIAN_B1_LESSONS = [
         "si": "මගේ වැඩ සංවිධානය කිරීමට උදව් කරන යෙදුමක් භාවිතා කරනවා."
       },
       {
-        "sr": "B: Razumem. Možeš li da objasniš zašto?",
-        "reading": "B: රාසුමෙම්. මොෂෙෂ් ලි ද ඔබ්යස්නිෂ් සාෂ්තො?",
-        "si": "තේරුණා. ඇයි කියලා පැහැදිලි කරන්න පුළුවන්ද?"
+        "sr": "B: Koje funkcije aplikacije najčešće koristiš?",
+        "reading": "B: Koje funkcije aplikacije najච්eෂ්ච්e koristiෂ්?",
+        "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
-        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
-        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+        "sr": "A: Najviše mi pomažu podsetnici i kalendar za organizaciju obaveza.",
+        "reading": "A: Najviෂ්e mi pomaෂ්u podsetnici i kalendar za organizaciju obaveza.",
+        "si": "අපට දැනුම්දීම් සකස් කර සතිපතා කාලසටහනක් හදන්න පුළුවන්."
       },
       {
-        "sr": "B: Slažem se. Hajde da napravimo plan.",
-        "reading": "B: ස්ලාෂෙම් සෙ. හාය්දෙ ද නප්‍රාවිමො ප්ලාන්.",
-        "si": "එකඟයි. අපි සැලැස්මක් හදමු."
+        "sr": "B: Možemo da podesimo obaveštenja i napravimo nedeljni raspored.",
+        "reading": "B: Moෂ්emo da podesimo obaveෂ්teන්‍යa i napravimo nedeල්‍යni raspored.",
+        "si": "දැනුම්දීම් සකස් කර සතිපතා කාලසටහනක් සෑදීම."
       }
     ],
     "listeningPractice": {
@@ -3905,14 +3905,14 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "nalog = ගිණුම"
       },
       {
-        "prompt": "සංවාදයේ B පුද්ගලයාගේ අවසාන යෝජනාව කුමක්ද?",
+        "prompt": "B කතාබහේදී යෝජනා කරන්නේ හෝ අවධාරණය කරන්නේ කුමක්ද?",
         "options": [
-          "සැලැස්මක් සකස් කිරීම",
-          "ගමන නවත්වන්න",
-          "මිල අසන්න"
+          "දැනුම්දීම් සහ සතිපතා කාලසටහනක් සකස් කිරීම",
+          "යෙදුම මකා දැමීම",
+          "සියලු දැනුම්දීම් අක්‍රිය කිරීම"
         ],
         "answer": 0,
-        "explanation": "Hajde da napravimo plan = අපි සැලැස්මක් හදමු."
+        "explanation": "Možemo da podesimo obaveštenja i napravimo nedeljni raspored. = දැනුම්දීම් සකස් කර සතිපතා කාලසටහනක් සෑදීම."
       }
     ]
   },
@@ -4025,19 +4025,19 @@ export const SERBIAN_B1_LESSONS = [
         "si": "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්."
       },
       {
-        "sr": "B: Razumem. Možeš li da objasniš zašto?",
-        "reading": "B: රාසුමෙම්. මොෂෙෂ් ලි ද ඔබ්යස්නිෂ් සාෂ්තො?",
-        "si": "තේරුණා. ඇයි කියලා පැහැදිලි කරන්න පුළුවන්ද?"
+        "sr": "B: Koliko novca želiš da uštediš svakog meseca?",
+        "reading": "B: Koliko novca ෂ්eliෂ් da uෂ්tediෂ් svakog meseca?",
+        "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
-        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
-        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+        "sr": "A: Odrediću realan iznos i automatski ga odvajati od plate.",
+        "reading": "A: Odrediච්u realan iznos i automatski ga odvajati od plate.",
+        "si": "මුලින්ම මාසික අයවැයක් සකස් කර වියදම් නිරීක්ෂණය කිරීම හොඳයි."
       },
       {
-        "sr": "B: Slažem se. Hajde da napravimo plan.",
-        "reading": "B: ස්ලාෂෙම් සෙ. හාය්දෙ ද නප්‍රාවිමො ප්ලාන්.",
-        "si": "එකඟයි. අපි සැලැස්මක් හදමු."
+        "sr": "B: Dobro je da prvo napraviš mesečni budžet i pratiš troškove.",
+        "reading": "B: Dobro je da prvo napraviෂ් meseච්ni buජ්et i pratiෂ් troෂ්kove.",
+        "si": "මාසික අයවැයක් සකස් කර වියදම් නිරීක්ෂණය කිරීම."
       }
     ],
     "listeningPractice": {
@@ -4083,14 +4083,14 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "budžet = අයවැය"
       },
       {
-        "prompt": "සංවාදයේ B පුද්ගලයාගේ අවසාන යෝජනාව කුමක්ද?",
+        "prompt": "B කතාබහේදී යෝජනා කරන්නේ හෝ අවධාරණය කරන්නේ කුමක්ද?",
         "options": [
-          "සැලැස්මක් සකස් කිරීම",
-          "ගමන නවත්වන්න",
-          "මිල අසන්න"
+          "අයවැයක් සකස් කර වියදම් නිරීක්ෂණය කිරීම",
+          "සියලු ඉතිරිකිරීම් වියදම් කිරීම",
+          "වියදම් සටහන් නොකිරීම"
         ],
         "answer": 0,
-        "explanation": "Hajde da napravimo plan = අපි සැලැස්මක් හදමු."
+        "explanation": "Dobro je da prvo napraviš mesečni budžet i pratiš troškove. = මාසික අයවැයක් සකස් කර වියදම් නිරීක්ෂණය කිරීම."
       }
     ]
   },
@@ -4203,19 +4203,19 @@ export const SERBIAN_B1_LESSONS = [
         "si": "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා."
       },
       {
-        "sr": "B: Razumem. Možeš li da objasniš zašto?",
-        "reading": "B: රාසුමෙම්. මොෂෙෂ් ලි ද ඔබ්යස්නිෂ් සාෂ්තො?",
-        "si": "තේරුණා. ඇයි කියලා පැහැදිලි කරන්න පුළුවන්ද?"
+        "sr": "B: Kako organizuješ odmor kada imaš mnogo obaveza?",
+        "reading": "B: Kako organizujeෂ් odmor kada imaෂ් mnogo obaveza?",
+        "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
-        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
-        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+        "sr": "A: Pokušavam da idem na spavanje u isto vreme i da pravim kratke pauze.",
+        "reading": "A: Pokuෂ්avam da idem na spavaන්‍යe u isto vreme i da pravim kratke pauze.",
+        "si": "එය හොඳ පුරුද්දක්. නිතිපතා විවේකය සමස්ත යහපැවැත්මට උපකාරී වේ."
       },
       {
-        "sr": "B: Slažem se. Hajde da napravimo plan.",
-        "reading": "B: ස්ලාෂෙම් සෙ. හාය්දෙ ද නප්‍රාවිමො ප්ලාන්.",
-        "si": "එකඟයි. අපි සැලැස්මක් හදමු."
+        "sr": "B: To je dobra navika. Redovan odmor može da podrži opšte blagostanje.",
+        "reading": "B: To je dobra navika. Redovan odmor moෂ්e da podrෂ්i opෂ්te blagostaන්‍යe.",
+        "si": "නිතිපතා විවේකය සහ කෙටි විරාම පවත්වාගැනීම."
       }
     ],
     "listeningPractice": {
@@ -4261,14 +4261,14 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "navika = පුරුද්ද"
       },
       {
-        "prompt": "සංවාදයේ B පුද්ගලයාගේ අවසාන යෝජනාව කුමක්ද?",
+        "prompt": "B කතාබහේදී යෝජනා කරන්නේ හෝ අවධාරණය කරන්නේ කුමක්ද?",
         "options": [
-          "සැලැස්මක් සකස් කිරීම",
-          "ගමන නවත්වන්න",
-          "මිල අසන්න"
+          "නිතිපතා විවේකය සහ කෙටි විරාම",
+          "විවේකය සම්පූර්ණයෙන්ම අත්හැරීම",
+          "නින්ද අඩු කිරීම"
         ],
         "answer": 0,
-        "explanation": "Hajde da napravimo plan = අපි සැලැස්මක් හදමු."
+        "explanation": "To je dobra navika. Redovan odmor može da podrži opšte blagostanje. = නිතිපතා විවේකය සහ කෙටි විරාම පවත්වාගැනීම."
       }
     ]
   },
@@ -4381,19 +4381,19 @@ export const SERBIAN_B1_LESSONS = [
         "si": "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා."
       },
       {
-        "sr": "B: Razumem. Možeš li da objasniš zašto?",
-        "reading": "B: රාසුමෙම්. මොෂෙෂ් ලි ද ඔබ්යස්නිෂ් සාෂ්තො?",
-        "si": "තේරුණා. ඇයි කියලා පැහැදිලි කරන්න පුළුවන්ද?"
+        "sr": "B: Koji običaj ti je posebno važan?",
+        "reading": "B: Koji obiච්aj ti je posebno vaෂ්an?",
+        "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
-        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
-        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+        "sr": "A: Porodična okupljanja su važna jer nas povezuju sa starijim generacijama.",
+        "reading": "A: Porodiච්na okupල්‍යaන්‍යa su vaෂ්na jer nas povezuju sa starijim generacijama.",
+        "si": "සිරිත් විරිත් රැකගෙන ඒවායේ අර්ථය තරුණයන්ට පැහැදිලි කිරීම හොඳයි."
       },
       {
-        "sr": "B: Slažem se. Hajde da napravimo plan.",
-        "reading": "B: ස්ලාෂෙම් සෙ. හාය්දෙ ද නප්‍රාවිමො ප්ලාන්.",
-        "si": "එකඟයි. අපි සැලැස්මක් හදමු."
+        "sr": "B: Lepo je sačuvati običaje, ali i objasniti njihovo značenje mladima.",
+        "reading": "B: Lepo je saච්uvati obiච්aje, ali i objasniti න්‍යihovo znaච්eන්‍යe mladima.",
+        "si": "සිරිත් විරිත් රැකගෙන ඒවායේ අර්ථය අලුත් පරම්පරාවට පැහැදිලි කිරීම."
       }
     ],
     "listeningPractice": {
@@ -4439,14 +4439,14 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "običaj = චාරිත්‍රය"
       },
       {
-        "prompt": "සංවාදයේ B පුද්ගලයාගේ අවසාන යෝජනාව කුමක්ද?",
+        "prompt": "B කතාබහේදී යෝජනා කරන්නේ හෝ අවධාරණය කරන්නේ කුමක්ද?",
         "options": [
-          "සැලැස්මක් සකස් කිරීම",
-          "ගමන නවත්වන්න",
-          "මිල අසන්න"
+          "සිරිත් විරිත් රැකගෙන ඒවායේ අර්ථය පැහැදිලි කිරීම",
+          "සියලු සිරිත් විරිත් අමතක කිරීම",
+          "වෙනත් අයගේ අදහස් නොසලකා හැරීම"
         ],
         "answer": 0,
-        "explanation": "Hajde da napravimo plan = අපි සැලැස්මක් හදමු."
+        "explanation": "Lepo je sačuvati običaje, ali i objasniti njihovo značenje mladima. = සිරිත් විරිත් රැකගෙන ඒවායේ අර්ථය අලුත් පරම්පරාවට පැහැදිලි කිරීම."
       }
     ]
   },
@@ -4559,19 +4559,19 @@ export const SERBIAN_B1_LESSONS = [
         "si": "මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කරලා පාරිභෝගික ගැටලු විසඳන්න ඉගෙන ගත්තා."
       },
       {
-        "sr": "B: Razumem. Možeš li da objasniš zašto?",
-        "reading": "B: රාසුමෙම්. මොෂෙෂ් ලි ද ඔබ්යස්නිෂ් සාෂ්තො?",
-        "si": "තේරුණා. ඇයි කියලා පැහැදිලි කරන්න පුළුවන්ද?"
+        "sr": "B: Koju veštinu iz svog iskustva možeš da predstaviš poslodavcu?",
+        "reading": "B: Koju veෂ්tinu iz svog iskustva moෂ්eෂ් da predstaviෂ් poslodavcu?",
+        "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
-        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
-        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+        "sr": "A: Naučio sam da komuniciram sa kupcima i rešavam njihove probleme.",
+        "reading": "A: Nauච්io sam da komuniciram sa kupcima i reෂ්avam න්‍යihove probleme.",
+        "si": "ගැටලුවක් විසඳූ ආකාරය පෙන්වන නිශ්චිත උදාහරණයක් සූදානම් කරන්න."
       },
       {
-        "sr": "B: Slažem se. Hajde da napravimo plan.",
-        "reading": "B: ස්ලාෂෙම් සෙ. හාය්දෙ ද නප්‍රාවිමො ප්ලාන්.",
-        "si": "එකඟයි. අපි සැලැස්මක් හදමු."
+        "sr": "B: Pripremi konkretan primer koji pokazuje kako si rešio problem.",
+        "reading": "B: Pripremi konkretan primer koji pokazuje kako si reෂ්io problem.",
+        "si": "පාරිභෝගික ගැටලුවක් විසඳූ නිශ්චිත උදාහරණයක් සූදානම් කිරීම."
       }
     ],
     "listeningPractice": {
@@ -4617,14 +4617,14 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "postignuće = ජයග්‍රහණය"
       },
       {
-        "prompt": "සංවාදයේ B පුද්ගලයාගේ අවසාන යෝජනාව කුමක්ද?",
+        "prompt": "B කතාබහේදී යෝජනා කරන්නේ හෝ අවධාරණය කරන්නේ කුමක්ද?",
         "options": [
-          "සැලැස්මක් සකස් කිරීම",
-          "ගමන නවත්වන්න",
-          "මිල අසන්න"
+          "ගැටලුවක් විසඳූ නිශ්චිත උදාහරණයක් සූදානම් කිරීම",
+          "අත්දැකීම් සඟවා තැබීම",
+          "ප්‍රශ්නවලට පිළිතුරු නොදීම"
         ],
         "answer": 0,
-        "explanation": "Hajde da napravimo plan = අපි සැලැස්මක් හදමු."
+        "explanation": "Pripremi konkretan primer koji pokazuje kako si rešio problem. = පාරිභෝගික ගැටලුවක් විසඳූ නිශ්චිත උදාහරණයක් සූදානම් කිරීම."
       }
     ]
   },
@@ -4737,19 +4737,19 @@ export const SERBIAN_B1_LESSONS = [
         "si": "තීරණය කිරීමට පෙර දෙපාර්ශ්වයටම සවන් දෙමු කියලා මම යෝජනා කරනවා."
       },
       {
-        "sr": "B: Razumem. Možeš li da objasniš zašto?",
-        "reading": "B: රාසුමෙම්. මොෂෙෂ් ලි ද ඔබ්යස්නිෂ් සාෂ්තො?",
-        "si": "තේරුණා. ඇයි කියලා පැහැදිලි කරන්න පුළුවන්ද?"
+        "sr": "B: Kako možemo da rešimo neslaganje na sastanku?",
+        "reading": "B: Kako moෂ්emo da reෂ්imo neslagaන්‍යe na sastanku?",
+        "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
-        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
-        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+        "sr": "A: Predlažem da svako iznese svoje razloge, a zatim da potražimo kompromis.",
+        "reading": "A: Predlaෂ්em da svako iznese svoje razloge, a zatim da potraෂ්imo kompromis.",
+        "si": "එය සාධාරණ ක්‍රමයක්. එවිට දෙපාර්ශ්වයේම අදහස් සලකා බලන්න පුළුවන්."
       },
       {
-        "sr": "B: Slažem se. Hajde da napravimo plan.",
-        "reading": "B: ස්ලාෂෙම් සෙ. හාය්දෙ ද නප්‍රාවිමො ප්ලාන්.",
-        "si": "එකඟයි. අපි සැලැස්මක් හදමු."
+        "sr": "B: To je pošten pristup. Tako ćemo uzeti u obzir obe strane.",
+        "reading": "B: To je poෂ්ten pristup. Tako ච්emo uzeti u obzir obe strane.",
+        "si": "දෙපාර්ශ්වයේ අදහස් සලකා බලා සම්මුතියක් සෙවීම."
       }
     ],
     "listeningPractice": {
@@ -4795,14 +4795,14 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "kompromis = සම්මුතිය"
       },
       {
-        "prompt": "සංවාදයේ B පුද්ගලයාගේ අවසාන යෝජනාව කුමක්ද?",
+        "prompt": "B කතාබහේදී යෝජනා කරන්නේ හෝ අවධාරණය කරන්නේ කුමක්ද?",
         "options": [
-          "සැලැස්මක් සකස් කිරීම",
-          "ගමන නවත්වන්න",
-          "මිල අසන්න"
+          "දෙපාර්ශ්වයේ අදහස් සලකා සම්මුතියක් සෙවීම",
+          "එක් පාර්ශ්වයක් පමණක් ඇසීම",
+          "සාකච්ඡාව නවත්වීම"
         ],
         "answer": 0,
-        "explanation": "Hajde da napravimo plan = අපි සැලැස්මක් හදමු."
+        "explanation": "To je pošten pristup. Tako ćemo uzeti u obzir obe strane. = දෙපාර්ශ්වයේ අදහස් සලකා බලා සම්මුතියක් සෙවීම."
       }
     ]
   },
@@ -4915,19 +4915,19 @@ export const SERBIAN_B1_LESSONS = [
         "si": "ප්‍රවෘත්තියක් බෙදාගැනීමට පෙර මූලාශ්‍රය සහ පළ කළ දිනය පරීක්ෂා කරනවා."
       },
       {
-        "sr": "B: Razumem. Možeš li da objasniš zašto?",
-        "reading": "B: රාසුමෙම්. මොෂෙෂ් ලි ද ඔබ්යස්නිෂ් සාෂ්තො?",
-        "si": "තේරුණා. ඇයි කියලා පැහැදිලි කරන්න පුළුවන්ද?"
+        "sr": "B: Koje izvore koristiš da proveriš da li je vest pouzdana?",
+        "reading": "B: Koje izvore koristiෂ් da proveriෂ් da li je vest pouzdana?",
+        "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
-        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
-        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+        "sr": "A: Upoređujem više pouzdanih medija i proveravam datum objave.",
+        "reading": "A: Uporeජ්ujem viෂ්e pouzdanih medija i proveravam datum objave.",
+        "si": "හොඳයි. ලේඛකයා සහ ලිපියේ සාක්ෂිත් පරීක්ෂා කිරීම වැදගත්."
       },
       {
-        "sr": "B: Slažem se. Hajde da napravimo plan.",
-        "reading": "B: ස්ලාෂෙම් සෙ. හාය්දෙ ද නප්‍රාවිමො ප්ලාන්.",
-        "si": "එකඟයි. අපි සැලැස්මක් හදමු."
+        "sr": "B: Dobro. Važno je proveriti i autora i dokaze u tekstu.",
+        "reading": "B: Dobro. Vaෂ්no je proveriti i autora i dokaze u tekstu.",
+        "si": "මූලාශ්‍ර කිහිපයක්, පළ කළ දිනය සහ සාක්ෂි පරීක්ෂා කිරීම."
       }
     ],
     "listeningPractice": {
@@ -4973,14 +4973,14 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "naslov = ශීර්ෂ පාඨය"
       },
       {
-        "prompt": "සංවාදයේ B පුද්ගලයාගේ අවසාන යෝජනාව කුමක්ද?",
+        "prompt": "B කතාබහේදී යෝජනා කරන්නේ හෝ අවධාරණය කරන්නේ කුමක්ද?",
         "options": [
-          "සැලැස්මක් සකස් කිරීම",
-          "ගමන නවත්වන්න",
-          "මිල අසන්න"
+          "මූලාශ්‍ර කිහිපයක් සහ සාක්ෂි පරීක්ෂා කිරීම",
+          "ශීර්ෂය පමණක් කියවීම",
+          "බෙදාගැනීම් ගණන මත විශ්වාස කිරීම"
         ],
         "answer": 0,
-        "explanation": "Hajde da napravimo plan = අපි සැලැස්මක් හදමු."
+        "explanation": "Dobro. Važno je proveriti i autora i dokaze u tekstu. = මූලාශ්‍ර කිහිපයක්, පළ කළ දිනය සහ සාක්ෂි පරීක්ෂා කිරීම."
       }
     ]
   },
@@ -5093,19 +5093,19 @@ export const SERBIAN_B1_LESSONS = [
         "si": "හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා."
       },
       {
-        "sr": "B: Razumem. Možeš li da objasniš zašto?",
-        "reading": "B: රාසුමෙම්. මොෂෙෂ් ලි ද ඔබ්යස්නිෂ් සාෂ්තො?",
-        "si": "තේරුණා. ඇයි කියලා පැහැදිලි කරන්න පුළුවන්ද?"
+        "sr": "B: Šta bi prvo želeo da posetiš u tom gradu?",
+        "reading": "B: ෂ්ta bi prvo ෂ්eleo da posetiෂ් u tom gradu?",
+        "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
-        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
-        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+        "sr": "A: Voleo bih da obiđem stari centar i probam lokalnu hranu.",
+        "reading": "A: Voleo bih da obiජ්em stari centar i probam lokalnu hranu.",
+        "si": "දර්ශනීය ස්ථාන විවෘත වේලාවන් පරීක්ෂා කර ගමන් මාර්ගයක් සැලසුම් කරමු."
       },
       {
-        "sr": "B: Slažem se. Hajde da napravimo plan.",
-        "reading": "B: ස්ලාෂෙම් සෙ. හාය්දෙ ද නප්‍රාවිමො ප්ලාන්.",
-        "si": "එකඟයි. අපි සැලැස්මක් හදමු."
+        "sr": "B: Možemo da proverimo radno vreme znamenitosti i isplaniramo rutu.",
+        "reading": "B: Moෂ්emo da proverimo radno vreme znamenitosti i isplaniramo rutu.",
+        "si": "විවෘත වේලාවන් පරීක්ෂා කර ගමන් මාර්ගයක් සැලසුම් කිරීම."
       }
     ],
     "listeningPractice": {
@@ -5151,14 +5151,14 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "smeštaj = නවාතැන"
       },
       {
-        "prompt": "සංවාදයේ B පුද්ගලයාගේ අවසාන යෝජනාව කුමක්ද?",
+        "prompt": "B කතාබහේදී යෝජනා කරන්නේ හෝ අවධාරණය කරන්නේ කුමක්ද?",
         "options": [
-          "සැලැස්මක් සකස් කිරීම",
-          "ගමන නවත්වන්න",
-          "මිල අසන්න"
+          "විවෘත වේලාවන් පරීක්ෂා කර ගමන් මාර්ගයක් සැලසුම් කිරීම",
+          "කිසිදු සැලසුමක් නොමැතිව යාම",
+          "හෝටලයේම රැඳී සිටීම"
         ],
         "answer": 0,
-        "explanation": "Hajde da napravimo plan = අපි සැලැස්මක් හදමු."
+        "explanation": "Možemo da proverimo radno vreme znamenitosti i isplaniramo rutu. = විවෘත වේලාවන් පරීක්ෂා කර ගමන් මාර්ගයක් සැලසුම් කිරීම."
       }
     ]
   },
@@ -5271,19 +5271,19 @@ export const SERBIAN_B1_LESSONS = [
         "si": "මම පදිංචිය මාරු කළ විට අලුත් නගරයට හුරු වෙන්න කාලයක් ගත වුණා."
       },
       {
-        "sr": "B: Razumem. Možeš li da objasniš zašto?",
-        "reading": "B: රාසුමෙම්. මොෂෙෂ් ලි ද ඔබ්යස්නිෂ් සාෂ්තො?",
-        "si": "තේරුණා. ඇයි කියලා පැහැදිලි කරන්න පුළුවන්ද?"
+        "sr": "B: Šta ti je najviše pomoglo da se navikneš na novi grad?",
+        "reading": "B: ෂ්ta ti je najviෂ්e pomoglo da se navikneෂ් na novi grad?",
+        "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
-        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
-        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+        "sr": "A: Upoznao sam komšije i naučio gde se nalaze važne službe.",
+        "reading": "A: Upoznao sam komෂ්ije i nauච්io gde se nalaze vaෂ්ne sluෂ්be.",
+        "si": "අවට ප්‍රදේශය ටිකෙන් ටික හඳුනාගෙන අවශ්‍ය විට උදව් ඉල්ලීම හොඳයි."
       },
       {
-        "sr": "B: Slažem se. Hajde da napravimo plan.",
-        "reading": "B: ස්ලාෂෙම් සෙ. හාය්දෙ ද නප්‍රාවිමො ප්ලාන්.",
-        "si": "එකඟයි. අපි සැලැස්මක් හදමු."
+        "sr": "B: Dobro je postepeno upoznavati okolinu i pitati za pomoć kada je potrebna.",
+        "reading": "B: Dobro je postepeno upoznavati okolinu i pitati za pomoච් kada je potrebna.",
+        "si": "අසල්වැසියන් හඳුනාගෙන වැදගත් සේවා ස්ථාන දැනගැනීම."
       }
     ],
     "listeningPractice": {
@@ -5329,14 +5329,14 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "promena = වෙනස"
       },
       {
-        "prompt": "සංවාදයේ B පුද්ගලයාගේ අවසාන යෝජනාව කුමක්ද?",
+        "prompt": "B කතාබහේදී යෝජනා කරන්නේ හෝ අවධාරණය කරන්නේ කුමක්ද?",
         "options": [
-          "සැලැස්මක් සකස් කිරීම",
-          "ගමන නවත්වන්න",
-          "මිල අසන්න"
+          "අසල්වැසියන් හඳුනාගෙන වැදගත් සේවා ස්ථාන දැනගැනීම",
+          "අන් සියල්ලන්ගෙන් ඈත් වීම",
+          "නගරය ගැන කිසිවක් නොසොයා සිටීම"
         ],
         "answer": 0,
-        "explanation": "Hajde da napravimo plan = අපි සැලැස්මක් හදමු."
+        "explanation": "Dobro je postepeno upoznavati okolinu i pitati za pomoć kada je potrebna. = අසල්වැසියන් හඳුනාගෙන වැදගත් සේවා ස්ථාන දැනගැනීම."
       }
     ]
   },
