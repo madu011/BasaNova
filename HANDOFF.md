@@ -1092,3 +1092,23 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 2. Continue term-specific example repair and reading audits across remaining B1 lessons 1–20 and 31–50, then review A2/B2/C1/C2 batches for generic example reuse.
 3. Verify actual GitHub runner availability/account limits with repository owner settings; re-run workflows once a runner can be assigned. Do not mislabel runner provisioning failures as app-code errors.
 4. Once CI runs, fix only actionable errors shown by its logs, then verify uploaded APK artifact and test installation on Android.
+
+
+## 2026-11-19 — Cross-level duplicate-answer QA and repairs
+- Scanned lesson/practice modules and final exam modules for duplicate choice strings and answer indexes outside the available options.
+- Fixed duplicate answer choices in Serbian and English A1 practice: 14 Serbian and 13 English duplicate-choice occurrences. Where reading arrays accompanied the options, updated the corresponding pronunciation entry too.
+- Fixed one duplicate A2 salary distractor in each language track.
+- Fixed five duplicated listening choices in each B2 language track (10 arrays total), replacing repeated choices with distinct contextual alternatives.
+- Fixed four repeated C1 listening choices in Serbian and four in English (8 arrays total).
+- Fixed duplicated distractor in Serbian and English B1 final exam question 6.
+- Latest source-level scan across A1, A2, B1, B2, C1 and C2 lesson files/batches and A1–C1 exam files found zero duplicate option strings and zero answer indexes outside the options arrays in 3,194 detected option arrays. C2 final exam module had no `options` arrays matching this scanner and requires separate schema-aware review.
+- The A1–C1 final-exam and lesson option-array checks are static source checks, not runtime UI tests. They do not verify every correct answer's pedagogical accuracy or the meaning of each distractor.
+- Additional commits: A1 Serbian `e74aa662275beeaa9d08de43136391abd49ab075`; A1 English `b6cdb0631bd6ff9d938e5c1a2dbeeffae598613b`; A2 Serbian `79f1f1083fc3ed723ace4ec733a40532e786889f`; A2 English `932ec09e80a6a6979b9b4fd0e5da49f4722b3a61`; B2 Serbian `d14775cf31de36a4cc74d865a232b9de0002dc73`; B2 English `b4ff96c210156de142ac1f76fbb2d3fe6cf9c35a`; C1 Serbian `bf3546ecd31b94d1fc98d04b43610f55263c2b6a`; C1 English `d9f98d3467c4898f7b044394d1a0feb38f80f84c` and final correction `58b95ec2cc69f25338a72c70c3ece3c547274f1a`; B1 final exams `71f1f05dfe35b3f70ffaa693f0f932a974acc301`.
+- Latest workflow reruns were attempted for Expo validation `44576418150` and Android APK `44576418055`; both again ended with `runner_id: 0`, no runner name and zero steps. This remains an infrastructure/account runner assignment issue, with no build log to diagnose. No current-main APK artifact is verified.
+
+### Next broad QA priorities
+1. Add a maintained automated static QA check for duplicate options, answer-index bounds, and App.js named-import/export contracts so regressions are caught when CI runners work again.
+2. Perform schema-aware A1 vocabulary/example and assessment review; the A1 files are legacy object-literal modules and have not yet had a full linguistic audit.
+3. Review C2 final exam schema separately because its question structure does not use the scanned `options` field.
+4. Continue content relevance/naturalness review and obtain native-speaker review of Serbian examples and pronunciation aids.
+5. Re-run Expo and Android workflows once GitHub assigns runners; fix any actionable application errors shown in actual logs, then verify artifact and Android installation.
