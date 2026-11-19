@@ -1885,22 +1885,22 @@ export const SERBIAN_B1_LESSONS = [
     "dialogue": [
       {
         "sr": "A: Možda će voz kasniti, ali verovatno stižemo na vreme.",
-        "reading": "ඒ: දුම්රිය ප්‍රමාද විය හැකියි, නමුත් අපි බොහෝවිට වෙලාවට එනවා.",
+        "reading": "A: ම්ඔෂ්ද්අ ච්එ ව්ඔස් ක්අස්න්ඉත්ඉ, අල්ඉ ව්එර්ඔව්අත්න්ඔ ස්ත්ඉෂ්එම්ඔ න්අ ව්ර්එම්එ.",
         "si": "දුම්රිය ප්‍රමාද විය හැකියි, නමුත් අපි බොහෝවිට වෙලාවට එනවා."
       },
       {
         "sr": "B: Da li obično proveravaš red vožnje pre polaska?",
-        "reading": "B: Da li obiච්no proveravaෂ් red voෂ්න්‍යe pre polaska?",
+        "reading": "B: ද්අ ල්ඉ ඔබ්ඉච්න්ඔ ප්ර්ඔව්එර්අව්අෂ් ර්එද් ව්ඔෂ්න්‍යඑ ප්ර්එ ප්ඔල්අස්ක්අ?",
         "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "sr": "A: Ako bude gužve, možda ćemo uzeti taksi.",
-        "reading": "A: Ako bude guෂ්ve, moෂ්da ච්emo uzeti taksi.",
+        "reading": "A: අක්ඔ බ්උද්එ ග්උෂ්ව්එ, ම්ඔෂ්ද්අ ච්එම්ඔ උස්එත්ඉ ත්අක්ස්ඉ.",
         "si": "එය සාධාරණයි. පැමිණෙන වේලාව පරීක්ෂා කර ඉක්මන්ම විකල්පය තෝරමු."
       },
       {
         "sr": "B: To je razumno. Proverićemo vreme dolaska i izabrati najbržu opciju.",
-        "reading": "B: To je razumno. Proveriච්emo vreme dolaska i izabrati najbrෂ්u opciju.",
+        "reading": "B: ත්ඔ ය්එ ර්අස්උම්න්ඔ. ප්ර්ඔව්එර්ඉච්එම්ඔ ව්ර්එම්එ ද්ඔල්අස්ක්අ ඉ ඉස්අබ්ර්අත්ඉ න්අය්බ්ර්ෂ්උ ඔප්ත්ස්ඉය්උ.",
         "si": "ගමන් වේලාව පරීක්ෂා කර ඉක්මන්ම විකල්පය තෝරාගැනීම."
       }
     ],
@@ -2063,22 +2063,22 @@ export const SERBIAN_B1_LESSONS = [
     "dialogue": [
       {
         "sr": "A: Redovno ponavljanje pomaže da bolje zapamtimo nove reči.",
-        "reading": "ඒ: නිතිපතා නැවත කිරීමෙන් අලුත් වචන හොඳින් මතක තබාගන්න පුළුවන්.",
+        "reading": "A: ර්එද්ඔව්න්ඔ ප්ඔන්අව්ල්‍යඅන්‍යඑ ප්ඔම්අෂ්එ ද්අ බ්ඔල්‍යඑ ස්අප්අම්ත්ඉම්ඔ න්ඔව්එ ර්එච්ඉ.",
         "si": "නිතිපතා නැවත කිරීමෙන් අලුත් වචන හොඳින් මතක තබාගන්න පුළුවන්."
       },
       {
         "sr": "B: Da li ti više pomaže čitanje ili razgovor?",
-        "reading": "B: Da li ti viෂ්e pomaෂ්e ච්itaන්‍යe ili razgovor?",
+        "reading": "B: ද්අ ල්ඉ ත්ඉ ව්ඉෂ්එ ප්ඔම්අෂ්එ ච්ඉත්අන්‍යඑ ඉල්ඉ ර්අස්ග්ඔව්ඔර්?",
         "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "sr": "A: Najviše naučim kada koristim jezik u razgovoru.",
-        "reading": "A: Najviෂ්e nauච්im kada koristim jezik u razgovoru.",
+        "reading": "A: න්අය්ව්ඉෂ්එ න්අඋච්ඉම් ක්අද්අ ක්ඔර්ඉස්ත්ඉම් ය්එස්ඉක් උ ර්අස්ග්ඔව්ඔර්උ.",
         "si": "එහෙනම් අපට හැමදාම කෙටි සංවාදයකින් පුහුණු වෙන්න පුළුවන්."
       },
       {
         "sr": "B: Onda možemo svakog dana da vežbamo kroz kratak razgovor.",
-        "reading": "B: Onda moෂ්emo svakog dana da veෂ්bamo kroz kratak razgovor.",
+        "reading": "B: ඔන්ද්අ ම්ඔෂ්එම්ඔ ස්ව්අක්ඔග් ද්අන්අ ද්අ ව්එෂ්බ්අම්ඔ ක්ර්ඔස් ක්ර්අත්අක් ර්අස්ග්ඔව්ඔර්.",
         "si": "දිනපතා කෙටි සංවාදයකින් පුහුණු වීම."
       }
     ],
@@ -2241,22 +2241,22 @@ export const SERBIAN_B1_LESSONS = [
     "dialogue": [
       {
         "sr": "A: Zbog radova, autobus polazi sa druge stanice.",
-        "reading": "ඒ: අලුත්වැඩියා නිසා බස් රථය වෙනත් නැවතුමකින් පිටත් වෙනවා.",
+        "reading": "A: ස්බ්ඔග් ර්අද්ඔව්අ, අඋත්ඔබ්උස් ප්ඔල්අස්ඉ ස්අ ද්ර්උග්එ ස්ත්අන්ඉත්ස්එ.",
         "si": "අලුත්වැඩියා නිසා බස් රථය වෙනත් නැවතුමකින් පිටත් වෙනවා."
       },
       {
         "sr": "B: Da li si proverio vreme sledećeg polaska?",
-        "reading": "B: Da li si proverio vreme sledeච්eg polaska?",
+        "reading": "B: ද්අ ල්ඉ ස්ඉ ප්ර්ඔව්එර්ඉඔ ව්ර්එම්එ ස්ල්එද්එච්එග් ප්ඔල්අස්ක්අ?",
         "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "sr": "A: Ako propustimo voz, proverićemo sledeći polazak.",
-        "reading": "A: Ako propustimo voz, proveriච්emo sledeච්i polazak.",
+        "reading": "A: අක්ඔ ප්ර්ඔප්උස්ත්ඉම්ඔ ව්ඔස්, ප්ර්ඔව්එර්ඉච්එම්ඔ ස්ල්එද්එච්ඉ ප්ඔල්අස්අක්.",
         "si": "හොඳයි. එවිට කොපමණ වේලාවක් බලා සිටිය යුතුදැයි දැනගන්න පුළුවන්."
       },
       {
         "sr": "B: Dobro. Tako ćemo znati koliko treba da čekamo.",
-        "reading": "B: Dobro. Tako ච්emo znati koliko treba da ච්ekamo.",
+        "reading": "B: ද්ඔබ්ර්ඔ. ත්අක්ඔ ච්එම්ඔ ස්න්අත්ඉ ක්ඔල්ඉක්ඔ ත්ර්එබ්අ ද්අ ච්එක්අම්ඔ.",
         "si": "ඊළඟ දුම්රිය පිටත්වන වේලාව පරීක්ෂා කිරීම."
       }
     ],
@@ -2419,22 +2419,22 @@ export const SERBIAN_B1_LESSONS = [
     "dialogue": [
       {
         "sr": "A: Želeo bih da podnesem reklamaciju zbog oštećenog proizvoda.",
-        "reading": "ඒ: හානි වූ භාණ්ඩය ගැන පැමිණිල්ලක් ඉදිරිපත් කරන්න කැමතියි.",
+        "reading": "A: ෂ්එල්එඔ බ්ඉහ් ද්අ ප්ඔද්න්එස්එම් ර්එක්ල්අම්අත්ස්ඉය්උ ස්බ්ඔග් ඔෂ්ත්එච්එන්ඔග් ප්ර්ඔඉස්ව්ඔද්අ.",
         "si": "හානි වූ භාණ්ඩය ගැන පැමිණිල්ලක් ඉදිරිපත් කරන්න කැමතියි."
       },
       {
         "sr": "B: Da li imate račun i fotografiju oštećenja?",
-        "reading": "B: Da li imate raච්un i fotografiju oෂ්teච්eන්‍යa?",
+        "reading": "B: ද්අ ල්ඉ ඉම්අත්එ ර්අච්උන් ඉ ෆ්ඔත්ඔග්ර්අෆ්ඉය්උ ඔෂ්ත්එච්එන්‍යඅ?",
         "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "sr": "A: Molim vas da mi objasnite koje su mogućnosti zamene.",
-        "reading": "A: Molim vas da mi objasnite koje su moguච්nosti zamene.",
+        "reading": "A: ම්ඔල්ඉම් ව්අස් ද්අ ම්ඉ ඔබ්ය්අස්න්ඉත්එ ක්ඔය්එ ස්උ ම්ඔග්උච්න්ඔස්ත්ඉ ස්අම්එන්එ.",
         "si": "ඇත්තෙන්ම. නීති අනුව භාණ්ඩය මාරු කිරීමක් හෝ මුදල් ආපසු ලබාගැනීමක් ඉල්ලන්න පුළුවන්."
       },
       {
         "sr": "B: Naravno. Možemo da zatražimo zamenu ili povraćaj novca u skladu sa pravilima.",
-        "reading": "B: Naravno. Moෂ්emo da zatraෂ්imo zamenu ili povraච්aj novca u skladu sa pravilima.",
+        "reading": "B: න්අර්අව්න්ඔ. ම්ඔෂ්එම්ඔ ද්අ ස්අත්ර්අෂ්ඉම්ඔ ස්අම්එන්උ ඉල්ඉ ප්ඔව්ර්අච්අය් න්ඔව්ත්ස්අ උ ස්ක්ල්අද්උ ස්අ ප්ර්අව්ඉල්ඉම්අ.",
         "si": "භාණ්ඩය මාරු කිරීමක් හෝ මුදල් ආපසු ලබාගැනීමක් ඉල්ලීම."
       }
     ],
@@ -2597,22 +2597,22 @@ export const SERBIAN_B1_LESSONS = [
     "dialogue": [
       {
         "sr": "A: Prvo popunite obrazac, a zatim ga predajte službeniku.",
-        "reading": "ඒ: මුලින් පෝරමය පුරවා පසුව නිලධාරියාට භාර දෙන්න.",
+        "reading": "A: ප්ර්ව්ඔ ප්ඔප්උන්ඉත්එ ඔබ්ර්අස්අත්ස්, අ ස්අත්ඉම් ග්අ ප්ර්එද්අය්ත්එ ස්ල්උෂ්බ්එන්ඉක්උ.",
         "si": "මුලින් පෝරමය පුරවා පසුව නිලධාරියාට භාර දෙන්න."
       },
       {
         "sr": "B: Da li su koraci jasni i kojim redom ih treba pratiti?",
-        "reading": "B: Da li su koraci jasni i kojim redom ih treba pratiti?",
+        "reading": "B: ද්අ ල්ඉ ස්උ ක්ඔර්අත්ස්ඉ ය්අස්න්ඉ ඉ ක්ඔය්ඉම් ර්එද්ඔම් ඉහ් ත්ර්එබ්අ ප්ර්අත්ඉත්ඉ?",
         "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "sr": "A: Nakon što se uređaj uključi, sačekajte nekoliko sekundi.",
-        "reading": "A: Nakon ෂ්to se ureජ්aj ukල්‍යuච්i, saච්ekajte nekoliko sekundi.",
+        "reading": "A: න්අක්ඔන් ෂ්ත්ඔ ස්එ උර්එජ්අය් උක්ල්‍යඋච්ඉ, ස්අච්එක්අය්ත්එ න්එක්ඔල්ඉක්ඔ ස්එක්උන්ද්ඉ.",
         "si": "පියවර අනුපිළිවෙළට අනුගමනය කර ආරක්ෂක උපදෙස් මඟ නොහැරීම වැදගත්."
       },
       {
         "sr": "B: Važno je da pratite redosled i ne preskačete bezbednosna uputstva.",
-        "reading": "B: Vaෂ්no je da pratite redosled i ne preskaච්ete bezbednosna uputstva.",
+        "reading": "B: ව්අෂ්න්ඔ ය්එ ද්අ ප්ර්අත්ඉත්එ ර්එද්ඔස්ල්එද් ඉ න්එ ප්ර්එස්ක්අච්එත්එ බ්එස්බ්එද්න්ඔස්න්අ උප්උත්ස්ත්ව්අ.",
         "si": "පියවර අනුපිළිවෙළට අනුගමනය කිරීම සහ ආරක්ෂක උපදෙස් පිළිපැදීම."
       }
     ],
@@ -2775,22 +2775,22 @@ export const SERBIAN_B1_LESSONS = [
     "dialogue": [
       {
         "sr": "A: Naša zajednica organizuje akciju čišćenja parka.",
-        "reading": "ඒ: අපේ ප්‍රජාව උද්‍යානය පිරිසිදු කිරීමේ වැඩසටහනක් සංවිධානය කරනවා.",
+        "reading": "A: න්අෂ්අ ස්අය්එද්න්ඉත්ස්අ ඔර්ග්අන්ඉස්උය්එ අක්ත්ස්ඉය්උ ච්ඉෂ්ච්එන්‍යඅ ප්අර්ක්අ.",
         "si": "අපේ ප්‍රජාව උද්‍යානය පිරිසිදු කිරීමේ වැඩසටහනක් සංවිධානය කරනවා."
       },
       {
         "sr": "B: Kako građani mogu da učestvuju u akciji?",
-        "reading": "B: Kako graජ්ani mogu da uච්estvuju u akciji?",
+        "reading": "B: ක්අක්ඔ ග්ර්අජ්අන්ඉ ම්ඔග්උ ද්අ උච්එස්ත්ව්උය්උ උ අක්ත්ස්ඉය්ඉ?",
         "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "sr": "A: Građani mogu da predlože rešenja na javnom sastanku.",
-        "reading": "A: Graජ්ani mogu da predloෂ්e reෂ්eන්‍යa na javnom sastanku.",
+        "reading": "A: ග්ර්අජ්අන්ඉ ම්ඔග්උ ද්අ ප්ර්එද්ල්ඔෂ්එ ර්එෂ්එන්‍යඅ න්අ ය්අව්න්ඔම් ස්අස්ත්අන්ක්උ.",
         "si": "විශිෂ්ටයි. හැමෝටම සහභාගී විය හැකි ලෙස රැස්වීමේ වේලාව ප්‍රකාශ කරමු."
       },
       {
         "sr": "B: Odlično. Objavićemo vreme sastanka kako bi svi mogli da dođu.",
-        "reading": "B: Odliච්no. Objaviච්emo vreme sastanka kako bi svi mogli da doජ්u.",
+        "reading": "B: ඔද්ල්ඉච්න්ඔ. ඔබ්ය්අව්ඉච්එම්ඔ ව්ර්එම්එ ස්අස්ත්අන්ක්අ ක්අක්ඔ බ්ඉ ස්ව්ඉ ම්ඔග්ල්ඉ ද්අ ද්ඔජ්උ.",
         "si": "රැස්වීමේ වේලාව ප්‍රකාශ කර සියලු දෙනාට සහභාගී වීමට ඉඩ සැලසීම."
       }
     ],
@@ -2953,22 +2953,22 @@ export const SERBIAN_B1_LESSONS = [
     "dialogue": [
       {
         "sr": "A: Pokušavam da napravim ravnotežu između posla i odmora.",
-        "reading": "ඒ: වැඩ සහ විවේකය අතර සමබරතාවයක් ඇති කරන්න උත්සාහ කරනවා.",
+        "reading": "A: ප්ඔක්උෂ්අව්අම් ද්අ න්අප්ර්අව්ඉම් ර්අව්න්ඔත්එෂ්උ ඉස්ම්එජ්උ ප්ඔස්ල්අ ඉ ඔද්ම්ඔර්අ.",
         "si": "වැඩ සහ විවේකය අතර සමබරතාවයක් ඇති කරන්න උත්සාහ කරනවා."
       },
       {
         "sr": "B: Šta ti najviše oduzima slobodno vreme?",
-        "reading": "B: ෂ්ta ti najviෂ්e oduzima slobodno vreme?",
+        "reading": "B: ෂ්ත්අ ත්ඉ න්අය්ව්ඉෂ්එ ඔද්උස්ඉම්අ ස්ල්ඔබ්ඔද්න්ඔ ව්ර්එම්එ?",
         "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "sr": "A: Ako unapred isplaniramo obaveze, imaćemo više slobodnog vremena.",
-        "reading": "A: Ako unapred isplaniramo obaveze, imaච්emo viෂ්e slobodnog vremena.",
+        "reading": "A: අක්ඔ උන්අප්ර්එද් ඉස්ප්ල්අන්ඉර්අම්ඔ ඔබ්අව්එස්එ, ඉම්අච්එම්ඔ ව්ඉෂ්එ ස්ල්ඔබ්ඔද්න්ඔග් ව්ර්එම්එන්අ.",
         "si": "අපට කාලසටහනක් සකස් කර විවේකයටත් කාලය වෙන් කරන්න පුළුවන්."
       },
       {
         "sr": "B: Možemo da napravimo raspored i ostavimo vreme za odmor.",
-        "reading": "B: Moෂ්emo da napravimo raspored i ostavimo vreme za odmor.",
+        "reading": "B: ම්ඔෂ්එම්ඔ ද්අ න්අප්ර්අව්ඉම්ඔ ර්අස්ප්ඔර්එද් ඉ ඔස්ත්අව්ඉම්ඔ ව්ර්එම්එ ස්අ ඔද්ම්ඔර්.",
         "si": "කාලසටහනක් සකස් කර විවේකයට කාලය වෙන් කිරීම."
       }
     ],
@@ -3131,22 +3131,22 @@ export const SERBIAN_B1_LESSONS = [
     "dialogue": [
       {
         "sr": "A: Javni prevoz je često održiviji izbor od automobila.",
-        "reading": "ඒ: පෞද්ගලික මෝටර් රථයට වඩා පොදු ප්‍රවාහනය බොහෝවිට තිරසාර තේරීමක්.",
+        "reading": "A: ය්අව්න්ඉ ප්ර්එව්ඔස් ය්එ ච්එස්ත්ඔ ඔද්ර්ෂ්ඉව්ඉය්ඉ ඉස්බ්ඔර් ඔද් අඋත්ඔම්ඔබ්ඉල්අ.",
         "si": "පෞද්ගලික මෝටර් රථයට වඩා පොදු ප්‍රවාහනය බොහෝවිට තිරසාර තේරීමක්."
       },
       {
         "sr": "B: Koje male promene možemo da uvedemo kod kuće?",
-        "reading": "B: Koje male promene moෂ්emo da uvedemo kod kuච්e?",
+        "reading": "B: ක්ඔය්එ ම්අල්එ ප්ර්ඔම්එන්එ ම්ඔෂ්එම්ඔ ද්අ උව්එද්එම්ඔ ක්ඔද් ක්උච්එ?",
         "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "sr": "A: Ako smanjimo otpad, čuvamo prirodne resurse.",
-        "reading": "A: Ako smaන්‍යimo otpad, ච්uvamo prirodne resurse.",
+        "reading": "A: අක්ඔ ස්ම්අන්‍යඉම්ඔ ඔත්ප්අද්, ච්උව්අම්ඔ ප්ර්ඉර්ඔද්න්එ ර්එස්උර්ස්එ.",
         "si": "අපට අපද්‍රව්‍ය වෙන් කර පොදු ප්‍රවාහනය වැඩිපුර භාවිත කළ හැකියි."
       },
       {
         "sr": "B: Možemo da razdvajamo otpad i češće koristimo javni prevoz.",
-        "reading": "B: Moෂ්emo da razdvajamo otpad i ච්eෂ්ච්e koristimo javni prevoz.",
+        "reading": "B: ම්ඔෂ්එම්ඔ ද්අ ර්අස්ද්ව්අය්අම්ඔ ඔත්ප්අද් ඉ ච්එෂ්ච්එ ක්ඔර්ඉස්ත්ඉම්ඔ ය්අව්න්ඉ ප්ර්එව්ඔස්.",
         "si": "අපද්‍රව්‍ය වෙන් කිරීම සහ පොදු ප්‍රවාහනය භාවිත කිරීම."
       }
     ],
@@ -3309,22 +3309,22 @@ export const SERBIAN_B1_LESSONS = [
     "dialogue": [
       {
         "sr": "A: Zbog jake kiše, utakmica je odložena.",
-        "reading": "ඒ: තද වැස්ස නිසා තරගය කල් දැමුවා.",
+        "reading": "A: ස්බ්ඔග් ය්අක්එ ක්ඉෂ්එ, උත්අක්ම්ඉත්ස්අ ය්එ ඔද්ල්ඔෂ්එන්අ.",
         "si": "තද වැස්ස නිසා තරගය කල් දැමුවා."
       },
       {
         "sr": "B: Zašto je utakmica odložena?",
-        "reading": "B: Zaෂ්to je utakmica odloෂ්ena?",
+        "reading": "B: ස්අෂ්ත්ඔ ය්එ උත්අක්ම්ඉත්ස්අ ඔද්ල්ඔෂ්එන්අ?",
         "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "sr": "A: Nije bilo dovoljno vremena, zato smo promenili plan.",
-        "reading": "A: Nije bilo dovoල්‍යno vremena, zato smo promenili plan.",
+        "reading": "A: න්ඉය්එ බ්ඉල්ඔ ද්ඔව්ඔල්‍යන්ඔ ව්ර්එම්එන්අ, ස්අත්ඔ ස්ම්ඔ ප්ර්ඔම්එන්ඉල්ඉ ප්ල්අන්.",
         "si": "තේරුණා. කාලය ප්‍රමාණවත් නොවීම වෙනස්කමේ ප්‍රධාන හේතුවයි."
       },
       {
         "sr": "B: Razumem. Nedostatak vremena je bio glavni razlog promene.",
-        "reading": "B: Razumem. Nedostatak vremena je bio glavni razlog promene.",
+        "reading": "B: ර්අස්උම්එම්. න්එද්ඔස්ත්අත්අක් ව්ර්එම්එන්අ ය්එ බ්ඉඔ ග්ල්අව්න්ඉ ර්අස්ල්ඔග් ප්ර්ඔම්එන්එ.",
         "si": "කාලය ප්‍රමාණවත් නොවීම ප්‍රධාන හේතුව බව පැහැදිලි කිරීම."
       }
     ],
@@ -3487,22 +3487,22 @@ export const SERBIAN_B1_LESSONS = [
     "dialogue": [
       {
         "sr": "A: S jedne strane, ova opcija je jeftinija; s druge strane, sporija je.",
-        "reading": "ඒ: එක් පැත්තකින් මේ විකල්පය ලාභයි; අනෙක් පැත්තෙන් එය මන්දගාමීයි.",
+        "reading": "A: ස් ය්එද්න්එ ස්ත්ර්අන්එ, ඔව්අ ඔප්ත්ස්ඉය්අ ය්එ ය්එෆ්ත්ඉන්ඉය්අ; ස් ද්ර්උග්එ ස්ත්ර්අන්එ, ස්ප්ඔර්ඉය්අ ය්එ.",
         "si": "එක් පැත්තකින් මේ විකල්පය ලාභයි; අනෙක් පැත්තෙන් එය මන්දගාමීයි."
       },
       {
         "sr": "B: Koji kriterijum ti je najvažniji pri izboru?",
-        "reading": "B: Koji kriterijum ti je najvaෂ්niji pri izboru?",
+        "reading": "B: ක්ඔය්ඉ ක්ර්ඉත්එර්ඉය්උම් ත්ඉ ය්එ න්අය්ව්අෂ්න්ඉය්ඉ ප්ර්ඉ ඉස්බ්ඔර්උ?",
         "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "sr": "A: Po mom mišljenju, prednosti su veće od nedostataka.",
-        "reading": "A: Po mom miෂ්ල්‍යeන්‍යu, prednosti su veච්e od nedostataka.",
+        "reading": "A: ප්ඔ ම්ඔම් ම්ඉෂ්ල්‍යඑන්‍යඋ, ප්ර්එද්න්ඔස්ත්ඉ ස්උ ව්එච්එ ඔද් න්එද්ඔස්ත්අත්අක්අ.",
         "si": "අවසාන තීරණයට පෙර මිල සහ වේගය සසඳමු."
       },
       {
         "sr": "B: Hajde da uporedimo cenu i brzinu pre konačne odluke.",
-        "reading": "B: Hajde da uporedimo cenu i brzinu pre konaච්ne odluke.",
+        "reading": "B: හ්අය්ද්එ ද්අ උප්ඔර්එද්ඉම්ඔ ත්ස්එන්උ ඉ බ්ර්ස්ඉන්උ ප්ර්එ ක්ඔන්අච්න්එ ඔද්ල්උක්එ.",
         "si": "මිල සහ වේගය සසඳා අවසාන තීරණය ගැනීම."
       }
     ],
@@ -3665,22 +3665,22 @@ export const SERBIAN_B1_LESSONS = [
     "dialogue": [
       {
         "sr": "A: Želim da završim kurs kako bih unapredio svoje veštine.",
-        "reading": "A: ෂෙලිම් ද සාව්ර්ෂිම් කුර්ස් කාකො බිහ් උනප්‍රෙදියො ස්වොයෙ වෙෂ්තිනෙ.",
+        "reading": "A: ෂ්එල්ඉම් ද්අ ස්අව්ර්ෂ්ඉම් ක්උර්ස් ක්අක්ඔ බ්ඉහ් උන්අප්ර්එද්ඉඔ ස්ව්ඔය්එ ව්එෂ්ත්ඉන්එ.",
         "si": "මගේ කුසලතා දියුණු කරගැනීමට පාඨමාලාව අවසන් කරන්න කැමතියි."
       },
       {
         "sr": "B: Koji kurs ti je potreban za posao?",
-        "reading": "B: Koji kurs ti je potreban za posao?",
+        "reading": "B: ක්ඔය්ඉ ක්උර්ස් ත්ඉ ය්එ ප්ඔත්ර්එබ්අන් ස්අ ප්ඔස්අඔ?",
         "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "sr": "A: Važno je da izaberem program koji odgovara mom rasporedu i ciljevima.",
-        "reading": "A: Vaෂ්no je da izaberem program koji odgovara mom rasporedu i ciල්‍යevima.",
+        "reading": "A: ව්අෂ්න්ඔ ය්එ ද්අ ඉස්අබ්එර්එම් ප්ර්ඔග්ර්අම් ක්ඔය්ඉ ඔද්ග්ඔව්අර්අ ම්ඔම් ර්අස්ප්ඔර්එද්උ ඉ ත්ස්ඉල්‍යඑව්ඉම්අ.",
         "si": "එහෙනම් පාඨමාලාවේ අන්තර්ගතය, කාලය සහ මිල මුලින් සසඳමු."
       },
       {
         "sr": "B: Onda prvo uporedimo sadržaj kursa, trajanje i cenu.",
-        "reading": "B: Onda prvo uporedimo sadrෂ්aj kursa, trajaන්‍යe i cenu.",
+        "reading": "B: ඔන්ද්අ ප්ර්ව්ඔ උප්ඔර්එද්ඉම්ඔ ස්අද්ර්ෂ්අය් ක්උර්ස්අ, ත්ර්අය්අන්‍යඑ ඉ ත්ස්එන්උ.",
         "si": "පාඨමාලාවේ අන්තර්ගතය, කාලය සහ මිල සසඳා බැලීම."
       }
     ],
@@ -3843,22 +3843,22 @@ export const SERBIAN_B1_LESSONS = [
     "dialogue": [
       {
         "sr": "A: Koristim aplikaciju koja mi pomaže da organizujem obaveze.",
-        "reading": "A: කොරිස්තිම් අප්ලිකාත්සියු කොයා මි පොමාෂෙ ද ඔර්ගානිසුයෙම් ඔබාවේසෙ.",
+        "reading": "A: ක්ඔර්ඉස්ත්ඉම් අප්ල්ඉක්අත්ස්ඉය්උ ක්ඔය්අ ම්ඉ ප්ඔම්අෂ්එ ද්අ ඔර්ග්අන්ඉස්උය්එම් ඔබ්අව්එස්එ.",
         "si": "මගේ වැඩ සංවිධානය කිරීමට උදව් කරන යෙදුමක් භාවිතා කරනවා."
       },
       {
         "sr": "B: Koje funkcije aplikacije najčešće koristiš?",
-        "reading": "B: Koje funkcije aplikacije najච්eෂ්ච්e koristiෂ්?",
+        "reading": "B: ක්ඔය්එ ෆ්උන්ක්ත්ස්ඉය්එ අප්ල්ඉක්අත්ස්ඉය්එ න්අය්ච්එෂ්ච්එ ක්ඔර්ඉස්ත්ඉෂ්?",
         "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "sr": "A: Najviše mi pomažu podsetnici i kalendar za organizaciju obaveza.",
-        "reading": "A: Najviෂ්e mi pomaෂ්u podsetnici i kalendar za organizaciju obaveza.",
+        "reading": "A: න්අය්ව්ඉෂ්එ ම්ඉ ප්ඔම්අෂ්උ ප්ඔද්ස්එත්න්ඉත්ස්ඉ ඉ ක්අල්එන්ද්අර් ස්අ ඔර්ග්අන්ඉස්අත්ස්ඉය්උ ඔබ්අව්එස්අ.",
         "si": "අපට දැනුම්දීම් සකස් කර සතිපතා කාලසටහනක් හදන්න පුළුවන්."
       },
       {
         "sr": "B: Možemo da podesimo obaveštenja i napravimo nedeljni raspored.",
-        "reading": "B: Moෂ්emo da podesimo obaveෂ්teන්‍යa i napravimo nedeල්‍යni raspored.",
+        "reading": "B: ම්ඔෂ්එම්ඔ ද්අ ප්ඔද්එස්ඉම්ඔ ඔබ්අව්එෂ්ත්එන්‍යඅ ඉ න්අප්ර්අව්ඉම්ඔ න්එද්එල්‍යන්ඉ ර්අස්ප්ඔර්එද්.",
         "si": "දැනුම්දීම් සකස් කර සතිපතා කාලසටහනක් සෑදීම."
       }
     ],
@@ -4021,22 +4021,22 @@ export const SERBIAN_B1_LESSONS = [
     "dialogue": [
       {
         "sr": "A: Ukoliko redovno štedim, mogu da planiram veće troškove.",
-        "reading": "A: උකොලිකො රෙද්වොව්නො ෂ්තෙදිම් මොගු ද ප්ලානිрам වෙචෙ ත්‍රොෂ්කොවෙ.",
+        "reading": "A: උක්ඔල්ඉක්ඔ ර්එද්ඔව්න්ඔ ෂ්ත්එද්ඉම්, ම්ඔග්උ ද්අ ප්ල්අන්ඉර්අම් ව්එච්එ ත්ර්ඔෂ්ක්ඔව්එ.",
         "si": "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්."
       },
       {
         "sr": "B: Koliko novca želiš da uštediš svakog meseca?",
-        "reading": "B: Koliko novca ෂ්eliෂ් da uෂ්tediෂ් svakog meseca?",
+        "reading": "B: ක්ඔල්ඉක්ඔ න්ඔව්ත්ස්අ ෂ්එල්ඉෂ් ද්අ උෂ්ත්එද්ඉෂ් ස්ව්අක්ඔග් ම්එස්එත්ස්අ?",
         "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "sr": "A: Odrediću realan iznos i automatski ga odvajati od plate.",
-        "reading": "A: Odrediච්u realan iznos i automatski ga odvajati od plate.",
+        "reading": "A: ඔද්ර්එද්ඉච්උ ර්එඅල්අන් ඉස්න්ඔස් ඉ අඋත්ඔම්අත්ස්ක්ඉ ග්අ ඔද්ව්අය්අත්ඉ ඔද් ප්ල්අත්එ.",
         "si": "මුලින්ම මාසික අයවැයක් සකස් කර වියදම් නිරීක්ෂණය කිරීම හොඳයි."
       },
       {
         "sr": "B: Dobro je da prvo napraviš mesečni budžet i pratiš troškove.",
-        "reading": "B: Dobro je da prvo napraviෂ් meseච්ni buජ්et i pratiෂ් troෂ්kove.",
+        "reading": "B: ද්ඔබ්ර්ඔ ය්එ ද්අ ප්ර්ව්ඔ න්අප්ර්අව්ඉෂ් ම්එස්එච්න්ඉ බ්උජ්එත් ඉ ප්ර්අත්ඉෂ් ත්ර්ඔෂ්ක්ඔව්එ.",
         "si": "මාසික අයවැයක් සකස් කර වියදම් නිරීක්ෂණය කිරීම."
       }
     ],
@@ -4199,22 +4199,22 @@ export const SERBIAN_B1_LESSONS = [
     "dialogue": [
       {
         "sr": "A: Iako imam mnogo obaveza, trudim se da dovoljno spavam.",
-        "reading": "A: ඉයකො ඉමාම් ම්නොගො ඔබාවේසා ත්‍රුදිම් සෙ ද දොවොල්ය්නො ස්පාවාම්.",
+        "reading": "A: ඉඅක්ඔ ඉම්අම් ම්න්ඔග්ඔ ඔබ්අව්එස්අ, ත්ර්උද්ඉම් ස්එ ද්අ ද්ඔව්ඔල්‍යන්ඔ ස්ප්අව්අම්.",
         "si": "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා."
       },
       {
         "sr": "B: Kako organizuješ odmor kada imaš mnogo obaveza?",
-        "reading": "B: Kako organizujeෂ් odmor kada imaෂ් mnogo obaveza?",
+        "reading": "B: ක්අක්ඔ ඔර්ග්අන්ඉස්උය්එෂ් ඔද්ම්ඔර් ක්අද්අ ඉම්අෂ් ම්න්ඔග්ඔ ඔබ්අව්එස්අ?",
         "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "sr": "A: Pokušavam da idem na spavanje u isto vreme i da pravim kratke pauze.",
-        "reading": "A: Pokuෂ්avam da idem na spavaන්‍යe u isto vreme i da pravim kratke pauze.",
+        "reading": "A: ප්ඔක්උෂ්අව්අම් ද්අ ඉද්එම් න්අ ස්ප්අව්අන්‍යඑ උ ඉස්ත්ඔ ව්ර්එම්එ ඉ ද්අ ප්ර්අව්ඉම් ක්ර්අත්ක්එ ප්අඋස්එ.",
         "si": "එය හොඳ පුරුද්දක්. නිතිපතා විවේකය සමස්ත යහපැවැත්මට උපකාරී වේ."
       },
       {
         "sr": "B: To je dobra navika. Redovan odmor može da podrži opšte blagostanje.",
-        "reading": "B: To je dobra navika. Redovan odmor moෂ්e da podrෂ්i opෂ්te blagostaන්‍යe.",
+        "reading": "B: ත්ඔ ය්එ ද්ඔබ්ර්අ න්අව්ඉක්අ. ර්එද්ඔව්අන් ඔද්ම්ඔර් ම්ඔෂ්එ ද්අ ප්ඔද්ර්ෂ්ඉ ඔප්ෂ්ත්එ බ්ල්අග්ඔස්ත්අන්‍යඑ.",
         "si": "නිතිපතා විවේකය සහ කෙටි විරාම පවත්වාගැනීම."
       }
     ],
@@ -4377,22 +4377,22 @@ export const SERBIAN_B1_LESSONS = [
     "dialogue": [
       {
         "sr": "A: Ovaj običaj se prenosi sa generacije na generaciju.",
-        "reading": "A: ඔවායි ඔබිචායි සෙ ප්‍රෙනොසි සා ජෙනෙරාත්සියේ නා ජෙනෙරාත්සියු.",
+        "reading": "A: ඔව්අය් ඔබ්ඉච්අය් ස්එ ප්ර්එන්ඔස්ඉ ස්අ ග්එන්එර්අත්ස්ඉය්එ න්අ ග්එන්එර්අත්ස්ඉය්උ.",
         "si": "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා."
       },
       {
         "sr": "B: Koji običaj ti je posebno važan?",
-        "reading": "B: Koji obiච්aj ti je posebno vaෂ්an?",
+        "reading": "B: ක්ඔය්ඉ ඔබ්ඉච්අය් ත්ඉ ය්එ ප්ඔස්එබ්න්ඔ ව්අෂ්අන්?",
         "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "sr": "A: Porodična okupljanja su važna jer nas povezuju sa starijim generacijama.",
-        "reading": "A: Porodiච්na okupල්‍යaන්‍යa su vaෂ්na jer nas povezuju sa starijim generacijama.",
+        "reading": "A: ප්ඔර්ඔද්ඉච්න්අ ඔක්උප්ල්‍යඅන්‍යඅ ස්උ ව්අෂ්න්අ ය්එර් න්අස් ප්ඔව්එස්උය්උ ස්අ ස්ත්අර්ඉය්ඉම් ග්එන්එර්අත්ස්ඉය්අම්අ.",
         "si": "සිරිත් විරිත් රැකගෙන ඒවායේ අර්ථය තරුණයන්ට පැහැදිලි කිරීම හොඳයි."
       },
       {
         "sr": "B: Lepo je sačuvati običaje, ali i objasniti njihovo značenje mladima.",
-        "reading": "B: Lepo je saච්uvati obiච්aje, ali i objasniti න්‍යihovo znaච්eන්‍යe mladima.",
+        "reading": "B: ල්එප්ඔ ය්එ ස්අච්උව්අත්ඉ ඔබ්ඉච්අය්එ, අල්ඉ ඉ ඔබ්ය්අස්න්ඉත්ඉ න්‍යඉහ්ඔව්ඔ ස්න්අච්එන්‍යඑ ම්ල්අද්ඉම්අ.",
         "si": "සිරිත් විරිත් රැකගෙන ඒවායේ අර්ථය අලුත් පරම්පරාවට පැහැදිලි කිරීම."
       }
     ],
@@ -4555,22 +4555,22 @@ export const SERBIAN_B1_LESSONS = [
     "dialogue": [
       {
         "sr": "A: Radio sam u prodaji i naučio sam da rešavam probleme kupaca.",
-        "reading": "A: රාදියො සාම් උ ප්‍රොදායි ඉ නවුචියො සාම් ද රෙෂාවාම් ප්‍රොබ්ලෙමෙ කුපාත්සා.",
+        "reading": "A: ර්අද්ඉඔ ස්අම් උ ප්ර්ඔද්අය්ඉ ඉ න්අඋච්ඉඔ ස්අම් ද්අ ර්එෂ්අව්අම් ප්ර්ඔබ්ල්එම්එ ක්උප්අත්ස්අ.",
         "si": "මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කරලා පාරිභෝගික ගැටලු විසඳන්න ඉගෙන ගත්තා."
       },
       {
         "sr": "B: Koju veštinu iz svog iskustva možeš da predstaviš poslodavcu?",
-        "reading": "B: Koju veෂ්tinu iz svog iskustva moෂ්eෂ් da predstaviෂ් poslodavcu?",
+        "reading": "B: ක්ඔය්උ ව්එෂ්ත්ඉන්උ ඉස් ස්ව්ඔග් ඉස්ක්උස්ත්ව්අ ම්ඔෂ්එෂ් ද්අ ප්ර්එද්ස්ත්අව්ඉෂ් ප්ඔස්ල්ඔද්අව්ත්ස්උ?",
         "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "sr": "A: Naučio sam da komuniciram sa kupcima i rešavam njihove probleme.",
-        "reading": "A: Nauච්io sam da komuniciram sa kupcima i reෂ්avam න්‍යihove probleme.",
+        "reading": "A: න්අඋච්ඉඔ ස්අම් ද්අ ක්ඔම්උන්ඉත්ස්ඉර්අම් ස්අ ක්උප්ත්ස්ඉම්අ ඉ ර්එෂ්අව්අම් න්‍යඉහ්ඔව්එ ප්ර්ඔබ්ල්එම්එ.",
         "si": "ගැටලුවක් විසඳූ ආකාරය පෙන්වන නිශ්චිත උදාහරණයක් සූදානම් කරන්න."
       },
       {
         "sr": "B: Pripremi konkretan primer koji pokazuje kako si rešio problem.",
-        "reading": "B: Pripremi konkretan primer koji pokazuje kako si reෂ්io problem.",
+        "reading": "B: ප්ර්ඉප්ර්එම්ඉ ක්ඔන්ක්ර්එත්අන් ප්ර්ඉම්එර් ක්ඔය්ඉ ප්ඔක්අස්උය්එ ක්අක්ඔ ස්ඉ ර්එෂ්ඉඔ ප්ර්ඔබ්ල්එම්.",
         "si": "පාරිභෝගික ගැටලුවක් විසඳූ නිශ්චිත උදාහරණයක් සූදානම් කිරීම."
       }
     ],
@@ -4733,22 +4733,22 @@ export const SERBIAN_B1_LESSONS = [
     "dialogue": [
       {
         "sr": "A: Predlažem da saslušamo obe strane pre nego što odlučimo.",
-        "reading": "A: ප්‍රෙද්ලාෂෙම් ද සාස්ලුෂාමො ඔබෙ ස්ත්‍රානෙ ප්‍රෙ නෙගො ෂ්තො ඔද්ලුචිමො.",
+        "reading": "A: ප්ර්එද්ල්අෂ්එම් ද්අ ස්අස්ල්උෂ්අම්ඔ ඔබ්එ ස්ත්ර්අන්එ ප්ර්එ න්එග්ඔ ෂ්ත්ඔ ඔද්ල්උච්ඉම්ඔ.",
         "si": "තීරණය කිරීමට පෙර දෙපාර්ශ්වයටම සවන් දෙමු කියලා මම යෝජනා කරනවා."
       },
       {
         "sr": "B: Kako možemo da rešimo neslaganje na sastanku?",
-        "reading": "B: Kako moෂ්emo da reෂ්imo neslagaන්‍යe na sastanku?",
+        "reading": "B: ක්අක්ඔ ම්ඔෂ්එම්ඔ ද්අ ර්එෂ්ඉම්ඔ න්එස්ල්අග්අන්‍යඑ න්අ ස්අස්ත්අන්ක්උ?",
         "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "sr": "A: Predlažem da svako iznese svoje razloge, a zatim da potražimo kompromis.",
-        "reading": "A: Predlaෂ්em da svako iznese svoje razloge, a zatim da potraෂ්imo kompromis.",
+        "reading": "A: ප්ර්එද්ල්අෂ්එම් ද්අ ස්ව්අක්ඔ ඉස්න්එස්එ ස්ව්ඔය්එ ර්අස්ල්ඔග්එ, අ ස්අත්ඉම් ද්අ ප්ඔත්ර්අෂ්ඉම්ඔ ක්ඔම්ප්ර්ඔම්ඉස්.",
         "si": "එය සාධාරණ ක්‍රමයක්. එවිට දෙපාර්ශ්වයේම අදහස් සලකා බලන්න පුළුවන්."
       },
       {
         "sr": "B: To je pošten pristup. Tako ćemo uzeti u obzir obe strane.",
-        "reading": "B: To je poෂ්ten pristup. Tako ච්emo uzeti u obzir obe strane.",
+        "reading": "B: ත්ඔ ය්එ ප්ඔෂ්ත්එන් ප්ර්ඉස්ත්උප්. ත්අක්ඔ ච්එම්ඔ උස්එත්ඉ උ ඔබ්ස්ඉර් ඔබ්එ ස්ත්ර්අන්එ.",
         "si": "දෙපාර්ශ්වයේ අදහස් සලකා බලා සම්මුතියක් සෙවීම."
       }
     ],
@@ -4911,22 +4911,22 @@ export const SERBIAN_B1_LESSONS = [
     "dialogue": [
       {
         "sr": "A: Pre nego što podelim vest, proverim izvor i datum objave.",
-        "reading": "A: ප්‍රෙ නෙගො ෂ්තො පොදෙලිම් වෙස්ත් ප්‍රොවෙරිම් ඉස්වොර ඉ දාතුම් ඔබ්යාවේ.",
+        "reading": "A: ප්ර්එ න්එග්ඔ ෂ්ත්ඔ ප්ඔද්එල්ඉම් ව්එස්ත්, ප්ර්ඔව්එර්ඉම් ඉස්ව්ඔර් ඉ ද්අත්උම් ඔබ්ය්අව්එ.",
         "si": "ප්‍රවෘත්තියක් බෙදාගැනීමට පෙර මූලාශ්‍රය සහ පළ කළ දිනය පරීක්ෂා කරනවා."
       },
       {
         "sr": "B: Koje izvore koristiš da proveriš da li je vest pouzdana?",
-        "reading": "B: Koje izvore koristiෂ් da proveriෂ් da li je vest pouzdana?",
+        "reading": "B: ක්ඔය්එ ඉස්ව්ඔර්එ ක්ඔර්ඉස්ත්ඉෂ් ද්අ ප්ර්ඔව්එර්ඉෂ් ද්අ ල්ඉ ය්එ ව්එස්ත් ප්ඔඋස්ද්අන්අ?",
         "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "sr": "A: Upoređujem više pouzdanih medija i proveravam datum objave.",
-        "reading": "A: Uporeජ්ujem viෂ්e pouzdanih medija i proveravam datum objave.",
+        "reading": "A: උප්ඔර්එජ්උය්එම් ව්ඉෂ්එ ප්ඔඋස්ද්අන්ඉහ් ම්එද්ඉය්අ ඉ ප්ර්ඔව්එර්අව්අම් ද්අත්උම් ඔබ්ය්අව්එ.",
         "si": "හොඳයි. ලේඛකයා සහ ලිපියේ සාක්ෂිත් පරීක්ෂා කිරීම වැදගත්."
       },
       {
         "sr": "B: Dobro. Važno je proveriti i autora i dokaze u tekstu.",
-        "reading": "B: Dobro. Vaෂ්no je proveriti i autora i dokaze u tekstu.",
+        "reading": "B: ද්ඔබ්ර්ඔ. ව්අෂ්න්ඔ ය්එ ප්ර්ඔව්එර්ඉත්ඉ ඉ අඋත්ඔර්අ ඉ ද්ඔක්අස්එ උ ත්එක්ස්ත්උ.",
         "si": "මූලාශ්‍ර කිහිපයක්, පළ කළ දිනය සහ සාක්ෂි පරීක්ෂා කිරීම."
       }
     ],
@@ -5089,22 +5089,22 @@ export const SERBIAN_B1_LESSONS = [
     "dialogue": [
       {
         "sr": "A: Čim stignemo u hotel, ostavićemo prtljag i istražiti grad.",
-        "reading": "A: චිම් ස්තිග්නෙමො උ හොතෙල් ඔස්තාවිචෙමො ප්‍ර්ත්ල්යාග් ඉ ඉස්ත්‍රාෂිති ග්‍රාද්.",
+        "reading": "A: ච්ඉම් ස්ත්ඉග්න්එම්ඔ උ හ්ඔත්එල්, ඔස්ත්අව්ඉච්එම්ඔ ප්ර්ත්ල්‍යඅග් ඉ ඉස්ත්ර්අෂ්ඉත්ඉ ග්ර්අද්.",
         "si": "හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා."
       },
       {
         "sr": "B: Šta bi prvo želeo da posetiš u tom gradu?",
-        "reading": "B: ෂ්ta bi prvo ෂ්eleo da posetiෂ් u tom gradu?",
+        "reading": "B: ෂ්ත්අ බ්ඉ ප්ර්ව්ඔ ෂ්එල්එඔ ද්අ ප්ඔස්එත්ඉෂ් උ ත්ඔම් ග්ර්අද්උ?",
         "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "sr": "A: Voleo bih da obiđem stari centar i probam lokalnu hranu.",
-        "reading": "A: Voleo bih da obiජ්em stari centar i probam lokalnu hranu.",
+        "reading": "A: ව්ඔල්එඔ බ්ඉහ් ද්අ ඔබ්ඉජ්එම් ස්ත්අර්ඉ ත්ස්එන්ත්අර් ඉ ප්ර්ඔබ්අම් ල්ඔක්අල්න්උ හ්ර්අන්උ.",
         "si": "දර්ශනීය ස්ථාන විවෘත වේලාවන් පරීක්ෂා කර ගමන් මාර්ගයක් සැලසුම් කරමු."
       },
       {
         "sr": "B: Možemo da proverimo radno vreme znamenitosti i isplaniramo rutu.",
-        "reading": "B: Moෂ්emo da proverimo radno vreme znamenitosti i isplaniramo rutu.",
+        "reading": "B: ම්ඔෂ්එම්ඔ ද්අ ප්ර්ඔව්එර්ඉම්ඔ ර්අද්න්ඔ ව්ර්එම්එ ස්න්අම්එන්ඉත්ඔස්ත්ඉ ඉ ඉස්ප්ල්අන්ඉර්අම්ඔ ර්උත්උ.",
         "si": "විවෘත වේලාවන් පරීක්ෂා කර ගමන් මාර්ගයක් සැලසුම් කිරීම."
       }
     ],
@@ -5267,22 +5267,22 @@ export const SERBIAN_B1_LESSONS = [
     "dialogue": [
       {
         "sr": "A: Kada sam se preselio, trebalo mi je vremena da se naviknem na novi grad.",
-        "reading": "A: කාදා සාම් සෙ ප්‍රෙසෙලියො ත්‍රෙබාලො මි යෙ ව්‍රෙමෙනා ද සෙ නාවික්නෙම් නා නොවි ග්‍රාද්.",
+        "reading": "A: ක්අද්අ ස්අම් ස්එ ප්ර්එස්එල්ඉඔ, ත්ර්එබ්අල්ඔ ම්ඉ ය්එ ව්ර්එම්එන්අ ද්අ ස්එ න්අව්ඉක්න්එම් න්අ න්ඔව්ඉ ග්ර්අද්.",
         "si": "මම පදිංචිය මාරු කළ විට අලුත් නගරයට හුරු වෙන්න කාලයක් ගත වුණා."
       },
       {
         "sr": "B: Šta ti je najviše pomoglo da se navikneš na novi grad?",
-        "reading": "B: ෂ්ta ti je najviෂ්e pomoglo da se navikneෂ් na novi grad?",
+        "reading": "B: ෂ්ත්අ ත්ඉ ය්එ න්අය්ව්ඉෂ්එ ප්ඔම්ඔග්ල්ඔ ද්අ ස්එ න්අව්ඉක්න්එෂ් න්අ න්ඔව්ඉ ග්ර්අද්?",
         "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "sr": "A: Upoznao sam komšije i naučio gde se nalaze važne službe.",
-        "reading": "A: Upoznao sam komෂ්ije i nauච්io gde se nalaze vaෂ්ne sluෂ්be.",
+        "reading": "A: උප්ඔස්න්අඔ ස්අම් ක්ඔම්ෂ්ඉය්එ ඉ න්අඋච්ඉඔ ග්ද්එ ස්එ න්අල්අස්එ ව්අෂ්න්එ ස්ල්උෂ්බ්එ.",
         "si": "අවට ප්‍රදේශය ටිකෙන් ටික හඳුනාගෙන අවශ්‍ය විට උදව් ඉල්ලීම හොඳයි."
       },
       {
         "sr": "B: Dobro je postepeno upoznavati okolinu i pitati za pomoć kada je potrebna.",
-        "reading": "B: Dobro je postepeno upoznavati okolinu i pitati za pomoච් kada je potrebna.",
+        "reading": "B: ද්ඔබ්ර්ඔ ය්එ ප්ඔස්ත්එප්එන්ඔ උප්ඔස්න්අව්අත්ඉ ඔක්ඔල්ඉන්උ ඉ ප්ඉත්අත්ඉ ස්අ ප්ඔම්ඔච් ක්අද්අ ය්එ ප්ඔත්ර්එබ්න්අ.",
         "si": "අසල්වැසියන් හඳුනාගෙන වැදගත් සේවා ස්ථාන දැනගැනීම."
       }
     ],
