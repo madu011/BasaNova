@@ -664,7 +664,7 @@ export const ENGLISH_A2_LESSONS = [
         "prompt": "Choose “salary”.",
         "options": [
           "salary",
-          "salary",
+          "working hours",
           "cover a shift"
         ],
         "answer": 0,
