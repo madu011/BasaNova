@@ -217,14 +217,3 @@ export const C2_ASSESSMENT_STATUS = {
   speakingAssessment: "guided self-practice; not automatically graded",
   remainingValidation: ["fluent-speaker review of Serbian and English prompts", "review Sinhala meanings and pronunciation guides", "CI, Expo build and Android device verification"]
 };
-
-
-// Paired C2 cumulative revision and final practice assessments are integrated in Learn.
-export const C2_ASSESSMENT_STATUS = {
-  pairedRevisionQuestions: { Serbian: 10, English: 10 },
-  pairedFinalExamQuestions: { Serbian: 20, English: 20 },
-  finalExamComposition: { vocabulary: 10, grammarAndDiscourse: 4, listening: 6 },
-  suggestedPassThresholdPercent: 70,
-  speakingAssessment: "guided self-practice; not automatically graded",
-  remainingValidation: ["fluent-speaker review of Serbian and English prompts", "review Sinhala meanings and pronunciation guides", "CI, Expo build and Android device verification"]
-};
