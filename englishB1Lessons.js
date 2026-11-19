@@ -52,7 +52,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "මතක තබාගන්නවා",
         "example": "I will always remember that journey.",
         "exampleReading": "අයි විල් ඕල්වේස් රිමෙම්බර් දැට් ජර්නි.",
-        "translation": "මට ඒ ගමන හැමදාම මතක থাকবে."
+        "translation": "මට ඒ ගමන හැමදාම මතක තියේවි."
       },
       {
         "word": "surprised",
