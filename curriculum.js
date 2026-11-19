@@ -195,3 +195,14 @@ export const C2_BATCH_31_40_STATUS = {
   remainingC2Lessons: 10,
   remainingValidation: ["fluent-speaker review of advanced Serbian and English nuance", "review Sinhala-script pronunciation and translations", "add cumulative C2 revision and final practice assessment after lesson 50", "CI, Expo build and Android device verification"]
 };
+
+
+// All 50 C2 lesson units are authored and integrated for both language tracks.
+export const C2_COMPLETION_STATUS = {
+  completed: true,
+  lessons: { Serbian: 50, English: 50 },
+  pairedLessons: 50,
+  totalC2Records: 100,
+  nextWork: "Build cumulative C2 mixed revision and final practice assessments for Serbian and English",
+  remaining: ["cumulative revision and final practice assessments", "fluent-speaker review of advanced Serbian and English nuance", "review Sinhala-script pronunciation and translations", "CI, Expo build and Android device verification"]
+};
