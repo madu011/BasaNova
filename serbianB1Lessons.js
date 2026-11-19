@@ -2321,67 +2321,67 @@ const serbianB1Lessons = [
     "vocabulary": [
       {
         "word": "refund",
-        "reading": "පොව්‍රාචායි නොව්ත්සා",
+        "reading": "පොව්රාචායි නොව්ත්සා",
         "meaning": "මුදල් ආපසු ගෙවීම",
-        "example": "Želeo bih da podnesem reklamaciju zbog oštećenog proizvoda.",
-        "translation": "හානි වූ භාණ්ඩය ගැන පැමිණිල්ලක් ඉදිරිපත් කරන්න කැමතියි.",
-        "exampleReading": "හානි වූ භාණ්ඩය ගැන පැමිණිල්ලක් ඉදිරිපත් කරන්න කැමතියි."
+        "example": "Kupac je zatražio povraćaj novca jer je proizvod bio neispravan.",
+        "translation": "පාරිභෝගිකයා භාණ්ඩය දෝෂ සහිත වූ නිසා මුදල් ආපසු ඉල්ලා සිටියා.",
+        "exampleReading": "කුපාත්ස් යෙ затражио повраћај novca јер је proizvod bio neispravan."
       },
       {
         "word": "receipt",
         "reading": "රාචුන්",
         "meaning": "රිසිට්පත",
-        "example": "Molim vas da mi objasnite koje su mogućnosti zamene.",
-        "translation": "මාරු කිරීමේ විකල්ප මොනවාද කියලා පැහැදිලි කරන්න.",
-        "exampleReading": "මාරු කිරීමේ විකල්ප මොනවාද කියලා පැහැදිලි කරන්න."
+        "example": "Sačuvao sam račun kao dokaz o kupovini.",
+        "translation": "මිලදී ගැනීමේ සාක්ෂියක් ලෙස මම රිසිට්පත තබාගත්තා.",
+        "exampleReading": "සාචුවාඕ සාම් රාචුන් කාඕ දොකාස් ඔ කුපොවිණි."
       },
       {
         "word": "damaged",
         "reading": "ඔෂ්තෙචෙන්",
         "meaning": "හානි වූ",
-        "example": "Važno je da unapred razmotrimo sve mogućnosti.",
-        "translation": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද උනප්‍රෙද් රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "Stigao mi je oštećen paket, pa sam odmah kontaktirao prodavnicu.",
+        "translation": "මට හානි වූ පාර්සලයක් ලැබුණු නිසා මම වහාම වෙළඳසැලට සම්බන්ධ වුණා.",
+        "exampleReading": "ස්තිගාඕ මි යෙ ඔෂ්තෙචෙන් පාකෙත් පා සාම් ඔද්මාහ් කොන්තාක්තිරාඕ ප්‍රොදාව්නිත්සු."
       },
       {
         "word": "replacement",
         "reading": "සාමෙනා",
-        "meaning": "මාරු කිරීම",
-        "example": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
-        "translation": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා.",
-        "exampleReading": "නා ක්‍රායු චෙමො ඉස්සාබ්‍රාති රෙෂෙන්යේ කොයෙ නායිවිෂෙ ඔද්ගොවාරා ස්විමා."
+        "meaning": "ආදේශකය / මාරු කිරීම",
+        "example": "Prodavnica mi je ponudila zamenu za neispravan uređaj.",
+        "translation": "දෝෂ සහිත උපකරණය වෙනුවට වෙළඳසැල මට වෙනත් එකක් ලබාදීමට ඉදිරිපත් වුණා.",
+        "exampleReading": "ප්‍රොදාව්නිත්සා මි යෙ පොනුදිලා සාමෙනු සා නෙයිස්ප්‍රාවන් උරෙද්ජායි."
       },
       {
         "word": "quality",
         "reading": "ක්වාලිටෙත්",
         "meaning": "ගුණාත්මකභාවය",
-        "example": "Želeo bih da podnesem reklamaciju zbog oštećenog proizvoda.",
-        "translation": "හානි වූ භාණ්ඩය ගැන පැමිණිල්ලක් ඉදිරිපත් කරන්න කැමතියි.",
-        "exampleReading": "හානි වූ භාණ්ඩය ගැන පැමිණිල්ලක් ඉදිරිපත් කරන්න කැමතියි."
+        "example": "Kvalitet ovog proizvoda je bolji nego što sam očekivao.",
+        "translation": "මේ භාණ්ඩයේ ගුණාත්මකභාවය මම බලාපොරොත්තු වූවාට වඩා හොඳයි.",
+        "exampleReading": "ක්වාලිටෙත් ඔවොග් ප්‍රොයිස්වොදා යෙ බොල්යි නෙගො ෂ්තො සාම් ඔචෙකිවාඕ."
       },
       {
         "word": "warranty",
-        "reading": "ගරාන්ත්සියා",
+        "reading": "ගаранත්සියා",
         "meaning": "වගකීම් සහතිකය",
-        "example": "Molim vas da mi objasnite koje su mogućnosti zamene.",
-        "translation": "මාරු කිරීමේ විකල්ප මොනවාද කියලා පැහැදිලි කරන්න.",
-        "exampleReading": "මාරු කිරීමේ විකල්ප මොනවාද කියලා පැහැදිලි කරන්න."
+        "example": "Ovaj telefon je još uvek pod garancijom.",
+        "translation": "මේ දුරකථනය තවමත් වගකීම් කාලය තුළයි.",
+        "exampleReading": "ඔවායි තෙලෙෆොන් යෙ යෝෂ් උවෙක් පොද් ගරන්ත්සියොම්."
       },
       {
         "word": "customer",
         "reading": "කුපාත්ස්",
         "meaning": "පාරිභෝගිකයා",
-        "example": "Važno je da unapred razmotrimo sve mogućnosti.",
-        "translation": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද උනප්‍රෙද් රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "Svaki kupac ima pravo da dobije jasne informacije.",
+        "translation": "සෑම පාරිභෝගිකයෙකුටම පැහැදිලි තොරතුරු ලබාගැනීමේ අයිතිය තිබෙනවා.",
+        "exampleReading": "ස්වාකි කුපාත්ස් ඉමා ප්‍රාවො දා දොබියේ යාස්නෙ ඉන්ෆොර්මාත්සියේ."
       },
       {
         "word": "solution",
         "reading": "රෙෂෙන්යේ",
         "meaning": "විසඳුම",
-        "example": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
-        "translation": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා.",
-        "exampleReading": "නා ක්‍රායු චෙමො ඉස්සාබ්‍රාති රෙෂෙන්යේ කොයෙ නායිවිෂෙ ඔද්ගොවාරා ස්විමා."
+        "example": "Zajedno smo pronašli brzo i pravedno rešenje.",
+        "translation": "අපි එකට ඉක්මන් සහ සාධාරණ විසඳුමක් සොයාගත්තා.",
+        "exampleReading": "සායෙද්නො ස්මො ප්‍රොනාෂ්ලි බ්‍ර්සො ඉ ප්‍රාවේද්නො රෙෂෙන්යේ."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
