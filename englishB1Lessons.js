@@ -3569,65 +3569,65 @@ const englishB1Lessons = [
         "word": "certificate",
         "reading": "සර්ටිෆිකට්",
         "meaning": "සහතිකය",
-        "example": "I want to complete the course so that I can improve my skills.",
-        "exampleReading": "අයි වොන්ට් ටු කම්ප්ලීට් දි කෝර්ස් සෝ දැට් අයි කෑන් ඉම්ප්‍රූව් මයි ස්කිල්ස්.",
-        "translation": "මගේ කුසලතා දියුණු කරගැනීමට පාඨමාලාව අවසන් කරන්න කැමතියි."
+        "example": "After completing the course, I received a certificate in computing.",
+        "exampleReading": "ආෆ්ටර් කම්ප්ලීටින් දි කෝර්ස් අයි රිසීව්ඩ් අ සර්ටිෆිකට් ඉන් කම්පියුටින්.",
+        "translation": "පාඨමාලාව අවසන් කළ පසු මට පරිගණක පිළිබඳ සහතිකයක් ලැබුණා."
       },
       {
         "word": "qualification",
         "reading": "ක්වොලිෆිකේෂන්",
         "meaning": "සුදුසුකම",
-        "example": "It is important to consider all the available options.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි අවේලබල් ඔප්ෂන්ස්.",
-        "translation": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්."
+        "example": "This position requires a recognised professional qualification.",
+        "exampleReading": "දිස් පොසිෂන් රික්වයර්ස් අ රෙකග්නයිස්ඩ් ප්‍රොෆෙෂනල් ක්වොලිෆිකේෂන්.",
+        "translation": "මෙම තනතුරට පිළිගත් වෘත්තීය සුදුසුකමක් අවශ්‍යයි."
       },
       {
         "word": "training",
         "reading": "ට්‍රේනින්",
         "meaning": "පුහුණුව",
-        "example": "We can make a plan and adapt it to the situation.",
-        "exampleReading": "වී කෑන් මේක් අ ප්ලෑන් ඇන්ඩ් අඩැප්ට් ඉට් ටු දි සිචුවේෂන්.",
-        "translation": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි."
+        "example": "The new staff training starts next Monday at nine.",
+        "exampleReading": "දි නිව් ස්ටාෆ් ට්‍රේනින් ස්ටාට්ස් නෙක්ස්ට් මන්ඩේ ඇට් නයින්.",
+        "translation": "නව සේවක පුහුණුව ලබන සඳුදා නවයට ආරම්භ වෙනවා."
       },
       {
         "word": "lecture",
         "reading": "ලෙක්චර්",
         "meaning": "දේශනය",
-        "example": "Based on experience, this approach may be useful.",
-        "exampleReading": "බේස්ඩ් ඔන් එක්ස්පීරියන්ස් දිස් ඇප්‍රෝච් මේ බී යූස්ෆුල්.",
-        "translation": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි."
+        "example": "Today's lecture about marketing lasted one hour.",
+        "exampleReading": "ටුඩේස් ලෙක්චර් අබවුට් මාර්කටින් ලාස්ටිඩ් වන් අවර්.",
+        "translation": "අද අලෙවිකරණය පිළිබඳ දේශනය පැයක් පැවතුණා."
       },
       {
         "word": "assignment",
         "reading": "අසයින්මන්ට්",
         "meaning": "පැවරුම",
-        "example": "I want to complete the course so that I can improve my skills.",
-        "exampleReading": "අයි වොන්ට් ටු කම්ප්ලීට් දි කෝර්ස් සෝ දැට් අයි කෑන් ඉම්ප්‍රූව් මයි ස්කිල්ස්.",
-        "translation": "මගේ කුසලතා දියුණු කරගැනීමට පාඨමාලාව අවසන් කරන්න කැමතියි."
+        "example": "I must finish my mathematics assignment by this evening.",
+        "exampleReading": "අයි මස්ට් ෆිනිෂ් මයි මැතමැටික්ස් අසයින්මන්ට් බයි දිස් ඊවිනින්.",
+        "translation": "මම අද සවසට පෙර ගණිත පැවරුම අවසන් කළ යුතුයි."
       },
       {
         "word": "deadline",
         "reading": "ඩෙඩ්ලයින්",
         "meaning": "අවසන් දිනය",
-        "example": "It is important to consider all the available options.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි අවේලබල් ඔප්ෂන්ස්.",
-        "translation": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්."
+        "example": "The deadline for submitting the application is 15 May.",
+        "exampleReading": "දි ඩෙඩ්ලයින් ෆෝ සබ්මිටින් දි ඇප්ලිකේෂන් ඉස් ෆිෆ්ටීන් මේ.",
+        "translation": "අයදුම්පත ඉදිරිපත් කිරීමේ අවසන් දිනය මැයි පහළොස්වැනිදායි."
       },
       {
         "word": "enrol",
         "reading": "එන්රෝල්",
         "meaning": "ලියාපදිංචි වෙනවා",
-        "example": "We can make a plan and adapt it to the situation.",
-        "exampleReading": "වී කෑන් මේක් අ ප්ලෑන් ඇන්ඩ් අඩැප්ට් ඉට් ටු දි සිචුවේෂන්.",
-        "translation": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි."
+        "example": "I would like to enrol in an evening Serbian course.",
+        "exampleReading": "අයි වුඩ් ලයික් ටු එන්රෝල් ඉන් ඇන් ඊවිනින් සර්බියන් කෝර්ස්.",
+        "translation": "මට සර්බියානු භාෂාවේ සවස පාඨමාලාවකට ලියාපදිංචි වෙන්න ඕනෑ."
       },
       {
         "word": "improve",
         "reading": "ඉම්ප්රූව්",
         "meaning": "දියුණු කරනවා",
-        "example": "I want to complete the course so that I can improve my skills.",
-        "exampleReading": "අයි වොන්ට් ටු කම්ප්ලීට් දි කෝර්ස් සෝ දැට් අයි කෑන් ඉම්ප්‍රූව් මයි ස්කිල්ස්.",
-        "translation": "මගේ කුසලතා දියුණු කරගැනීමට පාඨමාලාව අවසන් කරන්න කැමතියි."
+        "example": "Regular practice can improve your language skills.",
+        "exampleReading": "රෙගියුලර් ප්‍රැක්ටිස් කැන් ඉම්ප්‍රූව් යෝර් ලැන්ග්විජ් ස්කිල්ස්.",
+        "translation": "නිතිපතා පුහුණුවෙන් ඔබේ භාෂා කුසලතා දියුණු කළ හැකියි."
       }
     ],
     "grammarTitle": "Grammar",
@@ -3747,65 +3747,65 @@ const englishB1Lessons = [
         "word": "application",
         "reading": "ඇප්ලිකේෂන්",
         "meaning": "යෙදුම",
-        "example": "I use an app that helps me organise my tasks.",
-        "exampleReading": "අයි යූස් ඇන් ඇප් දැට් හෙල්ප්ස් මී ඕගනයිස් මයි ටාස්ක්ස්.",
-        "translation": "මගේ වැඩ සංවිධානය කිරීමට උදව් කරන යෙදුමක් භාවිතා කරනවා."
+        "example": "I installed an application for learning new words.",
+        "exampleReading": "අයි ඉන්ස්ටෝල්ඩ් ඇන් ඇප්ලිකේෂන් ෆෝ ලර්නින් නිව් වර්ඩ්ස්.",
+        "translation": "මම අලුත් වචන ඉගෙනගැනීම සඳහා යෙදුමක් ස්ථාපනය කළා."
       },
       {
         "word": "account",
         "reading": "අකවුන්ට්",
         "meaning": "ගිණුම",
-        "example": "It is important to consider all the available options.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි අවේලබල් ඔප්ෂන්ස්.",
-        "translation": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්."
+        "example": "I created a new account using my email address.",
+        "exampleReading": "අයි ක්‍රියේටිඩ් අ නිව් අකවුන්ට් යූසින් මයි ඊමේල් ඇඩ්‍රස්.",
+        "translation": "මම මගේ විද්‍යුත් තැපැල් ලිපිනය භාවිත කර අලුත් ගිණුමක් හැදුවා."
       },
       {
         "word": "password",
         "reading": "පාස්වර්ඩ්",
         "meaning": "මුරපදය",
-        "example": "We can make a plan and adapt it to the situation.",
-        "exampleReading": "වී කෑන් මේක් අ ප්ලෑන් ඇන්ඩ් අඩැප්ට් ඉට් ටු දි සිචුවේෂන්.",
-        "translation": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි."
+        "example": "Choose a strong password that others cannot easily guess.",
+        "exampleReading": "චූස් අ ස්ට්‍රොං පැස්වර්ඩ් දැට් අදර්ස් කැන්නොට් ඊසිලි ගෙස්.",
+        "translation": "අන් අයට පහසුවෙන් අනුමාන කළ නොහැකි ශක්තිමත් මුරපදයක් තෝරන්න."
       },
       {
         "word": "attachment",
         "reading": "අටැච්මන්ට්",
         "meaning": "ඇමුණුම",
-        "example": "Based on experience, this approach may be useful.",
-        "exampleReading": "බේස්ඩ් ඔන් එක්ස්පීරියන්ස් දිස් ඇප්‍රෝච් මේ බී යූස්ෆුල්.",
-        "translation": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි."
+        "example": "I added the signed document as an email attachment.",
+        "exampleReading": "අයි ඇඩිඩ් දි සයින්ඩ් ඩොකියුමන්ට් ඇස් ඇන් ඊමේල් අටැච්මන්ට්.",
+        "translation": "අත්සන් කළ ලේඛනයක් විද්‍යුත් තැපෑලට ඇමුණුමක් ලෙස එක් කළා."
       },
       {
         "word": "download",
         "reading": "ඩවුන්ලෝඩ්",
         "meaning": "බාගත කරනවා",
-        "example": "I use an app that helps me organise my tasks.",
-        "exampleReading": "අයි යූස් ඇන් ඇප් දැට් හෙල්ප්ස් මී ඕගනයිස් මයි ටාස්ක්ස්.",
-        "translation": "මගේ වැඩ සංවිධානය කිරීමට උදව් කරන යෙදුමක් භාවිතා කරනවා."
+        "example": "You can download the file directly from the official website.",
+        "exampleReading": "යූ කැන් ඩවුන්ලෝඩ් දි ෆයිල් ඩිරෙක්ට්ලි ෆ්‍රම් දි ඔෆිෂල් වෙබ්සයිට්.",
+        "translation": "නිල වෙබ් අඩවියෙන් ගොනුව සෘජුවම බාගත කරන්න පුළුවන්."
       },
       {
         "word": "update",
         "reading": "අප්ඩේට්",
         "meaning": "යාවත්කාලීන කරනවා",
-        "example": "It is important to consider all the available options.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි අවේලබල් ඔප්ෂන්ස්.",
-        "translation": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්."
+        "example": "Remember to update the application to get the new features.",
+        "exampleReading": "රිමෙම්බර් ටු අප්ඩේට් දි ඇප්ලිකේෂන් ටු ගෙට් දි නිව් ෆීචර්ස්.",
+        "translation": "අලුත් විශේෂාංග ලබාගැනීමට යෙදුම යාවත්කාලීන කරන්න අමතක කරන්න එපා."
       },
       {
         "word": "privacy",
         "reading": "ප්‍රයිවසි",
         "meaning": "පෞද්ගලිකත්වය",
-        "example": "We can make a plan and adapt it to the situation.",
-        "exampleReading": "වී කෑන් මේක් අ ප්ලෑන් ඇන්ඩ් අඩැප්ට් ඉට් ටු දි සිචුවේෂන්.",
-        "translation": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි."
+        "example": "Privacy settings control who can see your personal data.",
+        "exampleReading": "ප්‍රයිවසි සෙටින්ස් කන්ට්‍රෝල් හූ කැන් සී යෝර් පර්සනල් ඩේටා.",
+        "translation": "ඔබේ පුද්ගලික දත්ත බලන්න පුළුවන් කාටද යන්න පෞද්ගලිකත්ව සැකසුම් තීරණය කරනවා."
       },
       {
         "word": "connection",
         "reading": "කනෙක්ෂන්",
         "meaning": "සම්බන්ධතාව",
-        "example": "Based on experience, this approach may be useful.",
-        "exampleReading": "බේස්ඩ් ඔන් එක්ස්පීරියන්ස් දිස් ඇප්‍රෝච් මේ බී යූස්ෆුල්.",
-        "translation": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි."
+        "example": "The internet connection dropped during the video call.",
+        "exampleReading": "දි ඉන්ටර්නෙට් කනෙක්ෂන් ඩ්‍රොප්ට් ඩියුරින් දි වීඩියෝ කෝල්.",
+        "translation": "වීඩියෝ ඇමතුම අතරතුර අන්තර්ජාල සම්බන්ධතාව බිඳ වැටුණා."
       }
     ],
     "grammarTitle": "Grammar",
@@ -3925,65 +3925,65 @@ const englishB1Lessons = [
         "word": "savings",
         "reading": "සේවිංස්",
         "meaning": "ඉතිරිකිරීම්",
-        "example": "If I save regularly, I can plan for larger expenses.",
-        "exampleReading": "ඉෆ් අයි සේව් රෙග්‍යුලර්ලි අයි කෑන් ප්ලෑන් ෆෝ ලාජර් එක්ස්පෙන්සිස්.",
-        "translation": "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්."
+        "example": "I keep my savings for unexpected expenses.",
+        "exampleReading": "අයි කීප් මයි සේවිංස් ෆෝ අන්එක්ස්පෙක්ටිඩ් එක්ස්පෙන්සිස්.",
+        "translation": "හදිසිව ඇතිවන වියදම් සඳහා මම මගේ ඉතිරිකිරීම් තබාගන්නවා."
       },
       {
         "word": "budget",
         "reading": "බජට්",
         "meaning": "අයවැය",
-        "example": "It is important to consider all the available options.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි අවේලබල් ඔප්ෂන්ස්.",
-        "translation": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්."
+        "example": "We prepared a monthly budget for food and bills.",
+        "exampleReading": "වී ප්‍රිපෙයර්ඩ් අ මන්ත්ලි බජට් ෆෝ ෆූඩ් ඇන්ඩ් බිල්ස්.",
+        "translation": "අපි ආහාර සහ බිල්පත් සඳහා මාසික අයවැයක් සකස් කළා."
       },
       {
         "word": "expense",
         "reading": "එක්ස්පෙන්ස්",
         "meaning": "වියදම",
-        "example": "If I save regularly, I can plan for larger expenses.",
-        "exampleReading": "ඉෆ් අයි සේව් රෙග්‍යුලර්ලි අයි කෑන් ප්ලෑන් ෆෝ ලාජර් එක්ස්පෙන්සිස්.",
-        "translation": "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්."
+        "example": "The biggest expense this month was the rent.",
+        "exampleReading": "දි බිගස්ට් එක්ස්පෙන්ස් දිස් මන්ත් වොස් දි රෙන්ට්.",
+        "translation": "මේ මාසයේ ලොකුම වියදම නිවාස කුලියයි."
       },
       {
         "word": "income",
         "reading": "ඉන්කම්",
         "meaning": "ආදායම",
-        "example": "Based on experience, this approach may be useful.",
-        "exampleReading": "බේස්ඩ් ඔන් එක්ස්පීරියන්ස් දිස් ඇප්‍රෝච් මේ බී යූස්ෆුල්.",
-        "translation": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි."
+        "example": "My monthly income depends on the number of hours I work.",
+        "exampleReading": "මයි මන්ත්ලි ඉන්කම් ඩිපෙන්ඩ්ස් ඔන් දි නම්බර් ඔෆ් අවර්ස් අයි වර්ක්.",
+        "translation": "මගේ මාසික ආදායම වැඩ කරන පැය ගණන අනුව වෙනස් වෙනවා."
       },
       {
         "word": "transfer",
         "reading": "ට්‍රාන්ස්ෆර්",
         "meaning": "මාරු කිරීම",
-        "example": "If I save regularly, I can plan for larger expenses.",
-        "exampleReading": "ඉෆ් අයි සේව් රෙග්‍යුලර්ලි අයි කෑන් ප්ලෑන් ෆෝ ලාජර් එක්ස්පෙන්සිස්.",
-        "translation": "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්."
+        "example": "A bank transfer usually takes one working day.",
+        "exampleReading": "අ බැන්ක් ට්‍රාන්ස්ෆර් යූෂුවලි ටේක්ස් වන් වර්කින් ඩේ.",
+        "translation": "බැංකු මුදල් මාරුවකට සාමාන්‍යයෙන් වැඩ කරන දිනයක් ගත වෙනවා."
       },
       {
         "word": "fee",
         "reading": "ෆී",
         "meaning": "ගාස්තුව",
-        "example": "It is important to consider all the available options.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි අවේලබල් ඔප්ෂන්ස්.",
-        "translation": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්."
+        "example": "The bank charges a fee for international transfers.",
+        "exampleReading": "දි බැන්ක් චාජස් අ ෆී ෆෝ ඉන්ටර්නැෂනල් ට්‍රාන්ස්ෆර්ස්.",
+        "translation": "ජාත්‍යන්තර මුදල් මාරුවක් සඳහා බැංකුව ගාස්තුවක් අය කරනවා."
       },
       {
         "word": "interest",
         "reading": "ඉන්ටරස්ට්",
         "meaning": "පොලිය",
-        "example": "We can make a plan and adapt it to the situation.",
-        "exampleReading": "වී කෑන් මේක් අ ප්ලෑන් ඇන්ඩ් අඩැප්ට් ඉට් ටු දි සිචුවේෂන්.",
-        "translation": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි."
+        "example": "The interest rate affects the total cost of a loan.",
+        "exampleReading": "දි ඉන්ට්‍රස්ට් රේට් අෆෙක්ට්ස් දි ටෝටල් කොස්ට් ඔෆ් අ ලෝන්.",
+        "translation": "පොලී අනුපාතය ණයේ මුළු වියදමට බලපානවා."
       },
       {
         "word": "statement",
         "reading": "ස්ටේට්මන්ට්",
         "meaning": "ගිණුම් ප්‍රකාශය",
-        "example": "Based on experience, this approach may be useful.",
-        "exampleReading": "බේස්ඩ් ඔන් එක්ස්පීරියන්ස් දිස් ඇප්‍රෝච් මේ බී යූස්ෆුල්.",
-        "translation": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි."
+        "example": "I check my bank statement through the app every month.",
+        "exampleReading": "අයි චෙක් මයි බැන්ක් ස්ටේට්මන්ට් ත්‍රූ දි ඇප් එව්රි මන්ත්.",
+        "translation": "මම සෑම මාසයකම යෙදුමෙන් බැංකු ගිණුම් ප්‍රකාශය පරීක්ෂා කරනවා."
       }
     ],
     "grammarTitle": "Grammar",
@@ -4103,65 +4103,65 @@ const englishB1Lessons = [
         "word": "well-being",
         "reading": "වෙල් බීයිං",
         "meaning": "යහපැවැත්ම",
-        "example": "Although I have many tasks, I try to get enough sleep.",
-        "exampleReading": "ඔල්දෝ අයි හැව් මෙනි ටාස්ක්ස් අයි ට්‍රයි ටු ගෙට් ඉනෆ් ස්ලීප්.",
-        "translation": "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා."
+        "example": "Regular rest is important for physical and mental well-being.",
+        "exampleReading": "රෙගියුලර් රෙස්ට් ඉස් ඉම්පෝර්ටන්ට් ෆෝ ෆිසිකල් ඇන්ඩ් මෙන්ටල් වෙල් බීයිං.",
+        "translation": "නිතිපතා විවේක ගැනීම ශාරීරික හා මානසික යහපැවැත්මට වැදගත්."
       },
       {
         "word": "habit",
         "reading": "හැබිට්",
         "meaning": "පුරුද්ද",
-        "example": "It is important to consider all the available options.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි අවේලබල් ඔප්ෂන්ස්.",
-        "translation": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්."
+        "example": "I have developed a habit of walking every morning.",
+        "exampleReading": "අයි හැව් ඩිවෙලප්ට් අ හැබිට් ඔෆ් වෝකින් එව්රි මෝර්නින්.",
+        "translation": "මම සෑම උදෑසනකම ඇවිදීමට පුරුද්දක් ඇති කරගත්තා."
       },
       {
         "word": "sleep",
         "reading": "ස්ලීප්",
         "meaning": "නින්ද",
-        "example": "Although I have many tasks, I try to get enough sleep.",
-        "exampleReading": "ඔල්දෝ අයි හැව් මෙනි ටාස්ක්ස් අයි ට්‍රයි ටු ගෙට් ඉනෆ් ස්ලීප්.",
-        "translation": "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා."
+        "example": "Getting enough sleep helps me concentrate better.",
+        "exampleReading": "ගෙටින් ඉනෆ් ස්ලීප් හෙල්ප්ස් මී කොන්සන්ට්‍රේට් බෙටර්.",
+        "translation": "ප්‍රමාණවත් නින්දක් මට වඩා හොඳින් අවධානය යොමු කිරීමට උදව් කරනවා."
       },
       {
         "word": "exercise",
         "reading": "එක්සර්සයිස්",
         "meaning": "ව්‍යායාමය",
-        "example": "Based on experience, this approach may be useful.",
-        "exampleReading": "බේස්ඩ් ඔන් එක්ස්පීරියන්ස් දිස් ඇප්‍රෝච් මේ බී යූස්ෆුල්.",
-        "translation": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි."
+        "example": "Moderate exercise can improve your mood.",
+        "exampleReading": "මොඩරට් එක්සර්සයිස් කැන් ඉම්ප්‍රූව් යෝර් මූඩ්.",
+        "translation": "මධ්‍යස්ථ ව්‍යායාම මනෝභාවය වැඩිදියුණු කරන්න පුළුවන්."
       },
       {
         "word": "balanced",
         "reading": "බැලන්ස්ඩ්",
         "meaning": "සමබර",
-        "example": "Although I have many tasks, I try to get enough sleep.",
-        "exampleReading": "ඔල්දෝ අයි හැව් මෙනි ටාස්ක්ස් අයි ට්‍රයි ටු ගෙට් ඉනෆ් ස්ලීප්.",
-        "translation": "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා."
+        "example": "I try to eat a balanced and varied diet.",
+        "exampleReading": "අයි ට්‍රයි ටු ඊට් අ බැලන්ස්ට් ඇන්ඩ් වෙයරිඩ් ඩයට්.",
+        "translation": "මම සමබර හා විවිධ ආහාර වේලක් ගැනීමට උත්සාහ කරනවා."
       },
       {
         "word": "stress",
         "reading": "ස්ට්‍රෙස්",
         "meaning": "මානසික පීඩනය",
-        "example": "It is important to consider all the available options.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි අවේලබල් ඔප්ෂන්ස්.",
-        "translation": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්."
+        "example": "A short walk helps me reduce stress after work.",
+        "exampleReading": "අ ෂෝර්ට් වෝක් හෙල්ප්ස් මී රිඩියූස් ස්ට්‍රෙස් ආෆ්ටර් වර්ක්.",
+        "translation": "කෙටි ඇවිදීමක් වැඩෙන් පසු මානසික පීඩනය අඩු කරගැනීමට උදව් කරනවා."
       },
       {
         "word": "routine",
         "reading": "රූටීන්",
         "meaning": "දෛනික රටාව",
-        "example": "We can make a plan and adapt it to the situation.",
-        "exampleReading": "වී කෑන් මේක් අ ප්ලෑන් ඇන්ඩ් අඩැප්ට් ඉට් ටු දි සිචුවේෂන්.",
-        "translation": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි."
+        "example": "My evening routine includes reading a few pages.",
+        "exampleReading": "මයි ඊවිනින් රූටීන් ඉන්ක්ලූඩ්ස් රීඩින් අ ෆියු පේජස්.",
+        "translation": "මගේ සවස දෛනික රටාවට පිටු කිහිපයක් කියවීම ඇතුළත්."
       },
       {
         "word": "recovery",
         "reading": "රිකවරි",
         "meaning": "සුවය ලැබීම",
-        "example": "Based on experience, this approach may be useful.",
-        "exampleReading": "බේස්ඩ් ඔන් එක්ස්පීරියන්ස් දිස් ඇප්‍රෝච් මේ බී යූස්ෆුල්.",
-        "translation": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි."
+        "example": "After a hard workout, the body needs rest for recovery.",
+        "exampleReading": "ආෆ්ටර් අ හාඩ් වර්කවුට් දි බොඩි නීඩ්ස් රෙස්ට් ෆෝ රිකවරි.",
+        "translation": "වෙහෙසකර පුහුණුවකින් පසු ශරීරය යථා තත්ත්වයට පත්වීමට විවේකය අවශ්‍යයි."
       }
     ],
     "grammarTitle": "Grammar",
@@ -4281,65 +4281,65 @@ const englishB1Lessons = [
         "word": "tradition",
         "reading": "ට්‍රඩිෂන්",
         "meaning": "සම්ප්‍රදාය",
-        "example": "This tradition is passed down from one generation to another.",
-        "exampleReading": "දිස් ට්‍රඩිෂන් ඉස් පාස්ඩ් ඩවුන් ෆ්‍රම් වන් ජෙනරේෂන් ටු අනදර්.",
-        "translation": "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා."
+        "example": "Our family has a tradition of having Sunday lunch together.",
+        "exampleReading": "අවර් ෆැමිලි හැස් අ ට්‍රැඩිෂන් ඔෆ් හැවින් සන්ඩේ ලන්ච් ටුගෙදර්.",
+        "translation": "අපේ පවුලේ ඉරිදා එකට දිවා ආහාරය ගැනීමේ සම්ප්‍රදායක් තිබෙනවා."
       },
       {
         "word": "custom",
         "reading": "කස්ටම්",
         "meaning": "චාරිත්‍රය",
-        "example": "It is important to consider all the available options.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි අවේලබල් ඔප්ෂන්ස්.",
-        "translation": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්."
+        "example": "In Serbia, it is a custom to offer coffee to guests.",
+        "exampleReading": "ඉන් සර්බියා ඉට් ඉස් අ කස්ටම් ටු ඔෆර් කොෆී ටු ගෙස්ට්ස්.",
+        "translation": "සර්බියාවේ අමුත්තන්ට කෝපි පිරිනැමීම සිරිතක්."
       },
       {
         "word": "heritage",
         "reading": "හෙරිටේජ්",
         "meaning": "උරුමය",
-        "example": "We can make a plan and adapt it to the situation.",
-        "exampleReading": "වී කෑන් මේක් අ ප්ලෑන් ඇන්ඩ් අඩැප්ට් ඉට් ටු දි සිචුවේෂන්.",
-        "translation": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි."
+        "example": "The old fortress is an important part of the city's cultural heritage.",
+        "exampleReading": "දි ඕල්ඩ් ෆෝට්‍රස් ඉස් ඇන් ඉම්පෝර්ටන්ට් පාට් ඔෆ් දි සිටීස් කල්චරල් හෙරිටේජ්.",
+        "translation": "පැරණි බලකොටුව නගරයේ සංස්කෘතික උරුමයේ වැදගත් කොටසක්."
       },
       {
         "word": "generation",
         "reading": "ජෙනරේෂන්",
         "meaning": "පරම්පරාව",
-        "example": "This tradition is passed down from one generation to another.",
-        "exampleReading": "දිස් ට්‍රඩිෂන් ඉස් පාස්ඩ් ඩවුන් ෆ්‍රම් වන් ජෙනරේෂන් ටු අනදර්.",
-        "translation": "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා."
+        "example": "The younger generation often uses new ways to communicate.",
+        "exampleReading": "දි යංගර් ජෙනරේෂන් ඔෆන් යූසිස් නිව් වේස් ටු කමියුනිකේට්.",
+        "translation": "තරුණ පරම්පරාව බොහෝවිට සන්නිවේදනයේ නව ක්‍රම භාවිත කරනවා."
       },
       {
         "word": "celebration",
         "reading": "සෙලිබ්‍රේෂන්",
         "meaning": "උත්සවය",
-        "example": "This tradition is passed down from one generation to another.",
-        "exampleReading": "දිස් ට්‍රඩිෂන් ඉස් පාස්ඩ් ඩවුන් ෆ්‍රම් වන් ජෙනරේෂන් ටු අනදර්.",
-        "translation": "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා."
+        "example": "The family celebration begins on Saturday evening.",
+        "exampleReading": "දි ෆැමිලි සෙලිබ්‍රේෂන් බිගින්ස් ඔන් සැටර්ඩේ ඊවිනින්.",
+        "translation": "පවුලේ උත්සවය සෙනසුරාදා සවස ආරම්භ වෙනවා."
       },
       {
         "word": "costume",
         "reading": "කොස්ටියුම්",
         "meaning": "සාම්ප්‍රදායික ඇඳුම",
-        "example": "It is important to consider all the available options.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි අවේලබල් ඔප්ෂන්ස්.",
-        "translation": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්."
+        "example": "The performers wore traditional folk costumes at the festival.",
+        "exampleReading": "දි පර්ෆෝමර්ස් වෝර් ට්‍රැඩිෂනල් ෆෝක් කොස්ටියූම්ස් ඇට් දි ෆෙස්ටිවල්.",
+        "translation": "උත්සවයේදී රංගන ශිල්පීන් සාම්ප්‍රදායික ජන ඇඳුම් ඇඳ සිටියා."
       },
       {
         "word": "influence",
         "reading": "ඉන්ෆ්ලුවෙන්ස්",
         "meaning": "බලපෑම",
-        "example": "We can make a plan and adapt it to the situation.",
-        "exampleReading": "වී කෑන් මේක් අ ප්ලෑන් ඇන්ඩ් අඩැප්ට් ඉට් ටු දි සිචුවේෂන්.",
-        "translation": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි."
+        "example": "Family has a strong influence on a child's development.",
+        "exampleReading": "ෆැමිලි හැස් අ ස්ට්‍රොං ඉන්ෆ්ලුවන්ස් ඔන් අ චයිල්ඩ්ස් ඩිවෙලප්මන්ට්.",
+        "translation": "දරුවෙකුගේ වර්ධනයට පවුලෙන් විශාල බලපෑමක් ඇති වෙනවා."
       },
       {
         "word": "identity",
         "reading": "අයිඩෙන්ටිටි",
         "meaning": "අනන්‍යතාව",
-        "example": "Based on experience, this approach may be useful.",
-        "exampleReading": "බේස්ඩ් ඔන් එක්ස්පීරියන්ස් දිස් ඇප්‍රෝච් මේ බී යූස්ෆුල්.",
-        "translation": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි."
+        "example": "Language is an important part of personal and cultural identity.",
+        "exampleReading": "ලැන්ග්විජ් ඉස් ඇන් ඉම්පෝර්ටන්ට් පාට් ඔෆ් පර්සනල් ඇන්ඩ් කල්චරල් අයිඩෙන්ටිටි.",
+        "translation": "භාෂාව පුද්ගලික හා සංස්කෘතික අනන්‍යතාවයේ වැදගත් කොටසක්."
       }
     ],
     "grammarTitle": "Grammar",
