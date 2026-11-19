@@ -846,3 +846,16 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 1. Monitor Expo run `44565862650` and Android APK run `44565862576`; inspect and fix any remaining errors.
 2. If the standalone release APK is produced, download/install it and verify app launch, lesson navigation, TTS listening, quizzes, and age-gate navigation on Android.
 3. Continue Serbian B1 prompt/audio/translation QA and lesson-specific assessment improvements.
+
+
+## 2026-11-19 — B1 Serbian/English dialogue and quiz alignment audit
+- Structural audit passed for 50 Serbian and 50 English B1 lessons: each lesson has four practice items, valid answer indices, a listening object with valid answer index, and at least one example.
+- Content audit found a substantive mismatch in lessons 31–50: the final practice question asks what speaker B requests (Serbian track says B asks for an example; English track says the same), but the actual dialogue response is an agreement about making a better decision. The same dialogue response is repeated across all 20 lessons, and several later examples are generic/repeated.
+- Earlier repeated prompt patterns also appear in lessons 11–20 and 21–30. These need content-level repair, not just changing question wording.
+- No lesson content was changed in this audit; do not mark these issues resolved.
+
+### Next exact task
+1. Rewrite Serbian and English B1 lessons 31–50 dialogues so speaker B responds naturally to each lesson's topic-specific speaker A line.
+2. Rewrite practice item 4 in both tracks so the question, options, correct answer and explanation accurately test the revised B line; ensure the English and Serbian tracks remain paired.
+3. Replace repeated generic examples in lessons 31–50 with topic-specific examples and matching translations/readings, then run structural and duplicate-content checks.
+4. Finish Android APK run `44565978458`; Expo validation run `44565978392` passed. If APK succeeds, inspect artifact and test installation/runtime on Android.
