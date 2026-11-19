@@ -1126,3 +1126,20 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 1. Continue parser-aware A1 legacy lesson QA and C2 final-exam schema-specific checks.
 2. Re-run Expo and APK workflows once GitHub assigns hosted runners; diagnose only errors supported by actual logs.
 3. Review body-part Serbian/English naturalness and Sinhala readings with fluent speakers; test TTS and layout on an Android device after an APK is available.
+
+
+## 2026-11-19 — A1/C2 assessment QA automation and Serbian reading repair
+- Inspected the legacy A1 final assessment and C2 generated assessment module.
+- Found one mixed-script Serbian pronunciation in A1 final item `sr-a1-final-18`: `වොලිම් මුසිку.` contained Cyrillic characters. Corrected it to `වොලිම් මුසිකු.` in `a1FinalExams.js`. Commit: `6bac2a8b6c9987929c74f314a6a2826c6f530f54`.
+- Added `scripts/content-qa.mjs` to check A1/C2 assessment counts, unique IDs/options, non-empty prompts, answer-index bounds and Sinhala-only pronunciation readings for audio/vocabulary items. It covers 20 questions per language for A1 finals, 10 per language for C2 revision, and 20 per language for C2 finals.
+- Added `npm run qa:content` and inserted it into both workflows before dependency installation. Commits: script `b2ebcb4ecb757a7f3f01ff35e9b38fa37408cc65`, script fix `c1cb29ea5ab8ae7c20b4847d47570cf41b5f63f3`, package `33a9d97626b632cecbb02d98248427d33841811f`, Expo workflow `d2f405969865c5cfaf1f32b972b52c1f870e8429`, APK workflow `8fb6f928e4cb925c5e6ec960f9000d3c2c1c121b`.
+- Local validation: `node --check` passed for the QA script. The full script has not yet been executed against the repository files; it awaits an available CI runner or local checkout.
+- Corrected CI diagnosis: the user's GitHub Actions screenshot explicitly says jobs were not started because recent account payments failed or the spending limit needs to be increased. This is a billing/usage block, not evidence of a runner provisioning outage or application-code error. Billing showed $21.08 gross usage matched by $21.08 included usage, $0 billed, and quota reset in 12 days. Do not describe $21.08 as due; payment/budget status still needs review.
+- No Expo export, APK build, artifact upload, installation or device test has been completed for these commits. User asked to pause build attempts until quota reset and continue other app work meanwhile.
+
+### Next exact tasks
+1. Continue A1 legacy lesson QA: required fields, paired Serbian/English topic coverage, duplicate choices, answer indexes and audio/pronunciation references.
+2. Execute `npm run qa:content` when a runner or local checkout is available; fix findings before claiming it passes.
+3. Continue C2 assessment semantic QA, especially generated distractors and listening answer-key alignment.
+4. Avoid repeated build retries; revisit Expo/APK after quota reset and billing block resolution.
+5. Review body-part language/pronunciation with fluent speakers and test TTS/layout on Android after an APK is available.
