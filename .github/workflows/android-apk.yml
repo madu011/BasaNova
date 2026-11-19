@@ -60,16 +60,17 @@ jobs:
       - name: Generate native Android project
         run: npx expo prebuild --platform android --no-install --clean
 
-      - name: Build signed debug APK
+      - name: Build standalone release APK with embedded JavaScript bundle
         working-directory: android
         run: |
           chmod +x ./gradlew
-          ./gradlew assembleDebug
+          ./gradlew assembleRelease
+          test -s app/build/outputs/apk/release/app-release.apk
 
-      - name: Upload APK
+      - name: Upload standalone release APK
         uses: actions/upload-artifact@v4
         with:
-          name: basanova-android-debug-apk
-          path: android/app/build/outputs/apk/debug/app-debug.apk
+          name: basanova-android-release-apk
+          path: android/app/build/outputs/apk/release/app-release.apk
           if-no-files-found: error
           retention-days: 14
