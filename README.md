@@ -424,3 +424,7 @@ Corrected lessons 31–50 so English text, rather than Sinhala-script phonetic t
 
 ### Serbian B1 title localization — 2026-11-19
 All 50 Serbian B1 lesson titles have been localized into Serbian Latin script to match the Serbian course track. The lesson sequence and lesson IDs remain unchanged. Broader Serbian language review and Android testing are still pending; details are in `HANDOFF.md`.
+
+
+### Build issue correction — 2026-11-19
+A JSX syntax error in the 18+ language panel was found during Expo bundle export and fixed by wrapping adjacent elements in a React fragment. New Expo and Android release build runs have been triggered; their results and physical-device testing are still pending. See `HANDOFF.md`.
