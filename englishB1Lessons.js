@@ -1885,22 +1885,22 @@ export const ENGLISH_B1_LESSONS = [
     "dialogue": [
       {
         "text": "A: It may rain, but we will probably arrive on time.",
-        "reading": "ඒ: ඉට් මේ රේන් බට් වී විල් ප්‍රොබබ්ලි අරයිව් ඔන් ටයිම්.",
+        "reading": "A: ඉට් ම්ඒ ර්ඒන්, බ්අට් ව්එ ව්ඉල්ල් ප්ර්ඔබ්ඇබ්ල්යි ඇර්ර්ඉව්එ ඔන් ට්ඉම්එ.",
         "meaning": "It may rain, but we will probably arrive on time."
       },
       {
         "text": "B: Do you usually check the timetable before leaving?",
-        "reading": "B: Do you usually ච්eck ත්e timetable before leaviං?",
+        "reading": "B: ඩ්ඔ යිඅවු අස්අඇල්ල්යි ච්එක්ක් ත්එ ට්ඉම්එට්ඇබ්ල්එ බ්එෆ්ඔර්එ ල්ඊව්ඉං?",
         "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "text": "A: If there is traffic, we might take a taxi.",
-        "reading": "A: If ත්ere is traffic, we might take a taxi.",
+        "reading": "A: ඉෆ් ත්එර්එ ඉස් ට්ර්ඇෆ්ෆ්ඉක්, ව්එ ම්අයිට් ට්ඇක්එ ඇ ට්ඇක්ස්ඉ.",
         "meaning": "එය සාධාරණයි. පැමිණෙන වේලාව පරීක්ෂා කර ඉක්මන්ම විකල්පය තෝරමු."
       },
       {
         "text": "B: That makes sense. We will check the arrival time and choose the quickest option.",
-        "reading": "B: ත්at makes sense. We will ච්eck ත්e arrival time and ච්oose ත්e quickest option.",
+        "reading": "B: ත්ඇට් ම්ඇක්එස් ස්එන්ස්එ. ව්එ ව්ඉල්ල් ච්එක්ක් ත්එ ඇර්ර්ඉව්ඇල් ට්ඉම්එ ඇන්ඩ් ච්උස්එ ත්එ ක්වඉක්ක්එස්ට් ඔප්ෂන්.",
         "meaning": "ගමන් වේලාව පරීක්ෂා කර ඉක්මන්ම විකල්පය තෝරාගැනීම."
       }
     ],
@@ -2063,22 +2063,22 @@ export const ENGLISH_B1_LESSONS = [
     "dialogue": [
       {
         "text": "A: Regular revision helps us remember new words.",
-        "reading": "ඒ: රෙග්‍යුලර් රිවිෂන් හෙල්ප්ස් අස් රිමෙම්බර් න්‍යූ වර්ඩ්ස්.",
+        "reading": "A: ර්එග්අල්ඇර් ර්එව්ඉෂන් හ්එල්ප්ස් අස් ර්එම්එම්බ්එර් න්එව් ව්ඔර්ඩ්ස්.",
         "meaning": "Regular revision helps us remember new words."
       },
       {
         "text": "B: Does reading or conversation help you more?",
-        "reading": "B: Does readiං or conversation help you more?",
+        "reading": "B: ඩ්ඔඑස් ර්ඊඩ්ඉං ඔර් ක්ඔන්ව්එර්ස්ඇෂන් හ්එල්ප් යිඅවු ම්ඔර්එ?",
         "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "text": "A: I learn most when I use the language in conversation.",
-        "reading": "A: I learn most when I use ත්e laංuage in conversation.",
+        "reading": "A: ඉ ල්ඊර්න් ම්ඔස්ට් වඑන් ඉ අස්එ ත්එ ල්ඇංඅඇග්එ ඉන් ක්ඔන්ව්එර්ස්ඇෂන්.",
         "meaning": "එහෙනම් අපට හැමදාම කෙටි සංවාදයකින් පුහුණු වෙන්න පුළුවන්."
       },
       {
         "text": "B: Then we can practise through a short conversation every day.",
-        "reading": "B: ත්en we can practise ත්rough a ෂ්ort conversation every day.",
+        "reading": "B: ත්එන් ව්එ ක්ඇන් ප්ර්ඇක්ට්ඉස්එ ත්ර්අවුග්හ් ඇ ෂ්ඔර්ට් ක්ඔන්ව්එර්ස්ඇෂන් එව්එර්යි ඩ්ඒ.",
         "meaning": "දිනපතා කෙටි සංවාදයකින් පුහුණු වීම."
       }
     ],
@@ -2241,22 +2241,22 @@ export const ENGLISH_B1_LESSONS = [
     "dialogue": [
       {
         "text": "A: Because of the roadworks, the bus leaves from another stop.",
-        "reading": "ඒ: බිකෝස් ඔෆ් දි රෝඩ්වර්ක්ස් දි බස් ලීව්ස් ෆ්‍රම් අනදර් ස්ටොප්.",
+        "reading": "A: බ්එක්ඇඅස්එ ඔෆ් ත්එ ර්ඔඇඩ්ව්ඔර්ක්ස්, ත්එ බ්අස් ල්ඊව්එස් ෆ්ර්ඔම් ඇන්ඔත්එර් ස්ට්ඔප්.",
         "meaning": "Because of the roadworks, the bus leaves from another stop."
       },
       {
         "text": "B: Have you checked the time of the next departure?",
-        "reading": "B: Have you ච්ecked ත්e time of ත්e next departure?",
+        "reading": "B: හ්ඇව්එ යිඅවු ච්එක්ක්එඩ් ත්එ ට්ඉම්එ ඔෆ් ත්එ න්එක්ස්ට් ඩ්එප්ඇර්ට්අර්එ?",
         "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "text": "A: If we miss the train, we will check the next departure.",
-        "reading": "A: If we miss ත්e train, we will ච්eck ත්e next departure.",
+        "reading": "A: ඉෆ් ව්එ ම්ඉස්ස් ත්එ ට්ර්ඒන්, ව්එ ව්ඉල්ල් ච්එක්ක් ත්එ න්එක්ස්ට් ඩ්එප්ඇර්ට්අර්එ.",
         "meaning": "හොඳයි. එවිට කොපමණ වේලාවක් බලා සිටිය යුතුදැයි දැනගන්න පුළුවන්."
       },
       {
         "text": "B: Good. That way we will know how long we need to wait.",
-        "reading": "B: Good. ත්at way we will know how loං we need to wait.",
+        "reading": "B: ග්උඩ්. ත්ඇට් ව්ඒ ව්එ ව්ඉල්ල් ක්න්ඕ හ්ඕ ල්ඔං ව්එ න්ඊඩ් ට්ඔ ව්ඒට්.",
         "meaning": "ඊළඟ දුම්රිය පිටත්වන වේලාව පරීක්ෂා කිරීම."
       }
     ],
@@ -2419,22 +2419,22 @@ export const ENGLISH_B1_LESSONS = [
     "dialogue": [
       {
         "text": "A: I would like to make a complaint about the damaged product.",
-        "reading": "ඒ: අයි වුඩ් ලයික් ටු මේක් අ කම්ප්ලේන්ට් අබවුට් දි ඩැමජ්ඩ් ප්‍රොඩක්ට්.",
+        "reading": "A: ඉ ව්අවුල්ඩ් ල්ඉක්එ ට්ඔ ම්ඇක්එ ඇ ක්ඔම්ප්ල්ඒන්ට් ඇබ්අවුට් ත්එ ඩ්ඇම්ඇග්එඩ් ප්ර්ඔඩ්අක්ට්.",
         "meaning": "I would like to make a complaint about the damaged product."
       },
       {
         "text": "B: Do you have the receipt and a photo of the damage?",
-        "reading": "B: Do you have ත්e receipt and a ෆ්oto of ත්e damage?",
+        "reading": "B: ඩ්ඔ යිඅවු හ්ඇව්එ ත්එ ර්එක්එඉප්ට් ඇන්ඩ් ඇ ෆ්ඔට්ඔ ඔෆ් ත්එ ඩ්ඇම්ඇග්එ?",
         "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "text": "A: Please explain the available replacement options.",
-        "reading": "A: Please explain ත්e available replacement options.",
+        "reading": "A: ප්ල්ඊස්එ එක්ස්ප්ල්ඒන් ත්එ ඇව්ඒල්ඇබ්ල්එ ර්එප්ල්ඇක්එම්එන්ට් ඔප්ෂන්ස්.",
         "meaning": "ඇත්තෙන්ම. නීති අනුව භාණ්ඩය මාරු කිරීමක් හෝ මුදල් ආපසු ලබාගැනීමක් ඉල්ලන්න පුළුවන්."
       },
       {
         "text": "B: Of course. We can request a replacement or a refund according to the policy.",
-        "reading": "B: Of course. We can request a replacement or a refund accordiං to ත්e policy.",
+        "reading": "B: ඔෆ් ක්අවුර්ස්එ. ව්එ ක්ඇන් ර්එක්වඑස්ට් ඇ ර්එප්ල්ඇක්එම්එන්ට් ඔර් ඇ ර්එෆ්අන්ඩ් ඇක්ක්ඔර්ඩ්ඉං ට්ඔ ත්එ ප්ඔල්ඉක්යි.",
         "meaning": "භාණ්ඩය මාරු කිරීමක් හෝ මුදල් ආපසු ලබාගැනීමක් ඉල්ලීම."
       }
     ],
@@ -2597,22 +2597,22 @@ export const ENGLISH_B1_LESSONS = [
     "dialogue": [
       {
         "text": "A: First complete the form, then hand it to the officer.",
-        "reading": "ඒ: ෆර්ස්ට් කම්ප්ලීට් දි ෆෝම් දෙන් හැන්ඩ් ඉට් ටු දි ඔෆිසර්.",
+        "reading": "A: ෆ්ඉර්ස්ට් ක්ඔම්ප්ල්එට්එ ත්එ ෆ්ඔර්ම්, ත්එන් හ්ඇන්ඩ් ඉට් ට්ඔ ත්එ ඔෆ්ෆ්ඉක්එර්.",
         "meaning": "First complete the form, then hand it to the officer."
       },
       {
         "text": "B: Are the steps clear, and in what order should they be followed?",
-        "reading": "B: Are ත්e steps clear, and in what order ෂ්ould ත්ey be followed?",
+        "reading": "B: ඇර්එ ත්එ ස්ට්එප්ස් ක්ල්ඊර්, ඇන්ඩ් ඉන් වඇට් ඔර්ඩ්එර් ෂ්අවුල්ඩ් ත්එයි බ්එ ෆ්ඔල්ල්ඕඑඩ්?",
         "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "text": "A: After the device is switched on, wait a few seconds.",
-        "reading": "A: After ත්e device is switච්ed on, wait a few seconds.",
+        "reading": "A: ඇෆ්ට්එර් ත්එ ඩ්එව්ඉක්එ ඉස් ස්ව්ඉච්එඩ් ඔන්, ව්ඒට් ඇ ෆ්එව් ස්එක්ඔන්ඩ්ස්.",
         "meaning": "පියවර අනුපිළිවෙළට අනුගමනය කර ආරක්ෂක උපදෙස් මඟ නොහැරීම වැදගත්."
       },
       {
         "text": "B: It is important to follow the order and not skip safety instructions.",
-        "reading": "B: It is important to follow ත්e order and not skip safety instructions.",
+        "reading": "B: ඉට් ඉස් ඉම්ප්ඔර්ට්ඇන්ට් ට්ඔ ෆ්ඔල්ල්ඕ ත්එ ඔර්ඩ්එර් ඇන්ඩ් න්ඔට් ස්ක්ඉප් ස්ඇෆ්එට්යි ඉන්ස්ට්ර්අක්ෂන්ස්.",
         "meaning": "පියවර අනුපිළිවෙළට අනුගමනය කිරීම සහ ආරක්ෂක උපදෙස් පිළිපැදීම."
       }
     ],
@@ -2775,22 +2775,22 @@ export const ENGLISH_B1_LESSONS = [
     "dialogue": [
       {
         "text": "A: Our community is organising a park clean-up.",
-        "reading": "ඒ: අවර් කමියුනිටි ඉස් ඕගනයිසිං අ පාක් ක්ලීන් අප්.",
+        "reading": "A: අවුර් ක්ඔම්ම්අන්ඉට්යි ඉස් ඔර්ග්ඇන්ඉස්ඉං ඇ ප්ඇර්ක් ක්ල්ඊන්-අප්.",
         "meaning": "Our community is organising a park clean-up."
       },
       {
         "text": "B: How can residents take part in the activity?",
-        "reading": "B: How can residents take part in ත්e activity?",
+        "reading": "B: හ්ඕ ක්ඇන් ර්එස්ඉඩ්එන්ට්ස් ට්ඇක්එ ප්ඇර්ට් ඉන් ත්එ ඇක්ට්ඉව්ඉට්යි?",
         "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "text": "A: Residents can suggest solutions at the public meeting.",
-        "reading": "A: Residents can suggest solutions at ත්e public meetiං.",
+        "reading": "A: ර්එස්ඉඩ්එන්ට්ස් ක්ඇන් ස්අග්ග්එස්ට් ස්ඔල්අෂන්ස් ඇට් ත්එ ප්අබ්ල්ඉක් ම්ඊට්ඉං.",
         "meaning": "විශිෂ්ටයි. හැමෝටම සහභාගී විය හැකි ලෙස රැස්වීමේ වේලාව ප්‍රකාශ කරමු."
       },
       {
         "text": "B: Excellent. We will publish the meeting time so everyone can attend.",
-        "reading": "B: Excellent. We will publiෂ් ත්e meetiං time so everyone can attend.",
+        "reading": "B: එක්ස්ක්එල්ල්එන්ට්. ව්එ ව්ඉල්ල් ප්අබ්ල්ඉෂ් ත්එ ම්ඊට්ඉං ට්ඉම්එ ස්ඔ එව්එර්යිඔන්එ ක්ඇන් ඇට්ට්එන්ඩ්.",
         "meaning": "රැස්වීමේ වේලාව ප්‍රකාශ කර සියලු දෙනාට සහභාගී වීමට ඉඩ සැලසීම."
       }
     ],
@@ -2953,22 +2953,22 @@ export const ENGLISH_B1_LESSONS = [
     "dialogue": [
       {
         "text": "A: I am trying to create a balance between work and rest.",
-        "reading": "ඒ: අයි ඇම් ට්‍රයිං ටු ක්‍රියේට් අ බැලන්ස් බිට්වීන් වර්ක් ඇන්ඩ් රෙස්ට්.",
+        "reading": "A: ඉ ඇම් ට්ර්යිඉං ට්ඔ ක්ර්ඊට්එ ඇ බ්ඇල්ඇන්ක්එ බ්එට්ව්ඊන් ව්ඔර්ක් ඇන්ඩ් ර්එස්ට්.",
         "meaning": "I am trying to create a balance between work and rest."
       },
       {
         "text": "B: What takes up most of your free time?",
-        "reading": "B: What takes up most of your free time?",
+        "reading": "B: වඇට් ට්ඇක්එස් අප් ම්ඔස්ට් ඔෆ් යිඅවුර් ෆ්ර්ඊ ට්ඉම්එ?",
         "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "text": "A: If we plan our tasks in advance, we will have more free time.",
-        "reading": "A: If we plan our tasks in advance, we will have more free time.",
+        "reading": "A: ඉෆ් ව්එ ප්ල්ඇන් අවුර් ට්ඇස්ක්ස් ඉන් ඇඩ්ව්ඇන්ක්එ, ව්එ ව්ඉල්ල් හ්ඇව්එ ම්ඔර්එ ෆ්ර්ඊ ට්ඉම්එ.",
         "meaning": "අපට කාලසටහනක් සකස් කර විවේකයටත් කාලය වෙන් කරන්න පුළුවන්."
       },
       {
         "text": "B: We can make a schedule and leave time for rest.",
-        "reading": "B: We can make a sච්edule and leave time for rest.",
+        "reading": "B: ව්එ ක්ඇන් ම්ඇක්එ ඇ ස්ච්එඩ්අල්එ ඇන්ඩ් ල්ඊව්එ ට්ඉම්එ ෆ්ඔර් ර්එස්ට්.",
         "meaning": "කාලසටහනක් සකස් කර විවේකයට කාලය වෙන් කිරීම."
       }
     ],
@@ -3131,22 +3131,22 @@ export const ENGLISH_B1_LESSONS = [
     "dialogue": [
       {
         "text": "A: Public transport is often a more sustainable choice than a car.",
-        "reading": "ඒ: පබ්ලික් ට්‍රාන්ස්පෝට් ඉස් ඔෆන් අ මෝර් සස්ටේනබල් චොයිස් දෑන් අ කාර්.",
+        "reading": "A: ප්අබ්ල්ඉක් ට්ර්ඇන්ස්ප්ඔර්ට් ඉස් ඔෆ්ට්එන් ඇ ම්ඔර්එ ස්අස්ට්ඒන්ඇබ්ල්එ ච්ඔඉක්එ ත්ඇන් ඇ ක්ඇර්.",
         "meaning": "Public transport is often a more sustainable choice than a car."
       },
       {
         "text": "B: What small changes can we make at home?",
-        "reading": "B: What small ච්aංes can we make at home?",
+        "reading": "B: වඇට් ස්ම්ඇල්ල් ච්ඇංඑස් ක්ඇන් ව්එ ම්ඇක්එ ඇට් හ්ඔම්එ?",
         "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "text": "A: If we reduce waste, we protect natural resources.",
-        "reading": "A: If we reduce waste, we protect natural resources.",
+        "reading": "A: ඉෆ් ව්එ ර්එඩ්අක්එ ව්ඇස්ට්එ, ව්එ ප්ර්ඔට්එක්ට් න්ඇට්අර්ඇල් ර්එස්අවුර්ක්එස්.",
         "meaning": "අපට අපද්‍රව්‍ය වෙන් කර පොදු ප්‍රවාහනය වැඩිපුර භාවිත කළ හැකියි."
       },
       {
         "text": "B: We can separate waste and use public transport more often.",
-        "reading": "B: We can separate waste and use public transport more often.",
+        "reading": "B: ව්එ ක්ඇන් ස්එප්ඇර්ඇට්එ ව්ඇස්ට්එ ඇන්ඩ් අස්එ ප්අබ්ල්ඉක් ට්ර්ඇන්ස්ප්ඔර්ට් ම්ඔර්එ ඔෆ්ට්එන්.",
         "meaning": "අපද්‍රව්‍ය වෙන් කිරීම සහ පොදු ප්‍රවාහනය භාවිත කිරීම."
       }
     ],
@@ -3309,22 +3309,22 @@ export const ENGLISH_B1_LESSONS = [
     "dialogue": [
       {
         "text": "A: Because of heavy rain, the match was postponed.",
-        "reading": "ඒ: බිකෝස් ඔෆ් හෙවි රේන් දි මැච් වොස් පෝස්ට්පෝන්ඩ්.",
+        "reading": "A: බ්එක්ඇඅස්එ ඔෆ් හ්ඊව්යි ර්ඒන්, ත්එ ම්ඇච් ව්ඇස් ප්ඔස්ට්ප්ඔන්එඩ්.",
         "meaning": "Because of heavy rain, the match was postponed."
       },
       {
         "text": "B: Why was the match postponed?",
-        "reading": "B: Why was ත්e matච් postponed?",
+        "reading": "B: වයි ව්ඇස් ත්එ ම්ඇච් ප්ඔස්ට්ප්ඔන්එඩ්?",
         "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "text": "A: There was not enough time, so we changed the plan.",
-        "reading": "A: ත්ere was not enough time, so we ච්aංed ත්e plan.",
+        "reading": "A: ත්එර්එ ව්ඇස් න්ඔට් එන්අවුග්හ් ට්ඉම්එ, ස්ඔ ව්එ ච්ඇංඑඩ් ත්එ ප්ල්ඇන්.",
         "meaning": "තේරුණා. කාලය ප්‍රමාණවත් නොවීම වෙනස්කමේ ප්‍රධාන හේතුවයි."
       },
       {
         "text": "B: I understand. The lack of time was the main reason for the change.",
-        "reading": "B: I understand. ත්e lack of time was ත්e main reason for ත්e ච්aංe.",
+        "reading": "B: ඉ අන්ඩ්එර්ස්ට්ඇන්ඩ්. ත්එ ල්ඇක්ක් ඔෆ් ට්ඉම්එ ව්ඇස් ත්එ ම්ඒන් ර්ඊස්ඔන් ෆ්ඔර් ත්එ ච්ඇංඑ.",
         "meaning": "කාලය ප්‍රමාණවත් නොවීම ප්‍රධාන හේතුව බව පැහැදිලි කිරීම."
       }
     ],
@@ -3487,22 +3487,22 @@ export const ENGLISH_B1_LESSONS = [
     "dialogue": [
       {
         "text": "A: On the one hand, this option is cheaper; on the other hand, it is slower.",
-        "reading": "ඒ: ඔන් දි වන් හැන්ඩ් දිස් ඔප්ෂන් ඉස් චීපර් ඔන් දි අදර් හැන්ඩ් ඉට් ඉස් ස්ලෝවර්.",
+        "reading": "A: ඔන් ත්එ ඔන්එ හ්ඇන්ඩ්, ත්ඉස් ඔප්ෂන් ඉස් ච්ඊප්එර්; ඔන් ත්එ ඔත්එර් හ්ඇන්ඩ්, ඉට් ඉස් ස්ල්ඕඑර්.",
         "meaning": "On the one hand, this option is cheaper; on the other hand, it is slower."
       },
       {
         "text": "B: Which criterion is most important to you when choosing?",
-        "reading": "B: Whiච් criterion is most important to you when ච්oosiං?",
+        "reading": "B: වඉච් ක්ර්ඉට්එර්ඉඔන් ඉස් ම්ඔස්ට් ඉම්ප්ඔර්ට්ඇන්ට් ට්ඔ යිඅවු වඑන් ච්උස්ඉං?",
         "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "text": "A: In my opinion, the advantages outweigh the disadvantages.",
-        "reading": "A: In my opinion, ත්e advantages outweigh ත්e disadvantages.",
+        "reading": "A: ඉන් ම්යි ඔප්ඉන්ඉඔන්, ත්එ ඇඩ්ව්ඇන්ට්ඇග්එස් අවුට්ව්එඅයි ත්එ ඩ්ඉස්ඇඩ්ව්ඇන්ට්ඇග්එස්.",
         "meaning": "අවසාන තීරණයට පෙර මිල සහ වේගය සසඳමු."
       },
       {
         "text": "B: Let us compare the cost and speed before making the final decision.",
-        "reading": "B: Let us compare ත්e cost and speed before makiං ත්e final decision.",
+        "reading": "B: ල්එට් අස් ක්ඔම්ප්ඇර්එ ත්එ ක්ඔස්ට් ඇන්ඩ් ස්ප්ඊඩ් බ්එෆ්ඔර්එ ම්ඇක්ඉං ත්එ ෆ්ඉන්ඇල් ඩ්එක්ඉෂන්.",
         "meaning": "මිල සහ වේගය සසඳා අවසාන තීරණය ගැනීම."
       }
     ],
@@ -3665,22 +3665,22 @@ export const ENGLISH_B1_LESSONS = [
     "dialogue": [
       {
         "text": "A: I want to complete the course so that I can improve my skills.",
-        "reading": "A: අයි වොන්ට් ටු කම්ප්ලීට් දි කෝර්ස් සෝ දැට් අයි කෑන් ඉම්ප්‍රූව් මයි ස්කිල්ස්.",
+        "reading": "A: ඉ ව්ඇන්ට් ට්ඔ ක්ඔම්ප්ල්එට්එ ත්එ ක්අවුර්ස්එ ස්ඔ ත්ඇට් ඉ ක්ඇන් ඉම්ප්ර්ඔව්එ ම්යි ස්ක්ඉල්ල්ස්.",
         "meaning": "මගේ කුසලතා දියුණු කරගැනීමට පාඨමාලාව අවසන් කරන්න කැමතියි."
       },
       {
         "text": "B: Which course do you need for your work?",
-        "reading": "B: Whiච් course do you need for your work?",
+        "reading": "B: වඉච් ක්අවුර්ස්එ ඩ්ඔ යිඅවු න්ඊඩ් ෆ්ඔර් යිඅවුර් ව්ඔර්ක්?",
         "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "text": "A: It is important to choose a programme that fits my schedule and goals.",
-        "reading": "A: It is important to ච්oose a programme ත්at fits my sච්edule and goals.",
+        "reading": "A: ඉට් ඉස් ඉම්ප්ඔර්ට්ඇන්ට් ට්ඔ ච්උස්එ ඇ ප්ර්ඔග්ර්ඇම්ම්එ ත්ඇට් ෆ්ඉට්ස් ම්යි ස්ච්එඩ්අල්එ ඇන්ඩ් ග්ඔඇල්ස්.",
         "meaning": "එහෙනම් පාඨමාලාවේ අන්තර්ගතය, කාලය සහ මිල මුලින් සසඳමු."
       },
       {
         "text": "B: Then let us first compare the course content, duration and price.",
-        "reading": "B: ත්en let us first compare ත්e course content, duration and price.",
+        "reading": "B: ත්එන් ල්එට් අස් ෆ්ඉර්ස්ට් ක්ඔම්ප්ඇර්එ ත්එ ක්අවුර්ස්එ ක්ඔන්ට්එන්ට්, ඩ්අර්ඇෂන් ඇන්ඩ් ප්ර්ඉක්එ.",
         "meaning": "පාඨමාලාවේ අන්තර්ගතය, කාලය සහ මිල සසඳා බැලීම."
       }
     ],
@@ -3843,22 +3843,22 @@ export const ENGLISH_B1_LESSONS = [
     "dialogue": [
       {
         "text": "A: I use an app that helps me organise my tasks.",
-        "reading": "A: අයි යූස් ඇන් ඇප් දැට් හෙල්ප්ස් මී ඕගනයිස් මයි ටාස්ක්ස්.",
+        "reading": "A: ඉ අස්එ ඇන් ඇප්ප් ත්ඇට් හ්එල්ප්ස් ම්එ ඔර්ග්ඇන්ඉස්එ ම්යි ට්ඇස්ක්ස්.",
         "meaning": "මගේ වැඩ සංවිධානය කිරීමට උදව් කරන යෙදුමක් භාවිතා කරනවා."
       },
       {
         "text": "B: Which app features do you use most often?",
-        "reading": "B: Whiච් app features do you use most often?",
+        "reading": "B: වඉච් ඇප්ප් ෆ්ඊට්අර්එස් ඩ්ඔ යිඅවු අස්එ ම්ඔස්ට් ඔෆ්ට්එන්?",
         "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "text": "A: Reminders and the calendar help me organise tasks the most.",
-        "reading": "A: Reminders and ත්e calendar help me organise tasks ත්e most.",
+        "reading": "A: ර්එම්ඉන්ඩ්එර්ස් ඇන්ඩ් ත්එ ක්ඇල්එන්ඩ්ඇර් හ්එල්ප් ම්එ ඔර්ග්ඇන්ඉස්එ ට්ඇස්ක්ස් ත්එ ම්ඔස්ට්.",
         "meaning": "අපට දැනුම්දීම් සකස් කර සතිපතා කාලසටහනක් හදන්න පුළුවන්."
       },
       {
         "text": "B: We can set notifications and create a weekly schedule.",
-        "reading": "B: We can set notifications and create a weekly sච්edule.",
+        "reading": "B: ව්එ ක්ඇන් ස්එට් න්ඔට්ඉෆ්ඉක්ඇෂන්ස් ඇන්ඩ් ක්ර්ඊට්එ ඇ ව්ඊක්ල්යි ස්ච්එඩ්අල්එ.",
         "meaning": "දැනුම්දීම් සකස් කර සතිපතා කාලසටහනක් සෑදීම."
       }
     ],
@@ -4021,22 +4021,22 @@ export const ENGLISH_B1_LESSONS = [
     "dialogue": [
       {
         "text": "A: If I save regularly, I can plan for larger expenses.",
-        "reading": "A: ඉෆ් අයි සේව් රෙග්‍යුලර්ලි අයි කෑන් ප්ලෑන් ෆෝ ලාජර් එක්ස්පෙන්සිස්.",
+        "reading": "A: ඉෆ් ඉ ස්ඇව්එ ර්එග්අල්ඇර්ල්යි, ඉ ක්ඇන් ප්ල්ඇන් ෆ්ඔර් ල්ඇර්ග්එර් එක්ස්ප්එන්ස්එස්.",
         "meaning": "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්."
       },
       {
         "text": "B: How much money do you want to save each month?",
-        "reading": "B: How muච් money do you want to save eaච් monත්?",
+        "reading": "B: හ්ඕ ම්අච් ම්ඔන්එයි ඩ්ඔ යිඅවු ව්ඇන්ට් ට්ඔ ස්ඇව්එ ඊච් ම්ඔන්ත්?",
         "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "text": "A: I will set a realistic amount and put it aside from my salary automatically.",
-        "reading": "A: I will set a realistic amount and put it aside from my salary automatically.",
+        "reading": "A: ඉ ව්ඉල්ල් ස්එට් ඇ ර්ඊල්ඉස්ට්ඉක් ඇම්අවුන්ට් ඇන්ඩ් ප්අට් ඉට් ඇස්ඉඩ්එ ෆ්ර්ඔම් ම්යි ස්ඇල්ඇර්යි ඇඅට්ඔම්ඇට්ඉක්ඇල්ල්යි.",
         "meaning": "මුලින්ම මාසික අයවැයක් සකස් කර වියදම් නිරීක්ෂණය කිරීම හොඳයි."
       },
       {
         "text": "B: It is a good idea to make a monthly budget first and track expenses.",
-        "reading": "B: It is a good idea to make a monත්ly budget first and track expenses.",
+        "reading": "B: ඉට් ඉස් ඇ ග්උඩ් ඉඩ්ඊ ට්ඔ ම්ඇක්එ ඇ ම්ඔන්ත්ල්යි බ්අඩ්ග්එට් ෆ්ඉර්ස්ට් ඇන්ඩ් ට්ර්ඇක්ක් එක්ස්ප්එන්ස්එස්.",
         "meaning": "මාසික අයවැයක් සකස් කර වියදම් නිරීක්ෂණය කිරීම."
       }
     ],
@@ -4199,22 +4199,22 @@ export const ENGLISH_B1_LESSONS = [
     "dialogue": [
       {
         "text": "A: Although I have many tasks, I try to get enough sleep.",
-        "reading": "A: ඔල්දෝ අයි හැව් මෙනි ටාස්ක්ස් අයි ට්‍රයි ටු ගෙට් ඉනෆ් ස්ලීප්.",
+        "reading": "A: ඇල්ත්අවුග්හ් ඉ හ්ඇව්එ ම්ඇන්යි ට්ඇස්ක්ස්, ඉ ට්ර්යි ට්ඔ ග්එට් එන්අවුග්හ් ස්ල්ඊප්.",
         "meaning": "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා."
       },
       {
         "text": "B: How do you organise rest when you have many responsibilities?",
-        "reading": "B: How do you organise rest when you have many responsibilities?",
+        "reading": "B: හ්ඕ ඩ්ඔ යිඅවු ඔර්ග්ඇන්ඉස්එ ර්එස්ට් වඑන් යිඅවු හ්ඇව්එ ම්ඇන්යි ර්එස්ප්ඔන්ස්ඉබ්ඉල්ඉට්ඉඑස්?",
         "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "text": "A: I try to go to bed at the same time and take short breaks.",
-        "reading": "A: I try to go to bed at ත්e same time and take ෂ්ort breaks.",
+        "reading": "A: ඉ ට්ර්යි ට්ඔ ග්ඔ ට්ඔ බ්එඩ් ඇට් ත්එ ස්ඇම්එ ට්ඉම්එ ඇන්ඩ් ට්ඇක්එ ෂ්ඔර්ට් බ්ර්ඊක්ස්.",
         "meaning": "එය හොඳ පුරුද්දක්. නිතිපතා විවේකය සමස්ත යහපැවැත්මට උපකාරී වේ."
       },
       {
         "text": "B: That is a good habit. Regular rest can support overall well-being.",
-        "reading": "B: ත්at is a good habit. Regular rest can support overall well-beiං.",
+        "reading": "B: ත්ඇට් ඉස් ඇ ග්උඩ් හ්ඇබ්ඉට්. ර්එග්අල්ඇර් ර්එස්ට් ක්ඇන් ස්අප්ප්ඔර්ට් ඔව්එර්ඇල්ල් ව්එල්ල්-බ්එඉං.",
         "meaning": "නිතිපතා විවේකය සහ කෙටි විරාම පවත්වාගැනීම."
       }
     ],
@@ -4377,22 +4377,22 @@ export const ENGLISH_B1_LESSONS = [
     "dialogue": [
       {
         "text": "A: This tradition is passed down from one generation to another.",
-        "reading": "A: දිස් ට්‍රඩිෂන් ඉස් පාස්ඩ් ඩවුන් ෆ්‍රම් වන් ජෙනරේෂන් ටු අනදර්.",
+        "reading": "A: ත්ඉස් ට්ර්ඇඩ්ඉෂන් ඉස් ප්ඇස්ස්එඩ් ඩ්ඕන් ෆ්ර්ඔම් ඔන්එ ග්එන්එර්ඇෂන් ට්ඔ ඇන්ඔත්එර්.",
         "meaning": "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා."
       },
       {
         "text": "B: Which tradition is especially important to you?",
-        "reading": "B: Whiච් tradition is especially important to you?",
+        "reading": "B: වඉච් ට්ර්ඇඩ්ඉෂන් ඉස් එස්ප්එක්ඉඇල්ල්යි ඉම්ප්ඔර්ට්ඇන්ට් ට්ඔ යිඅවු?",
         "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "text": "A: Family gatherings are important because they connect us with older generations.",
-        "reading": "A: Family gaත්eriංs are important because ත්ey connect us wiත් older generations.",
+        "reading": "A: ෆ්ඇම්ඉල්යි ග්ඇත්එර්ඉංස් ඇර්එ ඉම්ප්ඔර්ට්ඇන්ට් බ්එක්ඇඅස්එ ත්එයි ක්ඔන්න්එක්ට් අස් ව්ඉත් ඔල්ඩ්එර් ග්එන්එර්ඇෂන්ස්.",
         "meaning": "සිරිත් විරිත් රැකගෙන ඒවායේ අර්ථය තරුණයන්ට පැහැදිලි කිරීම හොඳයි."
       },
       {
         "text": "B: It is good to preserve traditions and explain their meaning to younger people.",
-        "reading": "B: It is good to preserve traditions and explain ත්eir meaniං to youංer people.",
+        "reading": "B: ඉට් ඉස් ග්උඩ් ට්ඔ ප්ර්එස්එර්ව්එ ට්ර්ඇඩ්ඉෂන්ස් ඇන්ඩ් එක්ස්ප්ල්ඒන් ත්එඉර් ම්ඊන්ඉං ට්ඔ යිඅවුංඑර් ප්එඔප්ල්එ.",
         "meaning": "සිරිත් විරිත් රැකගෙන ඒවායේ අර්ථය අලුත් පරම්පරාවට පැහැදිලි කිරීම."
       }
     ],
@@ -4555,22 +4555,22 @@ export const ENGLISH_B1_LESSONS = [
     "dialogue": [
       {
         "text": "A: I have worked in sales and learned how to solve customer problems.",
-        "reading": "A: අයි හැව් වර්ක්ඩ් ඉන් සේල්ස් ඇන්ඩ් ලර්න්ඩ් හව් ටු සෝල්ව් කස්ටමර් ප්‍රොබ්ලම්ස්.",
+        "reading": "A: ඉ හ්ඇව්එ ව්ඔර්ක්එඩ් ඉන් ස්ඇල්එස් ඇන්ඩ් ල්ඊර්න්එඩ් හ්ඕ ට්ඔ ස්ඔල්ව්එ ක්අස්ට්ඔම්එර් ප්ර්ඔබ්ල්එම්ස්.",
         "meaning": "මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කරලා පාරිභෝගික ගැටලු විසඳන්න ඉගෙන ගත්තා."
       },
       {
         "text": "B: Which skill from your experience can you present to an employer?",
-        "reading": "B: Whiච් skill from your experience can you present to an employer?",
+        "reading": "B: වඉච් ස්ක්ඉල්ල් ෆ්ර්ඔම් යිඅවුර් එක්ස්ප්එර්ඉඑන්ක්එ ක්ඇන් යිඅවු ප්ර්එස්එන්ට් ට්ඔ ඇන් එම්ප්ල්ඔයිඑර්?",
         "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "text": "A: I learned to communicate with customers and solve their problems.",
-        "reading": "A: I learned to communicate wiත් customers and solve ත්eir problems.",
+        "reading": "A: ඉ ල්ඊර්න්එඩ් ට්ඔ ක්ඔම්ම්අන්ඉක්ඇට්එ ව්ඉත් ක්අස්ට්ඔම්එර්ස් ඇන්ඩ් ස්ඔල්ව්එ ත්එඉර් ප්ර්ඔබ්ල්එම්ස්.",
         "meaning": "ගැටලුවක් විසඳූ ආකාරය පෙන්වන නිශ්චිත උදාහරණයක් සූදානම් කරන්න."
       },
       {
         "text": "B: Prepare a specific example that shows how you solved a problem.",
-        "reading": "B: Prepare a specific example ත්at ෂ්ows how you solved a problem.",
+        "reading": "B: ප්ර්එප්ඇර්එ ඇ ස්ප්එක්ඉෆ්ඉක් එක්ස්ඇම්ප්ල්එ ත්ඇට් ෂ්ඕස් හ්ඕ යිඅවු ස්ඔල්ව්එඩ් ඇ ප්ර්ඔබ්ල්එම්.",
         "meaning": "පාරිභෝගික ගැටලුවක් විසඳූ නිශ්චිත උදාහරණයක් සූදානම් කිරීම."
       }
     ],
@@ -4733,22 +4733,22 @@ export const ENGLISH_B1_LESSONS = [
     "dialogue": [
       {
         "text": "A: I suggest that we listen to both sides before we decide.",
-        "reading": "A: අයි සජෙස්ට් දැට් වී ලිසන් ටු බෝත් සයිඩ්ස් බිෆෝර් වී ඩිසයිඩ්.",
+        "reading": "A: ඉ ස්අග්ග්එස්ට් ත්ඇට් ව්එ ල්ඉස්ට්එන් ට්ඔ බ්ඔත් ස්ඉඩ්එස් බ්එෆ්ඔර්එ ව්එ ඩ්එක්ඉඩ්එ.",
         "meaning": "තීරණය කිරීමට පෙර දෙපාර්ශ්වයටම සවන් දෙමු කියලා මම යෝජනා කරනවා."
       },
       {
         "text": "B: How can we resolve a disagreement in the meeting?",
-        "reading": "B: How can we resolve a disagreement in ත්e meetiං?",
+        "reading": "B: හ්ඕ ක්ඇන් ව්එ ර්එස්ඔල්ව්එ ඇ ඩ්ඉස්ඇග්ර්ඊම්එන්ට් ඉන් ත්එ ම්ඊට්ඉං?",
         "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "text": "A: I suggest that everyone explain their reasons, then we look for a compromise.",
-        "reading": "A: I suggest ත්at everyone explain ත්eir reasons, ත්en we look for a compromise.",
+        "reading": "A: ඉ ස්අග්ග්එස්ට් ත්ඇට් එව්එර්යිඔන්එ එක්ස්ප්ල්ඒන් ත්එඉර් ර්ඊස්ඔන්ස්, ත්එන් ව්එ ල්උක් ෆ්ඔර් ඇ ක්ඔම්ප්ර්ඔම්ඉස්එ.",
         "meaning": "එය සාධාරණ ක්‍රමයක්. එවිට දෙපාර්ශ්වයේම අදහස් සලකා බලන්න පුළුවන්."
       },
       {
         "text": "B: That is a fair approach. We will take both sides into account.",
-        "reading": "B: ත්at is a fair approaච්. We will take boත් sides into account.",
+        "reading": "B: ත්ඇට් ඉස් ඇ ෆ්ඒර් ඇප්ප්ර්ඔඇච්. ව්එ ව්ඉල්ල් ට්ඇක්එ බ්ඔත් ස්ඉඩ්එස් ඉන්ට්ඔ ඇක්ක්අවුන්ට්.",
         "meaning": "දෙපාර්ශ්වයේ අදහස් සලකා බලා සම්මුතියක් සෙවීම."
       }
     ],
@@ -4911,22 +4911,22 @@ export const ENGLISH_B1_LESSONS = [
     "dialogue": [
       {
         "text": "A: Before I share a story, I check the source and publication date.",
-        "reading": "A: බිෆෝර් අයි ෂෙයාර් අ ස්ටෝරි අයි චෙක් දි සෝර්ස් ඇන්ඩ් පබ්ලිකේෂන් ඩේට්.",
+        "reading": "A: බ්එෆ්ඔර්එ ඉ ෂ්ඇර්එ ඇ ස්ට්ඔර්යි, ඉ ච්එක්ක් ත්එ ස්අවුර්ක්එ ඇන්ඩ් ප්අබ්ල්ඉක්ඇෂන් ඩ්ඇට්එ.",
         "meaning": "ප්‍රවෘත්තියක් බෙදාගැනීමට පෙර මූලාශ්‍රය සහ පළ කළ දිනය පරීක්ෂා කරනවා."
       },
       {
         "text": "B: Which sources do you use to check whether a story is reliable?",
-        "reading": "B: Whiච් sources do you use to ච්eck wheත්er a story is reliable?",
+        "reading": "B: වඉච් ස්අවුර්ක්එස් ඩ්ඔ යිඅවු අස්එ ට්ඔ ච්එක්ක් වඑත්එර් ඇ ස්ට්ඔර්යි ඉස් ර්එල්ඉඇබ්ල්එ?",
         "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "text": "A: I compare several reliable media sources and check the publication date.",
-        "reading": "A: I compare several reliable media sources and ච්eck ත්e publication date.",
+        "reading": "A: ඉ ක්ඔම්ප්ඇර්එ ස්එව්එර්ඇල් ර්එල්ඉඇබ්ල්එ ම්එඩ්ඉඇ ස්අවුර්ක්එස් ඇන්ඩ් ච්එක්ක් ත්එ ප්අබ්ල්ඉක්ඇෂන් ඩ්ඇට්එ.",
         "meaning": "හොඳයි. ලේඛකයා සහ ලිපියේ සාක්ෂිත් පරීක්ෂා කිරීම වැදගත්."
       },
       {
         "text": "B: Good. It is important to check the author and the evidence in the article too.",
-        "reading": "B: Good. It is important to ච්eck ත්e auත්or and ත්e evidence in ත්e article too.",
+        "reading": "B: ග්උඩ්. ඉට් ඉස් ඉම්ප්ඔර්ට්ඇන්ට් ට්ඔ ච්එක්ක් ත්එ ඇඅත්ඔර් ඇන්ඩ් ත්එ එව්ඉඩ්එන්ක්එ ඉන් ත්එ ඇර්ට්ඉක්ල්එ ට්උ.",
         "meaning": "මූලාශ්‍ර කිහිපයක්, පළ කළ දිනය සහ සාක්ෂි පරීක්ෂා කිරීම."
       }
     ],
@@ -5089,22 +5089,22 @@ export const ENGLISH_B1_LESSONS = [
     "dialogue": [
       {
         "text": "A: As soon as we arrive at the hotel, we will leave our luggage and explore the city.",
-        "reading": "A: ඇස් සූන් ඇස් වී අරයිව් ඇට් දි හෝටෙල් වී විල් ලීව් අවර් ලගිජ් ඇන්ඩ් එක්ස්ප්ලෝර් දි සිටි.",
+        "reading": "A: ඇස් ස්උන් ඇස් ව්එ ඇර්ර්ඉව්එ ඇට් ත්එ හ්ඔට්එල්, ව්එ ව්ඉල්ල් ල්ඊව්එ අවුර් ල්අග්ග්ඇග්එ ඇන්ඩ් එක්ස්ප්ල්ඔර්එ ත්එ ක්ඉට්යි.",
         "meaning": "හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා."
       },
       {
         "text": "B: What would you like to visit first in that city?",
-        "reading": "B: What would you like to visit first in ත්at city?",
+        "reading": "B: වඇට් ව්අවුල්ඩ් යිඅවු ල්ඉක්එ ට්ඔ ව්ඉස්ඉට් ෆ්ඉර්ස්ට් ඉන් ත්ඇට් ක්ඉට්යි?",
         "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "text": "A: I would like to visit the old town and try local food.",
-        "reading": "A: I would like to visit ත්e old town and try local food.",
+        "reading": "A: ඉ ව්අවුල්ඩ් ල්ඉක්එ ට්ඔ ව්ඉස්ඉට් ත්එ ඔල්ඩ් ට්ඕන් ඇන්ඩ් ට්ර්යි ල්ඔක්ඇල් ෆ්උඩ්.",
         "meaning": "දර්ශනීය ස්ථාන විවෘත වේලාවන් පරීක්ෂා කර ගමන් මාර්ගයක් සැලසුම් කරමු."
       },
       {
         "text": "B: We can check the opening hours of attractions and plan a route.",
-        "reading": "B: We can ච්eck ත්e openiං hours of attractions and plan a route.",
+        "reading": "B: ව්එ ක්ඇන් ච්එක්ක් ත්එ ඔප්එන්ඉං හ්අවුර්ස් ඔෆ් ඇට්ට්ර්ඇක්ෂන්ස් ඇන්ඩ් ප්ල්ඇන් ඇ ර්අවුට්එ.",
         "meaning": "විවෘත වේලාවන් පරීක්ෂා කර ගමන් මාර්ගයක් සැලසුම් කිරීම."
       }
     ],
@@ -5267,22 +5267,22 @@ export const ENGLISH_B1_LESSONS = [
     "dialogue": [
       {
         "text": "A: When I moved, it took me time to get used to the new city.",
-        "reading": "A: වෙන් අයි මූව්ඩ් ඉට් ටුක් මී ටයිම් ටු ගෙට් යූස්ඩ් ටු දි න්‍යූ සිටි.",
+        "reading": "A: වඑන් ඉ ම්ඔව්එඩ්, ඉට් ට්උක් ම්එ ට්ඉම්එ ට්ඔ ග්එට් අස්එඩ් ට්ඔ ත්එ න්එව් ක්ඉට්යි.",
         "meaning": "මම පදිංචිය මාරු කළ විට අලුත් නගරයට හුරු වෙන්න කාලයක් ගත වුණා."
       },
       {
         "text": "B: What helped you most to get used to the new city?",
-        "reading": "B: What helped you most to get used to ත්e new city?",
+        "reading": "B: වඇට් හ්එල්ප්එඩ් යිඅවු ම්ඔස්ට් ට්ඔ ග්එට් අස්එඩ් ට්ඔ ත්එ න්එව් ක්ඉට්යි?",
         "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "text": "A: I met my neighbours and learned where important services are located.",
-        "reading": "A: I met my neighbours and learned where important services are located.",
+        "reading": "A: ඉ ම්එට් ම්යි න්එඅයිබ්අවුර්ස් ඇන්ඩ් ල්ඊර්න්එඩ් වඑර්එ ඉම්ප්ඔර්ට්ඇන්ට් ස්එර්ව්ඉක්එස් ඇර්එ ල්ඔක්ඇට්එඩ්.",
         "meaning": "අවට ප්‍රදේශය ටිකෙන් ටික හඳුනාගෙන අවශ්‍ය විට උදව් ඉල්ලීම හොඳයි."
       },
       {
         "text": "B: It is good to get to know the area gradually and ask for help when needed.",
-        "reading": "B: It is good to get to know ත්e area gradually and ask for help when needed.",
+        "reading": "B: ඉට් ඉස් ග්උඩ් ට්ඔ ග්එට් ට්ඔ ක්න්ඕ ත්එ ඇර්ඊ ග්ර්ඇඩ්අඇල්ල්යි ඇන්ඩ් ඇස්ක් ෆ්ඔර් හ්එල්ප් වඑන් න්ඊඩ්එඩ්.",
         "meaning": "අසල්වැසියන් හඳුනාගෙන වැදගත් සේවා ස්ථාන දැනගැනීම."
       }
     ],
