@@ -39,53 +39,6 @@ export const ENGLISH_A1_LESSONS = [
  }
 
  ,
-{
-  id:"en-a1-u3-l1",
-  unit:"කැෆේ සහ ආහාර ඇණවුම් කිරීම",
-  title: "පාඩම 3 · Ordering at a café",
-  objective:"කැෆේ එකකින් මෙනුව ඉල්ලීම, ආහාර සහ පානයක් ඇණවුම් කිරීම, විශේෂ අවශ්‍යතාවක් පැවසීම සහ බිල ඉල්ලීම.",
-  vocabulary:[
-   {word:"Menu",reading:"මෙනියු",meaning:"ආහාර මෙනුව",example:"Could I see the menu, please?",exampleReading:"කුඩ් අයි සී ද මෙනියු, ප්ලීස්?",translation:"කරුණාකර මට මෙනුව බලන්න පුළුවන්ද?"},
-   {word:"I'd like...",reading:"අයිඩ් ලයික්",meaning:"මට ... අවශ්‍යයි",example:"I'd like a coffee, please.",exampleReading:"අයිඩ් ලයික් අ කොෆී, ප්ලීස්.",translation:"මට කෝපි එකක් අවශ්‍යයි, කරුණාකර."},
-   {word:"Order",reading:"ඕඩර්",meaning:"ඇණවුම / ඇණවුම් කිරීම",example:"I'd like to order now.",exampleReading:"අයිඩ් ලයික් ටු ඕඩර් නව්.",translation:"මට දැන් ඇණවුම් කරන්න ඕනේ."},
-   {word:"A sandwich",reading:"අ සැන්ඩ්විච්",meaning:"සැන්ඩ්විච් එකක්",example:"Can I have a sandwich?",exampleReading:"කැන් අයි හැව් අ සැන්ඩ්විච්?",translation:"මට සැන්ඩ්විච් එකක් ගන්න පුළුවන්ද?"},
-   {word:"Without sugar",reading:"විදවුට් ෂුගර්",meaning:"සීනි නැතුව",example:"Tea without sugar, please.",exampleReading:"ටී විදවුට් ෂුගර්, ප්ලීස්.",translation:"සීනි නැති තේ, කරුණාකර."},
-   {word:"Without milk",reading:"විදවුට් මිල්ක්",meaning:"කිරි නැතුව",example:"Coffee without milk, please.",exampleReading:"කොෆී විදවුට් මිල්ක්, ප්ලීස්.",translation:"කිරි නැති කෝපි, කරුණාකර."},
-   {word:"For here",reading:"ෆෝර් හියර්",meaning:"මෙතැනදී භාවිතයට",example:"Is that for here or to go?",exampleReading:"ඉස් දැට් ෆෝර් හියර් ඕර් ටු ගෝ?",translation:"ඒක මෙතැනටද නැත්නම් ගෙන යන්නද?"},
-   {word:"To go",reading:"ටු ගෝ",meaning:"ගෙන යාමට",example:"Two coffees to go, please.",exampleReading:"ටූ කොෆීස් ටු ගෝ, ප්ලීස්.",translation:"ගෙන යන්න කෝපි දෙකක්, කරුණාකර."},
-   {word:"The bill",reading:"ද බිල්",meaning:"බිල",example:"Could I have the bill, please?",exampleReading:"කුඩ් අයි හැව් ද බිල්, ප්ලීස්?",translation:"කරුණාකර බිල දෙන්න පුළුවන්ද?"}
-  ],
-  grammarTitle:"ව්‍යාකරණය · ආචාරශීලීව ඇණවුම් කිරීම",
-  grammar:"කැෆේ එකක යමක් ඉල්ලීමට “I'd like ...” හෝ “Could I have ...?” යොදාගන්න. “Without” යනු නැතුව / රහිතව යන්නයි. කෑම මෙතැනදී ගන්නවාද නැත්නම් ගෙන යනවාද කියා “For here or to go?” අසන්න පුළුවන්.",
-  grammarTerms:[
-   {text:"I'd like a coffee, please.",reading:"අයිඩ් ලයික් අ කොෆී, ප්ලීස්.",meaning:"මට කෝපි එකක් අවශ්‍යයි, කරුණාකර."},
-   {text:"Could I see the menu?",reading:"කුඩ් අයි සී ද මෙනියු?",meaning:"මට මෙනුව බලන්න පුළුවන්ද?"},
-   {text:"Without milk",reading:"විදවුට් මිල්ක්",meaning:"කිරි නැතුව"},
-   {text:"For here or to go?",reading:"ෆෝර් හියර් ඕර් ටු ගෝ?",meaning:"මෙතැනටද නැත්නම් ගෙන යන්නද?"},
-   {text:"Could I have the bill?",reading:"කුඩ් අයි හැව් ද බිල්?",meaning:"මට බිල දෙන්න පුළුවන්ද?"}
-  ],
-  examples:[
-   {text:"Good afternoon. I'd like a tea without sugar, please.",reading:"ගුඩ් ආෆ්ටර්නූන්. අයිඩ් ලයික් අ ටී විදවුට් ෂුගර්, ප්ලීස්.",meaning:"සුබ දහවල්. මට සීනි නැති තේ එකක් අවශ්‍යයි, කරුණාකර."},
-   {text:"Could I have a chicken sandwich?",reading:"කුඩ් අයි හැව් අ චිකන් සැන්ඩ්විච්?",meaning:"මට චිකන් සැන්ඩ්විච් එකක් ගන්න පුළුවන්ද?"},
-   {text:"For here, please.",reading:"ෆෝර් හියර්, ප්ලීස්.",meaning:"මෙතැනදී ගන්නවා, කරුණාකර."},
-   {text:"Could I have the bill, please?",reading:"කුඩ් අයි හැව් ද බිල්, ප්ලීස්?",meaning:"කරුණාකර බිල දෙන්න පුළුවන්ද?"}
-  ],
-  dialogue:[
-   {text:"Good afternoon! Are you ready to order?",reading:"ගුඩ් ආෆ්ටර්නූන්! ආර් යූ රෙඩි ටු ඕඩර්?",meaning:"සුබ දහවල්! ඔබ ඇණවුම් කරන්න සූදානම්ද?"},
-   {text:"Yes. Could I see the menu, please?",reading:"යෙස්. කුඩ් අයි සී ද මෙනියු, ප්ලීස්?",meaning:"ඔව්. කරුණාකර මට මෙනුව බලන්න පුළුවන්ද?"},
-   {text:"Of course. What would you like?",reading:"අව් කෝර්ස්. වොට් වුඩ් යූ ලයික්?",meaning:"අනිවාර්යයෙන්ම. ඔබට මොනවාද අවශ්‍ය?"},
-   {text:"I'd like a coffee and a sandwich.",reading:"අයිඩ් ලයික් අ කොෆී ඇන්ඩ් අ සැන්ඩ්විච්.",meaning:"මට කෝපි එකක් සහ සැන්ඩ්විච් එකක් අවශ්‍යයි."},
-   {text:"For here or to go?",reading:"ෆෝර් හියර් ඕර් ටු ගෝ?",meaning:"මෙතැනටද නැත්නම් ගෙන යන්නද?"},
-   {text:"To go, please. And the bill?",reading:"ටු ගෝ, ප්ලීස්. ඇන්ඩ් ද බිල්?",meaning:"ගෙන යන්න, කරුණාකර. බිලත් දෙන්න."}
-  ],
-  listeningPractice:{prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “I'd like a coffee without milk, please.”",audio:"I'd like a coffee without milk, please.",options:["මට කිරි නැති කෝපි එකක් අවශ්‍යයි, කරුණාකර.","මට සීනි නැති තේ එකක් අවශ්‍යයි.","මට බිල ගෙවන්න බැහැ."],readings:["අයිඩ් ලයික් අ කොෆී විදවුට් මිල්ක්, ප්ලීස්.","අයිඩ් ලයික් අ ටී විදවුට් ෂුගර්, ප්ලීස්.","අයි කෑන්ට් පේ ද බිල්."],answer:0,meaning:"I'd like a coffee without milk, please. = මට කිරි නැති කෝපි එකක් අවශ්‍යයි, කරුණාකර."},
-  practice:[
-   {prompt:"“මට කෝපි එකක් අවශ්‍යයි” කියන විනීත වාක්‍යය තෝරන්න.",options:["I'd like a coffee, please.","Where is the station?","I am late."],readings:["අයිඩ් ලයික් අ කොෆී, ප්ලීස්.","වෙයාර් ඉස් ද ස්ටේෂන්?","අයි ඇම් ලේට්."],answer:0,explanation:"I'd like ... යනු මට ... අවශ්‍යයි යන විනීත රටාවයි."},
-   {prompt:"“කිරි නැතුව” කියන අර්ථය කුමක්ද?",options:["For here","Without milk","To go"],readings:["ෆෝර් හියර්","විදවුට් මිල්ක්","ටු ගෝ"],answer:1,explanation:"Without milk = කිරි නැතුව."},
-   {prompt:"මෙනුව ඉල්ලීමට සුදුසු ප්‍රශ්නය?",options:["Could I see the menu?","What time is it?","How old are you?"],readings:["කුඩ් අයි සී ද මෙනියු?","වොට් ටයිම් ඉස් ඉට්?","හවු ඕල්ඩ් ආ යූ?"],answer:0,explanation:"Could I ...? යනු විනීතව ඉල්ලීමක් කරන රටාවකි."},
-   {prompt:"බිල ඉල්ලීමට නිවැරදි වාක්‍යය තෝරන්න.",options:["Could I have the bill, please?","I need a map.","See you tomorrow."],readings:["කුඩ් අයි හැව් ද බිල්, ප්ලීස්?","අයි නීඩ් අ මැප්.","සී යූ ටුමාරෝ."],answer:0,explanation:"Could I have the bill, please? = කරුණාකර බිල දෙන්න පුළුවන්ද?"}
-  ]
- },
 {id:"en-a1-u1-l3",unit:"අංක සහ වේලාව",title: "පාඩම 4 · Numbers and time",objective:"මූලික අංක කියීම, වේලාව විමසීම සහ සරල වේලාවක් පැවසීම",
  vocabulary:[
  {word:"One",reading:"වන්",meaning:"එක",example:"I have one ticket.",exampleReading:"අයි හැව් වන් ටිකිට්.",translation:"මට ටිකට් එකක් තියෙනවා."},
@@ -424,6 +377,53 @@ export const ENGLISH_A1_LESSONS = [
  }
 
  ,
+{
+  id:"en-a1-u3-l1",
+  unit:"කැෆේ සහ ආහාර ඇණවුම් කිරීම",
+  title: "පාඩම 3 · Ordering at a café",
+  objective:"කැෆේ එකකින් මෙනුව ඉල්ලීම, ආහාර සහ පානයක් ඇණවුම් කිරීම, විශේෂ අවශ්‍යතාවක් පැවසීම සහ බිල ඉල්ලීම.",
+  vocabulary:[
+   {word:"Menu",reading:"මෙනියු",meaning:"ආහාර මෙනුව",example:"Could I see the menu, please?",exampleReading:"කුඩ් අයි සී ද මෙනියු, ප්ලීස්?",translation:"කරුණාකර මට මෙනුව බලන්න පුළුවන්ද?"},
+   {word:"I'd like...",reading:"අයිඩ් ලයික්",meaning:"මට ... අවශ්‍යයි",example:"I'd like a coffee, please.",exampleReading:"අයිඩ් ලයික් අ කොෆී, ප්ලීස්.",translation:"මට කෝපි එකක් අවශ්‍යයි, කරුණාකර."},
+   {word:"Order",reading:"ඕඩර්",meaning:"ඇණවුම / ඇණවුම් කිරීම",example:"I'd like to order now.",exampleReading:"අයිඩ් ලයික් ටු ඕඩර් නව්.",translation:"මට දැන් ඇණවුම් කරන්න ඕනේ."},
+   {word:"A sandwich",reading:"අ සැන්ඩ්විච්",meaning:"සැන්ඩ්විච් එකක්",example:"Can I have a sandwich?",exampleReading:"කැන් අයි හැව් අ සැන්ඩ්විච්?",translation:"මට සැන්ඩ්විච් එකක් ගන්න පුළුවන්ද?"},
+   {word:"Without sugar",reading:"විදවුට් ෂුගර්",meaning:"සීනි නැතුව",example:"Tea without sugar, please.",exampleReading:"ටී විදවුට් ෂුගර්, ප්ලීස්.",translation:"සීනි නැති තේ, කරුණාකර."},
+   {word:"Without milk",reading:"විදවුට් මිල්ක්",meaning:"කිරි නැතුව",example:"Coffee without milk, please.",exampleReading:"කොෆී විදවුට් මිල්ක්, ප්ලීස්.",translation:"කිරි නැති කෝපි, කරුණාකර."},
+   {word:"For here",reading:"ෆෝර් හියර්",meaning:"මෙතැනදී භාවිතයට",example:"Is that for here or to go?",exampleReading:"ඉස් දැට් ෆෝර් හියර් ඕර් ටු ගෝ?",translation:"ඒක මෙතැනටද නැත්නම් ගෙන යන්නද?"},
+   {word:"To go",reading:"ටු ගෝ",meaning:"ගෙන යාමට",example:"Two coffees to go, please.",exampleReading:"ටූ කොෆීස් ටු ගෝ, ප්ලීස්.",translation:"ගෙන යන්න කෝපි දෙකක්, කරුණාකර."},
+   {word:"The bill",reading:"ද බිල්",meaning:"බිල",example:"Could I have the bill, please?",exampleReading:"කුඩ් අයි හැව් ද බිල්, ප්ලීස්?",translation:"කරුණාකර බිල දෙන්න පුළුවන්ද?"}
+  ],
+  grammarTitle:"ව්‍යාකරණය · ආචාරශීලීව ඇණවුම් කිරීම",
+  grammar:"කැෆේ එකක යමක් ඉල්ලීමට “I'd like ...” හෝ “Could I have ...?” යොදාගන්න. “Without” යනු නැතුව / රහිතව යන්නයි. කෑම මෙතැනදී ගන්නවාද නැත්නම් ගෙන යනවාද කියා “For here or to go?” අසන්න පුළුවන්.",
+  grammarTerms:[
+   {text:"I'd like a coffee, please.",reading:"අයිඩ් ලයික් අ කොෆී, ප්ලීස්.",meaning:"මට කෝපි එකක් අවශ්‍යයි, කරුණාකර."},
+   {text:"Could I see the menu?",reading:"කුඩ් අයි සී ද මෙනියු?",meaning:"මට මෙනුව බලන්න පුළුවන්ද?"},
+   {text:"Without milk",reading:"විදවුට් මිල්ක්",meaning:"කිරි නැතුව"},
+   {text:"For here or to go?",reading:"ෆෝර් හියර් ඕර් ටු ගෝ?",meaning:"මෙතැනටද නැත්නම් ගෙන යන්නද?"},
+   {text:"Could I have the bill?",reading:"කුඩ් අයි හැව් ද බිල්?",meaning:"මට බිල දෙන්න පුළුවන්ද?"}
+  ],
+  examples:[
+   {text:"Good afternoon. I'd like a tea without sugar, please.",reading:"ගුඩ් ආෆ්ටර්නූන්. අයිඩ් ලයික් අ ටී විදවුට් ෂුගර්, ප්ලීස්.",meaning:"සුබ දහවල්. මට සීනි නැති තේ එකක් අවශ්‍යයි, කරුණාකර."},
+   {text:"Could I have a chicken sandwich?",reading:"කුඩ් අයි හැව් අ චිකන් සැන්ඩ්විච්?",meaning:"මට චිකන් සැන්ඩ්විච් එකක් ගන්න පුළුවන්ද?"},
+   {text:"For here, please.",reading:"ෆෝර් හියර්, ප්ලීස්.",meaning:"මෙතැනදී ගන්නවා, කරුණාකර."},
+   {text:"Could I have the bill, please?",reading:"කුඩ් අයි හැව් ද බිල්, ප්ලීස්?",meaning:"කරුණාකර බිල දෙන්න පුළුවන්ද?"}
+  ],
+  dialogue:[
+   {text:"Good afternoon! Are you ready to order?",reading:"ගුඩ් ආෆ්ටර්නූන්! ආර් යූ රෙඩි ටු ඕඩර්?",meaning:"සුබ දහවල්! ඔබ ඇණවුම් කරන්න සූදානම්ද?"},
+   {text:"Yes. Could I see the menu, please?",reading:"යෙස්. කුඩ් අයි සී ද මෙනියු, ප්ලීස්?",meaning:"ඔව්. කරුණාකර මට මෙනුව බලන්න පුළුවන්ද?"},
+   {text:"Of course. What would you like?",reading:"අව් කෝර්ස්. වොට් වුඩ් යූ ලයික්?",meaning:"අනිවාර්යයෙන්ම. ඔබට මොනවාද අවශ්‍ය?"},
+   {text:"I'd like a coffee and a sandwich.",reading:"අයිඩ් ලයික් අ කොෆී ඇන්ඩ් අ සැන්ඩ්විච්.",meaning:"මට කෝපි එකක් සහ සැන්ඩ්විච් එකක් අවශ්‍යයි."},
+   {text:"For here or to go?",reading:"ෆෝර් හියර් ඕර් ටු ගෝ?",meaning:"මෙතැනටද නැත්නම් ගෙන යන්නද?"},
+   {text:"To go, please. And the bill?",reading:"ටු ගෝ, ප්ලීස්. ඇන්ඩ් ද බිල්?",meaning:"ගෙන යන්න, කරුණාකර. බිලත් දෙන්න."}
+  ],
+  listeningPractice:{prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “I'd like a coffee without milk, please.”",audio:"I'd like a coffee without milk, please.",options:["මට කිරි නැති කෝපි එකක් අවශ්‍යයි, කරුණාකර.","මට සීනි නැති තේ එකක් අවශ්‍යයි.","මට බිල ගෙවන්න බැහැ."],readings:["අයිඩ් ලයික් අ කොෆී විදවුට් මිල්ක්, ප්ලීස්.","අයිඩ් ලයික් අ ටී විදවුට් ෂුගර්, ප්ලීස්.","අයි කෑන්ට් පේ ද බිල්."],answer:0,meaning:"I'd like a coffee without milk, please. = මට කිරි නැති කෝපි එකක් අවශ්‍යයි, කරුණාකර."},
+  practice:[
+   {prompt:"“මට කෝපි එකක් අවශ්‍යයි” කියන විනීත වාක්‍යය තෝරන්න.",options:["I'd like a coffee, please.","Where is the station?","I am late."],readings:["අයිඩ් ලයික් අ කොෆී, ප්ලීස්.","වෙයාර් ඉස් ද ස්ටේෂන්?","අයි ඇම් ලේට්."],answer:0,explanation:"I'd like ... යනු මට ... අවශ්‍යයි යන විනීත රටාවයි."},
+   {prompt:"“කිරි නැතුව” කියන අර්ථය කුමක්ද?",options:["For here","Without milk","To go"],readings:["ෆෝර් හියර්","විදවුට් මිල්ක්","ටු ගෝ"],answer:1,explanation:"Without milk = කිරි නැතුව."},
+   {prompt:"මෙනුව ඉල්ලීමට සුදුසු ප්‍රශ්නය?",options:["Could I see the menu?","What time is it?","How old are you?"],readings:["කුඩ් අයි සී ද මෙනියු?","වොට් ටයිම් ඉස් ඉට්?","හවු ඕල්ඩ් ආ යූ?"],answer:0,explanation:"Could I ...? යනු විනීතව ඉල්ලීමක් කරන රටාවකි."},
+   {prompt:"බිල ඉල්ලීමට නිවැරදි වාක්‍යය තෝරන්න.",options:["Could I have the bill, please?","I need a map.","See you tomorrow."],readings:["කුඩ් අයි හැව් ද බිල්, ප්ලීස්?","අයි නීඩ් අ මැප්.","සී යූ ටුමාරෝ."],answer:0,explanation:"Could I have the bill, please? = කරුණාකර බිල දෙන්න පුළුවන්ද?"}
+  ]
+ },
 {
   id:"en-a1-u3-l3",
   unit:"වෙළඳපොළ සහ ප්‍රමාණ",
