@@ -115,3 +115,11 @@ GitHub Actions Android debug APK build run [44552002628](https://github.com/madu
 - Static source scan: each language has a listening task and five practice prompts in all 10 lessons; vocabulary counts are 8 per lesson except English lesson 37, which has 9.
 - Removed 33 repeated-comma separators in `serbianLessons.js` that introduced empty array slots. Commit: `80516b2f290d952382497db367ec5c5fc10e3ebb`.
 - The scan confirms zero remaining repeated-comma runs. This is not a JavaScript parser or end-to-end QA pass; the full QA script, Expo/TTS runtime and Android testing remain pending. Pronunciation readings are approximate and require fluent-speaker review.
+
+
+## 2026-11-19 follow-up — A1 lessons 41–50 paired audit and example repair
+- Reviewed Serbian and English A1 lessons 41–50. Topic sequence aligns across city directions, workplace safety, dates/months, numbers/time/money, public transport, doctor visits, everyday questions, grammar review, daily conversation and final listening/speaking.
+- Each lesson 41–50 has 8 vocabulary entries, 5 practice questions and one listening task in both tracks. All lesson IDs and progress keys were preserved.
+- Found word-only vocabulary examples in review lessons 43–50. Replaced 64 Serbian + 64 English examples with contextual sentences already present in each lesson's examples section, and synchronized the Sinhala meaning/translation plus `exampleReading`. Two final entries that still echoed the headword were changed to alternate contextual sentences.
+- Static scan confirms 50 lesson IDs in each A1 track, 10/10 listening tasks and 5 practice questions per language in lessons 41–50, and no remaining headword-only examples in lessons 43–50. The `reading`/`exampleReading` scan for those review vocabulary entries found no missing Sinhala script or Latin/Cyrillic contamination.
+- This is a source-level audit only. The full Node QA script/parser, Expo runtime, TTS playback, Android build and physical-device testing remain pending. Lessons 41–42 contain legacy unquoted object keys and were inspected as JavaScript source rather than parsed as JSON. Sinhala pronunciation is approximate and needs fluent-speaker review.
