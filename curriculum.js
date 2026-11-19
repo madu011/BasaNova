@@ -183,3 +183,15 @@ export const C2_BATCH_21_30_STATUS = {
   remainingC2Lessons: 20,
   remainingValidation: ["fluent-speaker review of advanced Serbian and English nuance", "review Sinhala-script pronunciation and translations", "add cumulative C2 revision and final practice assessment after lesson 50", "CI, Expo build and Android device verification"]
 };
+
+
+// Paired C2 lesson batch 31–40 is authored and integrated in the Learn screen.
+export const C2_BATCH_31_40_STATUS = {
+  completed: true,
+  lessons: { Serbian: 40, English: 40 },
+  pairedLessons: 40,
+  totalAuthoredC2Records: 80,
+  nextBatch: "C2 lessons 41–50",
+  remainingC2Lessons: 10,
+  remainingValidation: ["fluent-speaker review of advanced Serbian and English nuance", "review Sinhala-script pronunciation and translations", "add cumulative C2 revision and final practice assessment after lesson 50", "CI, Expo build and Android device verification"]
+};
