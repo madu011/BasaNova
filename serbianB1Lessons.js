@@ -5352,7 +5352,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "සොයාගැනීම",
         "example": "A: Naučna otkrića menjaju način na koji razumemo svet.",
         "translation": "විද්‍යාත්මක සොයාගැනීම් ලෝකය තේරුම් ගන්නා ආකාරය වෙනස් කරනවා.",
-        "exampleReading": "а: научна открича мэньайу начин на койи разумэмо свэт."
+        "exampleReading": "අ: නාඋච්නා ඔත්ක්රිචා මෙන්‍යායු නාචින් නා කොයි රාසුමෙමො ස්වෙත්."
       },
       {
         "word": "istraživanje",
@@ -5360,7 +5360,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "පර්යේෂණය",
         "example": "B: To je važno otkriće, ali rezultate treba potvrditi dodatnim istraživanjem.",
         "translation": "එය වැදගත් සොයාගැනීමක්. නමුත් තවත් පර්යේෂණ මඟින් ප්‍රතිඵල තහවුරු කළ යුතුයි.",
-        "exampleReading": "б: то йэ важно откричэ, али рэзултатэ трэба потврдити додатним истраживаньэм."
+        "exampleReading": "බ්: තො යෙ වාෂ්නො ඔත්ක්රිචෙ, අලි රෙසුල්තාතෙ ත්රෙබා පොත්ව්ර්දිති දොදාත්නිම් ඉස්ත්රාෂිවාන්‍යෙම්."
       },
       {
         "word": "eksperiment",
@@ -5368,7 +5368,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "පරීක්ෂණය",
         "example": "A: Istraživači već planiraju nove eksperimente.",
         "translation": "විද්‍යාඥයන් තවත් පරීක්ෂණ සැලසුම් කරනවා.",
-        "exampleReading": "а: истраживачи вэч планирайу новэ экспэримэнтэ."
+        "exampleReading": "අ: ඉස්ත්රාෂිවාචි වෙච් ප්ලානිරායු නොවෙ එක්ස්පෙරිමෙන්තෙ."
       },
       {
         "word": "naučnik",
@@ -5376,7 +5376,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "විද්‍යාඥයා",
         "example": "B: Onda ćemo bolje razumeti kako materijal funkcioniše.",
         "translation": "එවිට ද්‍රව්‍යය ක්‍රියා කරන ආකාරය වඩා හොඳින් තේරුම් ගන්න පුළුවන්.",
-        "exampleReading": "б: онда чэмо больэ разумэти како матэрийал функционишэ."
+        "exampleReading": "බ්: ඔන්දා චෙමො බොල්‍යෙ රාසුමෙති කාකො මාතෙරියාල් ෆුන්ක්ත්සිඔනිෂෙ."
       },
       {
         "word": "dokaz",
@@ -5384,7 +5384,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "සාක්ෂිය",
         "example": "A: Naučna otkrića menjaju način na koji razumemo svet.",
         "translation": "විද්‍යාත්මක සොයාගැනීම් ලෝකය තේරුම් ගන්නා ආකාරය වෙනස් කරනවා.",
-        "exampleReading": "а: научна открича мэньайу начин на койи разумэмо свэт."
+        "exampleReading": "අ: නාඋච්නා ඔත්ක්රිචා මෙන්‍යායු නාචින් නා කොයි රාසුමෙමො ස්වෙත්."
       },
       {
         "word": "tehnologija",
@@ -5392,7 +5392,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "තාක්ෂණය",
         "example": "B: To je važno otkriće, ali rezultate treba potvrditi dodatnim istraživanjem.",
         "translation": "එය වැදගත් සොයාගැනීමක්. නමුත් තවත් පර්යේෂණ මඟින් ප්‍රතිඵල තහවුරු කළ යුතුයි.",
-        "exampleReading": "б: то йэ важно откричэ, али рэзултатэ трэба потврдити додатним истраживаньэм."
+        "exampleReading": "බ්: තො යෙ වාෂ්නො ඔත්ක්රිචෙ, අලි රෙසුල්තාතෙ ත්රෙබා පොත්ව්ර්දිති දොදාත්නිම් ඉස්ත්රාෂිවාන්‍යෙම්."
       },
       {
         "word": "razviti",
@@ -5400,7 +5400,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "දියුණු කරනවා",
         "example": "A: Istraživači već planiraju nove eksperimente.",
         "translation": "විද්‍යාඥයන් තවත් පරීක්ෂණ සැලසුම් කරනවා.",
-        "exampleReading": "а: истраживачи вэч планирайу новэ экспэримэнтэ."
+        "exampleReading": "අ: ඉස්ත්රාෂිවාචි වෙච් ප්ලානිරායු නොවෙ එක්ස්පෙරිමෙන්තෙ."
       },
       {
         "word": "rezultat",
@@ -5408,7 +5408,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ප්‍රතිඵලය",
         "example": "B: Onda ćemo bolje razumeti kako materijal funkcioniše.",
         "translation": "එවිට ද්‍රව්‍යය ක්‍රියා කරන ආකාරය වඩා හොඳින් තේරුම් ගන්න පුළුවන්.",
-        "exampleReading": "б: онда чэмо больэ разумэти како матэрийал функционишэ."
+        "exampleReading": "බ්: ඔන්දා චෙමො බොල්‍යෙ රාසුමෙති කාකො මාතෙරියාල් ෆුන්ක්ත්සිඔනිෂෙ."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -5530,7 +5530,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "අයිතිය",
         "example": "A: Svako ima prava i odgovornosti prema drugima.",
         "translation": "සෑම කෙනෙකුටම අන් අය සම්බන්ධයෙන් අයිතිවාසිකම් සහ වගකීම් තිබෙනවා.",
-        "exampleReading": "а: свако има права и одговорности прэма другима."
+        "exampleReading": "අ: ස්වාකො ඉමා ප්රාවා ඉ ඔද්ගොවොර්නොස්ති ප්රෙමා ද්රුගිමා."
       },
       {
         "word": "odgovornost",
@@ -5538,7 +5538,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "වගකීම",
         "example": "B: Zato svi treba da pročitamo pravila pre nego što ih prihvatimo.",
         "translation": "ඒ නිසා ඒවා පිළිගැනීමට පෙර හැමෝම නීති කියවිය යුතුයි.",
-        "exampleReading": "б: зато сви трэба да прочитамо правила прэ нэго што их прихватимо."
+        "exampleReading": "බ්: සාතො ස්වි ත්රෙබා දා ප්රොචිතාමො ප්රාවිලා ප්රෙ නෙගො ෂ්තො ඉහ් ප්රිහ්වාතිමො."
       },
       {
         "word": "zakon",
@@ -5546,7 +5546,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "නීතිය",
         "example": "A: Gde možemo da pronađemo zvaničnu verziju?",
         "translation": "නිල පිටපත අපට කොහෙන් සොයාගන්න පුළුවන්ද?",
-        "exampleReading": "а: гдэ можэмо да пронаджэмо званичну вэрзийу?"
+        "exampleReading": "අ: ග්දෙ මොෂෙමො දා ප්රොනාජෙමො ස්වානිච්නු වෙර්සියු?"
       },
       {
         "word": "pravilo",
@@ -5554,7 +5554,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "රීතිය",
         "example": "B: Na sajtu institucije i u službenom dokumentu.",
         "translation": "ආයතනයේ වෙබ් අඩවියේ සහ නිල ලේඛනයේ.",
-        "exampleReading": "б: на сайту институцийэ и у службэном докумэнту."
+        "exampleReading": "බ්: නා සාය්තු ඉන්ස්තිතුත්සියෙ ඉ උ ස්ලුෂ්බෙනොම් දොකුමෙන්තු."
       },
       {
         "word": "dozvola",
@@ -5562,7 +5562,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "අවසරය",
         "example": "A: Svako ima prava i odgovornosti prema drugima.",
         "translation": "සෑම කෙනෙකුටම අන් අය සම්බන්ධයෙන් අයිතිවාසිකම් සහ වගකීම් තිබෙනවා.",
-        "exampleReading": "а: свако има права и одговорности прэма другима."
+        "exampleReading": "අ: ස්වාකො ඉමා ප්රාවා ඉ ඔද්ගොවොර්නොස්ති ප්රෙමා ද්රුගිමා."
       },
       {
         "word": "obaveza",
@@ -5570,7 +5570,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "බැඳීම",
         "example": "B: Zato svi treba da pročitamo pravila pre nego što ih prihvatimo.",
         "translation": "ඒ නිසා ඒවා පිළිගැනීමට පෙර හැමෝම නීති කියවිය යුතුයි.",
-        "exampleReading": "б: зато сви трэба да прочитамо правила прэ нэго што их прихватимо."
+        "exampleReading": "බ්: සාතො ස්වි ත්රෙබා දා ප්රොචිතාමො ප්රාවිලා ප්රෙ නෙගො ෂ්තො ඉහ් ප්රිහ්වාතිමො."
       },
       {
         "word": "pravedan",
@@ -5578,7 +5578,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "සාධාරණ",
         "example": "A: Gde možemo da pronađemo zvaničnu verziju?",
         "translation": "නිල පිටපත අපට කොහෙන් සොයාගන්න පුළුවන්ද?",
-        "exampleReading": "а: гдэ можэмо да пронаджэмо званичну вэрзийу?"
+        "exampleReading": "අ: ග්දෙ මොෂෙමො දා ප්රොනාජෙමො ස්වානිච්නු වෙර්සියු?"
       },
       {
         "word": "zaštititi",
@@ -5586,7 +5586,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ආරක්ෂා කරනවා",
         "example": "B: Na sajtu institucije i u službenom dokumentu.",
         "translation": "ආයතනයේ වෙබ් අඩවියේ සහ නිල ලේඛනයේ.",
-        "exampleReading": "б: на сайту институцийэ и у службэном докумэнту."
+        "exampleReading": "බ්: නා සාය්තු ඉන්ස්තිතුත්සියෙ ඉ උ ස්ලුෂ්බෙනොම් දොකුමෙන්තු."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -5708,7 +5708,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "නිර්මාණශීලීත්වය",
         "example": "A: Umetnost nam omogućava da izrazimo osećanja na različite načine.",
         "translation": "කලාව අපගේ හැඟීම් විවිධ ආකාරවලින් ප්‍රකාශ කිරීමට ඉඩ සලසනවා.",
-        "exampleReading": "а: умэтност нам омогучава да изразимо осэчаньа на различитэ начинэ."
+        "exampleReading": "අ: උමෙත්නොස්ත් නාම් ඔමොගුචාවා දා ඉස්රාසිමො ඔසෙචාන්‍යා නා රාස්ලිචිතෙ නාචිනෙ."
       },
       {
         "word": "slika",
@@ -5716,7 +5716,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "චිත්‍රය",
         "example": "B: Posebno mi se dopada što posetioci mogu da učestvuju u instalaciji.",
         "translation": "නරඹන්නන්ට කලා නිර්මාණයට සහභාගී විය හැකි එකට මම විශේෂයෙන් කැමතියි.",
-        "exampleReading": "б: посэбно ми сэ допада што посэтиоци могу да учэствуйу у инсталацийи."
+        "exampleReading": "බ්: පොසෙබ්නො මි සෙ දොපාදා ෂ්තො පොසෙතිඔත්සි මොගු දා උචෙස්ත්වුයු උ ඉන්ස්තාලාත්සියි."
       },
       {
         "word": "izložba",
@@ -5724,7 +5724,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ප්‍රදර්ශනය",
         "example": "A: Tako umetnost postaje interaktivno iskustvo.",
         "translation": "ඒ නිසා කලාව අන්තර්ක්‍රියාකාරී අත්දැකීමක් වෙනවා.",
-        "exampleReading": "а: тако умэтност постайэ интэрактивно искуство."
+        "exampleReading": "අ: තාකො උමෙත්නොස්ත් පොස්තායෙ ඉන්තෙරාක්තිව්නො ඉස්කුස්ත්වො."
       },
       {
         "word": "nastup",
@@ -5732,7 +5732,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ප්‍රසංගය",
         "example": "B: Da, svako može da je doživi na drugačiji način.",
         "translation": "හැමෝටම එය වෙනස් ආකාරයකින් අත්විඳිය හැකියි.",
-        "exampleReading": "б: да, свако можэ да йэ доживи на другачийи начин."
+        "exampleReading": "බ්: දා, ස්වාකො මොෂෙ දා යෙ දොෂිවි නා ද්රුගාචියි නාචින්."
       },
       {
         "word": "inspiracija",
@@ -5740,7 +5740,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ආභාසය",
         "example": "A: Umetnost nam omogućava da izrazimo osećanja na različite načine.",
         "translation": "කලාව අපගේ හැඟීම් විවිධ ආකාරවලින් ප්‍රකාශ කිරීමට ඉඩ සලසනවා.",
-        "exampleReading": "а: умэтност нам омогучава да изразимо осэчаньа на различитэ начинэ."
+        "exampleReading": "අ: උමෙත්නොස්ත් නාම් ඔමොගුචාවා දා ඉස්රාසිමො ඔසෙචාන්‍යා නා රාස්ලිචිතෙ නාචිනෙ."
       },
       {
         "word": "talenat",
@@ -5748,7 +5748,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "දක්ෂතාව",
         "example": "B: Posebno mi se dopada što posetioci mogu da učestvuju u instalaciji.",
         "translation": "නරඹන්නන්ට කලා නිර්මාණයට සහභාගී විය හැකි එකට මම විශේෂයෙන් කැමතියි.",
-        "exampleReading": "б: посэбно ми сэ допада што посэтиоци могу да учэствуйу у инсталацийи."
+        "exampleReading": "බ්: පොසෙබ්නො මි සෙ දොපාදා ෂ්තො පොසෙතිඔත්සි මොගු දා උචෙස්ත්වුයු උ ඉන්ස්තාලාත්සියි."
       },
       {
         "word": "zanat",
@@ -5756,7 +5756,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "හස්ත කර්මාන්තය",
         "example": "A: Tako umetnost postaje interaktivno iskustvo.",
         "translation": "ඒ නිසා කලාව අන්තර්ක්‍රියාකාරී අත්දැකීමක් වෙනවා.",
-        "exampleReading": "а: тако умэтност постайэ интэрактивно искуство."
+        "exampleReading": "අ: තාකො උමෙත්නොස්ත් පොස්තායෙ ඉන්තෙරාක්තිව්නො ඉස්කුස්ත්වො."
       },
       {
         "word": "publika",
@@ -5764,7 +5764,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ප්‍රේක්ෂකයෝ",
         "example": "B: Da, svako može da je doživi na drugačiji način.",
         "translation": "හැමෝටම එය වෙනස් ආකාරයකින් අත්විඳිය හැකියි.",
-        "exampleReading": "б: да, свако можэ да йэ доживи на другачийи начин."
+        "exampleReading": "බ්: දා, ස්වාකො මොෂෙ දා යෙ දොෂිවි නා ද්රුගාචියි නාචින්."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -5886,7 +5886,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ආර්ථිකය",
         "example": "A: Tržište rada se menja zbog novih veština i tehnologije.",
         "translation": "නව කුසලතා සහ තාක්ෂණය නිසා රැකියා වෙළඳපොළ වෙනස් වෙමින් පවතිනවා.",
-        "exampleReading": "а: тржиштэ рада сэ мэньа због нових вэштина и тэхнологийэ."
+        "exampleReading": "අ: ත්ර්ෂිෂ්තෙ රාදා සෙ මෙන්‍යා ස්බොග් නොවිහ් වෙෂ්තිනා ඉ තෙහ්නොලොගියෙ."
       },
       {
         "word": "tržište rada",
@@ -5894,7 +5894,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "රැකියා වෙළඳපොළ",
         "example": "B: Zato je korisno da redovno učimo i pratimo nove tehnologije.",
         "translation": "ඒ නිසා අලුත් තාක්ෂණය ඉගෙනගෙන ඒ ගැන දැනුවත්ව සිටීම ප්‍රයෝජනවත්.",
-        "exampleReading": "б: зато йэ корисно да рэдовно учимо и пратимо новэ тэхнологийэ."
+        "exampleReading": "බ්: සාතො යෙ කොරිස්නො දා රෙදොව්නො උචිමො ඉ ප්රාතිමො නොවෙ තෙහ්නොලොගියෙ."
       },
       {
         "word": "zaposlenje",
@@ -5902,7 +5902,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "රැකියාව",
         "example": "A: Da li iskustvo i dalje ima veliku vrednost?",
         "translation": "අත්දැකීම්වලට තවමත් විශාල වටිනාකමක් තිබෙනවාද?",
-        "exampleReading": "а: да ли искуство и дальэ има вэлику врэдност?"
+        "exampleReading": "අ: දා ලි ඉස්කුස්ත්වො ඉ දාල්‍යෙ ඉමා වෙලිකු ව්රෙද්නොස්ත්?"
       },
       {
         "word": "nezaposlenost",
@@ -5910,7 +5910,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "විරැකියාව",
         "example": "B: Naravno, ali iskustvo uz nove veštine daje prednost.",
         "translation": "ඇත්තෙන්ම. නමුත් අත්දැකීම් සහ නව කුසලතා එකතු වීම වාසියක්.",
-        "exampleReading": "б: наравно, али искуство уз новэ вэштинэ дайэ прэдност."
+        "exampleReading": "බ්: නාරාව්නො, අලි ඉස්කුස්ත්වො උස් නොවෙ වෙෂ්තිනෙ දායෙ ප්රෙද්නොස්ත්."
       },
       {
         "word": "plata",
@@ -5918,7 +5918,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "වැටුප",
         "example": "A: Tržište rada se menja zbog novih veština i tehnologije.",
         "translation": "නව කුසලතා සහ තාක්ෂණය නිසා රැකියා වෙළඳපොළ වෙනස් වෙමින් පවතිනවා.",
-        "exampleReading": "а: тржиштэ рада сэ мэньа због нових вэштина и тэхнологийэ."
+        "exampleReading": "අ: ත්ර්ෂිෂ්තෙ රාදා සෙ මෙන්‍යා ස්බොග් නොවිහ් වෙෂ්තිනා ඉ තෙහ්නොලොගියෙ."
       },
       {
         "word": "potražnja",
@@ -5926,7 +5926,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ඉල්ලුම",
         "example": "B: Zato je korisno da redovno učimo i pratimo nove tehnologije.",
         "translation": "ඒ නිසා අලුත් තාක්ෂණය ඉගෙනගෙන ඒ ගැන දැනුවත්ව සිටීම ප්‍රයෝජනවත්.",
-        "exampleReading": "б: зато йэ корисно да рэдовно учимо и пратимо новэ тэхнологийэ."
+        "exampleReading": "බ්: සාතො යෙ කොරිස්නො දා රෙදොව්නො උචිමො ඉ ප්රාතිමො නොවෙ තෙහ්නොලොගියෙ."
       },
       {
         "word": "ponuda",
@@ -5934,7 +5934,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "සැපයුම",
         "example": "A: Da li iskustvo i dalje ima veliku vrednost?",
         "translation": "අත්දැකීම්වලට තවමත් විශාල වටිනාකමක් තිබෙනවාද?",
-        "exampleReading": "а: да ли искуство и дальэ има вэлику врэдност?"
+        "exampleReading": "අ: දා ලි ඉස්කුස්ත්වො ඉ දාල්‍යෙ ඉමා වෙලිකු ව්රෙද්නොස්ත්?"
       },
       {
         "word": "industrija",
@@ -5942,7 +5942,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "කර්මාන්තය",
         "example": "B: Naravno, ali iskustvo uz nove veštine daje prednost.",
         "translation": "ඇත්තෙන්ම. නමුත් අත්දැකීම් සහ නව කුසලතා එකතු වීම වාසියක්.",
-        "exampleReading": "б: наравно, али искуство уз новэ вэштинэ дайэ прэдност."
+        "exampleReading": "බ්: නාරාව්නො, අලි ඉස්කුස්ත්වො උස් නොවෙ වෙෂ්තිනෙ දායෙ ප්රෙද්නොස්ත්."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -6064,7 +6064,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "කුලිය",
         "example": "A: Pre potpisivanja ugovora treba pažljivo proveriti uslove.",
         "translation": "ගිවිසුම අත්සන් කිරීමට පෙර කොන්දේසි හොඳින් පරීක්ෂා කළ යුතුයි.",
-        "exampleReading": "а: прэ потписиваньа уговора трэба пажльиво провэрити условэ."
+        "exampleReading": "අ: ප්රෙ පොත්පිසිවාන්‍යා උගොවොරා ත්රෙබා පාෂ්ල්‍යිවො ප්රොවෙරිති උස්ලොවෙ."
       },
       {
         "word": "stanodavac",
@@ -6072,7 +6072,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "නිවාස හිමියා",
         "example": "B: Pre potpisivanja treba proveriti i uslove raskida ugovora.",
         "translation": "අත්සන් කිරීමට පෙර ගිවිසුම අවසන් කිරීමේ කොන්දේසිත් පරීක්ෂා කළ යුතුයි.",
-        "exampleReading": "б: прэ потписиваньа трэба провэрити и условэ раскида уговора."
+        "exampleReading": "බ්: ප්රෙ පොත්පිසිවාන්‍යා ත්රෙබා ප්රොවෙරිති ඉ උස්ලොවෙ රාස්කිදා උගොවොරා."
       },
       {
         "word": "stanar",
@@ -6080,7 +6080,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "කුලී නිවැසියා",
         "example": "A: Da li je važno da sve bude napisano?",
         "translation": "සියල්ල ලිඛිතව තිබීම වැදගත්ද?",
-        "exampleReading": "а: да ли йэ важно да свэ будэ написано?"
+        "exampleReading": "අ: දා ලි යෙ වාෂ්නො දා ස්වෙ බුදෙ නාපිසානො?"
       },
       {
         "word": "ugovor",
@@ -6088,7 +6088,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ගිවිසුම",
         "example": "B: Da, pisani dogovor štiti i stanara i vlasnika.",
         "translation": "ඔව්, ලිඛිත ගිවිසුම කුලී නිවැසියාත් හිමිකරුත් ආරක්ෂා කරනවා.",
-        "exampleReading": "б: да, писани договор штити и станара и власника."
+        "exampleReading": "බ්: දා, පිසානි දොගොවොර් ෂ්තිති ඉ ස්තානාරා ඉ ව්ලාස්නිකා."
       },
       {
         "word": "depozit",
@@ -6096,7 +6096,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "තැන්පතුව",
         "example": "A: Pre potpisivanja ugovora treba pažljivo proveriti uslove.",
         "translation": "ගිවිසුම අත්සන් කිරීමට පෙර කොන්දේසි හොඳින් පරීක්ෂා කළ යුතුයි.",
-        "exampleReading": "а: прэ потписиваньа уговора трэба пажльиво провэрити условэ."
+        "exampleReading": "අ: ප්රෙ පොත්පිසිවාන්‍යා උගොවොරා ත්රෙබා පාෂ්ල්‍යිවො ප්රොවෙරිති උස්ලොවෙ."
       },
       {
         "word": "račun za komunalije",
@@ -6104,7 +6104,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "උපයෝගිතා බිල්පත",
         "example": "B: Pre potpisivanja treba proveriti i uslove raskida ugovora.",
         "translation": "අත්සන් කිරීමට පෙර ගිවිසුම අවසන් කිරීමේ කොන්දේසිත් පරීක්ෂා කළ යුතුයි.",
-        "exampleReading": "б: прэ потписиваньа трэба провэрити и условэ раскида уговора."
+        "exampleReading": "බ්: ප්රෙ පොත්පිසිවාන්‍යා ත්රෙබා ප්රොවෙරිති ඉ උස්ලොවෙ රාස්කිදා උගොවොරා."
       },
       {
         "word": "komšija",
@@ -6112,7 +6112,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "අසල්වැසියා",
         "example": "A: Da li je važno da sve bude napisano?",
         "translation": "සියල්ල ලිඛිතව තිබීම වැදගත්ද?",
-        "exampleReading": "а: да ли йэ важно да свэ будэ написано?"
+        "exampleReading": "අ: දා ලි යෙ වාෂ්නො දා ස්වෙ බුදෙ නාපිසානො?"
       },
       {
         "word": "održavanje",
@@ -6120,7 +6120,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "නඩත්තුව",
         "example": "B: Da, pisani dogovor štiti i stanara i vlasnika.",
         "translation": "ඔව්, ලිඛිත ගිවිසුම කුලී නිවැසියාත් හිමිකරුත් ආරක්ෂා කරනවා.",
-        "exampleReading": "б: да, писани договор штити и станара и власника."
+        "exampleReading": "බ්: දා, පිසානි දොගොවොර් ෂ්තිති ඉ ස්තානාරා ඉ ව්ලාස්නිකා."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -6242,7 +6242,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "යටිතල පහසුකම්",
         "example": "A: Pouzdan javni prevoz može da smanji gužvu u gradu.",
         "translation": "විශ්වාසදායක පොදු ප්‍රවාහනයට නගරයේ තදබදය අඩු කළ හැකියි.",
-        "exampleReading": "а: поуздан йавни прэвоз можэ да сманьи гужву у граду."
+        "exampleReading": "අ: පොඋස්දාන් යාව්නි ප්රෙවොස් මොෂෙ දා ස්මාන්‍යි ගුෂ්වු උ ග්රාදු."
       },
       {
         "word": "gužva",
@@ -6250,7 +6250,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "වාහන තදබදය",
         "example": "B: To će pomoći samo ako polasci budu česti i pouzdani.",
         "translation": "ගමන් වාර නිතර සහ විශ්වාසදායක නම් පමණයි එය උපකාරී වෙන්නේ.",
-        "exampleReading": "б: то чэ помочи само ако поласци буду чэсти и поуздани."
+        "exampleReading": "බ්: තො චෙ පොමොචි සාමො අකො පොලාස්ත්සි බුදු චෙස්ති ඉ පොඋස්දානි."
       },
       {
         "word": "linija",
@@ -6258,7 +6258,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "මාර්ගය",
         "example": "A: Grad planira da poboljša i autobuske linije.",
         "translation": "නගරය බස් මාර්ගත් වැඩිදියුණු කිරීමට සැලසුම් කරනවා.",
-        "exampleReading": "а: град планира да побольша и аутобускэ линийэ."
+        "exampleReading": "අ: ග්රාද් ප්ලානිරා දා පොබොල්‍ය්ෂා ඉ අඋතොබුස්කෙ ලිනියෙ."
       },
       {
         "word": "metro",
@@ -6266,7 +6266,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "භූගත දුම්රිය",
         "example": "B: Dobro povezane linije olakšavaju svakodnevno putovanje.",
         "translation": "හොඳින් සම්බන්ධ කළ මාර්ග දිනපතා ගමන් පහසු කරනවා.",
-        "exampleReading": "б: добро повэзанэ линийэ олакшавайу свакоднэвно путованьэ."
+        "exampleReading": "බ්: දොබ්රො පොවෙසානෙ ලිනියෙ ඔලාක්ෂාවායු ස්වාකොද්නෙව්නො පුතොවාන්‍යෙ."
       },
       {
         "word": "pouzdan",
@@ -6274,7 +6274,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "විශ්වාසදායක",
         "example": "A: Pouzdan javni prevoz može da smanji gužvu u gradu.",
         "translation": "විශ්වාසදායක පොදු ප්‍රවාහනයට නගරයේ තදබදය අඩු කළ හැකියි.",
-        "exampleReading": "а: поуздан йавни прэвоз можэ да сманьи гужву у граду."
+        "exampleReading": "අ: පොඋස්දාන් යාව්නි ප්රෙවොස් මොෂෙ දා ස්මාන්‍යි ගුෂ්වු උ ග්රාදු."
       },
       {
         "word": "pristupačan",
@@ -6282,7 +6282,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ප්‍රවේශ විය හැකි",
         "example": "B: To će pomoći samo ako polasci budu česti i pouzdani.",
         "translation": "ගමන් වාර නිතර සහ විශ්වාසදායක නම් පමණයි එය උපකාරී වෙන්නේ.",
-        "exampleReading": "б: то чэ помочи само ако поласци буду чэсти и поуздани."
+        "exampleReading": "බ්: තො චෙ පොමොචි සාමො අකො පොලාස්ත්සි බුදු චෙස්ති ඉ පොඋස්දානි."
       },
       {
         "word": "objekat",
@@ -6290,7 +6290,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "පහසුකම",
         "example": "A: Grad planira da poboljša i autobuske linije.",
         "translation": "නගරය බස් මාර්ගත් වැඩිදියුණු කිරීමට සැලසුම් කරනවා.",
-        "exampleReading": "а: град планира да побольша и аутобускэ линийэ."
+        "exampleReading": "අ: ග්රාද් ප්ලානිරා දා පොබොල්‍ය්ෂා ඉ අඋතොබුස්කෙ ලිනියෙ."
       },
       {
         "word": "izgradnja",
@@ -6298,7 +6298,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ඉදිකිරීම",
         "example": "B: Dobro povezane linije olakšavaju svakodnevno putovanje.",
         "translation": "හොඳින් සම්බන්ධ කළ මාර්ග දිනපතා ගමන් පහසු කරනවා.",
-        "exampleReading": "б: добро повэзанэ линийэ олакшавайу свакоднэвно путованьэ."
+        "exampleReading": "බ්: දොබ්රො පොවෙසානෙ ලිනියෙ ඔලාක්ෂාවායු ස්වාකොද්නෙව්නො පුතොවාන්‍යෙ."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -6420,7 +6420,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "දේශගුණය",
         "example": "A: Klimatske promene zahtevaju dugoročna i zajednička rešenja.",
         "translation": "දේශගුණික විපර්යාස සඳහා දිගුකාලීන සහ සාමූහික විසඳුම් අවශ්‍යයි.",
-        "exampleReading": "а: климатскэ промэнэ захтэвайу дугорочна и зайэдничка рэшэньа."
+        "exampleReading": "අ: ක්ලිමාත්ස්කෙ ප්රොමෙනෙ සාහ්තෙවායු දුගොරොච්නා ඉ සායෙද්නිච්කා රෙෂෙන්‍යා."
       },
       {
         "word": "emisija",
@@ -6428,7 +6428,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "විමෝචනය",
         "example": "B: Zato moramo štedeti vodu i ulagati u održiva rešenja.",
         "translation": "ඒ නිසා ජලය ඉතිරි කර තිරසාර විසඳුම් සඳහා ආයෝජනය කළ යුතුයි.",
-        "exampleReading": "б: зато морамо штэдэти воду и улагати у одржива рэшэньа."
+        "exampleReading": "බ්: සාතො මොරාමො ෂ්තෙදෙති වොදු ඉ උලාගාති උ ඔද්ර්ෂිවා රෙෂෙන්‍යා."
       },
       {
         "word": "obnovljiv",
@@ -6436,7 +6436,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "පුනර්ජනනීය",
         "example": "A: Poljoprivreda posebno zavisi od dostupne vode.",
         "translation": "කෘෂිකර්මාන්තය ජලය ලබාගත හැකි වීම මත රඳා පවතිනවා.",
-        "exampleReading": "а: польоприврэда посэбно зависи од доступнэ водэ."
+        "exampleReading": "අ: පොල්‍යොප්රිව්රෙදා පොසෙබ්නො සාවිසි ඔද් දොස්තුප්නෙ වොදෙ."
       },
       {
         "word": "politika",
@@ -6444,7 +6444,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ප්‍රතිපත්තිය",
         "example": "B: Sistemi za navodnjavanje mogu smanjiti gubitke.",
         "translation": "වාරිමාර්ග පද්ධති මඟින් ජල නාස්තිය අඩු කළ හැකියි.",
-        "exampleReading": "б: систэми за наводньаваньэ могу сманьити губиткэ."
+        "exampleReading": "බ්: සිස්තෙමි සා නාවොද්න්‍යාවාන්‍යෙ මොගු ස්මාන්‍යිති ගුබිත්කෙ."
       },
       {
         "word": "suša",
@@ -6452,7 +6452,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "නියඟය",
         "example": "A: Klimatske promene zahtevaju dugoročna i zajednička rešenja.",
         "translation": "දේශගුණික විපර්යාස සඳහා දිගුකාලීන සහ සාමූහික විසඳුම් අවශ්‍යයි.",
-        "exampleReading": "а: климатскэ промэнэ захтэвайу дугорочна и зайэдничка рэшэньа."
+        "exampleReading": "අ: ක්ලිමාත්ස්කෙ ප්රොමෙනෙ සාහ්තෙවායු දුගොරොච්නා ඉ සායෙද්නිච්කා රෙෂෙන්‍යා."
       },
       {
         "word": "poplava",
@@ -6460,7 +6460,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ගංවතුර",
         "example": "B: Zato moramo štedeti vodu i ulagati u održiva rešenja.",
         "translation": "ඒ නිසා ජලය ඉතිරි කර තිරසාර විසඳුම් සඳහා ආයෝජනය කළ යුතුයි.",
-        "exampleReading": "б: зато морамо штэдэти воду и улагати у одржива рэшэньа."
+        "exampleReading": "බ්: සාතො මොරාමො ෂ්තෙදෙති වොදු ඉ උලාගාති උ ඔද්ර්ෂිවා රෙෂෙන්‍යා."
       },
       {
         "word": "očuvanje",
@@ -6468,7 +6468,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "සංරක්ෂණය",
         "example": "A: Poljoprivreda posebno zavisi od dostupne vode.",
         "translation": "කෘෂිකර්මාන්තය ජලය ලබාගත හැකි වීම මත රඳා පවතිනවා.",
-        "exampleReading": "а: польоприврэда посэбно зависи од доступнэ водэ."
+        "exampleReading": "අ: පොල්‍යොප්රිව්රෙදා පොසෙබ්නො සාවිසි ඔද් දොස්තුප්නෙ වොදෙ."
       },
       {
         "word": "uticaj",
@@ -6476,7 +6476,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "බලපෑම",
         "example": "B: Sistemi za navodnjavanje mogu smanjiti gubitke.",
         "translation": "වාරිමාර්ග පද්ධති මඟින් ජල නාස්තිය අඩු කළ හැකියි.",
-        "exampleReading": "б: систэми за наводньаваньэ могу сманьити губиткэ."
+        "exampleReading": "බ්: සිස්තෙමි සා නාවොද්න්‍යාවාන්‍යෙ මොගු ස්මාන්‍යිති ගුබිත්කෙ."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -6598,7 +6598,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "පෝෂණය",
         "example": "A: Način ishrane često odražava kulturu i tradiciju porodice.",
         "translation": "ආහාර ගැනීමේ රටාව බොහෝවිට පවුලේ සංස්කෘතිය සහ සම්ප්‍රදාය පිළිබිඹු කරනවා.",
-        "exampleReading": "а: начин исхранэ чэсто одражава културу и традицийу породицэ."
+        "exampleReading": "අ: නාචින් ඉස්හ්රානෙ චෙස්තො ඔද්රාෂාවා කුල්තුරු ඉ ත්රාදිත්සියු පොරොදිත්සෙ."
       },
       {
         "word": "sastojak",
@@ -6606,7 +6606,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "අමුද්‍රව්‍යය",
         "example": "B: Dobro je što možemo da kupujemo sveže namirnice od lokalnih proizvođača.",
         "translation": "දේශීය නිෂ්පාදකයන්ගෙන් නැවුම් ආහාර මිලදී ගැනීමට හැකිවීම හොඳයි.",
-        "exampleReading": "б: добро йэ што можэмо да купуйэмо свэжэ намирницэ од локалних производжача."
+        "exampleReading": "බ්: දොබ්රො යෙ ෂ්තො මොෂෙමො දා කුපුයෙමො ස්වෙෂෙ නාමිර්නිත්සෙ ඔද් ලොකාල්නිහ් ප්රොඉස්වොජාචා."
       },
       {
         "word": "recept",
@@ -6614,7 +6614,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "වට්ටෝරුව",
         "example": "A: Tako podržavamo i male porodične firme.",
         "translation": "එමඟින් කුඩා පවුල් ව්‍යාපාරවලටත් සහාය ලැබෙනවා.",
-        "exampleReading": "а: тако подржавамо и малэ породичнэ фирмэ."
+        "exampleReading": "අ: තාකො පොද්ර්ෂාවාමො ඉ මාලෙ පොරොදිච්නෙ ෆිර්මෙ."
       },
       {
         "word": "porcija",
@@ -6622,7 +6622,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ආහාර ප්‍රමාණය",
         "example": "B: A često saznamo i kako se hrana proizvodi.",
         "translation": "ආහාර නිෂ්පාදනය කරන ආකාරයත් දැනගන්න ලැබෙනවා.",
-        "exampleReading": "б: а чэсто сазнамо и како сэ храна производи."
+        "exampleReading": "බ්: අ චෙස්තො සාස්නාමො ඉ කාකො සෙ හ්රානා ප්රොඉස්වොදි."
       },
       {
         "word": "ishrana",
@@ -6630,7 +6630,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ආහාර රටාව",
         "example": "A: Način ishrane često odražava kulturu i tradiciju porodice.",
         "translation": "ආහාර ගැනීමේ රටාව බොහෝවිට පවුලේ සංස්කෘතිය සහ සම්ප්‍රදාය පිළිබිඹු කරනවා.",
-        "exampleReading": "а: начин исхранэ чэсто одражава културу и традицийу породицэ."
+        "exampleReading": "අ: නාචින් ඉස්හ්රානෙ චෙස්තො ඔද්රාෂාවා කුල්තුරු ඉ ත්රාදිත්සියු පොරොදිත්සෙ."
       },
       {
         "word": "ukus",
@@ -6638,7 +6638,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "රසය",
         "example": "B: Dobro je što možemo da kupujemo sveže namirnice od lokalnih proizvođača.",
         "translation": "දේශීය නිෂ්පාදකයන්ගෙන් නැවුම් ආහාර මිලදී ගැනීමට හැකිවීම හොඳයි.",
-        "exampleReading": "б: добро йэ што можэмо да купуйэмо свэжэ намирницэ од локалних производжача."
+        "exampleReading": "බ්: දොබ්රො යෙ ෂ්තො මොෂෙමො දා කුපුයෙමො ස්වෙෂෙ නාමිර්නිත්සෙ ඔද් ලොකාල්නිහ් ප්රොඉස්වොජාචා."
       },
       {
         "word": "tradicionalan",
@@ -6646,7 +6646,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "සාම්ප්‍රදායික",
         "example": "A: Tako podržavamo i male porodične firme.",
         "translation": "එමඟින් කුඩා පවුල් ව්‍යාපාරවලටත් සහාය ලැබෙනවා.",
-        "exampleReading": "а: тако подржавамо и малэ породичнэ фирмэ."
+        "exampleReading": "අ: තාකො පොද්ර්ෂාවාමො ඉ මාලෙ පොරොදිච්නෙ ෆිර්මෙ."
       },
       {
         "word": "spisak sastojaka",
@@ -6654,7 +6654,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "අමුද්‍රව්‍ය ලැයිස්තුව",
         "example": "B: A često saznamo i kako se hrana proizvodi.",
         "translation": "ආහාර නිෂ්පාදනය කරන ආකාරයත් දැනගන්න ලැබෙනවා.",
-        "exampleReading": "б: а чэсто сазнамо и како сэ храна производи."
+        "exampleReading": "බ්: අ චෙස්තො සාස්නාමො ඉ කාකො සෙ හ්රානා ප්රොඉස්වොදි."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -6776,7 +6776,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ඉලක්කය",
         "example": "A: Postavljanje jasnih ciljeva pomaže nam da pratimo napredak.",
         "translation": "පැහැදිලි ඉලක්ක තැබීම අපගේ ප්‍රගතිය නිරීක්ෂණය කිරීමට උපකාරී වෙනවා.",
-        "exampleReading": "а: поставльаньэ йасних цильэва помажэ нам да пратимо напрэдак."
+        "exampleReading": "අ: පොස්තාව්ල්‍යාන්‍යෙ යාස්නිහ් ත්සිල්‍යෙවා පොමාෂෙ නාම් දා ප්රාතිමො නාප්රෙදාක්."
       },
       {
         "word": "prekretnica",
@@ -6784,7 +6784,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "වැදගත් අදියර",
         "example": "B: Podeli cilj na manje korake i odredi rok za svaki.",
         "translation": "ඉලක්කය කුඩා පියවරවලට බෙදා එක් එක් පියවරට කාලසීමාවක් දාන්න.",
-        "exampleReading": "б: подэли циль на маньэ коракэ и одрэди рок за сваки."
+        "exampleReading": "බ්: පොදෙලි ත්සිල්‍ය් නා මාන්‍යෙ කොරාකෙ ඉ ඔද්රෙදි රොක් සා ස්වාකි."
       },
       {
         "word": "meta",
@@ -6792,7 +6792,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ඉලක්කය",
         "example": "A: Tako ću lakše pratiti svoj napredak.",
         "translation": "එවිට මගේ ප්‍රගතිය පහසුවෙන් නිරීක්ෂණය කළ හැකියි.",
-        "exampleReading": "а: тако чу лакшэ пратити свой напрэдак."
+        "exampleReading": "අ: තාකො චු ලාක්ෂෙ ප්රාතිති ස්වොය් නාප්රෙදාක්."
       },
       {
         "word": "napredak",
@@ -6800,7 +6800,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ප්‍රගතිය",
         "example": "B: Redovno ponavljanje pomoći će ti da zapamtiš gradivo.",
         "translation": "නිතිපතා නැවත අධ්‍යයනය කිරීම පාඩම් මතක තබාගන්න උදව් වේවි.",
-        "exampleReading": "б: рэдовно понавльаньэ помочи чэ ти да запамтиш градиво."
+        "exampleReading": "බ්: රෙදොව්නො පොනාව්ල්‍යාන්‍යෙ පොමොචි චෙ ති දා සාපාම්තිෂ් ග්රාදිවො."
       },
       {
         "word": "postići",
@@ -6808,7 +6808,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ළඟා වෙනවා",
         "example": "A: Postavljanje jasnih ciljeva pomaže nam da pratimo napredak.",
         "translation": "පැහැදිලි ඉලක්ක තැබීම අපගේ ප්‍රගතිය නිරීක්ෂණය කිරීමට උපකාරී වෙනවා.",
-        "exampleReading": "а: поставльаньэ йасних цильэва помажэ нам да пратимо напрэдак."
+        "exampleReading": "අ: පොස්තාව්ල්‍යාන්‍යෙ යාස්නිහ් ත්සිල්‍යෙවා පොමාෂෙ නාම් දා ප්රාතිමො නාප්රෙදාක්."
       },
       {
         "word": "rok",
@@ -6816,7 +6816,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "අවසන් දිනය",
         "example": "B: Podeli cilj na manje korake i odredi rok za svaki.",
         "translation": "ඉලක්කය කුඩා පියවරවලට බෙදා එක් එක් පියවරට කාලසීමාවක් දාන්න.",
-        "exampleReading": "б: подэли циль на маньэ коракэ и одрэди рок за сваки."
+        "exampleReading": "බ්: පොදෙලි ත්සිල්‍ය් නා මාන්‍යෙ කොරාකෙ ඉ ඔද්රෙදි රොක් සා ස්වාකි."
       },
       {
         "word": "plan",
@@ -6824,7 +6824,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "සැලැස්ම",
         "example": "A: Tako ću lakše pratiti svoj napredak.",
         "translation": "එවිට මගේ ප්‍රගතිය පහසුවෙන් නිරීක්ෂණය කළ හැකියි.",
-        "exampleReading": "а: тако чу лакшэ пратити свой напрэдак."
+        "exampleReading": "අ: තාකො චු ලාක්ෂෙ ප්රාතිති ස්වොය් නාප්රෙදාක්."
       },
       {
         "word": "motivacija",
@@ -6832,7 +6832,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "අභිප්‍රේරණය",
         "example": "B: Redovno ponavljanje pomoći će ti da zapamtiš gradivo.",
         "translation": "නිතිපතා නැවත අධ්‍යයනය කිරීම පාඩම් මතක තබාගන්න උදව් වේවි.",
-        "exampleReading": "б: рэдовно понавльаньэ помочи чэ ти да запамтиш градиво."
+        "exampleReading": "බ්: රෙදොව්නො පොනාව්ල්‍යාන්‍යෙ පොමොචි චෙ ති දා සාපාම්තිෂ් ග්රාදිවො."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -6954,7 +6954,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "වෙන්කිරීම",
         "example": "A: Ako usluga ne odgovara rezervaciji, možemo zatražiti rešenje.",
         "translation": "සේවාව වෙන්කිරීමට ගැළපෙන්නේ නැත්නම් අපට විසඳුමක් ඉල්ලා සිටිය හැකියි.",
-        "exampleReading": "а: ако услуга нэ одговара рэзэрвацийи, можэмо затражити рэшэньэ."
+        "exampleReading": "අ: අකො උස්ලුගා නෙ ඔද්ගොවාරා රෙසෙර්වාත්සියි, මොෂෙමො සාත්රාෂිති රෙෂෙන්‍යෙ."
       },
       {
         "word": "žalba",
@@ -6962,7 +6962,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "පැමිණිල්ල",
         "example": "B: Sačuvaj potvrdu rezervacije i odmah podnesi pisani prigovor.",
         "translation": "වෙන්කිරීමේ තහවුරු කිරීම තබාගෙන වහාම ලිඛිත පැමිණිල්ලක් ඉදිරිපත් කරන්න.",
-        "exampleReading": "б: сачувай потврду рэзэрвацийэ и одмах поднэси писани приговор."
+        "exampleReading": "බ්: සාචුවාය් පොත්ව්ර්දු රෙසෙර්වාත්සියෙ ඉ ඔද්මාහ් පොද්නෙසි පිසානි ප්රිගොවොර්."
       },
       {
         "word": "usluga",
@@ -6970,7 +6970,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "සේවාව",
         "example": "A: Da li treba da tražim i povraćaj novca?",
         "translation": "මුදල් ආපසු ඉල්ලන්නත් ඕනද?",
-        "exampleReading": "а: да ли трэба да тражим и поврачай новца?"
+        "exampleReading": "අ: දා ලි ත්රෙබා දා ත්රාෂිම් ඉ පොව්රාචාය් නොව්ත්සා?"
       },
       {
         "word": "naknada",
@@ -6978,7 +6978,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "වන්දි",
         "example": "B: Prvo zatraži objašnjenje i predloži razumno rešenje.",
         "translation": "මුලින්ම පැහැදිලි කිරීමක් ඉල්ලා සාධාරණ විසඳුමක් යෝජනා කරන්න.",
-        "exampleReading": "б: прво затражи обйашньэньэ и прэдложи разумно рэшэньэ."
+        "exampleReading": "බ්: ප්ර්වො සාත්රාෂි ඔබ්යාෂ්න්‍යෙන්‍යෙ ඉ ප්රෙද්ලොෂි රාසුම්නො රෙෂෙන්‍යෙ."
       },
       {
         "word": "potvrda",
@@ -6986,7 +6986,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "තහවුරු කිරීම",
         "example": "A: Ako usluga ne odgovara rezervaciji, možemo zatražiti rešenje.",
         "translation": "සේවාව වෙන්කිරීමට ගැළපෙන්නේ නැත්නම් අපට විසඳුමක් ඉල්ලා සිටිය හැකියි.",
-        "exampleReading": "а: ако услуга нэ одговара рэзэрвацийи, можэмо затражити рэшэньэ."
+        "exampleReading": "අ: අකො උස්ලුගා නෙ ඔද්ගොවාරා රෙසෙර්වාත්සියි, මොෂෙමො සාත්රාෂිති රෙෂෙන්‍යෙ."
       },
       {
         "word": "otkazivanje",
@@ -6994,7 +6994,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "අවලංගු කිරීම",
         "example": "B: Sačuvaj potvrdu rezervacije i odmah podnesi pisani prigovor.",
         "translation": "වෙන්කිරීමේ තහවුරු කිරීම තබාගෙන වහාම ලිඛිත පැමිණිල්ලක් ඉදිරිපත් කරන්න.",
-        "exampleReading": "б: сачувай потврду рэзэрвацийэ и одмах поднэси писани приговор."
+        "exampleReading": "බ්: සාචුවාය් පොත්ව්ර්දු රෙසෙර්වාත්සියෙ ඉ ඔද්මාහ් පොද්නෙසි පිසානි ප්රිගොවොර්."
       },
       {
         "word": "alternativa",
@@ -7002,7 +7002,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "විකල්පය",
         "example": "A: Da li treba da tražim i povraćaj novca?",
         "translation": "මුදල් ආපසු ඉල්ලන්නත් ඕනද?",
-        "exampleReading": "а: да ли трэба да тражим и поврачай новца?"
+        "exampleReading": "අ: දා ලි ත්රෙබා දා ත්රාෂිම් ඉ පොව්රාචාය් නොව්ත්සා?"
       },
       {
         "word": "korisnička služba",
@@ -7010,7 +7010,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "පාරිභෝගික සේවාව",
         "example": "B: Prvo zatraži objašnjenje i predloži razumno rešenje.",
         "translation": "මුලින්ම පැහැදිලි කිරීමක් ඉල්ලා සාධාරණ විසඳුමක් යෝජනා කරන්න.",
-        "exampleReading": "б: прво затражи обйашньэньэ и прэдложи разумно рэшэньэ."
+        "exampleReading": "බ්: ප්ර්වො සාත්රාෂි ඔබ්යාෂ්න්‍යෙන්‍යෙ ඉ ප්රෙද්ලොෂි රාසුම්නො රෙෂෙන්‍යෙ."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -7132,7 +7132,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ශරීර භාෂාව",
         "example": "A: Jasna komunikacija zavisi od reči i načina na koji ih izgovaramo.",
         "translation": "පැහැදිලි සන්නිවේදනය වචන සහ ඒවා කියන ආකාරය මත රඳා පවතිනවා.",
-        "exampleReading": "а: йасна комуникацийа зависи од рэчи и начина на койи их изговарамо."
+        "exampleReading": "අ: යාස්නා කොමුනිකාත්සියා සාවිසි ඔද් රෙචි ඉ නාචිනා නා කොයි ඉහ් ඉස්ගොවාරාමො."
       },
       {
         "word": "gest",
@@ -7140,7 +7140,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "අංග චලනය",
         "example": "B: Najbolje je da mirno objasniš šta si zapravo želeo da kažeš.",
         "translation": "ඔබ අදහස් කළේ කුමක්දැයි සන්සුන්ව පැහැදිලි කිරීම හොඳම ක්‍රමයයි.",
-        "exampleReading": "б: найбольэ йэ да мирно обйасниш шта си заправо жэлэо да кажэш."
+        "exampleReading": "බ්: නාය්බොල්‍යෙ යෙ දා මිර්නො ඔබ්යාස්නිෂ් ෂ්තා සි සාප්රාවො ෂෙලෙඔ දා කාෂෙෂ්."
       },
       {
         "word": "ton",
@@ -7148,7 +7148,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "හඬේ ස්වරය",
         "example": "A: Trebalo je ranije da proverim da li me je razumeo.",
         "translation": "ඔහු මාව තේරුම් ගත්තාද කියලා කලින්ම පරීක්ෂා කළ යුතුව තිබුණා.",
-        "exampleReading": "а: трэбало йэ ранийэ да провэрим да ли мэ йэ разумэо."
+        "exampleReading": "අ: ත්රෙබාලො යෙ රානියෙ දා ප්රොවෙරිම් දා ලි මෙ යෙ රාසුමෙඔ."
       },
       {
         "word": "izraz",
@@ -7156,7 +7156,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ප්‍රකාශනය",
         "example": "B: Otvoreno pitanje često sprečava novi nesporazum.",
         "translation": "විවෘත ප්‍රශ්නයක් ඇසීමෙන් තවත් වැරදි අවබෝධයක් වළක්වාගත හැකියි.",
-        "exampleReading": "б: отворэно питаньэ чэсто спрэчава нови нэспоразум."
+        "exampleReading": "බ්: ඔත්වොරෙනො පිතාන්‍යෙ චෙස්තො ස්ප්රෙචාවා නොවි නෙස්පොරාසුම්."
       },
       {
         "word": "nesporazum",
@@ -7164,7 +7164,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "වැරදි අවබෝධය",
         "example": "A: Jasna komunikacija zavisi od reči i načina na koji ih izgovaramo.",
         "translation": "පැහැදිලි සන්නිවේදනය වචන සහ ඒවා කියන ආකාරය මත රඳා පවතිනවා.",
-        "exampleReading": "а: йасна комуникацийа зависи од рэчи и начина на койи их изговарамо."
+        "exampleReading": "අ: යාස්නා කොමුනිකාත්සියා සාවිසි ඔද් රෙචි ඉ නාචිනා නා කොයි ඉහ් ඉස්ගොවාරාමො."
       },
       {
         "word": "povratna informacija",
@@ -7172,7 +7172,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ප්‍රතිචාරය",
         "example": "B: Najbolje je da mirno objasniš šta si zapravo želeo da kažeš.",
         "translation": "ඔබ අදහස් කළේ කුමක්දැයි සන්සුන්ව පැහැදිලි කිරීම හොඳම ක්‍රමයයි.",
-        "exampleReading": "б: найбольэ йэ да мирно обйасниш шта си заправо жэлэо да кажэш."
+        "exampleReading": "බ්: නාය්බොල්‍යෙ යෙ දා මිර්නො ඔබ්යාස්නිෂ් ෂ්තා සි සාප්රාවො ෂෙලෙඔ දා කාෂෙෂ්."
       },
       {
         "word": "ljubazan",
@@ -7180,7 +7180,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ආචාරශීලී",
         "example": "A: Trebalo je ranije da proverim da li me je razumeo.",
         "translation": "ඔහු මාව තේරුම් ගත්තාද කියලා කලින්ම පරීක්ෂා කළ යුතුව තිබුණා.",
-        "exampleReading": "а: трэбало йэ ранийэ да провэрим да ли мэ йэ разумэо."
+        "exampleReading": "අ: ත්රෙබාලො යෙ රානියෙ දා ප්රොවෙරිම් දා ලි මෙ යෙ රාසුමෙඔ."
       },
       {
         "word": "pojasniti",
@@ -7188,7 +7188,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "පැහැදිලි කරනවා",
         "example": "B: Otvoreno pitanje često sprečava novi nesporazum.",
         "translation": "විවෘත ප්‍රශ්නයක් ඇසීමෙන් තවත් වැරදි අවබෝධයක් වළක්වාගත හැකියි.",
-        "exampleReading": "б: отворэно питаньэ чэсто спрэчава нови нэспоразум."
+        "exampleReading": "බ්: ඔත්වොරෙනො පිතාන්‍යෙ චෙස්තො ස්ප්රෙචාවා නොවි නෙස්පොරාසුම්."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -7310,7 +7310,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "පෞද්ගලිකත්වය",
         "example": "A: Pre objavljivanja fotografije treba poštovati privatnost drugih.",
         "translation": "ඡායාරූපයක් පළ කිරීමට පෙර අන් අයගේ පෞද්ගලිකත්වයට ගරු කළ යුතුයි.",
-        "exampleReading": "а: прэ обйавльиваньа фотографийэ трэба поштовати приватност других."
+        "exampleReading": "අ: ප්රෙ ඔබ්යාව්ල්‍යිවාන්‍යා ෆොතොග්රාෆියෙ ත්රෙබා පොෂ්තොවාති ප්රිවාත්නොස්ත් ද්රුගිහ්."
       },
       {
         "word": "sadržaj",
@@ -7318,7 +7318,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "අන්තර්ගතය",
         "example": "B: Proveri ko je objavio vest i da li postoje pouzdani izvori.",
         "translation": "එය පළ කළේ කවුද සහ විශ්වාසදායක මූලාශ්‍ර එය තහවුරු කරනවාද කියලා බලන්න.",
-        "exampleReading": "б: провэри ко йэ обйавио вэст и да ли постойэ поуздани извори."
+        "exampleReading": "බ්: ප්රොවෙරි කො යෙ ඔබ්යාවිඔ වෙස්ත් ඉ දා ලි පොස්තොයෙ පොඋස්දානි ඉස්වොරි."
       },
       {
         "word": "komentar",
@@ -7326,7 +7326,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "අදහස",
         "example": "A: Na društvenim mrežama je podelilo mnogo ljudi.",
         "translation": "සමාජ මාධ්‍යවල බොහෝ දෙනෙක් එය බෙදාගෙන තිබෙනවා.",
-        "exampleReading": "а: на друштвэним мрэжама йэ подэлило много льуди."
+        "exampleReading": "අ: නා ද්රුෂ්ත්වෙනිම් ම්රෙෂාමා යෙ පොදෙලිලො ම්නොගො ල්‍යුදි."
       },
       {
         "word": "podeliti",
@@ -7334,7 +7334,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "බෙදාගන්නවා",
         "example": "B: Broj deljenja ne znači da je informacija tačna.",
         "translation": "බෙදාගැනීම් ගණන වැඩි වීමෙන් තොරතුරු සත්‍ය බව අදහස් වෙන්නේ නැහැ.",
-        "exampleReading": "б: брой дэльэньа нэ значи да йэ информацийа тачна."
+        "exampleReading": "බ්: බ්රොය් දෙල්‍යෙන්‍යා නෙ ස්නාචි දා යෙ ඉන්ෆොර්මාත්සියා තාච්නා."
       },
       {
         "word": "dezinformacija",
@@ -7342,7 +7342,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "වැරදි තොරතුරු",
         "example": "A: Pre objavljivanja fotografije treba poštovati privatnost drugih.",
         "translation": "ඡායාරූපයක් පළ කිරීමට පෙර අන් අයගේ පෞද්ගලිකත්වයට ගරු කළ යුතුයි.",
-        "exampleReading": "а: прэ обйавльиваньа фотографийэ трэба поштовати приватност других."
+        "exampleReading": "අ: ප්රෙ ඔබ්යාව්ල්‍යිවාන්‍යා ෆොතොග්රාෆියෙ ත්රෙබා පොෂ්තොවාති ප්රිවාත්නොස්ත් ද්රුගිහ්."
       },
       {
         "word": "nalog",
@@ -7350,7 +7350,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ගිණුම",
         "example": "B: Proveri ko je objavio vest i da li postoje pouzdani izvori.",
         "translation": "එය පළ කළේ කවුද සහ විශ්වාසදායක මූලාශ්‍ර එය තහවුරු කරනවාද කියලා බලන්න.",
-        "exampleReading": "б: провэри ко йэ обйавио вэст и да ли постойэ поуздани извори."
+        "exampleReading": "බ්: ප්රොවෙරි කො යෙ ඔබ්යාවිඔ වෙස්ත් ඉ දා ලි පොස්තොයෙ පොඋස්දානි ඉස්වොරි."
       },
       {
         "word": "bezbednost",
@@ -7358,7 +7358,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ආරක්ෂාව",
         "example": "A: Na društvenim mrežama je podelilo mnogo ljudi.",
         "translation": "සමාජ මාධ්‍යවල බොහෝ දෙනෙක් එය බෙදාගෙන තිබෙනවා.",
-        "exampleReading": "а: на друштвэним мрэжама йэ подэлило много льуди."
+        "exampleReading": "අ: නා ද්රුෂ්ත්වෙනිම් ම්රෙෂාමා යෙ පොදෙලිලො ම්නොගො ල්‍යුදි."
       },
       {
         "word": "publika",
@@ -7366,7 +7366,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ප්‍රේක්ෂක පිරිස",
         "example": "B: Broj deljenja ne znači da je informacija tačna.",
         "translation": "බෙදාගැනීම් ගණන වැඩි වීමෙන් තොරතුරු සත්‍ය බව අදහස් වෙන්නේ නැහැ.",
-        "exampleReading": "б: брой дэльэньа нэ значи да йэ информацийа тачна."
+        "exampleReading": "බ්: බ්රොය් දෙල්‍යෙන්‍යා නෙ ස්නාචි දා යෙ ඉන්ෆොර්මාත්සියා තාච්නා."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -7488,7 +7488,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ප්‍රමුඛතාව",
         "example": "A: Kada odredimo prioritete, lakše završavamo važne zadatke.",
         "translation": "ප්‍රමුඛතා තීරණය කළ විට වැදගත් කාර්යයන් පහසුවෙන් අවසන් කළ හැකියි.",
-        "exampleReading": "а: када одрэдимо приоритэтэ, лакшэ завршавамо важнэ задаткэ."
+        "exampleReading": "අ: කාදා ඔද්රෙදිමො ප්රිඔරිතෙතෙ, ලාක්ෂෙ සාව්ර්ෂාවාමො වාෂ්නෙ සාදාත්කෙ."
       },
       {
         "word": "raspored",
@@ -7496,7 +7496,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "කාලසටහන",
         "example": "B: Pokušaj da odrediš prioritete i unapred isplaniraš odmor.",
         "translation": "ප්‍රමුඛතා තීරණය කර විවේකයත් කලින් සැලසුම් කරන්න උත්සාහ කරන්න.",
-        "exampleReading": "б: покушай да одрэдиш приоритэтэ и унапрэд испланираш одмор."
+        "exampleReading": "බ්: පොකුෂාය් දා ඔද්රෙදිෂ් ප්රිඔරිතෙතෙ ඉ උනාප්රෙද් ඉස්ප්ලානිරාෂ් ඔද්මොර්."
       },
       {
         "word": "rok",
@@ -7504,7 +7504,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "අවසන් දිනය",
         "example": "A: Često prihvatim više zadataka nego što mogu da završim.",
         "translation": "මට අවසන් කළ හැකි ප්‍රමාණයට වඩා වැඩි කාර්යයන් මම භාරගන්නවා.",
-        "exampleReading": "а: чэсто прихватим вишэ задатака нэго што могу да завршим."
+        "exampleReading": "අ: චෙස්තො ප්රිහ්වාතිම් විෂෙ සාදාතාකා නෙගො ෂ්තො මොගු දා සාව්ර්ෂිම්."
       },
       {
         "word": "ometanje",
@@ -7512,7 +7512,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "අවධානය වෙනතකට යාම",
         "example": "B: Nauči da realno proceniš vreme koje ti je potrebno.",
         "translation": "ඔබට අවශ්‍ය කාලය යථාර්ථවාදීව ඇස්තමේන්තු කරන්න ඉගෙනගන්න.",
-        "exampleReading": "б: научи да рэално процэниш врэмэ койэ ти йэ потрэбно."
+        "exampleReading": "බ්: නාඋචි දා රෙඅල්නො ප්රොත්සෙනිෂ් ව්රෙමෙ කොයෙ ති යෙ පොත්රෙබ්නො."
       },
       {
         "word": "usredsređenost",
@@ -7520,7 +7520,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "අවධානය",
         "example": "A: Kada odredimo prioritete, lakše završavamo važne zadatke.",
         "translation": "ප්‍රමුඛතා තීරණය කළ විට වැදගත් කාර්යයන් පහසුවෙන් අවසන් කළ හැකියි.",
-        "exampleReading": "а: када одрэдимо приоритэтэ, лакшэ завршавамо важнэ задаткэ."
+        "exampleReading": "අ: කාදා ඔද්රෙදිමො ප්රිඔරිතෙතෙ, ලාක්ෂෙ සාව්ර්ෂාවාමො වාෂ්නෙ සාදාත්කෙ."
       },
       {
         "word": "odložiti",
@@ -7528,7 +7528,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "කල් දමනවා",
         "example": "B: Pokušaj da odrediš prioritete i unapred isplaniraš odmor.",
         "translation": "ප්‍රමුඛතා තීරණය කර විවේකයත් කලින් සැලසුම් කරන්න උත්සාහ කරන්න.",
-        "exampleReading": "б: покушай да одрэдиш приоритэтэ и унапрэд испланираш одмор."
+        "exampleReading": "බ්: පොකුෂාය් දා ඔද්රෙදිෂ් ප්රිඔරිතෙතෙ ඉ උනාප්රෙද් ඉස්ප්ලානිරාෂ් ඔද්මොර්."
       },
       {
         "word": "završiti",
@@ -7536,7 +7536,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "අවසන් කරනවා",
         "example": "A: Često prihvatim više zadataka nego što mogu da završim.",
         "translation": "මට අවසන් කළ හැකි ප්‍රමාණයට වඩා වැඩි කාර්යයන් මම භාරගන්නවා.",
-        "exampleReading": "а: чэсто прихватим вишэ задатака нэго што могу да завршим."
+        "exampleReading": "අ: චෙස්තො ප්රිහ්වාතිම් විෂෙ සාදාතාකා නෙගො ෂ්තො මොගු දා සාව්ර්ෂිම්."
       },
       {
         "word": "efikasan",
@@ -7544,7 +7544,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "කාර්යක්ෂම",
         "example": "B: Nauči da realno proceniš vreme koje ti je potrebno.",
         "translation": "ඔබට අවශ්‍ය කාලය යථාර්ථවාදීව ඇස්තමේන්තු කරන්න ඉගෙනගන්න.",
-        "exampleReading": "б: научи да рэално процэниш врэмэ койэ ти йэ потрэбно."
+        "exampleReading": "බ්: නාඋචි දා රෙඅල්නො ප්රොත්සෙනිෂ් ව්රෙමෙ කොයෙ ති යෙ පොත්රෙබ්නො."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -7666,7 +7666,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "සංස්කෘතිය",
         "example": "A: Poštovanje različitih običaja pomaže ljudima da sarađuju.",
         "translation": "විවිධ චාරිත්‍රවලට ගරු කිරීම මිනිසුන්ට සහයෝගයෙන් කටයුතු කිරීමට උපකාරී වෙනවා.",
-        "exampleReading": "а: поштованьэ различитих обичайа помажэ льудима да сараджуйу."
+        "exampleReading": "අ: පොෂ්තොවාන්‍යෙ රාස්ලිචිතිහ් ඔබිචායා පොමාෂෙ ල්‍යුදිමා දා සාරාජුයු."
       },
       {
         "word": "običaj",
@@ -7674,7 +7674,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "චාරිත්‍රය",
         "example": "B: Dobro je da se pre putovanja upoznamo sa lokalnim običajima.",
         "translation": "ගමනට පෙර දේශීය සිරිත් විරිත් ගැන දැනගැනීම ප්‍රයෝජනවත්.",
-        "exampleReading": "б: добро йэ да сэ прэ путованьа упознамо са локалним обичайима."
+        "exampleReading": "බ්: දොබ්රො යෙ දා සෙ ප්රෙ පුතොවාන්‍යා උපොස්නාමො සා ලොකාල්නිම් ඔබිචායිමා."
       },
       {
         "word": "perspektiva",
@@ -7682,7 +7682,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "දෘෂ්ටිකෝණය",
         "example": "A: Tako možemo pokazati poštovanje prema domaćinima.",
         "translation": "එමඟින් සත්කාරකයන්ට ගෞරවය පෙන්වන්න පුළුවන්.",
-        "exampleReading": "а: тако можэмо показати поштованьэ прэма домачинима."
+        "exampleReading": "අ: තාකො මොෂෙමො පොකාසාති පොෂ්තොවාන්‍යෙ ප්රෙමා දොමාචිනිමා."
       },
       {
         "word": "raznolikost",
@@ -7690,7 +7690,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "විවිධත්වය",
         "example": "B: Lakše ćemo izbeći neprijatne situacije.",
         "translation": "අපහසු අවස්ථා පහසුවෙන් වළක්වාගන්නත් පුළුවන්.",
-        "exampleReading": "б: лакшэ чэмо избэчи нэприйатнэ ситуацийэ."
+        "exampleReading": "බ්: ලාක්ෂෙ චෙමො ඉස්බෙචි නෙප්රියාත්නෙ සිතුඅත්සියෙ."
       },
       {
         "word": "poštovanje",
@@ -7698,7 +7698,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ගෞරවය",
         "example": "A: Poštovanje različitih običaja pomaže ljudima da sarađuju.",
         "translation": "විවිධ චාරිත්‍රවලට ගරු කිරීම මිනිසුන්ට සහයෝගයෙන් කටයුතු කිරීමට උපකාරී වෙනවා.",
-        "exampleReading": "а: поштованьэ различитих обичайа помажэ льудима да сараджуйу."
+        "exampleReading": "අ: පොෂ්තොවාන්‍යෙ රාස්ලිචිතිහ් ඔබිචායා පොමාෂෙ ල්‍යුදිමා දා සාරාජුයු."
       },
       {
         "word": "prilagoditi se",
@@ -7706,7 +7706,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "හැඩගැසෙනවා",
         "example": "B: Dobro je da se pre putovanja upoznamo sa lokalnim običajima.",
         "translation": "ගමනට පෙර දේශීය සිරිත් විරිත් ගැන දැනගැනීම ප්‍රයෝජනවත්.",
-        "exampleReading": "б: добро йэ да сэ прэ путованьа упознамо са локалним обичайима."
+        "exampleReading": "බ්: දොබ්රො යෙ දා සෙ ප්රෙ පුතොවාන්‍යා උපොස්නාමො සා ලොකාල්නිම් ඔබිචායිමා."
       },
       {
         "word": "komunikacija",
@@ -7714,7 +7714,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "සන්නිවේදනය",
         "example": "A: Tako možemo pokazati poštovanje prema domaćinima.",
         "translation": "එමඟින් සත්කාරකයන්ට ගෞරවය පෙන්වන්න පුළුවන්.",
-        "exampleReading": "а: тако можэмо показати поштованьэ прэма домачинима."
+        "exampleReading": "අ: තාකො මොෂෙමො පොකාසාති පොෂ්තොවාන්‍යෙ ප්රෙමා දොමාචිනිමා."
       },
       {
         "word": "stereotip",
@@ -7722,7 +7722,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ඒකාකෘතිය",
         "example": "B: Lakše ćemo izbeći neprijatne situacije.",
         "translation": "අපහසු අවස්ථා පහසුවෙන් වළක්වාගන්නත් පුළුවන්.",
-        "exampleReading": "б: лакшэ чэмо избэчи нэприйатнэ ситуацийэ."
+        "exampleReading": "බ්: ලාක්ෂෙ චෙමො ඉස්බෙචි නෙප්රියාත්නෙ සිතුඅත්සියෙ."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -7844,7 +7844,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ව්‍යවසායකයා",
         "example": "A: Dobar poslovni plan uzima u obzir potrebe kupaca.",
         "translation": "හොඳ ව්‍යාපාර සැලැස්මක් පාරිභෝගිකයන්ගේ අවශ්‍යතා සැලකිල්ලට ගන්නවා.",
-        "exampleReading": "а: добар пословни план узима у обзир потрэбэ купаца."
+        "exampleReading": "අ: දොබාර් පොස්ලොව්නි ප්ලාන් උසිමා උ ඔබ්සිර් පොත්රෙබෙ කුපාත්සා."
       },
       {
         "word": "poslovni plan",
@@ -7852,7 +7852,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ව්‍යාපාර සැලැස්ම",
         "example": "B: Pre početka istraži potrebe kupaca i izračunaj početne troškove.",
         "translation": "ආරම්භ කිරීමට පෙර පාරිභෝගික අවශ්‍යතා සොයා බලා ආරම්භක වියදම් ගණනය කරන්න.",
-        "exampleReading": "б: прэ почэтка истражи потрэбэ купаца и израчунай почэтнэ трошковэ."
+        "exampleReading": "බ්: ප්රෙ පොචෙත්කා ඉස්ත්රාෂි පොත්රෙබෙ කුපාත්සා ඉ ඉස්රාචුනාය් පොචෙත්නෙ ත්රොෂ්කොවෙ."
       },
       {
         "word": "kupac",
@@ -7860,7 +7860,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "පාරිභෝගිකයා",
         "example": "A: Razmišljam i o tome kako da promovišem uslugu.",
         "translation": "සේවාව ප්‍රචාරය කරන්නේ කොහොමද කියලත් මම හිතනවා.",
-        "exampleReading": "а: размишльам и о томэ како да промовишэм услугу."
+        "exampleReading": "අ: රාස්මිෂ්ල්‍යාම් ඉ ඔ තොමෙ කාකො දා ප්රොමොවිෂෙම් උස්ලුගු."
       },
       {
         "word": "potražnja",
@@ -7868,7 +7868,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ඉල්ලුම",
         "example": "B: Napravi jednostavan poslovni plan sa jasnim ciljevima.",
         "translation": "පැහැදිලි ඉලක්ක සහිත සරල ව්‍යාපාර සැලැස්මක් සකස් කරන්න.",
-        "exampleReading": "б: направи йэдноставан пословни план са йасним цильэвима."
+        "exampleReading": "බ්: නාප්රාවි යෙද්නොස්තාවාන් පොස්ලොව්නි ප්ලාන් සා යාස්නිම් ත්සිල්‍යෙවිමා."
       },
       {
         "word": "dobit",
@@ -7876,7 +7876,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ලාභය",
         "example": "A: Dobar poslovni plan uzima u obzir potrebe kupaca.",
         "translation": "හොඳ ව්‍යාපාර සැලැස්මක් පාරිභෝගිකයන්ගේ අවශ්‍යතා සැලකිල්ලට ගන්නවා.",
-        "exampleReading": "а: добар пословни план узима у обзир потрэбэ купаца."
+        "exampleReading": "අ: දොබාර් පොස්ලොව්නි ප්ලාන් උසිමා උ ඔබ්සිර් පොත්රෙබෙ කුපාත්සා."
       },
       {
         "word": "trošak",
@@ -7884,7 +7884,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "පිරිවැය",
         "example": "B: Pre početka istraži potrebe kupaca i izračunaj početne troškove.",
         "translation": "ආරම්භ කිරීමට පෙර පාරිභෝගික අවශ්‍යතා සොයා බලා ආරම්භක වියදම් ගණනය කරන්න.",
-        "exampleReading": "б: прэ почэтка истражи потрэбэ купаца и израчунай почэтнэ трошковэ."
+        "exampleReading": "බ්: ප්රෙ පොචෙත්කා ඉස්ත්රාෂි පොත්රෙබෙ කුපාත්සා ඉ ඉස්රාචුනාය් පොචෙත්නෙ ත්රොෂ්කොවෙ."
       },
       {
         "word": "dobavljač",
@@ -7892,7 +7892,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "සැපයුම්කරු",
         "example": "A: Razmišljam i o tome kako da promovišem uslugu.",
         "translation": "සේවාව ප්‍රචාරය කරන්නේ කොහොමද කියලත් මම හිතනවා.",
-        "exampleReading": "а: размишльам и о томэ како да промовишэм услугу."
+        "exampleReading": "අ: රාස්මිෂ්ල්‍යාම් ඉ ඔ තොමෙ කාකො දා ප්රොමොවිෂෙම් උස්ලුගු."
       },
       {
         "word": "povratna informacija",
@@ -7900,7 +7900,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ප්‍රතිචාරය",
         "example": "B: Napravi jednostavan poslovni plan sa jasnim ciljevima.",
         "translation": "පැහැදිලි ඉලක්ක සහිත සරල ව්‍යාපාර සැලැස්මක් සකස් කරන්න.",
-        "exampleReading": "б: направи йэдноставан пословни план са йасним цильэвима."
+        "exampleReading": "බ්: නාප්රාවි යෙද්නොස්තාවාන් පොස්ලොව්නි ප්ලාන් සා යාස්නිම් ත්සිල්‍යෙවිමා."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -8022,7 +8022,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "වාර්තාව",
         "example": "A: Izveštaj treba jasno da predstavi podatke i zaključke.",
         "translation": "වාර්තාවක දත්ත සහ නිගමන පැහැදිලිව ඉදිරිපත් කළ යුතුයි.",
-        "exampleReading": "а: извэштай трэба йасно да прэдстави податкэ и закльучкэ."
+        "exampleReading": "අ: ඉස්වෙෂ්තාය් ත්රෙබා යාස්නො දා ප්රෙද්ස්තාවි පොදාත්කෙ ඉ සාක්ල්‍යුච්කෙ."
       },
       {
         "word": "podaci",
@@ -8030,7 +8030,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "දත්ත",
         "example": "B: Bilo bi korisno da prikažemo podatke i na grafikonu.",
         "translation": "දත්ත ප්‍රස්ථාරයකින් ද පෙන්වීම ප්‍රයෝජනවත් වේවි.",
-        "exampleReading": "б: било би корисно да прикажэмо податкэ и на графикону."
+        "exampleReading": "බ්: බිලො බි කොරිස්නො දා ප්රිකාෂෙමො පොදාත්කෙ ඉ නා ග්රාෆිකොනු."
       },
       {
         "word": "brojka",
@@ -8038,7 +8038,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "සංඛ්‍යාව",
         "example": "A: Tako će čitaoci lakše uočiti promene.",
         "translation": "එවිට පාඨකයන්ට වෙනස්කම් පහසුවෙන් දැකගත හැකියි.",
-        "exampleReading": "а: тако чэ читаоци лакшэ уочити промэнэ."
+        "exampleReading": "අ: තාකො චෙ චිතාඔත්සි ලාක්ෂෙ උඔචිති ප්රොමෙනෙ."
       },
       {
         "word": "trend",
@@ -8046,7 +8046,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ප්‍රවණතාව",
         "example": "B: Uz grafikon dodaj kratak opis najvažnijih rezultata.",
         "translation": "ප්‍රස්ථාරය සමඟ වැදගත්ම ප්‍රතිඵල පිළිබඳ කෙටි විස්තරයක් එක් කරන්න.",
-        "exampleReading": "б: уз графикон додай кратак опис найважнийих рэзултата."
+        "exampleReading": "බ්: උස් ග්රාෆිකොන් දොදාය් ක්රාතාක් ඔපිස් නාය්වාෂ්නියිහ් රෙසුල්තාතා."
       },
       {
         "word": "povećanje",
@@ -8054,7 +8054,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "වැඩිවීම",
         "example": "A: Izveštaj treba jasno da predstavi podatke i zaključke.",
         "translation": "වාර්තාවක දත්ත සහ නිගමන පැහැදිලිව ඉදිරිපත් කළ යුතුයි.",
-        "exampleReading": "а: извэштай трэба йасно да прэдстави податкэ и закльучкэ."
+        "exampleReading": "අ: ඉස්වෙෂ්තාය් ත්රෙබා යාස්නො දා ප්රෙද්ස්තාවි පොදාත්කෙ ඉ සාක්ල්‍යුච්කෙ."
       },
       {
         "word": "smanjenje",
@@ -8062,7 +8062,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "අඩුවීම",
         "example": "B: Bilo bi korisno da prikažemo podatke i na grafikonu.",
         "translation": "දත්ත ප්‍රස්ථාරයකින් ද පෙන්වීම ප්‍රයෝජනවත් වේවි.",
-        "exampleReading": "б: било би корисно да прикажэмо податкэ и на графикону."
+        "exampleReading": "බ්: බිලො බි කොරිස්නො දා ප්රිකාෂෙමො පොදාත්කෙ ඉ නා ග්රාෆිකොනු."
       },
       {
         "word": "zaključak",
@@ -8070,7 +8070,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "නිගමනය",
         "example": "A: Tako će čitaoci lakše uočiti promene.",
         "translation": "එවිට පාඨකයන්ට වෙනස්කම් පහසුවෙන් දැකගත හැකියි.",
-        "exampleReading": "а: тако чэ читаоци лакшэ уочити промэнэ."
+        "exampleReading": "අ: තාකො චෙ චිතාඔත්සි ලාක්ෂෙ උඔචිති ප්රොමෙනෙ."
       },
       {
         "word": "dodatak",
@@ -8078,7 +8078,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ඇමුණුම",
         "example": "B: Uz grafikon dodaj kratak opis najvažnijih rezultata.",
         "translation": "ප්‍රස්ථාරය සමඟ වැදගත්ම ප්‍රතිඵල පිළිබඳ කෙටි විස්තරයක් එක් කරන්න.",
-        "exampleReading": "б: уз графикон додай кратак опис найважнийих рэзултата."
+        "exampleReading": "බ්: උස් ග්රාෆිකොන් දොදාය් ක්රාතාක් ඔපිස් නාය්වාෂ්නියිහ් රෙසුල්තාතා."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -8200,7 +8200,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "විවාදය",
         "example": "A: Javna rasprava pomaže da razumemo različita mišljenja.",
         "translation": "පොදු විවාදය විවිධ අදහස් තේරුම් ගැනීමට උපකාරී වෙනවා.",
-        "exampleReading": "а: йавна расправа помажэ да разумэмо различита мишльэньа."
+        "exampleReading": "අ: යාව්නා රාස්ප්රාවා පොමාෂෙ දා රාසුමෙමො රාස්ලිචිතා මිෂ්ල්‍යෙන්‍යා."
       },
       {
         "word": "javno mišljenje",
@@ -8208,7 +8208,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "මහජන මතය",
         "example": "B: Treba da saslušamo obe strane pre nego što donesemo zaključak.",
         "translation": "නිගමනයකට එන්න පෙර දෙපාර්ශ්වයටම සවන් දිය යුතුයි.",
-        "exampleReading": "б: трэба да саслушамо обэ странэ прэ нэго што донэсэмо закльучак."
+        "exampleReading": "බ්: ත්රෙබා දා සාස්ලුෂාමො ඔබෙ ස්ත්රානෙ ප්රෙ නෙගො ෂ්තො දොනෙසෙමො සාක්ල්‍යුචාක්."
       },
       {
         "word": "stanovište",
@@ -8216,7 +8216,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "දෘෂ්ටිකෝණය",
         "example": "A: Jedan govornik je izneo podatke, a drugi lično iskustvo.",
         "translation": "එක් කථිකයෙක් දත්ත ඉදිරිපත් කළ අතර අනෙක් කෙනා පෞද්ගලික අත්දැකීමක් බෙදාගත්තා.",
-        "exampleReading": "а: йэдан говорник йэ изнэо податкэ, а други лично искуство."
+        "exampleReading": "අ: යෙදාන් ගොවොර්නික් යෙ ඉස්නෙඔ පොදාත්කෙ, අ ද්රුගි ලිච්නො ඉස්කුස්ත්වො."
       },
       {
         "word": "argument",
@@ -8224,7 +8224,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "තර්කය",
         "example": "B: Važno je da proverimo podatke i razumemo kontekst.",
         "translation": "දත්ත පරීක්ෂා කර සන්දර්භය තේරුම් ගැනීම වැදගත්.",
-        "exampleReading": "б: важно йэ да провэримо податкэ и разумэмо контэкст."
+        "exampleReading": "බ්: වාෂ්නො යෙ දා ප්රොවෙරිමො පොදාත්කෙ ඉ රාසුමෙමො කොන්තෙක්ස්ත්."
       },
       {
         "word": "protivargument",
@@ -8232,7 +8232,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ප්‍රතිතර්කය",
         "example": "A: Javna rasprava pomaže da razumemo različita mišljenja.",
         "translation": "පොදු විවාදය විවිධ අදහස් තේරුම් ගැනීමට උපකාරී වෙනවා.",
-        "exampleReading": "а: йавна расправа помажэ да разумэмо различита мишльэньа."
+        "exampleReading": "අ: යාව්නා රාස්ප්රාවා පොමාෂෙ දා රාසුමෙමො රාස්ලිචිතා මිෂ්ල්‍යෙන්‍යා."
       },
       {
         "word": "ubediti",
@@ -8240,7 +8240,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ඒත්තු ගන්වනවා",
         "example": "B: Treba da saslušamo obe strane pre nego što donesemo zaključak.",
         "translation": "නිගමනයකට එන්න පෙර දෙපාර්ශ්වයටම සවන් දිය යුතුයි.",
-        "exampleReading": "б: трэба да саслушамо обэ странэ прэ нэго што донэсэмо закльучак."
+        "exampleReading": "බ්: ත්රෙබා දා සාස්ලුෂාමො ඔබෙ ස්ත්රානෙ ප්රෙ නෙගො ෂ්තො දොනෙසෙමො සාක්ල්‍යුචාක්."
       },
       {
         "word": "razgovarati",
@@ -8248,7 +8248,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "සාකච්ඡා කරනවා",
         "example": "A: Jedan govornik je izneo podatke, a drugi lično iskustvo.",
         "translation": "එක් කථිකයෙක් දත්ත ඉදිරිපත් කළ අතර අනෙක් කෙනා පෞද්ගලික අත්දැකීමක් බෙදාගත්තා.",
-        "exampleReading": "а: йэдан говорник йэ изнэо податкэ, а други лично искуство."
+        "exampleReading": "අ: යෙදාන් ගොවොර්නික් යෙ ඉස්නෙඔ පොදාත්කෙ, අ ද්රුගි ලිච්නො ඉස්කුස්ත්වො."
       },
       {
         "word": "zaključiti",
@@ -8256,7 +8256,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "නිගමනය කරනවා",
         "example": "B: Važno je da proverimo podatke i razumemo kontekst.",
         "translation": "දත්ත පරීක්ෂා කර සන්දර්භය තේරුම් ගැනීම වැදගත්.",
-        "exampleReading": "б: важно йэ да провэримо податкэ и разумэмо контэкст."
+        "exampleReading": "බ්: වාෂ්නො යෙ දා ප්රොවෙරිමො පොදාත්කෙ ඉ රාසුමෙමො කොන්තෙක්ස්ත්."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -8378,7 +8378,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "සංකීර්ණ",
         "example": "A: Pre izbora rešenja treba proceniti moguće posledice.",
         "translation": "විසඳුමක් තෝරාගැනීමට පෙර ඇතිවිය හැකි ප්‍රතිවිපාක ඇගයිය යුතුයි.",
-        "exampleReading": "а: прэ избора рэшэньа трэба процэнити могучэ послэдицэ."
+        "exampleReading": "අ: ප්රෙ ඉස්බොරා රෙෂෙන්‍යා ත්රෙබා ප්රොත්සෙනිති මොගුචෙ පොස්ලෙදිත්සෙ."
       },
       {
         "word": "proceniti",
@@ -8386,7 +8386,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ඇගයීම",
         "example": "B: Treba da procenimo posledice i odmah kontaktiramo drugog dobavljača.",
         "translation": "ප්‍රතිවිපාක තක්සේරු කර වහාම වෙනත් සැපයුම්කරුවෙකු සම්බන්ධ කරගත යුතුයි.",
-        "exampleReading": "б: трэба да процэнимо послэдицэ и одмах контактирамо другог добавльача."
+        "exampleReading": "බ්: ත්රෙබා දා ප්රොත්සෙනිමො පොස්ලෙදිත්සෙ ඉ ඔද්මාහ් කොන්තාක්තිරාමො ද්රුගොග් දොබාව්ල්‍යාචා."
       },
       {
         "word": "posledica",
@@ -8394,7 +8394,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ප්‍රතිවිපාකය",
         "example": "A: To može povećati troškove.",
         "translation": "එයින් වියදම් වැඩි විය හැකියි.",
-        "exampleReading": "а: то можэ повэчати трошковэ."
+        "exampleReading": "අ: තො මොෂෙ පොවෙචාති ත්රොෂ්කොවෙ."
       },
       {
         "word": "opcija",
@@ -8402,7 +8402,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "විකල්පය",
         "example": "B: Uporedimo cenu kašnjenja sa cenom alternativnog rešenja.",
         "translation": "ප්‍රමාදයේ වියදම විකල්ප විසඳුමේ වියදම සමඟ සසඳමු.",
-        "exampleReading": "б: упорэдимо цэну кашньэньа са цэном алтэрнативног рэшэньа."
+        "exampleReading": "බ්: උපොරෙදිමො ත්සෙනු කාෂ්න්‍යෙන්‍යා සා ත්සෙනොම් අල්තෙර්නාතිව්නොග් රෙෂෙන්‍යා."
       },
       {
         "word": "rizik",
@@ -8410,7 +8410,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "අවදානම",
         "example": "A: Pre izbora rešenja treba proceniti moguće posledice.",
         "translation": "විසඳුමක් තෝරාගැනීමට පෙර ඇතිවිය හැකි ප්‍රතිවිපාක ඇගයිය යුතුයි.",
-        "exampleReading": "а: прэ избора рэшэньа трэба процэнити могучэ послэдицэ."
+        "exampleReading": "අ: ප්රෙ ඉස්බොරා රෙෂෙන්‍යා ත්රෙබා ප්රොත්සෙනිති මොගුචෙ පොස්ලෙදිත්සෙ."
       },
       {
         "word": "korist",
@@ -8418,7 +8418,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ප්‍රයෝජනය",
         "example": "B: Treba da procenimo posledice i odmah kontaktiramo drugog dobavljača.",
         "translation": "ප්‍රතිවිපාක තක්සේරු කර වහාම වෙනත් සැපයුම්කරුවෙකු සම්බන්ධ කරගත යුතුයි.",
-        "exampleReading": "б: трэба да процэнимо послэдицэ и одмах контактирамо другог добавльача."
+        "exampleReading": "බ්: ත්රෙබා දා ප්රොත්සෙනිමො පොස්ලෙදිත්සෙ ඉ ඔද්මාහ් කොන්තාක්තිරාමො ද්රුගොග් දොබාව්ල්‍යාචා."
       },
       {
         "word": "delotvoran",
@@ -8426,7 +8426,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ඵලදායී",
         "example": "A: To može povećati troškove.",
         "translation": "එයින් වියදම් වැඩි විය හැකියි.",
-        "exampleReading": "а: то можэ повэчати трошковэ."
+        "exampleReading": "අ: තො මොෂෙ පොවෙචාති ත්රොෂ්කොවෙ."
       },
       {
         "word": "izvodljiv",
@@ -8434,7 +8434,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "කළ හැකි",
         "example": "B: Uporedimo cenu kašnjenja sa cenom alternativnog rešenja.",
         "translation": "ප්‍රමාදයේ වියදම විකල්ප විසඳුමේ වියදම සමඟ සසඳමු.",
-        "exampleReading": "б: упорэдимо цэну кашньэньа са цэном алтэрнативног рэшэньа."
+        "exampleReading": "බ්: උපොරෙදිමො ත්සෙනු කාෂ්න්‍යෙන්‍යා සා ත්සෙනොම් අල්තෙර්නාතිව්නොග් රෙෂෙන්‍යා."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -8556,7 +8556,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "අනාවැකිය",
         "example": "A: Fleksibilan plan pomaže nam da se prilagodimo promenama.",
         "translation": "නම්‍යශීලී සැලැස්මක් වෙනස්කම්වලට හැඩගැසීමට අපට උපකාරී වෙනවා.",
-        "exampleReading": "а: флэксибилан план помажэ нам да сэ прилагодимо промэнама."
+        "exampleReading": "අ: ෆ්ලෙක්සිබිලාන් ප්ලාන් පොමාෂෙ නාම් දා සෙ ප්රිලාගොදිමො ප්රොමෙනාමා."
       },
       {
         "word": "fleksibilan",
@@ -8564,7 +8564,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "නම්‍යශීලී",
         "example": "B: Napravi plan koji uključuje rokove, troškove i rezervnu mogućnost.",
         "translation": "කාලසීමා, වියදම් සහ විකල්ප සැලැස්මක් ඇතුළත් සැලැස්මක් සකස් කරන්න.",
-        "exampleReading": "б: направи план койи укльучуйэ роковэ, трошковэ и рэзэрвну могучност."
+        "exampleReading": "බ්: නාප්රාවි ප්ලාන් කොයි උක්ල්‍යුචුයෙ රොකොවෙ, ත්රොෂ්කොවෙ ඉ රෙසෙර්ව්නු මොගුච්නොස්ත්."
       },
       {
         "word": "pripremiti",
@@ -8572,7 +8572,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "සූදානම් කරනවා",
         "example": "A: Ne mogu da predvidim sve promene.",
         "translation": "සියලු වෙනස්කම් කලින් අනාවැකි කියන්න මට බැහැ.",
-        "exampleReading": "а: нэ могу да прэдвидим свэ промэнэ."
+        "exampleReading": "අ: නෙ මොගු දා ප්රෙද්විදිම් ස්වෙ ප්රොමෙනෙ."
       },
       {
         "word": "prilagoditi se",
@@ -8580,7 +8580,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "හැඩගැසෙනවා",
         "example": "B: Zato plan treba redovno prilagođavati novim okolnostima.",
         "translation": "නව තත්ත්වයන්ට අනුව සැලැස්ම නිතර සකස් කළ යුතුයි.",
-        "exampleReading": "б: зато план трэба рэдовно прилагоджавати новим околностима."
+        "exampleReading": "බ්: සාතො ප්ලාන් ත්රෙබා රෙදොව්නො ප්රිලාගොජාවාති නොවිම් ඔකොල්නොස්තිමා."
       },
       {
         "word": "neizvesnost",
@@ -8588,7 +8588,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "අනිශ්චිතභාවය",
         "example": "A: Fleksibilan plan pomaže nam da se prilagodimo promenama.",
         "translation": "නම්‍යශීලී සැලැස්මක් වෙනස්කම්වලට හැඩගැසීමට අපට උපකාරී වෙනවා.",
-        "exampleReading": "а: флэксибилан план помажэ нам да сэ прилагодимо промэнама."
+        "exampleReading": "අ: ෆ්ලෙක්සිබිලාන් ප්ලාන් පොමාෂෙ නාම් දා සෙ ප්රිලාගොදිමො ප්රොමෙනාමා."
       },
       {
         "word": "strategija",
@@ -8596,7 +8596,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "උපායමාර්ගය",
         "example": "B: Napravi plan koji uključuje rokove, troškove i rezervnu mogućnost.",
         "translation": "කාලසීමා, වියදම් සහ විකල්ප සැලැස්මක් ඇතුළත් සැලැස්මක් සකස් කරන්න.",
-        "exampleReading": "б: направи план койи укльучуйэ роковэ, трошковэ и рэзэрвну могучност."
+        "exampleReading": "බ්: නාප්රාවි ප්ලාන් කොයි උක්ල්‍යුචුයෙ රොකොවෙ, ත්රොෂ්කොවෙ ඉ රෙසෙර්ව්නු මොගුච්නොස්ත්."
       },
       {
         "word": "rezervni plan",
@@ -8604,7 +8604,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "විකල්ප සැලැස්ම",
         "example": "A: Ne mogu da predvidim sve promene.",
         "translation": "සියලු වෙනස්කම් කලින් අනාවැකි කියන්න මට බැහැ.",
-        "exampleReading": "а: нэ могу да прэдвидим свэ промэнэ."
+        "exampleReading": "අ: නෙ මොගු දා ප්රෙද්විදිම් ස්වෙ ප්රොමෙනෙ."
       },
       {
         "word": "dugoročan",
@@ -8612,7 +8612,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "දිගුකාලීන",
         "example": "B: Zato plan treba redovno prilagođavati novim okolnostima.",
         "translation": "නව තත්ත්වයන්ට අනුව සැලැස්ම නිතර සකස් කළ යුතුයි.",
-        "exampleReading": "б: зато план трэба рэдовно прилагоджавати новим околностима."
+        "exampleReading": "බ්: සාතො ප්ලාන් ත්රෙබා රෙදොව්නො ප්රිලාගොජාවාති නොවිම් ඔකොල්නොස්තිමා."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -8734,7 +8734,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "හැඳින්වීම",
         "example": "A: Jasno izlaganje povezuje primere, razloge i zaključak.",
         "translation": "පැහැදිලි ඉදිරිපත් කිරීමක් උදාහරණ, හේතු සහ නිගමනය එකට සම්බන්ධ කරනවා.",
-        "exampleReading": "а: йасно излаганьэ повэзуйэ примэрэ, разлогэ и закльучак."
+        "exampleReading": "අ: යාස්නො ඉස්ලාගාන්‍යෙ පොවෙසුයෙ ප්රිමෙරෙ, රාස්ලොගෙ ඉ සාක්ල්‍යුචාක්."
       },
       {
         "word": "potporna tačka",
@@ -8742,7 +8742,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "සහායක කරුණ",
         "example": "B: Dodaj konkretan primer i jasno ponovi glavni zaključak na kraju.",
         "translation": "නිශ්චිත උදාහරණයක් එක් කර අවසානයේ ප්‍රධාන නිගමනය පැහැදිලිව නැවත කියන්න.",
-        "exampleReading": "б: додай конкрэтан примэр и йасно понови главни закльучак на крайу."
+        "exampleReading": "බ්: දොදාය් කොන්ක්රෙතාන් ප්රිමෙර් ඉ යාස්නො පොනොවි ග්ලාව්නි සාක්ල්‍යුචාක් නා ක්රායු."
       },
       {
         "word": "primer",
@@ -8750,7 +8750,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "උදාහරණය",
         "example": "A: Tako će publika lakše pratiti argumente.",
         "translation": "එවිට ප්‍රේක්ෂකයන්ට තර්ක පහසුවෙන් අනුගමනය කළ හැකියි.",
-        "exampleReading": "а: тако чэ публика лакшэ пратити аргумэнтэ."
+        "exampleReading": "අ: තාකො චෙ පුබ්ලිකා ලාක්ෂෙ ප්රාතිති අර්ගුමෙන්තෙ."
       },
       {
         "word": "sažetak",
@@ -8758,7 +8758,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "සාරාංශය",
         "example": "B: Dobra struktura povezuje tvrdnje, dokaze i zaključak.",
         "translation": "හොඳ ව්‍යුහයක් අදහස්, සාක්ෂි සහ නිගමනය එකට සම්බන්ධ කරනවා.",
-        "exampleReading": "б: добра структура повэзуйэ тврдньэ, доказэ и закльучак."
+        "exampleReading": "බ්: දොබ්රා ස්ත්රුක්තුරා පොවෙසුයෙ ත්ව්ර්ද්න්‍යෙ, දොකාසෙ ඉ සාක්ල්‍යුචාක්."
       },
       {
         "word": "struktura",
@@ -8766,7 +8766,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "ව්‍යුහය",
         "example": "A: Jasno izlaganje povezuje primere, razloge i zaključak.",
         "translation": "පැහැදිලි ඉදිරිපත් කිරීමක් උදාහරණ, හේතු සහ නිගමනය එකට සම්බන්ධ කරනවා.",
-        "exampleReading": "а: йасно излаганьэ повэзуйэ примэрэ, разлогэ и закльучак."
+        "exampleReading": "අ: යාස්නො ඉස්ලාගාන්‍යෙ පොවෙසුයෙ ප්රිමෙරෙ, රාස්ලොගෙ ඉ සාක්ල්‍යුචාක්."
       },
       {
         "word": "prelaz",
@@ -8774,7 +8774,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "සංක්‍රාන්තිය",
         "example": "B: Dodaj konkretan primer i jasno ponovi glavni zaključak na kraju.",
         "translation": "නිශ්චිත උදාහරණයක් එක් කර අවසානයේ ප්‍රධාන නිගමනය පැහැදිලිව නැවත කියන්න.",
-        "exampleReading": "б: додай конкрэтан примэр и йасно понови главни закльучак на крайу."
+        "exampleReading": "බ්: දොදාය් කොන්ක්රෙතාන් ප්රිමෙර් ඉ යාස්නො පොනොවි ග්ලාව්නි සාක්ල්‍යුචාක් නා ක්රායු."
       },
       {
         "word": "naglasiti",
@@ -8782,7 +8782,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "අවධාරණය කරනවා",
         "example": "A: Tako će publika lakše pratiti argumente.",
         "translation": "එවිට ප්‍රේක්ෂකයන්ට තර්ක පහසුවෙන් අනුගමනය කළ හැකියි.",
-        "exampleReading": "а: тако чэ публика лакшэ пратити аргумэнтэ."
+        "exampleReading": "අ: තාකො චෙ පුබ්ලිකා ලාක්ෂෙ ප්රාතිති අර්ගුමෙන්තෙ."
       },
       {
         "word": "zaključak",
@@ -8790,7 +8790,7 @@ export const SERBIAN_B1_LESSONS = [
         "meaning": "නිගමනය",
         "example": "B: Dobra struktura povezuje tvrdnje, dokaze i zaključak.",
         "translation": "හොඳ ව්‍යුහයක් අදහස්, සාක්ෂි සහ නිගමනය එකට සම්බන්ධ කරනවා.",
-        "exampleReading": "б: добра структура повэзуйэ тврдньэ, доказэ и закльучак."
+        "exampleReading": "බ්: දොබ්රා ස්ත්රුක්තුරා පොවෙසුයෙ ත්ව්ර්ද්න්‍යෙ, දොකාසෙ ඉ සාක්ල්‍යුචාක්."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
