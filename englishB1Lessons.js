@@ -1891,7 +1891,7 @@ export const ENGLISH_B1_LESSONS = [
       {
         "text": "B: Do you usually check the timetable before leaving?",
         "reading": "B: ඩ්ඔ යිඅවු අස්අඇල්ල්යි ච්එක්ක් ත්එ ට්ඉම්එට්ඇබ්ල්එ බ්එෆ්ඔර්එ ල්ඊව්ඉං?",
-        "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
+        "meaning": "පිටත්වීමට පෙර ඔබ සාමාන්‍යයෙන් දුම්රිය කාලසටහන පරීක්ෂා කරනවාද?"
       },
       {
         "text": "A: If there is traffic, we might take a taxi.",
@@ -2069,7 +2069,7 @@ export const ENGLISH_B1_LESSONS = [
       {
         "text": "B: Does reading or conversation help you more?",
         "reading": "B: ඩ්ඔඑස් ර්ඊඩ්ඉං ඔර් ක්ඔන්ව්එර්ස්ඇෂන් හ්එල්ප් යිඅවු ම්ඔර්එ?",
-        "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
+        "meaning": "කියවීමද සංවාදයෙන් කතා කිරීමද ඔබට වැඩියෙන් උපකාරී වෙන්නේ?"
       },
       {
         "text": "A: I learn most when I use the language in conversation.",
@@ -2247,7 +2247,7 @@ export const ENGLISH_B1_LESSONS = [
       {
         "text": "B: Have you checked the time of the next departure?",
         "reading": "B: හ්ඇව්එ යිඅවු ච්එක්ක්එඩ් ත්එ ට්ඉම්එ ඔෆ් ත්එ න්එක්ස්ට් ඩ්එප්ඇර්ට්අර්එ?",
-        "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
+        "meaning": "ඊළඟ ගමන් වාරයේ වේලාව ඔබ පරීක්ෂා කළාද?"
       },
       {
         "text": "A: If we miss the train, we will check the next departure.",
@@ -2425,7 +2425,7 @@ export const ENGLISH_B1_LESSONS = [
       {
         "text": "B: Do you have the receipt and a photo of the damage?",
         "reading": "B: ඩ්ඔ යිඅවු හ්ඇව්එ ත්එ ර්එක්එඉප්ට් ඇන්ඩ් ඇ ෆ්ඔට්ඔ ඔෆ් ත්එ ඩ්ඇම්ඇග්එ?",
-        "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
+        "meaning": "ඔබ ළඟ රිසිට්පත සහ හානිය පෙන්වන ඡායාරූපයක් තිබෙනවාද?"
       },
       {
         "text": "A: Please explain the available replacement options.",
@@ -2603,7 +2603,7 @@ export const ENGLISH_B1_LESSONS = [
       {
         "text": "B: Are the steps clear, and in what order should they be followed?",
         "reading": "B: ඇර්එ ත්එ ස්ට්එප්ස් ක්ල්ඊර්, ඇන්ඩ් ඉන් වඇට් ඔර්ඩ්එර් ෂ්අවුල්ඩ් ත්එයි බ්එ ෆ්ඔල්ල්ඕඑඩ්?",
-        "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
+        "meaning": "පියවර පැහැදිලිද? ඒවා අනුගමනය කළ යුතු අනුපිළිවෙළ මොකක්ද?"
       },
       {
         "text": "A: After the device is switched on, wait a few seconds.",
@@ -2781,7 +2781,7 @@ export const ENGLISH_B1_LESSONS = [
       {
         "text": "B: How can residents take part in the activity?",
         "reading": "B: හ්ඕ ක්ඇන් ර්එස්ඉඩ්එන්ට්ස් ට්ඇක්එ ප්ඇර්ට් ඉන් ත්එ ඇක්ට්ඉව්ඉට්යි?",
-        "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
+        "meaning": "ප්‍රදේශවාසීන්ට මෙම වැඩසටහනට සහභාගී විය හැක්කේ කෙසේද?"
       },
       {
         "text": "A: Residents can suggest solutions at the public meeting.",
@@ -2959,7 +2959,7 @@ export const ENGLISH_B1_LESSONS = [
       {
         "text": "B: What takes up most of your free time?",
         "reading": "B: වඇට් ට්ඇක්එස් අප් ම්ඔස්ට් ඔෆ් යිඅවුර් ෆ්ර්ඊ ට්ඉම්එ?",
-        "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
+        "meaning": "ඔබගේ නිදහස් කාලයෙන් වැඩි කොටසක් ගතවෙන්නේ කුමක් සඳහාද?"
       },
       {
         "text": "A: If we plan our tasks in advance, we will have more free time.",
@@ -3137,7 +3137,7 @@ export const ENGLISH_B1_LESSONS = [
       {
         "text": "B: What small changes can we make at home?",
         "reading": "B: වඇට් ස්ම්ඇල්ල් ච්ඇංඑස් ක්ඇන් ව්එ ම්ඇක්එ ඇට් හ්ඔම්එ?",
-        "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
+        "meaning": "නිවසේදී අපට හඳුන්වා දිය හැකි කුඩා වෙනස්කම් මොනවාද?"
       },
       {
         "text": "A: If we reduce waste, we protect natural resources.",
@@ -3315,7 +3315,7 @@ export const ENGLISH_B1_LESSONS = [
       {
         "text": "B: Why was the match postponed?",
         "reading": "B: වයි ව්ඇස් ත්එ ම්ඇච් ප්ඔස්ට්ප්ඔන්එඩ්?",
-        "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
+        "meaning": "තරගය කල් දැමුවේ ඇයි?"
       },
       {
         "text": "A: There was not enough time, so we changed the plan.",
@@ -3493,7 +3493,7 @@ export const ENGLISH_B1_LESSONS = [
       {
         "text": "B: Which criterion is most important to you when choosing?",
         "reading": "B: වඉච් ක්ර්ඉට්එර්ඉඔන් ඉස් ම්ඔස්ට් ඉම්ප්ඔර්ට්ඇන්ට් ට්ඔ යිඅවු වඑන් ච්උස්ඉං?",
-        "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
+        "meaning": "තේරීමක් කිරීමේදී ඔබට වඩාත් වැදගත් නිර්ණායකය කුමක්ද?"
       },
       {
         "text": "A: In my opinion, the advantages outweigh the disadvantages.",
@@ -3671,7 +3671,7 @@ export const ENGLISH_B1_LESSONS = [
       {
         "text": "B: Which course do you need for your work?",
         "reading": "B: වඉච් ක්අවුර්ස්එ ඩ්ඔ යිඅවු න්ඊඩ් ෆ්ඔර් යිඅවුර් ව්ඔර්ක්?",
-        "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
+        "meaning": "රැකියාව සඳහා ඔබට අවශ්‍ය පාඨමාලාව කුමක්ද?"
       },
       {
         "text": "A: It is important to choose a programme that fits my schedule and goals.",
@@ -3849,7 +3849,7 @@ export const ENGLISH_B1_LESSONS = [
       {
         "text": "B: Which app features do you use most often?",
         "reading": "B: වඉච් ඇප්ප් ෆ්ඊට්අර්එස් ඩ්ඔ යිඅවු අස්එ ම්ඔස්ට් ඔෆ්ට්එන්?",
-        "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
+        "meaning": "ඔබ බොහෝවිට භාවිත කරන යෙදුමේ විශේෂාංග මොනවාද?"
       },
       {
         "text": "A: Reminders and the calendar help me organise tasks the most.",
@@ -4027,7 +4027,7 @@ export const ENGLISH_B1_LESSONS = [
       {
         "text": "B: How much money do you want to save each month?",
         "reading": "B: හ්ඕ ම්අච් ම්ඔන්එයි ඩ්ඔ යිඅවු ව්ඇන්ට් ට්ඔ ස්ඇව්එ ඊච් ම්ඔන්ත්?",
-        "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
+        "meaning": "සෑම මාසයකම ඔබ කොපමණ මුදලක් ඉතිරි කිරීමට කැමතිද?"
       },
       {
         "text": "A: I will set a realistic amount and put it aside from my salary automatically.",
@@ -4205,7 +4205,7 @@ export const ENGLISH_B1_LESSONS = [
       {
         "text": "B: How do you organise rest when you have many responsibilities?",
         "reading": "B: හ්ඕ ඩ්ඔ යිඅවු ඔර්ග්ඇන්ඉස්එ ර්එස්ට් වඑන් යිඅවු හ්ඇව්එ ම්ඇන්යි ර්එස්ප්ඔන්ස්ඉබ්ඉල්ඉට්ඉඑස්?",
-        "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
+        "meaning": "බොහෝ වගකීම් තිබෙන විට ඔබ විවේකය සංවිධානය කරගන්නේ කෙසේද?"
       },
       {
         "text": "A: I try to go to bed at the same time and take short breaks.",
@@ -4383,7 +4383,7 @@ export const ENGLISH_B1_LESSONS = [
       {
         "text": "B: Which tradition is especially important to you?",
         "reading": "B: වඉච් ට්ර්ඇඩ්ඉෂන් ඉස් එස්ප්එක්ඉඇල්ල්යි ඉම්ප්ඔර්ට්ඇන්ට් ට්ඔ යිඅවු?",
-        "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
+        "meaning": "ඔබට විශේෂයෙන් වැදගත් සම්ප්‍රදාය කුමක්ද?"
       },
       {
         "text": "A: Family gatherings are important because they connect us with older generations.",
@@ -4561,7 +4561,7 @@ export const ENGLISH_B1_LESSONS = [
       {
         "text": "B: Which skill from your experience can you present to an employer?",
         "reading": "B: වඉච් ස්ක්ඉල්ල් ෆ්ර්ඔම් යිඅවුර් එක්ස්ප්එර්ඉඑන්ක්එ ක්ඇන් යිඅවු ප්ර්එස්එන්ට් ට්ඔ ඇන් එම්ප්ල්ඔයිඑර්?",
-        "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
+        "meaning": "ඔබගේ අත්දැකීම්වලින් සේවායෝජකයෙකුට ඉදිරිපත් කළ හැකි කුසලතාව කුමක්ද?"
       },
       {
         "text": "A: I learned to communicate with customers and solve their problems.",
@@ -4739,7 +4739,7 @@ export const ENGLISH_B1_LESSONS = [
       {
         "text": "B: How can we resolve a disagreement in the meeting?",
         "reading": "B: හ්ඕ ක්ඇන් ව්එ ර්එස්ඔල්ව්එ ඇ ඩ්ඉස්ඇග්ර්ඊම්එන්ට් ඉන් ත්එ ම්ඊට්ඉං?",
-        "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
+        "meaning": "රැස්වීමකදී මතභේදයක් විසඳාගන්නේ කෙසේද?"
       },
       {
         "text": "A: I suggest that everyone explain their reasons, then we look for a compromise.",
@@ -4917,7 +4917,7 @@ export const ENGLISH_B1_LESSONS = [
       {
         "text": "B: Which sources do you use to check whether a story is reliable?",
         "reading": "B: වඉච් ස්අවුර්ක්එස් ඩ්ඔ යිඅවු අස්එ ට්ඔ ච්එක්ක් වඑත්එර් ඇ ස්ට්ඔර්යි ඉස් ර්එල්ඉඇබ්ල්එ?",
-        "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
+        "meaning": "පුවතක් විශ්වාසදායකදැයි පරීක්ෂා කිරීමට ඔබ භාවිත කරන මූලාශ්‍ර මොනවාද?"
       },
       {
         "text": "A: I compare several reliable media sources and check the publication date.",
@@ -5095,7 +5095,7 @@ export const ENGLISH_B1_LESSONS = [
       {
         "text": "B: What would you like to visit first in that city?",
         "reading": "B: වඇට් ව්අවුල්ඩ් යිඅවු ල්ඉක්එ ට්ඔ ව්ඉස්ඉට් ෆ්ඉර්ස්ට් ඉන් ත්ඇට් ක්ඉට්යි?",
-        "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
+        "meaning": "එම නගරයේ මුලින්ම නැරඹීමට ඔබ කැමති ස්ථානය කුමක්ද?"
       },
       {
         "text": "A: I would like to visit the old town and try local food.",
@@ -5273,7 +5273,7 @@ export const ENGLISH_B1_LESSONS = [
       {
         "text": "B: What helped you most to get used to the new city?",
         "reading": "B: වඇට් හ්එල්ප්එඩ් යිඅවු ම්ඔස්ට් ට්ඔ ග්එට් අස්එඩ් ට්ඔ ත්එ න්එව් ක්ඉට්යි?",
-        "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
+        "meaning": "නව නගරයට හුරු වීමට ඔබට වැඩියෙන්ම උපකාරී වූයේ කුමක්ද?"
       },
       {
         "text": "A: I met my neighbours and learned where important services are located.",
