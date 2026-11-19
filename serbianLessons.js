@@ -1048,7 +1048,7 @@ export const SERBIAN_A1_LESSONS = [
       { prompt: "කෙනෙකුට ටිකක් හෙමින් කතා කරන්න කියන්නේ?", options: ["Govorite malo sporije, molim.", "Vidimo se sutra.", "Račun, molim."], answer: 0, explanation: "Govorite malo sporije, molim = කරුණාකර ටිකක් හෙමින් කතා කරන්න." }
     ]
   
- listeningPractice:{"prompt":"Slušaj i izaberi tačno značenje: „Možete li da ponovite?”","audio":"Možete li da ponovite?","reading":"මොჟෙතෙ ли да පොනොවිතෙ?","options":["ඔබට එය නැවත කියන්න පුළුවන්ද?","මට ලිපිනය ලියන්න.","ඖෂධහල කොහෙද?"],"answer":0,"meaning":"ඔබට එය නැවත කියන්න පුළුවන්ද?"},
+ listeningPractice:{"prompt":"Slušaj i izaberi tačno značenje: „Možete li da ponovite?”","audio":"Možete li da ponovite?","reading":"මොෂෙතෙ ලි දා පොනොවිතෙ?","options":["ඔබට එය නැවත කියන්න පුළුවන්ද?","මට ලිපිනය ලියන්න.","ඖෂධහල කොහෙද?"],"answer":0,"meaning":"ඔබට එය නැවත කියන්න පුළුවන්ද?"},
 }
 
  ,
