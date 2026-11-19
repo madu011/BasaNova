@@ -230,3 +230,18 @@ export const C2_ASSESSMENT_STATUS = {
   speakingAssessment: "guided self-practice; not automatically graded",
   remainingValidation: ["fluent-speaker review of Serbian and English prompts", "review Sinhala meanings and pronunciation guides", "CI, Expo build and Android device verification"]
 };
+
+
+// Automated content QA milestone; this is not a substitute for fluent-speaker review.
+export const CONTENT_QA_STATUS = {
+  updatedVocabularyExamples: 2400,
+  reviewedLevels: ["A2", "B1", "B2"],
+  reviewedLanguages: ["Serbian", "English"],
+  checks: ["unique lesson IDs", "required vocabulary fields", "context sentence examples", "Sinhala example translations", "Sinhala-script readings"],
+  a2B1B2StructuralChecksPassed: true,
+  c1C2SourceStructureReviewed: true,
+  a1ParserAwareReviewPending: true,
+  fluentSpeakerReviewPending: true,
+  androidPhysicalDeviceTestPending: true,
+  report: "CONTENT_QA_REPORT.md"
+};
