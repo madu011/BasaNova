@@ -786,3 +786,15 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 2. Audit English B1 lesson quizzes 1–50 for Serbian text copied into English exercises; correct each affected lesson in the source data, retaining Sinhala meanings/readings and matching answer indices.
 3. Audit paired Serbian/English B1 lesson topics and exercise coverage, then add native-speaker review notes and update the B1 completion status.
 4. Continue the systematic mobile UI and release verification; do not claim APK/device success without an actual artifact and install test.
+
+
+## 2026-11-19 — English B1 quiz localization correction
+- Audited the practice questions in all 50 English B1 lessons. Lessons 1–10 contained Serbian-language quiz prompts/options copied from the Serbian course; replaced all 40 questions with English-language prompts and answer choices while retaining Sinhala meanings where useful.
+- Revalidated all 50 English B1 lesson records and 200 practice questions. All answer indexes are within option bounds, and the targeted Serbian-phrase scan found zero remaining matches in English B1 quiz prompts, options or explanations.
+- Commit: `72f6b06d21497b5ee212a75d3c146fa5a11fc786`.
+- This is a targeted localization and structural check, not a full linguistic review. Recheck CI for this content commit and continue the broader paired B1 review, C1/C2 QA, fluent-speaker review and Android/device verification.
+
+### Next exact task
+1. Verify Expo validation and Android release APK workflow after commit `72f6b06d21497b5ee212a75d3c146fa5a11fc786`.
+2. Audit the remaining English B1 questions for translation/answer alignment and repetitive distractors, then compare Serbian and English B1 coverage.
+3. Continue full-course content QA and physical Android/device checks; do not claim release readiness without verified build and installation.
