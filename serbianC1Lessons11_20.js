@@ -2,14 +2,14 @@
 export const SERBIAN_C1_LESSONS_11_20 = [
   {
     "id": "sr-c1-l11",
-    "unit": "C1 · Преговори и постизање сагласности",
-    "title": "C1 · 11 · Преговори и постизање сагласности",
-    "objective": "Преговарати о приоритетима, правити уступке и постићи уравнотежен договор.",
+    "unit": "C1 · Pregovori i postizanje saglasnosti",
+    "title": "C1 · 11 · Pregovori i postizanje saglasnosti",
+    "objective": "Pregovarati o prioritetima, praviti ustupke i postići uravnotežen dogovor.",
     "vocabulary": [
       {
         "word": "ustupak",
         "reading": "උස්තුපාක්",
-        "meaning": "සහනය / уступය",
+        "meaning": "සහනය / ustupය",
         "example": "Razuman kompromis mora uzeti u obzir prioritete obe strane.",
         "translation": "සාධාරණ සම්මුතිය දෙපාර්ශ්වයේ ප්‍රමුඛතා සලකා බැලිය යුතුය."
       },
@@ -63,8 +63,8 @@ export const SERBIAN_C1_LESSONS_11_20 = [
         "translation": "යෝජනාව දෙපාර්ශ්වයටම ක්‍රියාත්මක කළ හැකි බව පෙනේ."
       }
     ],
-    "grammarTitle": "Граматика и стил",
-    "grammar": "У преговорима разликујте ставове од интереса. Јасно наведите услове, правите сразмерне уступке и сумирајте договорене тачке.",
+    "grammarTitle": "Gramatika i stil",
+    "grammar": "U pregovorima razlikujte stavove od interesa. Jasno navedite uslove, pravite srazmerne ustupke i sumirajte dogovorene tačke.",
     "examples": [
       {
         "sr": "Razuman kompromis mora uzeti u obzir prioritete obe strane.",
@@ -110,36 +110,36 @@ export const SERBIAN_C1_LESSONS_11_20 = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Послушајте и изаберите тачно значење.",
+      "prompt": "Poslušajte i izaberite tačno značenje.",
       "audio": "The parties reached consensus after adjusting the deadline.",
       "reading": "දි පාර්ටීස් රීච්ඩ් කන්සෙන්සස් ආෆ්ටර් අජස්ටිං දි ඩෙඩ්ලයින්.",
       "options": [
-        "කාලසීමාව සංශෝධනය කිරීමෙන් පසු පාර්ශ්ව එකඟතාවකට පැමිණියහ.",
         "The parties agreed on a deadline.",
-        "Ниједан одговор није тачан."
+        "කාලසීමාව සංශෝධනය කිරීමෙන් පසු පාර්ශ්ව එකඟතාවකට පැමිණියහ.",
+        "Nijedan odgovor nije tačan."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "A mutually acceptable middle position?",
         "options": [
-          "compromise",
           "deadline",
+          "compromise",
           "objection"
         ],
-        "answer": 0,
-        "explanation": "compromise — исправан одговор"
+        "answer": 1,
+        "explanation": "compromise — ispravan odgovor"
       },
       {
         "prompt": "A small amount given up to reach agreement?",
         "options": [
-          "concession",
           "priority",
-          "delay"
+          "delay",
+          "concession"
         ],
-        "answer": 0,
-        "explanation": "concession — исправан одговор"
+        "answer": 2,
+        "explanation": "concession — ispravan odgovor"
       },
       {
         "prompt": "Agreement shared by a group?",
@@ -149,25 +149,25 @@ export const SERBIAN_C1_LESSONS_11_20 = [
           "estimate"
         ],
         "answer": 0,
-        "explanation": "consensus — исправан одговор"
+        "explanation": "consensus — ispravan odgovor"
       },
       {
         "prompt": "A realistic proposal is?",
         "options": [
-          "feasible",
           "ambiguous",
+          "feasible",
           "unrelated"
         ],
-        "answer": 0,
-        "explanation": "feasible — исправан одговор"
+        "answer": 1,
+        "explanation": "feasible — ispravan odgovor"
       }
     ]
   },
   {
     "id": "sr-c1-l12",
-    "unit": "C1 · Процена ризика и неизвесност",
-    "title": "C1 · 12 · Процена ризика и неизвесност",
-    "objective": "Проценити вероватноћу, утицај и неизвесност без преувеличавања предвиђања.",
+    "unit": "C1 · Procena rizika i neizvesnost",
+    "title": "C1 · 12 · Procena rizika i neizvesnost",
+    "objective": "Proceniti verovatnoću, uticaj i neizvesnost bez preuveličavanja predviđanja.",
     "vocabulary": [
       {
         "word": "verovatnoća",
@@ -226,8 +226,8 @@ export const SERBIAN_C1_LESSONS_11_20 = [
         "translation": "ඇස්තමේන්තුවේ සැලකිය යුතු අනිශ්චිතතාවක් ඇත."
       }
     ],
-    "grammarTitle": "Граматика и стил",
-    "grammar": "Раздвојте вероватноћу од утицаја. Наведите претпоставке, степен поузданости и могуће сценарије; ажурирајте процену када се појаве нови දොක්ази.",
+    "grammarTitle": "Gramatika i stil",
+    "grammar": "Razdvojte verovatnoću od uticaja. Navedite pretpostavke, stepen pouzdanosti i moguće scenarije; ažurirajte procenu kada se pojave novi දොක්azi.",
     "examples": [
       {
         "sr": "Verovatnoća je mala, ali je mogući uticaj značajan.",
@@ -273,36 +273,36 @@ export const SERBIAN_C1_LESSONS_11_20 = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Послушајте и изаберите тачно значење.",
+      "prompt": "Poslušajte i izaberite tačno značenje.",
       "audio": "The probability is uncertain, so the team prepared an alternative plan.",
       "reading": "දි ප්‍රොබබිලිටි ඉස් අන්සර්ටන්, සෝ දි ටීම් ප්‍රිපෙයර්ඩ් ඇන් අල්ටර්නටිව් ප්ලෑන්.",
       "options": [
-        "හැකියාව අනිශ්චිත බැවින් කණ්ඩායම විකල්ප සැලැස්මක් සකස් කළේය.",
         "The team ignored the uncertainty.",
-        "Ниједан одговор није тачан."
+        "Nijedan odgovor nije tačan.",
+        "හැකියාව අනිශ්චිත බැවින් කණ්ඩායම විකල්ප සැලැස්මක් සකස් කළේය."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "How likely an event is?",
         "options": [
-          "likelihood",
           "severity",
+          "likelihood",
           "threshold"
         ],
-        "answer": 0,
-        "explanation": "likelihood — исправан одговор"
+        "answer": 1,
+        "explanation": "likelihood — ispravan odgovor"
       },
       {
         "prompt": "A backup arrangement?",
         "options": [
-          "contingency",
           "exposure",
-          "estimate"
+          "estimate",
+          "contingency"
         ],
-        "answer": 0,
-        "explanation": "contingency — исправан одговор"
+        "answer": 2,
+        "explanation": "contingency — ispravan odgovor"
       },
       {
         "prompt": "A boundary value?",
@@ -312,25 +312,25 @@ export const SERBIAN_C1_LESSONS_11_20 = [
           "impact"
         ],
         "answer": 0,
-        "explanation": "threshold — исправан одговор"
+        "explanation": "threshold — ispravan odgovor"
       },
       {
         "prompt": "Risk assessment should separate?",
         "options": [
-          "likelihood and impact",
           "facts and spelling",
+          "likelihood and impact",
           "titles and names"
         ],
-        "answer": 0,
-        "explanation": "likelihood and impact — исправан одговор"
+        "answer": 1,
+        "explanation": "likelihood and impact — ispravan odgovor"
       }
     ]
   },
   {
     "id": "sr-c1-l13",
-    "unit": "C1 · Тумачење података и статистички опрез",
-    "title": "C1 · 13 · Тумачење података и статистички опрез",
-    "objective": "Тумачити трендове, расподеле и поређења уз препознавање ограничења података.",
+    "unit": "C1 · Tumačenje podataka i statistički oprez",
+    "title": "C1 · 13 · Tumačenje podataka i statistički oprez",
+    "objective": "Tumačiti trendove, raspodele i poređenja uz prepoznavanje ograničenja podataka.",
     "vocabulary": [
       {
         "word": "raspodela",
@@ -389,8 +389,8 @@ export const SERBIAN_C1_LESSONS_11_20 = [
         "translation": "සංඛ්‍යානමය වැදගත්කම ප්‍රායෝගික වටිනාකම සහතික නොකරයි."
       }
     ],
-    "grammarTitle": "Граматика и стил",
-    "grammar": "Најпре опишите шта подаци показују, па тек онда зашто. Разликујте просек од медијане, корелацију од узрочности и статистичку значајност од практичне важности.",
+    "grammarTitle": "Gramatika i stil",
+    "grammar": "Najpre opišite šta podaci pokazuju, pa tek onda zašto. Razlikujte prosek od medijane, korelaciju od uzročnosti i statističku značajnost od praktične važnosti.",
     "examples": [
       {
         "sr": "Medijana je manje osetljiva na ekstremne vrednosti.",
@@ -436,13 +436,13 @@ export const SERBIAN_C1_LESSONS_11_20 = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Послушајте и изаберите тачно значење.",
+      "prompt": "Poslušajte i izaberite tačno značenje.",
       "audio": "The median was reported because several extreme observations distorted the average.",
       "reading": "දි මීඩියන් වොස් රිපෝර්ටඩ් බිකෝස් සෙවරල් එක්ස්ට්‍රීම් ඔබ්සර්වේෂන්ස් ඩිස්ටෝර්ටඩ් දි ඇවරේජ්.",
       "options": [
         "අන්ත නිරීක්ෂණ කිහිපයක් සාමාන්‍යය විකෘති කළ නිසා මධ්‍යස්ථ අගය වාර්තා කරන ලදී.",
         "The average was unaffected.",
-        "Ниједан одговор није тачан."
+        "Nijedan odgovor nije tačan."
       ],
       "answer": 0
     },
@@ -450,22 +450,22 @@ export const SERBIAN_C1_LESSONS_11_20 = [
       {
         "prompt": "The middle value in ordered data?",
         "options": [
-          "median",
           "variance",
+          "median",
           "trend"
         ],
-        "answer": 0,
-        "explanation": "median — исправан одговор"
+        "answer": 1,
+        "explanation": "median — ispravan odgovor"
       },
       {
         "prompt": "An unusually distant observation?",
         "options": [
-          "outlier",
           "average",
-          "distribution"
+          "distribution",
+          "outlier"
         ],
-        "answer": 0,
-        "explanation": "outlier — исправан одговор"
+        "answer": 2,
+        "explanation": "outlier — ispravan odgovor"
       },
       {
         "prompt": "How many observations are included?",
@@ -475,25 +475,25 @@ export const SERBIAN_C1_LESSONS_11_20 = [
           "period"
         ],
         "answer": 0,
-        "explanation": "sample size — исправан одговор"
+        "explanation": "sample size — ispravan odgovor"
       },
       {
         "prompt": "Statistical significance guarantees?",
         "options": [
-          "not necessarily practical importance",
           "causation",
+          "not necessarily practical importance",
           "a large sample"
         ],
-        "answer": 0,
-        "explanation": "not necessarily practical importance — исправан одговор"
+        "answer": 1,
+        "explanation": "not necessarily practical importance — ispravan odgovor"
       }
     ]
   },
   {
     "id": "sr-c1-l14",
-    "unit": "C1 · Етичке дилеме и професионално расуђивање",
-    "title": "C1 · 14 · Етичке дилеме и професионално расуђивање",
-    "objective": "Разматрати супротстављене вредности, поверљивост и одговорност уз уравнотежено расуђивање.",
+    "unit": "C1 · Etičke dileme i profesionalno rasuđivanje",
+    "title": "C1 · 14 · Etičke dileme i profesionalno rasuđivanje",
+    "objective": "Razmatrati suprotstavljene vrednosti, poverljivost i odgovornost uz uravnoteženo rasuđivanje.",
     "vocabulary": [
       {
         "word": "integritet",
@@ -552,8 +552,8 @@ export const SERBIAN_C1_LESSONS_11_20 = [
         "translation": "වගවීමට තීරණයේ හේතු පැහැදිලි කිරීමද ඇතුළත්ය."
       }
     ],
-    "grammarTitle": "Граматика и стил",
-    "grammar": "Идентификујте заинтересоване стране и супротстављене вредности. Објасните последице сваке опције, поштујте поверљивост и учините образложење одлуке јасним.",
+    "grammarTitle": "Gramatika i stil",
+    "grammar": "Identifikujte zainteresovane strane i suprotstavljene vrednosti. Objasnite posledice svake opcije, poštujte poverljivost i učinite obrazloženje odluke jasnim.",
     "examples": [
       {
         "sr": "Transparentnost mora biti uravnotežena sa poverljivošću.",
@@ -599,36 +599,36 @@ export const SERBIAN_C1_LESSONS_11_20 = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Послушајте и изаберите тачно значење.",
+      "prompt": "Poslušajte i izaberite tačno značenje.",
       "audio": "The panel documented its reasoning while protecting confidential information.",
       "reading": "දි පැනල් ඩොකියුමෙන්ටඩ් ඉට්ස් රීසනිං වයිල් ප්‍රොටෙක්ටිං කොන්ෆිඩෙන්ෂල් ඉන්ෆොමේෂන්.",
       "options": [
-        "රහස්‍ය තොරතුරු ආරක්ෂා කරමින් මණ්ඩලය තීරණයේ හේතු ලේඛනගත කළේය.",
         "The panel published all private records.",
-        "Ниједан одговор није тачан."
+        "රහස්‍ය තොරතුරු ආරක්ෂා කරමින් මණ්ඩලය තීරණයේ හේතු ලේඛනගත කළේය.",
+        "Nijedan odgovor nije tačan."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Being answerable for decisions?",
         "options": [
-          "accountability",
           "confidentiality",
+          "accountability",
           "consent"
         ],
-        "answer": 0,
-        "explanation": "accountability — исправан одговор"
+        "answer": 1,
+        "explanation": "accountability — ispravan odgovor"
       },
       {
         "prompt": "Keeping information private?",
         "options": [
-          "confidentiality",
           "disclosure",
-          "dilemma"
+          "dilemma",
+          "confidentiality"
         ],
-        "answer": 0,
-        "explanation": "confidentiality — исправан одговор"
+        "answer": 2,
+        "explanation": "confidentiality — ispravan odgovor"
       },
       {
         "prompt": "A personal interest affecting judgement?",
@@ -638,25 +638,25 @@ export const SERBIAN_C1_LESSONS_11_20 = [
           "integrity"
         ],
         "answer": 0,
-        "explanation": "conflict of interest — исправан одговор"
+        "explanation": "conflict of interest — ispravan odgovor"
       },
       {
         "prompt": "Ethical judgement should consider?",
         "options": [
-          "values and consequences",
           "only convenience",
+          "values and consequences",
           "rumours"
         ],
-        "answer": 0,
-        "explanation": "values and consequences — исправан одговор"
+        "answer": 1,
+        "explanation": "values and consequences — ispravan odgovor"
       }
     ]
   },
   {
     "id": "sr-c1-l15",
-    "unit": "C1 · Међукултурна комуникација и прагматика",
-    "title": "C1 · 15 · Међукултурна комуникација и прагматика",
-    "objective": "Прилагодити комуникацију културним очекивањима, контексту и имплицитном значењу.",
+    "unit": "C1 · Međukulturna komunikacija i pragmatika",
+    "title": "C1 · 15 · Međukulturna komunikacija i pragmatika",
+    "objective": "Prilagoditi komunikaciju kulturnim očekivanjima, kontekstu i implicitnom značenju.",
     "vocabulary": [
       {
         "word": "pragmatika",
@@ -715,8 +715,8 @@ export const SERBIAN_C1_LESSONS_11_20 = [
         "translation": "වෙනස් දෘෂ්ටිකෝණයක් වැරදි අවබෝධය වළක්වාගත හැක."
       }
     ],
-    "grammarTitle": "Граматика и стил",
-    "grammar": "Не третирајте културне обрасце као универзална правила. Проверите разумевање, посматрајте контекст и поставите учтиво питање када израз или гест није јасан.",
+    "grammarTitle": "Gramatika i stil",
+    "grammar": "Ne tretirajte kulturne obrasce kao univerzalna pravila. Proverite razumevanje, posmatrajte kontekst i postavite učtivo pitanje kada izraz ili gest nije jasan.",
     "examples": [
       {
         "sr": "Izraz može imati implicitno značenje.",
@@ -762,36 +762,36 @@ export const SERBIAN_C1_LESSONS_11_20 = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Послушајте и изаберите тачно значење.",
+      "prompt": "Poslušajte i izaberite tačno značenje.",
       "audio": "The speaker used an indirect phrase as a courteous suggestion rather than a firm instruction.",
       "reading": "දි ස්පීකර් යූස්ඩ් ඇන් ඉන්ඩිරෙක්ට් ෆ්‍රේස් ඇස් අ කර්ටියස් සජෙෂන් රදර් දැන් අ ෆර්ම් ඉන්ස්ට්‍රක්ෂන්.",
       "options": [
-        "කථකයා සෘජු උපදෙසක් වෙනුවට වක්‍ර ප්‍රකාශයක් ආචාරශීලී යෝජනාවක් ලෙස භාවිත කළේය.",
         "The speaker issued a strict order.",
-        "Ниједан одговор није тачан."
+        "Nijedan odgovor nije tačan.",
+        "කථකයා සෘජු උපදෙසක් වෙනුවට වක්‍ර ප්‍රකාශයක් ආචාරශීලී යෝජනාවක් ලෙස භාවිත කළේය."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Meaning suggested but not directly stated?",
         "options": [
-          "implicit",
           "literal",
+          "implicit",
           "formal"
         ],
-        "answer": 0,
-        "explanation": "implicit — исправан одговор"
+        "answer": 1,
+        "explanation": "implicit — ispravan odgovor"
       },
       {
         "prompt": "A polite social practice?",
         "options": [
-          "convention",
           "variance",
-          "deadline"
+          "deadline",
+          "convention"
         ],
-        "answer": 0,
-        "explanation": "convention — исправан одговор"
+        "answer": 2,
+        "explanation": "convention — ispravan odgovor"
       },
       {
         "prompt": "A movement used to communicate?",
@@ -801,25 +801,25 @@ export const SERBIAN_C1_LESSONS_11_20 = [
           "trend"
         ],
         "answer": 0,
-        "explanation": "gesture — исправан одговор"
+        "explanation": "gesture — ispravan odgovor"
       },
       {
         "prompt": "When uncertain about meaning, it is best to?",
         "options": [
-          "ask respectfully",
           "assume immediately",
+          "ask respectfully",
           "ignore context"
         ],
-        "answer": 0,
-        "explanation": "ask respectfully — исправан одговор"
+        "answer": 1,
+        "explanation": "ask respectfully — ispravan odgovor"
       }
     ]
   },
   {
     "id": "sr-c1-l16",
-    "unit": "C1 · Сложена реченична структура и кохезија",
-    "title": "C1 · 16 · Сложена реченична структура и кохезија",
-    "objective": "Користити зависне конструкције, уступне везнике и кохезивна средства за прецизно развијање аргумената.",
+    "unit": "C1 · Složena rečenična struktura i kohezija",
+    "title": "C1 · 16 · Složena rečenična struktura i kohezija",
+    "objective": "Koristiti zavisne konstrukcije, ustupne veznike i kohezivna sredstva za precizno razvijanje argumenata.",
     "vocabulary": [
       {
         "word": "dok",
@@ -878,8 +878,8 @@ export const SERBIAN_C1_LESSONS_11_20 = [
         "translation": "ක්‍රියාවලිය සරල කිරීමෙන් ප්‍රමාද අඩු විය."
       }
     ],
-    "grammarTitle": "Граматика и стил",
-    "grammar": "Користите зависне реченице за узрок, супротност и услов. Нека упућивање буде јасно, мењајте дужину реченица и обезбедите да сваки пасус развија повезану идеју.",
+    "grammarTitle": "Gramatika i stil",
+    "grammar": "Koristite zavisne rečenice za uzrok, suprotnost i uslov. Neka upućivanje bude jasno, menjajte dužinu rečenica i obezbedite da svaki pasus razvija povezanu ideju.",
     "examples": [
       {
         "sr": "Dok je prva opcija jeftinija, druga je pouzdanija.",
@@ -925,13 +925,13 @@ export const SERBIAN_C1_LESSONS_11_20 = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Послушајте и изаберите тачно значење.",
+      "prompt": "Poslušajte i izaberite tačno značenje.",
       "audio": "The plan may continue provided that the revised schedule is approved; nevertheless, the delay must be explained.",
       "reading": "දි ප්ලෑන් මේ කන්ටිනියු ප්‍රොවයිඩඩ් දැට් දි රිවයිස්ඩ් ස්කෙජුල් ඉස් අප්‍රූව්ඩ්; නෙවර්දලෙස්, දි ඩිලේ මස්ට් බී එක්ස්ප්ලේන්ඩ්.",
       "options": [
         "සංශෝධිත කාලසටහන අනුමත කළහොත් සැලැස්ම ඉදිරියට යා හැකි නමුත් ප්‍රමාදය පැහැදිලි කළ යුතුය.",
         "The delay automatically cancels the plan.",
-        "Ниједан одговор није тачан."
+        "Nijedan odgovor nije tačan."
       ],
       "answer": 0
     },
@@ -939,22 +939,22 @@ export const SERBIAN_C1_LESSONS_11_20 = [
       {
         "prompt": "A condition that must be met?",
         "options": [
-          "provided that",
           "whereas",
+          "provided that",
           "nevertheless"
         ],
-        "answer": 0,
-        "explanation": "provided that — исправан одговор"
+        "answer": 1,
+        "explanation": "provided that — ispravan odgovor"
       },
       {
         "prompt": "Shows contrast despite something?",
         "options": [
-          "nevertheless",
           "thereby",
-          "consequently"
+          "consequently",
+          "nevertheless"
         ],
-        "answer": 0,
-        "explanation": "nevertheless — исправан одговор"
+        "answer": 2,
+        "explanation": "nevertheless — ispravan odgovor"
       },
       {
         "prompt": "Shows result or effect?",
@@ -964,25 +964,25 @@ export const SERBIAN_C1_LESSONS_11_20 = [
           "albeit"
         ],
         "answer": 0,
-        "explanation": "consequently — исправан одговор"
+        "explanation": "consequently — ispravan odgovor"
       },
       {
         "prompt": "Textual connection between parts?",
         "options": [
-          "cohesion",
           "variance",
+          "cohesion",
           "exposure"
         ],
-        "answer": 0,
-        "explanation": "cohesion — исправан одговор"
+        "answer": 1,
+        "explanation": "cohesion — ispravan odgovor"
       }
     ]
   },
   {
     "id": "sr-c1-l17",
-    "unit": "C1 · Посредовање и решавање неслагања",
-    "title": "C1 · 17 · Посредовање и решавање неслагања",
-    "objective": "Преформулисати супротстављена гледишта, препознати заједничке интересе и усмерити разговор ка конструктивном решењу.",
+    "unit": "C1 · Posredovanje i rešavanje neslaganja",
+    "title": "C1 · 17 · Posredovanje i rešavanje neslaganja",
+    "objective": "Preformulisati suprotstavljena gledišta, prepoznati zajedničke interese i usmeriti razgovor ka konstruktivnom rešenju.",
     "vocabulary": [
       {
         "word": "posredovati",
@@ -1041,8 +1041,8 @@ export const SERBIAN_C1_LESSONS_11_20 = [
         "translation": "දිගුකාලීන විසඳුමකට පැහැදිලි පසු විපරමක් අවශ්‍යය."
       }
     ],
-    "grammarTitle": "Граматика и стил",
-    "grammar": "Посредник неутрално парафразира сваки став, проверава разумевање и раздваја људе од проблема. Избегавајте окривљавање; позовите учеснике да предложе опције и потврдите наредне кораке.",
+    "grammarTitle": "Gramatika i stil",
+    "grammar": "Posrednik neutralno parafrazira svaki stav, proverava razumevanje i razdvaja ljude od problema. Izbegavajte okrivljavanje; pozovite učesnike da predlože opcije i potvrdite naredne korake.",
     "examples": [
       {
         "sr": "Dozvolite da parafraziram vašu zabrinutost kako bih proverio razumevanje.",
@@ -1088,36 +1088,36 @@ export const SERBIAN_C1_LESSONS_11_20 = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Послушајте и изаберите тачно значење.",
+      "prompt": "Poslušajte i izaberite tačno značenje.",
       "audio": "The mediator restated both concerns neutrally and identified a shared interest in a predictable process.",
       "reading": "දි මීඩියේටර් රිස්ටේටඩ් බෝත් කන්සර්න්ස් නියුට්‍රලි ඇන්ඩ් අයිඩෙන්ටිෆයිඩ් අ ෂෙයර්ඩ් ඉන්ටරෙස්ට් ඉන් අ ප්‍රිඩික්ටබල් ප්‍රොසෙස්.",
       "options": [
-        "මැදිහත්කරු ගැටලු දෙකම මධ්‍යස්ථව නැවත කියා පොදු අවශ්‍යතාවක් හඳුනාගත්තේය.",
         "The mediator blamed one side.",
-        "Ниједан одговор није тачан."
+        "මැදිහත්කරු ගැටලු දෙකම මධ්‍යස්ථව නැවත කියා පොදු අවශ්‍යතාවක් හඳුනාගත්තේය.",
+        "Nijedan odgovor nije tačan."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "To express someone's idea in new words?",
         "options": [
-          "paraphrase",
           "accuse",
+          "paraphrase",
           "interrupt"
         ],
-        "answer": 0,
-        "explanation": "paraphrase — исправан одговор"
+        "answer": 1,
+        "explanation": "paraphrase — ispravan odgovor"
       },
       {
         "prompt": "A shared area of agreement?",
         "options": [
-          "common ground",
           "grievance",
-          "deadline"
+          "deadline",
+          "common ground"
         ],
-        "answer": 0,
-        "explanation": "common ground — исправан одговор"
+        "answer": 2,
+        "explanation": "common ground — ispravan odgovor"
       },
       {
         "prompt": "To calm a tense discussion?",
@@ -1127,25 +1127,25 @@ export const SERBIAN_C1_LESSONS_11_20 = [
           "withdraw"
         ],
         "answer": 0,
-        "explanation": "de-escalate — исправан одговор"
+        "explanation": "de-escalate — ispravan odgovor"
       },
       {
         "prompt": "A mediator should?",
         "options": [
-          "listen and restate neutrally",
           "assign blame",
+          "listen and restate neutrally",
           "choose a side"
         ],
-        "answer": 0,
-        "explanation": "listen and restate neutrally — исправан одговор"
+        "answer": 1,
+        "explanation": "listen and restate neutrally — ispravan odgovor"
       }
     ]
   },
   {
     "id": "sr-c1-l18",
-    "unit": "C1 · Дизајн истраживања и квалитет දොක්аза",
-    "title": "C1 · 18 · Дизајн истраживања и квалитет දොක්аза",
-    "objective": "Проценити дизајн истраживања, пристрасност, поузданост и снагу поткрепљујућих දොක්аза.",
+    "unit": "C1 · Dizajn istraživanja i kvalitet දොක්aza",
+    "title": "C1 · 18 · Dizajn istraživanja i kvalitet දොක්aza",
+    "objective": "Proceniti dizajn istraživanja, pristrasnost, pouzdanost i snagu potkrepljujućih දොක්aza.",
     "vocabulary": [
       {
         "word": "validnost",
@@ -1204,8 +1204,8 @@ export const SERBIAN_C1_LESSONS_11_20 = [
         "translation": "සම-විශේෂඥ සමාලෝචනයෙන් සැලසුමේ දුර්වලතා හඳුනාගත හැක."
       }
     ],
-    "grammarTitle": "Граматика и стил",
-    "grammar": "Проверите како су දොක්ази прикупљени, да ли је узорак репрезентативан и да ли се метод може поновити. Разликујте поузданост од валидности и наведите могућу пристрасност.",
+    "grammarTitle": "Gramatika i stil",
+    "grammar": "Proverite kako su දොක්azi prikupljeni, da li je uzorak reprezentativan i da li se metod može ponoviti. Razlikujte pouzdanost od validnosti i navedite moguću pristrasnost.",
     "examples": [
       {
         "sr": "Metod je ponovljiv, ali njegova validnost ostaje neizvesna.",
@@ -1251,36 +1251,36 @@ export const SERBIAN_C1_LESSONS_11_20 = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Послушајте и изаберите тачно значење.",
+      "prompt": "Poslušajte i izaberite tačno značenje.",
       "audio": "The study used a repeatable method, but reviewers questioned whether the sample represented the wider population.",
       "reading": "දි ස්ටඩි යූස්ඩ් අ රිපීටබල් මෙතඩ්, බට් රිවියුවර්ස් ක්වෙස්චන්ඩ් වෙදර් දි සැම්පල් රෙප්‍රසෙන්ටඩ් දි වයිඩර් පොපියුලේෂන්.",
       "options": [
-        "අධ්‍යයනය නැවත කළ හැකි ක්‍රමයක් භාවිත කළත් නියැදිය සමස්ත ජනගහනය නියෝජනය කරනවාදැයි සමාලෝචකයෝ ප්‍රශ්න කළහ.",
         "Reviewers confirmed the sample was representative.",
-        "Ниједан одговор није тачан."
+        "Nijedan odgovor nije tačan.",
+        "අධ්‍යයනය නැවත කළ හැකි ක්‍රමයක් භාවිත කළත් නියැදිය සමස්ත ජනගහනය නියෝජනය කරනවාදැයි සමාලෝචකයෝ ප්‍රශ්න කළහ."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Measuring what is intended?",
         "options": [
-          "validity",
           "reliability",
+          "validity",
           "bias"
         ],
-        "answer": 0,
-        "explanation": "validity — исправан одговор"
+        "answer": 1,
+        "explanation": "validity — ispravan odgovor"
       },
       {
         "prompt": "Consistency of a measurement?",
         "options": [
-          "reliability",
           "validity",
-          "sample"
+          "sample",
+          "reliability"
         ],
-        "answer": 0,
-        "explanation": "reliability — исправан одговор"
+        "answer": 2,
+        "explanation": "reliability — ispravan odgovor"
       },
       {
         "prompt": "A systematic distortion?",
@@ -1290,25 +1290,25 @@ export const SERBIAN_C1_LESSONS_11_20 = [
           "method"
         ],
         "answer": 0,
-        "explanation": "bias — исправан одговор"
+        "explanation": "bias — ispravan odgovor"
       },
       {
         "prompt": "An independent expert assessment?",
         "options": [
-          "peer review",
           "self-praise",
+          "peer review",
           "forecast"
         ],
-        "answer": 0,
-        "explanation": "peer review — исправан одговор"
+        "answer": 1,
+        "explanation": "peer review — ispravan odgovor"
       }
     ]
   },
   {
     "id": "sr-c1-l19",
-    "unit": "C1 · Стратешко планирање и дугорочни приоритети",
-    "title": "C1 · 19 · Стратешко планирање и дугорочни приоритети",
-    "objective": "Повезати дугорочне циљеве са прекретницама, ресурсима и мерљивим резултатима.",
+    "unit": "C1 · Strateško planiranje i dugoročni prioriteti",
+    "title": "C1 · 19 · Strateško planiranje i dugoročni prioriteti",
+    "objective": "Povezati dugoročne ciljeve sa prekretnicama, resursima i merljivim rezultatima.",
     "vocabulary": [
       {
         "word": "mapa puta",
@@ -1367,8 +1367,8 @@ export const SERBIAN_C1_LESSONS_11_20 = [
         "translation": "දිගුකාලීන තිරසාරභාවයට කාලානුරූප සමාලෝචනය අවශ්‍යය."
       }
     ],
-    "grammarTitle": "Граматика и стил",
-    "grammar": "Претворите широку визију у конкретне циљеве, прекретнице и показатеље. Повремено преиспитујте претпоставке и прилагодите план када се දොක්ази или приоритети промене.",
+    "grammarTitle": "Gramatika i stil",
+    "grammar": "Pretvorite široku viziju u konkretne ciljeve, prekretnice i pokazatelje. Povremeno preispitujte pretpostavke i prilagodite plan kada se දොක්azi ili prioriteti promene.",
     "examples": [
       {
         "sr": "Mapa puta povezuje strateške ciljeve sa jasnim prekretnicama.",
@@ -1414,13 +1414,13 @@ export const SERBIAN_C1_LESSONS_11_20 = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Послушајте и изаберите тачно значење.",
+      "prompt": "Poslušajte i izaberite tačno značenje.",
       "audio": "The strategy will be reviewed at each milestone using measurable indicators, and the roadmap may be adjusted if priorities change.",
       "reading": "දි ස්ට්‍රැටජි විල් බී රිවියුඩ් ඇට් ඊච් මයිල්ස්ටෝන් යූසිං මෙෂරබල් ඉන්ඩිකේටර්ස්, ඇන්ඩ් දි රෝඩ්මැප් මේ බී අජස්ටඩ් ඉෆ් ප්‍රයෝරිටීස් චේන්ජ්.",
       "options": [
         "ප්‍රමුඛතා වෙනස් වුවහොත් මාර්ග සිතියම සංශෝධනය කරමින් මැනිය හැකි දර්ශක මඟින් සෑම අදියරකදීම උපායමාර්ගය සමාලෝචනය කරනු ඇත.",
         "The roadmap will never be reviewed.",
-        "Ниједан одговор није тачан."
+        "Nijedan odgovor nije tačan."
       ],
       "answer": 0
     },
@@ -1428,22 +1428,22 @@ export const SERBIAN_C1_LESSONS_11_20 = [
       {
         "prompt": "A key stage in a plan?",
         "options": [
-          "milestone",
           "bias",
+          "milestone",
           "grievance"
         ],
-        "answer": 0,
-        "explanation": "milestone — исправан одговор"
+        "answer": 1,
+        "explanation": "milestone — ispravan odgovor"
       },
       {
         "prompt": "A measurable sign of progress?",
         "options": [
-          "indicator",
           "concession",
-          "gesture"
+          "gesture",
+          "indicator"
         ],
-        "answer": 0,
-        "explanation": "indicator — исправан одговор"
+        "answer": 2,
+        "explanation": "indicator — ispravan odgovor"
       },
       {
         "prompt": "A long-term direction and action map?",
@@ -1453,25 +1453,25 @@ export const SERBIAN_C1_LESSONS_11_20 = [
           "median"
         ],
         "answer": 0,
-        "explanation": "roadmap — исправан одговор"
+        "explanation": "roadmap — ispravan odgovor"
       },
       {
         "prompt": "A strategic plan should be?",
         "options": [
-          "reviewed and adjusted",
           "fixed regardless of evidence",
+          "reviewed and adjusted",
           "without measurable goals"
         ],
-        "answer": 0,
-        "explanation": "reviewed and adjusted — исправан одговор"
+        "answer": 1,
+        "explanation": "reviewed and adjusted — ispravan odgovor"
       }
     ]
   },
   {
     "id": "sr-c1-l20",
-    "unit": "C1 · Интегрисана студија случаја и синтеза на нивоу C1",
-    "title": "C1 · 20 · Интегрисана студија случаја и синтеза на нивоу C1",
-    "objective": "Синтетизовати више извора, одмерити супротстављена објашњења и представити одбрањиву препоруку.",
+    "unit": "C1 · Integrisana studija slučaja i sinteza na nivou C1",
+    "title": "C1 · 20 · Integrisana studija slučaja i sinteza na nivou C1",
+    "objective": "Sintetizovati više izvora, odmeriti suprotstavljena objašnjenja i predstaviti odbranjivu preporuku.",
     "vocabulary": [
       {
         "word": "sintetizovati",
@@ -1530,8 +1530,8 @@ export const SERBIAN_C1_LESSONS_11_20 = [
         "translation": "මූලාශ්‍ර එකඟ නොවන ස්ථාන සංශ්ලේෂණයෙන් හෙළි වේ."
       }
     ],
-    "grammarTitle": "Граматика и стил",
-    "grammar": "Добра синтеза пореди изворе уместо да их само набраја. Уочите слагања и неслагања, процените квалитет දොක්аза, наведите ограничења и повежите препоруку са јасним критеријумима.",
+    "grammarTitle": "Gramatika i stil",
+    "grammar": "Dobra sinteza poredi izvore umesto da ih samo nabraja. Uočite slaganja i neslaganja, procenite kvalitet දොක්aza, navedite ograničenja i povežite preporuku sa jasnim kriterijumima.",
     "examples": [
       {
         "sr": "Izvori potvrđuju opšti trend uprkos jednom neslaganju.",
@@ -1577,36 +1577,36 @@ export const SERBIAN_C1_LESSONS_11_20 = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Послушајте и изаберите тачно значење.",
+      "prompt": "Poslušajte i izaberite tačno značenje.",
       "audio": "The review found broad agreement among sources, but one dataset differed; the recommendation was therefore qualified by that limitation.",
       "reading": "දි රිවියු ෆවුන්ඩ් බ්‍රෝඩ් අග්‍රීමන්ට් අමං සෝර්සිස්, බට් වන් ඩේටාසෙට් ඩිෆර්ඩ්; දි රෙකමෙන්ඩේෂන් වොස් දෙයර්ෆෝර් ක්වොලිෆයිඩ් බයි දැට් ලිමිටේෂන්.",
       "options": [
-        "මූලාශ්‍ර අතර පුළුල් එකඟතාවක් තිබුණත් එක් දත්ත කට්ටලයක් වෙනස් වූ නිසා නිර්දේශය එම සීමාවට යටත් කර ඉදිරිපත් කරන ලදී.",
         "All sources agreed completely.",
-        "Ниједан одговор није тачан."
+        "මූලාශ්‍ර අතර පුළුල් එකඟතාවක් තිබුණත් එක් දත්ත කට්ටලයක් වෙනස් වූ නිසා නිර්දේශය එම සීමාවට යටත් කර ඉදිරිපත් කරන ලදී.",
+        "Nijedan odgovor nije tačan."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "To combine findings from sources?",
         "options": [
-          "synthesize",
           "isolate",
+          "synthesize",
           "omit"
         ],
-        "answer": 0,
-        "explanation": "synthesize — исправан одговор"
+        "answer": 1,
+        "explanation": "synthesize — ispravan odgovor"
       },
       {
         "prompt": "A standard used to judge options?",
         "options": [
-          "criterion",
           "gesture",
-          "deadline"
+          "deadline",
+          "criterion"
         ],
-        "answer": 0,
-        "explanation": "criterion — исправан одговор"
+        "answer": 2,
+        "explanation": "criterion — ispravan odgovor"
       },
       {
         "prompt": "Evidence that supports another source?",
@@ -1616,17 +1616,17 @@ export const SERBIAN_C1_LESSONS_11_20 = [
           "delay"
         ],
         "answer": 0,
-        "explanation": "corroborate — исправан одговор"
+        "explanation": "corroborate — ispravan odgovor"
       },
       {
         "prompt": "A defensible recommendation should?",
         "options": [
-          "state evidence and limitations",
           "hide disagreement",
+          "state evidence and limitations",
           "ignore criteria"
         ],
-        "answer": 0,
-        "explanation": "state evidence and limitations — исправан одговор"
+        "answer": 1,
+        "explanation": "state evidence and limitations — ispravan odgovor"
       }
     ]
   }
