@@ -2145,65 +2145,65 @@ const serbianB1Lessons = [
         "word": "itinerary",
         "reading": "ප්ලාන් පුතා",
         "meaning": "ගමන් සැලැස්ම",
-        "example": "Zbog radova, autobus polazi sa druge stanice.",
-        "translation": "අලුත්වැඩියා නිසා බස් රථය වෙනත් නැවතුමකින් පිටත් වෙනවා.",
-        "exampleReading": "අලුත්වැඩියා නිසා බස් රථය වෙනත් නැවතුමකින් පිටත් වෙනවා."
+        "example": "Napravili smo detaljan plan putovanja za sedam dana.",
+        "translation": "අපි දින හතක ගමන සඳහා විස්තරාත්මක සැලැස්මක් සකස් කළා.",
+        "exampleReading": "නප්‍රාවිලි ස්මො දෙතාල්යාන් ප්ලාන් පුතොවාන්‍යා සා සෙදාම් දානා."
       },
       {
         "word": "departure",
         "reading": "පොලාසාක්",
         "meaning": "පිටත්වීම",
-        "example": "Ako propustimo voz, proverićemo sledeći polazak.",
-        "translation": "දුම්රිය මඟහැරුණොත් ඊළඟ පිටත්වීම පරීක්ෂා කරනවා.",
-        "exampleReading": "දුම්රිය මඟහැරුණොත් ඊළඟ පිටත්වීම පරීක්ෂා කරනවා."
+        "example": "Polazak autobusa je zakazan za šest sati ujutru.",
+        "translation": "බස් රථය පිටත්වීම උදෑසන හයට නියම කර තිබෙනවා.",
+        "exampleReading": "පොලාසාක් ඔතොබුසා යෙ සාකාසාන් සා ෂෙස්ත් සාති උයුත්‍රු."
       },
       {
         "word": "delay",
         "reading": "කාෂ්න්යේන්යේ",
         "meaning": "ප්‍රමාදය",
-        "example": "Važno je da unapred razmotrimo sve mogućnosti.",
-        "translation": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද උනප්‍රෙද් රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "Zbog snega, voz kasni trideset minuta.",
+        "translation": "හිම පතනය නිසා දුම්රිය විනාඩි තිහක් ප්‍රමාද වෙනවා.",
+        "exampleReading": "ස්බොග් ස්නෙගා, වොස් කාස්නි ත්‍රිදෙසෙත් මිනුතා."
       },
       {
         "word": "platform",
         "reading": "පෙරොන්",
         "meaning": "වේදිකාව",
-        "example": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
-        "translation": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා.",
-        "exampleReading": "නා ක්‍රායු චෙමො ඉස්සාබ්‍රාති රෙෂෙන්යේ කොයෙ නායිවිෂෙ ඔද්ගොවාරා ස්විමා."
+        "example": "Naš voz polazi sa trećeg perona.",
+        "translation": "අපේ දුම්රිය තුන්වන වේදිකාවෙන් පිටත් වෙනවා.",
+        "exampleReading": "නාෂ් වොස් පොලාසි සා ත්‍රෙචෙග් පෙරොනා."
       },
       {
         "word": "alternative",
         "reading": "අල්තෙර්නාතිවා",
         "meaning": "විකල්පය",
-        "example": "Zbog radova, autobus polazi sa druge stanice.",
-        "translation": "අලුත්වැඩියා නිසා බස් රථය වෙනත් නැවතුමකින් පිටත් වෙනවා.",
-        "exampleReading": "අලුත්වැඩියා නිසා බස් රථය වෙනත් නැවතුමකින් පිටත් වෙනවා."
+        "example": "Ako je ovaj put zatvoren, izabraćemo alternativnu rutu.",
+        "translation": "මේ මාර්ගය වසා තිබුණොත් අපි විකල්ප මාර්ගයක් තෝරාගන්නවා.",
+        "exampleReading": "අකො යෙ ඔවාය් පුත් සාත්වොරෙන්, ඉසාබ්‍රාචෙමො අල්තෙර්නාතිව්නු රුතු."
       },
       {
         "word": "reservation",
         "reading": "රෙසෙර්වාත්සියා",
         "meaning": "වෙන්කිරීම",
-        "example": "Ako propustimo voz, proverićemo sledeći polazak.",
-        "translation": "දුම්රිය මඟහැරුණොත් ඊළඟ පිටත්වීම පරීක්ෂා කරනවා.",
-        "exampleReading": "දුම්රිය මඟහැරුණොත් ඊළඟ පිටත්වීම පරීක්ෂා කරනවා."
+        "example": "Imamo rezervaciju hotela za dve noći.",
+        "translation": "අපට රාත්‍රී දෙකක් සඳහා හෝටල් වෙන්කිරීමක් තිබෙනවා.",
+        "exampleReading": "ඉමාමො රෙසෙර්වාත්සියු හොතෙලා සා ද්වෙ නොචි."
       },
       {
         "word": "luggage",
         "reading": "ප්‍ර්ත්ල්යාග්",
         "meaning": "ගමන් මලු",
-        "example": "Važno je da unapred razmotrimo sve mogućnosti.",
-        "translation": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද උනප්‍රෙද් රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "Ostavili smo prtljag u hotelskoj sobi.",
+        "translation": "අපි ගමන් මලු හෝටල් කාමරයේ තැබුවා.",
+        "exampleReading": "ඔස්තාවිලි ස්මො ප්‍ර්ත්ල්යාග් උ හොතෙල්ස්කොයි සොබි."
       },
       {
         "word": "schedule",
         "reading": "රාස්පොරෙද්",
         "meaning": "කාලසටහන",
-        "example": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
-        "translation": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා.",
-        "exampleReading": "නා ක්‍රායු චෙමො ඉස්සාබ්‍රාති රෙෂෙන්යේ කොයෙ නායිවිෂෙ ඔද්ගොවාරා ස්විමා."
+        "example": "Proveri raspored polazaka pre nego što kreneš.",
+        "translation": "පිටත්වීමට පෙර ගමන් කාලසටහන පරීක්ෂා කරන්න.",
+        "exampleReading": "ප්‍රොවෙරි රාස්පොරෙද් පොලාසාකා ප්‍රෙ නෙගො ෂ්තො ක්‍රෙනෙෂ්."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
