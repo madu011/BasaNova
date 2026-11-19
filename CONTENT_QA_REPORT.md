@@ -69,3 +69,10 @@ GitHub Actions Android debug APK build run [44552002628](https://github.com/madu
 - Expanded `scripts/content-qa.mjs` to inspect both Serbian and English A1 lesson modules, including required lesson/vocabulary fields, practice/listening choices, answer-index bounds, duplicate options and paired lesson counts.
 - Corrected the QA script's Unicode ranges for Sinhala pronunciation and mixed Latin/Cyrillic detection.
 - The expanded checks are wired into the existing `npm run qa:content` command, but have not yet been executed end-to-end. No pass is claimed until CI or a local checkout runs them.
+
+
+## 2026-11-19 follow-up — A1 source content audit
+- Direct inspection found 39 unique lessons in each language source. All 39 in both sources contain unit, title, objective, grammar title/text, vocabulary, examples, dialogue and practice sections.
+- Pronunciation string scan: Serbian 1,112 and English 1,268 reading/exampleReading fields; no mixed Latin/Cyrillic script or missing Sinhala-script readings detected by the scan.
+- QA script now also checks Sinhala-script vocabulary pronunciation and example/dialogue source + Sinhala meaning fields. Full automated execution remains pending; static scan only.
+- Serbian and English lesson IDs have different unit progressions despite both containing 39 lessons, so equal lesson counts must not be described as full topic alignment.
