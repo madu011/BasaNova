@@ -772,3 +772,17 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 
 - README documentation for the new Study Guide and 18+ gated language-awareness section was updated in commit `0b7903f49e784d7f56ccbbd65c53a52d2e39b32c`.
 - Latest App.js source inspection confirms the guide, lesson sequence, persisted self-declared 18+ gate, under-18 return path and consent-revocation control are present. GitHub commit status lookup for the age-gate UI commit returned no status entries at check time; build/runtime/device verification remains outstanding.
+
+
+## 2026-11-19 — B1 retry practice and content audit checkpoint
+- Verified the current `serbianB1Lessons.js` and `englishB1Lessons.js` each contain exactly 50 lesson objects (IDs `sr-b1-l1`–`sr-b1-l50` and `en-b1-l1`). The older “add lessons 21–30” Next task is therefore stale; both B1 lesson arrays are already populated through lesson 50.
+- Updated `App.js` so incorrect B1 lesson quiz answers, B1 listening answers, and B1 mixed-revision answers can be retried in place. The selected answer and checked state are reset only for that question; correct answers stay complete. App commit: f94610273389d6a14701c398e5f997e7dfdac9f3.
+- Updated README to document the retry behavior. README commit: bb80a8983cf551b710e2b5943ecc18da86e879e9.
+- Source inspection found a content-quality issue requiring a dedicated follow-up: the first English B1 lesson's quiz prompts/options still contain Serbian wording (for example, `nezaboravan` and `sam putovao`). Audit all 50 English B1 lessons for copied Serbian quiz text and verify each language's examples, answer indices, readings and meanings before calling B1 complete.
+- No build or device test has been run for this UI change. Combined CI status for the preceding docs commit was empty; the new App.js commit must be checked after GitHub Actions has had time to run.
+
+## Next exact task
+1. Verify GitHub Actions for App.js commit f94610273389d6a14701c398e5f997e7dfdac9f3; resolve any syntax, Expo or release-APK failures.
+2. Audit English B1 lesson quizzes 1–50 for Serbian text copied into English exercises; correct each affected lesson in the source data, retaining Sinhala meanings/readings and matching answer indices.
+3. Audit paired Serbian/English B1 lesson topics and exercise coverage, then add native-speaker review notes and update the B1 completion status.
+4. Continue the systematic mobile UI and release verification; do not claim APK/device success without an actual artifact and install test.
