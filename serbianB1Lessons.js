@@ -2325,7 +2325,7 @@ const serbianB1Lessons = [
         "meaning": "මුදල් ආපසු ගෙවීම",
         "example": "Kupac je zatražio povraćaj novca jer je proizvod bio neispravan.",
         "translation": "පාරිභෝගිකයා භාණ්ඩය දෝෂ සහිත වූ නිසා මුදල් ආපසු ඉල්ලා සිටියා.",
-        "exampleReading": "කුපාත්ස් යෙ затражио повраћај novca јер је proizvod bio neispravan."
+        "exampleReading": "කුපාත්ස් යෙ සාත්‍රාෂියෝ පොව්රාචායි නොව්ත්සා යෙර් යෙ ප්‍රොයිස්වොද් බියෝ නෙයිස්ප්‍රාවන්."
       },
       {
         "word": "receipt",
