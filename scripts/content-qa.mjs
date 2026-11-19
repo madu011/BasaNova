@@ -84,9 +84,6 @@ function validateLessonTrack(label, lessons) {
       assert.ok((line.si ?? line.meaning)?.trim(), `${name} dialogue ${i + 1}: missing Sinhala meaning`);
     }
     for (const [i, q] of lesson.practice.entries()) {
-      }
-    }
-    for (const [i, q] of lesson.practice.entries()) {
       practiceCount++;
       assert.ok(q.prompt?.trim(), `${name} practice ${i + 1}: missing prompt`);
       assert.ok(Array.isArray(q.options) && q.options.length >= 2, `${name} practice ${i + 1}: missing options`);
