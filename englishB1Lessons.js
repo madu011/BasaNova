@@ -3035,65 +3035,65 @@ const englishB1Lessons = [
         "word": "recycling",
         "reading": "රීසයික්ලින්",
         "meaning": "ප්‍රතිචක්‍රීකරණය",
-        "example": "Public transport is often a more sustainable choice than a car.",
-        "exampleReading": "පබ්ලික් ට්‍රාන්ස්පෝට් ඉස් ඔෆන් අ මෝර් සස්ටේනබල් චොයිස් දෑන් අ කාර්.",
-        "translation": "පෞද්ගලික මෝටර් රථයකට වඩා පොදු ප්‍රවාහනය බොහෝවිට පරිසර හිතකාමී තේරීමක්."
+        "example": "Recycling paper helps reduce the amount of waste.",
+        "exampleReading": "රීසයික්ලින් පේපර් හෙල්ප්ස් රිඩියූස් දි අමවුන්ට් ඔෆ් වේස්ට්.",
+        "translation": "කඩදාසි ප්‍රතිචක්‍රීකරණය කිරීමෙන් අපද්‍රව්‍ය ප්‍රමාණය අඩු වෙනවා."
       },
       {
         "word": "waste",
         "reading": "වේස්ට්",
         "meaning": "අපද්‍රව්‍ය",
-        "example": "If we reduce waste, we protect natural resources.",
-        "exampleReading": "ඉෆ් වී රිඩියූස් වේස්ට් වී ප්‍රොටෙක්ට් නැචරල් රිසෝර්සිස්.",
-        "translation": "අපද්‍රව්‍ය අඩු කළොත් ස්වභාවික සම්පත් ආරක්ෂා කරගන්න පුළුවන්."
+        "example": "We separate waste into different containers.",
+        "exampleReading": "වී සෙපරේට් වේස්ට් ඉන්ටු ඩිෆරන්ට් කන්ටේනර්ස්.",
+        "translation": "අපි අපද්‍රව්‍ය වෙන වෙනම බඳුන්වලට වෙන් කරනවා."
       },
       {
         "word": "resource",
         "reading": "රීසෝර්ස්",
         "meaning": "සම්පත",
-        "example": "If we reduce waste, we protect natural resources.",
-        "exampleReading": "ඉෆ් වී රිඩියූස් වේස්ට් වී ප්‍රොටෙක්ට් නැචරල් රිසෝර්සිස්.",
-        "translation": "අපද්‍රව්‍ය අඩු කළොත් ස්වභාවික සම්පත් ආරක්ෂා කරගන්න පුළුවන්."
+        "example": "Clean water is an important natural resource.",
+        "exampleReading": "ක්ලීන් වෝටර් ඉස් ඇන් ඉම්පෝර්ටන්ට් නැචරල් රිසෝර්ස්.",
+        "translation": "පිරිසිදු ජලය වැදගත් ස්වභාවික සම්පතක්."
       },
       {
         "word": "energy",
         "reading": "එනර්ජි",
         "meaning": "ශක්තිය",
-        "example": "In the end, we will choose the solution that works best for everyone.",
-        "exampleReading": "ඉන් දි එන්ඩ් වී විල් චූස් දි සලූෂන් දැට් වර්ක්ස් බෙස්ට් ෆෝ එව්රීවන්.",
-        "translation": "අවසානයේ හැමෝටම හොඳම විසඳුම තෝරනවා."
+        "example": "Solar panels produce energy from sunlight.",
+        "exampleReading": "සෝලර් පැනල්ස් ප්‍රඩියූස් එනර්ජි ෆ්‍රම් සන්ලයිට්.",
+        "translation": "සූර්ය පැනල හිරු එළියෙන් ශක්තිය නිපදවනවා."
       },
       {
         "word": "pollution",
         "reading": "පලුෂන්",
         "meaning": "දූෂණය",
-        "example": "Public transport is often a more sustainable choice than a car.",
-        "exampleReading": "පබ්ලික් ට්‍රාන්ස්පෝට් ඉස් ඔෆන් අ මෝර් සස්ටේනබල් චොයිස් දෑන් අ කාර්.",
-        "translation": "පෞද්ගලික මෝටර් රථයකට වඩා පොදු ප්‍රවාහනය බොහෝවිට පරිසර හිතකාමී තේරීමක්."
+        "example": "Air pollution can affect people's health.",
+        "exampleReading": "එයාර් පොලූෂන් කැන් අෆෙක්ට් පීපල්ස් හෙල්ත්.",
+        "translation": "වායු දූෂණය මිනිසුන්ගේ සෞඛ්‍යයට බලපාන්න පුළුවන්."
       },
       {
         "word": "reusable",
         "reading": "රීයූසබල්",
         "meaning": "නැවත භාවිත කළ හැකි",
-        "example": "If we reduce waste, we protect natural resources.",
-        "exampleReading": "ඉෆ් වී රිඩියූස් වේස්ට් වී ප්‍රොටෙක්ට් නැචරල් රිසෝර්සිස්.",
-        "translation": "අපද්‍රව්‍ය අඩු කළොත් ස්වභාවික සම්පත් ආරක්ෂා කරගන්න පුළුවන්."
+        "example": "I carry a reusable bottle instead of buying plastic ones.",
+        "exampleReading": "අයි කැරි අ රීයූසබල් බොටල් ඉන්ස්ටෙඩ් ඔෆ් බයින් ප්ලාස්ටික් වන්ස්.",
+        "translation": "ප්ලාස්ටික් බෝතල් මිලදී ගැනීම වෙනුවට මම නැවත භාවිත කළ හැකි බෝතලයක් රැගෙන යනවා."
       },
       {
         "word": "public transport",
         "reading": "පබ්ලික් ට්‍රාන්ස්පෝට්",
         "meaning": "පොදු ප්‍රවාහනය",
-        "example": "Public transport is often a more sustainable choice than a car.",
-        "exampleReading": "පබ්ලික් ට්‍රාන්ස්පෝට් ඉස් ඔෆන් අ මෝර් සස්ටේනබල් චොයිස් දෑන් අ කාර්.",
-        "translation": "පෞද්ගලික මෝටර් රථයකට වඩා පොදු ප්‍රවාහනය බොහෝවිට පරිසර හිතකාමී තේරීමක්."
+        "example": "Public transport reduces the number of cars on the road.",
+        "exampleReading": "පබ්ලික් ට්‍රාන්ස්පෝට් රිඩියූසිස් දි නම්බර් ඔෆ් කාර්ස් ඔන් දි රෝඩ්.",
+        "translation": "පොදු ප්‍රවාහනය මාර්ගවල මෝටර් රථ සංඛ්‍යාව අඩු කරනවා."
       },
       {
         "word": "protect",
         "reading": "ප්‍රොටෙක්ට්",
-        "meaning": "ආරක්ෂා කරනවා",
-        "example": "If we reduce waste, we protect natural resources.",
-        "exampleReading": "ඉෆ් වී රිඩියූස් වේස්ට් වී ප්‍රොටෙක්ට් නැචරල් රිසෝර්සිස්.",
-        "translation": "අපද්‍රව්‍ය අඩු කළොත් ස්වභාවික සම්පත් ආරක්ෂා කරගන්න පුළුවන්."
+        "meaning": "ආරක්ෂා කරන්න",
+        "example": "We must protect forests for future generations.",
+        "exampleReading": "වී මස්ට් ප්‍රොටෙක්ට් ෆොරස්ට්ස් ෆෝ ෆියුචර් ජෙනරේෂන්ස්.",
+        "translation": "අනාගත පරම්පරාවන් වෙනුවෙන් අපි වනාන්තර ආරක්ෂා කළ යුතුයි."
       }
     ],
     "grammarTitle": "Grammar",
@@ -3213,65 +3213,65 @@ const englishB1Lessons = [
         "word": "cause",
         "reading": "කෝස්",
         "meaning": "හේතුව",
-        "example": "Because of heavy rain, the match was postponed.",
-        "exampleReading": "බිකෝස් ඔෆ් හෙවි රේන් දි මැච් වොස් පෝස්ට්පෝන්ඩ්.",
-        "translation": "තද වැස්ස නිසා තරගය කල් දැමුවා."
+        "example": "Lack of sleep can be a cause of tiredness.",
+        "exampleReading": "ලැක් ඔෆ් ස්ලීප් කැන් බී අ කෝස් ඔෆ් ටයර්ඩ්නස්.",
+        "translation": "නින්ද නොමැතිවීම වෙහෙසට හේතුවක් විය හැකියි."
       },
       {
         "word": "effect",
         "reading": "ඉෆෙක්ට්",
-        "meaning": "බලපෑම",
-        "example": "There was not enough time, so we changed the plan.",
-        "exampleReading": "දෙයාර් වොස් නොට් ඉනෆ් ටයිම් සෝ වී චේන්ජ්ඩ් දි ප්ලෑන්.",
-        "translation": "ප්‍රමාණවත් කාලයක් නොතිබූ නිසා අපි සැලැස්ම වෙනස් කළා."
+        "meaning": "බලපෑම / ප්‍රතිඵලය",
+        "example": "The effect of the new rule was clear after a month.",
+        "exampleReading": "දි ඉෆෙක්ට් ඔෆ් දි නිව් රූල් වොස් ක්ලියර් ආෆ්ටර් අ මන්ත්.",
+        "translation": "නව නීතියේ බලපෑම මාසයකට පසුව පැහැදිලි වුණා."
       },
       {
         "word": "consequence",
         "reading": "කොන්සිකුවෙන්ස්",
-        "meaning": "ප්‍රතිඵලය",
-        "example": "It is important to consider every option in advance.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන් ඉන් ඇඩ්වාන්ස්.",
-        "translation": "සෑම විකල්පයක්ම කලින් සලකා බැලීම වැදගත්."
+        "meaning": "ප්‍රතිවිපාකය",
+        "example": "One consequence of the delay was a missed connection.",
+        "exampleReading": "වන් කොන්සිකුවන්ස් ඔෆ් දි ඩිලේ වොස් අ මිස්ට් කනෙක්ෂන්.",
+        "translation": "ප්‍රමාදයේ එක් ප්‍රතිවිපාකයක් වූයේ සම්බන්ධිත ගමන මඟහැරීමයි."
       },
       {
         "word": "therefore",
         "reading": "දෙයර්ෆෝර්",
-        "meaning": "එබැවින්",
-        "example": "In the end, we will choose the solution that works best for everyone.",
-        "exampleReading": "ඉන් දි එන්ඩ් වී විල් චූස් දි සලූෂන් දැට් වර්ක්ස් බෙස්ට් ෆෝ එව්රීවන්.",
-        "translation": "අවසානයේ හැමෝටම හොඳම විසඳුම තෝරනවා."
+        "meaning": "ඒ නිසා",
+        "example": "The bus is late; therefore, we will take a taxi.",
+        "exampleReading": "දි බස් ඉස් ලේට් දෙයර්ෆෝර් වී විල් ටේක් අ ටැක්සි.",
+        "translation": "බස් රථය ප්‍රමාදයි; ඒ නිසා අපි ටැක්සියක් ගන්නවා."
       },
       {
         "word": "because of",
         "reading": "බිකෝස් ඔෆ්",
         "meaning": "නිසා",
-        "example": "Because of heavy rain, the match was postponed.",
-        "exampleReading": "බිකෝස් ඔෆ් හෙවි රේන් දි මැච් වොස් පෝස්ට්පෝන්ඩ්.",
-        "translation": "තද වැස්ස නිසා තරගය කල් දැමුවා."
+        "example": "The road was closed because of the snow.",
+        "exampleReading": "දි රෝඩ් වොස් ක්ලෝස්ඩ් බිකෝස් ඔෆ් දි ස්නෝ.",
+        "translation": "හිම නිසා මාර්ගය වසා තිබුණා."
       },
       {
         "word": "result",
         "reading": "රිසල්ට්",
         "meaning": "ප්‍රතිඵලය",
-        "example": "There was not enough time, so we changed the plan.",
-        "exampleReading": "දෙයාර් වොස් නොට් ඉනෆ් ටයිම් සෝ වී චේන්ජ්ඩ් දි ප්ලෑන්.",
-        "translation": "ප්‍රමාණවත් කාලයක් නොතිබූ නිසා අපි සැලැස්ම වෙනස් කළා."
+        "example": "The survey result showed strong support for the project.",
+        "exampleReading": "දි සර්වේ රිසල්ට් ෂෝඩ් ස්ට්‍රොං සපෝර්ට් ෆෝ දි ප්‍රොජෙක්ට්.",
+        "translation": "සමීක්ෂණයේ ප්‍රතිඵලයෙන් ව්‍යාපෘතියට වැඩි සහායක් ඇති බව පෙන්වුණා."
       },
       {
         "word": "increase",
         "reading": "ඉන්ක්‍රීස්",
-        "meaning": "වැඩි කරනවා",
-        "example": "It is important to consider every option in advance.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන් ඉන් ඇඩ්වාන්ස්.",
-        "translation": "සෑම විකල්පයක්ම කලින් සලකා බැලීම වැදගත්."
+        "meaning": "වැඩි කරන්න",
+        "example": "The city plans to increase the number of bus routes.",
+        "exampleReading": "දි සිටි ප්ලෑන්ස් ටු ඉන්ක්‍රීස් දි නම්බර් ඔෆ් බස් රූට්ස්.",
+        "translation": "නගරය බස් මාර්ග ගණන වැඩි කිරීමට සැලසුම් කරනවා."
       },
       {
         "word": "reduce",
         "reading": "රිඩියූස්",
-        "meaning": "අඩු කරනවා",
-        "example": "In the end, we will choose the solution that works best for everyone.",
-        "exampleReading": "ඉන් දි එන්ඩ් වී විල් චූස් දි සලූෂන් දැට් වර්ක්ස් බෙස්ට් ෆෝ එව්රීවන්.",
-        "translation": "අවසානයේ හැමෝටම හොඳම විසඳුම තෝරනවා."
+        "meaning": "අඩු කරන්න",
+        "example": "The new rules should reduce energy use.",
+        "exampleReading": "දි නිව් රූල්ස් ෂුඩ් රිඩියූස් එනර්ජි යූස්.",
+        "translation": "නව නීති මඟින් බලශක්ති භාවිතය අඩු කළ යුතුයි."
       }
     ],
     "grammarTitle": "Grammar",
@@ -3391,65 +3391,65 @@ const englishB1Lessons = [
         "word": "advantage",
         "reading": "ඇඩ්වාන්ටේජ්",
         "meaning": "වාසිය",
-        "example": "In my opinion, the advantages outweigh the disadvantages.",
-        "exampleReading": "ඉන් මයි ඔපීනියන් දි ඇඩ්වාන්ටේජස් අවර්වේ දි ඩිස්ඇඩ්වාන්ටේජස්.",
-        "translation": "මගේ අදහස අනුව වාසි අවාසිවලට වඩා වැඩියි."
+        "example": "The main advantage of this plan is its lower cost.",
+        "exampleReading": "දි මේන් ඇඩ්වාන්ටේජ් ඔෆ් දිස් ප්ලෑන් ඉස් ඉට්ස් ලෝවර් කොස්ට්.",
+        "translation": "මේ සැලැස්මේ ප්‍රධාන වාසිය අඩු වියදමයි."
       },
       {
         "word": "disadvantage",
         "reading": "ඩිස්ඇඩ්වාන්ටේජ්",
         "meaning": "අවාසිය",
-        "example": "In my opinion, the advantages outweigh the disadvantages.",
-        "exampleReading": "ඉන් මයි ඔපීනියන් දි ඇඩ්වාන්ටේජස් අවර්වේ දි ඩිස්ඇඩ්වාන්ටේජස්.",
-        "translation": "මගේ අදහස අනුව වාසි අවාසිවලට වඩා වැඩියි."
+        "example": "The biggest disadvantage is the longer journey.",
+        "exampleReading": "දි බිගස්ට් ඩිස්ඇඩ්වාන්ටේජ් ඉස් දි ලොන්ගර් ජර්නි.",
+        "translation": "ලොකුම අවාසිය දිගු ගමනයි."
       },
       {
         "word": "evidence",
         "reading": "එවිඩන්ස්",
         "meaning": "සාක්ෂිය",
-        "example": "It is important to consider every option in advance.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන් ඉන් ඇඩ්වාන්ස්.",
-        "translation": "සෑම විකල්පයක්ම කලින් සලකා බැලීම වැදගත්."
+        "example": "We need reliable evidence to support this claim.",
+        "exampleReading": "වී නීඩ් රිලයබල් එවිඩන්ස් ටු සපෝර්ට් දිස් ක්ලේම්.",
+        "translation": "මේ ප්‍රකාශයට සහාය දැක්වීමට අපට විශ්වාසදායක සාක්ෂි අවශ්‍යයි."
       },
       {
         "word": "opinion",
         "reading": "ඔපීනියන්",
-        "meaning": "මතය",
-        "example": "In my opinion, the advantages outweigh the disadvantages.",
-        "exampleReading": "ඉන් මයි ඔපීනියන් දි ඇඩ්වාන්ටේජස් අවර්වේ දි ඩිස්ඇඩ්වාන්ටේජස්.",
-        "translation": "මගේ අදහස අනුව වාසි අවාසිවලට වඩා වැඩියි."
+        "meaning": "අදහස",
+        "example": "In my opinion, public transport should be improved.",
+        "exampleReading": "ඉන් මයි ඔපීනියන් පබ්ලික් ට්‍රාන්ස්පෝට් ෂුඩ් බී ඉම්ප්‍රූව්ඩ්.",
+        "translation": "මගේ අදහස අනුව පොදු ප්‍රවාහනය වැඩිදියුණු කළ යුතුයි."
       },
       {
         "word": "argument",
         "reading": "ආර්ග්‍යුමන්ට්",
         "meaning": "තර්කය",
-        "example": "On the one hand, this option is cheaper; on the other hand, it is slower.",
-        "exampleReading": "ඔන් දි වන් හැන්ඩ් දිස් ඔප්ෂන් ඉස් චීපර් ඔන් දි අදර් හැන්ඩ් ඉට් ඉස් ස්ලෝවර්.",
-        "translation": "එක් පැත්තකින් මේ විකල්පය ලාභයි; අනෙක් පැත්තෙන් එය මන්දගාමීයි."
+        "example": "His argument was clear and supported by evidence.",
+        "exampleReading": "හිස් ආර්ගියුමන්ට් වොස් ක්ලියර් ඇන්ඩ් සපෝර්ටිඩ් බයි එවිඩන්ස්.",
+        "translation": "ඔහුගේ තර්කය පැහැදිලි වූ අතර සාක්ෂි මඟින් තහවුරු කර තිබුණා."
       },
       {
         "word": "on the one hand",
         "reading": "ඔන් දි වන් හැන්ඩ්",
         "meaning": "එක් පැත්තකින්",
-        "example": "On the one hand, this option is cheaper; on the other hand, it is slower.",
-        "exampleReading": "ඔන් දි වන් හැන්ඩ් දිස් ඔප්ෂන් ඉස් චීපර් ඔන් දි අදර් හැන්ඩ් ඉට් ඉස් ස්ලෝවර්.",
-        "translation": "එක් පැත්තකින් මේ විකල්පය ලාභයි; අනෙක් පැත්තෙන් එය මන්දගාමීයි."
+        "example": "On the one hand, the job offers a good salary.",
+        "exampleReading": "ඔන් දි වන් හැන්ඩ් දි ජොබ් ඔෆර්ස් අ ගුඩ් සැලරි.",
+        "translation": "එක් පැත්තකින් රැකියාවට හොඳ වැටුපක් ලැබෙනවා."
       },
       {
         "word": "on the other hand",
         "reading": "ඔන් දි අදර් හැන්ඩ්",
         "meaning": "අනෙක් පැත්තෙන්",
-        "example": "On the one hand, this option is cheaper; on the other hand, it is slower.",
-        "exampleReading": "ඔන් දි වන් හැන්ඩ් දිස් ඔප්ෂන් ඉස් චීපර් ඔන් දි අදර් හැන්ඩ් ඉට් ඉස් ස්ලෝවර්.",
-        "translation": "එක් පැත්තකින් මේ විකල්පය ලාභයි; අනෙක් පැත්තෙන් එය මන්දගාමීයි."
+        "example": "On the other hand, the working hours are very long.",
+        "exampleReading": "ඔන් දි අදර් හැන්ඩ් දි වර්කින් අවර්ස් ආර් වෙරි ලොං.",
+        "translation": "අනෙක් පැත්තෙන් වැඩ කරන කාලය ඉතා දිගුයි."
       },
       {
         "word": "conclusion",
         "reading": "කන්ක්ලූෂන්",
         "meaning": "නිගමනය",
-        "example": "In the end, we will choose the solution that works best for everyone.",
-        "exampleReading": "ඉන් දි එන්ඩ් වී විල් චූස් දි සලූෂන් දැට් වර්ක්ස් බෙස්ට් ෆෝ එව්රීවන්.",
-        "translation": "අවසානයේ හැමෝටම හොඳම විසඳුම තෝරනවා."
+        "example": "We wrote a short conclusion at the end of the report.",
+        "exampleReading": "වී රෝට් අ ෂෝර්ට් කන්ක්ලූෂන් ඇට් දි එන්ඩ් ඔෆ් දි රිපෝර්ට්.",
+        "translation": "වාර්තාව අවසානයේ අපි කෙටි නිගමනයක් ලිව්වා."
       }
     ],
     "grammarTitle": "Grammar",
