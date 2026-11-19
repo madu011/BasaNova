@@ -412,3 +412,7 @@ Automated review identified and corrected 2,400 A2/B1/B2 vocabulary example fiel
 
 ### English B1 quiz localization — 2026-11-19
 Corrected the first 10 English B1 lessons, replacing Serbian-language quiz prompts and options with English-language practice questions. All 50 English B1 lessons and 200 practice questions passed structural answer-index checks; the targeted Serbian-phrase scan returned no matches. See `HANDOFF.md` for the commit and remaining QA tasks.
+
+
+### English B1 content correction — 2026-11-19
+Restored actual English text in lessons 31–50 where Sinhala-script pronunciation had replaced the visible English sentence in quiz options, examples and dialogue. Sinhala pronunciation aids remain available separately. Structural checks passed for the 20 corrected lessons; see `HANDOFF.md` for remaining language and device QA.
