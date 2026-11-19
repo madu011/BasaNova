@@ -732,3 +732,10 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 - Expo validation run `44554871348` passed for code commit `c9b99dd7`, including dependency install, Expo compatibility and Android bundle export after the A2/B1/B2 vocabulary example corrections.
 - Android APK build run `44555170085` was still in progress at the latest status check, targeting curriculum commit `e3c754fa` (which includes the content QA changes). An older successful APK artifact exists from run `44552002628` / commit `3b236e4a`, but it predates the A2/B1/B2 example corrections. Prefer the newer build once it completes.
 - Latest documentation-only Expo runs were queued/in progress. No physical Android install test has been completed.
+
+
+## 2026-11-19 — Fix standalone Android APK bundle loading
+- User reported the installed APK opening the React Native red screen: “Unable to load script” and asking for Metro / `index.android.bundle`.
+- Diagnosis: the Android workflow was running `assembleDebug`, which produces a development/debug variant that expects Metro instead of a standalone release JS bundle. The preceding `expo export` step does not make the debug APK self-contained.
+- Updated `.github/workflows/android-apk.yml` to build `assembleRelease`, verify that `app/build/outputs/apk/release/app-release.apk` exists and is non-empty, and upload it as `basanova-android-release-apk`. Workflow update commit: 7ce9cad0717bf480d6267092585c2060134c3d71.
+- The new GitHub Actions run must complete before claiming the release APK is fixed. Then install that new release artifact and verify app startup on a physical Android device. The previous debug APK is not the correct standalone artifact.
