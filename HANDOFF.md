@@ -899,3 +899,17 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 1. Rewrite the final B response and practice item 4 for paired B1 lessons 11–30 so they match each lesson's own dialogue and topic; preserve answer alignment and Sinhala meanings.
 2. Then audit listening prompts and vocabulary example/translation alignment in lessons 1–50.
 3. Check the latest Expo validation and Android APK workflow after commits `f3d1cd7` and `35a61fe`; confirm a successful APK artifact before sharing it.
+
+
+## 2026-11-19 — B1 lessons 11–30 dialogue and practice rewrite
+- Rewrote the repeated follow-up and final response lines in paired Serbian/English lessons 11–30 (20 lessons), making the conversations specific to probability and travel, learning strategies, consumer complaints, procedures, community action, work-life balance, sustainability, causes/effects, arguments, education, apps, budgeting, well-being, traditions, career skills, negotiation, media reliability, travel experiences and moving to a new city.
+- Replaced fourth practice item in all 40 lesson files so the prompt, three options, correct answer and explanation match the new final dialogue response.
+- Preserved lesson IDs, order, first A line and the other lesson content. Local structural checks passed for four dialogue lines and valid three-option practice items across all 20 paired lessons.
+- Serbian update commit: `d2c580cc77f72d86cb821a24e3750f4a076323c4`.
+- English update commit: `932d1fb90540b726da38c7f4bd8c2aaa415e42a2`.
+- Sinhala reading fields added for the rewritten lines are approximate phonetic guides and require native-speaker review.
+
+### Next exact task
+1. Review the new dialogue translations and approximate pronunciation aids for Serbian B1 lessons 11–30; improve any unnatural Sinhala or phonetics.
+2. Audit B1 listening prompts and vocabulary example/translation alignment across lessons 1–50.
+3. Check CI and Android APK artifact status for the latest commit; do not claim an APK is ready without a successful artifact.
