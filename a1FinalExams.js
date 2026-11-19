@@ -208,7 +208,7 @@ export const SERBIAN_A1_FINAL_EXAM = [
   {
     "id": "sr-a1-final-18",
     "audio": "Volim muziku.",
-    "reading": "වොලිම් මුසිку.",
+    "reading": "වොලිම් මුසිකු.",
     "options": [
       "මම සංගීතයට කැමතියි.",
       "මම වැඩ කරනවා.",
