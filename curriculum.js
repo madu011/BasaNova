@@ -203,7 +203,7 @@ export const C2_COMPLETION_STATUS = {
   lessons: { Serbian: 50, English: 50 },
   pairedLessons: 50,
   totalC2Records: 100,
-  nextWork: "Build cumulative C2 mixed revision and final practice assessments for Serbian and English",
+  nextWork: "Review advanced Serbian and English naturalness, Sinhala pronunciation and translations; verify CI and Android device behavior",
   remaining: ["cumulative revision and final practice assessments", "fluent-speaker review of advanced Serbian and English nuance", "review Sinhala-script pronunciation and translations", "CI, Expo build and Android device verification"]
 };
 
