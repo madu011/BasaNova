@@ -1,4 +1,4 @@
-const serbianB1Lessons = [
+export const SERBIAN_B1_LESSONS = [
   {
     "id": "sr-b1-l1",
     "unit": "ස්වාධීන භාවිතය",
@@ -4459,65 +4459,65 @@ const serbianB1Lessons = [
         "word": "iskustvo",
         "reading": "ඉස්කුස්ත්වො",
         "meaning": "පළපුරුද්ද",
-        "example": "Radio sam u prodaji i naučio sam da rešavam probleme kupaca.",
-        "translation": "මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කරලා පාරිභෝගික ගැටලු විසඳන්න ඉගෙන ගත්තා.",
-        "exampleReading": "රාදියො සාම් උ ප්‍රොදායි ඉ නවුචියො සාම් ද රෙෂාවාම් ප්‍රොබ්ලෙමෙ කුපාත්සා."
+        "example": "Radio sam u prodaji i stekao dragoceno iskustvo u radu sa kupcima.",
+        "translation": "මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කර පාරිභෝගිකයන් සමඟ වැඩ කිරීමේ වටිනා පළපුරුද්දක් ලබාගත්තා.",
+        "exampleReading": "රඅදඉඔ ස්අම උ පරඔදඅයඉ ඉ ස්ත්එකඅඔ දරඅගඔත්ස්එනඔ ඉස්කඋස්ත්වඔ උ රඅදඋ ස්අ කඋපත්ස්ඉමඅ."
       },
       {
         "word": "postignuće",
         "reading": "පොස්තිග්නුචෙ",
         "meaning": "ජයග්‍රහණය",
-        "example": "Važno je da razmotrimo sve dostupne mogućnosti.",
-        "translation": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ දොස්තුප්නෙ මොගුච්නොස්ති."
+        "example": "Završetak ovog projekta smatram svojim najvećim profesionalnim postignućem.",
+        "translation": "මෙම ව්‍යාපෘතිය අවසන් කිරීම මගේ විශාලතම වෘත්තීය ජයග්‍රහණය ලෙස සලකනවා.",
+        "exampleReading": "ස්අවරෂඑත්අක ඔවඔග පරඔයඑකත්අ ස්මඅත්රඅම ස්වඔයඉම නඅයවඑච්ඉම පරඔෆඑස්ඉඔනඅලනඉම පඔස්ත්ඉගනඋච්එම."
       },
       {
         "word": "odgovornost",
         "reading": "ඔද්ගොවොර්නොස්ත්",
         "meaning": "වගකීම",
-        "example": "Možemo da napravimo plan i da ga prilagodimo situaciji.",
-        "translation": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි.",
-        "exampleReading": "මොෂෙමො ද නප්‍රාවිමො ප්ලාන් ඉ ද ගා ප්‍රිලාගොදිමො සිතුආත්සියි."
+        "example": "Vođa tima ima odgovornost da raspodeli zadatke među zaposlenima.",
+        "translation": "කණ්ඩායම් නායකයාට සේවකයන් අතර කාර්යයන් බෙදාදීමේ වගකීම තිබෙනවා.",
+        "exampleReading": "වඔජ්අ ත්ඉමඅ ඉමඅ ඔදගඔවඔරනඔස්ත් දඅ රඅස්පඔදඑලඉ ස්අදඅත්කඑ මඑජ්උ ස්අපඔස්ලඑනඉමඅ."
       },
       {
         "word": "razgovor za posao",
         "reading": "රාස්ගොවොර සා පොසාඔ",
         "meaning": "සම්මුඛ පරීක්ෂණය",
-        "example": "Na osnovu iskustva, ovaj pristup može biti koristan.",
-        "translation": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි.",
-        "exampleReading": "නා ඔස්නොවු ඉස්කුස්ත්වා ඔවායි ප්‍රිස්තුප් මොෂෙ බිති කොරිස්තාන්."
+        "example": "Sutra imam razgovor za posao u jednoj međunarodnoj kompaniji.",
+        "translation": "හෙට මට ජාත්‍යන්තර සමාගමක රැකියා සම්මුඛ පරීක්ෂණයක් තිබෙනවා.",
+        "exampleReading": "ස්උත්රඅ ඉමඅම රඅස්ගඔවඔර ස්අ පඔස්අඔ උ යඑදනඔය මඑජ්උනඅරඔදනඔය කඔමපඅනඉයඉ."
       },
       {
         "word": "poslodavac",
         "reading": "පොස්ලොදාවාත්ස්",
         "meaning": "සේවායෝජකයා",
-        "example": "Radio sam u prodaji i naučio sam da rešavam probleme kupaca.",
-        "translation": "මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කරලා පාරිභෝගික ගැටලු විසඳන්න ඉගෙන ගත්තා.",
-        "exampleReading": "රාදියො සාම් උ ප්‍රොදායි ඉ නවුචියො සාම් ද රෙෂාවාම් ප්‍රොබ්ලෙමෙ කුපාත්සා."
+        "example": "Moj poslodavac organizuje obuku za sve nove radnike.",
+        "translation": "මගේ සේවායෝජකයා සියලු නව සේවකයන් සඳහා පුහුණුවක් සංවිධානය කරනවා.",
+        "exampleReading": "මඔය පඔස්ලඔදඅවඅත්ස් ඔරගඅනඉස්උයඑ ඔබඋකඋ ස්අ ස්වඑ නඔවඑ රඅදනඉකඑ."
       },
       {
         "word": "kolega",
         "reading": "කොලෙගා",
         "meaning": "සගයා",
-        "example": "Važno je da razmotrimo sve dostupne mogućnosti.",
-        "translation": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ දොස්තුප්නෙ මොගුච්නොස්ති."
+        "example": "Kolega mi je pomogao da završim izveštaj na vreme.",
+        "translation": "වාර්තාව නියමිත වේලාවට අවසන් කිරීමට මගේ සගයා මට උදව් කළා.",
+        "exampleReading": "කඔලඑගඅ මඉ යඑ පඔමඔගඅඔ දඅ ස්අවරෂඉම ඉස්වඑෂත්අය නඅ වරඑමඑ."
       },
       {
         "word": "unapređenje",
         "reading": "උනප්‍රෙජෙන්යේ",
         "meaning": "උසස්වීම",
-        "example": "Možemo da napravimo plan i da ga prilagodimo situaciji.",
-        "translation": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි.",
-        "exampleReading": "මොෂෙමො ද නප්‍රාවිමො ප්ලාන් ඉ ද ගා ප්‍රිලාගොදිමො සිතුආත්සියි."
+        "example": "Dobila je unapređenje nakon dve godine odličnog rada.",
+        "translation": "වසර දෙකක් විශිෂ්ට ලෙස වැඩ කිරීමෙන් පසු ඇයට උසස්වීමක් ලැබුණා.",
+        "exampleReading": "දඔබඉලඅ යඑ උනඅපරඑජ්එඑ නඅකඔන දවඑ ගඔදඉනඑ ඔදලඉචනඔග රඅදඅ."
       },
       {
         "word": "preporuka",
         "reading": "ප්‍රෙපොරුකා",
         "meaning": "නිර්දේශය",
-        "example": "Na osnovu iskustva, ovaj pristup može biti koristan.",
-        "translation": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි.",
-        "exampleReading": "නා ඔස්නොවු ඉස්කුස්ත්වා ඔවායි ප්‍රිස්තුප් මොෂෙ බිති කොරිස්තාන්."
+        "example": "Za prijavu na ovo radno mesto potrebna je preporuka prethodnog poslodavca.",
+        "translation": "මෙම රැකියාවට අයදුම් කිරීමට පෙර සේවායෝජකයාගේ නිර්දේශයක් අවශ්‍යයි.",
+        "exampleReading": "ස්අ පරඉයඅවඋ නඅ ඔවඔ රඅදනඔ මඑස්ත්ඔ පඔත්රඑබනඅ යඑ පරඑපඔරඋකඅ පරඑත්හඔදනඔග පඔස්ලඔදඅවත්ස්අ."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -4637,65 +4637,65 @@ const serbianB1Lessons = [
         "word": "sporazum",
         "reading": "ස්පොරසුම්",
         "meaning": "එකඟතාව",
-        "example": "Predlažem da saslušamo obe strane pre nego što odlučimo.",
-        "translation": "තීරණය කිරීමට පෙර දෙපාර්ශ්වයටම සවන් දෙමු කියලා මම යෝජනා කරනවා.",
-        "exampleReading": "ප්‍රෙද්ලාෂෙම් ද සාස්ලුෂාමො ඔබෙ ස්ත්‍රානෙ ප්‍රෙ නෙගො ෂ්තො ඔද්ලුචිමො."
+        "example": "Obe strane su potpisale sporazum nakon dugih pregovora.",
+        "translation": "දිගු සාකච්ඡාවලින් පසු දෙපාර්ශ්වයම ගිවිසුමට අත්සන් කළා.",
+        "exampleReading": "ඔබඑ ස්ත්රඅනඑ ස්උ පඔත්පඉස්අලඑ ස්පඔරඅස්උම නඅකඔන දඋගඉහ පරඑගඔවඔරඅ."
       },
       {
         "word": "kompromis",
         "reading": "කොම්ප්‍රොමිස්",
         "meaning": "සම්මුතිය",
-        "example": "Važno je da razmotrimo sve dostupne mogućnosti.",
-        "translation": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ දොස්තුප්නෙ මොගුච්නොස්ති."
+        "example": "Pronašli smo kompromis koji odgovara i zaposlenima i upravi.",
+        "translation": "සේවකයන්ටත් කළමනාකාරීත්වයටත් ගැළපෙන සම්මුතියක් අපි සොයාගත්තා.",
+        "exampleReading": "පරඔනඅෂලඉ ස්මඔ කඔමපරඔමඉස් කඔයඉ ඔදගඔවඅරඅ ඉ ස්අපඔස්ලඑනඉමඅ ඉ උපරඅවඉ."
       },
       {
         "word": "neslaganje",
         "reading": "නෙස්ලාගාන්යේ",
         "meaning": "නොඑකඟතාව",
-        "example": "Možemo da napravimo plan i da ga prilagodimo situaciji.",
-        "translation": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි.",
-        "exampleReading": "මොෂෙමො ද නප්‍රාවිමො ප්ලාන් ඉ ද ගා ප්‍රිලාගොදිමො සිතුආත්සියි."
+        "example": "Došlo je do neslaganja oko datuma početka projekta.",
+        "translation": "ව්‍යාපෘතිය ආරම්භ කරන දිනය පිළිබඳ නොඑකඟතාවක් ඇති වුණා.",
+        "exampleReading": "දඔෂලඔ යඑ දඔ නඑස්ලඅගඅඅ ඔකඔ දඅත්උමඅ පඔචඑත්කඅ පරඔයඑකත්අ."
       },
       {
         "word": "pregovarati",
         "reading": "ප්‍රෙගොවාරාති",
         "meaning": "සාකච්ඡා කරනවා",
-        "example": "Na osnovu iskustva, ovaj pristup može biti koristan.",
-        "translation": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි.",
-        "exampleReading": "නා ඔස්නොවු ඉස්කුස්ත්වා ඔවායි ප්‍රිස්තුප් මොෂෙ බිති කොරිස්තාන්."
+        "example": "Sindikat želi da pregovara o boljim uslovima rada.",
+        "translation": "වඩා හොඳ සේවා කොන්දේසි ගැන සාකච්ඡා කිරීමට වෘත්තීය සමිතියට අවශ්‍යයි.",
+        "exampleReading": "ස්ඉනදඉකඅත් ෂ්එලඉ දඅ පරඑගඔවඅරඅ ඔ බඔඉම උස්ලඔවඉමඅ රඅදඅ."
       },
       {
         "word": "predlog",
         "reading": "ප්‍රෙද්ලොග්",
         "meaning": "යෝජනාව",
-        "example": "Predlažem da saslušamo obe strane pre nego što odlučimo.",
-        "translation": "තීරණය කිරීමට පෙර දෙපාර්ශ්වයටම සවන් දෙමු කියලා මම යෝජනා කරනවා.",
-        "exampleReading": "ප්‍රෙද්ලාෂෙම් ද සාස්ලුෂාමො ඔබෙ ස්ත්‍රානෙ ප්‍රෙ නෙගො ෂ්තො ඔද්ලුචිමො."
+        "example": "Njihov predlog uključuje kraće radno vreme petkom.",
+        "translation": "ඔවුන්ගේ යෝජනාවට සිකුරාදා කෙටි වැඩ වේලාවක් ඇතුළත් වෙනවා.",
+        "exampleReading": "ඉහඔව පරඑදලඔග උකඋචඋයඑ කරඅච්එ රඅදනඔ වරඑමඑ පඑත්කඔම."
       },
       {
         "word": "briga",
         "reading": "බ්‍රිගා",
         "meaning": "කනස්සල්ල",
-        "example": "Važno je da razmotrimo sve dostupne mogućnosti.",
-        "translation": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ දොස්තුප්නෙ මොගුච්නොස්ති."
+        "example": "Moja najveća briga je da svi dobiju priliku da govore.",
+        "translation": "සෑම කෙනෙකුටම කතා කිරීමට අවස්ථාව ලැබේද යන්න මගේ ලොකුම කනස්සල්ලයි.",
+        "exampleReading": "මඔයඅ නඅයවඑච්අ බරඉගඅ යඑ දඅ ස්වඉ දඔබඉයඋ පරඉලඉකඋ දඅ ගඔවඔරඑ."
       },
       {
         "word": "rešenje",
         "reading": "රෙෂෙන්යේ",
         "meaning": "විසඳුම",
-        "example": "Možemo da napravimo plan i da ga prilagodimo situaciji.",
-        "translation": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි.",
-        "exampleReading": "මොෂෙමො ද නප්‍රාවිමො ප්ලාන් ඉ ද ගා ප්‍රිලාගොදිමො සිතුආත්සියි."
+        "example": "Zajednički sastanak pomogao nam je da pronađemo rešenje.",
+        "translation": "එක්ව පැවැත්වූ රැස්වීම විසඳුමක් සොයාගැනීමට අපට උදව් කළා.",
+        "exampleReading": "ස්අයඑදනඉචකඉ ස්අස්ත්අනඅක පඔමඔගඅඔ නඅම යඑ දඅ පරඔනඅජ්එමඔ රඑෂඑඑ."
       },
       {
         "word": "poštovanje",
         "reading": "පොෂ්තොවාන්යේ",
         "meaning": "ගෞරවය",
-        "example": "Na osnovu iskustva, ovaj pristup može biti koristan.",
-        "translation": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි.",
-        "exampleReading": "නා ඔස්නොවු ඉස්කුස්ත්වා ඔවායි ප්‍රිස්තුප් මොෂෙ බිති කොරිස්තාන්."
+        "example": "Razgovor treba da se vodi uz međusobno poštovanje.",
+        "translation": "සාකච්ඡාව අන්‍යෝන්‍ය ගෞරවයෙන් පැවැත්විය යුතුයි.",
+        "exampleReading": "රඅස්ගඔවඔර ත්රඑබඅ දඅ ස්එ වඔදඉ උස් මඑජ්උස්ඔබනඔ පඔෂත්ඔවඅඑ."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -4817,63 +4817,63 @@ const serbianB1Lessons = [
         "meaning": "මූලාශ්‍රය",
         "example": "Pre nego što podelim vest, proverim izvor i datum objave.",
         "translation": "ප්‍රවෘත්තියක් බෙදාගැනීමට පෙර මූලාශ්‍රය සහ පළ කළ දිනය පරීක්ෂා කරනවා.",
-        "exampleReading": "ප්‍රෙ නෙගො ෂ්තො පොදෙලිම් වෙස්ත් ප්‍රොවෙරිම් ඉස්වොර ඉ දාතුම් ඔබ්යාවේ."
+        "exampleReading": "පරඑ නඑගඔ ෂත්ඔ පඔදඑලඉම වඑස්ත්, පරඔවඑරඉම ඉස්වඔර ඉ දඅත්උම ඔබයඅවඑ."
       },
       {
         "word": "naslov",
         "reading": "නාස්ලොව්",
         "meaning": "ශීර්ෂ පාඨය",
-        "example": "Važno je da razmotrimo sve dostupne mogućnosti.",
-        "translation": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ දොස්තුප්නෙ මොගුච්නොස්ති."
+        "example": "Naslov članka treba jasno da predstavi glavnu temu.",
+        "translation": "ලිපියේ ශීර්ෂ පාඨය ප්‍රධාන මාතෘකාව පැහැදිලිව ඉදිරිපත් කළ යුතුයි.",
+        "exampleReading": "නඅස්ලඔව චලඅනකඅ ත්රඑබඅ යඅස්නඔ දඅ පරඑදස්ත්අවඉ ගලඅවනඋ ත්එමඋ."
       },
       {
         "word": "izveštaj",
         "reading": "ඉස්වෙෂ්තායි",
         "meaning": "වාර්තාව",
-        "example": "Možemo da napravimo plan i da ga prilagodimo situaciji.",
-        "translation": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි.",
-        "exampleReading": "මොෂෙමො ද නප්‍රාවිමො ප්ලාන් ඉ ද ගා ප්‍රිලාගොදිමො සිතුආත්සියි."
+        "example": "Novinar je objavio detaljan izveštaj o rezultatima izbora.",
+        "translation": "මාධ්‍යවේදියා මැතිවරණ ප්‍රතිඵල පිළිබඳ සවිස්තර වාර්තාවක් පළ කළා.",
+        "exampleReading": "නඔවඉනඅර යඑ ඔබයඅවඉඔ දඑත්අඅන ඉස්වඑෂත්අය ඔ රඑස්උලත්අත්ඉමඅ ඉස්බඔරඅ."
       },
       {
         "word": "tvrdnja",
         "reading": "ත්ව්ර්ද්න්යා",
         "meaning": "ප්‍රකාශය",
-        "example": "Na osnovu iskustva, ovaj pristup može biti koristan.",
-        "translation": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි.",
-        "exampleReading": "නා ඔස්නොවු ඉස්කුස්ත්වා ඔවායි ප්‍රිස්තුප් මොෂෙ බිති කොරිස්තාන්."
+        "example": "Autor iznosi tvrdnju koju još treba proveriti.",
+        "translation": "කතුවරයා තවමත් පරීක්ෂා කළ යුතු ප්‍රකාශයක් ඉදිරිපත් කරනවා.",
+        "exampleReading": "අඋත්ඔර ඉස්නඔස්ඉ ත්වරදඋ කඔයඋ යඔෂ ත්රඑබඅ පරඔවඑරඉත්ඉ."
       },
       {
         "word": "dokaz",
         "reading": "දොකාස්",
         "meaning": "සාක්ෂිය",
-        "example": "Pre nego što podelim vest, proverim izvor i datum objave.",
-        "translation": "ප්‍රවෘත්තියක් බෙදාගැනීමට පෙර මූලාශ්‍රය සහ පළ කළ දිනය පරීක්ෂා කරනවා.",
-        "exampleReading": "ප්‍රෙ නෙගො ෂ්තො පොදෙලිම් වෙස්ත් ප්‍රොවෙරිම් ඉස්වොර ඉ දාතුම් ඔබ්යාවේ."
+        "example": "Policija je pronašla dokaz koji potvrđuje njegovu izjavu.",
+        "translation": "ඔහුගේ ප්‍රකාශය තහවුරු කරන සාක්ෂියක් පොලිසිය සොයාගත්තා.",
+        "exampleReading": "පඔලඉත්ස්ඉයඅ යඑ පරඔනඅෂලඅ දඔකඅස් කඔයඉ පඔත්වරජ්උයඑ එගඔවඋ ඉස්යඅවඋ."
       },
       {
         "word": "pouzdan",
         "reading": "පොඋස්දාන්",
         "meaning": "විශ්වාසදායක",
-        "example": "Važno je da razmotrimo sve dostupne mogućnosti.",
-        "translation": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ දොස්තුප්නෙ මොගුච්නොස්ති."
+        "example": "Za važne odluke koristim samo pouzdane izvore informacija.",
+        "translation": "වැදගත් තීරණ සඳහා මම විශ්වාසදායක තොරතුරු මූලාශ්‍ර පමණක් භාවිත කරනවා.",
+        "exampleReading": "ස්අ වඅෂ්නඑ ඔදලඋකඑ කඔරඉස්ත්ඉම ස්අමඔ පඔඋස්දඅනඑ ඉස්වඔරඑ ඉනෆඔරමඅත්ස්ඉයඅ."
       },
       {
         "word": "pristrasnost",
         "reading": "ප්‍රිස්ත්‍රාස්නොස්ත්",
         "meaning": "පක්ෂපාතීත්වය",
-        "example": "Možemo da napravimo plan i da ga prilagodimo situaciji.",
-        "translation": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි.",
-        "exampleReading": "මොෂෙමො ද නප්‍රාවිමො ප්ලාන් ඉ ද ගා ප්‍රිලාගොදිමො සිතුආත්සියි."
+        "example": "Pristrasnost u medijima može uticati na način na koji publika razume događaje.",
+        "translation": "මාධ්‍යයේ පක්ෂපාතීත්වය ප්‍රේක්ෂකයන් සිදුවීම් තේරුම් ගන්නා ආකාරයට බලපාන්න පුළුවන්.",
+        "exampleReading": "පරඉස්ත්රඅස්නඔස්ත් උ මඑදඉයඉමඅ මඔෂ්එ උත්ඉත්ස්අත්ඉ නඅ නඅචඉන නඅ කඔයඉ පඋබලඉකඅ රඅස්උමඑ දඔගඅජ්අයඑ."
       },
       {
         "word": "objaviti",
         "reading": "ඔබ්යාවිති",
         "meaning": "පළ කරනවා",
-        "example": "Na osnovu iskustva, ovaj pristup može biti koristan.",
-        "translation": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි.",
-        "exampleReading": "නා ඔස්නොවු ඉස්කුස්ත්වා ඔවායි ප්‍රිස්තුප් මොෂෙ බිති කොරිස්තාන්."
+        "example": "Univerzitet će objaviti rezultate konkursa sledeće nedelje.",
+        "translation": "විශ්වවිද්‍යාලය තරගයේ ප්‍රතිඵල ලබන සතියේ පළ කරනවා.",
+        "exampleReading": "උනඉවඑරස්ඉත්එත් ච්එ ඔබයඅවඉත්ඉ රඑස්උලත්අත්එ කඔනකඋරස්අ ස්ලඑදඑච්එ නඑදඑඑ."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -4993,65 +4993,65 @@ const serbianB1Lessons = [
         "word": "odredište",
         "reading": "ඔද්‍රෙදිෂ්තෙ",
         "meaning": "ගමනාන්තය",
-        "example": "Čim stignemo u hotel, ostavićemo prtljag i istražiti grad.",
-        "translation": "හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා.",
-        "exampleReading": "චිම් ස්තිග්නෙමො උ හොතෙල් ඔස්තාවිචෙමො ප්‍ර්ත්ල්යාග් ඉ ඉස්ත්‍රාෂිති ග්‍රාද්."
+        "example": "Naše konačno odredište je malo primorsko mesto na jugu zemlje.",
+        "translation": "අපේ අවසාන ගමනාන්තය රටේ දකුණේ පිහිටි කුඩා වෙරළබඩ නගරයක්.",
+        "exampleReading": "නඅෂඑ කඔනඅචනඔ ඔදරඑදඉෂත්එ යඑ මඅලඔ පරඉමඔරස්කඔ මඑස්ත්ඔ නඅ යඋගඋ ස්එමඑ."
       },
       {
         "word": "smeštaj",
         "reading": "ස්මෙෂ්තායි",
         "meaning": "නවාතැන",
-        "example": "Važno je da razmotrimo sve dostupne mogućnosti.",
-        "translation": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ දොස්තුප්නෙ මොගුච්නොස්ති."
+        "example": "Rezervisali smo smeštaj blizu železničke stanice.",
+        "translation": "අපි දුම්රිය ස්ථානය අසල නවාතැනක් වෙන් කරගත්තා.",
+        "exampleReading": "රඑස්එරවඉස්අලඉ ස්මඔ ස්මඑෂත්අය බලඉස්උ ෂ්එලඑස්නඉචකඑ ස්ත්අනඉත්ස්එ."
       },
       {
         "word": "razgledanje",
         "reading": "රාස්ග්ලෙදාන්යේ",
         "meaning": "නගර නැරඹීම",
-        "example": "Možemo da napravimo plan i da ga prilagodimo situaciji.",
-        "translation": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි.",
-        "exampleReading": "මොෂෙමො ද නප්‍රාවිමො ප්ලාන් ඉ ද ගා ප්‍රිලාගොදිමො සිතුආත්සියි."
+        "example": "Sutra planiramo razgledanje starog dela grada sa vodičem.",
+        "translation": "හෙට මඟපෙන්වන්නෙකු සමඟ නගරයේ පැරණි කොටස නැරඹීමට සැලසුම් කරනවා.",
+        "exampleReading": "ස්උත්රඅ පලඅනඉරඅමඔ රඅස්ගලඑදඅඑ ස්ත්අරඔග දඑලඅ ගරඅදඅ ස්අ වඔදඉචඑම."
       },
       {
         "word": "rezervacija",
         "reading": "රෙසෙර්වාත්සියා",
         "meaning": "වෙන්කිරීම",
-        "example": "Na osnovu iskustva, ovaj pristup može biti koristan.",
-        "translation": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි.",
-        "exampleReading": "නා ඔස්නොවු ඉස්කුස්ත්වා ඔවායි ප්‍රිස්තුප් මොෂෙ බිති කොරිස්තාන්."
+        "example": "Potvrdili su našu rezervaciju za dve noći.",
+        "translation": "රාත්‍රී දෙකක් සඳහා වූ අපේ වෙන්කිරීම ඔවුන් තහවුරු කළා.",
+        "exampleReading": "පඔත්වරදඉලඉ ස්උ නඅෂඋ රඑස්එරවඅත්ස්ඉයඋ ස්අ දවඑ නඔච්ඉ."
       },
       {
         "word": "lokalni",
         "reading": "ලොකල්නි",
         "meaning": "දේශීය",
-        "example": "Čim stignemo u hotel, ostavićemo prtljag i istražiti grad.",
-        "translation": "හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා.",
-        "exampleReading": "චිම් ස්තිග්නෙමො උ හොතෙල් ඔස්තාවිචෙමො ප්‍ර්ත්ල්යාග් ඉ ඉස්ත්‍රාෂිති ග්‍රාද්."
+        "example": "Uvek pokušavam da probam lokalnu hranu kada putujem.",
+        "translation": "මම සංචාරය කරන විට හැමවිටම දේශීය ආහාර රස බැලීමට උත්සාහ කරනවා.",
+        "exampleReading": "උවඑක පඔකඋෂඅවඅම දඅ පරඔබඅම ලඔකඅලනඋ හරඅනඋ කඅදඅ පඋත්උයඑම."
       },
       {
         "word": "ruta",
         "reading": "රුතා",
         "meaning": "මාර්ගය",
-        "example": "Važno je da razmotrimo sve dostupne mogućnosti.",
-        "translation": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ දොස්තුප්නෙ මොගුච්නොස්ති."
+        "example": "Izabrali smo kraću rutu kroz planine.",
+        "translation": "අපි කඳු හරහා යන කෙටි මාර්ගය තෝරාගත්තා.",
+        "exampleReading": "ඉස්අබරඅලඉ ස්මඔ කරඅච්උ රඋත්උ කරඔස් පලඅනඉනඑ."
       },
       {
         "word": "prtljag",
         "reading": "ප්‍ර්ත්ල්යාග්",
         "meaning": "ගමන් මලු",
-        "example": "Čim stignemo u hotel, ostavićemo prtljag i istražiti grad.",
-        "translation": "හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා.",
-        "exampleReading": "චිම් ස්තිග්නෙමො උ හොතෙල් ඔස්තාවිචෙමො ප්‍ර්ත්ල්යාග් ඉ ඉස්ත්‍රාෂිති ග්‍රාද්."
+        "example": "Avio-kompanija je izgubila moj prtljag tokom presedanja.",
+        "translation": "ගුවන් සමාගම මාරු ගමන අතරතුර මගේ ගමන් මලු නැති කළා.",
+        "exampleReading": "අවඉඔකඔමපඅනඉයඅ යඑ ඉස්ගඋබඉලඅ මඔය පරත්අග ත්ඔකඔම පරඑස්එදඅඅ."
       },
       {
         "word": "doživljaj",
         "reading": "දොෂිව්ල්යායි",
         "meaning": "අත්දැකීම",
-        "example": "Na osnovu iskustva, ovaj pristup može biti koristan.",
-        "translation": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි.",
-        "exampleReading": "නා ඔස්නොවු ඉස්කුස්ත්වා ඔවායි ප්‍රිස්තුප් මොෂෙ බිති කොරිස්තාන්."
+        "example": "Vožnja vozom kroz kanjon bila je nezaboravan doživljaj.",
+        "translation": "කඳු පටු නිම්නය හරහා දුම්රියෙන් ගිය ගමන අමතක නොවන අත්දැකීමක් වුණා.",
+        "exampleReading": "වඔෂ්අ වඔස්ඔම කරඔස් කඅඔන බඉලඅ යඑ නඑස්අබඔරඅවඅන දඔෂ්ඉවඅය."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -5171,65 +5171,65 @@ const serbianB1Lessons = [
         "word": "uspomena",
         "reading": "උස්පොමෙනා",
         "meaning": "මතකය",
-        "example": "Kada sam se preselio, trebalo mi je vremena da se naviknem na novi grad.",
-        "translation": "මම පදිංචිය මාරු කළ විට අලුත් නගරයට හුරු වෙන්න කාලයක් ගත වුණා.",
-        "exampleReading": "කාදා සාම් සෙ ප්‍රෙසෙලියො ත්‍රෙබාලො මි යෙ ව්‍රෙමෙනා ද සෙ නාවික්නෙම් නා නොවි ග්‍රාද්."
+        "example": "Ova fotografija je lepa uspomena na moje prvo putovanje u Srbiju.",
+        "translation": "මේ ඡායාරූපය සර්බියාවට ගිය මගේ පළමු සංචාරයේ සුන්දර මතකයක්.",
+        "exampleReading": "ඔවඅ ෆඔත්ඔගරඅෆඉයඅ යඑ ලඑපඅ උස්පඔමඑනඅ නඅ මඔයඑ පරවඔ පඋත්ඔවඅඑ උ ස්රබඉයඋ."
       },
       {
         "word": "promena",
         "reading": "ප්‍රොමේනා",
         "meaning": "වෙනස",
-        "example": "Važno je da razmotrimo sve dostupne mogućnosti.",
-        "translation": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ දොස්තුප්නෙ මොගුච්නොස්ති."
+        "example": "Preseljenje u drugi grad donelo je veliku promenu u mom životu.",
+        "translation": "වෙනත් නගරයකට පදිංචිය මාරු කිරීම මගේ ජීවිතයට විශාල වෙනසක් ගෙනාවා.",
+        "exampleReading": "පරඑස්එඑඑ උ දරඋගඉ ගරඅද දඔනඑලඔ යඑ වඑලඉකඋ පරඔමඑනඋ උ මඔම ෂ්ඉවඔත්උ."
       },
       {
         "word": "preseliti se",
         "reading": "ප්‍රෙසෙලිතи සෙ",
         "meaning": "පදිංචිය මාරු කරනවා",
-        "example": "Možemo da napravimo plan i da ga prilagodimo situaciji.",
-        "translation": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි.",
-        "exampleReading": "මොෂෙමො ද නප්‍රාවිමො ප්ලාන් ඉ ද ගා ප්‍රිලාගොදිමො සිතුආත්සියි."
+        "example": "Planiramo da se preselimo bliže centru grada sledećeg proleća.",
+        "translation": "ලබන වසන්තයේදී නගර මධ්‍යයට ළඟින් පදිංචිය මාරු කිරීමට අපි සැලසුම් කරනවා.",
+        "exampleReading": "පලඅනඉරඅමඔ දඅ ස්එ පරඑස්එලඉමඔ බලඉෂ්එ ත්ස්එනත්රඋ ගරඅදඅ ස්ලඑදඑච්එග පරඔලඑච්අ."
       },
       {
         "word": "prilagoditi se",
         "reading": "ප්‍රිලාගොදිති සෙ",
         "meaning": "හැඩගැසෙනවා",
-        "example": "Na osnovu iskustva, ovaj pristup može biti koristan.",
-        "translation": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි.",
-        "exampleReading": "නා ඔස්නොවු ඉස්කුස්ත්වා ඔවායි ප්‍රිස්තුප් මොෂෙ බිති කොරිස්තාන්."
+        "example": "Trebalo mi je nekoliko meseci da se prilagodim novom radnom okruženju.",
+        "translation": "නව සේවා පරිසරයට හැඩගැසීමට මට මාස කිහිපයක් ගත වුණා.",
+        "exampleReading": "ත්රඑබඅලඔ මඉ යඑ නඑකඔලඉකඔ මඑස්එත්ස්ඉ දඅ ස්එ පරඉලඅගඔදඉම නඔවඔම රඅදනඔම ඔකරඋෂ්එඋ."
       },
       {
         "word": "poznat",
         "reading": "පොස්නාත්",
         "meaning": "හුරුපුරුදු",
-        "example": "Kada sam se preselio, trebalo mi je vremena da se naviknem na novi grad.",
-        "translation": "මම පදිංචිය මාරු කළ විට අලුත් නගරයට හුරු වෙන්න කාලයක් ගත වුණා.",
-        "exampleReading": "කාදා සාම් සෙ ප්‍රෙසෙලියො ත්‍රෙබාලො මි යෙ ව්‍රෙමෙනා ද සෙ නාවික්නෙම් නා නොවි ග්‍රාද්."
+        "example": "Ovaj kraj mi je postao poznat nakon nekoliko meseci života ovde.",
+        "translation": "මෙහි මාස කිහිපයක් ජීවත් වූ පසු මේ ප්‍රදේශය මට හුරුපුරුදු වුණා.",
+        "exampleReading": "ඔවඅය කරඅය මඉ යඑ පඔස්ත්අඔ පඔස්නඅත් නඅකඔන නඑකඔලඉකඔ මඑස්එත්ස්ඉ ෂ්ඉවඔත්අ ඔවදඑ."
       },
       {
         "word": "izazov",
         "reading": "ඉසාසොව්",
         "meaning": "අභියෝගය",
-        "example": "Važno je da razmotrimo sve dostupne mogućnosti.",
-        "translation": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ දොස්තුප්නෙ මොගුච්නොස්ති."
+        "example": "Učenje novog jezika može biti izazov, ali donosi mnogo koristi.",
+        "translation": "නව භාෂාවක් ඉගෙනීම අභියෝගයක් විය හැකි නමුත් බොහෝ ප්‍රයෝජන ගෙනෙනවා.",
+        "exampleReading": "උචඑඑ නඔවඔග යඑස්ඉකඅ මඔෂ්එ බඉත්ඉ ඉස්අස්ඔව, අලඉ දඔනඔස්ඉ මනඔගඔ කඔරඉස්ත්ඉ."
       },
       {
         "word": "prilika",
         "reading": "ප්‍රිලිකා",
         "meaning": "අවස්ථාව",
-        "example": "Možemo da napravimo plan i da ga prilagodimo situaciji.",
-        "translation": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි.",
-        "exampleReading": "මොෂෙමො ද නප්‍රාවිමො ප්ලාන් ඉ ද ගා ප්‍රිලාගොදිමො සිතුආත්සියි."
+        "example": "Rad u inostranstvu pružio mi je priliku da upoznam novu kulturu.",
+        "translation": "විදේශයක රැකියාව කිරීමෙන් නව සංස්කෘතියක් හඳුනාගැනීමට මට අවස්ථාව ලැබුණා.",
+        "exampleReading": "රඅද උ ඉනඔස්ත්රඅනස්ත්වඋ පරඋෂ්ඉඔ මඉ යඑ පරඉලඉකඋ දඅ උපඔස්නඅම නඔවඋ කඋලත්උරඋ."
       },
       {
         "word": "samopouzdanje",
         "reading": "සාමොපොඋස්දාන්යේ",
         "meaning": "ආත්මවිශ්වාසය",
-        "example": "Na osnovu iskustva, ovaj pristup može biti koristan.",
-        "translation": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි.",
-        "exampleReading": "නා ඔස්නොවු ඉස්කුස්ත්වා ඔවායි ප්‍රිස්තුප් මොෂෙ බිති කොරිස්තාන්."
+        "example": "Svaki uspešan razgovor povećava moje samopouzdanje.",
+        "translation": "සාර්ථක සෑම සංවාදයක්ම මගේ ආත්මවිශ්වාසය වැඩි කරනවා.",
+        "exampleReading": "ස්වඅකඉ උස්පඑෂඅන රඅස්ගඔවඔර පඔවඑච්අවඅ මඔයඑ ස්අමඔපඔඋස්දඅඑ."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -8901,4 +8901,4 @@ const serbianB1Lessons = [
   }
 ];
 
-export default serbianB1Lessons;
+export default SERBIAN_B1_LESSONS;
