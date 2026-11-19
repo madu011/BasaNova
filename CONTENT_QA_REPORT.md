@@ -63,3 +63,9 @@ GitHub Actions Android debug APK build run [44552002628](https://github.com/madu
 - `node --check` passed for the QA script. The full QA script has not yet run against repository files, so its end-to-end result is pending.
 - GitHub Actions is currently blocked before job steps by the account billing/spending-limit message shown in the user's screenshot. Billing overview showed $21.08 gross usage offset by $21.08 included usage and $0 billed; quota reset was shown as 12 days away. No amount is confirmed due.
 - No Expo bundle, APK, artifact, install or device test is verified for this follow-up.
+
+
+## 2026-11-19 follow-up — A1 lesson QA coverage
+- Expanded `scripts/content-qa.mjs` to inspect both Serbian and English A1 lesson modules, including required lesson/vocabulary fields, practice/listening choices, answer-index bounds, duplicate options and paired lesson counts.
+- Corrected the QA script's Unicode ranges for Sinhala pronunciation and mixed Latin/Cyrillic detection.
+- The expanded checks are wired into the existing `npm run qa:content` command, but have not yet been executed end-to-end. No pass is claimed until CI or a local checkout runs them.
