@@ -31,6 +31,8 @@ import { SERBIAN_C2_LESSONS } from "./serbianC2Lessons";
 import { ENGLISH_C2_LESSONS } from "./englishC2Lessons";
 import { SERBIAN_C2_LESSONS_11_20 } from "./serbianC2Lessons11_20";
 import { ENGLISH_C2_LESSONS_11_20 } from "./englishC2Lessons11_20";
+import { SERBIAN_C2_LESSONS_21_30 } from "./serbianC2Lessons21_30";
+import { ENGLISH_C2_LESSONS_21_30 } from "./englishC2Lessons21_30";
 import { SERBIAN_B2_FINAL_EXAM, ENGLISH_B2_FINAL_EXAM, SERBIAN_B2_MIXED_REVISION, ENGLISH_B2_MIXED_REVISION } from "./b2FinalExams";
 import { SERBIAN_B1_FINAL_EXAM, ENGLISH_B1_FINAL_EXAM, SERBIAN_B1_MIXED_REVISION, ENGLISH_B1_MIXED_REVISION } from "./b1FinalExams";
 import { SERBIAN_EXTRA_VOCAB, ENGLISH_EXTRA_VOCAB } from "./vocabularyPacks";
@@ -931,7 +933,7 @@ export default function App(){
     <Text style={s.eyebrow}>C2 · EXPERT LANGUAGE SKILLS</Text>
     <Text style={s.cardTitle}>🏅 C2 · ප්‍රවීණ භාෂා හැකියාව</Text>
     <Text style={s.sub}>සූක්ෂ්ම අර්ථ, සංස්කෘතික ඉඟි, උසස් වාග්මාලා සහ විශේෂඥ මට්ටමේ අදහස් ඒකාබද්ධ කිරීම.</Text>
-    {[...(language==="Serbian"?SERBIAN_C2_LESSONS:ENGLISH_C2_LESSONS),...(language==="Serbian"?SERBIAN_C2_LESSONS_11_20:ENGLISH_C2_LESSONS_11_20)].map((lesson,li)=>{const expanded=expandedLessonId===lesson.id;const checkedCount=lesson.practice.filter((q,qi)=>lessonChecked[lesson.id+"-"+qi]).length+(lesson.listeningPractice&&lessonChecked[lesson.id+"-listen"]?1:0);return <View key={lesson.id} style={s.lessonCard}>
+    {[...(language==="Serbian"?SERBIAN_C2_LESSONS:ENGLISH_C2_LESSONS),...(language==="Serbian"?SERBIAN_C2_LESSONS_11_20:ENGLISH_C2_LESSONS_11_20),...(language==="Serbian"?SERBIAN_C2_LESSONS_21_30:ENGLISH_C2_LESSONS_21_30)].map((lesson,li)=>{const expanded=expandedLessonId===lesson.id;const checkedCount=lesson.practice.filter((q,qi)=>lessonChecked[lesson.id+"-"+qi]).length+(lesson.listeningPractice&&lessonChecked[lesson.id+"-listen"]?1:0);return <View key={lesson.id} style={s.lessonCard}>
      <TouchableOpacity activeOpacity={0.8} onPress={()=>setExpandedLessonId(expanded?null:lesson.id)} style={{paddingVertical:4}}>
       <Text style={s.eyebrow}>C2 · LESSON {li+1} · {checkedCount}/{lesson.practice.length+1} පරීක්ෂා කරලා</Text>
       <View style={{flexDirection:"row",alignItems:"center",justifyContent:"space-between"}}><View style={{flex:1,paddingRight:10}}><Text style={s.cardTitle}>{lesson.title}</Text><Text style={s.sub}>අරමුණ: {lesson.objective}</Text></View><Text style={s.cardTitle}>{expanded?"⌃":"⌄"}</Text></View>
