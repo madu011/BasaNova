@@ -3037,7 +3037,7 @@ const serbianB1Lessons = [
         "meaning": "ප්‍රතිචක්‍රීකරණය",
         "example": "Reciklaža papira smanjuje količinu otpada.",
         "translation": "කඩදාසි ප්‍රතිචක්‍රීකරණය කිරීමෙන් අපද්‍රව්‍ය ප්‍රමාණය අඩු වෙනවා.",
-        "exampleReading": "රෙත්සිකලාෂා පපිරා ස්මාඤුයේ කොලිචину ඔත්පාදා."
+        "exampleReading": "රෙත්සිකලාෂා පපිරා ස්මාඤුයේ කොලිචිනු ඔත්පාදා."
       },
       {
         "word": "waste",
@@ -3077,7 +3077,7 @@ const serbianB1Lessons = [
         "meaning": "නැවත භාවිත කළ හැකි",
         "example": "Koristim bocu za višekratnu upotrebu umesto plastičnih flaša.",
         "translation": "ප්ලාස්ටික් බෝතල් වෙනුවට මම නැවත භාවිත කළ හැකි බෝතලයක් භාවිත කරනවා.",
-        "exampleReading": "කොරිස්තිම් බොත්සු සා විෂෙකратну උපොත්‍රෙබු උමෙස්තො ප්ලාස්තිච්නිහ් ෆ්ලාෂා."
+        "exampleReading": "කොරිස්තිම් බොත්සු සා විෂෙක්‍රාත්නු උපොත්‍රෙබු උමෙස්තො ප්ලාස්තිච්නිහ් ෆ්ලාෂා."
       },
       {
         "word": "public transport",
