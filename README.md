@@ -1,5 +1,14 @@
 # BasaNova
 
+## Current project snapshot — 2026-11-19
+
+- **Learning content authoring:** 50 Serbian + 50 English lessons in each of A1, A2, B1, B2, C1 and C2 (600 authored lesson records total). This is content completion, not CEFR certification.
+- **Assessments:** paired revision/final practice assessments are integrated for A1, B1, B2, C1 and C2; confirm the A2 assessment coverage during the next content audit.
+- **Android packaging:** the APK workflow now builds a standalone release variant rather than a Metro-dependent debug APK. The latest safe-area/layout changes still need a fresh successful build and physical-device verification.
+- **Layout:** Android safe-area insets, visible status bar, responsive content width and compact bottom navigation have been updated; verify on real devices before marking complete.
+- **Remaining quality work:** full A1–C2 content and answer-alignment QA, fluent Serbian/English review, Sinhala pronunciation review, responsive UI testing, persistence checks, and final release/device validation.
+
+
 **Learn Languages. Speak with Confidence.**
 
 BasaNova is a Sinhala-first language-learning app for learning Serbian and English, designed for learners from beginner to advanced levels.
@@ -9,7 +18,7 @@ BasaNova is a Sinhala-first language-learning app for learning Serbian and Engli
 - Serbian and English learning modes
 - Expanded Serbian and English beginner vocabulary decks with Sinhala meanings, approximate readings and example sentences, gathered from themed packs and structured lessons
 - The vocabulary packs cover numbers, weekdays, meals/food, everyday objects, shopping, directions, workplace, transport, home, weather, basic health, clothing, colours, daily verbs, useful adjectives, money, public places, technology, time expressions, family, feelings, cooking, road safety, tools, nature, healthcare, household cleaning, appliances, city services, specialist professions, job applications, documents, appointments, agreements, professional skills, banking, payments and personal finance in both languages
-- Structured A1 curricula developed in parallel: 50 Serbian A1 lessons and 50 English A1 lessons, plus 40 Serbian A2 lessons and 40 English A2 lessons, with paired modules for family and people, home and rooms, booking appointments, phone calls, weather and clothes, choosing food and asking about ingredients, daily routines, work shifts and schedules, asking for a day off, making plans and arranging meetings, being late and apologising, café ordering, restaurant ordering/customer service, everyday requests/help, numbers/date/time, daily routines, and work shifts/schedules. Lessons include Sinhala meanings, Sinhala-script pronunciation support, grammar, examples, dialogues, quizzes and listening checks; Serbian vocabulary/example/dialogue cards use manually authored readings where provided and a documented approximate fallback elsewhere
+- Structured Serbian and English curricula authored in parallel across all six CEFR levels: 50 lessons each for A1, A2, B1, B2, C1 and C2 (300 per language; 600 lesson records total), with paired modules for family and people, home and rooms, booking appointments, phone calls, weather and clothes, choosing food and asking about ingredients, daily routines, work shifts and schedules, asking for a day off, making plans and arranging meetings, being late and apologising, café ordering, restaurant ordering/customer service, everyday requests/help, numbers/date/time, daily routines, and work shifts/schedules. Lessons include Sinhala meanings, Sinhala-script pronunciation support, grammar, examples, dialogues, quizzes and listening checks; Serbian vocabulary/example/dialogue cards use manually authored readings where provided and a documented approximate fallback elsewhere
 - 1,152 standard vocabulary entries across Serbian and English (577 Serbian + 575 English), including paired job/document, banking/personal-finance and restaurant/food-ordering vocabulary
 - Separate Serbian and English slang / mild profanity learning cards with Sinhala meanings, approximate pronunciation, contextual examples, caution notes, and audio playback; kept outside the standard vocabulary deck
 - Expanded Serbian A1 practical phrases for asking the time, requesting slower speech or repetition, asking for help/directions, and basic work communication
@@ -54,7 +63,7 @@ Created by **Madhuranga Yasanath**.
 
 
 ## Automated validation
-GitHub Actions runs dependency installation, Expo SDK compatibility checks, and an Android JavaScript bundle export on pushes and pull requests to `main`. A separate **Android APK build** workflow generates the native Android project, assembles a signed debug APK, and uploads it as a downloadable artifact. CI generates a temporary lockfile because the repository does not yet commit `package-lock.json`. See [`BUILD.md`](./BUILD.md) for APK download and installation steps. A successful APK workflow run and artifact are required before treating the APK build as verified.
+GitHub Actions runs dependency installation, Expo SDK compatibility checks, and an Android JavaScript bundle export on pushes and pull requests to `main`. The **Android APK build** workflow generates the native Android project, assembles a standalone release-variant APK with the JavaScript bundle packaged inside, verifies the APK file, and uploads `basanova-android-release-apk`. CI generates a temporary lockfile because the repository does not yet commit `package-lock.json`. See [`BUILD.md`](./BUILD.md) for APK download and installation steps. A successful workflow, available artifact, and physical-device startup test are all required before treating the APK as verified.
 
 
 ### English A1 lesson 3 — Numbers and time
