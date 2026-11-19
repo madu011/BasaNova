@@ -707,7 +707,7 @@ export default function App(){
     <Text style={s.cardTitle}>📘 English A1 සැබෑ පාඩම්</Text>
     <Text style={s.sub}>සෑම ඉංග්‍රීසි වචනයකටම සහ වාක්‍යයකටම සිංහල අකුරෙන් උච්චාරණය, සිංහල තේරුම සහ වෙනම හඬ පාලකය ඇතුළත්.</Text>
     {ENGLISH_A1_LESSONS.map((lesson,li)=>{
-     const listening=(listening?.readings?.length===listening?.options?.length)?listening:buildVocabularyListening(lesson);
+     const listening=(lesson.listeningPractice?.readings?.length===lesson.listeningPractice?.options?.length)?lesson.listeningPractice:buildVocabularyListening(lesson);
      const isExpanded=expandedLessonId===lesson.id;
      const checkedCount=lesson.practice.filter((q,qi)=>lessonChecked[lesson.id+"-"+qi]).length+(listening&&lessonChecked[lesson.id+"-listen"]?1:0);
      return <View key={lesson.id} style={s.lessonCard}>
