@@ -1199,3 +1199,13 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 
 ### Next exact task
 - Continue paired A1 audit for lessons 31–40; preserve lesson IDs and progress keys. Do not run builds until the usage reset and billing restriction are resolved.
+
+
+## 2026-11-19 — A1 lessons 31–40 paired audit
+- Compared Serbian and English A1 lessons 31–40. The topics align in order: daily routines, work shifts, asking for a day off, phone calls, weather/clothes, café food choices, family, home/rooms, booking an appointment, and supermarket checkout.
+- All 10 lessons in each language have 8 vocabulary entries (English lesson 37 has 9), 5 practice questions, and a listening task. Existing lesson IDs were preserved; no progress-key changes were made.
+- Found 33 repeated-comma separators in `serbianLessons.js` between lesson objects. These created empty array slots; normalized them to single separators in commit `80516b2f290d952382497db367ec5c5fc10e3ebb`. A follow-up source scan found zero repeated-comma runs.
+- Static source inspection only. The full Node content-QA script, JS parser/runtime, Expo app, TTS playback and Android UI have not been run. Sinhala-script pronunciation is approximate and still needs fluent-speaker review.
+
+### Next exact task
+- Continue the paired A1 audit for lessons 41–50; preserve lesson IDs and progress keys. Do not run builds until the usage reset and billing restriction are resolved.
