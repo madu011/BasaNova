@@ -719,8 +719,8 @@ export default function App(){
       {isExpanded&&<View>
        <Text style={s.lessonHeading}>📚 නව වචන සහ වාක්‍ය</Text>
        {lesson.vocabulary.map(item=><View key={item.word} style={s.lessonWord}>
-        <Text style={s.lessonSerbian}>{item.word}</Text><Text style={s.sound}>සිංහල අකුරෙන්: {item.reading}</Text><Text style={s.sub}>{item.meaning}</Text>
-        <Text style={s.lessonExample}>{item.example}</Text><Text style={s.sound}>උදාහරණයේ උච්චාරණය: {item.exampleReading}</Text><Text style={s.sub}>{item.translation}</Text>
+        <Text style={s.lessonSerbian}>{item.word}</Text><Text style={s.sound}>සිංහල අකුරෙන්: {item.reading||pronounceEnglishSinhala(item.word)}</Text><Text style={s.sub}>{item.meaning}</Text>
+        <Text style={s.lessonExample}>{item.example}</Text><Text style={s.sound}>උදාහරණයේ උච්චාරණය: {item.exampleReading||pronounceEnglishSinhala(item.example)}</Text><Text style={s.sub}>{item.translation}</Text>
         <View style={{flexDirection:"row",gap:12,flexWrap:"wrap"}}><TouchableOpacity accessibilityRole="button" onPress={()=>speak(item.word,"English")}><Text style={s.link}>🔊 වචනය අහන්න</Text></TouchableOpacity><TouchableOpacity accessibilityRole="button" onPress={()=>speak(item.example,"English")}><Text style={s.link}>🔊 උදාහරණය අහන්න</Text></TouchableOpacity></View>
        </View>)}
        <Text style={s.lessonHeading}>🧠 {lesson.grammarTitle}</Text><Text style={s.sub}>{lesson.grammar}</Text>
