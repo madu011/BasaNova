@@ -41,3 +41,10 @@ GitHub Actions Android debug APK build run [44552002628](https://github.com/madu
 - Reviewed all local named imports in App.js against the corresponding modules' declared named exports; no other missing export was found among the inspected imports.
 - This pass is source-level QA only. CI still fails before runner assignment, so no new Expo validation or APK build is confirmed. The earlier successful APK noted above belongs to an older commit and must not be treated as a build of current main.
 - Pronunciation readings are approximate and require human/native-speaker review. Physical-device testing remains outstanding.
+
+
+## 2026-11-19 follow-up — Cross-level answer-choice QA
+- Removed repeated answer choices from A1 practice (14 Serbian, 13 English occurrences), A2 practice (one per language), B2 listening practice (five per language), C1 listening practice (four per language), and B1 final exam distractors (one question in each language).
+- Re-scanned lesson modules A1–C2 and A1–C1 exam modules: 3,194 detected option arrays had no repeated option strings and no answer index outside the options array. C2 final exam has a different structure and needs a dedicated schema-aware audit.
+- Fixed B1 named export mismatch with App.js; all imported module names inspected against the App.js named imports now match.
+- These checks are static source validation only, not live app UI, audio, device, or build tests. Current-main CI reruns still fail before runner assignment (`runner_id: 0`, no steps); no current-main APK is available or verified.
