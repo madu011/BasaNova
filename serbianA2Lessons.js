@@ -664,7 +664,7 @@ export const SERBIAN_A2_LESSONS = [
         "prompt": "“වැටුප” යන්න තෝරන්න.",
         "options": [
           "plata",
-          "plata",
+          "radno vreme",
           "zamena"
         ],
         "answer": 0,
