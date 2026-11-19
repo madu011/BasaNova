@@ -747,3 +747,15 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 - Added `react-native-safe-area-context ~5.6.0` to `package.json`. Dependency commit: `4807b20ccdafc8e67553570b79f9854684ca893f`.
 - Not yet verified: GitHub Actions dependency install/Expo export/release APK after these changes, and physical-device layout across screen sizes, Android navigation modes, and keyboard-open states. Do not claim these are fixed until a new APK is installed and checked.
 - Next: inspect CI for the latest package commit; fix any dependency/build failures; then perform a systematic UI audit of every tab and lesson surface for clipping, overflow, spacing, typography, touch targets, keyboard behavior, and system-bar insets. Continue remaining content QA and release tasks after layout baseline is stable.
+
+
+## 2026-11-19 — Responsive layout, Android release packaging and project docs
+- Continued the user's request to fix all-screen alignment and complete the remaining BasaNova quality/release work.
+- Safe-area UI implementation: `App.js` now uses `SafeAreaProvider` and `SafeAreaView` from `react-native-safe-area-context`, applies all four system insets, keeps the status bar visible, and uses centered responsive widths for header/content/course bar/navigation. Bottom navigation labels were tightened for narrow screens. Commit: `df6fd16e950605832fa32a00d7271ae969c88945`.
+- Added explicit `react-native-safe-area-context ~5.6.0` dependency. Commit: `4807b20ccdafc8e67553570b79f9854684ca893f`.
+- Android APK workflow now runs `assembleRelease`, checks that `app-release.apk` exists and is non-empty, and uploads `basanova-android-release-apk` rather than the Metro-dependent debug APK. Workflow commit: `7ce9cad0717bf480d6267092585c2060134c3d71`; workflow handoff note: `e8475d590d007d65765a8b3bf5832fb25111d7e7`.
+- Added local `build:android:release` script. Commit: `de9b6b1c9c18a977c605b11bf7b0f767ae554ba2`.
+- Rewrote `BUILD.md` for the standalone release APK and clarified that debug builds may require Metro. Commit: `24271f08fadb6ccb47fba65190659bac70da36e5`.
+- Refreshed README's current curriculum totals and release-build status. Commit: `eabaabffed7686a83d64282428299dfec1b065d2`.
+- A fresh CI status lookup for the package dependency commit returned no status entries at check time. No new release artifact or physical-device result is confirmed yet.
+- Next exact work: (1) confirm the newest GitHub Actions release workflow passes dependency install, Expo compatibility, JS bundle export, native generation, Gradle release assembly and artifact upload; (2) install and open that artifact on Android; (3) inspect every app tab on narrow/wide screens and test status/navigation bars, scrolling, keyboard overlap, text wrapping and touch targets; (4) audit A1–C2 lessons, assessments, answer indices, Sinhala meanings/readings and Serbian/English naturalness; (5) test local persistence and remaining feature paths. Keep the user updated only with verified progress; source commits are not device QA.
