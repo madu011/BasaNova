@@ -89,24 +89,20 @@ export const ENGLISH_C1_LESSONS_31_40 = [
     ],
     "dialogue": [
       {
-        "text": "How would you summarise the main challenge?",
-        "reading": "හ්ඔව් ව්ඔඅල්ඩ් යිඔඅ ස්අම්ම්ඇර්ඉස්එ ත්එ ම්ඇඉන් ච්ඇල්ල්එංඑ?",
-        "meaning": "ප්‍රධාන අභියෝගය ඔබ කෙසේ සාරාංශ කරන්නේද?"
+        "text": "How can we express disagreement tactfully?",
+        "meaning": "එකඟ නොවීම රාජ්‍යතාන්ත්‍රිකව ප්‍රකාශ කරන්නේ කෙසේද?"
       },
       {
-        "text": "We should first consider the available evidence.",
-        "reading": "ව්එ ෂ්ඔඅල්ඩ් ෆ්ඉර්ස්ට් ක්ඔන්ස්ඉඩ්එර් ත්එ ඇව්ඇඉල්ඇබ්ල්එ එව්ඉඩ්එන්ක්එ.",
-        "meaning": "පළමුව ලබාගත හැකි සාක්ෂි සලකා බැලිය යුතුය."
+        "text": "Start with the shared objective.",
+        "meaning": "පොදු අරමුණෙන් ආරම්භ කරමු."
       },
       {
-        "text": "And what are the possible consequences?",
-        "reading": "ඇන්ඩ් ව්හ්ඇට් ඇර්එ ත්එ ප්ඔස්ස්ඉබ්ල්එ ක්ඔන්ස්එඅඑන්ක්එස්?",
-        "meaning": "එහි ඇති විය හැකි ප්‍රතිවිපාක මොනවාද?"
+        "text": "Then should we state our reservations?",
+        "meaning": "ඉන්පසු අපගේ සැකයන් ඉදිරිපත් කළ යුතුද?"
       },
       {
-        "text": "I will propose a measurable plan and a review date.",
-        "reading": "ඉ ව්ඉල්ල් ප්ර්ඔප්ඔස්එ ඇ ම්එඇස්අර්ඇබ්ල්එ ප්ල්ඇන් ඇන්ඩ් ඇ ර්එව්ඉඑව් ඩ්ඇට්එ.",
-        "meaning": "මම මැනිය හැකි සැලැස්මක් සහ පරීක්ෂා කරන දිනයක් යෝජනා කරන්නම්."
+        "text": "Yes, clearly and respectfully.",
+        "meaning": "ඔව්, පැහැදිලිව සහ ගෞරවයෙන්."
       }
     ],
     "listeningPractice": {
@@ -252,24 +248,20 @@ export const ENGLISH_C1_LESSONS_31_40 = [
     ],
     "dialogue": [
       {
-        "text": "How would you summarise the main challenge?",
-        "reading": "හ්ඔව් ව්ඔඅල්ඩ් යිඔඅ ස්අම්ම්ඇර්ඉස්එ ත්එ ම්ඇඉන් ච්ඇල්ල්එංඑ?",
-        "meaning": "ප්‍රධාන අභියෝගය ඔබ කෙසේ සාරාංශ කරන්නේද?"
+        "text": "How will we evaluate this measure?",
+        "meaning": "මෙම පියවර තක්සේරු කරන්නේ කෙසේද?"
       },
       {
-        "text": "We should first consider the available evidence.",
-        "reading": "ව්එ ෂ්ඔඅල්ඩ් ෆ්ඉර්ස්ට් ක්ඔන්ස්ඉඩ්එර් ත්එ ඇව්ඇඉල්ඇබ්ල්එ එව්ඉඩ්එන්ක්එ.",
-        "meaning": "පළමුව ලබාගත හැකි සාක්ෂි සලකා බැලිය යුතුය."
+        "text": "We will compare baseline and final indicators.",
+        "meaning": "ආරම්භක සහ අවසාන දර්ශක සසඳමු."
       },
       {
-        "text": "And what are the possible consequences?",
-        "reading": "ඇන්ඩ් ව්හ්ඇට් ඇර්එ ත්එ ප්ඔස්ස්ඉබ්ල්එ ක්ඔන්ස්එඅඑන්ක්එස්?",
-        "meaning": "එහි ඇති විය හැකි ප්‍රතිවිපාක මොනවාද?"
+        "text": "Will that be enough?",
+        "meaning": "එය ප්‍රමාණවත් වේවිද?"
       },
       {
-        "text": "I will propose a measurable plan and a review date.",
-        "reading": "ඉ ව්ඉල්ල් ප්ර්ඔප්ඔස්එ ඇ ම්එඇස්අර්ඇබ්ල්එ ප්ල්ඇන් ඇන්ඩ් ඇ ර්එව්ඉඑව් ඩ්ඇට්එ.",
-        "meaning": "මම මැනිය හැකි සැලැස්මක් සහ පරීක්ෂා කරන දිනයක් යෝජනා කරන්නම්."
+        "text": "We will also include public feedback.",
+        "meaning": "මහජන ප්‍රතිචාරද ඇතුළත් කරමු."
       }
     ],
     "listeningPractice": {
@@ -415,24 +407,20 @@ export const ENGLISH_C1_LESSONS_31_40 = [
     ],
     "dialogue": [
       {
-        "text": "How would you summarise the main challenge?",
-        "reading": "හ්ඔව් ව්ඔඅල්ඩ් යිඔඅ ස්අම්ම්ඇර්ඉස්එ ත්එ ම්ඇඉන් ච්ඇල්ල්එංඑ?",
-        "meaning": "ප්‍රධාන අභියෝගය ඔබ කෙසේ සාරාංශ කරන්නේද?"
+        "text": "Why does cash flow differ from profit?",
+        "meaning": "මුදල් ප්‍රවාහය ලාභයෙන් වෙනස් වන්නේ ඇයි?"
       },
       {
-        "text": "We should first consider the available evidence.",
-        "reading": "ව්එ ෂ්ඔඅල්ඩ් ෆ්ඉර්ස්ට් ක්ඔන්ස්ඉඩ්එර් ත්එ ඇව්ඇඉල්ඇබ්ල්එ එව්ඉඩ්එන්ක්එ.",
-        "meaning": "පළමුව ලබාගත හැකි සාක්ෂි සලකා බැලිය යුතුය."
+        "text": "Receipts and payments occur at different times.",
+        "meaning": "ලැබීම් සහ ගෙවීම් සිදුවන්නේ වෙනස් වේලාවලයි."
       },
       {
-        "text": "And what are the possible consequences?",
-        "reading": "ඇන්ඩ් ව්හ්ඇට් ඇර්එ ත්එ ප්ඔස්ස්ඉබ්ල්එ ක්ඔන්ස්එඅඑන්ක්එස්?",
-        "meaning": "එහි ඇති විය හැකි ප්‍රතිවිපාක මොනවාද?"
+        "text": "Does revenue show the whole picture?",
+        "meaning": "ආදායමෙන් සම්පූර්ණ තත්ත්වය පෙන්වනවාද?"
       },
       {
-        "text": "I will propose a measurable plan and a review date.",
-        "reading": "ඉ ව්ඉල්ල් ප්ර්ඔප්ඔස්එ ඇ ම්එඇස්අර්ඇබ්ල්එ ප්ල්ඇන් ඇන්ඩ් ඇ ර්එව්ඉඑව් ඩ්ඇට්එ.",
-        "meaning": "මම මැනිය හැකි සැලැස්මක් සහ පරීක්ෂා කරන දිනයක් යෝජනා කරන්නම්."
+        "text": "No, we must include expenses and liabilities.",
+        "meaning": "නැහැ, වියදම් සහ වගකීම්ද ඇතුළත් කළ යුතුයි."
       }
     ],
     "listeningPractice": {
@@ -578,24 +566,20 @@ export const ENGLISH_C1_LESSONS_31_40 = [
     ],
     "dialogue": [
       {
-        "text": "How would you summarise the main challenge?",
-        "reading": "හ්ඔව් ව්ඔඅල්ඩ් යිඔඅ ස්අම්ම්ඇර්ඉස්එ ත්එ ම්ඇඉන් ච්ඇල්ල්එංඑ?",
-        "meaning": "ප්‍රධාන අභියෝගය ඔබ කෙසේ සාරාංශ කරන්නේද?"
+        "text": "Does the finding confirm the hypothesis?",
+        "meaning": "සොයාගැනීම උපකල්පනය තහවුරු කරනවාද?"
       },
       {
-        "text": "We should first consider the available evidence.",
-        "reading": "ව්එ ෂ්ඔඅල්ඩ් ෆ්ඉර්ස්ට් ක්ඔන්ස්ඉඩ්එර් ත්එ ඇව්ඇඉල්ඇබ්ල්එ එව්ඉඩ්එන්ක්එ.",
-        "meaning": "පළමුව ලබාගත හැකි සාක්ෂි සලකා බැලිය යුතුය."
+        "text": "It supports it, but limitations remain.",
+        "meaning": "එයට සහාය දෙන නමුත් සීමාවන් තිබෙනවා."
       },
       {
-        "text": "And what are the possible consequences?",
-        "reading": "ඇන්ඩ් ව්හ්ඇට් ඇර්එ ත්එ ප්ඔස්ස්ඉබ්ල්එ ක්ඔන්ස්එඅඑන්ක්එස්?",
-        "meaning": "එහි ඇති විය හැකි ප්‍රතිවිපාක මොනවාද?"
+        "text": "Who reviewed the methodology?",
+        "meaning": "ක්‍රමවේදය සමාලෝචනය කළේ කවුද?"
       },
       {
-        "text": "I will propose a measurable plan and a review date.",
-        "reading": "ඉ ව්ඉල්ල් ප්ර්ඔප්ඔස්එ ඇ ම්එඇස්අර්ඇබ්ල්එ ප්ල්ඇන් ඇන්ඩ් ඇ ර්එව්ඉඑව් ඩ්ඇට්එ.",
-        "meaning": "මම මැනිය හැකි සැලැස්මක් සහ පරීක්ෂා කරන දිනයක් යෝජනා කරන්නම්."
+        "text": "Independent reviewers suggested controls.",
+        "meaning": "ස්වාධීන සමාලෝචකයන් පාලන ක්‍රම යෝජනා කළා."
       }
     ],
     "listeningPractice": {
@@ -741,24 +725,20 @@ export const ENGLISH_C1_LESSONS_31_40 = [
     ],
     "dialogue": [
       {
-        "text": "How would you summarise the main challenge?",
-        "reading": "හ්ඔව් ව්ඔඅල්ඩ් යිඔඅ ස්අම්ම්ඇර්ඉස්එ ත්එ ම්ඇඉන් ච්ඇල්ල්එංඑ?",
-        "meaning": "ප්‍රධාන අභියෝගය ඔබ කෙසේ සාරාංශ කරන්නේද?"
+        "text": "Why does the team rarely suggest changes?",
+        "meaning": "කණ්ඩායම වෙනස්කම් යෝජනා කරන්නේ කලාතුරකින් ඇයි?"
       },
       {
-        "text": "We should first consider the available evidence.",
-        "reading": "ව්එ ෂ්ඔඅල්ඩ් ෆ්ඉර්ස්ට් ක්ඔන්ස්ඉඩ්එර් ත්එ ඇව්ඇඉල්ඇබ්ල්එ එව්ඉඩ්එන්ක්එ.",
-        "meaning": "පළමුව ලබාගත හැකි සාක්ෂි සලකා බැලිය යුතුය."
+        "text": "People are unsure they will be heard.",
+        "meaning": "තම අදහස් අසනු ඇතැයි ඔවුන්ට විශ්වාස නැහැ."
       },
       {
-        "text": "And what are the possible consequences?",
-        "reading": "ඇන්ඩ් ව්හ්ඇට් ඇර්එ ත්එ ප්ඔස්ස්ඉබ්ල්එ ක්ඔන්ස්එඅඑන්ක්එස්?",
-        "meaning": "එහි ඇති විය හැකි ප්‍රතිවිපාක මොනවාද?"
+        "text": "What would strengthen trust?",
+        "meaning": "විශ්වාසය වැඩි කරන්නේ කුමක්ද?"
       },
       {
-        "text": "I will propose a measurable plan and a review date.",
-        "reading": "ඉ ව්ඉල්ල් ප්ර්ඔප්ඔස්එ ඇ ම්එඇස්අර්ඇබ්ල්එ ප්ල්ඇන් ඇන්ඩ් ඇ ර්එව්ඉඑව් ඩ්ඇට්එ.",
-        "meaning": "මම මැනිය හැකි සැලැස්මක් සහ පරීක්ෂා කරන දිනයක් යෝජනා කරන්නම්."
+        "text": "Consistent feedback and clear authority.",
+        "meaning": "අඛණ්ඩ ප්‍රතිචාර සහ පැහැදිලි බලතල."
       }
     ],
     "listeningPractice": {
@@ -904,24 +884,20 @@ export const ENGLISH_C1_LESSONS_31_40 = [
     ],
     "dialogue": [
       {
-        "text": "How would you summarise the main challenge?",
-        "reading": "හ්ඔව් ව්ඔඅල්ඩ් යිඔඅ ස්අම්ම්ඇර්ඉස්එ ත්එ ම්ඇඉන් ච්ඇල්ල්එංඑ?",
-        "meaning": "ප්‍රධාන අභියෝගය ඔබ කෙසේ සාරාංශ කරන්නේද?"
+        "text": "Who is allowed to access these records?",
+        "meaning": "මෙම වාර්තා වෙත ප්‍රවේශ විය හැක්කේ කාටද?"
       },
       {
-        "text": "We should first consider the available evidence.",
-        "reading": "ව්එ ෂ්ඔඅල්ඩ් ෆ්ඉර්ස්ට් ක්ඔන්ස්ඉඩ්එර් ත්එ ඇව්ඇඉල්ඇබ්ල්එ එව්ඉඩ්එන්ක්එ.",
-        "meaning": "පළමුව ලබාගත හැකි සාක්ෂි සලකා බැලිය යුතුය."
+        "text": "Only people with an authorised role.",
+        "meaning": "අනුමත භූමිකාවක් ඇති පුද්ගලයන්ට පමණයි."
       },
       {
-        "text": "And what are the possible consequences?",
-        "reading": "ඇන්ඩ් ව්හ්ඇට් ඇර්එ ත්එ ප්ඔස්ස්ඉබ්ල්එ ක්ඔන්ස්එඅඑන්ක්එස්?",
-        "meaning": "එහි ඇති විය හැකි ප්‍රතිවිපාක මොනවාද?"
+        "text": "How long do we retain them?",
+        "meaning": "ඒවා කොපමණ කාලයක් තබාගන්නවාද?"
       },
       {
-        "text": "I will propose a measurable plan and a review date.",
-        "reading": "ඉ ව්ඉල්ල් ප්ර්ඔප්ඔස්එ ඇ ම්එඇස්අර්ඇබ්ල්එ ප්ල්ඇන් ඇන්ඩ් ඇ ර්එව්ඉඑව් ඩ්ඇට්එ.",
-        "meaning": "මම මැනිය හැකි සැලැස්මක් සහ පරීක්ෂා කරන දිනයක් යෝජනා කරන්නම්."
+        "text": "Only as long as the policy requires.",
+        "meaning": "නීති අනුව අවශ්‍ය කාලය පමණයි."
       }
     ],
     "listeningPractice": {
@@ -1067,24 +1043,20 @@ export const ENGLISH_C1_LESSONS_31_40 = [
     ],
     "dialogue": [
       {
-        "text": "How would you summarise the main challenge?",
-        "reading": "හ්ඔව් ව්ඔඅල්ඩ් යිඔඅ ස්අම්ම්ඇර්ඉස්එ ත්එ ම්ඇඉන් ච්ඇල්ල්එංඑ?",
-        "meaning": "ප්‍රධාන අභියෝගය ඔබ කෙසේ සාරාංශ කරන්නේද?"
+        "text": "Should we quote this definition?",
+        "meaning": "මෙම නිර්වචනය උපුටා දැක්විය යුතුද?"
       },
       {
-        "text": "We should first consider the available evidence.",
-        "reading": "ව්එ ෂ්ඔඅල්ඩ් ෆ්ඉර්ස්ට් ක්ඔන්ස්ඉඩ්එර් ත්එ ඇව්ඇඉල්ඇබ්ල්එ එව්ඉඩ්එන්ක්එ.",
-        "meaning": "පළමුව ලබාගත හැකි සාක්ෂි සලකා බැලිය යුතුය."
+        "text": "Yes, it comes from a specific source.",
+        "meaning": "ඔව්, එය නිශ්චිත මූලාශ්‍රයකින් ලබාගෙන තිබෙනවා."
       },
       {
-        "text": "And what are the possible consequences?",
-        "reading": "ඇන්ඩ් ව්හ්ඇට් ඇර්එ ත්එ ප්ඔස්ස්ඉබ්ල්එ ක්ඔන්ස්එඅඑන්ක්එස්?",
-        "meaning": "එහි ඇති විය හැකි ප්‍රතිවිපාක මොනවාද?"
+        "text": "What about the rest of the paragraph?",
+        "meaning": "ඡේදයේ ඉතිරි කොටස ගැන කුමක් කරමුද?"
       },
       {
-        "text": "I will propose a measurable plan and a review date.",
-        "reading": "ඉ ව්ඉල්ල් ප්ර්ඔප්ඔස්එ ඇ ම්එඇස්අර්ඇබ්ල්එ ප්ල්ඇන් ඇන්ඩ් ඇ ර්එව්ඉඑව් ඩ්ඇට්එ.",
-        "meaning": "මම මැනිය හැකි සැලැස්මක් සහ පරීක්ෂා කරන දිනයක් යෝජනා කරන්නම්."
+        "text": "Paraphrase it and cite the source.",
+        "meaning": "එය අපේ වචනවලින් ලියා මූලාශ්‍රය සඳහන් කරමු."
       }
     ],
     "listeningPractice": {
@@ -1230,24 +1202,20 @@ export const ENGLISH_C1_LESSONS_31_40 = [
     ],
     "dialogue": [
       {
-        "text": "How would you summarise the main challenge?",
-        "reading": "හ්ඔව් ව්ඔඅල්ඩ් යිඔඅ ස්අම්ම්ඇර්ඉස්එ ත්එ ම්ඇඉන් ච්ඇල්ල්එංඑ?",
-        "meaning": "ප්‍රධාන අභියෝගය ඔබ කෙසේ සාරාංශ කරන්නේද?"
+        "text": "Is this idiom suitable for the report?",
+        "meaning": "මෙම ව්‍යවහාරය වාර්තාවට සුදුසුද?"
       },
       {
-        "text": "We should first consider the available evidence.",
-        "reading": "ව්එ ෂ්ඔඅල්ඩ් ෆ්ඉර්ස්ට් ක්ඔන්ස්ඉඩ්එර් ත්එ ඇව්ඇඉල්ඇබ්ල්එ එව්ඉඩ්එන්ක්එ.",
-        "meaning": "පළමුව ලබාගත හැකි සාක්ෂි සලකා බැලිය යුතුය."
+        "text": "No, it is too informal.",
+        "meaning": "නැහැ, එය ඉතා අවිධිමත්."
       },
       {
-        "text": "And what are the possible consequences?",
-        "reading": "ඇන්ඩ් ව්හ්ඇට් ඇර්එ ත්එ ප්ඔස්ස්ඉබ්ල්එ ක්ඔන්ස්එඅඑන්ක්එස්?",
-        "meaning": "එහි ඇති විය හැකි ප්‍රතිවිපාක මොනවාද?"
+        "text": "How can we convey the same meaning?",
+        "meaning": "එම අර්ථය ලබාදෙන්නේ කෙසේද?"
       },
       {
-        "text": "I will propose a measurable plan and a review date.",
-        "reading": "ඉ ව්ඉල්ල් ප්ර්ඔප්ඔස්එ ඇ ම්එඇස්අර්ඇබ්ල්එ ප්ල්ඇන් ඇන්ඩ් ඇ ර්එව්ඉඑව් ඩ්ඇට්එ.",
-        "meaning": "මම මැනිය හැකි සැලැස්මක් සහ පරීක්ෂා කරන දිනයක් යෝජනා කරන්නම්."
+        "text": "With a neutral expression without a metaphor.",
+        "meaning": "රූපකයක් නැති මධ්‍යස්ථ ප්‍රකාශයකින්."
       }
     ],
     "listeningPractice": {
@@ -1393,24 +1361,20 @@ export const ENGLISH_C1_LESSONS_31_40 = [
     ],
     "dialogue": [
       {
-        "text": "How would you summarise the main challenge?",
-        "reading": "හ්ඔව් ව්ඔඅල්ඩ් යිඔඅ ස්අම්ම්ඇර්ඉස්එ ත්එ ම්ඇඉන් ච්ඇල්ල්එංඑ?",
-        "meaning": "ප්‍රධාන අභියෝගය ඔබ කෙසේ සාරාංශ කරන්නේද?"
+        "text": "What is the strongest counterargument?",
+        "meaning": "වඩාත් ශක්තිමත් ප්‍රතිතර්කය කුමක්ද?"
       },
       {
-        "text": "We should first consider the available evidence.",
-        "reading": "ව්එ ෂ්ඔඅල්ඩ් ෆ්ඉර්ස්ට් ක්ඔන්ස්ඉඩ්එර් ත්එ ඇව්ඇඉල්ඇබ්ල්එ එව්ඉඩ්එන්ක්එ.",
-        "meaning": "පළමුව ලබාගත හැකි සාක්ෂි සලකා බැලිය යුතුය."
+        "text": "Initial costs exceed the estimate.",
+        "meaning": "ආරම්භක වියදම් ඇස්තමේන්තුවට වඩා වැඩියි."
       },
       {
-        "text": "And what are the possible consequences?",
-        "reading": "ඇන්ඩ් ව්හ්ඇට් ඇර්එ ත්එ ප්ඔස්ස්ඉබ්ල්එ ක්ඔන්ස්එඅඑන්ක්එස්?",
-        "meaning": "එහි ඇති විය හැකි ප්‍රතිවිපාක මොනවාද?"
+        "text": "How should we answer that objection?",
+        "meaning": "එම විරෝධයට පිළිතුරු දෙන්නේ කෙසේද?"
       },
       {
-        "text": "I will propose a measurable plan and a review date.",
-        "reading": "ඉ ව්ඉල්ල් ප්ර්ඔප්ඔස්එ ඇ ම්එඇස්අර්ඇබ්ල්එ ප්ල්ඇන් ඇන්ඩ් ඇ ර්එව්ඉඑව් ඩ්ඇට්එ.",
-        "meaning": "මම මැනිය හැකි සැලැස්මක් සහ පරීක්ෂා කරන දිනයක් යෝජනා කරන්නම්."
+        "text": "Compare the cost with the long-term benefit.",
+        "meaning": "වියදම දිගුකාලීන ප්‍රතිලාභය සමඟ සසඳන්න."
       }
     ],
     "listeningPractice": {
@@ -1556,24 +1520,20 @@ export const ENGLISH_C1_LESSONS_31_40 = [
     ],
     "dialogue": [
       {
-        "text": "How would you summarise the main challenge?",
-        "reading": "හ්ඔව් ව්ඔඅල්ඩ් යිඔඅ ස්අම්ම්ඇර්ඉස්එ ත්එ ම්ඇඉන් ච්ඇල්ල්එංඑ?",
-        "meaning": "ප්‍රධාන අභියෝගය ඔබ කෙසේ සාරාංශ කරන්නේද?"
+        "text": "Who leads the final delivery?",
+        "meaning": "අවසාන භාරදීම මෙහෙයවන්නේ කවුද?"
       },
       {
-        "text": "We should first consider the available evidence.",
-        "reading": "ව්එ ෂ්ඔඅල්ඩ් ෆ්ඉර්ස්ට් ක්ඔන්ස්ඉඩ්එර් ත්එ ඇව්ඇඉල්ඇබ්ල්එ එව්ඉඩ්එන්ක්එ.",
-        "meaning": "පළමුව ලබාගත හැකි සාක්ෂි සලකා බැලිය යුතුය."
+        "text": "Each team leads its part of the project.",
+        "meaning": "සෑම කණ්ඩායමක්ම ව්‍යාපෘතියේ තම කොටස මෙහෙයවනවා."
       },
       {
-        "text": "And what are the possible consequences?",
-        "reading": "ඇන්ඩ් ව්හ්ඇට් ඇර්එ ත්එ ප්ඔස්ස්ඉබ්ල්එ ක්ඔන්ස්එඅඑන්ක්එස්?",
-        "meaning": "එහි ඇති විය හැකි ප්‍රතිවිපාක මොනවාද?"
+        "text": "How do we track progress?",
+        "meaning": "ප්‍රගතිය නිරීක්ෂණය කරන්නේ කෙසේද?"
       },
       {
-        "text": "I will propose a measurable plan and a review date.",
-        "reading": "ඉ ව්ඉල්ල් ප්ර්ඔප්ඔස්එ ඇ ම්එඇස්අර්ඇබ්ල්එ ප්ල්ඇන් ඇන්ඩ් ඇ ර්එව්ඉඑව් ඩ්ඇට්එ.",
-        "meaning": "මම මැනිය හැකි සැලැස්මක් සහ පරීක්ෂා කරන දිනයක් යෝජනා කරන්නම්."
+        "text": "We review deadlines and results every week.",
+        "meaning": "සෑම සතියකම කාලසීමා සහ ප්‍රතිඵල සමාලෝචනය කරනවා."
       }
     ],
     "listeningPractice": {
