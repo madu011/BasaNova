@@ -114,31 +114,31 @@ export const ENGLISH_C1_LESSONS_11_20 = [
       "audio": "The parties reached consensus after adjusting the deadline.",
       "reading": "දි පාර්ටීස් රීච්ඩ් කන්සෙන්සස් ආෆ්ටර් අජස්ටිං දි ඩෙඩ්ලයින්.",
       "options": [
-        "කාලසීමාව සංශෝධනය කිරීමෙන් පසු පාර්ශ්ව එකඟතාවකට පැමිණියහ.",
         "The parties agreed on a deadline.",
+        "කාලසීමාව සංශෝධනය කිරීමෙන් පසු පාර්ශ්ව එකඟතාවකට පැමිණියහ.",
         "Neither answer is correct."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "A mutually acceptable middle position?",
         "options": [
-          "compromise",
           "deadline",
+          "compromise",
           "objection"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "compromise — correct answer"
       },
       {
         "prompt": "A small amount given up to reach agreement?",
         "options": [
-          "concession",
           "priority",
-          "delay"
+          "delay",
+          "concession"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "concession — correct answer"
       },
       {
@@ -154,11 +154,11 @@ export const ENGLISH_C1_LESSONS_11_20 = [
       {
         "prompt": "A realistic proposal is?",
         "options": [
-          "feasible",
           "ambiguous",
+          "feasible",
           "unrelated"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "feasible — correct answer"
       }
     ]
@@ -277,31 +277,31 @@ export const ENGLISH_C1_LESSONS_11_20 = [
       "audio": "The probability is uncertain, so the team prepared an alternative plan.",
       "reading": "දි ප්‍රොබබිලිටි ඉස් අන්සර්ටන්, සෝ දි ටීම් ප්‍රිපෙයර්ඩ් ඇන් අල්ටර්නටිව් ප්ලෑන්.",
       "options": [
-        "හැකියාව අනිශ්චිත බැවින් කණ්ඩායම විකල්ප සැලැස්මක් සකස් කළේය.",
         "The team ignored the uncertainty.",
-        "Neither answer is correct."
+        "Neither answer is correct.",
+        "හැකියාව අනිශ්චිත බැවින් කණ්ඩායම විකල්ප සැලැස්මක් සකස් කළේය."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "How likely an event is?",
         "options": [
-          "likelihood",
           "severity",
+          "likelihood",
           "threshold"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "likelihood — correct answer"
       },
       {
         "prompt": "A backup arrangement?",
         "options": [
-          "contingency",
           "exposure",
-          "estimate"
+          "estimate",
+          "contingency"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "contingency — correct answer"
       },
       {
@@ -317,11 +317,11 @@ export const ENGLISH_C1_LESSONS_11_20 = [
       {
         "prompt": "Risk assessment should separate?",
         "options": [
-          "likelihood and impact",
           "facts and spelling",
+          "likelihood and impact",
           "titles and names"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "likelihood and impact — correct answer"
       }
     ]
@@ -450,21 +450,21 @@ export const ENGLISH_C1_LESSONS_11_20 = [
       {
         "prompt": "The middle value in ordered data?",
         "options": [
-          "median",
           "variance",
+          "median",
           "trend"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "median — correct answer"
       },
       {
         "prompt": "An unusually distant observation?",
         "options": [
-          "outlier",
           "average",
-          "distribution"
+          "distribution",
+          "outlier"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "outlier — correct answer"
       },
       {
@@ -480,11 +480,11 @@ export const ENGLISH_C1_LESSONS_11_20 = [
       {
         "prompt": "Statistical significance guarantees?",
         "options": [
-          "not necessarily practical importance",
           "causation",
+          "not necessarily practical importance",
           "a large sample"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "not necessarily practical importance — correct answer"
       }
     ]
@@ -603,31 +603,31 @@ export const ENGLISH_C1_LESSONS_11_20 = [
       "audio": "The panel documented its reasoning while protecting confidential information.",
       "reading": "දි පැනල් ඩොකියුමෙන්ටඩ් ඉට්ස් රීසනිං වයිල් ප්‍රොටෙක්ටිං කොන්ෆිඩෙන්ෂල් ඉන්ෆොමේෂන්.",
       "options": [
-        "රහස්‍ය තොරතුරු ආරක්ෂා කරමින් මණ්ඩලය තීරණයේ හේතු ලේඛනගත කළේය.",
         "The panel published all private records.",
+        "රහස්‍ය තොරතුරු ආරක්ෂා කරමින් මණ්ඩලය තීරණයේ හේතු ලේඛනගත කළේය.",
         "Neither answer is correct."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Being answerable for decisions?",
         "options": [
-          "accountability",
           "confidentiality",
+          "accountability",
           "consent"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "accountability — correct answer"
       },
       {
         "prompt": "Keeping information private?",
         "options": [
-          "confidentiality",
           "disclosure",
-          "dilemma"
+          "dilemma",
+          "confidentiality"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "confidentiality — correct answer"
       },
       {
@@ -643,11 +643,11 @@ export const ENGLISH_C1_LESSONS_11_20 = [
       {
         "prompt": "Ethical judgement should consider?",
         "options": [
-          "values and consequences",
           "only convenience",
+          "values and consequences",
           "rumours"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "values and consequences — correct answer"
       }
     ]
@@ -766,31 +766,31 @@ export const ENGLISH_C1_LESSONS_11_20 = [
       "audio": "The speaker used an indirect phrase as a courteous suggestion rather than a firm instruction.",
       "reading": "දි ස්පීකර් යූස්ඩ් ඇන් ඉන්ඩිරෙක්ට් ෆ්‍රේස් ඇස් අ කර්ටියස් සජෙෂන් රදර් දැන් අ ෆර්ම් ඉන්ස්ට්‍රක්ෂන්.",
       "options": [
-        "කථකයා සෘජු උපදෙසක් වෙනුවට වක්‍ර ප්‍රකාශයක් ආචාරශීලී යෝජනාවක් ලෙස භාවිත කළේය.",
         "The speaker issued a strict order.",
-        "Neither answer is correct."
+        "Neither answer is correct.",
+        "කථකයා සෘජු උපදෙසක් වෙනුවට වක්‍ර ප්‍රකාශයක් ආචාරශීලී යෝජනාවක් ලෙස භාවිත කළේය."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Meaning suggested but not directly stated?",
         "options": [
-          "implicit",
           "literal",
+          "implicit",
           "formal"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "implicit — correct answer"
       },
       {
         "prompt": "A polite social practice?",
         "options": [
-          "convention",
           "variance",
-          "deadline"
+          "deadline",
+          "convention"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "convention — correct answer"
       },
       {
@@ -806,11 +806,11 @@ export const ENGLISH_C1_LESSONS_11_20 = [
       {
         "prompt": "When uncertain about meaning, it is best to?",
         "options": [
-          "ask respectfully",
           "assume immediately",
+          "ask respectfully",
           "ignore context"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "ask respectfully — correct answer"
       }
     ]
@@ -939,21 +939,21 @@ export const ENGLISH_C1_LESSONS_11_20 = [
       {
         "prompt": "A condition that must be met?",
         "options": [
-          "provided that",
           "whereas",
+          "provided that",
           "nevertheless"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "provided that — correct answer"
       },
       {
         "prompt": "Shows contrast despite something?",
         "options": [
-          "nevertheless",
           "thereby",
-          "consequently"
+          "consequently",
+          "nevertheless"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "nevertheless — correct answer"
       },
       {
@@ -969,11 +969,11 @@ export const ENGLISH_C1_LESSONS_11_20 = [
       {
         "prompt": "Textual connection between parts?",
         "options": [
-          "cohesion",
           "variance",
+          "cohesion",
           "exposure"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "cohesion — correct answer"
       }
     ]
@@ -1092,31 +1092,31 @@ export const ENGLISH_C1_LESSONS_11_20 = [
       "audio": "The mediator restated both concerns neutrally and identified a shared interest in a predictable process.",
       "reading": "දි මීඩියේටර් රිස්ටේටඩ් බෝත් කන්සර්න්ස් නියුට්‍රලි ඇන්ඩ් අයිඩෙන්ටිෆයිඩ් අ ෂෙයර්ඩ් ඉන්ටරෙස්ට් ඉන් අ ප්‍රිඩික්ටබල් ප්‍රොසෙස්.",
       "options": [
-        "මැදිහත්කරු ගැටලු දෙකම මධ්‍යස්ථව නැවත කියා පොදු අවශ්‍යතාවක් හඳුනාගත්තේය.",
         "The mediator blamed one side.",
+        "මැදිහත්කරු ගැටලු දෙකම මධ්‍යස්ථව නැවත කියා පොදු අවශ්‍යතාවක් හඳුනාගත්තේය.",
         "Neither answer is correct."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "To express someone's idea in new words?",
         "options": [
-          "paraphrase",
           "accuse",
+          "paraphrase",
           "interrupt"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "paraphrase — correct answer"
       },
       {
         "prompt": "A shared area of agreement?",
         "options": [
-          "common ground",
           "grievance",
-          "deadline"
+          "deadline",
+          "common ground"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "common ground — correct answer"
       },
       {
@@ -1132,11 +1132,11 @@ export const ENGLISH_C1_LESSONS_11_20 = [
       {
         "prompt": "A mediator should?",
         "options": [
-          "listen and restate neutrally",
           "assign blame",
+          "listen and restate neutrally",
           "choose a side"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "listen and restate neutrally — correct answer"
       }
     ]
@@ -1255,31 +1255,31 @@ export const ENGLISH_C1_LESSONS_11_20 = [
       "audio": "The study used a repeatable method, but reviewers questioned whether the sample represented the wider population.",
       "reading": "දි ස්ටඩි යූස්ඩ් අ රිපීටබල් මෙතඩ්, බට් රිවියුවර්ස් ක්වෙස්චන්ඩ් වෙදර් දි සැම්පල් රෙප්‍රසෙන්ටඩ් දි වයිඩර් පොපියුලේෂන්.",
       "options": [
-        "අධ්‍යයනය නැවත කළ හැකි ක්‍රමයක් භාවිත කළත් නියැදිය සමස්ත ජනගහනය නියෝජනය කරනවාදැයි සමාලෝචකයෝ ප්‍රශ්න කළහ.",
         "Reviewers confirmed the sample was representative.",
-        "Neither answer is correct."
+        "Neither answer is correct.",
+        "අධ්‍යයනය නැවත කළ හැකි ක්‍රමයක් භාවිත කළත් නියැදිය සමස්ත ජනගහනය නියෝජනය කරනවාදැයි සමාලෝචකයෝ ප්‍රශ්න කළහ."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Measuring what is intended?",
         "options": [
-          "validity",
           "reliability",
+          "validity",
           "bias"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "validity — correct answer"
       },
       {
         "prompt": "Consistency of a measurement?",
         "options": [
-          "reliability",
           "validity",
-          "sample"
+          "sample",
+          "reliability"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "reliability — correct answer"
       },
       {
@@ -1295,11 +1295,11 @@ export const ENGLISH_C1_LESSONS_11_20 = [
       {
         "prompt": "An independent expert assessment?",
         "options": [
-          "peer review",
           "self-praise",
+          "peer review",
           "forecast"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "peer review — correct answer"
       }
     ]
@@ -1428,21 +1428,21 @@ export const ENGLISH_C1_LESSONS_11_20 = [
       {
         "prompt": "A key stage in a plan?",
         "options": [
-          "milestone",
           "bias",
+          "milestone",
           "grievance"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "milestone — correct answer"
       },
       {
         "prompt": "A measurable sign of progress?",
         "options": [
-          "indicator",
           "concession",
-          "gesture"
+          "gesture",
+          "indicator"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "indicator — correct answer"
       },
       {
@@ -1458,11 +1458,11 @@ export const ENGLISH_C1_LESSONS_11_20 = [
       {
         "prompt": "A strategic plan should be?",
         "options": [
-          "reviewed and adjusted",
           "fixed regardless of evidence",
+          "reviewed and adjusted",
           "without measurable goals"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "reviewed and adjusted — correct answer"
       }
     ]
@@ -1581,31 +1581,31 @@ export const ENGLISH_C1_LESSONS_11_20 = [
       "audio": "The review found broad agreement among sources, but one dataset differed; the recommendation was therefore qualified by that limitation.",
       "reading": "දි රිවියු ෆවුන්ඩ් බ්‍රෝඩ් අග්‍රීමන්ට් අමං සෝර්සිස්, බට් වන් ඩේටාසෙට් ඩිෆර්ඩ්; දි රෙකමෙන්ඩේෂන් වොස් දෙයර්ෆෝර් ක්වොලිෆයිඩ් බයි දැට් ලිමිටේෂන්.",
       "options": [
-        "මූලාශ්‍ර අතර පුළුල් එකඟතාවක් තිබුණත් එක් දත්ත කට්ටලයක් වෙනස් වූ නිසා නිර්දේශය එම සීමාවට යටත් කර ඉදිරිපත් කරන ලදී.",
         "All sources agreed completely.",
+        "මූලාශ්‍ර අතර පුළුල් එකඟතාවක් තිබුණත් එක් දත්ත කට්ටලයක් වෙනස් වූ නිසා නිර්දේශය එම සීමාවට යටත් කර ඉදිරිපත් කරන ලදී.",
         "Neither answer is correct."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "To combine findings from sources?",
         "options": [
-          "synthesize",
           "isolate",
+          "synthesize",
           "omit"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "synthesize — correct answer"
       },
       {
         "prompt": "A standard used to judge options?",
         "options": [
-          "criterion",
           "gesture",
-          "deadline"
+          "deadline",
+          "criterion"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "criterion — correct answer"
       },
       {
@@ -1621,11 +1621,11 @@ export const ENGLISH_C1_LESSONS_11_20 = [
       {
         "prompt": "A defensible recommendation should?",
         "options": [
-          "state evidence and limitations",
           "hide disagreement",
+          "state evidence and limitations",
           "ignore criteria"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "state evidence and limitations — correct answer"
       }
     ]
