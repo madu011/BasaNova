@@ -13,11 +13,11 @@ async function loadModule(path) {
 }
 
 function hasSinhala(value) {
-  return /[\\u0D80-\\u0DFF]/u.test(value ?? "");
+  return /[ං-෴]/u.test(value ?? "");
 }
 
 function hasForeignScript(value) {
-  return /[A-Za-z\\u0400-\\u04FF]/u.test(value ?? "");
+  return /[A-Za-zА-Яа-яЁё]/u.test(value ?? "");
 }
 
 function validateQuestions(label, questions, expectedCount, { pronunciation = false } = {}) {
