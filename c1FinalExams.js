@@ -19,12 +19,12 @@ export const SERBIAN_C1_MIXED_REVISION = [
     "topic": "C1 · උසස් සාකච්ඡා",
     "prompt": "“ustupak” යන වචනයේ සිංහල තේරුම තෝරන්න。",
     "options": [
-      "උසස් සාකච්ඡා",
+      "සහනයක් ලබාදීම",
       "අවහිර තත්ත්වය",
       "සමීක්ෂණය"
     ],
     "answer": 0,
-    "explanation": "ustupak = උසස් සාකච්ඡා",
+    "explanation": "ustupak = සහනයක් ලබාදීම",
     "word": "ustupak",
     "wordReading": "උස්ට්උප්අක්"
   },
@@ -35,10 +35,10 @@ export const SERBIAN_C1_MIXED_REVISION = [
     "options": [
       "ප්‍රතිවිපාකය",
       "පාරිතෝෂිකය",
-      "ආයතනික පාලනය"
+      "අධීක්ෂණය"
     ],
     "answer": 2,
-    "explanation": "nadzor = ආයතනික පාලනය",
+    "explanation": "nadzor = අධීක්ෂණය",
     "word": "nadzor",
     "wordReading": "න්අඩ්ස්ඔර්"
   },
@@ -48,11 +48,11 @@ export const SERBIAN_C1_MIXED_REVISION = [
     "prompt": "“ranjivost” යන වචනයේ සිංහල තේරුම තෝරන්න。",
     "options": [
       "විශ්වසනීයත්වය",
-      "දේශගුණික ප්‍රතිපත්ති",
+      "අවදානමට ලක්වීමේ හැකියාව",
       "කාලසටහන"
     ],
     "answer": 1,
-    "explanation": "ranjivost = දේශගුණික ප්‍රතිපත්ති",
+    "explanation": "ranjivost = අවදානමට ලක්වීමේ හැකියාව",
     "word": "ranjivost",
     "wordReading": "ර්අන්ය්ඉව්ඔස්ට්"
   },
@@ -63,10 +63,10 @@ export const SERBIAN_C1_MIXED_REVISION = [
     "options": [
       "වෙන් කිරීම",
       "ස්වයංක්‍රීයකරණය",
-      "ඩිජිටල් පරිවර්තනය"
+      "පද්ධති අතර අන්තර්ක්‍රියා හැකියාව"
     ],
     "answer": 2,
-    "explanation": "interoperabilnost = ඩිජිටල් පරිවර්තනය",
+    "explanation": "interoperabilnost = පද්ධති අතර අන්තර්ක්‍රියා හැකියාව",
     "word": "interoperabilnost",
     "wordReading": "ඉන්ට්එර්ඔප්එර්අබ්ඉල්න්ඔස්ට්"
   },
@@ -75,12 +75,12 @@ export const SERBIAN_C1_MIXED_REVISION = [
     "topic": "C1 · පර්යේෂණ ක්‍රම",
     "prompt": "“uzročnost” යන වචනයේ සිංහල තේරුම තෝරන්න。",
     "options": [
-      "පර්යේෂණ ක්‍රම",
+      "හේතුකාරකත්වය",
       "සහසම්බන්ධතාව",
       "උපමා"
     ],
     "answer": 0,
-    "explanation": "uzročnost = පර්යේෂණ ක්‍රම",
+    "explanation": "uzročnost = හේතුකාරකත්වය",
     "word": "uzročnost",
     "wordReading": "උස්ර්ඔච්න්ඔස්ට්"
   },
@@ -90,11 +90,11 @@ export const SERBIAN_C1_MIXED_REVISION = [
     "prompt": "“podtekst” යන වචනයේ සිංහල තේරුම තෝරන්න。",
     "options": [
       "කථකයා",
-      "සාහිත්‍ය විචාරය",
+      "යටිපෙළ අර්ථය",
       "විමෝචනය"
     ],
     "answer": 1,
-    "explanation": "podtekst = සාහිත්‍ය විචාරය",
+    "explanation": "podtekst = යටිපෙළ අර්ථය",
     "word": "podtekst",
     "wordReading": "ප්ඔඩ්ට්එක්ස්ට්"
   },
@@ -105,10 +105,10 @@ export const SERBIAN_C1_MIXED_REVISION = [
     "options": [
       "අනුගත වීම",
       "කටකතාව",
-      "අර්බුද සන්නිවේදනය"
+      "විනිවිදභාවය"
     ],
     "answer": 2,
-    "explanation": "transparentnost = අර්බුද සන්නිවේදනය",
+    "explanation": "transparentnost = විනිවිදභාවය",
     "word": "transparentnost",
     "wordReading": "ට්ර්අන්ස්ප්අර්එන්ට්න්ඔස්ට්"
   },
@@ -117,12 +117,12 @@ export const SERBIAN_C1_MIXED_REVISION = [
     "topic": "C1 · සාක්ෂි මත නිර්දේශ",
     "prompt": "“izvodljivost” යන වචනයේ සිංහල තේරුම තෝරන්න。",
     "options": [
-      "සාක්ෂි මත නිර්දේශ",
+      "කළ හැකි බව",
       "උපකල්පනය",
       "පක්ෂපාතීත්වය"
     ],
     "answer": 0,
-    "explanation": "izvodljivost = සාක්ෂි මත නිර්දේශ",
+    "explanation": "izvodljivost = කළ හැකි බව",
     "word": "izvodljivost",
     "wordReading": "ඉස්ව්ඔඩ්ල්ය්ඉව්ඔස්ට්"
   },
@@ -132,11 +132,11 @@ export const SERBIAN_C1_MIXED_REVISION = [
     "prompt": "“integritet” යන වචනයේ සිංහල තේරුම තෝරන්න。",
     "options": [
       "උභතෝකෝටිකය",
-      "වෘත්තීය අඛණ්ඩතාව",
+      "අඛණ්ඩතාව",
       "සංඛ්‍යාතය"
     ],
     "answer": 1,
-    "explanation": "integritet = වෘත්තීය අඛණ්ඩතාව",
+    "explanation": "integritet = අඛණ්ඩතාව",
     "word": "integritet",
     "wordReading": "ඉන්ට්එග්ර්ඉට්එට්"
   }
@@ -161,12 +161,12 @@ export const ENGLISH_C1_MIXED_REVISION = [
     "topic": "C1 · උසස් සාකච්ඡා",
     "prompt": "Choose the Sinhala meaning of “concession”.",
     "options": [
-      "උසස් සාකච්ඡා",
+      "සහනයක් ලබාදීම",
       "අවහිර තත්ත්වය",
       "සමීක්ෂණය"
     ],
     "answer": 0,
-    "explanation": "concession = උසස් සාකච්ඡා",
+    "explanation": "concession = සහනයක් ලබාදීම",
     "word": "concession",
     "wordReading": "ක්ඔන්ක්එස්ස්ඉඔන්"
   },
@@ -177,10 +177,10 @@ export const ENGLISH_C1_MIXED_REVISION = [
     "options": [
       "ප්‍රතිවිපාකය",
       "පාරිතෝෂිකය",
-      "ආයතනික පාලනය"
+      "අධීක්ෂණය"
     ],
     "answer": 2,
-    "explanation": "oversight = ආයතනික පාලනය",
+    "explanation": "oversight = අධීක්ෂණය",
     "word": "oversight",
     "wordReading": "ඔව්එර්ස්ඉග්හ්ට්"
   },
@@ -190,11 +190,11 @@ export const ENGLISH_C1_MIXED_REVISION = [
     "prompt": "Choose the Sinhala meaning of “vulnerability”.",
     "options": [
       "විශ්වසනීයත්වය",
-      "දේශගුණික ප්‍රතිපත්ති",
+      "අවදානමට ලක්වීමේ හැකියාව",
       "කාලසටහන"
     ],
     "answer": 1,
-    "explanation": "vulnerability = දේශගුණික ප්‍රතිපත්ති",
+    "explanation": "vulnerability = අවදානමට ලක්වීමේ හැකියාව",
     "word": "vulnerability",
     "wordReading": "ව්අල්න්එර්ඇබ්ඉල්ඉට්යි"
   },
@@ -205,10 +205,10 @@ export const ENGLISH_C1_MIXED_REVISION = [
     "options": [
       "වෙන් කිරීම",
       "ස්වයංක්‍රීයකරණය",
-      "ඩිජිටල් පරිවර්තනය"
+      "පද්ධති අතර අන්තර්ක්‍රියා හැකියාව"
     ],
     "answer": 2,
-    "explanation": "interoperability = ඩිජිටල් පරිවර්තනය",
+    "explanation": "interoperability = පද්ධති අතර අන්තර්ක්‍රියා හැකියාව",
     "word": "interoperability",
     "wordReading": "ඉන්ට්එර්ඔප්එර්ඇබ්ඉල්ඉට්යි"
   },
@@ -217,12 +217,12 @@ export const ENGLISH_C1_MIXED_REVISION = [
     "topic": "C1 · පර්යේෂණ ක්‍රම",
     "prompt": "Choose the Sinhala meaning of “causality”.",
     "options": [
-      "පර්යේෂණ ක්‍රම",
+      "හේතුකාරකත්වය",
       "සහසම්බන්ධතාව",
       "උපමා"
     ],
     "answer": 0,
-    "explanation": "causality = පර්යේෂණ ක්‍රම",
+    "explanation": "causality = හේතුකාරකත්වය",
     "word": "causality",
     "wordReading": "ක්ඇඅස්ඇල්ඉට්යි"
   },
@@ -232,11 +232,11 @@ export const ENGLISH_C1_MIXED_REVISION = [
     "prompt": "Choose the Sinhala meaning of “subtext”.",
     "options": [
       "කථකයා",
-      "සාහිත්‍ය විචාරය",
+      "යටිපෙළ අර්ථය",
       "විමෝචනය"
     ],
     "answer": 1,
-    "explanation": "subtext = සාහිත්‍ය විචාරය",
+    "explanation": "subtext = යටිපෙළ අර්ථය",
     "word": "subtext",
     "wordReading": "ස්අබ්ට්එක්ස්ට්"
   },
@@ -247,10 +247,10 @@ export const ENGLISH_C1_MIXED_REVISION = [
     "options": [
       "අනුගත වීම",
       "කටකතාව",
-      "අර්බුද සන්නිවේදනය"
+      "විනිවිදභාවය"
     ],
     "answer": 2,
-    "explanation": "transparency = අර්බුද සන්නිවේදනය",
+    "explanation": "transparency = විනිවිදභාවය",
     "word": "transparency",
     "wordReading": "ට්ර්ඇන්ස්ප්ඇර්එන්ක්යි"
   },
@@ -259,12 +259,12 @@ export const ENGLISH_C1_MIXED_REVISION = [
     "topic": "C1 · සාක්ෂි මත නිර්දේශ",
     "prompt": "Choose the Sinhala meaning of “feasibility”.",
     "options": [
-      "සාක්ෂි මත නිර්දේශ",
+      "කළ හැකි බව",
       "උපකල්පනය",
       "පක්ෂපාතීත්වය"
     ],
     "answer": 0,
-    "explanation": "feasibility = සාක්ෂි මත නිර්දේශ",
+    "explanation": "feasibility = කළ හැකි බව",
     "word": "feasibility",
     "wordReading": "ෆ්එඇස්ඉබ්ඉල්ඉට්යි"
   },
@@ -274,11 +274,11 @@ export const ENGLISH_C1_MIXED_REVISION = [
     "prompt": "Choose the Sinhala meaning of “integrity”.",
     "options": [
       "උභතෝකෝටිකය",
-      "වෘත්තීය අඛණ්ඩතාව",
+      "අඛණ්ඩතාව",
       "සංඛ්‍යාතය"
     ],
     "answer": 1,
-    "explanation": "integrity = වෘත්තීය අඛණ්ඩතාව",
+    "explanation": "integrity = අඛණ්ඩතාව",
     "word": "integrity",
     "wordReading": "ඉන්ට්එග්ර්ඉට්යි"
   }
@@ -294,11 +294,11 @@ export const SERBIAN_C1_FINAL_EXAM = [
     "options": [
       "විනිවිදභාවය",
       "අවදානමට ලක්වීමේ හැකියාව",
-      "දුරදක්නා බව",
+      "දුරදක්නා සැලසුම්කරණය",
       "ප්‍රතියෝජනාව"
     ],
     "answer": 2,
-    "explanation": "predviđanje = දුරදක්නා බව",
+    "explanation": "predviđanje = දුරදක්නා සැලසුම්කරණය",
     "wordReading": "ප්ර්එඩ්ව්ඉජ්අන්ය්එ"
   },
   {
@@ -429,12 +429,12 @@ export const SERBIAN_C1_FINAL_EXAM = [
     "word": "izvodljivost",
     "options": [
       "ප්‍රතියෝජනාව",
-      "ක්‍රියාත්මක කළ හැකි බව",
+      "කළ හැකි බව",
       "සහනයක් ලබාදීම",
       "හේතුකාරකත්වය"
     ],
     "answer": 1,
-    "explanation": "izvodljivost = ක්‍රියාත්මක කළ හැකි බව",
+    "explanation": "izvodljivost = කළ හැකි බව",
     "wordReading": "ඉස්ව්ඔඩ්ල්ය්ඉව්ඔස්ට්"
   },
   {
@@ -624,11 +624,11 @@ export const ENGLISH_C1_FINAL_EXAM = [
     "options": [
       "විනිවිදභාවය",
       "අවදානමට ලක්වීමේ හැකියාව",
-      "දුරදක්නා බව",
+      "දුරදක්නා සැලසුම්කරණය",
       "ප්‍රතියෝජනාව"
     ],
     "answer": 2,
-    "explanation": "foresight = දුරදක්නා බව",
+    "explanation": "foresight = දුරදක්නා සැලසුම්කරණය",
     "wordReading": "ෆ්ඔර්එස්ඉග්හ්ට්"
   },
   {
@@ -759,12 +759,12 @@ export const ENGLISH_C1_FINAL_EXAM = [
     "word": "feasibility",
     "options": [
       "ප්‍රතියෝජනාව",
-      "ක්‍රියාත්මක කළ හැකි බව",
+      "කළ හැකි බව",
       "සහනයක් ලබාදීම",
       "හේතුකාරකත්වය"
     ],
     "answer": 1,
-    "explanation": "feasibility = ක්‍රියාත්මක කළ හැකි බව",
+    "explanation": "feasibility = කළ හැකි බව",
     "wordReading": "ෆ්එඇස්ඉබ්ඉල්ඉට්යි"
   },
   {
