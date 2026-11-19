@@ -94,6 +94,8 @@ function validateLessonTrack(label, lessons) {
       listeningCount++;
       const q = lesson.listeningPractice;
       assert.ok(q.prompt?.trim() && q.audio?.trim(), `${name}: incomplete listening prompt/audio`);
+      assert.ok(typeof q.reading === "string" && /[ං-෴]/u.test(q.reading), `${name}: listening pronunciation must use Sinhala script`);
+      assert.ok(!/[A-Za-zА-Яа-яЁё]/u.test(q.reading), `${name}: listening pronunciation contains mixed scripts`);
       assert.ok(Array.isArray(q.options) && q.options.length >= 2, `${name}: missing listening options`);
       assert.equal(new Set(q.options).size, q.options.length, `${name}: duplicate listening options`);
       assert.ok(Number.isInteger(q.answer) && q.answer >= 0 && q.answer < q.options.length, `${name}: invalid listening answer index`);
