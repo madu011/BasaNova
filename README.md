@@ -416,3 +416,7 @@ Corrected the first 10 English B1 lessons, replacing Serbian-language quiz promp
 
 ### English B1 content correction — 2026-11-19
 Restored actual English text in lessons 31–50 where Sinhala-script pronunciation had replaced the visible English sentence in quiz options, examples and dialogue. Sinhala pronunciation aids remain available separately. Structural checks passed for the 20 corrected lessons; see `HANDOFF.md` for remaining language and device QA.
+
+
+### English B1 listening correction — 2026-11-19
+Corrected lessons 31–50 so English text, rather than Sinhala-script phonetic text, is used in listening prompts and TTS audio. Source checks confirm all 20 audio strings match the corresponding English example and answer option. Physical Android audio testing remains outstanding; see `HANDOFF.md`.
