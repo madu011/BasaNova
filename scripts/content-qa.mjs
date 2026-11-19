@@ -104,8 +104,21 @@ function validateLessonTrack(label, lessons) {
 
 const serbianLessons = await loadModule(lessonFiles.serbian);
 const englishLessons = await loadModule(lessonFiles.english);
+function validateLessonNumbering(label, lessons) {
+  const numbers = lessons.map(lesson => {
+    const match = lesson.title.match(/(?:පාඩම|Lesson)\\s*(\\d+)/u);
+    assert.ok(match, `${lesson.id}: title must include a lesson number`);
+    return Number(match[1]);
+  });
+  assert.equal(new Set(numbers).size, lessons.length, `${label}: duplicate lesson numbers`);
+  const expected = Array.from({ length: lessons.length }, (_, index) => index + 1);
+  assert.deepEqual([...numbers].sort((a, b) => a - b), expected, `${label}: lesson numbers must be continuous from 1`);
+}
+
 const serbianLessonStats = validateLessonTrack("Serbian A1", serbianLessons.SERBIAN_A1_LESSONS);
 const englishLessonStats = validateLessonTrack("English A1", englishLessons.ENGLISH_A1_LESSONS);
+validateLessonNumbering("Serbian A1", serbianLessons.SERBIAN_A1_LESSONS);
+validateLessonNumbering("English A1", englishLessons.ENGLISH_A1_LESSONS);
 assert.equal(serbianLessonStats.lessons, englishLessonStats.lessons, "Serbian and English A1 lesson counts must match");
 
 const a1 = await loadModule(files.a1);
