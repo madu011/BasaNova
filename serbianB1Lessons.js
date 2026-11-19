@@ -5449,19 +5449,19 @@ export const SERBIAN_B1_LESSONS = [
         "si": "Scientific discoveries change how we understand the world."
       },
       {
-        "sr": "B: Možeš li da navedeš primer?",
-        "reading": "B: මොෂෙෂ් ලි ද නාවෙදෙෂ් ප්‍රිමෙර්?",
-        "si": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "sr": "B: To je važno otkriće, ali rezultate treba potvrditi dodatnim istraživanjem.",
+        "reading": "B: To je važno otkriće, ali rezultate treba potvrditi dodatnim istraživanjem.",
+        "si": "එය වැදගත් සොයාගැනීමක්. නමුත් තවත් පර්යේෂණ මඟින් ප්‍රතිඵල තහවුරු කළ යුතුයි."
       },
       {
-        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
-        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+        "sr": "A: Istraživači već planiraju nove eksperimente.",
+        "reading": "A: Istraživači već planiraju nove eksperimente.",
+        "si": "විද්‍යාඥයන් තවත් පරීක්ෂණ සැලසුම් කරනවා."
       },
       {
-        "sr": "B: Slažem se. Tako možemo da donesemo bolju odluku.",
-        "reading": "B: ස්ලාෂෙම් සෙ. තාකො මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
-        "si": "එකඟයි. එහෙම අපට වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "sr": "B: Onda ćemo bolje razumeti kako materijal funkcioniše.",
+        "reading": "B: Onda ćemo bolje razumeti kako materijal funkcioniše.",
+        "si": "එවිට ද්‍රව්‍යය ක්‍රියා කරන ආකාරය වඩා හොඳින් තේරුම් ගන්න පුළුවන්."
       }
     ],
     "listeningPractice": {
@@ -5507,14 +5507,14 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "istraživanje = පර්යේෂණය"
       },
       {
-        "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+        "prompt": "B savetuje ili ističe:",
         "options": [
-          "උදාහරණයක්",
-          "මිලක්",
-          "ලිපිනයක්"
+          "Dodatnim istraživanjem",
+          "Novim ugovorom",
+          "Promenom adrese"
         ],
         "answer": 0,
-        "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "explanation": "Dodatnim istraživanjem = Further research = එය වැදගත් සොයාගැනීමක්. නමුත් තවත් පර්යේෂණ මඟින් ප්‍රතිඵල තහවුරු කළ යුතුයි."
       }
     ]
   },
@@ -5627,19 +5627,19 @@ export const SERBIAN_B1_LESSONS = [
         "si": "Everyone has rights and responsibilities towards others."
       },
       {
-        "sr": "B: Možeš li da navedeš primer?",
-        "reading": "B: මොෂෙෂ් ලි ද නාවෙදෙෂ් ප්‍රිමෙර්?",
-        "si": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "sr": "B: Zato svi treba da pročitamo pravila pre nego što ih prihvatimo.",
+        "reading": "B: Zato svi treba da pročitamo pravila pre nego što ih prihvatimo.",
+        "si": "ඒ නිසා ඒවා පිළිගැනීමට පෙර හැමෝම නීති කියවිය යුතුයි."
       },
       {
-        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
-        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+        "sr": "A: Gde možemo da pronađemo zvaničnu verziju?",
+        "reading": "A: Gde možemo da pronađemo zvaničnu verziju?",
+        "si": "නිල පිටපත අපට කොහෙන් සොයාගන්න පුළුවන්ද?"
       },
       {
-        "sr": "B: Slažem se. Tako možemo da donesemo bolju odluku.",
-        "reading": "B: ස්ලාෂෙම් සෙ. තාකො මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
-        "si": "එකඟයි. එහෙම අපට වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "sr": "B: Na sajtu institucije i u službenom dokumentu.",
+        "reading": "B: Na sajtu institucije i u službenom dokumentu.",
+        "si": "ආයතනයේ වෙබ් අඩවියේ සහ නිල ලේඛනයේ."
       }
     ],
     "listeningPractice": {
@@ -5685,14 +5685,14 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "odgovornost = වගකීම"
       },
       {
-        "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+        "prompt": "B savetuje ili ističe:",
         "options": [
-          "උදාහරණයක්",
-          "මිලක්",
-          "ලිපිනයක්"
+          "Da pročitamo pravila",
+          "Da promenimo posao",
+          "Da ignorišemo dokument"
         ],
         "answer": 0,
-        "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "explanation": "Da pročitamo pravila = Read the rules = ඒ නිසා ඒවා පිළිගැනීමට පෙර හැමෝම නීති කියවිය යුතුයි."
       }
     ]
   },
@@ -5805,19 +5805,19 @@ export const SERBIAN_B1_LESSONS = [
         "si": "Art allows us to express feelings in different ways."
       },
       {
-        "sr": "B: Možeš li da navedeš primer?",
-        "reading": "B: මොෂෙෂ් ලි ද නාවෙදෙෂ් ප්‍රිමෙර්?",
-        "si": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "sr": "B: Posebno mi se dopada što posetioci mogu da učestvuju u instalaciji.",
+        "reading": "B: Posebno mi se dopada što posetioci mogu da učestvuju u instalaciji.",
+        "si": "නරඹන්නන්ට කලා නිර්මාණයට සහභාගී විය හැකි එකට මම විශේෂයෙන් කැමතියි."
       },
       {
-        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
-        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+        "sr": "A: Tako umetnost postaje interaktivno iskustvo.",
+        "reading": "A: Tako umetnost postaje interaktivno iskustvo.",
+        "si": "ඒ නිසා කලාව අන්තර්ක්‍රියාකාරී අත්දැකීමක් වෙනවා."
       },
       {
-        "sr": "B: Slažem se. Tako možemo da donesemo bolju odluku.",
-        "reading": "B: ස්ලාෂෙම් සෙ. තාකො මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
-        "si": "එකඟයි. එහෙම අපට වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "sr": "B: Da, svako može da je doživi na drugačiji način.",
+        "reading": "B: Da, svako može da je doživi na drugačiji način.",
+        "si": "හැමෝටම එය වෙනස් ආකාරයකින් අත්විඳිය හැකියි."
       }
     ],
     "listeningPractice": {
@@ -5863,14 +5863,14 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "slika = චිත්‍රය"
       },
       {
-        "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+        "prompt": "B savetuje ili ističe:",
         "options": [
-          "උදාහරණයක්",
-          "මිලක්",
-          "ලිපිනයක්"
+          "Učešće posetilaca",
+          "Visoka cena ulaznice",
+          "Kratko radno vreme"
         ],
         "answer": 0,
-        "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "explanation": "Učešće posetilaca = Visitors’ participation = නරඹන්නන්ට කලා නිර්මාණයට සහභාගී විය හැකි එකට මම විශේෂයෙන් කැමතියි."
       }
     ]
   },
@@ -5983,19 +5983,19 @@ export const SERBIAN_B1_LESSONS = [
         "si": "The job market is changing because of new skills and technology."
       },
       {
-        "sr": "B: Možeš li da navedeš primer?",
-        "reading": "B: මොෂෙෂ් ලි ද නාවෙදෙෂ් ප්‍රිමෙර්?",
-        "si": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "sr": "B: Zato je korisno da redovno učimo i pratimo nove tehnologije.",
+        "reading": "B: Zato je korisno da redovno učimo i pratimo nove tehnologije.",
+        "si": "ඒ නිසා අලුත් තාක්ෂණය ඉගෙනගෙන ඒ ගැන දැනුවත්ව සිටීම ප්‍රයෝජනවත්."
       },
       {
-        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
-        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+        "sr": "A: Da li iskustvo i dalje ima veliku vrednost?",
+        "reading": "A: Da li iskustvo i dalje ima veliku vrednost?",
+        "si": "අත්දැකීම්වලට තවමත් විශාල වටිනාකමක් තිබෙනවාද?"
       },
       {
-        "sr": "B: Slažem se. Tako možemo da donesemo bolju odluku.",
-        "reading": "B: ස්ලාෂෙම් සෙ. තාකො මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
-        "si": "එකඟයි. එහෙම අපට වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "sr": "B: Naravno, ali iskustvo uz nove veštine daje prednost.",
+        "reading": "B: Naravno, ali iskustvo uz nove veštine daje prednost.",
+        "si": "ඇත්තෙන්ම. නමුත් අත්දැකීම් සහ නව කුසලතා එකතු වීම වාසියක්."
       }
     ],
     "listeningPractice": {
@@ -6041,14 +6041,14 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "tržište rada = රැකියා වෙළඳපොළ"
       },
       {
-        "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+        "prompt": "B savetuje ili ističe:",
         "options": [
-          "උදාහරණයක්",
-          "මිලක්",
-          "ලිපිනයක්"
+          "Da stalno uče nove veštine",
+          "Da izbegavaju tehnologiju",
+          "Da prestanu da rade"
         ],
         "answer": 0,
-        "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "explanation": "Da stalno uče nove veštine = Keep learning new skills = ඒ නිසා අලුත් තාක්ෂණය ඉගෙනගෙන ඒ ගැන දැනුවත්ව සිටීම ප්‍රයෝජනවත්."
       }
     ]
   },
@@ -6161,19 +6161,19 @@ export const SERBIAN_B1_LESSONS = [
         "si": "Before signing a contract, we should check the conditions carefully."
       },
       {
-        "sr": "B: Možeš li da navedeš primer?",
-        "reading": "B: මොෂෙෂ් ලි ද නාවෙදෙෂ් ප්‍රිමෙර්?",
-        "si": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "sr": "B: Pre potpisivanja treba proveriti i uslove raskida ugovora.",
+        "reading": "B: Pre potpisivanja treba proveriti i uslove raskida ugovora.",
+        "si": "අත්සන් කිරීමට පෙර ගිවිසුම අවසන් කිරීමේ කොන්දේසිත් පරීක්ෂා කළ යුතුයි."
       },
       {
-        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
-        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+        "sr": "A: Da li je važno da sve bude napisano?",
+        "reading": "A: Da li je važno da sve bude napisano?",
+        "si": "සියල්ල ලිඛිතව තිබීම වැදගත්ද?"
       },
       {
-        "sr": "B: Slažem se. Tako možemo da donesemo bolju odluku.",
-        "reading": "B: ස්ලාෂෙම් සෙ. තාකො මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
-        "si": "එකඟයි. එහෙම අපට වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "sr": "B: Da, pisani dogovor štiti i stanara i vlasnika.",
+        "reading": "B: Da, pisani dogovor štiti i stanara i vlasnika.",
+        "si": "ඔව්, ලිඛිත ගිවිසුම කුලී නිවැසියාත් හිමිකරුත් ආරක්ෂා කරනවා."
       }
     ],
     "listeningPractice": {
@@ -6219,14 +6219,14 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "stanodavac = නිවාස හිමියා"
       },
       {
-        "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+        "prompt": "B savetuje ili ističe:",
         "options": [
-          "උදාහරණයක්",
-          "මිලක්",
-          "ලිපිනයක්"
+          "Da proverimo uslove raskida",
+          "Da ne čitamo ugovor",
+          "Da odmah platimo celu godinu"
         ],
         "answer": 0,
-        "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "explanation": "Da proverimo uslove raskida = Check the termination conditions = අත්සන් කිරීමට පෙර ගිවිසුම අවසන් කිරීමේ කොන්දේසිත් පරීක්ෂා කළ යුතුයි."
       }
     ]
   },
@@ -6339,19 +6339,19 @@ export const SERBIAN_B1_LESSONS = [
         "si": "Reliable public transport can reduce congestion in a city."
       },
       {
-        "sr": "B: Možeš li da navedeš primer?",
-        "reading": "B: මොෂෙෂ් ලි ද නාවෙදෙෂ් ප්‍රිමෙර්?",
-        "si": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "sr": "B: To će pomoći samo ako polasci budu česti i pouzdani.",
+        "reading": "B: To će pomoći samo ako polasci budu česti i pouzdani.",
+        "si": "ගමන් වාර නිතර සහ විශ්වාසදායක නම් පමණයි එය උපකාරී වෙන්නේ."
       },
       {
-        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
-        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+        "sr": "A: Grad planira da poboljša i autobuske linije.",
+        "reading": "A: Grad planira da poboljša i autobuske linije.",
+        "si": "නගරය බස් මාර්ගත් වැඩිදියුණු කිරීමට සැලසුම් කරනවා."
       },
       {
-        "sr": "B: Slažem se. Tako možemo da donesemo bolju odluku.",
-        "reading": "B: ස්ලාෂෙම් සෙ. තාකො මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
-        "si": "එකඟයි. එහෙම අපට වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "sr": "B: Dobro povezane linije olakšavaju svakodnevno putovanje.",
+        "reading": "B: Dobro povezane linije olakšavaju svakodnevno putovanje.",
+        "si": "හොඳින් සම්බන්ධ කළ මාර්ග දිනපතා ගමන් පහසු කරනවා."
       }
     ],
     "listeningPractice": {
@@ -6397,14 +6397,14 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "gužva = වාහන තදබදය"
       },
       {
-        "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+        "prompt": "B savetuje ili ističe:",
         "options": [
-          "උදාහරණයක්",
-          "මිලක්",
-          "ලිපිනයක්"
+          "Česti i pouzdani polasci",
+          "Manje stanica",
+          "Više automobila"
         ],
         "answer": 0,
-        "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "explanation": "Česti i pouzdani polasci = Frequent and reliable services = ගමන් වාර නිතර සහ විශ්වාසදායක නම් පමණයි එය උපකාරී වෙන්නේ."
       }
     ]
   },
@@ -6517,19 +6517,19 @@ export const SERBIAN_B1_LESSONS = [
         "si": "Climate change requires long-term and shared solutions."
       },
       {
-        "sr": "B: Možeš li da navedeš primer?",
-        "reading": "B: මොෂෙෂ් ලි ද නාවෙදෙෂ් ප්‍රිමෙර්?",
-        "si": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "sr": "B: Zato moramo štedeti vodu i ulagati u održiva rešenja.",
+        "reading": "B: Zato moramo štedeti vodu i ulagati u održiva rešenja.",
+        "si": "ඒ නිසා ජලය ඉතිරි කර තිරසාර විසඳුම් සඳහා ආයෝජනය කළ යුතුයි."
       },
       {
-        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
-        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+        "sr": "A: Poljoprivreda posebno zavisi od dostupne vode.",
+        "reading": "A: Poljoprivreda posebno zavisi od dostupne vode.",
+        "si": "කෘෂිකර්මාන්තය ජලය ලබාගත හැකි වීම මත රඳා පවතිනවා."
       },
       {
-        "sr": "B: Slažem se. Tako možemo da donesemo bolju odluku.",
-        "reading": "B: ස්ලාෂෙම් සෙ. තාකො මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
-        "si": "එකඟයි. එහෙම අපට වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "sr": "B: Sistemi za navodnjavanje mogu smanjiti gubitke.",
+        "reading": "B: Sistemi za navodnjavanje mogu smanjiti gubitke.",
+        "si": "වාරිමාර්ග පද්ධති මඟින් ජල නාස්තිය අඩු කළ හැකියි."
       }
     ],
     "listeningPractice": {
@@ -6575,14 +6575,14 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "emisija = විමෝචනය"
       },
       {
-        "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+        "prompt": "B savetuje ili ističe:",
         "options": [
-          "උදාහරණයක්",
-          "මිලක්",
-          "ලිපිනයක්"
+          "Štednju vode i održiva rešenja",
+          "Veću potrošnju vode",
+          "Prestanak istraživanja"
         ],
         "answer": 0,
-        "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "explanation": "Štednju vode i održiva rešenja = Save water and use sustainable solutions = ඒ නිසා ජලය ඉතිරි කර තිරසාර විසඳුම් සඳහා ආයෝජනය කළ යුතුයි."
       }
     ]
   },
@@ -6695,19 +6695,19 @@ export const SERBIAN_B1_LESSONS = [
         "si": "Eating habits often reflect a family's culture and tradition."
       },
       {
-        "sr": "B: Možeš li da navedeš primer?",
-        "reading": "B: මොෂෙෂ් ලි ද නාවෙදෙෂ් ප්‍රිමෙර්?",
-        "si": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "sr": "B: Dobro je što možemo da kupujemo sveže namirnice od lokalnih proizvođača.",
+        "reading": "B: Dobro je što možemo da kupujemo sveže namirnice od lokalnih proizvođača.",
+        "si": "දේශීය නිෂ්පාදකයන්ගෙන් නැවුම් ආහාර මිලදී ගැනීමට හැකිවීම හොඳයි."
       },
       {
-        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
-        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+        "sr": "A: Tako podržavamo i male porodične firme.",
+        "reading": "A: Tako podržavamo i male porodične firme.",
+        "si": "එමඟින් කුඩා පවුල් ව්‍යාපාරවලටත් සහාය ලැබෙනවා."
       },
       {
-        "sr": "B: Slažem se. Tako možemo da donesemo bolju odluku.",
-        "reading": "B: ස්ලාෂෙම් සෙ. තාකො මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
-        "si": "එකඟයි. එහෙම අපට වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "sr": "B: A često saznamo i kako se hrana proizvodi.",
+        "reading": "B: A često saznamo i kako se hrana proizvodi.",
+        "si": "ආහාර නිෂ්පාදනය කරන ආකාරයත් දැනගන්න ලැබෙනවා."
       }
     ],
     "listeningPractice": {
@@ -6753,14 +6753,14 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "sastojak = අමුද්‍රව්‍යය"
       },
       {
-        "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+        "prompt": "B savetuje ili ističe:",
         "options": [
-          "උදාහරණයක්",
-          "මිලක්",
-          "ලිපිනයක්"
+          "Kupovinu sveže hrane od lokalnih proizvođača",
+          "Duže putovanje do prodavnice",
+          "Više uvozne robe"
         ],
         "answer": 0,
-        "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "explanation": "Kupovinu sveže hrane od lokalnih proizvođača = Buying fresh food from local producers = දේශීය නිෂ්පාදකයන්ගෙන් නැවුම් ආහාර මිලදී ගැනීමට හැකිවීම හොඳයි."
       }
     ]
   },
@@ -6873,19 +6873,19 @@ export const SERBIAN_B1_LESSONS = [
         "si": "Setting clear goals helps us track our progress."
       },
       {
-        "sr": "B: Možeš li da navedeš primer?",
-        "reading": "B: මොෂෙෂ් ලි ද නාවෙදෙෂ් ප්‍රිමෙර්?",
-        "si": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "sr": "B: Podeli cilj na manje korake i odredi rok za svaki.",
+        "reading": "B: Podeli cilj na manje korake i odredi rok za svaki.",
+        "si": "ඉලක්කය කුඩා පියවරවලට බෙදා එක් එක් පියවරට කාලසීමාවක් දාන්න."
       },
       {
-        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
-        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+        "sr": "A: Tako ću lakše pratiti svoj napredak.",
+        "reading": "A: Tako ću lakše pratiti svoj napredak.",
+        "si": "එවිට මගේ ප්‍රගතිය පහසුවෙන් නිරීක්ෂණය කළ හැකියි."
       },
       {
-        "sr": "B: Slažem se. Tako možemo da donesemo bolju odluku.",
-        "reading": "B: ස්ලාෂෙම් සෙ. තාකො මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
-        "si": "එකඟයි. එහෙම අපට වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "sr": "B: Redovno ponavljanje pomoći će ti da zapamtiš gradivo.",
+        "reading": "B: Redovno ponavljanje pomoći će ti da zapamtiš gradivo.",
+        "si": "නිතිපතා නැවත අධ්‍යයනය කිරීම පාඩම් මතක තබාගන්න උදව් වේවි."
       }
     ],
     "listeningPractice": {
@@ -6931,14 +6931,14 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "prekretnica = වැදගත් අදියර"
       },
       {
-        "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+        "prompt": "B savetuje ili ističe:",
         "options": [
-          "උදාහරණයක්",
-          "මිලක්",
-          "ලිපිනයක්"
+          "Da podeli cilj na manje korake",
+          "Da odustane od kursa",
+          "Da uči samo poslednjeg dana"
         ],
         "answer": 0,
-        "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "explanation": "Da podeli cilj na manje korake = Break the goal into smaller steps = ඉලක්කය කුඩා පියවරවලට බෙදා එක් එක් පියවරට කාලසීමාවක් දාන්න."
       }
     ]
   },
@@ -7051,19 +7051,19 @@ export const SERBIAN_B1_LESSONS = [
         "si": "If the service does not match the booking, we can request a solution."
       },
       {
-        "sr": "B: Možeš li da navedeš primer?",
-        "reading": "B: මොෂෙෂ් ලි ද නාවෙදෙෂ් ප්‍රිමෙර්?",
-        "si": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "sr": "B: Sačuvaj potvrdu rezervacije i odmah podnesi pisani prigovor.",
+        "reading": "B: Sačuvaj potvrdu rezervacije i odmah podnesi pisani prigovor.",
+        "si": "වෙන්කිරීමේ තහවුරු කිරීම තබාගෙන වහාම ලිඛිත පැමිණිල්ලක් ඉදිරිපත් කරන්න."
       },
       {
-        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
-        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+        "sr": "A: Da li treba da tražim i povraćaj novca?",
+        "reading": "A: Da li treba da tražim i povraćaj novca?",
+        "si": "මුදල් ආපසු ඉල්ලන්නත් ඕනද?"
       },
       {
-        "sr": "B: Slažem se. Tako možemo da donesemo bolju odluku.",
-        "reading": "B: ස්ලාෂෙම් සෙ. තාකො මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
-        "si": "එකඟයි. එහෙම අපට වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "sr": "B: Prvo zatraži objašnjenje i predloži razumno rešenje.",
+        "reading": "B: Prvo zatraži objašnjenje i predloži razumno rešenje.",
+        "si": "මුලින්ම පැහැදිලි කිරීමක් ඉල්ලා සාධාරණ විසඳුමක් යෝජනා කරන්න."
       }
     ],
     "listeningPractice": {
@@ -7109,14 +7109,14 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "žalba = පැමිණිල්ල"
       },
       {
-        "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+        "prompt": "B savetuje ili ističe:",
         "options": [
-          "උදාහරණයක්",
-          "මිලක්",
-          "ලිපිනයක්"
+          "Da sačuva potvrdu i podnese prigovor",
+          "Da obriše rezervaciju",
+          "Da ne razgovara sa hotelom"
         ],
         "answer": 0,
-        "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "explanation": "Da sačuva potvrdu i podnese prigovor = Keep the confirmation and file a complaint = වෙන්කිරීමේ තහවුරු කිරීම තබාගෙන වහාම ලිඛිත පැමිණිල්ලක් ඉදිරිපත් කරන්න."
       }
     ]
   },
@@ -7229,19 +7229,19 @@ export const SERBIAN_B1_LESSONS = [
         "si": "Clear communication depends on words and the way we say them."
       },
       {
-        "sr": "B: Možeš li da navedeš primer?",
-        "reading": "B: මොෂෙෂ් ලි ද නාවෙදෙෂ් ප්‍රිමෙර්?",
-        "si": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "sr": "B: Najbolje je da mirno objasniš šta si zapravo želeo da kažeš.",
+        "reading": "B: Najbolje je da mirno objasniš šta si zapravo želeo da kažeš.",
+        "si": "ඔබ අදහස් කළේ කුමක්දැයි සන්සුන්ව පැහැදිලි කිරීම හොඳම ක්‍රමයයි."
       },
       {
-        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
-        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+        "sr": "A: Trebalo je ranije da proverim da li me je razumeo.",
+        "reading": "A: Trebalo je ranije da proverim da li me je razumeo.",
+        "si": "ඔහු මාව තේරුම් ගත්තාද කියලා කලින්ම පරීක්ෂා කළ යුතුව තිබුණා."
       },
       {
-        "sr": "B: Slažem se. Tako možemo da donesemo bolju odluku.",
-        "reading": "B: ස්ලාෂෙම් සෙ. තාකො මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
-        "si": "එකඟයි. එහෙම අපට වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "sr": "B: Otvoreno pitanje često sprečava novi nesporazum.",
+        "reading": "B: Otvoreno pitanje često sprečava novi nesporazum.",
+        "si": "විවෘත ප්‍රශ්නයක් ඇසීමෙන් තවත් වැරදි අවබෝධයක් වළක්වාගත හැකියි."
       }
     ],
     "listeningPractice": {
@@ -7287,14 +7287,14 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "gest = අංග චලනය"
       },
       {
-        "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+        "prompt": "B savetuje ili ističe:",
         "options": [
-          "උදාහරණයක්",
-          "මිලක්",
-          "ලිපිනයක්"
+          "Mirnim objašnjenjem namere",
+          "Ignorisanjem kolege",
+          "Porukom bez objašnjenja"
         ],
         "answer": 0,
-        "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "explanation": "Mirnim objašnjenjem namere = Calmly explaining the intention = ඔබ අදහස් කළේ කුමක්දැයි සන්සුන්ව පැහැදිලි කිරීම හොඳම ක්‍රමයයි."
       }
     ]
   },
@@ -7407,19 +7407,19 @@ export const SERBIAN_B1_LESSONS = [
         "si": "Before posting a photo, we should respect other people's privacy."
       },
       {
-        "sr": "B: Možeš li da navedeš primer?",
-        "reading": "B: මොෂෙෂ් ලි ද නාවෙදෙෂ් ප්‍රිමෙර්?",
-        "si": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "sr": "B: Proveri ko je objavio vest i da li postoje pouzdani izvori.",
+        "reading": "B: Proveri ko je objavio vest i da li postoje pouzdani izvori.",
+        "si": "එය පළ කළේ කවුද සහ විශ්වාසදායක මූලාශ්‍ර එය තහවුරු කරනවාද කියලා බලන්න."
       },
       {
-        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
-        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+        "sr": "A: Na društvenim mrežama je podelilo mnogo ljudi.",
+        "reading": "A: Na društvenim mrežama je podelilo mnogo ljudi.",
+        "si": "සමාජ මාධ්‍යවල බොහෝ දෙනෙක් එය බෙදාගෙන තිබෙනවා."
       },
       {
-        "sr": "B: Slažem se. Tako možemo da donesemo bolju odluku.",
-        "reading": "B: ස්ලාෂෙම් සෙ. තාකො මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
-        "si": "එකඟයි. එහෙම අපට වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "sr": "B: Broj deljenja ne znači da je informacija tačna.",
+        "reading": "B: Broj deljenja ne znači da je informacija tačna.",
+        "si": "බෙදාගැනීම් ගණන වැඩි වීමෙන් තොරතුරු සත්‍ය බව අදහස් වෙන්නේ නැහැ."
       }
     ],
     "listeningPractice": {
@@ -7465,14 +7465,14 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "sadržaj = අන්තර්ගතය"
       },
       {
-        "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+        "prompt": "B savetuje ili ističe:",
         "options": [
-          "උදාහරණයක්",
-          "මිලක්",
-          "ලිපිනයක්"
+          "Da proveri izvor i pouzdanost",
+          "Da veruje broju deljenja",
+          "Da ignoriše sve izvore"
         ],
         "answer": 0,
-        "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "explanation": "Da proveri izvor i pouzdanost = Check the source and reliability = එය පළ කළේ කවුද සහ විශ්වාසදායක මූලාශ්‍ර එය තහවුරු කරනවාද කියලා බලන්න."
       }
     ]
   },
@@ -7585,19 +7585,19 @@ export const SERBIAN_B1_LESSONS = [
         "si": "When we set priorities, we finish important tasks more easily."
       },
       {
-        "sr": "B: Možeš li da navedeš primer?",
-        "reading": "B: මොෂෙෂ් ලි ද නාවෙදෙෂ් ප්‍රිමෙර්?",
-        "si": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "sr": "B: Pokušaj da odrediš prioritete i unapred isplaniraš odmor.",
+        "reading": "B: Pokušaj da odrediš prioritete i unapred isplaniraš odmor.",
+        "si": "ප්‍රමුඛතා තීරණය කර විවේකයත් කලින් සැලසුම් කරන්න උත්සාහ කරන්න."
       },
       {
-        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
-        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+        "sr": "A: Često prihvatim više zadataka nego što mogu da završim.",
+        "reading": "A: Često prihvatim više zadataka nego što mogu da završim.",
+        "si": "මට අවසන් කළ හැකි ප්‍රමාණයට වඩා වැඩි කාර්යයන් මම භාරගන්නවා."
       },
       {
-        "sr": "B: Slažem se. Tako možemo da donesemo bolju odluku.",
-        "reading": "B: ස්ලාෂෙම් සෙ. තාකො මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
-        "si": "එකඟයි. එහෙම අපට වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "sr": "B: Nauči da realno proceniš vreme koje ti je potrebno.",
+        "reading": "B: Nauči da realno proceniš vreme koje ti je potrebno.",
+        "si": "ඔබට අවශ්‍ය කාලය යථාර්ථවාදීව ඇස්තමේන්තු කරන්න ඉගෙනගන්න."
       }
     ],
     "listeningPractice": {
@@ -7643,14 +7643,14 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "raspored = කාලසටහන"
       },
       {
-        "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+        "prompt": "B savetuje ili ističe:",
         "options": [
-          "උදාහරණයක්",
-          "මිලක්",
-          "ලිපිනයක්"
+          "Da odredi prioritete i planira odmor",
+          "Da prihvati još zadataka",
+          "Da preskoči pauze"
         ],
         "answer": 0,
-        "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "explanation": "Da odredi prioritete i planira odmor = Set priorities and plan rest = ප්‍රමුඛතා තීරණය කර විවේකයත් කලින් සැලසුම් කරන්න උත්සාහ කරන්න."
       }
     ]
   },
@@ -7763,19 +7763,19 @@ export const SERBIAN_B1_LESSONS = [
         "si": "Respecting different customs helps people work together."
       },
       {
-        "sr": "B: Možeš li da navedeš primer?",
-        "reading": "B: මොෂෙෂ් ලි ද නාවෙදෙෂ් ප්‍රිමෙර්?",
-        "si": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "sr": "B: Dobro je da se pre putovanja upoznamo sa lokalnim običajima.",
+        "reading": "B: Dobro je da se pre putovanja upoznamo sa lokalnim običajima.",
+        "si": "ගමනට පෙර දේශීය සිරිත් විරිත් ගැන දැනගැනීම ප්‍රයෝජනවත්."
       },
       {
-        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
-        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+        "sr": "A: Tako možemo pokazati poštovanje prema domaćinima.",
+        "reading": "A: Tako možemo pokazati poštovanje prema domaćinima.",
+        "si": "එමඟින් සත්කාරකයන්ට ගෞරවය පෙන්වන්න පුළුවන්."
       },
       {
-        "sr": "B: Slažem se. Tako možemo da donesemo bolju odluku.",
-        "reading": "B: ස්ලාෂෙම් සෙ. තාකො මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
-        "si": "එකඟයි. එහෙම අපට වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "sr": "B: Lakše ćemo izbeći neprijatne situacije.",
+        "reading": "B: Lakše ćemo izbeći neprijatne situacije.",
+        "si": "අපහසු අවස්ථා පහසුවෙන් වළක්වාගන්නත් පුළුවන්."
       }
     ],
     "listeningPractice": {
@@ -7821,14 +7821,14 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "običaj = චාරිත්‍රය"
       },
       {
-        "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+        "prompt": "B savetuje ili ističe:",
         "options": [
-          "උදාහරණයක්",
-          "මිලක්",
-          "ලිපිනයක්"
+          "Da pokažemo poštovanje i izbegnemo neprijatnosti",
+          "Da promenimo običaje",
+          "Da izbegnemo razgovor"
         ],
         "answer": 0,
-        "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "explanation": "Da pokažemo poštovanje i izbegnemo neprijatnosti = Show respect and avoid awkward situations = ගමනට පෙර දේශීය සිරිත් විරිත් ගැන දැනගැනීම ප්‍රයෝජනවත්."
       }
     ]
   },
@@ -7941,19 +7941,19 @@ export const SERBIAN_B1_LESSONS = [
         "si": "A good business plan takes customers' needs into account."
       },
       {
-        "sr": "B: Možeš li da navedeš primer?",
-        "reading": "B: මොෂෙෂ් ලි ද නාවෙදෙෂ් ප්‍රිමෙර්?",
-        "si": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "sr": "B: Pre početka istraži potrebe kupaca i izračunaj početne troškove.",
+        "reading": "B: Pre početka istraži potrebe kupaca i izračunaj početne troškove.",
+        "si": "ආරම්භ කිරීමට පෙර පාරිභෝගික අවශ්‍යතා සොයා බලා ආරම්භක වියදම් ගණනය කරන්න."
       },
       {
-        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
-        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+        "sr": "A: Razmišljam i o tome kako da promovišem uslugu.",
+        "reading": "A: Razmišljam i o tome kako da promovišem uslugu.",
+        "si": "සේවාව ප්‍රචාරය කරන්නේ කොහොමද කියලත් මම හිතනවා."
       },
       {
-        "sr": "B: Slažem se. Tako možemo da donesemo bolju odluku.",
-        "reading": "B: ස්ලාෂෙම් සෙ. තාකො මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
-        "si": "එකඟයි. එහෙම අපට වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "sr": "B: Napravi jednostavan poslovni plan sa jasnim ciljevima.",
+        "reading": "B: Napravi jednostavan poslovni plan sa jasnim ciljevima.",
+        "si": "පැහැදිලි ඉලක්ක සහිත සරල ව්‍යාපාර සැලැස්මක් සකස් කරන්න."
       }
     ],
     "listeningPractice": {
@@ -7999,14 +7999,14 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "poslovni plan = ව්‍යාපාර සැලැස්ම"
       },
       {
-        "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+        "prompt": "B savetuje ili ističe:",
         "options": [
-          "උදාහරණයක්",
-          "මිලක්",
-          "ලිපිනයක්"
+          "Da istraži kupce i izračuna troškove",
+          "Da kupuje bez plana",
+          "Da odustane od promocije"
         ],
         "answer": 0,
-        "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "explanation": "Da istraži kupce i izračuna troškove = Research customers and calculate costs = ආරම්භ කිරීමට පෙර පාරිභෝගික අවශ්‍යතා සොයා බලා ආරම්භක වියදම් ගණනය කරන්න."
       }
     ]
   },
@@ -8119,19 +8119,19 @@ export const SERBIAN_B1_LESSONS = [
         "si": "A report should present the data and conclusions clearly."
       },
       {
-        "sr": "B: Možeš li da navedeš primer?",
-        "reading": "B: මොෂෙෂ් ලි ද නාවෙදෙෂ් ප්‍රිමෙර්?",
-        "si": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "sr": "B: Bilo bi korisno da prikažemo podatke i na grafikonu.",
+        "reading": "B: Bilo bi korisno da prikažemo podatke i na grafikonu.",
+        "si": "දත්ත ප්‍රස්ථාරයකින් ද පෙන්වීම ප්‍රයෝජනවත් වේවි."
       },
       {
-        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
-        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+        "sr": "A: Tako će čitaoci lakše uočiti promene.",
+        "reading": "A: Tako će čitaoci lakše uočiti promene.",
+        "si": "එවිට පාඨකයන්ට වෙනස්කම් පහසුවෙන් දැකගත හැකියි."
       },
       {
-        "sr": "B: Slažem se. Tako možemo da donesemo bolju odluku.",
-        "reading": "B: ස්ලාෂෙම් සෙ. තාකො මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
-        "si": "එකඟයි. එහෙම අපට වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "sr": "B: Uz grafikon dodaj kratak opis najvažnijih rezultata.",
+        "reading": "B: Uz grafikon dodaj kratak opis najvažnijih rezultata.",
+        "si": "ප්‍රස්ථාරය සමඟ වැදගත්ම ප්‍රතිඵල පිළිබඳ කෙටි විස්තරයක් එක් කරන්න."
       }
     ],
     "listeningPractice": {
@@ -8177,14 +8177,14 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "podaci = දත්ත"
       },
       {
-        "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+        "prompt": "B savetuje ili ističe:",
         "options": [
-          "උදාහරණයක්",
-          "මිලක්",
-          "ලිපිනයක්"
+          "Grafikon i kratak opis rezultata",
+          "Samo duži naslov",
+          "Nepovezane fotografije"
         ],
         "answer": 0,
-        "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "explanation": "Grafikon i kratak opis rezultata = A chart and a short explanation of results = දත්ත ප්‍රස්ථාරයකින් ද පෙන්වීම ප්‍රයෝජනවත් වේවි."
       }
     ]
   },
@@ -8297,19 +8297,19 @@ export const SERBIAN_B1_LESSONS = [
         "si": "Public debate helps us understand different opinions."
       },
       {
-        "sr": "B: Možeš li da navedeš primer?",
-        "reading": "B: මොෂෙෂ් ලි ද නාවෙදෙෂ් ප්‍රිමෙර්?",
-        "si": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "sr": "B: Treba da saslušamo obe strane pre nego što donesemo zaključak.",
+        "reading": "B: Treba da saslušamo obe strane pre nego što donesemo zaključak.",
+        "si": "නිගමනයකට එන්න පෙර දෙපාර්ශ්වයටම සවන් දිය යුතුයි."
       },
       {
-        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
-        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+        "sr": "A: Jedan govornik je izneo podatke, a drugi lično iskustvo.",
+        "reading": "A: Jedan govornik je izneo podatke, a drugi lično iskustvo.",
+        "si": "එක් කථිකයෙක් දත්ත ඉදිරිපත් කළ අතර අනෙක් කෙනා පෞද්ගලික අත්දැකීමක් බෙදාගත්තා."
       },
       {
-        "sr": "B: Slažem se. Tako možemo da donesemo bolju odluku.",
-        "reading": "B: ස්ලාෂෙම් සෙ. තාකො මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
-        "si": "එකඟයි. එහෙම අපට වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "sr": "B: Važno je da proverimo podatke i razumemo kontekst.",
+        "reading": "B: Važno je da proverimo podatke i razumemo kontekst.",
+        "si": "දත්ත පරීක්ෂා කර සන්දර්භය තේරුම් ගැනීම වැදගත්."
       }
     ],
     "listeningPractice": {
@@ -8355,14 +8355,14 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "javno mišljenje = මහජන මතය"
       },
       {
-        "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+        "prompt": "B savetuje ili ističe:",
         "options": [
-          "උදාහරණයක්",
-          "මිලක්",
-          "ලිපිනයක්"
+          "Da saslušamo obe strane i proverimo podatke",
+          "Da prihvatimo prvo mišljenje",
+          "Da zanemarimo kontekst"
         ],
         "answer": 0,
-        "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "explanation": "Da saslušamo obe strane i proverimo podatke = Listen to both sides and check the data = නිගමනයකට එන්න පෙර දෙපාර්ශ්වයටම සවන් දිය යුතුයි."
       }
     ]
   },
@@ -8475,19 +8475,19 @@ export const SERBIAN_B1_LESSONS = [
         "si": "Before choosing a solution, we should evaluate possible consequences."
       },
       {
-        "sr": "B: Možeš li da navedeš primer?",
-        "reading": "B: මොෂෙෂ් ලි ද නාවෙදෙෂ් ප්‍රිමෙර්?",
-        "si": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "sr": "B: Treba da procenimo posledice i odmah kontaktiramo drugog dobavljača.",
+        "reading": "B: Treba da procenimo posledice i odmah kontaktiramo drugog dobavljača.",
+        "si": "ප්‍රතිවිපාක තක්සේරු කර වහාම වෙනත් සැපයුම්කරුවෙකු සම්බන්ධ කරගත යුතුයි."
       },
       {
-        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
-        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+        "sr": "A: To može povećati troškove.",
+        "reading": "A: To može povećati troškove.",
+        "si": "එයින් වියදම් වැඩි විය හැකියි."
       },
       {
-        "sr": "B: Slažem se. Tako možemo da donesemo bolju odluku.",
-        "reading": "B: ස්ලාෂෙම් සෙ. තාකො මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
-        "si": "එකඟයි. එහෙම අපට වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "sr": "B: Uporedimo cenu kašnjenja sa cenom alternativnog rešenja.",
+        "reading": "B: Uporedimo cenu kašnjenja sa cenom alternativnog rešenja.",
+        "si": "ප්‍රමාදයේ වියදම විකල්ප විසඳුමේ වියදම සමඟ සසඳමු."
       }
     ],
     "listeningPractice": {
@@ -8533,14 +8533,14 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "proceniti = ඇගයීම"
       },
       {
-        "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+        "prompt": "B savetuje ili ističe:",
         "options": [
-          "උදාහරණයක්",
-          "මිලක්",
-          "ලිපිනයක්"
+          "Da procenimo posledice i kontaktiramo drugog dobavljača",
+          "Da čekamo bez plana",
+          "Da otkažemo sve zadatke"
         ],
         "answer": 0,
-        "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "explanation": "Da procenimo posledice i kontaktiramo drugog dobavljača = Assess consequences and contact another supplier = ප්‍රතිවිපාක තක්සේරු කර වහාම වෙනත් සැපයුම්කරුවෙකු සම්බන්ධ කරගත යුතුයි."
       }
     ]
   },
@@ -8653,19 +8653,19 @@ export const SERBIAN_B1_LESSONS = [
         "si": "A flexible plan helps us adapt to changes."
       },
       {
-        "sr": "B: Možeš li da navedeš primer?",
-        "reading": "B: මොෂෙෂ් ලි ද නාවෙදෙෂ් ප්‍රිමෙර්?",
-        "si": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "sr": "B: Napravi plan koji uključuje rokove, troškove i rezervnu mogućnost.",
+        "reading": "B: Napravi plan koji uključuje rokove, troškove i rezervnu mogućnost.",
+        "si": "කාලසීමා, වියදම් සහ විකල්ප සැලැස්මක් ඇතුළත් සැලැස්මක් සකස් කරන්න."
       },
       {
-        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
-        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+        "sr": "A: Ne mogu da predvidim sve promene.",
+        "reading": "A: Ne mogu da predvidim sve promene.",
+        "si": "සියලු වෙනස්කම් කලින් අනාවැකි කියන්න මට බැහැ."
       },
       {
-        "sr": "B: Slažem se. Tako možemo da donesemo bolju odluku.",
-        "reading": "B: ස්ලාෂෙම් සෙ. තාකො මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
-        "si": "එකඟයි. එහෙම අපට වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "sr": "B: Zato plan treba redovno prilagođavati novim okolnostima.",
+        "reading": "B: Zato plan treba redovno prilagođavati novim okolnostima.",
+        "si": "නව තත්ත්වයන්ට අනුව සැලැස්ම නිතර සකස් කළ යුතුයි."
       }
     ],
     "listeningPractice": {
@@ -8711,14 +8711,14 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "fleksibilan = නම්‍යශීලී"
       },
       {
-        "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+        "prompt": "B savetuje ili ističe:",
         "options": [
-          "උදාහරණයක්",
-          "මිලක්",
-          "ලිපිනයක්"
+          "Rokove, troškove i rezervnu mogućnost",
+          "Samo želje",
+          "Nepovezane informacije"
         ],
         "answer": 0,
-        "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "explanation": "Rokove, troškove i rezervnu mogućnost = Deadlines, costs and a backup option = කාලසීමා, වියදම් සහ විකල්ප සැලැස්මක් ඇතුළත් සැලැස්මක් සකස් කරන්න."
       }
     ]
   },
@@ -8831,19 +8831,19 @@ export const SERBIAN_B1_LESSONS = [
         "si": "A clear presentation connects examples, reasons and a conclusion."
       },
       {
-        "sr": "B: Možeš li da navedeš primer?",
-        "reading": "B: මොෂෙෂ් ලි ද නාවෙදෙෂ් ප්‍රිමෙර්?",
-        "si": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "sr": "B: Dodaj konkretan primer i jasno ponovi glavni zaključak na kraju.",
+        "reading": "B: Dodaj konkretan primer i jasno ponovi glavni zaključak na kraju.",
+        "si": "නිශ්චිත උදාහරණයක් එක් කර අවසානයේ ප්‍රධාන නිගමනය පැහැදිලිව නැවත කියන්න."
       },
       {
-        "sr": "A: Važno je da razmotrimo sve mogućnosti.",
-        "reading": "A: වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු හැකියාවන් සලකා බැලීම වැදගත්."
+        "sr": "A: Tako će publika lakše pratiti argumente.",
+        "reading": "A: Tako će publika lakše pratiti argumente.",
+        "si": "එවිට ප්‍රේක්ෂකයන්ට තර්ක පහසුවෙන් අනුගමනය කළ හැකියි."
       },
       {
-        "sr": "B: Slažem se. Tako možemo da donesemo bolju odluku.",
-        "reading": "B: ස්ලාෂෙම් සෙ. තාකො මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
-        "si": "එකඟයි. එහෙම අපට වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "sr": "B: Dobra struktura povezuje tvrdnje, dokaze i zaključak.",
+        "reading": "B: Dobra struktura povezuje tvrdnje, dokaze i zaključak.",
+        "si": "හොඳ ව්‍යුහයක් අදහස්, සාක්ෂි සහ නිගමනය එකට සම්බන්ධ කරනවා."
       }
     ],
     "listeningPractice": {
@@ -8889,14 +8889,14 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "potporna tačka = සහායක කරුණ"
       },
       {
-        "prompt": "සංවාදයේ B ඉල්ලන්නේ කුමක්ද?",
+        "prompt": "B savetuje ili ističe:",
         "options": [
-          "උදාහරණයක්",
-          "මිලක්",
-          "ලිපිනයක්"
+          "Konkretan primer i jasan zaključak",
+          "Još nepovezanih tema",
+          "Duži uvod bez zaključka"
         ],
         "answer": 0,
-        "explanation": "Možeš li da navedeš primer? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "explanation": "Konkretan primer i jasan zaključak = A concrete example and a clear conclusion = නිශ්චිත උදාහරණයක් එක් කර අවසානයේ ප්‍රධාන නිගමනය පැහැදිලිව නැවත කියන්න."
       }
     ]
   }
