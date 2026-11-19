@@ -5350,65 +5350,65 @@ export const ENGLISH_B1_LESSONS = [
         "word": "discovery",
         "reading": "ඩිස්කවරි",
         "meaning": "සොයාගැනීම",
-        "example": "සයන්ටිෆික් ඩිස්කවරිස් චේන්ජ් හව් වී අන්ඩර්ස්ටෑන්ඩ් දි වර්ල්ඩ්.",
-        "exampleReading": "Passive voice and present perfect for discoveries.",
+        "example": "A: Scientific discoveries change how we understand the world.",
+        "exampleReading": "ඇ: ස්ක්ඉඑන්ට්ඉෆ්ඉක් ඩ්ඉස්ක්ඔව්එර්ඉඑස් ච්ඇංඑ හ්ඕ ව්එ අන්ඩ්එර්ස්ට්ඇන්ඩ් ත්එ ව්ඔර්ල්ඩ්.",
         "translation": "Scientific discoveries change how we understand the world."
       },
       {
         "word": "research",
         "reading": "රිසර්ච්",
         "meaning": "පර්යේෂණය",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: That is an important discovery, but further research must confirm the results.",
+        "exampleReading": "බ්: ත්ඇට් ඉස් ඇන් ඉම්ප්ඔර්ට්ඇන්ට් ඩ්ඉස්ක්ඔව්එර්යි, බ්අට් ෆ්අර්ත්එර් ර්එස්ඊර්ච් ම්අස්ට් ක්ඔන්ෆ්ඉර්ම් ත්එ ර්එස්අල්ට්ස්.",
+        "translation": "එය වැදගත් සොයාගැනීමක්. නමුත් තවත් පර්යේෂණ මඟින් ප්‍රතිඵල තහවුරු කළ යුතුයි."
       },
       {
         "word": "experiment",
         "reading": "එක්ස්පෙරිමන්ට්",
         "meaning": "පරීක්ෂණය",
-        "example": "Based on the available information, we can make a better decision.",
-        "exampleReading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "example": "A: Researchers are already planning new experiments.",
+        "exampleReading": "ඇ: ර්එස්ඊර්ච්එර්ස් ඇර්එ ඇල්ර්ඊඩ්යි ප්ල්ඇන්න්ඉං න්එව් එක්ස්ප්එර්ඉම්එන්ට්ස්.",
+        "translation": "විද්‍යාඥයන් තවත් පරීක්ෂණ සැලසුම් කරනවා."
       },
       {
         "word": "scientist",
         "reading": "සයන්ටිස්ට්",
         "meaning": "විද්‍යාඥයා",
-        "example": "This approach has advantages, but possible risks should also be considered.",
-        "exampleReading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "example": "B: Then we will understand better how the material works.",
+        "exampleReading": "බ්: ත්එන් ව්එ ව්ඉල්ල් අන්ඩ්එර්ස්ට්ඇන්ඩ් බ්එට්ට්එර් හ්ඕ ත්එ ම්ඇට්එර්ඉඇල් ව්ඔර්ක්ස්.",
+        "translation": "එවිට ද්‍රව්‍යය ක්‍රියා කරන ආකාරය වඩා හොඳින් තේරුම් ගන්න පුළුවන්."
       },
       {
         "word": "evidence",
         "reading": "එවිඩන්ස්",
         "meaning": "සාක්ෂිය",
-        "example": "සයන්ටිෆික් ඩිස්කවරිස් චේන්ජ් හව් වී අන්ඩර්ස්ටෑන්ඩ් දි වර්ල්ඩ්.",
-        "exampleReading": "Passive voice and present perfect for discoveries.",
+        "example": "A: Scientific discoveries change how we understand the world.",
+        "exampleReading": "ඇ: ස්ක්ඉඑන්ට්ඉෆ්ඉක් ඩ්ඉස්ක්ඔව්එර්ඉඑස් ච්ඇංඑ හ්ඕ ව්එ අන්ඩ්එර්ස්ට්ඇන්ඩ් ත්එ ව්ඔර්ල්ඩ්.",
         "translation": "Scientific discoveries change how we understand the world."
       },
       {
         "word": "technology",
         "reading": "ටෙක්නොලජි",
         "meaning": "තාක්ෂණය",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: That is an important discovery, but further research must confirm the results.",
+        "exampleReading": "බ්: ත්ඇට් ඉස් ඇන් ඉම්ප්ඔර්ට්ඇන්ට් ඩ්ඉස්ක්ඔව්එර්යි, බ්අට් ෆ්අර්ත්එර් ර්එස්ඊර්ච් ම්අස්ට් ක්ඔන්ෆ්ඉර්ම් ත්එ ර්එස්අල්ට්ස්.",
+        "translation": "එය වැදගත් සොයාගැනීමක්. නමුත් තවත් පර්යේෂණ මඟින් ප්‍රතිඵල තහවුරු කළ යුතුයි."
       },
       {
         "word": "develop",
         "reading": "ඩිවෙලප්",
         "meaning": "දියුණු කරනවා",
-        "example": "Based on the available information, we can make a better decision.",
-        "exampleReading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "example": "A: Researchers are already planning new experiments.",
+        "exampleReading": "ඇ: ර්එස්ඊර්ච්එර්ස් ඇර්එ ඇල්ර්ඊඩ්යි ප්ල්ඇන්න්ඉං න්එව් එක්ස්ප්එර්ඉම්එන්ට්ස්.",
+        "translation": "විද්‍යාඥයන් තවත් පරීක්ෂණ සැලසුම් කරනවා."
       },
       {
         "word": "result",
         "reading": "රිසල්ට්",
         "meaning": "ප්‍රතිඵලය",
-        "example": "This approach has advantages, but possible risks should also be considered.",
-        "exampleReading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "example": "B: Then we will understand better how the material works.",
+        "exampleReading": "බ්: ත්එන් ව්එ ව්ඉල්ල් අන්ඩ්එර්ස්ට්ඇන්ඩ් බ්එට්ට්එර් හ්ඕ ත්එ ම්ඇට්එර්ඉඇල් ව්ඔර්ක්ස්.",
+        "translation": "එවිට ද්‍රව්‍යය ක්‍රියා කරන ආකාරය වඩා හොඳින් තේරුම් ගන්න පුළුවන්."
       }
     ],
     "grammarTitle": "Grammar",
@@ -5422,24 +5422,24 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "examples": [
       {
-        "text": "Scientific discoveries change how we understand the world.",
-        "reading": "Passive voice and present perfect for discoveries.",
+        "text": "A: Scientific discoveries change how we understand the world.",
+        "reading": "ඇ: ස්ක්ඉඑන්ට්ඉෆ්ඉක් ඩ්ඉස්ක්ඔව්එර්ඉඑස් ච්ඇංඑ හ්ඕ ව්එ අන්ඩ්එර්ස්ට්ඇන්ඩ් ත්එ ව්ඔර්ල්ඩ්.",
         "meaning": "Scientific discoveries change how we understand the world."
       },
       {
-        "text": "It is important to consider all available options carefully.",
-        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "meaning": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "text": "B: That is an important discovery, but further research must confirm the results.",
+        "reading": "බ්: ත්ඇට් ඉස් ඇන් ඉම්ප්ඔර්ට්ඇන්ට් ඩ්ඉස්ක්ඔව්එර්යි, බ්අට් ෆ්අර්ත්එර් ර්එස්ඊර්ච් ම්අස්ට් ක්ඔන්ෆ්ඉර්ම් ත්එ ර්එස්අල්ට්ස්.",
+        "meaning": "එය වැදගත් සොයාගැනීමක්. නමුත් තවත් පර්යේෂණ මඟින් ප්‍රතිඵල තහවුරු කළ යුතුයි."
       },
       {
-        "text": "Based on the available information, we can make a better decision.",
-        "reading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "meaning": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "text": "A: Researchers are already planning new experiments.",
+        "reading": "ඇ: ර්එස්ඊර්ච්එර්ස් ඇර්එ ඇල්ර්ඊඩ්යි ප්ල්ඇන්න්ඉං න්එව් එක්ස්ප්එර්ඉම්එන්ට්ස්.",
+        "meaning": "විද්‍යාඥයන් තවත් පරීක්ෂණ සැලසුම් කරනවා."
       },
       {
-        "text": "This approach has advantages, but possible risks should also be considered.",
-        "reading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "meaning": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "text": "B: Then we will understand better how the material works.",
+        "reading": "බ්: ත්එන් ව්එ ව්ඉල්ල් අන්ඩ්එර්ස්ට්ඇන්ඩ් බ්එට්ට්එර් හ්ඕ ත්එ ම්ඇට්එර්ඉඇල් ව්ඔර්ක්ස්.",
+        "meaning": "එවිට ද්‍රව්‍යය ක්‍රියා කරන ආකාරය වඩා හොඳින් තේරුම් ගන්න පුළුවන්."
       }
     ],
     "dialogue": [
@@ -5528,65 +5528,65 @@ export const ENGLISH_B1_LESSONS = [
         "word": "right",
         "reading": "රයිට්",
         "meaning": "අයිතිය",
-        "example": "එව්රිවන් හැස් රයිට්ස් ඇන්ඩ් රිස්පොන්සිබිලිටීස් ටුවර්ඩ්ස් අදර්ස්.",
-        "exampleReading": "Modal verbs and conditional clauses for obligations.",
+        "example": "A: Everyone has rights and responsibilities towards others.",
+        "exampleReading": "ඇ: එව්එර්යිඔන්එ හ්ඇස් ර්ඉග්හ්ට්ස් ඇන්ඩ් ර්එස්ප්ඔන්ස්ඉබ්ඉල්ඉට්ඉඑස් ට්ඕඇර්ඩ්ස් ඔත්එර්ස්.",
         "translation": "Everyone has rights and responsibilities towards others."
       },
       {
         "word": "responsibility",
         "reading": "රිස්පොන්සිබිලිටි",
         "meaning": "වගකීම",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: That is why everyone should read the rules before accepting them.",
+        "exampleReading": "බ්: ත්ඇට් ඉස් වයි එව්එර්යිඔන්එ ෂ්අවුල්ඩ් ර්ඊඩ් ත්එ ර්අල්එස් බ්එෆ්ඔර්එ ඇක්ක්එප්ට්ඉං ත්එම්.",
+        "translation": "ඒ නිසා ඒවා පිළිගැනීමට පෙර හැමෝම නීති කියවිය යුතුයි."
       },
       {
         "word": "law",
         "reading": "ලෝ",
         "meaning": "නීතිය",
-        "example": "Based on the available information, we can make a better decision.",
-        "exampleReading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "example": "A: Where can we find the official version?",
+        "exampleReading": "ඇ: වඑර්එ ක්ඇන් ව්එ ෆ්ඉන්ඩ් ත්එ ඔෆ්ෆ්ඉක්ඉඇල් ව්එර්ස්ඉඔන්?",
+        "translation": "නිල පිටපත අපට කොහෙන් සොයාගන්න පුළුවන්ද?"
       },
       {
         "word": "rule",
         "reading": "රූල්",
         "meaning": "රීතිය",
-        "example": "This approach has advantages, but possible risks should also be considered.",
-        "exampleReading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "example": "B: On the institution’s website and in the official document.",
+        "exampleReading": "බ්: ඔන් ත්එ ඉන්ස්ට්ඉට්අෂන්’ස් ව්එබ්ස්ඉට්එ ඇන්ඩ් ඉන් ත්එ ඔෆ්ෆ්ඉක්ඉඇල් ඩ්ඔක්අම්එන්ට්.",
+        "translation": "ආයතනයේ වෙබ් අඩවියේ සහ නිල ලේඛනයේ."
       },
       {
         "word": "permission",
         "reading": "පර්මිෂන්",
         "meaning": "අවසරය",
-        "example": "එව්රිවන් හැස් රයිට්ස් ඇන්ඩ් රිස්පොන්සිබිලිටීස් ටුවර්ඩ්ස් අදර්ස්.",
-        "exampleReading": "Modal verbs and conditional clauses for obligations.",
+        "example": "A: Everyone has rights and responsibilities towards others.",
+        "exampleReading": "ඇ: එව්එර්යිඔන්එ හ්ඇස් ර්ඉග්හ්ට්ස් ඇන්ඩ් ර්එස්ප්ඔන්ස්ඉබ්ඉල්ඉට්ඉඑස් ට්ඕඇර්ඩ්ස් ඔත්එර්ස්.",
         "translation": "Everyone has rights and responsibilities towards others."
       },
       {
         "word": "obligation",
         "reading": "ඔබ්ලිගේෂන්",
         "meaning": "බැඳීම",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: That is why everyone should read the rules before accepting them.",
+        "exampleReading": "බ්: ත්ඇට් ඉස් වයි එව්එර්යිඔන්එ ෂ්අවුල්ඩ් ර්ඊඩ් ත්එ ර්අල්එස් බ්එෆ්ඔර්එ ඇක්ක්එප්ට්ඉං ත්එම්.",
+        "translation": "ඒ නිසා ඒවා පිළිගැනීමට පෙර හැමෝම නීති කියවිය යුතුයි."
       },
       {
         "word": "fair",
         "reading": "ෆෙයාර්",
         "meaning": "සාධාරණ",
-        "example": "Based on the available information, we can make a better decision.",
-        "exampleReading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "example": "A: Where can we find the official version?",
+        "exampleReading": "ඇ: වඑර්එ ක්ඇන් ව්එ ෆ්ඉන්ඩ් ත්එ ඔෆ්ෆ්ඉක්ඉඇල් ව්එර්ස්ඉඔන්?",
+        "translation": "නිල පිටපත අපට කොහෙන් සොයාගන්න පුළුවන්ද?"
       },
       {
         "word": "protect",
         "reading": "ප්‍රොටෙක්ට්",
         "meaning": "ආරක්ෂා කරනවා",
-        "example": "This approach has advantages, but possible risks should also be considered.",
-        "exampleReading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "example": "B: On the institution’s website and in the official document.",
+        "exampleReading": "බ්: ඔන් ත්එ ඉන්ස්ට්ඉට්අෂන්’ස් ව්එබ්ස්ඉට්එ ඇන්ඩ් ඉන් ත්එ ඔෆ්ෆ්ඉක්ඉඇල් ඩ්ඔක්අම්එන්ට්.",
+        "translation": "ආයතනයේ වෙබ් අඩවියේ සහ නිල ලේඛනයේ."
       }
     ],
     "grammarTitle": "Grammar",
@@ -5600,24 +5600,24 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "examples": [
       {
-        "text": "Everyone has rights and responsibilities towards others.",
-        "reading": "Modal verbs and conditional clauses for obligations.",
+        "text": "A: Everyone has rights and responsibilities towards others.",
+        "reading": "ඇ: එව්එර්යිඔන්එ හ්ඇස් ර්ඉග්හ්ට්ස් ඇන්ඩ් ර්එස්ප්ඔන්ස්ඉබ්ඉල්ඉට්ඉඑස් ට්ඕඇර්ඩ්ස් ඔත්එර්ස්.",
         "meaning": "Everyone has rights and responsibilities towards others."
       },
       {
-        "text": "It is important to consider all available options carefully.",
-        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "meaning": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "text": "B: That is why everyone should read the rules before accepting them.",
+        "reading": "බ්: ත්ඇට් ඉස් වයි එව්එර්යිඔන්එ ෂ්අවුල්ඩ් ර්ඊඩ් ත්එ ර්අල්එස් බ්එෆ්ඔර්එ ඇක්ක්එප්ට්ඉං ත්එම්.",
+        "meaning": "ඒ නිසා ඒවා පිළිගැනීමට පෙර හැමෝම නීති කියවිය යුතුයි."
       },
       {
-        "text": "Based on the available information, we can make a better decision.",
-        "reading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "meaning": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "text": "A: Where can we find the official version?",
+        "reading": "ඇ: වඑර්එ ක්ඇන් ව්එ ෆ්ඉන්ඩ් ත්එ ඔෆ්ෆ්ඉක්ඉඇල් ව්එර්ස්ඉඔන්?",
+        "meaning": "නිල පිටපත අපට කොහෙන් සොයාගන්න පුළුවන්ද?"
       },
       {
-        "text": "This approach has advantages, but possible risks should also be considered.",
-        "reading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "meaning": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "text": "B: On the institution’s website and in the official document.",
+        "reading": "බ්: ඔන් ත්එ ඉන්ස්ට්ඉට්අෂන්’ස් ව්එබ්ස්ඉට්එ ඇන්ඩ් ඉන් ත්එ ඔෆ්ෆ්ඉක්ඉඇල් ඩ්ඔක්අම්එන්ට්.",
+        "meaning": "ආයතනයේ වෙබ් අඩවියේ සහ නිල ලේඛනයේ."
       }
     ],
     "dialogue": [
@@ -5706,65 +5706,65 @@ export const ENGLISH_B1_LESSONS = [
         "word": "creativity",
         "reading": "ක්‍රීඒටිවිටි",
         "meaning": "නිර්මාණශීලීත්වය",
-        "example": "ආර්ට් අලවුස් අස් ටු එක්ස්ප්‍රෙස් ෆීලිංස් ඉන් ඩිෆරන්ට් වේස්.",
-        "exampleReading": "Relative clauses and descriptive adjectives.",
+        "example": "A: Art allows us to express feelings in different ways.",
+        "exampleReading": "ඇ: ඇර්ට් ඇල්ල්ඕස් අස් ට්ඔ එක්ස්ප්ර්එස්ස් ෆ්ඊල්ඉංස් ඉන් ඩ්ඉෆ්ෆ්එර්එන්ට් ව්ඒස්.",
         "translation": "Art allows us to express feelings in different ways."
       },
       {
         "word": "painting",
         "reading": "පේන්ටින්",
         "meaning": "චිත්‍රය",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: I especially like that visitors can take part in the installation.",
+        "exampleReading": "බ්: ඉ එස්ප්එක්ඉඇල්ල්යි ල්ඉක්එ ත්ඇට් ව්ඉස්ඉට්ඔර්ස් ක්ඇන් ට්ඇක්එ ප්ඇර්ට් ඉන් ත්එ ඉන්ස්ට්ඇල්ල්ඇෂන්.",
+        "translation": "නරඹන්නන්ට කලා නිර්මාණයට සහභාගී විය හැකි එකට මම විශේෂයෙන් කැමතියි."
       },
       {
         "word": "exhibition",
         "reading": "එක්සිබිෂන්",
         "meaning": "ප්‍රදර්ශනය",
-        "example": "Based on the available information, we can make a better decision.",
-        "exampleReading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "example": "A: This makes art an interactive experience.",
+        "exampleReading": "ඇ: ත්ඉස් ම්ඇක්එස් ඇර්ට් ඇන් ඉන්ට්එර්ඇක්ට්ඉව්එ එක්ස්ප්එර්ඉඑන්ක්එ.",
+        "translation": "ඒ නිසා කලාව අන්තර්ක්‍රියාකාරී අත්දැකීමක් වෙනවා."
       },
       {
         "word": "performance",
         "reading": "පර්ෆෝමන්ස්",
         "meaning": "ප්‍රසංගය",
-        "example": "This approach has advantages, but possible risks should also be considered.",
-        "exampleReading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "example": "B: Yes, everyone can experience it in a different way.",
+        "exampleReading": "බ්: යිඑස්, එව්එර්යිඔන්එ ක්ඇන් එක්ස්ප්එර්ඉඑන්ක්එ ඉට් ඉන් ඇ ඩ්ඉෆ්ෆ්එර්එන්ට් ව්ඒ.",
+        "translation": "හැමෝටම එය වෙනස් ආකාරයකින් අත්විඳිය හැකියි."
       },
       {
         "word": "inspiration",
         "reading": "ඉන්ස්පිරේෂන්",
         "meaning": "ආභාසය",
-        "example": "ආර්ට් අලවුස් අස් ටු එක්ස්ප්‍රෙස් ෆීලිංස් ඉන් ඩිෆරන්ට් වේස්.",
-        "exampleReading": "Relative clauses and descriptive adjectives.",
+        "example": "A: Art allows us to express feelings in different ways.",
+        "exampleReading": "ඇ: ඇර්ට් ඇල්ල්ඕස් අස් ට්ඔ එක්ස්ප්ර්එස්ස් ෆ්ඊල්ඉංස් ඉන් ඩ්ඉෆ්ෆ්එර්එන්ට් ව්ඒස්.",
         "translation": "Art allows us to express feelings in different ways."
       },
       {
         "word": "talent",
         "reading": "ටැලන්ට්",
         "meaning": "දක්ෂතාව",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: I especially like that visitors can take part in the installation.",
+        "exampleReading": "බ්: ඉ එස්ප්එක්ඉඇල්ල්යි ල්ඉක්එ ත්ඇට් ව්ඉස්ඉට්ඔර්ස් ක්ඇන් ට්ඇක්එ ප්ඇර්ට් ඉන් ත්එ ඉන්ස්ට්ඇල්ල්ඇෂන්.",
+        "translation": "නරඹන්නන්ට කලා නිර්මාණයට සහභාගී විය හැකි එකට මම විශේෂයෙන් කැමතියි."
       },
       {
         "word": "craft",
         "reading": "ක්‍රාෆ්ට්",
         "meaning": "හස්ත කර්මාන්තය",
-        "example": "Based on the available information, we can make a better decision.",
-        "exampleReading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "example": "A: This makes art an interactive experience.",
+        "exampleReading": "ඇ: ත්ඉස් ම්ඇක්එස් ඇර්ට් ඇන් ඉන්ට්එර්ඇක්ට්ඉව්එ එක්ස්ප්එර්ඉඑන්ක්එ.",
+        "translation": "ඒ නිසා කලාව අන්තර්ක්‍රියාකාරී අත්දැකීමක් වෙනවා."
       },
       {
         "word": "audience",
         "reading": "ඕඩියන්ස්",
         "meaning": "ප්‍රේක්ෂකයෝ",
-        "example": "This approach has advantages, but possible risks should also be considered.",
-        "exampleReading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "example": "B: Yes, everyone can experience it in a different way.",
+        "exampleReading": "බ්: යිඑස්, එව්එර්යිඔන්එ ක්ඇන් එක්ස්ප්එර්ඉඑන්ක්එ ඉට් ඉන් ඇ ඩ්ඉෆ්ෆ්එර්එන්ට් ව්ඒ.",
+        "translation": "හැමෝටම එය වෙනස් ආකාරයකින් අත්විඳිය හැකියි."
       }
     ],
     "grammarTitle": "Grammar",
@@ -5778,24 +5778,24 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "examples": [
       {
-        "text": "Art allows us to express feelings in different ways.",
-        "reading": "Relative clauses and descriptive adjectives.",
+        "text": "A: Art allows us to express feelings in different ways.",
+        "reading": "ඇ: ඇර්ට් ඇල්ල්ඕස් අස් ට්ඔ එක්ස්ප්ර්එස්ස් ෆ්ඊල්ඉංස් ඉන් ඩ්ඉෆ්ෆ්එර්එන්ට් ව්ඒස්.",
         "meaning": "Art allows us to express feelings in different ways."
       },
       {
-        "text": "It is important to consider all available options carefully.",
-        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "meaning": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "text": "B: I especially like that visitors can take part in the installation.",
+        "reading": "බ්: ඉ එස්ප්එක්ඉඇල්ල්යි ල්ඉක්එ ත්ඇට් ව්ඉස්ඉට්ඔර්ස් ක්ඇන් ට්ඇක්එ ප්ඇර්ට් ඉන් ත්එ ඉන්ස්ට්ඇල්ල්ඇෂන්.",
+        "meaning": "නරඹන්නන්ට කලා නිර්මාණයට සහභාගී විය හැකි එකට මම විශේෂයෙන් කැමතියි."
       },
       {
-        "text": "Based on the available information, we can make a better decision.",
-        "reading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "meaning": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "text": "A: This makes art an interactive experience.",
+        "reading": "ඇ: ත්ඉස් ම්ඇක්එස් ඇර්ට් ඇන් ඉන්ට්එර්ඇක්ට්ඉව්එ එක්ස්ප්එර්ඉඑන්ක්එ.",
+        "meaning": "ඒ නිසා කලාව අන්තර්ක්‍රියාකාරී අත්දැකීමක් වෙනවා."
       },
       {
-        "text": "This approach has advantages, but possible risks should also be considered.",
-        "reading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "meaning": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "text": "B: Yes, everyone can experience it in a different way.",
+        "reading": "බ්: යිඑස්, එව්එර්යිඔන්එ ක්ඇන් එක්ස්ප්එර්ඉඑන්ක්එ ඉට් ඉන් ඇ ඩ්ඉෆ්ෆ්එර්එන්ට් ව්ඒ.",
+        "meaning": "හැමෝටම එය වෙනස් ආකාරයකින් අත්විඳිය හැකියි."
       }
     ],
     "dialogue": [
@@ -5884,65 +5884,65 @@ export const ENGLISH_B1_LESSONS = [
         "word": "economy",
         "reading": "ඉකොනමි",
         "meaning": "ආර්ථිකය",
-        "example": "දි ජොබ් මාර්කට් ඉස් චේන්ජිං බිකෝස් ඔෆ් න්‍යූ ස්කිල්ස් ඇන්ඩ් ටෙක්නොලජි.",
-        "exampleReading": "Comparatives, trends and cause-effect connectors.",
+        "example": "A: The job market is changing because of new skills and technology.",
+        "exampleReading": "ඇ: ත්එ ජ්ඔබ් ම්ඇර්ක්එට් ඉස් ච්ඇංඉං බ්එක්ඇඅස්එ ඔෆ් න්එව් ස්ක්ඉල්ල්ස් ඇන්ඩ් ට්එච්න්ඔල්ඔග්යි.",
         "translation": "The job market is changing because of new skills and technology."
       },
       {
         "word": "job market",
         "reading": "ජොබ් මාර්කට්",
         "meaning": "රැකියා වෙළඳපොළ",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: That is why it is useful to keep learning and follow new technologies.",
+        "exampleReading": "බ්: ත්ඇට් ඉස් වයි ඉට් ඉස් අස්එෆ්අල් ට්ඔ ක්ඊප් ල්ඊර්න්ඉං ඇන්ඩ් ෆ්ඔල්ල්ඕ න්එව් ට්එච්න්ඔල්ඔග්ඉඑස්.",
+        "translation": "ඒ නිසා අලුත් තාක්ෂණය ඉගෙනගෙන ඒ ගැන දැනුවත්ව සිටීම ප්‍රයෝජනවත්."
       },
       {
         "word": "employment",
         "reading": "එම්ප්ලොයිමන්ට්",
         "meaning": "රැකියාව",
-        "example": "Based on the available information, we can make a better decision.",
-        "exampleReading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "example": "A: Is experience still highly valuable?",
+        "exampleReading": "ඇ: ඉස් එක්ස්ප්එර්ඉඑන්ක්එ ස්ට්ඉල්ල් හ්ඉග්හ්ල්යි ව්ඇල්අඇබ්ල්එ?",
+        "translation": "අත්දැකීම්වලට තවමත් විශාල වටිනාකමක් තිබෙනවාද?"
       },
       {
         "word": "unemployment",
         "reading": "අන්එම්ප්ලොයිමන්ට්",
         "meaning": "විරැකියාව",
-        "example": "This approach has advantages, but possible risks should also be considered.",
-        "exampleReading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "example": "B: Of course, but experience combined with new skills gives an advantage.",
+        "exampleReading": "බ්: ඔෆ් ක්අවුර්ස්එ, බ්අට් එක්ස්ප්එර්ඉඑන්ක්එ ක්ඔම්බ්ඉන්එඩ් ව්ඉත් න්එව් ස්ක්ඉල්ල්ස් ග්ඉව්එස් ඇන් ඇඩ්ව්ඇන්ට්ඇග්එ.",
+        "translation": "ඇත්තෙන්ම. නමුත් අත්දැකීම් සහ නව කුසලතා එකතු වීම වාසියක්."
       },
       {
         "word": "salary",
         "reading": "සැලරි",
         "meaning": "වැටුප",
-        "example": "දි ජොබ් මාර්කට් ඉස් චේන්ජිං බිකෝස් ඔෆ් න්‍යූ ස්කිල්ස් ඇන්ඩ් ටෙක්නොලජි.",
-        "exampleReading": "Comparatives, trends and cause-effect connectors.",
+        "example": "A: The job market is changing because of new skills and technology.",
+        "exampleReading": "ඇ: ත්එ ජ්ඔබ් ම්ඇර්ක්එට් ඉස් ච්ඇංඉං බ්එක්ඇඅස්එ ඔෆ් න්එව් ස්ක්ඉල්ල්ස් ඇන්ඩ් ට්එච්න්ඔල්ඔග්යි.",
         "translation": "The job market is changing because of new skills and technology."
       },
       {
         "word": "demand",
         "reading": "ඩිමාන්ඩ්",
         "meaning": "ඉල්ලුම",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: That is why it is useful to keep learning and follow new technologies.",
+        "exampleReading": "බ්: ත්ඇට් ඉස් වයි ඉට් ඉස් අස්එෆ්අල් ට්ඔ ක්ඊප් ල්ඊර්න්ඉං ඇන්ඩ් ෆ්ඔල්ල්ඕ න්එව් ට්එච්න්ඔල්ඔග්ඉඑස්.",
+        "translation": "ඒ නිසා අලුත් තාක්ෂණය ඉගෙනගෙන ඒ ගැන දැනුවත්ව සිටීම ප්‍රයෝජනවත්."
       },
       {
         "word": "supply",
         "reading": "සැප්ලයි",
         "meaning": "සැපයුම",
-        "example": "Based on the available information, we can make a better decision.",
-        "exampleReading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "example": "A: Is experience still highly valuable?",
+        "exampleReading": "ඇ: ඉස් එක්ස්ප්එර්ඉඑන්ක්එ ස්ට්ඉල්ල් හ්ඉග්හ්ල්යි ව්ඇල්අඇබ්ල්එ?",
+        "translation": "අත්දැකීම්වලට තවමත් විශාල වටිනාකමක් තිබෙනවාද?"
       },
       {
         "word": "industry",
         "reading": "ඉන්ඩස්ට්‍රි",
         "meaning": "කර්මාන්තය",
-        "example": "This approach has advantages, but possible risks should also be considered.",
-        "exampleReading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "example": "B: Of course, but experience combined with new skills gives an advantage.",
+        "exampleReading": "බ්: ඔෆ් ක්අවුර්ස්එ, බ්අට් එක්ස්ප්එර්ඉඑන්ක්එ ක්ඔම්බ්ඉන්එඩ් ව්ඉත් න්එව් ස්ක්ඉල්ල්ස් ග්ඉව්එස් ඇන් ඇඩ්ව්ඇන්ට්ඇග්එ.",
+        "translation": "ඇත්තෙන්ම. නමුත් අත්දැකීම් සහ නව කුසලතා එකතු වීම වාසියක්."
       }
     ],
     "grammarTitle": "Grammar",
@@ -5956,24 +5956,24 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "examples": [
       {
-        "text": "The job market is changing because of new skills and technology.",
-        "reading": "Comparatives, trends and cause-effect connectors.",
+        "text": "A: The job market is changing because of new skills and technology.",
+        "reading": "ඇ: ත්එ ජ්ඔබ් ම්ඇර්ක්එට් ඉස් ච්ඇංඉං බ්එක්ඇඅස්එ ඔෆ් න්එව් ස්ක්ඉල්ල්ස් ඇන්ඩ් ට්එච්න්ඔල්ඔග්යි.",
         "meaning": "The job market is changing because of new skills and technology."
       },
       {
-        "text": "It is important to consider all available options carefully.",
-        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "meaning": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "text": "B: That is why it is useful to keep learning and follow new technologies.",
+        "reading": "බ්: ත්ඇට් ඉස් වයි ඉට් ඉස් අස්එෆ්අල් ට්ඔ ක්ඊප් ල්ඊර්න්ඉං ඇන්ඩ් ෆ්ඔල්ල්ඕ න්එව් ට්එච්න්ඔල්ඔග්ඉඑස්.",
+        "meaning": "ඒ නිසා අලුත් තාක්ෂණය ඉගෙනගෙන ඒ ගැන දැනුවත්ව සිටීම ප්‍රයෝජනවත්."
       },
       {
-        "text": "Based on the available information, we can make a better decision.",
-        "reading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "meaning": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "text": "A: Is experience still highly valuable?",
+        "reading": "ඇ: ඉස් එක්ස්ප්එර්ඉඑන්ක්එ ස්ට්ඉල්ල් හ්ඉග්හ්ල්යි ව්ඇල්අඇබ්ල්එ?",
+        "meaning": "අත්දැකීම්වලට තවමත් විශාල වටිනාකමක් තිබෙනවාද?"
       },
       {
-        "text": "This approach has advantages, but possible risks should also be considered.",
-        "reading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "meaning": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "text": "B: Of course, but experience combined with new skills gives an advantage.",
+        "reading": "බ්: ඔෆ් ක්අවුර්ස්එ, බ්අට් එක්ස්ප්එර්ඉඑන්ක්එ ක්ඔම්බ්ඉන්එඩ් ව්ඉත් න්එව් ස්ක්ඉල්ල්ස් ග්ඉව්එස් ඇන් ඇඩ්ව්ඇන්ට්ඇග්එ.",
+        "meaning": "ඇත්තෙන්ම. නමුත් අත්දැකීම් සහ නව කුසලතා එකතු වීම වාසියක්."
       }
     ],
     "dialogue": [
@@ -6062,65 +6062,65 @@ export const ENGLISH_B1_LESSONS = [
         "word": "rent",
         "reading": "රෙන්ට්",
         "meaning": "කුලිය",
-        "example": "බිෆෝර් සයිනින් අ කොන්ට්‍රැක්ට් වී ෂුඩ් චෙක් දි කන්ඩිෂන්ස් කෙයර්ෆුලි.",
-        "exampleReading": "Need to, should have and before/after clauses.",
+        "example": "A: Before signing a contract, we should check the conditions carefully.",
+        "exampleReading": "ඇ: බ්එෆ්ඔර්එ ස්ඉග්න්ඉං ඇ ක්ඔන්ට්ර්ඇක්ට්, ව්එ ෂ්අවුල්ඩ් ච්එක්ක් ත්එ ක්ඔන්ඩ්ඉෂන්ස් ක්ඇර්එෆ්අල්ල්යි.",
         "translation": "Before signing a contract, we should check the conditions carefully."
       },
       {
         "word": "landlord",
         "reading": "ලෑන්ඩ්ලෝර්ඩ්",
         "meaning": "නිවාස හිමියා",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: Before signing, we should also check the conditions for ending the agreement.",
+        "exampleReading": "බ්: බ්එෆ්ඔර්එ ස්ඉග්න්ඉං, ව්එ ෂ්අවුල්ඩ් ඇල්ස්ඔ ච්එක්ක් ත්එ ක්ඔන්ඩ්ඉෂන්ස් ෆ්ඔර් එන්ඩ්ඉං ත්එ ඇග්ර්ඊම්එන්ට්.",
+        "translation": "අත්සන් කිරීමට පෙර ගිවිසුම අවසන් කිරීමේ කොන්දේසිත් පරීක්ෂා කළ යුතුයි."
       },
       {
         "word": "tenant",
         "reading": "ටෙනන්ට්",
         "meaning": "කුලී නිවැසියා",
-        "example": "Based on the available information, we can make a better decision.",
-        "exampleReading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "example": "A: Is it important to have everything in writing?",
+        "exampleReading": "ඇ: ඉස් ඉට් ඉම්ප්ඔර්ට්ඇන්ට් ට්ඔ හ්ඇව්එ එව්එර්යිත්ඉං ඉන් ව්ර්ඉට්ඉං?",
+        "translation": "සියල්ල ලිඛිතව තිබීම වැදගත්ද?"
       },
       {
         "word": "contract",
         "reading": "කොන්ට්‍රැක්ට්",
         "meaning": "ගිවිසුම",
-        "example": "This approach has advantages, but possible risks should also be considered.",
-        "exampleReading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "example": "B: Yes, a written agreement protects both the tenant and the owner.",
+        "exampleReading": "බ්: යිඑස්, ඇ ව්ර්ඉට්ට්එන් ඇග්ර්ඊම්එන්ට් ප්ර්ඔට්එක්ට්ස් බ්ඔත් ත්එ ට්එන්ඇන්ට් ඇන්ඩ් ත්එ ඕන්එර්.",
+        "translation": "ඔව්, ලිඛිත ගිවිසුම කුලී නිවැසියාත් හිමිකරුත් ආරක්ෂා කරනවා."
       },
       {
         "word": "deposit",
         "reading": "ඩිපොසිට්",
         "meaning": "තැන්පතුව",
-        "example": "බිෆෝර් සයිනින් අ කොන්ට්‍රැක්ට් වී ෂුඩ් චෙක් දි කන්ඩිෂන්ස් කෙයර්ෆුලි.",
-        "exampleReading": "Need to, should have and before/after clauses.",
+        "example": "A: Before signing a contract, we should check the conditions carefully.",
+        "exampleReading": "ඇ: බ්එෆ්ඔර්එ ස්ඉග්න්ඉං ඇ ක්ඔන්ට්ර්ඇක්ට්, ව්එ ෂ්අවුල්ඩ් ච්එක්ක් ත්එ ක්ඔන්ඩ්ඉෂන්ස් ක්ඇර්එෆ්අල්ල්යි.",
         "translation": "Before signing a contract, we should check the conditions carefully."
       },
       {
         "word": "utility bill",
         "reading": "යූටිලිටි බිල්",
         "meaning": "උපයෝගිතා බිල්පත",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: Before signing, we should also check the conditions for ending the agreement.",
+        "exampleReading": "බ්: බ්එෆ්ඔර්එ ස්ඉග්න්ඉං, ව්එ ෂ්අවුල්ඩ් ඇල්ස්ඔ ච්එක්ක් ත්එ ක්ඔන්ඩ්ඉෂන්ස් ෆ්ඔර් එන්ඩ්ඉං ත්එ ඇග්ර්ඊම්එන්ට්.",
+        "translation": "අත්සන් කිරීමට පෙර ගිවිසුම අවසන් කිරීමේ කොන්දේසිත් පරීක්ෂා කළ යුතුයි."
       },
       {
         "word": "neighbour",
         "reading": "නේබර්",
         "meaning": "අසල්වැසියා",
-        "example": "Based on the available information, we can make a better decision.",
-        "exampleReading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "example": "A: Is it important to have everything in writing?",
+        "exampleReading": "ඇ: ඉස් ඉට් ඉම්ප්ඔර්ට්ඇන්ට් ට්ඔ හ්ඇව්එ එව්එර්යිත්ඉං ඉන් ව්ර්ඉට්ඉං?",
+        "translation": "සියල්ල ලිඛිතව තිබීම වැදගත්ද?"
       },
       {
         "word": "maintenance",
         "reading": "මේන්ටෙනන්ස්",
         "meaning": "නඩත්තුව",
-        "example": "This approach has advantages, but possible risks should also be considered.",
-        "exampleReading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "example": "B: Yes, a written agreement protects both the tenant and the owner.",
+        "exampleReading": "බ්: යිඑස්, ඇ ව්ර්ඉට්ට්එන් ඇග්ර්ඊම්එන්ට් ප්ර්ඔට්එක්ට්ස් බ්ඔත් ත්එ ට්එන්ඇන්ට් ඇන්ඩ් ත්එ ඕන්එර්.",
+        "translation": "ඔව්, ලිඛිත ගිවිසුම කුලී නිවැසියාත් හිමිකරුත් ආරක්ෂා කරනවා."
       }
     ],
     "grammarTitle": "Grammar",
@@ -6134,24 +6134,24 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "examples": [
       {
-        "text": "Before signing a contract, we should check the conditions carefully.",
-        "reading": "Need to, should have and before/after clauses.",
+        "text": "A: Before signing a contract, we should check the conditions carefully.",
+        "reading": "ඇ: බ්එෆ්ඔර්එ ස්ඉග්න්ඉං ඇ ක්ඔන්ට්ර්ඇක්ට්, ව්එ ෂ්අවුල්ඩ් ච්එක්ක් ත්එ ක්ඔන්ඩ්ඉෂන්ස් ක්ඇර්එෆ්අල්ල්යි.",
         "meaning": "Before signing a contract, we should check the conditions carefully."
       },
       {
-        "text": "It is important to consider all available options carefully.",
-        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "meaning": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "text": "B: Before signing, we should also check the conditions for ending the agreement.",
+        "reading": "බ්: බ්එෆ්ඔර්එ ස්ඉග්න්ඉං, ව්එ ෂ්අවුල්ඩ් ඇල්ස්ඔ ච්එක්ක් ත්එ ක්ඔන්ඩ්ඉෂන්ස් ෆ්ඔර් එන්ඩ්ඉං ත්එ ඇග්ර්ඊම්එන්ට්.",
+        "meaning": "අත්සන් කිරීමට පෙර ගිවිසුම අවසන් කිරීමේ කොන්දේසිත් පරීක්ෂා කළ යුතුයි."
       },
       {
-        "text": "Based on the available information, we can make a better decision.",
-        "reading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "meaning": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "text": "A: Is it important to have everything in writing?",
+        "reading": "ඇ: ඉස් ඉට් ඉම්ප්ඔර්ට්ඇන්ට් ට්ඔ හ්ඇව්එ එව්එර්යිත්ඉං ඉන් ව්ර්ඉට්ඉං?",
+        "meaning": "සියල්ල ලිඛිතව තිබීම වැදගත්ද?"
       },
       {
-        "text": "This approach has advantages, but possible risks should also be considered.",
-        "reading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "meaning": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "text": "B: Yes, a written agreement protects both the tenant and the owner.",
+        "reading": "බ්: යිඑස්, ඇ ව්ර්ඉට්ට්එන් ඇග්ර්ඊම්එන්ට් ප්ර්ඔට්එක්ට්ස් බ්ඔත් ත්එ ට්එන්ඇන්ට් ඇන්ඩ් ත්එ ඕන්එර්.",
+        "meaning": "ඔව්, ලිඛිත ගිවිසුම කුලී නිවැසියාත් හිමිකරුත් ආරක්ෂා කරනවා."
       }
     ],
     "dialogue": [
@@ -6240,65 +6240,65 @@ export const ENGLISH_B1_LESSONS = [
         "word": "infrastructure",
         "reading": "ඉන්ෆ්‍රාස්ට්‍රක්චර්",
         "meaning": "යටිතල පහසුකම්",
-        "example": "රිලයබල් පබ්ලික් ට්‍රාන්ස්පෝට් කෑන් රිඩියූස් කන්ජෙස්චන් ඉන් අ සිටි.",
-        "exampleReading": "Passive voice and modal verbs for public services.",
+        "example": "A: Reliable public transport can reduce congestion in a city.",
+        "exampleReading": "ඇ: ර්එල්ඉඇබ්ල්එ ප්අබ්ල්ඉක් ට්ර්ඇන්ස්ප්ඔර්ට් ක්ඇන් ර්එඩ්අක්එ ක්ඔංඑස්ෂන් ඉන් ඇ ක්ඉට්යි.",
         "translation": "Reliable public transport can reduce congestion in a city."
       },
       {
         "word": "congestion",
         "reading": "කන්ජෙස්චන්",
         "meaning": "වාහන තදබදය",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: That will help only if services are frequent and reliable.",
+        "exampleReading": "බ්: ත්ඇට් ව්ඉල්ල් හ්එල්ප් ඔන්ල්යි ඉෆ් ස්එර්ව්ඉක්එස් ඇර්එ ෆ්ර්එක්වඑන්ට් ඇන්ඩ් ර්එල්ඉඇබ්ල්එ.",
+        "translation": "ගමන් වාර නිතර සහ විශ්වාසදායක නම් පමණයි එය උපකාරී වෙන්නේ."
       },
       {
         "word": "route",
         "reading": "රූට්",
         "meaning": "මාර්ගය",
-        "example": "Based on the available information, we can make a better decision.",
-        "exampleReading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "example": "A: The city also plans to improve bus routes.",
+        "exampleReading": "ඇ: ත්එ ක්ඉට්යි ඇල්ස්ඔ ප්ල්ඇන්ස් ට්ඔ ඉම්ප්ර්ඔව්එ බ්අස් ර්අවුට්එස්.",
+        "translation": "නගරය බස් මාර්ගත් වැඩිදියුණු කිරීමට සැලසුම් කරනවා."
       },
       {
         "word": "subway",
         "reading": "සබ්වේ",
         "meaning": "භූගත දුම්රිය",
-        "example": "This approach has advantages, but possible risks should also be considered.",
-        "exampleReading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "example": "B: Well-connected routes make daily travel easier.",
+        "exampleReading": "බ්: ව්එල්ල්-ක්ඔන්න්එක්ට්එඩ් ර්අවුට්එස් ම්ඇක්එ ඩ්ඒල්යි ට්ර්ඇව්එල් ඊස්ඉඑර්.",
+        "translation": "හොඳින් සම්බන්ධ කළ මාර්ග දිනපතා ගමන් පහසු කරනවා."
       },
       {
         "word": "reliable",
         "reading": "රිලයබල්",
         "meaning": "විශ්වාසදායක",
-        "example": "රිලයබල් පබ්ලික් ට්‍රාන්ස්පෝට් කෑන් රිඩියූස් කන්ජෙස්චන් ඉන් අ සිටි.",
-        "exampleReading": "Passive voice and modal verbs for public services.",
+        "example": "A: Reliable public transport can reduce congestion in a city.",
+        "exampleReading": "ඇ: ර්එල්ඉඇබ්ල්එ ප්අබ්ල්ඉක් ට්ර්ඇන්ස්ප්ඔර්ට් ක්ඇන් ර්එඩ්අක්එ ක්ඔංඑස්ෂන් ඉන් ඇ ක්ඉට්යි.",
         "translation": "Reliable public transport can reduce congestion in a city."
       },
       {
         "word": "accessible",
         "reading": "ඇක්සෙසිබල්",
         "meaning": "ප්‍රවේශ විය හැකි",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: That will help only if services are frequent and reliable.",
+        "exampleReading": "බ්: ත්ඇට් ව්ඉල්ල් හ්එල්ප් ඔන්ල්යි ඉෆ් ස්එර්ව්ඉක්එස් ඇර්එ ෆ්ර්එක්වඑන්ට් ඇන්ඩ් ර්එල්ඉඇබ්ල්එ.",
+        "translation": "ගමන් වාර නිතර සහ විශ්වාසදායක නම් පමණයි එය උපකාරී වෙන්නේ."
       },
       {
         "word": "facility",
         "reading": "ෆසිලිටි",
         "meaning": "පහසුකම",
-        "example": "Based on the available information, we can make a better decision.",
-        "exampleReading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "example": "A: The city also plans to improve bus routes.",
+        "exampleReading": "ඇ: ත්එ ක්ඉට්යි ඇල්ස්ඔ ප්ල්ඇන්ස් ට්ඔ ඉම්ප්ර්ඔව්එ බ්අස් ර්අවුට්එස්.",
+        "translation": "නගරය බස් මාර්ගත් වැඩිදියුණු කිරීමට සැලසුම් කරනවා."
       },
       {
         "word": "construction",
         "reading": "කන්ස්ට්‍රක්ෂන්",
         "meaning": "ඉදිකිරීම",
-        "example": "This approach has advantages, but possible risks should also be considered.",
-        "exampleReading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "example": "B: Well-connected routes make daily travel easier.",
+        "exampleReading": "බ්: ව්එල්ල්-ක්ඔන්න්එක්ට්එඩ් ර්අවුට්එස් ම්ඇක්එ ඩ්ඒල්යි ට්ර්ඇව්එල් ඊස්ඉඑර්.",
+        "translation": "හොඳින් සම්බන්ධ කළ මාර්ග දිනපතා ගමන් පහසු කරනවා."
       }
     ],
     "grammarTitle": "Grammar",
@@ -6312,24 +6312,24 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "examples": [
       {
-        "text": "Reliable public transport can reduce congestion in a city.",
-        "reading": "Passive voice and modal verbs for public services.",
+        "text": "A: Reliable public transport can reduce congestion in a city.",
+        "reading": "ඇ: ර්එල්ඉඇබ්ල්එ ප්අබ්ල්ඉක් ට්ර්ඇන්ස්ප්ඔර්ට් ක්ඇන් ර්එඩ්අක්එ ක්ඔංඑස්ෂන් ඉන් ඇ ක්ඉට්යි.",
         "meaning": "Reliable public transport can reduce congestion in a city."
       },
       {
-        "text": "It is important to consider all available options carefully.",
-        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "meaning": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "text": "B: That will help only if services are frequent and reliable.",
+        "reading": "බ්: ත්ඇට් ව්ඉල්ල් හ්එල්ප් ඔන්ල්යි ඉෆ් ස්එර්ව්ඉක්එස් ඇර්එ ෆ්ර්එක්වඑන්ට් ඇන්ඩ් ර්එල්ඉඇබ්ල්එ.",
+        "meaning": "ගමන් වාර නිතර සහ විශ්වාසදායක නම් පමණයි එය උපකාරී වෙන්නේ."
       },
       {
-        "text": "Based on the available information, we can make a better decision.",
-        "reading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "meaning": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "text": "A: The city also plans to improve bus routes.",
+        "reading": "ඇ: ත්එ ක්ඉට්යි ඇල්ස්ඔ ප්ල්ඇන්ස් ට්ඔ ඉම්ප්ර්ඔව්එ බ්අස් ර්අවුට්එස්.",
+        "meaning": "නගරය බස් මාර්ගත් වැඩිදියුණු කිරීමට සැලසුම් කරනවා."
       },
       {
-        "text": "This approach has advantages, but possible risks should also be considered.",
-        "reading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "meaning": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "text": "B: Well-connected routes make daily travel easier.",
+        "reading": "බ්: ව්එල්ල්-ක්ඔන්න්එක්ට්එඩ් ර්අවුට්එස් ම්ඇක්එ ඩ්ඒල්යි ට්ර්ඇව්එල් ඊස්ඉඑර්.",
+        "meaning": "හොඳින් සම්බන්ධ කළ මාර්ග දිනපතා ගමන් පහසු කරනවා."
       }
     ],
     "dialogue": [
@@ -6418,65 +6418,65 @@ export const ENGLISH_B1_LESSONS = [
         "word": "climate",
         "reading": "ක්ලයිමට්",
         "meaning": "දේශගුණය",
-        "example": "ක්ලයිමට් චේන්ජ් රික්වයර්ස් ලෝන්ග් ටර්ම් ඇන්ඩ් ෂෙයර්ඩ් සලූෂන්ස්.",
-        "exampleReading": "Future forms and expressions of necessity and consequence.",
+        "example": "A: Climate change requires long-term and shared solutions.",
+        "exampleReading": "ඇ: ක්ල්ඉම්ඇට්එ ච්ඇංඑ ර්එක්වඉර්එස් ල්ඔං-ට්එර්ම් ඇන්ඩ් ෂ්ඇර්එඩ් ස්ඔල්අෂන්ස්.",
         "translation": "Climate change requires long-term and shared solutions."
       },
       {
         "word": "emission",
         "reading": "ඉමිෂන්",
         "meaning": "විමෝචනය",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: That is why we must save water and invest in sustainable solutions.",
+        "exampleReading": "බ්: ත්ඇට් ඉස් වයි ව්එ ම්අස්ට් ස්ඇව්එ ව්ඇට්එර් ඇන්ඩ් ඉන්ව්එස්ට් ඉන් ස්අස්ට්ඒන්ඇබ්ල්එ ස්ඔල්අෂන්ස්.",
+        "translation": "ඒ නිසා ජලය ඉතිරි කර තිරසාර විසඳුම් සඳහා ආයෝජනය කළ යුතුයි."
       },
       {
         "word": "renewable",
         "reading": "රිනියුවබල්",
         "meaning": "පුනර්ජනනීය",
-        "example": "Based on the available information, we can make a better decision.",
-        "exampleReading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "example": "A: Agriculture depends especially on available water.",
+        "exampleReading": "ඇ: ඇග්ර්ඉක්අල්ට්අර්එ ඩ්එප්එන්ඩ්ස් එස්ප්එක්ඉඇල්ල්යි ඔන් ඇව්ඒල්ඇබ්ල්එ ව්ඇට්එර්.",
+        "translation": "කෘෂිකර්මාන්තය ජලය ලබාගත හැකි වීම මත රඳා පවතිනවා."
       },
       {
         "word": "policy",
         "reading": "පොලිසි",
         "meaning": "ප්‍රතිපත්තිය",
-        "example": "This approach has advantages, but possible risks should also be considered.",
-        "exampleReading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "example": "B: Irrigation systems can reduce waste.",
+        "exampleReading": "බ්: ඉර්ර්ඉග්ඇෂන් ස්යිස්ට්එම්ස් ක්ඇන් ර්එඩ්අක්එ ව්ඇස්ට්එ.",
+        "translation": "වාරිමාර්ග පද්ධති මඟින් ජල නාස්තිය අඩු කළ හැකියි."
       },
       {
         "word": "drought",
         "reading": "ඩ්‍රවුට්",
         "meaning": "නියඟය",
-        "example": "ක්ලයිමට් චේන්ජ් රික්වයර්ස් ලෝන්ග් ටර්ම් ඇන්ඩ් ෂෙයර්ඩ් සලූෂන්ස්.",
-        "exampleReading": "Future forms and expressions of necessity and consequence.",
+        "example": "A: Climate change requires long-term and shared solutions.",
+        "exampleReading": "ඇ: ක්ල්ඉම්ඇට්එ ච්ඇංඑ ර්එක්වඉර්එස් ල්ඔං-ට්එර්ම් ඇන්ඩ් ෂ්ඇර්එඩ් ස්ඔල්අෂන්ස්.",
         "translation": "Climate change requires long-term and shared solutions."
       },
       {
         "word": "flood",
         "reading": "ෆ්ලඩ්",
         "meaning": "ගංවතුර",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: That is why we must save water and invest in sustainable solutions.",
+        "exampleReading": "බ්: ත්ඇට් ඉස් වයි ව්එ ම්අස්ට් ස්ඇව්එ ව්ඇට්එර් ඇන්ඩ් ඉන්ව්එස්ට් ඉන් ස්අස්ට්ඒන්ඇබ්ල්එ ස්ඔල්අෂන්ස්.",
+        "translation": "ඒ නිසා ජලය ඉතිරි කර තිරසාර විසඳුම් සඳහා ආයෝජනය කළ යුතුයි."
       },
       {
         "word": "conservation",
         "reading": "කන්සර්වේෂන්",
         "meaning": "සංරක්ෂණය",
-        "example": "Based on the available information, we can make a better decision.",
-        "exampleReading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "example": "A: Agriculture depends especially on available water.",
+        "exampleReading": "ඇ: ඇග්ර්ඉක්අල්ට්අර්එ ඩ්එප්එන්ඩ්ස් එස්ප්එක්ඉඇල්ල්යි ඔන් ඇව්ඒල්ඇබ්ල්එ ව්ඇට්එර්.",
+        "translation": "කෘෂිකර්මාන්තය ජලය ලබාගත හැකි වීම මත රඳා පවතිනවා."
       },
       {
         "word": "impact",
         "reading": "ඉම්පැක්ට්",
         "meaning": "බලපෑම",
-        "example": "This approach has advantages, but possible risks should also be considered.",
-        "exampleReading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "example": "B: Irrigation systems can reduce waste.",
+        "exampleReading": "බ්: ඉර්ර්ඉග්ඇෂන් ස්යිස්ට්එම්ස් ක්ඇන් ර්එඩ්අක්එ ව්ඇස්ට්එ.",
+        "translation": "වාරිමාර්ග පද්ධති මඟින් ජල නාස්තිය අඩු කළ හැකියි."
       }
     ],
     "grammarTitle": "Grammar",
@@ -6490,24 +6490,24 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "examples": [
       {
-        "text": "Climate change requires long-term and shared solutions.",
-        "reading": "Future forms and expressions of necessity and consequence.",
+        "text": "A: Climate change requires long-term and shared solutions.",
+        "reading": "ඇ: ක්ල්ඉම්ඇට්එ ච්ඇංඑ ර්එක්වඉර්එස් ල්ඔං-ට්එර්ම් ඇන්ඩ් ෂ්ඇර්එඩ් ස්ඔල්අෂන්ස්.",
         "meaning": "Climate change requires long-term and shared solutions."
       },
       {
-        "text": "It is important to consider all available options carefully.",
-        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "meaning": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "text": "B: That is why we must save water and invest in sustainable solutions.",
+        "reading": "බ්: ත්ඇට් ඉස් වයි ව්එ ම්අස්ට් ස්ඇව්එ ව්ඇට්එර් ඇන්ඩ් ඉන්ව්එස්ට් ඉන් ස්අස්ට්ඒන්ඇබ්ල්එ ස්ඔල්අෂන්ස්.",
+        "meaning": "ඒ නිසා ජලය ඉතිරි කර තිරසාර විසඳුම් සඳහා ආයෝජනය කළ යුතුයි."
       },
       {
-        "text": "Based on the available information, we can make a better decision.",
-        "reading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "meaning": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "text": "A: Agriculture depends especially on available water.",
+        "reading": "ඇ: ඇග්ර්ඉක්අල්ට්අර්එ ඩ්එප්එන්ඩ්ස් එස්ප්එක්ඉඇල්ල්යි ඔන් ඇව්ඒල්ඇබ්ල්එ ව්ඇට්එර්.",
+        "meaning": "කෘෂිකර්මාන්තය ජලය ලබාගත හැකි වීම මත රඳා පවතිනවා."
       },
       {
-        "text": "This approach has advantages, but possible risks should also be considered.",
-        "reading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "meaning": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "text": "B: Irrigation systems can reduce waste.",
+        "reading": "බ්: ඉර්ර්ඉග්ඇෂන් ස්යිස්ට්එම්ස් ක්ඇන් ර්එඩ්අක්එ ව්ඇස්ට්එ.",
+        "meaning": "වාරිමාර්ග පද්ධති මඟින් ජල නාස්තිය අඩු කළ හැකියි."
       }
     ],
     "dialogue": [
@@ -6596,65 +6596,65 @@ export const ENGLISH_B1_LESSONS = [
         "word": "nutrition",
         "reading": "න්‍යූට්‍රිෂන්",
         "meaning": "පෝෂණය",
-        "example": "ඊටින් හැබිට්ස් ඔෆන් රිෆ්ලෙක්ට් අ ෆැමිලිස් කල්චර් ඇන්ඩ් ට්‍රඩිෂන්.",
-        "exampleReading": "Frequency adverbs and relative clauses.",
+        "example": "A: Eating habits often reflect a family's culture and tradition.",
+        "exampleReading": "ඇ: ඊට්ඉං හ්ඇබ්ඉට්ස් ඔෆ්ට්එන් ර්එෆ්ල්එක්ට් ඇ ෆ්ඇම්ඉල්යි'ස් ක්අල්ට්අර්එ ඇන්ඩ් ට්ර්ඇඩ්ඉෂන්.",
         "translation": "Eating habits often reflect a family's culture and tradition."
       },
       {
         "word": "ingredient",
         "reading": "ඉන්ග්‍රීඩියන්ට්",
         "meaning": "අමුද්‍රව්‍යය",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: It is good that we can buy fresh food from local producers.",
+        "exampleReading": "බ්: ඉට් ඉස් ග්උඩ් ත්ඇට් ව්එ ක්ඇන් බ්අයි ෆ්ර්එෂ් ෆ්උඩ් ෆ්ර්ඔම් ල්ඔක්ඇල් ප්ර්ඔඩ්අක්එර්ස්.",
+        "translation": "දේශීය නිෂ්පාදකයන්ගෙන් නැවුම් ආහාර මිලදී ගැනීමට හැකිවීම හොඳයි."
       },
       {
         "word": "recipe",
         "reading": "රෙසිපි",
         "meaning": "වට්ටෝරුව",
-        "example": "Based on the available information, we can make a better decision.",
-        "exampleReading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "example": "A: This also supports small family businesses.",
+        "exampleReading": "ඇ: ත්ඉස් ඇල්ස්ඔ ස්අප්ප්ඔර්ට්ස් ස්ම්ඇල්ල් ෆ්ඇම්ඉල්යි බ්අස්ඉන්එස්ස්එස්.",
+        "translation": "එමඟින් කුඩා පවුල් ව්‍යාපාරවලටත් සහාය ලැබෙනවා."
       },
       {
         "word": "portion",
         "reading": "පෝෂන්",
         "meaning": "ආහාර ප්‍රමාණය",
-        "example": "This approach has advantages, but possible risks should also be considered.",
-        "exampleReading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "example": "B: And we often learn how the food is produced.",
+        "exampleReading": "බ්: ඇන්ඩ් ව්එ ඔෆ්ට්එන් ල්ඊර්න් හ්ඕ ත්එ ෆ්උඩ් ඉස් ප්ර්ඔඩ්අක්එඩ්.",
+        "translation": "ආහාර නිෂ්පාදනය කරන ආකාරයත් දැනගන්න ලැබෙනවා."
       },
       {
         "word": "diet",
         "reading": "ඩයට්",
         "meaning": "ආහාර රටාව",
-        "example": "ඊටින් හැබිට්ස් ඔෆන් රිෆ්ලෙක්ට් අ ෆැමිලිස් කල්චර් ඇන්ඩ් ට්‍රඩිෂන්.",
-        "exampleReading": "Frequency adverbs and relative clauses.",
+        "example": "A: Eating habits often reflect a family's culture and tradition.",
+        "exampleReading": "ඇ: ඊට්ඉං හ්ඇබ්ඉට්ස් ඔෆ්ට්එන් ර්එෆ්ල්එක්ට් ඇ ෆ්ඇම්ඉල්යි'ස් ක්අල්ට්අර්එ ඇන්ඩ් ට්ර්ඇඩ්ඉෂන්.",
         "translation": "Eating habits often reflect a family's culture and tradition."
       },
       {
         "word": "flavour",
         "reading": "ෆ්ලේවර්",
         "meaning": "රසය",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: It is good that we can buy fresh food from local producers.",
+        "exampleReading": "බ්: ඉට් ඉස් ග්උඩ් ත්ඇට් ව්එ ක්ඇන් බ්අයි ෆ්ර්එෂ් ෆ්උඩ් ෆ්ර්ඔම් ල්ඔක්ඇල් ප්ර්ඔඩ්අක්එර්ස්.",
+        "translation": "දේශීය නිෂ්පාදකයන්ගෙන් නැවුම් ආහාර මිලදී ගැනීමට හැකිවීම හොඳයි."
       },
       {
         "word": "traditional",
         "reading": "ට්‍රඩිෂනල්",
         "meaning": "සාම්ප්‍රදායික",
-        "example": "Based on the available information, we can make a better decision.",
-        "exampleReading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "example": "A: This also supports small family businesses.",
+        "exampleReading": "ඇ: ත්ඉස් ඇල්ස්ඔ ස්අප්ප්ඔර්ට්ස් ස්ම්ඇල්ල් ෆ්ඇම්ඉල්යි බ්අස්ඉන්එස්ස්එස්.",
+        "translation": "එමඟින් කුඩා පවුල් ව්‍යාපාරවලටත් සහාය ලැබෙනවා."
       },
       {
         "word": "ingredient list",
         "reading": "ඉන්ග්‍රීඩියන්ට් ලිස්ට්",
         "meaning": "අමුද්‍රව්‍ය ලැයිස්තුව",
-        "example": "This approach has advantages, but possible risks should also be considered.",
-        "exampleReading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "example": "B: And we often learn how the food is produced.",
+        "exampleReading": "බ්: ඇන්ඩ් ව්එ ඔෆ්ට්එන් ල්ඊර්න් හ්ඕ ත්එ ෆ්උඩ් ඉස් ප්ර්ඔඩ්අක්එඩ්.",
+        "translation": "ආහාර නිෂ්පාදනය කරන ආකාරයත් දැනගන්න ලැබෙනවා."
       }
     ],
     "grammarTitle": "Grammar",
@@ -6668,24 +6668,24 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "examples": [
       {
-        "text": "Eating habits often reflect a family's culture and tradition.",
-        "reading": "Frequency adverbs and relative clauses.",
+        "text": "A: Eating habits often reflect a family's culture and tradition.",
+        "reading": "ඇ: ඊට්ඉං හ්ඇබ්ඉට්ස් ඔෆ්ට්එන් ර්එෆ්ල්එක්ට් ඇ ෆ්ඇම්ඉල්යි'ස් ක්අල්ට්අර්එ ඇන්ඩ් ට්ර්ඇඩ්ඉෂන්.",
         "meaning": "Eating habits often reflect a family's culture and tradition."
       },
       {
-        "text": "It is important to consider all available options carefully.",
-        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "meaning": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "text": "B: It is good that we can buy fresh food from local producers.",
+        "reading": "බ්: ඉට් ඉස් ග්උඩ් ත්ඇට් ව්එ ක්ඇන් බ්අයි ෆ්ර්එෂ් ෆ්උඩ් ෆ්ර්ඔම් ල්ඔක්ඇල් ප්ර්ඔඩ්අක්එර්ස්.",
+        "meaning": "දේශීය නිෂ්පාදකයන්ගෙන් නැවුම් ආහාර මිලදී ගැනීමට හැකිවීම හොඳයි."
       },
       {
-        "text": "Based on the available information, we can make a better decision.",
-        "reading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "meaning": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "text": "A: This also supports small family businesses.",
+        "reading": "ඇ: ත්ඉස් ඇල්ස්ඔ ස්අප්ප්ඔර්ට්ස් ස්ම්ඇල්ල් ෆ්ඇම්ඉල්යි බ්අස්ඉන්එස්ස්එස්.",
+        "meaning": "එමඟින් කුඩා පවුල් ව්‍යාපාරවලටත් සහාය ලැබෙනවා."
       },
       {
-        "text": "This approach has advantages, but possible risks should also be considered.",
-        "reading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "meaning": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "text": "B: And we often learn how the food is produced.",
+        "reading": "බ්: ඇන්ඩ් ව්එ ඔෆ්ට්එන් ල්ඊර්න් හ්ඕ ත්එ ෆ්උඩ් ඉස් ප්ර්ඔඩ්අක්එඩ්.",
+        "meaning": "ආහාර නිෂ්පාදනය කරන ආකාරයත් දැනගන්න ලැබෙනවා."
       }
     ],
     "dialogue": [
@@ -6774,65 +6774,65 @@ export const ENGLISH_B1_LESSONS = [
         "word": "goal",
         "reading": "ගෝල්",
         "meaning": "ඉලක්කය",
-        "example": "සෙටින් ක්ලියර් ගෝල්ස් හෙල්ප්ස් අස් ට්‍රැක් අවර් ප්‍රොග්‍රෙස්.",
-        "exampleReading": "Infinitives and future perfect for targets and deadlines.",
+        "example": "A: Setting clear goals helps us track our progress.",
+        "exampleReading": "ඇ: ස්එට්ට්ඉං ක්ල්ඊර් ග්ඔඇල්ස් හ්එල්ප්ස් අස් ට්ර්ඇක්ක් අවුර් ප්ර්ඔග්ර්එස්ස්.",
         "translation": "Setting clear goals helps us track our progress."
       },
       {
         "word": "milestone",
         "reading": "මයිල්ස්ටෝන්",
         "meaning": "වැදගත් අදියර",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: Divide the goal into smaller steps and set a deadline for each one.",
+        "exampleReading": "බ්: ඩ්ඉව්ඉඩ්එ ත්එ ග්ඔඇල් ඉන්ට්ඔ ස්ම්ඇල්ල්එර් ස්ට්එප්ස් ඇන්ඩ් ස්එට් ඇ ඩ්ඊඩ්ල්ඉන්එ ෆ්ඔර් ඊච් ඔන්එ.",
+        "translation": "ඉලක්කය කුඩා පියවරවලට බෙදා එක් එක් පියවරට කාලසීමාවක් දාන්න."
       },
       {
         "word": "target",
         "reading": "ටාගට්",
         "meaning": "ඉලක්කය",
-        "example": "Based on the available information, we can make a better decision.",
-        "exampleReading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "example": "A: That will help me track my progress more easily.",
+        "exampleReading": "ඇ: ත්ඇට් ව්ඉල්ල් හ්එල්ප් ම්එ ට්ර්ඇක්ක් ම්යි ප්ර්ඔග්ර්එස්ස් ම්ඔර්එ ඊස්ඉල්යි.",
+        "translation": "එවිට මගේ ප්‍රගතිය පහසුවෙන් නිරීක්ෂණය කළ හැකියි."
       },
       {
         "word": "progress",
         "reading": "ප්‍රොග්‍රෙස්",
         "meaning": "ප්‍රගතිය",
-        "example": "This approach has advantages, but possible risks should also be considered.",
-        "exampleReading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "example": "B: Regular revision will help you remember the material.",
+        "exampleReading": "බ්: ර්එග්අල්ඇර් ර්එව්ඉස්ඉඔන් ව්ඉල්ල් හ්එල්ප් යිඅවු ර්එම්එම්බ්එර් ත්එ ම්ඇට්එර්ඉඇල්.",
+        "translation": "නිතිපතා නැවත අධ්‍යයනය කිරීම පාඩම් මතක තබාගන්න උදව් වේවි."
       },
       {
         "word": "achieve",
         "reading": "අචීව්",
         "meaning": "ළඟා වෙනවා",
-        "example": "සෙටින් ක්ලියර් ගෝල්ස් හෙල්ප්ස් අස් ට්‍රැක් අවර් ප්‍රොග්‍රෙස්.",
-        "exampleReading": "Infinitives and future perfect for targets and deadlines.",
+        "example": "A: Setting clear goals helps us track our progress.",
+        "exampleReading": "ඇ: ස්එට්ට්ඉං ක්ල්ඊර් ග්ඔඇල්ස් හ්එල්ප්ස් අස් ට්ර්ඇක්ක් අවුර් ප්ර්ඔග්ර්එස්ස්.",
         "translation": "Setting clear goals helps us track our progress."
       },
       {
         "word": "deadline",
         "reading": "ඩෙඩ්ලයින්",
         "meaning": "අවසන් දිනය",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: Divide the goal into smaller steps and set a deadline for each one.",
+        "exampleReading": "බ්: ඩ්ඉව්ඉඩ්එ ත්එ ග්ඔඇල් ඉන්ට්ඔ ස්ම්ඇල්ල්එර් ස්ට්එප්ස් ඇන්ඩ් ස්එට් ඇ ඩ්ඊඩ්ල්ඉන්එ ෆ්ඔර් ඊච් ඔන්එ.",
+        "translation": "ඉලක්කය කුඩා පියවරවලට බෙදා එක් එක් පියවරට කාලසීමාවක් දාන්න."
       },
       {
         "word": "plan",
         "reading": "ප්ලෑන්",
         "meaning": "සැලැස්ම",
-        "example": "Based on the available information, we can make a better decision.",
-        "exampleReading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "example": "A: That will help me track my progress more easily.",
+        "exampleReading": "ඇ: ත්ඇට් ව්ඉල්ල් හ්එල්ප් ම්එ ට්ර්ඇක්ක් ම්යි ප්ර්ඔග්ර්එස්ස් ම්ඔර්එ ඊස්ඉල්යි.",
+        "translation": "එවිට මගේ ප්‍රගතිය පහසුවෙන් නිරීක්ෂණය කළ හැකියි."
       },
       {
         "word": "motivation",
         "reading": "මෝටිවේෂන්",
         "meaning": "අභිප්‍රේරණය",
-        "example": "This approach has advantages, but possible risks should also be considered.",
-        "exampleReading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "example": "B: Regular revision will help you remember the material.",
+        "exampleReading": "බ්: ර්එග්අල්ඇර් ර්එව්ඉස්ඉඔන් ව්ඉල්ල් හ්එල්ප් යිඅවු ර්එම්එම්බ්එර් ත්එ ම්ඇට්එර්ඉඇල්.",
+        "translation": "නිතිපතා නැවත අධ්‍යයනය කිරීම පාඩම් මතක තබාගන්න උදව් වේවි."
       }
     ],
     "grammarTitle": "Grammar",
@@ -6846,24 +6846,24 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "examples": [
       {
-        "text": "Setting clear goals helps us track our progress.",
-        "reading": "Infinitives and future perfect for targets and deadlines.",
+        "text": "A: Setting clear goals helps us track our progress.",
+        "reading": "ඇ: ස්එට්ට්ඉං ක්ල්ඊර් ග්ඔඇල්ස් හ්එල්ප්ස් අස් ට්ර්ඇක්ක් අවුර් ප්ර්ඔග්ර්එස්ස්.",
         "meaning": "Setting clear goals helps us track our progress."
       },
       {
-        "text": "It is important to consider all available options carefully.",
-        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "meaning": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "text": "B: Divide the goal into smaller steps and set a deadline for each one.",
+        "reading": "බ්: ඩ්ඉව්ඉඩ්එ ත්එ ග්ඔඇල් ඉන්ට්ඔ ස්ම්ඇල්ල්එර් ස්ට්එප්ස් ඇන්ඩ් ස්එට් ඇ ඩ්ඊඩ්ල්ඉන්එ ෆ්ඔර් ඊච් ඔන්එ.",
+        "meaning": "ඉලක්කය කුඩා පියවරවලට බෙදා එක් එක් පියවරට කාලසීමාවක් දාන්න."
       },
       {
-        "text": "Based on the available information, we can make a better decision.",
-        "reading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "meaning": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "text": "A: That will help me track my progress more easily.",
+        "reading": "ඇ: ත්ඇට් ව්ඉල්ල් හ්එල්ප් ම්එ ට්ර්ඇක්ක් ම්යි ප්ර්ඔග්ර්එස්ස් ම්ඔර්එ ඊස්ඉල්යි.",
+        "meaning": "එවිට මගේ ප්‍රගතිය පහසුවෙන් නිරීක්ෂණය කළ හැකියි."
       },
       {
-        "text": "This approach has advantages, but possible risks should also be considered.",
-        "reading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "meaning": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "text": "B: Regular revision will help you remember the material.",
+        "reading": "බ්: ර්එග්අල්ඇර් ර්එව්ඉස්ඉඔන් ව්ඉල්ල් හ්එල්ප් යිඅවු ර්එම්එම්බ්එර් ත්එ ම්ඇට්එර්ඉඇල්.",
+        "meaning": "නිතිපතා නැවත අධ්‍යයනය කිරීම පාඩම් මතක තබාගන්න උදව් වේවි."
       }
     ],
     "dialogue": [
@@ -6952,65 +6952,65 @@ export const ENGLISH_B1_LESSONS = [
         "word": "booking",
         "reading": "බුකින්",
         "meaning": "වෙන්කිරීම",
-        "example": "ඉෆ් දි සර්විස් ඩස් නොට් මැච් දි බුකින් වී කෑන් රික්වෙස්ට් අ සලූෂන්.",
-        "exampleReading": "Conditionals and polite indirect requests.",
+        "example": "A: If the service does not match the booking, we can request a solution.",
+        "exampleReading": "ඇ: ඉෆ් ත්එ ස්එර්ව්ඉක්එ ඩ්ඔඑස් න්ඔට් ම්ඇට්ච් ත්එ බ්උක්ඉං, ව්එ ක්ඇන් ර්එක්වඑස්ට් ඇ ස්ඔල්අෂන්.",
         "translation": "If the service does not match the booking, we can request a solution."
       },
       {
         "word": "complaint",
         "reading": "කම්ප්ලේන්ට්",
         "meaning": "පැමිණිල්ල",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: Keep the booking confirmation and submit a written complaint immediately.",
+        "exampleReading": "බ්: ක්ඊප් ත්එ බ්උක්ඉං ක්ඔන්ෆ්ඉර්ම්ඇෂන් ඇන්ඩ් ස්අබ්ම්ඉට් ඇ ව්ර්ඉට්ට්එන් ක්ඔම්ප්ල්ඒන්ට් ඉම්ම්එඩ්ඉඇට්එල්යි.",
+        "translation": "වෙන්කිරීමේ තහවුරු කිරීම තබාගෙන වහාම ලිඛිත පැමිණිල්ලක් ඉදිරිපත් කරන්න."
       },
       {
         "word": "service",
         "reading": "සර්විස්",
         "meaning": "සේවාව",
-        "example": "Based on the available information, we can make a better decision.",
-        "exampleReading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "example": "A: Should I also ask for a refund?",
+        "exampleReading": "ඇ: ෂ්අවුල්ඩ් ඉ ඇල්ස්ඔ ඇස්ක් ෆ්ඔර් ඇ ර්එෆ්අන්ඩ්?",
+        "translation": "මුදල් ආපසු ඉල්ලන්නත් ඕනද?"
       },
       {
         "word": "compensation",
         "reading": "කම්පෙන්සේෂන්",
         "meaning": "වන්දි",
-        "example": "This approach has advantages, but possible risks should also be considered.",
-        "exampleReading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "example": "B: First ask for an explanation and suggest a reasonable solution.",
+        "exampleReading": "බ්: ෆ්ඉර්ස්ට් ඇස්ක් ෆ්ඔර් ඇන් එක්ස්ප්ල්ඇන්ඇෂන් ඇන්ඩ් ස්අග්ග්එස්ට් ඇ ර්ඊස්ඔන්ඇබ්ල්එ ස්ඔල්අෂන්.",
+        "translation": "මුලින්ම පැහැදිලි කිරීමක් ඉල්ලා සාධාරණ විසඳුමක් යෝජනා කරන්න."
       },
       {
         "word": "confirmation",
         "reading": "කන්ෆර්මේෂන්",
         "meaning": "තහවුරු කිරීම",
-        "example": "ඉෆ් දි සර්විස් ඩස් නොට් මැච් දි බුකින් වී කෑන් රික්වෙස්ට් අ සලූෂන්.",
-        "exampleReading": "Conditionals and polite indirect requests.",
+        "example": "A: If the service does not match the booking, we can request a solution.",
+        "exampleReading": "ඇ: ඉෆ් ත්එ ස්එර්ව්ඉක්එ ඩ්ඔඑස් න්ඔට් ම්ඇට්ච් ත්එ බ්උක්ඉං, ව්එ ක්ඇන් ර්එක්වඑස්ට් ඇ ස්ඔල්අෂන්.",
         "translation": "If the service does not match the booking, we can request a solution."
       },
       {
         "word": "cancellation",
         "reading": "කැන්සලේෂන්",
         "meaning": "අවලංගු කිරීම",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: Keep the booking confirmation and submit a written complaint immediately.",
+        "exampleReading": "බ්: ක්ඊප් ත්එ බ්උක්ඉං ක්ඔන්ෆ්ඉර්ම්ඇෂන් ඇන්ඩ් ස්අබ්ම්ඉට් ඇ ව්ර්ඉට්ට්එන් ක්ඔම්ප්ල්ඒන්ට් ඉම්ම්එඩ්ඉඇට්එල්යි.",
+        "translation": "වෙන්කිරීමේ තහවුරු කිරීම තබාගෙන වහාම ලිඛිත පැමිණිල්ලක් ඉදිරිපත් කරන්න."
       },
       {
         "word": "alternative",
         "reading": "අල්ටර්නටිව්",
         "meaning": "විකල්පය",
-        "example": "Based on the available information, we can make a better decision.",
-        "exampleReading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "example": "A: Should I also ask for a refund?",
+        "exampleReading": "ඇ: ෂ්අවුල්ඩ් ඉ ඇල්ස්ඔ ඇස්ක් ෆ්ඔර් ඇ ර්එෆ්අන්ඩ්?",
+        "translation": "මුදල් ආපසු ඉල්ලන්නත් ඕනද?"
       },
       {
         "word": "customer service",
         "reading": "කස්ටමර් සර්විස්",
         "meaning": "පාරිභෝගික සේවාව",
-        "example": "This approach has advantages, but possible risks should also be considered.",
-        "exampleReading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "example": "B: First ask for an explanation and suggest a reasonable solution.",
+        "exampleReading": "බ්: ෆ්ඉර්ස්ට් ඇස්ක් ෆ්ඔර් ඇන් එක්ස්ප්ල්ඇන්ඇෂන් ඇන්ඩ් ස්අග්ග්එස්ට් ඇ ර්ඊස්ඔන්ඇබ්ල්එ ස්ඔල්අෂන්.",
+        "translation": "මුලින්ම පැහැදිලි කිරීමක් ඉල්ලා සාධාරණ විසඳුමක් යෝජනා කරන්න."
       }
     ],
     "grammarTitle": "Grammar",
@@ -7024,24 +7024,24 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "examples": [
       {
-        "text": "If the service does not match the booking, we can request a solution.",
-        "reading": "Conditionals and polite indirect requests.",
+        "text": "A: If the service does not match the booking, we can request a solution.",
+        "reading": "ඇ: ඉෆ් ත්එ ස්එර්ව්ඉක්එ ඩ්ඔඑස් න්ඔට් ම්ඇට්ච් ත්එ බ්උක්ඉං, ව්එ ක්ඇන් ර්එක්වඑස්ට් ඇ ස්ඔල්අෂන්.",
         "meaning": "If the service does not match the booking, we can request a solution."
       },
       {
-        "text": "It is important to consider all available options carefully.",
-        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "meaning": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "text": "B: Keep the booking confirmation and submit a written complaint immediately.",
+        "reading": "බ්: ක්ඊප් ත්එ බ්උක්ඉං ක්ඔන්ෆ්ඉර්ම්ඇෂන් ඇන්ඩ් ස්අබ්ම්ඉට් ඇ ව්ර්ඉට්ට්එන් ක්ඔම්ප්ල්ඒන්ට් ඉම්ම්එඩ්ඉඇට්එල්යි.",
+        "meaning": "වෙන්කිරීමේ තහවුරු කිරීම තබාගෙන වහාම ලිඛිත පැමිණිල්ලක් ඉදිරිපත් කරන්න."
       },
       {
-        "text": "Based on the available information, we can make a better decision.",
-        "reading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "meaning": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "text": "A: Should I also ask for a refund?",
+        "reading": "ඇ: ෂ්අවුල්ඩ් ඉ ඇල්ස්ඔ ඇස්ක් ෆ්ඔර් ඇ ර්එෆ්අන්ඩ්?",
+        "meaning": "මුදල් ආපසු ඉල්ලන්නත් ඕනද?"
       },
       {
-        "text": "This approach has advantages, but possible risks should also be considered.",
-        "reading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "meaning": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "text": "B: First ask for an explanation and suggest a reasonable solution.",
+        "reading": "බ්: ෆ්ඉර්ස්ට් ඇස්ක් ෆ්ඔර් ඇන් එක්ස්ප්ල්ඇන්ඇෂන් ඇන්ඩ් ස්අග්ග්එස්ට් ඇ ර්ඊස්ඔන්ඇබ්ල්එ ස්ඔල්අෂන්.",
+        "meaning": "මුලින්ම පැහැදිලි කිරීමක් ඉල්ලා සාධාරණ විසඳුමක් යෝජනා කරන්න."
       }
     ],
     "dialogue": [
@@ -7130,65 +7130,65 @@ export const ENGLISH_B1_LESSONS = [
         "word": "body language",
         "reading": "බොඩි ලැංග්විජ්",
         "meaning": "ශරීර භාෂාව",
-        "example": "ක්ලියර් කමියුනිකේෂන් ඩිපෙන්ඩ්ස් ඔන් වර්ඩ්ස් ඇන්ඩ් දි වේ වී සේ දෙම්.",
-        "exampleReading": "Reported speech and adverbs describing communication.",
+        "example": "A: Clear communication depends on words and the way we say them.",
+        "exampleReading": "ඇ: ක්ල්ඊර් ක්ඔම්ම්අන්ඉක්ඇෂන් ඩ්එප්එන්ඩ්ස් ඔන් ව්ඔර්ඩ්ස් ඇන්ඩ් ත්එ ව්ඒ ව්එ ස්ඒ ත්එම්.",
         "translation": "Clear communication depends on words and the way we say them."
       },
       {
         "word": "gesture",
         "reading": "ජෙස්චර්",
         "meaning": "අංග චලනය",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: It is best to calmly explain what you actually meant to say.",
+        "exampleReading": "බ්: ඉට් ඉස් බ්එස්ට් ට්ඔ ක්ඇල්ම්ල්යි එක්ස්ප්ල්ඒන් වඇට් යිඅවු ඇක්ට්අඇල්ල්යි ම්ඊන්ට් ට්ඔ ස්ඒ.",
+        "translation": "ඔබ අදහස් කළේ කුමක්දැයි සන්සුන්ව පැහැදිලි කිරීම හොඳම ක්‍රමයයි."
       },
       {
         "word": "tone",
         "reading": "ටෝන්",
         "meaning": "හඬේ ස්වරය",
-        "example": "Based on the available information, we can make a better decision.",
-        "exampleReading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "example": "A: I should have checked earlier whether he understood me.",
+        "exampleReading": "ඇ: ඉ ෂ්අවුල්ඩ් හ්ඇව්එ ච්එක්ක්එඩ් ඊර්ල්ඉඑර් වඑත්එර් හ්එ අන්ඩ්එර්ස්ට්උඩ් ම්එ.",
+        "translation": "ඔහු මාව තේරුම් ගත්තාද කියලා කලින්ම පරීක්ෂා කළ යුතුව තිබුණා."
       },
       {
         "word": "expression",
         "reading": "එක්ස්ප්‍රෙෂන්",
         "meaning": "ප්‍රකාශනය",
-        "example": "This approach has advantages, but possible risks should also be considered.",
-        "exampleReading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "example": "B: An open question often prevents another misunderstanding.",
+        "exampleReading": "බ්: ඇන් ඔප්එන් ක්වඑස්ෂන් ඔෆ්ට්එන් ප්ර්එව්එන්ට්ස් ඇන්ඔත්එර් ම්ඉස්අන්ඩ්එර්ස්ට්ඇන්ඩ්ඉං.",
+        "translation": "විවෘත ප්‍රශ්නයක් ඇසීමෙන් තවත් වැරදි අවබෝධයක් වළක්වාගත හැකියි."
       },
       {
         "word": "misunderstanding",
         "reading": "මිස්අන්ඩර්ස්ටෑන්ඩින්",
         "meaning": "වැරදි අවබෝධය",
-        "example": "ක්ලියර් කමියුනිකේෂන් ඩිපෙන්ඩ්ස් ඔන් වර්ඩ්ස් ඇන්ඩ් දි වේ වී සේ දෙම්.",
-        "exampleReading": "Reported speech and adverbs describing communication.",
+        "example": "A: Clear communication depends on words and the way we say them.",
+        "exampleReading": "ඇ: ක්ල්ඊර් ක්ඔම්ම්අන්ඉක්ඇෂන් ඩ්එප්එන්ඩ්ස් ඔන් ව්ඔර්ඩ්ස් ඇන්ඩ් ත්එ ව්ඒ ව්එ ස්ඒ ත්එම්.",
         "translation": "Clear communication depends on words and the way we say them."
       },
       {
         "word": "feedback",
         "reading": "ෆීඩ්බැක්",
         "meaning": "ප්‍රතිචාරය",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: It is best to calmly explain what you actually meant to say.",
+        "exampleReading": "බ්: ඉට් ඉස් බ්එස්ට් ට්ඔ ක්ඇල්ම්ල්යි එක්ස්ප්ල්ඒන් වඇට් යිඅවු ඇක්ට්අඇල්ල්යි ම්ඊන්ට් ට්ඔ ස්ඒ.",
+        "translation": "ඔබ අදහස් කළේ කුමක්දැයි සන්සුන්ව පැහැදිලි කිරීම හොඳම ක්‍රමයයි."
       },
       {
         "word": "polite",
         "reading": "පොලයිට්",
         "meaning": "ආචාරශීලී",
-        "example": "Based on the available information, we can make a better decision.",
-        "exampleReading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "example": "A: I should have checked earlier whether he understood me.",
+        "exampleReading": "ඇ: ඉ ෂ්අවුල්ඩ් හ්ඇව්එ ච්එක්ක්එඩ් ඊර්ල්ඉඑර් වඑත්එර් හ්එ අන්ඩ්එර්ස්ට්උඩ් ම්එ.",
+        "translation": "ඔහු මාව තේරුම් ගත්තාද කියලා කලින්ම පරීක්ෂා කළ යුතුව තිබුණා."
       },
       {
         "word": "clarify",
         "reading": "ක්ලැරිෆයි",
         "meaning": "පැහැදිලි කරනවා",
-        "example": "This approach has advantages, but possible risks should also be considered.",
-        "exampleReading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "example": "B: An open question often prevents another misunderstanding.",
+        "exampleReading": "බ්: ඇන් ඔප්එන් ක්වඑස්ෂන් ඔෆ්ට්එන් ප්ර්එව්එන්ට්ස් ඇන්ඔත්එර් ම්ඉස්අන්ඩ්එර්ස්ට්ඇන්ඩ්ඉං.",
+        "translation": "විවෘත ප්‍රශ්නයක් ඇසීමෙන් තවත් වැරදි අවබෝධයක් වළක්වාගත හැකියි."
       }
     ],
     "grammarTitle": "Grammar",
@@ -7202,24 +7202,24 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "examples": [
       {
-        "text": "Clear communication depends on words and the way we say them.",
-        "reading": "Reported speech and adverbs describing communication.",
+        "text": "A: Clear communication depends on words and the way we say them.",
+        "reading": "ඇ: ක්ල්ඊර් ක්ඔම්ම්අන්ඉක්ඇෂන් ඩ්එප්එන්ඩ්ස් ඔන් ව්ඔර්ඩ්ස් ඇන්ඩ් ත්එ ව්ඒ ව්එ ස්ඒ ත්එම්.",
         "meaning": "Clear communication depends on words and the way we say them."
       },
       {
-        "text": "It is important to consider all available options carefully.",
-        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "meaning": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "text": "B: It is best to calmly explain what you actually meant to say.",
+        "reading": "බ්: ඉට් ඉස් බ්එස්ට් ට්ඔ ක්ඇල්ම්ල්යි එක්ස්ප්ල්ඒන් වඇට් යිඅවු ඇක්ට්අඇල්ල්යි ම්ඊන්ට් ට්ඔ ස්ඒ.",
+        "meaning": "ඔබ අදහස් කළේ කුමක්දැයි සන්සුන්ව පැහැදිලි කිරීම හොඳම ක්‍රමයයි."
       },
       {
-        "text": "Based on the available information, we can make a better decision.",
-        "reading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "meaning": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "text": "A: I should have checked earlier whether he understood me.",
+        "reading": "ඇ: ඉ ෂ්අවුල්ඩ් හ්ඇව්එ ච්එක්ක්එඩ් ඊර්ල්ඉඑර් වඑත්එර් හ්එ අන්ඩ්එර්ස්ට්උඩ් ම්එ.",
+        "meaning": "ඔහු මාව තේරුම් ගත්තාද කියලා කලින්ම පරීක්ෂා කළ යුතුව තිබුණා."
       },
       {
-        "text": "This approach has advantages, but possible risks should also be considered.",
-        "reading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "meaning": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "text": "B: An open question often prevents another misunderstanding.",
+        "reading": "බ්: ඇන් ඔප්එන් ක්වඑස්ෂන් ඔෆ්ට්එන් ප්ර්එව්එන්ට්ස් ඇන්ඔත්එර් ම්ඉස්අන්ඩ්එර්ස්ට්ඇන්ඩ්ඉං.",
+        "meaning": "විවෘත ප්‍රශ්නයක් ඇසීමෙන් තවත් වැරදි අවබෝධයක් වළක්වාගත හැකියි."
       }
     ],
     "dialogue": [
@@ -7308,65 +7308,65 @@ export const ENGLISH_B1_LESSONS = [
         "word": "privacy",
         "reading": "ප්‍රයිවසි",
         "meaning": "පෞද්ගලිකත්වය",
-        "example": "බිෆෝර් පෝස්ටින් අ ෆෝටෝ වී ෂුඩ් රිස්පෙක්ට් අදර් පීපල්ස් ප්‍රයිවසි.",
-        "exampleReading": "Should, ought to and relative clauses for responsible online behaviour.",
+        "example": "A: Before posting a photo, we should respect other people's privacy.",
+        "exampleReading": "ඇ: බ්එෆ්ඔර්එ ප්ඔස්ට්ඉං ඇ ෆ්ඔට්ඔ, ව්එ ෂ්අවුල්ඩ් ර්එස්ප්එක්ට් ඔත්එර් ප්එඔප්ල්එ'ස් ප්ර්ඉව්ඇක්යි.",
         "translation": "Before posting a photo, we should respect other people's privacy."
       },
       {
         "word": "content",
         "reading": "කන්ටෙන්ට්",
         "meaning": "අන්තර්ගතය",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: Check who published it and whether reliable sources support it.",
+        "exampleReading": "බ්: ච්එක්ක් වඔ ප්අබ්ල්ඉෂ්එඩ් ඉට් ඇන්ඩ් වඑත්එර් ර්එල්ඉඇබ්ල්එ ස්අවුර්ක්එස් ස්අප්ප්ඔර්ට් ඉට්.",
+        "translation": "එය පළ කළේ කවුද සහ විශ්වාසදායක මූලාශ්‍ර එය තහවුරු කරනවාද කියලා බලන්න."
       },
       {
         "word": "comment",
         "reading": "කමෙන්ට්",
         "meaning": "අදහස",
-        "example": "Based on the available information, we can make a better decision.",
-        "exampleReading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "example": "A: Many people have shared it on social media.",
+        "exampleReading": "ඇ: ම්ඇන්යි ප්එඔප්ල්එ හ්ඇව්එ ෂ්ඇර්එඩ් ඉට් ඔන් ස්ඔක්ඉඇල් ම්එඩ්ඉඇ.",
+        "translation": "සමාජ මාධ්‍යවල බොහෝ දෙනෙක් එය බෙදාගෙන තිබෙනවා."
       },
       {
         "word": "share",
         "reading": "ෂෙයාර්",
         "meaning": "බෙදාගන්නවා",
-        "example": "This approach has advantages, but possible risks should also be considered.",
-        "exampleReading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "example": "B: The number of shares does not mean the information is true.",
+        "exampleReading": "බ්: ත්එ න්අම්බ්එර් ඔෆ් ෂ්ඇර්එස් ඩ්ඔඑස් න්ඔට් ම්ඊන් ත්එ ඉන්ෆ්ඔර්ම්ඇෂන් ඉස් ට්ර්අඑ.",
+        "translation": "බෙදාගැනීම් ගණන වැඩි වීමෙන් තොරතුරු සත්‍ය බව අදහස් වෙන්නේ නැහැ."
       },
       {
         "word": "misinformation",
         "reading": "මිස්ඉන්ෆොර්මේෂන්",
         "meaning": "වැරදි තොරතුරු",
-        "example": "බිෆෝර් පෝස්ටින් අ ෆෝටෝ වී ෂුඩ් රිස්පෙක්ට් අදර් පීපල්ස් ප්‍රයිවසි.",
-        "exampleReading": "Should, ought to and relative clauses for responsible online behaviour.",
+        "example": "A: Before posting a photo, we should respect other people's privacy.",
+        "exampleReading": "ඇ: බ්එෆ්ඔර්එ ප්ඔස්ට්ඉං ඇ ෆ්ඔට්ඔ, ව්එ ෂ්අවුල්ඩ් ර්එස්ප්එක්ට් ඔත්එර් ප්එඔප්ල්එ'ස් ප්ර්ඉව්ඇක්යි.",
         "translation": "Before posting a photo, we should respect other people's privacy."
       },
       {
         "word": "account",
         "reading": "අකවුන්ට්",
         "meaning": "ගිණුම",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: Check who published it and whether reliable sources support it.",
+        "exampleReading": "බ්: ච්එක්ක් වඔ ප්අබ්ල්ඉෂ්එඩ් ඉට් ඇන්ඩ් වඑත්එර් ර්එල්ඉඇබ්ල්එ ස්අවුර්ක්එස් ස්අප්ප්ඔර්ට් ඉට්.",
+        "translation": "එය පළ කළේ කවුද සහ විශ්වාසදායක මූලාශ්‍ර එය තහවුරු කරනවාද කියලා බලන්න."
       },
       {
         "word": "security",
         "reading": "සික්‍යුරිටි",
         "meaning": "ආරක්ෂාව",
-        "example": "Based on the available information, we can make a better decision.",
-        "exampleReading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "example": "A: Many people have shared it on social media.",
+        "exampleReading": "ඇ: ම්ඇන්යි ප්එඔප්ල්එ හ්ඇව්එ ෂ්ඇර්එඩ් ඉට් ඔන් ස්ඔක්ඉඇල් ම්එඩ්ඉඇ.",
+        "translation": "සමාජ මාධ්‍යවල බොහෝ දෙනෙක් එය බෙදාගෙන තිබෙනවා."
       },
       {
         "word": "audience",
         "reading": "ඕඩියන්ස්",
         "meaning": "ප්‍රේක්ෂක පිරිස",
-        "example": "This approach has advantages, but possible risks should also be considered.",
-        "exampleReading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "example": "B: The number of shares does not mean the information is true.",
+        "exampleReading": "බ්: ත්එ න්අම්බ්එර් ඔෆ් ෂ්ඇර්එස් ඩ්ඔඑස් න්ඔට් ම්ඊන් ත්එ ඉන්ෆ්ඔර්ම්ඇෂන් ඉස් ට්ර්අඑ.",
+        "translation": "බෙදාගැනීම් ගණන වැඩි වීමෙන් තොරතුරු සත්‍ය බව අදහස් වෙන්නේ නැහැ."
       }
     ],
     "grammarTitle": "Grammar",
@@ -7380,24 +7380,24 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "examples": [
       {
-        "text": "Before posting a photo, we should respect other people's privacy.",
-        "reading": "Should, ought to and relative clauses for responsible online behaviour.",
+        "text": "A: Before posting a photo, we should respect other people's privacy.",
+        "reading": "ඇ: බ්එෆ්ඔර්එ ප්ඔස්ට්ඉං ඇ ෆ්ඔට්ඔ, ව්එ ෂ්අවුල්ඩ් ර්එස්ප්එක්ට් ඔත්එර් ප්එඔප්ල්එ'ස් ප්ර්ඉව්ඇක්යි.",
         "meaning": "Before posting a photo, we should respect other people's privacy."
       },
       {
-        "text": "It is important to consider all available options carefully.",
-        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "meaning": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "text": "B: Check who published it and whether reliable sources support it.",
+        "reading": "බ්: ච්එක්ක් වඔ ප්අබ්ල්ඉෂ්එඩ් ඉට් ඇන්ඩ් වඑත්එර් ර්එල්ඉඇබ්ල්එ ස්අවුර්ක්එස් ස්අප්ප්ඔර්ට් ඉට්.",
+        "meaning": "එය පළ කළේ කවුද සහ විශ්වාසදායක මූලාශ්‍ර එය තහවුරු කරනවාද කියලා බලන්න."
       },
       {
-        "text": "Based on the available information, we can make a better decision.",
-        "reading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "meaning": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "text": "A: Many people have shared it on social media.",
+        "reading": "ඇ: ම්ඇන්යි ප්එඔප්ල්එ හ්ඇව්එ ෂ්ඇර්එඩ් ඉට් ඔන් ස්ඔක්ඉඇල් ම්එඩ්ඉඇ.",
+        "meaning": "සමාජ මාධ්‍යවල බොහෝ දෙනෙක් එය බෙදාගෙන තිබෙනවා."
       },
       {
-        "text": "This approach has advantages, but possible risks should also be considered.",
-        "reading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "meaning": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "text": "B: The number of shares does not mean the information is true.",
+        "reading": "බ්: ත්එ න්අම්බ්එර් ඔෆ් ෂ්ඇර්එස් ඩ්ඔඑස් න්ඔට් ම්ඊන් ත්එ ඉන්ෆ්ඔර්ම්ඇෂන් ඉස් ට්ර්අඑ.",
+        "meaning": "බෙදාගැනීම් ගණන වැඩි වීමෙන් තොරතුරු සත්‍ය බව අදහස් වෙන්නේ නැහැ."
       }
     ],
     "dialogue": [
@@ -7486,65 +7486,65 @@ export const ENGLISH_B1_LESSONS = [
         "word": "priority",
         "reading": "ප්‍රයෝරිටි",
         "meaning": "ප්‍රමුඛතාව",
-        "example": "වෙන් වී සෙට් ප්‍රයෝරිටීස් වී ෆිනිෂ් ඉම්පෝර්ටන්ට් ටාස්ක්ස් මෝර් ඊසිලි.",
-        "exampleReading": "Time clauses, adverbs and gerunds for routines.",
+        "example": "A: When we set priorities, we finish important tasks more easily.",
+        "exampleReading": "ඇ: වඑන් ව්එ ස්එට් ප්ර්ඉඔර්ඉට්ඉඑස්, ව්එ ෆ්ඉන්ඉෂ් ඉම්ප්ඔර්ට්ඇන්ට් ට්ඇස්ක්ස් ම්ඔර්එ ඊස්ඉල්යි.",
         "translation": "When we set priorities, we finish important tasks more easily."
       },
       {
         "word": "schedule",
         "reading": "ෂෙඩ්‍යූල්",
         "meaning": "කාලසටහන",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: Try setting priorities and planning rest in advance.",
+        "exampleReading": "බ්: ට්ර්යි ස්එට්ට්ඉං ප්ර්ඉඔර්ඉට්ඉඑස් ඇන්ඩ් ප්ල්ඇන්න්ඉං ර්එස්ට් ඉන් ඇඩ්ව්ඇන්ක්එ.",
+        "translation": "ප්‍රමුඛතා තීරණය කර විවේකයත් කලින් සැලසුම් කරන්න උත්සාහ කරන්න."
       },
       {
         "word": "deadline",
         "reading": "ඩෙඩ්ලයින්",
         "meaning": "අවසන් දිනය",
-        "example": "Based on the available information, we can make a better decision.",
-        "exampleReading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "example": "A: I often accept more tasks than I can finish.",
+        "exampleReading": "ඇ: ඉ ඔෆ්ට්එන් ඇක්ක්එප්ට් ම්ඔර්එ ට්ඇස්ක්ස් ත්ඇන් ඉ ක්ඇන් ෆ්ඉන්ඉෂ්.",
+        "translation": "මට අවසන් කළ හැකි ප්‍රමාණයට වඩා වැඩි කාර්යයන් මම භාරගන්නවා."
       },
       {
         "word": "distraction",
         "reading": "ඩිස්ට්‍රැක්ෂන්",
         "meaning": "අවධානය වෙනතකට යාම",
-        "example": "This approach has advantages, but possible risks should also be considered.",
-        "exampleReading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "example": "B: Learn to estimate realistically how much time you need.",
+        "exampleReading": "බ්: ල්ඊර්න් ට්ඔ එස්ට්ඉම්ඇට්එ ර්ඊල්ඉස්ට්ඉක්ඇල්ල්යි හ්ඕ ම්අච් ට්ඉම්එ යිඅවු න්ඊඩ්.",
+        "translation": "ඔබට අවශ්‍ය කාලය යථාර්ථවාදීව ඇස්තමේන්තු කරන්න ඉගෙනගන්න."
       },
       {
         "word": "focus",
         "reading": "ෆෝකස්",
         "meaning": "අවධානය",
-        "example": "වෙන් වී සෙට් ප්‍රයෝරිටීස් වී ෆිනිෂ් ඉම්පෝර්ටන්ට් ටාස්ක්ස් මෝර් ඊසිලි.",
-        "exampleReading": "Time clauses, adverbs and gerunds for routines.",
+        "example": "A: When we set priorities, we finish important tasks more easily.",
+        "exampleReading": "ඇ: වඑන් ව්එ ස්එට් ප්ර්ඉඔර්ඉට්ඉඑස්, ව්එ ෆ්ඉන්ඉෂ් ඉම්ප්ඔර්ට්ඇන්ට් ට්ඇස්ක්ස් ම්ඔර්එ ඊස්ඉල්යි.",
         "translation": "When we set priorities, we finish important tasks more easily."
       },
       {
         "word": "postpone",
         "reading": "පෝස්ට්පෝන්",
         "meaning": "කල් දමනවා",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: Try setting priorities and planning rest in advance.",
+        "exampleReading": "බ්: ට්ර්යි ස්එට්ට්ඉං ප්ර්ඉඔර්ඉට්ඉඑස් ඇන්ඩ් ප්ල්ඇන්න්ඉං ර්එස්ට් ඉන් ඇඩ්ව්ඇන්ක්එ.",
+        "translation": "ප්‍රමුඛතා තීරණය කර විවේකයත් කලින් සැලසුම් කරන්න උත්සාහ කරන්න."
       },
       {
         "word": "complete",
         "reading": "කම්ප්ලීට්",
         "meaning": "අවසන් කරනවා",
-        "example": "Based on the available information, we can make a better decision.",
-        "exampleReading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "example": "A: I often accept more tasks than I can finish.",
+        "exampleReading": "ඇ: ඉ ඔෆ්ට්එන් ඇක්ක්එප්ට් ම්ඔර්එ ට්ඇස්ක්ස් ත්ඇන් ඉ ක්ඇන් ෆ්ඉන්ඉෂ්.",
+        "translation": "මට අවසන් කළ හැකි ප්‍රමාණයට වඩා වැඩි කාර්යයන් මම භාරගන්නවා."
       },
       {
         "word": "efficient",
         "reading": "එෆිෂන්ට්",
         "meaning": "කාර්යක්ෂම",
-        "example": "This approach has advantages, but possible risks should also be considered.",
-        "exampleReading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "example": "B: Learn to estimate realistically how much time you need.",
+        "exampleReading": "බ්: ල්ඊර්න් ට්ඔ එස්ට්ඉම්ඇට්එ ර්ඊල්ඉස්ට්ඉක්ඇල්ල්යි හ්ඕ ම්අච් ට්ඉම්එ යිඅවු න්ඊඩ්.",
+        "translation": "ඔබට අවශ්‍ය කාලය යථාර්ථවාදීව ඇස්තමේන්තු කරන්න ඉගෙනගන්න."
       }
     ],
     "grammarTitle": "Grammar",
@@ -7558,24 +7558,24 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "examples": [
       {
-        "text": "When we set priorities, we finish important tasks more easily.",
-        "reading": "Time clauses, adverbs and gerunds for routines.",
+        "text": "A: When we set priorities, we finish important tasks more easily.",
+        "reading": "ඇ: වඑන් ව්එ ස්එට් ප්ර්ඉඔර්ඉට්ඉඑස්, ව්එ ෆ්ඉන්ඉෂ් ඉම්ප්ඔර්ට්ඇන්ට් ට්ඇස්ක්ස් ම්ඔර්එ ඊස්ඉල්යි.",
         "meaning": "When we set priorities, we finish important tasks more easily."
       },
       {
-        "text": "It is important to consider all available options carefully.",
-        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "meaning": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "text": "B: Try setting priorities and planning rest in advance.",
+        "reading": "බ්: ට්ර්යි ස්එට්ට්ඉං ප්ර්ඉඔර්ඉට්ඉඑස් ඇන්ඩ් ප්ල්ඇන්න්ඉං ර්එස්ට් ඉන් ඇඩ්ව්ඇන්ක්එ.",
+        "meaning": "ප්‍රමුඛතා තීරණය කර විවේකයත් කලින් සැලසුම් කරන්න උත්සාහ කරන්න."
       },
       {
-        "text": "Based on the available information, we can make a better decision.",
-        "reading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "meaning": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "text": "A: I often accept more tasks than I can finish.",
+        "reading": "ඇ: ඉ ඔෆ්ට්එන් ඇක්ක්එප්ට් ම්ඔර්එ ට්ඇස්ක්ස් ත්ඇන් ඉ ක්ඇන් ෆ්ඉන්ඉෂ්.",
+        "meaning": "මට අවසන් කළ හැකි ප්‍රමාණයට වඩා වැඩි කාර්යයන් මම භාරගන්නවා."
       },
       {
-        "text": "This approach has advantages, but possible risks should also be considered.",
-        "reading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "meaning": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "text": "B: Learn to estimate realistically how much time you need.",
+        "reading": "බ්: ල්ඊර්න් ට්ඔ එස්ට්ඉම්ඇට්එ ර්ඊල්ඉස්ට්ඉක්ඇල්ල්යි හ්ඕ ම්අච් ට්ඉම්එ යිඅවු න්ඊඩ්.",
+        "meaning": "ඔබට අවශ්‍ය කාලය යථාර්ථවාදීව ඇස්තමේන්තු කරන්න ඉගෙනගන්න."
       }
     ],
     "dialogue": [
@@ -7664,65 +7664,65 @@ export const ENGLISH_B1_LESSONS = [
         "word": "culture",
         "reading": "කල්චර්",
         "meaning": "සංස්කෘතිය",
-        "example": "රිස්පෙක්ටින් ඩිෆරන්ට් කස්ටම්ස් හෙල්ප්ස් පීපල් වර්ක් ටුගෙදර්.",
-        "exampleReading": "Contrast clauses and expressions of perspective.",
+        "example": "A: Respecting different customs helps people work together.",
+        "exampleReading": "ඇ: ර්එස්ප්එක්ට්ඉං ඩ්ඉෆ්ෆ්එර්එන්ට් ක්අස්ට්ඔම්ස් හ්එල්ප්ස් ප්එඔප්ල්එ ව්ඔර්ක් ට්ඔග්එත්එර්.",
         "translation": "Respecting different customs helps people work together."
       },
       {
         "word": "custom",
         "reading": "කස්ටම්",
         "meaning": "චාරිත්‍රය",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: It is useful to learn about local customs before travelling.",
+        "exampleReading": "බ්: ඉට් ඉස් අස්එෆ්අල් ට්ඔ ල්ඊර්න් ඇබ්අවුට් ල්ඔක්ඇල් ක්අස්ට්ඔම්ස් බ්එෆ්ඔර්එ ට්ර්ඇව්එල්ල්ඉං.",
+        "translation": "ගමනට පෙර දේශීය සිරිත් විරිත් ගැන දැනගැනීම ප්‍රයෝජනවත්."
       },
       {
         "word": "perspective",
         "reading": "පර්ස්පෙක්ටිව්",
         "meaning": "දෘෂ්ටිකෝණය",
-        "example": "Based on the available information, we can make a better decision.",
-        "exampleReading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "example": "A: That way we can show respect to our hosts.",
+        "exampleReading": "ඇ: ත්ඇට් ව්ඒ ව්එ ක්ඇන් ෂ්ඕ ර්එස්ප්එක්ට් ට්ඔ අවුර් හ්ඔස්ට්ස්.",
+        "translation": "එමඟින් සත්කාරකයන්ට ගෞරවය පෙන්වන්න පුළුවන්."
       },
       {
         "word": "diversity",
         "reading": "ඩයිවර්සිටි",
         "meaning": "විවිධත්වය",
-        "example": "This approach has advantages, but possible risks should also be considered.",
-        "exampleReading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "example": "B: We can avoid uncomfortable situations more easily.",
+        "exampleReading": "බ්: ව්එ ක්ඇන් ඇව්ඔඉඩ් අන්ක්ඔම්ෆ්ඔර්ට්ඇබ්ල්එ ස්ඉට්අඇෂන්ස් ම්ඔර්එ ඊස්ඉල්යි.",
+        "translation": "අපහසු අවස්ථා පහසුවෙන් වළක්වාගන්නත් පුළුවන්."
       },
       {
         "word": "respect",
         "reading": "රිස්පෙක්ට්",
         "meaning": "ගෞරවය",
-        "example": "රිස්පෙක්ටින් ඩිෆරන්ට් කස්ටම්ස් හෙල්ප්ස් පීපල් වර්ක් ටුගෙදර්.",
-        "exampleReading": "Contrast clauses and expressions of perspective.",
+        "example": "A: Respecting different customs helps people work together.",
+        "exampleReading": "ඇ: ර්එස්ප්එක්ට්ඉං ඩ්ඉෆ්ෆ්එර්එන්ට් ක්අස්ට්ඔම්ස් හ්එල්ප්ස් ප්එඔප්ල්එ ව්ඔර්ක් ට්ඔග්එත්එර්.",
         "translation": "Respecting different customs helps people work together."
       },
       {
         "word": "adapt",
         "reading": "අඩැප්ට්",
         "meaning": "හැඩගැසෙනවා",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: It is useful to learn about local customs before travelling.",
+        "exampleReading": "බ්: ඉට් ඉස් අස්එෆ්අල් ට්ඔ ල්ඊර්න් ඇබ්අවුට් ල්ඔක්ඇල් ක්අස්ට්ඔම්ස් බ්එෆ්ඔර්එ ට්ර්ඇව්එල්ල්ඉං.",
+        "translation": "ගමනට පෙර දේශීය සිරිත් විරිත් ගැන දැනගැනීම ප්‍රයෝජනවත්."
       },
       {
         "word": "communication",
         "reading": "කමියුනිකේෂන්",
         "meaning": "සන්නිවේදනය",
-        "example": "Based on the available information, we can make a better decision.",
-        "exampleReading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "example": "A: That way we can show respect to our hosts.",
+        "exampleReading": "ඇ: ත්ඇට් ව්ඒ ව්එ ක්ඇන් ෂ්ඕ ර්එස්ප්එක්ට් ට්ඔ අවුර් හ්ඔස්ට්ස්.",
+        "translation": "එමඟින් සත්කාරකයන්ට ගෞරවය පෙන්වන්න පුළුවන්."
       },
       {
         "word": "stereotype",
         "reading": "ස්ටීරියටයිප්",
         "meaning": "ඒකාකෘතිය",
-        "example": "This approach has advantages, but possible risks should also be considered.",
-        "exampleReading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "example": "B: We can avoid uncomfortable situations more easily.",
+        "exampleReading": "බ්: ව්එ ක්ඇන් ඇව්ඔඉඩ් අන්ක්ඔම්ෆ්ඔර්ට්ඇබ්ල්එ ස්ඉට්අඇෂන්ස් ම්ඔර්එ ඊස්ඉල්යි.",
+        "translation": "අපහසු අවස්ථා පහසුවෙන් වළක්වාගන්නත් පුළුවන්."
       }
     ],
     "grammarTitle": "Grammar",
@@ -7736,24 +7736,24 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "examples": [
       {
-        "text": "Respecting different customs helps people work together.",
-        "reading": "Contrast clauses and expressions of perspective.",
+        "text": "A: Respecting different customs helps people work together.",
+        "reading": "ඇ: ර්එස්ප්එක්ට්ඉං ඩ්ඉෆ්ෆ්එර්එන්ට් ක්අස්ට්ඔම්ස් හ්එල්ප්ස් ප්එඔප්ල්එ ව්ඔර්ක් ට්ඔග්එත්එර්.",
         "meaning": "Respecting different customs helps people work together."
       },
       {
-        "text": "It is important to consider all available options carefully.",
-        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "meaning": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "text": "B: It is useful to learn about local customs before travelling.",
+        "reading": "බ්: ඉට් ඉස් අස්එෆ්අල් ට්ඔ ල්ඊර්න් ඇබ්අවුට් ල්ඔක්ඇල් ක්අස්ට්ඔම්ස් බ්එෆ්ඔර්එ ට්ර්ඇව්එල්ල්ඉං.",
+        "meaning": "ගමනට පෙර දේශීය සිරිත් විරිත් ගැන දැනගැනීම ප්‍රයෝජනවත්."
       },
       {
-        "text": "Based on the available information, we can make a better decision.",
-        "reading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "meaning": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "text": "A: That way we can show respect to our hosts.",
+        "reading": "ඇ: ත්ඇට් ව්ඒ ව්එ ක්ඇන් ෂ්ඕ ර්එස්ප්එක්ට් ට්ඔ අවුර් හ්ඔස්ට්ස්.",
+        "meaning": "එමඟින් සත්කාරකයන්ට ගෞරවය පෙන්වන්න පුළුවන්."
       },
       {
-        "text": "This approach has advantages, but possible risks should also be considered.",
-        "reading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "meaning": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "text": "B: We can avoid uncomfortable situations more easily.",
+        "reading": "බ්: ව්එ ක්ඇන් ඇව්ඔඉඩ් අන්ක්ඔම්ෆ්ඔර්ට්ඇබ්ල්එ ස්ඉට්අඇෂන්ස් ම්ඔර්එ ඊස්ඉල්යි.",
+        "meaning": "අපහසු අවස්ථා පහසුවෙන් වළක්වාගන්නත් පුළුවන්."
       }
     ],
     "dialogue": [
@@ -7842,65 +7842,65 @@ export const ENGLISH_B1_LESSONS = [
         "word": "entrepreneur",
         "reading": "ඔන්ට්‍රප්‍රනර්",
         "meaning": "ව්‍යවසායකයා",
-        "example": "අ ගුඩ් බිස්නස් ප්ලෑන් ටේක්ස් කස්ටමර්ස් නීඩ්ස් ඉන්ටු අකවුන්ට්.",
-        "exampleReading": "Purpose clauses and formal requests in business.",
+        "example": "A: A good business plan takes customers' needs into account.",
+        "exampleReading": "ඇ: ඇ ග්උඩ් බ්අස්ඉන්එස්ස් ප්ල්ඇන් ට්ඇක්එස් ක්අස්ට්ඔම්එර්ස්' න්ඊඩ්ස් ඉන්ට්ඔ ඇක්ක්අවුන්ට්.",
         "translation": "A good business plan takes customers' needs into account."
       },
       {
         "word": "business plan",
         "reading": "බිස්නස් ප්ලෑන්",
         "meaning": "ව්‍යාපාර සැලැස්ම",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: Before starting, research customer needs and calculate the initial costs.",
+        "exampleReading": "බ්: බ්එෆ්ඔර්එ ස්ට්ඇර්ට්ඉං, ර්එස්ඊර්ච් ක්අස්ට්ඔම්එර් න්ඊඩ්ස් ඇන්ඩ් ක්ඇල්ක්අල්ඇට්එ ත්එ ඉන්ඉට්ඉඇල් ක්ඔස්ට්ස්.",
+        "translation": "ආරම්භ කිරීමට පෙර පාරිභෝගික අවශ්‍යතා සොයා බලා ආරම්භක වියදම් ගණනය කරන්න."
       },
       {
         "word": "customer",
         "reading": "කස්ටමර්",
         "meaning": "පාරිභෝගිකයා",
-        "example": "Based on the available information, we can make a better decision.",
-        "exampleReading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "example": "A: I am also thinking about how to promote the service.",
+        "exampleReading": "ඇ: ඉ ඇම් ඇල්ස්ඔ ත්ඉන්ක්ඉං ඇබ්අවුට් හ්ඕ ට්ඔ ප්ර්ඔම්ඔට්එ ත්එ ස්එර්ව්ඉක්එ.",
+        "translation": "සේවාව ප්‍රචාරය කරන්නේ කොහොමද කියලත් මම හිතනවා."
       },
       {
         "word": "demand",
         "reading": "ඩිමාන්ඩ්",
         "meaning": "ඉල්ලුම",
-        "example": "This approach has advantages, but possible risks should also be considered.",
-        "exampleReading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "example": "B: Create a simple business plan with clear goals.",
+        "exampleReading": "බ්: ක්ර්ඊට්එ ඇ ස්ඉම්ප්ල්එ බ්අස්ඉන්එස්ස් ප්ල්ඇන් ව්ඉත් ක්ල්ඊර් ග්ඔඇල්ස්.",
+        "translation": "පැහැදිලි ඉලක්ක සහිත සරල ව්‍යාපාර සැලැස්මක් සකස් කරන්න."
       },
       {
         "word": "profit",
         "reading": "ප්‍රොෆිට්",
         "meaning": "ලාභය",
-        "example": "අ ගුඩ් බිස්නස් ප්ලෑන් ටේක්ස් කස්ටමර්ස් නීඩ්ස් ඉන්ටු අකවුන්ට්.",
-        "exampleReading": "Purpose clauses and formal requests in business.",
+        "example": "A: A good business plan takes customers' needs into account.",
+        "exampleReading": "ඇ: ඇ ග්උඩ් බ්අස්ඉන්එස්ස් ප්ල්ඇන් ට්ඇක්එස් ක්අස්ට්ඔම්එර්ස්' න්ඊඩ්ස් ඉන්ට්ඔ ඇක්ක්අවුන්ට්.",
         "translation": "A good business plan takes customers' needs into account."
       },
       {
         "word": "cost",
         "reading": "කොස්ට්",
         "meaning": "පිරිවැය",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: Before starting, research customer needs and calculate the initial costs.",
+        "exampleReading": "බ්: බ්එෆ්ඔර්එ ස්ට්ඇර්ට්ඉං, ර්එස්ඊර්ච් ක්අස්ට්ඔම්එර් න්ඊඩ්ස් ඇන්ඩ් ක්ඇල්ක්අල්ඇට්එ ත්එ ඉන්ඉට්ඉඇල් ක්ඔස්ට්ස්.",
+        "translation": "ආරම්භ කිරීමට පෙර පාරිභෝගික අවශ්‍යතා සොයා බලා ආරම්භක වියදම් ගණනය කරන්න."
       },
       {
         "word": "supplier",
         "reading": "සප්ලයර්",
         "meaning": "සැපයුම්කරු",
-        "example": "Based on the available information, we can make a better decision.",
-        "exampleReading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "example": "A: I am also thinking about how to promote the service.",
+        "exampleReading": "ඇ: ඉ ඇම් ඇල්ස්ඔ ත්ඉන්ක්ඉං ඇබ්අවුට් හ්ඕ ට්ඔ ප්ර්ඔම්ඔට්එ ත්එ ස්එර්ව්ඉක්එ.",
+        "translation": "සේවාව ප්‍රචාරය කරන්නේ කොහොමද කියලත් මම හිතනවා."
       },
       {
         "word": "feedback",
         "reading": "ෆීඩ්බැක්",
         "meaning": "ප්‍රතිචාරය",
-        "example": "This approach has advantages, but possible risks should also be considered.",
-        "exampleReading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "example": "B: Create a simple business plan with clear goals.",
+        "exampleReading": "බ්: ක්ර්ඊට්එ ඇ ස්ඉම්ප්ල්එ බ්අස්ඉන්එස්ස් ප්ල්ඇන් ව්ඉත් ක්ල්ඊර් ග්ඔඇල්ස්.",
+        "translation": "පැහැදිලි ඉලක්ක සහිත සරල ව්‍යාපාර සැලැස්මක් සකස් කරන්න."
       }
     ],
     "grammarTitle": "Grammar",
@@ -7914,24 +7914,24 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "examples": [
       {
-        "text": "A good business plan takes customers' needs into account.",
-        "reading": "Purpose clauses and formal requests in business.",
+        "text": "A: A good business plan takes customers' needs into account.",
+        "reading": "ඇ: ඇ ග්උඩ් බ්අස්ඉන්එස්ස් ප්ල්ඇන් ට්ඇක්එස් ක්අස්ට්ඔම්එර්ස්' න්ඊඩ්ස් ඉන්ට්ඔ ඇක්ක්අවුන්ට්.",
         "meaning": "A good business plan takes customers' needs into account."
       },
       {
-        "text": "It is important to consider all available options carefully.",
-        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "meaning": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "text": "B: Before starting, research customer needs and calculate the initial costs.",
+        "reading": "බ්: බ්එෆ්ඔර්එ ස්ට්ඇර්ට්ඉං, ර්එස්ඊර්ච් ක්අස්ට්ඔම්එර් න්ඊඩ්ස් ඇන්ඩ් ක්ඇල්ක්අල්ඇට්එ ත්එ ඉන්ඉට්ඉඇල් ක්ඔස්ට්ස්.",
+        "meaning": "ආරම්භ කිරීමට පෙර පාරිභෝගික අවශ්‍යතා සොයා බලා ආරම්භක වියදම් ගණනය කරන්න."
       },
       {
-        "text": "Based on the available information, we can make a better decision.",
-        "reading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "meaning": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "text": "A: I am also thinking about how to promote the service.",
+        "reading": "ඇ: ඉ ඇම් ඇල්ස්ඔ ත්ඉන්ක්ඉං ඇබ්අවුට් හ්ඕ ට්ඔ ප්ර්ඔම්ඔට්එ ත්එ ස්එර්ව්ඉක්එ.",
+        "meaning": "සේවාව ප්‍රචාරය කරන්නේ කොහොමද කියලත් මම හිතනවා."
       },
       {
-        "text": "This approach has advantages, but possible risks should also be considered.",
-        "reading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "meaning": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "text": "B: Create a simple business plan with clear goals.",
+        "reading": "බ්: ක්ර්ඊට්එ ඇ ස්ඉම්ප්ල්එ බ්අස්ඉන්එස්ස් ප්ල්ඇන් ව්ඉත් ක්ල්ඊර් ග්ඔඇල්ස්.",
+        "meaning": "පැහැදිලි ඉලක්ක සහිත සරල ව්‍යාපාර සැලැස්මක් සකස් කරන්න."
       }
     ],
     "dialogue": [
@@ -8020,65 +8020,65 @@ export const ENGLISH_B1_LESSONS = [
         "word": "report",
         "reading": "රිපෝර්ට්",
         "meaning": "වාර්තාව",
-        "example": "අ රිපෝර්ට් ෂුඩ් ප්‍රෙසෙන්ට් දි ඩේටා ඇන්ඩ් කන්ක්ලූෂන්ස් ක්ලියර්ලි.",
-        "exampleReading": "Linking phrases, passive voice and cautious data interpretation.",
+        "example": "A: A report should present the data and conclusions clearly.",
+        "exampleReading": "ඇ: ඇ ර්එප්ඔර්ට් ෂ්අවුල්ඩ් ප්ර්එස්එන්ට් ත්එ ඩ්ඇට්ඇ ඇන්ඩ් ක්ඔන්ක්ල්අස්ඉඔන්ස් ක්ල්ඊර්ල්යි.",
         "translation": "A report should present the data and conclusions clearly."
       },
       {
         "word": "data",
         "reading": "ඩේටා",
         "meaning": "දත්ත",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: It would be useful to display the data in a chart as well.",
+        "exampleReading": "බ්: ඉට් ව්අවුල්ඩ් බ්එ අස්එෆ්අල් ට්ඔ ඩ්ඉස්ප්ල්ඒ ත්එ ඩ්ඇට්ඇ ඉන් ඇ ච්ඇර්ට් ඇස් ව්එල්ල්.",
+        "translation": "දත්ත ප්‍රස්ථාරයකින් ද පෙන්වීම ප්‍රයෝජනවත් වේවි."
       },
       {
         "word": "figure",
         "reading": "ෆිගර්",
         "meaning": "සංඛ්‍යාව",
-        "example": "Based on the available information, we can make a better decision.",
-        "exampleReading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "example": "A: That will help readers notice the changes more easily.",
+        "exampleReading": "ඇ: ත්ඇට් ව්ඉල්ල් හ්එල්ප් ර්ඊඩ්එර්ස් න්ඔට්ඉක්එ ත්එ ච්ඇංඑස් ම්ඔර්එ ඊස්ඉල්යි.",
+        "translation": "එවිට පාඨකයන්ට වෙනස්කම් පහසුවෙන් දැකගත හැකියි."
       },
       {
         "word": "trend",
         "reading": "ට්‍රෙන්ඩ්",
         "meaning": "ප්‍රවණතාව",
-        "example": "This approach has advantages, but possible risks should also be considered.",
-        "exampleReading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "example": "B: Add a short explanation of the most important results next to the chart.",
+        "exampleReading": "බ්: ඇඩ්ඩ් ඇ ෂ්ඔර්ට් එක්ස්ප්ල්ඇන්ඇෂන් ඔෆ් ත්එ ම්ඔස්ට් ඉම්ප්ඔර්ට්ඇන්ට් ර්එස්අල්ට්ස් න්එක්ස්ට් ට්ඔ ත්එ ච්ඇර්ට්.",
+        "translation": "ප්‍රස්ථාරය සමඟ වැදගත්ම ප්‍රතිඵල පිළිබඳ කෙටි විස්තරයක් එක් කරන්න."
       },
       {
         "word": "increase",
         "reading": "ඉන්ක්‍රීස්",
         "meaning": "වැඩිවීම",
-        "example": "අ රිපෝර්ට් ෂුඩ් ප්‍රෙසෙන්ට් දි ඩේටා ඇන්ඩ් කන්ක්ලූෂන්ස් ක්ලියර්ලි.",
-        "exampleReading": "Linking phrases, passive voice and cautious data interpretation.",
+        "example": "A: A report should present the data and conclusions clearly.",
+        "exampleReading": "ඇ: ඇ ර්එප්ඔර්ට් ෂ්අවුල්ඩ් ප්ර්එස්එන්ට් ත්එ ඩ්ඇට්ඇ ඇන්ඩ් ක්ඔන්ක්ල්අස්ඉඔන්ස් ක්ල්ඊර්ල්යි.",
         "translation": "A report should present the data and conclusions clearly."
       },
       {
         "word": "decrease",
         "reading": "ඩික්‍රීස්",
         "meaning": "අඩුවීම",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: It would be useful to display the data in a chart as well.",
+        "exampleReading": "බ්: ඉට් ව්අවුල්ඩ් බ්එ අස්එෆ්අල් ට්ඔ ඩ්ඉස්ප්ල්ඒ ත්එ ඩ්ඇට්ඇ ඉන් ඇ ච්ඇර්ට් ඇස් ව්එල්ල්.",
+        "translation": "දත්ත ප්‍රස්ථාරයකින් ද පෙන්වීම ප්‍රයෝජනවත් වේවි."
       },
       {
         "word": "conclusion",
         "reading": "කන්ක්ලූෂන්",
         "meaning": "නිගමනය",
-        "example": "Based on the available information, we can make a better decision.",
-        "exampleReading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "example": "A: That will help readers notice the changes more easily.",
+        "exampleReading": "ඇ: ත්ඇට් ව්ඉල්ල් හ්එල්ප් ර්ඊඩ්එර්ස් න්ඔට්ඉක්එ ත්එ ච්ඇංඑස් ම්ඔර්එ ඊස්ඉල්යි.",
+        "translation": "එවිට පාඨකයන්ට වෙනස්කම් පහසුවෙන් දැකගත හැකියි."
       },
       {
         "word": "appendix",
         "reading": "අපෙන්ඩික්ස්",
         "meaning": "ඇමුණුම",
-        "example": "This approach has advantages, but possible risks should also be considered.",
-        "exampleReading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "example": "B: Add a short explanation of the most important results next to the chart.",
+        "exampleReading": "බ්: ඇඩ්ඩ් ඇ ෂ්ඔර්ට් එක්ස්ප්ල්ඇන්ඇෂන් ඔෆ් ත්එ ම්ඔස්ට් ඉම්ප්ඔර්ට්ඇන්ට් ර්එස්අල්ට්ස් න්එක්ස්ට් ට්ඔ ත්එ ච්ඇර්ට්.",
+        "translation": "ප්‍රස්ථාරය සමඟ වැදගත්ම ප්‍රතිඵල පිළිබඳ කෙටි විස්තරයක් එක් කරන්න."
       }
     ],
     "grammarTitle": "Grammar",
@@ -8092,24 +8092,24 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "examples": [
       {
-        "text": "A report should present the data and conclusions clearly.",
-        "reading": "Linking phrases, passive voice and cautious data interpretation.",
+        "text": "A: A report should present the data and conclusions clearly.",
+        "reading": "ඇ: ඇ ර්එප්ඔර්ට් ෂ්අවුල්ඩ් ප්ර්එස්එන්ට් ත්එ ඩ්ඇට්ඇ ඇන්ඩ් ක්ඔන්ක්ල්අස්ඉඔන්ස් ක්ල්ඊර්ල්යි.",
         "meaning": "A report should present the data and conclusions clearly."
       },
       {
-        "text": "It is important to consider all available options carefully.",
-        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "meaning": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "text": "B: It would be useful to display the data in a chart as well.",
+        "reading": "බ්: ඉට් ව්අවුල්ඩ් බ්එ අස්එෆ්අල් ට්ඔ ඩ්ඉස්ප්ල්ඒ ත්එ ඩ්ඇට්ඇ ඉන් ඇ ච්ඇර්ට් ඇස් ව්එල්ල්.",
+        "meaning": "දත්ත ප්‍රස්ථාරයකින් ද පෙන්වීම ප්‍රයෝජනවත් වේවි."
       },
       {
-        "text": "Based on the available information, we can make a better decision.",
-        "reading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "meaning": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "text": "A: That will help readers notice the changes more easily.",
+        "reading": "ඇ: ත්ඇට් ව්ඉල්ල් හ්එල්ප් ර්ඊඩ්එර්ස් න්ඔට්ඉක්එ ත්එ ච්ඇංඑස් ම්ඔර්එ ඊස්ඉල්යි.",
+        "meaning": "එවිට පාඨකයන්ට වෙනස්කම් පහසුවෙන් දැකගත හැකියි."
       },
       {
-        "text": "This approach has advantages, but possible risks should also be considered.",
-        "reading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "meaning": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "text": "B: Add a short explanation of the most important results next to the chart.",
+        "reading": "බ්: ඇඩ්ඩ් ඇ ෂ්ඔර්ට් එක්ස්ප්ල්ඇන්ඇෂන් ඔෆ් ත්එ ම්ඔස්ට් ඉම්ප්ඔර්ට්ඇන්ට් ර්එස්අල්ට්ස් න්එක්ස්ට් ට්ඔ ත්එ ච්ඇර්ට්.",
+        "meaning": "ප්‍රස්ථාරය සමඟ වැදගත්ම ප්‍රතිඵල පිළිබඳ කෙටි විස්තරයක් එක් කරන්න."
       }
     ],
     "dialogue": [
@@ -8198,65 +8198,65 @@ export const ENGLISH_B1_LESSONS = [
         "word": "debate",
         "reading": "ඩිබේට්",
         "meaning": "විවාදය",
-        "example": "පබ්ලික් ඩිබේට් හෙල්ප්ස් අස් අන්ඩර්ස්ටෑන්ඩ් ඩිෆරන්ට් ඔපීනියන්ස්.",
-        "exampleReading": "Reported speech, opinion phrases and concession clauses.",
+        "example": "A: Public debate helps us understand different opinions.",
+        "exampleReading": "ඇ: ප්අබ්ල්ඉක් ඩ්එබ්ඇට්එ හ්එල්ප්ස් අස් අන්ඩ්එර්ස්ට්ඇන්ඩ් ඩ්ඉෆ්ෆ්එර්එන්ට් ඔප්ඉන්ඉඔන්ස්.",
         "translation": "Public debate helps us understand different opinions."
       },
       {
         "word": "public opinion",
         "reading": "පබ්ලික් ඔපීනියන්",
         "meaning": "මහජන මතය",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: We should listen to both sides before reaching a conclusion.",
+        "exampleReading": "බ්: ව්එ ෂ්අවුල්ඩ් ල්ඉස්ට්එන් ට්ඔ බ්ඔත් ස්ඉඩ්එස් බ්එෆ්ඔර්එ ර්ඊච්ඉං ඇ ක්ඔන්ක්ල්අස්ඉඔන්.",
+        "translation": "නිගමනයකට එන්න පෙර දෙපාර්ශ්වයටම සවන් දිය යුතුයි."
       },
       {
         "word": "viewpoint",
         "reading": "වීව්පොයින්ට්",
         "meaning": "දෘෂ්ටිකෝණය",
-        "example": "Based on the available information, we can make a better decision.",
-        "exampleReading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "example": "A: One speaker presented data, while the other shared personal experience.",
+        "exampleReading": "ඇ: ඔන්එ ස්ප්ඊක්එර් ප්ර්එස්එන්ට්එඩ් ඩ්ඇට්ඇ, වඉල්එ ත්එ ඔත්එර් ෂ්ඇර්එඩ් ප්එර්ස්ඔන්ඇල් එක්ස්ප්එර්ඉඑන්ක්එ.",
+        "translation": "එක් කථිකයෙක් දත්ත ඉදිරිපත් කළ අතර අනෙක් කෙනා පෞද්ගලික අත්දැකීමක් බෙදාගත්තා."
       },
       {
         "word": "argument",
         "reading": "ආර්ග්‍යුමන්ට්",
         "meaning": "තර්කය",
-        "example": "This approach has advantages, but possible risks should also be considered.",
-        "exampleReading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "example": "B: It is important to check the data and understand the context.",
+        "exampleReading": "බ්: ඉට් ඉස් ඉම්ප්ඔර්ට්ඇන්ට් ට්ඔ ච්එක්ක් ත්එ ඩ්ඇට්ඇ ඇන්ඩ් අන්ඩ්එර්ස්ට්ඇන්ඩ් ත්එ ක්ඔන්ට්එක්ස්ට්.",
+        "translation": "දත්ත පරීක්ෂා කර සන්දර්භය තේරුම් ගැනීම වැදගත්."
       },
       {
         "word": "counterargument",
         "reading": "කවුන්ටර් ආර්ග්‍යුමන්ට්",
         "meaning": "ප්‍රතිතර්කය",
-        "example": "පබ්ලික් ඩිබේට් හෙල්ප්ස් අස් අන්ඩර්ස්ටෑන්ඩ් ඩිෆරන්ට් ඔපීනියන්ස්.",
-        "exampleReading": "Reported speech, opinion phrases and concession clauses.",
+        "example": "A: Public debate helps us understand different opinions.",
+        "exampleReading": "ඇ: ප්අබ්ල්ඉක් ඩ්එබ්ඇට්එ හ්එල්ප්ස් අස් අන්ඩ්එර්ස්ට්ඇන්ඩ් ඩ්ඉෆ්ෆ්එර්එන්ට් ඔප්ඉන්ඉඔන්ස්.",
         "translation": "Public debate helps us understand different opinions."
       },
       {
         "word": "persuade",
         "reading": "පර්ස්වේඩ්",
         "meaning": "ඒත්තු ගන්වනවා",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: We should listen to both sides before reaching a conclusion.",
+        "exampleReading": "බ්: ව්එ ෂ්අවුල්ඩ් ල්ඉස්ට්එන් ට්ඔ බ්ඔත් ස්ඉඩ්එස් බ්එෆ්ඔර්එ ර්ඊච්ඉං ඇ ක්ඔන්ක්ල්අස්ඉඔන්.",
+        "translation": "නිගමනයකට එන්න පෙර දෙපාර්ශ්වයටම සවන් දිය යුතුයි."
       },
       {
         "word": "discuss",
         "reading": "ඩිස්කස්",
         "meaning": "සාකච්ඡා කරනවා",
-        "example": "Based on the available information, we can make a better decision.",
-        "exampleReading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "example": "A: One speaker presented data, while the other shared personal experience.",
+        "exampleReading": "ඇ: ඔන්එ ස්ප්ඊක්එර් ප්ර්එස්එන්ට්එඩ් ඩ්ඇට්ඇ, වඉල්එ ත්එ ඔත්එර් ෂ්ඇර්එඩ් ප්එර්ස්ඔන්ඇල් එක්ස්ප්එර්ඉඑන්ක්එ.",
+        "translation": "එක් කථිකයෙක් දත්ත ඉදිරිපත් කළ අතර අනෙක් කෙනා පෞද්ගලික අත්දැකීමක් බෙදාගත්තා."
       },
       {
         "word": "conclude",
         "reading": "කන්ක්ලූඩ්",
         "meaning": "නිගමනය කරනවා",
-        "example": "This approach has advantages, but possible risks should also be considered.",
-        "exampleReading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "example": "B: It is important to check the data and understand the context.",
+        "exampleReading": "බ්: ඉට් ඉස් ඉම්ප්ඔර්ට්ඇන්ට් ට්ඔ ච්එක්ක් ත්එ ඩ්ඇට්ඇ ඇන්ඩ් අන්ඩ්එර්ස්ට්ඇන්ඩ් ත්එ ක්ඔන්ට්එක්ස්ට්.",
+        "translation": "දත්ත පරීක්ෂා කර සන්දර්භය තේරුම් ගැනීම වැදගත්."
       }
     ],
     "grammarTitle": "Grammar",
@@ -8270,24 +8270,24 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "examples": [
       {
-        "text": "Public debate helps us understand different opinions.",
-        "reading": "Reported speech, opinion phrases and concession clauses.",
+        "text": "A: Public debate helps us understand different opinions.",
+        "reading": "ඇ: ප්අබ්ල්ඉක් ඩ්එබ්ඇට්එ හ්එල්ප්ස් අස් අන්ඩ්එර්ස්ට්ඇන්ඩ් ඩ්ඉෆ්ෆ්එර්එන්ට් ඔප්ඉන්ඉඔන්ස්.",
         "meaning": "Public debate helps us understand different opinions."
       },
       {
-        "text": "It is important to consider all available options carefully.",
-        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "meaning": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "text": "B: We should listen to both sides before reaching a conclusion.",
+        "reading": "බ්: ව්එ ෂ්අවුල්ඩ් ල්ඉස්ට්එන් ට්ඔ බ්ඔත් ස්ඉඩ්එස් බ්එෆ්ඔර්එ ර්ඊච්ඉං ඇ ක්ඔන්ක්ල්අස්ඉඔන්.",
+        "meaning": "නිගමනයකට එන්න පෙර දෙපාර්ශ්වයටම සවන් දිය යුතුයි."
       },
       {
-        "text": "Based on the available information, we can make a better decision.",
-        "reading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "meaning": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "text": "A: One speaker presented data, while the other shared personal experience.",
+        "reading": "ඇ: ඔන්එ ස්ප්ඊක්එර් ප්ර්එස්එන්ට්එඩ් ඩ්ඇට්ඇ, වඉල්එ ත්එ ඔත්එර් ෂ්ඇර්එඩ් ප්එර්ස්ඔන්ඇල් එක්ස්ප්එර්ඉඑන්ක්එ.",
+        "meaning": "එක් කථිකයෙක් දත්ත ඉදිරිපත් කළ අතර අනෙක් කෙනා පෞද්ගලික අත්දැකීමක් බෙදාගත්තා."
       },
       {
-        "text": "This approach has advantages, but possible risks should also be considered.",
-        "reading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "meaning": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "text": "B: It is important to check the data and understand the context.",
+        "reading": "බ්: ඉට් ඉස් ඉම්ප්ඔර්ට්ඇන්ට් ට්ඔ ච්එක්ක් ත්එ ඩ්ඇට්ඇ ඇන්ඩ් අන්ඩ්එර්ස්ට්ඇන්ඩ් ත්එ ක්ඔන්ට්එක්ස්ට්.",
+        "meaning": "දත්ත පරීක්ෂා කර සන්දර්භය තේරුම් ගැනීම වැදගත්."
       }
     ],
     "dialogue": [
@@ -8376,65 +8376,65 @@ export const ENGLISH_B1_LESSONS = [
         "word": "complex",
         "reading": "කොම්ප්ලෙක්ස්",
         "meaning": "සංකීර්ණ",
-        "example": "බිෆෝර් චූසිං අ සලූෂන් වී ෂුඩ් ඉවැලුවේට් පොසිබල් කොන්සිකුවෙන්සිස්.",
-        "exampleReading": "Conditionals, modal perfect and evaluation adjectives.",
+        "example": "A: Before choosing a solution, we should evaluate possible consequences.",
+        "exampleReading": "ඇ: බ්එෆ්ඔර්එ ච්උස්ඉං ඇ ස්ඔල්අෂන්, ව්එ ෂ්අවුල්ඩ් එව්ඇල්අඇට්එ ප්ඔස්ස්ඉබ්ල්එ ක්ඔන්ස්එක්වඑන්ක්එස්.",
         "translation": "Before choosing a solution, we should evaluate possible consequences."
       },
       {
         "word": "evaluate",
         "reading": "ඉවැලුවේට්",
         "meaning": "ඇගයීම",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: We should assess the consequences and contact another supplier immediately.",
+        "exampleReading": "බ්: ව්එ ෂ්අවුල්ඩ් ඇස්ස්එස්ස් ත්එ ක්ඔන්ස්එක්වඑන්ක්එස් ඇන්ඩ් ක්ඔන්ට්ඇක්ට් ඇන්ඔත්එර් ස්අප්ප්ල්ඉඑර් ඉම්ම්එඩ්ඉඇට්එල්යි.",
+        "translation": "ප්‍රතිවිපාක තක්සේරු කර වහාම වෙනත් සැපයුම්කරුවෙකු සම්බන්ධ කරගත යුතුයි."
       },
       {
         "word": "consequence",
         "reading": "කොන්සිකුවෙන්ස්",
         "meaning": "ප්‍රතිවිපාකය",
-        "example": "Based on the available information, we can make a better decision.",
-        "exampleReading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "example": "A: That may increase the costs.",
+        "exampleReading": "ඇ: ත්ඇට් ම්ඒ ඉන්ක්ර්ඊස්එ ත්එ ක්ඔස්ට්ස්.",
+        "translation": "එයින් වියදම් වැඩි විය හැකියි."
       },
       {
         "word": "option",
         "reading": "ඔප්ෂන්",
         "meaning": "විකල්පය",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: Let us compare the cost of the delay with the cost of an alternative solution.",
+        "exampleReading": "බ්: ල්එට් අස් ක්ඔම්ප්ඇර්එ ත්එ ක්ඔස්ට් ඔෆ් ත්එ ඩ්එල්ඒ ව්ඉත් ත්එ ක්ඔස්ට් ඔෆ් ඇන් ඇල්ට්එර්න්ඇට්ඉව්එ ස්ඔල්අෂන්.",
+        "translation": "ප්‍රමාදයේ වියදම විකල්ප විසඳුමේ වියදම සමඟ සසඳමු."
       },
       {
         "word": "risk",
         "reading": "රිස්ක්",
         "meaning": "අවදානම",
-        "example": "This approach has advantages, but possible risks should also be considered.",
-        "exampleReading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "example": "A: Before choosing a solution, we should evaluate possible consequences.",
+        "exampleReading": "ඇ: බ්එෆ්ඔර්එ ච්උස්ඉං ඇ ස්ඔල්අෂන්, ව්එ ෂ්අවුල්ඩ් එව්ඇල්අඇට්එ ප්ඔස්ස්ඉබ්ල්එ ක්ඔන්ස්එක්වඑන්ක්එස්.",
+        "translation": "Before choosing a solution, we should evaluate possible consequences."
       },
       {
         "word": "benefit",
         "reading": "බෙනිෆිට්",
         "meaning": "ප්‍රයෝජනය",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: We should assess the consequences and contact another supplier immediately.",
+        "exampleReading": "බ්: ව්එ ෂ්අවුල්ඩ් ඇස්ස්එස්ස් ත්එ ක්ඔන්ස්එක්වඑන්ක්එස් ඇන්ඩ් ක්ඔන්ට්ඇක්ට් ඇන්ඔත්එර් ස්අප්ප්ල්ඉඑර් ඉම්ම්එඩ්ඉඇට්එල්යි.",
+        "translation": "ප්‍රතිවිපාක තක්සේරු කර වහාම වෙනත් සැපයුම්කරුවෙකු සම්බන්ධ කරගත යුතුයි."
       },
       {
         "word": "effective",
         "reading": "ඉෆෙක්ටිව්",
         "meaning": "ඵලදායී",
-        "example": "Based on the available information, we can make a better decision.",
-        "exampleReading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "example": "A: That may increase the costs.",
+        "exampleReading": "ඇ: ත්ඇට් ම්ඒ ඉන්ක්ර්ඊස්එ ත්එ ක්ඔස්ට්ස්.",
+        "translation": "එයින් වියදම් වැඩි විය හැකියි."
       },
       {
         "word": "feasible",
         "reading": "ෆීසිබල්",
         "meaning": "කළ හැකි",
-        "example": "This approach has advantages, but possible risks should also be considered.",
-        "exampleReading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "example": "B: Let us compare the cost of the delay with the cost of an alternative solution.",
+        "exampleReading": "බ්: ල්එට් අස් ක්ඔම්ප්ඇර්එ ත්එ ක්ඔස්ට් ඔෆ් ත්එ ඩ්එල්ඒ ව්ඉත් ත්එ ක්ඔස්ට් ඔෆ් ඇන් ඇල්ට්එර්න්ඇට්ඉව්එ ස්ඔල්අෂන්.",
+        "translation": "ප්‍රමාදයේ වියදම විකල්ප විසඳුමේ වියදම සමඟ සසඳමු."
       }
     ],
     "grammarTitle": "Grammar",
@@ -8448,24 +8448,24 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "examples": [
       {
-        "text": "Before choosing a solution, we should evaluate possible consequences.",
-        "reading": "Conditionals, modal perfect and evaluation adjectives.",
+        "text": "A: Before choosing a solution, we should evaluate possible consequences.",
+        "reading": "ඇ: බ්එෆ්ඔර්එ ච්උස්ඉං ඇ ස්ඔල්අෂන්, ව්එ ෂ්අවුල්ඩ් එව්ඇල්අඇට්එ ප්ඔස්ස්ඉබ්ල්එ ක්ඔන්ස්එක්වඑන්ක්එස්.",
         "meaning": "Before choosing a solution, we should evaluate possible consequences."
       },
       {
-        "text": "It is important to consider all available options carefully.",
-        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "meaning": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "text": "B: We should assess the consequences and contact another supplier immediately.",
+        "reading": "බ්: ව්එ ෂ්අවුල්ඩ් ඇස්ස්එස්ස් ත්එ ක්ඔන්ස්එක්වඑන්ක්එස් ඇන්ඩ් ක්ඔන්ට්ඇක්ට් ඇන්ඔත්එර් ස්අප්ප්ල්ඉඑර් ඉම්ම්එඩ්ඉඇට්එල්යි.",
+        "meaning": "ප්‍රතිවිපාක තක්සේරු කර වහාම වෙනත් සැපයුම්කරුවෙකු සම්බන්ධ කරගත යුතුයි."
       },
       {
-        "text": "Based on the available information, we can make a better decision.",
-        "reading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "meaning": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "text": "A: That may increase the costs.",
+        "reading": "ඇ: ත්ඇට් ම්ඒ ඉන්ක්ර්ඊස්එ ත්එ ක්ඔස්ට්ස්.",
+        "meaning": "එයින් වියදම් වැඩි විය හැකියි."
       },
       {
-        "text": "This approach has advantages, but possible risks should also be considered.",
-        "reading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "meaning": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "text": "B: Let us compare the cost of the delay with the cost of an alternative solution.",
+        "reading": "බ්: ල්එට් අස් ක්ඔම්ප්ඇර්එ ත්එ ක්ඔස්ට් ඔෆ් ත්එ ඩ්එල්ඒ ව්ඉත් ත්එ ක්ඔස්ට් ඔෆ් ඇන් ඇල්ට්එර්න්ඇට්ඉව්එ ස්ඔල්අෂන්.",
+        "meaning": "ප්‍රමාදයේ වියදම විකල්ප විසඳුමේ වියදම සමඟ සසඳමු."
       }
     ],
     "dialogue": [
@@ -8554,65 +8554,65 @@ export const ENGLISH_B1_LESSONS = [
         "word": "forecast",
         "reading": "ෆෝර්කාස්ට්",
         "meaning": "අනාවැකිය",
-        "example": "අ ෆ්ලෙක්සිබල් ප්ලෑන් හෙල්ප්ස් අස් අඩැප්ට් ටු චේන්ජස්.",
-        "exampleReading": "Future continuous, future perfect and conditional planning.",
+        "example": "A: A flexible plan helps us adapt to changes.",
+        "exampleReading": "ඇ: ඇ ෆ්ල්එක්ස්ඉබ්ල්එ ප්ල්ඇන් හ්එල්ප්ස් අස් ඇඩ්ඇප්ට් ට්ඔ ච්ඇංඑස්.",
         "translation": "A flexible plan helps us adapt to changes."
       },
       {
         "word": "flexible",
         "reading": "ෆ්ලෙක්සිබල්",
         "meaning": "නම්‍යශීලී",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: Make a plan that includes deadlines, costs and a backup option.",
+        "exampleReading": "බ්: ම්ඇක්එ ඇ ප්ල්ඇන් ත්ඇට් ඉන්ක්ල්අඩ්එස් ඩ්ඊඩ්ල්ඉන්එස්, ක්ඔස්ට්ස් ඇන්ඩ් ඇ බ්ඇක්ක්අප් ඔප්ෂන්.",
+        "translation": "කාලසීමා, වියදම් සහ විකල්ප සැලැස්මක් ඇතුළත් සැලැස්මක් සකස් කරන්න."
       },
       {
         "word": "prepare",
         "reading": "ප්‍රිපෙයාර්",
         "meaning": "සූදානම් කරනවා",
-        "example": "Based on the available information, we can make a better decision.",
-        "exampleReading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "example": "A: I cannot predict every change.",
+        "exampleReading": "ඇ: ඉ ක්ඇන්න්ඔට් ප්ර්එඩ්ඉක්ට් එව්එර්යි ච්ඇංඑ.",
+        "translation": "සියලු වෙනස්කම් කලින් අනාවැකි කියන්න මට බැහැ."
       },
       {
         "word": "adapt",
         "reading": "අඩැප්ට්",
         "meaning": "හැඩගැසෙනවා",
-        "example": "This approach has advantages, but possible risks should also be considered.",
-        "exampleReading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "example": "B: That is why the plan should be adjusted regularly to new circumstances.",
+        "exampleReading": "බ්: ත්ඇට් ඉස් වයි ත්එ ප්ල්ඇන් ෂ්අවුල්ඩ් බ්එ ඇඩ්ජ්අස්ට්එඩ් ර්එග්අල්ඇර්ල්යි ට්ඔ න්එව් ක්ඉර්ක්අම්ස්ට්ඇන්ක්එස්.",
+        "translation": "නව තත්ත්වයන්ට අනුව සැලැස්ම නිතර සකස් කළ යුතුයි."
       },
       {
         "word": "uncertainty",
         "reading": "අන්සර්ටන්ටි",
         "meaning": "අනිශ්චිතභාවය",
-        "example": "අ ෆ්ලෙක්සිබල් ප්ලෑන් හෙල්ප්ස් අස් අඩැප්ට් ටු චේන්ජස්.",
-        "exampleReading": "Future continuous, future perfect and conditional planning.",
+        "example": "A: A flexible plan helps us adapt to changes.",
+        "exampleReading": "ඇ: ඇ ෆ්ල්එක්ස්ඉබ්ල්එ ප්ල්ඇන් හ්එල්ප්ස් අස් ඇඩ්ඇප්ට් ට්ඔ ච්ඇංඑස්.",
         "translation": "A flexible plan helps us adapt to changes."
       },
       {
         "word": "strategy",
         "reading": "ස්ට්‍රැටජි",
         "meaning": "උපායමාර්ගය",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: Make a plan that includes deadlines, costs and a backup option.",
+        "exampleReading": "බ්: ම්ඇක්එ ඇ ප්ල්ඇන් ත්ඇට් ඉන්ක්ල්අඩ්එස් ඩ්ඊඩ්ල්ඉන්එස්, ක්ඔස්ට්ස් ඇන්ඩ් ඇ බ්ඇක්ක්අප් ඔප්ෂන්.",
+        "translation": "කාලසීමා, වියදම් සහ විකල්ප සැලැස්මක් ඇතුළත් සැලැස්මක් සකස් කරන්න."
       },
       {
         "word": "backup plan",
         "reading": "බැකප් ප්ලෑන්",
         "meaning": "විකල්ප සැලැස්ම",
-        "example": "Based on the available information, we can make a better decision.",
-        "exampleReading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "example": "A: I cannot predict every change.",
+        "exampleReading": "ඇ: ඉ ක්ඇන්න්ඔට් ප්ර්එඩ්ඉක්ට් එව්එර්යි ච්ඇංඑ.",
+        "translation": "සියලු වෙනස්කම් කලින් අනාවැකි කියන්න මට බැහැ."
       },
       {
         "word": "long-term",
         "reading": "ලෝන්ග් ටර්ම්",
         "meaning": "දිගුකාලීන",
-        "example": "This approach has advantages, but possible risks should also be considered.",
-        "exampleReading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "example": "B: That is why the plan should be adjusted regularly to new circumstances.",
+        "exampleReading": "බ්: ත්ඇට් ඉස් වයි ත්එ ප්ල්ඇන් ෂ්අවුල්ඩ් බ්එ ඇඩ්ජ්අස්ට්එඩ් ර්එග්අල්ඇර්ල්යි ට්ඔ න්එව් ක්ඉර්ක්අම්ස්ට්ඇන්ක්එස්.",
+        "translation": "නව තත්ත්වයන්ට අනුව සැලැස්ම නිතර සකස් කළ යුතුයි."
       }
     ],
     "grammarTitle": "Grammar",
@@ -8626,24 +8626,24 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "examples": [
       {
-        "text": "A flexible plan helps us adapt to changes.",
-        "reading": "Future continuous, future perfect and conditional planning.",
+        "text": "A: A flexible plan helps us adapt to changes.",
+        "reading": "ඇ: ඇ ෆ්ල්එක්ස්ඉබ්ල්එ ප්ල්ඇන් හ්එල්ප්ස් අස් ඇඩ්ඇප්ට් ට්ඔ ච්ඇංඑස්.",
         "meaning": "A flexible plan helps us adapt to changes."
       },
       {
-        "text": "It is important to consider all available options carefully.",
-        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "meaning": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "text": "B: Make a plan that includes deadlines, costs and a backup option.",
+        "reading": "බ්: ම්ඇක්එ ඇ ප්ල්ඇන් ත්ඇට් ඉන්ක්ල්අඩ්එස් ඩ්ඊඩ්ල්ඉන්එස්, ක්ඔස්ට්ස් ඇන්ඩ් ඇ බ්ඇක්ක්අප් ඔප්ෂන්.",
+        "meaning": "කාලසීමා, වියදම් සහ විකල්ප සැලැස්මක් ඇතුළත් සැලැස්මක් සකස් කරන්න."
       },
       {
-        "text": "Based on the available information, we can make a better decision.",
-        "reading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "meaning": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "text": "A: I cannot predict every change.",
+        "reading": "ඇ: ඉ ක්ඇන්න්ඔට් ප්ර්එඩ්ඉක්ට් එව්එර්යි ච්ඇංඑ.",
+        "meaning": "සියලු වෙනස්කම් කලින් අනාවැකි කියන්න මට බැහැ."
       },
       {
-        "text": "This approach has advantages, but possible risks should also be considered.",
-        "reading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "meaning": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "text": "B: That is why the plan should be adjusted regularly to new circumstances.",
+        "reading": "බ්: ත්ඇට් ඉස් වයි ත්එ ප්ල්ඇන් ෂ්අවුල්ඩ් බ්එ ඇඩ්ජ්අස්ට්එඩ් ර්එග්අල්ඇර්ල්යි ට්ඔ න්එව් ක්ඉර්ක්අම්ස්ට්ඇන්ක්එස්.",
+        "meaning": "නව තත්ත්වයන්ට අනුව සැලැස්ම නිතර සකස් කළ යුතුයි."
       }
     ],
     "dialogue": [
@@ -8732,65 +8732,65 @@ export const ENGLISH_B1_LESSONS = [
         "word": "introduction",
         "reading": "ඉන්ට්‍රඩක්ෂන්",
         "meaning": "හැඳින්වීම",
-        "example": "අ ක්ලියර් ප්‍රෙසෙන්ටේෂන් කනෙක්ට්ස් ඉග්සැම්පල්ස් රීසන්ස් ඇන්ඩ් අ කන්ක්ලූෂන්.",
-        "exampleReading": "Discourse markers for introductions, supporting points and conclusions.",
+        "example": "A: A clear presentation connects examples, reasons and a conclusion.",
+        "exampleReading": "ඇ: ඇ ක්ල්ඊර් ප්ර්එස්එන්ට්ඇෂන් ක්ඔන්න්එක්ට්ස් එක්ස්ඇම්ප්ල්එස්, ර්ඊස්ඔන්ස් ඇන්ඩ් ඇ ක්ඔන්ක්ල්අස්ඉඔන්.",
         "translation": "A clear presentation connects examples, reasons and a conclusion."
       },
       {
         "word": "supporting point",
         "reading": "සපෝර්ටින් පොයින්ට්",
         "meaning": "සහායක කරුණ",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: Add a concrete example and clearly repeat the main conclusion at the end.",
+        "exampleReading": "බ්: ඇඩ්ඩ් ඇ ක්ඔන්ක්ර්එට්එ එක්ස්ඇම්ප්ල්එ ඇන්ඩ් ක්ල්ඊර්ල්යි ර්එප්ඊට් ත්එ ම්ඒන් ක්ඔන්ක්ල්අස්ඉඔන් ඇට් ත්එ එන්ඩ්.",
+        "translation": "නිශ්චිත උදාහරණයක් එක් කර අවසානයේ ප්‍රධාන නිගමනය පැහැදිලිව නැවත කියන්න."
       },
       {
         "word": "example",
         "reading": "ඉග්සැම්පල්",
         "meaning": "උදාහරණය",
-        "example": "Based on the available information, we can make a better decision.",
-        "exampleReading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "example": "A: That will help the audience follow the arguments more easily.",
+        "exampleReading": "ඇ: ත්ඇට් ව්ඉල්ල් හ්එල්ප් ත්එ ඇඅඩ්ඉඑන්ක්එ ෆ්ඔල්ල්ඕ ත්එ ඇර්ග්අම්එන්ට්ස් ම්ඔර්එ ඊස්ඉල්යි.",
+        "translation": "එවිට ප්‍රේක්ෂකයන්ට තර්ක පහසුවෙන් අනුගමනය කළ හැකියි."
       },
       {
         "word": "summary",
         "reading": "සමරි",
         "meaning": "සාරාංශය",
-        "example": "This approach has advantages, but possible risks should also be considered.",
-        "exampleReading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "example": "B: A good structure connects claims, evidence and a conclusion.",
+        "exampleReading": "බ්: ඇ ග්උඩ් ස්ට්ර්අක්ට්අර්එ ක්ඔන්න්එක්ට්ස් ක්ල්ඒම්ස්, එව්ඉඩ්එන්ක්එ ඇන්ඩ් ඇ ක්ඔන්ක්ල්අස්ඉඔන්.",
+        "translation": "හොඳ ව්‍යුහයක් අදහස්, සාක්ෂි සහ නිගමනය එකට සම්බන්ධ කරනවා."
       },
       {
         "word": "structure",
         "reading": "ස්ට්‍රක්චර්",
         "meaning": "ව්‍යුහය",
-        "example": "අ ක්ලියර් ප්‍රෙසෙන්ටේෂන් කනෙක්ට්ස් ඉග්සැම්පල්ස් රීසන්ස් ඇන්ඩ් අ කන්ක්ලූෂන්.",
-        "exampleReading": "Discourse markers for introductions, supporting points and conclusions.",
+        "example": "A: A clear presentation connects examples, reasons and a conclusion.",
+        "exampleReading": "ඇ: ඇ ක්ල්ඊර් ප්ර්එස්එන්ට්ඇෂන් ක්ඔන්න්එක්ට්ස් එක්ස්ඇම්ප්ල්එස්, ර්ඊස්ඔන්ස් ඇන්ඩ් ඇ ක්ඔන්ක්ල්අස්ඉඔන්.",
         "translation": "A clear presentation connects examples, reasons and a conclusion."
       },
       {
         "word": "transition",
         "reading": "ට්‍රාන්සිෂන්",
         "meaning": "සංක්‍රාන්තිය",
-        "example": "It is important to consider all available options carefully.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "example": "B: Add a concrete example and clearly repeat the main conclusion at the end.",
+        "exampleReading": "බ්: ඇඩ්ඩ් ඇ ක්ඔන්ක්ර්එට්එ එක්ස්ඇම්ප්ල්එ ඇන්ඩ් ක්ල්ඊර්ල්යි ර්එප්ඊට් ත්එ ම්ඒන් ක්ඔන්ක්ල්අස්ඉඔන් ඇට් ත්එ එන්ඩ්.",
+        "translation": "නිශ්චිත උදාහරණයක් එක් කර අවසානයේ ප්‍රධාන නිගමනය පැහැදිලිව නැවත කියන්න."
       },
       {
         "word": "emphasise",
         "reading": "එම්ෆසයිස්",
         "meaning": "අවධාරණය කරනවා",
-        "example": "Based on the available information, we can make a better decision.",
-        "exampleReading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "example": "A: That will help the audience follow the arguments more easily.",
+        "exampleReading": "ඇ: ත්ඇට් ව්ඉල්ල් හ්එල්ප් ත්එ ඇඅඩ්ඉඑන්ක්එ ෆ්ඔල්ල්ඕ ත්එ ඇර්ග්අම්එන්ට්ස් ම්ඔර්එ ඊස්ඉල්යි.",
+        "translation": "එවිට ප්‍රේක්ෂකයන්ට තර්ක පහසුවෙන් අනුගමනය කළ හැකියි."
       },
       {
         "word": "conclusion",
         "reading": "කන්ක්ලූෂන්",
         "meaning": "නිගමනය",
-        "example": "This approach has advantages, but possible risks should also be considered.",
-        "exampleReading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "example": "B: A good structure connects claims, evidence and a conclusion.",
+        "exampleReading": "බ්: ඇ ග්උඩ් ස්ට්ර්අක්ට්අර්එ ක්ඔන්න්එක්ට්ස් ක්ල්ඒම්ස්, එව්ඉඩ්එන්ක්එ ඇන්ඩ් ඇ ක්ඔන්ක්ල්අස්ඉඔන්.",
+        "translation": "හොඳ ව්‍යුහයක් අදහස්, සාක්ෂි සහ නිගමනය එකට සම්බන්ධ කරනවා."
       }
     ],
     "grammarTitle": "Grammar",
@@ -8804,24 +8804,24 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "examples": [
       {
-        "text": "A clear presentation connects examples, reasons and a conclusion.",
-        "reading": "Discourse markers for introductions, supporting points and conclusions.",
+        "text": "A: A clear presentation connects examples, reasons and a conclusion.",
+        "reading": "ඇ: ඇ ක්ල්ඊර් ප්ර්එස්එන්ට්ඇෂන් ක්ඔන්න්එක්ට්ස් එක්ස්ඇම්ප්ල්එස්, ර්ඊස්ඔන්ස් ඇන්ඩ් ඇ ක්ඔන්ක්ල්අස්ඉඔන්.",
         "meaning": "A clear presentation connects examples, reasons and a conclusion."
       },
       {
-        "text": "It is important to consider all available options carefully.",
-        "reading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් අවේලබල් ඔප්ෂන්ස් කෙයර්ෆුලි.",
-        "meaning": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "text": "B: Add a concrete example and clearly repeat the main conclusion at the end.",
+        "reading": "බ්: ඇඩ්ඩ් ඇ ක්ඔන්ක්ර්එට්එ එක්ස්ඇම්ප්ල්එ ඇන්ඩ් ක්ල්ඊර්ල්යි ර්එප්ඊට් ත්එ ම්ඒන් ක්ඔන්ක්ල්අස්ඉඔන් ඇට් ත්එ එන්ඩ්.",
+        "meaning": "නිශ්චිත උදාහරණයක් එක් කර අවසානයේ ප්‍රධාන නිගමනය පැහැදිලිව නැවත කියන්න."
       },
       {
-        "text": "Based on the available information, we can make a better decision.",
-        "reading": "බේස්ඩ් ඔන් දි අවේලබල් ඉන්ෆොර්මේෂන් වී කෑන් මේක් අ බෙටර් ඩිසිෂන්.",
-        "meaning": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "text": "A: That will help the audience follow the arguments more easily.",
+        "reading": "ඇ: ත්ඇට් ව්ඉල්ල් හ්එල්ප් ත්එ ඇඅඩ්ඉඑන්ක්එ ෆ්ඔල්ල්ඕ ත්එ ඇර්ග්අම්එන්ට්ස් ම්ඔර්එ ඊස්ඉල්යි.",
+        "meaning": "එවිට ප්‍රේක්ෂකයන්ට තර්ක පහසුවෙන් අනුගමනය කළ හැකියි."
       },
       {
-        "text": "This approach has advantages, but possible risks should also be considered.",
-        "reading": "දිස් ඇප්‍රෝච් හැස් ඇඩ්වාන්ටේජස් බට් පොසිබල් රිස්ක්ස් ෂුඩ් ඕල්සෝ බී කන්සිඩර්ඩ්.",
-        "meaning": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "text": "B: A good structure connects claims, evidence and a conclusion.",
+        "reading": "බ්: ඇ ග්උඩ් ස්ට්ර්අක්ට්අර්එ ක්ඔන්න්එක්ට්ස් ක්ල්ඒම්ස්, එව්ඉඩ්එන්ක්එ ඇන්ඩ් ඇ ක්ඔන්ක්ල්අස්ඉඔන්.",
+        "meaning": "හොඳ ව්‍යුහයක් අදහස්, සාක්ෂි සහ නිගමනය එකට සම්බන්ධ කරනවා."
       }
     ],
     "dialogue": [
