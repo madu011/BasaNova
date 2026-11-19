@@ -10,65 +10,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "wake up",
         "reading": "වේක් අප්",
         "meaning": "නැගිටිනවා",
-        "example": "wake up",
-        "exampleReading": "වේක් අප්",
-        "translation": "නැගිටිනවා"
+        "example": "What time do you wake up?",
+        "exampleReading": "වොට් ටයිම් ඩූ යූ වේක් අප්?",
+        "translation": "ඔයා කීයටද නැගිටින්නේ?"
       },
       {
         "word": "breakfast",
         "reading": "බ්‍රෙක්ෆස්ට්",
         "meaning": "උදෑසන ආහාරය",
-        "example": "breakfast",
-        "exampleReading": "බ්‍රෙක්ෆස්ට්",
-        "translation": "උදෑසන ආහාරය"
+        "example": "I wake up at seven.",
+        "exampleReading": "අයි වේක් අප් ඇට් සෙවන්.",
+        "translation": "මම හතට නැගිටිනවා."
       },
       {
         "word": "every day",
         "reading": "එව්රි ඩේ",
         "meaning": "හැමදාම",
-        "example": "every day",
-        "exampleReading": "එව්රි ඩේ",
-        "translation": "හැමදාම"
+        "example": "When do you start work?",
+        "exampleReading": "වෙන් ඩූ යූ ස්ටාර්ට් වර්ක්?",
+        "translation": "ඔයා වැඩ පටන් ගන්නේ කවදාද?"
       },
       {
         "word": "usually",
         "reading": "යූෂුවලි",
         "meaning": "සාමාන්‍යයෙන්",
-        "example": "usually",
-        "exampleReading": "යූෂුවලි",
-        "translation": "සාමාන්‍යයෙන්"
+        "example": "What time do you wake up?",
+        "exampleReading": "වොට් ටයිම් ඩූ යූ වේක් අප්?",
+        "translation": "ඔයා කීයටද නැගිටින්නේ?"
       },
       {
         "word": "start",
         "reading": "ස්ටාර්ට්",
         "meaning": "පටන් ගන්නවා",
-        "example": "start",
-        "exampleReading": "ස්ටාර්ට්",
-        "translation": "පටන් ගන්නවා"
+        "example": "When do you start work?",
+        "exampleReading": "වෙන් ඩූ යූ ස්ටාර්ට් වර්ක්?",
+        "translation": "ඔයා වැඩ පටන් ගන්නේ කවදාද?"
       },
       {
         "word": "finish",
         "reading": "ෆිනිෂ්",
         "meaning": "අවසන් කරනවා",
-        "example": "finish",
-        "exampleReading": "ෆිනිෂ්",
-        "translation": "අවසන් කරනවා"
+        "example": "When do you start work?",
+        "exampleReading": "වෙන් ඩූ යූ ස්ටාර්ට් වර්ක්?",
+        "translation": "ඔයා වැඩ පටන් ගන්නේ කවදාද?"
       },
       {
         "word": "in the evening",
         "reading": "ඉන් දි ඊව්නින්",
         "meaning": "සවසට",
-        "example": "in the evening",
-        "exampleReading": "ඉන් දි ඊව්නින්",
-        "translation": "සවසට"
+        "example": "What time do you wake up?",
+        "exampleReading": "වොට් ටයිම් ඩූ යූ වේක් අප්?",
+        "translation": "ඔයා කීයටද නැගිටින්නේ?"
       },
       {
         "word": "relax",
         "reading": "රිලැක්ස්",
         "meaning": "විවේක ගන්නවා",
-        "example": "relax",
-        "exampleReading": "රිලැක්ස්",
-        "translation": "විවේක ගන්නවා"
+        "example": "I wake up at seven.",
+        "exampleReading": "අයි වේක් අප් ඇට් සෙවන්.",
+        "translation": "මම හතට නැගිටිනවා."
       }
     ],
     "grammarTitle": "Grammar",
@@ -183,65 +183,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "apartment",
         "reading": "අපාර්ට්මන්ට්",
         "meaning": "මහල් නිවාසය",
-        "example": "apartment",
-        "exampleReading": "අපාර්ට්මන්ට්",
-        "translation": "මහල් නිවාසය"
+        "example": "Is the apartment available?",
+        "exampleReading": "ඉස් දි අපාර්ට්මන්ට් අවේලබල්?",
+        "translation": "මහල් නිවාසය හිස්ද?"
       },
       {
         "word": "room",
         "reading": "රූම්",
         "meaning": "කාමරය",
-        "example": "room",
-        "exampleReading": "රූම්",
-        "translation": "කාමරය"
+        "example": "Yes, it has one bedroom and a kitchen.",
+        "exampleReading": "යෙස්, ඉට් හැස් වන් බෙඩ්රූම් ඇන්ඩ් අ කිචන්.",
+        "translation": "ඔව්, නිදන කාමරයක් සහ මුළුතැන්ගෙයක් තියෙනවා."
       },
       {
         "word": "kitchen",
         "reading": "කිචන්",
         "meaning": "මුළුතැන්ගෙය",
-        "example": "kitchen",
-        "exampleReading": "කිචන්",
-        "translation": "මුළුතැන්ගෙය"
+        "example": "Yes, it has one bedroom and a kitchen.",
+        "exampleReading": "යෙස්, ඉට් හැස් වන් බෙඩ්රූම් ඇන්ඩ් අ කිචන්.",
+        "translation": "ඔව්, නිදන කාමරයක් සහ මුළුතැන්ගෙයක් තියෙනවා."
       },
       {
         "word": "bathroom",
         "reading": "බාත්රූම්",
         "meaning": "නාන කාමරය",
-        "example": "bathroom",
-        "exampleReading": "බාත්රූම්",
-        "translation": "නාන කාමරය"
+        "example": "Is the apartment available?",
+        "exampleReading": "ඉස් දි අපාර්ට්මන්ට් අවේලබල්?",
+        "translation": "මහල් නිවාසය හිස්ද?"
       },
       {
         "word": "rent",
         "reading": "රෙන්ට්",
         "meaning": "කුලිය",
-        "example": "rent",
-        "exampleReading": "රෙන්ට්",
-        "translation": "කුලිය"
+        "example": "How much is the rent?",
+        "exampleReading": "හව් මච් ඉස් දි රෙන්ට්?",
+        "translation": "කුලිය කීයද?"
       },
       {
         "word": "bill",
         "reading": "බිල්",
         "meaning": "බිල",
-        "example": "bill",
-        "exampleReading": "බිල්",
-        "translation": "බිල"
+        "example": "How much is the rent?",
+        "exampleReading": "හව් මච් ඉස් දි රෙන්ට්?",
+        "translation": "කුලිය කීයද?"
       },
       {
         "word": "furniture",
         "reading": "ෆර්නිචර්",
         "meaning": "ගෘහ භාණ්ඩ",
-        "example": "furniture",
-        "exampleReading": "ෆර්නිචර්",
-        "translation": "ගෘහ භාණ්ඩ"
+        "example": "Is the apartment available?",
+        "exampleReading": "ඉස් දි අපාර්ට්මන්ට් අවේලබල්?",
+        "translation": "මහල් නිවාසය හිස්ද?"
       },
       {
         "word": "rent out",
         "reading": "රෙන්ට් අවුට්",
         "meaning": "කුලියට දෙනවා",
-        "example": "rent out",
-        "exampleReading": "රෙන්ට් අවුට්",
-        "translation": "කුලියට දෙනවා"
+        "example": "Yes, it has one bedroom and a kitchen.",
+        "exampleReading": "යෙස්, ඉට් හැස් වන් බෙඩ්රූම් ඇන්ඩ් අ කිචන්.",
+        "translation": "ඔව්, නිදන කාමරයක් සහ මුළුතැන්ගෙයක් තියෙනවා."
       }
     ],
     "grammarTitle": "Grammar",
@@ -356,65 +356,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "book an appointment",
         "reading": "බුක් ඇන් අපොයින්ට්මන්ට්",
         "meaning": "වෛද්‍ය හමුවක් වෙන්කරගන්න",
-        "example": "book an appointment",
-        "exampleReading": "බුක් ඇන් අපොයින්ට්මන්ට්",
-        "translation": "වෛද්‍ය හමුවක් වෙන්කරගන්න"
+        "example": "I'd like to book a check-up.",
+        "exampleReading": "අයිඩ් ලයික් ටු බුක් අ චෙක් අප්.",
+        "translation": "මට වෛද්‍ය පරීක්ෂාවක් වෙන්කරගන්න ඕනේ."
       },
       {
         "word": "check-up",
         "reading": "චෙක් අප්",
         "meaning": "වෛද්‍ය පරීක්ෂාව",
-        "example": "check-up",
-        "exampleReading": "චෙක් අප්",
-        "translation": "වෛද්‍ය පරීක්ෂාව"
+        "example": "I'd like to book a check-up.",
+        "exampleReading": "අයිඩ් ලයික් ටු බුක් අ චෙක් අප්.",
+        "translation": "මට වෛද්‍ය පරීක්ෂාවක් වෙන්කරගන්න ඕනේ."
       },
       {
         "word": "pharmacy",
         "reading": "ෆාමසි",
         "meaning": "ඖෂධහල",
-        "example": "pharmacy",
-        "exampleReading": "ෆාමසි",
-        "translation": "ඖෂධහල"
+        "example": "Tomorrow at ten.",
+        "exampleReading": "ටුමාරෝ ඇට් ටෙන්.",
+        "translation": "හෙට දහයට."
       },
       {
         "word": "symptom",
         "reading": "සිම්ප්ටම්",
         "meaning": "රෝග ලක්ෂණය",
-        "example": "symptom",
-        "exampleReading": "සිම්ප්ටම්",
-        "translation": "රෝග ලක්ෂණය"
+        "example": "I'd like to book a check-up.",
+        "exampleReading": "අයිඩ් ලයික් ටු බුක් අ චෙක් අප්.",
+        "translation": "මට වෛද්‍ය පරීක්ෂාවක් වෙන්කරගන්න ඕනේ."
       },
       {
         "word": "temperature",
         "reading": "ටෙම්පරචර්",
         "meaning": "උණ / උෂ්ණත්වය",
-        "example": "temperature",
-        "exampleReading": "ටෙම්පරචර්",
-        "translation": "උණ / උෂ්ණත්වය"
+        "example": "When is convenient for you?",
+        "exampleReading": "වෙන් ඉස් කන්වීනියන්ට් ෆෝර් යූ?",
+        "translation": "ඔබට කවදාද පහසු?"
       },
       {
         "word": "it hurts",
         "reading": "ඉට් හර්ට්ස්",
         "meaning": "රිදෙනවා",
-        "example": "it hurts",
-        "exampleReading": "ඉට් හර්ට්ස්",
-        "translation": "රිදෙනවා"
+        "example": "Tomorrow at ten.",
+        "exampleReading": "ටුමාරෝ ඇට් ටෙන්.",
+        "translation": "හෙට දහයට."
       },
       {
         "word": "rest",
         "reading": "රෙස්ට්",
         "meaning": "විවේකය",
-        "example": "rest",
-        "exampleReading": "රෙස්ට්",
-        "translation": "විවේකය"
+        "example": "I'd like to book a check-up.",
+        "exampleReading": "අයිඩ් ලයික් ටු බුක් අ චෙක් අප්.",
+        "translation": "මට වෛද්‍ය පරීක්ෂාවක් වෙන්කරගන්න ඕනේ."
       },
       {
         "word": "health card",
         "reading": "හෙල්ත් කාඩ්",
         "meaning": "සෞඛ්‍ය කාඩ්පත",
-        "example": "health card",
-        "exampleReading": "හෙල්ත් කාඩ්",
-        "translation": "සෞඛ්‍ය කාඩ්පත"
+        "example": "When is convenient for you?",
+        "exampleReading": "වෙන් ඉස් කන්වීනියන්ට් ෆෝර් යූ?",
+        "translation": "ඔබට කවදාද පහසු?"
       }
     ],
     "grammarTitle": "Grammar",
@@ -529,65 +529,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "shift",
         "reading": "ෂිෆ්ට්",
         "meaning": "වැඩ මුරය",
-        "example": "shift",
-        "exampleReading": "ෂිෆ්ට්",
-        "translation": "වැඩ මුරය"
+        "example": "Which shift are you working on Friday?",
+        "exampleReading": "විච් ෂිෆ්ට් ආර් යූ වර්කින් ඔන් ෆ්‍රයිඩේ?",
+        "translation": "ඔයා සිකුරාදා කුමන වැඩ මුරයද කරන්නේ?"
       },
       {
         "word": "schedule",
         "reading": "ස්කෙජූල්",
         "meaning": "කාලසටහන",
-        "example": "schedule",
-        "exampleReading": "ස්කෙජූල්",
-        "translation": "කාලසටහන"
+        "example": "I'm working the evening shift.",
+        "exampleReading": "අයිම් වර්කින් දි ඊව්නින් ෂිෆ්ට්.",
+        "translation": "මම සවස වැඩ මුරය කරනවා."
       },
       {
         "word": "colleague",
         "reading": "කොලීග්",
         "meaning": "සහ සේවකයා",
-        "example": "colleague",
-        "exampleReading": "කොලීග්",
-        "translation": "සහ සේවකයා"
+        "example": "Could we swap shifts?",
+        "exampleReading": "කුඩ් වී ස්වොප් ෂිෆ්ට්ස්?",
+        "translation": "අපිට වැඩ මුර මාරු කරගන්න පුළුවන්ද?"
       },
       {
         "word": "day off",
         "reading": "ඩේ ඕෆ්",
         "meaning": "නිවාඩු දිනය",
-        "example": "day off",
-        "exampleReading": "ඩේ ඕෆ්",
-        "translation": "නිවාඩු දිනය"
+        "example": "Which shift are you working on Friday?",
+        "exampleReading": "විච් ෂිෆ්ට් ආර් යූ වර්කින් ඔන් ෆ්‍රයිඩේ?",
+        "translation": "ඔයා සිකුරාදා කුමන වැඩ මුරයද කරන්නේ?"
       },
       {
         "word": "overtime",
         "reading": "ඕවර්ටයිම්",
         "meaning": "අතිකාල",
-        "example": "overtime",
-        "exampleReading": "ඕවර්ටයිම්",
-        "translation": "අතිකාල"
+        "example": "I'm working the evening shift.",
+        "exampleReading": "අයිම් වර්කින් දි ඊව්නින් ෂිෆ්ට්.",
+        "translation": "මම සවස වැඩ මුරය කරනවා."
       },
       {
         "word": "salary",
         "reading": "සැලරි",
         "meaning": "වැටුප",
-        "example": "salary",
-        "exampleReading": "සැලරි",
-        "translation": "වැටුප"
+        "example": "Could we swap shifts?",
+        "exampleReading": "කුඩ් වී ස්වොප් ෂිෆ්ට්ස්?",
+        "translation": "අපිට වැඩ මුර මාරු කරගන්න පුළුවන්ද?"
       },
       {
         "word": "cover a shift",
         "reading": "කවර් අ ෂිෆ්ට්",
         "meaning": "වැඩ මුරයක් ආවරණය කරනවා",
-        "example": "cover a shift",
-        "exampleReading": "කවර් අ ෂිෆ්ට්",
-        "translation": "වැඩ මුරයක් ආවරණය කරනවා"
+        "example": "Which shift are you working on Friday?",
+        "exampleReading": "විච් ෂිෆ්ට් ආර් යූ වර්කින් ඔන් ෆ්‍රයිඩේ?",
+        "translation": "ඔයා සිකුරාදා කුමන වැඩ මුරයද කරන්නේ?"
       },
       {
         "word": "arrange",
         "reading": "අරේන්ජ්",
         "meaning": "සකස් කරනවා",
-        "example": "arrange",
-        "exampleReading": "අරේන්ජ්",
-        "translation": "සකස් කරනවා"
+        "example": "I'm working the evening shift.",
+        "exampleReading": "අයිම් වර්කින් දි ඊව්නින් ෂිෆ්ට්.",
+        "translation": "මම සවස වැඩ මුරය කරනවා."
       }
     ],
     "grammarTitle": "Grammar",
@@ -702,65 +702,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "yesterday",
         "reading": "යෙස්ටඩේ",
         "meaning": "ඊයේ",
-        "example": "yesterday",
-        "exampleReading": "යෙස්ටඩේ",
-        "translation": "ඊයේ"
+        "example": "What did you do yesterday?",
+        "exampleReading": "වොට් ඩිඩ් යූ ඩූ යෙස්ටඩේ?",
+        "translation": "ඔයා ඊයේ මොනවාද කළේ?"
       },
       {
         "word": "last week",
         "reading": "ලාස්ට් වීක්",
         "meaning": "ගිය සතියේ",
-        "example": "last week",
-        "exampleReading": "ලාස්ට් වීක්",
-        "translation": "ගිය සතියේ"
+        "example": "I worked in the morning and rested later.",
+        "exampleReading": "අයි වර්ක්ට් ඉන් දි මෝර්නින් ඇන්ඩ් රෙස්ටඩ් ලේටර්.",
+        "translation": "මම උදේ වැඩ කළා, පස්සේ විවේක ගත්තා."
       },
       {
         "word": "worked",
         "reading": "වර්ක්ට්",
         "meaning": "වැඩ කළා",
-        "example": "worked",
-        "exampleReading": "වර්ක්ට්",
-        "translation": "වැඩ කළා"
+        "example": "I worked in the morning and rested later.",
+        "exampleReading": "අයි වර්ක්ට් ඉන් දි මෝර්නින් ඇන්ඩ් රෙස්ටඩ් ලේටර්.",
+        "translation": "මම උදේ වැඩ කළා, පස්සේ විවේක ගත්තා."
       },
       {
         "word": "visited",
         "reading": "විසිටඩ්",
         "meaning": "බැලීමට ගියා",
-        "example": "visited",
-        "exampleReading": "විසිටඩ්",
-        "translation": "බැලීමට ගියා"
+        "example": "What did you do yesterday?",
+        "exampleReading": "වොට් ඩිඩ් යූ ඩූ යෙස්ටඩේ?",
+        "translation": "ඔයා ඊයේ මොනවාද කළේ?"
       },
       {
         "word": "was",
         "reading": "වොස්",
         "meaning": "හිටියා / වුණා",
-        "example": "was",
-        "exampleReading": "වොස්",
-        "translation": "හිටියා / වුණා"
+        "example": "I worked in the morning and rested later.",
+        "exampleReading": "අයි වර්ක්ට් ඉන් දි මෝර්නින් ඇන්ඩ් රෙස්ටඩ් ලේටර්.",
+        "translation": "මම උදේ වැඩ කළා, පස්සේ විවේක ගත්තා."
       },
       {
         "word": "were",
         "reading": "වර්",
         "meaning": "හිටියා / වුණා",
-        "example": "were",
-        "exampleReading": "වර්",
-        "translation": "හිටියා / වුණා"
+        "example": "Did you go to the shop?",
+        "exampleReading": "ඩිඩ් යූ ගෝ ටු දි ෂොප්?",
+        "translation": "ඔයා කඩයට ගියාද?"
       },
       {
         "word": "saw",
         "reading": "සෝ",
         "meaning": "දැක්කා",
-        "example": "saw",
-        "exampleReading": "සෝ",
-        "translation": "දැක්කා"
+        "example": "What did you do yesterday?",
+        "exampleReading": "වොට් ඩිඩ් යූ ඩූ යෙස්ටඩේ?",
+        "translation": "ඔයා ඊයේ මොනවාද කළේ?"
       },
       {
         "word": "bought",
         "reading": "බෝට්",
         "meaning": "මිලදී ගත්තා",
-        "example": "bought",
-        "exampleReading": "බෝට්",
-        "translation": "මිලදී ගත්තා"
+        "example": "I worked in the morning and rested later.",
+        "exampleReading": "අයි වර්ක්ට් ඉන් දි මෝර්නින් ඇන්ඩ් රෙස්ටඩ් ලේටර්.",
+        "translation": "මම උදේ වැඩ කළා, පස්සේ විවේක ගත්තා."
       }
     ],
     "grammarTitle": "Grammar",
@@ -875,65 +875,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "plan",
         "reading": "ප්ලෑන්",
         "meaning": "සැලැස්ම",
-        "example": "plan",
-        "exampleReading": "ප්ලෑන්",
-        "translation": "සැලැස්ම"
+        "example": "What are you planning for the weekend?",
+        "exampleReading": "වොට් ආර් යූ ප්ලෑනින් ෆෝර් දි වීකෙන්ඩ්?",
+        "translation": "සති අන්තයට මොනවාද සැලසුම් කරන්නේ?"
       },
       {
         "word": "invite",
         "reading": "ඉන්වයිට්",
         "meaning": "ආරාධනා කරනවා",
-        "example": "invite",
-        "exampleReading": "ඉන්වයිට්",
-        "translation": "ආරාධනා කරනවා"
+        "example": "I'm planning to visit the city centre.",
+        "exampleReading": "අයිම් ප්ලෑනින් ටු විසිට් දි සිටි සෙන්ටර්.",
+        "translation": "මම නගර මධ්‍යයට යන්න සැලසුම් කරනවා."
       },
       {
         "word": "arrangement",
         "reading": "අරේන්ජ්මන්ට්",
         "meaning": "සැලසුම / එකඟතාව",
-        "example": "arrangement",
-        "exampleReading": "අරේන්ජ්මන්ට්",
-        "translation": "සැලසුම / එකඟතාව"
+        "example": "Would you like to have coffee tonight?",
+        "exampleReading": "වුඩ් යූ ලයික් ටු හැව් කොෆී ටුනයිට්?",
+        "translation": "අද සවස කෝපි බොන්න කැමතිද?"
       },
       {
         "word": "available",
         "reading": "අවේලබල්",
         "meaning": "නිදහස් / ලබාගත හැකි",
-        "example": "available",
-        "exampleReading": "අවේලබල්",
-        "translation": "නිදහස් / ලබාගත හැකි"
+        "example": "What are you planning for the weekend?",
+        "exampleReading": "වොට් ආර් යූ ප්ලෑනින් ෆෝර් දි වීකෙන්ඩ්?",
+        "translation": "සති අන්තයට මොනවාද සැලසුම් කරන්නේ?"
       },
       {
         "word": "tonight",
         "reading": "ටුනයිට්",
         "meaning": "අද රාත්‍රියේ",
-        "example": "tonight",
-        "exampleReading": "ටුනයිට්",
-        "translation": "අද රාත්‍රියේ"
+        "example": "Would you like to have coffee tonight?",
+        "exampleReading": "වුඩ් යූ ලයික් ටු හැව් කොෆී ටුනයිට්?",
+        "translation": "අද සවස කෝපි බොන්න කැමතිද?"
       },
       {
         "word": "maybe",
         "reading": "මේබි",
         "meaning": "සමහරවිට",
-        "example": "maybe",
-        "exampleReading": "මේබි",
-        "translation": "සමහරවිට"
+        "example": "Would you like to have coffee tonight?",
+        "exampleReading": "වුඩ් යූ ලයික් ටු හැව් කොෆී ටුනයිට්?",
+        "translation": "අද සවස කෝපි බොන්න කැමතිද?"
       },
       {
         "word": "definitely",
         "reading": "ඩෙෆිනිට්ලි",
         "meaning": "නිසැකවම",
-        "example": "definitely",
-        "exampleReading": "ඩෙෆිනිට්ලි",
-        "translation": "නිසැකවම"
+        "example": "What are you planning for the weekend?",
+        "exampleReading": "වොට් ආර් යූ ප්ලෑනින් ෆෝර් දි වීකෙන්ඩ්?",
+        "translation": "සති අන්තයට මොනවාද සැලසුම් කරන්නේ?"
       },
       {
         "word": "see you",
         "reading": "සී යූ",
         "meaning": "නැවත හමුවෙමු",
-        "example": "see you",
-        "exampleReading": "සී යූ",
-        "translation": "නැවත හමුවෙමු"
+        "example": "I'm planning to visit the city centre.",
+        "exampleReading": "අයිම් ප්ලෑනින් ටු විසිට් දි සිටි සෙන්ටර්.",
+        "translation": "මම නගර මධ්‍යයට යන්න සැලසුම් කරනවා."
       }
     ],
     "grammarTitle": "Grammar",
@@ -1048,65 +1048,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "price",
         "reading": "ප්‍රයිස්",
         "meaning": "මිල",
-        "example": "price",
-        "exampleReading": "ප්‍රයිස්",
-        "translation": "මිල"
+        "example": "How much is this jacket?",
+        "exampleReading": "හවු මච් ඉස් දිස් ජැකට්?",
+        "translation": "මේ ජැකට් එක කීයද?"
       },
       {
         "word": "cheap",
         "reading": "චීප්",
         "meaning": "ලාභ",
-        "example": "cheap",
-        "exampleReading": "චීප්",
-        "translation": "ලාභ"
+        "example": "This one is cheaper than that one.",
+        "exampleReading": "දිස් වන් ඉස් චීපර් දැන් දැට් වන්.",
+        "translation": "මේක අරකට වඩා ලාභයි."
       },
       {
         "word": "expensive",
         "reading": "ඉක්ස්පෙන්සිව්",
         "meaning": "මිල අධික",
-        "example": "expensive",
-        "exampleReading": "ඉක්ස්පෙන්සිව්",
-        "translation": "මිල අධික"
+        "example": "Could I exchange it for a different size?",
+        "exampleReading": "කුඩ් අයි ඉක්ස්චේන්ජ් ඉට් ෆෝර් අ ඩිෆරන්ට් සයිස්?",
+        "translation": "මට මේක වෙනත් ප්‍රමාණයකට මාරු කළ හැකිද?"
       },
       {
         "word": "size",
         "reading": "සයිස්",
         "meaning": "ප්‍රමාණය",
-        "example": "size",
-        "exampleReading": "සයිස්",
-        "translation": "ප්‍රමාණය"
+        "example": "Could I exchange it for a different size?",
+        "exampleReading": "කුඩ් අයි ඉක්ස්චේන්ජ් ඉට් ෆෝර් අ ඩිෆරන්ට් සයිස්?",
+        "translation": "මට මේක වෙනත් ප්‍රමාණයකට මාරු කළ හැකිද?"
       },
       {
         "word": "try on",
         "reading": "ට්‍රයි ඔන්",
         "meaning": "ඇඳලා බලනවා",
-        "example": "try on",
-        "exampleReading": "ට්‍රයි ඔන්",
-        "translation": "ඇඳලා බලනවා"
+        "example": "This one is cheaper than that one.",
+        "exampleReading": "දිස් වන් ඉස් චීපර් දැන් දැට් වන්.",
+        "translation": "මේක අරකට වඩා ලාභයි."
       },
       {
         "word": "receipt",
         "reading": "රිසීට්",
         "meaning": "රිසිට්පත",
-        "example": "receipt",
-        "exampleReading": "රිසීට්",
-        "translation": "රිසිට්පත"
+        "example": "Could I exchange it for a different size?",
+        "exampleReading": "කුඩ් අයි ඉක්ස්චේන්ජ් ඉට් ෆෝර් අ ඩිෆරන්ට් සයිස්?",
+        "translation": "මට මේක වෙනත් ප්‍රමාණයකට මාරු කළ හැකිද?"
       },
       {
         "word": "exchange",
         "reading": "ඉක්ස්චේන්ජ්",
         "meaning": "මාරු කරනවා",
-        "example": "exchange",
-        "exampleReading": "ඉක්ස්චේන්ජ්",
-        "translation": "මාරු කරනවා"
+        "example": "Could I exchange it for a different size?",
+        "exampleReading": "කුඩ් අයි ඉක්ස්චේන්ජ් ඉට් ෆෝර් අ ඩිෆරන්ට් සයිස්?",
+        "translation": "මට මේක වෙනත් ප්‍රමාණයකට මාරු කළ හැකිද?"
       },
       {
         "word": "discount",
         "reading": "ඩිස්කවුන්ට්",
         "meaning": "වට්ටම",
-        "example": "discount",
-        "exampleReading": "ඩිස්කවුන්ට්",
-        "translation": "වට්ටම"
+        "example": "This one is cheaper than that one.",
+        "exampleReading": "දිස් වන් ඉස් චීපර් දැන් දැට් වන්.",
+        "translation": "මේක අරකට වඩා ලාභයි."
       }
     ],
     "grammarTitle": "Grammar",
@@ -1221,65 +1221,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "journey",
         "reading": "ජර්නි",
         "meaning": "ගමන",
-        "example": "journey",
-        "exampleReading": "ජර්නි",
-        "translation": "ගමන"
+        "example": "I'm travelling to Novi Sad tomorrow.",
+        "exampleReading": "අයිම් ට්‍රැවලින් ටු නොවි සාද් ටුමාරෝ.",
+        "translation": "මම හෙට නොවි සාද් යනවා."
       },
       {
         "word": "ticket",
         "reading": "ටික්කට්",
         "meaning": "ටිකට්පත",
-        "example": "ticket",
-        "exampleReading": "ටික්කට්",
-        "translation": "ටිකට්පත"
+        "example": "How much is a return ticket?",
+        "exampleReading": "හවු මච් ඉස් අ රිටර්න් ටික්කට්?",
+        "translation": "ආපසු ටිකට්පත කීයද?"
       },
       {
         "word": "return ticket",
         "reading": "රිටර්න් ටික්කට්",
         "meaning": "ආපසු ටිකට්පත",
-        "example": "return ticket",
-        "exampleReading": "රිටර්න් ටික්කට්",
-        "translation": "ආපසු ටිකට්පත"
+        "example": "How much is a return ticket?",
+        "exampleReading": "හවු මච් ඉස් අ රිටර්න් ටික්කට්?",
+        "translation": "ආපසු ටිකට්පත කීයද?"
       },
       {
         "word": "book",
         "reading": "බුක්",
         "meaning": "වෙන්කරවා ගන්නවා",
-        "example": "book",
-        "exampleReading": "බුක්",
-        "translation": "වෙන්කරවා ගන්නවා"
+        "example": "I've booked a room at the hotel.",
+        "exampleReading": "අයිව් බුක්ට් අ රූම් ඇට් දි හෝටෙල්.",
+        "translation": "මම හෝටලයේ කාමරයක් වෙන්කරගෙන තියෙනවා."
       },
       {
         "word": "hotel",
         "reading": "හෝටෙල්",
         "meaning": "හෝටලය",
-        "example": "hotel",
-        "exampleReading": "හෝටෙල්",
-        "translation": "හෝටලය"
+        "example": "I've booked a room at the hotel.",
+        "exampleReading": "අයිව් බුක්ට් අ රූම් ඇට් දි හෝටෙල්.",
+        "translation": "මම හෝටලයේ කාමරයක් වෙන්කරගෙන තියෙනවා."
       },
       {
         "word": "check-in",
         "reading": "චෙක් ඉන්",
         "meaning": "පැමිණ ලියාපදිංචි වීම",
-        "example": "check-in",
-        "exampleReading": "චෙක් ඉන්",
-        "translation": "පැමිණ ලියාපදිංචි වීම"
+        "example": "I've booked a room at the hotel.",
+        "exampleReading": "අයිව් බුක්ට් අ රූම් ඇට් දි හෝටෙල්.",
+        "translation": "මම හෝටලයේ කාමරයක් වෙන්කරගෙන තියෙනවා."
       },
       {
         "word": "departure",
         "reading": "ඩිපාර්චර්",
         "meaning": "පිටත්වීම",
-        "example": "departure",
-        "exampleReading": "ඩිපාර්චර්",
-        "translation": "පිටත්වීම"
+        "example": "I'm travelling to Novi Sad tomorrow.",
+        "exampleReading": "අයිම් ට්‍රැවලින් ටු නොවි සාද් ටුමාරෝ.",
+        "translation": "මම හෙට නොවි සාද් යනවා."
       },
       {
         "word": "arrival",
         "reading": "අරයිවල්",
         "meaning": "පැමිණීම",
-        "example": "arrival",
-        "exampleReading": "අරයිවල්",
-        "translation": "පැමිණීම"
+        "example": "How much is a return ticket?",
+        "exampleReading": "හවු මච් ඉස් අ රිටර්න් ටික්කට්?",
+        "translation": "ආපසු ටිකට්පත කීයද?"
       }
     ],
     "grammarTitle": "Grammar",
@@ -1394,65 +1394,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "problem",
         "reading": "ප්‍රොබ්ලම්",
         "meaning": "ගැටලුව",
-        "example": "problem",
-        "exampleReading": "ප්‍රොබ්ලම්",
-        "translation": "ගැටලුව"
+        "example": "There is a problem with the internet.",
+        "exampleReading": "දෙයාර් ඉස් අ ප්‍රොබ්ලම් විත් දි ඉන්ටර්නෙට්.",
+        "translation": "අන්තර්ජාලය සම්බන්ධ ගැටලුවක් තියෙනවා."
       },
       {
         "word": "help",
         "reading": "හෙල්ප්",
         "meaning": "උදව්",
-        "example": "help",
-        "exampleReading": "හෙල්ප්",
-        "translation": "උදව්"
+        "example": "Could you help me, please?",
+        "exampleReading": "කුඩ් යූ හෙල්ප් මී ප්ලීස්?",
+        "translation": "කරුණාකර මට උදව් කරන්න පුළුවන්ද?"
       },
       {
         "word": "incorrect",
         "reading": "ඉන්කරෙක්ට්",
         "meaning": "වැරදි",
-        "example": "incorrect",
-        "exampleReading": "ඉන්කරෙක්ට්",
-        "translation": "වැරදි"
+        "example": "The bill is incorrect.",
+        "exampleReading": "දි බිල් ඉස් ඉන්කරෙක්ට්.",
+        "translation": "බිල වැරදියි."
       },
       {
         "word": "missing",
         "reading": "මිසිං",
         "meaning": "අඩු / නැති",
-        "example": "missing",
-        "exampleReading": "මිසිං",
-        "translation": "අඩු / නැති"
+        "example": "There is a problem with the internet.",
+        "exampleReading": "දෙයාර් ඉස් අ ප්‍රොබ්ලම් විත් දි ඉන්ටර්නෙට්.",
+        "translation": "අන්තර්ජාලය සම්බන්ධ ගැටලුවක් තියෙනවා."
       },
       {
         "word": "repair",
         "reading": "රිපෙයාර්",
         "meaning": "අලුත්වැඩියා කරනවා",
-        "example": "repair",
-        "exampleReading": "රිපෙයාර්",
-        "translation": "අලුත්වැඩියා කරනවා"
+        "example": "Could you help me, please?",
+        "exampleReading": "කුඩ් යූ හෙල්ප් මී ප්ලීස්?",
+        "translation": "කරුණාකර මට උදව් කරන්න පුළුවන්ද?"
       },
       {
         "word": "bill",
         "reading": "බිල්",
         "meaning": "බිල",
-        "example": "bill",
-        "exampleReading": "බිල්",
-        "translation": "බිල"
+        "example": "The bill is incorrect.",
+        "exampleReading": "දි බිල් ඉස් ඉන්කරෙක්ට්.",
+        "translation": "බිල වැරදියි."
       },
       {
         "word": "please",
         "reading": "ප්ලීස්",
         "meaning": "කරුණාකර",
-        "example": "please",
-        "exampleReading": "ප්ලීස්",
-        "translation": "කරුණාකර"
+        "example": "Could you help me, please?",
+        "exampleReading": "කුඩ් යූ හෙල්ප් මී ප්ලීස්?",
+        "translation": "කරුණාකර මට උදව් කරන්න පුළුවන්ද?"
       },
       {
         "word": "possible",
         "reading": "පොසිබල්",
         "meaning": "හැකි",
-        "example": "possible",
-        "exampleReading": "පොසිබල්",
-        "translation": "හැකි"
+        "example": "Could you help me, please?",
+        "exampleReading": "කුඩ් යූ හෙල්ප් මී ප්ලීස්?",
+        "translation": "කරුණාකර මට උදව් කරන්න පුළුවන්ද?"
       }
     ],
     "grammarTitle": "Grammar",
@@ -1567,65 +1567,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "weather",
         "reading": "වෙදර්",
         "meaning": "කාලගුණය",
-        "example": "weather",
-        "exampleReading": "වෙදර්",
-        "translation": "කාලගුණය"
+        "example": "What's the weather like today?",
+        "exampleReading": "වොට්ස් දි වෙදර් ලයික් ටුඩේ?",
+        "translation": "අද කාලගුණය කොහොමද?"
       },
       {
         "word": "sunny",
         "reading": "සනි",
         "meaning": "අව්ව සහිත",
-        "example": "sunny",
-        "exampleReading": "සනි",
-        "translation": "අව්ව සහිත"
+        "example": "It's cold and cloudy today.",
+        "exampleReading": "ඉට්ස් කෝල්ඩ් ඇන්ඩ් ක්ලවුඩි ටුඩේ.",
+        "translation": "අද සීතලයි, වලාකුළු සහිතයි."
       },
       {
         "word": "cloudy",
         "reading": "ක්ලවුඩි",
         "meaning": "වලාකුළු සහිත",
-        "example": "cloudy",
-        "exampleReading": "ක්ලවුඩි",
-        "translation": "වලාකුළු සහිත"
+        "example": "It's cold and cloudy today.",
+        "exampleReading": "ඉට්ස් කෝල්ඩ් ඇන්ඩ් ක්ලවුඩි ටුඩේ.",
+        "translation": "අද සීතලයි, වලාකුළු සහිතයි."
       },
       {
         "word": "rain",
         "reading": "රේන්",
         "meaning": "වැස්ස",
-        "example": "rain",
-        "exampleReading": "රේන්",
-        "translation": "වැස්ස"
+        "example": "What's the weather like today?",
+        "exampleReading": "වොට්ස් දි වෙදර් ලයික් ටුඩේ?",
+        "translation": "අද කාලගුණය කොහොමද?"
       },
       {
         "word": "cold",
         "reading": "කෝල්ඩ්",
         "meaning": "සීතල",
-        "example": "cold",
-        "exampleReading": "කෝල්ඩ්",
-        "translation": "සීතල"
+        "example": "It's cold and cloudy today.",
+        "exampleReading": "ඉට්ස් කෝල්ඩ් ඇන්ඩ් ක්ලවුඩි ටුඩේ.",
+        "translation": "අද සීතලයි, වලාකුළු සහිතයි."
       },
       {
         "word": "warm",
         "reading": "වෝර්ම්",
         "meaning": "උණුසුම්",
-        "example": "warm",
-        "exampleReading": "වෝර්ම්",
-        "translation": "උණුසුම්"
+        "example": "I'm going to travel next week.",
+        "exampleReading": "අයිම් ගොයිං ටු ට්‍රැවල් නෙක්ස්ට් වීක්.",
+        "translation": "ඊළඟ සතියේ මම ගමන් කරන්න යනවා."
       },
       {
         "word": "jacket",
         "reading": "ජැකට්",
         "meaning": "ජැකට් එක",
-        "example": "jacket",
-        "exampleReading": "ජැකට්",
-        "translation": "ජැකට් එක"
+        "example": "What's the weather like today?",
+        "exampleReading": "වොට්ස් දි වෙදර් ලයික් ටුඩේ?",
+        "translation": "අද කාලගුණය කොහොමද?"
       },
       {
         "word": "next week",
         "reading": "නෙක්ස්ට් වීක්",
         "meaning": "ඊළඟ සතියේ",
-        "example": "next week",
-        "exampleReading": "නෙක්ස්ට් වීක්",
-        "translation": "ඊළඟ සතියේ"
+        "example": "I'm going to travel next week.",
+        "exampleReading": "අයිම් ගොයිං ටු ට්‍රැවල් නෙක්ස්ට් වීක්.",
+        "translation": "ඊළඟ සතියේ මම ගමන් කරන්න යනවා."
       }
     ],
     "grammarTitle": "Grammar",
@@ -1740,65 +1740,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "menu",
         "reading": "මෙනියු",
         "meaning": "ආහාර මෙනුව",
-        "example": "menu",
-        "exampleReading": "මෙනියු",
-        "translation": "ආහාර මෙනුව"
+        "example": "Could I see the menu, please?",
+        "exampleReading": "කුඩ් අයි සී දි මෙනියු ප්ලීස්?",
+        "translation": "කරුණාකර මට මෙනුව බලන්න පුළුවන්ද?"
       },
       {
         "word": "order",
         "reading": "ඕඩර්",
         "meaning": "ඇණවුම් කරනවා",
-        "example": "order",
-        "exampleReading": "ඕඩර්",
-        "translation": "ඇණවුම් කරනවා"
+        "example": "I'd like the chicken salad.",
+        "exampleReading": "අයිඩ් ලයික් දි චිකන් සැලඩ්.",
+        "translation": "මට කුකුළු මස් සලාදය ඕනේ."
       },
       {
         "word": "dish",
         "reading": "ඩිෂ්",
         "meaning": "කෑම වර්ගය",
-        "example": "dish",
-        "exampleReading": "ඩිෂ්",
-        "translation": "කෑම වර්ගය"
+        "example": "Could I have it without onions?",
+        "exampleReading": "කුඩ් අයි හැව් ඉට් විදවුට් අනියන්ස්?",
+        "translation": "මට ඒක ලූනු නැතිව ලබාගන්න පුළුවන්ද?"
       },
       {
         "word": "drink",
         "reading": "ඩ්‍රිංක්",
         "meaning": "පානය",
-        "example": "drink",
-        "exampleReading": "ඩ්‍රිංක්",
-        "translation": "පානය"
+        "example": "Could I see the menu, please?",
+        "exampleReading": "කුඩ් අයි සී දි මෙනියු ප්ලීස්?",
+        "translation": "කරුණාකර මට මෙනුව බලන්න පුළුවන්ද?"
       },
       {
         "word": "delicious",
         "reading": "ඩිලිෂස්",
         "meaning": "රසවත්",
-        "example": "delicious",
-        "exampleReading": "ඩිලිෂස්",
-        "translation": "රසවත්"
+        "example": "I'd like the chicken salad.",
+        "exampleReading": "අයිඩ් ලයික් දි චිකන් සැලඩ්.",
+        "translation": "මට කුකුළු මස් සලාදය ඕනේ."
       },
       {
         "word": "without",
         "reading": "විදවුට්",
         "meaning": "නැතිව",
-        "example": "without",
-        "exampleReading": "විදවුට්",
-        "translation": "නැතිව"
+        "example": "Could I have it without onions?",
+        "exampleReading": "කුඩ් අයි හැව් ඉට් විදවුට් අනියන්ස්?",
+        "translation": "මට ඒක ලූනු නැතිව ලබාගන්න පුළුවන්ද?"
       },
       {
         "word": "bill",
         "reading": "බිල්",
         "meaning": "බිල",
-        "example": "bill",
-        "exampleReading": "බිල්",
-        "translation": "බිල"
+        "example": "Could I see the menu, please?",
+        "exampleReading": "කුඩ් අයි සී දි මෙනියු ප්ලීස්?",
+        "translation": "කරුණාකර මට මෙනුව බලන්න පුළුවන්ද?"
       },
       {
         "word": "recommend",
         "reading": "රෙකමෙන්ඩ්",
         "meaning": "නිර්දේශ කරනවා",
-        "example": "recommend",
-        "exampleReading": "රෙකමෙන්ඩ්",
-        "translation": "නිර්දේශ කරනවා"
+        "example": "I'd like the chicken salad.",
+        "exampleReading": "අයිඩ් ලයික් දි චිකන් සැලඩ්.",
+        "translation": "මට කුකුළු මස් සලාදය ඕනේ."
       }
     ],
     "grammarTitle": "Grammar",
@@ -1913,65 +1913,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "street",
         "reading": "ස්ට්‍රීට්",
         "meaning": "වීදිය",
-        "example": "street",
-        "exampleReading": "ස්ට්‍රීට්",
-        "translation": "වීදිය"
+        "example": "Where is the bus station?",
+        "exampleReading": "වෙයාර් ඉස් දි බස් ස්ටේෂන්?",
+        "translation": "බස් නැවතුම්පොළ කොහෙද?"
       },
       {
         "word": "crossroads",
         "reading": "ක්‍රොස්රෝඩ්ස්",
         "meaning": "හන්දිය",
-        "example": "crossroads",
-        "exampleReading": "ක්‍රොස්රෝඩ්ස්",
-        "translation": "හන්දිය"
+        "example": "Go straight to the crossroads.",
+        "exampleReading": "ගෝ ස්ට්‍රේට් ටු දි ක්‍රොස්රෝඩ්ස්.",
+        "translation": "හන්දිය දක්වා කෙළින් යන්න."
       },
       {
         "word": "turn",
         "reading": "ටර්න්",
         "meaning": "හැරෙනවා",
-        "example": "turn",
-        "exampleReading": "ටර්න්",
-        "translation": "හැරෙනවා"
+        "example": "Then turn right.",
+        "exampleReading": "දෙන් ටර්න් රයිට්.",
+        "translation": "ඊට පස්සේ දකුණට හැරෙන්න."
       },
       {
         "word": "straight",
         "reading": "ස්ට්‍රේට්",
         "meaning": "කෙළින්",
-        "example": "straight",
-        "exampleReading": "ස්ට්‍රේට්",
-        "translation": "කෙළින්"
+        "example": "Go straight to the crossroads.",
+        "exampleReading": "ගෝ ස්ට්‍රේට් ටු දි ක්‍රොස්රෝඩ්ස්.",
+        "translation": "හන්දිය දක්වා කෙළින් යන්න."
       },
       {
         "word": "left",
         "reading": "ලෙෆ්ට්",
         "meaning": "වමට",
-        "example": "left",
-        "exampleReading": "ලෙෆ්ට්",
-        "translation": "වමට"
+        "example": "Go straight to the crossroads.",
+        "exampleReading": "ගෝ ස්ට්‍රේට් ටු දි ක්‍රොස්රෝඩ්ස්.",
+        "translation": "හන්දිය දක්වා කෙළින් යන්න."
       },
       {
         "word": "right",
         "reading": "රයිට්",
         "meaning": "දකුණට",
-        "example": "right",
-        "exampleReading": "රයිට්",
-        "translation": "දකුණට"
+        "example": "Then turn right.",
+        "exampleReading": "දෙන් ටර්න් රයිට්.",
+        "translation": "ඊට පස්සේ දකුණට හැරෙන්න."
       },
       {
         "word": "near",
         "reading": "නියර්",
         "meaning": "ළඟ",
-        "example": "near",
-        "exampleReading": "නියර්",
-        "translation": "ළඟ"
+        "example": "Where is the bus station?",
+        "exampleReading": "වෙයාර් ඉස් දි බස් ස්ටේෂන්?",
+        "translation": "බස් නැවතුම්පොළ කොහෙද?"
       },
       {
         "word": "far",
         "reading": "ෆාර්",
         "meaning": "දුර",
-        "example": "far",
-        "exampleReading": "ෆාර්",
-        "translation": "දුර"
+        "example": "Go straight to the crossroads.",
+        "exampleReading": "ගෝ ස්ට්‍රේට් ටු දි ක්‍රොස්රෝඩ්ස්.",
+        "translation": "හන්දිය දක්වා කෙළින් යන්න."
       }
     ],
     "grammarTitle": "Grammar",
@@ -2086,65 +2086,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "learn",
         "reading": "ලර්න්",
         "meaning": "ඉගෙන ගන්නවා",
-        "example": "learn",
-        "exampleReading": "ලර්න්",
-        "translation": "ඉගෙන ගන්නවා"
+        "example": "How long have you been learning Serbian?",
+        "exampleReading": "හවු ලෝං හැව් යූ බීන් ලර්නින් සර්බියන්?",
+        "translation": "ඔයා කොච්චර කාලයක් සර්බියානු ඉගෙන ගන්නවාද?"
       },
       {
         "word": "course",
         "reading": "කෝර්ස්",
         "meaning": "පාඨමාලාව",
-        "example": "course",
-        "exampleReading": "කෝර්ස්",
-        "translation": "පාඨමාලාව"
+        "example": "I've been learning it for six months.",
+        "exampleReading": "අයිව් බීන් ලර්නින් ඉට් ෆෝර් සික්ස් මන්ත්ස්.",
+        "translation": "මම ඒක මාස හයක් තිස්සේ ඉගෙන ගන්නවා."
       },
       {
         "word": "lesson",
         "reading": "ලෙසන්",
         "meaning": "පාඩම",
-        "example": "lesson",
-        "exampleReading": "ලෙසන්",
-        "translation": "පාඩම"
+        "example": "I want to speak more confidently.",
+        "exampleReading": "අයි වොන්ට් ටු ස්පීක් මෝර් කොන්ෆිඩන්ට්ලි.",
+        "translation": "මට වඩා විශ්වාසයෙන් කතා කරන්න ඕනේ."
       },
       {
         "word": "homework",
         "reading": "හෝම්වර්ක්",
         "meaning": "ගෙදර වැඩ",
-        "example": "homework",
-        "exampleReading": "හෝම්වර්ක්",
-        "translation": "ගෙදර වැඩ"
+        "example": "How long have you been learning Serbian?",
+        "exampleReading": "හවු ලෝං හැව් යූ බීන් ලර්නින් සර්බියන්?",
+        "translation": "ඔයා කොච්චර කාලයක් සර්බියානු ඉගෙන ගන්නවාද?"
       },
       {
         "word": "exam",
         "reading": "ඉග්සෑම්",
         "meaning": "විභාගය",
-        "example": "exam",
-        "exampleReading": "ඉග්සෑම්",
-        "translation": "විභාගය"
+        "example": "I've been learning it for six months.",
+        "exampleReading": "අයිව් බීන් ලර්නින් ඉට් ෆෝර් සික්ස් මන්ත්ස්.",
+        "translation": "මම ඒක මාස හයක් තිස්සේ ඉගෙන ගන්නවා."
       },
       {
         "word": "practise",
         "reading": "ප්‍රැක්ටිස්",
         "meaning": "අභ්‍යාස කරනවා",
-        "example": "practise",
-        "exampleReading": "ප්‍රැක්ටිස්",
-        "translation": "අභ්‍යාස කරනවා"
+        "example": "I want to speak more confidently.",
+        "exampleReading": "අයි වොන්ට් ටු ස්පීක් මෝර් කොන්ෆිඩන්ට්ලි.",
+        "translation": "මට වඩා විශ්වාසයෙන් කතා කරන්න ඕනේ."
       },
       {
         "word": "knowledge",
         "reading": "නොලිජ්",
         "meaning": "දැනුම",
-        "example": "knowledge",
-        "exampleReading": "නොලිජ්",
-        "translation": "දැනුම"
+        "example": "How long have you been learning Serbian?",
+        "exampleReading": "හවු ලෝං හැව් යූ බීන් ලර්නින් සර්බියන්?",
+        "translation": "ඔයා කොච්චර කාලයක් සර්බියානු ඉගෙන ගන්නවාද?"
       },
       {
         "word": "improve",
         "reading": "ඉම්ප්‍රූව්",
         "meaning": "දියුණු කරනවා",
-        "example": "improve",
-        "exampleReading": "ඉම්ප්‍රූව්",
-        "translation": "දියුණු කරනවා"
+        "example": "I've been learning it for six months.",
+        "exampleReading": "අයිව් බීන් ලර්නින් ඉට් ෆෝර් සික්ස් මන්ත්ස්.",
+        "translation": "මම ඒක මාස හයක් තිස්සේ ඉගෙන ගන්නවා."
       }
     ],
     "grammarTitle": "Grammar",
@@ -2259,65 +2259,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "phone",
         "reading": "ෆෝන්",
         "meaning": "දුරකථනය",
-        "example": "phone",
-        "exampleReading": "ෆෝන්",
-        "translation": "දුරකථනය"
+        "example": "My phone isn't working.",
+        "exampleReading": "මයි ෆෝන් ඉසන්ට් වර්කින්.",
+        "translation": "මගේ දුරකථනය වැඩ කරන්නේ නැහැ."
       },
       {
         "word": "charger",
         "reading": "චාර්ජර්",
         "meaning": "චාජරය",
-        "example": "charger",
-        "exampleReading": "චාර්ජර්",
-        "translation": "චාජරය"
+        "example": "Do you have a charger?",
+        "exampleReading": "ඩූ යූ හැව් අ චාර්ජර්?",
+        "translation": "ඔයාලට චාජරයක් තියෙනවාද?"
       },
       {
         "word": "battery",
         "reading": "බැටරි",
         "meaning": "බැටරිය",
-        "example": "battery",
-        "exampleReading": "බැටරි",
-        "translation": "බැටරිය"
+        "example": "I can't connect to the internet.",
+        "exampleReading": "අයි කෑන්ට් කනෙක්ට් ටු දි ඉන්ටර්නෙට්.",
+        "translation": "මට අන්තර්ජාලයට සම්බන්ධ වෙන්න බැහැ."
       },
       {
         "word": "internet",
         "reading": "ඉන්ටර්නෙට්",
         "meaning": "අන්තර්ජාලය",
-        "example": "internet",
-        "exampleReading": "ඉන්ටර්නෙට්",
-        "translation": "අන්තර්ජාලය"
+        "example": "I can't connect to the internet.",
+        "exampleReading": "අයි කෑන්ට් කනෙක්ට් ටු දි ඉන්ටර්නෙට්.",
+        "translation": "මට අන්තර්ජාලයට සම්බන්ධ වෙන්න බැහැ."
       },
       {
         "word": "message",
         "reading": "මෙසිජ්",
         "meaning": "පණිවිඩය",
-        "example": "message",
-        "exampleReading": "මෙසිජ්",
-        "translation": "පණිවිඩය"
+        "example": "Do you have a charger?",
+        "exampleReading": "ඩූ යූ හැව් අ චාර්ජර්?",
+        "translation": "ඔයාලට චාජරයක් තියෙනවාද?"
       },
       {
         "word": "call",
         "reading": "කෝල්",
         "meaning": "ඇමතුම",
-        "example": "call",
-        "exampleReading": "කෝල්",
-        "translation": "ඇමතුම"
+        "example": "I can't connect to the internet.",
+        "exampleReading": "අයි කෑන්ට් කනෙක්ට් ටු දි ඉන්ටර්නෙට්.",
+        "translation": "මට අන්තර්ජාලයට සම්බන්ධ වෙන්න බැහැ."
       },
       {
         "word": "download",
         "reading": "ඩවුන්ලෝඩ්",
         "meaning": "බාගත කරගන්නවා",
-        "example": "download",
-        "exampleReading": "ඩවුන්ලෝඩ්",
-        "translation": "බාගත කරගන්නවා"
+        "example": "My phone isn't working.",
+        "exampleReading": "මයි ෆෝන් ඉසන්ට් වර්කින්.",
+        "translation": "මගේ දුරකථනය වැඩ කරන්නේ නැහැ."
       },
       {
         "word": "connect",
         "reading": "කනෙක්ට්",
         "meaning": "සම්බන්ධ කරනවා",
-        "example": "connect",
-        "exampleReading": "කනෙක්ට්",
-        "translation": "සම්බන්ධ කරනවා"
+        "example": "I can't connect to the internet.",
+        "exampleReading": "අයි කෑන්ට් කනෙක්ට් ටු දි ඉන්ටර්නෙට්.",
+        "translation": "මට අන්තර්ජාලයට සම්බන්ධ වෙන්න බැහැ."
       }
     ],
     "grammarTitle": "Grammar",
@@ -2432,65 +2432,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "friend",
         "reading": "ෆ්‍රෙන්ඩ්",
         "meaning": "මිතුරා",
-        "example": "friend",
-        "exampleReading": "ෆ්‍රෙන්ඩ්",
-        "translation": "මිතුරා"
+        "example": "Let's go for a walk this evening.",
+        "exampleReading": "ලෙට්ස් ගෝ ෆෝර් අ වෝක් දිස් ඊව්නින්.",
+        "translation": "අද සවස අපි ඇවිදින්න යමු."
       },
       {
         "word": "meeting",
         "reading": "මීටින්",
         "meaning": "හමුවීම",
-        "example": "meeting",
-        "exampleReading": "මීටින්",
-        "translation": "හමුවීම"
+        "example": "Do you enjoy watching films?",
+        "exampleReading": "ඩූ යූ එන්ජෝයි වොචින් ෆිල්ම්ස්?",
+        "translation": "ඔයා චිත්‍රපට බලන්න කැමතිද?"
       },
       {
         "word": "walk",
         "reading": "වෝක්",
         "meaning": "ඇවිදීම",
-        "example": "walk",
-        "exampleReading": "වෝක්",
-        "translation": "ඇවිදීම"
+        "example": "Let's go for a walk this evening.",
+        "exampleReading": "ලෙට්ස් ගෝ ෆෝර් අ වෝක් දිස් ඊව්නින්.",
+        "translation": "අද සවස අපි ඇවිදින්න යමු."
       },
       {
         "word": "theatre",
         "reading": "තියටර්",
         "meaning": "රඟහල",
-        "example": "theatre",
-        "exampleReading": "තියටර්",
-        "translation": "රඟහල"
+        "example": "Let's go for a walk this evening.",
+        "exampleReading": "ලෙට්ස් ගෝ ෆෝර් අ වෝක් දිස් ඊව්නින්.",
+        "translation": "අද සවස අපි ඇවිදින්න යමු."
       },
       {
         "word": "film",
         "reading": "ෆිල්ම්",
         "meaning": "චිත්‍රපටය",
-        "example": "film",
-        "exampleReading": "ෆිල්ම්",
-        "translation": "චිත්‍රපටය"
+        "example": "Do you enjoy watching films?",
+        "exampleReading": "ඩූ යූ එන්ජෝයි වොචින් ෆිල්ම්ස්?",
+        "translation": "ඔයා චිත්‍රපට බලන්න කැමතිද?"
       },
       {
         "word": "party",
         "reading": "පාර්ටි",
         "meaning": "සාදය",
-        "example": "party",
-        "exampleReading": "පාර්ටි",
-        "translation": "සාදය"
+        "example": "It was really enjoyable.",
+        "exampleReading": "ඉට් වොස් රියලි එන්ජොයබල්.",
+        "translation": "ඒක ඇත්තටම විනෝදජනකයි."
       },
       {
         "word": "together",
         "reading": "ටුගෙදර්",
         "meaning": "එකට",
-        "example": "together",
-        "exampleReading": "ටුගෙදර්",
-        "translation": "එකට"
+        "example": "Let's go for a walk this evening.",
+        "exampleReading": "ලෙට්ස් ගෝ ෆෝර් අ වෝක් දිස් ඊව්නින්.",
+        "translation": "අද සවස අපි ඇවිදින්න යමු."
       },
       {
         "word": "next time",
         "reading": "නෙක්ස්ට් ටයිම්",
         "meaning": "ඊළඟ වතාවේ",
-        "example": "next time",
-        "exampleReading": "නෙක්ස්ට් ටයිම්",
-        "translation": "ඊළඟ වතාවේ"
+        "example": "Do you enjoy watching films?",
+        "exampleReading": "ඩූ යූ එන්ජෝයි වොචින් ෆිල්ම්ස්?",
+        "translation": "ඔයා චිත්‍රපට බලන්න කැමතිද?"
       }
     ],
     "grammarTitle": "Grammar",
@@ -2605,65 +2605,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "job",
         "reading": "ජොබ්",
         "meaning": "රැකියාව",
-        "example": "job",
-        "exampleReading": "ජොබ්",
-        "translation": "රැකියාව"
+        "example": "I'm looking for a new job.",
+        "exampleReading": "අයිම් ලුකින් ෆෝර් අ නිව් ජොබ්.",
+        "translation": "මම අලුත් රැකියාවක් සොයනවා."
       },
       {
         "word": "application",
         "reading": "ඇප්ලිකේෂන්",
         "meaning": "අයදුම්පත",
-        "example": "application",
-        "exampleReading": "ඇප්ලිකේෂන්",
-        "translation": "අයදුම්පත"
+        "example": "I have experience in sales.",
+        "exampleReading": "අයි හැව් ඉක්ස්පීරියන්ස් ඉන් සේල්ස්.",
+        "translation": "මට විකුණුම් ක්ෂේත්‍රයේ අත්දැකීම් තියෙනවා."
       },
       {
         "word": "experience",
         "reading": "ඉක්ස්පීරියන්ස්",
         "meaning": "අත්දැකීම",
-        "example": "experience",
-        "exampleReading": "ඉක්ස්පීරියන්ස්",
-        "translation": "අත්දැකීම"
+        "example": "I have experience in sales.",
+        "exampleReading": "අයි හැව් ඉක්ස්පීරියන්ස් ඉන් සේල්ස්.",
+        "translation": "මට විකුණුම් ක්ෂේත්‍රයේ අත්දැකීම් තියෙනවා."
       },
       {
         "word": "skill",
         "reading": "ස්කිල්",
         "meaning": "කුසලතාව",
-        "example": "skill",
-        "exampleReading": "ස්කිල්",
-        "translation": "කුසලතාව"
+        "example": "I'm looking for a new job.",
+        "exampleReading": "අයිම් ලුකින් ෆෝර් අ නිව් ජොබ්.",
+        "translation": "මම අලුත් රැකියාවක් සොයනවා."
       },
       {
         "word": "interview",
         "reading": "ඉන්ටර්වියූ",
         "meaning": "සම්මුඛ පරීක්ෂණය",
-        "example": "interview",
-        "exampleReading": "ඉන්ටර්වියූ",
-        "translation": "සම්මුඛ පරීක්ෂණය"
+        "example": "When is the job interview?",
+        "exampleReading": "වෙන් ඉස් දි ජොබ් ඉන්ටර්වියූ?",
+        "translation": "රැකියා සම්මුඛ පරීක්ෂණය කවදාද?"
       },
       {
         "word": "colleague",
         "reading": "කොලීග්",
         "meaning": "සහකරු",
-        "example": "colleague",
-        "exampleReading": "කොලීග්",
-        "translation": "සහකරු"
+        "example": "When is the job interview?",
+        "exampleReading": "වෙන් ඉස් දි ජොබ් ඉන්ටර්වියූ?",
+        "translation": "රැකියා සම්මුඛ පරීක්ෂණය කවදාද?"
       },
       {
         "word": "salary",
         "reading": "සැලරි",
         "meaning": "වැටුප",
-        "example": "salary",
-        "exampleReading": "සැලරි",
-        "translation": "වැටුප"
+        "example": "I'm looking for a new job.",
+        "exampleReading": "අයිම් ලුකින් ෆෝර් අ නිව් ජොබ්.",
+        "translation": "මම අලුත් රැකියාවක් සොයනවා."
       },
       {
         "word": "contract",
         "reading": "කොන්ට්‍රැක්ට්",
         "meaning": "ගිවිසුම",
-        "example": "contract",
-        "exampleReading": "කොන්ට්‍රැක්ට්",
-        "translation": "ගිවිසුම"
+        "example": "I have experience in sales.",
+        "exampleReading": "අයි හැව් ඉක්ස්පීරියන්ස් ඉන් සේල්ස්.",
+        "translation": "මට විකුණුම් ක්ෂේත්‍රයේ අත්දැකීම් තියෙනවා."
       }
     ],
     "grammarTitle": "Grammar",
@@ -2778,65 +2778,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "bank",
         "reading": "බෑන්ක්",
         "meaning": "බැංකුව",
-        "example": "bank",
-        "exampleReading": "බෑන්ක්",
-        "translation": "බැංකුව"
+        "example": "Where is the nearest bank?",
+        "exampleReading": "වෙයාර් ඉස් දි නියරස්ට් බෑන්ක්?",
+        "translation": "ළඟම බැංකුව කොහෙද?"
       },
       {
         "word": "account",
         "reading": "අකවුන්ට්",
         "meaning": "ගිණුම",
-        "example": "account",
-        "exampleReading": "අකවුන්ට්",
-        "translation": "ගිණුම"
+        "example": "I'd like to withdraw some money.",
+        "exampleReading": "අයිඩ් ලයික් ටු විත්ඩ්‍රෝ සම් මනි.",
+        "translation": "මට මුදල් ටිකක් ගන්න ඕනේ."
       },
       {
         "word": "cash",
         "reading": "කෑෂ්",
         "meaning": "මුදල් නෝට්ටු",
-        "example": "cash",
-        "exampleReading": "කෑෂ්",
-        "translation": "මුදල් නෝට්ටු"
+        "example": "I'm trying to save money every month.",
+        "exampleReading": "අයිම් ට්‍රයිං ටු සේව් මනි එව්රි මන්ත්.",
+        "translation": "මම හැම මාසෙම මුදල් ඉතිරි කරන්න උත්සාහ කරනවා."
       },
       {
         "word": "card",
         "reading": "කාඩ්",
         "meaning": "කාඩ්පත",
-        "example": "card",
-        "exampleReading": "කාඩ්",
-        "translation": "කාඩ්පත"
+        "example": "Where is the nearest bank?",
+        "exampleReading": "වෙයාර් ඉස් දි නියරස්ට් බෑන්ක්?",
+        "translation": "ළඟම බැංකුව කොහෙද?"
       },
       {
         "word": "withdrawal",
         "reading": "විත්ඩ්‍රෝවල්",
         "meaning": "මුදල් ගැනීම",
-        "example": "withdrawal",
-        "exampleReading": "විත්ඩ්‍රෝවල්",
-        "translation": "මුදල් ගැනීම"
+        "example": "I'd like to withdraw some money.",
+        "exampleReading": "අයිඩ් ලයික් ටු විත්ඩ්‍රෝ සම් මනි.",
+        "translation": "මට මුදල් ටිකක් ගන්න ඕනේ."
       },
       {
         "word": "deposit",
         "reading": "ඩිපොසිට්",
         "meaning": "තැන්පතුව",
-        "example": "deposit",
-        "exampleReading": "ඩිපොසිට්",
-        "translation": "තැන්පතුව"
+        "example": "I'm trying to save money every month.",
+        "exampleReading": "අයිම් ට්‍රයිං ටු සේව් මනි එව්රි මන්ත්.",
+        "translation": "මම හැම මාසෙම මුදල් ඉතිරි කරන්න උත්සාහ කරනවා."
       },
       {
         "word": "save",
         "reading": "සේව්",
         "meaning": "ඉතිරි කරනවා",
-        "example": "save",
-        "exampleReading": "සේව්",
-        "translation": "ඉතිරි කරනවා"
+        "example": "I'm trying to save money every month.",
+        "exampleReading": "අයිම් ට්‍රයිං ටු සේව් මනි එව්රි මන්ත්.",
+        "translation": "මම හැම මාසෙම මුදල් ඉතිරි කරන්න උත්සාහ කරනවා."
       },
       {
         "word": "expense",
         "reading": "ඉක්ස්පෙන්ස්",
         "meaning": "වියදම",
-        "example": "expense",
-        "exampleReading": "ඉක්ස්පෙන්ස්",
-        "translation": "වියදම"
+        "example": "I'd like to withdraw some money.",
+        "exampleReading": "අයිඩ් ලයික් ටු විත්ඩ්‍රෝ සම් මනි.",
+        "translation": "මට මුදල් ටිකක් ගන්න ඕනේ."
       }
     ],
     "grammarTitle": "Grammar",
@@ -2951,65 +2951,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "apartment",
         "reading": "අපාර්ට්මන්ට්",
         "meaning": "මහල් නිවාසය",
-        "example": "apartment",
-        "exampleReading": "අපාර්ට්මන්ට්",
-        "translation": "මහල් නිවාසය"
+        "example": "I need to clean the apartment.",
+        "exampleReading": "අයි නීඩ් ටු ක්ලීන් දි අපාර්ට්මන්ට්.",
+        "translation": "මට නිවස පිරිසිදු කරන්න ඕනේ."
       },
       {
         "word": "kitchen",
         "reading": "කිචන්",
         "meaning": "මුළුතැන්ගෙය",
-        "example": "kitchen",
-        "exampleReading": "කිචන්",
-        "translation": "මුළුතැන්ගෙය"
+        "example": "The kitchen tap isn't working.",
+        "exampleReading": "දි කිචන් ටැප් ඉසන්ට් වර්කින්.",
+        "translation": "මුළුතැන්ගෙයි ටැප් එක වැඩ කරන්නේ නැහැ."
       },
       {
         "word": "cleaning",
         "reading": "ක්ලීනින්",
         "meaning": "පිරිසිදු කිරීම",
-        "example": "cleaning",
-        "exampleReading": "ක්ලීනින්",
-        "translation": "පිරිසිදු කිරීම"
+        "example": "How much is the electricity bill?",
+        "exampleReading": "හවු මච් ඉස් දි ඉලෙක්ට්‍රිසිටි බිල්?",
+        "translation": "විදුලි බිල කොච්චරද?"
       },
       {
         "word": "repair",
         "reading": "රිපෙයාර්",
         "meaning": "අලුත්වැඩියාව",
-        "example": "repair",
-        "exampleReading": "රිපෙයාර්",
-        "translation": "අලුත්වැඩියාව"
+        "example": "The kitchen tap isn't working.",
+        "exampleReading": "දි කිචන් ටැප් ඉසන්ට් වර්කින්.",
+        "translation": "මුළුතැන්ගෙයි ටැප් එක වැඩ කරන්නේ නැහැ."
       },
       {
         "word": "broken",
         "reading": "බ්‍රෝකන්",
         "meaning": "කැඩුණු",
-        "example": "broken",
-        "exampleReading": "බ්‍රෝකන්",
-        "translation": "කැඩුණු"
+        "example": "I need to clean the apartment.",
+        "exampleReading": "අයි නීඩ් ටු ක්ලීන් දි අපාර්ට්මන්ට්.",
+        "translation": "මට නිවස පිරිසිදු කරන්න ඕනේ."
       },
       {
         "word": "tap",
         "reading": "ටැප්",
         "meaning": "ටැප් එක",
-        "example": "tap",
-        "exampleReading": "ටැප්",
-        "translation": "ටැප් එක"
+        "example": "The kitchen tap isn't working.",
+        "exampleReading": "දි කිචන් ටැප් ඉසන්ට් වර්කින්.",
+        "translation": "මුළුතැන්ගෙයි ටැප් එක වැඩ කරන්නේ නැහැ."
       },
       {
         "word": "electricity",
         "reading": "ඉලෙක්ට්‍රිසිටි",
         "meaning": "විදුලිය",
-        "example": "electricity",
-        "exampleReading": "ඉලෙක්ට්‍රිසිටි",
-        "translation": "විදුලිය"
+        "example": "How much is the electricity bill?",
+        "exampleReading": "හවු මච් ඉස් දි ඉලෙක්ට්‍රිසිටි බිල්?",
+        "translation": "විදුලි බිල කොච්චරද?"
       },
       {
         "word": "electricity bill",
         "reading": "ඉලෙක්ට්‍රිසිටි බිල්",
         "meaning": "විදුලි බිල",
-        "example": "electricity bill",
-        "exampleReading": "ඉලෙක්ට්‍රිසිටි බිල්",
-        "translation": "විදුලි බිල"
+        "example": "How much is the electricity bill?",
+        "exampleReading": "හවු මච් ඉස් දි ඉලෙක්ට්‍රිසිටි බිල්?",
+        "translation": "විදුලි බිල කොච්චරද?"
       }
     ],
     "grammarTitle": "Grammar",
@@ -3124,65 +3124,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "experience",
         "reading": "ඉක්ස්පීරියන්ස්",
         "meaning": "අත්දැකීම",
-        "example": "experience",
-        "exampleReading": "ඉක්ස්පීරියන්ස්",
-        "translation": "අත්දැකීම"
+        "example": "I visited Belgrade last year.",
+        "exampleReading": "අයි විසිටඩ් බෙල්ග්‍රේඩ් ලාස්ට් ඉයර්.",
+        "translation": "මම පසුගිය අවුරුද්දේ බෙල්ග්‍රේඩ් සංචාරය කළා."
       },
       {
         "word": "travel",
         "reading": "ට්‍රැවල්",
         "meaning": "ගමන් කරනවා",
-        "example": "travel",
-        "exampleReading": "ට්‍රැවල්",
-        "translation": "ගමන් කරනවා"
+        "example": "The trip was unforgettable.",
+        "exampleReading": "දි ට්‍රිප් වොස් අන්ෆොර්ගෙටබල්.",
+        "translation": "ගමන අමතක නොවන එකක් වුණා."
       },
       {
         "word": "visit",
         "reading": "විසිට්",
         "meaning": "සංචාරය කරනවා",
-        "example": "visit",
-        "exampleReading": "විසිට්",
-        "translation": "සංචාරය කරනවා"
+        "example": "I visited Belgrade last year.",
+        "exampleReading": "අයි විසිටඩ් බෙල්ග්‍රේඩ් ලාස්ට් ඉයර්.",
+        "translation": "මම පසුගිය අවුරුද්දේ බෙල්ග්‍රේඩ් සංචාරය කළා."
       },
       {
         "word": "museum",
         "reading": "මියුසියම්",
         "meaning": "කෞතුකාගාරය",
-        "example": "museum",
-        "exampleReading": "මියුසියම්",
-        "translation": "කෞතුකාගාරය"
+        "example": "We visited a museum and a fortress.",
+        "exampleReading": "වී විසිටඩ් අ මියුසියම් ඇන්ඩ් අ ෆෝට්‍රස්.",
+        "translation": "අපි කෞතුකාගාරයක් සහ බලකොටුවක් නැරඹුවා."
       },
       {
         "word": "beach",
         "reading": "බීච්",
         "meaning": "වෙරළ",
-        "example": "beach",
-        "exampleReading": "බීච්",
-        "translation": "වෙරළ"
+        "example": "The trip was unforgettable.",
+        "exampleReading": "දි ට්‍රිප් වොස් අන්ෆොර්ගෙටබල්.",
+        "translation": "ගමන අමතක නොවන එකක් වුණා."
       },
       {
         "word": "mountain",
         "reading": "මවුන්ටන්",
         "meaning": "කන්ද",
-        "example": "mountain",
-        "exampleReading": "මවුන්ටන්",
-        "translation": "කන්ද"
+        "example": "We visited a museum and a fortress.",
+        "exampleReading": "වී විසිටඩ් අ මියුසියම් ඇන්ඩ් අ ෆෝට්‍රස්.",
+        "translation": "අපි කෞතුකාගාරයක් සහ බලකොටුවක් නැරඹුවා."
       },
       {
         "word": "unforgettable",
         "reading": "අන්ෆොර්ගෙටබල්",
         "meaning": "අමතක නොවන",
-        "example": "unforgettable",
-        "exampleReading": "අන්ෆොර්ගෙටබල්",
-        "translation": "අමතක නොවන"
+        "example": "The trip was unforgettable.",
+        "exampleReading": "දි ට්‍රිප් වොස් අන්ෆොර්ගෙටබල්.",
+        "translation": "ගමන අමතක නොවන එකක් වුණා."
       },
       {
         "word": "past",
         "reading": "පාස්ට්",
         "meaning": "අතීතය",
-        "example": "past",
-        "exampleReading": "පාස්ට්",
-        "translation": "අතීතය"
+        "example": "The trip was unforgettable.",
+        "exampleReading": "දි ට්‍රිප් වොස් අන්ෆොර්ගෙටබල්.",
+        "translation": "ගමන අමතක නොවන එකක් වුණා."
       }
     ],
     "grammarTitle": "Grammar",
@@ -3297,65 +3297,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "opinion",
         "reading": "ඔපිනියන්",
         "meaning": "අදහස",
-        "example": "opinion",
-        "exampleReading": "ඔපිනියන්",
-        "translation": "අදහස"
+        "example": "I think this film is interesting.",
+        "exampleReading": "අයි තින්ක් දිස් ෆිල්ම් ඉස් ඉන්ට්‍රස්ටින්.",
+        "translation": "මම හිතන්නේ මේ චිත්‍රපටය රසවත් කියලා."
       },
       {
         "word": "agree",
         "reading": "අග්‍රී",
         "meaning": "එකඟ වෙනවා",
-        "example": "agree",
-        "exampleReading": "අග්‍රී",
-        "translation": "එකඟ වෙනවා"
+        "example": "I agree with you.",
+        "exampleReading": "අයි අග්‍රී විත් යූ.",
+        "translation": "මම ඔයා සමඟ එකඟයි."
       },
       {
         "word": "disagree",
         "reading": "ඩිස්අග්‍රී",
         "meaning": "එකඟ නොවෙනවා",
-        "example": "disagree",
-        "exampleReading": "ඩිස්අග්‍රී",
-        "translation": "එකඟ නොවෙනවා"
+        "example": "I'd rather stay at home.",
+        "exampleReading": "අයිඩ් රැදර් ස්ටේ ඇට් හෝම්.",
+        "translation": "මම ගෙදර ඉන්න වඩා කැමතියි."
       },
       {
         "word": "because",
         "reading": "බිකෝස්",
         "meaning": "මොකද / නිසා",
-        "example": "because",
-        "exampleReading": "බිකෝස්",
-        "translation": "මොකද / නිසා"
+        "example": "I think this film is interesting.",
+        "exampleReading": "අයි තින්ක් දිස් ෆිල්ම් ඉස් ඉන්ට්‍රස්ටින්.",
+        "translation": "මම හිතන්නේ මේ චිත්‍රපටය රසවත් කියලා."
       },
       {
         "word": "suggestion",
         "reading": "සජෙස්චන්",
         "meaning": "යෝජනාව",
-        "example": "suggestion",
-        "exampleReading": "සජෙස්චන්",
-        "translation": "යෝජනාව"
+        "example": "I agree with you.",
+        "exampleReading": "අයි අග්‍රී විත් යූ.",
+        "translation": "මම ඔයා සමඟ එකඟයි."
       },
       {
         "word": "choice",
         "reading": "චොයිස්",
         "meaning": "තේරීම",
-        "example": "choice",
-        "exampleReading": "චොයිස්",
-        "translation": "තේරීම"
+        "example": "I'd rather stay at home.",
+        "exampleReading": "අයිඩ් රැදර් ස්ටේ ඇට් හෝම්.",
+        "translation": "මම ගෙදර ඉන්න වඩා කැමතියි."
       },
       {
         "word": "important",
         "reading": "ඉම්පෝටන්ට්",
         "meaning": "වැදගත්",
-        "example": "important",
-        "exampleReading": "ඉම්පෝටන්ට්",
-        "translation": "වැදගත්"
+        "example": "I think this film is interesting.",
+        "exampleReading": "අයි තින්ක් දිස් ෆිල්ම් ඉස් ඉන්ට්‍රස්ටින්.",
+        "translation": "මම හිතන්නේ මේ චිත්‍රපටය රසවත් කියලා."
       },
       {
         "word": "rather",
         "reading": "රැදර්",
         "meaning": "වඩා කැමැත්තෙන්",
-        "example": "rather",
-        "exampleReading": "රැදර්",
-        "translation": "වඩා කැමැත්තෙන්"
+        "example": "I'd rather stay at home.",
+        "exampleReading": "අයිඩ් රැදර් ස්ටේ ඇට් හෝම්.",
+        "translation": "මම ගෙදර ඉන්න වඩා කැමතියි."
       }
     ],
     "grammarTitle": "Grammar",
@@ -3470,65 +3470,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "platform",
         "reading": "ප්ලැට්ෆෝම්",
         "meaning": "වේදිකාව",
-        "example": "platform",
-        "exampleReading": "ප්ලැට්ෆෝම්",
-        "translation": "වේදිකාව"
+        "example": "Which platform does the train leave from?",
+        "exampleReading": "විච් ප්ලැට්ෆෝම් ඩස් දි ට්‍රේන් ලීව් ෆ්‍රම්?",
+        "translation": "දුම්රිය පිටත් වෙන්නේ කුමන වේදිකාවෙන්ද?"
       },
       {
         "word": "departure",
         "reading": "ඩිපාර්චර්",
         "meaning": "පිටත්වීම",
-        "example": "departure",
-        "exampleReading": "ඩිපාර්චර්",
-        "translation": "පිටත්වීම"
+        "example": "It leaves from platform three.",
+        "exampleReading": "ඉට් ලීව්ස් ෆ්‍රම් ප්ලැට්ෆෝම් ත්‍රී.",
+        "translation": "එය තුන්වන වේදිකාවෙන් පිටත් වෙනවා."
       },
       {
         "word": "arrival",
         "reading": "අරයිවල්",
         "meaning": "පැමිණීම",
-        "example": "arrival",
-        "exampleReading": "අරයිවල්",
-        "translation": "පැමිණීම"
+        "example": "How long does the journey take?",
+        "exampleReading": "හවු ලෝං ඩස් දි ජර්නි ටේක්?",
+        "translation": "ගමනට කොච්චර වෙලාවක් ගත වෙනවාද?"
       },
       {
         "word": "ticket",
         "reading": "ටික්ට්",
         "meaning": "ටිකට්පත",
-        "example": "ticket",
-        "exampleReading": "ටික්ට්",
-        "translation": "ටිකට්පත"
+        "example": "Which platform does the train leave from?",
+        "exampleReading": "විච් ප්ලැට්ෆෝම් ඩස් දි ට්‍රේන් ලීව් ෆ්‍රම්?",
+        "translation": "දුම්රිය පිටත් වෙන්නේ කුමන වේදිකාවෙන්ද?"
       },
       {
         "word": "journey",
         "reading": "ජර්නි",
         "meaning": "ගමන",
-        "example": "journey",
-        "exampleReading": "ජර්නි",
-        "translation": "ගමන"
+        "example": "How long does the journey take?",
+        "exampleReading": "හවු ලෝං ඩස් දි ජර්නි ටේක්?",
+        "translation": "ගමනට කොච්චර වෙලාවක් ගත වෙනවාද?"
       },
       {
         "word": "delay",
         "reading": "ඩිලේ",
         "meaning": "ප්‍රමාදය",
-        "example": "delay",
-        "exampleReading": "ඩිලේ",
-        "translation": "ප්‍රමාදය"
+        "example": "How long does the journey take?",
+        "exampleReading": "හවු ලෝං ඩස් දි ජර්නි ටේක්?",
+        "translation": "ගමනට කොච්චර වෙලාවක් ගත වෙනවාද?"
       },
       {
         "word": "change",
         "reading": "චේන්ජ්",
         "meaning": "මාරු කිරීම",
-        "example": "change",
-        "exampleReading": "චේන්ජ්",
-        "translation": "මාරු කිරීම"
+        "example": "Which platform does the train leave from?",
+        "exampleReading": "විච් ප්ලැට්ෆෝම් ඩස් දි ට්‍රේන් ලීව් ෆ්‍රම්?",
+        "translation": "දුම්රිය පිටත් වෙන්නේ කුමන වේදිකාවෙන්ද?"
       },
       {
         "word": "route",
         "reading": "රූට්",
         "meaning": "ගමන් මාර්ගය",
-        "example": "route",
-        "exampleReading": "රූට්",
-        "translation": "ගමන් මාර්ගය"
+        "example": "It leaves from platform three.",
+        "exampleReading": "ඉට් ලීව්ස් ෆ්‍රම් ප්ලැට්ෆෝම් ත්‍රී.",
+        "translation": "එය තුන්වන වේදිකාවෙන් පිටත් වෙනවා."
       }
     ],
     "grammarTitle": "Grammar",
@@ -3643,65 +3643,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "size",
         "reading": "සයිස්",
         "meaning": "ප්‍රමාණය",
-        "example": "size",
-        "exampleReading": "සයිස්",
-        "translation": "ප්‍රමාණය"
+        "example": "Do you have a smaller size?",
+        "exampleReading": "ඩූ යූ හැව් අ ස්මෝලර් සයිස්?",
+        "translation": "ඔබ ළඟ කුඩා ප්‍රමාණයක් තියෙනවාද?"
       },
       {
         "word": "fitting room",
         "reading": "ෆිටින් රූම්",
         "meaning": "ඇඳුම් මාරු කරන කාමරය",
-        "example": "fitting room",
-        "exampleReading": "ෆිටින් රූම්",
-        "translation": "ඇඳුම් මාරු කරන කාමරය"
+        "example": "Of course. The fitting room is over there.",
+        "exampleReading": "ඔෆ් කෝස්. දි ෆිටින් රූම් ඉස් ඕවර් දෙයාර්.",
+        "translation": "අනිවාර්යයෙන්. ඇඳුම් මාරු කරන කාමරය එතනයි."
       },
       {
         "word": "discount",
         "reading": "ඩිස්කවුන්ට්",
         "meaning": "වට්ටම",
-        "example": "discount",
-        "exampleReading": "ඩිස්කවුන්ට්",
-        "translation": "වට්ටම"
+        "example": "Do you have a smaller size?",
+        "exampleReading": "ඩූ යූ හැව් අ ස්මෝලර් සයිස්?",
+        "translation": "ඔබ ළඟ කුඩා ප්‍රමාණයක් තියෙනවාද?"
       },
       {
         "word": "receipt",
         "reading": "රිසීට්",
         "meaning": "රිසිට්පත",
-        "example": "receipt",
-        "exampleReading": "රිසීට්",
-        "translation": "රිසිට්පත"
+        "example": "Could I try this jacket on?",
+        "exampleReading": "කුඩ් අයි ට්‍රයි දිස් ජැකට් ඔන්?",
+        "translation": "මට මේ ජැකට් එක ඇඳලා බලන්න පුළුවන්ද?"
       },
       {
         "word": "cash",
         "reading": "කෑෂ්",
         "meaning": "මුදල්",
-        "example": "cash",
-        "exampleReading": "කෑෂ්",
-        "translation": "මුදල්"
+        "example": "Of course. The fitting room is over there.",
+        "exampleReading": "ඔෆ් කෝස්. දි ෆිටින් රූම් ඉස් ඕවර් දෙයාර්.",
+        "translation": "අනිවාර්යයෙන්. ඇඳුම් මාරු කරන කාමරය එතනයි."
       },
       {
         "word": "card",
         "reading": "කාඩ්",
         "meaning": "කාඩ්පත",
-        "example": "card",
-        "exampleReading": "කාඩ්",
-        "translation": "කාඩ්පත"
+        "example": "Do you have a smaller size?",
+        "exampleReading": "ඩූ යූ හැව් අ ස්මෝලර් සයිස්?",
+        "translation": "ඔබ ළඟ කුඩා ප්‍රමාණයක් තියෙනවාද?"
       },
       {
         "word": "comfortable",
         "reading": "කම්ෆටබල්",
         "meaning": "සුවපහසු",
-        "example": "comfortable",
-        "exampleReading": "කම්ෆටබල්",
-        "translation": "සුවපහසු"
+        "example": "Could I try this jacket on?",
+        "exampleReading": "කුඩ් අයි ට්‍රයි දිස් ජැකට් ඔන්?",
+        "translation": "මට මේ ජැකට් එක ඇඳලා බලන්න පුළුවන්ද?"
       },
       {
         "word": "exchange",
         "reading": "ඉක්ස්චේන්ජ්",
         "meaning": "මාරු කරගැනීම",
-        "example": "exchange",
-        "exampleReading": "ඉක්ස්චේන්ජ්",
-        "translation": "මාරු කරගැනීම"
+        "example": "Of course. The fitting room is over there.",
+        "exampleReading": "ඔෆ් කෝස්. දි ෆිටින් රූම් ඉස් ඕවර් දෙයාර්.",
+        "translation": "අනිවාර්යයෙන්. ඇඳුම් මාරු කරන කාමරය එතනයි."
       }
     ],
     "grammarTitle": "Grammar",
@@ -3816,65 +3816,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "forecast",
         "reading": "ෆෝර්කාස්ට්",
         "meaning": "කාලගුණ අනාවැකිය",
-        "example": "forecast",
-        "exampleReading": "ෆෝර්කාස්ට්",
-        "translation": "කාලගුණ අනාවැකිය"
+        "example": "What's the weather going to be like tomorrow?",
+        "exampleReading": "වොට්ස් දි වෙදර් ගෝයිං ටු බී ලයික් ටුමොරෝ?",
+        "translation": "හෙට කාලගුණය කොහොම වේවිද?"
       },
       {
         "word": "sunny",
         "reading": "සනි",
         "meaning": "අව්ව සහිත",
-        "example": "sunny",
-        "exampleReading": "සනි",
-        "translation": "අව්ව සහිත"
+        "example": "It will be sunny and warm.",
+        "exampleReading": "ඉට් විල් බී සනි ඇන්ඩ් වෝම්.",
+        "translation": "අව්ව සහ උණුසුම තියේවි."
       },
       {
         "word": "cloudy",
         "reading": "ක්ලවුඩි",
         "meaning": "වලාකුළු සහිත",
-        "example": "cloudy",
-        "exampleReading": "ක්ලවුඩි",
-        "translation": "වලාකුළු සහිත"
+        "example": "If it rains, we'll stay inside.",
+        "exampleReading": "ඉෆ් ඉට් රේන්ස්, වීල් ස්ටේ ඉන්සයිඩ්.",
+        "translation": "වැස්ස වැටුණොත් අපි ඇතුළේ ඉන්නවා."
       },
       {
         "word": "rainy",
         "reading": "රේනි",
         "meaning": "වැසි සහිත",
-        "example": "rainy",
-        "exampleReading": "රේනි",
-        "translation": "වැසි සහිත"
+        "example": "What's the weather going to be like tomorrow?",
+        "exampleReading": "වොට්ස් දි වෙදර් ගෝයිං ටු බී ලයික් ටුමොරෝ?",
+        "translation": "හෙට කාලගුණය කොහොම වේවිද?"
       },
       {
         "word": "windy",
         "reading": "වින්ඩි",
         "meaning": "සුළං සහිත",
-        "example": "windy",
-        "exampleReading": "වින්ඩි",
-        "translation": "සුළං සහිත"
+        "example": "It will be sunny and warm.",
+        "exampleReading": "ඉට් විල් බී සනි ඇන්ඩ් වෝම්.",
+        "translation": "අව්ව සහ උණුසුම තියේවි."
       },
       {
         "word": "spring",
         "reading": "ස්ප්‍රිං",
         "meaning": "වසන්තය",
-        "example": "spring",
-        "exampleReading": "ස්ප්‍රිං",
-        "translation": "වසන්තය"
+        "example": "If it rains, we'll stay inside.",
+        "exampleReading": "ඉෆ් ඉට් රේන්ස්, වීල් ස්ටේ ඉන්සයිඩ්.",
+        "translation": "වැස්ස වැටුණොත් අපි ඇතුළේ ඉන්නවා."
       },
       {
         "word": "summer",
         "reading": "සමර්",
         "meaning": "ගිම්හානය",
-        "example": "summer",
-        "exampleReading": "සමර්",
-        "translation": "ගිම්හානය"
+        "example": "What's the weather going to be like tomorrow?",
+        "exampleReading": "වොට්ස් දි වෙදර් ගෝයිං ටු බී ලයික් ටුමොරෝ?",
+        "translation": "හෙට කාලගුණය කොහොම වේවිද?"
       },
       {
         "word": "winter",
         "reading": "වින්ටර්",
         "meaning": "ශීත ඍතුව",
-        "example": "winter",
-        "exampleReading": "වින්ටර්",
-        "translation": "ශීත ඍතුව"
+        "example": "It will be sunny and warm.",
+        "exampleReading": "ඉට් විල් බී සනි ඇන්ඩ් වෝම්.",
+        "translation": "අව්ව සහ උණුසුම තියේවි."
       }
     ],
     "grammarTitle": "Grammar",
@@ -3989,65 +3989,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "appointment",
         "reading": "අපොයින්ට්මන්ට්",
         "meaning": "හමුවීම",
-        "example": "appointment",
-        "exampleReading": "අපොයින්ට්මන්ට්",
-        "translation": "හමුවීම"
+        "example": "Could we move the appointment to Monday?",
+        "exampleReading": "කුඩ් වී මූව් දි අපොයින්ට්මන්ට් ටු මන්ඩේ?",
+        "translation": "අපිට හමුවීම සඳුදාට මාරු කරන්න පුළුවන්ද?"
       },
       {
         "word": "schedule",
         "reading": "ස්කෙජූල්",
         "meaning": "කාලසටහන",
-        "example": "schedule",
-        "exampleReading": "ස්කෙජූල්",
-        "translation": "කාලසටහන"
+        "example": "Yes, I'm free in the afternoon.",
+        "exampleReading": "යෙස්, අයිම් ෆ්‍රී ඉන් දි ආෆ්ටර්නූන්.",
+        "translation": "ඔව්, මම හවස නිදහස්."
       },
       {
         "word": "available",
         "reading": "අවේලබල්",
         "meaning": "නිදහස් / ලබාගත හැකි",
-        "example": "available",
-        "exampleReading": "අවේලබල්",
-        "translation": "නිදහස් / ලබාගත හැකි"
+        "example": "Are you available on Friday?",
+        "exampleReading": "ආර් යූ අවේලබල් ඔන් ෆ්‍රයිඩේ?",
+        "translation": "ඔයාට සිකුරාදා නිදහස්ද?"
       },
       {
         "word": "cancel",
         "reading": "කැන්සල්",
         "meaning": "අවලංගු කරනවා",
-        "example": "cancel",
-        "exampleReading": "කැන්සල්",
-        "translation": "අවලංගු කරනවා"
+        "example": "Are you available on Friday?",
+        "exampleReading": "ආර් යූ අවේලබල් ඔන් ෆ්‍රයිඩේ?",
+        "translation": "ඔයාට සිකුරාදා නිදහස්ද?"
       },
       {
         "word": "reschedule",
         "reading": "රීස්කෙජූල්",
         "meaning": "වේලාව වෙනස් කරනවා",
-        "example": "reschedule",
-        "exampleReading": "රීස්කෙජූල්",
-        "translation": "වේලාව වෙනස් කරනවා"
+        "example": "Yes, I'm free in the afternoon.",
+        "exampleReading": "යෙස්, අයිම් ෆ්‍රී ඉන් දි ආෆ්ටර්නූන්.",
+        "translation": "ඔව්, මම හවස නිදහස්."
       },
       {
         "word": "on time",
         "reading": "ඔන් ටයිම්",
         "meaning": "නියමිත වේලාවට",
-        "example": "on time",
-        "exampleReading": "ඔන් ටයිම්",
-        "translation": "නියමිත වේලාවට"
+        "example": "Could we move the appointment to Monday?",
+        "exampleReading": "කුඩ් වී මූව් දි අපොයින්ට්මන්ට් ටු මන්ඩේ?",
+        "translation": "අපිට හමුවීම සඳුදාට මාරු කරන්න පුළුවන්ද?"
       },
       {
         "word": "late",
         "reading": "ලේට්",
         "meaning": "ප්‍රමාද",
-        "example": "late",
-        "exampleReading": "ලේට්",
-        "translation": "ප්‍රමාද"
+        "example": "Are you available on Friday?",
+        "exampleReading": "ආර් යූ අවේලබල් ඔන් ෆ්‍රයිඩේ?",
+        "translation": "ඔයාට සිකුරාදා නිදහස්ද?"
       },
       {
         "word": "confirm",
         "reading": "කන්ෆර්ම්",
         "meaning": "තහවුරු කරනවා",
-        "example": "confirm",
-        "exampleReading": "කන්ෆර්ම්",
-        "translation": "තහවුරු කරනවා"
+        "example": "Yes, I'm free in the afternoon.",
+        "exampleReading": "යෙස්, අයිම් ෆ්‍රී ඉන් දි ආෆ්ටර්නූන්.",
+        "translation": "ඔව්, මම හවස නිදහස්."
       }
     ],
     "grammarTitle": "Grammar",
@@ -4162,65 +4162,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "recipe",
         "reading": "රෙසපි",
         "meaning": "වට්ටෝරුව",
-        "example": "recipe",
-        "exampleReading": "රෙසපි",
-        "translation": "වට්ටෝරුව"
+        "example": "What ingredients do we need?",
+        "exampleReading": "වොට් ඉන්ග්‍රීඩියන්ට්ස් ඩූ වී නීඩ්?",
+        "translation": "අපිට මොන අමුද්‍රව්‍යද අවශ්‍ය?"
       },
       {
         "word": "ingredient",
         "reading": "ඉන්ග්‍රීඩියන්ට්",
         "meaning": "අමුද්‍රව්‍යය",
-        "example": "ingredient",
-        "exampleReading": "ඉන්ග්‍රීඩියන්ට්",
-        "translation": "අමුද්‍රව්‍යය"
+        "example": "What ingredients do we need?",
+        "exampleReading": "වොට් ඉන්ග්‍රීඩියන්ට්ස් ඩූ වී නීඩ්?",
+        "translation": "අපිට මොන අමුද්‍රව්‍යද අවශ්‍ය?"
       },
       {
         "word": "chop",
         "reading": "චොප්",
         "meaning": "කුඩා කැබලිවලට කපනවා",
-        "example": "chop",
-        "exampleReading": "චොප්",
-        "translation": "කුඩා කැබලිවලට කපනවා"
+        "example": "How long should we cook it?",
+        "exampleReading": "හවු ලෝං ෂුඩ් වී කුක් ඉට්?",
+        "translation": "අපි ඒක කොච්චර වෙලාවක් උයන්න ඕනෙද?"
       },
       {
         "word": "boil",
         "reading": "බොයිල්",
         "meaning": "තම්බනවා",
-        "example": "boil",
-        "exampleReading": "බොයිල්",
-        "translation": "තම්බනවා"
+        "example": "What ingredients do we need?",
+        "exampleReading": "වොට් ඉන්ග්‍රීඩියන්ට්ස් ඩූ වී නීඩ්?",
+        "translation": "අපිට මොන අමුද්‍රව්‍යද අවශ්‍ය?"
       },
       {
         "word": "fry",
         "reading": "ෆ්‍රයි",
         "meaning": "බදිනවා",
-        "example": "fry",
-        "exampleReading": "ෆ්‍රයි",
-        "translation": "බදිනවා"
+        "example": "We need potatoes and carrots.",
+        "exampleReading": "වී නීඩ් පොටේටෝස් ඇන්ඩ් කැරට්ස්.",
+        "translation": "අපිට අර්තාපල් සහ කැරට් අවශ්‍යයි."
       },
       {
         "word": "add",
         "reading": "ඇඩ්",
         "meaning": "එකතු කරනවා",
-        "example": "add",
-        "exampleReading": "ඇඩ්",
-        "translation": "එකතු කරනවා"
+        "example": "How long should we cook it?",
+        "exampleReading": "හවු ලෝං ෂුඩ් වී කුක් ඉට්?",
+        "translation": "අපි ඒක කොච්චර වෙලාවක් උයන්න ඕනෙද?"
       },
       {
         "word": "stir",
         "reading": "ස්ටර්",
         "meaning": "කලවම් කරනවා",
-        "example": "stir",
-        "exampleReading": "ස්ටර්",
-        "translation": "කලවම් කරනවා"
+        "example": "What ingredients do we need?",
+        "exampleReading": "වොට් ඉන්ග්‍රීඩියන්ට්ස් ඩූ වී නීඩ්?",
+        "translation": "අපිට මොන අමුද්‍රව්‍යද අවශ්‍ය?"
       },
       {
         "word": "delicious",
         "reading": "ඩිලිෂස්",
         "meaning": "රසවත්",
-        "example": "delicious",
-        "exampleReading": "ඩිලිෂස්",
-        "translation": "රසවත්"
+        "example": "We need potatoes and carrots.",
+        "exampleReading": "වී නීඩ් පොටේටෝස් ඇන්ඩ් කැරට්ස්.",
+        "translation": "අපිට අර්තාපල් සහ කැරට් අවශ්‍යයි."
       }
     ],
     "grammarTitle": "Grammar",
@@ -4335,65 +4335,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "document",
         "reading": "ඩොකියුමන්ට්",
         "meaning": "ලේඛනය",
-        "example": "document",
-        "exampleReading": "ඩොකියුමන්ට්",
-        "translation": "ලේඛනය"
+        "example": "Where can I submit this application?",
+        "exampleReading": "වෙයාර් කැන් අයි සබ්මිට් දිස් ඇප්ලිකේෂන්?",
+        "translation": "මට මේ අයදුම්පත භාරදෙන්න පුළුවන් කොහෙද?"
       },
       {
         "word": "form",
         "reading": "ෆෝම්",
         "meaning": "පෝරමය",
-        "example": "form",
-        "exampleReading": "ෆෝම්",
+        "example": "Please fill in this form.",
+        "exampleReading": "ප්ලීස් ෆිල් ඉන් දිස් ෆෝම්.",
         "translation": "පෝරමය"
       },
       {
         "word": "signature",
         "reading": "සිග්නචර්",
         "meaning": "අත්සන",
-        "example": "signature",
-        "exampleReading": "සිග්නචර්",
-        "translation": "අත්සන"
+        "example": "Please fill in this form.",
+        "exampleReading": "ප්ලීස් ෆිල් ඉන් දිස් ෆෝම්.",
+        "translation": "පෝරමය"
       },
       {
         "word": "address",
         "reading": "ඇඩ්‍රස්",
         "meaning": "ලිපිනය",
-        "example": "address",
-        "exampleReading": "ඇඩ්‍රස්",
-        "translation": "ලිපිනය"
+        "example": "Where can I submit this application?",
+        "exampleReading": "වෙයාර් කැන් අයි සබ්මිට් දිස් ඇප්ලිකේෂන්?",
+        "translation": "මට මේ අයදුම්පත භාරදෙන්න පුළුවන් කොහෙද?"
       },
       {
         "word": "identity card",
         "reading": "අයිඩෙන්ටිටි කාඩ්",
         "meaning": "හැඳුනුම්පත",
-        "example": "identity card",
-        "exampleReading": "අයිඩෙන්ටිටි කාඩ්",
-        "translation": "හැඳුනුම්පත"
+        "example": "I need a copy of my identity card.",
+        "exampleReading": "අයි නීඩ් අ කොපි ඔෆ් මයි අයිඩෙන්ටිටි කාඩ්.",
+        "translation": "ලේඛනය"
       },
       {
         "word": "counter",
         "reading": "කවුන්ටර්",
         "meaning": "සේවා කවුළුව",
-        "example": "counter",
-        "exampleReading": "කවුන්ටර්",
-        "translation": "සේවා කවුළුව"
+        "example": "Please fill in this form.",
+        "exampleReading": "ප්ලීස් ෆිල් ඉන් දිස් ෆෝම්.",
+        "translation": "පෝරමය"
       },
       {
         "word": "application",
         "reading": "ඇප්ලිකේෂන්",
         "meaning": "අයදුම්පත",
-        "example": "application",
-        "exampleReading": "ඇප්ලිකේෂන්",
-        "translation": "අයදුම්පත"
+        "example": "Where can I submit this application?",
+        "exampleReading": "වෙයාර් කැන් අයි සබ්මිට් දිස් ඇප්ලිකේෂන්?",
+        "translation": "මට මේ අයදුම්පත භාරදෙන්න පුළුවන් කොහෙද?"
       },
       {
         "word": "copy",
         "reading": "කොපි",
         "meaning": "පිටපත",
-        "example": "copy",
-        "exampleReading": "කොපි",
-        "translation": "පිටපත"
+        "example": "I need a copy of my identity card.",
+        "exampleReading": "අයි නීඩ් අ කොපි ඔෆ් මයි අයිඩෙන්ටිටි කාඩ්.",
+        "translation": "ලේඛනය"
       }
     ],
     "grammarTitle": "Grammar",
@@ -4508,65 +4508,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "call",
         "reading": "කෝල්",
         "meaning": "ඇමතුම",
-        "example": "call",
-        "exampleReading": "කෝල්",
-        "translation": "ඇමතුම"
+        "example": "My phone isn't working properly.",
+        "exampleReading": "මයි ෆෝන් ඉසන්ට් වර්කින් ප්‍රොපර්ලි.",
+        "translation": "මගේ දුරකථනය හොඳින් ක්‍රියා කරන්නේ නැහැ."
       },
       {
         "word": "message",
         "reading": "මෙසිජ්",
         "meaning": "පණිවිඩය",
-        "example": "message",
-        "exampleReading": "මෙසිජ්",
-        "translation": "පණිවිඩය"
+        "example": "I don't have enough signal.",
+        "exampleReading": "අයි ඩෝන්ට් හැව් ඉනෆ් සිග්නල්.",
+        "translation": "ඇමතුම"
       },
       {
         "word": "network",
         "reading": "නෙට්වර්ක්",
         "meaning": "ජාලය",
-        "example": "network",
-        "exampleReading": "නෙට්වර්ක්",
-        "translation": "ජාලය"
+        "example": "Could you check my data plan?",
+        "exampleReading": "කුඩ් යූ චෙක් මයි ඩේටා ප්ලෑන්?",
+        "translation": "පණිවිඩය"
       },
       {
         "word": "signal",
         "reading": "සිග්නල්",
         "meaning": "සංඥාව",
-        "example": "signal",
-        "exampleReading": "සිග්නල්",
-        "translation": "සංඥාව"
+        "example": "I don't have enough signal.",
+        "exampleReading": "අයි ඩෝන්ට් හැව් ඉනෆ් සිග්නල්.",
+        "translation": "ඇමතුම"
       },
       {
         "word": "charger",
         "reading": "චාර්ජර්",
         "meaning": "චාජරය",
-        "example": "charger",
-        "exampleReading": "චාර්ජර්",
-        "translation": "චාජරය"
+        "example": "I don't have enough signal.",
+        "exampleReading": "අයි ඩෝන්ට් හැව් ඉනෆ් සිග්නල්.",
+        "translation": "ඇමතුම"
       },
       {
         "word": "battery",
         "reading": "බැටරි",
         "meaning": "බැටරිය",
-        "example": "battery",
-        "exampleReading": "බැටරි",
-        "translation": "බැටරිය"
+        "example": "Could you check my data plan?",
+        "exampleReading": "කුඩ් යූ චෙක් මයි ඩේටා ප්ලෑන්?",
+        "translation": "පණිවිඩය"
       },
       {
         "word": "data plan",
         "reading": "ඩේටා ප්ලෑන්",
         "meaning": "දත්ත පැකේජය",
-        "example": "data plan",
-        "exampleReading": "ඩේටා ප්ලෑන්",
-        "translation": "දත්ත පැකේජය"
+        "example": "Could you check my data plan?",
+        "exampleReading": "කුඩ් යූ චෙක් මයි ඩේටා ප්ලෑන්?",
+        "translation": "පණිවිඩය"
       },
       {
         "word": "password",
         "reading": "පාස්වර්ඩ්",
         "meaning": "මුරපදය",
-        "example": "password",
-        "exampleReading": "පාස්වර්ඩ්",
-        "translation": "මුරපදය"
+        "example": "I don't have enough signal.",
+        "exampleReading": "අයි ඩෝන්ට් හැව් ඉනෆ් සිග්නල්.",
+        "translation": "ඇමතුම"
       }
     ],
     "grammarTitle": "Grammar",
@@ -4681,65 +4681,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "celebration",
         "reading": "සෙලිබ්‍රේෂන්",
         "meaning": "උත්සවය",
-        "example": "celebration",
-        "exampleReading": "සෙලිබ්‍රේෂන්",
-        "translation": "උත්සවය"
+        "example": "I'd like to invite you to my birthday.",
+        "exampleReading": "අයිඩ් ලයික් ටු ඉන්වයිට් යූ ටු මයි බර්ත්ඩේ.",
+        "translation": "ආරාධනා කළාට ස්තුතියි!"
       },
       {
         "word": "birthday",
         "reading": "බර්ත්ඩේ",
         "meaning": "උපන්දිනය",
-        "example": "birthday",
-        "exampleReading": "බර්ත්ඩේ",
-        "translation": "උපන්දිනය"
+        "example": "I'd like to invite you to my birthday.",
+        "exampleReading": "අයිඩ් ලයික් ටු ඉන්වයිට් යූ ටු මයි බර්ත්ඩේ.",
+        "translation": "ආරාධනා කළාට ස්තුතියි!"
       },
       {
         "word": "invitation",
         "reading": "ඉන්විටේෂන්",
         "meaning": "ආරාධනාව",
-        "example": "invitation",
-        "exampleReading": "ඉන්විටේෂන්",
-        "translation": "ආරාධනාව"
+        "example": "Unfortunately, I can't make it that day.",
+        "exampleReading": "අන්ෆෝචුනට්ලි, අයි කාන්ට් මේක් ඉට් දැට් ඩේ.",
+        "translation": "උපන්දිනය"
       },
       {
         "word": "guest",
         "reading": "ගෙස්ට්",
         "meaning": "අමුත්තා",
-        "example": "guest",
-        "exampleReading": "ගෙස්ට්",
-        "translation": "අමුත්තා"
+        "example": "I'd like to invite you to my birthday.",
+        "exampleReading": "අයිඩ් ලයික් ටු ඉන්වයිට් යූ ටු මයි බර්ත්ඩේ.",
+        "translation": "ආරාධනා කළාට ස්තුතියි!"
       },
       {
         "word": "present",
         "reading": "ප්‍රෙසන්ට්",
         "meaning": "තෑග්ග",
-        "example": "present",
-        "exampleReading": "ප්‍රෙසන්ට්",
-        "translation": "තෑග්ග"
+        "example": "Thanks, I'd love to come.",
+        "exampleReading": "තෑන්ක්ස්, අයිඩ් ලව් ටු කම්.",
+        "translation": "උත්සවය"
       },
       {
         "word": "celebrate",
         "reading": "සෙලිබ්‍රේට්",
         "meaning": "සමරනවා",
-        "example": "celebrate",
-        "exampleReading": "සෙලිබ්‍රේට්",
-        "translation": "සමරනවා"
+        "example": "Unfortunately, I can't make it that day.",
+        "exampleReading": "අන්ෆෝචුනට්ලි, අයි කාන්ට් මේක් ඉට් දැට් ඩේ.",
+        "translation": "උපන්දිනය"
       },
       {
         "word": "accept",
         "reading": "ඇක්සෙප්ට්",
         "meaning": "පිළිගන්නවා",
-        "example": "accept",
-        "exampleReading": "ඇක්සෙප්ට්",
-        "translation": "පිළිගන්නවා"
+        "example": "I'd like to invite you to my birthday.",
+        "exampleReading": "අයිඩ් ලයික් ටු ඉන්වයිට් යූ ටු මයි බර්ත්ඩේ.",
+        "translation": "ආරාධනා කළාට ස්තුතියි!"
       },
       {
         "word": "decline",
         "reading": "ඩික്ലයින්",
         "meaning": "ප්‍රතික්ෂේප කරනවා",
-        "example": "decline",
-        "exampleReading": "ඩික്ലයින්",
-        "translation": "ප්‍රතික්ෂේප කරනවා"
+        "example": "Thanks, I'd love to come.",
+        "exampleReading": "තෑන්ක්ස්, අයිඩ් ලව් ටු කම්.",
+        "translation": "උත්සවය"
       }
     ],
     "grammarTitle": "Grammar",
@@ -4854,65 +4854,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "environment",
         "reading": "එන්වයරන්මන්ට්",
         "meaning": "පරිසරය",
-        "example": "environment",
-        "exampleReading": "එන්වයරන්මන්ට්",
-        "translation": "පරිසරය"
+        "example": "We should recycle paper.",
+        "exampleReading": "වී ෂුඩ් රීසයිකල් පේපර්.",
+        "translation": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි."
       },
       {
         "word": "waste",
         "reading": "වේස්ට්",
         "meaning": "අපද්‍රව්‍ය",
-        "example": "waste",
-        "exampleReading": "වේස්ට්",
-        "translation": "අපද්‍රව්‍ය"
+        "example": "I don't use plastic bags.",
+        "exampleReading": "අයි ඩෝන්ට් යූස් ප්ලාස්ටික් බෑග්ස්.",
+        "translation": "පරිසරය"
       },
       {
         "word": "recycling",
         "reading": "රීසයික්ලින්",
         "meaning": "ප්‍රතිචක්‍රීකරණය",
-        "example": "recycling",
-        "exampleReading": "රීසයික්ලින්",
-        "translation": "ප්‍රතිචක්‍රීකරණය"
+        "example": "It's important to protect nature.",
+        "exampleReading": "ඉට්ස් ඉම්පෝටන්ට් ටු ප්‍රොටෙක්ට් නේචර්.",
+        "translation": "අපද්‍රව්‍ය"
       },
       {
         "word": "plastic",
         "reading": "ප්ලාස්ටික්",
         "meaning": "ප්ලාස්ටික්",
-        "example": "plastic",
-        "exampleReading": "ප්ලාස්ටික්",
-        "translation": "ප්ලාස්ටික්"
+        "example": "I don't use plastic bags.",
+        "exampleReading": "අයි ඩෝන්ට් යූස් ප්ලාස්ටික් බෑග්ස්.",
+        "translation": "පරිසරය"
       },
       {
         "word": "paper",
         "reading": "පේපර්",
         "meaning": "කඩදාසි",
-        "example": "paper",
-        "exampleReading": "පේපර්",
-        "translation": "කඩදාසි"
+        "example": "We should recycle paper.",
+        "exampleReading": "වී ෂුඩ් රීසයිකල් පේපර්.",
+        "translation": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි."
       },
       {
         "word": "save",
         "reading": "සේව්",
         "meaning": "ඉතිරි කරනවා",
-        "example": "save",
-        "exampleReading": "සේව්",
-        "translation": "ඉතිරි කරනවා"
+        "example": "It's important to protect nature.",
+        "exampleReading": "ඉට්ස් ඉම්පෝටන්ට් ටු ප්‍රොටෙක්ට් නේචර්.",
+        "translation": "අපද්‍රව්‍ය"
       },
       {
         "word": "clean",
         "reading": "ක්ලීන්",
         "meaning": "පිරිසිදු",
-        "example": "clean",
-        "exampleReading": "ක්ලීන්",
-        "translation": "පිරිසිදු"
+        "example": "We should recycle paper.",
+        "exampleReading": "වී ෂුඩ් රීසයිකල් පේපර්.",
+        "translation": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි."
       },
       {
         "word": "pollution",
         "reading": "පොලූෂන්",
         "meaning": "දූෂණය",
-        "example": "pollution",
-        "exampleReading": "පොලූෂන්",
-        "translation": "දූෂණය"
+        "example": "I don't use plastic bags.",
+        "exampleReading": "අයි ඩෝන්ට් යූස් ප්ලාස්ටික් බෑග්ස්.",
+        "translation": "පරිසරය"
       }
     ],
     "grammarTitle": "Grammar",
@@ -5027,65 +5027,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "hobby",
         "reading": "හොබි",
         "meaning": "විනෝදාංශය",
-        "example": "hobby",
-        "exampleReading": "හොබි",
-        "translation": "විනෝදාංශය"
+        "example": "I read books in my free time.",
+        "exampleReading": "අයි රීඩ් බුක්ස් ඉන් මයි ෆ්‍රී ටයිම්.",
+        "translation": "මගේ නිදහස් කාලයේ මම පොත් කියවනවා."
       },
       {
         "word": "walk",
         "reading": "වෝක්",
         "meaning": "ඇවිදීම",
-        "example": "walk",
-        "exampleReading": "වෝක්",
+        "example": "I often go for a walk at weekends.",
+        "exampleReading": "අයි ඔෆන් ගෝ ෆෝ අ වෝක් ඇට් වීකෙන්ඩ්ස්.",
         "translation": "ඇවිදීම"
       },
       {
         "word": "membership",
         "reading": "මෙම්බර්ෂිප්",
         "meaning": "සාමාජිකත්වය",
-        "example": "membership",
-        "exampleReading": "මෙම්බර්ෂිප්",
-        "translation": "සාමාජිකත්වය"
+        "example": "I often go for a walk at weekends.",
+        "exampleReading": "අයි ඔෆන් ගෝ ෆෝ අ වෝක් ඇට් වීකෙන්ඩ්ස්.",
+        "translation": "ඇවිදීම"
       },
       {
         "word": "gym",
         "reading": "ජිම්",
         "meaning": "ව්‍යායාම ශාලාව",
-        "example": "gym",
-        "exampleReading": "ජිම්",
-        "translation": "ව්‍යායාම ශාලාව"
+        "example": "I enjoy going to the gym.",
+        "exampleReading": "අයි එන්ජෝයි ගෝයිං ටු දි ජිම්.",
+        "translation": "විනෝදාංශය"
       },
       {
         "word": "training",
         "reading": "ට්‍රේනින්",
         "meaning": "පුහුණුව",
-        "example": "training",
-        "exampleReading": "ට්‍රේනින්",
-        "translation": "පුහුණුව"
+        "example": "I enjoy going to the gym.",
+        "exampleReading": "අයි එන්ජෝයි ගෝයිං ටු දි ජිම්.",
+        "translation": "විනෝදාංශය"
       },
       {
         "word": "book",
         "reading": "බුක්",
         "meaning": "පොත",
-        "example": "book",
-        "exampleReading": "බුක්",
-        "translation": "පොත"
+        "example": "I read books in my free time.",
+        "exampleReading": "අයි රීඩ් බුක්ස් ඉන් මයි ෆ්‍රී ටයිම්.",
+        "translation": "මගේ නිදහස් කාලයේ මම පොත් කියවනවා."
       },
       {
         "word": "play an instrument",
         "reading": "ප්ලේ ඇන් ඉන්ස්ට්‍රුමන්ට්",
         "meaning": "සංගීත භාණ්ඩයක් වාදනය කිරීම",
-        "example": "play an instrument",
-        "exampleReading": "ප්ලේ ඇන් ඉන්ස්ට්‍රුමන්ට්",
-        "translation": "සංගීත භාණ්ඩයක් වාදනය කිරීම"
+        "example": "I read books in my free time.",
+        "exampleReading": "අයි රීඩ් බුක්ස් ඉන් මයි ෆ්‍රී ටයිම්.",
+        "translation": "මගේ නිදහස් කාලයේ මම පොත් කියවනවා."
       },
       {
         "word": "free time",
         "reading": "ෆ්‍රී ටයිම්",
         "meaning": "නිදහස් කාලය",
-        "example": "free time",
-        "exampleReading": "ෆ්‍රී ටයිම්",
-        "translation": "නිදහස් කාලය"
+        "example": "I read books in my free time.",
+        "exampleReading": "අයි රීඩ් බුක්ස් ඉන් මයි ෆ්‍රී ටයිම්.",
+        "translation": "මගේ නිදහස් කාලයේ මම පොත් කියවනවා."
       }
     ],
     "grammarTitle": "Grammar",
@@ -5200,65 +5200,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "account",
         "reading": "අකවුන්ට්",
         "meaning": "ගිණුම",
-        "example": "account",
-        "exampleReading": "අකවුන්ට්",
-        "translation": "ගිණුම"
+        "example": "I'd like to open an account.",
+        "exampleReading": "අයිඩ් ලයික් ටු ඕපන් ඇන් අකවුන්ට්.",
+        "translation": "මට ගිණුමක් විවෘත කරන්න ඕනේ."
       },
       {
         "word": "cash machine",
         "reading": "කෑෂ් මෂීන්",
         "meaning": "ATM යන්ත්‍රය",
-        "example": "cash machine",
-        "exampleReading": "කෑෂ් මෂීන්",
-        "translation": "ATM යන්ත්‍රය"
+        "example": "Can I pay by card?",
+        "exampleReading": "කැන් අයි පේ බයි කාඩ්?",
+        "translation": "මට කාඩ්පතෙන් ගෙවන්න පුළුවන්ද?"
       },
       {
         "word": "card",
         "reading": "කාඩ්",
         "meaning": "කාඩ්පත",
-        "example": "card",
-        "exampleReading": "කාඩ්",
-        "translation": "කාඩ්පත"
+        "example": "Can I pay by card?",
+        "exampleReading": "කැන් අයි පේ බයි කාඩ්?",
+        "translation": "මට කාඩ්පතෙන් ගෙවන්න පුළුවන්ද?"
       },
       {
         "word": "cash",
         "reading": "කෑෂ්",
         "meaning": "මුදල් නෝට්ටු",
-        "example": "cash",
-        "exampleReading": "කෑෂ්",
-        "translation": "මුදල් නෝට්ටු"
+        "example": "I'd like to open an account.",
+        "exampleReading": "අයිඩ් ලයික් ටු ඕපන් ඇන් අකවුන්ට්.",
+        "translation": "මට ගිණුමක් විවෘත කරන්න ඕනේ."
       },
       {
         "word": "deposit",
         "reading": "ඩිපොසිට්",
         "meaning": "මුදල් තැන්පත් කිරීම",
-        "example": "deposit",
-        "exampleReading": "ඩිපොසිට්",
-        "translation": "මුදල් තැන්පත් කිරීම"
+        "example": "Can I pay by card?",
+        "exampleReading": "කැන් අයි පේ බයි කාඩ්?",
+        "translation": "මට කාඩ්පතෙන් ගෙවන්න පුළුවන්ද?"
       },
       {
         "word": "withdrawal",
         "reading": "විත්ඩ්‍රෝවල්",
         "meaning": "මුදල් ලබාගැනීම",
-        "example": "withdrawal",
-        "exampleReading": "විත්ඩ්‍රෝවල්",
-        "translation": "මුදල් ලබාගැනීම"
+        "example": "How much is the fee?",
+        "exampleReading": "හව් මච් ඉස් දි ෆී?",
+        "translation": "සේවා ගාස්තුව කීයද?"
       },
       {
         "word": "fee",
         "reading": "ෆී",
         "meaning": "සේවා ගාස්තුව",
-        "example": "fee",
-        "exampleReading": "ෆී",
-        "translation": "සේවා ගාස්තුව"
+        "example": "How much is the fee?",
+        "exampleReading": "හව් මච් ඉස් දි ෆී?",
+        "translation": "සේවා ගාස්තුව කීයද?"
       },
       {
         "word": "balance",
         "reading": "බැලන්ස්",
         "meaning": "ශේෂය",
-        "example": "balance",
-        "exampleReading": "බැලන්ස්",
-        "translation": "ශේෂය"
+        "example": "Can I pay by card?",
+        "exampleReading": "කැන් අයි පේ බයි කාඩ්?",
+        "translation": "මට කාඩ්පතෙන් ගෙවන්න පුළුවන්ද?"
       }
     ],
     "grammarTitle": "Grammar",
@@ -5373,65 +5373,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "post office",
         "reading": "පෝස්ට් ඔෆිස්",
         "meaning": "තැපැල් කාර්යාලය",
-        "example": "post office",
-        "exampleReading": "පෝස්ට් ඔෆිස්",
-        "translation": "තැපැල් කාර්යාලය"
+        "example": "I'd like to send a parcel.",
+        "exampleReading": "අයිඩ් ලයික් ටු සෙන්ඩ් අ පාසල්.",
+        "translation": "මට පාර්සලයක් යවන්න ඕනේ."
       },
       {
         "word": "parcel",
         "reading": "පාසල්",
         "meaning": "පාර්සලය",
-        "example": "parcel",
-        "exampleReading": "පාසල්",
-        "translation": "පාර්සලය"
+        "example": "I'd like to send a parcel.",
+        "exampleReading": "අයිඩ් ලයික් ටු සෙන්ඩ් අ පාසල්.",
+        "translation": "මට පාර්සලයක් යවන්න ඕනේ."
       },
       {
         "word": "letter",
         "reading": "ලෙටර්",
         "meaning": "ලිපිය",
-        "example": "letter",
-        "exampleReading": "ලෙටර්",
-        "translation": "ලිපිය"
+        "example": "This is my address.",
+        "exampleReading": "දිස් ඉස් මයි ඇඩ්‍රස්.",
+        "translation": "මේ මගේ ලිපිනයයි."
       },
       {
         "word": "address",
         "reading": "ඇඩ්‍රස්",
         "meaning": "ලිපිනය",
-        "example": "address",
-        "exampleReading": "ඇඩ්‍රස්",
-        "translation": "ලිපිනය"
+        "example": "This is my address.",
+        "exampleReading": "දිස් ඉස් මයි ඇඩ්‍රස්.",
+        "translation": "මේ මගේ ලිපිනයයි."
       },
       {
         "word": "sender",
         "reading": "සෙන්ඩර්",
         "meaning": "යවන්නා",
-        "example": "sender",
-        "exampleReading": "සෙන්ඩර්",
-        "translation": "යවන්නා"
+        "example": "How long does delivery take?",
+        "exampleReading": "හව් ලොං ඩස් ඩිලිවරි ටේක්?",
+        "translation": "බෙදාහැරීමට කොපමණ කාලයක් යනවාද?"
       },
       {
         "word": "recipient",
         "reading": "රිසිපියන්ට්",
         "meaning": "ලබන්නා",
-        "example": "recipient",
-        "exampleReading": "රිසිපියන්ට්",
-        "translation": "ලබන්නා"
+        "example": "This is my address.",
+        "exampleReading": "දිස් ඉස් මයි ඇඩ්‍රස්.",
+        "translation": "මේ මගේ ලිපිනයයි."
       },
       {
         "word": "stamp",
         "reading": "ස්ටැම්ප්",
         "meaning": "මුද්දරය",
-        "example": "stamp",
-        "exampleReading": "ස්ටැම්ප්",
-        "translation": "මුද්දරය"
+        "example": "I'd like to send a parcel.",
+        "exampleReading": "අයිඩ් ලයික් ටු සෙන්ඩ් අ පාසල්.",
+        "translation": "මට පාර්සලයක් යවන්න ඕනේ."
       },
       {
         "word": "delivery",
         "reading": "ඩිලිවරි",
         "meaning": "බෙදාහැරීම",
-        "example": "delivery",
-        "exampleReading": "ඩිලිවරි",
-        "translation": "බෙදාහැරීම"
+        "example": "How long does delivery take?",
+        "exampleReading": "හව් ලොං ඩස් ඩිලිවරි ටේක්?",
+        "translation": "බෙදාහැරීමට කොපමණ කාලයක් යනවාද?"
       }
     ],
     "grammarTitle": "Grammar",
@@ -5546,65 +5546,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "delay",
         "reading": "ඩිලේ",
         "meaning": "ප්‍රමාදය",
-        "example": "delay",
-        "exampleReading": "ඩිලේ",
-        "translation": "ප්‍රමාදය"
+        "example": "The bus is twenty minutes late.",
+        "exampleReading": "දි බස් ඉස් ට්වෙන්ටි මිනිට්ස් ලේට්.",
+        "translation": "බස් රථය විනාඩි විස්සක් ප්‍රමාදයි."
       },
       {
         "word": "cancelled",
         "reading": "කැන්සල්ඩ්",
         "meaning": "අවලංගු කළා",
-        "example": "cancelled",
-        "exampleReading": "කැන්සල්ඩ්",
-        "translation": "අවලංගු කළා"
+        "example": "The train has been cancelled.",
+        "exampleReading": "දි ට්‍රේන් හැස් බීන් කැන්සල්ඩ්.",
+        "translation": "දුම්රිය අවලංගු කරලා."
       },
       {
         "word": "departure",
         "reading": "ඩිපාර්චර්",
         "meaning": "පිටත්වීම",
-        "example": "departure",
-        "exampleReading": "ඩිපාර්චර්",
-        "translation": "පිටත්වීම"
+        "example": "When is the next departure?",
+        "exampleReading": "වෙන් ඉස් දි නෙක්ස්ට් ඩිපාර්චර්?",
+        "translation": "ඊළඟ පිටත්වීම කවදාද?"
       },
       {
         "word": "arrival",
         "reading": "අරයිවල්",
         "meaning": "පැමිණීම",
-        "example": "arrival",
-        "exampleReading": "අරයිවල්",
-        "translation": "පැමිණීම"
+        "example": "The bus is twenty minutes late.",
+        "exampleReading": "දි බස් ඉස් ට්වෙන්ටි මිනිට්ස් ලේට්.",
+        "translation": "බස් රථය විනාඩි විස්සක් ප්‍රමාදයි."
       },
       {
         "word": "platform",
         "reading": "ප්ලැට්ෆෝම්",
         "meaning": "වේදිකාව",
-        "example": "platform",
-        "exampleReading": "ප්ලැට්ෆෝම්",
-        "translation": "වේදිකාව"
+        "example": "The train has been cancelled.",
+        "exampleReading": "දි ට්‍රේන් හැස් බීන් කැන්සල්ඩ්.",
+        "translation": "දුම්රිය අවලංගු කරලා."
       },
       {
         "word": "transfer",
         "reading": "ට්‍රාන්ස්ෆර්",
         "meaning": "වාහන මාරු කිරීම",
-        "example": "transfer",
-        "exampleReading": "ට්‍රාන්ස්ෆර්",
-        "translation": "වාහන මාරු කිරීම"
+        "example": "When is the next departure?",
+        "exampleReading": "වෙන් ඉස් දි නෙක්ස්ට් ඩිපාර්චර්?",
+        "translation": "ඊළඟ පිටත්වීම කවදාද?"
       },
       {
         "word": "traffic",
         "reading": "ට්‍රැෆික්",
         "meaning": "තදබදය",
-        "example": "traffic",
-        "exampleReading": "ට්‍රැෆික්",
-        "translation": "තදබදය"
+        "example": "The bus is twenty minutes late.",
+        "exampleReading": "දි බස් ඉස් ට්වෙන්ටි මිනිට්ස් ලේට්.",
+        "translation": "බස් රථය විනාඩි විස්සක් ප්‍රමාදයි."
       },
       {
         "word": "replacement",
         "reading": "රිප්ලේස්මන්ට්",
         "meaning": "විකල්පය",
-        "example": "replacement",
-        "exampleReading": "රිප්ලේස්මන්ට්",
-        "translation": "විකල්පය"
+        "example": "The train has been cancelled.",
+        "exampleReading": "දි ට්‍රේන් හැස් බීන් කැන්සල්ඩ්.",
+        "translation": "දුම්රිය අවලංගු කරලා."
       }
     ],
     "grammarTitle": "Grammar",
@@ -5719,65 +5719,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "experience",
         "reading": "ඉක්ස්පීරියන්ස්",
         "meaning": "පළපුරුද්ද",
-        "example": "experience",
-        "exampleReading": "ඉක්ස්පීරියන්ස්",
-        "translation": "පළපුරුද්ද"
+        "example": "I have three years of experience.",
+        "exampleReading": "අයි හැව් ත්‍රී යියර්ස් ඔෆ් ඉක්ස්පීරියන්ස්.",
+        "translation": "මට අවුරුදු තුනක පළපුරුද්ද තියෙනවා."
       },
       {
         "word": "skill",
         "reading": "ස්කිල්",
         "meaning": "කුසලතාව",
-        "example": "skill",
-        "exampleReading": "ස්කිල්",
-        "translation": "කුසලතාව"
+        "example": "I work well in a team.",
+        "exampleReading": "අයි වර්ක් වෙල් ඉන් අ ටීම්.",
+        "translation": "මම කණ්ඩායමක හොඳින් වැඩ කරනවා."
       },
       {
         "word": "application",
         "reading": "ඇප්ලිකේෂන්",
         "meaning": "අයදුම්පත",
-        "example": "application",
-        "exampleReading": "ඇප්ලිකේෂන්",
-        "translation": "අයදුම්පත"
+        "example": "I can start immediately.",
+        "exampleReading": "අයි කැන් ස්ටාට් ඉමීඩියට්ලි.",
+        "translation": "මට වහාම වැඩ පටන් ගන්න පුළුවන්."
       },
       {
         "word": "interview",
         "reading": "ඉන්ටර්වියු",
         "meaning": "සම්මුඛ පරීක්ෂණය",
-        "example": "interview",
-        "exampleReading": "ඉන්ටර්වියු",
-        "translation": "සම්මුඛ පරීක්ෂණය"
+        "example": "I have three years of experience.",
+        "exampleReading": "අයි හැව් ත්‍රී යියර්ස් ඔෆ් ඉක්ස්පීරියන්ස්.",
+        "translation": "මට අවුරුදු තුනක පළපුරුද්ද තියෙනවා."
       },
       {
         "word": "employer",
         "reading": "එම්ප්ලොයර්",
         "meaning": "සේවායෝජකයා",
-        "example": "employer",
-        "exampleReading": "එම්ප්ලොයර්",
-        "translation": "සේවායෝජකයා"
+        "example": "I work well in a team.",
+        "exampleReading": "අයි වර්ක් වෙල් ඉන් අ ටීම්.",
+        "translation": "මම කණ්ඩායමක හොඳින් වැඩ කරනවා."
       },
       {
         "word": "employment",
         "reading": "එම්ප්ලොයිමන්ට්",
         "meaning": "රැකියාව",
-        "example": "employment",
-        "exampleReading": "එම්ප්ලොයිමන්ට්",
-        "translation": "රැකියාව"
+        "example": "I can start immediately.",
+        "exampleReading": "අයි කැන් ස්ටාට් ඉමීඩියට්ලි.",
+        "translation": "මට වහාම වැඩ පටන් ගන්න පුළුවන්."
       },
       {
         "word": "responsibility",
         "reading": "රිස්පොන්සිබිලිටි",
         "meaning": "වගකීම",
-        "example": "responsibility",
-        "exampleReading": "රිස්පොන්සිබිලිටි",
-        "translation": "වගකීම"
+        "example": "I have three years of experience.",
+        "exampleReading": "අයි හැව් ත්‍රී යියර්ස් ඔෆ් ඉක්ස්පීරියන්ස්.",
+        "translation": "මට අවුරුදු තුනක පළපුරුද්ද තියෙනවා."
       },
       {
         "word": "reference",
         "reading": "රෙෆරන්ස්",
         "meaning": "නිර්දේශය",
-        "example": "reference",
-        "exampleReading": "රෙෆරන්ස්",
-        "translation": "නිර්දේශය"
+        "example": "I work well in a team.",
+        "exampleReading": "අයි වර්ක් වෙල් ඉන් අ ටීම්.",
+        "translation": "මම කණ්ඩායමක හොඳින් වැඩ කරනවා."
       }
     ],
     "grammarTitle": "Grammar",
@@ -5892,65 +5892,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "neighbourhood",
         "reading": "නේබර්හුඩ්",
         "meaning": "අසල්වැසි ප්‍රදේශය",
-        "example": "neighbourhood",
-        "exampleReading": "නේබර්හුඩ්",
-        "translation": "අසල්වැසි ප්‍රදේශය"
+        "example": "My neighbourhood is very quiet.",
+        "exampleReading": "මයි නේබර්හුඩ් ඉස් වෙරි ක්වයට්.",
+        "translation": "මගේ ප්‍රදේශය ඉතා නිස්කලංකයි."
       },
       {
         "word": "city centre",
         "reading": "සිටි සෙන්ටර්",
         "meaning": "නගර මධ්‍යය",
-        "example": "city centre",
-        "exampleReading": "සිටි සෙන්ටර්",
-        "translation": "නගර මධ්‍යය"
+        "example": "There is a large park nearby.",
+        "exampleReading": "දෙයාර් ඉස් අ ලාජ් පාක් නියර්බයි.",
+        "translation": "ළඟ විශාල උද්‍යානයක් තියෙනවා."
       },
       {
         "word": "park",
         "reading": "පාක්",
         "meaning": "උද්‍යානය",
-        "example": "park",
-        "exampleReading": "පාක්",
-        "translation": "උද්‍යානය"
+        "example": "There is a large park nearby.",
+        "exampleReading": "දෙයාර් ඉස් අ ලාජ් පාක් නියර්බයි.",
+        "translation": "ළඟ විශාල උද්‍යානයක් තියෙනවා."
       },
       {
         "word": "shop",
         "reading": "ෂොප්",
         "meaning": "සාප්පුව",
-        "example": "shop",
-        "exampleReading": "ෂොප්",
-        "translation": "සාප්පුව"
+        "example": "My neighbourhood is very quiet.",
+        "exampleReading": "මයි නේබර්හුඩ් ඉස් වෙරි ක්වයට්.",
+        "translation": "මගේ ප්‍රදේශය ඉතා නිස්කලංකයි."
       },
       {
         "word": "school",
         "reading": "ස්කූල්",
         "meaning": "පාසල",
-        "example": "school",
-        "exampleReading": "ස්කූල්",
-        "translation": "පාසල"
+        "example": "There is a large park nearby.",
+        "exampleReading": "දෙයාර් ඉස් අ ලාජ් පාක් නියර්බයි.",
+        "translation": "ළඟ විශාල උද්‍යානයක් තියෙනවා."
       },
       {
         "word": "hospital",
         "reading": "හොස්පිටල්",
         "meaning": "රෝහල",
-        "example": "hospital",
-        "exampleReading": "හොස්පිටල්",
-        "translation": "රෝහල"
+        "example": "The centre is close to my flat.",
+        "exampleReading": "දි සෙන්ටර් ඉස් ක්ලෝස් ටු මයි ෆ්ලැට්.",
+        "translation": "නගර මධ්‍යය මගේ නිවසට ළඟයි."
       },
       {
         "word": "quiet",
         "reading": "ක්වයට්",
         "meaning": "නිස්කලංක",
-        "example": "quiet",
-        "exampleReading": "ක්වයට්",
-        "translation": "නිස්කලංක"
+        "example": "My neighbourhood is very quiet.",
+        "exampleReading": "මයි නේබර්හුඩ් ඉස් වෙරි ක්වයට්.",
+        "translation": "මගේ ප්‍රදේශය ඉතා නිස්කලංකයි."
       },
       {
         "word": "busy",
         "reading": "බිසි",
         "meaning": "කාර්යබහුල",
-        "example": "busy",
-        "exampleReading": "බිසි",
-        "translation": "කාර්යබහුල"
+        "example": "There is a large park nearby.",
+        "exampleReading": "දෙයාර් ඉස් අ ලාජ් පාක් නියර්බයි.",
+        "translation": "ළඟ විශාල උද්‍යානයක් තියෙනවා."
       }
     ],
     "grammarTitle": "Grammar",
@@ -6065,65 +6065,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "journey",
         "reading": "ජර්නි",
         "meaning": "ගමන",
-        "example": "journey",
-        "translation": "ගමන",
-        "exampleReading": "ජර්නි"
+        "example": "I am planning a trip next week.",
+        "translation": "මම ලබන සතියේ ගමනක් සැලසුම් කරනවා.",
+        "exampleReading": "අයි ඇම් ප්ලෑනින් අ ට්‍රිප් නෙක්ස්ට් වීක්."
       },
       {
         "word": "reservation",
         "reading": "රෙසර්වේෂන්",
         "meaning": "වෙන්කිරීම",
-        "example": "reservation",
-        "translation": "වෙන්කිරීම",
-        "exampleReading": "රෙසර්වේෂන්"
+        "example": "I would like to book a room.",
+        "translation": "මම කාමරයක් වෙන්කරගන්න කැමතියි.",
+        "exampleReading": "අයි වුඩ් ලයික් ටු බුක් අ රූම්."
       },
       {
         "word": "accommodation",
         "reading": "අකමඩේෂන්",
         "meaning": "නවාතැන්",
-        "example": "accommodation",
-        "translation": "නවාතැන්",
-        "exampleReading": "අකමඩේෂන්"
+        "example": "What time is the departure?",
+        "translation": "පිටත්වීම කීයටද?",
+        "exampleReading": "වොට් ටයිම් ඉස් දි ඩිපාර්චර්?"
       },
       {
         "word": "overnight stay",
         "reading": "ඕවර්නයිට් ස්ටේ",
         "meaning": "රාත්‍රී නවාතැන",
-        "example": "overnight stay",
-        "translation": "රාත්‍රී නවාතැන",
-        "exampleReading": "ඕවර්නයිට් ස්ටේ"
+        "example": "I am planning a trip next week.",
+        "translation": "මම ලබන සතියේ ගමනක් සැලසුම් කරනවා.",
+        "exampleReading": "අයි ඇම් ප්ලෑනින් අ ට්‍රිප් නෙක්ස්ට් වීක්."
       },
       {
         "word": "departure",
         "reading": "ඩිපාර්චර්",
         "meaning": "පිටත්වීම",
-        "example": "departure",
-        "translation": "පිටත්වීම",
-        "exampleReading": "ඩිපාර්චර්"
+        "example": "What time is the departure?",
+        "translation": "පිටත්වීම කීයටද?",
+        "exampleReading": "වොට් ටයිම් ඉස් දි ඩිපාර්චර්?"
       },
       {
         "word": "arrival",
         "reading": "අරයිවල්",
         "meaning": "පැමිණීම",
-        "example": "arrival",
-        "translation": "පැමිණීම",
-        "exampleReading": "අරයිවල්"
+        "example": "What time is the departure?",
+        "translation": "පිටත්වීම කීයටද?",
+        "exampleReading": "වොට් ටයිම් ඉස් දි ඩිපාර්චර්?"
       },
       {
         "word": "luggage",
         "reading": "ලගිජ්",
         "meaning": "ගමන් මලු",
-        "example": "luggage",
-        "translation": "ගමන් මලු",
-        "exampleReading": "ලගිජ්"
+        "example": "I am planning a trip next week.",
+        "translation": "මම ලබන සතියේ ගමනක් සැලසුම් කරනවා.",
+        "exampleReading": "අයි ඇම් ප්ලෑනින් අ ට්‍රිප් නෙක්ස්ට් වීක්."
       },
       {
         "word": "available place",
         "reading": "අවේලබල් ප්ලේස්",
         "meaning": "හිස් ස්ථානය",
-        "example": "available place",
-        "translation": "හිස් ස්ථානය",
-        "exampleReading": "අවේලබල් ප්ලේස්"
+        "example": "I would like to book a room.",
+        "translation": "මම කාමරයක් වෙන්කරගන්න කැමතියි.",
+        "exampleReading": "අයි වුඩ් ලයික් ටු බුක් අ රූම්."
       }
     ],
     "grammarTitle": "Grammar",
@@ -6238,65 +6238,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "problem",
         "reading": "ප්‍රොබ්ලම්",
         "meaning": "ගැටලුව",
-        "example": "problem",
-        "translation": "ගැටලුව",
-        "exampleReading": "ප්‍රොබ්ලම්"
+        "example": "I have a problem with this product.",
+        "translation": "මට මේ භාණ්ඩය සම්බන්ධ ගැටලුවක් තියෙනවා.",
+        "exampleReading": "අයි හැව් අ ප්‍රොබ්ලම් විත් දිස් ප්‍රොඩක්ට්."
       },
       {
         "word": "damaged",
         "reading": "ඩෑමිජ්ඩ්",
         "meaning": "හානි වූ",
-        "example": "damaged",
-        "translation": "හානි වූ",
-        "exampleReading": "ඩෑමිජ්ඩ්"
+        "example": "The product has been damaged.",
+        "translation": "භාණ්ඩයට හානි වෙලා.",
+        "exampleReading": "දි ප්‍රොඩක්ට් හැස් බීන් ඩෑමිජ්ඩ්."
       },
       {
         "word": "incorrect",
         "reading": "ඉන්කරෙක්ට්",
         "meaning": "වැරදි",
-        "example": "incorrect",
-        "translation": "වැරදි",
-        "exampleReading": "ඉන්කරෙක්ට්"
+        "example": "Could you replace it, please?",
+        "translation": "කරුණාකර එය මාරු කරලා දෙන්න පුළුවන්ද?",
+        "exampleReading": "කුඩ් යූ රිප්ලේස් ඉට් ප්ලීස්?"
       },
       {
         "word": "receipt",
         "reading": "රිසීට්",
         "meaning": "බිල",
-        "example": "receipt",
-        "translation": "බිල",
-        "exampleReading": "රිසීට්"
+        "example": "I have a problem with this product.",
+        "translation": "මට මේ භාණ්ඩය සම්බන්ධ ගැටලුවක් තියෙනවා.",
+        "exampleReading": "අයි හැව් අ ප්‍රොබ්ලම් විත් දිස් ප්‍රොඩක්ට්."
       },
       {
         "word": "replacement",
         "reading": "රිප්ලේස්මන්ට්",
         "meaning": "මාරු කිරීම",
-        "example": "replacement",
-        "translation": "මාරු කිරීම",
-        "exampleReading": "රිප්ලේස්මන්ට්"
+        "example": "The product has been damaged.",
+        "translation": "භාණ්ඩයට හානි වෙලා.",
+        "exampleReading": "දි ප්‍රොඩක්ට් හැස් බීන් ඩෑමිජ්ඩ්."
       },
       {
         "word": "refund",
         "reading": "රීෆන්ඩ්",
         "meaning": "මුදල් ආපසු ලබාදීම",
-        "example": "refund",
-        "translation": "මුදල් ආපසු ලබාදීම",
-        "exampleReading": "රීෆන්ඩ්"
+        "example": "Could you replace it, please?",
+        "translation": "කරුණාකර එය මාරු කරලා දෙන්න පුළුවන්ද?",
+        "exampleReading": "කුඩ් යූ රිප්ලේස් ඉට් ප්ලීස්?"
       },
       {
         "word": "complaint",
         "reading": "කම්ප්ලේන්ට්",
         "meaning": "පැමිණිල්ල",
-        "example": "complaint",
-        "translation": "පැමිණිල්ල",
-        "exampleReading": "කම්ප්ලේන්ට්"
+        "example": "I have a problem with this product.",
+        "translation": "මට මේ භාණ්ඩය සම්බන්ධ ගැටලුවක් තියෙනවා.",
+        "exampleReading": "අයි හැව් අ ප්‍රොබ්ලම් විත් දිස් ප්‍රොඩක්ට්."
       },
       {
         "word": "solution",
         "reading": "සලුෂන්",
         "meaning": "විසඳුම",
-        "example": "solution",
-        "translation": "විසඳුම",
-        "exampleReading": "සලුෂන්"
+        "example": "The product has been damaged.",
+        "translation": "භාණ්ඩයට හානි වෙලා.",
+        "exampleReading": "දි ප්‍රොඩක්ට් හැස් බීන් ඩෑමිජ්ඩ්."
       }
     ],
     "grammarTitle": "Grammar",
@@ -6411,65 +6411,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "recipe",
         "reading": "රෙසපී",
         "meaning": "වට්ටෝරුව",
-        "example": "recipe",
-        "translation": "වට්ටෝරුව",
-        "exampleReading": "රෙසපී"
+        "example": "First, chop the vegetables.",
+        "translation": "මුලින්ම එළවළු කපන්න.",
+        "exampleReading": "ෆර්ස්ට් චොප් දි වෙජිටබල්ස්."
       },
       {
         "word": "ingredient",
         "reading": "ඉන්ග්‍රීඩියන්ට්",
         "meaning": "අමුද්‍රව්‍යය",
-        "example": "ingredient",
-        "translation": "අමුද්‍රව්‍යය",
-        "exampleReading": "ඉන්ග්‍රීඩියන්ට්"
+        "example": "Then mix all the ingredients.",
+        "translation": "ඊළඟට සියලු අමුද්‍රව්‍ය මිශ්‍ර කරන්න.",
+        "exampleReading": "දෙන් මික්ස් ඕල් දි ඉන්ග්‍රීඩියන්ට්ස්."
       },
       {
         "word": "flour",
         "reading": "ෆ්ලවර්",
         "meaning": "පිටි",
-        "example": "flour",
-        "translation": "පිටි",
-        "exampleReading": "ෆ්ලවර්"
+        "example": "Cook for ten minutes.",
+        "translation": "විනාඩි දහයක් උයන්න.",
+        "exampleReading": "කුක් ෆෝර් ටෙන් මිනිට්ස්."
       },
       {
         "word": "oil",
         "reading": "ඔයිල්",
         "meaning": "තෙල්",
-        "example": "oil",
-        "translation": "තෙල්",
-        "exampleReading": "ඔයිල්"
+        "example": "First, chop the vegetables.",
+        "translation": "මුලින්ම එළවළු කපන්න.",
+        "exampleReading": "ෆර්ස්ට් චොප් දි වෙජිටබල්ස්."
       },
       {
         "word": "spoon",
         "reading": "ස්පූන්",
         "meaning": "හැන්ද",
-        "example": "spoon",
-        "translation": "හැන්ද",
-        "exampleReading": "ස්පූන්"
+        "example": "Then mix all the ingredients.",
+        "translation": "ඊළඟට සියලු අමුද්‍රව්‍ය මිශ්‍ර කරන්න.",
+        "exampleReading": "දෙන් මික්ස් ඕල් දි ඉන්ග්‍රීඩියන්ට්ස්."
       },
       {
         "word": "chop",
         "reading": "චොප්",
         "meaning": "කපන්න",
-        "example": "chop",
-        "translation": "කපන්න",
-        "exampleReading": "චොප්"
+        "example": "First, chop the vegetables.",
+        "translation": "මුලින්ම එළවළු කපන්න.",
+        "exampleReading": "ෆර්ස්ට් චොප් දි වෙජිටබල්ස්."
       },
       {
         "word": "mix",
         "reading": "මික්ස්",
         "meaning": "මිශ්‍ර කරන්න",
-        "example": "mix",
-        "translation": "මිශ්‍ර කරන්න",
-        "exampleReading": "මික්ස්"
+        "example": "Then mix all the ingredients.",
+        "translation": "ඊළඟට සියලු අමුද්‍රව්‍ය මිශ්‍ර කරන්න.",
+        "exampleReading": "දෙන් මික්ස් ඕල් දි ඉන්ග්‍රීඩියන්ට්ස්."
       },
       {
         "word": "boil",
         "reading": "බොයිල්",
         "meaning": "තම්බන්න",
-        "example": "boil",
-        "translation": "තම්බන්න",
-        "exampleReading": "බොයිල්"
+        "example": "Then mix all the ingredients.",
+        "translation": "ඊළඟට සියලු අමුද්‍රව්‍ය මිශ්‍ර කරන්න.",
+        "exampleReading": "දෙන් මික්ස් ඕල් දි ඉන්ග්‍රීඩියන්ට්ස්."
       }
     ],
     "grammarTitle": "Grammar",
@@ -6584,65 +6584,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "forecast",
         "reading": "ෆෝර්කාස්ට්",
         "meaning": "අනාවැකිය",
-        "example": "forecast",
-        "translation": "අනාවැකිය",
-        "exampleReading": "ෆෝර්කාස්ට්"
+        "example": "According to the forecast, it will rain tomorrow.",
+        "translation": "අනාවැකිය අනුව හෙට වැසි වැටේවි.",
+        "exampleReading": "අකෝර්ඩින් ටු දි ෆෝර්කාස්ට් ඉට් විල් රේන් ටුමාරෝ."
       },
       {
         "word": "shower",
         "reading": "ෂවර්",
         "meaning": "තද වැස්ස",
-        "example": "shower",
-        "translation": "තද වැස්ස",
-        "exampleReading": "ෂවර්"
+        "example": "If it is cold, I will take a jacket.",
+        "translation": "සීතල වුණොත් මම ජැකට් එකක් ගෙන යනවා.",
+        "exampleReading": "ඉෆ් ඉට් ඉස් කෝල්ඩ් අයි විල් ටේක් අ ජැකට්."
       },
       {
         "word": "windy",
         "reading": "වින්ඩි",
         "meaning": "සුළං සහිත",
-        "example": "windy",
-        "translation": "සුළං සහිත",
-        "exampleReading": "වින්ඩි"
+        "example": "We might postpone the trip.",
+        "translation": "සමහරවිට අපි සංචාරය කල් දමාවි.",
+        "exampleReading": "වී මයිට් පෝස්ට්පෝන් දි ට්‍රිප්."
       },
       {
         "word": "cloudy",
         "reading": "ක්ලවුඩි",
         "meaning": "වලාකුළු සහිත",
-        "example": "cloudy",
-        "translation": "වලාකුළු සහිත",
-        "exampleReading": "ක්ලවුඩි"
+        "example": "According to the forecast, it will rain tomorrow.",
+        "translation": "අනාවැකිය අනුව හෙට වැසි වැටේවි.",
+        "exampleReading": "අකෝර්ඩින් ටු දි ෆෝර්කාස්ට් ඉට් විල් රේන් ටුමාරෝ."
       },
       {
         "word": "temperature",
         "reading": "ටෙම්පරචර්",
         "meaning": "උෂ්ණත්වය",
-        "example": "temperature",
-        "translation": "උෂ්ණත්වය",
-        "exampleReading": "ටෙම්පරචර්"
+        "example": "If it is cold, I will take a jacket.",
+        "translation": "සීතල වුණොත් මම ජැකට් එකක් ගෙන යනවා.",
+        "exampleReading": "ඉෆ් ඉට් ඉස් කෝල්ඩ් අයි විල් ටේක් අ ජැකට්."
       },
       {
         "word": "take along",
         "reading": "ටේක් අලොං",
         "meaning": "ගෙන යන්න",
-        "example": "take along",
-        "translation": "ගෙන යන්න",
-        "exampleReading": "ටේක් අලොං"
+        "example": "We might postpone the trip.",
+        "translation": "සමහරවිට අපි සංචාරය කල් දමාවි.",
+        "exampleReading": "වී මයිට් පෝස්ට්පෝන් දි ට්‍රිප්."
       },
       {
         "word": "cancel",
         "reading": "කැන්සල්",
         "meaning": "අවලංගු කරන්න",
-        "example": "cancel",
-        "translation": "අවලංගු කරන්න",
-        "exampleReading": "කැන්සල්"
+        "example": "According to the forecast, it will rain tomorrow.",
+        "translation": "අනාවැකිය අනුව හෙට වැසි වැටේවි.",
+        "exampleReading": "අකෝර්ඩින් ටු දි ෆෝර්කාස්ට් ඉට් විල් රේන් ටුමාරෝ."
       },
       {
         "word": "postpone",
         "reading": "පෝස්ට්පෝන්",
         "meaning": "කල් දමන්න",
-        "example": "postpone",
-        "translation": "කල් දමන්න",
-        "exampleReading": "පෝස්ට්පෝන්"
+        "example": "We might postpone the trip.",
+        "translation": "සමහරවිට අපි සංචාරය කල් දමාවි.",
+        "exampleReading": "වී මයිට් පෝස්ට්පෝන් දි ට්‍රිප්."
       }
     ],
     "grammarTitle": "Grammar",
@@ -6757,65 +6757,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "experience",
         "reading": "ඉක්ස්පීරියන්ස්",
         "meaning": "අත්දැකීම",
-        "example": "experience",
-        "translation": "අත්දැකීම",
-        "exampleReading": "ඉක්ස්පීරියන්ස්"
+        "example": "Last week, I visited a friend.",
+        "translation": "පසුගිය සතියේ මම මිතුරෙකු හමුවීමට ගියා.",
+        "exampleReading": "ලාස්ට් වීක් අයි විසිටඩ් අ ෆ්‍රෙන්ඩ්."
       },
       {
         "word": "event",
         "reading": "ඉවෙන්ට්",
         "meaning": "සිදුවීම",
-        "example": "event",
-        "translation": "සිදුවීම",
-        "exampleReading": "ඉවෙන්ට්"
+        "example": "Suddenly, it started to rain.",
+        "translation": "හදිසියේ වැස්ස පටන් ගත්තා.",
+        "exampleReading": "සඩන්ලි ඉට් ස්ටාර්ටඩ් ටු රේන්."
       },
       {
         "word": "last week",
         "reading": "ලාස්ට් වීක්",
         "meaning": "පසුගිය සතියේ",
-        "example": "last week",
-        "translation": "පසුගිය සතියේ",
-        "exampleReading": "ලාස්ට් වීක්"
+        "example": "Last week, I visited a friend.",
+        "translation": "පසුගිය සතියේ මම මිතුරෙකු හමුවීමට ගියා.",
+        "exampleReading": "ලාස්ට් වීක් අයි විසිටඩ් අ ෆ්‍රෙන්ඩ්."
       },
       {
         "word": "suddenly",
         "reading": "සඩන්ලි",
         "meaning": "හදිසියේ",
-        "example": "suddenly",
-        "translation": "හදිසියේ",
-        "exampleReading": "සඩන්ලි"
+        "example": "Suddenly, it started to rain.",
+        "translation": "හදිසියේ වැස්ස පටන් ගත්තා.",
+        "exampleReading": "සඩන්ලි ඉට් ස්ටාර්ටඩ් ටු රේන්."
       },
       {
         "word": "decide",
         "reading": "ඩිසයිඩ්",
         "meaning": "තීරණය කරන්න",
-        "example": "decide",
-        "translation": "තීරණය කරන්න",
-        "exampleReading": "ඩිසයිඩ්"
+        "example": "Suddenly, it started to rain.",
+        "translation": "හදිසියේ වැස්ස පටන් ගත්තා.",
+        "exampleReading": "සඩන්ලි ඉට් ස්ටාර්ටඩ් ටු රේන්."
       },
       {
         "word": "visit",
         "reading": "විසිට්",
         "meaning": "සංචාරය කරන්න",
-        "example": "visit",
-        "translation": "සංචාරය කරන්න",
-        "exampleReading": "විසිට්"
+        "example": "Last week, I visited a friend.",
+        "translation": "පසුගිය සතියේ මම මිතුරෙකු හමුවීමට ගියා.",
+        "exampleReading": "ලාස්ට් වීක් අයි විසිටඩ් අ ෆ්‍රෙන්ඩ්."
       },
       {
         "word": "forget",
         "reading": "ෆර්ගෙට්",
         "meaning": "අමතක කරන්න",
-        "example": "forget",
-        "translation": "අමතක කරන්න",
-        "exampleReading": "ෆර්ගෙට්"
+        "example": "Last week, I visited a friend.",
+        "translation": "පසුගිය සතියේ මම මිතුරෙකු හමුවීමට ගියා.",
+        "exampleReading": "ලාස්ට් වීක් අයි විසිටඩ් අ ෆ්‍රෙන්ඩ්."
       },
       {
         "word": "remember",
         "reading": "රිමෙම්බර්",
         "meaning": "මතක තබාගන්න",
-        "example": "remember",
-        "translation": "මතක තබාගන්න",
-        "exampleReading": "රිමෙම්බර්"
+        "example": "Suddenly, it started to rain.",
+        "translation": "හදිසියේ වැස්ස පටන් ගත්තා.",
+        "exampleReading": "සඩන්ලි ඉට් ස්ටාර්ටඩ් ටු රේන්."
       }
     ],
     "grammarTitle": "Grammar",
@@ -6930,65 +6930,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "invite",
         "reading": "ඉන්වයිට්",
         "meaning": "ආරාධනා කරන්න",
-        "example": "invite",
-        "translation": "ආරාධනා කරන්න",
-        "exampleReading": "ඉන්වයිට්"
+        "example": "Would you like to go to the cinema?",
+        "translation": "ඔයා සිනමාහලට යන්න කැමතිද?",
+        "exampleReading": "වුඩ් යූ ලයික් ටු ගෝ ටු ද සිනමා?"
       },
       {
         "word": "available",
         "reading": "අවේලබල්",
         "meaning": "වෙලාව තිබෙන",
-        "example": "available",
-        "translation": "වෙලාව තිබෙන",
-        "exampleReading": "අවේලබල්"
+        "example": "I’m available on Saturday.",
+        "translation": "මට සෙනසුරාදා වෙලාව තිබෙනවා.",
+        "exampleReading": "අයිම් අවේලබල් ඔන් සැටර්ඩේ."
       },
       {
         "word": "arrangement",
         "reading": "අරේන්ජ්මන්ට්",
         "meaning": "සැලසුම් කළ එකඟතාව",
-        "example": "arrangement",
-        "translation": "සැලසුම් කළ එකඟතාව",
-        "exampleReading": "අරේන්ජ්මන්ට්"
+        "example": "We can meet at six.",
+        "translation": "අපි හයට හමුවෙමු.",
+        "exampleReading": "වී කැන් මීට් ඇට් සික්ස්."
       },
       {
         "word": "suggest",
         "reading": "සජෙස්ට්",
         "meaning": "යෝජනා කරන්න",
-        "example": "suggest",
-        "translation": "යෝජනා කරන්න",
-        "exampleReading": "සජෙස්ට්"
+        "example": "That works for me.",
+        "translation": "ඒ වේලාව මට ගැළපෙනවා.",
+        "exampleReading": "දැට් වර්ක්ස් ෆෝර් මී."
       },
       {
         "word": "suit",
         "reading": "සූට්",
         "meaning": "ගැළපෙන්න",
-        "example": "suit",
-        "translation": "ගැළපෙන්න",
-        "exampleReading": "සූට්"
+        "example": "Would you like to go to the cinema?",
+        "translation": "ඔයා සිනමාහලට යන්න කැමතිද?",
+        "exampleReading": "වුඩ් යූ ලයික් ටු ගෝ ටු ද සිනමා?"
       },
       {
         "word": "Saturday",
         "reading": "සැටර්ඩේ",
         "meaning": "සෙනසුරාදා",
-        "example": "Saturday",
-        "translation": "සෙනසුරාදා",
-        "exampleReading": "සැටර්ඩේ"
+        "example": "I’m available on Saturday.",
+        "translation": "මට සෙනසුරාදා වෙලාව තිබෙනවා.",
+        "exampleReading": "අයිම් අවේලබල් ඔන් සැටර්ඩේ."
       },
       {
         "word": "later",
         "reading": "ලේටර්",
         "meaning": "පසුව",
-        "example": "later",
-        "translation": "පසුව",
-        "exampleReading": "ලේටර්"
+        "example": "We can meet at six.",
+        "translation": "අපි හයට හමුවෙමු.",
+        "exampleReading": "වී කැන් මීට් ඇට් සික්ස්."
       },
       {
         "word": "cancel",
         "reading": "කැන්සල්",
         "meaning": "අවලංගු කරන්න",
-        "example": "cancel",
-        "translation": "අවලංගු කරන්න",
-        "exampleReading": "කැන්සල්"
+        "example": "That works for me.",
+        "translation": "ඒ වේලාව මට ගැළපෙනවා.",
+        "exampleReading": "දැට් වර්ක්ස් ෆෝර් මී."
       }
     ],
     "grammarTitle": "Grammar",
@@ -7108,65 +7108,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "experience",
         "reading": "ඉක්ස්පීරියන්ස්",
         "meaning": "අත්දැකීම",
-        "example": "experience",
-        "translation": "අත්දැකීම",
-        "exampleReading": "ඉක්ස්පීරියන්ස්"
+        "example": "I have three years of experience in sales.",
+        "translation": "විකිණීම් ක්ෂේත්‍රයේ මට අවුරුදු තුනක අත්දැකීම් තිබෙනවා.",
+        "exampleReading": "අයි හැව් ත්‍රී යියර්ස් ඔෆ් එක්ස්පීරියන්ස් ඉන් සේල්ස්."
       },
       {
         "word": "employed",
         "reading": "එම්ප්ලොයිඩ්",
         "meaning": "රැකියාවක නිරත",
-        "example": "employed",
-        "translation": "රැකියාවක නිරත",
-        "exampleReading": "එම්ප්ලොයිඩ්"
+        "example": "I worked in sales.",
+        "translation": "මම විකිණීම් අංශයේ වැඩ කළා.",
+        "exampleReading": "අයි වර්ක්ට් ඉන් සේල්ස්."
       },
       {
         "word": "skill",
         "reading": "ස්කිල්",
         "meaning": "කුසලතාව",
-        "example": "skill",
-        "translation": "කුසලතාව",
-        "exampleReading": "ස්කිල්"
+        "example": "I was responsible for customers.",
+        "translation": "මම පාරිභෝගිකයන් පිළිබඳ වගකිවයුතු වුණා.",
+        "exampleReading": "අයි වස් රිස්පොන්සිබල් ෆෝර් කස්ටමර්ස්."
       },
       {
         "word": "responsibility",
         "reading": "රිස්පොන්සිබිලිටි",
         "meaning": "වගකීම",
-        "example": "responsibility",
-        "translation": "වගකීම",
-        "exampleReading": "රිස්පොන්සිබිලිටි"
+        "example": "I can work shifts.",
+        "translation": "මට වැඩ මුරවල වැඩ කරන්න පුළුවන්.",
+        "exampleReading": "අයි කැන් වර්ක් ෂිෆ්ට්ස්."
       },
       {
         "word": "apply",
         "reading": "අප්ලයි",
         "meaning": "අයදුම් කරන්න",
-        "example": "apply",
-        "translation": "අයදුම් කරන්න",
-        "exampleReading": "අප්ලයි"
+        "example": "I have three years of experience in sales.",
+        "translation": "විකිණීම් ක්ෂේත්‍රයේ මට අවුරුදු තුනක අත්දැකීම් තිබෙනවා.",
+        "exampleReading": "අයි හැව් ත්‍රී යියර්ස් ඔෆ් එක්ස්පීරියන්ස් ඉන් සේල්ස්."
       },
       {
         "word": "interview",
         "reading": "ඉන්ටර්වියූ",
         "meaning": "සම්මුඛ සාකච්ඡාව",
-        "example": "interview",
-        "translation": "සම්මුඛ සාකච්ඡාව",
-        "exampleReading": "ඉන්ටර්වියූ"
+        "example": "I worked in sales.",
+        "translation": "මම විකිණීම් අංශයේ වැඩ කළා.",
+        "exampleReading": "අයි වර්ක්ට් ඉන් සේල්ස්."
       },
       {
         "word": "shifts",
         "reading": "ෂිෆ්ට්ස්",
         "meaning": "වැඩ මුර",
-        "example": "shifts",
-        "translation": "වැඩ මුර",
-        "exampleReading": "ෂිෆ්ට්ස්"
+        "example": "I can work shifts.",
+        "translation": "මට වැඩ මුරවල වැඩ කරන්න පුළුවන්.",
+        "exampleReading": "අයි කැන් වර්ක් ෂිෆ්ට්ස්."
       },
       {
         "word": "reference",
         "reading": "රෙෆරන්ස්",
         "meaning": "නිර්දේශය",
-        "example": "reference",
-        "translation": "නිර්දේශය",
-        "exampleReading": "රෙෆරන්ස්"
+        "example": "I can work shifts.",
+        "translation": "මට වැඩ මුරවල වැඩ කරන්න පුළුවන්.",
+        "exampleReading": "අයි කැන් වර්ක් ෂිෆ්ට්ස්."
       }
     ],
     "grammarTitle": "Grammar",
@@ -7286,65 +7286,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "break down",
         "reading": "බ්‍රේක් ඩවුන්",
         "meaning": "ක්‍රියා විරහිත වන්න",
-        "example": "break down",
-        "translation": "ක්‍රියා විරහිත වන්න",
-        "exampleReading": "බ්‍රේක් ඩවුන්"
+        "example": "The tap isn’t working.",
+        "translation": "කරාමය වැඩ කරන්නේ නැහැ.",
+        "exampleReading": "ද ටැප් ඉස්න්ට් වර්කිං."
       },
       {
         "word": "repair",
         "reading": "රිපෙයාර්",
         "meaning": "අලුත්වැඩියාව",
-        "example": "repair",
-        "translation": "අලුත්වැඩියාව",
-        "exampleReading": "රිපෙයාර්"
+        "example": "Could you send a repair person?",
+        "translation": "ඔබට අලුත්වැඩියා කාර්මිකයෙකු එවන්න පුළුවන්ද?",
+        "exampleReading": "කුඩ් යූ සෙන්ඩ් අ රිපෙයාර් පර්සන්?"
       },
       {
         "word": "tap",
         "reading": "ටැප්",
         "meaning": "කරාමය",
-        "example": "tap",
-        "translation": "කරාමය",
-        "exampleReading": "ටැප්"
+        "example": "The tap isn’t working.",
+        "translation": "කරාමය වැඩ කරන්නේ නැහැ.",
+        "exampleReading": "ද ටැප් ඉස්න්ට් වර්කිං."
       },
       {
         "word": "electricity",
         "reading": "ඉලෙක්ට්‍රිසිටි",
         "meaning": "විදුලිය",
-        "example": "electricity",
-        "translation": "විදුලිය",
-        "exampleReading": "ඉලෙක්ට්‍රිසිටි"
+        "example": "Could you send a repair person?",
+        "translation": "ඔබට අලුත්වැඩියා කාර්මිකයෙකු එවන්න පුළුවන්ද?",
+        "exampleReading": "කුඩ් යූ සෙන්ඩ් අ රිපෙයාර් පර්සන්?"
       },
       {
         "word": "leak",
         "reading": "ලීක්",
         "meaning": "කාන්දු වන්න",
-        "example": "leak",
-        "translation": "කාන්දු වන්න",
-        "exampleReading": "ලීක්"
+        "example": "Water is leaking under the sink.",
+        "translation": "සින්ක් එක යටින් වතුර කාන්දු වෙනවා.",
+        "exampleReading": "වෝටර් ඉස් ලීකිං අන්ඩර් ද සිංක්."
       },
       {
         "word": "repairer",
         "reading": "රිපෙයාර්ර්",
         "meaning": "අලුත්වැඩියා කාර්මිකයා",
-        "example": "repairer",
-        "translation": "අලුත්වැඩියා කාර්මිකයා",
-        "exampleReading": "රිපෙයාර්ර්"
+        "example": "Water is leaking under the sink.",
+        "translation": "සින්ක් එක යටින් වතුර කාන්දු වෙනවා.",
+        "exampleReading": "වෝටර් ඉස් ලීකිං අන්ඩර් ද සිංක්."
       },
       {
         "word": "urgent",
         "reading": "අර්ජන්ට්",
         "meaning": "හදිසි",
-        "example": "urgent",
-        "translation": "හදිසි",
-        "exampleReading": "අර්ජන්ට්"
+        "example": "The problem is urgent.",
+        "translation": "ගැටලුව හදිසි එකක්.",
+        "exampleReading": "ද ප්‍රොබ්ලම් ඉස් අර්ජන්ට්."
       },
       {
         "word": "bill",
         "reading": "බිල්",
         "meaning": "බිල්පත",
-        "example": "bill",
-        "translation": "බිල්පත",
-        "exampleReading": "බිල්"
+        "example": "Could you send a repair person?",
+        "translation": "ඔබට අලුත්වැඩියා කාර්මිකයෙකු එවන්න පුළුවන්ද?",
+        "exampleReading": "කුඩ් යූ සෙන්ඩ් අ රිපෙයාර් පර්සන්?"
       }
     ],
     "grammarTitle": "Grammar",
@@ -7464,65 +7464,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "opinion",
         "reading": "ඔපිනියන්",
         "meaning": "අදහස",
-        "example": "opinion",
-        "translation": "අදහස",
-        "exampleReading": "ඔපිනියන්"
+        "example": "I think the bus is cheaper.",
+        "translation": "මම හිතන්නේ බස් එක වඩා ලාභයි.",
+        "exampleReading": "අයි තිංක් ද බස් ඉස් චීපර්."
       },
       {
         "word": "agree",
         "reading": "අග්‍රී",
         "meaning": "එකඟ වන්න",
-        "example": "agree",
-        "translation": "එකඟ වන්න",
-        "exampleReading": "අග්‍රී"
+        "example": "I agree with you.",
+        "translation": "මම ඔයා සමඟ එකඟයි.",
+        "exampleReading": "අයි අග්‍රී විත් යූ."
       },
       {
         "word": "disagree",
         "reading": "ඩිස්අග්‍රී",
         "meaning": "එකඟ නොවන්න",
-        "example": "disagree",
-        "translation": "එකඟ නොවන්න",
-        "exampleReading": "ඩිස්අග්‍රී"
+        "example": "The train is faster than the bus.",
+        "translation": "දුම්රිය බස් එකට වඩා වේගවත්.",
+        "exampleReading": "ද ට්‍රේන් ඉස් ෆාස්ටර් දැන් ද බස්."
       },
       {
         "word": "better",
         "reading": "බෙටර්",
         "meaning": "වඩා හොඳ",
-        "example": "better",
-        "translation": "වඩා හොඳ",
-        "exampleReading": "බෙටර්"
+        "example": "But the bus is cheaper.",
+        "translation": "නමුත් බස් එක වඩා ලාභයි.",
+        "exampleReading": "බට් ද බස් ඉස් චීපර්."
       },
       {
         "word": "cheaper",
         "reading": "චීපර්",
         "meaning": "වඩා ලාභ",
-        "example": "cheaper",
-        "translation": "වඩා ලාභ",
-        "exampleReading": "චීපර්"
+        "example": "I think the bus is cheaper.",
+        "translation": "මම හිතන්නේ බස් එක වඩා ලාභයි.",
+        "exampleReading": "අයි තිංක් ද බස් ඉස් චීපර්."
       },
       {
         "word": "more expensive",
         "reading": "මෝර් එක්ස්පෙන්සිව්",
         "meaning": "වඩා මිල අධික",
-        "example": "more expensive",
-        "translation": "වඩා මිල අධික",
-        "exampleReading": "මෝර් එක්ස්පෙන්සිව්"
+        "example": "I agree with you.",
+        "translation": "මම ඔයා සමඟ එකඟයි.",
+        "exampleReading": "අයි අග්‍රී විත් යූ."
       },
       {
         "word": "advantage",
         "reading": "ඇඩ්වාන්ටේජ්",
         "meaning": "වාසිය",
-        "example": "advantage",
-        "translation": "වාසිය",
-        "exampleReading": "ඇඩ්වාන්ටේජ්"
+        "example": "The train is faster than the bus.",
+        "translation": "දුම්රිය බස් එකට වඩා වේගවත්.",
+        "exampleReading": "ද ට්‍රේන් ඉස් ෆාස්ටර් දැන් ද බස්."
       },
       {
         "word": "disadvantage",
         "reading": "ඩිස්ඇඩ්වාන්ටේජ්",
         "meaning": "අවාසිය",
-        "example": "disadvantage",
-        "translation": "අවාසිය",
-        "exampleReading": "ඩිස්ඇඩ්වාන්ටේජ්"
+        "example": "But the bus is cheaper.",
+        "translation": "නමුත් බස් එක වඩා ලාභයි.",
+        "exampleReading": "බට් ද බස් ඉස් චීපර්."
       }
     ],
     "grammarTitle": "Grammar",
@@ -7642,65 +7642,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "allowed",
         "reading": "අලවුඩ්",
         "meaning": "අවසර තිබෙන",
-        "example": "allowed",
-        "translation": "අවසර තිබෙන",
-        "exampleReading": "අලවුඩ්"
+        "example": "Smoking is not allowed here.",
+        "translation": "මෙහි දුම්පානයට අවසර නැහැ.",
+        "exampleReading": "ස්මෝකිං ඉස් නොට් අලවුඩ් හියර්."
       },
       {
         "word": "forbidden",
         "reading": "ෆෝබිඩන්",
         "meaning": "තහනම්",
-        "example": "forbidden",
-        "translation": "තහනම්",
-        "exampleReading": "ෆෝබිඩන්"
+        "example": "May I come in?",
+        "translation": "මට ඇතුළට එන්න අවසරද?",
+        "exampleReading": "මේ අයි කම් ඉන්?"
       },
       {
         "word": "must",
         "reading": "මස්ට්",
         "meaning": "අනිවාර්යයෙන් කළ යුතු",
-        "example": "must",
-        "translation": "අනිවාර්යයෙන් කළ යුතු",
-        "exampleReading": "මස්ට්"
+        "example": "You must wear a uniform.",
+        "translation": "ඔබ නිල ඇඳුම ඇඳිය යුතුයි.",
+        "exampleReading": "යූ මස්ට් වෙයර් අ යුනිෆෝම්."
       },
       {
         "word": "may",
         "reading": "මේ",
         "meaning": "අවසර තිබිය",
-        "example": "may",
-        "translation": "අවසර තිබිය",
-        "exampleReading": "මේ"
+        "example": "May I come in?",
+        "translation": "මට ඇතුළට එන්න අවසරද?",
+        "exampleReading": "මේ අයි කම් ඉන්?"
       },
       {
         "word": "rule",
         "reading": "රූල්",
         "meaning": "නීතිය / රීතිය",
-        "example": "rule",
-        "translation": "නීතිය / රීතිය",
-        "exampleReading": "රූල්"
+        "example": "You must follow the rules.",
+        "translation": "ඔබ නීති අනුගමනය කළ යුතුයි.",
+        "exampleReading": "යූ මස්ට් ෆොලෝ ද රූල්ස්."
       },
       {
         "word": "mandatory",
         "reading": "මැන්ඩටරි",
         "meaning": "අනිවාර්ය",
-        "example": "mandatory",
-        "translation": "අනිවාර්ය",
-        "exampleReading": "මැන්ඩටරි"
+        "example": "May I come in?",
+        "translation": "මට ඇතුළට එන්න අවසරද?",
+        "exampleReading": "මේ අයි කම් ඉන්?"
       },
       {
         "word": "permission",
         "reading": "පර්මිෂන්",
         "meaning": "අවසරය",
-        "example": "permission",
-        "translation": "අවසරය",
-        "exampleReading": "පර්මිෂන්"
+        "example": "Smoking is not allowed here.",
+        "translation": "මෙහි දුම්පානයට අවසර නැහැ.",
+        "exampleReading": "ස්මෝකිං ඉස් නොට් අලවුඩ් හියර්."
       },
       {
         "word": "follow",
         "reading": "ෆොලෝ",
         "meaning": "අනුගමනය කරන්න",
-        "example": "follow",
-        "translation": "අනුගමනය කරන්න",
-        "exampleReading": "ෆොලෝ"
+        "example": "You must follow the rules.",
+        "translation": "ඔබ නීති අනුගමනය කළ යුතුයි.",
+        "exampleReading": "යූ මස්ට් ෆොලෝ ද රූල්ස්."
       }
     ],
     "grammarTitle": "Grammar",
@@ -7820,65 +7820,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "delay",
         "reading": "ඩිලේ",
         "meaning": "ප්‍රමාදය",
-        "example": "delay",
-        "translation": "ප්‍රමාදය",
-        "exampleReading": "ඩිලේ"
+        "example": "Is the train delayed?",
+        "translation": "දුම්රිය ප්‍රමාදද?",
+        "exampleReading": "ඉස් ද ට්‍රේන් ඩිලේඩ්?"
       },
       {
         "word": "departure",
         "reading": "ඩිපාර්චර්",
         "meaning": "පිටත්වීම",
-        "example": "departure",
-        "translation": "පිටත්වීම",
-        "exampleReading": "ඩිපාර්චර්"
+        "example": "The train is twenty minutes late.",
+        "translation": "දුම්රිය විනාඩි විස්සක් ප්‍රමාදයි.",
+        "exampleReading": "ද ට්‍රේන් ඉස් ට්වෙන්ටි මිනිට්ස් ලේට්."
       },
       {
         "word": "arrival",
         "reading": "අරයිවල්",
         "meaning": "පැමිණීම",
-        "example": "arrival",
-        "translation": "පැමිණීම",
-        "exampleReading": "අරයිවල්"
+        "example": "Which platform is the next train on?",
+        "translation": "ඊළඟ දුම්රිය කුමන වේදිකාවේද?",
+        "exampleReading": "විච් ප්ලැට්ෆෝම් ඉස් ද නෙක්ස්ට් ට්‍රේන් ඔන්?"
       },
       {
         "word": "transfer",
         "reading": "ට්‍රාන්ස්ෆර්",
         "meaning": "වාහන මාරුව",
-        "example": "transfer",
-        "translation": "වාහන මාරුව",
-        "exampleReading": "ට්‍රාන්ස්ෆර්"
+        "example": "We can go by bus.",
+        "translation": "අපිට බස් එකෙන් යන්න පුළුවන්.",
+        "exampleReading": "වී කැන් ගෝ බයි බස්."
       },
       {
         "word": "cancel",
         "reading": "කැන්සල්",
         "meaning": "අවලංගු කරන්න",
-        "example": "cancel",
-        "translation": "අවලංගු කරන්න",
-        "exampleReading": "කැන්සල්"
+        "example": "Is the train delayed?",
+        "translation": "දුම්රිය ප්‍රමාදද?",
+        "exampleReading": "ඉස් ද ට්‍රේන් ඩිලේඩ්?"
       },
       {
         "word": "platform",
         "reading": "ප්ලැට්ෆෝම්",
         "meaning": "වේදිකාව",
-        "example": "platform",
-        "translation": "වේදිකාව",
-        "exampleReading": "ප්ලැට්ෆෝම්"
+        "example": "Which platform is the next train on?",
+        "translation": "ඊළඟ දුම්රිය කුමන වේදිකාවේද?",
+        "exampleReading": "විච් ප්ලැට්ෆෝම් ඉස් ද නෙක්ස්ට් ට්‍රේන් ඔන්?"
       },
       {
         "word": "next",
         "reading": "නෙක්ස්ට්",
         "meaning": "ඊළඟ",
-        "example": "next",
-        "translation": "ඊළඟ",
-        "exampleReading": "නෙක්ස්ට්"
+        "example": "Which platform is the next train on?",
+        "translation": "ඊළඟ දුම්රිය කුමන වේදිකාවේද?",
+        "exampleReading": "විච් ප්ලැට්ෆෝම් ඉස් ද නෙක්ස්ට් ට්‍රේන් ඔන්?"
       },
       {
         "word": "alternative",
         "reading": "ඕල්ටර්නටිව්",
         "meaning": "විකල්පය",
-        "example": "alternative",
-        "translation": "විකල්පය",
-        "exampleReading": "ඕල්ටර්නටිව්"
+        "example": "We can go by bus.",
+        "translation": "අපිට බස් එකෙන් යන්න පුළුවන්.",
+        "exampleReading": "වී කැන් ගෝ බයි බස්."
       }
     ],
     "grammarTitle": "Grammar",
@@ -7998,65 +7998,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "account",
         "reading": "අකවුන්ට්",
         "meaning": "ගිණුම",
-        "example": "account",
-        "translation": "ගිණුම",
-        "exampleReading": "අකවුන්ට්"
+        "example": "I’m having a problem with my card.",
+        "translation": "මට මගේ කාඩ්පත සම්බන්ධ ගැටලුවක් තිබෙනවා.",
+        "exampleReading": "අයිම් හැවිං අ ප්‍රොබ්ලම් විත් මයි කාඩ්."
       },
       {
         "word": "card",
         "reading": "කාඩ්",
         "meaning": "කාඩ්පත",
-        "example": "card",
-        "translation": "කාඩ්පත",
-        "exampleReading": "කාඩ්"
+        "example": "I’m having a problem with my card.",
+        "translation": "මට මගේ කාඩ්පත සම්බන්ධ ගැටලුවක් තිබෙනවා.",
+        "exampleReading": "අයිම් හැවිං අ ප්‍රොබ්ලම් විත් මයි කාඩ්."
       },
       {
         "word": "deposit",
         "reading": "ඩිපොසිට්",
         "meaning": "තැන්පතුව",
-        "example": "deposit",
-        "translation": "තැන්පතුව",
-        "exampleReading": "ඩිපොසිට්"
+        "example": "Could you check the balance?",
+        "translation": "ඔබට ශේෂය පරීක්ෂා කළ හැකිද?",
+        "exampleReading": "කුඩ් යූ චෙක් ද බැලන්ස්?"
       },
       {
         "word": "withdrawal",
         "reading": "විත්ඩ්‍රෝවල්",
         "meaning": "මුදල් ලබාගැනීම",
-        "example": "withdrawal",
-        "translation": "මුදල් ලබාගැනීම",
-        "exampleReading": "විත්ඩ්‍රෝවල්"
+        "example": "How much is the fee?",
+        "translation": "සේවා ගාස්තුව කොපමණද?",
+        "exampleReading": "හවු මච් ඉස් ද ෆී?"
       },
       {
         "word": "fee",
         "reading": "ෆී",
         "meaning": "සේවා ගාස්තුව",
-        "example": "fee",
-        "translation": "සේවා ගාස්තුව",
-        "exampleReading": "ෆී"
+        "example": "How much is the fee?",
+        "translation": "සේවා ගාස්තුව කොපමණද?",
+        "exampleReading": "හවු මච් ඉස් ද ෆී?"
       },
       {
         "word": "balance",
         "reading": "බැලන්ස්",
         "meaning": "ශේෂය",
-        "example": "balance",
-        "translation": "ශේෂය",
-        "exampleReading": "බැලන්ස්"
+        "example": "Could you check the balance?",
+        "translation": "ඔබට ශේෂය පරීක්ෂා කළ හැකිද?",
+        "exampleReading": "කුඩ් යූ චෙක් ද බැලන්ස්?"
       },
       {
         "word": "blocked",
         "reading": "බ්ලොක්ට්",
         "meaning": "අවහිර කළ",
-        "example": "blocked",
-        "translation": "අවහිර කළ",
-        "exampleReading": "බ්ලොක්ට්"
+        "example": "Could you check the balance?",
+        "translation": "ඔබට ශේෂය පරීක්ෂා කළ හැකිද?",
+        "exampleReading": "කුඩ් යූ චෙක් ද බැලන්ස්?"
       },
       {
         "word": "statement",
         "reading": "ස්ටේට්මන්ට්",
         "meaning": "ගිණුම් ප්‍රකාශය",
-        "example": "statement",
-        "translation": "ගිණුම් ප්‍රකාශය",
-        "exampleReading": "ස්ටේට්මන්ට්"
+        "example": "How much is the fee?",
+        "translation": "සේවා ගාස්තුව කොපමණද?",
+        "exampleReading": "හවු මච් ඉස් ද ෆී?"
       }
     ],
     "grammarTitle": "Grammar",
@@ -8176,65 +8176,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "apartment",
         "reading": "අපාර්ට්මන්ට්",
         "meaning": "මහල් නිවස",
-        "example": "apartment",
-        "translation": "මහල් නිවස",
-        "exampleReading": "අපාර්ට්මන්ට්"
+        "example": "The apartment is furnished.",
+        "translation": "නිවසේ ගෘහ භාණ්ඩ තිබෙනවා.",
+        "exampleReading": "දි අපාර්ට්මන්ට් ඉස් ෆර්නිෂ්ට්."
       },
       {
         "word": "rent",
         "reading": "රෙන්ට්",
         "meaning": "කුලිය",
-        "example": "rent",
-        "translation": "කුලිය",
-        "exampleReading": "රෙන්ට්"
+        "example": "How much is the rent per month?",
+        "translation": "මාසික කුලිය කොපමණද?",
+        "exampleReading": "හවු මච් ඉස් ද රෙන්ට් පර් මන්ත්?"
       },
       {
         "word": "deposit",
         "reading": "ඩිපොසිට්",
         "meaning": "ඇප මුදල",
-        "example": "deposit",
-        "translation": "ඇප මුදල",
-        "exampleReading": "ඩිපොසිට්"
+        "example": "The apartment is furnished.",
+        "translation": "නිවසේ ගෘහ භාණ්ඩ තිබෙනවා.",
+        "exampleReading": "දි අපාර්ට්මන්ට් ඉස් ෆර්නිෂ්ට්."
       },
       {
         "word": "furnished",
         "reading": "ෆර්නිෂ්ට්",
         "meaning": "ගෘහ භාණ්ඩ සහිත",
-        "example": "furnished",
-        "translation": "ගෘහ භාණ්ඩ සහිත",
-        "exampleReading": "ෆර්නිෂ්ට්"
+        "example": "The apartment is furnished.",
+        "translation": "නිවසේ ගෘහ භාණ්ඩ තිබෙනවා.",
+        "exampleReading": "දි අපාර්ට්මන්ට් ඉස් ෆර්නිෂ්ට්."
       },
       {
         "word": "floor",
         "reading": "ෆ්ලෝර්",
         "meaning": "මහල",
-        "example": "floor",
-        "translation": "මහල",
-        "exampleReading": "ෆ්ලෝර්"
+        "example": "How much is the rent per month?",
+        "translation": "මාසික කුලිය කොපමණද?",
+        "exampleReading": "හවු මච් ඉස් ද රෙන්ට් පර් මන්ත්?"
       },
       {
         "word": "heating",
         "reading": "හීටිං",
         "meaning": "උණුසුම් කිරීම",
-        "example": "heating",
-        "translation": "උණුසුම් කිරීම",
-        "exampleReading": "හීටිං"
+        "example": "Are the bills included?",
+        "translation": "බිල්පත් කුලියට ඇතුළත්ද?",
+        "exampleReading": "ආර් ද බිල්ස් ඉන්ක්ලූඩඩ්?"
       },
       {
         "word": "bills",
         "reading": "බිල්ස්",
         "meaning": "බිල්පත්",
-        "example": "bills",
-        "translation": "බිල්පත්",
-        "exampleReading": "බිල්ස්"
+        "example": "Are the bills included?",
+        "translation": "බිල්පත් කුලියට ඇතුළත්ද?",
+        "exampleReading": "ආර් ද බිල්ස් ඉන්ක්ලූඩඩ්?"
       },
       {
         "word": "view",
         "reading": "වියූ",
         "meaning": "නැරඹීම",
-        "example": "view",
-        "translation": "නැරඹීම",
-        "exampleReading": "වියූ"
+        "example": "Could I view the apartment tomorrow?",
+        "translation": "මට හෙට නිවස බලන්න පුළුවන්ද?",
+        "exampleReading": "කුඩ් අයි වියූ දි අපාර්ට්මන්ට් ටුමොරෝ?"
       }
     ],
     "grammarTitle": "Grammar",
@@ -8354,65 +8354,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "environment",
         "reading": "එන්වයරන්මන්ට්",
         "meaning": "පරිසරය",
-        "example": "environment",
-        "translation": "පරිසරය",
-        "exampleReading": "එන්වයරන්මන්ට්"
+        "example": "Less waste means a cleaner environment.",
+        "translation": "අපද්‍රව්‍ය අඩු වීමෙන් පරිසරය පිරිසිදු වෙනවා.",
+        "exampleReading": "ලෙස්ට් වේස්ට් මීන්ස් අ ක්ලීනර් එන්වයරන්මන්ට්."
       },
       {
         "word": "waste",
         "reading": "වේස්ට්",
         "meaning": "අපද්‍රව්‍ය",
-        "example": "waste",
-        "translation": "අපද්‍රව්‍ය",
-        "exampleReading": "වේස්ට්"
+        "example": "Less waste means a cleaner environment.",
+        "translation": "අපද්‍රව්‍ය අඩු වීමෙන් පරිසරය පිරිසිදු වෙනවා.",
+        "exampleReading": "ලෙස්ට් වේස්ට් මීන්ස් අ ක්ලීනර් එන්වයරන්මන්ට්."
       },
       {
         "word": "recycle",
         "reading": "රීසයිකල්",
         "meaning": "ප්‍රතිචක්‍රීකරණය කරන්න",
-        "example": "recycle",
-        "translation": "ප්‍රතිචක්‍රීකරණය කරන්න",
-        "exampleReading": "රීසයිකල්"
+        "example": "We should recycle paper and plastic.",
+        "translation": "අපි කඩදාසි සහ ප්ලාස්ටික් ප්‍රතිචක්‍රීකරණය කළ යුතුයි.",
+        "exampleReading": "වී ෂුඩ් රීසයිකල් පේපර් ඇන්ඩ් ප්ලාස්ටික්."
       },
       {
         "word": "plastic",
         "reading": "ප්ලාස්ටික්",
         "meaning": "ප්ලාස්ටික්",
-        "example": "plastic",
-        "translation": "ප්ලාස්ටික්",
-        "exampleReading": "ප්ලාස්ටික්"
+        "example": "We should recycle paper and plastic.",
+        "translation": "අපි කඩදාසි සහ ප්ලාස්ටික් ප්‍රතිචක්‍රීකරණය කළ යුතුයි.",
+        "exampleReading": "වී ෂුඩ් රීසයිකල් පේපර් ඇන්ඩ් ප්ලාස්ටික්."
       },
       {
         "word": "paper",
         "reading": "පේපර්",
         "meaning": "කඩදාසි",
-        "example": "paper",
-        "translation": "කඩදාසි",
-        "exampleReading": "පේපර්"
+        "example": "We should recycle paper and plastic.",
+        "translation": "අපි කඩදාසි සහ ප්ලාස්ටික් ප්‍රතිචක්‍රීකරණය කළ යුතුයි.",
+        "exampleReading": "වී ෂුඩ් රීසයිකල් පේපර් ඇන්ඩ් ප්ලාස්ටික්."
       },
       {
         "word": "glass",
         "reading": "ග්ලාස්",
         "meaning": "වීදුරු",
-        "example": "glass",
-        "translation": "වීදුරු",
-        "exampleReading": "ග්ලාස්"
+        "example": "We put glass in a separate bin.",
+        "translation": "වීදුරු වෙනම බඳුනකට දමනවා.",
+        "exampleReading": "වී පුට් ග්ලාස් ඉන් අ සෙපරට් බින්."
       },
       {
         "word": "save",
         "reading": "සේව්",
         "meaning": "ඉතිරි කරන්න",
-        "example": "save",
-        "translation": "ඉතිරි කරන්න",
-        "exampleReading": "සේව්"
+        "example": "We should save water.",
+        "translation": "අපි ජලය ඉතිරි කළ යුතුයි.",
+        "exampleReading": "වී ෂුඩ් සේව් වෝටර්."
       },
       {
         "word": "pollution",
         "reading": "පොලූෂන්",
         "meaning": "දූෂණය",
-        "example": "pollution",
-        "translation": "දූෂණය",
-        "exampleReading": "පොලූෂන්"
+        "example": "Less waste means a cleaner environment.",
+        "translation": "අපද්‍රව්‍ය අඩු වීමෙන් පරිසරය පිරිසිදු වෙනවා.",
+        "exampleReading": "ලෙස්ට් වේස්ට් මීන්ස් අ ක්ලීනර් එන්වයරන්මන්ට්."
       }
     ],
     "grammarTitle": "Grammar",
@@ -8532,65 +8532,65 @@ export const ENGLISH_A2_LESSONS = [
         "word": "celebration",
         "reading": "සෙලිබ්‍රේෂන්",
         "meaning": "උත්සවය",
-        "example": "celebration",
-        "translation": "උත්සවය",
-        "exampleReading": "සෙලිබ්‍රේෂන්"
+        "example": "The whole family gets together for the holiday.",
+        "translation": "උත්සව දිනයේ මුළු පවුලම එකතු වෙනවා.",
+        "exampleReading": "ද හෝල් ෆැමිලි ගෙට්ස් ටුගෙදර් ෆෝර් ද හොලිඩේ."
       },
       {
         "word": "holiday",
         "reading": "හොලිඩේ",
         "meaning": "නිවාඩු / උත්සව දිනය",
-        "example": "holiday",
-        "translation": "නිවාඩු / උත්සව දිනය",
-        "exampleReading": "හොලිඩේ"
+        "example": "The whole family gets together for the holiday.",
+        "translation": "උත්සව දිනයේ මුළු පවුලම එකතු වෙනවා.",
+        "exampleReading": "ද හෝල් ෆැමිලි ගෙට්ස් ටුගෙදර් ෆෝර් ද හොලිඩේ."
       },
       {
         "word": "tradition",
         "reading": "ට්‍රඩිෂන්",
         "meaning": "සම්ප්‍රදාය",
-        "example": "tradition",
-        "translation": "සම්ප්‍රදාය",
-        "exampleReading": "ට්‍රඩිෂන්"
+        "example": "Guests arrive in the afternoon.",
+        "translation": "අමුත්තන් සවස පැමිණෙනවා.",
+        "exampleReading": "ගෙස්ට්ස් අරයිව් ඉන් දි ආෆ්ටර්නූන්."
       },
       {
         "word": "gift",
         "reading": "ගිෆ්ට්",
         "meaning": "තෑග්ග",
-        "example": "gift",
-        "translation": "තෑග්ග",
-        "exampleReading": "ගිෆ්ට්"
+        "example": "We bring a small gift for the host.",
+        "translation": "අපි නිවසේ හිමිකරුට කුඩා තෑග්ගක් ගෙන එනවා.",
+        "exampleReading": "වී බ්‍රිං අ ස්මෝල් ගිෆ්ට් ෆෝර් ද හෝස්ට්."
       },
       {
         "word": "guest",
         "reading": "ගෙස්ට්",
         "meaning": "අමුත්තා",
-        "example": "guest",
-        "translation": "අමුත්තා",
-        "exampleReading": "ගෙස්ට්"
+        "example": "Guests arrive in the afternoon.",
+        "translation": "අමුත්තන් සවස පැමිණෙනවා.",
+        "exampleReading": "ගෙස්ට්ස් අරයිව් ඉන් දි ආෆ්ටර්නූන්."
       },
       {
         "word": "celebrate",
         "reading": "සෙලිබ්‍රේට්",
         "meaning": "සමරන්න",
-        "example": "celebrate",
-        "translation": "සමරන්න",
-        "exampleReading": "සෙලිබ්‍රේට්"
+        "example": "We usually prepare special food.",
+        "translation": "අපි සාමාන්‍යයෙන් විශේෂ ආහාර සූදානම් කරනවා.",
+        "exampleReading": "වී යූෂුවලි ප්‍රිපෙයාර් ස්පෙෂල් ෆූඩ්."
       },
       {
         "word": "invitation",
         "reading": "ඉන්විටේෂන්",
         "meaning": "ආරාධනා පත්‍රය",
-        "example": "invitation",
-        "translation": "ආරාධනා පත්‍රය",
-        "exampleReading": "ඉන්විටේෂන්"
+        "example": "Guests arrive in the afternoon.",
+        "translation": "අමුත්තන් සවස පැමිණෙනවා.",
+        "exampleReading": "ගෙස්ට්ස් අරයිව් ඉන් දි ආෆ්ටර්නූන්."
       },
       {
         "word": "family",
         "reading": "ෆැමිලි",
         "meaning": "පවුල",
-        "example": "family",
-        "translation": "පවුල",
-        "exampleReading": "ෆැමිලි"
+        "example": "The whole family gets together for the holiday.",
+        "translation": "උත්සව දිනයේ මුළු පවුලම එකතු වෙනවා.",
+        "exampleReading": "ද හෝල් ෆැමිලි ගෙට්ස් ටුගෙදර් ෆෝර් ද හොලිඩේ."
       }
     ],
     "grammarTitle": "Grammar",
