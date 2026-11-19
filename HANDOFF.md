@@ -1022,3 +1022,18 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 1. Check CI for latest lesson 13 commit `db3bdfb819c312e07f5c8b8c50c2517e650405f9`; inspect job status and available logs.
 2. Repair paired B1 lesson 14 vocabulary examples and matching Sinhala translations/pronunciation aids, then continue paired lessons 15–20.
 3. Keep APK claims tied to a verified successful artifact and record physical-device testing separately.
+
+
+## 2026-11-19 — Paired B1 lesson 14 vocabulary repair
+- Rewrote all eight vocabulary examples in Serbian and English B1 lesson 14 (Consumer choices and service complaints): refund, receipt, damaged, replacement, quality, warranty, customer and solution.
+- Each entry now has a distinct target-language sentence, Sinhala meaning and approximate Sinhala-script pronunciation. Corrected the Serbian first-example pronunciation aid after a script check.
+- Serbian lesson commits: `0f250f8f53bf5aad7ee310c3c320b09a4733c095` and pronunciation correction `b6dcb9bdbf3a0e6fe2ecc125dccd5b997109eb4f`.
+- English lesson commit: `e1694bcb37914b2055ac81e9e7c439431085e07f`.
+- Workflow runs on the initial paired commits failed: Expo run `44573572456`, Expo run `44573565437`, APK run `44573564644`. The latest corrected Serbian commit triggered Expo run `44573595482` and APK run `44573595610`, which were queued at the last check. Job log retrieval for failed runs returned GitHub 404 BlobNotFound; no actionable build error is available. No fresh APK artifact or successful build is verified.
+- Source edits were committed to main. No local parser/Expo build, native APK install or physical-device test was available in this session.
+
+### Next exact task
+1. Check runs `44573595482` and `44573595610` on corrected lesson 14 commit; inspect logs if available and verify any uploaded APK artifact before sharing.
+2. Continue paired B1 vocabulary semantic repair for lessons 15–20 in both tracks, with distinct examples, Sinhala meanings and approximate pronunciation guides.
+3. Keep auditing target-language examples and pronunciation aids; retain the approximate-not-native-verified caveat.
+4. Do not claim CI/APK success unless a successful latest-main workflow and artifact are verified.
