@@ -913,3 +913,16 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 1. Review the new dialogue translations and approximate pronunciation aids for Serbian B1 lessons 11–30; improve any unnatural Sinhala or phonetics.
 2. Audit B1 listening prompts and vocabulary example/translation alignment across lessons 1–50.
 3. Check CI and Android APK artifact status for the latest commit; do not claim an APK is ready without a successful artifact.
+
+
+## 2026-11-19 — B1 lessons 11–30 pronunciation aid completion and content audit
+- Completed Sinhala-script approximate pronunciation fields for the rewritten Serbian and English dialogue lines in lessons 11–30; these remain approximate and should receive native-speaker review.
+- Serbian pronunciation commit: `ab7ba946df0dfbde38c709e3060bea90280abe86`.
+- English pronunciation commit: `be321e059e01bb420595675707092c7bc7284dd4`.
+- Audited all 50 lessons in both tracks for listening object presence/structure, valid listening answer indices, examples presence, and vocabulary example/translation presence. Both tracks have 50/50 lessons and no missing or structurally invalid listening items or empty example/vocabulary fields were found.
+- The latest Expo validation and APK build must be checked again after the pronunciation commits; previous build runs may be superseded by newer commits.
+
+### Next exact task
+1. Check Expo validation and Android APK build for latest SHA `be321e0` (English file) and `ab7ba94` (Serbian file); ensure one final build runs on the latest combined main SHA.
+2. Audit whether listening audio/prompt language and answer choices match each lesson's actual listening sentence, and whether vocabulary examples use the target vocabulary item correctly.
+3. Review pronunciation aids with a Serbian native speaker before presenting them as definitive.
