@@ -1073,3 +1073,22 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 1. Continue paired B1 vocabulary semantic repair for lessons 26–30 in both language tracks. Ensure examples are distinct, translations match and Sinhala-script pronunciation fields contain no mixed scripts.
 2. Run structural checks on lessons 21–30 and inspect latest CI runner assignment.
 3. Record exact commits and validation outcomes in HANDOFF.md. Keep the no-verified-APK caveat until an artifact is confirmed.
+
+
+## 2026-11-19 — B1 lessons 26–30 repair and application import/export audit
+- Replaced repeated generic vocabulary examples in Serbian B1 lessons 26–30 and English B1 lessons 26–30: 40 entries per language, 80 total. Each lesson now has eight distinct headword-relevant examples, Sinhala translations and sentence-reading fields.
+- Updated Serbian B1 example-reading fields with Sinhala-script approximations. The generated guides are character-set checked but remain approximate and need fluent/native-speaker review for phonetic accuracy.
+- Critical integration defect found: `App.js` imports named exports `SERBIAN_B1_LESSONS` and `ENGLISH_B1_LESSONS`, while the B1 lesson files previously only exposed default exports. Both files now expose the exact named exports required by App.js and retain a default export for compatibility.
+- Serbian B1 file commits: `d59a93fe3624827aed10e27615dd40f1ee9cc31a` (lesson content and named export) and final file blob SHA checked as `b79c0e724024a2ff54f8908a7f7acbb37d7796fd`.
+- English B1 file commit: `7ea230abd31f3ebdc8428d5ebfb699531b7d34a9`; latest file blob SHA `4d27482938aa5b7f01c5e0b9e5a12814e65eef8e`.
+- Integration audit: reviewed every local named import in App.js against the corresponding source module export declarations (all imported lesson, assessment, revision and vocabulary-pack modules). The B1 named-export mismatch was the only mismatch found in the imported files inspected; the other inspected modules exposed the expected names.
+- B1 structural audit on lessons 21–30: both language tracks have 10 lessons × 8 vocabulary entries; all 160 records have word reading, meaning, example, translation and exampleReading; each lesson has eight unique examples; all sentence-reading fields contain Sinhala characters and no Latin/Cyrillic characters.
+- Workflow files were reviewed. The Android APK workflow uses Node 22, Java 17, generates a temporary lockfile, installs dependencies with npm ci, checks Expo compatibility, exports the Android bundle, prebuilds Android, assembles release APK and uploads the artifact. Expo validation similarly installs dependencies and exports Android.
+- Latest Expo validation run `44575342799` and Android APK run `44575342752` both fail immediately with no steps; earlier job records show `runner_id: 0`, blank runner name and no runner assignment. No actual app build/test logs are available. This is not enough evidence to modify app source or workflow steps to address a code-level build error.
+- No successful latest-main build, APK artifact, APK installation or physical-device test has been verified. Keep this explicit until verified.
+
+### Next broad QA priorities
+1. Run parser-aware QA over legacy A1 lesson files and validate all lesson IDs, lesson counts, required fields, quiz answer indexes and audio/speech references.
+2. Continue term-specific example repair and reading audits across remaining B1 lessons 1–20 and 31–50, then review A2/B2/C1/C2 batches for generic example reuse.
+3. Verify actual GitHub runner availability/account limits with repository owner settings; re-run workflows once a runner can be assigned. Do not mislabel runner provisioning failures as app-code errors.
+4. Once CI runs, fix only actionable errors shown by its logs, then verify uploaded APK artifact and test installation on Android.
