@@ -822,3 +822,15 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 1. Audit English B1 lesson 31–50 listening translations and pronunciation aids; validate Serbian/English paired lesson content and answer alignment.
 2. Review repeated fourth-question patterns across B1 and make them more lesson-specific without changing correct answer semantics.
 3. Verify CI and standalone release APK after the recent English B1 content fixes; install and test on a physical Android device.
+
+
+## 2026-11-19 — Serbian B1 lesson title localization
+- Paired-course review found that all 50 Serbian B1 lesson titles were displayed in Sinhala rather than Serbian, despite the lesson body being the Serbian track.
+- Replaced all 50 titles with Serbian Latin-script titles matching the paired English lesson topics. Structural validation confirms 50/50 titles use the expected `B1 · Lekcija N · ...` format and contain no Sinhala-script characters.
+- Commit: `5c1cd5fbd01fee54d8983812a4af23eb0f18da97`.
+- This corrects title localization only. Serbian lesson text, grammar explanations, pronunciation, vocabulary and assessment content still require broader linguistic review.
+
+### Next exact task
+1. Audit Serbian B1 lesson 1–50 practice prompts, explanations, listening text and examples for Sinhala/English contamination or translation mismatches.
+2. Review paired B1 content and repetitive assessment questions; improve lesson-specific practice where safe.
+3. Check CI for the latest content commits and verify a standalone release APK on Android.
