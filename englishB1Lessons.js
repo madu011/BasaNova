@@ -1792,7 +1792,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "නිශ්චිතභාවය",
         "example": "It may rain, but we will probably arrive on time.",
         "exampleReading": "ඉට් මේ රේන් බට් වී විල් ප්‍රොබබ්ලි අරයිව් ඔන් ටයිම්.",
-        "translation": "It may rain, but we will probably arrive on time."
+        "translation": "වැස්ස ඇති විය හැකි නමුත් අපි බොහෝවිට වෙලාවට ළඟා වේවි."
       },
       {
         "word": "perhaps",
@@ -1800,7 +1800,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "සමහරවිට",
         "example": "If there is traffic, we might take a taxi.",
         "exampleReading": "ඉෆ් දෙයාර් ඉස් ට්‍රැෆික් වී මයිට් ටේක් අ ටැක්සි.",
-        "translation": "If there is traffic, we might take a taxi."
+        "translation": "රථවාහන තදබදයක් තිබුණොත් අපි ටැක්සියක් ගන්න ඉඩ තියෙනවා."
       },
       {
         "word": "likely",
@@ -1824,7 +1824,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "ඇස්තමේන්තුව",
         "example": "It may rain, but we will probably arrive on time.",
         "exampleReading": "ඉට් මේ රේන් බට් වී විල් ප්‍රොබබ්ලි අරයිව් ඔන් ටයිම්.",
-        "translation": "It may rain, but we will probably arrive on time."
+        "translation": "වැස්ස ඇති විය හැකි නමුත් අපි බොහෝවිට වෙලාවට ළඟා වේවි."
       },
       {
         "word": "forecast",
@@ -1832,7 +1832,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "අනාවැකිය",
         "example": "If there is traffic, we might take a taxi.",
         "exampleReading": "ඉෆ් දෙයාර් ඉස් ට්‍රැෆික් වී මයිට් ටේක් අ ටැක්සි.",
-        "translation": "If there is traffic, we might take a taxi."
+        "translation": "රථවාහන තදබදයක් තිබුණොත් අපි ටැක්සියක් ගන්න ඉඩ තියෙනවා."
       },
       {
         "word": "definitely",
@@ -1970,7 +1970,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "උපායමාර්ගය",
         "example": "Regular revision helps us remember new words.",
         "exampleReading": "රෙග්‍යුලර් රිවිෂන් හෙල්ප්ස් අස් රිමෙම්බර් න්‍යූ වර්ඩ්ස්.",
-        "translation": "Regular revision helps us remember new words."
+        "translation": "නිතර නැවත අධ්‍යයනය කිරීම නව වචන මතක තබාගැනීමට උපකාරී වෙනවා."
       },
       {
         "word": "revision",
@@ -1978,7 +1978,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "නැවත පුහුණුව",
         "example": "Regular revision helps us remember new words.",
         "exampleReading": "රෙග්‍යුලර් රිවිෂන් හෙල්ප්ස් අස් රිමෙම්බර් න්‍යූ වර්ඩ්ස්.",
-        "translation": "Regular revision helps us remember new words."
+        "translation": "නිතර නැවත අධ්‍යයනය කිරීම නව වචන මතක තබාගැනීමට උපකාරී වෙනවා."
       },
       {
         "word": "skill",
@@ -2002,7 +2002,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "ඉලක්කය",
         "example": "Regular revision helps us remember new words.",
         "exampleReading": "රෙග්‍යුලර් රිවිෂන් හෙල්ප්ස් අස් රිමෙම්බර් න්‍යූ වර්ඩ්ස්.",
-        "translation": "Regular revision helps us remember new words."
+        "translation": "නිතර නැවත අධ්‍යයනය කිරීම නව වචන මතක තබාගැනීමට උපකාරී වෙනවා."
       },
       {
         "word": "progress",
@@ -2010,7 +2010,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "ප්‍රගතිය",
         "example": "I learn most when I use the language in conversation.",
         "exampleReading": "අයි ලර්න් මෝස්ට් වෙන් අයි යූස් දි ලැංග්විජ් ඉන් කන්වර්සේෂන්.",
-        "translation": "I learn most when I use the language in conversation."
+        "translation": "මම භාෂාව සංවාදවල භාවිත කරන විට වැඩිපුරම ඉගෙන ගන්නවා."
       },
       {
         "word": "note",
@@ -2148,7 +2148,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "ගමන් සැලැස්ම",
         "example": "Because of the roadworks, the bus leaves from another stop.",
         "exampleReading": "බිකෝස් ඔෆ් දි රෝඩ්වර්ක්ස් දි බස් ලීව්ස් ෆ්‍රම් අනදර් ස්ටොප්.",
-        "translation": "Because of the roadworks, the bus leaves from another stop."
+        "translation": "මාර්ග අලුත්වැඩියා කටයුතු නිසා බස් රථය වෙනත් නැවතුමකින් පිටත් වෙනවා."
       },
       {
         "word": "departure",
@@ -2156,7 +2156,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "පිටත්වීම",
         "example": "If we miss the train, we will check the next departure.",
         "exampleReading": "ඉෆ් වී මිස් දි ට්‍රේන් වී විල් චෙක් දි නෙක්ස්ට් ඩිපාර්චර්.",
-        "translation": "If we miss the train, we will check the next departure."
+        "translation": "අපට දුම්රිය මඟහැරුණොත් ඊළඟ පිටත්වීමේ වේලාව පරීක්ෂා කරනවා."
       },
       {
         "word": "delay",
@@ -2180,7 +2180,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "විකල්පය",
         "example": "Because of the roadworks, the bus leaves from another stop.",
         "exampleReading": "බිකෝස් ඔෆ් දි රෝඩ්වර්ක්ස් දි බස් ලීව්ස් ෆ්‍රම් අනදර් ස්ටොප්.",
-        "translation": "Because of the roadworks, the bus leaves from another stop."
+        "translation": "මාර්ග අලුත්වැඩියා කටයුතු නිසා බස් රථය වෙනත් නැවතුමකින් පිටත් වෙනවා."
       },
       {
         "word": "reservation",
@@ -2188,7 +2188,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "වෙන්කිරීම",
         "example": "If we miss the train, we will check the next departure.",
         "exampleReading": "ඉෆ් වී මිස් දි ට්‍රේන් වී විල් චෙක් දි නෙක්ස්ට් ඩිපාර්චර්.",
-        "translation": "If we miss the train, we will check the next departure."
+        "translation": "අපට දුම්රිය මඟහැරුණොත් ඊළඟ පිටත්වීමේ වේලාව පරීක්ෂා කරනවා."
       },
       {
         "word": "luggage",
@@ -2326,7 +2326,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "මුදල් ආපසු ගෙවීම",
         "example": "I would like to make a complaint about the damaged product.",
         "exampleReading": "අයි වුඩ් ලයික් ටු මේක් අ කම්ප්ලේන්ට් අබවුට් දි ඩැමජ්ඩ් ප්‍රොඩක්ට්.",
-        "translation": "I would like to make a complaint about the damaged product."
+        "translation": "හානි වූ භාණ්ඩය ගැන පැමිණිල්ලක් ඉදිරිපත් කිරීමට කැමතියි."
       },
       {
         "word": "receipt",
@@ -2334,7 +2334,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "රිසිට්පත",
         "example": "Please explain the available replacement options.",
         "exampleReading": "ප්ලීස් එක්ස්ප්ලේන් දි අවේලබල් රිප්ලේස්මන්ට් ඔප්ෂන්ස්.",
-        "translation": "Please explain the available replacement options."
+        "translation": "ලබාගත හැකි ආදේශක විකල්ප පැහැදිලි කරන්න."
       },
       {
         "word": "damaged",
@@ -2342,7 +2342,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "හානි වූ",
         "example": "I would like to make a complaint about the damaged product.",
         "exampleReading": "අයි වුඩ් ලයික් ටු මේක් අ කම්ප්ලේන්ට් අබවුට් දි ඩැමජ්ඩ් ප්‍රොඩක්ට්.",
-        "translation": "I would like to make a complaint about the damaged product."
+        "translation": "හානි වූ භාණ්ඩය ගැන පැමිණිල්ලක් ඉදිරිපත් කිරීමට කැමතියි."
       },
       {
         "word": "replacement",
@@ -2350,7 +2350,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "මාරු කිරීම",
         "example": "Please explain the available replacement options.",
         "exampleReading": "ප්ලීස් එක්ස්ප්ලේන් දි අවේලබල් රිප්ලේස්මන්ට් ඔප්ෂන්ස්.",
-        "translation": "Please explain the available replacement options."
+        "translation": "ලබාගත හැකි ආදේශක විකල්ප පැහැදිලි කරන්න."
       },
       {
         "word": "quality",
@@ -2358,7 +2358,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "ගුණාත්මකභාවය",
         "example": "I would like to make a complaint about the damaged product.",
         "exampleReading": "අයි වුඩ් ලයික් ටු මේක් අ කම්ප්ලේන්ට් අබවුට් දි ඩැමජ්ඩ් ප්‍රොඩක්ට්.",
-        "translation": "I would like to make a complaint about the damaged product."
+        "translation": "හානි වූ භාණ්ඩය ගැන පැමිණිල්ලක් ඉදිරිපත් කිරීමට කැමතියි."
       },
       {
         "word": "warranty",
@@ -2366,7 +2366,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "වගකීම් සහතිකය",
         "example": "Please explain the available replacement options.",
         "exampleReading": "ප්ලීස් එක්ස්ප්ලේන් දි අවේලබල් රිප්ලේස්මන්ට් ඔප්ෂන්ස්.",
-        "translation": "Please explain the available replacement options."
+        "translation": "ලබාගත හැකි ආදේශක විකල්ප පැහැදිලි කරන්න."
       },
       {
         "word": "customer",
@@ -2504,7 +2504,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "පියවර",
         "example": "First complete the form, then hand it to the officer.",
         "exampleReading": "ෆර්ස්ට් කම්ප්ලීට් දි ෆෝම් දෙන් හැන්ඩ් ඉට් ටු දි ඔෆිසර්.",
-        "translation": "First complete the form, then hand it to the officer."
+        "translation": "මුලින් පෝරමය පුරවා, ඉන්පසු නිලධාරියාට භාර දෙන්න."
       },
       {
         "word": "instruction",
@@ -2512,7 +2512,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "උපදෙස්",
         "example": "After the device is switched on, wait a few seconds.",
         "exampleReading": "ආෆ්ටර් දි ඩිවයිස් ඉස් ස්විච්ඩ් ඔන් වේට් අ ෆියු සෙකන්ඩ්ස්.",
-        "translation": "After the device is switched on, wait a few seconds."
+        "translation": "උපාංගය ක්‍රියාත්මක කළ පසු තත්පර කිහිපයක් රැඳී සිටින්න."
       },
       {
         "word": "equipment",
@@ -2536,7 +2536,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "භාර දෙනවා",
         "example": "First complete the form, then hand it to the officer.",
         "exampleReading": "ෆර්ස්ට් කම්ප්ලීට් දි ෆෝම් දෙන් හැන්ඩ් ඉට් ටු දි ඔෆිසර්.",
-        "translation": "First complete the form, then hand it to the officer."
+        "translation": "මුලින් පෝරමය පුරවා, ඉන්පසු නිලධාරියාට භාර දෙන්න."
       },
       {
         "word": "check",
@@ -2544,7 +2544,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "පරීක්ෂා කරනවා",
         "example": "After the device is switched on, wait a few seconds.",
         "exampleReading": "ආෆ්ටර් දි ඩිවයිස් ඉස් ස්විච්ඩ් ඔන් වේට් අ ෆියු සෙකන්ඩ්ස්.",
-        "translation": "After the device is switched on, wait a few seconds."
+        "translation": "උපාංගය ක්‍රියාත්මක කළ පසු තත්පර කිහිපයක් රැඳී සිටින්න."
       },
       {
         "word": "carefully",
@@ -2682,7 +2682,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "පුරවැසියා",
         "example": "Our community is organising a park clean-up.",
         "exampleReading": "අවර් කමියුනිටි ඉස් ඕගනයිසිං අ පාක් ක්ලීන් අප්.",
-        "translation": "Our community is organising a park clean-up."
+        "translation": "අපේ ප්‍රජාව උද්‍යානයක් පිරිසිදු කිරීමේ වැඩසටහනක් සංවිධානය කරනවා."
       },
       {
         "word": "volunteer",
@@ -2690,7 +2690,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "ස්වේච්ඡා සේවකයා",
         "example": "Residents can suggest solutions at the public meeting.",
         "exampleReading": "රෙසිඩන්ට්ස් කෑන් සජෙස්ට් සොලූෂන්ස් ඇට් දි පබ්ලික් මීටින්.",
-        "translation": "Residents can suggest solutions at the public meeting."
+        "translation": "පොදු රැස්වීමේදී පදිංචිකරුවන්ට විසඳුම් යෝජනා කළ හැකියි."
       },
       {
         "word": "neighbourhood",
@@ -2706,7 +2706,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "රැස්වීම",
         "example": "Residents can suggest solutions at the public meeting.",
         "exampleReading": "රෙසිඩන්ට්ස් කෑන් සජෙස්ට් සොලූෂන්ස් ඇට් දි පබ්ලික් මීටින්.",
-        "translation": "Residents can suggest solutions at the public meeting."
+        "translation": "පොදු රැස්වීමේදී පදිංචිකරුවන්ට විසඳුම් යෝජනා කළ හැකියි."
       },
       {
         "word": "proposal",
@@ -2714,7 +2714,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "යෝජනාව",
         "example": "Our community is organising a park clean-up.",
         "exampleReading": "අවර් කමියුනිටි ඉස් ඕගනයිසිං අ පාක් ක්ලීන් අප්.",
-        "translation": "Our community is organising a park clean-up."
+        "translation": "අපේ ප්‍රජාව උද්‍යානයක් පිරිසිදු කිරීමේ වැඩසටහනක් සංවිධානය කරනවා."
       },
       {
         "word": "support",
@@ -2722,7 +2722,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "සහාය",
         "example": "Residents can suggest solutions at the public meeting.",
         "exampleReading": "රෙසිඩන්ට්ස් කෑන් සජෙස්ට් සොලූෂන්ස් ඇට් දි පබ්ලික් මීටින්.",
-        "translation": "Residents can suggest solutions at the public meeting."
+        "translation": "පොදු රැස්වීමේදී පදිංචිකරුවන්ට විසඳුම් යෝජනා කළ හැකියි."
       },
       {
         "word": "public",
@@ -2730,7 +2730,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "මහජන",
         "example": "Residents can suggest solutions at the public meeting.",
         "exampleReading": "රෙසිඩන්ට්ස් කෑන් සජෙස්ට් සොලූෂන්ස් ඇට් දි පබ්ලික් මීටින්.",
-        "translation": "Residents can suggest solutions at the public meeting."
+        "translation": "පොදු රැස්වීමේදී පදිංචිකරුවන්ට විසඳුම් යෝජනා කළ හැකියි."
       },
       {
         "word": "issue",
@@ -2860,7 +2860,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "කාලසටහන",
         "example": "I am trying to create a balance between work and rest.",
         "exampleReading": "අයි ඇම් ට්‍රයිං ටු ක්‍රියේට් අ බැලන්ස් බිට්වීන් වර්ක් ඇන්ඩ් රෙස්ට්.",
-        "translation": "I am trying to create a balance between work and rest."
+        "translation": "වැඩ සහ විවේකය අතර සමතුලිතතාවක් ඇති කරගැනීමට මම උත්සාහ කරනවා."
       },
       {
         "word": "deadline",
@@ -2868,7 +2868,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "අවසන් දිනය",
         "example": "If we plan our tasks in advance, we will have more free time.",
         "exampleReading": "ඉෆ් වී ප්ලෑන් අවර් ටාස්ක්ස් ඉන් ඇඩ්වාන්ස් වී විල් හැව් මෝර් ෆ්‍රී ටයිම්.",
-        "translation": "If we plan our tasks in advance, we will have more free time."
+        "translation": "අපේ කාර්යයන් කලින් සැලසුම් කළොත් වැඩි නිදහස් කාලයක් ලැබේවි."
       },
       {
         "word": "priority",
@@ -2892,7 +2892,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "අතිකාල වැඩ",
         "example": "I am trying to create a balance between work and rest.",
         "exampleReading": "අයි ඇම් ට්‍රයිං ටු ක්‍රියේට් අ බැලන්ස් බිට්වීන් වර්ක් ඇන්ඩ් රෙස්ට්.",
-        "translation": "I am trying to create a balance between work and rest."
+        "translation": "වැඩ සහ විවේකය අතර සමතුලිතතාවක් ඇති කරගැනීමට මම උත්සාහ කරනවා."
       },
       {
         "word": "rest",
@@ -2900,7 +2900,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "විවේකය",
         "example": "I am trying to create a balance between work and rest.",
         "exampleReading": "අයි ඇම් ට්‍රයිං ටු ක්‍රියේට් අ බැලන්ස් බිට්වීන් වර්ක් ඇන්ඩ් රෙස්ට්.",
-        "translation": "I am trying to create a balance between work and rest."
+        "translation": "වැඩ සහ විවේකය අතර සමතුලිතතාවක් ඇති කරගැනීමට මම උත්සාහ කරනවා."
       },
       {
         "word": "manage",
@@ -2916,7 +2916,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "නිදහස් කාලය",
         "example": "If we plan our tasks in advance, we will have more free time.",
         "exampleReading": "ඉෆ් වී ප්ලෑන් අවර් ටාස්ක්ස් ඉන් ඇඩ්වාන්ස් වී විල් හැව් මෝර් ෆ්‍රී ටයිම්.",
-        "translation": "If we plan our tasks in advance, we will have more free time."
+        "translation": "අපේ කාර්යයන් කලින් සැලසුම් කළොත් වැඩි නිදහස් කාලයක් ලැබේවි."
       }
     ],
     "grammarTitle": "Grammar",
@@ -3038,7 +3038,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "ප්‍රතිචක්‍රීකරණය",
         "example": "Public transport is often a more sustainable choice than a car.",
         "exampleReading": "පබ්ලික් ට්‍රාන්ස්පෝට් ඉස් ඔෆන් අ මෝර් සස්ටේනබල් චොයිස් දෑන් අ කාර්.",
-        "translation": "Public transport is often a more sustainable choice than a car."
+        "translation": "පෞද්ගලික මෝටර් රථයකට වඩා පොදු ප්‍රවාහනය බොහෝවිට පරිසර හිතකාමී තේරීමක්."
       },
       {
         "word": "waste",
@@ -3046,7 +3046,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "අපද්‍රව්‍ය",
         "example": "If we reduce waste, we protect natural resources.",
         "exampleReading": "ඉෆ් වී රිඩියූස් වේස්ට් වී ප්‍රොටෙක්ට් නැචරල් රිසෝර්සිස්.",
-        "translation": "If we reduce waste, we protect natural resources."
+        "translation": "අපද්‍රව්‍ය අඩු කළොත් ස්වභාවික සම්පත් ආරක්ෂා කරගන්න පුළුවන්."
       },
       {
         "word": "resource",
@@ -3054,7 +3054,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "සම්පත",
         "example": "If we reduce waste, we protect natural resources.",
         "exampleReading": "ඉෆ් වී රිඩියූස් වේස්ට් වී ප්‍රොටෙක්ට් නැචරල් රිසෝර්සිස්.",
-        "translation": "If we reduce waste, we protect natural resources."
+        "translation": "අපද්‍රව්‍ය අඩු කළොත් ස්වභාවික සම්පත් ආරක්ෂා කරගන්න පුළුවන්."
       },
       {
         "word": "energy",
@@ -3070,7 +3070,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "දූෂණය",
         "example": "Public transport is often a more sustainable choice than a car.",
         "exampleReading": "පබ්ලික් ට්‍රාන්ස්පෝට් ඉස් ඔෆන් අ මෝර් සස්ටේනබල් චොයිස් දෑන් අ කාර්.",
-        "translation": "Public transport is often a more sustainable choice than a car."
+        "translation": "පෞද්ගලික මෝටර් රථයකට වඩා පොදු ප්‍රවාහනය බොහෝවිට පරිසර හිතකාමී තේරීමක්."
       },
       {
         "word": "reusable",
@@ -3078,7 +3078,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "නැවත භාවිත කළ හැකි",
         "example": "If we reduce waste, we protect natural resources.",
         "exampleReading": "ඉෆ් වී රිඩියූස් වේස්ට් වී ප්‍රොටෙක්ට් නැචරල් රිසෝර්සිස්.",
-        "translation": "If we reduce waste, we protect natural resources."
+        "translation": "අපද්‍රව්‍ය අඩු කළොත් ස්වභාවික සම්පත් ආරක්ෂා කරගන්න පුළුවන්."
       },
       {
         "word": "public transport",
@@ -3086,7 +3086,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "පොදු ප්‍රවාහනය",
         "example": "Public transport is often a more sustainable choice than a car.",
         "exampleReading": "පබ්ලික් ට්‍රාන්ස්පෝට් ඉස් ඔෆන් අ මෝර් සස්ටේනබල් චොයිස් දෑන් අ කාර්.",
-        "translation": "Public transport is often a more sustainable choice than a car."
+        "translation": "පෞද්ගලික මෝටර් රථයකට වඩා පොදු ප්‍රවාහනය බොහෝවිට පරිසර හිතකාමී තේරීමක්."
       },
       {
         "word": "protect",
@@ -3094,7 +3094,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "ආරක්ෂා කරනවා",
         "example": "If we reduce waste, we protect natural resources.",
         "exampleReading": "ඉෆ් වී රිඩියූස් වේස්ට් වී ප්‍රොටෙක්ට් නැචරල් රිසෝර්සිස්.",
-        "translation": "If we reduce waste, we protect natural resources."
+        "translation": "අපද්‍රව්‍ය අඩු කළොත් ස්වභාවික සම්පත් ආරක්ෂා කරගන්න පුළුවන්."
       }
     ],
     "grammarTitle": "Grammar",
@@ -3216,7 +3216,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "හේතුව",
         "example": "Because of heavy rain, the match was postponed.",
         "exampleReading": "බිකෝස් ඔෆ් හෙවි රේන් දි මැච් වොස් පෝස්ට්පෝන්ඩ්.",
-        "translation": "Because of heavy rain, the match was postponed."
+        "translation": "තද වැස්ස නිසා තරගය කල් දැමුවා."
       },
       {
         "word": "effect",
@@ -3224,7 +3224,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "බලපෑම",
         "example": "There was not enough time, so we changed the plan.",
         "exampleReading": "දෙයාර් වොස් නොට් ඉනෆ් ටයිම් සෝ වී චේන්ජ්ඩ් දි ප්ලෑන්.",
-        "translation": "There was not enough time, so we changed the plan."
+        "translation": "ප්‍රමාණවත් කාලයක් නොතිබූ නිසා අපි සැලැස්ම වෙනස් කළා."
       },
       {
         "word": "consequence",
@@ -3248,7 +3248,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "නිසා",
         "example": "Because of heavy rain, the match was postponed.",
         "exampleReading": "බිකෝස් ඔෆ් හෙවි රේන් දි මැච් වොස් පෝස්ට්පෝන්ඩ්.",
-        "translation": "Because of heavy rain, the match was postponed."
+        "translation": "තද වැස්ස නිසා තරගය කල් දැමුවා."
       },
       {
         "word": "result",
@@ -3256,7 +3256,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "ප්‍රතිඵලය",
         "example": "There was not enough time, so we changed the plan.",
         "exampleReading": "දෙයාර් වොස් නොට් ඉනෆ් ටයිම් සෝ වී චේන්ජ්ඩ් දි ප්ලෑන්.",
-        "translation": "There was not enough time, so we changed the plan."
+        "translation": "ප්‍රමාණවත් කාලයක් නොතිබූ නිසා අපි සැලැස්ම වෙනස් කළා."
       },
       {
         "word": "increase",
@@ -3394,7 +3394,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "වාසිය",
         "example": "In my opinion, the advantages outweigh the disadvantages.",
         "exampleReading": "ඉන් මයි ඔපීනියන් දි ඇඩ්වාන්ටේජස් අවර්වේ දි ඩිස්ඇඩ්වාන්ටේජස්.",
-        "translation": "In my opinion, the advantages outweigh the disadvantages."
+        "translation": "මගේ අදහස අනුව වාසි අවාසිවලට වඩා වැඩියි."
       },
       {
         "word": "disadvantage",
@@ -3402,7 +3402,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "අවාසිය",
         "example": "In my opinion, the advantages outweigh the disadvantages.",
         "exampleReading": "ඉන් මයි ඔපීනියන් දි ඇඩ්වාන්ටේජස් අවර්වේ දි ඩිස්ඇඩ්වාන්ටේජස්.",
-        "translation": "In my opinion, the advantages outweigh the disadvantages."
+        "translation": "මගේ අදහස අනුව වාසි අවාසිවලට වඩා වැඩියි."
       },
       {
         "word": "evidence",
@@ -3418,7 +3418,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "මතය",
         "example": "In my opinion, the advantages outweigh the disadvantages.",
         "exampleReading": "ඉන් මයි ඔපීනියන් දි ඇඩ්වාන්ටේජස් අවර්වේ දි ඩිස්ඇඩ්වාන්ටේජස්.",
-        "translation": "In my opinion, the advantages outweigh the disadvantages."
+        "translation": "මගේ අදහස අනුව වාසි අවාසිවලට වඩා වැඩියි."
       },
       {
         "word": "argument",
@@ -3426,7 +3426,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "තර්කය",
         "example": "On the one hand, this option is cheaper; on the other hand, it is slower.",
         "exampleReading": "ඔන් දි වන් හැන්ඩ් දිස් ඔප්ෂන් ඉස් චීපර් ඔන් දි අදර් හැන්ඩ් ඉට් ඉස් ස්ලෝවර්.",
-        "translation": "On the one hand, this option is cheaper; on the other hand, it is slower."
+        "translation": "එක් පැත්තකින් මේ විකල්පය ලාභයි; අනෙක් පැත්තෙන් එය මන්දගාමීයි."
       },
       {
         "word": "on the one hand",
@@ -3434,7 +3434,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "එක් පැත්තකින්",
         "example": "On the one hand, this option is cheaper; on the other hand, it is slower.",
         "exampleReading": "ඔන් දි වන් හැන්ඩ් දිස් ඔප්ෂන් ඉස් චීපර් ඔන් දි අදර් හැන්ඩ් ඉට් ඉස් ස්ලෝවර්.",
-        "translation": "On the one hand, this option is cheaper; on the other hand, it is slower."
+        "translation": "එක් පැත්තකින් මේ විකල්පය ලාභයි; අනෙක් පැත්තෙන් එය මන්දගාමීයි."
       },
       {
         "word": "on the other hand",
@@ -3442,7 +3442,7 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "අනෙක් පැත්තෙන්",
         "example": "On the one hand, this option is cheaper; on the other hand, it is slower.",
         "exampleReading": "ඔන් දි වන් හැන්ඩ් දිස් ඔප්ෂන් ඉස් චීපර් ඔන් දි අදර් හැන්ඩ් ඉට් ඉස් ස්ලෝවර්.",
-        "translation": "On the one hand, this option is cheaper; on the other hand, it is slower."
+        "translation": "එක් පැත්තකින් මේ විකල්පය ලාභයි; අනෙක් පැත්තෙන් එය මන්දගාමීයි."
       },
       {
         "word": "conclusion",
