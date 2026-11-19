@@ -408,3 +408,7 @@ Automated review identified and corrected 2,400 A2/B1/B2 vocabulary example fiel
 ## B1 practice improvements
 
 - Incorrect answers in B1 lesson quizzes, listening checks and mixed revision can now be retried immediately without restarting the lesson. Correct answers remain marked as complete.
+
+
+### English B1 quiz localization — 2026-11-19
+Corrected the first 10 English B1 lessons, replacing Serbian-language quiz prompts and options with English-language practice questions. All 50 English B1 lessons and 200 practice questions passed structural answer-index checks; the targeted Serbian-phrase scan returned no matches. See `HANDOFF.md` for the commit and remaining QA tasks.
