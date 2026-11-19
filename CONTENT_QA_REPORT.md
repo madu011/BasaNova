@@ -33,3 +33,11 @@ GitHub Actions Android debug APK build run [44552002628](https://github.com/madu
 2. Review the lesson-context examples for term-specific relevance and improve any weak matches.
 3. Obtain fluent-speaker review of Serbian and English naturalness and Sinhala translations/readings.
 4. Download/install the APK on Android and test navigation, audio, scoring, and offline/online behavior.
+
+
+## 2026-11-19 follow-up — B1 integration and semantic QA
+- Additional repairs: B1 lessons 21–30 in both language tracks now have 8 distinct, vocabulary-relevant examples per lesson, matching Sinhala translations and sentence-reading fields (160 vocabulary entries total).
+- Fixed the B1 integration export contract: App.js expects named exports for both B1 lesson arrays. Serbian and English B1 modules now export `SERBIAN_B1_LESSONS` and `ENGLISH_B1_LESSONS`, while retaining default exports.
+- Reviewed all local named imports in App.js against the corresponding modules' declared named exports; no other missing export was found among the inspected imports.
+- This pass is source-level QA only. CI still fails before runner assignment, so no new Expo validation or APK build is confirmed. The earlier successful APK noted above belongs to an older commit and must not be treated as a build of current main.
+- Pronunciation readings are approximate and require human/native-speaker review. Physical-device testing remains outstanding.
