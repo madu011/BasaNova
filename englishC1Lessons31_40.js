@@ -114,31 +114,31 @@ export const ENGLISH_C1_LESSONS_31_40 = [
       "audio": "It is important to acknowledge a different opinion. Perhaps we could consider another possibility. His wording was tactful and clear. With some consideration, the discussion remains constructive.",
       "reading": "ඉට් ඉස් ඉම්ප්ඔර්ට්ඇන්ට් ට්ඔ ඇක්ක්න්ඔව්ල්එඩ්ග්එ ඇ ඩ්ඉෆ්ෆ්එර්එන්ට් ඔප්ඉන්ඉඔන්. ප්එර්හ්ඇප්ස් ව්එ ක්ඔඅල්ඩ් ක්ඔන්ස්ඉඩ්එර් ඇන්ඔත්එර් ප්ඔස්ස්ඉබ්ඉල්ඉට්යි. හ්ඉස් ව්ඔර්ඩ්ඉං ව්ඇස් ට්ඇක්ට්ෆ්අල් ඇන්ඩ් ක්ල්එඇර්. ව්ඉත් ස්ඔම්එ ක්ඔන්ස්ඉඩ්එර්ඇෂන්, ත්එ ඩ්ඉස්ක්අස්ස්ඉඔන් ර්එම්ඇඉන්ස් ක්ඔන්ස්ට්ර්අක්ට්ඉව්එ.",
       "options": [
-        "වෙනස් මතයක්ද සලකා පිළිගැනීම වැදගත්ය. සමහරවිට අපට වෙනත් හැකියාවක් සලකා බැලිය හැක.",
         "All information is completely certain.",
+        "වෙනස් මතයක්ද සලකා පිළිගැනීම වැදගත්ය. සමහරවිට අපට වෙනත් හැකියාවක් සලකා බැලිය හැක.",
         "Ниједан одговор није тачан."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Which term is central to this lesson?",
         "options": [
-          "tactful",
           "disagreement",
+          "tactful",
           "restrained"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "The first item is a key term."
       },
       {
         "prompt": "Choose the relevant specialist expression.",
         "options": [
           "diplomacy",
-          "consideration",
-          "proposal"
+          "proposal",
+          "consideration"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Check the vocabulary list for its meaning."
       },
       {
@@ -154,11 +154,11 @@ export const ENGLISH_C1_LESSONS_31_40 = [
       {
         "prompt": "How should uncertainty be presented?",
         "options": [
-          "State limitations openly",
           "Present assumptions as facts",
+          "State limitations openly",
           "Omit unknown information"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Limitations should be stated clearly."
       }
     ]
@@ -277,31 +277,31 @@ export const ENGLISH_C1_LESSONS_31_40 = [
       "audio": "An evaluation includes unintended consequences too. A baseline makes meaningful comparison possible. Indicators should be measurable and relevant. A positive outcome alone does not prove causation.",
       "reading": "ඇන් එව්ඇල්අඇෂන් ඉන්ක්ල්අඩ්එස් අන්ඉන්ට්එන්ඩ්එඩ් ක්ඔන්ස්එඅඑන්ක්එස් ට්උ. ඇ බ්ඇස්එල්ඉන්එ ම්ඇක්එස් ම්එඇන්ඉංෆ්අල් ක්ඔම්ප්ඇර්ඉස්ඔන් ප්ඔස්ස්ඉබ්ල්එ. ඉන්ඩ්ඉක්ඇට්ඔර්ස් ෂ්ඔඅල්ඩ් බ්එ ම්එඇස්අර්ඇබ්ල්එ ඇන්ඩ් ර්එල්එව්ඇන්ට්. ඇ ප්ඔස්ඉට්ඉව්එ ඔඅට්ක්ඔම්එ ඇල්ඔන්එ ඩ්ඔඑස් න්ඔට් ප්ර්ඔව්එ ක්ඇඅස්ඇෂන්.",
       "options": [
-        "ඇගයීමට අනපේක්ෂිත ප්‍රතිවිපාකද ඇතුළත් වේ. ආරම්භක මට්ටම අර්ථවත් සැසඳීමකට ඉඩ සලසයි.",
         "All information is completely certain.",
-        "Ниједан одговор није тачан."
+        "Ниједан одговор није тачан.",
+        "ඇගයීමට අනපේක්ෂිත ප්‍රතිවිපාකද ඇතුළත් වේ. ආරම්භක මට්ටම අර්ථවත් සැසඳීමකට ඉඩ සලසයි."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Which term is central to this lesson?",
         "options": [
-          "measure",
           "indicator",
+          "measure",
           "implementation"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "The first item is a key term."
       },
       {
         "prompt": "Choose the relevant specialist expression.",
         "options": [
           "outcome",
-          "baseline",
-          "unintended consequence"
+          "unintended consequence",
+          "baseline"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Check the vocabulary list for its meaning."
       },
       {
@@ -317,11 +317,11 @@ export const ENGLISH_C1_LESSONS_31_40 = [
       {
         "prompt": "How should uncertainty be presented?",
         "options": [
-          "State limitations openly",
           "Present assumptions as facts",
+          "State limitations openly",
           "Omit unknown information"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Limitations should be stated clearly."
       }
     ]
@@ -450,21 +450,21 @@ export const ENGLISH_C1_LESSONS_31_40 = [
       {
         "prompt": "Which term is central to this lesson?",
         "options": [
-          "revenue",
           "balance sheet",
+          "revenue",
           "variance"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "The first item is a key term."
       },
       {
         "prompt": "Choose the relevant specialist expression.",
         "options": [
           "expenditure",
-          "liability",
-          "transparency"
+          "transparency",
+          "liability"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Check the vocabulary list for its meaning."
       },
       {
@@ -480,11 +480,11 @@ export const ENGLISH_C1_LESSONS_31_40 = [
       {
         "prompt": "How should uncertainty be presented?",
         "options": [
-          "State limitations openly",
           "Present assumptions as facts",
+          "State limitations openly",
           "Omit unknown information"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Limitations should be stated clearly."
       }
     ]
@@ -603,31 +603,31 @@ export const ENGLISH_C1_LESSONS_31_40 = [
       "audio": "The finding should be interpreted in light of sample size. The study underwent independent peer review. The results have not yet been replicated elsewhere. Statistical significance does not always mean practical importance.",
       "reading": "ත්එ ෆ්ඉන්ඩ්ඉං ෂ්ඔඅල්ඩ් බ්එ ඉන්ට්එර්ප්ර්එට්එඩ් ඉන් ල්ඉග්හ්ට් ඔෆ් ස්ඇම්ප්ල්එ ස්ඉස්එ. ත්එ ස්ට්අඩ්යි අන්ඩ්එර්ව්එන්ට් ඉන්ඩ්එප්එන්ඩ්එන්ට් ප්ඊර් ර්එව්ඉඑව්. ත්එ ර්එස්අල්ට්ස් හ්ඇව්එ න්ඔට් යිඑට් බ්ඊන් ර්එප්ල්ඉක්ඇට්එඩ් එල්ස්එව්හ්එර්එ. ස්ට්ඇට්ඉස්ට්ඉක්ඇල් ස්ඉග්න්ඉෆ්ඉක්ඇන්ක්එ ඩ්ඔඑස් න්ඔට් ඇල්ව්ඇයිස් ම්එඇන් ප්ර්ඇක්ට්ඉක්ඇල් ඉම්ප්ඔර්ට්ඇන්ක්එ.",
       "options": [
-        "නියැදි ප්‍රමාණය සලකා සොයාගැනීම අර්ථකථනය කළ යුතුය. අධ්‍යයනය ස්වාධීන සම-විශේෂඥ සමාලෝචනයකට ලක් විය.",
         "All information is completely certain.",
+        "නියැදි ප්‍රමාණය සලකා සොයාගැනීම අර්ථකථනය කළ යුතුය. අධ්‍යයනය ස්වාධීන සම-විශේෂඥ සමාලෝචනයකට ලක් විය.",
         "Ниједан одговор није тачан."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Which term is central to this lesson?",
         "options": [
-          "hypothesis",
           "sample",
+          "hypothesis",
           "limitation"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "The first item is a key term."
       },
       {
         "prompt": "Choose the relevant specialist expression.",
         "options": [
           "finding",
-          "replicability",
-          "significance"
+          "significance",
+          "replicability"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Check the vocabulary list for its meaning."
       },
       {
@@ -643,11 +643,11 @@ export const ENGLISH_C1_LESSONS_31_40 = [
       {
         "prompt": "How should uncertainty be presented?",
         "options": [
-          "State limitations openly",
           "Present assumptions as facts",
+          "State limitations openly",
           "Omit unknown information"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Limitations should be stated clearly."
       }
     ]
@@ -766,31 +766,31 @@ export const ENGLISH_C1_LESSONS_31_40 = [
       "audio": "A good leader allocates responsibility clearly. Trust is built through consistent actions. Employees should be enabled to take initiative. Feedback strengthens team culture.",
       "reading": "ඇ ග්උඩ් ල්එඇඩ්එර් ඇල්ල්ඔක්ඇට්එස් ර්එස්ප්ඔන්ස්ඉබ්ඉල්ඉට්යි ක්ල්එඇර්ල්යි. ට්ර්අස්ට් ඉස් බ්අඉල්ට් ත්ර්ඔඅග්හ් ක්ඔන්ස්ඉස්ට්එන්ට් ඇක්ෂන්ස්. එම්ප්ල්ඔයිඊස් ෂ්ඔඅල්ඩ් බ්එ එන්ඇබ්ල්එඩ් ට්ඔ ට්ඇක්එ ඉන්ඉට්ඉඇට්ඉව්එ. ෆ්ඊඩ්බ්ඇක්ක් ස්ට්ර්එංත්එන්ස් ට්එඇම් ක්අල්ට්අර්එ.",
       "options": [
-        "හොඳ නායකයෙක් වගකීම් පැහැදිලිව බෙදා දෙයි. අනුකූල ක්‍රියාමාර්ග මඟින් විශ්වාසය ගොඩනැගේ.",
         "All information is completely certain.",
-        "Ниједан одговор није тачан."
+        "Ниједан одговор није тачан.",
+        "හොඳ නායකයෙක් වගකීම් පැහැදිලිව බෙදා දෙයි. අනුකූල ක්‍රියාමාර්ග මඟින් විශ්වාසය ගොඩනැගේ."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Which term is central to this lesson?",
         "options": [
-          "leadership",
           "accountability",
+          "leadership",
           "alignment"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "The first item is a key term."
       },
       {
         "prompt": "Choose the relevant specialist expression.",
         "options": [
           "empowerment",
-          "culture",
-          "initiative"
+          "initiative",
+          "culture"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Check the vocabulary list for its meaning."
       },
       {
@@ -806,11 +806,11 @@ export const ENGLISH_C1_LESSONS_31_40 = [
       {
         "prompt": "How should uncertainty be presented?",
         "options": [
-          "State limitations openly",
           "Present assumptions as facts",
+          "State limitations openly",
           "Omit unknown information"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Limitations should be stated clearly."
       }
     ]
@@ -939,21 +939,21 @@ export const ENGLISH_C1_LESSONS_31_40 = [
       {
         "prompt": "Which term is central to this lesson?",
         "options": [
-          "privacy",
           "data retention",
+          "privacy",
           "breach"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "The first item is a key term."
       },
       {
         "prompt": "Choose the relevant specialist expression.",
         "options": [
           "consent",
-          "minimisation",
-          "compliance"
+          "compliance",
+          "minimisation"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Check the vocabulary list for its meaning."
       },
       {
@@ -969,11 +969,11 @@ export const ENGLISH_C1_LESSONS_31_40 = [
       {
         "prompt": "How should uncertainty be presented?",
         "options": [
-          "State limitations openly",
           "Present assumptions as facts",
+          "State limitations openly",
           "Omit unknown information"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Limitations should be stated clearly."
       }
     ]
@@ -1092,31 +1092,31 @@ export const ENGLISH_C1_LESSONS_31_40 = [
       "audio": "A paraphrase must preserve the meaning of the original. Every borrowed idea should be attributed to its source. A bibliography allows readers to verify sources. An abstract identifies the aim, method and main finding.",
       "reading": "ඇ ප්ඇර්ඇෆ්ර්ඇස්එ ම්අස්ට් ප්ර්එස්එර්ව්එ ත්එ ම්එඇන්ඉං ඔෆ් ත්එ ඔර්ඉග්ඉන්ඇල්. එව්එර්යි බ්ඔර්ර්ඔව්එඩ් ඉඩ්එඇ ෂ්ඔඅල්ඩ් බ්එ ඇට්ට්ර්ඉබ්අට්එඩ් ට්ඔ ඉට්ස් ස්ඔඅර්ක්එ. ඇ බ්ඉබ්ල්ඉඔග්ර්ඇෆ්යි ඇල්ල්ඔව්ස් ර්එඇඩ්එර්ස් ට්ඔ ව්එර්ඉෆ්යි ස්ඔඅර්ක්එස්. ඇන් ඇබ්ස්ට්ර්ඇක්ට් ඉඩ්එන්ට්ඉෆ්ඉඑස් ත්එ ඇඉම්, ම්එත්ඔඩ් ඇන්ඩ් ම්ඇඉන් ෆ්ඉන්ඩ්ඉං.",
       "options": [
-        "පරාෆ්‍රේස් කිරීමේදී මුල් පාඨයේ අර්ථය රැකිය යුතුය. ගත් සෑම අදහසක්ම එහි මූලාශ්‍රයට බැර කළ යුතුය.",
         "All information is completely certain.",
+        "පරාෆ්‍රේස් කිරීමේදී මුල් පාඨයේ අර්ථය රැකිය යුතුය. ගත් සෑම අදහසක්ම එහි මූලාශ්‍රයට බැර කළ යුතුය.",
         "Ниједан одговор није тачан."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Which term is central to this lesson?",
         "options": [
-          "paraphrase",
           "source",
+          "paraphrase",
           "plagiarism"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "The first item is a key term."
       },
       {
         "prompt": "Choose the relevant specialist expression.",
         "options": [
           "cite",
-          "attribution",
-          "abstract"
+          "abstract",
+          "attribution"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Check the vocabulary list for its meaning."
       },
       {
@@ -1132,11 +1132,11 @@ export const ENGLISH_C1_LESSONS_31_40 = [
       {
         "prompt": "How should uncertainty be presented?",
         "options": [
-          "State limitations openly",
           "Present assumptions as facts",
+          "State limitations openly",
           "Omit unknown information"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Limitations should be stated clearly."
       }
     ]
@@ -1255,31 +1255,31 @@ export const ENGLISH_C1_LESSONS_31_40 = [
       "audio": "The expression should not be interpreted literally. A metaphor gives the text another layer of meaning. A colloquial expression is not always suitable in a report. Irony depends on context and tone.",
       "reading": "ත්එ එප්ර්එස්ස්ඉඔන් ෂ්ඔඅල්ඩ් න්ඔට් බ්එ ඉන්ට්එර්ප්ර්එට්එඩ් ල්ඉට්එර්ඇල්ල්යි. ඇ ම්එට්ඇෆ්ඔර් ග්ඉව්එස් ත්එ ට්එට් ඇන්ඔත්එර් ල්ඇයිඑර් ඔෆ් ම්එඇන්ඉං. ඇ ක්ඔල්ල්ඔඅඉඇල් එප්ර්එස්ස්ඉඔන් ඉස් න්ඔට් ඇල්ව්ඇයිස් ස්අඉට්ඇබ්ල්එ ඉන් ඇ ර්එප්ඔර්ට්. ඉර්ඔන්යි ඩ්එප්එන්ඩ්ස් ඔන් ක්ඔන්ට්එට් ඇන්ඩ් ට්ඔන්එ.",
       "options": [
-        "මෙම ප්‍රකාශය වචනාර්ථයෙන් අර්ථකථනය නොකළ යුතුය. උපමාව පාඨයට අමතර අර්ථ ස්තරයක් එක් කරයි.",
         "All information is completely certain.",
-        "Ниједан одговор није тачан."
+        "Ниједан одговор није тачан.",
+        "මෙම ප්‍රකාශය වචනාර්ථයෙන් අර්ථකථනය නොකළ යුතුය. උපමාව පාඨයට අමතර අර්ථ ස්තරයක් එක් කරයි."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Which term is central to this lesson?",
         "options": [
-          "idiom",
           "literal",
+          "idiom",
           "irony"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "The first item is a key term."
       },
       {
         "prompt": "Choose the relevant specialist expression.",
         "options": [
           "metaphor",
-          "register",
-          "colloquial"
+          "colloquial",
+          "register"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Check the vocabulary list for its meaning."
       },
       {
@@ -1295,11 +1295,11 @@ export const ENGLISH_C1_LESSONS_31_40 = [
       {
         "prompt": "How should uncertainty be presented?",
         "options": [
-          "State limitations openly",
           "Present assumptions as facts",
+          "State limitations openly",
           "Omit unknown information"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Limitations should be stated clearly."
       }
     ]
@@ -1428,21 +1428,21 @@ export const ENGLISH_C1_LESSONS_31_40 = [
       {
         "prompt": "Which term is central to this lesson?",
         "options": [
-          "counterargument",
           "refute",
+          "counterargument",
           "consistent"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "The first item is a key term."
       },
       {
         "prompt": "Choose the relevant specialist expression.",
         "options": [
           "rebuttal",
-          "bias",
-          "nuanced"
+          "nuanced",
+          "bias"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Check the vocabulary list for its meaning."
       },
       {
@@ -1458,11 +1458,11 @@ export const ENGLISH_C1_LESSONS_31_40 = [
       {
         "prompt": "How should uncertainty be presented?",
         "options": [
-          "State limitations openly",
           "Present assumptions as facts",
+          "State limitations openly",
           "Omit unknown information"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Limitations should be stated clearly."
       }
     ]
@@ -1581,31 +1581,31 @@ export const ENGLISH_C1_LESSONS_31_40 = [
       "audio": "The brief requires a cost-benefit analysis. Each stakeholder should understand their role. The recommendation must be linked to measurable objectives. The final review checks outcomes and outstanding questions.",
       "reading": "ත්එ බ්ර්ඉඑෆ් ර්එඅඉර්එස් ඇ ක්ඔස්ට්-බ්එන්එෆ්ඉට් ඇන්ඇල්යිස්ඉස්. එඇච් ස්ට්ඇක්එහ්ඔල්ඩ්එර් ෂ්ඔඅල්ඩ් අන්ඩ්එර්ස්ට්ඇන්ඩ් ත්එඉර් ර්ඔල්එ. ත්එ ර්එක්ඔම්ම්එන්ඩ්ඇෂන් ම්අස්ට් බ්එ ල්ඉන්ක්එඩ් ට්ඔ ම්එඇස්අර්ඇබ්ල්එ ඔබ්ජ්එක්ට්ඉව්එස්. ත්එ ෆ්ඉන්ඇල් ර්එව්ඉඑව් ච්එක්ක්ස් ඔඅට්ක්ඔම්එස් ඇන්ඩ් ඔඅට්ස්ට්ඇන්ඩ්ඉං අඑස්ෂන්ස්.",
       "options": [
-        "කාර්ය සාරාංශය පිරිවැය සහ ප්‍රතිලාභ විශ්ලේෂණයක් ඉල්ලා සිටී. සෑම අදාළ පාර්ශ්වයක්ම තම භූමිකාව තේරුම් ගත යුතුය.",
         "All information is completely certain.",
+        "කාර්ය සාරාංශය පිරිවැය සහ ප්‍රතිලාභ විශ්ලේෂණයක් ඉල්ලා සිටී. සෑම අදාළ පාර්ශ්වයක්ම තම භූමිකාව තේරුම් ගත යුතුය.",
         "Ниједан одговор није тачан."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Which term is central to this lesson?",
         "options": [
-          "brief",
           "stakeholder",
+          "brief",
           "review"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "The first item is a key term."
       },
       {
         "prompt": "Choose the relevant specialist expression.",
         "options": [
           "deliverable",
-          "allocation",
-          "recommendation"
+          "recommendation",
+          "allocation"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Check the vocabulary list for its meaning."
       },
       {
@@ -1621,11 +1621,11 @@ export const ENGLISH_C1_LESSONS_31_40 = [
       {
         "prompt": "How should uncertainty be presented?",
         "options": [
-          "State limitations openly",
           "Present assumptions as facts",
+          "State limitations openly",
           "Omit unknown information"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Limitations should be stated clearly."
       }
     ]
