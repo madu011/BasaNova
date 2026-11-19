@@ -2,9 +2,9 @@
 export const SERBIAN_C1_LESSONS = [
   {
     "id": "sr-c1-l1",
-    "unit": "C1 · Суптилне нијансе и регистар",
-    "title": "C1 · 1 · Суптилне нијансе и регистар",
-    "objective": "Изабрати природан и прикладан израз у формалном и неформалном разговору.",
+    "unit": "C1 · Suptilne nijanse i registar",
+    "title": "C1 · 1 · Suptilne nijanse i registar",
+    "objective": "Izabrati prirodan i prikladan izraz u formalnom i neformalnom razgovoru.",
     "vocabulary": [
       {
         "word": "nijansa",
@@ -63,8 +63,8 @@ export const SERBIAN_C1_LESSONS = [
         "translation": "වඩා පැහැදිලි වචන ගැළපීමක් යෝජනා කරන්න."
       }
     ],
-    "grammarTitle": "Граматика и стил",
-    "grammar": "У формалном контексту користите прецизне и неутралне изразе. У неформалном разговору могу бити природнији краћи и непосреднији облици.",
+    "grammarTitle": "Gramatika i stil",
+    "grammar": "U formalnom kontekstu koristite precizne i neutralne izraze. U neformalnom razgovoru mogu biti prirodniji kraći i neposredniji oblici.",
     "examples": [
       {
         "sr": "U ovom kontekstu, izraz nije sasvim prikladan.",
@@ -110,36 +110,36 @@ export const SERBIAN_C1_LESSONS = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Послушајте и изаберите тачно значење: Izraz nije sasvim prikladan.",
+      "prompt": "Poslušajte i izaberite tačno značenje: Izraz nije sasvim prikladan.",
       "audio": "Izraz nije sasvim prikladan.",
       "reading": "ඉස්රාස් නියේ සාස්විම් ප්‍රික්ලාදාන්.",
       "options": [
-        "ප්‍රකාශය සම්පූර්ණයෙන් සුදුසු නැත.",
         "මෙම ප්‍රකාශය සම්පූර්ණයෙන් සුදුසු නැත.",
-        "Ниједан одговор није тачан."
+        "ප්‍රකාශය සම්පූර්ණයෙන් සුදුසු නැත.",
+        "Nijedan odgovor nije tačan."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "„සූක්ෂ්ම වෙනස“ සඳහා නිවැරදි වචනය?",
         "options": [
-          "nijansa",
           "registar",
+          "nijansa",
           "naglasak"
         ],
-        "answer": 0,
-        "explanation": "nijansa — исправан одговор"
+        "answer": 1,
+        "explanation": "nijansa — ispravan odgovor"
       },
       {
         "prompt": "විධිමත් වාර්තාවකට වඩා සුදුසු වන්නේ?",
         "options": [
-          "precizna formulacija",
           "sleng",
-          "dvosmislen izraz"
+          "dvosmislen izraz",
+          "precizna formulacija"
         ],
-        "answer": 0,
-        "explanation": "precizna formulacija — исправан одговор"
+        "answer": 2,
+        "explanation": "precizna formulacija — ispravan odgovor"
       },
       {
         "prompt": "„සංයමයෙන්“ යන්න?",
@@ -149,25 +149,25 @@ export const SERBIAN_C1_LESSONS = [
           "nejasno"
         ],
         "answer": 0,
-        "explanation": "uzdržano — исправан одговор"
+        "explanation": "uzdržano — ispravan odgovor"
       },
       {
         "prompt": "වාක්‍යයක් අර්ථ දෙකක් ඇති නම්?",
         "options": [
-          "dvosmisleno",
           "precizno",
+          "dvosmisleno",
           "prikladno"
         ],
-        "answer": 0,
-        "explanation": "dvosmisleno — исправан одговор"
+        "answer": 1,
+        "explanation": "dvosmisleno — ispravan odgovor"
       }
     ]
   },
   {
     "id": "sr-c1-l2",
-    "unit": "C1 · Сажети извештаји и резимеи",
-    "title": "C1 · 2 · Сажети извештаји и резимеи",
-    "objective": "Сложене информације сажети без губитка кључних чињеница.",
+    "unit": "C1 · Sažeti izveštaji i rezimei",
+    "title": "C1 · 2 · Sažeti izveštaji i rezimei",
+    "objective": "Složene informacije sažeti bez gubitka ključnih činjenica.",
     "vocabulary": [
       {
         "word": "sažetak",
@@ -226,8 +226,8 @@ export const SERBIAN_C1_LESSONS = [
         "translation": "කෙටි සමාලෝචනයක් සකස් කරන්න."
       }
     ],
-    "grammarTitle": "Граматика и стил",
-    "grammar": "Резиме организујте око циља, кључних налаза и закључка. Изоставите споредне детаље, али не мењајте значење извора.",
+    "grammarTitle": "Gramatika i stil",
+    "grammar": "Rezime organizujte oko cilja, ključnih nalaza i zaključka. Izostavite sporedne detalje, ali ne menjajte značenje izvora.",
     "examples": [
       {
         "sr": "Ukratko, rezultati potvrđuju početnu pretpostavku.",
@@ -273,36 +273,36 @@ export const SERBIAN_C1_LESSONS = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Послушајте и изаберите тачно значење: Glavni nalaz je potvrđen.",
+      "prompt": "Poslušajte i izaberite tačno značenje: Glavni nalaz je potvrđen.",
       "audio": "Glavni nalaz je potvrđen.",
       "reading": "ග්ලාව්නි නාලාස් යේ පොත්ව්ර්ජෙන්.",
       "options": [
-        "ප්‍රධාන සොයාගැනීම තහවුරු විය.",
         "ප්‍රධාන සොයාගැනීම තවමත් තහවුරු කර නැත.",
-        "Ниједан одговор није тачан."
+        "Nijedan odgovor nije tačan.",
+        "ප්‍රධාන සොයාගැනීම තහවුරු විය."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "„සාරාංශය“ යන්න?",
         "options": [
-          "sažetak",
           "obim",
+          "sažetak",
           "prilog"
         ],
-        "answer": 0,
-        "explanation": "sažetak — исправан одговор"
+        "answer": 1,
+        "explanation": "sažetak — ispravan odgovor"
       },
       {
         "prompt": "ප්‍රධාන කරුණු තෝරා දැක්වීම?",
         "options": [
-          "izdvojiti",
           "izostaviti",
-          "proširiti"
+          "proširiti",
+          "izdvojiti"
         ],
-        "answer": 0,
-        "explanation": "izdvojiti — исправан одговор"
+        "answer": 2,
+        "explanation": "izdvojiti — ispravan odgovor"
       },
       {
         "prompt": "නිගමනයට සාක්ෂි අවශ්‍ය නම්?",
@@ -312,25 +312,25 @@ export const SERBIAN_C1_LESSONS = [
           "ukras"
         ],
         "answer": 0,
-        "explanation": "potkrepljenje — исправан одговор"
+        "explanation": "potkrepljenje — ispravan odgovor"
       },
       {
         "prompt": "සාරාංශයක අරමුණ?",
         "options": [
-          "ključne informacije",
           "svi sporedni detalji",
+          "ključne informacije",
           "lična nagađanja"
         ],
-        "answer": 0,
-        "explanation": "ključne informacije — исправан одговор"
+        "answer": 1,
+        "explanation": "ključne informacije — ispravan odgovor"
       }
     ]
   },
   {
     "id": "sr-c1-l3",
-    "unit": "C1 · Академски семинари и аргументација",
-    "title": "C1 · 3 · Академски семинари и аргументација",
-    "objective": "Учествовати у академској расправи, квалификовати тврдње и тражити доказе.",
+    "unit": "C1 · Akademski seminari i argumentacija",
+    "title": "C1 · 3 · Akademski seminari i argumentacija",
+    "objective": "Učestvovati u akademskoj raspravi, kvalifikovati tvrdnje i tražiti dokaze.",
     "vocabulary": [
       {
         "word": "hipoteza",
@@ -389,8 +389,8 @@ export const SERBIAN_C1_LESSONS = [
         "translation": "කාර්යය සැලකිය යුතු දායකත්වයක් සපයයි."
       }
     ],
-    "grammarTitle": "Граматика и стил",
-    "grammar": "У академском говору разликујте доказ, претпоставку и тумачење. Користите ограде као „moguće je“, „izgleda da“ и „na osnovu uzorka“ када докази нису коначни.",
+    "grammarTitle": "Gramatika i stil",
+    "grammar": "U akademskom govoru razlikujte dokaz, pretpostavku i tumačenje. Koristite ograde kao „moguće je“, „izgleda da“ i „na osnovu uzorka“ kada dokazi nisu konačni.",
     "examples": [
       {
         "sr": "Ovi podaci ukazuju na moguću povezanost.",
@@ -436,13 +436,13 @@ export const SERBIAN_C1_LESSONS = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Послушајте и изаберите тачно значење: Korelacija ne dokazuje uzročnost.",
+      "prompt": "Poslušajte i izaberite tačno značenje: Korelacija ne dokazuje uzročnost.",
       "audio": "Korelacija ne dokazuje uzročnost.",
       "reading": "කොරෙලාත්සියා නෙ දොකාසුයෙ උස්‍රොච්නොස්ත්.",
       "options": [
         "සහසම්බන්ධතාව හේතුකාරකත්වය සනාථ නොකරයි.",
         "සහසම්බන්ධතාව හේතුකාරකත්වය සනාථ කරයි.",
-        "Ниједан одговор није тачан."
+        "Nijedan odgovor nije tačan."
       ],
       "answer": 0
     },
@@ -450,22 +450,22 @@ export const SERBIAN_C1_LESSONS = [
       {
         "prompt": "„උපකල්පනය“?",
         "options": [
-          "hipoteza",
           "zaključak",
+          "hipoteza",
           "uzorak"
         ],
-        "answer": 0,
-        "explanation": "hipoteza — исправан одговор"
+        "answer": 1,
+        "explanation": "hipoteza — ispravan odgovor"
       },
       {
         "prompt": "සහසම්බන්ධතාව සනාථ නොකරන්නේ?",
         "options": [
-          "uzročnost",
           "metodologija",
-          "doprinos"
+          "doprinos",
+          "uzročnost"
         ],
-        "answer": 0,
-        "explanation": "uzročnost — исправан одговор"
+        "answer": 2,
+        "explanation": "uzročnost — ispravan odgovor"
       },
       {
         "prompt": "ප්‍රතිඵල විග්‍රහ කළ යුත්තේ?",
@@ -475,25 +475,25 @@ export const SERBIAN_C1_LESSONS = [
           "bez dokaza"
         ],
         "answer": 0,
-        "explanation": "oprezno — исправан одговор"
+        "explanation": "oprezno — ispravan odgovor"
       },
       {
         "prompt": "පර්යේෂණ ක්‍රමය?",
         "options": [
-          "metodologija",
           "korelacija",
+          "metodologija",
           "ograničenje"
         ],
-        "answer": 0,
-        "explanation": "metodologija — исправан одговор"
+        "answer": 1,
+        "explanation": "metodologija — ispravan odgovor"
       }
     ]
   },
   {
     "id": "sr-c1-l4",
-    "unit": "C1 · Метафоре и устаљени изрази",
-    "title": "C1 · 4 · Метафоре и устаљени изрази",
-    "objective": "Препознати пренесено значење и употребити идиоме природно.",
+    "unit": "C1 · Metafore i ustaljeni izrazi",
+    "title": "C1 · 4 · Metafore i ustaljeni izrazi",
+    "objective": "Prepoznati preneseno značenje i upotrebiti idiome prirodno.",
     "vocabulary": [
       {
         "word": "metafora",
@@ -552,8 +552,8 @@ export const SERBIAN_C1_LESSONS = [
         "translation": "ප්‍රකාශය ප්‍රබල හැඟීමක් ගෙන යයි."
       }
     ],
-    "grammarTitle": "Граматика и стил",
-    "grammar": "Значење идиома често није збир значења појединачних речи. Проверите контекст, тон и културну прикладност пре употребе.",
+    "grammarTitle": "Gramatika i stil",
+    "grammar": "Značenje idioma često nije zbir značenja pojedinačnih reči. Proverite kontekst, ton i kulturnu prikladnost pre upotrebe.",
     "examples": [
       {
         "sr": "To je samo vrh ledenog brega.",
@@ -599,36 +599,36 @@ export const SERBIAN_C1_LESSONS = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Послушајте и изаберите тачно значење: Nemojte izraz shvatiti doslovno.",
+      "prompt": "Poslušajte i izaberite tačno značenje: Nemojte izraz shvatiti doslovno.",
       "audio": "Nemojte izraz shvatiti doslovno.",
       "reading": "නෙමොයිතෙ ඉස්රාස් ෂ්වතිති දොස්ලොව්නො.",
       "options": [
-        "ප්‍රකාශය වචනාර්ථයෙන් නොගන්න.",
         "ප්‍රකාශය වචනාර්ථයෙන්ම ගන්න.",
-        "Ниједан одговор није тачан."
+        "ප්‍රකාශය වචනාර්ථයෙන් නොගන්න.",
+        "Nijedan odgovor nije tačan."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "වචනාර්ථයෙන් නොවන ප්‍රකාශය?",
         "options": [
-          "idiom",
           "broj",
+          "idiom",
           "datum"
         ],
-        "answer": 0,
-        "explanation": "idiom — исправан одговор"
+        "answer": 1,
+        "explanation": "idiom — ispravan odgovor"
       },
       {
         "prompt": "„vrh ledenog brega“ අදහස?",
         "options": [
-          "කුඩා කොටසක් පමණයි",
           "සම්පූර්ණ ගැටලුව",
-          "අයිස් කන්දක්"
+          "අයිස් කන්දක්",
+          "කුඩා කොටසක් පමණයි"
         ],
-        "answer": 0,
-        "explanation": "කුඩා කොටසක් පමණයි — исправан одговор"
+        "answer": 2,
+        "explanation": "කුඩා කොටසක් පමණයි — ispravan odgovor"
       },
       {
         "prompt": "අනුසම්බන්ධ අර්ථය?",
@@ -638,25 +638,25 @@ export const SERBIAN_C1_LESSONS = [
           "doslovno"
         ],
         "answer": 0,
-        "explanation": "konotacija — исправан одговор"
+        "explanation": "konotacija — ispravan odgovor"
       },
       {
         "prompt": "උපහාසය?",
         "options": [
-          "ironija",
           "metodologija",
+          "ironija",
           "sažetak"
         ],
-        "answer": 0,
-        "explanation": "ironija — исправан одговор"
+        "answer": 1,
+        "explanation": "ironija — ispravan odgovor"
       }
     ]
   },
   {
     "id": "sr-c1-l5",
-    "unit": "C1 · Дуга слушања и закључивање",
-    "title": "C1 · 5 · Дуга слушања и закључивање",
-    "objective": "Из дужег исказа издвојити став, тон, претпоставке и имплицитне закључке.",
+    "unit": "C1 · Duga slušanja i zaključivanje",
+    "title": "C1 · 5 · Duga slušanja i zaključivanje",
+    "objective": "Iz dužeg iskaza izdvojiti stav, ton, pretpostavke i implicitne zaključke.",
     "vocabulary": [
       {
         "word": "implikacija",
@@ -694,7 +694,7 @@ export const SERBIAN_C1_LESSONS = [
         "translation": "කථකයා වෙනසක් ගැන ඉඟි කරයි."
       },
       {
-        "word": "proturечnost",
+        "word": "proturečnost",
         "reading": "ප්‍රොතුර්ෙච්නොස්ත්",
         "meaning": "පරස්පරතාව",
         "example": "U tekstu postoji protivrečnost.",
@@ -715,8 +715,8 @@ export const SERBIAN_C1_LESSONS = [
         "translation": "තර්කය සම්පූර්ණයෙන් ඒත්තුගන්වන්නේ නැත."
       }
     ],
-    "grammarTitle": "Граматика и стил",
-    "grammar": "При слушању разликујте оно што је речено од онога што се подразумева. Обратите пажњу на паузе, нагласак, ограде и промене тона.",
+    "grammarTitle": "Gramatika i stil",
+    "grammar": "Pri slušanju razlikujte ono što je rečeno od onoga što se podrazumeva. Obratite pažnju na pauze, naglasak, ograde i promene tona.",
     "examples": [
       {
         "sr": "Govornik nije izneo direktan prigovor, ali je izrazio sumnju.",
@@ -762,36 +762,36 @@ export const SERBIAN_C1_LESSONS = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Послушајте и изаберите тачно значење: Iz tona možemo zaključiti da nije uveren.",
+      "prompt": "Poslušajte i izaberite tačno značenje: Iz tona možemo zaključiti da nije uveren.",
       "audio": "Iz tona možemo zaključiti da nije uveren.",
       "reading": "ඉස් තොනා මොෂෙමො සාක්ලුචිති දා නියේ උවෙරෙන්.",
       "options": [
-        "ස්වරයෙන් ඔහු ඒත්තු ගොස් නැති බව නිගමනය කළ හැක.",
         "කථකයා තවමත් ඒත්තු ගොස් නැති බවයි.",
-        "Ниједан одговор није тачан."
+        "Nijedan odgovor nije tačan.",
+        "ස්වරයෙන් ඔහු ඒත්තු ගොස් නැති බව නිගමනය කළ හැක."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "සෘජුව නොකියා අඟවන දෙය?",
         "options": [
-          "implikacija",
           "naslov",
+          "implikacija",
           "pauza"
         ],
-        "answer": 0,
-        "explanation": "implikacija — исправан одговор"
+        "answer": 1,
+        "explanation": "implikacija — ispravan odgovor"
       },
       {
         "prompt": "කථකයාගේ හඬේ හැඟීම?",
         "options": [
-          "ton",
           "uzorak",
-          "sažetak"
+          "sažetak",
+          "ton"
         ],
-        "answer": 0,
-        "explanation": "ton — исправан одговор"
+        "answer": 2,
+        "explanation": "ton — ispravan odgovor"
       },
       {
         "prompt": "සැඟවුණු පූර්ව අදහස?",
@@ -801,25 +801,25 @@ export const SERBIAN_C1_LESSONS = [
           "metafora"
         ],
         "answer": 0,
-        "explanation": "pretpostavka — исправан одговор"
+        "explanation": "pretpostavka — ispravan odgovor"
       },
       {
         "prompt": "කියූ දෙය හා අඟවන දෙය වෙනස්ද?",
         "options": [
-          "ඔව්",
           "නැහැ",
+          "ඔව්",
           "හැමවිටම එකමයි"
         ],
-        "answer": 0,
-        "explanation": "да — исправан одговор"
+        "answer": 1,
+        "explanation": "da — ispravan odgovor"
       }
     ]
   },
   {
     "id": "sr-c1-l6",
-    "unit": "C1 · Презентације и захтевна питања",
-    "title": "C1 · 6 · Презентације и захтевна питања",
-    "objective": "Излагати сложену тему и одговарати на критичка питања без губитка јасноће.",
+    "unit": "C1 · Prezentacije i zahtevna pitanja",
+    "title": "C1 · 6 · Prezentacije i zahtevna pitanja",
+    "objective": "Izlagati složenu temu i odgovarati na kritička pitanja bez gubitka jasnoće.",
     "vocabulary": [
       {
         "word": "izlaganje",
@@ -878,8 +878,8 @@ export const SERBIAN_C1_LESSONS = [
         "translation": "කෙටියෙන් පිළිතුරු දෙන්න."
       }
     ],
-    "grammarTitle": "Граматика и стил",
-    "grammar": "Почните главном тезом, затим наведите доказ и пример. На тешко питање одговорите структурисано: признајте ограничење, разјасните појам и образложите став.",
+    "grammarTitle": "Gramatika i stil",
+    "grammar": "Počnite glavnom tezom, zatim navedite dokaz i primer. Na teško pitanje odgovorite strukturisano: priznajte ograničenje, razjasnite pojam i obrazložite stav.",
     "examples": [
       {
         "sr": "Najpre ću predstaviti glavnu tezu.",
@@ -925,13 +925,13 @@ export const SERBIAN_C1_LESSONS = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Послушајте и изаберите тачно значење: To je opravdana rezerva; podaci su još ograničeni.",
+      "prompt": "Poslušajte i izaberite tačno značenje: To je opravdana rezerva; podaci su još ograničeni.",
       "audio": "To je opravdana rezerva; podaci su još ograničeni.",
       "reading": "තො යේ ඔප්‍රාව්දානා රෙසෙර්වා; පොදත්සි සු යොෂ් ඔග්‍රානීචෙනි.",
       "options": [
         "එය සාධාරණ සැකයකි; දත්ත තවම සීමිතය.",
         "දත්ත තවම සීමිත බැවින් එය සාධාරණ සැකයකි.",
-        "Ниједан одговор није тачан."
+        "Nijedan odgovor nije tačan."
       ],
       "answer": 0
     },
@@ -939,22 +939,22 @@ export const SERBIAN_C1_LESSONS = [
       {
         "prompt": "ප්‍රධාන තර්කය?",
         "options": [
-          "teza",
           "publika",
+          "teza",
           "dopuna"
         ],
-        "answer": 0,
-        "explanation": "teza — исправан одговор"
+        "answer": 1,
+        "explanation": "teza — ispravan odgovor"
       },
       {
         "prompt": "කෙටියෙන්?",
         "options": [
-          "sažeto",
           "dvosmisleno",
-          "uzdržano"
+          "uzdržano",
+          "sažeto"
         ],
-        "answer": 0,
-        "explanation": "sažeto — исправан одговор"
+        "answer": 2,
+        "explanation": "sažeto — ispravan odgovor"
       },
       {
         "prompt": "පෙර පිළිතුර පැහැදිලි කරන අතිරේකය?",
@@ -964,25 +964,25 @@ export const SERBIAN_C1_LESSONS = [
           "ton"
         ],
         "answer": 0,
-        "explanation": "dopuna — исправан одговор"
+        "explanation": "dopuna — ispravan odgovor"
       },
       {
         "prompt": "විවේචනයකට හොඳ ප්‍රතිචාරය?",
         "options": [
-          "පිළිගෙන සාක්ෂි සමඟ පැහැදිලි කිරීම",
           "මාතෘකාව මාරු කිරීම",
+          "පිළිගෙන සාක්ෂි සමඟ පැහැදිලි කිරීම",
           "ප්‍රශ්නය නොසලකා හැරීම"
         ],
-        "answer": 0,
-        "explanation": "පිළිගෙන සාක්ෂි සමඟ පැහැදිලි කිරීම — исправан одговор"
+        "answer": 1,
+        "explanation": "පිළිගෙන සාක්ෂි සමඟ පැහැදිලි කිරීම — ispravan odgovor"
       }
     ]
   },
   {
     "id": "sr-c1-l7",
-    "unit": "C1 · Уређивање и стилска доследност",
-    "title": "C1 · 7 · Уређивање и стилска доследност",
-    "objective": "Уочити стилске, логичке и граматичке недоследности и побољшати текст.",
+    "unit": "C1 · Uređivanje i stilska doslednost",
+    "title": "C1 · 7 · Uređivanje i stilska doslednost",
+    "objective": "Uočiti stilske, logičke i gramatičke nedoslednosti i poboljšati tekst.",
     "vocabulary": [
       {
         "word": "doslednost",
@@ -1041,8 +1041,8 @@ export const SERBIAN_C1_LESSONS = [
         "translation": "පාඨය භාෂාමය ලෙස නිවැරදි කළ යුතුය."
       }
     ],
-    "grammarTitle": "Граматика и стил",
-    "grammar": "Добар текст има доследну терминологију, логичан редослед и јасне прелазе. Уклоните понављања и проверите да свака тврдња има јасну везу са темом.",
+    "grammarTitle": "Gramatika i stil",
+    "grammar": "Dobar tekst ima doslednu terminologiju, logičan redosled i jasne prelaze. Uklonite ponavljanja i proverite da svaka tvrdnja ima jasnu vezu sa temom.",
     "examples": [
       {
         "sr": "Drugi pasus ponavlja već navedenu informaciju.",
@@ -1088,36 +1088,36 @@ export const SERBIAN_C1_LESSONS = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Послушајте и изаберите тачно значење: Terminologija mora ostati dosledna.",
+      "prompt": "Poslušajte i izaberite tačno značenje: Terminologija mora ostati dosledna.",
       "audio": "Terminologija mora ostati dosledna.",
       "reading": "තෙර්මින්ොලොගියා මොරා ඔස්තාති දොස්ලෙද්නා.",
       "options": [
-        "පාරිභාෂික භාවිතය අනුකූලව පැවතිය යුතුය.",
         "පාරිභාෂික වචන අඛණ්ඩව එකම අර්ථයෙන් භාවිත කළ යුතුය.",
-        "Ниједан одговор није тачан."
+        "පාරිභාෂික භාවිතය අනුකූලව පැවතිය යුතුය.",
+        "Nijedan odgovor nije tačan."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "අනුකූලතාව?",
         "options": [
-          "doslednost",
           "dvosmislica",
+          "doslednost",
           "suvišak"
         ],
-        "answer": 0,
-        "explanation": "doslednost — исправан одговор"
+        "answer": 1,
+        "explanation": "doslednost — ispravan odgovor"
       },
       {
         "prompt": "අදහස් සම්බන්ධතාව?",
         "options": [
-          "koherentnost",
           "ton",
-          "uzorak"
+          "uzorak",
+          "koherentnost"
         ],
-        "answer": 0,
-        "explanation": "koherentnost — исправан одговор"
+        "answer": 2,
+        "explanation": "koherentnost — ispravan odgovor"
       },
       {
         "prompt": "අනවශ්‍ය?",
@@ -1127,25 +1127,25 @@ export const SERBIAN_C1_LESSONS = [
           "precizan"
         ],
         "answer": 0,
-        "explanation": "suvišan — исправан одговор"
+        "explanation": "suvišan — ispravan odgovor"
       },
       {
         "prompt": "අවසන් භාෂා සංස්කරණය?",
         "options": [
-          "lektura",
           "prezentacija",
+          "lektura",
           "hipoteza"
         ],
-        "answer": 0,
-        "explanation": "lektura — исправан одговор"
+        "answer": 1,
+        "explanation": "lektura — ispravan odgovor"
       }
     ]
   },
   {
     "id": "sr-c1-l8",
-    "unit": "C1 · Политике и анализа последица",
-    "title": "C1 · 8 · Политике и анализа последица",
-    "objective": "Проценити предлог политике, интересне стране, ризике и нежељене последице.",
+    "unit": "C1 · Politike i analiza posledica",
+    "title": "C1 · 8 · Politike i analiza posledica",
+    "objective": "Proceniti predlog politike, interesne strane, rizike i neželjene posledice.",
     "vocabulary": [
       {
         "word": "mera",
@@ -1204,8 +1204,8 @@ export const SERBIAN_C1_LESSONS = [
         "translation": "බලපෑම් ඇගයීමක් අවශ්‍යය."
       }
     ],
-    "grammarTitle": "Граматика и стил",
-    "grammar": "При анализи политике одвојите циљ од инструмента. Упоредите краткорочне и дугорочне ефекте, интересе различитих страна и могуће нежељене последице.",
+    "grammarTitle": "Gramatika i stil",
+    "grammar": "Pri analizi politike odvojite cilj od instrumenta. Uporedite kratkoročne i dugoročne efekte, interese različitih strana i moguće neželjene posledice.",
     "examples": [
       {
         "sr": "Predlog je izvodljiv, ali zahteva dodatna sredstva.",
@@ -1251,36 +1251,36 @@ export const SERBIAN_C1_LESSONS = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Послушајте и изаберите тачно значење: Predlog je izvodljiv, ali zahteva dodatna sredstva.",
+      "prompt": "Poslušajte i izaberite tačno značenje: Predlog je izvodljiv, ali zahteva dodatna sredstva.",
       "audio": "Predlog je izvodljiv, ali zahteva dodatna sredstva.",
       "reading": "ප්‍රෙද්ලොග් යේ ඉස්වොද්ල්යීව්, අලි සාහ්තෙවා දොදාත්නා ස්‍රෙද්ස්ත්වා.",
       "options": [
-        "යෝජනාව ක්‍රියාත්මක කළ හැකි නමුත් අමතර සම්පත් අවශ්‍යය.",
         "යෝජනාව කළ හැකි නමුත් අමතර සම්පත් අවශ්‍යයි.",
-        "Ниједан одговор није тачан."
+        "Nijedan odgovor nije tačan.",
+        "යෝජනාව ක්‍රියාත්මක කළ හැකි නමුත් අමතර සම්පත් අවශ්‍යය."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "ක්‍රියාත්මක කළ හැකියාව?",
         "options": [
-          "izvodljivost",
           "posledica",
+          "izvodljivost",
           "trošak"
         ],
-        "answer": 0,
-        "explanation": "izvodljivost — исправан одговор"
+        "answer": 1,
+        "explanation": "izvodljivost — ispravan odgovor"
       },
       {
         "prompt": "ප්‍රතිවිපාකය?",
         "options": [
-          "posledica",
           "mera",
-          "korist"
+          "korist",
+          "posledica"
         ],
-        "answer": 0,
-        "explanation": "posledica — исправан одговор"
+        "answer": 2,
+        "explanation": "posledica — ispravan odgovor"
       },
       {
         "prompt": "අවදානම අඩු කිරීම?",
@@ -1290,25 +1290,25 @@ export const SERBIAN_C1_LESSONS = [
           "zanemariti"
         ],
         "answer": 0,
-        "explanation": "ublažiti — исправан одговор"
+        "explanation": "ublažiti — ispravan odgovor"
       },
       {
         "prompt": "ප්‍රතිපත්ති ඇගයීමේදී?",
         "options": [
-          "විවිධ පාර්ශ්ව හා බලපෑම් සලකා බැලීම",
           "එකම පාර්ශ්වය බැලීම",
+          "විවිධ පාර්ශ්ව හා බලපෑම් සලකා බැලීම",
           "සාක්ෂි නොසලකා හැරීම"
         ],
-        "answer": 0,
-        "explanation": "විවිධ පාර්ශ්ව හා බලපෑම් සලකා බැලීම — исправан одговор"
+        "answer": 1,
+        "explanation": "විවිධ පාර්ශ්ව හා බලපෑම් සලකා බැලීම — ispravan odgovor"
       }
     ]
   },
   {
     "id": "sr-c1-l9",
-    "unit": "C1 · Сложена професионална преписка",
-    "title": "C1 · 9 · Сложена професионална преписка",
-    "objective": "Саставити дипломатичне поруке, одговоре и образложене захтеве.",
+    "unit": "C1 · Složena profesionalna prepiska",
+    "title": "C1 · 9 · Složena profesionalna prepiska",
+    "objective": "Sastaviti diplomatične poruke, odgovore i obrazložene zahteve.",
     "vocabulary": [
       {
         "word": "prepiska",
@@ -1367,8 +1367,8 @@ export const SERBIAN_C1_LESSONS = [
         "translation": "ඔබගේ තහවුරු කිරීම බලාපොරොත්තු වෙමු."
       }
     ],
-    "grammarTitle": "Граматика и стил",
-    "grammar": "У професионалној преписци наведите сврху, релевантне чињенице и јасан следећи корак. Неслагање изразите учтиво и понудите решење.",
+    "grammarTitle": "Gramatika i stil",
+    "grammar": "U profesionalnoj prepisci navedite svrhu, relevantne činjenice i jasan sledeći korak. Neslaganje izrazite učtivo i ponudite rešenje.",
     "examples": [
       {
         "sr": "Zahvaljujem na detaljnom obrazloženju.",
@@ -1414,13 +1414,13 @@ export const SERBIAN_C1_LESSONS = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Послушајте и изаберите тачно значење: U prilogu dostavljam revidiranu verziju.",
+      "prompt": "Poslušajte i izaberite tačno značenje: U prilogu dostavljam revidiranu verziju.",
       "audio": "U prilogu dostavljam revidiranu verziju.",
       "reading": "උ ප්‍රිලොගු දොස්තාව්ල්යාම් රෙවිදිරානු වෙර්සියු.",
       "options": [
         "සංශෝධිත පිටපත ඇමුණුමෙන් එවමි.",
         "සංශෝධිත පිටපත වෙනම තැපෑලකින් එවමි.",
-        "Ниједан одговор није тачан."
+        "Nijedan odgovor nije tačan."
       ],
       "answer": 0
     },
@@ -1428,22 +1428,22 @@ export const SERBIAN_C1_LESSONS = [
       {
         "prompt": "ලිපි හුවමාරුව?",
         "options": [
-          "prepiska",
           "prilog",
+          "prepiska",
           "rok"
         ],
-        "answer": 0,
-        "explanation": "prepiska — исправан одговор"
+        "answer": 1,
+        "explanation": "prepiska — ispravan odgovor"
       },
       {
         "prompt": "හේතු සහිතව පැහැදිලි කරන්න?",
         "options": [
-          "obrazložiti",
           "odložiti",
-          "potvrditi"
+          "potvrditi",
+          "obrazložiti"
         ],
-        "answer": 0,
-        "explanation": "obrazložiti — исправан одговор"
+        "answer": 2,
+        "explanation": "obrazložiti — ispravan odgovor"
       },
       {
         "prompt": "කාලසීමාව?",
@@ -1453,25 +1453,25 @@ export const SERBIAN_C1_LESSONS = [
           "potvrda"
         ],
         "answer": 0,
-        "explanation": "rok — исправан одговор"
+        "explanation": "rok — ispravan odgovor"
       },
       {
         "prompt": "මෘදු/රාජ්‍යතාන්ත්‍රික පිළිතුර?",
         "options": [
-          "diplomatičan",
           "dvosmislen",
+          "diplomatičan",
           "nepristojan"
         ],
-        "answer": 0,
-        "explanation": "diplomatičan — исправан одговор"
+        "answer": 1,
+        "explanation": "diplomatičan — ispravan odgovor"
       }
     ]
   },
   {
     "id": "sr-c1-l10",
-    "unit": "C1 · Интегрисана C1 комуникација",
-    "title": "C1 · 10 · Интегрисана C1 комуникација",
-    "objective": "Повезати слушање, говор, читање и писање у захтевном професионалном задатку.",
+    "unit": "C1 · Integrisana C1 komunikacija",
+    "title": "C1 · 10 · Integrisana C1 komunikacija",
+    "objective": "Povezati slušanje, govor, čitanje i pisanje u zahtevnom profesionalnom zadatku.",
     "vocabulary": [
       {
         "word": "integrisati",
@@ -1530,8 +1530,8 @@ export const SERBIAN_C1_LESSONS = [
         "translation": "සමස්ත සමාලෝචනයක් සකස් කරන්න."
       }
     ],
-    "grammarTitle": "Граматика и стил",
-    "grammar": "На C1 нивоу повежите изворе, процените поузданост и прилагодите регистар публици. Закључак треба да буде нијансиран, јасан и поткрепљен доказима.",
+    "grammarTitle": "Gramatika i stil",
+    "grammar": "Na C1 nivou povežite izvore, procenite pouzdanost i prilagodite registar publici. Zaključak treba da bude nijansiran, jasan i potkrepljen dokazima.",
     "examples": [
       {
         "sr": "Sinteza izvora otkriva nekoliko zajedničkih obrazaca.",
@@ -1577,36 +1577,36 @@ export const SERBIAN_C1_LESSONS = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Послушајте и изаберите тачно значење: Zaključak je nijansiran, ali jasno potkrepljen.",
+      "prompt": "Poslušajte i izaberite tačno značenje: Zaključak je nijansiran, ali jasno potkrepljen.",
       "audio": "Zaključak je nijansiran, ali jasno potkrepljen.",
       "reading": "සාක්ලුචාක් යේ න්‍යිආන්සිරාන්, අලි යාස්නො පොත්ක්‍රෙප්ල්යෙන්.",
       "options": [
-        "නිගමනය සියුම් නමුත් පැහැදිලි සාක්ෂි සහිතය.",
         "නිගමනයට සූක්ෂ්ම අර්ථයක් තිබුණත් එය සාක්ෂි සහිතය.",
-        "Ниједан одговор није тачан."
+        "නිගමනය සියුම් නමුත් පැහැදිලි සාක්ෂි සහිතය.",
+        "Nijedan odgovor nije tačan."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "සංශ්ලේෂණය?",
         "options": [
-          "sinteza",
           "izolacija",
+          "sinteza",
           "pauza"
         ],
-        "answer": 0,
-        "explanation": "sinteza — исправан одговор"
+        "answer": 1,
+        "explanation": "sinteza — ispravan odgovor"
       },
       {
         "prompt": "සූක්ෂ්ම වෙනස්කම් සහිත?",
         "options": [
-          "nijansiran",
           "doslovan",
-          "površan"
+          "površan",
+          "nijansiran"
         ],
-        "answer": 0,
-        "explanation": "nijansiran — исправан одговор"
+        "answer": 2,
+        "explanation": "nijansiran — ispravan odgovor"
       },
       {
         "prompt": "ඒත්තුගන්වන ලෙස?",
@@ -1616,17 +1616,17 @@ export const SERBIAN_C1_LESSONS = [
           "nejasno"
         ],
         "answer": 0,
-        "explanation": "uverljivo — исправан одговор"
+        "explanation": "uverljivo — ispravan odgovor"
       },
       {
         "prompt": "C1 සන්නිවේදනයේ වැදගත් දේ?",
         "options": [
-          "සාක්ෂි සහිත, ගැළපෙන හා සූක්ෂ්ම භාෂාව",
           "වචන කටපාඩම් කිරීම පමණක්",
+          "සාක්ෂි සහිත, ගැළපෙන හා සූක්ෂ්ම භාෂාව",
           "සන්දර්භය නොසලකා හැරීම"
         ],
-        "answer": 0,
-        "explanation": "සාක්ෂි සහිත, ගැළපෙන හා සූක්ෂ්ම භාෂාව — исправан одговор"
+        "answer": 1,
+        "explanation": "සාක්ෂි සහිත, ගැළපෙන හා සූක්ෂ්ම භාෂාව — ispravan odgovor"
       }
     ]
   }
