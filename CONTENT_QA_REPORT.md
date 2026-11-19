@@ -48,3 +48,10 @@ GitHub Actions Android debug APK build run [44552002628](https://github.com/madu
 - Re-scanned lesson modules A1–C2 and A1–C1 exam modules: 3,194 detected option arrays had no repeated option strings and no answer index outside the options array. C2 final exam has a different structure and needs a dedicated schema-aware audit.
 - Fixed B1 named export mismatch with App.js; all imported module names inspected against the App.js named imports now match.
 - These checks are static source validation only, not live app UI, audio, device, or build tests. Current-main CI reruns still fail before runner assignment (`runner_id: 0`, no steps); no current-main APK is available or verified.
+
+
+## 2026-11-19 follow-up — Body-parts vocabulary pack 13
+- Added and integrated 51 Serbian + 51 English anatomy/body-part entries with Sinhala meanings, approximate Sinhala-script readings, examples and translations.
+- Automated static checks passed: required fields complete for all 102 records; no duplicate headwords per language; Sinhala script present in every pronunciation field; App imports and both course integrations confirmed.
+- Runtime validation remains blocked: latest Expo run `44577584279` and Android APK run `44577584617` failed before usable step logs; job log retrieval returned 404 BlobNotFound. Repeated earlier job records indicate runner assignment failure rather than a demonstrated source-code error. No current-main APK artifact is verified.
+- This is not native-speaker linguistic QA or physical-device testing. Pronunciation readings are approximate.
