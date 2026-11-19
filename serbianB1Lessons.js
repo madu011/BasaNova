@@ -3033,67 +3033,67 @@ const serbianB1Lessons = [
     "vocabulary": [
       {
         "word": "recycling",
-        "reading": "රෙත්සික්ලාෂා",
+        "reading": "reciklaža",
         "meaning": "ප්‍රතිචක්‍රීකරණය",
-        "example": "Javni prevoz je često održiviji izbor od automobila.",
-        "translation": "පෞද්ගලික මෝටර් රථයට වඩා පොදු ප්‍රවාහනය බොහෝවිට තිරසාර තේරීමක්.",
-        "exampleReading": "පෞද්ගලික මෝටර් රථයට වඩා පොදු ප්‍රවාහනය බොහෝවිට තිරසාර තේරීමක්."
+        "example": "Reciklaža papira smanjuje količinu otpada.",
+        "translation": "කඩදාසි ප්‍රතිචක්‍රීකරණය කිරීමෙන් අපද්‍රව්‍ය ප්‍රමාණය අඩු වෙනවා.",
+        "exampleReading": "රෙත්සිකලාෂා папира ස්මාඤුයේ කොලිචину ඔත්පාදා."
       },
       {
         "word": "waste",
-        "reading": "ඔත්පාද්",
+        "reading": "otpad",
         "meaning": "අපද්‍රව්‍ය",
-        "example": "Ako smanjimo otpad, čuvamo prirodne resurse.",
-        "translation": "අපද්‍රව්‍ය අඩු කළොත් ස්වභාවික සම්පත් ආරක්ෂා කරනවා.",
-        "exampleReading": "අපද්‍රව්‍ය අඩු කළොත් ස්වභාවික සම්පත් ආරක්ෂා කරනවා."
+        "example": "Odvajamo otpad u posebne kontejnere.",
+        "translation": "අපි අපද්‍රව්‍ය වෙන වෙනම බඳුන්වලට වෙන් කරනවා.",
+        "exampleReading": "ඔද්වායામො ඔත්පාද් උ පොසෙබ්නෙ කොන්තෙයිනෙරෙ."
       },
       {
         "word": "resource",
-        "reading": "රෙසුර්ස්",
+        "reading": "resurs",
         "meaning": "සම්පත",
-        "example": "Važno je da unapred razmotrimo sve mogućnosti.",
-        "translation": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද උනප්‍රෙද් රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "Čista voda je važan prirodni resurs.",
+        "translation": "පිරිසිදු ජලය වැදගත් ස්වභාවික සම්පතක්.",
+        "exampleReading": "චිස්තා වොදා යෙ වාෂාන් ප්‍රිරොද්නි රෙසුර්ස්."
       },
       {
         "word": "energy",
-        "reading": "එනෙර්ගියා",
+        "reading": "energija",
         "meaning": "ශක්තිය",
-        "example": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
-        "translation": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා.",
-        "exampleReading": "නා ක්‍රායු චෙමො ඉස්සාබ්‍රාති රෙෂෙන්යේ කොයෙ නායිවිෂෙ ඔද්ගොවාරා ස්විමා."
+        "example": "Solarni paneli proizvode energiju iz sunčeve svetlosti.",
+        "translation": "සූර්ය පැනල හිරු එළියෙන් ශක්තිය නිපදවනවා.",
+        "exampleReading": "සොලාර්නි පැනෙලි ප්‍රොයිස්වොදෙ එනෙර්ගියු ඉස් සුන්චෙවෙ ස්වෙත්ලොස්ති."
       },
       {
         "word": "pollution",
-        "reading": "සාගාජෙන්යේ",
+        "reading": "zagađenje",
         "meaning": "දූෂණය",
-        "example": "Javni prevoz je često održiviji izbor od automobila.",
-        "translation": "පෞද්ගලික මෝටර් රථයට වඩා පොදු ප්‍රවාහනය බොහෝවිට තිරසාර තේරීමක්.",
-        "exampleReading": "පෞද්ගලික මෝටර් රථයට වඩා පොදු ප්‍රවාහනය බොහෝවිට තිරසාර තේරීමක්."
+        "example": "Zagađenje vazduha može da utiče na zdravlje.",
+        "translation": "වායු දූෂණය සෞඛ්‍යයට බලපාන්න පුළුවන්.",
+        "exampleReading": "සාගාජෙඤෙ වාස්දුහා මොෂෙ දා උතිචෙ නා ස්ද්‍රාව්ලයෙ."
       },
       {
         "word": "reusable",
-        "reading": "සා විෂෙක්‍රාත්නු උපොත්‍රෙබු",
+        "reading": "za višekratnu upotrebu",
         "meaning": "නැවත භාවිත කළ හැකි",
-        "example": "Ako smanjimo otpad, čuvamo prirodne resurse.",
-        "translation": "අපද්‍රව්‍ය අඩු කළොත් ස්වභාවික සම්පත් ආරක්ෂා කරනවා.",
-        "exampleReading": "අපද්‍රව්‍ය අඩු කළොත් ස්වභාවික සම්පත් ආරක්ෂා කරනවා."
+        "example": "Koristim bocu za višekratnu upotrebu umesto plastičnih flaša.",
+        "translation": "ප්ලාස්ටික් බෝතල් වෙනුවට මම නැවත භාවිත කළ හැකි බෝතලයක් භාවිත කරනවා.",
+        "exampleReading": "කොරистිම් боцу за вишекратну употребу уместо пластичних флаша."
       },
       {
         "word": "public transport",
-        "reading": "යාව්නි ප්‍රෙවොස්",
+        "reading": "javni prevoz",
         "meaning": "පොදු ප්‍රවාහනය",
-        "example": "Važno je da unapred razmotrimo sve mogućnosti.",
-        "translation": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද උනප්‍රෙද් රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "Javni prevoz smanjuje broj automobila na ulicama.",
+        "translation": "පොදු ප්‍රවාහනය මාර්ගවල මෝටර් රථ සංඛ්‍යාව අඩු කරනවා.",
+        "exampleReading": "යාව්නි ප්‍රෙවොස් ස්මාඤුයේ බ්‍රොයි аутомобила на улицама."
       },
       {
         "word": "protect",
-        "reading": "සාෂ්තිති",
-        "meaning": "ආරක්ෂා කරනවා",
-        "example": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
-        "translation": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා.",
-        "exampleReading": "නා ක්‍රායු චෙමො ඉස්සාබ්‍රාති රෙෂෙන්යේ කොයෙ නායිවිෂෙ ඔද්ගොවාරා ස්විමා."
+        "reading": "zaštititi",
+        "meaning": "ආරක්ෂා කරන්න",
+        "example": "Moramo zaštititi šume za buduće generacije.",
+        "translation": "අනාගත පරම්පරාවන් වෙනුවෙන් අපි වනාන්තර ආරක්ෂා කළ යුතුයි.",
+        "exampleReading": "මොරામො සාෂ්තිති ෂුමෙ සා බුදුචෙ ජෙනෙරාත්සියේ."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -3211,67 +3211,67 @@ const serbianB1Lessons = [
     "vocabulary": [
       {
         "word": "cause",
-        "reading": "උස්‍රොක්",
+        "reading": "uzrok",
         "meaning": "හේතුව",
-        "example": "Zbog jake kiše, utakmica je odložena.",
-        "translation": "තද වැස්ස නිසා තරගය කල් දැමුවා.",
-        "exampleReading": "තද වැස්ස නිසා තරගය කල් දැමුවා."
+        "example": "Nedostatak sna može biti uzrok umora.",
+        "translation": "නින්ද නොමැතිවීම වෙහෙසට හේතුවක් විය හැකියි.",
+        "exampleReading": "නෙදොස්තාතාක් ස්නා මොෂෙ බිති උස්‍රොක් උමොරා."
       },
       {
         "word": "effect",
-        "reading": "එෆෙකාත්",
-        "meaning": "බලපෑම",
-        "example": "Nije bilo dovoljno vremena, zato smo promenili plan.",
-        "translation": "ප්‍රමාණවත් කාලයක් නොතිබූ නිසා අපි සැලැස්ම වෙනස් කළා.",
-        "exampleReading": "ප්‍රමාණවත් කාලයක් නොතිබූ නිසා අපි සැලැස්ම වෙනස් කළා."
+        "reading": "efekat",
+        "meaning": "බලපෑම / ප්‍රතිඵලය",
+        "example": "Efekat nove mere bio je vidljiv već posle mesec dana.",
+        "translation": "නව ක්‍රියාමාර්ගයේ බලපෑම මාසයකට පසුවම පෙනුණා.",
+        "exampleReading": "එෆෙකාත් නෝවෙ මෙරෙ බියෝ යෙ විද්ල්යිව් වෙච් පොස්ලෙ මෙසෙත් දාන."
       },
       {
         "word": "consequence",
-        "reading": "පොස්ලෙදිත්සා",
-        "meaning": "ප්‍රතිඵලය",
-        "example": "Važno je da unapred razmotrimo sve mogućnosti.",
-        "translation": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද උනප්‍රෙද් රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "reading": "posledica",
+        "meaning": "ප්‍රතිවිපාකය",
+        "example": "Jedna posledica kašnjenja bila je propuštena veza.",
+        "translation": "ප්‍රමාදයේ එක් ප්‍රතිවිපාකයක් වූයේ සම්බන්ධිත ගමන මඟහැරීමයි.",
+        "exampleReading": "යෙද්නා පොස්ලෙදිත්සා කාෂ්ඤෙඤා බිලා යෙ ප්‍රොපුෂ්තෙනා වෙසා."
       },
       {
         "word": "therefore",
-        "reading": "සාතො",
-        "meaning": "එබැවින්",
-        "example": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
-        "translation": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා.",
-        "exampleReading": "නා ක්‍රායු චෙමො ඉස්සාබ්‍රාති රෙෂෙන්යේ කොයෙ නායිවිෂෙ ඔද්ගොවාරා ස්විමා."
+        "reading": "zato",
+        "meaning": "ඒ නිසා",
+        "example": "Autobus kasni, zato ćemo uzeti taksi.",
+        "translation": "බස් රථය ප්‍රමාදයි, ඒ නිසා අපි ටැක්සියක් ගන්නවා.",
+        "exampleReading": "аутобус касни zato ćemo uzeti taksi."
       },
       {
         "word": "because of",
-        "reading": "ස්බොග්",
+        "reading": "zbog",
         "meaning": "නිසා",
-        "example": "Zbog jake kiše, utakmica je odložena.",
-        "translation": "තද වැස්ස නිසා තරගය කල් දැමුවා.",
-        "exampleReading": "තද වැස්ස නිසා තරගය කල් දැමුවා."
+        "example": "Zbog snega, put je bio zatvoren.",
+        "translation": "හිම නිසා මාර්ගය වසා තිබුණා.",
+        "exampleReading": "ස්බොග් ස්නෙගා පුත් යෙ බියෝ සාත්වොරෙන්."
       },
       {
         "word": "result",
-        "reading": "රෙසුල්තාත්",
+        "reading": "rezultat",
         "meaning": "ප්‍රතිඵලය",
-        "example": "Nije bilo dovoljno vremena, zato smo promenili plan.",
-        "translation": "ප්‍රමාණවත් කාලයක් නොතිබූ නිසා අපි සැලැස්ම වෙනස් කළා.",
-        "exampleReading": "ප්‍රමාණවත් කාලයක් නොතිබූ නිසා අපි සැලැස්ම වෙනස් කළා."
+        "example": "Rezultat ankete pokazao je veću podršku projektu.",
+        "translation": "සමීක්ෂණයේ ප්‍රතිඵලයෙන් ව්‍යාපෘතියට වැඩි සහායක් ඇති බව පෙන්වුණා.",
+        "exampleReading": "රෙසුල්තාත් анкете показао је већу подршку пројекту."
       },
       {
         "word": "increase",
-        "reading": "පොවෙචාති",
-        "meaning": "වැඩි කරනවා",
-        "example": "Važno je da unapred razmotrimo sve mogućnosti.",
-        "translation": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද උනප්‍රෙද් රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "reading": "povećati",
+        "meaning": "වැඩි කරන්න",
+        "example": "Grad planira da poveća broj autobuskih linija.",
+        "translation": "නගරය බස් මාර්ග ගණන වැඩි කිරීමට සැලසුම් කරනවා.",
+        "exampleReading": "ග්‍රාද් ප්ලානිရာ දා පොවෙචා බ්‍රොයි автобuskih линија."
       },
       {
         "word": "reduce",
-        "reading": "ස්මාන්යිති",
-        "meaning": "අඩු කරනවා",
-        "example": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
-        "translation": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා.",
-        "exampleReading": "නා ක්‍රායු චෙමො ඉස්සාබ්‍රාති රෙෂෙන්යේ කොයෙ නායිවිෂෙ ඔද්ගොවාරා ස්විමා."
+        "reading": "smanjiti",
+        "meaning": "අඩු කරන්න",
+        "example": "Nova pravila treba da smanje potrošnju energije.",
+        "translation": "නව නීති මඟින් බලශක්ති පරිභෝජනය අඩු කළ යුතුයි.",
+        "exampleReading": "නෝවා ප්‍රාවිලා ත්‍රෙබා දා ස්මාඤෙ පොත්‍රොෂ්ඤු එනෙර්ගියේ."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -3389,67 +3389,67 @@ const serbianB1Lessons = [
     "vocabulary": [
       {
         "word": "advantage",
-        "reading": "ප්‍රෙද්නොස්ත්",
+        "reading": "prednost",
         "meaning": "වාසිය",
-        "example": "S jedne strane, ova opcija je jeftinija; s druge strane, sporija je.",
-        "translation": "එක් පැත්තකින් මේ විකල්පය ලාභයි; අනෙක් පැත්තෙන් එය මන්දගාමීයි.",
-        "exampleReading": "එක් පැත්තකින් මේ විකල්පය ලාභයි; අනෙක් පැත්තෙන් එය මන්දගාමීයි."
+        "example": "Glavna prednost ovog plana je niža cena.",
+        "translation": "මේ සැලැස්මේ ප්‍රධාන වාසිය අඩු මිලයි.",
+        "exampleReading": "ග්ලාව්නා ප්‍රෙද්නොස්ත් ඔවොග් ප්ලානා යෙ නිෂා ත්සෙනා."
       },
       {
         "word": "disadvantage",
-        "reading": "නෙදොස්තාතාක්",
+        "reading": "nedostatak",
         "meaning": "අවාසිය",
-        "example": "Po mom mišljenju, prednosti su veće od nedostataka.",
-        "translation": "මගේ අදහසට අනුව වාසි අවාසිවලට වඩා වැඩියි.",
-        "exampleReading": "මගේ අදහසට අනුව වාසි අවාසිවලට වඩා වැඩියි."
+        "example": "Najveći nedostatak je to što putovanje traje duže.",
+        "translation": "ලොකුම අවාසිය ගමනට වැඩි කාලයක් ගත වීමයි.",
+        "exampleReading": "නායිවෙචි නෙදොස්තාතාක් යෙ තො ෂ්තො පුතොවාඤෙ ත්‍රායෙ දුෂෙ."
       },
       {
         "word": "evidence",
-        "reading": "දොකාස්",
+        "reading": "dokaz",
         "meaning": "සාක්ෂිය",
-        "example": "Važno je da unapred razmotrimo sve mogućnosti.",
-        "translation": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද උනප්‍රෙද් රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "Za ovu tvrdnju potreban nam je pouzdan dokaz.",
+        "translation": "මේ ප්‍රකාශයට අපට විශ්වාසදායක සාක්ෂියක් අවශ්‍යයි.",
+        "exampleReading": "සා ඔවු ත්ව්ර්ද්ඤු පොත්‍රෙබන් නාම් යෙ පොවුස්දාන් දොකාස්."
       },
       {
         "word": "opinion",
-        "reading": "මිෂ්ල්යේන්යේ",
-        "meaning": "මතය",
-        "example": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
-        "translation": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා.",
-        "exampleReading": "නා ක්‍රායු චෙමො ඉස්සාබ්‍රාති රෙෂෙන්යේ කොයෙ නායිවිෂෙ ඔද්ගොවාරා ස්විමා."
+        "reading": "mišljenje",
+        "meaning": "අදහස",
+        "example": "Po mom mišljenju, javni prevoz treba poboljšati.",
+        "translation": "මගේ අදහස අනුව පොදු ප්‍රවාහනය වැඩිදියුණු කළ යුතුයි.",
+        "exampleReading": "පො මොම් මිෂ්ල්යෙඤු යාව්නි ප්‍රෙවොස් ත්‍රෙබා පොබොල්ය්ෂාති."
       },
       {
         "word": "argument",
-        "reading": "අර්ගුමෙන්ත්",
+        "reading": "argument",
         "meaning": "තර්කය",
-        "example": "S jedne strane, ova opcija je jeftinija; s druge strane, sporija je.",
-        "translation": "එක් පැත්තකින් මේ විකල්පය ලාභයි; අනෙක් පැත්තෙන් එය මන්දගාමීයි.",
-        "exampleReading": "එක් පැත්තකින් මේ විකල්පය ලාභයි; අනෙක් පැත්තෙන් එය මන්දගාමීයි."
+        "example": "Njegov argument je bio jasan i dobro potkrepljen.",
+        "translation": "ඔහුගේ තර්කය පැහැදිලි වූ අතර හොඳින් සාක්ෂි සහිතයි.",
+        "exampleReading": "ඤෙගොව් аргумент යෙ බියෝ යාසන් ඉ දොබ්‍රො පොත්ක්‍රෙප්ල්යෙන්."
       },
       {
         "word": "on the one hand",
-        "reading": "ස් යෙද්නෙ ස්ත්‍රානෙ",
+        "reading": "s jedne strane",
         "meaning": "එක් පැත්තකින්",
-        "example": "Po mom mišljenju, prednosti su veće od nedostataka.",
-        "translation": "මගේ අදහසට අනුව වාසි අවාසිවලට වඩා වැඩියි.",
-        "exampleReading": "මගේ අදහසට අනුව වාසි අවාසිවලට වඩා වැඩියි."
+        "example": "S jedne strane, posao je dobro plaćen.",
+        "translation": "එක් පැත්තකින් රැකියාවට හොඳ වැටුපක් ලැබෙනවා.",
+        "exampleReading": "ස් යෙද්නෙ ස්ත්‍රානෙ පොසාඕ යෙ දොබ්‍රො ප්ලාචෙන්."
       },
       {
         "word": "on the other hand",
-        "reading": "ස් ද්රුගෙ ස්ත්‍රානෙ",
+        "reading": "s druge strane",
         "meaning": "අනෙක් පැත්තෙන්",
-        "example": "Važno je da unapred razmotrimo sve mogućnosti.",
-        "translation": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද උනප්‍රෙද් රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "S druge strane, radno vreme je veoma dugo.",
+        "translation": "අනෙක් පැත්තෙන් වැඩ කරන කාලය ඉතා දිගුයි.",
+        "exampleReading": "ස් ද්‍රුගෙ ස්ත්‍රානෙ රාද්නො ව්‍රෙමෙ යෙ වෙඔමා දුගො."
       },
       {
         "word": "conclusion",
-        "reading": "සාක්ල්යුචාක්",
+        "reading": "zaključak",
         "meaning": "නිගමනය",
-        "example": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
-        "translation": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා.",
-        "exampleReading": "නා ක්‍රායු චෙමො ඉස්සාබ්‍රාති රෙෂෙන්යේ කොයෙ නායිවිෂෙ ඔද්ගොවාරා ස්විමා."
+        "example": "Na kraju izveštaja napisali smo kratak zaključak.",
+        "translation": "වාර්තාව අවසානයේ අපි කෙටි නිගමනයක් ලිව්වා.",
+        "exampleReading": "නා ක්‍රායු ඉස්වෙෂ්තායා නාписали смо kratак zaključak."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
