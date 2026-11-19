@@ -1967,65 +1967,65 @@ const englishB1Lessons = [
         "word": "strategy",
         "reading": "ස්ට්‍රැටජි",
         "meaning": "උපායමාර්ගය",
-        "example": "Regular revision helps us remember new words.",
-        "exampleReading": "රෙග්‍යුලර් රිවිෂන් හෙල්ප්ස් අස් රිමෙම්බර් න්‍යූ වර්ඩ්ස්.",
-        "translation": "නිතර නැවත අධ්‍යයනය කිරීම නව වචන මතක තබාගැනීමට උපකාරී වෙනවා."
+        "example": "My strategy is to learn ten new words every day.",
+        "exampleReading": "මයි ස්ට්‍රැටජි ඉස් ටු ලර්න් ටෙන් න්‍යූ වර්ඩ්ස් එව්රි ඩේ.",
+        "translation": "මගේ උපායමාර්ගය වන්නේ හැමදාම අලුත් වචන දහයක් ඉගෙන ගැනීමයි."
       },
       {
         "word": "revision",
         "reading": "රිවිෂන්",
         "meaning": "නැවත පුහුණුව",
-        "example": "Regular revision helps us remember new words.",
-        "exampleReading": "රෙග්‍යුලර් රිවිෂන් හෙල්ප්ස් අස් රිමෙම්බර් න්‍යූ වර්ඩ්ස්.",
-        "translation": "නිතර නැවත අධ්‍යයනය කිරීම නව වචන මතක තබාගැනීමට උපකාරී වෙනවා."
+        "example": "A short revision of the lesson helps me remember the material.",
+        "exampleReading": "අ ෂෝර්ට් රිවිෂන් ඔෆ් දි ලෙසන් හෙල්ප්ස් මී රිමෙම්බර් දි මටීරියල්.",
+        "translation": "පාඩම කෙටියෙන් නැවත අධ්‍යයනය කිරීමෙන් කරුණු මතක තබාගන්න මට උපකාරී වෙනවා."
       },
       {
         "word": "skill",
         "reading": "ස්කිල්",
         "meaning": "කුසලතාව",
-        "example": "It is important to consider every option in advance.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන් ඉන් ඇඩ්වාන්ස්.",
-        "translation": "සෑම විකල්පයක්ම කලින් සලකා බැලීම වැදගත්."
+        "example": "Practising conversations helps me develop my speaking skill.",
+        "exampleReading": "ප්‍රැක්ටිසිං කන්වර්සේෂන්ස් හෙල්ප්ස් මී ඩිවෙලප් මයි ස්පීකිං ස්කිල්.",
+        "translation": "සංවාද පුහුණුවෙන් මගේ කතා කිරීමේ කුසලතාව වර්ධනය කරගන්නවා."
       },
       {
         "word": "course",
         "reading": "කෝර්ස්",
         "meaning": "පාඨමාලාව",
-        "example": "In the end, we will choose the solution that works best for everyone.",
-        "exampleReading": "ඉන් දි එන්ඩ් වී විල් චූස් දි සලූෂන් දැට් වර්ක්ස් බෙස්ට් ෆෝ එව්රීවන්.",
-        "translation": "අවසානයේ හැමෝටම හොඳම විසඳුම තෝරනවා."
+        "example": "She enrolled in a Serbian course for beginners.",
+        "exampleReading": "ෂී එන්රෝල්ඩ් ඉන් අ සර්බියන් කෝර්ස් ෆෝ බිගිනර්ස්.",
+        "translation": "ඇය ආරම්භකයන් සඳහා සර්බියානු භාෂා පාඨමාලාවකට ලියාපදිංචි වුණා."
       },
       {
         "word": "goal",
         "reading": "ගෝල්",
         "meaning": "ඉලක්කය",
-        "example": "Regular revision helps us remember new words.",
-        "exampleReading": "රෙග්‍යුලර් රිවිෂන් හෙල්ප්ස් අස් රිමෙම්බර් න්‍යූ වර්ඩ්ස්.",
-        "translation": "නිතර නැවත අධ්‍යයනය කිරීම නව වචන මතක තබාගැනීමට උපකාරී වෙනවා."
+        "example": "My goal is to speak fluently by the end of the month.",
+        "exampleReading": "මයි ගෝල් ඉස් ටු ස්පීක් ෆ්ලූඅන්ට්ලි බයි දි එන්ඩ් ඔෆ් දි මන්ත්.",
+        "translation": "මාසය අවසන් වන විට චතුර ලෙස කතා කිරීමට හැකිවීම මගේ ඉලක්කයයි."
       },
       {
         "word": "progress",
         "reading": "ප්‍රොග්‍රෙස්",
         "meaning": "ප්‍රගතිය",
-        "example": "I learn most when I use the language in conversation.",
-        "exampleReading": "අයි ලර්න් මෝස්ට් වෙන් අයි යූස් දි ලැංග්විජ් ඉන් කන්වර්සේෂන්.",
-        "translation": "මම භාෂාව සංවාදවල භාවිත කරන විට වැඩිපුරම ඉගෙන ගන්නවා."
+        "example": "I check my learning progress every week.",
+        "exampleReading": "අයි චෙක් මයි ලර්නිං ප්‍රොග්‍රෙස් එව්රි වීක්.",
+        "translation": "සෑම සතියකම මගේ ඉගෙනීමේ ප්‍රගතිය පරීක්ෂා කරනවා."
       },
       {
         "word": "note",
         "reading": "නෝට්",
         "meaning": "සටහන",
-        "example": "It is important to consider every option in advance.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන් ඉන් ඇඩ්වාන්ස්.",
-        "translation": "සෑම විකල්පයක්ම කලින් සලකා බැලීම වැදගත්."
+        "example": "I wrote an important note in my notebook.",
+        "exampleReading": "අයි රෝට් ඇන් ඉම්පෝර්ටන්ට් නෝට් ඉන් මයි නෝට්බුක්.",
+        "translation": "මම වැදගත් සටහනක් මගේ සටහන් පොතේ ලියාගත්තා."
       },
       {
         "word": "method",
         "reading": "මෙතඩ්",
         "meaning": "ක්‍රමය",
-        "example": "In the end, we will choose the solution that works best for everyone.",
-        "exampleReading": "ඉන් දි එන්ඩ් වී විල් චූස් දි සලූෂන් දැට් වර්ක්ස් බෙස්ට් ෆෝ එව්රීවන්.",
-        "translation": "අවසානයේ හැමෝටම හොඳම විසඳුම තෝරනවා."
+        "example": "This method of learning works best for me.",
+        "exampleReading": "දිස් මෙතඩ් ඔෆ් ලර්නිං වර්ක්ස් බෙස්ට් ෆෝ මී.",
+        "translation": "මෙම ඉගෙනීමේ ක්‍රමය මට වඩාත්ම ගැළපෙනවා."
       }
     ],
     "grammarTitle": "Grammar",
