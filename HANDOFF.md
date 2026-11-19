@@ -966,3 +966,15 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 1. Continue B1 vocabulary semantic review by replacing repeated generic examples with word-specific target-language sentences and corresponding Sinhala translations, prioritizing lessons 1–30 in both tracks.
 2. Keep pronunciation aids clearly marked approximate until Serbian/English speaker review.
 3. Investigate GitHub Actions runner dispatch failures; retry Expo validation and APK build only once runners accept jobs.
+
+
+## 2026-11-19 — Latest CI retry
+- Inspected the latest main commit `7889afd874cf94980c67d58675b532627d5fb524` and confirmed both the Expo validation run (`44570485963`) and Android APK build run (`44570437110`) had failed immediately, with no job steps or logs exposed by GitHub.
+- Successfully requested reruns of the failed jobs for both workflows. Rerun acceptance was confirmed by GitHub; final rerun outcomes are not yet known.
+- The last confirmed APK artifact remains the earlier `basanova-android-debug-apk` from run `44552002628` on commit `3b236e4a`; it is not proof that the latest source builds.
+- No lesson source files were changed in this check. The B1 vocabulary semantic audit remains the next content task, prioritizing lessons 1–30 in both languages.
+
+### Next exact task
+1. Check rerun outcomes for Expo run `44570485963` and APK run `44570437110`; inspect job steps/logs if jobs start.
+2. Continue the paired B1 vocabulary semantic review for lessons 1–30, replacing repeated generic examples with word-specific target-language sentences and matching Sinhala translations/readings.
+3. Only share a fresh APK after the latest-main workflow uploads a verified artifact; physical Android installation still needs testing.
