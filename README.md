@@ -420,3 +420,7 @@ Restored actual English text in lessons 31–50 where Sinhala-script pronunciati
 
 ### English B1 listening correction — 2026-11-19
 Corrected lessons 31–50 so English text, rather than Sinhala-script phonetic text, is used in listening prompts and TTS audio. Source checks confirm all 20 audio strings match the corresponding English example and answer option. Physical Android audio testing remains outstanding; see `HANDOFF.md`.
+
+
+### Serbian B1 title localization — 2026-11-19
+All 50 Serbian B1 lesson titles have been localized into Serbian Latin script to match the Serbian course track. The lesson sequence and lesson IDs remain unchanged. Broader Serbian language review and Android testing are still pending; details are in `HANDOFF.md`.
