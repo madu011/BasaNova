@@ -1056,3 +1056,20 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 2. Inspect the newest CI jobs. If `runner_id: 0` and no steps persist, report this as a GitHub runner provisioning/service issue rather than a code test failure; only diagnose application build errors from actual logs.
 3. Continue paired B1 semantic vocabulary audit for lessons 21–30, fixing generic examples, Sinhala translations and pronunciation readings in both tracks.
 4. Keep pronunciation aids marked approximate pending native-speaker review; verify an uploaded APK artifact before sharing any download link.
+
+
+## 2026-11-19 — B1 lessons 21–25 paired vocabulary repair
+- Repaired 40 vocabulary examples in Serbian B1 lessons 21–25 and 40 matching English entries. Replaced repeated generic examples with eight distinct headword-focused sentences per lesson and added matching Sinhala translations.
+- Serbian lesson themes: education/training; digital communication; banking and financial planning; healthy habits/well-being; culture and traditions.
+- English examples and example-reading guides were updated for all 40 entries. Serbian examples and translations were updated for all 40 entries; Sinhala-script approximation fields were regenerated for all 40 Serbian examples.
+- Serbian file commits: `50e84aa0b32c002ce1c95f662534906988243008`, `3a1703cfbf593ab9785a64d2640f0d6473ec89b1`, and final Sinhala-character cleanup `b8523ddc8300dda56710b1bb5a616aef505147b1`.
+- English file commit: `9c2ba3ef8b9128b7e9c5c1eb31d5d46e40dca90c`.
+- Latest source audit: Serbian and English lessons 21–25 each contain 8 vocabulary entries; all 8 examples per lesson are unique; example, translation and exampleReading fields are non-empty; every exampleReading field contains Sinhala characters and no Latin/Cyrillic characters.
+- Pronunciation note: Sinhala-script readings are approximate aids generated for learners, not native-speaker-verified phonetic transcriptions. Serbian transliteration should receive careful human/native-speaker review before release.
+- CI still fails before a runner starts. Latest Expo validation run `44574838161` and Android APK build run `44574838025` both show `runner_id: 0`, blank runner name and `steps: []`; no actionable test/build log is available. Treat this as runner provisioning/Actions environment failure until logs show an application-level error.
+- No successful Expo validation, APK build, uploaded APK artifact, installation or device test is verified.
+
+### Next exact task
+1. Continue paired B1 vocabulary semantic repair for lessons 26–30 in both language tracks. Ensure examples are distinct, translations match and Sinhala-script pronunciation fields contain no mixed scripts.
+2. Run structural checks on lessons 21–30 and inspect latest CI runner assignment.
+3. Record exact commits and validation outcomes in HANDOFF.md. Keep the no-verified-APK caveat until an artifact is confirmed.
