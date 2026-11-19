@@ -10,33 +10,33 @@ export const ENGLISH_B1_LESSONS = [
         "word": "experience",
         "reading": "එක්ස්පීරියන්ස්",
         "meaning": "අත්දැකීම",
-        "example": "Last year I travelled to Novi Sad.",
-        "exampleReading": "ලාස්ට් යියර් අයි ට්‍රැවල්ඩ් ටු නොවි සාද්.",
-        "translation": "ගිය අවුරුද්දේ මම නොවි සාද් ගියා."
+        "example": "Last year, I had my first major experience abroad.",
+        "exampleReading": "ලාස්ට් යියර් අයි හැඩ් මයි ෆර්ස්ට් මේජර් එක්ස්පීරියන්ස් අබ්‍රෝඩ්.",
+        "translation": "පසුගිය අවුරුද්දේ මට විදේශයකදී පළමු විශාල අත්දැකීම ලැබුණා."
       },
       {
         "word": "memorable",
         "reading": "මෙමරබල්",
         "meaning": "මතකයේ රැඳෙන",
-        "example": "That day was special to me.",
-        "exampleReading": "දැට් ඩේ වොස් ස්පෙෂල් ටු මී.",
-        "translation": "ඒ දවස මට විශේෂයි."
+        "example": "It was a truly memorable day.",
+        "exampleReading": "ඉට් වොස් අ ට්‍රූලි මෙමරබල් ඩේ.",
+        "translation": "එය ඇත්තෙන්ම මතකයේ රැඳෙන දවසක් වුණා."
       },
       {
         "word": "journey",
         "reading": "ජර්නි",
         "meaning": "ගමන",
-        "example": "I still remember that journey clearly.",
-        "exampleReading": "අයි ස්ටිල් රිමෙම්බර් දැට් ජර්නි ක්ලියර්ලි.",
-        "translation": "මට ඒ ගමන තවම හොඳින් මතකයි."
+        "example": "Our journey lasted three days.",
+        "exampleReading": "අවර් ජර්නි ලාස්ටිඩ් ත්‍රී ඩේස්.",
+        "translation": "අපේ ගමන දින තුනක් පැවතුණා."
       },
       {
         "word": "event",
         "reading": "ඉවෙන්ට්",
         "meaning": "සිදුවීම",
-        "example": "I still remember that journey clearly.",
-        "exampleReading": "අයි ස්ටිල් රිමෙම්බර් දැට් ජර්නි ක්ලියර්ලි.",
-        "translation": "මට ඒ ගමන තවම හොඳින් මතකයි."
+        "example": "The event took place last week.",
+        "exampleReading": "දි ඉවෙන්ට් ටුක් ප්ලේස් ලාස්ට් වීක්.",
+        "translation": "එම සිදුවීම පසුගිය සතියේ පැවැත්වුණා."
       },
       {
         "word": "suddenly",
@@ -50,25 +50,25 @@ export const ENGLISH_B1_LESSONS = [
         "word": "remember",
         "reading": "රිමෙම්බර්",
         "meaning": "මතක තබාගන්නවා",
-        "example": "I still remember that journey clearly.",
-        "exampleReading": "අයි ස්ටිල් රිමෙම්බර් දැට් ජර්නි ක්ලියර්ලි.",
-        "translation": "මට ඒ ගමන තවම හොඳින් මතකයි."
+        "example": "I will always remember that journey.",
+        "exampleReading": "අයි විල් ඕල්වේස් රිමෙම්බර් දැට් ජර්නි.",
+        "translation": "මට ඒ ගමන හැමදාම මතක থাকবে."
       },
       {
         "word": "surprised",
         "reading": "සර්ප්‍රයිස්ඩ්",
         "meaning": "පුදුමයට පත් වූ",
-        "example": "Suddenly, heavy rain started.",
-        "exampleReading": "සඩන්ලි හෙවි රේන් ස්ටාටඩ්.",
-        "translation": "එකවරම තද වැස්සක් පටන් ගත්තා."
+        "example": "I was surprised by the result.",
+        "exampleReading": "අයි වොස් සර්ප්‍රයිස්ඩ් බයි දි රිසල්ට්.",
+        "translation": "ප්‍රතිඵලය දැක මම පුදුමයට පත් වුණා."
       },
       {
         "word": "in the end",
         "reading": "ඉන් දි එන්ඩ්",
         "meaning": "අවසානයේ",
-        "example": "I still remember that journey clearly.",
-        "exampleReading": "අයි ස්ටිල් රිමෙම්බර් දැට් ජර්නි ක්ලියර්ලි.",
-        "translation": "මට ඒ ගමන තවම හොඳින් මතකයි."
+        "example": "In the end, we arrived on time.",
+        "exampleReading": "ඉන් දි එන්ඩ් වී අරයිව්ඩ් ඔන් ටයිම්.",
+        "translation": "අවසානයේ අපි වෙලාවට ළඟා වුණා."
       }
     ],
     "grammarTitle": "Grammar",
@@ -188,65 +188,65 @@ export const ENGLISH_B1_LESSONS = [
         "word": "opinion",
         "reading": "ඔපිනියන්",
         "meaning": "අදහස",
-        "example": "In my opinion, this plan is better.",
-        "exampleReading": "ඉන් මයි ඔපිනියන් දිස් ප්ලෑන් ඉස් බෙටර්.",
-        "translation": "මගේ අදහස අනුව මේ සැලැස්ම වඩා හොඳයි."
+        "example": "In my opinion, this plan is good.",
+        "exampleReading": "ඉන් මයි ඔපිනියන් දිස් ප්ලෑන් ඉස් ගුඩ්.",
+        "translation": "මගේ අදහස අනුව මේ සැලැස්ම හොඳයි."
       },
       {
         "word": "reason",
         "reading": "රීසන්",
         "meaning": "හේතුව",
-        "example": "What is the reason for your decision?",
-        "exampleReading": "වොට් ඉස් දි රීසන් ෆෝර් යෝර් ඩිසිෂන්.",
-        "translation": "ඔයාගේ තීරණයට හේතුව මොකක්ද."
+        "example": "What is the reason for this change?",
+        "exampleReading": "වොට් ඉස් දි රීසන් ෆෝර් දිස් චේන්ජ්.",
+        "translation": "මේ වෙනසට හේතුව මොකක්ද?"
       },
       {
         "word": "agree",
         "reading": "අයි අග්‍රී",
         "meaning": "එකඟ වෙනවා",
-        "example": "I agree because it is simple.",
-        "exampleReading": "අයි අග්‍රී බිකෝස් ඉට් ඉස් සිම්පල්.",
-        "translation": "එය සරල නිසා මම එකඟයි."
+        "example": "I agree with your suggestion.",
+        "exampleReading": "අයි අග්‍රී විත් යෝර් සජෙස්චන්.",
+        "translation": "මම ඔයාගේ යෝජනාවට එකඟයි."
       },
       {
         "word": "advantage",
         "reading": "ඇඩ්වෑන්ටිජ්",
         "meaning": "වාසිය",
-        "example": "What is the reason for your decision?",
-        "exampleReading": "වොට් ඉස් දි රීසන් ෆෝර් යෝර් ඩිසිෂන්.",
-        "translation": "ඔයාගේ තීරණයට හේතුව මොකක්ද."
+        "example": "The main advantage is the lower price.",
+        "exampleReading": "දි මේන් ඇඩ්වාන්ටේජ් ඉස් දි ලෝවර් ප්‍රයිස්.",
+        "translation": "ප්‍රධාන වාසිය අඩු මිලයි."
       },
       {
         "word": "disadvantage",
         "reading": "ඩිස්ඇඩ්වෑන්ටිජ්",
         "meaning": "අවාසිය",
-        "example": "In my opinion, this plan is better.",
-        "exampleReading": "ඉන් මයි ඔපිනියන් දිස් ප්ලෑන් ඉස් බෙටර්.",
-        "translation": "මගේ අදහස අනුව මේ සැලැස්ම වඩා හොඳයි."
+        "example": "The biggest disadvantage is the long wait.",
+        "exampleReading": "දි බිගස්ට් ඩිස්ඇඩ්වාන්ටේජ් ඉස් දි ලොං වේට්.",
+        "translation": "ලොකුම අවාසිය දිගු කාලයක් බලා සිටීමට සිදුවීමයි."
       },
       {
         "word": "believe",
         "reading": "බිලීව්",
         "meaning": "විශ්වාස කරනවා",
-        "example": "I agree because it is simple.",
-        "exampleReading": "අයි අග්‍රී බිකෝස් ඉට් ඉස් සිම්පල්.",
-        "translation": "එය සරල නිසා මම එකඟයි."
+        "example": "I believe we can succeed.",
+        "exampleReading": "අයි බිලීව් වී කැන් සක්සීඩ්.",
+        "translation": "අපට සාර්ථක විය හැකි බව මම විශ්වාස කරනවා."
       },
       {
         "word": "however",
         "reading": "හවෙවර්",
         "meaning": "කෙසේවෙතත්",
-        "example": "However, there is one problem.",
-        "exampleReading": "හවෙවර් දෙයාර් ඉස් වන් ප්‍රොබ්ලම්.",
-        "translation": "කෙසේවෙතත් එක් ගැටලුවක් තියෙනවා."
+        "example": "I wanted to come; however, I did not have time.",
+        "exampleReading": "අයි වොන්ටිඩ් ටු කම් හවෙවර් අයි ඩිඩ් නොට් හැව් ටයිම්.",
+        "translation": "මට එන්න ඕනෑ වුණා; කෙසේවෙතත් මට වෙලාව තිබුණේ නැහැ."
       },
       {
         "word": "depend",
         "reading": "ඩිපෙන්ඩ්",
         "meaning": "රඳා පවතිනවා",
-        "example": "What is the reason for your decision?",
-        "exampleReading": "වොට් ඉස් දි රීසන් ෆෝර් යෝර් ඩිසිෂන්.",
-        "translation": "ඔයාගේ තීරණයට හේතුව මොකක්ද."
+        "example": "The price depends on the quantity.",
+        "exampleReading": "දි ප්‍රයිස් ඩිපෙන්ඩ්ස් ඔන් දි ක්වොන්ටිටි.",
+        "translation": "මිල ප්‍රමාණය මත රඳා පවතිනවා."
       }
     ],
     "grammarTitle": "Grammar",
