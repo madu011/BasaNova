@@ -137,7 +137,7 @@ export const SERBIAN_B1_LESSONS = [
     },
     "practice": [
       {
-        "prompt": "“nezaboravan” means…",
+        "prompt": "“nezaboravan” යන්නෙහි තේරුම කුමක්ද?",
         "options": [
           "අමතක නොවන",
           "මිල අධික",
@@ -147,7 +147,7 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "nezaboravan = අමතක නොවන"
       },
       {
-        "prompt": "Choose the past form.",
+        "prompt": "නිවැරදි අතීත කාල ආකාරය තෝරන්න.",
         "options": [
           "putujem",
           "sam putovao",
@@ -157,7 +157,7 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "sam putovao = මම ගමන් කළා"
       },
       {
-        "prompt": "“odjednom” means…",
+        "prompt": "“odjednom” යන්නෙහි තේරුම කුමක්ද?",
         "options": [
           "හැමදාම",
           "හෙට",
@@ -167,7 +167,7 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "odjednom = එකවරම"
       },
       {
-        "prompt": "Choose a memory phrase.",
+        "prompt": "අතීත මතකයක් විස්තර කරන වාක්‍යය තෝරන්න.",
         "options": [
           "Još se sećam tog dana.",
           "Sutra ću raditi.",
@@ -315,7 +315,7 @@ export const SERBIAN_B1_LESSONS = [
     },
     "practice": [
       {
-        "prompt": "“Po mom mišljenju” means…",
+        "prompt": "“Po mom mišljenju” යන්නෙහි තේරුම කුමක්ද?",
         "options": [
           "ඊයේ උදේ",
           "මගේ අදහස අනුව",
@@ -325,7 +325,7 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "Po mom mišljenju = මගේ අදහස අනුව"
       },
       {
-        "prompt": "Choose agreement.",
+        "prompt": "එකඟතාව පෙන්වන ප්‍රකාශය තෝරන්න.",
         "options": [
           "Kasnim.",
           "Ne znam gde.",
@@ -335,7 +335,7 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "Slažem se = මම එකඟයි"
       },
       {
-        "prompt": "“ipak” means…",
+        "prompt": "“ipak” යන්නෙහි තේරුම කුමක්ද?",
         "options": [
           "කෙසේවෙතත්",
           "එතැන",
@@ -345,7 +345,7 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "ipak = කෙසේවෙතත්"
       },
       {
-        "prompt": "Choose a reason connector.",
+        "prompt": "හේතුවක් පෙන්වන සම්බන්ධක පදය තෝරන්න.",
         "options": [
           "juče",
           "zato što",
@@ -493,7 +493,7 @@ export const SERBIAN_B1_LESSONS = [
     },
     "practice": [
       {
-        "prompt": "“raspored” means…",
+        "prompt": "“raspored” යන්නෙහි තේරුම කුමක්ද?",
         "options": [
           "පවුල",
           "ප්‍රවෘත්තිය",
@@ -503,7 +503,7 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "raspored = කාලසටහන"
       },
       {
-        "prompt": "Choose a suggestion.",
+        "prompt": "යෝජනාවක් තෝරන්න.",
         "options": [
           "Predlažem da razgovaramo.",
           "Juče sam spavao.",
@@ -513,7 +513,7 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "Predlažem da = මම යෝජනා කරනවා"
       },
       {
-        "prompt": "“rok” means…",
+        "prompt": "“rok” යන්නෙහි තේරුම කුමක්ද?",
         "options": [
           "උදෑසන",
           "අවසාන දිනය",
@@ -523,7 +523,7 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "rok = අවසාන දිනය"
       },
       {
-        "prompt": "“odgovoran” means…",
+        "prompt": "“odgovoran” යන්නෙහි තේරුම කුමක්ද?",
         "options": [
           "අමතක වූ",
           "මිල අඩු",
@@ -671,7 +671,7 @@ export const SERBIAN_B1_LESSONS = [
     },
     "practice": [
       {
-        "prompt": "“jeftiniji” means…",
+        "prompt": "“jeftiniji” යන්නෙහි තේරුම කුමක්ද?",
         "options": [
           "වඩා ලාභ",
           "වඩා පැරණි",
@@ -681,7 +681,7 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "jeftiniji = වඩා ලාභ"
       },
       {
-        "prompt": "Choose the first conditional.",
+        "prompt": "First Conditional වාක්‍ය රටාවට ගැළපෙන වාක්‍යය තෝරන්න.",
         "options": [
           "Ako krenuli, stižemo juče.",
           "Ako krenemo, stići ćemo.",
@@ -691,7 +691,7 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "Ako + present, ćemo + future"
       },
       {
-        "prompt": "“posledica” means…",
+        "prompt": "“posledica” යන්නෙහි තේරුම කුමක්ද?",
         "options": [
           "ආරාධනය",
           "ලිපිනය",
@@ -701,7 +701,7 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "posledica = ප්‍රතිඵලය"
       },
       {
-        "prompt": "Choose “compare”.",
+        "prompt": "“සසඳනවා” යන අර්ථය දෙන ක්‍රියාපදය තෝරන්න.",
         "options": [
           "porediti",
           "odmarati",
@@ -849,7 +849,7 @@ export const SERBIAN_B1_LESSONS = [
     },
     "practice": [
       {
-        "prompt": "“izveštaj” means…",
+        "prompt": "“izveštaj” යන්නෙහි තේරුම කුමක්ද?",
         "options": [
           "ගෙවීම",
           "වාර්තාව",
@@ -859,7 +859,7 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "izveštaj = වාර්තාව"
       },
       {
-        "prompt": "“Prema izveštaju” means…",
+        "prompt": "“Prema izveštaju” යන්නෙහි තේරුම කුමක්ද?",
         "options": [
           "මට අවශ්‍යයි",
           "ඊළඟ සතියේ",
@@ -869,7 +869,7 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "Prema izveštaju = වාර්තාවට අනුව"
       },
       {
-        "prompt": "Choose “source”.",
+        "prompt": "“මූලාශ්‍රය” යන අර්ථය දෙන වචනය තෝරන්න.",
         "options": [
           "izvor",
           "rok",
@@ -879,7 +879,7 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "izvor = මූලාශ්‍රය"
       },
       {
-        "prompt": "“ukratko” means…",
+        "prompt": "“ukratko” යන්නෙහි තේරුම කුමක්ද?",
         "options": [
           "ඉතා හොඳින්",
           "කෙටියෙන්",
@@ -1027,7 +1027,7 @@ export const SERBIAN_B1_LESSONS = [
     },
     "practice": [
       {
-        "prompt": "Choose a formal request.",
+        "prompt": "නිල සහ ආචාරශීලී ඉල්ලීමක් තෝරන්න.",
         "options": [
           "Daj mi odmah!",
           "Neću.",
@@ -1037,7 +1037,7 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "Da li biste mogli…? = ඔබට පුළුවන්ද…?"
       },
       {
-        "prompt": "“potvrda” means…",
+        "prompt": "“potvrda” යන්නෙහි තේරුම කුමක්ද?",
         "options": [
           "තහවුරු කිරීම",
           "කාලසටහන",
@@ -1047,7 +1047,7 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "potvrda = තහවුරු කිරීම"
       },
       {
-        "prompt": "“unapred” means…",
+        "prompt": "“unapred” යන්නෙහි තේරුම කුමක්ද?",
         "options": [
           "පසුව",
           "කලින්",
@@ -1057,7 +1057,7 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "unapred = කලින්"
       },
       {
-        "prompt": "Choose a polite closing.",
+        "prompt": "ආචාරශීලී අවසාන ප්‍රකාශයක් තෝරන්න.",
         "options": [
           "Ćao, požuri!",
           "Ne zanima me.",
@@ -1205,7 +1205,7 @@ export const SERBIAN_B1_LESSONS = [
     },
     "practice": [
       {
-        "prompt": "“nesporazum” means…",
+        "prompt": "“nesporazum” යන්නෙහි තේරුම කුමක්ද?",
         "options": [
           "වැරදි අවබෝධය",
           "ප්‍රගතිය",
@@ -1215,7 +1215,7 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "nesporazum = වැරදි අවබෝධය"
       },
       {
-        "prompt": "Choose a clarification question.",
+        "prompt": "පැහැදිලි කිරීමක් ඉල්ලා සිටින ප්‍රශ්නය තෝරන්න.",
         "options": [
           "Koliko je sati?",
           "Možete li da pojasnite?",
@@ -1225,7 +1225,7 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "Možete li da pojasnite? = පැහැදිලි කරන්න පුළුවන්ද?"
       },
       {
-        "prompt": "“zapravo” means…",
+        "prompt": "“zapravo” යන්නෙහි තේරුම කුමක්ද?",
         "options": [
           "හෙට",
           "අඩු මිල",
@@ -1235,7 +1235,7 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "zapravo = ඇත්ත වශයෙන්"
       },
       {
-        "prompt": "Choose a confirmation phrase.",
+        "prompt": "තේරුම්ගත් දේ තහවුරු කරන ප්‍රකාශය තෝරන්න.",
         "options": [
           "Da li sam dobro razumeo?",
           "Ne dolazim nikad.",
@@ -1383,7 +1383,7 @@ export const SERBIAN_B1_LESSONS = [
     },
     "practice": [
       {
-        "prompt": "“podeliti” means…",
+        "prompt": "“podeliti” යන්නෙහි තේරුම කුමක්ද?",
         "options": [
           "අමතක කරනවා",
           "බෙදාගන්නවා",
@@ -1393,7 +1393,7 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "podeliti = බෙදාගන්නවා"
       },
       {
-        "prompt": "“zatim” means…",
+        "prompt": "“zatim” යන්නෙහි තේරුම කුමක්ද?",
         "options": [
           "කවදාවත්",
           "ඊයේ",
@@ -1403,7 +1403,7 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "zatim = ඊළඟට"
       },
       {
-        "prompt": "Choose a deadline question.",
+        "prompt": "අවසාන දිනය ගැන අසන ප්‍රශ්නය තෝරන්න.",
         "options": [
           "Koji je rok?",
           "Koliko košta?",
@@ -1413,7 +1413,7 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "Koji je rok? = අවසාන දිනය කවදාද?"
       },
       {
-        "prompt": "“napredak” means…",
+        "prompt": "“napredak” යන්නෙහි තේරුම කුමක්ද?",
         "options": [
           "වට්ටම",
           "ප්‍රගතිය",
@@ -1561,7 +1561,7 @@ export const SERBIAN_B1_LESSONS = [
     },
     "practice": [
       {
-        "prompt": "“ranije” means…",
+        "prompt": "“ranije” යන්නෙහි තේරුම කුමක්ද?",
         "options": [
           "අනාගතයේ",
           "අද රාත්‍රියේ",
@@ -1571,7 +1571,7 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "ranije = කලින්"
       },
       {
-        "prompt": "Choose a past habit.",
+        "prompt": "අතීත පුරුද්දක් විස්තර කරන වාක්‍යය තෝරන්න.",
         "options": [
           "Ranije sam radio ovde.",
           "Sada radim ovde.",
@@ -1581,7 +1581,7 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "Ranije sam radio = කලින් මම වැඩ කළා"
       },
       {
-        "prompt": "“postepeno” means…",
+        "prompt": "“postepeno” යන්නෙහි තේරුම කුමක්ද?",
         "options": [
           "එකවරම",
           "ක්‍රමයෙන්",
@@ -1591,7 +1591,7 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "postepeno = ක්‍රමයෙන්"
       },
       {
-        "prompt": "Choose a contrast word.",
+        "prompt": "විරුද්ධ අදහසක් පෙන්වන සම්බන්ධක පදය තෝරන්න.",
         "options": [
           "zato",
           "jer",
@@ -1739,7 +1739,7 @@ export const SERBIAN_B1_LESSONS = [
     },
     "practice": [
       {
-        "prompt": "“rizik” means…",
+        "prompt": "“rizik” යන්නෙහි තේරුම කුමක්ද?",
         "options": [
           "අවදානම",
           "උපදෙස",
@@ -1749,7 +1749,7 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "rizik = අවදානම"
       },
       {
-        "prompt": "Choose advice.",
+        "prompt": "උපදෙසක් ලබාදෙන වාක්‍යය තෝරන්න.",
         "options": [
           "Sutra sam bio…",
           "Na tvom mestu, razgovarao bih…",
@@ -1759,7 +1759,7 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "Na tvom mestu = ඔයාගේ තැන මම හිටියා නම්"
       },
       {
-        "prompt": "“razmotriti” means…",
+        "prompt": "“razmotriti” යන්නෙහි තේරුම කුමක්ද?",
         "options": [
           "අවසන් කරනවා",
           "බෙදාගන්නවා",
@@ -1769,7 +1769,7 @@ export const SERBIAN_B1_LESSONS = [
         "explanation": "razmotriti = සලකා බලනවා"
       },
       {
-        "prompt": "“verovatno” means…",
+        "prompt": "“verovatno” යන්නෙහි තේරුම කුමක්ද?",
         "options": [
           "බොහෝවිට",
           "කවදාවත්",
