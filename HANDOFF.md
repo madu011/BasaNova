@@ -938,3 +938,19 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 1. Check CI on the latest English commit and ensure a final combined-main APK build completes with an uploaded artifact.
 2. Review vocabulary entries manually/semantically by comparing each headword, target-language example, Sinhala meaning and pronunciation field; avoid naive substring matching across languages.
 3. Continue B1 quality review, especially Sinhala translations and approximate pronunciation guides.
+
+
+## 2026-11-19 — B1 vocabulary translation alignment pass
+- Replaced English source sentences accidentally copied into Sinhala translation fields for English B1 lessons 11–20; all affected vocabulary entries now have Sinhala translations.
+- Replaced English translations accidentally left in Serbian B1 lessons 31–50 with Sinhala translations for the matching Serbian example sentences.
+- Semantic spot-check confirms the repaired sentence translations correspond to the examples; automated script check found no Latin-script translation values in English lessons 11–20 or Serbian lessons 31–50.
+- Serbian B1 translation update commit: `2e64d500634620335d0783b2459bf0200eb52da5`.
+- English B1 translation update commit: `22509348f6867de4f738de61344ea6382cd4502e`.
+- CI runs triggered for these commits ended in immediate failure before any job steps were reported (runner_id 0); this does not currently establish a source-code failure. Investigate GitHub Actions runner/service availability and rerun validation/build.
+- APK artifact is not confirmed; do not share an APK link until a successful build uploads one.
+
+### Next exact task
+1. Investigate immediate GitHub Actions runner failures and rerun Expo validation plus Android APK build on latest main.
+2. Continue semantic review of B1 vocabulary examples: many early lessons reuse a small set of generic example sentences across unrelated headwords; replace with word-specific examples and matching Sinhala translations.
+3. Review Serbian B1 31–50 exampleReading fields: some appear to contain Cyrillic transliteration rather than Sinhala-script pronunciation aids.
+4. Review pronunciation aids with a Serbian native speaker before presenting them as definitive.
