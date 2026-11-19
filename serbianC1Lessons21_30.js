@@ -2,9 +2,9 @@
 export const SERBIAN_C1_LESSONS_21_30 = [
   {
     "id": "sr-c1-l21",
-    "unit": "C1 · Реторика и убедљиво излагање",
-    "title": "C1 · 21 · Реторика и убедљиво излагање",
-    "objective": "Користити реторичке поступке и јасну структуру за уверљиво излагање.",
+    "unit": "C1 · Retorika i ubedljivo izlaganje",
+    "title": "C1 · 21 · Retorika i ubedljivo izlaganje",
+    "objective": "Koristiti retoričke postupke i jasnu strukturu za uverljivo izlaganje.",
     "vocabulary": [
       {
         "word": "uverljiv",
@@ -63,8 +63,8 @@ export const SERBIAN_C1_LESSONS_21_30 = [
         "translation": "නිගමනය ආරම්භක ප්‍රශ්නයට පිළිතුරු දිය යුතුය."
       }
     ],
-    "grammarTitle": "Граматика и стил",
-    "grammar": "Уверљиво излагање повезује тврдњу, разлог и доказ. Умерене формулације попут „чини се“, „могло би се закључити“ и „у великој мери“ помажу да се избегну претеране тврдње.",
+    "grammarTitle": "Gramatika i stil",
+    "grammar": "Uverljivo izlaganje povezuje tvrdnju, razlog i dokaz. Umerene formulacije poput „čini se“, „moglo bi se zaključiti“ i „u velikoj meri“ pomažu da se izbegnu preterane tvrdnje.",
     "examples": [
       {
         "sr": "Jasna tvrdnja mora biti potkrepljena dokazima.",
@@ -110,64 +110,64 @@ export const SERBIAN_C1_LESSONS_21_30 = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Послушајте и изаберите најтачније значење.",
+      "prompt": "Poslušajte i izaberite najtačnije značenje.",
       "audio": "Jasna tvrdnja mora biti potkrepljena dokazima. Govornik je naglasio ključnu razliku. Kontrast čini argument uverljivijim.",
       "reading": "ය්අස්න්අ ත්ව්ර්ද්න්ය්අ ම්ඔර්අ බ්ඉත්ඉ ප්ඔත්ක්ර්එප්ල්ය්එන්අ ද්ඔක්අස්ඉම්අ. ග්ඔව්ඔර්න්ඉක් ය්එ න්අග්ල්අස්ඉඔ ක්ල්ය්උච්න්උ ර්අස්ල්ඉක්උ. ක්ඔන්ත්ර්අස්ත් ච්ඉන්ඉ අර්ග්උම්එන්ත් උව්එර්ල්ය්ඉව්ඉය්ඉම්.",
       "options": [
+        "Sve tvrdnje su potpuno sigurne.",
         "පැහැදිලි ප්‍රකාශයක් සාක්ෂි මඟින් තහවුරු කළ යුතුය. කථිකයා ප්‍රධාන වෙනස අවධාරණය කළේය.",
-        "Све тврдње су потпуно сигурне.",
-        "Ниједан одговор није тачан."
+        "Nijedan odgovor nije tačan."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
-        "prompt": "Који израз најбоље описује главну идеју?",
+        "prompt": "Koji izraz najbolje opisuje glavnu ideju?",
         "options": [
-          "uverljiv",
           "naglasak",
+          "uverljiv",
           "kontrast"
         ],
-        "answer": 0,
-        "explanation": "Прва реч је кључни појам ове лекције."
+        "answer": 1,
+        "explanation": "Prva reč je ključni pojam ove lekcije."
       },
       {
-        "prompt": "Изаберите одговарајући стручни појам.",
+        "prompt": "Izaberite odgovarajući stručni pojam.",
         "options": [
           "tvrdnja",
-          "retorika",
-          "zaključak"
+          "zaključak",
+          "retorika"
+        ],
+        "answer": 2,
+        "explanation": "Proverite značenje reči u rečniku lekcije."
+      },
+      {
+        "prompt": "Šta poboljšava jasnoću argumenta?",
+        "options": [
+          "Jasna struktura i dokazi",
+          "Nejasne tvrdnje",
+          "Izostavljanje konteksta"
+        ],
+        "answer": 0,
+        "explanation": "Jasna struktura pomaže čitaocu da prati argument."
+      },
+      {
+        "prompt": "Kako treba predstaviti neizvesnost?",
+        "options": [
+          "Sakriti nepoznate činjenice",
+          "Precizno navesti ograničenja",
+          "Izneti apsolutnu tvrdnju"
         ],
         "answer": 1,
-        "explanation": "Проверите значење речи у речнику лекције."
-      },
-      {
-        "prompt": "Шта побољшава јасноћу аргумента?",
-        "options": [
-          "Јасна структура и докази",
-          "Нејасне тврдње",
-          "Изостављање контекста"
-        ],
-        "answer": 0,
-        "explanation": "Јасна структура помаже читаоцу да прати аргумент."
-      },
-      {
-        "prompt": "Како треба представити неизвесност?",
-        "options": [
-          "Прецизно навести ограничења",
-          "Сакрити непознате чињенице",
-          "Изнети апсолутну тврдњу"
-        ],
-        "answer": 0,
-        "explanation": "Ограничења треба отворено и прецизно навести."
+        "explanation": "Ograničenja treba otvoreno i precizno navesti."
       }
     ]
   },
   {
     "id": "sr-c1-l22",
-    "unit": "C1 · Дискурсни маркери и кохезија",
-    "title": "C1 · 22 · Дискурсни маркери и кохезија",
-    "objective": "Повезивати сложене аргументе прецизним дискурсним маркерима.",
+    "unit": "C1 · Diskursni markeri i kohezija",
+    "title": "C1 · 22 · Diskursni markeri i kohezija",
+    "objective": "Povezivati složene argumente preciznim diskursnim markerima.",
     "vocabulary": [
       {
         "word": "štaviše",
@@ -226,8 +226,8 @@ export const SERBIAN_C1_LESSONS_21_30 = [
         "translation": "ඊට ප්‍රතිවිරුද්ධව, දෙවන අධ්‍යයනය වෙනස් ප්‍රවණතාවක් පෙන්වයි."
       }
     ],
-    "grammarTitle": "Граматика и стил",
-    "grammar": "Дискурсни маркери показују однос међу идејама: допуну („штавише“), уступање („ипак“), последицу („стога“) и преусмеравање („с друге стране“). Избор маркера мора одговарати стварном логичком односу.",
+    "grammarTitle": "Gramatika i stil",
+    "grammar": "Diskursni markeri pokazuju odnos među idejama: dopunu („štaviše“), ustupanje („ipak“), posledicu („stoga“) i preusmeravanje („s druge strane“). Izbor markera mora odgovarati stvarnom logičkom odnosu.",
     "examples": [
       {
         "sr": "Predlog je skup; ipak, dugoročno je isplativ.",
@@ -273,64 +273,64 @@ export const SERBIAN_C1_LESSONS_21_30 = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Послушајте и изаберите најтачније значење.",
+      "prompt": "Poslušajte i izaberite najtačnije značenje.",
       "audio": "Predlog je skup; ipak, dugoročno je isplativ. Podaci su ograničeni; stoga je zaključak privremen. Štaviše, rezultati potvrđuju raniju pretpostavku.",
       "reading": "ප්ර්එද්ල්ඔග් ය්එ ස්ක්උප්; ඉප්අක්, ද්උග්ඔර්ඔච්න්ඔ ය්එ ඉස්ප්ල්අත්ඉව්. ප්ඔද්අත්ස්ඉ ස්උ ඔග්ර්අන්ඉච්එන්ඉ; ස්ත්ඔග්අ ය්එ ස්අක්ල්ය්උච්අක් ප්ර්ඉව්ර්එම්එන්. ෂ්ත්අව්ඉෂ්එ, ර්එස්උල්ත්අත්ඉ ප්ඔත්ව්ර්ජ්උය්උ ර්අන්ඉය්උ ප්ර්එත්ප්ඔස්ත්අව්ක්උ.",
       "options": [
-        "යෝජනාව මිල අධිකය; එසේ වුවත් දිගුකාලීනව වටිනාකමක් ඇත. දත්ත සීමිතය; එබැවින් නිගමනය තාවකාලිකය.",
-        "Све тврдње су потпуно сигурне.",
-        "Ниједан одговор није тачан."
+        "Sve tvrdnje su potpuno sigurne.",
+        "Nijedan odgovor nije tačan.",
+        "යෝජනාව මිල අධිකය; එසේ වුවත් දිගුකාලීනව වටිනාකමක් ඇත. දත්ත සීමිතය; එබැවින් නිගමනය තාවකාලිකය."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
-        "prompt": "Који израз најбоље описује главну идеју?",
+        "prompt": "Koji izraz najbolje opisuje glavnu ideju?",
         "options": [
-          "štaviše",
           "nasuprot tome",
+          "štaviše",
           "prelaz"
         ],
-        "answer": 0,
-        "explanation": "Прва реч је кључни појам ове лекције."
+        "answer": 1,
+        "explanation": "Prva reč je ključni pojam ove lekcije."
       },
       {
-        "prompt": "Изаберите одговарајући стручни појам.",
+        "prompt": "Izaberite odgovarajući stručni pojam.",
         "options": [
           "ipak",
-          "doslednost",
-          "nijansa"
+          "nijansa",
+          "doslednost"
+        ],
+        "answer": 2,
+        "explanation": "Proverite značenje reči u rečniku lekcije."
+      },
+      {
+        "prompt": "Šta poboljšava jasnoću argumenta?",
+        "options": [
+          "Jasna struktura i dokazi",
+          "Nejasne tvrdnje",
+          "Izostavljanje konteksta"
+        ],
+        "answer": 0,
+        "explanation": "Jasna struktura pomaže čitaocu da prati argument."
+      },
+      {
+        "prompt": "Kako treba predstaviti neizvesnost?",
+        "options": [
+          "Sakriti nepoznate činjenice",
+          "Precizno navesti ograničenja",
+          "Izneti apsolutnu tvrdnju"
         ],
         "answer": 1,
-        "explanation": "Проверите значење речи у речнику лекције."
-      },
-      {
-        "prompt": "Шта побољшава јасноћу аргумента?",
-        "options": [
-          "Јасна структура и докази",
-          "Нејасне тврдње",
-          "Изостављање контекста"
-        ],
-        "answer": 0,
-        "explanation": "Јасна структура помаже читаоцу да прати аргумент."
-      },
-      {
-        "prompt": "Како треба представити неизвесност?",
-        "options": [
-          "Прецизно навести ограничења",
-          "Сакрити непознате чињенице",
-          "Изнети апсолутну тврдњу"
-        ],
-        "answer": 0,
-        "explanation": "Ограничења треба отворено и прецизно навести."
+        "explanation": "Ograničenja treba otvoreno i precizno navesti."
       }
     ]
   },
   {
     "id": "sr-c1-l23",
-    "unit": "C1 · Уговори и формални услови",
-    "title": "C1 · 23 · Уговори и формални услови",
-    "objective": "Тумачити уговорне одредбе, обавезе и изузетке.",
+    "unit": "C1 · Ugovori i formalni uslovi",
+    "title": "C1 · 23 · Ugovori i formalni uslovi",
+    "objective": "Tumačiti ugovorne odredbe, obaveze i izuzetke.",
     "vocabulary": [
       {
         "word": "odredba",
@@ -389,8 +389,8 @@ export const SERBIAN_C1_LESSONS_21_30 = [
         "translation": "වගකීම වෙනම වගන්තියකින් නිර්වචනය කර ඇත."
       }
     ],
-    "grammarTitle": "Граматика и стил",
-    "grammar": "Формални услови често користе конструкције „уколико“, „под условом да“ и „осим ако“. Пажљиво разликујте обавезу, дозволу и могућност: мора, може и смеју.",
+    "grammarTitle": "Gramatika i stil",
+    "grammar": "Formalni uslovi često koriste konstrukcije „ukoliko“, „pod uslovom da“ i „osim ako“. Pažljivo razlikujte obavezu, dozvolu i mogućnost: mora, može i smeju.",
     "examples": [
       {
         "sr": "Ugovor stupa na snagu nakon potpisivanja.",
@@ -436,64 +436,64 @@ export const SERBIAN_C1_LESSONS_21_30 = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Послушајте и изаберите најтачније значење.",
+      "prompt": "Poslušajte i izaberite najtačnije značenje.",
       "audio": "Ugovor stupa na snagu nakon potpisivanja. Izuzetak važi samo pod navedenim uslovima. Strane su dužne da poštuju rok.",
       "reading": "උග්ඔව්ඔර් ස්ත්උප්අ න්අ ස්න්අග්උ න්අක්ඔන් ප්ඔත්ප්ඉස්ඉව්අන්ය්අ. ඉස්උස්එත්අක් ව්අෂ්ඉ ස්අම්ඔ ප්ඔද් න්අව්එද්එන්ඉම් උස්ල්ඔව්ඉම්අ. ස්ත්ර්අන්එ ස්උ ද්උෂ්න්එ ද්අ ප්ඔෂ්ත්උය්උ ර්ඔක්.",
       "options": [
         "අත්සන් කිරීමෙන් පසු ගිවිසුම බලාත්මක වේ. සඳහන් කොන්දේසි යටතේ පමණක් ව්‍යතිරේකය අදාළ වේ.",
-        "Све тврдње су потпуно сигурне.",
-        "Ниједан одговор није тачан."
+        "Sve tvrdnje su potpuno sigurne.",
+        "Nijedan odgovor nije tačan."
       ],
       "answer": 0
     },
     "practice": [
       {
-        "prompt": "Који израз најбоље описује главну идеју?",
+        "prompt": "Koji izraz najbolje opisuje glavnu ideju?",
         "options": [
-          "odredba",
           "izuzetak",
+          "odredba",
           "usklađenost"
         ],
-        "answer": 0,
-        "explanation": "Прва реч је кључни појам ове лекције."
+        "answer": 1,
+        "explanation": "Prva reč je ključni pojam ove lekcije."
       },
       {
-        "prompt": "Изаберите одговарајући стручни појам.",
+        "prompt": "Izaberite odgovarajući stručni pojam.",
         "options": [
           "obaveza",
-          "raskid",
-          "odgovornost"
+          "odgovornost",
+          "raskid"
+        ],
+        "answer": 2,
+        "explanation": "Proverite značenje reči u rečniku lekcije."
+      },
+      {
+        "prompt": "Šta poboljšava jasnoću argumenta?",
+        "options": [
+          "Jasna struktura i dokazi",
+          "Nejasne tvrdnje",
+          "Izostavljanje konteksta"
+        ],
+        "answer": 0,
+        "explanation": "Jasna struktura pomaže čitaocu da prati argument."
+      },
+      {
+        "prompt": "Kako treba predstaviti neizvesnost?",
+        "options": [
+          "Sakriti nepoznate činjenice",
+          "Precizno navesti ograničenja",
+          "Izneti apsolutnu tvrdnju"
         ],
         "answer": 1,
-        "explanation": "Проверите значење речи у речнику лекције."
-      },
-      {
-        "prompt": "Шта побољшава јасноћу аргумента?",
-        "options": [
-          "Јасна структура и докази",
-          "Нејасне тврдње",
-          "Изостављање контекста"
-        ],
-        "answer": 0,
-        "explanation": "Јасна структура помаже читаоцу да прати аргумент."
-      },
-      {
-        "prompt": "Како треба представити неизвесност?",
-        "options": [
-          "Прецизно навести ограничења",
-          "Сакрити непознате чињенице",
-          "Изнети апсолутну тврдњу"
-        ],
-        "answer": 0,
-        "explanation": "Ограничења треба отворено и прецизно навести."
+        "explanation": "Ograničenja treba otvoreno i precizno navesti."
       }
     ]
   },
   {
     "id": "sr-c1-l24",
-    "unit": "C1 · Комуникација у кризним ситуацијама",
-    "title": "C1 · 24 · Комуникација у кризним ситуацијама",
-    "objective": "Саопштавати проверене информације мирно и одговорно током кризе.",
+    "unit": "C1 · Komunikacija u kriznim situacijama",
+    "title": "C1 · 24 · Komunikacija u kriznim situacijama",
+    "objective": "Saopštavati proverene informacije mirno i odgovorno tokom krize.",
     "vocabulary": [
       {
         "word": "saopštenje",
@@ -552,8 +552,8 @@ export const SERBIAN_C1_LESSONS_21_30 = [
         "translation": "කරුණු අසම්පූර්ණ වූ විට පවා විනිවිදභාවය වැදගත්ය."
       }
     ],
-    "grammarTitle": "Граматика и стил",
-    "grammar": "Кризна порука треба да раздвоји потврђене чињенице, непознате околности и следеће кораке. Користите кратке реченице, активне глаголе и временске оквире; не обећавајте оно што није потврђено.",
+    "grammarTitle": "Gramatika i stil",
+    "grammar": "Krizna poruka treba da razdvoji potvrđene činjenice, nepoznate okolnosti i sledeće korake. Koristite kratke rečenice, aktivne glagole i vremenske okvire; ne obećavajte ono što nije potvrđeno.",
     "examples": [
       {
         "sr": "Objavićemo proverene informacije čim budu dostupne.",
@@ -599,64 +599,64 @@ export const SERBIAN_C1_LESSONS_21_30 = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Послушајте и изаберите најтачније значење.",
+      "prompt": "Poslušajte i izaberite najtačnije značenje.",
       "audio": "Objavićemo proverene informacije čim budu dostupne. Trenutno ne možemo potvrditi uzrok incidenta. Sledeće ažuriranje biće objavljeno u podne.",
       "reading": "ඔබ්ය්අව්ඉච්එම්ඔ ප්ර්ඔව්එර්එන්එ ඉන්ෆ්ඔර්ම්අත්ස්ඉය්එ ච්ඉම් බ්උද්උ ද්ඔස්ත්උප්න්එ. ත්ර්එන්උත්න්ඔ න්එ ම්ඔෂ්එම්ඔ ප්ඔත්ව්ර්ද්ඉත්ඉ උස්ර්ඔක් ඉන්ත්ස්ඉද්එන්ත්අ. ස්ල්එද්එච්එ අෂ්උර්ඉර්අන්ය්එ බ්ඉච්එ ඔබ්ය්අව්ල්ය්එන්ඔ උ ප්ඔද්න්එ.",
       "options": [
+        "Sve tvrdnje su potpuno sigurne.",
         "තහවුරු කළ තොරතුරු ලැබුණු වහාම අපි ප්‍රකාශ කරන්නෙමු. දැනට සිදුවීමට හේතුව තහවුරු කළ නොහැක.",
-        "Све тврдње су потпуно сигурне.",
-        "Ниједан одговор није тачан."
+        "Nijedan odgovor nije tačan."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
-        "prompt": "Који израз најбоље описује главну идеју?",
+        "prompt": "Koji izraz najbolje opisuje glavnu ideju?",
         "options": [
-          "saopštenje",
           "incident",
+          "saopštenje",
           "ažuriranje"
         ],
-        "answer": 0,
-        "explanation": "Прва реч је кључни појам ове лекције."
+        "answer": 1,
+        "explanation": "Prva reč je ključni pojam ove lekcije."
       },
       {
-        "prompt": "Изаберите одговарајући стручни појам.",
+        "prompt": "Izaberite odgovarajući stručni pojam.",
         "options": [
           "provera",
-          "oporavak",
-          "nadležnost"
+          "nadležnost",
+          "oporavak"
+        ],
+        "answer": 2,
+        "explanation": "Proverite značenje reči u rečniku lekcije."
+      },
+      {
+        "prompt": "Šta poboljšava jasnoću argumenta?",
+        "options": [
+          "Jasna struktura i dokazi",
+          "Nejasne tvrdnje",
+          "Izostavljanje konteksta"
+        ],
+        "answer": 0,
+        "explanation": "Jasna struktura pomaže čitaocu da prati argument."
+      },
+      {
+        "prompt": "Kako treba predstaviti neizvesnost?",
+        "options": [
+          "Sakriti nepoznate činjenice",
+          "Precizno navesti ograničenja",
+          "Izneti apsolutnu tvrdnju"
         ],
         "answer": 1,
-        "explanation": "Проверите значење речи у речнику лекције."
-      },
-      {
-        "prompt": "Шта побољшава јасноћу аргумента?",
-        "options": [
-          "Јасна структура и докази",
-          "Нејасне тврдње",
-          "Изостављање контекста"
-        ],
-        "answer": 0,
-        "explanation": "Јасна структура помаже читаоцу да прати аргумент."
-      },
-      {
-        "prompt": "Како треба представити неизвесност?",
-        "options": [
-          "Прецизно навести ограничења",
-          "Сакрити непознате чињенице",
-          "Изнети апсолутну тврдњу"
-        ],
-        "answer": 0,
-        "explanation": "Ограничења треба отворено и прецизно навести."
+        "explanation": "Ograničenja treba otvoreno i precizno navesti."
       }
     ]
   },
   {
     "id": "sr-c1-l25",
-    "unit": "C1 · Иновације и управљање променама",
-    "title": "C1 · 25 · Иновације и управљање променама",
-    "objective": "Процењивати иновације и водити организационе промене.",
+    "unit": "C1 · Inovacije i upravljanje promenama",
+    "title": "C1 · 25 · Inovacije i upravljanje promenama",
+    "objective": "Procenjivati inovacije i voditi organizacione promene.",
     "vocabulary": [
       {
         "word": "inovacija",
@@ -715,8 +715,8 @@ export const SERBIAN_C1_LESSONS_21_30 = [
         "translation": "ප්‍රතිචාර මූලාකෘතිය වැඩිදියුණු කිරීමට උපකාරී වේ."
       }
     ],
-    "grammarTitle": "Граматика и стил",
-    "grammar": "За опис промене разликујте покретање, спровођење и усвајање. Конструкције „не толико X колико Y“ и „утолико што“ помажу у прецизном поређењу узрока и утицаја.",
+    "grammarTitle": "Gramatika i stil",
+    "grammar": "Za opis promene razlikujte pokretanje, sprovođenje i usvajanje. Konstrukcije „ne toliko X koliko Y“ i „utoliko što“ pomažu u preciznom poređenju uzroka i uticaja.",
     "examples": [
       {
         "sr": "Pilot-projekat je pokazao da je rešenje izvodljivo.",
@@ -762,64 +762,64 @@ export const SERBIAN_C1_LESSONS_21_30 = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Послушајте и изаберите најтачније значење.",
+      "prompt": "Poslušajte i izaberite najtačnije značenje.",
       "audio": "Pilot-projekat je pokazao da je rešenje izvodljivo. Usvajanje novog sistema zahteva obuku. Otpor promenama često proizlazi iz neizvesnosti.",
       "reading": "ප්ඉල්ඔත්-ප්ර්ඔය්එක්අත් ය්එ ප්ඔක්අස්අඔ ද්අ ය්එ ර්එෂ්එන්ය්එ ඉස්ව්ඔද්ල්ය්ඉව්ඔ. උස්ව්අය්අන්ය්එ න්ඔව්ඔග් ස්ඉස්ත්එම්අ ස්අහ්ත්එව්අ ඔබ්උක්උ. ඔත්ප්ඔර් ප්ර්ඔම්එන්අම්අ ච්එස්ත්ඔ ප්ර්ඔඉස්ල්අස්ඉ ඉස් න්එඉස්ව්එස්න්ඔස්ත්ඉ.",
       "options": [
-        "පරීක්ෂණ ව්‍යාපෘතියෙන් විසඳුම ක්‍රියාත්මක කළ හැකි බව පෙන්වීය. නව පද්ධතිය භාවිතයට ගැනීමට පුහුණුව අවශ්‍යය.",
-        "Све тврдње су потпуно сигурне.",
-        "Ниједан одговор није тачан."
+        "Sve tvrdnje su potpuno sigurne.",
+        "Nijedan odgovor nije tačan.",
+        "පරීක්ෂණ ව්‍යාපෘතියෙන් විසඳුම ක්‍රියාත්මක කළ හැකි බව පෙන්වීය. නව පද්ධතිය භාවිතයට ගැනීමට පුහුණුව අවශ්‍යය."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
-        "prompt": "Који израз најбоље описује главну идеју?",
+        "prompt": "Koji izraz najbolje opisuje glavnu ideju?",
         "options": [
-          "inovacija",
           "otpor",
+          "inovacija",
           "izvodljivost"
         ],
-        "answer": 0,
-        "explanation": "Прва реч је кључни појам ове лекције."
+        "answer": 1,
+        "explanation": "Prva reč je ključni pojam ove lekcije."
       },
       {
-        "prompt": "Изаберите одговарајући стручни појам.",
+        "prompt": "Izaberite odgovarajući stručni pojam.",
         "options": [
           "uvođenje",
-          "prototip",
-          "povratna informacija"
+          "povratna informacija",
+          "prototip"
+        ],
+        "answer": 2,
+        "explanation": "Proverite značenje reči u rečniku lekcije."
+      },
+      {
+        "prompt": "Šta poboljšava jasnoću argumenta?",
+        "options": [
+          "Jasna struktura i dokazi",
+          "Nejasne tvrdnje",
+          "Izostavljanje konteksta"
+        ],
+        "answer": 0,
+        "explanation": "Jasna struktura pomaže čitaocu da prati argument."
+      },
+      {
+        "prompt": "Kako treba predstaviti neizvesnost?",
+        "options": [
+          "Sakriti nepoznate činjenice",
+          "Precizno navesti ograničenja",
+          "Izneti apsolutnu tvrdnju"
         ],
         "answer": 1,
-        "explanation": "Проверите значење речи у речнику лекције."
-      },
-      {
-        "prompt": "Шта побољшава јасноћу аргумента?",
-        "options": [
-          "Јасна структура и докази",
-          "Нејасне тврдње",
-          "Изостављање контекста"
-        ],
-        "answer": 0,
-        "explanation": "Јасна структура помаже читаоцу да прати аргумент."
-      },
-      {
-        "prompt": "Како треба представити неизвесност?",
-        "options": [
-          "Прецизно навести ограничења",
-          "Сакрити непознате чињенице",
-          "Изнети апсолутну тврдњу"
-        ],
-        "answer": 0,
-        "explanation": "Ограничења треба отворено и прецизно навести."
+        "explanation": "Ograničenja treba otvoreno i precizno navesti."
       }
     ]
   },
   {
     "id": "sr-c1-l26",
-    "unit": "C1 · Одрживост и друштвени утицај",
-    "title": "C1 · 26 · Одрживост и друштвени утицај",
-    "objective": "Разматрати дугорочну одрживост и последице одлука по заједницу.",
+    "unit": "C1 · Održivost i društveni uticaj",
+    "title": "C1 · 26 · Održivost i društveni uticaj",
+    "objective": "Razmatrati dugoročnu održivost i posledice odluka po zajednicu.",
     "vocabulary": [
       {
         "word": "održivost",
@@ -878,8 +878,8 @@ export const SERBIAN_C1_LESSONS_21_30 = [
         "translation": "විමෝචන දර්ශක ක්‍රමික දියුණුවක් පෙන්වයි."
       }
     ],
-    "grammarTitle": "Граматика и стил",
-    "grammar": "Када говорите о утицају, наведите мерило, временски период и заинтересоване групе. Разликујте корелацију од узрочности и избегавајте опште тврдње без мерљивих показатеља.",
+    "grammarTitle": "Gramatika i stil",
+    "grammar": "Kada govorite o uticaju, navedite merilo, vremenski period i zainteresovane grupe. Razlikujte korelaciju od uzročnosti i izbegavajte opšte tvrdnje bez merljivih pokazatelja.",
     "examples": [
       {
         "sr": "Održivost zahteva odgovorno korišćenje resursa.",
@@ -925,64 +925,64 @@ export const SERBIAN_C1_LESSONS_21_30 = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Послушајте и изаберите најтачније значење.",
+      "prompt": "Poslušajte i izaberite najtačnije značenje.",
       "audio": "Održivost zahteva odgovorno korišćenje resursa. Uticaj treba meriti tokom dužeg perioda. Program je doneo korist lokalnoj zajednici.",
       "reading": "ඔද්ර්ෂ්ඉව්ඔස්ත් ස්අහ්ත්එව්අ ඔද්ග්ඔව්ඔර්න්ඔ ක්ඔර්ඉෂ්ච්එන්ය්එ ර්එස්උර්ස්අ. උත්ඉත්ස්අය් ත්ර්එබ්අ ම්එර්ඉත්ඉ ත්ඔක්ඔම් ද්උෂ්එග් ප්එර්ඉඔද්අ. ප්ර්ඔග්ර්අම් ය්එ ද්ඔන්එඔ ක්ඔර්ඉස්ත් ල්ඔක්අල්න්ඔය් ස්අය්එද්න්ඉත්ස්ඉ.",
       "options": [
         "තිරසාරභාවයට සම්පත් වගකීමෙන් භාවිත කිරීම අවශ්‍යය. බලපෑම දිගු කාලයක් පුරා මැනිය යුතුය.",
-        "Све тврдње су потпуно сигурне.",
-        "Ниједан одговор није тачан."
+        "Sve tvrdnje su potpuno sigurne.",
+        "Nijedan odgovor nije tačan."
       ],
       "answer": 0
     },
     "practice": [
       {
-        "prompt": "Који израз најбоље описује главну идеју?",
+        "prompt": "Koji izraz najbolje opisuje glavnu ideju?",
         "options": [
-          "održivost",
           "emisija",
+          "održivost",
           "pokazatelj"
         ],
-        "answer": 0,
-        "explanation": "Прва реч је кључни појам ове лекције."
+        "answer": 1,
+        "explanation": "Prva reč je ključni pojam ove lekcije."
       },
       {
-        "prompt": "Изаберите одговарајући стручни појам.",
+        "prompt": "Izaberite odgovarajući stručni pojam.",
         "options": [
           "uticaj",
-          "zajednica",
-          "dugoročan"
+          "dugoročan",
+          "zajednica"
+        ],
+        "answer": 2,
+        "explanation": "Proverite značenje reči u rečniku lekcije."
+      },
+      {
+        "prompt": "Šta poboljšava jasnoću argumenta?",
+        "options": [
+          "Jasna struktura i dokazi",
+          "Nejasne tvrdnje",
+          "Izostavljanje konteksta"
+        ],
+        "answer": 0,
+        "explanation": "Jasna struktura pomaže čitaocu da prati argument."
+      },
+      {
+        "prompt": "Kako treba predstaviti neizvesnost?",
+        "options": [
+          "Sakriti nepoznate činjenice",
+          "Precizno navesti ograničenja",
+          "Izneti apsolutnu tvrdnju"
         ],
         "answer": 1,
-        "explanation": "Проверите значење речи у речнику лекције."
-      },
-      {
-        "prompt": "Шта побољшава јасноћу аргумента?",
-        "options": [
-          "Јасна структура и докази",
-          "Нејасне тврдње",
-          "Изостављање контекста"
-        ],
-        "answer": 0,
-        "explanation": "Јасна структура помаже читаоцу да прати аргумент."
-      },
-      {
-        "prompt": "Како треба представити неизвесност?",
-        "options": [
-          "Прецизно навести ограничења",
-          "Сакрити непознате чињенице",
-          "Изнети апсолутну тврдњу"
-        ],
-        "answer": 0,
-        "explanation": "Ограничења треба отворено и прецизно навести."
+        "explanation": "Ograničenja treba otvoreno i precizno navesti."
       }
     ]
   },
   {
     "id": "sr-c1-l27",
-    "unit": "C1 · Критичко читање и књижевно тумачење",
-    "title": "C1 · 27 · Критичко читање и књижевно тумачење",
-    "objective": "Тумачити перспективу, симболику и непоузданог приповедача.",
+    "unit": "C1 · Kritičko čitanje i književno tumačenje",
+    "title": "C1 · 27 · Kritičko čitanje i književno tumačenje",
+    "objective": "Tumačiti perspektivu, simboliku i nepouzdanog pripovedača.",
     "vocabulary": [
       {
         "word": "pripovedač",
@@ -1041,8 +1041,8 @@ export const SERBIAN_C1_LESSONS_21_30 = [
         "translation": "අර්ථකථනය පාඨමය සාක්ෂිවලින් තහවුරු කළ යුතුය."
       }
     ],
-    "grammarTitle": "Граматика и стил",
-    "grammar": "Књижевно тумачење треба да разликује текстуални доказ од личног утиска. Формулације „може се читати као“, „наговештава“ и „приповедач прећуткује“ представљају аргументовану, а не апсолутну интерпретацију.",
+    "grammarTitle": "Gramatika i stil",
+    "grammar": "Književno tumačenje treba da razlikuje tekstualni dokaz od ličnog utiska. Formulacije „može se čitati kao“, „nagoveštava“ i „pripovedač prećutkuje“ predstavljaju argumentovanu, a ne apsolutnu interpretaciju.",
     "examples": [
       {
         "sr": "Nepouzdani pripovedač menja čitaočevu perspektivu.",
@@ -1088,64 +1088,64 @@ export const SERBIAN_C1_LESSONS_21_30 = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Послушајте и изаберите најтачније значење.",
+      "prompt": "Poslušajte i izaberite najtačnije značenje.",
       "audio": "Nepouzdani pripovedač menja čitaočevu perspektivu. Simbolika se razvija kroz ponavljajući motiv. Ovaj detalj može se čitati kao nagoveštaj sukoba.",
       "reading": "න්එප්ඔඋස්ද්අන්ඉ ප්ර්ඉප්ඔව්එද්අච් ම්එන්ය්අ ච්ඉත්අඔච්එව්උ ප්එර්ස්ප්එක්ත්ඉව්උ. ස්ඉම්බ්ඔල්ඉක්අ ස්එ ර්අස්ව්ඉය්අ ක්ර්ඔස් ප්ඔන්අව්ල්ය්අය්උච්ඉ ම්ඔත්ඉව්. ඔව්අය් ද්එත්අල්ය් ම්ඔෂ්එ ස්එ ච්ඉත්අත්ඉ ක්අඔ න්අග්ඔව්එෂ්ත්අය් ස්උක්ඔබ්අ.",
       "options": [
+        "Sve tvrdnje su potpuno sigurne.",
         "විශ්වාස කළ නොහැකි කථකයා පාඨකයාගේ දෘෂ්ටිකෝණය වෙනස් කරයි. නැවත නැවත මතුවන තේමාවක් හරහා සංකේතවාදය වර්ධනය වේ.",
-        "Све тврдње су потпуно сигурне.",
-        "Ниједан одговор није тачан."
+        "Nijedan odgovor nije tačan."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
-        "prompt": "Који израз најбоље описује главну идеју?",
+        "prompt": "Koji izraz najbolje opisuje glavnu ideju?",
         "options": [
-          "pripovedač",
           "nagoveštaj",
+          "pripovedač",
           "tumačenje"
         ],
-        "answer": 0,
-        "explanation": "Прва реч је кључни појам ове лекције."
+        "answer": 1,
+        "explanation": "Prva reč je ključni pojam ove lekcije."
       },
       {
-        "prompt": "Изаберите одговарајући стручни појам.",
+        "prompt": "Izaberite odgovarajući stručni pojam.",
         "options": [
           "perspektiva",
-          "dvosmislenost",
-          "aluzija"
+          "aluzija",
+          "dvosmislenost"
+        ],
+        "answer": 2,
+        "explanation": "Proverite značenje reči u rečniku lekcije."
+      },
+      {
+        "prompt": "Šta poboljšava jasnoću argumenta?",
+        "options": [
+          "Jasna struktura i dokazi",
+          "Nejasne tvrdnje",
+          "Izostavljanje konteksta"
+        ],
+        "answer": 0,
+        "explanation": "Jasna struktura pomaže čitaocu da prati argument."
+      },
+      {
+        "prompt": "Kako treba predstaviti neizvesnost?",
+        "options": [
+          "Sakriti nepoznate činjenice",
+          "Precizno navesti ograničenja",
+          "Izneti apsolutnu tvrdnju"
         ],
         "answer": 1,
-        "explanation": "Проверите значење речи у речнику лекције."
-      },
-      {
-        "prompt": "Шта побољшава јасноћу аргумента?",
-        "options": [
-          "Јасна структура и докази",
-          "Нејасне тврдње",
-          "Изостављање контекста"
-        ],
-        "answer": 0,
-        "explanation": "Јасна структура помаже читаоцу да прати аргумент."
-      },
-      {
-        "prompt": "Како треба представити неизвесност?",
-        "options": [
-          "Прецизно навести ограничења",
-          "Сакрити непознате чињенице",
-          "Изнети апсолутну тврдњу"
-        ],
-        "answer": 0,
-        "explanation": "Ограничења треба отворено и прецизно навести."
+        "explanation": "Ograničenja treba otvoreno i precizno navesti."
       }
     ]
   },
   {
     "id": "sr-c1-l28",
-    "unit": "C1 · Медијски оквир и пристрасност",
-    "title": "C1 · 28 · Медијски оквир и пристрасност",
-    "objective": "Препознати избор оквира, пристрасност и језик наслова.",
+    "unit": "C1 · Medijski okvir i pristrasnost",
+    "title": "C1 · 28 · Medijski okvir i pristrasnost",
+    "objective": "Prepoznati izbor okvira, pristrasnost i jezik naslova.",
     "vocabulary": [
       {
         "word": "okvir",
@@ -1204,8 +1204,8 @@ export const SERBIAN_C1_LESSONS_21_30 = [
         "translation": "ස්වාධීන මූලාශ්‍ර කිහිපයක් සසඳා බැලිය යුතුය."
       }
     ],
-    "grammarTitle": "Граматика и стил",
-    "grammar": "Медијски оквир утиче на то шта публика сматра важним. Упоредите наслов, избор извора, изостављене чињенице и тон. Разликујте чињеничну грешку од пристрасног избора нагласка.",
+    "grammarTitle": "Gramatika i stil",
+    "grammar": "Medijski okvir utiče na to šta publika smatra važnim. Uporedite naslov, izbor izvora, izostavljene činjenice i ton. Razlikujte činjeničnu grešku od pristrasnog izbora naglaska.",
     "examples": [
       {
         "sr": "Naslov naglašava sukob, a ne dogovor.",
@@ -1251,64 +1251,64 @@ export const SERBIAN_C1_LESSONS_21_30 = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Послушајте и изаберите најтачније значење.",
+      "prompt": "Poslušajte i izaberite najtačnije značenje.",
       "audio": "Naslov naglašava sukob, a ne dogovor. Nedostajući kontekst može promeniti značenje izjave. Provera činjenica otkrila je netačan podatak.",
       "reading": "න්අස්ල්ඔව් න්අග්ල්අෂ්අව්අ ස්උක්ඔබ්, අ න්එ ද්ඔග්ඔව්ඔර්. න්එද්ඔස්ත්අය්උච්ඉ ක්ඔන්ත්එක්ස්ත් ම්ඔෂ්එ ප්ර්ඔම්එන්ඉත්ඉ ස්න්අච්එන්ය්එ ඉස්ය්අව්එ. ප්ර්ඔව්එර්අ ච්ඉන්ය්එන්ඉත්ස්අ ඔත්ක්ර්ඉල්අ ය්එ න්එත්අච්අන් ප්ඔද්අත්අක්.",
       "options": [
-        "සිරස්තලය එකඟතාවට වඩා ගැටුම අවධාරණය කරයි. අතුරුදහන් සන්දර්භය ප්‍රකාශයක අර්ථය වෙනස් කළ හැක.",
-        "Све тврдње су потпуно сигурне.",
-        "Ниједан одговор није тачан."
+        "Sve tvrdnje su potpuno sigurne.",
+        "Nijedan odgovor nije tačan.",
+        "සිරස්තලය එකඟතාවට වඩා ගැටුම අවධාරණය කරයි. අතුරුදහන් සන්දර්භය ප්‍රකාශයක අර්ථය වෙනස් කළ හැක."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
-        "prompt": "Који израз најбоље описује главну идеју?",
+        "prompt": "Koji izraz najbolje opisuje glavnu ideju?",
         "options": [
-          "okvir",
           "izvor",
+          "okvir",
           "ton"
         ],
-        "answer": 0,
-        "explanation": "Прва реч је кључни појам ове лекције."
+        "answer": 1,
+        "explanation": "Prva reč je ključni pojam ove lekcije."
       },
       {
-        "prompt": "Изаберите одговарајући стручни појам.",
+        "prompt": "Izaberite odgovarajući stručni pojam.",
         "options": [
           "pristrasnost",
-          "izostavljanje",
-          "kontekst"
+          "kontekst",
+          "izostavljanje"
+        ],
+        "answer": 2,
+        "explanation": "Proverite značenje reči u rečniku lekcije."
+      },
+      {
+        "prompt": "Šta poboljšava jasnoću argumenta?",
+        "options": [
+          "Jasna struktura i dokazi",
+          "Nejasne tvrdnje",
+          "Izostavljanje konteksta"
+        ],
+        "answer": 0,
+        "explanation": "Jasna struktura pomaže čitaocu da prati argument."
+      },
+      {
+        "prompt": "Kako treba predstaviti neizvesnost?",
+        "options": [
+          "Sakriti nepoznate činjenice",
+          "Precizno navesti ograničenja",
+          "Izneti apsolutnu tvrdnju"
         ],
         "answer": 1,
-        "explanation": "Проверите значење речи у речнику лекције."
-      },
-      {
-        "prompt": "Шта побољшава јасноћу аргумента?",
-        "options": [
-          "Јасна структура и докази",
-          "Нејасне тврдње",
-          "Изостављање контекста"
-        ],
-        "answer": 0,
-        "explanation": "Јасна структура помаже читаоцу да прати аргумент."
-      },
-      {
-        "prompt": "Како треба представити неизвесност?",
-        "options": [
-          "Прецизно навести ограничења",
-          "Сакрити непознате чињенице",
-          "Изнети апсолутну тврдњу"
-        ],
-        "answer": 0,
-        "explanation": "Ограничења треба отворено и прецизно навести."
+        "explanation": "Ograničenja treba otvoreno i precizno navesti."
       }
     ]
   },
   {
     "id": "sr-c1-l29",
-    "unit": "C1 · Условне конструкције и ограђивање тврдњи",
-    "title": "C1 · 29 · Условне конструкције и ограђивање тврдњи",
-    "objective": "Изражавати сложене услове, претпоставке и степен сигурности.",
+    "unit": "C1 · Uslovne konstrukcije i ograđivanje tvrdnji",
+    "title": "C1 · 29 · Uslovne konstrukcije i ograđivanje tvrdnji",
+    "objective": "Izražavati složene uslove, pretpostavke i stepen sigurnosti.",
     "vocabulary": [
       {
         "word": "pretpostavka",
@@ -1367,8 +1367,8 @@ export const SERBIAN_C1_LESSONS_21_30 = [
         "translation": "දත්ත නිවැරදි නම් පමණක් නිගමනය වලංගු වේ."
       }
     ],
-    "grammarTitle": "Граматика и стил",
-    "grammar": "Ограђивање тврдње прецизира степен сигурности: „вероватно“, „под условом да“, „уколико се покаже“ и „не може се искључити“. Условне реченице могу описивати стварне, хипотетичке или контрафактичке ситуације.",
+    "grammarTitle": "Gramatika i stil",
+    "grammar": "Ograđivanje tvrdnje precizira stepen sigurnosti: „verovatno“, „pod uslovom da“, „ukoliko se pokaže“ i „ne može se isključiti“. Uslovne rečenice mogu opisivati stvarne, hipotetičke ili kontrafaktičke situacije.",
     "examples": [
       {
         "sr": "Da smo ranije reagovali, posledice bi bile blaže.",
@@ -1414,64 +1414,64 @@ export const SERBIAN_C1_LESSONS_21_30 = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Послушајте и изаберите најтачније значење.",
+      "prompt": "Poslušajte i izaberite najtačnije značenje.",
       "audio": "Da smo ranije reagovali, posledice bi bile blaže. Ukoliko se potvrdi pretpostavka, plan će biti izmenjen. Ne može se isključiti mogućnost dodatnih troškova.",
       "reading": "ද්අ ස්ම්ඔ ර්අන්ඉය්එ ර්එඅග්ඔව්අල්ඉ, ප්ඔස්ල්එද්ඉත්ස්එ බ්ඉ බ්ඉල්එ බ්ල්අෂ්එ. උක්ඔල්ඉක්ඔ ස්එ ප්ඔත්ව්ර්ද්ඉ ප්ර්එත්ප්ඔස්ත්අව්ක්අ, ප්ල්අන් ච්එ බ්ඉත්ඉ ඉස්ම්එන්ය්එන්. න්එ ම්ඔෂ්එ ස්එ ඉස්ක්ල්ය්උච්ඉත්ඉ ම්ඔග්උච්න්ඔස්ත් ද්ඔද්අත්න්ඉහ් ත්ර්ඔෂ්ක්ඔව්අ.",
       "options": [
         "අපි කලින් ක්‍රියා කළා නම්, ප්‍රතිවිපාක අඩු විය හැකිව තිබුණි. උපකල්පනය තහවුරු වුවහොත් සැලැස්ම සංශෝධනය කෙරේ.",
-        "Све тврдње су потпуно сигурне.",
-        "Ниједан одговор није тачан."
+        "Sve tvrdnje su potpuno sigurne.",
+        "Nijedan odgovor nije tačan."
       ],
       "answer": 0
     },
     "practice": [
       {
-        "prompt": "Који израз најбоље описује главну идеју?",
+        "prompt": "Koji izraz najbolje opisuje glavnu ideju?",
         "options": [
-          "pretpostavka",
           "hipotetički",
+          "pretpostavka",
           "posledica"
         ],
-        "answer": 0,
-        "explanation": "Прва реч је кључни појам ове лекције."
+        "answer": 1,
+        "explanation": "Prva reč je ključni pojam ove lekcije."
       },
       {
-        "prompt": "Изаберите одговарајући стручни појам.",
+        "prompt": "Izaberite odgovarajući stručni pojam.",
         "options": [
           "verovatnoća",
-          "ograda",
-          "kontrafaktualan"
+          "kontrafaktualan",
+          "ograda"
+        ],
+        "answer": 2,
+        "explanation": "Proverite značenje reči u rečniku lekcije."
+      },
+      {
+        "prompt": "Šta poboljšava jasnoću argumenta?",
+        "options": [
+          "Jasna struktura i dokazi",
+          "Nejasne tvrdnje",
+          "Izostavljanje konteksta"
+        ],
+        "answer": 0,
+        "explanation": "Jasna struktura pomaže čitaocu da prati argument."
+      },
+      {
+        "prompt": "Kako treba predstaviti neizvesnost?",
+        "options": [
+          "Sakriti nepoznate činjenice",
+          "Precizno navesti ograničenja",
+          "Izneti apsolutnu tvrdnju"
         ],
         "answer": 1,
-        "explanation": "Проверите значење речи у речнику лекције."
-      },
-      {
-        "prompt": "Шта побољшава јасноћу аргумента?",
-        "options": [
-          "Јасна структура и докази",
-          "Нејасне тврдње",
-          "Изостављање контекста"
-        ],
-        "answer": 0,
-        "explanation": "Јасна структура помаже читаоцу да прати аргумент."
-      },
-      {
-        "prompt": "Како треба представити неизвесност?",
-        "options": [
-          "Прецизно навести ограничења",
-          "Сакрити непознате чињенице",
-          "Изнети апсолутну тврдњу"
-        ],
-        "answer": 0,
-        "explanation": "Ограничења треба отворено и прецизно навести."
+        "explanation": "Ograničenja treba otvoreno i precizno navesti."
       }
     ]
   },
   {
     "id": "sr-c1-l30",
-    "unit": "C1 · Уређивање сложених текстова и прецизност",
-    "title": "C1 · 30 · Уређивање сложених текстова и прецизност",
-    "objective": "Уређивати сложене текстове ради јасноће, тачности и доследности.",
+    "unit": "C1 · Uređivanje složenih tekstova i preciznost",
+    "title": "C1 · 30 · Uređivanje složenih tekstova i preciznost",
+    "objective": "Uređivati složene tekstove radi jasnoće, tačnosti i doslednosti.",
     "vocabulary": [
       {
         "word": "preciznost",
@@ -1530,8 +1530,8 @@ export const SERBIAN_C1_LESSONS_21_30 = [
         "translation": "භාෂා නිවැරදි කිරීමේදී ව්‍යාකරණය සහ විරාම ලකුණු පරීක්ෂා කෙරේ."
       }
     ],
-    "grammarTitle": "Граматика и стил",
-    "grammar": "При уређивању проверите структуру пасуса, референце заменица, доследност термина и сувишна понављања. Сложену реченицу поделите када однос међу идејама постане нејасан; сажетост не сме уклонити важну нијансу.",
+    "grammarTitle": "Gramatika i stil",
+    "grammar": "Pri uređivanju proverite strukturu pasusa, reference zamenica, doslednost termina i suvišna ponavljanja. Složenu rečenicu podelite kada odnos među idejama postane nejasan; sažetost ne sme ukloniti važnu nijansu.",
     "examples": [
       {
         "sr": "Ovaj pasus treba preformulisati radi jasnoće.",
@@ -1577,56 +1577,56 @@ export const SERBIAN_C1_LESSONS_21_30 = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Послушајте и изаберите најтачније значење.",
+      "prompt": "Poslušajte i izaberite najtačnije značenje.",
       "audio": "Ovaj pasus treba preformulisati radi jasnoće. Nedosledna terminologija zbunjuje čitaoca. Uklonite suvišna ponavljanja, ali sačuvajte nijansu.",
       "reading": "ඔව්අය් ප්අස්උස් ත්ර්එබ්අ ප්ර්එෆ්ඔර්ම්උල්ඉස්අත්ඉ ර්අද්ඉ ය්අස්න්ඔච්එ. න්එද්ඔස්ල්එද්න්අ ත්එර්ම්ඉන්ඔල්ඔග්ඉය්අ ස්බ්උන්ය්උය්එ ච්ඉත්අඔත්ස්අ. උක්ල්ඔන්ඉත්එ ස්උව්ඉෂ්න්අ ප්ඔන්අව්ල්ය්අන්ය්අ, අල්ඉ ස්අච්උව්අය්ත්එ න්ඉය්අන්ස්උ.",
       "options": [
+        "Sve tvrdnje su potpuno sigurne.",
         "පැහැදිලිභාවය සඳහා මෙම ඡේදය නැවත සකස් කළ යුතුය. අනුකූල නොවන පාරිභාෂික වචන පාඨකයා ව්‍යාකූල කරයි.",
-        "Све тврдње су потпуно сигурне.",
-        "Ниједан одговор није тачан."
+        "Nijedan odgovor nije tačan."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
-        "prompt": "Који израз најбоље описује главну идеју?",
+        "prompt": "Koji izraz najbolje opisuje glavnu ideju?",
         "options": [
-          "preciznost",
           "suvišan",
+          "preciznost",
           "sažetost"
         ],
-        "answer": 0,
-        "explanation": "Прва реч је кључни појам ове лекције."
+        "answer": 1,
+        "explanation": "Prva reč je ključni pojam ove lekcije."
       },
       {
-        "prompt": "Изаберите одговарајући стручни појам.",
+        "prompt": "Izaberite odgovarajući stručni pojam.",
         "options": [
           "dvosmislen",
-          "preformulisati",
-          "lektorisanje"
+          "lektorisanje",
+          "preformulisati"
+        ],
+        "answer": 2,
+        "explanation": "Proverite značenje reči u rečniku lekcije."
+      },
+      {
+        "prompt": "Šta poboljšava jasnoću argumenta?",
+        "options": [
+          "Jasna struktura i dokazi",
+          "Nejasne tvrdnje",
+          "Izostavljanje konteksta"
+        ],
+        "answer": 0,
+        "explanation": "Jasna struktura pomaže čitaocu da prati argument."
+      },
+      {
+        "prompt": "Kako treba predstaviti neizvesnost?",
+        "options": [
+          "Sakriti nepoznate činjenice",
+          "Precizno navesti ograničenja",
+          "Izneti apsolutnu tvrdnju"
         ],
         "answer": 1,
-        "explanation": "Проверите значење речи у речнику лекције."
-      },
-      {
-        "prompt": "Шта побољшава јасноћу аргумента?",
-        "options": [
-          "Јасна структура и докази",
-          "Нејасне тврдње",
-          "Изостављање контекста"
-        ],
-        "answer": 0,
-        "explanation": "Јасна структура помаже читаоцу да прати аргумент."
-      },
-      {
-        "prompt": "Како треба представити неизвесност?",
-        "options": [
-          "Прецизно навести ограничења",
-          "Сакрити непознате чињенице",
-          "Изнети апсолутну тврдњу"
-        ],
-        "answer": 0,
-        "explanation": "Ограничења треба отворено и прецизно навести."
+        "explanation": "Ograničenja treba otvoreno i precizno navesti."
       }
     ]
   }
