@@ -1967,65 +1967,65 @@ const serbianB1Lessons = [
         "word": "strategy",
         "reading": "ස්ත්‍රාත්‍රෙගියා",
         "meaning": "උපායමාර්ගය",
-        "example": "Redovno ponavljanje pomaže da bolje zapamtimo nove reči.",
-        "translation": "නිතිපතා නැවත කිරීමෙන් අලුත් වචන හොඳින් මතක තබාගන්න පුළුවන්.",
-        "exampleReading": "නිතිපතා නැවත කිරීමෙන් අලුත් වචන හොඳින් මතක තබාගන්න පුළුවන්."
+        "example": "Moja strategija je da svakog dana učim deset novih reči.",
+        "translation": "මගේ උපායමාර්ගය වන්නේ හැමදාම අලුත් වචන දහයක් ඉගෙන ගැනීමයි.",
+        "exampleReading": "මොයා ස්ත්‍රාතෙගියා යෙ දා ස්වාකොග් දානා උචිම් දෙසෙත් නොවිහ් රෙචි."
       },
       {
         "word": "revision",
         "reading": "පොනව්ල්යාන්යේ",
         "meaning": "නැවත පුහුණුව",
-        "example": "Najviše naučim kada koristim jezik u razgovoru.",
-        "translation": "සංවාදයකදී භාෂාව භාවිතා කරන විට මම වැඩිපුර ඉගෙන ගන්නවා.",
-        "exampleReading": "සංවාදයකදී භාෂාව භාවිතා කරන විට මම වැඩිපුර ඉගෙන ගන්නවා."
+        "example": "Kratka revizija lekcije pomaže mi da zapamtim gradivo.",
+        "translation": "පාඩම කෙටියෙන් නැවත අධ්‍යයනය කිරීමෙන් කරුණු මතක තබාගන්න මට උපකාරී වෙනවා.",
+        "exampleReading": "ක්‍රාත්කා රෙවිසියා ලෙක්තියෙ පොමාෂෙ මි දා සාප්ම්තිම් ග්‍රාදිවො."
       },
       {
         "word": "skill",
         "reading": "වෙෂ්තිනා",
         "meaning": "කුසලතාව",
-        "example": "Važno je da unapred razmotrimo sve mogućnosti.",
-        "translation": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද උනප්‍රෙද් රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "Vežbanjem razgovora razvijam svoju veštinu govora.",
+        "translation": "සංවාද පුහුණුවෙන් මගේ කතා කිරීමේ කුසලතාව වර්ධනය කරගන්නවා.",
+        "exampleReading": "වෙෂ්බානියෙම් රාස්ගොවොරා රාස්වියාම් ස්වොයු වෙෂ්තිනු ගොවොරා."
       },
       {
         "word": "course",
         "reading": "කුර්ස්",
         "meaning": "පාඨමාලාව",
-        "example": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
-        "translation": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා.",
-        "exampleReading": "නා ක්‍රායු චෙමො ඉස්සාබ්‍රාති රෙෂෙන්යේ කොයෙ නායිවිෂෙ ඔද්ගොවාරා ස්විමා."
+        "example": "Upisala je kurs srpskog jezika za početnike.",
+        "translation": "ඇය ආරම්භකයන් සඳහා සර්බියානු භාෂා පාඨමාලාවකට ලියාපදිංචි වුණා.",
+        "exampleReading": "උපිසාලා යෙ කුර්ස් ස්ර්ප්ස්කොග් යෙසිකා සා පොචෙත්නිකෙ."
       },
       {
         "word": "goal",
         "reading": "ත්සිල්ය්",
         "meaning": "ඉලක්කය",
-        "example": "Redovno ponavljanje pomaže da bolje zapamtimo nove reči.",
-        "translation": "නිතිපතා නැවත කිරීමෙන් අලුත් වචන හොඳින් මතක තබාගන්න පුළුවන්.",
-        "exampleReading": "නිතිපතා නැවත කිරීමෙන් අලුත් වචන හොඳින් මතක තබාගන්න පුළුවන්."
+        "example": "Moj cilj je da do kraja meseca mogu tečno da razgovaram.",
+        "translation": "මාසය අවසන් වන විට චතුර ලෙස කතා කිරීමට හැකිවීම මගේ ඉලක්කයයි.",
+        "exampleReading": "මොය් ත්සිල් යෙ දා දො ක්‍රායා මෙසෙත්සා මොගු තෙච්නො දා රාස්ගොවරාම්."
       },
       {
         "word": "progress",
         "reading": "නප්‍රෙදාක්",
         "meaning": "ප්‍රගතිය",
-        "example": "Najviše naučim kada koristim jezik u razgovoru.",
-        "translation": "සංවාදයකදී භාෂාව භාවිතා කරන විට මම වැඩිපුර ඉගෙන ගන්නවා.",
-        "exampleReading": "සංවාදයකදී භාෂාව භාවිතා කරන විට මම වැඩිපුර ඉගෙන ගන්නවා."
+        "example": "Svake nedelje proveravam svoj napredak u učenju.",
+        "translation": "සෑම සතියකම මගේ ඉගෙනීමේ ප්‍රගතිය පරීක්ෂා කරනවා.",
+        "exampleReading": "ස්වාකෙ නෙදෙල්යෙ ප්‍රොවෙරාවාම් ස්වොය් නප්‍රෙදාක් උ උචෙන්‍යු."
       },
       {
         "word": "note",
         "reading": "බෙලෙෂ්කා",
         "meaning": "සටහන",
-        "example": "Važno je da unapred razmotrimo sve mogućnosti.",
-        "translation": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද උනප්‍රෙද් රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "Zapisao sam važnu napomenu u svoju svesku.",
+        "translation": "මම වැදගත් සටහනක් මගේ පොතේ ලියාගත්තා.",
+        "exampleReading": "සාපිසාඔ සාම් වාෂ්නු නාපොමෙනු උ ස්වොයු ස්වෙස්කු."
       },
       {
         "word": "method",
         "reading": "මෙතොදා",
         "meaning": "ක්‍රමය",
-        "example": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
-        "translation": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා.",
-        "exampleReading": "නා ක්‍රායු චෙමො ඉස්සාබ්‍රාති රෙෂෙන්යේ කොයෙ නායිවිෂෙ ඔද්ගොවාරා ස්විමා."
+        "example": "Ovaj metod učenja mi najviše odgovara.",
+        "translation": "මෙම ඉගෙනීමේ ක්‍රමය මට වඩාත්ම ගැළපෙනවා.",
+        "exampleReading": "ඔවාය් මෙතොද් උචෙන්‍යා මි නායිවිෂෙ ඔද්ගොවාරා."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
