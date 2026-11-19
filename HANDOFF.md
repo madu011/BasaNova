@@ -1188,3 +1188,14 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 
 ### Next exact task
 - Continue paired audit of A1 lessons 21–30: compare topic alignment, required Sinhala pronunciation/meaning, practice counts and listening parity. Correct only verified gaps and preserve current lesson IDs/progress keys.
+
+
+## 2026-11-19 — A1 lessons 21–30 listening parity
+- Compared Serbian and English A1 lessons 21–30; the topic sequence aligns across weather/clothes, restaurant ordering, customer service, phone calls, parcels, doctor/health, emergency help, returns, plans and lateness.
+- Added one Serbian TTS listening task to each lesson 21–30 and filled the missing English tasks in lessons 21–22 and 27–30. Existing English tasks in 23–26 were retained. Each task has three Sinhala answer choices and per-option Sinhala-script reading guides.
+- Updated content QA to validate listening reading arrays and corrected the lesson-title number matcher.
+- Static source audit confirms 10/10 listening tasks per language in this range; all 30 reading strings are Sinhala-script only, without Latin/Cyrillic contamination. Full Node QA, Expo/TTS runtime and Android testing remain pending. Pronunciation is approximate and needs fluent-speaker review.
+- Commits: Serbian `335770788342d86ef7184138296998f90d44c671`; English `ae9030ddcc8a6be7c6c7996ae448606831b170f3`; QA `74b9a7cabd12b25db145f2a7f9caab5b71d531ce`.
+
+### Next exact task
+- Continue paired A1 audit for lessons 31–40; preserve lesson IDs and progress keys. Do not run builds until the usage reset and billing restriction are resolved.
