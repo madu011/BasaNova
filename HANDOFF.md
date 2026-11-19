@@ -739,3 +739,11 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 - Diagnosis: the Android workflow was running `assembleDebug`, which produces a development/debug variant that expects Metro instead of a standalone release JS bundle. The preceding `expo export` step does not make the debug APK self-contained.
 - Updated `.github/workflows/android-apk.yml` to build `assembleRelease`, verify that `app/build/outputs/apk/release/app-release.apk` exists and is non-empty, and upload it as `basanova-android-release-apk`. Workflow update commit: 7ce9cad0717bf480d6267092585c2060134c3d71.
 - The new GitHub Actions run must complete before claiming the release APK is fixed. Then install that new release artifact and verify app startup on a physical Android device. The previous debug APK is not the correct standalone artifact.
+
+
+## 2026-11-19 — Android safe-area and responsive layout pass
+- User requested continuing the remaining BasaNova work and specifically fixing full-screen layout alignment where content overlaps the Android status/notification bar, plus general screen-fit issues.
+- Updated `App.js`: switched the root to `SafeAreaProvider` and `SafeAreaView` from `react-native-safe-area-context` with top/right/bottom/left insets; explicitly keeps the Android status bar visible and non-translucent; constrained header, course bar, content and bottom navigation to a centered responsive width; tightened bottom-nav item sizing and label alignment. App commit: `df6fd16e950605832fa32a00d7271ae969c88945`.
+- Added `react-native-safe-area-context ~5.6.0` to `package.json`. Dependency commit: `4807b20ccdafc8e67553570b79f9854684ca893f`.
+- Not yet verified: GitHub Actions dependency install/Expo export/release APK after these changes, and physical-device layout across screen sizes, Android navigation modes, and keyboard-open states. Do not claim these are fixed until a new APK is installed and checked.
+- Next: inspect CI for the latest package commit; fix any dependency/build failures; then perform a systematic UI audit of every tab and lesson surface for clipping, overflow, spacing, typography, touch targets, keyboard behavior, and system-bar insets. Continue remaining content QA and release tasks after layout baseline is stable.
