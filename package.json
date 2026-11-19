@@ -9,7 +9,8 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "build:android:debug": "expo prebuild --platform android --no-install --clean && cd android && ./gradlew assembleDebug",
-    "build:android:release": "expo prebuild --platform android --no-install --clean && cd android && ./gradlew assembleRelease"
+    "build:android:release": "expo prebuild --platform android --no-install --clean && cd android && ./gradlew assembleRelease",
+    "qa:content": "node scripts/content-qa.mjs"
   },
   "dependencies": {
     "expo": "~54.0.0",
