@@ -1,5 +1,4 @@
-// Structured English B1 lessons. Sinhala readings are approximate learner guides.
-export const ENGLISH_B1_LESSONS = [
+const englishB1Lessons = [
   {
     "id": "en-b1-l1",
     "unit": "Independent use",
@@ -1790,65 +1789,65 @@ export const ENGLISH_B1_LESSONS = [
         "word": "certainty",
         "reading": "සර්ටන්ටි",
         "meaning": "නිශ්චිතභාවය",
-        "example": "It may rain, but we will probably arrive on time.",
-        "exampleReading": "ඉට් මේ රේන් බට් වී විල් ප්‍රොබබ්ලි අරයිව් ඔන් ටයිම්.",
-        "translation": "වැස්ස ඇති විය හැකි නමුත් අපි බොහෝවිට වෙලාවට ළඟා වේවි."
+        "example": "Certainty is important before we make a decision.",
+        "exampleReading": "සර්ටන්ටි ඉස් ඉම්පෝර්ටන්ට් බිෆෝර් වී මේක් අ ඩිසිෂන්.",
+        "translation": "තීරණයක් ගැනීමට පෙර නිශ්චිතභාවය වැදගත්."
       },
       {
         "word": "perhaps",
         "reading": "පර්හැප්ස්",
         "meaning": "සමහරවිට",
-        "example": "If there is traffic, we might take a taxi.",
-        "exampleReading": "ඉෆ් දෙයාර් ඉස් ට්‍රැෆික් වී මයිට් ටේක් අ ටැක්සි.",
-        "translation": "රථවාහන තදබදයක් තිබුණොත් අපි ටැක්සියක් ගන්න ඉඩ තියෙනවා."
+        "example": "Perhaps we will visit the museum tomorrow.",
+        "exampleReading": "පර්හැප්ස් වී විල් විසිට් දි මියුසියම් ටුමොරෝ.",
+        "translation": "සමහරවිට අපි හෙට කෞතුකාගාරය බලන්න යාවි."
       },
       {
         "word": "likely",
         "reading": "ලයික්ලි",
         "meaning": "විය හැකි",
-        "example": "It is important to consider every option in advance.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන් ඉන් ඇඩ්වාන්ස්.",
-        "translation": "සෑම විකල්පයක්ම කලින් සලකා බැලීම වැදගත්."
+        "example": "The bus is likely to arrive in ten minutes.",
+        "exampleReading": "දි බස් ඉස් ලයික්ලි ටු අරයිව් ඉන් ටෙන් මිනිට්ස්.",
+        "translation": "බස් රථය විනාඩි දහයකින් පැමිණීමට ඉඩ තිබෙනවා."
       },
       {
         "word": "unlikely",
         "reading": "අන්ලයික්ලි",
         "meaning": "අඩු ඉඩක් ඇති",
-        "example": "In the end, we will choose the solution that works best for everyone.",
-        "exampleReading": "ඉන් දි එන්ඩ් වී විල් චූස් දි සලූෂන් දැට් වර්ක්ස් බෙස්ට් ෆෝ එව්රීවන්.",
-        "translation": "අවසානයේ හැමෝටම හොඳම විසඳුම තෝරනවා."
+        "example": "The shop is unlikely to be closed today.",
+        "exampleReading": "දි ෂොප් ඉස් අන්ලයික්ලි ටු බී ක්ලෝස්ඩ් ටුඩේ.",
+        "translation": "අද වෙළඳසැල වසා තිබීමට ඇති ඉඩ අඩුයි."
       },
       {
         "word": "estimate",
         "reading": "එස්ටිමේට්",
         "meaning": "ඇස්තමේන්තුව",
-        "example": "It may rain, but we will probably arrive on time.",
-        "exampleReading": "ඉට් මේ රේන් බට් වී විල් ප්‍රොබබ්ලි අරයිව් ඔන් ටයිම්.",
-        "translation": "වැස්ස ඇති විය හැකි නමුත් අපි බොහෝවිට වෙලාවට ළඟා වේවි."
+        "example": "Our estimate of the costs is about fifty euros.",
+        "exampleReading": "අවර් එස්ටිමේට් ඔෆ් දි කොස්ට්ස් ඉස් අබවුට් ෆිෆ්ටි යුරෝස්.",
+        "translation": "අපේ වියදම් ඇස්තමේන්තුව යුරෝ පනහක් පමණයි."
       },
       {
         "word": "forecast",
         "reading": "ෆෝර්කාස්ට්",
         "meaning": "අනාවැකිය",
-        "example": "If there is traffic, we might take a taxi.",
-        "exampleReading": "ඉෆ් දෙයාර් ඉස් ට්‍රැෆික් වී මයිට් ටේක් අ ටැක්සි.",
-        "translation": "රථවාහන තදබදයක් තිබුණොත් අපි ටැක්සියක් ගන්න ඉඩ තියෙනවා."
+        "example": "The weather forecast predicts rain this afternoon.",
+        "exampleReading": "දි වෙදර් ෆෝර්කාස්ට් ප්‍රිඩික්ට්ස් රේන් දිස් ආෆ්ටර්නූන්.",
+        "translation": "කාලගුණ අනාවැකිය අද හවස වැසි ඇතිවන බව කියනවා."
       },
       {
         "word": "definitely",
         "reading": "ඩෙෆිනිට්ලි",
         "meaning": "නිසැකවම",
-        "example": "It is important to consider every option in advance.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන් ඉන් ඇඩ්වාන්ස්.",
-        "translation": "සෑම විකල්පයක්ම කලින් සලකා බැලීම වැදගත්."
+        "example": "I will definitely attend the meeting on Friday.",
+        "exampleReading": "අයි විල් ඩෙෆිනිට්ලි අටෙන්ඩ් දි මීටිං ඔන් ෆ්‍රයිඩේ.",
+        "translation": "මම අනිවාර්යයෙන්ම සිකුරාදා රැස්වීමට සහභාගි වෙනවා."
       },
       {
         "word": "possibility",
         "reading": "පොසිබිලිටි",
         "meaning": "හැකියාව",
-        "example": "In the end, we will choose the solution that works best for everyone.",
-        "exampleReading": "ඉන් දි එන්ඩ් වී විල් චූස් දි සලූෂන් දැට් වර්ක්ස් බෙස්ට් ෆෝ එව්රීවන්.",
-        "translation": "අවසානයේ හැමෝටම හොඳම විසඳුම තෝරනවා."
+        "example": "There is a possibility that we will extend our stay.",
+        "exampleReading": "දෙයාර් ඉස් අ පොසිබිලිටි දැට් වී විල් එක්ස්ටෙන්ඩ් අවර් ස්ටේ.",
+        "translation": "අපේ නවාතැන් කාලය දිගු කිරීමට හැකියාවක් තිබෙනවා."
       }
     ],
     "grammarTitle": "Grammar",
@@ -8901,3 +8900,5 @@ export const ENGLISH_B1_LESSONS = [
     ]
   }
 ];
+
+export default englishB1Lessons;
