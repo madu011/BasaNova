@@ -1889,19 +1889,19 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "It may rain, but we will probably arrive on time."
       },
       {
-        "text": "B: I see. What do you suggest?",
-        "reading": "බී: අයි සී. වොට් ඩූ යූ සජෙස්ට්?",
-        "meaning": "තේරුණා. ඔයා මොකක්ද යෝජනා කරන්නේ?"
+        "text": "B: Do you usually check the timetable before leaving?",
+        "reading": "B: Do you usually ච්eck ත්e timetable before leaviං?",
+        "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "text": "A: If there is traffic, we might take a taxi.",
-        "reading": "ඒ: ඉෆ් දෙයාර් ඉස් ට්‍රැෆික් වී මයිට් ටේක් අ ටැක්සි.",
-        "meaning": "If there is traffic, we might take a taxi."
+        "reading": "A: If ත්ere is traffic, we might take a taxi.",
+        "meaning": "එය සාධාරණයි. පැමිණෙන වේලාව පරීක්ෂා කර ඉක්මන්ම විකල්පය තෝරමු."
       },
       {
-        "text": "B: I agree. That should help us solve the problem.",
-        "reading": "බී: අයි අග්‍රී. දැට් ෂුඩ් හෙල්ප් අස් සෝල්ව් දි ප්‍රොබ්ලම්.",
-        "meaning": "එකඟයි. එය ගැටලුව විසඳීමට උදව් වේවි."
+        "text": "B: That makes sense. We will check the arrival time and choose the quickest option.",
+        "reading": "B: ත්at makes sense. We will ච්eck ත්e arrival time and ච්oose ත්e quickest option.",
+        "meaning": "ගමන් වේලාව පරීක්ෂා කර ඉක්මන්ම විකල්පය තෝරාගැනීම."
       }
     ],
     "listeningPractice": {
@@ -1947,14 +1947,14 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "perhaps = සමහරවිට"
       },
       {
-        "prompt": "How does speaker B respond?",
+        "prompt": "What does speaker B recommend or emphasise?",
         "options": [
-          "I do not know the address.",
-          "I agree. That should help us solve the problem.",
-          "How old is the station?"
+          "Check the travel time",
+          "Change the address",
+          "Cancel the train"
         ],
-        "answer": 1,
-        "explanation": "“I agree” expresses agreement with the suggestion."
+        "answer": 0,
+        "explanation": "That makes sense. We will check the arrival time and choose the quickest option. = ගමන් වේලාව පරීක්ෂා කර ඉක්මන්ම විකල්පය තෝරාගැනීම."
       }
     ]
   },
@@ -2067,19 +2067,19 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "Regular revision helps us remember new words."
       },
       {
-        "text": "B: I see. What do you suggest?",
-        "reading": "බී: අයි සී. වොට් ඩූ යූ සජෙස්ට්?",
-        "meaning": "තේරුණා. ඔයා මොකක්ද යෝජනා කරන්නේ?"
+        "text": "B: Does reading or conversation help you more?",
+        "reading": "B: Does readiං or conversation help you more?",
+        "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "text": "A: I learn most when I use the language in conversation.",
-        "reading": "ඒ: අයි ලර්න් මෝස්ට් වෙන් අයි යූස් දි ලැංග්විජ් ඉන් කන්වර්සේෂන්.",
-        "meaning": "I learn most when I use the language in conversation."
+        "reading": "A: I learn most when I use ත්e laංuage in conversation.",
+        "meaning": "එහෙනම් අපට හැමදාම කෙටි සංවාදයකින් පුහුණු වෙන්න පුළුවන්."
       },
       {
-        "text": "B: I agree. That should help us solve the problem.",
-        "reading": "බී: අයි අග්‍රී. දැට් ෂුඩ් හෙල්ප් අස් සෝල්ව් දි ප්‍රොබ්ලම්.",
-        "meaning": "එකඟයි. එය ගැටලුව විසඳීමට උදව් වේවි."
+        "text": "B: Then we can practise through a short conversation every day.",
+        "reading": "B: ත්en we can practise ත්rough a ෂ්ort conversation every day.",
+        "meaning": "දිනපතා කෙටි සංවාදයකින් පුහුණු වීම."
       }
     ],
     "listeningPractice": {
@@ -2125,14 +2125,14 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "revision = නැවත පුහුණුව"
       },
       {
-        "prompt": "How does speaker B respond?",
+        "prompt": "What does speaker B recommend or emphasise?",
         "options": [
-          "I do not know the address.",
-          "I agree. That should help us solve the problem.",
-          "How old is the station?"
+          "Daily short conversations",
+          "Stop studying",
+          "Only read books"
         ],
-        "answer": 1,
-        "explanation": "“I agree” expresses agreement with the suggestion."
+        "answer": 0,
+        "explanation": "Then we can practise through a short conversation every day. = දිනපතා කෙටි සංවාදයකින් පුහුණු වීම."
       }
     ]
   },
@@ -2245,19 +2245,19 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "Because of the roadworks, the bus leaves from another stop."
       },
       {
-        "text": "B: I see. What do you suggest?",
-        "reading": "බී: අයි සී. වොට් ඩූ යූ සජෙස්ට්?",
-        "meaning": "තේරුණා. ඔයා මොකක්ද යෝජනා කරන්නේ?"
+        "text": "B: Have you checked the time of the next departure?",
+        "reading": "B: Have you ච්ecked ත්e time of ත්e next departure?",
+        "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "text": "A: If we miss the train, we will check the next departure.",
-        "reading": "ඒ: ඉෆ් වී මිස් දි ට්‍රේන් වී විල් චෙක් දි නෙක්ස්ට් ඩිපාර්චර්.",
-        "meaning": "If we miss the train, we will check the next departure."
+        "reading": "A: If we miss ත්e train, we will ච්eck ත්e next departure.",
+        "meaning": "හොඳයි. එවිට කොපමණ වේලාවක් බලා සිටිය යුතුදැයි දැනගන්න පුළුවන්."
       },
       {
-        "text": "B: I agree. That should help us solve the problem.",
-        "reading": "බී: අයි අග්‍රී. දැට් ෂුඩ් හෙල්ප් අස් සෝල්ව් දි ප්‍රොබ්ලම්.",
-        "meaning": "එකඟයි. එය ගැටලුව විසඳීමට උදව් වේවි."
+        "text": "B: Good. That way we will know how long we need to wait.",
+        "reading": "B: Good. ත්at way we will know how loං we need to wait.",
+        "meaning": "ඊළඟ දුම්රිය පිටත්වන වේලාව පරීක්ෂා කිරීම."
       }
     ],
     "listeningPractice": {
@@ -2303,14 +2303,14 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "departure = පිටත්වීම"
       },
       {
-        "prompt": "How does speaker B respond?",
+        "prompt": "What does speaker B recommend or emphasise?",
         "options": [
-          "I do not know the address.",
-          "I agree. That should help us solve the problem.",
-          "How old is the station?"
+          "Check the next train time",
+          "Cancel the journey",
+          "Throw away the ticket"
         ],
-        "answer": 1,
-        "explanation": "“I agree” expresses agreement with the suggestion."
+        "answer": 0,
+        "explanation": "Good. That way we will know how long we need to wait. = ඊළඟ දුම්රිය පිටත්වන වේලාව පරීක්ෂා කිරීම."
       }
     ]
   },
@@ -2423,19 +2423,19 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "I would like to make a complaint about the damaged product."
       },
       {
-        "text": "B: I see. What do you suggest?",
-        "reading": "බී: අයි සී. වොට් ඩූ යූ සජෙස්ට්?",
-        "meaning": "තේරුණා. ඔයා මොකක්ද යෝජනා කරන්නේ?"
+        "text": "B: Do you have the receipt and a photo of the damage?",
+        "reading": "B: Do you have ත්e receipt and a ෆ්oto of ත්e damage?",
+        "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "text": "A: Please explain the available replacement options.",
-        "reading": "ඒ: ප්ලීස් එක්ස්ප්ලේන් දි අවේලබල් රිප්ලේස්මන්ට් ඔප්ෂන්ස්.",
-        "meaning": "Please explain the available replacement options."
+        "reading": "A: Please explain ත්e available replacement options.",
+        "meaning": "ඇත්තෙන්ම. නීති අනුව භාණ්ඩය මාරු කිරීමක් හෝ මුදල් ආපසු ලබාගැනීමක් ඉල්ලන්න පුළුවන්."
       },
       {
-        "text": "B: I agree. That should help us solve the problem.",
-        "reading": "බී: අයි අග්‍රී. දැට් ෂුඩ් හෙල්ප් අස් සෝල්ව් දි ප්‍රොබ්ලම්.",
-        "meaning": "එකඟයි. එය ගැටලුව විසඳීමට උදව් වේවි."
+        "text": "B: Of course. We can request a replacement or a refund according to the policy.",
+        "reading": "B: Of course. We can request a replacement or a refund accordiං to ත්e policy.",
+        "meaning": "භාණ්ඩය මාරු කිරීමක් හෝ මුදල් ආපසු ලබාගැනීමක් ඉල්ලීම."
       }
     ],
     "listeningPractice": {
@@ -2481,14 +2481,14 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "receipt = රිසිට්පත"
       },
       {
-        "prompt": "How does speaker B respond?",
+        "prompt": "What does speaker B recommend or emphasise?",
         "options": [
-          "I do not know the address.",
-          "I agree. That should help us solve the problem.",
-          "How old is the station?"
+          "Request a replacement or refund",
+          "Buy a new product",
+          "Withdraw the complaint"
         ],
-        "answer": 1,
-        "explanation": "“I agree” expresses agreement with the suggestion."
+        "answer": 0,
+        "explanation": "Of course. We can request a replacement or a refund according to the policy. = භාණ්ඩය මාරු කිරීමක් හෝ මුදල් ආපසු ලබාගැනීමක් ඉල්ලීම."
       }
     ]
   },
@@ -2601,19 +2601,19 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "First complete the form, then hand it to the officer."
       },
       {
-        "text": "B: I see. What do you suggest?",
-        "reading": "බී: අයි සී. වොට් ඩූ යූ සජෙස්ට්?",
-        "meaning": "තේරුණා. ඔයා මොකක්ද යෝජනා කරන්නේ?"
+        "text": "B: Are the steps clear, and in what order should they be followed?",
+        "reading": "B: Are ත්e steps clear, and in what order ෂ්ould ත්ey be followed?",
+        "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "text": "A: After the device is switched on, wait a few seconds.",
-        "reading": "ඒ: ආෆ්ටර් දි ඩිවයිස් ඉස් ස්විච්ඩ් ඔන් වේට් අ ෆියු සෙකන්ඩ්ස්.",
-        "meaning": "After the device is switched on, wait a few seconds."
+        "reading": "A: After ත්e device is switච්ed on, wait a few seconds.",
+        "meaning": "පියවර අනුපිළිවෙළට අනුගමනය කර ආරක්ෂක උපදෙස් මඟ නොහැරීම වැදගත්."
       },
       {
-        "text": "B: I agree. That should help us solve the problem.",
-        "reading": "බී: අයි අග්‍රී. දැට් ෂුඩ් හෙල්ප් අස් සෝල්ව් දි ප්‍රොබ්ලම්.",
-        "meaning": "එකඟයි. එය ගැටලුව විසඳීමට උදව් වේවි."
+        "text": "B: It is important to follow the order and not skip safety instructions.",
+        "reading": "B: It is important to follow ත්e order and not skip safety instructions.",
+        "meaning": "පියවර අනුපිළිවෙළට අනුගමනය කිරීම සහ ආරක්ෂක උපදෙස් පිළිපැදීම."
       }
     ],
     "listeningPractice": {
@@ -2659,14 +2659,14 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "instruction = උපදෙස්"
       },
       {
-        "prompt": "How does speaker B respond?",
+        "prompt": "What does speaker B recommend or emphasise?",
         "options": [
-          "I do not know the address.",
-          "I agree. That should help us solve the problem.",
-          "How old is the station?"
+          "Follow the steps in order",
+          "Ignore the instructions",
+          "Disconnect the device immediately"
         ],
-        "answer": 1,
-        "explanation": "“I agree” expresses agreement with the suggestion."
+        "answer": 0,
+        "explanation": "It is important to follow the order and not skip safety instructions. = පියවර අනුපිළිවෙළට අනුගමනය කිරීම සහ ආරක්ෂක උපදෙස් පිළිපැදීම."
       }
     ]
   },
@@ -2779,19 +2779,19 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "Our community is organising a park clean-up."
       },
       {
-        "text": "B: I see. What do you suggest?",
-        "reading": "බී: අයි සී. වොට් ඩූ යූ සජෙස්ට්?",
-        "meaning": "තේරුණා. ඔයා මොකක්ද යෝජනා කරන්නේ?"
+        "text": "B: How can residents take part in the activity?",
+        "reading": "B: How can residents take part in ත්e activity?",
+        "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "text": "A: Residents can suggest solutions at the public meeting.",
-        "reading": "ඒ: රෙසිඩන්ට්ස් කෑන් සජෙස්ට් සොලූෂන්ස් ඇට් දි පබ්ලික් මීටින්.",
-        "meaning": "Residents can suggest solutions at the public meeting."
+        "reading": "A: Residents can suggest solutions at ත්e public meetiං.",
+        "meaning": "විශිෂ්ටයි. හැමෝටම සහභාගී විය හැකි ලෙස රැස්වීමේ වේලාව ප්‍රකාශ කරමු."
       },
       {
-        "text": "B: I agree. That should help us solve the problem.",
-        "reading": "බී: අයි අග්‍රී. දැට් ෂුඩ් හෙල්ප් අස් සෝල්ව් දි ප්‍රොබ්ලම්.",
-        "meaning": "එකඟයි. එය ගැටලුව විසඳීමට උදව් වේවි."
+        "text": "B: Excellent. We will publish the meeting time so everyone can attend.",
+        "reading": "B: Excellent. We will publiෂ් ත්e meetiං time so everyone can attend.",
+        "meaning": "රැස්වීමේ වේලාව ප්‍රකාශ කර සියලු දෙනාට සහභාගී වීමට ඉඩ සැලසීම."
       }
     ],
     "listeningPractice": {
@@ -2837,14 +2837,14 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "volunteer = ස්වේච්ඡා සේවකයා"
       },
       {
-        "prompt": "How does speaker B respond?",
+        "prompt": "What does speaker B recommend or emphasise?",
         "options": [
-          "I do not know the address.",
-          "I agree. That should help us solve the problem.",
-          "How old is the station?"
+          "Publish the meeting time",
+          "Close the park",
+          "Ignore suggestions"
         ],
-        "answer": 1,
-        "explanation": "“I agree” expresses agreement with the suggestion."
+        "answer": 0,
+        "explanation": "Excellent. We will publish the meeting time so everyone can attend. = රැස්වීමේ වේලාව ප්‍රකාශ කර සියලු දෙනාට සහභාගී වීමට ඉඩ සැලසීම."
       }
     ]
   },
@@ -2957,19 +2957,19 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "I am trying to create a balance between work and rest."
       },
       {
-        "text": "B: I see. What do you suggest?",
-        "reading": "බී: අයි සී. වොට් ඩූ යූ සජෙස්ට්?",
-        "meaning": "තේරුණා. ඔයා මොකක්ද යෝජනා කරන්නේ?"
+        "text": "B: What takes up most of your free time?",
+        "reading": "B: What takes up most of your free time?",
+        "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "text": "A: If we plan our tasks in advance, we will have more free time.",
-        "reading": "ඒ: ඉෆ් වී ප්ලෑන් අවර් ටාස්ක්ස් ඉන් ඇඩ්වාන්ස් වී විල් හැව් මෝර් ෆ්‍රී ටයිම්.",
-        "meaning": "If we plan our tasks in advance, we will have more free time."
+        "reading": "A: If we plan our tasks in advance, we will have more free time.",
+        "meaning": "අපට කාලසටහනක් සකස් කර විවේකයටත් කාලය වෙන් කරන්න පුළුවන්."
       },
       {
-        "text": "B: I agree. That should help us solve the problem.",
-        "reading": "බී: අයි අග්‍රී. දැට් ෂුඩ් හෙල්ප් අස් සෝල්ව් දි ප්‍රොබ්ලම්.",
-        "meaning": "එකඟයි. එය ගැටලුව විසඳීමට උදව් වේවි."
+        "text": "B: We can make a schedule and leave time for rest.",
+        "reading": "B: We can make a sච්edule and leave time for rest.",
+        "meaning": "කාලසටහනක් සකස් කර විවේකයට කාලය වෙන් කිරීම."
       }
     ],
     "listeningPractice": {
@@ -3015,14 +3015,14 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "deadline = අවසන් දිනය"
       },
       {
-        "prompt": "How does speaker B respond?",
+        "prompt": "What does speaker B recommend or emphasise?",
         "options": [
-          "I do not know the address.",
-          "I agree. That should help us solve the problem.",
-          "How old is the station?"
+          "Make a schedule and leave time to rest",
+          "Remove all rest time",
+          "Postpone all work"
         ],
-        "answer": 1,
-        "explanation": "“I agree” expresses agreement with the suggestion."
+        "answer": 0,
+        "explanation": "We can make a schedule and leave time for rest. = කාලසටහනක් සකස් කර විවේකයට කාලය වෙන් කිරීම."
       }
     ]
   },
@@ -3135,19 +3135,19 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "Public transport is often a more sustainable choice than a car."
       },
       {
-        "text": "B: I see. What do you suggest?",
-        "reading": "බී: අයි සී. වොට් ඩූ යූ සජෙස්ට්?",
-        "meaning": "තේරුණා. ඔයා මොකක්ද යෝජනා කරන්නේ?"
+        "text": "B: What small changes can we make at home?",
+        "reading": "B: What small ච්aංes can we make at home?",
+        "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "text": "A: If we reduce waste, we protect natural resources.",
-        "reading": "ඒ: ඉෆ් වී රිඩියූස් වේස්ට් වී ප්‍රොටෙක්ට් නැචරල් රිසෝර්සිස්.",
-        "meaning": "If we reduce waste, we protect natural resources."
+        "reading": "A: If we reduce waste, we protect natural resources.",
+        "meaning": "අපට අපද්‍රව්‍ය වෙන් කර පොදු ප්‍රවාහනය වැඩිපුර භාවිත කළ හැකියි."
       },
       {
-        "text": "B: I agree. That should help us solve the problem.",
-        "reading": "බී: අයි අග්‍රී. දැට් ෂුඩ් හෙල්ප් අස් සෝල්ව් දි ප්‍රොබ්ලම්.",
-        "meaning": "එකඟයි. එය ගැටලුව විසඳීමට උදව් වේවි."
+        "text": "B: We can separate waste and use public transport more often.",
+        "reading": "B: We can separate waste and use public transport more often.",
+        "meaning": "අපද්‍රව්‍ය වෙන් කිරීම සහ පොදු ප්‍රවාහනය භාවිත කිරීම."
       }
     ],
     "listeningPractice": {
@@ -3193,14 +3193,14 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "waste = අපද්‍රව්‍ය"
       },
       {
-        "prompt": "How does speaker B respond?",
+        "prompt": "What does speaker B recommend or emphasise?",
         "options": [
-          "I do not know the address.",
-          "I agree. That should help us solve the problem.",
-          "How old is the station?"
+          "Separate waste and use public transport",
+          "Produce more waste",
+          "Use a car for every short trip"
         ],
-        "answer": 1,
-        "explanation": "“I agree” expresses agreement with the suggestion."
+        "answer": 0,
+        "explanation": "We can separate waste and use public transport more often. = අපද්‍රව්‍ය වෙන් කිරීම සහ පොදු ප්‍රවාහනය භාවිත කිරීම."
       }
     ]
   },
@@ -3313,19 +3313,19 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "Because of heavy rain, the match was postponed."
       },
       {
-        "text": "B: I see. What do you suggest?",
-        "reading": "බී: අයි සී. වොට් ඩූ යූ සජෙස්ට්?",
-        "meaning": "තේරුණා. ඔයා මොකක්ද යෝජනා කරන්නේ?"
+        "text": "B: Why was the match postponed?",
+        "reading": "B: Why was ත්e matච් postponed?",
+        "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "text": "A: There was not enough time, so we changed the plan.",
-        "reading": "ඒ: දෙයාර් වොස් නොට් ඉනෆ් ටයිම් සෝ වී චේන්ජ්ඩ් දි ප්ලෑන්.",
-        "meaning": "There was not enough time, so we changed the plan."
+        "reading": "A: ත්ere was not enough time, so we ච්aංed ත්e plan.",
+        "meaning": "තේරුණා. කාලය ප්‍රමාණවත් නොවීම වෙනස්කමේ ප්‍රධාන හේතුවයි."
       },
       {
-        "text": "B: I agree. That should help us solve the problem.",
-        "reading": "බී: අයි අග්‍රී. දැට් ෂුඩ් හෙල්ප් අස් සෝල්ව් දි ප්‍රොබ්ලම්.",
-        "meaning": "එකඟයි. එය ගැටලුව විසඳීමට උදව් වේවි."
+        "text": "B: I understand. The lack of time was the main reason for the change.",
+        "reading": "B: I understand. ත්e lack of time was ත්e main reason for ත්e ච්aංe.",
+        "meaning": "කාලය ප්‍රමාණවත් නොවීම ප්‍රධාන හේතුව බව පැහැදිලි කිරීම."
       }
     ],
     "listeningPractice": {
@@ -3371,14 +3371,14 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "effect = බලපෑම"
       },
       {
-        "prompt": "How does speaker B respond?",
+        "prompt": "What does speaker B recommend or emphasise?",
         "options": [
-          "I do not know the address.",
-          "I agree. That should help us solve the problem.",
-          "How old is the station?"
+          "Not having enough time",
+          "High cost",
+          "Bad food"
         ],
-        "answer": 1,
-        "explanation": "“I agree” expresses agreement with the suggestion."
+        "answer": 0,
+        "explanation": "I understand. The lack of time was the main reason for the change. = කාලය ප්‍රමාණවත් නොවීම ප්‍රධාන හේතුව බව පැහැදිලි කිරීම."
       }
     ]
   },
@@ -3491,19 +3491,19 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "On the one hand, this option is cheaper; on the other hand, it is slower."
       },
       {
-        "text": "B: I see. What do you suggest?",
-        "reading": "බී: අයි සී. වොට් ඩූ යූ සජෙස්ට්?",
-        "meaning": "තේරුණා. ඔයා මොකක්ද යෝජනා කරන්නේ?"
+        "text": "B: Which criterion is most important to you when choosing?",
+        "reading": "B: Whiච් criterion is most important to you when ච්oosiං?",
+        "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
         "text": "A: In my opinion, the advantages outweigh the disadvantages.",
-        "reading": "ඒ: ඉන් මයි ඔපීනියන් දි ඇඩ්වාන්ටේජස් අවර්වේ දි ඩිස්ඇඩ්වාන්ටේජස්.",
-        "meaning": "In my opinion, the advantages outweigh the disadvantages."
+        "reading": "A: In my opinion, ත්e advantages outweigh ත්e disadvantages.",
+        "meaning": "අවසාන තීරණයට පෙර මිල සහ වේගය සසඳමු."
       },
       {
-        "text": "B: I agree. That should help us solve the problem.",
-        "reading": "බී: අයි අග්‍රී. දැට් ෂුඩ් හෙල්ප් අස් සෝල්ව් දි ප්‍රොබ්ලම්.",
-        "meaning": "එකඟයි. එය ගැටලුව විසඳීමට උදව් වේවි."
+        "text": "B: Let us compare the cost and speed before making the final decision.",
+        "reading": "B: Let us compare ත්e cost and speed before makiං ත්e final decision.",
+        "meaning": "මිල සහ වේගය සසඳා අවසාන තීරණය ගැනීම."
       }
     ],
     "listeningPractice": {
@@ -3549,14 +3549,14 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "disadvantage = අවාසිය"
       },
       {
-        "prompt": "How does speaker B respond?",
+        "prompt": "What does speaker B recommend or emphasise?",
         "options": [
-          "I do not know the address.",
-          "I agree. That should help us solve the problem.",
-          "How old is the station?"
+          "Compare cost and speed",
+          "Choose without comparing",
+          "Delay the decision"
         ],
-        "answer": 1,
-        "explanation": "“I agree” expresses agreement with the suggestion."
+        "answer": 0,
+        "explanation": "Let us compare the cost and speed before making the final decision. = මිල සහ වේගය සසඳා අවසාන තීරණය ගැනීම."
       }
     ]
   },
@@ -3669,19 +3669,19 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "මගේ කුසලතා දියුණු කරගැනීමට පාඨමාලාව අවසන් කරන්න කැමතියි."
       },
       {
-        "text": "B: I understand. Could you explain why?",
-        "reading": "B: අයි අන්ඩර්ස්ටෑන්ඩ්. කුඩ් යූ එක්ස්ප්ලේන් වයි?",
-        "meaning": "තේරුණා. ඇයි කියලා පැහැදිලි කරන්න පුළුවන්ද?"
+        "text": "B: Which course do you need for your work?",
+        "reading": "B: Whiච් course do you need for your work?",
+        "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
-        "text": "A: It is important to consider every option.",
-        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
-        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+        "text": "A: It is important to choose a programme that fits my schedule and goals.",
+        "reading": "A: It is important to ච්oose a programme ත්at fits my sච්edule and goals.",
+        "meaning": "එහෙනම් පාඨමාලාවේ අන්තර්ගතය, කාලය සහ මිල මුලින් සසඳමු."
       },
       {
-        "text": "B: I agree. Let us make a plan.",
-        "reading": "B: අයි අග්‍රී. ලෙට් අස් මේක් අ ප්ලෑන්.",
-        "meaning": "එකඟයි. අපි සැලැස්මක් හදමු."
+        "text": "B: Then let us first compare the course content, duration and price.",
+        "reading": "B: ත්en let us first compare ත්e course content, duration and price.",
+        "meaning": "පාඨමාලාවේ අන්තර්ගතය, කාලය සහ මිල සසඳා බැලීම."
       }
     ],
     "listeningPractice": {
@@ -3727,14 +3727,14 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "qualification = සුදුසුකම"
       },
       {
-        "prompt": "What does speaker B suggest?",
+        "prompt": "What does speaker B recommend or emphasise?",
         "options": [
-          "Make a plan",
-          "Cancel the trip",
-          "Ask about the price"
+          "Compare course content, duration and price",
+          "Register without checking details",
+          "Stop learning"
         ],
         "answer": 0,
-        "explanation": "Let us make a plan = අපි සැලැස්මක් හදමු."
+        "explanation": "Then let us first compare the course content, duration and price. = පාඨමාලාවේ අන්තර්ගතය, කාලය සහ මිල සසඳා බැලීම."
       }
     ]
   },
@@ -3847,19 +3847,19 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "මගේ වැඩ සංවිධානය කිරීමට උදව් කරන යෙදුමක් භාවිතා කරනවා."
       },
       {
-        "text": "B: I understand. Could you explain why?",
-        "reading": "B: අයි අන්ඩර්ස්ටෑන්ඩ්. කුඩ් යූ එක්ස්ප්ලේන් වයි?",
-        "meaning": "තේරුණා. ඇයි කියලා පැහැදිලි කරන්න පුළුවන්ද?"
+        "text": "B: Which app features do you use most often?",
+        "reading": "B: Whiච් app features do you use most often?",
+        "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
-        "text": "A: It is important to consider every option.",
-        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
-        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+        "text": "A: Reminders and the calendar help me organise tasks the most.",
+        "reading": "A: Reminders and ත්e calendar help me organise tasks ත්e most.",
+        "meaning": "අපට දැනුම්දීම් සකස් කර සතිපතා කාලසටහනක් හදන්න පුළුවන්."
       },
       {
-        "text": "B: I agree. Let us make a plan.",
-        "reading": "B: අයි අග්‍රී. ලෙට් අස් මේක් අ ප්ලෑන්.",
-        "meaning": "එකඟයි. අපි සැලැස්මක් හදමු."
+        "text": "B: We can set notifications and create a weekly schedule.",
+        "reading": "B: We can set notifications and create a weekly sච්edule.",
+        "meaning": "දැනුම්දීම් සකස් කර සතිපතා කාලසටහනක් සෑදීම."
       }
     ],
     "listeningPractice": {
@@ -3905,14 +3905,14 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "account = ගිණුම"
       },
       {
-        "prompt": "What does speaker B suggest?",
+        "prompt": "What does speaker B recommend or emphasise?",
         "options": [
-          "Make a plan",
-          "Cancel the trip",
-          "Ask about the price"
+          "Set notifications and make a weekly schedule",
+          "Delete the app",
+          "Turn off all notifications"
         ],
         "answer": 0,
-        "explanation": "Let us make a plan = අපි සැලැස්මක් හදමු."
+        "explanation": "We can set notifications and create a weekly schedule. = දැනුම්දීම් සකස් කර සතිපතා කාලසටහනක් සෑදීම."
       }
     ]
   },
@@ -4025,19 +4025,19 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්."
       },
       {
-        "text": "B: I understand. Could you explain why?",
-        "reading": "B: අයි අන්ඩර්ස්ටෑන්ඩ්. කුඩ් යූ එක්ස්ප්ලේන් වයි?",
-        "meaning": "තේරුණා. ඇයි කියලා පැහැදිලි කරන්න පුළුවන්ද?"
+        "text": "B: How much money do you want to save each month?",
+        "reading": "B: How muච් money do you want to save eaච් monත්?",
+        "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
-        "text": "A: It is important to consider every option.",
-        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
-        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+        "text": "A: I will set a realistic amount and put it aside from my salary automatically.",
+        "reading": "A: I will set a realistic amount and put it aside from my salary automatically.",
+        "meaning": "මුලින්ම මාසික අයවැයක් සකස් කර වියදම් නිරීක්ෂණය කිරීම හොඳයි."
       },
       {
-        "text": "B: I agree. Let us make a plan.",
-        "reading": "B: අයි අග්‍රී. ලෙට් අස් මේක් අ ප්ලෑන්.",
-        "meaning": "එකඟයි. අපි සැලැස්මක් හදමු."
+        "text": "B: It is a good idea to make a monthly budget first and track expenses.",
+        "reading": "B: It is a good idea to make a monත්ly budget first and track expenses.",
+        "meaning": "මාසික අයවැයක් සකස් කර වියදම් නිරීක්ෂණය කිරීම."
       }
     ],
     "listeningPractice": {
@@ -4083,14 +4083,14 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "budget = අයවැය"
       },
       {
-        "prompt": "What does speaker B suggest?",
+        "prompt": "What does speaker B recommend or emphasise?",
         "options": [
-          "Make a plan",
-          "Cancel the trip",
-          "Ask about the price"
+          "Make a budget and track expenses",
+          "Spend all savings",
+          "Do not record expenses"
         ],
         "answer": 0,
-        "explanation": "Let us make a plan = අපි සැලැස්මක් හදමු."
+        "explanation": "It is a good idea to make a monthly budget first and track expenses. = මාසික අයවැයක් සකස් කර වියදම් නිරීක්ෂණය කිරීම."
       }
     ]
   },
@@ -4203,19 +4203,19 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා."
       },
       {
-        "text": "B: I understand. Could you explain why?",
-        "reading": "B: අයි අන්ඩර්ස්ටෑන්ඩ්. කුඩ් යූ එක්ස්ප්ලේන් වයි?",
-        "meaning": "තේරුණා. ඇයි කියලා පැහැදිලි කරන්න පුළුවන්ද?"
+        "text": "B: How do you organise rest when you have many responsibilities?",
+        "reading": "B: How do you organise rest when you have many responsibilities?",
+        "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
-        "text": "A: It is important to consider every option.",
-        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
-        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+        "text": "A: I try to go to bed at the same time and take short breaks.",
+        "reading": "A: I try to go to bed at ත්e same time and take ෂ්ort breaks.",
+        "meaning": "එය හොඳ පුරුද්දක්. නිතිපතා විවේකය සමස්ත යහපැවැත්මට උපකාරී වේ."
       },
       {
-        "text": "B: I agree. Let us make a plan.",
-        "reading": "B: අයි අග්‍රී. ලෙට් අස් මේක් අ ප්ලෑන්.",
-        "meaning": "එකඟයි. අපි සැලැස්මක් හදමු."
+        "text": "B: That is a good habit. Regular rest can support overall well-being.",
+        "reading": "B: ත්at is a good habit. Regular rest can support overall well-beiං.",
+        "meaning": "නිතිපතා විවේකය සහ කෙටි විරාම පවත්වාගැනීම."
       }
     ],
     "listeningPractice": {
@@ -4261,14 +4261,14 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "habit = පුරුද්ද"
       },
       {
-        "prompt": "What does speaker B suggest?",
+        "prompt": "What does speaker B recommend or emphasise?",
         "options": [
-          "Make a plan",
-          "Cancel the trip",
-          "Ask about the price"
+          "Regular rest and short breaks",
+          "Give up rest completely",
+          "Reduce sleep"
         ],
         "answer": 0,
-        "explanation": "Let us make a plan = අපි සැලැස්මක් හදමු."
+        "explanation": "That is a good habit. Regular rest can support overall well-being. = නිතිපතා විවේකය සහ කෙටි විරාම පවත්වාගැනීම."
       }
     ]
   },
@@ -4381,19 +4381,19 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා."
       },
       {
-        "text": "B: I understand. Could you explain why?",
-        "reading": "B: අයි අන්ඩර්ස්ටෑන්ඩ්. කුඩ් යූ එක්ස්ප්ලේන් වයි?",
-        "meaning": "තේරුණා. ඇයි කියලා පැහැදිලි කරන්න පුළුවන්ද?"
+        "text": "B: Which tradition is especially important to you?",
+        "reading": "B: Whiච් tradition is especially important to you?",
+        "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
-        "text": "A: It is important to consider every option.",
-        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
-        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+        "text": "A: Family gatherings are important because they connect us with older generations.",
+        "reading": "A: Family gaත්eriංs are important because ත්ey connect us wiත් older generations.",
+        "meaning": "සිරිත් විරිත් රැකගෙන ඒවායේ අර්ථය තරුණයන්ට පැහැදිලි කිරීම හොඳයි."
       },
       {
-        "text": "B: I agree. Let us make a plan.",
-        "reading": "B: අයි අග්‍රී. ලෙට් අස් මේක් අ ප්ලෑන්.",
-        "meaning": "එකඟයි. අපි සැලැස්මක් හදමු."
+        "text": "B: It is good to preserve traditions and explain their meaning to younger people.",
+        "reading": "B: It is good to preserve traditions and explain ත්eir meaniං to youංer people.",
+        "meaning": "සිරිත් විරිත් රැකගෙන ඒවායේ අර්ථය අලුත් පරම්පරාවට පැහැදිලි කිරීම."
       }
     ],
     "listeningPractice": {
@@ -4439,14 +4439,14 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "custom = චාරිත්‍රය"
       },
       {
-        "prompt": "What does speaker B suggest?",
+        "prompt": "What does speaker B recommend or emphasise?",
         "options": [
-          "Make a plan",
-          "Cancel the trip",
-          "Ask about the price"
+          "Preserve traditions and explain their meaning",
+          "Forget all traditions",
+          "Ignore other people's views"
         ],
         "answer": 0,
-        "explanation": "Let us make a plan = අපි සැලැස්මක් හදමු."
+        "explanation": "It is good to preserve traditions and explain their meaning to younger people. = සිරිත් විරිත් රැකගෙන ඒවායේ අර්ථය අලුත් පරම්පරාවට පැහැදිලි කිරීම."
       }
     ]
   },
@@ -4559,19 +4559,19 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කරලා පාරිභෝගික ගැටලු විසඳන්න ඉගෙන ගත්තා."
       },
       {
-        "text": "B: I understand. Could you explain why?",
-        "reading": "B: අයි අන්ඩර්ස්ටෑන්ඩ්. කුඩ් යූ එක්ස්ප්ලේන් වයි?",
-        "meaning": "තේරුණා. ඇයි කියලා පැහැදිලි කරන්න පුළුවන්ද?"
+        "text": "B: Which skill from your experience can you present to an employer?",
+        "reading": "B: Whiච් skill from your experience can you present to an employer?",
+        "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
-        "text": "A: It is important to consider every option.",
-        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
-        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+        "text": "A: I learned to communicate with customers and solve their problems.",
+        "reading": "A: I learned to communicate wiත් customers and solve ත්eir problems.",
+        "meaning": "ගැටලුවක් විසඳූ ආකාරය පෙන්වන නිශ්චිත උදාහරණයක් සූදානම් කරන්න."
       },
       {
-        "text": "B: I agree. Let us make a plan.",
-        "reading": "B: අයි අග්‍රී. ලෙට් අස් මේක් අ ප්ලෑන්.",
-        "meaning": "එකඟයි. අපි සැලැස්මක් හදමු."
+        "text": "B: Prepare a specific example that shows how you solved a problem.",
+        "reading": "B: Prepare a specific example ත්at ෂ්ows how you solved a problem.",
+        "meaning": "පාරිභෝගික ගැටලුවක් විසඳූ නිශ්චිත උදාහරණයක් සූදානම් කිරීම."
       }
     ],
     "listeningPractice": {
@@ -4617,14 +4617,14 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "achievement = ජයග්‍රහණය"
       },
       {
-        "prompt": "What does speaker B suggest?",
+        "prompt": "What does speaker B recommend or emphasise?",
         "options": [
-          "Make a plan",
-          "Cancel the trip",
-          "Ask about the price"
+          "Prepare a specific example of solving a problem",
+          "Hide your experience",
+          "Do not answer questions"
         ],
         "answer": 0,
-        "explanation": "Let us make a plan = අපි සැලැස්මක් හදමු."
+        "explanation": "Prepare a specific example that shows how you solved a problem. = පාරිභෝගික ගැටලුවක් විසඳූ නිශ්චිත උදාහරණයක් සූදානම් කිරීම."
       }
     ]
   },
@@ -4737,19 +4737,19 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "තීරණය කිරීමට පෙර දෙපාර්ශ්වයටම සවන් දෙමු කියලා මම යෝජනා කරනවා."
       },
       {
-        "text": "B: I understand. Could you explain why?",
-        "reading": "B: අයි අන්ඩර්ස්ටෑන්ඩ්. කුඩ් යූ එක්ස්ප්ලේන් වයි?",
-        "meaning": "තේරුණා. ඇයි කියලා පැහැදිලි කරන්න පුළුවන්ද?"
+        "text": "B: How can we resolve a disagreement in the meeting?",
+        "reading": "B: How can we resolve a disagreement in ත්e meetiං?",
+        "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
-        "text": "A: It is important to consider every option.",
-        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
-        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+        "text": "A: I suggest that everyone explain their reasons, then we look for a compromise.",
+        "reading": "A: I suggest ත්at everyone explain ත්eir reasons, ත්en we look for a compromise.",
+        "meaning": "එය සාධාරණ ක්‍රමයක්. එවිට දෙපාර්ශ්වයේම අදහස් සලකා බලන්න පුළුවන්."
       },
       {
-        "text": "B: I agree. Let us make a plan.",
-        "reading": "B: අයි අග්‍රී. ලෙට් අස් මේක් අ ප්ලෑන්.",
-        "meaning": "එකඟයි. අපි සැලැස්මක් හදමු."
+        "text": "B: That is a fair approach. We will take both sides into account.",
+        "reading": "B: ත්at is a fair approaච්. We will take boත් sides into account.",
+        "meaning": "දෙපාර්ශ්වයේ අදහස් සලකා බලා සම්මුතියක් සෙවීම."
       }
     ],
     "listeningPractice": {
@@ -4795,14 +4795,14 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "compromise = සම්මුතිය"
       },
       {
-        "prompt": "What does speaker B suggest?",
+        "prompt": "What does speaker B recommend or emphasise?",
         "options": [
-          "Make a plan",
-          "Cancel the trip",
-          "Ask about the price"
+          "Consider both sides and find a compromise",
+          "Listen to only one side",
+          "Stop the discussion"
         ],
         "answer": 0,
-        "explanation": "Let us make a plan = අපි සැලැස්මක් හදමු."
+        "explanation": "That is a fair approach. We will take both sides into account. = දෙපාර්ශ්වයේ අදහස් සලකා බලා සම්මුතියක් සෙවීම."
       }
     ]
   },
@@ -4915,19 +4915,19 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "ප්‍රවෘත්තියක් බෙදාගැනීමට පෙර මූලාශ්‍රය සහ පළ කළ දිනය පරීක්ෂා කරනවා."
       },
       {
-        "text": "B: I understand. Could you explain why?",
-        "reading": "B: අයි අන්ඩර්ස්ටෑන්ඩ්. කුඩ් යූ එක්ස්ප්ලේන් වයි?",
-        "meaning": "තේරුණා. ඇයි කියලා පැහැදිලි කරන්න පුළුවන්ද?"
+        "text": "B: Which sources do you use to check whether a story is reliable?",
+        "reading": "B: Whiච් sources do you use to ච්eck wheත්er a story is reliable?",
+        "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
-        "text": "A: It is important to consider every option.",
-        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
-        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+        "text": "A: I compare several reliable media sources and check the publication date.",
+        "reading": "A: I compare several reliable media sources and ච්eck ත්e publication date.",
+        "meaning": "හොඳයි. ලේඛකයා සහ ලිපියේ සාක්ෂිත් පරීක්ෂා කිරීම වැදගත්."
       },
       {
-        "text": "B: I agree. Let us make a plan.",
-        "reading": "B: අයි අග්‍රී. ලෙට් අස් මේක් අ ප්ලෑන්.",
-        "meaning": "එකඟයි. අපි සැලැස්මක් හදමු."
+        "text": "B: Good. It is important to check the author and the evidence in the article too.",
+        "reading": "B: Good. It is important to ච්eck ත්e auත්or and ත්e evidence in ත්e article too.",
+        "meaning": "මූලාශ්‍ර කිහිපයක්, පළ කළ දිනය සහ සාක්ෂි පරීක්ෂා කිරීම."
       }
     ],
     "listeningPractice": {
@@ -4973,14 +4973,14 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "headline = ශීර්ෂ පාඨය"
       },
       {
-        "prompt": "What does speaker B suggest?",
+        "prompt": "What does speaker B recommend or emphasise?",
         "options": [
-          "Make a plan",
-          "Cancel the trip",
-          "Ask about the price"
+          "Check several sources and the evidence",
+          "Read only the headline",
+          "Trust the number of shares"
         ],
         "answer": 0,
-        "explanation": "Let us make a plan = අපි සැලැස්මක් හදමු."
+        "explanation": "Good. It is important to check the author and the evidence in the article too. = මූලාශ්‍ර කිහිපයක්, පළ කළ දිනය සහ සාක්ෂි පරීක්ෂා කිරීම."
       }
     ]
   },
@@ -5093,19 +5093,19 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "හෝටලයට පැමිණි වහාම ගමන් මලු තබා නගරය බලන්න යනවා."
       },
       {
-        "text": "B: I understand. Could you explain why?",
-        "reading": "B: අයි අන්ඩර්ස්ටෑන්ඩ්. කුඩ් යූ එක්ස්ප්ලේන් වයි?",
-        "meaning": "තේරුණා. ඇයි කියලා පැහැදිලි කරන්න පුළුවන්ද?"
+        "text": "B: What would you like to visit first in that city?",
+        "reading": "B: What would you like to visit first in ත්at city?",
+        "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
-        "text": "A: It is important to consider every option.",
-        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
-        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+        "text": "A: I would like to visit the old town and try local food.",
+        "reading": "A: I would like to visit ත්e old town and try local food.",
+        "meaning": "දර්ශනීය ස්ථාන විවෘත වේලාවන් පරීක්ෂා කර ගමන් මාර්ගයක් සැලසුම් කරමු."
       },
       {
-        "text": "B: I agree. Let us make a plan.",
-        "reading": "B: අයි අග්‍රී. ලෙට් අස් මේක් අ ප්ලෑන්.",
-        "meaning": "එකඟයි. අපි සැලැස්මක් හදමු."
+        "text": "B: We can check the opening hours of attractions and plan a route.",
+        "reading": "B: We can ච්eck ත්e openiං hours of attractions and plan a route.",
+        "meaning": "විවෘත වේලාවන් පරීක්ෂා කර ගමන් මාර්ගයක් සැලසුම් කිරීම."
       }
     ],
     "listeningPractice": {
@@ -5151,14 +5151,14 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "accommodation = නවාතැන"
       },
       {
-        "prompt": "What does speaker B suggest?",
+        "prompt": "What does speaker B recommend or emphasise?",
         "options": [
-          "Make a plan",
-          "Cancel the trip",
-          "Ask about the price"
+          "Check opening hours and plan a route",
+          "Go without any plan",
+          "Stay only at the hotel"
         ],
         "answer": 0,
-        "explanation": "Let us make a plan = අපි සැලැස්මක් හදමු."
+        "explanation": "We can check the opening hours of attractions and plan a route. = විවෘත වේලාවන් පරීක්ෂා කර ගමන් මාර්ගයක් සැලසුම් කිරීම."
       }
     ]
   },
@@ -5271,19 +5271,19 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "මම පදිංචිය මාරු කළ විට අලුත් නගරයට හුරු වෙන්න කාලයක් ගත වුණා."
       },
       {
-        "text": "B: I understand. Could you explain why?",
-        "reading": "B: අයි අන්ඩර්ස්ටෑන්ඩ්. කුඩ් යූ එක්ස්ප්ලේන් වයි?",
-        "meaning": "තේරුණා. ඇයි කියලා පැහැදිලි කරන්න පුළුවන්ද?"
+        "text": "B: What helped you most to get used to the new city?",
+        "reading": "B: What helped you most to get used to ත්e new city?",
+        "meaning": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
       },
       {
-        "text": "A: It is important to consider every option.",
-        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
-        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+        "text": "A: I met my neighbours and learned where important services are located.",
+        "reading": "A: I met my neighbours and learned where important services are located.",
+        "meaning": "අවට ප්‍රදේශය ටිකෙන් ටික හඳුනාගෙන අවශ්‍ය විට උදව් ඉල්ලීම හොඳයි."
       },
       {
-        "text": "B: I agree. Let us make a plan.",
-        "reading": "B: අයි අග්‍රී. ලෙට් අස් මේක් අ ප්ලෑන්.",
-        "meaning": "එකඟයි. අපි සැලැස්මක් හදමු."
+        "text": "B: It is good to get to know the area gradually and ask for help when needed.",
+        "reading": "B: It is good to get to know ත්e area gradually and ask for help when needed.",
+        "meaning": "අසල්වැසියන් හඳුනාගෙන වැදගත් සේවා ස්ථාන දැනගැනීම."
       }
     ],
     "listeningPractice": {
@@ -5329,14 +5329,14 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "change = වෙනස"
       },
       {
-        "prompt": "What does speaker B suggest?",
+        "prompt": "What does speaker B recommend or emphasise?",
         "options": [
-          "Make a plan",
-          "Cancel the trip",
-          "Ask about the price"
+          "Meet neighbours and learn where services are",
+          "Avoid everyone",
+          "Do not learn about the city"
         ],
         "answer": 0,
-        "explanation": "Let us make a plan = අපි සැලැස්මක් හදමු."
+        "explanation": "It is good to get to know the area gradually and ask for help when needed. = අසල්වැසියන් හඳුනාගෙන වැදගත් සේවා ස්ථාන දැනගැනීම."
       }
     ]
   },
