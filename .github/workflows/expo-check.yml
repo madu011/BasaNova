@@ -19,6 +19,9 @@ jobs:
         with:
           node-version: 22
 
+      - name: Run lesson assessment content QA
+        run: npm run qa:content
+
       - name: Generate reproducible dependency lock
         run: npm install --package-lock-only --ignore-scripts
 
