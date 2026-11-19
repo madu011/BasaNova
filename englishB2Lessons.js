@@ -10,9 +10,9 @@ export const ENGLISH_B2_LESSONS = [
         "word": "argument",
         "reading": "ආර්ගියුමන්ට්",
         "meaning": "තර්කය",
-        "example": "I believe the proposal is useful, but there are risks.",
-        "exampleReading": "අයි බිලීව් දි ප්‍රපෝසල් ඉස් යූස්ෆුල්, බට් දෙයාර් ආ රිස්ක්ස්.",
-        "translation": "යෝජනාව ප්‍රයෝජනවත් කියලා මම හිතනවා, නමුත් අවදානම්ත් තියෙනවා."
+        "example": "I understand that argument; however, evidence is missing.",
+        "exampleReading": "අයි අන්ඩර්ස්ටෑන්ඩ් දැට් ආර්ගියුමන්ට්; හවෙවර්, එවිඩන්ස් ඉස් මිසිං.",
+        "translation": "ඒ තර්කය මට තේරෙනවා, නමුත් සාධක අඩුයි."
       },
       {
         "word": "evidence",
@@ -200,9 +200,9 @@ export const ENGLISH_B2_LESSONS = [
         "word": "agreement",
         "reading": "අග්‍රීමන්ට්",
         "meaning": "ගිවිසුම",
-        "example": "Could we extend the deadline by two days?",
-        "exampleReading": "කුඩ් වී එක්ස්ටෙන්ඩ් දි ඩෙඩ්ලයින් බයි ටූ ඩේස්?",
-        "translation": "අවසන් දිනය දවස් දෙකකින් දිගු කරන්න පුළුවන්ද?"
+        "example": "If you accept this condition, we can sign the agreement.",
+        "exampleReading": "ඉෆ් යූ ඇක්සෙප්ට් දිස් කන්ඩිෂන්, වී කැන් සයින් දි අග්‍රීමන්ට්.",
+        "translation": "ඔබ මේ කොන්දේසිය පිළිගත්තොත් අපට ගිවිසුම අත්සන් කළ හැකියි."
       },
       {
         "word": "compromise",
@@ -216,17 +216,17 @@ export const ENGLISH_B2_LESSONS = [
         "word": "condition",
         "reading": "කන්ඩිෂන්",
         "meaning": "කොන්දේසිය",
-        "example": "I think we have found a solution that suits everyone.",
-        "exampleReading": "අයි තින්ක් වී හැව් ෆවුන්ඩ් අ සොලූෂන් දැට් සූට්ස් එව්රිවන්.",
-        "translation": "හැමෝටම ගැළපෙන විසඳුමක් අපි හොයාගත්තා කියලා මට හිතෙනවා."
+        "example": "If you accept this condition, we can sign the agreement.",
+        "exampleReading": "ඉෆ් යූ ඇක්සෙප්ට් දිස් කන්ඩිෂන්, වී කැන් සයින් දි අග්‍රීමන්ට්.",
+        "translation": "ඔබ මේ කොන්දේසිය පිළිගත්තොත් අපට ගිවිසුම අත්සන් කළ හැකියි."
       },
       {
         "word": "deadline",
         "reading": "ඩෙඩ්ලයින්",
         "meaning": "අවසන් දිනය",
-        "example": "I suggest that we divide the costs equally.",
-        "exampleReading": "අයි සජෙස්ට් දැට් වී ඩිවයිඩ් දි කොස්ට්ස් ඊක්වලි.",
-        "translation": "වියදම් සමානව බෙදමු කියලා මම යෝජනා කරනවා."
+        "example": "Could we extend the deadline by two days?",
+        "exampleReading": "කුඩ් වී එක්ස්ටෙන්ඩ් දි ඩෙඩ්ලයින් බයි ටූ ඩේස්?",
+        "translation": "අවසන් දිනය දවස් දෙකකින් දිගු කරන්න පුළුවන්ද?"
       },
       {
         "word": "proposal",
@@ -390,9 +390,9 @@ export const ENGLISH_B2_LESSONS = [
         "word": "responsibility",
         "reading": "රිස්පොන්සිබිලිටි",
         "meaning": "වගකීම",
-        "example": "I suggest short weekly meetings to review progress.",
-        "exampleReading": "අයි සජෙස්ට් ෂෝර්ට් වීක්ලි මීටින්ග්ස් ටු රිවියු ප්‍රොග්‍රෙස්.",
-        "translation": "ප්‍රගතිය සමාලෝචනයට සතිපතා කෙටි රැස්වීම් යෝජනා කරනවා."
+        "example": "It is important that everyone understands their responsibility.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් දැට් එව්රිවන් අන්ඩර්ස්ටෑන්ඩ්ස් දෙයාර් රිස්පොන්සිබිලිටි.",
+        "translation": "අපි හැමෝම අපේ වගකීම තේරුම් ගැනීම වැදගත්."
       },
       {
         "word": "initiative",
@@ -564,17 +564,17 @@ export const ENGLISH_B2_LESSONS = [
         "word": "infrastructure",
         "reading": "ඉන්ෆ්‍රාස්ට්‍රක්චර්",
         "meaning": "යටිතල පහසුකම්",
-        "example": "Population growth increases demand for housing.",
-        "exampleReading": "පොපියුලේෂන් ග්‍රෝත් ඉන්ක්‍රීසස් ඩිමාන්ඩ් ෆෝර් හවුසිං.",
-        "translation": "ජනගහනය වැඩිවීම නිවාස ඉල්ලුම වැඩි කරනවා."
+        "example": "The city is expanding quickly, so infrastructure investment is necessary.",
+        "exampleReading": "දි සිටි ඉස් එක්ස්පෑන්ඩිං ක්වික්ලි, සෝ ඉන්ෆ්‍රාස්ට්‍රක්චර් ඉන්වෙස්ට්මන්ට් ඉස් නෙසෙසරි.",
+        "translation": "නගරය ඉක්මනින් පැතිරෙන නිසා යටිතල පහසුකම්වල ආයෝජනය අවශ්‍යයි."
       },
       {
         "word": "housing",
         "reading": "හවුසිං",
         "meaning": "නිවාස",
-        "example": "However, development does not benefit all citizens equally.",
-        "exampleReading": "හවෙවර්, ඩිවෙලප්මන්ට් ඩස් නොට් බෙනිෆිට් ඕල් සිටිසන්ස් ඊක්වලි.",
-        "translation": "කෙසේ වෙතත් සංවර්ධනය සියලු පුරවැසියන්ට සමානව ප්‍රයෝජනවත් නැහැ."
+        "example": "Population growth increases demand for housing.",
+        "exampleReading": "පොපියුලේෂන් ග්‍රෝත් ඉන්ක්‍රීසස් ඩිමාන්ඩ් ෆෝර් හවුසිං.",
+        "translation": "ජනගහනය වැඩිවීම නිවාස ඉල්ලුම වැඩි කරනවා."
       },
       {
         "word": "inequality",
@@ -588,17 +588,17 @@ export const ENGLISH_B2_LESSONS = [
         "word": "population",
         "reading": "පොපියුලේෂන්",
         "meaning": "ජනගහනය",
-        "example": "The city is expanding quickly, so infrastructure investment is necessary.",
-        "exampleReading": "දි සිටි ඉස් එක්ස්පෑන්ඩිං ක්වික්ලි, සෝ ඉන්ෆ්‍රාස්ට්‍රක්චර් ඉන්වෙස්ට්මන්ට් ඉස් නෙසෙසරි.",
-        "translation": "නගරය ඉක්මනින් පැතිරෙන නිසා යටිතල පහසුකම්වල ආයෝජනය අවශ්‍යයි."
+        "example": "Population growth increases demand for housing.",
+        "exampleReading": "පොපියුලේෂන් ග්‍රෝත් ඉන්ක්‍රීසස් ඩිමාන්ඩ් ෆෝර් හවුසිං.",
+        "translation": "ජනගහනය වැඩිවීම නිවාස ඉල්ලුම වැඩි කරනවා."
       },
       {
         "word": "investment",
         "reading": "ඉන්වෙස්ට්මන්ට්",
         "meaning": "ආයෝජනය",
-        "example": "Population growth increases demand for housing.",
-        "exampleReading": "පොපියුලේෂන් ග්‍රෝත් ඉන්ක්‍රීසස් ඩිමාන්ඩ් ෆෝර් හවුසිං.",
-        "translation": "ජනගහනය වැඩිවීම නිවාස ඉල්ලුම වැඩි කරනවා."
+        "example": "The city is expanding quickly, so infrastructure investment is necessary.",
+        "exampleReading": "දි සිටි ඉස් එක්ස්පෑන්ඩිං ක්වික්ලි, සෝ ඉන්ෆ්‍රාස්ට්‍රක්චර් ඉන්වෙස්ට්මන්ට් ඉස් නෙසෙසරි.",
+        "translation": "නගරය ඉක්මනින් පැතිරෙන නිසා යටිතල පහසුකම්වල ආයෝජනය අවශ්‍යයි."
       },
       {
         "word": "accessibility",
@@ -770,9 +770,9 @@ export const ENGLISH_B2_LESSONS = [
         "word": "otherwise",
         "reading": "අදර්වයිස්",
         "meaning": "එසේ නොවුණොත්",
-        "example": "If I had more time, I would complete an additional course.",
-        "exampleReading": "ඉෆ් අයි හැඩ් මෝර් ටයිම්, අයි වුඩ් කම්ප්ලීට් ඇන් අදිනල් කෝර්ස්.",
-        "translation": "මට වැඩි කාලයක් තිබුණා නම් අමතර පාඨමාලාවක් අවසන් කරනවා."
+        "example": "Otherwise, we might lose an important opportunity.",
+        "exampleReading": "අදර්වයිස්, වී මයිට් ලූස් ඇන් ඉම්පෝර්ටන්ට් ඔපර්චූනිටි.",
+        "translation": "එසේ නොවුණොත් වැදගත් අවස්ථාවක් අහිමි විය හැකියි."
       },
       {
         "word": "to prevent",
@@ -928,17 +928,17 @@ export const ENGLISH_B2_LESSONS = [
         "word": "application",
         "reading": "ඇප්ලිකේෂන්",
         "meaning": "අයදුම්පත",
-        "example": "The documents are checked before approval.",
-        "exampleReading": "දි ඩොකියුමන්ට්ස් ආ චෙක්ට් බිෆෝර් අප්‍රූවල්.",
-        "translation": "අනුමැතියට පෙර ලේඛන පරීක්ෂා කරනු ලැබේ."
+        "example": "The application is submitted electronically.",
+        "exampleReading": "දි ඇප්ලිකේෂන් ඉස් සබ්මිටඩ් ඉලෙක්ට්‍රොනිකලි.",
+        "translation": "අයදුම්පත අන්තර්ජාලයෙන් ඉදිරිපත් කරනු ලැබේ."
       },
       {
         "word": "approval",
         "reading": "අප්‍රූවල්",
         "meaning": "අනුමැතිය",
-        "example": "After verification, the request is forwarded to the relevant department.",
-        "exampleReading": "ආෆ්ටර් වෙරිෆිකේෂන්, දි රික්වෙස්ට් ඉස් ෆෝවර්ඩඩ් ටු දි රෙලවන්ට් ඩිපාර්ට්මන්ට්.",
-        "translation": "පරීක්ෂාවෙන් පසු අයදුම්පත අදාළ අංශයට යොමු කරනු ලැබේ."
+        "example": "The documents are checked before approval.",
+        "exampleReading": "දි ඩොකියුමන්ට්ස් ආ චෙක්ට් බිෆෝර් අප්‍රූවල්.",
+        "translation": "අනුමැතියට පෙර ලේඛන පරීක්ෂා කරනු ලැබේ."
       },
       {
         "word": "requirement",
@@ -952,9 +952,9 @@ export const ENGLISH_B2_LESSONS = [
         "word": "document",
         "reading": "ඩොකියුමන්ට්",
         "meaning": "ලේඛනය",
-        "example": "The application is submitted electronically.",
-        "exampleReading": "දි ඇප්ලිකේෂන් ඉස් සබ්මිටඩ් ඉලෙක්ට්‍රොනිකලි.",
-        "translation": "අයදුම්පත අන්තර්ජාලයෙන් ඉදිරිපත් කරනු ලැබේ."
+        "example": "The documents are checked before approval.",
+        "exampleReading": "දි ඩොකියුමන්ට්ස් ආ චෙක්ට් බිෆෝර් අප්‍රූවල්.",
+        "translation": "අනුමැතියට පෙර ලේඛන පරීක්ෂා කරනු ලැබේ."
       },
       {
         "word": "to submit",
@@ -1118,9 +1118,9 @@ export const ENGLISH_B2_LESSONS = [
         "word": "objective",
         "reading": "අබ්ජෙක්ටිව්",
         "meaning": "අරමුණ",
-        "example": "This example clearly demonstrates the difference.",
-        "exampleReading": "දිස් ඉග්සෑම්ප්ල් ක්ලියර්ලි ඩෙමන්ස්ට්‍රේට්ස් දි ඩිෆරන්ස්.",
-        "translation": "මේ උදාහරණය වෙනස පැහැදිලිව පෙන්වනවා."
+        "example": "First, I will explain the objective, then the benefits.",
+        "exampleReading": "ෆර්ස්ට්, අයි විල් එක්ස්ප්ලේන් දි අබ්ජෙක්ටිව්, දැන් දි බෙනිෆිට්ස්.",
+        "translation": "පළමුව අරමුණත් පසුව වාසිත් පැහැදිලි කරනවා."
       },
       {
         "word": "key point",
@@ -1316,9 +1316,9 @@ export const ENGLISH_B2_LESSONS = [
         "word": "trend",
         "reading": "ට්‍රෙන්ඩ්",
         "meaning": "ප්‍රවණතාව",
-        "example": "The data shows that sales increased by ten percent.",
-        "exampleReading": "දි ඩේටා ෂෝස් දැට් සේල්ස් ඉන්ක්‍රීස්ඩ් බයි ටෙන් පර්සෙන්ට්.",
-        "translation": "විකුණුම් සියයට දහයකින් වැඩිවූ බව දත්ත පෙන්වනවා."
+        "example": "This trend may indicate a change in habits.",
+        "exampleReading": "දිස් ට්‍රෙන්ඩ් මේ ඉන්ඩිකේට් අ චේන්ජ් ඉන් හැබිට්ස්.",
+        "translation": "මේ ප්‍රවණතාව පුරුදු වෙනස්වීමක් පෙන්විය හැකියි."
       },
       {
         "word": "finding",
@@ -1332,9 +1332,9 @@ export const ENGLISH_B2_LESSONS = [
         "word": "limitation",
         "reading": "ලිමිටේෂන්",
         "meaning": "සීමාව",
-        "example": "This trend may indicate a change in habits.",
-        "exampleReading": "දිස් ට්‍රෙන්ඩ් මේ ඉන්ඩිකේට් අ චේන්ජ් ඉන් හැබිට්ස්.",
-        "translation": "මේ ප්‍රවණතාව පුරුදු වෙනස්වීමක් පෙන්විය හැකියි."
+        "example": "The report identifies several important limitations.",
+        "exampleReading": "දි රිපෝර්ට් අයිඩෙන්ටිෆයිස් සෙවරල් ඉම්පෝර්ටන්ට් ලිමිටේෂන්ස්.",
+        "translation": "වාර්තාව වැදගත් සීමාවන් කිහිපයක් හඳුනාගන්නවා."
       },
       {
         "word": "to indicate",
@@ -1482,25 +1482,25 @@ export const ENGLISH_B2_LESSONS = [
         "word": "source",
         "reading": "සෝර්ස්",
         "meaning": "මූලාශ්‍රය",
-        "example": "The author uses an ironic tone to criticize the decision.",
-        "exampleReading": "දි ඔතර් යූසස් ඇන් අයිරොනික් ටෝන් ටු ක්‍රිටිසයිස් දි ඩිසිෂන්.",
-        "translation": "තීරණය විවේචනය කිරීමට කතුවරයා උපහාසාත්මක ස්වරයක් භාවිත කරනවා."
+        "example": "It is important to check the source and context of information.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු චෙක් දි සෝර්ස් ඇන්ඩ් කොන්ටෙක්ස්ට් ඔෆ් ඉන්ෆොමේෂන්.",
+        "translation": "තොරතුරේ මූලාශ්‍රය සහ සන්දර්භය පරීක්ෂා කිරීම වැදගත්."
       },
       {
         "word": "context",
         "reading": "කොන්ටෙක්ස්ට්",
         "meaning": "සන්දර්භය",
-        "example": "One example does not represent an entire group.",
-        "exampleReading": "වන් ඉග්සෑම්ප්ල් ඩස් නොට් රෙප්‍රසෙන්ට් ඇන් එන්ටයර් ග්‍රූප්.",
-        "translation": "එක උදාහරණයක් මුළු කණ්ඩායම නියෝජනය කරන්නේ නැහැ."
+        "example": "It is important to check the source and context of information.",
+        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු චෙක් දි සෝර්ස් ඇන්ඩ් කොන්ටෙක්ස්ට් ඔෆ් ඉන්ෆොමේෂන්.",
+        "translation": "තොරතුරේ මූලාශ්‍රය සහ සන්දර්භය පරීක්ෂා කිරීම වැදගත්."
       },
       {
         "word": "tone",
         "reading": "ටෝන්",
         "meaning": "ස්වරය",
-        "example": "The headline attracts attention but does not explain the whole story.",
-        "exampleReading": "දි හෙඩ්ලයින් ඇට්‍රැක්ට්ස් අටෙන්ෂන් බට් ඩස් නොට් එක්ස්ප්ලේන් දි හෝල් ස්ටෝරි.",
-        "translation": "ශීර්ෂ පාඨය අවධානය ගන්නවා, නමුත් මුළු කතාව පැහැදිලි කරන්නේ නැහැ."
+        "example": "The author uses an ironic tone to criticize the decision.",
+        "exampleReading": "දි ඔතර් යූසස් ඇන් අයිරොනික් ටෝන් ටු ක්‍රිටිසයිස් දි ඩිසිෂන්.",
+        "translation": "තීරණය විවේචනය කිරීමට කතුවරයා උපහාසාත්මක ස්වරයක් භාවිත කරනවා."
       },
       {
         "word": "interpretation",
@@ -1672,9 +1672,9 @@ export const ENGLISH_B2_LESSONS = [
         "word": "concern",
         "reading": "කන්සර්න්",
         "meaning": "කනස්සල්ල",
-        "example": "We can agree on a solution acceptable to both sides.",
-        "exampleReading": "වී කැන් අග්‍රී ඔන් අ සොලූෂන් ඇක්සෙප්ටබල් ටු බෝත් සයිඩ්ස්.",
-        "translation": "දෙපාර්ශ්වයටම පිළිගත හැකි විසඳුමකට එකඟ වෙන්න පුළුවන්."
+        "example": "Could you explain what concerns you most?",
+        "exampleReading": "කුඩ් යූ එක්ස්ප්ලේන් වොට් කන්සර්න්ස් යූ මෝස්ට්?",
+        "translation": "ඔබට වැඩියෙන්ම කනස්සල්ලක් ඇති කරන්නේ කුමක්දැයි පැහැදිලි කළ හැකිද?"
       },
       {
         "word": "to clarify",
@@ -1696,9 +1696,9 @@ export const ENGLISH_B2_LESSONS = [
         "word": "solution",
         "reading": "සොලූෂන්",
         "meaning": "විසඳුම",
-        "example": "It seems that there has been a misunderstanding.",
-        "exampleReading": "ඉට් සීම්ස් දැට් දෙයාර් හැස් බීන් අ මිස්අන්ඩර්ස්ටෑන්ඩිං.",
-        "translation": "වැරදි අවබෝධයක් ඇතිවුණා වගේ මට පේනවා."
+        "example": "We can agree on a solution acceptable to both sides.",
+        "exampleReading": "වී කැන් අග්‍රී ඔන් අ සොලූෂන් ඇක්සෙප්ටබල් ටු බෝත් සයිඩ්ස්.",
+        "translation": "දෙපාර්ශ්වයටම පිළිගත හැකි විසඳුමකට එකඟ වෙන්න පුළුවන්."
       },
       {
         "word": "mutual",
@@ -1862,9 +1862,9 @@ export const ENGLISH_B2_LESSONS = [
         "word": "feasible",
         "reading": "ෆීසිබල්",
         "meaning": "කළ හැකි",
-        "example": "We should assess possible risks before making a decision.",
-        "exampleReading": "වී ෂුඩ් අසෙස් පොසිබල් රිස්ක්ස් බිෆෝර් මේකින් අ ඩිසිෂන්.",
-        "translation": "තීරණයට පෙර ඇතිවිය හැකි අවදානම් ඇගයිය යුතුයි."
+        "example": "This option is feasible within the budget.",
+        "exampleReading": "දිස් ඔප්ෂන් ඉස් ෆීසිබල් විදින් දි බජට්.",
+        "translation": "මේ විකල්පය අයවැය තුළ කළ හැකියි."
       },
       {
         "word": "impact",
@@ -1878,17 +1878,17 @@ export const ENGLISH_B2_LESSONS = [
         "word": "contingency",
         "reading": "කන්ටින්ජන්සි",
         "meaning": "හදිසි විකල්ප සැලැස්ම",
-        "example": "The greatest risk is a delivery delay.",
-        "exampleReading": "දි ග්‍රේටස්ට් රිස්ක් ඉස් අ ඩිලිවරි ඩිලේ.",
-        "translation": "විශාලතම අවදානම භාරදීම ප්‍රමාද වීමයි."
+        "example": "Therefore, I recommend a contingency plan.",
+        "exampleReading": "දෙයාර්ෆෝර්, අයි රෙකමෙන්ඩ් අ කන්ටින්ජන්සි ප්ලෑන්.",
+        "translation": "ඒ නිසා විකල්ප සැලැස්මක් යෝජනා කරනවා."
       },
       {
         "word": "decision",
         "reading": "ඩිසිෂන්",
         "meaning": "තීරණය",
-        "example": "Therefore, I recommend a contingency plan.",
-        "exampleReading": "දෙයාර්ෆෝර්, අයි රෙකමෙන්ඩ් අ කන්ටින්ජන්සි ප්ලෑන්.",
-        "translation": "ඒ නිසා විකල්ප සැලැස්මක් යෝජනා කරනවා."
+        "example": "We should assess possible risks before making a decision.",
+        "exampleReading": "වී ෂුඩ් අසෙස් පොසිබල් රිස්ක්ස් බිෆෝර් මේකින් අ ඩිසිෂන්.",
+        "translation": "තීරණයට පෙර ඇතිවිය හැකි අවදානම් ඇගයිය යුතුයි."
       }
     ],
     "grammarTitle": "Advanced grammar",
@@ -2036,33 +2036,33 @@ export const ENGLISH_B2_LESSONS = [
         "word": "experience",
         "reading": "එක්ස්පීරියන්ස්",
         "meaning": "අත්දැකීම",
-        "example": "Thank you for the useful conversation and recommendation.",
-        "exampleReading": "තෑන්ක් යූ ෆෝ දි යූස්ෆුල් කන්වර්සේෂන් ඇන්ඩ් රෙකමෙන්ඩේෂන්.",
-        "translation": "ප්‍රයෝජනවත් කතාබහට සහ නිර්දේශයට ස්තුතියි."
-      },
-      {
-        "word": "recommendation",
-        "reading": "රෙකමෙන්ඩේෂන්",
-        "meaning": "නිර්දේශය",
-        "example": "It is a pleasure to meet you at this event.",
-        "exampleReading": "ඉට් ඉස් අ ප්ලෙෂර් ටු මීට් යූ ඇට් දිස් ඉවෙන්ට්.",
-        "translation": "මේ උත්සවයේදී ඔබ හමුවීම සතුටක්."
-      },
-      {
-        "word": "collaboration",
-        "reading": "කොලැබරේෂන්",
-        "meaning": "සහයෝගීතාව",
         "example": "I work in sales and have experience dealing with clients.",
         "exampleReading": "අයි වර්ක් ඉන් සේල්ස් ඇන්ඩ් හැව් එක්ස්පීරියන්ස් ඩීලින් විත් ක්ලයන්ට්ස්.",
         "translation": "මම විකුණුම් කටයුතු කරන අතර පාරිභෝගිකයන් සමඟ වැඩ කිරීමේ අත්දැකීම් තියෙනවා."
       },
       {
-        "word": "event",
-        "reading": "ඉවෙන්ට්",
-        "meaning": "උත්සවය",
+        "word": "recommendation",
+        "reading": "රෙකමෙන්ඩේෂන්",
+        "meaning": "නිර්දේශය",
+        "example": "Thank you for the useful conversation and recommendation.",
+        "exampleReading": "තෑන්ක් යූ ෆෝ දි යූස්ෆුල් කන්වර්සේෂන් ඇන්ඩ් රෙකමෙන්ඩේෂන්.",
+        "translation": "ප්‍රයෝජනවත් කතාබහට සහ නිර්දේශයට ස්තුතියි."
+      },
+      {
+        "word": "collaboration",
+        "reading": "කොලැබරේෂන්",
+        "meaning": "සහයෝගීතාව",
         "example": "We can stay in touch and explore collaboration.",
         "exampleReading": "වී කැන් ස්ටේ ඉන් ටච් ඇන්ඩ් එක්ස්ප්ලෝර් කොලැබරේෂන්.",
         "translation": "අපට සම්බන්ධතා පවත්වාගෙන සහයෝගීතාව සලකා බලන්න පුළුවන්."
+      },
+      {
+        "word": "event",
+        "reading": "ඉවෙන්ට්",
+        "meaning": "උත්සවය",
+        "example": "It is a pleasure to meet you at this event.",
+        "exampleReading": "ඉට් ඉස් අ ප්ලෙෂර් ටු මීට් යූ ඇට් දිස් ඉවෙන්ට්.",
+        "translation": "මේ උත්සවයේදී ඔබ හමුවීම සතුටක්."
       },
       {
         "word": "introduce",
@@ -2210,9 +2210,9 @@ export const ENGLISH_B2_LESSONS = [
         "word": "respect",
         "reading": "රිස්පෙක්ට්",
         "meaning": "ගෞරවය",
-        "example": "We should remove barriers that make access difficult.",
-        "exampleReading": "වී ෂුඩ් රිමූව් බැරියර්ස් දැට් මේක් ඇක්සෙස් ඩිෆිකල්ට්.",
-        "translation": "ප්‍රවේශය අපහසු කරන බාධා ඉවත් කළ යුතුයි."
+        "example": "Respect for different opinions strengthens a team.",
+        "exampleReading": "රිස්පෙක්ට් ෆෝ ඩිෆරන්ට් ඔපීනියන්ස් ස්ට්‍රෙන්ග්දන්ස් අ ටීම්.",
+        "translation": "විවිධ අදහස්වලට ගෞරව කිරීම කණ්ඩායම ශක්තිමත් කරනවා."
       },
       {
         "word": "equality",
@@ -2234,9 +2234,9 @@ export const ENGLISH_B2_LESSONS = [
         "word": "prejudice",
         "reading": "ප්‍රෙජුඩිස්",
         "meaning": "පූර්ව විනිශ්චය",
-        "example": "Respect for different opinions strengthens a team.",
-        "exampleReading": "රිස්පෙක්ට් ෆෝ ඩිෆරන්ට් ඔපීනියන්ස් ස්ට්‍රෙන්ග්දන්ස් අ ටීම්.",
-        "translation": "විවිධ අදහස්වලට ගෞරව කිරීම කණ්ඩායම ශක්තිමත් කරනවා."
+        "example": "A good team supports every member without prejudice.",
+        "exampleReading": "අ ගුඩ් ටීම් සපෝර්ට්ස් එව්රි මෙම්බර් විදවුට් ප්‍රෙජුඩිස්.",
+        "translation": "හොඳ කණ්ඩායමක් පූර්ව විනිශ්චයකින් තොරව හැම සාමාජිකයෙකුටම සහාය දෙනවා."
       },
       {
         "word": "accessibility",
@@ -2392,17 +2392,17 @@ export const ENGLISH_B2_LESSONS = [
         "word": "algorithm",
         "reading": "ඇල්ගොරිතම්",
         "meaning": "ඇල්ගොරිතමය",
-        "example": "We need to check whether the system makes mistakes.",
-        "exampleReading": "වී නීඩ් ටු චෙක් වෙදර් දි සිස්ටම් මේක්ස් මිස්ටේක්ස්.",
-        "translation": "පද්ධතිය වැරදි කරනවාදැයි පරීක්ෂා කළ යුතුයි."
+        "example": "An algorithm can speed up work, but it must be transparent.",
+        "exampleReading": "ඇන් ඇල්ගොරිතම් කැන් ස්පීඩ් අප් වර්ක්, බට් ඉට් මස්ට් බී ට්‍රාන්ස්පැරන්ට්.",
+        "translation": "ඇල්ගොරිතමයකින් වැඩ වේගවත් කළ හැකි නමුත් එය විනිවිදභාවයෙන් යුතු විය යුතුයි."
       },
       {
         "word": "data",
         "reading": "ඩේටා",
         "meaning": "දත්ත",
-        "example": "Users must know how their data is stored.",
-        "exampleReading": "යූසර්ස් මස්ට් නෝ හවු දෙයාර් ඩේටා ඉස් ස්ටෝර්ඩ්.",
-        "translation": "තම දත්ත සුරක්ෂිත කරන්නේ කෙසේදැයි පරිශීලකයන් දැනගත යුතුයි."
+        "example": "Personal data must not be used without permission.",
+        "exampleReading": "පර්සනල් ඩේටා මස්ට් නොට් බී යූස්ඩ් විදවුට් පර්මිෂන්.",
+        "translation": "අවසරයකින් තොරව පුද්ගලික දත්ත භාවිත නොකළ යුතුයි."
       },
       {
         "word": "bias",
@@ -2574,17 +2574,17 @@ export const ENGLISH_B2_LESSONS = [
         "word": "renewable",
         "reading": "රිනියුවබල්",
         "meaning": "නැවත භාවිත කළ හැකි",
-        "example": "These measures can significantly reduce pollution.",
-        "exampleReading": "දීස් මෙෂර්ස් කැන් සිග්නිෆිකන්ට්ලි රිඩියුස් පොලූෂන්.",
-        "translation": "මෙම පියවරවලින් දූෂණය සැලකිය යුතු ලෙස අඩු කළ හැකියි."
+        "example": "The city should invest in renewable energy sources.",
+        "exampleReading": "දි සිටි ෂුඩ් ඉන්වෙස්ට් ඉන් රිනියුවබල් එනර්ජි සෝර්සස්.",
+        "translation": "නගරය පුනර්ජනනීය බලශක්ති මූලාශ්‍රවල ආයෝජනය කළ යුතුයි."
       },
       {
         "word": "waste",
         "reading": "වේස්ට්",
         "meaning": "අපද්‍රව්‍ය",
-        "example": "Everyone can contribute to more responsible consumption.",
-        "exampleReading": "එව්රිවන් කැන් කන්ට්‍රිබියුට් ටු මෝර් රිස්පොන්සිබල් කන්සම්ප්ෂන්.",
-        "translation": "වගකීම් සහිත පරිභෝජනයට හැමෝටම දායක විය හැකියි."
+        "example": "Reducing waste requires changes in daily habits.",
+        "exampleReading": "රිඩියුසිං වේස්ට් රික්වයර්ස් චේන්ජස් ඉන් ඩේලි හැබිට්ස්.",
+        "translation": "අපද්‍රව්‍ය අඩු කිරීමට දෛනික පුරුදු වෙනස් කළ යුතුයි."
       },
       {
         "word": "resource",
@@ -2598,9 +2598,9 @@ export const ENGLISH_B2_LESSONS = [
         "word": "pollution",
         "reading": "පොලූෂන්",
         "meaning": "දූෂණය",
-        "example": "Reducing waste requires changes in daily habits.",
-        "exampleReading": "රිඩියුසිං වේස්ට් රික්වයර්ස් චේන්ජස් ඉන් ඩේලි හැබිට්ස්.",
-        "translation": "අපද්‍රව්‍ය අඩු කිරීමට දෛනික පුරුදු වෙනස් කළ යුතුයි."
+        "example": "These measures can significantly reduce pollution.",
+        "exampleReading": "දීස් මෙෂර්ස් කැන් සිග්නිෆිකන්ට්ලි රිඩියුස් පොලූෂන්.",
+        "translation": "මෙම පියවරවලින් දූෂණය සැලකිය යුතු ලෙස අඩු කළ හැකියි."
       },
       {
         "word": "measure",
@@ -2740,9 +2740,9 @@ export const ENGLISH_B2_LESSONS = [
         "word": "inflation",
         "reading": "ඉන්ෆ්ලේෂන්",
         "meaning": "උද්ධමනය",
-        "example": "Prices are rising faster than average wages.",
-        "exampleReading": "ප්‍රයිසස් ආ රයිසිං ෆාස්ටර් දැන් ඇවරේජ් වේජස්.",
-        "translation": "සාමාන්‍ය වැටුප්වලට වඩා මිල වේගයෙන් වැඩි වෙනවා."
+        "example": "Because of inflation, household purchasing power is falling.",
+        "exampleReading": "බිකෝස් ඔෆ් ඉන්ෆ්ලේෂන්, හවුස්හෝල්ඩ් පර්චසිං පවර් ඉස් ෆෝලිං.",
+        "translation": "උද්ධමනය නිසා පවුල්වල මිලදී ගැනීමේ හැකියාව අඩු වෙනවා."
       },
       {
         "word": "income",
@@ -2764,9 +2764,9 @@ export const ENGLISH_B2_LESSONS = [
         "word": "purchasing power",
         "reading": "පර්චසිං පවර්",
         "meaning": "මිලදී ගැනීමේ හැකියාව",
-        "example": "Housing is becoming less affordable.",
-        "exampleReading": "හවුසිං ඉස් බිකමින් ලෙස් අෆෝර්ඩබල්.",
-        "translation": "නිවාස වියදම් දරාගැනීම තව තවත් අපහසු වෙනවා."
+        "example": "Because of inflation, household purchasing power is falling.",
+        "exampleReading": "බිකෝස් ඔෆ් ඉන්ෆ්ලේෂන්, හවුස්හෝල්ඩ් පර්චසිං පවර් ඉස් ෆෝලිං.",
+        "translation": "උද්ධමනය නිසා පවුල්වල මිලදී ගැනීමේ හැකියාව අඩු වෙනවා."
       },
       {
         "word": "savings",
@@ -2922,9 +2922,9 @@ export const ENGLISH_B2_LESSONS = [
         "word": "research",
         "reading": "රිසර්ච්",
         "meaning": "පර්යේෂණය",
-        "example": "The study included three hundred participants.",
-        "exampleReading": "දි ස්ටඩි ඉන්ක්ලූඩඩ් ත්‍රී හන්ඩ්‍රඩ් පාර්ටිසිපන්ට්ස්.",
-        "translation": "පර්යේෂණයට සහභාගිවූවන් තුන්සියයක් ඇතුළත් වුණා."
+        "example": "However, the research method has certain limitations.",
+        "exampleReading": "හවෙවර්, දි රිසර්ච් මෙතඩ් හැස් සර්ටන් ලිමිටේෂන්ස්.",
+        "translation": "එසේ වුවත් පර්යේෂණ ක්‍රමයට යම් සීමා තිබෙනවා."
       },
       {
         "word": "source",
@@ -2946,9 +2946,9 @@ export const ENGLISH_B2_LESSONS = [
         "word": "sample",
         "reading": "සැම්පල්",
         "meaning": "නියැදිය",
-        "example": "A conclusion should be based on verifiable data.",
-        "exampleReading": "අ කන්ක්ලූෂන් ෂුඩ් බී බේස්ඩ් ඔන් වෙරිෆයිඅබල් ඩේටා.",
-        "translation": "නිගමනය තහවුරු කළ හැකි දත්ත මත පදනම් විය යුතුයි."
+        "example": "According to the authors, the sample is sufficiently representative.",
+        "exampleReading": "අකෝර්ඩිං ටු දි ඔතර්ස්, දි සැම්පල් ඉස් සෆිෂන්ට්ලි රෙප්‍රසෙන්ටටිව්.",
+        "translation": "කතුවරුන්ට අනුව නියැදිය ප්‍රමාණවත් ලෙස නියෝජිතයි."
       },
       {
         "word": "finding",
@@ -2970,9 +2970,9 @@ export const ENGLISH_B2_LESSONS = [
         "word": "conclusion",
         "reading": "කන්ක්ලූෂන්",
         "meaning": "නිගමනය",
-        "example": "However, the research method has certain limitations.",
-        "exampleReading": "හවෙවර්, දි රිසර්ච් මෙතඩ් හැස් සර්ටන් ලිමිටේෂන්ස්.",
-        "translation": "එසේ වුවත් පර්යේෂණ ක්‍රමයට යම් සීමා තිබෙනවා."
+        "example": "A conclusion should be based on verifiable data.",
+        "exampleReading": "අ කන්ක්ලූෂන් ෂුඩ් බී බේස්ඩ් ඔන් වෙරිෆයිඅබල් ඩේටා.",
+        "translation": "නිගමනය තහවුරු කළ හැකි දත්ත මත පදනම් විය යුතුයි."
       },
       {
         "word": "cite",
@@ -3128,9 +3128,9 @@ export const ENGLISH_B2_LESSONS = [
         "word": "law",
         "reading": "ලෝ",
         "meaning": "නීතිය",
-        "example": "For a specific case, seek qualified legal advice.",
-        "exampleReading": "ෆෝර් අ ස්පෙසිෆික් කේස්, සීක් ක්වොලිෆයිඩ් ලීගල් ඇඩ්වයිස්.",
-        "translation": "විශේෂිත සිද්ධියකට වෘත්තීය නීති උපදෙස් ලබාගන්න."
+        "example": "Citizens’ responsibilities are defined by law.",
+        "exampleReading": "සිටිසන්ස් රිස්පොන්සිබිලිටීස් ආ ඩිෆයින්ඩ් බයි ලෝ.",
+        "translation": "පුරවැසියන්ගේ වගකීම් නීතියෙන් තීරණය කර තිබෙනවා."
       },
       {
         "word": "consent",
@@ -3144,9 +3144,9 @@ export const ENGLISH_B2_LESSONS = [
         "word": "appeal",
         "reading": "අපීල්",
         "meaning": "අභියාචනය",
-        "example": "Citizens’ responsibilities are defined by law.",
-        "exampleReading": "සිටිසන්ස් රිස්පොන්සිබිලිටීස් ආ ඩිෆයින්ඩ් බයි ලෝ.",
-        "translation": "පුරවැසියන්ගේ වගකීම් නීතියෙන් තීරණය කර තිබෙනවා."
+        "example": "Before submitting an appeal, check the deadline and authority.",
+        "exampleReading": "බිෆෝර් සබ්මිටිං ඇන් අපීල්, චෙක් දි ඩෙඩ්ලයින් ඇන්ඩ් අතෝරිටි.",
+        "translation": "අභියාචනයක් ඉදිරිපත් කිරීමට පෙර කාලසීමාව සහ බලධාරියා පරීක්ෂා කරන්න."
       },
       {
         "word": "authority",
@@ -3160,9 +3160,9 @@ export const ENGLISH_B2_LESSONS = [
         "word": "procedure",
         "reading": "ප්‍රොසීජර්",
         "meaning": "ක්‍රියාපටිපාටිය",
-        "example": "For a specific case, seek qualified legal advice.",
-        "exampleReading": "ෆෝර් අ ස්පෙසිෆික් කේස්, සීක් ක්වොලිෆයිඩ් ලීගල් ඇඩ්වයිස්.",
-        "translation": "විශේෂිත සිද්ධියකට වෘත්තීය නීති උපදෙස් ලබාගන්න."
+        "example": "Everyone has the right to clear information about a procedure.",
+        "exampleReading": "එව්රිවන් හැස් දි රයිට් ටු ක්ලියර් ඉන්ෆොමේෂන් අබවුට් අ ප්‍රොසීජර්.",
+        "translation": "ක්‍රියාපටිපාටිය ගැන පැහැදිලි තොරතුරු දැනගැනීමට හැමෝටම අයිතියක් තිබෙනවා."
       }
     ],
     "grammarTitle": "Advanced grammar",
@@ -3286,9 +3286,9 @@ export const ENGLISH_B2_LESSONS = [
         "word": "healthcare",
         "reading": "හෙල්ත්කෙයාර්",
         "meaning": "සෞඛ්‍ය සේවාව",
-        "example": "Preventive check-ups help detect problems early.",
-        "exampleReading": "ප්‍රිවෙන්ටිව් චෙක්-අප්ස් හෙල්ප් ඩිටෙක්ට් ප්‍රොබ්ලම්ස් අර්ලි.",
-        "translation": "වැළැක්වීමේ පරීක්ෂණ ගැටලු කලින් හඳුනාගැනීමට උපකාරී වෙනවා."
+        "example": "Healthcare facilities should be accessible to everyone.",
+        "exampleReading": "හෙල්ත්කෙයාර් ෆසිලිටීස් ෂුඩ් බී ඇක්සෙසිබල් ටු එව්රිවන්.",
+        "translation": "සෞඛ්‍ය ආයතන හැමෝටම ප්‍රවේශ විය හැකි විය යුතුයි."
       },
       {
         "word": "prevention",
@@ -3302,9 +3302,9 @@ export const ENGLISH_B2_LESSONS = [
         "word": "check-up",
         "reading": "චෙක්-අප්",
         "meaning": "පරීක්ෂාව",
-        "example": "Reliable information makes decision-making easier.",
-        "exampleReading": "රිලයබල් ඉන්ෆොමේෂන් මේක්ස් ඩිසිෂන් මේකිං ඊසියර්.",
-        "translation": "විශ්වාසදායක තොරතුරු තීරණ ගැනීම පහසු කරනවා."
+        "example": "Preventive check-ups help detect problems early.",
+        "exampleReading": "ප්‍රිවෙන්ටිව් චෙක්-අප්ස් හෙල්ප් ඩිටෙක්ට් ප්‍රොබ්ලම්ස් අර්ලි.",
+        "translation": "වැළැක්වීමේ පරීක්ෂණ ගැටලු කලින් හඳුනාගැනීමට උපකාරී වෙනවා."
       },
       {
         "word": "availability",
@@ -3342,9 +3342,9 @@ export const ENGLISH_B2_LESSONS = [
         "word": "inform",
         "reading": "ඉන්ෆෝර්ම්",
         "meaning": "දැනුවත් කිරීම",
-        "example": "Healthcare workers explain available treatment options.",
-        "exampleReading": "හෙල්ත්කෙයාර් වර්කර්ස් එක්ස්ප්ලේන් අවේලබල් ට්‍රීට්මන්ට් ඔප්ෂන්ස්.",
-        "translation": "සෞඛ්‍ය සේවකයන් ප්‍රතිකාර විකල්ප පැහැදිලි කරනවා."
+        "example": "Reliable information makes decision-making easier.",
+        "exampleReading": "රිලයබල් ඉන්ෆොමේෂන් මේක්ස් ඩිසිෂන් මේකිං ඊසියර්.",
+        "translation": "විශ්වාසදායක තොරතුරු තීරණ ගැනීම පහසු කරනවා."
       }
     ],
     "grammarTitle": "Advanced grammar",
@@ -3492,17 +3492,17 @@ export const ENGLISH_B2_LESSONS = [
         "word": "visitor",
         "reading": "විසිටර්",
         "meaning": "අමුත්තා",
-        "example": "Responsible tourism respects the local community.",
-        "exampleReading": "රිස්පොන්සිබල් ටුවරිසම් රිස්පෙක්ට්ස් දි ලෝකල් කමියුනිටි.",
-        "translation": "වගකීම් සහිත සංචාරක ව්‍යාපාරය දේශීය ප්‍රජාවට ගරු කරනවා."
+        "example": "Too many visitors can damage monuments.",
+        "exampleReading": "ටූ මෙනි විසිටර්ස් කැන් ඩැමේජ් මොන්යුමන්ට්ස්.",
+        "translation": "අධික අමුත්තන් පිරිසක් ස්මාරකවලට හානි කළ හැකියි."
       },
       {
         "word": "local",
         "reading": "ලෝකල්",
         "meaning": "දේශීය",
-        "example": "Cultural heritage should be preserved for future generations.",
-        "exampleReading": "කල්චරල් හෙරිටේජ් ෂුඩ් බී ප්‍රිසර්ව්ඩ් ෆෝ ෆියුචර් ජෙනරේෂන්ස්.",
-        "translation": "අනාගත පරම්පරාවන් වෙනුවෙන් සංස්කෘතික උරුමය රැකගත යුතුයි."
+        "example": "Local crafts create jobs and preserve traditions.",
+        "exampleReading": "ලෝකල් ක්‍රාෆ්ට්ස් ක්‍රියේට් ජොබ්ස් ඇන්ඩ් ප්‍රිසර්ව් ට්‍රඩිෂන්ස්.",
+        "translation": "දේශීය හස්ත කර්මාන්ත රැකියා ඇති කර සම්ප්‍රදාය රකිනවා."
       },
       {
         "word": "craft",
@@ -3658,9 +3658,9 @@ export const ENGLISH_B2_LESSONS = [
         "word": "balance",
         "reading": "බැලන්ස්",
         "meaning": "සමතුලිතතාව",
-        "example": "Regular breaks can improve concentration.",
-        "exampleReading": "රෙගියුලර් බ්‍රේක්ස් කැන් ඉම්ප්‍රූව් කොන්සන්ට්‍රේෂන්.",
-        "translation": "නිතිපතා විවේක ගැනීම අවධානය වැඩි කළ හැකියි."
+        "example": "A flexible schedule makes it easier to balance responsibilities.",
+        "exampleReading": "අ ෆ්ලෙක්සිබල් ස්කෙජුල් මේක්ස් ඉට් ඊසියර් ටු බැලන්ස් රිස්පොන්සිබිලිටීස්.",
+        "translation": "නම්‍යශීලී කාලසටහන වගකීම් සමතුලිත කිරීම පහසු කරනවා."
       },
       {
         "word": "rest",
@@ -3840,41 +3840,41 @@ export const ENGLISH_B2_LESSONS = [
         "word": "chain",
         "reading": "චේන්",
         "meaning": "දාමය",
-        "example": "A business should maintain appropriate inventory levels.",
-        "exampleReading": "අ බිස්නස් ෂුඩ් මේන්ටේන් අප්‍රොප්‍රියේට් ඉන්වෙන්ටරි ලෙවල්ස්.",
-        "translation": "ව්‍යාපාරය සුදුසු තොග පවත්වාගත යුතුයි."
-      },
-      {
-        "word": "delivery",
-        "reading": "ඩිලිවරි",
-        "meaning": "භාරදීම",
-        "example": "The supplier announced a change in transport prices.",
-        "exampleReading": "දි සප්ලයර් අනවුන්ස්ඩ් අ චේන්ජ් ඉන් ට්‍රාන්ස්පෝර්ට් ප්‍රයිසස්.",
-        "translation": "සැපයුම්කරු ප්‍රවාහන මිල වෙනස් කරන බව දැනුම් දුන්නා."
-      },
-      {
-        "word": "supplier",
-        "reading": "සප්ලයර්",
-        "meaning": "සැපයුම්කරු",
-        "example": "Diversifying suppliers can reduce risk.",
-        "exampleReading": "ඩයිවර්සිෆයිං සප්ලයර්ස් කැන් රිඩියුස් රිස්ක්.",
-        "translation": "සැපයුම්කරුවන් විවිධ කිරීම අවදානම අඩු කළ හැකියි."
-      },
-      {
-        "word": "inventory",
-        "reading": "ඉන්වෙන්ටරි",
-        "meaning": "තොගය",
         "example": "A delivery delay affects the entire supply chain.",
         "exampleReading": "අ ඩිලිවරි ඩිලේ අෆෙක්ට්ස් දි එන්ටයර් සප්ලයි චේන්.",
         "translation": "භාරදීමේ ප්‍රමාදය මුළු සැපයුම් දාමයටම බලපානවා."
       },
       {
-        "word": "delay",
-        "reading": "ඩිලේ",
-        "meaning": "ප්‍රමාදය",
+        "word": "delivery",
+        "reading": "ඩිලිවරි",
+        "meaning": "භාරදීම",
+        "example": "A delivery delay affects the entire supply chain.",
+        "exampleReading": "අ ඩිලිවරි ඩිලේ අෆෙක්ට්ස් දි එන්ටයර් සප්ලයි චේන්.",
+        "translation": "භාරදීමේ ප්‍රමාදය මුළු සැපයුම් දාමයටම බලපානවා."
+      },
+      {
+        "word": "supplier",
+        "reading": "සප්ලයර්",
+        "meaning": "සැපයුම්කරු",
+        "example": "The supplier announced a change in transport prices.",
+        "exampleReading": "දි සප්ලයර් අනවුන්ස්ඩ් අ චේන්ජ් ඉන් ට්‍රාන්ස්පෝර්ට් ප්‍රයිසස්.",
+        "translation": "සැපයුම්කරු ප්‍රවාහන මිල වෙනස් කරන බව දැනුම් දුන්නා."
+      },
+      {
+        "word": "inventory",
+        "reading": "ඉන්වෙන්ටරි",
+        "meaning": "තොගය",
         "example": "A business should maintain appropriate inventory levels.",
         "exampleReading": "අ බිස්නස් ෂුඩ් මේන්ටේන් අප්‍රොප්‍රියේට් ඉන්වෙන්ටරි ලෙවල්ස්.",
         "translation": "ව්‍යාපාරය සුදුසු තොග පවත්වාගත යුතුයි."
+      },
+      {
+        "word": "delay",
+        "reading": "ඩිලේ",
+        "meaning": "ප්‍රමාදය",
+        "example": "A delivery delay affects the entire supply chain.",
+        "exampleReading": "අ ඩිලිවරි ඩිලේ අෆෙක්ට්ස් දි එන්ටයර් සප්ලයි චේන්.",
+        "translation": "භාරදීමේ ප්‍රමාදය මුළු සැපයුම් දාමයටම බලපානවා."
       },
       {
         "word": "customs",
@@ -4030,9 +4030,9 @@ export const ENGLISH_B2_LESSONS = [
         "word": "paragraph",
         "reading": "පැරග්‍රාෆ්",
         "meaning": "ඡේදය",
-        "example": "Connecting sentences makes a text easier to follow.",
-        "exampleReading": "කනෙක්ටිං සෙන්ටන්සස් මේක්ස් අ ටෙක්ස්ට් ඊසියර් ටු ෆොලෝ.",
-        "translation": "වාක්‍ය සම්බන්ධ කිරීමෙන් ලිපිය අනුගමනය පහසු වෙනවා."
+        "example": "Each paragraph should develop one key idea.",
+        "exampleReading": "ඊච් පැරග්‍රාෆ් ෂුඩ් ඩිවෙලප් වන් කී අයිඩියා.",
+        "translation": "සෑම ඡේදයක්ම එක් ප්‍රධාන අදහසක් වර්ධනය කළ යුතුයි."
       },
       {
         "word": "cohesion",
@@ -4386,9 +4386,9 @@ export const ENGLISH_B2_LESSONS = [
         "word": "probability",
         "reading": "ප්‍රොබබිලිටි",
         "meaning": "සම්භාවිතාව",
-        "example": "Further research is needed to confirm the conclusion.",
-        "exampleReading": "ෆර්දර් රිසර්ච් ඉස් නීඩඩ් ටු කන්ෆර්ම් දි කන්ක්ලූෂන්.",
-        "translation": "නිගමනය තහවුරු කිරීමට තවත් පර්යේෂණ අවශ්‍යයි."
+        "example": "Probability is not the same as certainty.",
+        "exampleReading": "ප්‍රොබබිලිටි ඉස් නොට් දි සේම් ඇස් සර්ටන්ටි.",
+        "translation": "සම්භාවිතාව කියන්නේ නිශ්චිතභාවයම නොවේ."
       },
       {
         "word": "causation",
@@ -4402,9 +4402,9 @@ export const ENGLISH_B2_LESSONS = [
         "word": "association",
         "reading": "අසෝසියේෂන්",
         "meaning": "සම්බන්ධතාව",
-        "example": "State the limitations of the available data clearly.",
-        "exampleReading": "ස්ටේට් දි ලිමිටේෂන්ස් ඔෆ් දි අවේලබල් ඩේටා ක්ලියර්ලි.",
-        "translation": "ලබාගත හැකි දත්තවල සීමා පැහැදිලිව සඳහන් කරන්න."
+        "example": "The results suggest an association but do not prove a cause.",
+        "exampleReading": "දි රිසල්ට්ස් සජෙස්ට් ඇන් අසෝසියේෂන් බට් ඩූ නොට් ප්‍රූව් අ කෝස්.",
+        "translation": "ප්‍රතිඵල සම්බන්ධතාවක් පෙන්වන නමුත් හේතුව තහවුරු කරන්නේ නැහැ."
       },
       {
         "word": "evidence",
@@ -4418,9 +4418,9 @@ export const ENGLISH_B2_LESSONS = [
         "word": "limitation",
         "reading": "ලිමිටේෂන්",
         "meaning": "සීමාව",
-        "example": "Further research is needed to confirm the conclusion.",
-        "exampleReading": "ෆර්දර් රිසර්ච් ඉස් නීඩඩ් ටු කන්ෆර්ම් දි කන්ක්ලූෂන්.",
-        "translation": "නිගමනය තහවුරු කිරීමට තවත් පර්යේෂණ අවශ්‍යයි."
+        "example": "State the limitations of the available data clearly.",
+        "exampleReading": "ස්ටේට් දි ලිමිටේෂන්ස් ඔෆ් දි අවේලබල් ඩේටා ක්ලියර්ලි.",
+        "translation": "ලබාගත හැකි දත්තවල සීමා පැහැදිලිව සඳහන් කරන්න."
       },
       {
         "word": "assessment",
@@ -4594,7 +4594,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "යෝජනාව",
         "example": "It is important to consider all the relevant facts.",
         "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
-        "translation": "ගිවිසුම් සාකච්ඡා කිරීම පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "ගිවිසුම් සාකච්ඡා කිරීම පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "compromise",
@@ -4602,7 +4602,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "සම්මුතිය",
         "example": "I suggest that we compare several possible solutions.",
         "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
-        "translation": "ගිවිසුම් සාකච්ඡා කිරීම පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "ගිවිසුම් සාකච්ඡා කිරීම පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "liable",
@@ -4610,7 +4610,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "වගකිව යුතු",
         "example": "The decision should be clear, consistent and well explained.",
         "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
-        "translation": "ගිවිසුම් සාකච්ඡා කිරීම පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "ගිවිසුම් සාකච්ඡා කිරීම පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "renewal",
@@ -4618,7 +4618,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "අලුත් කිරීම",
         "example": "If the circumstances change, we will adjust our plan.",
         "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
-        "translation": "ගිවිසුම් සාකච්ඡා කිරීම පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "ගිවිසුම් සාකච්ඡා කිරීම පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       }
     ],
     "grammarTitle": "Conditional and diplomatic requests",
@@ -4772,7 +4772,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "ලියාපදිංචිය",
         "example": "It is important to consider all the relevant facts.",
         "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
-        "translation": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "research",
@@ -4780,7 +4780,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "පර්යේෂණය",
         "example": "I suggest that we compare several possible solutions.",
         "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
-        "translation": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "apprenticeship",
@@ -4788,7 +4788,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "පුහුණුව",
         "example": "The decision should be clear, consistent and well explained.",
         "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
-        "translation": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "expertise",
@@ -4796,7 +4796,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "විශේෂ දැනුම",
         "example": "If the circumstances change, we will adjust our plan.",
         "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
-        "translation": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "අධ්‍යාපනය සහ ජීවිත කාලීන ඉගෙනීම පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       }
     ],
     "grammarTitle": "Relative clauses",
@@ -4950,7 +4950,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "ඝනත්වය",
         "example": "It is important to consider all the relevant facts.",
         "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
-        "translation": "නගර සැලසුම් සහ නිවාස පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "නගර සැලසුම් සහ නිවාස පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "affordable",
@@ -4958,7 +4958,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "දරාගත හැකි මිල",
         "example": "I suggest that we compare several possible solutions.",
         "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
-        "translation": "නගර සැලසුම් සහ නිවාස පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "නගර සැලසුම් සහ නිවාස පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "renovation",
@@ -4966,7 +4966,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "ප්‍රතිසංස්කරණය",
         "example": "The decision should be clear, consistent and well explained.",
         "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
-        "translation": "නගර සැලසුම් සහ නිවාස පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "නගර සැලසුම් සහ නිවාස පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "public space",
@@ -4974,7 +4974,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "පොදු අවකාශය",
         "example": "If the circumstances change, we will adjust our plan.",
         "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
-        "translation": "නගර සැලසුම් සහ නිවාස පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "නගර සැලසුම් සහ නිවාස පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       }
     ],
     "grammarTitle": "Passive voice for planning and policy",
@@ -5128,7 +5128,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "විසඳීම",
         "example": "It is important to consider all the relevant facts.",
         "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
-        "translation": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "tension",
@@ -5136,7 +5136,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "ආතතිය",
         "example": "I suggest that we compare several possible solutions.",
         "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
-        "translation": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "feedback",
@@ -5144,7 +5144,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "ප්‍රතිචාරය",
         "example": "The decision should be clear, consistent and well explained.",
         "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
-        "translation": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "agreement",
@@ -5152,7 +5152,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "එකඟතාව",
         "example": "If the circumstances change, we will adjust our plan.",
         "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
-        "translation": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "සේවා ස්ථාන ගැටුම් සහ මැදිහත්වීම පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       }
     ],
     "grammarTitle": "Reported speech",
@@ -5306,7 +5306,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "රිසිට්පත",
         "example": "It is important to consider all the relevant facts.",
         "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
-        "translation": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "consumer",
@@ -5314,7 +5314,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "පාරිභෝගිකයා",
         "example": "I suggest that we compare several possible solutions.",
         "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
-        "translation": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "complaint",
@@ -5322,7 +5322,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "පැමිණිල්ල",
         "example": "The decision should be clear, consistent and well explained.",
         "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
-        "translation": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "entitlement",
@@ -5330,7 +5330,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "හිමිකම",
         "example": "If the circumstances change, we will adjust our plan.",
         "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
-        "translation": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "පාරිභෝගික අයිතිවාසිකම් සහ පැමිණිලි පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       }
     ],
     "grammarTitle": "Polite formal requests and subjunctive-style expressions",
@@ -5484,7 +5484,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "ගබඩා කිරීම",
         "example": "It is important to consider all the relevant facts.",
         "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
-        "translation": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "transition",
@@ -5492,7 +5492,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "පරිවර්තනය",
         "example": "I suggest that we compare several possible solutions.",
         "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
-        "translation": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "subsidy",
@@ -5500,7 +5500,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "සහනාධාරය",
         "example": "The decision should be clear, consistent and well explained.",
         "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
-        "translation": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "sustainable",
@@ -5508,7 +5508,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "තිරසාර",
         "example": "If the circumstances change, we will adjust our plan.",
         "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
-        "translation": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "බලශක්ති පරිවර්තනය සහ තිරසාරභාවය පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       }
     ],
     "grammarTitle": "Cause, consequence and concession linkers",
@@ -5662,7 +5662,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "සහසම්බන්ධතාව",
         "example": "It is important to consider all the relevant facts.",
         "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
-        "translation": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "causation",
@@ -5670,7 +5670,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "හේතුකාරකත්වය",
         "example": "I suggest that we compare several possible solutions.",
         "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
-        "translation": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "methodology",
@@ -5678,7 +5678,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "ක්‍රමවේදය",
         "example": "The decision should be clear, consistent and well explained.",
         "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
-        "translation": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "limitation",
@@ -5686,7 +5686,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "සීමාව",
         "example": "If the circumstances change, we will adjust our plan.",
         "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
-        "translation": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       }
     ],
     "grammarTitle": "Hedging and cautious claims",
@@ -5840,7 +5840,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "පැහැදිලි කිරීම",
         "example": "It is important to consider all the relevant facts.",
         "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
-        "translation": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "summarise",
@@ -5848,7 +5848,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "සාරාංශ කිරීම",
         "example": "I suggest that we compare several possible solutions.",
         "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
-        "translation": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "engagement",
@@ -5856,7 +5856,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "සහභාගීත්වය",
         "example": "The decision should be clear, consistent and well explained.",
         "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
-        "translation": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "visual aid",
@@ -5864,7 +5864,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "දෘශ්‍ය ආධාරකය",
         "example": "If the circumstances change, we will adjust our plan.",
         "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
-        "translation": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       }
     ],
     "grammarTitle": "Signposting expressions",
@@ -6018,7 +6018,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "අයත්භාවය",
         "example": "It is important to consider all the relevant facts.",
         "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
-        "translation": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "diversity",
@@ -6026,7 +6026,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "විවිධත්වය",
         "example": "I suggest that we compare several possible solutions.",
         "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
-        "translation": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "custom",
@@ -6034,7 +6034,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "සම්ප්‍රදාය",
         "example": "The decision should be clear, consistent and well explained.",
         "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
-        "translation": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "adaptation",
@@ -6042,7 +6042,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "අනුගත වීම",
         "example": "If the circumstances change, we will adjust our plan.",
         "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
-        "translation": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       }
     ],
     "grammarTitle": "Contrastive clauses and nuanced comparisons",
@@ -6196,7 +6196,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "අවසරය",
         "example": "It is important to consider all the relevant facts.",
         "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
-        "translation": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "tracking",
@@ -6204,7 +6204,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "අනුගමනය කිරීම",
         "example": "I suggest that we compare several possible solutions.",
         "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
-        "translation": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "retention",
@@ -6212,7 +6212,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "රඳවා තබාගැනීම",
         "example": "The decision should be clear, consistent and well explained.",
         "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
-        "translation": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "disclosure",
@@ -6220,7 +6220,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "හෙළිදරව් කිරීම",
         "example": "If the circumstances change, we will adjust our plan.",
         "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
-        "translation": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "ඩිජිටල් පෞද්ගලිකත්වය සහ දත්ත ආරක්ෂාව පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       }
     ],
     "grammarTitle": "Modal verbs for obligation and possibility",
@@ -6374,7 +6374,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "එකඟතාව",
         "example": "It is important to consider all the relevant facts.",
         "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
-        "translation": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "symptom",
@@ -6382,7 +6382,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "රෝග ලක්ෂණය",
         "example": "I suggest that we compare several possible solutions.",
         "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
-        "translation": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "referral",
@@ -6390,7 +6390,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "යොමු කිරීම",
         "example": "The decision should be clear, consistent and well explained.",
         "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
-        "translation": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "recovery",
@@ -6398,7 +6398,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "සුවය ලැබීම",
         "example": "If the circumstances change, we will adjust our plan.",
         "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
-        "translation": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "සෞඛ්‍ය තීරණ සහ රෝගී සන්නිවේදනය පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       }
     ],
     "grammarTitle": "Indirect questions",
@@ -6552,7 +6552,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "ප්‍රතිලාභය",
         "example": "It is important to consider all the relevant facts.",
         "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
-        "translation": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "risk",
@@ -6560,7 +6560,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "අවදානම",
         "example": "I suggest that we compare several possible solutions.",
         "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
-        "translation": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "debt",
@@ -6568,7 +6568,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "ණය",
         "example": "The decision should be clear, consistent and well explained.",
         "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
-        "translation": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "forecast",
@@ -6576,7 +6576,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "පුරෝකථනය",
         "example": "If the circumstances change, we will adjust our plan.",
         "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
-        "translation": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "මූල්‍ය සැලසුම් සහ ආයෝජන අවදානම පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       }
     ],
     "grammarTitle": "Conditionals for financial scenarios",
@@ -6730,7 +6730,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "වැරදි තොරතුරු",
         "example": "It is important to consider all the relevant facts.",
         "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
-        "translation": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "coverage",
@@ -6738,7 +6738,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "වාර්තාකරණය",
         "example": "I suggest that we compare several possible solutions.",
         "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
-        "translation": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "quotation",
@@ -6746,7 +6746,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "උපුටා දැක්වීම",
         "example": "The decision should be clear, consistent and well explained.",
         "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
-        "translation": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "bias",
@@ -6754,7 +6754,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "පක්ෂපාතීත්වය",
         "example": "If the circumstances change, we will adjust our plan.",
         "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
-        "translation": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "මාධ්‍යවේදය සහ මූලාශ්‍ර ඇගයීම පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       }
     ],
     "grammarTitle": "Attribution and reported claims",
@@ -6908,7 +6908,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "සමාලෝචනය",
         "example": "It is important to consider all the relevant facts.",
         "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
-        "translation": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "outcome",
@@ -6916,7 +6916,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "ප්‍රතිඵලය",
         "example": "I suggest that we compare several possible solutions.",
         "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
-        "translation": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "resource",
@@ -6924,7 +6924,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "සම්පත",
         "example": "The decision should be clear, consistent and well explained.",
         "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
-        "translation": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "priority",
@@ -6932,7 +6932,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "ප්‍රමුඛතාව",
         "example": "If the circumstances change, we will adjust our plan.",
         "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
-        "translation": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "ව්‍යාපෘති අවසන් කිරීම සහ කාර්යසාධන සමාලෝචනය පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       }
     ],
     "grammarTitle": "Present perfect and outcome reporting",
@@ -7086,7 +7086,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "අනුමැතිය",
         "example": "It is important to consider all the relevant facts.",
         "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
-        "translation": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් පිළිබඳ 5 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "impact",
@@ -7094,7 +7094,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "බලපෑම",
         "example": "I suggest that we compare several possible solutions.",
         "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
-        "translation": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් පිළිබඳ 6 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් පිළිබඳ 2 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "oversight",
@@ -7102,7 +7102,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "අධීක්ෂණය",
         "example": "The decision should be clear, consistent and well explained.",
         "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
-        "translation": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් පිළිබඳ 7 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       },
       {
         "word": "safeguard",
@@ -7110,7 +7110,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "ආරක්ෂක පියවර",
         "example": "If the circumstances change, we will adjust our plan.",
         "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
-        "translation": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් පිළිබඳ 8 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "විද්‍යාව සහ තාක්ෂණයේ සදාචාරාත්මක තේරීම් පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
       }
     ],
     "grammarTitle": "Evaluative language and qualified conclusions",
@@ -7232,7 +7232,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "සහයෝගීතාව",
         "example": "It is important to consider all the relevant facts.",
         "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
-        "translation": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය සන්දර්භයේ සහයෝගීතාව යන වචනය භාවිතා වේ."
+        "translation": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "agreement",
@@ -7240,7 +7240,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "ගිවිසුම",
         "example": "I suggest that we compare several possible solutions.",
         "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
-        "translation": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය සන්දර්භයේ ගිවිසුම යන වචනය භාවිතා වේ."
+        "translation": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "negotiation",
@@ -7248,7 +7248,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "සාකච්ඡා",
         "example": "Although challenges remain, we can find a practical approach.",
         "exampleReading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
-        "translation": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය සන්දර්භයේ සාකච්ඡා යන වචනය භාවිතා වේ."
+        "translation": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය: 3 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "delegation",
@@ -7256,7 +7256,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "නියෝජිත පිරිස",
         "example": "A careful decision should be based on the available evidence.",
         "exampleReading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
-        "translation": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය සන්දර්භයේ නියෝජිත පිරිස යන වචනය භාවිතා වේ."
+        "translation": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය: 4 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "interest",
@@ -7264,7 +7264,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "අභිලාෂය",
         "example": "It is important to consider all the relevant facts.",
         "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
-        "translation": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය සන්දර්භයේ අභිලාෂය යන වචනය භාවිතා වේ."
+        "translation": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "position",
@@ -7272,7 +7272,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "ස්ථාවරය",
         "example": "I suggest that we compare several possible solutions.",
         "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
-        "translation": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය සන්දර්භයේ ස්ථාවරය යන වචනය භාවිතා වේ."
+        "translation": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "alliance",
@@ -7280,7 +7280,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "සන්ධානය",
         "example": "Although challenges remain, we can find a practical approach.",
         "exampleReading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
-        "translation": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය සන්දර්භයේ සන්ධානය යන වචනය භාවිතා වේ."
+        "translation": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය: 3 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "compromise",
@@ -7288,7 +7288,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "සම්මුතිය",
         "example": "A careful decision should be based on the available evidence.",
         "exampleReading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
-        "translation": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය සන්දර්භයේ සම්මුතිය යන වචනය භාවිතා වේ."
+        "translation": "ජාත්‍යන්තර සහයෝගීතාව සහ රාජ්‍යතාන්ත්‍රිකභාවය: 4 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       }
     ],
     "grammarTitle": "Diplomatic language and cautious proposals",
@@ -7410,7 +7410,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "අර්බුදය",
         "example": "It is important to consider all the relevant facts.",
         "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
-        "translation": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව සන්දර්භයේ අර්බුදය යන වචනය භාවිතා වේ."
+        "translation": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "agreement",
@@ -7418,7 +7418,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "ප්‍රකෘතිමත් වීම",
         "example": "I suggest that we compare several possible solutions.",
         "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
-        "translation": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව සන්දර්භයේ ප්‍රකෘතිමත් වීම යන වචනය භාවිතා වේ."
+        "translation": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "negotiation",
@@ -7426,7 +7426,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "ඔරොත්තු දීමේ හැකියාව",
         "example": "Although challenges remain, we can find a practical approach.",
         "exampleReading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
-        "translation": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව සන්දර්භයේ ඔරොත්තු දීමේ හැකියාව යන වචනය භාවිතා වේ."
+        "translation": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව: 3 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "delegation",
@@ -7434,7 +7434,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "අනතුරු ඇඟවීම",
         "example": "A careful decision should be based on the available evidence.",
         "exampleReading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
-        "translation": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව සන්දර්භයේ අනතුරු ඇඟවීම යන වචනය භාවිතා වේ."
+        "translation": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව: 4 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "interest",
@@ -7442,7 +7442,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "සැලැස්ම",
         "example": "It is important to consider all the relevant facts.",
         "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
-        "translation": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව සන්දර්භයේ සැලැස්ම යන වචනය භාවිතා වේ."
+        "translation": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "position",
@@ -7450,7 +7450,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "බාධාව",
         "example": "I suggest that we compare several possible solutions.",
         "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
-        "translation": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව සන්දර්භයේ බාධාව යන වචනය භාවිතා වේ."
+        "translation": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "alliance",
@@ -7458,7 +7458,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "ඇගයීම",
         "example": "Although challenges remain, we can find a practical approach.",
         "exampleReading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
-        "translation": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව සන්දර්භයේ ඇගයීම යන වචනය භාවිතා වේ."
+        "translation": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව: 3 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "compromise",
@@ -7466,7 +7466,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "දැනුම්දීම",
         "example": "A careful decision should be based on the available evidence.",
         "exampleReading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
-        "translation": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව සන්දර්භයේ දැනුම්දීම යන වචනය භාවිතා වේ."
+        "translation": "අර්බුද සන්නිවේදනය සහ ඔරොත්තු දීමේ හැකියාව: 4 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       }
     ],
     "grammarTitle": "Clear sequencing and conditional updates",
@@ -7588,7 +7588,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "සහනයක් දීම",
         "example": "It is important to consider all the relevant facts.",
         "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
-        "translation": "උසස් සාකච්ඡා උපායමාර්ග සන්දර්භයේ සහනයක් දීම යන වචනය භාවිතා වේ."
+        "translation": "උසස් සාකච්ඡා උපායමාර්ග: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "agreement",
@@ -7596,7 +7596,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "සාකච්ඡා ස්ථාවරය",
         "example": "I suggest that we compare several possible solutions.",
         "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
-        "translation": "උසස් සාකච්ඡා උපායමාර්ග සන්දර්භයේ සාකච්ඡා ස්ථාවරය යන වචනය භාවිතා වේ."
+        "translation": "උසස් සාකච්ඡා උපායමාර්ග: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "negotiation",
@@ -7604,7 +7604,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "කොන්දේසිය",
         "example": "Although challenges remain, we can find a practical approach.",
         "exampleReading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
-        "translation": "උසස් සාකච්ඡා උපායමාර්ග සන්දර්භයේ කොන්දේසිය යන වචනය භාවිතා වේ."
+        "translation": "උසස් සාකච්ඡා උපායමාර්ග: 3 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "delegation",
@@ -7612,7 +7612,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "ඉල්ලුම / යෝජනාව",
         "example": "A careful decision should be based on the available evidence.",
         "exampleReading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
-        "translation": "උසස් සාකච්ඡා උපායමාර්ග සන්දර්භයේ ඉල්ලුම / යෝජනාව යන වචනය භාවිතා වේ."
+        "translation": "උසස් සාකච්ඡා උපායමාර්ග: 4 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "interest",
@@ -7620,7 +7620,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "ප්‍රති යෝජනාව",
         "example": "It is important to consider all the relevant facts.",
         "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
-        "translation": "උසස් සාකච්ඡා උපායමාර්ග සන්දර්භයේ ප්‍රති යෝජනාව යන වචනය භාවිතා වේ."
+        "translation": "උසස් සාකච්ඡා උපායමාර්ග: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "position",
@@ -7628,7 +7628,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "දෙපාර්ශ්වයටම",
         "example": "I suggest that we compare several possible solutions.",
         "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
-        "translation": "උසස් සාකච්ඡා උපායමාර්ග සන්දර්භයේ දෙපාර්ශ්වයටම යන වචනය භාවිතා වේ."
+        "translation": "උසස් සාකච්ඡා උපායමාර්ග: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "alliance",
@@ -7636,7 +7636,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "නම්‍යශීලීභාවය",
         "example": "Although challenges remain, we can find a practical approach.",
         "exampleReading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
-        "translation": "උසස් සාකච්ඡා උපායමාර්ග සන්දර්භයේ නම්‍යශීලීභාවය යන වචනය භාවිතා වේ."
+        "translation": "උසස් සාකච්ඡා උපායමාර්ග: 3 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "compromise",
@@ -7644,7 +7644,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "ප්‍රතිඵලය",
         "example": "A careful decision should be based on the available evidence.",
         "exampleReading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
-        "translation": "උසස් සාකච්ඡා උපායමාර්ග සන්දර්භයේ ප්‍රතිඵලය යන වචනය භාවිතා වේ."
+        "translation": "උසස් සාකච්ඡා උපායමාර්ග: 4 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       }
     ],
     "grammarTitle": "Concessive clauses and bargaining language",
@@ -7766,7 +7766,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "සාහිත්‍යය",
         "example": "It is important to consider all the relevant facts.",
         "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
-        "translation": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය සන්දර්භයේ සාහිත්‍යය යන වචනය භාවිතා වේ."
+        "translation": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "agreement",
@@ -7774,7 +7774,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "මූලික තේමාව",
         "example": "I suggest that we compare several possible solutions.",
         "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
-        "translation": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය සන්දර්භයේ මූලික තේමාව යන වචනය භාවිතා වේ."
+        "translation": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "negotiation",
@@ -7782,7 +7782,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "සංකේතය",
         "example": "Although challenges remain, we can find a practical approach.",
         "exampleReading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
-        "translation": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය සන්දර්භයේ සංකේතය යන වචනය භාවිතා වේ."
+        "translation": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය: 3 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "delegation",
@@ -7790,7 +7790,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "කථකයා",
         "example": "A careful decision should be based on the available evidence.",
         "exampleReading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
-        "translation": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය සන්දර්භයේ කථකයා යන වචනය භාවිතා වේ."
+        "translation": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය: 4 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "interest",
@@ -7798,7 +7798,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "අර්ථකථනය",
         "example": "It is important to consider all the relevant facts.",
         "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
-        "translation": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය සන්දර්භයේ අර්ථකථනය යන වචනය භාවිතා වේ."
+        "translation": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "position",
@@ -7806,7 +7806,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "රූපකය",
         "example": "I suggest that we compare several possible solutions.",
         "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
-        "translation": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය සන්දර්භයේ රූපකය යන වචනය භාවිතා වේ."
+        "translation": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "alliance",
@@ -7814,7 +7814,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "සන්දර්භය",
         "example": "Although challenges remain, we can find a practical approach.",
         "exampleReading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
-        "translation": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය සන්දර්භයේ සන්දර්භය යන වචනය භාවිතා වේ."
+        "translation": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය: 3 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "compromise",
@@ -7822,7 +7822,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "දෘෂ්ටිකෝණය",
         "example": "A careful decision should be based on the available evidence.",
         "exampleReading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
-        "translation": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය සන්දර්භයේ දෘෂ්ටිකෝණය යන වචනය භාවිතා වේ."
+        "translation": "සාහිත්‍යය සහ විවේචනාත්මක අර්ථකථනය: 4 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       }
     ],
     "grammarTitle": "Interpretive and evidential language",
@@ -7944,7 +7944,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "ඇමුණුම",
         "example": "It is important to consider all the relevant facts.",
         "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
-        "translation": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා සන්දර්භයේ ඇමුණුම යන වචනය භාවිතා වේ."
+        "translation": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "agreement",
@@ -7952,7 +7952,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "සාරාංශය",
         "example": "I suggest that we compare several possible solutions.",
         "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
-        "translation": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා සන්දර්භයේ සාරාංශය යන වචනය භාවිතා වේ."
+        "translation": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "negotiation",
@@ -7960,7 +7960,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "සොයාගැනීම",
         "example": "Although challenges remain, we can find a practical approach.",
         "exampleReading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
-        "translation": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා සන්දර්භයේ සොයාගැනීම යන වචනය භාවිතා වේ."
+        "translation": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා: 3 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "delegation",
@@ -7968,7 +7968,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "නිර්දේශය",
         "example": "A careful decision should be based on the available evidence.",
         "exampleReading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
-        "translation": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා සන්දර්භයේ නිර්දේශය යන වචනය භාවිතා වේ."
+        "translation": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා: 4 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "interest",
@@ -7976,7 +7976,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "අතිරේකය",
         "example": "It is important to consider all the relevant facts.",
         "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
-        "translation": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා සන්දර්භයේ අතිරේකය යන වචනය භාවිතා වේ."
+        "translation": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "position",
@@ -7984,7 +7984,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "කාලසීමාව",
         "example": "I suggest that we compare several possible solutions.",
         "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
-        "translation": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා සන්දර්භයේ කාලසීමාව යන වචනය භාවිතා වේ."
+        "translation": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "alliance",
@@ -7992,7 +7992,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "වාර්තා සටහන",
         "example": "Although challenges remain, we can find a practical approach.",
         "exampleReading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
-        "translation": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා සන්දර්භයේ වාර්තා සටහන යන වචනය භාවිතා වේ."
+        "translation": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා: 3 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "compromise",
@@ -8000,7 +8000,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "ඉල්ලීම",
         "example": "A careful decision should be based on the available evidence.",
         "exampleReading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
-        "translation": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා සන්දර්භයේ ඉල්ලීම යන වචනය භාවිතා වේ."
+        "translation": "වෘත්තීය ලිපි හුවමාරුව සහ වාර්තා: 4 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       }
     ],
     "grammarTitle": "Formal register and concise reporting",
@@ -8122,7 +8122,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "අසමානතාව",
         "example": "It is important to consider all the relevant facts.",
         "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
-        "translation": "සමාජ අසමානතාව සහ ඇතුළත්කම සන්දර්භයේ අසමානතාව යන වචනය භාවිතා වේ."
+        "translation": "සමාජ අසමානතාව සහ ඇතුළත්කම: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "agreement",
@@ -8130,7 +8130,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "ඇතුළත්කම",
         "example": "I suggest that we compare several possible solutions.",
         "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
-        "translation": "සමාජ අසමානතාව සහ ඇතුළත්කම සන්දර්භයේ ඇතුළත්කම යන වචනය භාවිතා වේ."
+        "translation": "සමාජ අසමානතාව සහ ඇතුළත්කම: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "negotiation",
@@ -8138,7 +8138,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "ප්‍රවේශය",
         "example": "Although challenges remain, we can find a practical approach.",
         "exampleReading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
-        "translation": "සමාජ අසමානතාව සහ ඇතුළත්කම සන්දර්භයේ ප්‍රවේශය යන වචනය භාවිතා වේ."
+        "translation": "සමාජ අසමානතාව සහ ඇතුළත්කම: 3 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "delegation",
@@ -8146,7 +8146,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "සමානාත්මතාව",
         "example": "A careful decision should be based on the available evidence.",
         "exampleReading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
-        "translation": "සමාජ අසමානතාව සහ ඇතුළත්කම සන්දර්භයේ සමානාත්මතාව යන වචනය භාවිතා වේ."
+        "translation": "සමාජ අසමානතාව සහ ඇතුළත්කම: 4 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "interest",
@@ -8154,7 +8154,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "දරිද්‍රතාව",
         "example": "It is important to consider all the relevant facts.",
         "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
-        "translation": "සමාජ අසමානතාව සහ ඇතුළත්කම සන්දර්භයේ දරිද්‍රතාව යන වචනය භාවිතා වේ."
+        "translation": "සමාජ අසමානතාව සහ ඇතුළත්කම: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "position",
@@ -8162,7 +8162,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "සහාය",
         "example": "I suggest that we compare several possible solutions.",
         "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
-        "translation": "සමාජ අසමානතාව සහ ඇතුළත්කම සන්දර්භයේ සහාය යන වචනය භාවිතා වේ."
+        "translation": "සමාජ අසමානතාව සහ ඇතුළත්කම: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "alliance",
@@ -8170,7 +8170,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "වෙනස්කොට සැලකීම",
         "example": "Although challenges remain, we can find a practical approach.",
         "exampleReading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
-        "translation": "සමාජ අසමානතාව සහ ඇතුළත්කම සන්දර්භයේ වෙනස්කොට සැලකීම යන වචනය භාවිතා වේ."
+        "translation": "සමාජ අසමානතාව සහ ඇතුළත්කම: 3 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "compromise",
@@ -8178,7 +8178,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "අවස්ථාව",
         "example": "A careful decision should be based on the available evidence.",
         "exampleReading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
-        "translation": "සමාජ අසමානතාව සහ ඇතුළත්කම සන්දර්භයේ අවස්ථාව යන වචනය භාවිතා වේ."
+        "translation": "සමාජ අසමානතාව සහ ඇතුළත්කම: 4 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       }
     ],
     "grammarTitle": "Comparative structures and balanced claims",
@@ -8300,7 +8300,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "සංචාරක කර්මාන්තය",
         "example": "It is important to consider all the relevant facts.",
         "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
-        "translation": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව සන්දර්භයේ සංචාරක කර්මාන්තය යන වචනය භාවිතා වේ."
+        "translation": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "agreement",
@@ -8308,7 +8308,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "උරුමය",
         "example": "I suggest that we compare several possible solutions.",
         "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
-        "translation": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව සන්දර්භයේ උරුමය යන වචනය භාවිතා වේ."
+        "translation": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "negotiation",
@@ -8316,7 +8316,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "අමුත්තා",
         "example": "Although challenges remain, we can find a practical approach.",
         "exampleReading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
-        "translation": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව සන්දර්භයේ අමුත්තා යන වචනය භාවිතා වේ."
+        "translation": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව: 3 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "delegation",
@@ -8324,7 +8324,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "කාලසීමාව",
         "example": "A careful decision should be based on the available evidence.",
         "exampleReading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
-        "translation": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව සන්දර්භයේ කාලසීමාව යන වචනය භාවිතා වේ."
+        "translation": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව: 4 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "interest",
@@ -8332,7 +8332,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "ආදායම",
         "example": "It is important to consider all the relevant facts.",
         "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
-        "translation": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව සන්දර්භයේ ආදායම යන වචනය භාවිතා වේ."
+        "translation": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "position",
@@ -8340,7 +8340,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "ප්‍රජාව",
         "example": "I suggest that we compare several possible solutions.",
         "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
-        "translation": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව සන්දර්භයේ ප්‍රජාව යන වචනය භාවිතා වේ."
+        "translation": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "alliance",
@@ -8348,7 +8348,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "සංරක්ෂණය",
         "example": "Although challenges remain, we can find a practical approach.",
         "exampleReading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
-        "translation": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව සන්දර්භයේ සංරක්ෂණය යන වචනය භාවිතා වේ."
+        "translation": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව: 3 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "compromise",
@@ -8356,7 +8356,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "තිරසාරභාවය",
         "example": "A careful decision should be based on the available evidence.",
         "exampleReading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
-        "translation": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව සන්දර්භයේ තිරසාරභාවය යන වචනය භාවිතා වේ."
+        "translation": "සංචාරක සංවර්ධනය සහ ප්‍රාදේශීය ප්‍රජාව: 4 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       }
     ],
     "grammarTitle": "Balancing benefits and drawbacks",
@@ -8478,7 +8478,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "ව්‍යවසායකත්වය",
         "example": "It is important to consider all the relevant facts.",
         "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
-        "translation": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය සන්දර්භයේ ව්‍යවසායකත්වය යන වචනය භාවිතා වේ."
+        "translation": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "agreement",
@@ -8486,7 +8486,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "නවෝත්පාදනය",
         "example": "I suggest that we compare several possible solutions.",
         "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
-        "translation": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය සන්දර්භයේ නවෝත්පාදනය යන වචනය භාවිතා වේ."
+        "translation": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "negotiation",
@@ -8494,7 +8494,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "ආයෝජනය",
         "example": "Although challenges remain, we can find a practical approach.",
         "exampleReading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
-        "translation": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය සන්දර්භයේ ආයෝජනය යන වචනය භාවිතා වේ."
+        "translation": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය: 3 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "delegation",
@@ -8502,7 +8502,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "වෙළඳපොළ",
         "example": "A careful decision should be based on the available evidence.",
         "exampleReading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
-        "translation": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය සන්දර්භයේ වෙළඳපොළ යන වචනය භාවිතා වේ."
+        "translation": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය: 4 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "interest",
@@ -8510,7 +8510,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "ආරම්භ කිරීම",
         "example": "It is important to consider all the relevant facts.",
         "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
-        "translation": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය සන්දර්භයේ ආරම්භ කිරීම යන වචනය භාවිතා වේ."
+        "translation": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "position",
@@ -8518,7 +8518,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "තරඟය",
         "example": "I suggest that we compare several possible solutions.",
         "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
-        "translation": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය සන්දර්භයේ තරඟය යන වචනය භාවිතා වේ."
+        "translation": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "alliance",
@@ -8526,7 +8526,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "ව්‍යාපාර ආකෘතිය",
         "example": "Although challenges remain, we can find a practical approach.",
         "exampleReading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
-        "translation": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය සන්දර්භයේ ව්‍යාපාර ආකෘතිය යන වචනය භාවිතා වේ."
+        "translation": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය: 3 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "compromise",
@@ -8534,7 +8534,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "වර්ධනය",
         "example": "A careful decision should be based on the available evidence.",
         "exampleReading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
-        "translation": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය සන්දර්භයේ වර්ධනය යන වචනය භාවිතා වේ."
+        "translation": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය: 4 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       }
     ],
     "grammarTitle": "Future forms and projected outcomes",
@@ -8656,7 +8656,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "සූක්ෂ්ම වෙනස",
         "example": "It is important to consider all the relevant facts.",
         "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
-        "translation": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ සන්දර්භයේ සූක්ෂ්ම වෙනස යන වචනය භාවිතා වේ."
+        "translation": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "agreement",
@@ -8664,7 +8664,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "ප්‍රකාශය",
         "example": "I suggest that we compare several possible solutions.",
         "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
-        "translation": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ සන්දර්භයේ ප්‍රකාශය යන වචනය භාවිතා වේ."
+        "translation": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "negotiation",
@@ -8672,7 +8672,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "වචනාර්ථයෙන්",
         "example": "Although challenges remain, we can find a practical approach.",
         "exampleReading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
-        "translation": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ සන්දර්භයේ වචනාර්ථයෙන් යන වචනය භාවිතා වේ."
+        "translation": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ: 3 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "delegation",
@@ -8680,7 +8680,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "ව්‍යංගාර්ථයෙන්",
         "example": "A careful decision should be based on the available evidence.",
         "exampleReading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
-        "translation": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ සන්දර්භයේ ව්‍යංගාර්ථයෙන් යන වචනය භාවිතා වේ."
+        "translation": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ: 4 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "interest",
@@ -8688,7 +8688,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "භාෂා ශෛලිය",
         "example": "It is important to consider all the relevant facts.",
         "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
-        "translation": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ සන්දර්භයේ භාෂා ශෛලිය යන වචනය භාවිතා වේ."
+        "translation": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "position",
@@ -8696,7 +8696,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "ඉඟිය",
         "example": "I suggest that we compare several possible solutions.",
         "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
-        "translation": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ සන්දර්භයේ ඉඟිය යන වචනය භාවිතා වේ."
+        "translation": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "alliance",
@@ -8704,7 +8704,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "ද්විඅර්ථවත්",
         "example": "Although challenges remain, we can find a practical approach.",
         "exampleReading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
-        "translation": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ සන්දර්භයේ ද්විඅර්ථවත් යන වචනය භාවිතා වේ."
+        "translation": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ: 3 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "compromise",
@@ -8712,7 +8712,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "සන්දර්භය",
         "example": "A careful decision should be based on the available evidence.",
         "exampleReading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
-        "translation": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ සන්දර්භයේ සන්දර්භය යන වචනය භාවිතා වේ."
+        "translation": "භාෂා සූක්ෂ්මතා සහ ව්‍යවහාරික ප්‍රකාශ: 4 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       }
     ],
     "grammarTitle": "Idioms, register and implied meaning",
@@ -8834,7 +8834,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "නිගමනය",
         "example": "It is important to consider all the relevant facts.",
         "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
-        "translation": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය සන්දර්භයේ නිගමනය යන වචනය භාවිතා වේ."
+        "translation": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "agreement",
@@ -8842,7 +8842,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "සාධකය",
         "example": "I suggest that we compare several possible solutions.",
         "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
-        "translation": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය සන්දර්භයේ සාධකය යන වචනය භාවිතා වේ."
+        "translation": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "negotiation",
@@ -8850,7 +8850,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "තර්කය",
         "example": "Although challenges remain, we can find a practical approach.",
         "exampleReading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
-        "translation": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය සන්දර්භයේ තර්කය යන වචනය භාවිතා වේ."
+        "translation": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය: 3 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "delegation",
@@ -8858,7 +8858,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "සාරාංශ කිරීම",
         "example": "A careful decision should be based on the available evidence.",
         "exampleReading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
-        "translation": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය සන්දර්භයේ සාරාංශ කිරීම යන වචනය භාවිතා වේ."
+        "translation": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය: 4 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "interest",
@@ -8866,7 +8866,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "ඇගයීම",
         "example": "It is important to consider all the relevant facts.",
         "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් ඕල් දි රෙලවන්ට් ෆැක්ට්ස්.",
-        "translation": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය සන්දර්භයේ ඇගයීම යන වචනය භාවිතා වේ."
+        "translation": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "position",
@@ -8874,7 +8874,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "මතය",
         "example": "I suggest that we compare several possible solutions.",
         "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
-        "translation": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය සන්දර්භයේ මතය යන වචනය භාවිතා වේ."
+        "translation": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "alliance",
@@ -8882,7 +8882,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "සම්බන්ධතාව",
         "example": "Although challenges remain, we can find a practical approach.",
         "exampleReading": "ඕල්දෝ චැලෙන්ජිස් රිමේන්, වී කෑන් ෆයින්ඩ් අ ප්‍රැක්ටිකල් ඇප්‍රෝච්.",
-        "translation": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය සන්දර්භයේ සම්බන්ධතාව යන වචනය භාවිතා වේ."
+        "translation": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය: 3 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
         "word": "compromise",
@@ -8890,7 +8890,7 @@ export const ENGLISH_B2_LESSONS = [
         "meaning": "නිරවද්‍යතාව",
         "example": "A careful decision should be based on the available evidence.",
         "exampleReading": "අ කෙයාර්ෆුල් ඩිසිෂන් ෂුඩ් බී බේස්ඩ් ඔන් දි අවේලබල් එවිඩන්ස්.",
-        "translation": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය සන්දර්භයේ නිරවද්‍යතාව යන වචනය භාවිතා වේ."
+        "translation": "B2 සන්නිවේදන කුසලතා ඒකාබද්ධ කිරීම සහ සමාලෝචනය: 4 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       }
     ],
     "grammarTitle": "Combining argument, evidence, concession and conclusion",
