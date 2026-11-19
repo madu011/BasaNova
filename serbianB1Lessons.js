@@ -3571,7 +3571,7 @@ const serbianB1Lessons = [
         "meaning": "සහතිකය",
         "example": "Posle završetka kursa dobio sam sertifikat iz računara.",
         "translation": "පාඨමාලාව අවසන් කළ පසු මට පරිගණක පිළිබඳ සහතිකයක් ලැබුණා.",
-        "exampleReading": "පඔස්ලඑ ස්අවරшඑත්කඅ කඋරස්අ දඔබඉඔ ස්අම ස්එරත්ඉෆඉකඅත් ඉස් රඅчඋනඅරඅ."
+        "exampleReading": "පඔස්ලඑ ස්අවරෂඑත්කඅ කඋරස්අ දඔබඉඔ ස්අම ස්එරත්ඉෆඉකඅත් ඉස් රඅචඋනඅරඅ."
       },
       {
         "word": "kvalifikacija",
@@ -3579,7 +3579,7 @@ const serbianB1Lessons = [
         "meaning": "සුදුසුකම",
         "example": "Za ovaj posao potrebna je odgovarajuća stručna kvalifikacija.",
         "translation": "මේ රැකියාවට ගැළපෙන වෘත්තීය සුදුසුකමක් අවශ්‍යයි.",
-        "exampleReading": "ස්අ ඔවඅය පඔස්අඔ පඔත්රඑබනඅ යඑ ඔදගඔවඅරඅයඋћඅ ස්ත්රඋчනඅ කවඅලඉෆඉකඅත්ස්ඉයඅ."
+        "exampleReading": "ස්අ ඔවඅය පඔස්අඔ පඔත්රඑබනඅ යඑ ඔදගඔවඅරඅයඋච්අ ස්ත්රඋචනඅ කවඅලඉෆඉකඅත්ස්ඉයඅ."
       },
       {
         "word": "obuka",
@@ -3587,7 +3587,7 @@ const serbianB1Lessons = [
         "meaning": "පුහුණුව",
         "example": "Nova obuka počinje sledećeg ponedeljka u devet sati.",
         "translation": "නව පුහුණුව ලබන සඳුදා නවයට ආරම්භ වෙනවා.",
-        "exampleReading": "නඔවඅ ඔබඋකඅ පඔчඉන්යඑ ස්ලඑදඑћඑග පඔනඑදඑල්යකඅ උ දඑවඑත් ස්අත්ඉ."
+        "exampleReading": "නඔවඅ ඔබඋකඅ පඔචඉන්යඑ ස්ලඑදඑච්එග පඔනඑදඑල්යකඅ උ දඑවඑත් ස්අත්ඉ."
       },
       {
         "word": "predavanje",
@@ -3595,7 +3595,7 @@ const serbianB1Lessons = [
         "meaning": "දේශනය",
         "example": "Današnje predavanje o marketingu trajalo je sat vremena.",
         "translation": "අද අලෙවිකරණය පිළිබඳ දේශනය පැයක් පැවතුණා.",
-        "exampleReading": "දඅනඅшන්යඑ පරඑදඅවඅන්යඑ ඔ මඅරකඑත්ඉනගඋ ත්රඅයඅලඔ යඑ ස්අත් වරඑමඑනඅ."
+        "exampleReading": "දඅනඅෂන්යඑ පරඑදඅවඅන්යඑ ඔ මඅරකඑත්ඉනගඋ ත්රඅයඅලඔ යඑ ස්අත් වරඑමඑනඅ."
       },
       {
         "word": "zadatak",
@@ -3603,7 +3603,7 @@ const serbianB1Lessons = [
         "meaning": "පැවරුම",
         "example": "Moram da završim zadatak iz matematike do večeras.",
         "translation": "මම අද සවසට පෙර ගණිත පැවරුම අවසන් කළ යුතුයි.",
-        "exampleReading": "මඔරඅම දඅ ස්අවරшඉම ස්අදඅත්අක ඉස් මඅත්එමඅත්ඉකඑ දඔ වඑчඑරඅස්."
+        "exampleReading": "මඔරඅම දඅ ස්අවරෂඉම ස්අදඅත්අක ඉස් මඅත්එමඅත්ඉකඑ දඔ වඑචඑරඅස්."
       },
       {
         "word": "rok",
@@ -3619,7 +3619,7 @@ const serbianB1Lessons = [
         "meaning": "ලියාපදිංචි වෙනවා",
         "example": "Želim da se upišem na večernji kurs srpskog jezika.",
         "translation": "මට සර්බියානු භාෂාවේ සවස පාඨමාලාවකට ලියාපදිංචි වෙන්න ඕනෑ.",
-        "exampleReading": "жඑලඉම දඅ ස්එ උපඉшඑම නඅ වඑчඑරන්යඉ කඋරස් ස්රපස්කඔග යඑස්ඉකඅ."
+        "exampleReading": "ෂ්එලඉම දඅ ස්එ උපඉෂඑම නඅ වඑචඑරන්යඉ කඋරස් ස්රපස්කඔග යඑස්ඉකඅ."
       },
       {
         "word": "unaprediti",
@@ -3627,7 +3627,7 @@ const serbianB1Lessons = [
         "meaning": "දියුණු කරනවා",
         "example": "Redovno vežbanje može da unapredi tvoje znanje jezika.",
         "translation": "නිතිපතා පුහුණුවෙන් ඔබේ භාෂා දැනුම දියුණු කළ හැකියි.",
-        "exampleReading": "රඑදඔවනඔ වඑжබඅන්යඑ මඔжඑ දඅ උනඅපරඑදඉ ත්වඔයඑ ස්නඅන්යඑ යඑස්ඉකඅ."
+        "exampleReading": "රඑදඔවනඔ වඑෂ්බඅන්යඑ මඔෂ්එ දඅ උනඅපරඑදඉ ත්වඔයඑ ස්නඅන්යඑ යඑස්ඉකඅ."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -3749,7 +3749,7 @@ const serbianB1Lessons = [
         "meaning": "යෙදුම",
         "example": "Instalirao sam aplikaciju za učenje novih reči.",
         "translation": "මම අලුත් වචන ඉගෙනගැනීම සඳහා යෙදුමක් ස්ථාපනය කළා.",
-        "exampleReading": "ඉනස්ත්අලඉරඅඔ ස්අම අපලඉකඅත්ස්ඉයඋ ස්අ උчඑන්යඑ නඔවඉහ රඑчඉ."
+        "exampleReading": "ඉනස්ත්අලඉරඅඔ ස්අම අපලඉකඅත්ස්ඉයඋ ස්අ උචඑන්යඑ නඔවඉහ රඑචඉ."
       },
       {
         "word": "nalog",
@@ -3757,7 +3757,7 @@ const serbianB1Lessons = [
         "meaning": "ගිණුම",
         "example": "Napravio sam novi nalog koristeći svoju imejl adresu.",
         "translation": "මම මගේ විද්‍යුත් තැපැල් ලිපිනය භාවිත කර අලුත් ගිණුමක් හැදුවා.",
-        "exampleReading": "නඅපරඅවඉඔ ස්අම නඔවඉ නඅලඔග කඔරඉස්ත්එћඉ ස්වඔයඋ ඉමඑයල අදරඑස්උ."
+        "exampleReading": "නඅපරඅවඉඔ ස්අම නඔවඉ නඅලඔග කඔරඉස්ත්එච්ඉ ස්වඔයඋ ඉමඑයල අදරඑස්උ."
       },
       {
         "word": "lozinka",
@@ -3781,7 +3781,7 @@ const serbianB1Lessons = [
         "meaning": "බාගත කරනවා",
         "example": "Možeš da preuzmeš datoteku direktno sa zvaničnog sajta.",
         "translation": "නිල වෙබ් අඩවියෙන් ගොනුව සෘජුවම බාගත කරන්න පුළුවන්.",
-        "exampleReading": "මඔжඑш දඅ පරඑඋස්මඑш දඅත්ඔත්එකඋ දඉරඑකත්නඔ ස්අ ස්වඅනඉчනඔග ස්අයත්අ."
+        "exampleReading": "මඔෂ්එෂ දඅ පරඑඋස්මඑෂ දඅත්ඔත්එකඋ දඉරඑකත්නඔ ස්අ ස්වඅනඉචනඔග ස්අයත්අ."
       },
       {
         "word": "ažurirati",
@@ -3789,7 +3789,7 @@ const serbianB1Lessons = [
         "meaning": "යාවත්කාලීන කරනවා",
         "example": "Ne zaboravi da ažuriraš aplikaciju zbog novih funkcija.",
         "translation": "අලුත් විශේෂාංග සඳහා යෙදුම යාවත්කාලීන කරන්න අමතක කරන්න එපා.",
-        "exampleReading": "නඑ ස්අබඔරඅවඉ දඅ අжඋරඉරඅш අපලඉකඅත්ස්ඉයඋ ස්බඔග නඔවඉහ ෆඋනකත්ස්ඉයඅ."
+        "exampleReading": "නඑ ස්අබඔරඅවඉ දඅ අෂ්උරඉරඅෂ අපලඉකඅත්ස්ඉයඋ ස්බඔග නඔවඉහ ෆඋනකත්ස්ඉයඅ."
       },
       {
         "word": "privatnost",
@@ -3797,7 +3797,7 @@ const serbianB1Lessons = [
         "meaning": "පෞද්ගලිකත්වය",
         "example": "Podešavanja privatnosti određuju ko može da vidi tvoje podatke.",
         "translation": "ඔබේ දත්ත බලන්න පුළුවන් කාටද යන්න පෞද්ගලිකත්ව සැකසුම් තීරණය කරනවා.",
-        "exampleReading": "පඔදඑшඅවඅන්යඅ පරඉවඅත්නඔස්ත්ඉ ඔදරඑђඋයඋ කඔ මඔжඑ දඅ වඉදඉ ත්වඔයඑ පඔදඅත්කඑ."
+        "exampleReading": "පඔදඑෂඅවඅන්යඅ පරඉවඅත්නඔස්ත්ඉ ඔදරඑජඋයඋ කඔ මඔෂ්එ දඅ වඉදඉ ත්වඔයඑ පඔදඅත්කඑ."
       },
       {
         "word": "veza",
@@ -3927,7 +3927,7 @@ const serbianB1Lessons = [
         "meaning": "ඉතිරිකිරීම්",
         "example": "Svoju ušteđevinu čuvam za neplanirane troškove.",
         "translation": "හදිසිව ඇතිවන වියදම් සඳහා මම මගේ ඉතිරිකිරීම් තබාගන්නවා.",
-        "exampleReading": "ස්වඔයඋ උшත්එђඑවඉනඋ чඋවඅම ස්අ නඑපලඅනඉරඅනඑ ත්රඔшකඔවඑ."
+        "exampleReading": "ස්වඔයඋ උෂත්එජඑවඉනඋ චඋවඅම ස්අ නඑපලඅනඉරඅනඑ ත්රඔෂකඔවඑ."
       },
       {
         "word": "budžet",
@@ -3935,7 +3935,7 @@ const serbianB1Lessons = [
         "meaning": "අයවැය",
         "example": "Napravili smo mesečni budžet za hranu i račune.",
         "translation": "අපි ආහාර සහ බිල්පත් සඳහා මාසික අයවැයක් සකස් කළා.",
-        "exampleReading": "නඅපරඅවඉලඉ ස්මඔ මඑස්එчනඉ බඋජඑත් ස්අ හරඅනඋ ඉ රඅчඋනඑ."
+        "exampleReading": "නඅපරඅවඉලඉ ස්මඔ මඑස්එචනඉ බඋජඑත් ස්අ හරඅනඋ ඉ රඅචඋනඑ."
       },
       {
         "word": "trošak",
@@ -3943,7 +3943,7 @@ const serbianB1Lessons = [
         "meaning": "වියදම",
         "example": "Najveći trošak ovog meseca bila je stanarina.",
         "translation": "මේ මාසයේ ලොකුම වියදම නිවාස කුලියයි.",
-        "exampleReading": "නඅයවඑћඉ ත්රඔшඅක ඔවඔග මඑස්එත්ස්අ බඉලඅ යඑ ස්ත්අනඅරඉනඅ."
+        "exampleReading": "නඅයවඑච්ඉ ත්රඔෂඅක ඔවඔග මඑස්එත්ස්අ බඉලඅ යඑ ස්ත්අනඅරඉනඅ."
       },
       {
         "word": "prihod",
@@ -3951,7 +3951,7 @@ const serbianB1Lessons = [
         "meaning": "ආදායම",
         "example": "Moj mesečni prihod zavisi od broja radnih sati.",
         "translation": "මගේ මාසික ආදායම වැඩ කරන පැය ගණන අනුව වෙනස් වෙනවා.",
-        "exampleReading": "මඔය මඑස්එчනඉ පරඉහඔද ස්අවඉස්ඉ ඔද බරඔයඅ රඅදනඉහ ස්අත්ඉ."
+        "exampleReading": "මඔය මඑස්එචනඉ පරඉහඔද ස්අවඉස්ඉ ඔද බරඔයඅ රඅදනඉහ ස්අත්ඉ."
       },
       {
         "word": "prenos",
@@ -3959,7 +3959,7 @@ const serbianB1Lessons = [
         "meaning": "මාරු කිරීම",
         "example": "Bankovni prenos novca obično traje jedan radni dan.",
         "translation": "බැංකු මුදල් මාරුවකට සාමාන්‍යයෙන් වැඩ කරන දිනයක් ගත වෙනවා.",
-        "exampleReading": "බඅනකඔවනඉ පරඑනඔස් නඔවත්ස්අ ඔබඉчනඔ ත්රඅයඑ යඑදඅන රඅදනඉ දඅන."
+        "exampleReading": "බඅනකඔවනඉ පරඑනඔස් නඔවත්ස්අ ඔබඉචනඔ ත්රඅයඑ යඑදඅන රඅදනඉ දඅන."
       },
       {
         "word": "naknada",
@@ -3967,7 +3967,7 @@ const serbianB1Lessons = [
         "meaning": "ගාස්තුව",
         "example": "Banka naplaćuje naknadu za međunarodni transfer.",
         "translation": "ජාත්‍යන්තර මුදල් මාරුවක් සඳහා බැංකුව ගාස්තුවක් අය කරනවා.",
-        "exampleReading": "බඅනකඅ නඅපලඅћඋයඑ නඅකනඅදඋ ස්අ මඑђඋනඅරඔදනඉ ත්රඅනස්ෆඑර."
+        "exampleReading": "බඅනකඅ නඅපලඅච්උයඑ නඅකනඅදඋ ස්අ මඑජඋනඅරඔදනඉ ත්රඅනස්ෆඑර."
       },
       {
         "word": "kamata",
@@ -3975,7 +3975,7 @@ const serbianB1Lessons = [
         "meaning": "පොලිය",
         "example": "Kamatna stopa utiče na ukupan iznos kredita.",
         "translation": "පොලී අනුපාතය ණයේ මුළු මුදලට බලපානවා.",
-        "exampleReading": "කඅමඅත්නඅ ස්ත්ඔපඅ උත්ඉчඑ නඅ උකඋපඅන ඉස්නඔස් කරඑදඉත්අ."
+        "exampleReading": "කඅමඅත්නඅ ස්ත්ඔපඅ උත්ඉචඑ නඅ උකඋපඅන ඉස්නඔස් කරඑදඉත්අ."
       },
       {
         "word": "izvod",
@@ -4105,7 +4105,7 @@ const serbianB1Lessons = [
         "meaning": "යහපැවැත්ම",
         "example": "Redovan odmor je važan za fizičku i mentalnu dobrobit.",
         "translation": "නිතිපතා විවේක ගැනීම ශාරීරික හා මානසික යහපැවැත්මට වැදගත්.",
-        "exampleReading": "රඑදඔවඅන ඔදමඔර යඑ වඅжඅන ස්අ ෆඉස්ඉчකඋ ඉ මඑනත්අලනඋ දඔබරඔබඉත්."
+        "exampleReading": "රඑදඔවඅන ඔදමඔර යඑ වඅෂ්අන ස්අ ෆඉස්ඉචකඋ ඉ මඑනත්අලනඋ දඔබරඔබඉත්."
       },
       {
         "word": "navika",
@@ -4113,7 +4113,7 @@ const serbianB1Lessons = [
         "meaning": "පුරුද්ද",
         "example": "Stvorio sam naviku da svako jutro prošetam.",
         "translation": "මම සෑම උදෑසනකම ඇවිදීමට පුරුද්දක් ඇති කරගත්තා.",
-        "exampleReading": "ස්ත්වඔරඉඔ ස්අම නඅවඉකඋ දඅ ස්වඅකඔ යඋත්රඔ පරඔшඑත්අම."
+        "exampleReading": "ස්ත්වඔරඉඔ ස්අම නඅවඉකඋ දඅ ස්වඅකඔ යඋත්රඔ පරඔෂඑත්අම."
       },
       {
         "word": "san",
@@ -4121,7 +4121,7 @@ const serbianB1Lessons = [
         "meaning": "නින්ද",
         "example": "Dovoljno sna pomaže mi da se bolje koncentrišem.",
         "translation": "ප්‍රමාණවත් නින්දක් මට වඩා හොඳින් අවධානය යොමු කිරීමට උදව් කරනවා.",
-        "exampleReading": "දඔවඔල්යනඔ ස්නඅ පඔමඅжඑ මඉ දඅ ස්එ බඔල්යඑ කඔනත්ස්එනත්රඉшඑම."
+        "exampleReading": "දඔවඔල්යනඔ ස්නඅ පඔමඅෂ්එ මඉ දඅ ස්එ බඔල්යඑ කඔනත්ස්එනත්රඉෂඑම."
       },
       {
         "word": "vežbanje",
@@ -4129,7 +4129,7 @@ const serbianB1Lessons = [
         "meaning": "ව්‍යායාමය",
         "example": "Umereno vežbanje može poboljšati raspoloženje.",
         "translation": "මධ්‍යස්ථ ව්‍යායාම මනෝභාවය වැඩිදියුණු කරන්න පුළුවන්.",
-        "exampleReading": "උමඑරඑනඔ වඑжබඅන්යඑ මඔжඑ පඔබඔල්යшඅත්ඉ රඅස්පඔලඔжඑන්යඑ."
+        "exampleReading": "උමඑරඑනඔ වඑෂ්බඅන්යඑ මඔෂ්එ පඔබඔල්යෂඅත්ඉ රඅස්පඔලඔෂ්එන්යඑ."
       },
       {
         "word": "uravnotežen",
@@ -4137,7 +4137,7 @@ const serbianB1Lessons = [
         "meaning": "සමබර",
         "example": "Trudim se da jedem uravnoteženu i raznovrsnu hranu.",
         "translation": "මම සමබර හා විවිධ ආහාර වේලක් ගැනීමට උත්සාහ කරනවා.",
-        "exampleReading": "ත්රඋදඉම ස්එ දඅ යඑදඑම උරඅවනඔත්එжඑනඋ ඉ රඅස්නඔවරස්නඋ හරඅනඋ."
+        "exampleReading": "ත්රඋදඉම ස්එ දඅ යඑදඑම උරඅවනඔත්එෂ්එනඋ ඉ රඅස්නඔවරස්නඋ හරඅනඋ."
       },
       {
         "word": "stres",
@@ -4145,7 +4145,7 @@ const serbianB1Lessons = [
         "meaning": "මානසික පීඩනය",
         "example": "Kratka šetnja pomaže mi da smanjim stres posle posla.",
         "translation": "කෙටි ඇවිදීමක් වැඩෙන් පසු මානසික පීඩනය අඩු කරගැනීමට උදව් කරනවා.",
-        "exampleReading": "කරඅත්කඅ шඑත්න්යඅ පඔමඅжඑ මඉ දඅ ස්මඅන්යඉම ස්ත්රඑස් පඔස්ලඑ පඔස්ලඅ."
+        "exampleReading": "කරඅත්කඅ ෂඑත්න්යඅ පඔමඅෂ්එ මඉ දඅ ස්මඅන්යඉම ස්ත්රඑස් පඔස්ලඑ පඔස්ලඅ."
       },
       {
         "word": "rutina",
@@ -4153,7 +4153,7 @@ const serbianB1Lessons = [
         "meaning": "දෛනික රටාව",
         "example": "Moja večernja rutina uključuje čitanje nekoliko stranica.",
         "translation": "මගේ සවස දෛනික රටාවට පිටු කිහිපයක් කියවීම ඇතුළත්.",
-        "exampleReading": "මඔයඅ වඑчඑරන්යඅ රඋත්ඉනඅ උකල්යඋчඋයඑ чඉත්අන්යඑ නඑකඔලඉකඔ ස්ත්රඅනඉත්ස්අ."
+        "exampleReading": "මඔයඅ වඑචඑරන්යඅ රඋත්ඉනඅ උකල්යඋචඋයඑ චඉත්අන්යඑ නඑකඔලඉකඔ ස්ත්රඅනඉත්ස්අ."
       },
       {
         "word": "oporavak",
@@ -4283,7 +4283,7 @@ const serbianB1Lessons = [
         "meaning": "සම්ප්‍රදාය",
         "example": "U našoj porodici postoji tradicija zajedničkog ručka nedeljom.",
         "translation": "අපේ පවුලේ ඉරිදා එකට දිවා ආහාරය ගැනීමේ සම්ප්‍රදායක් තිබෙනවා.",
-        "exampleReading": "උ නඅшඔය පඔරඔදඉත්ස්ඉ පඔස්ත්ඔයඉ ත්රඅදඉත්ස්ඉයඅ ස්අයඑදනඉчකඔග රඋчකඅ නඑදඑල්යඔම."
+        "exampleReading": "උ නඅෂඔය පඔරඔදඉත්ස්ඉ පඔස්ත්ඔයඉ ත්රඅදඉත්ස්ඉයඅ ස්අයඑදනඉචකඔග රඋචකඅ නඑදඑල්යඔම."
       },
       {
         "word": "običaj",
@@ -4291,7 +4291,7 @@ const serbianB1Lessons = [
         "meaning": "චාරිත්‍රය",
         "example": "U Srbiji je običaj da se gostima ponudi kafa.",
         "translation": "සර්බියාවේ අමුත්තන්ට කෝපි පිරිනැමීම සිරිතක්.",
-        "exampleReading": "උ ස්රබඉයඉ යඑ ඔබඉчඅය දඅ ස්එ ගඔස්ත්ඉමඅ පඔනඋදඉ කඅෆඅ."
+        "exampleReading": "උ ස්රබඉයඉ යඑ ඔබඉචඅය දඅ ස්එ ගඔස්ත්ඉමඅ පඔනඋදඉ කඅෆඅ."
       },
       {
         "word": "nasleđe",
@@ -4299,7 +4299,7 @@ const serbianB1Lessons = [
         "meaning": "උරුමය",
         "example": "Stara tvrđava je važan deo kulturnog nasleđa grada.",
         "translation": "පැරණි බලකොටුව නගරයේ සංස්කෘතික උරුමයේ වැදගත් කොටසක්.",
-        "exampleReading": "ස්ත්අරඅ ත්වරђඅවඅ යඑ වඅжඅන දඑඔ කඋලත්උරනඔග නඅස්ලඑђඅ ගරඅදඅ."
+        "exampleReading": "ස්ත්අරඅ ත්වරජඅවඅ යඑ වඅෂ්අන දඑඔ කඋලත්උරනඔග නඅස්ලඑජඅ ගරඅදඅ."
       },
       {
         "word": "generacija",
@@ -4307,7 +4307,7 @@ const serbianB1Lessons = [
         "meaning": "පරම්පරාව",
         "example": "Mlađa generacija često koristi nove načine komunikacije.",
         "translation": "තරුණ පරම්පරාව බොහෝවිට සන්නිවේදනයේ නව ක්‍රම භාවිත කරනවා.",
-        "exampleReading": "මලඅђඅ ගඑනඑරඅත්ස්ඉයඅ чඑස්ත්ඔ කඔරඉස්ත්ඉ නඔවඑ නඅчඉනඑ කඔමඋනඉකඅත්ස්ඉයඑ."
+        "exampleReading": "මලඅජඅ ගඑනඑරඅත්ස්ඉයඅ චඑස්ත්ඔ කඔරඉස්ත්ඉ නඔවඑ නඅචඉනඑ කඔමඋනඉකඅත්ස්ඉයඑ."
       },
       {
         "word": "proslava",
@@ -4315,7 +4315,7 @@ const serbianB1Lessons = [
         "meaning": "උත්සවය",
         "example": "Porodična proslava počinje u subotu uveče.",
         "translation": "පවුලේ උත්සවය සෙනසුරාදා සවස ආරම්භ වෙනවා.",
-        "exampleReading": "පඔරඔදඉчනඅ පරඔස්ලඅවඅ පඔчඉන්යඑ උ ස්උබඔත්උ උවඑчඑ."
+        "exampleReading": "පඔරඔදඉචනඅ පරඔස්ලඅවඅ පඔචඉන්යඑ උ ස්උබඔත්උ උවඑචඑ."
       },
       {
         "word": "nošnja",
@@ -4323,7 +4323,7 @@ const serbianB1Lessons = [
         "meaning": "සාම්ප්‍රදායික ඇඳුම",
         "example": "Na festivalu su učesnici nosili tradicionalnu narodnu nošnju.",
         "translation": "උත්සවයේදී සහභාගිවූවන් සාම්ප්‍රදායික ජන ඇඳුම් ඇඳ සිටියා.",
-        "exampleReading": "නඅ ෆඑස්ත්ඉවඅලඋ ස්උ උчඑස්නඉත්ස්ඉ නඔස්ඉලඉ ත්රඅදඉත්ස්ඉඔනඅලනඋ නඅරඔදනඋ නඔшන්යඋ."
+        "exampleReading": "නඅ ෆඑස්ත්ඉවඅලඋ ස්උ උචඑස්නඉත්ස්ඉ නඔස්ඉලඉ ත්රඅදඉත්ස්ඉඔනඅලනඋ නඅරඔදනඋ නඔෂන්යඋ."
       },
       {
         "word": "uticaj",
@@ -4339,7 +4339,7 @@ const serbianB1Lessons = [
         "meaning": "අනන්‍යතාව",
         "example": "Jezik je važan deo ličnog i kulturnog identiteta.",
         "translation": "භාෂාව පුද්ගලික හා සංස්කෘතික අනන්‍යතාවයේ වැදගත් කොටසක්.",
-        "exampleReading": "යඑස්ඉක යඑ වඅжඅන දඑඔ ලඉчනඔග ඉ කඋලත්උරනඔග ඉදඑනත්ඉත්එත්අ."
+        "exampleReading": "යඑස්ඉක යඑ වඅෂ්අන දඑඔ ලඉචනඔග ඉ කඋලත්උරනඔග ඉදඑනත්ඉත්එත්අ."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
