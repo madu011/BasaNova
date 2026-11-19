@@ -428,3 +428,7 @@ All 50 Serbian B1 lesson titles have been localized into Serbian Latin script to
 
 ### Build issue correction — 2026-11-19
 A JSX syntax error in the 18+ language panel was found during Expo bundle export and fixed by wrapping adjacent elements in a React fragment. New Expo and Android release build runs have been triggered; their results and physical-device testing are still pending. See `HANDOFF.md`.
+
+
+### Assessment content QA automation — 2026-11-19
+Added `npm run qa:content` to validate the A1 and C2 final/revision assessment schemas, question counts, unique IDs and answer choices, answer-index bounds, and Sinhala-script pronunciation fields. The check is wired into both GitHub Actions workflows and will execute when Actions is available. A mixed-script Sinhala/Cyrillic pronunciation in Serbian A1 final item 18 was corrected. This static check does not replace linguistic review, runtime testing, or Android device testing. See `HANDOFF.md` for current verification limits.
