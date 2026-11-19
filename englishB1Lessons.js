@@ -5422,7 +5422,7 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "examples": [
       {
-        "text": "සයන්ටිෆික් ඩිස්කවරිස් චේන්ජ් හව් වී අන්ඩර්ස්ටෑන්ඩ් දි වර්ල්ඩ්.",
+        "text": "Scientific discoveries change how we understand the world.",
         "reading": "Passive voice and present perfect for discoveries.",
         "meaning": "Scientific discoveries change how we understand the world."
       },
@@ -5444,7 +5444,7 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "dialogue": [
       {
-        "text": "A: සයන්ටිෆික් ඩිස්කවරිස් චේන්ජ් හව් වී අන්ඩර්ස්ටෑන්ඩ් දි වර්ල්ඩ්.",
+        "text": "A: Scientific discoveries change how we understand the world.",
         "reading": "A: Passive voice and present perfect for discoveries.",
         "meaning": "Scientific discoveries change how we understand the world."
       },
@@ -5490,7 +5490,7 @@ export const ENGLISH_B1_LESSONS = [
         "prompt": "Choose the correct sentence.",
         "options": [
           "Yesterday I will goes.",
-          "සයන්ටිෆික් ඩිස්කවරිස් චේන්ජ් හව් වී අන්ඩර්ස්ටෑන්ඩ් දි වර්ල්ඩ්.",
+          "Scientific discoveries change how we understand the world.",
           "She have finished yesterday."
         ],
         "answer": 1,
@@ -5600,7 +5600,7 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "examples": [
       {
-        "text": "එව්රිවන් හැස් රයිට්ස් ඇන්ඩ් රිස්පොන්සිබිලිටීස් ටුවර්ඩ්ස් අදර්ස්.",
+        "text": "Everyone has rights and responsibilities towards others.",
         "reading": "Modal verbs and conditional clauses for obligations.",
         "meaning": "Everyone has rights and responsibilities towards others."
       },
@@ -5622,7 +5622,7 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "dialogue": [
       {
-        "text": "A: එව්රිවන් හැස් රයිට්ස් ඇන්ඩ් රිස්පොන්සිබිලිටීස් ටුවර්ඩ්ස් අදර්ස්.",
+        "text": "A: Everyone has rights and responsibilities towards others.",
         "reading": "A: Modal verbs and conditional clauses for obligations.",
         "meaning": "Everyone has rights and responsibilities towards others."
       },
@@ -5668,7 +5668,7 @@ export const ENGLISH_B1_LESSONS = [
         "prompt": "Choose the correct sentence.",
         "options": [
           "Yesterday I will goes.",
-          "එව්රිවන් හැස් රයිට්ස් ඇන්ඩ් රිස්පොන්සිබිලිටීස් ටුවර්ඩ්ස් අදර්ස්.",
+          "Everyone has rights and responsibilities towards others.",
           "She have finished yesterday."
         ],
         "answer": 1,
@@ -5778,7 +5778,7 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "examples": [
       {
-        "text": "ආර්ට් අලවුස් අස් ටු එක්ස්ප්‍රෙස් ෆීලිංස් ඉන් ඩිෆරන්ට් වේස්.",
+        "text": "Art allows us to express feelings in different ways.",
         "reading": "Relative clauses and descriptive adjectives.",
         "meaning": "Art allows us to express feelings in different ways."
       },
@@ -5800,7 +5800,7 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "dialogue": [
       {
-        "text": "A: ආර්ට් අලවුස් අස් ටු එක්ස්ප්‍රෙස් ෆීලිංස් ඉන් ඩිෆරන්ට් වේස්.",
+        "text": "A: Art allows us to express feelings in different ways.",
         "reading": "A: Relative clauses and descriptive adjectives.",
         "meaning": "Art allows us to express feelings in different ways."
       },
@@ -5846,7 +5846,7 @@ export const ENGLISH_B1_LESSONS = [
         "prompt": "Choose the correct sentence.",
         "options": [
           "Yesterday I will goes.",
-          "ආර්ට් අලවුස් අස් ටු එක්ස්ප්‍රෙස් ෆීලිංස් ඉන් ඩිෆරන්ට් වේස්.",
+          "Art allows us to express feelings in different ways.",
           "She have finished yesterday."
         ],
         "answer": 1,
@@ -5956,7 +5956,7 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "examples": [
       {
-        "text": "දි ජොබ් මාර්කට් ඉස් චේන්ජිං බිකෝස් ඔෆ් න්‍යූ ස්කිල්ස් ඇන්ඩ් ටෙක්නොලජි.",
+        "text": "The job market is changing because of new skills and technology.",
         "reading": "Comparatives, trends and cause-effect connectors.",
         "meaning": "The job market is changing because of new skills and technology."
       },
@@ -5978,7 +5978,7 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "dialogue": [
       {
-        "text": "A: දි ජොබ් මාර්කට් ඉස් චේන්ජිං බිකෝස් ඔෆ් න්‍යූ ස්කිල්ස් ඇන්ඩ් ටෙක්නොලජි.",
+        "text": "A: The job market is changing because of new skills and technology.",
         "reading": "A: Comparatives, trends and cause-effect connectors.",
         "meaning": "The job market is changing because of new skills and technology."
       },
@@ -6024,7 +6024,7 @@ export const ENGLISH_B1_LESSONS = [
         "prompt": "Choose the correct sentence.",
         "options": [
           "Yesterday I will goes.",
-          "දි ජොබ් මාර්කට් ඉස් චේන්ජිං බිකෝස් ඔෆ් න්‍යූ ස්කිල්ස් ඇන්ඩ් ටෙක්නොලජි.",
+          "The job market is changing because of new skills and technology.",
           "She have finished yesterday."
         ],
         "answer": 1,
@@ -6134,7 +6134,7 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "examples": [
       {
-        "text": "බිෆෝර් සයිනින් අ කොන්ට්‍රැක්ට් වී ෂුඩ් චෙක් දි කන්ඩිෂන්ස් කෙයර්ෆුලි.",
+        "text": "Before signing a contract, we should check the conditions carefully.",
         "reading": "Need to, should have and before/after clauses.",
         "meaning": "Before signing a contract, we should check the conditions carefully."
       },
@@ -6156,7 +6156,7 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "dialogue": [
       {
-        "text": "A: බිෆෝර් සයිනින් අ කොන්ට්‍රැක්ට් වී ෂුඩ් චෙක් දි කන්ඩිෂන්ස් කෙයර්ෆුලි.",
+        "text": "A: Before signing a contract, we should check the conditions carefully.",
         "reading": "A: Need to, should have and before/after clauses.",
         "meaning": "Before signing a contract, we should check the conditions carefully."
       },
@@ -6202,7 +6202,7 @@ export const ENGLISH_B1_LESSONS = [
         "prompt": "Choose the correct sentence.",
         "options": [
           "Yesterday I will goes.",
-          "බිෆෝර් සයිනින් අ කොන්ට්‍රැක්ට් වී ෂුඩ් චෙක් දි කන්ඩිෂන්ස් කෙයර්ෆුලි.",
+          "Before signing a contract, we should check the conditions carefully.",
           "She have finished yesterday."
         ],
         "answer": 1,
@@ -6312,7 +6312,7 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "examples": [
       {
-        "text": "රිලයබල් පබ්ලික් ට්‍රාන්ස්පෝට් කෑන් රිඩියූස් කන්ජෙස්චන් ඉන් අ සිටි.",
+        "text": "Reliable public transport can reduce congestion in a city.",
         "reading": "Passive voice and modal verbs for public services.",
         "meaning": "Reliable public transport can reduce congestion in a city."
       },
@@ -6334,7 +6334,7 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "dialogue": [
       {
-        "text": "A: රිලයබල් පබ්ලික් ට්‍රාන්ස්පෝට් කෑන් රිඩියූස් කන්ජෙස්චන් ඉන් අ සිටි.",
+        "text": "A: Reliable public transport can reduce congestion in a city.",
         "reading": "A: Passive voice and modal verbs for public services.",
         "meaning": "Reliable public transport can reduce congestion in a city."
       },
@@ -6380,7 +6380,7 @@ export const ENGLISH_B1_LESSONS = [
         "prompt": "Choose the correct sentence.",
         "options": [
           "Yesterday I will goes.",
-          "රිලයබල් පබ්ලික් ට්‍රාන්ස්පෝට් කෑන් රිඩියූස් කන්ජෙස්චන් ඉන් අ සිටි.",
+          "Reliable public transport can reduce congestion in a city.",
           "She have finished yesterday."
         ],
         "answer": 1,
@@ -6490,7 +6490,7 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "examples": [
       {
-        "text": "ක්ලයිමට් චේන්ජ් රික්වයර්ස් ලෝන්ග් ටර්ම් ඇන්ඩ් ෂෙයර්ඩ් සලූෂන්ස්.",
+        "text": "Climate change requires long-term and shared solutions.",
         "reading": "Future forms and expressions of necessity and consequence.",
         "meaning": "Climate change requires long-term and shared solutions."
       },
@@ -6512,7 +6512,7 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "dialogue": [
       {
-        "text": "A: ක්ලයිමට් චේන්ජ් රික්වයර්ස් ලෝන්ග් ටර්ම් ඇන්ඩ් ෂෙයර්ඩ් සලූෂන්ස්.",
+        "text": "A: Climate change requires long-term and shared solutions.",
         "reading": "A: Future forms and expressions of necessity and consequence.",
         "meaning": "Climate change requires long-term and shared solutions."
       },
@@ -6558,7 +6558,7 @@ export const ENGLISH_B1_LESSONS = [
         "prompt": "Choose the correct sentence.",
         "options": [
           "Yesterday I will goes.",
-          "ක්ලයිමට් චේන්ජ් රික්වයර්ස් ලෝන්ග් ටර්ම් ඇන්ඩ් ෂෙයර්ඩ් සලූෂන්ස්.",
+          "Climate change requires long-term and shared solutions.",
           "She have finished yesterday."
         ],
         "answer": 1,
@@ -6668,7 +6668,7 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "examples": [
       {
-        "text": "ඊටින් හැබිට්ස් ඔෆන් රිෆ්ලෙක්ට් අ ෆැමිලිස් කල්චර් ඇන්ඩ් ට්‍රඩිෂන්.",
+        "text": "Eating habits often reflect a family's culture and tradition.",
         "reading": "Frequency adverbs and relative clauses.",
         "meaning": "Eating habits often reflect a family's culture and tradition."
       },
@@ -6690,7 +6690,7 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "dialogue": [
       {
-        "text": "A: ඊටින් හැබිට්ස් ඔෆන් රිෆ්ලෙක්ට් අ ෆැමිලිස් කල්චර් ඇන්ඩ් ට්‍රඩිෂන්.",
+        "text": "A: Eating habits often reflect a family's culture and tradition.",
         "reading": "A: Frequency adverbs and relative clauses.",
         "meaning": "Eating habits often reflect a family's culture and tradition."
       },
@@ -6736,7 +6736,7 @@ export const ENGLISH_B1_LESSONS = [
         "prompt": "Choose the correct sentence.",
         "options": [
           "Yesterday I will goes.",
-          "ඊටින් හැබිට්ස් ඔෆන් රිෆ්ලෙක්ට් අ ෆැමිලිස් කල්චර් ඇන්ඩ් ට්‍රඩිෂන්.",
+          "Eating habits often reflect a family's culture and tradition.",
           "She have finished yesterday."
         ],
         "answer": 1,
@@ -6846,7 +6846,7 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "examples": [
       {
-        "text": "සෙටින් ක්ලියර් ගෝල්ස් හෙල්ප්ස් අස් ට්‍රැක් අවර් ප්‍රොග්‍රෙස්.",
+        "text": "Setting clear goals helps us track our progress.",
         "reading": "Infinitives and future perfect for targets and deadlines.",
         "meaning": "Setting clear goals helps us track our progress."
       },
@@ -6868,7 +6868,7 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "dialogue": [
       {
-        "text": "A: සෙටින් ක්ලියර් ගෝල්ස් හෙල්ප්ස් අස් ට්‍රැක් අවර් ප්‍රොග්‍රෙස්.",
+        "text": "A: Setting clear goals helps us track our progress.",
         "reading": "A: Infinitives and future perfect for targets and deadlines.",
         "meaning": "Setting clear goals helps us track our progress."
       },
@@ -6914,7 +6914,7 @@ export const ENGLISH_B1_LESSONS = [
         "prompt": "Choose the correct sentence.",
         "options": [
           "Yesterday I will goes.",
-          "සෙටින් ක්ලියර් ගෝල්ස් හෙල්ප්ස් අස් ට්‍රැක් අවර් ප්‍රොග්‍රෙස්.",
+          "Setting clear goals helps us track our progress.",
           "She have finished yesterday."
         ],
         "answer": 1,
@@ -7024,7 +7024,7 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "examples": [
       {
-        "text": "ඉෆ් දි සර්විස් ඩස් නොට් මැච් දි බුකින් වී කෑන් රික්වෙස්ට් අ සලූෂන්.",
+        "text": "If the service does not match the booking, we can request a solution.",
         "reading": "Conditionals and polite indirect requests.",
         "meaning": "If the service does not match the booking, we can request a solution."
       },
@@ -7046,7 +7046,7 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "dialogue": [
       {
-        "text": "A: ඉෆ් දි සර්විස් ඩස් නොට් මැච් දි බුකින් වී කෑන් රික්වෙස්ට් අ සලූෂන්.",
+        "text": "A: If the service does not match the booking, we can request a solution.",
         "reading": "A: Conditionals and polite indirect requests.",
         "meaning": "If the service does not match the booking, we can request a solution."
       },
@@ -7092,7 +7092,7 @@ export const ENGLISH_B1_LESSONS = [
         "prompt": "Choose the correct sentence.",
         "options": [
           "Yesterday I will goes.",
-          "ඉෆ් දි සර්විස් ඩස් නොට් මැච් දි බුකින් වී කෑන් රික්වෙස්ට් අ සලූෂන්.",
+          "If the service does not match the booking, we can request a solution.",
           "She have finished yesterday."
         ],
         "answer": 1,
@@ -7202,7 +7202,7 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "examples": [
       {
-        "text": "ක්ලියර් කමියුනිකේෂන් ඩිපෙන්ඩ්ස් ඔන් වර්ඩ්ස් ඇන්ඩ් දි වේ වී සේ දෙම්.",
+        "text": "Clear communication depends on words and the way we say them.",
         "reading": "Reported speech and adverbs describing communication.",
         "meaning": "Clear communication depends on words and the way we say them."
       },
@@ -7224,7 +7224,7 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "dialogue": [
       {
-        "text": "A: ක්ලියර් කමියුනිකේෂන් ඩිපෙන්ඩ්ස් ඔන් වර්ඩ්ස් ඇන්ඩ් දි වේ වී සේ දෙම්.",
+        "text": "A: Clear communication depends on words and the way we say them.",
         "reading": "A: Reported speech and adverbs describing communication.",
         "meaning": "Clear communication depends on words and the way we say them."
       },
@@ -7270,7 +7270,7 @@ export const ENGLISH_B1_LESSONS = [
         "prompt": "Choose the correct sentence.",
         "options": [
           "Yesterday I will goes.",
-          "ක්ලියර් කමියුනිකේෂන් ඩිපෙන්ඩ්ස් ඔන් වර්ඩ්ස් ඇන්ඩ් දි වේ වී සේ දෙම්.",
+          "Clear communication depends on words and the way we say them.",
           "She have finished yesterday."
         ],
         "answer": 1,
@@ -7380,7 +7380,7 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "examples": [
       {
-        "text": "බිෆෝර් පෝස්ටින් අ ෆෝටෝ වී ෂුඩ් රිස්පෙක්ට් අදර් පීපල්ස් ප්‍රයිවසි.",
+        "text": "Before posting a photo, we should respect other people's privacy.",
         "reading": "Should, ought to and relative clauses for responsible online behaviour.",
         "meaning": "Before posting a photo, we should respect other people's privacy."
       },
@@ -7402,7 +7402,7 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "dialogue": [
       {
-        "text": "A: බිෆෝර් පෝස්ටින් අ ෆෝටෝ වී ෂුඩ් රිස්පෙක්ට් අදර් පීපල්ස් ප්‍රයිවසි.",
+        "text": "A: Before posting a photo, we should respect other people's privacy.",
         "reading": "A: Should, ought to and relative clauses for responsible online behaviour.",
         "meaning": "Before posting a photo, we should respect other people's privacy."
       },
@@ -7448,7 +7448,7 @@ export const ENGLISH_B1_LESSONS = [
         "prompt": "Choose the correct sentence.",
         "options": [
           "Yesterday I will goes.",
-          "බිෆෝර් පෝස්ටින් අ ෆෝටෝ වී ෂුඩ් රිස්පෙක්ට් අදර් පීපල්ස් ප්‍රයිවසි.",
+          "Before posting a photo, we should respect other people's privacy.",
           "She have finished yesterday."
         ],
         "answer": 1,
@@ -7558,7 +7558,7 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "examples": [
       {
-        "text": "වෙන් වී සෙට් ප්‍රයෝරිටීස් වී ෆිනිෂ් ඉම්පෝර්ටන්ට් ටාස්ක්ස් මෝර් ඊසිලි.",
+        "text": "When we set priorities, we finish important tasks more easily.",
         "reading": "Time clauses, adverbs and gerunds for routines.",
         "meaning": "When we set priorities, we finish important tasks more easily."
       },
@@ -7580,7 +7580,7 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "dialogue": [
       {
-        "text": "A: වෙන් වී සෙට් ප්‍රයෝරිටීස් වී ෆිනිෂ් ඉම්පෝර්ටන්ට් ටාස්ක්ස් මෝර් ඊසිලි.",
+        "text": "A: When we set priorities, we finish important tasks more easily.",
         "reading": "A: Time clauses, adverbs and gerunds for routines.",
         "meaning": "When we set priorities, we finish important tasks more easily."
       },
@@ -7626,7 +7626,7 @@ export const ENGLISH_B1_LESSONS = [
         "prompt": "Choose the correct sentence.",
         "options": [
           "Yesterday I will goes.",
-          "වෙන් වී සෙට් ප්‍රයෝරිටීස් වී ෆිනිෂ් ඉම්පෝර්ටන්ට් ටාස්ක්ස් මෝර් ඊසිලි.",
+          "When we set priorities, we finish important tasks more easily.",
           "She have finished yesterday."
         ],
         "answer": 1,
@@ -7736,7 +7736,7 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "examples": [
       {
-        "text": "රිස්පෙක්ටින් ඩිෆරන්ට් කස්ටම්ස් හෙල්ප්ස් පීපල් වර්ක් ටුගෙදර්.",
+        "text": "Respecting different customs helps people work together.",
         "reading": "Contrast clauses and expressions of perspective.",
         "meaning": "Respecting different customs helps people work together."
       },
@@ -7758,7 +7758,7 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "dialogue": [
       {
-        "text": "A: රිස්පෙක්ටින් ඩිෆරන්ට් කස්ටම්ස් හෙල්ප්ස් පීපල් වර්ක් ටුගෙදර්.",
+        "text": "A: Respecting different customs helps people work together.",
         "reading": "A: Contrast clauses and expressions of perspective.",
         "meaning": "Respecting different customs helps people work together."
       },
@@ -7804,7 +7804,7 @@ export const ENGLISH_B1_LESSONS = [
         "prompt": "Choose the correct sentence.",
         "options": [
           "Yesterday I will goes.",
-          "රිස්පෙක්ටින් ඩිෆරන්ට් කස්ටම්ස් හෙල්ප්ස් පීපල් වර්ක් ටුගෙදර්.",
+          "Respecting different customs helps people work together.",
           "She have finished yesterday."
         ],
         "answer": 1,
@@ -7914,7 +7914,7 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "examples": [
       {
-        "text": "අ ගුඩ් බිස්නස් ප්ලෑන් ටේක්ස් කස්ටමර්ස් නීඩ්ස් ඉන්ටු අකවුන්ට්.",
+        "text": "A good business plan takes customers' needs into account.",
         "reading": "Purpose clauses and formal requests in business.",
         "meaning": "A good business plan takes customers' needs into account."
       },
@@ -7936,7 +7936,7 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "dialogue": [
       {
-        "text": "A: අ ගුඩ් බිස්නස් ප්ලෑන් ටේක්ස් කස්ටමර්ස් නීඩ්ස් ඉන්ටු අකවුන්ට්.",
+        "text": "A: A good business plan takes customers' needs into account.",
         "reading": "A: Purpose clauses and formal requests in business.",
         "meaning": "A good business plan takes customers' needs into account."
       },
@@ -7982,7 +7982,7 @@ export const ENGLISH_B1_LESSONS = [
         "prompt": "Choose the correct sentence.",
         "options": [
           "Yesterday I will goes.",
-          "අ ගුඩ් බිස්නස් ප්ලෑන් ටේක්ස් කස්ටමර්ස් නීඩ්ස් ඉන්ටු අකවුන්ට්.",
+          "A good business plan takes customers' needs into account.",
           "She have finished yesterday."
         ],
         "answer": 1,
@@ -8092,7 +8092,7 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "examples": [
       {
-        "text": "අ රිපෝර්ට් ෂුඩ් ප්‍රෙසෙන්ට් දි ඩේටා ඇන්ඩ් කන්ක්ලූෂන්ස් ක්ලියර්ලි.",
+        "text": "A report should present the data and conclusions clearly.",
         "reading": "Linking phrases, passive voice and cautious data interpretation.",
         "meaning": "A report should present the data and conclusions clearly."
       },
@@ -8114,7 +8114,7 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "dialogue": [
       {
-        "text": "A: අ රිපෝර්ට් ෂුඩ් ප්‍රෙසෙන්ට් දි ඩේටා ඇන්ඩ් කන්ක්ලූෂන්ස් ක්ලියර්ලි.",
+        "text": "A: A report should present the data and conclusions clearly.",
         "reading": "A: Linking phrases, passive voice and cautious data interpretation.",
         "meaning": "A report should present the data and conclusions clearly."
       },
@@ -8160,7 +8160,7 @@ export const ENGLISH_B1_LESSONS = [
         "prompt": "Choose the correct sentence.",
         "options": [
           "Yesterday I will goes.",
-          "අ රිපෝර්ට් ෂුඩ් ප්‍රෙසෙන්ට් දි ඩේටා ඇන්ඩ් කන්ක්ලූෂන්ස් ක්ලියර්ලි.",
+          "A report should present the data and conclusions clearly.",
           "She have finished yesterday."
         ],
         "answer": 1,
@@ -8270,7 +8270,7 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "examples": [
       {
-        "text": "පබ්ලික් ඩිබේට් හෙල්ප්ස් අස් අන්ඩර්ස්ටෑන්ඩ් ඩිෆරන්ට් ඔපීනියන්ස්.",
+        "text": "Public debate helps us understand different opinions.",
         "reading": "Reported speech, opinion phrases and concession clauses.",
         "meaning": "Public debate helps us understand different opinions."
       },
@@ -8292,7 +8292,7 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "dialogue": [
       {
-        "text": "A: පබ්ලික් ඩිබේට් හෙල්ප්ස් අස් අන්ඩර්ස්ටෑන්ඩ් ඩිෆරන්ට් ඔපීනියන්ස්.",
+        "text": "A: Public debate helps us understand different opinions.",
         "reading": "A: Reported speech, opinion phrases and concession clauses.",
         "meaning": "Public debate helps us understand different opinions."
       },
@@ -8338,7 +8338,7 @@ export const ENGLISH_B1_LESSONS = [
         "prompt": "Choose the correct sentence.",
         "options": [
           "Yesterday I will goes.",
-          "පබ්ලික් ඩිබේට් හෙල්ප්ස් අස් අන්ඩර්ස්ටෑන්ඩ් ඩිෆරන්ට් ඔපීනියන්ස්.",
+          "Public debate helps us understand different opinions.",
           "She have finished yesterday."
         ],
         "answer": 1,
@@ -8448,7 +8448,7 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "examples": [
       {
-        "text": "බිෆෝර් චූසිං අ සලූෂන් වී ෂුඩ් ඉවැලුවේට් පොසිබල් කොන්සිකුවෙන්සිස්.",
+        "text": "Before choosing a solution, we should evaluate possible consequences.",
         "reading": "Conditionals, modal perfect and evaluation adjectives.",
         "meaning": "Before choosing a solution, we should evaluate possible consequences."
       },
@@ -8470,7 +8470,7 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "dialogue": [
       {
-        "text": "A: බිෆෝර් චූසිං අ සලූෂන් වී ෂුඩ් ඉවැලුවේට් පොසිබල් කොන්සිකුවෙන්සිස්.",
+        "text": "A: Before choosing a solution, we should evaluate possible consequences.",
         "reading": "A: Conditionals, modal perfect and evaluation adjectives.",
         "meaning": "Before choosing a solution, we should evaluate possible consequences."
       },
@@ -8516,7 +8516,7 @@ export const ENGLISH_B1_LESSONS = [
         "prompt": "Choose the correct sentence.",
         "options": [
           "Yesterday I will goes.",
-          "බිෆෝර් චූසිං අ සලූෂන් වී ෂුඩ් ඉවැලුවේට් පොසිබල් කොන්සිකුවෙන්සිස්.",
+          "Before choosing a solution, we should evaluate possible consequences.",
           "She have finished yesterday."
         ],
         "answer": 1,
@@ -8626,7 +8626,7 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "examples": [
       {
-        "text": "අ ෆ්ලෙක්සිබල් ප්ලෑන් හෙල්ප්ස් අස් අඩැප්ට් ටු චේන්ජස්.",
+        "text": "A flexible plan helps us adapt to changes.",
         "reading": "Future continuous, future perfect and conditional planning.",
         "meaning": "A flexible plan helps us adapt to changes."
       },
@@ -8648,7 +8648,7 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "dialogue": [
       {
-        "text": "A: අ ෆ්ලෙක්සිබල් ප්ලෑන් හෙල්ප්ස් අස් අඩැප්ට් ටු චේන්ජස්.",
+        "text": "A: A flexible plan helps us adapt to changes.",
         "reading": "A: Future continuous, future perfect and conditional planning.",
         "meaning": "A flexible plan helps us adapt to changes."
       },
@@ -8694,7 +8694,7 @@ export const ENGLISH_B1_LESSONS = [
         "prompt": "Choose the correct sentence.",
         "options": [
           "Yesterday I will goes.",
-          "අ ෆ්ලෙක්සිබල් ප්ලෑන් හෙල්ප්ස් අස් අඩැප්ට් ටු චේන්ජස්.",
+          "A flexible plan helps us adapt to changes.",
           "She have finished yesterday."
         ],
         "answer": 1,
@@ -8804,7 +8804,7 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "examples": [
       {
-        "text": "අ ක්ලියර් ප්‍රෙසෙන්ටේෂන් කනෙක්ට්ස් ඉග්සැම්පල්ස් රීසන්ස් ඇන්ඩ් අ කන්ක්ලූෂන්.",
+        "text": "A clear presentation connects examples, reasons and a conclusion.",
         "reading": "Discourse markers for introductions, supporting points and conclusions.",
         "meaning": "A clear presentation connects examples, reasons and a conclusion."
       },
@@ -8826,7 +8826,7 @@ export const ENGLISH_B1_LESSONS = [
     ],
     "dialogue": [
       {
-        "text": "A: අ ක්ලියර් ප්‍රෙසෙන්ටේෂන් කනෙක්ට්ස් ඉග්සැම්පල්ස් රීසන්ස් ඇන්ඩ් අ කන්ක්ලූෂන්.",
+        "text": "A: A clear presentation connects examples, reasons and a conclusion.",
         "reading": "A: Discourse markers for introductions, supporting points and conclusions.",
         "meaning": "A clear presentation connects examples, reasons and a conclusion."
       },
@@ -8872,7 +8872,7 @@ export const ENGLISH_B1_LESSONS = [
         "prompt": "Choose the correct sentence.",
         "options": [
           "Yesterday I will goes.",
-          "අ ක්ලියර් ප්‍රෙසෙන්ටේෂන් කනෙක්ට්ස් ඉග්සැම්පල්ස් රීසන්ස් ඇන්ඩ් අ කන්ක්ලූෂන්.",
+          "A clear presentation connects examples, reasons and a conclusion.",
           "She have finished yesterday."
         ],
         "answer": 1,
