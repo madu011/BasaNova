@@ -1008,3 +1008,17 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 2. Repair paired B1 lesson 13 vocabulary examples and their Sinhala meanings/pronunciation aids, then continue through lessons 14–20.
 3. Continue checking that examples truly demonstrate their vocabulary headwords; keep Serbian pronunciation guides labelled approximate until native-speaker review.
 4. Do not claim build success or share a fresh APK unless a successful workflow artifact is verified.
+
+
+## 2026-11-19 — Paired B1 lesson 13 travel vocabulary repair
+- Replaced all eight repeated/generic vocabulary-card examples in Serbian and English B1 lesson 13 with headword-specific sentences: itinerary, departure, delay, platform, alternative, reservation, luggage and schedule.
+- Added matching Sinhala meanings and approximate Sinhala-script pronunciation guides for all 16 examples.
+- Serbian lesson file commit: `67c7c419fe7f87f494af5c9d06c1a0da581a98e2`.
+- English lesson file commit: `db3bdfb819c312e07f5c8b8c50c2517e650405f9`.
+- Latest workflow inspection: the prior Expo validation and Android APK build for commit `3477cc9` both failed immediately. The exact failure cause remains unavailable; no successful build or fresh APK artifact is confirmed. The new lesson commits have triggered fresh workflows; results still need checking.
+- Source edits are committed; no local Expo build, APK build or physical-device test was run.
+
+### Next exact task
+1. Check CI for latest lesson 13 commit `db3bdfb819c312e07f5c8b8c50c2517e650405f9`; inspect job status and available logs.
+2. Repair paired B1 lesson 14 vocabulary examples and matching Sinhala translations/pronunciation aids, then continue paired lessons 15–20.
+3. Keep APK claims tied to a verified successful artifact and record physical-device testing separately.
