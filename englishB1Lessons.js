@@ -5449,19 +5449,19 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "Scientific discoveries change how we understand the world."
       },
       {
-        "text": "B: Could you give an example?",
-        "reading": "B: කුඩ් යූ ගිව් ඇන් ඉග්සැම්පල්?",
-        "meaning": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "text": "B: That is an important discovery, but further research must confirm the results.",
+        "reading": "B: That is an important discovery, but further research must confirm the results.",
+        "meaning": "එය වැදගත් සොයාගැනීමක්. නමුත් තවත් පර්යේෂණ මඟින් ප්‍රතිඵල තහවුරු කළ යුතුයි."
       },
       {
-        "text": "A: It is important to consider every option.",
-        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
-        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+        "text": "A: Researchers are already planning new experiments.",
+        "reading": "A: Researchers are already planning new experiments.",
+        "meaning": "විද්‍යාඥයන් තවත් පරීක්ෂණ සැලසුම් කරනවා."
       },
       {
-        "text": "B: I agree. That will help us make a better decision.",
-        "reading": "B: අයි අග්‍රී. දැට් විල් හෙල්ප් අස් මේක් අ බෙටර් ඩිසිෂන්.",
-        "meaning": "එකඟයි. එය වඩා හොඳ තීරණයක් ගැනීමට උදව් වේවි."
+        "text": "B: Then we will understand better how the material works.",
+        "reading": "B: Then we will understand better how the material works.",
+        "meaning": "එවිට ද්‍රව්‍යය ක්‍රියා කරන ආකාරය වඩා හොඳින් තේරුම් ගන්න පුළුවන්."
       }
     ],
     "listeningPractice": {
@@ -5507,14 +5507,14 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "research = පර්යේෂණය"
       },
       {
-        "prompt": "What does speaker B ask for?",
+        "prompt": "What does B recommend or point out?",
         "options": [
-          "An example",
-          "A price",
-          "An address"
+          "Further research",
+          "A new contract",
+          "A change of address"
         ],
         "answer": 0,
-        "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "explanation": "Further research = එය වැදගත් සොයාගැනීමක්. නමුත් තවත් පර්යේෂණ මඟින් ප්‍රතිඵල තහවුරු කළ යුතුයි."
       }
     ]
   },
@@ -5627,19 +5627,19 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "Everyone has rights and responsibilities towards others."
       },
       {
-        "text": "B: Could you give an example?",
-        "reading": "B: කුඩ් යූ ගිව් ඇන් ඉග්සැම්පල්?",
-        "meaning": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "text": "B: That is why everyone should read the rules before accepting them.",
+        "reading": "B: That is why everyone should read the rules before accepting them.",
+        "meaning": "ඒ නිසා ඒවා පිළිගැනීමට පෙර හැමෝම නීති කියවිය යුතුයි."
       },
       {
-        "text": "A: It is important to consider every option.",
-        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
-        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+        "text": "A: Where can we find the official version?",
+        "reading": "A: Where can we find the official version?",
+        "meaning": "නිල පිටපත අපට කොහෙන් සොයාගන්න පුළුවන්ද?"
       },
       {
-        "text": "B: I agree. That will help us make a better decision.",
-        "reading": "B: අයි අග්‍රී. දැට් විල් හෙල්ප් අස් මේක් අ බෙටර් ඩිසිෂන්.",
-        "meaning": "එකඟයි. එය වඩා හොඳ තීරණයක් ගැනීමට උදව් වේවි."
+        "text": "B: On the institution’s website and in the official document.",
+        "reading": "B: On the institution’s website and in the official document.",
+        "meaning": "ආයතනයේ වෙබ් අඩවියේ සහ නිල ලේඛනයේ."
       }
     ],
     "listeningPractice": {
@@ -5685,14 +5685,14 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "responsibility = වගකීම"
       },
       {
-        "prompt": "What does speaker B ask for?",
+        "prompt": "What does B recommend or point out?",
         "options": [
-          "An example",
-          "A price",
-          "An address"
+          "Read the rules",
+          "Change jobs",
+          "Ignore the document"
         ],
         "answer": 0,
-        "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "explanation": "Read the rules = ඒ නිසා ඒවා පිළිගැනීමට පෙර හැමෝම නීති කියවිය යුතුයි."
       }
     ]
   },
@@ -5805,19 +5805,19 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "Art allows us to express feelings in different ways."
       },
       {
-        "text": "B: Could you give an example?",
-        "reading": "B: කුඩ් යූ ගිව් ඇන් ඉග්සැම්පල්?",
-        "meaning": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "text": "B: I especially like that visitors can take part in the installation.",
+        "reading": "B: I especially like that visitors can take part in the installation.",
+        "meaning": "නරඹන්නන්ට කලා නිර්මාණයට සහභාගී විය හැකි එකට මම විශේෂයෙන් කැමතියි."
       },
       {
-        "text": "A: It is important to consider every option.",
-        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
-        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+        "text": "A: This makes art an interactive experience.",
+        "reading": "A: This makes art an interactive experience.",
+        "meaning": "ඒ නිසා කලාව අන්තර්ක්‍රියාකාරී අත්දැකීමක් වෙනවා."
       },
       {
-        "text": "B: I agree. That will help us make a better decision.",
-        "reading": "B: අයි අග්‍රී. දැට් විල් හෙල්ප් අස් මේක් අ බෙටර් ඩිසිෂන්.",
-        "meaning": "එකඟයි. එය වඩා හොඳ තීරණයක් ගැනීමට උදව් වේවි."
+        "text": "B: Yes, everyone can experience it in a different way.",
+        "reading": "B: Yes, everyone can experience it in a different way.",
+        "meaning": "හැමෝටම එය වෙනස් ආකාරයකින් අත්විඳිය හැකියි."
       }
     ],
     "listeningPractice": {
@@ -5863,14 +5863,14 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "painting = චිත්‍රය"
       },
       {
-        "prompt": "What does speaker B ask for?",
+        "prompt": "What does B recommend or point out?",
         "options": [
-          "An example",
-          "A price",
-          "An address"
+          "Visitors’ participation",
+          "The high ticket price",
+          "The short opening hours"
         ],
         "answer": 0,
-        "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "explanation": "Visitors’ participation = නරඹන්නන්ට කලා නිර්මාණයට සහභාගී විය හැකි එකට මම විශේෂයෙන් කැමතියි."
       }
     ]
   },
@@ -5983,19 +5983,19 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "The job market is changing because of new skills and technology."
       },
       {
-        "text": "B: Could you give an example?",
-        "reading": "B: කුඩ් යූ ගිව් ඇන් ඉග්සැම්පල්?",
-        "meaning": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "text": "B: That is why it is useful to keep learning and follow new technologies.",
+        "reading": "B: That is why it is useful to keep learning and follow new technologies.",
+        "meaning": "ඒ නිසා අලුත් තාක්ෂණය ඉගෙනගෙන ඒ ගැන දැනුවත්ව සිටීම ප්‍රයෝජනවත්."
       },
       {
-        "text": "A: It is important to consider every option.",
-        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
-        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+        "text": "A: Is experience still highly valuable?",
+        "reading": "A: Is experience still highly valuable?",
+        "meaning": "අත්දැකීම්වලට තවමත් විශාල වටිනාකමක් තිබෙනවාද?"
       },
       {
-        "text": "B: I agree. That will help us make a better decision.",
-        "reading": "B: අයි අග්‍රී. දැට් විල් හෙල්ප් අස් මේක් අ බෙටර් ඩිසිෂන්.",
-        "meaning": "එකඟයි. එය වඩා හොඳ තීරණයක් ගැනීමට උදව් වේවි."
+        "text": "B: Of course, but experience combined with new skills gives an advantage.",
+        "reading": "B: Of course, but experience combined with new skills gives an advantage.",
+        "meaning": "ඇත්තෙන්ම. නමුත් අත්දැකීම් සහ නව කුසලතා එකතු වීම වාසියක්."
       }
     ],
     "listeningPractice": {
@@ -6041,14 +6041,14 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "job market = රැකියා වෙළඳපොළ"
       },
       {
-        "prompt": "What does speaker B ask for?",
+        "prompt": "What does B recommend or point out?",
         "options": [
-          "An example",
-          "A price",
-          "An address"
+          "Keep learning new skills",
+          "Avoid technology",
+          "Stop working"
         ],
         "answer": 0,
-        "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "explanation": "Keep learning new skills = ඒ නිසා අලුත් තාක්ෂණය ඉගෙනගෙන ඒ ගැන දැනුවත්ව සිටීම ප්‍රයෝජනවත්."
       }
     ]
   },
@@ -6161,19 +6161,19 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "Before signing a contract, we should check the conditions carefully."
       },
       {
-        "text": "B: Could you give an example?",
-        "reading": "B: කුඩ් යූ ගිව් ඇන් ඉග්සැම්පල්?",
-        "meaning": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "text": "B: Before signing, we should also check the conditions for ending the agreement.",
+        "reading": "B: Before signing, we should also check the conditions for ending the agreement.",
+        "meaning": "අත්සන් කිරීමට පෙර ගිවිසුම අවසන් කිරීමේ කොන්දේසිත් පරීක්ෂා කළ යුතුයි."
       },
       {
-        "text": "A: It is important to consider every option.",
-        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
-        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+        "text": "A: Is it important to have everything in writing?",
+        "reading": "A: Is it important to have everything in writing?",
+        "meaning": "සියල්ල ලිඛිතව තිබීම වැදගත්ද?"
       },
       {
-        "text": "B: I agree. That will help us make a better decision.",
-        "reading": "B: අයි අග්‍රී. දැට් විල් හෙල්ප් අස් මේක් අ බෙටර් ඩිසිෂන්.",
-        "meaning": "එකඟයි. එය වඩා හොඳ තීරණයක් ගැනීමට උදව් වේවි."
+        "text": "B: Yes, a written agreement protects both the tenant and the owner.",
+        "reading": "B: Yes, a written agreement protects both the tenant and the owner.",
+        "meaning": "ඔව්, ලිඛිත ගිවිසුම කුලී නිවැසියාත් හිමිකරුත් ආරක්ෂා කරනවා."
       }
     ],
     "listeningPractice": {
@@ -6219,14 +6219,14 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "landlord = නිවාස හිමියා"
       },
       {
-        "prompt": "What does speaker B ask for?",
+        "prompt": "What does B recommend or point out?",
         "options": [
-          "An example",
-          "A price",
-          "An address"
+          "Check the termination conditions",
+          "Do not read the agreement",
+          "Pay the whole year immediately"
         ],
         "answer": 0,
-        "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "explanation": "Check the termination conditions = අත්සන් කිරීමට පෙර ගිවිසුම අවසන් කිරීමේ කොන්දේසිත් පරීක්ෂා කළ යුතුයි."
       }
     ]
   },
@@ -6339,19 +6339,19 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "Reliable public transport can reduce congestion in a city."
       },
       {
-        "text": "B: Could you give an example?",
-        "reading": "B: කුඩ් යූ ගිව් ඇන් ඉග්සැම්පල්?",
-        "meaning": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "text": "B: That will help only if services are frequent and reliable.",
+        "reading": "B: That will help only if services are frequent and reliable.",
+        "meaning": "ගමන් වාර නිතර සහ විශ්වාසදායක නම් පමණයි එය උපකාරී වෙන්නේ."
       },
       {
-        "text": "A: It is important to consider every option.",
-        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
-        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+        "text": "A: The city also plans to improve bus routes.",
+        "reading": "A: The city also plans to improve bus routes.",
+        "meaning": "නගරය බස් මාර්ගත් වැඩිදියුණු කිරීමට සැලසුම් කරනවා."
       },
       {
-        "text": "B: I agree. That will help us make a better decision.",
-        "reading": "B: අයි අග්‍රී. දැට් විල් හෙල්ප් අස් මේක් අ බෙටර් ඩිසිෂන්.",
-        "meaning": "එකඟයි. එය වඩා හොඳ තීරණයක් ගැනීමට උදව් වේවි."
+        "text": "B: Well-connected routes make daily travel easier.",
+        "reading": "B: Well-connected routes make daily travel easier.",
+        "meaning": "හොඳින් සම්බන්ධ කළ මාර්ග දිනපතා ගමන් පහසු කරනවා."
       }
     ],
     "listeningPractice": {
@@ -6397,14 +6397,14 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "congestion = වාහන තදබදය"
       },
       {
-        "prompt": "What does speaker B ask for?",
+        "prompt": "What does B recommend or point out?",
         "options": [
-          "An example",
-          "A price",
-          "An address"
+          "Frequent and reliable services",
+          "Fewer stops",
+          "More cars"
         ],
         "answer": 0,
-        "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "explanation": "Frequent and reliable services = ගමන් වාර නිතර සහ විශ්වාසදායක නම් පමණයි එය උපකාරී වෙන්නේ."
       }
     ]
   },
@@ -6517,19 +6517,19 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "Climate change requires long-term and shared solutions."
       },
       {
-        "text": "B: Could you give an example?",
-        "reading": "B: කුඩ් යූ ගිව් ඇන් ඉග්සැම්පල්?",
-        "meaning": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "text": "B: That is why we must save water and invest in sustainable solutions.",
+        "reading": "B: That is why we must save water and invest in sustainable solutions.",
+        "meaning": "ඒ නිසා ජලය ඉතිරි කර තිරසාර විසඳුම් සඳහා ආයෝජනය කළ යුතුයි."
       },
       {
-        "text": "A: It is important to consider every option.",
-        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
-        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+        "text": "A: Agriculture depends especially on available water.",
+        "reading": "A: Agriculture depends especially on available water.",
+        "meaning": "කෘෂිකර්මාන්තය ජලය ලබාගත හැකි වීම මත රඳා පවතිනවා."
       },
       {
-        "text": "B: I agree. That will help us make a better decision.",
-        "reading": "B: අයි අග්‍රී. දැට් විල් හෙල්ප් අස් මේක් අ බෙටර් ඩිසිෂන්.",
-        "meaning": "එකඟයි. එය වඩා හොඳ තීරණයක් ගැනීමට උදව් වේවි."
+        "text": "B: Irrigation systems can reduce waste.",
+        "reading": "B: Irrigation systems can reduce waste.",
+        "meaning": "වාරිමාර්ග පද්ධති මඟින් ජල නාස්තිය අඩු කළ හැකියි."
       }
     ],
     "listeningPractice": {
@@ -6575,14 +6575,14 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "emission = විමෝචනය"
       },
       {
-        "prompt": "What does speaker B ask for?",
+        "prompt": "What does B recommend or point out?",
         "options": [
-          "An example",
-          "A price",
-          "An address"
+          "Save water and use sustainable solutions",
+          "Use more water",
+          "Stop research"
         ],
         "answer": 0,
-        "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "explanation": "Save water and use sustainable solutions = ඒ නිසා ජලය ඉතිරි කර තිරසාර විසඳුම් සඳහා ආයෝජනය කළ යුතුයි."
       }
     ]
   },
@@ -6695,19 +6695,19 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "Eating habits often reflect a family's culture and tradition."
       },
       {
-        "text": "B: Could you give an example?",
-        "reading": "B: කුඩ් යූ ගිව් ඇන් ඉග්සැම්පල්?",
-        "meaning": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "text": "B: It is good that we can buy fresh food from local producers.",
+        "reading": "B: It is good that we can buy fresh food from local producers.",
+        "meaning": "දේශීය නිෂ්පාදකයන්ගෙන් නැවුම් ආහාර මිලදී ගැනීමට හැකිවීම හොඳයි."
       },
       {
-        "text": "A: It is important to consider every option.",
-        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
-        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+        "text": "A: This also supports small family businesses.",
+        "reading": "A: This also supports small family businesses.",
+        "meaning": "එමඟින් කුඩා පවුල් ව්‍යාපාරවලටත් සහාය ලැබෙනවා."
       },
       {
-        "text": "B: I agree. That will help us make a better decision.",
-        "reading": "B: අයි අග්‍රී. දැට් විල් හෙල්ප් අස් මේක් අ බෙටර් ඩිසිෂන්.",
-        "meaning": "එකඟයි. එය වඩා හොඳ තීරණයක් ගැනීමට උදව් වේවි."
+        "text": "B: And we often learn how the food is produced.",
+        "reading": "B: And we often learn how the food is produced.",
+        "meaning": "ආහාර නිෂ්පාදනය කරන ආකාරයත් දැනගන්න ලැබෙනවා."
       }
     ],
     "listeningPractice": {
@@ -6753,14 +6753,14 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "ingredient = අමුද්‍රව්‍යය"
       },
       {
-        "prompt": "What does speaker B ask for?",
+        "prompt": "What does B recommend or point out?",
         "options": [
-          "An example",
-          "A price",
-          "An address"
+          "Buying fresh food from local producers",
+          "A longer trip to the shop",
+          "More imported goods"
         ],
         "answer": 0,
-        "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "explanation": "Buying fresh food from local producers = දේශීය නිෂ්පාදකයන්ගෙන් නැවුම් ආහාර මිලදී ගැනීමට හැකිවීම හොඳයි."
       }
     ]
   },
@@ -6873,19 +6873,19 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "Setting clear goals helps us track our progress."
       },
       {
-        "text": "B: Could you give an example?",
-        "reading": "B: කුඩ් යූ ගිව් ඇන් ඉග්සැම්පල්?",
-        "meaning": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "text": "B: Divide the goal into smaller steps and set a deadline for each one.",
+        "reading": "B: Divide the goal into smaller steps and set a deadline for each one.",
+        "meaning": "ඉලක්කය කුඩා පියවරවලට බෙදා එක් එක් පියවරට කාලසීමාවක් දාන්න."
       },
       {
-        "text": "A: It is important to consider every option.",
-        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
-        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+        "text": "A: That will help me track my progress more easily.",
+        "reading": "A: That will help me track my progress more easily.",
+        "meaning": "එවිට මගේ ප්‍රගතිය පහසුවෙන් නිරීක්ෂණය කළ හැකියි."
       },
       {
-        "text": "B: I agree. That will help us make a better decision.",
-        "reading": "B: අයි අග්‍රී. දැට් විල් හෙල්ප් අස් මේක් අ බෙටර් ඩිසිෂන්.",
-        "meaning": "එකඟයි. එය වඩා හොඳ තීරණයක් ගැනීමට උදව් වේවි."
+        "text": "B: Regular revision will help you remember the material.",
+        "reading": "B: Regular revision will help you remember the material.",
+        "meaning": "නිතිපතා නැවත අධ්‍යයනය කිරීම පාඩම් මතක තබාගන්න උදව් වේවි."
       }
     ],
     "listeningPractice": {
@@ -6931,14 +6931,14 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "milestone = වැදගත් අදියර"
       },
       {
-        "prompt": "What does speaker B ask for?",
+        "prompt": "What does B recommend or point out?",
         "options": [
-          "An example",
-          "A price",
-          "An address"
+          "Break the goal into smaller steps",
+          "Give up the course",
+          "Study only on the last day"
         ],
         "answer": 0,
-        "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "explanation": "Break the goal into smaller steps = ඉලක්කය කුඩා පියවරවලට බෙදා එක් එක් පියවරට කාලසීමාවක් දාන්න."
       }
     ]
   },
@@ -7051,19 +7051,19 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "If the service does not match the booking, we can request a solution."
       },
       {
-        "text": "B: Could you give an example?",
-        "reading": "B: කුඩ් යූ ගිව් ඇන් ඉග්සැම්පල්?",
-        "meaning": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "text": "B: Keep the booking confirmation and submit a written complaint immediately.",
+        "reading": "B: Keep the booking confirmation and submit a written complaint immediately.",
+        "meaning": "වෙන්කිරීමේ තහවුරු කිරීම තබාගෙන වහාම ලිඛිත පැමිණිල්ලක් ඉදිරිපත් කරන්න."
       },
       {
-        "text": "A: It is important to consider every option.",
-        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
-        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+        "text": "A: Should I also ask for a refund?",
+        "reading": "A: Should I also ask for a refund?",
+        "meaning": "මුදල් ආපසු ඉල්ලන්නත් ඕනද?"
       },
       {
-        "text": "B: I agree. That will help us make a better decision.",
-        "reading": "B: අයි අග්‍රී. දැට් විල් හෙල්ප් අස් මේක් අ බෙටර් ඩිසිෂන්.",
-        "meaning": "එකඟයි. එය වඩා හොඳ තීරණයක් ගැනීමට උදව් වේවි."
+        "text": "B: First ask for an explanation and suggest a reasonable solution.",
+        "reading": "B: First ask for an explanation and suggest a reasonable solution.",
+        "meaning": "මුලින්ම පැහැදිලි කිරීමක් ඉල්ලා සාධාරණ විසඳුමක් යෝජනා කරන්න."
       }
     ],
     "listeningPractice": {
@@ -7109,14 +7109,14 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "complaint = පැමිණිල්ල"
       },
       {
-        "prompt": "What does speaker B ask for?",
+        "prompt": "What does B recommend or point out?",
         "options": [
-          "An example",
-          "A price",
-          "An address"
+          "Keep the confirmation and file a complaint",
+          "Delete the booking",
+          "Avoid speaking to the hotel"
         ],
         "answer": 0,
-        "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "explanation": "Keep the confirmation and file a complaint = වෙන්කිරීමේ තහවුරු කිරීම තබාගෙන වහාම ලිඛිත පැමිණිල්ලක් ඉදිරිපත් කරන්න."
       }
     ]
   },
@@ -7229,19 +7229,19 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "Clear communication depends on words and the way we say them."
       },
       {
-        "text": "B: Could you give an example?",
-        "reading": "B: කුඩ් යූ ගිව් ඇන් ඉග්සැම්පල්?",
-        "meaning": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "text": "B: It is best to calmly explain what you actually meant to say.",
+        "reading": "B: It is best to calmly explain what you actually meant to say.",
+        "meaning": "ඔබ අදහස් කළේ කුමක්දැයි සන්සුන්ව පැහැදිලි කිරීම හොඳම ක්‍රමයයි."
       },
       {
-        "text": "A: It is important to consider every option.",
-        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
-        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+        "text": "A: I should have checked earlier whether he understood me.",
+        "reading": "A: I should have checked earlier whether he understood me.",
+        "meaning": "ඔහු මාව තේරුම් ගත්තාද කියලා කලින්ම පරීක්ෂා කළ යුතුව තිබුණා."
       },
       {
-        "text": "B: I agree. That will help us make a better decision.",
-        "reading": "B: අයි අග්‍රී. දැට් විල් හෙල්ප් අස් මේක් අ බෙටර් ඩිසිෂන්.",
-        "meaning": "එකඟයි. එය වඩා හොඳ තීරණයක් ගැනීමට උදව් වේවි."
+        "text": "B: An open question often prevents another misunderstanding.",
+        "reading": "B: An open question often prevents another misunderstanding.",
+        "meaning": "විවෘත ප්‍රශ්නයක් ඇසීමෙන් තවත් වැරදි අවබෝධයක් වළක්වාගත හැකියි."
       }
     ],
     "listeningPractice": {
@@ -7287,14 +7287,14 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "gesture = අංග චලනය"
       },
       {
-        "prompt": "What does speaker B ask for?",
+        "prompt": "What does B recommend or point out?",
         "options": [
-          "An example",
-          "A price",
-          "An address"
+          "Calmly explaining the intention",
+          "Ignoring the colleague",
+          "A message without explanation"
         ],
         "answer": 0,
-        "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "explanation": "Calmly explaining the intention = ඔබ අදහස් කළේ කුමක්දැයි සන්සුන්ව පැහැදිලි කිරීම හොඳම ක්‍රමයයි."
       }
     ]
   },
@@ -7407,19 +7407,19 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "Before posting a photo, we should respect other people's privacy."
       },
       {
-        "text": "B: Could you give an example?",
-        "reading": "B: කුඩ් යූ ගිව් ඇන් ඉග්සැම්පල්?",
-        "meaning": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "text": "B: Check who published it and whether reliable sources support it.",
+        "reading": "B: Check who published it and whether reliable sources support it.",
+        "meaning": "එය පළ කළේ කවුද සහ විශ්වාසදායක මූලාශ්‍ර එය තහවුරු කරනවාද කියලා බලන්න."
       },
       {
-        "text": "A: It is important to consider every option.",
-        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
-        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+        "text": "A: Many people have shared it on social media.",
+        "reading": "A: Many people have shared it on social media.",
+        "meaning": "සමාජ මාධ්‍යවල බොහෝ දෙනෙක් එය බෙදාගෙන තිබෙනවා."
       },
       {
-        "text": "B: I agree. That will help us make a better decision.",
-        "reading": "B: අයි අග්‍රී. දැට් විල් හෙල්ප් අස් මේක් අ බෙටර් ඩිසිෂන්.",
-        "meaning": "එකඟයි. එය වඩා හොඳ තීරණයක් ගැනීමට උදව් වේවි."
+        "text": "B: The number of shares does not mean the information is true.",
+        "reading": "B: The number of shares does not mean the information is true.",
+        "meaning": "බෙදාගැනීම් ගණන වැඩි වීමෙන් තොරතුරු සත්‍ය බව අදහස් වෙන්නේ නැහැ."
       }
     ],
     "listeningPractice": {
@@ -7465,14 +7465,14 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "content = අන්තර්ගතය"
       },
       {
-        "prompt": "What does speaker B ask for?",
+        "prompt": "What does B recommend or point out?",
         "options": [
-          "An example",
-          "A price",
-          "An address"
+          "Check the source and reliability",
+          "Trust the number of shares",
+          "Ignore all sources"
         ],
         "answer": 0,
-        "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "explanation": "Check the source and reliability = එය පළ කළේ කවුද සහ විශ්වාසදායක මූලාශ්‍ර එය තහවුරු කරනවාද කියලා බලන්න."
       }
     ]
   },
@@ -7585,19 +7585,19 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "When we set priorities, we finish important tasks more easily."
       },
       {
-        "text": "B: Could you give an example?",
-        "reading": "B: කුඩ් යූ ගිව් ඇන් ඉග්සැම්පල්?",
-        "meaning": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "text": "B: Try setting priorities and planning rest in advance.",
+        "reading": "B: Try setting priorities and planning rest in advance.",
+        "meaning": "ප්‍රමුඛතා තීරණය කර විවේකයත් කලින් සැලසුම් කරන්න උත්සාහ කරන්න."
       },
       {
-        "text": "A: It is important to consider every option.",
-        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
-        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+        "text": "A: I often accept more tasks than I can finish.",
+        "reading": "A: I often accept more tasks than I can finish.",
+        "meaning": "මට අවසන් කළ හැකි ප්‍රමාණයට වඩා වැඩි කාර්යයන් මම භාරගන්නවා."
       },
       {
-        "text": "B: I agree. That will help us make a better decision.",
-        "reading": "B: අයි අග්‍රී. දැට් විල් හෙල්ප් අස් මේක් අ බෙටර් ඩිසිෂන්.",
-        "meaning": "එකඟයි. එය වඩා හොඳ තීරණයක් ගැනීමට උදව් වේවි."
+        "text": "B: Learn to estimate realistically how much time you need.",
+        "reading": "B: Learn to estimate realistically how much time you need.",
+        "meaning": "ඔබට අවශ්‍ය කාලය යථාර්ථවාදීව ඇස්තමේන්තු කරන්න ඉගෙනගන්න."
       }
     ],
     "listeningPractice": {
@@ -7643,14 +7643,14 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "schedule = කාලසටහන"
       },
       {
-        "prompt": "What does speaker B ask for?",
+        "prompt": "What does B recommend or point out?",
         "options": [
-          "An example",
-          "A price",
-          "An address"
+          "Set priorities and plan rest",
+          "Accept more tasks",
+          "Skip breaks"
         ],
         "answer": 0,
-        "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "explanation": "Set priorities and plan rest = ප්‍රමුඛතා තීරණය කර විවේකයත් කලින් සැලසුම් කරන්න උත්සාහ කරන්න."
       }
     ]
   },
@@ -7763,19 +7763,19 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "Respecting different customs helps people work together."
       },
       {
-        "text": "B: Could you give an example?",
-        "reading": "B: කුඩ් යූ ගිව් ඇන් ඉග්සැම්පල්?",
-        "meaning": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "text": "B: It is useful to learn about local customs before travelling.",
+        "reading": "B: It is useful to learn about local customs before travelling.",
+        "meaning": "ගමනට පෙර දේශීය සිරිත් විරිත් ගැන දැනගැනීම ප්‍රයෝජනවත්."
       },
       {
-        "text": "A: It is important to consider every option.",
-        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
-        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+        "text": "A: That way we can show respect to our hosts.",
+        "reading": "A: That way we can show respect to our hosts.",
+        "meaning": "එමඟින් සත්කාරකයන්ට ගෞරවය පෙන්වන්න පුළුවන්."
       },
       {
-        "text": "B: I agree. That will help us make a better decision.",
-        "reading": "B: අයි අග්‍රී. දැට් විල් හෙල්ප් අස් මේක් අ බෙටර් ඩිසිෂන්.",
-        "meaning": "එකඟයි. එය වඩා හොඳ තීරණයක් ගැනීමට උදව් වේවි."
+        "text": "B: We can avoid uncomfortable situations more easily.",
+        "reading": "B: We can avoid uncomfortable situations more easily.",
+        "meaning": "අපහසු අවස්ථා පහසුවෙන් වළක්වාගන්නත් පුළුවන්."
       }
     ],
     "listeningPractice": {
@@ -7821,14 +7821,14 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "custom = චාරිත්‍රය"
       },
       {
-        "prompt": "What does speaker B ask for?",
+        "prompt": "What does B recommend or point out?",
         "options": [
-          "An example",
-          "A price",
-          "An address"
+          "Show respect and avoid awkward situations",
+          "Change the customs",
+          "Avoid conversation"
         ],
         "answer": 0,
-        "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "explanation": "Show respect and avoid awkward situations = ගමනට පෙර දේශීය සිරිත් විරිත් ගැන දැනගැනීම ප්‍රයෝජනවත්."
       }
     ]
   },
@@ -7941,19 +7941,19 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "A good business plan takes customers' needs into account."
       },
       {
-        "text": "B: Could you give an example?",
-        "reading": "B: කුඩ් යූ ගිව් ඇන් ඉග්සැම්පල්?",
-        "meaning": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "text": "B: Before starting, research customer needs and calculate the initial costs.",
+        "reading": "B: Before starting, research customer needs and calculate the initial costs.",
+        "meaning": "ආරම්භ කිරීමට පෙර පාරිභෝගික අවශ්‍යතා සොයා බලා ආරම්භක වියදම් ගණනය කරන්න."
       },
       {
-        "text": "A: It is important to consider every option.",
-        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
-        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+        "text": "A: I am also thinking about how to promote the service.",
+        "reading": "A: I am also thinking about how to promote the service.",
+        "meaning": "සේවාව ප්‍රචාරය කරන්නේ කොහොමද කියලත් මම හිතනවා."
       },
       {
-        "text": "B: I agree. That will help us make a better decision.",
-        "reading": "B: අයි අග්‍රී. දැට් විල් හෙල්ප් අස් මේක් අ බෙටර් ඩිසිෂන්.",
-        "meaning": "එකඟයි. එය වඩා හොඳ තීරණයක් ගැනීමට උදව් වේවි."
+        "text": "B: Create a simple business plan with clear goals.",
+        "reading": "B: Create a simple business plan with clear goals.",
+        "meaning": "පැහැදිලි ඉලක්ක සහිත සරල ව්‍යාපාර සැලැස්මක් සකස් කරන්න."
       }
     ],
     "listeningPractice": {
@@ -7999,14 +7999,14 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "business plan = ව්‍යාපාර සැලැස්ම"
       },
       {
-        "prompt": "What does speaker B ask for?",
+        "prompt": "What does B recommend or point out?",
         "options": [
-          "An example",
-          "A price",
-          "An address"
+          "Research customers and calculate costs",
+          "Buy things without a plan",
+          "Give up promotion"
         ],
         "answer": 0,
-        "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "explanation": "Research customers and calculate costs = ආරම්භ කිරීමට පෙර පාරිභෝගික අවශ්‍යතා සොයා බලා ආරම්භක වියදම් ගණනය කරන්න."
       }
     ]
   },
@@ -8119,19 +8119,19 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "A report should present the data and conclusions clearly."
       },
       {
-        "text": "B: Could you give an example?",
-        "reading": "B: කුඩ් යූ ගිව් ඇන් ඉග්සැම්පල්?",
-        "meaning": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "text": "B: It would be useful to display the data in a chart as well.",
+        "reading": "B: It would be useful to display the data in a chart as well.",
+        "meaning": "දත්ත ප්‍රස්ථාරයකින් ද පෙන්වීම ප්‍රයෝජනවත් වේවි."
       },
       {
-        "text": "A: It is important to consider every option.",
-        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
-        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+        "text": "A: That will help readers notice the changes more easily.",
+        "reading": "A: That will help readers notice the changes more easily.",
+        "meaning": "එවිට පාඨකයන්ට වෙනස්කම් පහසුවෙන් දැකගත හැකියි."
       },
       {
-        "text": "B: I agree. That will help us make a better decision.",
-        "reading": "B: අයි අග්‍රී. දැට් විල් හෙල්ප් අස් මේක් අ බෙටර් ඩිසිෂන්.",
-        "meaning": "එකඟයි. එය වඩා හොඳ තීරණයක් ගැනීමට උදව් වේවි."
+        "text": "B: Add a short explanation of the most important results next to the chart.",
+        "reading": "B: Add a short explanation of the most important results next to the chart.",
+        "meaning": "ප්‍රස්ථාරය සමඟ වැදගත්ම ප්‍රතිඵල පිළිබඳ කෙටි විස්තරයක් එක් කරන්න."
       }
     ],
     "listeningPractice": {
@@ -8177,14 +8177,14 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "data = දත්ත"
       },
       {
-        "prompt": "What does speaker B ask for?",
+        "prompt": "What does B recommend or point out?",
         "options": [
-          "An example",
-          "A price",
-          "An address"
+          "A chart and a short explanation of results",
+          "Only a longer title",
+          "Unrelated photos"
         ],
         "answer": 0,
-        "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "explanation": "A chart and a short explanation of results = දත්ත ප්‍රස්ථාරයකින් ද පෙන්වීම ප්‍රයෝජනවත් වේවි."
       }
     ]
   },
@@ -8297,19 +8297,19 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "Public debate helps us understand different opinions."
       },
       {
-        "text": "B: Could you give an example?",
-        "reading": "B: කුඩ් යූ ගිව් ඇන් ඉග්සැම්පල්?",
-        "meaning": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "text": "B: We should listen to both sides before reaching a conclusion.",
+        "reading": "B: We should listen to both sides before reaching a conclusion.",
+        "meaning": "නිගමනයකට එන්න පෙර දෙපාර්ශ්වයටම සවන් දිය යුතුයි."
       },
       {
-        "text": "A: It is important to consider every option.",
-        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
-        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+        "text": "A: One speaker presented data, while the other shared personal experience.",
+        "reading": "A: One speaker presented data, while the other shared personal experience.",
+        "meaning": "එක් කථිකයෙක් දත්ත ඉදිරිපත් කළ අතර අනෙක් කෙනා පෞද්ගලික අත්දැකීමක් බෙදාගත්තා."
       },
       {
-        "text": "B: I agree. That will help us make a better decision.",
-        "reading": "B: අයි අග්‍රී. දැට් විල් හෙල්ප් අස් මේක් අ බෙටර් ඩිසිෂන්.",
-        "meaning": "එකඟයි. එය වඩා හොඳ තීරණයක් ගැනීමට උදව් වේවි."
+        "text": "B: It is important to check the data and understand the context.",
+        "reading": "B: It is important to check the data and understand the context.",
+        "meaning": "දත්ත පරීක්ෂා කර සන්දර්භය තේරුම් ගැනීම වැදගත්."
       }
     ],
     "listeningPractice": {
@@ -8355,14 +8355,14 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "public opinion = මහජන මතය"
       },
       {
-        "prompt": "What does speaker B ask for?",
+        "prompt": "What does B recommend or point out?",
         "options": [
-          "An example",
-          "A price",
-          "An address"
+          "Listen to both sides and check the data",
+          "Accept the first opinion",
+          "Ignore the context"
         ],
         "answer": 0,
-        "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "explanation": "Listen to both sides and check the data = නිගමනයකට එන්න පෙර දෙපාර්ශ්වයටම සවන් දිය යුතුයි."
       }
     ]
   },
@@ -8475,19 +8475,19 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "Before choosing a solution, we should evaluate possible consequences."
       },
       {
-        "text": "B: Could you give an example?",
-        "reading": "B: කුඩ් යූ ගිව් ඇන් ඉග්සැම්පල්?",
-        "meaning": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "text": "B: We should assess the consequences and contact another supplier immediately.",
+        "reading": "B: We should assess the consequences and contact another supplier immediately.",
+        "meaning": "ප්‍රතිවිපාක තක්සේරු කර වහාම වෙනත් සැපයුම්කරුවෙකු සම්බන්ධ කරගත යුතුයි."
       },
       {
-        "text": "A: It is important to consider every option.",
-        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
-        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+        "text": "A: That may increase the costs.",
+        "reading": "A: That may increase the costs.",
+        "meaning": "එයින් වියදම් වැඩි විය හැකියි."
       },
       {
-        "text": "B: I agree. That will help us make a better decision.",
-        "reading": "B: අයි අග්‍රී. දැට් විල් හෙල්ප් අස් මේක් අ බෙටර් ඩිසිෂන්.",
-        "meaning": "එකඟයි. එය වඩා හොඳ තීරණයක් ගැනීමට උදව් වේවි."
+        "text": "B: Let us compare the cost of the delay with the cost of an alternative solution.",
+        "reading": "B: Let us compare the cost of the delay with the cost of an alternative solution.",
+        "meaning": "ප්‍රමාදයේ වියදම විකල්ප විසඳුමේ වියදම සමඟ සසඳමු."
       }
     ],
     "listeningPractice": {
@@ -8533,14 +8533,14 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "evaluate = ඇගයීම"
       },
       {
-        "prompt": "What does speaker B ask for?",
+        "prompt": "What does B recommend or point out?",
         "options": [
-          "An example",
-          "A price",
-          "An address"
+          "Assess consequences and contact another supplier",
+          "Wait without a plan",
+          "Cancel all tasks"
         ],
         "answer": 0,
-        "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "explanation": "Assess consequences and contact another supplier = ප්‍රතිවිපාක තක්සේරු කර වහාම වෙනත් සැපයුම්කරුවෙකු සම්බන්ධ කරගත යුතුයි."
       }
     ]
   },
@@ -8653,19 +8653,19 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "A flexible plan helps us adapt to changes."
       },
       {
-        "text": "B: Could you give an example?",
-        "reading": "B: කුඩ් යූ ගිව් ඇන් ඉග්සැම්පල්?",
-        "meaning": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "text": "B: Make a plan that includes deadlines, costs and a backup option.",
+        "reading": "B: Make a plan that includes deadlines, costs and a backup option.",
+        "meaning": "කාලසීමා, වියදම් සහ විකල්ප සැලැස්මක් ඇතුළත් සැලැස්මක් සකස් කරන්න."
       },
       {
-        "text": "A: It is important to consider every option.",
-        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
-        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+        "text": "A: I cannot predict every change.",
+        "reading": "A: I cannot predict every change.",
+        "meaning": "සියලු වෙනස්කම් කලින් අනාවැකි කියන්න මට බැහැ."
       },
       {
-        "text": "B: I agree. That will help us make a better decision.",
-        "reading": "B: අයි අග්‍රී. දැට් විල් හෙල්ප් අස් මේක් අ බෙටර් ඩිසිෂන්.",
-        "meaning": "එකඟයි. එය වඩා හොඳ තීරණයක් ගැනීමට උදව් වේවි."
+        "text": "B: That is why the plan should be adjusted regularly to new circumstances.",
+        "reading": "B: That is why the plan should be adjusted regularly to new circumstances.",
+        "meaning": "නව තත්ත්වයන්ට අනුව සැලැස්ම නිතර සකස් කළ යුතුයි."
       }
     ],
     "listeningPractice": {
@@ -8711,14 +8711,14 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "flexible = නම්‍යශීලී"
       },
       {
-        "prompt": "What does speaker B ask for?",
+        "prompt": "What does B recommend or point out?",
         "options": [
-          "An example",
-          "A price",
-          "An address"
+          "Deadlines, costs and a backup option",
+          "Only wishes",
+          "Unrelated information"
         ],
         "answer": 0,
-        "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "explanation": "Deadlines, costs and a backup option = කාලසීමා, වියදම් සහ විකල්ප සැලැස්මක් ඇතුළත් සැලැස්මක් සකස් කරන්න."
       }
     ]
   },
@@ -8831,19 +8831,19 @@ export const ENGLISH_B1_LESSONS = [
         "meaning": "A clear presentation connects examples, reasons and a conclusion."
       },
       {
-        "text": "B: Could you give an example?",
-        "reading": "B: කුඩ් යූ ගිව් ඇන් ඉග්සැම්පල්?",
-        "meaning": "උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "text": "B: Add a concrete example and clearly repeat the main conclusion at the end.",
+        "reading": "B: Add a concrete example and clearly repeat the main conclusion at the end.",
+        "meaning": "නිශ්චිත උදාහරණයක් එක් කර අවසානයේ ප්‍රධාන නිගමනය පැහැදිලිව නැවත කියන්න."
       },
       {
-        "text": "A: It is important to consider every option.",
-        "reading": "A: ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන්.",
-        "meaning": "සෑම විකල්පයක්ම සලකා බැලීම වැදගත්."
+        "text": "A: That will help the audience follow the arguments more easily.",
+        "reading": "A: That will help the audience follow the arguments more easily.",
+        "meaning": "එවිට ප්‍රේක්ෂකයන්ට තර්ක පහසුවෙන් අනුගමනය කළ හැකියි."
       },
       {
-        "text": "B: I agree. That will help us make a better decision.",
-        "reading": "B: අයි අග්‍රී. දැට් විල් හෙල්ප් අස් මේක් අ බෙටර් ඩිසිෂන්.",
-        "meaning": "එකඟයි. එය වඩා හොඳ තීරණයක් ගැනීමට උදව් වේවි."
+        "text": "B: A good structure connects claims, evidence and a conclusion.",
+        "reading": "B: A good structure connects claims, evidence and a conclusion.",
+        "meaning": "හොඳ ව්‍යුහයක් අදහස්, සාක්ෂි සහ නිගමනය එකට සම්බන්ධ කරනවා."
       }
     ],
     "listeningPractice": {
@@ -8889,14 +8889,14 @@ export const ENGLISH_B1_LESSONS = [
         "explanation": "supporting point = සහායක කරුණ"
       },
       {
-        "prompt": "What does speaker B ask for?",
+        "prompt": "What does B recommend or point out?",
         "options": [
-          "An example",
-          "A price",
-          "An address"
+          "A concrete example and a clear conclusion",
+          "More unrelated topics",
+          "A longer introduction without a conclusion"
         ],
         "answer": 0,
-        "explanation": "Could you give an example? = උදාහරණයක් දෙන්න පුළුවන්ද?"
+        "explanation": "A concrete example and a clear conclusion = නිශ්චිත උදාහරණයක් එක් කර අවසානයේ ප්‍රධාන නිගමනය පැහැදිලිව නැවත කියන්න."
       }
     ]
   }
