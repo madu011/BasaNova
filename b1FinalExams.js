@@ -91,7 +91,7 @@ export const SERBIAN_B1_FINAL_EXAM = [
       "විසඳුම",
       "ව්‍යාපෘතිය",
       "හැකියාව",
-      "හැකියාව"
+      "වගකීම"
     ],
     "answer": 0,
     "explanation": "solution = විසඳුම"
@@ -414,7 +414,7 @@ export const ENGLISH_B1_FINAL_EXAM = [
       "විසඳුම",
       "ව්‍යාපෘතිය",
       "හැකියාව",
-      "හැකියාව"
+      "වගකීම"
     ],
     "answer": 0,
     "explanation": "solution = විසඳුම"
