@@ -2323,65 +2323,65 @@ const englishB1Lessons = [
         "word": "refund",
         "reading": "රීෆන්ඩ්",
         "meaning": "මුදල් ආපසු ගෙවීම",
-        "example": "I would like to make a complaint about the damaged product.",
-        "exampleReading": "අයි වුඩ් ලයික් ටු මේක් අ කම්ප්ලේන්ට් අබවුට් දි ඩැමජ්ඩ් ප්‍රොඩක්ට්.",
-        "translation": "හානි වූ භාණ්ඩය ගැන පැමිණිල්ලක් ඉදිරිපත් කිරීමට කැමතියි."
+        "example": "The customer requested a refund because the product was faulty.",
+        "exampleReading": "දි කස්ටමර් රික්වෙස්ටිඩ් අ රීෆන්ඩ් බිකෝස් දි ප්‍රොඩක්ට් වොස් ෆෝල්ටි.",
+        "translation": "භාණ්ඩය දෝෂ සහිත වූ නිසා පාරිභෝගිකයා මුදල් ආපසු ඉල්ලා සිටියා."
       },
       {
         "word": "receipt",
         "reading": "රිසීට්",
         "meaning": "රිසිට්පත",
-        "example": "Please explain the available replacement options.",
-        "exampleReading": "ප්ලීස් එක්ස්ප්ලේන් දි අවේලබල් රිප්ලේස්මන්ට් ඔප්ෂන්ස්.",
-        "translation": "ලබාගත හැකි ආදේශක විකල්ප පැහැදිලි කරන්න."
+        "example": "Please keep your receipt as proof of purchase.",
+        "exampleReading": "ප්ලීස් කීප් යෝර් රිසීට් ඇස් ප්‍රූෆ් ඔෆ් පර්චස්.",
+        "translation": "මිලදී ගැනීමේ සාක්ෂියක් ලෙස ඔබේ රිසිට්පත තබාගන්න."
       },
       {
         "word": "damaged",
         "reading": "ඩැමිජ්ඩ්",
         "meaning": "හානි වූ",
-        "example": "I would like to make a complaint about the damaged product.",
-        "exampleReading": "අයි වුඩ් ලයික් ටු මේක් අ කම්ප්ලේන්ට් අබවුට් දි ඩැමජ්ඩ් ප්‍රොඩක්ට්.",
-        "translation": "හානි වූ භාණ්ඩය ගැන පැමිණිල්ලක් ඉදිරිපත් කිරීමට කැමතියි."
+        "example": "The package arrived damaged, so I contacted the seller.",
+        "exampleReading": "දි පැකේජ් අරයිව්ඩ් ඩැමිජ්ඩ් සෝ අයි කන්ටැක්ටිඩ් දි සෙලර්.",
+        "translation": "පාර්සලය හානි වී ලැබුණු නිසා මම විකුණුම්කරුට සම්බන්ධ වුණා."
       },
       {
         "word": "replacement",
         "reading": "රිප්ලේස්මන්ට්",
-        "meaning": "මාරු කිරීම",
-        "example": "Please explain the available replacement options.",
-        "exampleReading": "ප්ලීස් එක්ස්ප්ලේන් දි අවේලබල් රිප්ලේස්මන්ට් ඔප්ෂන්ස්.",
-        "translation": "ලබාගත හැකි ආදේශක විකල්ප පැහැදිලි කරන්න."
+        "meaning": "ආදේශකය / මාරු කිරීම",
+        "example": "The shop offered a replacement for my faulty device.",
+        "exampleReading": "දි ෂොප් ඔෆර්ඩ් අ රිප්ලේස්මන්ට් ෆෝ මයි ෆෝල්ටි ඩිවයිස්.",
+        "translation": "මගේ දෝෂ සහිත උපකරණය වෙනුවට වෙළඳසැල වෙනත් එකක් ලබාදීමට ඉදිරිපත් වුණා."
       },
       {
         "word": "quality",
         "reading": "ක්වොලිටි",
         "meaning": "ගුණාත්මකභාවය",
-        "example": "I would like to make a complaint about the damaged product.",
-        "exampleReading": "අයි වුඩ් ලයික් ටු මේක් අ කම්ප්ලේන්ට් අබවුට් දි ඩැමජ්ඩ් ප්‍රොඩක්ට්.",
-        "translation": "හානි වූ භාණ්ඩය ගැන පැමිණිල්ලක් ඉදිරිපත් කිරීමට කැමතියි."
+        "example": "The quality of this product is better than I expected.",
+        "exampleReading": "දි ක්වොලිටි ඔෆ් දිස් ප්‍රොඩක්ට් ඉස් බෙටර් දැන් අයි එක්ස්පෙක්ටිඩ්.",
+        "translation": "මේ භාණ්ඩයේ ගුණාත්මකභාවය මම බලාපොරොත්තු වූවාට වඩා හොඳයි."
       },
       {
         "word": "warranty",
         "reading": "වොරන්ටි",
         "meaning": "වගකීම් සහතිකය",
-        "example": "Please explain the available replacement options.",
-        "exampleReading": "ප්ලීස් එක්ස්ප්ලේන් දි අවේලබල් රිප්ලේස්මන්ට් ඔප්ෂන්ස්.",
-        "translation": "ලබාගත හැකි ආදේශක විකල්ප පැහැදිලි කරන්න."
+        "example": "This phone is still covered by the warranty.",
+        "exampleReading": "දිස් ෆෝන් ඉස් ස්ටිල් කවර්ඩ් බයි දි වොරන්ටි.",
+        "translation": "මේ දුරකථනය තවමත් වගකීම් සහතිකයෙන් ආවරණය වෙනවා."
       },
       {
         "word": "customer",
         "reading": "කස්ටමර්",
         "meaning": "පාරිභෝගිකයා",
-        "example": "It is important to consider every option in advance.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන් ඉන් ඇඩ්වාන්ස්.",
-        "translation": "සෑම විකල්පයක්ම කලින් සලකා බැලීම වැදගත්."
+        "example": "Every customer deserves clear information.",
+        "exampleReading": "එව්රි කස්ටමර් ඩිසර්ව්ස් ක්ලියර් ඉන්ෆර්මේෂන්.",
+        "translation": "සෑම පාරිභෝගිකයෙකුටම පැහැදිලි තොරතුරු ලැබිය යුතුයි."
       },
       {
         "word": "solution",
         "reading": "සලූෂන්",
         "meaning": "විසඳුම",
-        "example": "In the end, we will choose the solution that works best for everyone.",
-        "exampleReading": "ඉන් දි එන්ඩ් වී විල් චූස් දි සලූෂන් දැට් වර්ක්ස් බෙස්ට් ෆෝ එව්රීවන්.",
-        "translation": "අවසානයේ හැමෝටම හොඳම විසඳුම තෝරනවා."
+        "example": "We found a quick and fair solution together.",
+        "exampleReading": "වී ෆවුන්ඩ් අ ක්වික් ඇන්ඩ් ෆෙයර් සලූෂන් ටුගෙදර්.",
+        "translation": "අපි එකට ඉක්මන් සහ සාධාරණ විසඳුමක් සොයාගත්තා."
       }
     ],
     "grammarTitle": "Grammar",
