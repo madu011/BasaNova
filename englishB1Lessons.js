@@ -2145,65 +2145,65 @@ const englishB1Lessons = [
         "word": "itinerary",
         "reading": "අයිටිනරරි",
         "meaning": "ගමන් සැලැස්ම",
-        "example": "Because of the roadworks, the bus leaves from another stop.",
-        "exampleReading": "බිකෝස් ඔෆ් දි රෝඩ්වර්ක්ස් දි බස් ලීව්ස් ෆ්‍රම් අනදර් ස්ටොප්.",
-        "translation": "මාර්ග අලුත්වැඩියා කටයුතු නිසා බස් රථය වෙනත් නැවතුමකින් පිටත් වෙනවා."
+        "example": "We made a detailed itinerary for a seven-day trip.",
+        "exampleReading": "වී මේඩ් අ ඩීටේල්ඩ් අයිටිනරරි ෆෝ අ සෙවන් ඩේ ට්‍රිප්.",
+        "translation": "අපි දින හතක ගමන සඳහා විස්තරාත්මක සැලැස්මක් සකස් කළා."
       },
       {
         "word": "departure",
         "reading": "ඩිපාර්චර්",
         "meaning": "පිටත්වීම",
-        "example": "If we miss the train, we will check the next departure.",
-        "exampleReading": "ඉෆ් වී මිස් දි ට්‍රේන් වී විල් චෙක් දි නෙක්ස්ට් ඩිපාර්චර්.",
-        "translation": "අපට දුම්රිය මඟහැරුණොත් ඊළඟ පිටත්වීමේ වේලාව පරීක්ෂා කරනවා."
+        "example": "The bus departure is scheduled for six in the morning.",
+        "exampleReading": "දි බස් ඩිපාර්චර් ඉස් ෂෙඩ්‍යූල්ඩ් ෆෝ සික්ස් ඉන් දි මෝර්නිං.",
+        "translation": "බස් රථය පිටත්වීම උදෑසන හයට නියම කර තිබෙනවා."
       },
       {
         "word": "delay",
         "reading": "ඩිලේ",
         "meaning": "ප්‍රමාදය",
-        "example": "It is important to consider every option in advance.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන් ඉන් ඇඩ්වාන්ස්.",
-        "translation": "සෑම විකල්පයක්ම කලින් සලකා බැලීම වැදගත්."
+        "example": "Because of the snow, the train has a thirty-minute delay.",
+        "exampleReading": "බිකෝස් ඔෆ් දි ස්නෝ, දි ට්‍රේන් හැස් අ තර්ටි මිනිට් ඩිලේ.",
+        "translation": "හිම පතනය නිසා දුම්රිය විනාඩි තිහක් ප්‍රමාද වෙනවා."
       },
       {
         "word": "platform",
         "reading": "ප්ලැට්ෆෝම්",
         "meaning": "වේදිකාව",
-        "example": "In the end, we will choose the solution that works best for everyone.",
-        "exampleReading": "ඉන් දි එන්ඩ් වී විල් චූස් දි සලූෂන් දැට් වර්ක්ස් බෙස්ට් ෆෝ එව්රීවන්.",
-        "translation": "අවසානයේ හැමෝටම හොඳම විසඳුම තෝරනවා."
+        "example": "Our train leaves from platform three.",
+        "exampleReading": "අවර් ට්‍රේන් ලීව්ස් ෆ්‍රම් ප්ලැට්ෆෝම් ත්‍රී.",
+        "translation": "අපේ දුම්රිය තුන්වන වේදිකාවෙන් පිටත් වෙනවා."
       },
       {
         "word": "alternative",
         "reading": "අල්ටර්නටිව්",
         "meaning": "විකල්පය",
-        "example": "Because of the roadworks, the bus leaves from another stop.",
-        "exampleReading": "බිකෝස් ඔෆ් දි රෝඩ්වර්ක්ස් දි බස් ලීව්ස් ෆ්‍රම් අනදර් ස්ටොප්.",
-        "translation": "මාර්ග අලුත්වැඩියා කටයුතු නිසා බස් රථය වෙනත් නැවතුමකින් පිටත් වෙනවා."
+        "example": "If this road is closed, we will choose an alternative route.",
+        "exampleReading": "ඉෆ් දිස් රෝඩ් ඉස් ක්ලෝස්ඩ්, වී විල් චූස් ඇන් අල්ටර්නටිව් රූට්.",
+        "translation": "මේ මාර්ගය වසා තිබුණොත් අපි විකල්ප මාර්ගයක් තෝරාගන්නවා."
       },
       {
         "word": "reservation",
         "reading": "රෙසර්වේෂන්",
         "meaning": "වෙන්කිරීම",
-        "example": "If we miss the train, we will check the next departure.",
-        "exampleReading": "ඉෆ් වී මිස් දි ට්‍රේන් වී විල් චෙක් දි නෙක්ස්ට් ඩිපාර්චර්.",
-        "translation": "අපට දුම්රිය මඟහැරුණොත් ඊළඟ පිටත්වීමේ වේලාව පරීක්ෂා කරනවා."
+        "example": "We have a hotel reservation for two nights.",
+        "exampleReading": "වී හැව් අ හෝටෙල් රෙසර්වේෂන් ෆෝ ටූ නයිට්ස්.",
+        "translation": "අපට රාත්‍රී දෙකක් සඳහා හෝටල් වෙන්කිරීමක් තිබෙනවා."
       },
       {
         "word": "luggage",
         "reading": "ලගිජ්",
         "meaning": "ගමන් මලු",
-        "example": "It is important to consider every option in advance.",
-        "exampleReading": "ඉට් ඉස් ඉම්පෝර්ටන්ට් ටු කන්සිඩර් එව්රි ඔප්ෂන් ඉන් ඇඩ්වාන්ස්.",
-        "translation": "සෑම විකල්පයක්ම කලින් සලකා බැලීම වැදගත්."
+        "example": "We left our luggage in the hotel room.",
+        "exampleReading": "වී ලෙෆ්ට් අවර් ලගිජ් ඉන් දි හෝටෙල් රූම්.",
+        "translation": "අපි ගමන් මලු හෝටල් කාමරයේ තැබුවා."
       },
       {
         "word": "schedule",
         "reading": "ෂෙඩ්‍යූල්",
         "meaning": "කාලසටහන",
-        "example": "In the end, we will choose the solution that works best for everyone.",
-        "exampleReading": "ඉන් දි එන්ඩ් වී විල් චූස් දි සලූෂන් දැට් වර්ක්ස් බෙස්ට් ෆෝ එව්රීවන්.",
-        "translation": "අවසානයේ හැමෝටම හොඳම විසඳුම තෝරනවා."
+        "example": "Check the departure schedule before you leave.",
+        "exampleReading": "චෙක් දි ඩිපාර්චර් ෂෙඩ්‍යූල් බිෆෝර් යූ ලීව්.",
+        "translation": "පිටත්වීමට පෙර ගමන් කාලසටහන පරීක්ෂා කරන්න."
       }
     ],
     "grammarTitle": "Grammar",
