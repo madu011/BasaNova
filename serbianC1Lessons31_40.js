@@ -89,24 +89,20 @@ export const SERBIAN_C1_LESSONS_31_40 = [
     ],
     "dialogue": [
       {
-        "sr": "Kako biste saželi glavni izazov?",
-        "reading": "ක්අක්ඔ බ්ඉස්ත්එ ස්අෂ්එල්ඉ ග්ල්අව්න්ඉ ඉස්අස්ඔව්?",
-        "si": "ප්‍රධාන අභියෝගය ඔබ කෙසේ සාරාංශ කරන්නේද?"
+        "sr": "Kako da izrazimo neslaganje taktično?",
+        "si": "අකමැත්ත රාජ්‍යතාන්ත්‍රිකව ප්‍රකාශ කරන්නේ කෙසේද?"
       },
       {
-        "sr": "Najpre treba razmotriti dostupne dokaze.",
-        "reading": "න්අය්ප්ර්එ ත්ර්එබ්අ ර්අස්ම්ඔත්ර්ඉත්ඉ ද්ඔස්ත්උප්න්එ ද්ඔක්අස්එ.",
-        "si": "පළමුව ලබාගත හැකි සාක්ෂි සලකා බැලිය යුතුය."
+        "sr": "Počnimo od zajedničkog cilja.",
+        "si": "පොදු අරමුණෙන් ආරම්භ කරමු."
       },
       {
-        "sr": "A koje su moguće posledice?",
-        "reading": "අ ක්ඔය්එ ස්උ ම්ඔග්උච්එ ප්ඔස්ල්එද්ඉත්ස්එ?",
-        "si": "එහි ඇති විය හැකි ප්‍රතිවිපාක මොනවාද?"
+        "sr": "Zatim iznesimo svoje rezerve?",
+        "si": "ඊට පසු අපගේ සැකයන් ඉදිරිපත් කරමුද?"
       },
       {
-        "sr": "Predložiću merljiv plan i rok za proveru.",
-        "reading": "ප්ර්එද්ල්ඔෂ්ඉච්උ ම්එර්ල්ය්ඉව් ප්ල්අන් ඉ ර්ඔක් ස්අ ප්ර්ඔව්එර්උ.",
-        "si": "මම මැනිය හැකි සැලැස්මක් සහ පරීක්ෂා කරන දිනයක් යෝජනා කරන්නම්."
+        "sr": "Da, jasno i uz poštovanje.",
+        "si": "ඔව්, පැහැදිලිව සහ ගෞරවයෙන්."
       }
     ],
     "listeningPractice": {
@@ -252,24 +248,20 @@ export const SERBIAN_C1_LESSONS_31_40 = [
     ],
     "dialogue": [
       {
-        "sr": "Kako biste saželi glavni izazov?",
-        "reading": "ක්අක්ඔ බ්ඉස්ත්එ ස්අෂ්එල්ඉ ග්ල්අව්න්ඉ ඉස්අස්ඔව්?",
-        "si": "ප්‍රධාන අභියෝගය ඔබ කෙසේ සාරාංශ කරන්නේද?"
+        "sr": "Kako ćemo proceniti ovu meru?",
+        "si": "මෙම පියවර තක්සේරු කරන්නේ කෙසේද?"
       },
       {
-        "sr": "Najpre treba razmotriti dostupne dokaze.",
-        "reading": "න්අය්ප්ර්එ ත්ර්එබ්අ ර්අස්ම්ඔත්ර්ඉත්ඉ ද්ඔස්ත්උප්න්එ ද්ඔක්අස්එ.",
-        "si": "පළමුව ලබාගත හැකි සාක්ෂි සලකා බැලිය යුතුය."
+        "sr": "Uporedićemo početne i završne pokazatelje.",
+        "si": "ආරම්භක සහ අවසාන දර්ශක සසඳමු."
       },
       {
-        "sr": "A koje su moguće posledice?",
-        "reading": "අ ක්ඔය්එ ස්උ ම්ඔග්උච්එ ප්ඔස්ල්එද්ඉත්ස්එ?",
-        "si": "එහි ඇති විය හැකි ප්‍රතිවිපාක මොනවාද?"
+        "sr": "Da li je to dovoljno?",
+        "si": "එය ප්‍රමාණවත්ද?"
       },
       {
-        "sr": "Predložiću merljiv plan i rok za proveru.",
-        "reading": "ප්ර්එද්ල්ඔෂ්ඉච්උ ම්එර්ල්ය්ඉව් ප්ල්අන් ඉ ර්ඔක් ස්අ ප්ර්ඔව්එර්උ.",
-        "si": "මම මැනිය හැකි සැලැස්මක් සහ පරීක්ෂා කරන දිනයක් යෝජනා කරන්නම්."
+        "sr": "Uključićemo i povratne informacije građana.",
+        "si": "ජනතාවගේ ප්‍රතිචාරද ඇතුළත් කරමු."
       }
     ],
     "listeningPractice": {
@@ -415,24 +407,20 @@ export const SERBIAN_C1_LESSONS_31_40 = [
     ],
     "dialogue": [
       {
-        "sr": "Kako biste saželi glavni izazov?",
-        "reading": "ක්අක්ඔ බ්ඉස්ත්එ ස්අෂ්එල්ඉ ග්ල්අව්න්ඉ ඉස්අස්ඔව්?",
-        "si": "ප්‍රධාන අභියෝගය ඔබ කෙසේ සාරාංශ කරන්නේද?"
+        "sr": "Zašto se novčani tok razlikuje od dobiti?",
+        "si": "මුදල් ප්‍රවාහය ලාභයෙන් වෙනස් වන්නේ ඇයි?"
       },
       {
-        "sr": "Najpre treba razmotriti dostupne dokaze.",
-        "reading": "න්අය්ප්ර්එ ත්ර්එබ්අ ර්අස්ම්ඔත්ර්ඉත්ඉ ද්ඔස්ත්උප්න්එ ද්ඔක්අස්එ.",
-        "si": "පළමුව ලබාගත හැකි සාක්ෂි සලකා බැලිය යුතුය."
+        "sr": "Uplate i isplate nastaju u različito vreme.",
+        "si": "ලැබීම් සහ ගෙවීම් සිදුවන්නේ වෙනස් වේලාවලයි."
       },
       {
-        "sr": "A koje su moguće posledice?",
-        "reading": "අ ක්ඔය්එ ස්උ ම්ඔග්උච්එ ප්ඔස්ල්එද්ඉත්ස්එ?",
-        "si": "එහි ඇති විය හැකි ප්‍රතිවිපාක මොනවාද?"
+        "sr": "Da li prihod pokazuje celu sliku?",
+        "si": "ආදායමෙන් සම්පූර්ණ තත්ත්වය පෙන්වනවාද?"
       },
       {
-        "sr": "Predložiću merljiv plan i rok za proveru.",
-        "reading": "ප්ර්එද්ල්ඔෂ්ඉච්උ ම්එර්ල්ය්ඉව් ප්ල්අන් ඉ ර්ඔක් ස්අ ප්ර්ඔව්එර්උ.",
-        "si": "මම මැනිය හැකි සැලැස්මක් සහ පරීක්ෂා කරන දිනයක් යෝජනා කරන්නම්."
+        "sr": "Ne, moramo uključiti rashode i obaveze.",
+        "si": "නැහැ, වියදම් සහ වගකීම්ද ඇතුළත් කළ යුතුයි."
       }
     ],
     "listeningPractice": {
@@ -578,24 +566,20 @@ export const SERBIAN_C1_LESSONS_31_40 = [
     ],
     "dialogue": [
       {
-        "sr": "Kako biste saželi glavni izazov?",
-        "reading": "ක්අක්ඔ බ්ඉස්ත්එ ස්අෂ්එල්ඉ ග්ල්අව්න්ඉ ඉස්අස්ඔව්?",
-        "si": "ප්‍රධාන අභියෝගය ඔබ කෙසේ සාරාංශ කරන්නේද?"
+        "sr": "Da li nalaz potvrđuje hipotezu?",
+        "si": "සොයාගැනීම උපකල්පනය තහවුරු කරනවාද?"
       },
       {
-        "sr": "Najpre treba razmotriti dostupne dokaze.",
-        "reading": "න්අය්ප්ර්එ ත්ර්එබ්අ ර්අස්ම්ඔත්ර්ඉත්ඉ ද්ඔස්ත්උප්න්එ ද්ඔක්අස්එ.",
-        "si": "පළමුව ලබාගත හැකි සාක්ෂි සලකා බැලිය යුතුය."
+        "sr": "Podržava je, ali postoje ograničenja.",
+        "si": "එයට සහාය දෙන නමුත් සීමාවන් තිබෙනවා."
       },
       {
-        "sr": "A koje su moguće posledice?",
-        "reading": "අ ක්ඔය්එ ස්උ ම්ඔග්උච්එ ප්ඔස්ල්එද්ඉත්ස්එ?",
-        "si": "එහි ඇති විය හැකි ප්‍රතිවිපාක මොනවාද?"
+        "sr": "Ko je pregledao metodologiju?",
+        "si": "ක්‍රමවේදය සමාලෝචනය කළේ කවුද?"
       },
       {
-        "sr": "Predložiću merljiv plan i rok za proveru.",
-        "reading": "ප්ර්එද්ල්ඔෂ්ඉච්උ ම්එර්ල්ය්ඉව් ප්ල්අන් ඉ ර්ඔක් ස්අ ප්ර්ඔව්එර්උ.",
-        "si": "මම මැනිය හැකි සැලැස්මක් සහ පරීක්ෂා කරන දිනයක් යෝජනා කරන්නම්."
+        "sr": "Nezavisni recenzenti su predložili kontrole.",
+        "si": "ස්වාධීන සමාලෝචකයන් පාලන ක්‍රම යෝජනා කළා."
       }
     ],
     "listeningPractice": {
@@ -741,24 +725,20 @@ export const SERBIAN_C1_LESSONS_31_40 = [
     ],
     "dialogue": [
       {
-        "sr": "Kako biste saželi glavni izazov?",
-        "reading": "ක්අක්ඔ බ්ඉස්ත්එ ස්අෂ්එල්ඉ ග්ල්අව්න්ඉ ඉස්අස්ඔව්?",
-        "si": "ප්‍රධාන අභියෝගය ඔබ කෙසේ සාරාංශ කරන්නේද?"
+        "sr": "Zašto tim retko predlaže promene?",
+        "si": "කණ්ඩායම වෙනස්කම් යෝජනා කරන්නේ කලාතුරකින් ඇයි?"
       },
       {
-        "sr": "Najpre treba razmotriti dostupne dokaze.",
-        "reading": "න්අය්ප්ර්එ ත්ර්එබ්අ ර්අස්ම්ඔත්ර්ඉත්ඉ ද්ඔස්ත්උප්න්එ ද්ඔක්අස්එ.",
-        "si": "පළමුව ලබාගත හැකි සාක්ෂි සලකා බැලිය යුතුය."
+        "sr": "Ljudi nisu sigurni da će biti saslušani.",
+        "si": "තම අදහස් අසනු ඇතැයි ඔවුන්ට විශ්වාස නැහැ."
       },
       {
-        "sr": "A koje su moguće posledice?",
-        "reading": "අ ක්ඔය්එ ස්උ ම්ඔග්උච්එ ප්ඔස්ල්එද්ඉත්ස්එ?",
-        "si": "එහි ඇති විය හැකි ප්‍රතිවිපාක මොනවාද?"
+        "sr": "Šta bi ojačalo poverenje?",
+        "si": "විශ්වාසය වැඩි කරන්නේ කුමක්ද?"
       },
       {
-        "sr": "Predložiću merljiv plan i rok za proveru.",
-        "reading": "ප්ර්එද්ල්ඔෂ්ඉච්උ ම්එර්ල්ය්ඉව් ප්ල්අන් ඉ ර්ඔක් ස්අ ප්ර්ඔව්එර්උ.",
-        "si": "මම මැනිය හැකි සැලැස්මක් සහ පරීක්ෂා කරන දිනයක් යෝජනා කරන්නම්."
+        "sr": "Dosledan odgovor i jasna ovlašćenja.",
+        "si": "අඛණ්ඩ ප්‍රතිචාර සහ පැහැදිලි බලතල."
       }
     ],
     "listeningPractice": {
@@ -904,24 +884,20 @@ export const SERBIAN_C1_LESSONS_31_40 = [
     ],
     "dialogue": [
       {
-        "sr": "Kako biste saželi glavni izazov?",
-        "reading": "ක්අක්ඔ බ්ඉස්ත්එ ස්අෂ්එල්ඉ ග්ල්අව්න්ඉ ඉස්අස්ඔව්?",
-        "si": "ප්‍රධාන අභියෝගය ඔබ කෙසේ සාරාංශ කරන්නේද?"
+        "sr": "Ko sme da pristupi ovim podacima?",
+        "si": "මෙම දත්ත වෙත ප්‍රවේශ විය හැක්කේ කාටද?"
       },
       {
-        "sr": "Najpre treba razmotriti dostupne dokaze.",
-        "reading": "න්අය්ප්ර්එ ත්ර්එබ්අ ර්අස්ම්ඔත්ර්ඉත්ඉ ද්ඔස්ත්උප්න්එ ද්ඔක්අස්එ.",
-        "si": "පළමුව ලබාගත හැකි සාක්ෂි සලකා බැලිය යුතුය."
+        "sr": "Samo osobe sa odobrenom ulogom.",
+        "si": "අනුමත භූමිකාවක් ඇති පුද්ගලයන්ට පමණයි."
       },
       {
-        "sr": "A koje su moguće posledice?",
-        "reading": "අ ක්ඔය්එ ස්උ ම්ඔග්උච්එ ප්ඔස්ල්එද්ඉත්ස්එ?",
-        "si": "එහි ඇති විය හැකි ප්‍රතිවිපාක මොනවාද?"
+        "sr": "Koliko dugo ih čuvamo?",
+        "si": "ඒවා කොපමණ කාලයක් තබාගන්නවාද?"
       },
       {
-        "sr": "Predložiću merljiv plan i rok za proveru.",
-        "reading": "ප්ර්එද්ල්ඔෂ්ඉච්උ ම්එර්ල්ය්ඉව් ප්ල්අන් ඉ ර්ඔක් ස්අ ප්ර්ඔව්එර්උ.",
-        "si": "මම මැනිය හැකි සැලැස්මක් සහ පරීක්ෂා කරන දිනයක් යෝජනා කරන්නම්."
+        "sr": "Samo koliko nalažu pravila.",
+        "si": "නීති අනුව අවශ්‍ය කාලය පමණයි."
       }
     ],
     "listeningPractice": {
@@ -1067,24 +1043,20 @@ export const SERBIAN_C1_LESSONS_31_40 = [
     ],
     "dialogue": [
       {
-        "sr": "Kako biste saželi glavni izazov?",
-        "reading": "ක්අක්ඔ බ්ඉස්ත්එ ස්අෂ්එල්ඉ ග්ල්අව්න්ඉ ඉස්අස්ඔව්?",
-        "si": "ප්‍රධාන අභියෝගය ඔබ කෙසේ සාරාංශ කරන්නේද?"
+        "sr": "Treba li da citiramo ovu definiciju?",
+        "si": "මෙම නිර්වචනය උපුටා දැක්විය යුතුද?"
       },
       {
-        "sr": "Najpre treba razmotriti dostupne dokaze.",
-        "reading": "න්අය්ප්ර්එ ත්ර්එබ්අ ර්අස්ම්ඔත්ර්ඉත්ඉ ද්ඔස්ත්උප්න්එ ද්ඔක්අස්එ.",
-        "si": "පළමුව ලබාගත හැකි සාක්ෂි සලකා බැලිය යුතුය."
+        "sr": "Da, preuzeta je iz konkretnog izvora.",
+        "si": "ඔව්, එය නිශ්චිත මූලාශ්‍රයකින් ලබාගෙන තිබෙනවා."
       },
       {
-        "sr": "A koje su moguće posledice?",
-        "reading": "අ ක්ඔය්එ ස්උ ම්ඔග්උච්එ ප්ඔස්ල්එද්ඉත්ස්එ?",
-        "si": "එහි ඇති විය හැකි ප්‍රතිවිපාක මොනවාද?"
+        "sr": "A šta ćemo sa ostatkom pasusa?",
+        "si": "ඡේදයේ ඉතිරි කොටස ගැන කුමක් කරමුද?"
       },
       {
-        "sr": "Predložiću merljiv plan i rok za proveru.",
-        "reading": "ප්ර්එද්ල්ඔෂ්ඉච්උ ම්එර්ල්ය්ඉව් ප්ල්අන් ඉ ර්ඔක් ස්අ ප්ර්ඔව්එර්උ.",
-        "si": "මම මැනිය හැකි සැලැස්මක් සහ පරීක්ෂා කරන දිනයක් යෝජනා කරන්නම්."
+        "sr": "Parafrazirajmo ga i navedimo izvor.",
+        "si": "එය අපේ වචනවලින් ලියා මූලාශ්‍රය සඳහන් කරමු."
       }
     ],
     "listeningPractice": {
@@ -1230,24 +1202,20 @@ export const SERBIAN_C1_LESSONS_31_40 = [
     ],
     "dialogue": [
       {
-        "sr": "Kako biste saželi glavni izazov?",
-        "reading": "ක්අක්ඔ බ්ඉස්ත්එ ස්අෂ්එල්ඉ ග්ල්අව්න්ඉ ඉස්අස්ඔව්?",
-        "si": "ප්‍රධාන අභියෝගය ඔබ කෙසේ සාරාංශ කරන්නේද?"
+        "sr": "Da li ovaj idiom odgovara izveštaju?",
+        "si": "මෙම ව්‍යවහාරය වාර්තාවට ගැළපෙනවාද?"
       },
       {
-        "sr": "Najpre treba razmotriti dostupne dokaze.",
-        "reading": "න්අය්ප්ර්එ ත්ර්එබ්අ ර්අස්ම්ඔත්ර්ඉත්ඉ ද්ඔස්ත්උප්න්එ ද්ඔක්අස්එ.",
-        "si": "පළමුව ලබාගත හැකි සාක්ෂි සලකා බැලිය යුතුය."
+        "sr": "Ne, previše je neformalan.",
+        "si": "නැහැ, එය ඉතා අවිධිමත්."
       },
       {
-        "sr": "A koje su moguće posledice?",
-        "reading": "අ ක්ඔය්එ ස්උ ම්ඔග්උච්එ ප්ඔස්ල්එද්ඉත්ස්එ?",
-        "si": "එහි ඇති විය හැකි ප්‍රතිවිපාක මොනවාද?"
+        "sr": "Kako da prenesemo isto značenje?",
+        "si": "එම අර්ථය ලබාදෙන්නේ කෙසේද?"
       },
       {
-        "sr": "Predložiću merljiv plan i rok za proveru.",
-        "reading": "ප්ර්එද්ල්ඔෂ්ඉච්උ ම්එර්ල්ය්ඉව් ප්ල්අන් ඉ ර්ඔක් ස්අ ප්ර්ඔව්එර්උ.",
-        "si": "මම මැනිය හැකි සැලැස්මක් සහ පරීක්ෂා කරන දිනයක් යෝජනා කරන්නම්."
+        "sr": "Neutralnim izrazom bez metafore.",
+        "si": "රූපකයක් නැති මධ්‍යස්ථ ප්‍රකාශයකින්."
       }
     ],
     "listeningPractice": {
@@ -1393,24 +1361,20 @@ export const SERBIAN_C1_LESSONS_31_40 = [
     ],
     "dialogue": [
       {
-        "sr": "Kako biste saželi glavni izazov?",
-        "reading": "ක්අක්ඔ බ්ඉස්ත්එ ස්අෂ්එල්ඉ ග්ල්අව්න්ඉ ඉස්අස්ඔව්?",
-        "si": "ප්‍රධාන අභියෝගය ඔබ කෙසේ සාරාංශ කරන්නේද?"
+        "sr": "Koji je najsnažniji protivargument?",
+        "si": "වඩාත් ශක්තිමත් ප්‍රතිතර්කය කුමක්ද?"
       },
       {
-        "sr": "Najpre treba razmotriti dostupne dokaze.",
-        "reading": "න්අය්ප්ර්එ ත්ර්එබ්අ ර්අස්ම්ඔත්ර්ඉත්ඉ ද්ඔස්ත්උප්න්එ ද්ඔක්අස්එ.",
-        "si": "පළමුව ලබාගත හැකි සාක්ෂි සලකා බැලිය යුතුය."
+        "sr": "Početni troškovi su veći od procene.",
+        "si": "ආරම්භක වියදම් ඇස්තමේන්තුවට වඩා වැඩියි."
       },
       {
-        "sr": "A koje su moguće posledice?",
-        "reading": "අ ක්ඔය්එ ස්උ ම්ඔග්උච්එ ප්ඔස්ල්එද්ඉත්ස්එ?",
-        "si": "එහි ඇති විය හැකි ප්‍රතිවිපාක මොනවාද?"
+        "sr": "Kako odgovaramo na taj prigovor?",
+        "si": "එම විරෝධයට පිළිතුරු දෙන්නේ කෙසේද?"
       },
       {
-        "sr": "Predložiću merljiv plan i rok za proveru.",
-        "reading": "ප්ර්එද්ල්ඔෂ්ඉච්උ ම්එර්ල්ය්ඉව් ප්ල්අන් ඉ ර්ඔක් ස්අ ප්ර්ඔව්එර්උ.",
-        "si": "මම මැනිය හැකි සැලැස්මක් සහ පරීක්ෂා කරන දිනයක් යෝජනා කරන්නම්."
+        "sr": "Uporedimo trošak sa dugoročnom koristi.",
+        "si": "වියදම දිගුකාලීන ප්‍රතිලාභය සමඟ සසඳමු."
       }
     ],
     "listeningPractice": {
@@ -1556,24 +1520,20 @@ export const SERBIAN_C1_LESSONS_31_40 = [
     ],
     "dialogue": [
       {
-        "sr": "Kako biste saželi glavni izazov?",
-        "reading": "ක්අක්ඔ බ්ඉස්ත්එ ස්අෂ්එල්ඉ ග්ල්අව්න්ඉ ඉස්අස්ඔව්?",
-        "si": "ප්‍රධාන අභියෝගය ඔබ කෙසේ සාරාංශ කරන්නේද?"
+        "sr": "Ko vodi završnu isporuku?",
+        "si": "අවසාන භාරදීම මෙහෙයවන්නේ කවුද?"
       },
       {
-        "sr": "Najpre treba razmotriti dostupne dokaze.",
-        "reading": "න්අය්ප්ර්එ ත්ර්එබ්අ ර්අස්ම්ඔත්ර්ඉත්ඉ ද්ඔස්ත්උප්න්එ ද්ඔක්අස්එ.",
-        "si": "පළමුව ලබාගත හැකි සාක්ෂි සලකා බැලිය යුතුය."
+        "sr": "Svaki tim vodi svoj deo projekta.",
+        "si": "සෑම කණ්ඩායමක්ම ව්‍යාපෘතියේ තම කොටස මෙහෙයවනවා."
       },
       {
-        "sr": "A koje su moguće posledice?",
-        "reading": "අ ක්ඔය්එ ස්උ ම්ඔග්උච්එ ප්ඔස්ල්එද්ඉත්ස්එ?",
-        "si": "එහි ඇති විය හැකි ප්‍රතිවිපාක මොනවාද?"
+        "sr": "Kako pratimo napredak?",
+        "si": "ප්‍රගතිය නිරීක්ෂණය කරන්නේ කෙසේද?"
       },
       {
-        "sr": "Predložiću merljiv plan i rok za proveru.",
-        "reading": "ප්ර්එද්ල්ඔෂ්ඉච්උ ම්එර්ල්ය්ඉව් ප්ල්අන් ඉ ර්ඔක් ස්අ ප්ර්ඔව්එර්උ.",
-        "si": "මම මැනිය හැකි සැලැස්මක් සහ පරීක්ෂා කරන දිනයක් යෝජනා කරන්නම්."
+        "sr": "Svake nedelje proveravamo rokove i rezultate.",
+        "si": "සෑම සතියකම කාලසීමා සහ ප්‍රතිඵල පරීක්ෂා කරනවා."
       }
     ],
     "listeningPractice": {
