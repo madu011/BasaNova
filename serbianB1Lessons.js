@@ -1891,7 +1891,7 @@ export const SERBIAN_B1_LESSONS = [
       {
         "sr": "B: Da li obično proveravaš red vožnje pre polaska?",
         "reading": "B: ද්අ ල්ඉ ඔබ්ඉච්න්ඔ ප්ර්ඔව්එර්අව්අෂ් ර්එද් ව්ඔෂ්න්‍යඑ ප්ර්එ ප්ඔල්අස්ක්අ?",
-        "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
+        "si": "පිටත්වීමට පෙර ඔබ සාමාන්‍යයෙන් දුම්රිය කාලසටහන පරීක්ෂා කරනවාද?"
       },
       {
         "sr": "A: Ako bude gužve, možda ćemo uzeti taksi.",
@@ -2069,7 +2069,7 @@ export const SERBIAN_B1_LESSONS = [
       {
         "sr": "B: Da li ti više pomaže čitanje ili razgovor?",
         "reading": "B: ද්අ ල්ඉ ත්ඉ ව්ඉෂ්එ ප්ඔම්අෂ්එ ච්ඉත්අන්‍යඑ ඉල්ඉ ර්අස්ග්ඔව්ඔර්?",
-        "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
+        "si": "කියවීමද සංවාදයෙන් කතා කිරීමද ඔබට වැඩියෙන් උපකාරී වෙන්නේ?"
       },
       {
         "sr": "A: Najviše naučim kada koristim jezik u razgovoru.",
@@ -2247,7 +2247,7 @@ export const SERBIAN_B1_LESSONS = [
       {
         "sr": "B: Da li si proverio vreme sledećeg polaska?",
         "reading": "B: ද්අ ල්ඉ ස්ඉ ප්ර්ඔව්එර්ඉඔ ව්ර්එම්එ ස්ල්එද්එච්එග් ප්ඔල්අස්ක්අ?",
-        "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
+        "si": "ඊළඟ ගමන් වාරයේ වේලාව ඔබ පරීක්ෂා කළාද?"
       },
       {
         "sr": "A: Ako propustimo voz, proverićemo sledeći polazak.",
@@ -2425,7 +2425,7 @@ export const SERBIAN_B1_LESSONS = [
       {
         "sr": "B: Da li imate račun i fotografiju oštećenja?",
         "reading": "B: ද්අ ල්ඉ ඉම්අත්එ ර්අච්උන් ඉ ෆ්ඔත්ඔග්ර්අෆ්ඉය්උ ඔෂ්ත්එච්එන්‍යඅ?",
-        "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
+        "si": "ඔබ ළඟ රිසිට්පත සහ හානිය පෙන්වන ඡායාරූපයක් තිබෙනවාද?"
       },
       {
         "sr": "A: Molim vas da mi objasnite koje su mogućnosti zamene.",
@@ -2603,7 +2603,7 @@ export const SERBIAN_B1_LESSONS = [
       {
         "sr": "B: Da li su koraci jasni i kojim redom ih treba pratiti?",
         "reading": "B: ද්අ ල්ඉ ස්උ ක්ඔර්අත්ස්ඉ ය්අස්න්ඉ ඉ ක්ඔය්ඉම් ර්එද්ඔම් ඉහ් ත්ර්එබ්අ ප්ර්අත්ඉත්ඉ?",
-        "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
+        "si": "පියවර පැහැදිලිද? ඒවා අනුගමනය කළ යුතු අනුපිළිවෙළ මොකක්ද?"
       },
       {
         "sr": "A: Nakon što se uređaj uključi, sačekajte nekoliko sekundi.",
@@ -2781,7 +2781,7 @@ export const SERBIAN_B1_LESSONS = [
       {
         "sr": "B: Kako građani mogu da učestvuju u akciji?",
         "reading": "B: ක්අක්ඔ ග්ර්අජ්අන්ඉ ම්ඔග්උ ද්අ උච්එස්ත්ව්උය්උ උ අක්ත්ස්ඉය්ඉ?",
-        "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
+        "si": "ප්‍රදේශවාසීන්ට මෙම වැඩසටහනට සහභාගී විය හැක්කේ කෙසේද?"
       },
       {
         "sr": "A: Građani mogu da predlože rešenja na javnom sastanku.",
@@ -2959,7 +2959,7 @@ export const SERBIAN_B1_LESSONS = [
       {
         "sr": "B: Šta ti najviše oduzima slobodno vreme?",
         "reading": "B: ෂ්ත්අ ත්ඉ න්අය්ව්ඉෂ්එ ඔද්උස්ඉම්අ ස්ල්ඔබ්ඔද්න්ඔ ව්ර්එම්එ?",
-        "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
+        "si": "ඔබගේ නිදහස් කාලයෙන් වැඩි කොටසක් ගතවෙන්නේ කුමක් සඳහාද?"
       },
       {
         "sr": "A: Ako unapred isplaniramo obaveze, imaćemo više slobodnog vremena.",
@@ -3137,7 +3137,7 @@ export const SERBIAN_B1_LESSONS = [
       {
         "sr": "B: Koje male promene možemo da uvedemo kod kuće?",
         "reading": "B: ක්ඔය්එ ම්අල්එ ප්ර්ඔම්එන්එ ම්ඔෂ්එම්ඔ ද්අ උව්එද්එම්ඔ ක්ඔද් ක්උච්එ?",
-        "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
+        "si": "නිවසේදී අපට හඳුන්වා දිය හැකි කුඩා වෙනස්කම් මොනවාද?"
       },
       {
         "sr": "A: Ako smanjimo otpad, čuvamo prirodne resurse.",
@@ -3315,7 +3315,7 @@ export const SERBIAN_B1_LESSONS = [
       {
         "sr": "B: Zašto je utakmica odložena?",
         "reading": "B: ස්අෂ්ත්ඔ ය්එ උත්අක්ම්ඉත්ස්අ ඔද්ල්ඔෂ්එන්අ?",
-        "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
+        "si": "තරගය කල් දැමුවේ ඇයි?"
       },
       {
         "sr": "A: Nije bilo dovoljno vremena, zato smo promenili plan.",
@@ -3493,7 +3493,7 @@ export const SERBIAN_B1_LESSONS = [
       {
         "sr": "B: Koji kriterijum ti je najvažniji pri izboru?",
         "reading": "B: ක්ඔය්ඉ ක්ර්ඉත්එර්ඉය්උම් ත්ඉ ය්එ න්අය්ව්අෂ්න්ඉය්ඉ ප්ර්ඉ ඉස්බ්ඔර්උ?",
-        "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
+        "si": "තේරීමක් කිරීමේදී ඔබට වඩාත් වැදගත් නිර්ණායකය කුමක්ද?"
       },
       {
         "sr": "A: Po mom mišljenju, prednosti su veće od nedostataka.",
@@ -3671,7 +3671,7 @@ export const SERBIAN_B1_LESSONS = [
       {
         "sr": "B: Koji kurs ti je potreban za posao?",
         "reading": "B: ක්ඔය්ඉ ක්උර්ස් ත්ඉ ය්එ ප්ඔත්ර්එබ්අන් ස්අ ප්ඔස්අඔ?",
-        "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
+        "si": "රැකියාව සඳහා ඔබට අවශ්‍ය පාඨමාලාව කුමක්ද?"
       },
       {
         "sr": "A: Važno je da izaberem program koji odgovara mom rasporedu i ciljevima.",
@@ -3849,7 +3849,7 @@ export const SERBIAN_B1_LESSONS = [
       {
         "sr": "B: Koje funkcije aplikacije najčešće koristiš?",
         "reading": "B: ක්ඔය්එ ෆ්උන්ක්ත්ස්ඉය්එ අප්ල්ඉක්අත්ස්ඉය්එ න්අය්ච්එෂ්ච්එ ක්ඔර්ඉස්ත්ඉෂ්?",
-        "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
+        "si": "ඔබ බොහෝවිට භාවිත කරන යෙදුමේ විශේෂාංග මොනවාද?"
       },
       {
         "sr": "A: Najviše mi pomažu podsetnici i kalendar za organizaciju obaveza.",
@@ -4027,7 +4027,7 @@ export const SERBIAN_B1_LESSONS = [
       {
         "sr": "B: Koliko novca želiš da uštediš svakog meseca?",
         "reading": "B: ක්ඔල්ඉක්ඔ න්ඔව්ත්ස්අ ෂ්එල්ඉෂ් ද්අ උෂ්ත්එද්ඉෂ් ස්ව්අක්ඔග් ම්එස්එත්ස්අ?",
-        "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
+        "si": "සෑම මාසයකම ඔබ කොපමණ මුදලක් ඉතිරි කිරීමට කැමතිද?"
       },
       {
         "sr": "A: Odrediću realan iznos i automatski ga odvajati od plate.",
@@ -4205,7 +4205,7 @@ export const SERBIAN_B1_LESSONS = [
       {
         "sr": "B: Kako organizuješ odmor kada imaš mnogo obaveza?",
         "reading": "B: ක්අක්ඔ ඔර්ග්අන්ඉස්උය්එෂ් ඔද්ම්ඔර් ක්අද්අ ඉම්අෂ් ම්න්ඔග්ඔ ඔබ්අව්එස්අ?",
-        "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
+        "si": "බොහෝ වගකීම් තිබෙන විට ඔබ විවේකය සංවිධානය කරගන්නේ කෙසේද?"
       },
       {
         "sr": "A: Pokušavam da idem na spavanje u isto vreme i da pravim kratke pauze.",
@@ -4383,7 +4383,7 @@ export const SERBIAN_B1_LESSONS = [
       {
         "sr": "B: Koji običaj ti je posebno važan?",
         "reading": "B: ක්ඔය්ඉ ඔබ්ඉච්අය් ත්ඉ ය්එ ප්ඔස්එබ්න්ඔ ව්අෂ්අන්?",
-        "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
+        "si": "ඔබට විශේෂයෙන් වැදගත් සම්ප්‍රදාය කුමක්ද?"
       },
       {
         "sr": "A: Porodična okupljanja su važna jer nas povezuju sa starijim generacijama.",
@@ -4561,7 +4561,7 @@ export const SERBIAN_B1_LESSONS = [
       {
         "sr": "B: Koju veštinu iz svog iskustva možeš da predstaviš poslodavcu?",
         "reading": "B: ක්ඔය්උ ව්එෂ්ත්ඉන්උ ඉස් ස්ව්ඔග් ඉස්ක්උස්ත්ව්අ ම්ඔෂ්එෂ් ද්අ ප්ර්එද්ස්ත්අව්ඉෂ් ප්ඔස්ල්ඔද්අව්ත්ස්උ?",
-        "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
+        "si": "ඔබගේ අත්දැකීම්වලින් සේවායෝජකයෙකුට ඉදිරිපත් කළ හැකි කුසලතාව කුමක්ද?"
       },
       {
         "sr": "A: Naučio sam da komuniciram sa kupcima i rešavam njihove probleme.",
@@ -4739,7 +4739,7 @@ export const SERBIAN_B1_LESSONS = [
       {
         "sr": "B: Kako možemo da rešimo neslaganje na sastanku?",
         "reading": "B: ක්අක්ඔ ම්ඔෂ්එම්ඔ ද්අ ර්එෂ්ඉම්ඔ න්එස්ල්අග්අන්‍යඑ න්අ ස්අස්ත්අන්ක්උ?",
-        "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
+        "si": "රැස්වීමකදී මතභේදයක් විසඳාගන්නේ කෙසේද?"
       },
       {
         "sr": "A: Predlažem da svako iznese svoje razloge, a zatim da potražimo kompromis.",
@@ -4917,7 +4917,7 @@ export const SERBIAN_B1_LESSONS = [
       {
         "sr": "B: Koje izvore koristiš da proveriš da li je vest pouzdana?",
         "reading": "B: ක්ඔය්එ ඉස්ව්ඔර්එ ක්ඔර්ඉස්ත්ඉෂ් ද්අ ප්ර්ඔව්එර්ඉෂ් ද්අ ල්ඉ ය්එ ව්එස්ත් ප්ඔඋස්ද්අන්අ?",
-        "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
+        "si": "පුවතක් විශ්වාසදායකදැයි පරීක්ෂා කිරීමට ඔබ භාවිත කරන මූලාශ්‍ර මොනවාද?"
       },
       {
         "sr": "A: Upoređujem više pouzdanih medija i proveravam datum objave.",
@@ -5095,7 +5095,7 @@ export const SERBIAN_B1_LESSONS = [
       {
         "sr": "B: Šta bi prvo želeo da posetiš u tom gradu?",
         "reading": "B: ෂ්ත්අ බ්ඉ ප්ර්ව්ඔ ෂ්එල්එඔ ද්අ ප්ඔස්එත්ඉෂ් උ ත්ඔම් ග්ර්අද්උ?",
-        "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
+        "si": "එම නගරයේ මුලින්ම නැරඹීමට ඔබ කැමති ස්ථානය කුමක්ද?"
       },
       {
         "sr": "A: Voleo bih da obiđem stari centar i probam lokalnu hranu.",
@@ -5273,7 +5273,7 @@ export const SERBIAN_B1_LESSONS = [
       {
         "sr": "B: Šta ti je najviše pomoglo da se navikneš na novi grad?",
         "reading": "B: ෂ්ත්අ ත්ඉ ය්එ න්අය්ව්ඉෂ්එ ප්ඔම්ඔග්ල්ඔ ද්අ ස්එ න්අව්ඉක්න්එෂ් න්අ න්ඔව්ඉ ග්ර්අද්?",
-        "si": "එය ගැන තව විස්තර කියන්න පුළුවන්ද?"
+        "si": "නව නගරයට හුරු වීමට ඔබට වැඩියෙන්ම උපකාරී වූයේ කුමක්ද?"
       },
       {
         "sr": "A: Upoznao sam komšije i naučio gde se nalaze važne službe.",
