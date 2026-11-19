@@ -448,7 +448,8 @@ export default function App(){
  const [b1ExamSubmitted,setB1ExamSubmitted]=useState(false);
  const [b2ExamSubmitted,setB2ExamSubmitted]=useState(false);
  const [c1ExamSubmitted,setC1ExamSubmitted]=useState(false);
- useEffect(()=>{setB1ExamSubmitted(false);setB2ExamSubmitted(false);setC1ExamSubmitted(false);},[language]);
+ const [c2ExamSubmitted,setC2ExamSubmitted]=useState(false);
+ useEffect(()=>{setB1ExamSubmitted(false);setB2ExamSubmitted(false);setC1ExamSubmitted(false);setC2ExamSubmitted(false);},[language]);
  const [lessonChecked,setLessonChecked]=useState({});
  const [expandedLessonId,setExpandedLessonId]=useState(SERBIAN_A1_LESSONS[0]?.id||null);
  const [missionDone,setMissionDone]=useState([]);
