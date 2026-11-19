@@ -41,6 +41,9 @@ export const COURSE_LEVELS = [
 // A1 lesson-content milestone. This is an internal project status, not a CEFR certification.
 export const A1_COURSE_STATUS = {
   plannedLessons: 50,
+  authoredLessons: { Serbian: 50, English: 50 },
+  pairedTopics: true,
+  remainingLessons: 0,
   lessonSequenceAdded: true,
   finalListeningExams: { Serbian: 20, English: 20 },
   passThresholdPercent: 70,
@@ -58,6 +61,15 @@ export const LESSON_METHOD = [
   "නැවත මතක් කිරීම සහ පාඩම් ප්‍රශ්න"
 ];
 
+
+// A2 paired lesson milestone: all 50 lessons are authored in both language tracks.
+export const A2_COURSE_STATUS = {
+  plannedLessons: 50,
+  authoredLessons: { Serbian: 50, English: 50 },
+  pairedTopics: true,
+  remainingLessons: 0,
+  remainingValidation: ["review Serbian and English example sentences and Sinhala translations", "review approximate Sinhala-script pronunciation", "review A2 revision and final assessment answer alignment", "CI and Android device verification"]
+};
 
 // B1 lesson-content milestone. All 50 paired lessons are authored; cumulative assessment and final validation remain.
 export const B1_COURSE_STATUS = {
@@ -83,11 +95,12 @@ export const B2_COURSE_STATUS = {
 // C1 paired lesson milestone. First ten lessons are authored in both languages.
 export const C1_COURSE_STATUS = {
   plannedLessons: 50,
-  authoredLessons: { Serbian: 10, English: 10 },
+  authoredLessons: { Serbian: 50, English: 50 },
   pairedTopics: true,
-  remainingLessons: 40,
-  completedBatch: "lessons 1-10 in both languages",
-  remainingValidation: ["fluent-speaker review of Serbian and English phrasing", "review Sinhala pronunciation and translations", "add lessons 11-50 and cumulative C1 assessments", "CI and Android device verification"]
+  remainingLessons: 0,
+  completedBatch: "lessons 1-50 in both languages",
+  completedAssessments: true,
+  remainingValidation: ["fluent-speaker review of Serbian and English phrasing", "review Sinhala pronunciation and translations", "review C1 assessment answer alignment and distractors", "CI and Android device verification"]
 };
 
 
@@ -132,7 +145,7 @@ export const C1_BATCH_41_50_STATUS = {
   lessons: { Serbian: 50, English: 50 },
   pairedLessons: 50,
   totalAuthoredC1Records: 100,
-  nextTask: "Cumulative C1 revision and scored practice final assessment for both languages",
+  nextTask: "Fluent-speaker and Sinhala-language QA; verify Android device behavior",
   remainingC1Lessons: 0,
   remainingValidation: ["fluent Serbian and English editorial review", "review Sinhala translations and approximate pronunciation readings", "review final assessment answer alignment and distractors", "CI and Android device verification"]
 };
@@ -204,7 +217,7 @@ export const C2_COMPLETION_STATUS = {
   pairedLessons: 50,
   totalC2Records: 100,
   nextWork: "Review advanced Serbian and English naturalness, Sinhala pronunciation and translations; verify CI and Android device behavior",
-  remaining: ["cumulative revision and final practice assessments", "fluent-speaker review of advanced Serbian and English nuance", "review Sinhala-script pronunciation and translations", "CI, Expo build and Android device verification"]
+  remaining: ["fluent-speaker review of advanced Serbian and English nuance", "review Sinhala-script pronunciation and translations", "CI, Expo build and Android device verification"]
 };
 
 
