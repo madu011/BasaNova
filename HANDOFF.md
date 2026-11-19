@@ -859,3 +859,18 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 2. Rewrite practice item 4 in both tracks so the question, options, correct answer and explanation accurately test the revised B line; ensure the English and Serbian tracks remain paired.
 3. Replace repeated generic examples in lessons 31–50 with topic-specific examples and matching translations/readings, then run structural and duplicate-content checks.
 4. Finish Android APK run `44565978458`; Expo validation run `44565978392` passed. If APK succeeds, inspect artifact and test installation/runtime on Android.
+
+
+## 2026-11-19 — Serbian and English B1 lessons 31–50 dialogue/quiz alignment
+- Rewrote the B/A follow-up lines in all 20 paired lessons (31–50) so the responses are topic-specific rather than repeated generic lines.
+- Replaced practice item 4 in both language tracks with a question that checks the new dialogue response, matching answer choices and explanation. Kept lesson IDs, ordering, vocabulary, grammar, and listening source sentence unchanged.
+- Local structural checks passed: 20/20 paired lessons have four dialogue lines and valid three-option practice items with a valid correct-answer index.
+- Serbian content commit: `bc0646a1947f3b781833bca9637d98d6a073b418`.
+- English content commit: `d23b5fadffa29ae88f9f42b7045aac9f03288db6`.
+- The repeated generic example sentences in lessons 31–50 remain to be replaced. Existing reading/pronunciation aids for rewritten dialogue lines need linguistic review; this pass prioritized accurate language and answer alignment.
+
+### Next exact task
+1. Replace repeated generic examples in Serbian and English B1 lessons 31–50 with topic-specific example sentences and matching Sinhala meanings.
+2. Review pronunciation guides for the newly edited dialogue lines; do not treat source-level checks as proof of pronunciation quality.
+3. Check the Expo validation and Android APK build runs triggered by commits `bc0646a` and `d23b5fa`; only share an APK link if a successful artifact is confirmed.
+4. Continue auditing repeated practice/dialogue patterns in lessons 11–30.
