@@ -76,3 +76,11 @@ GitHub Actions Android debug APK build run [44552002628](https://github.com/madu
 - Pronunciation string scan: Serbian 1,112 and English 1,268 reading/exampleReading fields; no mixed Latin/Cyrillic script or missing Sinhala-script readings detected by the scan.
 - QA script now also checks Sinhala-script vocabulary pronunciation and example/dialogue source + Sinhala meaning fields. Full automated execution remains pending; static scan only.
 - Serbian and English lesson IDs have different unit progressions despite both containing 39 lessons, so equal lesson counts must not be described as full topic alignment.
+
+
+## 2026-11-19 — English A1 first-ten lesson alignment
+- Reordered English A1 lessons 1–10 to follow the same topic progression as Serbian A1: greetings, responses, café ordering, numbers/time, shopping, workplace communication, jobs/professions, directions/transport, appointment and transport schedules, accommodation/daily services.
+- Added beginner English lesson 7 (jobs/professions) and lesson 9 (appointment times and transport schedules), with Sinhala meanings, Sinhala-script pronunciation, examples, dialogues, listening prompts, and practice.
+- Kept a separate lesson 11 for more detailed café ordering, so the existing progression after lesson 10 is preserved.
+- English A1 now has 50 lessons, 50 unique IDs, continuous title numbers 1–50, and no duplicate lesson numbers in a static source audit. Serbian A1 also has 50 unique IDs and continuous title numbers 1–50.
+- Added `validateLessonNumbering` to `scripts/content-qa.mjs` so future content QA checks continuous numbering. The full QA script has not yet been executed because GitHub Actions remains blocked by the account billing/usage restriction; this is static source inspection only.
