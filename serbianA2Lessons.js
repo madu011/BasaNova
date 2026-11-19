@@ -10,57 +10,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "ustajem",
         "reading": "උස්තායෙම්",
         "meaning": "මම නැගිටිනවා",
-        "example": "ustajem",
-        "translation": "මම නැගිටිනවා"
+        "example": "Ustajem u sedam.",
+        "translation": "මම හතට නැගිටිනවා.",
+        "exampleReading": "උස්තායෙම් උ සේදාම්."
       },
       {
         "word": "doručak",
         "reading": "දොරූචක්",
         "meaning": "උදෑසන ආහාරය",
-        "example": "doručak",
-        "translation": "උදෑසන ආහාරය"
+        "example": "Ustajem u sedam.",
+        "translation": "මම හතට නැගිටිනවා.",
+        "exampleReading": "උස්තායෙම් උ සේදාම්."
       },
       {
         "word": "svakog dana",
         "reading": "ස්වාකොග් දනා",
         "meaning": "හැමදාම",
-        "example": "svakog dana",
-        "translation": "හැමදාම"
+        "example": "Kada počinješ da radiš?",
+        "translation": "ඔයා වැඩ පටන් ගන්නේ කවදාද?",
+        "exampleReading": "කාදා පොචින්යෙෂ් දා රාදිෂ්?"
       },
       {
         "word": "obično",
         "reading": "ඔබිච්නො",
         "meaning": "සාමාන්‍යයෙන්",
-        "example": "obično",
-        "translation": "සාමාන්‍යයෙන්"
+        "example": "U koliko sati ustaješ?",
+        "translation": "ඔයා කීයටද නැගිටින්නේ?",
+        "exampleReading": "උ කොලිකො සාති උස්තායෙෂ්?"
       },
       {
         "word": "počinjem",
         "reading": "පොචින්යෙම්",
         "meaning": "මම පටන් ගන්නවා",
-        "example": "počinjem",
-        "translation": "මම පටන් ගන්නවා"
+        "example": "Ustajem u sedam.",
+        "translation": "මම හතට නැගිටිනවා.",
+        "exampleReading": "උස්තායෙම් උ සේදාම්."
       },
       {
         "word": "završavam",
         "reading": "සව්ර්ෂාවාම්",
         "meaning": "මම අවසන් කරනවා",
-        "example": "završavam",
-        "translation": "මම අවසන් කරනවා"
+        "example": "Kada počinješ da radiš?",
+        "translation": "ඔයා වැඩ පටන් ගන්නේ කවදාද?",
+        "exampleReading": "කාදා පොචින්යෙෂ් දා රාදිෂ්?"
       },
       {
         "word": "uveče",
         "reading": "උවෙචෙ",
         "meaning": "සවසට",
-        "example": "uveče",
-        "translation": "සවසට"
+        "example": "U koliko sati ustaješ?",
+        "translation": "ඔයා කීයටද නැගිටින්නේ?",
+        "exampleReading": "උ කොලිකො සාති උස්තායෙෂ්?"
       },
       {
         "word": "odmaram se",
         "reading": "ඔද්මරාම් සේ",
         "meaning": "මම විවේක ගන්නවා",
-        "example": "odmaram se",
-        "translation": "මම විවේක ගන්නවා"
+        "example": "Ustajem u sedam.",
+        "translation": "මම හතට නැගිටිනවා.",
+        "exampleReading": "උස්තායෙම් උ සේදාම්."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -175,57 +183,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "stan",
         "reading": "ස්තාන්",
         "meaning": "මහල් නිවාසය",
-        "example": "stan",
-        "translation": "මහල් නිවාසය"
+        "example": "Da li je stan slobodan?",
+        "translation": "මහල් නිවාසය හිස්ද?",
+        "exampleReading": "දා ලි යේ ස්තාන් ස්ලොබොදාන්?"
       },
       {
         "word": "soba",
         "reading": "සොබා",
         "meaning": "කාමරය",
-        "example": "soba",
-        "translation": "කාමරය"
+        "example": "Da, ima jednu sobu i kuhinju.",
+        "translation": "ඔව්, කාමරයක් සහ මුළුතැන්ගෙයක් තියෙනවා.",
+        "exampleReading": "දා, ඉමා යෙද්නු සොබු ඉ කුහින්යු."
       },
       {
         "word": "kuhinja",
         "reading": "කුහින්යා",
         "meaning": "මුළුතැන්ගෙය",
-        "example": "kuhinja",
-        "translation": "මුළුතැන්ගෙය"
+        "example": "Kolika je kirija?",
+        "translation": "කුලිය කීයද?",
+        "exampleReading": "කොලිකා යේ කිරියා?"
       },
       {
         "word": "kupatilo",
         "reading": "කුපාතිලො",
         "meaning": "නාන කාමරය",
-        "example": "kupatilo",
-        "translation": "නාන කාමරය"
+        "example": "Da li je stan slobodan?",
+        "translation": "මහල් නිවාසය හිස්ද?",
+        "exampleReading": "දා ලි යේ ස්තාන් ස්ලොබොදාන්?"
       },
       {
         "word": "kirija",
         "reading": "කිරියා",
         "meaning": "කුලිය",
-        "example": "kirija",
-        "translation": "කුලිය"
+        "example": "Kolika je kirija?",
+        "translation": "කුලිය කීයද?",
+        "exampleReading": "කොලිකා යේ කිරියා?"
       },
       {
         "word": "račun",
         "reading": "රාචුන්",
         "meaning": "බිල",
-        "example": "račun",
-        "translation": "බිල"
+        "example": "Kolika je kirija?",
+        "translation": "කුලිය කීයද?",
+        "exampleReading": "කොලිකා යේ කිරියා?"
       },
       {
         "word": "nameštaj",
         "reading": "නමෙෂ්තායි",
         "meaning": "ගෘහ භාණ්ඩ",
-        "example": "nameštaj",
-        "translation": "ගෘහ භාණ්ඩ"
+        "example": "Da li je stan slobodan?",
+        "translation": "මහල් නිවාසය හිස්ද?",
+        "exampleReading": "දා ලි යේ ස්තාන් ස්ලොබොදාන්?"
       },
       {
         "word": "iznajmiti",
         "reading": "ඉස්නයමිති",
         "meaning": "කුලියට ගන්න",
-        "example": "iznajmiti",
-        "translation": "කුලියට ගන්න"
+        "example": "Da, ima jednu sobu i kuhinju.",
+        "translation": "ඔව්, කාමරයක් සහ මුළුතැන්ගෙයක් තියෙනවා.",
+        "exampleReading": "දා, ඉමා යෙද්නු සොබු ඉ කුහින්යු."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -340,57 +356,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "zakazati",
         "reading": "සාකාසාති",
         "meaning": "වෙන්කරගන්න",
-        "example": "zakazati",
-        "translation": "වෙන්කරගන්න"
+        "example": "Želim da zakažem pregled.",
+        "translation": "මට වෛද්‍ය පරීක්ෂාවක් වෙන්කරගන්න ඕනේ.",
+        "exampleReading": "ෂෙලිම් දා සාකාෂෙම් ප්‍රෙග්ලෙද්."
       },
       {
         "word": "pregled",
         "reading": "ප්‍රෙග්ලෙද්",
         "meaning": "වෛද්‍ය පරීක්ෂාව",
-        "example": "pregled",
-        "translation": "වෛද්‍ය පරීක්ෂාව"
+        "example": "Želim da zakažem pregled.",
+        "translation": "මට වෛද්‍ය පරීක්ෂාවක් වෙන්කරගන්න ඕනේ.",
+        "exampleReading": "ෂෙලිම් දා සාකාෂෙම් ප්‍රෙග්ලෙද්."
       },
       {
         "word": "apoteka",
         "reading": "අපොතෙකා",
         "meaning": "ඖෂධහල",
-        "example": "apoteka",
-        "translation": "ඖෂධහල"
+        "example": "Sutra u deset sati.",
+        "translation": "හෙට දහයට.",
+        "exampleReading": "සුත්‍රා උ දෙසෙත් සාති."
       },
       {
         "word": "simptom",
         "reading": "සිම්ප්තොම්",
         "meaning": "රෝග ලක්ෂණය",
-        "example": "simptom",
-        "translation": "රෝග ලක්ෂණය"
+        "example": "Želim da zakažem pregled.",
+        "translation": "මට වෛද්‍ය පරීක්ෂාවක් වෙන්කරගන්න ඕනේ.",
+        "exampleReading": "ෂෙලිම් දා සාකාෂෙම් ප්‍රෙග්ලෙද්."
       },
       {
         "word": "temperatura",
         "reading": "තෙම්පෙරාතුරා",
         "meaning": "උණ / උෂ්ණත්වය",
-        "example": "temperatura",
-        "translation": "උණ / උෂ්ණත්වය"
+        "example": "Kada vam odgovara?",
+        "translation": "ඔබට කවදාද පහසු?",
+        "exampleReading": "කාදා වාම් ඔද්ගොවාරා?"
       },
       {
         "word": "boli me",
         "reading": "බොලි මෙ",
         "meaning": "මට රිදෙනවා",
-        "example": "boli me",
-        "translation": "මට රිදෙනවා"
+        "example": "Sutra u deset sati.",
+        "translation": "හෙට දහයට.",
+        "exampleReading": "සුත්‍රා උ දෙසෙත් සාති."
       },
       {
         "word": "odmor",
         "reading": "ඔද්මොර්",
         "meaning": "විවේකය",
-        "example": "odmor",
-        "translation": "විවේකය"
+        "example": "Želim da zakažem pregled.",
+        "translation": "මට වෛද්‍ය පරීක්ෂාවක් වෙන්කරගන්න ඕනේ.",
+        "exampleReading": "ෂෙලිම් දා සාකාෂෙම් ප්‍රෙග්ලෙද්."
       },
       {
         "word": "zdravstvena knjižica",
         "reading": "ස්ද්‍රාව්ස්ත්වෙනා ක්නියිෂිත්සා",
         "meaning": "සෞඛ්‍ය කාඩ්පත",
-        "example": "zdravstvena knjižica",
-        "translation": "සෞඛ්‍ය කාඩ්පත"
+        "example": "Kada vam odgovara?",
+        "translation": "ඔබට කවදාද පහසු?",
+        "exampleReading": "කාදා වාම් ඔද්ගොවාරා?"
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -505,57 +529,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "sm ena",
         "reading": "ස්මෙනා",
         "meaning": "වැඩ මුරය",
-        "example": "sm ena",
-        "translation": "වැඩ මුරය"
+        "example": "Koju smenu radiš u petak?",
+        "translation": "ඔයා සිකුරාදා කුමන වැඩ මුරයද කරන්නේ?",
+        "exampleReading": "කොයු ස්මෙනු රාදිෂ් උ පෙතාක්?"
       },
       {
         "word": "raspored",
         "reading": "රාස්පොරෙද්",
         "meaning": "කාලසටහන",
-        "example": "raspored",
-        "translation": "කාලසටහන"
+        "example": "Radim večernju smenu.",
+        "translation": "මම සවස වැඩ මුරය කරනවා.",
+        "exampleReading": "රාදිම් වෙචෙර්න්යු ස්මෙනු."
       },
       {
         "word": "kolega",
         "reading": "කොලෙගා",
         "meaning": "සහ සේවකයා",
-        "example": "kolega",
-        "translation": "සහ සේවකයා"
+        "example": "Možemo li da zamenimo smene?",
+        "translation": "අපිට වැඩ මුර මාරු කරගන්න පුළුවන්ද?",
+        "exampleReading": "මොෂෙමො ලි දා සාමෙнимо ස්මෙನೆ?"
       },
       {
         "word": "slobodan dan",
         "reading": "ස්ලොබොදාන් දාන්",
         "meaning": "නිවාඩු දිනය",
-        "example": "slobodan dan",
-        "translation": "නිවාඩු දිනය"
+        "example": "Koju smenu radiš u petak?",
+        "translation": "ඔයා සිකුරාදා කුමන වැඩ මුරයද කරන්නේ?",
+        "exampleReading": "කොයු ස්මෙනු රාදිෂ් උ පෙතාක්?"
       },
       {
         "word": "prekovremeno",
         "reading": "ප්‍රෙකොව්‍රෙමෙно",
         "meaning": "අතිකාල",
-        "example": "prekovremeno",
-        "translation": "අතිකාල"
+        "example": "Radim večernju smenu.",
+        "translation": "මම සවස වැඩ මුරය කරනවා.",
+        "exampleReading": "රාදිම් වෙචෙර්න්යු ස්මෙනු."
       },
       {
         "word": "plata",
         "reading": "ප්ලාතා",
         "meaning": "වැටුප",
-        "example": "plata",
-        "translation": "වැටුප"
+        "example": "Možemo li da zamenimo smene?",
+        "translation": "අපිට වැඩ මුර මාරු කරගන්න පුළුවන්ද?",
+        "exampleReading": "මොෂෙමො ලි දා සාමෙнимо ස්මෙನೆ?"
       },
       {
         "word": "zamena",
         "reading": "සාමෙනා",
         "meaning": "මාරුව / ආදේශය",
-        "example": "zamena",
-        "translation": "මාරුව / ආදේශය"
+        "example": "Koju smenu radiš u petak?",
+        "translation": "ඔයා සිකුරාදා කුමන වැඩ මුරයද කරන්නේ?",
+        "exampleReading": "කොයු ස්මෙනු රාදිෂ් උ පෙතාක්?"
       },
       {
         "word": "dogovoriti se",
         "reading": "දොගොවොරිති සේ",
         "meaning": "එකඟතාවයකට එන්න",
-        "example": "dogovoriti se",
-        "translation": "එකඟතාවයකට එන්න"
+        "example": "Radim večernju smenu.",
+        "translation": "මම සවස වැඩ මුරය කරනවා.",
+        "exampleReading": "රාදිම් වෙචෙර්න්යු ස්මෙනු."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -670,57 +702,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "juče",
         "reading": "යූචෙ",
         "meaning": "ඊයේ",
-        "example": "juče",
-        "translation": "ඊයේ"
+        "example": "Šta si radio juče?",
+        "translation": "ඔයා ඊයේ මොනවාද කළේ?",
+        "exampleReading": "ෂ්තා සී රාදියො යූචෙ?"
       },
       {
         "word": "prošle nedelje",
         "reading": "ප්‍රොෂ්ලෙ නෙදෙල්යෙ",
         "meaning": "ගිය සතියේ",
-        "example": "prošle nedelje",
-        "translation": "ගිය සතියේ"
+        "example": "Radio sam ujutru, a posle sam odmarao.",
+        "translation": "මම උදේ වැඩ කළා, පස්සේ විවේක ගත්තා.",
+        "exampleReading": "රාදියො සාම් උයුත්‍රු, අ පොස්ලෙ සාම් ඔද්මරාඔ."
       },
       {
         "word": "radio sam",
         "reading": "රාදියො සාම්",
         "meaning": "මම වැඩ කළා (පුරුෂ)",
-        "example": "radio sam",
-        "translation": "මම වැඩ කළා (පුරුෂ)"
+        "example": "Radio sam ujutru, a posle sam odmarao.",
+        "translation": "මම උදේ වැඩ කළා, පස්සේ විවේක ගත්තා.",
+        "exampleReading": "රාදියො සාම් උයුත්‍රු, අ පොස්ලෙ සාම් ඔද්මරාඔ."
       },
       {
         "word": "radila sam",
         "reading": "රාදිලා සාම්",
         "meaning": "මම වැඩ කළා (ස්ත්‍රී)",
-        "example": "radila sam",
-        "translation": "මම වැඩ කළා (ස්ත්‍රී)"
+        "example": "Šta si radio juče?",
+        "translation": "ඔයා ඊයේ මොනවාද කළේ?",
+        "exampleReading": "ෂ්තා සී රාදියො යූචෙ?"
       },
       {
         "word": "bio sam",
         "reading": "බියො සාම්",
         "meaning": "මම හිටියා (පුරුෂ)",
-        "example": "bio sam",
-        "translation": "මම හිටියා (පුරුෂ)"
+        "example": "Radio sam ujutru, a posle sam odmarao.",
+        "translation": "මම උදේ වැඩ කළා, පස්සේ විවේක ගත්තා.",
+        "exampleReading": "රාදියො සාම් උයුත්‍රු, අ පොස්ලෙ සාම් ඔද්මරාඔ."
       },
       {
         "word": "bila sam",
         "reading": "බිලා සාම්",
         "meaning": "මම හිටියා (ස්ත්‍රී)",
-        "example": "bila sam",
-        "translation": "මම හිටියා (ස්ත්‍රී)"
+        "example": "Da li si išao u prodavnicu?",
+        "translation": "ඔයා කඩයට ගියාද?",
+        "exampleReading": "දා ලි සී ඉෂාඔ උ ප්‍රොදාව්නිත්සු?"
       },
       {
         "word": "video sam",
         "reading": "විදෙඔ සාම්",
         "meaning": "මම දැක්කා (පුරුෂ)",
-        "example": "video sam",
-        "translation": "මම දැක්කා (පුරුෂ)"
+        "example": "Šta si radio juče?",
+        "translation": "ඔයා ඊයේ මොනවාද කළේ?",
+        "exampleReading": "ෂ්තා සී රාදියො යූචෙ?"
       },
       {
         "word": "kupio sam",
         "reading": "කුපියො සාම්",
         "meaning": "මම මිලදී ගත්තා (පුරුෂ)",
-        "example": "kupio sam",
-        "translation": "මම මිලදී ගත්තා (පුරුෂ)"
+        "example": "Radio sam ujutru, a posle sam odmarao.",
+        "translation": "මම උදේ වැඩ කළා, පස්සේ විවේක ගත්තා.",
+        "exampleReading": "රාදියො සාම් උයුත්‍රු, අ පොස්ලෙ සාම් ඔද්මරාඔ."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -835,57 +875,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "plan",
         "reading": "ප්ලාන්",
         "meaning": "සැලැස්ම",
-        "example": "plan",
-        "translation": "සැලැස්ම"
+        "example": "Šta planiraš za vikend?",
+        "translation": "සති අන්තයට මොනවාද සැලසුම් කරන්නේ?",
+        "exampleReading": "ෂ්තා ප්ලනිරාෂ් සා වි켄ද්?"
       },
       {
         "word": "pozvati",
         "reading": "පොස්වති",
         "meaning": "ආරාධනා කරනවා",
-        "example": "pozvati",
-        "translation": "ආරාධනා කරනවා"
+        "example": "Planiram da idem u centar.",
+        "translation": "මම නගර මධ්‍යයට යන්න සැලසුම් කරනවා.",
+        "exampleReading": "ප්ලනිරාම් දා ඉදෙම් උ චෙන්තාර්."
       },
       {
         "word": "dogovor",
         "reading": "දොගොවොර්",
         "meaning": "එකඟතාව / සැලසුම",
-        "example": "dogovor",
-        "translation": "එකඟතාව / සැලසුම"
+        "example": "Hoćeš li na kafu večeras?",
+        "translation": "අද සවස කෝපි බොන්න යමුද?",
+        "exampleReading": "හොචෙෂ් ලි නා කාෆු වෙචෙරාස්?"
       },
       {
         "word": "slobodan",
         "reading": "ස්ලොබොදාන්",
         "meaning": "නිදහස් / හිස්",
-        "example": "slobodan",
-        "translation": "නිදහස් / හිස්"
+        "example": "Šta planiraš za vikend?",
+        "translation": "සති අන්තයට මොනවාද සැලසුම් කරන්නේ?",
+        "exampleReading": "ෂ්තා ප්ලනිරාෂ් සා වි켄ද්?"
       },
       {
         "word": "večeras",
         "reading": "වෙචෙරාස්",
         "meaning": "අද සවස",
-        "example": "večeras",
-        "translation": "අද සවස"
+        "example": "Hoćeš li na kafu večeras?",
+        "translation": "අද සවස කෝපි බොන්න යමුද?",
+        "exampleReading": "හොචෙෂ් ලි නා කාෆු වෙචෙරාස්?"
       },
       {
         "word": "možda",
         "reading": "මොෂ්දා",
         "meaning": "සමහරවිට",
-        "example": "možda",
-        "translation": "සමහරවිට"
+        "example": "Hoćeš li na kafu večeras?",
+        "translation": "අද සවස කෝපි බොන්න යමුද?",
+        "exampleReading": "හොචෙෂ් ලි නා කාෆු වෙචෙරාස්?"
       },
       {
         "word": "sigurno",
         "reading": "සිගුර්නො",
         "meaning": "නිසැකවම",
-        "example": "sigurno",
-        "translation": "නිසැකවම"
+        "example": "Šta planiraš za vikend?",
+        "translation": "සති අන්තයට මොනවාද සැලසුම් කරන්නේ?",
+        "exampleReading": "ෂ්තා ප්ලනිරාෂ් සා වි켄ද්?"
       },
       {
         "word": "vidimo se",
         "reading": "විදිමො සේ",
         "meaning": "අපි හමුවෙමු",
-        "example": "vidimo se",
-        "translation": "අපි හමුවෙමු"
+        "example": "Planiram da idem u centar.",
+        "translation": "මම නගර මධ්‍යයට යන්න සැලසුම් කරනවා.",
+        "exampleReading": "ප්ලනිරාම් දා ඉදෙම් උ චෙන්තාර්."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -1000,57 +1048,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "cena",
         "reading": "ත්සේනා",
         "meaning": "මිල",
-        "example": "cena",
-        "translation": "මිල"
+        "example": "Koliko košta ova jakna?",
+        "translation": "මේ ජැකට් එක කීයද?",
+        "exampleReading": "කොලිකො කොෂ්තා ඔවා යාක්නා?"
       },
       {
         "word": "jeftin",
         "reading": "යෙෆ්තින්",
         "meaning": "ලාභ",
-        "example": "jeftin",
-        "translation": "ලාභ"
+        "example": "Ova je jeftinija od one.",
+        "translation": "මේක අරකට වඩා ලාභයි.",
+        "exampleReading": "ඔවා යේ යෙෆ්තිනියා ඔද් ඔනෙ."
       },
       {
         "word": "skup",
         "reading": "ස්කුප්",
         "meaning": "මිල අධික",
-        "example": "skup",
-        "translation": "මිල අධික"
+        "example": "Mogu li da zamenim veličinu?",
+        "translation": "මට ප්‍රමාණය මාරු කළ හැකිද?",
+        "exampleReading": "මොගු ලි දා සාමෙණිම් වෙලිචිනු?"
       },
       {
         "word": "veličina",
         "reading": "වෙලිචිනා",
         "meaning": "ප්‍රමාණය",
-        "example": "veličina",
-        "translation": "ප්‍රමාණය"
+        "example": "Koliko košta ova jakna?",
+        "translation": "මේ ජැකට් එක කීයද?",
+        "exampleReading": "කොලිකො කොෂ්තා ඔවා යාක්නා?"
       },
       {
         "word": "probati",
         "reading": "ප්‍රොබති",
         "meaning": "ඇඳලා / අත්හදා බලනවා",
-        "example": "probati",
-        "translation": "ඇඳලා / අත්හදා බලනවා"
+        "example": "Ova je jeftinija od one.",
+        "translation": "මේක අරකට වඩා ලාභයි.",
+        "exampleReading": "ඔවා යේ යෙෆ්තිනියා ඔද් ඔනෙ."
       },
       {
         "word": "račun",
         "reading": "රාචුන්",
         "meaning": "රිසිට්පත / බිල",
-        "example": "račun",
-        "translation": "රිසිට්පත / බිල"
+        "example": "Mogu li da zamenim veličinu?",
+        "translation": "මට ප්‍රමාණය මාරු කළ හැකිද?",
+        "exampleReading": "මොගු ලි දා සාමෙණිම් වෙලිචිනු?"
       },
       {
         "word": "zameniti",
         "reading": "සාමෙණිති",
         "meaning": "මාරු කරනවා",
-        "example": "zameniti",
-        "translation": "මාරු කරනවා"
+        "example": "Koliko košta ova jakna?",
+        "translation": "මේ ජැකට් එක කීයද?",
+        "exampleReading": "කොලිකො කොෂ්තා ඔවා යාක්නා?"
       },
       {
         "word": "popust",
         "reading": "පොපුස්ත්",
         "meaning": "වට්ටම",
-        "example": "popust",
-        "translation": "වට්ටම"
+        "example": "Ova je jeftinija od one.",
+        "translation": "මේක අරකට වඩා ලාභයි.",
+        "exampleReading": "ඔවා යේ යෙෆ්තිනියා ඔද් ඔනෙ."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -1165,57 +1221,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "putovanje",
         "reading": "පුතොවාන්යෙ",
         "meaning": "ගමන",
-        "example": "putovanje",
-        "translation": "ගමන"
+        "example": "Putujem u Novi Sad sutra.",
+        "translation": "මම හෙට නොවි සාද් යනවා.",
+        "exampleReading": "පුතුයෙම් උ නොවි සාද් සුත්‍රා."
       },
       {
         "word": "karta",
         "reading": "කාර්තා",
         "meaning": "ටිකට්පත",
-        "example": "karta",
-        "translation": "ටිකට්පත"
+        "example": "Koliko košta povratna karta?",
+        "translation": "ආපසු ටිකට්පත කීයද?",
+        "exampleReading": "කොලිකො කොෂ්තා පොව්‍රාත්නා කාර්තා?"
       },
       {
         "word": "povratna karta",
         "reading": "පොව්‍රාත්නා කාර්තා",
         "meaning": "ආපසු ටිකට්පත",
-        "example": "povratna karta",
-        "translation": "ආපසු ටිකට්පත"
+        "example": "Koliko košta povratna karta?",
+        "translation": "ආපසු ටිකට්පත කීයද?",
+        "exampleReading": "කොලිකො කොෂ්තා පොව්‍රාත්නා කාර්තා?"
       },
       {
         "word": "rezervisati",
         "reading": "රෙසෙර්විසති",
         "meaning": "වෙන්කරවා ගන්නවා",
-        "example": "rezervisati",
-        "translation": "වෙන්කරවා ගන්නවා"
+        "example": "Putujem u Novi Sad sutra.",
+        "translation": "මම හෙට නොවි සාද් යනවා.",
+        "exampleReading": "පුතුයෙම් උ නොවි සාද් සුත්‍රා."
       },
       {
         "word": "hotel",
         "reading": "හොතෙල්",
         "meaning": "හෝටලය",
-        "example": "hotel",
-        "translation": "හෝටලය"
+        "example": "Rezervisao sam sobu u hotelu.",
+        "translation": "මම හෝටලයේ කාමරයක් වෙන්කරගත්තා.",
+        "exampleReading": "රෙසෙර්විසාඔ සාම් සොබු උ හොතෙලු."
       },
       {
         "word": "prijava",
         "reading": "ප්‍රියාවා",
         "meaning": "ලියාපදිංචිය / check-in",
-        "example": "prijava",
-        "translation": "ලියාපදිංචිය / check-in"
+        "example": "Rezervisao sam sobu u hotelu.",
+        "translation": "මම හෝටලයේ කාමරයක් වෙන්කරගත්තා.",
+        "exampleReading": "රෙසෙර්විසාඔ සාම් සොබු උ හොතෙලු."
       },
       {
         "word": "polazak",
         "reading": "පොලාසක්",
         "meaning": "පිටත්වීම",
-        "example": "polazak",
-        "translation": "පිටත්වීම"
+        "example": "Putujem u Novi Sad sutra.",
+        "translation": "මම හෙට නොවි සාද් යනවා.",
+        "exampleReading": "පුතුයෙම් උ නොවි සාද් සුත්‍රා."
       },
       {
         "word": "dolazak",
         "reading": "දොලාසක්",
         "meaning": "පැමිණීම",
-        "example": "dolazak",
-        "translation": "පැමිණීම"
+        "example": "Koliko košta povratna karta?",
+        "translation": "ආපසු ටිකට්පත කීයද?",
+        "exampleReading": "කොලිකො කොෂ්තා පොව්‍රාත්නා කාර්තා?"
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -1330,57 +1394,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "problem",
         "reading": "ප්‍රොබ්ලෙම්",
         "meaning": "ගැටලුව",
-        "example": "problem",
-        "translation": "ගැටලුව"
+        "example": "Imam problem sa internetom.",
+        "translation": "මට අන්තර්ජාලය සම්බන්ධ ගැටලුවක් තියෙනවා.",
+        "exampleReading": "ඉමාම් ප්‍රොබ්ලෙම් සා ඉන්ටර්නෙතොම්."
       },
       {
         "word": "pomoć",
         "reading": "පොමොච්",
         "meaning": "උදව්",
-        "example": "pomoć",
-        "translation": "උදව්"
+        "example": "Možete li da mi pomognete?",
+        "translation": "ඔබට මට උදව් කරන්න පුළුවන්ද?",
+        "exampleReading": "මොෂෙතෙ ලි දා මි පොමොග්නෙතෙ?"
       },
       {
         "word": "pogrešno",
         "reading": "පොග්‍රෙෂ්නො",
         "meaning": "වැරදි ලෙස",
-        "example": "pogrešno",
-        "translation": "වැරදි ලෙස"
+        "example": "Račun je pogrešan.",
+        "translation": "බිල වැරදියි.",
+        "exampleReading": "රාචුන් යේ පොග්‍රෙෂාන්."
       },
       {
         "word": "nedostaje",
         "reading": "නෙදොස්තායේ",
         "meaning": "අඩුයි / නැහැ",
-        "example": "nedostaje",
-        "translation": "අඩුයි / නැහැ"
+        "example": "Imam problem sa internetom.",
+        "translation": "මට අන්තර්ජාලය සම්බන්ධ ගැටලුවක් තියෙනවා.",
+        "exampleReading": "ඉමාම් ප්‍රොබ්ලෙම් සා ඉන්ටර්නෙතොම්."
       },
       {
         "word": "popraviti",
         "reading": "පොප්‍රාවිති",
         "meaning": "අලුත්වැඩියා කරනවා",
-        "example": "popraviti",
-        "translation": "අලුත්වැඩියා කරනවා"
+        "example": "Možete li da mi pomognete?",
+        "translation": "ඔබට මට උදව් කරන්න පුළුවන්ද?",
+        "exampleReading": "මොෂෙතෙ ලි දා මි පොමොග්නෙතෙ?"
       },
       {
         "word": "račun",
         "reading": "රාචුන්",
         "meaning": "බිල",
-        "example": "račun",
-        "translation": "බිල"
+        "example": "Račun je pogrešan.",
+        "translation": "බිල වැරදියි.",
+        "exampleReading": "රාචුන් යේ පොග්‍රෙෂාන්."
       },
       {
         "word": "molim vas",
         "reading": "මොලිම් වාස්",
         "meaning": "කරුණාකර",
-        "example": "molim vas",
-        "translation": "කරුණාකර"
+        "example": "Imam problem sa internetom.",
+        "translation": "මට අන්තර්ජාලය සම්බන්ධ ගැටලුවක් තියෙනවා.",
+        "exampleReading": "ඉමාම් ප්‍රොබ්ලෙම් සා ඉන්ටර්නෙතොම්."
       },
       {
         "word": "moguće",
         "reading": "මොගුචෙ",
         "meaning": "හැකි",
-        "example": "moguće",
-        "translation": "හැකි"
+        "example": "Možete li da mi pomognete?",
+        "translation": "ඔබට මට උදව් කරන්න පුළුවන්ද?",
+        "exampleReading": "මොෂෙතෙ ලි දා මි පොමොග්නෙතෙ?"
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -1495,57 +1567,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "vreme",
         "reading": "ව්‍රෙමෙ",
         "meaning": "කාලගුණය / වේලාව",
-        "example": "vreme",
-        "translation": "කාලගුණය / වේලාව"
+        "example": "Kakvo je vreme danas?",
+        "translation": "අද කාලගුණය කොහොමද?",
+        "exampleReading": "කාක්වො යේ ව්‍රෙමෙ දනාස්?"
       },
       {
         "word": "sunčano",
         "reading": "සුන්චානො",
         "meaning": "අව්ව සහිත",
-        "example": "sunčano",
-        "translation": "අව්ව සහිත"
+        "example": "Danas je hladno i oblačno.",
+        "translation": "අද සීතලයි, වලාකුළු සහිතයි.",
+        "exampleReading": "දනාස් යේ හ්ලාද්නො ඉ ඔබ්ලාච්නො."
       },
       {
         "word": "oblačno",
         "reading": "ඔබ්ලාච්නො",
         "meaning": "වලාකුළු සහිත",
-        "example": "oblačno",
-        "translation": "වලාකුළු සහිත"
+        "example": "Danas je hladno i oblačno.",
+        "translation": "අද සීතලයි, වලාකුළු සහිතයි.",
+        "exampleReading": "දනාස් යේ හ්ලාද්නො ඉ ඔබ්ලාච්නො."
       },
       {
         "word": "kiša",
         "reading": "කිෂා",
         "meaning": "වැස්ස",
-        "example": "kiša",
-        "translation": "වැස්ස"
+        "example": "Kakvo je vreme danas?",
+        "translation": "අද කාලගුණය කොහොමද?",
+        "exampleReading": "කාක්වො යේ ව්‍රෙමෙ දනාස්?"
       },
       {
         "word": "hladno",
         "reading": "හ්ලාද්නො",
         "meaning": "සීතල",
-        "example": "hladno",
-        "translation": "සීතල"
+        "example": "Danas je hladno i oblačno.",
+        "translation": "අද සීතලයි, වලාකුළු සහිතයි.",
+        "exampleReading": "දනාස් යේ හ්ලාද්නො ඉ ඔබ්ලාච්නො."
       },
       {
         "word": "toplo",
         "reading": "තොප්ලො",
         "meaning": "උණුසුම්",
-        "example": "toplo",
-        "translation": "උණුසුම්"
+        "example": "Sledeće nedelje ću putovati.",
+        "translation": "ඊළඟ සතියේ මම ගමන් කරනවා.",
+        "exampleReading": "ස්ලෙදෙචෙ නෙදෙල්යෙ චු පුතොවාති."
       },
       {
         "word": "jakna",
         "reading": "යාක්නා",
         "meaning": "ජැකට් එක",
-        "example": "jakna",
-        "translation": "ජැකට් එක"
+        "example": "Kakvo je vreme danas?",
+        "translation": "අද කාලගුණය කොහොමද?",
+        "exampleReading": "කාක්වො යේ ව්‍රෙමෙ දනාස්?"
       },
       {
         "word": "sledeće nedelje",
         "reading": "ස්ලෙදෙචෙ නෙදෙල්යෙ",
         "meaning": "ඊළඟ සතියේ",
-        "example": "sledeće nedelje",
-        "translation": "ඊළඟ සතියේ"
+        "example": "Sledeće nedelje ću putovati.",
+        "translation": "ඊළඟ සතියේ මම ගමන් කරනවා.",
+        "exampleReading": "ස්ලෙදෙචෙ නෙදෙල්යෙ චු පුතොවාති."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -1660,57 +1740,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "jelovnik",
         "reading": "යෙලොව්නික්",
         "meaning": "මෙනුව",
-        "example": "jelovnik",
-        "translation": "මෙනුව"
+        "example": "Možete li da donesete jelovnik?",
+        "translation": "ඔබට මෙනුව ගෙන එන්න පුළුවන්ද?",
+        "exampleReading": "මොෂෙතෙ ලි දා දොනෙසෙතෙ යෙලොව්නික්?"
       },
       {
         "word": "poručiti",
         "reading": "පොරුචිති",
         "meaning": "ඇණවුම් කරනවා",
-        "example": "poručiti",
-        "translation": "ඇණවුම් කරනවා"
+        "example": "Želeo bih pileću salatu.",
+        "translation": "මට කුකුළු මස් සලාදයක් ඕනේ.",
+        "exampleReading": "ෂෙලෙඔ බිහ් පිලෙචු සලාතු."
       },
       {
         "word": "jelo",
         "reading": "යෙලො",
         "meaning": "කෑම",
-        "example": "jelo",
-        "translation": "කෑම"
+        "example": "Možete li da donesete jelovnik?",
+        "translation": "ඔබට මෙනුව ගෙන එන්න පුළුවන්ද?",
+        "exampleReading": "මොෂෙතෙ ලි දා දොනෙසෙතෙ යෙලොව්නික්?"
       },
       {
         "word": "piće",
         "reading": "පිචෙ",
         "meaning": "පානය",
-        "example": "piće",
-        "translation": "පානය"
+        "example": "Možete li da donesete jelovnik?",
+        "translation": "ඔබට මෙනුව ගෙන එන්න පුළුවන්ද?",
+        "exampleReading": "මොෂෙතෙ ලි දා දොනෙසෙතෙ යෙලොව්නික්?"
       },
       {
         "word": "ukusno",
         "reading": "උකුස්නො",
         "meaning": "රසවත්",
-        "example": "ukusno",
-        "translation": "රසවත්"
+        "example": "Želeo bih pileću salatu.",
+        "translation": "මට කුකුළු මස් සලාදයක් ඕනේ.",
+        "exampleReading": "ෂෙලෙඔ බිහ් පිලෙචු සලාතු."
       },
       {
         "word": "bez",
         "reading": "බෙස්",
         "meaning": "නැතිව",
-        "example": "bez",
-        "translation": "නැතිව"
+        "example": "Može bez luka, molim vas?",
+        "translation": "කරුණාකර ලූනු නැතිව දෙන්න පුළුවන්ද?",
+        "exampleReading": "මොෂෙ බෙස් ලූකා, මොලිම් වාස්?"
       },
       {
         "word": "račun",
         "reading": "රාචුන්",
         "meaning": "බිල",
-        "example": "račun",
-        "translation": "බිල"
+        "example": "Možete li da donesete jelovnik?",
+        "translation": "ඔබට මෙනුව ගෙන එන්න පුළුවන්ද?",
+        "exampleReading": "මොෂෙතෙ ලි දා දොනෙසෙතෙ යෙලොව්නික්?"
       },
       {
         "word": "preporučiti",
         "reading": "ප්‍රෙපොරූචිති",
         "meaning": "නිර්දේශ කරනවා",
-        "example": "preporučiti",
-        "translation": "නිර්දේශ කරනවා"
+        "example": "Želeo bih pileću salatu.",
+        "translation": "මට කුකුළු මස් සලාදයක් ඕනේ.",
+        "exampleReading": "ෂෙලෙඔ බිහ් පිලෙචු සලාතු."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -1825,57 +1913,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "ulica",
         "reading": "උලිත්සා",
         "meaning": "වීදිය",
-        "example": "ulica",
-        "translation": "වීදිය"
+        "example": "Gde se nalazi autobuska stanica?",
+        "translation": "බස් නැවතුම්පොළ කොහෙද?",
+        "exampleReading": "ග්දෙ සේ නලාසි අව්තොබුස්කා ස්තානිතසා?"
       },
       {
         "word": "raskrsnica",
         "reading": "රස්ක්‍රස්නිතසා",
         "meaning": "හන්දිය",
-        "example": "raskrsnica",
-        "translation": "හන්දිය"
+        "example": "Idite pravo do raskrsnice.",
+        "translation": "හන්දිය දක්වා කෙළින් යන්න.",
+        "exampleReading": "ඉදිතෙ ප්‍රාවො දො රස්ක්‍රස්නිත්සේ."
       },
       {
         "word": "skrenuti",
         "reading": "ස්ක්‍රෙනුති",
         "meaning": "හැරෙනවා",
-        "example": "skrenuti",
-        "translation": "හැරෙනවා"
+        "example": "Zatim skrenite desno.",
+        "translation": "ඊට පස්සේ දකුණට හැරෙන්න.",
+        "exampleReading": "සාතිම් ස්ක්‍රෙනිතෙ දෙස්නො."
       },
       {
         "word": "pravo",
         "reading": "ප්‍රාවො",
         "meaning": "කෙළින්",
-        "example": "pravo",
-        "translation": "කෙළින්"
+        "example": "Idite pravo do raskrsnice.",
+        "translation": "හන්දිය දක්වා කෙළින් යන්න.",
+        "exampleReading": "ඉදිතෙ ප්‍රාවො දො රස්ක්‍රස්නිත්සේ."
       },
       {
         "word": "levo",
         "reading": "ලෙවො",
         "meaning": "වමට",
-        "example": "levo",
-        "translation": "වමට"
+        "example": "Idite pravo do raskrsnice.",
+        "translation": "හන්දිය දක්වා කෙළින් යන්න.",
+        "exampleReading": "ඉදිතෙ ප්‍රාවො දො රස්ක්‍රස්නිත්සේ."
       },
       {
         "word": "desno",
         "reading": "දෙස්නො",
         "meaning": "දකුණට",
-        "example": "desno",
-        "translation": "දකුණට"
+        "example": "Zatim skrenite desno.",
+        "translation": "ඊට පස්සේ දකුණට හැරෙන්න.",
+        "exampleReading": "සාතිම් ස්ක්‍රෙනිතෙ දෙස්නො."
       },
       {
         "word": "blizu",
         "reading": "බ්ලිසු",
         "meaning": "ළඟ",
-        "example": "blizu",
-        "translation": "ළඟ"
+        "example": "Gde se nalazi autobuska stanica?",
+        "translation": "බස් නැවතුම්පොළ කොහෙද?",
+        "exampleReading": "ග්දෙ සේ නලාසි අව්තොබුස්කා ස්තානිතසා?"
       },
       {
         "word": "daleko",
         "reading": "දලෙකො",
         "meaning": "දුර",
-        "example": "daleko",
-        "translation": "දුර"
+        "example": "Idite pravo do raskrsnice.",
+        "translation": "හන්දිය දක්වා කෙළින් යන්න.",
+        "exampleReading": "ඉදිතෙ ප්‍රාවො දො රස්ක්‍රස්නිත්සේ."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -1990,57 +2086,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "učiti",
         "reading": "උචිති",
         "meaning": "ඉගෙන ගන්නවා",
-        "example": "učiti",
-        "translation": "ඉගෙන ගන්නවා"
+        "example": "Koliko dugo učiš srpski?",
+        "translation": "ඔයා කොච්චර කාලයක් සර්බියානු ඉගෙන ගන්නවාද?",
+        "exampleReading": "කොලිකො දුගො උචිෂ් ශ්‍ර්ප්ස්කි?"
       },
       {
         "word": "kurs",
         "reading": "කුර්ස්",
         "meaning": "පාඨමාලාව",
-        "example": "kurs",
-        "translation": "පාඨමාලාව"
+        "example": "Učim ga šest meseci.",
+        "translation": "මම ඒක මාස හයක් ඉගෙන ගන්නවා.",
+        "exampleReading": "උචිම් ගා ෂෙස්ත් මෙසෙත්සි."
       },
       {
         "word": "čas",
         "reading": "චාස්",
         "meaning": "පාඩම",
-        "example": "čas",
-        "translation": "පාඩම"
+        "example": "Želim da bolje govorim.",
+        "translation": "මට වඩා හොඳින් කතා කරන්න ඕනේ.",
+        "exampleReading": "ෂෙලිම් දා බොලියෙ ගොවොරිම්."
       },
       {
         "word": "domaći zadatak",
         "reading": "දොමාචි සාදතක්",
         "meaning": "ගෙදර වැඩ",
-        "example": "domaći zadatak",
-        "translation": "ගෙදර වැඩ"
+        "example": "Koliko dugo učiš srpski?",
+        "translation": "ඔයා කොච්චර කාලයක් සර්බියානු ඉගෙන ගන්නවාද?",
+        "exampleReading": "කොලිකො දුගො උචිෂ් ශ්‍ර්ප්ස්කි?"
       },
       {
         "word": "ispit",
         "reading": "ඉස්පිත්",
         "meaning": "විභාගය",
-        "example": "ispit",
-        "translation": "විභාගය"
+        "example": "Učim ga šest meseci.",
+        "translation": "මම ඒක මාස හයක් ඉගෙන ගන්නවා.",
+        "exampleReading": "උචිම් ගා ෂෙස්ත් මෙසෙත්සි."
       },
       {
         "word": "vežbati",
         "reading": "වෙෂ්බති",
         "meaning": "අභ්‍යාස කරනවා",
-        "example": "vežbati",
-        "translation": "අභ්‍යාස කරනවා"
+        "example": "Želim da bolje govorim.",
+        "translation": "මට වඩා හොඳින් කතා කරන්න ඕනේ.",
+        "exampleReading": "ෂෙලිම් දා බොලියෙ ගොවොරිම්."
       },
       {
         "word": "znanje",
         "reading": "ස්නාන්යෙ",
         "meaning": "දැනුම",
-        "example": "znanje",
-        "translation": "දැනුම"
+        "example": "Koliko dugo učiš srpski?",
+        "translation": "ඔයා කොච්චර කාලයක් සර්බියානු ඉගෙන ගන්නවාද?",
+        "exampleReading": "කොලිකො දුගො උචිෂ් ශ්‍ර්ප්ස්කි?"
       },
       {
         "word": "napredovati",
         "reading": "නප්‍රෙදොවති",
         "meaning": "දියුණු වෙනවා",
-        "example": "napredovati",
-        "translation": "දියුණු වෙනවා"
+        "example": "Učim ga šest meseci.",
+        "translation": "මම ඒක මාස හයක් ඉගෙන ගන්නවා.",
+        "exampleReading": "උචිම් ගා ෂෙස්ත් මෙසෙත්සි."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -2155,57 +2259,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "telefon",
         "reading": "තෙලෙෆොන්",
         "meaning": "දුරකථනය",
-        "example": "telefon",
-        "translation": "දුරකථනය"
+        "example": "Telefon mi ne radi.",
+        "translation": "මගේ දුරකථනය වැඩ කරන්නේ නැහැ.",
+        "exampleReading": "තෙලෙෆොන් මි නෙ රාදි."
       },
       {
         "word": "punjač",
         "reading": "පුන්යාච්",
         "meaning": "චාජරය",
-        "example": "punjač",
-        "translation": "චාජරය"
+        "example": "Da li imate punjač?",
+        "translation": "ඔයාලට චාජරයක් තියෙනවාද?",
+        "exampleReading": "දා ලි ඉමාතෙ පුන්යාච්?"
       },
       {
         "word": "baterija",
         "reading": "බාතෙරියා",
         "meaning": "බැටරිය",
-        "example": "baterija",
-        "translation": "බැටරිය"
+        "example": "Ne mogu da se povežem na internet.",
+        "translation": "මට අන්තර්ජාලයට සම්බන්ධ වෙන්න බැහැ.",
+        "exampleReading": "නෙ මොගු දා සේ පොවෙෂෙම් නා ඉන්ටර්නෙත්."
       },
       {
         "word": "internet",
         "reading": "ඉන්ටර්නෙත්",
         "meaning": "අන්තර්ජාලය",
-        "example": "internet",
-        "translation": "අන්තර්ජාලය"
+        "example": "Ne mogu da se povežem na internet.",
+        "translation": "මට අන්තර්ජාලයට සම්බන්ධ වෙන්න බැහැ.",
+        "exampleReading": "නෙ මොගු දා සේ පොවෙෂෙම් නා ඉන්ටර්නෙත්."
       },
       {
         "word": "poruka",
         "reading": "පොරූකා",
         "meaning": "පණිවිඩය",
-        "example": "poruka",
-        "translation": "පණිවිඩය"
+        "example": "Da li imate punjač?",
+        "translation": "ඔයාලට චාජරයක් තියෙනවාද?",
+        "exampleReading": "දා ලි ඉමාතෙ පුන්යාච්?"
       },
       {
         "word": "poziv",
         "reading": "පොසිව්",
         "meaning": "ඇමතුම",
-        "example": "poziv",
-        "translation": "ඇමතුම"
+        "example": "Ne mogu da se povežem na internet.",
+        "translation": "මට අන්තර්ජාලයට සම්බන්ධ වෙන්න බැහැ.",
+        "exampleReading": "නෙ මොගු දා සේ පොවෙෂෙම් නා ඉන්ටර්නෙත්."
       },
       {
         "word": "preuzeti",
         "reading": "ප්‍රෙඋසෙති",
         "meaning": "බාගත කරගන්නවා",
-        "example": "preuzeti",
-        "translation": "බාගත කරගන්නවා"
+        "example": "Telefon mi ne radi.",
+        "translation": "මගේ දුරකථනය වැඩ කරන්නේ නැහැ.",
+        "exampleReading": "තෙලෙෆොන් මි නෙ රාදි."
       },
       {
         "word": "povezati",
         "reading": "පොවෙසති",
         "meaning": "සම්බන්ධ කරනවා",
-        "example": "povezati",
-        "translation": "සම්බන්ධ කරනවා"
+        "example": "Da li imate punjač?",
+        "translation": "ඔයාලට චාජරයක් තියෙනවාද?",
+        "exampleReading": "දා ලි ඉමාතෙ පුන්යාච්?"
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -2320,57 +2432,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "prijatelj",
         "reading": "ප්‍රියතෙල්ය්",
         "meaning": "මිතුරා",
-        "example": "prijatelj",
-        "translation": "මිතුරා"
+        "example": "Hajde da prošetamo večeras.",
+        "translation": "අද සවස අපි ඇවිදින්න යමු.",
+        "exampleReading": "හායිදෙ දා ප්‍රොෂෙතාමො වෙචෙරාස්."
       },
       {
         "word": "druženje",
         "reading": "ද්‍රුෂෙන්යෙ",
         "meaning": "එකට කාලය ගත කිරීම",
-        "example": "druženje",
-        "translation": "එකට කාලය ගත කිරීම"
+        "example": "Da li voliš da gledaš filmove?",
+        "translation": "ඔයා චිත්‍රපට බලන්න කැමතිද?",
+        "exampleReading": "දා ලි වොලිෂ් දා ග්ලෙදාෂ් ෆිල්මොවෙ?"
       },
       {
         "word": "šetnja",
         "reading": "ෂෙත්න්යා",
         "meaning": "ඇවිදීම",
-        "example": "šetnja",
-        "translation": "ඇවිදීම"
+        "example": "Bilo je veoma zabavno.",
+        "translation": "ඒක ගොඩක් විනෝදජනකයි.",
+        "exampleReading": "බිලො යේ වෙමා සාබාව්නො."
       },
       {
         "word": "pozorište",
         "reading": "පොසොරිෂ්තෙ",
         "meaning": "රඟහල",
-        "example": "pozorište",
-        "translation": "රඟහල"
+        "example": "Hajde da prošetamo večeras.",
+        "translation": "අද සවස අපි ඇවිදින්න යමු.",
+        "exampleReading": "හායිදෙ දා ප්‍රොෂෙතාමො වෙචෙරාස්."
       },
       {
         "word": "film",
         "reading": "ෆිල්ම්",
         "meaning": "චිත්‍රපටය",
-        "example": "film",
-        "translation": "චිත්‍රපටය"
+        "example": "Da li voliš da gledaš filmove?",
+        "translation": "ඔයා චිත්‍රපට බලන්න කැමතිද?",
+        "exampleReading": "දා ලි වොලිෂ් දා ග්ලෙදාෂ් ෆිල්මොවෙ?"
       },
       {
         "word": "zabava",
         "reading": "සාබාවා",
         "meaning": "සාදය",
-        "example": "zabava",
-        "translation": "සාදය"
+        "example": "Bilo je veoma zabavno.",
+        "translation": "ඒක ගොඩක් විනෝදජනකයි.",
+        "exampleReading": "බිලො යේ වෙමා සාබාව්නො."
       },
       {
         "word": "zajedno",
         "reading": "සායෙද්නො",
         "meaning": "එකට",
-        "example": "zajedno",
-        "translation": "එකට"
+        "example": "Hajde da prošetamo večeras.",
+        "translation": "අද සවස අපි ඇවිදින්න යමු.",
+        "exampleReading": "හායිදෙ දා ප්‍රොෂෙතාමො වෙචෙරාස්."
       },
       {
         "word": "sledeći put",
         "reading": "ස්ලෙදෙචි පුත්",
         "meaning": "ඊළඟ වතාවේ",
-        "example": "sledeći put",
-        "translation": "ඊළඟ වතාවේ"
+        "example": "Da li voliš da gledaš filmove?",
+        "translation": "ඔයා චිත්‍රපට බලන්න කැමතිද?",
+        "exampleReading": "දා ලි වොලිෂ් දා ග්ලෙදාෂ් ෆිල්මොවෙ?"
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -2485,57 +2605,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "posao",
         "reading": "පොසාඔ",
         "meaning": "රැකියාව",
-        "example": "posao",
-        "translation": "රැකියාව"
+        "example": "Tražim novi posao.",
+        "translation": "මම අලුත් රැකියාවක් සොයනවා.",
+        "exampleReading": "ත්‍රාෂිම් නොවි පොසාඔ."
       },
       {
         "word": "prijava",
         "reading": "ප්‍රියාවා",
         "meaning": "අයදුම්පත",
-        "example": "prijava",
-        "translation": "අයදුම්පත"
+        "example": "Imam iskustva u prodaji.",
+        "translation": "මට විකුණුම් ක්ෂේත්‍රයේ අත්දැකීම් තියෙනවා.",
+        "exampleReading": "ඉමාම් ඉස්කුස්ත්වා උ ප්‍රොදායි."
       },
       {
         "word": "iskustvo",
         "reading": "ඉස්කුස්ත්වො",
         "meaning": "අත්දැකීම",
-        "example": "iskustvo",
-        "translation": "අත්දැකීම"
+        "example": "Kada je razgovor za posao?",
+        "translation": "රැකියා සම්මුඛ පරීක්ෂණය කවදාද?",
+        "exampleReading": "කාදා යේ රාස්ගොවොර් සා පොසාඔ?"
       },
       {
         "word": "veština",
         "reading": "වෙෂ්තිනා",
         "meaning": "කුසලතාව",
-        "example": "veština",
-        "translation": "කුසලතාව"
+        "example": "Tražim novi posao.",
+        "translation": "මම අලුත් රැකියාවක් සොයනවා.",
+        "exampleReading": "ත්‍රාෂිම් නොවි පොසාඔ."
       },
       {
         "word": "razgovor",
         "reading": "රාස්ගොවොර්",
         "meaning": "සම්මුඛ සාකච්ඡාව",
-        "example": "razgovor",
-        "translation": "සම්මුඛ සාකච්ඡාව"
+        "example": "Kada je razgovor za posao?",
+        "translation": "රැකියා සම්මුඛ පරීක්ෂණය කවදාද?",
+        "exampleReading": "කාදා යේ රාස්ගොවොර් සා පොසාඔ?"
       },
       {
         "word": "kolega",
         "reading": "කොලෙගා",
         "meaning": "සහකරු",
-        "example": "kolega",
-        "translation": "සහකරු"
+        "example": "Kada je razgovor za posao?",
+        "translation": "රැකියා සම්මුඛ පරීක්ෂණය කවදාද?",
+        "exampleReading": "කාදා යේ රාස්ගොවොර් සා පොසාඔ?"
       },
       {
         "word": "plata",
         "reading": "ප්ලතා",
         "meaning": "වැටුප",
-        "example": "plata",
-        "translation": "වැටුප"
+        "example": "Tražim novi posao.",
+        "translation": "මම අලුත් රැකියාවක් සොයනවා.",
+        "exampleReading": "ත්‍රාෂිම් නොවි පොසාඔ."
       },
       {
         "word": "ugovor",
         "reading": "උගොවොර්",
         "meaning": "ගිවිසුම",
-        "example": "ugovor",
-        "translation": "ගිවිසුම"
+        "example": "Imam iskustva u prodaji.",
+        "translation": "මට විකුණුම් ක්ෂේත්‍රයේ අත්දැකීම් තියෙනවා.",
+        "exampleReading": "ඉමාම් ඉස්කුස්ත්වා උ ප්‍රොදායි."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -2650,57 +2778,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "banka",
         "reading": "බාන්කා",
         "meaning": "බැංකුව",
-        "example": "banka",
-        "translation": "බැංකුව"
+        "example": "Gde je najbliža banka?",
+        "translation": "ළඟම බැංකුව කොහෙද?",
+        "exampleReading": "ග්දෙ යේ නයිබ්ලිෂා බාන්කා?"
       },
       {
         "word": "račun",
         "reading": "රාචුන්",
         "meaning": "ගිණුම",
-        "example": "račun",
-        "translation": "ගිණුම"
+        "example": "Želim da podignem novac.",
+        "translation": "මට මුදල් ගන්න ඕනේ.",
+        "exampleReading": "ෂෙලිම් දා පොදිග්නෙම් නොවත්ස්."
       },
       {
         "word": "gotovina",
         "reading": "ගොතොවිනා",
         "meaning": "මුදල් නෝට්ටු",
-        "example": "gotovina",
-        "translation": "මුදල් නෝට්ටු"
+        "example": "Pokušavam da štedim svakog meseca.",
+        "translation": "මම හැම මාසෙම මුදල් ඉතිරි කරන්න උත්සාහ කරනවා.",
+        "exampleReading": "පොකුෂාවාම් දා ෂ්තෙදිම් ස්වාකොග් මෙසෙත්සා."
       },
       {
         "word": "kartica",
         "reading": "කාර්තිත්සා",
         "meaning": "කාඩ්පත",
-        "example": "kartica",
-        "translation": "කාඩ්පත"
+        "example": "Gde je najbliža banka?",
+        "translation": "ළඟම බැංකුව කොහෙද?",
+        "exampleReading": "ග්දෙ යේ නයිබ්ලිෂා බාන්කා?"
       },
       {
         "word": "podizanje",
         "reading": "පොදිසාන්යෙ",
         "meaning": "මුදල් ගැනීම",
-        "example": "podizanje",
-        "translation": "මුදල් ගැනීම"
+        "example": "Želim da podignem novac.",
+        "translation": "මට මුදල් ගන්න ඕනේ.",
+        "exampleReading": "ෂෙලිම් දා පොදිග්නෙම් නොවත්ස්."
       },
       {
         "word": "uplata",
         "reading": "උප්ලතා",
         "meaning": "තැන්පතුව",
-        "example": "uplata",
-        "translation": "තැන්පතුව"
+        "example": "Pokušavam da štedim svakog meseca.",
+        "translation": "මම හැම මාසෙම මුදල් ඉතිරි කරන්න උත්සාහ කරනවා.",
+        "exampleReading": "පොකුෂාවාම් දා ෂ්තෙදිම් ස්වාකොග් මෙසෙත්සා."
       },
       {
         "word": "štedeti",
         "reading": "ෂ්තෙදෙති",
         "meaning": "ඉතිරි කරනවා",
-        "example": "štedeti",
-        "translation": "ඉතිරි කරනවා"
+        "example": "Gde je najbliža banka?",
+        "translation": "ළඟම බැංකුව කොහෙද?",
+        "exampleReading": "ග්දෙ යේ නයිබ්ලිෂා බාන්කා?"
       },
       {
         "word": "trošak",
         "reading": "ත්‍රොෂක්",
         "meaning": "වියදම",
-        "example": "trošak",
-        "translation": "වියදම"
+        "example": "Želim da podignem novac.",
+        "translation": "මට මුදල් ගන්න ඕනේ.",
+        "exampleReading": "ෂෙලිම් දා පොදිග්නෙම් නොවත්ස්."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -2815,57 +2951,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "stan",
         "reading": "ස්තාන්",
         "meaning": "නිවස / මහල් නිවාසය",
-        "example": "stan",
-        "translation": "නිවස / මහල් නිවාසය"
+        "example": "Moram da očistim stan.",
+        "translation": "මට නිවස පිරිසිදු කරන්න ඕනේ.",
+        "exampleReading": "මොරම් දා ඔචිස්තිම් ස්තාන්."
       },
       {
         "word": "kuhinja",
         "reading": "කුහින්යා",
         "meaning": "මුළුතැන්ගෙය",
-        "example": "kuhinja",
-        "translation": "මුළුතැන්ගෙය"
+        "example": "Moram da očistim stan.",
+        "translation": "මට නිවස පිරිසිදු කරන්න ඕනේ.",
+        "exampleReading": "මොරම් දා ඔචිස්තිම් ස්තාන්."
       },
       {
         "word": "čišćenje",
         "reading": "චිෂ්චෙන්යෙ",
         "meaning": "පිරිසිදු කිරීම",
-        "example": "čišćenje",
-        "translation": "පිරිසිදු කිරීම"
+        "example": "Koliki je račun za struju?",
+        "translation": "විදුලි බිල කොච්චරද?",
+        "exampleReading": "කොලිකි යේ රාචුන් සා ස්ත්‍රුයු?"
       },
       {
         "word": "popravka",
         "reading": "පොප්‍රාව්කා",
         "meaning": "අලුත්වැඩියාව",
-        "example": "popravka",
-        "translation": "අලුත්වැඩියාව"
+        "example": "Slavina u kuhinji ne radi.",
+        "translation": "මුළුතැන්ගෙයි ටැප් එක වැඩ කරන්නේ නැහැ.",
+        "exampleReading": "ස්ලාවිනා උ කුහින්යි නෙ රාදි."
       },
       {
         "word": "pokvareno",
         "reading": "පොක්වාරෙනො",
         "meaning": "කැඩුණු",
-        "example": "pokvareno",
-        "translation": "කැඩුණු"
+        "example": "Moram da očistim stan.",
+        "translation": "මට නිවස පිරිසිදු කරන්න ඕනේ.",
+        "exampleReading": "මොරම් දා ඔචිස්තිම් ස්තාන්."
       },
       {
         "word": "slavina",
         "reading": "ස්ලාවිනා",
         "meaning": "ටැප් එක",
-        "example": "slavina",
-        "translation": "ටැප් එක"
+        "example": "Slavina u kuhinji ne radi.",
+        "translation": "මුළුතැන්ගෙයි ටැප් එක වැඩ කරන්නේ නැහැ.",
+        "exampleReading": "ස්ලාවිනා උ කුහින්යි නෙ රාදි."
       },
       {
         "word": "struja",
         "reading": "ස්ත්‍රුයා",
         "meaning": "විදුලිය",
-        "example": "struja",
-        "translation": "විදුලිය"
+        "example": "Slavina u kuhinji ne radi.",
+        "translation": "මුළුතැන්ගෙයි ටැප් එක වැඩ කරන්නේ නැහැ.",
+        "exampleReading": "ස්ලාවිනා උ කුහින්යි නෙ රාදි."
       },
       {
         "word": "račun za struju",
         "reading": "රාචුන් සා ස්ත්‍රුයු",
         "meaning": "විදුලි බිල",
-        "example": "račun za struju",
-        "translation": "විදුලි බිල"
+        "example": "Koliki je račun za struju?",
+        "translation": "විදුලි බිල කොච්චරද?",
+        "exampleReading": "කොලිකි යේ රාචුන් සා ස්ත්‍රුයු?"
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -2980,57 +3124,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "iskustvo",
         "reading": "ඉස්කුස්ත්වො",
         "meaning": "අත්දැකීම",
-        "example": "iskustvo",
-        "translation": "අත්දැකීම"
+        "example": "Prošle godine sam posetio Beograd.",
+        "translation": "මම පසුගිය අවුරුද්දේ බෙල්ග්‍රේඩ් සංචාරය කළා.",
+        "exampleReading": "ප්‍රොෂ්ලෙ ගොදිනෙ සාම් පොසෙතියො බෙඔග්‍රාද්."
       },
       {
         "word": "putovati",
         "reading": "පුතොවති",
         "meaning": "ගමන් කරනවා",
-        "example": "putovati",
-        "translation": "ගමන් කරනවා"
+        "example": "Putovanje je bilo nezaboravno.",
+        "translation": "ගමන අමතක නොවන එකක් වුණා.",
+        "exampleReading": "පුතොවාන්යෙ යේ බිලො නෙසබොරාව්නො."
       },
       {
         "word": "posetiti",
         "reading": "පොසෙතිති",
         "meaning": "සංචාරය කරනවා",
-        "example": "posetiti",
-        "translation": "සංචාරය කරනවා"
+        "example": "Posetili smo muzej i tvrđavu.",
+        "translation": "අපි කෞතුකාගාරය සහ බලකොටුව නැරඹුවා.",
+        "exampleReading": "පොසෙතිලි ස්මො මුසෙයි ඉ ත්ව්ර්දයාවු."
       },
       {
         "word": "muzej",
         "reading": "මුසෙයි",
         "meaning": "කෞතුකාගාරය",
-        "example": "muzej",
-        "translation": "කෞතුකාගාරය"
+        "example": "Posetili smo muzej i tvrđavu.",
+        "translation": "අපි කෞතුකාගාරය සහ බලකොටුව නැරඹුවා.",
+        "exampleReading": "පොසෙතිලි ස්මො මුසෙයි ඉ ත්ව්ර්දයාවු."
       },
       {
         "word": "plaža",
         "reading": "ප්ලාෂා",
         "meaning": "වෙරළ",
-        "example": "plaža",
-        "translation": "වෙරළ"
+        "example": "Putovanje je bilo nezaboravno.",
+        "translation": "ගමන අමතක නොවන එකක් වුණා.",
+        "exampleReading": "පුතොවාන්යෙ යේ බිලො නෙසබොරාව්නො."
       },
       {
         "word": "planina",
         "reading": "ප්ලානිනා",
         "meaning": "කන්ද",
-        "example": "planina",
-        "translation": "කන්ද"
+        "example": "Posetili smo muzej i tvrđavu.",
+        "translation": "අපි කෞතුකාගාරය සහ බලකොටුව නැරඹුවා.",
+        "exampleReading": "පොසෙතිලි ස්මො මුසෙයි ඉ ත්ව්ර්දයාවු."
       },
       {
         "word": "nezaboravno",
         "reading": "නෙසබොරාව්නො",
         "meaning": "අමතක නොවන",
-        "example": "nezaboravno",
-        "translation": "අමතක නොවන"
+        "example": "Putovanje je bilo nezaboravno.",
+        "translation": "ගමන අමතක නොවන එකක් වුණා.",
+        "exampleReading": "පුතොවාන්යෙ යේ බිලො නෙසබොරාව්නො."
       },
       {
         "word": "prošlost",
         "reading": "ප්‍රොෂ්ලොස්ත්",
         "meaning": "අතීතය",
-        "example": "prošlost",
-        "translation": "අතීතය"
+        "example": "Putovanje je bilo nezaboravno.",
+        "translation": "ගමන අමතක නොවන එකක් වුණා.",
+        "exampleReading": "පුතොවාන්යෙ යේ බිලො නෙසබොරාව්නො."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -3145,57 +3297,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "mišljenje",
         "reading": "මිෂ්ලියෙන්යෙ",
         "meaning": "අදහස",
-        "example": "mišljenje",
-        "translation": "අදහස"
+        "example": "Mislim da je ovaj film zanimljiv.",
+        "translation": "මම හිතන්නේ මේ චිත්‍රපටය රසවත් කියලා.",
+        "exampleReading": "මිස්ලිම් දා යේ ඔවායි ෆිල්ම් සානිම්ලිව්."
       },
       {
         "word": "slažem se",
         "reading": "ස්ලාෂෙම් සේ",
         "meaning": "මම එකඟයි",
-        "example": "slažem se",
-        "translation": "මම එකඟයි"
+        "example": "Slažem se sa tobom.",
+        "translation": "මම ඔයා සමඟ එකඟයි.",
+        "exampleReading": "ස්ලාෂෙම් සේ සා තොබොම්."
       },
       {
         "word": "ne slažem se",
         "reading": "නෙ ස්ලාෂෙම් සේ",
         "meaning": "මම එකඟ නැහැ",
-        "example": "ne slažem se",
-        "translation": "මම එකඟ නැහැ"
+        "example": "Radije bih ostao kod kuće.",
+        "translation": "මම ගෙදර ඉන්න වඩා කැමතියි.",
+        "exampleReading": "රාදියෙ බිහ් ඔස්තාඔ කොද් කුචෙ."
       },
       {
         "word": "zato što",
         "reading": "සාතො ෂ්තො",
         "meaning": "මොකද / නිසා",
-        "example": "zato što",
-        "translation": "මොකද / නිසා"
+        "example": "Mislim da je ovaj film zanimljiv.",
+        "translation": "මම හිතන්නේ මේ චිත්‍රපටය රසවත් කියලා.",
+        "exampleReading": "මිස්ලිම් දා යේ ඔවායි ෆිල්ම් සානිම්ලිව්."
       },
       {
         "word": "predlog",
         "reading": "ප්‍රෙද්ලොග්",
         "meaning": "යෝජනාව",
-        "example": "predlog",
-        "translation": "යෝජනාව"
+        "example": "Slažem se sa tobom.",
+        "translation": "මම ඔයා සමඟ එකඟයි.",
+        "exampleReading": "ස්ලාෂෙම් සේ සා තොබොම්."
       },
       {
         "word": "izbor",
         "reading": "ඉස්බොර්",
         "meaning": "තේරීම",
-        "example": "izbor",
-        "translation": "තේරීම"
+        "example": "Radije bih ostao kod kuće.",
+        "translation": "මම ගෙදර ඉන්න වඩා කැමතියි.",
+        "exampleReading": "රාදියෙ බිහ් ඔස්තාඔ කොද් කුචෙ."
       },
       {
         "word": "važan",
         "reading": "වාෂාන්",
         "meaning": "වැදගත්",
-        "example": "važan",
-        "translation": "වැදගත්"
+        "example": "Mislim da je ovaj film zanimljiv.",
+        "translation": "මම හිතන්නේ මේ චිත්‍රපටය රසවත් කියලා.",
+        "exampleReading": "මිස්ලිම් දා යේ ඔවායි ෆිල්ම් සානිම්ලිව්."
       },
       {
         "word": "radije",
         "reading": "රාදියෙ",
         "meaning": "වඩා කැමැත්තෙන්",
-        "example": "radije",
-        "translation": "වඩා කැමැත්තෙන්"
+        "example": "Radije bih ostao kod kuće.",
+        "translation": "මම ගෙදර ඉන්න වඩා කැමතියි.",
+        "exampleReading": "රාදියෙ බිහ් ඔස්තාඔ කොද් කුචෙ."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -3310,57 +3470,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "autobus",
         "reading": "අඋතොබුස්",
         "meaning": "බස් රථය",
-        "example": "autobus",
-        "translation": "බස් රථය"
+        "example": "Kada polazi autobus?",
+        "translation": "බස් රථය පිටත් වෙන්නේ කීයටද?",
+        "exampleReading": "කාදා පොලාසි අඋතොබුස්?"
       },
       {
         "word": "voz",
         "reading": "වොස්",
         "meaning": "දුම්රිය",
-        "example": "voz",
-        "translation": "දුම්රිය"
+        "example": "Autobus polazi za deset minuta.",
+        "translation": "බස් රථය විනාඩි දහයකින් පිටත් වෙනවා.",
+        "exampleReading": "අඋතොබුස් පොලාසි සා දෙසෙත් මිනුතා."
       },
       {
         "word": "stanica",
         "reading": "ස්තаница",
         "meaning": "නැවතුම්පොළ",
-        "example": "stanica",
-        "translation": "නැවතුම්පොළ"
+        "example": "Da li moram da presedam?",
+        "translation": "මට වෙනත් බස් රථයකට මාරු වෙන්න ඕනෙද?",
+        "exampleReading": "දා ලි මොරම් දා ප්‍රෙසෙදාම්?"
       },
       {
         "word": "karta",
         "reading": "කාර්තා",
         "meaning": "ටිකට්පත",
-        "example": "karta",
-        "translation": "ටිකට්පත"
+        "example": "Kada polazi autobus?",
+        "translation": "බස් රථය පිටත් වෙන්නේ කීයටද?",
+        "exampleReading": "කාදා පොලාසි අඋතොබුස්?"
       },
       {
         "word": "presedanje",
         "reading": "ප්‍රෙසෙදාන්යෙ",
         "meaning": "වාහන මාරු කිරීම",
-        "example": "presedanje",
-        "translation": "වාහන මාරු කිරීම"
+        "example": "Autobus polazi za deset minuta.",
+        "translation": "බස් රථය විනාඩි දහයකින් පිටත් වෙනවා.",
+        "exampleReading": "අඋතොබුස් පොලාසි සා දෙසෙත් මිනුතා."
       },
       {
         "word": "kašnjenje",
         "reading": "කාෂ්න්යෙන්යෙ",
         "meaning": "ප්‍රමාදය",
-        "example": "kašnjenje",
-        "translation": "ප්‍රමාදය"
+        "example": "Da li moram da presedam?",
+        "translation": "මට වෙනත් බස් රථයකට මාරු වෙන්න ඕනෙද?",
+        "exampleReading": "දා ලි මොරම් දා ප්‍රෙසෙදාම්?"
       },
       {
         "word": "polazak",
         "reading": "පොලාසාක්",
         "meaning": "පිටත්වීම",
-        "example": "polazak",
-        "translation": "පිටත්වීම"
+        "example": "Kada polazi autobus?",
+        "translation": "බස් රථය පිටත් වෙන්නේ කීයටද?",
+        "exampleReading": "කාදා පොලාසි අඋතොබුස්?"
       },
       {
         "word": "dolazak",
         "reading": "දොලාසාක්",
         "meaning": "පැමිණීම",
-        "example": "dolazak",
-        "translation": "පැමිණීම"
+        "example": "Autobus polazi za deset minuta.",
+        "translation": "බස් රථය විනාඩි දහයකින් පිටත් වෙනවා.",
+        "exampleReading": "අඋතොබුස් පොලාසි සා දෙසෙත් මිනුතා."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -3475,57 +3643,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "odeća",
         "reading": "ඔදෙචා",
         "meaning": "ඇඳුම්",
-        "example": "odeća",
-        "translation": "ඇඳුම්"
+        "example": "Mogu li da probam ovu jaknu?",
+        "translation": "මට මේ ජැකට් එක ඇඳලා බලන්න පුළුවන්ද?",
+        "exampleReading": "මොගු ලි දා ප්‍රොබාම් ඔවු යාක්නු?"
       },
       {
         "word": "veličina",
         "reading": "වෙලිචිනා",
         "meaning": "ප්‍රමාණය",
-        "example": "veličina",
-        "translation": "ප්‍රමාණය"
+        "example": "Naravno, kabina je tamo.",
+        "translation": "අනිවාර්යයෙන්, ඇඳුම් මාරු කරන කාමරය එතනයි.",
+        "exampleReading": "නරාව්නො, කබිනා යෙ තාමො."
       },
       {
         "word": "probati",
         "reading": "ප්‍රොබාති",
         "meaning": "ඇඳලා බලන්න",
-        "example": "probati",
-        "translation": "ඇඳලා බලන්න"
+        "example": "Imate li manju veličinu?",
+        "translation": "ඔබ ළඟ කුඩා ප්‍රමාණයක් තියෙනවාද?",
+        "exampleReading": "ඉමාතෙ ලි මාන්යු වෙලිචිනු?"
       },
       {
         "word": "popust",
         "reading": "පොපුස්ත්",
         "meaning": "වට්ටම",
-        "example": "popust",
-        "translation": "වට්ටම"
+        "example": "Mogu li da probam ovu jaknu?",
+        "translation": "මට මේ ජැකට් එක ඇඳලා බලන්න පුළුවන්ද?",
+        "exampleReading": "මොගු ලි දා ප්‍රොබාම් ඔවු යාක්නු?"
       },
       {
         "word": "račun",
         "reading": "රාචුන්",
         "meaning": "බිල්පත",
-        "example": "račun",
-        "translation": "බිල්පත"
+        "example": "Naravno, kabina je tamo.",
+        "translation": "අනිවාර්යයෙන්, ඇඳුම් මාරු කරන කාමරය එතනයි.",
+        "exampleReading": "නරාව්නො, කබිනා යෙ තාමො."
       },
       {
         "word": "gotovina",
         "reading": "ගොතොවිනා",
         "meaning": "මුදල්",
-        "example": "gotovina",
-        "translation": "මුදල්"
+        "example": "Imate li manju veličinu?",
+        "translation": "ඔබ ළඟ කුඩා ප්‍රමාණයක් තියෙනවාද?",
+        "exampleReading": "ඉමාතෙ ලි මාන්යු වෙලිචිනු?"
       },
       {
         "word": "kartica",
         "reading": "කාර්තිца",
         "meaning": "කාඩ්පත",
-        "example": "kartica",
-        "translation": "කාඩ්පත"
+        "example": "Mogu li da probam ovu jaknu?",
+        "translation": "මට මේ ජැකට් එක ඇඳලා බලන්න පුළුවන්ද?",
+        "exampleReading": "මොගු ලි දා ප්‍රොබාම් ඔවු යාක්නු?"
       },
       {
         "word": "izbor",
         "reading": "ඉස්බොර්",
         "meaning": "තේරීම",
-        "example": "izbor",
-        "translation": "තේරීම"
+        "example": "Naravno, kabina je tamo.",
+        "translation": "අනිවාර්යයෙන්, ඇඳුම් මාරු කරන කාමරය එතනයි.",
+        "exampleReading": "නරාව්නො, කබිනා යෙ තාමො."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -3640,57 +3816,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "vreme",
         "reading": "ව්‍රෙමෙ",
         "meaning": "කාලගුණය",
-        "example": "vreme",
-        "translation": "කාලගුණය"
+        "example": "Kakvo će vreme biti sutra?",
+        "translation": "හෙට කාලගුණය කොහොම වේවිද?",
+        "exampleReading": "කාක්වො චෙ ව්‍රෙමෙ бити සුත්‍රා?"
       },
       {
         "word": "sunčano",
         "reading": "සුන්චානො",
         "meaning": "අව්ව සහිත",
-        "example": "sunčano",
-        "translation": "අව්ව සහිත"
+        "example": "Biće sunčano i toplo.",
+        "translation": "අව්ව සහ උණුසුම තියේවි.",
+        "exampleReading": "බිචෙ සුන්චානො ඉ තොප්ලො."
       },
       {
         "word": "oblačno",
         "reading": "ඔබ්ලාච්නො",
         "meaning": "වලාකුළු සහිත",
-        "example": "oblačno",
-        "translation": "වලාකුළු සහිත"
+        "example": "Ako bude kiše, ostaću kod kuće.",
+        "translation": "වැස්ස තිබුණොත් මම ගෙදර ඉන්නවා.",
+        "exampleReading": "අකො බුදෙ කීෂෙ, ඔස්තාචු කොද් කුචෙ."
       },
       {
         "word": "kiša",
         "reading": "කීෂා",
         "meaning": "වැස්ස",
-        "example": "kiša",
-        "translation": "වැස්ස"
+        "example": "Kakvo će vreme biti sutra?",
+        "translation": "හෙට කාලගුණය කොහොම වේවිද?",
+        "exampleReading": "කාක්වො චෙ ව්‍රෙමෙ бити සුත්‍රා?"
       },
       {
         "word": "vetar",
         "reading": "වෙතාර්",
         "meaning": "සුළඟ",
-        "example": "vetar",
-        "translation": "සුළඟ"
+        "example": "Biće sunčano i toplo.",
+        "translation": "අව්ව සහ උණුසුම තියේවි.",
+        "exampleReading": "බිචෙ සුන්චානො ඉ තොප්ලො."
       },
       {
         "word": "proleće",
         "reading": "ප්‍රොලෙචෙ",
         "meaning": "වසන්තය",
-        "example": "proleće",
-        "translation": "වසන්තය"
+        "example": "Ako bude kiše, ostaću kod kuće.",
+        "translation": "වැස්ස තිබුණොත් මම ගෙදර ඉන්නවා.",
+        "exampleReading": "අකො බුදෙ කීෂෙ, ඔස්තාචු කොද් කුචෙ."
       },
       {
         "word": "leto",
         "reading": "ලෙතො",
         "meaning": "ගිම්හානය",
-        "example": "leto",
-        "translation": "ගිම්හානය"
+        "example": "Kakvo će vreme biti sutra?",
+        "translation": "හෙට කාලගුණය කොහොම වේවිද?",
+        "exampleReading": "කාක්වො චෙ ව්‍රෙමෙ бити සුත්‍රා?"
       },
       {
         "word": "zima",
         "reading": "සිමා",
         "meaning": "ශීත ඍතුව",
-        "example": "zima",
-        "translation": "ශීත ඍතුව"
+        "example": "Biće sunčano i toplo.",
+        "translation": "අව්ව සහ උණුසුම තියේවි.",
+        "exampleReading": "බිචෙ සුන්චානො ඉ තොප්ලො."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -3805,57 +3989,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "sastanak",
         "reading": "සස්තානාක්",
         "meaning": "හමුවීම",
-        "example": "sastanak",
-        "translation": "හමුවීම"
+        "example": "Možemo li da pomerimo sastanak?",
+        "translation": "අපිට හමුවීම වෙනත් වේලාවකට මාරු කරන්න පුළුවන්ද?",
+        "exampleReading": "මොෂෙමො ලි දා පොමෙරිමො සස්තානාක්?"
       },
       {
         "word": "termin",
         "reading": "තර්මින්",
         "meaning": "වෙන් කළ වේලාව",
-        "example": "termin",
-        "translation": "වෙන් කළ වේලාව"
+        "example": "Da, slobodan sam posle podne.",
+        "translation": "ඔව්, මම හවස නිදහස්.",
+        "exampleReading": "දා, ස්ලොබොදාන් සාම් පොස්ලෙ පොද්නෙ."
       },
       {
         "word": "zakasniti",
         "reading": "සාකාස්නිති",
         "meaning": "ප්‍රමාද වීම",
-        "example": "zakasniti",
-        "translation": "ප්‍රමාද වීම"
+        "example": "Možemo li da pomerimo sastanak?",
+        "translation": "අපිට හමුවීම වෙනත් වේලාවකට මාරු කරන්න පුළුවන්ද?",
+        "exampleReading": "මොෂෙමො ලි දා පොමෙරිමො සස්තානාක්?"
       },
       {
         "word": "otkazati",
         "reading": "ඔත්කාසාති",
         "meaning": "අවලංගු කිරීම",
-        "example": "otkazati",
-        "translation": "අවලංගු කිරීම"
+        "example": "Da li ti odgovara petak?",
+        "translation": "ඔයාට සිකුරාදා පහසුද?",
+        "exampleReading": "දා ලි ති ඔද්ගොවාරා පෙතාක්?"
       },
       {
         "word": "pomeriti",
         "reading": "පොමෙරිති",
         "meaning": "වෙනත් වේලාවකට මාරු කිරීම",
-        "example": "pomeriti",
-        "translation": "වෙනත් වේලාවකට මාරු කිරීම"
+        "example": "Da, slobodan sam posle podne.",
+        "translation": "ඔව්, මම හවස නිදහස්.",
+        "exampleReading": "දා, ස්ලොබොදාන් සාම් පොස්ලෙ පොද්නෙ."
       },
       {
         "word": "slobodan",
         "reading": "ස්ලොබොදාන්",
         "meaning": "නිදහස්",
-        "example": "slobodan",
-        "translation": "නිදහස්"
+        "example": "Da, slobodan sam posle podne.",
+        "translation": "ඔව්, මම හවස නිදහස්.",
+        "exampleReading": "දා, ස්ලොබොදාන් සාම් පොස්ලෙ පොද්නෙ."
       },
       {
         "word": "dogovor",
         "reading": "දොගොවොර්",
         "meaning": "එකඟතාව",
-        "example": "dogovor",
-        "translation": "එකඟතාව"
+        "example": "Da li ti odgovara petak?",
+        "translation": "ඔයාට සිකුරාදා පහසුද?",
+        "exampleReading": "දා ලි ති ඔද්ගොවාරා පෙතාක්?"
       },
       {
         "word": "na vreme",
         "reading": "නා ව්‍රෙමෙ",
         "meaning": "නියමිත වේලාවට",
-        "example": "na vreme",
-        "translation": "නියමිත වේලාවට"
+        "example": "Da, slobodan sam posle podne.",
+        "translation": "ඔව්, මම හවස නිදහස්.",
+        "exampleReading": "දා, ස්ලොබොදාන් සාම් පොස්ලෙ පොද්නෙ."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -3970,57 +4162,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "recept",
         "reading": "රෙцеп්ත්",
         "meaning": "වට්ටෝරුව",
-        "example": "recept",
-        "translation": "වට්ටෝරුව"
+        "example": "Šta nam je potrebno za supu?",
+        "translation": "සුප් එකට අපිට මොනවාද අවශ්‍ය?",
+        "exampleReading": "ෂ්තා නාම් යෙ පොත්‍රෙබ්නො සා සුපු?"
       },
       {
         "word": "sastojak",
         "reading": "සස්තොයාක්",
         "meaning": "අමුද්‍රව්‍යය",
-        "example": "sastojak",
-        "translation": "අමුද්‍රව්‍යය"
+        "example": "Potrebni su nam krompir i šargarepa.",
+        "translation": "අපිට අර්තාපල් සහ කැරට් අවශ්‍යයි.",
+        "exampleReading": "පොත්‍රෙබ්නි සු නාම් ක්‍රොම්පිර් ඉ ෂාර්ගරෙපා."
       },
       {
         "word": "iseckati",
         "reading": "ඉසෙත්කාති",
         "meaning": "කුඩා කැබලිවලට කපන්න",
-        "example": "iseckati",
-        "translation": "කුඩා කැබලිවලට කපන්න"
+        "example": "Koliko dugo treba da se kuva?",
+        "translation": "ඒක කොච්චර වෙලාවක් උයන්න ඕනෙද?",
+        "exampleReading": "කොලිකො දුගො ත්‍රෙබා දා සේ කුවා?"
       },
       {
         "word": "kuvati",
         "reading": "කුතාවති",
         "meaning": "තම්බන්න / උයන්න",
-        "example": "kuvati",
-        "translation": "තම්බන්න / උයන්න"
+        "example": "Šta nam je potrebno za supu?",
+        "translation": "සුප් එකට අපිට මොනවාද අවශ්‍ය?",
+        "exampleReading": "ෂ්තා නාම් යෙ පොත්‍රෙබ්නො සා සුපු?"
       },
       {
         "word": "pržiti",
         "reading": "ප්‍ර්ෂිති",
         "meaning": "බදිනවා",
-        "example": "pržiti",
-        "translation": "බදිනවා"
+        "example": "Potrebni su nam krompir i šargarepa.",
+        "translation": "අපිට අර්තාපල් සහ කැරට් අවශ්‍යයි.",
+        "exampleReading": "පොත්‍රෙබ්නි සු නාම් ක්‍රොම්පිර් ඉ ෂාර්ගරෙපා."
       },
       {
         "word": "dodati",
         "reading": "දොදාති",
         "meaning": "එකතු කරන්න",
-        "example": "dodati",
-        "translation": "එකතු කරන්න"
+        "example": "Koliko dugo treba da se kuva?",
+        "translation": "ඒක කොච්චර වෙලාවක් උයන්න ඕනෙද?",
+        "exampleReading": "කොලිකො දුගො ත්‍රෙබා දා සේ කුවා?"
       },
       {
         "word": "mešati",
         "reading": "මෙෂාති",
         "meaning": "කලවම් කරන්න",
-        "example": "mešati",
-        "translation": "කලවම් කරන්න"
+        "example": "Šta nam je potrebno za supu?",
+        "translation": "සුප් එකට අපිට මොනවාද අවශ්‍ය?",
+        "exampleReading": "ෂ්තා නාම් යෙ පොත්‍රෙබ්නො සා සුපු?"
       },
       {
         "word": "ukusno",
         "reading": "උකුස්නො",
         "meaning": "රසවත්",
-        "example": "ukusno",
-        "translation": "රසවත්"
+        "example": "Potrebni su nam krompir i šargarepa.",
+        "translation": "අපිට අර්තාපල් සහ කැරට් අවශ්‍යයි.",
+        "exampleReading": "පොත්‍රෙබ්නි සු නාම් ක්‍රොම්පිර් ඉ ෂාර්ගරෙපා."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -4135,57 +4335,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "dokument",
         "reading": "документ",
         "meaning": "දොකුමෙන්ත්",
-        "example": "dokument",
-        "translation": "දොකුමෙන්ත්"
+        "example": "Gde mogu da predam ovaj zahtev?",
+        "translation": "මට මේ ඉල්ලීම භාරදෙන්න පුළුවන් කොහෙද?",
+        "exampleReading": "ග්දෙ මොගු දා ප්‍රෙදාම් ඔවායි සාහ්තෙව්?"
       },
       {
         "word": "obrazac",
         "reading": "ඔබ්‍රාසාත්ස්",
         "meaning": "පෝරමය",
-        "example": "obrazac",
-        "translation": "පෝරමය"
+        "example": "Molim vas, popunite ovaj obrazac.",
+        "translation": "මට මේ ඉල්ලීම භාරදෙන්න පුළුවන් කොහෙද?",
+        "exampleReading": "මොලිම් වාස්, පොපුනිත්තෙ ඔවායි ඔබ්‍රාසාත්ස්."
       },
       {
         "word": "potpis",
         "reading": "පොත්පිස්",
         "meaning": "අත්සන",
-        "example": "potpis",
-        "translation": "අත්සන"
+        "example": "Molim vas, popunite ovaj obrazac.",
+        "translation": "මට මේ ඉල්ලීම භාරදෙන්න පුළුවන් කොහෙද?",
+        "exampleReading": "මොලිම් වාස්, පොපුනිත්තෙ ඔවායි ඔබ්‍රාසාත්ස්."
       },
       {
         "word": "adresa",
         "reading": "අද්‍රෙසා",
         "meaning": "ලිපිනය",
-        "example": "adresa",
-        "translation": "ලිපිනය"
+        "example": "Gde mogu da predam ovaj zahtev?",
+        "translation": "මට මේ ඉල්ලීම භාරදෙන්න පුළුවන් කොහෙද?",
+        "exampleReading": "ග්දෙ මොගු දා ප්‍රෙදාම් ඔවායි සාහ්තෙව්?"
       },
       {
         "word": "lična karta",
         "reading": "ලිච්නා කාර්තා",
         "meaning": "හැඳුනුම්පත",
-        "example": "lična karta",
-        "translation": "හැඳුනුම්පත"
+        "example": "Potrebna mi je kopija lične karte.",
+        "translation": "ලේඛනය",
+        "exampleReading": "පොත්‍රෙබ්නා මි යෙ කොපියා ලිච්නෙ කාර්තෙ."
       },
       {
         "word": "šalter",
         "reading": "ෂාල්තෙර්",
         "meaning": "සේවා කවුළුව",
-        "example": "šalter",
-        "translation": "සේවා කවුළුව"
+        "example": "Molim vas, popunite ovaj obrazac.",
+        "translation": "මට මේ ඉල්ලීම භාරදෙන්න පුළුවන් කොහෙද?",
+        "exampleReading": "මොලිම් වාස්, පොපුනිත්තෙ ඔවායි ඔබ්‍රාසාත්ස්."
       },
       {
         "word": "zahtev",
         "reading": "සාහ්තෙව්",
         "meaning": "ඉල්ලීම",
-        "example": "zahtev",
-        "translation": "ඉල්ලීම"
+        "example": "Gde mogu da predam ovaj zahtev?",
+        "translation": "මට මේ ඉල්ලීම භාරදෙන්න පුළුවන් කොහෙද?",
+        "exampleReading": "ග්දෙ මොගු දා ප්‍රෙදාම් ඔවායි සාහ්තෙව්?"
       },
       {
         "word": "kopija",
         "reading": "කොපියා",
         "meaning": "පිටපත",
-        "example": "kopija",
-        "translation": "පිටපත"
+        "example": "Potrebna mi je kopija lične karte.",
+        "translation": "ලේඛනය",
+        "exampleReading": "පොත්‍රෙබ්නා මි යෙ කොපියා ලිච්නෙ කාර්තෙ."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -4300,57 +4508,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "poziv",
         "reading": "පොසිව්",
         "meaning": "දුරකථන ඇමතුම",
-        "example": "poziv",
-        "translation": "දුරකථන ඇමතුම"
+        "example": "Telefon mi ne radi dobro.",
+        "translation": "මගේ දුරකථනය හොඳින් වැඩ කරන්නේ නැහැ.",
+        "exampleReading": "තෙලෙෆොන් මි නෙ රාදි දොබ්‍රො."
       },
       {
         "word": "poruka",
         "reading": "පොරුකා",
         "meaning": "පණිවිඩය",
-        "example": "poruka",
-        "translation": "පණිවිඩය"
+        "example": "Nemam dovoljno signala.",
+        "translation": "මගේ දුරකථනය හොඳින් වැඩ කරන්නේ නැහැ.",
+        "exampleReading": "නෙමාම් දොව්ල්ය්නො සිග්නාලා."
       },
       {
         "word": "mreža",
         "reading": "ම්‍රෙෂා",
         "meaning": "ජාලය",
-        "example": "mreža",
-        "translation": "ජාලය"
+        "example": "Možete li da proverite moj internet paket?",
+        "translation": "මගේ දුරකථනය හොඳින් වැඩ කරන්නේ නැහැ.",
+        "exampleReading": "මොෂෙතෙ ලි දා ප්‍රොවෙරිත්තෙ මොයි ඉන්ටර්නෙත් පාකෙත්?"
       },
       {
         "word": "signal",
         "reading": "සිග්නාල්",
         "meaning": "සංඥාව",
-        "example": "signal",
-        "translation": "සංඥාව"
+        "example": "Nemam dovoljno signala.",
+        "translation": "මගේ දුරකථනය හොඳින් වැඩ කරන්නේ නැහැ.",
+        "exampleReading": "නෙමාම් දොව්ල්ය්නො සිග්නාලා."
       },
       {
         "word": "punjač",
         "reading": "පුන්යාච්",
         "meaning": "චාජරය",
-        "example": "punjač",
-        "translation": "චාජරය"
+        "example": "Nemam dovoljno signala.",
+        "translation": "මගේ දුරකථනය හොඳින් වැඩ කරන්නේ නැහැ.",
+        "exampleReading": "නෙමාම් දොව්ල්ය්නො සිග්නාලා."
       },
       {
         "word": "baterija",
         "reading": "බාතෙරියා",
         "meaning": "බැටරිය",
-        "example": "baterija",
-        "translation": "බැටරිය"
+        "example": "Možete li da proverite moj internet paket?",
+        "translation": "මගේ දුරකථනය හොඳින් වැඩ කරන්නේ නැහැ.",
+        "exampleReading": "මොෂෙතෙ ලි දා ප්‍රොවෙරිත්තෙ මොයි ඉන්ටර්නෙත් පාකෙත්?"
       },
       {
         "word": "internet paket",
         "reading": "ඉන්ටර්නෙත් පාකෙත්",
         "meaning": "අන්තර්ජාල පැකේජය",
-        "example": "internet paket",
-        "translation": "අන්තර්ජාල පැකේජය"
+        "example": "Možete li da proverite moj internet paket?",
+        "translation": "මගේ දුරකථනය හොඳින් වැඩ කරන්නේ නැහැ.",
+        "exampleReading": "මොෂෙතෙ ලි දා ප්‍රොවෙරිත්තෙ මොයි ඉන්ටර්නෙත් පාකෙත්?"
       },
       {
         "word": "lozinka",
         "reading": "ලොසින්කා",
         "meaning": "මුරපදය",
-        "example": "lozinka",
-        "translation": "මුරපදය"
+        "example": "Nemam dovoljno signala.",
+        "translation": "මගේ දුරකථනය හොඳින් වැඩ කරන්නේ නැහැ.",
+        "exampleReading": "නෙමාම් දොව්ල්ය්නො සිග්නාලා."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -4465,57 +4681,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "proslava",
         "reading": "ප්‍රොස්ලාවා",
         "meaning": "උත්සවය",
-        "example": "proslava",
-        "translation": "උත්සවය"
+        "example": "Pozivam te na moj rođendan.",
+        "translation": "ආරාධනාවට ස්තුතියි, මම සතුටින් එන්නම්.",
+        "exampleReading": "පොසිවාම් තෙ නා මොයි රොජෙන්දාන්."
       },
       {
         "word": "rođendan",
         "reading": "රොජෙන්දාන්",
         "meaning": "උපන්දිනය",
-        "example": "rođendan",
-        "translation": "උපන්දිනය"
+        "example": "Pozivam te na moj rođendan.",
+        "translation": "ආරාධනාවට ස්තුතියි, මම සතුටින් එන්නම්.",
+        "exampleReading": "පොසිවාම් තෙ නා මොයි රොජෙන්දාන්."
       },
       {
         "word": "pozivnica",
         "reading": "පොසිව්නිතසා",
         "meaning": "ආරාධනා පත්‍රය",
-        "example": "pozivnica",
-        "translation": "ආරාධනා පත්‍රය"
+        "example": "Nažalost, ne mogu tog dana.",
+        "translation": "ආරාධනාවට ස්තුතියි, මම සතුටින් එන්නම්.",
+        "exampleReading": "නාෂාලොස්ත්, නෙ මොගු තොග දනා."
       },
       {
         "word": "gost",
         "reading": "ගොස්ත්",
         "meaning": "අමුත්තා",
-        "example": "gost",
-        "translation": "අමුත්තා"
+        "example": "Pozivam te na moj rođendan.",
+        "translation": "ආරාධනාවට ස්තුතියි, මම සතුටින් එන්නම්.",
+        "exampleReading": "පොසිවාම් තෙ නා මොයි රොජෙන්දාන්."
       },
       {
         "word": "poklon",
         "reading": "පොක්ලොන්",
         "meaning": "තෑග්ග",
-        "example": "poklon",
-        "translation": "තෑග්ග"
+        "example": "Hvala, rado ću doći.",
+        "translation": "ආරාධනාවට ස්තුතියි, මම සතුටින් එන්නම්.",
+        "exampleReading": "හ්වාලා, රාදො චු දොචි."
       },
       {
         "word": "slaviti",
         "reading": "ස්ලාවිති",
         "meaning": "සමරනවා",
-        "example": "slaviti",
-        "translation": "සමරනවා"
+        "example": "Nažalost, ne mogu tog dana.",
+        "translation": "ආරාධනාවට ස්තුතියි, මම සතුටින් එන්නම්.",
+        "exampleReading": "නාෂාලොස්ත්, නෙ මොගු තොග දනා."
       },
       {
         "word": "prihvatiti",
         "reading": "ප්‍රිහ්වාතිති",
         "meaning": "පිළිගන්නවා",
-        "example": "prihvatiti",
-        "translation": "පිළිගන්නවා"
+        "example": "Pozivam te na moj rođendan.",
+        "translation": "ආරාධනාවට ස්තුතියි, මම සතුටින් එන්නම්.",
+        "exampleReading": "පොසිවාම් තෙ නා මොයි රොජෙන්දාන්."
       },
       {
         "word": "odbiti",
         "reading": "ඔද්බිති",
         "meaning": "ප්‍රතික්ෂේප කරනවා",
-        "example": "odbiti",
-        "translation": "ප්‍රතික්ෂේප කරනවා"
+        "example": "Hvala, rado ću doći.",
+        "translation": "ආරාධනාවට ස්තුතියි, මම සතුටින් එන්නම්.",
+        "exampleReading": "හ්වාලා, රාදො චු දොචි."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -4630,57 +4854,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "životna sredina",
         "reading": "ෂිවොත්නා ස්‍රෙදිනා",
         "meaning": "පරිසරය",
-        "example": "životna sredina",
-        "translation": "පරිසරය"
+        "example": "Trebalo bi da recikliramo papir.",
+        "translation": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි.",
+        "exampleReading": "ත්‍රෙබාලො බි දා රෙත්සිකලිрамො පාපිර්."
       },
       {
         "word": "otpad",
         "reading": "ඔත්පාද්",
         "meaning": "අපද්‍රව්‍ය",
-        "example": "otpad",
-        "translation": "අපද්‍රව්‍ය"
+        "example": "Ne koristim plastične kese.",
+        "translation": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි.",
+        "exampleReading": "නෙ කොරිස්තිම් ප්ලාස්තිච්නෙ කෙසෙ."
       },
       {
         "word": "reciklaža",
         "reading": "රෙත්සිකලාෂා",
         "meaning": "ප්‍රතිචක්‍රීකරණය",
-        "example": "reciklaža",
-        "translation": "ප්‍රතිචක්‍රීකරණය"
+        "example": "Važno je da čuvamo prirodu.",
+        "translation": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි.",
+        "exampleReading": "වාෂ්නො යෙ දා චුවාමො ප්‍රිරොදු."
       },
       {
         "word": "plastika",
         "reading": "ප්ලාස්තිකා",
         "meaning": "ප්ලාස්ටික්",
-        "example": "plastika",
-        "translation": "ප්ලාස්ටික්"
+        "example": "Trebalo bi da recikliramo papir.",
+        "translation": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි.",
+        "exampleReading": "ත්‍රෙබාලො බි දා රෙත්සිකලිрамො පාපිර්."
       },
       {
         "word": "papir",
         "reading": "පාපිර්",
         "meaning": "කඩදාසි",
-        "example": "papir",
-        "translation": "කඩදාසි"
+        "example": "Trebalo bi da recikliramo papir.",
+        "translation": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි.",
+        "exampleReading": "ත්‍රෙබාලො බි දා රෙත්සිකලිрамො පාපිර්."
       },
       {
         "word": "štedeti",
         "reading": "ෂ්තෙදෙති",
         "meaning": "ඉතිරි කිරීම",
-        "example": "štedeti",
-        "translation": "ඉතිරි කිරීම"
+        "example": "Važno je da čuvamo prirodu.",
+        "translation": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි.",
+        "exampleReading": "වාෂ්නො යෙ දා චුවාමො ප්‍රිරොදු."
       },
       {
         "word": "čist",
         "reading": "චිස්ත්",
         "meaning": "පිරිසිදු",
-        "example": "čist",
-        "translation": "පිරිසිදු"
+        "example": "Trebalo bi da recikliramo papir.",
+        "translation": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි.",
+        "exampleReading": "ත්‍රෙබාලො බි දා රෙත්සිකලිрамො පාපිර්."
       },
       {
         "word": "zagađenje",
         "reading": "සාගාජෙන්යෙ",
         "meaning": "දූෂණය",
-        "example": "zagađenje",
-        "translation": "දූෂණය"
+        "example": "Ne koristim plastične kese.",
+        "translation": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි.",
+        "exampleReading": "නෙ කොරිස්තිම් ප්ලාස්තිච්නෙ කෙසෙ."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -4795,57 +5027,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "hobi",
         "reading": "හොබි",
         "meaning": "විනෝදාංශය",
-        "example": "hobi",
-        "translation": "විනෝදාංශය"
+        "example": "U slobodno vreme čitam knjige.",
+        "translation": "නිදහස් කාලයේ මම පොත් කියවනවා.",
+        "exampleReading": "උ ස්ලොබොද්නො ව්‍රෙමෙ චිතාම් ක්න්යිගෙ."
       },
       {
         "word": "šetnja",
         "reading": "ෂෙත්න්යා",
         "meaning": "ඇවිදීම",
-        "example": "šetnja",
-        "translation": "ඇවිදීම"
+        "example": "Volim da idem u teretanu.",
+        "translation": "නිදහස් කාලයේ මම පොත් කියවනවා.",
+        "exampleReading": "වොලිම් දා ඉදෙම් උ තෙරෙතානු."
       },
       {
         "word": "članstvo",
         "reading": "ච්ලාන්ස්ත්වො",
         "meaning": "සාමාජිකත්වය",
-        "example": "članstvo",
-        "translation": "සාමාජිකත්වය"
+        "example": "Vikendom često šetam.",
+        "translation": "නිදහස් කාලයේ මම පොත් කියවනවා.",
+        "exampleReading": "විකෙන්දොම් චෙස්තො ෂෙතාම්."
       },
       {
         "word": "teretana",
         "reading": "තෙරෙතානා",
         "meaning": "ව්‍යායාම ශාලාව",
-        "example": "teretana",
-        "translation": "ව්‍යායාම ශාලාව"
+        "example": "U slobodno vreme čitam knjige.",
+        "translation": "නිදහස් කාලයේ මම පොත් කියවනවා.",
+        "exampleReading": "උ ස්ලොබොද්නො ව්‍රෙමෙ චිතාම් ක්න්යිගෙ."
       },
       {
         "word": "trening",
         "reading": "ත්‍රෙනින්ග්",
         "meaning": "පුහුණුව",
-        "example": "trening",
-        "translation": "පුහුණුව"
+        "example": "Volim da idem u teretanu.",
+        "translation": "නිදහස් කාලයේ මම පොත් කියවනවා.",
+        "exampleReading": "වොලිම් දා ඉදෙම් උ තෙරෙතානු."
       },
       {
         "word": "knjiga",
         "reading": "ක්න්යිගා",
         "meaning": "පොත",
-        "example": "knjiga",
-        "translation": "පොත"
+        "example": "Vikendom često šetam.",
+        "translation": "නිදහස් කාලයේ මම පොත් කියවනවා.",
+        "exampleReading": "විකෙන්දොම් චෙස්තො ෂෙතාම්."
       },
       {
         "word": "svirati",
         "reading": "ස්විරාති",
         "meaning": "සංගීත භාණ්ඩයක් වාදනය කිරීම",
-        "example": "svirati",
-        "translation": "සංගීත භාණ්ඩයක් වාදනය කිරීම"
+        "example": "U slobodno vreme čitam knjige.",
+        "translation": "නිදහස් කාලයේ මම පොත් කියවනවා.",
+        "exampleReading": "උ ස්ලොබොද්නො ව්‍රෙමෙ චිතාම් ක්න්යිගෙ."
       },
       {
         "word": "slobodno vreme",
         "reading": "ස්ලොබොද්නො ව්‍රෙමෙ",
         "meaning": "නිදහස් කාලය",
-        "example": "slobodno vreme",
-        "translation": "නිදහස් කාලය"
+        "example": "U slobodno vreme čitam knjige.",
+        "translation": "නිදහස් කාලයේ මම පොත් කියවනවා.",
+        "exampleReading": "උ ස්ලොබොද්නො ව්‍රෙමෙ චිතාම් ක්න්යිගෙ."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -4960,57 +5200,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "račun",
         "reading": "රාචුන්",
         "meaning": "ගිණුම / බිල",
-        "example": "račun",
-        "translation": "ගිණුම / බිල"
+        "example": "Želeo bih da otvorim račun.",
+        "translation": "මට ගිණුමක් විවෘත කරන්න ඕනේ.",
+        "exampleReading": "ෂෙලෙඔ බිහ් දා ඔත්වොරිම් රාචුන්."
       },
       {
         "word": "bankomat",
         "reading": "බන්කොමාත්",
         "meaning": "ATM යන්ත්‍රය",
-        "example": "bankomat",
-        "translation": "ATM යන්ත්‍රය"
+        "example": "Da li mogu da platim karticom?",
+        "translation": "මට කාඩ්පතෙන් ගෙවන්න පුළුවන්ද?",
+        "exampleReading": "දා ලි මොගු දා ප්ලාතිම් කාර්තිත්සොම්?"
       },
       {
         "word": "kartica",
         "reading": "කාර්තිත්සා",
         "meaning": "කාඩ්පත",
-        "example": "kartica",
-        "translation": "කාඩ්පත"
+        "example": "Kolika je provizija?",
+        "translation": "සේවා ගාස්තුව කීයද?",
+        "exampleReading": "කොලිකා යේ ප්‍රොවිසියා?"
       },
       {
         "word": "gotovina",
         "reading": "ගොතොවිනා",
         "meaning": "මුදල් නෝට්ටු",
-        "example": "gotovina",
-        "translation": "මුදල් නෝට්ටු"
+        "example": "Želeo bih da otvorim račun.",
+        "translation": "මට ගිණුමක් විවෘත කරන්න ඕනේ.",
+        "exampleReading": "ෂෙලෙඔ බිහ් දා ඔත්වොරිම් රාචුන්."
       },
       {
         "word": "uplata",
         "reading": "උප්ලාතා",
         "meaning": "මුදල් තැන්පත් කිරීම",
-        "example": "uplata",
-        "translation": "මුදල් තැන්පත් කිරීම"
+        "example": "Da li mogu da platim karticom?",
+        "translation": "මට කාඩ්පතෙන් ගෙවන්න පුළුවන්ද?",
+        "exampleReading": "දා ලි මොගු දා ප්ලාතිම් කාර්තිත්සොම්?"
       },
       {
         "word": "isplata",
         "reading": "ඉස්ප්ලාතා",
         "meaning": "මුදල් ලබාගැනීම",
-        "example": "isplata",
-        "translation": "මුදල් ලබාගැනීම"
+        "example": "Kolika je provizija?",
+        "translation": "සේවා ගාස්තුව කීයද?",
+        "exampleReading": "කොලිකා යේ ප්‍රොවිසියා?"
       },
       {
         "word": "provizija",
         "reading": "ප්‍රොවිසියා",
         "meaning": "සේවා ගාස්තුව",
-        "example": "provizija",
-        "translation": "සේවා ගාස්තුව"
+        "example": "Kolika je provizija?",
+        "translation": "සේවා ගාස්තුව කීයද?",
+        "exampleReading": "කොලිකා යේ ප්‍රොවිසියා?"
       },
       {
         "word": "stanje",
         "reading": "ස්තාන්යෙ",
         "meaning": "ශේෂය",
-        "example": "stanje",
-        "translation": "ශේෂය"
+        "example": "Da li mogu da platim karticom?",
+        "translation": "මට කාඩ්පතෙන් ගෙවන්න පුළුවන්ද?",
+        "exampleReading": "දා ලි මොගු දා ප්ලාතිම් කාර්තිත්සොම්?"
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -5125,57 +5373,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "pošta",
         "reading": "පොෂ්තා",
         "meaning": "තැපැල් කාර්යාලය",
-        "example": "pošta",
-        "translation": "තැපැල් කාර්යාලය"
+        "example": "Želim da pošaljem paket.",
+        "translation": "මට පාර්සලයක් යවන්න ඕනේ.",
+        "exampleReading": "ෂෙලිම් දා පොෂාල්යෙම් පාකෙත්."
       },
       {
         "word": "paket",
         "reading": "පාකෙත්",
         "meaning": "පාර්සලය",
-        "example": "paket",
-        "translation": "පාර්සලය"
+        "example": "Želim da pošaljem paket.",
+        "translation": "මට පාර්සලයක් යවන්න ඕනේ.",
+        "exampleReading": "ෂෙලිම් දා පොෂාල්යෙම් පාකෙත්."
       },
       {
         "word": "pismo",
         "reading": "පිස්මො",
         "meaning": "ලිපිය",
-        "example": "pismo",
-        "translation": "ලිපිය"
+        "example": "Ovo je moja adresa.",
+        "translation": "මේ මගේ ලිපිනයයි.",
+        "exampleReading": "ඔවො යේ මොයා අද්‍රෙසා."
       },
       {
         "word": "adresa",
         "reading": "අද්‍රෙසා",
         "meaning": "ලිපිනය",
-        "example": "adresa",
-        "translation": "ලිපිනය"
+        "example": "Ovo je moja adresa.",
+        "translation": "මේ මගේ ලිපිනයයි.",
+        "exampleReading": "ඔවො යේ මොයා අද්‍රෙසා."
       },
       {
         "word": "pošiljalac",
         "reading": "පොෂිලයාළත්ස්",
         "meaning": "යවන්නා",
-        "example": "pošiljalac",
-        "translation": "යවන්නා"
+        "example": "Koliko traje isporuka?",
+        "translation": "බෙදාහැරීමට කොපමණ කාලයක් යනවාද?",
+        "exampleReading": "කොලිකො ත්‍රායේ ඉස්පොරුකා?"
       },
       {
         "word": "primalac",
         "reading": "ප්‍රිමාළත්ස්",
         "meaning": "ලබන්නා",
-        "example": "primalac",
-        "translation": "ලබන්නා"
+        "example": "Ovo je moja adresa.",
+        "translation": "මේ මගේ ලිපිනයයි.",
+        "exampleReading": "ඔවො යේ මොයා අද්‍රෙසා."
       },
       {
         "word": "markica",
         "reading": "මාර්කිත්සා",
         "meaning": "මුද්දරය",
-        "example": "markica",
-        "translation": "මුද්දරය"
+        "example": "Želim da pošaljem paket.",
+        "translation": "මට පාර්සලයක් යවන්න ඕනේ.",
+        "exampleReading": "ෂෙලිම් දා පොෂාල්යෙම් පාකෙත්."
       },
       {
         "word": "isporuka",
         "reading": "ඉස්පොරුකා",
         "meaning": "බෙදාහැරීම",
-        "example": "isporuka",
-        "translation": "බෙදාහැරීම"
+        "example": "Koliko traje isporuka?",
+        "translation": "බෙදාහැරීමට කොපමණ කාලයක් යනවාද?",
+        "exampleReading": "කොලිකො ත්‍රායේ ඉස්පොරුකා?"
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -5290,57 +5546,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "kašnjenje",
         "reading": "කාෂ්න්යෙන්යෙ",
         "meaning": "ප්‍රමාදය",
-        "example": "kašnjenje",
-        "translation": "ප්‍රමාදය"
+        "example": "Autobus kasni dvadeset minuta.",
+        "translation": "බස් රථය විනාඩි විස්සක් ප්‍රමාදයි.",
+        "exampleReading": "ඔතොබුස් කාස්නි ද්වාදෙසෙත් මිනූතා."
       },
       {
         "word": "otkazano",
         "reading": "ඔත්කාසානො",
         "meaning": "අවලංගු කළා",
-        "example": "otkazano",
-        "translation": "අවලංගු කළා"
+        "example": "Voz je otkazan.",
+        "translation": "දුම්රිය අවලංගු කරලා.",
+        "exampleReading": "වොස් යේ ඔත්කාසාන්."
       },
       {
         "word": "polazak",
         "reading": "පොලාසාක්",
         "meaning": "පිටත්වීම",
-        "example": "polazak",
-        "translation": "පිටත්වීම"
+        "example": "Koji je sledeći polazak?",
+        "translation": "ඊළඟ පිටත්වීම කවදාද?",
+        "exampleReading": "කොයි යේ ස්ලෙදෙචි පොලාසාක්?"
       },
       {
         "word": "dolazak",
         "reading": "දොලාසාක්",
         "meaning": "පැමිණීම",
-        "example": "dolazak",
-        "translation": "පැමිණීම"
+        "example": "Autobus kasni dvadeset minuta.",
+        "translation": "බස් රථය විනාඩි විස්සක් ප්‍රමාදයි.",
+        "exampleReading": "ඔතොබුස් කාස්නි ද්වාදෙසෙත් මිනූතා."
       },
       {
         "word": "peron",
         "reading": "පෙරොන්",
         "meaning": "වේදිකාව",
-        "example": "peron",
-        "translation": "වේදිකාව"
+        "example": "Voz je otkazan.",
+        "translation": "දුම්රිය අවලංගු කරලා.",
+        "exampleReading": "වොස් යේ ඔත්කාසාන්."
       },
       {
         "word": "presedanje",
         "reading": "ප්‍රෙසෙදාන්යෙ",
         "meaning": "වාහන මාරු කිරීම",
-        "example": "presedanje",
-        "translation": "වාහන මාරු කිරීම"
+        "example": "Koji je sledeći polazak?",
+        "translation": "ඊළඟ පිටත්වීම කවදාද?",
+        "exampleReading": "කොයි යේ ස්ලෙදෙචි පොලාසාක්?"
       },
       {
         "word": "gužva",
         "reading": "ගුෂ්වා",
         "meaning": "තදබදය",
-        "example": "gužva",
-        "translation": "තදබදය"
+        "example": "Autobus kasni dvadeset minuta.",
+        "translation": "බස් රථය විනාඩි විස්සක් ප්‍රමාදයි.",
+        "exampleReading": "ඔතොබුස් කාස්නි ද්වාදෙසෙත් මිනූතා."
       },
       {
         "word": "zamena",
         "reading": "සාමෙනා",
         "meaning": "විකල්පය / ආදේශය",
-        "example": "zamena",
-        "translation": "විකල්පය / ආදේශය"
+        "example": "Voz je otkazan.",
+        "translation": "දුම්රිය අවලංගු කරලා.",
+        "exampleReading": "වොස් යේ ඔත්කාසාන්."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -5455,57 +5719,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "iskustvo",
         "reading": "ඉස්කුස්ත්වො",
         "meaning": "පළපුරුද්ද",
-        "example": "iskustvo",
-        "translation": "පළපුරුද්ද"
+        "example": "Imam tri godine iskustva.",
+        "translation": "මට අවුරුදු තුනක පළපුරුද්ද තියෙනවා.",
+        "exampleReading": "ඉමාම් ත්‍රි ගොදිනෙ ඉස්කුස්ත්වා."
       },
       {
         "word": "veština",
         "reading": "වෙෂ්තිනා",
         "meaning": "කුසලතාව",
-        "example": "veština",
-        "translation": "කුසලතාව"
+        "example": "Dobro radim u timu.",
+        "translation": "මම කණ්ඩායමක හොඳින් වැඩ කරනවා.",
+        "exampleReading": "දොබ්‍රො රාදිම් උ තීමු."
       },
       {
         "word": "prijava",
         "reading": "ප්‍රියාවා",
         "meaning": "අයදුම්පත",
-        "example": "prijava",
-        "translation": "අයදුම්පත"
+        "example": "Mogu da počnem odmah.",
+        "translation": "මට වහාම වැඩ පටන් ගන්න පුළුවන්.",
+        "exampleReading": "මොගු දා පොච්නෙම් ඔද්මාහ්."
       },
       {
         "word": "intervju",
         "reading": "ඉන්ටර්ව්යු",
         "meaning": "සම්මුඛ පරීක්ෂණය",
-        "example": "intervju",
-        "translation": "සම්මුඛ පරීක්ෂණය"
+        "example": "Imam tri godine iskustva.",
+        "translation": "මට අවුරුදු තුනක පළපුරුද්ද තියෙනවා.",
+        "exampleReading": "ඉමාම් ත්‍රි ගොදිනෙ ඉස්කුස්ත්වා."
       },
       {
         "word": "poslodavac",
         "reading": "පොස්ලොදාවාත්ස්",
         "meaning": "සේවායෝජකයා",
-        "example": "poslodavac",
-        "translation": "සේවායෝජකයා"
+        "example": "Dobro radim u timu.",
+        "translation": "මම කණ්ඩායමක හොඳින් වැඩ කරනවා.",
+        "exampleReading": "දොබ්‍රො රාදිම් උ තීමු."
       },
       {
         "word": "zaposlenje",
         "reading": "සාපොස්ලෙන්යෙ",
         "meaning": "රැකියාව",
-        "example": "zaposlenje",
-        "translation": "රැකියාව"
+        "example": "Mogu da počnem odmah.",
+        "translation": "මට වහාම වැඩ පටන් ගන්න පුළුවන්.",
+        "exampleReading": "මොගු දා පොච්නෙම් ඔද්මාහ්."
       },
       {
         "word": "odgovornost",
         "reading": "ඔද්ගොවොර්නොස්ත්",
         "meaning": "වගකීම",
-        "example": "odgovornost",
-        "translation": "වගකීම"
+        "example": "Imam tri godine iskustva.",
+        "translation": "මට අවුරුදු තුනක පළපුරුද්ද තියෙනවා.",
+        "exampleReading": "ඉමාම් ත්‍රි ගොදිනෙ ඉස්කුස්ත්වා."
       },
       {
         "word": "preporuka",
         "reading": "ප්‍රෙපොරුකා",
         "meaning": "නිර්දේශය",
-        "example": "preporuka",
-        "translation": "නිර්දේශය"
+        "example": "Dobro radim u timu.",
+        "translation": "මම කණ්ඩායමක හොඳින් වැඩ කරනවා.",
+        "exampleReading": "දොබ්‍රො රාදිම් උ තීමු."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -5620,57 +5892,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "naselje",
         "reading": "නාසෙල්යෙ",
         "meaning": "අසල්වැසි ප්‍රදේශය",
-        "example": "naselje",
-        "translation": "අසල්වැසි ප්‍රදේශය"
+        "example": "Moje naselje je veoma mirno.",
+        "translation": "මගේ ප්‍රදේශය ඉතා නිස්කලංකයි.",
+        "exampleReading": "මොයේ නාසෙල්යෙ යේ වෙඔමා මීර්නො."
       },
       {
         "word": "centar",
         "reading": "ත්සෙන්තාර්",
         "meaning": "නගර මධ්‍යය",
-        "example": "centar",
-        "translation": "නගර මධ්‍යය"
+        "example": "Centar je blizu mog stana.",
+        "translation": "නගර මධ්‍යය මගේ නිවසට ළඟයි.",
+        "exampleReading": "ත්සෙන්තාර් යේ බ්ලිසු මොග් ස්තානා."
       },
       {
         "word": "park",
         "reading": "පාර්ක්",
         "meaning": "උද්‍යානය",
-        "example": "park",
-        "translation": "උද්‍යානය"
+        "example": "U blizini ima veliki park.",
+        "translation": "ළඟ විශාල උද්‍යානයක් තියෙනවා.",
+        "exampleReading": "උ බ්ලිසිනි ඉමා වෙලිකි පාර්ක්."
       },
       {
         "word": "prodavnica",
         "reading": "ප්‍රොදාව්නිත්සා",
         "meaning": "සාප්පුව",
-        "example": "prodavnica",
-        "translation": "සාප්පුව"
+        "example": "Moje naselje je veoma mirno.",
+        "translation": "මගේ ප්‍රදේශය ඉතා නිස්කලංකයි.",
+        "exampleReading": "මොයේ නාසෙල්යෙ යේ වෙඔමා මීර්නො."
       },
       {
         "word": "škola",
         "reading": "ෂ්කොලා",
         "meaning": "පාසල",
-        "example": "škola",
-        "translation": "පාසල"
+        "example": "U blizini ima veliki park.",
+        "translation": "ළඟ විශාල උද්‍යානයක් තියෙනවා.",
+        "exampleReading": "උ බ්ලිසිනි ඉමා වෙලිකි පාර්ක්."
       },
       {
         "word": "bolnica",
         "reading": "බොල්නිත्सा",
         "meaning": "රෝහල",
-        "example": "bolnica",
-        "translation": "රෝහල"
+        "example": "Centar je blizu mog stana.",
+        "translation": "නගර මධ්‍යය මගේ නිවසට ළඟයි.",
+        "exampleReading": "ත්සෙන්තාර් යේ බ්ලිසු මොග් ස්තානා."
       },
       {
         "word": "mirno",
         "reading": "මීර්නො",
         "meaning": "නිස්කලංක",
-        "example": "mirno",
-        "translation": "නිස්කලංක"
+        "example": "Moje naselje je veoma mirno.",
+        "translation": "මගේ ප්‍රදේශය ඉතා නිස්කලංකයි.",
+        "exampleReading": "මොයේ නාසෙල්යෙ යේ වෙඔමා මීර්නො."
       },
       {
         "word": "prometno",
         "reading": "ප්‍රොමෙත්නො",
         "meaning": "වාහන තදබදය සහිත",
-        "example": "prometno",
-        "translation": "වාහන තදබදය සහිත"
+        "example": "U blizini ima veliki park.",
+        "translation": "ළඟ විශාල උද්‍යානයක් තියෙනවා.",
+        "exampleReading": "උ බ්ලිසිනි ඉමා වෙලිකි පාර්ක්."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -5785,57 +6065,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "putovanje",
         "reading": "පුතොවාන්යෙ",
         "meaning": "ගමන",
-        "example": "putovanje",
-        "translation": "ගමන"
+        "example": "Planiram putovanje sledeće nedelje.",
+        "translation": "මම ලබන සතියේ ගමනක් සැලසුම් කරනවා.",
+        "exampleReading": "ප්ලානිрам පුතොවාන්යෙ ස්ලෙදෙචෙ නෙදෙල්යෙ."
       },
       {
         "word": "rezervacija",
         "reading": "රෙසෙර්වාත්සියා",
         "meaning": "වෙන්කිරීම",
-        "example": "rezervacija",
-        "translation": "වෙන්කිරීම"
+        "example": "Želeo bih da rezervišem sobu.",
+        "translation": "මම කාමරයක් වෙන්කරගන්න කැමතියි.",
+        "exampleReading": "ෂෙලෙඔ බිහ් දා රෙසෙර්විෂෙම් සොබු."
       },
       {
         "word": "smeštaj",
         "reading": "ස්මෙෂ්තායි",
         "meaning": "නවාතැන්",
-        "example": "smeštaj",
-        "translation": "නවාතැන්"
+        "example": "Kada je polazak?",
+        "translation": "පිටත්වීම කවදාද?",
+        "exampleReading": "කාදා යේ පොලාසාක්?"
       },
       {
         "word": "prenoćište",
         "reading": "ප්‍රෙනොචිෂ්තෙ",
         "meaning": "රාත්‍රී නවාතැන",
-        "example": "prenoćište",
-        "translation": "රාත්‍රී නවාතැන"
+        "example": "Planiram putovanje sledeće nedelje.",
+        "translation": "මම ලබන සතියේ ගමනක් සැලසුම් කරනවා.",
+        "exampleReading": "ප්ලානිрам පුතොවාන්යෙ ස්ලෙදෙචෙ නෙදෙල්යෙ."
       },
       {
         "word": "polazak",
         "reading": "පොලාසාක්",
         "meaning": "පිටත්වීම",
-        "example": "polazak",
-        "translation": "පිටත්වීම"
+        "example": "Kada je polazak?",
+        "translation": "පිටත්වීම කවදාද?",
+        "exampleReading": "කාදා යේ පොලාසාක්?"
       },
       {
         "word": "dolazak",
         "reading": "දොලාසාක්",
         "meaning": "පැමිණීම",
-        "example": "dolazak",
-        "translation": "පැමිණීම"
+        "example": "Kada je polazak?",
+        "translation": "පිටත්වීම කවදාද?",
+        "exampleReading": "කාදා යේ පොලාසාක්?"
       },
       {
         "word": "prtljag",
         "reading": "ප්‍ර්ත්ල්යාග්",
         "meaning": "ගමන් මලු",
-        "example": "prtljag",
-        "translation": "ගමන් මලු"
+        "example": "Planiram putovanje sledeće nedelje.",
+        "translation": "මම ලබන සතියේ ගමනක් සැලසුම් කරනවා.",
+        "exampleReading": "ප්ලානිрам පුතොවාන්යෙ ස්ලෙදෙචෙ නෙදෙල්යෙ."
       },
       {
         "word": "slobodno mesto",
         "reading": "ස්ලොබොද්නො මෙස්තො",
         "meaning": "හිස් ස්ථානය",
-        "example": "slobodno mesto",
-        "translation": "හිස් ස්ථානය"
+        "example": "Želeo bih da rezervišem sobu.",
+        "translation": "මම කාමරයක් වෙන්කරගන්න කැමතියි.",
+        "exampleReading": "ෂෙලෙඔ බිහ් දා රෙසෙර්විෂෙම් සොබු."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -5950,57 +6238,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "problem",
         "reading": "ප්‍රොබ්ලෙම්",
         "meaning": "ගැටලුව",
-        "example": "problem",
-        "translation": "ගැටලුව"
+        "example": "Imam problem sa ovim proizvodom.",
+        "translation": "මට මේ භාණ්ඩය සම්බන්ධ ගැටලුවක් තියෙනවා.",
+        "exampleReading": "ඉමාම් ප්‍රොබ්ලෙම් සා ඔවිම් ප්‍රොයිස්වොදොම්."
       },
       {
         "word": "oštećen",
         "reading": "ඔෂ්තෙචෙන්",
         "meaning": "හානි වූ",
-        "example": "oštećen",
-        "translation": "හානි වූ"
+        "example": "Proizvod je oštećen.",
+        "translation": "භාණ්ඩය හානි වෙලා.",
+        "exampleReading": "ප්‍රොයිස්වොද් යේ ඔෂ්තෙචෙන්."
       },
       {
         "word": "pogrešan",
         "reading": "පොග්‍රෙෂාන්",
         "meaning": "වැරදි",
-        "example": "pogrešan",
-        "translation": "වැරදි"
+        "example": "Možete li da ga zamenite?",
+        "translation": "ඔබට ඒක මාරු කරලා දෙන්න පුළුවන්ද?",
+        "exampleReading": "මොෂෙතෙ ලි දා ගා සාමෙණිතෙ?"
       },
       {
         "word": "račun",
         "reading": "රාචුන්",
         "meaning": "බිල",
-        "example": "račun",
-        "translation": "බිල"
+        "example": "Imam problem sa ovim proizvodom.",
+        "translation": "මට මේ භාණ්ඩය සම්බන්ධ ගැටලුවක් තියෙනවා.",
+        "exampleReading": "ඉමාම් ප්‍රොබ්ලෙම් සා ඔවිම් ප්‍රොයිස්වොදොම්."
       },
       {
         "word": "zamena",
         "reading": "සාමෙනා",
         "meaning": "මාරු කිරීම",
-        "example": "zamena",
-        "translation": "මාරු කිරීම"
+        "example": "Proizvod je oštećen.",
+        "translation": "භාණ්ඩය හානි වෙලා.",
+        "exampleReading": "ප්‍රොයිස්වොද් යේ ඔෂ්තෙචෙන්."
       },
       {
         "word": "povraćaj novca",
         "reading": "පොව්රාචායි නොව්ත්සා",
         "meaning": "මුදල් ආපසු ලබාදීම",
-        "example": "povraćaj novca",
-        "translation": "මුදල් ආපසු ලබාදීම"
+        "example": "Možete li da ga zamenite?",
+        "translation": "ඔබට ඒක මාරු කරලා දෙන්න පුළුවන්ද?",
+        "exampleReading": "මොෂෙතෙ ලි දා ගා සාමෙණිතෙ?"
       },
       {
         "word": "reklamacija",
         "reading": "රෙක්ලාමාත්සියා",
         "meaning": "පැමිණිල්ල",
-        "example": "reklamacija",
-        "translation": "පැමිණිල්ල"
+        "example": "Imam problem sa ovim proizvodom.",
+        "translation": "මට මේ භාණ්ඩය සම්බන්ධ ගැටලුවක් තියෙනවා.",
+        "exampleReading": "ඉමාම් ප්‍රොබ්ලෙම් සා ඔවිම් ප්‍රොයිස්වොදොම්."
       },
       {
         "word": "rešenje",
         "reading": "රෙෂෙන්යෙ",
         "meaning": "විසඳුම",
-        "example": "rešenje",
-        "translation": "විසඳුම"
+        "example": "Proizvod je oštećen.",
+        "translation": "භාණ්ඩය හානි වෙලා.",
+        "exampleReading": "ප්‍රොයිස්වොද් යේ ඔෂ්තෙචෙන්."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -6115,57 +6411,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "recept",
         "reading": "රෙත්සෙප්ත්",
         "meaning": "වට්ටෝරුව",
-        "example": "recept",
-        "translation": "වට්ටෝරුව"
+        "example": "Prvo iseći povrće.",
+        "translation": "මුලින්ම එළවළු කපන්න.",
+        "exampleReading": "ප්‍ර්වො ඉසෙචි පොව්ර්චෙ."
       },
       {
         "word": "sastojak",
         "reading": "සාස්තොයාක්",
         "meaning": "අමුද්‍රව්‍යය",
-        "example": "sastojak",
-        "translation": "අමුද්‍රව්‍යය"
+        "example": "Zatim pomešati sve sastojke.",
+        "translation": "ඊළඟට සියලු අමුද්‍රව්‍ය මිශ්‍ර කරන්න.",
+        "exampleReading": "සාතිම් පොමෙෂාති ස්වේ සාස්තොයිකෙ."
       },
       {
         "word": "brašno",
         "reading": "බ්‍රාෂ්නො",
         "meaning": "පිටි",
-        "example": "brašno",
-        "translation": "පිටි"
+        "example": "Kuvajte deset minuta.",
+        "translation": "විනාඩි දහයක් උයන්න.",
+        "exampleReading": "කුවායිතෙ දෙසෙත් මිනුතා."
       },
       {
         "word": "ulje",
         "reading": "උල්යෙ",
         "meaning": "තෙල්",
-        "example": "ulje",
-        "translation": "තෙල්"
+        "example": "Prvo iseći povrće.",
+        "translation": "මුලින්ම එළවළු කපන්න.",
+        "exampleReading": "ප්‍ර්වො ඉසෙචි පොව්ර්චෙ."
       },
       {
         "word": "kašika",
         "reading": "කාෂිකා",
         "meaning": "හැන්ද",
-        "example": "kašika",
-        "translation": "හැන්ද"
+        "example": "Zatim pomešati sve sastojke.",
+        "translation": "ඊළඟට සියලු අමුද්‍රව්‍ය මිශ්‍ර කරන්න.",
+        "exampleReading": "සාතිම් පොමෙෂාති ස්වේ සාස්තොයිකෙ."
       },
       {
         "word": "iseći",
         "reading": "ඉසෙචි",
         "meaning": "කපන්න",
-        "example": "iseći",
-        "translation": "කපන්න"
+        "example": "Prvo iseći povrće.",
+        "translation": "මුලින්ම එළවළු කපන්න.",
+        "exampleReading": "ප්‍ර්වො ඉසෙචි පොව්ර්චෙ."
       },
       {
         "word": "pomešati",
         "reading": "පොමෙෂාති",
         "meaning": "මිශ්‍ර කරන්න",
-        "example": "pomešati",
-        "translation": "මිශ්‍ර කරන්න"
+        "example": "Zatim pomešati sve sastojke.",
+        "translation": "ඊළඟට සියලු අමුද්‍රව්‍ය මිශ්‍ර කරන්න.",
+        "exampleReading": "සාතිම් පොමෙෂාති ස්වේ සාස්තොයිකෙ."
       },
       {
         "word": "kuvati",
         "reading": "කුවාති",
         "meaning": "උයන්න",
-        "example": "kuvati",
-        "translation": "උයන්න"
+        "example": "Zatim pomešati sve sastojke.",
+        "translation": "ඊළඟට සියලු අමුද්‍රව්‍ය මිශ්‍ර කරන්න.",
+        "exampleReading": "සාතිම් පොමෙෂාති ස්වේ සාස්තොයිකෙ."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -6280,57 +6584,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "prognoza",
         "reading": "ප්‍රොග්නොසා",
         "meaning": "අනාවැකිය",
-        "example": "prognoza",
-        "translation": "අනාවැකිය"
+        "example": "Prema prognozi, sutra će padati kiša.",
+        "translation": "අනාවැකිය අනුව හෙට වැසි වැටේවි.",
+        "exampleReading": "ප්‍රෙමා ප්‍රොග්නොසි, සුත්‍රා චෙ පාදාති කිෂා."
       },
       {
         "word": "pljusak",
         "reading": "ප්ල්යුසාක්",
         "meaning": "තද වැස්ස",
-        "example": "pljusak",
-        "translation": "තද වැස්ස"
+        "example": "Ako bude hladno, poneću jaknu.",
+        "translation": "සීතල වුණොත් මම ජැකට් එකක් ගෙන යනවා.",
+        "exampleReading": "අකො බුදෙ හ්ලාද්නො, පොනෙචු යාක්නු."
       },
       {
         "word": "vetrovito",
         "reading": "වෙත්‍රොවිතො",
         "meaning": "සුළං සහිත",
-        "example": "vetrovito",
-        "translation": "සුළං සහිත"
+        "example": "Možda ćemo odložiti izlet.",
+        "translation": "සමහරවිට අපි සංචාරය කල් දමාවි.",
+        "exampleReading": "මොෂ්දා චෙමො ඔද්ලොෂිති ඉස්ලෙත්."
       },
       {
         "word": "oblačno",
         "reading": "ඔබ්ලාච්නො",
         "meaning": "වලාකුළු සහිත",
-        "example": "oblačno",
-        "translation": "වලාකුළු සහිත"
+        "example": "Prema prognozi, sutra će padati kiša.",
+        "translation": "අනාවැකිය අනුව හෙට වැසි වැටේවි.",
+        "exampleReading": "ප්‍රෙමා ප්‍රොග්නොසි, සුත්‍රා චෙ පාදාති කිෂා."
       },
       {
         "word": "temperatura",
         "reading": "තෙම්පෙරාතුරා",
         "meaning": "උෂ්ණත්වය",
-        "example": "temperatura",
-        "translation": "උෂ්ණත්වය"
+        "example": "Ako bude hladno, poneću jaknu.",
+        "translation": "සීතල වුණොත් මම ජැකට් එකක් ගෙන යනවා.",
+        "exampleReading": "අකො බුදෙ හ්ලාද්නො, පොනෙචු යාක්නු."
       },
       {
         "word": "poneti",
         "reading": "පොනෙති",
         "meaning": "ගෙන යන්න",
-        "example": "poneti",
-        "translation": "ගෙන යන්න"
+        "example": "Možda ćemo odložiti izlet.",
+        "translation": "සමහරවිට අපි සංචාරය කල් දමාවි.",
+        "exampleReading": "මොෂ්දා චෙමො ඔද්ලොෂිති ඉස්ලෙත්."
       },
       {
         "word": "otkazati",
         "reading": "ඔත්කාසාති",
         "meaning": "අවලංගු කරන්න",
-        "example": "otkazati",
-        "translation": "අවලංගු කරන්න"
+        "example": "Prema prognozi, sutra će padati kiša.",
+        "translation": "අනාවැකිය අනුව හෙට වැසි වැටේවි.",
+        "exampleReading": "ප්‍රෙමා ප්‍රොග්නොසි, සුත්‍රා චෙ පාදාති කිෂා."
       },
       {
         "word": "odložiti",
         "reading": "ඔද්ලොෂිති",
         "meaning": "කල් දමන්න",
-        "example": "odložiti",
-        "translation": "කල් දමන්න"
+        "example": "Možda ćemo odložiti izlet.",
+        "translation": "සමහරවිට අපි සංචාරය කල් දමාවි.",
+        "exampleReading": "මොෂ්දා චෙමො ඔද්ලොෂිති ඉස්ලෙත්."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -6445,57 +6757,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "iskustvo",
         "reading": "ඉස්කුස්ත්වො",
         "meaning": "අත්දැකීම",
-        "example": "iskustvo",
-        "translation": "අත්දැකීම"
+        "example": "Prošle nedelje sam posetio prijatelja.",
+        "translation": "පසුගිය සතියේ මම මිතුරෙකු හමුවීමට ගියා.",
+        "exampleReading": "ප්‍රොෂ්ලෙ නෙදෙල්යෙ සාම් පොසෙතියො ප්‍රියාතෙල්යා."
       },
       {
         "word": "događaj",
         "reading": "දොගාජායි",
         "meaning": "සිදුවීම",
-        "example": "događaj",
-        "translation": "සිදුවීම"
+        "example": "Iznenada je počela kiša.",
+        "translation": "හදිසියේ වැස්ස පටන් ගත්තා.",
+        "exampleReading": "ඉස්නෙනාදා යේ පොචෙලා කිෂා."
       },
       {
         "word": "prošle nedelje",
         "reading": "ප්‍රොෂ්ලෙ නෙදෙල්යෙ",
         "meaning": "පසුගිය සතියේ",
-        "example": "prošle nedelje",
-        "translation": "පසුගිය සතියේ"
+        "example": "Prošle nedelje sam posetio prijatelja.",
+        "translation": "පසුගිය සතියේ මම මිතුරෙකු හමුවීමට ගියා.",
+        "exampleReading": "ප්‍රොෂ්ලෙ නෙදෙල්යෙ සාම් පොසෙතියො ප්‍රියාතෙල්යා."
       },
       {
         "word": "iznenada",
         "reading": "ඉස්නෙනාදා",
         "meaning": "හදිසියේ",
-        "example": "iznenada",
-        "translation": "හදිසියේ"
+        "example": "Iznenada je počela kiša.",
+        "translation": "හදිසියේ වැස්ස පටන් ගත්තා.",
+        "exampleReading": "ඉස්නෙනාදා යේ පොචෙලා කිෂා."
       },
       {
         "word": "odlučiti",
         "reading": "ඔද්ලුචිති",
         "meaning": "තීරණය කරන්න",
-        "example": "odlučiti",
-        "translation": "තීරණය කරන්න"
+        "example": "Iznenada je počela kiša.",
+        "translation": "හදිසියේ වැස්ස පටන් ගත්තා.",
+        "exampleReading": "ඉස්නෙනාදා යේ පොචෙලා කිෂා."
       },
       {
         "word": "posetiti",
         "reading": "පොසෙතිති",
         "meaning": "සංචාරය කරන්න",
-        "example": "posetiti",
-        "translation": "සංචාරය කරන්න"
+        "example": "Bilo je veoma zanimljivo.",
+        "translation": "එය ඉතා රසවත් වුණා.",
+        "exampleReading": "බිලො යේ වෙඔමා සානිම්ලිවො."
       },
       {
         "word": "zaboraviti",
         "reading": "සාබොравිති",
         "meaning": "අමතක කරන්න",
-        "example": "zaboraviti",
-        "translation": "අමතක කරන්න"
+        "example": "Prošle nedelje sam posetio prijatelja.",
+        "translation": "පසුගිය සතියේ මම මිතුරෙකු හමුවීමට ගියා.",
+        "exampleReading": "ප්‍රොෂ්ලෙ නෙදෙල්යෙ සාම් පොසෙතියො ප්‍රියාතෙල්යා."
       },
       {
         "word": "sećati se",
         "reading": "සෙචාති සේ",
         "meaning": "මතක තබාගන්න",
-        "example": "sećati se",
-        "translation": "මතක තබාගන්න"
+        "example": "Iznenada je počela kiša.",
+        "translation": "හදිසියේ වැස්ස පටන් ගත්තා.",
+        "exampleReading": "ඉස්නෙනාදා යේ පොචෙලා කිෂා."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -6614,57 +6934,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "pozvati",
         "reading": "පොස්වати",
         "meaning": "ආරාධනා කරන්න",
-        "example": "pozvati",
-        "translation": "ආරාධනා කරන්න"
+        "example": "Hoćeš li da idemo u bioskop?",
+        "translation": "අපි සිනමාහලට යමුද?",
+        "exampleReading": "හොචෙෂ් ලි දා ඉදෙමො උ බියොස්කොප්?"
       },
       {
         "word": "slobodan",
         "reading": "ස්ලොබොදාන්",
         "meaning": "නිදහස් / වෙලාව තිබෙන",
-        "example": "slobodan",
-        "translation": "නිදහස් / වෙලාව තිබෙන"
+        "example": "Slobodan sam u subotu.",
+        "translation": "මට සෙනසුරාදා වෙලාව තිබෙනවා.",
+        "exampleReading": "ස්ලොබොදාන් සාම් උ සුබොතු."
       },
       {
         "word": "dogovor",
         "reading": "දොගොවෝර්",
         "meaning": "එකඟතාව",
-        "example": "dogovor",
-        "translation": "එකඟතාව"
+        "example": "Možemo da se nađemo u šest.",
+        "translation": "අපි හයට හමුවෙමු.",
+        "exampleReading": "මොෂෙමො දා සේ නාජ්දෙමො උ ෂෙස්ත්."
       },
       {
         "word": "predložiti",
         "reading": "ප්‍රෙද්ලොෂිති",
         "meaning": "යෝජනා කරන්න",
-        "example": "predložiti",
-        "translation": "යෝජනා කරන්න"
+        "example": "To mi odgovara.",
+        "translation": "ඒ වේලාව මට ගැළපෙනවා.",
+        "exampleReading": "තො මි ඔද්ගොවාරා."
       },
       {
         "word": "odgovarati",
         "reading": "ඔද්ගොවාරති",
         "meaning": "ගැළපෙන්න",
-        "example": "odgovarati",
-        "translation": "ගැළපෙන්න"
+        "example": "Hoćeš li da idemo u bioskop?",
+        "translation": "අපි සිනමාහලට යමුද?",
+        "exampleReading": "හොචෙෂ් ලි දා ඉදෙමො උ බියොස්කොප්?"
       },
       {
         "word": "subota",
         "reading": "සුබොතා",
         "meaning": "සෙනසුරාදා",
-        "example": "subota",
-        "translation": "සෙනසුරාදා"
+        "example": "Slobodan sam u subotu.",
+        "translation": "මට සෙනසුරාදා වෙලාව තිබෙනවා.",
+        "exampleReading": "ස්ලොබොදාන් සාම් උ සුබොතු."
       },
       {
         "word": "kasnije",
         "reading": "කාස්නියේ",
         "meaning": "පසුව",
-        "example": "kasnije",
-        "translation": "පසුව"
+        "example": "Možemo da se nađemo u šest.",
+        "translation": "අපි හයට හමුවෙමු.",
+        "exampleReading": "මොෂෙමො දා සේ නාජ්දෙමො උ ෂෙස්ත්."
       },
       {
         "word": "otkazati",
         "reading": "ඔත්කාසати",
         "meaning": "අවලංගු කරන්න",
-        "example": "otkazati",
-        "translation": "අවලංගු කරන්න"
+        "example": "To mi odgovara.",
+        "translation": "ඒ වේලාව මට ගැළපෙනවා.",
+        "exampleReading": "තො මි ඔද්ගොවාරා."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -6788,57 +7116,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "iskustvo",
         "reading": "ඉස්කුස්ත්වො",
         "meaning": "අත්දැකීම",
-        "example": "iskustvo",
-        "translation": "අත්දැකීම"
+        "example": "Imam tri godine iskustva u prodaji.",
+        "translation": "විකිණීම් ක්ෂේත්‍රයේ මට අවුරුදු තුනක අත්දැකීම් තිබෙනවා.",
+        "exampleReading": "ඉමාම් ත්‍රි ගොදිනෙ ඉස්කුස්ත්වා උ ප්‍රොදායි."
       },
       {
         "word": "zaposlen",
         "reading": "සාපොස්ලෙන්",
         "meaning": "රැකියාවක නිරත",
-        "example": "zaposlen",
-        "translation": "රැකියාවක නිරත"
+        "example": "Radio sam u prodaji.",
+        "translation": "මම විකිණීම් අංශයේ වැඩ කළා.",
+        "exampleReading": "රාදියො සාම් උ ප්‍රොදායි."
       },
       {
         "word": "veština",
         "reading": "වෙෂ්තිනා",
         "meaning": "කුසලතාව",
-        "example": "veština",
-        "translation": "කුසලතාව"
+        "example": "Bio sam odgovoran za kupce.",
+        "translation": "මම පාරිභෝගිකයන් පිළිබඳ වගකිවයුතු වුණා.",
+        "exampleReading": "බියො සාම් ඔද්ගොවොරාන් සා කුප්ത്സෙ."
       },
       {
         "word": "odgovornost",
         "reading": "ඔද්ගොවොර්නොස්ත්",
         "meaning": "වගකීම",
-        "example": "odgovornost",
-        "translation": "වගකීම"
+        "example": "Mogu da radim u smenama.",
+        "translation": "මට වැඩ මුරවල වැඩ කරන්න පුළුවන්.",
+        "exampleReading": "මොගු දා රාදිම් උ ස්මෙනාමා."
       },
       {
         "word": "prijaviti se",
         "reading": "ප්‍රියාවිති සේ",
         "meaning": "අයදුම් කරන්න",
-        "example": "prijaviti se",
-        "translation": "අයදුම් කරන්න"
+        "example": "Imam tri godine iskustva u prodaji.",
+        "translation": "විකිණීම් ක්ෂේත්‍රයේ මට අවුරුදු තුනක අත්දැකීම් තිබෙනවා.",
+        "exampleReading": "ඉමාම් ත්‍රි ගොදිනෙ ඉස්කුස්ත්වා උ ප්‍රොදායි."
       },
       {
         "word": "razgovor",
         "reading": "රාස්ගොවොර්",
         "meaning": "සම්මුඛ සාකච්ඡාව",
-        "example": "razgovor",
-        "translation": "සම්මුඛ සාකච්ඡාව"
+        "example": "Radio sam u prodaji.",
+        "translation": "මම විකිණීම් අංශයේ වැඩ කළා.",
+        "exampleReading": "රාදියො සාම් උ ප්‍රොදායි."
       },
       {
         "word": "smene",
         "reading": "ස්මෙණෙ",
         "meaning": "වැඩ මුර",
-        "example": "smene",
-        "translation": "වැඩ මුර"
+        "example": "Bio sam odgovoran za kupce.",
+        "translation": "මම පාරිභෝගිකයන් පිළිබඳ වගකිවයුතු වුණා.",
+        "exampleReading": "බියො සාම් ඔද්ගොවොරාන් සා කුප්ത്സෙ."
       },
       {
         "word": "preporuka",
         "reading": "ප්‍රෙපොරුකා",
         "meaning": "නිර්දේශය",
-        "example": "preporuka",
-        "translation": "නිර්දේශය"
+        "example": "Mogu da radim u smenama.",
+        "translation": "මට වැඩ මුරවල වැඩ කරන්න පුළුවන්.",
+        "exampleReading": "මොගු දා රාදිම් උ ස්මෙනාමා."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -6962,57 +7298,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "pokvariti se",
         "reading": "පොක්වාරිති සේ",
         "meaning": "ක්‍රියා විරහිත වන්න",
-        "example": "pokvariti se",
-        "translation": "ක්‍රියා විරහිත වන්න"
+        "example": "Slavina ne radi.",
+        "translation": "කරාමය වැඩ කරන්නේ නැහැ.",
+        "exampleReading": "ස්ලාවිනා නෙ රාදි."
       },
       {
         "word": "popravka",
         "reading": "පොප්‍රාව්කා",
         "meaning": "අලුත්වැඩියාව",
-        "example": "popravka",
-        "translation": "අලුත්වැඩියාව"
+        "example": "Voda curi ispod sudopere.",
+        "translation": "සින්ක් එක යටින් වතුර කාන්දු වෙනවා.",
+        "exampleReading": "වොදා ත්සුරි ඉස්පොද් සුදොපෙරෙ."
       },
       {
         "word": "slavina",
         "reading": "ස්ලාවිනා",
         "meaning": "කරාමය",
-        "example": "slavina",
-        "translation": "කරාමය"
+        "example": "Slavina ne radi.",
+        "translation": "කරාමය වැඩ කරන්නේ නැහැ.",
+        "exampleReading": "ස්ලාවිනා නෙ රාදි."
       },
       {
         "word": "struja",
         "reading": "ස්ත්‍රුයා",
         "meaning": "විදුලිය",
-        "example": "struja",
-        "translation": "විදුලිය"
+        "example": "Možete li da pošaljete majstora?",
+        "translation": "ඔබට කාර්මිකයෙකු එවන්න පුළුවන්ද?",
+        "exampleReading": "මොෂෙතෙ ලි දා පොෂල්යෙතෙ මායිස්තොරා?"
       },
       {
         "word": "curiti",
         "reading": "ත්සුරිති",
         "meaning": "කාන්දු වන්න",
-        "example": "curiti",
-        "translation": "කාන්දු වන්න"
+        "example": "Slavina ne radi.",
+        "translation": "කරාමය වැඩ කරන්නේ නැහැ.",
+        "exampleReading": "ස්ලාවිනා නෙ රාදි."
       },
       {
         "word": "majstor",
         "reading": "මායිස්තොර්",
         "meaning": "කාර්මිකයා",
-        "example": "majstor",
-        "translation": "කාර්මිකයා"
+        "example": "Možete li da pošaljete majstora?",
+        "translation": "ඔබට කාර්මිකයෙකු එවන්න පුළුවන්ද?",
+        "exampleReading": "මොෂෙතෙ ලි දා පොෂල්යෙතෙ මායිස්තොරා?"
       },
       {
         "word": "hitno",
         "reading": "හිත්නො",
         "meaning": "හදිසි",
-        "example": "hitno",
-        "translation": "හදිසි"
+        "example": "Problem je hitan.",
+        "translation": "ගැටලුව හදිසි එකක්.",
+        "exampleReading": "ප්‍රොබ්ලෙම් යේ හිත්තාන්."
       },
       {
         "word": "račun",
         "reading": "රාචුන්",
         "meaning": "බිල්පත",
-        "example": "račun",
-        "translation": "බිල්පත"
+        "example": "Možete li da pošaljete majstora?",
+        "translation": "ඔබට කාර්මිකයෙකු එවන්න පුළුවන්ද?",
+        "exampleReading": "මොෂෙතෙ ලි දා පොෂල්යෙතෙ මායිස්තොරා?"
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -7136,57 +7480,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "mišljenje",
         "reading": "මිෂ්ල්යෙඤෙ",
         "meaning": "අදහස",
-        "example": "mišljenje",
-        "translation": "අදහස"
+        "example": "Mislim da je autobus jeftiniji.",
+        "translation": "මම හිතන්නේ බස් එක වඩා ලාභයි.",
+        "exampleReading": "මිස්ලිම් දා යේ ඔතොබුස් යෙෆ්තිනියි."
       },
       {
         "word": "slažem se",
         "reading": "ස්ලාෂෙම් සේ",
         "meaning": "මම එකඟයි",
-        "example": "slažem se",
-        "translation": "මම එකඟයි"
+        "example": "Slažem se sa tobom.",
+        "translation": "මම ඔයා සමඟ එකඟයි.",
+        "exampleReading": "ස්ලාෂෙම් සේ සා තොබොම්."
       },
       {
         "word": "ne slažem se",
         "reading": "නෙ ස්ලාෂෙම් සේ",
         "meaning": "මම එකඟ නැහැ",
-        "example": "ne slažem se",
-        "translation": "මම එකඟ නැහැ"
+        "example": "Voz je brži od autobusa.",
+        "translation": "දුම්රිය බස් එකට වඩා වේගවත්.",
+        "exampleReading": "වොස් යේ බ්‍ර්ෂි ඔද් ඔතොබුසා."
       },
       {
         "word": "bolji",
         "reading": "බොල්යි",
         "meaning": "වඩා හොඳ",
-        "example": "bolji",
-        "translation": "වඩා හොඳ"
+        "example": "Ali autobus je jeftiniji.",
+        "translation": "නමුත් බස් එක වඩා ලාභයි.",
+        "exampleReading": "අලි ඔතොබුස් යේ යෙෆ්තිනියි."
       },
       {
         "word": "jeftiniji",
         "reading": "යෙෆ්තිනියි",
         "meaning": "වඩා ලාභ",
-        "example": "jeftiniji",
-        "translation": "වඩා ලාභ"
+        "example": "Mislim da je autobus jeftiniji.",
+        "translation": "මම හිතන්නේ බස් එක වඩා ලාභයි.",
+        "exampleReading": "මිස්ලිම් දා යේ ඔතොබුස් යෙෆ්තිනියි."
       },
       {
         "word": "skuplji",
         "reading": "ස්කුප්ල්යි",
         "meaning": "වඩා මිල අධික",
-        "example": "skuplji",
-        "translation": "වඩා මිල අධික"
+        "example": "Slažem se sa tobom.",
+        "translation": "මම ඔයා සමඟ එකඟයි.",
+        "exampleReading": "ස්ලාෂෙම් සේ සා තොබොම්."
       },
       {
         "word": "prednost",
         "reading": "ප්‍රෙද්නොස්ත්",
         "meaning": "වාසිය",
-        "example": "prednost",
-        "translation": "වාසිය"
+        "example": "Voz je brži od autobusa.",
+        "translation": "දුම්රිය බස් එකට වඩා වේගවත්.",
+        "exampleReading": "වොස් යේ බ්‍ර්ෂි ඔද් ඔතොබුසා."
       },
       {
         "word": "nedostatak",
         "reading": "නෙදොස්තාතාක්",
         "meaning": "අවාසිය",
-        "example": "nedostatak",
-        "translation": "අවාසිය"
+        "example": "Ali autobus je jeftiniji.",
+        "translation": "නමුත් බස් එක වඩා ලාභයි.",
+        "exampleReading": "අලි ඔතොබුස් යේ යෙෆ්තිනියි."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -7310,57 +7662,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "dozvoljeno",
         "reading": "දොස්වොල්යෙනො",
         "meaning": "අවසර තිබෙන",
-        "example": "dozvoljeno",
-        "translation": "අවසර තිබෙන"
+        "example": "Ovde nije dozvoljeno pušenje.",
+        "translation": "මෙහි දුම්පානයට අවසර නැහැ.",
+        "exampleReading": "ඔව්ඩෙ නියේ දොස්වොල්යෙනො පුෂෙඤෙ."
       },
       {
         "word": "zabranjeno",
         "reading": "සාබ්‍රාඤෙනො",
         "meaning": "තහනම්",
-        "example": "zabranjeno",
-        "translation": "තහනම්"
+        "example": "Da li smem da uđem?",
+        "translation": "මට ඇතුළට එන්න අවසරද?",
+        "exampleReading": "දා ලි ස්මෙම් දා උජෙම්?"
       },
       {
         "word": "morati",
         "reading": "මොරати",
         "meaning": "අනිවාර්යයෙන් කළ යුතු",
-        "example": "morati",
-        "translation": "අනිවාර්යයෙන් කළ යුතු"
+        "example": "Ovde nije dozvoljeno pušenje.",
+        "translation": "මෙහි දුම්පානයට අවසර නැහැ.",
+        "exampleReading": "ඔව්ඩෙ නියේ දොස්වොල්යෙනො පුෂෙඤෙ."
       },
       {
         "word": "smeti",
         "reading": "ස්මෙති",
         "meaning": "අවසර තිබිය",
-        "example": "smeti",
-        "translation": "අවසර තිබිය"
+        "example": "Morate da poštujete pravila.",
+        "translation": "ඔබ නීති අනුගමනය කළ යුතුයි.",
+        "exampleReading": "මොරાતෙ දා පොෂ්තුයෙතෙ ප්‍රාවිලා."
       },
       {
         "word": "pravilo",
         "reading": "ප්‍රාවිලො",
         "meaning": "නීතිය / රීතිය",
-        "example": "pravilo",
-        "translation": "නීතිය / රීතිය"
+        "example": "Morate da nosite uniformu.",
+        "translation": "ඔබ නිල ඇඳුම ඇඳිය යුතුයි.",
+        "exampleReading": "මොරાતෙ දා නොසිਤੇ උනිෆොර්මු."
       },
       {
         "word": "obavezno",
         "reading": "ඔබාවෙස්නො",
         "meaning": "අනිවාර්ය",
-        "example": "obavezno",
-        "translation": "අනිවාර්ය"
+        "example": "Da li smem da uđem?",
+        "translation": "මට ඇතුළට එන්න අවසරද?",
+        "exampleReading": "දා ලි ස්මෙම් දා උජෙම්?"
       },
       {
         "word": "dozvola",
         "reading": "දොස්වොලා",
         "meaning": "අවසරය",
-        "example": "dozvola",
-        "translation": "අවසරය"
+        "example": "Ovde nije dozvoljeno pušenje.",
+        "translation": "මෙහි දුම්පානයට අවසර නැහැ.",
+        "exampleReading": "ඔව්ඩෙ නියේ දොස්වොල්යෙනො පුෂෙඤෙ."
       },
       {
         "word": "pridržavati se",
         "reading": "ප්‍රිද්ර්ෂාවති සේ",
         "meaning": "අනුගමනය කරන්න",
-        "example": "pridržavati se",
-        "translation": "අනුගමනය කරන්න"
+        "example": "Morate da poštujete pravila.",
+        "translation": "ඔබ නීති අනුගමනය කළ යුතුයි.",
+        "exampleReading": "මොරાતෙ දා පොෂ්තුයෙතෙ ප්‍රාවිලා."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -7484,57 +7844,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "kašnjenje",
         "reading": "කාෂ්න්යෙඤෙ",
         "meaning": "ප්‍රමාදය",
-        "example": "kašnjenje",
-        "translation": "ප්‍රමාදය"
+        "example": "Da li voz kasni?",
+        "translation": "දුම්රිය ප්‍රමාදද?",
+        "exampleReading": "දා ලි වොස් කාස්නි?"
       },
       {
         "word": "polazak",
         "reading": "පොලාසාක්",
         "meaning": "පිටත්වීම",
-        "example": "polazak",
-        "translation": "පිටත්වීම"
+        "example": "Voz kasni dvadeset minuta.",
+        "translation": "දුම්රිය විනාඩි විස්සක් ප්‍රමාදයි.",
+        "exampleReading": "වොස් කාස්නි ද්වාදෙසෙත් මිනුතා."
       },
       {
         "word": "dolazak",
         "reading": "දොලාසාක්",
         "meaning": "පැමිණීම",
-        "example": "dolazak",
-        "translation": "පැමිණීම"
+        "example": "Na kom je peronu sledeći voz?",
+        "translation": "ඊළඟ දුම්රිය කුමන වේදිකාවේද?",
+        "exampleReading": "නා කොම් යේ පෙරොනු ස්ලෙදෙචි වොස්?"
       },
       {
         "word": "presedanje",
         "reading": "ප්‍රෙසෙදාඤෙ",
         "meaning": "වාහන මාරුව",
-        "example": "presedanje",
-        "translation": "වාහන මාරුව"
+        "example": "Možemo da idemo autobusom.",
+        "translation": "අපිට බස් එකෙන් යන්න පුළුවන්.",
+        "exampleReading": "මොෂෙමො දා ඉදෙමො ඔතොබුසොම්."
       },
       {
         "word": "otkazati",
         "reading": "ඔත්කාසати",
         "meaning": "අවලංගු කරන්න",
-        "example": "otkazati",
-        "translation": "අවලංගු කරන්න"
+        "example": "Da li voz kasni?",
+        "translation": "දුම්රිය ප්‍රමාදද?",
+        "exampleReading": "දා ලි වොස් කාස්නි?"
       },
       {
         "word": "peron",
         "reading": "පෙරොන්",
         "meaning": "වේදිකාව",
-        "example": "peron",
-        "translation": "වේදිකාව"
+        "example": "Na kom je peronu sledeći voz?",
+        "translation": "ඊළඟ දුම්රිය කුමන වේදිකාවේද?",
+        "exampleReading": "නා කොම් යේ පෙරොනු ස්ලෙදෙචි වොස්?"
       },
       {
         "word": "sledeći",
         "reading": "ස්ලෙදෙචි",
         "meaning": "ඊළඟ",
-        "example": "sledeći",
-        "translation": "ඊළඟ"
+        "example": "Na kom je peronu sledeći voz?",
+        "translation": "ඊළඟ දුම්රිය කුමන වේදිකාවේද?",
+        "exampleReading": "නා කොම් යේ පෙරොනු ස්ලෙදෙචි වොස්?"
       },
       {
         "word": "zamena",
         "reading": "සාමෙනා",
         "meaning": "විකල්පය / ආදේශය",
-        "example": "zamena",
-        "translation": "විකල්පය / ආදේශය"
+        "example": "Možemo da idemo autobusom.",
+        "translation": "අපිට බස් එකෙන් යන්න පුළුවන්.",
+        "exampleReading": "මොෂෙමො දා ඉදෙමො ඔතොබුසොම්."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -7658,57 +8026,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "račun",
         "reading": "රාචුන්",
         "meaning": "ගිණුම / බිල්පත",
-        "example": "račun",
-        "translation": "ගිණුම / බිල්පත"
+        "example": "Imam problem sa karticom.",
+        "translation": "මට කාඩ්පත සම්බන්ධ ගැටලුවක් තිබෙනවා.",
+        "exampleReading": "ඉමාම් ප්‍රොබ්ලෙම් සා කාර්තිත්සොම්."
       },
       {
         "word": "kartica",
         "reading": "කාර්තිත්සා",
         "meaning": "කාඩ්පත",
-        "example": "kartica",
-        "translation": "කාඩ්පත"
+        "example": "Uplata nije prošla.",
+        "translation": "ගෙවීම සාර්ථක වුණේ නැහැ.",
+        "exampleReading": "උප්ලාතා නියේ ප්‍රොෂ්ලා."
       },
       {
         "word": "uplata",
         "reading": "උප්ලාතා",
         "meaning": "තැන්පතුව / ගෙවීම",
-        "example": "uplata",
-        "translation": "තැන්පතුව / ගෙවීම"
+        "example": "Uplata nije prošla.",
+        "translation": "ගෙවීම සාර්ථක වුණේ නැහැ.",
+        "exampleReading": "උප්ලාතා නියේ ප්‍රොෂ්ලා."
       },
       {
         "word": "isplata",
         "reading": "ඉස්ප්ලාතා",
         "meaning": "මුදල් ලබාගැනීම",
-        "example": "isplata",
-        "translation": "මුදල් ලබාගැනීම"
+        "example": "Kolika je provizija?",
+        "translation": "සේවා ගාස්තුව කොපමණද?",
+        "exampleReading": "කොලිකා යේ ප්‍රොවිසියා?"
       },
       {
         "word": "provizija",
         "reading": "ප්‍රොවිසියා",
         "meaning": "සේවා ගාස්තුව",
-        "example": "provizija",
-        "translation": "සේවා ගාස්තුව"
+        "example": "Kolika je provizija?",
+        "translation": "සේවා ගාස්තුව කොපමණද?",
+        "exampleReading": "කොලිකා යේ ප්‍රොවිසියා?"
       },
       {
         "word": "stanje",
         "reading": "ස්තාඤෙ",
         "meaning": "ශේෂය",
-        "example": "stanje",
-        "translation": "ශේෂය"
+        "example": "Možete li da proverite stanje?",
+        "translation": "ඔබට ශේෂය පරීක්ෂා කළ හැකිද?",
+        "exampleReading": "මොෂෙතෙ ලි දා ප්‍රොවෙරිතෙ ස්තාඤෙ?"
       },
       {
         "word": "blokiran",
         "reading": "බ්ලොකිරාන්",
         "meaning": "අවහිර කළ",
-        "example": "blokiran",
-        "translation": "අවහිර කළ"
+        "example": "Možete li da proverite stanje?",
+        "translation": "ඔබට ශේෂය පරීක්ෂා කළ හැකිද?",
+        "exampleReading": "මොෂෙතෙ ලි දා ප්‍රොවෙරිතෙ ස්තාඤෙ?"
       },
       {
         "word": "izvod",
         "reading": "ඉස්වොද්",
         "meaning": "ගිණුම් ප්‍රකාශය",
-        "example": "izvod",
-        "translation": "ගිණුම් ප්‍රකාශය"
+        "example": "Kolika je provizija?",
+        "translation": "සේවා ගාස්තුව කොපමණද?",
+        "exampleReading": "කොලිකා යේ ප්‍රොවිසියා?"
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -7832,57 +8208,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "stan",
         "reading": "ස්තාන්",
         "meaning": "මහල් නිවස / නිවස",
-        "example": "stan",
-        "translation": "මහල් නිවස / නිවස"
+        "example": "Stan je namešten.",
+        "translation": "නිවසේ ගෘහ භාණ්ඩ තිබෙනවා.",
+        "exampleReading": "ස්තාන් යේ නමෙෂ්තෙන්."
       },
       {
         "word": "kirija",
         "reading": "කිරියා",
         "meaning": "කුලිය",
-        "example": "kirija",
-        "translation": "කුලිය"
+        "example": "Kolika je kirija mesečno?",
+        "translation": "මාසික කුලිය කොපමණද?",
+        "exampleReading": "කොලිකා යේ කිරියා මෙසෙච්නො?"
       },
       {
         "word": "depozit",
         "reading": "දෙපොසිත්",
         "meaning": "ඇප මුදල",
-        "example": "depozit",
-        "translation": "ඇප මුදල"
+        "example": "Stan je namešten.",
+        "translation": "නිවසේ ගෘහ භාණ්ඩ තිබෙනවා.",
+        "exampleReading": "ස්තාන් යේ නමෙෂ්තෙන්."
       },
       {
         "word": "namešten",
         "reading": "නමෙෂ්තෙන්",
         "meaning": "ගෘහ භාණ්ඩ සහිත",
-        "example": "namešten",
-        "translation": "ගෘහ භාණ්ඩ සහිත"
+        "example": "Stan je namešten.",
+        "translation": "නිවසේ ගෘහ භාණ්ඩ තිබෙනවා.",
+        "exampleReading": "ස්තාන් යේ නමෙෂ්තෙන්."
       },
       {
         "word": "sprat",
         "reading": "ස්ප්‍රාත්",
         "meaning": "මහල",
-        "example": "sprat",
-        "translation": "මහල"
+        "example": "Kolika je kirija mesečno?",
+        "translation": "මාසික කුලිය කොපමණද?",
+        "exampleReading": "කොලිකා යේ කිරියා මෙසෙච්නො?"
       },
       {
         "word": "grejanje",
         "reading": "ග්‍රෙයාඤෙ",
         "meaning": "උණුසුම් කිරීම",
-        "example": "grejanje",
-        "translation": "උණුසුම් කිරීම"
+        "example": "Da li su računi uključeni?",
+        "translation": "බිල්පත් කුලියට ඇතුළත්ද?",
+        "exampleReading": "දා ලි සු රාචුනි ඉස්ක්ල්යුචෙනි?"
       },
       {
         "word": "računi",
         "reading": "රාචුනි",
         "meaning": "බිල්පත්",
-        "example": "računi",
-        "translation": "බිල්පත්"
+        "example": "Da li su računi uključeni?",
+        "translation": "බිල්පත් කුලියට ඇතුළත්ද?",
+        "exampleReading": "දා ලි සු රාචුනි ඉස්ක්ල්යුචෙනි?"
       },
       {
         "word": "razgledati",
         "reading": "රාස්ග්ලෙදාති",
         "meaning": "නැරඹීම",
-        "example": "razgledati",
-        "translation": "නැරඹීම"
+        "example": "Mogu li da pogledam stan sutra?",
+        "translation": "මට හෙට නිවස බලන්න පුළුවන්ද?",
+        "exampleReading": "මොගු ලි දා පොග්ලෙදාම් ස්තාන් සුත්‍රා?"
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -8006,57 +8390,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "životna sredina",
         "reading": "ෂිවොත්නා ස්‍රෙදිනා",
         "meaning": "පරිසරය",
-        "example": "životna sredina",
-        "translation": "පරිසරය"
+        "example": "Treba da recikliramo papir i plastiku.",
+        "translation": "අපි කඩදාසි සහ ප්ලාස්ටික් ප්‍රතිචක්‍රීකරණය කළ යුතුයි.",
+        "exampleReading": "ත්‍රෙබා දා රෙත්සික්ලිрамො පාපිර් ඉ ප්ලාස්තිකු."
       },
       {
         "word": "otpad",
         "reading": "ඔත්පාද්",
         "meaning": "අපද්‍රව්‍ය",
-        "example": "otpad",
-        "translation": "අපද්‍රව්‍ය"
+        "example": "Manje otpada znači čistiju okolinu.",
+        "translation": "අපද්‍රව්‍ය අඩු වීමෙන් පරිසරය පිරිසිදු වෙනවා.",
+        "exampleReading": "මාඤෙ ඔත්පාදා සාචි චිස්තියු ඔකොලину."
       },
       {
         "word": "reciklirati",
         "reading": "රෙත්සික්ලිрати",
         "meaning": "ප්‍රතිචක්‍රීකරණය කරන්න",
-        "example": "reciklirati",
-        "translation": "ප්‍රතිචක්‍රීකරණය කරන්න"
+        "example": "Treba da štedimo vodu.",
+        "translation": "අපි ජලය ඉතිරි කළ යුතුයි.",
+        "exampleReading": "ත්‍රෙබා දා ෂ්තෙදිමො වොදු."
       },
       {
         "word": "plastika",
         "reading": "ප්ලාස්තිකා",
         "meaning": "ප්ලාස්ටික්",
-        "example": "plastika",
-        "translation": "ප්ලාස්ටික්"
+        "example": "Manje otpada znači čistiju okolinu.",
+        "translation": "අපද්‍රව්‍ය අඩු වීමෙන් පරිසරය පිරිසිදු වෙනවා.",
+        "exampleReading": "මාඤෙ ඔත්පාදා සාචි චිස්තියු ඔකොලину."
       },
       {
         "word": "papir",
         "reading": "පාපිර්",
         "meaning": "කඩදාසි",
-        "example": "papir",
-        "translation": "කඩදාසි"
+        "example": "Treba da recikliramo papir i plastiku.",
+        "translation": "අපි කඩදාසි සහ ප්ලාස්ටික් ප්‍රතිචක්‍රීකරණය කළ යුතුයි.",
+        "exampleReading": "ත්‍රෙබා දා රෙත්සික්ලිрамො පාපිර් ඉ ප්ලාස්තිකු."
       },
       {
         "word": "staklo",
         "reading": "ස්තක්ලො",
         "meaning": "වීදුරු",
-        "example": "staklo",
-        "translation": "වීදුරු"
+        "example": "Staklo bacamo u posebnu kantu.",
+        "translation": "වීදුරු වෙනම බඳුනකට දමනවා.",
+        "exampleReading": "ස්තක්ලො බාත්සාමො උ පොසෙබ්නු කාන්තු."
       },
       {
         "word": "štedeti",
         "reading": "ෂ්තෙදෙති",
         "meaning": "ඉතිරි කර භාවිතා කරන්න",
-        "example": "štedeti",
-        "translation": "ඉතිරි කර භාවිතා කරන්න"
+        "example": "Treba da štedimo vodu.",
+        "translation": "අපි ජලය ඉතිරි කළ යුතුයි.",
+        "exampleReading": "ත්‍රෙබා දා ෂ්තෙදිමො වොදු."
       },
       {
         "word": "zagađenje",
         "reading": "සාගාජෙඤෙ",
         "meaning": "දූෂණය",
-        "example": "zagađenje",
-        "translation": "දූෂණය"
+        "example": "Manje otpada znači čistiju okolinu.",
+        "translation": "අපද්‍රව්‍ය අඩු වීමෙන් පරිසරය පිරිසිදු වෙනවා.",
+        "exampleReading": "මාඤෙ ඔත්පාදා සාචි චිස්තියු ඔකොලину."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -8180,57 +8572,65 @@ export const SERBIAN_A2_LESSONS = [
         "word": "proslava",
         "reading": "ප්‍රොස්ලාවා",
         "meaning": "උත්සවය",
-        "example": "proslava",
-        "translation": "උත්සවය"
+        "example": "Za praznik se okuplja cela porodica.",
+        "translation": "උත්සව දිනයේ මුළු පවුලම එකතු වෙනවා.",
+        "exampleReading": "සා ප්‍රාස්නික් සේ ඔකුප්ල්යා ත්සෙලා පොරොදිත්සා."
       },
       {
         "word": "praznik",
         "reading": "ප්‍රාස්නික්",
         "meaning": "නිවාඩු / උත්සව දිනය",
-        "example": "praznik",
-        "translation": "නිවාඩු / උත්සව දිනය"
+        "example": "Za praznik se okuplja cela porodica.",
+        "translation": "උත්සව දිනයේ මුළු පවුලම එකතු වෙනවා.",
+        "exampleReading": "සා ප්‍රාස්නික් සේ ඔකුප්ල්යා ත්සෙලා පොරොදිත්සා."
       },
       {
         "word": "običaj",
         "reading": "ඔබිචායි",
         "meaning": "සම්ප්‍රදාය",
-        "example": "običaj",
-        "translation": "සම්ප්‍රදාය"
+        "example": "Gosti dolaze popodne.",
+        "translation": "අමුත්තන් සවස පැමිණෙනවා.",
+        "exampleReading": "ගොස්ති දොලාසෙ පොපොද්නෙ."
       },
       {
         "word": "poklon",
         "reading": "පොක්ලොන්",
         "meaning": "තෑග්ග",
-        "example": "poklon",
-        "translation": "තෑග්ග"
+        "example": "Donosimo mali poklon domaćinu.",
+        "translation": "අපි නිවසේ හිමිකරුට කුඩා තෑග්ගක් ගෙන එනවා.",
+        "exampleReading": "දොනොසිමො මාලි පොක්ලොන් දොමාචිනු."
       },
       {
         "word": "gost",
         "reading": "ගොස්ත්",
         "meaning": "අමුත්තා",
-        "example": "gost",
-        "translation": "අමුත්තා"
+        "example": "Gosti dolaze popodne.",
+        "translation": "අමුත්තන් සවස පැමිණෙනවා.",
+        "exampleReading": "ගොස්ති දොලාසෙ පොපොද්නෙ."
       },
       {
         "word": "slaviti",
         "reading": "ස්ලාවිති",
         "meaning": "සමරන්න",
-        "example": "slaviti",
-        "translation": "සමරන්න"
+        "example": "Obično pripremamo posebnu hranu.",
+        "translation": "අපි සාමාන්‍යයෙන් විශේෂ ආහාර සූදානම් කරනවා.",
+        "exampleReading": "ඔබිච්නො ප්‍රිප්‍රෙමාමො පොසෙබ්නු හ්‍රානු."
       },
       {
         "word": "pozivnica",
         "reading": "පොසිව්නිත්සා",
         "meaning": "ආරාධනා පත්‍රය",
-        "example": "pozivnica",
-        "translation": "ආරාධනා පත්‍රය"
+        "example": "Gosti dolaze popodne.",
+        "translation": "අමුත්තන් සවස පැමිණෙනවා.",
+        "exampleReading": "ගොස්ති දොලාසෙ පොපොද්නෙ."
       },
       {
         "word": "porodica",
         "reading": "පොරොදිත්සා",
         "meaning": "පවුල",
-        "example": "porodica",
-        "translation": "පවුල"
+        "example": "Za praznik se okuplja cela porodica.",
+        "translation": "උත්සව දිනයේ මුළු පවුලම එකතු වෙනවා.",
+        "exampleReading": "සා ප්‍රාස්නික් සේ ඔකුප්ල්යා ත්සෙලා පොරොදිත්සා."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
