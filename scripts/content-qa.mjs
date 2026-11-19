@@ -4,6 +4,7 @@ import assert from "node:assert/strict";
 const files = {
   a1: "a1FinalExams.js",
   c2: "c2FinalExams.js",
+  c1: "c1FinalExams.js",
 };
 
 async function loadModule(path) {
@@ -127,6 +128,91 @@ validateLessonNumbering("Serbian A1", serbianLessons.SERBIAN_A1_LESSONS);
 validateLessonNumbering("English A1", englishLessons.ENGLISH_A1_LESSONS);
 assert.equal(serbianLessonStats.lessons, englishLessonStats.lessons, "Serbian and English A1 lesson counts must match");
 
+
+const c1LessonFiles = [
+  ["serbianC1Lessons.js","SERBIAN_C1_LESSONS","Serbian"],
+  ["serbianC1Lessons11_20.js","SERBIAN_C1_LESSONS_11_20","Serbian"],
+  ["serbianC1Lessons21_30.js","SERBIAN_C1_LESSONS_21_30","Serbian"],
+  ["serbianC1Lessons31_40.js","SERBIAN_C1_LESSONS_31_40","Serbian"],
+  ["serbianC1Lessons41_50.js","SERBIAN_C1_LESSONS_41_50","Serbian"],
+  ["englishC1Lessons.js","ENGLISH_C1_LESSONS","English"],
+  ["englishC1Lessons11_20.js","ENGLISH_C1_LESSONS_11_20","English"],
+  ["englishC1Lessons21_30.js","ENGLISH_C1_LESSONS_21_30","English"],
+  ["englishC1Lessons31_40.js","ENGLISH_C1_LESSONS_31_40","English"],
+  ["englishC1Lessons41_50.js","ENGLISH_C1_LESSONS_41_50","English"],
+];
+const c1Tracks = { Serbian: [], English: [] };
+for (const [path, name, language] of c1LessonFiles) {
+  const mod = await loadModule(path);
+  c1Tracks[language].push(...mod[name]);
+}
+function validateC1Track(label, lessons, latinSerbian = false) {
+  assert.equal(lessons.length, 50, `${label}: expected 50 lessons`);
+  const ids = new Set(), dialogue = new Set(), practicePositions = [0,0,0], listeningPositions = [0,0,0];
+  for (const lesson of lessons) {
+    assert.ok(lesson.id && !ids.has(lesson.id), `${label}: duplicate/missing id ${lesson.id}`);
+    ids.add(lesson.id);
+    assert.ok(lesson.title?.trim() && lesson.objective?.trim() && lesson.grammarTitle?.trim() && lesson.grammar?.trim(), `${lesson.id}: incomplete lesson header`);
+    assert.equal(lesson.vocabulary?.length, 8, `${lesson.id}: expected 8 vocabulary cards`);
+    assert.equal(lesson.examples?.length, 4, `${lesson.id}: expected 4 examples`);
+    assert.equal(lesson.dialogue?.length, 4, `${lesson.id}: expected 4 dialogue turns`);
+    assert.equal(lesson.practice?.length, 4, `${lesson.id}: expected 4 practice questions`);
+    for (const [i,v] of lesson.vocabulary.entries()) {
+      for (const key of ["word","reading","meaning","example","translation"]) assert.ok(typeof v[key]==="string" && v[key].trim(), `${lesson.id} vocab ${i+1}: missing ${key}`);
+      assert.ok(hasSinhala(v.reading) && !hasForeignScript(v.reading), `${lesson.id} vocab ${i+1}: invalid reading`);
+      if (latinSerbian) assert.ok(!/[А-Яа-яЁёЂђЈјЉљЊњЋћЏџ]/u.test(v.word), `${lesson.id}: Serbian word must use Latin script`);
+    }
+    for (const ex of lesson.examples) assert.ok((ex.sr??ex.text)?.trim() && (ex.si??ex.meaning)?.trim(), `${lesson.id}: incomplete example`);
+    for (const line of lesson.dialogue) {
+      const text = line.sr??line.text;
+      assert.ok(text?.trim() && (line.si??line.meaning)?.trim(), `${lesson.id}: incomplete dialogue`);
+      assert.ok(!dialogue.has(text), `${label}: duplicate dialogue line: ${text}`);
+      dialogue.add(text);
+    }
+    for (const q of lesson.practice) {
+      assert.ok(q.prompt?.trim() && q.options?.length===3 && new Set(q.options).size===3, `${lesson.id}: invalid practice options`);
+      assert.ok(Number.isInteger(q.answer) && q.answer>=0 && q.answer<q.options.length, `${lesson.id}: invalid practice answer`);
+      practicePositions[q.answer]++;
+    }
+    const q=lesson.listeningPractice;
+    assert.ok(q?.prompt?.trim() && q.audio?.trim() && hasSinhala(q.reading) && !hasForeignScript(q.reading), `${lesson.id}: invalid listening content`);
+    assert.ok(q.options?.length===3 && Number.isInteger(q.answer) && q.answer>=0 && q.answer<q.options.length, `${lesson.id}: invalid listening options/answer`);
+    listeningPositions[q.answer]++;
+  }
+  assert.equal(ids.size,50,`${label}: IDs must be unique`);
+  assert.ok(practicePositions.every(n=>n>0),`${label}: practice answers are position-biased`);
+  assert.ok(listeningPositions.every(n=>n>0),`${label}: listening answers are position-biased`);
+  return {lessons:lessons.length,dialogueLines:dialogue.size,practicePositions,listeningPositions};
+}
+const serbianC1Stats=validateC1Track("Serbian C1",c1Tracks.Serbian,true);
+const englishC1Stats=validateC1Track("English C1",c1Tracks.English);
+const c1=await loadModule(files.c1);
+const c1Meanings={
+ Serbian:new Map(c1Tracks.Serbian.flatMap(l=>l.vocabulary.map(v=>[v.word.toLowerCase(),v.meaning]))),
+ English:new Map(c1Tracks.English.flatMap(l=>l.vocabulary.map(v=>[v.word.toLowerCase(),v.meaning]))),
+};
+function validateC1Assessment(label,questions,count,language,final=false){
+ assert.equal(questions.length,count,`${label}: wrong question count`);
+ const ids=new Set();
+ for(const q of questions){
+  assert.ok(q.id&&!ids.has(q.id),`${label}: duplicate/missing id ${q.id}`);ids.add(q.id);
+  assert.ok(q.options?.length>=3&&new Set(q.options).size===q.options.length,`${q.id}: invalid options`);
+  assert.ok(Number.isInteger(q.answer)&&q.answer>=0&&q.answer<q.options.length,`${q.id}: invalid answer`);
+  if(q.word){
+   const meaning=c1Meanings[language].get(q.word.toLowerCase());
+   assert.ok(meaning,`${q.id}: word absent from course vocabulary`);
+   assert.equal(q.options[q.answer],meaning,`${q.id}: answer does not match vocabulary meaning`);
+   assert.ok(hasSinhala(q.wordReading)&&!hasForeignScript(q.wordReading),`${q.id}: invalid word reading`);
+  }
+  if(q.audio)assert.ok(hasSinhala(q.reading)&&!hasForeignScript(q.reading),`${q.id}: invalid audio reading`);
+ }
+ if(final){assert.equal(questions.filter(q=>q.audio).length,6,`${label}: expected 6 listening items`);assert.equal(questions.filter(q=>q.word).length,14,`${label}: expected 14 vocabulary items`);}
+}
+validateC1Assessment("Serbian C1 revision",c1.SERBIAN_C1_MIXED_REVISION,10,"Serbian");
+validateC1Assessment("English C1 revision",c1.ENGLISH_C1_MIXED_REVISION,10,"English");
+validateC1Assessment("Serbian C1 final",c1.SERBIAN_C1_FINAL_EXAM,20,"Serbian",true);
+validateC1Assessment("English C1 final",c1.ENGLISH_C1_FINAL_EXAM,20,"English",true);
+
 const a1 = await loadModule(files.a1);
 validateQuestions("Serbian A1 final exam", a1.SERBIAN_A1_FINAL_EXAM, 20, { pronunciation: true });
 validateQuestions("English A1 final exam", a1.ENGLISH_A1_FINAL_EXAM, 20, { pronunciation: true });
@@ -138,4 +224,4 @@ validateQuestions("Serbian C2 final exam", c2.SERBIAN_C2_FINAL_EXAM, 20, { pronu
 validateQuestions("English C2 final exam", c2.ENGLISH_C2_FINAL_EXAM, 20, { pronunciation: true });
 
 console.log("Content QA passed.");
-console.log({ serbianLessonStats, englishLessonStats });
+console.log({ serbianLessonStats, englishLessonStats, serbianC1Stats, englishC1Stats });
