@@ -10,65 +10,65 @@ export const SERBIAN_B1_LESSONS = [
         "word": "experience",
         "reading": "ඉස්කුස්ත්වො",
         "meaning": "අත්දැකීම",
-        "example": "Prošle godine sam putovao u Novi Sad.",
-        "translation": "ගිය අවුරුද්දේ මම නොවි සාද් ගියා.",
-        "exampleReading": "ප්‍රොෂ්ලෙ ගොදිනෙ සාම් පුතොවාඔ උ නොවි සාද්."
+        "example": "Ovo je bilo moje prvo veliko iskustvo.",
+        "translation": "මෙය මගේ පළමු විශාල අත්දැකීමයි.",
+        "exampleReading": "ඔවො යේ බිලො මොයේ ප්‍ර්වො වෙලිකො ඉස්කුස්ත්වො."
       },
       {
         "word": "memorable",
         "reading": "නෙසාබොරාවන්",
         "meaning": "අමතක නොවන",
-        "example": "Taj dan je bio poseban za mene.",
-        "translation": "ඒ දවස මට විශේෂයි.",
-        "exampleReading": "තායි දාන් යේ බියො පොසෙබාන් සා මෙනෙ."
+        "example": "To je bio nezaboravan dan.",
+        "translation": "එය අමතක නොවන දවසක් වුණා.",
+        "exampleReading": "තො යේ බියො නෙසාබොරාවන් දාන්."
       },
       {
         "word": "journey",
         "reading": "පුතොවාන්යෙ",
         "meaning": "ගමන",
-        "example": "Odjednom je počela jaka kiša.",
-        "translation": "එකවරම තද වැස්සක් පටන් ගත්තා.",
-        "exampleReading": "ඔද්යෙද්නොම් යේ පොචෙලා යාකා කිෂා."
+        "example": "Naše putovanje je trajalo tri dana.",
+        "translation": "අපේ ගමන දින තුනක් පැවතුණා.",
+        "exampleReading": "නාෂෙ පුතොවාන්යේ යේ ත්‍රායාලො ත්‍රි දාන."
       },
       {
         "word": "event",
         "reading": "දොගාජායි",
         "meaning": "සිදුවීම",
-        "example": "Još se dobro sećam tog putovanja.",
-        "translation": "මට ඒ ගමන තවම හොඳින් මතකයි.",
-        "exampleReading": "යොෂ් සේ දොබ්‍රො සෙචාම් තොග පුතොවාන්යා."
+        "example": "Taj događaj se održao prošle nedelje.",
+        "translation": "ඒ සිදුවීම පසුගිය සතියේ පැවැත්වුණා.",
+        "exampleReading": "තායි දොගාජායි සේ ඔද්ර්ෂාඔ ප්‍රොෂ්ලෙ නෙදෙල්යේ."
       },
       {
         "word": "suddenly",
         "reading": "ඔද්යෙද්නොම්",
         "meaning": "එකවරම",
-        "example": "Prošle godine sam putovao u Novi Sad.",
-        "translation": "ගිය අවුරුද්දේ මම නොවි සාද් ගියා.",
-        "exampleReading": "ප්‍රොෂ්ලෙ ගොදිනෙ සාම් පුතොවාඔ උ නොවි සාද්."
-      },
-      {
-        "word": "remember",
-        "reading": "සෙචාති සේ",
-        "meaning": "මතක තබාගන්නවා",
-        "example": "Taj dan je bio poseban za mene.",
-        "translation": "ඒ දවස මට විශේෂයි.",
-        "exampleReading": "තායි දාන් යේ බියො පොසෙබාන් සා මෙනෙ."
-      },
-      {
-        "word": "surprised",
-        "reading": "ඉස්නෙනාජෙන්",
-        "meaning": "පුදුමයට පත් වූ",
         "example": "Odjednom je počela jaka kiša.",
         "translation": "එකවරම තද වැස්සක් පටන් ගත්තා.",
         "exampleReading": "ඔද්යෙද්නොම් යේ පොචෙලා යාකා කිෂා."
       },
       {
+        "word": "remember",
+        "reading": "සෙචාති සේ",
+        "meaning": "මතක තබාගන්නවා",
+        "example": "Uvek ću se sećati tog putovanja.",
+        "translation": "මට ඒ ගමන හැමදාම මතක থাকবে.",
+        "exampleReading": "උවෙක් චු සේ සෙචාති තොග පුතොවාන්යා."
+      },
+      {
+        "word": "surprised",
+        "reading": "ඉස්නෙනාජෙන්",
+        "meaning": "පුදුමයට පත් වූ",
+        "example": "Bio sam iznenađen rezultatom.",
+        "translation": "ප්‍රතිඵලය ගැන මම පුදුමයට පත් වුණා.",
+        "exampleReading": "බියො සාම් ඉස්නෙනාජෙන් රෙසුල්තාතොම්."
+      },
+      {
         "word": "in the end",
         "reading": "නා ක්‍රායු",
         "meaning": "අවසානයේ",
-        "example": "Još se dobro sećam tog putovanja.",
-        "translation": "මට ඒ ගමන තවම හොඳින් මතකයි.",
-        "exampleReading": "යොෂ් සේ දොබ්‍රො සෙචාම් තොග පුතොවාන්යා."
+        "example": "Na kraju smo stigli na vreme.",
+        "translation": "අවසානයේ අපි වෙලාවට ළඟා වුණා.",
+        "exampleReading": "නා ක්‍රායු ස්මො ස්තිග්ලි නා ව්‍රෙමෙ."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -188,65 +188,65 @@ export const SERBIAN_B1_LESSONS = [
         "word": "opinion",
         "reading": "මිෂ්ල්‍යෙන්යෙ",
         "meaning": "අදහස",
-        "example": "Po mom mišljenju, ovaj plan je bolji.",
-        "translation": "මගේ අදහස අනුව මේ සැලැස්ම වඩා හොඳයි.",
-        "exampleReading": "පො මොම් මිෂ්ල්‍යෙන්යු ඔවායි ප්ලාන් යේ බොල්යි."
+        "example": "Po mom mišljenju, ovaj plan je dobar.",
+        "translation": "මගේ අදහස අනුව මේ සැලැස්ම හොඳයි.",
+        "exampleReading": "පො මොම් මිෂ්ල්‍යෙන්යු ඔවායි ප්ලාන් යේ දොබාර්."
       },
       {
         "word": "reason",
         "reading": "රාස්ලොග්",
         "meaning": "හේතුව",
-        "example": "Slažem se zato što je jednostavan.",
-        "translation": "එය සරල නිසා මම එකඟයි.",
-        "exampleReading": "ස්ලාෂෙම් සේ සාතො ෂ්තො යේ යෙද්නොස්තාවන්."
+        "example": "Koji je razlog za ovu promenu?",
+        "translation": "මේ වෙනසට හේතුව මොකක්ද?",
+        "exampleReading": "කොයි යේ රාස්ලොග් සා ඔවු ප්‍රොමෙනු."
       },
       {
         "word": "agree",
         "reading": "ස්ලාෂෙම් සේ",
         "meaning": "එකඟ වෙනවා",
-        "example": "Ipak, postoji jedan problem.",
-        "translation": "කෙසේවෙතත් එක් ගැටලුවක් තියෙනවා.",
-        "exampleReading": "ඉපාක් පොස්තොයි යෙදාන් ප්‍රොබ්ලෙම්."
+        "example": "Slažem se sa tvojim predlogom.",
+        "translation": "මම ඔයාගේ යෝජනාවට එකඟයි.",
+        "exampleReading": "ස්ලාෂෙම් සේ සා ත්වොයිම් ප්‍රෙද්ලොගොම්."
       },
       {
         "word": "advantage",
         "reading": "ප්‍රෙද්නොස්ත්",
         "meaning": "වාසිය",
-        "example": "Koji je razlog za tvoju odluku?",
-        "translation": "ඔයාගේ තීරණයට හේතුව මොකක්ද?",
-        "exampleReading": "කොයි යේ රාස්ලොග් සා ත්වොයු ඔද්ලුකු."
+        "example": "Glavna prednost je niža cena.",
+        "translation": "ප්‍රධාන වාසිය අඩු මිලයි.",
+        "exampleReading": "ග්ලාව්නා ප්‍රෙද්නොස්ත් යේ නිෂා ත්සෙනා."
       },
       {
         "word": "disadvantage",
         "reading": "මානා",
         "meaning": "අවාසිය",
-        "example": "Po mom mišljenju, ovaj plan je bolji.",
-        "translation": "මගේ අදහස අනුව මේ සැලැස්ම වඩා හොඳයි.",
-        "exampleReading": "පො මොම් මිෂ්ල්‍යෙන්යු ඔවායි ප්ලාන් යේ බොල්යි."
+        "example": "Najveća mana je dugo čekanje.",
+        "translation": "ලොකුම අවාසිය දිගු කාලයක් බලා සිටීමට සිදුවීමයි.",
+        "exampleReading": "නායිවෙචා මානා යේ දුගො චෙකාන්යේ."
       },
       {
         "word": "believe",
         "reading": "ස්මාත්‍රාම්",
         "meaning": "විශ්වාස කරනවා",
-        "example": "Slažem se zato što je jednostavan.",
-        "translation": "එය සරල නිසා මම එකඟයි.",
-        "exampleReading": "ස්ලාෂෙම් සේ සාතො ෂ්තො යේ යෙද්නොස්තාවන්."
+        "example": "Verujem da možemo uspeti.",
+        "translation": "අපට සාර්ථක විය හැකි බව මම විශ්වාස කරනවා.",
+        "exampleReading": "වෙරුයෙම් දා මොෂෙමො උස්පෙති."
       },
       {
         "word": "however",
         "reading": "ඉපාක්",
         "meaning": "කෙසේවෙතත්",
-        "example": "Ipak, postoji jedan problem.",
-        "translation": "කෙසේවෙතත් එක් ගැටලුවක් තියෙනවා.",
-        "exampleReading": "ඉපාක් පොස්තොයි යෙදාන් ප්‍රොබ්ලෙම්."
+        "example": "Hteo sam da dođem, ali ipak nisam imao vremena.",
+        "translation": "මට එන්න ඕනෑ වුණා, නමුත් කෙසේවෙතත් වෙලාව තිබුණේ නැහැ.",
+        "exampleReading": "හ්තෙඔ සාම් දා දොජෙම් අලි ඉපාක් නිසාම් ඉමාඔ ව්‍රෙමෙනා."
       },
       {
         "word": "depend",
         "reading": "සාවිසි",
         "meaning": "රඳා පවතිනවා",
-        "example": "Koji je razlog za tvoju odluku?",
-        "translation": "ඔයාගේ තීරණයට හේතුව මොකක්ද?",
-        "exampleReading": "කොයි යේ රාස්ලොග් සා ත්වොයු ඔද්ලුකු."
+        "example": "Cena zavisi od količine.",
+        "translation": "මිල ප්‍රමාණය මත රඳා පවතිනවා.",
+        "exampleReading": "ත්සෙනා සාවිසි ඔද් කොලිචිනෙ."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
