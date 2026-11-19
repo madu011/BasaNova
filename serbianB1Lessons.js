@@ -3037,7 +3037,7 @@ const serbianB1Lessons = [
         "meaning": "ප්‍රතිචක්‍රීකරණය",
         "example": "Reciklaža papira smanjuje količinu otpada.",
         "translation": "කඩදාසි ප්‍රතිචක්‍රීකරණය කිරීමෙන් අපද්‍රව්‍ය ප්‍රමාණය අඩු වෙනවා.",
-        "exampleReading": "රෙත්සිකලාෂා папира ස්මාඤුයේ කොලිචину ඔත්පාදා."
+        "exampleReading": "රෙත්සිකලාෂා පපිරා ස්මාඤුයේ කොලිචину ඔත්පාදා."
       },
       {
         "word": "waste",
@@ -3077,7 +3077,7 @@ const serbianB1Lessons = [
         "meaning": "නැවත භාවිත කළ හැකි",
         "example": "Koristim bocu za višekratnu upotrebu umesto plastičnih flaša.",
         "translation": "ප්ලාස්ටික් බෝතල් වෙනුවට මම නැවත භාවිත කළ හැකි බෝතලයක් භාවිත කරනවා.",
-        "exampleReading": "කොරистිම් боцу за вишекратну употребу уместо пластичних флаша."
+        "exampleReading": "කොරිස්තිම් බොත්සු සා විෂෙකратну උපොත්‍රෙබු උමෙස්තො ප්ලාස්තිච්නිහ් ෆ්ලාෂා."
       },
       {
         "word": "public transport",
@@ -3085,7 +3085,7 @@ const serbianB1Lessons = [
         "meaning": "පොදු ප්‍රවාහනය",
         "example": "Javni prevoz smanjuje broj automobila na ulicama.",
         "translation": "පොදු ප්‍රවාහනය මාර්ගවල මෝටර් රථ සංඛ්‍යාව අඩු කරනවා.",
-        "exampleReading": "යාව්නි ප්‍රෙවොස් ස්මාඤුයේ බ්‍රොයි аутомобила на улицама."
+        "exampleReading": "යාව්නි ප්‍රෙවොස් ස්මාඤුයේ බ්‍රොයි අව්තොමොබිලා නා උලිත්සාමා."
       },
       {
         "word": "protect",
@@ -3239,7 +3239,7 @@ const serbianB1Lessons = [
         "meaning": "ඒ නිසා",
         "example": "Autobus kasni, zato ćemo uzeti taksi.",
         "translation": "බස් රථය ප්‍රමාදයි, ඒ නිසා අපි ටැක්සියක් ගන්නවා.",
-        "exampleReading": "аутобус касни zato ćemo uzeti taksi."
+        "exampleReading": "අව්තොබුස් කාස්නි සාතො චෙමො උසෙති තක්සි."
       },
       {
         "word": "because of",
@@ -3255,7 +3255,7 @@ const serbianB1Lessons = [
         "meaning": "ප්‍රතිඵලය",
         "example": "Rezultat ankete pokazao je veću podršku projektu.",
         "translation": "සමීක්ෂණයේ ප්‍රතිඵලයෙන් ව්‍යාපෘතියට වැඩි සහායක් ඇති බව පෙන්වුණා.",
-        "exampleReading": "රෙසුල්තාත් анкете показао је већу подршку пројекту."
+        "exampleReading": "රෙසුල්තාත් අන්කෙතෙ පොකාසාඕ යෙ වෙචු පොද්‍ර්ෂ්කු ප්‍රොයෙක්තු."
       },
       {
         "word": "increase",
@@ -3263,7 +3263,7 @@ const serbianB1Lessons = [
         "meaning": "වැඩි කරන්න",
         "example": "Grad planira da poveća broj autobuskih linija.",
         "translation": "නගරය බස් මාර්ග ගණන වැඩි කිරීමට සැලසුම් කරනවා.",
-        "exampleReading": "ග්‍රාද් ප්ලානිရာ දා පොවෙචා බ්‍රොයි автобuskih линија."
+        "exampleReading": "ග්‍රාද් ප්ලානිරා දා පොවෙචා බ්‍රොයි අව්තොබුස්කිහ් ලිනියා."
       },
       {
         "word": "reduce",
@@ -3425,7 +3425,7 @@ const serbianB1Lessons = [
         "meaning": "තර්කය",
         "example": "Njegov argument je bio jasan i dobro potkrepljen.",
         "translation": "ඔහුගේ තර්කය පැහැදිලි වූ අතර හොඳින් සාක්ෂි සහිතයි.",
-        "exampleReading": "ඤෙගොව් аргумент යෙ බියෝ යාසන් ඉ දොබ්‍රො පොත්ක්‍රෙප්ල්යෙන්."
+        "exampleReading": "ඤෙගොව් ආර්ගුමෙන්ත් යෙ බියෝ යාසන් ඉ දොබ්‍රො පොත්ක්‍රෙප්ල්යෙන්."
       },
       {
         "word": "on the one hand",
@@ -3449,7 +3449,7 @@ const serbianB1Lessons = [
         "meaning": "නිගමනය",
         "example": "Na kraju izveštaja napisali smo kratak zaključak.",
         "translation": "වාර්තාව අවසානයේ අපි කෙටි නිගමනයක් ලිව්වා.",
-        "exampleReading": "නා ක්‍රායු ඉස්වෙෂ්තායා නාписали смо kratак zaključak."
+        "exampleReading": "නා ක්‍රායු ඉස්වෙෂ්තායා නාපිසාලි ස්මො ක්‍රාතාක් සාක්ල්යුචාක්."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
