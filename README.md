@@ -15,6 +15,8 @@ BasaNova is a Sinhala-first language-learning app for learning Serbian and Engli
 
 ## Current MVP
 - Sinhala-first mobile interface
+- Beginner-friendly, collapsible study guide in the Learn tab: daily study routine, step-by-step lesson method, speaking/listening practice and spaced revision schedule
+- Separate slang/profanity awareness section protected by an 18+ self-declaration gate, with an under-18 return path and a way to revoke local consent (self-declaration is not verified age assurance)
 - Serbian and English learning modes
 - Expanded Serbian and English beginner vocabulary decks with Sinhala meanings, approximate readings and example sentences, gathered from themed packs and structured lessons
 - The vocabulary packs cover numbers, weekdays, meals/food, everyday objects, shopping, directions, workplace, transport, home, weather, basic health, clothing, colours, daily verbs, useful adjectives, money, public places, technology, time expressions, family, feelings, cooking, road safety, tools, nature, healthcare, household cleaning, appliances, city services, specialist professions, job applications, documents, appointments, agreements, professional skills, banking, payments and personal finance in both languages
