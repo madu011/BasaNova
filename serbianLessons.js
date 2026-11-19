@@ -2157,4 +2157,332 @@ practice:[
 {"id":"sr-a1-review-l45","unit":"ප්‍රවාහනය සහ ටිකට්පත්","title":"පාඩම 45 · බස්, දුම්රිය සහ ටිකට්පත්","objective":"ගමනාන්තය අසීම, ටිකට්පත් ඉල්ලීම සහ ගමන් විස්තර තේරුම් ගැනීම","vocabulary":[{"word":"autobus","reading":"ආවුතොබුස්","meaning":"බස් රථය","example":"autobus","translation":"බස් රථය"},{"word":"voz","reading":"වොස්","meaning":"දුම්රිය","example":"voz","translation":"දුම්රිය"},{"word":"stanica","reading":"ස්තානිත්සා","meaning":"නැවතුම්පොළ","example":"stanica","translation":"නැවතුම්පොළ"},{"word":"karta","reading":"කාර්තා","meaning":"ටිකට්පත","example":"karta","translation":"ටිකට්පත"},{"word":"polazak","reading":"පොලාසක්","meaning":"පිටත්වීම","example":"polazak","translation":"පිටත්වීම"},{"word":"dolazak","reading":"දොලාසක්","meaning":"පැමිණීම","example":"dolazak","translation":"පැමිණීම"},{"word":"kasni","reading":"කාස්නි","meaning":"ප්‍රමාදයි","example":"kasni","translation":"ප්‍රමාදයි"},{"word":"Gde je stanica?","reading":"ග්දේ යේ ස්තානිත්සා?","meaning":"නැවතුම්පොළ කොහෙද?","example":"Gde je stanica?","translation":"නැවතුම්පොළ කොහෙද?"}],"grammarTitle":"වාක්‍ය රටාව · ප්‍රශ්න සහ පිළිතුරු","grammar":"මෙම පාඩමේදී “Jednu kartu, molim.” යන වාක්‍ය රටාව භාවිතා කරයි. ප්‍රශ්නය පැහැදිලිව අසා, කෙටි පිළිතුරක් දෙන්න. අවශ්‍ය විට “molim” යොදා ආචාරශීලී වන්න.","grammarTerms":[{"sr":"Jednu kartu, molim.","reading":"යෙද්නු කාර්තු, මොලීම්.","si":"ටිකට් එකක් දෙන්න, කරුණාකර."}],"examples":[{"sr":"Gde je autobuska stanica?","reading":"ග්දේ යේ ආවුතොබුස්කා ස්තානිත්සා?","si":"බස් නැවතුම්පොළ කොහෙද?"},{"sr":"Tamo, levo.","reading":"තාමො, ලෙවො.","si":"අතන, වමට."},{"sr":"Jednu kartu, molim.","reading":"යෙද්නු කාර්තු, මොලීම්.","si":"ටිකට් එකක් දෙන්න."}],"dialogue":[{"sr":"Gde je autobuska stanica?","reading":"ග්දේ යේ ආවුතොබුස්කා ස්තානිත්සා?","si":"බස් නැවතුම්පොළ කොහෙද?"},{"sr":"Tamo, levo.","reading":"තාමො, ලෙවො.","si":"අතන, වමට."},{"sr":"Jednu kartu, molim.","reading":"යෙද්නු කාර්තු, මොලීම්.","si":"ටිකට් එකක් දෙන්න."},{"sr":"Izvolite.","reading":"ඉස්වොලිතෙ.","si":"මෙන්න."}],"listeningPractice":{"prompt":"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Jednu kartu, molim.”","audio":"Jednu kartu, molim.","options":["ටිකට් එකක් දෙන්න, කරුණාකර.","බස් රථය","දුම්රිය"],"readings":["යෙද්නු කාර්තු, මොලීම්.","ආවුතොබුස්","වොස්"],"answer":0,"meaning":"Jednu kartu, molim. = ටිකට් එකක් දෙන්න, කරුණාකර."},"practice":[{"prompt":"“ටිකට්පත” යන්න?","options":["karta","stanica","voz"],"answer":0,"explanation":"karta = කාර්තා"},{"prompt":"“දුම්රිය” යන්න?","options":["voz","karta","polazak"],"answer":0,"explanation":"voz = වොස්"},{"prompt":"“ප්‍රමාදයි” යන්න?","options":["kasni","polazak","dolazak"],"answer":0,"explanation":"kasni = කාස්නි"},{"prompt":"“නැවතුම්පොළ කොහෙද?”","options":["Gde je stanica?","dolazak","kasni"],"answer":0,"explanation":"Gde je stanica? = ග්දේ යේ ස්තානිත්සා?"}]},
 {"id":"sr-a1-review-l46","unit":"වෛද්‍යවරයා සහ සෞඛ්‍ය සේවා","title":"පාඩම 46 · වෛද්‍යවරයා හමුවීම","objective":"වෛද්‍ය හමුවක් ඉල්ලීම සහ සරල රෝග ලක්ෂණ පැවසීම","vocabulary":[{"word":"lekar","reading":"ලෙකාර්","meaning":"වෛද්‍යවරයා","example":"lekar","translation":"වෛද්‍යවරයා"},{"word":"apoteka","reading":"අපොතෙකා","meaning":"ඖෂධහල","example":"apoteka","translation":"ඖෂධහල"},{"word":"boli me","reading":"බොලි මෙ","meaning":"මට රිදෙනවා","example":"boli me","translation":"මට රිදෙනවා"},{"word":"glava","reading":"ග්ලාවා","meaning":"හිස","example":"glava","translation":"හිස"},{"word":"temperatura","reading":"තෙම්පෙරතුරා","meaning":"උණ / උෂ්ණත්වය","example":"temperatura","translation":"උණ / උෂ්ණත්වය"},{"word":"pregled","reading":"ප්‍රෙග්ලෙද්","meaning":"පරීක්ෂාව","example":"pregled","translation":"පරීක්ෂාව"},{"word":"pomoć","reading":"පොමොච්","meaning":"උදව්","example":"pomoć","translation":"උදව්"},{"word":"Treba mi lekar.","reading":"ත්‍රෙබා මි ලෙකාර්.","meaning":"මට වෛද්‍යවරයෙක් අවශ්‍යයි.","example":"Treba mi lekar.","translation":"මට වෛද්‍යවරයෙක් අවශ්‍යයි."}],"grammarTitle":"වාක්‍ය රටාව · ප්‍රශ්න සහ පිළිතුරු","grammar":"මෙම පාඩමේදී “Želim da zakažem pregled.” යන වාක්‍ය රටාව භාවිතා කරයි. ප්‍රශ්නය පැහැදිලිව අසා, කෙටි පිළිතුරක් දෙන්න. අවශ්‍ය විට “molim” යොදා ආචාරශීලී වන්න.","grammarTerms":[{"sr":"Želim da zakažem pregled.","reading":"ෂෙලිම් දා සාකාෂෙම් ප්‍රෙග්ලෙද්.","si":"මට පරීක්ෂාවක් වෙන්කරගන්න ඕනේ."}],"examples":[{"sr":"Dobar dan. Treba mi lekar.","reading":"දොබාර් දාන්. ත්‍රෙබා මි ලෙකාර්.","si":"සුබ දවසක්. මට වෛද්‍යවරයෙක් අවශ්‍යයි."},{"sr":"Šta vas boli?","reading":"ෂ්තා වාස් බොලි?","si":"ඔබට මොකක්ද රිදෙන්නේ?"},{"sr":"Boli me glava.","reading":"බොලි මෙ ග්ලාවා.","si":"මගේ හිස රිදෙනවා."}],"dialogue":[{"sr":"Dobar dan. Treba mi lekar.","reading":"දොබාර් දාන්. ත්‍රෙබා මි ලෙකාර්.","si":"සුබ දවසක්. මට වෛද්‍යවරයෙක් අවශ්‍යයි."},{"sr":"Šta vas boli?","reading":"ෂ්තා වාස් බොලි?","si":"ඔබට මොකක්ද රිදෙන්නේ?"},{"sr":"Boli me glava.","reading":"බොලි මෙ ග්ලාවා.","si":"මගේ හිස රිදෙනවා."},{"sr":"Želim pregled, molim.","reading":"ෂෙලිම් ප්‍රෙග්ලෙද්, මොලීම්.","si":"මට පරීක්ෂාවක් අවශ්‍යයි."}],"listeningPractice":{"prompt":"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Želim da zakažem pregled.”","audio":"Želim da zakažem pregled.","options":["මට පරීක්ෂාවක් වෙන්කරගන්න ඕනේ.","වෛද්‍යවරයා","ඖෂධහල"],"readings":["ෂෙලිම් දා සාකාෂෙම් ප්‍රෙග්ලෙද්.","ලෙකාර්","අපොතෙකා"],"answer":0,"meaning":"Želim da zakažem pregled. = මට පරීක්ෂාවක් වෙන්කරගන්න ඕනේ."},"practice":[{"prompt":"“වෛද්‍යවරයා” යන්න?","options":["lekar","boli me","glava"],"answer":0,"explanation":"lekar = ලෙකාර්"},{"prompt":"“ඖෂධහල” යන්න?","options":["apoteka","glava","temperatura"],"answer":0,"explanation":"apoteka = අපොතෙකා"},{"prompt":"“මට හිස රිදෙනවා.”","options":["Boli me glava.","temperatura","pregled"],"answer":0,"explanation":"Boli me glava. = බොලි මෙ ග්ලාවා."},{"prompt":"“මට උදව් අවශ්‍යයි.”","options":["Treba mi pomoć.","pregled","pomoć"],"answer":0,"explanation":"Treba mi pomoć. = ත්‍රෙබා මි පොමොච්"}]},
 {"id":"sr-a1-review-l47","unit":"දෛනික ප්‍රශ්න සහ පිළිතුරු","title":"පාඩම 47 · දෛනික ප්‍රශ්න සහ පිළිතුරු","objective":"සරල ප්‍රශ්න අසා පැහැදිලි පිළිතුරු ලබාදීම","vocabulary":[{"word":"Šta radiš?","reading":"ෂ්තා රාදිෂ්?","meaning":"ඔයා මොකද කරන්නේ?","example":"Šta radiš?","translation":"ඔයා මොකද කරන්නේ?"},{"word":"Gde živiš?","reading":"ග්දේ ෂිවිෂ්?","meaning":"ඔයා කොහෙද ජීවත් වෙන්නේ?","example":"Gde živiš?","translation":"ඔයා කොහෙද ජීවත් වෙන්නේ?"},{"word":"Kada?","reading":"කාදා?","meaning":"කවදාද?","example":"Kada?","translation":"කවදාද?"},{"word":"Zašto?","reading":"සාෂ්තො?","meaning":"ඇයි?","example":"Zašto?","translation":"ඇයි?"},{"word":"Koliko?","reading":"කොලිකො?","meaning":"කීයක්ද? / කොච්චරද?","example":"Koliko?","translation":"කීයක්ද? / කොච්චරද?"},{"word":"Ne razumem.","reading":"නෙ රාසුමෙම්.","meaning":"මට තේරෙන්නේ නැහැ.","example":"Ne razumem.","translation":"මට තේරෙන්නේ නැහැ."},{"word":"Ponovite, molim.","reading":"පොනොවිතෙ, මොලීම්.","meaning":"නැවත කියන්න, කරුණාකර.","example":"Ponovite, molim.","translation":"නැවත කියන්න, කරුණාකර."},{"word":"Razumem.","reading":"රාසුමෙම්.","meaning":"මට තේරෙනවා.","example":"Razumem.","translation":"මට තේරෙනවා."}],"grammarTitle":"වාක්‍ය රටාව · ප්‍රශ්න සහ පිළිතුරු","grammar":"මෙම පාඩමේදී “Možete li da ponovite?” යන වාක්‍ය රටාව භාවිතා කරයි. ප්‍රශ්නය පැහැදිලිව අසා, කෙටි පිළිතුරක් දෙන්න. අවශ්‍ය විට “molim” යොදා ආචාරශීලී වන්න.","grammarTerms":[{"sr":"Možete li da ponovite?","reading":"මොෂෙතෙ ලි දා පොනොවිතෙ?","si":"ඔබට නැවත කියන්න පුළුවන්ද?"}],"examples":[{"sr":"Šta radiš danas?","reading":"ෂ්තා රාදිෂ් දනාස්?","si":"අද ඔයා මොකද කරන්නේ?"},{"sr":"Radim do pet.","reading":"රාදිම් දො පෙත්.","si":"මම පහ වෙනකම් වැඩ කරනවා."},{"sr":"Gde živiš?","reading":"ග්දේ ෂිවිෂ්?","si":"ඔයා කොහෙද ජීවත් වෙන්නේ?"}],"dialogue":[{"sr":"Šta radiš danas?","reading":"ෂ්තා රාදිෂ් දනාස්?","si":"අද ඔයා මොකද කරන්නේ?"},{"sr":"Radim do pet.","reading":"රාදිම් දො පෙත්.","si":"මම පහ වෙනකම් වැඩ කරනවා."},{"sr":"Gde živiš?","reading":"ග්දේ ෂිවිෂ්?","si":"ඔයා කොහෙද ජීවත් වෙන්නේ?"},{"sr":"Živim u Beogradu.","reading":"ෂිවිම් උ බෙඔග්‍රාදු.","si":"මම බෙල්ග්‍රේඩ්වල ජීවත් වෙනවා."}],"listeningPractice":{"prompt":"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Možete li da ponovite?”","audio":"Možete li da ponovite?","options":["ඔබට නැවත කියන්න පුළුවන්ද?","ඔයා මොකද කරන්නේ?","ඔයා කොහෙද ජීවත් වෙන්නේ?"],"readings":["මොෂෙතෙ ලි දා පොනොවිතෙ?","ෂ්තා රාදිෂ්?","ග්දේ ෂිවිෂ්?"],"answer":0,"meaning":"Možete li da ponovite? = ඔබට නැවත කියන්න පුළුවන්ද?"},"practice":[{"prompt":"“කවදාද?” යන්න?","options":["Kada?","Gde?","Zašto?"],"answer":0,"explanation":"Kada? = කාදා?"},{"prompt":"“ඇයි?” යන්න?","options":["Zašto?","Kada?","Koliko?"],"answer":0,"explanation":"Zašto? = සාෂ්තො?"},{"prompt":"“මට තේරෙන්නේ නැහැ.”","options":["Ne razumem.","Koliko?","Hvala."],"answer":0,"explanation":"Ne razumem. = නෙ රාසුමෙම්."},{"prompt":"“නැවත කියන්න.”","options":["Ponovite, molim.","Ne razumem.","Izvinite."],"answer":0,"explanation":"Ponovite, molim. = පොනොවිතෙ මොලීම්."}]}
-,{"id":"sr-a1-review-l48","unit":"A1 අවසාන සමාලෝචනය","title":"පාඩම 48 · A1 ව්‍යාකරණ සමාලෝචනය","objective":"A1 මට්ටමේ මූලික ව්‍යාකරණ, වචන සහ දෛනික සංවාද ඒකාබද්ධව පුහුණු කිරීම","vocabulary":[{"word":"Ja sam","reading":"යා සාම්","meaning":"මම ... වෙමි","example":"Ja sam","translation":"මම ... වෙමි"},{"word":"Imam","reading":"ඉමාම්","meaning":"මට තියෙනවා","example":"Imam","translation":"මට තියෙනවා"},{"word":"Želim","reading":"ෂෙලිම්","meaning":"මට අවශ්‍යයි","example":"Želim","translation":"මට අවශ්‍යයි"},{"word":"Mogu","reading":"මොගු","meaning":"මට පුළුවන්","example":"Mogu","translation":"මට පුළුවන්"},{"word":"Ne mogu","reading":"නෙ මොගු","meaning":"මට බැහැ","example":"Ne mogu","translation":"මට බැහැ"},{"word":"Gde?","reading":"ග්දේ?","meaning":"කොහෙද?","example":"Gde?","translation":"කොහෙද?"},{"word":"Kada?","reading":"කාදා?","meaning":"කවදාද?","example":"Kada?","translation":"කවදාද?"},{"word":"Koliko?","reading":"කොලිකො?","meaning":"කීයක්ද?","example":"Koliko?","translation":"කීයක්ද?"}],"grammarTitle":"ව්‍යාකරණ සමාලෝචනය","grammar":"A1 මට්ටමේදී Ja sam, Imam, Želim සහ Mogu වැනි මූලික රටා භාවිත කරලා තමන් ගැන, අවශ්‍යතා සහ හැකියාවන් කියන්න පුළුවන් විය යුතුයි.","grammarTerms":[{"sr":"Ja sam iz Šri Lanke.","reading":"යා සාම් ඉස් ශ්‍රි ලන්කෙ.","si":"මම ශ්‍රී ලංකාවෙන්."}],"examples":[{"sr":"Ja sam iz Šri Lanke.","reading":"යා සාම් ඉස් ශ්‍රි ලන්කෙ.","si":"මම ශ්‍රී ලංකාවෙන්."},{"sr":"Radim u Beogradu.","reading":"රාදිම් උ බෙඔග්‍රාදු.","si":"මම බෙල්ග්‍රේඩ්වල වැඩ කරනවා."},{"sr":"Imam slobodan dan.","reading":"ඉමාම් ස්ලොබොදාන් දාන්.","si":"මට නිවාඩු දිනයක් තියෙනවා."}],"dialogue":[{"sr":"Ja sam iz Šri Lanke.","reading":"යා සාම් ඉස් ශ්‍රි ලන්කෙ.","si":"මම ශ්‍රී ලංකාවෙන්."},{"sr":"Radim u Beogradu.","reading":"රාදිම් උ බෙඔග්‍රාදු.","si":"මම බෙල්ග්‍රේඩ්වල වැඩ කරනවා."},{"sr":"Imam slobodan dan.","reading":"ඉමාම් ස්ලොබොදාන් දාන්.","si":"මට නිවාඩු දිනයක් තියෙනවා."},{"sr":"Želim da učim srpski.","reading":"ෂෙලිම් දා උචිම් ස්ර්ප්ස්කි.","si":"මට Serbian ඉගෙනගන්න ඕනේ."}],"listeningPractice":{"prompt":"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Ja sam iz Šri Lanke.”","audio":"Ja sam iz Šri Lanke.","options":["මම ශ්‍රී ලංකාවෙන්.","මම ... වෙමි","මට තියෙනවා"],"readings":["යා සාම් ඉස් ශ්‍රි ලන්කෙ.","යා සාම්","ඉමාම්"],"answer":0,"meaning":"Ja sam iz Šri Lanke. = මම ශ්‍රී ලංකාවෙන්."},"practice":[{"prompt":"“මට තියෙනවා” කියන්නේ?","options":["Imam","Želim","Mogu"],"answer":0,"explanation":"Imam = මට තියෙනවා"},{"prompt":"“මට අවශ්‍යයි” කියන්නේ?","options":["Želim","Mogu","Ne mogu"],"answer":0,"explanation":"Želim = මට අවශ්‍යයි"},{"prompt":"“කොහෙද?” කියන්නේ?","options":["Gde?","Ne mogu","Kada?"],"answer":0,"explanation":"Gde? = කොහෙද?"},{"prompt":"“මට බැහැ” කියන්නේ?","options":["Ne mogu","Gde?","Kada?"],"answer":0,"explanation":"Ne mogu = මට බැහැ"}]},{"id":"sr-a1-review-l49","unit":"A1 ඒකාබද්ධ කතාබහ","title":"පාඩම 49 · දෛනික සංවාද පුහුණුව","objective":"A1 මට්ටමේ මූලික ව්‍යාකරණ, වචන සහ දෛනික සංවාද ඒකාබද්ධව පුහුණු කිරීම","vocabulary":[{"word":"Dobar dan","reading":"දොබාර් දාන්","meaning":"සුබ දවසක්","example":"Dobar dan","translation":"සුබ දවසක්"},{"word":"Kako ste?","reading":"කාකො ස්තෙ?","meaning":"ඔබට කොහොමද?","example":"Kako ste?","translation":"ඔබට කොහොමද?"},{"word":"Treba mi pomoć","reading":"ත්‍රෙබා මි පොමොච්","meaning":"මට උදව් අවශ්‍යයි","example":"Treba mi pomoć","translation":"මට උදව් අවශ්‍යයි"},{"word":"Gde je...?","reading":"ග්දේ යේ...?","meaning":"... කොහෙද?","example":"Gde je...?","translation":"... කොහෙද?"},{"word":"Koliko košta?","reading":"කොලිකො කොෂ්තා?","meaning":"මිල කීයද?","example":"Koliko košta?","translation":"මිල කීයද?"},{"word":"Račun, molim","reading":"රාචුන් මොලීම්","meaning":"බිල දෙන්න","example":"Račun, molim","translation":"බිල දෙන්න"},{"word":"Vidimo se","reading":"විදිමො සේ","meaning":"නැවත හමුවෙමු","example":"Vidimo se","translation":"නැවත හමුවෙමු"},{"word":"Prijatno","reading":"ප්‍රියාත්නො","meaning":"සුබ වේලාවක් / රසවිඳින්න","example":"Prijatno","translation":"සුබ වේලාවක් / රසවිඳින්න"}],"grammarTitle":"ව්‍යාකරණ සමාලෝචනය","grammar":"සංවාදයකදී ආචාරයෙන් ආරම්භ කර අවශ්‍යතාව පැහැදිලි කරන්න. තේරෙන්නේ නැතිනම් නැවත කියන්න කියා ඉල්ලන්න. අවසානයේ ස්තුති කර සමුගන්න.","grammarTerms":[{"sr":"Dobar dan! Kako ste?","reading":"දොබාර් දාන්! කාකො ස්තෙ?","si":"සුබ දවසක්! ඔබට කොහොමද?"}],"examples":[{"sr":"Dobar dan! Kako ste?","reading":"දොබාර් දාන්! කාකො ස්තෙ?","si":"සුබ දවසක්! ඔබට කොහොමද?"},{"sr":"Dobro sam, hvala.","reading":"දොබ්‍රො සාම්, හ්වාලා.","si":"මම හොඳින්, ස්තුතියි."},{"sr":"Treba mi pomoć, molim.","reading":"ත්‍රෙබා මි පොමොච්, මොලීම්.","si":"මට උදව් අවශ්‍යයි, කරුණාකර."}],"dialogue":[{"sr":"Dobar dan! Kako ste?","reading":"දොබාර් දාන්! කාකො ස්තෙ?","si":"සුබ දවසක්! ඔබට කොහොමද?"},{"sr":"Dobro sam, hvala.","reading":"දොබ්‍රො සාම්, හ්වාලා.","si":"මම හොඳින්, ස්තුතියි."},{"sr":"Treba mi pomoć, molim.","reading":"ත්‍රෙබා මි පොමොච්, මොලීම්.","si":"මට උදව් අවශ්‍යයි, කරුණාකර."},{"sr":"Naravno. Kako mogu da pomognem?","reading":"නාරාව්නො. කාකො මොගු දා පොමොග්නෙම්?","si":"අනිවාර්යයෙන්. මට උදව් කළ හැක්කේ කොහොමද?"}],"listeningPractice":{"prompt":"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Dobar dan! Kako ste?”","audio":"Dobar dan! Kako ste?","options":["සුබ දවසක්! ඔබට කොහොමද?","සුබ දවසක්","ඔබට කොහොමද?"],"readings":["දොබාර් දාන්! කාකො ස්තෙ?","දොබාර් දාන්","කාකො ස්තෙ?"],"answer":0,"meaning":"Dobar dan! Kako ste? = සුබ දවසක්! ඔබට කොහොමද?"},"practice":[{"prompt":"“මට උදව් අවශ්‍යයි” තෝරන්න.","options":["Treba mi pomoć","Ne razumem.","Gde je...?"],"answer":0,"explanation":"Treba mi pomoć = මට උදව් අවශ්‍යයි"},{"prompt":"“බිල දෙන්න” තෝරන්න.","options":["Račun, molim","Gde je...?","Koliko košta?"],"answer":0,"explanation":"Račun, molim = බිල දෙන්න"},{"prompt":"“ඔබට කොහොමද?” තෝරන්න.","options":["Kako ste?","Koliko košta?","Račun, molim"],"answer":0,"explanation":"Kako ste? = ඔබට කොහොමද?"},{"prompt":"“නැවත හමුවෙමු” තෝරන්න.","options":["Vidimo se","Račun, molim","Dobar dan."],"answer":0,"explanation":"Vidimo se = නැවත හමුවෙමු"}]},{"id":"sr-a1-review-l50","unit":"A1 අවසාන පුහුණුව","title":"පාඩම 50 · A1 අවසාන සවන්දීම සහ කථනය","objective":"A1 මට්ටමේ මූලික ව්‍යාකරණ, වචන සහ දෛනික සංවාද ඒකාබද්ධව පුහුණු කිරීම","vocabulary":[{"word":"Slušajte","reading":"ස්ලූෂායිතෙ","meaning":"සවන් දෙන්න","example":"Slušajte","translation":"සවන් දෙන්න"},{"word":"Ponovite","reading":"පොනොවිතෙ","meaning":"නැවත කියන්න","example":"Ponovite","translation":"නැවත කියන්න"},{"word":"Razgovor","reading":"රාස්ගොවොර්","meaning":"සංවාදය","example":"Razgovor","translation":"සංවාදය"},{"word":"Pitanje","reading":"පිතාන්‍යෙ","meaning":"ප්‍රශ්නය","example":"Pitanje","translation":"ප්‍රශ්නය"},{"word":"Odgovor","reading":"ඔද්ගොවොර්","meaning":"පිළිතුර","example":"Odgovor","translation":"පිළිතුර"},{"word":"Tačno","reading":"තාච්නො","meaning":"නිවැරදියි","example":"Tačno","translation":"නිවැරදියි"},{"word":"Netačno","reading":"නෙතාච්නො","meaning":"වැරදියි","example":"Netačno","translation":"වැරදියි"},{"word":"Spreman sam","reading":"ස්ප්‍රෙමාන් සාම්","meaning":"මම සූදානම්","example":"Spreman sam","translation":"මම සූදානම්"}],"grammarTitle":"ව්‍යාකරණ සමාලෝචනය","grammar":"මෙය A1 පාඩම්වල අවසාන පුහුණුවයි. හඬ අසා තේරුම තෝරන්න, වාක්‍ය ශබ්ද නඟා කියවන්න, පසුව සංවාදය ඔබේම තොරතුරු යොදාගෙන නැවත කියන්න.","grammarTerms":[{"sr":"Kako se zoveš?","reading":"කාකො සේ සොවේෂ්?","si":"ඔයාගේ නම මොකක්ද?"}],"examples":[{"sr":"Kako se zoveš?","reading":"කාකො සේ සොවේෂ්?","si":"ඔයාගේ නම මොකක්ද?"},{"sr":"Zovem se Milan. Živim u Beogradu.","reading":"සොවෙම් සේ මිලාන්. ෂිවිම් උ බෙඔග්‍රාදු.","si":"මගේ නම මිලාන්. මම බෙල්ග්‍රේඩ්වල ජීවත් වෙනවා."},{"sr":"Gde radiš?","reading":"ග්දේ රාදිෂ්?","si":"ඔයා කොහෙද වැඩ කරන්නේ?"}],"dialogue":[{"sr":"Kako se zoveš?","reading":"කාකො සේ සොවේෂ්?","si":"ඔයාගේ නම මොකක්ද?"},{"sr":"Zovem se Milan. Živim u Beogradu.","reading":"සොවෙම් සේ මිලාන්. ෂිවිම් උ බෙඔග්‍රාදු.","si":"මගේ නම මිලාන්. මම බෙල්ග්‍රේඩ්වල ජීවත් වෙනවා."},{"sr":"Gde radiš?","reading":"ග්දේ රාදිෂ්?","si":"ඔයා කොහෙද වැඩ කරන්නේ?"},{"sr":"Radim u restoranu. Učim srpski svaki dan.","reading":"රාදිම් උ රෙස්තොරانو. උචිම් ස්ර්ප්ස්කි ස්වාකි දාන්.","si":"මම අවන්හලක වැඩ කරනවා. මම හැමදාම Serbian ඉගෙනගන්නවා."}],"listeningPractice":{"prompt":"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Kako se zoveš?”","audio":"Kako se zoveš?","options":["ඔයාගේ නම මොකක්ද?","සවන් දෙන්න","නැවත කියන්න"],"readings":["කාකො සේ සොවේෂ්?","ස්ලූෂායිතෙ","පොනොවිතෙ"],"answer":0,"meaning":"Kako se zoveš? = ඔයාගේ නම මොකක්ද?"},"practice":[{"prompt":"“ප්‍රශ්නය” යන්න?","options":["Pitanje","Razgovor","Odgovor"],"answer":0,"explanation":"Pitanje = ප්‍රශ්නය"},{"prompt":"“පිළිතුර” යන්න?","options":["Odgovor","Pitanje","Razgovor"],"answer":0,"explanation":"Odgovor = පිළිතුර"},{"prompt":"“නිවැරදියි” යන්න?","options":["Tačno","Odgovor","Netačno"],"answer":0,"explanation":"Tačno = නිවැරදියි"},{"prompt":"“සවන් දෙන්න” යන්න?","options":["Slušajte","Tačno","Netačno"],"answer":0,"explanation":"Slušajte = සවන් දෙන්න"}]}];
+,{"id":"sr-a1-review-l48","unit":"A1 අවසාන සමාලෝචනය","title":"පාඩම 48 · A1 ව්‍යාකරණ සමාලෝචනය","objective":"A1 මට්ටමේ මූලික ව්‍යාකරණ, වචන සහ දෛනික සංවාද ඒකාබද්ධව පුහුණු කිරීම","vocabulary":[{"word":"Ja sam","reading":"යා සාම්","meaning":"මම ... වෙමි","example":"Ja sam","translation":"මම ... වෙමි"},{"word":"Imam","reading":"ඉමාම්","meaning":"මට තියෙනවා","example":"Imam","translation":"මට තියෙනවා"},{"word":"Želim","reading":"ෂෙලිම්","meaning":"මට අවශ්‍යයි","example":"Želim","translation":"මට අවශ්‍යයි"},{"word":"Mogu","reading":"මොගු","meaning":"මට පුළුවන්","example":"Mogu","translation":"මට පුළුවන්"},{"word":"Ne mogu","reading":"නෙ මොගු","meaning":"මට බැහැ","example":"Ne mogu","translation":"මට බැහැ"},{"word":"Gde?","reading":"ග්දේ?","meaning":"කොහෙද?","example":"Gde?","translation":"කොහෙද?"},{"word":"Kada?","reading":"කාදා?","meaning":"කවදාද?","example":"Kada?","translation":"කවදාද?"},{"word":"Koliko?","reading":"කොලිකො?","meaning":"කීයක්ද?","example":"Koliko?","translation":"කීයක්ද?"}],"grammarTitle":"ව්‍යාකරණ සමාලෝචනය","grammar":"A1 මට්ටමේදී Ja sam, Imam, Želim සහ Mogu වැනි මූලික රටා භාවිත කරලා තමන් ගැන, අවශ්‍යතා සහ හැකියාවන් කියන්න පුළුවන් විය යුතුයි.","grammarTerms":[{"sr":"Ja sam iz Šri Lanke.","reading":"යා සාම් ඉස් ශ්‍රි ලන්කෙ.","si":"මම ශ්‍රී ලංකාවෙන්."}],"examples":[{"sr":"Ja sam iz Šri Lanke.","reading":"යා සාම් ඉස් ශ්‍රි ලන්කෙ.","si":"මම ශ්‍රී ලංකාවෙන්."},{"sr":"Radim u Beogradu.","reading":"රාදිම් උ බෙඔග්‍රාදු.","si":"මම බෙල්ග්‍රේඩ්වල වැඩ කරනවා."},{"sr":"Imam slobodan dan.","reading":"ඉමාම් ස්ලොබොදාන් දාන්.","si":"මට නිවාඩු දිනයක් තියෙනවා."}],"dialogue":[{"sr":"Ja sam iz Šri Lanke.","reading":"යා සාම් ඉස් ශ්‍රි ලන්කෙ.","si":"මම ශ්‍රී ලංකාවෙන්."},{"sr":"Radim u Beogradu.","reading":"රාදිම් උ බෙඔග්‍රාදු.","si":"මම බෙල්ග්‍රේඩ්වල වැඩ කරනවා."},{"sr":"Imam slobodan dan.","reading":"ඉමාම් ස්ලොබොදාන් දාන්.","si":"මට නිවාඩු දිනයක් තියෙනවා."},{"sr":"Želim da učim srpski.","reading":"ෂෙලිම් දා උචිම් ස්ර්ප්ස්කි.","si":"මට Serbian ඉගෙනගන්න ඕනේ."}],"listeningPractice":{"prompt":"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Ja sam iz Šri Lanke.”","audio":"Ja sam iz Šri Lanke.","options":["මම ශ්‍රී ලංකාවෙන්.","මම ... වෙමි","මට තියෙනවා"],"readings":["යා සාම් ඉස් ශ්‍රි ලන්කෙ.","යා සාම්","ඉමාම්"],"answer":0,"meaning":"Ja sam iz Šri Lanke. = මම ශ්‍රී ලංකාවෙන්."},"practice":[{"prompt":"“මට තියෙනවා” කියන්නේ?","options":["Imam","Želim","Mogu"],"answer":0,"explanation":"Imam = මට තියෙනවා"},{"prompt":"“මට අවශ්‍යයි” කියන්නේ?","options":["Želim","Mogu","Ne mogu"],"answer":0,"explanation":"Želim = මට අවශ්‍යයි"},{"prompt":"“කොහෙද?” කියන්නේ?","options":["Gde?","Ne mogu","Kada?"],"answer":0,"explanation":"Gde? = කොහෙද?"},{"prompt":"“මට බැහැ” කියන්නේ?","options":["Ne mogu","Gde?","Kada?"],"answer":0,"explanation":"Ne mogu = මට බැහැ"}]},{"id":"sr-a1-review-l49","unit":"A1 ඒකාබද්ධ කතාබහ","title":"පාඩම 49 · දෛනික සංවාද පුහුණුව","objective":"A1 මට්ටමේ මූලික ව්‍යාකරණ, වචන සහ දෛනික සංවාද ඒකාබද්ධව පුහුණු කිරීම","vocabulary":[{"word":"Dobar dan","reading":"දොබාර් දාන්","meaning":"සුබ දවසක්","example":"Dobar dan","translation":"සුබ දවසක්"},{"word":"Kako ste?","reading":"කාකො ස්තෙ?","meaning":"ඔබට කොහොමද?","example":"Kako ste?","translation":"ඔබට කොහොමද?"},{"word":"Treba mi pomoć","reading":"ත්‍රෙබා මි පොමොච්","meaning":"මට උදව් අවශ්‍යයි","example":"Treba mi pomoć","translation":"මට උදව් අවශ්‍යයි"},{"word":"Gde je...?","reading":"ග්දේ යේ...?","meaning":"... කොහෙද?","example":"Gde je...?","translation":"... කොහෙද?"},{"word":"Koliko košta?","reading":"කොලිකො කොෂ්තා?","meaning":"මිල කීයද?","example":"Koliko košta?","translation":"මිල කීයද?"},{"word":"Račun, molim","reading":"රාචුන් මොලීම්","meaning":"බිල දෙන්න","example":"Račun, molim","translation":"බිල දෙන්න"},{"word":"Vidimo se","reading":"විදිමො සේ","meaning":"නැවත හමුවෙමු","example":"Vidimo se","translation":"නැවත හමුවෙමු"},{"word":"Prijatno","reading":"ප්‍රියාත්නො","meaning":"සුබ වේලාවක් / රසවිඳින්න","example":"Prijatno","translation":"සුබ වේලාවක් / රසවිඳින්න"}],"grammarTitle":"ව්‍යාකරණ සමාලෝචනය","grammar":"සංවාදයකදී ආචාරයෙන් ආරම්භ කර අවශ්‍යතාව පැහැදිලි කරන්න. තේරෙන්නේ නැතිනම් නැවත කියන්න කියා ඉල්ලන්න. අවසානයේ ස්තුති කර සමුගන්න.","grammarTerms":[{"sr":"Dobar dan! Kako ste?","reading":"දොබාර් දාන්! කාකො ස්තෙ?","si":"සුබ දවසක්! ඔබට කොහොමද?"}],"examples":[{"sr":"Dobar dan! Kako ste?","reading":"දොබාර් දාන්! කාකො ස්තෙ?","si":"සුබ දවසක්! ඔබට කොහොමද?"},{"sr":"Dobro sam, hvala.","reading":"දොබ්‍රො සාම්, හ්වාලා.","si":"මම හොඳින්, ස්තුතියි."},{"sr":"Treba mi pomoć, molim.","reading":"ත්‍රෙබා මි පොමොච්, මොලීම්.","si":"මට උදව් අවශ්‍යයි, කරුණාකර."}],"dialogue":[{"sr":"Dobar dan! Kako ste?","reading":"දොබාර් දාන්! කාකො ස්තෙ?","si":"සුබ දවසක්! ඔබට කොහොමද?"},{"sr":"Dobro sam, hvala.","reading":"දොබ්‍රො සාම්, හ්වාලා.","si":"මම හොඳින්, ස්තුතියි."},{"sr":"Treba mi pomoć, molim.","reading":"ත්‍රෙබා මි පොමොච්, මොලීම්.","si":"මට උදව් අවශ්‍යයි, කරුණාකර."},{"sr":"Naravno. Kako mogu da pomognem?","reading":"නාරාව්නො. කාකො මොගු දා පොමොග්නෙම්?","si":"අනිවාර්යයෙන්. මට උදව් කළ හැක්කේ කොහොමද?"}],"listeningPractice":{"prompt":"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Dobar dan! Kako ste?”","audio":"Dobar dan! Kako ste?","options":["සුබ දවසක්! ඔබට කොහොමද?","සුබ දවසක්","ඔබට කොහොමද?"],"readings":["දොබාර් දාන්! කාකො ස්තෙ?","දොබාර් දාන්","කාකො ස්තෙ?"],"answer":0,"meaning":"Dobar dan! Kako ste? = සුබ දවසක්! ඔබට කොහොමද?"},"practice":[{"prompt":"“මට උදව් අවශ්‍යයි” තෝරන්න.","options":["Treba mi pomoć","Ne razumem.","Gde je...?"],"answer":0,"explanation":"Treba mi pomoć = මට උදව් අවශ්‍යයි"},{"prompt":"“බිල දෙන්න” තෝරන්න.","options":["Račun, molim","Gde je...?","Koliko košta?"],"answer":0,"explanation":"Račun, molim = බිල දෙන්න"},{"prompt":"“ඔබට කොහොමද?” තෝරන්න.","options":["Kako ste?","Koliko košta?","Račun, molim"],"answer":0,"explanation":"Kako ste? = ඔබට කොහොමද?"},{"prompt":"“නැවත හමුවෙමු” තෝරන්න.","options":["Vidimo se","Račun, molim","Dobar dan."],"answer":0,"explanation":"Vidimo se = නැවත හමුවෙමු"}]},{"id":"sr-a1-review-l50","unit":"A1 අවසාන පුහුණුව","title":"පාඩම 50 · A1 අවසාන සවන්දීම සහ කථනය","objective":"A1 මට්ටමේ මූලික ව්‍යාකරණ, වචන සහ දෛනික සංවාද ඒකාබද්ධව පුහුණු කිරීම","vocabulary":[{"word":"Slušajte","reading":"ස්ලූෂායිතෙ","meaning":"සවන් දෙන්න","example":"Slušajte","translation":"සවන් දෙන්න"},{"word":"Ponovite","reading":"පොනොවිතෙ","meaning":"නැවත කියන්න","example":"Ponovite","translation":"නැවත කියන්න"},{"word":"Razgovor","reading":"රාස්ගොවොර්","meaning":"සංවාදය","example":"Razgovor","translation":"සංවාදය"},{"word":"Pitanje","reading":"පිතාන්‍යෙ","meaning":"ප්‍රශ්නය","example":"Pitanje","translation":"ප්‍රශ්නය"},{"word":"Odgovor","reading":"ඔද්ගොවොර්","meaning":"පිළිතුර","example":"Odgovor","translation":"පිළිතුර"},{"word":"Tačno","reading":"තාච්නො","meaning":"නිවැරදියි","example":"Tačno","translation":"නිවැරදියි"},{"word":"Netačno","reading":"නෙතාච්නො","meaning":"වැරදියි","example":"Netačno","translation":"වැරදියි"},{"word":"Spreman sam","reading":"ස්ප්‍රෙමාන් සාම්","meaning":"මම සූදානම්","example":"Spreman sam","translation":"මම සූදානම්"}],"grammarTitle":"ව්‍යාකරණ සමාලෝචනය","grammar":"මෙය A1 පාඩම්වල අවසාන පුහුණුවයි. හඬ අසා තේරුම තෝරන්න, වාක්‍ය ශබ්ද නඟා කියවන්න, පසුව සංවාදය ඔබේම තොරතුරු යොදාගෙන නැවත කියන්න.","grammarTerms":[{"sr":"Kako se zoveš?","reading":"කාකො සේ සොවේෂ්?","si":"ඔයාගේ නම මොකක්ද?"}],"examples":[{"sr":"Kako se zoveš?","reading":"කාකො සේ සොවේෂ්?","si":"ඔයාගේ නම මොකක්ද?"},{"sr":"Zovem se Milan. Živim u Beogradu.","reading":"සොවෙම් සේ මිලාන්. ෂිවිම් උ බෙඔග්‍රාදු.","si":"මගේ නම මිලාන්. මම බෙල්ග්‍රේඩ්වල ජීවත් වෙනවා."},{"sr":"Gde radiš?","reading":"ග්දේ රාදිෂ්?","si":"ඔයා කොහෙද වැඩ කරන්නේ?"}],"dialogue":[{"sr":"Kako se zoveš?","reading":"කාකො සේ සොවේෂ්?","si":"ඔයාගේ නම මොකක්ද?"},{"sr":"Zovem se Milan. Živim u Beogradu.","reading":"සොවෙම් සේ මිලාන්. ෂිවිම් උ බෙඔග්‍රාදු.","si":"මගේ නම මිලාන්. මම බෙල්ග්‍රේඩ්වල ජීවත් වෙනවා."},{"sr":"Gde radiš?","reading":"ග්දේ රාදිෂ්?","si":"ඔයා කොහෙද වැඩ කරන්නේ?"},{"sr":"Radim u restoranu. Učim srpski svaki dan.","reading":"රාදිම් උ රෙස්තොරانو. උචිම් ස්ර්ප්ස්කි ස්වාකි දාන්.","si":"මම අවන්හලක වැඩ කරනවා. මම හැමදාම Serbian ඉගෙනගන්නවා."}],"listeningPractice":{"prompt":"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Kako se zoveš?”","audio":"Kako se zoveš?","options":["ඔයාගේ නම මොකක්ද?","සවන් දෙන්න","නැවත කියන්න"],"readings":["කාකො සේ සොවේෂ්?","ස්ලූෂායිතෙ","පොනොවිතෙ"],"answer":0,"meaning":"Kako se zoveš? = ඔයාගේ නම මොකක්ද?"},"practice":[{"prompt":"“ප්‍රශ්නය” යන්න?","options":["Pitanje","Razgovor","Odgovor"],"answer":0,"explanation":"Pitanje = ප්‍රශ්නය"},{"prompt":"“පිළිතුර” යන්න?","options":["Odgovor","Pitanje","Razgovor"],"answer":0,"explanation":"Odgovor = පිළිතුර"},{"prompt":"“නිවැරදියි” යන්න?","options":["Tačno","Odgovor","Netačno"],"answer":0,"explanation":"Tačno = නිවැරදියි"},{"prompt":"“සවන් දෙන්න” යන්න?","options":["Slušajte","Tačno","Netačno"],"answer":0,"explanation":"Slušajte = සවන් දෙන්න"}]},
+{
+  "id": "sr-a1-u2-l1",
+  "unit": "අංක, දිනය සහ වේලාව",
+  "title": "පාඩම 3 · අංක සහ වේලාව",
+  "objective": "මූලික අංක භාවිතා කිරීම සහ වේලාව විමසීම",
+  "vocabulary": [
+    {
+      "word": "jedan",
+      "reading": "යෙදාන්",
+      "meaning": "එක",
+      "example": "Jedan tiket, molim.",
+      "translation": "ටිකට් එකක්, කරුණාකර."
+    },
+    {
+      "word": "dva",
+      "reading": "ද්වා",
+      "meaning": "දෙක",
+      "example": "Dva čaja, molim.",
+      "translation": "තේ දෙකක්, කරුණාකර."
+    },
+    {
+      "word": "tri",
+      "reading": "ත්‍රී",
+      "meaning": "තුන",
+      "example": "Tri dana.",
+      "translation": "දවස් තුනක්."
+    },
+    {
+      "word": "Koliko je sati?",
+      "reading": "කොලිකො යේ සාති?",
+      "meaning": "දැන් වෙලාව කීයද?",
+      "example": "Koliko je sati?",
+      "translation": "දැන් වෙලාව කීයද?"
+    },
+    {
+      "word": "U osam sati",
+      "reading": "උ ඔසාම් සාති",
+      "meaning": "අටට",
+      "example": "Radim u osam sati.",
+      "translation": "මම අටට වැඩ කරනවා."
+    },
+    {
+      "word": "danas",
+      "reading": "දානාස්",
+      "meaning": "අද",
+      "example": "Danas radim.",
+      "translation": "අද මම වැඩ කරනවා."
+    }
+  ],
+  "grammarTerms": [
+    {
+      "sr": "Koliko je sati?",
+      "si": "දැන් වෙලාව කීයද?",
+      "reading": "කොලිකො යේ සාති?"
+    }
+  ],
+  "grammarTitle": "ව්‍යාකරණය සහ වාක්‍ය රටා",
+  "grammar": "අංක සමඟ වේලාව කියන විට “u osam sati” වැනි රටාව භාවිතා කරන්න. වේලාව අසන්න “Koliko je sati?” කියන්න.",
+  "examples": [
+    {
+      "sr": "Koliko je sati?",
+      "si": "දැන් වෙලාව කීයද?"
+    },
+    {
+      "sr": "Sada je tri sata.",
+      "si": "දැන් වෙලාව තුනයි."
+    },
+    {
+      "sr": "Radim u osam sati.",
+      "si": "මම අටට වැඩ කරනවා."
+    }
+  ],
+  "dialogue": [
+    {
+      "sr": "Koliko je sati?",
+      "si": "දැන් වෙලාව කීයද?"
+    },
+    {
+      "sr": "Sada je osam sati.",
+      "si": "දැන් වෙලාව අටයි."
+    },
+    {
+      "sr": "Hvala! Vidimo se kasnije.",
+      "si": "ස්තුතියි! පසුව හමුවෙමු."
+    }
+  ],
+  "practice": [
+    {
+      "prompt": "“දැන් වෙලාව කීයද?” කියන්නේ?",
+      "options": [
+        "Koliko je sati?",
+        "Gde je stanica?",
+        "Kako se zoveš?"
+      ],
+      "answer": 0,
+      "explanation": "Koliko je sati? = දැන් වෙලාව කීයද?"
+    },
+    {
+      "prompt": "“දෙක” යන අංකය?",
+      "options": [
+        "tri",
+        "dva",
+        "jedan"
+      ],
+      "answer": 1,
+      "explanation": "dva = දෙක."
+    }
+  ]
+},
+{
+  "id": "sr-a1-u2-l2",
+  "unit": "සාප්පු සවාරි සහ මිල ගණන්",
+  "title": "පාඩම 4 · සාප්පු සවාරි සහ මිල ගණන්",
+  "objective": "භාණ්ඩයක මිල විමසීම සහ සාප්පුවකින් භාණ්ඩ ඉල්ලීම",
+  "vocabulary": [
+    {
+      "word": "Koliko košta?",
+      "reading": "කොලිකො කොෂ්තා?",
+      "meaning": "කීයද?",
+      "example": "Koliko košta hleb?",
+      "translation": "පාන් කීයද?"
+    },
+    {
+      "word": "hleb",
+      "reading": "හ්ලෙබ්",
+      "meaning": "පාන්",
+      "example": "Želim hleb.",
+      "translation": "මට පාන් අවශ්‍යයි."
+    },
+    {
+      "word": "mleko",
+      "reading": "ම්ලෙකො",
+      "meaning": "කිරි",
+      "example": "Kupujem mleko.",
+      "translation": "මම කිරි මිලදී ගන්නවා."
+    },
+    {
+      "word": "jabuka",
+      "reading": "යබුකා",
+      "meaning": "ඇපල් ගෙඩිය",
+      "example": "Jedna jabuka, molim.",
+      "translation": "ඇපල් ගෙඩියක්, කරුණාකර."
+    },
+    {
+      "word": "skupo",
+      "reading": "ස්කූපො",
+      "meaning": "මිල වැඩියි",
+      "example": "Ovo je skupo.",
+      "translation": "මේක මිල වැඩියි."
+    },
+    {
+      "word": "jeftino",
+      "reading": "යෙෆ්තිනො",
+      "meaning": "මිල අඩුයි",
+      "example": "Ovo je jeftino.",
+      "translation": "මේක මිල අඩුයි."
+    }
+  ],
+  "grammarTerms": [
+    {
+      "sr": "Koliko košta?",
+      "si": "කීයද?",
+      "reading": "කොලිකො කොෂ්තා?"
+    }
+  ],
+  "grammarTitle": "ව්‍යාකරණය සහ වාක්‍ය රටා",
+  "grammar": "භාණ්ඩයක මිල අසන්න “Koliko košta + භාණ්ඩය?” භාවිතා කරන්න. අවශ්‍ය භාණ්ඩයක් ඉල්ලීමට “Želim...” කියන්න.",
+  "examples": [
+    {
+      "sr": "Koliko košta hleb?",
+      "si": "පාන් කීයද?"
+    },
+    {
+      "sr": "Želim mleko, molim.",
+      "si": "මට කිරි අවශ්‍යයි, කරුණාකර."
+    },
+    {
+      "sr": "Ovo je jeftino.",
+      "si": "මේක මිල අඩුයි."
+    }
+  ],
+  "dialogue": [
+    {
+      "sr": "Dobar dan. Koliko košta jabuka?",
+      "si": "සුබ දවසක්. ඇපල් ගෙඩියක් කීයද?"
+    },
+    {
+      "sr": "Jedna jabuka je sto dinara.",
+      "si": "ඇපල් ගෙඩියක් ඩිනාර් සියයක්."
+    },
+    {
+      "sr": "U redu, hvala.",
+      "si": "හරි, ස්තුතියි."
+    }
+  ],
+  "practice": [
+    {
+      "prompt": "“කිරි” යන වචනය?",
+      "options": [
+        "hleb",
+        "mleko",
+        "jabuka"
+      ],
+      "answer": 1,
+      "explanation": "mleko = කිරි."
+    },
+    {
+      "prompt": "මිල අසන ප්‍රශ්නය?",
+      "options": [
+        "Koliko košta?",
+        "Kako si?",
+        "Gde radiš?"
+      ],
+      "answer": 0,
+      "explanation": "Koliko košta? = කීයද?"
+    }
+  ]
+},
+{
+  "id": "sr-a1-u2-l3",
+  "unit": "ගමන් මඟ සහ ප්‍රවාහනය",
+  "title": "පාඩම 5 · දිශා සහ ප්‍රවාහනය",
+  "objective": "සරල දිශා තේරුම් ගැනීම සහ ප්‍රවාහන ස්ථාන විමසීම",
+  "vocabulary": [
+    {
+      "word": "levo",
+      "reading": "ලෙවො",
+      "meaning": "වමට",
+      "example": "Skrenite levo.",
+      "translation": "වමට හැරෙන්න."
+    },
+    {
+      "word": "desno",
+      "reading": "දෙස්නො",
+      "meaning": "දකුණට",
+      "example": "Skrenite desno.",
+      "translation": "දකුණට හැරෙන්න."
+    },
+    {
+      "word": "pravo",
+      "reading": "ප්‍රාවො",
+      "meaning": "කෙළින්ම",
+      "example": "Idite pravo.",
+      "translation": "කෙළින්ම යන්න."
+    },
+    {
+      "word": "stanica",
+      "reading": "ස්තානිතසා",
+      "meaning": "නැවතුම්පොළ",
+      "example": "Gde je stanica?",
+      "translation": "නැවතුම්පොළ කොහෙද?"
+    },
+    {
+      "word": "autobus",
+      "reading": "අව්තොබුස්",
+      "meaning": "බස් රථය",
+      "example": "Čekam autobus.",
+      "translation": "මම බස් රථය එනතුරු ඉන්නවා."
+    },
+    {
+      "word": "blizu",
+      "reading": "බ්ලිසු",
+      "meaning": "ළඟ",
+      "example": "Stanica je blizu.",
+      "translation": "නැවතුම්පොළ ළඟයි."
+    }
+  ],
+  "grammarTerms": [
+    {
+      "sr": "Gde je stanica?",
+      "si": "නැවතුම්පොළ කොහෙද?",
+      "reading": "ග්දේ යේ ස්තානිතසා?"
+    }
+  ],
+  "grammarTitle": "ව්‍යාකරණය සහ වාක්‍ය රටා",
+  "grammar": "දිශා දීමට “Idite pravo” (කෙළින්ම යන්න), “Skrenite levo/desno” (වමට/දකුණට හැරෙන්න) භාවිතා කරන්න.",
+  "examples": [
+    {
+      "sr": "Gde je autobuska stanica?",
+      "si": "බස් නැවතුම්පොළ කොහෙද?"
+    },
+    {
+      "sr": "Idite pravo.",
+      "si": "කෙළින්ම යන්න."
+    },
+    {
+      "sr": "Skrenite levo.",
+      "si": "වමට හැරෙන්න."
+    }
+  ],
+  "dialogue": [
+    {
+      "sr": "Izvinite, gde je stanica?",
+      "si": "සමාවෙන්න, නැවතුම්පොළ කොහෙද?"
+    },
+    {
+      "sr": "Idite pravo, pa desno.",
+      "si": "කෙළින්ම ගිහින් දකුණට හැරෙන්න."
+    },
+    {
+      "sr": "Hvala vam.",
+      "si": "ඔබට ස්තුතියි."
+    }
+  ],
+  "practice": [
+    {
+      "prompt": "“වමට” යන වචනය?",
+      "options": [
+        "desno",
+        "levo",
+        "pravo"
+      ],
+      "answer": 1,
+      "explanation": "levo = වමට."
+    },
+    {
+      "prompt": "“නැවතුම්පොළ කොහෙද?” කියන්නේ?",
+      "options": [
+        "Gde je stanica?",
+        "Koliko košta?",
+        "Koliko je sati?"
+      ],
+      "answer": 0,
+      "explanation": "Gde je stanica? = නැවතුම්පොළ කොහෙද?"
+    }
+  ]
+}
+];
