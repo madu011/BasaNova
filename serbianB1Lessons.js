@@ -5350,65 +5350,65 @@ export const SERBIAN_B1_LESSONS = [
         "word": "otkriće",
         "reading": "ඔත්ක්‍රිචෙ",
         "meaning": "සොයාගැනීම",
-        "example": "Naučna otkrića menjaju način na koji razumemo svet.",
+        "example": "A: Naučna otkrića menjaju način na koji razumemo svet.",
         "translation": "Scientific discoveries change how we understand the world.",
-        "exampleReading": "නාඋච්නා ඔත්ක්‍රිචා මෙන්යායු නාචින් නා කොයි රාසුමෙමො ස්වෙත්."
+        "exampleReading": "а: научна открича мэньайу начин на койи разумэмо свэт."
       },
       {
         "word": "istraživanje",
         "reading": "ඉස්ත්‍රාෂිවාන්යේ",
         "meaning": "පර්යේෂණය",
-        "example": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "B: To je važno otkriće, ali rezultate treba potvrditi dodatnim istraživanjem.",
+        "translation": "එය වැදගත් සොයාගැනීමක්. නමුත් තවත් පර්යේෂණ මඟින් ප්‍රතිඵල තහවුරු කළ යුතුයි.",
+        "exampleReading": "б: то йэ важно откричэ, али рэзултатэ трэба потврдити додатним истраживаньэм."
       },
       {
         "word": "eksperiment",
         "reading": "එක්ස්පෙරිමෙන්ත්",
         "meaning": "පරීක්ෂණය",
-        "example": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්.",
-        "exampleReading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු."
+        "example": "A: Istraživači već planiraju nove eksperimente.",
+        "translation": "විද්‍යාඥයන් තවත් පරීක්ෂණ සැලසුම් කරනවා.",
+        "exampleReading": "а: истраживачи вэч планирайу новэ экспэримэнтэ."
       },
       {
         "word": "naučnik",
         "reading": "නාඋච්නික්",
         "meaning": "විද්‍යාඥයා",
-        "example": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි.",
-        "exampleReading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ."
+        "example": "B: Onda ćemo bolje razumeti kako materijal funkcioniše.",
+        "translation": "එවිට ද්‍රව්‍යය ක්‍රියා කරන ආකාරය වඩා හොඳින් තේරුම් ගන්න පුළුවන්.",
+        "exampleReading": "б: онда чэмо больэ разумэти како матэрийал функционишэ."
       },
       {
         "word": "dokaz",
         "reading": "දොකාස්",
         "meaning": "සාක්ෂිය",
-        "example": "Naučna otkrića menjaju način na koji razumemo svet.",
+        "example": "A: Naučna otkrića menjaju način na koji razumemo svet.",
         "translation": "Scientific discoveries change how we understand the world.",
-        "exampleReading": "නාඋච්නා ඔත්ක්‍රිචා මෙන්යායු නාචින් නා කොයි රාසුමෙමො ස්වෙත්."
+        "exampleReading": "а: научна открича мэньайу начин на койи разумэмо свэт."
       },
       {
         "word": "tehnologija",
         "reading": "තෙහ්නොලොගියා",
         "meaning": "තාක්ෂණය",
-        "example": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "B: To je važno otkriće, ali rezultate treba potvrditi dodatnim istraživanjem.",
+        "translation": "එය වැදගත් සොයාගැනීමක්. නමුත් තවත් පර්යේෂණ මඟින් ප්‍රතිඵල තහවුරු කළ යුතුයි.",
+        "exampleReading": "б: то йэ важно откричэ, али рэзултатэ трэба потврдити додатним истраживаньэм."
       },
       {
         "word": "razviti",
         "reading": "රාස්විති",
         "meaning": "දියුණු කරනවා",
-        "example": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්.",
-        "exampleReading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු."
+        "example": "A: Istraživači već planiraju nove eksperimente.",
+        "translation": "විද්‍යාඥයන් තවත් පරීක්ෂණ සැලසුම් කරනවා.",
+        "exampleReading": "а: истраживачи вэч планирайу новэ экспэримэнтэ."
       },
       {
         "word": "rezultat",
         "reading": "රෙසුල්තාත්",
         "meaning": "ප්‍රතිඵලය",
-        "example": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි.",
-        "exampleReading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ."
+        "example": "B: Onda ćemo bolje razumeti kako materijal funkcioniše.",
+        "translation": "එවිට ද්‍රව්‍යය ක්‍රියා කරන ආකාරය වඩා හොඳින් තේරුම් ගන්න පුළුවන්.",
+        "exampleReading": "б: онда чэмо больэ разумэти како матэрийал функционишэ."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -5422,24 +5422,24 @@ export const SERBIAN_B1_LESSONS = [
     ],
     "examples": [
       {
-        "sr": "Naučna otkrića menjaju način na koji razumemo svet.",
-        "reading": "නාඋච්නා ඔත්ක්‍රිචා මෙන්යායු නාචින් නා කොයි රාසුමෙමො ස්වෙත්.",
+        "sr": "A: Naučna otkrića menjaju način na koji razumemo svet.",
+        "reading": "а: научна открича мэньайу начин на койи разумэмо свэт.",
         "si": "Scientific discoveries change how we understand the world."
       },
       {
-        "sr": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "reading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "sr": "B: To je važno otkriće, ali rezultate treba potvrditi dodatnim istraživanjem.",
+        "reading": "б: то йэ важно откричэ, али рэзултатэ трэба потврдити додатним истраживаньэм.",
+        "si": "එය වැදගත් සොයාගැනීමක්. නමුත් තවත් පර්යේෂණ මඟින් ප්‍රතිඵල තහවුරු කළ යුතුයි."
       },
       {
-        "sr": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "reading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
-        "si": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "sr": "A: Istraživači već planiraju nove eksperimente.",
+        "reading": "а: истраживачи вэч планирайу новэ экспэримэнтэ.",
+        "si": "විද්‍යාඥයන් තවත් පරීක්ෂණ සැලසුම් කරනවා."
       },
       {
-        "sr": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "reading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ.",
-        "si": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "sr": "B: Onda ćemo bolje razumeti kako materijal funkcioniše.",
+        "reading": "б: онда чэмо больэ разумэти како матэрийал функционишэ.",
+        "si": "එවිට ද්‍රව්‍යය ක්‍රියා කරන ආකාරය වඩා හොඳින් තේරුම් ගන්න පුළුවන්."
       }
     ],
     "dialogue": [
@@ -5528,65 +5528,65 @@ export const SERBIAN_B1_LESSONS = [
         "word": "pravo",
         "reading": "ප්‍රාවො",
         "meaning": "අයිතිය",
-        "example": "Svako ima prava i odgovornosti prema drugima.",
+        "example": "A: Svako ima prava i odgovornosti prema drugima.",
         "translation": "Everyone has rights and responsibilities towards others.",
-        "exampleReading": "ස්වාකො ඉමා ප්‍රාවා ඉ ඔද්ගොවොර්නොස්ති ප්‍රෙමා ද්රුගිමා."
+        "exampleReading": "а: свако има права и одговорности прэма другима."
       },
       {
         "word": "odgovornost",
         "reading": "ඔද්ගොවොර්නොස්ත්",
         "meaning": "වගකීම",
-        "example": "Svako ima prava i odgovornosti prema drugima.",
-        "translation": "Everyone has rights and responsibilities towards others.",
-        "exampleReading": "ස්වාකො ඉමා ප්‍රාවා ඉ ඔද්ගොවොර්නොස්ති ප්‍රෙමා ද්රුගිමා."
+        "example": "B: Zato svi treba da pročitamo pravila pre nego što ih prihvatimo.",
+        "translation": "ඒ නිසා ඒවා පිළිගැනීමට පෙර හැමෝම නීති කියවිය යුතුයි.",
+        "exampleReading": "б: зато сви трэба да прочитамо правила прэ нэго што их прихватимо."
       },
       {
         "word": "zakon",
         "reading": "සාකොන්",
         "meaning": "නීතිය",
-        "example": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්.",
-        "exampleReading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු."
+        "example": "A: Gde možemo da pronađemo zvaničnu verziju?",
+        "translation": "නිල පිටපත අපට කොහෙන් සොයාගන්න පුළුවන්ද?",
+        "exampleReading": "а: гдэ можэмо да пронаджэмо званичну вэрзийу?"
       },
       {
         "word": "pravilo",
         "reading": "ප්‍රාවිලො",
         "meaning": "රීතිය",
-        "example": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි.",
-        "exampleReading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ."
+        "example": "B: Na sajtu institucije i u službenom dokumentu.",
+        "translation": "ආයතනයේ වෙබ් අඩවියේ සහ නිල ලේඛනයේ.",
+        "exampleReading": "б: на сайту институцийэ и у службэном докумэнту."
       },
       {
         "word": "dozvola",
         "reading": "දොස්වොලා",
         "meaning": "අවසරය",
-        "example": "Svako ima prava i odgovornosti prema drugima.",
+        "example": "A: Svako ima prava i odgovornosti prema drugima.",
         "translation": "Everyone has rights and responsibilities towards others.",
-        "exampleReading": "ස්වාකො ඉමා ප්‍රාවා ඉ ඔද්ගොවොර්නොස්ති ප්‍රෙමා ද්රුගිමා."
+        "exampleReading": "а: свако има права и одговорности прэма другима."
       },
       {
         "word": "obaveza",
         "reading": "ඔබාවේසා",
         "meaning": "බැඳීම",
-        "example": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "B: Zato svi treba da pročitamo pravila pre nego što ih prihvatimo.",
+        "translation": "ඒ නිසා ඒවා පිළිගැනීමට පෙර හැමෝම නීති කියවිය යුතුයි.",
+        "exampleReading": "б: зато сви трэба да прочитамо правила прэ нэго што их прихватимо."
       },
       {
         "word": "pravedan",
         "reading": "ප්‍රාවෙදාන්",
         "meaning": "සාධාරණ",
-        "example": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්.",
-        "exampleReading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු."
+        "example": "A: Gde možemo da pronađemo zvaničnu verziju?",
+        "translation": "නිල පිටපත අපට කොහෙන් සොයාගන්න පුළුවන්ද?",
+        "exampleReading": "а: гдэ можэмо да пронаджэмо званичну вэрзийу?"
       },
       {
         "word": "zaštititi",
         "reading": "සාෂ්තිති",
         "meaning": "ආරක්ෂා කරනවා",
-        "example": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි.",
-        "exampleReading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ."
+        "example": "B: Na sajtu institucije i u službenom dokumentu.",
+        "translation": "ආයතනයේ වෙබ් අඩවියේ සහ නිල ලේඛනයේ.",
+        "exampleReading": "б: на сайту институцийэ и у службэном докумэнту."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -5600,24 +5600,24 @@ export const SERBIAN_B1_LESSONS = [
     ],
     "examples": [
       {
-        "sr": "Svako ima prava i odgovornosti prema drugima.",
-        "reading": "ස්වාකො ඉමා ප්‍රාවා ඉ ඔද්ගොවොර්නොස්ති ප්‍රෙමා ද්රුගිමා.",
+        "sr": "A: Svako ima prava i odgovornosti prema drugima.",
+        "reading": "а: свако има права и одговорности прэма другима.",
         "si": "Everyone has rights and responsibilities towards others."
       },
       {
-        "sr": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "reading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "sr": "B: Zato svi treba da pročitamo pravila pre nego što ih prihvatimo.",
+        "reading": "б: зато сви трэба да прочитамо правила прэ нэго што их прихватимо.",
+        "si": "ඒ නිසා ඒවා පිළිගැනීමට පෙර හැමෝම නීති කියවිය යුතුයි."
       },
       {
-        "sr": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "reading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
-        "si": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "sr": "A: Gde možemo da pronađemo zvaničnu verziju?",
+        "reading": "а: гдэ можэмо да пронаджэмо званичну вэрзийу?",
+        "si": "නිල පිටපත අපට කොහෙන් සොයාගන්න පුළුවන්ද?"
       },
       {
-        "sr": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "reading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ.",
-        "si": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "sr": "B: Na sajtu institucije i u službenom dokumentu.",
+        "reading": "б: на сайту институцийэ и у службэном докумэнту.",
+        "si": "ආයතනයේ වෙබ් අඩවියේ සහ නිල ලේඛනයේ."
       }
     ],
     "dialogue": [
@@ -5706,65 +5706,65 @@ export const SERBIAN_B1_LESSONS = [
         "word": "kreativnost",
         "reading": "ක්‍රෙඅතිව්නොස්ත්",
         "meaning": "නිර්මාණශීලීත්වය",
-        "example": "Umetnost nam omogućava da izrazimo osećanja na različite načine.",
+        "example": "A: Umetnost nam omogućava da izrazimo osećanja na različite načine.",
         "translation": "Art allows us to express feelings in different ways.",
-        "exampleReading": "උමෙත්නොස්ත් නාම් ඔමොගුචාවා ද ඉස්‍රාසිමො ඔසෙචාන්යා නා රාස්ලිචිතෙ නාචිනෙ."
+        "exampleReading": "а: умэтност нам омогучава да изразимо осэчаньа на различитэ начинэ."
       },
       {
         "word": "slika",
         "reading": "ස්ලිකා",
         "meaning": "චිත්‍රය",
-        "example": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "B: Posebno mi se dopada što posetioci mogu da učestvuju u instalaciji.",
+        "translation": "නරඹන්නන්ට කලා නිර්මාණයට සහභාගී විය හැකි එකට මම විශේෂයෙන් කැමතියි.",
+        "exampleReading": "б: посэбно ми сэ допада што посэтиоци могу да учэствуйу у инсталацийи."
       },
       {
         "word": "izložba",
         "reading": "ඉස්ලොෂ්බා",
         "meaning": "ප්‍රදර්ශනය",
-        "example": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්.",
-        "exampleReading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු."
+        "example": "A: Tako umetnost postaje interaktivno iskustvo.",
+        "translation": "ඒ නිසා කලාව අන්තර්ක්‍රියාකාරී අත්දැකීමක් වෙනවා.",
+        "exampleReading": "а: тако умэтност постайэ интэрактивно искуство."
       },
       {
         "word": "nastup",
         "reading": "නාස්තුප්",
         "meaning": "ප්‍රසංගය",
-        "example": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි.",
-        "exampleReading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ."
+        "example": "B: Da, svako može da je doživi na drugačiji način.",
+        "translation": "හැමෝටම එය වෙනස් ආකාරයකින් අත්විඳිය හැකියි.",
+        "exampleReading": "б: да, свако можэ да йэ доживи на другачийи начин."
       },
       {
         "word": "inspiracija",
         "reading": "ඉන්ස්පිරාත්සියා",
         "meaning": "ආභාසය",
-        "example": "Umetnost nam omogućava da izrazimo osećanja na različite načine.",
+        "example": "A: Umetnost nam omogućava da izrazimo osećanja na različite načine.",
         "translation": "Art allows us to express feelings in different ways.",
-        "exampleReading": "උමෙත්නොස්ත් නාම් ඔමොගුචාවා ද ඉස්‍රාසිමො ඔසෙචාන්යා නා රාස්ලිචිතෙ නාචිනෙ."
+        "exampleReading": "а: умэтност нам омогучава да изразимо осэчаньа на различитэ начинэ."
       },
       {
         "word": "talenat",
         "reading": "තාලෙනාත්",
         "meaning": "දක්ෂතාව",
-        "example": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "B: Posebno mi se dopada što posetioci mogu da učestvuju u instalaciji.",
+        "translation": "නරඹන්නන්ට කලා නිර්මාණයට සහභාගී විය හැකි එකට මම විශේෂයෙන් කැමතියි.",
+        "exampleReading": "б: посэбно ми сэ допада што посэтиоци могу да учэствуйу у инсталацийи."
       },
       {
         "word": "zanat",
         "reading": "සානාත්",
         "meaning": "හස්ත කර්මාන්තය",
-        "example": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්.",
-        "exampleReading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු."
+        "example": "A: Tako umetnost postaje interaktivno iskustvo.",
+        "translation": "ඒ නිසා කලාව අන්තර්ක්‍රියාකාරී අත්දැකීමක් වෙනවා.",
+        "exampleReading": "а: тако умэтност постайэ интэрактивно искуство."
       },
       {
         "word": "publika",
         "reading": "පුබ්ලිකා",
         "meaning": "ප්‍රේක්ෂකයෝ",
-        "example": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි.",
-        "exampleReading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ."
+        "example": "B: Da, svako može da je doživi na drugačiji način.",
+        "translation": "හැමෝටම එය වෙනස් ආකාරයකින් අත්විඳිය හැකියි.",
+        "exampleReading": "б: да, свако можэ да йэ доживи на другачийи начин."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -5778,24 +5778,24 @@ export const SERBIAN_B1_LESSONS = [
     ],
     "examples": [
       {
-        "sr": "Umetnost nam omogućava da izrazimo osećanja na različite načine.",
-        "reading": "උමෙත්නොස්ත් නාම් ඔමොගුචාවා ද ඉස්‍රාසිමො ඔසෙචාන්යා නා රාස්ලිචිතෙ නාචිනෙ.",
+        "sr": "A: Umetnost nam omogućava da izrazimo osećanja na različite načine.",
+        "reading": "а: умэтност нам омогучава да изразимо осэчаньа на различитэ начинэ.",
         "si": "Art allows us to express feelings in different ways."
       },
       {
-        "sr": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "reading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "sr": "B: Posebno mi se dopada što posetioci mogu da učestvuju u instalaciji.",
+        "reading": "б: посэбно ми сэ допада што посэтиоци могу да учэствуйу у инсталацийи.",
+        "si": "නරඹන්නන්ට කලා නිර්මාණයට සහභාගී විය හැකි එකට මම විශේෂයෙන් කැමතියි."
       },
       {
-        "sr": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "reading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
-        "si": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "sr": "A: Tako umetnost postaje interaktivno iskustvo.",
+        "reading": "а: тако умэтност постайэ интэрактивно искуство.",
+        "si": "ඒ නිසා කලාව අන්තර්ක්‍රියාකාරී අත්දැකීමක් වෙනවා."
       },
       {
-        "sr": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "reading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ.",
-        "si": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "sr": "B: Da, svako može da je doživi na drugačiji način.",
+        "reading": "б: да, свако можэ да йэ доживи на другачийи начин.",
+        "si": "හැමෝටම එය වෙනස් ආකාරයකින් අත්විඳිය හැකියි."
       }
     ],
     "dialogue": [
@@ -5884,65 +5884,65 @@ export const SERBIAN_B1_LESSONS = [
         "word": "ekonomija",
         "reading": "එකොනොමියා",
         "meaning": "ආර්ථිකය",
-        "example": "Tržište rada se menja zbog novih veština i tehnologije.",
+        "example": "A: Tržište rada se menja zbog novih veština i tehnologije.",
         "translation": "The job market is changing because of new skills and technology.",
-        "exampleReading": "ත්‍ර්ෂිෂ්තෙ රාදා සෙ මෙන්යා ස්බොග් නොවිහ් වෙෂ්තිනා ඉ තෙහ්නොලොගියේ."
+        "exampleReading": "а: тржиштэ рада сэ мэньа због нових вэштина и тэхнологийэ."
       },
       {
         "word": "tržište rada",
         "reading": "ත්‍ර්ෂිෂ්තෙ රාදා",
         "meaning": "රැකියා වෙළඳපොළ",
-        "example": "Tržište rada se menja zbog novih veština i tehnologije.",
-        "translation": "The job market is changing because of new skills and technology.",
-        "exampleReading": "ත්‍ර්ෂිෂ්තෙ රාදා සෙ මෙන්යා ස්බොග් නොවිහ් වෙෂ්තිනා ඉ තෙහ්නොලොගියේ."
+        "example": "B: Zato je korisno da redovno učimo i pratimo nove tehnologije.",
+        "translation": "ඒ නිසා අලුත් තාක්ෂණය ඉගෙනගෙන ඒ ගැන දැනුවත්ව සිටීම ප්‍රයෝජනවත්.",
+        "exampleReading": "б: зато йэ корисно да рэдовно учимо и пратимо новэ тэхнологийэ."
       },
       {
         "word": "zaposlenje",
         "reading": "සාපොස්ලෙන්යේ",
         "meaning": "රැකියාව",
-        "example": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්.",
-        "exampleReading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු."
+        "example": "A: Da li iskustvo i dalje ima veliku vrednost?",
+        "translation": "අත්දැකීම්වලට තවමත් විශාල වටිනාකමක් තිබෙනවාද?",
+        "exampleReading": "а: да ли искуство и дальэ има вэлику врэдност?"
       },
       {
         "word": "nezaposlenost",
         "reading": "නෙසапොස්ලෙනොස්ත්",
         "meaning": "විරැකියාව",
-        "example": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි.",
-        "exampleReading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ."
+        "example": "B: Naravno, ali iskustvo uz nove veštine daje prednost.",
+        "translation": "ඇත්තෙන්ම. නමුත් අත්දැකීම් සහ නව කුසලතා එකතු වීම වාසියක්.",
+        "exampleReading": "б: наравно, али искуство уз новэ вэштинэ дайэ прэдност."
       },
       {
         "word": "plata",
         "reading": "ප්ලාතා",
         "meaning": "වැටුප",
-        "example": "Tržište rada se menja zbog novih veština i tehnologije.",
+        "example": "A: Tržište rada se menja zbog novih veština i tehnologije.",
         "translation": "The job market is changing because of new skills and technology.",
-        "exampleReading": "ත්‍ර්ෂිෂ්තෙ රාදා සෙ මෙන්යා ස්බොග් නොවිහ් වෙෂ්තිනා ඉ තෙහ්නොලොගියේ."
+        "exampleReading": "а: тржиштэ рада сэ мэньа због нових вэштина и тэхнологийэ."
       },
       {
         "word": "potražnja",
         "reading": "පොත්‍රාෂ්න්යා",
         "meaning": "ඉල්ලුම",
-        "example": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "B: Zato je korisno da redovno učimo i pratimo nove tehnologije.",
+        "translation": "ඒ නිසා අලුත් තාක්ෂණය ඉගෙනගෙන ඒ ගැන දැනුවත්ව සිටීම ප්‍රයෝජනවත්.",
+        "exampleReading": "б: зато йэ корисно да рэдовно учимо и пратимо новэ тэхнологийэ."
       },
       {
         "word": "ponuda",
         "reading": "පොනුදා",
         "meaning": "සැපයුම",
-        "example": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්.",
-        "exampleReading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු."
+        "example": "A: Da li iskustvo i dalje ima veliku vrednost?",
+        "translation": "අත්දැකීම්වලට තවමත් විශාල වටිනාකමක් තිබෙනවාද?",
+        "exampleReading": "а: да ли искуство и дальэ има вэлику врэдност?"
       },
       {
         "word": "industrija",
         "reading": "ඉන්දුස්ත්‍රියා",
         "meaning": "කර්මාන්තය",
-        "example": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි.",
-        "exampleReading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ."
+        "example": "B: Naravno, ali iskustvo uz nove veštine daje prednost.",
+        "translation": "ඇත්තෙන්ම. නමුත් අත්දැකීම් සහ නව කුසලතා එකතු වීම වාසියක්.",
+        "exampleReading": "б: наравно, али искуство уз новэ вэштинэ дайэ прэдност."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -5956,24 +5956,24 @@ export const SERBIAN_B1_LESSONS = [
     ],
     "examples": [
       {
-        "sr": "Tržište rada se menja zbog novih veština i tehnologije.",
-        "reading": "ත්‍ර්ෂිෂ්තෙ රාදා සෙ මෙන්යා ස්බොග් නොවිහ් වෙෂ්තිනා ඉ තෙහ්නොලොගියේ.",
+        "sr": "A: Tržište rada se menja zbog novih veština i tehnologije.",
+        "reading": "а: тржиштэ рада сэ мэньа због нових вэштина и тэхнологийэ.",
         "si": "The job market is changing because of new skills and technology."
       },
       {
-        "sr": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "reading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "sr": "B: Zato je korisno da redovno učimo i pratimo nove tehnologije.",
+        "reading": "б: зато йэ корисно да рэдовно учимо и пратимо новэ тэхнологийэ.",
+        "si": "ඒ නිසා අලුත් තාක්ෂණය ඉගෙනගෙන ඒ ගැන දැනුවත්ව සිටීම ප්‍රයෝජනවත්."
       },
       {
-        "sr": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "reading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
-        "si": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "sr": "A: Da li iskustvo i dalje ima veliku vrednost?",
+        "reading": "а: да ли искуство и дальэ има вэлику врэдност?",
+        "si": "අත්දැකීම්වලට තවමත් විශාල වටිනාකමක් තිබෙනවාද?"
       },
       {
-        "sr": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "reading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ.",
-        "si": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "sr": "B: Naravno, ali iskustvo uz nove veštine daje prednost.",
+        "reading": "б: наравно, али искуство уз новэ вэштинэ дайэ прэдност.",
+        "si": "ඇත්තෙන්ම. නමුත් අත්දැකීම් සහ නව කුසලතා එකතු වීම වාසියක්."
       }
     ],
     "dialogue": [
@@ -6062,65 +6062,65 @@ export const SERBIAN_B1_LESSONS = [
         "word": "kirija",
         "reading": "කිරියා",
         "meaning": "කුලිය",
-        "example": "Pre potpisivanja ugovora treba pažljivo proveriti uslove.",
+        "example": "A: Pre potpisivanja ugovora treba pažljivo proveriti uslove.",
         "translation": "Before signing a contract, we should check the conditions carefully.",
-        "exampleReading": "ප්‍රෙ පොත්පිසිවාන්යා උගොවොරා ත්‍රෙබා පාෂ්ල්යීවො ප්‍රොවෙරිති උස්ලොවෙ."
+        "exampleReading": "а: прэ потписиваньа уговора трэба пажльиво провэрити условэ."
       },
       {
         "word": "stanodavac",
         "reading": "ස්තනොදාවාත්ස්",
         "meaning": "නිවාස හිමියා",
-        "example": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "B: Pre potpisivanja treba proveriti i uslove raskida ugovora.",
+        "translation": "අත්සන් කිරීමට පෙර ගිවිසුම අවසන් කිරීමේ කොන්දේසිත් පරීක්ෂා කළ යුතුයි.",
+        "exampleReading": "б: прэ потписиваньа трэба провэрити и условэ раскида уговора."
       },
       {
         "word": "stanar",
         "reading": "ස්තනාර්",
         "meaning": "කුලී නිවැසියා",
-        "example": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්.",
-        "exampleReading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු."
+        "example": "A: Da li je važno da sve bude napisano?",
+        "translation": "සියල්ල ලිඛිතව තිබීම වැදගත්ද?",
+        "exampleReading": "а: да ли йэ важно да свэ будэ написано?"
       },
       {
         "word": "ugovor",
         "reading": "උගොවොර්",
         "meaning": "ගිවිසුම",
-        "example": "Pre potpisivanja ugovora treba pažljivo proveriti uslove.",
-        "translation": "Before signing a contract, we should check the conditions carefully.",
-        "exampleReading": "ප්‍රෙ පොත්පිසිවාන්යා උගොවොරා ත්‍රෙබා පාෂ්ල්යීවො ප්‍රොවෙරිති උස්ලොවෙ."
+        "example": "B: Da, pisani dogovor štiti i stanara i vlasnika.",
+        "translation": "ඔව්, ලිඛිත ගිවිසුම කුලී නිවැසියාත් හිමිකරුත් ආරක්ෂා කරනවා.",
+        "exampleReading": "б: да, писани договор штити и станара и власника."
       },
       {
         "word": "depozit",
         "reading": "දෙපොසිත්",
         "meaning": "තැන්පතුව",
-        "example": "Pre potpisivanja ugovora treba pažljivo proveriti uslove.",
+        "example": "A: Pre potpisivanja ugovora treba pažljivo proveriti uslove.",
         "translation": "Before signing a contract, we should check the conditions carefully.",
-        "exampleReading": "ප්‍රෙ පොත්පිසිවාන්යා උගොවොරා ත්‍රෙබා පාෂ්ල්යීවො ප්‍රොවෙරිති උස්ලොවෙ."
+        "exampleReading": "а: прэ потписиваньа уговора трэба пажльиво провэрити условэ."
       },
       {
         "word": "račun za komunalije",
         "reading": "රාචුන් සා කොමුනාලියේ",
         "meaning": "උපයෝගිතා බිල්පත",
-        "example": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "B: Pre potpisivanja treba proveriti i uslove raskida ugovora.",
+        "translation": "අත්සන් කිරීමට පෙර ගිවිසුම අවසන් කිරීමේ කොන්දේසිත් පරීක්ෂා කළ යුතුයි.",
+        "exampleReading": "б: прэ потписиваньа трэба провэрити и условэ раскида уговора."
       },
       {
         "word": "komšija",
         "reading": "කොම්ෂියා",
         "meaning": "අසල්වැසියා",
-        "example": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්.",
-        "exampleReading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු."
+        "example": "A: Da li je važno da sve bude napisano?",
+        "translation": "සියල්ල ලිඛිතව තිබීම වැදගත්ද?",
+        "exampleReading": "а: да ли йэ важно да свэ будэ написано?"
       },
       {
         "word": "održavanje",
         "reading": "ඔද්ර්ෂාවාන්යේ",
         "meaning": "නඩත්තුව",
-        "example": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි.",
-        "exampleReading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ."
+        "example": "B: Da, pisani dogovor štiti i stanara i vlasnika.",
+        "translation": "ඔව්, ලිඛිත ගිවිසුම කුලී නිවැසියාත් හිමිකරුත් ආරක්ෂා කරනවා.",
+        "exampleReading": "б: да, писани договор штити и станара и власника."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -6134,24 +6134,24 @@ export const SERBIAN_B1_LESSONS = [
     ],
     "examples": [
       {
-        "sr": "Pre potpisivanja ugovora treba pažljivo proveriti uslove.",
-        "reading": "ප්‍රෙ පොත්පිසිවාන්යා උගොවොරා ත්‍රෙබා පාෂ්ල්යීවො ප්‍රොවෙරිති උස්ලොවෙ.",
+        "sr": "A: Pre potpisivanja ugovora treba pažljivo proveriti uslove.",
+        "reading": "а: прэ потписиваньа уговора трэба пажльиво провэрити условэ.",
         "si": "Before signing a contract, we should check the conditions carefully."
       },
       {
-        "sr": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "reading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "sr": "B: Pre potpisivanja treba proveriti i uslove raskida ugovora.",
+        "reading": "б: прэ потписиваньа трэба провэрити и условэ раскида уговора.",
+        "si": "අත්සන් කිරීමට පෙර ගිවිසුම අවසන් කිරීමේ කොන්දේසිත් පරීක්ෂා කළ යුතුයි."
       },
       {
-        "sr": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "reading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
-        "si": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "sr": "A: Da li je važno da sve bude napisano?",
+        "reading": "а: да ли йэ важно да свэ будэ написано?",
+        "si": "සියල්ල ලිඛිතව තිබීම වැදගත්ද?"
       },
       {
-        "sr": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "reading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ.",
-        "si": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "sr": "B: Da, pisani dogovor štiti i stanara i vlasnika.",
+        "reading": "б: да, писани договор штити и станара и власника.",
+        "si": "ඔව්, ලිඛිත ගිවිසුම කුලී නිවැසියාත් හිමිකරුත් ආරක්ෂා කරනවා."
       }
     ],
     "dialogue": [
@@ -6240,65 +6240,65 @@ export const SERBIAN_B1_LESSONS = [
         "word": "infrastruktura",
         "reading": "ඉන්ෆ්‍රාස්ත්‍රුක්තුරා",
         "meaning": "යටිතල පහසුකම්",
-        "example": "Pouzdan javni prevoz može da smanji gužvu u gradu.",
+        "example": "A: Pouzdan javni prevoz može da smanji gužvu u gradu.",
         "translation": "Reliable public transport can reduce congestion in a city.",
-        "exampleReading": "පොඋස්දාන් යාව්නි ප්‍රෙවොස් මොෂෙ ද ස්මාන්යි ගුෂ්වු උ ග්‍රාදු."
+        "exampleReading": "а: поуздан йавни прэвоз можэ да сманьи гужву у граду."
       },
       {
         "word": "gužva",
         "reading": "ගුෂ්වා",
         "meaning": "වාහන තදබදය",
-        "example": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "B: To će pomoći samo ako polasci budu česti i pouzdani.",
+        "translation": "ගමන් වාර නිතර සහ විශ්වාසදායක නම් පමණයි එය උපකාරී වෙන්නේ.",
+        "exampleReading": "б: то чэ помочи само ако поласци буду чэсти и поуздани."
       },
       {
         "word": "linija",
         "reading": "ලිනියා",
         "meaning": "මාර්ගය",
-        "example": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්.",
-        "exampleReading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු."
+        "example": "A: Grad planira da poboljša i autobuske linije.",
+        "translation": "නගරය බස් මාර්ගත් වැඩිදියුණු කිරීමට සැලසුම් කරනවා.",
+        "exampleReading": "а: град планира да побольша и аутобускэ линийэ."
       },
       {
         "word": "metro",
         "reading": "මෙත්‍රො",
         "meaning": "භූගත දුම්රිය",
-        "example": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි.",
-        "exampleReading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ."
+        "example": "B: Dobro povezane linije olakšavaju svakodnevno putovanje.",
+        "translation": "හොඳින් සම්බන්ධ කළ මාර්ග දිනපතා ගමන් පහසු කරනවා.",
+        "exampleReading": "б: добро повэзанэ линийэ олакшавайу свакоднэвно путованьэ."
       },
       {
         "word": "pouzdan",
         "reading": "පොඋස්දාන්",
         "meaning": "විශ්වාසදායක",
-        "example": "Pouzdan javni prevoz može da smanji gužvu u gradu.",
+        "example": "A: Pouzdan javni prevoz može da smanji gužvu u gradu.",
         "translation": "Reliable public transport can reduce congestion in a city.",
-        "exampleReading": "පොඋස්දාන් යාව්නි ප්‍රෙවොස් මොෂෙ ද ස්මාන්යි ගුෂ්වු උ ග්‍රාදු."
+        "exampleReading": "а: поуздан йавни прэвоз можэ да сманьи гужву у граду."
       },
       {
         "word": "pristupačan",
         "reading": "ප්‍රිස්තුපාචාන්",
         "meaning": "ප්‍රවේශ විය හැකි",
-        "example": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "B: To će pomoći samo ako polasci budu česti i pouzdani.",
+        "translation": "ගමන් වාර නිතර සහ විශ්වාසදායක නම් පමණයි එය උපකාරී වෙන්නේ.",
+        "exampleReading": "б: то чэ помочи само ако поласци буду чэсти и поуздани."
       },
       {
         "word": "objekat",
         "reading": "ඔබ්යෙකාත්",
         "meaning": "පහසුකම",
-        "example": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්.",
-        "exampleReading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු."
+        "example": "A: Grad planira da poboljša i autobuske linije.",
+        "translation": "නගරය බස් මාර්ගත් වැඩිදියුණු කිරීමට සැලසුම් කරනවා.",
+        "exampleReading": "а: град планира да побольша и аутобускэ линийэ."
       },
       {
         "word": "izgradnja",
         "reading": "ඉස්ග්‍රාද්න්යා",
         "meaning": "ඉදිකිරීම",
-        "example": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි.",
-        "exampleReading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ."
+        "example": "B: Dobro povezane linije olakšavaju svakodnevno putovanje.",
+        "translation": "හොඳින් සම්බන්ධ කළ මාර්ග දිනපතා ගමන් පහසු කරනවා.",
+        "exampleReading": "б: добро повэзанэ линийэ олакшавайу свакоднэвно путованьэ."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -6312,24 +6312,24 @@ export const SERBIAN_B1_LESSONS = [
     ],
     "examples": [
       {
-        "sr": "Pouzdan javni prevoz može da smanji gužvu u gradu.",
-        "reading": "පොඋස්දාන් යාව්නි ප්‍රෙවොස් මොෂෙ ද ස්මාන්යි ගුෂ්වු උ ග්‍රාදු.",
+        "sr": "A: Pouzdan javni prevoz može da smanji gužvu u gradu.",
+        "reading": "а: поуздан йавни прэвоз можэ да сманьи гужву у граду.",
         "si": "Reliable public transport can reduce congestion in a city."
       },
       {
-        "sr": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "reading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "sr": "B: To će pomoći samo ako polasci budu česti i pouzdani.",
+        "reading": "б: то чэ помочи само ако поласци буду чэсти и поуздани.",
+        "si": "ගමන් වාර නිතර සහ විශ්වාසදායක නම් පමණයි එය උපකාරී වෙන්නේ."
       },
       {
-        "sr": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "reading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
-        "si": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "sr": "A: Grad planira da poboljša i autobuske linije.",
+        "reading": "а: град планира да побольша и аутобускэ линийэ.",
+        "si": "නගරය බස් මාර්ගත් වැඩිදියුණු කිරීමට සැලසුම් කරනවා."
       },
       {
-        "sr": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "reading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ.",
-        "si": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "sr": "B: Dobro povezane linije olakšavaju svakodnevno putovanje.",
+        "reading": "б: добро повэзанэ линийэ олакшавайу свакоднэвно путованьэ.",
+        "si": "හොඳින් සම්බන්ධ කළ මාර්ග දිනපතා ගමන් පහසු කරනවා."
       }
     ],
     "dialogue": [
@@ -6418,65 +6418,65 @@ export const SERBIAN_B1_LESSONS = [
         "word": "klima",
         "reading": "ක්ලිමා",
         "meaning": "දේශගුණය",
-        "example": "Klimatske promene zahtevaju dugoročna i zajednička rešenja.",
+        "example": "A: Klimatske promene zahtevaju dugoročna i zajednička rešenja.",
         "translation": "Climate change requires long-term and shared solutions.",
-        "exampleReading": "ක්ලිමාත්ස්කෙ ප්‍රොමෙනෙ සාහ්තෙවායු දුගොරොච්නා ඉ සායෙද්නිච්කා රෙෂෙන්යා."
+        "exampleReading": "а: климатскэ промэнэ захтэвайу дугорочна и зайэдничка рэшэньа."
       },
       {
         "word": "emisija",
         "reading": "එමිසියා",
         "meaning": "විමෝචනය",
-        "example": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "B: Zato moramo štedeti vodu i ulagati u održiva rešenja.",
+        "translation": "ඒ නිසා ජලය ඉතිරි කර තිරසාර විසඳුම් සඳහා ආයෝජනය කළ යුතුයි.",
+        "exampleReading": "б: зато морамо штэдэти воду и улагати у одржива рэшэньа."
       },
       {
         "word": "obnovljiv",
         "reading": "ඔබ්නොව්ල්යීව්",
         "meaning": "පුනර්ජනනීය",
-        "example": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්.",
-        "exampleReading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු."
+        "example": "A: Poljoprivreda posebno zavisi od dostupne vode.",
+        "translation": "කෘෂිකර්මාන්තය ජලය ලබාගත හැකි වීම මත රඳා පවතිනවා.",
+        "exampleReading": "а: польоприврэда посэбно зависи од доступнэ водэ."
       },
       {
         "word": "politika",
         "reading": "පොලිතිකා",
         "meaning": "ප්‍රතිපත්තිය",
-        "example": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි.",
-        "exampleReading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ."
+        "example": "B: Sistemi za navodnjavanje mogu smanjiti gubitke.",
+        "translation": "වාරිමාර්ග පද්ධති මඟින් ජල නාස්තිය අඩු කළ හැකියි.",
+        "exampleReading": "б: систэми за наводньаваньэ могу сманьити губиткэ."
       },
       {
         "word": "suša",
         "reading": "සුෂා",
         "meaning": "නියඟය",
-        "example": "Klimatske promene zahtevaju dugoročna i zajednička rešenja.",
+        "example": "A: Klimatske promene zahtevaju dugoročna i zajednička rešenja.",
         "translation": "Climate change requires long-term and shared solutions.",
-        "exampleReading": "ක්ලිමාත්ස්කෙ ප්‍රොමෙනෙ සාහ්තෙවායු දුගොරොච්නා ඉ සායෙද්නිච්කා රෙෂෙන්යා."
+        "exampleReading": "а: климатскэ промэнэ захтэвайу дугорочна и зайэдничка рэшэньа."
       },
       {
         "word": "poplava",
         "reading": "පොප්ලාවා",
         "meaning": "ගංවතුර",
-        "example": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "B: Zato moramo štedeti vodu i ulagati u održiva rešenja.",
+        "translation": "ඒ නිසා ජලය ඉතිරි කර තිරසාර විසඳුම් සඳහා ආයෝජනය කළ යුතුයි.",
+        "exampleReading": "б: зато морамо штэдэти воду и улагати у одржива рэшэньа."
       },
       {
         "word": "očuvanje",
         "reading": "ඔචුවාන්යේ",
         "meaning": "සංරක්ෂණය",
-        "example": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්.",
-        "exampleReading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු."
+        "example": "A: Poljoprivreda posebno zavisi od dostupne vode.",
+        "translation": "කෘෂිකර්මාන්තය ජලය ලබාගත හැකි වීම මත රඳා පවතිනවා.",
+        "exampleReading": "а: польоприврэда посэбно зависи од доступнэ водэ."
       },
       {
         "word": "uticaj",
         "reading": "උතිත්සායි",
         "meaning": "බලපෑම",
-        "example": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි.",
-        "exampleReading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ."
+        "example": "B: Sistemi za navodnjavanje mogu smanjiti gubitke.",
+        "translation": "වාරිමාර්ග පද්ධති මඟින් ජල නාස්තිය අඩු කළ හැකියි.",
+        "exampleReading": "б: систэми за наводньаваньэ могу сманьити губиткэ."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -6490,24 +6490,24 @@ export const SERBIAN_B1_LESSONS = [
     ],
     "examples": [
       {
-        "sr": "Klimatske promene zahtevaju dugoročna i zajednička rešenja.",
-        "reading": "ක්ලිමාත්ස්කෙ ප්‍රොමෙනෙ සාහ්තෙවායු දුගොරොච්නා ඉ සායෙද්නිච්කා රෙෂෙන්යා.",
+        "sr": "A: Klimatske promene zahtevaju dugoročna i zajednička rešenja.",
+        "reading": "а: климатскэ промэнэ захтэвайу дугорочна и зайэдничка рэшэньа.",
         "si": "Climate change requires long-term and shared solutions."
       },
       {
-        "sr": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "reading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "sr": "B: Zato moramo štedeti vodu i ulagati u održiva rešenja.",
+        "reading": "б: зато морамо штэдэти воду и улагати у одржива рэшэньа.",
+        "si": "ඒ නිසා ජලය ඉතිරි කර තිරසාර විසඳුම් සඳහා ආයෝජනය කළ යුතුයි."
       },
       {
-        "sr": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "reading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
-        "si": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "sr": "A: Poljoprivreda posebno zavisi od dostupne vode.",
+        "reading": "а: польоприврэда посэбно зависи од доступнэ водэ.",
+        "si": "කෘෂිකර්මාන්තය ජලය ලබාගත හැකි වීම මත රඳා පවතිනවා."
       },
       {
-        "sr": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "reading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ.",
-        "si": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "sr": "B: Sistemi za navodnjavanje mogu smanjiti gubitke.",
+        "reading": "б: систэми за наводньаваньэ могу сманьити губиткэ.",
+        "si": "වාරිමාර්ග පද්ධති මඟින් ජල නාස්තිය අඩු කළ හැකියි."
       }
     ],
     "dialogue": [
@@ -6596,65 +6596,65 @@ export const SERBIAN_B1_LESSONS = [
         "word": "ishrana",
         "reading": "ඉස්හ්‍රානා",
         "meaning": "පෝෂණය",
-        "example": "Način ishrane često odražava kulturu i tradiciju porodice.",
+        "example": "A: Način ishrane često odražava kulturu i tradiciju porodice.",
         "translation": "Eating habits often reflect a family's culture and tradition.",
-        "exampleReading": "නාචින් ඉස්හ්‍රානෙ චෙස්තො ඔද්‍රාෂාවා културу ඉ ත්‍රාදිත්සියු පොරොදිත්සෙ."
+        "exampleReading": "а: начин исхранэ чэсто одражава културу и традицийу породицэ."
       },
       {
         "word": "sastojak",
         "reading": "සාස්තොයාක්",
         "meaning": "අමුද්‍රව්‍යය",
-        "example": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "B: Dobro je što možemo da kupujemo sveže namirnice od lokalnih proizvođača.",
+        "translation": "දේශීය නිෂ්පාදකයන්ගෙන් නැවුම් ආහාර මිලදී ගැනීමට හැකිවීම හොඳයි.",
+        "exampleReading": "б: добро йэ што можэмо да купуйэмо свэжэ намирницэ од локалних производжача."
       },
       {
         "word": "recept",
         "reading": "රෙත්සෙප්ත්",
         "meaning": "වට්ටෝරුව",
-        "example": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්.",
-        "exampleReading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු."
+        "example": "A: Tako podržavamo i male porodične firme.",
+        "translation": "එමඟින් කුඩා පවුල් ව්‍යාපාරවලටත් සහාය ලැබෙනවා.",
+        "exampleReading": "а: тако подржавамо и малэ породичнэ фирмэ."
       },
       {
         "word": "porcija",
         "reading": "පොර්ත්සියා",
         "meaning": "ආහාර ප්‍රමාණය",
-        "example": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි.",
-        "exampleReading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ."
+        "example": "B: A često saznamo i kako se hrana proizvodi.",
+        "translation": "ආහාර නිෂ්පාදනය කරන ආකාරයත් දැනගන්න ලැබෙනවා.",
+        "exampleReading": "б: а чэсто сазнамо и како сэ храна производи."
       },
       {
         "word": "ishrana",
         "reading": "ඉස්හ්‍රානා",
         "meaning": "ආහාර රටාව",
-        "example": "Način ishrane često odražava kulturu i tradiciju porodice.",
+        "example": "A: Način ishrane često odražava kulturu i tradiciju porodice.",
         "translation": "Eating habits often reflect a family's culture and tradition.",
-        "exampleReading": "නාචින් ඉස්හ්‍රානෙ චෙස්තො ඔද්‍රාෂාවා културу ඉ ත්‍රාදිත්සියු පොරොදිත්සෙ."
+        "exampleReading": "а: начин исхранэ чэсто одражава културу и традицийу породицэ."
       },
       {
         "word": "ukus",
         "reading": "උකුස්",
         "meaning": "රසය",
-        "example": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "B: Dobro je što možemo da kupujemo sveže namirnice od lokalnih proizvođača.",
+        "translation": "දේශීය නිෂ්පාදකයන්ගෙන් නැවුම් ආහාර මිලදී ගැනීමට හැකිවීම හොඳයි.",
+        "exampleReading": "б: добро йэ што можэмо да купуйэмо свэжэ намирницэ од локалних производжача."
       },
       {
         "word": "tradicionalan",
         "reading": "ත්‍රාදිත්සියොනාලන්",
         "meaning": "සාම්ප්‍රදායික",
-        "example": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්.",
-        "exampleReading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු."
+        "example": "A: Tako podržavamo i male porodične firme.",
+        "translation": "එමඟින් කුඩා පවුල් ව්‍යාපාරවලටත් සහාය ලැබෙනවා.",
+        "exampleReading": "а: тако подржавамо и малэ породичнэ фирмэ."
       },
       {
         "word": "spisak sastojaka",
         "reading": "ස්පිසාක් සාස්තොයාකා",
         "meaning": "අමුද්‍රව්‍ය ලැයිස්තුව",
-        "example": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි.",
-        "exampleReading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ."
+        "example": "B: A često saznamo i kako se hrana proizvodi.",
+        "translation": "ආහාර නිෂ්පාදනය කරන ආකාරයත් දැනගන්න ලැබෙනවා.",
+        "exampleReading": "б: а чэсто сазнамо и како сэ храна производи."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -6668,24 +6668,24 @@ export const SERBIAN_B1_LESSONS = [
     ],
     "examples": [
       {
-        "sr": "Način ishrane često odražava kulturu i tradiciju porodice.",
-        "reading": "නාචින් ඉස්හ්‍රානෙ චෙස්තො ඔද්‍රාෂාවා културу ඉ ත්‍රාදිත්සියු පොරොදිත්සෙ.",
+        "sr": "A: Način ishrane često odražava kulturu i tradiciju porodice.",
+        "reading": "а: начин исхранэ чэсто одражава културу и традицийу породицэ.",
         "si": "Eating habits often reflect a family's culture and tradition."
       },
       {
-        "sr": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "reading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "sr": "B: Dobro je što možemo da kupujemo sveže namirnice od lokalnih proizvođača.",
+        "reading": "б: добро йэ што можэмо да купуйэмо свэжэ намирницэ од локалних производжача.",
+        "si": "දේශීය නිෂ්පාදකයන්ගෙන් නැවුම් ආහාර මිලදී ගැනීමට හැකිවීම හොඳයි."
       },
       {
-        "sr": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "reading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
-        "si": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "sr": "A: Tako podržavamo i male porodične firme.",
+        "reading": "а: тако подржавамо и малэ породичнэ фирмэ.",
+        "si": "එමඟින් කුඩා පවුල් ව්‍යාපාරවලටත් සහාය ලැබෙනවා."
       },
       {
-        "sr": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "reading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ.",
-        "si": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "sr": "B: A često saznamo i kako se hrana proizvodi.",
+        "reading": "б: а чэсто сазнамо и како сэ храна производи.",
+        "si": "ආහාර නිෂ්පාදනය කරන ආකාරයත් දැනගන්න ලැබෙනවා."
       }
     ],
     "dialogue": [
@@ -6774,65 +6774,65 @@ export const SERBIAN_B1_LESSONS = [
         "word": "cilj",
         "reading": "ත්සිල්ය්",
         "meaning": "ඉලක්කය",
-        "example": "Postavljanje jasnih ciljeva pomaže nam da pratimo napredak.",
+        "example": "A: Postavljanje jasnih ciljeva pomaže nam da pratimo napredak.",
         "translation": "Setting clear goals helps us track our progress.",
-        "exampleReading": "පොස්තාව්ල්යාන්යේ යාස්නිහ් ත්සිල්යෙවා පොමාෂෙ නාම් ද ප්‍රාතිමො නප්‍රෙදාක්."
+        "exampleReading": "а: поставльаньэ йасних цильэва помажэ нам да пратимо напрэдак."
       },
       {
         "word": "prekretnica",
         "reading": "ප්‍රෙක්‍රෙත්නීත්සා",
         "meaning": "වැදගත් අදියර",
-        "example": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "B: Podeli cilj na manje korake i odredi rok za svaki.",
+        "translation": "ඉලක්කය කුඩා පියවරවලට බෙදා එක් එක් පියවරට කාලසීමාවක් දාන්න.",
+        "exampleReading": "б: подэли циль на маньэ коракэ и одрэди рок за сваки."
       },
       {
         "word": "meta",
         "reading": "මෙතා",
         "meaning": "ඉලක්කය",
-        "example": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්.",
-        "exampleReading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු."
+        "example": "A: Tako ću lakše pratiti svoj napredak.",
+        "translation": "එවිට මගේ ප්‍රගතිය පහසුවෙන් නිරීක්ෂණය කළ හැකියි.",
+        "exampleReading": "а: тако чу лакшэ пратити свой напрэдак."
       },
       {
         "word": "napredak",
         "reading": "නප්‍රෙදාක්",
         "meaning": "ප්‍රගතිය",
-        "example": "Postavljanje jasnih ciljeva pomaže nam da pratimo napredak.",
-        "translation": "Setting clear goals helps us track our progress.",
-        "exampleReading": "පොස්තාව්ල්යාන්යේ යාස්නිහ් ත්සිල්යෙවා පොමාෂෙ නාම් ද ප්‍රාතිමො නප්‍රෙදාක්."
+        "example": "B: Redovno ponavljanje pomoći će ti da zapamtiš gradivo.",
+        "translation": "නිතිපතා නැවත අධ්‍යයනය කිරීම පාඩම් මතක තබාගන්න උදව් වේවි.",
+        "exampleReading": "б: рэдовно понавльаньэ помочи чэ ти да запамтиш градиво."
       },
       {
         "word": "postići",
         "reading": "පොස්තිචි",
         "meaning": "ළඟා වෙනවා",
-        "example": "Postavljanje jasnih ciljeva pomaže nam da pratimo napredak.",
+        "example": "A: Postavljanje jasnih ciljeva pomaže nam da pratimo napredak.",
         "translation": "Setting clear goals helps us track our progress.",
-        "exampleReading": "පොස්තාව්ල්යාන්යේ යාස්නිහ් ත්සිල්යෙවා පොමාෂෙ නාම් ද ප්‍රාතිමො නප්‍රෙදාක්."
+        "exampleReading": "а: поставльаньэ йасних цильэва помажэ нам да пратимо напрэдак."
       },
       {
         "word": "rok",
         "reading": "රොක්",
         "meaning": "අවසන් දිනය",
-        "example": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "B: Podeli cilj na manje korake i odredi rok za svaki.",
+        "translation": "ඉලක්කය කුඩා පියවරවලට බෙදා එක් එක් පියවරට කාලසීමාවක් දාන්න.",
+        "exampleReading": "б: подэли циль на маньэ коракэ и одрэди рок за сваки."
       },
       {
         "word": "plan",
         "reading": "ප්ලාන්",
         "meaning": "සැලැස්ම",
-        "example": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්.",
-        "exampleReading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු."
+        "example": "A: Tako ću lakše pratiti svoj napredak.",
+        "translation": "එවිට මගේ ප්‍රගතිය පහසුවෙන් නිරීක්ෂණය කළ හැකියි.",
+        "exampleReading": "а: тако чу лакшэ пратити свой напрэдак."
       },
       {
         "word": "motivacija",
         "reading": "මොතිවාත්සියා",
         "meaning": "අභිප්‍රේරණය",
-        "example": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි.",
-        "exampleReading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ."
+        "example": "B: Redovno ponavljanje pomoći će ti da zapamtiš gradivo.",
+        "translation": "නිතිපතා නැවත අධ්‍යයනය කිරීම පාඩම් මතක තබාගන්න උදව් වේවි.",
+        "exampleReading": "б: рэдовно понавльаньэ помочи чэ ти да запамтиш градиво."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -6846,24 +6846,24 @@ export const SERBIAN_B1_LESSONS = [
     ],
     "examples": [
       {
-        "sr": "Postavljanje jasnih ciljeva pomaže nam da pratimo napredak.",
-        "reading": "පොස්තාව්ල්යාන්යේ යාස්නිහ් ත්සිල්යෙවා පොමාෂෙ නාම් ද ප්‍රාතිමො නප්‍රෙදාක්.",
+        "sr": "A: Postavljanje jasnih ciljeva pomaže nam da pratimo napredak.",
+        "reading": "а: поставльаньэ йасних цильэва помажэ нам да пратимо напрэдак.",
         "si": "Setting clear goals helps us track our progress."
       },
       {
-        "sr": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "reading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "sr": "B: Podeli cilj na manje korake i odredi rok za svaki.",
+        "reading": "б: подэли циль на маньэ коракэ и одрэди рок за сваки.",
+        "si": "ඉලක්කය කුඩා පියවරවලට බෙදා එක් එක් පියවරට කාලසීමාවක් දාන්න."
       },
       {
-        "sr": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "reading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
-        "si": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "sr": "A: Tako ću lakše pratiti svoj napredak.",
+        "reading": "а: тако чу лакшэ пратити свой напрэдак.",
+        "si": "එවිට මගේ ප්‍රගතිය පහසුවෙන් නිරීක්ෂණය කළ හැකියි."
       },
       {
-        "sr": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "reading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ.",
-        "si": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "sr": "B: Redovno ponavljanje pomoći će ti da zapamtiš gradivo.",
+        "reading": "б: рэдовно понавльаньэ помочи чэ ти да запамтиш градиво.",
+        "si": "නිතිපතා නැවත අධ්‍යයනය කිරීම පාඩම් මතක තබාගන්න උදව් වේවි."
       }
     ],
     "dialogue": [
@@ -6952,65 +6952,65 @@ export const SERBIAN_B1_LESSONS = [
         "word": "rezervacija",
         "reading": "රෙසෙර්වාත්සියා",
         "meaning": "වෙන්කිරීම",
-        "example": "Ako usluga ne odgovara rezervaciji, možemo zatražiti rešenje.",
+        "example": "A: Ako usluga ne odgovara rezervaciji, možemo zatražiti rešenje.",
         "translation": "If the service does not match the booking, we can request a solution.",
-        "exampleReading": "අකො උස්ලුගා නෙ ඔද්ගොවාරා රෙසෙර්වාත්සියි මොෂෙමො සාත්‍රාෂිති රෙෂෙන්යේ."
+        "exampleReading": "а: ако услуга нэ одговара рэзэрвацийи, можэмо затражити рэшэньэ."
       },
       {
         "word": "žalba",
         "reading": "ෂාල්බා",
         "meaning": "පැමිණිල්ල",
-        "example": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "B: Sačuvaj potvrdu rezervacije i odmah podnesi pisani prigovor.",
+        "translation": "වෙන්කිරීමේ තහවුරු කිරීම තබාගෙන වහාම ලිඛිත පැමිණිල්ලක් ඉදිරිපත් කරන්න.",
+        "exampleReading": "б: сачувай потврду рэзэрвацийэ и одмах поднэси писани приговор."
       },
       {
         "word": "usluga",
         "reading": "උස්ලුගා",
         "meaning": "සේවාව",
-        "example": "Ako usluga ne odgovara rezervaciji, možemo zatražiti rešenje.",
-        "translation": "If the service does not match the booking, we can request a solution.",
-        "exampleReading": "අකො උස්ලුගා නෙ ඔද්ගොවාරා රෙසෙර්වාත්සියි මොෂෙමො සාත්‍රාෂිති රෙෂෙන්යේ."
+        "example": "A: Da li treba da tražim i povraćaj novca?",
+        "translation": "මුදල් ආපසු ඉල්ලන්නත් ඕනද?",
+        "exampleReading": "а: да ли трэба да тражим и поврачай новца?"
       },
       {
         "word": "naknada",
         "reading": "නක්නාදා",
         "meaning": "වන්දි",
-        "example": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි.",
-        "exampleReading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ."
+        "example": "B: Prvo zatraži objašnjenje i predloži razumno rešenje.",
+        "translation": "මුලින්ම පැහැදිලි කිරීමක් ඉල්ලා සාධාරණ විසඳුමක් යෝජනා කරන්න.",
+        "exampleReading": "б: прво затражи обйашньэньэ и прэдложи разумно рэшэньэ."
       },
       {
         "word": "potvrda",
         "reading": "පොත්ව්ර්දා",
         "meaning": "තහවුරු කිරීම",
-        "example": "Ako usluga ne odgovara rezervaciji, možemo zatražiti rešenje.",
+        "example": "A: Ako usluga ne odgovara rezervaciji, možemo zatražiti rešenje.",
         "translation": "If the service does not match the booking, we can request a solution.",
-        "exampleReading": "අකො උස්ලුගා නෙ ඔද්ගොවාරා රෙසෙර්වාත්සියි මොෂෙමො සාත්‍රාෂිති රෙෂෙන්යේ."
+        "exampleReading": "а: ако услуга нэ одговара рэзэрвацийи, можэмо затражити рэшэньэ."
       },
       {
         "word": "otkazivanje",
         "reading": "ඔත්කාසිවාන්යේ",
         "meaning": "අවලංගු කිරීම",
-        "example": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "B: Sačuvaj potvrdu rezervacije i odmah podnesi pisani prigovor.",
+        "translation": "වෙන්කිරීමේ තහවුරු කිරීම තබාගෙන වහාම ලිඛිත පැමිණිල්ලක් ඉදිරිපත් කරන්න.",
+        "exampleReading": "б: сачувай потврду рэзэрвацийэ и одмах поднэси писани приговор."
       },
       {
         "word": "alternativa",
         "reading": "අල්තෙර්නාතිවා",
         "meaning": "විකල්පය",
-        "example": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්.",
-        "exampleReading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු."
+        "example": "A: Da li treba da tražim i povraćaj novca?",
+        "translation": "මුදල් ආපසු ඉල්ලන්නත් ඕනද?",
+        "exampleReading": "а: да ли трэба да тражим и поврачай новца?"
       },
       {
         "word": "korisnička služba",
         "reading": "කොරිස්නිච්කා ස්ලුෂ්බා",
         "meaning": "පාරිභෝගික සේවාව",
-        "example": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි.",
-        "exampleReading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ."
+        "example": "B: Prvo zatraži objašnjenje i predloži razumno rešenje.",
+        "translation": "මුලින්ම පැහැදිලි කිරීමක් ඉල්ලා සාධාරණ විසඳුමක් යෝජනා කරන්න.",
+        "exampleReading": "б: прво затражи обйашньэньэ и прэдложи разумно рэшэньэ."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -7024,24 +7024,24 @@ export const SERBIAN_B1_LESSONS = [
     ],
     "examples": [
       {
-        "sr": "Ako usluga ne odgovara rezervaciji, možemo zatražiti rešenje.",
-        "reading": "අකො උස්ලුගා නෙ ඔද්ගොවාරා රෙසෙර්වාත්සියි මොෂෙමො සාත්‍රාෂිති රෙෂෙන්යේ.",
+        "sr": "A: Ako usluga ne odgovara rezervaciji, možemo zatražiti rešenje.",
+        "reading": "а: ако услуга нэ одговара рэзэрвацийи, можэмо затражити рэшэньэ.",
         "si": "If the service does not match the booking, we can request a solution."
       },
       {
-        "sr": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "reading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "sr": "B: Sačuvaj potvrdu rezervacije i odmah podnesi pisani prigovor.",
+        "reading": "б: сачувай потврду рэзэрвацийэ и одмах поднэси писани приговор.",
+        "si": "වෙන්කිරීමේ තහවුරු කිරීම තබාගෙන වහාම ලිඛිත පැමිණිල්ලක් ඉදිරිපත් කරන්න."
       },
       {
-        "sr": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "reading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
-        "si": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "sr": "A: Da li treba da tražim i povraćaj novca?",
+        "reading": "а: да ли трэба да тражим и поврачай новца?",
+        "si": "මුදල් ආපසු ඉල්ලන්නත් ඕනද?"
       },
       {
-        "sr": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "reading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ.",
-        "si": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "sr": "B: Prvo zatraži objašnjenje i predloži razumno rešenje.",
+        "reading": "б: прво затражи обйашньэньэ и прэдложи разумно рэшэньэ.",
+        "si": "මුලින්ම පැහැදිලි කිරීමක් ඉල්ලා සාධාරණ විසඳුමක් යෝජනා කරන්න."
       }
     ],
     "dialogue": [
@@ -7130,65 +7130,65 @@ export const SERBIAN_B1_LESSONS = [
         "word": "govor tela",
         "reading": "ගොවොර තෙලා",
         "meaning": "ශරීර භාෂාව",
-        "example": "Jasna komunikacija zavisi od reči i načina na koji ih izgovaramo.",
+        "example": "A: Jasna komunikacija zavisi od reči i načina na koji ih izgovaramo.",
         "translation": "Clear communication depends on words and the way we say them.",
-        "exampleReading": "යාස්නා කොමුනිකාත්සියා සාවිසි ඔද් රෙචි ඉ නාචිනා නා කොයි ඉහ් ඉස්ගොවාරාමො."
+        "exampleReading": "а: йасна комуникацийа зависи од рэчи и начина на койи их изговарамо."
       },
       {
         "word": "gest",
         "reading": "ගෙස්ත්",
         "meaning": "අංග චලනය",
-        "example": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "B: Najbolje je da mirno objasniš šta si zapravo želeo da kažeš.",
+        "translation": "ඔබ අදහස් කළේ කුමක්දැයි සන්සුන්ව පැහැදිලි කිරීම හොඳම ක්‍රමයයි.",
+        "exampleReading": "б: найбольэ йэ да мирно обйасниш шта си заправо жэлэо да кажэш."
       },
       {
         "word": "ton",
         "reading": "තොන්",
         "meaning": "හඬේ ස්වරය",
-        "example": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්.",
-        "exampleReading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු."
+        "example": "A: Trebalo je ranije da proverim da li me je razumeo.",
+        "translation": "ඔහු මාව තේරුම් ගත්තාද කියලා කලින්ම පරීක්ෂා කළ යුතුව තිබුණා.",
+        "exampleReading": "а: трэбало йэ ранийэ да провэрим да ли мэ йэ разумэо."
       },
       {
         "word": "izraz",
         "reading": "ඉස්රාස්",
         "meaning": "ප්‍රකාශනය",
-        "example": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි.",
-        "exampleReading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ."
+        "example": "B: Otvoreno pitanje često sprečava novi nesporazum.",
+        "translation": "විවෘත ප්‍රශ්නයක් ඇසීමෙන් තවත් වැරදි අවබෝධයක් වළක්වාගත හැකියි.",
+        "exampleReading": "б: отворэно питаньэ чэсто спрэчава нови нэспоразум."
       },
       {
         "word": "nesporazum",
         "reading": "නෙස්පොරසුම්",
         "meaning": "වැරදි අවබෝධය",
-        "example": "Jasna komunikacija zavisi od reči i načina na koji ih izgovaramo.",
+        "example": "A: Jasna komunikacija zavisi od reči i načina na koji ih izgovaramo.",
         "translation": "Clear communication depends on words and the way we say them.",
-        "exampleReading": "යාස්නා කොමුනිකාත්සියා සාවිසි ඔද් රෙචි ඉ නාචිනා නා කොයි ඉහ් ඉස්ගොවාරාමො."
+        "exampleReading": "а: йасна комуникацийа зависи од рэчи и начина на койи их изговарамо."
       },
       {
         "word": "povratna informacija",
         "reading": "පොව්‍රාත්නා ඉන්ෆොර්මාත්සියා",
         "meaning": "ප්‍රතිචාරය",
-        "example": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "B: Najbolje je da mirno objasniš šta si zapravo želeo da kažeš.",
+        "translation": "ඔබ අදහස් කළේ කුමක්දැයි සන්සුන්ව පැහැදිලි කිරීම හොඳම ක්‍රමයයි.",
+        "exampleReading": "б: найбольэ йэ да мирно обйасниш шта си заправо жэлэо да кажэш."
       },
       {
         "word": "ljubazan",
         "reading": "ල්යුබාසාන්",
         "meaning": "ආචාරශීලී",
-        "example": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්.",
-        "exampleReading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු."
+        "example": "A: Trebalo je ranije da proverim da li me je razumeo.",
+        "translation": "ඔහු මාව තේරුම් ගත්තාද කියලා කලින්ම පරීක්ෂා කළ යුතුව තිබුණා.",
+        "exampleReading": "а: трэбало йэ ранийэ да провэрим да ли мэ йэ разумэо."
       },
       {
         "word": "pojasniti",
         "reading": "පොයාස්නිති",
         "meaning": "පැහැදිලි කරනවා",
-        "example": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි.",
-        "exampleReading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ."
+        "example": "B: Otvoreno pitanje često sprečava novi nesporazum.",
+        "translation": "විවෘත ප්‍රශ්නයක් ඇසීමෙන් තවත් වැරදි අවබෝධයක් වළක්වාගත හැකියි.",
+        "exampleReading": "б: отворэно питаньэ чэсто спрэчава нови нэспоразум."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -7202,24 +7202,24 @@ export const SERBIAN_B1_LESSONS = [
     ],
     "examples": [
       {
-        "sr": "Jasna komunikacija zavisi od reči i načina na koji ih izgovaramo.",
-        "reading": "යාස්නා කොමුනිකාත්සියා සාවිසි ඔද් රෙචි ඉ නාචිනා නා කොයි ඉහ් ඉස්ගොවාරාමො.",
+        "sr": "A: Jasna komunikacija zavisi od reči i načina na koji ih izgovaramo.",
+        "reading": "а: йасна комуникацийа зависи од рэчи и начина на койи их изговарамо.",
         "si": "Clear communication depends on words and the way we say them."
       },
       {
-        "sr": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "reading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "sr": "B: Najbolje je da mirno objasniš šta si zapravo želeo da kažeš.",
+        "reading": "б: найбольэ йэ да мирно обйасниш шта си заправо жэлэо да кажэш.",
+        "si": "ඔබ අදහස් කළේ කුමක්දැයි සන්සුන්ව පැහැදිලි කිරීම හොඳම ක්‍රමයයි."
       },
       {
-        "sr": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "reading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
-        "si": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "sr": "A: Trebalo je ranije da proverim da li me je razumeo.",
+        "reading": "а: трэбало йэ ранийэ да провэрим да ли мэ йэ разумэо.",
+        "si": "ඔහු මාව තේරුම් ගත්තාද කියලා කලින්ම පරීක්ෂා කළ යුතුව තිබුණා."
       },
       {
-        "sr": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "reading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ.",
-        "si": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "sr": "B: Otvoreno pitanje često sprečava novi nesporazum.",
+        "reading": "б: отворэно питаньэ чэсто спрэчава нови нэспоразум.",
+        "si": "විවෘත ප්‍රශ්නයක් ඇසීමෙන් තවත් වැරදි අවබෝධයක් වළක්වාගත හැකියි."
       }
     ],
     "dialogue": [
@@ -7308,65 +7308,65 @@ export const SERBIAN_B1_LESSONS = [
         "word": "privatnost",
         "reading": "ප්‍රිවාත්නොස්ත්",
         "meaning": "පෞද්ගලිකත්වය",
-        "example": "Pre objavljivanja fotografije treba poštovati privatnost drugih.",
+        "example": "A: Pre objavljivanja fotografije treba poštovati privatnost drugih.",
         "translation": "Before posting a photo, we should respect other people's privacy.",
-        "exampleReading": "ප්‍රෙ ඔබ්යාව්ල්යීවාන්යා ෆොතොග්‍රාෆියේ ත්‍රෙබා පොෂ්තොවාති ප්‍රිවාත්නොස්ත් ද්රුගිහ්."
+        "exampleReading": "а: прэ обйавльиваньа фотографийэ трэба поштовати приватност других."
       },
       {
         "word": "sadržaj",
         "reading": "සාද්ර්ෂායි",
         "meaning": "අන්තර්ගතය",
-        "example": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "B: Proveri ko je objavio vest i da li postoje pouzdani izvori.",
+        "translation": "එය පළ කළේ කවුද සහ විශ්වාසදායක මූලාශ්‍ර එය තහවුරු කරනවාද කියලා බලන්න.",
+        "exampleReading": "б: провэри ко йэ обйавио вэст и да ли постойэ поуздани извори."
       },
       {
         "word": "komentar",
         "reading": "කොමෙන්තාර්",
         "meaning": "අදහස",
-        "example": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්.",
-        "exampleReading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු."
+        "example": "A: Na društvenim mrežama je podelilo mnogo ljudi.",
+        "translation": "සමාජ මාධ්‍යවල බොහෝ දෙනෙක් එය බෙදාගෙන තිබෙනවා.",
+        "exampleReading": "а: на друштвэним мрэжама йэ подэлило много льуди."
       },
       {
         "word": "podeliti",
         "reading": "පොදෙලිති",
         "meaning": "බෙදාගන්නවා",
-        "example": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි.",
-        "exampleReading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ."
+        "example": "B: Broj deljenja ne znači da je informacija tačna.",
+        "translation": "බෙදාගැනීම් ගණන වැඩි වීමෙන් තොරතුරු සත්‍ය බව අදහස් වෙන්නේ නැහැ.",
+        "exampleReading": "б: брой дэльэньа нэ значи да йэ информацийа тачна."
       },
       {
         "word": "dezinformacija",
         "reading": "දෙසින්ෆොර්මාත්සියා",
         "meaning": "වැරදි තොරතුරු",
-        "example": "Pre objavljivanja fotografije treba poštovati privatnost drugih.",
+        "example": "A: Pre objavljivanja fotografije treba poštovati privatnost drugih.",
         "translation": "Before posting a photo, we should respect other people's privacy.",
-        "exampleReading": "ප්‍රෙ ඔබ්යාව්ල්යීවාන්යා ෆොතොග්‍රාෆියේ ත්‍රෙබා පොෂ්තොවාති ප්‍රිවාත්නොස්ත් ද්රුගිහ්."
+        "exampleReading": "а: прэ обйавльиваньа фотографийэ трэба поштовати приватност других."
       },
       {
         "word": "nalog",
         "reading": "නාලොග්",
         "meaning": "ගිණුම",
-        "example": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "B: Proveri ko je objavio vest i da li postoje pouzdani izvori.",
+        "translation": "එය පළ කළේ කවුද සහ විශ්වාසදායක මූලාශ්‍ර එය තහවුරු කරනවාද කියලා බලන්න.",
+        "exampleReading": "б: провэри ко йэ обйавио вэст и да ли постойэ поуздани извори."
       },
       {
         "word": "bezbednost",
         "reading": "බෙස්බෙද්නොස්ත්",
         "meaning": "ආරක්ෂාව",
-        "example": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්.",
-        "exampleReading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු."
+        "example": "A: Na društvenim mrežama je podelilo mnogo ljudi.",
+        "translation": "සමාජ මාධ්‍යවල බොහෝ දෙනෙක් එය බෙදාගෙන තිබෙනවා.",
+        "exampleReading": "а: на друштвэним мрэжама йэ подэлило много льуди."
       },
       {
         "word": "publika",
         "reading": "පුබ්ලිකා",
         "meaning": "ප්‍රේක්ෂක පිරිස",
-        "example": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි.",
-        "exampleReading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ."
+        "example": "B: Broj deljenja ne znači da je informacija tačna.",
+        "translation": "බෙදාගැනීම් ගණන වැඩි වීමෙන් තොරතුරු සත්‍ය බව අදහස් වෙන්නේ නැහැ.",
+        "exampleReading": "б: брой дэльэньа нэ значи да йэ информацийа тачна."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -7380,24 +7380,24 @@ export const SERBIAN_B1_LESSONS = [
     ],
     "examples": [
       {
-        "sr": "Pre objavljivanja fotografije treba poštovati privatnost drugih.",
-        "reading": "ප්‍රෙ ඔබ්යාව්ල්යීවාන්යා ෆොතොග්‍රාෆියේ ත්‍රෙබා පොෂ්තොවාති ප්‍රිවාත්නොස්ත් ද්රුගිහ්.",
+        "sr": "A: Pre objavljivanja fotografije treba poštovati privatnost drugih.",
+        "reading": "а: прэ обйавльиваньа фотографийэ трэба поштовати приватност других.",
         "si": "Before posting a photo, we should respect other people's privacy."
       },
       {
-        "sr": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "reading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "sr": "B: Proveri ko je objavio vest i da li postoje pouzdani izvori.",
+        "reading": "б: провэри ко йэ обйавио вэст и да ли постойэ поуздани извори.",
+        "si": "එය පළ කළේ කවුද සහ විශ්වාසදායක මූලාශ්‍ර එය තහවුරු කරනවාද කියලා බලන්න."
       },
       {
-        "sr": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "reading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
-        "si": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "sr": "A: Na društvenim mrežama je podelilo mnogo ljudi.",
+        "reading": "а: на друштвэним мрэжама йэ подэлило много льуди.",
+        "si": "සමාජ මාධ්‍යවල බොහෝ දෙනෙක් එය බෙදාගෙන තිබෙනවා."
       },
       {
-        "sr": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "reading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ.",
-        "si": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "sr": "B: Broj deljenja ne znači da je informacija tačna.",
+        "reading": "б: брой дэльэньа нэ значи да йэ информацийа тачна.",
+        "si": "බෙදාගැනීම් ගණන වැඩි වීමෙන් තොරතුරු සත්‍ය බව අදහස් වෙන්නේ නැහැ."
       }
     ],
     "dialogue": [
@@ -7486,65 +7486,65 @@ export const SERBIAN_B1_LESSONS = [
         "word": "prioritet",
         "reading": "ප්‍රියොරිතෙත්",
         "meaning": "ප්‍රමුඛතාව",
-        "example": "Kada odredimo prioritete, lakše završavamo važne zadatke.",
+        "example": "A: Kada odredimo prioritete, lakše završavamo važne zadatke.",
         "translation": "When we set priorities, we finish important tasks more easily.",
-        "exampleReading": "කාදා ඔද්‍රෙදිමො ප්‍රියොරිතෙතෙ ලක්ෂෙ සාව්ර්ෂාවාමො වාෂ්නෙ සාදාත්කෙ."
+        "exampleReading": "а: када одрэдимо приоритэтэ, лакшэ завршавамо важнэ задаткэ."
       },
       {
         "word": "raspored",
         "reading": "රාස්පොරෙද්",
         "meaning": "කාලසටහන",
-        "example": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "B: Pokušaj da odrediš prioritete i unapred isplaniraš odmor.",
+        "translation": "ප්‍රමුඛතා තීරණය කර විවේකයත් කලින් සැලසුම් කරන්න උත්සාහ කරන්න.",
+        "exampleReading": "б: покушай да одрэдиш приоритэтэ и унапрэд испланираш одмор."
       },
       {
         "word": "rok",
         "reading": "රොක්",
         "meaning": "අවසන් දිනය",
-        "example": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්.",
-        "exampleReading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු."
+        "example": "A: Često prihvatim više zadataka nego što mogu da završim.",
+        "translation": "මට අවසන් කළ හැකි ප්‍රමාණයට වඩා වැඩි කාර්යයන් මම භාරගන්නවා.",
+        "exampleReading": "а: чэсто прихватим вишэ задатака нэго што могу да завршим."
       },
       {
         "word": "ometanje",
         "reading": "ඔමෙතාන්යේ",
         "meaning": "අවධානය වෙනතකට යාම",
-        "example": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි.",
-        "exampleReading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ."
+        "example": "B: Nauči da realno proceniš vreme koje ti je potrebno.",
+        "translation": "ඔබට අවශ්‍ය කාලය යථාර්ථවාදීව ඇස්තමේන්තු කරන්න ඉගෙනගන්න.",
+        "exampleReading": "б: научи да рэално процэниш врэмэ койэ ти йэ потрэбно."
       },
       {
         "word": "usredsređenost",
         "reading": "උස්‍රෙද්ස්‍රෙජෙනොස්ත්",
         "meaning": "අවධානය",
-        "example": "Kada odredimo prioritete, lakše završavamo važne zadatke.",
+        "example": "A: Kada odredimo prioritete, lakše završavamo važne zadatke.",
         "translation": "When we set priorities, we finish important tasks more easily.",
-        "exampleReading": "කාදා ඔද්‍රෙදිමො ප්‍රියොරිතෙතෙ ලක්ෂෙ සාව්ර්ෂාවාමො වාෂ්නෙ සාදාත්කෙ."
+        "exampleReading": "а: када одрэдимо приоритэтэ, лакшэ завршавамо важнэ задаткэ."
       },
       {
         "word": "odložiti",
         "reading": "ඔද්ලොෂිති",
         "meaning": "කල් දමනවා",
-        "example": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "B: Pokušaj da odrediš prioritete i unapred isplaniraš odmor.",
+        "translation": "ප්‍රමුඛතා තීරණය කර විවේකයත් කලින් සැලසුම් කරන්න උත්සාහ කරන්න.",
+        "exampleReading": "б: покушай да одрэдиш приоритэтэ и унапрэд испланираш одмор."
       },
       {
         "word": "završiti",
         "reading": "සාව්ර්ෂිති",
         "meaning": "අවසන් කරනවා",
-        "example": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්.",
-        "exampleReading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු."
+        "example": "A: Često prihvatim više zadataka nego što mogu da završim.",
+        "translation": "මට අවසන් කළ හැකි ප්‍රමාණයට වඩා වැඩි කාර්යයන් මම භාරගන්නවා.",
+        "exampleReading": "а: чэсто прихватим вишэ задатака нэго што могу да завршим."
       },
       {
         "word": "efikasan",
         "reading": "එෆිකාසාන්",
         "meaning": "කාර්යක්ෂම",
-        "example": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි.",
-        "exampleReading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ."
+        "example": "B: Nauči da realno proceniš vreme koje ti je potrebno.",
+        "translation": "ඔබට අවශ්‍ය කාලය යථාර්ථවාදීව ඇස්තමේන්තු කරන්න ඉගෙනගන්න.",
+        "exampleReading": "б: научи да рэално процэниш врэмэ койэ ти йэ потрэбно."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -7558,24 +7558,24 @@ export const SERBIAN_B1_LESSONS = [
     ],
     "examples": [
       {
-        "sr": "Kada odredimo prioritete, lakše završavamo važne zadatke.",
-        "reading": "කාදා ඔද්‍රෙදිමො ප්‍රියොරිතෙතෙ ලක්ෂෙ සාව්ර්ෂාවාමො වාෂ්නෙ සාදාත්කෙ.",
+        "sr": "A: Kada odredimo prioritete, lakše završavamo važne zadatke.",
+        "reading": "а: када одрэдимо приоритэтэ, лакшэ завршавамо важнэ задаткэ.",
         "si": "When we set priorities, we finish important tasks more easily."
       },
       {
-        "sr": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "reading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "sr": "B: Pokušaj da odrediš prioritete i unapred isplaniraš odmor.",
+        "reading": "б: покушай да одрэдиш приоритэтэ и унапрэд испланираш одмор.",
+        "si": "ප්‍රමුඛතා තීරණය කර විවේකයත් කලින් සැලසුම් කරන්න උත්සාහ කරන්න."
       },
       {
-        "sr": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "reading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
-        "si": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "sr": "A: Često prihvatim više zadataka nego što mogu da završim.",
+        "reading": "а: чэсто прихватим вишэ задатака нэго што могу да завршим.",
+        "si": "මට අවසන් කළ හැකි ප්‍රමාණයට වඩා වැඩි කාර්යයන් මම භාරගන්නවා."
       },
       {
-        "sr": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "reading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ.",
-        "si": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "sr": "B: Nauči da realno proceniš vreme koje ti je potrebno.",
+        "reading": "б: научи да рэално процэниш врэмэ койэ ти йэ потрэбно.",
+        "si": "ඔබට අවශ්‍ය කාලය යථාර්ථවාදීව ඇස්තමේන්තු කරන්න ඉගෙනගන්න."
       }
     ],
     "dialogue": [
@@ -7664,65 +7664,65 @@ export const SERBIAN_B1_LESSONS = [
         "word": "kultura",
         "reading": "කුල්තුරා",
         "meaning": "සංස්කෘතිය",
-        "example": "Poštovanje različitih običaja pomaže ljudima da sarađuju.",
+        "example": "A: Poštovanje različitih običaja pomaže ljudima da sarađuju.",
         "translation": "Respecting different customs helps people work together.",
-        "exampleReading": "පොෂ්තොවාන්යේ රාස්ලිචිතිහ් ඔබිචායා පොමාෂෙ ල්යුදිමා ද සා රාජුයු."
+        "exampleReading": "а: поштованьэ различитих обичайа помажэ льудима да сараджуйу."
       },
       {
         "word": "običaj",
         "reading": "ඔබිචායි",
         "meaning": "චාරිත්‍රය",
-        "example": "Poštovanje različitih običaja pomaže ljudima da sarađuju.",
-        "translation": "Respecting different customs helps people work together.",
-        "exampleReading": "පොෂ්තොවාන්යේ රාස්ලිචිතිහ් ඔබිචායා පොමාෂෙ ල්යුදිමා ද සා රාජුයු."
+        "example": "B: Dobro je da se pre putovanja upoznamo sa lokalnim običajima.",
+        "translation": "ගමනට පෙර දේශීය සිරිත් විරිත් ගැන දැනගැනීම ප්‍රයෝජනවත්.",
+        "exampleReading": "б: добро йэ да сэ прэ путованьа упознамо са локалним обичайима."
       },
       {
         "word": "perspektiva",
         "reading": "පෙර්ස්පෙක්තිවා",
         "meaning": "දෘෂ්ටිකෝණය",
-        "example": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්.",
-        "exampleReading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු."
+        "example": "A: Tako možemo pokazati poštovanje prema domaćinima.",
+        "translation": "එමඟින් සත්කාරකයන්ට ගෞරවය පෙන්වන්න පුළුවන්.",
+        "exampleReading": "а: тако можэмо показати поштованьэ прэма домачинима."
       },
       {
         "word": "raznolikost",
         "reading": "රාස්නොලිකොස්ත්",
         "meaning": "විවිධත්වය",
-        "example": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි.",
-        "exampleReading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ."
+        "example": "B: Lakše ćemo izbeći neprijatne situacije.",
+        "translation": "අපහසු අවස්ථා පහසුවෙන් වළක්වාගන්නත් පුළුවන්.",
+        "exampleReading": "б: лакшэ чэмо избэчи нэприйатнэ ситуацийэ."
       },
       {
         "word": "poštovanje",
         "reading": "පොෂ්තොවාන්යේ",
         "meaning": "ගෞරවය",
-        "example": "Poštovanje različitih običaja pomaže ljudima da sarađuju.",
+        "example": "A: Poštovanje različitih običaja pomaže ljudima da sarađuju.",
         "translation": "Respecting different customs helps people work together.",
-        "exampleReading": "පොෂ්තොවාන්යේ රාස්ලිචිතිහ් ඔබිචායා පොමාෂෙ ල්යුදිමා ද සා රාජුයු."
+        "exampleReading": "а: поштованьэ различитих обичайа помажэ льудима да сараджуйу."
       },
       {
         "word": "prilagoditi se",
         "reading": "ප්‍රිලාගොදිති සෙ",
         "meaning": "හැඩගැසෙනවා",
-        "example": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "B: Dobro je da se pre putovanja upoznamo sa lokalnim običajima.",
+        "translation": "ගමනට පෙර දේශීය සිරිත් විරිත් ගැන දැනගැනීම ප්‍රයෝජනවත්.",
+        "exampleReading": "б: добро йэ да сэ прэ путованьа упознамо са локалним обичайима."
       },
       {
         "word": "komunikacija",
         "reading": "කොමුනිකාත්සියා",
         "meaning": "සන්නිවේදනය",
-        "example": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්.",
-        "exampleReading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු."
+        "example": "A: Tako možemo pokazati poštovanje prema domaćinima.",
+        "translation": "එමඟින් සත්කාරකයන්ට ගෞරවය පෙන්වන්න පුළුවන්.",
+        "exampleReading": "а: тако можэмо показати поштованьэ прэма домачинима."
       },
       {
         "word": "stereotip",
         "reading": "ස්තෙරෙඔතිප්",
         "meaning": "ඒකාකෘතිය",
-        "example": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි.",
-        "exampleReading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ."
+        "example": "B: Lakše ćemo izbeći neprijatne situacije.",
+        "translation": "අපහසු අවස්ථා පහසුවෙන් වළක්වාගන්නත් පුළුවන්.",
+        "exampleReading": "б: лакшэ чэмо избэчи нэприйатнэ ситуацийэ."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -7736,24 +7736,24 @@ export const SERBIAN_B1_LESSONS = [
     ],
     "examples": [
       {
-        "sr": "Poštovanje različitih običaja pomaže ljudima da sarađuju.",
-        "reading": "පොෂ්තොවාන්යේ රාස්ලිචිතිහ් ඔබිචායා පොමාෂෙ ල්යුදිමා ද සා රාජුයු.",
+        "sr": "A: Poštovanje različitih običaja pomaže ljudima da sarađuju.",
+        "reading": "а: поштованьэ различитих обичайа помажэ льудима да сараджуйу.",
         "si": "Respecting different customs helps people work together."
       },
       {
-        "sr": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "reading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "sr": "B: Dobro je da se pre putovanja upoznamo sa lokalnim običajima.",
+        "reading": "б: добро йэ да сэ прэ путованьа упознамо са локалним обичайима.",
+        "si": "ගමනට පෙර දේශීය සිරිත් විරිත් ගැන දැනගැනීම ප්‍රයෝජනවත්."
       },
       {
-        "sr": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "reading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
-        "si": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "sr": "A: Tako možemo pokazati poštovanje prema domaćinima.",
+        "reading": "а: тако можэмо показати поштованьэ прэма домачинима.",
+        "si": "එමඟින් සත්කාරකයන්ට ගෞරවය පෙන්වන්න පුළුවන්."
       },
       {
-        "sr": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "reading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ.",
-        "si": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "sr": "B: Lakše ćemo izbeći neprijatne situacije.",
+        "reading": "б: лакшэ чэмо избэчи нэприйатнэ ситуацийэ.",
+        "si": "අපහසු අවස්ථා පහසුවෙන් වළක්වාගන්නත් පුළුවන්."
       }
     ],
     "dialogue": [
@@ -7842,65 +7842,65 @@ export const SERBIAN_B1_LESSONS = [
         "word": "preduzetnik",
         "reading": "ප්‍රෙදුසෙත්නික්",
         "meaning": "ව්‍යවසායකයා",
-        "example": "Dobar poslovni plan uzima u obzir potrebe kupaca.",
+        "example": "A: Dobar poslovni plan uzima u obzir potrebe kupaca.",
         "translation": "A good business plan takes customers' needs into account.",
-        "exampleReading": "දොබාර් පොස්ලොව්නි ප්ලාන් උසිමා උ ඔබ්සීර් පොත්‍රෙබෙ කුපාත්සා."
+        "exampleReading": "а: добар пословни план узима у обзир потрэбэ купаца."
       },
       {
         "word": "poslovni plan",
         "reading": "පොස්ලොව්නි ප්ලාන්",
         "meaning": "ව්‍යාපාර සැලැස්ම",
-        "example": "Dobar poslovni plan uzima u obzir potrebe kupaca.",
-        "translation": "A good business plan takes customers' needs into account.",
-        "exampleReading": "දොබාර් පොස්ලොව්නි ප්ලාන් උසිමා උ ඔබ්සීර් පොත්‍රෙබෙ කුපාත්සා."
+        "example": "B: Pre početka istraži potrebe kupaca i izračunaj početne troškove.",
+        "translation": "ආරම්භ කිරීමට පෙර පාරිභෝගික අවශ්‍යතා සොයා බලා ආරම්භක වියදම් ගණනය කරන්න.",
+        "exampleReading": "б: прэ почэтка истражи потрэбэ купаца и израчунай почэтнэ трошковэ."
       },
       {
         "word": "kupac",
         "reading": "කුපාත්ස්",
         "meaning": "පාරිභෝගිකයා",
-        "example": "Dobar poslovni plan uzima u obzir potrebe kupaca.",
-        "translation": "A good business plan takes customers' needs into account.",
-        "exampleReading": "දොබාර් පොස්ලොව්නි ප්ලාන් උසිමා උ ඔබ්සීර් පොත්‍රෙබෙ කුපාත්සා."
+        "example": "A: Razmišljam i o tome kako da promovišem uslugu.",
+        "translation": "සේවාව ප්‍රචාරය කරන්නේ කොහොමද කියලත් මම හිතනවා.",
+        "exampleReading": "а: размишльам и о томэ како да промовишэм услугу."
       },
       {
         "word": "potražnja",
         "reading": "පොත්‍රාෂ්න්යා",
         "meaning": "ඉල්ලුම",
-        "example": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි.",
-        "exampleReading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ."
+        "example": "B: Napravi jednostavan poslovni plan sa jasnim ciljevima.",
+        "translation": "පැහැදිලි ඉලක්ක සහිත සරල ව්‍යාපාර සැලැස්මක් සකස් කරන්න.",
+        "exampleReading": "б: направи йэдноставан пословни план са йасним цильэвима."
       },
       {
         "word": "dobit",
         "reading": "දොබිත්",
         "meaning": "ලාභය",
-        "example": "Dobar poslovni plan uzima u obzir potrebe kupaca.",
+        "example": "A: Dobar poslovni plan uzima u obzir potrebe kupaca.",
         "translation": "A good business plan takes customers' needs into account.",
-        "exampleReading": "දොබාර් පොස්ලොව්නි ප්ලාන් උසිමා උ ඔබ්සීර් පොත්‍රෙබෙ කුපාත්සා."
+        "exampleReading": "а: добар пословни план узима у обзир потрэбэ купаца."
       },
       {
         "word": "trošak",
         "reading": "ත්‍රොෂාක්",
         "meaning": "පිරිවැය",
-        "example": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "B: Pre početka istraži potrebe kupaca i izračunaj početne troškove.",
+        "translation": "ආරම්භ කිරීමට පෙර පාරිභෝගික අවශ්‍යතා සොයා බලා ආරම්භක වියදම් ගණනය කරන්න.",
+        "exampleReading": "б: прэ почэтка истражи потрэбэ купаца и израчунай почэтнэ трошковэ."
       },
       {
         "word": "dobavljač",
         "reading": "දොබාව්ල්යාච්",
         "meaning": "සැපයුම්කරු",
-        "example": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්.",
-        "exampleReading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු."
+        "example": "A: Razmišljam i o tome kako da promovišem uslugu.",
+        "translation": "සේවාව ප්‍රචාරය කරන්නේ කොහොමද කියලත් මම හිතනවා.",
+        "exampleReading": "а: размишльам и о томэ како да промовишэм услугу."
       },
       {
         "word": "povratna informacija",
         "reading": "පොව්‍රාත්නා ඉන්ෆොර්මාත්සියා",
         "meaning": "ප්‍රතිචාරය",
-        "example": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි.",
-        "exampleReading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ."
+        "example": "B: Napravi jednostavan poslovni plan sa jasnim ciljevima.",
+        "translation": "පැහැදිලි ඉලක්ක සහිත සරල ව්‍යාපාර සැලැස්මක් සකස් කරන්න.",
+        "exampleReading": "б: направи йэдноставан пословни план са йасним цильэвима."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -7914,24 +7914,24 @@ export const SERBIAN_B1_LESSONS = [
     ],
     "examples": [
       {
-        "sr": "Dobar poslovni plan uzima u obzir potrebe kupaca.",
-        "reading": "දොබාර් පොස්ලොව්නි ප්ලාන් උසිමා උ ඔබ්සීර් පොත්‍රෙබෙ කුපාත්සා.",
+        "sr": "A: Dobar poslovni plan uzima u obzir potrebe kupaca.",
+        "reading": "а: добар пословни план узима у обзир потрэбэ купаца.",
         "si": "A good business plan takes customers' needs into account."
       },
       {
-        "sr": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "reading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "sr": "B: Pre početka istraži potrebe kupaca i izračunaj početne troškove.",
+        "reading": "б: прэ почэтка истражи потрэбэ купаца и израчунай почэтнэ трошковэ.",
+        "si": "ආරම්භ කිරීමට පෙර පාරිභෝගික අවශ්‍යතා සොයා බලා ආරම්භක වියදම් ගණනය කරන්න."
       },
       {
-        "sr": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "reading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
-        "si": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "sr": "A: Razmišljam i o tome kako da promovišem uslugu.",
+        "reading": "а: размишльам и о томэ како да промовишэм услугу.",
+        "si": "සේවාව ප්‍රචාරය කරන්නේ කොහොමද කියලත් මම හිතනවා."
       },
       {
-        "sr": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "reading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ.",
-        "si": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "sr": "B: Napravi jednostavan poslovni plan sa jasnim ciljevima.",
+        "reading": "б: направи йэдноставан пословни план са йасним цильэвима.",
+        "si": "පැහැදිලි ඉලක්ක සහිත සරල ව්‍යාපාර සැලැස්මක් සකස් කරන්න."
       }
     ],
     "dialogue": [
@@ -8020,65 +8020,65 @@ export const SERBIAN_B1_LESSONS = [
         "word": "izveštaj",
         "reading": "ඉස්වෙෂ්තායි",
         "meaning": "වාර්තාව",
-        "example": "Izveštaj treba jasno da predstavi podatke i zaključke.",
+        "example": "A: Izveštaj treba jasno da predstavi podatke i zaključke.",
         "translation": "A report should present the data and conclusions clearly.",
-        "exampleReading": "ඉස්වෙෂ්තායි ත්‍රෙබා යාස්නො ද ප්‍රෙද්ස්තාවි පොදාත්කෙ ඉ සාක්ල්යුච්කෙ."
+        "exampleReading": "а: извэштай трэба йасно да прэдстави податкэ и закльучкэ."
       },
       {
         "word": "podaci",
         "reading": "පොදාත්සි",
         "meaning": "දත්ත",
-        "example": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "B: Bilo bi korisno da prikažemo podatke i na grafikonu.",
+        "translation": "දත්ත ප්‍රස්ථාරයකින් ද පෙන්වීම ප්‍රයෝජනවත් වේවි.",
+        "exampleReading": "б: било би корисно да прикажэмо податкэ и на графикону."
       },
       {
         "word": "brojka",
         "reading": "බ්‍රොයිකා",
         "meaning": "සංඛ්‍යාව",
-        "example": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්.",
-        "exampleReading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු."
+        "example": "A: Tako će čitaoci lakše uočiti promene.",
+        "translation": "එවිට පාඨකයන්ට වෙනස්කම් පහසුවෙන් දැකගත හැකියි.",
+        "exampleReading": "а: тако чэ читаоци лакшэ уочити промэнэ."
       },
       {
         "word": "trend",
         "reading": "ත්‍රෙන්ද්",
         "meaning": "ප්‍රවණතාව",
-        "example": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි.",
-        "exampleReading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ."
+        "example": "B: Uz grafikon dodaj kratak opis najvažnijih rezultata.",
+        "translation": "ප්‍රස්ථාරය සමඟ වැදගත්ම ප්‍රතිඵල පිළිබඳ කෙටි විස්තරයක් එක් කරන්න.",
+        "exampleReading": "б: уз графикон додай кратак опис найважнийих рэзултата."
       },
       {
         "word": "povećanje",
         "reading": "පොවෙචාන්යේ",
         "meaning": "වැඩිවීම",
-        "example": "Izveštaj treba jasno da predstavi podatke i zaključke.",
+        "example": "A: Izveštaj treba jasno da predstavi podatke i zaključke.",
         "translation": "A report should present the data and conclusions clearly.",
-        "exampleReading": "ඉස්වෙෂ්තායි ත්‍රෙබා යාස්නො ද ප්‍රෙද්ස්තාවි පොදාත්කෙ ඉ සාක්ල්යුච්කෙ."
+        "exampleReading": "а: извэштай трэба йасно да прэдстави податкэ и закльучкэ."
       },
       {
         "word": "smanjenje",
         "reading": "ස්මාන්යේන්යේ",
         "meaning": "අඩුවීම",
-        "example": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "B: Bilo bi korisno da prikažemo podatke i na grafikonu.",
+        "translation": "දත්ත ප්‍රස්ථාරයකින් ද පෙන්වීම ප්‍රයෝජනවත් වේවි.",
+        "exampleReading": "б: било би корисно да прикажэмо податкэ и на графикону."
       },
       {
         "word": "zaključak",
         "reading": "සාක්ල්යුචාක්",
         "meaning": "නිගමනය",
-        "example": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්.",
-        "exampleReading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු."
+        "example": "A: Tako će čitaoci lakše uočiti promene.",
+        "translation": "එවිට පාඨකයන්ට වෙනස්කම් පහසුවෙන් දැකගත හැකියි.",
+        "exampleReading": "а: тако чэ читаоци лакшэ уочити промэнэ."
       },
       {
         "word": "dodatak",
         "reading": "දොදාතාක්",
         "meaning": "ඇමුණුම",
-        "example": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි.",
-        "exampleReading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ."
+        "example": "B: Uz grafikon dodaj kratak opis najvažnijih rezultata.",
+        "translation": "ප්‍රස්ථාරය සමඟ වැදගත්ම ප්‍රතිඵල පිළිබඳ කෙටි විස්තරයක් එක් කරන්න.",
+        "exampleReading": "б: уз графикон додай кратак опис найважнийих рэзултата."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -8092,24 +8092,24 @@ export const SERBIAN_B1_LESSONS = [
     ],
     "examples": [
       {
-        "sr": "Izveštaj treba jasno da predstavi podatke i zaključke.",
-        "reading": "ඉස්වෙෂ්තායි ත්‍රෙබා යාස්නො ද ප්‍රෙද්ස්තාවි පොදාත්කෙ ඉ සාක්ල්යුච්කෙ.",
+        "sr": "A: Izveštaj treba jasno da predstavi podatke i zaključke.",
+        "reading": "а: извэштай трэба йасно да прэдстави податкэ и закльучкэ.",
         "si": "A report should present the data and conclusions clearly."
       },
       {
-        "sr": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "reading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "sr": "B: Bilo bi korisno da prikažemo podatke i na grafikonu.",
+        "reading": "б: било би корисно да прикажэмо податкэ и на графикону.",
+        "si": "දත්ත ප්‍රස්ථාරයකින් ද පෙන්වීම ප්‍රයෝජනවත් වේවි."
       },
       {
-        "sr": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "reading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
-        "si": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "sr": "A: Tako će čitaoci lakše uočiti promene.",
+        "reading": "а: тако чэ читаоци лакшэ уочити промэнэ.",
+        "si": "එවිට පාඨකයන්ට වෙනස්කම් පහසුවෙන් දැකගත හැකියි."
       },
       {
-        "sr": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "reading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ.",
-        "si": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "sr": "B: Uz grafikon dodaj kratak opis najvažnijih rezultata.",
+        "reading": "б: уз графикон додай кратак опис найважнийих рэзултата.",
+        "si": "ප්‍රස්ථාරය සමඟ වැදගත්ම ප්‍රතිඵල පිළිබඳ කෙටි විස්තරයක් එක් කරන්න."
       }
     ],
     "dialogue": [
@@ -8198,65 +8198,65 @@ export const SERBIAN_B1_LESSONS = [
         "word": "rasprava",
         "reading": "රාස්ප්‍රාවා",
         "meaning": "විවාදය",
-        "example": "Javna rasprava pomaže da razumemo različita mišljenja.",
+        "example": "A: Javna rasprava pomaže da razumemo različita mišljenja.",
         "translation": "Public debate helps us understand different opinions.",
-        "exampleReading": "යාව්නා රාස්ප්‍රාවා පොමාෂෙ ද රාසුමෙමො රාස්ලිචිතා මිෂ්ල්යේන්යා."
+        "exampleReading": "а: йавна расправа помажэ да разумэмо различита мишльэньа."
       },
       {
         "word": "javno mišljenje",
         "reading": "යාව්නො මිෂ්ල්යේන්යේ",
         "meaning": "මහජන මතය",
-        "example": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "B: Treba da saslušamo obe strane pre nego što donesemo zaključak.",
+        "translation": "නිගමනයකට එන්න පෙර දෙපාර්ශ්වයටම සවන් දිය යුතුයි.",
+        "exampleReading": "б: трэба да саслушамо обэ странэ прэ нэго што донэсэмо закльучак."
       },
       {
         "word": "stanovište",
         "reading": "ස්තනොවිෂ්තෙ",
         "meaning": "දෘෂ්ටිකෝණය",
-        "example": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්.",
-        "exampleReading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු."
+        "example": "A: Jedan govornik je izneo podatke, a drugi lično iskustvo.",
+        "translation": "එක් කථිකයෙක් දත්ත ඉදිරිපත් කළ අතර අනෙක් කෙනා පෞද්ගලික අත්දැකීමක් බෙදාගත්තා.",
+        "exampleReading": "а: йэдан говорник йэ изнэо податкэ, а други лично искуство."
       },
       {
         "word": "argument",
         "reading": "අර්ගුමෙන්ත්",
         "meaning": "තර්කය",
-        "example": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි.",
-        "exampleReading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ."
+        "example": "B: Važno je da proverimo podatke i razumemo kontekst.",
+        "translation": "දත්ත පරීක්ෂා කර සන්දර්භය තේරුම් ගැනීම වැදගත්.",
+        "exampleReading": "б: важно йэ да провэримо податкэ и разумэмо контэкст."
       },
       {
         "word": "protivargument",
         "reading": "ප්‍රොතිවාර්ගුමෙන්ත්",
         "meaning": "ප්‍රතිතර්කය",
-        "example": "Javna rasprava pomaže da razumemo različita mišljenja.",
+        "example": "A: Javna rasprava pomaže da razumemo različita mišljenja.",
         "translation": "Public debate helps us understand different opinions.",
-        "exampleReading": "යාව්නා රාස්ප්‍රාවා පොමාෂෙ ද රාසුමෙමො රාස්ලිචිතා මිෂ්ල්යේන්යා."
+        "exampleReading": "а: йавна расправа помажэ да разумэмо различита мишльэньа."
       },
       {
         "word": "ubediti",
         "reading": "උබෙදිති",
         "meaning": "ඒත්තු ගන්වනවා",
-        "example": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "B: Treba da saslušamo obe strane pre nego što donesemo zaključak.",
+        "translation": "නිගමනයකට එන්න පෙර දෙපාර්ශ්වයටම සවන් දිය යුතුයි.",
+        "exampleReading": "б: трэба да саслушамо обэ странэ прэ нэго што донэсэмо закльучак."
       },
       {
         "word": "razgovarati",
         "reading": "රාස්ගොවාරාති",
         "meaning": "සාකච්ඡා කරනවා",
-        "example": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්.",
-        "exampleReading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු."
+        "example": "A: Jedan govornik je izneo podatke, a drugi lično iskustvo.",
+        "translation": "එක් කථිකයෙක් දත්ත ඉදිරිපත් කළ අතර අනෙක් කෙනා පෞද්ගලික අත්දැකීමක් බෙදාගත්තා.",
+        "exampleReading": "а: йэдан говорник йэ изнэо податкэ, а други лично искуство."
       },
       {
         "word": "zaključiti",
         "reading": "සාක්ල්යුචිති",
         "meaning": "නිගමනය කරනවා",
-        "example": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි.",
-        "exampleReading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ."
+        "example": "B: Važno je da proverimo podatke i razumemo kontekst.",
+        "translation": "දත්ත පරීක්ෂා කර සන්දර්භය තේරුම් ගැනීම වැදගත්.",
+        "exampleReading": "б: важно йэ да провэримо податкэ и разумэмо контэкст."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -8270,24 +8270,24 @@ export const SERBIAN_B1_LESSONS = [
     ],
     "examples": [
       {
-        "sr": "Javna rasprava pomaže da razumemo različita mišljenja.",
-        "reading": "යාව්නා රාස්ප්‍රාවා පොමාෂෙ ද රාසුමෙමො රාස්ලිචිතා මිෂ්ල්යේන්යා.",
+        "sr": "A: Javna rasprava pomaže da razumemo različita mišljenja.",
+        "reading": "а: йавна расправа помажэ да разумэмо различита мишльэньа.",
         "si": "Public debate helps us understand different opinions."
       },
       {
-        "sr": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "reading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "sr": "B: Treba da saslušamo obe strane pre nego što donesemo zaključak.",
+        "reading": "б: трэба да саслушамо обэ странэ прэ нэго што донэсэмо закльучак.",
+        "si": "නිගමනයකට එන්න පෙර දෙපාර්ශ්වයටම සවන් දිය යුතුයි."
       },
       {
-        "sr": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "reading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
-        "si": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "sr": "A: Jedan govornik je izneo podatke, a drugi lično iskustvo.",
+        "reading": "а: йэдан говорник йэ изнэо податкэ, а други лично искуство.",
+        "si": "එක් කථිකයෙක් දත්ත ඉදිරිපත් කළ අතර අනෙක් කෙනා පෞද්ගලික අත්දැකීමක් බෙදාගත්තා."
       },
       {
-        "sr": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "reading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ.",
-        "si": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "sr": "B: Važno je da proverimo podatke i razumemo kontekst.",
+        "reading": "б: важно йэ да провэримо податкэ и разумэмо контэкст.",
+        "si": "දත්ත පරීක්ෂා කර සන්දර්භය තේරුම් ගැනීම වැදගත්."
       }
     ],
     "dialogue": [
@@ -8376,65 +8376,65 @@ export const SERBIAN_B1_LESSONS = [
         "word": "složen",
         "reading": "ස්ලොෂෙන්",
         "meaning": "සංකීර්ණ",
-        "example": "Pre izbora rešenja treba proceniti moguće posledice.",
+        "example": "A: Pre izbora rešenja treba proceniti moguće posledice.",
         "translation": "Before choosing a solution, we should evaluate possible consequences.",
-        "exampleReading": "ප්‍රෙ ඉස්බොරා රෙෂෙන්යා ත්‍රෙබා ප්‍රොත්සෙනිති මොගුචෙ පොස්ලෙදිත්සෙ."
+        "exampleReading": "а: прэ избора рэшэньа трэба процэнити могучэ послэдицэ."
       },
       {
         "word": "proceniti",
         "reading": "ප්‍රොත්සෙනිති",
         "meaning": "ඇගයීම",
-        "example": "Pre izbora rešenja treba proceniti moguće posledice.",
-        "translation": "Before choosing a solution, we should evaluate possible consequences.",
-        "exampleReading": "ප්‍රෙ ඉස්බොරා රෙෂෙන්යා ත්‍රෙබා ප්‍රොත්සෙනිති මොගුචෙ පොස්ලෙදිත්සෙ."
+        "example": "B: Treba da procenimo posledice i odmah kontaktiramo drugog dobavljača.",
+        "translation": "ප්‍රතිවිපාක තක්සේරු කර වහාම වෙනත් සැපයුම්කරුවෙකු සම්බන්ධ කරගත යුතුයි.",
+        "exampleReading": "б: трэба да процэнимо послэдицэ и одмах контактирамо другог добавльача."
       },
       {
         "word": "posledica",
         "reading": "පොස්ලෙදිත්සා",
         "meaning": "ප්‍රතිවිපාකය",
-        "example": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්.",
-        "exampleReading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු."
+        "example": "A: To može povećati troškove.",
+        "translation": "එයින් වියදම් වැඩි විය හැකියි.",
+        "exampleReading": "а: то можэ повэчати трошковэ."
       },
       {
         "word": "opcija",
         "reading": "ඔප්ත්සියා",
         "meaning": "විකල්පය",
-        "example": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි.",
-        "exampleReading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ."
+        "example": "B: Uporedimo cenu kašnjenja sa cenom alternativnog rešenja.",
+        "translation": "ප්‍රමාදයේ වියදම විකල්ප විසඳුමේ වියදම සමඟ සසඳමු.",
+        "exampleReading": "б: упорэдимо цэну кашньэньа са цэном алтэрнативног рэшэньа."
       },
       {
         "word": "rizik",
         "reading": "රිසික්",
         "meaning": "අවදානම",
-        "example": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි.",
-        "exampleReading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ."
+        "example": "A: Pre izbora rešenja treba proceniti moguće posledice.",
+        "translation": "Before choosing a solution, we should evaluate possible consequences.",
+        "exampleReading": "а: прэ избора рэшэньа трэба процэнити могучэ послэдицэ."
       },
       {
         "word": "korist",
         "reading": "කොරිස්ත්",
         "meaning": "ප්‍රයෝජනය",
-        "example": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "B: Treba da procenimo posledice i odmah kontaktiramo drugog dobavljača.",
+        "translation": "ප්‍රතිවිපාක තක්සේරු කර වහාම වෙනත් සැපයුම්කරුවෙකු සම්බන්ධ කරගත යුතුයි.",
+        "exampleReading": "б: трэба да процэнимо послэдицэ и одмах контактирамо другог добавльача."
       },
       {
         "word": "delotvoran",
         "reading": "දෙලොත්වොරාන්",
         "meaning": "ඵලදායී",
-        "example": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්.",
-        "exampleReading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු."
+        "example": "A: To može povećati troškove.",
+        "translation": "එයින් වියදම් වැඩි විය හැකියි.",
+        "exampleReading": "а: то можэ повэчати трошковэ."
       },
       {
         "word": "izvodljiv",
         "reading": "ඉස්වොද්ල්යීව්",
         "meaning": "කළ හැකි",
-        "example": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි.",
-        "exampleReading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ."
+        "example": "B: Uporedimo cenu kašnjenja sa cenom alternativnog rešenja.",
+        "translation": "ප්‍රමාදයේ වියදම විකල්ප විසඳුමේ වියදම සමඟ සසඳමු.",
+        "exampleReading": "б: упорэдимо цэну кашньэньа са цэном алтэрнативног рэшэньа."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -8448,24 +8448,24 @@ export const SERBIAN_B1_LESSONS = [
     ],
     "examples": [
       {
-        "sr": "Pre izbora rešenja treba proceniti moguće posledice.",
-        "reading": "ප්‍රෙ ඉස්බොරා රෙෂෙන්යා ත්‍රෙබා ප්‍රොත්සෙනිති මොගුචෙ පොස්ලෙදිත්සෙ.",
+        "sr": "A: Pre izbora rešenja treba proceniti moguće posledice.",
+        "reading": "а: прэ избора рэшэньа трэба процэнити могучэ послэдицэ.",
         "si": "Before choosing a solution, we should evaluate possible consequences."
       },
       {
-        "sr": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "reading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "sr": "B: Treba da procenimo posledice i odmah kontaktiramo drugog dobavljača.",
+        "reading": "б: трэба да процэнимо послэдицэ и одмах контактирамо другог добавльача.",
+        "si": "ප්‍රතිවිපාක තක්සේරු කර වහාම වෙනත් සැපයුම්කරුවෙකු සම්බන්ධ කරගත යුතුයි."
       },
       {
-        "sr": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "reading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
-        "si": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "sr": "A: To može povećati troškove.",
+        "reading": "а: то можэ повэчати трошковэ.",
+        "si": "එයින් වියදම් වැඩි විය හැකියි."
       },
       {
-        "sr": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "reading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ.",
-        "si": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "sr": "B: Uporedimo cenu kašnjenja sa cenom alternativnog rešenja.",
+        "reading": "б: упорэдимо цэну кашньэньа са цэном алтэрнативног рэшэньа.",
+        "si": "ප්‍රමාදයේ වියදම විකල්ප විසඳුමේ වියදම සමඟ සසඳමු."
       }
     ],
     "dialogue": [
@@ -8554,65 +8554,65 @@ export const SERBIAN_B1_LESSONS = [
         "word": "prognoza",
         "reading": "ප්‍රොග්නොසා",
         "meaning": "අනාවැකිය",
-        "example": "Fleksibilan plan pomaže nam da se prilagodimo promenama.",
+        "example": "A: Fleksibilan plan pomaže nam da se prilagodimo promenama.",
         "translation": "A flexible plan helps us adapt to changes.",
-        "exampleReading": "ෆ්ලෙක්සිබිලාන් ප්ලාන් පොමාෂෙ නාම් ද සෙ ප්‍රිලාගොදිමො ප්‍රොමෙනාමා."
+        "exampleReading": "а: флэксибилан план помажэ нам да сэ прилагодимо промэнама."
       },
       {
         "word": "fleksibilan",
         "reading": "ෆ්ලෙක්සිබිලාන්",
         "meaning": "නම්‍යශීලී",
-        "example": "Fleksibilan plan pomaže nam da se prilagodimo promenama.",
-        "translation": "A flexible plan helps us adapt to changes.",
-        "exampleReading": "ෆ්ලෙක්සිබිලාන් ප්ලාන් පොමාෂෙ නාම් ද සෙ ප්‍රිලාගොදිමො ප්‍රොමෙනාමා."
+        "example": "B: Napravi plan koji uključuje rokove, troškove i rezervnu mogućnost.",
+        "translation": "කාලසීමා, වියදම් සහ විකල්ප සැලැස්මක් ඇතුළත් සැලැස්මක් සකස් කරන්න.",
+        "exampleReading": "б: направи план койи укльучуйэ роковэ, трошковэ и рэзэрвну могучност."
       },
       {
         "word": "pripremiti",
         "reading": "ප්‍රිප්‍රෙමිති",
         "meaning": "සූදානම් කරනවා",
-        "example": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්.",
-        "exampleReading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු."
+        "example": "A: Ne mogu da predvidim sve promene.",
+        "translation": "සියලු වෙනස්කම් කලින් අනාවැකි කියන්න මට බැහැ.",
+        "exampleReading": "а: нэ могу да прэдвидим свэ промэнэ."
       },
       {
         "word": "prilagoditi se",
         "reading": "ප්‍රිලාගොදිති සෙ",
         "meaning": "හැඩගැසෙනවා",
-        "example": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි.",
-        "exampleReading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ."
+        "example": "B: Zato plan treba redovno prilagođavati novim okolnostima.",
+        "translation": "නව තත්ත්වයන්ට අනුව සැලැස්ම නිතර සකස් කළ යුතුයි.",
+        "exampleReading": "б: зато план трэба рэдовно прилагоджавати новим околностима."
       },
       {
         "word": "neizvesnost",
         "reading": "නෙඉස්වෙස්නොස්ත්",
         "meaning": "අනිශ්චිතභාවය",
-        "example": "Fleksibilan plan pomaže nam da se prilagodimo promenama.",
+        "example": "A: Fleksibilan plan pomaže nam da se prilagodimo promenama.",
         "translation": "A flexible plan helps us adapt to changes.",
-        "exampleReading": "ෆ්ලෙක්සිබිලාන් ප්ලාන් පොමාෂෙ නාම් ද සෙ ප්‍රිලාගොදිමො ප්‍රොමෙනාමා."
+        "exampleReading": "а: флэксибилан план помажэ нам да сэ прилагодимо промэнама."
       },
       {
         "word": "strategija",
         "reading": "ස්ත්‍රාත්‍රෙගියා",
         "meaning": "උපායමාර්ගය",
-        "example": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "B: Napravi plan koji uključuje rokove, troškove i rezervnu mogućnost.",
+        "translation": "කාලසීමා, වියදම් සහ විකල්ප සැලැස්මක් ඇතුළත් සැලැස්මක් සකස් කරන්න.",
+        "exampleReading": "б: направи план койи укльучуйэ роковэ, трошковэ и рэзэрвну могучност."
       },
       {
         "word": "rezervni plan",
         "reading": "රෙසෙර්ව්නි ප්ලාන්",
         "meaning": "විකල්ප සැලැස්ම",
-        "example": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්.",
-        "exampleReading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු."
+        "example": "A: Ne mogu da predvidim sve promene.",
+        "translation": "සියලු වෙනස්කම් කලින් අනාවැකි කියන්න මට බැහැ.",
+        "exampleReading": "а: нэ могу да прэдвидим свэ промэнэ."
       },
       {
         "word": "dugoročan",
         "reading": "දුගොරොචාන්",
         "meaning": "දිගුකාලීන",
-        "example": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි.",
-        "exampleReading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ."
+        "example": "B: Zato plan treba redovno prilagođavati novim okolnostima.",
+        "translation": "නව තත්ත්වයන්ට අනුව සැලැස්ම නිතර සකස් කළ යුතුයි.",
+        "exampleReading": "б: зато план трэба рэдовно прилагоджавати новим околностима."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -8626,24 +8626,24 @@ export const SERBIAN_B1_LESSONS = [
     ],
     "examples": [
       {
-        "sr": "Fleksibilan plan pomaže nam da se prilagodimo promenama.",
-        "reading": "ෆ්ලෙක්සිබිලාන් ප්ලාන් පොමාෂෙ නාම් ද සෙ ප්‍රිලාගොදිමො ප්‍රොමෙනාමා.",
+        "sr": "A: Fleksibilan plan pomaže nam da se prilagodimo promenama.",
+        "reading": "а: флэксибилан план помажэ нам да сэ прилагодимо промэнама.",
         "si": "A flexible plan helps us adapt to changes."
       },
       {
-        "sr": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "reading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "sr": "B: Napravi plan koji uključuje rokove, troškove i rezervnu mogućnost.",
+        "reading": "б: направи план койи укльучуйэ роковэ, трошковэ и рэзэрвну могучност.",
+        "si": "කාලසීමා, වියදම් සහ විකල්ප සැලැස්මක් ඇතුළත් සැලැස්මක් සකස් කරන්න."
       },
       {
-        "sr": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "reading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
-        "si": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "sr": "A: Ne mogu da predvidim sve promene.",
+        "reading": "а: нэ могу да прэдвидим свэ промэнэ.",
+        "si": "සියලු වෙනස්කම් කලින් අනාවැකි කියන්න මට බැහැ."
       },
       {
-        "sr": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "reading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ.",
-        "si": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "sr": "B: Zato plan treba redovno prilagođavati novim okolnostima.",
+        "reading": "б: зато план трэба рэдовно прилагоджавати новим околностима.",
+        "si": "නව තත්ත්වයන්ට අනුව සැලැස්ම නිතර සකස් කළ යුතුයි."
       }
     ],
     "dialogue": [
@@ -8732,65 +8732,65 @@ export const SERBIAN_B1_LESSONS = [
         "word": "uvod",
         "reading": "උවොද්",
         "meaning": "හැඳින්වීම",
-        "example": "Jasno izlaganje povezuje primere, razloge i zaključak.",
+        "example": "A: Jasno izlaganje povezuje primere, razloge i zaključak.",
         "translation": "A clear presentation connects examples, reasons and a conclusion.",
-        "exampleReading": "යාස්නො ඉස්ලාගාන්යේ පොවෙසුයෙ ප්‍රිමෙරෙ රාස්ලොගෙ ඉ සාක්ල්යුචාක්."
+        "exampleReading": "а: йасно излаганьэ повэзуйэ примэрэ, разлогэ и закльучак."
       },
       {
         "word": "potporna tačka",
         "reading": "පොත්පොර්නා තාච්කා",
         "meaning": "සහායක කරුණ",
-        "example": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "B: Dodaj konkretan primer i jasno ponovi glavni zaključak na kraju.",
+        "translation": "නිශ්චිත උදාහරණයක් එක් කර අවසානයේ ප්‍රධාන නිගමනය පැහැදිලිව නැවත කියන්න.",
+        "exampleReading": "б: додай конкрэтан примэр и йасно понови главни закльучак на крайу."
       },
       {
         "word": "primer",
         "reading": "ප්‍රිමෙර්",
         "meaning": "උදාහරණය",
-        "example": "Jasno izlaganje povezuje primere, razloge i zaključak.",
-        "translation": "A clear presentation connects examples, reasons and a conclusion.",
-        "exampleReading": "යාස්නො ඉස්ලාගාන්යේ පොවෙසුයෙ ප්‍රිමෙරෙ රාස්ලොගෙ ඉ සාක්ල්යුචාක්."
+        "example": "A: Tako će publika lakše pratiti argumente.",
+        "translation": "එවිට ප්‍රේක්ෂකයන්ට තර්ක පහසුවෙන් අනුගමනය කළ හැකියි.",
+        "exampleReading": "а: тако чэ публика лакшэ пратити аргумэнтэ."
       },
       {
         "word": "sažetak",
         "reading": "සාෂෙතාක්",
         "meaning": "සාරාංශය",
-        "example": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "translation": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි.",
-        "exampleReading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ."
+        "example": "B: Dobra struktura povezuje tvrdnje, dokaze i zaključak.",
+        "translation": "හොඳ ව්‍යුහයක් අදහස්, සාක්ෂි සහ නිගමනය එකට සම්බන්ධ කරනවා.",
+        "exampleReading": "б: добра структура повэзуйэ тврдньэ, доказэ и закльучак."
       },
       {
         "word": "struktura",
         "reading": "ස්ත්‍රුක්තුරා",
         "meaning": "ව්‍යුහය",
-        "example": "Jasno izlaganje povezuje primere, razloge i zaključak.",
+        "example": "A: Jasno izlaganje povezuje primere, razloge i zaključak.",
         "translation": "A clear presentation connects examples, reasons and a conclusion.",
-        "exampleReading": "යාස්නො ඉස්ලාගාන්යේ පොවෙසුයෙ ප්‍රිමෙරෙ රාස්ලොගෙ ඉ සාක්ල්යුචාක්."
+        "exampleReading": "а: йасно излаганьэ повэзуйэ примэрэ, разлогэ и закльучак."
       },
       {
         "word": "prelaz",
         "reading": "ප්‍රෙලාස්",
         "meaning": "සංක්‍රාන්තිය",
-        "example": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "translation": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "B: Dodaj konkretan primer i jasno ponovi glavni zaključak na kraju.",
+        "translation": "නිශ්චිත උදාහරණයක් එක් කර අවසානයේ ප්‍රධාන නිගමනය පැහැදිලිව නැවත කියන්න.",
+        "exampleReading": "б: додай конкрэтан примэр и йасно понови главни закльучак на крайу."
       },
       {
         "word": "naglasiti",
         "reading": "නාග්ලාසිති",
         "meaning": "අවධාරණය කරනවා",
-        "example": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "translation": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්.",
-        "exampleReading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු."
+        "example": "A: Tako će publika lakše pratiti argumente.",
+        "translation": "එවිට ප්‍රේක්ෂකයන්ට තර්ක පහසුවෙන් අනුගමනය කළ හැකියි.",
+        "exampleReading": "а: тако чэ публика лакшэ пратити аргумэнтэ."
       },
       {
         "word": "zaključak",
         "reading": "සාක්ල්යුචාක්",
         "meaning": "නිගමනය",
-        "example": "Jasno izlaganje povezuje primere, razloge i zaključak.",
-        "translation": "A clear presentation connects examples, reasons and a conclusion.",
-        "exampleReading": "යාස්නො ඉස්ලාගාන්යේ පොවෙසුයෙ ප්‍රිමෙරෙ රාස්ලොගෙ ඉ සාක්ල්යුචාක්."
+        "example": "B: Dobra struktura povezuje tvrdnje, dokaze i zaključak.",
+        "translation": "හොඳ ව්‍යුහයක් අදහස්, සාක්ෂි සහ නිගමනය එකට සම්බන්ධ කරනවා.",
+        "exampleReading": "б: добра структура повэзуйэ тврдньэ, доказэ и закльучак."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -8804,24 +8804,24 @@ export const SERBIAN_B1_LESSONS = [
     ],
     "examples": [
       {
-        "sr": "Jasno izlaganje povezuje primere, razloge i zaključak.",
-        "reading": "යාස්නො ඉස්ලාගාන්යේ පොවෙසුයෙ ප්‍රිමෙරෙ රාස්ලොගෙ ඉ සාක්ල්යුචාක්.",
+        "sr": "A: Jasno izlaganje povezuje primere, razloge i zaključak.",
+        "reading": "а: йасно излаганьэ повэзуйэ примэрэ, разлогэ и закльучак.",
         "si": "A clear presentation connects examples, reasons and a conclusion."
       },
       {
-        "sr": "Važno je da pažljivo razmotrimo sve mogućnosti.",
-        "reading": "වාෂ්නො යෙ ද පාෂ්ල්යීවො රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති.",
-        "si": "සියලු විකල්ප ප්‍රවේශමෙන් සලකා බැලීම වැදගත්."
+        "sr": "B: Dodaj konkretan primer i jasno ponovi glavni zaključak na kraju.",
+        "reading": "б: додай конкрэтан примэр и йасно понови главни закльучак на крайу.",
+        "si": "නිශ්චිත උදාහරණයක් එක් කර අවසානයේ ප්‍රධාන නිගමනය පැහැදිලිව නැවත කියන්න."
       },
       {
-        "sr": "Na osnovu dostupnih informacija možemo da donesemo bolju odluku.",
-        "reading": "නා ඔස්නොවු දොස්තුප්නිහ් ඉන්ෆොර්මාත්සියා මොෂෙමො ද දොනෙස්ෙමො බොල්යු ඔද්ලුකු.",
-        "si": "ලබාගත හැකි තොරතුරු අනුව වඩා හොඳ තීරණයක් ගන්න පුළුවන්."
+        "sr": "A: Tako će publika lakše pratiti argumente.",
+        "reading": "а: тако чэ публика лакшэ пратити аргумэнтэ.",
+        "si": "එවිට ප්‍රේක්ෂකයන්ට තර්ක පහසුවෙන් අනුගමනය කළ හැකියි."
       },
       {
-        "sr": "Ovaj pristup ima prednosti, ali treba uzeti u obzir i moguće rizike.",
-        "reading": "ඔවායි ප්‍රිස්තුප් ඉමා ප්‍රෙද්නොස්ති අලි ත්‍රෙබා උසෙති උ ඔබ්සීර් ඉ මොගුචෙ රිසික්ෙ.",
-        "si": "මේ ක්‍රමයට වාසි තිබුණත් අවදානම් ගැනත් සැලකිලිමත් විය යුතුයි."
+        "sr": "B: Dobra struktura povezuje tvrdnje, dokaze i zaključak.",
+        "reading": "б: добра структура повэзуйэ тврдньэ, доказэ и закльучак.",
+        "si": "හොඳ ව්‍යුහයක් අදහස්, සාක්ෂි සහ නිගමනය එකට සම්බන්ධ කරනවා."
       }
     ],
     "dialogue": [
