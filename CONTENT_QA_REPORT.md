@@ -108,3 +108,10 @@ GitHub Actions Android debug APK build run [44552002628](https://github.com/madu
 
 ### Next exact task
 - Continue paired A1 audit for lessons 31–40; preserve lesson IDs and progress keys. Do not run builds until the usage reset and billing restriction are resolved.
+
+
+## 2026-11-19 follow-up — A1 lessons 31–40 paired audit and array cleanup
+- Compared Serbian and English A1 lesson topics 31–40; the sequence matches across daily routines, shifts, day-off requests, phone calls, weather/clothes, café choices, family, home, appointments and supermarket checkout.
+- Static source scan: each language has a listening task and five practice prompts in all 10 lessons; vocabulary counts are 8 per lesson except English lesson 37, which has 9.
+- Removed 33 repeated-comma separators in `serbianLessons.js` that introduced empty array slots. Commit: `80516b2f290d952382497db367ec5c5fc10e3ebb`.
+- The scan confirms zero remaining repeated-comma runs. This is not a JavaScript parser or end-to-end QA pass; the full QA script, Expo/TTS runtime and Android testing remain pending. Pronunciation readings are approximate and require fluent-speaker review.
