@@ -3569,65 +3569,65 @@ const serbianB1Lessons = [
         "word": "sertifikat",
         "reading": "සෙර්තිෆිකාත්",
         "meaning": "සහතිකය",
-        "example": "Želim da završim kurs kako bih unapredio svoje veštine.",
-        "translation": "මගේ කුසලතා දියුණු කරගැනීමට පාඨමාලාව අවසන් කරන්න කැමතියි.",
-        "exampleReading": "ෂෙලිම් ද සාව්ර්ෂිම් කුර්ස් කාකො බිහ් උනප්‍රෙදියො ස්වොයෙ වෙෂ්තිනෙ."
+        "example": "Posle završetka kursa dobio sam sertifikat iz računara.",
+        "translation": "පාඨමාලාව අවසන් කළ පසු මට පරිගණක පිළිබඳ සහතිකයක් ලැබුණා.",
+        "exampleReading": "после завршетка курса добио сам сертификат из рачунара."
       },
       {
         "word": "kvalifikacija",
         "reading": "ක්වාලිෆිකාත්සියා",
         "meaning": "සුදුසුකම",
-        "example": "Važno je da razmotrimo sve dostupne mogućnosti.",
-        "translation": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ දොස්තුප්නෙ මොගුච්නොස්ති."
+        "example": "Za ovaj posao potrebna je odgovarajuća stručna kvalifikacija.",
+        "translation": "මේ රැකියාවට ගැළපෙන වෘත්තීය සුදුසුකමක් අවශ්‍යයි.",
+        "exampleReading": "за овај посао потребна је одговарајућа стручна квалификација."
       },
       {
         "word": "obuka",
         "reading": "ඔබුකා",
         "meaning": "පුහුණුව",
-        "example": "Možemo da napravimo plan i da ga prilagodimo situaciji.",
-        "translation": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි.",
-        "exampleReading": "මොෂෙමො ද නප්‍රාවිමො ප්ලාන් ඉ ද ගා ප්‍රිලාගොදිමො සිතුආත්සියි."
+        "example": "Nova obuka počinje sledećeg ponedeljka u devet sati.",
+        "translation": "නව පුහුණුව ලබන සඳුදා නවයට ආරම්භ වෙනවා.",
+        "exampleReading": "нова обука почиње следећег понедељка у девет сати."
       },
       {
         "word": "predavanje",
         "reading": "ප්‍රෙදාවාන්යේ",
         "meaning": "දේශනය",
-        "example": "Na osnovu iskustva, ovaj pristup može biti koristan.",
-        "translation": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි.",
-        "exampleReading": "නා ඔස්නොවු ඉස්කුස්ත්වා ඔවායි ප්‍රිස්තුප් මොෂෙ බිති කොරිස්තාන්."
+        "example": "Današnje predavanje o marketingu trajalo je sat vremena.",
+        "translation": "අද අලෙවිකරණය පිළිබඳ දේශනය පැයක් පැවතුණා.",
+        "exampleReading": "данашње предавање о маркетингу трајало је сат времена."
       },
       {
         "word": "zadatak",
         "reading": "සාදාතාක්",
         "meaning": "පැවරුම",
-        "example": "Želim da završim kurs kako bih unapredio svoje veštine.",
-        "translation": "මගේ කුසලතා දියුණු කරගැනීමට පාඨමාලාව අවසන් කරන්න කැමතියි.",
-        "exampleReading": "ෂෙලිම් ද සාව්ර්ෂිම් කුර්ස් කාකො බිහ් උනප්‍රෙදියො ස්වොයෙ වෙෂ්තිනෙ."
+        "example": "Moram da završim zadatak iz matematike do večeras.",
+        "translation": "මම අද සවසට පෙර ගණිත පැවරුම අවසන් කළ යුතුයි.",
+        "exampleReading": "морам да завршим задатак из математике до вечерас."
       },
       {
         "word": "rok",
         "reading": "රොක්",
         "meaning": "අවසන් දිනය",
-        "example": "Važno je da razmotrimo sve dostupne mogućnosti.",
-        "translation": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ දොස්තුප්නෙ මොගුච්නොස්ති."
+        "example": "Krajnji rok za prijavu je petnaesti maj.",
+        "translation": "අයදුම් කිරීමේ අවසන් දිනය මැයි පහළොස්වැනිදායි.",
+        "exampleReading": "крајњи рок за пријаву је петнаести мај."
       },
       {
         "word": "upisati se",
         "reading": "උපිසාති සෙ",
         "meaning": "ලියාපදිංචි වෙනවා",
-        "example": "Možemo da napravimo plan i da ga prilagodimo situaciji.",
-        "translation": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි.",
-        "exampleReading": "මොෂෙමො ද නප්‍රාවිමො ප්ලාන් ඉ ද ගා ප්‍රිලාගොදිමො සිතුආත්සියි."
+        "example": "Želim da se upišem na večernji kurs srpskog jezika.",
+        "translation": "මට සර්බියානු භාෂාවේ සවස පාඨමාලාවකට ලියාපදිංචි වෙන්න ඕනෑ.",
+        "exampleReading": "желим да се упишем на вечерњи курс српског језика."
       },
       {
         "word": "unaprediti",
         "reading": "උනප්‍රෙදити",
         "meaning": "දියුණු කරනවා",
-        "example": "Na osnovu iskustva, ovaj pristup može biti koristan.",
-        "translation": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි.",
-        "exampleReading": "නා ඔස්නොවු ඉස්කුස්ත්වා ඔවායි ප්‍රිස්තුප් මොෂෙ බිති කොරිස්තාන්."
+        "example": "Redovno vežbanje može da unapredi tvoje znanje jezika.",
+        "translation": "නිතිපතා පුහුණුවෙන් ඔබේ භාෂා දැනුම දියුණු කළ හැකියි.",
+        "exampleReading": "редовно вежбање може да унапреди твоје знање језика."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -3747,65 +3747,65 @@ const serbianB1Lessons = [
         "word": "aplikacija",
         "reading": "අප්ලිකාත්සියා",
         "meaning": "යෙදුම",
-        "example": "Koristim aplikaciju koja mi pomaže da organizujem obaveze.",
-        "translation": "මගේ වැඩ සංවිධානය කිරීමට උදව් කරන යෙදුමක් භාවිතා කරනවා.",
-        "exampleReading": "කොරිස්තිම් අප්ලිකාත්සියු කොයා මි පොමාෂෙ ද ඔර්ගානිසුයෙම් ඔබාවේසෙ."
+        "example": "Instalirao sam aplikaciju za učenje novih reči.",
+        "translation": "මම අලුත් වචන ඉගෙනගැනීම සඳහා යෙදුමක් ස්ථාපනය කළා.",
+        "exampleReading": "инсталирао сам апликацију за учење нових речи."
       },
       {
         "word": "nalog",
         "reading": "නාලොග්",
         "meaning": "ගිණුම",
-        "example": "Važno je da razmotrimo sve dostupne mogućnosti.",
-        "translation": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ දොස්තුප්නෙ මොගුච්නොස්ති."
+        "example": "Napravio sam novi nalog koristeći svoju imejl adresu.",
+        "translation": "මම මගේ විද්‍යුත් තැපැල් ලිපිනය භාවිත කර අලුත් ගිණුමක් හැදුවා.",
+        "exampleReading": "направио сам нови налог користећи своју имејл адресу."
       },
       {
         "word": "lozinka",
         "reading": "ලොසින්කා",
         "meaning": "මුරපදය",
-        "example": "Možemo da napravimo plan i da ga prilagodimo situaciji.",
-        "translation": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි.",
-        "exampleReading": "මොෂෙමො ද නප්‍රාවිමො ප්ලාන් ඉ ද ගා ප්‍රිලාගොදිමො සිතුආත්සියි."
+        "example": "Izaberi jaku lozinku koju drugi ne mogu lako da pogode.",
+        "translation": "අන් අයට පහසුවෙන් අනුමාන කළ නොහැකි ශක්තිමත් මුරපදයක් තෝරන්න.",
+        "exampleReading": "изабери јаку лозинку коју други не могу лако да погоде."
       },
       {
         "word": "prilog",
         "reading": "ප්‍රිලොග්",
         "meaning": "ඇමුණුම",
-        "example": "Na osnovu iskustva, ovaj pristup može biti koristan.",
-        "translation": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි.",
-        "exampleReading": "නා ඔස්නොවු ඉස්කුස්ත්වා ඔවායි ප්‍රිස්තුප් මොෂෙ බිති කොරිස්තාන්."
+        "example": "Uz imejl sam dodao prilog sa potpisanim dokumentom.",
+        "translation": "අත්සන් කළ ලේඛනයක් විද්‍යුත් තැපෑලට ඇමුණුමක් ලෙස එක් කළා.",
+        "exampleReading": "уз имејл сам додао прилог са потписаним документом."
       },
       {
         "word": "preuzeti",
         "reading": "ප්‍රෙඋසෙති",
         "meaning": "බාගත කරනවා",
-        "example": "Koristim aplikaciju koja mi pomaže da organizujem obaveze.",
-        "translation": "මගේ වැඩ සංවිධානය කිරීමට උදව් කරන යෙදුමක් භාවිතා කරනවා.",
-        "exampleReading": "කොරිස්තිම් අප්ලිකාත්සියු කොයා මි පොමාෂෙ ද ඔර්ගානිසුයෙම් ඔබාවේසෙ."
+        "example": "Možeš da preuzmeš datoteku direktno sa zvaničnog sajta.",
+        "translation": "නිල වෙබ් අඩවියෙන් ගොනුව සෘජුවම බාගත කරන්න පුළුවන්.",
+        "exampleReading": "можеш да преузмеш датотеку директно са званичног сајта."
       },
       {
         "word": "ažurirati",
         "reading": "අෂුරිරати",
         "meaning": "යාවත්කාලීන කරනවා",
-        "example": "Važno je da razmotrimo sve dostupne mogućnosti.",
-        "translation": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ දොස්තුප්නෙ මොගුච්නොස්ති."
+        "example": "Ne zaboravi da ažuriraš aplikaciju zbog novih funkcija.",
+        "translation": "අලුත් විශේෂාංග සඳහා යෙදුම යාවත්කාලීන කරන්න අමතක කරන්න එපා.",
+        "exampleReading": "не заборави да ажурираш апликацију због нових функција."
       },
       {
         "word": "privatnost",
         "reading": "ප්‍රිවාත්නොස්ත්",
         "meaning": "පෞද්ගලිකත්වය",
-        "example": "Možemo da napravimo plan i da ga prilagodimo situaciji.",
-        "translation": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි.",
-        "exampleReading": "මොෂෙමො ද නප්‍රාවිමො ප්ලාන් ඉ ද ගා ප්‍රිලාගොදිමො සිතුආත්සියි."
+        "example": "Podešavanja privatnosti određuju ko može da vidi tvoje podatke.",
+        "translation": "ඔබේ දත්ත බලන්න පුළුවන් කාටද යන්න පෞද්ගලිකත්ව සැකසුම් තීරණය කරනවා.",
+        "exampleReading": "подешавања приватности одређују ко може да види твоје податке."
       },
       {
         "word": "veza",
         "reading": "වෙසා",
         "meaning": "සම්බන්ධතාව",
-        "example": "Na osnovu iskustva, ovaj pristup može biti koristan.",
-        "translation": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි.",
-        "exampleReading": "නා ඔස්නොවු ඉස්කුස්ත්වා ඔවායි ප්‍රිස්තුප් මොෂෙ බිති කොරිස්තාන්."
+        "example": "Internet veza je prekinuta tokom video poziva.",
+        "translation": "වීඩියෝ ඇමතුම අතරතුර අන්තර්ජාල සම්බන්ධතාව බිඳ වැටුණා.",
+        "exampleReading": "интернет веза је прекинута током видео позива."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -3925,65 +3925,65 @@ const serbianB1Lessons = [
         "word": "ušteđevina",
         "reading": "උෂ්තෙජෙවිනා",
         "meaning": "ඉතිරිකිරීම්",
-        "example": "Ukoliko redovno štedim, mogu da planiram veće troškove.",
-        "translation": "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්.",
-        "exampleReading": "උකොලිකො රෙද්වොව්නො ෂ්තෙදිම් මොගු ද ප්ලානිрам වෙචෙ ත්‍රොෂ්කොවෙ."
+        "example": "Svoju ušteđevinu čuvam za neplanirane troškove.",
+        "translation": "හදිසිව ඇතිවන වියදම් සඳහා මම මගේ ඉතිරිකිරීම් තබාගන්නවා.",
+        "exampleReading": "своју уштеђевину чувам за непланиране трошкове."
       },
       {
         "word": "budžet",
         "reading": "බුජෙත්",
         "meaning": "අයවැය",
-        "example": "Važno je da razmotrimo sve dostupne mogućnosti.",
-        "translation": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ දොස්තුප්නෙ මොගුච්නොස්ති."
+        "example": "Napravili smo mesečni budžet za hranu i račune.",
+        "translation": "අපි ආහාර සහ බිල්පත් සඳහා මාසික අයවැයක් සකස් කළා.",
+        "exampleReading": "направили смо месечни буџет за храну и рачуне."
       },
       {
         "word": "trošak",
         "reading": "ත්‍රොෂාක්",
         "meaning": "වියදම",
-        "example": "Možemo da napravimo plan i da ga prilagodimo situaciji.",
-        "translation": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි.",
-        "exampleReading": "මොෂෙමො ද නප්‍රාවිමො ප්ලාන් ඉ ද ගා ප්‍රිලාගොදිමො සිතුආත්සියි."
+        "example": "Najveći trošak ovog meseca bila je stanarina.",
+        "translation": "මේ මාසයේ ලොකුම වියදම නිවාස කුලියයි.",
+        "exampleReading": "највећи трошак овог месеца била је станарина."
       },
       {
         "word": "prihod",
         "reading": "ප්‍රිහොද්",
         "meaning": "ආදායම",
-        "example": "Na osnovu iskustva, ovaj pristup može biti koristan.",
-        "translation": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි.",
-        "exampleReading": "නා ඔස්නොවු ඉස්කුස්ත්වා ඔවායි ප්‍රිස්තුප් මොෂෙ බිති කොරිස්තාන්."
+        "example": "Moj mesečni prihod zavisi od broja radnih sati.",
+        "translation": "මගේ මාසික ආදායම වැඩ කරන පැය ගණන අනුව වෙනස් වෙනවා.",
+        "exampleReading": "мој месечни приход зависи од броја радних сати."
       },
       {
         "word": "prenos",
         "reading": "ප්‍රෙනොස්",
         "meaning": "මාරු කිරීම",
-        "example": "Ukoliko redovno štedim, mogu da planiram veće troškove.",
-        "translation": "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්.",
-        "exampleReading": "උකොලිකො රෙද්වොව්නො ෂ්තෙදිම් මොගු ද ප්ලානිрам වෙචෙ ත්‍රොෂ්කොවෙ."
+        "example": "Bankovni prenos novca obično traje jedan radni dan.",
+        "translation": "බැංකු මුදල් මාරුවකට සාමාන්‍යයෙන් වැඩ කරන දිනයක් ගත වෙනවා.",
+        "exampleReading": "банковни пренос новца обично траје један радни дан."
       },
       {
         "word": "naknada",
         "reading": "නක්නාදා",
         "meaning": "ගාස්තුව",
-        "example": "Važno je da razmotrimo sve dostupne mogućnosti.",
-        "translation": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ දොස්තුප්නෙ මොගුච්නොස්ති."
+        "example": "Banka naplaćuje naknadu za međunarodni transfer.",
+        "translation": "ජාත්‍යන්තර මුදල් මාරුවක් සඳහා බැංකුව ගාස්තුවක් අය කරනවා.",
+        "exampleReading": "банка наплаћује накнаду за међународни трансфер."
       },
       {
         "word": "kamata",
         "reading": "කමාතා",
         "meaning": "පොලිය",
-        "example": "Možemo da napravimo plan i da ga prilagodimo situaciji.",
-        "translation": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි.",
-        "exampleReading": "මොෂෙමො ද නප්‍රාවිමො ප්ලාන් ඉ ද ගා ප්‍රිලාගොදිමො සිතුආත්සියි."
+        "example": "Kamatna stopa utiče na ukupan iznos kredita.",
+        "translation": "පොලී අනුපාතය ණයේ මුළු මුදලට බලපානවා.",
+        "exampleReading": "каматна стопа утиче на укупан износ кредита."
       },
       {
         "word": "izvod",
         "reading": "ඉස්වොද්",
         "meaning": "ගිණුම් ප්‍රකාශය",
-        "example": "Na osnovu iskustva, ovaj pristup može biti koristan.",
-        "translation": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි.",
-        "exampleReading": "නා ඔස්නොවු ඉස්කුස්ත්වා ඔවායි ප්‍රිස්තුප් මොෂෙ බිති කොරිස්තාන්."
+        "example": "Svaki mesec proveravam bankovni izvod preko aplikacije.",
+        "translation": "මම සෑම මාසයකම යෙදුමෙන් බැංකු ගිණුම් ප්‍රකාශය පරීක්ෂා කරනවා.",
+        "exampleReading": "сваки месец проверавам банковни извод преко апликације."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -4103,65 +4103,65 @@ const serbianB1Lessons = [
         "word": "dobrobit",
         "reading": "දොබ්‍රොබිත්",
         "meaning": "යහපැවැත්ම",
-        "example": "Iako imam mnogo obaveza, trudim se da dovoljno spavam.",
-        "translation": "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා.",
-        "exampleReading": "ඉයකො ඉමාම් ම්නොගො ඔබාවේසා ත්‍රුදිම් සෙ ද දොවොල්ය්නො ස්පාවාම්."
+        "example": "Redovan odmor je važan za fizičku i mentalnu dobrobit.",
+        "translation": "නිතිපතා විවේක ගැනීම ශාරීරික හා මානසික යහපැවැත්මට වැදගත්.",
+        "exampleReading": "редован одмор је важан за физичку и менталну добробит."
       },
       {
         "word": "navika",
         "reading": "නාවිකා",
         "meaning": "පුරුද්ද",
-        "example": "Važno je da razmotrimo sve dostupne mogućnosti.",
-        "translation": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ දොස්තුප්නෙ මොගුච්නොස්ති."
+        "example": "Stvorio sam naviku da svako jutro prošetam.",
+        "translation": "මම සෑම උදෑසනකම ඇවිදීමට පුරුද්දක් ඇති කරගත්තා.",
+        "exampleReading": "створио сам навику да свако јутро прошетам."
       },
       {
         "word": "san",
         "reading": "සාන්",
         "meaning": "නින්ද",
-        "example": "Možemo da napravimo plan i da ga prilagodimo situaciji.",
-        "translation": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි.",
-        "exampleReading": "මොෂෙමො ද නප්‍රාවිමො ප්ලාන් ඉ ද ගා ප්‍රිලාගොදිමො සිතුආත්සියි."
+        "example": "Dovoljno sna pomaže mi da se bolje koncentrišem.",
+        "translation": "ප්‍රමාණවත් නින්දක් මට වඩා හොඳින් අවධානය යොමු කිරීමට උදව් කරනවා.",
+        "exampleReading": "довољно сна помаже ми да се боље концентришем."
       },
       {
         "word": "vežbanje",
         "reading": "වෙෂ්බාන්යේ",
         "meaning": "ව්‍යායාමය",
-        "example": "Na osnovu iskustva, ovaj pristup može biti koristan.",
-        "translation": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි.",
-        "exampleReading": "නා ඔස්නොවු ඉස්කුස්ත්වා ඔවායි ප්‍රිස්තුප් මොෂෙ බිති කොරිස්තාන්."
+        "example": "Umereno vežbanje može poboljšati raspoloženje.",
+        "translation": "මධ්‍යස්ථ ව්‍යායාම මනෝභාවය වැඩිදියුණු කරන්න පුළුවන්.",
+        "exampleReading": "умерено вежбање може побољшати расположење."
       },
       {
         "word": "uravnotežen",
         "reading": "උරාව්නොතෙෂෙන්",
         "meaning": "සමබර",
-        "example": "Iako imam mnogo obaveza, trudim se da dovoljno spavam.",
-        "translation": "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා.",
-        "exampleReading": "ඉයකො ඉමාම් ම්නොගො ඔබාවේසා ත්‍රුදිම් සෙ ද දොවොල්ය්නො ස්පාවාම්."
+        "example": "Trudim se da jedem uravnoteženu i raznovrsnu hranu.",
+        "translation": "මම සමබර හා විවිධ ආහාර වේලක් ගැනීමට උත්සාහ කරනවා.",
+        "exampleReading": "трудим се да једем уравнотежену и разноврсну храну."
       },
       {
         "word": "stres",
         "reading": "ස්ත්‍රෙස්",
         "meaning": "මානසික පීඩනය",
-        "example": "Važno je da razmotrimo sve dostupne mogućnosti.",
-        "translation": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ දොස්තුප්නෙ මොගුච්නොස්ති."
+        "example": "Kratka šetnja pomaže mi da smanjim stres posle posla.",
+        "translation": "කෙටි ඇවිදීමක් වැඩෙන් පසු මානසික පීඩනය අඩු කරගැනීමට උදව් කරනවා.",
+        "exampleReading": "кратка шетња помаже ми да смањим стрес после посла."
       },
       {
         "word": "rutina",
         "reading": "රුතිනා",
         "meaning": "දෛනික රටාව",
-        "example": "Možemo da napravimo plan i da ga prilagodimo situaciji.",
-        "translation": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි.",
-        "exampleReading": "මොෂෙමො ද නප්‍රාවිමො ප්ලාන් ඉ ද ගා ප්‍රිලාගොදිමො සිතුආත්සියි."
+        "example": "Moja večernja rutina uključuje čitanje nekoliko stranica.",
+        "translation": "මගේ සවස දෛනික රටාවට පිටු කිහිපයක් කියවීම ඇතුළත්.",
+        "exampleReading": "моја вечерња рутина укључује читање неколико страница."
       },
       {
         "word": "oporavak",
         "reading": "ඔපොරාවාක්",
         "meaning": "සුවය ලැබීම",
-        "example": "Na osnovu iskustva, ovaj pristup može biti koristan.",
-        "translation": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි.",
-        "exampleReading": "නා ඔස්නොවු ඉස්කුස්ත්වා ඔවායි ප්‍රිස්තුප් මොෂෙ බිති කොරිස්තාන්."
+        "example": "Posle napornog treninga telu je potreban odmor za oporavak.",
+        "translation": "වෙහෙසකර පුහුණුවකින් පසු ශරීරය යථා තත්ත්වයට පත්වීමට විවේකය අවශ්‍යයි.",
+        "exampleReading": "после напорног тренинга телу је потребан одмор за опоравак."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -4281,65 +4281,65 @@ const serbianB1Lessons = [
         "word": "tradicija",
         "reading": "ත්‍රාදිත්සියා",
         "meaning": "සම්ප්‍රදාය",
-        "example": "Ovaj običaj se prenosi sa generacije na generaciju.",
-        "translation": "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා.",
-        "exampleReading": "ඔවායි ඔබිචායි සෙ ප්‍රෙනොසි සා ජෙනෙරාත්සියේ නා ජෙනෙරාත්සියු."
+        "example": "U našoj porodici postoji tradicija zajedničkog ručka nedeljom.",
+        "translation": "අපේ පවුලේ ඉරිදා එකට දිවා ආහාරය ගැනීමේ සම්ප්‍රදායක් තිබෙනවා.",
+        "exampleReading": "у нашој породици постоји традиција заједничког ручка недељом."
       },
       {
         "word": "običaj",
         "reading": "ඔබිචායි",
         "meaning": "චාරිත්‍රය",
-        "example": "Ovaj običaj se prenosi sa generacije na generaciju.",
-        "translation": "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා.",
-        "exampleReading": "ඔවායි ඔබිචායි සෙ ප්‍රෙනොසි සා ජෙනෙරාත්සියේ නා ජෙනෙරාත්සියු."
+        "example": "U Srbiji je običaj da se gostima ponudi kafa.",
+        "translation": "සර්බියාවේ අමුත්තන්ට කෝපි පිරිනැමීම සිරිතක්.",
+        "exampleReading": "у србији је обичај да се гостима понуди кафа."
       },
       {
         "word": "nasleđe",
         "reading": "නාස්ලෙජෙ",
         "meaning": "උරුමය",
-        "example": "Možemo da napravimo plan i da ga prilagodimo situaciji.",
-        "translation": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි.",
-        "exampleReading": "මොෂෙමො ද නප්‍රාවිමො ප්ලාන් ඉ ද ගා ප්‍රිලාගොදිමො සිතුආත්සියි."
+        "example": "Stara tvrđava je važan deo kulturnog nasleđa grada.",
+        "translation": "පැරණි බලකොටුව නගරයේ සංස්කෘතික උරුමයේ වැදගත් කොටසක්.",
+        "exampleReading": "стара тврђава је важан део културног наслеђа града."
       },
       {
         "word": "generacija",
         "reading": "ජෙනෙරාත්සියා",
         "meaning": "පරම්පරාව",
-        "example": "Na osnovu iskustva, ovaj pristup može biti koristan.",
-        "translation": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි.",
-        "exampleReading": "නා ඔස්නොවු ඉස්කුස්ත්වා ඔවායි ප්‍රිස්තුප් මොෂෙ බිති කොරිස්තාන්."
+        "example": "Mlađa generacija često koristi nove načine komunikacije.",
+        "translation": "තරුණ පරම්පරාව බොහෝවිට සන්නිවේදනයේ නව ක්‍රම භාවිත කරනවා.",
+        "exampleReading": "млађа генерација често користи нове начине комуникације."
       },
       {
         "word": "proslava",
         "reading": "ප්‍රොස්ලාවා",
         "meaning": "උත්සවය",
-        "example": "Ovaj običaj se prenosi sa generacije na generaciju.",
-        "translation": "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා.",
-        "exampleReading": "ඔවායි ඔබිචායි සෙ ප්‍රෙනොසි සා ජෙනෙරාත්සියේ නා ජෙනෙරාත්සියු."
+        "example": "Porodična proslava počinje u subotu uveče.",
+        "translation": "පවුලේ උත්සවය සෙනසුරාදා සවස ආරම්භ වෙනවා.",
+        "exampleReading": "породична прослава почиње у суботу увече."
       },
       {
         "word": "nošnja",
         "reading": "නොෂ්න්යා",
         "meaning": "සාම්ප්‍රදායික ඇඳුම",
-        "example": "Važno je da razmotrimo sve dostupne mogućnosti.",
-        "translation": "ලබාගත හැකි සියලු විකල්ප සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද රාස්මොත්‍රිමො ස්වෙ දොස්තුප්නෙ මොගුච්නොස්ති."
+        "example": "Na festivalu su učesnici nosili tradicionalnu narodnu nošnju.",
+        "translation": "උත්සවයේදී සහභාගිවූවන් සාම්ප්‍රදායික ජන ඇඳුම් ඇඳ සිටියා.",
+        "exampleReading": "на фестивалу су учесници носили традиционалну народну ношњу."
       },
       {
         "word": "uticaj",
         "reading": "උතිත්සායි",
         "meaning": "බලපෑම",
-        "example": "Možemo da napravimo plan i da ga prilagodimo situaciji.",
-        "translation": "අපට සැලැස්මක් සකස් කර තත්ත්වයට අනුව වෙනස් කළ හැකියි.",
-        "exampleReading": "මොෂෙමො ද නප්‍රාවිමො ප්ලාන් ඉ ද ගා ප්‍රිලාගොදිමො සිතුආත්සියි."
+        "example": "Porodica ima veliki uticaj na razvoj deteta.",
+        "translation": "දරුවෙකුගේ වර්ධනයට පවුලෙන් විශාල බලපෑමක් ඇති වෙනවා.",
+        "exampleReading": "породица има велики утицај на развој детета."
       },
       {
         "word": "identitet",
         "reading": "ඉදෙන්තිතෙත්",
         "meaning": "අනන්‍යතාව",
-        "example": "Na osnovu iskustva, ovaj pristup može biti koristan.",
-        "translation": "අත්දැකීම් අනුව මේ ක්‍රමය ප්‍රයෝජනවත් විය හැකියි.",
-        "exampleReading": "නා ඔස්නොවු ඉස්කුස්ත්වා ඔවායි ප්‍රිස්තුප් මොෂෙ බිති කොරිස්තාන්."
+        "example": "Jezik je važan deo ličnog i kulturnog identiteta.",
+        "translation": "භාෂාව පුද්ගලික හා සංස්කෘතික අනන්‍යතාවයේ වැදගත් කොටසක්.",
+        "exampleReading": "језик је важан део личног и културног идентитета."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
