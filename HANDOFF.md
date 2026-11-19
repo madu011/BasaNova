@@ -874,3 +874,17 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 2. Review pronunciation guides for the newly edited dialogue lines; do not treat source-level checks as proof of pronunciation quality.
 3. Check the Expo validation and Android APK build runs triggered by commits `bc0646a` and `d23b5fa`; only share an APK link if a successful artifact is confirmed.
 4. Continue auditing repeated practice/dialogue patterns in lessons 11–30.
+
+
+## 2026-11-19 — B1 lessons 31–50 topic-specific examples
+- Replaced the four repeated/generic example sentences in each of Serbian and English lessons 31–50 with the lesson's new topic-specific dialogue sentences and matching Sinhala meanings.
+- Updated the eight vocabulary example/translation references in each paired lesson so they point to the new topic-specific sentences rather than generic repeated examples.
+- Updated pronunciation-reading fields with approximate learner guides; these are not a substitute for native-speaker pronunciation review.
+- Serbian examples commit: `f3d1cd7abce47dd038d661d56e8abdf5f5bb5e0d`.
+- English examples commit: `35a61fe7ab5d6920dc74e369041fb12c150279eb`.
+- Local checks confirm 4 distinct examples in each of 40 files (20 paired lessons) and populated vocabulary example/translation references.
+
+### Next exact task
+1. Audit the revised Serbian/English B1 lesson 31–50 pronunciation guides and Sinhala translations for naturalness and accuracy.
+2. Check CI for the latest commits and confirm whether the standalone APK artifact was successfully produced; physical Android installation is still outstanding.
+3. Audit B1 lessons 11–30 for repeated dialogue and generic examples, then continue lesson-by-lesson QA.
