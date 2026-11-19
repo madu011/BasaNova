@@ -5351,7 +5351,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "ඔත්ක්‍රිචෙ",
         "meaning": "සොයාගැනීම",
         "example": "A: Naučna otkrića menjaju način na koji razumemo svet.",
-        "translation": "Scientific discoveries change how we understand the world.",
+        "translation": "විද්‍යාත්මක සොයාගැනීම් ලෝකය තේරුම් ගන්නා ආකාරය වෙනස් කරනවා.",
         "exampleReading": "а: научна открича мэньайу начин на койи разумэмо свэт."
       },
       {
@@ -5383,7 +5383,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "දොකාස්",
         "meaning": "සාක්ෂිය",
         "example": "A: Naučna otkrića menjaju način na koji razumemo svet.",
-        "translation": "Scientific discoveries change how we understand the world.",
+        "translation": "විද්‍යාත්මක සොයාගැනීම් ලෝකය තේරුම් ගන්නා ආකාරය වෙනස් කරනවා.",
         "exampleReading": "а: научна открича мэньайу начин на койи разумэмо свэт."
       },
       {
@@ -5529,7 +5529,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "ප්‍රාවො",
         "meaning": "අයිතිය",
         "example": "A: Svako ima prava i odgovornosti prema drugima.",
-        "translation": "Everyone has rights and responsibilities towards others.",
+        "translation": "සෑම කෙනෙකුටම අන් අය සම්බන්ධයෙන් අයිතිවාසිකම් සහ වගකීම් තිබෙනවා.",
         "exampleReading": "а: свако има права и одговорности прэма другима."
       },
       {
@@ -5561,7 +5561,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "දොස්වොලා",
         "meaning": "අවසරය",
         "example": "A: Svako ima prava i odgovornosti prema drugima.",
-        "translation": "Everyone has rights and responsibilities towards others.",
+        "translation": "සෑම කෙනෙකුටම අන් අය සම්බන්ධයෙන් අයිතිවාසිකම් සහ වගකීම් තිබෙනවා.",
         "exampleReading": "а: свако има права и одговорности прэма другима."
       },
       {
@@ -5707,7 +5707,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "ක්‍රෙඅතිව්නොස්ත්",
         "meaning": "නිර්මාණශීලීත්වය",
         "example": "A: Umetnost nam omogućava da izrazimo osećanja na različite načine.",
-        "translation": "Art allows us to express feelings in different ways.",
+        "translation": "කලාව අපගේ හැඟීම් විවිධ ආකාරවලින් ප්‍රකාශ කිරීමට ඉඩ සලසනවා.",
         "exampleReading": "а: умэтност нам омогучава да изразимо осэчаньа на различитэ начинэ."
       },
       {
@@ -5739,7 +5739,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "ඉන්ස්පිරාත්සියා",
         "meaning": "ආභාසය",
         "example": "A: Umetnost nam omogućava da izrazimo osećanja na različite načine.",
-        "translation": "Art allows us to express feelings in different ways.",
+        "translation": "කලාව අපගේ හැඟීම් විවිධ ආකාරවලින් ප්‍රකාශ කිරීමට ඉඩ සලසනවා.",
         "exampleReading": "а: умэтност нам омогучава да изразимо осэчаньа на различитэ начинэ."
       },
       {
@@ -5885,7 +5885,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "එකොනොමියා",
         "meaning": "ආර්ථිකය",
         "example": "A: Tržište rada se menja zbog novih veština i tehnologije.",
-        "translation": "The job market is changing because of new skills and technology.",
+        "translation": "නව කුසලතා සහ තාක්ෂණය නිසා රැකියා වෙළඳපොළ වෙනස් වෙමින් පවතිනවා.",
         "exampleReading": "а: тржиштэ рада сэ мэньа због нових вэштина и тэхнологийэ."
       },
       {
@@ -5917,7 +5917,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "ප්ලාතා",
         "meaning": "වැටුප",
         "example": "A: Tržište rada se menja zbog novih veština i tehnologije.",
-        "translation": "The job market is changing because of new skills and technology.",
+        "translation": "නව කුසලතා සහ තාක්ෂණය නිසා රැකියා වෙළඳපොළ වෙනස් වෙමින් පවතිනවා.",
         "exampleReading": "а: тржиштэ рада сэ мэньа због нових вэштина и тэхнологийэ."
       },
       {
@@ -6063,7 +6063,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "කිරියා",
         "meaning": "කුලිය",
         "example": "A: Pre potpisivanja ugovora treba pažljivo proveriti uslove.",
-        "translation": "Before signing a contract, we should check the conditions carefully.",
+        "translation": "ගිවිසුම අත්සන් කිරීමට පෙර කොන්දේසි හොඳින් පරීක්ෂා කළ යුතුයි.",
         "exampleReading": "а: прэ потписиваньа уговора трэба пажльиво провэрити условэ."
       },
       {
@@ -6095,7 +6095,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "දෙපොසිත්",
         "meaning": "තැන්පතුව",
         "example": "A: Pre potpisivanja ugovora treba pažljivo proveriti uslove.",
-        "translation": "Before signing a contract, we should check the conditions carefully.",
+        "translation": "ගිවිසුම අත්සන් කිරීමට පෙර කොන්දේසි හොඳින් පරීක්ෂා කළ යුතුයි.",
         "exampleReading": "а: прэ потписиваньа уговора трэба пажльиво провэрити условэ."
       },
       {
@@ -6241,7 +6241,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "ඉන්ෆ්‍රාස්ත්‍රුක්තුරා",
         "meaning": "යටිතල පහසුකම්",
         "example": "A: Pouzdan javni prevoz može da smanji gužvu u gradu.",
-        "translation": "Reliable public transport can reduce congestion in a city.",
+        "translation": "විශ්වාසදායක පොදු ප්‍රවාහනයට නගරයේ තදබදය අඩු කළ හැකියි.",
         "exampleReading": "а: поуздан йавни прэвоз можэ да сманьи гужву у граду."
       },
       {
@@ -6273,7 +6273,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "පොඋස්දාන්",
         "meaning": "විශ්වාසදායක",
         "example": "A: Pouzdan javni prevoz može da smanji gužvu u gradu.",
-        "translation": "Reliable public transport can reduce congestion in a city.",
+        "translation": "විශ්වාසදායක පොදු ප්‍රවාහනයට නගරයේ තදබදය අඩු කළ හැකියි.",
         "exampleReading": "а: поуздан йавни прэвоз можэ да сманьи гужву у граду."
       },
       {
@@ -6419,7 +6419,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "ක්ලිමා",
         "meaning": "දේශගුණය",
         "example": "A: Klimatske promene zahtevaju dugoročna i zajednička rešenja.",
-        "translation": "Climate change requires long-term and shared solutions.",
+        "translation": "දේශගුණික විපර්යාස සඳහා දිගුකාලීන සහ සාමූහික විසඳුම් අවශ්‍යයි.",
         "exampleReading": "а: климатскэ промэнэ захтэвайу дугорочна и зайэдничка рэшэньа."
       },
       {
@@ -6451,7 +6451,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "සුෂා",
         "meaning": "නියඟය",
         "example": "A: Klimatske promene zahtevaju dugoročna i zajednička rešenja.",
-        "translation": "Climate change requires long-term and shared solutions.",
+        "translation": "දේශගුණික විපර්යාස සඳහා දිගුකාලීන සහ සාමූහික විසඳුම් අවශ්‍යයි.",
         "exampleReading": "а: климатскэ промэнэ захтэвайу дугорочна и зайэдничка рэшэньа."
       },
       {
@@ -6597,7 +6597,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "ඉස්හ්‍රානා",
         "meaning": "පෝෂණය",
         "example": "A: Način ishrane često odražava kulturu i tradiciju porodice.",
-        "translation": "Eating habits often reflect a family's culture and tradition.",
+        "translation": "ආහාර ගැනීමේ රටාව බොහෝවිට පවුලේ සංස්කෘතිය සහ සම්ප්‍රදාය පිළිබිඹු කරනවා.",
         "exampleReading": "а: начин исхранэ чэсто одражава културу и традицийу породицэ."
       },
       {
@@ -6629,7 +6629,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "ඉස්හ්‍රානා",
         "meaning": "ආහාර රටාව",
         "example": "A: Način ishrane često odražava kulturu i tradiciju porodice.",
-        "translation": "Eating habits often reflect a family's culture and tradition.",
+        "translation": "ආහාර ගැනීමේ රටාව බොහෝවිට පවුලේ සංස්කෘතිය සහ සම්ප්‍රදාය පිළිබිඹු කරනවා.",
         "exampleReading": "а: начин исхранэ чэсто одражава културу и традицийу породицэ."
       },
       {
@@ -6775,7 +6775,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "ත්සිල්ය්",
         "meaning": "ඉලක්කය",
         "example": "A: Postavljanje jasnih ciljeva pomaže nam da pratimo napredak.",
-        "translation": "Setting clear goals helps us track our progress.",
+        "translation": "පැහැදිලි ඉලක්ක තැබීම අපගේ ප්‍රගතිය නිරීක්ෂණය කිරීමට උපකාරී වෙනවා.",
         "exampleReading": "а: поставльаньэ йасних цильэва помажэ нам да пратимо напрэдак."
       },
       {
@@ -6807,7 +6807,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "පොස්තිචි",
         "meaning": "ළඟා වෙනවා",
         "example": "A: Postavljanje jasnih ciljeva pomaže nam da pratimo napredak.",
-        "translation": "Setting clear goals helps us track our progress.",
+        "translation": "පැහැදිලි ඉලක්ක තැබීම අපගේ ප්‍රගතිය නිරීක්ෂණය කිරීමට උපකාරී වෙනවා.",
         "exampleReading": "а: поставльаньэ йасних цильэва помажэ нам да пратимо напрэдак."
       },
       {
@@ -6953,7 +6953,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "රෙසෙර්වාත්සියා",
         "meaning": "වෙන්කිරීම",
         "example": "A: Ako usluga ne odgovara rezervaciji, možemo zatražiti rešenje.",
-        "translation": "If the service does not match the booking, we can request a solution.",
+        "translation": "සේවාව වෙන්කිරීමට ගැළපෙන්නේ නැත්නම් අපට විසඳුමක් ඉල්ලා සිටිය හැකියි.",
         "exampleReading": "а: ако услуга нэ одговара рэзэрвацийи, можэмо затражити рэшэньэ."
       },
       {
@@ -6985,7 +6985,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "පොත්ව්ර්දා",
         "meaning": "තහවුරු කිරීම",
         "example": "A: Ako usluga ne odgovara rezervaciji, možemo zatražiti rešenje.",
-        "translation": "If the service does not match the booking, we can request a solution.",
+        "translation": "සේවාව වෙන්කිරීමට ගැළපෙන්නේ නැත්නම් අපට විසඳුමක් ඉල්ලා සිටිය හැකියි.",
         "exampleReading": "а: ако услуга нэ одговара рэзэрвацийи, можэмо затражити рэшэньэ."
       },
       {
@@ -7131,7 +7131,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "ගොවොර තෙලා",
         "meaning": "ශරීර භාෂාව",
         "example": "A: Jasna komunikacija zavisi od reči i načina na koji ih izgovaramo.",
-        "translation": "Clear communication depends on words and the way we say them.",
+        "translation": "පැහැදිලි සන්නිවේදනය වචන සහ ඒවා කියන ආකාරය මත රඳා පවතිනවා.",
         "exampleReading": "а: йасна комуникацийа зависи од рэчи и начина на койи их изговарамо."
       },
       {
@@ -7163,7 +7163,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "නෙස්පොරසුම්",
         "meaning": "වැරදි අවබෝධය",
         "example": "A: Jasna komunikacija zavisi od reči i načina na koji ih izgovaramo.",
-        "translation": "Clear communication depends on words and the way we say them.",
+        "translation": "පැහැදිලි සන්නිවේදනය වචන සහ ඒවා කියන ආකාරය මත රඳා පවතිනවා.",
         "exampleReading": "а: йасна комуникацийа зависи од рэчи и начина на койи их изговарамо."
       },
       {
@@ -7309,7 +7309,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "ප්‍රිවාත්නොස්ත්",
         "meaning": "පෞද්ගලිකත්වය",
         "example": "A: Pre objavljivanja fotografije treba poštovati privatnost drugih.",
-        "translation": "Before posting a photo, we should respect other people's privacy.",
+        "translation": "ඡායාරූපයක් පළ කිරීමට පෙර අන් අයගේ පෞද්ගලිකත්වයට ගරු කළ යුතුයි.",
         "exampleReading": "а: прэ обйавльиваньа фотографийэ трэба поштовати приватност других."
       },
       {
@@ -7341,7 +7341,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "දෙසින්ෆොර්මාත්සියා",
         "meaning": "වැරදි තොරතුරු",
         "example": "A: Pre objavljivanja fotografije treba poštovati privatnost drugih.",
-        "translation": "Before posting a photo, we should respect other people's privacy.",
+        "translation": "ඡායාරූපයක් පළ කිරීමට පෙර අන් අයගේ පෞද්ගලිකත්වයට ගරු කළ යුතුයි.",
         "exampleReading": "а: прэ обйавльиваньа фотографийэ трэба поштовати приватност других."
       },
       {
@@ -7487,7 +7487,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "ප්‍රියොරිතෙත්",
         "meaning": "ප්‍රමුඛතාව",
         "example": "A: Kada odredimo prioritete, lakše završavamo važne zadatke.",
-        "translation": "When we set priorities, we finish important tasks more easily.",
+        "translation": "ප්‍රමුඛතා තීරණය කළ විට වැදගත් කාර්යයන් පහසුවෙන් අවසන් කළ හැකියි.",
         "exampleReading": "а: када одрэдимо приоритэтэ, лакшэ завршавамо важнэ задаткэ."
       },
       {
@@ -7519,7 +7519,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "උස්‍රෙද්ස්‍රෙජෙනොස්ත්",
         "meaning": "අවධානය",
         "example": "A: Kada odredimo prioritete, lakše završavamo važne zadatke.",
-        "translation": "When we set priorities, we finish important tasks more easily.",
+        "translation": "ප්‍රමුඛතා තීරණය කළ විට වැදගත් කාර්යයන් පහසුවෙන් අවසන් කළ හැකියි.",
         "exampleReading": "а: када одрэдимо приоритэтэ, лакшэ завршавамо важнэ задаткэ."
       },
       {
@@ -7665,7 +7665,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "කුල්තුරා",
         "meaning": "සංස්කෘතිය",
         "example": "A: Poštovanje različitih običaja pomaže ljudima da sarađuju.",
-        "translation": "Respecting different customs helps people work together.",
+        "translation": "විවිධ චාරිත්‍රවලට ගරු කිරීම මිනිසුන්ට සහයෝගයෙන් කටයුතු කිරීමට උපකාරී වෙනවා.",
         "exampleReading": "а: поштованьэ различитих обичайа помажэ льудима да сараджуйу."
       },
       {
@@ -7697,7 +7697,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "පොෂ්තොවාන්යේ",
         "meaning": "ගෞරවය",
         "example": "A: Poštovanje različitih običaja pomaže ljudima da sarađuju.",
-        "translation": "Respecting different customs helps people work together.",
+        "translation": "විවිධ චාරිත්‍රවලට ගරු කිරීම මිනිසුන්ට සහයෝගයෙන් කටයුතු කිරීමට උපකාරී වෙනවා.",
         "exampleReading": "а: поштованьэ различитих обичайа помажэ льудима да сараджуйу."
       },
       {
@@ -7843,7 +7843,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "ප්‍රෙදුසෙත්නික්",
         "meaning": "ව්‍යවසායකයා",
         "example": "A: Dobar poslovni plan uzima u obzir potrebe kupaca.",
-        "translation": "A good business plan takes customers' needs into account.",
+        "translation": "හොඳ ව්‍යාපාර සැලැස්මක් පාරිභෝගිකයන්ගේ අවශ්‍යතා සැලකිල්ලට ගන්නවා.",
         "exampleReading": "а: добар пословни план узима у обзир потрэбэ купаца."
       },
       {
@@ -7875,7 +7875,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "දොබිත්",
         "meaning": "ලාභය",
         "example": "A: Dobar poslovni plan uzima u obzir potrebe kupaca.",
-        "translation": "A good business plan takes customers' needs into account.",
+        "translation": "හොඳ ව්‍යාපාර සැලැස්මක් පාරිභෝගිකයන්ගේ අවශ්‍යතා සැලකිල්ලට ගන්නවා.",
         "exampleReading": "а: добар пословни план узима у обзир потрэбэ купаца."
       },
       {
@@ -8021,7 +8021,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "ඉස්වෙෂ්තායි",
         "meaning": "වාර්තාව",
         "example": "A: Izveštaj treba jasno da predstavi podatke i zaključke.",
-        "translation": "A report should present the data and conclusions clearly.",
+        "translation": "වාර්තාවක දත්ත සහ නිගමන පැහැදිලිව ඉදිරිපත් කළ යුතුයි.",
         "exampleReading": "а: извэштай трэба йасно да прэдстави податкэ и закльучкэ."
       },
       {
@@ -8053,7 +8053,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "පොවෙචාන්යේ",
         "meaning": "වැඩිවීම",
         "example": "A: Izveštaj treba jasno da predstavi podatke i zaključke.",
-        "translation": "A report should present the data and conclusions clearly.",
+        "translation": "වාර්තාවක දත්ත සහ නිගමන පැහැදිලිව ඉදිරිපත් කළ යුතුයි.",
         "exampleReading": "а: извэштай трэба йасно да прэдстави податкэ и закльучкэ."
       },
       {
@@ -8199,7 +8199,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "රාස්ප්‍රාවා",
         "meaning": "විවාදය",
         "example": "A: Javna rasprava pomaže da razumemo različita mišljenja.",
-        "translation": "Public debate helps us understand different opinions.",
+        "translation": "පොදු විවාදය විවිධ අදහස් තේරුම් ගැනීමට උපකාරී වෙනවා.",
         "exampleReading": "а: йавна расправа помажэ да разумэмо различита мишльэньа."
       },
       {
@@ -8231,7 +8231,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "ප්‍රොතිවාර්ගුමෙන්ත්",
         "meaning": "ප්‍රතිතර්කය",
         "example": "A: Javna rasprava pomaže da razumemo različita mišljenja.",
-        "translation": "Public debate helps us understand different opinions.",
+        "translation": "පොදු විවාදය විවිධ අදහස් තේරුම් ගැනීමට උපකාරී වෙනවා.",
         "exampleReading": "а: йавна расправа помажэ да разумэмо различита мишльэньа."
       },
       {
@@ -8377,7 +8377,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "ස්ලොෂෙන්",
         "meaning": "සංකීර්ණ",
         "example": "A: Pre izbora rešenja treba proceniti moguće posledice.",
-        "translation": "Before choosing a solution, we should evaluate possible consequences.",
+        "translation": "විසඳුමක් තෝරාගැනීමට පෙර ඇතිවිය හැකි ප්‍රතිවිපාක ඇගයිය යුතුයි.",
         "exampleReading": "а: прэ избора рэшэньа трэба процэнити могучэ послэдицэ."
       },
       {
@@ -8409,7 +8409,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "රිසික්",
         "meaning": "අවදානම",
         "example": "A: Pre izbora rešenja treba proceniti moguće posledice.",
-        "translation": "Before choosing a solution, we should evaluate possible consequences.",
+        "translation": "විසඳුමක් තෝරාගැනීමට පෙර ඇතිවිය හැකි ප්‍රතිවිපාක ඇගයිය යුතුයි.",
         "exampleReading": "а: прэ избора рэшэньа трэба процэнити могучэ послэдицэ."
       },
       {
@@ -8555,7 +8555,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "ප්‍රොග්නොසා",
         "meaning": "අනාවැකිය",
         "example": "A: Fleksibilan plan pomaže nam da se prilagodimo promenama.",
-        "translation": "A flexible plan helps us adapt to changes.",
+        "translation": "නම්‍යශීලී සැලැස්මක් වෙනස්කම්වලට හැඩගැසීමට අපට උපකාරී වෙනවා.",
         "exampleReading": "а: флэксибилан план помажэ нам да сэ прилагодимо промэнама."
       },
       {
@@ -8587,7 +8587,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "නෙඉස්වෙස්නොස්ත්",
         "meaning": "අනිශ්චිතභාවය",
         "example": "A: Fleksibilan plan pomaže nam da se prilagodimo promenama.",
-        "translation": "A flexible plan helps us adapt to changes.",
+        "translation": "නම්‍යශීලී සැලැස්මක් වෙනස්කම්වලට හැඩගැසීමට අපට උපකාරී වෙනවා.",
         "exampleReading": "а: флэксибилан план помажэ нам да сэ прилагодимо промэнама."
       },
       {
@@ -8733,7 +8733,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "උවොද්",
         "meaning": "හැඳින්වීම",
         "example": "A: Jasno izlaganje povezuje primere, razloge i zaključak.",
-        "translation": "A clear presentation connects examples, reasons and a conclusion.",
+        "translation": "පැහැදිලි ඉදිරිපත් කිරීමක් උදාහරණ, හේතු සහ නිගමනය එකට සම්බන්ධ කරනවා.",
         "exampleReading": "а: йасно излаганьэ повэзуйэ примэрэ, разлогэ и закльучак."
       },
       {
@@ -8765,7 +8765,7 @@ export const SERBIAN_B1_LESSONS = [
         "reading": "ස්ත්‍රුක්තුරා",
         "meaning": "ව්‍යුහය",
         "example": "A: Jasno izlaganje povezuje primere, razloge i zaključak.",
-        "translation": "A clear presentation connects examples, reasons and a conclusion.",
+        "translation": "පැහැදිලි ඉදිරිපත් කිරීමක් උදාහරණ, හේතු සහ නිගමනය එකට සම්බන්ධ කරනවා.",
         "exampleReading": "а: йасно излаганьэ повэзуйэ примэрэ, разлогэ и закльучак."
       },
       {
