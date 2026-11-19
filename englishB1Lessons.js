@@ -5465,8 +5465,8 @@ export const ENGLISH_B1_LESSONS = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Listen and choose the meaning: සයන්ටිෆික් ඩිස්කවරිස් චේන්ජ් හව් වී අන්ඩර්ස්ටෑන්ඩ් දි වර්ල්ඩ්.",
-      "audio": "සයන්ටිෆික් ඩිස්කවරිස් චේන්ජ් හව් වී අන්ඩර්ස්ටෑන්ඩ් දි වර්ල්ඩ්.",
+      "prompt": "Listen and choose the meaning: Scientific discoveries change how we understand the world.",
+      "audio": "Scientific discoveries change how we understand the world.",
       "reading": "Passive voice and present perfect for discoveries.",
       "options": [
         "Scientific discoveries change how we understand the world.",
@@ -5643,8 +5643,8 @@ export const ENGLISH_B1_LESSONS = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Listen and choose the meaning: එව්රිවන් හැස් රයිට්ස් ඇන්ඩ් රිස්පොන්සිබිලිටීස් ටුවර්ඩ්ස් අදර්ස්.",
-      "audio": "එව්රිවන් හැස් රයිට්ස් ඇන්ඩ් රිස්පොන්සිබිලිටීස් ටුවර්ඩ්ස් අදර්ස්.",
+      "prompt": "Listen and choose the meaning: Everyone has rights and responsibilities towards others.",
+      "audio": "Everyone has rights and responsibilities towards others.",
       "reading": "Modal verbs and conditional clauses for obligations.",
       "options": [
         "Everyone has rights and responsibilities towards others.",
@@ -5821,8 +5821,8 @@ export const ENGLISH_B1_LESSONS = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Listen and choose the meaning: ආර්ට් අලවුස් අස් ටු එක්ස්ප්‍රෙස් ෆීලිංස් ඉන් ඩිෆරන්ට් වේස්.",
-      "audio": "ආර්ට් අලවුස් අස් ටු එක්ස්ප්‍රෙස් ෆීලිංස් ඉන් ඩිෆරන්ට් වේස්.",
+      "prompt": "Listen and choose the meaning: Art allows us to express feelings in different ways.",
+      "audio": "Art allows us to express feelings in different ways.",
       "reading": "Relative clauses and descriptive adjectives.",
       "options": [
         "Art allows us to express feelings in different ways.",
@@ -5999,8 +5999,8 @@ export const ENGLISH_B1_LESSONS = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Listen and choose the meaning: දි ජොබ් මාර්කට් ඉස් චේන්ජිං බිකෝස් ඔෆ් න්‍යූ ස්කිල්ස් ඇන්ඩ් ටෙක්නොලජි.",
-      "audio": "දි ජොබ් මාර්කට් ඉස් චේන්ජිං බිකෝස් ඔෆ් න්‍යූ ස්කිල්ස් ඇන්ඩ් ටෙක්නොලජි.",
+      "prompt": "Listen and choose the meaning: The job market is changing because of new skills and technology.",
+      "audio": "The job market is changing because of new skills and technology.",
       "reading": "Comparatives, trends and cause-effect connectors.",
       "options": [
         "The job market is changing because of new skills and technology.",
@@ -6177,8 +6177,8 @@ export const ENGLISH_B1_LESSONS = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Listen and choose the meaning: බිෆෝර් සයිනින් අ කොන්ට්‍රැක්ට් වී ෂුඩ් චෙක් දි කන්ඩිෂන්ස් කෙයර්ෆුලි.",
-      "audio": "බිෆෝර් සයිනින් අ කොන්ට්‍රැක්ට් වී ෂුඩ් චෙක් දි කන්ඩිෂන්ස් කෙයර්ෆුලි.",
+      "prompt": "Listen and choose the meaning: Before signing a contract, we should check the conditions carefully.",
+      "audio": "Before signing a contract, we should check the conditions carefully.",
       "reading": "Need to, should have and before/after clauses.",
       "options": [
         "Before signing a contract, we should check the conditions carefully.",
@@ -6355,8 +6355,8 @@ export const ENGLISH_B1_LESSONS = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Listen and choose the meaning: රිලයබල් පබ්ලික් ට්‍රාන්ස්පෝට් කෑන් රිඩියූස් කන්ජෙස්චන් ඉන් අ සිටි.",
-      "audio": "රිලයබල් පබ්ලික් ට්‍රාන්ස්පෝට් කෑන් රිඩියූස් කන්ජෙස්චන් ඉන් අ සිටි.",
+      "prompt": "Listen and choose the meaning: Reliable public transport can reduce congestion in a city.",
+      "audio": "Reliable public transport can reduce congestion in a city.",
       "reading": "Passive voice and modal verbs for public services.",
       "options": [
         "Reliable public transport can reduce congestion in a city.",
@@ -6533,8 +6533,8 @@ export const ENGLISH_B1_LESSONS = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Listen and choose the meaning: ක්ලයිමට් චේන්ජ් රික්වයර්ස් ලෝන්ග් ටර්ම් ඇන්ඩ් ෂෙයර්ඩ් සලූෂන්ස්.",
-      "audio": "ක්ලයිමට් චේන්ජ් රික්වයර්ස් ලෝන්ග් ටර්ම් ඇන්ඩ් ෂෙයර්ඩ් සලූෂන්ස්.",
+      "prompt": "Listen and choose the meaning: Climate change requires long-term and shared solutions.",
+      "audio": "Climate change requires long-term and shared solutions.",
       "reading": "Future forms and expressions of necessity and consequence.",
       "options": [
         "Climate change requires long-term and shared solutions.",
@@ -6711,8 +6711,8 @@ export const ENGLISH_B1_LESSONS = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Listen and choose the meaning: ඊටින් හැබිට්ස් ඔෆන් රිෆ්ලෙක්ට් අ ෆැමිලිස් කල්චර් ඇන්ඩ් ට්‍රඩිෂන්.",
-      "audio": "ඊටින් හැබිට්ස් ඔෆන් රිෆ්ලෙක්ට් අ ෆැමිලිස් කල්චර් ඇන්ඩ් ට්‍රඩිෂන්.",
+      "prompt": "Listen and choose the meaning: Eating habits often reflect a family's culture and tradition.",
+      "audio": "Eating habits often reflect a family's culture and tradition.",
       "reading": "Frequency adverbs and relative clauses.",
       "options": [
         "Eating habits often reflect a family's culture and tradition.",
@@ -6889,8 +6889,8 @@ export const ENGLISH_B1_LESSONS = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Listen and choose the meaning: සෙටින් ක්ලියර් ගෝල්ස් හෙල්ප්ස් අස් ට්‍රැක් අවර් ප්‍රොග්‍රෙස්.",
-      "audio": "සෙටින් ක්ලියර් ගෝල්ස් හෙල්ප්ස් අස් ට්‍රැක් අවර් ප්‍රොග්‍රෙස්.",
+      "prompt": "Listen and choose the meaning: Setting clear goals helps us track our progress.",
+      "audio": "Setting clear goals helps us track our progress.",
       "reading": "Infinitives and future perfect for targets and deadlines.",
       "options": [
         "Setting clear goals helps us track our progress.",
@@ -7067,8 +7067,8 @@ export const ENGLISH_B1_LESSONS = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Listen and choose the meaning: ඉෆ් දි සර්විස් ඩස් නොට් මැච් දි බුකින් වී කෑන් රික්වෙස්ට් අ සලූෂන්.",
-      "audio": "ඉෆ් දි සර්විස් ඩස් නොට් මැච් දි බුකින් වී කෑන් රික්වෙස්ට් අ සලූෂන්.",
+      "prompt": "Listen and choose the meaning: If the service does not match the booking, we can request a solution.",
+      "audio": "If the service does not match the booking, we can request a solution.",
       "reading": "Conditionals and polite indirect requests.",
       "options": [
         "If the service does not match the booking, we can request a solution.",
@@ -7245,8 +7245,8 @@ export const ENGLISH_B1_LESSONS = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Listen and choose the meaning: ක්ලියර් කමියුනිකේෂන් ඩිපෙන්ඩ්ස් ඔන් වර්ඩ්ස් ඇන්ඩ් දි වේ වී සේ දෙම්.",
-      "audio": "ක්ලියර් කමියුනිකේෂන් ඩිපෙන්ඩ්ස් ඔන් වර්ඩ්ස් ඇන්ඩ් දි වේ වී සේ දෙම්.",
+      "prompt": "Listen and choose the meaning: Clear communication depends on words and the way we say them.",
+      "audio": "Clear communication depends on words and the way we say them.",
       "reading": "Reported speech and adverbs describing communication.",
       "options": [
         "Clear communication depends on words and the way we say them.",
@@ -7423,8 +7423,8 @@ export const ENGLISH_B1_LESSONS = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Listen and choose the meaning: බිෆෝර් පෝස්ටින් අ ෆෝටෝ වී ෂුඩ් රිස්පෙක්ට් අදර් පීපල්ස් ප්‍රයිවසි.",
-      "audio": "බිෆෝර් පෝස්ටින් අ ෆෝටෝ වී ෂුඩ් රිස්පෙක්ට් අදර් පීපල්ස් ප්‍රයිවසි.",
+      "prompt": "Listen and choose the meaning: Before posting a photo, we should respect other people's privacy.",
+      "audio": "Before posting a photo, we should respect other people's privacy.",
       "reading": "Should, ought to and relative clauses for responsible online behaviour.",
       "options": [
         "Before posting a photo, we should respect other people's privacy.",
@@ -7601,8 +7601,8 @@ export const ENGLISH_B1_LESSONS = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Listen and choose the meaning: වෙන් වී සෙට් ප්‍රයෝරිටීස් වී ෆිනිෂ් ඉම්පෝර්ටන්ට් ටාස්ක්ස් මෝර් ඊසිලි.",
-      "audio": "වෙන් වී සෙට් ප්‍රයෝරිටීස් වී ෆිනිෂ් ඉම්පෝර්ටන්ට් ටාස්ක්ස් මෝර් ඊසිලි.",
+      "prompt": "Listen and choose the meaning: When we set priorities, we finish important tasks more easily.",
+      "audio": "When we set priorities, we finish important tasks more easily.",
       "reading": "Time clauses, adverbs and gerunds for routines.",
       "options": [
         "When we set priorities, we finish important tasks more easily.",
@@ -7779,8 +7779,8 @@ export const ENGLISH_B1_LESSONS = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Listen and choose the meaning: රිස්පෙක්ටින් ඩිෆරන්ට් කස්ටම්ස් හෙල්ප්ස් පීපල් වර්ක් ටුගෙදර්.",
-      "audio": "රිස්පෙක්ටින් ඩිෆරන්ට් කස්ටම්ස් හෙල්ප්ස් පීපල් වර්ක් ටුගෙදර්.",
+      "prompt": "Listen and choose the meaning: Respecting different customs helps people work together.",
+      "audio": "Respecting different customs helps people work together.",
       "reading": "Contrast clauses and expressions of perspective.",
       "options": [
         "Respecting different customs helps people work together.",
@@ -7957,8 +7957,8 @@ export const ENGLISH_B1_LESSONS = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Listen and choose the meaning: අ ගුඩ් බිස්නස් ප්ලෑන් ටේක්ස් කස්ටමර්ස් නීඩ්ස් ඉන්ටු අකවුන්ට්.",
-      "audio": "අ ගුඩ් බිස්නස් ප්ලෑන් ටේක්ස් කස්ටමර්ස් නීඩ්ස් ඉන්ටු අකවුන්ට්.",
+      "prompt": "Listen and choose the meaning: A good business plan takes customers' needs into account.",
+      "audio": "A good business plan takes customers' needs into account.",
       "reading": "Purpose clauses and formal requests in business.",
       "options": [
         "A good business plan takes customers' needs into account.",
@@ -8135,8 +8135,8 @@ export const ENGLISH_B1_LESSONS = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Listen and choose the meaning: අ රිපෝර්ට් ෂුඩ් ප්‍රෙසෙන්ට් දි ඩේටා ඇන්ඩ් කන්ක්ලූෂන්ස් ක්ලියර්ලි.",
-      "audio": "අ රිපෝර්ට් ෂුඩ් ප්‍රෙසෙන්ට් දි ඩේටා ඇන්ඩ් කන්ක්ලූෂන්ස් ක්ලියර්ලි.",
+      "prompt": "Listen and choose the meaning: A report should present the data and conclusions clearly.",
+      "audio": "A report should present the data and conclusions clearly.",
       "reading": "Linking phrases, passive voice and cautious data interpretation.",
       "options": [
         "A report should present the data and conclusions clearly.",
@@ -8313,8 +8313,8 @@ export const ENGLISH_B1_LESSONS = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Listen and choose the meaning: පබ්ලික් ඩිබේට් හෙල්ප්ස් අස් අන්ඩර්ස්ටෑන්ඩ් ඩිෆරන්ට් ඔපීනියන්ස්.",
-      "audio": "පබ්ලික් ඩිබේට් හෙල්ප්ස් අස් අන්ඩර්ස්ටෑන්ඩ් ඩිෆරන්ට් ඔපීනියන්ස්.",
+      "prompt": "Listen and choose the meaning: Public debate helps us understand different opinions.",
+      "audio": "Public debate helps us understand different opinions.",
       "reading": "Reported speech, opinion phrases and concession clauses.",
       "options": [
         "Public debate helps us understand different opinions.",
@@ -8491,8 +8491,8 @@ export const ENGLISH_B1_LESSONS = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Listen and choose the meaning: බිෆෝර් චූසිං අ සලූෂන් වී ෂුඩ් ඉවැලුවේට් පොසිබල් කොන්සිකුවෙන්සිස්.",
-      "audio": "බිෆෝර් චූසිං අ සලූෂන් වී ෂුඩ් ඉවැලුවේට් පොසිබල් කොන්සිකුවෙන්සිස්.",
+      "prompt": "Listen and choose the meaning: Before choosing a solution, we should evaluate possible consequences.",
+      "audio": "Before choosing a solution, we should evaluate possible consequences.",
       "reading": "Conditionals, modal perfect and evaluation adjectives.",
       "options": [
         "Before choosing a solution, we should evaluate possible consequences.",
@@ -8669,8 +8669,8 @@ export const ENGLISH_B1_LESSONS = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Listen and choose the meaning: අ ෆ්ලෙක්සිබල් ප්ලෑන් හෙල්ප්ස් අස් අඩැප්ට් ටු චේන්ජස්.",
-      "audio": "අ ෆ්ලෙක්සිබල් ප්ලෑන් හෙල්ප්ස් අස් අඩැප්ට් ටු චේන්ජස්.",
+      "prompt": "Listen and choose the meaning: A flexible plan helps us adapt to changes.",
+      "audio": "A flexible plan helps us adapt to changes.",
       "reading": "Future continuous, future perfect and conditional planning.",
       "options": [
         "A flexible plan helps us adapt to changes.",
@@ -8847,8 +8847,8 @@ export const ENGLISH_B1_LESSONS = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Listen and choose the meaning: අ ක්ලියර් ප්‍රෙසෙන්ටේෂන් කනෙක්ට්ස් ඉග්සැම්පල්ස් රීසන්ස් ඇන්ඩ් අ කන්ක්ලූෂන්.",
-      "audio": "අ ක්ලියර් ප්‍රෙසෙන්ටේෂන් කනෙක්ට්ස් ඉග්සැම්පල්ස් රීසන්ස් ඇන්ඩ් අ කන්ක්ලූෂන්.",
+      "prompt": "Listen and choose the meaning: A clear presentation connects examples, reasons and a conclusion.",
+      "audio": "A clear presentation connects examples, reasons and a conclusion.",
       "reading": "Discourse markers for introductions, supporting points and conclusions.",
       "options": [
         "A clear presentation connects examples, reasons and a conclusion.",
