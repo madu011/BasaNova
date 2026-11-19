@@ -1,6 +1,6 @@
 // Structured English A1 starter lessons with Sinhala-script pronunciation.
 export const ENGLISH_A1_LESSONS = [
- {id:"en-a1-u1-l1",unit:"ආචාර කිරීම සහ හැඳින්වීම",title:"පාඩම 1 · ආචාර කිරීම සහ තමන්ව හඳුන්වාදීම",objective:"ඉංග්‍රීසියෙන් ආචාර කිරීම, නම කියීම සහ නම විමසීම",
+{id:"en-a1-u1-l1",unit:"ආචාර කිරීම සහ හැඳින්වීම",title: "පාඩම 1 · Greetings and introductions",objective:"ඉංග්‍රීසියෙන් ආචාර කිරීම, නම කියීම සහ නම විමසීම",
  vocabulary:[
  {word:"Hello",reading:"හෙලෝ",meaning:"හෙලෝ / ආයුබෝවන්",example:"Hello, my name is Ana.",exampleReading:"හෙලෝ, මයි නේම් ඉස් ආනා.",translation:"හෙලෝ, මගේ නම ආනා."},
  {word:"Good morning",reading:"ගුඩ් මෝර්නින්",meaning:"සුබ උදෑසනක්",example:"Good morning, everyone.",exampleReading:"ගුඩ් මෝර්නින්, එව්රිවන්.",translation:"හැමෝටම සුබ උදෑසනක්."},
@@ -20,7 +20,7 @@ export const ENGLISH_A1_LESSONS = [
  listeningPractice:{"prompt":"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Hello, my name is Anna.”","audio":"Hello, my name is Anna.","options":["හෙලෝ, මගේ නම ආනා.","සුබ රාත්‍රියක්, මගේ නම ආනා.","මම ආනාට ස්තුති කරනවා."],"readings":["හෙලෝ, මයි නේම් ඉස් ඇනා.","ගුඩ් නයිට්, මයි නේම් ඉස් ඇනා.","අයි තෑන්ක් ඇනා."],"answer":0,"meaning":"Hello, my name is Anna. = හෙලෝ, මගේ නම ආනා."},
   practice:[{prompt:"“මගේ නම ආනා” කියන නිවැරදි වාක්‍යය තෝරන්න.",options:["What is Ana?","My name is Ana.","Goodbye, Ana."],readings:["වොට් ඉස් ආනා?","මයි නේම් ඉස් ආනා.","ගුඩ්බායි, ආනා."],answer:1,explanation:"My name is යනු “මගේ නම ...” යන රටාවයි."},{prompt:"“ඔයාගේ නම මොකක්ද?” කියන්නේ?",options:["What's your name?","How are you?","Thank you."],readings:["වොට්ස් යෝර් නේම්?","හවු ආර් යූ?","තෑන්ක් යූ."],answer:0,explanation:"What's your name? යනු නම අසන ප්‍රශ්නයයි."},{prompt:"“ස්තුතියි” යන අර්ථය කුමක්ද?",options:["Please","Goodbye","Thank you"],readings:["ප්ලීස්","ගුඩ්බායි","තෑන්ක් යූ"],answer:2,explanation:"Thank you යනු ස්තුතියි."}]
  },
- {id:"en-a1-u1-l2",unit:"ආචාර කිරීම සහ හැඳින්වීම",title:"පාඩම 2 · සුවදුක් විමසීම",objective:"How are you? සහ ආචාරශීලී ප්‍රතිචාර භාවිත කිරීම",
+{id:"en-a1-u1-l2",unit:"ආචාර කිරීම සහ හැඳින්වීම",title: "පාඩම 2 · Greetings and simple responses",objective:"How are you? සහ ආචාරශීලී ප්‍රතිචාර භාවිත කිරීම",
  vocabulary:[
  {word:"How are you?",reading:"හවු ආර් යූ?",meaning:"ඔයාට කොහොමද?",example:"Hello, how are you today?",exampleReading:"හෙලෝ, හවු ආර් යූ ටුඩේ?",translation:"හෙලෝ, අද ඔයාට කොහොමද?"},
  {word:"I'm fine",reading:"අයිම් ෆයින්",meaning:"මම හොඳින්",example:"I'm fine, thank you.",exampleReading:"අයිම් ෆයින්, තෑන්ක් යූ.",translation:"මම හොඳින්, ස්තුතියි."},
@@ -39,7 +39,54 @@ export const ENGLISH_A1_LESSONS = [
  }
 
  ,
- {id:"en-a1-u1-l3",unit:"අංක සහ වේලාව",title:"පාඩම 3 · අංක සහ වේලාව",objective:"මූලික අංක කියීම, වේලාව විමසීම සහ සරල වේලාවක් පැවසීම",
+{
+  id:"en-a1-u3-l1",
+  unit:"කැෆේ සහ ආහාර ඇණවුම් කිරීම",
+  title: "පාඩම 3 · Ordering at a café",
+  objective:"කැෆේ එකකින් මෙනුව ඉල්ලීම, ආහාර සහ පානයක් ඇණවුම් කිරීම, විශේෂ අවශ්‍යතාවක් පැවසීම සහ බිල ඉල්ලීම.",
+  vocabulary:[
+   {word:"Menu",reading:"මෙනියු",meaning:"ආහාර මෙනුව",example:"Could I see the menu, please?",exampleReading:"කුඩ් අයි සී ද මෙනියු, ප්ලීස්?",translation:"කරුණාකර මට මෙනුව බලන්න පුළුවන්ද?"},
+   {word:"I'd like...",reading:"අයිඩ් ලයික්",meaning:"මට ... අවශ්‍යයි",example:"I'd like a coffee, please.",exampleReading:"අයිඩ් ලයික් අ කොෆී, ප්ලීස්.",translation:"මට කෝපි එකක් අවශ්‍යයි, කරුණාකර."},
+   {word:"Order",reading:"ඕඩර්",meaning:"ඇණවුම / ඇණවුම් කිරීම",example:"I'd like to order now.",exampleReading:"අයිඩ් ලයික් ටු ඕඩර් නව්.",translation:"මට දැන් ඇණවුම් කරන්න ඕනේ."},
+   {word:"A sandwich",reading:"අ සැන්ඩ්විච්",meaning:"සැන්ඩ්විච් එකක්",example:"Can I have a sandwich?",exampleReading:"කැන් අයි හැව් අ සැන්ඩ්විච්?",translation:"මට සැන්ඩ්විච් එකක් ගන්න පුළුවන්ද?"},
+   {word:"Without sugar",reading:"විදවුට් ෂුගර්",meaning:"සීනි නැතුව",example:"Tea without sugar, please.",exampleReading:"ටී විදවුට් ෂුගර්, ප්ලීස්.",translation:"සීනි නැති තේ, කරුණාකර."},
+   {word:"Without milk",reading:"විදවුට් මිල්ක්",meaning:"කිරි නැතුව",example:"Coffee without milk, please.",exampleReading:"කොෆී විදවුට් මිල්ක්, ප්ලීස්.",translation:"කිරි නැති කෝපි, කරුණාකර."},
+   {word:"For here",reading:"ෆෝර් හියර්",meaning:"මෙතැනදී භාවිතයට",example:"Is that for here or to go?",exampleReading:"ඉස් දැට් ෆෝර් හියර් ඕර් ටු ගෝ?",translation:"ඒක මෙතැනටද නැත්නම් ගෙන යන්නද?"},
+   {word:"To go",reading:"ටු ගෝ",meaning:"ගෙන යාමට",example:"Two coffees to go, please.",exampleReading:"ටූ කොෆීස් ටු ගෝ, ප්ලීස්.",translation:"ගෙන යන්න කෝපි දෙකක්, කරුණාකර."},
+   {word:"The bill",reading:"ද බිල්",meaning:"බිල",example:"Could I have the bill, please?",exampleReading:"කුඩ් අයි හැව් ද බිල්, ප්ලීස්?",translation:"කරුණාකර බිල දෙන්න පුළුවන්ද?"}
+  ],
+  grammarTitle:"ව්‍යාකරණය · ආචාරශීලීව ඇණවුම් කිරීම",
+  grammar:"කැෆේ එකක යමක් ඉල්ලීමට “I'd like ...” හෝ “Could I have ...?” යොදාගන්න. “Without” යනු නැතුව / රහිතව යන්නයි. කෑම මෙතැනදී ගන්නවාද නැත්නම් ගෙන යනවාද කියා “For here or to go?” අසන්න පුළුවන්.",
+  grammarTerms:[
+   {text:"I'd like a coffee, please.",reading:"අයිඩ් ලයික් අ කොෆී, ප්ලීස්.",meaning:"මට කෝපි එකක් අවශ්‍යයි, කරුණාකර."},
+   {text:"Could I see the menu?",reading:"කුඩ් අයි සී ද මෙනියු?",meaning:"මට මෙනුව බලන්න පුළුවන්ද?"},
+   {text:"Without milk",reading:"විදවුට් මිල්ක්",meaning:"කිරි නැතුව"},
+   {text:"For here or to go?",reading:"ෆෝර් හියර් ඕර් ටු ගෝ?",meaning:"මෙතැනටද නැත්නම් ගෙන යන්නද?"},
+   {text:"Could I have the bill?",reading:"කුඩ් අයි හැව් ද බිල්?",meaning:"මට බිල දෙන්න පුළුවන්ද?"}
+  ],
+  examples:[
+   {text:"Good afternoon. I'd like a tea without sugar, please.",reading:"ගුඩ් ආෆ්ටර්නූන්. අයිඩ් ලයික් අ ටී විදවුට් ෂුගර්, ප්ලීස්.",meaning:"සුබ දහවල්. මට සීනි නැති තේ එකක් අවශ්‍යයි, කරුණාකර."},
+   {text:"Could I have a chicken sandwich?",reading:"කුඩ් අයි හැව් අ චිකන් සැන්ඩ්විච්?",meaning:"මට චිකන් සැන්ඩ්විච් එකක් ගන්න පුළුවන්ද?"},
+   {text:"For here, please.",reading:"ෆෝර් හියර්, ප්ලීස්.",meaning:"මෙතැනදී ගන්නවා, කරුණාකර."},
+   {text:"Could I have the bill, please?",reading:"කුඩ් අයි හැව් ද බිල්, ප්ලීස්?",meaning:"කරුණාකර බිල දෙන්න පුළුවන්ද?"}
+  ],
+  dialogue:[
+   {text:"Good afternoon! Are you ready to order?",reading:"ගුඩ් ආෆ්ටර්නූන්! ආර් යූ රෙඩි ටු ඕඩර්?",meaning:"සුබ දහවල්! ඔබ ඇණවුම් කරන්න සූදානම්ද?"},
+   {text:"Yes. Could I see the menu, please?",reading:"යෙස්. කුඩ් අයි සී ද මෙනියු, ප්ලීස්?",meaning:"ඔව්. කරුණාකර මට මෙනුව බලන්න පුළුවන්ද?"},
+   {text:"Of course. What would you like?",reading:"අව් කෝර්ස්. වොට් වුඩ් යූ ලයික්?",meaning:"අනිවාර්යයෙන්ම. ඔබට මොනවාද අවශ්‍ය?"},
+   {text:"I'd like a coffee and a sandwich.",reading:"අයිඩ් ලයික් අ කොෆී ඇන්ඩ් අ සැන්ඩ්විච්.",meaning:"මට කෝපි එකක් සහ සැන්ඩ්විච් එකක් අවශ්‍යයි."},
+   {text:"For here or to go?",reading:"ෆෝර් හියර් ඕර් ටු ගෝ?",meaning:"මෙතැනටද නැත්නම් ගෙන යන්නද?"},
+   {text:"To go, please. And the bill?",reading:"ටු ගෝ, ප්ලීස්. ඇන්ඩ් ද බිල්?",meaning:"ගෙන යන්න, කරුණාකර. බිලත් දෙන්න."}
+  ],
+  listeningPractice:{prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “I'd like a coffee without milk, please.”",audio:"I'd like a coffee without milk, please.",options:["මට කිරි නැති කෝපි එකක් අවශ්‍යයි, කරුණාකර.","මට සීනි නැති තේ එකක් අවශ්‍යයි.","මට බිල ගෙවන්න බැහැ."],readings:["අයිඩ් ලයික් අ කොෆී විදවුට් මිල්ක්, ප්ලීස්.","අයිඩ් ලයික් අ ටී විදවුට් ෂුගර්, ප්ලීස්.","අයි කෑන්ට් පේ ද බිල්."],answer:0,meaning:"I'd like a coffee without milk, please. = මට කිරි නැති කෝපි එකක් අවශ්‍යයි, කරුණාකර."},
+  practice:[
+   {prompt:"“මට කෝපි එකක් අවශ්‍යයි” කියන විනීත වාක්‍යය තෝරන්න.",options:["I'd like a coffee, please.","Where is the station?","I am late."],readings:["අයිඩ් ලයික් අ කොෆී, ප්ලීස්.","වෙයාර් ඉස් ද ස්ටේෂන්?","අයි ඇම් ලේට්."],answer:0,explanation:"I'd like ... යනු මට ... අවශ්‍යයි යන විනීත රටාවයි."},
+   {prompt:"“කිරි නැතුව” කියන අර්ථය කුමක්ද?",options:["For here","Without milk","To go"],readings:["ෆෝර් හියර්","විදවුට් මිල්ක්","ටු ගෝ"],answer:1,explanation:"Without milk = කිරි නැතුව."},
+   {prompt:"මෙනුව ඉල්ලීමට සුදුසු ප්‍රශ්නය?",options:["Could I see the menu?","What time is it?","How old are you?"],readings:["කුඩ් අයි සී ද මෙනියු?","වොට් ටයිම් ඉස් ඉට්?","හවු ඕල්ඩ් ආ යූ?"],answer:0,explanation:"Could I ...? යනු විනීතව ඉල්ලීමක් කරන රටාවකි."},
+   {prompt:"බිල ඉල්ලීමට නිවැරදි වාක්‍යය තෝරන්න.",options:["Could I have the bill, please?","I need a map.","See you tomorrow."],readings:["කුඩ් අයි හැව් ද බිල්, ප්ලීස්?","අයි නීඩ් අ මැප්.","සී යූ ටුමාරෝ."],answer:0,explanation:"Could I have the bill, please? = කරුණාකර බිල දෙන්න පුළුවන්ද?"}
+  ]
+ },
+{id:"en-a1-u1-l3",unit:"අංක සහ වේලාව",title: "පාඩම 4 · Numbers and time",objective:"මූලික අංක කියීම, වේලාව විමසීම සහ සරල වේලාවක් පැවසීම",
  vocabulary:[
  {word:"One",reading:"වන්",meaning:"එක",example:"I have one ticket.",exampleReading:"අයි හැව් වන් ටිකිට්.",translation:"මට ටිකට් එකක් තියෙනවා."},
  {word:"Two",reading:"ටූ",meaning:"දෙක",example:"Two coffees, please.",exampleReading:"ටූ කොෆීස්, ප්ලීස්.",translation:"කෝපි දෙකක්, කරුණාකර."},
@@ -91,7 +138,7 @@ export const ENGLISH_A1_LESSONS = [
  }
 
  ,
- {id:"en-a1-u1-l4",unit:"සාප්පු සවාරි සහ මිල ගණන්",title:"පාඩම 4 · සාප්පු සවාරි සහ මිල ගණන්",objective:"භාණ්ඩ ඉල්ලීම, ප්‍රමාණ පැවසීම, මිල විමසීම සහ ගෙවීම",
+{id:"en-a1-u1-l4",unit:"සාප්පු සවාරි සහ මිල ගණන්",title: "පාඩම 5 · Shopping and prices",objective:"භාණ්ඩ ඉල්ලීම, ප්‍රමාණ පැවසීම, මිල විමසීම සහ ගෙවීම",
  vocabulary:[
  {word:"How much is this?",reading:"හවු මච් ඉස් දිස්?",meaning:"මේක කීයද?",example:"Excuse me, how much is this?",exampleReading:"ඉක්ස්කියූස් මී, හවු මච් ඉස් දිස්?",translation:"සමාවෙන්න, මේක කීයද?"},
  {word:"How much are these?",reading:"හවු මච් ආර් දීස්?",meaning:"මේවා කීයද?",example:"How much are these apples?",exampleReading:"හවු මච් ආර් දීස් ඇපල්ස්?",translation:"මේ ඇපල් කීයද?"},
@@ -142,7 +189,75 @@ export const ENGLISH_A1_LESSONS = [
  }
 
  ,
- {id:"en-a1-u1-l5",unit:"දිශා සහ ප්‍රවාහනය",title:"පාඩම 5 · දිශා සහ ප්‍රවාහනය",objective:"පාරක් අසන ආකාරය, ස්ථාන හඳුනාගැනීම සහ සරල දිශා තේරුම් ගැනීම",
+{id:"en-a1-u1-l6",unit:"රැකියා ස්ථානයේ සන්නිවේදනය",title: "පාඩම 6 · Workplace communication",objective:"රැකියා ස්ථානයේ හඳුන්වාදීම, වැඩ මුර ගැන කතා කිරීම සහ උදව් ඉල්ලීම",
+ vocabulary:[
+ {word:"I work here.",reading:"අයි වර්ක් හියර්.",meaning:"මම මෙහි වැඩ කරනවා.",example:"Hello, I work here.",exampleReading:"හෙලෝ, අයි වර්ක් හියර්.",translation:"හෙලෝ, මම මෙහි වැඩ කරනවා."},
+ {word:"I am new here.",reading:"අයි ඇම් නියූ හියර්.",meaning:"මම මෙතැනට අලුත්.",example:"I am new here. Nice to meet you.",exampleReading:"අයි ඇම් නියූ හියර්. නයිස් ටු මීට් යූ.",translation:"මම මෙතැනට අලුත්. ඔබ හමුවීම සතුටක්."},
+ {word:"Manager",reading:"මැනේජර්",meaning:"කළමනාකරු",example:"The manager is in the office.",exampleReading:"ද මැනේජර් ඉස් ඉන් ද ඔෆිස්.",translation:"කළමනාකරු කාර්යාලයේ ඉන්නවා."},
+ {word:"Colleague",reading:"කොලීග්",meaning:"සහකාර සේවකයා",example:"My colleague can help me.",exampleReading:"මයි කොලීග් කැන් හෙල්ප් මී.",translation:"මගේ සහකාර සේවකයාට මට උදව් කරන්න පුළුවන්."},
+ {word:"Shift",reading:"ෂිෆ්ට්",meaning:"වැඩ මුරය",example:"My shift starts at eight.",exampleReading:"මයි ෂිෆ්ට් ස්ටාර්ට්ස් ඇට් ඒට්.",translation:"මගේ වැඩ මුරය අටට පටන් ගන්නවා."},
+ {word:"Day shift",reading:"ඩේ ෂිෆ්ට්",meaning:"දවල් වැඩ මුරය",example:"I work the day shift today.",exampleReading:"අයි වර්ක් ද ඩේ ෂිෆ්ට් ටුඩේ.",translation:"මම අද දවල් වැඩ මුරයේ වැඩ කරනවා."},
+ {word:"Night shift",reading:"නයිට් ෂිෆ්ට්",meaning:"රාත්‍රී වැඩ මුරය",example:"She works the night shift.",exampleReading:"ෂී වර්ක්ස් ද නයිට් ෂිෆ්ට්.",translation:"ඇය රාත්‍රී වැඩ මුරයේ වැඩ කරනවා."},
+ {word:"Break",reading:"බ්‍රේක්",meaning:"විවේකය",example:"When is my break?",exampleReading:"වෙන් ඉස් මයි බ්‍රේක්?",translation:"මගේ විවේක වෙලාව කවදාද?"},
+ {word:"Can you help me?",reading:"කැන් යූ හෙල්ප් මී?",meaning:"ඔබට මට උදව් කරන්න පුළුවන්ද?",example:"Can you help me with this task?",exampleReading:"කැන් යූ හෙල්ප් මී විත් දිස් ටාස්ක්?",translation:"මේ කාර්යයට මට උදව් කරන්න පුළුවන්ද?"},
+ {word:"I don't understand.",reading:"අයි ඩෝන්ට් අන්ඩර්ස්ටෑන්ඩ්.",meaning:"මට තේරෙන්නේ නැහැ.",example:"Sorry, I don't understand.",exampleReading:"සොරි, අයි ඩෝන්ට් අන්ඩර්ස්ටෑන්ඩ්.",translation:"සමාවෙන්න, මට තේරෙන්නේ නැහැ."},
+ {word:"Please show me.",reading:"ප්ලීස් ෂෝ මී.",meaning:"කරුණාකර මට පෙන්වන්න.",example:"Please show me how to do this.",exampleReading:"ප්ලීස් ෂෝ මී හවු ටු ඩූ දිස්.",translation:"කරුණාකර මේක කරන විදිහ මට පෙන්වන්න."},
+ {word:"Be careful.",reading:"බී කෙයර්ෆුල්.",meaning:"පරිස්සම් වෙන්න.",example:"Be careful with the hot coffee.",exampleReading:"බී කෙයර්ෆුල් විත් ද හොට් කොෆී.",translation:"උණු කෝපි එක ගැන පරිස්සම් වෙන්න."},
+ {word:"Finished",reading:"ෆිනිෂ්ට්",meaning:"අවසන් කළා",example:"I have finished this task.",exampleReading:"අයි හැව් ෆිනිෂ්ට් දිස් ටාස්ක්.",translation:"මම මේ කාර්යය අවසන් කළා."},
+ {word:"What should I do?",reading:"වොට් ෂුඩ් අයි ඩූ?",meaning:"මම මොකක්ද කරන්න ඕනේ?",example:"What should I do next?",exampleReading:"වොට් ෂුඩ් අයි ඩූ නෙක්ස්ට්?",translation:"ඊළඟට මම මොකක්ද කරන්න ඕනේ?"},
+ {word:"I am on my break.",reading:"අයි ඇම් ඔන් මයි බ්‍රේක්.",meaning:"මම දැන් විවේකයේ ඉන්නේ.",example:"I am on my break for ten minutes.",exampleReading:"අයි ඇම් ඔන් මයි බ්‍රේක් ෆෝර් ටෙන් මිනිට්ස්.",translation:"මම විනාඩි දහයක විවේකයක ඉන්නේ."}
+ ],
+ grammarTitle:"රැකියාවේදී භාවිත කරන ප්‍රයෝජනවත් රටා",
+ grammar:"තමන් ගැන කියන්න “I am ...” හෝ “I work ...” යොදන්න. උදව් ඉල්ලීමට “Can you help me ...?” කියන්න. උපදෙස් පැහැදිලි නැත්නම් “I don't understand” හෝ “Please show me” කියන්න. වැඩ මුරය ගැන “My shift starts at ...” භාවිත කරන්න.",
+ grammarTerms:[
+ {text:"I am new here.",reading:"අයි ඇම් නියූ හියර්.",meaning:"මම මෙතැනට අලුත්."},
+ {text:"My shift starts at eight.",reading:"මයි ෂිෆ්ට් ස්ටාර්ට්ස් ඇට් ඒට්.",meaning:"මගේ වැඩ මුරය අටට පටන් ගන්නවා."},
+ {text:"Can you help me?",reading:"කැන් යූ හෙල්ප් මී?",meaning:"ඔබට මට උදව් කරන්න පුළුවන්ද?"},
+ {text:"I don't understand.",reading:"අයි ඩෝන්ට් අන්ඩර්ස්ටෑන්ඩ්.",meaning:"මට තේරෙන්නේ නැහැ."},
+ {text:"Please show me.",reading:"ප්ලීස් ෂෝ මී.",meaning:"කරුණාකර මට පෙන්වන්න."}
+ ],
+ examples:[
+ {text:"I work in the kitchen.",reading:"අයි වර්ක් ඉන් ද කිචන්.",meaning:"මම මුළුතැන්ගෙයි වැඩ කරනවා."},
+ {text:"My colleague starts at seven.",reading:"මයි කොලීග් ස්ටාර්ට්ස් ඇට් සෙවන්.",meaning:"මගේ සහකාර සේවකයා හතට වැඩ පටන් ගන්නවා."},
+ {text:"Can you show me how to use this machine?",reading:"කැන් යූ ෂෝ මී හවු ටු යූස් දිස් මෂීන්?",meaning:"මේ යන්ත්‍රය භාවිත කරන විදිහ මට පෙන්වන්න පුළුවන්ද?"},
+ {text:"I have finished my work.",reading:"අයි හැව් ෆිනිෂ්ට් මයි වර්ක්.",meaning:"මම මගේ වැඩ අවසන් කරලා."}
+ ],
+ dialogue:[
+ {text:"Hello, I am new here. My name is Alex.",reading:"හෙලෝ, අයි ඇම් නියූ හියර්. මයි නේම් ඉස් ඇලෙක්ස්.",meaning:"හෙලෝ, මම මෙතැනට අලුත්. මගේ නම ඇලෙක්ස්."},
+ {text:"Nice to meet you. I am your colleague, Maria.",reading:"නයිස් ටු මීට් යූ. අයි ඇම් යෝර් කොලීග්, මරියා.",meaning:"ඔබ හමුවීම සතුටක්. මම ඔබේ සහකාර සේවිකාව, මරියා."},
+ {text:"What time does my shift start?",reading:"වොට් ටයිම් ඩස් මයි ෂිෆ්ට් ස්ටාර්ට්?",meaning:"මගේ වැඩ මුරය පටන් ගන්නේ කීයටද?"},
+ {text:"It starts at eight. I can show you what to do.",reading:"ඉට් ස්ටාර්ට්ස් ඇට් ඒට්. අයි කැන් ෂෝ යූ වොට් ටු ඩූ.",meaning:"එය අටට පටන් ගන්නවා. කළ යුතු දේ මට ඔබට පෙන්වන්න පුළුවන්."},
+ {text:"Thank you. I don't understand this machine yet.",reading:"තෑන්ක් යූ. අයි ඩෝන්ට් අන්ඩර්ස්ටෑන්ඩ් දිස් මෂීන් යෙට්.",meaning:"ස්තුතියි. මට තවම මේ යන්ත්‍රය තේරෙන්නේ නැහැ."},
+ {text:"No problem. I will help you.",reading:"නෝ ප්‍රොබ්ලම්. අයි විල් හෙල්ප් යූ.",meaning:"ප්‍රශ්නයක් නැහැ. මම ඔබට උදව් කරන්නම්."}
+ ],
+ listeningPractice:{"prompt":"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Can you help me?”","audio":"Can you help me?","options":["ඔබට මට උදව් කරන්න පුළුවන්ද?","මම ඔබට පෙන්වන්නම්.","මගේ වැඩ මුරය අවසන්."],"readings":["කැන් යූ හෙල්ප් මී?","අයි විල් ෂෝ යූ.","මයි ෂිෆ්ට් ඉස් ඕවර්."],"answer":0,"meaning":"Can you help me? = ඔබට මට උදව් කරන්න පුළුවන්ද?"},
+  practice:[
+ {prompt:"“මගේ වැඩ මුරය අටට පටන් ගන්නවා” යන වාක්‍යය තෝරන්න.",options:["My shift starts at eight.","My break is finished.","I work at home."],readings:["මයි ෂිෆ්ට් ස්ටාර්ට්ස් ඇට් ඒට්.","මයි බ්‍රේක් ඉස් ෆිනිෂ්ට්.","අයි වර්ක් ඇට් හෝම්."],answer:0,explanation:"My shift starts at ... යනු වැඩ මුරය පටන් ගන්නා වේලාව කියයි."},
+ {prompt:"උදව් ඉල්ලන නිවැරදි වාක්‍යය කුමක්ද?",options:["Can you help me?","Where is the station?","How much is this?"],readings:["කැන් යූ හෙල්ප් මී?","වෙයාර් ඉස් ද ස්ටේෂන්?","හවු මච් ඉස් දිස්?"],answer:0,explanation:"Can you help me? යනු උදව් ඉල්ලන ආචාරශීලී ප්‍රශ්නයකි."},
+ {prompt:"“මට තේරෙන්නේ නැහැ” කියන්නේ?",options:["I don't understand.","I am finished.","I am on my break."],readings:["අයි ඩෝන්ට් අන්ඩර්ස්ටෑන්ඩ්.","අයි ඇම් ෆිනිෂ්ට්.","අයි ඇම් ඔන් මයි බ්‍රේක්."],answer:0,explanation:"I don't understand යනු මට තේරෙන්නේ නැහැ."},
+ {prompt:"“කරුණාකර මට පෙන්වන්න” යන්න තෝරන්න.",options:["Please show me.","Be careful.","That's all, thank you."],readings:["ප්ලීස් ෂෝ මී.","බී කෙයර්ෆුල්.","දැට්ස් ඕල්, තෑන්ක් යූ."],answer:0,explanation:"Please show me යනු යමක් පෙන්වන ලෙස ආචාරශීලීව ඉල්ලීමයි."}
+ ]
+ }
+
+ ,
+{
+ id:"en-a1-u2-l7",unit:"රැකියා සහ වෘත්තීන්",title: "පාඩම 7 · Jobs and professions",objective:"විවිධ රැකියා නම් කිරීම සහ කෙනෙකුගේ රැකියාව විමසීම",
+ vocabulary:[
+ {word:"job",reading:"ජොබ්",meaning:"රැකියාව",example:"I have a new job.",exampleReading:"අයි හැව් අ නිව් ජොබ්.",translation:"මට අලුත් රැකියාවක් තියෙනවා."},
+ {word:"teacher",reading:"ටීචර්",meaning:"ගුරුවරයා / ගුරුවරිය",example:"She is a teacher.",exampleReading:"ෂී ඉස් අ ටීචර්.",translation:"ඇය ගුරුවරියක්."},
+ {word:"cook",reading:"කුක්",meaning:"ඉවුම් පිහුම් කරන කෙනා",example:"He is a cook.",exampleReading:"හී ඉස් අ කුක්.",translation:"ඔහු කෝකියෙක්."},
+ {word:"driver",reading:"ඩ්‍රයිවර්",meaning:"රියදුරා",example:"My father is a driver.",exampleReading:"මයි ෆාදර් ඉස් අ ඩ්‍රයිවර්.",translation:"මගේ පියා රියදුරෙක්."},
+ {word:"worker",reading:"වර්කර්",meaning:"සේවකයා",example:"I am a shop worker.",exampleReading:"අයි ඇම් අ ෂොප් වර්කර්.",translation:"මම කඩයක සේවකයෙක්."},
+ {word:"What do you do?","reading":"වොට් ඩූ යූ ඩූ?","meaning":"ඔයාගේ රැකියාව මොකක්ද?","example":"What do you do?","exampleReading":"වොට් ඩූ යූ ඩූ?","translation":"ඔයාගේ රැකියාව මොකක්ද?"}
+ ],
+ grammarTitle:"Asking about jobs",grammar:"Ask “What do you do?” to ask about someone's job. Answer with “I am a...” or “I work as a...”. Use “a” before most singular job names: a teacher, a driver.",
+ grammarTerms:[{text:"What do you do?",reading:"වොට් ඩූ යූ ඩූ?",meaning:"ඔයාගේ රැකියාව මොකක්ද?"},{text:"I am a cook.",reading:"අයි ඇම් අ කුක්.",meaning:"මම කෝකියෙක්."}],
+ examples:[{text:"I am a teacher.",reading:"අයි ඇම් අ ටීචර්.",meaning:"මම ගුරුවරයෙක් / ගුරුවරියක්."},{text:"He is a driver.",reading:"හී ඉස් අ ඩ්‍රයිවර්.",meaning:"ඔහු රියදුරෙක්."},{text:"She works in a shop.",reading:"ෂී වර්ක්ස් ඉන් අ ෂොප්.",meaning:"ඇය කඩයක වැඩ කරනවා."}],
+ dialogue:[{text:"What do you do?",reading:"වොට් ඩූ යූ ඩූ?",meaning:"ඔයාගේ රැකියාව මොකක්ද?"},{text:"I am a cook.",reading:"අයි ඇම් අ කුක්.",meaning:"මම කෝකියෙක්."},{text:"Where do you work?",reading:"වෙයාර් ඩූ යූ වර්ක්?",meaning:"ඔයා කොහෙද වැඩ කරන්නේ?"},{text:"I work in a restaurant.",reading:"අයි වර්ක් ඉන් අ රෙස්ටුරන්ට්.",meaning:"මම අවන්හලක වැඩ කරනවා."}],
+ listeningPractice:{prompt:"Listen and choose the correct meaning: “I am a driver.”",audio:"I am a driver.",reading:"අයි ඇම් අ ඩ්‍රයිවර්.",options:["මම රියදුරෙක්.","මම ගුරුවරයෙක්.","මම කඩයක ඉන්නවා."],answer:0,meaning:"I am a driver. = මම රියදුරෙක්."},
+ practice:[{prompt:"Choose the word for “ගුරුවරයා”.",options:["driver","teacher","cook"],answer:1,explanation:"teacher = ගුරුවරයා / ගුරුවරිය."},{prompt:"Ask someone about their job.",options:["What do you do?","What time is it?","Where is the bus?"],answer:0,explanation:"What do you do? = ඔයාගේ රැකියාව මොකක්ද?"}]
+},
+{id:"en-a1-u1-l5",unit:"දිශා සහ ප්‍රවාහනය",title: "පාඩම 8 · Directions and transport",objective:"පාරක් අසන ආකාරය, ස්ථාන හඳුනාගැනීම සහ සරල දිශා තේරුම් ගැනීම",
  vocabulary:[
  {word:"Where is the station?",reading:"වෙයාර් ඉස් ද ස්ටේෂන්?",meaning:"දුම්රිය ස්ථානය කොහෙද?",example:"Excuse me, where is the station?",exampleReading:"ඉක්ස්කියූස් මී, වෙයාර් ඉස් ද ස්ටේෂන්?",translation:"සමාවෙන්න, දුම්රිය ස්ථානය කොහෙද?"},
  {word:"Bus stop",reading:"බස් ස්ටොප්",meaning:"බස් නැවතුම්පොළ",example:"The bus stop is near the bank.",exampleReading:"ද බස් ස්ටොප් ඉස් නියර් ද බැංක්.",translation:"බස් නැවතුම්පොළ බැංකුව ළඟයි."},
@@ -194,58 +309,24 @@ export const ENGLISH_A1_LESSONS = [
  }
 
  ,
- {id:"en-a1-u1-l6",unit:"රැකියා ස්ථානයේ සන්නිවේදනය",title:"පාඩම 6 · රැකියා ස්ථානයේ සන්නිවේදනය",objective:"රැකියා ස්ථානයේ හඳුන්වාදීම, වැඩ මුර ගැන කතා කිරීම සහ උදව් ඉල්ලීම",
+{
+ id:"en-a1-u2-l9",unit:"හමුවීම් වේලාව සහ ප්‍රවාහන කාලසටහන්",title: "පාඩම 9 · Appointment times and transport schedules",objective:"හමුවීමකට වේලාවක් නියම කිරීම සහ බස් හෝ දුම්රිය කාලසටහනක් විමසීම",
  vocabulary:[
- {word:"I work here.",reading:"අයි වර්ක් හියර්.",meaning:"මම මෙහි වැඩ කරනවා.",example:"Hello, I work here.",exampleReading:"හෙලෝ, අයි වර්ක් හියර්.",translation:"හෙලෝ, මම මෙහි වැඩ කරනවා."},
- {word:"I am new here.",reading:"අයි ඇම් නියූ හියර්.",meaning:"මම මෙතැනට අලුත්.",example:"I am new here. Nice to meet you.",exampleReading:"අයි ඇම් නියූ හියර්. නයිස් ටු මීට් යූ.",translation:"මම මෙතැනට අලුත්. ඔබ හමුවීම සතුටක්."},
- {word:"Manager",reading:"මැනේජර්",meaning:"කළමනාකරු",example:"The manager is in the office.",exampleReading:"ද මැනේජර් ඉස් ඉන් ද ඔෆිස්.",translation:"කළමනාකරු කාර්යාලයේ ඉන්නවා."},
- {word:"Colleague",reading:"කොලීග්",meaning:"සහකාර සේවකයා",example:"My colleague can help me.",exampleReading:"මයි කොලීග් කැන් හෙල්ප් මී.",translation:"මගේ සහකාර සේවකයාට මට උදව් කරන්න පුළුවන්."},
- {word:"Shift",reading:"ෂිෆ්ට්",meaning:"වැඩ මුරය",example:"My shift starts at eight.",exampleReading:"මයි ෂිෆ්ට් ස්ටාර්ට්ස් ඇට් ඒට්.",translation:"මගේ වැඩ මුරය අටට පටන් ගන්නවා."},
- {word:"Day shift",reading:"ඩේ ෂිෆ්ට්",meaning:"දවල් වැඩ මුරය",example:"I work the day shift today.",exampleReading:"අයි වර්ක් ද ඩේ ෂිෆ්ට් ටුඩේ.",translation:"මම අද දවල් වැඩ මුරයේ වැඩ කරනවා."},
- {word:"Night shift",reading:"නයිට් ෂිෆ්ට්",meaning:"රාත්‍රී වැඩ මුරය",example:"She works the night shift.",exampleReading:"ෂී වර්ක්ස් ද නයිට් ෂිෆ්ට්.",translation:"ඇය රාත්‍රී වැඩ මුරයේ වැඩ කරනවා."},
- {word:"Break",reading:"බ්‍රේක්",meaning:"විවේකය",example:"When is my break?",exampleReading:"වෙන් ඉස් මයි බ්‍රේක්?",translation:"මගේ විවේක වෙලාව කවදාද?"},
- {word:"Can you help me?",reading:"කැන් යූ හෙල්ප් මී?",meaning:"ඔබට මට උදව් කරන්න පුළුවන්ද?",example:"Can you help me with this task?",exampleReading:"කැන් යූ හෙල්ප් මී විත් දිස් ටාස්ක්?",translation:"මේ කාර්යයට මට උදව් කරන්න පුළුවන්ද?"},
- {word:"I don't understand.",reading:"අයි ඩෝන්ට් අන්ඩර්ස්ටෑන්ඩ්.",meaning:"මට තේරෙන්නේ නැහැ.",example:"Sorry, I don't understand.",exampleReading:"සොරි, අයි ඩෝන්ට් අන්ඩර්ස්ටෑන්ඩ්.",translation:"සමාවෙන්න, මට තේරෙන්නේ නැහැ."},
- {word:"Please show me.",reading:"ප්ලීස් ෂෝ මී.",meaning:"කරුණාකර මට පෙන්වන්න.",example:"Please show me how to do this.",exampleReading:"ප්ලීස් ෂෝ මී හවු ටු ඩූ දිස්.",translation:"කරුණාකර මේක කරන විදිහ මට පෙන්වන්න."},
- {word:"Be careful.",reading:"බී කෙයර්ෆුල්.",meaning:"පරිස්සම් වෙන්න.",example:"Be careful with the hot coffee.",exampleReading:"බී කෙයර්ෆුල් විත් ද හොට් කොෆී.",translation:"උණු කෝපි එක ගැන පරිස්සම් වෙන්න."},
- {word:"Finished",reading:"ෆිනිෂ්ට්",meaning:"අවසන් කළා",example:"I have finished this task.",exampleReading:"අයි හැව් ෆිනිෂ්ට් දිස් ටාස්ක්.",translation:"මම මේ කාර්යය අවසන් කළා."},
- {word:"What should I do?",reading:"වොට් ෂුඩ් අයි ඩූ?",meaning:"මම මොකක්ද කරන්න ඕනේ?",example:"What should I do next?",exampleReading:"වොට් ෂුඩ් අයි ඩූ නෙක්ස්ට්?",translation:"ඊළඟට මම මොකක්ද කරන්න ඕනේ?"},
- {word:"I am on my break.",reading:"අයි ඇම් ඔන් මයි බ්‍රේක්.",meaning:"මම දැන් විවේකයේ ඉන්නේ.",example:"I am on my break for ten minutes.",exampleReading:"අයි ඇම් ඔන් මයි බ්‍රේක් ෆෝර් ටෙන් මිනිට්ස්.",translation:"මම විනාඩි දහයක විවේකයක ඉන්නේ."}
+ {word:"appointment",reading:"අපොයින්ට්මන්ට්",meaning:"හමුවීමක් / වේලාවක් වෙන්කරගැනීම",example:"I have an appointment.",exampleReading:"අයි හැව් ඇන් අපොයින්ට්මන්ට්.",translation:"මට හමුවීමක් තියෙනවා."},
+ {word:"schedule",reading:"ස්කෙජූල්",meaning:"කාලසටහන",example:"Check the bus schedule.",exampleReading:"චෙක් දි බස් ස්කෙජූල්.",translation:"බස් කාලසටහන බලන්න."},
+ {word:"When",reading:"වෙන්",meaning:"කවදාද?",example:"When does the bus leave?",exampleReading:"වෙන් ඩස් දි බස් ලීව්?",translation:"බස් එක පිටත් වෙන්නේ කවදාද?"},
+ {word:"at nine",reading:"ඇට් නයින්",meaning:"නවයට",example:"The meeting is at nine.",exampleReading:"දි මීටින් ඉස් ඇට් නයින්.",translation:"රැස්වීම නවයට."},
+ {word:"leave",reading:"ලීව්",meaning:"පිටත් වෙනවා",example:"The train leaves at six.",exampleReading:"දි ට්‍රේන් ලීව්ස් ඇට් සික්ස්.",translation:"දුම්රිය හයට පිටත් වෙනවා."},
+ {word:"late",reading:"ලේට්",meaning:"පරක්කු",example:"The bus is late.",exampleReading:"දි බස් ඉස් ලේට්.",translation:"බස් එක පරක්කුයි."}
  ],
- grammarTitle:"රැකියාවේදී භාවිත කරන ප්‍රයෝජනවත් රටා",
- grammar:"තමන් ගැන කියන්න “I am ...” හෝ “I work ...” යොදන්න. උදව් ඉල්ලීමට “Can you help me ...?” කියන්න. උපදෙස් පැහැදිලි නැත්නම් “I don't understand” හෝ “Please show me” කියන්න. වැඩ මුරය ගැන “My shift starts at ...” භාවිත කරන්න.",
- grammarTerms:[
- {text:"I am new here.",reading:"අයි ඇම් නියූ හියර්.",meaning:"මම මෙතැනට අලුත්."},
- {text:"My shift starts at eight.",reading:"මයි ෂිෆ්ට් ස්ටාර්ට්ස් ඇට් ඒට්.",meaning:"මගේ වැඩ මුරය අටට පටන් ගන්නවා."},
- {text:"Can you help me?",reading:"කැන් යූ හෙල්ප් මී?",meaning:"ඔබට මට උදව් කරන්න පුළුවන්ද?"},
- {text:"I don't understand.",reading:"අයි ඩෝන්ට් අන්ඩර්ස්ටෑන්ඩ්.",meaning:"මට තේරෙන්නේ නැහැ."},
- {text:"Please show me.",reading:"ප්ලීස් ෂෝ මී.",meaning:"කරුණාකර මට පෙන්වන්න."}
- ],
- examples:[
- {text:"I work in the kitchen.",reading:"අයි වර්ක් ඉන් ද කිචන්.",meaning:"මම මුළුතැන්ගෙයි වැඩ කරනවා."},
- {text:"My colleague starts at seven.",reading:"මයි කොලීග් ස්ටාර්ට්ස් ඇට් සෙවන්.",meaning:"මගේ සහකාර සේවකයා හතට වැඩ පටන් ගන්නවා."},
- {text:"Can you show me how to use this machine?",reading:"කැන් යූ ෂෝ මී හවු ටු යූස් දිස් මෂීන්?",meaning:"මේ යන්ත්‍රය භාවිත කරන විදිහ මට පෙන්වන්න පුළුවන්ද?"},
- {text:"I have finished my work.",reading:"අයි හැව් ෆිනිෂ්ට් මයි වර්ක්.",meaning:"මම මගේ වැඩ අවසන් කරලා."}
- ],
- dialogue:[
- {text:"Hello, I am new here. My name is Alex.",reading:"හෙලෝ, අයි ඇම් නියූ හියර්. මයි නේම් ඉස් ඇලෙක්ස්.",meaning:"හෙලෝ, මම මෙතැනට අලුත්. මගේ නම ඇලෙක්ස්."},
- {text:"Nice to meet you. I am your colleague, Maria.",reading:"නයිස් ටු මීට් යූ. අයි ඇම් යෝර් කොලීග්, මරියා.",meaning:"ඔබ හමුවීම සතුටක්. මම ඔබේ සහකාර සේවිකාව, මරියා."},
- {text:"What time does my shift start?",reading:"වොට් ටයිම් ඩස් මයි ෂිෆ්ට් ස්ටාර්ට්?",meaning:"මගේ වැඩ මුරය පටන් ගන්නේ කීයටද?"},
- {text:"It starts at eight. I can show you what to do.",reading:"ඉට් ස්ටාර්ට්ස් ඇට් ඒට්. අයි කැන් ෂෝ යූ වොට් ටු ඩූ.",meaning:"එය අටට පටන් ගන්නවා. කළ යුතු දේ මට ඔබට පෙන්වන්න පුළුවන්."},
- {text:"Thank you. I don't understand this machine yet.",reading:"තෑන්ක් යූ. අයි ඩෝන්ට් අන්ඩර්ස්ටෑන්ඩ් දිස් මෂීන් යෙට්.",meaning:"ස්තුතියි. මට තවම මේ යන්ත්‍රය තේරෙන්නේ නැහැ."},
- {text:"No problem. I will help you.",reading:"නෝ ප්‍රොබ්ලම්. අයි විල් හෙල්ප් යූ.",meaning:"ප්‍රශ්නයක් නැහැ. මම ඔබට උදව් කරන්නම්."}
- ],
- listeningPractice:{"prompt":"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “Can you help me?”","audio":"Can you help me?","options":["ඔබට මට උදව් කරන්න පුළුවන්ද?","මම ඔබට පෙන්වන්නම්.","මගේ වැඩ මුරය අවසන්."],"readings":["කැන් යූ හෙල්ප් මී?","අයි විල් ෂෝ යූ.","මයි ෂිෆ්ට් ඉස් ඕවර්."],"answer":0,"meaning":"Can you help me? = ඔබට මට උදව් කරන්න පුළුවන්ද?"},
-  practice:[
- {prompt:"“මගේ වැඩ මුරය අටට පටන් ගන්නවා” යන වාක්‍යය තෝරන්න.",options:["My shift starts at eight.","My break is finished.","I work at home."],readings:["මයි ෂිෆ්ට් ස්ටාර්ට්ස් ඇට් ඒට්.","මයි බ්‍රේක් ඉස් ෆිනිෂ්ට්.","අයි වර්ක් ඇට් හෝම්."],answer:0,explanation:"My shift starts at ... යනු වැඩ මුරය පටන් ගන්නා වේලාව කියයි."},
- {prompt:"උදව් ඉල්ලන නිවැරදි වාක්‍යය කුමක්ද?",options:["Can you help me?","Where is the station?","How much is this?"],readings:["කැන් යූ හෙල්ප් මී?","වෙයාර් ඉස් ද ස්ටේෂන්?","හවු මච් ඉස් දිස්?"],answer:0,explanation:"Can you help me? යනු උදව් ඉල්ලන ආචාරශීලී ප්‍රශ්නයකි."},
- {prompt:"“මට තේරෙන්නේ නැහැ” කියන්නේ?",options:["I don't understand.","I am finished.","I am on my break."],readings:["අයි ඩෝන්ට් අන්ඩර්ස්ටෑන්ඩ්.","අයි ඇම් ෆිනිෂ්ට්.","අයි ඇම් ඔන් මයි බ්‍රේක්."],answer:0,explanation:"I don't understand යනු මට තේරෙන්නේ නැහැ."},
- {prompt:"“කරුණාකර මට පෙන්වන්න” යන්න තෝරන්න.",options:["Please show me.","Be careful.","That's all, thank you."],readings:["ප්ලීස් ෂෝ මී.","බී කෙයර්ෆුල්.","දැට්ස් ඕල්, තෑන්ක් යූ."],answer:0,explanation:"Please show me යනු යමක් පෙන්වන ලෙස ආචාරශීලීව ඉල්ලීමයි."}
- ]
- }
-
- ,
- {id:"en-a1-u2-l1",unit:"නවාතැන් සහ දෛනික සේවා",title:"පාඩම 7 · හෝටලයක කාමරයක් වෙන් කිරීම",objective:"හෝටලයක කාමරයක් තිබේදැයි විමසීම, මිල අසීම, වෙන් කිරීම සහ සරල ගැටලුවක් පැහැදිලි කිරීම",
+ grammarTitle:"Asking when something happens",grammar:"Use “When does ...?” to ask about a schedule. Use “at + time” for a specific time: The bus leaves at six. For appointments, say “I have an appointment at nine.”",
+ grammarTerms:[{text:"When does the bus leave?",reading:"වෙන් ඩස් දි බස් ලීව්?",meaning:"බස් එක පිටත් වෙන්නේ කවදාද?"},{text:"at nine",reading:"ඇට් නයින්",meaning:"නවයට"}],
+ examples:[{text:"When does the train leave?",reading:"වෙන් ඩස් දි ට්‍රේන් ලීව්?",meaning:"දුම්රිය පිටත් වෙන්නේ කවදාද?"},{text:"It leaves at six.",reading:"ඉට් ලීව්ස් ඇට් සික්ස්.",meaning:"එය හයට පිටත් වෙනවා."},{text:"My appointment is at ten.",reading:"මයි අපොයින්ට්මන්ට් ඉස් ඇට් ටෙන්.",meaning:"මගේ හමුවීම දහයට."}],
+ dialogue:[{text:"When does the bus leave?",reading:"වෙන් ඩස් දි බස් ලීව්?",meaning:"බස් එක පිටත් වෙන්නේ කවදාද?"},{text:"It leaves at eight thirty.",reading:"ඉට් ලීව්ස් ඇට් ඒට් තර්ටි.",meaning:"එය අටයි තිහට පිටත් වෙනවා."},{text:"Is it late today?",reading:"ඉස් ඉට් ලේට් ටුඩේ?",meaning:"අද එය පරක්කුද?"},{text:"No, it is on time.",reading:"නෝ, ඉට් ඉස් ඔන් ටයිම්.",meaning:"නැහැ, එය නියමිත වේලාවටයි."}],
+ listeningPractice:{prompt:"Listen and choose the correct meaning: “The train leaves at six.”",audio:"The train leaves at six.",reading:"දි ට්‍රේන් ලීව්ස් ඇට් සික්ස්.",options:["දුම්රිය හයට පිටත් වෙනවා.","බස් එක පරක්කුයි.","මට හමුවීමක් තියෙනවා."],answer:0,meaning:"The train leaves at six. = දුම්රිය හයට පිටත් වෙනවා."},
+ practice:[{prompt:"Choose the meaning of “schedule”.",options:["කාලසටහන","රැකියාව","මිල"],answer:0,explanation:"schedule = කාලසටහන."},{prompt:"Ask when the bus leaves.",options:["When does the bus leave?","Where do you work?","How much is it?"],answer:0,explanation:"When does the bus leave? = බස් එක පිටත් වෙන්නේ කවදාද?"}]
+},
+{id:"en-a1-u2-l1",unit:"නවාතැන් සහ දෛනික සේවා",title: "පාඩම 10 · Accommodation and daily services",objective:"හෝටලයක කාමරයක් තිබේදැයි විමසීම, මිල අසීම, වෙන් කිරීම සහ සරල ගැටලුවක් පැහැදිලි කිරීම",
  vocabulary:[
  {word:"Room",reading:"රූම්",meaning:"කාමරය",example:"I need a room.",exampleReading:"අයි නීඩ් අ රූම්.",translation:"මට කාමරයක් අවශ්‍යයි."},
  {word:"Do you have a room?",reading:"ඩූ යූ හැව් අ රූම්?",meaning:"ඔබට කාමරයක් තිබෙනවාද?",example:"Hello, do you have a room for tonight?",exampleReading:"හෙලෝ, ඩූ යූ හැව් අ රූම් ෆෝර් ටුනයිට්?",translation:"හෙලෝ, අද රාත්‍රියට ඔබට කාමරයක් තිබෙනවාද?"},
@@ -294,57 +375,10 @@ export const ENGLISH_A1_LESSONS = [
  ]
  }
  ,
- {
-  id:"en-a1-u3-l1",
-  unit:"කැෆේ සහ ආහාර ඇණවුම් කිරීම",
-  title:"පාඩම 11 · කැෆේ එකකින් ආහාර ඇණවුම් කිරීම",
-  objective:"කැෆේ එකකින් මෙනුව ඉල්ලීම, ආහාර සහ පානයක් ඇණවුම් කිරීම, විශේෂ අවශ්‍යතාවක් පැවසීම සහ බිල ඉල්ලීම.",
-  vocabulary:[
-   {word:"Menu",reading:"මෙනියු",meaning:"ආහාර මෙනුව",example:"Could I see the menu, please?",exampleReading:"කුඩ් අයි සී ද මෙනියු, ප්ලීස්?",translation:"කරුණාකර මට මෙනුව බලන්න පුළුවන්ද?"},
-   {word:"I'd like...",reading:"අයිඩ් ලයික්",meaning:"මට ... අවශ්‍යයි",example:"I'd like a coffee, please.",exampleReading:"අයිඩ් ලයික් අ කොෆී, ප්ලීස්.",translation:"මට කෝපි එකක් අවශ්‍යයි, කරුණාකර."},
-   {word:"Order",reading:"ඕඩර්",meaning:"ඇණවුම / ඇණවුම් කිරීම",example:"I'd like to order now.",exampleReading:"අයිඩ් ලයික් ටු ඕඩර් නව්.",translation:"මට දැන් ඇණවුම් කරන්න ඕනේ."},
-   {word:"A sandwich",reading:"අ සැන්ඩ්විච්",meaning:"සැන්ඩ්විච් එකක්",example:"Can I have a sandwich?",exampleReading:"කැන් අයි හැව් අ සැන්ඩ්විච්?",translation:"මට සැන්ඩ්විච් එකක් ගන්න පුළුවන්ද?"},
-   {word:"Without sugar",reading:"විදවුට් ෂුගර්",meaning:"සීනි නැතුව",example:"Tea without sugar, please.",exampleReading:"ටී විදවුට් ෂුගර්, ප්ලීස්.",translation:"සීනි නැති තේ, කරුණාකර."},
-   {word:"Without milk",reading:"විදවුට් මිල්ක්",meaning:"කිරි නැතුව",example:"Coffee without milk, please.",exampleReading:"කොෆී විදවුට් මිල්ක්, ප්ලීස්.",translation:"කිරි නැති කෝපි, කරුණාකර."},
-   {word:"For here",reading:"ෆෝර් හියර්",meaning:"මෙතැනදී භාවිතයට",example:"Is that for here or to go?",exampleReading:"ඉස් දැට් ෆෝර් හියර් ඕර් ටු ගෝ?",translation:"ඒක මෙතැනටද නැත්නම් ගෙන යන්නද?"},
-   {word:"To go",reading:"ටු ගෝ",meaning:"ගෙන යාමට",example:"Two coffees to go, please.",exampleReading:"ටූ කොෆීස් ටු ගෝ, ප්ලීස්.",translation:"ගෙන යන්න කෝපි දෙකක්, කරුණාකර."},
-   {word:"The bill",reading:"ද බිල්",meaning:"බිල",example:"Could I have the bill, please?",exampleReading:"කුඩ් අයි හැව් ද බිල්, ප්ලීස්?",translation:"කරුණාකර බිල දෙන්න පුළුවන්ද?"}
-  ],
-  grammarTitle:"ව්‍යාකරණය · ආචාරශීලීව ඇණවුම් කිරීම",
-  grammar:"කැෆේ එකක යමක් ඉල්ලීමට “I'd like ...” හෝ “Could I have ...?” යොදාගන්න. “Without” යනු නැතුව / රහිතව යන්නයි. කෑම මෙතැනදී ගන්නවාද නැත්නම් ගෙන යනවාද කියා “For here or to go?” අසන්න පුළුවන්.",
-  grammarTerms:[
-   {text:"I'd like a coffee, please.",reading:"අයිඩ් ලයික් අ කොෆී, ප්ලීස්.",meaning:"මට කෝපි එකක් අවශ්‍යයි, කරුණාකර."},
-   {text:"Could I see the menu?",reading:"කුඩ් අයි සී ද මෙනියු?",meaning:"මට මෙනුව බලන්න පුළුවන්ද?"},
-   {text:"Without milk",reading:"විදවුට් මිල්ක්",meaning:"කිරි නැතුව"},
-   {text:"For here or to go?",reading:"ෆෝර් හියර් ඕර් ටු ගෝ?",meaning:"මෙතැනටද නැත්නම් ගෙන යන්නද?"},
-   {text:"Could I have the bill?",reading:"කුඩ් අයි හැව් ද බිල්?",meaning:"මට බිල දෙන්න පුළුවන්ද?"}
-  ],
-  examples:[
-   {text:"Good afternoon. I'd like a tea without sugar, please.",reading:"ගුඩ් ආෆ්ටර්නූන්. අයිඩ් ලයික් අ ටී විදවුට් ෂුගර්, ප්ලීස්.",meaning:"සුබ දහවල්. මට සීනි නැති තේ එකක් අවශ්‍යයි, කරුණාකර."},
-   {text:"Could I have a chicken sandwich?",reading:"කුඩ් අයි හැව් අ චිකන් සැන්ඩ්විච්?",meaning:"මට චිකන් සැන්ඩ්විච් එකක් ගන්න පුළුවන්ද?"},
-   {text:"For here, please.",reading:"ෆෝර් හියර්, ප්ලීස්.",meaning:"මෙතැනදී ගන්නවා, කරුණාකර."},
-   {text:"Could I have the bill, please?",reading:"කුඩ් අයි හැව් ද බිල්, ප්ලීස්?",meaning:"කරුණාකර බිල දෙන්න පුළුවන්ද?"}
-  ],
-  dialogue:[
-   {text:"Good afternoon! Are you ready to order?",reading:"ගුඩ් ආෆ්ටර්නූන්! ආර් යූ රෙඩි ටු ඕඩර්?",meaning:"සුබ දහවල්! ඔබ ඇණවුම් කරන්න සූදානම්ද?"},
-   {text:"Yes. Could I see the menu, please?",reading:"යෙස්. කුඩ් අයි සී ද මෙනියු, ප්ලීස්?",meaning:"ඔව්. කරුණාකර මට මෙනුව බලන්න පුළුවන්ද?"},
-   {text:"Of course. What would you like?",reading:"අව් කෝර්ස්. වොට් වුඩ් යූ ලයික්?",meaning:"අනිවාර්යයෙන්ම. ඔබට මොනවාද අවශ්‍ය?"},
-   {text:"I'd like a coffee and a sandwich.",reading:"අයිඩ් ලයික් අ කොෆී ඇන්ඩ් අ සැන්ඩ්විච්.",meaning:"මට කෝපි එකක් සහ සැන්ඩ්විච් එකක් අවශ්‍යයි."},
-   {text:"For here or to go?",reading:"ෆෝර් හියර් ඕර් ටු ගෝ?",meaning:"මෙතැනටද නැත්නම් ගෙන යන්නද?"},
-   {text:"To go, please. And the bill?",reading:"ටු ගෝ, ප්ලීස්. ඇන්ඩ් ද බිල්?",meaning:"ගෙන යන්න, කරුණාකර. බිලත් දෙන්න."}
-  ],
-  listeningPractice:{prompt:"හඬ අසා නිවැරදි අර්ථය තෝරන්න: “I'd like a coffee without milk, please.”",audio:"I'd like a coffee without milk, please.",options:["මට කිරි නැති කෝපි එකක් අවශ්‍යයි, කරුණාකර.","මට සීනි නැති තේ එකක් අවශ්‍යයි.","මට බිල ගෙවන්න බැහැ."],readings:["අයිඩ් ලයික් අ කොෆී විදවුට් මිල්ක්, ප්ලීස්.","අයිඩ් ලයික් අ ටී විදවුට් ෂුගර්, ප්ලීස්.","අයි කෑන්ට් පේ ද බිල්."],answer:0,meaning:"I'd like a coffee without milk, please. = මට කිරි නැති කෝපි එකක් අවශ්‍යයි, කරුණාකර."},
-  practice:[
-   {prompt:"“මට කෝපි එකක් අවශ්‍යයි” කියන විනීත වාක්‍යය තෝරන්න.",options:["I'd like a coffee, please.","Where is the station?","I am late."],readings:["අයිඩ් ලයික් අ කොෆී, ප්ලීස්.","වෙයාර් ඉස් ද ස්ටේෂන්?","අයි ඇම් ලේට්."],answer:0,explanation:"I'd like ... යනු මට ... අවශ්‍යයි යන විනීත රටාවයි."},
-   {prompt:"“කිරි නැතුව” කියන අර්ථය කුමක්ද?",options:["For here","Without milk","To go"],readings:["ෆෝර් හියර්","විදවුට් මිල්ක්","ටු ගෝ"],answer:1,explanation:"Without milk = කිරි නැතුව."},
-   {prompt:"මෙනුව ඉල්ලීමට සුදුසු ප්‍රශ්නය?",options:["Could I see the menu?","What time is it?","How old are you?"],readings:["කුඩ් අයි සී ද මෙනියු?","වොට් ටයිම් ඉස් ඉට්?","හවු ඕල්ඩ් ආ යූ?"],answer:0,explanation:"Could I ...? යනු විනීතව ඉල්ලීමක් කරන රටාවකි."},
-   {prompt:"බිල ඉල්ලීමට නිවැරදි වාක්‍යය තෝරන්න.",options:["Could I have the bill, please?","I need a map.","See you tomorrow."],readings:["කුඩ් අයි හැව් ද බිල්, ප්ලීස්?","අයි නීඩ් අ මැප්.","සී යූ ටුමාරෝ."],answer:0,explanation:"Could I have the bill, please? = කරුණාකර බිල දෙන්න පුළුවන්ද?"}
-  ]
- },
- {
+{
   id:"en-a1-u3-l2",
   unit:"දෛනික ඉල්ලීම් සහ උදව් ලබාගැනීම",
-  title:"පාඩම 12 · උදව් ඉල්ලීම සහ නොතේරුණු විට කතා කිරීම",
+  title: "Lesson 11 · ",
   objective:"ආචාරශීලීව උදව් ඉල්ලීම, නැවත කියන්න පැවසීම, හෙමින් කතා කරන්න ඉල්ලීම සහ සරල අවශ්‍යතාවක් පැහැදිලි කිරීම.",
   vocabulary:[
    {word:"Could you help me?",reading:"කුඩ් යූ හෙල්ප් මී?",meaning:"ඔබට මට උදව් කරන්න පුළුවන්ද?",example:"Excuse me, could you help me?",exampleReading:"ඉක්ස්කියූස් මී, කුඩ් යූ හෙල්ප් මී?",translation:"සමාවෙන්න, ඔබට මට උදව් කරන්න පුළුවන්ද?"},
@@ -390,10 +424,10 @@ export const ENGLISH_A1_LESSONS = [
  }
 
  ,
- {
+{
   id:"en-a1-u3-l3",
   unit:"වෙළඳපොළ සහ ප්‍රමාණ",
-  title:"පාඩම 13 · වෙළඳපොළේ පලතුරු සහ එළවළු මිලදී ගැනීම",
+  title: "Lesson 12 · ",
   objective:"වෙළඳපොළක පලතුරු හා එළවළු ඉල්ලීම, කිලෝ ප්‍රමාණ පැවසීම, මිල විමසීම සහ මිලදී ගැනීම අවසන් කිරීම.",
   vocabulary:[
    {word:"A kilogram",reading:"අ කිලෝග්‍රෑම්",meaning:"කිලෝග්‍රෑමයක්",example:"One kilogram of apples, please.",exampleReading:"වන් කිලෝග්‍රෑම් අව් ඇපල්ස්, ප්ලීස්.",translation:"ඇපල් කිලෝ එකක්, කරුණාකර."},
@@ -440,10 +474,10 @@ export const ENGLISH_A1_LESSONS = [
  }
 
  ,
- {
+{
   id:"en-a1-u3-l4",
   unit:"අංක, දිනය සහ වේලාව",
-  title:"පාඩම 14 · අංක, දිනය සහ වේලාව",
+  title: "Lesson 13 · ",
   objective:"දුරකථන අංකයක්, දිනයක් සහ වේලාවක් පැවසීම, වේලාව විමසීම සහ සරල හමුවීමක් නියම කිරීම.",
   vocabulary:[
    {word:"A number",reading:"අ නම්බර්",meaning:"අංකයක්",example:"What is your phone number?",exampleReading:"වොට් ඉස් යෝර් ෆෝන් නම්බර්?",translation:"ඔබගේ දුරකථන අංකය කුමක්ද?"},
@@ -485,10 +519,10 @@ export const ENGLISH_A1_LESSONS = [
    {prompt:"“අද දිනය කුමක්ද?” අසන්න.",options:["What is the date today?","How much is it?","How are you?"],readings:["වොට් ඉස් ද ඩේට් ටුඩේ?","හවු මච් ඉස් ඉට්?","හවු ආ යූ?"],answer:0,explanation:"What is the date today? = අද දිනය කුමක්ද?"}
   ]
  },
- {
+{
   id:"en-a1-u3-l5",
   unit:"දෛනික ජීවිතය සහ පුරුදු",
-  title:"පාඩම 15 · දෛනික වැඩ සහ පුරුදු",
+  title: "Lesson 14 · ",
   objective:"උදෑසන සිට රාත්‍රිය දක්වා කරන දේවල්, දෛනික පුරුදු සහ සරල කාල අනුපිළිවෙළ විස්තර කිරීම.",
   vocabulary:[
    {word:"Wake up",reading:"වේක් අප්",meaning:"නැගිටිනවා",example:"I wake up at seven.",exampleReading:"අයි වේක් අප් ඇට් සෙවන්.",translation:"මම හතට නැගිටිනවා."},
@@ -531,10 +565,10 @@ export const ENGLISH_A1_LESSONS = [
    {prompt:"“වැඩෙන් පස්සේ” කියන්නේ?",options:["Before work","After work","Tomorrow"],readings:["බිෆෝර් වර්ක්","ආෆ්ටර් වර්ක්","ටුමාරෝ"],answer:1,explanation:"After work = වැඩෙන් පස්සේ."}
   ]
  },
- {
+{
   id:"en-a1-u3-l6",
   unit:"වැඩ මුර සහ කාලසටහන්",
-  title:"පාඩම 16 · වැඩ මුර සහ කාලසටහන",
+  title: "Lesson 15 · ",
   objective:"වැඩ මුරයක් ආරම්භ වන වේලාව, අවසන් වන වේලාව, නිවාඩු දිනය සහ මාරුවක් ඉල්ලීම ගැන කතා කිරීම.",
   vocabulary:[
    {word:"A shift",reading:"අ ෂිෆ්ට්",meaning:"වැඩ මුරයක්",example:"I work the morning shift.",exampleReading:"අයි වර්ක් ද මෝර්නින් ෂිෆ්ට්.",translation:"මම උදෑසන වැඩ මුරයේ වැඩ කරනවා."},
@@ -578,10 +612,10 @@ export const ENGLISH_A1_LESSONS = [
   ]
  }
  ,
- {
+{
   id:"en-a1-u4-l1",
   unit:"Family and personal information",
-  title:"Lesson 17 · Family and personal information",
+  title: "Lesson 16 · ",
   objective:"Introduce family members, say where you are from, and describe the languages you speak.",
   vocabulary:[
    {word:"Family",reading:"ෆැමිලි",meaning:"පවුල",example:"My family is big.",exampleReading:"මයි ෆැමිලි ඉස් බිග්.",translation:"මගේ පවුල විශාලයි."},
@@ -628,10 +662,10 @@ export const ENGLISH_A1_LESSONS = [
  }
 
  ,
- {
+{
   id:"en-a1-u4-l2",
   unit:"Travel and transport",
-  title:"Lesson 18 · Travel and transport",
+  title: "Lesson 17 · ",
   objective:"Ask for a bus or train ticket, check departure times, and find a platform or destination.",
   vocabulary:[
    {word:"Bus",reading:"බස්",meaning:"බස් රථය",example:"The bus arrives at eight.",exampleReading:"ද බස් අරයිව්ස් ඇට් එයිට්.",translation:"බස් රථය අටට එනවා."},
@@ -674,10 +708,10 @@ export const ENGLISH_A1_LESSONS = [
    {prompt:"What is a one-way ticket?",options:["A return ticket","A one-way ticket","A bus stop"],readings:["අ රිටර්න් ටික්ට්","අ වන් වේ ටික්ට්","අ බස් ස්ටොප්"],answer:1,explanation:"A one-way ticket = එක් පැත්තකට ටිකට්පතක්."}
   ]
  },
- {
+{
   id:"en-a1-u4-l3",
   unit:"Home and household",
-  title:"Lesson 19 · Home and household",
+  title: "Lesson 18 · ",
   objective:"Describe where you live, name rooms and basic furniture, and say where things are in a home.",
   vocabulary:[
    {word:"Apartment",reading:"අපාර්ට්මන්ට්",meaning:"මහල් නිවාසය",example:"I live in an apartment.",exampleReading:"අයි ලිව් ඉන් ඇන් අපාර්ට්මන්ට්.",translation:"මම මහල් නිවාසයක ජීවත් වෙනවා."},
@@ -722,13 +756,14 @@ export const ENGLISH_A1_LESSONS = [
  }
 
 
- ,{id:"en-a1-u5-l1",unit:"Food and cooking",title:"Lesson 20 · Food and cooking",objective:"Talk about everyday meals, ingredients and simple cooking routines.",vocabulary:[
+ ,
+{id:"en-a1-u5-l1",unit:"Food and cooking",title: "Lesson 19 · ",objective:"Talk about everyday meals, ingredients and simple cooking routines.",vocabulary:[
 {word:"Food",reading:"ෆූඩ්",meaning:"ආහාර",example:"The food is ready.",exampleReading:"ද ෆූඩ් ඉස් රෙඩි.",translation:"කෑම සූදානම්."},{word:"Breakfast",reading:"බ්‍රෙක්ෆස්ට්",meaning:"උදෑසන ආහාරය",example:"I have breakfast at eight.",exampleReading:"අයි හැව් බ්‍රෙක්ෆස්ට් ඇට් එයිට්.",translation:"මම අටට උදෑසන ආහාරය ගන්නවා."},{word:"Lunch",reading:"ලන්ච්",meaning:"දිවා ආහාරය",example:"Lunch is at noon.",exampleReading:"ලන්ච් ඉස් ඇට් නූන්.",translation:"දිවා ආහාරය දවල්ට."},{word:"Dinner",reading:"ඩිනර්",meaning:"රාත්‍රී ආහාරය",example:"Dinner is at seven.",exampleReading:"ඩිනර් ඉස් ඇට් සෙවන්.",translation:"රාත්‍රී ආහාරය හතට."},{word:"Bread",reading:"බ්‍රෙඩ්",meaning:"පාන්",example:"I buy fresh bread.",exampleReading:"අයි බයි ෆ්‍රෙෂ් බ්‍රෙඩ්.",translation:"මම අලුත් පාන් ගන්නවා."},{word:"Vegetables",reading:"වෙජිටබල්ස්",meaning:"එළවළු",example:"I eat vegetables every day.",exampleReading:"අයි ඊට් වෙජිටබල්ස් එව්රි ඩේ.",translation:"මම හැමදාම එළවළු කනවා."},{word:"Cook",reading:"කුක්",meaning:"උයනවා",example:"I like to cook.",exampleReading:"අයි ලයික් ටු කුක්.",translation:"මම උයන්න කැමතියි."},{word:"Salt",reading:"සෝල්ට්",meaning:"ලුණු",example:"Add a little salt.",exampleReading:"ඇඩ් අ ලිට්ල් සෝල්ට්.",translation:"ලුණු ටිකක් එකතු කරන්න."}],grammarTitle:"Grammar · Meals and like to + verb",grammar:"Use “I eat ...” and “I drink ...” to describe food habits. Use “I like to + verb” to talk about an activity you enjoy: “I like to cook.”",grammarTerms:[{text:"What do you eat for breakfast?",reading:"වොට් ඩූ යූ ඊට් ෆෝර් බ්‍රෙක්ෆස්ට්?",meaning:"උදෑසනට ඔයා මොනවාද කන්නේ?"},{text:"I eat bread and cheese.",reading:"අයි ඊට් බ්‍රෙඩ් ඇන්ඩ් චීස්.",meaning:"මම පාන් සහ චීස් කනවා."},{text:"I drink water.",reading:"අයි ඩ්‍රින්ක් වෝටර්.",meaning:"මම වතුර බොනවා."},{text:"I like to cook.",reading:"අයි ලයික් ටු කුක්.",meaning:"මම උයන්න කැමතියි."},{text:"Add a little salt.",reading:"ඇඩ් අ ලිට්ල් සෝල්ට්.",meaning:"ලුණු ටිකක් එකතු කරන්න."}],examples:[{text:"I eat eggs and bread for breakfast.",reading:"අයි ඊට් එග්ස් ඇන්ඩ් බ්‍රෙඩ් ෆෝර් බ්‍රෙක්ෆස්ට්.",meaning:"උදෑසනට මම බිත්තර සහ පාන් කනවා."},{text:"I cook soup for lunch.",reading:"අයි කුක් සූප් ෆෝර් ලන්ච්.",meaning:"දිවා ආහාරයට මම සුප් උයනවා."},{text:"I do not eat meat.",reading:"අයි ඩූ නොට් ඊට් මීට්.",meaning:"මම මස් කන්නේ නැහැ."},{text:"I like fresh vegetables.",reading:"අයි ලයික් ෆ්‍රෙෂ් වෙජිටබල්ස්.",meaning:"මම නැවුම් එළවළු කැමතියි."}],dialogue:[{text:"What do you eat for breakfast?",reading:"වොට් ඩූ යූ ඊට් ෆෝර් බ්‍රෙක්ෆස්ට්?",meaning:"උදෑසනට ඔයා මොනවාද කන්නේ?"},{text:"I usually eat eggs and bread.",reading:"අයි යූෂුවලි ඊට් එග්ස් ඇන්ඩ් බ්‍රෙඩ්.",meaning:"සාමාන්‍යයෙන් මම බිත්තර සහ පාන් කනවා."},{text:"Do you cook at home?",reading:"ඩූ යූ කුක් ඇට් හෝම්?",meaning:"ඔයා ගෙදර උයනවාද?"},{text:"Yes, I like to cook.",reading:"යෙස්, අයි ලයික් ටු කුක්.",meaning:"ඔව්, මම උයන්න කැමතියි."},{text:"What are you cooking today?",reading:"වොට් ආර් යූ කුකින් ටුඩේ?",meaning:"අද ඔයා මොනවාද උයන්නේ?"},{text:"I'm making vegetable soup.",reading:"අයිම් මේකින් වෙජිටබල් සූප්.",meaning:"මම එළවළු සුප් හදනවා."}],listeningPractice:{prompt:"Listen and choose the correct meaning: “I like to cook.”",audio:"I like to cook.",options:["මම උයන්න කැමතියි.","මම කෑම කන්නේ නැහැ.","මම කඩයට යනවා."],readings:["අයි ලයික් ටු කුක්.","අයි ඩූ නොට් ඊට්.","අයි ගෝ ටු ද ෂොප්."],answer:0,meaning:"I like to cook. = මම උයන්න කැමතියි."},practice:[{prompt:"Choose “Breakfast”.",options:["Dinner","Breakfast","Lunch"],readings:["ඩිනර්","බ්‍රෙක්ෆස්ට්","ලන්ච්"],answer:1,explanation:"Breakfast = උදෑසන ආහාරය."},{prompt:"How do you say “මම වතුර බොනවා”?",options:["I drink water.","I eat bread.","I cook soup."],readings:["අයි ඩ්‍රින්ක් වෝටර්.","අයි ඊට් බ්‍රෙඩ්.","අයි කුක් සූප්."],answer:0,explanation:"I drink water = මම වතුර බොනවා."},{prompt:"Choose “I like to cook”.",options:["I do not eat meat.","I like to cook.","Lunch is ready."],readings:["අයි ඩූ නොට් ඊට් මීට්.","අයි ලයික් ටු කුක්.","ලන්ච් ඉස් රෙඩි."],answer:1,explanation:"I like to cook = මම උයන්න කැමතියි."},{prompt:"Choose “Vegetables”.",options:["Vegetables","Salt","Bread"],readings:["වෙජිටබල්ස්","සෝල්ට්","බ්‍රෙඩ්"],answer:0,explanation:"Vegetables = එළවළු."}]},
-{id:"en-a1-u5-l2",unit:"Weather and clothes",title:"Lesson 21 · Weather and clothes",objective:"Describe the weather, talk about temperature and name clothes for different conditions.",vocabulary:[
+{id:"en-a1-u5-l2",unit:"Weather and clothes",title: "Lesson 20 · ",objective:"Describe the weather, talk about temperature and name clothes for different conditions.",vocabulary:[
 {word:"Weather",reading:"වෙදර්",meaning:"කාලගුණය",example:"What is the weather like today?",exampleReading:"වොට් ඉස් ද වෙදර් ලයික් ටුඩේ?",translation:"අද කාලගුණය කොහොමද?"},{word:"Sunny",reading:"සන්නි",meaning:"අව්ව සහිත",example:"It is sunny today.",exampleReading:"ඉට් ඉස් සන්නි ටුඩේ.",translation:"අද අව්වයි."},{word:"Rain",reading:"රේන්",meaning:"වැස්ස",example:"It is raining.",exampleReading:"ඉට් ඉස් රේනින්.",translation:"වැස්ස වැටෙනවා."},{word:"Cold",reading:"කෝල්ඩ්",meaning:"සීතල",example:"It is cold outside.",exampleReading:"ඉට් ඉස් කෝල්ඩ් අවුට්සයිඩ්.",translation:"එළියේ සීතලයි."},{word:"Warm",reading:"වෝර්ම්",meaning:"උණුසුම්",example:"It is warm today.",exampleReading:"ඉට් ඉස් වෝර්ම් ටුඩේ.",translation:"අද උණුසුම්."},{word:"Jacket",reading:"ජැකට්",meaning:"ජැකට්ටුව",example:"Wear your jacket.",exampleReading:"වෙයාර් යෝර් ජැකට්.",translation:"ඔයාගේ ජැකට්ටුව ඇඳගන්න."},{word:"Umbrella",reading:"අම්බ්‍රෙලා",meaning:"කුඩය",example:"Take an umbrella.",exampleReading:"ටේක් ඇන් අම්බ්‍රෙලා.",translation:"කුඩයක් රැගෙන යන්න."},{word:"Shoes",reading:"ෂූස්",meaning:"සපත්තු",example:"My shoes are new.",exampleReading:"මයි ෂූස් ආර් න්‍යූ.",translation:"මගේ සපත්තු අලුත්."}],grammarTitle:"Grammar · Asking about and describing weather",grammar:"Ask “What is the weather like?” Use “It is ...” to describe conditions. Use “It is raining” for rain happening now and “It will be ...” for a simple forecast.",grammarTerms:[{text:"What is the weather like today?",reading:"වොට් ඉස් ද වෙදර් ලයික් ටුඩේ?",meaning:"අද කාලගුණය කොහොමද?"},{text:"It is sunny.",reading:"ඉට් ඉස් සන්නි.",meaning:"අව්වයි."},{text:"It is raining.",reading:"ඉට් ඉස් රේනින්.",meaning:"වැස්ස වැටෙනවා."},{text:"It is cold outside.",reading:"ඉට් ඉස් කෝල්ඩ් අවුට්සයිඩ්.",meaning:"එළියේ සීතලයි."},{text:"I need a jacket.",reading:"අයි නීඩ් අ ජැකට්.",meaning:"මට ජැකට්ටුවක් අවශ්‍යයි."}],examples:[{text:"It is cold and windy today.",reading:"ඉට් ඉස් කෝල්ඩ් ඇන්ඩ් වින්ඩි ටුඩේ.",meaning:"අද සීතලයි සහ සුළං සහිතයි."},{text:"Take an umbrella. It is raining.",reading:"ටේක් ඇන් අම්බ්‍රෙලා. ඉට් ඉස් රේනින්.",meaning:"කුඩයක් රැගෙන යන්න. වැස්ස වැටෙනවා."},{text:"I am wearing a warm jacket.",reading:"අයි ඇම් වෙයරින් අ වෝර්ම් ජැකට්.",meaning:"මම උණුසුම් ජැකට්ටුවක් ඇඳගෙන ඉන්නවා."},{text:"It will be sunny tomorrow.",reading:"ඉට් විල් බී සන්නි ටුමාරෝ.",meaning:"හෙට අව්ව සහිත වේවි."}],dialogue:[{text:"What is the weather like today?",reading:"වොට් ඉස් ද වෙදර් ලයික් ටුඩේ?",meaning:"අද කාලගුණය කොහොමද?"},{text:"It is cold and raining.",reading:"ඉට් ඉස් කෝල්ඩ් ඇන්ඩ් රේනින්.",meaning:"සීතලයි, වැස්සත් වැටෙනවා."},{text:"Do I need a jacket?",reading:"ඩූ අයි නීඩ් අ ජැකට්?",meaning:"මට ජැකට්ටුවක් අවශ්‍යද?"},{text:"Yes, and take an umbrella.",reading:"යෙස්, ඇන්ඩ් ටේක් ඇන් අම්බ්‍රෙලා.",meaning:"ඔව්, කුඩයකුත් රැගෙන යන්න."},{text:"What will the weather be like tomorrow?",reading:"වොට් විල් ද වෙදර් බී ලයික් ටුමාරෝ?",meaning:"හෙට කාලගුණය කොහොම වේවිද?"},{text:"It will be sunny and warm.",reading:"ඉට් විල් බී සන්නි ඇන්ඩ් වෝර්ම්.",meaning:"අව්ව සහිතව උණුසුම් වේවි."}],listeningPractice:{prompt:"Listen and choose the correct meaning: “Take an umbrella.”",audio:"Take an umbrella.",options:["කුඩයක් රැගෙන යන්න.","ජැකට්ටුවක් මිලදී ගන්න.","සපත්තු ගලවන්න."],readings:["ටේක් ඇන් අම්බ්‍රෙලා.","බයි අ ජැකට්.","ටේක් ඕෆ් යෝර් ෂූස්."],answer:0,meaning:"Take an umbrella. = කුඩයක් රැගෙන යන්න."},practice:[{prompt:"Choose “Rain”.",options:["Sunny","Rain","Jacket"],readings:["සන්නි","රේන්","ජැකට්"],answer:1,explanation:"Rain = වැස්ස."},{prompt:"How do you say “අද අව්වයි”?",options:["It is sunny today.","It is raining today.","It is cold today."],readings:["ඉට් ඉස් සන්නි ටුඩේ.","ඉට් ඉස් රේනින් ටුඩේ.","ඉට් ඉස් කෝල්ඩ් ටුඩේ."],answer:0,explanation:"It is sunny today = අද අව්වයි."},{prompt:"Choose “Umbrella”.",options:["Shoes","Jacket","Umbrella"],readings:["ෂූස්","ජැකට්","අම්බ්‍රෙලා"],answer:2,explanation:"Umbrella = කුඩය."},{prompt:"Choose “It is cold outside”.",options:["It is cold outside.","It is warm today.","My shoes are new."],readings:["ඉට් ඉස් කෝල්ඩ් අවුට්සයිඩ්.","ඉට් ඉස් වෝර්ම් ටුඩේ.","මයි ෂූස් ආර් න්‍යූ."],answer:0,explanation:"It is cold outside = එළියේ සීතලයි."}]}
 
 ,
-{id:"en-a1-u6-l1",unit:"Restaurant and ordering food",title:"Lesson 22 · Restaurant and ordering food",objective:"Ask for a menu, order food and drinks, request extras and ask for the bill.",
+{id:"en-a1-u6-l1",unit:"Restaurant and ordering food",title: "Lesson 21 · ",objective:"Ask for a menu, order food and drinks, request extras and ask for the bill.",
 vocabulary:[
 {word:"Menu",reading:"මෙනියූ",meaning:"මෙනුව",example:"Could I see the menu, please?",exampleReading:"කුඩ් අයි සී ද මෙනියූ ප්ලීස්?",translation:"මට මෙනුව බලන්න පුළුවන්ද?"},
 {word:"Waiter",reading:"වේටර්",meaning:"වේටර්",example:"The waiter brings some water.",exampleReading:"ද වේටර් බ්‍රිංස් සම් වෝටර්.",translation:"වේටර් වතුර ටිකක් ගෙනෙනවා."},
@@ -765,7 +800,7 @@ practice:[
 {prompt:"Choose “Takeaway”.",options:["Main course","Side dish","Takeaway"],readings:["මේන් කෝර්ස්","සයිඩ් ඩිෂ්","ටේකඅවේ"],answer:2,explanation:"Takeaway = ගෙන යාම සඳහා."},
 {prompt:"How do you ask for the bill?",options:["Could we have the bill, please?","Could I see the menu?","I need a jacket."],readings:["කුඩ් වී හැව් ද බිල් ප්ලීස්?","කුඩ් අයි සී ද මෙනියූ?","අයි නීඩ් අ ජැකට්."],answer:0,explanation:"Could we have the bill, please? = අපට බිල ලබාගන්න පුළුවන්ද?"}]}
 ,
-{id:"en-a1-u6-l2",unit:"Customer service and simple problems",title:"Lesson 23 · Customer service and simple problems",objective:"Ask a staff member for help, explain a simple order problem and make a polite request.",
+{id:"en-a1-u6-l2",unit:"Customer service and simple problems",title: "Lesson 22 · ",objective:"Ask a staff member for help, explain a simple order problem and make a polite request.",
 vocabulary:[
 {word:"Help",reading:"හෙල්ප්",meaning:"උදව්ව",example:"I need some help, please.",exampleReading:"අයි නීඩ් සම් හෙල්ප් ප්ලීස්.",translation:"මට උදව්වක් අවශ්‍යයි."},
 {word:"Incorrect",reading:"ඉන්කරෙක්ට්",meaning:"වැරදි",example:"This is the incorrect order.",exampleReading:"දිස් ඉස් දි ඉන්කරෙක්ට් ඕඩර්.",translation:"මේක වැරදි ඇණවුමයි."},
@@ -805,7 +840,7 @@ practice:[
 
 ,
 {
-id:"en-a1-u6-l3",unit:"Phone calls and messages",title:"Lesson 24 · Phone calls and messages",objective:"Make a phone call, answer a call and send a short message.",
+id:"en-a1-u6-l3",unit:"Phone calls and messages",title: "Lesson 23 · ",objective:"Make a phone call, answer a call and send a short message.",
 vocabulary:[
 {word:"Call",reading:"කෝල්",meaning:"දුරකථන ඇමතුම",example:"I have a call.",exampleReading:"අයි හැව් අ කෝල්.",translation:"මට ඇමතුමක් තියෙනවා."},
 {word:"Message",reading:"මෙසිජ්",meaning:"පණිවිඩය",example:"I sent a message.",exampleReading:"අයි සෙන්ට් අ මෙසිජ්.",translation:"මම පණිවිඩයක් යැව්වා."},
@@ -842,7 +877,7 @@ practice:[
 {prompt:"Choose “මඟහැරුණු ඇමතුම”.",options:["Phone number","Missed call","Reply"],readings:["ෆෝන් නම්බර්","මිස්ට් කෝල්","රිප්ලයි"],answer:1,explanation:"Missed call = මඟහැරුණු ඇමතුම."},
 {prompt:"How do you say “මට පණිවිඩයක් එවන්න”?",options:["Call me tomorrow.","Send me a message.","I am answering."],readings:["කෝල් මී ටුමොරෝ.","සෙන්ඩ් මී අ මෙසිජ්.","අයි ඇම් ආන්සරිං."],answer:1,explanation:"Send me a message = මට පණිවිඩයක් එවන්න."}]},
 {
-id:"en-a1-u6-l4",unit:"Post office and parcels",title:"Lesson 25 · Post office and parcels",objective:"Send a parcel, provide an address and ask about collecting a delivery.",
+id:"en-a1-u6-l4",unit:"Post office and parcels",title: "Lesson 24 · ",objective:"Send a parcel, provide an address and ask about collecting a delivery.",
 vocabulary:[
 {word:"Post office",reading:"පෝස්ට් ඔෆිස්",meaning:"තැපැල් කාර්යාලය",example:"The post office is near the station.",exampleReading:"ද පෝස්ට් ඔෆිස් ඉස් නියර් ද ස්ටේෂන්.",translation:"තැපැල් කාර්යාලය නැවතුම්පොළ අසලයි."},
 {word:"Parcel",reading:"පාර්සල්",meaning:"පාර්සලය",example:"I want to send a parcel.",exampleReading:"අයි වොන්ට් ටු සෙන්ඩ් අ පාර්සල්.",translation:"මට පාර්සලයක් යවන්න ඕනේ."},
@@ -881,7 +916,7 @@ practice:[
 
 ,
 {
-id:"en-a1-u6-l5",unit:"Doctor and health",title:"Lesson 26 · Doctor and health",objective:"Ask for a medical appointment, describe common symptoms and understand simple instructions.",
+id:"en-a1-u6-l5",unit:"Doctor and health",title: "Lesson 25 · ",objective:"Ask for a medical appointment, describe common symptoms and understand simple instructions.",
 vocabulary:[
 {word:"Doctor",reading:"ඩොක්ටර්",meaning:"වෛද්‍යවරයා",example:"I need to see a doctor.",exampleReading:"අයි නීඩ් ටු සී අ ඩොක්ටර්.",translation:"මට වෛද්‍යවරයෙකු හමුවෙන්න ඕනේ."},
 {word:"Appointment",reading:"අපොයින්ට්මන්ට්",meaning:"වෙන්කරගත් වේලාව / හමුවීම",example:"I have an appointment today.",exampleReading:"අයි හැව් ඇන් අපොයින්ට්මන්ට් ටුඩේ.",translation:"මට අද හමුවීමක් තියෙනවා."},
@@ -920,7 +955,7 @@ practice:[
 }
 ,
 {
-id:"en-a1-u6-l6",unit:"Emergency services and asking for help",title:"Lesson 27 · Emergency services and asking for help",objective:"Ask for help, identify an emergency service and explain your location in simple English.",
+id:"en-a1-u6-l6",unit:"Emergency services and asking for help",title: "Lesson 26 · ",objective:"Ask for help, identify an emergency service and explain your location in simple English.",
 vocabulary:[
 {word:"Emergency services",reading:"ඉමර්ජන්සි සර්විසස්",meaning:"හදිසි සේවා",example:"Call the emergency services.",exampleReading:"කෝල් දි ඉමර්ජන්සි සර්විසස්.",translation:"හදිසි සේවා අමතන්න."},
 {word:"Ambulance",reading:"ඇම්බියුලන්ස්",meaning:"ගිලන් රථය",example:"Please call an ambulance.",exampleReading:"ප්ලීස් කෝල් ඇන් ඇම්බියුලන්ස්.",translation:"කරුණාකර ගිලන් රථයක් අමතන්න."},
@@ -957,7 +992,7 @@ practice:[
 {prompt:"Choose “මේක හදිසියි”.",options:["This is urgent.","This is easy.","I am ready."],readings:["දිස් ඉස් අර්ජන්ට්.","දිස් ඉස් ඊසි.","අයි ඇම් රෙඩි."],answer:0,explanation:"This is urgent = මේක හදිසියි."}]}
 ,
 {
-id:"en-a1-u6-l7",unit:"Returns and exchanges",title:"Lesson 28 · Returns and exchanges",objective:"Explain a problem with an item, ask for another size and ask about a refund.",
+id:"en-a1-u6-l7",unit:"Returns and exchanges",title: "Lesson 27 · ",objective:"Explain a problem with an item, ask for another size and ask about a refund.",
 vocabulary:[
 {word:"Exchange",reading:"එක්ස්චේන්ජ්",meaning:"භාණ්ඩය මාරු කිරීම",example:"I would like an exchange.",exampleReading:"අයි වුඩ් ලයික් ඇන් එක්ස්චේන්ජ්.",translation:"මට භාණ්ඩය මාරු කරගන්න ඕනේ."},
 {word:"Refund",reading:"රීෆන්ඩ්",meaning:"මුදල් ආපසු ලබාදීම",example:"Can I get a refund?",exampleReading:"කැන් අයි ගෙට් අ රීෆන්ඩ්?",translation:"මට මුදල් ආපසු ලබාගන්න පුළුවන්ද?"},
@@ -997,7 +1032,7 @@ practice:[
 
 ,
 {
-id:"en-a1-u7-l1",unit:"Making plans and meeting",title:"Lesson 29 · Making plans and meeting",objective:"Talk about simple plans, suggest a time to meet and confirm whether a time is suitable.",
+id:"en-a1-u7-l1",unit:"Making plans and meeting",title: "Lesson 28 · ",objective:"Talk about simple plans, suggest a time to meet and confirm whether a time is suitable.",
 vocabulary:[
 {word:"Plan",reading:"ප්ලෑන්",meaning:"සැලැස්ම",example:"I have a plan for the weekend.",exampleReading:"අයි හැව් අ ප්ලෑන් ෆෝ දි වීකෙන්ඩ්.",translation:"සති අන්තයට මට සැලැස්මක් තියෙනවා."},
 {word:"Weekend",reading:"වීකෙන්ඩ්",meaning:"සති අන්තය",example:"What are you doing this weekend?",exampleReading:"වොට් ආර් යූ ඩූඉං දිස් වීකෙන්ඩ්?",translation:"මේ සති අන්තයේ ඔයා මොකද කරන්නේ?"},
@@ -1036,7 +1071,7 @@ practice:[
 
 ,
 {
-id:"en-a1-u7-l2",unit:"Being late and apologising",title:"Lesson 30 · Being late and apologising",objective:"Say that you are late, give a simple reason and tell someone when you will arrive.",
+id:"en-a1-u7-l2",unit:"Being late and apologising",title: "Lesson 29 · ",objective:"Say that you are late, give a simple reason and tell someone when you will arrive.",
 vocabulary:[
 {word:"Late",reading:"ලේට්",meaning:"පරක්කු",example:"Sorry, I am late.",exampleReading:"සොරි, අයි ඇම් ලේට්.",translation:"සමාවෙන්න, මම පරක්කුයි."},
 {word:"Sorry",reading:"සොරි",meaning:"සමාවෙන්න",example:"Sorry for being late.",exampleReading:"සොරි ෆෝ බීඉං ලේට්.",translation:"පරක්කු වුණාට සමාවෙන්න."},
@@ -1074,7 +1109,7 @@ practice:[
 
 
 ,
-{id:"en-a1-u8-l1",unit:"Daily routines",title:"Lesson 31 · Daily routines",objective:"Talk about everyday activities and simple morning and evening routines.",
+{id:"en-a1-u8-l1",unit:"Daily routines",title: "Lesson 30 · ",objective:"Talk about everyday activities and simple morning and evening routines.",
 vocabulary:[
 {word:"Wake up",reading:"වේක් අප්",meaning:"නැගිටිනවා",example:"I wake up at seven.",exampleReading:"අයි වේක් අප් ඇට් සෙවන්.",translation:"මම හතට නැගිටිනවා."},
 {word:"Breakfast",reading:"බ්‍රෙක්ෆස්ට්",meaning:"උදෑසන ආහාරය",example:"I have breakfast at home.",exampleReading:"අයි හැව් බ්‍රෙක්ෆස්ට් ඇට් හෝම්.",translation:"මම ගෙදරදී උදෑසන ආහාරය ගන්නවා."},
@@ -1109,7 +1144,7 @@ practice:[
 {prompt:"Choose “වැඩෙන් පස්සේ”.",options:["Before work","After work","Every week"],readings:["බිෆෝර් වර්ක්","ආෆ්ටර් වර්ක්","එව්රි වීක්"],answer:1,explanation:"After work = වැඩෙන් පස්සේ."},
 {prompt:"How do you say “මම සාමාන්‍යයෙන් කෝපි බොනවා”?",options:["I usually drink coffee.","I never drink coffee.","I make coffee now."],readings:["අයි යූෂුවලි ඩ්‍රින්ක් කොෆී.","අයි නෙවර් ඩ්‍රින්ක් කොෆී.","අයි මේක් කොෆී නව්."],answer:0,explanation:"I usually drink coffee = මම සාමාන්‍යයෙන් කෝපි බොනවා."}]}
 ,
-{id:"en-a1-u8-l2",unit:"Work shifts and schedules",title:"Lesson 32 · Work shifts and schedules",objective:"Ask about work hours, morning or evening shifts and weekly workdays.",
+{id:"en-a1-u8-l2",unit:"Work shifts and schedules",title: "Lesson 31 · ",objective:"Ask about work hours, morning or evening shifts and weekly workdays.",
 vocabulary:[
 {word:"Shift",reading:"ෂිෆ්ට්",meaning:"වැඩ මුරය",example:"I work the evening shift.",exampleReading:"අයි වර්ක් දි ඊව්නින් ෂිෆ්ට්.",translation:"මම සවස වැඩ මුරයේ වැඩ කරනවා."},
 {word:"Morning shift",reading:"මෝර්නින් ෂිෆ්ට්",meaning:"උදෑසන වැඩ මුරය",example:"The morning shift starts at seven.",exampleReading:"දි මෝර්නින් ෂිෆ්ට් ස්ටාර්ට්ස් ඇට් සෙවන්.",translation:"උදෑසන වැඩ මුරය හතට පටන් ගන්නවා."},
@@ -1144,7 +1179,7 @@ practice:[
 {prompt:"How do you say “මම උදෑසන වැඩ මුරයේ වැඩ කරනවා”?",options:["I work the morning shift.","I finish in the morning.","I have a day off."],readings:["අයි වර්ක් දි මෝර්නින් ෂිෆ්ට්.","අයි ෆිනිෂ් ඉන් දි මෝර්නින්.","අයි හැව් අ ඩේ ඔෆ්."],answer:0,explanation:"I work the morning shift = මම උදෑසන වැඩ මුරයේ වැඩ කරනවා."},
 {prompt:"Choose “නිවාඩු දිනය”.",options:["Workday","Day off","Weekday"],readings:["වර්ක්ඩේ","ඩේ ඔෆ්","වීක්ඩේ"],answer:1,explanation:"Day off = නිවාඩු දිනය."}]}
 ,
-{id:"en-a1-u8-l3",unit:"Asking for a day off",title:"Lesson 33 · Asking for a day off",objective:"Politely ask a manager for a day off and understand a simple response.",
+{id:"en-a1-u8-l3",unit:"Asking for a day off",title: "Lesson 32 · ",objective:"Politely ask a manager for a day off and understand a simple response.",
 vocabulary:[
 {word:"Day off",reading:"ඩේ ඔෆ්",meaning:"නිවාඩු දිනය",example:"I need a day off.",exampleReading:"අයි නීඩ් අ ඩේ ඔෆ්.",translation:"මට නිවාඩු දිනයක් අවශ්‍යයි."},
 {word:"Holiday",reading:"හොලිඩේ",meaning:"නිවාඩුව",example:"I would like to take a holiday.",exampleReading:"අයි වුඩ් ලයික් ටු ටේක් අ හොලිඩේ.",translation:"මට නිවාඩුවක් ගන්න ඕනේ."},
@@ -1181,7 +1216,7 @@ practice:[
 
 
 ,
-{id:"en-a1-u9-l1",unit:"Phone calls",title:"Lesson 34 · Phone calls",objective:"Introduce yourself on the phone, ask for someone and say that you will call again later.",
+{id:"en-a1-u9-l1",unit:"Phone calls",title: "Lesson 33 · ",objective:"Introduce yourself on the phone, ask for someone and say that you will call again later.",
 vocabulary:[
 {word:"Phone",reading:"ෆෝන්",meaning:"දුරකථනය",example:"My phone is ringing.",exampleReading:"මයි ෆෝන් ඉස් රිංගිං.",translation:"මගේ දුරකථනය නාද වෙනවා."},
 {word:"Call",reading:"කෝල්",meaning:"ඇමතුමක් දීම",example:"Can I call you?",exampleReading:"කැන් අයි කෝල් යූ?",translation:"මට ඔයාට ඇමතුමක් දෙන්න පුළුවන්ද?"},
@@ -1216,7 +1251,7 @@ practice:[
 {prompt:"Choose “මම ඔයාට පසුව කතා කරන්නම්”.",options:["I'll call you later.","I'll see you yesterday.","I can't hear you."],readings:["අයිල් කෝල් යූ ලේටර්.","අයිල් සී යූ යෙස්ටර්ඩේ.","අයි කාන්ට් හියර් යූ."],answer:0,explanation:"I'll call you later = මම ඔයාට පසුව කතා කරන්නම්."},
 {prompt:"How do you ask to leave information?",options:["Can I leave a message?","Can I buy a phone?","Can I go home?"],readings:["කැන් අයි ලීව් අ මෙසිජ්?","කැන් අයි බයි අ ෆෝන්?","කැන් අයි ගෝ හෝම්?"],answer:0,explanation:"Can I leave a message? = මට පණිවිඩයක් තබන්න පුළුවන්ද?"}]}
 ,
-{id:"en-a1-u9-l2",unit:"Weather and clothes",title:"Lesson 35 · Weather and clothes",objective:"Describe the weather and talk about clothes you may need.",
+{id:"en-a1-u9-l2",unit:"Weather and clothes",title: "Lesson 34 · ",objective:"Describe the weather and talk about clothes you may need.",
 vocabulary:[
 {word:"Weather",reading:"වෙදර්",meaning:"කාලගුණය",example:"What's the weather like today?",exampleReading:"වොට්ස් දි වෙදර් ලයික් ටුඩේ?",translation:"අද කාලගුණය කොහොමද?"},
 {word:"Sunny",reading:"සනී",meaning:"අව්ව සහිත",example:"It is sunny today.",exampleReading:"ඉට් ඉස් සනී ටුඩේ.",translation:"අද අව්ව තියෙනවා."},
@@ -1251,7 +1286,7 @@ practice:[
 {prompt:"Choose “එළියේ සීතලයි”.",options:["It is warm outside.","It is cold outside.","It is sunny outside."],readings:["ඉට් ඉස් වෝර්ම් අවුට්සයිඩ්.","ඉට් ඉස් කෝල්ඩ් අවුට්සයිඩ්.","ඉට් ඉස් සනී අවුට්සයිඩ්."],answer:1,explanation:"It is cold outside = එළියේ සීතලයි."},
 {prompt:"How do you say “මම මොනවාද අඳින්න ඕනේ?”",options:["What should I wear?","Where should I go?","What should I buy?"],readings:["වොට් ෂුඩ් අයි වෙයාර්?","වෙයාර් ෂුඩ් අයි ගෝ?","වොට් ෂුඩ් අයි බයි?"],answer:0,explanation:"What should I wear? = මම මොනවාද අඳින්න ඕනේ?"}]}
 ,
-{id:"en-a1-u9-l3",unit:"Choosing food at a café",title:"Lesson 36 · Choosing food at a café",objective:"Choose food or a drink, ask about ingredients and express simple preferences.",
+{id:"en-a1-u9-l3",unit:"Choosing food at a café",title: "Lesson 35 · ",objective:"Choose food or a drink, ask about ingredients and express simple preferences.",
 vocabulary:[
 {word:"Menu",reading:"මෙනියු",meaning:"ආහාර මෙනුව",example:"Can I see the menu?",exampleReading:"කැන් අයි සී දි මෙනියු?",translation:"මට මෙනුව බලන්න පුළුවන්ද?"},
 {word:"Recommendation",reading:"රෙකමෙන්ඩේෂන්",meaning:"නිර්දේශය",example:"What do you recommend?",exampleReading:"වොට් ඩූ යූ රෙකමෙන්ඩ්?",translation:"ඔබ නිර්දේශ කරන්නේ මොකක්ද?"},
@@ -1288,7 +1323,7 @@ practice:[
 
 
 ,
-{id:"en-a1-u10-l1",unit:"Family and people",title:"Lesson 37 · Family and people",objective:"Introduce family members and give simple information about them.",
+{id:"en-a1-u10-l1",unit:"Family and people",title: "Lesson 36 · ",objective:"Introduce family members and give simple information about them.",
 vocabulary:[
 {word:"Family",reading:"ෆැමිලි",meaning:"පවුල",example:"My family is big.",exampleReading:"මයි ෆැමිලි ඉස් බිග්.",translation:"මගේ පවුල විශාලයි."},
 {word:"Mother",reading:"මදර්",meaning:"මව",example:"My mother lives in Serbia.",exampleReading:"මයි මදර් ලිව්ස් ඉන් සර්බියා.",translation:"මගේ මව සර්බියාවේ ජීවත් වෙනවා."},
@@ -1323,7 +1358,7 @@ practice:[
 {prompt:"How do you say “මට සහෝදරියක් ඉන්නවා”?",options:["I have a sister.","I have a brother.","I have a son."],readings:["අයි හැව් අ සිස්ටර්.","අයි හැව් අ බ්‍රදර්.","අයි හැව් අ සන්."],answer:0,explanation:"I have a sister = මට සහෝදරියක් ඉන්නවා."},
 {prompt:"Choose the word for “දෙමාපියන්”.",options:["Parents","Children","Friends"],readings:["පේරන්ට්ස්","චිල්ඩ්‍රන්","ෆ්‍රෙන්ඩ්ස්"],answer:0,explanation:"Parents = දෙමාපියන්."}]}
 ,
-{id:"en-a1-u10-l2",unit:"Home and rooms",title:"Lesson 38 · Home and rooms",objective:"Describe rooms, furniture and the place where you live.",
+{id:"en-a1-u10-l2",unit:"Home and rooms",title: "Lesson 37 · ",objective:"Describe rooms, furniture and the place where you live.",
 vocabulary:[
 {word:"Apartment",reading:"අපාර්ට්මන්ට්",meaning:"මහල් නිවස / අපාර්ට්මන්ට්",example:"I live in an apartment.",exampleReading:"අයි ලිව් ඉන් ඇන් අපාර්ට්මන්ට්.",translation:"මම අපාර්ට්මන්ට් එකක ජීවත් වෙනවා."},
 {word:"House",reading:"හවුස්",meaning:"නිවස",example:"My house is small.",exampleReading:"මයි හවුස් ඉස් ස්මෝල්.",translation:"මගේ නිවස කුඩායි."},
@@ -1358,7 +1393,7 @@ practice:[
 {prompt:"How do you say “මම අපාර්ට්මන්ට් එකක ජීවත් වෙනවා”?",options:["I live in an apartment.","I work in an apartment.","I sleep in a house."],readings:["අයි ලිව් ඉන් ඇන් අපාර්ට්මන්ට්.","අයි වර්ක් ඉන් ඇන් අපාර්ට්මන්ට්.","අයි ස්ලීප් ඉන් අ හවුස්."],answer:0,explanation:"I live in an apartment = මම අපාර්ට්මන්ට් එකක ජීවත් වෙනවා."},
 {prompt:"Choose the English word for “ඇඳ”.",options:["Bed","Table","Window"],readings:["බෙඩ්","ටේබල්","වින්ඩෝ"],answer:0,explanation:"Bed = ඇඳ."}]}
 ,
-{id:"en-a1-u10-l3",unit:"Booking an appointment",title:"Lesson 39 · Booking an appointment",objective:"Ask for an appointment, confirm a date and time, and understand a simple booking response.",
+{id:"en-a1-u10-l3",unit:"Booking an appointment",title: "Lesson 38 · ",objective:"Ask for an appointment, confirm a date and time, and understand a simple booking response.",
 vocabulary:[
 {word:"Book",reading:"බුක්",meaning:"වෙන්කරගැනීම",example:"I want to book an appointment.",exampleReading:"අයි වොන්ට් ටු බුක් ඇන් අපොයින්ට්මන්ට්.",translation:"මට හමුවීමක් වෙන්කරගන්න ඕනේ."},
 {word:"Appointment",reading:"අපොයින්ට්මන්ට්",meaning:"හමුවීම / වෙන්කළ වේලාව",example:"I have an appointment on Friday.",exampleReading:"අයි හැව් ඇන් අපොයින්ට්මන්ට් ඔන් ෆ්‍රයිඩේ.",translation:"මට සිකුරාදා හමුවීමක් තියෙනවා."},
@@ -1394,7 +1429,8 @@ practice:[
 {prompt:"Choose “මට වේලාව වෙනස් කරන්න ඕනේ”.",options:["I need to change the time.","I need to book a room.","I need to leave now."],readings:["අයි නීඩ් ටු චේන්ජ් දි ටයිම්.","අයි නීඩ් ටු බුක් අ රූම්.","අයි නීඩ් ටු ලීව් නව්."],answer:0,explanation:"I need to change the time = මට වේලාව වෙනස් කරන්න ඕනේ."}]}
 
  // Paired A1 completion batch — lessons 40–42
- ,{id:"en-a1-u11-l1",unit:"Shopping and everyday services",title:"Lesson 40 · Paying at the supermarket checkout",objective:"Ask about the checkout, bags, payment methods, the total and the receipt.",
+ ,
+{id:"en-a1-u11-l1",unit:"Shopping and everyday services",title: "Lesson 39 · ",objective:"Ask about the checkout, bags, payment methods, the total and the receipt.",
  vocabulary:[
  {word:"Checkout",reading:"චෙක්අවුට්",meaning:"මුදල් ගෙවන කවුළුව",example:"Where is the checkout?",exampleReading:"වෙයාර් ඉස් දි චෙක්අවුට්?",translation:"මුදල් ගෙවන කවුළුව කොහෙද?"},
  {word:"Cashier",reading:"කෑෂියර්",meaning:"මුදල් අයකැමි",example:"The cashier is friendly.",exampleReading:"දි කෑෂියර් ඉස් ෆ්‍රෙන්ඩ්ලි.",translation:"මුදල් අයකැමියා සුහදශීලියි."},
@@ -1428,7 +1464,8 @@ practice:[
  {prompt:"How do you ask “මුළු එකතුව කීයද?”",options:["What is the total?","Where is the checkout?","Can I have a bag?"],readings:["වොට් ඉස් දි ටෝටල්?","වෙයාර් ඉස් දි චෙක්අවුට්?","කැන් අයි හැව් අ බැග්?"],answer:0,explanation:"What is the total? = මුළු එකතුව කීයද?"},
  {prompt:"Choose “මම මුදලින් ගෙවනවා”.",options:["I am paying in cash.","I am paying by card.","I need a receipt."],readings:["අයි ඇම් පේයිං ඉන් කෑෂ්.","අයි ඇම් පේයිං බයි කාඩ්.","අයි නීඩ් අ රිසීට්."],answer:0,explanation:"In cash = මුදලින්."},
  {prompt:"Choose the word for “ඉතිරි මුදල්”.",options:["Change","Total","Cashier"],readings:["චේන්ජ්","ටෝටල්","කෑෂියර්"],answer:0,explanation:"Change = ඉතිරි මුදල්."}]}
- ,{id:"en-a1-u11-l2",unit:"The city and finding places",title:"Lesson 41 · Places in the city and directions",objective:"Recognise common city places and ask for simple directions.",
+ ,
+{id:"en-a1-u11-l2",unit:"The city and finding places",title: "Lesson 40 · ",objective:"Recognise common city places and ask for simple directions.",
  vocabulary:[
  {word:"City centre",reading:"සිටි සෙන්ටර්",meaning:"නගර මධ්‍යය",example:"Where is the city centre?",exampleReading:"වෙයාර් ඉස් දි සිටි සෙන්ටර්?",translation:"නගර මධ්‍යය කොහෙද?"},
  {word:"Street",reading:"ස්ට්‍රීට්",meaning:"වීදිය",example:"This street is long.",exampleReading:"දිස් ස්ට්‍රීට් ඉස් ලෝං.",translation:"මේ වීදිය දිගයි."},
@@ -1462,7 +1499,8 @@ practice:[
  {prompt:"Choose the meaning of “Nearby”.",options:["ළඟ","දුර","මධ්‍යය"],readings:["නියර්බයි","ෆාර්","සෙන්ටර්"],answer:0,explanation:"Nearby = ළඟ."},
  {prompt:"How do you ask “නගර මධ්‍යය කොහෙද?”",options:["Where is the city centre?","Where is the bridge?","Where is the bank?"],readings:["වෙයාර් ඉස් දි සිටි සෙන්ටර්?","වෙයාර් ඉස් දි බ්‍රිජ්?","වෙයාර් ඉස් දි බෑන්ක්?"],answer:0,explanation:"Where is the city centre? = නගර මධ්‍යය කොහෙද?"},
  {prompt:"Choose “එය දුර නැහැ”.",options:["It is not far.","It is very far.","The street is long."],readings:["ඉට් ඉස් නොට් ෆාර්.","ඉට් ඉස් වෙරි ෆාර්.","දි ස්ට්‍රීට් ඉස් ලෝං."],answer:0,explanation:"It is not far = එය දුර නැහැ."}]}
- ,{id:"en-a1-u11-l3",unit:"Workplace safety",title:"Lesson 42 · Workplace safety and instructions",objective:"Understand simple safety instructions and ask for help when something is unsafe.",
+ ,
+{id:"en-a1-u11-l3",unit:"Workplace safety",title: "Lesson 41 · ",objective:"Understand simple safety instructions and ask for help when something is unsafe.",
  vocabulary:[
  {word:"Carefully",reading:"කෙයර්ෆුලි",meaning:"පරිස්සමින්",example:"Work carefully.",exampleReading:"වර්ක් කෙයර්ෆුලි.",translation:"පරිස්සමින් වැඩ කරන්න."},
  {word:"Dangerous",reading:"ඩේන්ජරස්",meaning:"අනතුරුදායක",example:"This is dangerous.",exampleReading:"දිස් ඉස් ඩේන්ජරස්.",translation:"මේක අනතුරුදායකයි."},
@@ -1504,9 +1542,9 @@ practice:[
 {"id":"en-a1-review-l45","unit":"ප්‍රවාහනය සහ ටිකට්පත්","title":"Lesson 45 · බස්, දුම්රිය සහ ටිකට්පත්","objective":"ගමනාන්තය අසීම, ටිකට්පත් ඉල්ලීම සහ ගමන් විස්තර තේරුම් ගැනීම","vocabulary":[{"word":"bus","reading":"බස්","meaning":"බස් රථය","example":"bus","exampleReading":"බස්","translation":"බස් රථය"},{"word":"train","reading":"ට්‍රේන්","meaning":"දුම්රිය","example":"train","exampleReading":"ට්‍රේන්","translation":"දුම්රිය"},{"word":"station","reading":"ස්ටේෂන්","meaning":"නැවතුම්පොළ","example":"station","exampleReading":"ස්ටේෂන්","translation":"නැවතුම්පොළ"},{"word":"ticket","reading":"ටික්කට්","meaning":"ටිකට්පත","example":"ticket","exampleReading":"ටික්කට්","translation":"ටිකට්පත"},{"word":"departure","reading":"ඩිපාර්චර්","meaning":"පිටත්වීම","example":"departure","exampleReading":"ඩිපාර්චර්","translation":"පිටත්වීම"},{"word":"arrival","reading":"අරයිවල්","meaning":"පැමිණීම","example":"arrival","exampleReading":"අරයිවල්","translation":"පැමිණීම"},{"word":"delayed","reading":"ඩිලේඩ්","meaning":"ප්‍රමාදයි","example":"delayed","exampleReading":"ඩිලේඩ්","translation":"ප්‍රමාදයි"},{"word":"Where is the station?","reading":"වෙයාර් ඉස් දි ස්ටේෂන්?","meaning":"නැවතුම්පොළ කොහෙද?","example":"Where is the station?","exampleReading":"වෙයාර් ඉස් දි ස්ටේෂන්?","translation":"නැවතුම්පොළ කොහෙද?"}],"grammarTitle":"Sentence pattern · Asking and answering","grammar":"Use “One ticket, please.” to ask a simple everyday question. Listen carefully and answer with a short, clear sentence. Add “please” to make a request polite.","grammarTerms":[{"text":"One ticket, please.","reading":"වන් ටිකට්, ප්ලීස්.","meaning":"ටිකට් එකක් දෙන්න, කරුණාකර."}],"examples":[{"text":"Where is the bus station?","reading":"වෙයාර් ඉස් දි බස් ස්ටේෂන්?","meaning":"බස් නැවතුම්පොළ කොහෙද?"},{"text":"Over there, on the left.","reading":"ඕවර් දෙයාර්, ඔන් දි ලෙෆ්ට්.","meaning":"අතන, වමට."},{"text":"One ticket, please.","reading":"වන් ටිකට්, ප්ලීස්.","meaning":"ටිකට් එකක් දෙන්න."}],"dialogue":[{"text":"Where is the bus station?","reading":"වෙයාර් ඉස් දි බස් ස්ටේෂන්?","meaning":"බස් නැවතුම්පොළ කොහෙද?"},{"text":"Over there, on the left.","reading":"ඕවර් දෙයාර්, ඔන් දි ලෙෆ්ට්.","meaning":"අතන, වමට."},{"text":"One ticket, please.","reading":"වන් ටිකට්, ප්ලීස්.","meaning":"ටිකට් එකක් දෙන්න."},{"text":"Here you are.","reading":"හියර් යූ ආර්.","meaning":"මෙන්න."}],"listeningPractice":{"prompt":"Listen and choose the correct Sinhala meaning: “One ticket, please.”","audio":"One ticket, please.","options":["ටිකට් එකක් දෙන්න, කරුණාකර.","බස් රථය","දුම්රිය"],"readings":["වන් ටිකට්, ප්ලීස්.","බස්","ට්‍රේන්"],"answer":0,"meaning":"One ticket, please. = ටිකට් එකක් දෙන්න, කරුණාකර."},"practice":[{"prompt":"Choose “ticket”.","options":["ticket","station","train"],"readings":["ටික්කට්","ස්ටේෂන්","ට්‍රේන්"],"answer":0,"explanation":"ticket = ටික්කට්"},{"prompt":"Choose “train”.","options":["train","ticket","departure"],"readings":["ට්‍රේන්","ටික්කට්","ඩිපාර්චර්"],"answer":0,"explanation":"train = ට්‍රේන්"},{"prompt":"Choose “delayed”.","options":["delayed","departure","arrival"],"readings":["ඩිලේඩ්","ඩිපාර්චර්","අරයිවල්"],"answer":0,"explanation":"delayed = ඩිලේඩ්"},{"prompt":"Ask “Where is the station?”","options":["Where is the station?","arrival","delayed"],"readings":["වෙයාර් ඉස් දි ස්ටේෂන්?","අරයිවල්","ඩිලේඩ්"],"answer":0,"explanation":"Where is the station? = වෙයාර් ඉස් දි ස්ටේෂන්?"}]},
 {"id":"en-a1-review-l46","unit":"වෛද්‍යවරයා සහ සෞඛ්‍ය සේවා","title":"Lesson 46 · වෛද්‍යවරයා හමුවීම","objective":"වෛද්‍ය හමුවක් ඉල්ලීම සහ සරල රෝග ලක්ෂණ පැවසීම","vocabulary":[{"word":"doctor","reading":"ඩොක්ටර්","meaning":"වෛද්‍යවරයා","example":"doctor","exampleReading":"ඩොක්ටර්","translation":"වෛද්‍යවරයා"},{"word":"pharmacy","reading":"ෆාමසි","meaning":"ඖෂධහල","example":"pharmacy","exampleReading":"ෆාමසි","translation":"ඖෂධහල"},{"word":"It hurts.","reading":"ඉට් හර්ට්ස්.","meaning":"මට රිදෙනවා.","example":"It hurts.","exampleReading":"ඉට් හර්ට්ස්.","translation":"මට රිදෙනවා."},{"word":"head","reading":"හෙඩ්","meaning":"හිස","example":"head","exampleReading":"හෙඩ්","translation":"හිස"},{"word":"temperature","reading":"ටෙම්ප්‍රචර්","meaning":"උණ / උෂ්ණත්වය","example":"temperature","exampleReading":"ටෙම්ප්‍රචර්","translation":"උණ / උෂ්ණත්වය"},{"word":"check-up","reading":"චෙක් අප්","meaning":"පරීක්ෂාව","example":"check-up","exampleReading":"චෙක් අප්","translation":"පරීක්ෂාව"},{"word":"help","reading":"හෙල්ප්","meaning":"උදව්","example":"help","exampleReading":"හෙල්ප්","translation":"උදව්"},{"word":"I need a doctor.","reading":"අයි නීඩ් අ ඩොක්ටර්.","meaning":"මට වෛද්‍යවරයෙක් අවශ්‍යයි.","example":"I need a doctor.","exampleReading":"අයි නීඩ් අ ඩොක්ටර්.","translation":"මට වෛද්‍යවරයෙක් අවශ්‍යයි."}],"grammarTitle":"Sentence pattern · Asking and answering","grammar":"Use “I would like to book an appointment.” to ask a simple everyday question. Listen carefully and answer with a short, clear sentence. Add “please” to make a request polite.","grammarTerms":[{"text":"I would like to book an appointment.","reading":"අයි වුඩ් ලයික් ටු බුක් ඇන් අපොයින්ට්මන්ට්.","meaning":"මට හමුවීමක් වෙන්කරගන්න ඕනේ."}],"examples":[{"text":"Good afternoon. I need a doctor.","reading":"ගුඩ් ආෆ්ටර්නූන්. අයි නීඩ් අ ඩොක්ටර්.","meaning":"සුබ දවසක්. මට වෛද්‍යවරයෙක් අවශ්‍යයි."},{"text":"What is the problem?","reading":"වොට් ඉස් දි ප්‍රොබ්ලම්?","meaning":"ගැටලුව මොකක්ද?"},{"text":"My head hurts.","reading":"මයි හෙඩ් හර්ට්ස්.","meaning":"මගේ හිස රිදෙනවා."}],"dialogue":[{"text":"Good afternoon. I need a doctor.","reading":"ගුඩ් ආෆ්ටර්නූන්. අයි නීඩ් අ ඩොක්ටර්.","meaning":"සුබ දවසක්. මට වෛද්‍යවරයෙක් අවශ්‍යයි."},{"text":"What is the problem?","reading":"වොට් ඉස් දි ප්‍රොබ්ලම්?","meaning":"ගැටලුව මොකක්ද?"},{"text":"My head hurts.","reading":"මයි හෙඩ් හර්ට්ස්.","meaning":"මගේ හිස රිදෙනවා."},{"text":"I would like an appointment.","reading":"අයි වුඩ් ලයික් ඇන් අපොයින්ට්මන්ට්.","meaning":"මට හමුවීමක් අවශ්‍යයි."}],"listeningPractice":{"prompt":"Listen and choose the correct Sinhala meaning: “I would like to book an appointment.”","audio":"I would like to book an appointment.","options":["මට හමුවීමක් වෙන්කරගන්න ඕනේ.","වෛද්‍යවරයා","ඖෂධහල"],"readings":["අයි වුඩ් ලයික් ටු බුක් ඇන් අපොයින්ට්මන්ට්.","ඩොක්ටර්","ෆාමසි"],"answer":0,"meaning":"I would like to book an appointment. = මට හමුවීමක් වෙන්කරගන්න ඕනේ."},"practice":[{"prompt":"Choose “doctor”.","options":["doctor","It hurts.","head"],"readings":["ඩොක්ටර්","ඉට් හර්ට්ස්.","හෙඩ්"],"answer":0,"explanation":"doctor = ඩොක්ටර්"},{"prompt":"Choose “pharmacy”.","options":["pharmacy","head","temperature"],"readings":["ෆාමසි","හෙඩ්","ටෙම්ප්‍රචර්"],"answer":0,"explanation":"pharmacy = ෆාමසි"},{"prompt":"Say “My head hurts.”","options":["My head hurts.","temperature","check-up"],"readings":["මයි හෙඩ් හර්ට්ස්.","ටෙම්ප්‍රචර්","චෙක් අප්"],"answer":0,"explanation":"My head hurts. = මයි හෙඩ් හර්ට්ස්."},{"prompt":"Say “I need help.”","options":["I need help.","check-up","help"],"readings":["අයි නීඩ් හෙල්ප්.","චෙක් අප්","හෙල්ප්"],"answer":0,"explanation":"I need help. = අයි නීඩ් හෙල්ප්."}]},
 {"id":"en-a1-review-l47","unit":"දෛනික ප්‍රශ්න සහ පිළිතුරු","title":"Lesson 47 · දෛනික ප්‍රශ්න සහ පිළිතුරු","objective":"සරල ප්‍රශ්න අසා පැහැදිලි පිළිතුරු ලබාදීම","vocabulary":[{"word":"What do you do?","reading":"වොට් ඩූ යූ ඩූ?","meaning":"ඔයා මොකද කරන්නේ?","example":"What do you do?","exampleReading":"වොට් ඩූ යූ ඩූ?","translation":"ඔයා මොකද කරන්නේ?"},{"word":"Where do you live?","reading":"වෙයාර් ඩූ යූ ලිව්?","meaning":"ඔයා කොහෙද ජීවත් වෙන්නේ?","example":"Where do you live?","exampleReading":"වෙයාර් ඩූ යූ ලිව්?","translation":"ඔයා කොහෙද ජීවත් වෙන්නේ?"},{"word":"When?","reading":"වෙන්?","meaning":"කවදාද?","example":"When?","exampleReading":"වෙන්?","translation":"කවදාද?"},{"word":"Why?","reading":"වයි?","meaning":"ඇයි?","example":"Why?","exampleReading":"වයි?","translation":"ඇයි?"},{"word":"How many?","reading":"හව් මෙනි?","meaning":"කීයක්ද?","example":"How many?","exampleReading":"හව් මෙනි?","translation":"කීයක්ද?"},{"word":"I don't understand.","reading":"අයි ඩෝන්ට් අන්ඩර්ස්ටෑන්ඩ්.","meaning":"මට තේරෙන්නේ නැහැ.","example":"I don't understand.","exampleReading":"අයි ඩෝන්ට් අන්ඩර්ස්ටෑන්ඩ්.","translation":"මට තේරෙන්නේ නැහැ."},{"word":"Please repeat.","reading":"ප්ලීස් රිපීට්.","meaning":"නැවත කියන්න, කරුණාකර.","example":"Please repeat.","exampleReading":"ප්ලීස් රිපීට්.","translation":"නැවත කියන්න, කරුණාකර."},{"word":"I understand.","reading":"අයි අන්ඩර්ස්ටෑන්ඩ්.","meaning":"මට තේරෙනවා.","example":"I understand.","exampleReading":"අයි අන්ඩර්ස්ටෑන්ඩ්.","translation":"මට තේරෙනවා."}],"grammarTitle":"Sentence pattern · Asking and answering","grammar":"Use “Could you repeat that, please?” to ask a simple everyday question. Listen carefully and answer with a short, clear sentence. Add “please” to make a request polite.","grammarTerms":[{"text":"Could you repeat that, please?","reading":"කුඩ් යූ රිපීට් දැට්, ප්ලීස්?","meaning":"ඔබට නැවත කියන්න පුළුවන්ද?"}],"examples":[{"text":"What are you doing today?","reading":"වොට් ආර් යූ ඩූඉං ටුඩේ?","meaning":"අද ඔයා මොකද කරන්නේ?"},{"text":"I am working until five.","reading":"අයි ඇම් වර්කිං අන්ටිල් ෆයිව්.","meaning":"මම පහ වෙනකම් වැඩ කරනවා."},{"text":"Where do you live?","reading":"වෙයාර් ඩූ යූ ලිව්?","meaning":"ඔයා කොහෙද ජීවත් වෙන්නේ?"}],"dialogue":[{"text":"What are you doing today?","reading":"වොට් ආර් යූ ඩූඉං ටුඩේ?","meaning":"අද ඔයා මොකද කරන්නේ?"},{"text":"I am working until five.","reading":"අයි ඇම් වර්කිං අන්ටිල් ෆයිව්.","meaning":"මම පහ වෙනකම් වැඩ කරනවා."},{"text":"Where do you live?","reading":"වෙයාර් ඩූ යූ ලිව්?","meaning":"ඔයා කොහෙද ජීවත් වෙන්නේ?"},{"text":"I live in Belgrade.","reading":"අයි ලිව් ඉන් බෙල්ග්‍රේඩ්.","meaning":"මම බෙල්ග්‍රේඩ්වල ජීවත් වෙනවා."}],"listeningPractice":{"prompt":"Listen and choose the correct Sinhala meaning: “Could you repeat that, please?”","audio":"Could you repeat that, please?","options":["ඔබට නැවත කියන්න පුළුවන්ද?","ඔයා මොකද කරන්නේ?","ඔයා කොහෙද ජීවත් වෙන්නේ?"],"readings":["කුඩ් යූ රිපීට් දැට්, ප්ලීස්?","වොට් ඩූ යූ ඩූ?","වෙයාර් ඩූ යූ ලිව්?"],"answer":0,"meaning":"Could you repeat that, please? = ඔබට නැවත කියන්න පුළුවන්ද?"},"practice":[{"prompt":"Ask “When?”","options":["When?","Where?","Why?"],"readings":["වෙන්?","වෙයාර්?","වයි?"],"answer":0,"explanation":"When? = වෙන්?"},{"prompt":"Ask “Why?”","options":["Why?","When?","How many?"],"readings":["වයි?","වෙන්?","හව් මෙනි?"],"answer":0,"explanation":"Why? = වයි?"},{"prompt":"Say “I don't understand.”","options":["I don't understand.","How many?","Thank you."],"readings":["අයි ඩෝන්ට් අන්ඩර්ස්ටෑන්ඩ්.","හව් මෙනි?","තෑන්ක් යූ"],"answer":0,"explanation":"I don't understand. = අයි ඩෝන්ට් අන්ඩර්ස්ටෑන්ඩ්."},{"prompt":"Ask “Please repeat.”","options":["Please repeat.","I don't understand.","Excuse me."],"readings":["ප්ලීස් රිපීට්.","අයි ඩෝන්ට් අන්ඩර්ස්ටෑන්ඩ්.","එක්ස්කියුස් මී"],"answer":0,"explanation":"Please repeat. = ප්ලීස් රිපීට්."}]}
-,{"id":"en-a1-review-l48","unit":"A1 Final Review","title":"Lesson 48 · A1 Grammar Review","objective":"A1 මට්ටමේ මූලික ව්‍යාකරණ, වචන සහ දෛනික සංවාද ඒකාබද්ධව පුහුණු කිරීම","vocabulary":[{"word":"I am","reading":"අයි ඇම්","meaning":"මම ... වෙමි","example":"I am","exampleReading":"අයි ඇම්","translation":"මම ... වෙමි"},{"word":"I have","reading":"අයි හැව්","meaning":"මට තියෙනවා","example":"I have","exampleReading":"අයි හැව්","translation":"මට තියෙනවා"},{"word":"I want","reading":"අයි වොන්ට්","meaning":"මට අවශ්‍යයි","example":"I want","exampleReading":"අයි වොන්ට්","translation":"මට අවශ්‍යයි"},{"word":"I can","reading":"අයි කැන්","meaning":"මට පුළුවන්","example":"I can","exampleReading":"අයි කැන්","translation":"මට පුළුවන්"},{"word":"I can't","reading":"අයි කෑන්ට්","meaning":"මට බැහැ","example":"I can't","exampleReading":"අයි කෑන්ට්","translation":"මට බැහැ"},{"word":"Where?","reading":"වෙයාර්?","meaning":"කොහෙද?","example":"Where?","exampleReading":"වෙයාර්?","translation":"කොහෙද?"},{"word":"When?","reading":"වෙන්?","meaning":"කවදාද?","example":"When?","exampleReading":"වෙන්?","translation":"කවදාද?"},{"word":"How much?","reading":"හව් මච්?","meaning":"කීයද?","example":"How much?","exampleReading":"හව් මච්?","translation":"කීයද?"}],"grammarTitle":"Grammar review","grammar":"At A1 level, use simple patterns such as I am, I have, I want and I can to talk about yourself, needs and abilities.","grammarTerms":[{"text":"I am from Sri Lanka.","reading":"අයි ඇම් ෆ්‍රම් ශ්‍රී ලංකා.","meaning":"මම ශ්‍රී ලංකාවෙන්."}],"examples":[{"text":"I am from Sri Lanka.","reading":"අයි ඇම් ෆ්‍රම් ශ්‍රී ලංකා.","meaning":"මම ශ්‍රී ලංකාවෙන්."},{"text":"I work in Belgrade.","reading":"අයි වර්ක් ඉන් බෙල්ග්‍රේඩ්.","meaning":"මම බෙල්ග්‍රේඩ්වල වැඩ කරනවා."},{"text":"I have a day off.","reading":"අයි හැව් අ ඩේ ඕෆ්.","meaning":"මට නිවාඩු දිනයක් තියෙනවා."}],"dialogue":[{"text":"I am from Sri Lanka.","reading":"අයි ඇම් ෆ්‍රම් ශ්‍රී ලංකා.","meaning":"මම ශ්‍රී ලංකාවෙන්."},{"text":"I work in Belgrade.","reading":"අයි වර්ක් ඉන් බෙල්ග්‍රේඩ්.","meaning":"මම බෙල්ග්‍රේඩ්වල වැඩ කරනවා."},{"text":"I have a day off.","reading":"අයි හැව් අ ඩේ ඕෆ්.","meaning":"මට නිවාඩු දිනයක් තියෙනවා."},{"text":"I want to learn English.","reading":"අයි වොන්ට් ටු ලර්න් ඉංග්ලිෂ්.","meaning":"මට ඉංග්‍රීසි ඉගෙනගන්න ඕනේ."}],"listeningPractice":{"prompt":"Listen and choose the correct Sinhala meaning: “I am from Sri Lanka.”","audio":"I am from Sri Lanka.","options":["මම ශ්‍රී ලංකාවෙන්.","මම ... වෙමි","මට තියෙනවා"],"readings":["අයි ඇම් ෆ්‍රම් ශ්‍රී ලංකා.","අයි ඇම්","අයි හැව්"],"answer":0,"meaning":"I am from Sri Lanka. = මම ශ්‍රී ලංකාවෙන්."},"practice":[{"prompt":"Choose “I have”.","options":["I have","I want","I can"],"readings":["අයි හැව්","අයි වොන්ට්","අයි කැන්"],"answer":0,"explanation":"I have = මට තියෙනවා"},{"prompt":"Choose “I want”.","options":["I want","I can","I can't"],"readings":["අයි වොන්ට්","අයි කැන්","අයි කෑන්ට්"],"answer":0,"explanation":"I want = මට අවශ්‍යයි"},{"prompt":"Choose “Where?”.","options":["Where?","I can't","When?"],"readings":["වෙයාර්","අයි කෑන්ට්","වෙන්?"],"answer":0,"explanation":"Where? = කොහෙද?"},{"prompt":"Choose “I can't”.","options":["I can't","Where?","When?"],"readings":["අයි කෑන්ට්","වෙයාර්?","වෙන්?"],"answer":0,"explanation":"I can't = මට බැහැ"}]},{"id":"en-a1-review-l49","unit":"Integrated A1 Conversation","title":"Lesson 49 · Everyday Conversation Practice","objective":"A1 මට්ටමේ මූලික ව්‍යාකරණ, වචන සහ දෛනික සංවාද ඒකාබද්ධව පුහුණු කිරීම","vocabulary":[{"word":"Good afternoon","reading":"ගුඩ් ආෆ්ටර්නූන්","meaning":"සුබ දවසක්","example":"Good afternoon","exampleReading":"ගුඩ් ආෆ්ටර්නූන්","translation":"සුබ දවසක්"},{"word":"How are you?","reading":"හව් ආර් යූ?","meaning":"ඔබට කොහොමද?","example":"How are you?","exampleReading":"හව් ආර් යූ?","translation":"ඔබට කොහොමද?"},{"word":"I need help","reading":"අයි නීඩ් හෙල්ප්","meaning":"මට උදව් අවශ්‍යයි","example":"I need help","exampleReading":"අයි නීඩ් හෙල්ප්","translation":"මට උදව් අවශ්‍යයි"},{"word":"Where is...?","reading":"වෙයාර් ඉස්...?","meaning":"... කොහෙද?","example":"Where is...?","exampleReading":"වෙයාර් ඉස්...?","translation":"... කොහෙද?"},{"word":"How much is it?","reading":"හව් මච් ඉස් ඉට්?","meaning":"මේක කීයද?","example":"How much is it?","exampleReading":"හව් මච් ඉස් ඉට්?","translation":"මේක කීයද?"},{"word":"The bill, please","reading":"දි බිල් ප්ලීස්","meaning":"බිල දෙන්න","example":"The bill, please","exampleReading":"දි බිල් ප්ලීස්","translation":"බිල දෙන්න"},{"word":"See you","reading":"සී යූ","meaning":"නැවත හමුවෙමු","example":"See you","exampleReading":"සී යූ","translation":"නැවත හමුවෙමු"},{"word":"Enjoy your meal","reading":"එන්ජෝයි යෝර් මීල්","meaning":"ආහාරය රසවිඳින්න","example":"Enjoy your meal","exampleReading":"එන්ජෝයි යෝර් මීල්","translation":"ආහාරය රසවිඳින්න"}],"grammarTitle":"Grammar review","grammar":"Start with a greeting, explain what you need, and ask for clarification if you do not understand. Finish politely by saying thank you and goodbye.","grammarTerms":[{"text":"Good afternoon! How are you?","reading":"ගුඩ් ආෆ්ටර්නූන්! හව් ආර් යූ?","meaning":"සුබ දවසක්! ඔබට කොහොමද?"}],"examples":[{"text":"Good afternoon! How are you?","reading":"ගුඩ් ආෆ්ටර්නූන්! හව් ආර් යූ?","meaning":"සුබ දවසක්! ඔබට කොහොමද?"},{"text":"I'm fine, thank you.","reading":"අයිම් ෆයින්, තෑන්ක් යූ.","meaning":"මම හොඳින්, ස්තුතියි."},{"text":"I need some help, please.","reading":"අයි නීඩ් සම් හෙල්ප්, ප්ලීස්.","meaning":"මට උදව් ටිකක් අවශ්‍යයි, කරුණාකර."}],"dialogue":[{"text":"Good afternoon! How are you?","reading":"ගුඩ් ආෆ්ටර්නූන්! හව් ආර් යූ?","meaning":"සුබ දවසක්! ඔබට කොහොමද?"},{"text":"I'm fine, thank you.","reading":"අයිම් ෆයින්, තෑන්ක් යූ.","meaning":"මම හොඳින්, ස්තුතියි."},{"text":"I need some help, please.","reading":"අයි නීඩ් සම් හෙල්ප්, ප්ලීස්.","meaning":"මට උදව් ටිකක් අවශ්‍යයි, කරුණාකර."},{"text":"Of course. How can I help?","reading":"ඔෆ් කෝර්ස්. හව් කැන් අයි හෙල්ප්?","meaning":"අනිවාර්යයෙන්. මට උදව් කළ හැක්කේ කොහොමද?"}],"listeningPractice":{"prompt":"Listen and choose the correct Sinhala meaning: “Good afternoon! How are you?”","audio":"Good afternoon! How are you?","options":["සුබ දවසක්! ඔබට කොහොමද?","සුබ දවසක්","ඔබට කොහොමද?"],"readings":["ගුඩ් ආෆ්ටර්නූන්! හව් ආර් යූ?","ගුඩ් ආෆ්ටර්නූන්","හව් ආර් යූ?"],"answer":0,"meaning":"Good afternoon! How are you? = සුබ දවසක්! ඔබට කොහොමද?"},"practice":[{"prompt":"Choose “I need help”.","options":["I need help","I don't understand.","Where is...?"],"readings":["අයි නීඩ් හෙල්ප්","ඉ ඩ්ඔන්ට් අන්ඩර්ස්ටෑන්ඩ්","වෙයාර් ඉස්...?"],"answer":0,"explanation":"I need help = මට උදව් අවශ්‍යයි"},{"prompt":"Choose “The bill, please”.","options":["The bill, please","Where is...?","How much is it?"],"readings":["දි බිල් ප්ලීස්","වෙයාර් ඉස්...?","හව් මච් ඉස් ඉට්?"],"answer":0,"explanation":"The bill, please = බිල දෙන්න"},{"prompt":"Choose “How are you?”.","options":["How are you?","How much is it?","The bill, please"],"readings":["හව් ආර් යූ","හව් මච් ඉස් ඉට්?","දි බිල් ප්ලීස්"],"answer":0,"explanation":"How are you? = ඔබට කොහොමද?"},{"prompt":"Choose “See you”.","options":["See you","The bill, please","Goodbye"],"readings":["සී යූ","දි බිල් ප්ලීස්","ගුඩ්බායි"],"answer":0,"explanation":"See you = නැවත හමුවෙමු"}]},{"id":"en-a1-review-l50","unit":"A1 Final Practice","title":"Lesson 50 · A1 Final Listening and Speaking","objective":"A1 මට්ටමේ මූලික ව්‍යාකරණ, වචන සහ දෛනික සංවාද ඒකාබද්ධව පුහුණු කිරීම","vocabulary":[{"word":"Listen","reading":"ලිසන්","meaning":"සවන් දෙන්න","example":"Listen","exampleReading":"ලිසන්","translation":"සවන් දෙන්න"},{"word":"Repeat","reading":"රිපීට්","meaning":"නැවත කියන්න","example":"Repeat","exampleReading":"රිපීට්","translation":"නැවත කියන්න"},{"word":"Conversation","reading":"කොන්වර්සේෂන්","meaning":"සංවාදය","example":"Conversation","exampleReading":"කොන්වර්සේෂන්","translation":"සංවාදය"},{"word":"Question","reading":"ක්වෙස්චන්","meaning":"ප්‍රශ්නය","example":"Question","exampleReading":"ක්වෙස්චන්","translation":"ප්‍රශ්නය"},{"word":"Answer","reading":"ආන්සර්","meaning":"පිළිතුර","example":"Answer","exampleReading":"ආන්සර්","translation":"පිළිතුර"},{"word":"Correct","reading":"කරෙක්ට්","meaning":"නිවැරදියි","example":"Correct","exampleReading":"කරෙක්ට්","translation":"නිවැරදියි"},{"word":"Incorrect","reading":"ඉන්කරෙක්ට්","meaning":"වැරදියි","example":"Incorrect","exampleReading":"ඉන්කරෙක්ට්","translation":"වැරදියි"},{"word":"I am ready","reading":"අයි ඇම් රෙඩි","meaning":"මම සූදානම්","example":"I am ready","exampleReading":"අයි ඇම් රෙඩි","translation":"මම සූදානම්"}],"grammarTitle":"Grammar review","grammar":"This is the final A1 practice lesson. Listen and choose the meaning, read each sentence aloud, then repeat the dialogue using your own information.","grammarTerms":[{"text":"What's your name?","reading":"වොට්ස් යෝර් නේම්?","meaning":"ඔයාගේ නම මොකක්ද?"}],"examples":[{"text":"What's your name?","reading":"වොට්ස් යෝර් නේම්?","meaning":"ඔයාගේ නම මොකක්ද?"},{"text":"My name is Milan. I live in Belgrade.","reading":"මයි නේම් ඉස් මිලාන්. අයි ලිව් ඉන් බෙල්ග්‍රේඩ්.","meaning":"මගේ නම මිලාන්. මම බෙල්ග්‍රේඩ්වල ජීවත් වෙනවා."},{"text":"Where do you work?","reading":"වෙයාර් ඩූ යූ වර්ක්?","meaning":"ඔයා කොහෙද වැඩ කරන්නේ?"}],"dialogue":[{"text":"What's your name?","reading":"වොට්ස් යෝර් නේම්?","meaning":"ඔයාගේ නම මොකක්ද?"},{"text":"My name is Milan. I live in Belgrade.","reading":"මයි නේම් ඉස් මිලාන්. අයි ලිව් ඉන් බෙල්ග්‍රේඩ්.","meaning":"මගේ නම මිලාන්. මම බෙල්ග්‍රේඩ්වල ජීවත් වෙනවා."},{"text":"Where do you work?","reading":"වෙයාර් ඩූ යූ වර්ක්?","meaning":"ඔයා කොහෙද වැඩ කරන්නේ?"},{"text":"I work in a restaurant. I study English every day.","reading":"අයි වර්ක් ඉන් අ රෙස්ටුරන්ට්. අයි ස්ටඩි ඉංග්ලිෂ් එව්රි ඩේ.","meaning":"මම අවන්හලක වැඩ කරනවා. මම හැමදාම ඉංග්‍රීසි ඉගෙනගන්නවා."}],"listeningPractice":{"prompt":"Listen and choose the correct Sinhala meaning: “What's your name?”","audio":"What's your name?","options":["ඔයාගේ නම මොකක්ද?","සවන් දෙන්න","නැවත කියන්න"],"readings":["වොට්ස් යෝර් නේම්?","ලිසන්","රිපීට්"],"answer":0,"meaning":"What's your name? = ඔයාගේ නම මොකක්ද?"},"practice":[{"prompt":"Choose “question”.","options":["Question","Conversation","Answer"],"readings":["ක්වෙස්චන්","කොන්වර්සේෂන්","ආන්සර්"],"answer":0,"explanation":"Question = ප්‍රශ්නය"},{"prompt":"Choose “answer”.","options":["Answer","Question","Conversation"],"readings":["ආන්සර්","ක්වෙස්චන්","කොන්වර්සේෂන්"],"answer":0,"explanation":"Answer = පිළිතුර"},{"prompt":"Choose “correct”.","options":["Correct","Answer","Incorrect"],"readings":["කරෙක්ට්","ආන්සර්","ඉන්කරෙක්ට්"],"answer":0,"explanation":"Correct = නිවැරදියි"},{"prompt":"Choose “listen”.","options":["Listen","Correct","Incorrect"],"readings":["ලිසන්","කරෙක්ට්","ඉන්කරෙක්ට්"],"answer":0,"explanation":"Listen = සවන් දෙන්න"}]}
-,{"id":"en-a1-u2-l8","unit":"Basic numbers","title":"පාඩම 8 · Numbers and age","objective":"Use basic numbers, prices and directions in everyday questions and answers","vocabulary":[{"word":"one","reading":"වන්","meaning":"එක","example":"one","exampleReading":"වන්","translation":"එක"},{"word":"two","reading":"ටූ","meaning":"දෙක","example":"two","exampleReading":"ටූ","translation":"දෙක"},{"word":"three","reading":"ත්‍රී","meaning":"තුන","example":"three","exampleReading":"ත්‍රී","translation":"තුන"},{"word":"four","reading":"ෆෝර්","meaning":"හතර","example":"four","exampleReading":"ෆෝර්","translation":"හතර"},{"word":"five","reading":"ෆයිව්","meaning":"පහ","example":"five","exampleReading":"ෆයිව්","translation":"පහ"},{"word":"ten","reading":"ටෙන්","meaning":"දහය","example":"ten","exampleReading":"ටෙන්","translation":"දහය"},{"word":"how many","reading":"හව් මෙනි","meaning":"කීයක්ද","example":"how many","exampleReading":"හව් මෙනි","translation":"කීයක්ද"},{"word":"years old","reading":"යියර්ස් ඕල්ඩ්","meaning":"වයස අවුරුදු","example":"years old","exampleReading":"යියර්ස් ඕල්ඩ්","translation":"වයස අවුරුදු"}],"grammarTitle":"Grammar and sentence patterns","grammar":"Use “How old are you?” to ask someone's age. Answer with “I am ... years old.” Use one, two, three, four and five for basic counting.","grammarTerms":[{"text":"How old are you?","reading":"හව් ඕල්ඩ් ආර් යූ?","meaning":"ඔයාට වයස කීයද?"}],"examples":[{"text":"I am twenty years old.","reading":"අයි ඇම් ට්වෙන්ටි යියර්ස් ඕල්ඩ්.","meaning":"මට අවුරුදු විස්සයි."},{"text":"One, two, three.","reading":"වන්, ටූ, ත්‍රී.","meaning":"එක, දෙක, තුන."},{"text":"How old are you?","reading":"හව් ඕල්ඩ් ආර් යූ?","meaning":"ඔයාට වයස කීයද?"}],"dialogue":[{"text":"How old are you?","reading":"හව් ඕල්ඩ් ආර් යූ?","meaning":"ඔයාට වයස කීයද?"},{"text":"I am twenty-six years old.","reading":"අයි ඇම් ට්වෙන්ටි සික්ස් යියර්ස් ඕල්ඩ්.","meaning":"මට අවුරුදු විසි හයයි."},{"text":"How much is this?","reading":"හව් මච් ඉස් දිස්?","meaning":"මේක කීයද?"},{"text":"It is five euros.","reading":"ඉට් ඉස් ෆයිව් යුරෝස්.","meaning":"යුරෝ පහයි."}],"listeningPractice":{"prompt":"Listen and choose the correct meaning: “How old are you?”","audio":"How old are you?","reading":"හව් ඕල්ඩ් ආර් යූ?","options":["ඔයාට වයස කීයද?","එක","දෙක"],"answer":0},"practice":[{"prompt":"නිවැරදි ප්‍රශ්නය තෝරන්න.","options":["How old are you?","four","five"],"answer":0,"explanation":"How old are you? = ඔයාට වයස කීයද?"},{"prompt":"Choose “one”.","options":["one","five","ten"],"answer":0,"explanation":"one = එක"},{"prompt":"Choose “two”.","options":["two","ten","how many"],"answer":0,"explanation":"two = දෙක"},{"prompt":"Choose “three”.","options":["three","how many","years old"],"answer":0,"explanation":"three = තුන"}]},
-{"id":"en-a1-u2-l9","unit":"Shopping and money","title":"පාඩම 9 · Shopping and prices","objective":"Use basic numbers, prices and directions in everyday questions and answers","vocabulary":[{"word":"shop","reading":"ෂොප්","meaning":"කඩය","example":"shop","exampleReading":"ෂොප්","translation":"කඩය"},{"word":"price","reading":"ප්‍රයිස්","meaning":"මිල","example":"price","exampleReading":"ප්‍රයිස්","translation":"මිල"},{"word":"expensive","reading":"ඉක්ස්පෙන්සිව්","meaning":"මිල වැඩියි","example":"expensive","exampleReading":"ඉක්ස්පෙන්සිව්","translation":"මිල වැඩියි"},{"word":"cheap","reading":"චීප්","meaning":"ලාභයි","example":"cheap","exampleReading":"චීප්","translation":"ලාභයි"},{"word":"money","reading":"මනි","meaning":"මුදල්","example":"money","exampleReading":"මනි","translation":"මුදල්"},{"word":"card","reading":"කාඩ්","meaning":"කාඩ්පත","example":"card","exampleReading":"කාඩ්","translation":"කාඩ්පත"},{"word":"cash","reading":"කෑෂ්","meaning":"මුදල් නෝට්ටු/කාසි","example":"cash","exampleReading":"කෑෂ්","translation":"මුදල් නෝට්ටු/කාසි"},{"word":"buy","reading":"බයි","meaning":"මිලදී ගන්න","example":"buy","exampleReading":"බයි","translation":"මිලදී ගන්න"}],"grammarTitle":"Grammar and sentence patterns","grammar":"Ask “How much is it?” to find the price. Say “It is expensive/cheap.” Use “Can I pay by card?” to ask about card payments.","grammarTerms":[{"text":"How much is it?","reading":"හව් මච් ඉස් ඉට්?","meaning":"මේකේ මිල කීයද?"}],"examples":[{"text":"How much is the bread?","reading":"හව් මච් ඉස් දි බ්‍රෙඩ්?","meaning":"පාන් කීයද?"},{"text":"I am paying by card.","reading":"අයි ඇම් පේයිං බයි කාඩ්.","meaning":"මම කාඩ්පතෙන් ගෙවනවා."},{"text":"It is cheap.","reading":"ඉට් ඉස් චීප්.","meaning":"මේක ලාභයි."}],"dialogue":[{"text":"Hello. How much is this?","reading":"හෙලෝ. හව් මච් ඉස් දිස්?","meaning":"හෙලෝ. මේක කීයද?"},{"text":"Three euros.","reading":"ත්‍රී යුරෝස්.","meaning":"යුරෝ තුනයි."},{"text":"Can I pay by card?","reading":"කැන් අයි පේ බයි කාඩ්?","meaning":"මට කාඩ්පතෙන් ගෙවන්න පුළුවන්ද?"},{"text":"Yes, of course.","reading":"යෙස්, ඔෆ් කෝර්ස්.","meaning":"ඔව්, අනිවාර්යයෙන්."}],"listeningPractice":{"prompt":"Listen and choose the correct meaning: “How much is it?”","audio":"How much is it?","reading":"හව් මච් ඉස් ඉට්?","options":["මේකේ මිල කීයද?","කඩය","මිල"],"answer":0},"practice":[{"prompt":"නිවැරදි ප්‍රශ්නය තෝරන්න.","options":["How much is it?","cheap","money"],"answer":0,"explanation":"How much is it? = මේකේ මිල කීයද?"},{"prompt":"Choose “one”.","options":["shop","money","card"],"answer":0,"explanation":"shop = කඩය"},{"prompt":"Choose “two”.","options":["price","card","cash"],"answer":0,"explanation":"price = මිල"},{"prompt":"Choose “three”.","options":["expensive","cash","buy"],"answer":0,"explanation":"expensive = මිල වැඩියි"}]},
-{"id":"en-a1-u2-l10","unit":"Travel and directions","title":"පාඩම 10 · Directions and transport","objective":"Use basic numbers, prices and directions in everyday questions and answers","vocabulary":[{"word":"left","reading":"ලෙෆ්ට්","meaning":"වම","example":"left","exampleReading":"ලෙෆ්ට්","translation":"වම"},{"word":"right","reading":"රයිට්","meaning":"දකුණ","example":"right","exampleReading":"රයිට්","translation":"දකුණ"},{"word":"straight","reading":"ස්ට්‍රේට්","meaning":"කෙළින්ම","example":"straight","exampleReading":"ස්ට්‍රේට්","translation":"කෙළින්ම"},{"word":"street","reading":"ස්ට්‍රීට්","meaning":"වීදිය","example":"street","exampleReading":"ස්ට්‍රීට්","translation":"වීදිය"},{"word":"station","reading":"ස්ටේෂන්","meaning":"නැවතුම්පොළ","example":"station","exampleReading":"ස්ටේෂන්","translation":"නැවතුම්පොළ"},{"word":"bus","reading":"බස්","meaning":"බස් රථය","example":"bus","exampleReading":"බස්","translation":"බස් රථය"},{"word":"train","reading":"ට්‍රේන්","meaning":"දුම්රිය","example":"train","exampleReading":"ට්‍රේන්","translation":"දුම්රිය"},{"word":"near","reading":"නියර්","meaning":"ළඟ","example":"near","exampleReading":"නියර්","translation":"ළඟ"}],"grammarTitle":"Grammar and sentence patterns","grammar":"Give directions with “Go straight”, “Turn left” and “Turn right”. Ask for a place with “Where is the station?”","grammarTerms":[{"text":"Where is the station?","reading":"වෙයාර් ඉස් දි ස්ටේෂන්?","meaning":"නැවතුම කොහෙද?"}],"examples":[{"text":"Where is the bus station?","reading":"වෙයාර් ඉස් දි බස් ස්ටේෂන්?","meaning":"බස් නැවතුම කොහෙද?"},{"text":"Go straight.","reading":"ගෝ ස්ට්‍රේට්.","meaning":"කෙළින්ම යන්න."},{"text":"The station is near.","reading":"දි ස්ටේෂන් ඉස් නියර්.","meaning":"නැවතුම ළඟයි."}],"dialogue":[{"text":"Excuse me, where is the station?","reading":"ඉක්ස්කියුස් මී, වෙයාර් ඉස් දි ස්ටේෂන්?","meaning":"සමාවෙන්න, නැවතුම කොහෙද?"},{"text":"Go straight, then turn left.","reading":"ගෝ ස්ට්‍රේට්, දෙන් ටර්න් ලෙෆ්ට්.","meaning":"කෙළින්ම ගිහින් වමට හැරෙන්න."},{"text":"Is it far?","reading":"ඉස් ඉට් ෆාර්?","meaning":"ඒක දුරද?"},{"text":"No, it is near.","reading":"නෝ, ඉට් ඉස් නියර්.","meaning":"නැහැ, ළඟයි."}],"listeningPractice":{"prompt":"Listen and choose the correct meaning: “Where is the station?”","audio":"Where is the station?","reading":"වෙයාර් ඉස් දි ස්ටේෂන්?","options":["නැවතුම කොහෙද?","වම","දකුණ"],"answer":0},"practice":[{"prompt":"නිවැරදි ප්‍රශ්නය තෝරන්න.","options":["Where is the station?","street","station"],"answer":0,"explanation":"Where is the station? = නැවතුම කොහෙද?"},{"prompt":"Choose “one”.","options":["left","station","bus"],"answer":0,"explanation":"left = වම"},{"prompt":"Choose “two”.","options":["right","bus","train"],"answer":0,"explanation":"right = දකුණ"},{"prompt":"Choose “three”.","options":["straight","train","near"],"answer":0,"explanation":"straight = කෙළින්ම"}]}
+,
+{"id":"en-a1-review-l48","unit":"A1 Final Review","title":"Lesson 48 · A1 Grammar Review","objective":"A1 මට්ටමේ මූලික ව්‍යාකරණ, වචන සහ දෛනික සංවාද ඒකාබද්ධව පුහුණු කිරීම","vocabulary":[{"word":"I am","reading":"අයි ඇම්","meaning":"මම ... වෙමි","example":"I am","exampleReading":"අයි ඇම්","translation":"මම ... වෙමි"},{"word":"I have","reading":"අයි හැව්","meaning":"මට තියෙනවා","example":"I have","exampleReading":"අයි හැව්","translation":"මට තියෙනවා"},{"word":"I want","reading":"අයි වොන්ට්","meaning":"මට අවශ්‍යයි","example":"I want","exampleReading":"අයි වොන්ට්","translation":"මට අවශ්‍යයි"},{"word":"I can","reading":"අයි කැන්","meaning":"මට පුළුවන්","example":"I can","exampleReading":"අයි කැන්","translation":"මට පුළුවන්"},{"word":"I can't","reading":"අයි කෑන්ට්","meaning":"මට බැහැ","example":"I can't","exampleReading":"අයි කෑන්ට්","translation":"මට බැහැ"},{"word":"Where?","reading":"වෙයාර්?","meaning":"කොහෙද?","example":"Where?","exampleReading":"වෙයාර්?","translation":"කොහෙද?"},{"word":"When?","reading":"වෙන්?","meaning":"කවදාද?","example":"When?","exampleReading":"වෙන්?","translation":"කවදාද?"},{"word":"How much?","reading":"හව් මච්?","meaning":"කීයද?","example":"How much?","exampleReading":"හව් මච්?","translation":"කීයද?"}],"grammarTitle":"Grammar review","grammar":"At A1 level, use simple patterns such as I am, I have, I want and I can to talk about yourself, needs and abilities.","grammarTerms":[{"text":"I am from Sri Lanka.","reading":"අයි ඇම් ෆ්‍රම් ශ්‍රී ලංකා.","meaning":"මම ශ්‍රී ලංකාවෙන්."}],"examples":[{"text":"I am from Sri Lanka.","reading":"අයි ඇම් ෆ්‍රම් ශ්‍රී ලංකා.","meaning":"මම ශ්‍රී ලංකාවෙන්."},{"text":"I work in Belgrade.","reading":"අයි වර්ක් ඉන් බෙල්ග්‍රේඩ්.","meaning":"මම බෙල්ග්‍රේඩ්වල වැඩ කරනවා."},{"text":"I have a day off.","reading":"අයි හැව් අ ඩේ ඕෆ්.","meaning":"මට නිවාඩු දිනයක් තියෙනවා."}],"dialogue":[{"text":"I am from Sri Lanka.","reading":"අයි ඇම් ෆ්‍රම් ශ්‍රී ලංකා.","meaning":"මම ශ්‍රී ලංකාවෙන්."},{"text":"I work in Belgrade.","reading":"අයි වර්ක් ඉන් බෙල්ග්‍රේඩ්.","meaning":"මම බෙල්ග්‍රේඩ්වල වැඩ කරනවා."},{"text":"I have a day off.","reading":"අයි හැව් අ ඩේ ඕෆ්.","meaning":"මට නිවාඩු දිනයක් තියෙනවා."},{"text":"I want to learn English.","reading":"අයි වොන්ට් ටු ලර්න් ඉංග්ලිෂ්.","meaning":"මට ඉංග්‍රීසි ඉගෙනගන්න ඕනේ."}],"listeningPractice":{"prompt":"Listen and choose the correct Sinhala meaning: “I am from Sri Lanka.”","audio":"I am from Sri Lanka.","options":["මම ශ්‍රී ලංකාවෙන්.","මම ... වෙමි","මට තියෙනවා"],"readings":["අයි ඇම් ෆ්‍රම් ශ්‍රී ලංකා.","අයි ඇම්","අයි හැව්"],"answer":0,"meaning":"I am from Sri Lanka. = මම ශ්‍රී ලංකාවෙන්."},"practice":[{"prompt":"Choose “I have”.","options":["I have","I want","I can"],"readings":["අයි හැව්","අයි වොන්ට්","අයි කැන්"],"answer":0,"explanation":"I have = මට තියෙනවා"},{"prompt":"Choose “I want”.","options":["I want","I can","I can't"],"readings":["අයි වොන්ට්","අයි කැන්","අයි කෑන්ට්"],"answer":0,"explanation":"I want = මට අවශ්‍යයි"},{"prompt":"Choose “Where?”.","options":["Where?","I can't","When?"],"readings":["වෙයාර්","අයි කෑන්ට්","වෙන්?"],"answer":0,"explanation":"Where? = කොහෙද?"},{"prompt":"Choose “I can't”.","options":["I can't","Where?","When?"],"readings":["අයි කෑන්ට්","වෙයාර්?","වෙන්?"],"answer":0,"explanation":"I can't = මට බැහැ"}]},
+{"id":"en-a1-review-l49","unit":"Integrated A1 Conversation","title":"Lesson 49 · Everyday Conversation Practice","objective":"A1 මට්ටමේ මූලික ව්‍යාකරණ, වචන සහ දෛනික සංවාද ඒකාබද්ධව පුහුණු කිරීම","vocabulary":[{"word":"Good afternoon","reading":"ගුඩ් ආෆ්ටර්නූන්","meaning":"සුබ දවසක්","example":"Good afternoon","exampleReading":"ගුඩ් ආෆ්ටර්නූන්","translation":"සුබ දවසක්"},{"word":"How are you?","reading":"හව් ආර් යූ?","meaning":"ඔබට කොහොමද?","example":"How are you?","exampleReading":"හව් ආර් යූ?","translation":"ඔබට කොහොමද?"},{"word":"I need help","reading":"අයි නීඩ් හෙල්ප්","meaning":"මට උදව් අවශ්‍යයි","example":"I need help","exampleReading":"අයි නීඩ් හෙල්ප්","translation":"මට උදව් අවශ්‍යයි"},{"word":"Where is...?","reading":"වෙයාර් ඉස්...?","meaning":"... කොහෙද?","example":"Where is...?","exampleReading":"වෙයාර් ඉස්...?","translation":"... කොහෙද?"},{"word":"How much is it?","reading":"හව් මච් ඉස් ඉට්?","meaning":"මේක කීයද?","example":"How much is it?","exampleReading":"හව් මච් ඉස් ඉට්?","translation":"මේක කීයද?"},{"word":"The bill, please","reading":"දි බිල් ප්ලීස්","meaning":"බිල දෙන්න","example":"The bill, please","exampleReading":"දි බිල් ප්ලීස්","translation":"බිල දෙන්න"},{"word":"See you","reading":"සී යූ","meaning":"නැවත හමුවෙමු","example":"See you","exampleReading":"සී යූ","translation":"නැවත හමුවෙමු"},{"word":"Enjoy your meal","reading":"එන්ජෝයි යෝර් මීල්","meaning":"ආහාරය රසවිඳින්න","example":"Enjoy your meal","exampleReading":"එන්ජෝයි යෝර් මීල්","translation":"ආහාරය රසවිඳින්න"}],"grammarTitle":"Grammar review","grammar":"Start with a greeting, explain what you need, and ask for clarification if you do not understand. Finish politely by saying thank you and goodbye.","grammarTerms":[{"text":"Good afternoon! How are you?","reading":"ගුඩ් ආෆ්ටර්නූන්! හව් ආර් යූ?","meaning":"සුබ දවසක්! ඔබට කොහොමද?"}],"examples":[{"text":"Good afternoon! How are you?","reading":"ගුඩ් ආෆ්ටර්නූන්! හව් ආර් යූ?","meaning":"සුබ දවසක්! ඔබට කොහොමද?"},{"text":"I'm fine, thank you.","reading":"අයිම් ෆයින්, තෑන්ක් යූ.","meaning":"මම හොඳින්, ස්තුතියි."},{"text":"I need some help, please.","reading":"අයි නීඩ් සම් හෙල්ප්, ප්ලීස්.","meaning":"මට උදව් ටිකක් අවශ්‍යයි, කරුණාකර."}],"dialogue":[{"text":"Good afternoon! How are you?","reading":"ගුඩ් ආෆ්ටර්නූන්! හව් ආර් යූ?","meaning":"සුබ දවසක්! ඔබට කොහොමද?"},{"text":"I'm fine, thank you.","reading":"අයිම් ෆයින්, තෑන්ක් යූ.","meaning":"මම හොඳින්, ස්තුතියි."},{"text":"I need some help, please.","reading":"අයි නීඩ් සම් හෙල්ප්, ප්ලීස්.","meaning":"මට උදව් ටිකක් අවශ්‍යයි, කරුණාකර."},{"text":"Of course. How can I help?","reading":"ඔෆ් කෝර්ස්. හව් කැන් අයි හෙල්ප්?","meaning":"අනිවාර්යයෙන්. මට උදව් කළ හැක්කේ කොහොමද?"}],"listeningPractice":{"prompt":"Listen and choose the correct Sinhala meaning: “Good afternoon! How are you?”","audio":"Good afternoon! How are you?","options":["සුබ දවසක්! ඔබට කොහොමද?","සුබ දවසක්","ඔබට කොහොමද?"],"readings":["ගුඩ් ආෆ්ටර්නූන්! හව් ආර් යූ?","ගුඩ් ආෆ්ටර්නූන්","හව් ආර් යූ?"],"answer":0,"meaning":"Good afternoon! How are you? = සුබ දවසක්! ඔබට කොහොමද?"},"practice":[{"prompt":"Choose “I need help”.","options":["I need help","I don't understand.","Where is...?"],"readings":["අයි නීඩ් හෙල්ප්","ඉ ඩ්ඔන්ට් අන්ඩර්ස්ටෑන්ඩ්","වෙයාර් ඉස්...?"],"answer":0,"explanation":"I need help = මට උදව් අවශ්‍යයි"},{"prompt":"Choose “The bill, please”.","options":["The bill, please","Where is...?","How much is it?"],"readings":["දි බිල් ප්ලීස්","වෙයාර් ඉස්...?","හව් මච් ඉස් ඉට්?"],"answer":0,"explanation":"The bill, please = බිල දෙන්න"},{"prompt":"Choose “How are you?”.","options":["How are you?","How much is it?","The bill, please"],"readings":["හව් ආර් යූ","හව් මච් ඉස් ඉට්?","දි බිල් ප්ලීස්"],"answer":0,"explanation":"How are you? = ඔබට කොහොමද?"},{"prompt":"Choose “See you”.","options":["See you","The bill, please","Goodbye"],"readings":["සී යූ","දි බිල් ප්ලීස්","ගුඩ්බායි"],"answer":0,"explanation":"See you = නැවත හමුවෙමු"}]},
+{"id":"en-a1-review-l50","unit":"A1 Final Practice","title":"Lesson 50 · A1 Final Listening and Speaking","objective":"A1 මට්ටමේ මූලික ව්‍යාකරණ, වචන සහ දෛනික සංවාද ඒකාබද්ධව පුහුණු කිරීම","vocabulary":[{"word":"Listen","reading":"ලිසන්","meaning":"සවන් දෙන්න","example":"Listen","exampleReading":"ලිසන්","translation":"සවන් දෙන්න"},{"word":"Repeat","reading":"රිපීට්","meaning":"නැවත කියන්න","example":"Repeat","exampleReading":"රිපීට්","translation":"නැවත කියන්න"},{"word":"Conversation","reading":"කොන්වර්සේෂන්","meaning":"සංවාදය","example":"Conversation","exampleReading":"කොන්වර්සේෂන්","translation":"සංවාදය"},{"word":"Question","reading":"ක්වෙස්චන්","meaning":"ප්‍රශ්නය","example":"Question","exampleReading":"ක්වෙස්චන්","translation":"ප්‍රශ්නය"},{"word":"Answer","reading":"ආන්සර්","meaning":"පිළිතුර","example":"Answer","exampleReading":"ආන්සර්","translation":"පිළිතුර"},{"word":"Correct","reading":"කරෙක්ට්","meaning":"නිවැරදියි","example":"Correct","exampleReading":"කරෙක්ට්","translation":"නිවැරදියි"},{"word":"Incorrect","reading":"ඉන්කරෙක්ට්","meaning":"වැරදියි","example":"Incorrect","exampleReading":"ඉන්කරෙක්ට්","translation":"වැරදියි"},{"word":"I am ready","reading":"අයි ඇම් රෙඩි","meaning":"මම සූදානම්","example":"I am ready","exampleReading":"අයි ඇම් රෙඩි","translation":"මම සූදානම්"}],"grammarTitle":"Grammar review","grammar":"This is the final A1 practice lesson. Listen and choose the meaning, read each sentence aloud, then repeat the dialogue using your own information.","grammarTerms":[{"text":"What's your name?","reading":"වොට්ස් යෝර් නේම්?","meaning":"ඔයාගේ නම මොකක්ද?"}],"examples":[{"text":"What's your name?","reading":"වොට්ස් යෝර් නේම්?","meaning":"ඔයාගේ නම මොකක්ද?"},{"text":"My name is Milan. I live in Belgrade.","reading":"මයි නේම් ඉස් මිලාන්. අයි ලිව් ඉන් බෙල්ග්‍රේඩ්.","meaning":"මගේ නම මිලාන්. මම බෙල්ග්‍රේඩ්වල ජීවත් වෙනවා."},{"text":"Where do you work?","reading":"වෙයාර් ඩූ යූ වර්ක්?","meaning":"ඔයා කොහෙද වැඩ කරන්නේ?"}],"dialogue":[{"text":"What's your name?","reading":"වොට්ස් යෝර් නේම්?","meaning":"ඔයාගේ නම මොකක්ද?"},{"text":"My name is Milan. I live in Belgrade.","reading":"මයි නේම් ඉස් මිලාන්. අයි ලිව් ඉන් බෙල්ග්‍රේඩ්.","meaning":"මගේ නම මිලාන්. මම බෙල්ග්‍රේඩ්වල ජීවත් වෙනවා."},{"text":"Where do you work?","reading":"වෙයාර් ඩූ යූ වර්ක්?","meaning":"ඔයා කොහෙද වැඩ කරන්නේ?"},{"text":"I work in a restaurant. I study English every day.","reading":"අයි වර්ක් ඉන් අ රෙස්ටුරන්ට්. අයි ස්ටඩි ඉංග්ලිෂ් එව්රි ඩේ.","meaning":"මම අවන්හලක වැඩ කරනවා. මම හැමදාම ඉංග්‍රීසි ඉගෙනගන්නවා."}],"listeningPractice":{"prompt":"Listen and choose the correct Sinhala meaning: “What's your name?”","audio":"What's your name?","options":["ඔයාගේ නම මොකක්ද?","සවන් දෙන්න","නැවත කියන්න"],"readings":["වොට්ස් යෝර් නේම්?","ලිසන්","රිපීට්"],"answer":0,"meaning":"What's your name? = ඔයාගේ නම මොකක්ද?"},"practice":[{"prompt":"Choose “question”.","options":["Question","Conversation","Answer"],"readings":["ක්වෙස්චන්","කොන්වර්සේෂන්","ආන්සර්"],"answer":0,"explanation":"Question = ප්‍රශ්නය"},{"prompt":"Choose “answer”.","options":["Answer","Question","Conversation"],"readings":["ආන්සර්","ක්වෙස්චන්","කොන්වර්සේෂන්"],"answer":0,"explanation":"Answer = පිළිතුර"},{"prompt":"Choose “correct”.","options":["Correct","Answer","Incorrect"],"readings":["කරෙක්ට්","ආන්සර්","ඉන්කරෙක්ට්"],"answer":0,"explanation":"Correct = නිවැරදියි"},{"prompt":"Choose “listen”.","options":["Listen","Correct","Incorrect"],"readings":["ලිසන්","කරෙක්ට්","ඉන්කරෙක්ට්"],"answer":0,"explanation":"Listen = සවන් දෙන්න"}]}
 
 ];
