@@ -387,3 +387,8 @@ All 50 C2 lessons are now authored for both Serbian and English and integrated i
 ## C2 cumulative revision and final practice assessments
 
 C2 now includes paired Serbian and English cumulative revision sets (10 questions per language) and final practice assessments (20 questions per language). The final assessment combines 10 advanced vocabulary items, 4 grammar/discourse questions and 6 listening-comprehension questions. Vocabulary and listening items include Sinhala meanings and approximate Sinhala-script pronunciation guides, with text-to-speech playback in the app. The suggested practice threshold is 70% (14/20). These assessments are learning tools, not official CEFR certification; speaking remains guided self-practice and is not automatically graded. Fluent-speaker review and CI/Android verification remain outstanding.
+
+
+## Content QA update — 2026-11-19
+
+Automated review identified and corrected 2,400 A2/B1/B2 vocabulary example fields across Serbian and English. Isolated word echoes and heavily repeated vocabulary examples were replaced with complete contextual sentences from each lesson's own example section, with Sinhala translations and readings synchronized. The six updated files passed checks for 50 unique lesson IDs, 400 vocabulary records, required fields, and sentence examples. See [CONTENT_QA_REPORT.md](./CONTENT_QA_REPORT.md) for scope and limitations. This is not a substitute for fluent-speaker review or physical Android testing.
