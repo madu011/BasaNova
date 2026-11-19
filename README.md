@@ -403,3 +403,8 @@ C2 now includes paired Serbian and English cumulative revision sets (10 question
 ## Content QA update — 2026-11-19
 
 Automated review identified and corrected 2,400 A2/B1/B2 vocabulary example fields across Serbian and English. Isolated word echoes and heavily repeated vocabulary examples were replaced with complete contextual sentences from each lesson's own example section, with Sinhala translations and readings synchronized. The six updated files passed checks for 50 unique lesson IDs, 400 vocabulary records, required fields, and sentence examples. See [CONTENT_QA_REPORT.md](./CONTENT_QA_REPORT.md) for scope and limitations. This is not a substitute for fluent-speaker review or physical Android testing.
+
+
+## B1 practice improvements
+
+- Incorrect answers in B1 lesson quizzes, listening checks and mixed revision can now be retried immediately without restarting the lesson. Correct answers remain marked as complete.
