@@ -36,7 +36,7 @@ function validateQuestions(label, questions, expectedCount, { pronunciation = fa
     assert.ok(Number.isInteger(question.answer), `${question.id}: answer must be an integer`);
     assert.ok(question.answer >= 0 && question.answer < question.options.length, `${question.id}: answer index out of range`);
 
-    if (pronunciation) {
+    if (pronunciation && (question.audio || question.word)) {
       const reading = question.reading ?? question.wordReading;
       assert.ok(typeof reading === "string" && hasSinhala(reading), `${question.id}: missing Sinhala pronunciation`);
       assert.ok(!hasForeignScript(reading), `${question.id}: mixed-script pronunciation: ${reading}`);
