@@ -834,3 +834,15 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 1. Audit Serbian B1 lesson 1–50 practice prompts, explanations, listening text and examples for Sinhala/English contamination or translation mismatches.
 2. Review paired B1 content and repetitive assessment questions; improve lesson-specific practice where safe.
 3. Check CI for the latest content commits and verify a standalone release APK on Android.
+
+
+## 2026-11-19 — Expo bundle syntax failure fixed
+- Inspected the failed Expo validation run `44565581976` (commit `a7cc8fbe`). Dependency installation and Expo compatibility passed; Android JS bundle export failed at `App.js:566` with `Adjacent JSX elements must be wrapped in an enclosing tag`.
+- Root cause: the 18+ language panel rendered a `View` followed by its exit `TouchableOpacity` as adjacent JSX siblings in one ternary branch without a wrapper.
+- Wrapped that branch in a React fragment. App fix commit: `a1c5cac42a85de565f0ac78c80cbbff680b3544d`.
+- New Expo validation run `44565862650` and Android APK run `44565862576` were queued at the time of this note. Do not claim the build is fixed until both complete; physical Android installation and runtime testing remain necessary.
+
+### Next exact task
+1. Monitor Expo run `44565862650` and Android APK run `44565862576`; inspect and fix any remaining errors.
+2. If the standalone release APK is produced, download/install it and verify app launch, lesson navigation, TTS listening, quizzes, and age-gate navigation on Android.
+3. Continue Serbian B1 prompt/audio/translation QA and lesson-specific assessment improvements.
