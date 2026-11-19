@@ -1112,3 +1112,17 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 3. Review C2 final exam schema separately because its question structure does not use the scanned `options` field.
 4. Continue content relevance/naturalness review and obtain native-speaker review of Serbian examples and pronunciation aids.
 5. Re-run Expo and Android workflows once GitHub assigns runners; fix any actionable application errors shown in actual logs, then verify artifact and Android installation.
+
+
+## 2026-11-19 — Body-parts vocabulary pack 13 and integration QA
+- Added `vocabularyPack13.js` with 51 Serbian and 51 English body/anatomy terms, each containing a Sinhala meaning, Sinhala-script approximate pronunciation, example sentence and Sinhala translation.
+- Coverage includes head/face, sensory features, mouth/teeth, neck/shoulder/arms/hands/fingers, chest/back/abdomen/hips, legs/feet/toes, skin/bone/muscle and basic internal organs (heart, lungs, brain, stomach, liver, kidney, blood).
+- Integrated both language arrays into `courses.Serbian` and `courses.English` in App.js. Commits: vocabulary pack `f415c9d7a8b3ca59b1d24e2dd25046ec20b62c6d`; App integration `4c040acb9be9af3a3330b0476a33f50dcc94bad0`.
+- Post-commit static data checks: 51 entries per language; zero missing required fields; zero duplicate headwords within each language pack; all 102 pronunciation fields contain Sinhala script; both App imports and both course-push integrations are present.
+- These are static source/data checks only. They do not constitute Metro/Expo runtime, UI, audio, physical-device or linguistic-native-speaker tests. Sinhala-script pronunciations are approximate and require fluent-speaker review.
+- Latest Expo validation run `44577584279` and Android APK run `44577584617` both failed immediately. The job-log endpoint returns 404 BlobNotFound, and normalized job data contains no step output; prior repeated runs showed runner_id 0/no runner assignment. There is still no actionable application-code failure log and no current-main APK artifact verified. Treat this as GitHub Actions runner provisioning/account availability until a runner starts; do not claim build success.
+
+### Next exact tasks
+1. Continue parser-aware A1 legacy lesson QA and C2 final-exam schema-specific checks.
+2. Re-run Expo and APK workflows once GitHub assigns hosted runners; diagnose only errors supported by actual logs.
+3. Review body-part Serbian/English naturalness and Sinhala readings with fluent speakers; test TTS and layout on an Android device after an APK is available.
