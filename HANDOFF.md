@@ -926,3 +926,15 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 1. Check Expo validation and Android APK build for latest SHA `be321e0` (English file) and `ab7ba94` (Serbian file); ensure one final build runs on the latest combined main SHA.
 2. Audit whether listening audio/prompt language and answer choices match each lesson's actual listening sentence, and whether vocabulary examples use the target vocabulary item correctly.
 3. Review pronunciation aids with a Serbian native speaker before presenting them as definitive.
+
+
+## 2026-11-19 — Follow-up question Sinhala meanings corrected
+- Replaced the generic Sinhala meaning used on the new B follow-up questions in paired lessons 11–30 with question-specific Sinhala translations in both Serbian and English tracks (20 pairs).
+- Serbian translation commit: `9f2734ce70918f37034703e6ba163dac498a9258`.
+- English translation commit: `5534cbf4e803d4aed29fff2daf5c244a2d21e52a`.
+- A heuristic vocabulary-term check is not valid for this data model because `vocabulary.word` contains English headwords while `example` is in the target language; do not treat the resulting mismatch count as confirmed content errors. Listening prompt/audio pairing and answer-index structure passed basic checks.
+
+### Next exact task
+1. Check CI on the latest English commit and ensure a final combined-main APK build completes with an uploaded artifact.
+2. Review vocabulary entries manually/semantically by comparing each headword, target-language example, Sinhala meaning and pronunciation field; avoid naive substring matching across languages.
+3. Continue B1 quality review, especially Sinhala translations and approximate pronunciation guides.
