@@ -954,3 +954,15 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 2. Continue semantic review of B1 vocabulary examples: many early lessons reuse a small set of generic example sentences across unrelated headwords; replace with word-specific examples and matching Sinhala translations.
 3. Review Serbian B1 31–50 exampleReading fields: some appear to contain Cyrillic transliteration rather than Sinhala-script pronunciation aids.
 4. Review pronunciation aids with a Serbian native speaker before presenting them as definitive.
+
+
+## 2026-11-19 — Serbian B1 pronunciation script cleanup
+- Converted all 160 exampleReading values in Serbian B1 lessons 31–50 from Cyrillic script to approximate Sinhala-script pronunciation aids.
+- Commit: `d568d4bbb24527ab3e89a5dbb04855bad42e0040`.
+- Structural check: all 160 checked values now contain Sinhala script and no Cyrillic characters. These are machine-generated approximate reading aids, not native-speaker-verified phonetics; they require human pronunciation review before being treated as authoritative.
+- Latest Expo validation and Android APK workflows continue to fail immediately with runner_id 0 and no job steps, including runs for commit `d568d4b`. This points to a GitHub Actions runner/dispatch issue rather than a reported app build step failure; no APK artifact has been produced.
+
+### Next exact task
+1. Continue B1 vocabulary semantic review by replacing repeated generic examples with word-specific target-language sentences and corresponding Sinhala translations, prioritizing lessons 1–30 in both tracks.
+2. Keep pronunciation aids clearly marked approximate until Serbian/English speaker review.
+3. Investigate GitHub Actions runner dispatch failures; retry Expo validation and APK build only once runners accept jobs.
