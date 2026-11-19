@@ -2,8 +2,8 @@
 export const SERBIAN_C1_LESSONS_31_40 = [
   {
     "id": "sr-c1-l31",
-    "unit": "C1 · Дипломатија и тактична комуникација",
-    "title": "C1 · 31 · Дипломатија и тактична комуникација",
+    "unit": "C1 · Diplomatija i taktična komunikacija",
+    "title": "C1 · 31 · Diplomatija i taktična komunikacija",
     "objective": "සංවේදී අවස්ථාවලදී මෘදු යෝජනා භාවිත කරමින් විරුද්ධතාව ගෞරවයෙන් ප්‍රකාශ කරන්න.",
     "vocabulary": [
       {
@@ -63,7 +63,7 @@ export const SERBIAN_C1_LESSONS_31_40 = [
         "translation": "මඳ සැලකිල්ලකින් සාකච්ඡාව ඵලදායීව පවත්වාගත හැක."
       }
     ],
-    "grammarTitle": "Граматика и стил",
+    "grammarTitle": "Gramatika i stil",
     "grammar": "සංවේදී අවස්ථාවලදී මෘදු යෝජනා භාවිත කරමින් විරුද්ධතාව ගෞරවයෙන් ප්‍රකාශ කරන්න.",
     "examples": [
       {
@@ -110,63 +110,63 @@ export const SERBIAN_C1_LESSONS_31_40 = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Послушајте и изаберите тачно тумачење.",
+      "prompt": "Poslušajte i izaberite tačno tumačenje.",
       "audio": "Važno je uvažiti i drugačije mišljenje. Možda bismo mogli da razmotrimo drugu mogućnost. Njegova formulacija bila je taktična i jasna. Uz malo obzira, razgovor ostaje konstruktivan.",
       "reading": "ව්අෂ්න්ඔ ය්එ උව්අෂ්ඉත්ඉ ඉ ද්ර්උග්අච්ඉය්එ ම්ඉෂ්ල්ය්එන්ය්එ. ම්ඔෂ්ද්අ බ්ඉස්ම්ඔ ම්ඔග්ල්ඉ ද්අ ර්අස්ම්ඔත්ර්ඉම්ඔ ද්ර්උග්උ ම්ඔග්උච්න්ඔස්ත්. න්ය්එග්ඔව්අ ෆ්ඔර්ම්උල්අත්ස්ඉය්අ බ්ඉල්අ ය්එ ත්අක්ත්ඉච්න්අ ඉ ය්අස්න්අ. උස් ම්අල්ඔ ඔබ්ස්ඉර්අ, ර්අස්ග්ඔව්ඔර් ඔස්ත්අය්එ ක්ඔන්ස්ත්ර්උක්ත්ඉව්අන්.",
       "options": [
+        "Svi podaci su potpuno sigurni.",
         "වෙනස් මතයක්ද සලකා පිළිගැනීම වැදගත්ය. සමහරවිට අපට වෙනත් හැකියාවක් සලකා බැලිය හැක.",
-        "Сви подаци су потпуно сигурни.",
-        "Ниједан одговор није тачан."
+        "Nijedan odgovor nije tačan."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
-        "prompt": "Који је кључни појам ове лекције?",
+        "prompt": "Koji je ključni pojam ove lekcije?",
         "options": [
-          "taktičan",
           "neslaganje",
+          "taktičan",
           "uzdržan"
         ],
-        "answer": 0,
-        "explanation": "Прва реч је један од кључних појмова лекције."
+        "answer": 1,
+        "explanation": "Prva reč je jedan od ključnih pojmova lekcije."
       },
       {
-        "prompt": "Изаберите одговарајући стручни израз.",
+        "prompt": "Izaberite odgovarajući stručni izraz.",
         "options": [
           "diplomatija",
-          "obzir",
-          "predlog"
+          "predlog",
+          "obzir"
+        ],
+        "answer": 2,
+        "explanation": "Proverite značenje u listi reči."
+      },
+      {
+        "prompt": "Šta najviše doprinosi pouzdanom zaključku?",
+        "options": [
+          "Jasni kriterijumi i proverljivi dokazi",
+          "Izostavljanje ograničenja",
+          "Preterano uopštavanje"
+        ],
+        "answer": 0,
+        "explanation": "Zaključak treba zasnovati na dokazima."
+      },
+      {
+        "prompt": "Kako treba predstaviti neizvesnost?",
+        "options": [
+          "Prikazati pretpostavke kao činjenice",
+          "Otvoreno navesti ograničenja",
+          "Izostaviti nepoznate podatke"
         ],
         "answer": 1,
-        "explanation": "Проверите значење у листи речи."
-      },
-      {
-        "prompt": "Шта највише доприноси поузданом закључку?",
-        "options": [
-          "Јасни критеријуми и проверљиви докази",
-          "Изостављање ограничења",
-          "Претерано уопштавање"
-        ],
-        "answer": 0,
-        "explanation": "Закључак треба засновати на доказима."
-      },
-      {
-        "prompt": "Како треба представити неизвесност?",
-        "options": [
-          "Отворено навести ограничења",
-          "Приказати претпоставке као чињенице",
-          "Изоставити непознате податке"
-        ],
-        "answer": 0,
-        "explanation": "Ограничења треба јасно навести."
+        "explanation": "Ograničenja treba jasno navesti."
       }
     ]
   },
   {
     "id": "sr-c1-l32",
-    "unit": "C1 · Процена јавних политика",
-    "title": "C1 · 32 · Процена јавних политика",
+    "unit": "C1 · Procena javnih politika",
+    "title": "C1 · 32 · Procena javnih politika",
     "objective": "ප්‍රතිපත්ති ඇගයීමේදී අරමුණු, ආරම්භක මට්ටම්, මිනුම් දර්ශක සහ අනපේක්ෂිත ප්‍රතිවිපාක සලකා බලන්න.",
     "vocabulary": [
       {
@@ -226,7 +226,7 @@ export const SERBIAN_C1_LESSONS_31_40 = [
         "translation": "හොඳ ප්‍රතිඵලයක් පමණක් හේතුකාරකත්වය තහවුරු නොකරයි."
       }
     ],
-    "grammarTitle": "Граматика и стил",
+    "grammarTitle": "Gramatika i stil",
     "grammar": "ප්‍රතිපත්ති ඇගයීමේදී අරමුණු, ආරම්භක මට්ටම්, මිනුම් දර්ශක සහ අනපේක්ෂිත ප්‍රතිවිපාක සලකා බලන්න.",
     "examples": [
       {
@@ -273,63 +273,63 @@ export const SERBIAN_C1_LESSONS_31_40 = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Послушајте и изаберите тачно тумачење.",
+      "prompt": "Poslušajte i izaberite tačno tumačenje.",
       "audio": "Evaluacija obuhvata i neželjene posledice. Polazna osnova omogućava smisleno poređenje. Pokazatelji treba da budu merljivi i relevantni. Dobar ishod sam po sebi ne dokazuje uzročnost.",
       "reading": "එව්අල්උඅත්ස්ඉය්අ ඔබ්උහ්ව්අත්අ ඉ න්එෂ්එල්ය්එන්එ ප්ඔස්ල්එද්ඉත්ස්එ. ප්ඔල්අස්න්අ ඔස්න්ඔව්අ ඔම්ඔග්උච්අව්අ ස්ම්ඉස්ල්එන්ඔ ප්ඔර්එජ්එන්ය්එ. ප්ඔක්අස්අත්එල්ය්ඉ ත්ර්එබ්අ ද්අ බ්උද්උ ම්එර්ල්ය්ඉව්ඉ ඉ ර්එල්එව්අන්ත්න්ඉ. ද්ඔබ්අර් ඉස්හ්ඔද් ස්අම් ප්ඔ ස්එබ්ඉ න්එ ද්ඔක්අස්උය්එ උස්ර්ඔච්න්ඔස්ත්.",
       "options": [
-        "ඇගයීමට අනපේක්ෂිත ප්‍රතිවිපාකද ඇතුළත් වේ. ආරම්භක මට්ටම අර්ථවත් සැසඳීමකට ඉඩ සලසයි.",
-        "Сви подаци су потпуно сигурни.",
-        "Ниједан одговор није тачан."
+        "Svi podaci su potpuno sigurni.",
+        "Nijedan odgovor nije tačan.",
+        "ඇගයීමට අනපේක්ෂිත ප්‍රතිවිපාකද ඇතුළත් වේ. ආරම්භක මට්ටම අර්ථවත් සැසඳීමකට ඉඩ සලසයි."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
-        "prompt": "Који је кључни појам ове лекције?",
+        "prompt": "Koji je ključni pojam ove lekcije?",
         "options": [
-          "mera",
           "pokazatelj",
+          "mera",
           "sprovedba"
         ],
-        "answer": 0,
-        "explanation": "Прва реч је један од кључних појмова лекције."
+        "answer": 1,
+        "explanation": "Prva reč je jedan od ključnih pojmova lekcije."
       },
       {
-        "prompt": "Изаберите одговарајући стручни израз.",
+        "prompt": "Izaberite odgovarajući stručni izraz.",
         "options": [
           "ishod",
-          "polazna osnova",
-          "neželjena posledica"
+          "neželjena posledica",
+          "polazna osnova"
+        ],
+        "answer": 2,
+        "explanation": "Proverite značenje u listi reči."
+      },
+      {
+        "prompt": "Šta najviše doprinosi pouzdanom zaključku?",
+        "options": [
+          "Jasni kriterijumi i proverljivi dokazi",
+          "Izostavljanje ograničenja",
+          "Preterano uopštavanje"
+        ],
+        "answer": 0,
+        "explanation": "Zaključak treba zasnovati na dokazima."
+      },
+      {
+        "prompt": "Kako treba predstaviti neizvesnost?",
+        "options": [
+          "Prikazati pretpostavke kao činjenice",
+          "Otvoreno navesti ograničenja",
+          "Izostaviti nepoznate podatke"
         ],
         "answer": 1,
-        "explanation": "Проверите значење у листи речи."
-      },
-      {
-        "prompt": "Шта највише доприноси поузданом закључку?",
-        "options": [
-          "Јасни критеријуми и проверљиви докази",
-          "Изостављање ограничења",
-          "Претерано уопштавање"
-        ],
-        "answer": 0,
-        "explanation": "Закључак треба засновати на доказима."
-      },
-      {
-        "prompt": "Како треба представити неизвесност?",
-        "options": [
-          "Отворено навести ограничења",
-          "Приказати претпоставке као чињенице",
-          "Изоставити непознате податке"
-        ],
-        "answer": 0,
-        "explanation": "Ограничења треба јасно навести."
+        "explanation": "Ograničenja treba jasno navesti."
       }
     ]
   },
   {
     "id": "sr-c1-l33",
-    "unit": "C1 · Финансијско извештавање и одговорност",
-    "title": "C1 · 33 · Финансијско извештавање и одговорност",
+    "unit": "C1 · Finansijsko izveštavanje i odgovornost",
+    "title": "C1 · 33 · Finansijsko izveštavanje i odgovornost",
     "objective": "වාර්තාකරණයේදී ආදායම, වියදම, බැඳීම් සහ මුදල් ප්‍රවාහය වෙන්කර දක්වන්න; ඇස්තමේන්තු සැබෑ අගයන් ලෙස නොපෙන්වන්න.",
     "vocabulary": [
       {
@@ -389,7 +389,7 @@ export const SERBIAN_C1_LESSONS_31_40 = [
         "translation": "විනිවිදභාවයට උපකල්පන පැහැදිලි කිරීම අවශ්‍යය."
       }
     ],
-    "grammarTitle": "Граматика и стил",
+    "grammarTitle": "Gramatika i stil",
     "grammar": "වාර්තාකරණයේදී ආදායම, වියදම, බැඳීම් සහ මුදල් ප්‍රවාහය වෙන්කර දක්වන්න; ඇස්තමේන්තු සැබෑ අගයන් ලෙස නොපෙන්වන්න.",
     "examples": [
       {
@@ -436,63 +436,63 @@ export const SERBIAN_C1_LESSONS_31_40 = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Послушајте и изаберите тачно тумачење.",
+      "prompt": "Poslušajte i izaberite tačno tumačenje.",
       "audio": "Izveštaj prikazuje prihode i rashode za kvartal. Novčani tok se razlikuje od računovodstvene dobiti. Revizija je utvrdila odstupanje u evidenciji. Transparentnost zahteva jasno objašnjenje pretpostavki.",
       "reading": "ඉස්ව්එෂ්ත්අය් ප්ර්ඉක්අස්උය්එ ප්ර්ඉහ්ඔද්එ ඉ ර්අස්හ්ඔද්එ ස්අ ක්ව්අර්ත්අල්. න්ඔව්ච්අන්ඉ ත්ඔක් ස්එ ර්අස්ල්ඉක්උය්එ ඔද් ර්අච්උන්ඔව්ඔද්ස්ත්ව්එන්එ ද්ඔබ්ඉත්ඉ. ර්එව්ඉස්ඉය්අ ය්එ උත්ව්ර්ද්ඉල්අ ඔද්ස්ත්උප්අන්ය්එ උ එව්ඉද්එන්ත්ස්ඉය්ඉ. ත්ර්අන්ස්ප්අර්එන්ත්න්ඔස්ත් ස්අහ්ත්එව්අ ය්අස්න්ඔ ඔබ්ය්අෂ්න්ය්එන්ය්එ ප්ර්එත්ප්ඔස්ත්අව්ක්ඉ.",
       "options": [
         "වාර්තාව කාර්තුවේ ආදායම සහ වියදම පෙන්වයි. මුදල් ප්‍රවාහය ගිණුම්කරණ ලාභයෙන් වෙනස් වේ.",
-        "Сви подаци су потпуно сигурни.",
-        "Ниједан одговор није тачан."
+        "Svi podaci su potpuno sigurni.",
+        "Nijedan odgovor nije tačan."
       ],
       "answer": 0
     },
     "practice": [
       {
-        "prompt": "Који је кључни појам ове лекције?",
+        "prompt": "Koji je ključni pojam ove lekcije?",
         "options": [
-          "prihod",
           "bilans",
+          "prihod",
           "odstupanje"
         ],
-        "answer": 0,
-        "explanation": "Прва реч је један од кључних појмова лекције."
+        "answer": 1,
+        "explanation": "Prva reč je jedan od ključnih pojmova lekcije."
       },
       {
-        "prompt": "Изаберите одговарајући стручни израз.",
+        "prompt": "Izaberite odgovarajući stručni izraz.",
         "options": [
           "rashod",
-          "obaveza",
-          "transparentnost"
+          "transparentnost",
+          "obaveza"
+        ],
+        "answer": 2,
+        "explanation": "Proverite značenje u listi reči."
+      },
+      {
+        "prompt": "Šta najviše doprinosi pouzdanom zaključku?",
+        "options": [
+          "Jasni kriterijumi i proverljivi dokazi",
+          "Izostavljanje ograničenja",
+          "Preterano uopštavanje"
+        ],
+        "answer": 0,
+        "explanation": "Zaključak treba zasnovati na dokazima."
+      },
+      {
+        "prompt": "Kako treba predstaviti neizvesnost?",
+        "options": [
+          "Prikazati pretpostavke kao činjenice",
+          "Otvoreno navesti ograničenja",
+          "Izostaviti nepoznate podatke"
         ],
         "answer": 1,
-        "explanation": "Проверите значење у листи речи."
-      },
-      {
-        "prompt": "Шта највише доприноси поузданом закључку?",
-        "options": [
-          "Јасни критеријуми и проверљиви докази",
-          "Изостављање ограничења",
-          "Претерано уопштавање"
-        ],
-        "answer": 0,
-        "explanation": "Закључак треба засновати на доказима."
-      },
-      {
-        "prompt": "Како треба представити неизвесност?",
-        "options": [
-          "Отворено навести ограничења",
-          "Приказати претпоставке као чињенице",
-          "Изоставити непознате податке"
-        ],
-        "answer": 0,
-        "explanation": "Ограничења треба јасно навести."
+        "explanation": "Ograničenja treba jasno navesti."
       }
     ]
   },
   {
     "id": "sr-c1-l34",
-    "unit": "C1 · Научна неизвесност и рецензирање",
-    "title": "C1 · 34 · Научна неизвесност и рецензирање",
+    "unit": "C1 · Naučna neizvesnost i recenziranje",
+    "title": "C1 · 34 · Naučna neizvesnost i recenziranje",
     "objective": "විද්‍යාත්මක ලිවීමේදී උපකල්පනය, සොයාගැනීම සහ විද්‍යාත්මක එකඟතාව වෙන්කරන්න; සාක්ෂිවල සීමා සඳහන් කරන්න.",
     "vocabulary": [
       {
@@ -552,7 +552,7 @@ export const SERBIAN_C1_LESSONS_31_40 = [
         "translation": "සංඛ්‍යානමය වැදගත්කම සැමවිටම ප්‍රායෝගික වැදගත්කමක් නොවේ."
       }
     ],
-    "grammarTitle": "Граматика и стил",
+    "grammarTitle": "Gramatika i stil",
     "grammar": "විද්‍යාත්මක ලිවීමේදී උපකල්පනය, සොයාගැනීම සහ විද්‍යාත්මක එකඟතාව වෙන්කරන්න; සාක්ෂිවල සීමා සඳහන් කරන්න.",
     "examples": [
       {
@@ -599,63 +599,63 @@ export const SERBIAN_C1_LESSONS_31_40 = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Послушајте и изаберите тачно тумачење.",
+      "prompt": "Poslušajte i izaberite tačno tumačenje.",
       "audio": "Nalaz treba tumačiti prema veličini uzorka. Studija je prošla nezavisnu recenziju. Rezultati još nisu ponovljeni u drugim laboratorijama. Statistička značajnost ne znači uvek praktičnu važnost.",
       "reading": "න්අල්අස් ත්ර්එබ්අ ත්උම්අච්ඉත්ඉ ප්ර්එම්අ ව්එල්ඉච්ඉන්ඉ උස්ඔර්ක්අ. ස්ත්උද්ඉය්අ ය්එ ප්ර්ඔෂ්ල්අ න්එස්අව්ඉස්න්උ ර්එත්ස්එන්ස්ඉය්උ. ර්එස්උල්ත්අත්ඉ ය්ඔෂ් න්ඉස්උ ප්ඔන්ඔව්ල්ය්එන්ඉ උ ද්ර්උග්ඉම් ල්අබ්ඔර්අත්ඔර්ඉය්අම්අ. ස්ත්අත්ඉස්ත්ඉච්ක්අ ස්න්අච්අය්න්ඔස්ත් න්එ ස්න්අච්ඉ උව්එක් ප්ර්අක්ත්ඉච්න්උ ව්අෂ්න්ඔස්ත්.",
       "options": [
+        "Svi podaci su potpuno sigurni.",
         "නියැදි ප්‍රමාණය සලකා සොයාගැනීම අර්ථකථනය කළ යුතුය. අධ්‍යයනය ස්වාධීන සම-විශේෂඥ සමාලෝචනයකට ලක් විය.",
-        "Сви подаци су потпуно сигурни.",
-        "Ниједан одговор није тачан."
+        "Nijedan odgovor nije tačan."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
-        "prompt": "Који је кључни појам ове лекције?",
+        "prompt": "Koji je ključni pojam ove lekcije?",
         "options": [
-          "hipoteza",
           "uzorak",
+          "hipoteza",
           "ograničenje"
         ],
-        "answer": 0,
-        "explanation": "Прва реч је један од кључних појмова лекције."
+        "answer": 1,
+        "explanation": "Prva reč je jedan od ključnih pojmova lekcije."
       },
       {
-        "prompt": "Изаберите одговарајући стручни израз.",
+        "prompt": "Izaberite odgovarajući stručni izraz.",
         "options": [
           "nalaz",
-          "ponovljivost",
-          "značajnost"
+          "značajnost",
+          "ponovljivost"
+        ],
+        "answer": 2,
+        "explanation": "Proverite značenje u listi reči."
+      },
+      {
+        "prompt": "Šta najviše doprinosi pouzdanom zaključku?",
+        "options": [
+          "Jasni kriterijumi i proverljivi dokazi",
+          "Izostavljanje ograničenja",
+          "Preterano uopštavanje"
+        ],
+        "answer": 0,
+        "explanation": "Zaključak treba zasnovati na dokazima."
+      },
+      {
+        "prompt": "Kako treba predstaviti neizvesnost?",
+        "options": [
+          "Prikazati pretpostavke kao činjenice",
+          "Otvoreno navesti ograničenja",
+          "Izostaviti nepoznate podatke"
         ],
         "answer": 1,
-        "explanation": "Проверите значење у листи речи."
-      },
-      {
-        "prompt": "Шта највише доприноси поузданом закључку?",
-        "options": [
-          "Јасни критеријуми и проверљиви докази",
-          "Изостављање ограничења",
-          "Претерано уопштавање"
-        ],
-        "answer": 0,
-        "explanation": "Закључак треба засновати на доказима."
-      },
-      {
-        "prompt": "Како треба представити неизвесност?",
-        "options": [
-          "Отворено навести ограничења",
-          "Приказати претпоставке као чињенице",
-          "Изоставити непознате податке"
-        ],
-        "answer": 0,
-        "explanation": "Ограничења треба јасно навести."
+        "explanation": "Ograničenja treba jasno navesti."
       }
     ]
   },
   {
     "id": "sr-c1-l35",
-    "unit": "C1 · Лидерство и организациона култура",
-    "title": "C1 · 35 · Лидерство и организациона култура",
+    "unit": "C1 · Liderstvo i organizaciona kultura",
+    "title": "C1 · 35 · Liderstvo i organizaciona kultura",
     "objective": "නායකත්වය විස්තර කිරීමේදී බලය පමණක් නොව වගකීම, විශ්වාසය සහ ප්‍රතිචාරද සලකා බලන්න.",
     "vocabulary": [
       {
@@ -715,7 +715,7 @@ export const SERBIAN_C1_LESSONS_31_40 = [
         "translation": "ප්‍රතිචාර කණ්ඩායම් සංස්කෘතිය ශක්තිමත් කරයි."
       }
     ],
-    "grammarTitle": "Граматика и стил",
+    "grammarTitle": "Gramatika i stil",
     "grammar": "නායකත්වය විස්තර කිරීමේදී බලය පමණක් නොව වගකීම, විශ්වාසය සහ ප්‍රතිචාරද සලකා බලන්න.",
     "examples": [
       {
@@ -762,63 +762,63 @@ export const SERBIAN_C1_LESSONS_31_40 = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Послушајте и изаберите тачно тумачење.",
+      "prompt": "Poslušajte i izaberite tačno tumačenje.",
       "audio": "Dobar rukovodilac jasno raspodeljuje odgovornost. Poverenje se gradi doslednim postupcima. Zaposlenima treba omogućiti da preuzmu inicijativu. Povratna informacija jača kulturu tima.",
       "reading": "ද්ඔබ්අර් ර්උක්ඔව්ඔද්ඉල්අත්ස් ය්අස්න්ඔ ර්අස්ප්ඔද්එල්ය්උය්එ ඔද්ග්ඔව්ඔර්න්ඔස්ත්. ප්ඔව්එර්එන්ය්එ ස්එ ග්ර්අද්ඉ ද්ඔස්ල්එද්න්ඉම් ප්ඔස්ත්උප්ත්ස්ඉම්අ. ස්අප්ඔස්ල්එන්ඉම්අ ත්ර්එබ්අ ඔම්ඔග්උච්ඉත්ඉ ද්අ ප්ර්එඋස්ම්උ ඉන්ඉත්ස්ඉය්අත්ඉව්උ. ප්ඔව්ර්අත්න්අ ඉන්ෆ්ඔර්ම්අත්ස්ඉය්අ ය්අච්අ ක්උල්ත්උර්උ ත්ඉම්අ.",
       "options": [
-        "හොඳ නායකයෙක් වගකීම් පැහැදිලිව බෙදා දෙයි. අනුකූල ක්‍රියාමාර්ග මඟින් විශ්වාසය ගොඩනැගේ.",
-        "Сви подаци су потпуно сигурни.",
-        "Ниједан одговор није тачан."
+        "Svi podaci su potpuno sigurni.",
+        "Nijedan odgovor nije tačan.",
+        "හොඳ නායකයෙක් වගකීම් පැහැදිලිව බෙදා දෙයි. අනුකූල ක්‍රියාමාර්ග මඟින් විශ්වාසය ගොඩනැගේ."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
-        "prompt": "Који је кључни појам ове лекције?",
+        "prompt": "Koji je ključni pojam ove lekcije?",
         "options": [
-          "rukovođenje",
           "odgovornost",
+          "rukovođenje",
           "usklađenost"
         ],
-        "answer": 0,
-        "explanation": "Прва реч је један од кључних појмова лекције."
+        "answer": 1,
+        "explanation": "Prva reč je jedan od ključnih pojmova lekcije."
       },
       {
-        "prompt": "Изаберите одговарајући стручни израз.",
+        "prompt": "Izaberite odgovarajući stručni izraz.",
         "options": [
           "ovlašćenje",
-          "kultura",
-          "inicijativa"
+          "inicijativa",
+          "kultura"
+        ],
+        "answer": 2,
+        "explanation": "Proverite značenje u listi reči."
+      },
+      {
+        "prompt": "Šta najviše doprinosi pouzdanom zaključku?",
+        "options": [
+          "Jasni kriterijumi i proverljivi dokazi",
+          "Izostavljanje ograničenja",
+          "Preterano uopštavanje"
+        ],
+        "answer": 0,
+        "explanation": "Zaključak treba zasnovati na dokazima."
+      },
+      {
+        "prompt": "Kako treba predstaviti neizvesnost?",
+        "options": [
+          "Prikazati pretpostavke kao činjenice",
+          "Otvoreno navesti ograničenja",
+          "Izostaviti nepoznate podatke"
         ],
         "answer": 1,
-        "explanation": "Проверите значење у листи речи."
-      },
-      {
-        "prompt": "Шта највише доприноси поузданом закључку?",
-        "options": [
-          "Јасни критеријуми и проверљиви докази",
-          "Изостављање ограничења",
-          "Претерано уопштавање"
-        ],
-        "answer": 0,
-        "explanation": "Закључак треба засновати на доказима."
-      },
-      {
-        "prompt": "Како треба представити неизвесност?",
-        "options": [
-          "Отворено навести ограничења",
-          "Приказати претпоставке као чињенице",
-          "Изоставити непознате податке"
-        ],
-        "answer": 0,
-        "explanation": "Ограничења треба јасно навести."
+        "explanation": "Ograničenja treba jasno navesti."
       }
     ]
   },
   {
     "id": "sr-c1-l36",
-    "unit": "C1 · Приватност података и управљање информацијама",
-    "title": "C1 · 36 · Приватност података и управљање информацијама",
+    "unit": "C1 · Privatnost podataka i upravljanje informacijama",
+    "title": "C1 · 36 · Privatnost podataka i upravljanje informacijama",
     "objective": "අරමුණට අවශ්‍ය දත්ත පමණක් රැස් කිරීම, ප්‍රවේශය සීමා කිරීම සහ ගබඩා කාලය නියම කිරීම වැදගත්ය.",
     "vocabulary": [
       {
@@ -878,7 +878,7 @@ export const SERBIAN_C1_LESSONS_31_40 = [
         "translation": "දත්ත අවම කිරීම අනවශ්‍ය තොරතුරු රැස් කිරීම අඩු කරයි."
       }
     ],
-    "grammarTitle": "Граматика и стил",
+    "grammarTitle": "Gramatika i stil",
     "grammar": "අරමුණට අවශ්‍ය දත්ත පමණක් රැස් කිරීම, ප්‍රවේශය සීමා කිරීම සහ ගබඩා කාලය නියම කිරීම වැදගත්ය.",
     "examples": [
       {
@@ -925,63 +925,63 @@ export const SERBIAN_C1_LESSONS_31_40 = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Послушајте и изаберите тачно тумачење.",
+      "prompt": "Poslušajte i izaberite tačno tumačenje.",
       "audio": "Pristup podacima treba ograničiti prema ulozi. Saglasnost mora biti informisana i dobrovoljna. Politika definiše koliko dugo se podaci čuvaju. Minimizacija smanjuje nepotrebno prikupljanje informacija.",
       "reading": "ප්ර්ඉස්ත්උප් ප්ඔද්අත්ස්ඉම්අ ත්ර්එබ්අ ඔග්ර්අන්ඉච්ඉත්ඉ ප්ර්එම්අ උල්ඔස්ඉ. ස්අග්ල්අස්න්ඔස්ත් ම්ඔර්අ බ්ඉත්ඉ ඉන්ෆ්ඔර්ම්ඉස්අන්අ ඉ ද්ඔබ්ර්ඔව්ඔල්ය්න්අ. ප්ඔල්ඉත්ඉක්අ ද්එෆ්ඉන්ඉෂ්එ ක්ඔල්ඉක්ඔ ද්උග්ඔ ස්එ ප්ඔද්අත්ස්ඉ ච්උව්අය්උ. ම්ඉන්ඉම්ඉස්අත්ස්ඉය්අ ස්ම්අන්ය්උය්එ න්එප්ඔත්ර්එබ්න්ඔ ප්ර්ඉක්උප්ල්ය්අන්ය්එ ඉන්ෆ්ඔර්ම්අත්ස්ඉය්අ.",
       "options": [
         "භූමිකාව අනුව දත්ත ප්‍රවේශය සීමා කළ යුතුය. එකඟතාව දැනුවත්ව සහ ස්වේච්ඡාවෙන් ලබා දිය යුතුය.",
-        "Сви подаци су потпуно сигурни.",
-        "Ниједан одговор није тачан."
+        "Svi podaci su potpuno sigurni.",
+        "Nijedan odgovor nije tačan."
       ],
       "answer": 0
     },
     "practice": [
       {
-        "prompt": "Који је кључни појам ове лекције?",
+        "prompt": "Koji je ključni pojam ove lekcije?",
         "options": [
-          "privatnost",
           "čuvanje podataka",
+          "privatnost",
           "povreda"
         ],
-        "answer": 0,
-        "explanation": "Прва реч је један од кључних појмова лекције."
+        "answer": 1,
+        "explanation": "Prva reč je jedan od ključnih pojmova lekcije."
       },
       {
-        "prompt": "Изаберите одговарајући стручни израз.",
+        "prompt": "Izaberite odgovarajući stručni izraz.",
         "options": [
           "saglasnost",
-          "minimizacija",
-          "usklađenost"
+          "usklađenost",
+          "minimizacija"
+        ],
+        "answer": 2,
+        "explanation": "Proverite značenje u listi reči."
+      },
+      {
+        "prompt": "Šta najviše doprinosi pouzdanom zaključku?",
+        "options": [
+          "Jasni kriterijumi i proverljivi dokazi",
+          "Izostavljanje ograničenja",
+          "Preterano uopštavanje"
+        ],
+        "answer": 0,
+        "explanation": "Zaključak treba zasnovati na dokazima."
+      },
+      {
+        "prompt": "Kako treba predstaviti neizvesnost?",
+        "options": [
+          "Prikazati pretpostavke kao činjenice",
+          "Otvoreno navesti ograničenja",
+          "Izostaviti nepoznate podatke"
         ],
         "answer": 1,
-        "explanation": "Проверите значење у листи речи."
-      },
-      {
-        "prompt": "Шта највише доприноси поузданом закључку?",
-        "options": [
-          "Јасни критеријуми и проверљиви докази",
-          "Изостављање ограничења",
-          "Претерано уопштавање"
-        ],
-        "answer": 0,
-        "explanation": "Закључак треба засновати на доказима."
-      },
-      {
-        "prompt": "Како треба представити неизвесност?",
-        "options": [
-          "Отворено навести ограничења",
-          "Приказати претпоставке као чињенице",
-          "Изоставити непознате податке"
-        ],
-        "answer": 0,
-        "explanation": "Ограничења треба јасно навести."
+        "explanation": "Ograničenja treba jasno navesti."
       }
     ]
   },
   {
     "id": "sr-c1-l37",
-    "unit": "C1 · Академско писање и навођење извора",
-    "title": "C1 · 37 · Академско писање и навођење извора",
+    "unit": "C1 · Akademsko pisanje i navođenje izvora",
+    "title": "C1 · 37 · Akademsko pisanje i navođenje izvora",
     "objective": "අන් අයගේ අදහස් පරාෆ්‍රේස් කළත් මූලාශ්‍රය සඳහන් කරන්න; සාරාංශය මුල් අදහස විකෘති නොකළ යුතුය.",
     "vocabulary": [
       {
@@ -1041,7 +1041,7 @@ export const SERBIAN_C1_LESSONS_31_40 = [
         "translation": "සාරාංශය අරමුණ, ක්‍රමය සහ ප්‍රධාන සොයාගැනීම දක්වයි."
       }
     ],
-    "grammarTitle": "Граматика и стил",
+    "grammarTitle": "Gramatika i stil",
     "grammar": "අන් අයගේ අදහස් පරාෆ්‍රේස් කළත් මූලාශ්‍රය සඳහන් කරන්න; සාරාංශය මුල් අදහස විකෘති නොකළ යුතුය.",
     "examples": [
       {
@@ -1088,63 +1088,63 @@ export const SERBIAN_C1_LESSONS_31_40 = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Послушајте и изаберите тачно тумачење.",
+      "prompt": "Poslušajte i izaberite tačno tumačenje.",
       "audio": "Parafraza mora sačuvati smisao izvornog teksta. Svaku preuzetu ideju treba pripisati izvoru. Bibliografija omogućava proveru izvora. Sažetak izdvaja cilj, metod i glavni nalaz.",
       "reading": "ප්අර්අෆ්ර්අස්අ ම්ඔර්අ ස්අච්උව්අත්ඉ ස්ම්ඉස්අඔ ඉස්ව්ඔර්න්ඔග් ත්එක්ස්ත්අ. ස්ව්අක්උ ප්ර්එඋස්එත්උ ඉද්එය්උ ත්ර්එබ්අ ප්ර්ඉප්ඉස්අත්ඉ ඉස්ව්ඔර්උ. බ්ඉබ්ල්ඉඔග්ර්අෆ්ඉය්අ ඔම්ඔග්උච්අව්අ ප්ර්ඔව්එර්උ ඉස්ව්ඔර්අ. ස්අෂ්එත්අක් ඉස්ද්ව්අය්අ ත්ස්ඉල්ය්, ම්එත්ඔද් ඉ ග්ල්අව්න්ඉ න්අල්අස්.",
       "options": [
+        "Svi podaci su potpuno sigurni.",
         "පරාෆ්‍රේස් කිරීමේදී මුල් පාඨයේ අර්ථය රැකිය යුතුය. ගත් සෑම අදහසක්ම එහි මූලාශ්‍රයට බැර කළ යුතුය.",
-        "Сви подаци су потпуно сигурни.",
-        "Ниједан одговор није тачан."
+        "Nijedan odgovor nije tačan."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
-        "prompt": "Који је кључни појам ове лекције?",
+        "prompt": "Koji je ključni pojam ove lekcije?",
         "options": [
-          "parafrazirati",
           "izvor",
+          "parafrazirati",
           "plagijat"
         ],
-        "answer": 0,
-        "explanation": "Прва реч је један од кључних појмова лекције."
+        "answer": 1,
+        "explanation": "Prva reč je jedan od ključnih pojmova lekcije."
       },
       {
-        "prompt": "Изаберите одговарајући стручни израз.",
+        "prompt": "Izaberite odgovarajući stručni izraz.",
         "options": [
           "citirati",
-          "atribucija",
-          "sažetak"
+          "sažetak",
+          "atribucija"
+        ],
+        "answer": 2,
+        "explanation": "Proverite značenje u listi reči."
+      },
+      {
+        "prompt": "Šta najviše doprinosi pouzdanom zaključku?",
+        "options": [
+          "Jasni kriterijumi i proverljivi dokazi",
+          "Izostavljanje ograničenja",
+          "Preterano uopštavanje"
+        ],
+        "answer": 0,
+        "explanation": "Zaključak treba zasnovati na dokazima."
+      },
+      {
+        "prompt": "Kako treba predstaviti neizvesnost?",
+        "options": [
+          "Prikazati pretpostavke kao činjenice",
+          "Otvoreno navesti ograničenja",
+          "Izostaviti nepoznate podatke"
         ],
         "answer": 1,
-        "explanation": "Проверите значење у листи речи."
-      },
-      {
-        "prompt": "Шта највише доприноси поузданом закључку?",
-        "options": [
-          "Јасни критеријуми и проверљиви докази",
-          "Изостављање ограничења",
-          "Претерано уопштавање"
-        ],
-        "answer": 0,
-        "explanation": "Закључак треба засновати на доказима."
-      },
-      {
-        "prompt": "Како треба представити неизвесност?",
-        "options": [
-          "Отворено навести ограничења",
-          "Приказати претпоставке као чињенице",
-          "Изоставити непознате податке"
-        ],
-        "answer": 0,
-        "explanation": "Ограничења треба јасно навести."
+        "explanation": "Ograničenja treba jasno navesti."
       }
     ]
   },
   {
     "id": "sr-c1-l38",
-    "unit": "C1 · Идиоми, метафоре и стилски регистар",
-    "title": "C1 · 38 · Идиоми, метафоре и стилски регистар",
+    "unit": "C1 · Idiomi, metafore i stilski registar",
+    "title": "C1 · 38 · Idiomi, metafore i stilski registar",
     "objective": "ව්‍යවහාරික ප්‍රකාශ වචනාර්ථයෙන් පරිවර්තනය නොකර සන්දර්භය අනුව අර්ථය හඳුනාගන්න.",
     "vocabulary": [
       {
@@ -1204,7 +1204,7 @@ export const SERBIAN_C1_LESSONS_31_40 = [
         "translation": "උපහාසය සන්දර්භය සහ ස්වරය මත රඳා පවතී."
       }
     ],
-    "grammarTitle": "Граматика и стил",
+    "grammarTitle": "Gramatika i stil",
     "grammar": "ව්‍යවහාරික ප්‍රකාශ වචනාර්ථයෙන් පරිවර්තනය නොකර සන්දර්භය අනුව අර්ථය හඳුනාගන්න.",
     "examples": [
       {
@@ -1251,63 +1251,63 @@ export const SERBIAN_C1_LESSONS_31_40 = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Послушајте и изаберите тачно тумачење.",
+      "prompt": "Poslušajte i izaberite tačno tumačenje.",
       "audio": "Izraz ne treba tumačiti doslovno. Metafora daje tekstu dodatni sloj značenja. Kolokvijalan izraz nije uvek prikladan u izveštaju. Ironija zavisi od konteksta i tona.",
       "reading": "ඉස්ර්අස් න්එ ත්ර්එබ්අ ත්උම්අච්ඉත්ඉ ද්ඔස්ල්ඔව්න්ඔ. ම්එත්අෆ්ඔර්අ ද්අය්එ ත්එක්ස්ත්උ ද්ඔද්අත්න්ඉ ස්ල්ඔය් ස්න්අච්එන්ය්අ. ක්ඔල්ඔක්ව්ඉය්අල්අන් ඉස්ර්අස් න්ඉය්එ උව්එක් ප්ර්ඉක්ල්අද්අන් උ ඉස්ව්එෂ්ත්අය්උ. ඉර්ඔන්ඉය්අ ස්අව්ඉස්ඉ ඔද් ක්ඔන්ත්එක්ස්ත්අ ඉ ත්ඔන්අ.",
       "options": [
-        "මෙම ප්‍රකාශය වචනාර්ථයෙන් අර්ථකථනය නොකළ යුතුය. උපමාව පාඨයට අමතර අර්ථ ස්තරයක් එක් කරයි.",
-        "Сви подаци су потпуно сигурни.",
-        "Ниједан одговор није тачан."
+        "Svi podaci su potpuno sigurni.",
+        "Nijedan odgovor nije tačan.",
+        "මෙම ප්‍රකාශය වචනාර්ථයෙන් අර්ථකථනය නොකළ යුතුය. උපමාව පාඨයට අමතර අර්ථ ස්තරයක් එක් කරයි."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
-        "prompt": "Који је кључни појам ове лекције?",
+        "prompt": "Koji je ključni pojam ove lekcije?",
         "options": [
-          "idiom",
           "doslovan",
+          "idiom",
           "ironija"
         ],
-        "answer": 0,
-        "explanation": "Прва реч је један од кључних појмова лекције."
+        "answer": 1,
+        "explanation": "Prva reč je jedan od ključnih pojmova lekcije."
       },
       {
-        "prompt": "Изаберите одговарајући стручни израз.",
+        "prompt": "Izaberite odgovarajući stručni izraz.",
         "options": [
           "metafora",
-          "registar",
-          "kolokvijalan"
+          "kolokvijalan",
+          "registar"
+        ],
+        "answer": 2,
+        "explanation": "Proverite značenje u listi reči."
+      },
+      {
+        "prompt": "Šta najviše doprinosi pouzdanom zaključku?",
+        "options": [
+          "Jasni kriterijumi i proverljivi dokazi",
+          "Izostavljanje ograničenja",
+          "Preterano uopštavanje"
+        ],
+        "answer": 0,
+        "explanation": "Zaključak treba zasnovati na dokazima."
+      },
+      {
+        "prompt": "Kako treba predstaviti neizvesnost?",
+        "options": [
+          "Prikazati pretpostavke kao činjenice",
+          "Otvoreno navesti ograničenja",
+          "Izostaviti nepoznate podatke"
         ],
         "answer": 1,
-        "explanation": "Проверите значење у листи речи."
-      },
-      {
-        "prompt": "Шта највише доприноси поузданом закључку?",
-        "options": [
-          "Јасни критеријуми и проверљиви докази",
-          "Изостављање ограничења",
-          "Претерано уопштавање"
-        ],
-        "answer": 0,
-        "explanation": "Закључак треба засновати на доказима."
-      },
-      {
-        "prompt": "Како треба представити неизвесност?",
-        "options": [
-          "Отворено навести ограничења",
-          "Приказати претпоставке као чињенице",
-          "Изоставити непознате податке"
-        ],
-        "answer": 0,
-        "explanation": "Ограничења треба јасно навести."
+        "explanation": "Ograničenja treba jasno navesti."
       }
     ]
   },
   {
     "id": "sr-c1-l39",
-    "unit": "C1 · Дебата, побијање и аргументативна равнотежа",
-    "title": "C1 · 39 · Дебата, побијање и аргументативна равнотежа",
+    "unit": "C1 · Debata, pobijanje i argumentativna ravnoteža",
+    "title": "C1 · 39 · Debata, pobijanje i argumentativna ravnoteža",
     "objective": "ප්‍රතිතර්කයක් ඉදිරිපත් කිරීමට පෙර විරුද්ධ මතය සාධාරණව සාරාංශ කර එහි සාක්ෂි සහ සීමා පරීක්ෂා කරන්න.",
     "vocabulary": [
       {
@@ -1367,7 +1367,7 @@ export const SERBIAN_C1_LESSONS_31_40 = [
         "translation": "සූක්ෂ්ම පිළිතුරක් විරුද්ධ මතයේ ශක්තිමත් පැතිද පිළිගනී."
       }
     ],
-    "grammarTitle": "Граматика и стил",
+    "grammarTitle": "Gramatika i stil",
     "grammar": "ප්‍රතිතර්කයක් ඉදිරිපත් කිරීමට පෙර විරුද්ධ මතය සාධාරණව සාරාංශ කර එහි සාක්ෂි සහ සීමා පරීක්ෂා කරන්න.",
     "examples": [
       {
@@ -1414,63 +1414,63 @@ export const SERBIAN_C1_LESSONS_31_40 = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Послушајте и изаберите тачно тумачење.",
+      "prompt": "Poslušajte i izaberite tačno tumačenje.",
       "audio": "Pre pobijanja treba tačno predstaviti protivargument. Ovaj dokaz ne opovrgava osnovnu pretpostavku. Argument je ubedljiv, ali zanemaruje važan izuzetak. Nijansiran odgovor priznaje snagu suprotnog stava.",
       "reading": "ප්ර්එ ප්ඔබ්ඉය්අන්ය්අ ත්ර්එබ්අ ත්අච්න්ඔ ප්ර්එද්ස්ත්අව්ඉත්ඉ ප්ර්ඔත්ඉව්අර්ග්උම්එන්ත්. ඔව්අය් ද්ඔක්අස් න්එ ඔප්ඔව්ර්ග්අව්අ ඔස්න්ඔව්න්උ ප්ර්එත්ප්ඔස්ත්අව්ක්උ. අර්ග්උම්එන්ත් ය්එ උබ්එද්ල්ය්ඉව්, අල්ඉ ස්අන්එම්අර්උය්එ ව්අෂ්අන් ඉස්උස්එත්අක්. න්ඉය්අන්ස්ඉර්අන් ඔද්ග්ඔව්ඔර් ප්ර්ඉස්න්අය්එ ස්න්අග්උ ස්උප්ර්ඔත්න්ඔග් ස්ත්අව්අ.",
       "options": [
         "ප්‍රතිතර්කයට පිළිතුරු දීමට පෙර එය නිවැරදිව ඉදිරිපත් කළ යුතුය. මෙම සාක්ෂිය මූලික උපකල්පනය නිෂ්ප්‍රභ නොකරයි.",
-        "Сви подаци су потпуно сигурни.",
-        "Ниједан одговор није тачан."
+        "Svi podaci su potpuno sigurni.",
+        "Nijedan odgovor nije tačan."
       ],
       "answer": 0
     },
     "practice": [
       {
-        "prompt": "Који је кључни појам ове лекције?",
+        "prompt": "Koji je ključni pojam ove lekcije?",
         "options": [
-          "protivargument",
           "opovrgnuti",
+          "protivargument",
           "dosledan"
         ],
-        "answer": 0,
-        "explanation": "Прва реч је један од кључних појмова лекције."
+        "answer": 1,
+        "explanation": "Prva reč je jedan od ključnih pojmova lekcije."
       },
       {
-        "prompt": "Изаберите одговарајући стручни израз.",
+        "prompt": "Izaberite odgovarajući stručni izraz.",
         "options": [
           "pobijanje",
-          "pristrasnost",
-          "nijansiran"
+          "nijansiran",
+          "pristrasnost"
+        ],
+        "answer": 2,
+        "explanation": "Proverite značenje u listi reči."
+      },
+      {
+        "prompt": "Šta najviše doprinosi pouzdanom zaključku?",
+        "options": [
+          "Jasni kriterijumi i proverljivi dokazi",
+          "Izostavljanje ograničenja",
+          "Preterano uopštavanje"
+        ],
+        "answer": 0,
+        "explanation": "Zaključak treba zasnovati na dokazima."
+      },
+      {
+        "prompt": "Kako treba predstaviti neizvesnost?",
+        "options": [
+          "Prikazati pretpostavke kao činjenice",
+          "Otvoreno navesti ograničenja",
+          "Izostaviti nepoznate podatke"
         ],
         "answer": 1,
-        "explanation": "Проверите значење у листи речи."
-      },
-      {
-        "prompt": "Шта највише доприноси поузданом закључку?",
-        "options": [
-          "Јасни критеријуми и проверљиви докази",
-          "Изостављање ограничења",
-          "Претерано уопштавање"
-        ],
-        "answer": 0,
-        "explanation": "Закључак треба засновати на доказима."
-      },
-      {
-        "prompt": "Како треба представити неизвесност?",
-        "options": [
-          "Отворено навести ограничења",
-          "Приказати претпоставке као чињенице",
-          "Изоставити непознате податке"
-        ],
-        "answer": 0,
-        "explanation": "Ограничења треба јасно навести."
+        "explanation": "Ograničenja treba jasno navesti."
       }
     ]
   },
   {
     "id": "sr-c1-l40",
-    "unit": "C1 · Интегрисани професионални пројекат",
-    "title": "C1 · 40 · Интегрисани професионални пројекат",
+    "unit": "C1 · Integrisani profesionalni projekat",
+    "title": "C1 · 40 · Integrisani profesionalni projekat",
     "objective": "සංකීර්ණ කාර්යයකදී ගැටලුව නිර්වචනය කර සාක්ෂි, විකල්ප, තීරණ, අවදානම් සහ ක්‍රියාමාර්ග එකට ඉදිරිපත් කරන්න.",
     "vocabulary": [
       {
@@ -1530,7 +1530,7 @@ export const SERBIAN_C1_LESSONS_31_40 = [
         "translation": "අවසන් සමාලෝචනය ප්‍රතිඵල සහ ඉතිරි ප්‍රශ්න පරීක්ෂා කරයි."
       }
     ],
-    "grammarTitle": "Граматика и стил",
+    "grammarTitle": "Gramatika i stil",
     "grammar": "සංකීර්ණ කාර්යයකදී ගැටලුව නිර්වචනය කර සාක්ෂි, විකල්ප, තීරණ, අවදානම් සහ ක්‍රියාමාර්ග එකට ඉදිරිපත් කරන්න.",
     "examples": [
       {
@@ -1577,56 +1577,56 @@ export const SERBIAN_C1_LESSONS_31_40 = [
       }
     ],
     "listeningPractice": {
-      "prompt": "Послушајте и изаберите тачно тумачење.",
+      "prompt": "Poslušajte i izaberite tačno tumačenje.",
       "audio": "Zadatak zahteva analizu troškova i koristi. Svaka zainteresovana strana treba da razume svoju ulogu. Preporuka mora biti povezana sa merljivim ciljevima. Završni pregled proverava rezultate i otvorena pitanja.",
       "reading": "ස්අද්අත්අක් ස්අහ්ත්එව්අ අන්අල්ඉස්උ ත්ර්ඔෂ්ක්ඔව්අ ඉ ක්ඔර්ඉස්ත්ඉ. ස්ව්අක්අ ස්අඉන්ත්එර්එස්ඔව්අන්අ ස්ත්ර්අන්අ ත්ර්එබ්අ ද්අ ර්අස්උම්එ ස්ව්ඔය්උ උල්ඔග්උ. ප්ර්එප්ඔර්උක්අ ම්ඔර්අ බ්ඉත්ඉ ප්ඔව්එස්අන්අ ස්අ ම්එර්ල්ය්ඉව්ඉම් ත්ස්ඉල්ය්එව්ඉම්අ. ස්අව්ර්ෂ්න්ඉ ප්ර්එග්ල්එද් ප්ර්ඔව්එර්අව්අ ර්එස්උල්ත්අත්එ ඉ ඔත්ව්ඔර්එන්අ ප්ඉත්අන්ය්අ.",
       "options": [
+        "Svi podaci su potpuno sigurni.",
         "කාර්ය සාරාංශය පිරිවැය සහ ප්‍රතිලාභ විශ්ලේෂණයක් ඉල්ලා සිටී. සෑම අදාළ පාර්ශ්වයක්ම තම භූමිකාව තේරුම් ගත යුතුය.",
-        "Сви подаци су потпуно сигурни.",
-        "Ниједан одговор није тачан."
+        "Nijedan odgovor nije tačan."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
-        "prompt": "Који је кључни појам ове лекције?",
+        "prompt": "Koji je ključni pojam ove lekcije?",
         "options": [
-          "zadatak",
           "zainteresovana strana",
+          "zadatak",
           "pregled"
         ],
-        "answer": 0,
-        "explanation": "Прва реч је један од кључних појмова лекције."
+        "answer": 1,
+        "explanation": "Prva reč je jedan od ključnih pojmova lekcije."
       },
       {
-        "prompt": "Изаберите одговарајући стручни израз.",
+        "prompt": "Izaberite odgovarajući stručni izraz.",
         "options": [
           "isporuka",
-          "raspodela",
-          "preporuka"
+          "preporuka",
+          "raspodela"
+        ],
+        "answer": 2,
+        "explanation": "Proverite značenje u listi reči."
+      },
+      {
+        "prompt": "Šta najviše doprinosi pouzdanom zaključku?",
+        "options": [
+          "Jasni kriterijumi i proverljivi dokazi",
+          "Izostavljanje ograničenja",
+          "Preterano uopštavanje"
+        ],
+        "answer": 0,
+        "explanation": "Zaključak treba zasnovati na dokazima."
+      },
+      {
+        "prompt": "Kako treba predstaviti neizvesnost?",
+        "options": [
+          "Prikazati pretpostavke kao činjenice",
+          "Otvoreno navesti ograničenja",
+          "Izostaviti nepoznate podatke"
         ],
         "answer": 1,
-        "explanation": "Проверите значење у листи речи."
-      },
-      {
-        "prompt": "Шта највише доприноси поузданом закључку?",
-        "options": [
-          "Јасни критеријуми и проверљиви докази",
-          "Изостављање ограничења",
-          "Претерано уопштавање"
-        ],
-        "answer": 0,
-        "explanation": "Закључак треба засновати на доказима."
-      },
-      {
-        "prompt": "Како треба представити неизвесност?",
-        "options": [
-          "Отворено навести ограничења",
-          "Приказати претпоставке као чињенице",
-          "Изоставити непознате податке"
-        ],
-        "answer": 0,
-        "explanation": "Ограничења треба јасно навести."
+        "explanation": "Ograničenja treba jasno navesti."
       }
     ]
   }
