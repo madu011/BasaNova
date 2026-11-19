@@ -993,3 +993,18 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 1. Repair paired B1 lesson 12 vocabulary-card examples and pronunciation/meaning fields, checking that each example actually demonstrates its target word.
 2. Continue paired semantic QA through lessons 13–20, especially repeated generic examples, mismatched Sinhala translations, and copied/non-phonetic reading fields.
 3. Investigate why GitHub Actions jobs fail before logs are available; do not claim CI or APK success until a run and artifact are verified.
+
+
+## 2026-11-19 — Paired B1 lesson 12 vocabulary repair
+- Rewrote all eight vocabulary-card examples for the paired B1 lesson 12 (Education and learning strategies) in Serbian and English.
+- Each target headword now has a distinct sentence that demonstrates its meaning: strategy, revision, skill, course, goal, progress, note and method.
+- Added corresponding Sinhala meanings and approximate Sinhala-script pronunciations for every example.
+- Serbian lesson file commit: `70e5607b5c9f27238efb81bb0f1e6b7fc039f40d`.
+- English lesson file commit: `3477cc96bbaf91e7c51bf5f057deeb50665ada67`.
+- Latest workflow runs on English commit `3477cc9`: Expo validation `44573036287` and Android APK build `44573036221` were queued at last inspection. Earlier workflow runs on Serbian commit `70e5607` failed immediately; no job logs or successful artifact are available. Source changes were not locally built or device-tested.
+
+### Next exact task
+1. Check the queued Expo and APK runs on commit `3477cc96bbaf91e7c51bf5f057deeb50665ada67` and inspect their steps/logs if they start.
+2. Repair paired B1 lesson 13 vocabulary examples and their Sinhala meanings/pronunciation aids, then continue through lessons 14–20.
+3. Continue checking that examples truly demonstrate their vocabulary headwords; keep Serbian pronunciation guides labelled approximate until native-speaker review.
+4. Do not claim build success or share a fresh APK unless a successful workflow artifact is verified.
