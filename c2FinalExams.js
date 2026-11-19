@@ -11,21 +11,27 @@ function makeRevision(lang, rows) {
   const options=i%3===0?[row[2],...wrong]:i%3===1?[wrong[0],row[2],wrong[1]]:[...wrong,row[2]];
   return {id:`c2-${lang}-revision-${i+1}`,type:"vocabulary",topic:`C2 · ${row[3]}`,prompt:lang==="sr"?`„${row[0]}“ යන වචනයේ නිවැරදි සිංහල අර්ථය තෝරන්න.`:`Choose the correct Sinhala meaning of “${row[0]}”.`,options,answer:options.indexOf(row[2]),explanation:`${row[0]} = ${row[2]}`,word:row[0],wordReading:row[1]};
  });
- const sr=[
-  ["ව්‍යංගාර්ථය සහ සෘජු අර්ථය අතර වෙනස කුමක්ද?",["සෘජු අර්ථය වචනවල ප්‍රකාශිත අර්ථයයි; ව්‍යංගාර්ථය සන්දර්භයෙන් අනුමාන කරයි.","දෙකම සැමවිටම එකම අර්ථයයි.","ව්‍යංගාර්ථය ව්‍යාකරණ නීතියක් පමණි."],0,"ව්‍යංගාර්ථය සන්දර්භය හා කථකයාගේ අරමුණ මත අනුමාන කරයි."],
-  ["නිෂේධනයේ අර්ථමය පරාසය වැදගත් වන්නේ ඇයි?",["එය වාක්‍යයේ කුමන කොටස ප්‍රතික්ෂේප කරනවාද යන්න තීරණය කරයි.","එය වචනවල අකුරු ගණන පමණක් වෙනස් කරයි.","එය කථන ස්වරයට කිසිදු බලපෑමක් නැත."],0,"නිෂේධනයේ පරාසය වෙනස් වීමෙන් ප්‍රකාශයේ අර්ථය වෙනස් විය හැකිය."],
-  ["විද්‍යාත්මක ප්‍රකාශයක සාක්ෂි මට්ටම දැක්වීමට හොඳම ක්‍රමය කුමක්ද?",["නිශ්චිත සාක්ෂි සහ අවිනිශ්චිතතාව පැහැදිලිව සලකුණු කිරීම.","සෑම නිගමනයක්ම නිරපේක්ෂ සත්‍යයක් ලෙස දැක්වීම.","විකල්ප පැහැදිලි කිරීම් නොසලකා හැරීම."],0,"සාක්ෂිවල ශක්තියට ගැළපෙන ලෙස නිශ්චිතභාවය දක්වන්න."],
-  ["වාදයක ප්‍රතිතර්කයකට හොඳ ප්‍රතිචාරය කුමක්ද?",["එහි ශක්තිමත්ම කරුණ සාධාරණව සාරාංශ කර සාක්ෂි සමඟ පිළිතුරු දීම.","ප්‍රතිවාදියාගේ අදහස විකෘති කිරීම.","පුද්ගලික විවේචනයකට මාරු වීම."],0,"ශක්තිමත් ප්‍රතිතර්කය නිවැරදිව හඳුනාගෙන සාක්ෂි මත පිළිතුරු දෙන්න."],
-  ["අන්තර්සංස්කෘතික හාස්‍යය පරිවර්තනයේදී සැලකිලිමත් විය යුත්තේ කුමකටද?",["සංස්කෘතික ඉඟි, ප්‍රේක්ෂකයා සහ අරමුණට ගැළපෙන බලපෑමට.","වචන පමණක් වචනයෙන් වචනයට මාරු කිරීමට.","මුල් සන්දර්භය ඉවත් කිරීමට."],0,"හාස්‍යයේ අර්ථය සංස්කෘතික දැනුම සහ සන්දර්භය මත රඳා පවතී."]
+ const prompts=lang==="sr"?[
+  "Koja je razlika između doslovnog značenja i implikature?",
+  "Zašto je važan semantički opseg negacije?",
+  "Kako najbolje označiti stepen sigurnosti u naučnoj tvrdnji?",
+  "Kako treba odgovoriti na protivargument u debati?",
+  "Šta je važno pri prevođenju humora između kultura?"
+ ]:[
+  "What is the difference between literal meaning and implicature?",
+  "Why does the semantic scope of negation matter?",
+  "How should certainty in an academic claim be marked?",
+  "What is the strongest way to respond to a counterargument?",
+  "What matters when translating humour across cultures?"
  ];
- const en=[
-  ["Koja je razlika između doslovnog značenja i implikature?",["Doslovno značenje je izrečeno; implikatura se zaključuje iz konteksta.","Oba pojma uvek znače isto.","Implikatura je samo gramatičko pravilo."],0,"Implikatura se zaključuje iz konteksta i namere govornika."],
-  ["Zašto je važan semantički opseg negacije?",["Određuje koji deo iskaza se poriče.","Menja samo broj slova u rečenici.","Nema uticaja na značenje."],0,"Promena opsega negacije može promeniti značenje iskaza."],
-  ["Kako najbolje označiti stepen sigurnosti u naučnoj tvrdnji?",["Jasno navesti dokaze i preostalu neizvesnost.","Svaki zaključak predstaviti kao apsolutnu činjenicu.","Zanemariti alternativna objašnjenja."],0,"Stepen sigurnosti treba da odgovara snazi dokaza."],
-  ["Kako treba odgovoriti na protivargument u debati?",["Pošteno sažeti njegovu najjaču verziju i odgovoriti dokazima.","Iskriviti stav sagovornika.","Preći na ličnu kritiku."],0,"Najpre precizno predstavite protivargument, zatim odgovorite dokazima."],
-  ["Šta je važno pri prevođenju humora između kultura?",["Kulturne aluzije, publika i željeni komunikativni efekat.","Samo doslovna zamena svake reči.","Uklanjanje izvornog konteksta."],0,"Humor zavisi od kulturnog znanja i konteksta."]
+ const choices=[
+  [["සෘජු අර්ථය වචනවල ප්‍රකාශිත අර්ථයයි; ව්‍යංගාර්ථය සන්දර්භයෙන් අනුමාන කරයි.","දෙකම සැමවිටම එකම අර්ථයයි.","ව්‍යංගාර්ථය ව්‍යාකරණ නීතියක් පමණි."],0,"ව්‍යංගාර්ථය සන්දර්භය හා කථකයාගේ අරමුණ මත අනුමාන කරයි."],
+  [["එය වාක්‍යයේ කුමන කොටස ප්‍රතික්ෂේප කරනවාද යන්න තීරණය කරයි.","එය වචනවල අකුරු ගණන පමණක් වෙනස් කරයි.","එය කථන ස්වරයට කිසිදු බලපෑමක් නැත."],0,"නිෂේධනයේ පරාසය වෙනස් වීමෙන් ප්‍රකාශයේ අර්ථය වෙනස් විය හැකිය."],
+  [["නිශ්චිත සාක්ෂි සහ අවිනිශ්චිතතාව පැහැදිලිව සලකුණු කිරීම.","සෑම නිගමනයක්ම නිරපේක්ෂ සත්‍යයක් ලෙස දැක්වීම.","විකල්ප පැහැදිලි කිරීම් නොසලකා හැරීම."],0,"සාක්ෂිවල ශක්තියට ගැළපෙන ලෙස නිශ්චිතභාවය දක්වන්න."],
+  [["එහි ශක්තිමත්ම කරුණ සාධාරණව සාරාංශ කර සාක්ෂි සමඟ පිළිතුරු දීම.","ප්‍රතිවාදියාගේ අදහස විකෘති කිරීම.","පුද්ගලික විවේචනයකට මාරු වීම."],0,"ශක්තිමත් ප්‍රතිතර්කය නිවැරදිව හඳුනාගෙන සාක්ෂි මත පිළිතුරු දෙන්න."],
+  [["සංස්කෘතික ඉඟි, ප්‍රේක්ෂකයා සහ අරමුණට ගැළපෙන බලපෑමට.","වචන පමණක් වචනයෙන් වචනයට මාරු කිරීමට.","මුල් සන්දර්භය ඉවත් කිරීමට."],0,"හාස්‍යයේ අර්ථය සංස්කෘතික දැනුම සහ සන්දර්භය මත රඳා පවතී."]
  ];
- const concepts=(lang==="sr"?sr:en).map((item,i)=>({id:`c2-${lang}-revision-${i+6}`,type:"discourse",topic:"C2 · උසස් අර්ථකථනය සහ තර්කය",prompt:item[0],options:item[1],answer:item[2],explanation:item[3],word:null,wordReading:null}));
+ const concepts=prompts.map((prompt,i)=>({id:`c2-${lang}-revision-${i+6}`,type:"discourse",topic:"C2 · උසස් අර්ථකථනය සහ තර්කය",prompt,options:choices[i][0],answer:choices[i][1],explanation:choices[i][2],word:null,wordReading:null}));
  return vocabulary.concat(concepts);
 }
 function makeFinal(lang, rows, audioItems) {
@@ -36,19 +42,24 @@ function makeFinal(lang, rows, audioItems) {
   const options=base.slice(answer).concat(base.slice(0,answer));
   return {id:`c2-${lang}-final-${i+1}`,type:"vocabulary",prompt:lang==="sr"?`„${row[0]}“ යන වචනයේ නිවැරදි සිංහල අර්ථය තෝරන්න.`:`Choose the correct Sinhala meaning of “${row[0]}”.`,audio:null,reading:null,word:row[0],wordReading:row[1],options,answer:options.indexOf(row[2]),explanation:`${row[0]} = ${row[2]}`};
  });
- const sr=[
-  ["U ovom iskazu, šta određuje opseg negacije?",["සම්පූර්ණ ප්‍රකාශයම","වාක්‍යයේ නිශ්චිත කොටසක්; ව්‍යුහය අනුව වෙනස් වේ","කථකයාගේ වයස"],1,"නිෂේධනයේ පරාසය වාක්‍ය ව්‍යුහය හා අර්ථ සම්බන්ධතා මත තීරණය වේ."],
-  ["Koji pristup najbolje čuva tekstualnu koheziju?",["සම්බන්ධක හා යොමු කිරීම් අර්ථවත් ලෙස පවත්වා ගැනීම","සියලු සම්බන්ධක ඉවත් කිරීම","සෑම වාක්‍යයක්ම වෙනම තැබීම"],0,"සම්බන්ධක, යොමු කිරීම් සහ තොරතුරු අනුපිළිවෙළ පෙළ සම්බන්ධතාව ගොඩනඟයි."],
-  ["Šta znači proporcionalnost pravne mere?",["පියවර අරමුණට සාධාරණ හා සමානුපාතික වීම","දඬුවම හැකි තරම් දැඩි වීම","සන්දර්භය නොසලකා හැරීම"],0,"නීතිමය පියවර නීත්‍යනුකූල අරමුණට ගැළපෙන හා අනුපාතික විය යුතුය."],
-  ["Kako se najodgovornije iznosi neizvesna tvrdnja?",["සාක්ෂිවල සීමා සහ විකල්ප අර්ථකථන පැහැදිලි කිරීම","අනුමානය නිශ්චිත සත්‍යයක් ලෙස දැක්වීම","සාක්ෂි සඳහන් නොකිරීම"],0,"අවිනිශ්චිතතාව නිවැරදිව දැක්වීම විද්‍යාත්මක වගකීමකි."]
+ const prompts=lang==="sr"?[
+  "Šta određuje semantički opseg negacije u ovoj rečenici?",
+  "Koji postupak najbolje čuva koheziju teksta?",
+  "Šta zahteva proporcionalnost pravne mere?",
+  "Kako odgovorno predstaviti tvrdnju koja nije potpuno izvesna?"
+ ]:[
+  "What determines the semantic scope of negation in a sentence?",
+  "Which approach best preserves textual cohesion?",
+  "What does proportionality of a legal measure require?",
+  "How should a claim with uncertainty be presented responsibly?"
  ];
- const en=[
-  ["In this statement, what determines the scope of negation?",["The entire statement in every case","A specific part of the sentence, depending on structure","The speaker's age"],1,"The scope of negation depends on sentence structure and meaning relations."],
-  ["Which approach best preserves textual cohesion?",["Maintaining meaningful links and references","Removing every connective","Treating every sentence as unrelated"],0,"Connectives, references and information order create textual cohesion."],
-  ["What does proportionality of a legal measure require?",["The measure must reasonably match the legitimate aim","The penalty must always be as severe as possible","Context should be ignored"],0,"A legal measure should be suitable and proportionate to a legitimate aim."],
-  ["How should an uncertain claim be presented responsibly?",["State evidential limits and plausible alternative readings","Present an inference as certain fact","Omit the evidence"],0,"Accurately marking uncertainty is part of responsible academic communication."]
+ const grammar=[
+  [["සම්පූර්ණ ප්‍රකාශයම","වාක්‍යයේ නිශ්චිත කොටසක්; ව්‍යුහය අනුව වෙනස් වේ","කථකයාගේ වයස"],1,"නිෂේධනයේ පරාසය වාක්‍ය ව්‍යුහය හා අර්ථ සම්බන්ධතා මත තීරණය වේ."],
+  [["සම්බන්ධක හා යොමු කිරීම් අර්ථවත් ලෙස පවත්වා ගැනීම","සියලු සම්බන්ධක ඉවත් කිරීම","සෑම වාක්‍යයක්ම වෙනම තැබීම"],0,"සම්බන්ධක, යොමු කිරීම් සහ තොරතුරු අනුපිළිවෙළ පෙළ සම්බන්ධතාව ගොඩනඟයි."],
+  [["පියවර අරමුණට සාධාරණ හා සමානුපාතික වීම","දඬුවම හැකි තරම් දැඩි වීම","සන්දර්භය නොසලකා හැරීම"],0,"නීතිමය පියවර නීත්‍යනුකූල අරමුණට ගැළපෙන හා අනුපාතික විය යුතුය."],
+  [["සාක්ෂිවල සීමා සහ විකල්ප අර්ථකථන පැහැදිලි කිරීම","අනුමානය නිශ්චිත සත්‍යයක් ලෙස දැක්වීම","සාක්ෂි සඳහන් නොකිරීම"],0,"අවිනිශ්චිතතාව නිවැරදිව දැක්වීම විද්‍යාත්මක වගකීමකි."]
  ];
- const concepts=(lang==="sr"?sr:en).map((item,i)=>({id:`c2-${lang}-final-${i+11}`,type:"grammar",prompt:item[0],audio:null,reading:null,word:null,wordReading:null,options:item[1],answer:item[2],explanation:item[3]}));
+ const concepts=prompts.map((prompt,i)=>({id:`c2-${lang}-final-${i+11}`,type:"grammar",prompt,audio:null,reading:null,word:null,wordReading:null,options:grammar[i][0],answer:grammar[i][1],explanation:grammar[i][2]}));
  const listening=audioItems.map((item,i)=>({id:`c2-${lang}-final-${i+15}`,type:"listening",prompt:"සවන් දී නිවැරදි සිංහල අර්ථය තෝරන්න.",audio:item[0],reading:item[1],word:null,wordReading:null,options:[item[2],rows[(i+4)%rows.length][2],rows[(i+9)%rows.length][2]],answer:0,explanation:item[2]}));
  return vocabulary.concat(concepts,listening);
 }
