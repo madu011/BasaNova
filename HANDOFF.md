@@ -716,3 +716,13 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 1. Recheck the latest Expo validation and Android APK workflow runs; inspect and fix any failing dependency, bundle or native-build step.
 2. Run a full content QA pass across all six CEFR levels, especially answer/translation alignment, Serbian naturalness, English naturalness and Sinhala pronunciation.
 3. Arrange fluent-speaker review and physical Android device testing. Do not claim release readiness until these checks are completed.
+
+
+## 2026-11-19 — A2/B1/B2 vocabulary example QA
+
+- Automated review identified that every A2 vocabulary example in both languages repeated only the vocabulary word (800 entries total), while B1/B2 vocabulary entries reused a small number of generic sentences across many terms.
+- Updated all 400 vocabulary entries in each of the six A2/B1/B2 files (2,400 entries total) to use complete contextual sentences from the corresponding lesson's examples section. Exact term matches were preferred where available; otherwise, examples from the same lesson were assigned in rotation. Sinhala sentence translations and readings were synchronized.
+- Revalidated all six files: 50 unique lesson IDs and 400 vocabulary entries per file, no missing word/meaning/reading/example/translation fields, no example identical to the word alone, and 2–4 distinct sentence examples per lesson. This is structural QA; term-specific relevance and linguistic naturalness still require human review.
+- Updated commits: Serbian A2 `a45cf08e258d5a90d4e63cfd236cf1f804145716`, English A2 `d3eb9f6e2ddac9b31968a06d6ab55d3b379b4e78`, Serbian B1 `b4a775d9808c7785100d0e5b2056c849b02df006`, English B1 `89e3f1d3a2ce6ede35b768abbfa0404af7182494`, Serbian B2 `bb2b0c4c81a1fc7397aa4c97eab24b86ea37d55e`, English B2 `c9b99dd793803fa78432461c4c650cacd3283ece`.
+- Added `CONTENT_QA_REPORT.md` and `CONTENT_QA_STATUS` in curriculum. A1 legacy parser-aware QA, full remaining C1/C2 QA, fluent-speaker review and physical Android testing remain.
+- Android APK artifact from run `44552002628` is available in GitHub Actions as `basanova-android-debug-apk` (about 41 MB; expiry 2026-12-03). CI build succeeded; physical installation has not yet been verified.
