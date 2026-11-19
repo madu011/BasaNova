@@ -1145,3 +1145,10 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 5. Review body-part language/pronunciation with fluent speakers and test TTS/layout on Android after an APK is available.
 
 - Documentation follow-up commits: README `1e99f01cab99f47ba5dde52e25b732c27af2da80`; content QA report `27b9f13e9d1e5eec93c9403a96f8039216c47ad3`.
+
+
+## 2026-11-19 — A1 lesson QA coverage extension
+- Extended `scripts/content-qa.mjs` to load and structurally validate both Serbian and English A1 lesson modules. It checks unique lesson IDs; unit/title/objective/grammar fields; non-empty vocabulary, examples, dialogue and practice arrays; required vocabulary word/meaning/example/translation fields; duplicate practice/listening options; valid answer indexes; listening prompt/audio; and matching Serbian/English lesson counts.
+- Corrected the Sinhala and mixed-script detection ranges in the QA script to use explicit Unicode character ranges. Commits: lesson QA extension `c4ad8366d2910ea3a354d4eb77f6e8e816db0c0e`; Unicode range correction `d34e786857305e43cc5e579676ba03074fefd8d4`.
+- This check has not yet been executed end-to-end because the user's GitHub Actions billing block remains unresolved and there is no local checkout/runtime attached here. Do not claim the A1 lesson QA passed until it actually runs.
+- Next: continue content audits and only fix concrete findings; avoid build attempts until the monthly included quota resets and the account block is resolved.
