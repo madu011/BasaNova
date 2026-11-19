@@ -31,6 +31,9 @@ jobs:
         with:
           node-version: 22
 
+      - name: Run lesson assessment content QA
+        run: npm run qa:content
+
       - name: Set up Java
         uses: actions/setup-java@v4
         with:
