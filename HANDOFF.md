@@ -700,3 +700,19 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 - Final batch source validation: 10 unique lesson IDs per language; 80 vocabulary entries, 40 examples, 40 dialogue lines, 40 practice questions and 10 listening tasks per language; no missing Sinhala-script readings or Sinhala meanings in vocabulary/examples/dialogue.
 - C2 aggregate source validation: exactly 50 lessons and 50 unique IDs in Serbian, and 50 lessons and 50 unique IDs in English. App imports and the full 1–50 lesson sequence are present.
 - This is source/content validation only. CI/Expo workflow state must be checked separately; no successful APK or device test is claimed.
+
+
+## 2026-11-19 — C2 cumulative assessments completed and integrated
+
+- Added `c2FinalExams.js` with paired Serbian and English cumulative C2 assessments. Each language has 10 mixed-revision questions and 20 final-practice questions. The final test contains 10 vocabulary, 4 grammar/discourse and 6 listening questions. Target-language vocabulary and listening audio include Sinhala meanings and approximate Sinhala-script readings; the Learn UI uses device text-to-speech.
+- Integrated the C2 revision and scored final-practice panels into `App.js`. The final test requires all 20 answers, shows explanations and score, offers retry, and uses a suggested 70% (14/20) practice threshold. The test is explicitly labelled practice, not official CEFR certification. Speaking is not automatically graded.
+- Updated `curriculum.js` and `README.md` to record C2 lesson and assessment completion and remaining review work.
+- Final relevant commits: C2 assessment data/terminology `e9ade53bf12e115acdfc4dd079d69bf1be00b083`; App integration/state `23fa894fc9daecf83d31f062c978123a60abb107`; curriculum `3b236e4a26114af83f41edd167bf002346466cb3`; README `526bfd88cc059779deb0a8ab5483aebad82fc143`.
+- Source-level validation confirmed 20 Serbian and 20 English C2 vocabulary/term records, 10 unique revision question IDs and 20 unique final question IDs per language, valid answer indexes, complete vocabulary and listening readings, and the C2 imports, state, reset behavior and UI markers in `App.js`. Curriculum has one C2 assessment status declaration and README has one C2 assessment section.
+- Expo validation run `44551768868` passed for App state commit `23fa894f`. Latest Expo validation run `44552011499` (README commit `526bfd88`) and Android APK build run `44552002628` (curriculum commit `3b236e4a`) were still in progress at the last check. The APK run for `e9ade53b` was cancelled; no completed native APK build, installation or physical-device test is claimed.
+- Sinhala-script pronunciation is approximate and all advanced Serbian/English material still needs fluent-speaker review.
+
+### Next exact task
+1. Recheck the latest Expo validation and Android APK workflow runs; inspect and fix any failing dependency, bundle or native-build step.
+2. Run a full content QA pass across all six CEFR levels, especially answer/translation alignment, Serbian naturalness, English naturalness and Sinhala pronunciation.
+3. Arrange fluent-speaker review and physical Android device testing. Do not claim release readiness until these checks are completed.
