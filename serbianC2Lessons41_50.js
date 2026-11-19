@@ -167,7 +167,7 @@ export const SERBIAN_C2_LESSONS_41_50 = [
     "id": "sr-c2-l42",
     "unit": "C2 · Sociolingvistička varijacija i jezička politika",
     "title": "C2 · 42 · Sociolingvistička varijacija i jezička politika",
-    "objective": "Procijenite odnos između jezičke norme, identiteta, dijalekta i javne politike.",
+    "objective": "Procenite odnos između jezičke norme, identiteta, dijalekta i javne politike.",
     "vocabulary": [
       {
         "word": "standardizacija",
@@ -1353,7 +1353,7 @@ export const SERBIAN_C2_LESSONS_41_50 = [
         "translation": "ප්‍රතිපක්ෂයේ කරුණක් පිළිගැනීම සමස්ත තර්කය ශක්තිමත් කළ හැක."
       },
       {
-        "word": "protuprimer",
+        "word": "kontraprimer",
         "reading": "ප්‍රොතුප්‍රිමෙර්",
         "meaning": "ප්‍රතිඋදාහරණය",
         "example": "Protuprimer testira domet opšte tvrdnje.",
@@ -1430,7 +1430,7 @@ export const SERBIAN_C2_LESSONS_41_50 = [
         "options": [
           "teza",
           "replika",
-          "protuprimer"
+          "kontraprimer"
         ],
         "answer": 0,
         "explanation": "teza je ključni pojam ove teme."
@@ -1502,7 +1502,7 @@ export const SERBIAN_C2_LESSONS_41_50 = [
         "translation": "ස්වයං ඇගයීම තවදුරටත් දියුණු කළ යුතු ක්ෂේත්‍ර හෙළි කරයි."
       },
       {
-        "word": "protuargument",
+        "word": "kontraargument",
         "reading": "ප්‍රොතුඅර්ගුමෙන්ත්",
         "meaning": "ප්‍රතිතර්කය",
         "example": "Izlaganje povezuje pitanje, metod i nalaze u jednu celinu.",
