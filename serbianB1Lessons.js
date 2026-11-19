@@ -2499,67 +2499,67 @@ const serbianB1Lessons = [
     "vocabulary": [
       {
         "word": "step",
-        "reading": "කොරක්",
+        "reading": "korak",
         "meaning": "පියවර",
-        "example": "Prvo popunite obrazac, a zatim ga predajte službeniku.",
-        "translation": "මුලින් පෝරමය පුරවා පසුව නිලධාරියාට භාර දෙන්න.",
-        "exampleReading": "මුලින් පෝරමය පුරවා පසුව නිලධාරියාට භාර දෙන්න."
+        "example": "Prvi korak je da pažljivo pročitate uputstvo.",
+        "translation": "පළමු පියවර වන්නේ උපදෙස් හොඳින් කියවීමයි.",
+        "exampleReading": "ප්‍ර්වි කොරක් යෙ ද පාෂ්ල්යිවො ප්‍රොචිතාතෙ උපුත්ස්ත්වො."
       },
       {
         "word": "instruction",
-        "reading": "උපුත්ස්ත්වො",
+        "reading": "uputstvo",
         "meaning": "උපදෙස්",
-        "example": "Nakon što se uređaj uključi, sačekajte nekoliko sekundi.",
-        "translation": "උපාංගය ක්‍රියාත්මක කළ පසු තත්පර කිහිපයක් රැඳී සිටින්න.",
-        "exampleReading": "උපාංගය ක්‍රියාත්මක කළ පසු තත්පර කිහිපයක් රැඳී සිටින්න."
+        "example": "Svako uputstvo treba pročitati pre upotrebe uređaja.",
+        "translation": "උපාංගය භාවිත කිරීමට පෙර සෑම උපදෙසක්ම කියවිය යුතුයි.",
+        "exampleReading": "ස්වාකො උපුත්ස්ත්වො ත්‍රෙබා ප්‍රොචිතාති ප්‍රෙ උපොත්‍රෙබෙ උරෙද්ජායා."
       },
       {
         "word": "equipment",
-        "reading": "ඔප්‍රෙමා",
+        "reading": "oprema",
         "meaning": "උපකරණ",
-        "example": "Važno je da unapred razmotrimo sve mogućnosti.",
-        "translation": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද උනප්‍රෙද් රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "Za ovaj posao potrebna nam je zaštitna oprema.",
+        "translation": "මේ වැඩයට අපට ආරක්ෂක උපකරණ අවශ්‍යයි.",
+        "exampleReading": "සා ඔවායි පොසාඕ පොත්‍රෙබ්නා නාම් යෙ සාෂ්තිත්නා ඔප්‍රෙමා."
       },
       {
         "word": "switch on",
-        "reading": "උක්ල්යුචිති",
-        "meaning": "ක්‍රියාත්මක කරනවා",
-        "example": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
-        "translation": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා.",
-        "exampleReading": "නා ක්‍රායු චෙමො ඉස්සාබ්‍රාති රෙෂෙන්යේ කොයෙ නායිවිෂෙ ඔද්ගොවාරා ස්විමා."
+        "reading": "uključiti",
+        "meaning": "ක්‍රියාත්මක කරන්න",
+        "example": "Pritisnite zeleno dugme da uključite aparat.",
+        "translation": "උපාංගය ක්‍රියාත්මක කිරීමට කොළ බොත්තම ඔබන්න.",
+        "exampleReading": "ප්‍රිතිස්නිත්තෙ සෙලෙනො දුග්මෙ දා උක්ල්යුචිතෙ අපරාත්."
       },
       {
         "word": "submit",
-        "reading": "ප්‍රෙදාති",
-        "meaning": "භාර දෙනවා",
-        "example": "Prvo popunite obrazac, a zatim ga predajte službeniku.",
-        "translation": "මුලින් පෝරමය පුරවා පසුව නිලධාරියාට භාර දෙන්න.",
-        "exampleReading": "මුලින් පෝරමය පුරවා පසුව නිලධාරියාට භාර දෙන්න."
+        "reading": "predati",
+        "meaning": "භාර දෙන්න / ඉදිරිපත් කරන්න",
+        "example": "Popunjen obrazac morate predati do petka.",
+        "translation": "පිරවූ පෝරමය සිකුරාදාට පෙර භාරදිය යුතුයි.",
+        "exampleReading": "පොපුන්යෙන් ඔබ්‍රාසාත් මොරાતෙ ප්‍රෙදාති දො පෙත්කා."
       },
       {
         "word": "check",
-        "reading": "ප්‍රොවෙරිති",
-        "meaning": "පරීක්ෂා කරනවා",
-        "example": "Nakon što se uređaj uključi, sačekajte nekoliko sekundi.",
-        "translation": "උපාංගය ක්‍රියාත්මක කළ පසු තත්පර කිහිපයක් රැඳී සිටින්න.",
-        "exampleReading": "උපාංගය ක්‍රියාත්මක කළ පසු තත්පර කිහිපයක් රැඳී සිටින්න."
+        "reading": "proveriti",
+        "meaning": "පරීක්ෂා කරන්න",
+        "example": "Pre nego što krenete, proverite sve kablove.",
+        "translation": "පිටත්වීමට පෙර සියලු කේබල් පරීක්ෂා කරන්න.",
+        "exampleReading": "ප්‍රෙ නෙගො ෂ්තො ක්‍රෙනෙතෙ ප්‍රොවෙරිත්තෙ ස්වෙ කාබ්ලොවෙ."
       },
       {
         "word": "carefully",
-        "reading": "පාෂ්ල්යීවො",
+        "reading": "pažljivo",
         "meaning": "ප්‍රවේශමෙන්",
-        "example": "Važno je da unapred razmotrimo sve mogućnosti.",
-        "translation": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද උනප්‍රෙද් රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "Pažljivo rukujte staklenim delovima.",
+        "translation": "වීදුරු කොටස් ප්‍රවේශමෙන් හසුරුවන්න.",
+        "exampleReading": "පාෂ්ල්යිවො රුකුයිත්තෙ ස්තක්ලෙනිම් දෙලොවිමා."
       },
       {
         "word": "before",
-        "reading": "ප්‍රෙ",
+        "reading": "pre",
         "meaning": "පෙර",
-        "example": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
-        "translation": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා.",
-        "exampleReading": "නා ක්‍රායු චෙමො ඉස්සාබ්‍රාති රෙෂෙන්යේ කොයෙ නායිවිෂෙ ඔද්ගොවාරා ස්විමා."
+        "example": "Operite ruke pre nego što počnete pripremu.",
+        "translation": "සූදානම ආරම්භ කිරීමට පෙර අත් සෝදන්න.",
+        "exampleReading": "ඔපෙරිත්තෙ රුකෙ ප්‍රෙ නෙගො ෂ්තො පොච්නෙත්තෙ ප්‍රිප්‍රෙමු."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -2677,67 +2677,67 @@ const serbianB1Lessons = [
     "vocabulary": [
       {
         "word": "citizen",
-        "reading": "ග්‍රාජානින්",
+        "reading": "građanin",
         "meaning": "පුරවැසියා",
-        "example": "Naša zajednica organizuje akciju čišćenja parka.",
-        "translation": "අපේ ප්‍රජාව උද්‍යානය පිරිසිදු කිරීමේ වැඩසටහනක් සංවිධානය කරනවා.",
-        "exampleReading": "අපේ ප්‍රජාව උද්‍යානය පිරිසිදු කිරීමේ වැඩසටහනක් සංවිධානය කරනවා."
+        "example": "Svaki građanin može da učestvuje na lokalnim izborima.",
+        "translation": "සෑම පුරවැසියෙකුටම ප්‍රාදේශීය මැතිවරණවලට සහභාගී විය හැකියි.",
+        "exampleReading": "ස්වාකි ග්‍රාජානින් මොෂෙ දා උචෙස්ත්වුයේ නා ලොකල්නිම් ඉස්බොරිමා."
       },
       {
         "word": "volunteer",
-        "reading": "වොලොන්තර",
+        "reading": "volonter",
         "meaning": "ස්වේච්ඡා සේවකයා",
-        "example": "Građani mogu da predlože rešenja na javnom sastanku.",
-        "translation": "පුරවැසියන්ට මහජන රැස්වීමේදී විසඳුම් යෝජනා කළ හැකියි.",
-        "exampleReading": "පුරවැසියන්ට මහජන රැස්වීමේදී විසඳුම් යෝජනා කළ හැකියි."
+        "example": "Volonteri svake subote pomažu u narodnoj kuhinji.",
+        "translation": "ස්වේච්ඡා සේවකයෝ සෑම සෙනසුරාදාවකම ප්‍රජා මුළුතැන්ගෙයි උදව් කරනවා.",
+        "exampleReading": "වොලොන්තෙරි ස්වාකෙ සුබොතෙ පොමාෂු උ නාරොද්නොයි කුහිඤි."
       },
       {
         "word": "neighbourhood",
-        "reading": "නාසෙල්යේ",
+        "reading": "naselje",
         "meaning": "අසල්වැසි ප්‍රදේශය",
-        "example": "Važno je da unapred razmotrimo sve mogućnosti.",
-        "translation": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද උනප්‍රෙද් රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "U našem naselju otvoren je novi park.",
+        "translation": "අපේ අසල්වැසි ප්‍රදේශයේ නව උද්‍යානයක් විවෘත කර තිබෙනවා.",
+        "exampleReading": "උ නාෂෙම් නාසෙල්යු ඔත්වොරෙන් යෙ නොවි පාක්."
       },
       {
         "word": "meeting",
-        "reading": "සාස්තානාක්",
+        "reading": "sastanak",
         "meaning": "රැස්වීම",
-        "example": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
-        "translation": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා.",
-        "exampleReading": "නා ක්‍රායු චෙමො ඉස්සාබ්‍රාති රෙෂෙන්යේ කොයෙ නායිවිෂෙ ඔද්ගොවාරා ස්විමා."
+        "example": "Sastanak stanara počinje u šest sati.",
+        "translation": "නිවැසියන්ගේ රැස්වීම හයට පටන් ගන්නවා.",
+        "exampleReading": "සාස්තානාක් ස්තානාරා පොචිඤෙ උ ෂෙස්ත් සාති."
       },
       {
         "word": "proposal",
-        "reading": "ප්‍රෙද්ලොග්",
+        "reading": "predlog",
         "meaning": "යෝජනාව",
-        "example": "Naša zajednica organizuje akciju čišćenja parka.",
-        "translation": "අපේ ප්‍රජාව උද්‍යානය පිරිසිදු කිරීමේ වැඩසටහනක් සංවිධානය කරනවා.",
-        "exampleReading": "අපේ ප්‍රජාව උද්‍යානය පිරිසිදු කිරීමේ වැඩසටහනක් සංවිධානය කරනවා."
+        "example": "Moj predlog je da postavimo više kanti za otpad.",
+        "translation": "මගේ යෝජනාව වන්නේ තවත් කසළ බඳුන් තැබීමයි.",
+        "exampleReading": "මොයි ප්‍රෙද්ලොග් යෙ දා පොස්තාවිමො විෂෙ කාන්ති සා ඔත්පාද්."
       },
       {
         "word": "support",
-        "reading": "පොද්ර්ෂ්කා",
+        "reading": "podrška",
         "meaning": "සහාය",
-        "example": "Građani mogu da predlože rešenja na javnom sastanku.",
-        "translation": "පුරවැසියන්ට මහජන රැස්වීමේදී විසඳුම් යෝජනා කළ හැකියි.",
-        "exampleReading": "පුරවැසියන්ට මහජන රැස්වීමේදී විසඳුම් යෝජනා කළ හැකියි."
+        "example": "Ovaj projekat ima podršku mnogih stanovnika.",
+        "translation": "මෙම ව්‍යාපෘතියට බොහෝ නිවැසියන්ගේ සහාය තිබෙනවා.",
+        "exampleReading": "ඔවායි ප්‍රොයෙකාත් ඉමා පොද්‍ර්ෂ්කු නොගිහ් ස්තානොව්නිකා."
       },
       {
         "word": "public",
-        "reading": "යාව්නි",
-        "meaning": "මහජන",
-        "example": "Važno je da unapred razmotrimo sve mogućnosti.",
-        "translation": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද උනප්‍රෙද් රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "reading": "javni",
+        "meaning": "මහජන / පොදු",
+        "example": "Javni prevoz povezuje udaljene delove grada.",
+        "translation": "පොදු ප්‍රවාහනය නගරයේ දුරස්ථ ප්‍රදේශ සම්බන්ධ කරනවා.",
+        "exampleReading": "යාව්නි ප්‍රෙවොස් පොවෙසුයේ උදාල්යෙනෙ දෙලොවෙ ග්‍රාදා."
       },
       {
         "word": "issue",
-        "reading": "ප්‍රොබ්ලෙම්",
-        "meaning": "ගැටලුව",
-        "example": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
-        "translation": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා.",
-        "exampleReading": "නා ක්‍රායු චෙමො ඉස්සාබ්‍රාති රෙෂෙන්යේ කොයෙ නායිවිෂෙ ඔද්ගොවාරා ස්විමා."
+        "reading": "pitanje",
+        "meaning": "ගැටලුව / ප්‍රශ්නය",
+        "example": "Zagađenje vazduha je ozbiljno pitanje u velikim gradovima.",
+        "translation": "වායු දූෂණය විශාල නගරවල බරපතළ ගැටලුවක්.",
+        "exampleReading": "සාගාජෙඤෙ වාස්දුහා යෙ ඔසිබ්ල්ය්නො පිත්ඤෙ උ වෙලිකිම් ග්‍රාඩොවිමා."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -2855,67 +2855,67 @@ const serbianB1Lessons = [
     "vocabulary": [
       {
         "word": "schedule",
-        "reading": "රාස්පොරෙද්",
+        "reading": "raspored",
         "meaning": "කාලසටහන",
-        "example": "Pokušavam da napravim ravnotežu između posla i odmora.",
-        "translation": "වැඩ සහ විවේකය අතර සමබරතාවයක් ඇති කරන්න උත්සාහ කරනවා.",
-        "exampleReading": "වැඩ සහ විවේකය අතර සමබරතාවයක් ඇති කරන්න උත්සාහ කරනවා."
+        "example": "Moj raspored za sledeću nedelju već je napravljen.",
+        "translation": "ඊළඟ සතිය සඳහා මගේ කාලසටහන දැනටමත් සකස් කරලා.",
+        "exampleReading": "මොයි රාස්පොරෙද් සා ස්ලෙදෙචු නෙදෙල්යු වෙච් යෙ නාප්‍රාව්ල්යෙන්."
       },
       {
         "word": "deadline",
-        "reading": "රොක්",
-        "meaning": "අවසන් දිනය",
-        "example": "Ako unapred isplaniramo obaveze, imaćemo više slobodnog vremena.",
-        "translation": "කලින් වැඩ සැලසුම් කළොත් වැඩි නිදහස් කාලයක් ලැබෙනවා.",
-        "exampleReading": "කලින් වැඩ සැලසුම් කළොත් වැඩි නිදහස් කාලයක් ලැබෙනවා."
+        "reading": "rok",
+        "meaning": "අවසන් දිනය / කාලසීමාව",
+        "example": "Rok za završetak izveštaja je petak.",
+        "translation": "වාර්තාව අවසන් කළ යුතු අවසන් දිනය සිකුරාදායි.",
+        "exampleReading": "රොක් සා සාව්ර්ෂෙතාක් ඉස්වෙෂ්තායා යෙ පෙතාක්."
       },
       {
         "word": "priority",
-        "reading": "ප්‍රියොරිතෙත්",
+        "reading": "prioritet",
         "meaning": "ප්‍රමුඛතාව",
-        "example": "Važno je da unapred razmotrimo sve mogućnosti.",
-        "translation": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද උනප්‍රෙද් රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "Bezbednost zaposlenih mora biti naš prvi prioritet.",
+        "translation": "සේවකයන්ගේ ආරක්ෂාව අපේ පළමු ප්‍රමුඛතාව විය යුතුයි.",
+        "exampleReading": "බෙස්බෙද්නොස්ත් සාපොස්ලෙනිහ් මොරා බිති නාෂ් ප්‍ර්වි ප්‍රියොරිතෙත්."
       },
       {
         "word": "break",
-        "reading": "පවුසා",
+        "reading": "pauza",
         "meaning": "විවේකය",
-        "example": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
-        "translation": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා.",
-        "exampleReading": "නා ක්‍රායු චෙමො ඉස්සාබ්‍රාති රෙෂෙන්යේ කොයෙ නායිවිෂෙ ඔද්ගොවාරා ස්විමා."
+        "example": "Posle tri sata rada napravili smo kratku pauzu.",
+        "translation": "පැය තුනක් වැඩ කළ පසු අපි කෙටි විවේකයක් ගත්තා.",
+        "exampleReading": "පොස්ලෙ ත්‍රි සාතා රාදා නාප්‍රාවිලි ස්මො ක්‍රාත්කු පවුසු."
       },
       {
         "word": "overtime",
-        "reading": "ප්‍රෙකොව්‍රෙමෙනි රාද්",
+        "reading": "prekovremeni rad",
         "meaning": "අතිකාල වැඩ",
-        "example": "Pokušavam da napravim ravnotežu između posla i odmora.",
-        "translation": "වැඩ සහ විවේකය අතර සමබරතාවයක් ඇති කරන්න උත්සාහ කරනවා.",
-        "exampleReading": "වැඩ සහ විවේකය අතර සමබරතාවයක් ඇති කරන්න උත්සාහ කරනවා."
+        "example": "Ove nedelje imam dva dana prekovremenog rada.",
+        "translation": "මේ සතියේ මට දින දෙකක් අතිකාල වැඩ තිබෙනවා.",
+        "exampleReading": "ඔවෙ නෙදෙල්යෙ ඉමාම් ද්වා දානා ප්‍රෙකොව්රෙමෙනොග් රාදා."
       },
       {
         "word": "rest",
-        "reading": "ඔද්මොර",
+        "reading": "odmor",
         "meaning": "විවේකය",
-        "example": "Ako unapred isplaniramo obaveze, imaćemo više slobodnog vremena.",
-        "translation": "කලින් වැඩ සැලසුම් කළොත් වැඩි නිදහස් කාලයක් ලැබෙනවා.",
-        "exampleReading": "කලින් වැඩ සැලසුම් කළොත් වැඩි නිදහස් කාලයක් ලැබෙනවා."
+        "example": "Dobar odmor pomaže nam da se bolje koncentrišemo.",
+        "translation": "හොඳ විවේකයක් ගත්තොත් අපට වඩා හොඳින් අවධානය යොමු කළ හැකියි.",
+        "exampleReading": "දොබාර් ඔද්මොර් පොමාෂෙ නාම් දා සෙ බොල්යෙ කොන්ත්සෙන්ත්‍රිෂෙමො."
       },
       {
         "word": "manage",
-        "reading": "ඔර්ගානිසොවාති",
-        "meaning": "සංවිධානය කරනවා",
-        "example": "Važno je da unapred razmotrimo sve mogućnosti.",
-        "translation": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද උනප්‍රෙද් රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "reading": "upravljati",
+        "meaning": "කළමනාකරණය කරන්න",
+        "example": "Naučila je da upravlja vremenom i obavezama.",
+        "translation": "ඇය කාලය සහ වගකීම් කළමනාකරණය කරන්න ඉගෙනගෙන තිබෙනවා.",
+        "exampleReading": "නවුචිලා යෙ දා උප්‍රාව්ල්යා ව්‍රෙමෙනොම් ඉ ඔබාවේසාමා."
       },
       {
         "word": "free time",
-        "reading": "ස්ලොබොද්නො ව්‍රෙමෙ",
+        "reading": "slobodno vreme",
         "meaning": "නිදහස් කාලය",
-        "example": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
-        "translation": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා.",
-        "exampleReading": "නා ක්‍රායු චෙමො ඉස්සාබ්‍රාති රෙෂෙන්යේ කොයෙ නායිවිෂෙ ඔද්ගොවාරා ස්විමා."
+        "example": "Vikendom volim da provodim slobodno vreme sa porodicom.",
+        "translation": "සති අන්තයේ පවුලේ අය සමඟ නිදහස් කාලය ගත කරන්න මම කැමතියි.",
+        "exampleReading": "විකෙන්දොම් වොලිම් දා ප්‍රොවොදිම් ස්ලොබොද්නො ව්‍රෙමෙ සා පොරොදිත්සොම්."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
