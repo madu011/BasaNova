@@ -1167,3 +1167,11 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 - English lessons 8–10 were already present at the end of the file; Serbian lessons 3–5 were already present. An attempted duplicate insertion was fully reverted from both source files in commits `f40985dfc9916be535e1c682d18edcf25b3d9d31` and `b90e345e9156d172b948ce8d7acd5bfb7ee20a93`. Current source inventory remains 50/50 with unique IDs.
 - Topic sequence is not fully paired by lesson number: e.g. Serbian lesson 3 is café ordering while English lesson 3 is numbers/time; Serbian lesson 4 is numbers while English lesson 4 is shopping; Serbian lesson 5 is market shopping while English lesson 5 is directions. Need topic-by-topic alignment review rather than assuming identical numbering.
 - Do not claim the automated content QA has passed: GitHub Actions remains billing-blocked and the local full QA script has not been executed. Static inventory/numbering scan only.
+
+
+## 2026-11-19 — English A1 first-ten lesson alignment
+- Reordered English A1 lessons 1–10 to follow the same topic progression as Serbian A1: greetings, responses, café ordering, numbers/time, shopping, workplace communication, jobs/professions, directions/transport, appointment and transport schedules, accommodation/daily services.
+- Added beginner English lesson 7 (jobs/professions) and lesson 9 (appointment times and transport schedules), with Sinhala meanings, Sinhala-script pronunciation, examples, dialogues, listening prompts, and practice.
+- Kept a separate lesson 11 for more detailed café ordering, so the existing progression after lesson 10 is preserved.
+- English A1 now has 50 lessons, 50 unique IDs, continuous title numbers 1–50, and no duplicate lesson numbers in a static source audit. Serbian A1 also has 50 unique IDs and continuous title numbers 1–50.
+- Added `validateLessonNumbering` to `scripts/content-qa.mjs` so future content QA checks continuous numbering. The full QA script has not yet been executed because GitHub Actions remains blocked by the account billing/usage restriction; this is static source inspection only.
