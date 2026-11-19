@@ -1,5 +1,4 @@
-// Structured Serbian B1 lessons. Sinhala readings are approximate learner guides.
-export const SERBIAN_B1_LESSONS = [
+const serbianB1Lessons = [
   {
     "id": "sr-b1-l1",
     "unit": "ස්වාධීන භාවිතය",
@@ -1790,65 +1789,65 @@ export const SERBIAN_B1_LESSONS = [
         "word": "certainty",
         "reading": "සිගුර්නොස්ත්",
         "meaning": "නිශ්චිතභාවය",
-        "example": "Možda će voz kasniti, ali verovatno stižemo na vreme.",
-        "translation": "දුම්රිය ප්‍රමාද විය හැකියි, නමුත් අපි බොහෝවිට වෙලාවට එනවා.",
-        "exampleReading": "දුම්රිය ප්‍රමාද විය හැකියි, නමුත් අපි බොහෝවිට වෙලාවට එනවා."
+        "example": "Sigurnost nam je važna pre nego što donesemo odluku.",
+        "translation": "තීරණයක් ගන්න කලින් නිශ්චිතභාවය අපට වැදගත්.",
+        "exampleReading": "සිගුර්නොස්ත් නම් යෙ වාෂ්නා ප්‍රෙ නෙගො ෂ්තො දොනෙසෙමො ඔද්ලුකු."
       },
       {
         "word": "perhaps",
         "reading": "මොෂ්දා",
         "meaning": "සමහරවිට",
-        "example": "Ako bude gužve, možda ćemo uzeti taksi.",
-        "translation": "තදබදයක් තිබුණොත් අපි සමහරවිට ටැක්සියක් ගන්නවා.",
-        "exampleReading": "තදබදයක් තිබුණොත් අපි සමහරවිට ටැක්සියක් ගන්නවා."
+        "example": "Možda ćemo sutra posetiti muzej.",
+        "translation": "සමහරවිට අපි හෙට කෞතුකාගාරය බලන්න යාවි.",
+        "exampleReading": "මොෂ්දා චෙමො සුත්‍රා පොසෙතිති මුසෙයි."
       },
       {
         "word": "likely",
         "reading": "ඉස්ග්ලෙද්නො",
         "meaning": "විය හැකි",
-        "example": "Važno je da unapred razmotrimo sve mogućnosti.",
-        "translation": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද උනප්‍රෙද් රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "Verovatno će autobus stići za deset minuta.",
+        "translation": "බොහෝවිට බස් රථය විනාඩි දහයකින් පැමිණේවි.",
+        "exampleReading": "වෙරොවාත්නො චෙ ඔතොබුස් ස්තිචි සා දෙසෙත් මිනුතා."
       },
       {
         "word": "unlikely",
         "reading": "මාලො වෙරොවාත්නො",
         "meaning": "අඩු ඉඩක් ඇති",
-        "example": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
-        "translation": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා.",
-        "exampleReading": "නා ක්‍රායු චෙමො ඉස්සාබ්‍රාති රෙෂෙන්යේ කොයෙ නායිවිෂෙ ඔද්ගොවාරා ස්විමා."
+        "example": "Malo je verovatno da će prodavnica danas biti zatvorena.",
+        "translation": "අද වෙළඳසැල වසා තිබීමට ඇති ඉඩ අඩුයි.",
+        "exampleReading": "මාලො යෙ වෙරොවාත්නො දා චෙ ප්‍රොදාව්නිත්සා දානස් බිති සාත්වොරෙනා."
       },
       {
         "word": "estimate",
         "reading": "ප්‍රොත්සේනා",
         "meaning": "ඇස්තමේන්තුව",
-        "example": "Možda će voz kasniti, ali verovatno stižemo na vreme.",
-        "translation": "දුම්රිය ප්‍රමාද විය හැකියි, නමුත් අපි බොහෝවිට වෙලාවට එනවා.",
-        "exampleReading": "දුම්රිය ප්‍රමාද විය හැකියි, නමුත් අපි බොහෝවිට වෙලාවට එනවා."
+        "example": "Naša procena troškova je oko pedeset evra.",
+        "translation": "අපේ වියදම් ඇස්තමේන්තුව යුරෝ පනහක් පමණයි.",
+        "exampleReading": "නාෂා ප්‍රොත්සේනා ත්‍රොෂ්කොවා යෙ ඔකො පෙදෙසෙත් එව්රා."
       },
       {
         "word": "forecast",
         "reading": "ප්‍රොග්නොසා",
         "meaning": "අනාවැකිය",
-        "example": "Ako bude gužve, možda ćemo uzeti taksi.",
-        "translation": "තදබදයක් තිබුණොත් අපි සමහරවිට ටැක්සියක් ගන්නවා.",
-        "exampleReading": "තදබදයක් තිබුණොත් අපි සමහරවිට ටැක්සියක් ගන්නවා."
+        "example": "Vremenska prognoza najavljuje kišu za popodne.",
+        "translation": "කාලගුණ අනාවැකිය අනුව හවසට වැසි ඇතිවෙනවා.",
+        "exampleReading": "ව්‍රෙමෙන්ස්කා ප්‍රොග්නොසා නායාව්ලුයෙ කිෂු සා පොපොද්නෙ."
       },
       {
         "word": "definitely",
         "reading": "සිගුර්නො",
         "meaning": "නිසැකවම",
-        "example": "Važno je da unapred razmotrimo sve mogućnosti.",
-        "translation": "සියලු හැකියාවන් කලින් සලකා බැලීම වැදගත්.",
-        "exampleReading": "වාෂ්නො යෙ ද උනප්‍රෙද් රාස්මොත්‍රිමො ස්වෙ මොගුච්නොස්ති."
+        "example": "Definitivno ću doći na sastanak u petak.",
+        "translation": "මම අනිවාර්යයෙන්ම සිකුරාදා රැස්වීමට එනවා.",
+        "exampleReading": "දෙෆිනිතිව්නො චු දොචි නා සාස්තානාක් උ පෙතාක්."
       },
       {
         "word": "possibility",
         "reading": "මොගුච්නොස්ත්",
         "meaning": "හැකියාව",
-        "example": "Na kraju ćemo izabrati rešenje koje najviše odgovara svima.",
-        "translation": "අවසානයේ සියලු දෙනාට ගැළපෙන විසඳුම තෝරාගන්නවා.",
-        "exampleReading": "නා ක්‍රායු චෙමො ඉස්සාබ්‍රාති රෙෂෙන්යේ කොයෙ නායිවිෂෙ ඔද්ගොවාරා ස්විමා."
+        "example": "Postoji mogućnost da ćemo produžiti boravak.",
+        "translation": "අපේ නවාතැන් කාලය දිගු කිරීමට හැකියාවක් තිබෙනවා.",
+        "exampleReading": "පොස්තොයි මොගුච්නොස්ත් දා චෙමො ප්‍රොදුෂිති බොරාවාක්."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -8901,3 +8900,5 @@ export const SERBIAN_B1_LESSONS = [
     ]
   }
 ];
+
+export default serbianB1Lessons;
