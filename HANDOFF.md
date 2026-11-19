@@ -1143,3 +1143,5 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 3. Continue C2 assessment semantic QA, especially generated distractors and listening answer-key alignment.
 4. Avoid repeated build retries; revisit Expo/APK after quota reset and billing block resolution.
 5. Review body-part language/pronunciation with fluent speakers and test TTS/layout on Android after an APK is available.
+
+- Documentation follow-up commits: README `1e99f01cab99f47ba5dde52e25b732c27af2da80`; content QA report `27b9f13e9d1e5eec93c9403a96f8039216c47ad3`.
