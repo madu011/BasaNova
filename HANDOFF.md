@@ -1209,3 +1209,15 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 
 ### Next exact task
 - Continue the paired A1 audit for lessons 41–50; preserve lesson IDs and progress keys. Do not run builds until the usage reset and billing restriction are resolved.
+
+
+## 2026-11-19 — A1 lessons 41–50 paired audit and example repair
+- Completed the final paired A1 review for lessons 41–50. Both tracks have 50 lesson IDs total, and lessons 41–50 align by topic: city directions, workplace safety, dates/months, numbers/time/money, public transport/tickets, doctor visits, everyday questions, grammar review, daily conversation, and final listening/speaking practice.
+- Static scan confirms lessons 41–50 in both languages each have 8 vocabulary entries, 5 practice prompts and a listening task. Vocabulary reading fields and Sinhala meanings were present; all newly synchronized example-reading fields in lessons 43–50 contain Sinhala script without Latin/Cyrillic contamination.
+- Found that the review lessons 43–50 used the vocabulary headword itself as the example sentence. Replaced these 128 word-echo examples (64 per language) with contextual sentences from each lesson's existing examples section, synchronizing Sinhala meaning/translation and adding the matching Sinhala-script `exampleReading`. Removed the last two remaining word-only echoes in a follow-up.
+- Commits: Serbian content `b711707c41b0be73694a2e1f7473fcf614569e98`, final Serbian example correction `e073973018b0100fd5838ed63d57b3801549bb0e`; English content `b84e9db84021e7762c8fdd1c163cb4442c04d432`, final English example correction `8a077ccffb5f97d4d4f8553008aeff4292ae5db0`.
+- Static source audit confirms 50 Serbian + 50 English A1 lesson IDs, 10/10 listening tasks and 5 practice prompts per language in lessons 41–50, and zero remaining vocabulary examples that exactly echo their headword in lessons 43–50. Lesson IDs/progress keys were preserved.
+- Important: no Node parser/full `npm run qa:content`, Expo, TTS runtime, Android build or device test was run. Lessons 41–42 use legacy unquoted object keys and were inspected structurally, not JSON-parsed. Sinhala readings are approximations and need fluent-speaker review.
+
+### Next exact task
+- With A1 lessons 1–50 now source-audited, continue to A1 final exam + lesson integration QA: verify all lesson IDs are unique, lesson array ordering/progress mapping is stable, compare the A1 final exam coverage to lessons, and inspect App.js rendering for vocabulary `exampleReading` support. Do not run builds until the usage reset and account restriction are resolved.
