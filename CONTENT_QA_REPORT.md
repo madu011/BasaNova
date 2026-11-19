@@ -55,3 +55,11 @@ GitHub Actions Android debug APK build run [44552002628](https://github.com/madu
 - Automated static checks passed: required fields complete for all 102 records; no duplicate headwords per language; Sinhala script present in every pronunciation field; App imports and both course integrations confirmed.
 - Runtime validation remains blocked: latest Expo run `44577584279` and Android APK run `44577584617` failed before usable step logs; job log retrieval returned 404 BlobNotFound. Repeated earlier job records indicate runner assignment failure rather than a demonstrated source-code error. No current-main APK artifact is verified.
 - This is not native-speaker linguistic QA or physical-device testing. Pronunciation readings are approximate.
+
+
+## 2026-11-19 follow-up — A1/C2 assessment schema checks
+- Inspected A1 final and C2 generated assessment source. Found and corrected a mixed Cyrillic fragment in Serbian A1 final question 18 pronunciation (`a1FinalExams.js`).
+- Added `scripts/content-qa.mjs` and `npm run qa:content`; wired the command into Expo validation and Android APK workflows. It checks expected question counts, unique IDs/options, prompts, answer-index bounds and Sinhala-only readings for audio/vocabulary questions in A1 and C2 assessments.
+- `node --check` passed for the QA script. The full QA script has not yet run against repository files, so its end-to-end result is pending.
+- GitHub Actions is currently blocked before job steps by the account billing/spending-limit message shown in the user's screenshot. Billing overview showed $21.08 gross usage offset by $21.08 included usage and $0 billed; quota reset was shown as 12 days away. No amount is confirmed due.
+- No Expo bundle, APK, artifact, install or device test is verified for this follow-up.
