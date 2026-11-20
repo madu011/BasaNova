@@ -280,6 +280,19 @@ const a1 = await loadModule(files.a1);
 validateQuestions("Serbian A1 final exam", a1.SERBIAN_A1_FINAL_EXAM, 20, { pronunciation: true });
 validateQuestions("English A1 final exam", a1.ENGLISH_A1_FINAL_EXAM, 20, { pronunciation: true });
 
+
+const b1Assessments = await loadModule("b1FinalExams.js");
+validateQuestions("Serbian B1 mixed revision", b1Assessments.SERBIAN_B1_MIXED_REVISION, 10);
+validateQuestions("English B1 mixed revision", b1Assessments.ENGLISH_B1_MIXED_REVISION, 10);
+validateQuestions("Serbian B1 final exam", b1Assessments.SERBIAN_B1_FINAL_EXAM, 20);
+validateQuestions("English B1 final exam", b1Assessments.ENGLISH_B1_FINAL_EXAM, 20);
+
+const b2Assessments = await loadModule("b2FinalExams.js");
+validateQuestions("Serbian B2 mixed revision", b2Assessments.SERBIAN_B2_MIXED_REVISION, 10);
+validateQuestions("English B2 mixed revision", b2Assessments.ENGLISH_B2_MIXED_REVISION, 10);
+validateQuestions("Serbian B2 final exam", b2Assessments.SERBIAN_B2_FINAL_EXAM, 20);
+validateQuestions("English B2 final exam", b2Assessments.ENGLISH_B2_FINAL_EXAM, 20);
+
 const c2 = await loadModule(files.c2);
 validateQuestions("Serbian C2 mixed revision", c2.SERBIAN_C2_MIXED_REVISION, 10);
 validateQuestions("English C2 mixed revision", c2.ENGLISH_C2_MIXED_REVISION, 10);
