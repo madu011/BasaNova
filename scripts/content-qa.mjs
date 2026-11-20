@@ -223,9 +223,18 @@ for (const lesson of serbianB1Source.SERBIAN_B1_LESSONS) {
 }
 const serbianB2Source = await loadModule("serbianB2Lessons.js");
 for (const lesson of serbianB2Source.SERBIAN_B2_LESSONS) {
+  const lessonText = [
+    ...(lesson.vocabulary || []).map(item => item.example),
+    ...(lesson.examples || []).map(item => item.sr || item.text),
+    ...(lesson.dialogue || []).map(item => item.sr || item.text),
+    ...(lesson.grammarTerms || []).map(item => item.sr || item.text),
+  ].join(" ").toLocaleLowerCase();
   for (const item of lesson.vocabulary || []) {
     assert.ok(!/[А-Яа-яЁёЂђЈјЉљЊњЋћЏџ]/u.test(item.word), `${lesson.id}: Serbian B2 headword must use Latin script: ${item.word}`);
     assert.ok(hasSinhala(item.reading) && !hasForeignScript(item.reading), `${lesson.id}: invalid Sinhala pronunciation for ${item.word}`);
+    const headword=item.word.toLocaleLowerCase();
+    const stem=headword.replace(/\s+/gu," ").slice(0,Math.min(5,headword.length));
+    assert.ok(lessonText.includes(headword)||lessonText.includes(stem), `${lesson.id}: Serbian B2 headword is not present in its Serbian examples: ${item.word}`);
   }
 }
 
