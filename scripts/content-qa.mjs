@@ -128,7 +128,7 @@ function validateLessonNumbering(label, lessons) {
 // and to an actual named export. This catches missing files/export-name drift
 // before Expo bundling is attempted.
 const appSource = await readFile(new URL("../App.js", import.meta.url), "utf8");
-const relativeNamedImports = [...appSource.matchAll(/import\s*\{([\s\S]*?)\}\s*from\s*["']\\.\/([^"']+)["']/gu)];
+const relativeNamedImports = [...appSource.matchAll(/import\s*\{([\s\S]*?)\}\s*from\s*["']\.\/([^"']+)["']/gu)];
 assert.ok(relativeNamedImports.length > 0, "App.js: no relative named imports were discovered");
 const checkedAppImports = new Set();
 for (const match of relativeNamedImports) {
