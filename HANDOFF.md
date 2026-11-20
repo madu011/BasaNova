@@ -45,7 +45,39 @@
 - Use the navy/teal/gold visual identity and keep mobile-first UI.
 - AI Teacher is currently only a preview; do not imply it is a live AI tutor or speech-recognition feature until implemented.
 
-## Progress snapshot — 2026-11-18
+## Current verified state — 2026-11-20 (source-only continuation)
+
+**User instruction:** Continue implementing and updating source files only. Do not run an Expo export, Android build, APK build, or device build until the user explicitly asks. Fix and QA the app content/code first.
+
+### Course and app integration
+- The authored curriculum contains 50 Serbian + 50 English lessons at each of A1, A2, B1, B2, C1 and C2: 600 lesson records total. A1–C2 course data is imported and rendered in the Learn screen.
+- Added `a2FinalExams.js` as a pure assessment generator. It builds Serbian and English A2 mixed revision (10 questions each) and final exams (20 questions each) from the authored A2 vocabulary and listening exercises. Both are integrated into Learn with TTS replay, answer feedback, retry, and a 70% pass threshold.
+- B1/B2 Serbian assessment headwords are aligned with the actual Serbian course vocabulary and Sinhala meanings using `assessmentAlignment.js`; pronunciation and answer text are updated together.
+- Progress now shows completed lesson counts and percentages for each CEFR level, separately for Serbian and English. A lesson counts as complete only after its practice questions and listening exercise are checked.
+- A2–C2 final-exam submitted states are included in local AsyncStorage persistence. Language-switch resets are guarded so initial saved state is not erased during restore.
+- Source normalization was added for mixed-script Serbian A2/B1/B2 and C2 pronunciation data. It cleans Serbian vocabulary, example, dialogue, grammar and listening readings to the app's Sinhala-script learner format; English C2's mixed-script “peer review” reading was corrected.
+- README and `CONTENT_QA_REPORT.md` reflect the new A2 assessments, manual-only CI state, and source-only QA status.
+
+### Quality checks added
+- `scripts/content-qa.mjs` now checks 50 lessons in A1–C2 tracks, unique IDs/titles/content fingerprints, lesson fields, Sinhala readings, listening tasks, assessment question counts/options/answer indexes, A2 answer-to-course-vocabulary alignment, App.js relative named-import/export integrity, and Serbian B1/B2 vocabulary/assessment alignment.
+- The QA script has **not been executed** against the current commit. The prior Actions failures happened before a runner was allocated (`runner_id: 0`), so they do not prove the code passed or failed.
+- The **Expo validation** and **Android APK build** workflows are manual-only (`workflow_dispatch`). This avoids repeated automatic runner-allocation failures during source editing.
+- No build, Expo export, APK assembly, or physical-device test was run during this continuation. Do not claim error-free status until QA has passed; do not build until the user asks.
+
+### Latest relevant commits
+- A2 assessment generator and Learn integration: `2a0a93d6eabd1bba471c2c4e464ff21f4ccf9377`, `267143f6c4ae275debc46ad322c486160816651b`.
+- Progress UI and local exam-state persistence: `6ff13f4dab2ba4f7fca278e5f3b77e11267cbc8e`, `1062add4ced0d99ee3affef7b9e5be88dbc130e7`, `a846811cf9ea2ba260c9165fa11cbd38524e7422`.
+- Serbian vocabulary and assessment alignment: `d6e6e6715a5db1d3654531e575dddffb8abb8849`, `4a2957531830243135eae3820282abb68962c39c`, `74bcb3fe1d9c6d61bca688772f13e16cbd80863b`.
+- Pronunciation cleanup across A2/B1/B2/C2 and QA: `7b39dcadaef22612032cb9cd1fe8735cee69367d`, `e653c8efd3c9ec783d9296cb15180efae6850024`, `d8fbc0818302bfe220585cbf88d2681e57dac2b8`, `1cade6468426331aa6305a45a7be3cbffa4dbc45`, `2e13ef606167a3f61a3679f77a9718efdb86ee56`, `ab86b8020bed36fb4578c71c29f883fc430a94a2`, `eb0500c64abddbccd19927c9ba47bf8f8b5f82e3`.
+- QA and documentation: `20846dfb52563a09197b2c87ad16212c9b9e0cc4`, `cc95c04f4b1864880590b5d1b6370684b33e2ac5`, `e82effbe23455525335e0cbedcf30bf5f999a1b4`, `71df94aa579c589630f33e349ea86ac89d5fc1f1`.
+
+### Exact next task
+1. Continue source-only review of `App.js`, course normalization helpers and `scripts/content-qa.mjs`; check for runtime/syntax issues and QA assumptions.
+2. When a GitHub runner becomes available, run **only** `npm run qa:content` (not Expo export or APK build), fix every reported content/code error, and update this handoff.
+3. Continue UI/data correctness review. Keep Android build workflows untouched/manual-only until the user explicitly authorizes a build.
+
+## Historical progress snapshot — 2026-11-18 (superseded)
+
 
 **Estimated overall app completion: 50%.** This is a planning estimate of product scope completed, not a measured code percentage or a guarantee that every listed feature has passed device testing. Recalculate it when substantial features are implemented.
 
