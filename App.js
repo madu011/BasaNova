@@ -12,6 +12,7 @@ import { SERBIAN_A1_LISTENING, SERBIAN_A1_MIXED_REVISION } from "./serbianRevisi
 import { ENGLISH_A1_LESSONS } from "./englishLessons";
 import { SERBIAN_A1_FINAL_EXAM, ENGLISH_A1_FINAL_EXAM } from "./a1FinalExams";
 import { buildA2Assessments } from "./a2FinalExams";
+import { alignSerbianAssessmentWords } from "./assessmentAlignment";
 import { SERBIAN_A2_LESSONS } from "./serbianA2Lessons";
 import { ENGLISH_A2_LESSONS } from "./englishA2Lessons";
 const { SERBIAN_A2_MIXED_REVISION, ENGLISH_A2_MIXED_REVISION, SERBIAN_A2_FINAL_EXAM, ENGLISH_A2_FINAL_EXAM } = buildA2Assessments(SERBIAN_A2_LESSONS, ENGLISH_A2_LESSONS);
@@ -56,6 +57,11 @@ import { ENGLISH_C2_LESSONS_31_40 } from "./englishC2Lessons31_40";
 import { SERBIAN_C2_LESSONS_41_50 } from "./serbianC2Lessons41_50";
 import { ENGLISH_C2_LESSONS_41_50 } from "./englishC2Lessons41_50";
 import { SERBIAN_B2_FINAL_EXAM, ENGLISH_B2_FINAL_EXAM, SERBIAN_B2_MIXED_REVISION, ENGLISH_B2_MIXED_REVISION } from "./b2FinalExams";
+
+alignSerbianAssessmentWords(SERBIAN_B1_MIXED_REVISION, SERBIAN_B1_LESSONS);
+alignSerbianAssessmentWords(SERBIAN_B1_FINAL_EXAM, SERBIAN_B1_LESSONS);
+alignSerbianAssessmentWords(SERBIAN_B2_MIXED_REVISION, SERBIAN_B2_LESSONS);
+alignSerbianAssessmentWords(SERBIAN_B2_FINAL_EXAM, SERBIAN_B2_LESSONS);
 import { SERBIAN_B1_FINAL_EXAM, ENGLISH_B1_FINAL_EXAM, SERBIAN_B1_MIXED_REVISION, ENGLISH_B1_MIXED_REVISION } from "./b1FinalExams";
 import { SERBIAN_EXTRA_VOCAB, ENGLISH_EXTRA_VOCAB } from "./vocabularyPacks";
 import { SERBIAN_VOCAB_PACK_2, ENGLISH_VOCAB_PACK_2 } from "./vocabularyPack2";
