@@ -22,8 +22,14 @@ export function alignSerbianAssessmentWords(questions, lessons) {
       )
     );
     if (partial) {
+      const previousWord = question.word;
+      if (typeof question.prompt === "string" && previousWord !== partial.word) {
+        question.prompt = question.prompt.split(previousWord).join(partial.word);
+      }
       question.word = partial.word;
       question.wordReading = partial.reading;
+      question.options[question.answer] = partial.meaning;
+      question.explanation = partial.word + " = " + partial.meaning;
     }
   }
   return questions;
