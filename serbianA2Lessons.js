@@ -8745,7 +8745,7 @@ export const SERBIAN_A2_LESSONS = [
  
 // Keep Serbian A2 headwords and phrase readings in Serbian Latin + Sinhala script.
 // A few source entries contained accidental Cyrillic characters inside Sinhala readings.
-const _srA2SoundMap={"dž":"ජ්","lj":"ල්‍ය","nj":"න්‍ය","č":"ච්","ć":"ච්‍ය","đ":"ජ්‍ය","š":"ෂ්","ž":"ෂ්",a:"අ",b:"බ්",c:"ත්ස්",d:"ද්",e:"එ",f:"ෆ්",g:"ග්",h:"හ්",i:"ඉ",j:"ය්",k:"ක්",l:"ල්",m:"ම්",n:"න්",o:"ඔ",p:"ප්",r:"ර්",s:"ස්",t:"ත්",u:"උ",v:"ව්",z:"ස්"};
+const _srA2SoundMap={"dž":"ජ්","lj":"ල්‍ය","nj":"න්‍ය","č":"ච්","ć":"ච්‍ය","đ":"ජ්‍ය","š":"ෂ්","ž":"ෂ්",a:"අ",b:"බ්",c:"ත්ස්",d:"ද්",e:"එ",f:"ෆ්",g:"ග්",h:"හ්",i:"ඉ",j:"ය්",k:"ක්",l:"ල්",m:"ම්",n:"න්",o:"ඔ",p:"ප්",r:"ර්",s:"ස්",t:"ත්",u:"උ",v:"ව්",w:"ව්",x:"ක්ස්",y:"යි",q:"ක්",z:"ස්"};
 function _srA2Sinhala(value){const source=String(value||"").toLowerCase();let output="",index=0;while(index<source.length){const pair=source.slice(index,index+2);if(_srA2SoundMap[pair]){output+=_srA2SoundMap[pair];index+=2;continue;}const char=source[index];output+=_srA2SoundMap[char]??char;index++;}return output.replace(/[A-Za-zА-Яа-яЁёЂђЈјЉљЊњЋћЏџ]/gu,"");}
 function _srA2Clean(value){return /[ං-෴]/u.test(value||"")&&!/[A-Za-zА-Яа-яЁёЂђЈјЉљЊњЋћЏџ]/u.test(value||"");}
 for(const lesson of SERBIAN_A2_LESSONS){
