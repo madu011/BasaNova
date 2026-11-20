@@ -8927,6 +8927,6 @@ for(const lesson of SERBIAN_B1_LESSONS){
     for(const sentence of sentences){const tokens=String(sentence||"").match(/[A-Za-zČĆŽŠĐčćžšđ]+/gu)||[];for(let start=0;start<tokens.length;start++)for(let width=1;width<=3&&start+width<=tokens.length;width++)candidates.add(tokens.slice(start,start+width).join(" "));}
     let best=item.word,bestScore=Infinity;
     for(const candidate of candidates){const sound=_srB1Phonetic(candidate);if(!sound)continue;const score=_srB1Distance(target,sound)/Math.max(target.length,sound.length,1);if(score<bestScore){bestScore=score;best=candidate;}}
-    if(bestScore<0.72)item.word=best;
+    if(bestScore<1)item.word=best;
   }
 }
