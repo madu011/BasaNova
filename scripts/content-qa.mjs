@@ -147,6 +147,8 @@ const englishLessonStats = validateLessonTrack("English A1", englishLessons.ENGL
 validateLessonNumbering("Serbian A1", serbianLessons.SERBIAN_A1_LESSONS);
 validateLessonNumbering("English A1", englishLessons.ENGLISH_A1_LESSONS);
 assert.equal(serbianLessonStats.lessons, englishLessonStats.lessons, "Serbian and English A1 lesson counts must match");
+assert.equal(serbianLessonStats.lessons, 50, "Serbian A1: expected exactly 50 lessons");
+assert.equal(englishLessonStats.lessons, 50, "English A1: expected exactly 50 lessons");
 
 // Full course coverage: validate every paired A2–B2 track and all five C2 batches.
 // This reuses the same field, Sinhala-reading, practice-option and answer-index checks
