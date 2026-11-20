@@ -1,4 +1,4 @@
-import React, { createContext, useContext, useMemo, useState, useEffect } from "react";
+import React, { createContext, useContext, useMemo, useState, useEffect, useRef } from "react";
 import { View, Text, TouchableOpacity, ScrollView, StyleSheet, StatusBar, TextInput } from "react-native";
 import { SafeAreaProvider, SafeAreaView } from "react-native-safe-area-context";
 import * as Speech from "expo-speech";
@@ -475,7 +475,8 @@ export default function App(){
  const [b2ExamSubmitted,setB2ExamSubmitted]=useState(false);
  const [c1ExamSubmitted,setC1ExamSubmitted]=useState(false);
  const [c2ExamSubmitted,setC2ExamSubmitted]=useState(false);
- useEffect(()=>{setA2ExamSubmitted(false);setB1ExamSubmitted(false);setB2ExamSubmitted(false);setC1ExamSubmitted(false);setC2ExamSubmitted(false);},[language]);
+ const previousLanguage=useRef(null);
+ useEffect(()=>{if(previousLanguage.current!==null&&previousLanguage.current!==language){setA2ExamSubmitted(false);setB1ExamSubmitted(false);setB2ExamSubmitted(false);setC1ExamSubmitted(false);setC2ExamSubmitted(false);}previousLanguage.current=language;},[language]);
  const [lessonChecked,setLessonChecked]=useState({});
  const [expandedLessonId,setExpandedLessonId]=useState(SERBIAN_A1_LESSONS[0]?.id||null);
  const [missionDone,setMissionDone]=useState([]);
