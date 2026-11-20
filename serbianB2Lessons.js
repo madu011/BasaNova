@@ -9024,3 +9024,7 @@ for(const lesson of SERBIAN_B2_LESSONS){
   if(listening?.audio&&listening.reading&&!_srB2IsCleanSinhala(listening.reading))listening.reading=_srB2SinhalaReading(_srB2ToLatin(listening.audio));
   if(Array.isArray(listening?.readings))listening.readings=listening.readings.map(value=>_srB2IsCleanSinhala(value)?value:_srB2SinhalaReading(_srB2ToLatin(value)));
 }
+
+for(const lesson of SERBIAN_B2_LESSONS)for(const item of lesson.vocabulary||[]){
+  if(item.example&&item.exampleReading&&!_srB2IsCleanSinhala(item.exampleReading))item.exampleReading=_srB2SinhalaReading(_srB2ToLatin(item.example));
+}
