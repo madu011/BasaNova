@@ -342,16 +342,41 @@ validateA2Assessment("Serbian A2 final exam", a2Assessments.SERBIAN_A2_FINAL_EXA
 validateA2Assessment("English A2 final exam", a2Assessments.ENGLISH_A2_FINAL_EXAM, 20, "English", true);
 
 const b1Assessments = await loadModule("b1FinalExams.js");
+const assessmentAlignment = await loadModule("assessmentAlignment.js");
+const b1SerbianLessons = await loadModule("serbianB1Lessons.js");
+const b2SerbianLessons = await loadModule("serbianB2Lessons.js");
 validateQuestions("Serbian B1 mixed revision", b1Assessments.SERBIAN_B1_MIXED_REVISION, 10);
 validateQuestions("English B1 mixed revision", b1Assessments.ENGLISH_B1_MIXED_REVISION, 10);
 validateQuestions("Serbian B1 final exam", b1Assessments.SERBIAN_B1_FINAL_EXAM, 20);
 validateQuestions("English B1 final exam", b1Assessments.ENGLISH_B1_FINAL_EXAM, 20);
+
+
+assessmentAlignment.alignSerbianAssessmentWords(b1Assessments.SERBIAN_B1_MIXED_REVISION, b1SerbianLessons.SERBIAN_B1_LESSONS);
+assessmentAlignment.alignSerbianAssessmentWords(b1Assessments.SERBIAN_B1_FINAL_EXAM, b1SerbianLessons.SERBIAN_B1_LESSONS);
 
 const b2Assessments = await loadModule("b2FinalExams.js");
 validateQuestions("Serbian B2 mixed revision", b2Assessments.SERBIAN_B2_MIXED_REVISION, 10);
 validateQuestions("English B2 mixed revision", b2Assessments.ENGLISH_B2_MIXED_REVISION, 10);
 validateQuestions("Serbian B2 final exam", b2Assessments.SERBIAN_B2_FINAL_EXAM, 20);
 validateQuestions("English B2 final exam", b2Assessments.ENGLISH_B2_FINAL_EXAM, 20);
+
+assessmentAlignment.alignSerbianAssessmentWords(b2Assessments.SERBIAN_B2_MIXED_REVISION, b2SerbianLessons.SERBIAN_B2_LESSONS);
+assessmentAlignment.alignSerbianAssessmentWords(b2Assessments.SERBIAN_B2_FINAL_EXAM, b2SerbianLessons.SERBIAN_B2_LESSONS);
+function validateAlignedSerbianAssessment(label, questions, lessons) {
+  const vocabulary = new Map(lessons.flatMap(lesson => lesson.vocabulary.map(item => [item.word.toLocaleLowerCase(), item])));
+  for (const question of questions) {
+    if (!question.word) continue;
+    const item = vocabulary.get(question.word.toLocaleLowerCase());
+    assert.ok(item, `${label}: headword is missing from the Serbian course: ${question.word}`);
+    assert.equal(question.wordReading, item.reading, `${label}: pronunciation does not match ${question.word}`);
+    assert.equal(question.options[question.answer], item.meaning, `${label}: answer meaning does not match ${question.word}`);
+  }
+}
+validateAlignedSerbianAssessment("Serbian B1 mixed revision", b1Assessments.SERBIAN_B1_MIXED_REVISION, b1SerbianLessons.SERBIAN_B1_LESSONS);
+validateAlignedSerbianAssessment("Serbian B1 final exam", b1Assessments.SERBIAN_B1_FINAL_EXAM, b1SerbianLessons.SERBIAN_B1_LESSONS);
+validateAlignedSerbianAssessment("Serbian B2 mixed revision", b2Assessments.SERBIAN_B2_MIXED_REVISION, b2SerbianLessons.SERBIAN_B2_LESSONS);
+validateAlignedSerbianAssessment("Serbian B2 final exam", b2Assessments.SERBIAN_B2_FINAL_EXAM, b2SerbianLessons.SERBIAN_B2_LESSONS);
+
 
 const c2 = await loadModule(files.c2);
 validateQuestions("Serbian C2 mixed revision", c2.SERBIAN_C2_MIXED_REVISION, 10);
