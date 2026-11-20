@@ -59,7 +59,7 @@
 - README and `CONTENT_QA_REPORT.md` reflect the new A2 assessments, manual-only CI state, and source-only QA status.
 
 ### Quality checks added
-- `scripts/content-qa.mjs` now checks 50 lessons in A1–C2 tracks, unique IDs/titles/content fingerprints, lesson fields, Sinhala readings, listening tasks, assessment question counts/options/answer indexes, A2 answer-to-course-vocabulary alignment, App.js relative named-import/export integrity, and Serbian B1/B2 vocabulary/assessment alignment.
+- `scripts/content-qa.mjs` now checks 50 lessons in A1–C2 tracks, unique IDs/titles/content fingerprints, lesson fields, Sinhala readings (including Serbian diacritics), listening tasks, the Serbian A1 listening bank (25 items) and mixed revision (27 items), assessment question counts/options/answer indexes, A2 answer-to-course-vocabulary alignment, App.js relative named-import/export integrity, and Serbian B1/B2 vocabulary/assessment alignment.
 - The QA script has **not been executed** against the current commit. The prior Actions failures happened before a runner was allocated (`runner_id: 0`), so they do not prove the code passed or failed.
 - The **Expo validation** and **Android APK build** workflows are manual-only (`workflow_dispatch`). This avoids repeated automatic runner-allocation failures during source editing.
 - No build, Expo export, APK assembly, or physical-device test was run during this continuation. Do not claim error-free status until QA has passed; do not build until the user asks.
@@ -69,7 +69,7 @@
 - Progress UI and local exam-state persistence: `6ff13f4dab2ba4f7fca278e5f3b77e11267cbc8e`, `1062add4ced0d99ee3affef7b9e5be88dbc130e7`, `a846811cf9ea2ba260c9165fa11cbd38524e7422`.
 - Serbian vocabulary and assessment alignment: `d6e6e6715a5db1d3654531e575dddffb8abb8849`, `4a2957531830243135eae3820282abb68962c39c`, `74bcb3fe1d9c6d61bca688772f13e16cbd80863b`.
 - Pronunciation cleanup across A2/B1/B2/C2 and QA: `7b39dcadaef22612032cb9cd1fe8735cee69367d`, `e653c8efd3c9ec783d9296cb15180efae6850024`, `d8fbc0818302bfe220585cbf88d2681e57dac2b8`, `1cade6468426331aa6305a45a7be3cbffa4dbc45`, `2e13ef606167a3f61a3679f77a9718efdb86ee56`, `ab86b8020bed36fb4578c71c29f883fc430a94a2`, `eb0500c64abddbccd19927c9ba47bf8f8b5f82e3`.
-- QA and documentation: `20846dfb52563a09197b2c87ad16212c9b9e0cc4`, `cc95c04f4b1864880590b5d1b6370684b33e2ac5`, `e82effbe23455525335e0cbedcf30bf5f999a1b4`, `71df94aa579c589630f33e349ea86ac89d5fc1f1`.
+- QA and documentation: `20846dfb52563a09197b2c87ad16212c9b9e0cc4`, `cc95c04f4b1864880590b5d1b6370684b33e2ac5`, `9d4ac6d975e06d97e3ee442c40ca86e79246d46e`, `1f1c6e56c5168f9a17befdc20d4bbfed29541b94`, `003b19aabdd707a8f6f18613def645999d26ea80`, `71df94aa579c589630f33e349ea86ac89d5fc1f1`.
 
 ### Exact next task
 1. Continue source-only review of `App.js`, course normalization helpers and `scripts/content-qa.mjs`; check for runtime/syntax issues and QA assumptions.
