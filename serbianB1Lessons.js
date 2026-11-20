@@ -8907,7 +8907,7 @@ export default SERBIAN_B1_LESSONS;
 // The original B1 deck accidentally stored English glosses in the Serbian word field.
 // Recover the Serbian headword from the lesson's own Serbian example/dialogue text,
 // selecting the phrase whose Sinhala phonetic approximation best matches the authored reading.
-const _srB1SoundMap = { "dž":"ජ්","lj":"ල්‍ය","nj":"න්‍ය","č":"ච්","ć":"ච්‍ය","đ":"ජ්‍ය","š":"ෂ්","ž":"ෂ්",a:"අ",b:"බ්",c:"ත්ස්",d:"ද්",e:"එ",f:"ෆ්",g:"ග්",h:"හ්",i:"ඉ",j:"ය්",k:"ක්",l:"ල්",m:"ම්",n:"න්",o:"ඔ",p:"ප්",r:"ර්",s:"ස්",t:"ත්",u:"උ",v:"ව්",z:"ස්" };
+const _srB1SoundMap = { "dž":"ජ්","lj":"ල්‍ය","nj":"න්‍ය","č":"ච්","ć":"ච්‍ය","đ":"ජ්‍ය","š":"ෂ්","ž":"ෂ්",a:"අ",b:"බ්",c:"ත්ස්",d:"ද්",e:"එ",f:"ෆ්",g:"ග්",h:"හ්",i:"ඉ",j:"ය්",k:"ක්",l:"ල්",m:"ම්",n:"න්",o:"ඔ",p:"ප්",r:"ර්",s:"ස්",t:"ත්",u:"උ",v:"ව්",w:"ව්",x:"ක්ස්",y:"යි",q:"ක්",z:"ස්" };
 function _srB1Phonetic(value) {
   const source=String(value||"").toLowerCase();
   let output="",index=0;
