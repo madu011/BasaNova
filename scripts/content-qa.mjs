@@ -75,10 +75,20 @@ function validateLessonTrack(label, lessons) {
       assert.ok(typeof item.reading === "string" && item.reading.trim(), `${name} vocabulary ${i + 1}: missing Sinhala pronunciation`);
       assert.ok(/[ං-෴]/u.test(item.reading), `${name} vocabulary ${i + 1}: pronunciation is not Sinhala script`);
       assert.ok(!/[A-Za-zА-Яа-яЁё]/u.test(item.reading), `${name} vocabulary ${i + 1}: mixed-script pronunciation`);
+      if (item.exampleReading) {
+        assert.ok(hasSinhala(item.exampleReading) && !hasForeignScript(item.exampleReading), `${name} vocabulary ${i + 1}: invalid example pronunciation`);
+      }
     }
     for (const [i, example] of lesson.examples.entries()) {
       assert.ok((example.sr ?? example.text)?.trim(), `${name} example ${i + 1}: missing source sentence`);
       assert.ok((example.si ?? example.meaning)?.trim(), `${name} example ${i + 1}: missing Sinhala meaning`);
+    }
+    for (const group of [lesson.examples, lesson.dialogue, lesson.grammarTerms]) {
+      for (const line of group || []) {
+        if (line.reading) {
+          assert.ok(hasSinhala(line.reading) && !hasForeignScript(line.reading), `${name}: phrase pronunciation must use clean Sinhala script`);
+        }
+      }
     }
     for (const [i, line] of lesson.dialogue.entries()) {
       assert.ok((line.sr ?? line.text)?.trim(), `${name} dialogue ${i + 1}: missing source line`);
