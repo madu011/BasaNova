@@ -192,6 +192,28 @@ for (const level of ["A2", "B1", "B2", "C2"]) {
 
 
 
+
+const serbianB1Source = await loadModule("serbianB1Lessons.js");
+for (const lesson of serbianB1Source.SERBIAN_B1_LESSONS) {
+  const lessonText = [
+    ...(lesson.vocabulary || []).map(item => item.example),
+    ...(lesson.examples || []).map(item => item.sr || item.text),
+    ...(lesson.dialogue || []).map(item => item.sr || item.text),
+    ...(lesson.grammarTerms || []).map(item => item.sr || item.text),
+  ].join(" ").toLocaleLowerCase();
+  for (const item of lesson.vocabulary || []) {
+    assert.ok(lessonText.includes(item.word.toLocaleLowerCase()), `${lesson.id}: Serbian B1 headword is not present in its Serbian examples: ${item.word}`);
+    assert.ok(hasSinhala(item.reading) && !hasForeignScript(item.reading), `${lesson.id}: invalid Sinhala pronunciation for ${item.word}`);
+  }
+}
+const serbianB2Source = await loadModule("serbianB2Lessons.js");
+for (const lesson of serbianB2Source.SERBIAN_B2_LESSONS) {
+  for (const item of lesson.vocabulary || []) {
+    assert.ok(!/[А-Яа-яЁёЂђЈјЉљЊњЋћЏџ]/u.test(item.word), `${lesson.id}: Serbian B2 headword must use Latin script: ${item.word}`);
+    assert.ok(hasSinhala(item.reading) && !hasForeignScript(item.reading), `${lesson.id}: invalid Sinhala pronunciation for ${item.word}`);
+  }
+}
+
 const c1LessonFiles = [
   ["serbianC1Lessons.js","SERBIAN_C1_LESSONS","Serbian"],
   ["serbianC1Lessons11_20.js","SERBIAN_C1_LESSONS_11_20","Serbian"],
