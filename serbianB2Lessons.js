@@ -9001,3 +9001,13 @@ export const SERBIAN_B2_LESSONS = [
     ]
   }
 ];
+
+ 
+// B2 Serbian vocabulary was stored with English glosses as headwords and Serbian
+// Cyrillic in the reading field. Convert those headwords to Serbian Latin and provide
+// the Sinhala-script pronunciation format used consistently throughout BasaNova.
+const _srB2Cyrillic={а:"a",б:"b",в:"v",г:"g",д:"d",ђ:"đ",е:"e",ж:"ž",з:"z",и:"i",ј:"j",к:"k",л:"l",љ:"lj",м:"m",н:"n",њ:"nj",о:"o",п:"p",р:"r",с:"s",т:"t",ћ:"ć",у:"u",ф:"f",х:"h",ц:"c",ч:"č",џ:"dž",ш:"š"};
+function _srB2ToLatin(value){return Array.from(String(value||"").toLocaleLowerCase("sr")).map(char=>_srB2Cyrillic[char]??char).join("");}
+const _srB2SoundMap={"dž":"ජ්","lj":"ල්‍ය","nj":"න්‍ය","č":"ච්","ć":"ච්‍ය","đ":"ජ්‍ය","š":"ෂ්","ž":"ෂ්",a:"අ",b:"බ්",c:"ත්ස්",d:"ද්",e:"එ",f:"ෆ්",g:"ග්",h:"හ්",i:"ඉ",j:"ය්",k:"ක්",l:"ල්",m:"ම්",n:"න්",o:"ඔ",p:"ප්",r:"ර්",s:"ස්",t:"ත්",u:"උ",v:"ව්",z:"ස්"};
+function _srB2SinhalaReading(value){const source=String(value||"").toLocaleLowerCase("sr");let output="",index=0;while(index<source.length){const pair=source.slice(index,index+2);if(_srB2SoundMap[pair]){output+=_srB2SoundMap[pair];index+=2;continue;}const char=source[index];output+=_srB2SoundMap[char]??char;index++;}return output;}
+for(const lesson of SERBIAN_B2_LESSONS)for(const item of lesson.vocabulary||[]){if(/[А-Яа-яЁёЂђЈјЉљЊњЋћЏџ]/u.test(item.reading||"")){item.word=_srB2ToLatin(item.reading);item.reading=_srB2SinhalaReading(item.word);}}
