@@ -86,7 +86,8 @@ function validateLessonTrack(label, lessons) {
     for (const group of [lesson.examples, lesson.dialogue, lesson.grammarTerms]) {
       for (const line of group || []) {
         if (line.reading) {
-          assert.ok(hasSinhala(line.reading) && !hasForeignScript(line.reading), `${name}: phrase pronunciation must use clean Sinhala script`);
+          const pronunciation = line.reading.replace(/^[AB]:\\s*/u, "");
+          assert.ok(hasSinhala(pronunciation) && !hasForeignScript(pronunciation), `${name}: phrase pronunciation must use clean Sinhala script`);
         }
       }
     }
