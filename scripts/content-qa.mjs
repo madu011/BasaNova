@@ -18,7 +18,7 @@ function hasSinhala(value) {
 }
 
 function hasForeignScript(value) {
-  return /[A-Za-zА-Яа-яЁё]/u.test(value ?? "");
+  return /[A-Za-zА-Яа-яЁёČĆŽŠĐčćžšđ]/u.test(value ?? "");
 }
 
 function validateQuestions(label, questions, expectedCount, { pronunciation = false } = {}) {
@@ -74,7 +74,7 @@ function validateLessonTrack(label, lessons) {
       }
       assert.ok(typeof item.reading === "string" && item.reading.trim(), `${name} vocabulary ${i + 1}: missing Sinhala pronunciation`);
       assert.ok(/[ං-෴]/u.test(item.reading), `${name} vocabulary ${i + 1}: pronunciation is not Sinhala script`);
-      assert.ok(!/[A-Za-zА-Яа-яЁё]/u.test(item.reading), `${name} vocabulary ${i + 1}: mixed-script pronunciation`);
+      assert.ok(!/[A-Za-zА-Яа-яЁёČĆŽŠĐčćžšđ]/u.test(item.reading), `${name} vocabulary ${i + 1}: mixed-script pronunciation`);
       if (item.exampleReading) {
         assert.ok(hasSinhala(item.exampleReading) && !hasForeignScript(item.exampleReading), `${name} vocabulary ${i + 1}: invalid example pronunciation`);
       }
@@ -110,7 +110,7 @@ function validateLessonTrack(label, lessons) {
       assert.ok(readings.length === q.options?.length, `${name}: listening readings must match option count`);
       for (const reading of readings) {
         assert.ok(typeof reading === "string" && /[ං-෴]/u.test(reading), `${name}: listening pronunciation must use Sinhala script`);
-        assert.ok(!/[A-Za-zА-Яа-яЁё]/u.test(reading), `${name}: listening pronunciation contains mixed scripts`);
+        assert.ok(!/[A-Za-zА-Яа-яЁёČĆŽŠĐčćžšđ]/u.test(reading), `${name}: listening pronunciation contains mixed scripts`);
       }
       assert.ok(Array.isArray(q.options) && q.options.length >= 2, `${name}: missing listening options`);
       assert.equal(new Set(q.options).size, q.options.length, `${name}: duplicate listening options`);
