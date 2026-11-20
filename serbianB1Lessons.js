@@ -8924,6 +8924,8 @@ function _srB1Distance(a,b) {
 for(const lesson of SERBIAN_B1_LESSONS){
   const sentences=[...(lesson.vocabulary||[]).map(x=>x.example),...(lesson.examples||[]).map(x=>x.sr||x.text),...(lesson.dialogue||[]).map(x=>x.sr||x.text),...(lesson.grammarTerms||[]).map(x=>x.sr||x.text)];
   for(const item of lesson.vocabulary||[]){
+    if(/[A-Za-zČĆŽŠĐčćžšđ]/u.test(item.reading||"")&&!/[ං-෴]/u.test(item.reading||"")){item.word=item.reading;item.reading=_srB1Phonetic(item.word);continue;}
+    if(/[А-Яа-яЁёЂђЈјЉљЊњЋћЏџ]/u.test(item.reading||"")&&!/[ං-෴]/u.test(item.reading||"")){item.word=_srB1ToLatin(item.reading);item.reading=_srB1Phonetic(item.word);continue;}
     const target=_srB1Phonetic(_srB1ToLatin(item.reading));
     const candidates=new Set();
     for(const sentence of sentences){const tokens=String(sentence||"").match(/[A-Za-zČĆŽŠĐčćžšđ]+/gu)||[];for(let start=0;start<tokens.length;start++)for(let width=1;width<=3&&start+width<=tokens.length;width++)candidates.add(tokens.slice(start,start+width).join(" "));}
