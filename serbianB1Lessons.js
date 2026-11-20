@@ -8934,3 +8934,16 @@ for(const lesson of SERBIAN_B1_LESSONS){
     if(bestScore<1){item.word=best;if(/[А-Яа-яЁёЂђЈјЉљЊњЋћЏџ]/u.test(item.reading||""))item.reading=_srB1Phonetic(best);}
   }
 }
+
+function _srB1IsCleanSinhala(value){return /[ං-෴]/u.test(value||"")&&!/[A-Za-zА-Яа-яЁёЂђЈјЉљЊњЋћЏџ]/u.test(value||"");}
+for(const lesson of SERBIAN_B1_LESSONS){
+  for(const group of [lesson.examples,lesson.dialogue,lesson.grammarTerms]){
+    for(const line of group||[]){
+      const phrase=line.sr||line.text;
+      if(phrase&&line.reading&&!_srB1IsCleanSinhala(line.reading))line.reading=_srB1Phonetic(phrase.replace(/^[AB]:\s*/u,""));
+    }
+  }
+  const listening=lesson.listeningPractice;
+  if(listening?.audio&&listening.reading&&!_srB1IsCleanSinhala(listening.reading))listening.reading=_srB1Phonetic(listening.audio);
+  if(Array.isArray(listening?.readings))listening.readings=listening.readings.map(value=>_srB1IsCleanSinhala(value)?value:_srB1Phonetic(value));
+}
