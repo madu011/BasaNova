@@ -1631,3 +1631,22 @@ export const SERBIAN_C2_LESSONS_31_40 = [
     ]
   }
 ];
+
+ 
+// Repair mixed-script Sinhala pronunciation notes by regenerating them from the
+// corresponding Serbian source phrase. Serbian remains in Latin script in the UI.
+const _srC2SoundMap={"dž":"ජ්","lj":"ල්‍ය","nj":"න්‍ය","č":"ච්","ć":"ච්‍ය","đ":"ජ්‍ය","š":"ෂ්","ž":"ෂ්",a:"අ",b:"බ්",c:"ත්ස්",d:"ද්",e:"එ",f:"ෆ්",g:"ග්",h:"හ්",i:"ඉ",j:"ය්",k:"ක්",l:"ල්",m:"ම්",n:"න්",o:"ඔ",p:"ප්",r:"ර්",s:"ස්",t:"ත්",u:"උ",v:"ව්",z:"ස්"};
+function _srC2Sinhala(value){const source=String(value||"").toLowerCase();let output="",index=0;while(index<source.length){const pair=source.slice(index,index+2);if(_srC2SoundMap[pair]){output+=_srC2SoundMap[pair];index+=2;continue;}const char=source[index];output+=_srC2SoundMap[char]??char;index++;}return output;}
+function _srC2Clean(value){return /[ං-෴]/u.test(value||"")&&!/[A-Za-zА-Яа-яЁёЂђЈјЉљЊњЋћЏџ]/u.test(value||"");}
+for(const lesson of SERBIANC2LESSONS31_40||[]){
+ for(const item of lesson.vocabulary||[]){
+  if(item.word&&item.reading&&!_srC2Clean(item.reading))item.reading=_srC2Sinhala(item.word);
+  if(item.example&&item.exampleReading&&!_srC2Clean(item.exampleReading))item.exampleReading=_srC2Sinhala(item.example);
+ }
+ for(const group of [lesson.examples,lesson.dialogue,lesson.grammarTerms]){
+  for(const line of group||[]){const phrase=line.sr||line.text;if(phrase&&line.reading&&!_srC2Clean(line.reading))line.reading=_srC2Sinhala(phrase);}
+ }
+ const listening=lesson.listeningPractice;
+ if(listening?.audio&&listening.reading&&!_srC2Clean(listening.reading))listening.reading=_srC2Sinhala(listening.audio);
+ if(Array.isArray(listening?.readings))listening.readings=listening.readings.map(value=>_srC2Clean(value)?value:_srC2Sinhala(value));
+}
