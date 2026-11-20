@@ -128,6 +128,46 @@ validateLessonNumbering("Serbian A1", serbianLessons.SERBIAN_A1_LESSONS);
 validateLessonNumbering("English A1", englishLessons.ENGLISH_A1_LESSONS);
 assert.equal(serbianLessonStats.lessons, englishLessonStats.lessons, "Serbian and English A1 lesson counts must match");
 
+// Full course coverage: validate every paired A2–B2 track and all five C2 batches.
+// This reuses the same field, Sinhala-reading, practice-option and answer-index checks
+// used for A1, so a level cannot be marked complete from lesson counts alone.
+async function loadPairedTrack(label, files, exportNames) {
+  const lessons = [];
+  for (let i = 0; i < files.length; i++) {
+    const mod = await loadModule(files[i]);
+    const batch = mod[exportNames[i]];
+    assert.ok(Array.isArray(batch), `${label}: missing export ${exportNames[i]} in ${files[i]}`);
+    lessons.push(...batch);
+  }
+  const stats = validateLessonTrack(label, lessons);
+  assert.equal(stats.lessons, 50, `${label}: expected exactly 50 lessons`);
+  const titles = lessons.map(item => item.title.trim().toLocaleLowerCase());
+  assert.equal(new Set(titles).size, 50, `${label}: duplicate lesson titles detected`);
+  return { lessons, stats };
+}
+
+const pairedLevels = [
+  ["Serbian A2", ["serbianA2Lessons.js"], ["SERBIAN_A2_LESSONS"]],
+  ["English A2", ["englishA2Lessons.js"], ["ENGLISH_A2_LESSONS"]],
+  ["Serbian B1", ["serbianB1Lessons.js"], ["SERBIAN_B1_LESSONS"]],
+  ["English B1", ["englishB1Lessons.js"], ["ENGLISH_B1_LESSONS"]],
+  ["Serbian B2", ["serbianB2Lessons.js"], ["SERBIAN_B2_LESSONS"]],
+  ["English B2", ["englishB2Lessons.js"], ["ENGLISH_B2_LESSONS"]],
+  ["Serbian C2", ["serbianC2Lessons.js","serbianC2Lessons11_20.js","serbianC2Lessons21_30.js","serbianC2Lessons31_40.js","serbianC2Lessons41_50.js"], ["SERBIAN_C2_LESSONS","SERBIAN_C2_LESSONS_11_20","SERBIAN_C2_LESSONS_21_30","SERBIAN_C2_LESSONS_31_40","SERBIAN_C2_LESSONS_41_50"]],
+  ["English C2", ["englishC2Lessons.js","englishC2Lessons11_20.js","englishC2Lessons21_30.js","englishC2Lessons31_40.js","englishC2Lessons41_50.js"], ["ENGLISH_C2_LESSONS","ENGLISH_C2_LESSONS_11_20","ENGLISH_C2_LESSONS_21_30","ENGLISH_C2_LESSONS_31_40","ENGLISH_C2_LESSONS_41_50"]],
+];
+const courseStats = {};
+for (const [label, files, names] of pairedLevels) {
+  const result = await loadPairedTrack(label, files, names);
+  courseStats[label] = result.stats;
+}
+for (const level of ["A2", "B1", "B2", "C2"]) {
+  const sr = courseStats[`Serbian ${level}`];
+  const en = courseStats[`English ${level}`];
+  assert.equal(sr.lessons, en.lessons, `${level}: Serbian and English lesson counts differ`);
+}
+
+
 
 const c1LessonFiles = [
   ["serbianC1Lessons.js","SERBIAN_C1_LESSONS","Serbian"],
@@ -224,4 +264,4 @@ validateQuestions("Serbian C2 final exam", c2.SERBIAN_C2_FINAL_EXAM, 20, { pronu
 validateQuestions("English C2 final exam", c2.ENGLISH_C2_FINAL_EXAM, 20, { pronunciation: true });
 
 console.log("Content QA passed.");
-console.log({ serbianLessonStats, englishLessonStats, serbianC1Stats, englishC1Stats });
+console.log({ serbianLessonStats, englishLessonStats, courseStats, serbianC1Stats, englishC1Stats });
