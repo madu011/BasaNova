@@ -11,6 +11,7 @@ import { SERBIAN_A1_LESSONS } from "./serbianLessons";
 import { SERBIAN_A1_LISTENING, SERBIAN_A1_MIXED_REVISION } from "./serbianRevision";
 import { ENGLISH_A1_LESSONS } from "./englishLessons";
 import { SERBIAN_A1_FINAL_EXAM, ENGLISH_A1_FINAL_EXAM } from "./a1FinalExams";
+import { SERBIAN_A2_MIXED_REVISION, ENGLISH_A2_MIXED_REVISION, SERBIAN_A2_FINAL_EXAM, ENGLISH_A2_FINAL_EXAM } from "./a2FinalExams";
 import { SERBIAN_A2_LESSONS } from "./serbianA2Lessons";
 import { ENGLISH_A2_LESSONS } from "./englishA2Lessons";
 import { SERBIAN_B1_LESSONS } from "./serbianB1Lessons";
@@ -469,11 +470,12 @@ export default function App(){
  const C=PALETTES[theme];
  const s=useMemo(()=>makeStyles(C),[theme]);
  const [lessonAnswers,setLessonAnswers]=useState({});
+ const [a2ExamSubmitted,setA2ExamSubmitted]=useState(false);
  const [b1ExamSubmitted,setB1ExamSubmitted]=useState(false);
  const [b2ExamSubmitted,setB2ExamSubmitted]=useState(false);
  const [c1ExamSubmitted,setC1ExamSubmitted]=useState(false);
  const [c2ExamSubmitted,setC2ExamSubmitted]=useState(false);
- useEffect(()=>{setB1ExamSubmitted(false);setB2ExamSubmitted(false);setC1ExamSubmitted(false);setC2ExamSubmitted(false);},[language]);
+ useEffect(()=>{setA2ExamSubmitted(false);setB1ExamSubmitted(false);setB2ExamSubmitted(false);setC1ExamSubmitted(false);setC2ExamSubmitted(false);},[language]);
  const [lessonChecked,setLessonChecked]=useState({});
  const [expandedLessonId,setExpandedLessonId]=useState(SERBIAN_A1_LESSONS[0]?.id||null);
  const [missionDone,setMissionDone]=useState([]);
@@ -838,6 +840,17 @@ export default function App(){
       </View>}
      </View>
     })}
+    <View style={s.quizCard}>
+     <Text style={s.lessonHeading}>🔁 A2 · පාඩම් 50ම මිශ්‍ර නැවත පුහුණුව</Text>
+     <Text style={s.sub}>A2 පාඩම්වල වචන සහ සවන් දීමේ අභ්‍යාස එකට නැවත බලන්න.</Text>
+     {(language==="Serbian"?SERBIAN_A2_MIXED_REVISION:ENGLISH_A2_MIXED_REVISION).map((q,qi)=>{const key="a2-revision-"+language+"-"+qi,selected=lessonAnswers[key],checked=lessonChecked[key];return <View key={q.id} style={s.quizCard}><Text style={s.eyebrow}>{qi+1}/10 · {q.type==="listening"?"🎧 LISTENING":"📚 VOCABULARY"}</Text><Text style={s.sub}>{q.prompt}</Text>{q.audio?<><Text style={s.lessonSerbian}>{q.audio}</Text><Text style={s.sound}>සිංහල උච්චාරණය: {q.reading}</Text><TouchableOpacity onPress={()=>speak(q.audio,language)}><Text style={s.link}>🔊 නැවත අහන්න</Text></TouchableOpacity></>:<><Text style={s.lessonSerbian}>{q.word}</Text><Text style={s.sound}>සිංහල උච්චාරණය: {q.wordReading}</Text><TouchableOpacity onPress={()=>speak(q.word,language)}><Text style={s.link}>🔊 වචනය අහන්න</Text></TouchableOpacity></>}{q.options.map((option,oi)=><TouchableOpacity key={q.id+"-"+oi} disabled={!!checked} onPress={()=>setLessonAnswers(v=>({...v,[key]:oi}))} style={[s.quizOption,selected===oi&&s.quizSelected,checked&&oi===q.answer&&s.quizCorrect,checked&&selected===oi&&selected!==q.answer&&s.quizWrong]}><Text style={s.quizOptionText}>{String.fromCharCode(65+oi)}. {option}</Text></TouchableOpacity>)}{checked?<><Text style={s.sub}>{selected===q.answer?"නිවැරදියි! ✓ ":"නැවත පුහුණු වෙමු. "}{q.explanation}</Text>{selected!==q.answer&&<TouchableOpacity onPress={()=>{setLessonAnswers(v=>({...v,[key]:undefined}));setLessonChecked(v=>({...v,[key]:false}));}} style={s.action}><Text style={s.actionText}>↻ නැවත උත්සාහ කරන්න</Text></TouchableOpacity>}</>:<TouchableOpacity disabled={selected===undefined} onPress={()=>setLessonChecked(v=>({...v,[key]:true}))} style={[s.action,selected===undefined&&{opacity:0.45}]}><Text style={s.actionText}>පිළිතුර පරීක්ෂා කරන්න</Text></TouchableOpacity>}</View>})}
+    </View>
+    <View style={s.quizCard}>
+     <Text style={s.lessonHeading}>🏆 A2 · අවසාන පරීක්ෂණය</Text>
+     <Text style={s.sub}>ප්‍රශ්න 20ක්: වචන 14ක් සහ සවන් දීමේ ප්‍රශ්න 6ක්. 70% හෝ ඊට වැඩි ලකුණු ඉලක්ක කරගන්න.</Text>
+     {(language==="Serbian"?SERBIAN_A2_FINAL_EXAM:ENGLISH_A2_FINAL_EXAM).map((q,qi)=>{const key="a2-final-"+language+"-"+qi,selected=lessonAnswers[key];return <View key={q.id} style={s.quizCard}><Text style={s.eyebrow}>{qi+1}/20 · {q.type==="listening"?"🎧 LISTENING":"📚 VOCABULARY"}</Text><Text style={s.sub}>{q.prompt}</Text>{q.audio?<><Text style={s.lessonSerbian}>{q.audio}</Text><Text style={s.sound}>සිංහල උච්චාරණය: {q.reading}</Text><TouchableOpacity onPress={()=>speak(q.audio,language)} style={s.action}><Text style={s.actionText}>🔊 නැවත අහන්න</Text></TouchableOpacity></>:<><Text style={s.lessonSerbian}>{q.word}</Text><Text style={s.sound}>සිංහල උච්චාරණය: {q.wordReading}</Text><TouchableOpacity onPress={()=>speak(q.word,language)}><Text style={s.link}>🔊 වචනය අහන්න</Text></TouchableOpacity></>}{q.options.map((option,oi)=><TouchableOpacity key={q.id+"-"+oi} disabled={a2ExamSubmitted} onPress={()=>setLessonAnswers(v=>({...v,[key]:oi}))} style={[s.quizOption,selected===oi&&s.quizSelected,a2ExamSubmitted&&oi===q.answer&&s.quizCorrect,a2ExamSubmitted&&selected===oi&&selected!==q.answer&&s.quizWrong]}><Text style={s.quizOptionText}>{String.fromCharCode(65+oi)}. {option}</Text></TouchableOpacity>)}{a2ExamSubmitted&&<Text style={s.sub}>{selected===q.answer?"නිවැරදියි! ✓ ":"නිවැරදි පිළිතුර: "}{q.explanation}</Text>}</View>})}
+     {a2ExamSubmitted?<><Text style={s.cardTitle}>ලකුණු: {(language==="Serbian"?SERBIAN_A2_FINAL_EXAM:ENGLISH_A2_FINAL_EXAM).filter((q,qi)=>lessonAnswers["a2-final-"+language+"-"+qi]===q.answer).length}/20 · {Math.round((language==="Serbian"?SERBIAN_A2_FINAL_EXAM:ENGLISH_A2_FINAL_EXAM).filter((q,qi)=>lessonAnswers["a2-final-"+language+"-"+qi]===q.answer).length/20*100)}%</Text><Text style={s.sub}>{(language==="Serbian"?SERBIAN_A2_FINAL_EXAM:ENGLISH_A2_FINAL_EXAM).filter((q,qi)=>lessonAnswers["a2-final-"+language+"-"+qi]===q.answer).length>=14?"🎉 70% සීමාව සමත්!":"තව පුහුණු වී නැවත උත්සාහ කරන්න."}</Text><TouchableOpacity onPress={()=>{setLessonAnswers(v=>{const n={...v};for(let i=0;i<20;i++)delete n["a2-final-"+language+"-"+i];return n;});setA2ExamSubmitted(false);}} style={s.action}><Text style={s.actionText}>🔄 නැවත පරීක්ෂණය කරන්න</Text></TouchableOpacity></>:<TouchableOpacity onPress={()=>setA2ExamSubmitted(true)} disabled={(language==="Serbian"?SERBIAN_A2_FINAL_EXAM:ENGLISH_A2_FINAL_EXAM).some((q,qi)=>lessonAnswers["a2-final-"+language+"-"+qi]===undefined)} style={[s.action,(language==="Serbian"?SERBIAN_A2_FINAL_EXAM:ENGLISH_A2_FINAL_EXAM).some((q,qi)=>lessonAnswers["a2-final-"+language+"-"+qi]===undefined)&&{opacity:0.45}]}><Text style={s.actionText}>පිළිතුරු සියල්ල පරීක්ෂා කරන්න</Text></TouchableOpacity>}
+    </View>
    </View>
    <View style={s.panel}>
     <Text style={s.eyebrow}>B1 · NEXT LEVEL</Text>
