@@ -1,8 +1,5 @@
 // Paired A2 revision and final assessments, built from the authored A2 lesson vocabulary
 // and listening tasks so exam content stays aligned with the course rather than duplicating lessons.
-import { SERBIAN_A2_LESSONS } from "./serbianA2Lessons";
-import { ENGLISH_A2_LESSONS } from "./englishA2Lessons";
-
 function collectVocabulary(lessons) {
   const seen = new Set();
   return lessons.flatMap(lesson => lesson.vocabulary || []).filter(item => {
@@ -71,7 +68,11 @@ function buildAssessment(lessons, count, prefix) {
   return selected;
 }
 
-export const SERBIAN_A2_MIXED_REVISION = buildAssessment(SERBIAN_A2_LESSONS, 10, "a2-sr-revision");
-export const ENGLISH_A2_MIXED_REVISION = buildAssessment(ENGLISH_A2_LESSONS, 10, "a2-en-revision");
-export const SERBIAN_A2_FINAL_EXAM = buildAssessment(SERBIAN_A2_LESSONS, 20, "a2-sr-final");
-export const ENGLISH_A2_FINAL_EXAM = buildAssessment(ENGLISH_A2_LESSONS, 20, "a2-en-final");
+export function buildA2Assessments(serbianLessons, englishLessons) {
+  return {
+    SERBIAN_A2_MIXED_REVISION: buildAssessment(serbianLessons, 10, "a2-sr-revision"),
+    ENGLISH_A2_MIXED_REVISION: buildAssessment(englishLessons, 10, "a2-en-revision"),
+    SERBIAN_A2_FINAL_EXAM: buildAssessment(serbianLessons, 20, "a2-sr-final"),
+    ENGLISH_A2_FINAL_EXAM: buildAssessment(englishLessons, 20, "a2-en-final")
+  };
+}
