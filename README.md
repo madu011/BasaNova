@@ -1,12 +1,12 @@
 # BasaNova
 
-## Current project snapshot — 2026-11-19
+## Current project snapshot — 2026-11-20
 
 - **Learning content authoring:** 50 Serbian + 50 English lessons in each of A1, A2, B1, B2, C1 and C2 (600 authored lesson records total). This is content completion, not CEFR certification.
-- **Assessments:** paired revision/final practice assessments are integrated for A1, B1, B2, C1 and C2; confirm the A2 assessment coverage during the next content audit.
+- **Assessments:** paired revision and final practice assessments are integrated for all six levels A1–C2. A2 has a 10-question mixed revision and a 20-question final exam per language, generated from the A2 course vocabulary and listening tasks.
 - **Android packaging:** the APK workflow now builds a standalone release variant rather than a Metro-dependent debug APK. The latest safe-area/layout changes still need a fresh successful build and physical-device verification.
 - **Layout:** Android safe-area insets, visible status bar, responsive content width and compact bottom navigation have been updated; verify on real devices before marking complete.
-- **Remaining quality work:** full A1–C2 content and answer-alignment QA, fluent Serbian/English review, Sinhala pronunciation review, responsive UI testing, persistence checks, and final release/device validation.
+- **Remaining quality work:** run the expanded content QA on an available GitHub runner, review Serbian B1/B2 vocabulary normalization, complete fluent Serbian/English and Sinhala pronunciation review, test persistence and responsive UI, and finish final release/device validation.
 
 
 **Learn Languages. Speak with Confidence.**
@@ -50,12 +50,12 @@ npx expo start
 Open the project with Expo Go on Android to preview it.
 
 ## Roadmap
-1. Continue building Serbian and English curricula in parallel, matching topics and learning depth at each CEFR level.
-2. Expand both curricula from A1 through A2, B1, B2, C1 and C2 with practical conversations, grammar, listening, speaking, reading and writing.
+1. Finish full-course QA and answer alignment for the authored Serbian and English A1–C2 tracks.
+2. Review Serbian and English content with fluent speakers and refine Sinhala pronunciation guides.
 3. Add speech recognition and speaking feedback.
-4. Add secure AI tutor backend and adaptive lesson generation.
+4. Add a secure AI tutor backend and adaptive lesson generation.
 5. Add Supabase authentication, cloud progress sync, and user profiles.
-6. Add offline lesson packs, accessibility, and automated tests.
+6. Add offline lesson packs, accessibility, and expanded automated UI tests.
 
 ## Important
 The current AI Teacher screen is a clearly labelled preview; no live AI service is connected yet. Text-to-speech uses voices available on the device, so voice availability and quality depend on installed system voices.
@@ -65,7 +65,7 @@ Created by **Madhuranga Yasanath**.
 
 
 ## Automated validation
-GitHub Actions runs dependency installation, Expo SDK compatibility checks, and an Android JavaScript bundle export on pushes and pull requests to `main`. The **Android APK build** workflow generates the native Android project, assembles a standalone release-variant APK with the JavaScript bundle packaged inside, verifies the APK file, and uploads `basanova-android-release-apk`. CI generates a temporary lockfile because the repository does not yet commit `package-lock.json`. See [`BUILD.md`](./BUILD.md) for APK download and installation steps. A successful workflow, available artifact, and physical-device startup test are all required before treating the APK as verified.
+The **Expo validation** and **Android APK build** workflows are currently manual-only (`workflow_dispatch`) so ordinary source-file updates do not trigger repeated runner allocation failures. The APK workflow remains configured to generate the native Android project, assemble a standalone release-variant APK, verify it and upload `basanova-android-release-apk`; it has not been run during this source-only completion phase. CI generates a temporary lockfile because the repository does not yet commit `package-lock.json`. See [`BUILD.md`](./BUILD.md) for the eventual APK build and installation steps. A successful QA run, successful APK artifact and physical-device startup test are all required before treating the app as verified.
 
 
 ### English A1 lesson 3 — Numbers and time
