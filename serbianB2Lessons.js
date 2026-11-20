@@ -9011,3 +9011,16 @@ function _srB2ToLatin(value){return Array.from(String(value||"").toLowerCase()).
 const _srB2SoundMap={"dž":"ජ්","lj":"ල්‍ය","nj":"න්‍ය","č":"ච්","ć":"ච්‍ය","đ":"ජ්‍ය","š":"ෂ්","ž":"ෂ්",a:"අ",b:"බ්",c:"ත්ස්",d:"ද්",e:"එ",f:"ෆ්",g:"ග්",h:"හ්",i:"ඉ",j:"ය්",k:"ක්",l:"ල්",m:"ම්",n:"න්",o:"ඔ",p:"ප්",r:"ර්",s:"ස්",t:"ත්",u:"උ",v:"ව්",z:"ස්"};
 function _srB2SinhalaReading(value){const source=String(value||"").toLowerCase();let output="",index=0;while(index<source.length){const pair=source.slice(index,index+2);if(_srB2SoundMap[pair]){output+=_srB2SoundMap[pair];index+=2;continue;}const char=source[index];output+=_srB2SoundMap[char]??char;index++;}return output;}
 for(const lesson of SERBIAN_B2_LESSONS)for(const item of lesson.vocabulary||[]){if(/[А-Яа-яЁёЂђЈјЉљЊњЋћЏџ]/u.test(item.reading||"")){item.word=_srB2ToLatin(item.reading);item.reading=_srB2SinhalaReading(item.word);}else if(/[A-Za-zČĆŽŠĐčćžšđ]/u.test(item.reading||"")&&!/[ං-෴]/u.test(item.reading||"")){item.word=item.reading;item.reading=_srB2SinhalaReading(item.word);}}
+
+function _srB2IsCleanSinhala(value){return /[ං-෴]/u.test(value||"")&&!/[A-Za-zА-Яа-яЁёЂђЈјЉљЊњЋћЏџ]/u.test(value||"");}
+for(const lesson of SERBIAN_B2_LESSONS){
+  for(const group of [lesson.examples,lesson.dialogue,lesson.grammarTerms]){
+    for(const line of group||[]){
+      const phrase=line.sr||line.text;
+      if(phrase&&line.reading&&!_srB2IsCleanSinhala(line.reading))line.reading=_srB2SinhalaReading(_srB2ToLatin(phrase));
+    }
+  }
+  const listening=lesson.listeningPractice;
+  if(listening?.audio&&listening.reading&&!_srB2IsCleanSinhala(listening.reading))listening.reading=_srB2SinhalaReading(_srB2ToLatin(listening.audio));
+  if(Array.isArray(listening?.readings))listening.readings=listening.readings.map(value=>_srB2IsCleanSinhala(value)?value:_srB2SinhalaReading(_srB2ToLatin(value)));
+}
