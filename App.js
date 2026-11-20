@@ -476,8 +476,6 @@ export default function App(){
  const [b2ExamSubmitted,setB2ExamSubmitted]=useState(false);
  const [c1ExamSubmitted,setC1ExamSubmitted]=useState(false);
  const [c2ExamSubmitted,setC2ExamSubmitted]=useState(false);
- const previousLanguage=useRef(null);
- useEffect(()=>{if(previousLanguage.current!==null&&previousLanguage.current!==language){setA2ExamSubmitted(false);setB1ExamSubmitted(false);setB2ExamSubmitted(false);setC1ExamSubmitted(false);setC2ExamSubmitted(false);}previousLanguage.current=language;},[language]);
  const [lessonChecked,setLessonChecked]=useState({});
  const [expandedLessonId,setExpandedLessonId]=useState(SERBIAN_A1_LESSONS[0]?.id||null);
  const [missionDone,setMissionDone]=useState([]);
@@ -485,6 +483,8 @@ export default function App(){
 
  const completeMission=i=>{if(!missionDone.includes(i)){setMissionDone(v=>[...v,i]);setXp(v=>v+10);}};
  const [language,setLanguage]=useState(null),[tab,setTab]=useState("home"),[index,setIndex]=useState(0),[learned,setLearned]=useState({Serbian:[],English:[]}),[dialogIndex,setDialogIndex]=useState(0),[lineIndex,setLineIndex]=useState(0),[showSlang,setShowSlang]=useState(false),[adultLanguageAccess,setAdultLanguageAccess]=useState(false),[studyGuideOpen,setStudyGuideOpen]=useState(true);
+ const previousLanguage=useRef(null);
+ useEffect(()=>{if(previousLanguage.current!==null&&previousLanguage.current!==language){setA2ExamSubmitted(false);setB1ExamSubmitted(false);setB2ExamSubmitted(false);setC1ExamSubmitted(false);setC2ExamSubmitted(false);}previousLanguage.current=language;},[language]);
  const [translateInput,setTranslateInput]=useState(""),[translateOutput,setTranslateOutput]=useState(""),[translateLoading,setTranslateLoading]=useState(false),[translateError,setTranslateError]=useState(""),[translateHistory,setTranslateHistory]=useState([]),[translateCopied,setTranslateCopied]=useState(false);
  const [vocabSearch,setVocabSearch]=useState("");
  const [vocabLetter,setVocabLetter]=useState("ALL");
