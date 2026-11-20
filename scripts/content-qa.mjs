@@ -282,7 +282,7 @@ validateQuestions("English A1 final exam", a1.ENGLISH_A1_FINAL_EXAM, 20, { pronu
 
 
 
-const a2Assessments = await loadModule("a2FinalExams.js");
+const a2Assessments = await import(new URL("../a2FinalExams.js", import.meta.url));
 const serbianA2Lessons = await loadModule("serbianA2Lessons.js");
 const englishA2Lessons = await loadModule("englishA2Lessons.js");
 const a2Vocabulary = {
