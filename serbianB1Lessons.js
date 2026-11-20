@@ -8920,7 +8920,7 @@ function _srB1Distance(a,b) {
   return row[b.length];
 }
 for(const lesson of SERBIAN_B1_LESSONS){
-  const sentences=[...(lesson.examples||[]).map(x=>x.sr||x.text),...(lesson.dialogue||[]).map(x=>x.sr||x.text),...(lesson.grammarTerms||[]).map(x=>x.sr||x.text)];
+  const sentences=[...(lesson.vocabulary||[]).map(x=>x.example),...(lesson.examples||[]).map(x=>x.sr||x.text),...(lesson.dialogue||[]).map(x=>x.sr||x.text),...(lesson.grammarTerms||[]).map(x=>x.sr||x.text)];
   for(const item of lesson.vocabulary||[]){
     const target=_srB1Phonetic(item.reading);
     const candidates=new Set();
