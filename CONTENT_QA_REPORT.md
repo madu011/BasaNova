@@ -134,3 +134,6 @@ GitHub Actions Android debug APK build run [44552002628](https://github.com/madu
 
 - Extended assessment checks to both B1 and B2: 10-question mixed revisions and 20-question final exams per language, including duplicate option and answer-index validation.
 - Latest QA extension commit: `7802bc8ec6a7a7ee4036c1a885328aa1d648f94b`.
+
+- Paused automatic push-triggered Expo validation and Android APK builds. Both workflows are now manual-only (`workflow_dispatch`) so normal source/documentation updates do not repeatedly consume Actions runs while the account's runner-allocation restriction is unresolved. Re-enable or manually run validation/build after the account restriction is cleared.
+- The latest failed Actions jobs returned `runner_id: 0` with no steps and no runner logs. This is a runner-allocation failure, not evidence that the newly expanded QA script or app source passed or failed. Current-main validation remains unverified.
