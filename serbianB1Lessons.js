@@ -8947,3 +8947,7 @@ for(const lesson of SERBIAN_B1_LESSONS){
   if(listening?.audio&&listening.reading&&!_srB1IsCleanSinhala(listening.reading))listening.reading=_srB1Phonetic(listening.audio);
   if(Array.isArray(listening?.readings))listening.readings=listening.readings.map(value=>_srB1IsCleanSinhala(value)?value:_srB1Phonetic(value));
 }
+
+for(const lesson of SERBIAN_B1_LESSONS)for(const item of lesson.vocabulary||[]){
+  if(item.example&&item.exampleReading&&!_srB1IsCleanSinhala(item.exampleReading))item.exampleReading=_srB1Phonetic(item.example);
+}
