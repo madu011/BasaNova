@@ -153,6 +153,22 @@ for (const match of relativeNamedImports) {
   checkedAppImports.add(modulePath);
 }
 
+
+const serbianRevision = await loadModule("serbianRevision.js");
+function validateAudioSet(label, questions, expectedCount) {
+  assert.equal(Array.isArray(questions), true, `${label}: expected an array`);
+  assert.equal(questions.length, expectedCount, `${label}: unexpected question count`);
+  for (const [index, question] of questions.entries()) {
+    assert.ok(typeof question.audio === "string" && question.audio.trim(), `${label} #${index + 1}: missing audio text`);
+    assert.ok(hasSinhala(question.reading) && !hasForeignScript(question.reading), `${label} #${index + 1}: invalid Sinhala pronunciation`);
+    assert.ok(Array.isArray(question.options) && question.options.length >= 2, `${label} #${index + 1}: missing options`);
+    assert.equal(new Set(question.options).size, question.options.length, `${label} #${index + 1}: duplicate options`);
+    assert.ok(Number.isInteger(question.answer) && question.answer >= 0 && question.answer < question.options.length, `${label} #${index + 1}: invalid answer index`);
+  }
+}
+validateAudioSet("Serbian A1 listening bank", serbianRevision.SERBIAN_A1_LISTENING, 25);
+validateAudioSet("Serbian A1 mixed revision", serbianRevision.SERBIAN_A1_MIXED_REVISION, 27);
+
 const serbianLessonStats = validateLessonTrack("Serbian A1", serbianLessons.SERBIAN_A1_LESSONS);
 const englishLessonStats = validateLessonTrack("English A1", englishLessons.ENGLISH_A1_LESSONS);
 validateLessonNumbering("Serbian A1", serbianLessons.SERBIAN_A1_LESSONS);
