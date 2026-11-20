@@ -282,9 +282,10 @@ validateQuestions("English A1 final exam", a1.ENGLISH_A1_FINAL_EXAM, 20, { pronu
 
 
 
-const a2Assessments = await import(new URL("../a2FinalExams.js", import.meta.url));
+const a2AssessmentModule = await loadModule("a2FinalExams.js");
 const serbianA2Lessons = await loadModule("serbianA2Lessons.js");
 const englishA2Lessons = await loadModule("englishA2Lessons.js");
+const a2Assessments = a2AssessmentModule.buildA2Assessments(serbianA2Lessons.SERBIAN_A2_LESSONS, englishA2Lessons.ENGLISH_A2_LESSONS);
 const a2Vocabulary = {
  Serbian: new Map(serbianA2Lessons.SERBIAN_A2_LESSONS.flatMap(lesson => lesson.vocabulary.map(item => [item.word.toLocaleLowerCase(), item.meaning]))),
  English: new Map(englishA2Lessons.ENGLISH_A2_LESSONS.flatMap(lesson => lesson.vocabulary.map(item => [item.word.toLocaleLowerCase(), item.meaning]))),
