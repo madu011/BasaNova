@@ -283,6 +283,8 @@ validateQuestions("English A1 final exam", a1.ENGLISH_A1_FINAL_EXAM, 20, { pronu
 
 
 const a2Assessments = await loadModule("a2FinalExams.js");
+const serbianA2Lessons = await loadModule("serbianA2Lessons.js");
+const englishA2Lessons = await loadModule("englishA2Lessons.js");
 const a2Vocabulary = {
  Serbian: new Map(serbianA2Lessons.SERBIAN_A2_LESSONS.flatMap(lesson => lesson.vocabulary.map(item => [item.word.toLocaleLowerCase(), item.meaning]))),
  English: new Map(englishA2Lessons.ENGLISH_A2_LESSONS.flatMap(lesson => lesson.vocabulary.map(item => [item.word.toLocaleLowerCase(), item.meaning]))),
@@ -307,8 +309,6 @@ function validateA2Assessment(label, questions, expectedCount, language, isFinal
     assert.equal(questions.filter(question => question.audio).length, 6, `${label}: expected 6 listening items`);
   }
 }
-const serbianA2Lessons = await loadModule("serbianA2Lessons.js");
-const englishA2Lessons = await loadModule("englishA2Lessons.js");
 validateA2Assessment("Serbian A2 mixed revision", a2Assessments.SERBIAN_A2_MIXED_REVISION, 10, "Serbian");
 validateA2Assessment("English A2 mixed revision", a2Assessments.ENGLISH_A2_MIXED_REVISION, 10, "English");
 validateA2Assessment("Serbian A2 final exam", a2Assessments.SERBIAN_A2_FINAL_EXAM, 20, "Serbian", true);
