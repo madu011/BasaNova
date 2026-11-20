@@ -986,7 +986,7 @@ export const ENGLISH_C2_LESSONS_21_30 = [
     "vocabulary": [
       {
         "word": "peer review",
-        "reading": "පියර් රිවью",
+        "reading": "පියර් රිවියූ",
         "meaning": "ශාස්ත්‍රීය සමාලෝචනය",
         "example": "A review should distinguish findings from interpretation.",
         "translation": "සමාලෝචනය සොයාගැනීම් හා අර්ථකථන වෙන් කළ යුතුය."
