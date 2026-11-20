@@ -131,3 +131,6 @@ GitHub Actions Android debug APK build run [44552002628](https://github.com/madu
 - Added a static App.js import-integrity pass: each relative named import is loaded and checked against the module's actual named exports. This is intended to catch missing modules and export-name mismatches before Expo bundling.
 - Commits: full-level coverage `f917cbc0ad48f9a4c4ef71379da1177c8fc6cf27`; App import/export check `b0913a0ce979a4ab26751e79207daa7c360d9634`; regex correction `86f0690d3ea38bbf3bae5c8b05e67132613b6dad` and `442bab8cd24d5b504600746768f937750aa2a1db`; listening and duplicate-content assertions `3631203790704a54370edb6deef01316ae14652b`.
 - Important: the expanded QA script has **not yet been executed** against a checkout, so no clean-pass claim is made. GitHub Actions runner allocation/account usage restrictions previously blocked jobs before steps. Do not mark the app error-free until `npm run qa:content`, Expo export and Android build run successfully. Fluent-speaker review and physical-device testing also remain separate requirements.
+
+- Extended assessment checks to both B1 and B2: 10-question mixed revisions and 20-question final exams per language, including duplicate option and answer-index validation.
+- Latest QA extension commit: `7802bc8ec6a7a7ee4036c1a885328aa1d648f94b`.
