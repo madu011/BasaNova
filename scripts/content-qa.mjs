@@ -122,6 +122,26 @@ function validateLessonNumbering(label, lessons) {
   assert.deepEqual([...numbers].sort((a, b) => a - b), expected, `${label}: lesson numbers must be continuous from 1`);
 }
 
+
+
+// Verify every relative named import used by App.js resolves to a real module
+// and to an actual named export. This catches missing files/export-name drift
+// before Expo bundling is attempted.
+const appSource = await readFile(new URL("../App.js", import.meta.url), "utf8");
+const relativeNamedImports = [...appSource.matchAll(/import\\s*\\{([\\s\\S]*?)\\}\\s*from\\s*["']\\.\\/([^"']+)["']/gu)];
+assert.ok(relativeNamedImports.length > 0, "App.js: no relative named imports were discovered");
+const checkedAppImports = new Set();
+for (const match of relativeNamedImports) {
+  const importedNames = match[1].split(",").map(value => value.trim()).filter(Boolean)
+    .map(value => value.split(/\\s+as\\s+/u)[0].trim());
+  const modulePath = match[2].endsWith(".js") ? match[2] : `${match[2]}.js`;
+  const module = await loadModule(modulePath);
+  for (const name of importedNames) {
+    assert.ok(Object.prototype.hasOwnProperty.call(module, name), `App.js imports missing export ${name} from ./${match[2]}`);
+  }
+  checkedAppImports.add(modulePath);
+}
+
 const serbianLessonStats = validateLessonTrack("Serbian A1", serbianLessons.SERBIAN_A1_LESSONS);
 const englishLessonStats = validateLessonTrack("English A1", englishLessons.ENGLISH_A1_LESSONS);
 validateLessonNumbering("Serbian A1", serbianLessons.SERBIAN_A1_LESSONS);
@@ -264,4 +284,4 @@ validateQuestions("Serbian C2 final exam", c2.SERBIAN_C2_FINAL_EXAM, 20, { pronu
 validateQuestions("English C2 final exam", c2.ENGLISH_C2_FINAL_EXAM, 20, { pronunciation: true });
 
 console.log("Content QA passed.");
-console.log({ serbianLessonStats, englishLessonStats, courseStats, serbianC1Stats, englishC1Stats });
+console.log({ checkedAppImports: checkedAppImports.size, serbianLessonStats, englishLessonStats, courseStats, serbianC1Stats, englishC1Stats });
