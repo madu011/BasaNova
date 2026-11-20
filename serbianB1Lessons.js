@@ -8902,3 +8902,31 @@ export const SERBIAN_B1_LESSONS = [
 ];
 
 export default SERBIAN_B1_LESSONS;
+
+ 
+// The original B1 deck accidentally stored English glosses in the Serbian word field.
+// Recover the Serbian headword from the lesson's own Serbian example/dialogue text,
+// selecting the phrase whose Sinhala phonetic approximation best matches the authored reading.
+const _srB1SoundMap = { "dž":"ජ්","lj":"ල්‍ය","nj":"න්‍ය","č":"ච්","ć":"ච්‍ය","đ":"ජ්‍ය","š":"ෂ්","ž":"ෂ්",a:"අ",b:"බ්",c:"ත්ස්",d:"ද්",e:"එ",f:"ෆ්",g:"ග්",h:"හ්",i:"ඉ",j:"ය්",k:"ක්",l:"ල්",m:"ම්",n:"න්",o:"ඔ",p:"ප්",r:"ර්",s:"ස්",t:"ත්",u:"උ",v:"ව්",z:"ස්" };
+function _srB1Phonetic(value) {
+  const source=String(value||"").toLocaleLowerCase("sr");
+  let output="",index=0;
+  while(index<source.length){const pair=source.slice(index,index+2);if(_srB1SoundMap[pair]){output+=_srB1SoundMap[pair];index+=2;continue;}const char=source[index];output+=_srB1SoundMap[char]??char;index++;}
+  return output.replace(/[\s.,!?;:’'"]/gu,"").normalize("NFC");
+}
+function _srB1Distance(a,b) {
+  const row=Array.from({length:b.length+1},(_,i)=>i);
+  for(let i=1;i<=a.length;i++){let previous=row[0];row[0]=i;for(let j=1;j<=b.length;j++){const current=row[j];row[j]=Math.min(row[j]+1,row[j-1]+1,previous+(a[i-1]===b[j-1]?0:1));previous=current;}}
+  return row[b.length];
+}
+for(const lesson of SERBIAN_B1_LESSONS){
+  const sentences=[...(lesson.examples||[]).map(x=>x.sr||x.text),...(lesson.dialogue||[]).map(x=>x.sr||x.text),...(lesson.grammarTerms||[]).map(x=>x.sr||x.text)];
+  for(const item of lesson.vocabulary||[]){
+    const target=_srB1Phonetic(item.reading);
+    const candidates=new Set();
+    for(const sentence of sentences){const tokens=String(sentence||"").match(/[A-Za-zČĆŽŠĐčćžšđ]+/gu)||[];for(let start=0;start<tokens.length;start++)for(let width=1;width<=3&&start+width<=tokens.length;width++)candidates.add(tokens.slice(start,start+width).join(" "));}
+    let best=item.word,bestScore=Infinity;
+    for(const candidate of candidates){const sound=_srB1Phonetic(candidate);if(!sound)continue;const score=_srB1Distance(target,sound)/Math.max(target.length,sound.length,1);if(score<bestScore){bestScore=score;best=candidate;}}
+    if(bestScore<0.72)item.word=best;
+  }
+}
