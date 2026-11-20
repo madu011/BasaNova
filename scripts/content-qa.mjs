@@ -281,6 +281,39 @@ validateQuestions("Serbian A1 final exam", a1.SERBIAN_A1_FINAL_EXAM, 20, { pronu
 validateQuestions("English A1 final exam", a1.ENGLISH_A1_FINAL_EXAM, 20, { pronunciation: true });
 
 
+
+const a2Assessments = await loadModule("a2FinalExams.js");
+const a2Vocabulary = {
+ Serbian: new Map(serbianA2Lessons.SERBIAN_A2_LESSONS.flatMap(lesson => lesson.vocabulary.map(item => [item.word.toLocaleLowerCase(), item.meaning]))),
+ English: new Map(englishA2Lessons.ENGLISH_A2_LESSONS.flatMap(lesson => lesson.vocabulary.map(item => [item.word.toLocaleLowerCase(), item.meaning]))),
+};
+function validateA2Assessment(label, questions, expectedCount, language, isFinal = false) {
+  validateQuestions(label, questions, expectedCount, { pronunciation: true });
+  const ids = new Set();
+  for (const question of questions) {
+    assert.ok(!ids.has(question.id), `${label}: duplicate id ${question.id}`);
+    ids.add(question.id);
+    if (question.word) {
+      const meaning = a2Vocabulary[language].get(question.word.toLocaleLowerCase());
+      assert.ok(meaning, `${question.id}: vocabulary word is not in the A2 course`);
+      assert.equal(question.options[question.answer], meaning, `${question.id}: answer does not match A2 vocabulary`);
+    }
+    if (question.audio) {
+      assert.ok(question.reading && hasSinhala(question.reading), `${question.id}: listening item missing Sinhala reading`);
+    }
+  }
+  if (isFinal) {
+    assert.equal(questions.filter(question => question.word).length, 14, `${label}: expected 14 vocabulary items`);
+    assert.equal(questions.filter(question => question.audio).length, 6, `${label}: expected 6 listening items`);
+  }
+}
+const serbianA2Lessons = await loadModule("serbianA2Lessons.js");
+const englishA2Lessons = await loadModule("englishA2Lessons.js");
+validateA2Assessment("Serbian A2 mixed revision", a2Assessments.SERBIAN_A2_MIXED_REVISION, 10, "Serbian");
+validateA2Assessment("English A2 mixed revision", a2Assessments.ENGLISH_A2_MIXED_REVISION, 10, "English");
+validateA2Assessment("Serbian A2 final exam", a2Assessments.SERBIAN_A2_FINAL_EXAM, 20, "Serbian", true);
+validateA2Assessment("English A2 final exam", a2Assessments.ENGLISH_A2_FINAL_EXAM, 20, "English", true);
+
 const b1Assessments = await loadModule("b1FinalExams.js");
 validateQuestions("Serbian B1 mixed revision", b1Assessments.SERBIAN_B1_MIXED_REVISION, 10);
 validateQuestions("English B1 mixed revision", b1Assessments.ENGLISH_B1_MIXED_REVISION, 10);
