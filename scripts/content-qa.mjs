@@ -161,8 +161,11 @@ async function loadPairedTrack(label, files, exportNames) {
   }
   const stats = validateLessonTrack(label, lessons);
   assert.equal(stats.lessons, 50, `${label}: expected exactly 50 lessons`);
+  assert.equal(stats.listeningCount, 50, `${label}: every lesson must include listening practice`);
   const titles = lessons.map(item => item.title.trim().toLocaleLowerCase());
   assert.equal(new Set(titles).size, 50, `${label}: duplicate lesson titles detected`);
+  const fingerprints = lessons.map(item => `${item.title.trim().toLocaleLowerCase()}|${(item.vocabulary ?? []).map(v => v.word.trim().toLocaleLowerCase()).join("|")}`);
+  assert.equal(new Set(fingerprints).size, 50, `${label}: duplicate lesson content fingerprints detected`);
   return { lessons, stats };
 }
 
