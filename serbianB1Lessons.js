@@ -8914,6 +8914,8 @@ function _srB1Phonetic(value) {
   while(index<source.length){const pair=source.slice(index,index+2);if(_srB1SoundMap[pair]){output+=_srB1SoundMap[pair];index+=2;continue;}const char=source[index];output+=_srB1SoundMap[char]??char;index++;}
   return output.replace(/[\s.,!?;:’'"]/gu,"").normalize("NFC");
 }
+const _srB1Cyrillic={а:"a",б:"b",в:"v",г:"g",д:"d",ђ:"đ",е:"e",ж:"ž",з:"z",и:"i",ј:"j",к:"k",л:"l",љ:"lj",м:"m",н:"n",њ:"nj",о:"o",п:"p",р:"r",с:"s",т:"t",ћ:"ć",у:"u",ф:"f",х:"h",ц:"c",ч:"č",џ:"dž",ш:"š"};
+function _srB1ToLatin(value){return Array.from(String(value||"").toLocaleLowerCase("sr")).map(char=>_srB1Cyrillic[char]??char).join("");}
 function _srB1Distance(a,b) {
   const row=Array.from({length:b.length+1},(_,i)=>i);
   for(let i=1;i<=a.length;i++){let previous=row[0];row[0]=i;for(let j=1;j<=b.length;j++){const current=row[j];row[j]=Math.min(row[j]+1,row[j-1]+1,previous+(a[i-1]===b[j-1]?0:1));previous=current;}}
@@ -8922,11 +8924,11 @@ function _srB1Distance(a,b) {
 for(const lesson of SERBIAN_B1_LESSONS){
   const sentences=[...(lesson.vocabulary||[]).map(x=>x.example),...(lesson.examples||[]).map(x=>x.sr||x.text),...(lesson.dialogue||[]).map(x=>x.sr||x.text),...(lesson.grammarTerms||[]).map(x=>x.sr||x.text)];
   for(const item of lesson.vocabulary||[]){
-    const target=_srB1Phonetic(item.reading);
+    const target=_srB1Phonetic(_srB1ToLatin(item.reading));
     const candidates=new Set();
     for(const sentence of sentences){const tokens=String(sentence||"").match(/[A-Za-zČĆŽŠĐčćžšđ]+/gu)||[];for(let start=0;start<tokens.length;start++)for(let width=1;width<=3&&start+width<=tokens.length;width++)candidates.add(tokens.slice(start,start+width).join(" "));}
     let best=item.word,bestScore=Infinity;
     for(const candidate of candidates){const sound=_srB1Phonetic(candidate);if(!sound)continue;const score=_srB1Distance(target,sound)/Math.max(target.length,sound.length,1);if(score<bestScore){bestScore=score;best=candidate;}}
-    if(bestScore<1)item.word=best;
+    if(bestScore<1){item.word=best;if(/[А-Яа-яЁёЂђЈјЉљЊњЋћЏџ]/u.test(item.reading||""))item.reading=_srB1Phonetic(best);}
   }
 }
