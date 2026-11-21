@@ -38,29 +38,29 @@ export const SERBIAN_C2_LESSONS_11_20 = [
         "word": "epistemički",
         "reading": "එප්ඉස්ට්එම්ඉච්ක්ඉ",
         "meaning": "දැනුම සම්බන්ධ",
-        "example": "Termin nema stabilan referent izvan svog konteksta.",
-        "translation": "එම පදයට සන්දර්භයෙන් පිටත ස්ථාවර යොමු වස්තුවක් නැත."
+        "example": "U teoriji značenja, izraz „epistemički“ pomaže da se precizira predmet analize.",
+        "translation": "මෙම අර්ථ න්‍යාය තුළ “epistemički” යන පදය විශ්ලේෂණයේ අවධානය නිශ්චිත කරයි."
       },
       {
         "word": "ontologija",
         "reading": "ඔන්ට්ඔල්ඔග්ඉය්අ",
         "meaning": "පැවැත්ම පිළිබඳ දර්ශනය",
-        "example": "Precizna definicija razlikuje pojam od njegovih primera.",
-        "translation": "නිවැරදි නිර්වචනයක් සංකල්පය එහි උදාහරණවලින් වෙන් කරයි."
+        "example": "Bez jasnog objašnjenja izraza „ontologija“, čitalac može pogrešno razumeti argument.",
+        "translation": "“ontologija” යන්න පැහැදිලි නොකළහොත් පාඨකයාට තර්කය වැරදි ලෙස තේරුම් ගත හැකිය."
       },
       {
         "word": "pojmovni",
         "reading": "ප්ඔය්ම්ඔව්න්ඉ",
         "meaning": "සංකල්පමය",
-        "example": "Rasprava je delom epistemološka, a delom ontološka.",
-        "translation": "මෙම විවාදය දැනුම හා පැවැත්ම පිළිබඳ ප්‍රශ්න දෙකම අඩංගු කරයි."
+        "example": "Primer pokazuje kako „pojmovni“ menja tumačenje u okviru teme: teoriji značenja.",
+        "translation": "මෙම උදාහරණය අර්ථ න්‍යාය සන්දර්භය තුළ “pojmovni” අර්ථකථනය වෙනස් කරන ආකාරය පෙන්වයි."
       },
       {
         "word": "definicija",
         "reading": "ඩ්එෆ්ඉන්ඉට්ස්ඉය්අ",
         "meaning": "නිර්වචනය",
-        "example": "Taksonomija je korisna, ali se njene kategorije preklapaju.",
-        "translation": "වර්ගීකරණය ප්‍රයෝජනවත් වුවත් එහි කාණ්ඩ එකිනෙක අතිච්ඡාදනය වේ."
+        "example": "Istraživač je izdvojio „definicija“ kao važan element za poređenje različitih stavova.",
+        "translation": "විවිධ ස්ථාවර සසඳන විට “definicija” වැදගත් අංගයක් ලෙස පර්යේෂකයා හඳුනාගත්තේය."
       }
     ],
     "grammarTitle": "Gramatika i stil",
@@ -89,24 +89,24 @@ export const SERBIAN_C2_LESSONS_11_20 = [
     ],
     "dialogue": [
       {
-        "text": "Da li se značenje može svesti na jednu definiciju?",
-        "reading": "ඩ්අ ල්ඉ ස්එ ස්න්අච්එන්ය්එ ම්ඔෂ්එ ස්ව්එස්ට්ඉ න්අ ය්එඩ්න්උ ඩ්එෆ්ඉන්ඉට්ස්ඉය්උ?",
-        "meaning": "අර්ථය එක් නිර්වචනයකට පමණක් සීමා කළ හැකිද?"
+        "text": "Na šta se tačno odnosi ovaj termin u teoriji?",
+        "reading": "න්අ ෂ්ත්අ ස්එ ත්අච්න්ඔ ඔද්න්ඔස්ඉ ඔව්අය් ත්එර්ම්ඉන් උ ත්එඔර්ඉය්ඉ?",
+        "meaning": "මෙම න්‍යායේදී පදය නිශ්චිතව යොමු වන්නේ කුමකටද?"
       },
       {
-        "text": "Ne uvek; kontekst menja način na koji ga razumemo.",
-        "reading": "න්එ උව්එක්; ක්ඔන්ට්එක්ස්ට් ම්එන්ය්අ න්අච්ඉන් න්අ ක්ඔය්ඉ ග්අ ර්අස්උම්එම්ඔ.",
-        "meaning": "සෑමවිටම නොවේ; සන්දර්භය අප එය තේරුම් ගන්නා ආකාරය වෙනස් කරයි."
+        "text": "Odnosi se na predmet na koji izraz upućuje.",
+        "reading": "ඔද්න්ඔස්ඉ ස්එ න්අ ප්ර්එද්ම්එත් න්අ ක්ඔය්ඉ ඉස්ර්අස් උප්උච්උය්එ.",
+        "meaning": "එය ප්‍රකාශය යොමු කරන වස්තුවට යොමු වේ."
       },
       {
-        "text": "Koje dokaze treba uzeti u obzir?",
-        "reading": "ක්ඔය්එ ඩ්ඔක්අස්එ ට්ර්එබ්අ උස්එට්ඉ උ ඔබ්ස්ඉර්?",
-        "meaning": "අප සලකා බැලිය යුතු සාක්ෂි මොනවාද?"
+        "text": "Da li su označitelj i referent isto?",
+        "reading": "ද්අ ල්ඉ ස්උ ඔස්න්අච්ඉත්එල්ය් ඉ ර්එෆ්එර්එන්ත් ඉස්ත්ඔ?",
+        "meaning": "සංඥාකය සහ යොමු වස්තුව එකම දෙයක්ද?"
       },
       {
-        "text": "I jezičke obrasce i širi društveni kontekst.",
-        "reading": "ඉ ය්එස්ඉච්ක්එ ඔබ්ර්අස්ට්ස්එ ඉ ෂ්ඉර්ඉ ඩ්ර්උෂ්ට්ව්එන්ඉ ක්ඔන්ට්එක්ස්ට්.",
-        "meaning": "භාෂා රටා සහ පුළුල් සමාජ සන්දර්භය යන දෙකම."
+        "text": "Ne; označitelj je oblik, a referent je ono na šta taj oblik upućuje.",
+        "reading": "න්එ; ඔස්න්අච්ඉත්එල්ය් ය්එ ඔබ්ල්ඉක්, අ ර්එෆ්එර්එන්ත් ය්එ ඔන්ඔ න්අ ෂ්ත්අ ත්අය් ඔබ්ල්ඉක් උප්උච්උය්එ.",
+        "meaning": "නැහැ. සංඥාකය ආකාරය වන අතර යොමු වස්තුව එය පෙන්වන දෙයයි."
       }
     ],
     "listeningPractice": {
@@ -201,29 +201,29 @@ export const SERBIAN_C2_LESSONS_11_20 = [
         "word": "svrhovit",
         "reading": "ස්ව්ර්හ්ඔව්ඉට්",
         "meaning": "අරමුණ පදනම් කරගත්",
-        "example": "Presedan je uverljiv, ali nije obavezujući u ovoj nadležnosti.",
-        "translation": "එම පූර්වාදර්ශය ඒත්තු ගන්වන සුළු වුවත් මෙහි බැඳී නොපවතී."
+        "example": "U pravnom tumačenju, izraz „svrhovit“ pomaže da se precizira predmet analize.",
+        "translation": "මෙම නීතිමය අර්ථකථනය තුළ “svrhovit” යන පදය විශ්ලේෂණයේ අවධානය නිශ්චිත කරයි."
       },
       {
         "word": "doslovan",
         "reading": "ඩ්ඔස්ල්ඔව්අන්",
         "meaning": "වචනාර්ථයට සීමා වූ",
-        "example": "Svrhovito tumačenje uzima u obzir cilj zakonodavca.",
-        "translation": "අරමුණ පදනම් කරගත් කියවීම නීති වගන්තියේ අරමුණ සලකා බලයි."
+        "example": "Bez jasnog objašnjenja izraza „doslovan“, čitalac može pogrešno razumeti argument.",
+        "translation": "“doslovan” යන්න පැහැදිලි නොකළහොත් පාඨකයාට තර්කය වැරදි ලෙස තේරුම් ගත හැකිය."
       },
       {
         "word": "dvosmislenost",
         "reading": "ඩ්ව්ඔස්ම්ඉස්ල්එන්ඔස්ට්",
         "meaning": "අර්ථ අපැහැදිලි බව",
-        "example": "Doslovni tekst ostavlja stvarnu dvosmislenost.",
-        "translation": "වචනාර්ථය තුළ සැබෑ අර්ථ අපැහැදිලි බවක් ඉතිරි වේ."
+        "example": "Primer pokazuje kako „dvosmislenost“ menja tumačenje u okviru teme: pravnom tumačenju.",
+        "translation": "මෙම උදාහරණය නීතිමය අර්ථකථනය සන්දර්භය තුළ “dvosmislenost” අර්ථකථනය වෙනස් කරන ආකාරය පෙන්වයි."
       },
       {
         "word": "pravna teorija",
         "reading": "ප්ර්අව්න්අ ට්එඔර්ඉය්අ",
         "meaning": "නීති න්‍යාය",
-        "example": "Sud mora objasniti zašto jedno pravilo tumačenja ima prednost.",
-        "translation": "එක් අර්ථකථන නියමයක් ප්‍රමුඛ වන්නේ ඇයිදැයි අධිකරණය පැහැදිලි කළ යුතුය."
+        "example": "Istraživač je izdvojio „pravna teorija“ kao važan element za poređenje različitih stavova.",
+        "translation": "විවිධ ස්ථාවර සසඳන විට “pravna teorija” වැදගත් අංගයක් ලෙස පර්යේෂකයා හඳුනාගත්තේය."
       }
     ],
     "grammarTitle": "Gramatika i stil",
@@ -252,24 +252,24 @@ export const SERBIAN_C2_LESSONS_11_20 = [
     ],
     "dialogue": [
       {
-        "text": "Da li se značenje može svesti na jednu definiciju?",
-        "reading": "ඩ්අ ල්ඉ ස්එ ස්න්අච්එන්ය්එ ම්ඔෂ්එ ස්ව්එස්ට්ඉ න්අ ය්එඩ්න්උ ඩ්එෆ්ඉන්ඉට්ස්ඉය්උ?",
-        "meaning": "අර්ථය එක් නිර්වචනයකට පමණක් සීමා කළ හැකිද?"
+        "text": "Treba li odredbu tumačiti doslovno?",
+        "reading": "ත්ර්එබ්අ ල්ඉ ඔද්ර්එද්බ්උ ත්උම්අච්ඉත්ඉ ද්ඔස්ල්ඔව්න්ඔ?",
+        "meaning": "වගන්තිය වචනාර්ථයෙන්ම අර්ථකථනය කළ යුතුද?"
       },
       {
-        "text": "Ne uvek; kontekst menja način na koji ga razumemo.",
-        "reading": "න්එ උව්එක්; ක්ඔන්ට්එක්ස්ට් ම්එන්ය්අ න්අච්ඉන් න්අ ක්ඔය්ඉ ග්අ ර්අස්උම්එම්ඔ.",
-        "meaning": "සෑමවිටම නොවේ; සන්දර්භය අප එය තේරුම් ගන්නා ආකාරය වෙනස් කරයි."
+        "text": "Formulacija je jasna, ali je važna i svrha zakona.",
+        "reading": "ෆ්ඔර්ම්උල්අට්ස්ඉය්අ ය්එ ය්අස්න්අ, අල්ඉ ය්එ ව්අෂ්න්අ ඉ ස්ව්ර්හ්අ ස්අක්ඔන්අ.",
+        "meaning": "වචන පැහැදිලි වුවත් නීතියේ අරමුණද වැදගත්ය."
       },
       {
-        "text": "Koje dokaze treba uzeti u obzir?",
-        "reading": "ක්ඔය්එ ඩ්ඔක්අස්එ ට්ර්එබ්අ උස්එට්ඉ උ ඔබ්ස්ඉර්?",
-        "meaning": "අප සලකා බැලිය යුතු සාක්ෂි මොනවාද?"
+        "text": "Koje tumačenje ima prednost?",
+        "reading": "ක්ඔය්එ ත්උම්අච්එන්ය්එ ඉම්අ ප්ර්එද්න්ඔස්ත්?",
+        "meaning": "ප්‍රමුඛ වන්නේ කුමන අර්ථකථනයද?"
       },
       {
-        "text": "I jezičke obrasce i širi društveni kontekst.",
-        "reading": "ඉ ය්එස්ඉච්ක්එ ඔබ්ර්අස්ට්ස්එ ඉ ෂ්ඉර්ඉ ඩ්ර්උෂ්ට්ව්එන්ඉ ක්ඔන්ට්එක්ස්ට්.",
-        "meaning": "භාෂා රටා සහ පුළුල් සමාජ සන්දර්භය යන දෙකම."
+        "text": "Sud razmatra presedan, nadležnost i zakonodavnu svrhu.",
+        "reading": "ස්උද් ර්අස්ම්අත්ර්අ ප්ර්එස්එද්අන්, න්අද්ල්එෂ්න්ඔස්ත් ඉ ස්අක්ඔන්ඔද්අව්න්උ ස්ව්ර්හ්උ.",
+        "meaning": "අධිකරණය පූර්වාදර්ශය, බලප්‍රදේශය සහ නීති සම්පාදන අරමුණ සලකා බලයි."
       }
     ],
     "listeningPractice": {
@@ -364,29 +364,29 @@ export const SERBIAN_C2_LESSONS_11_20 = [
         "word": "ratifikacija",
         "reading": "ර්අට්ඉෆ්ඉක්අට්ස්ඉය්අ",
         "meaning": "අනුමත කිරීම",
-        "example": "Saopštenje ostavlja prostor za dalji pregovor.",
-        "translation": "නිල නිවේදනය තවදුරටත් සාකච්ඡා කිරීමට ඉඩ තබයි."
+        "example": "U diplomatskom protokolu, izraz „ratifikacija“ pomaže da se precizira predmet analize.",
+        "translation": "මෙම රාජ්‍යතාන්ත්‍රික ක්‍රියාපටිපාටිය තුළ “ratifikacija” යන පදය විශ්ලේෂණයේ අවධානය නිශ්චිත කරයි."
       },
       {
         "word": "obaveza",
         "reading": "ඔබ්අව්එස්අ",
         "meaning": "විධිමත් බැඳීම",
-        "example": "Strateška dvosmislenost može sprečiti preuranjeni prekid razgovora.",
-        "translation": "උපායමාර්ගික අපැහැදිලි බව අකාලයේ සාකච්ඡා බිඳවැටීම වළක්වා ගත හැකිය."
+        "example": "Bez jasnog objašnjenja izraza „obaveza“, čitalac može pogrešno razumeti argument.",
+        "translation": "“obaveza” යන්න පැහැදිලි නොකළහොත් පාඨකයාට තර්කය වැරදි ලෙස තේරුම් ගත හැකිය."
       },
       {
         "word": "dvosmislenost",
         "reading": "ඩ්ව්ඔස්ම්ඉස්ල්එන්ඔස්ට්",
         "meaning": "අර්ථ අපැහැදිලි බව",
-        "example": "Izaslanik je koristio nezvanični kanal da razjasni obavezu.",
-        "translation": "විධිමත් බැඳීම පැහැදිලි කිරීමට නියෝජිතයා නිල නොවන මාර්ගයක් භාවිත කළේය."
+        "example": "Primer pokazuje kako „dvosmislenost“ menja tumačenje u okviru teme: diplomatskom protokolu.",
+        "translation": "මෙම උදාහරණය රාජ්‍යතාන්ත්‍රික ක්‍රියාපටිපාටිය සන්දර්භය තුළ “dvosmislenost” අර්ථකථනය වෙනස් කරන ආකාරය පෙන්වයි."
       },
       {
         "word": "nezvanični kanal",
         "reading": "න්එස්ව්අන්ඉච්න්ඉ ක්අන්අල්",
         "meaning": "නිල නොවන සන්නිවේදන මාර්ගය",
-        "example": "Ratifikacija i dalje zavisi od domaćih procedura.",
-        "translation": "අනුමත කිරීම තවමත් දේශීය ක්‍රියාපටිපාටිවලට යටත් වේ."
+        "example": "Istraživač je izdvojio „nezvanični kanal“ kao važan element za poređenje različitih stavova.",
+        "translation": "විවිධ ස්ථාවර සසඳන විට “nezvanični kanal” වැදගත් අංගයක් ලෙස පර්යේෂකයා හඳුනාගත්තේය."
       }
     ],
     "grammarTitle": "Gramatika i stil",
@@ -415,24 +415,24 @@ export const SERBIAN_C2_LESSONS_11_20 = [
     ],
     "dialogue": [
       {
-        "text": "Da li se značenje može svesti na jednu definiciju?",
-        "reading": "ඩ්අ ල්ඉ ස්එ ස්න්අච්එන්ය්එ ම්ඔෂ්එ ස්ව්එස්ට්ඉ න්අ ය්එඩ්න්උ ඩ්එෆ්ඉන්ඉට්ස්ඉය්උ?",
-        "meaning": "අර්ථය එක් නිර්වචනයකට පමණක් සීමා කළ හැකිද?"
+        "text": "Zašto je saopštenje namerno neodređeno?",
+        "reading": "ස්අෂ්ත්ඔ ය්එ ස්අඔප්ෂ්ත්එන්ය්එ න්අම්එර්න්ඔ න්එඔද්ර්එජ්එන්ඔ?",
+        "meaning": "නිවේදනය හිතාමතාම නිශ්චිත නොවන ලෙස ලියා ඇත්තේ ඇයි?"
       },
       {
-        "text": "Ne uvek; kontekst menja način na koji ga razumemo.",
-        "reading": "න්එ උව්එක්; ක්ඔන්ට්එක්ස්ට් ම්එන්ය්අ න්අච්ඉන් න්අ ක්ඔය්ඉ ග්අ ර්අස්උම්එම්ඔ.",
-        "meaning": "සෑමවිටම නොවේ; සන්දර්භය අප එය තේරුම් ගන්නා ආකාරය වෙනස් කරයි."
+        "text": "Strane se nisu usaglasile oko formulacije obaveze.",
+        "reading": "ස්ත්ර්අන්එ ස්එ න්ඉස්උ උස්අග්ල්අස්ඉල්එ ඔක්ඔ ෆ්ඔර්ම්උල්අට්ස්ඉය්එ ඔබ්අව්එස්එ.",
+        "meaning": "පාර්ශ්වයන් බැඳීමේ වචන පිළිබඳ එකඟ වී නැත."
       },
       {
-        "text": "Koje dokaze treba uzeti u obzir?",
-        "reading": "ක්ඔය්එ ඩ්ඔක්අස්එ ට්ර්එබ්අ උස්එට්ඉ උ ඔබ්ස්ඉර්?",
-        "meaning": "අප සලකා බැලිය යුතු සාක්ෂි මොනවාද?"
+        "text": "Da li je pitanje razmatrano nezvaničnim kanalom?",
+        "reading": "ද්අ ල්ඉ ය්එ ප්ඉත්අන්ය්එ ර්අස්ම්අත්ර්අන්ඔ න්එස්ව්අන්ඉච්න්ඉම් ක්අන්අල්ඔම්?",
+        "meaning": "මෙම කරුණ නිල නොවන මාර්ගයකින් සාකච්ඡා කළාද?"
       },
       {
-        "text": "I jezičke obrasce i širi društveni kontekst.",
-        "reading": "ඉ ය්එස්ඉච්ක්එ ඔබ්ර්අස්ට්ස්එ ඉ ෂ්ඉර්ඉ ඩ්ර්උෂ්ට්ව්එන්ඉ ක්ඔන්ට්එක්ස්ට්.",
-        "meaning": "භාෂා රටා සහ පුළුල් සමාජ සන්දර්භය යන දෙකම."
+        "text": "Da, pre nego što je izaslanik predao bilateralni nacrt na ratifikaciju.",
+        "reading": "ද්අ, ප්ර්එ න්එග්ඔ ෂ්ත්ඔ ය්එ ඉස්අස්ල්අන්ඉක් ප්ර්එද්අඔ බ්ඉල්අත්එර්අල්න්ඉ න්අට්ස්ර්ත් න්අ ර්අත්ඉෆ්ඉක්අට්ස්ඉය්උ.",
+        "meaning": "ඔව්. නියෝජිතයා ද්විපාර්ශ්වික කෙටුම්පත අනුමැතියට ඉදිරිපත් කිරීමට පෙරය."
       }
     ],
     "listeningPractice": {
@@ -527,29 +527,29 @@ export const SERBIAN_C2_LESSONS_11_20 = [
         "word": "robustnost",
         "reading": "ර්ඔබ්උස්ට්න්ඔස්ට්",
         "meaning": "ශක්තිමත් බව",
-        "example": "Triangulacija smanjuje oslanjanje na jednu metodu.",
-        "translation": "බහු මූලාශ්‍ර සාක්ෂි සැසඳීම එක් ක්‍රමයක් මත පමණක් රඳා සිටීම අඩු කරයි."
+        "example": "U istraživačkoj sintezi, izraz „robustnost“ pomaže da se precizira predmet analize.",
+        "translation": "මෙම පර්යේෂණ සංශ්ලේෂණය තුළ “robustnost” යන පදය විශ්ලේෂණයේ අවධානය නිශ්චිත කරයි."
       },
       {
         "word": "ponovljivost",
         "reading": "ප්ඔන්ඔව්ල්ය්ඉව්ඔස්ට්",
         "meaning": "නැවත ලබාගත හැකි බව",
-        "example": "Metaanaliza pokazuje značajnu heterogenost.",
-        "translation": "අධ්‍යයන එකතුවේ විශ්ලේෂණය සැලකිය යුතු විෂමතාවක් වාර්තා කරයි."
+        "example": "Bez jasnog objašnjenja izraza „ponovljivost“, čitalac može pogrešno razumeti argument.",
+        "translation": "“ponovljivost” යන්න පැහැදිලි නොකළහොත් පාඨකයාට තර්කය වැරදි ලෙස තේරුම් ගත හැකිය."
       },
       {
         "word": "sinteza",
         "reading": "ස්ඉන්ට්එස්අ",
         "meaning": "සංශ්ලේෂණය",
-        "example": "Zaključak ostaje stabilan i pri drugačijim specifikacijama.",
-        "translation": "විකල්ප විශ්ලේෂණ ආකෘති යටතේද නිගමනය ශක්තිමත්ව පවතී."
+        "example": "Primer pokazuje kako „sinteza“ menja tumačenje u okviru teme: istraživačkoj sintezi.",
+        "translation": "මෙම උදාහරණය පර්යේෂණ සංශ්ලේෂණය සන්දර්භය තුළ “sinteza” අර්ථකථනය වෙනස් කරන ආකාරය පෙන්වයි."
       },
       {
         "word": "ograničenje",
         "reading": "ඔග්ර්අන්ඉච්එන්ය්එ",
         "meaning": "සීමාව",
-        "example": "Sinteza treba da sačuva neslaganja, a ne da ih prikrije.",
-        "translation": "සංශ්ලේෂණය එකඟ නොවීම් සඟවා නොගෙන ඒවා රැකගත යුතුය."
+        "example": "Istraživač je izdvojio „ograničenje“ kao važan element za poređenje različitih stavova.",
+        "translation": "විවිධ ස්ථාවර සසඳන විට “ograničenje” වැදගත් අංගයක් ලෙස පර්යේෂකයා හඳුනාගත්තේය."
       }
     ],
     "grammarTitle": "Gramatika i stil",
@@ -578,24 +578,24 @@ export const SERBIAN_C2_LESSONS_11_20 = [
     ],
     "dialogue": [
       {
-        "text": "Da li se značenje može svesti na jednu definiciju?",
-        "reading": "ඩ්අ ල්ඉ ස්එ ස්න්අච්එන්ය්එ ම්ඔෂ්එ ස්ව්එස්ට්ඉ න්අ ය්එඩ්න්උ ඩ්එෆ්ඉන්ඉට්ස්ඉය්උ?",
-        "meaning": "අර්ථය එක් නිර්වචනයකට පමණක් සීමා කළ හැකිද?"
+        "text": "Da li studije podržavaju isti zaključak?",
+        "reading": "ද්අ ල්ඉ ස්ත්උද්ඉය්එ ප්ඔද්ර්ෂ්අව්අය්උ ඉස්ත්ඉ ස්අක්ල්ය්උච්අක්?",
+        "meaning": "අධ්‍යයන සියල්ල එකම නිගමනයට සහාය දක්වනවාද?"
       },
       {
-        "text": "Ne uvek; kontekst menja način na koji ga razumemo.",
-        "reading": "න්එ උව්එක්; ක්ඔන්ට්එක්ස්ට් ම්එන්ය්අ න්අච්ඉන් න්අ ක්ඔය්ඉ ග්අ ර්අස්උම්එම්ඔ.",
-        "meaning": "සෑමවිටම නොවේ; සන්දර්භය අප එය තේරුම් ගන්නා ආකාරය වෙනස් කරයි."
+        "text": "Ne u potpunosti; metode i uzorci su heterogeni.",
+        "reading": "න්එ උ ප්ඔත්ප්උන්ඔස්ත්ඉ; ම්එත්ඔද්එ ඉ උස්ඔර්ට්ස්ඉ ස්උ හ්එත්එර්ඔග්එන්ඉ.",
+        "meaning": "සම්පූර්ණයෙන්ම නැහැ. ක්‍රම සහ නියැදි විවිධය."
       },
       {
-        "text": "Koje dokaze treba uzeti u obzir?",
-        "reading": "ක්ඔය්එ ඩ්ඔක්අස්එ ට්ර්එබ්අ උස්එට්ඉ උ ඔබ්ස්ඉර්?",
-        "meaning": "අප සලකා බැලිය යුතු සාක්ෂි මොනවාද?"
+        "text": "Šta donosi triangulacija?",
+        "reading": "ෂ්ත්අ ද්ඔන්ඔස්ඉ ත්ර්ඉඅන්ග්උල්අට්ස්ඉය්අ?",
+        "meaning": "බහු මූලාශ්‍ර සැසඳීමෙන් ලැබෙන්නේ කුමක්ද?"
       },
       {
-        "text": "I jezičke obrasce i širi društveni kontekst.",
-        "reading": "ඉ ය්එස්ඉච්ක්එ ඔබ්ර්අස්ට්ස්එ ඉ ෂ්ඉර්ඉ ඩ්ර්උෂ්ට්ව්එන්ඉ ක්ඔන්ට්එක්ස්ට්.",
-        "meaning": "භාෂා රටා සහ පුළුල් සමාජ සන්දර්භය යන දෙකම."
+        "text": "Proverava da li se nalaz održava kroz nezavisne metode.",
+        "reading": "ප්ර්ඔව්එර්අව්අ ද්අ ල්ඉ ස්එ න්අල්අස් ඔද්ර්ෂ්අව්අ ක්ර්ඔස් න්එස්අව්ඉස්න්එ ම්එත්ඔද්එ.",
+        "meaning": "ස්වාධීන ක්‍රම හරහා සොයාගැනීම පවතිනවාද යන්න පරීක්ෂා කරයි."
       }
     ],
     "listeningPractice": {
@@ -690,29 +690,29 @@ export const SERBIAN_C2_LESSONS_11_20 = [
         "word": "osnovna stopa",
         "reading": "ඔස්න්ඔව්න්අ ස්ට්ඔප්අ",
         "meaning": "මූලික සිදුවීම් අනුපාතය",
-        "example": "Sidrenje može iskriviti kasnije procene.",
-        "translation": "මුල් අගයකට බැඳීම පසුකාලීන ඇස්තමේන්තු විකෘති කළ හැකිය."
+        "example": "U proceni argumenata, izraz „osnovna stopa“ pomaže da se precizira predmet analize.",
+        "translation": "මෙම තර්ක ඇගයීම තුළ “osnovna stopa” යන පදය විශ්ලේෂණයේ අවධානය නිශ්චිත කරයි."
       },
       {
         "word": "istaknutost",
         "reading": "ඉස්ට්අක්න්උට්ඔස්ට්",
         "meaning": "විශේෂ අවධානයට ලක්වීම",
-        "example": "Pristrasnost dostupnosti čini da upečatljivi primeri deluju češće.",
-        "translation": "මතකයට පහසුවෙන් පැමිණීමේ පක්ෂපාතීත්වය කැපී පෙනෙන උදාහරණ නිතර සිදුවන ලෙස පෙන්වයි."
+        "example": "Bez jasnog objašnjenja izraza „istaknutost“, čitalac može pogrešno razumeti argument.",
+        "translation": "“istaknutost” යන්න පැහැදිලි නොකළහොත් පාඨකයාට තර්කය වැරදි ලෙස තේරුම් ගත හැකිය."
       },
       {
         "word": "logička greška",
         "reading": "ල්ඔග්ඉච්ක්අ ග්ර්එෂ්ක්අ",
         "meaning": "තර්ක දෝෂය",
-        "example": "Dobra procena upoređuje tvrdnju sa osnovnom stopom.",
-        "translation": "හොඳ ඇගයීමක් ප්‍රකාශය මූලික අනුපාතය සමඟ සසඳයි."
+        "example": "Primer pokazuje kako „logička greška“ menja tumačenje u okviru teme: proceni argumenata.",
+        "translation": "මෙම උදාහරණය තර්ක ඇගයීම සන්දර්භය තුළ “logička greška” අර්ථකථනය වෙනස් කරන ආකාරය පෙන්වයි."
       },
       {
         "word": "usklađivanje procene",
         "reading": "උස්ක්ල්අජ්ඉව්අන්ය්එ ප්ර්ඔට්ස්එන්එ",
         "meaning": "ඇස්තමේන්තු නිරවද්‍යතාව",
-        "example": "Stepen sigurnosti treba uskladiti sa kvalitetom dokaza.",
-        "translation": "විශ්වාස මට්ටම සාක්ෂිවල ගුණාත්මකභාවයට ගැළපිය යුතුය."
+        "example": "Istraživač je izdvojio „usklađivanje procene“ kao važan element za poređenje različitih stavova.",
+        "translation": "විවිධ ස්ථාවර සසඳන විට “usklađivanje procene” වැදගත් අංගයක් ලෙස පර්යේෂකයා හඳුනාගත්තේය."
       }
     ],
     "grammarTitle": "Gramatika i stil",
@@ -741,24 +741,24 @@ export const SERBIAN_C2_LESSONS_11_20 = [
     ],
     "dialogue": [
       {
-        "text": "Da li se značenje može svesti na jednu definiciju?",
-        "reading": "ඩ්අ ල්ඉ ස්එ ස්න්අච්එන්ය්එ ම්ඔෂ්එ ස්ව්එස්ට්ඉ න්අ ය්එඩ්න්උ ඩ්එෆ්ඉන්ඉට්ස්ඉය්උ?",
-        "meaning": "අර්ථය එක් නිර්වචනයකට පමණක් සීමා කළ හැකිද?"
+        "text": "Zašto prva procena utiče na komisiju?",
+        "reading": "ස්අෂ්ත්ඔ ප්ර්ව්අ ප්ර්ඔට්ස්එන්අ උත්ඉච්එ න්අ ක්ඔම්ඉස්ඉය්උ?",
+        "meaning": "පළමු ඇස්තමේන්තුව කමිටුවට බලපාන්නේ ඇයි?"
       },
       {
-        "text": "Ne uvek; kontekst menja način na koji ga razumemo.",
-        "reading": "න්එ උව්එක්; ක්ඔන්ට්එක්ස්ට් ම්එන්ය්අ න්අච්ඉන් න්අ ක්ඔය්ඉ ග්අ ර්අස්උම්එම්ඔ.",
-        "meaning": "සෑමවිටම නොවේ; සන්දර්භය අප එය තේරුම් ගන්නා ආකාරය වෙනස් කරයි."
+        "text": "Sidrenje navodi kasnije procene da ostanu blizu početnog broja.",
+        "reading": "ස්ඉද්ර්එන්ය්එ න්අව්ඔද්ඉ ක්අස්න්ඉය්එ ප්ර්ඔට්ස්එන්එ ද්අ ඔස්ත්අන්උ බ්ල්ඉස්උ ප්ඔච්එත්න්ඔග් බ්ර්ඔය්අ.",
+        "meaning": "මුල් අගයට බැඳීම නිසා පසුව ලැබෙන අගයන් එයට ආසන්නව පවතී."
       },
       {
-        "text": "Koje dokaze treba uzeti u obzir?",
-        "reading": "ක්ඔය්එ ඩ්ඔක්අස්එ ට්ර්එබ්අ උස්එට්ඉ උ ඔබ්ස්ඉර්?",
-        "meaning": "අප සලකා බැලිය යුතු සාක්ෂි මොනවාද?"
+        "text": "Kako recenzenti treba da reaguju?",
+        "reading": "ක්අක්ඔ ර්එට්ස්එන්ස්එන්ත්ඉ ත්ර්එබ්අ ද්අ ර්එඅග්උය්උ?",
+        "meaning": "සමාලෝචකයන් ප්‍රතිචාර දැක්විය යුත්තේ කෙසේද?"
       },
       {
-        "text": "I jezičke obrasce i širi društveni kontekst.",
-        "reading": "ඉ ය්එස්ඉච්ක්එ ඔබ්ර්අස්ට්ස්එ ඉ ෂ්ඉර්ඉ ඩ්ර්උෂ්ට්ව්එන්ඉ ක්ඔන්ට්එක්ස්ට්.",
-        "meaning": "භාෂා රටා සහ පුළුල් සමාජ සන්දර්භය යන දෙකම."
+        "text": "Uporediti procenu sa osnovnom stopom i ponovo uskladiti sigurnost.",
+        "reading": "උප්ඔර්එද්ඉත්ඉ ප්ර්ඔට්ස්එන්උ ස්අ ඔස්න්ඔව්න්ඔම් ස්ත්ඔප්ඔම් ඉ ප්ඔන්ඔව්ඔ උස්ක්ල්අද්ඉත්ඉ ස්ඉග්උර්න්ඔස්ත්.",
+        "meaning": "ඇස්තමේන්තුව මූලික අනුපාතය සමඟ සසඳා විශ්වාස මට්ටම නැවත සකස් කළ යුතුය."
       }
     ],
     "listeningPractice": {
@@ -853,29 +853,29 @@ export const SERBIAN_C2_LESSONS_11_20 = [
         "word": "pozajmljivanje",
         "reading": "ප්ඔස්අය්ම්ල්ය්ඉව්අන්ය්එ",
         "meaning": "වචන ණයට ගැනීම",
-        "example": "Reč je doživela semantički pomak tokom nekoliko vekova.",
-        "translation": "එම වචනය සියවස් කිහිපයක් තුළ අර්ථමය වෙනස්වීමකට ලක් විය."
+        "example": "U istorijskoj lingvistici, izraz „pozajmljivanje“ pomaže da se precizira predmet analize.",
+        "translation": "මෙම ඓතිහාසික භාෂා විද්‍යාව තුළ “pozajmljivanje” යන පදය විශ්ලේෂණයේ අවධානය නිශ්චිත කරයි."
       },
       {
         "word": "kalk",
         "reading": "ක්අල්ක්",
         "meaning": "වචනානුකරණ පරිවර්තනය",
-        "example": "Etimologija objašnjava poreklo, ali ne nužno i današnje značenje.",
-        "translation": "වචන මූල ඉතිහාසය මූලාරම්භය පැහැදිලි කළත් වර්තමාන අර්ථය අනිවාර්යයෙන් නොපෙන්වයි."
+        "example": "Bez jasnog objašnjenja izraza „kalk“, čitalac može pogrešno razumeti argument.",
+        "translation": "“kalk” යන්න පැහැදිලි නොකළහොත් පාඨකයාට තර්කය වැරදි ලෙස තේරුම් ගත හැකිය."
       },
       {
         "word": "arhaizam",
         "reading": "අර්හ්අඉස්අම්",
         "meaning": "පැරණි වචන භාවිතය",
-        "example": "Pozajmljivanje često odražava dugotrajan kulturni kontakt.",
-        "translation": "වචන ණයට ගැනීම දිගුකාලීන සංස්කෘතික සම්බන්ධතා පිළිබිඹු කරයි."
+        "example": "Primer pokazuje kako „arhaizam“ menja tumačenje u okviru teme: istorijskoj lingvistici.",
+        "translation": "මෙම උදාහරණය ඓතිහාසික භාෂා විද්‍යාව සන්දර්භය තුළ “arhaizam” අර්ථකථනය වෙනස් කරන ආකාරය පෙන්වයි."
       },
       {
         "word": "neologizam",
         "reading": "න්එඔල්ඔග්ඉස්අම්",
         "meaning": "නව වචනය",
-        "example": "Kalk prenosi strukturu stranog izraza.",
-        "translation": "වචනානුකරණ පරිවර්තනයක් විදේශීය ප්‍රකාශයක ව්‍යුහය නැවත නිර්මාණය කරයි."
+        "example": "Istraživač je izdvojio „neologizam“ kao važan element za poređenje različitih stavova.",
+        "translation": "විවිධ ස්ථාවර සසඳන විට “neologizam” වැදගත් අංගයක් ලෙස පර්යේෂකයා හඳුනාගත්තේය."
       }
     ],
     "grammarTitle": "Gramatika i stil",
@@ -904,24 +904,24 @@ export const SERBIAN_C2_LESSONS_11_20 = [
     ],
     "dialogue": [
       {
-        "text": "Da li se značenje može svesti na jednu definiciju?",
-        "reading": "ඩ්අ ල්ඉ ස්එ ස්න්අච්එන්ය්එ ම්ඔෂ්එ ස්ව්එස්ට්ඉ න්අ ය්එඩ්න්උ ඩ්එෆ්ඉන්ඉට්ස්ඉය්උ?",
-        "meaning": "අර්ථය එක් නිර්වචනයකට පමණක් සීමා කළ හැකිද?"
+        "text": "Da li je reč oduvek imala ovo negativno značenje?",
+        "reading": "ද්අ ල්ඉ ය්එ ර්එච් ඔද්උව්එක් ඉම්අල්අ ඔව්ඔ න්එග්අත්ඉව්න්ඔ ස්න්අච්එන්ය්එ?",
+        "meaning": "මෙම වචනයට සැමවිටම තිබුණේ මෙම ඍණාත්මක අර්ථයද?"
       },
       {
-        "text": "Ne uvek; kontekst menja način na koji ga razumemo.",
-        "reading": "න්එ උව්එක්; ක්ඔන්ට්එක්ස්ට් ම්එන්ය්අ න්අච්ඉන් න්අ ක්ඔය්ඉ ග්අ ර්අස්උම්එම්ඔ.",
-        "meaning": "සෑමවිටම නොවේ; සන්දර්භය අප එය තේරුම් ගන්නා ආකාරය වෙනස් කරයි."
+        "text": "Ne; njen semantički pomak razvijao se vremenom.",
+        "reading": "න්එ; න්ය්එන් ස්එම්අන්ත්ඉච්ක්ඉ ප්ඔම්අක් ර්අස්ව්ඉය්අඔ ස්එ ව්ර්එම්එන්ඔම්.",
+        "meaning": "නැහැ. එහි අර්ථමය වෙනස්වීම කාලයත් සමඟ සිදු විය."
       },
       {
-        "text": "Koje dokaze treba uzeti u obzir?",
-        "reading": "ක්ඔය්එ ඩ්ඔක්අස්එ ට්ර්එබ්අ උස්එට්ඉ උ ඔබ්ස්ඉර්?",
-        "meaning": "අප සලකා බැලිය යුතු සාක්ෂි මොනවාද?"
+        "text": "Može li etimologija odrediti današnju upotrebu?",
+        "reading": "ම්ඔෂ්එ ල්ඉ එත්ඉම්ඔල්ඔග්ඉය්අ ඔද්ර්එද්ඉත්ඉ ද්අන්අෂ්න්ය්උ උප්ඔත්ර්එබ්උ?",
+        "meaning": "වචන මූල ඉතිහාසයෙන් වර්තමාන භාවිතය තීරණය කළ හැකිද?"
       },
       {
-        "text": "I jezičke obrasce i širi društveni kontekst.",
-        "reading": "ඉ ය්එස්ඉච්ක්එ ඔබ්ර්අස්ට්ස්එ ඉ ෂ්ඉර්ඉ ඩ්ර්උෂ්ට්ව්එන්ඉ ක්ඔන්ට්එක්ස්ට්.",
-        "meaning": "භාෂා රටා සහ පුළුල් සමාජ සන්දර්භය යන දෙකම."
+        "text": "Ne; sadašnji kontekst je važniji od starijeg porekla.",
+        "reading": "න්එ; ස්අද්අෂ්න්ය්ඉ ක්ඔන්ත්එක්ස්ත් ය්එ ව්අෂ්න්ඉය්ඉ ඔද් ස්ත්අර්ඉය්එග් ප්ඔර්එක්ල්අ.",
+        "meaning": "නැහැ. පැරණි මූලාරම්භයට වඩා වර්තමාන සන්දර්භය වැදගත්ය."
       }
     ],
     "listeningPractice": {
@@ -1016,29 +1016,29 @@ export const SERBIAN_C2_LESSONS_11_20 = [
         "word": "uzajamnost",
         "reading": "උස්අය්අම්න්ඔස්ට්",
         "meaning": "අන්‍යෝන්‍යභාවය",
-        "example": "Ublažavanje smanjuje snagu zahteva koji može ugroziti nečije dostojanstvo.",
-        "translation": "ගෞරවයට තර්ජනය කළ හැකි ඉල්ලීමක බලපෑම මෘදු කිරීම අඩු කරයි."
+        "example": "U međukulturnoj komunikaciji, izraz „uzajamnost“ pomaže da se precizira predmet analize.",
+        "translation": "මෙම අන්තර්සංස්කෘතික සන්නිවේදනය තුළ “uzajamnost” යන පදය විශ්ලේෂණයේ අවධානය නිශ්චිත කරයි."
       },
       {
         "word": "počasni oblik",
         "reading": "ප්ඔච්අස්න්ඉ ඔබ්ල්ඉක්",
         "meaning": "ගෞරව රූපය",
-        "example": "Pravila učtivosti se razlikuju, ali nisu proizvoljna.",
-        "translation": "ආචාරශීලීත්වයේ සම්ප්‍රදායන් වෙනස් වුවත් ඒවා අහඹු නොවේ."
+        "example": "Bez jasnog objašnjenja izraza „počasni oblik“, čitalac može pogrešno razumeti argument.",
+        "translation": "“počasni oblik” යන්න පැහැදිලි නොකළහොත් පාඨකයාට තර්කය වැරදි ලෙස තේරුම් ගත හැකිය."
       },
       {
         "word": "pragmatički",
         "reading": "ප්ර්අග්ම්අට්ඉච්ක්ඉ",
         "meaning": "සන්දර්භීය භාවිතයට අදාළ",
-        "example": "Uzajamnost oblikuje tumačenje ponuda i odbijanja.",
-        "translation": "අන්‍යෝන්‍යභාවය යෝජනා සහ ප්‍රතික්ෂේප කිරීම් අර්ථකථනය කරන ආකාරය හැඩගස්වයි."
+        "example": "Primer pokazuje kako „pragmatički“ menja tumačenje u okviru teme: međukulturnoj komunikaciji.",
+        "translation": "මෙම උදාහරණය අන්තර්සංස්කෘතික සන්නිවේදනය සන්දර්භය තුළ “pragmatički” අර්ථකථනය වෙනස් කරන ආකාරය පෙන්වයි."
       },
       {
         "word": "ugrožavajući obraz",
         "reading": "උග්ර්ඔෂ්අව්අය්උච්ඉ ඔබ්ර්අස්",
         "meaning": "ගෞරවයට තර්ජනය කරන",
-        "example": "Počasni oblik označava društvenu distancu i poštovanje.",
-        "translation": "ගෞරව රූපය සමාජ දුරස්ථභාවය සහ ගෞරවය පෙන්වයි."
+        "example": "Istraživač je izdvojio „ugrožavajući obraz“ kao važan element za poređenje različitih stavova.",
+        "translation": "විවිධ ස්ථාවර සසඳන විට “ugrožavajući obraz” වැදගත් අංගයක් ලෙස පර්යේෂකයා හඳුනාගත්තේය."
       }
     ],
     "grammarTitle": "Gramatika i stil",
@@ -1067,24 +1067,24 @@ export const SERBIAN_C2_LESSONS_11_20 = [
     ],
     "dialogue": [
       {
-        "text": "Da li se značenje može svesti na jednu definiciju?",
-        "reading": "ඩ්අ ල්ඉ ස්එ ස්න්අච්එන්ය්එ ම්ඔෂ්එ ස්ව්එස්ට්ඉ න්අ ය්එඩ්න්උ ඩ්එෆ්ඉන්ඉට්ස්ඉය්උ?",
-        "meaning": "අර්ථය එක් නිර්වචනයකට පමණක් සීමා කළ හැකිද?"
+        "text": "Možete li ublažiti zahtev da ne zvuči nametljivo?",
+        "reading": "ම්ඔෂ්එත්එ ල්ඉ උබ්ල්අෂ්ඉත්ඉ ස්අහ්ත්එව් ද්අ න්එ ස්ව්උච්ඉ න්අම්එත්ල්ය්ඉව්ඔ?",
+        "meaning": "ඉල්ලීම බලපෑම්කාරී නොවන ලෙස මෘදු කළ හැකිද?"
       },
       {
-        "text": "Ne uvek; kontekst menja način na koji ga razumemo.",
-        "reading": "න්එ උව්එක්; ක්ඔන්ට්එක්ස්ට් ම්එන්ය්අ න්අච්ඉන් න්අ ක්ඔය්ඉ ග්අ ර්අස්උම්එම්ඔ.",
-        "meaning": "සෑමවිටම නොවේ; සන්දර්භය අප එය තේරුම් ගන්නා ආකාරය වෙනස් කරයි."
+        "text": "Mogu dodati ublažavanje i uvažiti vreme druge osobe.",
+        "reading": "ම්ඔග්උ ද්ඔද්අත්ඉ උබ්ල්අෂ්අව්අන්ය්එ ඉ උව්අෂ්ඉත්ඉ ව්ර්එම්එ ද්ර්උග්එ ඔස්ඔබ්එ.",
+        "meaning": "අනෙක් පුද්ගලයාගේ කාලය පිළිගෙන මෘදු ප්‍රකාශයක් එක් කළ හැකිය."
       },
       {
-        "text": "Koje dokaze treba uzeti u obzir?",
-        "reading": "ක්ඔය්එ ඩ්ඔක්අස්එ ට්ර්එබ්අ උස්එට්ඉ උ ඔබ්ස්ඉර්?",
-        "meaning": "අප සලකා බැලිය යුතු සාක්ෂි මොනවාද?"
+        "text": "Da li bi počasni oblik bio primeren?",
+        "reading": "ද්අ ල්ඉ බ්ඉ ප්ඔච්අස්න්ඉ ඔබ්ල්ඉක් බ්ඉඔ ප්ර්ඉම්එර්එන්?",
+        "meaning": "ගෞරව ආමන්ත්‍රණයක් සුදුසුද?"
       },
       {
-        "text": "I jezičke obrasce i širi društveni kontekst.",
-        "reading": "ඉ ය්එස්ඉච්ක්එ ඔබ්ර්අස්ට්ස්එ ඉ ෂ්ඉර්ඉ ඩ්ර්උෂ්ට්ව්එන්ඉ ක්ඔන්ට්එක්ස්ට්.",
-        "meaning": "භාෂා රටා සහ පුළුල් සමාජ සන්දර්භය යන දෙකම."
+        "text": "Da, ako odgovara odnosu i lokalnim običajima.",
+        "reading": "ද්අ, අක්ඔ ඔද්ග්ඔව්අර්අ ඔද්න්ඔස්උ ඉ ල්ඔක්අල්න්ඉම් ඔබ්ඉච්අය්ඉම්අ.",
+        "meaning": "එය සම්බන්ධතාවයට සහ ප්‍රදේශීය සම්ප්‍රදායට ගැළපේ නම් ඔව්."
       }
     ],
     "listeningPractice": {
@@ -1179,29 +1179,29 @@ export const SERBIAN_C2_LESSONS_11_20 = [
         "word": "spoljašnji efekat",
         "reading": "ස්ප්ඔල්ය්අෂ්න්ය්ඉ එෆ්එක්අට්",
         "meaning": "බාහිර බලපෑම",
-        "example": "Intervencija mora zadovoljiti test srazmernosti.",
-        "translation": "මැදිහත්වීම අනුපාතිකත්ව පරීක්ෂණය සපුරාලිය යුතුය."
+        "example": "U etičkoj proceni tehnologije, izraz „spoljašnji efekat“ pomaže da se precizira predmet analize.",
+        "translation": "මෙම තාක්ෂණයේ සදාචාර ඇගයීම තුළ “spoljašnji efekat” යන පදය විශ්ලේෂණයේ අවධානය නිශ්චිත කරයි."
       },
       {
         "word": "odgovornost",
         "reading": "ඔඩ්ග්ඔව්ඔර්න්ඔස්ට්",
         "meaning": "වගවීම",
-        "example": "Sama objašnjivost ne garantuje odgovornost.",
-        "translation": "පැහැදිලි කළ හැකි බව පමණක් වගවීම සහතික නොකරයි."
+        "example": "Bez jasnog objašnjenja izraza „odgovornost“, čitalac može pogrešno razumeti argument.",
+        "translation": "“odgovornost” යන්න පැහැදිලි නොකළහොත් පාඨකයාට තර්කය වැරදි ලෙස තේරුම් ගත හැකිය."
       },
       {
         "word": "upravljanje",
         "reading": "උප්ර්අව්ල්ය්අන්ය්එ",
         "meaning": "පාලන ක්‍රමවේදය",
-        "example": "Pogođene osobe moraju imati stvarnu mogućnost da ospore odluke.",
-        "translation": "බලපෑමට ලක්වූ පුද්ගලයන්ට තීරණ අභියෝග කිරීමට සැබෑ මාර්ගයක් තිබිය යුතුය."
+        "example": "Primer pokazuje kako „upravljanje“ menja tumačenje u okviru teme: etičkoj proceni tehnologije.",
+        "translation": "මෙම උදාහරණය තාක්ෂණයේ සදාචාර ඇගයීම සන්දර්භය තුළ “upravljanje” අර්ථකථනය වෙනස් කරන ආකාරය පෙන්වයි."
       },
       {
         "word": "pravni lek",
         "reading": "ප්ර්අව්න්ඉ ල්එක්",
         "meaning": "ප්‍රතිකර්මය",
-        "example": "Predostrožan pristup treba uravnotežiti sa mogućim koristima.",
-        "translation": "පූර්ව ආරක්ෂාකාරී ප්‍රවේශය හැකි ප්‍රතිලාභ සමඟ සමබර කළ යුතුය."
+        "example": "Istraživač je izdvojio „pravni lek“ kao važan element za poređenje različitih stavova.",
+        "translation": "විවිධ ස්ථාවර සසඳන විට “pravni lek” වැදගත් අංගයක් ලෙස පර්යේෂකයා හඳුනාගත්තේය."
       }
     ],
     "grammarTitle": "Gramatika i stil",
@@ -1230,24 +1230,24 @@ export const SERBIAN_C2_LESSONS_11_20 = [
     ],
     "dialogue": [
       {
-        "text": "Da li se značenje može svesti na jednu definiciju?",
-        "reading": "ඩ්අ ල්ඉ ස්එ ස්න්අච්එන්ය්එ ම්ඔෂ්එ ස්ව්එස්ට්ඉ න්අ ය්එඩ්න්උ ඩ්එෆ්ඉන්ඉට්ස්ඉය්උ?",
-        "meaning": "අර්ථය එක් නිර්වචනයකට පමණක් සීමා කළ හැකිද?"
+        "text": "Da li je transparentnost dovoljna da opravda sistem?",
+        "reading": "ද්අ ල්ඉ ය්එ ත්ර්අන්ස්ප්අර්එන්ත්න්ඔස්ත් ද්ඔව්ඔල්ය්න්අ ද්අ ඔප්ර්අව්ද්අ ස්ඉස්ත්එම්?",
+        "meaning": "පද්ධතිය සාධාරණීකරණය කිරීමට විනිවිදභාවය පමණක් ප්‍රමාණවත්ද?"
       },
       {
-        "text": "Ne uvek; kontekst menja način na koji ga razumemo.",
-        "reading": "න්එ උව්එක්; ක්ඔන්ට්එක්ස්ට් ම්එන්ය්අ න්අච්ඉන් න්අ ක්ඔය්ඉ ග්අ ර්අස්උම්එම්ඔ.",
-        "meaning": "සෑමවිටම නොවේ; සන්දර්භය අප එය තේරුම් ගන්නා ආකාරය වෙනස් කරයි."
+        "text": "Ne; potrebni su i srazmernost i mogućnost osporavanja.",
+        "reading": "න්එ; ප්ඔත්ර්එබ්න්ඉ ස්උ ඉ ස්ර්අස්ම්එර්න්ඔස්ත් ඉ ම්ඔග්උච්න්ඔස්ත් ඔස්ප්ඔර්අව්අන්ය්අ.",
+        "meaning": "නැහැ. අනුපාතිකත්වය සහ අභියෝග කිරීමේ හැකියාවද අවශ්‍යයි."
       },
       {
-        "text": "Koje dokaze treba uzeti u obzir?",
-        "reading": "ක්ඔය්එ ඩ්ඔක්අස්එ ට්ර්එබ්අ උස්එට්ඉ උ ඔබ්ස්ඉර්?",
-        "meaning": "අප සලකා බැලිය යුතු සාක්ෂි මොනවාද?"
+        "text": "Ko je odgovoran kada nastane šteta?",
+        "reading": "ක්ඔ ය්එ ඔද්ග්ඔව්ඔර්අන් ක්අද්අ න්අස්ත්අන්එ ෂ්ත්එත්අ?",
+        "meaning": "හානියක් සිදු වූ විට වගකිව යුත්තේ කවුද?"
       },
       {
-        "text": "I jezičke obrasce i širi društveni kontekst.",
-        "reading": "ඉ ය්එස්ඉච්ක්එ ඔබ්ර්අස්ට්ස්එ ඉ ෂ්ඉර්ඉ ඩ්ර්උෂ්ට්ව්එන්ඉ ක්ඔන්ට්එක්ස්ට්.",
-        "meaning": "භාෂා රටා සහ පුළුල් සමාජ සන්දර්භය යන දෙකම."
+        "text": "Upravljanje mora odrediti odgovornost i omogućiti pravni lek.",
+        "reading": "උප්ර්අව්ල්ය්අන්ය්එ ම්ඔර්අ ඔද්ර්එද්ඉත්ඉ ඔද්ග්ඔව්ඔර්න්ඔස්ත් ඉ ඔම්ඔග්උච්ඉත්ඉ ප්ර්අව්න්ඉ ල්එක්.",
+        "meaning": "පාලන ක්‍රමය වගවීම නියම කර ප්‍රතිකර්මයක් ලබා දිය යුතුය."
       }
     ],
     "listeningPractice": {
@@ -1342,29 +1342,29 @@ export const SERBIAN_C2_LESSONS_11_20 = [
         "word": "pobijanje",
         "reading": "ප්ඔබ්ඉය්අන්ය්එ",
         "meaning": "ප්‍රතිතර්කය නිෂ්ප්‍රභ කිරීම",
-        "example": "Dijalektika otkriva pretpostavke obe strane.",
-        "translation": "විරුද්ධ අදහස් අතර විමර්ශනය දෙපාර්ශ්වයේම උපකල්පන හෙළි කරයි."
+        "example": "U stručnoj raspravi, izraz „pobijanje“ pomaže da se precizira predmet analize.",
+        "translation": "මෙම විශේෂඥ සාකච්ඡාව තුළ “pobijanje” යන පදය විශ්ලේෂණයේ අවධානය නිශ්චිත කරයි."
       },
       {
         "word": "povezanost",
         "reading": "ප්ඔව්එස්අන්ඔස්ට්",
         "meaning": "වාක්‍ය සම්බන්ධතාව",
-        "example": "Dobra sinteza čuva nijanse, a ipak dolazi do jasnog zaključka.",
-        "translation": "හොඳ සංශ්ලේෂණයක් සූක්ෂ්ම වෙනස්කම් රැකගෙන පැහැදිලි නිගමනයකට පැමිණේ."
+        "example": "Bez jasnog objašnjenja izraza „povezanost“, čitalac može pogrešno razumeti argument.",
+        "translation": "“povezanost” යන්න පැහැදිලි නොකළහොත් පාඨකයාට තර්කය වැරදි ලෙස තේරුම් ගත හැකිය."
       },
       {
         "word": "istaknutost",
         "reading": "ඉස්ට්අක්න්උට්ඔස්ට්",
         "meaning": "ප්‍රමුඛත්වය",
-        "example": "Tvrdnju treba ograničiti jer su dokazi pomešani.",
-        "translation": "සාක්ෂි මිශ්‍ර බැවින් එම ප්‍රකාශයේ සීමාවන් දැක්විය යුතුය."
+        "example": "Primer pokazuje kako „istaknutost“ menja tumačenje u okviru teme: stručnoj raspravi.",
+        "translation": "මෙම උදාහරණය විශේෂඥ සාකච්ඡාව සන්දර්භය තුළ “istaknutost” අර්ථකථනය වෙනස් කරන ආකාරය පෙන්වයි."
       },
       {
         "word": "nijansa",
         "reading": "න්ඉය්අන්ස්අ",
         "meaning": "සූක්ෂ්ම අර්ථ වෙනස",
-        "example": "Pobijanje odgovara na najsnažniju verziju suprotnog argumenta.",
-        "translation": "ප්‍රතිතර්කය විරුද්ධ තර්කයේ ශක්තිමත්ම ආකාරයට පිළිතුරු දෙයි."
+        "example": "Istraživač je izdvojio „nijansa“ kao važan element za poređenje različitih stavova.",
+        "translation": "විවිධ ස්ථාවර සසඳන විට “nijansa” වැදගත් අංගයක් ලෙස පර්යේෂකයා හඳුනාගත්තේය."
       }
     ],
     "grammarTitle": "Gramatika i stil",
@@ -1393,24 +1393,24 @@ export const SERBIAN_C2_LESSONS_11_20 = [
     ],
     "dialogue": [
       {
-        "text": "Da li se značenje može svesti na jednu definiciju?",
-        "reading": "ඩ්අ ල්ඉ ස්එ ස්න්අච්එන්ය්එ ම්ඔෂ්එ ස්ව්එස්ට්ඉ න්අ ය්එඩ්න්උ ඩ්එෆ්ඉන්ඉට්ස්ඉය්උ?",
-        "meaning": "අර්ථය එක් නිර්වචනයකට පමණක් සීමා කළ හැකිද?"
+        "text": "Da li ste odgovorili na najjači protivnički argument?",
+        "reading": "ද්අ ල්ඉ ස්ත්එ ඔද්ග්ඔව්ඔර්ඉල්ඉ න්අ න්අය්ය්අච්ඉ ප්ර්ඔත්ඉව්න්ඉච්ක්ඉ අර්ග්උම්එන්ත්?",
+        "meaning": "ඔබ විරුද්ධ පාර්ශ්වයේ ශක්තිමත්ම තර්කයට පිළිතුරු දුන්නාද?"
       },
       {
-        "text": "Ne uvek; kontekst menja način na koji ga razumemo.",
-        "reading": "න්එ උව්එක්; ක්ඔන්ට්එක්ස්ට් ම්එන්ය්අ න්අච්ඉන් න්අ ක්ඔය්ඉ ග්අ ර්අස්උම්එම්ඔ.",
-        "meaning": "සෑමවිටම නොවේ; සන්දර්භය අප එය තේරුම් ගන්නා ආකාරය වෙනස් කරයි."
+        "text": "Priznao sam njegovu opravdanu tačku pre nego što sam izneo pobijanje.",
+        "reading": "ප්ර්ඉස්න්අඔ ස්අම් න්ය්එග්ඔව්උ ඔප්ර්අව්ද්අන්උ ත්අච්ක්උ ප්ර්එ න්එග්ඔ ෂ්ත්ඔ ස්අම් ඉස්න්එඔ ප්ඔබ්ඉය්අන්ය්එ.",
+        "meaning": "ප්‍රතිතර්කය ඉදිරිපත් කිරීමට පෙර එහි සාධාරණ කරුණ පිළිගත්තා."
       },
       {
-        "text": "Koje dokaze treba uzeti u obzir?",
-        "reading": "ක්ඔය්එ ඩ්ඔක්අස්එ ට්ර්එබ්අ උස්එට්ඉ උ ඔබ්ස්ඉර්?",
-        "meaning": "අප සලකා බැලිය යුතු සාක්ෂි මොනවාද?"
+        "text": "Da li sinteza uklanja svako neslaganje?",
+        "reading": "ද්අ ල්ඉ ස්ඉන්ත්එස්අ උක්ල්අන්ය්අ ස්ව්අක්ඔ න්එස්ල්අග්අන්ය්එ?",
+        "meaning": "සංශ්ලේෂණය සියලු එකඟ නොවීම් ඉවත් කරනවාද?"
       },
       {
-        "text": "I jezičke obrasce i širi društveni kontekst.",
-        "reading": "ඉ ය්එස්ඉච්ක්එ ඔබ්ර්අස්ට්ස්එ ඉ ෂ්ඉර්ඉ ඩ්ර්උෂ්ට්ව්එන්ඉ ක්ඔන්ට්එක්ස්ට්.",
-        "meaning": "භාෂා රටා සහ පුළුල් සමාජ සන්දර්භය යන දෙකම."
+        "text": "Ne; čuva nijanse i razjašnjava preostalu razliku.",
+        "reading": "න්එ; ච්උව්අ න්ඉය්අන්ස්එ ඉ ර්අස්ය්අෂ්න්ය්අව්අ ප්ර්එඔස්ත්අල්උ ර්අස්ල්ඉක්උ.",
+        "meaning": "නැහැ. එය සූක්ෂ්ම වෙනස්කම් රැකගෙන ඉතිරි වෙනස පැහැදිලි කරයි."
       }
     ],
     "listeningPractice": {
@@ -1505,29 +1505,29 @@ export const SERBIAN_C2_LESSONS_11_20 = [
         "word": "kontrafaktualan",
         "reading": "ක්ඔන්ට්ර්අෆ්අක්ට්උඅල්අන්",
         "meaning": "සිදු නොවූ විකල්ප තත්ත්වය",
-        "example": "Zaključak je privremen i zavisi od dodatnih dokaza.",
-        "translation": "නිගමනය තාවකාලික වන අතර තවත් සාක්ෂි මත රඳා පවතී."
+        "example": "U završnoj proceni, izraz „kontrafaktualan“ pomaže da se precizira predmet analize.",
+        "translation": "මෙම අවසාන ඇගයීම තුළ “kontrafaktualan” යන පදය විශ්ලේෂණයේ අවධානය නිශ්චිත කරයි."
       },
       {
         "word": "kompromis",
         "reading": "ක්ඔම්ප්ර්ඔම්ඉස්",
         "meaning": "එකක් වෙනුවට අනෙකක් තෝරාගැනීම",
-        "example": "Nezavisni izvori potvrđuju glavni nalaz.",
-        "translation": "ස්වාධීන මූලාශ්‍ර ප්‍රධාන සොයාගැනීම තහවුරු කරයි."
+        "example": "Bez jasnog objašnjenja izraza „kompromis“, čitalac može pogrešno razumeti argument.",
+        "translation": "“kompromis” යන්න පැහැදිලි නොකළහොත් පාඨකයාට තර්කය වැරදි ලෙස තේරුම් ගත හැකිය."
       },
       {
         "word": "sinteza",
         "reading": "ස්ඉන්ට්එස්අ",
         "meaning": "සංශ්ලේෂණය",
-        "example": "Kontrafaktualno poređenje razjašnjava šta je intervencija promenila.",
-        "translation": "විකල්ප තත්ත්වයක් සමඟ සැසඳීමෙන් මැදිහත්වීම වෙනස් කළ දේ පැහැදිලි වේ."
+        "example": "Primer pokazuje kako „sinteza“ menja tumačenje u okviru teme: završnoj proceni.",
+        "translation": "මෙම උදාහරණය අවසාන ඇගයීම සන්දර්භය තුළ “sinteza” අර්ථකථනය වෙනස් කරන ආකාරය පෙන්වයි."
       },
       {
         "word": "prosuđivanje",
         "reading": "ප්ර්ඔස්උජ්ඉව්අන්ය්එ",
         "meaning": "විචාරශීලී තීරණය",
-        "example": "Konačna procena priznaje kompromise, a da ne preuveličava sigurnost.",
-        "translation": "අවසන් විනිශ්චය විශ්වාස මට්ටම අතිශයෝක්තියෙන් නොදක්වා තේරීම් අතර හුවමාරු පිළිගනී."
+        "example": "Istraživač je izdvojio „prosuđivanje“ kao važan element za poređenje različitih stavova.",
+        "translation": "විවිධ ස්ථාවර සසඳන විට “prosuđivanje” වැදගත් අංගයක් ලෙස පර්යේෂකයා හඳුනාගත්තේය."
       }
     ],
     "grammarTitle": "Gramatika i stil",
@@ -1556,24 +1556,24 @@ export const SERBIAN_C2_LESSONS_11_20 = [
     ],
     "dialogue": [
       {
-        "text": "Da li se značenje može svesti na jednu definiciju?",
-        "reading": "ඩ්අ ල්ඉ ස්එ ස්න්අච්එන්ය්එ ම්ඔෂ්එ ස්ව්එස්ට්ඉ න්අ ය්එඩ්න්උ ඩ්එෆ්ඉන්ඉට්ස්ඉය්උ?",
-        "meaning": "අර්ථය එක් නිර්වචනයකට පමණක් සීමා කළ හැකිද?"
+        "text": "Koliko ste sigurni u svoj zaključak?",
+        "reading": "ක්ඔල්ඉක්ඔ ස්ත්එ ස්ඉග්උර්න්ඉ උ ස්ව්ඔය් ස්අක්ල්ය්උච්අක්?",
+        "meaning": "ඔබේ නිගමනය පිළිබඳ කොපමණ විශ්වාසයක් තිබේද?"
       },
       {
-        "text": "Ne uvek; kontekst menja način na koji ga razumemo.",
-        "reading": "න්එ උව්එක්; ක්ඔන්ට්එක්ස්ට් ම්එන්ය්අ න්අච්ඉන් න්අ ක්ඔය්ඉ ග්අ ර්අස්උම්එම්ඔ.",
-        "meaning": "සෑමවිටම නොවේ; සන්දර්භය අප එය තේරුම් ගන්නා ආකාරය වෙනස් කරයි."
+        "text": "On je privremen i zavisi od sledećeg skupa podataka.",
+        "reading": "ඔන් ය්එ ප්ර්ඉව්ර්එම්එන් ඉ ස්අව්ඉස්ඉ ඔද් ස්ල්එද්එච්එග් ස්ක්උප්අ ප්ඔද්අත්අක්අ.",
+        "meaning": "එය තාවකාලික වන අතර ඊළඟ දත්ත කට්ටලය මත රඳා පවතී."
       },
       {
-        "text": "Koje dokaze treba uzeti u obzir?",
-        "reading": "ක්ඔය්එ ඩ්ඔක්අස්එ ට්ර්එබ්අ උස්එට්ඉ උ ඔබ්ස්ඉර්?",
-        "meaning": "අප සලකා බැලිය යුතු සාක්ෂි මොනවාද?"
+        "text": "Šta bi ojačalo tvrdnju?",
+        "reading": "ෂ්ත්අ බ්ඉ ඔය්අච්අල්ඔ ත්ව්ර්ද්න්ය්උ?",
+        "meaning": "ප්‍රකාශය වඩා ශක්තිමත් කරන්නේ කුමක්ද?"
       },
       {
-        "text": "I jezičke obrasce i širi društveni kontekst.",
-        "reading": "ඉ ය්එස්ඉච්ක්එ ඔබ්ර්අස්ට්ස්එ ඉ ෂ්ඉර්ඉ ඩ්ර්උෂ්ට්ව්එන්ඉ ක්ඔන්ට්එක්ස්ට්.",
-        "meaning": "භාෂා රටා සහ පුළුල් සමාජ සන්දර්භය යන දෙකම."
+        "text": "Nezavisni dokazi mogu je potkrepiti, a kontrafaktualna analiza proverava kompromis.",
+        "reading": "න්එස්අව්ඉස්න්ඉ ද්ඔක්අස්ඉ ම්ඔග්උ ය්එ ප්ඔත්ක්ර්එප්ඉත්ඉ, අ ක්ඔන්ත්ර්අෆ්අක්ත්උඅල්න්අ අන්අල්ඉස්අ ප්ර්ඔව්එර්අව්අ ක්ඔම්ප්ර්ඔම්ඉස්.",
+        "meaning": "ස්වාධීන සාක්ෂි එය තහවුරු කළ හැකි අතර විකල්ප තත්ත්ව විශ්ලේෂණය තේරීම් අතර හුවමාරුව පරීක්ෂා කරයි."
       }
     ],
     "listeningPractice": {
