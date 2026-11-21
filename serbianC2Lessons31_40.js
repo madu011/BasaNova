@@ -83,7 +83,7 @@ export const SERBIAN_C2_LESSONS_31_40 = [
       },
       {
         "text": "Retorički okvir utiče na to kako publika procenjuje dokaz.",
-        "reading": "රෙතොරිච්කි ඔක්вир උතිචේ නා තො කාකො පුබ්ලිකා ප්‍රොට්සෙන්යුයේ දොකාස්.",
+        "reading": "රෙතොරිච්කි ඔක්විර් උතිචේ නා තො කාකො පුබ්ලිකා ප්‍රොට්සෙන්යුයේ දොකාස්.",
         "meaning": "වාග්මය රාමුව ප්‍රේක්ෂකයා සාක්ෂි ඇගයෙන ආකාරයට බලපායි."
       }
     ],
@@ -100,7 +100,7 @@ export const SERBIAN_C2_LESSONS_31_40 = [
       },
       {
         "text": "Da li okvir menja zaključak?",
-        "reading": "ඩා ලි ඔක්вир මෙන්යා සාක්ල්යුචාක්?",
+        "reading": "ඩා ලි ඔක්විර් මෙන්යා සාක්ල්යුචාක්?",
         "meaning": "රාමුව නිගමනය වෙනස් කරනවාද?"
       },
       {
@@ -112,7 +112,7 @@ export const SERBIAN_C2_LESSONS_31_40 = [
     "listeningPractice": {
       "prompt": "Slušajte iskaz i izaberite najpreciznije tumačenje.",
       "audio": "Metafora pretvara apstraktan problem u razumljivu sliku. Metonimija povezuje instituciju sa njenim predstavnicima. Antiteza ističe razliku između dveju pozicija. Retorički okvir utiče na to kako publika procenjuje dokaz.",
-      "reading": "මෙතාෆොරා ප්‍රෙත්වාරා අප්ස්ත්‍රාක්තාන් ප්‍රොබ්ලෙම් උ රාසුම්ලියිවු ස්ලිකු. මෙතොනිමියා පොවෙසුයේ ඉන්ස්තිතුට්සියු සා න්යෙනිම් ප්‍රෙද්ස්තාව්නිට්සිමා. අන්තිතේසා ඉස්තිචේ රාස්ලිකු ඉස්මෙජු ද්වේයු පොසිට්සියා. රෙතොරිච්කි ඔක්вир උතිචේ නා තො කාකො පුබ්ලිකා ප්‍රොට්සෙන්යුයේ දොකාස්.",
+      "reading": "මෙතාෆොරා ප්‍රෙත්වාරා අප්ස්ත්‍රාක්තාන් ප්‍රොබ්ලෙම් උ රාසුම්ලියිවු ස්ලිකු. මෙතොනිමියා පොවෙසුයේ ඉන්ස්තිතුට්සියු සා න්යෙනිම් ප්‍රෙද්ස්තාව්නිට්සිමා. අන්තිතේසා ඉස්තිචේ රාස්ලිකු ඉස්මෙජු ද්වේයු පොසිට්සියා. රෙතොරිච්කි ඔක්විර් උතිචේ නා තො කාකො පුබ්ලිකා ප්‍රොට්සෙන්යුයේ දොකාස්.",
       "options": [
         "රූපකය සංකීර්ණ ගැටලුවක් තේරුම්ගත හැකි රූපයක් බවට පත් කරයි. සම්බන්ධ පද ආදේශය ආයතනයක් එහි නියෝජිතයන් සමඟ සම්බන්ධ කරයි.",
         "Kontekst nije važan za tumačenje.",
@@ -246,7 +246,7 @@ export const SERBIAN_C2_LESSONS_31_40 = [
       },
       {
         "text": "Tekst mora biti usklađen sa važećim propisima.",
-        "reading": "තෙක්ස්ත් මොරා бити උස්ක්ලාජෙන් සා වාෂෙචිම් ප්‍රොපිසිමා.",
+        "reading": "තෙක්ස්ත් මොරා බිති උස්ක්ලාජෙන් සා වාෂෙචිම් ප්‍රොපිසිමා.",
         "meaning": "පාඨය බලපැවැත්වෙන නීති සමඟ අනුකූල විය යුතුය."
       }
     ],
@@ -275,7 +275,7 @@ export const SERBIAN_C2_LESSONS_31_40 = [
     "listeningPractice": {
       "prompt": "Slušajte iskaz i izaberite najpreciznije tumačenje.",
       "audio": "Odredba stupa na snagu nakon potpisivanja. Izuzetak se primenjuje samo pod navedenim uslovima. Nejasna formulacija može izazvati spor. Tekst mora biti usklađen sa važećim propisima.",
-      "reading": "ඔද්‍රෙද්බා ස්තුපා නා ස්නාගු නාකොන් පොත්පිසිවාන්යා. ඉසුසෙතාක් සේ ප්‍රිමෙන්යුයේ සාමො පොද් නාවෙදෙනිම් උස්ලොවිමා. නෙයාස්නා ෆොර්මුලාට්සියා මොෂෙ ඉස්ඇස්වාති ස්පොර්. තෙක්ස්ත් මොරා бити උස්ක්ලාජෙන් සා වාෂෙචිම් ප්‍රොපිසිමා.",
+      "reading": "ඔද්‍රෙද්බා ස්තුපා නා ස්නාගු නාකොන් පොත්පිසිවාන්යා. ඉසුසෙතාක් සේ ප්‍රිමෙන්යුයේ සාමො පොද් නාවෙදෙනිම් උස්ලොවිමා. නෙයාස්නා ෆොර්මුලාට්සියා මොෂෙ ඉස්ඇස්වාති ස්පොර්. තෙක්ස්ත් මොරා බිති උස්ක්ලාජෙන් සා වාෂෙචිම් ප්‍රොපිසිමා.",
       "options": [
         "Kontekst nije važan za tumačenje.",
         "අත්සන් කිරීමෙන් පසු වගන්තිය බලපැවැත්වේ. ව්‍යතිරේකය සඳහන් කොන්දේසි යටතේ පමණක් යෙදේ.",
@@ -562,7 +562,7 @@ export const SERBIAN_C2_LESSONS_31_40 = [
       },
       {
         "text": "Retki dijalekti mogu biti slabije zastupljeni.",
-        "reading": "රෙත්කි දියාලෙක්ති මොගු бити ස්ලාබියේ සාස්තුප්ලෙනි.",
+        "reading": "රෙත්කි දියාලෙක්ති මොගු බිති ස්ලාබියේ සාස්තුප්ලෙනි.",
         "meaning": "දුර්ලභ උපභාෂා අඩුවෙන් නියෝජනය විය හැක."
       },
       {
@@ -601,7 +601,7 @@ export const SERBIAN_C2_LESSONS_31_40 = [
     "listeningPractice": {
       "prompt": "Slušajte iskaz i izaberite najpreciznije tumačenje.",
       "audio": "Model nasleđuje obrasce prisutne u podacima za obuku. Retki dijalekti mogu biti slabije zastupljeni. Visok rezultat ne garantuje pouzdanost u svakom kontekstu. Evaluacija mora uključiti različite govorne zajednice.",
-      "reading": "මොදෙල් නාස්ලෙජුයේ ඔබ්‍රාස්ට්සේ ප්‍රිසුත්නේ උ පොදට්සිමා සා ඔබුකු. රෙත්කි දියාලෙක්ති මොගු бити ස්ලාබියේ සාස්තුප්ලෙනි. විසොක් රෙසුල්තාත් නේ ගාරාන්තුයේ පොඋස්දානොස්ත් උ ස්වාකොම් කොන්ටෙක්ස්තු. එවාලුආට්සියා මොරා උක්ල්යුචිති රාස්ලිචිතේ ගොවොර්නේ සායෙද්නිට්සේ.",
+      "reading": "මොදෙල් නාස්ලෙජුයේ ඔබ්‍රාස්ට්සේ ප්‍රිසුත්නේ උ පොදට්සිමා සා ඔබුකු. රෙත්කි දියාලෙක්ති මොගු බිති ස්ලාබියේ සාස්තුප්ලෙනි. විසොක් රෙසුල්තාත් නේ ගාරාන්තුයේ පොඋස්දානොස්ත් උ ස්වාකොම් කොන්ටෙක්ස්තු. එවාලුආට්සියා මොරා උක්ල්යුචිති රාස්ලිචිතේ ගොවොර්නේ සායෙද්නිට්සේ.",
       "options": [
         "ආකෘතිය පුහුණු දත්තවල පවතින රටා උරුම කරගනී. දුර්ලභ උපභාෂා අඩුවෙන් නියෝජනය විය හැක.",
         "Kontekst nije važan za tumačenje.",
@@ -1061,7 +1061,7 @@ export const SERBIAN_C2_LESSONS_31_40 = [
       },
       {
         "text": "Saglasnost mora biti precizno zabeležena.",
-        "reading": "සාග්ලාස්නොස්ත් මොරා бити ප්‍රෙට්සිස්නො සාබෙලෙෂෙනා.",
+        "reading": "සාග්ලාස්නොස්ත් මොරා බිති ප්‍රෙට්සිස්නො සාබෙලෙෂෙනා.",
         "meaning": "එකඟතාව නිවැරදිව ලේඛනගත කළ යුතුය."
       }
     ],
@@ -1090,7 +1090,7 @@ export const SERBIAN_C2_LESSONS_31_40 = [
     "listeningPractice": {
       "prompt": "Slušajte iskaz i izaberite najpreciznije tumačenje.",
       "audio": "Ustupak treba povezati sa jasnom protivvrednošću. Zajednički interes otvara prostor za kompromis. Protivpredlog menja uslove, a ne cilj razgovora. Saglasnost mora biti precizno zabeležena.",
-      "reading": "උස්තුපාක් ත්‍රෙබා පොවෙසාති සා යාස්නොම් ප්‍රොතිව්ව්‍රෙද්නොස්චු. සායෙද්නිච්කි ඉන්ටෙරෙස් ඔත්වෝරා ප්‍රොස්තොර් සා කොම්ප්‍රොමිස්. ප්‍රොතිව්ප්‍රෙද්ලොග් මෙන්යා උස්ලොවේ, ආ නේ ට්සිල්ය් රාස්ගොවොරා. සාග්ලාස්නොස්ත් මොරා бити ප්‍රෙට්සිස්නො සාබෙලෙෂෙනා.",
+      "reading": "උස්තුපාක් ත්‍රෙබා පොවෙසාති සා යාස්නොම් ප්‍රොතිව්ව්‍රෙද්නොස්චු. සායෙද්නිච්කි ඉන්ටෙරෙස් ඔත්වෝරා ප්‍රොස්තොර් සා කොම්ප්‍රොමිස්. ප්‍රොතිව්ප්‍රෙද්ලොග් මෙන්යා උස්ලොවේ, ආ නේ ට්සිල්ය් රාස්ගොවොරා. සාග්ලාස්නොස්ත් මොරා බිති ප්‍රෙට්සිස්නො සාබෙලෙෂෙනා.",
       "options": [
         "සහනයක් පැහැදිලි ප්‍රතිලාභයක් සමඟ සම්බන්ධ කළ යුතුය. පොදු උනන්දුව සම්මුතියකට ඉඩ සලසයි.",
         "Kontekst nije važan za tumačenje.",
@@ -1550,7 +1550,7 @@ export const SERBIAN_C2_LESSONS_31_40 = [
       },
       {
         "text": "Samokorekcija mora biti kratka i funkcionalna.",
-        "reading": "සාමොකොරෙක්ට්සියා මොරා бити ක්‍රාත්කා ඉ ෆුන්ක්ට්සියොනාල්නා.",
+        "reading": "සාමොකොරෙක්ට්සියා මොරා බිති ක්‍රාත්කා ඉ ෆුන්ක්ට්සියොනාල්නා.",
         "meaning": "ස්වයං නිවැරදි කිරීම කෙටි හා කාර්යමය විය යුතුය."
       }
     ],
@@ -1579,7 +1579,7 @@ export const SERBIAN_C2_LESSONS_31_40 = [
     "listeningPractice": {
       "prompt": "Slušajte iskaz i izaberite najpreciznije tumačenje.",
       "audio": "Tumač deli govor na smisaone celine. Preveliko zaostajanje povećava rizik od izostavljanja. Anticipacija zahteva poznavanje teme i konteksta. Samokorekcija mora biti kratka i funkcionalna.",
-      "reading": "තුමාච් දෙලි ගොවොර් නා ස්මිසාඔනේට්සෙලිනේ. ප්‍රෙවෙලිකො සාඔස්තායාන්යේ පොවෙචාවා රිසික් ඔද් ඉසොස්තාව්ල්යාන්යා. අන්තිට්සිපාට්සියා සාහ්තෙවා පොස්නාවාන්යේ තේමේ ඉ කොන්ටෙක්ස්තා. සාමොකොරෙක්ට්සියා මොරා бити ක්‍රාත්කා ඉ ෆුන්ක්ට්සියොනාල්නා.",
+      "reading": "තුමාච් දෙලි ගොවොර් නා ස්මිසාඔනේට්සෙලිනේ. ප්‍රෙවෙලිකො සාඔස්තායාන්යේ පොවෙචාවා රිසික් ඔද් ඉසොස්තාව්ල්යාන්යා. අන්තිට්සිපාට්සියා සාහ්තෙවා පොස්නාවාන්යේ තේමේ ඉ කොන්ටෙක්ස්තා. සාමොකොරෙක්ට්සියා මොරා බිති ක්‍රාත්කා ඉ ෆුන්ක්ට්සියොනාල්නා.",
       "options": [
         "භාෂණය අර්ථවත් කොටස්වලට බෙදයි. අධික ප්‍රමාදය තොරතුරු මඟහැරීමේ අවදානම වැඩි කරයි.",
         "Kontekst nije važan za tumačenje.",
