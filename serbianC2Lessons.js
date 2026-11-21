@@ -1526,8 +1526,8 @@ export const SERBIAN_C2_LESSONS = [
         "word": "preciznost",
         "reading": "ප්ර්එට්ස්ඉස්න්ඔස්ට්",
         "meaning": "නිරවද්‍යතාව",
-        "example": "Istraživač je izdvojio „preciznost“ kao važan element za poređenje različitih stavova.",
-        "translation": "විවිධ ස්ථාවර සසඳන විට “preciznost” වැදගත් අංගයක් ලෙස පර්යේෂකයා හඳුනාගත්තේය."
+        "example": "U završnom izlaganju, „preciznost“ sprečava da tvrdnja prevaziđe dostupne dokaze.",
+        "translation": "අවසාන ඉදිරිපත් කිරීමේදී “නිරවද්‍යතාව” ප්‍රකාශය පවතින සාක්ෂි ඉක්මවා යාම වළක්වයි."
       }
     ],
     "grammarTitle": "Gramatika, stil i značenje",
