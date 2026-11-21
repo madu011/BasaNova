@@ -206,21 +206,21 @@ export const SERBIAN_C2_LESSONS_41_50 = [
       },
       {
         "word": "višejezičnost",
-        "reading": "විෂෙයෙසич්නොස්ත්",
+        "reading": "විෂෙයෙසිච්නොස්ත්",
         "meaning": "බහුභාෂිකත්වය",
         "example": "Dijalekatski kontinuum ne prati uvek državne granice.",
         "translation": "උපභාෂා අඛණ්ඩ පරාසය සැමවිටම රාජ්‍ය සීමා අනුගමනය නොකරයි."
       },
       {
         "word": "jezičko planiranje",
-        "reading": "යෙසич්කො ප්ලානිරාන්යේ",
+        "reading": "යෙසිච්කො ප්ලානිරාන්යේ",
         "meaning": "භාෂා සැලසුම්කරණය",
         "example": "Stigmatizacija govora može ograničiti društvenu mobilnost.",
         "translation": "කථන රටාවක් අපකීර්තියට පත් කිරීම සමාජ සංචලතාව සීමා කළ හැක."
       },
       {
         "word": "jezička prava",
-        "reading": "යෙසич්කා ප්‍රාවා",
+        "reading": "යෙසිච්කා ප්‍රාවා",
         "meaning": "භාෂා අයිතිවාසිකම්",
         "example": "Jezička prava obuhvataju pristup obrazovanju i javnim uslugama.",
         "translation": "භාෂා අයිතිවාසිකම් අධ්‍යාපනයට හා රාජ්‍ය සේවාවලට ප්‍රවේශය ඇතුළත් කරයි."
@@ -830,7 +830,7 @@ export const SERBIAN_C2_LESSONS_41_50 = [
       },
       {
         "word": "vidljivost",
-        "reading": "විදිල්යивොස්ත්",
+        "reading": "විද්ල්යිවොස්ත්",
         "meaning": "දෘශ්‍යමානභාවය",
         "example": "Vidljivost prevodioca zavisi od žanra i izdavačke prakse.",
         "translation": "පරිවර්තකයාගේ දෘශ්‍යමානභාවය ප්‍රභේදය හා ප්‍රකාශන ක්‍රමය මත රඳා පවතී."
