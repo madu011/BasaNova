@@ -144,11 +144,11 @@ export const ENGLISH_C2_LESSONS = [
       {
         "prompt": "What should guide a nuanced interpretation?",
         "options": [
-          "Context, evidence and speaker intention",
           "Dictionary meaning alone",
-          "An unsupported assumption"
+          "An unsupported assumption",
+          "Context, evidence and speaker intention"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Interpretation should consider context and evidence."
       },
       {
@@ -277,31 +277,31 @@ export const ENGLISH_C2_LESSONS = [
       "audio": "The irony becomes clear only in the final sentence. His deadpan delivery made the remark unexpectedly funny. The parody imitates the style while exposing its weaknesses. Sarcasm can damage trust when the relationship is unclear.",
       "reading": "ත්එ ඉර්ඔන්යි බ්එක්ඔම්එස් ක්ල්එඇර් ඔන්ල්යි ඉන් ත්එ ෆ්ඉන්ඇල් ස්එන්ට්එන්ක්එ. හ්ඉස් ඩ්එඇඩ්ප්ඇන් ඩ්එල්ඉව්එර්යි ම්ඇඩ්එ ත්එ ර්එම්ඇර්ක් අන්එක්ස්ප්එක්ට්එඩ්ල්යි ෆ්අන්න්යි. ත්එ ප්ඇර්ඔඩ්යි ඉම්ඉට්ඇට්එස් ත්එ ස්ට්යිල්එ ව්හ්ඉල්එ එක්ස්ප්ඔස්ඉන්ග් ඉට්ස් ව්එඇක්න්එස්ස්එස්. ස්ඇර්ක්ඇස්ම් ක්ඇන් ඩ්ඇම්ඇග්එ ට්ර්අස්ට් ව්හ්එන් ත්එ ර්එල්ඇෂන්ෂ්ඉප් ඉස් අන්ක්ල්එඇර්.",
       "options": [
-        "උපහාසය පැහැදිලි වන්නේ අවසාන වාක්‍යයේදී පමණි. ඔහු හැඟීම් නොපෙන්වා කී නිසා එම ප්‍රකාශය අනපේක්ෂිත ලෙස විහිළුකාරී විය.",
         "සියලු ප්‍රකාශ සෘජු සහ අර්ථ දෙකක් නැති ඒවාය.",
+        "උපහාසය පැහැදිලි වන්නේ අවසාන වාක්‍යයේදී පමණි. ඔහු හැඟීම් නොපෙන්වා කී නිසා එම ප්‍රකාශය අනපේක්ෂිත ලෙස විහිළුකාරී විය.",
         "සන්දර්භය කිසිසේත් වැදගත් නොවේ."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Which concept is central to this lesson?",
         "options": [
-          "irony",
           "sarcasm",
+          "irony",
           "parody"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "irony is a key term in this topic."
       },
       {
         "prompt": "Choose another relevant specialist term.",
         "options": [
           "punchline",
-          "deadpan",
-          "satirical"
+          "satirical",
+          "deadpan"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "deadpan is also central to this topic."
       },
       {
@@ -317,11 +317,11 @@ export const ENGLISH_C2_LESSONS = [
       {
         "prompt": "How should uncertainty be expressed?",
         "options": [
-          "Qualify the claim precisely",
           "Present inference as proven fact",
+          "Qualify the claim precisely",
           "Ignore alternative readings"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "C2 discourse requires precise qualification."
       }
     ]
@@ -440,51 +440,51 @@ export const ENGLISH_C2_LESSONS = [
       "audio": "Her idiolect reflects several regional influences. Code-switching can signal identity and social alignment. A dialect is systematic rather than defective speech. The standard form is useful, but it does not erase variation.",
       "reading": "හ්එර් ඉඩ්ඉඔල්එක්ට් ර්එෆ්ල්එක්ට්ස් ස්එව්එර්ඇල් ර්එග්ඉඔන්ඇල් ඉන්ෆ්ල්අඑන්ක්එස්. ක්ඔඩ්එ-ස්ව්ඉට්ච්ඉන්ග් ක්ඇන් ස්ඉග්න්ඇල් ඉඩ්එන්ට්ඉට්යි ඇන්ඩ් ස්ඔක්ඉඇල් ඇල්ඉග්න්ම්එන්ට්. ඇ ඩ්ඉඇල්එක්ට් ඉස් ස්යිස්ට්එම්ඇට්ඉක් ර්ඇත්එර් ත්ඇන් ඩ්එෆ්එක්ට්ඉව්එ ස්ප්එඑච්. ත්එ ස්ට්ඇන්ඩ්ඇර්ඩ් ෆ්ඔර්ම් ඉස් අස්එෆ්අල්, බ්අට් ඉට් ඩ්ඔඑස් න්ඔට් එර්ඇස්එ ව්ඇර්ඉඇෂන්.",
       "options": [
-        "ඇගේ පුද්ගලික භාෂා රටාව ප්‍රදේශ කිහිපයක බලපෑම් පෙන්වයි. භාෂා මාරු කිරීම අනන්‍යතාව සහ සමාජ සම්බන්ධතාව පෙන්විය හැකිය.",
         "සියලු ප්‍රකාශ සෘජු සහ අර්ථ දෙකක් නැති ඒවාය.",
-        "සන්දර්භය කිසිසේත් වැදගත් නොවේ."
+        "සන්දර්භය කිසිසේත් වැදගත් නොවේ.",
+        "ඇගේ පුද්ගලික භාෂා රටාව ප්‍රදේශ කිහිපයක බලපෑම් පෙන්වයි. භාෂා මාරු කිරීම අනන්‍යතාව සහ සමාජ සම්බන්ධතාව පෙන්විය හැකිය."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Which concept is central to this lesson?",
         "options": [
-          "idiolect",
           "vernacular",
-          "register"
+          "register",
+          "idiolect"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "idiolect is a key term in this topic."
       },
       {
         "prompt": "Choose another relevant specialist term.",
         "options": [
-          "code-switching",
           "accent",
+          "code-switching",
           "sociolect"
         ],
-        "answer": 1,
+        "answer": 0,
         "explanation": "accent is also central to this topic."
       },
       {
         "prompt": "What should guide a nuanced interpretation?",
         "options": [
-          "Context, evidence and speaker intention",
           "Dictionary meaning alone",
+          "Context, evidence and speaker intention",
           "An unsupported assumption"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Interpretation should consider context and evidence."
       },
       {
         "prompt": "How should uncertainty be expressed?",
         "options": [
-          "Qualify the claim precisely",
           "Present inference as proven fact",
-          "Ignore alternative readings"
+          "Ignore alternative readings",
+          "Qualify the claim precisely"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "C2 discourse requires precise qualification."
       }
     ]
@@ -633,11 +633,11 @@ export const ENGLISH_C2_LESSONS = [
       {
         "prompt": "What should guide a nuanced interpretation?",
         "options": [
-          "Context, evidence and speaker intention",
           "Dictionary meaning alone",
-          "An unsupported assumption"
+          "An unsupported assumption",
+          "Context, evidence and speaker intention"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Interpretation should consider context and evidence."
       },
       {
@@ -766,31 +766,31 @@ export const ENGLISH_C2_LESSONS = [
       "audio": "The two verbs share a denotation but differ in connotation. That adjective is too informal for the intended register. The collocation sounds natural to fluent speakers. Lexical precision depends on context, not dictionary meaning alone.",
       "reading": "ත්එ ට්ව්ඔ ව්එර්බ්ස් ෂ්ඇර්එ ඇ ඩ්එන්ඔට්ඇෂන් බ්අට් ඩ්ඉෆ්ෆ්එර් ඉන් ක්ඔන්න්ඔට්ඇෂන්. ත්ඇට් ඇඩ්ජ්එක්ට්ඉව්එ ඉස් ට්ඔඔ ඉන්ෆ්ඔර්ම්ඇල් ෆ්ඔර් ත්එ ඉන්ට්එන්ඩ්එඩ් ර්එග්ඉස්ට්එර්. ත්එ ක්ඔල්ල්ඔක්ඇෂන් ස්ඔඅන්ඩ්ස් න්ඇට්අර්ඇල් ට්ඔ ෆ්ල්අඑන්ට් ස්ප්එඇක්එර්ස්. ල්එක්ස්ඉක්ඇල් ප්ර්එක්ඉස්ඉඔන් ඩ්එප්එන්ඩ්ස් ඔන් ක්ඔන්ට්එක්ස්ට්, න්ඔට් ඩ්ඉක්ෂන්ඇර්යි ම්එඇන්ඉන්ග් ඇල්ඔන්එ.",
       "options": [
-        "ක්‍රියාපද දෙකේ මූලික අර්ථය සමාන වුවත් හැඟවුම් අර්ථ වෙනස්ය. එම විශේෂණය අපේක්ෂිත භාෂා මට්ටමට වඩා අවිධිමත්ය.",
         "සියලු ප්‍රකාශ සෘජු සහ අර්ථ දෙකක් නැති ඒවාය.",
+        "ක්‍රියාපද දෙකේ මූලික අර්ථය සමාන වුවත් හැඟවුම් අර්ථ වෙනස්ය. එම විශේෂණය අපේක්ෂිත භාෂා මට්ටමට වඩා අවිධිමත්ය.",
         "සන්දර්භය කිසිසේත් වැදගත් නොවේ."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Which concept is central to this lesson?",
         "options": [
-          "connotation",
           "denotation",
+          "connotation",
           "register"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "connotation is a key term in this topic."
       },
       {
         "prompt": "Choose another relevant specialist term.",
         "options": [
           "collocation",
-          "polysemy",
-          "semantic"
+          "semantic",
+          "polysemy"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "polysemy is also central to this topic."
       },
       {
@@ -806,11 +806,11 @@ export const ENGLISH_C2_LESSONS = [
       {
         "prompt": "How should uncertainty be expressed?",
         "options": [
-          "Qualify the claim precisely",
           "Present inference as proven fact",
+          "Qualify the claim precisely",
           "Ignore alternative readings"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "C2 discourse requires precise qualification."
       }
     ]
@@ -929,51 +929,51 @@ export const ENGLISH_C2_LESSONS = [
       "audio": "The allusion enriches the passage without interrupting its flow. Intertextuality invites readers to connect separate works. The archetype is reinterpreted rather than simply repeated. The final image creates an echo of an earlier scene.",
       "reading": "ත්එ ඇල්ල්අස්ඉඔන් එන්ර්ඉච්එස් ත්එ ප්ඇස්ස්ඇග්එ ව්ඉත්ඔඅට් ඉන්ට්එර්ර්අප්ට්ඉන්ග් ඉට්ස් ෆ්ල්ඔව්. ඉන්ට්එර්ට්එක්ස්ට්අඇල්ඉට්යි ඉන්ව්ඉට්එස් ර්එඇඩ්එර්ස් ට්ඔ ක්ඔන්න්එක්ට් ස්එප්ඇර්ඇට්එ ව්ඔර්ක්ස්. ත්එ ඇර්ච්එට්යිප්එ ඉස් ර්එඉන්ට්එර්ප්ර්එට්එඩ් ර්ඇත්එර් ත්ඇන් ස්ඉම්ප්ල්යි ර්එප්එඇට්එඩ්. ත්එ ෆ්ඉන්ඇල් ඉම්ඇග්එ ක්ර්එඇට්එස් ඇන් එච්ඔ ඔෆ් ඇන් එඇර්ල්ඉඑර් ස්ක්එන්එ.",
       "options": [
-        "සාහිත්‍ය සඳහන ඡේදයේ ගලායාම බිඳ නොදමා එය පොහොසත් කරයි. පාඨ අතර අන්තර්සම්බන්ධය වෙනස් කෘති සම්බන්ධ කිරීමට පාඨකයාට ආරාධනා කරයි.",
         "සියලු ප්‍රකාශ සෘජු සහ අර්ථ දෙකක් නැති ඒවාය.",
-        "සන්දර්භය කිසිසේත් වැදගත් නොවේ."
+        "සන්දර්භය කිසිසේත් වැදගත් නොවේ.",
+        "සාහිත්‍ය සඳහන ඡේදයේ ගලායාම බිඳ නොදමා එය පොහොසත් කරයි. පාඨ අතර අන්තර්සම්බන්ධය වෙනස් කෘති සම්බන්ධ කිරීමට පාඨකයාට ආරාධනා කරයි."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Which concept is central to this lesson?",
         "options": [
-          "allusion",
           "intertextuality",
-          "archetype"
+          "archetype",
+          "allusion"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "allusion is a key term in this topic."
       },
       {
         "prompt": "Choose another relevant specialist term.",
         "options": [
-          "motif",
           "resonance",
+          "motif",
           "reinterpretation"
         ],
-        "answer": 1,
+        "answer": 0,
         "explanation": "resonance is also central to this topic."
       },
       {
         "prompt": "What should guide a nuanced interpretation?",
         "options": [
-          "Context, evidence and speaker intention",
           "Dictionary meaning alone",
+          "Context, evidence and speaker intention",
           "An unsupported assumption"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Interpretation should consider context and evidence."
       },
       {
         "prompt": "How should uncertainty be expressed?",
         "options": [
-          "Qualify the claim precisely",
           "Present inference as proven fact",
-          "Ignore alternative readings"
+          "Ignore alternative readings",
+          "Qualify the claim precisely"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "C2 discourse requires precise qualification."
       }
     ]
@@ -1122,11 +1122,11 @@ export const ENGLISH_C2_LESSONS = [
       {
         "prompt": "What should guide a nuanced interpretation?",
         "options": [
-          "Context, evidence and speaker intention",
           "Dictionary meaning alone",
-          "An unsupported assumption"
+          "An unsupported assumption",
+          "Context, evidence and speaker intention"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Interpretation should consider context and evidence."
       },
       {
@@ -1255,31 +1255,31 @@ export const ENGLISH_C2_LESSONS = [
       "audio": "A face-saving proposal allows both parties to move forward. The mediator reframed the accusation as a shared concern. Confidentiality is essential to rebuilding rapport. Impartiality must be visible as well as genuine.",
       "reading": "ඇ ෆ්ඇක්එ-ස්ඇව්ඉන්ග් ප්ර්ඔප්ඔස්ඇල් ඇල්ල්ඔව්ස් බ්ඔත් ප්ඇර්ට්ඉඑස් ට්ඔ ම්ඔව්එ ෆ්ඔර්ව්ඇර්ඩ්. ත්එ ම්එඩ්ඉඇට්ඔර් ර්එෆ්ර්ඇම්එඩ් ත්එ ඇක්ක්අස්ඇෂන් ඇස් ඇ ෂ්ඇර්එඩ් ක්ඔන්ක්එර්න්. ක්ඔන්ෆ්ඉඩ්එන්ට්ඉඇල්ඉට්යි ඉස් එස්ස්එන්ට්ඉඇල් ට්ඔ ර්එබ්අඉල්ඩ්ඉන්ග් ර්ඇප්ප්ඔර්ට්. ඉම්ප්ඇර්ට්ඉඇල්ඉට්යි ම්අස්ට් බ්එ ව්ඉස්ඉබ්ල්එ ඇස් ව්එල්ල් ඇස් ග්එන්අඉන්එ.",
       "options": [
-        "ගෞරවය රැකගන්නා යෝජනාවක් දෙපාර්ශ්වයටම ඉදිරියට යාමට ඉඩ සලසයි. මැදිහත්කරු චෝදනාව පොදු සැලකිල්ලක් ලෙස නැවත රාමුගත කළේය.",
         "සියලු ප්‍රකාශ සෘජු සහ අර්ථ දෙකක් නැති ඒවාය.",
+        "ගෞරවය රැකගන්නා යෝජනාවක් දෙපාර්ශ්වයටම ඉදිරියට යාමට ඉඩ සලසයි. මැදිහත්කරු චෝදනාව පොදු සැලකිල්ලක් ලෙස නැවත රාමුගත කළේය.",
         "සන්දර්භය කිසිසේත් වැදගත් නොවේ."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Which concept is central to this lesson?",
         "options": [
-          "face-saving",
           "rapport",
+          "face-saving",
           "reconciliation"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "face-saving is a key term in this topic."
       },
       {
         "prompt": "Choose another relevant specialist term.",
         "options": [
           "impasse",
-          "de-escalation",
-          "confidentiality"
+          "confidentiality",
+          "de-escalation"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "de-escalation is also central to this topic."
       },
       {
@@ -1295,11 +1295,11 @@ export const ENGLISH_C2_LESSONS = [
       {
         "prompt": "How should uncertainty be expressed?",
         "options": [
-          "Qualify the claim precisely",
           "Present inference as proven fact",
+          "Qualify the claim precisely",
           "Ignore alternative readings"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "C2 discourse requires precise qualification."
       }
     ]
@@ -1418,51 +1418,51 @@ export const ENGLISH_C2_LESSONS = [
       "audio": "A literal translation would preserve words but lose the joke. The translator balances fidelity with cultural readability. Some expressions require a functional rather than formal equivalent. The chosen register should suit the target audience.",
       "reading": "ඇ ල්ඉට්එර්ඇල් ට්ර්ඇන්ස්ල්ඇෂන් ව්ඔඅල්ඩ් ප්ර්එස්එර්ව්එ ව්ඔර්ඩ්ස් බ්අට් ල්ඔස්එ ත්එ ජ්ඔක්එ. ත්එ ට්ර්ඇන්ස්ල්ඇට්ඔර් බ්ඇල්ඇන්ක්එස් ෆ්ඉඩ්එල්ඉට්යි ව්ඉත් ක්අල්ට්අර්ඇල් ර්එඇඩ්ඇබ්ඉල්ඉට්යි. ස්ඔම්එ එක්ස්ප්ර්එස්ස්ඉඔන්ස් ර්එක්අඉර්එ ඇ ෆ්අන්ක්ෂන්ඇල් ර්ඇත්එර් ත්ඇන් ෆ්ඔර්ම්ඇල් එක්අඉව්ඇල්එන්ට්. ත්එ ච්ඔස්එන් ර්එග්ඉස්ට්එර් ෂ්ඔඅල්ඩ් ස්අඉට් ත්එ ට්ඇර්ග්එට් ඇඅඩ්ඉඑන්ක්එ.",
       "options": [
-        "වචනාර්ථ පරිවර්තනය වචන රැකගත්තත් විහිළුවේ අර්ථය නැති කරයි. පරිවර්තකයා මුල් පාඨයට විශ්වාසවන්ත බව සහ සංස්කෘතික කියවීමේ පහසුව සමබර කරයි.",
         "සියලු ප්‍රකාශ සෘජු සහ අර්ථ දෙකක් නැති ඒවාය.",
-        "සන්දර්භය කිසිසේත් වැදගත් නොවේ."
+        "සන්දර්භය කිසිසේත් වැදගත් නොවේ.",
+        "වචනාර්ථ පරිවර්තනය වචන රැකගත්තත් විහිළුවේ අර්ථය නැති කරයි. පරිවර්තකයා මුල් පාඨයට විශ්වාසවන්ත බව සහ සංස්කෘතික කියවීමේ පහසුව සමබර කරයි."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Which concept is central to this lesson?",
         "options": [
-          "equivalence",
           "untranslatable",
-          "domestication"
+          "domestication",
+          "equivalence"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "equivalence is a key term in this topic."
       },
       {
         "prompt": "Choose another relevant specialist term.",
         "options": [
-          "foreignisation",
           "pragmatics",
+          "foreignisation",
           "idiomatic"
         ],
-        "answer": 1,
+        "answer": 0,
         "explanation": "pragmatics is also central to this topic."
       },
       {
         "prompt": "What should guide a nuanced interpretation?",
         "options": [
-          "Context, evidence and speaker intention",
           "Dictionary meaning alone",
+          "Context, evidence and speaker intention",
           "An unsupported assumption"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Interpretation should consider context and evidence."
       },
       {
         "prompt": "How should uncertainty be expressed?",
         "options": [
-          "Qualify the claim precisely",
           "Present inference as proven fact",
-          "Ignore alternative readings"
+          "Ignore alternative readings",
+          "Qualify the claim precisely"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "C2 discourse requires precise qualification."
       }
     ]
@@ -1611,11 +1611,11 @@ export const ENGLISH_C2_LESSONS = [
       {
         "prompt": "What should guide a nuanced interpretation?",
         "options": [
-          "Context, evidence and speaker intention",
           "Dictionary meaning alone",
-          "An unsupported assumption"
+          "An unsupported assumption",
+          "Context, evidence and speaker intention"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Interpretation should consider context and evidence."
       },
       {
