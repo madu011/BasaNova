@@ -114,31 +114,31 @@ export const SERBIAN_C2_LESSONS_11_20 = [
       "audio": "Termin nema stabilan referent izvan svog konteksta. Precizna definicija razlikuje pojam od njegovih primera. Rasprava je delom epistemološka, a delom ontološka. Taksonomija je korisna, ali se njene kategorije preklapaju.",
       "reading": "ට්එර්ම්ඉන් න්එම්අ ස්ට්අබ්ඉල්අන් ර්එෆ්එර්එන්ට් ඉස්ව්අන් ස්ව්ඔග් ක්ඔන්ට්එක්ස්ට්අ. ප්ර්එට්ස්ඉස්න්අ ඩ්එෆ්ඉන්ඉට්ස්ඉය්අ ර්අස්ල්ඉක්උය්එ ප්ඔය්අම් ඔඩ් න්ය්එග්ඔව්ඉහ් ප්ර්ඉම්එර්අ. ර්අස්ප්ර්අව්අ ය්එ ඩ්එල්ඔම් එප්ඉස්ට්එම්ඔල්ඔෂ්ක්අ, අ ඩ්එල්ඔම් ඔන්ට්ඔල්ඔෂ්ක්අ. ට්අක්ස්ඔන්ඔම්ඉය්අ ය්එ ක්ඔර්ඉස්න්අ, අල්ඉ ස්එ න්ය්එන්එ ක්අට්එග්ඔර්ඉය්එ ප්ර්එක්ල්අප්අය්උ.",
       "options": [
-        "එම පදයට සන්දර්භයෙන් පිටත ස්ථාවර යොමු වස්තුවක් නැත. නිවැරදි නිර්වචනයක් සංකල්පය එහි උදාහරණවලින් වෙන් කරයි.",
         "සන්දර්භය කිසිසේත් වැදගත් නොවේ.",
+        "එම පදයට සන්දර්භයෙන් පිටත ස්ථාවර යොමු වස්තුවක් නැත. නිවැරදි නිර්වචනයක් සංකල්පය එහි උදාහරණවලින් වෙන් කරයි.",
         "එක් අර්ථකථනයක් පමණක් සැමවිටම නිවැරදිය."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Koji pojam je ključan za ovu lekciju?",
         "options": [
-          "referent",
           "označitelj",
+          "referent",
           "označeno"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "referent je ključni pojam."
       },
       {
         "prompt": "Izaberite još jedan važan stručni izraz.",
         "options": [
           "taksonomija",
-          "epistemički",
-          "ontologija"
+          "ontologija",
+          "epistemički"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "epistemički je važan stručni izraz."
       },
       {
@@ -154,11 +154,11 @@ export const SERBIAN_C2_LESSONS_11_20 = [
       {
         "prompt": "අවිනිශ්චිතතාව ප්‍රකාශ කළ යුත්තේ කෙසේද?",
         "options": [
-          "Precizno ograničiti tvrdnju",
           "Predstaviti pretpostavku kao činjenicu",
+          "Precizno ograničiti tvrdnju",
           "Izostaviti nepoznate podatke"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "නිශ්චිත සීමා දැක්වීම C2 මට්ටමේ වැදගත් කුසලතාවකි."
       }
     ]
@@ -277,51 +277,51 @@ export const SERBIAN_C2_LESSONS_11_20 = [
       "audio": "Presedan je uverljiv, ali nije obavezujući u ovoj nadležnosti. Svrhovito tumačenje uzima u obzir cilj zakonodavca. Doslovni tekst ostavlja stvarnu dvosmislenost. Sud mora objasniti zašto jedno pravilo tumačenja ima prednost.",
       "reading": "ප්ර්එස්එඩ්අන් ය්එ උව්එර්ල්ය්ඉව්, අල්ඉ න්ඉය්එ ඔබ්අව්එස්උය්උච්ඉ උ ඔව්ඔය් න්අඩ්ල්එෂ්න්ඔස්ට්ඉ. ස්ව්ර්හ්ඔව්ඉට්ඔ ට්උම්අච්එන්ය්එ උස්ඉම්අ උ ඔබ්ස්ඉර් ට්ස්ඉල්ය් ස්අක්ඔන්ඔඩ්අව්ට්ස්අ. ඩ්ඔස්ල්ඔව්න්ඉ ට්එක්ස්ට් ඔස්ට්අව්ල්ය්අ ස්ට්ව්අර්න්උ ඩ්ව්ඔස්ම්ඉස්ල්එන්ඔස්ට්. ස්උඩ් ම්ඔර්අ ඔබ්ය්අස්න්ඉට්ඉ ස්අෂ්ට්ඔ ය්එඩ්න්ඔ ප්ර්අව්ඉල්ඔ ට්උම්අච්එන්ය්අ ඉම්අ ප්ර්එඩ්න්ඔස්ට්.",
       "options": [
-        "එම පූර්වාදර්ශය ඒත්තු ගන්වන සුළු වුවත් මෙහි බැඳී නොපවතී. අරමුණ පදනම් කරගත් කියවීම නීති වගන්තියේ අරමුණ සලකා බලයි.",
         "සන්දර්භය කිසිසේත් වැදගත් නොවේ.",
-        "එක් අර්ථකථනයක් පමණක් සැමවිටම නිවැරදිය."
+        "එක් අර්ථකථනයක් පමණක් සැමවිටම නිවැරදිය.",
+        "එම පූර්වාදර්ශය ඒත්තු ගන්වන සුළු වුවත් මෙහි බැඳී නොපවතී. අරමුණ පදනම් කරගත් කියවීම නීති වගන්තියේ අරමුණ සලකා බලයි."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Koji pojam je ključan za ovu lekciju?",
         "options": [
-          "presedan",
           "nadležnost",
-          "odredba"
+          "odredba",
+          "presedan"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "presedan je ključni pojam."
       },
       {
         "prompt": "Izaberite još jedan važan stručni izraz.",
         "options": [
-          "zakonski",
           "svrhovit",
+          "zakonski",
           "doslovan"
         ],
-        "answer": 1,
+        "answer": 0,
         "explanation": "svrhovit je važan stručni izraz."
       },
       {
         "prompt": "සංකීර්ණ අදහසක් නිවැරදිව ඇගයීමට හොඳම ක්‍රමය කුමක්ද?",
         "options": [
-          "Razmotriti kontekst, dokaze i nameru govornika",
           "Osloniti se samo na rečnik",
+          "Razmotriti kontekst, dokaze i nameru govornika",
           "Zanemariti alternativna tumačenja"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "සන්දර්භය, සාක්ෂි සහ අරමුණ එකට සලකා බලන්න."
       },
       {
         "prompt": "අවිනිශ්චිතතාව ප්‍රකාශ කළ යුත්තේ කෙසේද?",
         "options": [
-          "Precizno ograničiti tvrdnju",
           "Predstaviti pretpostavku kao činjenicu",
-          "Izostaviti nepoznate podatke"
+          "Izostaviti nepoznate podatke",
+          "Precizno ograničiti tvrdnju"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "නිශ්චිත සීමා දැක්වීම C2 මට්ටමේ වැදගත් කුසලතාවකි."
       }
     ]
@@ -470,11 +470,11 @@ export const SERBIAN_C2_LESSONS_11_20 = [
       {
         "prompt": "සංකීර්ණ අදහසක් නිවැරදිව ඇගයීමට හොඳම ක්‍රමය කුමක්ද?",
         "options": [
-          "Razmotriti kontekst, dokaze i nameru govornika",
           "Osloniti se samo na rečnik",
-          "Zanemariti alternativna tumačenja"
+          "Zanemariti alternativna tumačenja",
+          "Razmotriti kontekst, dokaze i nameru govornika"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "සන්දර්භය, සාක්ෂි සහ අරමුණ එකට සලකා බලන්න."
       },
       {
@@ -603,31 +603,31 @@ export const SERBIAN_C2_LESSONS_11_20 = [
       "audio": "Triangulacija smanjuje oslanjanje na jednu metodu. Metaanaliza pokazuje značajnu heterogenost. Zaključak ostaje stabilan i pri drugačijim specifikacijama. Sinteza treba da sačuva neslaganja, a ne da ih prikrije.",
       "reading": "ට්ර්ඉඅන්ග්උල්අට්ස්ඉය්අ ස්ම්අන්ය්උය්එ ඔස්ල්අන්ය්අන්ය්එ න්අ ය්එඩ්න්උ ම්එට්ඔඩ්උ. ම්එට්අඅන්අල්ඉස්අ ප්ඔක්අස්උය්එ ස්න්අච්අය්න්උ හ්එට්එර්ඔග්එන්ඔස්ට්. ස්අක්ල්ය්උච්අක් ඔස්ට්අය්එ ස්ට්අබ්ඉල්අන් ඉ ප්ර්ඉ ඩ්ර්උග්අච්ඉය්ඉම් ස්ප්එට්ස්ඉෆ්ඉක්අට්ස්ඉය්අම්අ. ස්ඉන්ට්එස්අ ට්ර්එබ්අ ඩ්අ ස්අච්උව්අ න්එස්ල්අග්අන්ය්අ, අ න්එ ඩ්අ ඉහ් ප්ර්ඉක්ර්ඉය්එ.",
       "options": [
-        "බහු මූලාශ්‍ර සාක්ෂි සැසඳීම එක් ක්‍රමයක් මත පමණක් රඳා සිටීම අඩු කරයි. අධ්‍යයන එකතුවේ විශ්ලේෂණය සැලකිය යුතු විෂමතාවක් වාර්තා කරයි.",
         "සන්දර්භය කිසිසේත් වැදගත් නොවේ.",
+        "බහු මූලාශ්‍ර සාක්ෂි සැසඳීම එක් ක්‍රමයක් මත පමණක් රඳා සිටීම අඩු කරයි. අධ්‍යයන එකතුවේ විශ්ලේෂණය සැලකිය යුතු විෂමතාවක් වාර්තා කරයි.",
         "එක් අර්ථකථනයක් පමණක් සැමවිටම නිවැරදිය."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Koji pojam je ključan za ovu lekciju?",
         "options": [
-          "triangulacija",
           "metaanaliza",
+          "triangulacija",
           "heterogenost"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "triangulacija je ključni pojam."
       },
       {
         "prompt": "Izaberite još jedan važan stručni izraz.",
         "options": [
           "ometanje",
-          "robustnost",
-          "ponovljivost"
+          "ponovljivost",
+          "robustnost"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "robustnost je važan stručni izraz."
       },
       {
@@ -643,11 +643,11 @@ export const SERBIAN_C2_LESSONS_11_20 = [
       {
         "prompt": "අවිනිශ්චිතතාව ප්‍රකාශ කළ යුත්තේ කෙසේද?",
         "options": [
-          "Precizno ograničiti tvrdnju",
           "Predstaviti pretpostavku kao činjenicu",
+          "Precizno ograničiti tvrdnju",
           "Izostaviti nepoznate podatke"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "නිශ්චිත සීමා දැක්වීම C2 මට්ටමේ වැදගත් කුසලතාවකි."
       }
     ]
@@ -766,51 +766,51 @@ export const SERBIAN_C2_LESSONS_11_20 = [
       "audio": "Sidrenje može iskriviti kasnije procene. Pristrasnost dostupnosti čini da upečatljivi primeri deluju češće. Dobra procena upoređuje tvrdnju sa osnovnom stopom. Stepen sigurnosti treba uskladiti sa kvalitetom dokaza.",
       "reading": "ස්ඉඩ්ර්එන්ය්එ ම්ඔෂ්එ ඉස්ක්ර්ඉව්ඉට්ඉ ක්අස්න්ඉය්එ ප්ර්ඔට්ස්එන්එ. ප්ර්ඉස්ට්ර්අස්න්ඔස්ට් ඩ්ඔස්ට්උප්න්ඔස්ට්ඉ ච්ඉන්ඉ ඩ්අ උප්එච්අට්ල්ය්ඉව්ඉ ප්ර්ඉම්එර්ඉ ඩ්එල්උය්උ ච්එෂ්ච්එ. ඩ්ඔබ්ර්අ ප්ර්ඔට්ස්එන්අ උප්ඔර්එජ්උය්එ ට්ව්ර්ඩ්න්ය්උ ස්අ ඔස්න්ඔව්න්ඔම් ස්ට්ඔප්ඔම්. ස්ට්එප්එන් ස්ඉග්උර්න්ඔස්ට්ඉ ට්ර්එබ්අ උස්ක්ල්අඩ්ඉට්ඉ ස්අ ක්ව්අල්ඉට්එට්ඔම් ඩ්ඔක්අස්අ.",
       "options": [
-        "මුල් අගයකට බැඳීම පසුකාලීන ඇස්තමේන්තු විකෘති කළ හැකිය. මතකයට පහසුවෙන් පැමිණීමේ පක්ෂපාතීත්වය කැපී පෙනෙන උදාහරණ නිතර සිදුවන ලෙස පෙන්වයි.",
         "සන්දර්භය කිසිසේත් වැදගත් නොවේ.",
-        "එක් අර්ථකථනයක් පමණක් සැමවිටම නිවැරදිය."
+        "එක් අර්ථකථනයක් පමණක් සැමවිටම නිවැරදිය.",
+        "මුල් අගයකට බැඳීම පසුකාලීන ඇස්තමේන්තු විකෘති කළ හැකිය. මතකයට පහසුවෙන් පැමිණීමේ පක්ෂපාතීත්වය කැපී පෙනෙන උදාහරණ නිතර සිදුවන ලෙස පෙන්වයි."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Koji pojam je ključan za ovu lekciju?",
         "options": [
-          "sidrenje",
           "dostupnost",
-          "pristrasnost potvrđivanja"
+          "pristrasnost potvrđivanja",
+          "sidrenje"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "sidrenje je ključni pojam."
       },
       {
         "prompt": "Izaberite još jedan važan stručni izraz.",
         "options": [
-          "heuristika",
           "osnovna stopa",
+          "heuristika",
           "istaknutost"
         ],
-        "answer": 1,
+        "answer": 0,
         "explanation": "osnovna stopa je važan stručni izraz."
       },
       {
         "prompt": "සංකීර්ණ අදහසක් නිවැරදිව ඇගයීමට හොඳම ක්‍රමය කුමක්ද?",
         "options": [
-          "Razmotriti kontekst, dokaze i nameru govornika",
           "Osloniti se samo na rečnik",
+          "Razmotriti kontekst, dokaze i nameru govornika",
           "Zanemariti alternativna tumačenja"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "සන්දර්භය, සාක්ෂි සහ අරමුණ එකට සලකා බලන්න."
       },
       {
         "prompt": "අවිනිශ්චිතතාව ප්‍රකාශ කළ යුත්තේ කෙසේද?",
         "options": [
-          "Precizno ograničiti tvrdnju",
           "Predstaviti pretpostavku kao činjenicu",
-          "Izostaviti nepoznate podatke"
+          "Izostaviti nepoznate podatke",
+          "Precizno ograničiti tvrdnju"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "නිශ්චිත සීමා දැක්වීම C2 මට්ටමේ වැදගත් කුසලතාවකි."
       }
     ]
@@ -959,11 +959,11 @@ export const SERBIAN_C2_LESSONS_11_20 = [
       {
         "prompt": "සංකීර්ණ අදහසක් නිවැරදිව ඇගයීමට හොඳම ක්‍රමය කුමක්ද?",
         "options": [
-          "Razmotriti kontekst, dokaze i nameru govornika",
           "Osloniti se samo na rečnik",
-          "Zanemariti alternativna tumačenja"
+          "Zanemariti alternativna tumačenja",
+          "Razmotriti kontekst, dokaze i nameru govornika"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "සන්දර්භය, සාක්ෂි සහ අරමුණ එකට සලකා බලන්න."
       },
       {
@@ -1092,31 +1092,31 @@ export const SERBIAN_C2_LESSONS_11_20 = [
       "audio": "Ublažavanje smanjuje snagu zahteva koji može ugroziti nečije dostojanstvo. Pravila učtivosti se razlikuju, ali nisu proizvoljna. Uzajamnost oblikuje tumačenje ponuda i odbijanja. Počasni oblik označava društvenu distancu i poštovanje.",
       "reading": "උබ්ල්අෂ්අව්අන්ය්එ ස්ම්අන්ය්උය්එ ස්න්අග්උ ස්අහ්ට්එව්අ ක්ඔය්ඉ ම්ඔෂ්එ උග්ර්ඔස්ඉට්ඉ න්එච්ඉය්එ ඩ්ඔස්ට්ඔය්අන්ස්ට්ව්ඔ. ප්ර්අව්ඉල්අ උච්ට්ඉව්ඔස්ට්ඉ ස්එ ර්අස්ල්ඉක්උය්උ, අල්ඉ න්ඉස්උ ප්ර්ඔඉස්ව්ඔල්ය්න්අ. උස්අය්අම්න්ඔස්ට් ඔබ්ල්ඉක්උය්එ ට්උම්අච්එන්ය්එ ප්ඔන්උඩ්අ ඉ ඔඩ්බ්ඉය්අන්ය්අ. ප්ඔච්අස්න්ඉ ඔබ්ල්ඉක් ඔස්න්අච්අව්අ ඩ්ර්උෂ්ට්ව්එන්උ ඩ්ඉස්ට්අන්ට්ස්උ ඉ ප්ඔෂ්ට්ඔව්අන්ය්එ.",
       "options": [
-        "ගෞරවයට තර්ජනය කළ හැකි ඉල්ලීමක බලපෑම මෘදු කිරීම අඩු කරයි. ආචාරශීලීත්වයේ සම්ප්‍රදායන් වෙනස් වුවත් ඒවා අහඹු නොවේ.",
         "සන්දර්භය කිසිසේත් වැදගත් නොවේ.",
+        "ගෞරවයට තර්ජනය කළ හැකි ඉල්ලීමක බලපෑම මෘදු කිරීම අඩු කරයි. ආචාරශීලීත්වයේ සම්ප්‍රදායන් වෙනස් වුවත් ඒවා අහඹු නොවේ.",
         "එක් අර්ථකථනයක් පමණක් සැමවිටම නිවැරදිය."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Koji pojam je ključan za ovu lekciju?",
         "options": [
-          "ublažavanje",
           "uvažavanje",
+          "ublažavanje",
           "solidarnost"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "ublažavanje je ključni pojam."
       },
       {
         "prompt": "Izaberite još jedan važan stručni izraz.",
         "options": [
           "nametanje",
-          "uzajamnost",
-          "počasni oblik"
+          "počasni oblik",
+          "uzajamnost"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "uzajamnost je važan stručni izraz."
       },
       {
@@ -1132,11 +1132,11 @@ export const SERBIAN_C2_LESSONS_11_20 = [
       {
         "prompt": "අවිනිශ්චිතතාව ප්‍රකාශ කළ යුත්තේ කෙසේද?",
         "options": [
-          "Precizno ograničiti tvrdnju",
           "Predstaviti pretpostavku kao činjenicu",
+          "Precizno ograničiti tvrdnju",
           "Izostaviti nepoznate podatke"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "නිශ්චිත සීමා දැක්වීම C2 මට්ටමේ වැදගත් කුසලතාවකි."
       }
     ]
@@ -1255,51 +1255,51 @@ export const SERBIAN_C2_LESSONS_11_20 = [
       "audio": "Intervencija mora zadovoljiti test srazmernosti. Sama objašnjivost ne garantuje odgovornost. Pogođene osobe moraju imati stvarnu mogućnost da ospore odluke. Predostrožan pristup treba uravnotežiti sa mogućim koristima.",
       "reading": "ඉන්ට්එර්ව්එන්ට්ස්ඉය්අ ම්ඔර්අ ස්අඩ්ඔව්ඔල්ය්ඉට්ඉ ට්එස්ට් ස්ර්අස්ම්එර්න්ඔස්ට්ඉ. ස්අම්අ ඔබ්ය්අෂ්න්ය්ඉව්ඔස්ට් න්එ ග්අර්අන්ට්උය්එ ඔඩ්ග්ඔව්ඔර්න්ඔස්ට්. ප්ඔග්ඔජ්එන්එ ඔස්ඔබ්එ ම්ඔර්අය්උ ඉම්අට්ඉ ස්ට්ව්අර්න්උ ම්ඔග්උච්න්ඔස්ට් ඩ්අ ඔස්ප්ඔර්එ ඔඩ්ල්උක්එ. ප්ර්එඩ්ඔස්ට්ර්ඔෂ්අන් ප්ර්ඉස්ට්උප් ට්ර්එබ්අ උර්අව්න්ඔට්එෂ්ඉට්ඉ ස්අ ම්ඔග්උච්ඉම් ක්ඔර්ඉස්ට්ඉම්අ.",
       "options": [
-        "මැදිහත්වීම අනුපාතිකත්ව පරීක්ෂණය සපුරාලිය යුතුය. පැහැදිලි කළ හැකි බව පමණක් වගවීම සහතික නොකරයි.",
         "සන්දර්භය කිසිසේත් වැදගත් නොවේ.",
-        "එක් අර්ථකථනයක් පමණක් සැමවිටම නිවැරදිය."
+        "එක් අර්ථකථනයක් පමණක් සැමවිටම නිවැරදිය.",
+        "මැදිහත්වීම අනුපාතිකත්ව පරීක්ෂණය සපුරාලිය යුතුය. පැහැදිලි කළ හැකි බව පමණක් වගවීම සහතික නොකරයි."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Koji pojam je ključan za ovu lekciju?",
         "options": [
-          "srazmernost",
           "predostrožan",
-          "objašnjivost"
+          "objašnjivost",
+          "srazmernost"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "srazmernost je ključni pojam."
       },
       {
         "prompt": "Izaberite još jedan važan stručni izraz.",
         "options": [
-          "mogućnost osporavanja",
           "spoljašnji efekat",
+          "mogućnost osporavanja",
           "odgovornost"
         ],
-        "answer": 1,
+        "answer": 0,
         "explanation": "spoljašnji efekat je važan stručni izraz."
       },
       {
         "prompt": "සංකීර්ණ අදහසක් නිවැරදිව ඇගයීමට හොඳම ක්‍රමය කුමක්ද?",
         "options": [
-          "Razmotriti kontekst, dokaze i nameru govornika",
           "Osloniti se samo na rečnik",
+          "Razmotriti kontekst, dokaze i nameru govornika",
           "Zanemariti alternativna tumačenja"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "සන්දර්භය, සාක්ෂි සහ අරමුණ එකට සලකා බලන්න."
       },
       {
         "prompt": "අවිනිශ්චිතතාව ප්‍රකාශ කළ යුත්තේ කෙසේද?",
         "options": [
-          "Precizno ograničiti tvrdnju",
           "Predstaviti pretpostavku kao činjenicu",
-          "Izostaviti nepoznate podatke"
+          "Izostaviti nepoznate podatke",
+          "Precizno ograničiti tvrdnju"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "නිශ්චිත සීමා දැක්වීම C2 මට්ටමේ වැදගත් කුසලතාවකි."
       }
     ]
@@ -1448,11 +1448,11 @@ export const SERBIAN_C2_LESSONS_11_20 = [
       {
         "prompt": "සංකීර්ණ අදහසක් නිවැරදිව ඇගයීමට හොඳම ක්‍රමය කුමක්ද?",
         "options": [
-          "Razmotriti kontekst, dokaze i nameru govornika",
           "Osloniti se samo na rečnik",
-          "Zanemariti alternativna tumačenja"
+          "Zanemariti alternativna tumačenja",
+          "Razmotriti kontekst, dokaze i nameru govornika"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "සන්දර්භය, සාක්ෂි සහ අරමුණ එකට සලකා බලන්න."
       },
       {
@@ -1581,31 +1581,31 @@ export const SERBIAN_C2_LESSONS_11_20 = [
       "audio": "Zaključak je privremen i zavisi od dodatnih dokaza. Nezavisni izvori potvrđuju glavni nalaz. Kontrafaktualno poređenje razjašnjava šta je intervencija promenila. Konačna procena priznaje kompromise, a da ne preuveličava sigurnost.",
       "reading": "ස්අක්ල්ය්උච්අක් ය්එ ප්ර්ඉව්ර්එම්එන් ඉ ස්අව්ඉස්ඉ ඔඩ් ඩ්ඔඩ්අට්න්ඉහ් ඩ්ඔක්අස්අ. න්එස්අව්ඉස්න්ඉ ඉස්ව්ඔර්ඉ ප්ඔට්ව්ර්ජ්උය්උ ග්ල්අව්න්ඉ න්අල්අස්. ක්ඔන්ට්ර්අෆ්අක්ට්උඅල්න්ඔ ප්ඔර්එජ්එන්ය්එ ර්අස්ය්අෂ්න්ය්අව්අ ෂ්ට්අ ය්එ ඉන්ට්එර්ව්එන්ට්ස්ඉය්අ ප්ර්ඔම්එන්ඉල්අ. ක්ඔන්අච්න්අ ප්ර්ඔට්ස්එන්අ ප්ර්ඉස්න්අය්එ ක්ඔම්ප්ර්ඔම්ඉස්එ, අ ඩ්අ න්එ ප්ර්එඋව්එල්ඉච්අව්අ ස්ඉග්උර්න්ඔස්ට්.",
       "options": [
-        "නිගමනය තාවකාලික වන අතර තවත් සාක්ෂි මත රඳා පවතී. ස්වාධීන මූලාශ්‍ර ප්‍රධාන සොයාගැනීම තහවුරු කරයි.",
         "සන්දර්භය කිසිසේත් වැදගත් නොවේ.",
+        "නිගමනය තාවකාලික වන අතර තවත් සාක්ෂි මත රඳා පවතී. ස්වාධීන මූලාශ්‍ර ප්‍රධාන සොයාගැනීම තහවුරු කරයි.",
         "එක් අර්ථකථනයක් පමණක් සැමවිටම නිවැරදිය."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Koji pojam je ključan za ovu lekciju?",
         "options": [
-          "uslovljen",
           "privremen",
+          "uslovljen",
           "ograničen"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "uslovljen je ključni pojam."
       },
       {
         "prompt": "Izaberite još jedan važan stručni izraz.",
         "options": [
           "potkrepiti",
-          "kontrafaktualan",
-          "kompromis"
+          "kompromis",
+          "kontrafaktualan"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "kontrafaktualan je važan stručni izraz."
       },
       {
@@ -1621,11 +1621,11 @@ export const SERBIAN_C2_LESSONS_11_20 = [
       {
         "prompt": "අවිනිශ්චිතතාව ප්‍රකාශ කළ යුත්තේ කෙසේද?",
         "options": [
-          "Precizno ograničiti tvrdnju",
           "Predstaviti pretpostavku kao činjenicu",
+          "Precizno ograničiti tvrdnju",
           "Izostaviti nepoznate podatke"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "නිශ්චිත සීමා දැක්වීම C2 මට්ටමේ වැදගත් කුසලතාවකි."
       }
     ]
