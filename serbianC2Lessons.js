@@ -144,11 +144,11 @@ export const SERBIAN_C2_LESSONS = [
       {
         "prompt": "Šta treba da usmerava nijansirano tumačenje?",
         "options": [
-          "Kontekst, dokazi i namera govornika",
           "Samo rečničko značenje",
-          "Nepotkrepljena pretpostavka"
+          "Nepotkrepljena pretpostavka",
+          "Kontekst, dokazi i namera govornika"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Tumačenje treba da uzme u obzir kontekst i dokaze."
       },
       {
@@ -277,31 +277,31 @@ export const SERBIAN_C2_LESSONS = [
       "audio": "Ironija postaje jasna tek u poslednjoj rečenici. Njegovo ravnodušno izlaganje učinilo je primedbu neočekivano duhovitom. Parodija oponaša stil i istovremeno otkriva njegove slabosti. Sarkazam može narušiti poverenje kada odnos nije jasan.",
       "reading": "ඉර්ඔන්ඉය්අ ප්ඔස්ට්අය්එ ය්අස්න්අ ට්එක් උ ප්ඔස්ල්එඩ්න්ය්ඔය් ර්එච්එන්ඉට්ස්ඉ. න්ය්එග්ඔව්ඔ ර්අව්න්ඔඩ්උෂ්න්ඔ ඉස්ල්අග්අන්ය්එ උච්ඉන්ඉල්ඔ ය්එ ප්ර්ඉම්එඩ්බ්උ න්එඔච්එක්ඉව්අන්ඔ ඩ්උහ්ඔව්ඉට්ඔම්. ප්අර්ඔඩ්ඉය්අ ඔප්ඔන්අෂ්අ ස්ට්ඉල් ඉ ඉස්ට්ඔව්ර්එම්එන්ඔ ඔට්ක්ර්ඉව්අ න්ය්එග්ඔව්එ ස්ල්අබ්ඔස්ට්ඉ. ස්අර්ක්අස්අම් ම්ඔෂ්එ න්අර්උෂ්ඉට්ඉ ප්ඔව්එර්එන්ය්එ ක්අඩ්අ ඔඩ්න්ඔස් න්ඉය්එ ය්අස්අන්.",
       "options": [
-        "උපහාසය පැහැදිලි වන්නේ අවසාන වාක්‍යයේදී පමණි. ඔහු හැඟීම් නොපෙන්වා කී නිසා එම ප්‍රකාශය අනපේක්ෂිත ලෙස විහිළුකාරී විය.",
         "සියලු ප්‍රකාශ සෘජු සහ අර්ථ දෙකක් නැති ඒවාය.",
+        "උපහාසය පැහැදිලි වන්නේ අවසාන වාක්‍යයේදී පමණි. ඔහු හැඟීම් නොපෙන්වා කී නිසා එම ප්‍රකාශය අනපේක්ෂිත ලෙස විහිළුකාරී විය.",
         "සන්දර්භය කිසිසේත් වැදගත් නොවේ."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Koji pojam je ključan za ovu lekciju?",
         "options": [
-          "ironija",
           "sarkazam",
+          "ironija",
           "parodija"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "ironija je ključni pojam ove teme."
       },
       {
         "prompt": "Izaberite još jedan važan stručni izraz.",
         "options": [
           "poenta",
-          "ravnodušan izraz",
-          "satiričan"
+          "satiričan",
+          "ravnodušan izraz"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Izraz ravnodušan izraz takođe je važan za ovu temu."
       },
       {
@@ -317,11 +317,11 @@ export const SERBIAN_C2_LESSONS = [
       {
         "prompt": "Kako treba izraziti neizvesnost?",
         "options": [
-          "Precizno ograničiti tvrdnju",
           "Predstaviti zaključak kao dokazanu činjenicu",
+          "Precizno ograničiti tvrdnju",
           "Zanemariti alternativna tumačenja"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Na nivou C2 neophodno je precizno označiti stepen sigurnosti."
       }
     ]
@@ -440,51 +440,51 @@ export const SERBIAN_C2_LESSONS = [
       "audio": "Njen idiolekt odražava uticaje nekoliko regiona. Promena jezičkog koda može ukazivati na identitet i društvenu pripadnost. Dijalekat je sistematičan govor, a ne neispravan jezik. Standardni oblik je koristan, ali ne uklanja jezičke razlike.",
       "reading": "න්ය්එන් ඉඩ්ඉඔල්එක්ට් ඔඩ්ර්අෂ්අව්අ උට්ඉට්ස්අය්එ න්එක්ඔල්ඉක්ඔ ර්එග්ඉඔන්අ. ප්ර්ඔම්එන්අ ය්එස්ඉච්ක්ඔග් ක්ඔඩ්අ ම්ඔෂ්එ උක්අස්ඉව්අට්ඉ න්අ ඉඩ්එන්ට්ඉට්එට් ඉ ඩ්ර්උෂ්ට්ව්එන්උ ප්ර්ඉප්අඩ්න්ඔස්ට්. ඩ්ඉය්අල්එක්අට් ය්එ ස්ඉස්ට්එම්අට්ඉච්අන් ග්ඔව්ඔර්, අ න්එ න්එඉස්ප්ර්අව්අන් ය්එස්ඉක්. ස්ට්අන්ඩ්අර්ඩ්න්ඉ ඔබ්ල්ඉක් ය්එ ක්ඔර්ඉස්ට්අන්, අල්ඉ න්එ උක්ල්අන්ය්අ ය්එස්ඉච්ක්එ ර්අස්ල්ඉක්එ.",
       "options": [
-        "ඇගේ පුද්ගලික භාෂා රටාව ප්‍රදේශ කිහිපයක බලපෑම් පෙන්වයි. භාෂා මාරු කිරීම අනන්‍යතාව සහ සමාජ සම්බන්ධතාව පෙන්විය හැකිය.",
         "සියලු ප්‍රකාශ සෘජු සහ අර්ථ දෙකක් නැති ඒවාය.",
-        "සන්දර්භය කිසිසේත් වැදගත් නොවේ."
+        "සන්දර්භය කිසිසේත් වැදගත් නොවේ.",
+        "ඇගේ පුද්ගලික භාෂා රටාව ප්‍රදේශ කිහිපයක බලපෑම් පෙන්වයි. භාෂා මාරු කිරීම අනන්‍යතාව සහ සමාජ සම්බන්ධතාව පෙන්විය හැකිය."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Koji pojam je ključan za ovu lekciju?",
         "options": [
-          "idiolekt",
           "narodni govor",
-          "registar"
+          "registar",
+          "idiolekt"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "idiolekt je ključni pojam ove teme."
       },
       {
         "prompt": "Izaberite još jedan važan stručni izraz.",
         "options": [
-          "promena jezičkog koda",
           "akcenat",
+          "promena jezičkog koda",
           "sociolekt"
         ],
-        "answer": 1,
+        "answer": 0,
         "explanation": "Izraz akcenat takođe je važan za ovu temu."
       },
       {
         "prompt": "Šta treba da usmerava nijansirano tumačenje?",
         "options": [
-          "Kontekst, dokazi i namera govornika",
           "Samo rečničko značenje",
+          "Kontekst, dokazi i namera govornika",
           "Nepotkrepljena pretpostavka"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Tumačenje treba da uzme u obzir kontekst i dokaze."
       },
       {
         "prompt": "Kako treba izraziti neizvesnost?",
         "options": [
-          "Precizno ograničiti tvrdnju",
           "Predstaviti zaključak kao dokazanu činjenicu",
-          "Zanemariti alternativna tumačenja"
+          "Zanemariti alternativna tumačenja",
+          "Precizno ograničiti tvrdnju"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Na nivou C2 neophodno je precizno označiti stepen sigurnosti."
       }
     ]
@@ -633,11 +633,11 @@ export const SERBIAN_C2_LESSONS = [
       {
         "prompt": "Šta treba da usmerava nijansirano tumačenje?",
         "options": [
-          "Kontekst, dokazi i namera govornika",
           "Samo rečničko značenje",
-          "Nepotkrepljena pretpostavka"
+          "Nepotkrepljena pretpostavka",
+          "Kontekst, dokazi i namera govornika"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Tumačenje treba da uzme u obzir kontekst i dokaze."
       },
       {
@@ -766,31 +766,31 @@ export const SERBIAN_C2_LESSONS = [
       "audio": "Dva glagola imaju slično osnovno značenje, ali različite konotacije. Taj pridev je previše neformalan za željeni registar. Ta kolokacija zvuči prirodno izvornim govornicima. Leksička preciznost zavisi od konteksta, a ne samo od rečničkog značenja.",
       "reading": "ඩ්ව්අ ග්ල්අග්ඔල්අ ඉම්අය්උ ස්ල්ඉච්න්ඔ ඔස්න්ඔව්න්ඔ ස්න්අච්එන්ය්එ, අල්ඉ ර්අස්ල්ඉච්ඉට්එ ක්ඔන්ඔට්අට්ස්ඉය්එ. ට්අය් ප්ර්ඉඩ්එව් ය්එ ප්ර්එව්ඉෂ්එ න්එෆ්ඔර්ම්අල්අන් ස්අ ෂ්එල්ය්එන්ඉ ර්එග්ඉස්ට්අර්. ට්අ ක්ඔල්ඔක්අට්ස්ඉය්අ ස්ව්උච්ඉ ප්ර්ඉර්ඔඩ්න්ඔ ඉස්ව්ඔර්න්ඉම් ග්ඔව්ඔර්න්ඉට්ස්ඉම්අ. ල්එක්ස්ඉච්ක්අ ප්ර්එට්ස්ඉස්න්ඔස්ට් ස්අව්ඉස්ඉ ඔඩ් ක්ඔන්ට්එක්ස්ට්අ, අ න්එ ස්අම්ඔ ඔඩ් ර්එච්න්ඉච්ක්ඔග් ස්න්අච්එන්ය්අ.",
       "options": [
-        "ක්‍රියාපද දෙකේ මූලික අර්ථය සමාන වුවත් හැඟවුම් අර්ථ වෙනස්ය. එම විශේෂණය අපේක්ෂිත භාෂා මට්ටමට වඩා අවිධිමත්ය.",
         "සියලු ප්‍රකාශ සෘජු සහ අර්ථ දෙකක් නැති ඒවාය.",
+        "ක්‍රියාපද දෙකේ මූලික අර්ථය සමාන වුවත් හැඟවුම් අර්ථ වෙනස්ය. එම විශේෂණය අපේක්ෂිත භාෂා මට්ටමට වඩා අවිධිමත්ය.",
         "සන්දර්භය කිසිසේත් වැදගත් නොවේ."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Koji pojam je ključan za ovu lekciju?",
         "options": [
-          "konotacija",
           "denotacija",
+          "konotacija",
           "registar"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "konotacija je ključni pojam ove teme."
       },
       {
         "prompt": "Izaberite još jedan važan stručni izraz.",
         "options": [
           "kolokacija",
-          "polisemija",
-          "semantički"
+          "semantički",
+          "polisemija"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Izraz polisemija takođe je važan za ovu temu."
       },
       {
@@ -806,11 +806,11 @@ export const SERBIAN_C2_LESSONS = [
       {
         "prompt": "Kako treba izraziti neizvesnost?",
         "options": [
-          "Precizno ograničiti tvrdnju",
           "Predstaviti zaključak kao dokazanu činjenicu",
+          "Precizno ograničiti tvrdnju",
           "Zanemariti alternativna tumačenja"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Na nivou C2 neophodno je precizno označiti stepen sigurnosti."
       }
     ]
@@ -929,51 +929,51 @@ export const SERBIAN_C2_LESSONS = [
       "audio": "Aluzija obogaćuje odlomak, a ne prekida njegov tok. Intertekstualnost poziva čitaoce da povežu različita dela. Arhetip se iznova tumači, umesto da se samo ponavlja. Završna slika stvara odjek ranije scene.",
       "reading": "අල්උස්ඉය්අ ඔබ්ඔග්අච්උය්එ ඔඩ්ල්ඔම්අක්, අ න්එ ප්ර්එක්ඉඩ්අ න්ය්එග්ඔව් ට්ඔක්. ඉන්ට්එර්ට්එක්ස්ට්උඅල්න්ඔස්ට් ප්ඔස්ඉව්අ ච්ඉට්අඔට්ස්එ ඩ්අ ප්ඔව්එෂ්උ ර්අස්ල්ඉච්ඉට්අ ඩ්එල්අ. අර්හ්එට්ඉප් ස්එ ඉස්න්ඔව්අ ට්උම්අච්ඉ, උම්එස්ට්ඔ ඩ්අ ස්එ ස්අම්ඔ ප්ඔන්අව්ල්ය්අ. ස්අව්ර්ෂ්න්අ ස්ල්ඉක්අ ස්ට්ව්අර්අ ඔඩ්ය්එක් ර්අන්ඉය්එ ස්ට්ස්එන්එ.",
       "options": [
-        "සාහිත්‍ය සඳහන ඡේදයේ ගලායාම බිඳ නොදමා එය පොහොසත් කරයි. පාඨ අතර අන්තර්සම්බන්ධය වෙනස් කෘති සම්බන්ධ කිරීමට පාඨකයාට ආරාධනා කරයි.",
         "සියලු ප්‍රකාශ සෘජු සහ අර්ථ දෙකක් නැති ඒවාය.",
-        "සන්දර්භය කිසිසේත් වැදගත් නොවේ."
+        "සන්දර්භය කිසිසේත් වැදගත් නොවේ.",
+        "සාහිත්‍ය සඳහන ඡේදයේ ගලායාම බිඳ නොදමා එය පොහොසත් කරයි. පාඨ අතර අන්තර්සම්බන්ධය වෙනස් කෘති සම්බන්ධ කිරීමට පාඨකයාට ආරාධනා කරයි."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Koji pojam je ključan za ovu lekciju?",
         "options": [
-          "aluzija",
           "intertekstualnost",
-          "arhetip"
+          "arhetip",
+          "aluzija"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "aluzija je ključni pojam ove teme."
       },
       {
         "prompt": "Izaberite još jedan važan stručni izraz.",
         "options": [
-          "motiv",
           "odjek",
+          "motiv",
           "novo tumačenje"
         ],
-        "answer": 1,
+        "answer": 0,
         "explanation": "Izraz odjek takođe je važan za ovu temu."
       },
       {
         "prompt": "Šta treba da usmerava nijansirano tumačenje?",
         "options": [
-          "Kontekst, dokazi i namera govornika",
           "Samo rečničko značenje",
+          "Kontekst, dokazi i namera govornika",
           "Nepotkrepljena pretpostavka"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Tumačenje treba da uzme u obzir kontekst i dokaze."
       },
       {
         "prompt": "Kako treba izraziti neizvesnost?",
         "options": [
-          "Precizno ograničiti tvrdnju",
           "Predstaviti zaključak kao dokazanu činjenicu",
-          "Zanemariti alternativna tumačenja"
+          "Zanemariti alternativna tumačenja",
+          "Precizno ograničiti tvrdnju"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Na nivou C2 neophodno je precizno označiti stepen sigurnosti."
       }
     ]
@@ -1122,11 +1122,11 @@ export const SERBIAN_C2_LESSONS = [
       {
         "prompt": "Šta treba da usmerava nijansirano tumačenje?",
         "options": [
-          "Kontekst, dokazi i namera govornika",
           "Samo rečničko značenje",
-          "Nepotkrepljena pretpostavka"
+          "Nepotkrepljena pretpostavka",
+          "Kontekst, dokazi i namera govornika"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Tumačenje treba da uzme u obzir kontekst i dokaze."
       },
       {
@@ -1255,31 +1255,31 @@ export const SERBIAN_C2_LESSONS = [
       "audio": "Predlog koji čuva dostojanstvo omogućava objema stranama da nastave dalje. Posrednik je optužbu preformulisao kao zajedničku brigu. Poverljivost je ključna za obnovu dobrog odnosa. Nepristrasnost mora biti vidljiva, a ne samo iskrena.",
       "reading": "ප්ර්එඩ්ල්ඔග් ක්ඔය්ඉ ච්උව්අ ඩ්ඔස්ට්ඔය්අන්ස්ට්ව්ඔ ඔම්ඔග්උච්අව්අ ඔබ්ය්එම්අ ස්ට්ර්අන්අම්අ ඩ්අ න්අස්ට්අව්එ ඩ්අල්ය්එ. ප්ඔස්ර්එඩ්න්ඉක් ය්එ ඔප්ට්උෂ්බ්උ ප්ර්එෆ්ඔර්ම්උල්ඉස්අඔ ක්අඔ ස්අය්එඩ්න්ඉච්ක්උ බ්ර්ඉග්උ. ප්ඔව්එර්ල්ය්ඉව්ඔස්ට් ය්එ ක්ල්ය්උච්න්අ ස්අ ඔබ්න්ඔව්උ ඩ්ඔබ්ර්ඔග් ඔඩ්න්ඔස්අ. න්එප්ර්ඉස්ට්ර්අස්න්ඔස්ට් ම්ඔර්අ බ්ඉට්ඉ ව්ඉඩ්ල්ය්ඉව්අ, අ න්එ ස්අම්ඔ ඉස්ක්ර්එන්අ.",
       "options": [
-        "ගෞරවය රැකගන්නා යෝජනාවක් දෙපාර්ශ්වයටම ඉදිරියට යාමට ඉඩ සලසයි. මැදිහත්කරු චෝදනාව පොදු සැලකිල්ලක් ලෙස නැවත රාමුගත කළේය.",
         "සියලු ප්‍රකාශ සෘජු සහ අර්ථ දෙකක් නැති ඒවාය.",
+        "ගෞරවය රැකගන්නා යෝජනාවක් දෙපාර්ශ්වයටම ඉදිරියට යාමට ඉඩ සලසයි. මැදිහත්කරු චෝදනාව පොදු සැලකිල්ලක් ලෙස නැවත රාමුගත කළේය.",
         "සන්දර්භය කිසිසේත් වැදගත් නොවේ."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Koji pojam je ključan za ovu lekciju?",
         "options": [
-          "očuvanje dostojanstva",
           "dobar odnos",
+          "očuvanje dostojanstva",
           "pomirenje"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "očuvanje dostojanstva je ključni pojam ove teme."
       },
       {
         "prompt": "Izaberite još jedan važan stručni izraz.",
         "options": [
           "ćorsokak",
-          "smirivanje sukoba",
-          "poverljivost"
+          "poverljivost",
+          "smirivanje sukoba"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Izraz smirivanje sukoba takođe je važan za ovu temu."
       },
       {
@@ -1295,11 +1295,11 @@ export const SERBIAN_C2_LESSONS = [
       {
         "prompt": "Kako treba izraziti neizvesnost?",
         "options": [
-          "Precizno ograničiti tvrdnju",
           "Predstaviti zaključak kao dokazanu činjenicu",
+          "Precizno ograničiti tvrdnju",
           "Zanemariti alternativna tumačenja"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Na nivou C2 neophodno je precizno označiti stepen sigurnosti."
       }
     ]
@@ -1418,51 +1418,51 @@ export const SERBIAN_C2_LESSONS = [
       "audio": "Doslovan prevod bi sačuvao reči, ali bi izgubio šalu. Prevodilac usklađuje vernost izvorniku sa kulturnom razumljivošću. Neki izrazi zahtevaju funkcionalni, a ne formalni ekvivalent. Izabrani registar treba da odgovara ciljnoj publici.",
       "reading": "ඩ්ඔස්ල්ඔව්අන් ප්ර්එව්ඔඩ් බ්ඉ ස්අච්උව්අඔ ර්එච්ඉ, අල්ඉ බ්ඉ ඉස්ග්උබ්ඉඔ ෂ්අල්උ. ප්ර්එව්ඔඩ්ඉල්අට්ස් උස්ක්ල්අජ්උය්එ ව්එර්න්ඔස්ට් ඉස්ව්ඔර්න්ඉක්උ ස්අ ක්උල්ට්උර්න්ඔම් ර්අස්උම්ල්ය්ඉව්ඔෂ්ච්උ. න්එක්ඉ ඉස්ර්අස්ඉ ස්අහ්ට්එව්අය්උ ෆ්උන්ක්ට්ස්ඉඔන්අල්න්ඉ, අ න්එ ෆ්ඔර්ම්අල්න්ඉ එක්ව්ඉව්අල්එන්ට්. ඉස්අබ්ර්අන්ඉ ර්එග්ඉස්ට්අර් ට්ර්එබ්අ ඩ්අ ඔඩ්ග්ඔව්අර්අ ට්ස්ඉල්ය්න්ඔය් ප්උබ්ල්ඉට්ස්ඉ.",
       "options": [
-        "වචනාර්ථ පරිවර්තනය වචන රැකගත්තත් විහිළුවේ අර්ථය නැති කරයි. පරිවර්තකයා මුල් පාඨයට විශ්වාසවන්ත බව සහ සංස්කෘතික කියවීමේ පහසුව සමබර කරයි.",
         "සියලු ප්‍රකාශ සෘජු සහ අර්ථ දෙකක් නැති ඒවාය.",
-        "සන්දර්භය කිසිසේත් වැදගත් නොවේ."
+        "සන්දර්භය කිසිසේත් වැදගත් නොවේ.",
+        "වචනාර්ථ පරිවර්තනය වචන රැකගත්තත් විහිළුවේ අර්ථය නැති කරයි. පරිවර්තකයා මුල් පාඨයට විශ්වාසවන්ත බව සහ සංස්කෘතික කියවීමේ පහසුව සමබර කරයි."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Koji pojam je ključan za ovu lekciju?",
         "options": [
-          "ekvivalentnost",
           "neprevodiv",
-          "prilagođavanje kulturi"
+          "prilagođavanje kulturi",
+          "ekvivalentnost"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "ekvivalentnost je ključni pojam ove teme."
       },
       {
         "prompt": "Izaberite još jedan važan stručni izraz.",
         "options": [
-          "očuvanje stranog elementa",
           "pragmatika",
+          "očuvanje stranog elementa",
           "idiomatski"
         ],
-        "answer": 1,
+        "answer": 0,
         "explanation": "Izraz pragmatika takođe je važan za ovu temu."
       },
       {
         "prompt": "Šta treba da usmerava nijansirano tumačenje?",
         "options": [
-          "Kontekst, dokazi i namera govornika",
           "Samo rečničko značenje",
+          "Kontekst, dokazi i namera govornika",
           "Nepotkrepljena pretpostavka"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Tumačenje treba da uzme u obzir kontekst i dokaze."
       },
       {
         "prompt": "Kako treba izraziti neizvesnost?",
         "options": [
-          "Precizno ograničiti tvrdnju",
           "Predstaviti zaključak kao dokazanu činjenicu",
-          "Zanemariti alternativna tumačenja"
+          "Zanemariti alternativna tumačenja",
+          "Precizno ograničiti tvrdnju"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Na nivou C2 neophodno je precizno označiti stepen sigurnosti."
       }
     ]
@@ -1611,11 +1611,11 @@ export const SERBIAN_C2_LESSONS = [
       {
         "prompt": "Šta treba da usmerava nijansirano tumačenje?",
         "options": [
-          "Kontekst, dokazi i namera govornika",
           "Samo rečničko značenje",
-          "Nepotkrepljena pretpostavka"
+          "Nepotkrepljena pretpostavka",
+          "Kontekst, dokazi i namera govornika"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Tumačenje treba da uzme u obzir kontekst i dokaze."
       },
       {
