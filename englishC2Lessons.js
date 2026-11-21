@@ -1526,8 +1526,8 @@ export const ENGLISH_C2_LESSONS = [
         "word": "precision",
         "reading": "ප්ර්එක්ඉස්ඉඔන්",
         "meaning": "නිරවද්‍යතාව",
-        "example": "The researcher identified “precision” as an important element when comparing different positions.",
-        "translation": "විවිධ ස්ථාවර සසඳන විට “precision” වැදගත් අංගයක් ලෙස පර්යේෂකයා හඳුනාගත්තේය."
+        "example": "In the final presentation, “precision” prevents the claim from exceeding the available evidence.",
+        "translation": "අවසාන ඉදිරිපත් කිරීමේදී “නිරවද්‍යතාව” ප්‍රකාශය පවතින සාක්ෂි ඉක්මවා යාම වළක්වයි."
       }
     ],
     "grammarTitle": "Grammar, style and meaning",
