@@ -1572,7 +1572,7 @@ export const SERBIAN_C2_LESSONS_21_30 = [
       },
       {
         "text": "Otvoreno ih navodim i objašnjavam njihov uticaj.",
-        "reading": "ඔත්වොරෙනො ඉහ් නාවොදිම් ඉ ඔබ්යෂ්න්යාවාම් නියහොව් උතිцඅයි.",
+        "reading": "ඔත්වොරෙනො ඉහ් නාවොදිම් ඉ ඔබ්යෂ්න්යාවාම් නියහොව් උතිට්සඅයි.",
         "meaning": "ඒවා විවෘතව සඳහන් කර බලපෑම පැහැදිලි කරමි."
       }
     ],
