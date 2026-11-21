@@ -114,31 +114,31 @@ export const SERBIAN_C2_LESSONS_41_50 = [
       "audio": "Autor se ograđuje od zaključka koji podaci ne potvrđuju. Izbor glagola otkriva govornikov stav. Distanciranje može ublažiti kategoričnu tvrdnju. Diskurzivni markeri usmeravaju tumačenje argumenta.",
       "reading": "අඋතොර් සේ ඔග්‍රාජුයේ ඔද් සාක්ල්යුච්කා කොයි පොදට්සි නේ පොත්ව්ර්ජුයු. ඉස්බොර් ග්ලාගොලා ඔත්ක්‍රිවා ගොවොර්නිකොව් ස්තාව්. දිස්තාන්ට්සිරාන්යේ මොෂෙ උබ්ලාෂිති කාතෙගොරිච්නු ත්ව්ර්ද්න්යු. දිස්කූර්සිව්නි මාකෙරි උස්මෙරාවායු තුමාචෙන්යේ අර්ගුමෙන්තා.",
       "options": [
-        "දත්ත තහවුරු නොකරන නිගමනයෙන් කතුවරයා සීමාසහිතව දුරස් වේ. ක්‍රියාපද තේරීම කථකයාගේ ස්ථාවරය හෙළි කරයි.",
         "Kontekst nije važan za tumačenje.",
+        "දත්ත තහවුරු නොකරන නිගමනයෙන් කතුවරයා සීමාසහිතව දුරස් වේ. ක්‍රියාපද තේරීම කථකයාගේ ස්ථාවරය හෙළි කරයි.",
         "Svaka tvrdnja je apsolutno sigurna."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Koji izraz je ključan za temu ove lekcije?",
         "options": [
-          "pozicioniranje",
           "autoritativnost",
+          "pozicioniranje",
           "perspektivizacija"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "pozicioniranje je ključni pojam ove teme."
       },
       {
         "prompt": "Koji pojam je važan za razumevanje ove oblasti?",
         "options": [
           "modalnost",
-          "angažovanost",
-          "diskurzivni marker"
+          "diskurzivni marker",
+          "angažovanost"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "angažovanost je važan povezani pojam."
       },
       {
@@ -154,11 +154,11 @@ export const SERBIAN_C2_LESSONS_41_50 = [
       {
         "prompt": "Kako treba predstaviti neizvesnost?",
         "options": [
-          "Precizno označiti stepen sigurnosti",
           "Sakriti nedostatak dokaza",
+          "Precizno označiti stepen sigurnosti",
           "Ukloniti sve ograde"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Precizno označavanje neizvesnosti povećava pouzdanost."
       }
     ]
@@ -277,51 +277,51 @@ export const SERBIAN_C2_LESSONS_41_50 = [
       "audio": "Standardizacija često odražava društvene odnose moći. Dijalekatski kontinuum ne prati uvek državne granice. Stigmatizacija govora može ograničiti društvenu mobilnost. Jezička prava obuhvataju pristup obrazovanju i javnim uslugama.",
       "reading": "ස්තන්දර්දිසාට්සියා චෙස්තො ඔද්‍රාෂාවා දෘෂ්ත්වෙනේ ඔද්නොසේ මොචි. දියාලෙකාත්ස්කි කොන්තිනුඋම් නේ ප්‍රාති උවෙක් දර්ෂ්තව්නේ ග්‍රානිට්සේ. ස්තිග්මාතිසාට්සියා ගොවොරා මොෂෙ ඔග්‍රානිචිති දෘෂ්ත්වෙනු මොබිල්නොස්ත්. යෙසич්කා ප්‍රාවා ඔබුහ්වාතායු ප්‍රිස්තුප් ඔබ්‍රාසොවාන්යු ඉ යාව්නිම් උස්ලුගාමා.",
       "options": [
-        "ප්‍රමිතිකරණය බොහෝවිට සමාජ බල සම්බන්ධතා පිළිබිඹු කරයි. උපභාෂා අඛණ්ඩ පරාසය සැමවිටම රාජ්‍ය සීමා අනුගමනය නොකරයි.",
         "Kontekst nije važan za tumačenje.",
-        "Svaka tvrdnja je apsolutno sigurna."
+        "Svaka tvrdnja je apsolutno sigurna.",
+        "ප්‍රමිතිකරණය බොහෝවිට සමාජ බල සම්බන්ධතා පිළිබිඹු කරයි. උපභාෂා අඛණ්ඩ පරාසය සැමවිටම රාජ්‍ය සීමා අනුගමනය නොකරයි."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Koji izraz je ključan za temu ove lekcije?",
         "options": [
-          "standardizacija",
           "prestiž",
-          "jezičko planiranje"
+          "jezičko planiranje",
+          "standardizacija"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "standardizacija je ključni pojam ove teme."
       },
       {
         "prompt": "Koji pojam je važan za razumevanje ove oblasti?",
         "options": [
-          "jezička ideologija",
           "višejezičnost",
+          "jezička ideologija",
           "jezička prava"
         ],
-        "answer": 1,
+        "answer": 0,
         "explanation": "višejezičnost je važan povezani pojam."
       },
       {
         "prompt": "Koji pristup je najpouzdaniji?",
         "options": [
-          "Razmotriti kontekst i ograničenja",
           "Zanemariti alternativna tumačenja",
+          "Razmotriti kontekst i ograničenja",
           "Pretpostavku prikazati kao činjenicu"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Kontekst i ograničenja sprečavaju neosnovane zaključke."
       },
       {
         "prompt": "Kako treba predstaviti neizvesnost?",
         "options": [
-          "Precizno označiti stepen sigurnosti",
           "Sakriti nedostatak dokaza",
-          "Ukloniti sve ograde"
+          "Ukloniti sve ograde",
+          "Precizno označiti stepen sigurnosti"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Precizno označavanje neizvesnosti povećava pouzdanost."
       }
     ]
@@ -470,11 +470,11 @@ export const SERBIAN_C2_LESSONS_41_50 = [
       {
         "prompt": "Koji pristup je najpouzdaniji?",
         "options": [
-          "Razmotriti kontekst i ograničenja",
           "Zanemariti alternativna tumačenja",
-          "Pretpostavku prikazati kao činjenicu"
+          "Pretpostavku prikazati kao činjenicu",
+          "Razmotriti kontekst i ograničenja"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Kontekst i ograničenja sprečavaju neosnovane zaključke."
       },
       {
@@ -603,31 +603,31 @@ export const SERBIAN_C2_LESSONS_41_50 = [
       "audio": "Sud razmatra da li je presedan primenljiv. Ograničenje mora proći test proporcionalnosti. Teret dokazivanja zavisi od vrste postupka. Odluka mora sadržati jasno obrazloženje.",
       "reading": "සුද් රාස්මාත්‍රා දා ලි යේ ප්‍රෙසෙදාන් ප්‍රිමෙන්ලිව්. ඔග්‍රානිචෙන්යේ මොරා ප්‍රොචි තෙස්ත් ප්‍රොපොර්ට්සියොනාල්නොස්ති. තෙරෙත් දොකාසිවාන්යා සාවිසි ඔද් වර්ස්තේ පොස්තුප්කා. ඔද්ලුකා මොරා සාද්ර්ෂ්තාති යාස්නො ඔබ්‍රාස්ලොෂෙන්යේ.",
       "options": [
-        "පූර්ව තීන්දුව අදාළදැයි අධිකරණය සලකා බලයි. සීමාවක් සමානුපාතිකභාව පරීක්ෂාව සමත් විය යුතුය.",
         "Kontekst nije važan za tumačenje.",
+        "පූර්ව තීන්දුව අදාළදැයි අධිකරණය සලකා බලයි. සීමාවක් සමානුපාතිකභාව පරීක්ෂාව සමත් විය යුතුය.",
         "Svaka tvrdnja je apsolutno sigurna."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Koji izraz je ključan za temu ove lekcije?",
         "options": [
-          "presedan",
           "teret dokazivanja",
+          "presedan",
           "pravni lek"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "presedan je ključni pojam ove teme."
       },
       {
         "prompt": "Koji pojam je važan za razumevanje ove oblasti?",
         "options": [
           "proporcionalnost",
-          "nadređeni propis",
-          "obrazložena odluka"
+          "obrazložena odluka",
+          "nadređeni propis"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "nadređeni propis je važan povezani pojam."
       },
       {
@@ -643,11 +643,11 @@ export const SERBIAN_C2_LESSONS_41_50 = [
       {
         "prompt": "Kako treba predstaviti neizvesnost?",
         "options": [
-          "Precizno označiti stepen sigurnosti",
           "Sakriti nedostatak dokaza",
+          "Precizno označiti stepen sigurnosti",
           "Ukloniti sve ograde"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Precizno označavanje neizvesnosti povećava pouzdanost."
       }
     ]
@@ -766,51 +766,51 @@ export const SERBIAN_C2_LESSONS_41_50 = [
       "audio": "Kohezija povezuje rečenice vidljivim jezičkim sredstvima. Koherencija zavisi od logičkog razvoja ideja. Anafora upućuje na prethodno pomenuti element. Tematski progres održava ravnotežu između poznatog i novog.",
       "reading": "කොහෙසියා පොවෙසුයේ රෙචෙනිට්සේ විදිල්යවිම් යෙසич්කිම් ස්‍රෙද්ස්ත්විමා. කොහෙරෙන්ට්සියා සාවිසි ඔද් ලොගිච්කොග් රාස්වොයා ඉදෙයා. අනාෆොරා උපුචුයේ නා ප්‍රෙත්හොද්නො පොමෙනුති එලෙමෙන්ත්. තෙමාත්ස්කි ප්‍රොග්‍රෙස් ඔද්ර්ෂාවා රාව්නොතෙෂු ඉස්මෙජු පොස්නාතොග් ඉ නොවොග්.",
       "options": [
-        "පාඨ සම්බන්ධතාව භාෂාමය ක්‍රමවලින් වාක්‍ය එකට බැඳේ. අර්ථමය අඛණ්ඩතාව අදහස්වල තාර්කික වර්ධනය මත රඳා පවතී.",
         "Kontekst nije važan za tumačenje.",
-        "Svaka tvrdnja je apsolutno sigurna."
+        "Svaka tvrdnja je apsolutno sigurna.",
+        "පාඨ සම්බන්ධතාව භාෂාමය ක්‍රමවලින් වාක්‍ය එකට බැඳේ. අර්ථමය අඛණ්ඩතාව අදහස්වල තාර්කික වර්ධනය මත රඳා පවතී."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Koji izraz je ključan za temu ove lekcije?",
         "options": [
-          "kohezija",
           "tematski progres",
-          "elipsa"
+          "elipsa",
+          "kohezija"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "kohezija je ključni pojam ove teme."
       },
       {
         "prompt": "Koji pojam je važan za razumevanje ove oblasti?",
         "options": [
-          "referencijalni lanac",
           "katafora",
+          "referencijalni lanac",
           "veznik"
         ],
-        "answer": 1,
+        "answer": 0,
         "explanation": "katafora je važan povezani pojam."
       },
       {
         "prompt": "Koji pristup je najpouzdaniji?",
         "options": [
-          "Razmotriti kontekst i ograničenja",
           "Zanemariti alternativna tumačenja",
+          "Razmotriti kontekst i ograničenja",
           "Pretpostavku prikazati kao činjenicu"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Kontekst i ograničenja sprečavaju neosnovane zaključke."
       },
       {
         "prompt": "Kako treba predstaviti neizvesnost?",
         "options": [
-          "Precizno označiti stepen sigurnosti",
           "Sakriti nedostatak dokaza",
-          "Ukloniti sve ograde"
+          "Ukloniti sve ograde",
+          "Precizno označiti stepen sigurnosti"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Precizno označavanje neizvesnosti povećava pouzdanost."
       }
     ]
@@ -959,11 +959,11 @@ export const SERBIAN_C2_LESSONS_41_50 = [
       {
         "prompt": "Koji pristup je najpouzdaniji?",
         "options": [
-          "Razmotriti kontekst i ograničenja",
           "Zanemariti alternativna tumačenja",
-          "Pretpostavku prikazati kao činjenicu"
+          "Pretpostavku prikazati kao činjenicu",
+          "Razmotriti kontekst i ograničenja"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Kontekst i ograničenja sprečavaju neosnovane zaključke."
       },
       {
@@ -1092,31 +1092,31 @@ export const SERBIAN_C2_LESSONS_41_50 = [
       "audio": "Krizno saopštenje mora jasno razdvojiti činjenice i pretpostavke. Pravovremena ispravka može sprečiti širenje glasina. Transparentnost ne znači objavljivanje neproverenih podataka. Odgovorna poruka navodi šta je još nepoznato.",
       "reading": "ක්‍රිස්නො සාඔප්ෂ්තෙන්යේ මොරා යාස්නො රාස්ද්වොයිති චිනියෙනිට්සේ ඉ ප්‍රෙත්පොස්තාව්කේ. ප්‍රාවොව්‍රෙමෙනා ඉස්ප්‍රාව්කා මොෂෙ ස්ප්‍රෙචිති ෂිරෙන්යේ ග්ලාසිනා. ත්‍රාන්ස්පාරෙන්ත්නොස්ත් නේ ස්නාචි ඔබ්යාව්ල්යාවාන්යේ නෙප්‍රොවෙරෙනිහ් පොදතාකා. ඔද්ගොවොර්නා පොරුකා නාවොදි ෂ්තා යේ යොෂ් නෙපොස්නාතො.",
       "options": [
-        "අර්බුද නිවේදනය කරුණු හා උපකල්පන පැහැදිලිව වෙන් කළ යුතුය. කාලෝචිත නිවැරදි කිරීමකට කටකතා පැතිරීම වැළැක්විය හැක.",
         "Kontekst nije važan za tumačenje.",
+        "අර්බුද නිවේදනය කරුණු හා උපකල්පන පැහැදිලිව වෙන් කළ යුතුය. කාලෝචිත නිවැරදි කිරීමකට කටකතා පැතිරීම වැළැක්විය හැක.",
         "Svaka tvrdnja je apsolutno sigurna."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Koji izraz je ključan za temu ove lekcije?",
         "options": [
-          "krizno saopštenje",
           "glasina",
+          "krizno saopštenje",
           "rizik po reputaciju"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "krizno saopštenje je ključni pojam ove teme."
       },
       {
         "prompt": "Koji pojam je važan za razumevanje ove oblasti?",
         "options": [
           "provera činjenica",
-          "odgovornost",
-          "korektivna poruka"
+          "korektivna poruka",
+          "odgovornost"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "odgovornost je važan povezani pojam."
       },
       {
@@ -1132,11 +1132,11 @@ export const SERBIAN_C2_LESSONS_41_50 = [
       {
         "prompt": "Kako treba predstaviti neizvesnost?",
         "options": [
-          "Precizno označiti stepen sigurnosti",
           "Sakriti nedostatak dokaza",
+          "Precizno označiti stepen sigurnosti",
           "Ukloniti sve ograde"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Precizno označavanje neizvesnosti povećava pouzdanost."
       }
     ]
@@ -1255,51 +1255,51 @@ export const SERBIAN_C2_LESSONS_41_50 = [
       "audio": "Doslovni sadržaj ne obuhvata uvek nameru govornika. Implicatura zavisi od zajedničkog znanja sagovornika. Jedan iskaz može istovremeno obavljati više govornih činova. Zaključak mora uzeti u obzir alternativna objašnjenja.",
       "reading": "දොස්ලොව්නි සාද්ර්ෂායි නේ ඔබුහ්වාතා උවෙක් නාමෙරු ගොවොර්නිකා. ඉම්ප්ලිකාතුරා සාවිසි ඔද් සායෙද්නිච්කොග් ස්නාන්යා සාගොවොර්නිකා. යෙදාන් ඉස්කාස් මොෂෙ ඉස්තොව්රෙමෙනො ඔබාව්ල්යාති විෂේ ගොවොර්නිහ් චිනොවා. සාක්ල්යුචාක් මොරා උසෙති උ ඔබ්සීර් අල්තෙර්නාතිව්නා ඔබ්යෂ්න්යෙන්යා.",
       "options": [
-        "වචනාර්ථය සැමවිටම කථකයාගේ අරමුණ ඇතුළත් නොකරයි. අඟවන අර්ථය සංවාදකයන්ගේ පොදු දැනුම මත රඳා පවතී.",
         "Kontekst nije važan za tumačenje.",
-        "Svaka tvrdnja je apsolutno sigurna."
+        "Svaka tvrdnja je apsolutno sigurna.",
+        "වචනාර්ථය සැමවිටම කථකයාගේ අරමුණ ඇතුළත් නොකරයි. අඟවන අර්ථය සංවාදකයන්ගේ පොදු දැනුම මත රඳා පවතී."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Koji izraz je ključan za temu ove lekcije?",
         "options": [
-          "govorni čin",
           "poricanje",
-          "svedočanstvo"
+          "svedočanstvo",
+          "govorni čin"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "govorni čin je ključni pojam ove teme."
       },
       {
         "prompt": "Koji pojam je važan za razumevanje ove oblasti?",
         "options": [
-          "pretpostavka",
           "kontekstualni trag",
+          "pretpostavka",
           "interpretativna ograda"
         ],
-        "answer": 1,
+        "answer": 0,
         "explanation": "kontekstualni trag je važan povezani pojam."
       },
       {
         "prompt": "Koji pristup je najpouzdaniji?",
         "options": [
-          "Razmotriti kontekst i ograničenja",
           "Zanemariti alternativna tumačenja",
+          "Razmotriti kontekst i ograničenja",
           "Pretpostavku prikazati kao činjenicu"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Kontekst i ograničenja sprečavaju neosnovane zaključke."
       },
       {
         "prompt": "Kako treba predstaviti neizvesnost?",
         "options": [
-          "Precizno označiti stepen sigurnosti",
           "Sakriti nedostatak dokaza",
-          "Ukloniti sve ograde"
+          "Ukloniti sve ograde",
+          "Precizno označiti stepen sigurnosti"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Precizno označavanje neizvesnosti povećava pouzdanost."
       }
     ]
@@ -1448,11 +1448,11 @@ export const SERBIAN_C2_LESSONS_41_50 = [
       {
         "prompt": "Koji pristup je najpouzdaniji?",
         "options": [
-          "Razmotriti kontekst i ograničenja",
           "Zanemariti alternativna tumačenja",
-          "Pretpostavku prikazati kao činjenicu"
+          "Pretpostavku prikazati kao činjenicu",
+          "Razmotriti kontekst i ograničenja"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Kontekst i ograničenja sprečavaju neosnovane zaključke."
       },
       {
@@ -1581,31 +1581,31 @@ export const SERBIAN_C2_LESSONS_41_50 = [
       "audio": "Izlaganje povezuje pitanje, metod i nalaze u jednu celinu. Svaki zaključak mora imati odgovarajuću dokaznu osnovu. Metodološko ograničenje treba otvoreno navesti. Samoprocena otkriva oblasti za dalji razvoj.",
       "reading": "ඉස්ලාගාන්යේ පොවෙසුයේ පිතාන්යේ, මෙතොද් ඉ නාලාසේ උ යෙදුනුට්සෙලිනු. ස්වාකි සාක්ල්යුචාක් මොරා ඉමාති ඔද්ගොවාරායුචු දොකාස්නු ඔස්නොවු. මෙතොදොලොෂ්කො ඔග්‍රානිචෙන්යේ ත්‍රෙබා ඔත්වොරෙනො නාවෙස්ති. සාමොප්‍රොට්සෙනා ඔත්ක්‍රිවා ඔබ්ලාස්ති සා දාල්යි රාස්වොයි.",
       "options": [
-        "ඉදිරිපත් කිරීම ප්‍රශ්නය, ක්‍රමය හා සොයාගැනීම් එකම සමස්තයකට සම්බන්ධ කරයි. සෑම නිගමනයකටම ගැළපෙන සාක්ෂි පදනමක් තිබිය යුතුය.",
         "Kontekst nije važan za tumačenje.",
+        "ඉදිරිපත් කිරීම ප්‍රශ්නය, ක්‍රමය හා සොයාගැනීම් එකම සමස්තයකට සම්බන්ධ කරයි. සෑම නිගමනයකටම ගැළපෙන සාක්ෂි පදනමක් තිබිය යුතුය.",
         "Svaka tvrdnja je apsolutno sigurna."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Koji izraz je ključan za temu ove lekcije?",
         "options": [
-          "integrisana kompetencija",
           "dokazna osnova",
+          "integrisana kompetencija",
           "zaključna sinteza"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "integrisana kompetencija je ključni pojam ove teme."
       },
       {
         "prompt": "Koji pojam je važan za razumevanje ove oblasti?",
         "options": [
           "metodološko ograničenje",
-          "kvalifikacija tvrdnje",
-          "samoprocena"
+          "samoprocena",
+          "kvalifikacija tvrdnje"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "kvalifikacija tvrdnje je važan povezani pojam."
       },
       {
@@ -1621,11 +1621,11 @@ export const SERBIAN_C2_LESSONS_41_50 = [
       {
         "prompt": "Kako treba predstaviti neizvesnost?",
         "options": [
-          "Precizno označiti stepen sigurnosti",
           "Sakriti nedostatak dokaza",
+          "Precizno označiti stepen sigurnosti",
           "Ukloniti sve ograde"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Precizno označavanje neizvesnosti povećava pouzdanost."
       }
     ]
