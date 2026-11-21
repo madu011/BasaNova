@@ -38,29 +38,29 @@ export const ENGLISH_C2_LESSONS = [
         "word": "understatement",
         "reading": "අන්ඩ්එර්ස්ට්ඇට්එම්එන්ට්",
         "meaning": "අවම කර පෙන්වීම",
-        "example": "That was an interesting choice of words, to say the least.",
-        "translation": "එය අවම වශයෙන් කිවහොත් සිත්ගන්නාසුලු වචන තේරීමක් විය."
+        "example": "In සන්දර්භීය අර්ථකථනය, the term “understatement” helps define the focus of the analysis.",
+        "translation": "මෙම සන්දර්භීය අර්ථකථනය තුළ “understatement” යන පදය විශ්ලේෂණයේ අවධානය නිශ්චිත කරයි."
       },
       {
         "word": "innuendo",
         "reading": "ඉන්න්අඑන්ඩ්ඔ",
         "meaning": "වක්‍ර ඉඟිය",
-        "example": "Her pause implied disagreement without stating it directly.",
-        "translation": "ඇගේ නිහඬ විරාමය සෘජුව නොකියා එකඟ නොවීමක් ඉඟි කළේය."
+        "example": "Without a clear explanation of “innuendo”, a reader may misunderstand the argument.",
+        "translation": "“innuendo” යන්න පැහැදිලි නොකළහොත් පාඨකයාට තර්කය වැරදි ලෙස තේරුම් ගත හැකිය."
       },
       {
         "word": "contextual",
         "reading": "ක්ඔන්ට්එක්ස්ට්අඇල්",
         "meaning": "සන්දර්භානුකූල",
-        "example": "The remark relies on shared contextual knowledge.",
-        "translation": "එම ප්‍රකාශය පොදු සන්දර්භ දැනුම මත රඳා පවතී."
+        "example": "The example shows how “contextual” changes interpretation in the context of සන්දර්භීය අර්ථකථනය.",
+        "translation": "මෙම උදාහරණය සන්දර්භීය අර්ථකථනය සන්දර්භය තුළ “contextual” අර්ථකථනය වෙනස් කරන ආකාරය පෙන්වයි."
       },
       {
         "word": "ambiguous",
         "reading": "ඇම්බ්ඉග්අඔඅස්",
         "meaning": "අර්ථ දෙකක් ඇති",
-        "example": "A careful reader can infer the speaker's unstated position.",
-        "translation": "සැලකිලිමත් පාඨකයෙකුට කථකයා නොකී ස්ථාවරය අනුමාන කළ හැකිය."
+        "example": "The researcher identified “ambiguous” as an important element when comparing different positions.",
+        "translation": "විවිධ ස්ථාවර සසඳන විට “ambiguous” වැදගත් අංගයක් ලෙස පර්යේෂකයා හඳුනාගත්තේය."
       }
     ],
     "grammarTitle": "Grammar, style and meaning",
@@ -89,24 +89,24 @@ export const ENGLISH_C2_LESSONS = [
     ],
     "dialogue": [
       {
-        "text": "Can we conclude that the meaning is entirely explicit?",
-        "reading": "ක්ඇන් ව්එ ක්ඔන්ක්ල්අඩ්එ ත්ඇට් ත්එ ම්එඇන්ඉන්ග් ඉස් එන්ට්ඉර්එල්යි එක්ස්ප්ල්ඉක්ඉට්?",
-        "meaning": "අර්ථය සම්පූර්ණයෙන්ම පැහැදිලි බව අපට නිගමනය කළ හැකිද?"
+        "text": "The remark sounds polite, but what does it imply?",
+        "reading": "ට්හ්එ ර්එම්ඇර්ක් ස්ඔඅන්ඩ්ස් ප්ඔල්ඉට්එ, බ්අට් ව්හ්ඇට් ඩ්ඔඑස් ඉට් ඉම්ප්ල්ය්?",
+        "meaning": "ප්‍රකාශය ආචාරශීලීව ඇසුණත් එයින් ඉඟි කරන්නේ කුමක්ද?"
       },
       {
-        "text": "Not necessarily; the context allows another interpretation.",
-        "reading": "න්ඔට් න්එක්එස්ස්ඇර්ඉල්යි; ත්එ ක්ඔන්ට්එක්ස්ට් ඇල්ල්ඔව්ස් ඇන්ඔත්එර් ඉන්ට්එර්ප්ර්එට්ඇෂන්.",
-        "meaning": "අනිවාර්යයෙන්ම නොවේ; සන්දර්භය වෙනත් අර්ථකථනයකට ඉඩ සලසයි."
+        "text": "It presupposes that the deadline has already been missed.",
+        "reading": "ඉට් ප්ර්එස්අප්ප්ඔස්එස් ට්හ්ඇට් ට්හ්එ ඩ්එඇඩ්ල්ඉන්එ හ්ඇස් ඇල්ර්එඇඩ්ය් බ්එඑන් ම්ඉස්ස්එඩ්.",
+        "meaning": "නියමිත කාලය දැනටමත් ඉක්මවා ඇති බව එහි පූර්වකල්පනයයි."
       },
       {
-        "text": "What evidence supports that reading?",
-        "reading": "ව්හ්ඇට් එව්ඉඩ්එන්ක්එ ස්අප්ප්ඔර්ට්ස් ත්ඇට් ර්එඇඩ්ඉන්ග්?",
-        "meaning": "එම කියවීමට සහාය දෙන සාක්ෂිය කුමක්ද?"
+        "text": "Could the speaker intend a softer criticism?",
+        "reading": "ක්ඔඅල්ඩ් ට්හ්එ ස්ප්එඇක්එර් ඉන්ට්එන්ඩ් ඇ ස්ඔෆ්ට්එර් ක්ර්ඉට්ඉක්ඉස්ම්?",
+        "meaning": "කථකයා මෘදු විවේචනයක් කිරීමට අදහස් කරනවා විය හැකිද?"
       },
       {
-        "text": "Primarily, the wording and the relationship between the speakers.",
-        "reading": "ප්ර්ඉම්ඇර්ඉල්යි, ත්එ ව්ඔර්ඩ්ඉන්ග් ඇන්ඩ් ත්එ ර්එල්ඇෂන්ෂ්ඉප් බ්එට්ව්එඑන් ත්එ ස්ප්එඇක්එර්ස්.",
-        "meaning": "ප්‍රධාන වශයෙන් වචන තේරීම සහ කථකයන් අතර සම්බන්ධතාවයි."
+        "text": "Yes; the understatement lets the listener infer the criticism.",
+        "reading": "ය්එස්; ට්හ්එ අන්ඩ්එර්ස්ට්ඇට්එම්එන්ට් ල්එට්ස් ට්හ්එ ල්ඉස්ට්එන්එර් ඉන්ෆ්එර් ට්හ්එ ක්ර්ඉට්ඉක්ඉස්ම්.",
+        "meaning": "ඔව්. මෘදු ප්‍රකාශය නිසා අසන්නාට විවේචනය අනුමාන කළ හැකිය."
       }
     ],
     "listeningPractice": {
@@ -201,29 +201,29 @@ export const ENGLISH_C2_LESSONS = [
         "word": "deadpan",
         "reading": "ඩ්එඇඩ්ප්ඇන්",
         "meaning": "හැඟීම් නොපෙන්වන කථන රටාව",
-        "example": "The irony becomes clear only in the final sentence.",
-        "translation": "උපහාසය පැහැදිලි වන්නේ අවසාන වාක්‍යයේදී පමණි."
+        "example": "In හාස්‍යය සහ උපහාසය, the term “deadpan” helps define the focus of the analysis.",
+        "translation": "මෙම හාස්‍යය සහ උපහාසය තුළ “deadpan” යන පදය විශ්ලේෂණයේ අවධානය නිශ්චිත කරයි."
       },
       {
         "word": "satirical",
         "reading": "ස්ඇට්ඉර්ඉක්ඇල්",
         "meaning": "උපහාසාත්මක විවේචනාත්මක",
-        "example": "His deadpan delivery made the remark unexpectedly funny.",
-        "translation": "ඔහු හැඟීම් නොපෙන්වා කී නිසා එම ප්‍රකාශය අනපේක්ෂිත ලෙස විහිළුකාරී විය."
+        "example": "Without a clear explanation of “satirical”, a reader may misunderstand the argument.",
+        "translation": "“satirical” යන්න පැහැදිලි නොකළහොත් පාඨකයාට තර්කය වැරදි ලෙස තේරුම් ගත හැකිය."
       },
       {
         "word": "wit",
         "reading": "ව්ඉට්",
         "meaning": "චතුර හාස්‍යය",
-        "example": "The parody imitates the style while exposing its weaknesses.",
-        "translation": "අනුකරණ උපහාසය ශෛලිය අනුකරණය කරන අතර එහි දුර්වලතා හෙළි කරයි."
+        "example": "The example shows how “wit” changes interpretation in the context of හාස්‍යය සහ උපහාසය.",
+        "translation": "මෙම උදාහරණය හාස්‍යය සහ උපහාසය සන්දර්භය තුළ “wit” අර්ථකථනය වෙනස් කරන ආකාරය පෙන්වයි."
       },
       {
         "word": "tone",
         "reading": "ට්ඔන්එ",
         "meaning": "කථන ස්වරය",
-        "example": "Sarcasm can damage trust when the relationship is unclear.",
-        "translation": "සම්බන්ධතාව පැහැදිලි නැති විට උපහාසාත්මක කථනය විශ්වාසය බිඳ දැමිය හැකිය."
+        "example": "The researcher identified “tone” as an important element when comparing different positions.",
+        "translation": "විවිධ ස්ථාවර සසඳන විට “tone” වැදගත් අංගයක් ලෙස පර්යේෂකයා හඳුනාගත්තේය."
       }
     ],
     "grammarTitle": "Grammar, style and meaning",
@@ -252,24 +252,24 @@ export const ENGLISH_C2_LESSONS = [
     ],
     "dialogue": [
       {
-        "text": "Can we conclude that the meaning is entirely explicit?",
-        "reading": "ක්ඇන් ව්එ ක්ඔන්ක්ල්අඩ්එ ත්ඇට් ත්එ ම්එඇන්ඉන්ග් ඉස් එන්ට්ඉර්එල්යි එක්ස්ප්ල්ඉක්ඉට්?",
-        "meaning": "අර්ථය සම්පූර්ණයෙන්ම පැහැදිලි බව අපට නිගමනය කළ හැකිද?"
+        "text": "Why does the final line make the scene ironic?",
+        "reading": "ව්හ්ය් ඩ්ඔඑස් ට්හ්එ ෆ්ඉන්ඇල් ල්ඉන්එ ම්ඇක්එ ට්හ්එ ස්ක්එන්එ ඉර්ඔන්ඉක්?",
+        "meaning": "අවසාන වාක්‍යය දර්ශනය උපහාසාත්මක කරන්නේ ඇයි?"
       },
       {
-        "text": "Not necessarily; the context allows another interpretation.",
-        "reading": "න්ඔට් න්එක්එස්ස්ඇර්ඉල්යි; ත්එ ක්ඔන්ට්එක්ස්ට් ඇල්ල්ඔව්ස් ඇන්ඔත්එර් ඉන්ට්එර්ප්ර්එට්ඇෂන්.",
-        "meaning": "අනිවාර්යයෙන්ම නොවේ; සන්දර්භය වෙනත් අර්ථකථනයකට ඉඩ සලසයි."
+        "text": "It reverses the confidence established at the beginning.",
+        "reading": "ඉට් ර්එව්එර්ස්එස් ට්හ්එ ක්ඔන්ෆ්ඉඩ්එන්ක්එ එස්ට්ඇබ්ල්ඉස්හ්එඩ් ඇට් ට්හ්එ බ්එග්ඉන්න්ඉන්ග්.",
+        "meaning": "එය ආරම්භයේ ඇති කළ විශ්වාසය පෙරළයි."
       },
       {
-        "text": "What evidence supports that reading?",
-        "reading": "ව්හ්ඇට් එව්ඉඩ්එන්ක්එ ස්අප්ප්ඔර්ට්ස් ත්ඇට් ර්එඇඩ්ඉන්ග්?",
-        "meaning": "එම කියවීමට සහාය දෙන සාක්ෂිය කුමක්ද?"
+        "text": "Is the humour aimed at one character?",
+        "reading": "ඉස් ට්හ්එ හ්අම්ඔඅර් ඇඉම්එඩ් ඇට් ඔන්එ ක්හ්ඇර්ඇක්ට්එර්?",
+        "meaning": "හාස්‍යය එක් චරිතයකට පමණක් යොමු වී තිබේද?"
       },
       {
-        "text": "Primarily, the wording and the relationship between the speakers.",
-        "reading": "ප්ර්ඉම්ඇර්ඉල්යි, ත්එ ව්ඔර්ඩ්ඉන්ග් ඇන්ඩ් ත්එ ර්එල්ඇෂන්ෂ්ඉප් බ්එට්ව්එඑන් ත්එ ස්ප්එඇක්එර්ස්.",
-        "meaning": "ප්‍රධාන වශයෙන් වචන තේරීම සහ කථකයන් අතර සම්බන්ධතාවයි."
+        "text": "Not only; the parody also exposes the institution's habits.",
+        "reading": "න්ඔට් ඔන්ල්ය්; ට්හ්එ ප්ඇර්ඔඩ්ය් ඇල්ස්ඔ එක්ස්ප්ඔස්එස් ට්හ්එ ඉන්ස්ට්ඉට්අට්ඉඔන්'ස් හ්ඇබ්ඉට්ස්.",
+        "meaning": "නැහැ. අනුකරණ උපහාසය ආයතනයේ පුරුදුද හෙළි කරයි."
       }
     ],
     "listeningPractice": {
@@ -364,29 +364,29 @@ export const ENGLISH_C2_LESSONS = [
         "word": "accent",
         "reading": "ඇක්ක්එන්ට්",
         "meaning": "උච්චාරණ රටාව",
-        "example": "Her idiolect reflects several regional influences.",
-        "translation": "ඇගේ පුද්ගලික භාෂා රටාව ප්‍රදේශ කිහිපයක බලපෑම් පෙන්වයි."
+        "example": "In උපභාෂා විශ්ලේෂණය, the term “accent” helps define the focus of the analysis.",
+        "translation": "මෙම උපභාෂා විශ්ලේෂණය තුළ “accent” යන පදය විශ්ලේෂණයේ අවධානය නිශ්චිත කරයි."
       },
       {
         "word": "sociolect",
         "reading": "ස්ඔක්ඉඔල්එක්ට්",
         "meaning": "සමාජ කණ්ඩායම් භාෂාව",
-        "example": "Code-switching can signal identity and social alignment.",
-        "translation": "භාෂා මාරු කිරීම අනන්‍යතාව සහ සමාජ සම්බන්ධතාව පෙන්විය හැකිය."
+        "example": "Without a clear explanation of “sociolect”, a reader may misunderstand the argument.",
+        "translation": "“sociolect” යන්න පැහැදිලි නොකළහොත් පාඨකයාට තර්කය වැරදි ලෙස තේරුම් ගත හැකිය."
       },
       {
         "word": "standardisation",
         "reading": "ස්ට්ඇන්ඩ්ඇර්ඩ්ඉස්ඇෂන්",
         "meaning": "සම්මතකරණය",
-        "example": "A dialect is systematic rather than defective speech.",
-        "translation": "උපභාෂාවක් යනු ක්‍රමවත් කථන රටාවකි; දෝෂ සහිත භාෂාවක් නොවේ."
+        "example": "The example shows how “standardisation” changes interpretation in the context of උපභාෂා විශ්ලේෂණය.",
+        "translation": "මෙම උදාහරණය උපභාෂා විශ්ලේෂණය සන්දර්භය තුළ “standardisation” අර්ථකථනය වෙනස් කරන ආකාරය පෙන්වයි."
       },
       {
         "word": "variation",
         "reading": "ව්ඇර්ඉඇෂන්",
         "meaning": "වෙනස්කම්",
-        "example": "The standard form is useful, but it does not erase variation.",
-        "translation": "සම්මත ආකාරය ප්‍රයෝජනවත් වුවත් භාෂා වෙනස්කම් මකා නොදමයි."
+        "example": "The researcher identified “variation” as an important element when comparing different positions.",
+        "translation": "විවිධ ස්ථාවර සසඳන විට “variation” වැදගත් අංගයක් ලෙස පර්යේෂකයා හඳුනාගත්තේය."
       }
     ],
     "grammarTitle": "Grammar, style and meaning",
@@ -415,24 +415,24 @@ export const ENGLISH_C2_LESSONS = [
     ],
     "dialogue": [
       {
-        "text": "Can we conclude that the meaning is entirely explicit?",
-        "reading": "ක්ඇන් ව්එ ක්ඔන්ක්ල්අඩ්එ ත්ඇට් ත්එ ම්එඇන්ඉන්ග් ඉස් එන්ට්ඉර්එල්යි එක්ස්ප්ල්ඉක්ඉට්?",
-        "meaning": "අර්ථය සම්පූර්ණයෙන්ම පැහැදිලි බව අපට නිගමනය කළ හැකිද?"
+        "text": "Does the speaker change register during the interview?",
+        "reading": "ඩ්ඔඑස් ට්හ්එ ස්ප්එඇක්එර් ක්හ්ඇන්ග්එ ර්එග්ඉස්ට්එර් ඩ්අර්ඉන්ග් ට්හ්එ ඉන්ට්එර්ව්ඉඑව්?",
+        "meaning": "සම්මුඛ සාකච්ඡාවේදී කථකයා භාෂා මට්ටම වෙනස් කරනවාද?"
       },
       {
-        "text": "Not necessarily; the context allows another interpretation.",
-        "reading": "න්ඔට් න්එක්එස්ස්ඇර්ඉල්යි; ත්එ ක්ඔන්ට්එක්ස්ට් ඇල්ල්ඔව්ස් ඇන්ඔත්එර් ඉන්ට්එර්ප්ර්එට්ඇෂන්.",
-        "meaning": "අනිවාර්යයෙන්ම නොවේ; සන්දර්භය වෙනත් අර්ථකථනයකට ඉඩ සලසයි."
+        "text": "Yes, the formal register shifts when family memories arise.",
+        "reading": "ය්එස්, ට්හ්එ ෆ්ඔර්ම්ඇල් ර්එග්ඉස්ට්එර් ස්හ්ඉෆ්ට්ස් ව්හ්එන් ෆ්ඇම්ඉල්ය් ම්එම්ඔර්ඉඑස් ඇර්ඉස්එ.",
+        "meaning": "ඔව්. පවුලේ මතක සඳහන් කරන විට විධිමත් මට්ටම වෙනස් වේ."
       },
       {
-        "text": "What evidence supports that reading?",
-        "reading": "ව්හ්ඇට් එව්ඉඩ්එන්ක්එ ස්අප්ප්ඔර්ට්ස් ත්ඇට් ර්එඇඩ්ඉන්ග්?",
-        "meaning": "එම කියවීමට සහාය දෙන සාක්ෂිය කුමක්ද?"
+        "text": "Is that a sign of inconsistency?",
+        "reading": "ඉස් ට්හ්ඇට් ඇ ස්ඉග්න් ඔෆ් ඉන්ක්ඔන්ස්ඉස්ට්එන්ක්ය්?",
+        "meaning": "එය නොගැළපීමක ලකුණක්ද?"
       },
       {
-        "text": "Primarily, the wording and the relationship between the speakers.",
-        "reading": "ප්ර්ඉම්ඇර්ඉල්යි, ත්එ ව්ඔර්ඩ්ඉන්ග් ඇන්ඩ් ත්එ ර්එල්ඇෂන්ෂ්ඉප් බ්එට්ව්එඑන් ත්එ ස්ප්එඇක්එර්ස්.",
-        "meaning": "ප්‍රධාන වශයෙන් වචන තේරීම සහ කථකයන් අතර සම්බන්ධතාවයි."
+        "text": "No; code-switching can signal identity and audience awareness.",
+        "reading": "න්ඔ; ක්ඔඩ්එ-ස්ව්ඉට්ක්හ්ඉන්ග් ක්ඇන් ස්ඉග්න්ඇල් ඉඩ්එන්ට්ඉට්ය් ඇන්ඩ් ඇඅඩ්ඉඑන්ක්එ ඇව්ඇර්එන්එස්ස්.",
+        "meaning": "නැහැ. භාෂා මාරුව අනන්‍යතාව සහ අසන්නන් පිළිබඳ අවබෝධය පෙන්විය හැකිය."
       }
     ],
     "listeningPractice": {
@@ -527,29 +527,29 @@ export const ENGLISH_C2_LESSONS = [
         "word": "anaphora",
         "reading": "ඇන්ඇප්හ්ඔර්ඇ",
         "meaning": "මුලදී වචන නැවත යෙදීම",
-        "example": "The opening frames the issue as a question of fairness.",
-        "translation": "ආරම්භය ගැටලුව සාධාරණත්වය පිළිබඳ ප්‍රශ්නයක් ලෙස රාමුගත කරයි."
+        "example": "In වාග්මාලාත්මක උපාය, the term “anaphora” helps define the focus of the analysis.",
+        "translation": "මෙම වාග්මාලාත්මක උපාය තුළ “anaphora” යන පදය විශ්ලේෂණයේ අවධානය නිශ්චිත කරයි."
       },
       {
         "word": "parallelism",
         "reading": "ප්ඇර්ඇල්ල්එල්ඉස්ම්",
         "meaning": "සමාන්තර වාක්‍ය රටාව",
-        "example": "A measured concession can make the rebuttal more credible.",
-        "translation": "මධ්‍යස්ථ පිළිගැනීමක් ප්‍රතිතර්කය වඩා විශ්වසනීය කරයි."
+        "example": "Without a clear explanation of “parallelism”, a reader may misunderstand the argument.",
+        "translation": "“parallelism” යන්න පැහැදිලි නොකළහොත් පාඨකයාට තර්කය වැරදි ලෙස තේරුම් ගත හැකිය."
       },
       {
         "word": "cadence",
         "reading": "ක්ඇඩ්එන්ක්එ",
         "meaning": "කථන රිද්මය",
-        "example": "Parallel structure gives the argument a memorable rhythm.",
-        "translation": "සමාන්තර ව්‍යුහය තර්කයට මතකයේ රැඳෙන රිද්මයක් ලබා දෙයි."
+        "example": "The example shows how “cadence” changes interpretation in the context of වාග්මාලාත්මක උපාය.",
+        "translation": "මෙම උදාහරණය වාග්මාලාත්මක උපාය සන්දර්භය තුළ “cadence” අර්ථකථනය වෙනස් කරන ආකාරය පෙන්වයි."
       },
       {
         "word": "persuasive",
         "reading": "ප්එර්ස්අඇස්ඉව්එ",
         "meaning": "ඒත්තු ගන්වන",
-        "example": "The speaker shifts the frame without changing the underlying facts.",
-        "translation": "කථකයා මූලික කරුණු වෙනස් නොකර සාකච්ඡාවේ රාමුව වෙනස් කරයි."
+        "example": "The researcher identified “persuasive” as an important element when comparing different positions.",
+        "translation": "විවිධ ස්ථාවර සසඳන විට “persuasive” වැදගත් අංගයක් ලෙස පර්යේෂකයා හඳුනාගත්තේය."
       }
     ],
     "grammarTitle": "Grammar, style and meaning",
@@ -578,24 +578,24 @@ export const ENGLISH_C2_LESSONS = [
     ],
     "dialogue": [
       {
-        "text": "Can we conclude that the meaning is entirely explicit?",
-        "reading": "ක්ඇන් ව්එ ක්ඔන්ක්ල්අඩ්එ ත්ඇට් ත්එ ම්එඇන්ඉන්ග් ඉස් එන්ට්ඉර්එල්යි එක්ස්ප්ල්ඉක්ඉට්?",
-        "meaning": "අර්ථය සම්පූර්ණයෙන්ම පැහැදිලි බව අපට නිගමනය කළ හැකිද?"
+        "text": "How does the opening frame the proposal?",
+        "reading": "හ්ඔව් ඩ්ඔඑස් ට්හ්එ ඔප්එන්ඉන්ග් ෆ්ර්ඇම්එ ට්හ්එ ප්ර්ඔප්ඔස්ඇල්?",
+        "meaning": "ආරම්භය යෝජනාව කෙසේ රාමුගත කරනවාද?"
       },
       {
-        "text": "Not necessarily; the context allows another interpretation.",
-        "reading": "න්ඔට් න්එක්එස්ස්ඇර්ඉල්යි; ත්එ ක්ඔන්ට්එක්ස්ට් ඇල්ල්ඔව්ස් ඇන්ඔත්එර් ඉන්ට්එර්ප්ර්එට්ඇෂන්.",
-        "meaning": "අනිවාර්යයෙන්ම නොවේ; සන්දර්භය වෙනත් අර්ථකථනයකට ඉඩ සලසයි."
+        "text": "It presents the issue as a question of fairness.",
+        "reading": "ඉට් ප්ර්එස්එන්ට්ස් ට්හ්එ ඉස්ස්අඑ ඇස් ඇ ක්අඑස්ට්ඉඔන් ඔෆ් ෆ්ඇඉර්න්එස්ස්.",
+        "meaning": "එය ගැටලුව සාධාරණත්වය පිළිබඳ ප්‍රශ්නයක් ලෙස ඉදිරිපත් කරයි."
       },
       {
-        "text": "What evidence supports that reading?",
-        "reading": "ව්හ්ඇට් එව්ඉඩ්එන්ක්එ ස්අප්ප්ඔර්ට්ස් ත්ඇට් ර්එඇඩ්ඉන්ග්?",
-        "meaning": "එම කියවීමට සහාය දෙන සාක්ෂිය කුමක්ද?"
+        "text": "What makes the argument persuasive?",
+        "reading": "ව්හ්ඇට් ම්ඇක්එස් ට්හ්එ ඇර්ග්අම්එන්ට් ප්එර්ස්අඇස්ඉව්එ?",
+        "meaning": "තර්කය ඒත්තු ගන්වනසුලු කරන්නේ කුමක්ද?"
       },
       {
-        "text": "Primarily, the wording and the relationship between the speakers.",
-        "reading": "ප්ර්ඉම්ඇර්ඉල්යි, ත්එ ව්ඔර්ඩ්ඉන්ග් ඇන්ඩ් ත්එ ර්එල්ඇෂන්ෂ්ඉප් බ්එට්ව්එඑන් ත්එ ස්ප්එඇක්එර්ස්.",
-        "meaning": "ප්‍රධාන වශයෙන් වචන තේරීම සහ කථකයන් අතර සම්බන්ධතාවයි."
+        "text": "A measured concession is followed by a focused rebuttal.",
+        "reading": "ඇ ම්එඇස්අර්එඩ් ක්ඔන්ක්එස්ස්ඉඔන් ඉස් ෆ්ඔල්ල්ඔව්එඩ් බ්ය් ඇ ෆ්ඔක්අස්එඩ් ර්එබ්අට්ට්ඇල්.",
+        "meaning": "මධ්‍යස්ථ පිළිගැනීමකට පසු ඉලක්කගත ප්‍රතිතර්කයක් ඉදිරිපත් කිරීමයි."
       }
     ],
     "listeningPractice": {
@@ -690,29 +690,29 @@ export const ENGLISH_C2_LESSONS = [
         "word": "polysemy",
         "reading": "ප්ඔල්යිස්එම්යි",
         "meaning": "බහුඅර්ථතාව",
-        "example": "The two verbs share a denotation but differ in connotation.",
-        "translation": "ක්‍රියාපද දෙකේ මූලික අර්ථය සමාන වුවත් හැඟවුම් අර්ථ වෙනස්ය."
+        "example": "In වචන තේරීම, the term “polysemy” helps define the focus of the analysis.",
+        "translation": "මෙම වචන තේරීම තුළ “polysemy” යන පදය විශ්ලේෂණයේ අවධානය නිශ්චිත කරයි."
       },
       {
         "word": "semantic",
         "reading": "ස්එම්ඇන්ට්ඉක්",
         "meaning": "අර්ථමය",
-        "example": "That adjective is too informal for the intended register.",
-        "translation": "එම විශේෂණය අපේක්ෂිත භාෂා මට්ටමට වඩා අවිධිමත්ය."
+        "example": "Without a clear explanation of “semantic”, a reader may misunderstand the argument.",
+        "translation": "“semantic” යන්න පැහැදිලි නොකළහොත් පාඨකයාට තර්කය වැරදි ලෙස තේරුම් ගත හැකිය."
       },
       {
         "word": "nuance",
         "reading": "න්අඇන්ක්එ",
         "meaning": "සූක්ෂ්ම අර්ථ වෙනස",
-        "example": "The collocation sounds natural to fluent speakers.",
-        "translation": "එම වචන සංයෝගය ස්වදේශීය කථකයන්ට ස්වභාවිකව ඇසේ."
+        "example": "The example shows how “nuance” changes interpretation in the context of වචන තේරීම.",
+        "translation": "මෙම උදාහරණය වචන තේරීම සන්දර්භය තුළ “nuance” අර්ථකථනය වෙනස් කරන ආකාරය පෙන්වයි."
       },
       {
         "word": "precision",
         "reading": "ප්ර්එක්ඉස්ඉඔන්",
         "meaning": "නිරවද්‍යතාව",
-        "example": "Lexical precision depends on context, not dictionary meaning alone.",
-        "translation": "වචන නිරවද්‍යතාව ශබ්දකෝෂ අර්ථයට පමණක් නොව සන්දර්භයටද රඳා පවතී."
+        "example": "The researcher identified “precision” as an important element when comparing different positions.",
+        "translation": "විවිධ ස්ථාවර සසඳන විට “precision” වැදගත් අංගයක් ලෙස පර්යේෂකයා හඳුනාගත්තේය."
       }
     ],
     "grammarTitle": "Grammar, style and meaning",
@@ -741,24 +741,24 @@ export const ENGLISH_C2_LESSONS = [
     ],
     "dialogue": [
       {
-        "text": "Can we conclude that the meaning is entirely explicit?",
-        "reading": "ක්ඇන් ව්එ ක්ඔන්ක්ල්අඩ්එ ත්ඇට් ත්එ ම්එඇන්ඉන්ග් ඉස් එන්ට්ඉර්එල්යි එක්ස්ප්ල්ඉක්ඉට්?",
-        "meaning": "අර්ථය සම්පූර්ණයෙන්ම පැහැදිලි බව අපට නිගමනය කළ හැකිද?"
+        "text": "Would “slim” and “thin” fit equally well here?",
+        "reading": "ව්ඔඅල්ඩ් “ස්ල්ඉම්” ඇන්ඩ් “ට්හ්ඉන්” ෆ්ඉට් එක්අඇල්ල්ය් ව්එල්ල් හ්එර්එ?",
+        "meaning": "මෙහි “slim” සහ “thin” යන වචන දෙකම සමානව ගැළපෙනවාද?"
       },
       {
-        "text": "Not necessarily; the context allows another interpretation.",
-        "reading": "න්ඔට් න්එක්එස්ස්ඇර්ඉල්යි; ත්එ ක්ඔන්ට්එක්ස්ට් ඇල්ල්ඔව්ස් ඇන්ඔත්එර් ඉන්ට්එර්ප්ර්එට්ඇෂන්.",
-        "meaning": "අනිවාර්යයෙන්ම නොවේ; සන්දර්භය වෙනත් අර්ථකථනයකට ඉඩ සලසයි."
+        "text": "Their denotation overlaps, but their connotations differ.",
+        "reading": "ට්හ්එඉර් ඩ්එන්ඔට්ඇට්ඉඔන් ඔව්එර්ල්ඇප්ස්, බ්අට් ට්හ්එඉර් ක්ඔන්න්ඔට්ඇට්ඉඔන්ස් ඩ්ඉෆ්ෆ්එර්.",
+        "meaning": "ඒවායේ සෘජු අර්ථ සමාන වුවත් හැඟවුම් අර්ථ වෙනස්ය."
       },
       {
-        "text": "What evidence supports that reading?",
-        "reading": "ව්හ්ඇට් එව්ඉඩ්එන්ක්එ ස්අප්ප්ඔර්ට්ස් ත්ඇට් ර්එඇඩ්ඉන්ග්?",
-        "meaning": "එම කියවීමට සහාය දෙන සාක්ෂිය කුමක්ද?"
+        "text": "Which expression suits the report?",
+        "reading": "ව්හ්ඉක්හ් එක්ස්ප්ර්එස්ස්ඉඔන් ස්අඉට්ස් ට්හ්එ ර්එප්ඔර්ට්?",
+        "meaning": "වාර්තාවට ගැළපෙන්නේ කුමන ප්‍රකාශයද?"
       },
       {
-        "text": "Primarily, the wording and the relationship between the speakers.",
-        "reading": "ප්ර්ඉම්ඇර්ඉල්යි, ත්එ ව්ඔර්ඩ්ඉන්ග් ඇන්ඩ් ත්එ ර්එල්ඇෂන්ෂ්ඉප් බ්එට්ව්එඑන් ත්එ ස්ප්එඇක්එර්ස්.",
-        "meaning": "ප්‍රධාන වශයෙන් වචන තේරීම සහ කථකයන් අතර සම්බන්ධතාවයි."
+        "text": "The neutral collocation is more precise for this register.",
+        "reading": "ට්හ්එ න්එඅට්ර්ඇල් ක්ඔල්ල්ඔක්ඇට්ඉඔන් ඉස් ම්ඔර්එ ප්ර්එක්ඉස්එ ෆ්ඔර් ට්හ්ඉස් ර්එග්ඉස්ට්එර්.",
+        "meaning": "මෙම භාෂා මට්ටමට මධ්‍යස්ථ වචන සංයෝගය වඩා නිරවද්‍යය."
       }
     ],
     "listeningPractice": {
@@ -853,29 +853,29 @@ export const ENGLISH_C2_LESSONS = [
         "word": "resonance",
         "reading": "ර්එස්ඔන්ඇන්ක්එ",
         "meaning": "අර්ථමය ප්‍රතිධ්වනි",
-        "example": "The allusion enriches the passage without interrupting its flow.",
-        "translation": "සාහිත්‍ය සඳහන ඡේදයේ ගලායාම බිඳ නොදමා එය පොහොසත් කරයි."
+        "example": "In සාහිත්‍ය විශ්ලේෂණය, the term “resonance” helps define the focus of the analysis.",
+        "translation": "මෙම සාහිත්‍ය විශ්ලේෂණය තුළ “resonance” යන පදය විශ්ලේෂණයේ අවධානය නිශ්චිත කරයි."
       },
       {
         "word": "reinterpretation",
         "reading": "ර්එඉන්ට්එර්ප්ර්එට්ඇෂන්",
         "meaning": "නැවත අර්ථකථනය",
-        "example": "Intertextuality invites readers to connect separate works.",
-        "translation": "පාඨ අතර අන්තර්සම්බන්ධය වෙනස් කෘති සම්බන්ධ කිරීමට පාඨකයාට ආරාධනා කරයි."
+        "example": "Without a clear explanation of “reinterpretation”, a reader may misunderstand the argument.",
+        "translation": "“reinterpretation” යන්න පැහැදිලි නොකළහොත් පාඨකයාට තර්කය වැරදි ලෙස තේරුම් ගත හැකිය."
       },
       {
         "word": "canonical",
         "reading": "ක්ඇන්ඔන්ඉක්ඇල්",
         "meaning": "සම්භාව්‍ය ලෙස පිළිගත්",
-        "example": "The archetype is reinterpreted rather than simply repeated.",
-        "translation": "මූලික සංකේත රටාව සරලව නැවත නොකියා අලුතින් අර්ථකථනය කරයි."
+        "example": "The example shows how “canonical” changes interpretation in the context of සාහිත්‍ය විශ්ලේෂණය.",
+        "translation": "මෙම උදාහරණය සාහිත්‍ය විශ්ලේෂණය සන්දර්භය තුළ “canonical” අර්ථකථනය වෙනස් කරන ආකාරය පෙන්වයි."
       },
       {
         "word": "evocation",
         "reading": "එව්ඔක්ඇෂන්",
         "meaning": "මතක/හැඟීම් මතු කිරීම",
-        "example": "The final image creates an echo of an earlier scene.",
-        "translation": "අවසාන රූපය පෙර දර්ශනයක ප්‍රතිධ්වනියක් ඇති කරයි."
+        "example": "The researcher identified “evocation” as an important element when comparing different positions.",
+        "translation": "විවිධ ස්ථාවර සසඳන විට “evocation” වැදගත් අංගයක් ලෙස පර්යේෂකයා හඳුනාගත්තේය."
       }
     ],
     "grammarTitle": "Grammar, style and meaning",
@@ -904,24 +904,24 @@ export const ENGLISH_C2_LESSONS = [
     ],
     "dialogue": [
       {
-        "text": "Can we conclude that the meaning is entirely explicit?",
-        "reading": "ක්ඇන් ව්එ ක්ඔන්ක්ල්අඩ්එ ත්ඇට් ත්එ ම්එඇන්ඉන්ග් ඉස් එන්ට්ඉර්එල්යි එක්ස්ප්ල්ඉක්ඉට්?",
-        "meaning": "අර්ථය සම්පූර්ණයෙන්ම පැහැදිලි බව අපට නිගමනය කළ හැකිද?"
+        "text": "Is the ruined garden merely a setting?",
+        "reading": "ඉස් ට්හ්එ ර්අඉන්එඩ් ග්ඇර්ඩ්එන් ම්එර්එල්ය් ඇ ස්එට්ට්ඉන්ග්?",
+        "meaning": "විනාශ වූ උද්‍යානය කතාවේ පසුබිමක් පමණක්ද?"
       },
       {
-        "text": "Not necessarily; the context allows another interpretation.",
-        "reading": "න්ඔට් න්එක්එස්ස්ඇර්ඉල්යි; ත්එ ක්ඔන්ට්එක්ස්ට් ඇල්ල්ඔව්ස් ඇන්ඔත්එර් ඉන්ට්එර්ප්ර්එට්ඇෂන්.",
-        "meaning": "අනිවාර්යයෙන්ම නොවේ; සන්දර්භය වෙනත් අර්ථකථනයකට ඉඩ සලසයි."
+        "text": "No, it echoes the novel's earlier image of lost innocence.",
+        "reading": "න්ඔ, ඉට් එක්හ්ඔඑස් ට්හ්එ න්ඔව්එල්'ස් එඇර්ල්ඉඑර් ඉම්ඇග්එ ඔෆ් ල්ඔස්ට් ඉන්න්ඔක්එන්ක්එ.",
+        "meaning": "නැහැ. එය නවකතාවේ කලින් තිබූ අහිමි නිර්දෝෂීභාවයේ රූපය සිහිගන්වයි."
       },
       {
-        "text": "What evidence supports that reading?",
-        "reading": "ව්හ්ඇට් එව්ඉඩ්එන්ක්එ ස්අප්ප්ඔර්ට්ස් ත්ඇට් ර්එඇඩ්ඉන්ග්?",
-        "meaning": "එම කියවීමට සහාය දෙන සාක්ෂිය කුමක්ද?"
+        "text": "Would every reader recognise the allusion?",
+        "reading": "ව්ඔඅල්ඩ් එව්එර්ය් ර්එඇඩ්එර් ර්එක්ඔග්න්ඉස්එ ට්හ්එ ඇල්ල්අස්ඉඔන්?",
+        "meaning": "සෑම පාඨකයෙකුම එම වක්‍ර සඳහන හඳුනාගනීවිද?"
       },
       {
-        "text": "Primarily, the wording and the relationship between the speakers.",
-        "reading": "ප්ර්ඉම්ඇර්ඉල්යි, ත්එ ව්ඔර්ඩ්ඉන්ග් ඇන්ඩ් ත්එ ර්එල්ඇෂන්ෂ්ඉප් බ්එට්ව්එඑන් ත්එ ස්ප්එඇක්එර්ස්.",
-        "meaning": "ප්‍රධාන වශයෙන් වචන තේරීම සහ කථකයන් අතර සම්බන්ධතාවයි."
+        "text": "Not necessarily; intertextual resonance depends on shared reading.",
+        "reading": "න්ඔට් න්එක්එස්ස්ඇර්ඉල්ය්; ඉන්ට්එර්ට්එක්ස්ට්අඇල් ර්එස්ඔන්ඇන්ක්එ ඩ්එප්එන්ඩ්ස් ඔන් ස්හ්ඇර්එඩ් ර්එඇඩ්ඉන්ග්.",
+        "meaning": "අනිවාර්යයෙන්ම නැහැ. පාඨ අතර ප්‍රතිධ්වනිය පොදු කියවීම් අත්දැකීම් මත රඳා පවතී."
       }
     ],
     "listeningPractice": {
@@ -1016,29 +1016,29 @@ export const ENGLISH_C2_LESSONS = [
         "word": "transcription",
         "reading": "ට්ර්ඇන්ස්ක්ර්ඉප්ෂන්",
         "meaning": "පිටපත් කිරීම",
-        "example": "The emendation is recorded with an explanation.",
-        "translation": "පාඨ සංශෝධනය පැහැදිලි කිරීමක් සමඟ සටහන් කර ඇත."
+        "example": "In විවේචනාත්මක සංස්කරණය, the term “transcription” helps define the focus of the analysis.",
+        "translation": "මෙම විවේචනාත්මක සංස්කරණය තුළ “transcription” යන පදය විශ්ලේෂණයේ අවධානය නිශ්චිත කරයි."
       },
       {
         "word": "provenance",
         "reading": "ප්ර්ඔව්එන්ඇන්ක්එ",
         "meaning": "මූලාශ්‍ර ඉතිහාසය",
-        "example": "A manuscript variant changes the meaning of the passage.",
-        "translation": "අත්පිටපතේ විකල්ප ආකාරයක් ඡේදයේ අර්ථය වෙනස් කරයි."
+        "example": "Without a clear explanation of “provenance”, a reader may misunderstand the argument.",
+        "translation": "“provenance” යන්න පැහැදිලි නොකළහොත් පාඨකයාට තර්කය වැරදි ලෙස තේරුම් ගත හැකිය."
       },
       {
         "word": "annotation",
         "reading": "ඇන්න්ඔට්ඇෂන්",
         "meaning": "සටහන",
-        "example": "The editor marks the lacuna rather than inventing missing text.",
-        "translation": "අතුරුදන් පාඨය ගොතා නොදමා සංස්කාරකයා හිස්තැන සලකුණු කරයි."
+        "example": "The example shows how “annotation” changes interpretation in the context of විවේචනාත්මක සංස්කරණය.",
+        "translation": "මෙම උදාහරණය විවේචනාත්මක සංස්කරණය සන්දර්භය තුළ “annotation” අර්ථකථනය වෙනස් කරන ආකාරය පෙන්වයි."
       },
       {
         "word": "editorial",
         "reading": "එඩ්ඉට්ඔර්ඉඇල්",
         "meaning": "සංස්කාරක සම්බන්ධ",
-        "example": "Provenance helps establish the reliability of the source.",
-        "translation": "මූලාශ්‍ර ඉතිහාසය මඟින් මූලාශ්‍රයේ විශ්වසනීයත්වය තහවුරු කිරීමට උපකාරී වේ."
+        "example": "The researcher identified “editorial” as an important element when comparing different positions.",
+        "translation": "විවිධ ස්ථාවර සසඳන විට “editorial” වැදගත් අංගයක් ලෙස පර්යේෂකයා හඳුනාගත්තේය."
       }
     ],
     "grammarTitle": "Grammar, style and meaning",
@@ -1067,24 +1067,24 @@ export const ENGLISH_C2_LESSONS = [
     ],
     "dialogue": [
       {
-        "text": "Can we conclude that the meaning is entirely explicit?",
-        "reading": "ක්ඇන් ව්එ ක්ඔන්ක්ල්අඩ්එ ත්ඇට් ත්එ ම්එඇන්ඉන්ග් ඉස් එන්ට්ඉර්එල්යි එක්ස්ප්ල්ඉක්ඉට්?",
-        "meaning": "අර්ථය සම්පූර්ණයෙන්ම පැහැදිලි බව අපට නිගමනය කළ හැකිද?"
+        "text": "Why did you leave a gap in the transcript?",
+        "reading": "ව්හ්ය් ඩ්ඉඩ් ය්ඔඅ ල්එඇව්එ ඇ ග්ඇප් ඉන් ට්හ්එ ට්ර්ඇන්ස්ක්ර්ඉප්ට්?",
+        "meaning": "පිටපතේ හිස්තැනක් තැබුවේ ඇයි?"
       },
       {
-        "text": "Not necessarily; the context allows another interpretation.",
-        "reading": "න්ඔට් න්එක්එස්ස්ඇර්ඉල්යි; ත්එ ක්ඔන්ට්එක්ස්ට් ඇල්ල්ඔව්ස් ඇන්ඔත්එර් ඉන්ට්එර්ප්ර්එට්ඇෂන්.",
-        "meaning": "අනිවාර්යයෙන්ම නොවේ; සන්දර්භය වෙනත් අර්ථකථනයකට ඉඩ සලසයි."
+        "text": "The manuscript is damaged at that point.",
+        "reading": "ට්හ්එ ම්ඇන්අස්ක්ර්ඉප්ට් ඉස් ඩ්ඇම්ඇග්එඩ් ඇට් ට්හ්ඇට් ප්ඔඉන්ට්.",
+        "meaning": "එම ස්ථානයේ අත්පිටපත හානි වී ඇත."
       },
       {
-        "text": "What evidence supports that reading?",
-        "reading": "ව්හ්ඇට් එව්ඉඩ්එන්ක්එ ස්අප්ප්ඔර්ට්ස් ත්ඇට් ර්එඇඩ්ඉන්ග්?",
-        "meaning": "එම කියවීමට සහාය දෙන සාක්ෂිය කුමක්ද?"
+        "text": "Could the missing phrase be reconstructed?",
+        "reading": "ක්ඔඅල්ඩ් ට්හ්එ ම්ඉස්ස්ඉන්ග් ප්හ්ර්ඇස්එ බ්එ ර්එක්ඔන්ස්ට්ර්අක්ට්එඩ්?",
+        "meaning": "අතුරුදන් ප්‍රකාශය නැවත ගොඩනැගිය හැකිද?"
       },
       {
-        "text": "Primarily, the wording and the relationship between the speakers.",
-        "reading": "ප්ර්ඉම්ඇර්ඉල්යි, ත්එ ව්ඔර්ඩ්ඉන්ග් ඇන්ඩ් ත්එ ර්එල්ඇෂන්ෂ්ඉප් බ්එට්ව්එඑන් ත්එ ස්ප්එඇක්එර්ස්.",
-        "meaning": "ප්‍රධාන වශයෙන් වචන තේරීම සහ කථකයන් අතර සම්බන්ධතාවයි."
+        "text": "Only as a conjecture, clearly marked in an editorial note.",
+        "reading": "ඔන්ල්ය් ඇස් ඇ ක්ඔන්ජ්එක්ට්අර්එ, ක්ල්එඇර්ල්ය් ම්ඇර්ක්එඩ් ඉන් ඇන් එඩ්ඉට්ඔර්ඉඇල් න්ඔට්එ.",
+        "meaning": "සංස්කාරක සටහනක පැහැදිලිව සලකුණු කළ අනුමානයක් ලෙස පමණි."
       }
     ],
     "listeningPractice": {
@@ -1179,29 +1179,29 @@ export const ENGLISH_C2_LESSONS = [
         "word": "de-escalation",
         "reading": "ඩ්එ-එස්ක්ඇල්ඇෂන්",
         "meaning": "ගැටුම තීව්‍ර වීම අඩු කිරීම",
-        "example": "A face-saving proposal allows both parties to move forward.",
-        "translation": "ගෞරවය රැකගන්නා යෝජනාවක් දෙපාර්ශ්වයටම ඉදිරියට යාමට ඉඩ සලසයි."
+        "example": "In මැදිහත්වීම, the term “de-escalation” helps define the focus of the analysis.",
+        "translation": "මෙම මැදිහත්වීම තුළ “de-escalation” යන පදය විශ්ලේෂණයේ අවධානය නිශ්චිත කරයි."
       },
       {
         "word": "confidentiality",
         "reading": "ක්ඔන්ෆ්ඉඩ්එන්ට්ඉඇල්ඉට්යි",
         "meaning": "රහස්‍යභාවය",
-        "example": "The mediator reframed the accusation as a shared concern.",
-        "translation": "මැදිහත්කරු චෝදනාව පොදු සැලකිල්ලක් ලෙස නැවත රාමුගත කළේය."
+        "example": "Without a clear explanation of “confidentiality”, a reader may misunderstand the argument.",
+        "translation": "“confidentiality” යන්න පැහැදිලි නොකළහොත් පාඨකයාට තර්කය වැරදි ලෙස තේරුම් ගත හැකිය."
       },
       {
         "word": "impartiality",
         "reading": "ඉම්ප්ඇර්ට්ඉඇල්ඉට්යි",
         "meaning": "අපක්ෂපාතීත්වය",
-        "example": "Confidentiality is essential to rebuilding rapport.",
-        "translation": "හොඳ සම්බන්ධතාව නැවත ගොඩනැගීමට රහස්‍යභාවය අත්‍යවශ්‍යය."
+        "example": "The example shows how “impartiality” changes interpretation in the context of මැදිහත්වීම.",
+        "translation": "මෙම උදාහරණය මැදිහත්වීම සන්දර්භය තුළ “impartiality” අර්ථකථනය වෙනස් කරන ආකාරය පෙන්වයි."
       },
       {
         "word": "reframing",
         "reading": "ර්එෆ්ර්ඇම්ඉන්ග්",
         "meaning": "නැවත රාමුගත කිරීම",
-        "example": "Impartiality must be visible as well as genuine.",
-        "translation": "අපක්ෂපාතීත්වය අවංක වීම පමණක් නොව පෙනී යාමද අවශ්‍යය."
+        "example": "The researcher identified “reframing” as an important element when comparing different positions.",
+        "translation": "විවිධ ස්ථාවර සසඳන විට “reframing” වැදගත් අංගයක් ලෙස පර්යේෂකයා හඳුනාගත්තේය."
       }
     ],
     "grammarTitle": "Grammar, style and meaning",
@@ -1230,24 +1230,24 @@ export const ENGLISH_C2_LESSONS = [
     ],
     "dialogue": [
       {
-        "text": "Can we conclude that the meaning is entirely explicit?",
-        "reading": "ක්ඇන් ව්එ ක්ඔන්ක්ල්අඩ්එ ත්ඇට් ත්එ ම්එඇන්ඉන්ග් ඉස් එන්ට්ඉර්එල්යි එක්ස්ප්ල්ඉක්ඉට්?",
-        "meaning": "අර්ථය සම්පූර්ණයෙන්ම පැහැදිලි බව අපට නිගමනය කළ හැකිද?"
+        "text": "Both parties have repeated their positions. What now?",
+        "reading": "බ්ඔට්හ් ප්ඇර්ට්ඉඑස් හ්ඇව්එ ර්එප්එඇට්එඩ් ට්හ්එඉර් ප්ඔස්ඉට්ඉඔන්ස්. ව්හ්ඇට් න්ඔව්?",
+        "meaning": "දෙපාර්ශ්වයම තම ස්ථාවර නැවත කියා තිබෙනවා. දැන් කුමක්ද?"
       },
       {
-        "text": "Not necessarily; the context allows another interpretation.",
-        "reading": "න්ඔට් න්එක්එස්ස්ඇර්ඉල්යි; ත්එ ක්ඔන්ට්එක්ස්ට් ඇල්ල්ඔව්ස් ඇන්ඔත්එර් ඉන්ට්එර්ප්ර්එට්ඇෂන්.",
-        "meaning": "අනිවාර්යයෙන්ම නොවේ; සන්දර්භය වෙනත් අර්ථකථනයකට ඉඩ සලසයි."
+        "text": "I will reframe the concern without assigning blame.",
+        "reading": "ඉ ව්ඉල්ල් ර්එෆ්ර්ඇම්එ ට්හ්එ ක්ඔන්ක්එර්න් ව්ඉට්හ්ඔඅට් ඇස්ස්ඉග්න්ඉන්ග් බ්ල්ඇම්එ.",
+        "meaning": "වරද පවරන්නේ නැතිව ගැටලුව වෙනත් ආකාරයකින් ඉදිරිපත් කරන්නම්."
       },
       {
-        "text": "What evidence supports that reading?",
-        "reading": "ව්හ්ඇට් එව්ඉඩ්එන්ක්එ ස්අප්ප්ඔර්ට්ස් ත්ඇට් ර්එඇඩ්ඉන්ග්?",
-        "meaning": "එම කියවීමට සහාය දෙන සාක්ෂිය කුමක්ද?"
+        "text": "Can the discussion continue confidentially?",
+        "reading": "ක්ඇන් ට්හ්එ ඩ්ඉස්ක්අස්ස්ඉඔන් ක්ඔන්ට්ඉන්අඑ ක්ඔන්ෆ්ඉඩ්එන්ට්ඉඇල්ල්ය්?",
+        "meaning": "සාකච්ඡාව රහසිගතව ඉදිරියට ගෙන යා හැකිද?"
       },
       {
-        "text": "Primarily, the wording and the relationship between the speakers.",
-        "reading": "ප්ර්ඉම්ඇර්ඉල්යි, ත්එ ව්ඔර්ඩ්ඉන්ග් ඇන්ඩ් ත්එ ර්එල්ඇෂන්ෂ්ඉප් බ්එට්ව්එඑන් ත්එ ස්ප්එඇක්එර්ස්.",
-        "meaning": "ප්‍රධාන වශයෙන් වචන තේරීම සහ කථකයන් අතර සම්බන්ධතාවයි."
+        "text": "Yes; impartiality and face-saving language may reopen dialogue.",
+        "reading": "ය්එස්; ඉම්ප්ඇර්ට්ඉඇල්ඉට්ය් ඇන්ඩ් ෆ්ඇක්එ-ස්ඇව්ඉන්ග් ල්ඇන්ග්අඇග්එ ම්ඇය් ර්එඔප්එන් ඩ්ඉඇල්ඔග්අඑ.",
+        "meaning": "ඔව්. අපක්ෂපාතීත්වය සහ ගෞරවය රකින භාෂාව සංවාදය නැවත ආරම්භ කළ හැකිය."
       }
     ],
     "listeningPractice": {
@@ -1342,29 +1342,29 @@ export const ENGLISH_C2_LESSONS = [
         "word": "pragmatics",
         "reading": "ප්ර්ඇග්ම්ඇට්ඉක්ස්",
         "meaning": "ප්‍රායෝගික භාෂා අර්ථය",
-        "example": "A literal translation would preserve words but lose the joke.",
-        "translation": "වචනාර්ථ පරිවර්තනය වචන රැකගත්තත් විහිළුවේ අර්ථය නැති කරයි."
+        "example": "In පරිවර්තන තීරණය, the term “pragmatics” helps define the focus of the analysis.",
+        "translation": "මෙම පරිවර්තන තීරණය තුළ “pragmatics” යන පදය විශ්ලේෂණයේ අවධානය නිශ්චිත කරයි."
       },
       {
         "word": "idiomatic",
         "reading": "ඉඩ්ඉඔම්ඇට්ඉක්",
         "meaning": "ව්‍යවහාරයට ස්වභාවික",
-        "example": "The translator balances fidelity with cultural readability.",
-        "translation": "පරිවර්තකයා මුල් පාඨයට විශ්වාසවන්ත බව සහ සංස්කෘතික කියවීමේ පහසුව සමබර කරයි."
+        "example": "Without a clear explanation of “idiomatic”, a reader may misunderstand the argument.",
+        "translation": "“idiomatic” යන්න පැහැදිලි නොකළහොත් පාඨකයාට තර්කය වැරදි ලෙස තේරුම් ගත හැකිය."
       },
       {
         "word": "register",
         "reading": "ර්එග්ඉස්ට්එර්",
         "meaning": "භාෂා භාවිත මට්ටම",
-        "example": "Some expressions require a functional rather than formal equivalent.",
-        "translation": "සමහර ප්‍රකාශවලට ආකෘතිමය නොව කාර්යමය සමාන පදයක් අවශ්‍ය වේ."
+        "example": "The example shows how “register” changes interpretation in the context of පරිවර්තන තීරණය.",
+        "translation": "මෙම උදාහරණය පරිවර්තන තීරණය සන්දර්භය තුළ “register” අර්ථකථනය වෙනස් කරන ආකාරය පෙන්වයි."
       },
       {
         "word": "fidelity",
         "reading": "ෆ්ඉඩ්එල්ඉට්යි",
         "meaning": "මුල් පාඨයට විශ්වාසවන්ත බව",
-        "example": "The chosen register should suit the target audience.",
-        "translation": "තෝරාගත් භාෂා මට්ටම ඉලක්කගත පාඨකයන්ට ගැළපිය යුතුය."
+        "example": "The researcher identified “fidelity” as an important element when comparing different positions.",
+        "translation": "විවිධ ස්ථාවර සසඳන විට “fidelity” වැදගත් අංගයක් ලෙස පර්යේෂකයා හඳුනාගත්තේය."
       }
     ],
     "grammarTitle": "Grammar, style and meaning",
@@ -1393,24 +1393,24 @@ export const ENGLISH_C2_LESSONS = [
     ],
     "dialogue": [
       {
-        "text": "Can we conclude that the meaning is entirely explicit?",
-        "reading": "ක්ඇන් ව්එ ක්ඔන්ක්ල්අඩ්එ ත්ඇට් ත්එ ම්එඇන්ඉන්ග් ඉස් එන්ට්ඉර්එල්යි එක්ස්ප්ල්ඉක්ඉට්?",
-        "meaning": "අර්ථය සම්පූර්ණයෙන්ම පැහැදිලි බව අපට නිගමනය කළ හැකිද?"
+        "text": "Should the proverb be translated word for word?",
+        "reading": "ස්හ්ඔඅල්ඩ් ට්හ්එ ප්ර්ඔව්එර්බ් බ්එ ට්ර්ඇන්ස්ල්ඇට්එඩ් ව්ඔර්ඩ් ෆ්ඔර් ව්ඔර්ඩ්?",
+        "meaning": "කියමන වචනයෙන් වචනය පරිවර්තනය කළ යුතුද?"
       },
       {
-        "text": "Not necessarily; the context allows another interpretation.",
-        "reading": "න්ඔට් න්එක්එස්ස්ඇර්ඉල්යි; ත්එ ක්ඔන්ට්එක්ස්ට් ඇල්ල්ඔව්ස් ඇන්ඔත්එර් ඉන්ට්එර්ප්ර්එට්ඇෂන්.",
-        "meaning": "අනිවාර්යයෙන්ම නොවේ; සන්දර්භය වෙනත් අර්ථකථනයකට ඉඩ සලසයි."
+        "text": "That would preserve its form but lose its pragmatic force.",
+        "reading": "ට්හ්ඇට් ව්ඔඅල්ඩ් ප්ර්එස්එර්ව්එ ඉට්ස් ෆ්ඔර්ම් බ්අට් ල්ඔස්එ ඉට්ස් ප්ර්ඇග්ම්ඇට්ඉක් ෆ්ඔර්ක්එ.",
+        "meaning": "එසේ කළහොත් ආකාරය රැකුණත් සන්දර්භීය බලපෑම නැති වේ."
       },
       {
-        "text": "What evidence supports that reading?",
-        "reading": "ව්හ්ඇට් එව්ඉඩ්එන්ක්එ ස්අප්ප්ඔර්ට්ස් ත්ඇට් ර්එඇඩ්ඉන්ග්?",
-        "meaning": "එම කියවීමට සහාය දෙන සාක්ෂිය කුමක්ද?"
+        "text": "What is the better option?",
+        "reading": "ව්හ්ඇට් ඉස් ට්හ්එ බ්එට්ට්එර් ඔප්ට්ඉඔන්?",
+        "meaning": "වඩා හොඳ විසඳුම කුමක්ද?"
       },
       {
-        "text": "Primarily, the wording and the relationship between the speakers.",
-        "reading": "ප්ර්ඉම්ඇර්ඉල්යි, ත්එ ව්ඔර්ඩ්ඉන්ග් ඇන්ඩ් ත්එ ර්එල්ඇෂන්ෂ්ඉප් බ්එට්ව්එඑන් ත්එ ස්ප්එඇක්එර්ස්.",
-        "meaning": "ප්‍රධාන වශයෙන් වචන තේරීම සහ කථකයන් අතර සම්බන්ධතාවයි."
+        "text": "Choose a culturally equivalent phrase and explain the difference if needed.",
+        "reading": "ක්හ්ඔඔස්එ ඇ ක්අල්ට්අර්ඇල්ල්ය් එක්අඉව්ඇල්එන්ට් ප්හ්ර්ඇස්එ ඇන්ඩ් එක්ස්ප්ල්ඇඉන් ට්හ්එ ඩ්ඉෆ්ෆ්එර්එන්ක්එ ඉෆ් න්එඑඩ්එඩ්.",
+        "meaning": "සංස්කෘතිකව සමාන ප්‍රකාශයක් තෝරා අවශ්‍ය නම් වෙනස පැහැදිලි කිරීමයි."
       }
     ],
     "listeningPractice": {
@@ -1505,29 +1505,29 @@ export const ENGLISH_C2_LESSONS = [
         "word": "counterfactual",
         "reading": "ක්ඔඅන්ට්එර්ෆ්ඇක්ට්අඇල්",
         "meaning": "සිදු නොවූ විකල්ප තත්ත්වයක්",
-        "example": "The synthesis reconciles competing interpretations without flattening them.",
-        "translation": "සංශ්ලේෂණය එකිනෙකට වෙනස් අර්ථකථන සරල කර නොදමා එකට ගළපයි."
+        "example": "In විශේෂඥ ඉදිරිපත් කිරීම, the term “counterfactual” helps define the focus of the analysis.",
+        "translation": "මෙම විශේෂඥ ඉදිරිපත් කිරීම තුළ “counterfactual” යන පදය විශ්ලේෂණයේ අවධානය නිශ්චිත කරයි."
       },
       {
         "word": "metadiscourse",
         "reading": "ම්එට්ඇඩ්ඉස්ක්ඔඅර්ස්එ",
         "meaning": "කථනය පිළිබඳ කථනය",
-        "example": "A subtle register shift signals a change in audience.",
-        "translation": "සූක්ෂ්ම භාෂා මට්ටම් මාරුවක් ප්‍රේක්ෂකයන් වෙනස් වන බව පෙන්වයි."
+        "example": "Without a clear explanation of “metadiscourse”, a reader may misunderstand the argument.",
+        "translation": "“metadiscourse” යන්න පැහැදිලි නොකළහොත් පාඨකයාට තර්කය වැරදි ලෙස තේරුම් ගත හැකිය."
       },
       {
         "word": "salience",
         "reading": "ස්ඇල්ඉඑන්ක්එ",
         "meaning": "විශේෂ අවධානයට ලක්වීම",
-        "example": "The conclusion is carefully qualified to reflect the evidence.",
-        "translation": "සාක්ෂි පිළිබිඹු වන ලෙස නිගමනයේ සීමාවන් ප්‍රවේශමෙන් දක්වා ඇත."
+        "example": "The example shows how “salience” changes interpretation in the context of විශේෂඥ ඉදිරිපත් කිරීම.",
+        "translation": "මෙම උදාහරණය විශේෂඥ ඉදිරිපත් කිරීම සන්දර්භය තුළ “salience” අර්ථකථනය වෙනස් කරන ආකාරය පෙන්වයි."
       },
       {
         "word": "precision",
         "reading": "ප්ර්එක්ඉස්ඉඔන්",
         "meaning": "නිරවද්‍යතාව",
-        "example": "Coherence depends on the relationships between claims, not merely their order.",
-        "translation": "අදහස් ගලායාමේ අනුකූලතාව රඳා පවතින්නේ ප්‍රකාශ අතර සම්බන්ධතා මත මිස අනුපිළිවෙළ මත පමණක් නොවේ."
+        "example": "The researcher identified “precision” as an important element when comparing different positions.",
+        "translation": "විවිධ ස්ථාවර සසඳන විට “precision” වැදගත් අංගයක් ලෙස පර්යේෂකයා හඳුනාගත්තේය."
       }
     ],
     "grammarTitle": "Grammar, style and meaning",
@@ -1556,24 +1556,24 @@ export const ENGLISH_C2_LESSONS = [
     ],
     "dialogue": [
       {
-        "text": "Can we conclude that the meaning is entirely explicit?",
-        "reading": "ක්ඇන් ව්එ ක්ඔන්ක්ල්අඩ්එ ත්ඇට් ත්එ ම්එඇන්ඉන්ග් ඉස් එන්ට්ඉර්එල්යි එක්ස්ප්ල්ඉක්ඉට්?",
-        "meaning": "අර්ථය සම්පූර්ණයෙන්ම පැහැදිලි බව අපට නිගමනය කළ හැකිද?"
+        "text": "Does the conclusion overstate what the data show?",
+        "reading": "ඩ්ඔඑස් ට්හ්එ ක්ඔන්ක්ල්අස්ඉඔන් ඔව්එර්ස්ට්ඇට්එ ව්හ්ඇට් ට්හ්එ ඩ්ඇට්ඇ ස්හ්ඔව්?",
+        "meaning": "දත්ත පෙන්වන දේට වඩා නිගමනය අතිශයෝක්තියෙන් දක්වනවාද?"
       },
       {
-        "text": "Not necessarily; the context allows another interpretation.",
-        "reading": "න්ඔට් න්එක්එස්ස්ඇර්ඉල්යි; ත්එ ක්ඔන්ට්එක්ස්ට් ඇල්ල්ඔව්ස් ඇන්ඔත්එර් ඉන්ට්එර්ප්ර්එට්ඇෂන්.",
-        "meaning": "අනිවාර්යයෙන්ම නොවේ; සන්දර්භය වෙනත් අර්ථකථනයකට ඉඩ සලසයි."
+        "text": "Slightly; the qualification should be more explicit.",
+        "reading": "ස්ල්ඉග්හ්ට්ල්ය්; ට්හ්එ ක්අඇල්ඉෆ්ඉක්ඇට්ඉඔන් ස්හ්ඔඅල්ඩ් බ්එ ම්ඔර්එ එක්ස්ප්ල්ඉක්ඉට්.",
+        "meaning": "ටිකක්. සීමා දැක්වීම වඩා පැහැදිලි විය යුතුයි."
       },
       {
-        "text": "What evidence supports that reading?",
-        "reading": "ව්හ්ඇට් එව්ඉඩ්එන්ක්එ ස්අප්ප්ඔර්ට්ස් ත්ඇට් ර්එඇඩ්ඉන්ග්?",
-        "meaning": "එම කියවීමට සහාය දෙන සාක්ෂිය කුමක්ද?"
+        "text": "How can we improve coherence?",
+        "reading": "හ්ඔව් ක්ඇන් ව්එ ඉම්ප්ර්ඔව්එ ක්ඔහ්එර්එන්ක්එ?",
+        "meaning": "අර්ථමය එකමුතුව වැඩි කරන්නේ කෙසේද?"
       },
       {
-        "text": "Primarily, the wording and the relationship between the speakers.",
-        "reading": "ප්ර්ඉම්ඇර්ඉල්යි, ත්එ ව්ඔර්ඩ්ඉන්ග් ඇන්ඩ් ත්එ ර්එල්ඇෂන්ෂ්ඉප් බ්එට්ව්එඑන් ත්එ ස්ප්එඇක්එර්ස්.",
-        "meaning": "ප්‍රධාන වශයෙන් වචන තේරීම සහ කථකයන් අතර සම්බන්ධතාවයි."
+        "text": "Signal the register shift and connect each claim to its evidence.",
+        "reading": "ස්ඉග්න්ඇල් ට්හ්එ ර්එග්ඉස්ට්එර් ස්හ්ඉෆ්ට් ඇන්ඩ් ක්ඔන්න්එක්ට් එඇක්හ් ක්ල්ඇඉම් ට්ඔ ඉට්ස් එව්ඉඩ්එන්ක්එ.",
+        "meaning": "භාෂා මට්ටමේ වෙනස සලකුණු කර සෑම ප්‍රකාශයක්ම සාක්ෂි සමඟ සම්බන්ධ කළ යුතුය."
       }
     ],
     "listeningPractice": {
