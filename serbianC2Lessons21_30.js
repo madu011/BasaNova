@@ -1014,7 +1014,7 @@ export const SERBIAN_C2_LESSONS_21_30 = [
       },
       {
         "word": "urednička odluka",
-        "reading": "උරෙද්නිච්කා ඔඩ්лука",
+        "reading": "උරෙද්නිච්කා ඔඩ්ලුකා",
         "meaning": "සංස්කාරක තීරණය",
         "example": "Recenzija treba da razlikuje nalaze od tumačenja.",
         "translation": "සමාලෝචනය සොයාගැනීම් හා අර්ථකථන වෙන් කළ යුතුය."
