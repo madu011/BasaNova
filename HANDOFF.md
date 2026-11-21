@@ -1297,3 +1297,16 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 
 ### Next exact task
 - Repair the repeated dialogue templates in C2 lessons 1–20 with unique topic-specific four-turn dialogues in both languages, preserving lesson IDs and progress keys. Then replace repeated vocabulary-card example sentences with contextual, term-specific examples and matching Sinhala translations/readings. Continue the paired topic-parity review. Do not add duplicate lessons or start builds while the existing account/usage restriction remains unresolved.
+
+
+## 2026-11-21 — C2 lessons 1–20 dialogue and vocabulary-example repair
+
+- Replaced the repeated four-line dialogue template in C2 lessons 1–10 and the second repeated template in lessons 11–20. All 20 lessons now have a topic-specific four-turn dialogue in Serbian and English, with matching Sinhala meanings and Sinhala-script pronunciation guides.
+- Replaced duplicated vocabulary-card example sentences in C2 lessons 1–20 with contextual examples. Each of the 160 vocabulary cards per language now has a unique example sentence within the first 20 lessons, with a Sinhala translation. One final duplicate in lesson 10 was found by the full-track scan and corrected.
+- Source-level checks: Serbian and English each have 20 lessons and 80 dialogue turns; all 80 dialogue lines are unique per language; all 160 example sentences are unique per language; no missing example translations; all dialogue pronunciation fields contain Sinhala script and no Latin/Cyrillic characters; the four dialogue Sinhala meanings match across the paired tracks for all 20 lessons.
+- Added automated QA checks in scripts/content-qa.mjs for C2 lessons 1–20: unique dialogue lines, unique vocabulary examples per lesson, and Sinhala pronunciation presence. Fixed regex escaping in those checks. The script itself has not been executed.
+- Commits: dialogue and example updates — 8411608d2ec18af0ca27f7283ecba52f5fc7a655, c5fb977ad47dd743c00a5db2885cefe789faf011, 4e0778f5b10eb061eee801896bd676a37bb07597, 6e8136e05f22226d0f8143bc3d16c88010e3d880; lesson 10 final duplicate correction — 4f6f0d4a4ed301789415313c03171abcab5b2538, 36179692f8c133da69a9bcc38ad7133b84b418aa; QA checks and regex correction — 92a6780b7d9bf08ba9bfcc626c1626ce99fb1728, 650fb48185b57c7b3c9d6501a7a39d6069da9180.
+- No build, CI, APK, installation, Android device test or Node QA execution was performed. Sinhala pronunciation guides are approximate and need fluent-speaker review.
+
+### Next exact task
+- Continue C2 editorial repair in lessons 21–50: remove repeated vocabulary example sentences within each lesson and replace them with term-specific, topic-contextual examples and accurate Sinhala translations. Then compare paired Serbian/English lesson titles, objectives, vocabulary meanings and assessment coverage for semantic parity. Preserve lesson IDs and progress keys; do not add duplicate lessons or start builds.
