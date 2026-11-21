@@ -464,5 +464,24 @@ validateAssessmentVocabularyAlignment("Serbian C2 final exam", c2.SERBIAN_C2_FIN
 validateAssessmentVocabularyAlignment("English C2 mixed revision", c2.ENGLISH_C2_MIXED_REVISION, courseLessons["English C2"]);
 validateAssessmentVocabularyAlignment("English C2 final exam", c2.ENGLISH_C2_FINAL_EXAM, courseLessons["English C2"]);
 
+function validateC2EditorialContent(label, lessons) {
+  const earlyLessons = lessons.filter(lesson => Number(lesson.id.match(/l(\\d+)$/u)?.[1]) <= 20);
+  assert.equal(earlyLessons.length, 20, `${label}: expected C2 lessons 1–20`);
+  const dialogueLines = earlyLessons.flatMap(lesson => lesson.dialogue.map(line => line.text.trim()));
+  assert.equal(new Set(dialogueLines).size, dialogueLines.length,
+    `${label}: repeated dialogue lines detected in C2 lessons 1–20`);
+  for (const lesson of earlyLessons) {
+    const examples = lesson.vocabulary.map(item => item.example.trim());
+    assert.equal(new Set(examples).size, examples.length,
+      `${label} ${lesson.id}: repeated vocabulary examples detected`);
+    for (const line of lesson.dialogue) {
+      assert.ok(line.reading && /[\\u0D80-\\u0DFF]/u.test(line.reading),
+        `${label} ${lesson.id}: missing Sinhala dialogue pronunciation`);
+    }
+  }
+}
+validateC2EditorialContent("Serbian C2", courseLessons["Serbian C2"]);
+validateC2EditorialContent("English C2", courseLessons["English C2"]);
+
 console.log("Content QA passed.");
 console.log({ checkedAppImports: checkedAppImports.size, serbianLessonStats, englishLessonStats, courseStats, serbianC1Stats, englishC1Stats });
