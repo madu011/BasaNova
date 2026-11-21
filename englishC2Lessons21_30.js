@@ -114,51 +114,51 @@ export const ENGLISH_C2_LESSONS_21_30 = [
       "audio": "The corpus spans several registers and genres. A concordance places each token in context. Frequency alone does not establish significance. Results must be interpreted against the sampling frame.",
       "reading": "ද කෝර්පස් ස්පෑන්ස් සෙවරල් රෙජිස්ටර්ස් ඇන්ඩ් ෂොන්රස්. අ කොන්කෝඩන්ස් ප්ලේසිස් ඊච් ටෝකන් ඉන් කොන්ටෙක්ස්ට්. ෆ්‍රීක්වන්සි අලෝන් ඩස් නොට් එස්ටැබ්ලිෂ් සිග්නිෆිකන්ස්. රිසල්ට්ස් මස්ට් බී ඉන්ටර්ප්‍රිටඩ් අගේන්ස්ට් ද සැම්ප්ලිං ෆ්‍රේම්.",
       "options": [
-        "දත්ත සමුදාය විවිධ භාෂා රෙජිස්ටර් හා ප්‍රභේද ආවරණය කරයි. සන්දර්භ ලැයිස්තුවක් එක් එක් පදය සන්දර්භය තුළ පෙන්වයි.",
         "Context and evidence are irrelevant.",
-        "Only one interpretation is always possible."
+        "Only one interpretation is always possible.",
+        "දත්ත සමුදාය විවිධ භාෂා රෙජිස්ටර් හා ප්‍රභේද ආවරණය කරයි. සන්දර්භ ලැයිස්තුවක් එක් එක් පදය සන්දර්භය තුළ පෙන්වයි."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Which specialist term best describes this lesson's topic?",
         "options": [
-          "corpus",
           "frequency",
-          "annotation"
+          "annotation",
+          "corpus"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "corpus is a key term in this topic."
       },
       {
         "prompt": "Choose a term that complements the central concept.",
         "options": [
-          "collocation",
           "metadata",
+          "collocation",
           "representativeness"
         ],
-        "answer": 1,
+        "answer": 0,
         "explanation": "metadata is an important related concept."
       },
       {
         "prompt": "What matters most when interpreting complex evidence?",
         "options": [
-          "Consider context and limitations",
           "Ignore alternative explanations",
+          "Consider context and limitations",
           "Present an assumption as fact"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Context and limitations prevent overclaiming."
       },
       {
         "prompt": "How should uncertainty be communicated?",
         "options": [
-          "State the degree of certainty precisely",
           "Hide the lack of evidence",
-          "Remove all qualifications"
+          "Remove all qualifications",
+          "State the degree of certainty precisely"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Careful qualification makes an argument more reliable."
       }
     ]
@@ -307,11 +307,11 @@ export const ENGLISH_C2_LESSONS_21_30 = [
       {
         "prompt": "What matters most when interpreting complex evidence?",
         "options": [
-          "Consider context and limitations",
           "Ignore alternative explanations",
-          "Present an assumption as fact"
+          "Present an assumption as fact",
+          "Consider context and limitations"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Context and limitations prevent overclaiming."
       },
       {
@@ -440,31 +440,31 @@ export const ENGLISH_C2_LESSONS_21_30 = [
       "audio": "Intonation can signal reservation without explicit wording. Stress distinguishes information focus. Speech rhythm varies across languages and registers. Phonotactics constrains possible sound sequences.",
       "reading": "ඉන්ටනේෂන් කැන් සිග්නල් රිසර්වේෂන් විදවුට් එක්ස්ප්ලිසිට් වර්ඩිං. ස්ට්‍රෙස් ඩිස්ටිංග්විෂස් ඉන්ෆර්මේෂන් ෆෝකස්. ස්පීච් රිදම් වෙරීස් අක්‍රොස් ලැන්ග්විජස් ඇන්ඩ් රෙජිස්ටර්ස්. ෆොනටැක්ටික්ස් කන්ස්ට්‍රේන්ස් පොසිබල් සවුන්ඩ් සීක්වන්සස්.",
       "options": [
-        "වචන පැහැදිලිව නොකියා ස්වරය සැකය පෙන්විය හැක. උච්චාරණ බලය තොරතුරු අවධානය වෙනස් කරයි.",
         "Context and evidence are irrelevant.",
+        "වචන පැහැදිලිව නොකියා ස්වරය සැකය පෙන්විය හැක. උච්චාරණ බලය තොරතුරු අවධානය වෙනස් කරයි.",
         "Only one interpretation is always possible."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Which specialist term best describes this lesson's topic?",
         "options": [
-          "prosody",
           "quantity",
+          "prosody",
           "phonotactics"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "prosody is a key term in this topic."
       },
       {
         "prompt": "Choose a term that complements the central concept.",
         "options": [
           "stress pattern",
-          "allophone",
-          "rhythmic"
+          "rhythmic",
+          "allophone"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "allophone is an important related concept."
       },
       {
@@ -480,11 +480,11 @@ export const ENGLISH_C2_LESSONS_21_30 = [
       {
         "prompt": "How should uncertainty be communicated?",
         "options": [
-          "State the degree of certainty precisely",
           "Hide the lack of evidence",
+          "State the degree of certainty precisely",
           "Remove all qualifications"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Careful qualification makes an argument more reliable."
       }
     ]
@@ -603,51 +603,51 @@ export const ENGLISH_C2_LESSONS_21_30 = [
       "audio": "A literal rendering loses the cultural allusion. The translator selects a strategy for the audience. A footnote may preserve the historical context. Compensation can recover an effect elsewhere.",
       "reading": "අ ලිටරල් රෙන්ඩරින් ලූසස් ද කල්චරල් අලූෂන්. ද ට්‍රාන්ස්ලේටර් සිලෙක්ට්ස් අ ස්ට්‍රැටජි ෆෝර් දි ඕඩියන්ස්. අ ෆුට්නෝට් මේ ප්‍රිසර්ව් ද හිස්ටොරිකල් කොන්ටෙක්ස්ට්. කොම්පෙන්සේෂන් කැන් රිකවර් ඇන් ඉෆෙක්ට් එල්ස්වෙයර්.",
       "options": [
-        "වචනාර්ථ පරිවර්තනය සංස්කෘතික ඉඟිය අහිමි කරයි. පරිවර්තකයා පාඨකයා අනුව උපාය තෝරයි.",
         "Context and evidence are irrelevant.",
-        "Only one interpretation is always possible."
+        "Only one interpretation is always possible.",
+        "වචනාර්ථ පරිවර්තනය සංස්කෘතික ඉඟිය අහිමි කරයි. පරිවර්තකයා පාඨකයා අනුව උපාය තෝරයි."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Which specialist term best describes this lesson's topic?",
         "options": [
-          "untranslatability",
           "foreignization",
-          "cultural code"
+          "cultural code",
+          "untranslatability"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "untranslatability is a key term in this topic."
       },
       {
         "prompt": "Choose a term that complements the central concept.",
         "options": [
-          "domestication",
           "pragmatic",
+          "domestication",
           "compensation"
         ],
-        "answer": 1,
+        "answer": 0,
         "explanation": "pragmatic is an important related concept."
       },
       {
         "prompt": "What matters most when interpreting complex evidence?",
         "options": [
-          "Consider context and limitations",
           "Ignore alternative explanations",
+          "Consider context and limitations",
           "Present an assumption as fact"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Context and limitations prevent overclaiming."
       },
       {
         "prompt": "How should uncertainty be communicated?",
         "options": [
-          "State the degree of certainty precisely",
           "Hide the lack of evidence",
-          "Remove all qualifications"
+          "Remove all qualifications",
+          "State the degree of certainty precisely"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Careful qualification makes an argument more reliable."
       }
     ]
@@ -796,11 +796,11 @@ export const ENGLISH_C2_LESSONS_21_30 = [
       {
         "prompt": "What matters most when interpreting complex evidence?",
         "options": [
-          "Consider context and limitations",
           "Ignore alternative explanations",
-          "Present an assumption as fact"
+          "Present an assumption as fact",
+          "Consider context and limitations"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Context and limitations prevent overclaiming."
       },
       {
@@ -929,31 +929,31 @@ export const ENGLISH_C2_LESSONS_21_30 = [
       "audio": "On the available evidence, the hypothesis is plausible. Allegedly does not mean that a claim is verified. The conclusion is inferred from indirect evidence. The speaker explicitly qualifies the degree of certainty.",
       "reading": "ඔන් දි අවේලබල් එවිඩන්ස්, ද හයිපොතිසිස් ඉස් ප්ලාසිබල්. අලෙජඩ්ලි ඩස් නොට් මීන් දැට් අ ක්ලේම් ඉස් වෙරිෆයිඩ්. ද කන්ක්ලූෂන් ඉස් ඉන්ෆර්ඩ් ෆ්‍රම් ඉන්ඩිරෙක්ට් එවිඩන්ස්. ද ස්පීකර් එක්ස්ප්ලිසිට්ලි ක්වොලිෆයිස් ද ඩිග්‍රී ඔෆ් සර්ටන්ටි.",
       "options": [
-        "ලබාගත හැකි සාක්ෂි අනුව උපකල්පනය සම්භාව්‍යය. “කියන පරිදි” යන්නෙන් ප්‍රකාශය තහවුරු වූ බව අදහස් නොවේ.",
         "Context and evidence are irrelevant.",
+        "ලබාගත හැකි සාක්ෂි අනුව උපකල්පනය සම්භාව්‍යය. “කියන පරිදි” යන්නෙන් ප්‍රකාශය තහවුරු වූ බව අදහස් නොවේ.",
         "Only one interpretation is always possible."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Which specialist term best describes this lesson's topic?",
         "options": [
-          "evidentiality",
           "assumption",
+          "evidentiality",
           "reliability"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "evidentiality is a key term in this topic."
       },
       {
         "prompt": "Choose a term that complements the central concept.",
         "options": [
           "certainty",
-          "hedging",
-          "inference"
+          "inference",
+          "hedging"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "hedging is an important related concept."
       },
       {
@@ -969,11 +969,11 @@ export const ENGLISH_C2_LESSONS_21_30 = [
       {
         "prompt": "How should uncertainty be communicated?",
         "options": [
-          "State the degree of certainty precisely",
           "Hide the lack of evidence",
+          "State the degree of certainty precisely",
           "Remove all qualifications"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Careful qualification makes an argument more reliable."
       }
     ]
@@ -1092,51 +1092,51 @@ export const ENGLISH_C2_LESSONS_21_30 = [
       "audio": "A review should distinguish findings from interpretation. A methodological limitation does not invalidate every result. The editor requests a clearer rationale for the contribution. The authors addressed every comment.",
       "reading": "අ රිවියු ෂුඩ් ඩිස්ටිංග්විෂ් ෆයින්ඩිංස් ෆ්‍රම් ඉන්ටර්ප්‍රිටේෂන්. අ මෙතඩොලොජිකල් ලිමිටේෂන් ඩස් නොට් ඉන්වැලිඩේට් එව්රි රිසල්ට්. දි එඩිටර් රික්වෙස්ට්ස් අ ක්ලියර් රැෂනල් ෆෝර් ද කොන්ට්‍රිබියුෂන්. දි ඕතර්ස් ඇඩ්‍රෙස්ඩ් එව්රි කමෙන්ට්.",
       "options": [
-        "සමාලෝචනය සොයාගැනීම් හා අර්ථකථන වෙන් කළ යුතුය. ක්‍රමවේද සීමාවක් සියලු ප්‍රතිඵල අහෝසි නොකරයි.",
         "Context and evidence are irrelevant.",
-        "Only one interpretation is always possible."
+        "Only one interpretation is always possible.",
+        "සමාලෝචනය සොයාගැනීම් හා අර්ථකථන වෙන් කළ යුතුය. ක්‍රමවේද සීමාවක් සියලු ප්‍රතිඵල අහෝසි නොකරයි."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Which specialist term best describes this lesson's topic?",
         "options": [
-          "peer review",
           "replication",
-          "manuscript"
+          "manuscript",
+          "peer review"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "peer review is a key term in this topic."
       },
       {
         "prompt": "Choose a term that complements the central concept.",
         "options": [
-          "methodological",
           "revision",
+          "methodological",
           "rationale"
         ],
-        "answer": 1,
+        "answer": 0,
         "explanation": "revision is an important related concept."
       },
       {
         "prompt": "What matters most when interpreting complex evidence?",
         "options": [
-          "Consider context and limitations",
           "Ignore alternative explanations",
+          "Consider context and limitations",
           "Present an assumption as fact"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Context and limitations prevent overclaiming."
       },
       {
         "prompt": "How should uncertainty be communicated?",
         "options": [
-          "State the degree of certainty precisely",
           "Hide the lack of evidence",
-          "Remove all qualifications"
+          "Remove all qualifications",
+          "State the degree of certainty precisely"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Careful qualification makes an argument more reliable."
       }
     ]
@@ -1285,11 +1285,11 @@ export const ENGLISH_C2_LESSONS_21_30 = [
       {
         "prompt": "What matters most when interpreting complex evidence?",
         "options": [
-          "Consider context and limitations",
           "Ignore alternative explanations",
-          "Present an assumption as fact"
+          "Present an assumption as fact",
+          "Consider context and limitations"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Context and limitations prevent overclaiming."
       },
       {
@@ -1418,31 +1418,31 @@ export const ENGLISH_C2_LESSONS_21_30 = [
       "audio": "Satire criticizes an institution through exaggeration. Parody depends on a recognizable pattern. An allusion may disappear in literal translation. A translator may need to replace the joke.",
       "reading": "සැටයර් ක්‍රිටිසයිසස් ඇන් ඉන්ස්ටිටියුෂන් ත්‍රූ ඉග්සැජරේෂන්. පැරඩි ඩිපෙන්ඩ්ස් ඔන් අ රෙකග්නයිසබල් පැටර්න්. ඇන් අලූෂන් මේ ඩිසඅපියර් ඉන් ලිටරල් ට්‍රාන්ස්ලේෂන්. අ ට්‍රාන්ස්ලේටර් මේ නීඩ් ටු රිප්ලේස් ද ජෝක්.",
       "options": [
-        "අතිශයෝක්තියෙන් ආයතනයක් විවේචනය කිරීම උපහාසයයි. අනුකරණ උපහාසය හඳුනාගත හැකි රටාවක් මත රඳා පවතී.",
         "Context and evidence are irrelevant.",
+        "අතිශයෝක්තියෙන් ආයතනයක් විවේචනය කිරීම උපහාසයයි. අනුකරණ උපහාසය හඳුනාගත හැකි රටාවක් මත රඳා පවතී.",
         "Only one interpretation is always possible."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Which specialist term best describes this lesson's topic?",
         "options": [
-          "satire",
           "allusion",
+          "satire",
           "meta-humour"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "satire is a key term in this topic."
       },
       {
         "prompt": "Choose a term that complements the central concept.",
         "options": [
           "ironic distance",
-          "double entendre",
-          "cultural cue"
+          "cultural cue",
+          "double entendre"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "double entendre is an important related concept."
       },
       {
@@ -1458,11 +1458,11 @@ export const ENGLISH_C2_LESSONS_21_30 = [
       {
         "prompt": "How should uncertainty be communicated?",
         "options": [
-          "State the degree of certainty precisely",
           "Hide the lack of evidence",
+          "State the degree of certainty precisely",
           "Remove all qualifications"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Careful qualification makes an argument more reliable."
       }
     ]
@@ -1581,51 +1581,51 @@ export const ENGLISH_C2_LESSONS_21_30 = [
       "audio": "The thesis must be clear and testable. Triangulation strengthens the credibility of findings. Limitations should be stated before the conclusion. A defence responds to the strongest objections.",
       "reading": "ද තීසිස් මස්ට් බී ක්ලියර් ඇන්ඩ් ටෙස්ටබල්. ට්‍රයැංගියුලේෂන් ස්ට්‍රෙන්ග්දන්ස් ද ක්‍රෙඩිබිලිටි ඔෆ් ෆයින්ඩිංස්. ලිමිටේෂන්ස් ෂුඩ් බී ස්ටේටඩ් බිෆෝර් ද කන්ක්ලූෂන්. අ ඩිෆෙන්ස් රිස්පොන්ඩ්ස් ටු ද ස්ට්‍රොන්ගස්ට් ඔබ්ජෙක්ෂන්ස්.",
       "options": [
-        "මූලික තර්කය පැහැදිලි හා පරීක්ෂා කළ හැකි විය යුතුය. බහු මූලාශ්‍ර සසඳා බැලීම සොයාගැනීමේ විශ්වසනීයත්වය වැඩි කරයි.",
         "Context and evidence are irrelevant.",
-        "Only one interpretation is always possible."
+        "Only one interpretation is always possible.",
+        "මූලික තර්කය පැහැදිලි හා පරීක්ෂා කළ හැකි විය යුතුය. බහු මූලාශ්‍ර සසඳා බැලීම සොයාගැනීමේ විශ්වසනීයත්වය වැඩි කරයි."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Which specialist term best describes this lesson's topic?",
         "options": [
-          "thesis",
           "robustness",
-          "defence"
+          "defence",
+          "thesis"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "thesis is a key term in this topic."
       },
       {
         "prompt": "Choose a term that complements the central concept.",
         "options": [
-          "triangulation",
           "contribution",
+          "triangulation",
           "implication"
         ],
-        "answer": 1,
+        "answer": 0,
         "explanation": "contribution is an important related concept."
       },
       {
         "prompt": "What matters most when interpreting complex evidence?",
         "options": [
-          "Consider context and limitations",
           "Ignore alternative explanations",
+          "Consider context and limitations",
           "Present an assumption as fact"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Context and limitations prevent overclaiming."
       },
       {
         "prompt": "How should uncertainty be communicated?",
         "options": [
-          "State the degree of certainty precisely",
           "Hide the lack of evidence",
-          "Remove all qualifications"
+          "Remove all qualifications",
+          "State the degree of certainty precisely"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Careful qualification makes an argument more reliable."
       }
     ]
