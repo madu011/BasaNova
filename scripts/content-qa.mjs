@@ -209,9 +209,11 @@ const pairedLevels = [
   ["English C2", ["englishC2Lessons.js","englishC2Lessons11_20.js","englishC2Lessons21_30.js","englishC2Lessons31_40.js","englishC2Lessons41_50.js"], ["ENGLISH_C2_LESSONS","ENGLISH_C2_LESSONS_11_20","ENGLISH_C2_LESSONS_21_30","ENGLISH_C2_LESSONS_31_40","ENGLISH_C2_LESSONS_41_50"]],
 ];
 const courseStats = {};
+const courseLessons = {};
 for (const [label, files, names] of pairedLevels) {
   const result = await loadPairedTrack(label, files, names);
   courseStats[label] = result.stats;
+  courseLessons[label] = result.lessons;
 }
 for (const level of ["A2", "B1", "B2", "C2"]) {
   const sr = courseStats[`Serbian ${level}`];
@@ -414,11 +416,53 @@ validateAlignedSerbianAssessment("Serbian B2 mixed revision", b2Assessments.SERB
 validateAlignedSerbianAssessment("Serbian B2 final exam", b2Assessments.SERBIAN_B2_FINAL_EXAM, b2SerbianLessons.SERBIAN_B2_LESSONS);
 
 
+function validateBalancedAnswerPositions(label, questions) {
+  const groups = new Map();
+  for (const question of questions) {
+    const count = question.options.length;
+    if (!groups.has(count)) groups.set(count, []);
+    groups.get(count).push(question.answer);
+  }
+  for (const [optionCount, answers] of groups) {
+    const counts = Array(optionCount).fill(0);
+    for (const answer of answers) counts[answer]++;
+    assert.ok(Math.max(...counts) - Math.min(...counts) <= 1,
+      `${label}: answer positions are imbalanced for ${optionCount} options (${counts.join("/")})`);
+  }
+}
+
+function validateAssessmentVocabularyAlignment(label, questions, lessons) {
+  const vocabulary = new Map(lessons.flatMap(lesson =>
+    lesson.vocabulary.map(item => [item.word.toLocaleLowerCase(), item])));
+  for (const question of questions) {
+    if (!question.word) continue;
+    const item = vocabulary.get(question.word.toLocaleLowerCase());
+    assert.ok(item, `${label}: headword is missing from the course: ${question.word}`);
+    assert.equal(question.wordReading, item.reading, `${label}: pronunciation does not match ${question.word}`);
+    assert.equal(question.options[question.answer], item.meaning,
+      `${label}: answer meaning does not match ${question.word}`);
+  }
+}
+
 const c2 = await loadModule(files.c2);
 validateQuestions("Serbian C2 mixed revision", c2.SERBIAN_C2_MIXED_REVISION, 10);
 validateQuestions("English C2 mixed revision", c2.ENGLISH_C2_MIXED_REVISION, 10);
 validateQuestions("Serbian C2 final exam", c2.SERBIAN_C2_FINAL_EXAM, 20, { pronunciation: true });
 validateQuestions("English C2 final exam", c2.ENGLISH_C2_FINAL_EXAM, 20, { pronunciation: true });
+for (const [label, lessons] of [["Serbian C2", courseLessons["Serbian C2"]], ["English C2", courseLessons["English C2"]]]) {
+  validateBalancedAnswerPositions(`${label} lesson practice`, lessons.flatMap(lesson => lesson.practice));
+  validateBalancedAnswerPositions(`${label} lesson listening`, lessons.map(lesson => lesson.listeningPractice));
+}
+for (const [label, questions] of [
+  ["Serbian C2 mixed revision", c2.SERBIAN_C2_MIXED_REVISION],
+  ["English C2 mixed revision", c2.ENGLISH_C2_MIXED_REVISION],
+  ["Serbian C2 final exam", c2.SERBIAN_C2_FINAL_EXAM],
+  ["English C2 final exam", c2.ENGLISH_C2_FINAL_EXAM],
+]) validateBalancedAnswerPositions(label, questions);
+validateAssessmentVocabularyAlignment("Serbian C2 mixed revision", c2.SERBIAN_C2_MIXED_REVISION, courseLessons["Serbian C2"]);
+validateAssessmentVocabularyAlignment("Serbian C2 final exam", c2.SERBIAN_C2_FINAL_EXAM, courseLessons["Serbian C2"]);
+validateAssessmentVocabularyAlignment("English C2 mixed revision", c2.ENGLISH_C2_MIXED_REVISION, courseLessons["English C2"]);
+validateAssessmentVocabularyAlignment("English C2 final exam", c2.ENGLISH_C2_FINAL_EXAM, courseLessons["English C2"]);
 
 console.log("Content QA passed.");
 console.log({ checkedAppImports: checkedAppImports.size, serbianLessonStats, englishLessonStats, courseStats, serbianC1Stats, englishC1Stats });
