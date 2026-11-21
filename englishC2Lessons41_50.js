@@ -114,31 +114,31 @@ export const ENGLISH_C2_LESSONS_41_50 = [
       "audio": "The author distances themself from a conclusion the data do not support. Verb choice reveals the speaker's stance. Distancing can soften a categorical claim. Discourse markers guide the interpretation of an argument.",
       "reading": "දි ඔතර් ඩිස්ටැන්සිස් දෙම්සෙල්ෆ් ෆ්‍රම් අ කන්ක්ලූෂන් ද ඩේටා ඩූ නොට් සපෝර්ට්. වර්බ් චොයිස් රිවීල්ස් ද ස්පීකර්ස් ස්ටෑන්ස්. ඩිස්ටැන්සිං කැන් සොෆන් අ කැටගොරිකල් ක්ලේම්. ඩිස්කෝර්ස් මාකර්ස් ගයිඩ් දි ඉන්ටර්ප්‍රිටේෂන් ඔෆ් ඇන් ආර්ගියුමන්ට්.",
       "options": [
-        "දත්ත තහවුරු නොකරන නිගමනයෙන් කතුවරයා සීමාසහිතව දුරස් වේ. ක්‍රියාපද තේරීම කථකයාගේ ස්ථාවරය හෙළි කරයි.",
         "Context is irrelevant to interpretation.",
+        "දත්ත තහවුරු නොකරන නිගමනයෙන් කතුවරයා සීමාසහිතව දුරස් වේ. ක්‍රියාපද තේරීම කථකයාගේ ස්ථාවරය හෙළි කරයි.",
         "Every claim is absolutely certain."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Which term is central to this lesson's topic?",
         "options": [
-          "positioning",
           "authoritativeness",
+          "positioning",
           "perspectivization"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "positioning is a key concept in this topic."
       },
       {
         "prompt": "Which term is important for understanding this field?",
         "options": [
           "modality",
-          "engagement",
-          "discourse marker"
+          "discourse marker",
+          "engagement"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "engagement is an important related concept."
       },
       {
@@ -154,11 +154,11 @@ export const ENGLISH_C2_LESSONS_41_50 = [
       {
         "prompt": "How should uncertainty be presented?",
         "options": [
-          "State the degree of certainty precisely",
           "Hide the lack of evidence",
+          "State the degree of certainty precisely",
           "Remove every qualification"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Precisely marking uncertainty improves reliability."
       }
     ]
@@ -277,51 +277,51 @@ export const ENGLISH_C2_LESSONS_41_50 = [
       "audio": "Standardization often reflects social power relations. A dialect continuum does not always follow state borders. Stigmatizing speech can restrict social mobility. Language rights include access to education and public services.",
       "reading": "ස්ටැන්ඩර්ඩයිසේෂන් ඔෆන් රිෆ්ලෙක්ට්ස් සෝෂල් පවර් රිලේෂන්ෂිප්ස්. අ ඩයලෙක්ට් කන්ටිනියුවම් ඩස් නොට් ඕල්වේස් ෆොලෝ ස්ටේට් බෝඩර්ස්. ස්ටිග්මටයිසිං ස්පීච් කැන් රිස්ට්‍රික්ට් සෝෂල් මොබිලිටි. ලැන්ග්විජ් රයිට්ස් ඉන්ක්ලූඩ් ඇක්සෙස් ටු එජුකේෂන් ඇන්ඩ් පබ්ලික් සර්විසිස්.",
       "options": [
-        "ප්‍රමිතිකරණය බොහෝවිට සමාජ බල සම්බන්ධතා පිළිබිඹු කරයි. උපභාෂා අඛණ්ඩ පරාසය සැමවිටම රාජ්‍ය සීමා අනුගමනය නොකරයි.",
         "Context is irrelevant to interpretation.",
-        "Every claim is absolutely certain."
+        "Every claim is absolutely certain.",
+        "ප්‍රමිතිකරණය බොහෝවිට සමාජ බල සම්බන්ධතා පිළිබිඹු කරයි. උපභාෂා අඛණ්ඩ පරාසය සැමවිටම රාජ්‍ය සීමා අනුගමනය නොකරයි."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Which term is central to this lesson's topic?",
         "options": [
-          "standardization",
           "prestige",
-          "language planning"
+          "language planning",
+          "standardization"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "standardization is a key concept in this topic."
       },
       {
         "prompt": "Which term is important for understanding this field?",
         "options": [
-          "language ideology",
           "multilingualism",
+          "language ideology",
           "language rights"
         ],
-        "answer": 1,
+        "answer": 0,
         "explanation": "multilingualism is an important related concept."
       },
       {
         "prompt": "Which approach is most reliable?",
         "options": [
-          "Consider context and limitations",
           "Ignore alternative interpretations",
+          "Consider context and limitations",
           "Present an assumption as fact"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Context and limitations help prevent unsupported conclusions."
       },
       {
         "prompt": "How should uncertainty be presented?",
         "options": [
-          "State the degree of certainty precisely",
           "Hide the lack of evidence",
-          "Remove every qualification"
+          "Remove every qualification",
+          "State the degree of certainty precisely"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Precisely marking uncertainty improves reliability."
       }
     ]
@@ -470,11 +470,11 @@ export const ENGLISH_C2_LESSONS_41_50 = [
       {
         "prompt": "Which approach is most reliable?",
         "options": [
-          "Consider context and limitations",
           "Ignore alternative interpretations",
-          "Present an assumption as fact"
+          "Present an assumption as fact",
+          "Consider context and limitations"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Context and limitations help prevent unsupported conclusions."
       },
       {
@@ -603,31 +603,31 @@ export const ENGLISH_C2_LESSONS_41_50 = [
       "audio": "The court considers whether the precedent applies. A restriction must pass the proportionality test. The burden of proof depends on the type of proceedings. A decision must contain clear reasoning.",
       "reading": "ද කෝර්ට් කන්සිඩර්ස් වෙදර් ද ප්‍රෙසඩන්ට් අප්ලයිස්. අ රිස්ට්‍රික්ෂන් මස්ට් පාස් ද ප්‍රපෝර්ෂනැලිටි ටෙස්ට්. ද බර්ඩන් ඔෆ් ප්‍රූෆ් ඩිපෙන්ඩ්ස් ඔන් ද ටයිප් ඔෆ් ප්‍රසීඩිංස්. අ ඩිසිෂන් මස්ට් කන්ටේන් ක්ලියර් රීසනිං.",
       "options": [
-        "පූර්ව තීන්දුව අදාළදැයි අධිකරණය සලකා බලයි. සීමාවක් සමානුපාතිකභාව පරීක්ෂාව සමත් විය යුතුය.",
         "Context is irrelevant to interpretation.",
+        "පූර්ව තීන්දුව අදාළදැයි අධිකරණය සලකා බලයි. සීමාවක් සමානුපාතිකභාව පරීක්ෂාව සමත් විය යුතුය.",
         "Every claim is absolutely certain."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Which term is central to this lesson's topic?",
         "options": [
-          "precedent",
           "burden of proof",
+          "precedent",
           "legal remedy"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "precedent is a key concept in this topic."
       },
       {
         "prompt": "Which term is important for understanding this field?",
         "options": [
           "proportionality",
-          "higher-ranking provision",
-          "reasoned decision"
+          "reasoned decision",
+          "higher-ranking provision"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "higher-ranking provision is an important related concept."
       },
       {
@@ -643,11 +643,11 @@ export const ENGLISH_C2_LESSONS_41_50 = [
       {
         "prompt": "How should uncertainty be presented?",
         "options": [
-          "State the degree of certainty precisely",
           "Hide the lack of evidence",
+          "State the degree of certainty precisely",
           "Remove every qualification"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Precisely marking uncertainty improves reliability."
       }
     ]
@@ -766,51 +766,51 @@ export const ENGLISH_C2_LESSONS_41_50 = [
       "audio": "Cohesion links sentences through visible linguistic devices. Coherence depends on the logical development of ideas. Anaphora refers back to an element mentioned earlier. Thematic progression balances given and new information.",
       "reading": "කොහීෂන් ලින්ක්ස් සෙන්ටන්සිස් ත්‍රූ විසිබල් ලින්ග්විස්ටික් ඩිවයිසිස්. කෝහීරන්ස් ඩිපෙන්ඩ්ස් ඔන් ද ලොජිකල් ඩිවෙලප්මන්ට් ඔෆ් අයිඩියස්. අනෆර රිෆර්ස් බැක් ටු ඇන් එලිමන්ට් මෙන්ෂන්ඩ් අර්ලියර්. තිමැටික් ප්‍රග්‍රෙෂන් බැලන්සිස් ගිවන් ඇන්ඩ් නියු ඉන්ෆොමේෂන්.",
       "options": [
-        "පාඨ සම්බන්ධතාව භාෂාමය ක්‍රමවලින් වාක්‍ය එකට බැඳේ. අර්ථමය අඛණ්ඩතාව අදහස්වල තාර්කික වර්ධනය මත රඳා පවතී.",
         "Context is irrelevant to interpretation.",
-        "Every claim is absolutely certain."
+        "Every claim is absolutely certain.",
+        "පාඨ සම්බන්ධතාව භාෂාමය ක්‍රමවලින් වාක්‍ය එකට බැඳේ. අර්ථමය අඛණ්ඩතාව අදහස්වල තාර්කික වර්ධනය මත රඳා පවතී."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Which term is central to this lesson's topic?",
         "options": [
-          "cohesion",
           "thematic progression",
-          "ellipsis"
+          "ellipsis",
+          "cohesion"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "cohesion is a key concept in this topic."
       },
       {
         "prompt": "Which term is important for understanding this field?",
         "options": [
-          "referential chain",
           "cataphora",
+          "referential chain",
           "conjunction"
         ],
-        "answer": 1,
+        "answer": 0,
         "explanation": "cataphora is an important related concept."
       },
       {
         "prompt": "Which approach is most reliable?",
         "options": [
-          "Consider context and limitations",
           "Ignore alternative interpretations",
+          "Consider context and limitations",
           "Present an assumption as fact"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Context and limitations help prevent unsupported conclusions."
       },
       {
         "prompt": "How should uncertainty be presented?",
         "options": [
-          "State the degree of certainty precisely",
           "Hide the lack of evidence",
-          "Remove every qualification"
+          "Remove every qualification",
+          "State the degree of certainty precisely"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Precisely marking uncertainty improves reliability."
       }
     ]
@@ -959,11 +959,11 @@ export const ENGLISH_C2_LESSONS_41_50 = [
       {
         "prompt": "Which approach is most reliable?",
         "options": [
-          "Consider context and limitations",
           "Ignore alternative interpretations",
-          "Present an assumption as fact"
+          "Present an assumption as fact",
+          "Consider context and limitations"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Context and limitations help prevent unsupported conclusions."
       },
       {
@@ -1092,31 +1092,31 @@ export const ENGLISH_C2_LESSONS_41_50 = [
       "audio": "A crisis statement must separate facts from assumptions clearly. A timely correction can prevent rumours from spreading. Transparency does not mean publishing unverified data. An accountable message states what remains unknown.",
       "reading": "අ ක්‍රයිසිස් ස්ටේට්මන්ට් මස්ට් සෙපරේට් ෆැක්ට්ස් ෆ්‍රම් අසම්ප්ෂන්ස් ක්ලියර්ලි. අ ටයිම්ලි කරෙක්ෂන් කැන් ප්‍රිවෙන්ට් රූමර්ස් ෆ්‍රම් ස්ප්‍රෙඩිං. ට්‍රාන්ස්පැරන්සි ඩස් නොට් මීන් පබ්ලිෂිං අන්වෙරිෆයිඩ් ඩේටා. ඇන් අකවුන්ටබල් මෙසේජ් ස්ටේට්ස් වොට් රිමේන්ස් අන්නෝන්.",
       "options": [
-        "අර්බුද නිවේදනය කරුණු හා උපකල්පන පැහැදිලිව වෙන් කළ යුතුය. කාලෝචිත නිවැරදි කිරීමකට කටකතා පැතිරීම වැළැක්විය හැක.",
         "Context is irrelevant to interpretation.",
+        "අර්බුද නිවේදනය කරුණු හා උපකල්පන පැහැදිලිව වෙන් කළ යුතුය. කාලෝචිත නිවැරදි කිරීමකට කටකතා පැතිරීම වැළැක්විය හැක.",
         "Every claim is absolutely certain."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Which term is central to this lesson's topic?",
         "options": [
-          "crisis statement",
           "rumour",
+          "crisis statement",
           "reputational risk"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "crisis statement is a key concept in this topic."
       },
       {
         "prompt": "Which term is important for understanding this field?",
         "options": [
           "fact-checking",
-          "accountability",
-          "corrective message"
+          "corrective message",
+          "accountability"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "accountability is an important related concept."
       },
       {
@@ -1132,11 +1132,11 @@ export const ENGLISH_C2_LESSONS_41_50 = [
       {
         "prompt": "How should uncertainty be presented?",
         "options": [
-          "State the degree of certainty precisely",
           "Hide the lack of evidence",
+          "State the degree of certainty precisely",
           "Remove every qualification"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Precisely marking uncertainty improves reliability."
       }
     ]
@@ -1255,51 +1255,51 @@ export const ENGLISH_C2_LESSONS_41_50 = [
       "audio": "Literal content does not always capture a speaker's intention. An implicature depends on the speakers' shared knowledge. One utterance can perform several speech acts at once. A conclusion must consider alternative explanations.",
       "reading": "ලිටරල් කන්ටෙන්ට් ඩස් නොට් ඕල්වේස් කැප්චර් අ ස්පීකර්ස් ඉන්ටෙන්ෂන්. ඇන් ඉම්ප්ලිකචර් ඩිපෙන්ඩ්ස් ඔන් ද ස්පීකර්ස් ෂෙයර්ඩ් නාලිජ්. වන් අටරන්ස් කැන් පර්ෆෝර්ම් සෙවරල් ස්පීච් ඇක්ට්ස් ඇට් වන්ස්. අ කන්ක්ලූෂන් මස්ට් කන්සිඩර් අල්ටර්නටිව් එක්ස්ප්ලනේෂන්ස්.",
       "options": [
-        "වචනාර්ථය සැමවිටම කථකයාගේ අරමුණ ඇතුළත් නොකරයි. අඟවන අර්ථය සංවාදකයන්ගේ පොදු දැනුම මත රඳා පවතී.",
         "Context is irrelevant to interpretation.",
-        "Every claim is absolutely certain."
+        "Every claim is absolutely certain.",
+        "වචනාර්ථය සැමවිටම කථකයාගේ අරමුණ ඇතුළත් නොකරයි. අඟවන අර්ථය සංවාදකයන්ගේ පොදු දැනුම මත රඳා පවතී."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Which term is central to this lesson's topic?",
         "options": [
-          "speech act",
           "denial",
-          "testimony"
+          "testimony",
+          "speech act"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "speech act is a key concept in this topic."
       },
       {
         "prompt": "Which term is important for understanding this field?",
         "options": [
-          "presupposition",
           "contextual cue",
+          "presupposition",
           "interpretive caveat"
         ],
-        "answer": 1,
+        "answer": 0,
         "explanation": "contextual cue is an important related concept."
       },
       {
         "prompt": "Which approach is most reliable?",
         "options": [
-          "Consider context and limitations",
           "Ignore alternative interpretations",
+          "Consider context and limitations",
           "Present an assumption as fact"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Context and limitations help prevent unsupported conclusions."
       },
       {
         "prompt": "How should uncertainty be presented?",
         "options": [
-          "State the degree of certainty precisely",
           "Hide the lack of evidence",
-          "Remove every qualification"
+          "Remove every qualification",
+          "State the degree of certainty precisely"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Precisely marking uncertainty improves reliability."
       }
     ]
@@ -1448,11 +1448,11 @@ export const ENGLISH_C2_LESSONS_41_50 = [
       {
         "prompt": "Which approach is most reliable?",
         "options": [
-          "Consider context and limitations",
           "Ignore alternative interpretations",
-          "Present an assumption as fact"
+          "Present an assumption as fact",
+          "Consider context and limitations"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Context and limitations help prevent unsupported conclusions."
       },
       {
@@ -1581,31 +1581,31 @@ export const ENGLISH_C2_LESSONS_41_50 = [
       "audio": "The presentation links the question, method and findings into one whole. Every conclusion must have an adequate evidential basis. A methodological limitation should be stated openly. Self-assessment identifies areas for further development.",
       "reading": "ද ප්‍රෙසන්ටේෂන් ලින්ක්ස් ද ක්වෙස්චන්, මෙතඩ් ඇන්ඩ් ෆයින්ඩිංස් ඉන්ටු වන් හෝල්. එව්රි කන්ක්ලූෂන් මස්ට් හැව් ඇන් ඇඩිකුවට් එවිඩෙන්ෂල් බේසිස්. අ මෙතඩොලොජිකල් ලිමිටේෂන් ෂුඩ් බී ස්ටේටඩ් ඕපන්ලි. සෙල්ෆ් අසෙස්මන්ට් අයිඩෙන්ටිෆයිස් එරියස් ෆෝර් ෆර්දර් ඩිවෙලප්මන්ට්.",
       "options": [
-        "ඉදිරිපත් කිරීම ප්‍රශ්නය, ක්‍රමය හා සොයාගැනීම් එකම සමස්තයකට සම්බන්ධ කරයි. සෑම නිගමනයකටම ගැළපෙන සාක්ෂි පදනමක් තිබිය යුතුය.",
         "Context is irrelevant to interpretation.",
+        "ඉදිරිපත් කිරීම ප්‍රශ්නය, ක්‍රමය හා සොයාගැනීම් එකම සමස්තයකට සම්බන්ධ කරයි. සෑම නිගමනයකටම ගැළපෙන සාක්ෂි පදනමක් තිබිය යුතුය.",
         "Every claim is absolutely certain."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Which term is central to this lesson's topic?",
         "options": [
-          "integrated competence",
           "evidential basis",
+          "integrated competence",
           "concluding synthesis"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "integrated competence is a key concept in this topic."
       },
       {
         "prompt": "Which term is important for understanding this field?",
         "options": [
           "methodological limitation",
-          "qualification of a claim",
-          "self-assessment"
+          "self-assessment",
+          "qualification of a claim"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "qualification of a claim is an important related concept."
       },
       {
@@ -1621,11 +1621,11 @@ export const ENGLISH_C2_LESSONS_41_50 = [
       {
         "prompt": "How should uncertainty be presented?",
         "options": [
-          "State the degree of certainty precisely",
           "Hide the lack of evidence",
+          "State the degree of certainty precisely",
           "Remove every qualification"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Precisely marking uncertainty improves reliability."
       }
     ]
