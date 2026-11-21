@@ -114,51 +114,51 @@ export const SERBIAN_C2_LESSONS_21_30 = [
       "audio": "Korpus obuhvata različite registre i žanrove. Konkordancija prikazuje reč u neposrednom kontekstu. Učestalost sama po sebi ne dokazuje značaj. Rezultate treba tumačiti prema sastavu uzorka.",
       "reading": "කොර්පුස් ඔබුහ්වාතා රාස්ලිචිතේ රෙගිස්ත්‍රේ ඉ ෂානරොවේ. කොන්කොර්දාන්ට්සියා ප්‍රිකාසුයේ රෙච් උ නෙපොස්‍රෙද්නොම් කොන්ටෙක්ස්තු. උචෙස්තාලොස්ට් සාමා පො සෙබි නේ දොකසුයේ ස්නාචායි. රෙසුල්තාතේ ත්‍රෙබා තුමාචිති ප්‍රෙමා සාස්තාවු උසොර්කා.",
       "options": [
-        "භාෂා දත්ත සමුදාය විවිධ භාෂා රෙජිස්ටර් හා ප්‍රභේද ආවරණය කරයි. සන්දර්භ ලැයිස්තුවක් වචනය ආසන්න සන්දර්භය තුළ පෙන්වයි.",
         "Kontekst i dokazi nisu važni.",
-        "Jedno tumačenje je uvek jedino moguće."
+        "Jedno tumačenje je uvek jedino moguće.",
+        "භාෂා දත්ත සමුදාය විවිධ භාෂා රෙජිස්ටර් හා ප්‍රභේද ආවරණය කරයි. සන්දර්භ ලැයිස්තුවක් වචනය ආසන්න සන්දර්භය තුළ පෙන්වයි."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Koji stručni izraz najbolje opisuje temu ove lekcije?",
         "options": [
-          "korpus",
           "frekvencija",
-          "anotacija"
+          "anotacija",
+          "korpus"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "korpus je ključni izraz ove teme."
       },
       {
         "prompt": "Izaberite pojam koji dopunjuje glavni izraz.",
         "options": [
-          "kolokacija",
           "metapodaci",
+          "kolokacija",
           "reprezentativnost"
         ],
-        "answer": 1,
+        "answer": 0,
         "explanation": "metapodaci je važan povezani pojam."
       },
       {
         "prompt": "Šta je najvažnije pri tumačenju složenih podataka?",
         "options": [
-          "Razmotriti kontekst i ograničenja",
           "Zanemariti alternativna objašnjenja",
+          "Razmotriti kontekst i ograničenja",
           "Pretpostavku predstaviti kao činjenicu"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Kontekst i ograničenja sprečavaju preterane zaključke."
       },
       {
         "prompt": "Kako treba predstaviti neizvesnost?",
         "options": [
-          "Precizno navesti stepen sigurnosti",
           "Sakriti nedostatak dokaza",
-          "Ukloniti sve ograde"
+          "Ukloniti sve ograde",
+          "Precizno navesti stepen sigurnosti"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Precizno ograđivanje povećava pouzdanost argumenta."
       }
     ]
@@ -307,11 +307,11 @@ export const SERBIAN_C2_LESSONS_21_30 = [
       {
         "prompt": "Šta je najvažnije pri tumačenju složenih podataka?",
         "options": [
-          "Razmotriti kontekst i ograničenja",
           "Zanemariti alternativna objašnjenja",
-          "Pretpostavku predstaviti kao činjenicu"
+          "Pretpostavku predstaviti kao činjenicu",
+          "Razmotriti kontekst i ograničenja"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Kontekst i ograničenja sprečavaju preterane zaključke."
       },
       {
@@ -440,31 +440,31 @@ export const SERBIAN_C2_LESSONS_21_30 = [
       "audio": "Intonacija može signalizirati rezervu bez eksplicitnih reči. Akcenat razlikuje informacijski fokus. Govorni ritam zavisi od jezika i registra. Fonotaktika ograničava moguće glasovne nizove.",
       "reading": "ඉන්ටොනාට්සියා මොෂෙ සිග්නාලිසිරාති රෙසර්වු බෙස් එක්ස්ප්ලිට්සිත්නිහ් රෙචි. අක්චෙනාත් රාස්ලිкуයේ ඉන්ෆොර්මාට්සිඔනි ෆොකුස්. ගොවොර්නි රිත්ම් සාවිසි ඔද් යෙසිකා ඉ රෙගිස්ත්‍රා. ෆොනොතාක්තිකා ඔග්‍රානිචාවා මොගුචේ ග්ලාසොව්නේ නිසොවේ.",
       "options": [
-        "වචන පැහැදිලිව නොකියා ස්වරය සැකය පෙන්විය හැක. උච්චාරණ බලය තොරතුරු අවධානය වෙනස් කරයි.",
         "Kontekst i dokazi nisu važni.",
+        "වචන පැහැදිලිව නොකියා ස්වරය සැකය පෙන්විය හැක. උච්චාරණ බලය තොරතුරු අවධානය වෙනස් කරයි.",
         "Jedno tumačenje je uvek jedino moguće."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Koji stručni izraz najbolje opisuje temu ove lekcije?",
         "options": [
-          "prozodija",
           "kvantitet",
+          "prozodija",
           "fonotaktika"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "prozodija je ključni izraz ove teme."
       },
       {
         "prompt": "Izaberite pojam koji dopunjuje glavni izraz.",
         "options": [
           "akcenatski",
-          "alofon",
-          "ritmički"
+          "ritmički",
+          "alofon"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "alofon je važan povezani pojam."
       },
       {
@@ -480,11 +480,11 @@ export const SERBIAN_C2_LESSONS_21_30 = [
       {
         "prompt": "Kako treba predstaviti neizvesnost?",
         "options": [
-          "Precizno navesti stepen sigurnosti",
           "Sakriti nedostatak dokaza",
+          "Precizno navesti stepen sigurnosti",
           "Ukloniti sve ograde"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Precizno ograđivanje povećava pouzdanost argumenta."
       }
     ]
@@ -603,51 +603,51 @@ export const SERBIAN_C2_LESSONS_21_30 = [
       "audio": "Doslovan prevod gubi kulturnu aluziju. Prevodilac bira strategiju prema publici. Fusnota može sačuvati istorijski kontekst. Kompenzacija nadoknađuje izgubljeni efekat.",
       "reading": "දොස්ලොවාන් ප්‍රෙවොද් ගුබි කුල්තුර්නු අලුසියු. ප්‍රෙවොදිලාත්ස් බිරා ස්ත්‍රාතෙගියු ප්‍රෙමා පුබ්ලිට්සි. ෆුස්නොතා මොෂෙ සාචුවාති ඉස්තොරිස්කි කොන්ටෙක්ස්ත්. කොම්පෙන්සාට්සියා නාදොක්නාජුයේ ඉස්ගුබ්ලෙනි එෆෙක්තාත්.",
       "options": [
-        "වචනාර්ථ පරිවර්තනය සංස්කෘතික ඉඟිය අහිමි කරයි. පරිවර්තකයා පාඨකයා අනුව උපාය තෝරයි.",
         "Kontekst i dokazi nisu važni.",
-        "Jedno tumačenje je uvek jedino moguće."
+        "Jedno tumačenje je uvek jedino moguće.",
+        "වචනාර්ථ පරිවර්තනය සංස්කෘතික ඉඟිය අහිමි කරයි. පරිවර්තකයා පාඨකයා අනුව උපාය තෝරයි."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Koji stručni izraz najbolje opisuje temu ove lekcije?",
         "options": [
-          "neprevodivost",
           "otuđenje",
-          "kulturni kod"
+          "kulturni kod",
+          "neprevodivost"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "neprevodivost je ključni izraz ove teme."
       },
       {
         "prompt": "Izaberite pojam koji dopunjuje glavni izraz.",
         "options": [
-          "domestikacija",
           "pragmatički",
+          "domestikacija",
           "kompenzacija"
         ],
-        "answer": 1,
+        "answer": 0,
         "explanation": "pragmatički je važan povezani pojam."
       },
       {
         "prompt": "Šta je najvažnije pri tumačenju složenih podataka?",
         "options": [
-          "Razmotriti kontekst i ograničenja",
           "Zanemariti alternativna objašnjenja",
+          "Razmotriti kontekst i ograničenja",
           "Pretpostavku predstaviti kao činjenicu"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Kontekst i ograničenja sprečavaju preterane zaključke."
       },
       {
         "prompt": "Kako treba predstaviti neizvesnost?",
         "options": [
-          "Precizno navesti stepen sigurnosti",
           "Sakriti nedostatak dokaza",
-          "Ukloniti sve ograde"
+          "Ukloniti sve ograde",
+          "Precizno navesti stepen sigurnosti"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Precizno ograđivanje povećava pouzdanost argumenta."
       }
     ]
@@ -796,11 +796,11 @@ export const SERBIAN_C2_LESSONS_21_30 = [
       {
         "prompt": "Šta je najvažnije pri tumačenju složenih podataka?",
         "options": [
-          "Razmotriti kontekst i ograničenja",
           "Zanemariti alternativna objašnjenja",
-          "Pretpostavku predstaviti kao činjenicu"
+          "Pretpostavku predstaviti kao činjenicu",
+          "Razmotriti kontekst i ograničenja"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Kontekst i ograničenja sprečavaju preterane zaključke."
       },
       {
@@ -929,31 +929,31 @@ export const SERBIAN_C2_LESSONS_21_30 = [
       "audio": "Prema dostupnim podacima, hipoteza je verovatna. Navodno ne znači da je tvrdnja potvrđena. Zaključak je izveden iz posrednih dokaza. Govornik jasno ograničava stepen sigurnosti.",
       "reading": "ප්‍රෙමා දොස්තුප්නිම් පොදට්සිමා, හිපොතෙසා යේ වෙරොවත්නා. නාවොද්නො නේ ස්නාචි දා යේ ත්ව්ර්ද්න්යා පොත්ව්ර්ජෙනා. සාක්ල්යුචාක් යේ ඉස්වෙදෙන් ඉස් පොස්‍රෙදනිහ් දොකාසා. ගොව්වොර්නික් යාස්නො ඔග්‍රානිචාවා ස්තෙපෙන් සිගුර්නොස්ති.",
       "options": [
-        "ලබාගත හැකි දත්ත අනුව උපකල්පනය සම්භාව්‍යය. “කියන පරිදි” යන්නෙන් ප්‍රකාශය තහවුරු වූ බව අදහස් නොවේ.",
         "Kontekst i dokazi nisu važni.",
+        "ලබාගත හැකි දත්ත අනුව උපකල්පනය සම්භාව්‍යය. “කියන පරිදි” යන්නෙන් ප්‍රකාශය තහවුරු වූ බව අදහස් නොවේ.",
         "Jedno tumačenje je uvek jedino moguće."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Koji stručni izraz najbolje opisuje temu ove lekcije?",
         "options": [
-          "evidencijalnost",
           "pretpostavka",
+          "evidencijalnost",
           "pouzdanost"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "evidencijalnost je ključni izraz ove teme."
       },
       {
         "prompt": "Izaberite pojam koji dopunjuje glavni izraz.",
         "options": [
           "izvesnost",
-          "ograđivanje",
-          "inferencija"
+          "inferencija",
+          "ograđivanje"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "ograđivanje je važan povezani pojam."
       },
       {
@@ -969,11 +969,11 @@ export const SERBIAN_C2_LESSONS_21_30 = [
       {
         "prompt": "Kako treba predstaviti neizvesnost?",
         "options": [
-          "Precizno navesti stepen sigurnosti",
           "Sakriti nedostatak dokaza",
+          "Precizno navesti stepen sigurnosti",
           "Ukloniti sve ograde"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Precizno ograđivanje povećava pouzdanost argumenta."
       }
     ]
@@ -1092,51 +1092,51 @@ export const SERBIAN_C2_LESSONS_21_30 = [
       "audio": "Recenzija treba da razlikuje nalaze od tumačenja. Metodološko ograničenje ne poništava svaki rezultat. Urednik traži jasnije obrazloženje doprinosa. Autori su odgovorili na svaku primedbu.",
       "reading": "රෙට්සෙන්සියා ත්‍රෙබා දා රාස්ලිකුයේ නාලාසේ ඔද් තුමාචෙන්යා. මෙතොදොලොෂ්කො ඔග්‍රානිචෙන්යේ නේ පොනිෂ්තාවා ස්වාකි රෙසුල්තාත්. උරෙද්නික් ත්‍රාෂි යාස්නියේ ඔබ්‍රාස්ලොෂෙන්යේ දොප්‍රිනොසා. අවුතොරි සු ඔද්ගොවොරිලි නා ස්වාකු ප්‍රිමෙද්බු.",
       "options": [
-        "සමාලෝචනය සොයාගැනීම් හා අර්ථකථන වෙන් කළ යුතුය. ක්‍රමවේද සීමාවක් සියලු ප්‍රතිඵල අහෝසි නොකරයි.",
         "Kontekst i dokazi nisu važni.",
-        "Jedno tumačenje je uvek jedino moguće."
+        "Jedno tumačenje je uvek jedino moguće.",
+        "සමාලෝචනය සොයාගැනීම් හා අර්ථකථන වෙන් කළ යුතුය. ක්‍රමවේද සීමාවක් සියලු ප්‍රතිඵල අහෝසි නොකරයි."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Koji stručni izraz najbolje opisuje temu ove lekcije?",
         "options": [
-          "recenzija",
           "replikacija",
-          "manuskript"
+          "manuskript",
+          "recenzija"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "recenzija je ključni izraz ove teme."
       },
       {
         "prompt": "Izaberite pojam koji dopunjuje glavni izraz.",
         "options": [
-          "metodološki",
           "revizija",
+          "metodološki",
           "obrazloženje"
         ],
-        "answer": 1,
+        "answer": 0,
         "explanation": "revizija je važan povezani pojam."
       },
       {
         "prompt": "Šta je najvažnije pri tumačenju složenih podataka?",
         "options": [
-          "Razmotriti kontekst i ograničenja",
           "Zanemariti alternativna objašnjenja",
+          "Razmotriti kontekst i ograničenja",
           "Pretpostavku predstaviti kao činjenicu"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Kontekst i ograničenja sprečavaju preterane zaključke."
       },
       {
         "prompt": "Kako treba predstaviti neizvesnost?",
         "options": [
-          "Precizno navesti stepen sigurnosti",
           "Sakriti nedostatak dokaza",
-          "Ukloniti sve ograde"
+          "Ukloniti sve ograde",
+          "Precizno navesti stepen sigurnosti"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Precizno ograđivanje povećava pouzdanost argumenta."
       }
     ]
@@ -1285,11 +1285,11 @@ export const SERBIAN_C2_LESSONS_21_30 = [
       {
         "prompt": "Šta je najvažnije pri tumačenju složenih podataka?",
         "options": [
-          "Razmotriti kontekst i ograničenja",
           "Zanemariti alternativna objašnjenja",
-          "Pretpostavku predstaviti kao činjenicu"
+          "Pretpostavku predstaviti kao činjenicu",
+          "Razmotriti kontekst i ograničenja"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Kontekst i ograničenja sprečavaju preterane zaključke."
       },
       {
@@ -1418,31 +1418,31 @@ export const SERBIAN_C2_LESSONS_21_30 = [
       "audio": "Satira kritikuje instituciju kroz preuveličavanje. Parodija zavisi od prepoznatljivog obrasca. Aluzija može nestati u doslovnom prevodu. Prevodilac ponekad mora promeniti šalu.",
       "reading": "සාතිරා ක්‍රිතිкуයේ ඉන්ස්තිතුට්සියු ක්‍රොස් ප්‍රෙඋවෙලිචාවාන්යේ. පාරොදියා සාවිසි ඔද් ප්‍රෙපොස්නාත්ලිවොග් ඔබ්‍රාස්ට්සා. අලුසියා මොෂෙ නෙස්තාති උ දොස්ලොව්නොම් ප්‍රෙවොදු. ප්‍රෙවොදිලාත්ස් පොනෙකාද් මොරා ප්‍රොමෙනිති ෂාලු.",
       "options": [
-        "අතිශයෝක්තියෙන් ආයතනයක් විවේචනය කිරීම උපහාසයයි. අනුකරණ උපහාසය හඳුනාගත හැකි රටාවක් මත රඳා පවතී.",
         "Kontekst i dokazi nisu važni.",
+        "අතිශයෝක්තියෙන් ආයතනයක් විවේචනය කිරීම උපහාසයයි. අනුකරණ උපහාසය හඳුනාගත හැකි රටාවක් මත රඳා පවතී.",
         "Jedno tumačenje je uvek jedino moguće."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Koji stručni izraz najbolje opisuje temu ove lekcije?",
         "options": [
-          "satira",
           "aluzija",
+          "satira",
           "meta-humor"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "satira je ključni izraz ove teme."
       },
       {
         "prompt": "Izaberite pojam koji dopunjuje glavni izraz.",
         "options": [
           "ironijski odmak",
-          "dvosmislica",
-          "kulturni predznak"
+          "kulturni predznak",
+          "dvosmislica"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "dvosmislica je važan povezani pojam."
       },
       {
@@ -1458,11 +1458,11 @@ export const SERBIAN_C2_LESSONS_21_30 = [
       {
         "prompt": "Kako treba predstaviti neizvesnost?",
         "options": [
-          "Precizno navesti stepen sigurnosti",
           "Sakriti nedostatak dokaza",
+          "Precizno navesti stepen sigurnosti",
           "Ukloniti sve ograde"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Precizno ograđivanje povećava pouzdanost argumenta."
       }
     ]
@@ -1581,51 +1581,51 @@ export const SERBIAN_C2_LESSONS_21_30 = [
       "audio": "Teza mora biti jasna i proverljiva. Triangulacija povećava uverljivost nalaza. Ograničenja treba navesti pre zaključka. Odbrana odgovara na najjače prigovore.",
       "reading": "තේසා මොරා бити යාස්නා ඉ ප්‍රොවෙර්ලිවා. ත්‍රියාංගුලාට්සියා පොවෙචාවා උවෙර්ලිවොස්ත් නාලාසා. ඔග්‍රානිචෙන්යා ත්‍රෙබා නාවෙස්ති ප්‍රෙ සාක්ල්යුච්කා. ඔද්බ්‍රානා ඔද්ගොවාරා නා නායියාචේ ප්‍රිගොවොරේ.",
       "options": [
-        "මූලික තර්කය පැහැදිලි හා පරීක්ෂා කළ හැකි විය යුතුය. බහු මූලාශ්‍ර සසඳා බැලීම සොයාගැනීමේ විශ්වසනීයත්වය වැඩි කරයි.",
         "Kontekst i dokazi nisu važni.",
-        "Jedno tumačenje je uvek jedino moguće."
+        "Jedno tumačenje je uvek jedino moguće.",
+        "මූලික තර්කය පැහැදිලි හා පරීක්ෂා කළ හැකි විය යුතුය. බහු මූලාශ්‍ර සසඳා බැලීම සොයාගැනීමේ විශ්වසනීයත්වය වැඩි කරයි."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Koji stručni izraz najbolje opisuje temu ove lekcije?",
         "options": [
-          "teza",
           "robustnost",
-          "odbrana"
+          "odbrana",
+          "teza"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "teza je ključni izraz ove teme."
       },
       {
         "prompt": "Izaberite pojam koji dopunjuje glavni izraz.",
         "options": [
-          "triangulacija",
           "doprinos",
+          "triangulacija",
           "implikacija"
         ],
-        "answer": 1,
+        "answer": 0,
         "explanation": "doprinos je važan povezani pojam."
       },
       {
         "prompt": "Šta je najvažnije pri tumačenju složenih podataka?",
         "options": [
-          "Razmotriti kontekst i ograničenja",
           "Zanemariti alternativna objašnjenja",
+          "Razmotriti kontekst i ograničenja",
           "Pretpostavku predstaviti kao činjenicu"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Kontekst i ograničenja sprečavaju preterane zaključke."
       },
       {
         "prompt": "Kako treba predstaviti neizvesnost?",
         "options": [
-          "Precizno navesti stepen sigurnosti",
           "Sakriti nedostatak dokaza",
-          "Ukloniti sve ograde"
+          "Ukloniti sve ograde",
+          "Precizno navesti stepen sigurnosti"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Precizno ograđivanje povećava pouzdanost argumenta."
       }
     ]
