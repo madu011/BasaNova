@@ -90,7 +90,7 @@ export const SERBIAN_C2_LESSONS_41_50 = [
     "dialogue": [
       {
         "text": "Da li autor podržava ovu tvrdnju?",
-        "reading": "ඩා ලි අඋතොර් පොද්ර්ෂාවා ඔву ත්ව්ර්ද්න්යු?",
+        "reading": "ඩා ලි අඋතොර් පොද්ර්ෂාවා ඔව්උ ත්ව්ර්ද්න්යු?",
         "meaning": "කතුවරයා මෙම ප්‍රකාශයට සහාය දක්වනවාද?"
       },
       {
@@ -246,14 +246,14 @@ export const SERBIAN_C2_LESSONS_41_50 = [
       },
       {
         "text": "Jezička prava obuhvataju pristup obrazovanju i javnim uslugama.",
-        "reading": "යෙසич්කා ප්‍රාවා ඔබුහ්වාතායු ප්‍රිස්තුප් ඔබ්‍රාසොවාන්යු ඉ යාව්නිම් උස්ලුගාමා.",
+        "reading": "යෙසඉච්්කා ප්‍රාවා ඔබුහ්වාතායු ප්‍රිස්තුප් ඔබ්‍රාසොවාන්යු ඉ යාව්නිම් උස්ලුගාමා.",
         "meaning": "භාෂා අයිතිවාසිකම් අධ්‍යාපනයට හා රාජ්‍ය සේවාවලට ප්‍රවේශය ඇතුළත් කරයි."
       }
     ],
     "dialogue": [
       {
         "text": "Da li standardni jezik ima prednost uvek?",
-        "reading": "ඩා ලි ස්තන්දර්ද්නි යෙසик ඉමා ප්‍රෙද්නොස්ත් උවෙක්?",
+        "reading": "ඩා ලි ස්තන්දර්ද්නි යෙසඉක් ඉමා ප්‍රෙද්නොස්ත් උවෙක්?",
         "meaning": "සම්මත භාෂාවට සැමවිටම ප්‍රමුඛතාව තිබෙනවාද?"
       },
       {
@@ -275,7 +275,7 @@ export const SERBIAN_C2_LESSONS_41_50 = [
     "listeningPractice": {
       "prompt": "Slušajte iskaz i izaberite najpreciznije tumačenje.",
       "audio": "Standardizacija često odražava društvene odnose moći. Dijalekatski kontinuum ne prati uvek državne granice. Stigmatizacija govora može ograničiti društvenu mobilnost. Jezička prava obuhvataju pristup obrazovanju i javnim uslugama.",
-      "reading": "ස්තන්දර්දිසාට්සියා චෙස්තො ඔද්‍රාෂාවා දෘෂ්ත්වෙනේ ඔද්නොසේ මොචි. දියාලෙකාත්ස්කි කොන්තිනුඋම් නේ ප්‍රාති උවෙක් දර්ෂ්තව්නේ ග්‍රානිට්සේ. ස්තිග්මාතිසාට්සියා ගොවොරා මොෂෙ ඔග්‍රානිචිති දෘෂ්ත්වෙනු මොබිල්නොස්ත්. යෙසич්කා ප්‍රාවා ඔබුහ්වාතායු ප්‍රිස්තුප් ඔබ්‍රාසොවාන්යු ඉ යාව්නිම් උස්ලුගාමා.",
+      "reading": "ස්තන්දර්දිසාට්සියා චෙස්තො ඔද්‍රාෂාවා දෘෂ්ත්වෙනේ ඔද්නොසේ මොචි. දියාලෙකාත්ස්කි කොන්තිනුඋම් නේ ප්‍රාති උවෙක් දර්ෂ්තව්නේ ග්‍රානිට්සේ. ස්තිග්මාතිසාට්සියා ගොවොරා මොෂෙ ඔග්‍රානිචිති දෘෂ්ත්වෙනු මොබිල්නොස්ත්. යෙසඉච්්කා ප්‍රාවා ඔබුහ්වාතායු ප්‍රිස්තුප් ඔබ්‍රාසොවාන්යු ඉ යාව්නිම් උස්ලුගාමා.",
       "options": [
         "Kontekst nije važan za tumačenje.",
         "Svaka tvrdnja je apsolutno sigurna.",
@@ -394,7 +394,7 @@ export const SERBIAN_C2_LESSONS_41_50 = [
     "examples": [
       {
         "text": "Hipoteza mora biti izložena mogućnosti opovrgavanja.",
-        "reading": "හිපොතෙසා මොරා бити ඉස්ලොෂෙනා මොගුච්නොස්ති ඔපොව්ර්ගාවාන්යා.",
+        "reading": "හිපොතෙසා මොරා බිති ඉස්ලොෂෙනා මොගුච්නොස්ති ඔපොව්ර්ගාවාන්යා.",
         "meaning": "උපකල්පනය වැරදි බව පෙන්විය හැකි පරීක්ෂාවකට විවෘත විය යුතුය."
       },
       {
@@ -431,14 +431,14 @@ export const SERBIAN_C2_LESSONS_41_50 = [
       },
       {
         "text": "Jasnim postupkom koji može biti ponovljen.",
-        "reading": "යාස්නිම් පොස්තුප්කොම් කොයි මොෂෙ бити පොනොව්ල්යෙන්.",
+        "reading": "යාස්නිම් පොස්තුප්කොම් කොයි මොෂෙ බිති පොනොව්ල්යෙන්.",
         "meaning": "නැවත සිදු කළ හැකි පැහැදිලි ක්‍රියාපටිපාටියකින්."
       }
     ],
     "listeningPractice": {
       "prompt": "Slušajte iskaz i izaberite najpreciznije tumačenje.",
       "audio": "Hipoteza mora biti izložena mogućnosti opovrgavanja. Korelacija sama po sebi ne dokazuje uzročnost. Replikacija proverava stabilnost nalaza. Svaki model ima epistemičke granice.",
-      "reading": "හිපොතෙසා මොරා бити ඉස්ලොෂෙනා මොගුච්නොස්ති ඔපොව්ර්ගාවාන්යා. කොරෙලාට්සියා සාමා පො සෙබි නේ දොකාසුයේ උස්රොච්නොස්ත්. රෙප්ලිකාට්සියා ප්‍රොවෙරාවා ස්තාබිල්නොස්ත් නාලාසා. ස්වාකි මොදෙල් ඉමා එපිස්තෙමිච්කේ ග්‍රානිට්සේ.",
+      "reading": "හිපොතෙසා මොරා බිති ඉස්ලොෂෙනා මොගුච්නොස්ති ඔපොව්ර්ගාවාන්යා. කොරෙලාට්සියා සාමා පො සෙබි නේ දොකාසුයේ උස්රොච්නොස්ත්. රෙප්ලිකාට්සියා ප්‍රොවෙරාවා ස්තාබිල්නොස්ත් නාලාසා. ස්වාකි මොදෙල් ඉමා එපිස්තෙමිච්කේ ග්‍රානිට්සේ.",
       "options": [
         "උපකල්පනය වැරදි බව පෙන්විය හැකි පරීක්ෂාවකට විවෘත විය යුතුය. සහසම්බන්ධතාව පමණක් හේතුකත්වය සනාථ නොකරයි.",
         "Kontekst nije važan za tumačenje.",
@@ -720,7 +720,7 @@ export const SERBIAN_C2_LESSONS_41_50 = [
     "examples": [
       {
         "text": "Kohezija povezuje rečenice vidljivim jezičkim sredstvima.",
-        "reading": "කොහෙසියා පොවෙසුයේ රෙචෙනිට්සේ විදිල්යවිම් යෙසич්කිම් ස්‍රෙද්ස්ත්විමා.",
+        "reading": "කොහෙසියා පොවෙසුයේ රෙචෙනිට්සේ විදිල්යවිම් යෙසඉච්්කිම් ස්‍රෙද්ස්ත්විමා.",
         "meaning": "පාඨ සම්බන්ධතාව භාෂාමය ක්‍රමවලින් වාක්‍ය එකට බැඳේ."
       },
       {
@@ -764,7 +764,7 @@ export const SERBIAN_C2_LESSONS_41_50 = [
     "listeningPractice": {
       "prompt": "Slušajte iskaz i izaberite najpreciznije tumačenje.",
       "audio": "Kohezija povezuje rečenice vidljivim jezičkim sredstvima. Koherencija zavisi od logičkog razvoja ideja. Anafora upućuje na prethodno pomenuti element. Tematski progres održava ravnotežu između poznatog i novog.",
-      "reading": "කොහෙසියා පොවෙසුයේ රෙචෙනිට්සේ විදිල්යවිම් යෙසич්කිම් ස්‍රෙද්ස්ත්විමා. කොහෙරෙන්ට්සියා සාවිසි ඔද් ලොගිච්කොග් රාස්වොයා ඉදෙයා. අනාෆොරා උපුචුයේ නා ප්‍රෙත්හොද්නො පොමෙනුති එලෙමෙන්ත්. තෙමාත්ස්කි ප්‍රොග්‍රෙස් ඔද්ර්ෂාවා රාව්නොතෙෂු ඉස්මෙජු පොස්නාතොග් ඉ නොවොග්.",
+      "reading": "කොහෙසියා පොවෙසුයේ රෙචෙනිට්සේ විදිල්යවිම් යෙසඉච්්කිම් ස්‍රෙද්ස්ත්විමා. කොහෙරෙන්ට්සියා සාවිසි ඔද් ලොගිච්කොග් රාස්වොයා ඉදෙයා. අනාෆොරා උපුචුයේ නා ප්‍රෙත්හොද්නො පොමෙනුති එලෙමෙන්ත්. තෙමාත්ස්කි ප්‍රොග්‍රෙස් ඔද්ර්ෂාවා රාව්නොතෙෂු ඉස්මෙජු පොස්නාතොග් ඉ නොවොග්.",
       "options": [
         "Kontekst nije važan za tumačenje.",
         "Svaka tvrdnja je apsolutno sigurna.",
@@ -888,7 +888,7 @@ export const SERBIAN_C2_LESSONS_41_50 = [
       },
       {
         "text": "Vidljivost prevodioca zavisi od žanra i izdavačke prakse.",
-        "reading": "විදිල්යивොස්ත් ප්‍රෙවොඩියොට්සා සාවිසි ඔද් ෂාන්රා ඉ ඉස්දාවාච්කේ ප්‍රාක්සේ.",
+        "reading": "විදිල්යඉව්ොස්ත් ප්‍රෙවොඩියොට්සා සාවිසි ඔද් ෂාන්රා ඉ ඉස්දාවාච්කේ ප්‍රාක්සේ.",
         "meaning": "පරිවර්තකයාගේ දෘශ්‍යමානභාවය ප්‍රභේදය හා ප්‍රකාශන ක්‍රමය මත රඳා පවතී."
       },
       {
@@ -920,14 +920,14 @@ export const SERBIAN_C2_LESSONS_41_50 = [
       },
       {
         "text": "Objašnjenjem, prilagođavanjem ili pažljivom napomenom.",
-        "reading": "ඔබ්යෂ්න්යෙන්, ප්‍රිලාගොජාවාන්යෙම් ඉලි පාෂ්ල්යивොම් නාපොමෙනොම්.",
+        "reading": "ඔබ්යෂ්න්යෙන්, ප්‍රිලාගොජාවාන්යෙම් ඉලි පාෂ්ල්යඉව්ොම් නාපොමෙනොම්.",
         "meaning": "පැහැදිලි කිරීමෙන්, අනුවර්තනයෙන් හෝ සැලකිලිමත් සටහනකින්."
       }
     ],
     "listeningPractice": {
       "prompt": "Slušajte iskaz i izaberite najpreciznije tumačenje.",
       "audio": "Prevodilačka odluka može promeniti ton izvornika. Vidljivost prevodioca zavisi od žanra i izdavačke prakse. Kulturno posredovanje zahteva poznavanje obe sredine. Napomena prevodioca može objasniti neprevodivost.",
-      "reading": "ප්‍රෙවොදිලාච්කා ඔද්ලුකා මොෂෙ ප්‍රොමෙනිති තොන් ඉස්වොර්නිකා. විදිල්යивොස්ත් ප්‍රෙවොඩියොට්සා සාවිසි ඔද් ෂාන්රා ඉ ඉස්දාවාච්කේ ප්‍රාක්සේ. කුල්තුර්නො පොස්‍රෙදොවාන්යේ සාහ්තෙවා පොස්නාවාන්යේ ඔබේ ස්‍රෙදිනේ. නාපොමෙනා ප්‍රෙවොදියොට්සා මොෂෙ ඔබ්යස්නිති නෙප්‍රෙවොදිවොස්ත්.",
+      "reading": "ප්‍රෙවොදිලාච්කා ඔද්ලුකා මොෂෙ ප්‍රොමෙනිති තොන් ඉස්වොර්නිකා. විදිල්යඉව්ොස්ත් ප්‍රෙවොඩියොට්සා සාවිසි ඔද් ෂාන්රා ඉ ඉස්දාවාච්කේ ප්‍රාක්සේ. කුල්තුර්නො පොස්‍රෙදොවාන්යේ සාහ්තෙවා පොස්නාවාන්යේ ඔබේ ස්‍රෙදිනේ. නාපොමෙනා ප්‍රෙවොදියොට්සා මොෂෙ ඔබ්යස්නිති නෙප්‍රෙවොදිවොස්ත්.",
       "options": [
         "පරිවර්තන තීරණයක් මුල් පාඨයේ ස්වරය වෙනස් කළ හැක. පරිවර්තකයාගේ දෘශ්‍යමානභාවය ප්‍රභේදය හා ප්‍රකාශන ක්‍රමය මත රඳා පවතී.",
         "Kontekst nije važan za tumačenje.",
@@ -1231,7 +1231,7 @@ export const SERBIAN_C2_LESSONS_41_50 = [
     "dialogue": [
       {
         "text": "Da li je to bilo obećanje ili predlog?",
-        "reading": "ඩා ලි යේ තො билො ඔබෙචාන්යේ ඉලි ප්‍රෙද්ලොග්?",
+        "reading": "ඩා ලි යේ තො බිල්ො ඔබෙචාන්යේ ඉලි ප්‍රෙද්ලොග්?",
         "meaning": "එය පොරොන්දුවක්ද යෝජනාවක්ද?"
       },
       {
@@ -1372,7 +1372,7 @@ export const SERBIAN_C2_LESSONS_41_50 = [
     "examples": [
       {
         "text": "Teza mora biti dovoljno precizna da se može osporiti.",
-        "reading": "තේසා මොරා бити දොවොල්ය්නො ප්‍රෙට්සිස්නා දා සේ මොෂෙ ඔස්පොරිති.",
+        "reading": "තේසා මොරා බිති දොවොල්ය්නො ප්‍රෙට්සිස්නා දා සේ මොෂෙ ඔස්පොරිති.",
         "meaning": "මූලික තර්කය අභියෝග කළ හැකි තරම් නිශ්චිත විය යුතුය."
       },
       {
@@ -1404,19 +1404,19 @@ export const SERBIAN_C2_LESSONS_41_50 = [
       },
       {
         "text": "Kako odgovarate na taj prigovor?",
-        "reading": "කාකො ඔද්ගොවාරате නා තායි ප්‍රිගොවොර්?",
+        "reading": "කාකො ඔද්ගොවාරඅතෙ නා තායි ප්‍රිගොවොර්?",
         "meaning": "එම විවේචනයට ඔබ පිළිතුරු දෙන්නේ කෙසේද?"
       },
       {
         "text": "Prihvatam deo primedbe i preciziram uslove primene.",
-        "reading": "ප්‍රිහ්වාතාම් දෙඔ ප්‍රිමෙද්බේ ඉ ප්‍රෙට්සිසිрам උස්ලොවේ ප්‍රිමෙනේ.",
+        "reading": "ප්‍රිහ්වාතාම් දෙඔ ප්‍රිමෙද්බේ ඉ ප්‍රෙට්සිසිරාම් උස්ලොවේ ප්‍රිමෙනේ.",
         "meaning": "විවේචනයේ කොටසක් පිළිගෙන අදාළ වීමේ කොන්දේසි පැහැදිලි කරමි."
       }
     ],
     "listeningPractice": {
       "prompt": "Slušajte iskaz i izaberite najpreciznije tumačenje.",
       "audio": "Teza mora biti dovoljno precizna da se može osporiti. Koncesija može ojačati ukupnu argumentaciju. Protuprimer testira domet opšte tvrdnje. Sinteza povezuje opravdane uvide obe strane.",
-      "reading": "තේසා මොරා бити දොවොල්ය්නො ප්‍රෙට්සිස්නා දා සේ මොෂෙ ඔස්පොරිති. කොන්ට්සෙසියා මොෂෙ ඔයාචාති උකුප්නු අර්ගුමෙන්තාට්සියු. ප්‍රොතුප්‍රිමෙර් තෙස්තිරා දොමෙත් ඔප්ෂ්තේ ත්ව්ර්ද්න්යේ. සින්තෙසා පොවෙසුයේ ඔප්‍රාව්දානේ උවිදේ ඔබේ ස්ත්‍රානේ.",
+      "reading": "තේසා මොරා බිති දොවොල්ය්නො ප්‍රෙට්සිස්නා දා සේ මොෂෙ ඔස්පොරිති. කොන්ට්සෙසියා මොෂෙ ඔයාචාති උකුප්නු අර්ගුමෙන්තාට්සියු. ප්‍රොතුප්‍රිමෙර් තෙස්තිරා දොමෙත් ඔප්ෂ්තේ ත්ව්ර්ද්න්යේ. සින්තෙසා පොවෙසුයේ ඔප්‍රාව්දානේ උවිදේ ඔබේ ස්ත්‍රානේ.",
       "options": [
         "මූලික තර්කය අභියෝග කළ හැකි තරම් නිශ්චිත විය යුතුය. ප්‍රතිපක්ෂයේ කරුණක් පිළිගැනීම සමස්ත තර්කය ශක්තිමත් කළ හැක.",
         "Kontekst nije važan za tumačenje.",
