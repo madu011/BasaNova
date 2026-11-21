@@ -399,7 +399,7 @@ export const SERBIAN_C2_LESSONS_21_30 = [
       },
       {
         "text": "Akcenat razlikuje informacijski fokus.",
-        "reading": "අක්චෙනාත් රාස්ලිкуයේ ඉන්ෆොර්මාට්සිඔනි ෆොකුස්.",
+        "reading": "අක්චෙනාත් රාස්ලිකුයේ ඉන්ෆොර්මාට්සිඔනි ෆොකුස්.",
         "meaning": "උච්චාරණ බලය තොරතුරු අවධානය වෙනස් කරයි."
       },
       {
@@ -438,7 +438,7 @@ export const SERBIAN_C2_LESSONS_21_30 = [
     "listeningPractice": {
       "prompt": "Slušajte i izaberite najpreciznije tumačenje.",
       "audio": "Intonacija može signalizirati rezervu bez eksplicitnih reči. Akcenat razlikuje informacijski fokus. Govorni ritam zavisi od jezika i registra. Fonotaktika ograničava moguće glasovne nizove.",
-      "reading": "ඉන්ටොනාට්සියා මොෂෙ සිග්නාලිසිරාති රෙසර්වු බෙස් එක්ස්ප්ලිට්සිත්නිහ් රෙචි. අක්චෙනාත් රාස්ලිкуයේ ඉන්ෆොර්මාට්සිඔනි ෆොකුස්. ගොවොර්නි රිත්ම් සාවිසි ඔද් යෙසිකා ඉ රෙගිස්ත්‍රා. ෆොනොතාක්තිකා ඔග්‍රානිචාවා මොගුචේ ග්ලාසොව්නේ නිසොවේ.",
+      "reading": "ඉන්ටොනාට්සියා මොෂෙ සිග්නාලිසිරාති රෙසර්වු බෙස් එක්ස්ප්ලිට්සිත්නිහ් රෙචි. අක්චෙනාත් රාස්ලිකුයේ ඉන්ෆොර්මාට්සිඔනි ෆොකුස්. ගොවොර්නි රිත්ම් සාවිසි ඔද් යෙසිකා ඉ රෙගිස්ත්‍රා. ෆොනොතාක්තිකා ඔග්‍රානිචාවා මොගුචේ ග්ලාසොව්නේ නිසොවේ.",
       "options": [
         "Kontekst i dokazi nisu važni.",
         "වචන පැහැදිලිව නොකියා ස්වරය සැකය පෙන්විය හැක. උච්චාරණ බලය තොරතුරු අවධානය වෙනස් කරයි.",
@@ -742,7 +742,7 @@ export const SERBIAN_C2_LESSONS_21_30 = [
     "dialogue": [
       {
         "text": "Ko oblikuje ovaj narativ?",
-        "reading": "කො ඔබ්ලිкуයේ ඔවායි නාරාතිව්?",
+        "reading": "කො ඔබ්ලිකුයේ ඔවායි නාරාතිව්?",
         "meaning": "මෙම කථනය හැඩගස්වන්නේ කවුද?"
       },
       {
@@ -752,7 +752,7 @@ export const SERBIAN_C2_LESSONS_21_30 = [
       },
       {
         "text": "Da li arhiv daje potpunu sliku?",
-        "reading": "ඩා ලි අර්හිව් දායේ පොත්පුනු ස්ලිку?",
+        "reading": "ඩා ලි අර්හිව් දායේ පොත්පුනු ස්ලිකු?",
         "meaning": "ලේඛනාගාරය සම්පූර්ණ චිත්‍රය දෙනවාද?"
       },
       {
@@ -1372,7 +1372,7 @@ export const SERBIAN_C2_LESSONS_21_30 = [
     "examples": [
       {
         "text": "Satira kritikuje instituciju kroz preuveličavanje.",
-        "reading": "සාතිරා ක්‍රිතිкуයේ ඉන්ස්තිතුට්සියු ක්‍රොස් ප්‍රෙඋවෙලිචාවාන්යේ.",
+        "reading": "සාතිරා ක්‍රිතිකුයේ ඉන්ස්තිතුට්සියු ක්‍රොස් ප්‍රෙඋවෙලිචාවාන්යේ.",
         "meaning": "අතිශයෝක්තියෙන් ආයතනයක් විවේචනය කිරීම උපහාසයයි."
       },
       {
@@ -1416,7 +1416,7 @@ export const SERBIAN_C2_LESSONS_21_30 = [
     "listeningPractice": {
       "prompt": "Slušajte i izaberite najpreciznije tumačenje.",
       "audio": "Satira kritikuje instituciju kroz preuveličavanje. Parodija zavisi od prepoznatljivog obrasca. Aluzija može nestati u doslovnom prevodu. Prevodilac ponekad mora promeniti šalu.",
-      "reading": "සාතිරා ක්‍රිතිкуයේ ඉන්ස්තිතුට්සියු ක්‍රොස් ප්‍රෙඋවෙලිචාවාන්යේ. පාරොදියා සාවිසි ඔද් ප්‍රෙපොස්නාත්ලිවොග් ඔබ්‍රාස්ට්සා. අලුසියා මොෂෙ නෙස්තාති උ දොස්ලොව්නොම් ප්‍රෙවොදු. ප්‍රෙවොදිලාත්ස් පොනෙකාද් මොරා ප්‍රොමෙනිති ෂාලු.",
+      "reading": "සාතිරා ක්‍රිතිකුයේ ඉන්ස්තිතුට්සියු ක්‍රොස් ප්‍රෙඋවෙලිචාවාන්යේ. පාරොදියා සාවිසි ඔද් ප්‍රෙපොස්නාත්ලිවොග් ඔබ්‍රාස්ට්සා. අලුසියා මොෂෙ නෙස්තාති උ දොස්ලොව්නොම් ප්‍රෙවොදු. ප්‍රෙවොදිලාත්ස් පොනෙකාද් මොරා ප්‍රොමෙනිති ෂාලු.",
       "options": [
         "Kontekst i dokazi nisu važni.",
         "අතිශයෝක්තියෙන් ආයතනයක් විවේචනය කිරීම උපහාසයයි. අනුකරණ උපහාසය හඳුනාගත හැකි රටාවක් මත රඳා පවතී.",
@@ -1535,7 +1535,7 @@ export const SERBIAN_C2_LESSONS_21_30 = [
     "examples": [
       {
         "text": "Teza mora biti jasna i proverljiva.",
-        "reading": "තේසා මොරා бити යාස්නා ඉ ප්‍රොවෙර්ලිවා.",
+        "reading": "තේසා මොරා බිති යාස්නා ඉ ප්‍රොවෙර්ලිවා.",
         "meaning": "මූලික තර්කය පැහැදිලි හා පරීක්ෂා කළ හැකි විය යුතුය."
       },
       {
@@ -1572,14 +1572,14 @@ export const SERBIAN_C2_LESSONS_21_30 = [
       },
       {
         "text": "Otvoreno ih navodim i objašnjavam njihov uticaj.",
-        "reading": "ඔත්වොරෙනො ඉහ් නාවොදිම් ඉ ඔබ්යෂ්න්යාවාම් නියහොව් උතිцаයි.",
+        "reading": "ඔත්වොරෙනො ඉහ් නාවොදිම් ඉ ඔබ්යෂ්න්යාවාම් නියහොව් උතිцඅයි.",
         "meaning": "ඒවා විවෘතව සඳහන් කර බලපෑම පැහැදිලි කරමි."
       }
     ],
     "listeningPractice": {
       "prompt": "Slušajte i izaberite najpreciznije tumačenje.",
       "audio": "Teza mora biti jasna i proverljiva. Triangulacija povećava uverljivost nalaza. Ograničenja treba navesti pre zaključka. Odbrana odgovara na najjače prigovore.",
-      "reading": "තේසා මොරා бити යාස්නා ඉ ප්‍රොවෙර්ලිවා. ත්‍රියාංගුලාට්සියා පොවෙචාවා උවෙර්ලිවොස්ත් නාලාසා. ඔග්‍රානිචෙන්යා ත්‍රෙබා නාවෙස්ති ප්‍රෙ සාක්ල්යුච්කා. ඔද්බ්‍රානා ඔද්ගොවාරා නා නායියාචේ ප්‍රිගොවොරේ.",
+      "reading": "තේසා මොරා බිති යාස්නා ඉ ප්‍රොවෙර්ලිවා. ත්‍රියාංගුලාට්සියා පොවෙචාවා උවෙර්ලිවොස්ත් නාලාසා. ඔග්‍රානිචෙන්යා ත්‍රෙබා නාවෙස්ති ප්‍රෙ සාක්ල්යුච්කා. ඔද්බ්‍රානා ඔද්ගොවාරා නා නායියාචේ ප්‍රිගොවොරේ.",
       "options": [
         "Kontekst i dokazi nisu važni.",
         "Jedno tumačenje je uvek jedino moguće.",
