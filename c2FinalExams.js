@@ -4,6 +4,16 @@ const SERBIAN_TERMS = [["implikatura","ඉම්ප්ල්ඉක්අට්�
 const ENGLISH_TERMS = [["implicature","ඉම්ප්ලිකචර්","ව්‍යංගාර්ථය","ව්‍යංගාර්ථය සහ සන්දර්භය"],["presupposition","ප්‍රීසප්අසිෂන්","පූර්ව උපකල්පනය","පූර්ව උපකල්පන"],["ambiguity","ඇම්බිග්‍යුවිටි","අර්ථ දෙකක් ඇති බව","අර්ථ සූක්ෂ්මතා"],["irony","අයිරනි","උපහාසය","උපහාසය සහ කථන ස්වරය"],["connotation","කොනටේෂන්","අනුසංගික අර්ථය","අර්ථ ස්තර"],["cohesion","කෝහීෂන්","පෙළ සම්බන්ධතාව","පෙළ සංවිධානය"],["evidentiality","එවිඩෙන්ෂියැලිටි","සාක්ෂි මත පදනම් වූ ප්‍රකාශන රටාව","සාක්ෂි සහ දැනුම් මට්ටම"],["proportionality","ප්‍රපෝර්ෂනැලිටි","අනුපාතිකභාවය","නීතිමය තර්ක"],["sociolinguistic variation","සෝසියෝලිංග්විස්ටික් වෙරියේෂන්","සමාජය අනුව භාෂා වෙනස්කම්","සමාජ භාෂා විද්‍යාව"],["paraphrase","පැරෆ්‍රේස්","වෙනත් වචනවලින් ප්‍රකාශ කිරීම","පෙළ නැවත සැකසීම"],["pragmatics","ප්‍රැග්මැටික්ස්","භාෂා භාවිතයේ සන්දර්භ අධ්‍යයනය","ප්‍රායෝගික භාෂා විද්‍යාව"],["stance","ස්ටෑන්ස්","කථකයාගේ ස්ථාවරය","කථන ස්ථාවරය"],["refutation","රෙෆියුටේෂන්","තර්කයක් ප්‍රතික්ෂේප කිරීම","වාද විවාද"],["credibility","ක්‍රෙඩිබිලිටි","විශ්වසනීයත්වය","මූලාශ්‍ර ඇගයීම"],["transposition","ට්‍රාන්ස්පසිෂන්","අර්ථය රැකගෙන වෙනත් ව්‍යුහයකට මාරු කිරීම","පරිවර්තන ක්‍රම"],["semantic scope","සිමැන්ටික් ස්කෝප්","අර්ථමය පරාසය","වාක්‍ය ව්‍යුහය සහ අර්ථය"],["intertextuality","ඉන්ටර්ටෙක්ස්චුවැලිටි","පෙළ අතර අන්තර් සම්බන්ධතාව","සාහිත්‍ය හා සංස්කෘතික ඉඟි"],["mitigation","මිටිගේෂන්","ප්‍රකාශයේ තීව්‍රතාව අඩු කිරීම","සංවාදයේ මෘදුකරණය"],["interpretation","ඉන්ටර්ප්‍රිටේෂන්","අර්ථකථනය","අර්ථකථන ක්‍රම"],["consistency","කන්සිස්ටන්සි","අනුකූලතාව","තර්කයේ අනුකූලතාව"]];
 const SERBIAN_AUDIO = [["Iako je formulacija jasna, njena implikatura zavisi od odnosa među sagovornicima.","ඉයකො යෙ ෆොර්මුලාට්සියා යාස්නා, න්යෙනා ඉම්ප්ලිකාතුරා සාවිසි ඔද් ඔද්නොසා මෙජු සාගොවොර්නිට්සිමා.","ප්‍රකාශන රටාව පැහැදිලි වුවද, එහි ව්‍යංගාර්ථය කථකයන් අතර සම්බන්ධතාව මත රඳා පවතී."],["Ne možemo prihvatiti zaključak bez provere njegovih pretpostavki.","නෙ මොෂෙමො ප්‍රිහ්වාතිති සාක්ල්යුචාක් බෙස් ප්‍රොවෙරෙ න්යෙගොවිහ් ප්‍රෙට්පොස්තාව්කි.","එහි උපකල්පන පරීක්ෂා නොකර අපට එම නිගමනය පිළිගත නොහැකිය."],["Urednik je sačuvao koheziju teksta, ali je promenio redosled pasusa.","උරෙද්නික් යෙ සාචුවාඔ කොහෙසියු ටෙක්ස්තා, අලි යෙ ප්‍රොමෙනියො රෙදොස්ලෙද් පාසුසා.","සංස්කාරකයා පෙළේ සම්බන්ධතාව රැකගෙන ඡේද අනුපිළිවෙළ වෙනස් කළේය."],["Pravna mera mora biti proporcionalna legitimnom cilju.","ප්‍රාව්නා මෙරා මොරා බිති ප්‍රොපෝර්ට්සියොනාල්නා ලෙගිතිම්නොම් ට්සිල්යු.","නීතිමය පියවර නීත්‍යනුකූල අරමුණට අනුපාතික විය යුතුය."],["Pouzdan izvor jasno razlikuje činjenice od tumačenja.","පොඋස්දාන් ඉස්වොර් යාස්නො රාලිකුයෙ චින්යෙනිට්සෙ ඔද් තුමාචෙන්යා.","විශ්වසනීය මූලාශ්‍රයක් කරුණු සහ අර්ථකථන පැහැදිලිව වෙන් කරයි."],["U debati je važno odgovoriti na najjači protivargument.","උ දෙබාති යෙ වාෂ්නො ඔද්ගොවොරිති නා නාය්යාචි ප්‍රොතිව්ආර්ගුමෙන්ට්.","වාදයකදී ශක්තිමත්ම ප්‍රතිතර්කයට පිළිතුරු දීම වැදගත්ය."]];
 const ENGLISH_AUDIO = [["Although the wording is clear, its implicature depends on the relationship between the speakers.","ඕල්දෝ ද වර්ඩිං ඉස් ක්ලියර්, ඉට්ස් ඉම්ප්ලිකචර් ඩිපෙන්ඩ්ස් ඔන් ද රිලේෂන්ෂිප් බිට්වීන් ද ස්පීකර්ස්.","වචන පැහැදිලි වුවද, එහි ව්‍යංගාර්ථය කථකයන් අතර සම්බන්ධතාව මත රඳා පවතී."],["We cannot accept the conclusion without examining its assumptions.","වී කැන්නොට් ඇක්සෙප්ට් ද කන්ක්ලූෂන් විදවුට් ඉග්සැමිනිං ඉට්ස් අසම්ප්ෂන්ස්.","එහි උපකල්පන පරීක්ෂා නොකර අපට එම නිගමනය පිළිගත නොහැකිය."],["The editor preserved textual cohesion but changed the order of the paragraphs.","දි එඩිටර් ප්‍රිසර්ව්ඩ් ටෙක්ස්චුවල් කෝහීෂන් බට් චේන්ජ්ඩ් දි ඕඩර් ඔෆ් ද පැරග්‍රාෆ්ස්.","සංස්කාරකයා පෙළේ සම්බන්ධතාව රැකගෙන ඡේද අනුපිළිවෙළ වෙනස් කළේය."],["A legal measure must be proportional to a legitimate aim.","අ ලීගල් මෙෂර් මස්ට් බී ප්‍රපෝර්ෂනල් ටු අ ලිජිටිමට් ඒම්.","නීතිමය පියවර නීත්‍යනුකූල අරමුණට අනුපාතික විය යුතුය."],["A credible source clearly distinguishes facts from interpretation.","අ ක්‍රෙඩිබල් සෝර්ස් ක්ලියර්ලි ඩිස්ටිංග්විෂස් ෆැක්ට්ස් ෆ්‍රම් ඉන්ටර්ප්‍රිටේෂන්.","විශ්වසනීය මූලාශ්‍රයක් කරුණු සහ අර්ථකථන පැහැදිලිව වෙන් කරයි."],["In a debate, it is essential to address the strongest counterargument.","ඉන් අ ඩිබේට්, ඉට් ඉස් එසෙන්ෂල් ටු ඇඩ්‍රෙස් ද ස්ට්‍රොංගස්ට් කවුන්ටර්ආර්ග්‍යුමන්ට්.","වාදයකදී ශක්තිමත්ම ප්‍රතිතර්කයට පිළිතුරු දීම අත්‍යවශ්‍යය."]];
+function balanceAnswerPositions(questions) {
+ return questions.map((question, index) => {
+  const target = index % question.options.length;
+  const options = question.options.slice();
+  const correct = options.splice(question.answer, 1)[0];
+  options.splice(target, 0, correct);
+  return { ...question, options, answer: target };
+ });
+}
+
 function makeRevision(lang, rows) {
  const meanings=rows.map(row=>row[2]);
  const vocabulary=rows.slice(0,5).map((row,i)=>{
@@ -32,7 +42,7 @@ function makeRevision(lang, rows) {
   [["සංස්කෘතික ඉඟි, ප්‍රේක්ෂකයා සහ අරමුණට ගැළපෙන බලපෑමට.","වචන පමණක් වචනයෙන් වචනයට මාරු කිරීමට.","මුල් සන්දර්භය ඉවත් කිරීමට."],0,"හාස්‍යයේ අර්ථය සංස්කෘතික දැනුම සහ සන්දර්භය මත රඳා පවතී."]
  ];
  const concepts=prompts.map((prompt,i)=>({id:`c2-${lang}-revision-${i+6}`,type:"discourse",topic:"C2 · උසස් අර්ථකථනය සහ තර්කය",prompt,options:choices[i][0],answer:choices[i][1],explanation:choices[i][2],word:null,wordReading:null}));
- return vocabulary.concat(concepts);
+ return balanceAnswerPositions(vocabulary.concat(concepts));
 }
 function makeFinal(lang, rows, audioItems) {
  const vocabulary=rows.slice(0,10).map((row,i)=>{
@@ -61,7 +71,7 @@ function makeFinal(lang, rows, audioItems) {
  ];
  const concepts=prompts.map((prompt,i)=>({id:`c2-${lang}-final-${i+11}`,type:"grammar",prompt,audio:null,reading:null,word:null,wordReading:null,options:grammar[i][0],answer:grammar[i][1],explanation:grammar[i][2]}));
  const listening=audioItems.map((item,i)=>({id:`c2-${lang}-final-${i+15}`,type:"listening",prompt:"සවන් දී නිවැරදි සිංහල අර්ථය තෝරන්න.",audio:item[0],reading:item[1],word:null,wordReading:null,options:[item[2],rows[(i+4)%rows.length][2],rows[(i+9)%rows.length][2]],answer:0,explanation:item[2]}));
- return vocabulary.concat(concepts,listening);
+ return balanceAnswerPositions(vocabulary.concat(concepts,listening));
 }
 export const SERBIAN_C2_MIXED_REVISION = makeRevision("sr", SERBIAN_TERMS);
 export const ENGLISH_C2_MIXED_REVISION = makeRevision("en", ENGLISH_TERMS);
