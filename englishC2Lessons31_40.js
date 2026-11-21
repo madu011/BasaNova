@@ -144,11 +144,11 @@ export const ENGLISH_C2_LESSONS_31_40 = [
       {
         "prompt": "What is the best approach to a complex statement?",
         "options": [
-          "Consider context and limitations",
           "Ignore alternative interpretations",
-          "Present an assumption as fact"
+          "Present an assumption as fact",
+          "Consider context and limitations"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Context and limitations help prevent unsupported conclusions."
       },
       {
@@ -277,31 +277,31 @@ export const ENGLISH_C2_LESSONS_31_40 = [
       "audio": "The clause takes effect after signature. The exception applies only under the stated conditions. Ambiguous wording may trigger a dispute. The text must comply with applicable regulations.",
       "reading": "ද ක්ලෝස් ටේක්ස් ඉෆෙක්ට් ආෆ්ටර් සිග්නචර්. දි එක්සෙප්ෂන් අප්ලයිස් ඕන්ලි අන්ඩර් ද ස්ටේටඩ් කන්ඩිෂන්ස්. ඇම්බිග්‍යුවස් වර්ඩිං මේ ට්‍රිගර් අ ඩිස්පියුට්. ද ටෙක්ස්ට් මස්ට් කම්ප්ලයි විත් ඇප්ලිකබල් රෙගියුලේෂන්ස්.",
       "options": [
-        "අත්සන් කිරීමෙන් පසු වගන්තිය බලපැවැත්වේ. ව්‍යතිරේකය සඳහන් කොන්දේසි යටතේ පමණක් යෙදේ.",
         "Context is irrelevant to interpretation.",
+        "අත්සන් කිරීමෙන් පසු වගන්තිය බලපැවැත්වේ. ව්‍යතිරේකය සඳහන් කොන්දේසි යටතේ පමණක් යෙදේ.",
         "Every claim is absolutely certain."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Which term is central to this lesson's topic?",
         "options": [
-          "clause",
           "condition",
+          "clause",
           "interpretation"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "clause is a key concept in this topic."
       },
       {
         "prompt": "Which term is most closely related to the central concept?",
         "options": [
           "exception",
-          "nullity",
-          "compliance"
+          "compliance",
+          "nullity"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "nullity is an important related concept."
       },
       {
@@ -317,11 +317,11 @@ export const ENGLISH_C2_LESSONS_31_40 = [
       {
         "prompt": "How should uncertainty be expressed?",
         "options": [
-          "State the degree of certainty precisely",
           "Hide the lack of evidence",
+          "State the degree of certainty precisely",
           "Remove every qualification"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Precisely marking uncertainty improves reliability."
       }
     ]
@@ -440,51 +440,51 @@ export const ENGLISH_C2_LESSONS_31_40 = [
       "audio": "Element placement guides the reader's gaze. An image can complement or challenge the text. Meaning emerges through relations among different modes. Synchronizing sound and image changes the message experience.",
       "reading": "එලිමන්ට් ප්ලේස්මන්ට් ගයිඩ්ස් ද රීඩර්ස් ගේස්. ඇන් ඉමේජ් කැන් කොම්ප්ලිමන්ට් ඕර් චැලෙන්ජ් ද ටෙක්ස්ට්. මීනින් ඉමර්ජස් ත්‍රූ රිලේෂන්ස් අමං ඩිෆරන්ට් මෝඩ්ස්. සින්ක්‍රනයිසිං සවුන්ඩ් ඇන්ඩ් ඉමේජ් චේන්ජස් ද මෙසේජ් එක්ස්පීරියන්ස්.",
       "options": [
-        "අංග සැකැස්ම පාඨකයාගේ බැල්ම යොමු කරයි. රූපයක් පාඨය පූරණය කිරීමටත් අභියෝග කිරීමටත් හැක.",
         "Context is irrelevant to interpretation.",
-        "Every claim is absolutely certain."
+        "Every claim is absolutely certain.",
+        "අංග සැකැස්ම පාඨකයාගේ බැල්ම යොමු කරයි. රූපයක් පාඨය පූරණය කිරීමටත් අභියෝග කිරීමටත් හැක."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Which term is central to this lesson's topic?",
         "options": [
-          "semiotics",
           "iconography",
-          "synchronization"
+          "synchronization",
+          "semiotics"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "semiotics is a key concept in this topic."
       },
       {
         "prompt": "Which term is most closely related to the central concept?",
         "options": [
-          "visual hierarchy",
           "composition",
+          "visual hierarchy",
           "intermodality"
         ],
-        "answer": 1,
+        "answer": 0,
         "explanation": "composition is an important related concept."
       },
       {
         "prompt": "What is the best approach to a complex statement?",
         "options": [
-          "Consider context and limitations",
           "Ignore alternative interpretations",
+          "Consider context and limitations",
           "Present an assumption as fact"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Context and limitations help prevent unsupported conclusions."
       },
       {
         "prompt": "How should uncertainty be expressed?",
         "options": [
-          "State the degree of certainty precisely",
           "Hide the lack of evidence",
-          "Remove every qualification"
+          "Remove every qualification",
+          "State the degree of certainty precisely"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Precisely marking uncertainty improves reliability."
       }
     ]
@@ -633,11 +633,11 @@ export const ENGLISH_C2_LESSONS_31_40 = [
       {
         "prompt": "What is the best approach to a complex statement?",
         "options": [
-          "Consider context and limitations",
           "Ignore alternative interpretations",
-          "Present an assumption as fact"
+          "Present an assumption as fact",
+          "Consider context and limitations"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Context and limitations help prevent unsupported conclusions."
       },
       {
@@ -766,31 +766,31 @@ export const ENGLISH_C2_LESSONS_31_40 = [
       "audio": "Register shifts according to the interlocutor. Code-switching can signal group affiliation. Jargon helps only when the audience understands it. Consistency does not mean refusing to adapt.",
       "reading": "රෙජිස්ටර් ෂිෆ්ට්ස් අකෝර්ඩිං ටු දි ඉන්ටර්ලොකියුටර්. කෝඩ් ස්විචිං කැන් සිග්නල් ගෲප් අෆිලියේෂන්. ජාර්ගන් හෙල්ප්ස් ඕන්ලි වෙන් දි ඕඩියන්ස් අන්ඩර්ස්ටෑන්ඩ්ස් ඉට්. කන්සිස්ටන්සි ඩස් නොට් මීන් රිෆියුසිං ටු අඩැප්ට්.",
       "options": [
-        "සංවාදකයා අනුව භාෂා භාවිත මට්ටම වෙනස් වේ. භාෂා මාරුවීම කණ්ඩායමකට අයත් බව පෙන්විය හැක.",
         "Context is irrelevant to interpretation.",
+        "සංවාදකයා අනුව භාෂා භාවිත මට්ටම වෙනස් වේ. භාෂා මාරුවීම කණ්ඩායමකට අයත් බව පෙන්විය හැක.",
         "Every claim is absolutely certain."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Which term is central to this lesson's topic?",
         "options": [
-          "register",
           "formality",
+          "register",
           "accommodation"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "register is a key concept in this topic."
       },
       {
         "prompt": "Which term is most closely related to the central concept?",
         "options": [
           "stylistic consistency",
-          "professional jargon",
-          "identity marker"
+          "identity marker",
+          "professional jargon"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "professional jargon is an important related concept."
       },
       {
@@ -806,11 +806,11 @@ export const ENGLISH_C2_LESSONS_31_40 = [
       {
         "prompt": "How should uncertainty be expressed?",
         "options": [
-          "State the degree of certainty precisely",
           "Hide the lack of evidence",
+          "State the degree of certainty precisely",
           "Remove every qualification"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Precisely marking uncertainty improves reliability."
       }
     ]
@@ -929,51 +929,51 @@ export const ENGLISH_C2_LESSONS_31_40 = [
       "audio": "The abstract clearly identifies the problem and research question. The methodology must match the project's objectives. The proposal explains why the resources are necessary. Impact should be described through measurable indicators.",
       "reading": "දි ඇබ්ස්ට්‍රැක්ට් ක්ලියර්ලි අයිඩෙන්ටිෆයිස් ද ප්‍රොබ්ලම් ඇන්ඩ් රිසර්ච් ක්වෙස්චන්. ද මෙතඩොලොජි මස්ට් මැච් ද ප්‍රොජෙක්ට්ස් ඔබ්ජෙක්ටිව්ස්. ද ප්‍රපෝසල් එක්ස්ප්ලේන්ස් වයි ද රිසෝර්සිස් ආ නෙසසරි. ඉම්පැක්ට් ෂුඩ් බී ඩිස්ක්‍රයිබ්ඩ් ත්‍රූ මෙෂරබල් ඉන්ඩිකේටර්ස්.",
       "options": [
-        "සාරාංශය ගැටලුව හා පර්යේෂණ ප්‍රශ්නය පැහැදිලිව වෙන් කරයි. ක්‍රමවේදය ව්‍යාපෘති අරමුණුවලට ගැළපිය යුතුය.",
         "Context is irrelevant to interpretation.",
-        "Every claim is absolutely certain."
+        "Every claim is absolutely certain.",
+        "සාරාංශය ගැටලුව හා පර්යේෂණ ප්‍රශ්නය පැහැදිලිව වෙන් කරයි. ක්‍රමවේදය ව්‍යාපෘති අරමුණුවලට ගැළපිය යුතුය."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Which term is central to this lesson's topic?",
         "options": [
-          "abstract",
           "contribution",
-          "dissemination"
+          "dissemination",
+          "abstract"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "abstract is a key concept in this topic."
       },
       {
         "prompt": "Which term is most closely related to the central concept?",
         "options": [
-          "methodology",
           "budget justification",
+          "methodology",
           "impact"
         ],
-        "answer": 1,
+        "answer": 0,
         "explanation": "budget justification is an important related concept."
       },
       {
         "prompt": "What is the best approach to a complex statement?",
         "options": [
-          "Consider context and limitations",
           "Ignore alternative interpretations",
+          "Consider context and limitations",
           "Present an assumption as fact"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Context and limitations help prevent unsupported conclusions."
       },
       {
         "prompt": "How should uncertainty be expressed?",
         "options": [
-          "State the degree of certainty precisely",
           "Hide the lack of evidence",
-          "Remove every qualification"
+          "Remove every qualification",
+          "State the degree of certainty precisely"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Precisely marking uncertainty improves reliability."
       }
     ]
@@ -1122,11 +1122,11 @@ export const ENGLISH_C2_LESSONS_31_40 = [
       {
         "prompt": "What is the best approach to a complex statement?",
         "options": [
-          "Consider context and limitations",
           "Ignore alternative interpretations",
-          "Present an assumption as fact"
+          "Present an assumption as fact",
+          "Consider context and limitations"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Context and limitations help prevent unsupported conclusions."
       },
       {
@@ -1255,31 +1255,31 @@ export const ENGLISH_C2_LESSONS_31_40 = [
       "audio": "Word order can alter the scope of negation. A relative clause may have two possible attachments. Context often resolves syntactic ambiguity. A paraphrase exposes the difference between readings.",
       "reading": "වර්ඩ් ඕඩර් කැන් ඕල්ටර් ද ස්කෝප් ඔෆ් නිගේෂන්. අ රෙලටිව් ක්ලෝස් මේ හැව් ටූ පොසිබල් අටැච්මන්ට්ස්. කොන්ටෙක්ස්ට් ඔෆන් රිසෝල්ව්ස් සින්ටැක්ටික් ඇම්බිග්‍යුවිටි. අ පැරෆ්‍රේස් එක්ස්පෝසස් ද ඩිෆරන්ස් බිට්වීන් රීඩිංස්.",
       "options": [
-        "වචන අනුපිළිවෙළ නිෂේධයේ අර්ථ බලපරාසය වෙනස් කළ හැක. සම්බන්ධක උපවාක්‍යයකට සම්බන්ධ විය හැකි ආකාර දෙකක් තිබිය හැක.",
         "Context is irrelevant to interpretation.",
+        "වචන අනුපිළිවෙළ නිෂේධයේ අර්ථ බලපරාසය වෙනස් කළ හැක. සම්බන්ධක උපවාක්‍යයකට සම්බන්ධ විය හැකි ආකාර දෙකක් තිබිය හැක.",
         "Every claim is absolutely certain."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Which term is central to this lesson's topic?",
         "options": [
-          "scope",
           "relative clause",
+          "scope",
           "reference"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "scope is a key concept in this topic."
       },
       {
         "prompt": "Which term is most closely related to the central concept?",
         "options": [
           "ambiguity",
-          "quantifier",
-          "paraphrase"
+          "paraphrase",
+          "quantifier"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "quantifier is an important related concept."
       },
       {
@@ -1295,11 +1295,11 @@ export const ENGLISH_C2_LESSONS_31_40 = [
       {
         "prompt": "How should uncertainty be expressed?",
         "options": [
-          "State the degree of certainty precisely",
           "Hide the lack of evidence",
+          "State the degree of certainty precisely",
           "Remove every qualification"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Precisely marking uncertainty improves reliability."
       }
     ]
@@ -1418,51 +1418,51 @@ export const ENGLISH_C2_LESSONS_31_40 = [
       "audio": "A word's meaning may narrow across generations. A loanword often acquires a new local meaning. Etymology does not necessarily determine present usage. Change must be demonstrated through historical sources.",
       "reading": "අ වර්ඩ්ස් මීනින් මේ නැරෝ අක්‍රොස් ජෙනරේෂන්ස්. අ ලෝන්වර්ඩ් ඔෆන් අක්වයර්ස් අ නියු ලෝකල් මීනින්. එටිමොලොජි ඩස් නොට් නෙසසරලි ඩිටර්මින් ප්‍රෙසන්ට් යූසිජ්. චේන්ජ් මස්ට් බී ඩෙමන්ස්ට්‍රේටඩ් ත්‍රූ හිස්ටොරිකල් සෝර්සිස්.",
       "options": [
-        "පරම්පරා හරහා වචනයක අර්ථය පටු විය හැක. ණයට ගත් වචනයකට බොහෝවිට නව දේශීය අර්ථයක් ලැබේ.",
         "Context is irrelevant to interpretation.",
-        "Every claim is absolutely certain."
+        "Every claim is absolutely certain.",
+        "පරම්පරා හරහා වචනයක අර්ථය පටු විය හැක. ණයට ගත් වචනයකට බොහෝවිට නව දේශීය අර්ථයක් ලැබේ."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Which term is central to this lesson's topic?",
         "options": [
-          "semantic change",
           "pejoration",
-          "loanword"
+          "loanword",
+          "semantic change"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "semantic change is a key concept in this topic."
       },
       {
         "prompt": "Which term is most closely related to the central concept?",
         "options": [
-          "broadening",
           "etymology",
+          "broadening",
           "folk etymology"
         ],
-        "answer": 1,
+        "answer": 0,
         "explanation": "etymology is an important related concept."
       },
       {
         "prompt": "What is the best approach to a complex statement?",
         "options": [
-          "Consider context and limitations",
           "Ignore alternative interpretations",
+          "Consider context and limitations",
           "Present an assumption as fact"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Context and limitations help prevent unsupported conclusions."
       },
       {
         "prompt": "How should uncertainty be expressed?",
         "options": [
-          "State the degree of certainty precisely",
           "Hide the lack of evidence",
-          "Remove every qualification"
+          "Remove every qualification",
+          "State the degree of certainty precisely"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Precisely marking uncertainty improves reliability."
       }
     ]
@@ -1611,11 +1611,11 @@ export const ENGLISH_C2_LESSONS_31_40 = [
       {
         "prompt": "What is the best approach to a complex statement?",
         "options": [
-          "Consider context and limitations",
           "Ignore alternative interpretations",
-          "Present an assumption as fact"
+          "Present an assumption as fact",
+          "Consider context and limitations"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Context and limitations help prevent unsupported conclusions."
       },
       {
