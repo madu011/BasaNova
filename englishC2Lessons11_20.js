@@ -114,31 +114,31 @@ export const ENGLISH_C2_LESSONS_11_20 = [
       "audio": "The term has no stable referent outside its context. A precise definition distinguishes the concept from its examples. The debate is partly epistemic and partly ontological. The taxonomy is useful, but its categories overlap.",
       "reading": "ත්එ ට්එර්ම් හ්ඇස් න්ඔ ස්ට්ඇබ්ල්එ ර්එෆ්එර්එන්ට් ඔඅට්ස්ඉඩ්එ ඉට්ස් ක්ඔන්ට්එක්ස්ට්. ඇ ප්ර්එක්ඉස්එ ඩ්එෆ්ඉන්ඉෂන් ඩ්ඉස්ට්ඉන්ග්අඉෂ්එස් ත්එ ක්ඔන්ක්එප්ට් ෆ්ර්ඔම් ඉට්ස් එක්ස්ඇම්ප්ල්එස්. ත්එ ඩ්එබ්ඇට්එ ඉස් ප්ඇර්ට්ල්යි එප්ඉස්ට්එම්ඉක් ඇන්ඩ් ප්ඇර්ට්ල්යි ඔන්ට්ඔල්ඔග්ඉක්ඇල්. ත්එ ට්ඇක්ස්ඔන්ඔම්යි ඉස් අස්එෆ්අල්, බ්අට් ඉට්ස් ක්ඇට්එග්ඔර්ඉඑස් ඔව්එර්ල්ඇප්.",
       "options": [
-        "එම පදයට සන්දර්භයෙන් පිටත ස්ථාවර යොමු වස්තුවක් නැත. නිවැරදි නිර්වචනයක් සංකල්පය එහි උදාහරණවලින් වෙන් කරයි.",
         "සන්දර්භය කිසිසේත් වැදගත් නොවේ.",
+        "එම පදයට සන්දර්භයෙන් පිටත ස්ථාවර යොමු වස්තුවක් නැත. නිවැරදි නිර්වචනයක් සංකල්පය එහි උදාහරණවලින් වෙන් කරයි.",
         "එක් අර්ථකථනයක් පමණක් සැමවිටම නිවැරදිය."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Which concept is central to this lesson?",
         "options": [
-          "referent",
           "signifier",
+          "referent",
           "signified"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "referent je ključni pojam."
       },
       {
         "prompt": "Choose another relevant specialist term.",
         "options": [
           "taxonomy",
-          "epistemic",
-          "ontology"
+          "ontology",
+          "epistemic"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "epistemic je važan stručni izraz."
       },
       {
@@ -154,11 +154,11 @@ export const ENGLISH_C2_LESSONS_11_20 = [
       {
         "prompt": "අවිනිශ්චිතතාව ප්‍රකාශ කළ යුත්තේ කෙසේද?",
         "options": [
-          "Qualify the claim precisely",
           "Present an assumption as fact",
+          "Qualify the claim precisely",
           "Omit unknown information"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "නිශ්චිත සීමා දැක්වීම C2 මට්ටමේ වැදගත් කුසලතාවකි."
       }
     ]
@@ -277,51 +277,51 @@ export const ENGLISH_C2_LESSONS_11_20 = [
       "audio": "The precedent is persuasive but not binding in this jurisdiction. A purposive reading considers the provision's legislative aim. The literal wording leaves a genuine ambiguity. The court must explain why one interpretive canon prevails.",
       "reading": "ත්එ ප්ර්එක්එඩ්එන්ට් ඉස් ප්එර්ස්අඇස්ඉව්එ බ්අට් න්ඔට් බ්ඉන්ඩ්ඉන්ග් ඉන් ත්ඉස් ජ්අර්ඉස්ඩ්ඉක්ෂන්. ඇ ප්අර්ප්ඔස්ඉව්එ ර්එඇඩ්ඉන්ග් ක්ඔන්ස්ඉඩ්එර්ස් ත්එ ප්ර්ඔව්ඉස්ඉඔන්'ස් ල්එග්ඉස්ල්ඇට්ඉව්එ ඇඉම්. ත්එ ල්ඉට්එර්ඇල් ව්ඔර්ඩ්ඉන්ග් ල්එඇව්එස් ඇ ග්එන්අඉන්එ ඇම්බ්ඉග්අඉට්යි. ත්එ ක්ඔඅර්ට් ම්අස්ට් එක්ස්ප්ල්ඇඉන් ව්හ්යි ඔන්එ ඉන්ට්එර්ප්ර්එට්ඉව්එ ක්ඇන්ඔන් ප්ර්එව්ඇඉල්ස්.",
       "options": [
-        "එම පූර්වාදර්ශය ඒත්තු ගන්වන සුළු වුවත් මෙහි බැඳී නොපවතී. අරමුණ පදනම් කරගත් කියවීම නීති වගන්තියේ අරමුණ සලකා බලයි.",
         "සන්දර්භය කිසිසේත් වැදගත් නොවේ.",
-        "එක් අර්ථකථනයක් පමණක් සැමවිටම නිවැරදිය."
+        "එක් අර්ථකථනයක් පමණක් සැමවිටම නිවැරදිය.",
+        "එම පූර්වාදර්ශය ඒත්තු ගන්වන සුළු වුවත් මෙහි බැඳී නොපවතී. අරමුණ පදනම් කරගත් කියවීම නීති වගන්තියේ අරමුණ සලකා බලයි."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Which concept is central to this lesson?",
         "options": [
-          "precedent",
           "jurisdiction",
-          "provision"
+          "provision",
+          "precedent"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "precedent je ključni pojam."
       },
       {
         "prompt": "Choose another relevant specialist term.",
         "options": [
-          "statutory",
           "purposive",
+          "statutory",
           "literalist"
         ],
-        "answer": 1,
+        "answer": 0,
         "explanation": "purposive je važan stručni izraz."
       },
       {
         "prompt": "සංකීර්ණ අදහසක් නිවැරදිව ඇගයීමට හොඳම ක්‍රමය කුමක්ද?",
         "options": [
-          "Consider context, evidence and speaker intention",
           "Rely on the dictionary alone",
+          "Consider context, evidence and speaker intention",
           "Ignore alternative interpretations"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "සන්දර්භය, සාක්ෂි සහ අරමුණ එකට සලකා බලන්න."
       },
       {
         "prompt": "අවිනිශ්චිතතාව ප්‍රකාශ කළ යුත්තේ කෙසේද?",
         "options": [
-          "Qualify the claim precisely",
           "Present an assumption as fact",
-          "Omit unknown information"
+          "Omit unknown information",
+          "Qualify the claim precisely"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "නිශ්චිත සීමා දැක්වීම C2 මට්ටමේ වැදගත් කුසලතාවකි."
       }
     ]
@@ -470,11 +470,11 @@ export const ENGLISH_C2_LESSONS_11_20 = [
       {
         "prompt": "සංකීර්ණ අදහසක් නිවැරදිව ඇගයීමට හොඳම ක්‍රමය කුමක්ද?",
         "options": [
-          "Consider context, evidence and speaker intention",
           "Rely on the dictionary alone",
-          "Ignore alternative interpretations"
+          "Ignore alternative interpretations",
+          "Consider context, evidence and speaker intention"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "සන්දර්භය, සාක්ෂි සහ අරමුණ එකට සලකා බලන්න."
       },
       {
@@ -603,31 +603,31 @@ export const ENGLISH_C2_LESSONS_11_20 = [
       "audio": "Triangulation reduces reliance on a single method. The meta-analysis reports substantial heterogeneity. The conclusion remains robust under alternative specifications. The synthesis should preserve disagreements rather than conceal them.",
       "reading": "ට්ර්ඉඇන්ග්අල්ඇෂන් ර්එඩ්අක්එස් ර්එල්ඉඇන්ක්එ ඔන් ඇ ස්ඉන්ග්ල්එ ම්එත්ඔඩ්. ත්එ ම්එට්ඇ-ඇන්ඇල්යිස්ඉස් ර්එප්ඔර්ට්ස් ස්අබ්ස්ට්ඇන්ට්ඉඇල් හ්එට්එර්ඔග්එන්එඉට්යි. ත්එ ක්ඔන්ක්ල්අස්ඉඔන් ර්එම්ඇඉන්ස් ර්ඔබ්අස්ට් අන්ඩ්එර් ඇල්ට්එර්න්ඇට්ඉව්එ ස්ප්එක්ඉෆ්ඉක්ඇෂන්ස්. ත්එ ස්යින්ත්එස්ඉස් ෂ්ඔඅල්ඩ් ප්ර්එස්එර්ව්එ ඩ්ඉස්ඇග්ර්එඑම්එන්ට්ස් ර්ඇත්එර් ත්ඇන් ක්ඔන්ක්එඇල් ත්එම්.",
       "options": [
-        "බහු මූලාශ්‍ර සාක්ෂි සැසඳීම එක් ක්‍රමයක් මත පමණක් රඳා සිටීම අඩු කරයි. අධ්‍යයන එකතුවේ විශ්ලේෂණය සැලකිය යුතු විෂමතාවක් වාර්තා කරයි.",
         "සන්දර්භය කිසිසේත් වැදගත් නොවේ.",
+        "බහු මූලාශ්‍ර සාක්ෂි සැසඳීම එක් ක්‍රමයක් මත පමණක් රඳා සිටීම අඩු කරයි. අධ්‍යයන එකතුවේ විශ්ලේෂණය සැලකිය යුතු විෂමතාවක් වාර්තා කරයි.",
         "එක් අර්ථකථනයක් පමණක් සැමවිටම නිවැරදිය."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Which concept is central to this lesson?",
         "options": [
-          "triangulation",
           "meta-analysis",
+          "triangulation",
           "heterogeneity"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "triangulation je ključni pojam."
       },
       {
         "prompt": "Choose another relevant specialist term.",
         "options": [
           "confounding",
-          "robustness",
-          "replicability"
+          "replicability",
+          "robustness"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "robustness je važan stručni izraz."
       },
       {
@@ -643,11 +643,11 @@ export const ENGLISH_C2_LESSONS_11_20 = [
       {
         "prompt": "අවිනිශ්චිතතාව ප්‍රකාශ කළ යුත්තේ කෙසේද?",
         "options": [
-          "Qualify the claim precisely",
           "Present an assumption as fact",
+          "Qualify the claim precisely",
           "Omit unknown information"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "නිශ්චිත සීමා දැක්වීම C2 මට්ටමේ වැදගත් කුසලතාවකි."
       }
     ]
@@ -766,51 +766,51 @@ export const ENGLISH_C2_LESSONS_11_20 = [
       "audio": "Anchoring can distort later estimates. Availability bias makes vivid examples seem more common. A sound evaluation compares the claim with the base rate. Confidence should be calibrated to the quality of evidence.",
       "reading": "ඇන්ච්ඔර්ඉන්ග් ක්ඇන් ඩ්ඉස්ට්ඔර්ට් ල්ඇට්එර් එස්ට්ඉම්ඇට්එස්. ඇව්ඇඉල්ඇබ්ඉල්ඉට්යි බ්ඉඇස් ම්ඇක්එස් ව්ඉව්ඉඩ් එක්ස්ඇම්ප්ල්එස් ස්එඑම් ම්ඔර්එ ක්ඔම්ම්ඔන්. ඇ ස්ඔඅන්ඩ් එව්ඇල්අඇෂන් ක්ඔම්ප්ඇර්එස් ත්එ ක්ල්ඇඉම් ව්ඉත් ත්එ බ්ඇස්එ ර්ඇට්එ. ක්ඔන්ෆ්ඉඩ්එන්ක්එ ෂ්ඔඅල්ඩ් බ්එ ක්ඇල්ඉබ්ර්ඇට්එඩ් ට්ඔ ත්එ ක්අඇල්ඉට්යි ඔෆ් එව්ඉඩ්එන්ක්එ.",
       "options": [
-        "මුල් අගයකට බැඳීම පසුකාලීන ඇස්තමේන්තු විකෘති කළ හැකිය. මතකයට පහසුවෙන් පැමිණීමේ පක්ෂපාතීත්වය කැපී පෙනෙන උදාහරණ නිතර සිදුවන ලෙස පෙන්වයි.",
         "සන්දර්භය කිසිසේත් වැදගත් නොවේ.",
-        "එක් අර්ථකථනයක් පමණක් සැමවිටම නිවැරදිය."
+        "එක් අර්ථකථනයක් පමණක් සැමවිටම නිවැරදිය.",
+        "මුල් අගයකට බැඳීම පසුකාලීන ඇස්තමේන්තු විකෘති කළ හැකිය. මතකයට පහසුවෙන් පැමිණීමේ පක්ෂපාතීත්වය කැපී පෙනෙන උදාහරණ නිතර සිදුවන ලෙස පෙන්වයි."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Which concept is central to this lesson?",
         "options": [
-          "anchoring",
           "availability",
-          "confirmation bias"
+          "confirmation bias",
+          "anchoring"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "anchoring je ključni pojam."
       },
       {
         "prompt": "Choose another relevant specialist term.",
         "options": [
-          "heuristic",
           "base rate",
+          "heuristic",
           "salience"
         ],
-        "answer": 1,
+        "answer": 0,
         "explanation": "base rate je važan stručni izraz."
       },
       {
         "prompt": "සංකීර්ණ අදහසක් නිවැරදිව ඇගයීමට හොඳම ක්‍රමය කුමක්ද?",
         "options": [
-          "Consider context, evidence and speaker intention",
           "Rely on the dictionary alone",
+          "Consider context, evidence and speaker intention",
           "Ignore alternative interpretations"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "සන්දර්භය, සාක්ෂි සහ අරමුණ එකට සලකා බලන්න."
       },
       {
         "prompt": "අවිනිශ්චිතතාව ප්‍රකාශ කළ යුත්තේ කෙසේද?",
         "options": [
-          "Qualify the claim precisely",
           "Present an assumption as fact",
-          "Omit unknown information"
+          "Omit unknown information",
+          "Qualify the claim precisely"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "නිශ්චිත සීමා දැක්වීම C2 මට්ටමේ වැදගත් කුසලතාවකි."
       }
     ]
@@ -959,11 +959,11 @@ export const ENGLISH_C2_LESSONS_11_20 = [
       {
         "prompt": "සංකීර්ණ අදහසක් නිවැරදිව ඇගයීමට හොඳම ක්‍රමය කුමක්ද?",
         "options": [
-          "Consider context, evidence and speaker intention",
           "Rely on the dictionary alone",
-          "Ignore alternative interpretations"
+          "Ignore alternative interpretations",
+          "Consider context, evidence and speaker intention"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "සන්දර්භය, සාක්ෂි සහ අරමුණ එකට සලකා බලන්න."
       },
       {
@@ -1092,31 +1092,31 @@ export const ENGLISH_C2_LESSONS_11_20 = [
       "audio": "Mitigation reduces the force of a potentially face-threatening request. Politeness conventions differ without being arbitrary. Reciprocity shapes how offers and refusals are interpreted. The honorific signals social distance and respect.",
       "reading": "ම්ඉට්ඉග්ඇෂන් ර්එඩ්අක්එස් ත්එ ෆ්ඔර්ක්එ ඔෆ් ඇ ප්ඔට්එන්ට්ඉඇල්ල්යි ෆ්ඇක්එ-ත්ර්එඇට්එන්ඉන්ග් ර්එක්අඑස්ට්. ප්ඔල්ඉට්එන්එස්ස් ක්ඔන්ව්එන්ෂන්ස් ඩ්ඉෆ්ෆ්එර් ව්ඉත්ඔඅට් බ්එඉන්ග් ඇර්බ්ඉට්ර්ඇර්යි. ර්එක්ඉප්ර්ඔක්ඉට්යි ෂ්ඇප්එස් හ්ඔව් ඔෆ්ෆ්එර්ස් ඇන්ඩ් ර්එෆ්අස්ඇල්ස් ඇර්එ ඉන්ට්එර්ප්ර්එට්එඩ්. ත්එ හ්ඔන්ඔර්ඉෆ්ඉක් ස්ඉග්න්ඇල්ස් ස්ඔක්ඉඇල් ඩ්ඉස්ට්ඇන්ක්එ ඇන්ඩ් ර්එස්ප්එක්ට්.",
       "options": [
-        "ගෞරවයට තර්ජනය කළ හැකි ඉල්ලීමක බලපෑම මෘදු කිරීම අඩු කරයි. ආචාරශීලීත්වයේ සම්ප්‍රදායන් වෙනස් වුවත් ඒවා අහඹු නොවේ.",
         "සන්දර්භය කිසිසේත් වැදගත් නොවේ.",
+        "ගෞරවයට තර්ජනය කළ හැකි ඉල්ලීමක බලපෑම මෘදු කිරීම අඩු කරයි. ආචාරශීලීත්වයේ සම්ප්‍රදායන් වෙනස් වුවත් ඒවා අහඹු නොවේ.",
         "එක් අර්ථකථනයක් පමණක් සැමවිටම නිවැරදිය."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Which concept is central to this lesson?",
         "options": [
-          "mitigation",
           "deference",
+          "mitigation",
           "solidarity"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "mitigation je ključni pojam."
       },
       {
         "prompt": "Choose another relevant specialist term.",
         "options": [
           "imposition",
-          "reciprocity",
-          "honorific"
+          "honorific",
+          "reciprocity"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "reciprocity je važan stručni izraz."
       },
       {
@@ -1132,11 +1132,11 @@ export const ENGLISH_C2_LESSONS_11_20 = [
       {
         "prompt": "අවිනිශ්චිතතාව ප්‍රකාශ කළ යුත්තේ කෙසේද?",
         "options": [
-          "Qualify the claim precisely",
           "Present an assumption as fact",
+          "Qualify the claim precisely",
           "Omit unknown information"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "නිශ්චිත සීමා දැක්වීම C2 මට්ටමේ වැදගත් කුසලතාවකි."
       }
     ]
@@ -1255,51 +1255,51 @@ export const ENGLISH_C2_LESSONS_11_20 = [
       "audio": "The intervention must satisfy a proportionality test. Explainability alone does not guarantee accountability. Affected people need a meaningful route to contest decisions. The precautionary approach should be balanced against potential benefits.",
       "reading": "ත්එ ඉන්ට්එර්ව්එන්ෂන් ම්අස්ට් ස්ඇට්ඉස්ෆ්යි ඇ ප්ර්ඔප්ඔර්ෂන්ඇල්ඉට්යි ට්එස්ට්. එක්ස්ප්ල්ඇඉන්ඇබ්ඉල්ඉට්යි ඇල්ඔන්එ ඩ්ඔඑස් න්ඔට් ග්අඇර්ඇන්ට්එඑ ඇක්ක්ඔඅන්ට්ඇබ්ඉල්ඉට්යි. ඇෆ්ෆ්එක්ට්එඩ් ප්එඔප්ල්එ න්එඑඩ් ඇ ම්එඇන්ඉන්ග්ෆ්අල් ර්ඔඅට්එ ට්ඔ ක්ඔන්ට්එස්ට් ඩ්එක්ඉස්ඉඔන්ස්. ත්එ ප්ර්එක්ඇඅෂන්ඇර්යි ඇප්ප්ර්ඔඇච් ෂ්ඔඅල්ඩ් බ්එ බ්ඇල්ඇන්ක්එඩ් ඇග්ඇඉන්ස්ට් ප්ඔට්එන්ට්ඉඇල් බ්එන්එෆ්ඉට්ස්.",
       "options": [
-        "මැදිහත්වීම අනුපාතිකත්ව පරීක්ෂණය සපුරාලිය යුතුය. පැහැදිලි කළ හැකි බව පමණක් වගවීම සහතික නොකරයි.",
         "සන්දර්භය කිසිසේත් වැදගත් නොවේ.",
-        "එක් අර්ථකථනයක් පමණක් සැමවිටම නිවැරදිය."
+        "එක් අර්ථකථනයක් පමණක් සැමවිටම නිවැරදිය.",
+        "මැදිහත්වීම අනුපාතිකත්ව පරීක්ෂණය සපුරාලිය යුතුය. පැහැදිලි කළ හැකි බව පමණක් වගවීම සහතික නොකරයි."
       ],
-      "answer": 0
+      "answer": 2
     },
     "practice": [
       {
         "prompt": "Which concept is central to this lesson?",
         "options": [
-          "proportionality",
           "precautionary",
-          "explainability"
+          "explainability",
+          "proportionality"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "proportionality je ključni pojam."
       },
       {
         "prompt": "Choose another relevant specialist term.",
         "options": [
-          "contestability",
           "externality",
+          "contestability",
           "accountability"
         ],
-        "answer": 1,
+        "answer": 0,
         "explanation": "externality je važan stručni izraz."
       },
       {
         "prompt": "සංකීර්ණ අදහසක් නිවැරදිව ඇගයීමට හොඳම ක්‍රමය කුමක්ද?",
         "options": [
-          "Consider context, evidence and speaker intention",
           "Rely on the dictionary alone",
+          "Consider context, evidence and speaker intention",
           "Ignore alternative interpretations"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "සන්දර්භය, සාක්ෂි සහ අරමුණ එකට සලකා බලන්න."
       },
       {
         "prompt": "අවිනිශ්චිතතාව ප්‍රකාශ කළ යුත්තේ කෙසේද?",
         "options": [
-          "Qualify the claim precisely",
           "Present an assumption as fact",
-          "Omit unknown information"
+          "Omit unknown information",
+          "Qualify the claim precisely"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "නිශ්චිත සීමා දැක්වීම C2 මට්ටමේ වැදගත් කුසලතාවකි."
       }
     ]
@@ -1448,11 +1448,11 @@ export const ENGLISH_C2_LESSONS_11_20 = [
       {
         "prompt": "සංකීර්ණ අදහසක් නිවැරදිව ඇගයීමට හොඳම ක්‍රමය කුමක්ද?",
         "options": [
-          "Consider context, evidence and speaker intention",
           "Rely on the dictionary alone",
-          "Ignore alternative interpretations"
+          "Ignore alternative interpretations",
+          "Consider context, evidence and speaker intention"
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "සන්දර්භය, සාක්ෂි සහ අරමුණ එකට සලකා බලන්න."
       },
       {
@@ -1581,31 +1581,31 @@ export const ENGLISH_C2_LESSONS_11_20 = [
       "audio": "The conclusion is provisional and contingent on further evidence. Independent sources corroborate the central finding. A counterfactual comparison clarifies what the intervention changed. The final judgement acknowledges trade-offs without overstating certainty.",
       "reading": "ත්එ ක්ඔන්ක්ල්අස්ඉඔන් ඉස් ප්ර්ඔව්ඉස්ඉඔන්ඇල් ඇන්ඩ් ක්ඔන්ට්ඉන්ග්එන්ට් ඔන් ෆ්අර්ත්එර් එව්ඉඩ්එන්ක්එ. ඉන්ඩ්එප්එන්ඩ්එන්ට් ස්ඔඅර්ක්එස් ක්ඔර්ර්ඔබ්ඔර්ඇට්එ ත්එ ක්එන්ට්ර්ඇල් ෆ්ඉන්ඩ්ඉන්ග්. ඇ ක්ඔඅන්ට්එර්ෆ්ඇක්ට්අඇල් ක්ඔම්ප්ඇර්ඉස්ඔන් ක්ල්ඇර්ඉෆ්ඉඑස් ව්හ්ඇට් ත්එ ඉන්ට්එර්ව්එන්ෂන් ච්ඇන්ග්එඩ්. ත්එ ෆ්ඉන්ඇල් ජ්අඩ්ග්එම්එන්ට් ඇක්ක්න්ඔව්ල්එඩ්ග්එස් ට්ර්ඇඩ්එ-ඔෆ්ෆ්ස් ව්ඉත්ඔඅට් ඔව්එර්ස්ට්ඇට්ඉන්ග් ක්එර්ට්ඇඉන්ට්යි.",
       "options": [
-        "නිගමනය තාවකාලික වන අතර තවත් සාක්ෂි මත රඳා පවතී. ස්වාධීන මූලාශ්‍ර ප්‍රධාන සොයාගැනීම තහවුරු කරයි.",
         "සන්දර්භය කිසිසේත් වැදගත් නොවේ.",
+        "නිගමනය තාවකාලික වන අතර තවත් සාක්ෂි මත රඳා පවතී. ස්වාධීන මූලාශ්‍ර ප්‍රධාන සොයාගැනීම තහවුරු කරයි.",
         "එක් අර්ථකථනයක් පමණක් සැමවිටම නිවැරදිය."
       ],
-      "answer": 0
+      "answer": 1
     },
     "practice": [
       {
         "prompt": "Which concept is central to this lesson?",
         "options": [
-          "contingent",
           "provisional",
+          "contingent",
           "qualified"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "contingent je ključni pojam."
       },
       {
         "prompt": "Choose another relevant specialist term.",
         "options": [
           "corroborate",
-          "counterfactual",
-          "trade-off"
+          "trade-off",
+          "counterfactual"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "counterfactual je važan stručni izraz."
       },
       {
@@ -1621,11 +1621,11 @@ export const ENGLISH_C2_LESSONS_11_20 = [
       {
         "prompt": "අවිනිශ්චිතතාව ප්‍රකාශ කළ යුත්තේ කෙසේද?",
         "options": [
-          "Qualify the claim precisely",
           "Present an assumption as fact",
+          "Qualify the claim precisely",
           "Omit unknown information"
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "නිශ්චිත සීමා දැක්වීම C2 මට්ටමේ වැදගත් කුසලතාවකි."
       }
     ]
