@@ -475,6 +475,9 @@ function validateC2EditorialContent(label, lessons) {
     const examples = lesson.vocabulary.map(item => item.example.trim().toLowerCase());
     assert.equal(new Set(examples).size, examples.length,
       `${label} ${lesson.id}: repeated vocabulary examples detected in C2 lessons 1–30`);
+    const translations = lesson.vocabulary.map(item => item.translation.trim().toLowerCase());
+    assert.equal(new Set(translations).size, translations.length,
+      `${label} ${lesson.id}: repeated vocabulary translations detected in C2 lessons 1–30`);
     if (Number(lesson.id.match(/l(\d+)$/u)?.[1]) <= 20) {
       for (const line of lesson.dialogue) {
         assert.ok(line.reading && /[\u0D80-\u0DFF]/u.test(line.reading),
