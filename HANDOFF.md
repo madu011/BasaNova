@@ -1310,3 +1310,16 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 
 ### Next exact task
 - Continue C2 editorial repair in lessons 21–50: remove repeated vocabulary example sentences within each lesson and replace them with term-specific, topic-contextual examples and accurate Sinhala translations. Then compare paired Serbian/English lesson titles, objectives, vocabulary meanings and assessment coverage for semantic parity. Preserve lesson IDs and progress keys; do not add duplicate lessons or start builds.
+
+
+## 2026-11-22 — C2 lessons 21–30 vocabulary-example repair and parity scan
+
+- Repaired the four reused vocabulary example sentences in each of C2 lessons 21–30 for both Serbian and English: 40 duplicate cards per language received distinct, term-focused example sentences. Added corresponding Sinhala translations that refer to each card's actual Sinhala meaning.
+- Static source checks after the commits confirm 10 lessons and 80 vocabulary cards per language in this batch, with zero repeated example sentences and zero repeated Sinhala translations within any lesson. Lesson IDs, ordering and progress keys were unchanged.
+- Extended `scripts/content-qa.mjs` so C2 editorial validation now covers vocabulary example and translation uniqueness across lessons 1–30, while the existing dialogue uniqueness/pronunciation checks remain scoped to lessons 1–20. The QA script was inspected after editing but **not executed**.
+- Paired-track review across lessons 21–50 confirms both languages have 4 practice questions and a listening task in every paired lesson. Six Sinhala vocabulary-meaning differences still need editorial resolution: lessons 21 (concordance/sample terminology), 22 (rematic information), 23 (stress pattern), 24 (cultural adaptation), 28 (accountability), and 40 (interpreting lag). Some are wording variants; lesson 21 includes a potentially substantive term mismatch between Serbian `uzorak` (“sample”) and English `sampling frame`, so do not force-match without reviewing the actual headwords.
+- Commits: Serbian C2 21–30 example repair `85aea9cfdfdad8f1e77b97ca0a9722927722c2f8`, Sinhala translation refinement `69b793eed52e1f546688b485a000062b8ebf9a0a`; English C2 21–30 example repair `28e21a34b707c5bc8a87664d3a6c754f27697e2c`, translation refinement `c9a00042b2b8b522b09382a031e6e1bb81c85693`; QA extension through lesson 30 `f7f4035b663ba6a576c53dd92b146f2721f29771`, translation uniqueness check `52d188a7bb75762617bda47e2e6bd9ddd3b70e16`.
+- No Node QA execution, CI, Expo build, APK, installation or Android device test was performed. Sinhala pronunciation and translation quality still require fluent-speaker review.
+
+### Next exact task
+- Continue the same source-only duplicate-example and translation audit for C2 lessons 31–50 in both languages. Replace only verified repeats, preserve IDs/progress keys, and then resolve the six paired Sinhala-meaning differences identified above by checking each target-language headword against its intended concept. Do not start builds.
