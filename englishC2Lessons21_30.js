@@ -39,28 +39,28 @@ export const ENGLISH_C2_LESSONS_21_30 = [
         "reading": "සැම්ප්ලිං ෆ්‍රේම්",
         "meaning": "නියැදි රාමුව",
         "example": "The analysis uses “sampling frame” as a precise technical concept.",
-        "translation": "මෙම පාඩමේදී “නියැදි රාමුව” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
+        "translation": "විශ්ලේෂණයේදී “නියැදි රාමුව” යන සංකල්පය නිශ්චිත විෂයමය පදයක් ලෙස භාවිත කරයි."
       },
       {
         "word": "metadata",
         "reading": "මෙටාඩේටා",
         "meaning": "පාරදත්ත",
         "example": "The authors explain what they mean by “metadata”.",
-        "translation": "මෙම පාඩමේදී “පාරදත්ත” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
+        "translation": "කතුවරු “පාරදත්ත” යන සංකල්පයෙන් අදහස් කරන්නේ කුමක්දැයි පැහැදිලි කරති."
       },
       {
         "word": "annotation",
         "reading": "ඇනටේෂන්",
         "meaning": "සටහන් සලකුණු කිරීම",
         "example": "Understanding “annotation” helps readers interpret the findings.",
-        "translation": "මෙම පාඩමේදී “සටහන් සලකුණු කිරීම” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
+        "translation": "“සටහන් සලකුණු කිරීම” තේරුම් ගැනීම ප්‍රතිඵල අර්ථකථනයට උපකාරී වේ."
       },
       {
         "word": "representativeness",
         "reading": "රෙප්‍රසෙන්ටටිව්නස්",
         "meaning": "නියෝජනීය බව",
         "example": "The final report uses “representativeness” consistently.",
-        "translation": "මෙම පාඩමේදී “නියෝජනීය බව” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
+        "translation": "අවසාන වාර්තාවේ “නියෝජනීය බව” යන සංකල්පය එකම අර්ථයෙන් භාවිත කළ යුතුය."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -202,28 +202,28 @@ export const ENGLISH_C2_LESSONS_21_30 = [
         "reading": "කෝහීෂන්",
         "meaning": "පෙළ සම්බන්ධතාව",
         "example": "The analysis uses “cohesion” as a precise technical concept.",
-        "translation": "මෙම පාඩමේදී “පෙළ සම්බන්ධතාව” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
+        "translation": "විශ්ලේෂණයේදී “පෙළ සම්බන්ධතාව” යන සංකල්පය නිශ්චිත විෂයමය පදයක් ලෙස භාවිත කරයි."
       },
       {
         "word": "coherence",
         "reading": "කෝහිරන්ස්",
         "meaning": "අර්ථමය එකමුතුව",
         "example": "The authors explain what they mean by “coherence”.",
-        "translation": "මෙම පාඩමේදී “අර්ථමය එකමුතුව” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
+        "translation": "කතුවරු “අර්ථමය එකමුතුව” යන සංකල්පයෙන් අදහස් කරන්නේ කුමක්දැයි පැහැදිලි කරති."
       },
       {
         "word": "discourse marker",
         "reading": "ඩිස්කෝර්ස් මාකර්",
         "meaning": "සංවාද සලකුණ",
         "example": "Understanding “discourse marker” helps readers interpret the findings.",
-        "translation": "මෙම පාඩමේදී “සංවාද සලකුණ” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
+        "translation": "“සංවාද සලකුණ” තේරුම් ගැනීම ප්‍රතිඵල අර්ථකථනයට උපකාරී වේ."
       },
       {
         "word": "presupposition",
         "reading": "ප්‍රීසප්පසිෂන්",
         "meaning": "පූර්ව උපකල්පනය",
         "example": "The final report uses “presupposition” consistently.",
-        "translation": "මෙම පාඩමේදී “පූර්ව උපකල්පනය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
+        "translation": "අවසාන වාර්තාවේ “පූර්ව උපකල්පනය” යන සංකල්පය එකම අර්ථයෙන් භාවිත කළ යුතුය."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -365,28 +365,28 @@ export const ENGLISH_C2_LESSONS_21_30 = [
         "reading": "රිඩක්ෂන්",
         "meaning": "ශබ්ද කෙටිවීම",
         "example": "The analysis uses “reduction” as a precise technical concept.",
-        "translation": "මෙම පාඩමේදී “ශබ්ද කෙටිවීම” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
+        "translation": "විශ්ලේෂණයේදී “ශබ්ද කෙටිවීම” යන සංකල්පය නිශ්චිත විෂයමය පදයක් ලෙස භාවිත කරයි."
       },
       {
         "word": "allophone",
         "reading": "ඇලෆෝන්",
         "meaning": "ශබ්ද ප්‍රභේදය",
         "example": "The authors explain what they mean by “allophone”.",
-        "translation": "මෙම පාඩමේදී “ශබ්ද ප්‍රභේදය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
+        "translation": "කතුවරු “ශබ්ද ප්‍රභේදය” යන සංකල්පයෙන් අදහස් කරන්නේ කුමක්දැයි පැහැදිලි කරති."
       },
       {
         "word": "phonotactics",
         "reading": "ෆොනටැක්ටික්ස්",
         "meaning": "ශබ්ද සංයෝජන නීති",
         "example": "Understanding “phonotactics” helps readers interpret the findings.",
-        "translation": "මෙම පාඩමේදී “ශබ්ද සංයෝජන නීති” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
+        "translation": "“ශබ්ද සංයෝජන නීති” තේරුම් ගැනීම ප්‍රතිඵල අර්ථකථනයට උපකාරී වේ."
       },
       {
         "word": "rhythmic",
         "reading": "රිද්මික්",
         "meaning": "රිද්මයට අදාළ",
         "example": "The final report uses “rhythmic” consistently.",
-        "translation": "මෙම පාඩමේදී “රිද්මයට අදාළ” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
+        "translation": "අවසාන වාර්තාවේ “රිද්මයට අදාළ” යන සංකල්පය එකම අර්ථයෙන් භාවිත කළ යුතුය."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -528,28 +528,28 @@ export const ENGLISH_C2_LESSONS_21_30 = [
         "reading": "පැරටෙක්ස්ට්",
         "meaning": "අමතර පාඨමය තොරතුරු",
         "example": "The analysis uses “paratext” as a precise technical concept.",
-        "translation": "මෙම පාඩමේදී “අමතර පාඨමය තොරතුරු” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
+        "translation": "විශ්ලේෂණයේදී “අමතර පාඨමය තොරතුරු” යන සංකල්පය නිශ්චිත විෂයමය පදයක් ලෙස භාවිත කරයි."
       },
       {
         "word": "pragmatic",
         "reading": "ප්‍රැග්මැටික්",
         "meaning": "ප්‍රායෝගික අර්ථ සම්බන්ධ",
         "example": "The authors explain what they mean by “pragmatic”.",
-        "translation": "මෙම පාඩමේදී “ප්‍රායෝගික අර්ථ සම්බන්ධ” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
+        "translation": "කතුවරු “ප්‍රායෝගික අර්ථ සම්බන්ධ” යන සංකල්පයෙන් අදහස් කරන්නේ කුමක්දැයි පැහැදිලි කරති."
       },
       {
         "word": "cultural code",
         "reading": "කල්චරල් කෝඩ්",
         "meaning": "සංස්කෘතික සංකේත පද්ධතිය",
         "example": "Understanding “cultural code” helps readers interpret the findings.",
-        "translation": "මෙම පාඩමේදී “සංස්කෘතික සංකේත පද්ධතිය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
+        "translation": "“සංස්කෘතික සංකේත පද්ධතිය” තේරුම් ගැනීම ප්‍රතිඵල අර්ථකථනයට උපකාරී වේ."
       },
       {
         "word": "compensation",
         "reading": "කොම්පෙන්සේෂන්",
         "meaning": "වෙනත් තැනකින් අර්ථ පිරවීම",
         "example": "The final report uses “compensation” consistently.",
-        "translation": "මෙම පාඩමේදී “වෙනත් තැනකින් අර්ථ පිරවීම” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
+        "translation": "අවසාන වාර්තාවේ “වෙනත් තැනකින් අර්ථ පිරවීම” යන සංකල්පය එකම අර්ථයෙන් භාවිත කළ යුතුය."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -691,28 +691,28 @@ export const ENGLISH_C2_LESSONS_21_30 = [
         "reading": "ටෙස්ටිමනි",
         "meaning": "සාක්ෂි ප්‍රකාශය",
         "example": "The analysis uses “testimony” as a precise technical concept.",
-        "translation": "මෙම පාඩමේදී “සාක්ෂි ප්‍රකාශය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
+        "translation": "විශ්ලේෂණයේදී “සාක්ෂි ප්‍රකාශය” යන සංකල්පය නිශ්චිත විෂයමය පදයක් ලෙස භාවිත කරයි."
       },
       {
         "word": "archival",
         "reading": "ආර්කයිවල්",
         "meaning": "ලේඛනාගාර සම්බන්ධ",
         "example": "The authors explain what they mean by “archival”.",
-        "translation": "මෙම පාඩමේදී “ලේඛනාගාර සම්බන්ධ” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
+        "translation": "කතුවරු “ලේඛනාගාර සම්බන්ධ” යන සංකල්පයෙන් අදහස් කරන්නේ කුමක්දැයි පැහැදිලි කරති."
       },
       {
         "word": "silencing",
         "reading": "සයිලන්සිං",
         "meaning": "හිතාමතා නොකීම",
         "example": "Understanding “silencing” helps readers interpret the findings.",
-        "translation": "මෙම පාඩමේදී “හිතාමතා නොකීම” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
+        "translation": "“හිතාමතා නොකීම” තේරුම් ගැනීම ප්‍රතිඵල අර්ථකථනයට උපකාරී වේ."
       },
       {
         "word": "legacy",
         "reading": "ලෙගසි",
         "meaning": "උරුමය",
         "example": "The final report uses “legacy” consistently.",
-        "translation": "මෙම පාඩමේදී “උරුමය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
+        "translation": "අවසාන වාර්තාවේ “උරුමය” යන සංකල්පය එකම අර්ථයෙන් භාවිත කළ යුතුය."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -854,28 +854,28 @@ export const ENGLISH_C2_LESSONS_21_30 = [
         "reading": "සර්කම්ස්ටැන්ෂල් එවිඩන්ස්",
         "meaning": "වක්‍ර සාක්ෂිය",
         "example": "The analysis uses “circumstantial evidence” as a precise technical concept.",
-        "translation": "මෙම පාඩමේදී “වක්‍ර සාක්ෂිය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
+        "translation": "විශ්ලේෂණයේදී “වක්‍ර සාක්ෂිය” යන සංකල්පය නිශ්චිත විෂයමය පදයක් ලෙස භාවිත කරයි."
       },
       {
         "word": "hedging",
         "reading": "හෙජිං",
         "meaning": "ප්‍රකාශය සීමා කිරීම",
         "example": "The authors explain what they mean by “hedging”.",
-        "translation": "මෙම පාඩමේදී “ප්‍රකාශය සීමා කිරීම” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
+        "translation": "කතුවරු “ප්‍රකාශය සීමා කිරීම” යන සංකල්පයෙන් අදහස් කරන්නේ කුමක්දැයි පැහැදිලි කරති."
       },
       {
         "word": "reliability",
         "reading": "රිලයබිලිටි",
         "meaning": "විශ්වසනීයත්වය",
         "example": "Understanding “reliability” helps readers interpret the findings.",
-        "translation": "මෙම පාඩමේදී “විශ්වසනීයත්වය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
+        "translation": "“විශ්වසනීයත්වය” තේරුම් ගැනීම ප්‍රතිඵල අර්ථකථනයට උපකාරී වේ."
       },
       {
         "word": "inference",
         "reading": "ඉන්ෆරන්ස්",
         "meaning": "නිගමනාත්මක අනුමානය",
         "example": "The final report uses “inference” consistently.",
-        "translation": "මෙම පාඩමේදී “නිගමනාත්මක අනුමානය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
+        "translation": "අවසාන වාර්තාවේ “නිගමනාත්මක අනුමානය” යන සංකල්පය එකම අර්ථයෙන් භාවිත කළ යුතුය."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -1017,28 +1017,28 @@ export const ENGLISH_C2_LESSONS_21_30 = [
         "reading": "එඩිටෝරියල් ඩිසිෂන්",
         "meaning": "සංස්කාරක තීරණය",
         "example": "The analysis uses “editorial decision” as a precise technical concept.",
-        "translation": "මෙම පාඩමේදී “සංස්කාරක තීරණය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
+        "translation": "විශ්ලේෂණයේදී “සංස්කාරක තීරණය” යන සංකල්පය නිශ්චිත විෂයමය පදයක් ලෙස භාවිත කරයි."
       },
       {
         "word": "revision",
         "reading": "රිවිෂන්",
         "meaning": "සංශෝධනය",
         "example": "The authors explain what they mean by “revision”.",
-        "translation": "මෙම පාඩමේදී “සංශෝධනය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
+        "translation": "කතුවරු “සංශෝධනය” යන සංකල්පයෙන් අදහස් කරන්නේ කුමක්දැයි පැහැදිලි කරති."
       },
       {
         "word": "manuscript",
         "reading": "මැනියුස්ක්‍රිප්ට්",
         "meaning": "අත්පිටපත",
         "example": "Understanding “manuscript” helps readers interpret the findings.",
-        "translation": "මෙම පාඩමේදී “අත්පිටපත” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
+        "translation": "“අත්පිටපත” තේරුම් ගැනීම ප්‍රතිඵල අර්ථකථනයට උපකාරී වේ."
       },
       {
         "word": "rationale",
         "reading": "රැෂනල්",
         "meaning": "හේතු දැක්වීම",
         "example": "The final report uses “rationale” consistently.",
-        "translation": "මෙම පාඩමේදී “හේතු දැක්වීම” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
+        "translation": "අවසාන වාර්තාවේ “හේතු දැක්වීම” යන සංකල්පය එකම අර්ථයෙන් භාවිත කළ යුතුය."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -1180,28 +1180,28 @@ export const ENGLISH_C2_LESSONS_21_30 = [
         "reading": "රෙකන්සිලියේෂන්",
         "meaning": "සමගි කිරීම",
         "example": "The analysis uses “reconciliation” as a precise technical concept.",
-        "translation": "මෙම පාඩමේදී “සමගි කිරීම” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
+        "translation": "විශ්ලේෂණයේදී “සමගි කිරීම” යන සංකල්පය නිශ්චිත විෂයමය පදයක් ලෙස භාවිත කරයි."
       },
       {
         "word": "accountability",
         "reading": "අකවුන්ටබිලිටි",
         "meaning": "වගවීම",
         "example": "The authors explain what they mean by “accountability”.",
-        "translation": "මෙම පාඩමේදී “වගවීම” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
+        "translation": "කතුවරු “වගවීම” යන සංකල්පයෙන් අදහස් කරන්නේ කුමක්දැයි පැහැදිලි කරති."
       },
       {
         "word": "sensitivity",
         "reading": "සෙන්සිටිවිටි",
         "meaning": "සංවේදී බව",
         "example": "Understanding “sensitivity” helps readers interpret the findings.",
-        "translation": "මෙම පාඩමේදී “සංවේදී බව” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
+        "translation": "“සංවේදී බව” තේරුම් ගැනීම ප්‍රතිඵල අර්ථකථනයට උපකාරී වේ."
       },
       {
         "word": "mediation",
         "reading": "මීඩියේෂන්",
         "meaning": "මැදිහත් වීම",
         "example": "The final report uses “mediation” consistently.",
-        "translation": "මෙම පාඩමේදී “මැදිහත් වීම” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
+        "translation": "අවසාන වාර්තාවේ “මැදිහත් වීම” යන සංකල්පය එකම අර්ථයෙන් භාවිත කළ යුතුය."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -1343,28 +1343,28 @@ export const ENGLISH_C2_LESSONS_21_30 = [
         "reading": "විටිසිසම්",
         "meaning": "වචන ක්‍රීඩාව",
         "example": "The analysis uses “witticism” as a precise technical concept.",
-        "translation": "මෙම පාඩමේදී “වචන ක්‍රීඩාව” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
+        "translation": "විශ්ලේෂණයේදී “වචන ක්‍රීඩාව” යන සංකල්පය නිශ්චිත විෂයමය පදයක් ලෙස භාවිත කරයි."
       },
       {
         "word": "double entendre",
         "reading": "ඩබල් ඔන්ටොන්ඩර්",
         "meaning": "ද්විඅර්ථ ප්‍රකාශය",
         "example": "The authors explain what they mean by “double entendre”.",
-        "translation": "මෙම පාඩමේදී “ද්විඅර්ථ ප්‍රකාශය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
+        "translation": "කතුවරු “ද්විඅර්ථ ප්‍රකාශය” යන සංකල්පයෙන් අදහස් කරන්නේ කුමක්දැයි පැහැදිලි කරති."
       },
       {
         "word": "meta-humour",
         "reading": "මෙටා-හියුමර්",
         "meaning": "හාස්‍යය ගැන හාස්‍යය",
         "example": "Understanding “meta-humour” helps readers interpret the findings.",
-        "translation": "මෙම පාඩමේදී “හාස්‍යය ගැන හාස්‍යය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
+        "translation": "“හාස්‍යය ගැන හාස්‍යය” තේරුම් ගැනීම ප්‍රතිඵල අර්ථකථනයට උපකාරී වේ."
       },
       {
         "word": "cultural cue",
         "reading": "කල්චරල් කියු",
         "meaning": "සංස්කෘතික ඉඟි අගය",
         "example": "The final report uses “cultural cue” consistently.",
-        "translation": "මෙම පාඩමේදී “සංස්කෘතික ඉඟි අගය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
+        "translation": "අවසාන වාර්තාවේ “සංස්කෘතික ඉඟි අගය” යන සංකල්පය එකම අර්ථයෙන් භාවිත කළ යුතුය."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -1506,28 +1506,28 @@ export const ENGLISH_C2_LESSONS_21_30 = [
         "reading": "ලිමිටේෂන්",
         "meaning": "සීමාව",
         "example": "The analysis uses “limitation” as a precise technical concept.",
-        "translation": "මෙම පාඩමේදී “සීමාව” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
+        "translation": "විශ්ලේෂණයේදී “සීමාව” යන සංකල්පය නිශ්චිත විෂයමය පදයක් ලෙස භාවිත කරයි."
       },
       {
         "word": "contribution",
         "reading": "කන්ට්‍රිබියුෂන්",
         "meaning": "දායකත්වය",
         "example": "The authors explain what they mean by “contribution”.",
-        "translation": "මෙම පාඩමේදී “දායකත්වය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
+        "translation": "කතුවරු “දායකත්වය” යන සංකල්පයෙන් අදහස් කරන්නේ කුමක්දැයි පැහැදිලි කරති."
       },
       {
         "word": "defence",
         "reading": "ඩිෆෙන්ස්",
         "meaning": "තර්ක ආරක්ෂා කිරීම",
         "example": "Understanding “defence” helps readers interpret the findings.",
-        "translation": "මෙම පාඩමේදී “තර්ක ආරක්ෂා කිරීම” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
+        "translation": "“තර්ක ආරක්ෂා කිරීම” තේරුම් ගැනීම ප්‍රතිඵල අර්ථකථනයට උපකාරී වේ."
       },
       {
         "word": "implication",
         "reading": "ඉම්ප්ලිකේෂන්",
         "meaning": "ප්‍රතිවිපාකය",
         "example": "The final report uses “implication” consistently.",
-        "translation": "මෙම පාඩමේදී “ප්‍රතිවිපාකය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
+        "translation": "අවසාන වාර්තාවේ “ප්‍රතිවිපාකය” යන සංකල්පය එකම අර්ථයෙන් භාවිත කළ යුතුය."
       }
     ],
     "grammarTitle": "Grammar and style",
