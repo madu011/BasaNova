@@ -38,29 +38,29 @@ export const SERBIAN_C2_LESSONS_21_30 = [
         "word": "uzorak",
         "reading": "උසොරක්",
         "meaning": "නියැදිය",
-        "example": "Korpus obuhvata različite registre i žanrove.",
-        "translation": "භාෂා දත්ත සමුදාය විවිධ භාෂා රෙජිස්ටර් හා ප්‍රභේද ආවරණය කරයි."
+        "example": "U analizi se izraz „uzorak“ koristi kao precizan stručni pojam.",
+        "translation": "මෙම පාඩමේදී “නියැදිය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "metapodaci",
         "reading": "මෙටාපොදාට්සි",
         "meaning": "පාරදත්ත",
-        "example": "Konkordancija prikazuje reč u neposrednom kontekstu.",
-        "translation": "සන්දර්භ ලැයිස්තුවක් වචනය ආසන්න සන්දර්භය තුළ පෙන්වයි."
+        "example": "Autori objašnjavaju šta podrazumevaju pod pojmom „metapodaci“.",
+        "translation": "මෙම පාඩමේදී “පාරදත්ත” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "anotacija",
         "reading": "අනොතාට්සියා",
         "meaning": "සටහන් සලකුණු කිරීම",
-        "example": "Učestalost sama po sebi ne dokazuje značaj.",
-        "translation": "සංඛ්‍යාතය පමණක් වැදගත්කම සනාථ නොකරයි."
+        "example": "Razumevanje izraza „anotacija“ pomaže u tumačenju rezultata.",
+        "translation": "මෙම පාඩමේදී “සටහන් සලකුණු කිරීම” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "reprezentativnost",
         "reading": "රෙප්‍රෙසෙන්තාතිව්නොස්ට්",
         "meaning": "නියෝජනීය බව",
-        "example": "Rezultate treba tumačiti prema sastavu uzorka.",
-        "translation": "ප්‍රතිඵල නියැදියේ සංයුතිය අනුව අර්ථකථනය කළ යුතුය."
+        "example": "U završnom izveštaju pojam „reprezentativnost“ treba upotrebiti dosledno.",
+        "translation": "මෙම පාඩමේදී “නියෝජනීය බව” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       }
     ],
     "grammarTitle": "Gramatika i stil",
@@ -201,29 +201,29 @@ export const SERBIAN_C2_LESSONS_21_30 = [
         "word": "kohezija",
         "reading": "කොහේසියා",
         "meaning": "පෙළ සම්බන්ධතාව",
-        "example": "Međutim, zaključak ne sledi iz prethodne premise.",
-        "translation": "කෙසේවෙතත්, නිගමනය පෙර පූර්වකල්පනයෙන් අනුගමනය නොවේ."
+        "example": "U analizi se izraz „kohezija“ koristi kao precizan stručni pojam.",
+        "translation": "මෙම පාඩමේදී “පෙළ සම්බන්ධතාව” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "koherencija",
         "reading": "කොහෙරෙන්ට්සියා",
         "meaning": "අර්ථමය එකමුතුව",
-        "example": "Upravo taj podatak menja fokus rasprave.",
-        "translation": "එම දත්තයම සාකච්ඡාවේ අවධානය වෙනස් කරයි."
+        "example": "Autori objašnjavaju šta podrazumevaju pod pojmom „koherencija“.",
+        "translation": "මෙම පාඩමේදී “අර්ථමය එකමුතුව” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "diskursni marker",
         "reading": "ඩිස්කුර්ස්නි මාකර්",
         "meaning": "සංවාද සලකුණ",
-        "example": "Marker povezuje iskaz sa širim diskursom.",
-        "translation": "සලකුණ ප්‍රකාශය පුළුල් සංවාදයට සම්බන්ධ කරයි."
+        "example": "Razumevanje izraza „diskursni marker“ pomaže u tumačenju rezultata.",
+        "translation": "මෙම පාඩමේදී “සංවාද සලකුණ” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "presupozicija",
         "reading": "ප්‍රෙසූපොසිට්සියා",
         "meaning": "පූර්ව උපකල්පනය",
-        "example": "Presupozicija ostaje neizrečena, ali aktivna.",
-        "translation": "පූර්ව උපකල්පනය නොකියා තිබුණත් ක්‍රියාත්මකව පවතී."
+        "example": "U završnom izveštaju pojam „presupozicija“ treba upotrebiti dosledno.",
+        "translation": "මෙම පාඩමේදී “පූර්ව උපකල්පනය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       }
     ],
     "grammarTitle": "Gramatika i stil",
@@ -364,29 +364,29 @@ export const SERBIAN_C2_LESSONS_21_30 = [
         "word": "redukcija",
         "reading": "රෙදුක්ට්සියා",
         "meaning": "ශබ්ද කෙටිවීම",
-        "example": "Intonacija može signalizirati rezervu bez eksplicitnih reči.",
-        "translation": "වචන පැහැදිලිව නොකියා ස්වරය සැකය පෙන්විය හැක."
+        "example": "U analizi se izraz „redukcija“ koristi kao precizan stručni pojam.",
+        "translation": "මෙම පාඩමේදී “ශබ්ද කෙටිවීම” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "alofon",
         "reading": "අලොෆොන්",
         "meaning": "ශබ්ද ප්‍රභේදය",
-        "example": "Akcenat razlikuje informacijski fokus.",
-        "translation": "උච්චාරණ බලය තොරතුරු අවධානය වෙනස් කරයි."
+        "example": "Autori objašnjavaju šta podrazumevaju pod pojmom „alofon“.",
+        "translation": "මෙම පාඩමේදී “ශබ්ද ප්‍රභේදය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "fonotaktika",
         "reading": "ෆොනොතාක්තිකා",
         "meaning": "ශබ්ද සංයෝජන නීති",
-        "example": "Govorni ritam zavisi od jezika i registra.",
-        "translation": "කථන රිද්මය භාෂාව හා රෙජිස්ටර් අනුව වෙනස් වේ."
+        "example": "Razumevanje izraza „fonotaktika“ pomaže u tumačenju rezultata.",
+        "translation": "මෙම පාඩමේදී “ශබ්ද සංයෝජන නීති” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "ritmički",
         "reading": "රිත්මිච්කි",
         "meaning": "රිද්මයට අදාළ",
-        "example": "Fonotaktika ograničava moguće glasovne nizove.",
-        "translation": "ශබ්ද සංයෝජන නීති හැකි ශබ්ද අනුපිළිවෙළ සීමා කරයි."
+        "example": "U završnom izveštaju pojam „ritmički“ treba upotrebiti dosledno.",
+        "translation": "මෙම පාඩමේදී “රිද්මයට අදාළ” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       }
     ],
     "grammarTitle": "Gramatika i stil",
@@ -527,29 +527,29 @@ export const SERBIAN_C2_LESSONS_21_30 = [
         "word": "paratekst",
         "reading": "පාරාතෙක්ස්ත්",
         "meaning": "අමතර පාඨමය තොරතුරු",
-        "example": "Doslovan prevod gubi kulturnu aluziju.",
-        "translation": "වචනාර්ථ පරිවර්තනය සංස්කෘතික ඉඟිය අහිමි කරයි."
+        "example": "U analizi se izraz „paratekst“ koristi kao precizan stručni pojam.",
+        "translation": "මෙම පාඩමේදී “අමතර පාඨමය තොරතුරු” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "pragmatički",
         "reading": "ප්‍රග්මාතිච්කි",
         "meaning": "ප්‍රායෝගික අර්ථ සම්බන්ධ",
-        "example": "Prevodilac bira strategiju prema publici.",
-        "translation": "පරිවර්තකයා පාඨකයා අනුව උපාය තෝරයි."
+        "example": "Autori objašnjavaju šta podrazumevaju pod pojmom „pragmatički“.",
+        "translation": "මෙම පාඩමේදී “ප්‍රායෝගික අර්ථ සම්බන්ධ” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "kulturni kod",
         "reading": "කුල්තුර්නි කොද්",
         "meaning": "සංස්කෘතික සංකේත පද්ධතිය",
-        "example": "Fusnota može sačuvati istorijski kontekst.",
-        "translation": "පාදසටහනක් ඉතිහාස සන්දර්භය රැකිය හැක."
+        "example": "Razumevanje izraza „kulturni kod“ pomaže u tumačenju rezultata.",
+        "translation": "මෙම පාඩමේදී “සංස්කෘතික සංකේත පද්ධතිය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "kompenzacija",
         "reading": "කොම්පෙන්සාට්සියා",
         "meaning": "වෙනත් තැනකින් අර්ථ පිරවීම",
-        "example": "Kompenzacija nadoknađuje izgubljeni efekat.",
-        "translation": "වෙනත් තැනක අර්ථ පිරවීමෙන් නැතිවූ බලපෑම පුරවයි."
+        "example": "U završnom izveštaju pojam „kompenzacija“ treba upotrebiti dosledno.",
+        "translation": "මෙම පාඩමේදී “වෙනත් තැනකින් අර්ථ පිරවීම” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       }
     ],
     "grammarTitle": "Gramatika i stil",
@@ -690,29 +690,29 @@ export const SERBIAN_C2_LESSONS_21_30 = [
         "word": "svedočanstvo",
         "reading": "ස්වෙදොචාන්ස්ත්වො",
         "meaning": "සාක්ෂි ප්‍රකාශය",
-        "example": "Javni narativ često pojednostavljuje složenu prošlost.",
-        "translation": "පොදු කථනය සංකීර්ණ අතීතය බොහෝවිට සරල කරයි."
+        "example": "U analizi se izraz „svedočanstvo“ koristi kao precizan stručni pojam.",
+        "translation": "මෙම පාඩමේදී “සාක්ෂි ප්‍රකාශය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "arhivski",
         "reading": "අර්හිව්ස්කි",
         "meaning": "ලේඛනාගාර සම්බන්ධ",
-        "example": "Arhivski izvori zahtevaju kritičko čitanje.",
-        "translation": "ලේඛනාගාර මූලාශ්‍ර විවේචනාත්මකව කියවිය යුතුය."
+        "example": "Autori objašnjavaju šta podrazumevaju pod pojmom „arhivski“.",
+        "translation": "මෙම පාඩමේදී “ලේඛනාගාර සම්බන්ධ” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "prećutkivanje",
         "reading": "ප්‍රෙචුත්කිවාන්යේ",
         "meaning": "හිතාමතා නොකීම",
-        "example": "Prećutkivanje je takođe oblik selekcije.",
-        "translation": "නොකියා හැරීමත් තේරීමේ ආකාරයකි."
+        "example": "Razumevanje izraza „prećutkivanje“ pomaže u tumačenju rezultata.",
+        "translation": "මෙම පාඩමේදී “හිතාමතා නොකීම” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "nasleđe",
         "reading": "නාස්ලෙජේ",
         "meaning": "උරුමය",
-        "example": "Sećanje se menja kroz generacije.",
-        "translation": "පරම්පරා හරහා මතකය වෙනස් වේ."
+        "example": "U završnom izveštaju pojam „nasleđe“ treba upotrebiti dosledno.",
+        "translation": "මෙම පාඩමේදී “උරුමය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       }
     ],
     "grammarTitle": "Gramatika i stil",
@@ -853,29 +853,29 @@ export const SERBIAN_C2_LESSONS_21_30 = [
         "word": "posredan dokaz",
         "reading": "පොස්‍රෙදාන් දොකාස්",
         "meaning": "වක්‍ර සාක්ෂිය",
-        "example": "Prema dostupnim podacima, hipoteza je verovatna.",
-        "translation": "ලබාගත හැකි දත්ත අනුව උපකල්පනය සම්භාව්‍යය."
+        "example": "U analizi se izraz „posredan dokaz“ koristi kao precizan stručni pojam.",
+        "translation": "මෙම පාඩමේදී “වක්‍ර සාක්ෂිය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "ograđivanje",
         "reading": "ඔග්‍රාජිවාන්යේ",
         "meaning": "ප්‍රකාශය සීමා කිරීම",
-        "example": "Navodno ne znači da je tvrdnja potvrđena.",
-        "translation": "“කියන පරිදි” යන්නෙන් ප්‍රකාශය තහවුරු වූ බව අදහස් නොවේ."
+        "example": "Autori objašnjavaju šta podrazumevaju pod pojmom „ograđivanje“.",
+        "translation": "මෙම පාඩමේදී “ප්‍රකාශය සීමා කිරීම” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "pouzdanost",
         "reading": "පොඋස්දානොස්ත්",
         "meaning": "විශ්වසනීයත්වය",
-        "example": "Zaključak je izveden iz posrednih dokaza.",
-        "translation": "නිගමනය වක්‍ර සාක්ෂිවලින් ලබාගෙන ඇත."
+        "example": "Razumevanje izraza „pouzdanost“ pomaže u tumačenju rezultata.",
+        "translation": "මෙම පාඩමේදී “විශ්වසනීයත්වය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "inferencija",
         "reading": "ඉන්ෆෙරෙන්ට්සියා",
         "meaning": "නිගමනාත්මක අනුමානය",
-        "example": "Govornik jasno ograničava stepen sigurnosti.",
-        "translation": "කථිකයා නිශ්චිතතා මට්ටම පැහැදිලිව සීමා කරයි."
+        "example": "U završnom izveštaju pojam „inferencija“ treba upotrebiti dosledno.",
+        "translation": "මෙම පාඩමේදී “නිගමනාත්මක අනුමානය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       }
     ],
     "grammarTitle": "Gramatika i stil",
@@ -1016,29 +1016,29 @@ export const SERBIAN_C2_LESSONS_21_30 = [
         "word": "urednička odluka",
         "reading": "උරෙද්නිච්කා ඔඩ්ලුකා",
         "meaning": "සංස්කාරක තීරණය",
-        "example": "Recenzija treba da razlikuje nalaze od tumačenja.",
-        "translation": "සමාලෝචනය සොයාගැනීම් හා අර්ථකථන වෙන් කළ යුතුය."
+        "example": "U analizi se izraz „urednička odluka“ koristi kao precizan stručni pojam.",
+        "translation": "මෙම පාඩමේදී “සංස්කාරක තීරණය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "revizija",
         "reading": "රෙවිසියා",
         "meaning": "සංශෝධනය",
-        "example": "Metodološko ograničenje ne poništava svaki rezultat.",
-        "translation": "ක්‍රමවේද සීමාවක් සියලු ප්‍රතිඵල අහෝසි නොකරයි."
+        "example": "Autori objašnjavaju šta podrazumevaju pod pojmom „revizija“.",
+        "translation": "මෙම පාඩමේදී “සංශෝධනය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "manuskript",
         "reading": "මානුස්ක්‍රිප්ත්",
         "meaning": "අත්පිටපත",
-        "example": "Urednik traži jasnije obrazloženje doprinosa.",
-        "translation": "සංස්කාරක දායකත්වය වඩා පැහැදිලිව දැක්වීමට ඉල්ලයි."
+        "example": "Razumevanje izraza „manuskript“ pomaže u tumačenju rezultata.",
+        "translation": "මෙම පාඩමේදී “අත්පිටපත” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "obrazloženje",
         "reading": "ඔබ්‍රාස්ලොෂෙන්යේ",
         "meaning": "හේතු දැක්වීම",
-        "example": "Autori su odgovorili na svaku primedbu.",
-        "translation": "කතුවරු සෑම විවේචනයකටම පිළිතුරු දුන්හ."
+        "example": "U završnom izveštaju pojam „obrazloženje“ treba upotrebiti dosledno.",
+        "translation": "මෙම පාඩමේදී “හේතු දැක්වීම” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       }
     ],
     "grammarTitle": "Gramatika i stil",
@@ -1179,29 +1179,29 @@ export const SERBIAN_C2_LESSONS_21_30 = [
         "word": "pomirenje",
         "reading": "පොමිරෙන්යේ",
         "meaning": "සමගි කිරීම",
-        "example": "Precizan jezik ne sme prikriti odgovornost.",
-        "translation": "නිවැරදි භාෂාව වගකීම සඟවා නොදැමිය යුතුය."
+        "example": "U analizi se izraz „pomirenje“ koristi kao precizan stručni pojam.",
+        "translation": "මෙම පාඩමේදී “සමගි කිරීම” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "odgovornost",
         "reading": "ඔද්ගොවොර්නොස්ත්",
         "meaning": "වගකීම",
-        "example": "Deeskalacija počinje priznavanjem štete.",
-        "translation": "උණුසුම අඩු කිරීම හානිය පිළිගැනීමෙන් ආරම්භ වේ."
+        "example": "Autori objašnjavaju šta podrazumevaju pod pojmom „odgovornost“.",
+        "translation": "මෙම පාඩමේදී “වගකීම” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "osetljivost",
         "reading": "ඔසෙත්ලිවොස්ත්",
         "meaning": "සංවේදී බව",
-        "example": "Atribucija mora počivati na proverljivim činjenicama.",
-        "translation": "වගකීම ආරෝපණය කළ යුත්තේ පරීක්ෂා කළ හැකි කරුණු මතය."
+        "example": "Razumevanje izraza „osetljivost“ pomaže u tumačenju rezultata.",
+        "translation": "මෙම පාඩමේදී “සංවේදී බව” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "posredovanje",
         "reading": "පොස්‍රෙදොවාන්යේ",
         "meaning": "මැදිහත් වීම",
-        "example": "Dijalog ne zahteva odricanje od principa.",
-        "translation": "සංවාදයට මූලධර්ම අත්හැරීම අවශ්‍ය නොවේ."
+        "example": "U završnom izveštaju pojam „posredovanje“ treba upotrebiti dosledno.",
+        "translation": "මෙම පාඩමේදී “මැදිහත් වීම” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       }
     ],
     "grammarTitle": "Gramatika i stil",
@@ -1342,29 +1342,29 @@ export const SERBIAN_C2_LESSONS_21_30 = [
         "word": "dosetka",
         "reading": "දොසෙත්කා",
         "meaning": "වචන ක්‍රීඩාව",
-        "example": "Satira kritikuje instituciju kroz preuveličavanje.",
-        "translation": "අතිශයෝක්තියෙන් ආයතනයක් විවේචනය කිරීම උපහාසයයි."
+        "example": "U analizi se izraz „dosetka“ koristi kao precizan stručni pojam.",
+        "translation": "මෙම පාඩමේදී “වචන ක්‍රීඩාව” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "dvosmislica",
         "reading": "ද්වොස්මිස්ලිට්සා",
         "meaning": "ද්විඅර්ථ ප්‍රකාශය",
-        "example": "Parodija zavisi od prepoznatljivog obrasca.",
-        "translation": "අනුකරණ උපහාසය හඳුනාගත හැකි රටාවක් මත රඳා පවතී."
+        "example": "Autori objašnjavaju šta podrazumevaju pod pojmom „dvosmislica“.",
+        "translation": "මෙම පාඩමේදී “ද්විඅර්ථ ප්‍රකාශය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "meta-humor",
         "reading": "මෙතා-හුමොර්",
         "meaning": "හාස්‍යය ගැන හාස්‍යය",
-        "example": "Aluzija može nestati u doslovnom prevodu.",
-        "translation": "වචනාර්ථ පරිවර්තනයේදී සංස්කෘතික ඉඟිය නැති විය හැක."
+        "example": "Razumevanje izraza „meta-humor“ pomaže u tumačenju rezultata.",
+        "translation": "මෙම පාඩමේදී “හාස්‍යය ගැන හාස්‍යය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "kulturni predznak",
         "reading": "කුල්තුර්නි ප්‍රෙද්ස්නාක්",
         "meaning": "සංස්කෘතික ඉඟි අගය",
-        "example": "Prevodilac ponekad mora promeniti šalu.",
-        "translation": "පරිවර්තකයා සමහරවිට විහිළුව වෙනස් කළ යුතුය."
+        "example": "U završnom izveštaju pojam „kulturni predznak“ treba upotrebiti dosledno.",
+        "translation": "මෙම පාඩමේදී “සංස්කෘතික ඉඟි අගය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       }
     ],
     "grammarTitle": "Gramatika i stil",
@@ -1505,29 +1505,29 @@ export const SERBIAN_C2_LESSONS_21_30 = [
         "word": "ograničenje",
         "reading": "ඔග්‍රානිචෙන්යේ",
         "meaning": "සීමාව",
-        "example": "Teza mora biti jasna i proverljiva.",
-        "translation": "මූලික තර්කය පැහැදිලි හා පරීක්ෂා කළ හැකි විය යුතුය."
+        "example": "U analizi se izraz „ograničenje“ koristi kao precizan stručni pojam.",
+        "translation": "මෙම පාඩමේදී “සීමාව” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "doprinos",
         "reading": "දොප්‍රිනොස්",
         "meaning": "දායකත්වය",
-        "example": "Triangulacija povećava uverljivost nalaza.",
-        "translation": "බහු මූලාශ්‍ර සසඳා බැලීම සොයාගැනීමේ විශ්වසනීයත්වය වැඩි කරයි."
+        "example": "Autori objašnjavaju šta podrazumevaju pod pojmom „doprinos“.",
+        "translation": "මෙම පාඩමේදී “දායකත්වය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "odbrana",
         "reading": "ඔද්බ්‍රානා",
         "meaning": "තර්ක ආරක්ෂා කිරීම",
-        "example": "Ograničenja treba navesti pre zaključka.",
-        "translation": "නිගමනයට පෙර සීමාවන් සඳහන් කළ යුතුය."
+        "example": "Razumevanje izraza „odbrana“ pomaže u tumačenju rezultata.",
+        "translation": "මෙම පාඩමේදී “තර්ක ආරක්ෂා කිරීම” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "implikacija",
         "reading": "ඉම්ප්ලිකාට්සියා",
         "meaning": "ප්‍රතිවිපාකය",
-        "example": "Odbrana odgovara na najjače prigovore.",
-        "translation": "තර්ක ආරක්ෂාව ශක්තිමත්ම විවේචනවලට පිළිතුරු දෙයි."
+        "example": "U završnom izveštaju pojam „implikacija“ treba upotrebiti dosledno.",
+        "translation": "මෙම පාඩමේදී “ප්‍රතිවිපාකය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       }
     ],
     "grammarTitle": "Gramatika i stil",
