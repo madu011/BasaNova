@@ -38,29 +38,29 @@ export const ENGLISH_C2_LESSONS_21_30 = [
         "word": "sampling frame",
         "reading": "සැම්ප්ලිං ෆ්‍රේම්",
         "meaning": "නියැදි රාමුව",
-        "example": "The corpus spans several registers and genres.",
-        "translation": "දත්ත සමුදාය විවිධ භාෂා රෙජිස්ටර් හා ප්‍රභේද ආවරණය කරයි."
+        "example": "The analysis uses “sampling frame” as a precise technical concept.",
+        "translation": "මෙම පාඩමේදී “නියැදි රාමුව” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "metadata",
         "reading": "මෙටාඩේටා",
         "meaning": "පාරදත්ත",
-        "example": "A concordance places each token in context.",
-        "translation": "සන්දර්භ ලැයිස්තුවක් එක් එක් පදය සන්දර්භය තුළ පෙන්වයි."
+        "example": "The authors explain what they mean by “metadata”.",
+        "translation": "මෙම පාඩමේදී “පාරදත්ත” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "annotation",
         "reading": "ඇනටේෂන්",
         "meaning": "සටහන් සලකුණු කිරීම",
-        "example": "Frequency alone does not establish significance.",
-        "translation": "සංඛ්‍යාතය පමණක් වැදගත්කම සනාථ නොකරයි."
+        "example": "Understanding “annotation” helps readers interpret the findings.",
+        "translation": "මෙම පාඩමේදී “සටහන් සලකුණු කිරීම” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "representativeness",
         "reading": "රෙප්‍රසෙන්ටටිව්නස්",
         "meaning": "නියෝජනීය බව",
-        "example": "Results must be interpreted against the sampling frame.",
-        "translation": "ප්‍රතිඵල නියැදි රාමුව අනුව අර්ථකථනය කළ යුතුය."
+        "example": "The final report uses “representativeness” consistently.",
+        "translation": "මෙම පාඩමේදී “නියෝජනීය බව” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -201,29 +201,29 @@ export const ENGLISH_C2_LESSONS_21_30 = [
         "word": "cohesion",
         "reading": "කෝහීෂන්",
         "meaning": "පෙළ සම්බන්ධතාව",
-        "example": "Nevertheless, the conclusion does not follow from the premise.",
-        "translation": "කෙසේවෙතත්, නිගමනය පූර්වකල්පනයෙන් අනුගමනය නොවේ."
+        "example": "The analysis uses “cohesion” as a precise technical concept.",
+        "translation": "මෙම පාඩමේදී “පෙළ සම්බන්ධතාව” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "coherence",
         "reading": "කෝහිරන්ස්",
         "meaning": "අර්ථමය එකමුතුව",
-        "example": "That particular datum shifts the focus of the debate.",
-        "translation": "එම දත්තය සාකච්ඡාවේ අවධානය වෙනස් කරයි."
+        "example": "The authors explain what they mean by “coherence”.",
+        "translation": "මෙම පාඩමේදී “අර්ථමය එකමුතුව” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "discourse marker",
         "reading": "ඩිස්කෝර්ස් මාකර්",
         "meaning": "සංවාද සලකුණ",
-        "example": "The marker links the utterance to the wider discourse.",
-        "translation": "සලකුණ ප්‍රකාශය පුළුල් සංවාදයට සම්බන්ධ කරයි."
+        "example": "Understanding “discourse marker” helps readers interpret the findings.",
+        "translation": "මෙම පාඩමේදී “සංවාද සලකුණ” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "presupposition",
         "reading": "ප්‍රීසප්පසිෂන්",
         "meaning": "පූර්ව උපකල්පනය",
-        "example": "The presupposition remains unspoken yet active.",
-        "translation": "පූර්ව උපකල්පනය නොකියා තිබුණත් ක්‍රියාත්මකව පවතී."
+        "example": "The final report uses “presupposition” consistently.",
+        "translation": "මෙම පාඩමේදී “පූර්ව උපකල්පනය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -364,29 +364,29 @@ export const ENGLISH_C2_LESSONS_21_30 = [
         "word": "reduction",
         "reading": "රිඩක්ෂන්",
         "meaning": "ශබ්ද කෙටිවීම",
-        "example": "Intonation can signal reservation without explicit wording.",
-        "translation": "වචන පැහැදිලිව නොකියා ස්වරය සැකය පෙන්විය හැක."
+        "example": "The analysis uses “reduction” as a precise technical concept.",
+        "translation": "මෙම පාඩමේදී “ශබ්ද කෙටිවීම” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "allophone",
         "reading": "ඇලෆෝන්",
         "meaning": "ශබ්ද ප්‍රභේදය",
-        "example": "Stress distinguishes information focus.",
-        "translation": "උච්චාරණ බලය තොරතුරු අවධානය වෙනස් කරයි."
+        "example": "The authors explain what they mean by “allophone”.",
+        "translation": "මෙම පාඩමේදී “ශබ්ද ප්‍රභේදය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "phonotactics",
         "reading": "ෆොනටැක්ටික්ස්",
         "meaning": "ශබ්ද සංයෝජන නීති",
-        "example": "Speech rhythm varies across languages and registers.",
-        "translation": "කථන රිද්මය භාෂා හා රෙජිස්ටර් අනුව වෙනස් වේ."
+        "example": "Understanding “phonotactics” helps readers interpret the findings.",
+        "translation": "මෙම පාඩමේදී “ශබ්ද සංයෝජන නීති” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "rhythmic",
         "reading": "රිද්මික්",
         "meaning": "රිද්මයට අදාළ",
-        "example": "Phonotactics constrains possible sound sequences.",
-        "translation": "ශබ්ද සංයෝජන නීති හැකි ශබ්ද අනුපිළිවෙළ සීමා කරයි."
+        "example": "The final report uses “rhythmic” consistently.",
+        "translation": "මෙම පාඩමේදී “රිද්මයට අදාළ” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -527,29 +527,29 @@ export const ENGLISH_C2_LESSONS_21_30 = [
         "word": "paratext",
         "reading": "පැරටෙක්ස්ට්",
         "meaning": "අමතර පාඨමය තොරතුරු",
-        "example": "A literal rendering loses the cultural allusion.",
-        "translation": "වචනාර්ථ පරිවර්තනය සංස්කෘතික ඉඟිය අහිමි කරයි."
+        "example": "The analysis uses “paratext” as a precise technical concept.",
+        "translation": "මෙම පාඩමේදී “අමතර පාඨමය තොරතුරු” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "pragmatic",
         "reading": "ප්‍රැග්මැටික්",
         "meaning": "ප්‍රායෝගික අර්ථ සම්බන්ධ",
-        "example": "The translator selects a strategy for the audience.",
-        "translation": "පරිවර්තකයා පාඨකයා අනුව උපාය තෝරයි."
+        "example": "The authors explain what they mean by “pragmatic”.",
+        "translation": "මෙම පාඩමේදී “ප්‍රායෝගික අර්ථ සම්බන්ධ” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "cultural code",
         "reading": "කල්චරල් කෝඩ්",
         "meaning": "සංස්කෘතික සංකේත පද්ධතිය",
-        "example": "A footnote may preserve the historical context.",
-        "translation": "පාදසටහනක් ඉතිහාස සන්දර්භය රැකිය හැක."
+        "example": "Understanding “cultural code” helps readers interpret the findings.",
+        "translation": "මෙම පාඩමේදී “සංස්කෘතික සංකේත පද්ධතිය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "compensation",
         "reading": "කොම්පෙන්සේෂන්",
         "meaning": "වෙනත් තැනකින් අර්ථ පිරවීම",
-        "example": "Compensation can recover an effect elsewhere.",
-        "translation": "වෙනත් තැනකින් අර්ථ පිරවීමෙන් නැතිවූ බලපෑම පුරවයි."
+        "example": "The final report uses “compensation” consistently.",
+        "translation": "මෙම පාඩමේදී “වෙනත් තැනකින් අර්ථ පිරවීම” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -690,29 +690,29 @@ export const ENGLISH_C2_LESSONS_21_30 = [
         "word": "testimony",
         "reading": "ටෙස්ටිමනි",
         "meaning": "සාක්ෂි ප්‍රකාශය",
-        "example": "Public narratives often simplify a complex past.",
-        "translation": "පොදු කථනය සංකීර්ණ අතීතය බොහෝවිට සරල කරයි."
+        "example": "The analysis uses “testimony” as a precise technical concept.",
+        "translation": "මෙම පාඩමේදී “සාක්ෂි ප්‍රකාශය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "archival",
         "reading": "ආර්කයිවල්",
         "meaning": "ලේඛනාගාර සම්බන්ධ",
-        "example": "Archival sources require critical reading.",
-        "translation": "ලේඛනාගාර මූලාශ්‍ර විවේචනාත්මකව කියවිය යුතුය."
+        "example": "The authors explain what they mean by “archival”.",
+        "translation": "මෙම පාඩමේදී “ලේඛනාගාර සම්බන්ධ” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "silencing",
         "reading": "සයිලන්සිං",
         "meaning": "හිතාමතා නොකීම",
-        "example": "Silencing is also a form of selection.",
-        "translation": "නොකියා හැරීමත් තේරීමේ ආකාරයකි."
+        "example": "Understanding “silencing” helps readers interpret the findings.",
+        "translation": "මෙම පාඩමේදී “හිතාමතා නොකීම” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "legacy",
         "reading": "ලෙගසි",
         "meaning": "උරුමය",
-        "example": "Memory changes across generations.",
-        "translation": "පරම්පරා හරහා මතකය වෙනස් වේ."
+        "example": "The final report uses “legacy” consistently.",
+        "translation": "මෙම පාඩමේදී “උරුමය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -853,29 +853,29 @@ export const ENGLISH_C2_LESSONS_21_30 = [
         "word": "circumstantial evidence",
         "reading": "සර්කම්ස්ටැන්ෂල් එවිඩන්ස්",
         "meaning": "වක්‍ර සාක්ෂිය",
-        "example": "On the available evidence, the hypothesis is plausible.",
-        "translation": "ලබාගත හැකි සාක්ෂි අනුව උපකල්පනය සම්භාව්‍යය."
+        "example": "The analysis uses “circumstantial evidence” as a precise technical concept.",
+        "translation": "මෙම පාඩමේදී “වක්‍ර සාක්ෂිය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "hedging",
         "reading": "හෙජිං",
         "meaning": "ප්‍රකාශය සීමා කිරීම",
-        "example": "Allegedly does not mean that a claim is verified.",
-        "translation": "“කියන පරිදි” යන්නෙන් ප්‍රකාශය තහවුරු වූ බව අදහස් නොවේ."
+        "example": "The authors explain what they mean by “hedging”.",
+        "translation": "මෙම පාඩමේදී “ප්‍රකාශය සීමා කිරීම” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "reliability",
         "reading": "රිලයබිලිටි",
         "meaning": "විශ්වසනීයත්වය",
-        "example": "The conclusion is inferred from indirect evidence.",
-        "translation": "නිගමනය වක්‍ර සාක්ෂිවලින් ලබාගෙන ඇත."
+        "example": "Understanding “reliability” helps readers interpret the findings.",
+        "translation": "මෙම පාඩමේදී “විශ්වසනීයත්වය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "inference",
         "reading": "ඉන්ෆරන්ස්",
         "meaning": "නිගමනාත්මක අනුමානය",
-        "example": "The speaker explicitly qualifies the degree of certainty.",
-        "translation": "කථිකයා නිශ්චිතතා මට්ටම පැහැදිලිව සීමා කරයි."
+        "example": "The final report uses “inference” consistently.",
+        "translation": "මෙම පාඩමේදී “නිගමනාත්මක අනුමානය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -1016,29 +1016,29 @@ export const ENGLISH_C2_LESSONS_21_30 = [
         "word": "editorial decision",
         "reading": "එඩිටෝරියල් ඩිසිෂන්",
         "meaning": "සංස්කාරක තීරණය",
-        "example": "A review should distinguish findings from interpretation.",
-        "translation": "සමාලෝචනය සොයාගැනීම් හා අර්ථකථන වෙන් කළ යුතුය."
+        "example": "The analysis uses “editorial decision” as a precise technical concept.",
+        "translation": "මෙම පාඩමේදී “සංස්කාරක තීරණය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "revision",
         "reading": "රිවිෂන්",
         "meaning": "සංශෝධනය",
-        "example": "A methodological limitation does not invalidate every result.",
-        "translation": "ක්‍රමවේද සීමාවක් සියලු ප්‍රතිඵල අහෝසි නොකරයි."
+        "example": "The authors explain what they mean by “revision”.",
+        "translation": "මෙම පාඩමේදී “සංශෝධනය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "manuscript",
         "reading": "මැනියුස්ක්‍රිප්ට්",
         "meaning": "අත්පිටපත",
-        "example": "The editor requests a clearer rationale for the contribution.",
-        "translation": "සංස්කාරක දායකත්වය වඩා පැහැදිලිව දැක්වීමට ඉල්ලයි."
+        "example": "Understanding “manuscript” helps readers interpret the findings.",
+        "translation": "මෙම පාඩමේදී “අත්පිටපත” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "rationale",
         "reading": "රැෂනල්",
         "meaning": "හේතු දැක්වීම",
-        "example": "The authors addressed every comment.",
-        "translation": "කතුවරු සෑම විවේචනයකටම පිළිතුරු දුන්හ."
+        "example": "The final report uses “rationale” consistently.",
+        "translation": "මෙම පාඩමේදී “හේතු දැක්වීම” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -1179,29 +1179,29 @@ export const ENGLISH_C2_LESSONS_21_30 = [
         "word": "reconciliation",
         "reading": "රෙකන්සිලියේෂන්",
         "meaning": "සමගි කිරීම",
-        "example": "Precise language must not conceal accountability.",
-        "translation": "නිවැරදි භාෂාව වගකීම සඟවා නොදැමිය යුතුය."
+        "example": "The analysis uses “reconciliation” as a precise technical concept.",
+        "translation": "මෙම පාඩමේදී “සමගි කිරීම” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "accountability",
         "reading": "අකවුන්ටබිලිටි",
         "meaning": "වගවීම",
-        "example": "De-escalation begins by acknowledging harm.",
-        "translation": "උණුසුම අඩු කිරීම හානිය පිළිගැනීමෙන් ආරම්භ වේ."
+        "example": "The authors explain what they mean by “accountability”.",
+        "translation": "මෙම පාඩමේදී “වගවීම” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "sensitivity",
         "reading": "සෙන්සිටිවිටි",
         "meaning": "සංවේදී බව",
-        "example": "Attribution must rest on verifiable facts.",
-        "translation": "වගකීම ආරෝපණය කළ යුත්තේ පරීක්ෂා කළ හැකි කරුණු මතය."
+        "example": "Understanding “sensitivity” helps readers interpret the findings.",
+        "translation": "මෙම පාඩමේදී “සංවේදී බව” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "mediation",
         "reading": "මීඩියේෂන්",
         "meaning": "මැදිහත් වීම",
-        "example": "Dialogue does not require abandoning principles.",
-        "translation": "සංවාදයට මූලධර්ම අත්හැරීම අවශ්‍ය නොවේ."
+        "example": "The final report uses “mediation” consistently.",
+        "translation": "මෙම පාඩමේදී “මැදිහත් වීම” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -1342,29 +1342,29 @@ export const ENGLISH_C2_LESSONS_21_30 = [
         "word": "witticism",
         "reading": "විටිසිසම්",
         "meaning": "වචන ක්‍රීඩාව",
-        "example": "Satire criticizes an institution through exaggeration.",
-        "translation": "අතිශයෝක්තියෙන් ආයතනයක් විවේචනය කිරීම උපහාසයයි."
+        "example": "The analysis uses “witticism” as a precise technical concept.",
+        "translation": "මෙම පාඩමේදී “වචන ක්‍රීඩාව” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "double entendre",
         "reading": "ඩබල් ඔන්ටොන්ඩර්",
         "meaning": "ද්විඅර්ථ ප්‍රකාශය",
-        "example": "Parody depends on a recognizable pattern.",
-        "translation": "අනුකරණ උපහාසය හඳුනාගත හැකි රටාවක් මත රඳා පවතී."
+        "example": "The authors explain what they mean by “double entendre”.",
+        "translation": "මෙම පාඩමේදී “ද්විඅර්ථ ප්‍රකාශය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "meta-humour",
         "reading": "මෙටා-හියුමර්",
         "meaning": "හාස්‍යය ගැන හාස්‍යය",
-        "example": "An allusion may disappear in literal translation.",
-        "translation": "වචනාර්ථ පරිවර්තනයේදී සංස්කෘතික ඉඟිය නැති විය හැක."
+        "example": "Understanding “meta-humour” helps readers interpret the findings.",
+        "translation": "මෙම පාඩමේදී “හාස්‍යය ගැන හාස්‍යය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "cultural cue",
         "reading": "කල්චරල් කියු",
         "meaning": "සංස්කෘතික ඉඟි අගය",
-        "example": "A translator may need to replace the joke.",
-        "translation": "පරිවර්තකයා සමහරවිට විහිළුව වෙනස් කළ යුතුය."
+        "example": "The final report uses “cultural cue” consistently.",
+        "translation": "මෙම පාඩමේදී “සංස්කෘතික ඉඟි අගය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -1505,29 +1505,29 @@ export const ENGLISH_C2_LESSONS_21_30 = [
         "word": "limitation",
         "reading": "ලිමිටේෂන්",
         "meaning": "සීමාව",
-        "example": "The thesis must be clear and testable.",
-        "translation": "මූලික තර්කය පැහැදිලි හා පරීක්ෂා කළ හැකි විය යුතුය."
+        "example": "The analysis uses “limitation” as a precise technical concept.",
+        "translation": "මෙම පාඩමේදී “සීමාව” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "contribution",
         "reading": "කන්ට්‍රිබියුෂන්",
         "meaning": "දායකත්වය",
-        "example": "Triangulation strengthens the credibility of findings.",
-        "translation": "බහු මූලාශ්‍ර සසඳා බැලීම සොයාගැනීමේ විශ්වසනීයත්වය වැඩි කරයි."
+        "example": "The authors explain what they mean by “contribution”.",
+        "translation": "මෙම පාඩමේදී “දායකත්වය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "defence",
         "reading": "ඩිෆෙන්ස්",
         "meaning": "තර්ක ආරක්ෂා කිරීම",
-        "example": "Limitations should be stated before the conclusion.",
-        "translation": "නිගමනයට පෙර සීමාවන් සඳහන් කළ යුතුය."
+        "example": "Understanding “defence” helps readers interpret the findings.",
+        "translation": "මෙම පාඩමේදී “තර්ක ආරක්ෂා කිරීම” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       },
       {
         "word": "implication",
         "reading": "ඉම්ප්ලිකේෂන්",
         "meaning": "ප්‍රතිවිපාකය",
-        "example": "A defence responds to the strongest objections.",
-        "translation": "තර්ක ආරක්ෂාව ශක්තිමත්ම විවේචනවලට පිළිතුරු දෙයි."
+        "example": "The final report uses “implication” consistently.",
+        "translation": "මෙම පාඩමේදී “ප්‍රතිවිපාකය” යන සංකල්පය නිවැරදිව භාවිත කිරීම වැදගත්ය."
       }
     ],
     "grammarTitle": "Grammar and style",
