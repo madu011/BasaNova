@@ -4,7 +4,7 @@ export const ENGLISH_C2_LESSONS_11_20 = [
     "id": "en-c2-l11",
     "unit": "C2 · Philosophy of language and conceptual precision",
     "title": "C2 · 11 · Philosophy of language and conceptual precision",
-    "objective": "භාෂා සංකේත, යොමු වස්තු සහ සංකල්පමය නිර්වචන අතර වෙනස්කම් විග්‍රහ කරන්න.",
+    "objective": "Analyse the relationship between implicit meaning, context and the speaker's intention.",
     "vocabulary": [
       {
         "word": "referent",
@@ -167,7 +167,7 @@ export const ENGLISH_C2_LESSONS_11_20 = [
     "id": "en-c2-l12",
     "unit": "C2 · Legal interpretation and competing canons",
     "title": "C2 · 12 · Legal interpretation and competing canons",
-    "objective": "නීතිමය පාඨයක් අර්ථකථනය කිරීමේදී තරඟකාරී මූලධර්ම සාධාරණීකරණය කරන්න.",
+    "objective": "Identify irony, tone and social relationships, then choose an appropriate response.",
     "vocabulary": [
       {
         "word": "precedent",
@@ -330,7 +330,7 @@ export const ENGLISH_C2_LESSONS_11_20 = [
     "id": "en-c2-l13",
     "unit": "C2 · Diplomatic protocol and strategic ambiguity",
     "title": "C2 · 13 · Diplomatic protocol and strategic ambiguity",
-    "objective": "රාජ්‍යතාන්ත්‍රික භාෂාවේ වක්‍ර අර්ථ සහ උපායමාර්ගික අපැහැදිලි බව හඳුනාගන්න.",
+    "objective": "Analyse differences among dialects, social language patterns and the standard language.",
     "vocabulary": [
       {
         "word": "communiqué",
@@ -493,7 +493,7 @@ export const ENGLISH_C2_LESSONS_11_20 = [
     "id": "en-c2-l14",
     "unit": "C2 · Academic synthesis across conflicting evidence",
     "title": "C2 · 14 · Academic synthesis across conflicting evidence",
-    "objective": "විරුද්ධ පර්යේෂණ සාක්ෂි විචාරශීලීව ඒකාබද්ධ කරන්න.",
+    "objective": "Present a complex idea persuasively using rhetorical framing and counterarguments.",
     "vocabulary": [
       {
         "word": "triangulation",
@@ -656,7 +656,7 @@ export const ENGLISH_C2_LESSONS_11_20 = [
     "id": "en-c2-l15",
     "unit": "C2 · Cognitive bias and argument evaluation",
     "title": "C2 · 15 · Cognitive bias and argument evaluation",
-    "objective": "තර්ක ඇගයීමේදී සංජානන පක්ෂපාතීත්වයන් හඳුනාගෙන පාලනය කරන්න.",
+    "objective": "Distinguish subtle differences in the meaning and use of near-synonyms precisely.",
     "vocabulary": [
       {
         "word": "anchoring",
@@ -819,7 +819,7 @@ export const ENGLISH_C2_LESSONS_11_20 = [
     "id": "en-c2-l16",
     "unit": "C2 · Semantic change and historical linguistics",
     "title": "C2 · 16 · Semantic change and historical linguistics",
-    "objective": "වචනවල ඉතිහාසය සහ කාලයත් සමඟ වෙනස් වූ අර්ථ විග්‍රහ කරන්න.",
+    "objective": "Identify allusions and intertextual connections between literary works.",
     "vocabulary": [
       {
         "word": "semantic shift",
@@ -982,7 +982,7 @@ export const ENGLISH_C2_LESSONS_11_20 = [
     "id": "en-c2-l17",
     "unit": "C2 · Cross-cultural pragmatics and politeness systems",
     "title": "C2 · 17 · Cross-cultural pragmatics and politeness systems",
-    "objective": "විවිධ සංස්කෘතික ආචාරශීලී රටා අනුව භාෂාව සකස් කරන්න.",
+    "objective": "Examine manuscripts and alternative text versions, and justify editorial decisions.",
     "vocabulary": [
       {
         "word": "mitigation",
@@ -1145,7 +1145,7 @@ export const ENGLISH_C2_LESSONS_11_20 = [
     "id": "en-c2-l18",
     "unit": "C2 · Ethical reasoning in emerging technologies",
     "title": "C2 · 18 · Ethical reasoning in emerging technologies",
-    "objective": "නව තාක්ෂණයන් පිළිබඳ සදාචාරාත්මක තීරණවල සීමා සහ වගවීම සලකා බලන්න.",
+    "objective": "Medi​ate conflictual discussions impartially while preserving the dignity of everyone involved.",
     "vocabulary": [
       {
         "word": "proportionality",
@@ -1308,7 +1308,7 @@ export const ENGLISH_C2_LESSONS_11_20 = [
     "id": "en-c2-l19",
     "unit": "C2 · Expert dialogue and integrated C2 performance",
     "title": "C2 · 19 · Expert dialogue and integrated C2 performance",
-    "objective": "විශේෂඥ සංවාදයකදී සංකීර්ණ අදහස් සම්බන්ධ කර පැහැදිලි නිගමනයක් ගොඩනගන්න.",
+    "objective": "Translate meaning naturally while preserving the cultural context.",
     "vocabulary": [
       {
         "word": "dialectic",
@@ -1471,7 +1471,7 @@ export const ENGLISH_C2_LESSONS_11_20 = [
     "id": "en-c2-l20",
     "unit": "C2 · C2 capstone: nuanced position under uncertainty",
     "title": "C2 · 20 · C2 capstone: nuanced position under uncertainty",
-    "objective": "අවිනිශ්චිත සාක්ෂි යටතේ සීමා දක්වා ඇති නිරවද්‍ය ස්ථාවරයක් ඉදිරිපත් කරන්න.",
+    "objective": "Connect different viewpoints and present a precise, coherent conclusion.",
     "vocabulary": [
       {
         "word": "contingent",
