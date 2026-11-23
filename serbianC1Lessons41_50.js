@@ -1525,9 +1525,9 @@ export const SERBIAN_C1_LESSONS_41_50 = [
       {
         "word": "obrazloženje",
         "reading": "ඔබ්ර්අස්ල්ඔෂ්එන්ය්එ",
-        "meaning": "තර්කානුකූල පැහැදිලි කිරීම",
-        "example": "U zaključku se jasno navodi kako se „obrazloženje“ primenjuje.",
-        "translation": "නිගමනයේදී “තර්කානුකූල පැහැදිලි කිරීම” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
+        "meaning": "හේතු දැක්වීම",
+        "example": "Odluka mora sadržati jasno obrazloženje.",
+        "translation": "තීරණයට පැහැදිලි හේතු දැක්වීමක් ඇතුළත් විය යුතුය."
       }
     ],
     "grammarTitle": "Gramatika i stil",
