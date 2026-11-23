@@ -468,3 +468,7 @@ Fixed a cross-language favourites collision by storing Serbian and English saved
 
 ### Course-switch state isolation — 2026-11-23
 Course selection now clears language-specific vocabulary search/alphabet/favourites filters and resets the expanded A1 lesson and dialogue state, preventing Serbian-only filters from leaking into English and vice versa. Static regression checks were added; runtime verification remains pending. See `HANDOFF.md`.
+
+
+### Local progress restore safeguards — 2026-11-23
+Restored answer/check maps, learned-word lists, daily mission indexes and XP are now sanitized and bounded before entering app state. This is defensive source-level hardening only; actual AsyncStorage migration and Android device behavior still require runtime testing. See `HANDOFF.md`.
