@@ -409,6 +409,19 @@ const b1Assessments = await loadModule("b1FinalExams.js");
 const assessmentAlignment = await loadModule("assessmentAlignment.js");
 const b1SerbianLessons = await loadModule("serbianB1Lessons.js");
 const b2SerbianLessons = await loadModule("serbianB2Lessons.js");
+function validateSerbianB2Pronunciation(lessons) {
+  assert.equal(lessons.length, 50, "Serbian B2: expected 50 lessons");
+  for (const lesson of lessons) {
+    for (const [index, item] of lesson.vocabulary.entries()) {
+      assert.ok(hasSinhala(item.reading) && !hasForeignScript(item.reading), `${lesson.id} vocabulary ${index + 1}: reading must be clean Sinhala script`);
+      if (item.exampleReading) {
+        assert.ok(hasSinhala(item.exampleReading) && !hasForeignScript(item.exampleReading), `${lesson.id} vocabulary ${index + 1}: exampleReading must be clean Sinhala script`);
+      }
+    }
+  }
+}
+validateSerbianB2Pronunciation(b2SerbianLessons.SERBIAN_B2_LESSONS);
+
 validateQuestions("Serbian B1 mixed revision", b1Assessments.SERBIAN_B1_MIXED_REVISION, 10);
 validateQuestions("English B1 mixed revision", b1Assessments.ENGLISH_B1_MIXED_REVISION, 10);
 validateQuestions("Serbian B1 final exam", b1Assessments.SERBIAN_B1_FINAL_EXAM, 20);
