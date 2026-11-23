@@ -1323,3 +1323,41 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 
 ### Next exact task
 - Continue the same source-only duplicate-example and translation audit for C2 lessons 31–50 in both languages. Replace only verified repeats, preserve IDs/progress keys, and then resolve the six paired Sinhala-meaning differences identified above by checking each target-language headword against its intended concept. Do not start builds.
+
+
+## 2026-11-23 — Consolidated C1/C2 editorial repair, paired-track checks and A1 source fixes
+
+### Completed source changes
+- C2 lessons 21–30: repaired repeated vocabulary examples/translations and aligned Sinhala meanings for sampling frame, concordance, rheme, stress pattern, domestication and accountability.
+- C2 lessons 31–50: replaced repeated vocabulary examples/translations in all 20 lessons of both languages (80 vocabulary cards per language).
+- C1 lessons 11–50: replaced repeated vocabulary examples/translations across 40 lessons in both languages (160 cards per language).
+- C1/C2 paired review: Serbian and English now have matching Sinhala vocabulary meanings in all 50 paired lessons per level; practice-question counts and listening-task coverage match. Restored Serbian/English learning objectives where Sinhala had accidentally been placed in the objective fields. Corrected the C1 lesson 18 mixed-script title/objective and C1 lesson 50 objective.
+- C2 lessons 1–20: restored Serbian and English target-language objectives and removed one stray zero-width character from an English objective.
+- A1 source corrections: added the missing comma before 10 Serbian A1 listeningPractice properties and removed an extra quote from the English A1 lesson 11 ID.
+- Extended scripts/content-qa.mjs to validate C1/C2: exactly 50 lessons per track, unique vocabulary examples/translations, paired lesson IDs, equal vocabulary/practice/listening coverage, equal Sinhala meanings and target-language objectives without Sinhala text.
+- Both GitHub Actions workflows remain manual-only (workflow_dispatch); ordinary commits do not automatically start CI or builds.
+
+### Source-level verification performed
+- Static checks of all C1/C2 lesson batches: each Serbian/English track has 50 lessons and 400 vocabulary entries; no missing or repeated vocabulary example/translation fields were found within any C1/C2 lesson.
+- C1 paired scan: 50/50 lesson pairs have matching Sinhala vocabulary meanings and matching practice/listening coverage.
+- C2 paired scan: 50/50 lesson pairs have matching Sinhala vocabulary meanings and matching practice/listening coverage after the final terminology correction.
+- Lesson IDs, lesson order, progress keys and course counts were preserved.
+- The updated QA script was inspected but not executed. No Node QA, CI, Expo export, Android build, APK generation, installation or device test was performed. A1 source fixes have not yet been validated by an actual module import.
+
+### Remaining issues — do not mark release-ready
+- A2, B1 and B2 still need a consolidated example/translation audit. Source scans found reused example/translation content in multiple lessons; A2 and B2 have particularly broad repeated patterns. Correct only after matching each replacement example and Sinhala translation to its vocabulary headword.
+- Serbian B2 vocabulary reading fields currently contain Cyrillic spellings rather than the app's expected Sinhala-script pronunciation guide. Review and normalize this before claiming pronunciation coverage.
+- C1/C2 Serbian pronunciation and Sinhala translation quality still require fluent-speaker review. Generated example readings are approximate.
+- Continue source inspection of App.js user flows, local persistence, audio playback and responsive layout. Device behavior remains unverified.
+- User reports GitHub free usage is exhausted. Do not trigger GitHub Actions, CI, Expo export, build or APK work until the user confirms usage is available and wants that stage.
+
+### Key commits from this session
+- C2 lesson 31–50 example repairs: 2d90cf2ff35ed051c9815e270ab6101b81ce4394, b2aab284b119da31b0962a911ea7d75941163fd5, 761f0d2cb07877d572791ecdb4181fe4bbd9b37a, aea6fc8ef21989ec74666065149eb0f233daa44f.
+- C1 lesson 11–50 example repairs: 341e2135d264ea0f738f7a9a284add0b8e5bd03f, 3997f27b8302c7bdbb8cf855aee5838649708164, 09570f02fbec3549b26b2821a81d1fa0f90533c9, 390a46e1d14b0d04e0bb39e27bd8e3060cd45392, 43bb9b2bd81f44529a74ab0f97dd4f4c6c4f95c1, 54e815e6e2dcac21da05a196eb93546aa8b2687f, 31d44ab197a167ccbf9008b2507e3613b2f40994, dac55813c4ea0a2fced1042ccba9172065629a21.
+- C1/C2 semantic and objective corrections: 996f5a159876c2415269d85ec7de606221424d9b, 2988b41aa0bca2645f4f0ec99eb8b8d127b732d0, 548c0cd8d0325418b97034ddc3cf2f12ace9d73f, 1ab42861a71fa876abba66d3b254bd09a71592c5, 8fd097897b34e2669e030e63b89aa3c8628bcb44, 04dd58833358c9d7938e77ed86422bada1f08979, abe070ad41ce421f8915cb48c90cf01aa10817fe, e1cb50e4ffaf0c3fba8c1ee2a422f9b66a10d762, 83c1273d302cfd90a30c774a87fc6648f3480b29, 358e00cfc0e6650cc58d5dd9c98e90ef42da82dc, dcd56f686c422b460d11c3cc751986c7092f562c.
+- C2 objective corrections: 7e28327399de2dcfb9ca09113cc71b69bcfe3f23, 24e86b51104338b6500f7463952495dcdb8a86e2, e61175e1d05432b74094a68080ae53a9b570bdeb, a9d44d87b74d7ad8a52371bde1bf44fbc7d30f83, 146a0271e9c09005c5cccd37a60cfcb6c6ff7b1e.
+- QA changes: b926d7982cad44521893099b83743566ed4e1020, 12e5b7a1b5efea6d59f0c03ce319689ff0800d5b.
+- A1 source fixes: 4615bc993ddf6f9567b63799daa131eab59705f5, 1457ea96552f94d5a38460671ec4ec0642fe9acb.
+
+### Next exact task
+- Audit and repair A2, B1 and B2 vocabulary examples/translations in paired Serbian and English batches. Then normalize Serbian B2 headword readings to Sinhala-script pronunciation using the app's existing fallback mapping or a reviewed static mapping. After that, review App.js source-level UI/persistence flows. Keep all lesson IDs and progress keys stable. Do not run builds or GitHub Actions while the usage restriction remains unresolved.
