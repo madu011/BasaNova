@@ -507,5 +507,32 @@ for (const [label, lessons] of [
   ["English C2", courseLessons["English C2"]],
 ]) validateAdvancedVocabularyUniqueness(label, lessons);
 
+function validateAdvancedPairedTrack(level) {
+  const serbian = courseLessons[`Serbian ${level}`];
+  const english = courseLessons[`English ${level}`];
+  assert.equal(serbian.length, 50, `${level}: expected 50 Serbian lessons`);
+  assert.equal(english.length, 50, `${level}: expected 50 English lessons`);
+  for (let index = 0; index < 50; index++) {
+    const sr = serbian[index];
+    const en = english[index];
+    assert.equal(sr.id.replace(/^sr-/u, ""), en.id.replace(/^en-/u, ""),
+      `${level}: paired lesson IDs differ at position ${index + 1}`);
+    assert.equal(sr.vocabulary.length, en.vocabulary.length,
+      `${level} lesson ${index + 1}: vocabulary counts differ`);
+    assert.equal(sr.practice.length, en.practice.length,
+      `${level} lesson ${index + 1}: practice counts differ`);
+    assert.equal(Boolean(sr.listeningPractice), Boolean(en.listeningPractice),
+      `${level} lesson ${index + 1}: listening coverage differs`);
+    assert.ok(!hasSinhala(sr.objective) && !hasSinhala(en.objective),
+      `${level} lesson ${index + 1}: learning objective must be in the target language`);
+    for (let item = 0; item < sr.vocabulary.length; item++) {
+      assert.equal(sr.vocabulary[item].meaning, en.vocabulary[item].meaning,
+        `${level} lesson ${index + 1}: Sinhala meaning differs for paired vocabulary #${item + 1}`);
+    }
+  }
+}
+validateAdvancedPairedTrack("C1");
+validateAdvancedPairedTrack("C2");
+
 console.log("Content QA passed.");
 console.log({ checkedAppImports: checkedAppImports.size, serbianLessonStats, englishLessonStats, courseStats, serbianC1Stats, englishC1Stats });
