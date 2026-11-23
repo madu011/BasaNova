@@ -1144,8 +1144,8 @@ export const SERBIAN_C1_LESSONS_11_20 = [
   {
     "id": "sr-c1-l18",
     "unit": "C1 · Dizajn istraživanja i kvalitet දොක්aza",
-    "title": "C1 · 18 · Dizajn istraživanja i kvalitet දොක්aza",
-    "objective": "Proceniti dizajn istraživanja, pristrasnost, pouzdanost i snagu potkrepljujućih දොක්aza.",
+    "title": "C1 · 18 · Dizajn istraživanja i kvalitet dokaza",
+    "objective": "Procenite dizajn istraživanja, pristrasnost, pouzdanost i snagu potkrepljujućih dokaza.",
     "vocabulary": [
       {
         "word": "validnost",
