@@ -92,7 +92,7 @@ export const B2_COURSE_STATUS = {
 };
 
 
-// C1 paired lesson milestone. First ten lessons are authored in both languages.
+// C1 paired lesson milestone. All 50 lessons are authored in both languages; editorial and runtime validation remain.
 export const C1_COURSE_STATUS = {
   plannedLessons: 50,
   authoredLessons: { Serbian: 50, English: 50 },
@@ -109,9 +109,9 @@ export const C1_BATCH_11_20_STATUS = {
   lessons: { Serbian: 20, English: 20 },
   pairedLessons: 20,
   totalAuthoredC1Records: 40,
-  nextBatch: "C1 lessons 21–30",
-  remainingC1Lessons: 30,
-  remainingValidation: ["fluent Serbian and English review", "Sinhala pronunciation and translation review", "cumulative C1 revision and practice final assessment", "CI and Android device verification"]
+  nextTask: "Fluent-speaker and Sinhala-language QA; verify Android device behavior",
+  remainingC1Lessons: 0,
+  remainingValidation: ["fluent Serbian and English review", "Sinhala pronunciation and translation review", "C1 assessment answer alignment and distractor review", "CI and Android device verification"]
 };
 
 
@@ -121,9 +121,9 @@ export const C1_BATCH_21_30_STATUS = {
   lessons: { Serbian: 30, English: 30 },
   pairedLessons: 30,
   totalAuthoredC1Records: 60,
-  nextBatch: "C1 lessons 31–40",
-  remainingC1Lessons: 20,
-  remainingValidation: ["fluent Serbian and English review", "review approximate Sinhala-script readings and translations", "add cumulative C1 revision and practice final assessment", "CI and Android device verification"]
+  nextTask: "Fluent-speaker and Sinhala-language QA; verify Android device behavior",
+  remainingC1Lessons: 0,
+  remainingValidation: ["fluent Serbian and English review", "review approximate Sinhala-script readings and translations", "C1 assessment answer alignment and distractor review", "CI and Android device verification"]
 };
 
 
@@ -133,9 +133,9 @@ export const C1_BATCH_31_40_STATUS = {
   lessons: { Serbian: 40, English: 40 },
   pairedLessons: 40,
   totalAuthoredC1Records: 80,
-  nextBatch: "C1 lessons 41–50",
-  remainingC1Lessons: 10,
-  remainingValidation: ["fluent Serbian and English review", "review approximate Sinhala-script readings and translations", "add cumulative C1 revision and practice final assessment", "CI and Android device verification"]
+  nextTask: "Fluent-speaker and Sinhala-language QA; verify Android device behavior",
+  remainingC1Lessons: 0,
+  remainingValidation: ["fluent Serbian and English review", "review approximate Sinhala-script readings and translations", "C1 assessment answer alignment and distractor review", "CI and Android device verification"]
 };
 
 
@@ -168,9 +168,9 @@ export const C2_BATCH_1_10_STATUS = {
   lessons: { Serbian: 10, English: 10 },
   pairedLessons: 10,
   totalAuthoredC2Records: 20,
-  nextBatch: "C2 lessons 11–20",
-  remainingC2Lessons: 40,
-  remainingValidation: ["fluent-speaker review of advanced Serbian and English nuance", "review Sinhala-script pronunciation and translations", "add C2 revision and final practice assessment after lesson 50", "CI, Expo build and Android device verification"]
+  nextTask: "Fluent-speaker and Sinhala-language QA; verify Android device behavior",
+  remainingC2Lessons: 0,
+  remainingValidation: ["fluent-speaker review of advanced Serbian and English nuance", "review Sinhala-script pronunciation and translations", "C2 assessment answer alignment and distractor review", "CI, Expo build and Android device verification"]
 };
 
 
@@ -180,9 +180,9 @@ export const C2_BATCH_11_20_STATUS = {
   lessons: { Serbian: 20, English: 20 },
   pairedLessons: 20,
   totalAuthoredC2Records: 40,
-  nextBatch: "C2 lessons 21–30",
-  remainingC2Lessons: 30,
-  remainingValidation: ["fluent-speaker review of advanced Serbian and English nuance", "review Sinhala-script pronunciation and translations", "add cumulative C2 revision and final practice assessment after lesson 50", "CI, Expo build and Android device verification"]
+  nextTask: "Fluent-speaker and Sinhala-language QA; verify Android device behavior",
+  remainingC2Lessons: 0,
+  remainingValidation: ["fluent-speaker review of advanced Serbian and English nuance", "review Sinhala-script pronunciation and translations", "C2 assessment answer alignment and distractor review", "CI, Expo build and Android device verification"]
 };
 
 
@@ -192,9 +192,9 @@ export const C2_BATCH_21_30_STATUS = {
   lessons: { Serbian: 30, English: 30 },
   pairedLessons: 30,
   totalAuthoredC2Records: 60,
-  nextBatch: "C2 lessons 31–40",
-  remainingC2Lessons: 20,
-  remainingValidation: ["fluent-speaker review of advanced Serbian and English nuance", "review Sinhala-script pronunciation and translations", "add cumulative C2 revision and final practice assessment after lesson 50", "CI, Expo build and Android device verification"]
+  nextTask: "Fluent-speaker and Sinhala-language QA; verify Android device behavior",
+  remainingC2Lessons: 0,
+  remainingValidation: ["fluent-speaker review of advanced Serbian and English nuance", "review Sinhala-script pronunciation and translations", "C2 assessment answer alignment and distractor review", "CI, Expo build and Android device verification"]
 };
 
 
