@@ -1471,7 +1471,7 @@ export const SERBIAN_C1_LESSONS_41_50 = [
     "id": "sr-c1-l50",
     "unit": "C1 · Profesionalni integritet i etičko rasuđivanje",
     "title": "C1 · 50 · Profesionalni integritet i etičko rasuđivanje",
-    "objective": "සංකීර්ණ වෘත්තීය තත්ත්වයකදී සදාචාරාත්මක මූලධර්ම, වගවීම සහ ප්‍රතිවිපාක සලකා තීරණයක් සාධාරණීකරණය කරන්න.",
+    "objective": "Obrazložite odluku u složenoj profesionalnoj situaciji uzimajući u obzir etička načela, odgovornost i moguće posledice.",
     "vocabulary": [
       {
         "word": "integritet",
