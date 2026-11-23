@@ -1515,3 +1515,12 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 - Added source regression guards for the shared wrapper. This closes the broad source-level control gap found during inspection; TalkBack behavior, visual contrast and actual tap interactions still require Android runtime testing.
 - No QA script, CI workflow, Expo export, APK build or device test was run.
 - Next: final source consistency audit across imports, course data and persistence. Do not start the APK build until the user approves the final build stage.
+
+
+## One-pass source review checkpoint — 2026-11-23
+- Completed the planned source changes for persisted-progress sanitization and app-wide touch-control semantics/labels/disabled states in grouped commits.
+- Reviewed the final source integration points and confirmed the sanitizer helpers are declared before use, the React Native TouchableOpacity import is aliased to the native primitive, and all existing JSX touch-control call sites use the shared wrapper.
+- Emoji-only child labels now fall back to a readable generic Sinhala control label rather than exposing only an emoji to screen readers.
+- Static text checks on the latest fetched source confirmed the expected sanitizer, wrapper, QA guard and documentation markers. This is not a JavaScript parse or an execution of `npm run qa:content`.
+- Remaining release gates are deliberately not marked complete: execute automated content QA; run dependency install/Expo validation; inspect CI status; produce the final Android APK; install it on an Android device; and test navigation, lesson/retry/exam flows, AsyncStorage migration, TalkBack, TTS/online voice fallback, offline/network errors and screen sizes.
+- User previously requested no APK build until all source work is complete. Continue to honor that; request build authorization only after the final source review is genuinely complete.
