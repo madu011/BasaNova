@@ -38,29 +38,29 @@ export const ENGLISH_C1_LESSONS_31_40 = [
         "word": "consideration",
         "reading": "ක්ඔන්ස්ඉඩ්එර්ඇෂන්",
         "meaning": "සැලකිල්ල",
-        "example": "It is important to acknowledge a different opinion.",
-        "translation": "වෙනස් මතයක්ද සලකා පිළිගැනීම වැදගත්ය."
+        "example": "The report defines “consideration” before analyzing the results.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “සැලකිල්ල” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "wording",
         "reading": "ව්ඔර්ඩ්ඉං",
         "meaning": "වචන යෙදීම",
-        "example": "Perhaps we could consider another possibility.",
-        "translation": "සමහරවිට අපට වෙනත් හැකියාවක් සලකා බැලිය හැක."
+        "example": "The authors use “wording” when explaining their central argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “වචන යෙදීම” යන පදය භාවිත කරති."
       },
       {
         "word": "restrained",
         "reading": "ර්එස්ට්ර්ඇඉන්එඩ්",
         "meaning": "සංයමයෙන් යුතු",
-        "example": "His wording was tactful and clear.",
-        "translation": "ඔහුගේ වචන යෙදීම උපායශීලී සහ පැහැදිලි විය."
+        "example": "Understanding “restrained” helps readers assess this example.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “සංයමයෙන් යුතු” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "proposal",
         "reading": "ප්ර්ඔප්ඔස්ඇල්",
         "meaning": "යෝජනාව",
-        "example": "With some consideration, the discussion remains constructive.",
-        "translation": "මඳ සැලකිල්ලකින් සාකච්ඡාව ඵලදායීව පවත්වාගත හැක."
+        "example": "The conclusion explains how “proposal” applies in this context.",
+        "translation": "නිගමනයේදී “යෝජනාව” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -197,29 +197,29 @@ export const ENGLISH_C1_LESSONS_31_40 = [
         "word": "baseline",
         "reading": "බ්ඇස්එල්ඉන්එ",
         "meaning": "ආරම්භක මට්ටම",
-        "example": "An evaluation includes unintended consequences too.",
-        "translation": "ඇගයීමට අනපේක්ෂිත ප්‍රතිවිපාකද ඇතුළත් වේ."
+        "example": "The report defines “baseline” before analyzing the results.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “ආරම්භක මට්ටම” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "evaluation",
         "reading": "එව්ඇල්අඇෂන්",
         "meaning": "ඇගයීම",
-        "example": "A baseline makes meaningful comparison possible.",
-        "translation": "ආරම්භක මට්ටම අර්ථවත් සැසඳීමකට ඉඩ සලසයි."
+        "example": "The authors use “evaluation” when explaining their central argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “ඇගයීම” යන පදය භාවිත කරති."
       },
       {
         "word": "implementation",
         "reading": "ඉම්ප්ල්එම්එන්ට්ඇෂන්",
         "meaning": "ක්‍රියාත්මක කිරීම",
-        "example": "Indicators should be measurable and relevant.",
-        "translation": "දර්ශක මැනිය හැකි සහ අදාළ විය යුතුය."
+        "example": "Understanding “implementation” helps readers assess this example.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “ක්‍රියාත්මක කිරීම” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "unintended consequence",
         "reading": "අන්ඉන්ට්එන්ඩ්එඩ් ක්ඔන්ස්එඅඑන්ක්එ",
         "meaning": "අනපේක්ෂිත ප්‍රතිවිපාකය",
-        "example": "A positive outcome alone does not prove causation.",
-        "translation": "හොඳ ප්‍රතිඵලයක් පමණක් හේතුකාරකත්වය තහවුරු නොකරයි."
+        "example": "The conclusion explains how “unintended consequence” applies in this context.",
+        "translation": "නිගමනයේදී “අනපේක්ෂිත ප්‍රතිවිපාකය” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -356,29 +356,29 @@ export const ENGLISH_C1_LESSONS_31_40 = [
         "word": "liability",
         "reading": "ල්ඉඇබ්ඉල්ඉට්යි",
         "meaning": "වගකීම / ණය බැඳීම",
-        "example": "The report shows revenue and expenditure for the quarter.",
-        "translation": "වාර්තාව කාර්තුවේ ආදායම සහ වියදම පෙන්වයි."
+        "example": "The report defines “liability” before analyzing the results.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “වගකීම / ණය බැඳීම” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "audit",
         "reading": "ඇඅඩ්ඉට්",
         "meaning": "විගණනය",
-        "example": "Cash flow differs from accounting profit.",
-        "translation": "මුදල් ප්‍රවාහය ගිණුම්කරණ ලාභයෙන් වෙනස් වේ."
+        "example": "The authors use “audit” when explaining their central argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “විගණනය” යන පදය භාවිත කරති."
       },
       {
         "word": "variance",
         "reading": "ව්ඇර්ඉඇන්ක්එ",
         "meaning": "විචලනය",
-        "example": "The audit identified a variance in the records.",
-        "translation": "විගණනයෙන් වාර්තාවල විචලනයක් හඳුනාගන්නා ලදී."
+        "example": "Understanding “variance” helps readers assess this example.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “විචලනය” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "transparency",
         "reading": "ට්ර්ඇන්ස්ප්ඇර්එන්ක්යි",
         "meaning": "විනිවිදභාවය",
-        "example": "Transparency requires a clear explanation of assumptions.",
-        "translation": "විනිවිදභාවයට උපකල්පන පැහැදිලි කිරීම අවශ්‍යය."
+        "example": "The conclusion explains how “transparency” applies in this context.",
+        "translation": "නිගමනයේදී “විනිවිදභාවය” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -515,29 +515,29 @@ export const ENGLISH_C1_LESSONS_31_40 = [
         "word": "replicability",
         "reading": "ර්එප්ල්ඉක්ඇබ්ඉල්ඉට්යි",
         "meaning": "නැවත තහවුරු කළ හැකි බව",
-        "example": "The finding should be interpreted in light of sample size.",
-        "translation": "නියැදි ප්‍රමාණය සලකා සොයාගැනීම අර්ථකථනය කළ යුතුය."
+        "example": "The report defines “replicability” before analyzing the results.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “නැවත තහවුරු කළ හැකි බව” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "consensus",
         "reading": "ක්ඔන්ස්එන්ස්අස්",
         "meaning": "එකඟතාව",
-        "example": "The study underwent independent peer review.",
-        "translation": "අධ්‍යයනය ස්වාධීන සම-විශේෂඥ සමාලෝචනයකට ලක් විය."
+        "example": "The authors use “consensus” when explaining their central argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “එකඟතාව” යන පදය භාවිත කරති."
       },
       {
         "word": "limitation",
         "reading": "ල්ඉම්ඉට්ඇෂන්",
         "meaning": "සීමාව",
-        "example": "The results have not yet been replicated elsewhere.",
-        "translation": "ප්‍රතිඵල වෙනත් පර්යේෂණාගාරවල තවමත් නැවත තහවුරු කර නැත."
+        "example": "Understanding “limitation” helps readers assess this example.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “සීමාව” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "significance",
         "reading": "ස්ඉග්න්ඉෆ්ඉක්ඇන්ක්එ",
         "meaning": "වැදගත්කම",
-        "example": "Statistical significance does not always mean practical importance.",
-        "translation": "සංඛ්‍යානමය වැදගත්කම සැමවිටම ප්‍රායෝගික වැදගත්කමක් නොවේ."
+        "example": "The conclusion explains how “significance” applies in this context.",
+        "translation": "නිගමනයේදී “වැදගත්කම” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -674,29 +674,29 @@ export const ENGLISH_C1_LESSONS_31_40 = [
         "word": "culture",
         "reading": "ක්අල්ට්අර්එ",
         "meaning": "සංස්කෘතිය",
-        "example": "A good leader allocates responsibility clearly.",
-        "translation": "හොඳ නායකයෙක් වගකීම් පැහැදිලිව බෙදා දෙයි."
+        "example": "The report defines “culture” before analyzing the results.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “සංස්කෘතිය” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "feedback",
         "reading": "ෆ්ඊඩ්බ්ඇක්ක්",
         "meaning": "ප්‍රතිචාර",
-        "example": "Trust is built through consistent actions.",
-        "translation": "අනුකූල ක්‍රියාමාර්ග මඟින් විශ්වාසය ගොඩනැගේ."
+        "example": "The authors use “feedback” when explaining their central argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “ප්‍රතිචාර” යන පදය භාවිත කරති."
       },
       {
         "word": "alignment",
         "reading": "ඇල්ඉග්න්ම්එන්ට්",
         "meaning": "එකඟ පෙළගැස්ම",
-        "example": "Employees should be enabled to take initiative.",
-        "translation": "සේවකයන්ට මුලපිරීමට අවස්ථාව ලබා දිය යුතුය."
+        "example": "Understanding “alignment” helps readers assess this example.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “එකඟ පෙළගැස්ම” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "initiative",
         "reading": "ඉන්ඉට්ඉඇට්ඉව්එ",
         "meaning": "මුලපිරීම",
-        "example": "Feedback strengthens team culture.",
-        "translation": "ප්‍රතිචාර කණ්ඩායම් සංස්කෘතිය ශක්තිමත් කරයි."
+        "example": "The conclusion explains how “initiative” applies in this context.",
+        "translation": "නිගමනයේදී “මුලපිරීම” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -833,29 +833,29 @@ export const ENGLISH_C1_LESSONS_31_40 = [
         "word": "minimisation",
         "reading": "ම්ඉන්ඉම්ඉස්ඇෂන්",
         "meaning": "අවම කිරීම",
-        "example": "Data access should be restricted by role.",
-        "translation": "භූමිකාව අනුව දත්ත ප්‍රවේශය සීමා කළ යුතුය."
+        "example": "The report defines “minimisation” before analyzing the results.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “අවම කිරීම” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "authorised user",
         "reading": "ඇඅත්ඔර්ඉස්එඩ් අස්එර්",
         "meaning": "අවසර ලත් පරිශීලකයා",
-        "example": "Consent must be informed and voluntary.",
-        "translation": "එකඟතාව දැනුවත්ව සහ ස්වේච්ඡාවෙන් ලබා දිය යුතුය."
+        "example": "The authors use “authorised user” when explaining their central argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “අවසර ලත් පරිශීලකයා” යන පදය භාවිත කරති."
       },
       {
         "word": "breach",
         "reading": "බ්ර්එඇච්",
         "meaning": "උල්ලංඝනය",
-        "example": "The policy defines how long data are retained.",
-        "translation": "දත්ත කොපමණ කාලයක් තබාගන්නේද යන්න ප්‍රතිපත්තියෙන් නියම කරයි."
+        "example": "Understanding “breach” helps readers assess this example.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “උල්ලංඝනය” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "compliance",
         "reading": "ක්ඔම්ප්ල්ඉඇන්ක්එ",
         "meaning": "අනුකූලතාව",
-        "example": "Data minimisation reduces unnecessary collection.",
-        "translation": "දත්ත අවම කිරීම අනවශ්‍ය තොරතුරු රැස් කිරීම අඩු කරයි."
+        "example": "The conclusion explains how “compliance” applies in this context.",
+        "translation": "නිගමනයේදී “අනුකූලතාව” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -992,29 +992,29 @@ export const ENGLISH_C1_LESSONS_31_40 = [
         "word": "attribution",
         "reading": "ඇට්ට්ර්ඉබ්අෂන්",
         "meaning": "මූලාශ්‍රය සඳහන් කිරීම",
-        "example": "A paraphrase must preserve the meaning of the original.",
-        "translation": "පරාෆ්‍රේස් කිරීමේදී මුල් පාඨයේ අර්ථය රැකිය යුතුය."
+        "example": "The report defines “attribution” before analyzing the results.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “මූලාශ්‍රය සඳහන් කිරීම” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "bibliography",
         "reading": "බ්ඉබ්ල්ඉඔග්ර්ඇෆ්යි",
         "meaning": "ග්‍රන්ථ නාමාවලිය",
-        "example": "Every borrowed idea should be attributed to its source.",
-        "translation": "ගත් සෑම අදහසක්ම එහි මූලාශ්‍රයට බැර කළ යුතුය."
+        "example": "The authors use “bibliography” when explaining their central argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “ග්‍රන්ථ නාමාවලිය” යන පදය භාවිත කරති."
       },
       {
         "word": "plagiarism",
         "reading": "ප්ල්ඇග්ඉඇර්ඉස්ම්",
         "meaning": "අනවසර පිටපත් කිරීම",
-        "example": "A bibliography allows readers to verify sources.",
-        "translation": "ග්‍රන්ථ නාමාවලිය මූලාශ්‍ර පරීක්ෂා කිරීමට ඉඩ දෙයි."
+        "example": "Understanding “plagiarism” helps readers assess this example.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “අනවසර පිටපත් කිරීම” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "abstract",
         "reading": "ඇබ්ස්ට්ර්ඇක්ට්",
         "meaning": "සාරාංශය",
-        "example": "An abstract identifies the aim, method and main finding.",
-        "translation": "සාරාංශය අරමුණ, ක්‍රමය සහ ප්‍රධාන සොයාගැනීම දක්වයි."
+        "example": "The conclusion explains how “abstract” applies in this context.",
+        "translation": "නිගමනයේදී “සාරාංශය” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -1151,29 +1151,29 @@ export const ENGLISH_C1_LESSONS_31_40 = [
         "word": "register",
         "reading": "ර්එග්ඉස්ට්එර්",
         "meaning": "භාෂා ශෛලිය",
-        "example": "The expression should not be interpreted literally.",
-        "translation": "මෙම ප්‍රකාශය වචනාර්ථයෙන් අර්ථකථනය නොකළ යුතුය."
+        "example": "The report defines “register” before analyzing the results.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “භාෂා ශෛලිය” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "allusion",
         "reading": "ඇල්ල්අස්ඉඔන්",
         "meaning": "සෘජු නොවන සඳහන",
-        "example": "A metaphor gives the text another layer of meaning.",
-        "translation": "උපමාව පාඨයට අමතර අර්ථ ස්තරයක් එක් කරයි."
+        "example": "The authors use “allusion” when explaining their central argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “සෘජු නොවන සඳහන” යන පදය භාවිත කරති."
       },
       {
         "word": "irony",
         "reading": "ඉර්ඔන්යි",
         "meaning": "උපහාසය",
-        "example": "A colloquial expression is not always suitable in a report.",
-        "translation": "කථන භාෂා යෙදුමක් වාර්තාවකට සැමවිටම සුදුසු නොවේ."
+        "example": "Understanding “irony” helps readers assess this example.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “උපහාසය” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "colloquial",
         "reading": "ක්ඔල්ල්ඔඅඉඇල්",
         "meaning": "කථන භාෂාවට අයත්",
-        "example": "Irony depends on context and tone.",
-        "translation": "උපහාසය සන්දර්භය සහ ස්වරය මත රඳා පවතී."
+        "example": "The conclusion explains how “colloquial” applies in this context.",
+        "translation": "නිගමනයේදී “කථන භාෂාවට අයත්” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -1310,29 +1310,29 @@ export const ENGLISH_C1_LESSONS_31_40 = [
         "word": "bias",
         "reading": "බ්ඉඇස්",
         "meaning": "පක්ෂපාතීත්වය",
-        "example": "Before rebutting, present the counterargument accurately.",
-        "translation": "ප්‍රතිතර්කයට පිළිතුරු දීමට පෙර එය නිවැරදිව ඉදිරිපත් කළ යුතුය."
+        "example": "The report defines “bias” before analyzing the results.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “පක්ෂපාතීත්වය” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "relevant",
         "reading": "ර්එල්එව්ඇන්ට්",
         "meaning": "අදාළ",
-        "example": "This evidence does not refute the underlying premise.",
-        "translation": "මෙම සාක්ෂිය මූලික උපකල්පනය නිෂ්ප්‍රභ නොකරයි."
+        "example": "The authors use “relevant” when explaining their central argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “අදාළ” යන පදය භාවිත කරති."
       },
       {
         "word": "consistent",
         "reading": "ක්ඔන්ස්ඉස්ට්එන්ට්",
         "meaning": "අනුකූල",
-        "example": "The argument is persuasive but overlooks an exception.",
-        "translation": "තර්කය ඒත්තු ගන්වන සුළු වුවත් වැදගත් ව්‍යතිරේකයක් නොසලකා හරියි."
+        "example": "Understanding “consistent” helps readers assess this example.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “අනුකූල” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "nuanced",
         "reading": "න්අඇන්ක්එඩ්",
         "meaning": "සූක්ෂ්ම වෙනස්කම් සහිත",
-        "example": "A nuanced response acknowledges the strengths of the opposing view.",
-        "translation": "සූක්ෂ්ම පිළිතුරක් විරුද්ධ මතයේ ශක්තිමත් පැතිද පිළිගනී."
+        "example": "The conclusion explains how “nuanced” applies in this context.",
+        "translation": "නිගමනයේදී “සූක්ෂ්ම වෙනස්කම් සහිත” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -1469,29 +1469,29 @@ export const ENGLISH_C1_LESSONS_31_40 = [
         "word": "allocation",
         "reading": "ඇල්ල්ඔක්ඇෂන්",
         "meaning": "වෙන් කිරීම",
-        "example": "The brief requires a cost-benefit analysis.",
-        "translation": "කාර්ය සාරාංශය පිරිවැය සහ ප්‍රතිලාභ විශ්ලේෂණයක් ඉල්ලා සිටී."
+        "example": "The report defines “allocation” before analyzing the results.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “වෙන් කිරීම” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "execution",
         "reading": "එඑක්අෂන්",
         "meaning": "ක්‍රියාත්මක කිරීම",
-        "example": "Each stakeholder should understand their role.",
-        "translation": "සෑම අදාළ පාර්ශ්වයක්ම තම භූමිකාව තේරුම් ගත යුතුය."
+        "example": "The authors use “execution” when explaining their central argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “ක්‍රියාත්මක කිරීම” යන පදය භාවිත කරති."
       },
       {
         "word": "review",
         "reading": "ර්එව්ඉඑව්",
         "meaning": "සමාලෝචනය",
-        "example": "The recommendation must be linked to measurable objectives.",
-        "translation": "නිර්දේශය මැනිය හැකි අරමුණු සමඟ සම්බන්ධ විය යුතුය."
+        "example": "Understanding “review” helps readers assess this example.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “සමාලෝචනය” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "recommendation",
         "reading": "ර්එක්ඔම්ම්එන්ඩ්ඇෂන්",
         "meaning": "නිර්දේශය",
-        "example": "The final review checks outcomes and outstanding questions.",
-        "translation": "අවසන් සමාලෝචනය ප්‍රතිඵල සහ ඉතිරි ප්‍රශ්න පරීක්ෂා කරයි."
+        "example": "The conclusion explains how “recommendation” applies in this context.",
+        "translation": "නිගමනයේදී “නිර්දේශය” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Grammar and style",
