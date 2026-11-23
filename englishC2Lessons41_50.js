@@ -38,29 +38,29 @@ export const ENGLISH_C2_LESSONS_41_50 = [
         "word": "distancing",
         "reading": "ඩිස්ටැන්සිං",
         "meaning": "දුරස්ථභාවය පවත්වා ගැනීම",
-        "example": "The author distances themself from a conclusion the data do not support.",
-        "translation": "දත්ත තහවුරු නොකරන නිගමනයෙන් කතුවරයා සීමාසහිතව දුරස් වේ."
+        "example": "The report defines “distancing” before analyzing the results.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “දුරස්ථභාවය පවත්වා ගැනීම” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "engagement",
         "reading": "එන්ගේජ්මන්ට්",
         "meaning": "සම්බන්ධ වීම",
-        "example": "Verb choice reveals the speaker's stance.",
-        "translation": "ක්‍රියාපද තේරීම කථකයාගේ ස්ථාවරය හෙළි කරයි."
+        "example": "The authors use “engagement” when explaining their central argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “සම්බන්ධ වීම” යන පදය භාවිත කරති."
       },
       {
         "word": "perspectivization",
         "reading": "පර්ස්පෙක්ටිවයිසේෂන්",
         "meaning": "දෘෂ්ටිකෝණගත කිරීම",
-        "example": "Distancing can soften a categorical claim.",
-        "translation": "දුරස්ථභාවය නිශ්චිත ප්‍රකාශයක තදබල බව අඩු කළ හැක."
+        "example": "Understanding “perspectivization” helps readers assess this example.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “දෘෂ්ටිකෝණගත කිරීම” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "discourse marker",
         "reading": "ඩിസ്කෝර්ස් මාකර්",
         "meaning": "කථන සම්බන්ධක සලකුණ",
-        "example": "Discourse markers guide the interpretation of an argument.",
-        "translation": "කථන සලකුණු තර්කය අර්ථකථනය කිරීමට මඟ පෙන්වයි."
+        "example": "The conclusion explains how “discourse marker” applies in this context.",
+        "translation": "නිගමනයේදී “කථන සම්බන්ධක සලකුණ” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -201,29 +201,29 @@ export const ENGLISH_C2_LESSONS_41_50 = [
         "word": "stigmatization",
         "reading": "ස්ටිග්මටයිසේෂන්",
         "meaning": "අපකීර්තියට පත් කිරීම",
-        "example": "Standardization often reflects social power relations.",
-        "translation": "ප්‍රමිතිකරණය බොහෝවිට සමාජ බල සම්බන්ධතා පිළිබිඹු කරයි."
+        "example": "The report defines “stigmatization” before analyzing the results.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “අපකීර්තියට පත් කිරීම” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "multilingualism",
         "reading": "මල්ටිලිංග්විසම්",
         "meaning": "බහුභාෂිකත්වය",
-        "example": "A dialect continuum does not always follow state borders.",
-        "translation": "උපභාෂා අඛණ්ඩ පරාසය සැමවිටම රාජ්‍ය සීමා අනුගමනය නොකරයි."
+        "example": "The authors use “multilingualism” when explaining their central argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “බහුභාෂිකත්වය” යන පදය භාවිත කරති."
       },
       {
         "word": "language planning",
         "reading": "ලැන්ග්විජ් ප්ලැනිං",
         "meaning": "භාෂා සැලසුම්කරණය",
-        "example": "Stigmatizing speech can restrict social mobility.",
-        "translation": "කථන රටාවක් අපකීර්තියට පත් කිරීම සමාජ සංචලතාව සීමා කළ හැක."
+        "example": "Understanding “language planning” helps readers assess this example.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “භාෂා සැලසුම්කරණය” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "language rights",
         "reading": "ලැන්ග්විජ් රයිට්ස්",
         "meaning": "භාෂා අයිතිවාසිකම්",
-        "example": "Language rights include access to education and public services.",
-        "translation": "භාෂා අයිතිවාසිකම් අධ්‍යාපනයට හා රාජ්‍ය සේවාවලට ප්‍රවේශය ඇතුළත් කරයි."
+        "example": "The conclusion explains how “language rights” applies in this context.",
+        "translation": "නිගමනයේදී “භාෂා අයිතිවාසිකම්” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -364,29 +364,29 @@ export const ENGLISH_C2_LESSONS_41_50 = [
         "word": "causality",
         "reading": "කෝසැලිටි",
         "meaning": "හේතුකත්වය",
-        "example": "A hypothesis must be open to possible falsification.",
-        "translation": "උපකල්පනය වැරදි බව පෙන්විය හැකි පරීක්ෂාවකට විවෘත විය යුතුය."
+        "example": "The report defines “causality” before analyzing the results.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “හේතුකත්වය” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "correlation",
         "reading": "කොරලේෂන්",
         "meaning": "සහසම්බන්ධතාව",
-        "example": "Correlation alone does not establish causality.",
-        "translation": "සහසම්බන්ධතාව පමණක් හේතුකත්වය සනාථ නොකරයි."
+        "example": "The authors use “correlation” when explaining their central argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “සහසම්බන්ධතාව” යන පදය භාවිත කරති."
       },
       {
         "word": "epistemic limit",
         "reading": "එපිස්ටීමික් ලිමිට්",
         "meaning": "දැනුමේ සීමාව",
-        "example": "Replication tests the stability of findings.",
-        "translation": "ප්‍රතිනිර්මාණ පරීක්ෂාව සොයාගැනීම්වල ස්ථායිතාව පරීක්ෂා කරයි."
+        "example": "Understanding “epistemic limit” helps readers assess this example.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “දැනුමේ සීමාව” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "replication",
         "reading": "රෙප්ලිකේෂන්",
         "meaning": "ප්‍රතිනිර්මාණ පරීක්ෂාව",
-        "example": "Every model has epistemic limits.",
-        "translation": "සෑම ආකෘතියකටම දැනුමේ සීමා ඇත."
+        "example": "The conclusion explains how “replication” applies in this context.",
+        "translation": "නිගමනයේදී “ප්‍රතිනිර්මාණ පරීක්ෂාව” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -527,29 +527,29 @@ export const ENGLISH_C2_LESSONS_41_50 = [
         "word": "jurisprudence",
         "reading": "ජුරිස්ප්‍රූඩන්ස්",
         "meaning": "නීති තීන්දු සම්ප්‍රදාය",
-        "example": "The court considers whether the precedent applies.",
-        "translation": "පූර්ව තීන්දුව අදාළදැයි අධිකරණය සලකා බලයි."
+        "example": "The report defines “jurisprudence” before analyzing the results.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “නීති තීන්දු සම්ප්‍රදාය” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "higher-ranking provision",
         "reading": "හයර් රැන්කිං ප්‍රවිෂන්",
         "meaning": "ඉහළ බලැති නීතිය",
-        "example": "A restriction must pass the proportionality test.",
-        "translation": "සීමාවක් සමානුපාතිකභාව පරීක්ෂාව සමත් විය යුතුය."
+        "example": "The authors use “higher-ranking provision” when explaining their central argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “ඉහළ බලැති නීතිය” යන පදය භාවිත කරති."
       },
       {
         "word": "legal remedy",
         "reading": "ලීගල් රෙමඩි",
         "meaning": "නීතිමය පිළියම",
-        "example": "The burden of proof depends on the type of proceedings.",
-        "translation": "සාක්ෂි ඉදිරිපත් කිරීමේ වගකීම නඩු ක්‍රියාවලිය අනුව වෙනස් වේ."
+        "example": "Understanding “legal remedy” helps readers assess this example.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “නීතිමය පිළියම” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "reasoned decision",
         "reading": "රීසන්ඩ් ඩිසිෂන්",
         "meaning": "හේතු දැක්වූ තීරණය",
-        "example": "A decision must contain clear reasoning.",
-        "translation": "තීරණයට පැහැදිලි හේතු දැක්වීමක් තිබිය යුතුය."
+        "example": "The conclusion explains how “reasoned decision” applies in this context.",
+        "translation": "නිගමනයේදී “හේතු දැක්වූ තීරණය” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -690,29 +690,29 @@ export const ENGLISH_C2_LESSONS_41_50 = [
         "word": "anaphora",
         "reading": "අනෆර",
         "meaning": "පෙර සඳහන් දෙයට යොමුව",
-        "example": "Cohesion links sentences through visible linguistic devices.",
-        "translation": "පාඨ සම්බන්ධතාව භාෂාමය ක්‍රමවලින් වාක්‍ය එකට බැඳේ."
+        "example": "The report defines “anaphora” before analyzing the results.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “පෙර සඳහන් දෙයට යොමුව” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "cataphora",
         "reading": "කැටෆර",
         "meaning": "ඉදිරියේ සඳහන් දෙයට යොමුව",
-        "example": "Coherence depends on the logical development of ideas.",
-        "translation": "අර්ථමය අඛණ්ඩතාව අදහස්වල තාර්කික වර්ධනය මත රඳා පවතී."
+        "example": "The authors use “cataphora” when explaining their central argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “ඉදිරියේ සඳහන් දෙයට යොමුව” යන පදය භාවිත කරති."
       },
       {
         "word": "ellipsis",
         "reading": "එලිප්සිස්",
         "meaning": "අත්හැරීම",
-        "example": "Anaphora refers back to an element mentioned earlier.",
-        "translation": "අනාෆොරා පෙර සඳහන් කළ අංගයකට යොමු කරයි."
+        "example": "Understanding “ellipsis” helps readers assess this example.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “අත්හැරීම” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "conjunction",
         "reading": "කන්ජන්ක්ෂන්",
         "meaning": "සම්බන්ධකය",
-        "example": "Thematic progression balances given and new information.",
-        "translation": "මාතෘකා ප්‍රගතිය දන්නා හා නව තොරතුරු අතර සමතුලිතතාව රකියි."
+        "example": "The conclusion explains how “conjunction” applies in this context.",
+        "translation": "නිගමනයේදී “සම්බන්ධකය” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -853,29 +853,29 @@ export const ENGLISH_C2_LESSONS_41_50 = [
         "word": "cultural mediation",
         "reading": "කල්චරල් මීඩියේෂන්",
         "meaning": "සංස්කෘතික මැදිහත්වීම",
-        "example": "A translation decision can alter the tone of the source text.",
-        "translation": "පරිවර්තන තීරණයක් මුල් පාඨයේ ස්වරය වෙනස් කළ හැක."
+        "example": "The report defines “cultural mediation” before analyzing the results.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “සංස්කෘතික මැදිහත්වීම” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "untranslatability",
         "reading": "අන්ට්‍රාන්ස්ලේටබිලිටි",
         "meaning": "පරිවර්තනය කළ නොහැකි බව",
-        "example": "Translator visibility depends on genre and publishing practice.",
-        "translation": "පරිවර්තකයාගේ දෘශ්‍යමානභාවය ප්‍රභේදය හා ප්‍රකාශන ක්‍රමය මත රඳා පවතී."
+        "example": "The authors use “untranslatability” when explaining their central argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “පරිවර්තනය කළ නොහැකි බව” යන පදය භාවිත කරති."
       },
       {
         "word": "paratext",
         "reading": "පැරටෙක්ස්ට්",
         "meaning": "අමතර පාඨ",
-        "example": "Cultural mediation requires knowledge of both contexts.",
-        "translation": "සංස්කෘතික මැදිහත්වීමට සංස්කෘතික පරිසර දෙකම දැනගැනීම අවශ්‍යය."
+        "example": "Understanding “paratext” helps readers assess this example.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “අමතර පාඨ” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "translation decision",
         "reading": "ට්‍රාන්ස්ලේෂන් ඩිසිෂන්",
         "meaning": "පරිවර්තන තීරණය",
-        "example": "A translator's note can explain untranslatability.",
-        "translation": "පරිවර්තක සටහනක් පරිවර්තනය කළ නොහැකි බව පැහැදිලි කළ හැක."
+        "example": "The conclusion explains how “translation decision” applies in this context.",
+        "translation": "නිගමනයේදී “පරිවර්තන තීරණය” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -1016,29 +1016,29 @@ export const ENGLISH_C2_LESSONS_41_50 = [
         "word": "transparency",
         "reading": "ට්‍රාන්ස්පැරන්සි",
         "meaning": "විනිවිදභාවය",
-        "example": "A crisis statement must separate facts from assumptions clearly.",
-        "translation": "අර්බුද නිවේදනය කරුණු හා උපකල්පන පැහැදිලිව වෙන් කළ යුතුය."
+        "example": "The report defines “transparency” before analyzing the results.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “විනිවිදභාවය” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "accountability",
         "reading": "අකවුන්ටබිලිටි",
         "meaning": "වගකීම",
-        "example": "A timely correction can prevent rumours from spreading.",
-        "translation": "කාලෝචිත නිවැරදි කිරීමකට කටකතා පැතිරීම වැළැක්විය හැක."
+        "example": "The authors use “accountability” when explaining their central argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “වගකීම” යන පදය භාවිත කරති."
       },
       {
         "word": "reputational risk",
         "reading": "රෙපියුටේෂනල් රිස්ක්",
         "meaning": "කීර්තිනාම අවදානම",
-        "example": "Transparency does not mean publishing unverified data.",
-        "translation": "විනිවිදභාවය යනු තහවුරු නොකළ දත්ත ප්‍රකාශ කිරීම නොවේ."
+        "example": "Understanding “reputational risk” helps readers assess this example.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “කීර්තිනාම අවදානම” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "corrective message",
         "reading": "කරෙක්ටිව් මෙසේජ්",
         "meaning": "නිවැරදි කිරීමේ පණිවිඩය",
-        "example": "An accountable message states what remains unknown.",
-        "translation": "වගකීම් සහිත පණිවිඩයක් තවමත් නොදන්නා දේ සඳහන් කරයි."
+        "example": "The conclusion explains how “corrective message” applies in this context.",
+        "translation": "නිගමනයේදී “නිවැරදි කිරීමේ පණිවිඩය” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -1179,29 +1179,29 @@ export const ENGLISH_C2_LESSONS_41_50 = [
         "word": "indirectness",
         "reading": "ඉන්ඩිරෙක්ට්නස්",
         "meaning": "වක්‍රභාවය",
-        "example": "Literal content does not always capture a speaker's intention.",
-        "translation": "වචනාර්ථය සැමවිටම කථකයාගේ අරමුණ ඇතුළත් නොකරයි."
+        "example": "The report defines “indirectness” before analyzing the results.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “වක්‍රභාවය” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "contextual cue",
         "reading": "කන්ටෙක්ස්චුවල් කියු",
         "meaning": "සන්දර්භීය ඉඟිය",
-        "example": "An implicature depends on the speakers' shared knowledge.",
-        "translation": "අඟවන අර්ථය සංවාදකයන්ගේ පොදු දැනුම මත රඳා පවතී."
+        "example": "The authors use “contextual cue” when explaining their central argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “සන්දර්භීය ඉඟිය” යන පදය භාවිත කරති."
       },
       {
         "word": "testimony",
         "reading": "ටෙස්ටිමනි",
         "meaning": "සාක්ෂි ප්‍රකාශය",
-        "example": "One utterance can perform several speech acts at once.",
-        "translation": "එක් ප්‍රකාශයක් එකවර කථන ක්‍රියා කිහිපයක් ඉටු කළ හැක."
+        "example": "Understanding “testimony” helps readers assess this example.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “සාක්ෂි ප්‍රකාශය” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "interpretive caveat",
         "reading": "ඉන්ටර්ප්‍රිටිව් කැවියට්",
         "meaning": "අර්ථකථන සීමා සටහන",
-        "example": "A conclusion must consider alternative explanations.",
-        "translation": "නිගමනය විකල්ප පැහැදිලි කිරීම් සලකා බැලිය යුතුය."
+        "example": "The conclusion explains how “interpretive caveat” applies in this context.",
+        "translation": "නිගමනයේදී “අර්ථකථන සීමා සටහන” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -1342,29 +1342,29 @@ export const ENGLISH_C2_LESSONS_41_50 = [
         "word": "synthesis",
         "reading": "සින්තිසිස්",
         "meaning": "සංශ්ලේෂණය",
-        "example": "A thesis must be precise enough to be challenged.",
-        "translation": "මූලික තර්කය අභියෝග කළ හැකි තරම් නිශ්චිත විය යුතුය."
+        "example": "The report defines “synthesis” before analyzing the results.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “සංශ්ලේෂණය” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "premise",
         "reading": "ප්‍රෙමිස්",
         "meaning": "පූර්ව පදනම",
-        "example": "A concession can strengthen the overall argument.",
-        "translation": "ප්‍රතිපක්ෂයේ කරුණක් පිළිගැනීම සමස්ත තර්කය ශක්තිමත් කළ හැක."
+        "example": "The authors use “premise” when explaining their central argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “පූර්ව පදනම” යන පදය භාවිත කරති."
       },
       {
         "word": "counterexample",
         "reading": "කවුන්ටරෙක්සැම්පල්",
         "meaning": "ප්‍රතිඋදාහරණය",
-        "example": "A counterexample tests the reach of a general claim.",
-        "translation": "ප්‍රතිඋදාහරණයක් සාමාන්‍ය ප්‍රකාශයේ පරාසය පරීක්ෂා කරයි."
+        "example": "Understanding “counterexample” helps readers assess this example.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “ප්‍රතිඋදාහරණය” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "burden of argument",
         "reading": "බර්ඩන් ඔෆ් ආර්ගියුමන්ට්",
         "meaning": "තර්ක ඉදිරිපත් කිරීමේ වගකීම",
-        "example": "Synthesis connects the justified insights of both sides.",
-        "translation": "සංශ්ලේෂණය දෙපාර්ශ්වයේ සාධාරණ අදහස් සම්බන්ධ කරයි."
+        "example": "The conclusion explains how “burden of argument” applies in this context.",
+        "translation": "නිගමනයේදී “තර්ක ඉදිරිපත් කිරීමේ වගකීම” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -1505,29 +1505,29 @@ export const ENGLISH_C2_LESSONS_41_50 = [
         "word": "counterargument",
         "reading": "කවුන්ටරාර්ගියුමන්ට්",
         "meaning": "ප්‍රතිතර්කය",
-        "example": "The presentation links the question, method and findings into one whole.",
-        "translation": "ඉදිරිපත් කිරීම ප්‍රශ්නය, ක්‍රමය හා සොයාගැනීම් එකම සමස්තයකට සම්බන්ධ කරයි."
+        "example": "The report defines “counterargument” before analyzing the results.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “ප්‍රතිතර්කය” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "qualification of a claim",
         "reading": "ක්වොලිෆිකේෂන් ඔෆ් අ ක්ලේම්",
         "meaning": "ප්‍රකාශයක සීමා දැක්වීම",
-        "example": "Every conclusion must have an adequate evidential basis.",
-        "translation": "සෑම නිගමනයකටම ගැළපෙන සාක්ෂි පදනමක් තිබිය යුතුය."
+        "example": "The authors use “qualification of a claim” when explaining their central argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “ප්‍රකාශයක සීමා දැක්වීම” යන පදය භාවිත කරති."
       },
       {
         "word": "concluding synthesis",
         "reading": "කන්ක්ලූඩිං සින්තිසිස්",
         "meaning": "අවසාන සංශ්ලේෂණය",
-        "example": "A methodological limitation should be stated openly.",
-        "translation": "ක්‍රමවේදී සීමාව විවෘතව සඳහන් කළ යුතුය."
+        "example": "Understanding “concluding synthesis” helps readers assess this example.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “අවසාන සංශ්ලේෂණය” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "self-assessment",
         "reading": "සෙල්ෆ් අසෙස්මන්ට්",
         "meaning": "ස්වයං ඇගයීම",
-        "example": "Self-assessment identifies areas for further development.",
-        "translation": "ස්වයං ඇගයීම තවදුරටත් දියුණු කළ යුතු ක්ෂේත්‍ර හෙළි කරයි."
+        "example": "The conclusion explains how “self-assessment” applies in this context.",
+        "translation": "නිගමනයේදී “ස්වයං ඇගයීම” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Grammar and style",
