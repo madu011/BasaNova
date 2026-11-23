@@ -6,6 +6,7 @@
 - **Assessments:** paired revision and final practice assessments are integrated for all six levels A1–C2. A2 has a 10-question mixed revision and a 20-question final exam per language, generated from the A2 course vocabulary and listening tasks.
 - **Advanced-course cleanup:** C1 and C2 now have source-level duplicate-example/translation checks, paired Sinhala vocabulary-meaning parity, matching practice/listening coverage and target-language objectives.
 - **A1 source fixes:** repaired ten missing Serbian A1 property separators and one malformed English A1 lesson ID. Actual module-import validation is still pending.
+- **Local reliability pass (2026-11-23):** progress restore now validates saved data, translator history is bounded, writes are serialized to avoid stale snapshots overwriting newer progress, and speech requests cancel/ignore stale playback responses. These changes are source-level only and await runtime QA.
 - **Android packaging:** a standalone release APK workflow is configured, but no new build or APK has been run during this source-only phase. Both GitHub Actions workflows are manual-only.
 - **Remaining quality work:** audit A2/B1/B2 repeated vocabulary examples and translations, normalize Serbian B2 Sinhala-script word readings, complete fluent-speaker review, run content QA when usage is available, and perform persistence/UI/device validation before release.
 
