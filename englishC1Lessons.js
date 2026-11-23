@@ -49,10 +49,10 @@ export const ENGLISH_C1_LESSONS = [
       {
         "word": "precise",
         "reading": "ප්‍රිසයිස්",
-        "meaning": "නිවැරදි",
-        "example": "Be precise about the deadline.",
+        "meaning": "නිශ්චිත",
+        "example": "The deadline must be precise.",
         "exampleReading": "ප්‍රිසයිස්",
-        "translation": "කාලසීමාව ගැන නිවැරදි වන්න."
+        "translation": "කාලසීමාව නිශ්චිත විය යුතුය."
       },
       {
         "word": "emphasis",
@@ -539,9 +539,9 @@ export const ENGLISH_C1_LESSONS = [
         "word": "literal",
         "reading": "ලිටරල්",
         "meaning": "වචනාර්ථමය",
-        "example": "Do not take it literally.",
+        "example": "A literal translation does not always convey the intention.",
         "exampleReading": "ලිටරල්",
-        "translation": "එය වචනාර්ථයෙන් නොගන්න."
+        "translation": "වචනාර්ථමය පරිවර්තනය සෑමවිටම අරමුණ ගෙන නොයයි."
       },
       {
         "word": "allusion",
@@ -571,17 +571,17 @@ export const ENGLISH_C1_LESSONS = [
         "word": "vivid",
         "reading": "විවිඩ්",
         "meaning": "චිත්‍රාත්මක",
-        "example": "Use vivid but clear language.",
+        "example": "The description is vivid but remains clear.",
         "exampleReading": "විවිඩ්",
-        "translation": "චිත්‍රාත්මක නමුත් පැහැදිලි භාෂාව භාවිත කරන්න."
+        "translation": "විස්තරය චිත්‍රාත්මක වුවත් පැහැදිලිව පවතී."
       },
       {
         "word": "convey",
         "reading": "කන්වේ",
         "meaning": "සන්නිවේදනය කිරීම",
-        "example": "The phrase conveys strong emotion.",
+        "example": "An expression can convey a strong emotion.",
         "exampleReading": "කන්වේ",
-        "translation": "ප්‍රකාශය ප්‍රබල හැඟීමක් ගෙන යයි."
+        "translation": "ප්‍රකාශයකට ප්‍රබල හැඟීමක් සන්නිවේදනය කළ හැක."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -723,9 +723,9 @@ export const ENGLISH_C1_LESSONS = [
         "translation": "සැඟවුණු උපකල්පනය නිගමනයට බලපායි."
       },
       {
-        "word": "hint",
+        "word": "hint at",
         "reading": "හිન્ટ්",
-        "meaning": "ඉඟිය",
+        "meaning": "ඉඟි කිරීම",
         "example": "The speaker hints at a change.",
         "exampleReading": "හිન્ટ්",
         "translation": "කථකයා වෙනසක් ගැන ඉඟි කරයි."
@@ -921,9 +921,9 @@ export const ENGLISH_C1_LESSONS = [
         "word": "concise",
         "reading": "කන්සයිස්",
         "meaning": "කෙටි හා පැහැදිලි",
-        "example": "Keep your answer concise.",
+        "example": "The answer should be concise.",
         "exampleReading": "කන්සයිස්",
-        "translation": "පිළිතුර කෙටි හා පැහැදිලිව තබන්න."
+        "translation": "පිළිතුර කෙටි හා පැහැදිලි විය යුතුය."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -1068,9 +1068,9 @@ export const ENGLISH_C1_LESSONS = [
         "word": "ambiguity",
         "reading": "ඇම්බිග්යුවිටි",
         "meaning": "අර්ථ අපැහැදිලි බව",
-        "example": "Remove the ambiguity.",
+        "example": "Remove any ambiguity from the text.",
         "exampleReading": "ඇම්බිග්යුවිටි",
-        "translation": "අර්ථ අපැහැදිලි බව ඉවත් කරන්න."
+        "translation": "පාඨයෙන් සෑම අර්ථ අපැහැදිලි බවක්ම ඉවත් කරන්න."
       },
       {
         "word": "structure",
