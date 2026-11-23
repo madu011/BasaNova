@@ -1453,3 +1453,5 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 - Added static QA guards for malformed persisted history/favourites, translator response handling/privacy notice/history bounds, TTS stale-request protection and locale fallback, plus safe-area and keyboard-tap layout safeguards.
 - Commits: `cac0a34f063214d77fc7f9e1a94a1231a56f0b71` and `aa68eb2ba11d09c663ff1cc78f95f939d92aec65`.
 - These are source-level checks only. The automated content QA script has not been executed, and no build, install, CI run, or Android device test has been performed.
+
+- Follow-up correction: refined the translator-history QA matcher to match the actual deduplication expression in `App.js`; commit `add02ef27262a9b1d01303947a8942b274f8b7a8`.
