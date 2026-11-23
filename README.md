@@ -1,12 +1,13 @@
 # BasaNova
 
-## Current project snapshot — 2026-11-20
+## Current project snapshot — 2026-11-23
 
 - **Learning content authoring:** 50 Serbian + 50 English lessons in each of A1, A2, B1, B2, C1 and C2 (600 authored lesson records total). This is content completion, not CEFR certification.
 - **Assessments:** paired revision and final practice assessments are integrated for all six levels A1–C2. A2 has a 10-question mixed revision and a 20-question final exam per language, generated from the A2 course vocabulary and listening tasks.
-- **Android packaging:** the APK workflow now builds a standalone release variant rather than a Metro-dependent debug APK. The latest safe-area/layout changes still need a fresh successful build and physical-device verification.
-- **Layout:** Android safe-area insets, visible status bar, responsive content width and compact bottom navigation have been updated; verify on real devices before marking complete.
-- **Remaining quality work:** run the expanded content QA on an available GitHub runner, review Serbian B1/B2 vocabulary normalization, complete fluent Serbian/English and Sinhala pronunciation review, test persistence and responsive UI, and finish final release/device validation.
+- **Advanced-course cleanup:** C1 and C2 now have source-level duplicate-example/translation checks, paired Sinhala vocabulary-meaning parity, matching practice/listening coverage and target-language objectives.
+- **A1 source fixes:** repaired ten missing Serbian A1 property separators and one malformed English A1 lesson ID. Actual module-import validation is still pending.
+- **Android packaging:** a standalone release APK workflow is configured, but no new build or APK has been run during this source-only phase. Both GitHub Actions workflows are manual-only.
+- **Remaining quality work:** audit A2/B1/B2 repeated vocabulary examples and translations, normalize Serbian B2 Sinhala-script word readings, complete fluent-speaker review, run content QA when usage is available, and perform persistence/UI/device validation before release.
 
 
 **Learn Languages. Speak with Confidence.**
