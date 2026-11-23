@@ -1470,3 +1470,17 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 1. Audit the remaining Learn/lesson controls for missing accessibility labels, touch targets and misleading disabled states.
 2. Audit all tab transitions and language switching for state leakage and navigation dead ends.
 3. Perform a final source-only JSX/logic review and add robust static regression checks; keep all unexecuted QA/build/device steps explicitly marked as pending.
+
+
+## 2026-11-23 follow-up — language-separated vocabulary favourites
+- Found a cross-language data collision in the vocabulary library: favourites were stored as one global list of headwords, so an identical Serbian/English spelling could appear saved in both courses.
+- Changed the saved favourites shape to independent `Serbian` and `English` arrays. The active course now filters, counts, displays and toggles only its own favourites.
+- Added backward-compatible restore: older saved arrays are migrated into the language recorded in the saved progress; newer object-shaped data restores both lists independently. Restored words remain trimmed, non-empty and unique.
+- Added static regression assertions for legacy migration, new-format restoration, active-language filtering and language-scoped toggling.
+- Commits: `48f2279b99a52575bdb21c4d27766894bfdb0137`, `4f381a05f1b720e23f89eaeff7f3644e3a11f89e`, and `59ee8107633241fbce415bcca3db62625110aa94`.
+- Source inspection only; automated QA execution, migration testing on an actual saved device profile, and Android UI testing remain pending.
+
+### Next exact task
+1. Finish the Learn-screen control and navigation state audit, especially course switching while filters/search panels are active.
+2. Review persistence migration compatibility after the favourites schema change and confirm all saved-data fields remain shape-validated.
+3. Complete source-only regression review and document any remaining limitations; do not run CI or build workflows.
