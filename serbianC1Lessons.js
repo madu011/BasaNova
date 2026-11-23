@@ -21,18 +21,18 @@ export const SERBIAN_C1_LESSONS = [
         "translation": "මෙම භාවිත මට්ටම අතිශය අවිධිමත්ය."
       },
       {
-        "word": "prikladno",
+        "word": "prikladan",
         "reading": "ප්‍රික්ලාද්නො",
-        "meaning": "සුදුසු ලෙස",
-        "example": "Izrazite se prikladno situaciji.",
-        "translation": "අවස්ථාවට ගැළපෙන ලෙස අදහස් දක්වන්න."
+        "meaning": "සුදුසු",
+        "example": "To je prikladan izraz za formalnu situaciju.",
+        "translation": "එය විධිමත් අවස්ථාවකට සුදුසු ප්‍රකාශයකි."
       },
       {
-        "word": "uzdržano",
+        "word": "uzdržan",
         "reading": "උස්ද්‍රෂානො",
-        "meaning": "සංයමයෙන්",
-        "example": "Odgovorio je uzdržano.",
-        "translation": "ඔහු සංයමයෙන් පිළිතුරු දුන්නේය."
+        "meaning": "සංයමයෙන් යුතු",
+        "example": "Njegov odgovor bio je uzdržan.",
+        "translation": "ඔහුගේ පිළිතුර සංයමයෙන් යුතු විය."
       },
       {
         "word": "dvosmisleno",
@@ -42,11 +42,11 @@ export const SERBIAN_C1_LESSONS = [
         "translation": "වාක්‍යය අර්ථ දෙකක් ඇති ලෙස ඇසේ."
       },
       {
-        "word": "precizno",
+        "word": "precizan",
         "reading": "ප්‍රෙත්සිස්නො",
-        "meaning": "නිවැරදිව",
-        "example": "Objasnite problem precizno.",
-        "translation": "ගැටලුව නිවැරදිව පැහැදිලි කරන්න."
+        "meaning": "නිශ්චිත",
+        "example": "Rok mora biti precizan.",
+        "translation": "කාලසීමාව නිශ්චිත විය යුතුය."
       },
       {
         "word": "naglasak",
@@ -193,16 +193,16 @@ export const SERBIAN_C1_LESSONS = [
       {
         "word": "ključan",
         "reading": "ක්ලුචාන්",
-        "meaning": "ප්‍රධාන",
+        "meaning": "තීරණාත්මක",
         "example": "Ovo je ključan zaključak.",
-        "translation": "මෙය ප්‍රධාන නිගමනයකි."
+        "translation": "මෙය තීරණාත්මක නිගමනයකි."
       },
       {
         "word": "izdvojiti",
         "reading": "ඉස්ද්වොයිති",
-        "meaning": "වෙන්කර දැක්වීම",
+        "meaning": "ඉස්මතු කිරීම",
         "example": "Izdvojite tri glavne tačke.",
-        "translation": "ප්‍රධාන කරුණු තුන වෙන්කර දක්වන්න."
+        "translation": "ප්‍රධාන කරුණු තුන ඉස්මතු කරන්න."
       },
       {
         "word": "potkrepljenje",
@@ -510,11 +510,11 @@ export const SERBIAN_C1_LESSONS = [
         "translation": "ව්‍යවහාරය වචනාර්ථයෙන් පරිවර්තනය නොකරයි."
       },
       {
-        "word": "doslovno",
+        "word": "doslovan",
         "reading": "දොස්ලොව්නො",
-        "meaning": "වචනාර්ථයෙන්",
-        "example": "Nemojte izraz shvatiti doslovno.",
-        "translation": "ප්‍රකාශය වචනාර්ථයෙන් නොගන්න."
+        "meaning": "වචනාර්ථමය",
+        "example": "Doslovan prevod ne prenosi uvek nameru.",
+        "translation": "වචනාර්ථමය පරිවර්තනය සෑමවිටම අරමුණ ගෙන නොයයි."
       },
       {
         "word": "aluzija",
@@ -538,18 +538,18 @@ export const SERBIAN_C1_LESSONS = [
         "translation": "උපහාසය සන්දර්භය මත රඳා පවතී."
       },
       {
-        "word": "slikovito",
+        "word": "slikovit",
         "reading": "ස්ලිකොවිතො",
-        "meaning": "චිත්‍රාත්මකව",
-        "example": "Govori slikovito, ali jasno.",
-        "translation": "චිත්‍රාත්මකව නමුත් පැහැදිලිව කතා කරන්න."
+        "meaning": "චිත්‍රාත්මක",
+        "example": "Opis je slikovit, ali ostaje jasan.",
+        "translation": "විස්තරය චිත්‍රාත්මක වුවත් පැහැදිලිව පවතී."
       },
       {
         "word": "preneti",
         "reading": "ප්‍රෙනෙති",
-        "meaning": "ගෙන යාම / සන්නිවේදනය",
-        "example": "Izraz prenosi snažnu emociju.",
-        "translation": "ප්‍රකාශය ප්‍රබල හැඟීමක් ගෙන යයි."
+        "meaning": "සන්නිවේදනය කිරීම",
+        "example": "Izraz može preneti snažnu emociju.",
+        "translation": "ප්‍රකාශයකට ප්‍රබල හැඟීමක් සන්නිවේදනය කළ හැක."
       }
     ],
     "grammarTitle": "Gramatika i stil",
@@ -661,9 +661,9 @@ export const SERBIAN_C1_LESSONS = [
       {
         "word": "implikacija",
         "reading": "ඉම්ප්ලිකාත්සියා",
-        "meaning": "අන්තර්ගත ඉඟිය",
+        "meaning": "අඟවන අදහස",
         "example": "Implikacija nije izrečena direktno.",
-        "translation": "අන්තර්ගත ඉඟිය සෘජුව කියා නැත."
+        "translation": "අඟවන අදහස සෘජුව කියා නැත."
       },
       {
         "word": "ton",
@@ -871,11 +871,11 @@ export const SERBIAN_C1_LESSONS = [
         "translation": "පිළිතුර නැවත වචනගත කළ හැක."
       },
       {
-        "word": "sažeto",
+        "word": "sažet",
         "reading": "සාෂෙතො",
-        "meaning": "කෙටියෙන්",
-        "example": "Odgovorite sažeto.",
-        "translation": "කෙටියෙන් පිළිතුරු දෙන්න."
+        "meaning": "කෙටි හා පැහැදිලි",
+        "example": "Odgovor treba da bude sažet.",
+        "translation": "පිළිතුර කෙටි හා පැහැදිලි විය යුතුය."
       }
     ],
     "grammarTitle": "Gramatika i stil",
@@ -1015,9 +1015,9 @@ export const SERBIAN_C1_LESSONS = [
       {
         "word": "dvosmislica",
         "reading": "ද්වොස්මිස්ලිත්සා",
-        "meaning": "අර්ථ අපැහැදිලි වීම",
-        "example": "Uklonite dvosmislicu.",
-        "translation": "අර්ථ අපැහැදිලි බව ඉවත් කරන්න."
+        "meaning": "අර්ථ අපැහැදිලි බව",
+        "example": "Uklonite svaku dvosmislicu iz teksta.",
+        "translation": "පාඨයෙන් සෑම අර්ථ අපැහැදිලි බවක්ම ඉවත් කරන්න."
       },
       {
         "word": "struktura",
