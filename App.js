@@ -1,5 +1,5 @@
 import React, { createContext, useContext, useMemo, useState, useEffect, useRef } from "react";
-import { View, Text, TouchableOpacity, ScrollView, StyleSheet, StatusBar, TextInput, AppState } from "react-native";
+import { View, Text, TouchableOpacity as NativeTouchableOpacity, ScrollView, StyleSheet, StatusBar, TextInput, AppState } from "react-native";
 import { SafeAreaProvider, SafeAreaView } from "react-native-safe-area-context";
 import * as Speech from "expo-speech";
 import { Audio } from "expo-av";
@@ -84,6 +84,16 @@ alignSerbianAssessmentWords(SERBIAN_B2_FINAL_EXAM, SERBIAN_B2_LESSONS);
 
 const PALETTES={dark:{bg:"#071426",panel:"#10243D",panel2:"#142D49",teal:"#35D6C5",gold:"#F5C66A",white:"#F5F8FC",muted:"#9DB0C5",line:"#24415F",nav:"#0A1B30"},light:{bg:"#F3F7FA",panel:"#FFFFFF",panel2:"#E5EFF4",teal:"#087F78",gold:"#A96808",white:"#142638",muted:"#526779",line:"#C9D8E2",nav:"#E5EFF4"}};
 const ThemeContext=createContext(null);
+const readableControlLabel=children=>{
+ if(typeof children==="string"||typeof children==="number")return String(children).trim();
+ if(Array.isArray(children))return children.map(readableControlLabel).filter(Boolean).join(" ").trim();
+ if(React.isValidElement(children))return children.props.accessibilityLabel||readableControlLabel(children.props.children);
+ return "";
+};
+function TouchableOpacity({children,accessibilityRole="button",accessibilityLabel,accessibilityState,disabled=false,style,...props}){
+ const label=accessibilityLabel||readableControlLabel(children)||"ක්‍රියා බොත්තම";
+ return <NativeTouchableOpacity {...props} disabled={disabled} accessibilityRole={accessibilityRole} accessibilityLabel={label} accessibilityState={{...accessibilityState,disabled}} style={[style,disabled&&{opacity:0.45}]}>{children}</NativeTouchableOpacity>;
+}
 const MISSIONS=["අලුත් වචන 5ක් ඉගෙනගන්න","සංවාදයකට සවන් දෙන්න","වාක්‍යයක් හඬින් නැවත කියන්න"];
 const localDateKey=()=>{const now=new Date();return [now.getFullYear(),String(now.getMonth()+1).padStart(2,"0"),String(now.getDate()).padStart(2,"0")].join("-");};
 const isRecord=value=>value!==null&&typeof value==="object"&&!Array.isArray(value);
