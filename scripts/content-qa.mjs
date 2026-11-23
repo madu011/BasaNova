@@ -254,6 +254,8 @@ assert.match(appSource, /function Action\(\{children,onPress,secondary=false\}\)
 // A single TouchableOpacity wrapper applies consistent button semantics,
 // a text-derived fallback label, disabled state exposure and disabled styling
 // across every screen without duplicating props on hundreds of call sites.
+assert.match(appSource, /return \/\[\\p\{L\}\\p\{N\}\]\/u\.test\(value\)\?value:""/u,
+  "Emoji-only child text must use a meaningful generic fallback rather than an emoji-only screen-reader label");
 assert.match(appSource, /TouchableOpacity as NativeTouchableOpacity/u,
   "Native touch controls must be wrapped by the shared accessible control");
 assert.match(appSource, /function TouchableOpacity\(\{children,accessibilityRole="button",accessibilityLabel,accessibilityState,disabled=false,style,\.\.\.props\}\)/u,
