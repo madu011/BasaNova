@@ -16,7 +16,7 @@ export const SERBIAN_C2_LESSONS_21_30 = [
       {
         "word": "konkordancija",
         "reading": "කොන්කොර්දාන්ට්සියා",
-        "meaning": "පද සන්දර්භ ලැයිස්තුව",
+        "meaning": "සන්දර්භයේ පද ලැයිස්තුව",
         "example": "Konkordancija prikazuje reč u neposrednom kontekstu.",
         "translation": "සන්දර්භ ලැයිස්තුවක් වචනය ආසන්න සන්දර්භය තුළ පෙන්වයි."
       },
