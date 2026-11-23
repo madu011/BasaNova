@@ -454,3 +454,5 @@ Reviewed A1–C2 final-exam interaction flows and added static regression guards
 
 ### Persistence, translator and voice safeguards — 2026-11-23
 Hardened restored translator history and favourites against malformed or duplicate local data. Reviewed translator HTTP/error handling, privacy notice, bounded history, TTS request-race protection and Serbian/English voice fallback; added static regression guards for these paths and core mobile safe-area/keyboard behavior. This is source-level review only: automated QA execution and Android voice/UI testing remain pending. See `HANDOFF.md`.
+
+- Follow-up correction: refined the translator-history QA matcher to match the actual deduplication expression in `App.js`; commit `add02ef27262a9b1d01303947a8942b274f8b7a8`.
