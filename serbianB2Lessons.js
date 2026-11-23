@@ -8,7 +8,7 @@ export const SERBIAN_B2_LESSONS = [
     "vocabulary": [
       {
         "word": "argument",
-        "reading": "аргумент",
+        "reading": "අර්ග්උම්එන්ත්",
         "meaning": "තර්කය",
         "example": "Razumem taj argument, međutim nedostaju dokazi.",
         "translation": "ඒ තර්කය මට තේරෙනවා, නමුත් සාධක අඩුයි.",
@@ -16,7 +16,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "evidence",
-        "reading": "доказ",
+        "reading": "ද්ඔක්අස්",
         "meaning": "සාධකය",
         "example": "Razumem taj argument, međutim nedostaju dokazi.",
         "translation": "ඒ තර්කය මට තේරෙනවා, නමුත් සාධක අඩුයි.",
@@ -24,7 +24,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "objection",
-        "reading": "примедба",
+        "reading": "ප්ර්ඉම්එද්බ්අ",
         "meaning": "විරෝධතාව",
         "example": "Uprkos tome, treba razmotriti dugoročne posledice.",
         "translation": "එසේ වුවත් දිගුකාලීන ප්‍රතිඵල සලකා බැලිය යුතුයි.",
@@ -32,7 +32,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "concession",
-        "reading": "уступак",
+        "reading": "උස්ත්උප්අක්",
         "meaning": "පිළිගැනීම",
         "example": "Na kraju, odluka mora biti zasnovana na činjenicama.",
         "translation": "අවසානයේ තීරණය කරුණු මත පදනම් විය යුතුයි.",
@@ -40,7 +40,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "perspective",
-        "reading": "перспектива",
+        "reading": "ප්එර්ස්ප්එක්ත්ඉව්අ",
         "meaning": "දෘෂ්ටිකෝණය",
         "example": "Smatram da je predlog koristan, ali postoje i rizici.",
         "translation": "යෝජනාව ප්‍රයෝජනවත් කියලා මම හිතනවා, නමුත් අවදානම්ත් තියෙනවා.",
@@ -48,7 +48,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "reasonable",
-        "reading": "разуман",
+        "reading": "ර්අස්උම්අන්",
         "meaning": "සාධාරණ",
         "example": "Razumem taj argument, međutim nedostaju dokazi.",
         "translation": "ඒ තර්කය මට තේරෙනවා, නමුත් සාධක අඩුයි.",
@@ -56,7 +56,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "nevertheless",
-        "reading": "ипак",
+        "reading": "ඉප්අක්",
         "meaning": "එසේ වුවත්",
         "example": "Uprkos tome, treba razmotriti dugoročne posledice.",
         "translation": "එසේ වුවත් දිගුකාලීන ප්‍රතිඵල සලකා බැලිය යුතුයි.",
@@ -64,7 +64,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "conclusion",
-        "reading": "закључак",
+        "reading": "ස්අක්ල්‍යඋච්අක්",
         "meaning": "නිගමනය",
         "example": "Na kraju, odluka mora biti zasnovana na činjenicama.",
         "translation": "අවසානයේ තීරණය කරුණු මත පදනම් විය යුතුයි.",
@@ -190,7 +190,7 @@ export const SERBIAN_B2_LESSONS = [
     "vocabulary": [
       {
         "word": "negotiation",
-        "reading": "преговори",
+        "reading": "ප්ර්එග්ඔව්ඔර්ඉ",
         "meaning": "සාකච්ඡා",
         "example": "Predlažem da podelimo troškove na jednake delove.",
         "translation": "වියදම් සමාන කොටස්වලට බෙදමු කියලා මම යෝජනා කරනවා.",
@@ -198,7 +198,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "agreement",
-        "reading": "споразум",
+        "reading": "ස්ප්ඔර්අස්උම්",
         "meaning": "ගිවිසුම",
         "example": "Možemo li da produžimo rok za dva dana?",
         "translation": "අවසන් දිනය දවස් දෙකකින් දිගු කරන්න පුළුවන්ද?",
@@ -206,7 +206,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "compromise",
-        "reading": "компромис",
+        "reading": "ක්ඔම්ප්ර්ඔම්ඉස්",
         "meaning": "සම්මුතිය",
         "example": "Ako prihvatite ovaj uslov, možemo potpisati sporazum.",
         "translation": "ඔබ මේ කොන්දේසිය පිළිගත්තොත් අපට ගිවිසුම අත්සන් කළ හැකියි.",
@@ -214,7 +214,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "condition",
-        "reading": "услов",
+        "reading": "උස්ල්ඔව්",
         "meaning": "කොන්දේසිය",
         "example": "Mislim da smo pronašli rešenje koje odgovara svima.",
         "translation": "හැමෝටම ගැළපෙන විසඳුමක් අපි හොයාගත්තා කියලා මට හිතෙනවා.",
@@ -222,7 +222,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "deadline",
-        "reading": "рок",
+        "reading": "ර්ඔක්",
         "meaning": "අවසන් දිනය",
         "example": "Predlažem da podelimo troškove na jednake delove.",
         "translation": "වියදම් සමාන කොටස්වලට බෙදමු කියලා මම යෝජනා කරනවා.",
@@ -230,7 +230,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "proposal",
-        "reading": "предлог",
+        "reading": "ප්ර්එද්ල්ඔග්",
         "meaning": "යෝජනාව",
         "example": "Možemo li da produžimo rok za dva dana?",
         "translation": "අවසන් දිනය දවස් දෙකකින් දිගු කරන්න පුළුවන්ද?",
@@ -238,7 +238,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "budget",
-        "reading": "буџет",
+        "reading": "බ්උජ්එත්",
         "meaning": "අයවැය",
         "example": "Ako prihvatite ovaj uslov, možemo potpisati sporazum.",
         "translation": "ඔබ මේ කොන්දේසිය පිළිගත්තොත් අපට ගිවිසුම අත්සන් කළ හැකියි.",
@@ -246,7 +246,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "flexible",
-        "reading": "флексибилан",
+        "reading": "ෆ්ල්එක්ස්ඉබ්ඉල්අන්",
         "meaning": "නම්‍යශීලී",
         "example": "Mislim da smo pronašli rešenje koje odgovara svima.",
         "translation": "හැමෝටම ගැළපෙන විසඳුමක් අපි හොයාගත්තා කියලා මට හිතෙනවා.",
@@ -372,7 +372,7 @@ export const SERBIAN_B2_LESSONS = [
     "vocabulary": [
       {
         "word": "leadership",
-        "reading": "лидерство",
+        "reading": "ල්ඉද්එර්ස්ත්ව්ඔ",
         "meaning": "නායකත්වය",
         "example": "Cenim vaš trud, ali izveštaj treba da bude precizniji.",
         "translation": "ඔබේ උත්සාහය අගය කරනවා, නමුත් වාර්තාව තවත් නිවැරදි විය යුතුයි.",
@@ -380,7 +380,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "feedback",
-        "reading": "повратна информација",
+        "reading": "ප්ඔව්ර්අත්න්අ ඉන්ෆ්ඔර්ම්අත්ස්ඉය්අ",
         "meaning": "ප්‍රතිචාර",
         "example": "Važno je da svi razumemo svoju odgovornost.",
         "translation": "අපි හැමෝම අපේ වගකීම තේරුම් ගැනීම වැදගත්.",
@@ -388,7 +388,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "responsibility",
-        "reading": "одговорност",
+        "reading": "ඔද්ග්ඔව්ඔර්න්ඔස්ත්",
         "meaning": "වගකීම",
         "example": "Predlažem kratke nedeljne sastanke radi napretka.",
         "translation": "ප්‍රගතිය සඳහා සතිපතා කෙටි රැස්වීම් යෝජනා කරනවා.",
@@ -396,7 +396,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "initiative",
-        "reading": "иницијатива",
+        "reading": "ඉන්ඉත්ස්ඉය්අත්ඉව්අ",
         "meaning": "මුලපිරීම",
         "example": "Dobar vođa sluša tim i daje jasne smernice.",
         "translation": "හොඳ නායකයෙක් කණ්ඩායමට සවන්දී පැහැදිලි මඟපෙන්වීම් ලබාදෙනවා.",
@@ -404,7 +404,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "performance",
-        "reading": "учинак",
+        "reading": "උච්ඉන්අක්",
         "meaning": "කාර්ය සාධනය",
         "example": "Cenim vaš trud, ali izveštaj treba da bude precizniji.",
         "translation": "ඔබේ උත්සාහය අගය කරනවා, නමුත් වාර්තාව තවත් නිවැරදි විය යුතුයි.",
@@ -412,7 +412,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "support",
-        "reading": "подршка",
+        "reading": "ප්ඔද්ර්ෂ්ක්අ",
         "meaning": "සහාය",
         "example": "Važno je da svi razumemo svoju odgovornost.",
         "translation": "අපි හැමෝම අපේ වගකීම තේරුම් ගැනීම වැදගත්.",
@@ -420,7 +420,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "improvement",
-        "reading": "напредак",
+        "reading": "න්අප්ර්එද්අක්",
         "meaning": "දියුණුව",
         "example": "Predlažem kratke nedeljne sastanke radi napretka.",
         "translation": "ප්‍රගතිය සඳහා සතිපතා කෙටි රැස්වීම් යෝජනා කරනවා.",
@@ -428,7 +428,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "teamwork",
-        "reading": "тимски рад",
+        "reading": "ත්ඉම්ස්ක්ඉ ර්අද්",
         "meaning": "කණ්ඩායම් වැඩ",
         "example": "Dobar vođa sluša tim i daje jasne smernice.",
         "translation": "හොඳ නායකයෙක් කණ්ඩායමට සවන්දී පැහැදිලි මඟපෙන්වීම් ලබාදෙනවා.",
@@ -554,7 +554,7 @@ export const SERBIAN_B2_LESSONS = [
     "vocabulary": [
       {
         "word": "urbanization",
-        "reading": "урбанизација",
+        "reading": "උර්බ්අන්ඉස්අත්ස්ඉය්අ",
         "meaning": "නාගරීකරණය",
         "example": "Grad se brzo širi, pa je potrebno ulagati u infrastrukturu.",
         "translation": "නගරය ඉක්මනින් පැතිරෙන නිසා යටිතල පහසුකම්වල ආයෝජනය අවශ්‍යයි.",
@@ -562,7 +562,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "infrastructure",
-        "reading": "инфраструктура",
+        "reading": "ඉන්ෆ්ර්අස්ත්ර්උක්ත්උර්අ",
         "meaning": "යටිතල පහසුකම්",
         "example": "Rast stanovništva povećava potražnju za stanovima.",
         "translation": "ජනගහනය වැඩිවීම නිවාස ඉල්ලුම වැඩි කරනවා.",
@@ -570,7 +570,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "housing",
-        "reading": "становање",
+        "reading": "ස්ත්අන්ඔව්අන්‍යඑ",
         "meaning": "නිවාස",
         "example": "Međutim, razvoj ne koristi svim građanima podjednako.",
         "translation": "කෙසේ වෙතත් සංවර්ධනය සියලු පුරවැසියන්ට සමානව ප්‍රයෝජනවත් නැහැ.",
@@ -578,7 +578,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "inequality",
-        "reading": "неједнакост",
+        "reading": "න්එය්එද්න්අක්ඔස්ත්",
         "meaning": "අසමානතාව",
         "example": "Bolji prevoz može smanjiti saobraćajne gužve.",
         "translation": "හොඳ ප්‍රවාහනයෙන් රථවාහන තදබදය අඩු කළ හැකියි.",
@@ -586,7 +586,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "population",
-        "reading": "становништво",
+        "reading": "ස්ත්අන්ඔව්න්ඉෂ්ත්ව්ඔ",
         "meaning": "ජනගහනය",
         "example": "Grad se brzo širi, pa je potrebno ulagati u infrastrukturu.",
         "translation": "නගරය ඉක්මනින් පැතිරෙන නිසා යටිතල පහසුකම්වල ආයෝජනය අවශ්‍යයි.",
@@ -594,7 +594,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "investment",
-        "reading": "улагање",
+        "reading": "උල්අග්අන්‍යඑ",
         "meaning": "ආයෝජනය",
         "example": "Rast stanovništva povećava potražnju za stanovima.",
         "translation": "ජනගහනය වැඩිවීම නිවාස ඉල්ලුම වැඩි කරනවා.",
@@ -602,7 +602,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "accessibility",
-        "reading": "приступачност",
+        "reading": "ප්ර්ඉස්ත්උප්අච්න්ඔස්ත්",
         "meaning": "ප්‍රවේශ පහසුව",
         "example": "Međutim, razvoj ne koristi svim građanima podjednako.",
         "translation": "කෙසේ වෙතත් සංවර්ධනය සියලු පුරවැසියන්ට සමානව ප්‍රයෝජනවත් නැහැ.",
@@ -610,7 +610,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "consequence",
-        "reading": "последица",
+        "reading": "ප්ඔස්ල්එද්ඉත්ස්අ",
         "meaning": "ප්‍රතිඵලය",
         "example": "Bolji prevoz može smanjiti saobraćajne gužve.",
         "translation": "හොඳ ප්‍රවාහනයෙන් රථවාහන තදබදය අඩු කළ හැකියි.",
@@ -736,7 +736,7 @@ export const SERBIAN_B2_LESSONS = [
     "vocabulary": [
       {
         "word": "hypothesis",
-        "reading": "хипотеза",
+        "reading": "හ්ඉප්ඔත්එස්අ",
         "meaning": "කල්පිතය",
         "example": "Da imam više vremena, završio bih dodatni kurs.",
         "translation": "මට වැඩි කාලයක් තිබුණා නම් අමතර පාඨමාලාව අවසන් කරනවා.",
@@ -744,7 +744,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "condition",
-        "reading": "услов",
+        "reading": "උස්ල්ඔව්",
         "meaning": "කොන්දේසිය",
         "example": "Da smo ranije krenuli, stigli bismo na vreme.",
         "translation": "අපි කලින් පිටත් වුණා නම් වෙලාවට ළඟා වෙනවා.",
@@ -752,7 +752,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "outcome",
-        "reading": "исход",
+        "reading": "ඉස්හ්ඔද්",
         "meaning": "ප්‍රතිඵලය",
         "example": "U suprotnom, mogli bismo izgubiti važnu priliku.",
         "translation": "එසේ නොවුණොත් වැදගත් අවස්ථාවක් අහිමි විය හැකියි.",
@@ -760,7 +760,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "possibility",
-        "reading": "могућност",
+        "reading": "ම්ඔග්උච්‍යන්ඔස්ත්",
         "meaning": "හැකියාව",
         "example": "Postoji nekoliko alternativa koje treba razmotriti.",
         "translation": "සලකා බැලිය යුතු විකල්ප කිහිපයක් තිබෙනවා.",
@@ -768,7 +768,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "otherwise",
-        "reading": "иначе",
+        "reading": "ඉන්අච්එ",
         "meaning": "එසේ නොවුණොත්",
         "example": "Da imam više vremena, završio bih dodatni kurs.",
         "translation": "මට වැඩි කාලයක් තිබුණා නම් අමතර පාඨමාලාව අවසන් කරනවා.",
@@ -776,7 +776,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "to prevent",
-        "reading": "спречити",
+        "reading": "ස්ප්ර්එච්ඉත්ඉ",
         "meaning": "වළක්වන්න",
         "example": "Da smo ranije krenuli, stigli bismo na vreme.",
         "translation": "අපි කලින් පිටත් වුණා නම් වෙලාවට ළඟා වෙනවා.",
@@ -784,7 +784,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "to regret",
-        "reading": "жалити",
+        "reading": "ෂ්අල්ඉත්ඉ",
         "meaning": "කනගාටු වන්න",
         "example": "U suprotnom, mogli bismo izgubiti važnu priliku.",
         "translation": "එසේ නොවුණොත් වැදගත් අවස්ථාවක් අහිමි විය හැකියි.",
@@ -792,7 +792,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "alternative",
-        "reading": "алтернатива",
+        "reading": "අල්ත්එර්න්අත්ඉව්අ",
         "meaning": "විකල්පය",
         "example": "Postoji nekoliko alternativa koje treba razmotriti.",
         "translation": "සලකා බැලිය යුතු විකල්ප කිහිපයක් තිබෙනවා.",
@@ -918,7 +918,7 @@ export const SERBIAN_B2_LESSONS = [
     "vocabulary": [
       {
         "word": "procedure",
-        "reading": "поступак",
+        "reading": "ප්ඔස්ත්උප්අක්",
         "meaning": "ක්‍රියාපටිපාටිය",
         "example": "Zahtev se podnosi elektronski.",
         "translation": "අයදුම්පත අන්තර්ජාලයෙන් ඉදිරිපත් කරනු ලැබේ.",
@@ -926,7 +926,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "application",
-        "reading": "пријава",
+        "reading": "ප්ර්ඉය්අව්අ",
         "meaning": "අයදුම්පත",
         "example": "Dokumenti se proveravaju pre odobrenja.",
         "translation": "අනුමැතියට පෙර ලේඛන පරීක්ෂා කරනු ලැබේ.",
@@ -934,7 +934,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "approval",
-        "reading": "одобрење",
+        "reading": "ඔද්ඔබ්ර්එන්‍යඑ",
         "meaning": "අනුමැතිය",
         "example": "Nakon provere, zahtev se prosleđuje nadležnom odeljenju.",
         "translation": "පරීක්ෂාවෙන් පසු අයදුම්පත අදාළ අංශයට යොමු කරනු ලැබේ.",
@@ -942,7 +942,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "requirement",
-        "reading": "услов",
+        "reading": "උස්ල්ඔව්",
         "meaning": "අවශ්‍යතාව",
         "example": "Korisnik dobija obaveštenje o odluci.",
         "translation": "තීරණය ගැන පරිශීලකයාට දැනුම්දීමක් ලැබේ.",
@@ -950,7 +950,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "document",
-        "reading": "документ",
+        "reading": "ද්ඔක්උම්එන්ත්",
         "meaning": "ලේඛනය",
         "example": "Zahtev se podnosi elektronski.",
         "translation": "අයදුම්පත අන්තර්ජාලයෙන් ඉදිරිපත් කරනු ලැබේ.",
@@ -958,7 +958,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "to submit",
-        "reading": "поднети",
+        "reading": "ප්ඔද්න්එත්ඉ",
         "meaning": "ඉදිරිපත් කරන්න",
         "example": "Dokumenti se proveravaju pre odobrenja.",
         "translation": "අනුමැතියට පෙර ලේඛන පරීක්ෂා කරනු ලැබේ.",
@@ -966,7 +966,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "to verify",
-        "reading": "проверити",
+        "reading": "ප්ර්ඔව්එර්ඉත්ඉ",
         "meaning": "තහවුරු කරන්න",
         "example": "Nakon provere, zahtev se prosleđuje nadležnom odeljenju.",
         "translation": "පරීක්ෂාවෙන් පසු අයදුම්පත අදාළ අංශයට යොමු කරනු ලැබේ.",
@@ -974,7 +974,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "processing",
-        "reading": "обрада",
+        "reading": "ඔබ්ර්අද්අ",
         "meaning": "සැකසීම",
         "example": "Korisnik dobija obaveštenje o odluci.",
         "translation": "තීරණය ගැන පරිශීලකයාට දැනුම්දීමක් ලැබේ.",
@@ -1100,7 +1100,7 @@ export const SERBIAN_B2_LESSONS = [
     "vocabulary": [
       {
         "word": "presentation",
-        "reading": "представљање",
+        "reading": "ප්ර්එද්ස්ත්අව්ල්‍යඅන්‍යඑ",
         "meaning": "ඉදිරිපත් කිරීම",
         "example": "Dozvolite mi da predstavim glavne rezultate.",
         "translation": "ප්‍රධාන ප්‍රතිඵල ඉදිරිපත් කිරීමට මට අවසර දෙන්න.",
@@ -1108,7 +1108,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "audience",
-        "reading": "публика",
+        "reading": "ප්උබ්ල්ඉක්අ",
         "meaning": "ශ්‍රාවක පිරිස",
         "example": "Najpre ću objasniti cilj, a zatim prednosti.",
         "translation": "පළමුව අරමුණත් පසුව වාසිත් පැහැදිලි කරනවා.",
@@ -1116,7 +1116,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "objective",
-        "reading": "циљ",
+        "reading": "ත්ස්ඉල්‍ය",
         "meaning": "අරමුණ",
         "example": "Ovaj primer jasno pokazuje razliku.",
         "translation": "මේ උදාහරණය වෙනස පැහැදිලිව පෙන්වනවා.",
@@ -1124,7 +1124,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "key point",
-        "reading": "главна тачка",
+        "reading": "ග්ල්අව්න්අ ත්අච්ක්අ",
         "meaning": "ප්‍රධාන කරුණ",
         "example": "Na kraju ću odgovoriti na vaša pitanja.",
         "translation": "අවසානයේ ඔබේ ප්‍රශ්නවලට පිළිතුරු දෙන්නම්.",
@@ -1132,7 +1132,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "illustration",
-        "reading": "пример",
+        "reading": "ප්ර්ඉම්එර්",
         "meaning": "උදාහරණය",
         "example": "Dozvolite mi da predstavim glavne rezultate.",
         "translation": "ප්‍රධාන ප්‍රතිඵල ඉදිරිපත් කිරීමට මට අවසර දෙන්න.",
@@ -1140,7 +1140,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "to emphasize",
-        "reading": "нагласити",
+        "reading": "න්අග්ල්අස්ඉත්ඉ",
         "meaning": "අවධාරණය කරන්න",
         "example": "Najpre ću objasniti cilj, a zatim prednosti.",
         "translation": "පළමුව අරමුණත් පසුව වාසිත් පැහැදිලි කරනවා.",
@@ -1148,7 +1148,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "persuasive",
-        "reading": "убедљив",
+        "reading": "උබ්එද්ල්‍යඉව්",
         "meaning": "ඒත්තු ගන්වන",
         "example": "Ovaj primer jasno pokazuje razliku.",
         "translation": "මේ උදාහරණය වෙනස පැහැදිලිව පෙන්වනවා.",
@@ -1156,7 +1156,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "summary",
-        "reading": "сажетак",
+        "reading": "ස්අෂ්එත්අක්",
         "meaning": "සාරාංශය",
         "example": "Na kraju ću odgovoriti na vaša pitanja.",
         "translation": "අවසානයේ ඔබේ ප්‍රශ්නවලට පිළිතුරු දෙන්නම්.",
@@ -1282,7 +1282,7 @@ export const SERBIAN_B2_LESSONS = [
     "vocabulary": [
       {
         "word": "data",
-        "reading": "подаци",
+        "reading": "ප්ඔද්අත්ස්ඉ",
         "meaning": "දත්ත",
         "example": "Podaci pokazuju da je prodaja porasla za deset procenata.",
         "translation": "විකුණුම් සියයට දහයකින් වැඩිවූ බව දත්ත පෙන්වනවා.",
@@ -1290,7 +1290,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "sample",
-        "reading": "узорак",
+        "reading": "උස්ඔර්අක්",
         "meaning": "නියැදිය",
         "example": "Uzorak je mali, pa rezultate treba tumačiti oprezno.",
         "translation": "නියැදිය කුඩා නිසා ප්‍රතිඵල ප්‍රවේශමෙන් අර්ථකථනය කළ යුතුයි.",
@@ -1298,7 +1298,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "survey",
-        "reading": "анкета",
+        "reading": "අන්ක්එත්අ",
         "meaning": "සමීක්ෂණය",
         "example": "Ovaj trend može ukazivati na promenu navika.",
         "translation": "මේ ප්‍රවණතාව පුරුදු වෙනස්වීමක් පෙන්විය හැකියි.",
@@ -1306,7 +1306,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "percentage",
-        "reading": "проценат",
+        "reading": "ප්ර්ඔත්ස්එන්අත්",
         "meaning": "ප්‍රතිශතය",
         "example": "Izveštaj navodi nekoliko važnih ograničenja.",
         "translation": "වාර්තාව වැදගත් සීමාවන් කිහිපයක් සඳහන් කරනවා.",
@@ -1314,7 +1314,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "trend",
-        "reading": "тренд",
+        "reading": "ත්ර්එන්ද්",
         "meaning": "ප්‍රවණතාව",
         "example": "Ovaj trend može ukazivati na promenu navika.",
         "translation": "මේ ප්‍රවණතාව පුරුදු වෙනස්වීමක් පෙන්විය හැකියි.",
@@ -1322,7 +1322,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "finding",
-        "reading": "налаз",
+        "reading": "න්අල්අස්",
         "meaning": "සොයාගැනීම",
         "example": "Uzorak je mali, pa rezultate treba tumačiti oprezno.",
         "translation": "නියැදිය කුඩා නිසා ප්‍රතිඵල ප්‍රවේශමෙන් අර්ථකථනය කළ යුතුයි.",
@@ -1330,7 +1330,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "limitation",
-        "reading": "ограничење",
+        "reading": "ඔග්ර්අන්ඉච්එන්‍යඑ",
         "meaning": "සීමාව",
         "example": "Ovaj trend može ukazivati na promenu navika.",
         "translation": "මේ ප්‍රවණතාව පුරුදු වෙනස්වීමක් පෙන්විය හැකියි.",
@@ -1338,7 +1338,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "to indicate",
-        "reading": "указивати",
+        "reading": "උක්අස්ඉව්අත්ඉ",
         "meaning": "පෙන්වා දෙන්න",
         "example": "Izveštaj navodi nekoliko važnih ograničenja.",
         "translation": "වාර්තාව වැදගත් සීමාවන් කිහිපයක් සඳහන් කරනවා.",
@@ -2430,7 +2430,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "regulativa",
-        "reading": "රෙගුලатиවා",
+        "reading": "රෙගුලඅත්ඉවා",
         "meaning": "නියාමනය",
         "example": "Korisnici moraju znati kako se njihovi podaci čuvaju.",
         "translation": "තම දත්ත සුරක්ෂිත කරන්නේ කෙසේදැයි පරිශීලකයන් දැනගත යුතුයි.",
@@ -2464,7 +2464,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "sr": "Korisnici moraju znati kako se njihovi podaci čuvaju.",
-        "reading": "කොරිස්නිත්සි මොරයු ස්නාති කාකො සේ න්යихොවි පොදාත්සි චුවායු.",
+        "reading": "කොරිස්නිත්සි මොරයු ස්නාති කාකො සේ න්යඉහ්ොවි පොදාත්සි චුවායු.",
         "si": "තම දත්ත සුරක්ෂිත කරන්නේ කෙසේදැයි පරිශීලකයන් දැනගත යුතුයි."
       }
     ],
@@ -2486,7 +2486,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "sr": "Korisnici moraju znati kako se njihovi podaci čuvaju.",
-        "reading": "කොරිස්නිත්සි මොරයු ස්නාති කාකො සේ න්යихොවි පොදාත්සි චුවායු.",
+        "reading": "කොරිස්නිත්සි මොරයු ස්නාති කාකො සේ න්යඉහ්ොවි පොදාත්සි චුවායු.",
         "si": "තම දත්ත සුරක්ෂිත කරන්නේ කෙසේදැයි පරිශීලකයන් දැනගත යුතුයි."
       }
     ],
@@ -2572,7 +2572,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "obnovljiv",
-        "reading": "ඔබ්නොව්ල්යив",
+        "reading": "ඔබ්නොව්ල්යඉව්",
         "meaning": "නැවත භාවිත කළ හැකි",
         "example": "Grad treba da ulaže u obnovljive izvore energije.",
         "translation": "නගරය පුනර්ජනනීය බලශක්ති මූලාශ්‍රවල ආයෝජනය කළ යුතුයි.",
@@ -2624,14 +2624,14 @@ export const SERBIAN_B2_LESSONS = [
     "grammarTerms": [
       {
         "sr": "Grad treba da ulaže u obnovljive izvore energije.",
-        "reading": "ග්‍රාද් ත්‍රෙබා දා උලාෂෙ උ ඔබ්නොව්ල්යивෙ ඉස්වොරෙ එනෙර්ගියේ.",
+        "reading": "ග්‍රාද් ත්‍රෙබා දා උලාෂෙ උ ඔබ්නොව්ල්යඉව්ෙ ඉස්වොරෙ එනෙර්ගියේ.",
         "si": "නගරය පුනර්ජනනීය බලශක්ති මූලාශ්‍රවල ආයෝජනය කළ යුතුයි."
       }
     ],
     "examples": [
       {
         "sr": "Grad treba da ulaže u obnovljive izvore energije.",
-        "reading": "ග්‍රාද් ත්‍රෙබා දා උලාෂෙ උ ඔබ්නොව්ල්යивෙ ඉස්වොරෙ එනෙර්ගියේ.",
+        "reading": "ග්‍රාද් ත්‍රෙබා දා උලාෂෙ උ ඔබ්නොව්ල්යඉව්ෙ ඉස්වොරෙ එනෙර්ගියේ.",
         "si": "නගරය පුනර්ජනනීය බලශක්ති මූලාශ්‍රවල ආයෝජනය කළ යුතුයි."
       },
       {
@@ -2653,7 +2653,7 @@ export const SERBIAN_B2_LESSONS = [
     "dialogue": [
       {
         "sr": "Grad treba da ulaže u obnovljive izvore energije.",
-        "reading": "ග්‍රාද් ත්‍රෙබා දා උලාෂෙ උ ඔබ්නොව්ල්යивෙ ඉස්වොරෙ එනෙර්ගියේ.",
+        "reading": "ග්‍රාද් ත්‍රෙබා දා උලාෂෙ උ ඔබ්නොව්ල්යඉව්ෙ ඉස්වොරෙ එනෙර්ගියේ.",
         "si": "නගරය පුනර්ජනනීය බලශක්ති මූලාශ්‍රවල ආයෝජනය කළ යුතුයි."
       },
       {
@@ -3010,7 +3010,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "sr": "Zaključak treba zasnivati na proverljivim podacima.",
-        "reading": "සාක්ල්යුචාක් ත්‍රෙබා සාස්නිවාති නා ප්‍රොවෙර්ල්යивිම් පොදාත්සිමා.",
+        "reading": "සාක්ල්යුචාක් ත්‍රෙබා සාස්නිවාති නා ප්‍රොවෙර්ල්යඉව්ිම් පොදාත්සිමා.",
         "si": "නිගමනය තහවුරු කළ හැකි දත්ත මත පදනම් විය යුතුයි."
       }
     ],
@@ -3032,7 +3032,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "sr": "Zaključak treba zasnivati na proverljivim podacima.",
-        "reading": "සාක්ල්යුචාක් ත්‍රෙබා සාස්නිවාති නා ප්‍රොවෙර්ල්යивිම් පොදාත්සිමා.",
+        "reading": "සාක්ල්යුචාක් ත්‍රෙබා සාස්නිවාති නා ප්‍රොවෙර්ල්යඉව්ිම් පොදාත්සිමා.",
         "si": "නිගමනය තහවුරු කළ හැකි දත්ත මත පදනම් විය යුතුයි."
       }
     ],
@@ -4274,7 +4274,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "sr": "Zaposleni će morati da razvijaju nove veštine.",
-        "reading": "සාපොස්ලෙනි චෙ මොරати දා රාස්වියායු නොවෙ වෙෂ්තිනෙ.",
+        "reading": "සාපොස්ලෙනි චෙ මොරඅත්ඉ දා රාස්වියායු නොවෙ වෙෂ්තිනෙ.",
         "si": "සේවකයන්ට නව කුසලතා වර්ධනය කිරීමට සිදුවේවි."
       },
       {
@@ -4296,7 +4296,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "sr": "Zaposleni će morati da razvijaju nove veštine.",
-        "reading": "සාපොස්ලෙනි චෙ මොරати දා රාස්වියායු නොවෙ වෙෂ්තිනෙ.",
+        "reading": "සාපොස්ලෙනි චෙ මොරඅත්ඉ දා රාස්වියායු නොවෙ වෙෂ්තිනෙ.",
         "si": "සේවකයන්ට නව කුසලතා වර්ධනය කිරීමට සිදුවේවි."
       },
       {
@@ -4313,7 +4313,7 @@ export const SERBIAN_B2_LESSONS = [
     "listeningPractice": {
       "prompt": "හඬ අසා නිවැරදි අර්ථය තෝරන්න.",
       "audio": "Zaposleni će morati da razvijaju nove veštine.",
-      "reading": "සාපොස්ලෙනි චෙ මොරати දා රාස්වියායු නොවෙ වෙෂ්තිනෙ.",
+      "reading": "සාපොස්ලෙනි චෙ මොරඅත්ඉ දා රාස්වියායු නොවෙ වෙෂ්තිනෙ.",
       "options": [
         "සේවකයන්ට නව කුසලතා වර්ධනය කිරීමට සිදුවේවි.",
         "ඉදිරි වසරවල සමහර කාර්යයන් ස්වයංක්‍රීය කෙරේවි.",
@@ -4444,14 +4444,14 @@ export const SERBIAN_B2_LESSONS = [
     "grammarTerms": [
       {
         "sr": "Rezultati ukazuju na povezanost, ali ne dokazuju uzrok.",
-        "reading": "රෙසුල්තати උකාසුයු නා පොවෙසානොස්ත්, අලි නෙ දොකාසුයු උස්‍රොක්.",
+        "reading": "රෙසුල්තඅත්ඉ උකාසුයු නා පොවෙසානොස්ත්, අලි නෙ දොකාසුයු උස්‍රොක්.",
         "si": "ප්‍රතිඵල සම්බන්ධතාවක් පෙන්වන නමුත් හේතුව තහවුරු කරන්නේ නැහැ."
       }
     ],
     "examples": [
       {
         "sr": "Rezultati ukazuju na povezanost, ali ne dokazuju uzrok.",
-        "reading": "රෙසුල්තати උකාසුයු නා පොවෙසානොස්ත්, අලි නෙ දොකාසුයු උස්‍රොක්.",
+        "reading": "රෙසුල්තඅත්ඉ උකාසුයු නා පොවෙසානොස්ත්, අලි නෙ දොකාසුයු උස්‍රොක්.",
         "si": "ප්‍රතිඵල සම්බන්ධතාවක් පෙන්වන නමුත් හේතුව තහවුරු කරන්නේ නැහැ."
       },
       {
@@ -4473,7 +4473,7 @@ export const SERBIAN_B2_LESSONS = [
     "dialogue": [
       {
         "sr": "Rezultati ukazuju na povezanost, ali ne dokazuju uzrok.",
-        "reading": "රෙසුල්තати උකාසුයු නා පොවෙසානොස්ත්, අලි නෙ දොකාසුයු උස්‍රොක්.",
+        "reading": "රෙසුල්තඅත්ඉ උකාසුයු නා පොවෙසානොස්ත්, අලි නෙ දොකාසුයු උස්‍රොක්.",
         "si": "ප්‍රතිඵල සම්බන්ධතාවක් පෙන්වන නමුත් හේතුව තහවුරු කරන්නේ නැහැ."
       },
       {
