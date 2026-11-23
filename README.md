@@ -460,3 +460,7 @@ Hardened restored translator history and favourites against malformed or duplica
 
 ### Mobile navigation and accessibility — 2026-11-23
 Improved bottom-tab screen-reader labels and selected states, enlarged navigation and vocabulary alphabet-filter touch targets, and added descriptive labels for course selection, theme, language switching, vocabulary search and translator controls. Added static regression checks. Source inspection passed; screen-reader/runtime and Android device testing remain pending. See `HANDOFF.md`.
+
+
+### Language-separated vocabulary favourites — 2026-11-23
+Fixed a cross-language favourites collision by storing Serbian and English saved words separately, while migrating older saved arrays into the previously selected language. Added source-level regression guards. Device-profile migration and Android UI testing remain pending. See `HANDOFF.md`.
