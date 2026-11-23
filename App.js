@@ -598,7 +598,7 @@ export default function App(){
  const count=language?learned[language].length:0,percent=language?Math.round(count/words.length*100):0;
  const dialogs=language?speakingPractice[language]:[],dialog=dialogs[dialogIndex%dialogs.length];
  const title=useMemo(()=>({home:"ආයුබෝවන්!",learn:"පාඩම්",vocabulary:"වචන පොත",progress:"ඔබේ ප්‍රගතිය",teacher:"AI ගුරුතුමා",speak:"කතා පුහුණුව",translate:"සිංහල → Serbian පරිවර්තකය",alphabet:"Serbian අකුරු"})[tab],[tab]);
- const choose=lang=>{setLanguage(lang);setIndex(0);setTab("home");};
+ const choose=lang=>{setLanguage(lang);setIndex(0);setTab("home");setVocabSearch("");setVocabLetter("ALL");setVocabDisplayLimit(60);setShowFavoritesOnly(false);setExpandedLessonId((lang==="Serbian"?SERBIAN_A1_LESSONS:ENGLISH_A1_LESSONS)[0]?.id||null);setDialogIndex(0);setLineIndex(0);setShowSlang(false);};
  const next=()=>setIndex(v=>(v+1)%words.length);
  const mark=()=>{setLearned(v=>({...v,[language]:v[language].includes(current.word)?v[language]:[...v[language],current.word]}));next();};
  const copySerbianTranslation=async()=>{if(!translateOutput)return;try{await Clipboard.setStringAsync(translateOutput);setTranslateCopied(true);}catch(error){setTranslateError("Copy කරන්න බැරි වුණා.");}};
