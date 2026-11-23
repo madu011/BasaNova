@@ -438,3 +438,7 @@ Added `npm run qa:content` to validate the A1 and C2 final/revision assessment s
 
 ### Vocabulary library and daily learning missions — 2026-11-23
 The vocabulary library now includes lesson vocabulary across A1–C2 for both language tracks, with filtered results shown in batches of 60 to keep the mobile screen manageable. Daily mission completion resets against the device's local calendar date when the app resumes, while total XP remains cumulative. These are source-level updates; runtime and Android verification are still pending. See `HANDOFF.md` for the current work log.
+
+
+### Serbian B2 pronunciation and lesson progress — 2026-11-23
+Remaining Serbian B2 vocabulary pronunciation fields were normalized to Sinhala script, with static QA checks added to prevent mixed-script regressions. Course progress now counts only lessons whose practice and applicable listening answers are correct; checking an incorrect answer no longer increases completion. Sinhala readings are approximate learning aids and still need language-expert review. Runtime and Android verification remain pending; see `HANDOFF.md`.
