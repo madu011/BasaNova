@@ -219,6 +219,23 @@ assert.match(appSource, /SafeAreaView edges=\{\["top","right","bottom","left"\]\
 assert.match(appSource, /keyboardShouldPersistTaps="handled"/u,
   "Scrollable learning screens must preserve taps while the keyboard is open");
 
+// Navigation accessibility and compact-screen usability.
+assert.match(appSource, /accessibilityRole="button" accessibilityLabel=\{label\} accessibilityState=\{\{selected:tab===id\}\} onPress=\{\(\)=>setTab\(id\)\}/u,
+  "Bottom navigation must expose a screen-reader label and selected state for every tab");
+assert.match(appSource, /navItem:\{flex:1,minWidth:0,minHeight:52,[^}]*paddingVertical:6\}/u,
+  "Bottom navigation touch targets must have a minimum 52-point height");
+assert.match(appSource, /navLabel:\{fontSize:10,/u,
+  "Bottom navigation labels must remain readable on small screens");
+assert.match(appSource, /accessibilityLabel=\{theme==="dark"\?"ආලෝක තේමාව සක්‍රිය කරන්න":"අඳුරු තේමාව සක්‍රිය කරන්න"\}/u,
+  "Theme toggle must expose its action to screen readers");
+assert.match(appSource, /accessibilityLabel="Serbian පාඨමාලාව තෝරන්න"/u,
+  "Serbian course selector must have a screen-reader label");
+assert.match(appSource, /accessibilityLabel="English පාඨමාලාව තෝරන්න"/u,
+  "English course selector must have a screen-reader label");
+assert.match(appSource, /alphabet:"Serbian අකුරු"/u,
+  "Serbian alphabet screen must have a visible page title");
+
+
 assert.match(appSource, /setA2ExamSubmitted\(false\);setB1ExamSubmitted\(false\);setB2ExamSubmitted\(false\);setC1ExamSubmitted\(false\);setC2ExamSubmitted\(false\)/u,
   "Switching language must close any previously submitted advanced exam");
 
