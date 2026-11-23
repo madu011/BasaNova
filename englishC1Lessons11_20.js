@@ -9,9 +9,9 @@ export const ENGLISH_C1_LESSONS_11_20 = [
       {
         "word": "concession",
         "reading": "කන්සෙෂන්",
-        "meaning": "සහනය / уступය",
-        "example": "A workable compromise must address both sides' priorities.",
-        "translation": "ක්‍රියාත්මක කළ හැකි සම්මුතිය දෙපාර්ශ්වයේ ප්‍රමුඛතා සලකා බැලිය යුතුය."
+        "meaning": "සහනයක් ලබාදීම",
+        "example": "A limited concession can help the parties reach agreement.",
+        "translation": "සීමිත සහනයක් ලබාදීම එකඟතාවකට පැමිණීමට උපකාරී විය හැක."
       },
       {
         "word": "compromise",
@@ -21,11 +21,11 @@ export const ENGLISH_C1_LESSONS_11_20 = [
         "translation": "සීමිත සහනයක් ලබා දීමට අපි සූදානම්ය."
       },
       {
-        "word": "bargaining",
+        "word": "negotiation",
         "reading": "බාගනිං",
-        "meaning": "කේවල් කිරීම",
-        "example": "Could we agree on a phased approach?",
-        "translation": "අදියරෙන් අදියර ක්‍රමයකට එකඟ විය හැකිද?"
+        "meaning": "සාකච්ඡා කිරීම",
+        "example": "Negotiation requires a clear understanding of both sides' priorities.",
+        "translation": "සාකච්ඡා කිරීම සඳහා දෙපාර්ශ්වයේ ප්‍රමුඛතා පැහැදිලිව තේරුම් ගැනීම අවශ්‍යය."
       },
       {
         "word": "mutual",
@@ -44,9 +44,9 @@ export const ENGLISH_C1_LESSONS_11_20 = [
       {
         "word": "trade-off",
         "reading": "ට්‍රේඩ්-ඔෆ්",
-        "meaning": "හුවමාරු තේරීම",
-        "example": "The authors use “trade-off” when explaining their central argument.",
-        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “හුවමාරු තේරීම” යන පදය භාවිත කරති."
+        "meaning": "වාසි හා අවාසි අතර තේරීම",
+        "example": "Every proposal involves a trade-off between benefits and costs.",
+        "translation": "සෑම යෝජනාවකම වාසි හා අවාසි අතර තේරීමක් ඇත."
       },
       {
         "word": "consensus",
@@ -201,8 +201,8 @@ export const ENGLISH_C1_LESSONS_11_20 = [
         "word": "contingency",
         "reading": "කන්ටින්ජන්සි",
         "meaning": "හදිසි විකල්ප සැලැස්ම",
-        "example": "The report defines “contingency” before analyzing the results.",
-        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “හදිසි විකල්ප සැලැස්ම” යන සංකල්පය අර්ථ දක්වයි."
+        "example": "A contingency plan sets out what to do if the risk occurs.",
+        "translation": "අවදානම සැබෑ වුවහොත් ගත යුතු පියවර හදිසි විකල්ප සැලැස්මෙන් දක්වයි."
       },
       {
         "word": "uncertainty",
@@ -825,8 +825,8 @@ export const ENGLISH_C1_LESSONS_11_20 = [
         "word": "whereas",
         "reading": "වෙයරෑස්",
         "meaning": "එසේ වුවද / අතර",
-        "example": "Whereas the first option is cheaper, the second is more reliable.",
-        "translation": "පළමු විකල්පය ලාභදායී වුවද දෙවැන්න වඩා විශ්වාසදායකය."
+        "example": "Whereas the first proposal is cheaper, the second is more reliable.",
+        "translation": "පළමු යෝජනාව ලාභදායී වුවද දෙවැන්න වඩා විශ්වාසදායකය."
       },
       {
         "word": "nevertheless",
@@ -1029,9 +1029,9 @@ export const ENGLISH_C1_LESSONS_11_20 = [
       {
         "word": "de-escalate",
         "reading": "ඩී-එස්කලේට්",
-        "meaning": "උණුසුම අඩු කිරීම",
-        "example": "Understanding “de-escalate” helps readers assess this example.",
-        "translation": "මෙම උදාහරණය ඇගයීමට “උණුසුම අඩු කිරීම” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
+        "meaning": "ගැටුමේ උණුසුම අඩු කිරීම",
+        "example": "The mediator tries to de-escalate the conflict before talks continue.",
+        "translation": "සාකච්ඡාව ඉදිරියට ගෙන යාමට පෙර මැදිහත්කරු ගැටුමේ උණුසුම අඩු කිරීමට උත්සාහ කරයි."
       },
       {
         "word": "resolution",
