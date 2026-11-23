@@ -1361,3 +1361,14 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 
 ### Next exact task
 - Audit and repair A2, B1 and B2 vocabulary examples/translations in paired Serbian and English batches. Then normalize Serbian B2 headword readings to Sinhala-script pronunciation using the app's existing fallback mapping or a reviewed static mapping. After that, review App.js source-level UI/persistence flows. Keep all lesson IDs and progress keys stable. Do not run builds or GitHub Actions while the usage restriction remains unresolved.
+
+## 2026-11-23 follow-up — Content QA registry repair
+- Inspected the current `scripts/content-qa.mjs` and found a deterministic QA-script defect: C1 Serbian and English lesson tracks were validated into local variables but were never registered in the shared `courseLessons` / `courseStats` objects. Later advanced-vocabulary uniqueness and paired-track checks read those missing registry entries, which could cause the QA script to fail before reaching its final success output.
+- Fixed the defect in commit `61ecc831775675ad8ae29e05d4a69593b3497938` by registering both independently validated C1 tracks and deriving their lesson, vocabulary, practice and listening counts from the source data.
+- This is a source-level repair only. `npm run qa:content` has **not** been executed; GitHub Actions remains manual-only and usage/billing restrictions previously blocked runner allocation. Do not claim the full QA suite passes until it is actually run.
+- No Expo export, Android build, APK build or device test was run. The user continues to require all source/UI/content work and QA before the final APK build.
+
+### Exact next task
+1. Continue reviewing `scripts/content-qa.mjs` for other deterministic validation defects, especially assumptions shared across A1–C2 and assessment alignment.
+2. Review current `App.js` screens and persistence/audio flows against the product requirements; fix verified defects in grouped commits and update this handoff each work session.
+3. When GitHub Actions usage permits, run only `npm run qa:content` first, repair every reported failure, and keep Expo/APK workflows untouched until the user explicitly authorizes the final build.
