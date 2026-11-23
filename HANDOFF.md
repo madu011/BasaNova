@@ -1421,3 +1421,11 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 - Added static regression assertions in `scripts/content-qa.mjs` to guard full CEFR vocabulary aggregation, bounded vocabulary rendering, matching-date mission restoration and date checks on app resume. Commit: `64b3062fb433d4a3c4bfca9a8c8f66c2db800c0d`. The QA script remains unexecuted, so these assertions have only been source-inspected.
 
 - Follow-up inspection caught and corrected over-escaped regular-expression literals in the new static regression assertions. Corrected in commit `42b7a7f6a483019a42d05fca440fde211cbbc5c9`. The QA script has still not been run.
+
+
+## 2026-11-23 follow-up — Serbian B2 pronunciation and accurate lesson completion
+- Audited Serbian B2 vocabulary pronunciation and found 79 Cyrillic readings, 24 additional Latin-script readings, and 12 mixed-script example readings. Converted these remaining pronunciation fields to Sinhala-script learner guides. A source scan after the updates found 900/900 vocabulary readings and 400/400 example readings contain Sinhala script without Latin/Cyrillic fragments. This is a script-consistency check, not fluent-speaker validation.
+- Added `validateSerbianB2Pronunciation` to `scripts/content-qa.mjs` so future Serbian B2 vocabulary and example pronunciation fields must remain Sinhala-only. Commits: `35f777e0f987f8e32d119db0de4a9a8258815642`, `0f049f0500154b7ed1a41c1918f42b78cfbc2b2d`, and `d0a34057cc7a513533d93c3ea5797dd0a69bb51a`.
+- Fixed course lesson progress aggregation in `App.js`: a lesson now counts as completed only when every practice answer is correct and, where the lesson has a listening task, its listening answer is also correct. A1 uses its Serbian listening set or generated vocabulary listening task, matching the Learn screen behavior. Previously, merely checking a wrong answer could increase the course completion percentage.
+- Added static QA assertions for correctness-based practice and listening completion. Commits: `b5560a5a07f26b23d2c85a9780707ffd1f7d4b29` and `6c99ab80cab3cb163d4162e966191e632f01d179`.
+- Automated QA remains unexecuted; no Expo export, APK build, installation or device test was performed. Keep the build workflow untouched until all source work is complete and the user authorizes the final build.
