@@ -4,7 +4,7 @@ export const ENGLISH_C1_LESSONS_41_50 = [
     "id": "en-c1-l41",
     "unit": "C1 · Strategic foresight and scenario planning",
     "title": "C1 · 41 · Strategic foresight and scenario planning",
-    "objective": "අනාගත අවස්ථා කිහිපයක් සලකා අවදානම් සහ සූදානම් වීමේ ක්‍රියාමාර්ග පැහැදිලි කරන්න.",
+    "objective": "Consider several possible future scenarios and explain the risks and preparedness measures.",
     "vocabulary": [
       {
         "word": "foresight",
@@ -167,7 +167,7 @@ export const ENGLISH_C1_LESSONS_41_50 = [
     "id": "en-c1-l42",
     "unit": "C1 · Advanced negotiation and diplomatic compromise",
     "title": "C1 · 42 · Advanced negotiation and diplomatic compromise",
-    "objective": "විරුද්ධ අවශ්‍යතා හඳුනාගෙන සාධාරණ සම්මුතියක් සහ පැහැදිලි කොන්දේසි සාකච්ඡා කරන්න.",
+    "objective": "Identify competing interests and negotiate a fair compromise with clear conditions.",
     "vocabulary": [
       {
         "word": "concession",
@@ -330,7 +330,7 @@ export const ENGLISH_C1_LESSONS_41_50 = [
     "id": "en-c1-l43",
     "unit": "C1 · Corporate governance and board oversight",
     "title": "C1 · 43 · Corporate governance and board oversight",
-    "objective": "පාලන වගකීම්, අධීක්ෂණය සහ වගවීම අතර වෙනස පැහැදිලි කරන්න.",
+    "objective": "Explain the distinction between governance duties, oversight and accountability.",
     "vocabulary": [
       {
         "word": "oversight",
@@ -493,7 +493,7 @@ export const ENGLISH_C1_LESSONS_41_50 = [
     "id": "en-c1-l44",
     "unit": "C1 · Climate adaptation and environmental policy",
     "title": "C1 · 44 · Climate adaptation and environmental policy",
-    "objective": "දේශගුණික අවදානම්, අනුවර්තනය සහ ප්‍රතිපත්ති ක්‍රියාමාර්ග පිළිබඳ සාකච්ඡා කරන්න.",
+    "objective": "Discuss climate risks, adaptation and policy measures.",
     "vocabulary": [
       {
         "word": "adaptation",
@@ -656,7 +656,7 @@ export const ENGLISH_C1_LESSONS_41_50 = [
     "id": "en-c1-l45",
     "unit": "C1 · Digital transformation and organisational change",
     "title": "C1 · 45 · Digital transformation and organisational change",
-    "objective": "තාක්ෂණික වෙනසක් ආයතනික ක්‍රියාවලි හා සේවකයන්ට බලපාන ආකාරය ඇගයීමට ලක් කරන්න.",
+    "objective": "Evaluate how technological change affects organisational processes and employees.",
     "vocabulary": [
       {
         "word": "transformation",
@@ -819,7 +819,7 @@ export const ENGLISH_C1_LESSONS_41_50 = [
     "id": "en-c1-l46",
     "unit": "C1 · Advanced research methods and causal inference",
     "title": "C1 · 46 · Advanced research methods and causal inference",
-    "objective": "සම්බන්ධතාවය සහ හේතුකාරකත්වය වෙන්කර පර්යේෂණ නිගමනවල සීමා දක්වන්න.",
+    "objective": "Distinguish correlation from causation and state the limits of research conclusions.",
     "vocabulary": [
       {
         "word": "causality",
@@ -982,7 +982,7 @@ export const ENGLISH_C1_LESSONS_41_50 = [
     "id": "en-c1-l47",
     "unit": "C1 · Literary criticism and interpretive ambiguity",
     "title": "C1 · 47 · Literary criticism and interpretive ambiguity",
-    "objective": "සාහිත්‍ය කෘතියක හඬ, සංකේත සහ අර්ථයේ බහුත්වය සාක්ෂි සමඟ විග්‍රහ කරන්න.",
+    "objective": "Analyse voice, symbolism and multiplicity of meaning in a literary work, supporting interpretations with evidence.",
     "vocabulary": [
       {
         "word": "ambiguity",
@@ -1145,7 +1145,7 @@ export const ENGLISH_C1_LESSONS_41_50 = [
     "id": "en-c1-l48",
     "unit": "C1 · Public communication and crisis messaging",
     "title": "C1 · 48 · Public communication and crisis messaging",
-    "objective": "අර්බුදයකදී නිවැරදි, සංවේදී සහ කාලෝචිත පණිවිඩයක් සකස් කරන්න.",
+    "objective": "Craft an accurate, sensitive and timely message during a crisis.",
     "vocabulary": [
       {
         "word": "transparency",
@@ -1308,7 +1308,7 @@ export const ENGLISH_C1_LESSONS_41_50 = [
     "id": "en-c1-l49",
     "unit": "C1 · Integrated C1 capstone: evidence-led recommendation",
     "title": "C1 · 49 · Integrated C1 capstone: evidence-led recommendation",
-    "objective": "සාක්ෂි විශ්ලේෂණය, විකල්ප සැසඳීම සහ ක්‍රියාත්මක කළ හැකි නිර්දේශයක් ඉදිරිපත් කරන්න.",
+    "objective": "Analyse evidence, compare alternatives and present an actionable recommendation.",
     "vocabulary": [
       {
         "word": "executive brief",
