@@ -21,16 +21,16 @@ export const ENGLISH_C2_LESSONS_21_30 = [
         "translation": "සන්දර්භ ලැයිස්තුවක් එක් එක් පදය සන්දර්භය තුළ පෙන්වයි."
       },
       {
-        "word": "collocation",
+        "word": "A frequent collocation links an adjective with a particular noun.",
         "reading": "කොලකේෂන්",
-        "meaning": "සහපද භාවිතය",
+        "meaning": "නිතර යෙදෙන සහපද භාවිතයක් විශේෂණයක් නිශ්චිත නාම පදයක් සමඟ සම්බන්ධ කරයි.",
         "example": "Frequency alone does not establish significance.",
         "translation": "සංඛ්‍යාතය පමණක් වැදගත්කම සනාථ නොකරයි."
       },
       {
-        "word": "frequency",
+        "word": "Frequency shows how often a unit occurs in the corpus.",
         "reading": "ෆ්‍රීක්වන්සි",
-        "meaning": "සංඛ්‍යාතය",
+        "meaning": "සංඛ්‍යාතය මඟින් ඒකකයක් දත්ත සමුදායේ කොපමණ වාරයක් පෙනී සිටිනවාදැයි පෙන්වයි.",
         "example": "Results must be interpreted against the sampling frame.",
         "translation": "ප්‍රතිඵල නියැදි රාමුව අනුව අර්ථකථනය කළ යුතුය."
       },
@@ -38,8 +38,8 @@ export const ENGLISH_C2_LESSONS_21_30 = [
         "word": "sampling frame",
         "reading": "සැම්ප්ලිං ෆ්‍රේම්",
         "meaning": "නියැදි රාමුව",
-        "example": "The analysis uses “sampling frame” as a precise technical concept.",
-        "translation": "විශ්ලේෂණයේදී “නියැදි රාමුව” යන සංකල්පය නිශ්චිත විෂයමය පදයක් ලෙස භාවිත කරයි."
+        "example": "The sampling frame defines which units can enter the study.",
+        "translation": "නියැදි රාමුව පර්යේෂණයට ඇතුළත් කළ හැකි ඒකක තීරණය කරයි."
       },
       {
         "word": "metadata",
@@ -170,23 +170,23 @@ export const ENGLISH_C2_LESSONS_21_30 = [
     "objective": "Distinguish topic, focus and the pragmatic work of discourse markers.",
     "vocabulary": [
       {
-        "word": "thematization",
+        "word": "Thematization places familiar information at the beginning of an utterance.",
         "reading": "තීමටයිසේෂන්",
-        "meaning": "මාතෘකාව ඉදිරිපත් කිරීම",
+        "meaning": "මාතෘකා ඉදිරිපත් කිරීමෙන් දන්නා තොරතුරු ප්‍රකාශයේ මුල් කොටසට ගෙන එයි.",
         "example": "Nevertheless, the conclusion does not follow from the premise.",
         "translation": "කෙසේවෙතත්, නිගමනය පූර්වකල්පනයෙන් අනුගමනය නොවේ."
       },
       {
-        "word": "focus",
+        "word": "Focus identifies the information a speaker especially emphasizes.",
         "reading": "ෆෝකස්",
-        "meaning": "අවධානයේ කේන්ද්‍රය",
+        "meaning": "අවධානයේ කේන්ද්‍රය යනු කථිකයා විශේෂයෙන් ඉස්මතු කරන තොරතුරයි.",
         "example": "That particular datum shifts the focus of the debate.",
         "translation": "එම දත්තය සාකච්ඡාවේ අවධානය වෙනස් කරයි."
       },
       {
-        "word": "topicalization",
+        "word": "Topicalization moves the topic to the beginning of a sentence.",
         "reading": "ටොපිකලයිසේෂන්",
-        "meaning": "මාතෘකාකරණය",
+        "meaning": "මාතෘකාකරණය වාක්‍යයේ මාතෘකාව මුලට ගෙන එයි.",
         "example": "The marker links the utterance to the wider discourse.",
         "translation": "සලකුණ ප්‍රකාශය පුළුල් සංවාදයට සම්බන්ධ කරයි."
       },
@@ -194,8 +194,8 @@ export const ENGLISH_C2_LESSONS_21_30 = [
         "word": "rheme",
         "reading": "රීම්",
         "meaning": "නව තොරතුරු කොටස",
-        "example": "The presupposition remains unspoken yet active.",
-        "translation": "පූර්ව උපකල්පනය නොකියා තිබුණත් ක්‍රියාත්මකව පවතී."
+        "example": "The rheme adds new information about the established topic.",
+        "translation": "රීමා කොටස දැනටමත් හඳුන්වා දුන් මාතෘකාව පිළිබඳ නව තොරතුරු එක් කරයි."
       },
       {
         "word": "cohesion",
@@ -333,16 +333,16 @@ export const ENGLISH_C2_LESSONS_21_30 = [
     "objective": "Explain how stress, rhythm and intonation shape interpretation.",
     "vocabulary": [
       {
-        "word": "prosody",
+        "word": "Prosody includes rhythm, stress and intonation in speech.",
         "reading": "ප්‍රොසඩි",
-        "meaning": "ශබ්ද රිද්මය හා ස්වර නැගීම",
+        "meaning": "ප්‍රොසෝඩියාව කථනයේ රිද්මය, අවධාරණය සහ ස්වර නැගීම ඇතුළත් කරයි.",
         "example": "Intonation can signal reservation without explicit wording.",
         "translation": "වචන පැහැදිලිව නොකියා ස්වරය සැකය පෙන්විය හැක."
       },
       {
-        "word": "intonation",
+        "word": "Intonation can distinguish a question from a statement.",
         "reading": "ඉන්ටනේෂන්",
-        "meaning": "ස්වර නැගීම හා බැසීම",
+        "meaning": "ස්වර නැගීම හා බැසීම ප්‍රශ්නයක් සහ ප්‍රකාශයක් අතර වෙනස පෙන්විය හැක.",
         "example": "Stress distinguishes information focus.",
         "translation": "උච්චාරණ බලය තොරතුරු අවධානය වෙනස් කරයි."
       },
@@ -350,13 +350,13 @@ export const ENGLISH_C2_LESSONS_21_30 = [
         "word": "stress pattern",
         "reading": "ස්ට්‍රෙස් පැටර්න්",
         "meaning": "උච්චාරණ බල රටාව",
-        "example": "Speech rhythm varies across languages and registers.",
-        "translation": "කථන රිද්මය භාෂා හා රෙජිස්ටර් අනුව වෙනස් වේ."
+        "example": "A stress pattern determines which syllable receives prominence.",
+        "translation": "උච්චාරණ බල රටාවෙන් අවධාරණය ලැබෙන අක්ෂර ඛණ්ඩය තීරණය වේ."
       },
       {
-        "word": "quantity",
+        "word": "Quantity distinguishes short and long vowels in a language.",
         "reading": "ක්වොන්ටිටි",
-        "meaning": "ශබ්ද දිග",
+        "meaning": "භාෂාවේ කෙටි හා දිගු ස්වර අතර වෙනස ශබ්ද දිග මඟින් පෙන්වයි.",
         "example": "Phonotactics constrains possible sound sequences.",
         "translation": "ශබ්ද සංයෝජන නීති හැකි ශබ්ද අනුපිළිවෙළ සීමා කරයි."
       },
@@ -496,16 +496,16 @@ export const ENGLISH_C2_LESSONS_21_30 = [
     "objective": "Assess what can be transferred and what requires cultural mediation.",
     "vocabulary": [
       {
-        "word": "untranslatability",
+        "word": "Untranslatability describes the difficulty of transferring meaning into another language.",
         "reading": "අන්ස්ට්‍රාන්ස්ලේටබිලිටි",
-        "meaning": "සෘජුව පරිවර්තනය කළ නොහැකි බව",
+        "meaning": "සෘජුව පරිවර්තනය කළ නොහැකි බව යනු අර්ථය වෙනත් භාෂාවකට ගෙන යාමේ අපහසුතාවයි.",
         "example": "A literal rendering loses the cultural allusion.",
         "translation": "වචනාර්ථ පරිවර්තනය සංස්කෘතික ඉඟිය අහිමි කරයි."
       },
       {
-        "word": "equivalence",
+        "word": "Equivalence seeks an appropriate sense in the target language.",
         "reading": "ඉක්විවලන්ස්",
-        "meaning": "සමාන අර්ථ ගැළපීම",
+        "meaning": "සමාන අර්ථ ගැළපීමෙන් ඉලක්ක භාෂාවේ ගැළපෙන අර්ථයක් සොයයි.",
         "example": "The translator selects a strategy for the audience.",
         "translation": "පරිවර්තකයා පාඨකයා අනුව උපාය තෝරයි."
       },
@@ -513,13 +513,13 @@ export const ENGLISH_C2_LESSONS_21_30 = [
         "word": "domestication",
         "reading": "ඩොමෙස්ටිකේෂන්",
         "meaning": "දේශීය සංස්කෘතියට හැඩගැස්වීම",
-        "example": "A footnote may preserve the historical context.",
-        "translation": "පාදසටහනක් ඉතිහාස සන්දර්භය රැකිය හැක."
+        "example": "Domestication adapts cultural elements for the target audience.",
+        "translation": "දේශීය සංස්කෘතියට හැඩගැස්වීමෙන් සංස්කෘතික අංග ඉලක්ක පාඨකයන්ට ගැළපේ."
       },
       {
-        "word": "foreignization",
+        "word": "Foreignization retains elements of the source culture in translation.",
         "reading": "ෆොරිනයිසේෂන්",
-        "meaning": "විදේශීය බව රැකීම",
+        "meaning": "විදේශීය බව රැකීමේ උපාය පරිවර්තනයේදී විදේශීය සංස්කෘතික අංග රඳවා ගනී.",
         "example": "Compensation can recover an effect elsewhere.",
         "translation": "වෙනත් තැනකින් අර්ථ පිරවීමෙන් නැතිවූ බලපෑම පුරවයි."
       },
@@ -1148,16 +1148,16 @@ export const ENGLISH_C2_LESSONS_21_30 = [
     "objective": "Use precise language that reduces polarization without erasing accountability.",
     "vocabulary": [
       {
-        "word": "de-escalation",
+        "word": "De-escalation reduces tension through calm and precise communication.",
         "reading": "ඩි-එස්කලේෂන්",
-        "meaning": "උණුසුම අඩු කිරීම",
+        "meaning": "උණුසුම අඩු කිරීම සන්සුන් හා නිවැරදි සන්නිවේදනයෙන් ආතතිය අඩු කරයි.",
         "example": "Precise language must not conceal accountability.",
         "translation": "නිවැරදි භාෂාව වගකීම සඟවා නොදැමිය යුතුය."
       },
       {
-        "word": "polarization",
+        "word": "Polarization deepens divisions between social groups.",
         "reading": "පෝලරයිසේෂන්",
-        "meaning": "ධ්‍රැවීකරණය",
+        "meaning": "ධ්‍රැවීකරණය සමාජ කණ්ඩායම් අතර බෙදීම් ගැඹුරු කරයි.",
         "example": "De-escalation begins by acknowledging harm.",
         "translation": "උණුසුම අඩු කිරීම හානිය පිළිගැනීමෙන් ආරම්භ වේ."
       },
@@ -1169,9 +1169,9 @@ export const ENGLISH_C2_LESSONS_21_30 = [
         "translation": "වගකීම ආරෝපණය කළ යුත්තේ පරීක්ෂා කළ හැකි කරුණු මතය."
       },
       {
-        "word": "dehumanization",
+        "word": "Dehumanization portrays people as if they lack human qualities.",
         "reading": "ඩි-හියුමනයිසේෂන්",
-        "meaning": "මනුෂ්‍යත්වය අහිමි කර දැක්වීම",
+        "meaning": "මනුෂ්‍යත්වය අහිමි කර දැක්වීමෙන් මිනිසුන්ට මනුෂ්‍ය ගුණ නැති ලෙස නිරූපණය කරයි.",
         "example": "Dialogue does not require abandoning principles.",
         "translation": "සංවාදයට මූලධර්ම අත්හැරීම අවශ්‍ය නොවේ."
       },
@@ -1186,8 +1186,8 @@ export const ENGLISH_C2_LESSONS_21_30 = [
         "word": "accountability",
         "reading": "අකවුන්ටබිලිටි",
         "meaning": "වගවීම",
-        "example": "The authors explain what they mean by “accountability”.",
-        "translation": "කතුවරු “වගවීම” යන සංකල්පයෙන් අදහස් කරන්නේ කුමක්දැයි පැහැදිලි කරති."
+        "example": "Clear accountability requires explaining decisions and their consequences.",
+        "translation": "පැහැදිලි වගවීම යනු තීරණ සහ ඒවායේ ප්‍රතිවිපාක පැහැදිලි කිරීමයි."
       },
       {
         "word": "sensitivity",
