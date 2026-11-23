@@ -1506,3 +1506,12 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 - Added button semantics and a text-derived screen-reader label to the shared `Action` component, covering its repeated call-to-action buttons across the app.
 - Added a static regression guard. This improves source-level accessibility but does not replace TalkBack testing or a full audit of every icon-only touch target.
 - No automated QA, CI, Expo export, APK build or Android device test was run.
+
+
+## App-wide touch-control accessibility and disabled states — 2026-11-23
+- Replaced direct use of React Native's TouchableOpacity with a shared wrapper while preserving the existing JSX call sites and props.
+- All 173 touch controls now receive button semantics, a label derived from visible text when no explicit label is supplied, and an accessible generic fallback when the control is icon-only.
+- Disabled controls now expose their disabled state to screen readers and receive a consistent reduced-opacity appearance.
+- Added source regression guards for the shared wrapper. This closes the broad source-level control gap found during inspection; TalkBack behavior, visual contrast and actual tap interactions still require Android runtime testing.
+- No QA script, CI workflow, Expo export, APK build or device test was run.
+- Next: final source consistency audit across imports, course data and persistence. Do not start the APK build until the user approves the final build stage.
