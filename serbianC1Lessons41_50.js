@@ -38,29 +38,29 @@ export const SERBIAN_C1_LESSONS_41_50 = [
         "word": "rezervni plan",
         "reading": "ර්එස්එර්ව්න්ඉ ප්ල්අන්",
         "meaning": "හදිසි සැලැස්ම",
-        "example": "Strateško predviđanje pomaže nam da se pripremimo za nekoliko mogućih budućnosti.",
-        "translation": "විශ්වාසදායක සිදුවීම් ආකෘතියක් එහි උපකල්පන පැහැදිලිව සඳහන් කළ යුතුය."
+        "example": "U izveštaju se pojam „rezervni plan“ definiše pre analize rezultata.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “හදිසි සැලැස්ම” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "pokazatelj",
         "reading": "ප්ඔක්අස්අට්එල්ය්",
         "meaning": "දර්ශකය",
-        "example": "Verodostojan scenario mora jasno da navede svoje pretpostavke.",
-        "translation": "ඉල්ලුම අඩු වුවහොත් අපට විකල්ප සැලැස්මක් අවශ්‍ය වේ."
+        "example": "Autori koriste izraz „pokazatelj“ kada objašnjavaju ključni argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “දර්ශකය” යන පදය භාවිත කරති."
       },
       {
         "word": "otpornost",
         "reading": "ඔට්ප්ඔර්න්ඔස්ට්",
         "meaning": "ඔරොත්තු දීමේ හැකියාව",
-        "example": "Potreban nam je rezervni plan ako potražnja opadne.",
-        "translation": "මුල් දර්ශක මඟින් දිශාවේ වෙනසක් හඳුනාගත හැකිය."
+        "example": "Razumevanje pojma „otpornost“ pomaže u proceni ovog primera.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “ඔරොත්තු දීමේ හැකියාව” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "horizont",
         "reading": "හ්ඔර්ඉස්ඔන්ට්",
         "meaning": "කාල පරාසය",
-        "example": "Rani pokazatelji mogu otkriti promenu pravca.",
-        "translation": "උපායමාර්ගික දුරදක්නා බව අනාගත හැකියාවන් කිහිපයකට සූදානම් කරයි."
+        "example": "U zaključku se jasno navodi kako se „horizont“ primenjuje.",
+        "translation": "නිගමනයේදී “කාල පරාසය” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Gramatika i stil",
@@ -201,29 +201,29 @@ export const SERBIAN_C1_LESSONS_41_50 = [
         "word": "zastoj",
         "reading": "ස්අස්ට්ඔය්",
         "meaning": "අවහිර තත්ත්වය",
-        "example": "Ograničen ustupak može pokrenuti pregovore.",
-        "translation": "සීමිත සහනයක් සාකච්ඡා ඉදිරියට ගෙන යා හැකිය."
+        "example": "U izveštaju se pojam „zastoj“ definiše pre analize rezultata.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “අවහිර තත්ත්වය” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "protivpredlog",
         "reading": "ප්ර්ඔට්ඉව්ප්ර්එඩ්ල්ඔග්",
         "meaning": "ප්‍රතියෝජනාව",
-        "example": "Oba tima imaju jasno definisan mandat.",
-        "translation": "කණ්ඩායම් දෙකටම පැහැදිලි බලතල ඇත."
+        "example": "Autori koriste izraz „protivpredlog“ kada objašnjavaju ključni argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “ප්‍රතියෝජනාව” යන පදය භාවිත කරති."
       },
       {
         "word": "uzajaman",
         "reading": "උස්අය්අම්අන්",
         "meaning": "අන්‍යෝන්‍ය",
-        "example": "Protivpredlog odgovara na našu glavnu zabrinutost.",
-        "translation": "ප්‍රතියෝජනාව අපගේ ප්‍රධාන සැලකිල්ලට පිළිතුරු දෙයි."
+        "example": "Razumevanje pojma „uzajaman“ pomaže u proceni ovog primera.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “අන්‍යෝන්‍ය” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "obavezujući",
         "reading": "ඔබ්අව්එස්උය්උච්ඉ",
         "meaning": "බැඳී පවතින",
-        "example": "Sporazum postaje obavezujući kada ga obe strane potpišu.",
-        "translation": "පාර්ශ්ව දෙකම අත්සන් කළ පසු ගිවිසුම බැඳී පවතී."
+        "example": "U zaključku se jasno navodi kako se „obavezujući“ primenjuje.",
+        "translation": "නිගමනයේදී “බැඳී පවතින” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Gramatika i stil",
@@ -364,29 +364,29 @@ export const SERBIAN_C1_LESSONS_41_50 = [
         "word": "nezavisnost",
         "reading": "න්එස්අව්ඉස්න්ඔස්ට්",
         "meaning": "ස්වාධීනත්වය",
-        "example": "Odbor je odgovoran za delotvoran nadzor.",
-        "translation": "අධ්‍යක්ෂ මණ්ඩලය ඵලදායී අධීක්ෂණයට වගකිව යුතුය."
+        "example": "U izveštaju se pojam „nezavisnost“ definiše pre analize rezultata.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “ස්වාධීනත්වය” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "revizorski trag",
         "reading": "ර්එව්ඉස්ඔර්ස්ක්ඉ ට්ර්අග්",
         "meaning": "විගණන සටහන් මාර්ගය",
-        "example": "Direktori moraju prijaviti sukob interesa.",
-        "translation": "අධ්‍යක්ෂවරුන් අවශ්‍යතා ගැටුම් හෙළි කළ යුතුය."
+        "example": "Autori koriste izraz „revizorski trag“ kada objašnjavaju ključni argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “විගණන සටහන් මාර්ගය” යන පදය භාවිත කරති."
       },
       {
         "word": "odgovornost",
         "reading": "ඔඩ්ග්ඔව්ඔර්න්ඔස්ට්",
         "meaning": "වගවීම",
-        "example": "Revizorski trag podržava transparentno odlučivanje.",
-        "translation": "විගණන සටහන් මාර්ගය විනිවිද පෙනෙන තීරණවලට සහාය වේ."
+        "example": "Razumevanje pojma „odgovornost“ pomaže u proceni ovog primera.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “වගවීම” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "sukob interesa",
         "reading": "ස්උක්ඔබ් ඉන්ට්එර්එස්අ",
         "meaning": "අවශ්‍යතා ගැටුම",
-        "example": "Naknada treba da bude povezana sa dugoročnim rezultatima.",
-        "translation": "පාරිතෝෂිකය දිගුකාලීන කාර්යසාධනයට සම්බන්ධ කළ යුතුය."
+        "example": "U zaključku se jasno navodi kako se „sukob interesa“ primenjuje.",
+        "translation": "නිගමනයේදී “අවශ්‍යතා ගැටුම” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Gramatika i stil",
@@ -527,29 +527,29 @@ export const SERBIAN_C1_LESSONS_41_50 = [
         "word": "biodiverzitet",
         "reading": "බ්ඉඔඩ්ඉව්එර්ස්ඉට්එට්",
         "meaning": "ජෛව විවිධත්වය",
-        "example": "Prilagođavanje smanjuje posledice promena koje se ne mogu izbeći.",
-        "translation": "අනුවර්තනය වැළැක්විය නොහැකි වෙනස්කම්වල බලපෑම අඩු කරයි."
+        "example": "U izveštaju se pojam „biodiverzitet“ definiše pre analize rezultata.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “ජෛව විවිධත්වය” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "emisije",
         "reading": "එම්ඉස්ඉය්එ",
         "meaning": "විමෝචන",
-        "example": "Politika povezuje ublažavanje posledica sa lokalnom otpornošću.",
-        "translation": "ප්‍රතිපත්තිය බලපෑම අවම කිරීම දේශීය ඔරොත්තු දීම සමඟ එක් කරයි."
+        "example": "Autori koriste izraz „emisije“ kada objašnjavaju ključni argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “විමෝචන” යන පදය භාවිත කරති."
       },
       {
         "word": "odgovorno upravljanje",
         "reading": "ඔඩ්ග්ඔව්ඔර්න්ඔ උප්ර්අව්ල්ය්අන්ය්එ",
         "meaning": "භාරකාරී කළමනාකරණය",
-        "example": "Gubitak biodiverziteta može povećati ranjivost ekosistema.",
-        "translation": "ජෛව විවිධත්වය අහිමි වීම පරිසර පද්ධතියේ අවදානම වැඩි කළ හැකිය."
+        "example": "Razumevanje pojma „odgovorno upravljanje“ pomaže u proceni ovog primera.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “භාරකාරී කළමනාකරණය” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "prag",
         "reading": "ප්ර්අග්",
         "meaning": "සීමා අගය",
-        "example": "Emisije treba meriti u odnosu na jasno utvrđenu početnu vrednost.",
-        "translation": "විමෝචන පැහැදිලි මූලික මට්ටමකට සාපේක්ෂව මැනිය යුතුය."
+        "example": "U zaključku se jasno navodi kako se „prag“ primenjuje.",
+        "translation": "නිගමනයේදී “සීමා අගය” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Gramatika i stil",
@@ -690,29 +690,29 @@ export const SERBIAN_C1_LESSONS_41_50 = [
         "word": "usvajanje",
         "reading": "උස්ව්අය්අන්ය්එ",
         "meaning": "භාවිතයට ගැනීම",
-        "example": "Interoperabilnost je ključna pri povezivanju sistema.",
-        "translation": "පද්ධති ඒකාබද්ධ කරන විට අන්තර්ක්‍රියා හැකියාව අත්‍යවශ්‍යය."
+        "example": "U izveštaju se pojam „usvajanje“ definiše pre analize rezultata.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “භාවිතයට ගැනීම” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "tok rada",
         "reading": "ට්ඔක් ර්අඩ්අ",
         "meaning": "වැඩ ප්‍රවාහය",
-        "example": "Postepeno uvođenje može povećati prihvatanje novog rešenja.",
-        "translation": "අදියර අනුව හඳුන්වාදීම භාවිතය වැඩි කළ හැකිය."
+        "example": "Autori koriste izraz „tok rada“ kada objašnjavaju ključni argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “වැඩ ප්‍රවාහය” යන පදය භාවිත කරති."
       },
       {
         "word": "skalabilnost",
         "reading": "ස්ක්අල්අබ්ඉල්න්ඔස්ට්",
         "meaning": "පුළුල් කළ හැකි බව",
-        "example": "Nasleđeni sistem stvara nepotrebna kašnjenja.",
-        "translation": "පැරණි පද්ධතිය වළක්වාගත හැකි ප්‍රමාද ඇති කරයි."
+        "example": "Razumevanje pojma „skalabilnost“ pomaže u proceni ovog primera.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “පුළුල් කළ හැකි බව” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "zamor od promena",
         "reading": "ස්අම්ඔර් ඔඩ් ප්ර්ඔම්එන්අ",
         "meaning": "වෙනස්කම් නිසා ඇති වෙහෙස",
-        "example": "Zamor od promena treba ublažiti jasnom komunikacijom.",
-        "translation": "වෙනස්කම් නිසා ඇති වෙහෙසට පැහැදිලි සන්නිවේදනයෙන් පිළියම් යෙදිය යුතුය."
+        "example": "U zaključku se jasno navodi kako se „zamor od promena“ primenjuje.",
+        "translation": "නිගමනයේදී “වෙනස්කම් නිසා ඇති වෙහෙස” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Gramatika i stil",
@@ -853,29 +853,29 @@ export const SERBIAN_C1_LESSONS_41_50 = [
         "word": "longitudinalan",
         "reading": "ල්ඔන්ග්ඉට්උඩ්ඉන්අල්අන්",
         "meaning": "කාලය පුරා අනුගමනය කරන",
-        "example": "Korelacija sama po sebi ne dokazuje uzročnost.",
-        "translation": "සහසම්බන්ධතාව පමණක් හේතුකාරකත්වය තහවුරු නොකරයි."
+        "example": "U izveštaju se pojam „longitudinalan“ definiše pre analize rezultata.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “කාලය පුරා අනුගමනය කරන” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "ponavljanje istraživanja",
         "reading": "ප්ඔන්අව්ල්ය්අන්ය්එ ඉස්ට්ර්අෂ්ඉව්අන්ය්අ",
         "meaning": "ප්‍රතිනිර්මාණය",
-        "example": "Ometajući faktor može objasniti uočenu povezanost.",
-        "translation": "ව්‍යාකූලකාරක සාධකයක් නිරීක්ෂිත සම්බන්ධතාවය පැහැදිලි කළ හැකිය."
+        "example": "Autori koriste izraz „ponavljanje istraživanja“ kada objašnjavaju ključni argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “ප්‍රතිනිර්මාණය” යන පදය භාවිත කරති."
       },
       {
         "word": "zaključivanje",
         "reading": "ස්අක්ල්ය්උච්ඉව්අන්ය්එ",
         "meaning": "නිගමනයකට පැමිණීම",
-        "example": "Longitudinalni podaci mogu pokazati promene tokom vremena.",
-        "translation": "කාලානුක්‍රමික දත්ත කාලයත් සමඟ වෙනස්කම් පෙන්විය හැකිය."
+        "example": "Razumevanje pojma „zaključivanje“ pomaže u proceni ovog primera.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “නිගමනයකට පැමිණීම” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "robustnost",
         "reading": "ර්ඔබ්උස්ට්න්ඔස්ට්",
         "meaning": "ශක්තිමත් බව",
-        "example": "Nalaze treba nezavisno ponoviti i proveriti.",
-        "translation": "සොයාගැනීම් ස්වාධීනව නැවත පරීක්ෂා කළ යුතුය."
+        "example": "U zaključku se jasno navodi kako se „robustnost“ primenjuje.",
+        "translation": "නිගමනයේදී “ශක්තිමත් බව” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Gramatika i stil",
@@ -1016,29 +1016,29 @@ export const SERBIAN_C1_LESSONS_41_50 = [
         "word": "aluzija",
         "reading": "අල්උස්ඉය්අ",
         "meaning": "සංස්කෘතික/සාහිත්‍ය සඳහන",
-        "example": "Nepouzdan pripovedač otežava čitaocu donošenje suda.",
-        "translation": "විශ්වාස කළ නොහැකි කථකයා පාඨකයාගේ විනිශ්චය සංකීර්ණ කරයි."
+        "example": "U izveštaju se pojam „aluzija“ definiše pre analize rezultata.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “සංස්කෘතික/සාහිත්‍ය සඳහන” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "ironija",
         "reading": "ඉර්ඔන්ඉය්අ",
         "meaning": "උපහාසය",
-        "example": "Motiv koji se ponavlja povezuje naizgled odvojene epizode.",
-        "translation": "නැවත මතුවන රූපකය වෙන වෙනම සිදුවීම් සම්බන්ධ කරයි."
+        "example": "Autori koriste izraz „ironija“ kada objašnjavaju ključni argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “උපහාසය” යන පදය භාවිත කරති."
       },
       {
         "word": "perspektiva",
         "reading": "ප්එර්ස්ප්එක්ට්ඉව්අ",
         "meaning": "දෘෂ්ටිකෝණය",
-        "example": "Ironija stvara napetost između izgleda i namere.",
-        "translation": "උපහාසය පෙනුම සහ අරමුණ අතර ආතතියක් ඇති කරයි."
+        "example": "Razumevanje pojma „perspektiva“ pomaže u proceni ovog primera.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “දෘෂ්ටිකෝණය” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "tumačenje",
         "reading": "ට්උම්අච්එන්ය්එ",
         "meaning": "අර්ථකථනය",
-        "example": "Moguće je više uverljivih tumačenja.",
-        "translation": "අර්ථකථන කිහිපයක්ම පිළිගත හැකිව පවතී."
+        "example": "U zaključku se jasno navodi kako se „tumačenje“ primenjuje.",
+        "translation": "නිගමනයේදී “අර්ථකථනය” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Gramatika i stil",
@@ -1179,29 +1179,29 @@ export const SERBIAN_C1_LESSONS_41_50 = [
         "word": "pravovremenost",
         "reading": "ප්ර්අව්ඔව්ර්එම්එන්ඔස්ට්",
         "meaning": "කාලෝචිත බව",
-        "example": "Pravovremeno pojašnjenje može sprečiti širenje glasina.",
-        "translation": "කාලෝචිත පැහැදිලි කිරීම කටකතා පැතිරීම වළක්වයි."
+        "example": "U izveštaju se pojam „pravovremenost“ definiše pre analize rezultata.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “කාලෝචිත බව” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "pojašnjenje",
         "reading": "ප්ඔය්අෂ්න්ය්එන්ය්එ",
         "meaning": "පැහැදිලි කිරීම",
-        "example": "Portparol treba da razlikuje činjenice od procena.",
-        "translation": "ප්‍රකාශකයා කරුණු සහ ඇස්තමේන්තු වෙන් කළ යුතුය."
+        "example": "Autori koriste izraz „pojašnjenje“ kada objašnjavaju ključni argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “පැහැදිලි කිරීම” යන පදය භාවිත කරති."
       },
       {
         "word": "kredibilitet",
         "reading": "ක්ර්එඩ්ඉබ්ඉල්ඉට්එට්",
         "meaning": "විශ්වසනීයත්වය",
-        "example": "Transparentnost jača poverenje javnosti.",
-        "translation": "විනිවිදභාවය මහජන විශ්වසනීයත්වය ශක්තිමත් කරයි."
+        "example": "Razumevanje pojma „kredibilitet“ pomaže u proceni ovog primera.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “විශ්වසනීයත්වය” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "zainteresovana strana",
         "reading": "ස්අඉන්ට්එර්එස්ඔව්අන්අ ස්ට්ර්අන්අ",
         "meaning": "අදාළ පාර්ශ්වය",
-        "example": "Poruka mora priznati i ono što još nije poznato.",
-        "translation": "තවමත් නොදන්නා දේ පණිවිඩය පිළිගත යුතුය."
+        "example": "U zaključku se jasno navodi kako se „zainteresovana strana“ primenjuje.",
+        "translation": "නිගමනයේදී “අදාළ පාර්ශ්වය” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Gramatika i stil",
@@ -1342,29 +1342,29 @@ export const SERBIAN_C1_LESSONS_41_50 = [
         "word": "sprovođenje",
         "reading": "ස්ප්ර්ඔව්ඔජ්එන්ය්එ",
         "meaning": "ක්‍රියාත්මක කිරීම",
-        "example": "Izvršni sažetak prikazuje dokaze i predloženu odluku.",
-        "translation": "විධායක සාරාංශය සාක්ෂි සහ තීරණය සාරාංශ කරයි."
+        "example": "U izveštaju se pojam „sprovođenje“ definiše pre analize rezultata.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “ක්‍රියාත්මක කිරීම” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "praćenje",
         "reading": "ප්ර්අච්එන්ය්එ",
         "meaning": "නිරීක්ෂණය",
-        "example": "Svaku opciju treba proceniti prema izvodljivosti.",
-        "translation": "සෑම විකල්පයක්ම ක්‍රියාත්මක කළ හැකි බව අනුව ඇගයිය යුතුය."
+        "example": "Autori koriste izraz „praćenje“ kada objašnjavaju ključni argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “නිරීක්ෂණය” යන පදය භාවිත කරති."
       },
       {
         "word": "kompromis",
         "reading": "ක්ඔම්ප්ර්ඔම්ඉස්",
         "meaning": "හුවමාරු තේරීම",
-        "example": "Preporuka uključuje vremenski plan sprovođenja.",
-        "translation": "නිර්දේශයට ක්‍රියාත්මක කිරීමේ කාලසටහනක් ඇතුළත් වේ."
+        "example": "Razumevanje pojma „kompromis“ pomaže u proceni ovog primera.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “හුවමාරු තේරීම” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "preporuka",
         "reading": "ප්ර්එප්ඔර්උක්අ",
         "meaning": "නිර්දේශය",
-        "example": "Praćenje će pokazati da li su očekivane koristi ostvarene.",
-        "translation": "අපේක්ෂිත ප්‍රතිලාභ සැබෑ වේද යන්න නිරීක්ෂණයෙන් පෙනේ."
+        "example": "U zaključku se jasno navodi kako se „preporuka“ primenjuje.",
+        "translation": "නිගමනයේදී “නිර්දේශය” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Gramatika i stil",
@@ -1505,29 +1505,29 @@ export const SERBIAN_C1_LESSONS_41_50 = [
         "word": "posledica",
         "reading": "ප්ඔස්ල්එඩ්ඉට්ස්අ",
         "meaning": "ප්‍රතිවිපාකය",
-        "example": "Etički principi treba da usmeravaju profesionalne odluke.",
-        "translation": "වෘත්තීය තීරණවලට සදාචාරාත්මක මූලධර්ම මඟපෙන්විය යුතුය."
+        "example": "U izveštaju se pojam „posledica“ definiše pre analize rezultata.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “ප්‍රතිවිපාකය” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "odgovornost",
         "reading": "ඔඩ්ග්ඔව්ඔර්න්ඔස්ට්",
         "meaning": "වගවීම",
-        "example": "Integritet podrazumeva doslednost između reči i postupaka.",
-        "translation": "අඛණ්ඩතාව යනු වචන සහ ක්‍රියා අතර අනුකූලතාවයි."
+        "example": "Autori koriste izraz „odgovornost“ kada objašnjavaju ključni argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “වගවීම” යන පදය භාවිත කරති."
       },
       {
         "word": "doslednost",
         "reading": "ඩ්ඔස්ල්එඩ්න්ඔස්ට්",
         "meaning": "අනුකූලතාව",
-        "example": "Težak izbor zahteva razmatranje posledica po sve uključene strane.",
-        "translation": "අසීරු තේරීමක් සියලු පාර්ශ්වයන්ට ඇති ප්‍රතිවිපාක සලකා බැලීම අවශ්‍ය කරයි."
+        "example": "Razumevanje pojma „doslednost“ pomaže u proceni ovog primera.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “අනුකූලතාව” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "obrazloženje",
         "reading": "ඔබ්ර්අස්ල්ඔෂ්එන්ය්එ",
         "meaning": "තර්කානුකූල පැහැදිලි කිරීම",
-        "example": "Odgovornost znači da smo spremni da obrazložimo svoju odluku.",
-        "translation": "වගවීම යනු අපගේ තීරණය පැහැදිලි කිරීමට සූදානම් වීමයි."
+        "example": "U zaključku se jasno navodi kako se „obrazloženje“ primenjuje.",
+        "translation": "නිගමනයේදී “තර්කානුකූල පැහැදිලි කිරීම” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Gramatika i stil",
