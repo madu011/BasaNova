@@ -313,6 +313,22 @@ function validateC1Track(label, lessons, latinSerbian = false) {
 }
 const serbianC1Stats=validateC1Track("Serbian C1",c1Tracks.Serbian,true);
 const englishC1Stats=validateC1Track("English C1",c1Tracks.English);
+// Register the independently validated C1 tracks in the shared course registry.
+// Later cross-level uniqueness and paired-track checks consume this registry.
+courseLessons["Serbian C1"] = c1Tracks.Serbian;
+courseLessons["English C1"] = c1Tracks.English;
+courseStats["Serbian C1"] = {
+  lessons: c1Tracks.Serbian.length,
+  vocabularyCount: c1Tracks.Serbian.reduce((sum, lesson) => sum + lesson.vocabulary.length, 0),
+  practiceCount: c1Tracks.Serbian.reduce((sum, lesson) => sum + lesson.practice.length, 0),
+  listeningCount: c1Tracks.Serbian.filter(lesson => Boolean(lesson.listeningPractice)).length,
+};
+courseStats["English C1"] = {
+  lessons: c1Tracks.English.length,
+  vocabularyCount: c1Tracks.English.reduce((sum, lesson) => sum + lesson.vocabulary.length, 0),
+  practiceCount: c1Tracks.English.reduce((sum, lesson) => sum + lesson.practice.length, 0),
+  listeningCount: c1Tracks.English.filter(lesson => Boolean(lesson.listeningPractice)).length,
+};
 const c1=await loadModule(files.c1);
 const c1Meanings={
  Serbian:new Map(c1Tracks.Serbian.flatMap(l=>l.vocabulary.map(v=>[v.word.toLowerCase(),v.meaning]))),
