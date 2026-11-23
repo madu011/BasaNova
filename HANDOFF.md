@@ -1391,3 +1391,9 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 - Added a visible privacy notice to the Sinhala-to-Serbian translator explaining that text is sent to an external translation service and advising users not to enter passwords, bank details or other confidential information.
 - App.js UI changes committed in `d287523fe5a5285d5e7d5c455a44ae6fc21a789e`.
 - This is source review and implementation only. No build, automated test run, or device validation has been performed.
+
+## 2026-11-23 follow-up — curriculum status consistency cleanup
+- Audited `curriculum.js` after noticing that the source contained stale C1/C2 batch metadata even though all 50 lessons and cumulative assessments were already integrated.
+- Updated C1/C2 batch status comments and fields so completed batches no longer advertise future lesson batches or remaining lesson counts. Preserved exported status constant names and the actual cumulative lesson counts; remaining tasks now correctly focus on editorial, Sinhala-language, CI and Android validation.
+- Commits: `c5264aa4bcfc4fae98665c2737e814b0ccee36c9` and `50de39be8e639c4a3606b22d67d6f76d549ed99d`.
+- A follow-up source scan confirmed no stale C1 remaining lesson counts, no stale C2 remaining lesson counts, and no remaining `nextBatch` metadata in the curriculum file. This is a metadata consistency check, not a runtime test.
