@@ -450,3 +450,7 @@ A1 and A2 lesson practice/listening now provide retry controls after incorrect a
 
 ### Final assessment interaction audit — 2026-11-23
 Reviewed A1–C2 final-exam interaction flows and added static regression guards for confirmed-answer scoring, complete-answer submission, answer locking, retake reset behavior, and saved exam state. Vocabulary library source review also covered deduplication, search, Serbian alphabet filters, favourites, and pagination. These are source-level checks only; automated QA execution and Android runtime/device verification remain pending. See `HANDOFF.md`.
+
+
+### Persistence, translator and voice safeguards — 2026-11-23
+Hardened restored translator history and favourites against malformed or duplicate local data. Reviewed translator HTTP/error handling, privacy notice, bounded history, TTS request-race protection and Serbian/English voice fallback; added static regression guards for these paths and core mobile safe-area/keyboard behavior. This is source-level review only: automated QA execution and Android voice/UI testing remain pending. See `HANDOFF.md`.
