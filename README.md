@@ -472,3 +472,7 @@ Course selection now clears language-specific vocabulary search/alphabet/favouri
 
 ### Local progress restore safeguards — 2026-11-23
 Restored answer/check maps, learned-word lists, daily mission indexes and XP are now sanitized and bounded before entering app state. This is defensive source-level hardening only; actual AsyncStorage migration and Android device behavior still require runtime testing. See `HANDOFF.md`.
+
+
+### Shared action-button accessibility — 2026-11-23
+Shared text action buttons now expose button semantics and accessible labels. TalkBack and full icon-only control testing remain pending; see `HANDOFF.md`.
