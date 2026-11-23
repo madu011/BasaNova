@@ -248,6 +248,9 @@ assert.match(appSource, /const cleanMissionIndexes=value=>Array\.isArray\(value\
 assert.match(appSource, /Math\.min\(Math\.floor\(saved\.xp\),10000000\)/u,
   "Restored XP must be a finite non-negative bounded integer");
 
+assert.match(appSource, /function Action\(\{children,onPress,secondary=false\}\)[\s\S]*?accessibilityRole="button" accessibilityLabel=\{typeof children==="string"\?children:undefined\}/u,
+  "Shared action buttons must expose button semantics and readable labels when text is supplied");
+
 // Navigation accessibility and compact-screen usability.
 assert.match(appSource, /accessibilityRole="button" accessibilityLabel=\{label\} accessibilityState=\{\{selected:tab===id\}\} onPress=\{\(\)=>setTab\(id\)\}/u,
   "Bottom navigation must expose a screen-reader label and selected state for every tab");
