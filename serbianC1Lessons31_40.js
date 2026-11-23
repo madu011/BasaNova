@@ -4,7 +4,7 @@ export const SERBIAN_C1_LESSONS_31_40 = [
     "id": "sr-c1-l31",
     "unit": "C1 · Diplomatija i taktična komunikacija",
     "title": "C1 · 31 · Diplomatija i taktična komunikacija",
-    "objective": "සංවේදී අවස්ථාවලදී මෘදු යෝජනා භාවිත කරමින් විරුද්ධතාව ගෞරවයෙන් ප්‍රකාශ කරන්න.",
+    "objective": "Izrazite neslaganje s poštovanjem koristeći ublažene predloge u osetljivim situacijama.",
     "vocabulary": [
       {
         "word": "taktičan",
@@ -163,7 +163,7 @@ export const SERBIAN_C1_LESSONS_31_40 = [
     "id": "sr-c1-l32",
     "unit": "C1 · Procena javnih politika",
     "title": "C1 · 32 · Procena javnih politika",
-    "objective": "ප්‍රතිපත්ති ඇගයීමේදී අරමුණු, ආරම්භක මට්ටම්, මිනුම් දර්ශක සහ අනපේක්ෂිත ප්‍රතිවිපාක සලකා බලන්න.",
+    "objective": "Pri proceni javnih politika razmotrite ciljeve, početno stanje, pokazatelje i neželjene posledice.",
     "vocabulary": [
       {
         "word": "mera",
@@ -322,7 +322,7 @@ export const SERBIAN_C1_LESSONS_31_40 = [
     "id": "sr-c1-l33",
     "unit": "C1 · Finansijsko izveštavanje i odgovornost",
     "title": "C1 · 33 · Finansijsko izveštavanje i odgovornost",
-    "objective": "වාර්තාකරණයේදී ආදායම, වියදම, බැඳීම් සහ මුදල් ප්‍රවාහය වෙන්කර දක්වන්න; ඇස්තමේන්තු සැබෑ අගයන් ලෙස නොපෙන්වන්න.",
+    "objective": "Razlikujte prihode, rashode, obaveze i novčani tok u izveštavanju; ne predstavljajte procene kao stvarne vrednosti.",
     "vocabulary": [
       {
         "word": "prihod",
@@ -481,7 +481,7 @@ export const SERBIAN_C1_LESSONS_31_40 = [
     "id": "sr-c1-l34",
     "unit": "C1 · Naučna neizvesnost i recenziranje",
     "title": "C1 · 34 · Naučna neizvesnost i recenziranje",
-    "objective": "විද්‍යාත්මක ලිවීමේදී උපකල්පනය, සොයාගැනීම සහ විද්‍යාත්මක එකඟතාව වෙන්කරන්න; සාක්ෂිවල සීමා සඳහන් කරන්න.",
+    "objective": "U naučnom pisanju razlikujte hipoteze, nalaze i naučni konsenzus i navedite ograničenja dokaza.",
     "vocabulary": [
       {
         "word": "hipoteza",
@@ -640,7 +640,7 @@ export const SERBIAN_C1_LESSONS_31_40 = [
     "id": "sr-c1-l35",
     "unit": "C1 · Liderstvo i organizaciona kultura",
     "title": "C1 · 35 · Liderstvo i organizaciona kultura",
-    "objective": "නායකත්වය විස්තර කිරීමේදී බලය පමණක් නොව වගකීම, විශ්වාසය සහ ප්‍රතිචාරද සලකා බලන්න.",
+    "objective": "Pri opisu liderstva razmotrite ne samo moć već i odgovornost, poverenje i povratne informacije.",
     "vocabulary": [
       {
         "word": "rukovođenje",
@@ -799,7 +799,7 @@ export const SERBIAN_C1_LESSONS_31_40 = [
     "id": "sr-c1-l36",
     "unit": "C1 · Privatnost podataka i upravljanje informacijama",
     "title": "C1 · 36 · Privatnost podataka i upravljanje informacijama",
-    "objective": "අරමුණට අවශ්‍ය දත්ත පමණක් රැස් කිරීම, ප්‍රවේශය සීමා කිරීම සහ ගබඩා කාලය නියම කිරීම වැදගත්ය.",
+    "objective": "Prikupljajte samo podatke potrebne za određenu svrhu, ograničite pristup i odredite period čuvanja.",
     "vocabulary": [
       {
         "word": "privatnost",
@@ -958,7 +958,7 @@ export const SERBIAN_C1_LESSONS_31_40 = [
     "id": "sr-c1-l37",
     "unit": "C1 · Akademsko pisanje i navođenje izvora",
     "title": "C1 · 37 · Akademsko pisanje i navođenje izvora",
-    "objective": "අන් අයගේ අදහස් පරාෆ්‍රේස් කළත් මූලාශ්‍රය සඳහන් කරන්න; සාරාංශය මුල් අදහස විකෘති නොකළ යුතුය.",
+    "objective": "Navedite izvor čak i kada parafrazirate tuđe ideje; sažetak ne sme iskriviti izvorno značenje.",
     "vocabulary": [
       {
         "word": "parafrazirati",
@@ -1117,7 +1117,7 @@ export const SERBIAN_C1_LESSONS_31_40 = [
     "id": "sr-c1-l38",
     "unit": "C1 · Idiomi, metafore i stilski registar",
     "title": "C1 · 38 · Idiomi, metafore i stilski registar",
-    "objective": "ව්‍යවහාරික ප්‍රකාශ වචනාර්ථයෙන් පරිවර්තනය නොකර සන්දර්භය අනුව අර්ථය හඳුනාගන්න.",
+    "objective": "Tumačite idiomatske izraze prema kontekstu umesto da ih prevodite doslovno.",
     "vocabulary": [
       {
         "word": "idiom",
@@ -1276,7 +1276,7 @@ export const SERBIAN_C1_LESSONS_31_40 = [
     "id": "sr-c1-l39",
     "unit": "C1 · Debata, pobijanje i argumentativna ravnoteža",
     "title": "C1 · 39 · Debata, pobijanje i argumentativna ravnoteža",
-    "objective": "ප්‍රතිතර්කයක් ඉදිරිපත් කිරීමට පෙර විරුද්ධ මතය සාධාරණව සාරාංශ කර එහි සාක්ෂි සහ සීමා පරීක්ෂා කරන්න.",
+    "objective": "Pre nego što iznesete protivargument, pošteno sažmite suprotno stanovište i procenite njegove dokaze i ograničenja.",
     "vocabulary": [
       {
         "word": "protivargument",
@@ -1435,7 +1435,7 @@ export const SERBIAN_C1_LESSONS_31_40 = [
     "id": "sr-c1-l40",
     "unit": "C1 · Integrisani profesionalni projekat",
     "title": "C1 · 40 · Integrisani profesionalni projekat",
-    "objective": "සංකීර්ණ කාර්යයකදී ගැටලුව නිර්වචනය කර සාක්ෂි, විකල්ප, තීරණ, අවදානම් සහ ක්‍රියාමාර්ග එකට ඉදිරිපත් කරන්න.",
+    "objective": "U složenom zadatku definišite problem i povežite dokaze, opcije, odluke, rizike i korake za sprovođenje.",
     "vocabulary": [
       {
         "word": "zadatak",
