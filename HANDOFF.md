@@ -1492,3 +1492,11 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 - Added a static regression guard for the complete course-switch reset path. Source inspection passed the corresponding checks.
 - Commits: `b91d98da812f382fcc2ff16dfa7f534497a7eff1` and `c19ea099ffe09e326d7b3cc1e7d0d7e5a758bafc`.
 - Automated QA has not been run; these checks are source inspection only. No CI, Expo export, APK build, install, or device test was performed.
+
+
+## Persisted progress restore hardening — 2026-11-23
+- Hardened local progress restoration so malformed or oversized saved data cannot be copied directly into active answer/check state.
+- Answer and checked maps now accept only bounded, safe keys and valid primitive values, with a maximum of 6,000 entries per map. Answer indexes are restricted to integers 0–30; checked flags must be booleans.
+- Learned-word lists are trimmed, deduplicated and capped at 2,000 entries; daily mission indexes are restricted to the three configured missions; XP is normalized to a bounded non-negative integer.
+- This is defensive source-level validation, not proof of AsyncStorage migration behavior on a device. No QA script, CI workflow, Expo export, APK build or Android runtime test was run.
+- Next source batch: inspect remaining interactive controls for missing disabled/accessibility states, then complete a source-only consistency review before requesting final build authorization.
