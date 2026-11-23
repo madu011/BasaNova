@@ -1419,3 +1419,5 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 4. When GitHub Actions usage is available, run `npm run qa:content` only, repair all reported failures, and keep APK builds for the final approved stage.
 
 - Added static regression assertions in `scripts/content-qa.mjs` to guard full CEFR vocabulary aggregation, bounded vocabulary rendering, matching-date mission restoration and date checks on app resume. Commit: `64b3062fb433d4a3c4bfca9a8c8f66c2db800c0d`. The QA script remains unexecuted, so these assertions have only been source-inspected.
+
+- Follow-up inspection caught and corrected over-escaped regular-expression literals in the new static regression assertions. Corrected in commit `42b7a7f6a483019a42d05fca440fde211cbbc5c9`. The QA script has still not been run.
