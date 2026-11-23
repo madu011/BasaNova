@@ -376,7 +376,7 @@ export const ENGLISH_A1_LESSONS = [
  }
  ,
 {
- id:"en-a1-u3-l11"",unit:"ආහාර සහ සාප්පු සවාරි",title:"Lesson 11 · Ordering food at a café",objective:"කැෆේ එකක ආහාර මෙනුවෙන් තෝරාගෙන විශේෂ ඉල්ලීම් කිරීම සහ ඇණවුම තහවුරු කිරීම",
+ id:"en-a1-u3-l11",unit:"ආහාර සහ සාප්පු සවාරි",title:"Lesson 11 · Ordering food at a café",objective:"කැෆේ එකක ආහාර මෙනුවෙන් තෝරාගෙන විශේෂ ඉල්ලීම් කිරීම සහ ඇණවුම තහවුරු කිරීම",
  vocabulary:[
  {word:"menu",reading:"මෙනියූ",meaning:"ආහාර මෙනුව",example:"Can I see the menu?","exampleReading":"කැන් අයි සී දි මෙනියූ?","translation":"මට මෙනුව බලන්න පුළුවන්ද?"},
  {word:"I'd like",reading:"අයිඩ් ලයික්",meaning:"මට අවශ්‍යයි / මම කැමතියි",example:"I'd like a sandwich.","exampleReading":"අයිඩ් ලයික් අ සැන්ඩ්විච්.","translation":"මට සැන්ඩ්විච් එකක් අවශ්‍යයි."},
