@@ -510,7 +510,7 @@ const speak=async(text,lang)=>{
  if(requestId!==voiceRequestId)return;
  Speech.speak(phrase,{language:lang==="Serbian"?"sr-RS":"en-US",rate:0.82});
 };
-function Action({children,onPress,secondary=false}){const {styles:s,colors:C}=useContext(ThemeContext);return <TouchableOpacity onPress={onPress} style={[s.action,secondary&&s.secondary]}><Text style={[s.actionText,secondary&&{color:C.teal}]}>{children}</Text></TouchableOpacity>;}
+function Action({children,onPress,secondary=false}){const {styles:s,colors:C}=useContext(ThemeContext);return <TouchableOpacity accessibilityRole="button" accessibilityLabel={typeof children==="string"?children:undefined} onPress={onPress} style={[s.action,secondary&&s.secondary]}><Text style={[s.actionText,secondary&&{color:C.teal}]}>{children}</Text></TouchableOpacity>;}
 export default function App(){
  const [theme,setTheme]=useState("dark");
  const C=PALETTES[theme];
