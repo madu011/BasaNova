@@ -1403,3 +1403,17 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 - Added explicit retry controls to all three advanced levels: six practice-question result blocks and three listening-result blocks now clear only the relevant answer/check state and allow another attempt. Correct answers remain locked as completed.
 - Commit: `dfaa249dc283460b3c05cae99945daddf281fa51`.
 - This is a source-level UI logic fix. Runtime interaction testing remains pending.
+
+
+## 2026-11-23 follow-up — complete vocabulary coverage and daily mission lifecycle
+- Expanded the vocabulary library source in `App.js` to include vocabulary cards from all six CEFR levels (A1–C2) for both Serbian and English. The previous library only added lesson vocabulary from A1, despite the screen describing the full course collection.
+- Added incremental rendering: the vocabulary screen initially displays 60 filtered entries and offers another 60 at a time. Search, alphabet filters and the favourites toggle reset the visible limit, avoiding an initial render of the entire expanded library on a mobile screen.
+- Fixed the daily mission lifecycle: mission completion is now associated with a local calendar date, resets when a new day is detected after the app resumes, and is restored only when the saved mission date matches the current local date. Lifetime XP remains cumulative.
+- Commits: vocabulary coverage and incremental display — `34a6e4fafe10eafc4a8db43f4c34a0f52223b10f`; daily mission date reset — `69524f406a3d82cfb70ca9166daa0508a23d83d0`.
+- Source changes only. The content QA script has not been executed; no Expo export, CI workflow, APK build, installation or Android device test has been performed. Do not mark these flows runtime-verified.
+
+### Next grouped work batch
+1. Continue checking assessment reset/retry and lesson-progress behavior across all six levels and both languages.
+2. Inspect small-screen navigation, scroll behavior and touch-target accessibility; fix verified issues.
+3. Continue A2/B1/B2 editorial example/translation review and Serbian B2 pronunciation normalization.
+4. When GitHub Actions usage is available, run `npm run qa:content` only, repair all reported failures, and keep APK builds for the final approved stage.
