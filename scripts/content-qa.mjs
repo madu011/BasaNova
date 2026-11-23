@@ -208,6 +208,9 @@ assert.match(appSource, /const activeFavoriteWords=language\?\(favoriteWords\[la
   "Vocabulary favourites must be selected from the active language only");
 assert.match(appSource, /const toggleFavorite=word=>\{if\(!language\)return;setFavoriteWords\(items=>\(\{\.\.\.items,\[language\]:/u,
   "Favourite toggles must update only the active language list");
+assert.match(appSource, /const choose=lang=>\{setLanguage\(lang\);setIndex\(0\);setTab\("home"\);setVocabSearch\("?"\);setVocabLetter\("ALL"\);setVocabDisplayLimit\(60\);setShowFavoritesOnly\(false\);setExpandedLessonId\(\(lang==="Serbian"\?SERBIAN_A1_LESSONS:ENGLISH_A1_LESSONS\)\[0\]\?\.id\|\|null\);setDialogIndex\(0\);setLineIndex\(0\);setShowSlang\(false\);\}/u,
+  "Switching courses must reset language-specific filters, lesson expansion and dialogue state");
+
 assert.match(appSource, /response\.ok\)throw new Error/u,
   "Translator must handle non-success HTTP responses");
 assert.match(appSource, /data\?\.responseStatus!==200\|\|!result/u,
