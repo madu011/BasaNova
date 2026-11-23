@@ -38,29 +38,29 @@ export const SERBIAN_C2_LESSONS_41_50 = [
         "word": "distanciranje",
         "reading": "දිස්තාන්ට්සිරාන්යේ",
         "meaning": "දුරස්ථභාවය පවත්වා ගැනීම",
-        "example": "Autor se ograđuje od zaključka koji podaci ne potvrđuju.",
-        "translation": "දත්ත තහවුරු නොකරන නිගමනයෙන් කතුවරයා සීමාසහිතව දුරස් වේ."
+        "example": "U izveštaju se pojam „distanciranje“ definiše pre analize rezultata.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “දුරස්ථභාවය පවත්වා ගැනීම” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "angažovanost",
         "reading": "අංගාෂොවානොස්ත්",
         "meaning": "සම්බන්ධ වීම",
-        "example": "Izbor glagola otkriva govornikov stav.",
-        "translation": "ක්‍රියාපද තේරීම කථකයාගේ ස්ථාවරය හෙළි කරයි."
+        "example": "Autori koriste izraz „angažovanost“ kada objašnjavaju ključni argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “සම්බන්ධ වීම” යන පදය භාවිත කරති."
       },
       {
         "word": "perspektivizacija",
         "reading": "පර්ස්පෙක්තිවිසාට්සියා",
         "meaning": "දෘෂ්ටිකෝණගත කිරීම",
-        "example": "Distanciranje može ublažiti kategoričnu tvrdnju.",
-        "translation": "දුරස්ථභාවය නිශ්චිත ප්‍රකාශයක තදබල බව අඩු කළ හැක."
+        "example": "Razumevanje pojma „perspektivizacija“ pomaže u proceni ovog primera.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “දෘෂ්ටිකෝණගත කිරීම” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "diskurzivni marker",
         "reading": "දිස්කූර්සිව්නි මාකර්",
         "meaning": "කථන සම්බන්ධක සලකුණ",
-        "example": "Diskurzivni markeri usmeravaju tumačenje argumenta.",
-        "translation": "කථන සලකුණු තර්කය අර්ථකථනය කිරීමට මඟ පෙන්වයි."
+        "example": "U zaključku se jasno navodi kako se „diskurzivni marker“ primenjuje.",
+        "translation": "නිගමනයේදී “කථන සම්බන්ධක සලකුණ” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Gramatika i stil",
@@ -201,29 +201,29 @@ export const SERBIAN_C2_LESSONS_41_50 = [
         "word": "stigmatizacija",
         "reading": "ස්තිග්මාතිසාට්සියා",
         "meaning": "අපකීර්තියට පත් කිරීම",
-        "example": "Standardizacija često odražava društvene odnose moći.",
-        "translation": "ප්‍රමිතිකරණය බොහෝවිට සමාජ බල සම්බන්ධතා පිළිබිඹු කරයි."
+        "example": "U izveštaju se pojam „stigmatizacija“ definiše pre analize rezultata.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “අපකීර්තියට පත් කිරීම” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "višejezičnost",
         "reading": "විෂෙයෙසිච්නොස්ත්",
         "meaning": "බහුභාෂිකත්වය",
-        "example": "Dijalekatski kontinuum ne prati uvek državne granice.",
-        "translation": "උපභාෂා අඛණ්ඩ පරාසය සැමවිටම රාජ්‍ය සීමා අනුගමනය නොකරයි."
+        "example": "Autori koriste izraz „višejezičnost“ kada objašnjavaju ključni argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “බහුභාෂිකත්වය” යන පදය භාවිත කරති."
       },
       {
         "word": "jezičko planiranje",
         "reading": "යෙසිච්කො ප්ලානිරාන්යේ",
         "meaning": "භාෂා සැලසුම්කරණය",
-        "example": "Stigmatizacija govora može ograničiti društvenu mobilnost.",
-        "translation": "කථන රටාවක් අපකීර්තියට පත් කිරීම සමාජ සංචලතාව සීමා කළ හැක."
+        "example": "Razumevanje pojma „jezičko planiranje“ pomaže u proceni ovog primera.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “භාෂා සැලසුම්කරණය” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "jezička prava",
         "reading": "යෙසිච්කා ප්‍රාවා",
         "meaning": "භාෂා අයිතිවාසිකම්",
-        "example": "Jezička prava obuhvataju pristup obrazovanju i javnim uslugama.",
-        "translation": "භාෂා අයිතිවාසිකම් අධ්‍යාපනයට හා රාජ්‍ය සේවාවලට ප්‍රවේශය ඇතුළත් කරයි."
+        "example": "U zaključku se jasno navodi kako se „jezička prava“ primenjuje.",
+        "translation": "නිගමනයේදී “භාෂා අයිතිවාසිකම්” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Gramatika i stil",
@@ -364,29 +364,29 @@ export const SERBIAN_C2_LESSONS_41_50 = [
         "word": "uzročnost",
         "reading": "උස්රොච්නොස්ත්",
         "meaning": "හේතුකත්වය",
-        "example": "Hipoteza mora biti izložena mogućnosti opovrgavanja.",
-        "translation": "උපකල්පනය වැරදි බව පෙන්විය හැකි පරීක්ෂාවකට විවෘත විය යුතුය."
+        "example": "U izveštaju se pojam „uzročnost“ definiše pre analize rezultata.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “හේතුකත්වය” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "korelacija",
         "reading": "කොරෙලාට්සියා",
         "meaning": "සහසම්බන්ධතාව",
-        "example": "Korelacija sama po sebi ne dokazuje uzročnost.",
-        "translation": "සහසම්බන්ධතාව පමණක් හේතුකත්වය සනාථ නොකරයි."
+        "example": "Autori koriste izraz „korelacija“ kada objašnjavaju ključni argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “සහසම්බන්ධතාව” යන පදය භාවිත කරති."
       },
       {
         "word": "epistemička granica",
         "reading": "එපිස්තෙමිච්කා ග්‍රානිට්සා",
         "meaning": "දැනුමේ සීමාව",
-        "example": "Replikacija proverava stabilnost nalaza.",
-        "translation": "ප්‍රතිනිර්මාණ පරීක්ෂාව සොයාගැනීම්වල ස්ථායිතාව පරීක්ෂා කරයි."
+        "example": "Razumevanje pojma „epistemička granica“ pomaže u proceni ovog primera.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “දැනුමේ සීමාව” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "replikacija",
         "reading": "රෙප්ලිකාට්සියා",
         "meaning": "ප්‍රතිනිර්මාණ පරීක්ෂාව",
-        "example": "Svaki model ima epistemičke granice.",
-        "translation": "සෑම ආකෘතියකටම දැනුමේ සීමා ඇත."
+        "example": "U zaključku se jasno navodi kako se „replikacija“ primenjuje.",
+        "translation": "නිගමනයේදී “ප්‍රතිනිර්මාණ පරීක්ෂාව” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Gramatika i stil",
@@ -527,29 +527,29 @@ export const SERBIAN_C2_LESSONS_41_50 = [
         "word": "jurisprudencija",
         "reading": "යුරිස්ප්‍රුදෙන්ට්සියා",
         "meaning": "නීති තීන්දු සම්ප්‍රදාය",
-        "example": "Sud razmatra da li je presedan primenljiv.",
-        "translation": "පූර්ව තීන්දුව අදාළදැයි අධිකරණය සලකා බලයි."
+        "example": "U izveštaju se pojam „jurisprudencija“ definiše pre analize rezultata.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “නීති තීන්දු සම්ප්‍රදාය” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "nadređeni propis",
         "reading": "නාද්‍රෙජෙනි ප්‍රොපිස්",
         "meaning": "ඉහළ බලැති නීතිය",
-        "example": "Ograničenje mora proći test proporcionalnosti.",
-        "translation": "සීමාවක් සමානුපාතිකභාව පරීක්ෂාව සමත් විය යුතුය."
+        "example": "Autori koriste izraz „nadređeni propis“ kada objašnjavaju ključni argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “ඉහළ බලැති නීතිය” යන පදය භාවිත කරති."
       },
       {
         "word": "pravni lek",
         "reading": "ප්‍රාව්නි ලෙක්",
         "meaning": "නීතිමය පිළියම",
-        "example": "Teret dokazivanja zavisi od vrste postupka.",
-        "translation": "සාක්ෂි ඉදිරිපත් කිරීමේ වගකීම නඩු ක්‍රියාවලිය අනුව වෙනස් වේ."
+        "example": "Razumevanje pojma „pravni lek“ pomaže u proceni ovog primera.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “නීතිමය පිළියම” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "obrazložena odluka",
         "reading": "ඔබ්‍රාස්ලොෂෙනා ඔද්ලුකා",
         "meaning": "හේතු දැක්වූ තීරණය",
-        "example": "Odluka mora sadržati jasno obrazloženje.",
-        "translation": "තීරණයට පැහැදිලි හේතු දැක්වීමක් තිබිය යුතුය."
+        "example": "U zaključku se jasno navodi kako se „obrazložena odluka“ primenjuje.",
+        "translation": "නිගමනයේදී “හේතු දැක්වූ තීරණය” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Gramatika i stil",
@@ -690,29 +690,29 @@ export const SERBIAN_C2_LESSONS_41_50 = [
         "word": "anafora",
         "reading": "අනාෆොරා",
         "meaning": "පෙර සඳහන් දෙයට යොමුව",
-        "example": "Kohezija povezuje rečenice vidljivim jezičkim sredstvima.",
-        "translation": "පාඨ සම්බන්ධතාව භාෂාමය ක්‍රමවලින් වාක්‍ය එකට බැඳේ."
+        "example": "U izveštaju se pojam „anafora“ definiše pre analize rezultata.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “පෙර සඳහන් දෙයට යොමුව” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "katafora",
         "reading": "කතාෆොරා",
         "meaning": "ඉදිරියේ සඳහන් දෙයට යොමුව",
-        "example": "Koherencija zavisi od logičkog razvoja ideja.",
-        "translation": "අර්ථමය අඛණ්ඩතාව අදහස්වල තාර්කික වර්ධනය මත රඳා පවතී."
+        "example": "Autori koriste izraz „katafora“ kada objašnjavaju ključni argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “ඉදිරියේ සඳහන් දෙයට යොමුව” යන පදය භාවිත කරති."
       },
       {
         "word": "elipsa",
         "reading": "එලිප්සා",
         "meaning": "අත්හැරීම",
-        "example": "Anafora upućuje na prethodno pomenuti element.",
-        "translation": "අනාෆොරා පෙර සඳහන් කළ අංගයකට යොමු කරයි."
+        "example": "Razumevanje pojma „elipsa“ pomaže u proceni ovog primera.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “අත්හැරීම” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "veznik",
         "reading": "වෙස්නික්",
         "meaning": "සම්බන්ධකය",
-        "example": "Tematski progres održava ravnotežu između poznatog i novog.",
-        "translation": "මාතෘකා ප්‍රගතිය දන්නා හා නව තොරතුරු අතර සමතුලිතතාව රකියි."
+        "example": "U zaključku se jasno navodi kako se „veznik“ primenjuje.",
+        "translation": "නිගමනයේදී “සම්බන්ධකය” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Gramatika i stil",
@@ -853,29 +853,29 @@ export const SERBIAN_C2_LESSONS_41_50 = [
         "word": "kulturno posredovanje",
         "reading": "කුල්තුර්නො පොස්‍රෙදොවාන්යේ",
         "meaning": "සංස්කෘතික මැදිහත්වීම",
-        "example": "Prevodilačka odluka može promeniti ton izvornika.",
-        "translation": "පරිවර්තන තීරණයක් මුල් පාඨයේ ස්වරය වෙනස් කළ හැක."
+        "example": "U izveštaju se pojam „kulturno posredovanje“ definiše pre analize rezultata.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “සංස්කෘතික මැදිහත්වීම” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "neprevodivost",
         "reading": "නෙප්‍රෙවොදිවොස්ත්",
         "meaning": "පරිවර්තනය කළ නොහැකි බව",
-        "example": "Vidljivost prevodioca zavisi od žanra i izdavačke prakse.",
-        "translation": "පරිවර්තකයාගේ දෘශ්‍යමානභාවය ප්‍රභේදය හා ප්‍රකාශන ක්‍රමය මත රඳා පවතී."
+        "example": "Autori koriste izraz „neprevodivost“ kada objašnjavaju ključni argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “පරිවර්තනය කළ නොහැකි බව” යන පදය භාවිත කරති."
       },
       {
         "word": "paratekst",
         "reading": "පාරාතෙක්ස්ත්",
         "meaning": "අමතර පාඨ",
-        "example": "Kulturno posredovanje zahteva poznavanje obe sredine.",
-        "translation": "සංස්කෘතික මැදිහත්වීමට සංස්කෘතික පරිසර දෙකම දැනගැනීම අවශ්‍යය."
+        "example": "Razumevanje pojma „paratekst“ pomaže u proceni ovog primera.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “අමතර පාඨ” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "prevodilačka odluka",
         "reading": "ප්‍රෙවොදිලාච්කා ඔද්ලුකා",
         "meaning": "පරිවර්තන තීරණය",
-        "example": "Napomena prevodioca može objasniti neprevodivost.",
-        "translation": "පරිවර්තක සටහනක් පරිවර්තනය කළ නොහැකි බව පැහැදිලි කළ හැක."
+        "example": "U zaključku se jasno navodi kako se „prevodilačka odluka“ primenjuje.",
+        "translation": "නිගමනයේදී “පරිවර්තන තීරණය” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Gramatika i stil",
@@ -1016,29 +1016,29 @@ export const SERBIAN_C2_LESSONS_41_50 = [
         "word": "transparentnost",
         "reading": "ත්‍රාන්ස්පාරෙන්ත්නොස්ත්",
         "meaning": "විනිවිදභාවය",
-        "example": "Krizno saopštenje mora jasno razdvojiti činjenice i pretpostavke.",
-        "translation": "අර්බුද නිවේදනය කරුණු හා උපකල්පන පැහැදිලිව වෙන් කළ යුතුය."
+        "example": "U izveštaju se pojam „transparentnost“ definiše pre analize rezultata.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “විනිවිදභාවය” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "odgovornost",
         "reading": "ඔද්ගොවොර්නොස්ත්",
         "meaning": "වගකීම",
-        "example": "Pravovremena ispravka može sprečiti širenje glasina.",
-        "translation": "කාලෝචිත නිවැරදි කිරීමකට කටකතා පැතිරීම වැළැක්විය හැක."
+        "example": "Autori koriste izraz „odgovornost“ kada objašnjavaju ključni argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “වගකීම” යන පදය භාවිත කරති."
       },
       {
         "word": "rizik po reputaciju",
         "reading": "රිසික් පො රෙපුතාට්සියු",
         "meaning": "කීර්තිනාම අවදානම",
-        "example": "Transparentnost ne znači objavljivanje neproverenih podataka.",
-        "translation": "විනිවිදභාවය යනු තහවුරු නොකළ දත්ත ප්‍රකාශ කිරීම නොවේ."
+        "example": "Razumevanje pojma „rizik po reputaciju“ pomaže u proceni ovog primera.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “කීර්තිනාම අවදානම” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "korektivna poruka",
         "reading": "කොරෙක්තිව්නා පොරුකා",
         "meaning": "නිවැරදි කිරීමේ පණිවිඩය",
-        "example": "Odgovorna poruka navodi šta je još nepoznato.",
-        "translation": "වගකීම් සහිත පණිවිඩයක් තවමත් නොදන්නා දේ සඳහන් කරයි."
+        "example": "U zaključku se jasno navodi kako se „korektivna poruka“ primenjuje.",
+        "translation": "නිගමනයේදී “නිවැරදි කිරීමේ පණිවිඩය” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Gramatika i stil",
@@ -1179,29 +1179,29 @@ export const SERBIAN_C2_LESSONS_41_50 = [
         "word": "indirektnost",
         "reading": "ඉන්දිරෙක්ත්නොස්ත්",
         "meaning": "වක්‍රභාවය",
-        "example": "Doslovni sadržaj ne obuhvata uvek nameru govornika.",
-        "translation": "වචනාර්ථය සැමවිටම කථකයාගේ අරමුණ ඇතුළත් නොකරයි."
+        "example": "U izveštaju se pojam „indirektnost“ definiše pre analize rezultata.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “වක්‍රභාවය” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "kontekstualni trag",
         "reading": "කොන්ටෙක්ස්තුආල්නි ත්‍රාග්",
         "meaning": "සන්දර්භීය ඉඟිය",
-        "example": "Implicatura zavisi od zajedničkog znanja sagovornika.",
-        "translation": "අඟවන අර්ථය සංවාදකයන්ගේ පොදු දැනුම මත රඳා පවතී."
+        "example": "Autori koriste izraz „kontekstualni trag“ kada objašnjavaju ključni argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “සන්දර්භීය ඉඟිය” යන පදය භාවිත කරති."
       },
       {
         "word": "svedočanstvo",
         "reading": "ස්වෙදොචාන්ස්ත්වො",
         "meaning": "සාක්ෂි ප්‍රකාශය",
-        "example": "Jedan iskaz može istovremeno obavljati više govornih činova.",
-        "translation": "එක් ප්‍රකාශයක් එකවර කථන ක්‍රියා කිහිපයක් ඉටු කළ හැක."
+        "example": "Razumevanje pojma „svedočanstvo“ pomaže u proceni ovog primera.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “සාක්ෂි ප්‍රකාශය” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "interpretativna ograda",
         "reading": "ඉන්ටර්ප්‍රෙතාතිව්නා ඔග්‍රාදා",
         "meaning": "අර්ථකථන සීමා සටහන",
-        "example": "Zaključak mora uzeti u obzir alternativna objašnjenja.",
-        "translation": "නිගමනය විකල්ප පැහැදිලි කිරීම් සලකා බැලිය යුතුය."
+        "example": "U zaključku se jasno navodi kako se „interpretativna ograda“ primenjuje.",
+        "translation": "නිගමනයේදී “අර්ථකථන සීමා සටහන” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Gramatika i stil",
@@ -1342,29 +1342,29 @@ export const SERBIAN_C2_LESSONS_41_50 = [
         "word": "sinteza",
         "reading": "සින්තෙසා",
         "meaning": "සංශ්ලේෂණය",
-        "example": "Teza mora biti dovoljno precizna da se može osporiti.",
-        "translation": "මූලික තර්කය අභියෝග කළ හැකි තරම් නිශ්චිත විය යුතුය."
+        "example": "U izveštaju se pojam „sinteza“ definiše pre analize rezultata.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “සංශ්ලේෂණය” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "premisa",
         "reading": "ප්‍රෙමිසා",
         "meaning": "පූර්ව පදනම",
-        "example": "Koncesija može ojačati ukupnu argumentaciju.",
-        "translation": "ප්‍රතිපක්ෂයේ කරුණක් පිළිගැනීම සමස්ත තර්කය ශක්තිමත් කළ හැක."
+        "example": "Autori koriste izraz „premisa“ kada objašnjavaju ključni argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “පූර්ව පදනම” යන පදය භාවිත කරති."
       },
       {
         "word": "kontraprimer",
         "reading": "ප්‍රොතුප්‍රිමෙර්",
         "meaning": "ප්‍රතිඋදාහරණය",
-        "example": "Protuprimer testira domet opšte tvrdnje.",
-        "translation": "ප්‍රතිඋදාහරණයක් සාමාන්‍ය ප්‍රකාශයේ පරාසය පරීක්ෂා කරයි."
+        "example": "Razumevanje pojma „kontraprimer“ pomaže u proceni ovog primera.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “ප්‍රතිඋදාහරණය” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "teret argumentacije",
         "reading": "තෙරෙත් අර්ගුමෙන්තාට්සියේ",
         "meaning": "තර්ක ඉදිරිපත් කිරීමේ වගකීම",
-        "example": "Sinteza povezuje opravdane uvide obe strane.",
-        "translation": "සංශ්ලේෂණය දෙපාර්ශ්වයේ සාධාරණ අදහස් සම්බන්ධ කරයි."
+        "example": "U zaključku se jasno navodi kako se „teret argumentacije“ primenjuje.",
+        "translation": "නිගමනයේදී “තර්ක ඉදිරිපත් කිරීමේ වගකීම” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Gramatika i stil",
@@ -1505,29 +1505,29 @@ export const SERBIAN_C2_LESSONS_41_50 = [
         "word": "kontraargument",
         "reading": "ප්‍රොතුඅර්ගුමෙන්ත්",
         "meaning": "ප්‍රතිතර්කය",
-        "example": "Izlaganje povezuje pitanje, metod i nalaze u jednu celinu.",
-        "translation": "ඉදිරිපත් කිරීම ප්‍රශ්නය, ක්‍රමය හා සොයාගැනීම් එකම සමස්තයකට සම්බන්ධ කරයි."
+        "example": "U izveštaju se pojam „kontraargument“ definiše pre analize rezultata.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “ප්‍රතිතර්කය” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "kvalifikacija tvrdnje",
         "reading": "ක්වාලිෆිකාට්සියා ත්ව්ර්ද්න්යේ",
         "meaning": "ප්‍රකාශයක සීමා දැක්වීම",
-        "example": "Svaki zaključak mora imati odgovarajuću dokaznu osnovu.",
-        "translation": "සෑම නිගමනයකටම ගැළපෙන සාක්ෂි පදනමක් තිබිය යුතුය."
+        "example": "Autori koriste izraz „kvalifikacija tvrdnje“ kada objašnjavaju ključni argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “ප්‍රකාශයක සීමා දැක්වීම” යන පදය භාවිත කරති."
       },
       {
         "word": "zaključna sinteza",
         "reading": "සාක්ල්යුච්නා සින්තෙසා",
         "meaning": "අවසාන සංශ්ලේෂණය",
-        "example": "Metodološko ograničenje treba otvoreno navesti.",
-        "translation": "ක්‍රමවේදී සීමාව විවෘතව සඳහන් කළ යුතුය."
+        "example": "Razumevanje pojma „zaključna sinteza“ pomaže u proceni ovog primera.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “අවසාන සංශ්ලේෂණය” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "samoprocena",
         "reading": "සාමොප්‍රොට්සෙනා",
         "meaning": "ස්වයං ඇගයීම",
-        "example": "Samoprocena otkriva oblasti za dalji razvoj.",
-        "translation": "ස්වයං ඇගයීම තවදුරටත් දියුණු කළ යුතු ක්ෂේත්‍ර හෙළි කරයි."
+        "example": "U zaključku se jasno navodi kako se „samoprocena“ primenjuje.",
+        "translation": "නිගමනයේදී “ස්වයං ඇගයීම” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Gramatika i stil",
