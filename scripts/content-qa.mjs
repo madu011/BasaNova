@@ -159,6 +159,10 @@ assert.match(appSource, /Object\.values\(COURSE_LESSONS\[language\]\)\.flat\(\)/
   "Vocabulary library must aggregate lesson vocabulary from every CEFR level");
 assert.match(appSource, /visibleVocabulary\s*=\s*filteredVocabulary\.slice\(0,\s*vocabDisplayLimit\)/u,
   "Vocabulary library must render a bounded batch of filtered results");
+assert.match(appSource, /lessonAnswers\[key\]===question\.answer/u,
+  "Course lesson completion must require a correct practice answer");
+assert.match(appSource, /lessonAnswers\[lesson\.id\+"-listen"\]===listening\.answer/u,
+  "Course lesson completion must require a correct listening answer when listening exists");
 assert.match(appSource, /saved\.missionDate===missionDateRef\.current/u,
   "Daily mission completion must restore only for the matching local date");
 assert.match(appSource, /AppState\.addEventListener\("change"/u,
