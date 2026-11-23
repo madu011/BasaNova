@@ -518,6 +518,7 @@ export default function App(){
  const [translateInput,setTranslateInput]=useState(""),[translateOutput,setTranslateOutput]=useState(""),[translateLoading,setTranslateLoading]=useState(false),[translateError,setTranslateError]=useState(""),[translateHistory,setTranslateHistory]=useState([]),[translateCopied,setTranslateCopied]=useState(false);
  const [vocabSearch,setVocabSearch]=useState("");
  const [vocabLetter,setVocabLetter]=useState("ALL");
+ const [vocabDisplayLimit,setVocabDisplayLimit]=useState(60);
  const [favoriteWords,setFavoriteWords]=useState([]);
  const [showFavoritesOnly,setShowFavoritesOnly]=useState(false);
  const [storageReady,setStorageReady]=useState(false);
@@ -548,7 +549,9 @@ export default function App(){
    entries.push({word:word.trim(),meaning:meaning||"තේරුම තවම එකතු කර නැහැ",reading:reading|| (language==="Serbian"?pronounceSinhala(word):pronounceEnglishSinhala(word)),example:example||"",translation:translation||"",exampleReading:exampleReading||(example?(language==="Serbian"?pronounceSinhala(example):pronounceEnglishSinhala(example)):""),source:source||"වචන එකතුව"});
   };
   words.forEach(item=>add(item.word,item.meaning,item.sound,item.example,item.translation,null,"වචන එකතුව"));
-  const lessons=language==="Serbian"?SERBIAN_A1_LESSONS:ENGLISH_A1_LESSONS;
+  const allCourseLessons=Object.values(COURSE_LESSONS[language]).flat();
+  allCourseLessons.forEach(lesson=>(lesson.vocabulary||[]).forEach(item=>add(item.word,item.meaning,item.reading,item.example,item.translation,item.exampleReading,"CEFR පාඩම")));
+  const lessons=COURSE_LESSONS[language].A1;
   lessons.forEach(lesson=>{
    (lesson.vocabulary||[]).forEach(item=>add(item.word,item.meaning,item.reading,item.example,item.translation,item.exampleReading,"පාඩම"));
    (lesson.grammarTerms||[]).forEach(item=>add(item.sr||item.text,item.si||item.meaning,item.reading,"","",null,"ව්‍යාකරණය"));
@@ -575,6 +578,7 @@ export default function App(){
   return upper.startsWith(letter);
  };
  const filteredVocabulary=vocabularyEntries.filter(item=>(!showFavoritesOnly||favoriteWords.includes(item.word))&&matchesVocabLetter(item.word,vocabLetter)&&(!vocabSearch.trim()||(item.word+" "+item.meaning+" "+item.reading).toLocaleLowerCase().includes(vocabSearch.trim().toLocaleLowerCase())));
+ const visibleVocabulary=filteredVocabulary.slice(0,vocabDisplayLimit);
  const toggleFavorite=word=>setFavoriteWords(items=>items.includes(word)?items.filter(item=>item!==word):[...items,word]);
 
  const count=language?learned[language].length:0,percent=language?Math.round(count/words.length*100):0;
@@ -602,19 +606,20 @@ export default function App(){
     <Text style={s.eyebrow}>📖 BASANOVA · VOCABULARY LIBRARY</Text>
     <Text style={s.cardTitle}>{language==="Serbian"?"🇷🇸 Serbian":"🇬🇧 English"} වචන පොත</Text>
     <Text style={s.sub}>පාඩම්, සංවාද සහ සියලු vocabulary packs එකතු කළ සම්පූර්ණ වචන පොත. English සඳහා A–Z අකුරුත් Serbian සඳහා සම්පූර්ණ ලතින් අක්ෂර මාලාවත් අනුව වචන සොයන්න. සෑම වචනයකටම සිංහල තේරුම, උච්චාරණය සහ හඬ පාලකය ඇත.</Text>
-    <TouchableOpacity accessibilityRole="button" accessibilityLabel={showFavoritesOnly?"සියලු වචන වෙත යන්න":"සුරැකි වචන පමණක් පෙන්වන්න"} onPress={()=>{setShowFavoritesOnly(v=>!v);setVocabLetter("ALL");setVocabSearch("");}} style={[s.action,{backgroundColor:showFavoritesOnly?C.gold:C.panel2,borderWidth:1,borderColor:C.line}]}><Text style={[s.actionText,{color:showFavoritesOnly?C.bg:C.teal}]}>★ {showFavoritesOnly?"සියලු වචන බලන්න":"සුරැකි වචන බලන්න"} · {favoriteWords.length}</Text></TouchableOpacity>
+    <TouchableOpacity accessibilityRole="button" accessibilityLabel={showFavoritesOnly?"සියලු වචන වෙත යන්න":"සුරැකි වචන පමණක් පෙන්වන්න"} onPress={()=>{setShowFavoritesOnly(v=>!v);setVocabLetter("ALL");setVocabSearch("");setVocabDisplayLimit(60);}} style={[s.action,{backgroundColor:showFavoritesOnly?C.gold:C.panel2,borderWidth:1,borderColor:C.line}]}><Text style={[s.actionText,{color:showFavoritesOnly?C.bg:C.teal}]}>★ {showFavoritesOnly?"සියලු වචන බලන්න":"සුරැකි වචන බලන්න"} · {favoriteWords.length}</Text></TouchableOpacity>
     <View style={s.vocabSummary}><Text style={s.vocabCount}>{filteredVocabulary.length}</Text><Text style={s.sub}>පෙන්වන වචන / වාක්‍ය · මුළු එකතුව {vocabularyEntries.length}</Text></View>
-    <TextInput value={vocabSearch} onChangeText={setVocabSearch} placeholder="වචනයක්, තේරුමක් හෝ උච්චාරණයක් සොයන්න..." placeholderTextColor={C.muted} style={s.vocabSearch}/>
+    <TextInput value={vocabSearch} onChangeText={value=>{setVocabSearch(value);setVocabDisplayLimit(60);}} placeholder="වචනයක්, තේරුමක් හෝ උච්චාරණයක් සොයන්න..." placeholderTextColor={C.muted} style={s.vocabSearch}/>
     <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={{gap:7,paddingVertical:12}}>
-     {alphabetLetters.map(letter=><TouchableOpacity key={letter} onPress={()=>setVocabLetter(letter)} style={[s.vocabLetter,vocabLetter===letter&&s.vocabLetterActive]}><Text style={[s.vocabLetterText,vocabLetter===letter&&s.vocabLetterTextActive]}>{letter==="ALL"?"සියල්ල · "+vocabularyEntries.length:letter+" · "+vocabularyEntries.filter(item=>matchesVocabLetter(item.word,letter)).length}</Text></TouchableOpacity>)}
+     {alphabetLetters.map(letter=><TouchableOpacity key={letter} onPress={()=>{setVocabLetter(letter);setVocabDisplayLimit(60);}} style={[s.vocabLetter,vocabLetter===letter&&s.vocabLetterActive]}><Text style={[s.vocabLetterText,vocabLetter===letter&&s.vocabLetterTextActive]}>{letter==="ALL"?"සියල්ල · "+vocabularyEntries.length:letter+" · "+vocabularyEntries.filter(item=>matchesVocabLetter(item.word,letter)).length}</Text></TouchableOpacity>)}
     </ScrollView>
-    {filteredVocabulary.length===0?<Text style={s.sub}>{showFavoritesOnly?"තවම සුරැකි වචන නැහැ. ☆ බොත්තම ඔබලා වචන සුරකින්න.":"මේ අකුරෙන් හෝ සෙවුමට ගැළපෙන වචන හමු වුණේ නැහැ."}</Text>:filteredVocabulary.map((item,i)=><View key={item.word+"-"+i} style={s.vocabEntry}>
+    {filteredVocabulary.length===0?<Text style={s.sub}>{showFavoritesOnly?"තවම සුරැකි වචන නැහැ. ☆ බොත්තම ඔබලා වචන සුරකින්න.":"මේ අකුරෙන් හෝ සෙවුමට ගැළපෙන වචන හමු වුණේ නැහැ."}</Text>:visibleVocabulary.map((item,i)=><View key={item.word+"-"+i} style={s.vocabEntry}>
      <View style={s.vocabEntryTop}><Text style={s.vocabWord}>{item.word}</Text><TouchableOpacity accessibilityRole="button" accessibilityLabel={favoriteWords.includes(item.word)?"සුරැකි වචනවලින් ඉවත් කරන්න":"වචනය සුරකින්න"} onPress={()=>toggleFavorite(item.word)}><Text style={{fontSize:20,color:favoriteWords.includes(item.word)?C.gold:C.muted}}>{favoriteWords.includes(item.word)?"★":"☆"}</Text></TouchableOpacity><Text style={s.vocabSource}>{item.source}</Text></View>
      <Text style={s.sound}>සිංහල උච්චාරණය: {item.reading||(language==="Serbian"?pronounceSinhala(item.word):pronounceEnglishSinhala(item.word))}</Text>
      <Text style={s.vocabMeaning}>{item.meaning}</Text>
      {!!item.example&&<View style={s.vocabExample}><Text style={s.vocabExampleText}>{item.example}</Text><Text style={s.sound}>උච්චාරණය: {item.exampleReading}</Text>{!!item.translation&&<Text style={s.sub}>තේරුම: {item.translation}</Text>}<TouchableOpacity accessibilityRole="button" accessibilityLabel="උදාහරණ වාක්‍යයේ හඬ අහන්න" onPress={()=>speak(item.example,language)}><Text style={s.link}>🔊 උදාහරණය අහන්න</Text></TouchableOpacity></View>}
      <TouchableOpacity accessibilityRole="button" accessibilityLabel={item.word+" හඬ අහන්න"} onPress={()=>speak(item.word,language)} style={s.vocabAudio}><Text style={s.link}>🔊 වචනය / වාක්‍යය අහන්න</Text></TouchableOpacity>
     </View>)}
+    {filteredVocabulary.length>visibleVocabulary.length&&<TouchableOpacity accessibilityRole="button" onPress={()=>setVocabDisplayLimit(value=>value+60)} style={s.action}><Text style={s.actionText}>තව වචන 60ක් පෙන්වන්න · {filteredVocabulary.length-visibleVocabulary.length} ඉතිරියි</Text></TouchableOpacity>}
    </View>}
    {tab==="learn"&&<>
     <View style={s.panel}>
