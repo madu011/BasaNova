@@ -170,6 +170,36 @@ assert.match(appSource, /saved\.missionDate===missionDateRef\.current/u,
 assert.match(appSource, /AppState\.addEventListener\("change"/u,
   "Daily mission date must be checked when the app resumes");
 
+// Final-exam interaction safeguards: A1 confirms answers individually and can
+// reset the entire attempt; A2–C2 submit only after all 20 answers are present,
+// lock choices after submission, and clear the correct language-scoped answers
+// when the learner starts a fresh attempt.
+assert.match(appSource, /const done=exam\.filter\(\(q\)=>lessonChecked\[q\.id\]\)\.length;const score=exam\.filter\(q=>lessonChecked\[q\.id\]&&lessonAnswers\[q\.id\]===q\.answer\)\.length/u,
+  "A1 final exam score must count only confirmed correct answers");
+assert.match(appSource, /exam\.forEach\(q=>delete n\[q\.id\]\);return n;/u,
+  "A1 final exam restart must clear answers for every exam question");
+assert.match(appSource, /exam\.forEach\(q=>delete n\[q\.id\]\);return n;/u,
+  "A1 final exam restart must clear confirmed-answer state as well as selected answers");
+for (const level of ["a2", "b1", "b2", "c1", "c2"]) {
+  const submitted = level + "ExamSubmitted";
+  const prefix = level + "-final-";
+  assert.ok(appSource.includes(`disabled={${submitted}}`),
+    `${level.toUpperCase()} final exam choices must lock after submission`);
+  assert.ok(appSource.includes(`for(let i=0;i<20;i++)delete n["${prefix}"+language+"-"+i]`),
+    `${level.toUpperCase()} retake must clear all 20 answers for the active language only`);
+  assert.ok(appSource.includes(`set${level.toUpperCase()}ExamSubmitted(false)`),
+    `${level.toUpperCase()} retake must reopen the exam`);
+  assert.ok(appSource.includes(`lessonAnswers["${prefix}"+language+"-"+qi]===undefined`),
+    `${level.toUpperCase()} submission must require every question to be answered`);
+}
+assert.match(appSource, /payload=\{[^}]*a2ExamSubmitted,b1ExamSubmitted,b2ExamSubmitted,c1ExamSubmitted,c2ExamSubmitted/u,
+  "A2–C2 submitted state must persist with learner progress");
+assert.match(appSource, /setA2ExamSubmitted\(saved\.a2ExamSubmitted===true\)[\s\S]*setC2ExamSubmitted\(saved\.c2ExamSubmitted===true\)/u,
+  "A2–C2 submitted state must restore safely from saved progress");
+assert.match(appSource, /setA2ExamSubmitted\(false\);setB1ExamSubmitted\(false\);setB2ExamSubmitted\(false\);setC1ExamSubmitted\(false\);setC2ExamSubmitted\(false\)/u,
+  "Switching language must close any previously submitted advanced exam");
+
+
 const serbianRevision = await loadModule("serbianRevision.js");
 function validateAudioSet(label, questions, expectedCount) {
   assert.equal(Array.isArray(questions), true, `${label}: expected an array`);
