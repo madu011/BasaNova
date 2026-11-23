@@ -1397,3 +1397,9 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 - Updated C1/C2 batch status comments and fields so completed batches no longer advertise future lesson batches or remaining lesson counts. Preserved exported status constant names and the actual cumulative lesson counts; remaining tasks now correctly focus on editorial, Sinhala-language, CI and Android validation.
 - Commits: `c5264aa4bcfc4fae98665c2737e814b0ccee36c9` and `50de39be8e639c4a3606b22d67d6f76d549ed99d`.
 - A follow-up source scan confirmed no stale C1 remaining lesson counts, no stale C2 remaining lesson counts, and no remaining `nextBatch` metadata in the curriculum file. This is a metadata consistency check, not a runtime test.
+
+## 2026-11-23 follow-up — advanced lesson retry UX fix
+- A grouped Learn-screen review found that B2, C1 and C2 lesson exercises disabled answer choices after checking but did not consistently expose a retry action for incorrect answers. This left learners unable to change a wrong selection without leaving the lesson.
+- Added explicit retry controls to all three advanced levels: six practice-question result blocks and three listening-result blocks now clear only the relevant answer/check state and allow another attempt. Correct answers remain locked as completed.
+- Commit: `dfaa249dc283460b3c05cae99945daddf281fa51`.
+- This is a source-level UI logic fix. Runtime interaction testing remains pending.
