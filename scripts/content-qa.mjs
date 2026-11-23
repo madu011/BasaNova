@@ -251,6 +251,20 @@ assert.match(appSource, /Math\.min\(Math\.floor\(saved\.xp\),10000000\)/u,
 assert.match(appSource, /function Action\(\{children,onPress,secondary=false\}\)[\s\S]*?accessibilityRole="button" accessibilityLabel=\{typeof children==="string"\?children:undefined\}/u,
   "Shared action buttons must expose button semantics and readable labels when text is supplied");
 
+// A single TouchableOpacity wrapper applies consistent button semantics,
+// a text-derived fallback label, disabled state exposure and disabled styling
+// across every screen without duplicating props on hundreds of call sites.
+assert.match(appSource, /TouchableOpacity as NativeTouchableOpacity/u,
+  "Native touch controls must be wrapped by the shared accessible control");
+assert.match(appSource, /function TouchableOpacity\(\{children,accessibilityRole="button",accessibilityLabel,accessibilityState,disabled=false,style,\.\.\.props\}\)/u,
+  "Every touch control must receive a default button role and disabled-state handling");
+assert.match(appSource, /readableControlLabel\(children\)\|\|"ක්‍රියා බොත්තම"/u,
+  "Touch controls without explicit labels must derive a readable fallback label");
+assert.match(appSource, /accessibilityState=\{\{\.\.\.accessibilityState,disabled\}\}/u,
+  "Disabled touch controls must expose their disabled state to assistive technology");
+assert.match(appSource, /disabled&&\{opacity:0\.45\}/u,
+  "Disabled touch controls must have a visible disabled appearance");
+
 // Navigation accessibility and compact-screen usability.
 assert.match(appSource, /accessibilityRole="button" accessibilityLabel=\{label\} accessibilityState=\{\{selected:tab===id\}\} onPress=\{\(\)=>setTab\(id\)\}/u,
   "Bottom navigation must expose a screen-reader label and selected state for every tab");
