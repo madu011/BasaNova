@@ -533,14 +533,24 @@ export default function App(){
  const courseLessonProgress=useMemo(()=>{
   if(!language)return [];
   return Object.entries(COURSE_LESSONS[language]).map(([level,lessons])=>{
-   const completed=lessons.filter(lesson=>{
-    const keys=(lesson.practice||[]).map((_,qi)=>lesson.id+"-"+qi);
-    if(level==="A1"||lesson.listeningPractice)keys.push(lesson.id+"-listen");
-    return keys.length>0&&keys.every(key=>lessonChecked[key]===true);
+   const completed=lessons.filter((lesson,lessonIndex)=>{
+    const practice=lesson.practice||[];
+    const practiceComplete=practice.length>0&&practice.every((question,questionIndex)=>{
+     const key=lesson.id+"-"+questionIndex;
+     return lessonChecked[key]===true&&lessonAnswers[key]===question.answer;
+    });
+    const listening=level==="A1"
+     ?(language==="Serbian"?(SERBIAN_A1_LISTENING[lessonIndex]||buildVocabularyListening(lesson)):buildVocabularyListening(lesson))
+     :lesson.listeningPractice;
+    const listeningComplete=!listening||(
+     lessonChecked[lesson.id+"-listen"]===true&&
+     lessonAnswers[lesson.id+"-listen"]===listening.answer
+    );
+    return practiceComplete&&listeningComplete;
    }).length;
    return {level,completed,total:lessons.length,percent:lessons.length?Math.round(completed/lessons.length*100):0};
   });
- },[language,lessonChecked]);
+ },[language,lessonChecked,lessonAnswers]);
  const totalLessonsCompleted=courseLessonProgress.reduce((sum,item)=>sum+item.completed,0);
  const totalCourseLessons=courseLessonProgress.reduce((sum,item)=>sum+item.total,0);
 
