@@ -1429,3 +1429,10 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 - Fixed course lesson progress aggregation in `App.js`: a lesson now counts as completed only when every practice answer is correct and, where the lesson has a listening task, its listening answer is also correct. A1 uses its Serbian listening set or generated vocabulary listening task, matching the Learn screen behavior. Previously, merely checking a wrong answer could increase the course completion percentage.
 - Added static QA assertions for correctness-based practice and listening completion. Commits: `b5560a5a07f26b23d2c85a9780707ffd1f7d4b29` and `6c99ab80cab3cb163d4162e966191e632f01d179`.
 - Automated QA remains unexecuted; no Expo export, APK build, installation or device test was performed. Keep the build workflow untouched until all source work is complete and the user authorizes the final build.
+
+
+## 2026-11-23 follow-up — beginner lesson retry coverage
+- Continued the full-level Learn interaction audit after making course completion depend on correct answers. Found that A1 and A2 lesson exercises could lock after a wrong checked answer, leaving the lesson impossible to complete without resetting progress manually.
+- Added retry actions for incorrect Serbian A1 lesson practice and listening, English A1 lesson practice and listening, both A1 mixed-listening revision tracks, and A2 lesson practice and listening. Retry clears only the current question's answer/check state; correct answers remain completed. B1 and B2–C2 already had retry controls in their lesson exercises.
+- Commit: `4475c70c31839ebb111b775b87e7039e399069ff`. Added a source-level regression guard requiring retry controls to remain present across the Learn screen in `scripts/content-qa.mjs`, commit `c764c5e39f255717b1a3be17c3a32a4c511c279c`.
+- Source inspection confirms 27 retry labels are present. This is not runtime interaction verification. Automated content QA, Expo export, APK build, installation and Android device testing remain pending.
