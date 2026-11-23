@@ -434,3 +434,7 @@ A JSX syntax error in the 18+ language panel was found during Expo bundle export
 
 ### Assessment content QA automation — 2026-11-19
 Added `npm run qa:content` to validate the A1 and C2 final/revision assessment schemas, question counts, unique IDs and answer choices, answer-index bounds, and Sinhala-script pronunciation fields. The check is wired into both GitHub Actions workflows and will execute when Actions is available. A mixed-script Sinhala/Cyrillic pronunciation in Serbian A1 final item 18 was corrected. This static check does not replace linguistic review, runtime testing, or Android device testing. See `HANDOFF.md` for current verification limits.
+
+
+### Vocabulary library and daily learning missions — 2026-11-23
+The vocabulary library now includes lesson vocabulary across A1–C2 for both language tracks, with filtered results shown in batches of 60 to keep the mobile screen manageable. Daily mission completion resets against the device's local calendar date when the app resumes, while total XP remains cumulative. These are source-level updates; runtime and Android verification are still pending. See `HANDOFF.md` for the current work log.
