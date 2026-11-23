@@ -464,3 +464,7 @@ Improved bottom-tab screen-reader labels and selected states, enlarged navigatio
 
 ### Language-separated vocabulary favourites — 2026-11-23
 Fixed a cross-language favourites collision by storing Serbian and English saved words separately, while migrating older saved arrays into the previously selected language. Added source-level regression guards. Device-profile migration and Android UI testing remain pending. See `HANDOFF.md`.
+
+
+### Course-switch state isolation — 2026-11-23
+Course selection now clears language-specific vocabulary search/alphabet/favourites filters and resets the expanded A1 lesson and dialogue state, preventing Serbian-only filters from leaking into English and vice versa. Static regression checks were added; runtime verification remains pending. See `HANDOFF.md`.
