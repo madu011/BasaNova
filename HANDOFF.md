@@ -1372,3 +1372,16 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 1. Continue reviewing `scripts/content-qa.mjs` for other deterministic validation defects, especially assumptions shared across A1–C2 and assessment alignment.
 2. Review current `App.js` screens and persistence/audio flows against the product requirements; fix verified defects in grouped commits and update this handoff each work session.
 3. When GitHub Actions usage permits, run only `npm run qa:content` first, repair every reported failure, and keep Expo/APK workflows untouched until the user explicitly authorizes the final build.
+
+## 2026-11-23 follow-up — grouped persistence and voice reliability pass
+- Hardened local progress restore in `App.js`: validates object-shaped lesson answer/check maps, validates XP, filters malformed mission/favourite entries, and bounds restored translator history to the most recent 100 records. Existing storage key remains `basanova-progress-v1`; payload now records schemaVersion 2 while retaining backward-compatible reads of existing fields.
+- Serialized AsyncStorage writes through a promise queue so rapid state updates cannot finish out of order and overwrite a newer progress snapshot with an older one.
+- Hardened speech playback: each new voice request invalidates older requests, unloads the previous Google TTS sound, ignores stale network/file responses, and prevents an older response from starting playback after a newer phrase was requested.
+- Source changes are committed in `3b3b9fd2244fb8ce094414ce149e44b5065b67d6` and `86971d047321600c4867fd1ebab77029b7e1ec42`. Earlier C1 QA registry repair remains in `61ecc831775675ad8ae29e05d4a69593b3497938`.
+- No automated QA, Expo export, APK build, or physical-device test has been run in this pass. These are code-level reliability improvements, not a claim of runtime verification.
+
+### Next grouped work batch
+1. Audit the complete Learn/lesson interaction flow: selected course, lesson expansion, question selection/checking, listening completion, exam state and progress aggregation for all six levels and both languages.
+2. Audit translator, vocabulary search/favourites, mission/XP and theme interactions for persistence and state consistency.
+3. Review responsive layout/navigation and accessibility touch targets across small Android screens.
+4. Group verified fixes and update README/HANDOFF. Keep all build workflows untouched until final source QA and explicit final-build approval.
