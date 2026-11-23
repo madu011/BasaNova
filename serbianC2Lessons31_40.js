@@ -1474,32 +1474,32 @@ export const SERBIAN_C2_LESSONS_31_40 = [
     "objective": "Razumite strategije slušanja, segmentacije i upravljanja informacijama tokom usmenog prevođenja.",
     "vocabulary": [
       {
-        "word": "simultano prevođenje",
+        "word": "Simultano prevođenje zahteva slušanje i govor u isto vreme.",
         "reading": "සිමුල්තානො ප්‍රෙවොජෙන්යේ",
-        "meaning": "සමකාලීන පරිවර්තනය",
+        "meaning": "සමකාලීන පරිවර්තනයේදී එකවර සවන් දීමත් කථා කිරීමත් අවශ්‍ය වේ.",
         "example": "Tumač deli govor na smisaone celine.",
         "translation": "භාෂණය අර්ථවත් කොටස්වලට බෙදයි."
       },
       {
-        "word": "segmentacija",
+        "word": "Segmentacija deli govor na kraće smisaone celine.",
         "reading": "සෙග්මෙන්තාට්සියා",
-        "meaning": "කොටස්වලට බෙදීම",
+        "meaning": "කොටස්වලට බෙදීමෙන් කථනය කෙටි අර්ථවත් කොටස්වලට වෙන් කරයි.",
         "example": "Preveliko zaostajanje povećava rizik od izostavljanja.",
         "translation": "අධික ප්‍රමාදය තොරතුරු මඟහැරීමේ අවදානම වැඩි කරයි."
       },
       {
-        "word": "kognitivno opterećenje",
+        "word": "Kognitivno opterećenje raste kada tumač istovremeno obrađuje više zadataka.",
         "reading": "කොග්නිතිව්නො ඔපෙරෙචෙන්යේ",
-        "meaning": "මානසික සැකසුම් බර",
+        "meaning": "පරිවර්තකයා එකවර කාර්ය කිහිපයක් සැකසීමේදී මානසික සැකසුම් බර වැඩි වේ.",
         "example": "Anticipacija zahteva poznavanje teme i konteksta.",
         "translation": "පෙර අනුමානයට මාතෘකාව හා සන්දර්භය දැනගැනීම අවශ්‍යය."
       },
       {
-        "word": "zaostajanje",
+        "word": "vremenski razmak između slušanja i govora",
         "reading": "සාඔස්තායාන්යේ",
-        "meaning": "කථනයට පසු ප්‍රමාදය",
-        "example": "Samokorekcija mora biti kratka i funkcionalna.",
-        "translation": "ස්වයං නිවැරදි කිරීම කෙටි හා කාර්යමය විය යුතුය."
+        "meaning": "ඇසීම හා කථනය අතර ප්‍රමාදය",
+        "example": "Vremenski razmak između slušanja i govora utiče na tačnost tumačenja.",
+        "translation": "ඇසීම හා කථනය අතර ප්‍රමාදය පරිවර්තනයේ නිවැරදිභාවයට බලපායි."
       },
       {
         "word": "anticipacija",
