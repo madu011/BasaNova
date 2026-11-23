@@ -21,25 +21,25 @@ export const SERBIAN_C2_LESSONS_21_30 = [
         "translation": "සන්දර්භ ලැයිස්තුවක් වචනය ආසන්න සන්දර්භය තුළ පෙන්වයි."
       },
       {
-        "word": "kolokacija",
+        "word": "Česta kolokacija povezuje pridev sa određenom imenicom.",
         "reading": "කොලොකාට්සියා",
-        "meaning": "සහපද භාවිතය",
+        "meaning": "නිතර යෙදෙන සහපද භාවිතයක් විශේෂණයක් නිශ්චිත නාම පදයක් සමඟ සම්බන්ධ කරයි.",
         "example": "Učestalost sama po sebi ne dokazuje značaj.",
         "translation": "සංඛ්‍යාතය පමණක් වැදගත්කම සනාථ නොකරයි."
       },
       {
-        "word": "frekvencija",
+        "word": "Frekvencija pokazuje koliko se puta jedinica pojavljuje u korpusu.",
         "reading": "ෆ්‍රෙක්වෙන්ට්සියා",
-        "meaning": "සංඛ්‍යාතය",
+        "meaning": "සංඛ්‍යාතය මඟින් ඒකකයක් දත්ත සමුදායේ කොපමණ වාරයක් පෙනී සිටිනවාදැයි පෙන්වයි.",
         "example": "Rezultate treba tumačiti prema sastavu uzorka.",
         "translation": "ප්‍රතිඵල නියැදියේ සංයුතිය අනුව අර්ථකථනය කළ යුතුය."
       },
       {
-        "word": "uzorak",
+        "word": "okvir uzorkovanja",
         "reading": "උසොරක්",
-        "meaning": "නියැදිය",
-        "example": "U analizi se izraz „uzorak“ koristi kao precizan stručni pojam.",
-        "translation": "විශ්ලේෂණයේදී “නියැදිය” යන සංකල්පය නිශ්චිත විෂයමය පදයක් ලෙස භාවිත කරයි."
+        "meaning": "නියැදි රාමුව",
+        "example": "Okvir uzorkovanja određuje koje jedinice mogu ući u istraživanje.",
+        "translation": "නියැදි රාමුව පර්යේෂණයට ඇතුළත් කළ හැකි ඒකක තීරණය කරයි."
       },
       {
         "word": "metapodaci",
@@ -170,32 +170,32 @@ export const SERBIAN_C2_LESSONS_21_30 = [
     "objective": "Razlikujte temu, fokus i funkciju diskursnih markera.",
     "vocabulary": [
       {
-        "word": "tematizacija",
+        "word": "Tematizacija postavlja poznatu informaciju u početni deo iskaza.",
         "reading": "තෙමාතිසාට්සියා",
-        "meaning": "මාතෘකාව ඉදිරිපත් කිරීම",
+        "meaning": "මාතෘකා ඉදිරිපත් කිරීමෙන් දන්නා තොරතුරු ප්‍රකාශයේ මුල් කොටසට ගෙන එයි.",
         "example": "Međutim, zaključak ne sledi iz prethodne premise.",
         "translation": "කෙසේවෙතත්, නිගමනය පෙර පූර්වකල්පනයෙන් අනුගමනය නොවේ."
       },
       {
-        "word": "fokus",
+        "word": "Fokus označava informaciju koju govornik posebno ističe.",
         "reading": "ෆොකුස්",
-        "meaning": "අවධානයේ කේන්ද්‍රය",
+        "meaning": "අවධානයේ කේන්ද්‍රය යනු කථිකයා විශේෂයෙන් ඉස්මතු කරන තොරතුරයි.",
         "example": "Upravo taj podatak menja fokus rasprave.",
         "translation": "එම දත්තයම සාකච්ඡාවේ අවධානය වෙනස් කරයි."
       },
       {
-        "word": "topikalizacija",
+        "word": "Topikalizacija pomera temu na početak rečenice.",
         "reading": "තොපිකාලිසාට්සියා",
-        "meaning": "මාතෘකාකරණය",
+        "meaning": "මාතෘකාකරණය වාක්‍යයේ මාතෘකාව මුලට ගෙන එයි.",
         "example": "Marker povezuje iskaz sa širim diskursom.",
         "translation": "සලකුණ ප්‍රකාශය පුළුල් සංවාදයට සම්බන්ධ කරයි."
       },
       {
-        "word": "rematski",
+        "word": "rema",
         "reading": "රෙමාත්ස්කි",
-        "meaning": "නව තොරතුරු සම්බන්ධ",
-        "example": "Presupozicija ostaje neizrečena, ali aktivna.",
-        "translation": "පූර්ව උපකල්පනය නොකියා තිබුණත් ක්‍රියාත්මකව පවතී."
+        "meaning": "නව තොරතුරු කොටස",
+        "example": "Rema donosi novu informaciju o već uvedenoj temi.",
+        "translation": "රීමා කොටස දැනටමත් හඳුන්වා දුන් මාතෘකාව පිළිබඳ නව තොරතුරු ගෙන එයි."
       },
       {
         "word": "kohezija",
@@ -333,30 +333,30 @@ export const SERBIAN_C2_LESSONS_21_30 = [
     "objective": "Objasnite kako akcenat, ritam i intonacija menjaju značenje.",
     "vocabulary": [
       {
-        "word": "prozodija",
+        "word": "Prozodija obuhvata ritam, naglasak i intonaciju govora.",
         "reading": "ප්‍රොසොදියා",
-        "meaning": "ශබ්ද රිද්මය හා ස්වර නැගීම",
+        "meaning": "ප්‍රොසෝඩියාව කථනයේ රිද්මය, අවධාරණය සහ ස්වර නැගීම ඇතුළත් කරයි.",
         "example": "Intonacija može signalizirati rezervu bez eksplicitnih reči.",
         "translation": "වචන පැහැදිලිව නොකියා ස්වරය සැකය පෙන්විය හැක."
       },
       {
-        "word": "intonacija",
+        "word": "Intonacija može razlikovati pitanje od tvrdnje.",
         "reading": "ඉන්ටොනාට්සියා",
-        "meaning": "ස්වර නැගීම හා බැසීම",
+        "meaning": "ස්වර නැගීම හා බැසීම ප්‍රශ්නයක් සහ ප්‍රකාශයක් අතර වෙනස පෙන්විය හැක.",
         "example": "Akcenat razlikuje informacijski fokus.",
         "translation": "උච්චාරණ බලය තොරතුරු අවධානය වෙනස් කරයි."
       },
       {
-        "word": "akcenatski",
+        "word": "akcenatski obrazac",
         "reading": "අක්චෙනාත්ස්කි",
-        "meaning": "උච්චාරණ බලය සම්බන්ධ",
-        "example": "Govorni ritam zavisi od jezika i registra.",
-        "translation": "කථන රිද්මය භාෂාව හා රෙජිස්ටර් අනුව වෙනස් වේ."
+        "meaning": "උච්චාරණ බල රටාව",
+        "example": "Akcenatski obrazac određuje koji slog nosi naglasak.",
+        "translation": "උච්චාරණ බල රටාවෙන් අවධාරණය ලැබෙන අක්ෂර ඛණ්ඩය තීරණය වේ."
       },
       {
-        "word": "kvantitet",
+        "word": "Kvantitet razlikuje kratke i duge vokale u jeziku.",
         "reading": "ක්වාන්තිතෙත්",
-        "meaning": "ශබ්ද දිග",
+        "meaning": "භාෂාවේ කෙටි හා දිගු ස්වර අතර වෙනස ශබ්ද දිග මඟින් පෙන්වයි.",
         "example": "Fonotaktika ograničava moguće glasovne nizove.",
         "translation": "ශබ්ද සංයෝජන නීති හැකි ශබ්ද අනුපිළිවෙළ සීමා කරයි."
       },
@@ -496,30 +496,30 @@ export const SERBIAN_C2_LESSONS_21_30 = [
     "objective": "Procijenite šta se može preneti, a šta zahteva kulturno objašnjenje.",
     "vocabulary": [
       {
-        "word": "neprevodivost",
+        "word": "Neprevodivost označava teškoću prenošenja značenja u drugi jezik.",
         "reading": "නෙප්‍රෙවොදිවොස්ත්",
-        "meaning": "සෘජුව පරිවර්තනය කළ නොහැකි බව",
+        "meaning": "සෘජුව පරිවර්තනය කළ නොහැකි බව යනු අර්ථය වෙනත් භාෂාවකට ගෙන යාමේ අපහසුතාවයි.",
         "example": "Doslovan prevod gubi kulturnu aluziju.",
         "translation": "වචනාර්ථ පරිවර්තනය සංස්කෘතික ඉඟිය අහිමි කරයි."
       },
       {
-        "word": "ekvivalencija",
+        "word": "Ekvivalencija traži odgovarajući smisao u ciljnom jeziku.",
         "reading": "එක්විවාලෙන්ට්සියා",
-        "meaning": "සමාන අර්ථ ගැළපීම",
+        "meaning": "සමාන අර්ථ ගැළපීමෙන් ඉලක්ක භාෂාවේ ගැළපෙන අර්ථයක් සොයයි.",
         "example": "Prevodilac bira strategiju prema publici.",
         "translation": "පරිවර්තකයා පාඨකයා අනුව උපාය තෝරයි."
       },
       {
         "word": "domestikacija",
         "reading": "දොමෙස්තිකාට්සියා",
-        "meaning": "දේශීය සංස්කෘතියට අනුව හැඩගැස්වීම",
-        "example": "Fusnota može sačuvati istorijski kontekst.",
-        "translation": "පාදසටහනක් ඉතිහාස සන්දර්භය රැකිය හැක."
+        "meaning": "දේශීය සංස්කෘතියට හැඩගැස්වීම",
+        "example": "Domestikacija prilagođava kulturne elemente ciljnoj publici.",
+        "translation": "දේශීය සංස්කෘතියට හැඩගැස්වීමෙන් සංස්කෘතික අංග ඉලක්ක පාඨකයන්ට ගැළපේ."
       },
       {
-        "word": "otuđenje",
+        "word": "Strategija otuđenja zadržava elemente strane kulture u prevodu.",
         "reading": "ඔතුජෙන්යේ",
-        "meaning": "විදේශීය බව රැකීම",
+        "meaning": "විදේශීය බව රැකීමේ උපාය පරිවර්තනයේදී විදේශීය සංස්කෘතික අංග රඳවා ගනී.",
         "example": "Kompenzacija nadoknađuje izgubljeni efekat.",
         "translation": "වෙනත් තැනක අර්ථ පිරවීමෙන් නැතිවූ බලපෑම පුරවයි."
       },
@@ -1148,16 +1148,16 @@ export const SERBIAN_C2_LESSONS_21_30 = [
     "objective": "Koristite precizan jezik koji smanjuje polarizaciju i ne briše odgovornost.",
     "vocabulary": [
       {
-        "word": "deeskalacija",
+        "word": "Deeskalacija smanjuje napetost smirenom i preciznom komunikacijom.",
         "reading": "දෙඑස්කලාට්සියා",
-        "meaning": "උණුසුම අඩු කිරීම",
+        "meaning": "උණුසුම අඩු කිරීම සන්සුන් හා නිවැරදි සන්නිවේදනයෙන් ආතතිය අඩු කරයි.",
         "example": "Precizan jezik ne sme prikriti odgovornost.",
         "translation": "නිවැරදි භාෂාව වගකීම සඟවා නොදැමිය යුතුය."
       },
       {
-        "word": "polarizacija",
+        "word": "Polarizacija produbljuje podele između društvenih grupa.",
         "reading": "පොලාරිසාට්සියා",
-        "meaning": "ධ්‍රැවීකරණය",
+        "meaning": "ධ්‍රැවීකරණය සමාජ කණ්ඩායම් අතර බෙදීම් ගැඹුරු කරයි.",
         "example": "Deeskalacija počinje priznavanjem štete.",
         "translation": "උණුසුම අඩු කිරීම හානිය පිළිගැනීමෙන් ආරම්භ වේ."
       },
@@ -1169,9 +1169,9 @@ export const SERBIAN_C2_LESSONS_21_30 = [
         "translation": "වගකීම ආරෝපණය කළ යුත්තේ පරීක්ෂා කළ හැකි කරුණු මතය."
       },
       {
-        "word": "dehumanizacija",
+        "word": "Dehumanizacija prikazuje ljude kao da su lišeni ljudskih osobina.",
         "reading": "දෙහුමානිසාට්සියා",
-        "meaning": "මනුෂ්‍යත්වය අහිමි කර දැක්වීම",
+        "meaning": "මනුෂ්‍යත්වය අහිමි කර දැක්වීමෙන් මිනිසුන්ට මනුෂ්‍ය ගුණ නැති ලෙස නිරූපණය කරයි.",
         "example": "Dijalog ne zahteva odricanje od principa.",
         "translation": "සංවාදයට මූලධර්ම අත්හැරීම අවශ්‍ය නොවේ."
       },
@@ -1185,9 +1185,9 @@ export const SERBIAN_C2_LESSONS_21_30 = [
       {
         "word": "odgovornost",
         "reading": "ඔද්ගොවොර්නොස්ත්",
-        "meaning": "වගකීම",
-        "example": "Autori objašnjavaju šta podrazumevaju pod pojmom „odgovornost“.",
-        "translation": "කතුවරු “වගකීම” යන සංකල්පයෙන් අදහස් කරන්නේ කුමක්දැයි පැහැදිලි කරති."
+        "meaning": "වගවීම",
+        "example": "Jasna odgovornost podrazumeva objašnjenje odluka i njihovih posledica.",
+        "translation": "පැහැදිලි වගවීම යනු තීරණ සහ ඒවායේ ප්‍රතිවිපාක පැහැදිලි කිරීමයි."
       },
       {
         "word": "osetljivost",
