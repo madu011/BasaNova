@@ -155,13 +155,13 @@ for (const match of relativeNamedImports) {
 
 
 // Guard key App.js integrations that are easy to regress without changing lesson data.
-assert.match(appSource, /Object\\.values\\(COURSE_LESSONS\\[language\\]\\)\\.flat\\(\\)/u,
+assert.match(appSource, /Object\.values\(COURSE_LESSONS\[language\]\)\.flat\(\)/u,
   "Vocabulary library must aggregate lesson vocabulary from every CEFR level");
-assert.match(appSource, /visibleVocabulary\\s*=\\s*filteredVocabulary\\.slice\\(0,\\s*vocabDisplayLimit\\)/u,
+assert.match(appSource, /visibleVocabulary\s*=\s*filteredVocabulary\.slice\(0,\s*vocabDisplayLimit\)/u,
   "Vocabulary library must render a bounded batch of filtered results");
-assert.match(appSource, /saved\\.missionDate===missionDateRef\\.current/u,
+assert.match(appSource, /saved\.missionDate===missionDateRef\.current/u,
   "Daily mission completion must restore only for the matching local date");
-assert.match(appSource, /AppState\\.addEventListener\\("change"/u,
+assert.match(appSource, /AppState\.addEventListener\("change"/u,
   "Daily mission date must be checked when the app resumes");
 
 const serbianRevision = await loadModule("serbianRevision.js");
