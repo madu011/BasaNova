@@ -1525,9 +1525,9 @@ export const ENGLISH_C1_LESSONS_41_50 = [
       {
         "word": "justification",
         "reading": "ජ්අස්ට්ඉෆ්ඉක්ඇෂන්",
-        "meaning": "සාධාරණීකරණය",
-        "example": "The conclusion explains how “justification” applies in this context.",
-        "translation": "නිගමනයේදී “සාධාරණීකරණය” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
+        "meaning": "හේතු දැක්වීම",
+        "example": "The decision must include a clear justification.",
+        "translation": "තීරණයට පැහැදිලි හේතු දැක්වීමක් ඇතුළත් විය යුතුය."
       }
     ],
     "grammarTitle": "Grammar and style",
