@@ -204,9 +204,9 @@ export const C2_BATCH_31_40_STATUS = {
   lessons: { Serbian: 40, English: 40 },
   pairedLessons: 40,
   totalAuthoredC2Records: 80,
-  nextBatch: "C2 lessons 41–50",
-  remainingC2Lessons: 10,
-  remainingValidation: ["fluent-speaker review of advanced Serbian and English nuance", "review Sinhala-script pronunciation and translations", "add cumulative C2 revision and final practice assessment after lesson 50", "CI, Expo build and Android device verification"]
+  nextTask: "Fluent-speaker and Sinhala-language QA; verify Android device behavior",
+  remainingC2Lessons: 0,
+  remainingValidation: ["fluent-speaker review of advanced Serbian and English nuance", "review Sinhala-script pronunciation and translations", "C2 assessment answer alignment and distractor review", "CI, Expo build and Android device verification"]
 };
 
 
