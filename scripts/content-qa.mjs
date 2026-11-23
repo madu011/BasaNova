@@ -206,7 +206,7 @@ assert.match(appSource, /response\.ok\)throw new Error/u,
   "Translator must handle non-success HTTP responses");
 assert.match(appSource, /data\?\.responseStatus!==200\|\|!result/u,
   "Translator must reject unsuccessful or empty service responses");
-assert.match(appSource, /items\.filter\(item=>item\.source!==source\)\]\)\.slice\(0,12\)/u,
+assert.match(appSource, /items\.filter\(item=>item\.source!==source\)\]\.slice\(0,12\)/u,
   "Translator history must deduplicate source text and stay within 12 visible entries");
 assert.match(appSource, /මුරපද, බැංකු විස්තර හෝ වෙනත් රහස්‍ය තොරතුරු ඇතුළත් නොකරන්න/u,
   "Translator screen must retain its external-service privacy warning");
