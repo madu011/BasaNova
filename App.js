@@ -463,10 +463,13 @@ const pronounceEnglishSinhala=(text)=>{
 };
 const GOOGLE_TTS_ENDPOINT=process.env.EXPO_PUBLIC_VOICE_API_URL||"";
 let activeGoogleSound=null;
+let voiceRequestId=0;
 const speak=async(text,lang)=>{
  const phrase=String(text||"").trim();
  if(!phrase)return;
+ const requestId=++voiceRequestId;
  Speech.stop();
+ if(activeGoogleSound){await activeGoogleSound.unloadAsync().catch(()=>{});activeGoogleSound=null;}
  if(GOOGLE_TTS_ENDPOINT){
   try{
    const response=await fetch(GOOGLE_TTS_ENDPOINT.replace(/\/+$/, "")+"/speak",{
@@ -476,17 +479,20 @@ const speak=async(text,lang)=>{
    });
    if(!response.ok)throw new Error("Google voice service returned "+response.status);
    const payload=await response.json();
+   if(requestId!==voiceRequestId)return;
    if(!payload.audioContent)throw new Error("Voice response did not contain audio");
    const uri=FileSystem.cacheDirectory+"basanova-voice-"+Date.now()+".mp3";
    await FileSystem.writeAsStringAsync(uri,payload.audioContent,{encoding:FileSystem.EncodingType.Base64});
-   if(activeGoogleSound){await activeGoogleSound.unloadAsync().catch(()=>{});activeGoogleSound=null;}
+   if(requestId!==voiceRequestId)return;
    const result=await Audio.Sound.createAsync({uri},{shouldPlay:true});
+   if(requestId!==voiceRequestId){await result.sound.unloadAsync().catch(()=>{});return;}
    activeGoogleSound=result.sound;
    return;
   }catch(error){
    console.warn("Google TTS unavailable; using device speech fallback",error);
   }
  }
+ if(requestId!==voiceRequestId)return;
  Speech.speak(phrase,{language:lang==="Serbian"?"sr-RS":"en-US",rate:0.82});
 };
 function Action({children,onPress,secondary=false}){const {styles:s,colors:C}=useContext(ThemeContext);return <TouchableOpacity onPress={onPress} style={[s.action,secondary&&s.secondary]}><Text style={[s.actionText,secondary&&{color:C.teal}]}>{children}</Text></TouchableOpacity>;}
