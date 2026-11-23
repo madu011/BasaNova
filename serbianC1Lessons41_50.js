@@ -4,7 +4,7 @@ export const SERBIAN_C1_LESSONS_41_50 = [
     "id": "sr-c1-l41",
     "unit": "C1 · Strateško predviđanje i planiranje scenarija",
     "title": "C1 · 41 · Strateško predviđanje i planiranje scenarija",
-    "objective": "අනාගත අවස්ථා කිහිපයක් සලකා අවදානම් සහ සූදානම් වීමේ ක්‍රියාමාර්ග පැහැදිලි කරන්න.",
+    "objective": "Razmotrite više mogućih budućih scenarija i objasnite rizike i pripremne mere.",
     "vocabulary": [
       {
         "word": "predviđanje",
@@ -167,7 +167,7 @@ export const SERBIAN_C1_LESSONS_41_50 = [
     "id": "sr-c1-l42",
     "unit": "C1 · Napredno pregovaranje i diplomatski kompromis",
     "title": "C1 · 42 · Napredno pregovaranje i diplomatski kompromis",
-    "objective": "විරුද්ධ අවශ්‍යතා හඳුනාගෙන සාධාරණ සම්මුතියක් සහ පැහැදිලි කොන්දේසි සාකච්ඡා කරන්න.",
+    "objective": "Prepoznajte suprotstavljene interese i pregovarajte o pravičnom kompromisu i jasnim uslovima.",
     "vocabulary": [
       {
         "word": "ustupak",
@@ -330,7 +330,7 @@ export const SERBIAN_C1_LESSONS_41_50 = [
     "id": "sr-c1-l43",
     "unit": "C1 · Korporativno upravljanje i nadzor odbora",
     "title": "C1 · 43 · Korporativno upravljanje i nadzor odbora",
-    "objective": "පාලන වගකීම්, අධීක්ෂණය සහ වගවීම අතර වෙනස පැහැදිලි කරන්න.",
+    "objective": "Objasnite razliku između upravljačkih dužnosti, nadzora i odgovornosti.",
     "vocabulary": [
       {
         "word": "nadzor",
@@ -493,7 +493,7 @@ export const SERBIAN_C1_LESSONS_41_50 = [
     "id": "sr-c1-l44",
     "unit": "C1 · Prilagođavanje klimatskim promenama i politika zaštite životne sredine",
     "title": "C1 · 44 · Prilagođavanje klimatskim promenama i politika zaštite životne sredine",
-    "objective": "දේශගුණික අවදානම්, අනුවර්තනය සහ ප්‍රතිපත්ති ක්‍රියාමාර්ග පිළිබඳ සාකච්ඡා කරන්න.",
+    "objective": "Razgovarajte o klimatskim rizicima, prilagođavanju i merama javne politike.",
     "vocabulary": [
       {
         "word": "prilagođavanje",
@@ -656,7 +656,7 @@ export const SERBIAN_C1_LESSONS_41_50 = [
     "id": "sr-c1-l45",
     "unit": "C1 · Digitalna transformacija i organizacione promene",
     "title": "C1 · 45 · Digitalna transformacija i organizacione promene",
-    "objective": "තාක්ෂණික වෙනසක් ආයතනික ක්‍රියාවලි හා සේවකයන්ට බලපාන ආකාරය ඇගයීමට ලක් කරන්න.",
+    "objective": "Procenite kako tehnološke promene utiču na organizacione procese i zaposlene.",
     "vocabulary": [
       {
         "word": "transformacija",
@@ -819,7 +819,7 @@ export const SERBIAN_C1_LESSONS_41_50 = [
     "id": "sr-c1-l46",
     "unit": "C1 · Napredne istraživačke metode i uzročno zaključivanje",
     "title": "C1 · 46 · Napredne istraživačke metode i uzročno zaključivanje",
-    "objective": "සම්බන්ධතාවය සහ හේතුකාරකත්වය වෙන්කර පර්යේෂණ නිගමනවල සීමා දක්වන්න.",
+    "objective": "Razlikujte korelaciju i uzročnost i navedite ograničenja istraživačkih zaključaka.",
     "vocabulary": [
       {
         "word": "uzročnost",
@@ -982,7 +982,7 @@ export const SERBIAN_C1_LESSONS_41_50 = [
     "id": "sr-c1-l47",
     "unit": "C1 · Književna kritika i višeznačnost tumačenja",
     "title": "C1 · 47 · Književna kritika i višeznačnost tumačenja",
-    "objective": "සාහිත්‍ය කෘතියක හඬ, සංකේත සහ අර්ථයේ බහුත්වය සාක්ෂි සමඟ විග්‍රහ කරන්න.",
+    "objective": "Analizirajte glas, simbole i višestrukost značenja književnog dela uz potkrepljujuće dokaze.",
     "vocabulary": [
       {
         "word": "dvosmislenost",
@@ -1145,7 +1145,7 @@ export const SERBIAN_C1_LESSONS_41_50 = [
     "id": "sr-c1-l48",
     "unit": "C1 · Javna komunikacija i krizno informisanje",
     "title": "C1 · 48 · Javna komunikacija i krizno informisanje",
-    "objective": "අර්බුදයකදී නිවැරදි, සංවේදී සහ කාලෝචිත පණිවිඩයක් සකස් කරන්න.",
+    "objective": "U kriznoj situaciji oblikujte tačnu, obzirnu i pravovremenu poruku.",
     "vocabulary": [
       {
         "word": "transparentnost",
@@ -1308,7 +1308,7 @@ export const SERBIAN_C1_LESSONS_41_50 = [
     "id": "sr-c1-l49",
     "unit": "C1 · Završni integrisani projekat C1: preporuka zasnovana na dokazima",
     "title": "C1 · 49 · Završni integrisani projekat C1: preporuka zasnovana na dokazima",
-    "objective": "සාක්ෂි විශ්ලේෂණය, විකල්ප සැසඳීම සහ ක්‍රියාත්මක කළ හැකි නිර්දේශයක් ඉදිරිපත් කරන්න.",
+    "objective": "Analizirajte dokaze, uporedite alternative i iznesite preporuku koja se može sprovesti.",
     "vocabulary": [
       {
         "word": "izvršni sažetak",
