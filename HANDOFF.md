@@ -1500,3 +1500,9 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 - Learned-word lists are trimmed, deduplicated and capped at 2,000 entries; daily mission indexes are restricted to the three configured missions; XP is normalized to a bounded non-negative integer.
 - This is defensive source-level validation, not proof of AsyncStorage migration behavior on a device. No QA script, CI workflow, Expo export, APK build or Android runtime test was run.
 - Next source batch: inspect remaining interactive controls for missing disabled/accessibility states, then complete a source-only consistency review before requesting final build authorization.
+
+
+## Shared action-button accessibility — 2026-11-23
+- Added button semantics and a text-derived screen-reader label to the shared `Action` component, covering its repeated call-to-action buttons across the app.
+- Added a static regression guard. This improves source-level accessibility but does not replace TalkBack testing or a full audit of every icon-only touch target.
+- No automated QA, CI, Expo export, APK build or Android device test was run.
