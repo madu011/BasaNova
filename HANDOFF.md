@@ -1444,3 +1444,12 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 - Vocabulary library source review confirms case-insensitive deduplication, search over word/meaning/pronunciation, Serbian alphabet filtering (including DŽ/LJ/NJ), favourites filtering, and 60-item pagination. Favourite and translator history persistence remain covered by the existing AsyncStorage payload; no new runtime claims are made.
 - Commits: `20740f2f40a1e1bef0c651f4f1b05c67061e7c2d` and `74f5a5df94ff69ec79c8b5169c750cd7c3fd4111`.
 - No Expo export, APK build, installation, CI run, or Android device test was performed. Continue deferring builds until source work and static QA review are complete.
+
+
+## 2026-11-23 follow-up — persistence, translator and voice safeguards
+- Hardened local restore in `App.js`: translator history now accepts only object entries with string source/result fields and remains capped at 100; saved favourites are trimmed, empty values are discarded, and duplicates are removed. This prevents malformed stored history records from reaching the UI and keeps the favourites list clean.
+- Re-reviewed the Sinhala-to-Serbian translator: it checks HTTP success and the translation service response status, blocks duplicate source entries in the recent list, caps visible recent history at 12, and retains its warning that text is sent to an external service. It still requires an internet connection and external-service availability; translation quality is not guaranteed.
+- Re-reviewed the voice path: request IDs invalidate stale asynchronous audio responses, the Google voice endpoint remains optional, and device TTS falls back to Serbian `sr-RS` or English `en-US`. Actual device voice availability and playback remain untested.
+- Added static QA guards for malformed persisted history/favourites, translator response handling/privacy notice/history bounds, TTS stale-request protection and locale fallback, plus safe-area and keyboard-tap layout safeguards.
+- Commits: `cac0a34f063214d77fc7f9e1a94a1231a56f0b71` and `aa68eb2ba11d09c663ff1cc78f95f939d92aec65`.
+- These are source-level checks only. The automated content QA script has not been executed, and no build, install, CI run, or Android device test has been performed.
