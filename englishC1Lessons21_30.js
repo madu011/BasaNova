@@ -38,29 +38,29 @@ export const ENGLISH_C1_LESSONS_21_30 = [
         "word": "rhetoric",
         "reading": "ර්හ්එට්ඔර්ඉක්",
         "meaning": "වාග් ශෛලිය",
-        "example": "A clear claim must be supported by evidence.",
-        "translation": "පැහැදිලි ප්‍රකාශයක් සාක්ෂි මඟින් තහවුරු කළ යුතුය."
+        "example": "The report defines “rhetoric” before analyzing the results.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “වාග් ශෛලිය” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "audience",
         "reading": "ඇඅඩ්ඉඑන්ක්එ",
         "meaning": "ප්‍රේක්ෂක පිරිස",
-        "example": "The speaker emphasised the key distinction.",
-        "translation": "කථිකයා ප්‍රධාන වෙනස අවධාරණය කළේය."
+        "example": "The authors use “audience” when explaining their central argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “ප්‍රේක්ෂක පිරිස” යන පදය භාවිත කරති."
       },
       {
         "word": "contrast",
         "reading": "ක්ඔන්ට්ර්ඇස්ට්",
         "meaning": "විරුද්ධතාව",
-        "example": "Contrast makes the argument more persuasive.",
-        "translation": "විරුද්ධතාව තර්කය වඩාත් ඒත්තු ගන්වන සුළු කරයි."
+        "example": "Understanding “contrast” helps readers assess this example.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “විරුද්ධතාව” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "conclusion",
         "reading": "ක්ඔන්ක්ල්අෂන්",
         "meaning": "නිගමනය",
-        "example": "The conclusion should answer the initial question.",
-        "translation": "නිගමනය ආරම්භක ප්‍රශ්නයට පිළිතුරු දිය යුතුය."
+        "example": "The conclusion explains how “conclusion” applies in this context.",
+        "translation": "නිගමනයේදී “නිගමනය” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -197,29 +197,29 @@ export const ENGLISH_C1_LESSONS_21_30 = [
         "word": "consistency",
         "reading": "ක්ඔන්ස්ඉස්ට්එන්ක්යි",
         "meaning": "අනුකූලතාව",
-        "example": "The proposal is costly; nevertheless, it is worthwhile in the long term.",
-        "translation": "යෝජනාව මිල අධිකය; එසේ වුවත් දිගුකාලීනව වටිනාකමක් ඇත."
+        "example": "The report defines “consistency” before analyzing the results.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “අනුකූලතාව” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "cohesion",
         "reading": "ක්ඔහ්එෂන්",
         "meaning": "සම්බන්ධීකරණය",
-        "example": "The data are limited; therefore, the conclusion is provisional.",
-        "translation": "දත්ත සීමිතය; එබැවින් නිගමනය තාවකාලිකය."
+        "example": "The authors use “cohesion” when explaining their central argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “සම්බන්ධීකරණය” යන පදය භාවිත කරති."
       },
       {
         "word": "transition",
         "reading": "ට්ර්ඇන්ස්ඉෂන්",
         "meaning": "සංක්‍රාන්තිය",
-        "example": "Moreover, the results confirm the earlier assumption.",
-        "translation": "තවද, ප්‍රතිඵල පෙර උපකල්පනය තහවුරු කරයි."
+        "example": "Understanding “transition” helps readers assess this example.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “සංක්‍රාන්තිය” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "nuance",
         "reading": "න්අඇන්ක්එ",
         "meaning": "අර්ථ සූක්ෂ්මතාව",
-        "example": "Conversely, the second study points to the opposite trend.",
-        "translation": "ඊට ප්‍රතිවිරුද්ධව, දෙවන අධ්‍යයනය වෙනස් ප්‍රවණතාවක් පෙන්වයි."
+        "example": "The conclusion explains how “nuance” applies in this context.",
+        "translation": "නිගමනයේදී “අර්ථ සූක්ෂ්මතාව” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -356,29 +356,29 @@ export const ENGLISH_C1_LESSONS_21_30 = [
         "word": "termination",
         "reading": "ට්එර්ම්ඉන්ඇෂන්",
         "meaning": "අවසන් කිරීම",
-        "example": "The agreement takes effect after it is signed.",
-        "translation": "අත්සන් කිරීමෙන් පසු ගිවිසුම බලාත්මක වේ."
+        "example": "The report defines “termination” before analyzing the results.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “අවසන් කිරීම” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "deadline",
         "reading": "ඩ්ඊඩ්ල්ඉන්එ",
         "meaning": "කාලසීමාව",
-        "example": "The exception applies only under the stated conditions.",
-        "translation": "සඳහන් කොන්දේසි යටතේ පමණක් ව්‍යතිරේකය අදාළ වේ."
+        "example": "The authors use “deadline” when explaining their central argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “කාලසීමාව” යන පදය භාවිත කරති."
       },
       {
         "word": "compliance",
         "reading": "ක්ඔම්ප්ල්ඉඇන්ක්එ",
         "meaning": "අනුකූලතාව",
-        "example": "The parties are required to observe the deadline.",
-        "translation": "පාර්ශ්වයන් කාලසීමාව පිළිපැදීමට බැඳී සිටී."
+        "example": "Understanding “compliance” helps readers assess this example.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “අනුකූලතාව” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "liability",
         "reading": "ල්ඉඇබ්ඉල්ඉට්යි",
         "meaning": "වගකීම",
-        "example": "Liability is defined in a separate clause.",
-        "translation": "වගකීම වෙනම වගන්තියකින් නිර්වචනය කර ඇත."
+        "example": "The conclusion explains how “liability” applies in this context.",
+        "translation": "නිගමනයේදී “වගකීම” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -515,29 +515,29 @@ export const ENGLISH_C1_LESSONS_21_30 = [
         "word": "recovery",
         "reading": "ර්එක්ඔව්එර්යි",
         "meaning": "ප්‍රකෘති තත්ත්වයට පත්වීම",
-        "example": "We will publish verified information as soon as it is available.",
-        "translation": "තහවුරු කළ තොරතුරු ලැබුණු වහාම අපි ප්‍රකාශ කරන්නෙමු."
+        "example": "The report defines “recovery” before analyzing the results.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “ප්‍රකෘති තත්ත්වයට පත්වීම” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "transparency",
         "reading": "ට්ර්ඇන්ස්ප්ඇර්එන්ක්යි",
         "meaning": "විනිවිදභාවය",
-        "example": "At present, we cannot confirm the cause of the incident.",
-        "translation": "දැනට සිදුවීමට හේතුව තහවුරු කළ නොහැක."
+        "example": "The authors use “transparency” when explaining their central argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “විනිවිදභාවය” යන පදය භාවිත කරති."
       },
       {
         "word": "update",
         "reading": "අප්ඩ්ඇට්එ",
         "meaning": "යාවත්කාලීන කිරීම",
-        "example": "The next update will be issued at noon.",
-        "translation": "ඊළඟ යාවත්කාලීනය දහවල් නිකුත් කෙරේ."
+        "example": "Understanding “update” helps readers assess this example.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “යාවත්කාලීන කිරීම” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "responsibility",
         "reading": "ර්එස්ප්ඔන්ස්ඉබ්ඉල්ඉට්යි",
         "meaning": "බලය සහ වගකීම",
-        "example": "Transparency matters even when the facts are incomplete.",
-        "translation": "කරුණු අසම්පූර්ණ වූ විට පවා විනිවිදභාවය වැදගත්ය."
+        "example": "The conclusion explains how “responsibility” applies in this context.",
+        "translation": "නිගමනයේදී “බලය සහ වගකීම” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -674,29 +674,29 @@ export const ENGLISH_C1_LESSONS_21_30 = [
         "word": "prototype",
         "reading": "ප්ර්ඔට්ඔට්යිප්එ",
         "meaning": "මූලාකෘතිය",
-        "example": "The pilot project showed that the solution is feasible.",
-        "translation": "පරීක්ෂණ ව්‍යාපෘතියෙන් විසඳුම ක්‍රියාත්මක කළ හැකි බව පෙන්වීය."
+        "example": "The report defines “prototype” before analyzing the results.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “මූලාකෘතිය” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "scaling",
         "reading": "ස්ක්ඇල්ඉං",
         "meaning": "පුළුල් කිරීම",
-        "example": "Adopting the new system requires training.",
-        "translation": "නව පද්ධතිය භාවිතයට ගැනීමට පුහුණුව අවශ්‍යය."
+        "example": "The authors use “scaling” when explaining their central argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “පුළුල් කිරීම” යන පදය භාවිත කරති."
       },
       {
         "word": "feasibility",
         "reading": "ෆ්ඊස්ඉබ්ඉල්ඉට්යි",
         "meaning": "කළ හැකි බව",
-        "example": "Resistance to change often stems from uncertainty.",
-        "translation": "වෙනස්කම්වලට ඇති විරෝධය බොහෝවිට අනිශ්චිතතාවයෙන් ඇතිවේ."
+        "example": "Understanding “feasibility” helps readers assess this example.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “කළ හැකි බව” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "feedback",
         "reading": "ෆ්ඊඩ්බ්ඇක්ක්",
         "meaning": "ප්‍රතිචාර",
-        "example": "Feedback helps improve the prototype.",
-        "translation": "ප්‍රතිචාර මූලාකෘතිය වැඩිදියුණු කිරීමට උපකාරී වේ."
+        "example": "The conclusion explains how “feedback” applies in this context.",
+        "translation": "නිගමනයේදී “ප්‍රතිචාර” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -833,29 +833,29 @@ export const ENGLISH_C1_LESSONS_21_30 = [
         "word": "community",
         "reading": "ක්ඔම්ම්අන්ඉට්යි",
         "meaning": "ප්‍රජාව",
-        "example": "Sustainability requires responsible use of resources.",
-        "translation": "තිරසාරභාවයට සම්පත් වගකීමෙන් භාවිත කිරීම අවශ්‍යය."
+        "example": "The report defines “community” before analyzing the results.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “ප්‍රජාව” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "equity",
         "reading": "එක්වඉට්යි",
         "meaning": "සාධාරණත්වය",
-        "example": "Impact should be measured over a longer period.",
-        "translation": "බලපෑම දිගු කාලයක් පුරා මැනිය යුතුය."
+        "example": "The authors use “equity” when explaining their central argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “සාධාරණත්වය” යන පදය භාවිත කරති."
       },
       {
         "word": "indicator",
         "reading": "ඉන්ඩ්ඉක්ඇට්ඔර්",
         "meaning": "දර්ශකය",
-        "example": "The programme benefited the local community.",
-        "translation": "වැඩසටහන ප්‍රාදේශීය ප්‍රජාවට ප්‍රතිලාභ ලබා දුන්නේය."
+        "example": "Understanding “indicator” helps readers assess this example.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “දර්ශකය” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "long-term",
         "reading": "ල්ඔං-ට්එර්ම්",
         "meaning": "දිගුකාලීන",
-        "example": "Emission indicators point to gradual improvement.",
-        "translation": "විමෝචන දර්ශක ක්‍රමික දියුණුවක් පෙන්වයි."
+        "example": "The conclusion explains how “long-term” applies in this context.",
+        "translation": "නිගමනයේදී “දිගුකාලීන” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -992,29 +992,29 @@ export const ENGLISH_C1_LESSONS_21_30 = [
         "word": "ambiguity",
         "reading": "ඇම්බ්ඉග්අඉට්යි",
         "meaning": "ද්විත්ව අර්ථය",
-        "example": "The unreliable narrator shifts the reader's perspective.",
-        "translation": "විශ්වාස කළ නොහැකි කථකයා පාඨකයාගේ දෘෂ්ටිකෝණය වෙනස් කරයි."
+        "example": "The report defines “ambiguity” before analyzing the results.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “ද්විත්ව අර්ථය” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "motif",
         "reading": "ම්ඔට්ඉෆ්",
         "meaning": "පුනරාවර්තන තේමාව",
-        "example": "The symbolism develops through a recurring motif.",
-        "translation": "නැවත නැවත මතුවන තේමාවක් හරහා සංකේතවාදය වර්ධනය වේ."
+        "example": "The authors use “motif” when explaining their central argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “පුනරාවර්තන තේමාව” යන පදය භාවිත කරති."
       },
       {
         "word": "interpretation",
         "reading": "ඉන්ට්එර්ප්ර්එට්ඇෂන්",
         "meaning": "අර්ථකථනය",
-        "example": "This detail can be read as foreshadowing the conflict.",
-        "translation": "මෙම විස්තරය ගැටුම පිළිබඳ පූර්ව ඉඟියක් ලෙස කියවිය හැක."
+        "example": "Understanding “interpretation” helps readers assess this example.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “අර්ථකථනය” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "allusion",
         "reading": "ඇල්ල්අෂන්",
         "meaning": "සෘජු නොවන සඳහන",
-        "example": "An interpretation should be supported by textual evidence.",
-        "translation": "අර්ථකථනය පාඨමය සාක්ෂිවලින් තහවුරු කළ යුතුය."
+        "example": "The conclusion explains how “allusion” applies in this context.",
+        "translation": "නිගමනයේදී “සෘජු නොවන සඳහන” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -1151,29 +1151,29 @@ export const ENGLISH_C1_LESSONS_21_30 = [
         "word": "omission",
         "reading": "ඔම්ඉස්ෂන්",
         "meaning": "අත්හැරීම",
-        "example": "The headline emphasises conflict rather than agreement.",
-        "translation": "සිරස්තලය එකඟතාවට වඩා ගැටුම අවධාරණය කරයි."
+        "example": "The report defines “omission” before analyzing the results.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “අත්හැරීම” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "fact-checking",
         "reading": "ෆ්ඇක්ට්-ච්එක්ක්ඉං",
         "meaning": "කරුණු පරීක්ෂාව",
-        "example": "Missing context can change the meaning of a statement.",
-        "translation": "අතුරුදහන් සන්දර්භය ප්‍රකාශයක අර්ථය වෙනස් කළ හැක."
+        "example": "The authors use “fact-checking” when explaining their central argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “කරුණු පරීක්ෂාව” යන පදය භාවිත කරති."
       },
       {
         "word": "tone",
         "reading": "ට්ඔන්එ",
         "meaning": "ස්වරය",
-        "example": "Fact-checking revealed an inaccurate figure.",
-        "translation": "කරුණු පරීක්ෂාවෙන් වැරදි දත්තයක් හෙළි විය."
+        "example": "Understanding “tone” helps readers assess this example.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “ස්වරය” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "context",
         "reading": "ක්ඔන්ට්එක්ස්ට්",
         "meaning": "සන්දර්භය",
-        "example": "Several independent sources should be compared.",
-        "translation": "ස්වාධීන මූලාශ්‍ර කිහිපයක් සසඳා බැලිය යුතුය."
+        "example": "The conclusion explains how “context” applies in this context.",
+        "translation": "නිගමනයේදී “සන්දර්භය” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -1310,29 +1310,29 @@ export const ENGLISH_C1_LESSONS_21_30 = [
         "word": "qualification",
         "reading": "ක්වඇල්ඉෆ්ඉක්ඇෂන්",
         "meaning": "සීමා දැක්වීම",
-        "example": "Had we acted earlier, the consequences would have been less severe.",
-        "translation": "අපි කලින් ක්‍රියා කළා නම්, ප්‍රතිවිපාක අඩු විය හැකිව තිබුණි."
+        "example": "The report defines “qualification” before analyzing the results.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “සීමා දැක්වීම” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "certainty",
         "reading": "ක්එර්ට්ඒන්ට්යි",
         "meaning": "නිශ්චිතභාවය",
-        "example": "If the assumption is confirmed, the plan will be revised.",
-        "translation": "උපකල්පනය තහවුරු වුවහොත් සැලැස්ම සංශෝධනය කෙරේ."
+        "example": "The authors use “certainty” when explaining their central argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “නිශ්චිතභාවය” යන පදය භාවිත කරති."
       },
       {
         "word": "consequence",
         "reading": "ක්ඔන්ස්එක්වඑන්ක්එ",
         "meaning": "ප්‍රතිවිපාකය",
-        "example": "The possibility of additional costs cannot be ruled out.",
-        "translation": "අමතර වියදම් ඇතිවීමේ හැකියාව බැහැර කළ නොහැක."
+        "example": "Understanding “consequence” helps readers assess this example.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “ප්‍රතිවිපාකය” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "counterfactual",
         "reading": "ක්අවුන්ට්එර්ෆ්ඇක්ට්අඇල්",
         "meaning": "විකල්ප අතීත තත්ත්වයක්",
-        "example": "The conclusion holds provided that the data are accurate.",
-        "translation": "දත්ත නිවැරදි නම් පමණක් නිගමනය වලංගු වේ."
+        "example": "The conclusion explains how “counterfactual” applies in this context.",
+        "translation": "නිගමනයේදී “විකල්ප අතීත තත්ත්වයක්” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Grammar and style",
@@ -1469,29 +1469,29 @@ export const ENGLISH_C1_LESSONS_21_30 = [
         "word": "rephrase",
         "reading": "ර්එෆ්ර්ඇස්එ",
         "meaning": "නැවත සකස් කිරීම",
-        "example": "This paragraph should be rephrased for clarity.",
-        "translation": "පැහැදිලිභාවය සඳහා මෙම ඡේදය නැවත සකස් කළ යුතුය."
+        "example": "The report defines “rephrase” before analyzing the results.",
+        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “නැවත සකස් කිරීම” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
         "word": "reference",
         "reading": "ර්එෆ්එර්එන්ක්එ",
         "meaning": "යොමුව",
-        "example": "Inconsistent terminology confuses the reader.",
-        "translation": "අනුකූල නොවන පාරිභාෂික වචන පාඨකයා ව්‍යාකූල කරයි."
+        "example": "The authors use “reference” when explaining their central argument.",
+        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “යොමුව” යන පදය භාවිත කරති."
       },
       {
         "word": "conciseness",
         "reading": "ක්ඔන්ක්ඉස්එන්එස්ස්",
         "meaning": "සංක්ෂිප්තභාවය",
-        "example": "Remove redundant repetition, but preserve the nuance.",
-        "translation": "අනවශ්‍ය පුනරාවර්තන ඉවත් කළත් අර්ථ සූක්ෂ්මතාව රැකගන්න."
+        "example": "Understanding “conciseness” helps readers assess this example.",
+        "translation": "මෙම උදාහරණය ඇගයීමට “සංක්ෂිප්තභාවය” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
       },
       {
         "word": "proofreading",
         "reading": "ප්ර්උෆ්ර්ඊඩ්ඉං",
         "meaning": "භාෂා නිවැරදි කිරීම",
-        "example": "Proofreading covers grammar and punctuation.",
-        "translation": "භාෂා නිවැරදි කිරීමේදී ව්‍යාකරණය සහ විරාම ලකුණු පරීක්ෂා කෙරේ."
+        "example": "The conclusion explains how “proofreading” applies in this context.",
+        "translation": "නිගමනයේදී “භාෂා නිවැරදි කිරීම” යෙදෙන ආකාරය පැහැදිලිව සඳහන් කරයි."
       }
     ],
     "grammarTitle": "Grammar and style",
