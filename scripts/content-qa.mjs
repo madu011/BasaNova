@@ -228,6 +228,26 @@ assert.match(appSource, /SafeAreaView edges=\{\["top","right","bottom","left"\]\
 assert.match(appSource, /keyboardShouldPersistTaps="handled"/u,
   "Scrollable learning screens must preserve taps while the keyboard is open");
 
+// Persisted progress must be treated as untrusted local input: keep only
+// bounded primitive answer/check values, safe keys, known mission indexes,
+// and bounded/deduplicated learned-word strings.
+assert.match(appSource, /const cleanProgressMap=\(value,valid\)=>\{/u,
+  "Restored answer/check maps must pass through a shared sanitizer");
+assert.match(appSource, /key\.length<=180&&key!=="__proto__"&&key!=="constructor"&&key!=="prototype"&&valid\(item\)/u,
+  "Restored progress maps must reject unsafe keys and invalid values");
+assert.match(appSource, /\)\.slice\(0,6000\);/u,
+  "Restored progress maps must have a bounded entry count");
+assert.match(appSource, /setLessonAnswers\(cleanProgressMap\(saved\.lessonAnswers,item=>Number\.isInteger\(item\)&&item>=0&&item<=30\)\)/u,
+  "Restored answers must be valid bounded option indexes");
+assert.match(appSource, /setLessonChecked\(cleanProgressMap\(saved\.lessonChecked,item=>typeof item==="boolean"\)\)/u,
+  "Restored answer-confirmation values must be booleans");
+assert.match(appSource, /const cleanLearnedWords=value=>Array\.isArray\(value\)[\s\S]*?\.slice\(0,2000\)/u,
+  "Restored learned-word lists must be trimmed, deduplicated and bounded");
+assert.match(appSource, /const cleanMissionIndexes=value=>Array\.isArray\(value\)[\s\S]*item<MISSIONS\.length/u,
+  "Restored daily mission indexes must be restricted to the available missions");
+assert.match(appSource, /Math\.min\(Math\.floor\(saved\.xp\),10000000\)/u,
+  "Restored XP must be a finite non-negative bounded integer");
+
 // Navigation accessibility and compact-screen usability.
 assert.match(appSource, /accessibilityRole="button" accessibilityLabel=\{label\} accessibilityState=\{\{selected:tab===id\}\} onPress=\{\(\)=>setTab\(id\)\}/u,
   "Bottom navigation must expose a screen-reader label and selected state for every tab");
