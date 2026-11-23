@@ -1436,3 +1436,11 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 - Added retry actions for incorrect Serbian A1 lesson practice and listening, English A1 lesson practice and listening, both A1 mixed-listening revision tracks, and A2 lesson practice and listening. Retry clears only the current question's answer/check state; correct answers remain completed. B1 and B2–C2 already had retry controls in their lesson exercises.
 - Commit: `4475c70c31839ebb111b775b87e7039e399069ff`. Added a source-level regression guard requiring retry controls to remain present across the Learn screen in `scripts/content-qa.mjs`, commit `c764c5e39f255717b1a3be17c3a32a4c511c279c`.
 - Source inspection confirms 27 retry labels are present. This is not runtime interaction verification. Automated content QA, Expo export, APK build, installation and Android device testing remain pending.
+
+
+## 2026-11-23 follow-up — final assessment interaction audit
+- Reviewed the A1 final exam flow and the A2–C2 scored final-exam flows in `App.js`. A1 calculates its result from confirmed answers and exposes a full-attempt restart that clears both selected answers and confirmation state. A2–C2 lock answer choices after submission, require all 20 answers before submission, show a 70% (14/20) practice target, and provide a retake that clears the active language's 20 answer keys and reopens the exam.
+- Added regression assertions in `scripts/content-qa.mjs` for A1 scoring/restart, A2–C2 answer locking/completeness/retake, and persistence/restoration of submitted exam state. The checks are source-level safeguards; the content QA command has not been executed in this work session.
+- Vocabulary library source review confirms case-insensitive deduplication, search over word/meaning/pronunciation, Serbian alphabet filtering (including DŽ/LJ/NJ), favourites filtering, and 60-item pagination. Favourite and translator history persistence remain covered by the existing AsyncStorage payload; no new runtime claims are made.
+- Commits: `20740f2f40a1e1bef0c651f4f1b05c67061e7c2d` and `74f5a5df94ff69ec79c8b5169c750cd7c3fd4111`.
+- No Expo export, APK build, installation, CI run, or Android device test was performed. Continue deferring builds until source work and static QA review are complete.
