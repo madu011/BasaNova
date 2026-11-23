@@ -4,7 +4,7 @@ export const SERBIAN_C2_LESSONS = [
     "id": "sr-c2-l1",
     "unit": "C2 · Pragmatičko značenje i posredna poruka",
     "title": "C2 · 1 · Pragmatičko značenje i posredna poruka",
-    "objective": "සෘජුව නොකියන අර්ථ, සන්දර්භය සහ කථකයාගේ අරමුණ අතර සම්බන්ධය විශ්ලේෂණය කරන්න.",
+    "objective": "Analizirajte odnos između implicitnog značenja, konteksta i namere govornika.",
     "vocabulary": [
       {
         "word": "implikatura",
@@ -167,7 +167,7 @@ export const SERBIAN_C2_LESSONS = [
     "id": "sr-c2-l2",
     "unit": "C2 · Ironija, sarkazam i sofisticirani humor",
     "title": "C2 · 2 · Ironija, sarkazam i sofisticirani humor",
-    "objective": "උපහාසය, කථන ස්වරය සහ සමාජ සම්බන්ධතාව හඳුනාගෙන සුදුසු ප්‍රතිචාරයක් තෝරන්න.",
+    "objective": "Prepoznajte ironiju, ton govora i društveni odnos, pa odaberite odgovarajući odgovor.",
     "vocabulary": [
       {
         "word": "ironija",
@@ -330,7 +330,7 @@ export const SERBIAN_C2_LESSONS = [
     "id": "sr-c2-l3",
     "unit": "C2 · Dijalekatske razlike i sociolingvistički identitet",
     "title": "C2 · 3 · Dijalekatske razlike i sociolingvistički identitet",
-    "objective": "උපභාෂා, සමාජ භාෂා රටා සහ සම්මත භාෂාව අතර වෙනස්කම් විග්‍රහ කරන්න.",
+    "objective": "Analizirajte razlike između dijalekata, društvenih jezičkih obrazaca i standardnog jezika.",
     "vocabulary": [
       {
         "word": "idiolekt",
@@ -493,7 +493,7 @@ export const SERBIAN_C2_LESSONS = [
     "id": "sr-c2-l4",
     "unit": "C2 · Retoričko uokviravanje i struktura ubeđivanja",
     "title": "C2 · 4 · Retoričko uokviravanje i struktura ubeđivanja",
-    "objective": "වාග්මාලා උපක්‍රම සහ ප්‍රතිතර්ක මඟින් සංකීර්ණ අදහසක් ඒත්තු ගන්වන ලෙස ඉදිරිපත් කරන්න.",
+    "objective": "Iznesite složenu ideju ubedljivo koristeći retoričko uokviravanje i protivargumente.",
     "vocabulary": [
       {
         "word": "uokviravanje",
@@ -656,7 +656,7 @@ export const SERBIAN_C2_LESSONS = [
     "id": "sr-c2-l5",
     "unit": "C2 · Leksičke nijanse i razlikovanje bliskih sinonima",
     "title": "C2 · 5 · Leksičke nijanse i razlikovanje bliskih sinonima",
-    "objective": "සමාන පද අතර සූක්ෂ්ම අර්ථ හා භාවිත වෙනස්කම් නිවැරදිව තෝරන්න.",
+    "objective": "Precizno razlikujte nijanse značenja i upotrebe bliskih sinonima.",
     "vocabulary": [
       {
         "word": "konotacija",
@@ -819,7 +819,7 @@ export const SERBIAN_C2_LESSONS = [
     "id": "sr-c2-l6",
     "unit": "C2 · Složene književne aluzije i intertekstualnost",
     "title": "C2 · 6 · Složene književne aluzije i intertekstualnost",
-    "objective": "සාහිත්‍ය කෘති අතර සඳහන් සහ අන්තර්පාඨ සම්බන්ධතා හඳුනාගන්න.",
+    "objective": "Prepoznajte aluzije i intertekstualne veze između književnih dela.",
     "vocabulary": [
       {
         "word": "aluzija",
@@ -982,7 +982,7 @@ export const SERBIAN_C2_LESSONS = [
     "id": "sr-c2-l7",
     "unit": "C2 · Forenzičko uređivanje i rekonstrukcija teksta",
     "title": "C2 · 7 · Forenzičko uređivanje i rekonstrukcija teksta",
-    "objective": "අත්පිටපත් හා විකල්ප පාඨ විමසා සංස්කරණ තීරණ සාධාරණීකරණය කරන්න.",
+    "objective": "Ispitajte rukopise i alternativne verzije teksta i obrazložite uredničke odluke.",
     "vocabulary": [
       {
         "word": "ispravka teksta",
@@ -1145,7 +1145,7 @@ export const SERBIAN_C2_LESSONS = [
     "id": "sr-c2-l8",
     "unit": "C2 · Medijacija u važnim sporovima i jezik koji čuva dostojanstvo",
     "title": "C2 · 8 · Medijacija u važnim sporovima i jezik koji čuva dostojanstvo",
-    "objective": "ගැටුම්කාරී සාකච්ඡාවකදී අපක්ෂපාතීව හා ගෞරවය රැකෙන ලෙස මැදිහත් වන්න.",
+    "objective": "Posredujte u konfliktnim razgovorima nepristrasno i uz očuvanje dostojanstva svih učesnika.",
     "vocabulary": [
       {
         "word": "očuvanje dostojanstva",
@@ -1308,7 +1308,7 @@ export const SERBIAN_C2_LESSONS = [
     "id": "sr-c2-l9",
     "unit": "C2 · Suptilan prevod i kulturna ekvivalentnost",
     "title": "C2 · 9 · Suptilan prevod i kulturna ekvivalentnost",
-    "objective": "සංස්කෘතික සන්දර්භය රැකගෙන අර්ථය ස්වභාවිකව පරිවර්තනය කරන්න.",
+    "objective": "Prevedite značenje prirodno uz očuvanje kulturnog konteksta.",
     "vocabulary": [
       {
         "word": "ekvivalentnost",
@@ -1471,7 +1471,7 @@ export const SERBIAN_C2_LESSONS = [
     "id": "sr-c2-l10",
     "unit": "C2 · Integrisana diskusija C2 i sinteza na ekspertskom nivou",
     "title": "C2 · 10 · Integrisana diskusija C2 i sinteza na ekspertskom nivou",
-    "objective": "විවිධ අදහස් එකට සම්බන්ධ කර නිරවද්‍ය, සංගත නිගමනයක් ඉදිරිපත් කරන්න.",
+    "objective": "Povežite različita gledišta i iznesite precizan, koherentan zaključak.",
     "vocabulary": [
       {
         "word": "sinteza",
