@@ -4,7 +4,6 @@ export const ENGLISH_C2_LESSONS = [
     "id": "en-c2-l1",
     "unit": "C2 · Pragmatic implicature and indirect meaning",
     "title": "C2 · 1 · Pragmatic implicature and indirect meaning",
-    "objective": "සෘජුව නොකියන අර්ථ, සන්දර්භය සහ කථකයාගේ අරමුණ අතර සම්බන්ධය විශ්ලේෂණය කරන්න.",
     "vocabulary": [
       {
         "word": "implicature",
@@ -167,7 +166,6 @@ export const ENGLISH_C2_LESSONS = [
     "id": "en-c2-l2",
     "unit": "C2 · Irony, sarcasm and sophisticated humour",
     "title": "C2 · 2 · Irony, sarcasm and sophisticated humour",
-    "objective": "උපහාසය, කථන ස්වරය සහ සමාජ සම්බන්ධතාව හඳුනාගෙන සුදුසු ප්‍රතිචාරයක් තෝරන්න.",
     "vocabulary": [
       {
         "word": "irony",
@@ -330,7 +328,6 @@ export const ENGLISH_C2_LESSONS = [
     "id": "en-c2-l3",
     "unit": "C2 · Dialect variation and sociolinguistic identity",
     "title": "C2 · 3 · Dialect variation and sociolinguistic identity",
-    "objective": "උපභාෂා, සමාජ භාෂා රටා සහ සම්මත භාෂාව අතර වෙනස්කම් විග්‍රහ කරන්න.",
     "vocabulary": [
       {
         "word": "idiolect",
@@ -493,7 +490,6 @@ export const ENGLISH_C2_LESSONS = [
     "id": "en-c2-l4",
     "unit": "C2 · Rhetorical framing and persuasive architecture",
     "title": "C2 · 4 · Rhetorical framing and persuasive architecture",
-    "objective": "වාග්මාලා උපක්‍රම සහ ප්‍රතිතර්ක මඟින් සංකීර්ණ අදහසක් ඒත්තු ගන්වන ලෙස ඉදිරිපත් කරන්න.",
     "vocabulary": [
       {
         "word": "framing",
@@ -656,7 +652,6 @@ export const ENGLISH_C2_LESSONS = [
     "id": "en-c2-l5",
     "unit": "C2 · Lexical nuance and near-synonym discrimination",
     "title": "C2 · 5 · Lexical nuance and near-synonym discrimination",
-    "objective": "සමාන පද අතර සූක්ෂ්ම අර්ථ හා භාවිත වෙනස්කම් නිවැරදිව තෝරන්න.",
     "vocabulary": [
       {
         "word": "connotation",
@@ -819,7 +814,6 @@ export const ENGLISH_C2_LESSONS = [
     "id": "en-c2-l6",
     "unit": "C2 · Complex literary allusion and intertextuality",
     "title": "C2 · 6 · Complex literary allusion and intertextuality",
-    "objective": "සාහිත්‍ය කෘති අතර සඳහන් සහ අන්තර්පාඨ සම්බන්ධතා හඳුනාගන්න.",
     "vocabulary": [
       {
         "word": "allusion",
@@ -982,7 +976,6 @@ export const ENGLISH_C2_LESSONS = [
     "id": "en-c2-l7",
     "unit": "C2 · Forensic editing and textual reconstruction",
     "title": "C2 · 7 · Forensic editing and textual reconstruction",
-    "objective": "අත්පිටපත් හා විකල්ප පාඨ විමසා සංස්කරණ තීරණ සාධාරණීකරණය කරන්න.",
     "vocabulary": [
       {
         "word": "emendation",
@@ -1145,7 +1138,6 @@ export const ENGLISH_C2_LESSONS = [
     "id": "en-c2-l8",
     "unit": "C2 · High-stakes mediation and face-saving language",
     "title": "C2 · 8 · High-stakes mediation and face-saving language",
-    "objective": "ගැටුම්කාරී සාකච්ඡාවකදී අපක්ෂපාතීව හා ගෞරවය රැකෙන ලෙස මැදිහත් වන්න.",
     "vocabulary": [
       {
         "word": "face-saving",
@@ -1308,7 +1300,6 @@ export const ENGLISH_C2_LESSONS = [
     "id": "en-c2-l9",
     "unit": "C2 · Nuanced translation and cultural equivalence",
     "title": "C2 · 9 · Nuanced translation and cultural equivalence",
-    "objective": "සංස්කෘතික සන්දර්භය රැකගෙන අර්ථය ස්වභාවිකව පරිවර්තනය කරන්න.",
     "vocabulary": [
       {
         "word": "equivalence",
@@ -1471,7 +1462,6 @@ export const ENGLISH_C2_LESSONS = [
     "id": "en-c2-l10",
     "unit": "C2 · C2 integrated discourse and expert-level synthesis",
     "title": "C2 · 10 · C2 integrated discourse and expert-level synthesis",
-    "objective": "විවිධ අදහස් එකට සම්බන්ධ කර නිරවද්‍ය, සංගත නිගමනයක් ඉදිරිපත් කරන්න.",
     "vocabulary": [
       {
         "word": "synthesis",
