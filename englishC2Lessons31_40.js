@@ -1474,23 +1474,23 @@ export const ENGLISH_C2_LESSONS_31_40 = [
     "objective": "Understand strategies for listening, segmentation and information management in oral interpreting.",
     "vocabulary": [
       {
-        "word": "simultaneous interpreting",
+        "word": "Simultaneous interpreting requires listening and speaking at the same time.",
         "reading": "සිමල්ටේනියස් ඉන්ටර්ප්‍රිටිං",
-        "meaning": "සමකාලීන පරිවර්තනය",
+        "meaning": "සමකාලීන පරිවර්තනයේදී එකවර සවන් දීමත් කථා කිරීමත් අවශ්‍ය වේ.",
         "example": "The interpreter divides speech into meaningful units.",
         "translation": "භාෂණය අර්ථවත් කොටස්වලට බෙදයි."
       },
       {
-        "word": "segmentation",
+        "word": "Segmentation divides speech into shorter units of meaning.",
         "reading": "සෙග්මෙන්ටේෂන්",
-        "meaning": "කොටස්වලට බෙදීම",
+        "meaning": "කොටස්වලට බෙදීමෙන් කථනය කෙටි අර්ථවත් කොටස්වලට වෙන් කරයි.",
         "example": "An excessive ear-voice span increases omission risk.",
         "translation": "අධික ප්‍රමාදය තොරතුරු මඟහැරීමේ අවදානම වැඩි කරයි."
       },
       {
-        "word": "cognitive load",
+        "word": "Cognitive load rises when an interpreter processes several tasks at once.",
         "reading": "කොග්නිටිව් ලෝඩ්",
-        "meaning": "මානසික සැකසුම් බර",
+        "meaning": "පරිවර්තකයා එකවර කාර්ය කිහිපයක් සැකසීමේදී මානසික සැකසුම් බර වැඩි වේ.",
         "example": "Anticipation requires knowledge of the topic and context.",
         "translation": "පෙර අනුමානයට මාතෘකාව හා සන්දර්භය දැනගැනීම අවශ්‍යය."
       },
@@ -1498,8 +1498,8 @@ export const ENGLISH_C2_LESSONS_31_40 = [
         "word": "ear-voice span",
         "reading": "ඊයර්-වොයිස් ස්පෑන්",
         "meaning": "ඇසීම හා කථනය අතර ප්‍රමාදය",
-        "example": "Self-correction should be brief and functional.",
-        "translation": "ස්වයං නිවැරදි කිරීම කෙටි හා කාර්යමය විය යුතුය."
+        "example": "The ear-voice span affects the accuracy of an interpretation.",
+        "translation": "ඇසීම හා කථනය අතර ප්‍රමාදය පරිවර්තනයේ නිවැරදිභාවයට බලපායි."
       },
       {
         "word": "anticipation",
