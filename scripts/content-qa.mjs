@@ -489,5 +489,23 @@ function validateC2EditorialContent(label, lessons) {
 validateC2EditorialContent("Serbian C2", courseLessons["Serbian C2"]);
 validateC2EditorialContent("English C2", courseLessons["English C2"]);
 
+function validateAdvancedVocabularyUniqueness(label, lessons) {
+  assert.equal(lessons.length, 50, `${label}: expected exactly 50 lessons`);
+  for (const lesson of lessons) {
+    const examples = lesson.vocabulary.map(item => item.example.trim().toLowerCase());
+    const translations = lesson.vocabulary.map(item => item.translation.trim().toLowerCase());
+    assert.equal(new Set(examples).size, examples.length,
+      `${label} ${lesson.id}: repeated vocabulary examples detected`);
+    assert.equal(new Set(translations).size, translations.length,
+      `${label} ${lesson.id}: repeated vocabulary translations detected`);
+  }
+}
+for (const [label, lessons] of [
+  ["Serbian C1", courseLessons["Serbian C1"]],
+  ["English C1", courseLessons["English C1"]],
+  ["Serbian C2", courseLessons["Serbian C2"]],
+  ["English C2", courseLessons["English C2"]],
+]) validateAdvancedVocabularyUniqueness(label, lessons);
+
 console.log("Content QA passed.");
 console.log({ checkedAppImports: checkedAppImports.size, serbianLessonStats, englishLessonStats, courseStats, serbianC1Stats, englishC1Stats });
