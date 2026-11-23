@@ -4,7 +4,7 @@ export const ENGLISH_C1_LESSONS_31_40 = [
     "id": "en-c1-l31",
     "unit": "C1 · Diplomacy and tactful communication",
     "title": "C1 · 31 · Diplomacy and tactful communication",
-    "objective": "සංවේදී අවස්ථාවලදී මෘදු යෝජනා භාවිත කරමින් විරුද්ධතාව ගෞරවයෙන් ප්‍රකාශ කරන්න.",
+    "objective": "Express disagreement respectfully by using softened suggestions in sensitive situations.",
     "vocabulary": [
       {
         "word": "tactful",
@@ -163,7 +163,7 @@ export const ENGLISH_C1_LESSONS_31_40 = [
     "id": "en-c1-l32",
     "unit": "C1 · Public policy evaluation",
     "title": "C1 · 32 · Public policy evaluation",
-    "objective": "ප්‍රතිපත්ති ඇගයීමේදී අරමුණු, ආරම්භක මට්ටම්, මිනුම් දර්ශක සහ අනපේක්ෂිත ප්‍රතිවිපාක සලකා බලන්න.",
+    "objective": "Evaluate policies by considering objectives, baselines, indicators and unintended consequences.",
     "vocabulary": [
       {
         "word": "measure",
@@ -322,7 +322,7 @@ export const ENGLISH_C1_LESSONS_31_40 = [
     "id": "en-c1-l33",
     "unit": "C1 · Financial reporting and accountability",
     "title": "C1 · 33 · Financial reporting and accountability",
-    "objective": "වාර්තාකරණයේදී ආදායම, වියදම, බැඳීම් සහ මුදල් ප්‍රවාහය වෙන්කර දක්වන්න; ඇස්තමේන්තු සැබෑ අගයන් ලෙස නොපෙන්වන්න.",
+    "objective": "Distinguish revenue, expenses, liabilities and cash flow in reporting; do not present estimates as actual figures.",
     "vocabulary": [
       {
         "word": "revenue",
@@ -481,7 +481,7 @@ export const ENGLISH_C1_LESSONS_31_40 = [
     "id": "en-c1-l34",
     "unit": "C1 · Scientific uncertainty and peer review",
     "title": "C1 · 34 · Scientific uncertainty and peer review",
-    "objective": "විද්‍යාත්මක ලිවීමේදී උපකල්පනය, සොයාගැනීම සහ විද්‍යාත්මක එකඟතාව වෙන්කරන්න; සාක්ෂිවල සීමා සඳහන් කරන්න.",
+    "objective": "Distinguish hypotheses, findings and scientific consensus in academic writing, and state the limits of the evidence.",
     "vocabulary": [
       {
         "word": "hypothesis",
@@ -640,7 +640,7 @@ export const ENGLISH_C1_LESSONS_31_40 = [
     "id": "en-c1-l35",
     "unit": "C1 · Leadership and organisational culture",
     "title": "C1 · 35 · Leadership and organisational culture",
-    "objective": "නායකත්වය විස්තර කිරීමේදී බලය පමණක් නොව වගකීම, විශ්වාසය සහ ප්‍රතිචාරද සලකා බලන්න.",
+    "objective": "When discussing leadership, consider not only authority but also accountability, trust and feedback.",
     "vocabulary": [
       {
         "word": "leadership",
@@ -799,7 +799,7 @@ export const ENGLISH_C1_LESSONS_31_40 = [
     "id": "en-c1-l36",
     "unit": "C1 · Data privacy and information governance",
     "title": "C1 · 36 · Data privacy and information governance",
-    "objective": "අරමුණට අවශ්‍ය දත්ත පමණක් රැස් කිරීම, ප්‍රවේශය සීමා කිරීම සහ ගබඩා කාලය නියම කිරීම වැදගත්ය.",
+    "objective": "Collect only data necessary for a defined purpose, restrict access and set a retention period.",
     "vocabulary": [
       {
         "word": "privacy",
@@ -958,7 +958,7 @@ export const ENGLISH_C1_LESSONS_31_40 = [
     "id": "en-c1-l37",
     "unit": "C1 · Academic writing and source attribution",
     "title": "C1 · 37 · Academic writing and source attribution",
-    "objective": "අන් අයගේ අදහස් පරාෆ්‍රේස් කළත් මූලාශ්‍රය සඳහන් කරන්න; සාරාංශය මුල් අදහස විකෘති නොකළ යුතුය.",
+    "objective": "Cite the source even when paraphrasing others' ideas; a summary must not distort the original meaning.",
     "vocabulary": [
       {
         "word": "paraphrase",
@@ -1117,7 +1117,7 @@ export const ENGLISH_C1_LESSONS_31_40 = [
     "id": "en-c1-l38",
     "unit": "C1 · Idioms, metaphors and stylistic register",
     "title": "C1 · 38 · Idioms, metaphors and stylistic register",
-    "objective": "ව්‍යවහාරික ප්‍රකාශ වචනාර්ථයෙන් පරිවර්තනය නොකර සන්දර්භය අනුව අර්ථය හඳුනාගන්න.",
+    "objective": "Interpret idiomatic expressions in context rather than translating them literally.",
     "vocabulary": [
       {
         "word": "idiom",
@@ -1276,7 +1276,7 @@ export const ENGLISH_C1_LESSONS_31_40 = [
     "id": "en-c1-l39",
     "unit": "C1 · Debate, rebuttal and balanced argument",
     "title": "C1 · 39 · Debate, rebuttal and balanced argument",
-    "objective": "ප්‍රතිතර්කයක් ඉදිරිපත් කිරීමට පෙර විරුද්ධ මතය සාධාරණව සාරාංශ කර එහි සාක්ෂි සහ සීමා පරීක්ෂා කරන්න.",
+    "objective": "Before presenting a rebuttal, summarise the opposing view fairly and assess its evidence and limitations.",
     "vocabulary": [
       {
         "word": "counterargument",
@@ -1435,7 +1435,7 @@ export const ENGLISH_C1_LESSONS_31_40 = [
     "id": "en-c1-l40",
     "unit": "C1 · Integrated professional project",
     "title": "C1 · 40 · Integrated professional project",
-    "objective": "සංකීර්ණ කාර්යයකදී ගැටලුව නිර්වචනය කර සාක්ෂි, විකල්ප, තීරණ, අවදානම් සහ ක්‍රියාමාර්ග එකට ඉදිරිපත් කරන්න.",
+    "objective": "Define the problem in a complex task and integrate evidence, options, decisions, risks and implementation steps.",
     "vocabulary": [
       {
         "word": "brief",
