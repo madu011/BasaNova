@@ -1145,7 +1145,7 @@ export const ENGLISH_C2_LESSONS_11_20 = [
     "id": "en-c2-l18",
     "unit": "C2 · Ethical reasoning in emerging technologies",
     "title": "C2 · 18 · Ethical reasoning in emerging technologies",
-    "objective": "Medi​ate conflictual discussions impartially while preserving the dignity of everyone involved.",
+    "objective": "Mediate conflictual discussions impartially while preserving the dignity of everyone involved.",
     "vocabulary": [
       {
         "word": "proportionality",
