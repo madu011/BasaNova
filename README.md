@@ -476,3 +476,7 @@ Restored answer/check maps, learned-word lists, daily mission indexes and XP are
 
 ### Shared action-button accessibility — 2026-11-23
 Shared text action buttons now expose button semantics and accessible labels. TalkBack and full icon-only control testing remain pending; see `HANDOFF.md`.
+
+
+### App-wide control accessibility — 2026-11-23
+All app touch controls now share button semantics, text-derived accessibility labels, exposed disabled states and consistent disabled styling. Source regression guards were added. TalkBack and physical Android interaction tests remain outstanding; see `HANDOFF.md`.
