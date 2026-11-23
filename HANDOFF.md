@@ -1455,3 +1455,18 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 - These are source-level checks only. The automated content QA script has not been executed, and no build, install, CI run, or Android device test has been performed.
 
 - Follow-up correction: refined the translator-history QA matcher to match the actual deduplication expression in `App.js`; commit `add02ef27262a9b1d01303947a8942b274f8b7a8`.
+
+
+## 2026-11-23 follow-up — mobile navigation and accessibility audit
+- Improved the seven-item bottom navigation: every tab now exposes a localized screen-reader label and selected state, with a minimum 52-point navigation item height and slightly larger labels for compact screens.
+- Added accessible labels to Serbian/English course selectors, the theme toggle and language switch. Added a visible title for the Serbian alphabet screen.
+- Improved vocabulary controls: alphabet filters now expose button roles and selected state, use a minimum 44-point touch height, and the vocabulary search field has a descriptive accessibility label.
+- Added descriptive accessibility labels to the Sinhala translator input and submit action.
+- Added static regression assertions for these navigation, touch-target and screen-reader properties. Source inspection passed the corresponding checks; no runtime screen-reader or physical-device test was performed.
+- Commits: `194cd046fcf105875459ceb099f08b6809390f69`, `5f43e7006b96be6a0408d7faf9ef7ad5a33e9b64`, `7aa0ce36ce47a6018b2604c30246f080ba54d262`, and `9bcaeac966d2b697b5d3241cd1bd2c3be7d71f6c`.
+- No content QA execution, CI run, Expo export, APK build, install, or Android device test was performed. Continue to defer builds until source work is complete and the user authorizes the final build.
+
+### Next exact task
+1. Audit the remaining Learn/lesson controls for missing accessibility labels, touch targets and misleading disabled states.
+2. Audit all tab transitions and language switching for state leakage and navigation dead ends.
+3. Perform a final source-only JSX/logic review and add robust static regression checks; keep all unexecuted QA/build/device steps explicitly marked as pending.
