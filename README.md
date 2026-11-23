@@ -456,3 +456,7 @@ Reviewed A1–C2 final-exam interaction flows and added static regression guards
 Hardened restored translator history and favourites against malformed or duplicate local data. Reviewed translator HTTP/error handling, privacy notice, bounded history, TTS request-race protection and Serbian/English voice fallback; added static regression guards for these paths and core mobile safe-area/keyboard behavior. This is source-level review only: automated QA execution and Android voice/UI testing remain pending. See `HANDOFF.md`.
 
 - Follow-up correction: refined the translator-history QA matcher to match the actual deduplication expression in `App.js`; commit `add02ef27262a9b1d01303947a8942b274f8b7a8`.
+
+
+### Mobile navigation and accessibility — 2026-11-23
+Improved bottom-tab screen-reader labels and selected states, enlarged navigation and vocabulary alphabet-filter touch targets, and added descriptive labels for course selection, theme, language switching, vocabulary search and translator controls. Added static regression checks. Source inspection passed; screen-reader/runtime and Android device testing remain pending. See `HANDOFF.md`.
