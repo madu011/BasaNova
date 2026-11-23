@@ -1471,7 +1471,7 @@ export const ENGLISH_C1_LESSONS_41_50 = [
     "id": "en-c1-l50",
     "unit": "C1 · Professional integrity and ethical judgement",
     "title": "C1 · 50 · Professional integrity and ethical judgement",
-    "objective": "සංකීර්ණ වෘත්තීය තත්ත්වයකදී සදාචාරාත්මක මූලධර්ම, වගවීම සහ ප්‍රතිවිපාක සලකා තීරණයක් සාධාරණීකරණය කරන්න.",
+    "objective": "Justify a decision in a complex professional situation by considering ethical principles, accountability and possible consequences.",
     "vocabulary": [
       {
         "word": "integrity",
