@@ -1385,3 +1385,9 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 2. Audit translator, vocabulary search/favourites, mission/XP and theme interactions for persistence and state consistency.
 3. Review responsive layout/navigation and accessibility touch targets across small Android screens.
 4. Group verified fixes and update README/HANDOFF. Keep all build workflows untouched until final source QA and explicit final-build approval.
+
+## 2026-11-23 follow-up — course roadmap and translator privacy UI pass
+- Corrected stale Learn-screen roadmap wording: it now accurately states that all six levels have 50 authored Serbian and 50 authored English lessons, and that lesson progress is saved separately.
+- Added a visible privacy notice to the Sinhala-to-Serbian translator explaining that text is sent to an external translation service and advising users not to enter passwords, bank details or other confidential information.
+- App.js UI changes committed in `d287523fe5a5285d5e7d5c455a44ae6fc21a789e`.
+- This is source review and implementation only. No build, automated test run, or device validation has been performed.
