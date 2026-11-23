@@ -4,7 +4,7 @@ export const SERBIAN_C2_LESSONS_11_20 = [
     "id": "sr-c2-l11",
     "unit": "C2 · Filozofija jezika i pojmovna preciznost",
     "title": "C2 · 11 · Filozofija jezika i pojmovna preciznost",
-    "objective": "භාෂා සංකේත, යොමු වස්තු සහ සංකල්පමය නිර්වචන අතර වෙනස්කම් විග්‍රහ කරන්න.",
+    "objective": "Analizirajte razlike između jezičkih znakova, referenata i pojmovnih definicija.",
     "vocabulary": [
       {
         "word": "referent",
@@ -167,7 +167,7 @@ export const SERBIAN_C2_LESSONS_11_20 = [
     "id": "sr-c2-l12",
     "unit": "C2 · Pravno tumačenje i suprotstavljena pravila",
     "title": "C2 · 12 · Pravno tumačenje i suprotstavljena pravila",
-    "objective": "නීතිමය පාඨයක් අර්ථකථනය කිරීමේදී තරඟකාරී මූලධර්ම සාධාරණීකරණය කරන්න.",
+    "objective": "Obrazložite konkurentska načela pri tumačenju pravnog teksta.",
     "vocabulary": [
       {
         "word": "presedan",
@@ -330,7 +330,7 @@ export const SERBIAN_C2_LESSONS_11_20 = [
     "id": "sr-c2-l13",
     "unit": "C2 · Diplomatski protokol i strateška dvosmislenost",
     "title": "C2 · 13 · Diplomatski protokol i strateška dvosmislenost",
-    "objective": "රාජ්‍යතාන්ත්‍රික භාෂාවේ වක්‍ර අර්ථ සහ උපායමාර්ගික අපැහැදිලි බව හඳුනාගන්න.",
+    "objective": "Prepoznajte implicitna značenja i stratešku dvosmislenost u diplomatskom jeziku.",
     "vocabulary": [
       {
         "word": "saopštenje",
@@ -493,7 +493,7 @@ export const SERBIAN_C2_LESSONS_11_20 = [
     "id": "sr-c2-l14",
     "unit": "C2 · Akademska sinteza suprotstavljenih dokaza",
     "title": "C2 · 14 · Akademska sinteza suprotstavljenih dokaza",
-    "objective": "විරුද්ධ පර්යේෂණ සාක්ෂි විචාරශීලීව ඒකාබද්ධ කරන්න.",
+    "objective": "Kritički objedinite suprotstavljene istraživačke dokaze.",
     "vocabulary": [
       {
         "word": "triangulacija",
@@ -656,7 +656,7 @@ export const SERBIAN_C2_LESSONS_11_20 = [
     "id": "sr-c2-l15",
     "unit": "C2 · Kognitivna pristrasnost i procena argumenata",
     "title": "C2 · 15 · Kognitivna pristrasnost i procena argumenata",
-    "objective": "තර්ක ඇගයීමේදී සංජානන පක්ෂපාතීත්වයන් හඳුනාගෙන පාලනය කරන්න.",
+    "objective": "Prepoznajte i kontrolišite kognitivne pristrasnosti pri proceni argumenata.",
     "vocabulary": [
       {
         "word": "sidrenje",
@@ -819,7 +819,7 @@ export const SERBIAN_C2_LESSONS_11_20 = [
     "id": "sr-c2-l16",
     "unit": "C2 · Semantička promena i istorijska lingvistika",
     "title": "C2 · 16 · Semantička promena i istorijska lingvistika",
-    "objective": "වචනවල ඉතිහාසය සහ කාලයත් සමඟ වෙනස් වූ අර්ථ විග්‍රහ කරන්න.",
+    "objective": "Analizirajte istoriju reči i promene značenja tokom vremena.",
     "vocabulary": [
       {
         "word": "semantički pomak",
@@ -982,7 +982,7 @@ export const SERBIAN_C2_LESSONS_11_20 = [
     "id": "sr-c2-l17",
     "unit": "C2 · Međukulturna pragmatika i sistemi učtivosti",
     "title": "C2 · 17 · Međukulturna pragmatika i sistemi učtivosti",
-    "objective": "විවිධ සංස්කෘතික ආචාරශීලී රටා අනුව භාෂාව සකස් කරන්න.",
+    "objective": "Prilagodite jezik različitim kulturnim obrascima učtivosti.",
     "vocabulary": [
       {
         "word": "ublažavanje",
@@ -1145,7 +1145,7 @@ export const SERBIAN_C2_LESSONS_11_20 = [
     "id": "sr-c2-l18",
     "unit": "C2 · Etičko rasuđivanje o novim tehnologijama",
     "title": "C2 · 18 · Etičko rasuđivanje o novim tehnologijama",
-    "objective": "නව තාක්ෂණයන් පිළිබඳ සදාචාරාත්මක තීරණවල සීමා සහ වගවීම සලකා බලන්න.",
+    "objective": "Razmotrite ograničenja i odgovornost pri etičkom odlučivanju o novim tehnologijama.",
     "vocabulary": [
       {
         "word": "srazmernost",
@@ -1308,7 +1308,7 @@ export const SERBIAN_C2_LESSONS_11_20 = [
     "id": "sr-c2-l19",
     "unit": "C2 · Stručni dijalog i integrisani učinak na nivou C2",
     "title": "C2 · 19 · Stručni dijalog i integrisani učinak na nivou C2",
-    "objective": "විශේෂඥ සංවාදයකදී සංකීර්ණ අදහස් සම්බන්ධ කර පැහැදිලි නිගමනයක් ගොඩනගන්න.",
+    "objective": "Povežite složene ideje i izgradite jasan zaključak u stručnom dijalogu.",
     "vocabulary": [
       {
         "word": "dijalektika",
@@ -1471,7 +1471,7 @@ export const SERBIAN_C2_LESSONS_11_20 = [
     "id": "sr-c2-l20",
     "unit": "C2 · Završni projekat C2: nijansiran stav u uslovima neizvesnosti",
     "title": "C2 · 20 · Završni projekat C2: nijansiran stav u uslovima neizvesnosti",
-    "objective": "අවිනිශ්චිත සාක්ෂි යටතේ සීමා දක්වා ඇති නිරවද්‍ය ස්ථාවරයක් ඉදිරිපත් කරන්න.",
+    "objective": "Iznesite precizan stav sa jasno navedenim ograničenjima na osnovu neizvesnih dokaza.",
     "vocabulary": [
       {
         "word": "uslovljen",
