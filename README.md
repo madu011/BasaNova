@@ -442,3 +442,7 @@ The vocabulary library now includes lesson vocabulary across A1–C2 for both la
 
 ### Serbian B2 pronunciation and lesson progress — 2026-11-23
 Remaining Serbian B2 vocabulary pronunciation fields were normalized to Sinhala script, with static QA checks added to prevent mixed-script regressions. Course progress now counts only lessons whose practice and applicable listening answers are correct; checking an incorrect answer no longer increases completion. Sinhala readings are approximate learning aids and still need language-expert review. Runtime and Android verification remain pending; see `HANDOFF.md`.
+
+
+### Beginner lesson retry and progress accuracy — 2026-11-23
+A1 and A2 lesson practice/listening now provide retry controls after incorrect answers, matching the retry behavior already present in higher levels. Course progress increases only when practice and applicable listening answers are correct. This has been source-reviewed but not runtime-tested; see `HANDOFF.md` for QA and Android verification status.
