@@ -446,3 +446,7 @@ Remaining Serbian B2 vocabulary pronunciation fields were normalized to Sinhala 
 
 ### Beginner lesson retry and progress accuracy — 2026-11-23
 A1 and A2 lesson practice/listening now provide retry controls after incorrect answers, matching the retry behavior already present in higher levels. Course progress increases only when practice and applicable listening answers are correct. This has been source-reviewed but not runtime-tested; see `HANDOFF.md` for QA and Android verification status.
+
+
+### Final assessment interaction audit — 2026-11-23
+Reviewed A1–C2 final-exam interaction flows and added static regression guards for confirmed-answer scoring, complete-answer submission, answer locking, retake reset behavior, and saved exam state. Vocabulary library source review also covered deduplication, search, Serbian alphabet filters, favourites, and pagination. These are source-level checks only; automated QA execution and Android runtime/device verification remain pending. See `HANDOFF.md`.
