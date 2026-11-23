@@ -178,8 +178,8 @@ assert.match(appSource, /const done=exam\.filter\(\(q\)=>lessonChecked\[q\.id\]\
   "A1 final exam score must count only confirmed correct answers");
 assert.match(appSource, /exam\.forEach\(q=>delete n\[q\.id\]\);return n;/u,
   "A1 final exam restart must clear answers for every exam question");
-assert.match(appSource, /exam\.forEach\(q=>delete n\[q\.id\]\);return n;/u,
-  "A1 final exam restart must clear confirmed-answer state as well as selected answers");
+assert.match(appSource, /setLessonAnswers\(v=>\{const n=\{\.\.\.v\};exam\.forEach\(q=>delete n\[q\.id\]\);return n;\}\);setLessonChecked\(v=>\{const n=\{\.\.\.v\};exam\.forEach\(q=>delete n\[q\.id\]\);return n;\}\)/u,
+  "A1 final exam restart must clear both selected answers and confirmed-answer state");
 for (const level of ["a2", "b1", "b2", "c1", "c2"]) {
   const submitted = level + "ExamSubmitted";
   const prefix = level + "-final-";
