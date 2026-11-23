@@ -1484,3 +1484,11 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 1. Finish the Learn-screen control and navigation state audit, especially course switching while filters/search panels are active.
 2. Review persistence migration compatibility after the favourites schema change and confirm all saved-data fields remain shape-validated.
 3. Complete source-only regression review and document any remaining limitations; do not run CI or build workflows.
+
+
+## 2026-11-23 follow-up — course-switch state isolation
+- Audited the language-selection handler after identifying a filter leakage case: Serbian-only alphabet filters such as DŽ/LJ/NJ could remain selected after switching to English, producing an empty vocabulary view. A saved-favourites-only filter could also remain active across course changes.
+- Course selection now resets vocabulary search, alphabet filter, pagination limit and favourites-only mode; it expands the first A1 lesson for the newly selected language, resets speaking dialogue indices, and exits the slang submode.
+- Added a static regression guard for the complete course-switch reset path. Source inspection passed the corresponding checks.
+- Commits: `b91d98da812f382fcc2ff16dfa7f534497a7eff1` and `c19ea099ffe09e326d7b3cc1e7d0d7e5a758bafc`.
+- Automated QA has not been run; these checks are source inspection only. No CI, Expo export, APK build, install, or device test was performed.
