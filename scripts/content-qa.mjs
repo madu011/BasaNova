@@ -232,6 +232,18 @@ assert.match(appSource, /accessibilityLabel="Serbian පාඨමාලාව �
   "Serbian course selector must have a screen-reader label");
 assert.match(appSource, /accessibilityLabel="English පාඨමාලාව තෝරන්න"/u,
   "English course selector must have a screen-reader label");
+
+assert.match(appSource, /accessibilityLabel="වචනය, සිංහල තේරුම හෝ උච්චාරණය සොයන්න"/u,
+  "Vocabulary search input must have a descriptive screen-reader label");
+assert.match(appSource, /accessibilityLabel="පරිවර්තනය සඳහා සිංහල වාක්‍යය ලියන්න"/u,
+  "Translator input must have a descriptive screen-reader label");
+assert.match(appSource, /accessibilityLabel="සිංහල වාක්‍යය Serbian භාෂාවට පරිවර්තනය කරන්න"/u,
+  "Translator submit action must have a descriptive screen-reader label");
+assert.match(appSource, /accessibilityState=\{\{selected:vocabLetter===letter\}\}/u,
+  "Vocabulary alphabet filters must expose their selected state");
+assert.match(appSource, /vocabLetter:\{minHeight:44,justifyContent:"center",/u,
+  "Vocabulary alphabet filter touch targets must be at least 44 points high");
+
 assert.match(appSource, /alphabet:"Serbian අකුරු"/u,
   "Serbian alphabet screen must have a visible page title");
 
