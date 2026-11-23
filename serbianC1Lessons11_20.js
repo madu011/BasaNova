@@ -9,9 +9,9 @@ export const SERBIAN_C1_LESSONS_11_20 = [
       {
         "word": "ustupak",
         "reading": "උස්තුපාක්",
-        "meaning": "සහනය / ustupය",
-        "example": "Razuman kompromis mora uzeti u obzir prioritete obe strane.",
-        "translation": "සාධාරණ සම්මුතිය දෙපාර්ශ්වයේ ප්‍රමුඛතා සලකා බැලිය යුතුය."
+        "meaning": "සහනයක් ලබාදීම",
+        "example": "Ograničen ustupak može pomoći da se postigne dogovor.",
+        "translation": "සීමිත සහනයක් ලබාදීම එකඟතාවකට පැමිණීමට උපකාරී විය හැක."
       },
       {
         "word": "kompromis",
@@ -24,8 +24,8 @@ export const SERBIAN_C1_LESSONS_11_20 = [
         "word": "pregovaranje",
         "reading": "ප්‍රෙගොවාරාන්‍යෙ",
         "meaning": "සාකච්ඡා කිරීම",
-        "example": "Možemo li da se dogovorimo o postepenom pristupu?",
-        "translation": "අදියරෙන් අදියර ක්‍රමයකට එකඟ විය හැකිද?"
+        "example": "Pregovaranje zahteva jasno razumevanje prioriteta obe strane.",
+        "translation": "සාකච්ඡා කිරීම සඳහා දෙපාර්ශ්වයේ ප්‍රමුඛතා පැහැදිලිව තේරුම් ගැනීම අවශ්‍යය."
       },
       {
         "word": "uzajaman",
@@ -42,11 +42,11 @@ export const SERBIAN_C1_LESSONS_11_20 = [
         "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “ප්‍රමුඛතාව” යන සංකල්පය අර්ථ දක්වයි."
       },
       {
-        "word": "ustupanje",
+        "word": "odnos koristi i troškova",
         "reading": "උස්තුපාන්‍යෙ",
-        "meaning": "අත්හැරීම",
-        "example": "Autori koriste izraz „ustupanje“ kada objašnjavaju ključni argument.",
-        "translation": "ප්‍රධාන තර්කය පැහැදිලි කරන විට කතුවරු “අත්හැරීම” යන පදය භාවිත කරති."
+        "meaning": "වාසි හා අවාසි අතර තේරීම",
+        "example": "Svaki predlog uključuje odnos koristi i troškova.",
+        "translation": "සෑම යෝජනාවකම වාසි හා අවාසි අතර තේරීමක් ඇත."
       },
       {
         "word": "saglasnost",
@@ -200,9 +200,9 @@ export const SERBIAN_C1_LESSONS_11_20 = [
       {
         "word": "rezervni plan",
         "reading": "රෙසෙර්ව්නි ප්ලාන්",
-        "meaning": "විකල්ප සැලැස්ම",
-        "example": "U izveštaju se pojam „rezervni plan“ definiše pre analize rezultata.",
-        "translation": "ප්‍රතිඵල විශ්ලේෂණයට පෙර වාර්තාවේ “විකල්ප සැලැස්ම” යන සංකල්පය අර්ථ දක්වයි."
+        "meaning": "හදිසි විකල්ප සැලැස්ම",
+        "example": "Rezervni plan određuje postupak ako se rizik ostvari.",
+        "translation": "අවදානම සැබෑ වුවහොත් ගත යුතු පියවර හදිසි විකල්ප සැලැස්මෙන් දක්වයි."
       },
       {
         "word": "neizvesnost",
@@ -824,9 +824,9 @@ export const SERBIAN_C1_LESSONS_11_20 = [
       {
         "word": "dok",
         "reading": "දොක්",
-        "meaning": "ඩොක්",
-        "example": "Dok je prva opcija jeftinija, druga je pouzdanija.",
-        "translation": "පළමු විකල්පය ලාභදායී වුවද දෙවැන්න වඩා විශ්වාසදායකය."
+        "meaning": "එසේ වුවද / අතර",
+        "example": "Dok je prvi predlog jeftiniji, drugi je pouzdaniji.",
+        "translation": "පළමු යෝජනාව ලාභදායී වුවද දෙවැන්න වඩා විශ්වාසදායකය."
       },
       {
         "word": "ipak",
@@ -1029,9 +1029,9 @@ export const SERBIAN_C1_LESSONS_11_20 = [
       {
         "word": "smiriti sukob",
         "reading": "ස්මිරිති සුකොබ්",
-        "meaning": "ගැටුම සමනය කිරීම",
-        "example": "Razumevanje pojma „smiriti sukob“ pomaže u proceni ovog primera.",
-        "translation": "මෙම උදාහරණය ඇගයීමට “ගැටුම සමනය කිරීම” සංකල්පය තේරුම් ගැනීම උපකාරී වේ."
+        "meaning": "ගැටුමේ උණුසුම අඩු කිරීම",
+        "example": "Posrednik pokušava da smiri sukob pre nastavka razgovora.",
+        "translation": "සාකච්ඡාව ඉදිරියට ගෙන යාමට පෙර මැදිහත්කරු ගැටුමේ උණුසුම අඩු කිරීමට උත්සාහ කරයි."
       },
       {
         "word": "rešenje",
