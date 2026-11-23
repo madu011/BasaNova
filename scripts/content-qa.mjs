@@ -196,6 +196,29 @@ assert.match(appSource, /payload=\{[^}]*a2ExamSubmitted,b1ExamSubmitted,b2ExamSu
   "A2–C2 submitted state must persist with learner progress");
 assert.match(appSource, /setA2ExamSubmitted\(saved\.a2ExamSubmitted===true\)[\s\S]*setC2ExamSubmitted\(saved\.c2ExamSubmitted===true\)/u,
   "A2–C2 submitted state must restore safely from saved progress");
+
+// Defensive local-data restore and language-service safeguards.
+assert.match(appSource, /saved\.translateHistory\.filter\(item=>item&&typeof item==="object"&&typeof item\.source==="string"&&typeof item\.result==="string"\)\.slice\(0,100\)/u,
+  "Restored translator history must reject malformed entries and remain bounded");
+assert.match(appSource, /\[\.\.\.new Set\(saved\.favoriteWords\.filter\(item=>typeof item==="string"&&item\.trim\(\)\)\.map\(item=>item\.trim\(\)\)\)\]/u,
+  "Restored favourite words must be non-empty, trimmed and unique");
+assert.match(appSource, /response\.ok\)throw new Error/u,
+  "Translator must handle non-success HTTP responses");
+assert.match(appSource, /data\?\.responseStatus!==200\|\|!result/u,
+  "Translator must reject unsuccessful or empty service responses");
+assert.match(appSource, /items\.filter\(item=>item\.source!==source\)\]\)\.slice\(0,12\)/u,
+  "Translator history must deduplicate source text and stay within 12 visible entries");
+assert.match(appSource, /මුරපද, බැංකු විස්තර හෝ වෙනත් රහස්‍ය තොරතුරු ඇතුළත් නොකරන්න/u,
+  "Translator screen must retain its external-service privacy warning");
+assert.ok((appSource.match(/requestId!==voiceRequestId/gu) ?? []).length >= 3,
+  "TTS must ignore stale asynchronous voice requests");
+assert.match(appSource, /Speech\.speak\(phrase,\{language:lang==="Serbian"\?"sr-RS":"en-US",rate:0\.82\}\)/u,
+  "Device TTS fallback must select the correct Serbian or English voice locale");
+assert.match(appSource, /SafeAreaView edges=\{\["top","right","bottom","left"\]\}/u,
+  "Main app layout must respect device safe areas");
+assert.match(appSource, /keyboardShouldPersistTaps="handled"/u,
+  "Scrollable learning screens must preserve taps while the keyboard is open");
+
 assert.match(appSource, /setA2ExamSubmitted\(false\);setB1ExamSubmitted\(false\);setB2ExamSubmitted\(false\);setC1ExamSubmitted\(false\);setC2ExamSubmitted\(false\)/u,
   "Switching language must close any previously submitted advanced exam");
 
