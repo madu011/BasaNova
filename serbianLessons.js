@@ -979,8 +979,7 @@ export const SERBIAN_A1_LESSONS = [
       { prompt: "“ගෙන යන්න” යන අර්ථය කුමක්ද?", options: ["Bez mleka", "Za poneti", "Jelovnik"], answer: 1, explanation: "Za poneti යනු ගෙන යාමට / takeaway යන්නයි." },
       { prompt: "කිරි නැති කෝපි එකක් ඉල්ලන්නේ කොහොමද?", options: ["Kafu bez mleka, molim.", "Račun, molim.", "Dobar dan."], answer: 0, explanation: "Bez mleka = කිරි නැතුව." },
       { prompt: "කැෆේ එකක බිල ඉල්ලන නිවැරදි වාක්‍යය?", options: ["Šta želite?", "Koliko je sati?", "Račun, molim."], answer: 2, explanation: "Račun, molim = බිල දෙන්න, කරුණාකර." }
-    ]
-  
+    ],
  listeningPractice:{"prompt":"Slušaj i izaberi tačno značenje: „Jednu kafu i jedan sendvič, molim.”","audio":"Jednu kafu i jedan sendvič, molim.","reading":"යෙදුනු කාෆු ඉ යෙදාන් සෙන්ද්විච්, මොලිම්.","options":["කෝපි එකක් සහ සැන්ඩ්විච් එකක්, කරුණාකර.","මට බස් ටිකට් දෙකක් ඕනෑ.","කරුණාකර බිල ගෙනෙන්න."],"answer":0,"meaning":"කෝපි එකක් සහ සැන්ඩ්විච් එකක්, කරුණාකර."},
 },
 {
@@ -1028,8 +1027,7 @@ export const SERBIAN_A1_LESSONS = [
       { prompt: "“නැවත කියන්න පුළුවන්ද?” අසන්නේ කොහොමද?", options: ["Možete li da ponovite?", "Gde je apoteka?", "Koliko košta?"], answer: 0, explanation: "Možete li da ponovite? යනු නැවත කියන්න පුළුවන්ද? යන්නයි." },
       { prompt: "“මට වෛද්‍යවරයෙක් අවශ්‍යයි” තෝරන්න.", options: ["Treba mi lekar.", "Treba mi mapa.", "Treba mi voda."], answer: 0, explanation: "Treba mi lekar = මට වෛද්‍යවරයෙක් අවශ්‍යයි." },
       { prompt: "කෙනෙකුට ටිකක් හෙමින් කතා කරන්න කියන්නේ?", options: ["Govorite malo sporije, molim.", "Vidimo se sutra.", "Račun, molim."], answer: 0, explanation: "Govorite malo sporije, molim = කරුණාකර ටිකක් හෙමින් කතා කරන්න." }
-    ]
-  
+    ],
  listeningPractice:{"prompt":"Slušaj i izaberi tačno značenje: „Možete li da ponovite?”","audio":"Možete li da ponovite?","reading":"මොෂෙතෙ ලි දා පොනොවිතෙ?","options":["ඔබට එය නැවත කියන්න පුළුවන්ද?","මට ලිපිනය ලියන්න.","ඖෂධහල කොහෙද?"],"answer":0,"meaning":"ඔබට එය නැවත කියන්න පුළුවන්ද?"},
 }
 
@@ -1078,8 +1076,7 @@ export const SERBIAN_A1_LESSONS = [
    {prompt:"“කිලෝ භාගයක්” තෝරන්න.",options:["Dva kilograma","Pola kilograma","Jedan kilogram"],answer:1,explanation:"Pola kilograma යනු කිලෝ භාගයක්."},
    {prompt:"කිලෝ එකක මිල අසන ප්‍රශ්නය?",options:["Koliko košta kilogram jabuka?","Gde je stanica?","Koliko je sati?"],answer:0,explanation:"Koliko košta kilogram ...? යනු කිලෝ එකක මිල අසන රටාවයි."},
    {prompt:"“එච්චරයි, ස්තුතියි” කියන්නේ?",options:["Još nešto?","To je sve, hvala.","Ne razumem."],answer:1,explanation:"To je sve = එච්චරයි; hvala = ස්තුතියි."}
-  ]
- 
+  ],
  listeningPractice:{"prompt":"Slušaj i izaberi tačno značenje: „Jedan kilogram jabuka, molim.”","audio":"Jedan kilogram jabuka, molim.","reading":"යෙදාන් කිලොග්‍රාම් යබුකා, මොලිම්.","options":["ඇපල් කිලෝග්‍රෑම් එකක්, කරුණාකර.","තක්කාලි කිලෝග්‍රෑම් දෙකක්.","මේ සියල්ල කීයද?"],"answer":0,"meaning":"ඇපල් කිලෝග්‍රෑම් එකක්, කරුණාකර."},
 }
 
@@ -1125,8 +1122,7 @@ export const SERBIAN_A1_LESSONS = [
    {prompt:"“හෙට” යන Serbian වචනය තෝරන්න.",options:["Juče","Sutra","Danas"],answer:1,explanation:"Sutra = හෙට."},
    {prompt:"“අටට” කියන රටාව කුමක්ද?",options:["U osam","U deset","U pet"],answer:0,explanation:"U + වේලාව යොදා සිදුවීම සිදුවන වේලාව කියනවා."},
    {prompt:"“දිනය කුමක්ද?” අසන්න.",options:["Koliko košta?","Koji je datum?","Kako se zoveš?"],answer:1,explanation:"Koji je datum? = දිනය කුමක්ද?"}
-  ]
- 
+  ],
  listeningPractice:{"prompt":"Slušaj i izaberi tačno značenje: „Sastanak je sutra u deset.”","audio":"Sastanak je sutra u deset.","reading":"සස්තානාක් යෙ සුත්‍රා උ දෙසෙත්.","options":["හමුවීම හෙට දහයටයි.","අද මම නවයට වැඩ කරනවා.","මගේ දුරකථන අංකය මෙයයි."],"answer":0,"meaning":"හමුවීම හෙට දහයටයි."},
 },
 {
@@ -1172,8 +1168,7 @@ export const SERBIAN_A1_LESSONS = [
    {prompt:"“හැමදාම” යන අර්ථය?",options:["Juče","Svaki dan","Uveče"],answer:1,explanation:"Svaki dan = හැමදාම."},
    {prompt:"“... සිට ... දක්වා” කියන රටාව?",options:["bez ...","od ... do ...","za poneti"],answer:1,explanation:"Od ... do ... = ... සිට ... දක්වා."},
    {prompt:"“වැඩෙන් පස්සේ” කියන්නේ?",options:["Pre posla","Posle posla","Sutra"],answer:1,explanation:"Posle posla = වැඩෙන් පස්සේ."}
-  ]
- 
+  ],
  listeningPractice:{"prompt":"Slušaj i izaberi tačno značenje: „Ustajem u sedam.”","audio":"Ustajem u sedam.","reading":"උස්තායෙම් උ සෙදාම්.","options":["මම හතට නැගිටිනවා.","මම හතට නිදාගන්නවා.","මම හතට ගෙදර යනවා."],"answer":0,"meaning":"මම හතට නැගිටිනවා."},
 },
 {
@@ -1219,8 +1214,7 @@ export const SERBIAN_A1_LESSONS = [
    {prompt:"“නිවාඩු දිනය” කියන්නේ?",options:["Raspored","Zamena","Slobodan dan"],answer:2,explanation:"Slobodan dan = නිවාඩු දිනය."},
    {prompt:"වැඩ මුරය පටන් ගන්නේ කීයටද අසන්න.",options:["Kada počinje smena?","Koliko košta?","Gde je apoteka?"],answer:0,explanation:"Kada počinje smena? = වැඩ මුරය පටන් ගන්නේ කීයටද?"},
    {prompt:"“මට වැඩ මුරය මාරු කරගන්න පුළුවන්ද?” තෝරන්න.",options:["Da li mogu da zamenim smenu?","Radim ujutru.","To je sve."],answer:0,explanation:"Da li mogu da ...? යනු මට ... කළ හැකිද? යන ප්‍රශ්න රටාවයි."}
-  ]
- 
+  ],
  listeningPractice:{"prompt":"Slušaj i izaberi tačno značenje: „Sutra radim drugu smenu.”","audio":"Sutra radim drugu smenu.","reading":"සුත්‍රා රාදිම් ද්‍රුගු ස්මෙනු.","options":["හෙට මම දෙවන වැඩ මුරයේ වැඩ කරනවා.","අද මට නිවාඩුයි.","හෙට මම උදේ හතට නැගිටිනවා."],"answer":0,"meaning":"හෙට මම දෙවන වැඩ මුරයේ වැඩ කරනවා."},
 }
  ,{
@@ -1268,8 +1262,7 @@ export const SERBIAN_A1_LESSONS = [
    {prompt:"“මට සහෝදරයෙක් ඉන්නවා” තෝරන්න.",options:["Govorim srpski.","Imam brata.","Odakle ste?"],answer:1,explanation:"Imam = මට ඉන්නවා; brata = සහෝදරයෙක්."},
    {prompt:"“මම Serbian කතා කරනවා” කියන්නේ?",options:["Živim u Srbiji.","Govorim srpski.","Ovo je moj otac."],answer:1,explanation:"Govorim srpski = මම Serbian කතා කරනවා."},
    {prompt:"“ඔබ කොහෙන්ද?” විධිමත්ව අසන්න.",options:["Koliko imate godina?","Kako se zovete?","Odakle ste?"],answer:2,explanation:"Odakle ste? = ඔබ කොහෙන්ද?"}
-  ]
- 
+  ],
  listeningPractice:{"prompt":"Slušaj i izaberi tačno značenje: „Imam jednog brata i jednu sestru.”","audio":"Imam jednog brata i jednu sestru.","reading":"ඉමාම් යෙදානොග් බ්‍රාතා ඉ යෙදුනු සෙස්ත්‍රු.","options":["මට සහෝදරයෙක් සහ සහෝදරියක් ඉන්නවා.","මට දරුවන් දෙන්නෙක් ඉන්නවා.","මම භාෂා දෙකක් කතා කරනවා."],"answer":0,"meaning":"මට සහෝදරයෙක් සහ සහෝදරියක් ඉන්නවා."},
 }
 
@@ -1316,8 +1309,7 @@ export const SERBIAN_A1_LESSONS = [
    {prompt:"“වේදිකාව කොහෙද?” අසන්නේ?",options:["Kada je dolazak?","Gde je peron?","Koliko košta?"],answer:1,explanation:"Gde je peron? = වේදිකාව කොහෙද?"},
    {prompt:"“දුම්රිය ප්‍රමාදයි” කියන්නේ?",options:["Voz kasni.","Voz stiže.","Autobus polazi."],answer:0,explanation:"Voz kasni. = දුම්රිය ප්‍රමාදයි."},
    {prompt:"“එක් පැත්තකට ටිකට්පතක්” තෝරන්න.",options:["Povratna karta","Autobuska stanica","Jednosmerna karta"],answer:2,explanation:"Jednosmerna karta = එක් පැත්තකට ටිකට්පත."}
-  ]
- 
+  ],
  listeningPractice:{"prompt":"Slušaj i izaberi tačno značenje: „Jednu kartu do Novog Sada, molim.”","audio":"Jednu kartu do Novog Sada, molim.","reading":"යෙදුනු කාර්තු දො නොවොග් සාදා, මොලිම්.","options":["නොවි සාද් වෙත ටිකට් එකක්, කරුණාකර.","බෙල්ග්‍රේඩ් වෙත බස් එකක් තිබෙනවා.","දුම්රිය තුන්වන වේදිකාවේ."],"answer":0,"meaning":"නොවි සාද් වෙත ටිකට් එකක්, කරුණාකර."},
 },
 {
@@ -1363,14 +1355,13 @@ export const SERBIAN_A1_LESSONS = [
    {prompt:"“පොත මේසය මත තියෙනවා” තෝරන්න.",options:["Knjiga je u sobi.","Knjiga je na stolu.","Krevet je u sobi."],answer:1,explanation:"Na stolu = මේසය මත."},
    {prompt:"“මම මහල් නිවාසයක ජීවත් වෙනවා” කියන්නේ?",options:["Živim u stanu.","Živim u kući.","Imam dve sobe."],answer:0,explanation:"Živim u stanu = මම මහල් නිවාසයක ජීවත් වෙනවා."},
    {prompt:"“නාන කාමරය” තෝරන්න.",options:["Kuhinja","Kupatilo","Stolica"],answer:1,explanation:"Kupatilo = නාන කාමරය."}
-  ]
- 
+  ],
  listeningPractice:{"prompt":"Slušaj i izaberi tačno značenje: „Živim u malom stanu.”","audio":"Živim u malom stanu.","reading":"ෂිවිම් උ මාලොම් ස්තානු.","options":["මම කුඩා මහල් නිවාසයක ජීවත් වෙනවා.","මගේ කාමරය විශාලයි.","කුස්සිය නාන කාමරය අසලයි."],"answer":0,"meaning":"මම කුඩා මහල් නිවාසයක ජීවත් වෙනවා."},
 }
 
 
  ,{id:"sr-a1-u9-l1",unit:"ආහාර සහ ගෙදර ඉවුම් පිහුම්",title:"පාඩම 20 · ආහාර සහ ගෙදර ඉවුම් පිහුම්",objective:"දෛනික ආහාර, අමුද්‍රව්‍ය සහ සරල ඉවුම් පිහුම් ක්‍රියා විස්තර කිරීම.",vocabulary:[
-{word:"Hrana",reading:"සා දොරුචාක් යෙදෙම් යායා ඉ හ්ලෙබ්.",meaning:"ආහාර",example:"Hrana je spremna.",exampleReading:"හ්‍රානා යේ ස්ප්‍රෙම්නා.",translation:"කෑම සූදානම්."},{word:"Doručak",reading:"දොරූචාක්",meaning:"උදෑසන ආහාරය",example:"Doručkujem u osam.",exampleReading:"දොරූචුයෙම් උ ඔසාම්.",translation:"මම අටට උදෑසන ආහාරය ගන්නවා."},{word:"Ručak",reading:"රූචාක්",meaning:"දිවා ආහාරය",example:"Ručak je u podne.",exampleReading:"රූචාක් යේ උ පොද්නෙ.",translation:"දිවා ආහාරය දවල්ට."},{word:"Večera",reading:"වෙචෙරා",meaning:"රාත්‍රී ආහාරය",example:"Večera je u sedam.",exampleReading:"වෙචෙරා යේ උ සෙදාම්.",translation:"රාත්‍රී ආහාරය හතට."},{word:"Hleb",reading:"හ්ලෙබ්",meaning:"පාන්",example:"Kupujem svež hleb.",exampleReading:"කුපුයෙම් ස්වෙෂ් හ්ලෙබ්.",translation:"මම අලුත් පාන් ගන්නවා."},{word:"Povrće",reading:"පොව්ර්චෙ",meaning:"එළවළු",example:"Jedem mnogo povrća.",exampleReading:"යෙදෙම් ම්නොගො පොව්ර්චා.",translation:"මම එළවළු ගොඩක් කනවා."},{word:"Kuvati",reading:"කුවාති",meaning:"උයනවා",example:"Volim da kuvam.",exampleReading:"වොලිම් දා කුවාම්.",translation:"මම උයන්න කැමතියි."},{word:"So",reading:"සො",meaning:"ලුණු",example:"Dodaj malo soli.",exampleReading:"දොදායි මාලො සොලි.",translation:"ලුණු ටිකක් එකතු කරන්න."}],grammarTitle:"ව්‍යාකරණය · ආහාර පුරුදු සහ da + ක්‍රියාපදය",grammar:"දෛනික පුරුදු කියන්න “Jedem ...” (මම ... කනවා) සහ “Pijem ...” (මම ... බොනවා) යොදන්න. කැමැත්තක් කියන්න “Volim da + ක්‍රියාපදය” භාවිත කරන්න: “Volim da kuvam.”",grammarTerms:[{sr:"Šta jedeš za doručak?",si:"උදෑසනට ඔයා මොනවාද කන්නේ?",reading:"ෂ්තා යෙදෙෂ් සා දොරූචාක්?"},{sr:"Jedem hleb i sir.",si:"මම පාන් සහ චීස් කනවා.",reading:"යෙදෙම් හ්ලෙබ් ඉ සීර්."},{sr:"Pijem vodu.",si:"මම වතුර බොනවා.",reading:"පියෙම් වොදු."},{sr:"Volim da kuvam.",si:"මම උයන්න කැමතියි.",reading:"වොලිම් දා කුවාම්."},{sr:"Dodaj malo soli.",si:"ලුණු ටිකක් එකතු කරන්න.",reading:"දොදායි මාලො සොලි."}],examples:[{sr:"Za doručak jedem jaja i hleb.",si:"උදෑසනට මම බිත්තර සහ පාන් කනවා.",reading:"සා දොරූචාක් යෙදෙම් යායා ඉ හ්ලෙබ්."},{sr:"Za ručak kuvam supu.",si:"දිවා ආහාරයට මම සුප් උයනවා.",reading:"සා රූචාක් කුවාම් සුපු."},{sr:"Ne jedem meso.",si:"මම මස් කන්නේ නැහැ.",reading:"නේ යෙදෙම් මෙසො."},{sr:"Volim sveže povrće.",si:"මම නැවුම් එළවළු කැමතියි.",reading:"වොලිම් ස්වෙෂෙ පොව්ර්චෙ."}],dialogue:[{sr:"Šta jedeš za doručak?",si:"උදෑසනට ඔයා මොනවාද කන්නේ?",reading:"ෂ්තා යෙදෙෂ් සා දොරූචාක්?"},{sr:"Obično jedem jaja i hleb.",si:"සාමාන්‍යයෙන් මම බිත්තර සහ පාන් කනවා.",reading:"ඔබිච්නො යෙදෙම් යායා ඉ හ්ලෙබ්."},{sr:"Da li kuvaš kod kuće?",si:"ඔයා ගෙදර උයනවාද?",reading:"දා ලි කුවාෂ් කොද් කුචෙ?"},{sr:"Da, volim da kuvam.",si:"ඔව්, මම උයන්න කැමතියි.",reading:"දා, වොලිම් දා කුවාම්."},{sr:"Šta kuvaš danas?",si:"අද ඔයා මොනවාද උයන්නේ?",reading:"ෂ්තා කුවාෂ් දනාස්?"},{sr:"Kuvam supu sa povrćem.",si:"මම එළවළු සමඟ සුප් උයනවා.",reading:"කුවාම් සුපු සා පොව්ර්චෙම්."}],practice:[{prompt:"“උදෑසන ආහාරය” යන වචනය තෝරන්න.",options:["Večera","Doručak","Ručak"],answer:1,explanation:"Doručak = උදෑසන ආහාරය."},{prompt:"“මම වතුර බොනවා” කියන්නේ?",options:["Pijem vodu.","Jedem hleb.","Kuvam supu."],answer:0,explanation:"Pijem = මම බොනවා; vodu = වතුර."},{prompt:"“මම උයන්න කැමතියි” තෝරන්න.",options:["Ne jedem meso.","Volim da kuvam.","Ručak je gotov."],answer:1,explanation:"Volim da kuvam = මම උයන්න කැමතියි."},{prompt:"“එළවළු” යන වචනය කුමක්ද?",options:["Povrće","So","Hleb"],answer:0,explanation:"Povrće = එළවළු."}]
+{word:"Hrana",reading:"සා දොරුචාක් යෙදෙම් යායා ඉ හ්ලෙබ්.",meaning:"ආහාර",example:"Hrana je spremna.",exampleReading:"හ්‍රානා යේ ස්ප්‍රෙම්නා.",translation:"කෑම සූදානම්."},{word:"Doručak",reading:"දොරූචාක්",meaning:"උදෑසන ආහාරය",example:"Doručkujem u osam.",exampleReading:"දොරූචුයෙම් උ ඔසාම්.",translation:"මම අටට උදෑසන ආහාරය ගන්නවා."},{word:"Ručak",reading:"රූචාක්",meaning:"දිවා ආහාරය",example:"Ručak je u podne.",exampleReading:"රූචාක් යේ උ පොද්නෙ.",translation:"දිවා ආහාරය දවල්ට."},{word:"Večera",reading:"වෙචෙරා",meaning:"රාත්‍රී ආහාරය",example:"Večera je u sedam.",exampleReading:"වෙචෙරා යේ උ සෙදාම්.",translation:"රාත්‍රී ආහාරය හතට."},{word:"Hleb",reading:"හ්ලෙබ්",meaning:"පාන්",example:"Kupujem svež hleb.",exampleReading:"කුපුයෙම් ස්වෙෂ් හ්ලෙබ්.",translation:"මම අලුත් පාන් ගන්නවා."},{word:"Povrće",reading:"පොව්ර්චෙ",meaning:"එළවළු",example:"Jedem mnogo povrća.",exampleReading:"යෙදෙම් ම්නොගො පොව්ර්චා.",translation:"මම එළවළු ගොඩක් කනවා."},{word:"Kuvati",reading:"කුවාති",meaning:"උයනවා",example:"Volim da kuvam.",exampleReading:"වොලිම් දා කුවාම්.",translation:"මම උයන්න කැමතියි."},{word:"So",reading:"සො",meaning:"ලුණු",example:"Dodaj malo soli.",exampleReading:"දොදායි මාලො සොලි.",translation:"ලුණු ටිකක් එකතු කරන්න."}],grammarTitle:"ව්‍යාකරණය · ආහාර පුරුදු සහ da + ක්‍රියාපදය",grammar:"දෛනික පුරුදු කියන්න “Jedem ...” (මම ... කනවා) සහ “Pijem ...” (මම ... බොනවා) යොදන්න. කැමැත්තක් කියන්න “Volim da + ක්‍රියාපදය” භාවිත කරන්න: “Volim da kuvam.”",grammarTerms:[{sr:"Šta jedeš za doručak?",si:"උදෑසනට ඔයා මොනවාද කන්නේ?",reading:"ෂ්තා යෙදෙෂ් සා දොරූචාක්?"},{sr:"Jedem hleb i sir.",si:"මම පාන් සහ චීස් කනවා.",reading:"යෙදෙම් හ්ලෙබ් ඉ සීර්."},{sr:"Pijem vodu.",si:"මම වතුර බොනවා.",reading:"පියෙම් වොදු."},{sr:"Volim da kuvam.",si:"මම උයන්න කැමතියි.",reading:"වොලිම් දා කුවාම්."},{sr:"Dodaj malo soli.",si:"ලුණු ටිකක් එකතු කරන්න.",reading:"දොදායි මාලො සොලි."}],examples:[{sr:"Za doručak jedem jaja i hleb.",si:"උදෑසනට මම බිත්තර සහ පාන් කනවා.",reading:"සා දොරූචාක් යෙදෙම් යායා ඉ හ්ලෙබ්."},{sr:"Za ručak kuvam supu.",si:"දිවා ආහාරයට මම සුප් උයනවා.",reading:"සා රූචාක් කුවාම් සුපු."},{sr:"Ne jedem meso.",si:"මම මස් කන්නේ නැහැ.",reading:"නේ යෙදෙම් මෙසො."},{sr:"Volim sveže povrće.",si:"මම නැවුම් එළවළු කැමතියි.",reading:"වොලිම් ස්වෙෂෙ පොව්ර්චෙ."}],dialogue:[{sr:"Šta jedeš za doručak?",si:"උදෑසනට ඔයා මොනවාද කන්නේ?",reading:"ෂ්තා යෙදෙෂ් සා දොරූචාක්?"},{sr:"Obično jedem jaja i hleb.",si:"සාමාන්‍යයෙන් මම බිත්තර සහ පාන් කනවා.",reading:"ඔබිච්නො යෙදෙම් යායා ඉ හ්ලෙබ්."},{sr:"Da li kuvaš kod kuće?",si:"ඔයා ගෙදර උයනවාද?",reading:"දා ලි කුවාෂ් කොද් කුචෙ?"},{sr:"Da, volim da kuvam.",si:"ඔව්, මම උයන්න කැමතියි.",reading:"දා, වොලිම් දා කුවාම්."},{sr:"Šta kuvaš danas?",si:"අද ඔයා මොනවාද උයන්නේ?",reading:"ෂ්තා කුවාෂ් දනාස්?"},{sr:"Kuvam supu sa povrćem.",si:"මම එළවළු සමඟ සුප් උයනවා.",reading:"කුවාම් සුපු සා පොව්ර්චෙම්."}],practice:[{prompt:"“උදෑසන ආහාරය” යන වචනය තෝරන්න.",options:["Večera","Doručak","Ručak"],answer:1,explanation:"Doručak = උදෑසන ආහාරය."},{prompt:"“මම වතුර බොනවා” කියන්නේ?",options:["Pijem vodu.","Jedem hleb.","Kuvam supu."],answer:0,explanation:"Pijem = මම බොනවා; vodu = වතුර."},{prompt:"“මම උයන්න කැමතියි” තෝරන්න.",options:["Ne jedem meso.","Volim da kuvam.","Ručak je gotov."],answer:1,explanation:"Volim da kuvam = මම උයන්න කැමතියි."},{prompt:"“එළවළු” යන වචනය කුමක්ද?",options:["Povrće","So","Hleb"],answer:0,explanation:"Povrće = එළවළු."}],
  listeningPractice:{"prompt":"Slušaj i izaberi tačno značenje: „Za doručak jedem jaja i hleb.”","audio":"Za doručak jedem jaja i hleb.","reading":"සා දොරුචාක් යෙදෙම් යායා ඉ හ්ලෙබ්.","options":["උදේ ආහාරයට මම බිත්තර සහ පාන් කනවා.","දවල්ට මම සුප් උයනවා.","මම මස් කන්නේ නැහැ."],"answer":0,"meaning":"උදේ ආහාරයට මම බිත්තර සහ පාන් කනවා."},
 },
 {id:"sr-a1-u9-l2",unit:"කාලගුණය සහ ඇඳුම්",title:"පාඩම 21 · කාලගුණය සහ ඇඳුම්",objective:"කාලගුණය විස්තර කිරීම, උෂ්ණත්වය ගැන කතා කිරීම සහ ඇඳුම් නම් කිරීම.",vocabulary:[
