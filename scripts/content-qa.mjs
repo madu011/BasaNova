@@ -232,6 +232,19 @@ assert.match(appSource, /payload=\{[^}]*a2ExamSubmitted,b1ExamSubmitted,b2ExamSu
 assert.match(appSource, /setA2ExamSubmitted\(saved\.a2ExamSubmitted===true\)[\s\S]*setC2ExamSubmitted\(saved\.c2ExamSubmitted===true\)/u,
   "A2–C2 submitted state must restore safely from saved progress");
 
+// Language switching must preserve each language's namespaced lesson answers;
+// only the transient submitted state of the active exam is reset on a switch.
+const chooseStart = appSource.indexOf("const choose=lang=>{");
+const chooseEnd = appSource.indexOf("const next=", chooseStart);
+assert.ok(chooseStart >= 0 && chooseEnd > chooseStart, "Language selection handler must remain explicit and auditable");
+const chooseHandler = appSource.slice(chooseStart, chooseEnd);
+assert.doesNotMatch(chooseHandler, /setLessonAnswers|setLessonChecked|setLearned|setFavoriteWords/u,
+  "Switching language must not erase saved lesson answers, checked answers, learned words or favourites");
+assert.match(appSource, /useEffect\(\(\)=>\{if\(previousLanguage\.current!==null&&previousLanguage\.current!==language\)\{setA2ExamSubmitted\(false\);setB1ExamSubmitted\(false\);setB2ExamSubmitted\(false\);setC1ExamSubmitted\(false\);setC2ExamSubmitted\(false\);\}previousLanguage\.current=language;\},\[language\]\)/u,
+  "Switching languages must clear transient submitted flags without clearing language-scoped answer records");
+assert.match(appSource, /const key=lesson\.id\+"-"\+questionIndex/u,
+  "Lesson progress keys must be derived from globally unique lesson IDs");
+
 // Defensive local-data restore and language-service safeguards.
 assert.match(appSource, /saved\.translateHistory\.filter\(item=>item&&typeof item==="object"&&typeof item\.source==="string"&&typeof item\.result==="string"\)\.slice\(0,100\)/u,
   "Restored translator history must reject malformed entries and remain bounded");
