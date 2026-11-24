@@ -322,6 +322,37 @@ assert.match(appSource, /navItem:\{flex:1,minWidth:0,minHeight:52,[^}]*paddingVe
   "Bottom navigation touch targets must have a minimum 52-point height");
 assert.match(appSource, /navLabel:\{fontSize:10,/u,
   "Bottom navigation labels must remain readable on small screens");
+
+// Navigation contract: the seven visible tabs must be unique, have matching
+// render branches, and keep the Serbian alphabet reachable from the home screen.
+const navArrayMatch = appSource.match(/<View style=\{s\\.nav\}>\\{\\[(.*?)\\]\\.map\\(\\(\\[id,ic,label\\]\\)/u);
+assert.ok(navArrayMatch, "Bottom navigation must expose its tab definitions in one auditable list");
+const navEntries = [...navArrayMatch[1].matchAll(/\\["([^"]+)","[^"]+","([^"]+)"\\]/gu)];
+const navIds = navEntries.map(([, id]) => id);
+assert.equal(navIds.length, 7, "Bottom navigation must contain exactly seven primary tabs");
+assert.equal(new Set(navIds).size, navIds.length, "Bottom navigation tab IDs must be unique");
+assert.deepEqual(navIds, ["home", "speak", "learn", "vocabulary", "translate", "teacher", "progress"],
+  "Bottom navigation order and tab IDs must remain stable");
+for (const id of navIds) {
+  assert.ok(appSource.includes(`tab==="\${id}"`), `Bottom navigation tab ${id} must have a matching screen render branch`);
+}
+assert.match(appSource, /setTab\\("alphabet"\\)/u,
+  "The Serbian alphabet screen must remain reachable from the home screen");
+
+// Lesson progress must update when either answers or confirmation flags change,
+// and only confirmed correct answers may count toward completion.
+const lessonProgressStart = appSource.indexOf("const courseLessonProgress=useMemo(()=>{");
+const lessonProgressEnd = appSource.indexOf("const totalLessonsCompleted=", lessonProgressStart);
+assert.ok(lessonProgressStart >= 0 && lessonProgressEnd > lessonProgressStart,
+  "Course lesson progress calculation must remain a single auditable memo");
+const lessonProgressSource = appSource.slice(lessonProgressStart, lessonProgressEnd);
+assert.match(lessonProgressSource, /lessonChecked\\[key\\]===true&&lessonAnswers\\[key\\]===question\\.answer/u,
+  "A lesson practice question must be checked and correct before completion");
+assert.match(lessonProgressSource, /lessonChecked\\[lesson\\.id\\+"-listen"\\]===true/u,
+  "Listening must be confirmed before it contributes to lesson completion");
+assert.match(lessonProgressSource, /\\},\\[language,lessonChecked,lessonAnswers\\]\\)/u,
+  "Lesson completion percentages must recalculate after language, answer or check-state changes");
+
 assert.match(appSource, /accessibilityLabel=\{theme==="dark"\?"ආලෝක තේමාව සක්‍රිය කරන්න":"අඳුරු තේමාව සක්‍රිය කරන්න"\}/u,
   "Theme toggle must expose its action to screen readers");
 assert.match(appSource, /accessibilityLabel="Serbian පාඨමාලාව තෝරන්න"/u,
