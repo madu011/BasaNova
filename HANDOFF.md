@@ -1545,18 +1545,31 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 - Confirmed `package.json` defines `npm run qa:content`. A `package-lock.json` was not found on `main`, so do not create a CI workflow using `npm ci` until lockfile status is resolved.
 - These are source-level QA additions only. The QA script has not been executed in a Node checkout; assertions are not marked passed. No Expo build or Android test was run.
 
-### Progress checkpoint (estimates; not test pass claims)
-| Area | Progress |
-|---|---:|
-| Serbian/English curriculum source coverage (A1–C2) | 100% |
-| Core app feature implementation in source | 90% |
-| Static QA/regression coverage | 85% |
-| Executed QA and runtime verification | 0% |
-| Android APK build and device validation | 0% |
-| Overall release readiness | 65% |
+### Full progress checkpoint — 2026-11-24 (estimates; not test-pass claims)
+
+**Overall app source/product implementation: approximately 90%.** This preserves the user's previously agreed project-progress baseline. It measures authored product scope and implemented source features, not release certification. The remaining 10% is mainly source QA closure, execution, device validation, and release packaging. Do not replace this with a lower release-readiness number.
+
+| Workstream | Progress | What is included / what remains |
+|---|---:|---|
+| App foundation, navigation and visual shell | 90% | Expo/React Native app, seven-tab navigation, dark/light theme, responsive layouts and accessibility wrappers exist; visual polish and on-device review remain |
+| Vocabulary and reference library | 95% | Serbian/English vocabulary packs, dictionary search, alphabet filters, favourites, slang mode and pagination exist; final duplicate/editorial audit and live TTS review remain |
+| Structured curriculum content | 100% authored | 50 lessons × 2 languages × 6 CEFR levels = 600 lesson records; this is authored source coverage, not official CEFR certification or fluent-speaker approval |
+| Lesson interactions and assessments | 90% | Practice, listening, retries, progress indicators, A1–C2 revision/final assessment flows and 70% practice thresholds are implemented in source; full interactive runtime verification remains |
+| Local progress, persistence and learner state | 90% | AsyncStorage restore/save, schema versioning, serialized writes, data sanitization, language-separated favourites, exam state, XP/missions and local progress are implemented in source; migration and restart/resume testing on Android remain |
+| Translation, speech and advanced services | 65% | Translator request handling/history, clipboard and TTS fallback paths exist; service availability, translation quality, device voices and AI Teacher/cloud features are not fully implemented or verified |
+| Static QA and regression safeguards | 90% | Content structure, 600 lesson IDs, paired tracks, pronunciation fields, imports/exports, persistence, retry, exam interaction and global assessment-ID checks are authored; the full QA command still needs execution |
+| Executed automated QA / Expo validation | 0% current checkpoint | No current-commit `npm run qa:content` execution or Expo validation is confirmed |
+| Android APK build / install / device validation | 0% current checkpoint | No current APK artifact, installation or physical-device verification is confirmed |
+
+**Progress interpretation:** the app's implementation progress remains about 90%, consistent with the user's prior checkpoint. Verification and release gates are tracked separately and are not subtracted from the implementation percentage. The 600-lesson count and source-level features are confirmed by repository inspection; all estimates above remain estimates until tests and device checks are actually run.
+
+### Latest additional QA work
+- Added a global assessment identity audit covering Serbian and English revision/final questions across A1–C2. It checks 340 questions, level/language markers, and global ID uniqueness so AsyncStorage answer keys cannot silently collide between courses.
+- Commit: `1abb2c225820c9e23337551be17a8855399f438e`.
+- The QA script was updated and committed, but has not been executed. This is a new static assertion, not a passing QA result.
 
 ### Next consolidated batch
-1. Obtain a runnable checkout or CI runner and execute `npm run qa:content`; fix all failures in grouped edits.
-2. Resolve lockfile/dependency reproducibility before enabling CI.
-3. Complete a final grouped source review for exam ID scoping, lesson progress keys, language switching, and reset paths.
-4. Only after source QA is complete, request approval for the APK build stage; then run Android install and device tests.
+1. Continue source-only review of reset/progress state and remaining UI navigation interactions; add regression checks for verified behavior.
+2. Find an available Node execution environment or GitHub runner and run only `npm run qa:content`; fix every reported failure in grouped changes.
+3. Resolve the missing `package-lock.json` and dependency reproducibility before changing CI install behavior.
+4. Keep Expo export and APK build deferred until the source QA stage is complete and the user authorizes the build; then perform Android install/device validation.
