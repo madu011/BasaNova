@@ -58,3 +58,5 @@
 
 - 2026-11-24 — Baseline reconciled to the previously agreed **90% implementation progress**. Release/verification gates are tracked independently and must not reduce the implementation baseline.
 - 2026-11-24 — Added global assessment ID QA for 340 A1–C2 revision/final questions (commit `1abb2c225820c9e23337551be17a8855399f438e`). This adds static coverage; it is not an executed QA pass.
+- 2026-11-24 — Added a persistent cross-chat progress source (`PROJECT_PROGRESS.md`), linked it from README and HANDOFF, and added QA guards to preserve the agreed 90% implementation baseline. Commits: `fad588d3b97d857de3548b08e062b4e1cf96ddb5`, `5876843a3efe06d4230b0a741f40cf0d786d2b1d`, `08fc451858788cfe1ebc1ce223b43ce6a650ecb8`, `981d5eb05d38510c69e5e48c66f223691292e566`.
+- 2026-11-24 — Audited language switching and added source regression guards confirming it preserves lesson answers, checked state, learned words and favourites while resetting only transient A2–C2 exam-submitted flags. Commit: `512a74b7f51dbd1599f44af615d46a86196d8be5`. QA still has not been executed.
