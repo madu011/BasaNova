@@ -70,3 +70,11 @@
 - QA source commits: `d2efee8f453108e3dc8682bcc26a7bfd04d37f86` (initial guard addition) and `c2b7f716ae658116d2edb5d6b5c5518737f1d966` (corrected source matchers after review).
 - These are static source assertions only. The QA command has not been executed; no test pass is claimed. No Expo validation, CI run, APK build or Android device test was started.
 - Overall implementation baseline remains **90%**. This audit added QA coverage but did not justify changing the implementation estimate.
+
+
+## 2026-11-24 — A1 listening retry defect fixed
+- During the detailed retry-control audit, found two A1 listening retry handlers whose computed object keys were missing the closing quote around `-listen`. Corrected both answer-reset and checked-flag-reset keys in `App.js`.
+- Verified the committed source now contains zero malformed key fragments and exactly six correctly formed listening retry answer resets plus six checked-state resets.
+- App fix commit: `71a9004d0718cf68f96d97c838b2c860b4b240b3`. QA guard addition: `845389208de81ff7f85c1fd3a51a926f2eea8da0`; matcher simplification: `6c392a933352b7ccd9b7cdc84c9a5a142f85f1bc`.
+- This was verified by inspecting the committed source text only. `npm run qa:content` and a JSX/JavaScript parser have not been executed, so syntax/runtime status is still unverified.
+- Overall implementation baseline remains **90%**; the fix closes a specific source defect but does not certify the full lesson flow.
