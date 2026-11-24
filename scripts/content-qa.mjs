@@ -154,6 +154,30 @@ for (const match of relativeNamedImports) {
 }
 
 
+// Persistence lifecycle regression guards: local progress must not be overwritten
+// by the initial empty React state before AsyncStorage restore completes.
+const restoreEffectStart = appSource.indexOf('useEffect(()=>{let active=true;(async()=>{try{const raw=await AsyncStorage.getItem("basanova-progress-v1")');
+assert.ok(restoreEffectStart >= 0, "Progress restore must load the versioned AsyncStorage record");
+const restoreEffectEnd = appSource.indexOf('useEffect(()=>{if(!storageReady)return;', restoreEffectStart);
+assert.ok(restoreEffectEnd > restoreEffectStart, "Progress restore must finish before the persistence effect");
+const restoreEffect = appSource.slice(restoreEffectStart, restoreEffectEnd);
+assert.match(restoreEffect, /let active=true/u, "AsyncStorage restore must guard against updates after unmount");
+assert.match(restoreEffect, /finally\{if\(active\)setStorageReady\(true\);\}/u,
+  "Persistence must become ready after restore settles, including recoverable read failures");
+const persistenceEffect = appSource.slice(restoreEffectEnd, appSource.indexOf('const words=language?', restoreEffectEnd));
+assert.match(persistenceEffect, /if\(!storageReady\)return/u,
+  "Initial empty state must never overwrite saved progress before restore completes");
+assert.match(persistenceEffect, /schemaVersion:2/u,
+  "Persisted progress must retain an explicit schema version");
+assert.match(persistenceEffect, /storageWriteQueue\.current=storageWriteQueue\.current\.catch\(\(\)=>\{\}\)\.then\(\(\)=>AsyncStorage\.setItem/u,
+  "AsyncStorage writes must be serialized to prevent stale writes overtaking newer progress");
+assert.match(persistenceEffect, /missionDate:missionDateRef\.current/u,
+  "Daily mission progress must persist its local calendar date");
+assert.match(restoreEffect, /saved\.missionDate===missionDateRef\.current\?cleanMissionIndexes\(saved\.missionDone\):\[\]/u,
+  "Daily mission completion must restore only for the current local date");
+assert.match(persistenceEffect, /\[storageReady,theme,lessonAnswers,lessonChecked,missionDone,xp,learned,translateHistory,language,favoriteWords,adultLanguageAccess,a2ExamSubmitted,b1ExamSubmitted,b2ExamSubmitted,c1ExamSubmitted,c2ExamSubmitted\]/u,
+  "Every persisted learner state field must participate in the save effect dependencies");
+
 // Guard key App.js integrations that are easy to regress without changing lesson data.
 assert.match(appSource, /Object\.values\(COURSE_LESSONS\[language\]\)\.flat\(\)/u,
   "Vocabulary library must aggregate lesson vocabulary from every CEFR level");
