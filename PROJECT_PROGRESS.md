@@ -43,11 +43,13 @@
 - No current APK artifact or Android device validation is recorded.
 - Latest known focused commits:
   - Assessment ID QA: `1abb2c225820c9e23337551be17a8855399f438e`
+  - Language-switch preservation QA: `512a74b7f51dbd1599f44af615d46a86196d8be5`
+  - Canonical progress QA guard: `5876843a3efe06d4230b0a741f40cf0d786d2b1d`
   - Canonical progress correction in HANDOFF: `bf34553de09900c886409028b5272104f2e17fe1`
 
 ## Remaining work — ordered
 
-1. Finish source audit of learner progress, exam restart, language switching, tab/navigation state and local reset behavior; add regression assertions for real behavior.
+1. Finish the remaining source audit of exam answer-key consistency, lesson completion/restart behavior, tab/navigation state and local reset paths. Language-switch preservation has been source-audited and regression guards added.
 2. Audit lesson/vocabulary content for duplicates, missing Sinhala meanings/readings, translation mismatches and incorrect answer keys; fix verified issues in grouped edits.
 3. Resolve dependency lockfile and reproducible install configuration without introducing an unsafe `npm ci` workflow.
 4. Execute `npm run qa:content` in a real Node checkout/runner; fix failures and record exact command, commit and result.
