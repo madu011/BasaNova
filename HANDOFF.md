@@ -1592,3 +1592,18 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 2. Continue the content quality audit (duplicate vocabulary, Sinhala meanings/readings, target-language examples and answer correctness), grouping fixes by level/language.
 3. Resolve package lockfile/dependency reproducibility; then run `npm run qa:content` in a real Node environment and record actual results.
 4. Keep APK build deferred until source QA is complete and user authorizes it.
+
+
+## 2026-11-24 follow-up — lesson progress and navigation contract audit
+- Inspected `courseLessonProgress` in `App.js`. Completion is correctly gated on every practice answer being confirmed and correct, plus confirmed/correct listening where that lesson has a listening item. The memo recalculates when language, answers or checked flags change.
+- Inspected the bottom navigation: seven unique primary tabs are present in the intended order, each has a matching screen branch, and the Serbian alphabet screen remains reachable from the home screen. No confirmed navigation defect was found in this pass.
+- Added static QA guards for those exact navigation and lesson-progress contracts. Commits: `d2efee8f453108e3dc8682bcc26a7bfd04d37f86` and matcher correction `c2b7f716ae658116d2edb5d6b5c5518737f1d966`.
+- Updated the canonical progress log in commit `8e25a94740acf5325016c0da77b162e02eb3668c`.
+- Important: source assertions have only been authored and reviewed; `npm run qa:content` has not been executed. Do not claim the new checks passed. No CI, Expo validation, APK build, install or Android device test was run.
+- Overall implementation baseline remains 90%.
+
+### Next consolidated batch
+1. Extend duplicate/editorial checks to A1–B2 lesson vocabulary and assessment material without flagging intentional cross-lesson reuse.
+2. Continue checking the content question/answer pairs and pronunciation/meaning alignment, correcting only issues confirmed from source data.
+3. Resolve dependency-lock reproducibility and obtain a real Node execution path for `npm run qa:content`; record actual failures/passes rather than inferred results.
+4. Keep APK build deferred until source work is complete and the user explicitly authorizes it.
