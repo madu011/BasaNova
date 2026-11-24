@@ -1,5 +1,10 @@
 # BasaNova
 
+## Cross-chat progress source of truth
+
+For the canonical implementation percentage, workstream breakdown, verified repository facts and next tasks, read [PROJECT_PROGRESS.md](./PROJECT_PROGRESS.md) first. Keep implementation progress separate from QA/build/device release gates; do not lower the agreed 90% baseline just because release validation is pending.
+
+
 ## Current project snapshot — 2026-11-23
 
 - **Learning content authoring:** 50 Serbian + 50 English lessons in each of A1, A2, B1, B2, C1 and C2 (600 authored lesson records total). This is content completion, not CEFR certification.
