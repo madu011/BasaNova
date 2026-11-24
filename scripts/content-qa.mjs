@@ -124,7 +124,7 @@ const serbianLessons = await loadModule(lessonFiles.serbian);
 const englishLessons = await loadModule(lessonFiles.english);
 function validateLessonNumbering(label, lessons) {
   const numbers = lessons.map(lesson => {
-    const match = lesson.title.match(/(?:පාඩම|Lesson)\s*(\d+)/u);
+    const match = lesson.title.match(/(?:පාඩම|Lesson|Lekcija)\s*(\d+)/u);
     assert.ok(match, `${lesson.id}: title must include a lesson number`);
     return Number(match[1]);
   });
