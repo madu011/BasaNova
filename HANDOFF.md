@@ -1536,3 +1536,27 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 1. Continue source-only audit of lesson progress and persistence boundaries, including the correctness of restore/write behavior after language switching and app resume.
 2. Review remaining assessment and lesson UI state interactions for cross-language leakage and incomplete reset paths; add regression checks for verified behavior.
 3. Once an execution environment is available, run only `npm run qa:content`, fix every reported issue, and update this handoff. Do not run Expo export or APK build until the user explicitly authorizes the final build stage.
+
+## 2026-11-24 — consolidated QA and curriculum progress batch
+- Added a grouped persistence regression suite to `scripts/content-qa.mjs`: restore-before-save ordering, unmount guard, readiness after restore settles, schema version, serialized AsyncStorage writes, mission-date validation, and complete save-effect dependency coverage.
+- Expanded paired-course checks across A2–C2, including explicit language prefixes and sequential lesson numbering in Sinhala, English, or Serbian.
+- Added a whole-curriculum identity gate requiring exactly 600 lessons across Serbian/English A1–C2, globally unique lesson IDs, and explicit `sr-` / `en-` prefixes.
+- Latest commits in this batch: `962382c74116efbd2e4ae77abff34f1fd629529e` (persistence regression guards) and `4baaa7a364027fd627e8732f1de5df5c837fd065` (global 600-lesson identity audit).
+- Confirmed `package.json` defines `npm run qa:content`. A `package-lock.json` was not found on `main`, so do not create a CI workflow using `npm ci` until lockfile status is resolved.
+- These are source-level QA additions only. The QA script has not been executed in a Node checkout; assertions are not marked passed. No Expo build or Android test was run.
+
+### Progress checkpoint (estimates; not test pass claims)
+| Area | Progress |
+|---|---:|
+| Serbian/English curriculum source coverage (A1–C2) | 100% |
+| Core app feature implementation in source | 90% |
+| Static QA/regression coverage | 85% |
+| Executed QA and runtime verification | 0% |
+| Android APK build and device validation | 0% |
+| Overall release readiness | 65% |
+
+### Next consolidated batch
+1. Obtain a runnable checkout or CI runner and execute `npm run qa:content`; fix all failures in grouped edits.
+2. Resolve lockfile/dependency reproducibility before enabling CI.
+3. Complete a final grouped source review for exam ID scoping, lesson progress keys, language switching, and reset paths.
+4. Only after source QA is complete, request approval for the APK build stage; then run Android install and device tests.
