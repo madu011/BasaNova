@@ -1607,3 +1607,17 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 2. Continue checking the content question/answer pairs and pronunciation/meaning alignment, correcting only issues confirmed from source data.
 3. Resolve dependency-lock reproducibility and obtain a real Node execution path for `npm run qa:content`; record actual failures/passes rather than inferred results.
 4. Keep APK build deferred until source work is complete and the user explicitly authorizes it.
+
+
+## 2026-11-24 follow-up — A1 listening retry defect fixed
+- The detailed retry audit found two malformed computed keys in A1 listening retry handlers: the `-listen` key string lacked its closing quote in both the selected-answer reset and checked-state reset.
+- Corrected both handlers in `App.js`. Verified against the committed file: malformed fragments = 0; correctly formed listening retry answer resets = 6; correctly formed checked-state resets = 6.
+- App fix: `71a9004d0718cf68f96d97c838b2c860b4b240b3`. QA regression guard: `845389208de81ff7f85c1fd3a51a926f2eea8da0`; simplified the guard's count matcher: `6c392a933352b7ccd9b7cdc84c9a5a142f85f1bc`. Progress log update: `d9b22255a065db321648fb455f231a6597048896`.
+- Source text was inspected after commit. Do not claim the app parses or the QA script passes: no Node/JSX parser or `npm run qa:content` execution has been performed. No build or device test was started.
+- Implementation baseline remains 90%.
+
+### Next consolidated batch
+1. Review similar computed-key expressions throughout the lesson and listening UI for malformed quote/bracket patterns.
+2. Expand the content editorial audit to A1–B2 while avoiding intentional cross-lesson vocabulary reuse.
+3. Establish a real Node execution path for `npm run qa:content` and record actual output.
+4. Keep Expo/APK work deferred until source review and QA execution are complete and the user authorizes the build.
