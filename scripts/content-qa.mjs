@@ -654,6 +654,38 @@ validateQuestions("Serbian C2 mixed revision", c2.SERBIAN_C2_MIXED_REVISION, 10)
 validateQuestions("English C2 mixed revision", c2.ENGLISH_C2_MIXED_REVISION, 10);
 validateQuestions("Serbian C2 final exam", c2.SERBIAN_C2_FINAL_EXAM, 20, { pronunciation: true });
 validateQuestions("English C2 final exam", c2.ENGLISH_C2_FINAL_EXAM, 20, { pronunciation: true });
+
+// Global assessment identity audit: progress keys are shared in AsyncStorage,
+// so every exam/revision question ID must be unique across levels and languages.
+const allAssessmentGroups = [
+  ["Serbian A1", "A1", [...a1.SERBIAN_A1_FINAL_EXAM]],
+  ["English A1", "A1", [...a1.ENGLISH_A1_FINAL_EXAM]],
+  ["Serbian A2", "A2", [...a2Assessments.SERBIAN_A2_MIXED_REVISION, ...a2Assessments.SERBIAN_A2_FINAL_EXAM]],
+  ["English A2", "A2", [...a2Assessments.ENGLISH_A2_MIXED_REVISION, ...a2Assessments.ENGLISH_A2_FINAL_EXAM]],
+  ["Serbian B1", "B1", [...b1Assessments.SERBIAN_B1_MIXED_REVISION, ...b1Assessments.SERBIAN_B1_FINAL_EXAM]],
+  ["English B1", "B1", [...b1Assessments.ENGLISH_B1_MIXED_REVISION, ...b1Assessments.ENGLISH_B1_FINAL_EXAM]],
+  ["Serbian B2", "B2", [...b2Assessments.SERBIAN_B2_MIXED_REVISION, ...b2Assessments.SERBIAN_B2_FINAL_EXAM]],
+  ["English B2", "B2", [...b2Assessments.ENGLISH_B2_MIXED_REVISION, ...b2Assessments.ENGLISH_B2_FINAL_EXAM]],
+  ["Serbian C1", "C1", [...c1.SERBIAN_C1_MIXED_REVISION, ...c1.SERBIAN_C1_FINAL_EXAM]],
+  ["English C1", "C1", [...c1.ENGLISH_C1_MIXED_REVISION, ...c1.ENGLISH_C1_FINAL_EXAM]],
+  ["Serbian C2", "C2", [...c2.SERBIAN_C2_MIXED_REVISION, ...c2.SERBIAN_C2_FINAL_EXAM]],
+  ["English C2", "C2", [...c2.ENGLISH_C2_MIXED_REVISION, ...c2.ENGLISH_C2_FINAL_EXAM]],
+];
+const allAssessmentIds = new Set();
+let assessmentQuestionCount = 0;
+for (const [label, level, questions] of allAssessmentGroups) {
+  assert.equal(questions.length, 30, `${label}: expected 10 revision and 20 final questions`);
+  const languageCode = label.startsWith("Serbian") ? "sr" : "en";
+  for (const question of questions) {
+    assert.ok(question.id.includes(level.toLowerCase()), `${label}: question ID must include ${level}: ${question.id}`);
+    assert.ok(question.id.includes(languageCode), `${label}: question ID must include language ${languageCode}: ${question.id}`);
+    assert.ok(!allAssessmentIds.has(question.id), `Duplicate assessment ID across courses: ${question.id}`);
+    allAssessmentIds.add(question.id);
+    assessmentQuestionCount++;
+  }
+}
+assert.equal(assessmentQuestionCount, 340, "All six levels must expose 340 uniquely identified revision/final assessment questions");
+
 for (const [label, lessons] of [["Serbian C2", courseLessons["Serbian C2"]], ["English C2", courseLessons["English C2"]]]) {
   validateBalancedAnswerPositions(`${label} lesson practice`, lessons.flatMap(lesson => lesson.practice));
   validateBalancedAnswerPositions(`${label} lesson listening`, lessons.map(lesson => lesson.listeningPractice));
