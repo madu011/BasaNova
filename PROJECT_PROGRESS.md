@@ -62,3 +62,11 @@
 - 2026-11-24 — Added global assessment ID QA for 340 A1–C2 revision/final questions (commit `1abb2c225820c9e23337551be17a8855399f438e`). This adds static coverage; it is not an executed QA pass.
 - 2026-11-24 — Added a persistent cross-chat progress source (`PROJECT_PROGRESS.md`), linked it from README and HANDOFF, and added QA guards to preserve the agreed 90% implementation baseline. Commits: `fad588d3b97d857de3548b08e062b4e1cf96ddb5`, `5876843a3efe06d4230b0a741f40cf0d786d2b1d`, `08fc451858788cfe1ebc1ce223b43ce6a650ecb8`, `981d5eb05d38510c69e5e48c66f223691292e566`.
 - 2026-11-24 — Audited language switching and added source regression guards confirming it preserves lesson answers, checked state, learned words and favourites while resetting only transient A2–C2 exam-submitted flags. Commit: `512a74b7f51dbd1599f44af615d46a86196d8be5`. QA still has not been executed.
+
+
+## 2026-11-24 — lesson progress and navigation contract audit
+- Audited the live `courseLessonProgress` calculation in `App.js`: a lesson is counted only when every practice item is both checked and correct, and its listening item (when present) is also checked and correct. The memo dependencies include language, answer map and checked map, so percentages recalculate as the learner changes course or answers.
+- Audited the seven bottom-navigation entries and the home-screen route to the Serbian alphabet. No source defect was confirmed in these paths; added regression assertions for the exact seven unique tab IDs/order, a render branch for each tab, the alphabet entry point, and the lesson-progress completion/dependency contract.
+- QA source commits: `d2efee8f453108e3dc8682bcc26a7bfd04d37f86` (initial guard addition) and `c2b7f716ae658116d2edb5d6b5c5518737f1d966` (corrected source matchers after review).
+- These are static source assertions only. The QA command has not been executed; no test pass is claimed. No Expo validation, CI run, APK build or Android device test was started.
+- Overall implementation baseline remains **90%**. This audit added QA coverage but did not justify changing the implementation estimate.
