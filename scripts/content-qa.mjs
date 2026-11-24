@@ -529,6 +529,12 @@ validateC1Assessment("English C1 final",c1.ENGLISH_C1_FINAL_EXAM,20,"English",tr
 const a1 = await loadModule(files.a1);
 validateQuestions("Serbian A1 final exam", a1.SERBIAN_A1_FINAL_EXAM, 20, { pronunciation: true });
 validateQuestions("English A1 final exam", a1.ENGLISH_A1_FINAL_EXAM, 20, { pronunciation: true });
+assert.ok(a1.SERBIAN_A1_FINAL_EXAM.every(question => question.id.startsWith("sr-a1-final-")),
+  "Serbian A1 exam IDs must be language-scoped to prevent progress leaking into English");
+assert.ok(a1.ENGLISH_A1_FINAL_EXAM.every(question => question.id.startsWith("en-a1-final-")),
+  "English A1 exam IDs must be language-scoped to prevent progress leaking into Serbian");
+assert.equal(new Set([...a1.SERBIAN_A1_FINAL_EXAM, ...a1.ENGLISH_A1_FINAL_EXAM].map(question => question.id)).size, 40,
+  "Serbian and English A1 exam IDs must be globally unique");
 
 
 
@@ -719,6 +725,8 @@ function validatePairedTrack(level) {
       assert.ok(match, `${lesson.id}: title must include a lesson number`);
       return Number(match[1]);
     };
+    assert.match(sr.id, /^sr-/u, `${level}: Serbian lesson IDs must be language-scoped`);
+    assert.match(en.id, /^en-/u, `${level}: English lesson IDs must be language-scoped`);
     assert.equal(sr.id.replace(/^sr-/u, ""), en.id.replace(/^en-/u, ""),
       `${level}: paired lesson IDs differ at position ${index + 1}`);
     assert.equal(lessonNumber(sr), index + 1,
