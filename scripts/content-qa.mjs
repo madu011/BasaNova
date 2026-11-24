@@ -691,7 +691,7 @@ function validatePairedTrack(level) {
     const sr = serbian[index];
     const en = english[index];
     const lessonNumber = lesson => {
-      const match = lesson.title.match(/(?:පාඩම|Lesson|Lekcija)\\s*(\\d+)/u);
+      const match = lesson.title.match(/(?:පාඩම|Lesson|Lekcija)\s*(\d+)/u);
       assert.ok(match, `${lesson.id}: title must include a lesson number`);
       return Number(match[1]);
     };
