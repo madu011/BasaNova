@@ -1577,3 +1577,18 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 2. Find an available Node execution environment or GitHub runner and run only `npm run qa:content`; fix every reported failure in grouped changes.
 3. Resolve the missing `package-lock.json` and dependency reproducibility before changing CI install behavior.
 4. Keep Expo export and APK build deferred until the source QA stage is complete and the user authorizes the build; then perform Android install/device validation.
+
+
+## 2026-11-24 — cross-chat progress persistence and language-switch audit
+- Created `PROJECT_PROGRESS.md` as the canonical source of truth for implementation progress across new chats. It locks the agreed implementation baseline at 90%, tracks release gates separately, and defines the resume/update rules.
+- Linked the canonical file from README and prepended a continuation rule to this handoff.
+- Added QA guards to ensure the canonical baseline remains 90% and release validation is never substituted for implementation progress.
+- Audited `choose(lang)` and the language-change effect in `App.js`. Added source regression assertions that switching languages does not clear lesson answers, checked answers, learned words or favourites, while transient A2–C2 exam submitted flags reset.
+- Commits: `fad588d3b97d857de3548b08e062b4e1cf96ddb5`, `5876843a3efe06d4230b0a741f40cf0d786d2b1d`, `08fc451858788cfe1ebc1ce223b43ce6a650ecb8`, `981d5eb05d38510c69e5e48c66f223691292e566`, `512a74b7f51dbd1599f44af615d46a86196d8be5`, and the progress log update above.
+- Important: these are source assertions only. `npm run qa:content` remains unexecuted; no Expo validation, APK build or Android device test has been run.
+
+### Next consolidated batch
+1. Audit exam answer-key consistency and lesson completion/reset state against the actual source IDs and runtime key construction.
+2. Continue the content quality audit (duplicate vocabulary, Sinhala meanings/readings, target-language examples and answer correctness), grouping fixes by level/language.
+3. Resolve package lockfile/dependency reproducibility; then run `npm run qa:content` in a real Node environment and record actual results.
+4. Keep APK build deferred until source QA is complete and user authorizes it.
