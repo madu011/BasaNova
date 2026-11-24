@@ -355,6 +355,19 @@ assert.ok(lessonProgressSource.includes('lessonChecked[lesson.id+"-listen"]===tr
 assert.ok(lessonProgressSource.includes("},[language,lessonChecked,lessonAnswers]);"),
   "Lesson completion percentages must recalculate after language, answer or check-state changes");
 
+// Listening retry actions must clear both the selected answer and checked flag.
+// Keep the computed property key fully quoted; malformed keys can break the JSX
+// module or leave a failed listening attempt locked.
+assert.ok(!appSource.includes('lesson.id+"-listen]:undefined'),
+  "Listening retry must not contain an unterminated computed-key string");
+assert.ok(!appSource.includes('lesson.id+"-listen]:false'),
+  "Listening retry checked-state reset must use a valid computed key");
+assert.equal((appSource.match(/lesson\\.id\\+"-listen"\\]:undefined/gu) ?? []).length, 6,
+  "All six listening retry actions must clear the selected answer");
+assert.equal((appSource.match(/lesson\\.id\\+"-listen"\\]:false/gu) ?? []).length, 6,
+  "All six listening retry actions must clear the checked flag");
+
+
 assert.match(appSource, /accessibilityLabel=\{theme==="dark"\?"ආලෝක තේමාව සක්‍රිය කරන්න":"අඳුරු තේමාව සක්‍රිය කරන්න"\}/u,
   "Theme toggle must expose its action to screen readers");
 assert.match(appSource, /accessibilityLabel="Serbian පාඨමාලාව තෝරන්න"/u,
