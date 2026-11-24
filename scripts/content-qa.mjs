@@ -362,9 +362,9 @@ assert.ok(!appSource.includes('lesson.id+"-listen]:undefined'),
   "Listening retry must not contain an unterminated computed-key string");
 assert.ok(!appSource.includes('lesson.id+"-listen]:false'),
   "Listening retry checked-state reset must use a valid computed key");
-assert.equal((appSource.match(/lesson\\.id\\+"-listen"\\]:undefined/gu) ?? []).length, 6,
+assert.equal(appSource.split('lesson.id+"-listen"]:undefined').length - 1, 6,
   "All six listening retry actions must clear the selected answer");
-assert.equal((appSource.match(/lesson\\.id\\+"-listen"\\]:false/gu) ?? []).length, 6,
+assert.equal(appSource.split('lesson.id+"-listen"]:false').length - 1, 6,
   "All six listening retry actions must clear the checked flag");
 
 
