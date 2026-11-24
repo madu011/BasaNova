@@ -1,3 +1,7 @@
+# Cross-chat continuation rule
+
+**Always read `PROJECT_PROGRESS.md` first.** It is the canonical progress source and preserves the agreed 90% implementation baseline across chats. Keep release readiness separate. Update `PROJECT_PROGRESS.md` and this handoff together after meaningful committed work; never claim tests/builds passed without execution.
+
 # BasaNova — Persistent Project Handoff
 
 > **Read this file first at the start of every new chat/session before changing code.**
