@@ -1524,3 +1524,15 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 - Static text checks on the latest fetched source confirmed the expected sanitizer, wrapper, QA guard and documentation markers. This is not a JavaScript parse or an execution of `npm run qa:content`.
 - Remaining release gates are deliberately not marked complete: execute automated content QA; run dependency install/Expo validation; inspect CI status; produce the final Android APK; install it on an Android device; and test navigation, lesson/retry/exam flows, AsyncStorage migration, TalkBack, TTS/online voice fallback, offline/network errors and screen sizes.
 - User previously requested no APK build until all source work is complete. Continue to honor that; request build authorization only after the final source review is genuinely complete.
+
+## 2026-11-24 follow-up — paired curriculum QA coverage
+- Extended `scripts/content-qa.mjs` so the paired-track consistency audit now covers A2, B1, B2, C1 and C2 for both Serbian and English, rather than checking paired IDs/coverage/meanings only in C1/C2.
+- The shared validator now checks 50 lessons per language, matching Serbian/English lesson ID suffixes at every position, continuous lesson numbering (recognizing Sinhala `පාඩම`, English `Lesson`, and Serbian `Lekcija` labels), equal vocabulary/practice counts, matching listening coverage, and matching Sinhala meanings for paired vocabulary entries.
+- Commits: `f372891131792fad24be05fcf34afdaf6a3cbf2e` (validator extension), `80dd0b953f29bc6a6533980464a97f4ff33397ed` (regex correction), and `773884da73a96605c7807740e8c44c302523d62b` (Serbian `Lekcija` title support).
+- Verified by fetching the committed source and inspecting the final validator text. The QA script has **not** been executed; do not claim the new assertions passed against all lesson data until `npm run qa:content` is run in a checkout/runner.
+- No Expo export, CI workflow, APK build, installation, or Android device test was run. Existing manual-only build restriction remains in force.
+
+### Next exact task
+1. Continue source-only audit of lesson progress and persistence boundaries, including the correctness of restore/write behavior after language switching and app resume.
+2. Review remaining assessment and lesson UI state interactions for cross-language leakage and incomplete reset paths; add regression checks for verified behavior.
+3. Once an execution environment is available, run only `npm run qa:content`, fix every reported issue, and update this handoff. Do not run Expo export or APK build until the user explicitly authorizes the final build stage.
