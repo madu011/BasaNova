@@ -747,5 +747,22 @@ function validatePairedTrack(level) {
 }
 for (const level of ["A2", "B1", "B2", "C1", "C2"]) validatePairedTrack(level);
 
+// Whole-curriculum identity audit: lesson IDs must be unique across both languages
+// and all six CEFR levels, not merely unique inside an individual file.
+const allCourseLessons = [
+  ...serbianLessons.SERBIAN_A1_LESSONS,
+  ...englishLessons.ENGLISH_A1_LESSONS,
+  ...Object.values(courseLessons).flat(),
+];
+assert.equal(allCourseLessons.length, 600,
+  "Complete curriculum must contain exactly 600 lessons across two languages and six CEFR levels");
+const allLessonIds = allCourseLessons.map(lesson => lesson.id);
+assert.equal(new Set(allLessonIds).size, allLessonIds.length,
+  "Lesson IDs must be globally unique across every language and CEFR level");
+for (const lesson of allCourseLessons) {
+  assert.ok(typeof lesson.id === "string" && /^(?:sr|en)-/u.test(lesson.id),
+    `${lesson.id}: lesson ID must carry an explicit language prefix`);
+}
+
 console.log("Content QA passed.");
 console.log({ checkedAppImports: checkedAppImports.size, serbianLessonStats, englishLessonStats, courseStats, serbianC1Stats, englishC1Stats });
