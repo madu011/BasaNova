@@ -1,6 +1,17 @@
 import { readFile } from "node:fs/promises";
 import assert from "node:assert/strict";
 
+
+// Cross-chat progress integrity: the canonical implementation baseline must not
+// drift because release gates (QA/build/device testing) are tracked separately.
+const canonicalProgress = await readFile(new URL("../PROJECT_PROGRESS.md", import.meta.url), "utf8");
+assert.match(canonicalProgress, /Canonical overall implementation baseline: \*\*90%\*\*/u,
+  "Cross-chat implementation baseline must remain at the agreed 90% until verified implementation work changes it");
+assert.match(canonicalProgress, /Do not lower, recalculate, or replace this baseline/u,
+  "Release readiness must never be substituted for implementation progress");
+assert.match(canonicalProgress, /Do not report tests as passed unless they were actually executed/u,
+  "Progress handoff must distinguish authored QA from executed QA");
+
 const files = {
   a1: "a1FinalExams.js",
   c2: "c2FinalExams.js",
