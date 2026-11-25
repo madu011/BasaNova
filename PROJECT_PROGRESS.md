@@ -101,3 +101,12 @@
 - Build is configured to upload `basanova-android-debug-apk` as a GitHub Actions artifact (14-day retention). A successful artifact has not yet been observed/downloaded in this session; do not provide a fabricated APK link or claim build success.
 - The GitHub connector's commit-run lookup returned no runs because that endpoint only returns pull-request-triggered runs; it does not confirm that the push-triggered workflow failed or succeeded.
 - No local Expo/Gradle build was run. The actual QA and APK job outcomes remain pending external CI execution.
+
+
+## 2026-11-25 — bidirectional translation and lesson-audio audit
+- Confirmed repository visibility is `public` through the GitHub repository API.
+- Updated `App.js` so the translator can switch between Sinhala → Serbian (`si|sr`) and Serbian → Sinhala (`sr|si`), with direction-aware translation history and language-appropriate output handling. Commits: `969a4fdc71106c544b1b46d48115fa4a96b8dcc2`, `aeb276d7b1921f3ac0ea314c1847c5c3519908e9`.
+- Static source review found individual word playback in the A1–C2 lesson renderers (nine `speak(item.word, ...)` call sites) and existing sentence/example playback. Added QA assertions for both translator directions and vocabulary word playback: `584ac09745fbb081b6366f1770de906568e9effd`.
+- These are source changes and static inspection only. The newly triggered GitHub Actions runs have not yet completed; no QA pass or APK build success is claimed.
+- The previously generated BasaNova icon image is not available as a repository file in the current GitHub checkout. Before wiring the exact same image into Android launcher/adaptive icon and in-app branding, request that the user upload the generated icon image as a chat attachment.
+- Next: obtain the exact icon image attachment; inspect/align app icon, splash and in-app brand usage; check latest Actions runs and fix actual QA/build failures; update progress only after verified implementation and release checks.
