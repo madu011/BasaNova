@@ -15,6 +15,17 @@
 6. Preserve the 90% baseline between chats. Raise it only when concrete implementation work is completed and committed. Never lower it due to unexecuted QA, APK build, or device validation.
 7. Do not start Expo export or APK build until source work and QA are complete and the user authorizes that stage.
 
+## 2026-11-25 — Free-first cleanup and build handoff
+
+- Removed the optional remote Google voice endpoint from `App.js`; Serbian and English pronunciation now use only device-installed voices through `expo-speech`.
+- Removed unused `expo-av` and `expo-file-system` dependencies. No payment gateway, subscription, in-app purchase, billing SDK, cloud AI API, or paid TTS integration is included in the current app source.
+- Kept the Sinhala-to-Serbian MyMemory translator because the current integration uses its public endpoint without a paid API key. It requires internet, sends submitted text to that external service, and may be rate-limited; users are warned not to submit confidential text.
+- Added QA guards that fail if paid voice endpoints, billing SDKs, or removed audio dependencies are reintroduced.
+- Updated README and BUILD documentation to match the actual GitHub Actions workflow: content QA plus standalone installable Android **debug APK** artifact (`basanova-android-debug-apk`, 14-day retention).
+- Commits: `8d63fee1540b54c7305446859f1fdd5f66b18ab4` (App.js), `cfd849785950ea1581ae4d5d245cee00fbc4b056` (package.json), `1051912332026c3a089b8e7e4117297d49484b9b` (QA guards), `1c154d1351e5cd5f3ecdb4a260e947a81024713b` (README), `87612f418b3d71509e8a06f57df0f094948bd8bc` (BUILD.md).
+- Source inspection confirms the remote voice endpoint and its packages are removed. The QA workflow was triggered by the QA-script push path, but the current run status and artifact are not accessible through the available GitHub connection in this session. No QA pass or APK build success is claimed until the run/artifact is observed.
+- Overall implementation baseline remains **90%**; QA, Expo validation, APK artifact and physical-device checks remain separate release gates.
+
 ## Overall implementation progress
 
 **90% — confirmed project baseline, not a release certification score.**
