@@ -1,72 +1,77 @@
-name: Android APK build
+name: BasaNova Android APK
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - "App.js"
+      - "app.json"
+      - "package.json"
+      - "scripts/**"
+      - "*.js"
+      - ".github/workflows/android-apk.yml"
   workflow_dispatch:
 
 concurrency:
-  group: basanova-apk-${{ github.ref }}
+  group: basanova-android-apk-${{ github.ref }}
   cancel-in-progress: true
 
 permissions:
   contents: read
 
 jobs:
-  build-apk:
-    name: Build installable Android APK
+  content-qa:
+    name: Content and source QA
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 20
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 22
-
-      - name: Run lesson assessment content QA
+      - name: Generate dependency lock for clean CI install
+        run: npm install --package-lock-only --ignore-scripts --no-audit --no-fund
+      - name: Install JavaScript dependencies
+        run: npm ci --no-audit --no-fund
+      - name: Run content and regression QA
         run: npm run qa:content
 
+  android-debug-apk:
+    name: Build installable Android debug APK
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
       - name: Set up Java
         uses: actions/setup-java@v4
         with:
           distribution: temurin
-          java-version: '17'
-
-      - name: Confirm preinstalled Android SDK
-        run: |
-          echo "ANDROID_HOME=$ANDROID_HOME"
-          test -d "$ANDROID_HOME/platform-tools"
-          test -d "$ANDROID_HOME/build-tools"
-
+          java-version: "17"
       - name: Generate dependency lock for clean CI install
-        run: npm install --package-lock-only --ignore-scripts
-
+        run: npm install --package-lock-only --ignore-scripts --no-audit --no-fund
       - name: Install JavaScript dependencies
-        run: npm ci
-
-      - name: Check Expo package compatibility
+        run: npm ci --no-audit --no-fund
+      - name: Check Expo dependency compatibility
         run: npx expo install --check
-
-      - name: Export Android JavaScript bundle
-        env:
-          EXPO_PUBLIC_VOICE_API_URL: ${{ vars.EXPO_PUBLIC_VOICE_API_URL }}
-        run: npx expo export --platform android
-
       - name: Generate native Android project
         run: npx expo prebuild --platform android --no-install --clean
-
-      - name: Build standalone release APK with embedded JavaScript bundle
+      - name: Build signed debug APK
         working-directory: android
         run: |
           chmod +x ./gradlew
-          ./gradlew assembleRelease
-          test -s app/build/outputs/apk/release/app-release.apk
-
-      - name: Upload standalone release APK
+          ./gradlew --no-daemon assembleDebug
+          test -s app/build/outputs/apk/debug/app-debug.apk
+      - name: Upload installable APK
         uses: actions/upload-artifact@v4
         with:
-          name: basanova-android-release-apk
-          path: android/app/build/outputs/apk/release/app-release.apk
+          name: basanova-android-debug-apk
+          path: android/app/build/outputs/apk/debug/app-debug.apk
           if-no-files-found: error
           retention-days: 14
