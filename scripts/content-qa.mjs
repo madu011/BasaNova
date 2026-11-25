@@ -150,6 +150,15 @@ function validateLessonNumbering(label, lessons) {
 // and to an actual named export. This catches missing files/export-name drift
 // before Expo bundling is attempted.
 const appSource = await readFile(new URL("../App.js", import.meta.url), "utf8");
+// No paid cloud speech backend or billing SDK is part of the free-first app.
+// Device TTS remains available; the optional remote voice endpoint is deliberately removed.
+assert.doesNotMatch(appSource, /EXPO_PUBLIC_VOICE_API_URL|GOOGLE_TTS_ENDPOINT|expo-av|expo-file-system|RevenueCat|Stripe|Purchases|BillingClient|react-native-iap/iu,
+  "App.js must not depend on a paid cloud-voice endpoint or billing integration");
+const packageManifest = JSON.parse(await readFile(new URL("../package.json", import.meta.url), "utf8"));
+for (const dependency of ["expo-av", "expo-file-system", "react-native-iap", "react-native-purchases", "stripe", "@stripe/stripe-react-native"]) {
+  assert.equal(packageManifest.dependencies?.[dependency], undefined, `Paid/unused integration dependency must remain absent: ${dependency}`);
+}
+
 const relativeNamedImports = [...appSource.matchAll(/import\s*\{([\s\S]*?)\}\s*from\s*["']\.\/([^"']+)["']/gu)];
 assert.ok(relativeNamedImports.length > 0, "App.js: no relative named imports were discovered");
 const checkedAppImports = new Set();
