@@ -1,3 +1,36 @@
+# Latest continuation checkpoint — 2026-11-25
+
+The user has explicitly asked to remove potentially paid integrations, complete remaining work, and build the Android app. Continue from this checkpoint, not the older historical source-only instructions below.
+
+## Current free-first implementation
+- `App.js` no longer contains the optional `EXPO_PUBLIC_VOICE_API_URL` / remote Google TTS path. All word and sentence audio now uses device speech through `expo-speech`.
+- `expo-av` and `expo-file-system` have been removed from `package.json`; they were only needed by that remote audio path.
+- There is no subscription, in-app purchase, payment gateway, billing SDK, paid AI API, or cloud TTS SDK in the current app.
+- The Sinhala-to-Serbian translator still calls the public MyMemory endpoint without a paid API key. It requires internet, sends submitted text externally and may be rate-limited. The app must not imply this service is unlimited or private.
+- QA now asserts that the removed cloud voice path and payment/billing dependencies stay absent.
+- README and BUILD.md describe the actual debug APK workflow and service limits.
+
+## Latest commits
+- `8d63fee1540b54c7305446859f1fdd5f66b18ab4` — remove remote voice backend and use device TTS only.
+- `cfd849785950ea1581ae4d5d245cee00fbc4b056` — remove unused audio dependencies.
+- `1051912332026c3a089b8e7e4117297d49484b9b` — add QA guards for paid voice/billing integrations.
+- `1c154d1351e5cd5f3ecdb4a260e947a81024713b` — update README.
+- `87612f418b3d71509e8a06f57df0f094948bd8bc` — correct BUILD.md.
+
+## Build / verification status
+- `.github/workflows/android-apk.yml` is push-triggered for relevant source changes and has separate content-QA and Android debug APK jobs.
+- The QA-script commit above matches the workflow path filter and should trigger CI. Available GitHub tools did not expose the push-triggered run list; the run result and APK artifact have not yet been verified.
+- Do not claim QA passed or APK built until a successful run and artifact are observed. APK artifact name: `basanova-android-debug-apk`; APK path in artifact: `app-debug.apk`; retention: 14 days.
+- Overall implementation baseline remains 90%. Keep this separate from QA/build/device validation.
+
+## Next actions
+1. Check the latest GitHub Actions run at `https://github.com/madu011/BasaNova/actions/workflows/android-apk.yml`; inspect QA and Android build jobs, fix any reported failures and rerun as needed.
+2. When artifact exists, download it and provide the actual APK to the user if the connector exposes it. Never invent a sandbox path or artifact URL.
+3. Continue static review of remaining App.js and curriculum data while CI runs. Preserve all paired Serbian/English A1–C2 content and learner progress.
+4. Physical Android install/startup validation still requires the user's device; clearly identify any checks the assistant cannot perform remotely.
+
+---
+
 # Cross-chat continuation rule
 
 **Always read `PROJECT_PROGRESS.md` first.** It is the canonical progress source and preserves the agreed 90% implementation baseline across chats. Keep release readiness separate. Update `PROJECT_PROGRESS.md` and this handoff together after meaningful committed work; never claim tests/builds passed without execution.
