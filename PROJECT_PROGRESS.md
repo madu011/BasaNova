@@ -26,6 +26,8 @@
 - Source inspection confirms the remote voice endpoint and its packages are removed. The QA workflow was triggered by the QA-script push path, but the current run status and artifact are not accessible through the available GitHub connection in this session. No QA pass or APK build success is claimed until the run/artifact is observed.
 - Overall implementation baseline remains **90%**; QA, Expo validation, APK artifact and physical-device checks remain separate release gates.
 
+- 2026-11-25 CI retry check: GitHub Actions run [45707505028](https://github.com/madu011/BasaNova/actions/runs/45707505028) was retried once. Both jobs again terminated before runner allocation (`runner_id: 0`, no steps executed); this is an infrastructure/quota/runner-availability failure, not evidence that the QA or APK build passed or failed on source. No artifact exists from this run. The current source was statically inspected for the removed voice endpoint and imports; actual Node QA/Expo/Gradle execution remains blocked until GitHub provides a runner.
+
 ## Overall implementation progress
 
 **90% — confirmed project baseline, not a release certification score.**
