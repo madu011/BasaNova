@@ -1676,3 +1676,12 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 - The workflow uses a debug APK because it is automatically signed with the Android debug key and can be installed for testing. It is not a production/release-signed APK.
 - The temporary lockfile is generated only in CI and is not committed. The source repo still has no checked-in `package-lock.json`.
 - Overall implementation progress remains 90%; build and QA are external execution gates, not implementation progress.
+
+
+## 2026-11-25 — bidirectional translation and lesson-audio audit
+- Confirmed repository visibility is `public` through the GitHub repository API.
+- Updated `App.js` so the translator can switch between Sinhala → Serbian (`si|sr`) and Serbian → Sinhala (`sr|si`), with direction-aware translation history and language-appropriate output handling. Commits: `969a4fdc71106c544b1b46d48115fa4a96b8dcc2`, `aeb276d7b1921f3ac0ea314c1847c5c3519908e9`.
+- Static source review found individual word playback in the A1–C2 lesson renderers (nine `speak(item.word, ...)` call sites) and existing sentence/example playback. Added QA assertions for both translator directions and vocabulary word playback: `584ac09745fbb081b6366f1770de906568e9effd`.
+- These are source changes and static inspection only. The newly triggered GitHub Actions runs have not yet completed; no QA pass or APK build success is claimed.
+- The previously generated BasaNova icon image is not available as a repository file in the current GitHub checkout. Before wiring the exact same image into Android launcher/adaptive icon and in-app branding, request that the user upload the generated icon image as a chat attachment.
+- Next: obtain the exact icon image attachment; inspect/align app icon, splash and in-app brand usage; check latest Actions runs and fix actual QA/build failures; update progress only after verified implementation and release checks.
