@@ -1621,3 +1621,15 @@ Total authored lesson records: 420 (210 Serbian + 210 English). C1 lessons 1–1
 2. Expand the content editorial audit to A1–B2 while avoiding intentional cross-lesson vocabulary reuse.
 3. Establish a real Node execution path for `npm run qa:content` and record actual output.
 4. Keep Expo/APK work deferred until source review and QA execution are complete and the user authorizes the build.
+
+
+## 2026-11-25 — user authorized Android build
+- User explicitly asked to finish the remaining work and start the build now.
+- Replaced the previous manual-only Android workflow with a push-triggered + manual `workflow_dispatch` pipeline. A push to `main` affecting app/source/workflow files starts it automatically.
+- QA job: Node 22, create a temporary CI lockfile, `npm ci`, then run `npm run qa:content`.
+- APK job: Node 22 + Java 17, temporary CI lockfile, `npm ci`, Expo dependency compatibility check, clean Expo Android prebuild, Gradle `assembleDebug`, verify the APK exists, upload artifact `basanova-android-debug-apk` for 14 days.
+- Workflow commit: `5da228d6f96062fef21d15e2402c96b901f06740`. Progress record commit: `4810524c24a707e0c3e3d7fb1355f58845419ff9`.
+- The workflow is configured to start on the workflow-file push. This connector cannot list push-triggered runs (its commit-run helper only returns PR-triggered runs), so no run status or artifact has yet been independently observed in this chat. Do not claim the APK has been built or provide an invented artifact link.
+- The workflow uses a debug APK because it is automatically signed with the Android debug key and can be installed for testing. It is not a production/release-signed APK.
+- The temporary lockfile is generated only in CI and is not committed. The source repo still has no checked-in `package-lock.json`.
+- Overall implementation progress remains 90%; build and QA are external execution gates, not implementation progress.
