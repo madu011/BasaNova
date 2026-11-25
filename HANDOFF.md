@@ -1,5 +1,15 @@
 # Latest continuation checkpoint — 2026-11-25
 
+## CI retry update — 2026-11-25
+
+- Retried failed jobs for run [45707505028](https://github.com/madu011/BasaNova/actions/runs/45707505028) once.
+- Both jobs again ended immediately with `runner_id: 0` and no executed steps. This is runner allocation / Actions availability (or quota) rather than a source-level test result. Logs and APK artifact were not produced.
+- Earlier workflow attempts in this repo also showed `runner_id: 0`; do not keep claiming the build is merely "running".
+- Current state: paid cloud voice path removed, device TTS retained, billing integrations absent, translator remains an external free endpoint with rate limits. The actual QA command, Expo compatibility check and Gradle build have not run.
+- Next: wait until a GitHub Actions runner becomes available or use a suitable Android build environment. Then execute content QA, Expo check and Android debug build; fix any real failures, and only share an APK after artifact download/verification.
+
+
+
 The user has explicitly asked to remove potentially paid integrations, complete remaining work, and build the Android app. Continue from this checkpoint, not the older historical source-only instructions below.
 
 ## Current free-first implementation
