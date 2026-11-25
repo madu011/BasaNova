@@ -154,6 +154,12 @@ const appSource = await readFile(new URL("../App.js", import.meta.url), "utf8");
 // Device TTS remains available; the optional remote voice endpoint is deliberately removed.
 assert.doesNotMatch(appSource, /EXPO_PUBLIC_VOICE_API_URL|GOOGLE_TTS_ENDPOINT|expo-av|expo-file-system|RevenueCat|Stripe|Purchases|BillingClient|react-native-iap/iu,
   "App.js must not depend on a paid cloud-voice endpoint or billing integration");
+assert.match(appSource, /translateDirection==="si-sr"\?"si\|sr":"sr\|si"/u,
+  "Translator must support both Sinhala-to-Serbian and Serbian-to-Sinhala directions");
+assert.match(appSource, /සිංහල → Serbian/u, "Translator must expose Sinhala-to-Serbian selection");
+assert.match(appSource, /Serbian → සිංහල/u, "Translator must expose Serbian-to-Sinhala selection");
+assert.ok((appSource.match(/speak\(item\.word,/gu) || []).length >= 6,
+  "Each CEFR lesson renderer must expose individual vocabulary word playback");
 const packageManifest = JSON.parse(await readFile(new URL("../package.json", import.meta.url), "utf8"));
 for (const dependency of ["expo-av", "expo-file-system", "react-native-iap", "react-native-purchases", "stripe", "@stripe/stripe-react-native"]) {
   assert.equal(packageManifest.dependencies?.[dependency], undefined, `Paid/unused integration dependency must remain absent: ${dependency}`);
