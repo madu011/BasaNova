@@ -78,3 +78,13 @@
 - App fix commit: `71a9004d0718cf68f96d97c838b2c860b4b240b3`. QA guard addition: `845389208de81ff7f85c1fd3a51a926f2eea8da0`; matcher simplification: `6c392a933352b7ccd9b7cdc84c9a5a142f85f1bc`.
 - This was verified by inspecting the committed source text only. `npm run qa:content` and a JSX/JavaScript parser have not been executed, so syntax/runtime status is still unverified.
 - Overall implementation baseline remains **90%**; the fix closes a specific source defect but does not certify the full lesson flow.
+
+
+## 2026-11-25 — Android build workflow enabled
+- User explicitly authorized completing the remaining work and starting an Android build.
+- Updated `.github/workflows/android-apk.yml` so pushes to `main` automatically run two independent jobs: dependency install + `npm run qa:content`, and a signed installable Android debug APK build using Expo prebuild + Gradle `assembleDebug`.
+- The workflow creates a lockfile in the ephemeral CI checkout before `npm ci`; it does not commit a generated lockfile or change the 90% implementation baseline.
+- Workflow commit: `5da228d6f96062fef21d15e2402c96b901f06740`.
+- Build is configured to upload `basanova-android-debug-apk` as a GitHub Actions artifact (14-day retention). A successful artifact has not yet been observed/downloaded in this session; do not provide a fabricated APK link or claim build success.
+- The GitHub connector's commit-run lookup returned no runs because that endpoint only returns pull-request-triggered runs; it does not confirm that the push-triggered workflow failed or succeeded.
+- No local Expo/Gradle build was run. The actual QA and APK job outcomes remain pending external CI execution.
