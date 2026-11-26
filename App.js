@@ -83,7 +83,7 @@ alignSerbianAssessmentWords(SERBIAN_B2_FINAL_EXAM, SERBIAN_B2_LESSONS);
 const PALETTES={dark:{bg:"#071426",panel:"#10243D",panel2:"#142D49",teal:"#35D6C5",gold:"#F5C66A",white:"#F5F8FC",muted:"#9DB0C5",line:"#24415F",nav:"#0A1B30"},light:{bg:"#F3F7FA",panel:"#FFFFFF",panel2:"#E5EFF4",teal:"#087F78",gold:"#A96808",white:"#142638",muted:"#526779",line:"#C9D8E2",nav:"#E5EFF4"}};
 const ThemeContext=createContext(null);
 const readableControlLabel=children=>{
- if(typeof children==="string"||typeof children==="number"){const value=String(children).trim();return /[\\p{L}\\p{N}]/u.test(value)?value:"";}
+ if(typeof children==="string"||typeof children==="number"){const value=String(children).trim();return /[\p{L}\p{N}]/u.test(value)?value:"";}
  if(Array.isArray(children))return children.map(readableControlLabel).filter(Boolean).join(" ").trim();
  if(React.isValidElement(children))return children.props.accessibilityLabel||readableControlLabel(children.props.children);
  return "";
