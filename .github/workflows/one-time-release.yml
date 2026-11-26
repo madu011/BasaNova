@@ -1,5 +1,5 @@
 name: BasaNova one-time QA and Android build
-# Refresh: rerun after curated Serbian B1/B2 headwords and B2 reading regeneration.
+# Refresh: rerun after A2 invite assessment alignment fix.
 
 on:
   push:
