@@ -80,7 +80,7 @@ Created by **Madhuranga Yasanath**.
 
 ## Automated validation and Android build
 
-The GitHub Actions workflow runs content QA and builds an installable Android **debug APK** when relevant source files are pushed to `main`, or when manually started. CI generates a temporary npm lockfile and does not commit it. The APK artifact is named `basanova-android-debug-apk` and is retained for 14 days.
+GitHub Actions is manual-only. Start the workflow to run content QA; the Android **debug APK** job is opt-in through the `build_android_apk` workflow input and runs only after QA succeeds. Normal source pushes never consume Actions runs or start an APK build. CI generates a temporary npm lockfile and does not commit it. The APK artifact is named `basanova-android-debug-apk` and is retained for 14 days.
 
 A successful CI build proves APK assembly, not physical-device validation. Install and test the APK on Android before calling the release fully verified. A Play Store production release would need a separately managed production signing key; it is not part of this free testing build.
 
