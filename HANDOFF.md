@@ -23,7 +23,7 @@
 ## 2026-11-26 — assessment QA count correction
 - Fixed the global assessment identity check: A1 has 20 final questions per language; A2–C2 each have 30 formal assessment questions (10 revision + 20 final). The total remains 340 across both languages.
 - This removes a guaranteed false QA failure; it does not change learner-facing assessment content.
-- QA source fix commit: `bbd1cb0f8374762c94579acdcb787ba0c2f1ef81`.
+- QA source commits: `8ff5e39246c84aacb8d080a258185f60415acc2f` (format-tolerant daily rollover assertions) and `bbd1cb0f8374762c94579acdcb787ba0c2f1ef81` (A1 vs A2–C2 assessment counts).
 - Automated QA still has not been executed.
 
 ## Current instruction and next work
