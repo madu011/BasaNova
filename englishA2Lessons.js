@@ -882,10 +882,10 @@ export const ENGLISH_A2_LESSONS = [
       {
         "word": "invite",
         "reading": "ඉන්වයිට්",
-        "meaning": "ආරාධනා කරනවා",
-        "example": "I'm planning to visit the city centre.",
-        "exampleReading": "අයිම් ප්ලෑනින් ටු විසිට් දි සිටි සෙන්ටර්.",
-        "translation": "මම නගර මධ්‍යයට යන්න සැලසුම් කරනවා."
+        "meaning": "ආරාධනා කරන්න",
+        "example": "I want to invite my friends to dinner.",
+        "exampleReading": "අයි වොන්ට් ටු ඉන්වයිට් මයි ෆ්‍රෙන්ඩ්ස් ටු ඩිනර්.",
+        "translation": "මට මිතුරන්ට රාත්‍රී ආහාරයට ආරාධනා කරන්න ඕනේ."
       },
       {
         "word": "arrangement",
