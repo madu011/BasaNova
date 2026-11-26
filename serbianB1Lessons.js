@@ -8921,33 +8921,191 @@ function _srB1Distance(a,b) {
   for(let i=1;i<=a.length;i++){let previous=row[0];row[0]=i;for(let j=1;j<=b.length;j++){const current=row[j];row[j]=Math.min(row[j]+1,row[j-1]+1,previous+(a[i-1]===b[j-1]?0:1));previous=current;}}
   return row[b.length];
 }
-for(const lesson of SERBIAN_B1_LESSONS){
-  const sentences=[...(lesson.vocabulary||[]).map(x=>x.example),...(lesson.examples||[]).map(x=>x.sr||x.text),...(lesson.dialogue||[]).map(x=>x.sr||x.text),...(lesson.grammarTerms||[]).map(x=>x.sr||x.text)];
-  for(const item of lesson.vocabulary||[]){
-    if(/[A-Za-zČĆŽŠĐčćžšđ]/u.test(item.reading||"")&&!/[ං-෴]/u.test(item.reading||"")){item.word=item.reading;item.reading=_srB1Phonetic(item.word);continue;}
-    if(/[А-Яа-яЁёЂђЈјЉљЊњЋћЏџ]/u.test(item.reading||"")&&!/[ං-෴]/u.test(item.reading||"")){item.word=_srB1ToLatin(item.reading);item.reading=_srB1Phonetic(item.word);continue;}
-    const target=_srB1Phonetic(_srB1ToLatin(item.reading));
-    const candidates=new Set();
-    for(const sentence of sentences){const tokens=(String(sentence||"").replace(/^[AB]:\s*/u,"").match(/[A-Za-zČĆŽŠĐčćžšđ]+/gu)||[]).filter(token=>!["A","B"].includes(token.toUpperCase()));for(let start=0;start<tokens.length;start++)for(let width=1;width<=3&&start+width<=tokens.length;width++)candidates.add(tokens.slice(start,start+width).join(" "));}
-    let best=item.word,bestScore=Infinity;
-    for(const candidate of candidates){const sound=_srB1Phonetic(candidate);if(!sound)continue;const score=_srB1Distance(target,sound)/Math.max(target.length,sound.length,1);if(score<bestScore){bestScore=score;best=candidate;}}
-    if(bestScore<0.35){item.word=best;if(/[А-Яа-яЁёЂђЈјЉљЊњЋћЏџ]/u.test(item.reading||""))item.reading=_srB1Phonetic(best);}
-  }
-}
-
+const _srB1HeadwordOverrides = {
+  "sr-b1-l1": [
+    "iskustvo",
+    "nezaboravan",
+    "putovanje",
+    "događaj",
+    "odjednom",
+    "sećati se",
+    "iznenađen",
+    "na kraju"
+  ],
+  "sr-b1-l2": [
+    "mišljenje",
+    "razlog",
+    "slažem se",
+    "prednost",
+    "mana",
+    "smatram",
+    "ipak",
+    "zavisi"
+  ],
+  "sr-b1-l3": [
+    "raspored",
+    "rok",
+    "zadatak",
+    "greška",
+    "rešenje",
+    "predložiti",
+    "odgovoran",
+    "dogovoriti se"
+  ],
+  "sr-b1-l4": [
+    "opcija",
+    "porediti",
+    "posledica",
+    "jeftiniji",
+    "skuplji",
+    "koristan",
+    "ušteda",
+    "izabrati"
+  ],
+  "sr-b1-l5": [
+    "izveštaj",
+    "vesti",
+    "činjenica",
+    "izvor",
+    "objaviti",
+    "navesti",
+    "događati se",
+    "prema"
+  ],
+  "sr-b1-l6": [
+    "zahtev",
+    "potvrda",
+    "ljubazno",
+    "molba",
+    "dostaviti",
+    "odobrenje",
+    "unapred",
+    "Poštovani"
+  ],
+  "sr-b1-l7": [
+    "nesporazum",
+    "pojasniti",
+    "podrazumevati",
+    "zapravo",
+    "proveriti",
+    "saglasan",
+    "ponoviti",
+    "jasno"
+  ],
+  "sr-b1-l8": [
+    "projekat",
+    "podeliti",
+    "korak",
+    "planirati",
+    "saradnja",
+    "učesnik",
+    "završiti",
+    "napredak"
+  ],
+  "sr-b1-l9": [
+    "ranije",
+    "danas",
+    "promena",
+    "navika",
+    "nekada",
+    "sada",
+    "razvijati se",
+    "postepeno"
+  ],
+  "sr-b1-l10": [
+    "savet",
+    "mogućnost",
+    "rizik",
+    "predložiti",
+    "razmotriti",
+    "odluka",
+    "verovatno",
+    "u slučaju"
+  ],
+  "sr-b1-l11": [
+    "sigurnost",
+    "možda",
+    "izgledno",
+    "malo verovatno",
+    "procena",
+    "prognoza",
+    "sigurno",
+    "mogućnost"
+  ],
+  "sr-b1-l12": [
+    "strategija",
+    "ponavljanje",
+    "veština",
+    "kurs",
+    "cilj",
+    "napredak",
+    "beleška",
+    "metod"
+  ],
+  "sr-b1-l13": [
+    "plan putovanja",
+    "polazak",
+    "kašnjenje",
+    "peron",
+    "alternativa",
+    "rezervacija",
+    "prtljag",
+    "raspored"
+  ],
+  "sr-b1-l14": [
+    "povraćaj novca",
+    "račun",
+    "oštećen",
+    "zamena",
+    "kvalitet",
+    "garancija",
+    "kupac",
+    "rešenje"
+  ]
+};
 function _srB1IsCleanSinhala(value){return /[ං-෴]/u.test(value||"")&&!/[A-Za-zА-Яа-яЁёЂђЈјЉљЊњЋћЏџ]/u.test(value||"");}
-for(const lesson of SERBIAN_B1_LESSONS){
-  for(const group of [lesson.examples,lesson.dialogue,lesson.grammarTerms]){
-    for(const line of group||[]){
-      const phrase=line.sr||line.text;
-      if(phrase&&line.reading&&!_srB1IsCleanSinhala(line.reading))line.reading=_srB1Phonetic(phrase.replace(/^[AB]:\s*/u,""));
+
+for (const lesson of SERBIAN_B1_LESSONS) {
+  const lessonOverrides = _srB1HeadwordOverrides[lesson.id] || [];
+  for (const [index, item] of (lesson.vocabulary || []).entries()) {
+    const override = lessonOverrides[index];
+    if (override) {
+      item.word = override;
+      if (!_srB1IsCleanSinhala(item.reading)) item.reading = _srB1Phonetic(item.word);
+      continue;
+    }
+
+    const reading = String(item.reading || "");
+    if (/[A-Za-zČĆŽŠĐčćžšđ]/u.test(reading) && !/[ං-෴]/u.test(reading)) {
+      item.word = reading;
+      item.reading = _srB1Phonetic(item.word);
+    } else if (/[А-Яа-яЁёЂђЈјЉљЊњЋћЏџ]/u.test(reading) && !/[ං-෴]/u.test(reading)) {
+      item.word = _srB1ToLatin(reading);
+      item.reading = _srB1Phonetic(item.word);
+    } else if (!_srB1IsCleanSinhala(reading)) {
+      item.reading = _srB1Phonetic(item.word);
+    }
+    if (item.example && item.exampleReading && !_srB1IsCleanSinhala(item.exampleReading)) {
+      item.exampleReading = _srB1Phonetic(item.example);
     }
   }
-  const listening=lesson.listeningPractice;
-  if(listening?.audio&&listening.reading&&!_srB1IsCleanSinhala(listening.reading))listening.reading=_srB1Phonetic(listening.audio);
-  if(Array.isArray(listening?.readings))listening.readings=listening.readings.map(value=>_srB1IsCleanSinhala(value)?value:_srB1Phonetic(value));
-}
 
-for(const lesson of SERBIAN_B1_LESSONS)for(const item of lesson.vocabulary||[]){
-  if(item.example&&item.exampleReading&&!_srB1IsCleanSinhala(item.exampleReading))item.exampleReading=_srB1Phonetic(item.example);
+  for (const group of [lesson.examples, lesson.dialogue, lesson.grammarTerms]) {
+    for (const line of group || []) {
+      const phrase = line.sr || line.text || "";
+      if (phrase && !_srB1IsCleanSinhala(line.reading)) {
+        line.reading = _srB1Phonetic(phrase.replace(/^[AB]:\\s*/u, ""));
+      }
+    }
+  }
+
+  const listening = lesson.listeningPractice;
+  if (listening?.audio && !_srB1IsCleanSinhala(listening.reading)) {
+    listening.reading = _srB1Phonetic(listening.audio);
+  }
+  if (Array.isArray(listening?.readings)) {
+    listening.readings = listening.readings.map(value =>
+      _srB1IsCleanSinhala(value) ? value : _srB1Phonetic(value)
+    );
+  }
 }
