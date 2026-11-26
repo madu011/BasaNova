@@ -560,6 +560,30 @@ assert.equal(englishA2Transport.dialogue[0].meaning, "සමාවෙන්න, 
 assert.equal(englishA2Transport.practice[3].explanation, "ඇතුල්වීමේ දොරටුව අසල ඇති යන්ත්‍රයෙන්.",
   "English A2 transport dialogue exercise explanation must match its correct final line");
 
+
+const getCourseLesson = (level, id) => {
+  const lesson = courseLessons[level].find(item => item.id === id);
+  assert.ok(lesson, `Missing lesson ${id}`);
+  return lesson;
+};
+const serbianA2Documents = getCourseLesson("Serbian A2", "sr-a2-l26");
+assert.equal(serbianA2Documents.vocabulary[0].meaning, "ලේඛනය",
+  "Serbian A2 document headword must have a Sinhala meaning, not a phonetic transcription");
+assert.ok(hasSinhala(serbianA2Documents.vocabulary[0].reading),
+  "Serbian A2 document headword must retain a Sinhala pronunciation guide");
+assert.equal(getCourseLesson("English A2", "en-a2-l2").vocabulary[7].word, "rent a place",
+  "English A2 housing vocabulary must teach renting a place, not renting it out");
+assert.deepEqual(getCourseLesson("English A2", "en-a2-l22").vocabulary.map(item => item.word),
+  ["clothes", "size", "try on", "discount", "bill", "cash", "card", "choice"],
+  "English A2 shopping vocabulary must align with the Serbian shopping lesson");
+assert.deepEqual(getCourseLesson("English A2", "en-a2-l24").vocabulary.map(item => item.word),
+  ["appointment", "time slot", "be late", "cancel", "reschedule", "free", "agreement", "on time"],
+  "English A2 appointment vocabulary must align with the Serbian appointment lesson");
+assert.equal(getCourseLesson("English A2", "en-a2-l5").vocabulary[3].word, "worked (feminine)",
+  "English A2 past-tense vocabulary must preserve the feminine Serbian speaker form");
+assert.equal(getCourseLesson("English A2", "en-a2-l15").vocabulary[1].word, "socialising",
+  "English A2 social vocabulary must translate Serbian druženje as socialising");
+
 const serbianB1Source = await loadModule("serbianB1Lessons.js");
 for (const lesson of serbianB1Source.SERBIAN_B1_LESSONS) {
   const lessonText = [
