@@ -170,23 +170,23 @@ export const ENGLISH_C2_LESSONS_21_30 = [
     "objective": "Distinguish topic, focus and the pragmatic work of discourse markers.",
     "vocabulary": [
       {
-        "word": "Thematization places familiar information at the beginning of an utterance.",
+        "word": "thematization",
         "reading": "තීමටයිසේෂන්",
-        "meaning": "මාතෘකා ඉදිරිපත් කිරීමෙන් දන්නා තොරතුරු ප්‍රකාශයේ මුල් කොටසට ගෙන එයි.",
+        "meaning": "මාතෘකාව ඉදිරිපත් කිරීම",
         "example": "Nevertheless, the conclusion does not follow from the premise.",
         "translation": "කෙසේවෙතත්, නිගමනය පූර්වකල්පනයෙන් අනුගමනය නොවේ."
       },
       {
-        "word": "Focus identifies the information a speaker especially emphasizes.",
+        "word": "focus",
         "reading": "ෆෝකස්",
-        "meaning": "අවධානයේ කේන්ද්‍රය යනු කථිකයා විශේෂයෙන් ඉස්මතු කරන තොරතුරයි.",
+        "meaning": "අවධානයේ කේන්ද්‍රය",
         "example": "That particular datum shifts the focus of the debate.",
         "translation": "එම දත්තය සාකච්ඡාවේ අවධානය වෙනස් කරයි."
       },
       {
-        "word": "Topicalization moves the topic to the beginning of a sentence.",
+        "word": "topicalization",
         "reading": "ටොපිකලයිසේෂන්",
-        "meaning": "මාතෘකාකරණය වාක්‍යයේ මාතෘකාව මුලට ගෙන එයි.",
+        "meaning": "මාතෘකාකරණය",
         "example": "The marker links the utterance to the wider discourse.",
         "translation": "සලකුණ ප්‍රකාශය පුළුල් සංවාදයට සම්බන්ධ කරයි."
       },
@@ -496,16 +496,16 @@ export const ENGLISH_C2_LESSONS_21_30 = [
     "objective": "Assess what can be transferred and what requires cultural mediation.",
     "vocabulary": [
       {
-        "word": "Untranslatability describes the difficulty of transferring meaning into another language.",
+        "word": "untranslatability",
         "reading": "අන්ස්ට්‍රාන්ස්ලේටබිලිටි",
         "meaning": "සෘජුව පරිවර්තනය කළ නොහැකි බව යනු අර්ථය වෙනත් භාෂාවකට ගෙන යාමේ අපහසුතාවයි.",
         "example": "A literal rendering loses the cultural allusion.",
         "translation": "වචනාර්ථ පරිවර්තනය සංස්කෘතික ඉඟිය අහිමි කරයි."
       },
       {
-        "word": "Equivalence seeks an appropriate sense in the target language.",
+        "word": "equivalence",
         "reading": "ඉක්විවලන්ස්",
-        "meaning": "සමාන අර්ථ ගැළපීමෙන් ඉලක්ක භාෂාවේ ගැළපෙන අර්ථයක් සොයයි.",
+        "meaning": "සමාන අර්ථ ගැළපීම",
         "example": "The translator selects a strategy for the audience.",
         "translation": "පරිවර්තකයා පාඨකයා අනුව උපාය තෝරයි."
       },
@@ -517,9 +517,9 @@ export const ENGLISH_C2_LESSONS_21_30 = [
         "translation": "දේශීය සංස්කෘතියට හැඩගැස්වීමෙන් සංස්කෘතික අංග ඉලක්ක පාඨකයන්ට ගැළපේ."
       },
       {
-        "word": "Foreignization retains elements of the source culture in translation.",
+        "word": "foreignization",
         "reading": "ෆොරිනයිසේෂන්",
-        "meaning": "විදේශීය බව රැකීමේ උපාය පරිවර්තනයේදී විදේශීය සංස්කෘතික අංග රඳවා ගනී.",
+        "meaning": "විදේශීය බව රැකීම",
         "example": "Compensation can recover an effect elsewhere.",
         "translation": "වෙනත් තැනකින් අර්ථ පිරවීමෙන් නැතිවූ බලපෑම පුරවයි."
       },
