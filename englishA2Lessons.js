@@ -4334,7 +4334,7 @@ export const ENGLISH_A2_LESSONS = [
       {
         "word": "document",
         "reading": "ඩොකියුමන්ට්",
-        "meaning": "දොකුමෙන්ත්",
+        "meaning": "ලේඛනය",
         "example": "Where can I submit this application?",
         "exampleReading": "වෙයාර් කැන් අයි සබ්මිට් දිස් ඇප්ලිකේෂන්?",
         "translation": "මට මේ අයදුම්පත භාරදෙන්න පුළුවන් කොහෙද?"
