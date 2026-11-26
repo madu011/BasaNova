@@ -772,9 +772,20 @@ const a2AssessmentModule = await loadModule("a2FinalExams.js");
 const serbianA2Lessons = await loadModule("serbianA2Lessons.js");
 const englishA2Lessons = await loadModule("englishA2Lessons.js");
 const a2Assessments = a2AssessmentModule.buildA2Assessments(serbianA2Lessons.SERBIAN_A2_LESSONS, englishA2Lessons.ENGLISH_A2_LESSONS);
+function collectA2Meanings(lessons) {
+  const meanings = new Map();
+  for (const lesson of lessons) {
+    for (const item of lesson.vocabulary || []) {
+      const key = item.word.toLocaleLowerCase();
+      if (!meanings.has(key)) meanings.set(key, new Set());
+      meanings.get(key).add(item.meaning);
+    }
+  }
+  return meanings;
+}
 const a2Vocabulary = {
- Serbian: new Map(serbianA2Lessons.SERBIAN_A2_LESSONS.flatMap(lesson => lesson.vocabulary.map(item => [item.word.toLocaleLowerCase(), item.meaning]))),
- English: new Map(englishA2Lessons.ENGLISH_A2_LESSONS.flatMap(lesson => lesson.vocabulary.map(item => [item.word.toLocaleLowerCase(), item.meaning]))),
+  Serbian: collectA2Meanings(serbianA2Lessons.SERBIAN_A2_LESSONS),
+  English: collectA2Meanings(englishA2Lessons.ENGLISH_A2_LESSONS),
 };
 function validateA2Assessment(label, questions, expectedCount, language, isFinal = false) {
   validateQuestions(label, questions, expectedCount, { pronunciation: true });
@@ -783,9 +794,11 @@ function validateA2Assessment(label, questions, expectedCount, language, isFinal
     assert.ok(!ids.has(question.id), `${label}: duplicate id ${question.id}`);
     ids.add(question.id);
     if (question.word) {
-      const meaning = a2Vocabulary[language].get(question.word.toLocaleLowerCase());
-      assert.ok(meaning, `${question.id}: vocabulary word is not in the A2 course`);
-      assert.equal(question.options[question.answer], meaning, `${question.id}: answer does not match A2 vocabulary`);
+      const meanings = a2Vocabulary[language].get(question.word.toLocaleLowerCase());
+      assert.ok(meanings, `${question.id}: vocabulary word is not in the A2 course`);
+      assert.ok(meanings.has(question.meaning), `${question.id}: question meaning is not in the A2 course`);
+      assert.equal(question.options[question.answer], question.meaning,
+        `${question.id}: answer does not match its source vocabulary meaning`);
     }
     if (question.audio) {
       assert.ok(question.reading && hasSinhala(question.reading), `${question.id}: listening item missing Sinhala reading`);
