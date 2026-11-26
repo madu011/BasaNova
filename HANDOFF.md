@@ -14,6 +14,12 @@
 - App commit: `9b26d46ac516618f96b05237a910cb057f6ce5d6`; QA guard: `1a85cd455eca112fc25d242d988b16d49309f117`.
 - Source inspected only; no QA execution, Expo validation, APK build or device test.
 
+## 2026-11-26 — foreground daily mission rollover fix
+- Found that a date rollover was only detected on AppState becoming active. If the app stayed foregrounded across midnight, yesterday's mission guard could block today's mission completions.
+- `completeMission` now checks local date on every mission tap and clears the guard/list before handling the new day's tap. Regression assertion added.
+- App commit: `934b70f87632efb1b3126939f788927972e0d913`; QA assertion commit: `cccb400445145a6971bb238a7c0243e562eb9c5c`.
+- Source inspected only; no automated run or device verification.
+
 ## Current instruction and next work
 The user asked to fix all remaining BasaNova errors. Continue grouped source audits, preserving Serbian/English course data and learner progress keys. Do not start Expo export or APK build unless the user explicitly authorizes that final build step.
 
