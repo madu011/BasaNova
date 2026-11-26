@@ -3604,9 +3604,9 @@ export const ENGLISH_A2_LESSONS = [
       {
         "prompt": "Choose the word meaning “ටිකට්පත”.",
         "options": [
-          "arrival",
+          "station",
           "ticket",
-          "journey"
+          "transfer"
         ],
         "answer": 1,
         "explanation": "ticket = ටිකට්පත"
