@@ -1,5 +1,5 @@
 name: BasaNova one-time QA and Android build
-# Refresh: rerun after B2 uzorak pronunciation normalization.
+# Refresh: rerun after aligning B2 bias pronunciation variants.
 
 on:
   push:
