@@ -5415,7 +5415,7 @@ export const ENGLISH_B1_LESSONS = [
     "grammarTerms": [
       {
         "text": "සයන්ටිෆික් ඩිස්කවරිස් චේන්ජ් හව් වී අන්ඩර්ස්ටෑන්ඩ් දි වර්ල්ඩ්.",
-        "reading": "",
+        "reading": "Passive voice and present perfect for discoveries.",
         "meaning": "Scientific discoveries change how we understand the world."
       }
     ],
@@ -5444,29 +5444,29 @@ export const ENGLISH_B1_LESSONS = [
     "dialogue": [
       {
         "text": "A: Scientific discoveries change how we understand the world.",
-        "reading": "",
+        "reading": "A: Passive voice and present perfect for discoveries.",
         "meaning": "Scientific discoveries change how we understand the world."
       },
       {
         "text": "B: That is an important discovery, but further research must confirm the results.",
-        "reading": "",
+        "reading": "B: That is an important discovery, but further research must confirm the results.",
         "meaning": "එය වැදගත් සොයාගැනීමක්. නමුත් තවත් පර්යේෂණ මඟින් ප්‍රතිඵල තහවුරු කළ යුතුයි."
       },
       {
         "text": "A: Researchers are already planning new experiments.",
-        "reading": "",
+        "reading": "A: Researchers are already planning new experiments.",
         "meaning": "විද්‍යාඥයන් තවත් පරීක්ෂණ සැලසුම් කරනවා."
       },
       {
         "text": "B: Then we will understand better how the material works.",
-        "reading": "",
+        "reading": "B: Then we will understand better how the material works.",
         "meaning": "එවිට ද්‍රව්‍යය ක්‍රියා කරන ආකාරය වඩා හොඳින් තේරුම් ගන්න පුළුවන්."
       }
     ],
     "listeningPractice": {
       "prompt": "Listen and choose the meaning: Scientific discoveries change how we understand the world.",
       "audio": "Scientific discoveries change how we understand the world.",
-      "reading": "",
+      "reading": "Passive voice and present perfect for discoveries.",
       "options": [
         "Scientific discoveries change how we understand the world.",
         "A different idea",
@@ -5593,7 +5593,7 @@ export const ENGLISH_B1_LESSONS = [
     "grammarTerms": [
       {
         "text": "එව්රිවන් හැස් රයිට්ස් ඇන්ඩ් රිස්පොන්සිබිලිටීස් ටුවර්ඩ්ස් අදර්ස්.",
-        "reading": "",
+        "reading": "Modal verbs and conditional clauses for obligations.",
         "meaning": "Everyone has rights and responsibilities towards others."
       }
     ],
@@ -5622,29 +5622,29 @@ export const ENGLISH_B1_LESSONS = [
     "dialogue": [
       {
         "text": "A: Everyone has rights and responsibilities towards others.",
-        "reading": "",
+        "reading": "A: Modal verbs and conditional clauses for obligations.",
         "meaning": "Everyone has rights and responsibilities towards others."
       },
       {
         "text": "B: That is why everyone should read the rules before accepting them.",
-        "reading": "",
+        "reading": "B: That is why everyone should read the rules before accepting them.",
         "meaning": "ඒ නිසා ඒවා පිළිගැනීමට පෙර හැමෝම නීති කියවිය යුතුයි."
       },
       {
         "text": "A: Where can we find the official version?",
-        "reading": "",
+        "reading": "A: Where can we find the official version?",
         "meaning": "නිල පිටපත අපට කොහෙන් සොයාගන්න පුළුවන්ද?"
       },
       {
         "text": "B: On the institution’s website and in the official document.",
-        "reading": "",
+        "reading": "B: On the institution’s website and in the official document.",
         "meaning": "ආයතනයේ වෙබ් අඩවියේ සහ නිල ලේඛනයේ."
       }
     ],
     "listeningPractice": {
       "prompt": "Listen and choose the meaning: Everyone has rights and responsibilities towards others.",
       "audio": "Everyone has rights and responsibilities towards others.",
-      "reading": "",
+      "reading": "Modal verbs and conditional clauses for obligations.",
       "options": [
         "Everyone has rights and responsibilities towards others.",
         "A different idea",
@@ -5771,7 +5771,7 @@ export const ENGLISH_B1_LESSONS = [
     "grammarTerms": [
       {
         "text": "ආර්ට් අලවුස් අස් ටු එක්ස්ප්‍රෙස් ෆීලිංස් ඉන් ඩිෆරන්ට් වේස්.",
-        "reading": "",
+        "reading": "Relative clauses and descriptive adjectives.",
         "meaning": "Art allows us to express feelings in different ways."
       }
     ],
@@ -5800,29 +5800,29 @@ export const ENGLISH_B1_LESSONS = [
     "dialogue": [
       {
         "text": "A: Art allows us to express feelings in different ways.",
-        "reading": "",
+        "reading": "A: Relative clauses and descriptive adjectives.",
         "meaning": "Art allows us to express feelings in different ways."
       },
       {
         "text": "B: I especially like that visitors can take part in the installation.",
-        "reading": "",
+        "reading": "B: I especially like that visitors can take part in the installation.",
         "meaning": "නරඹන්නන්ට කලා නිර්මාණයට සහභාගී විය හැකි එකට මම විශේෂයෙන් කැමතියි."
       },
       {
         "text": "A: This makes art an interactive experience.",
-        "reading": "",
+        "reading": "A: This makes art an interactive experience.",
         "meaning": "ඒ නිසා කලාව අන්තර්ක්‍රියාකාරී අත්දැකීමක් වෙනවා."
       },
       {
         "text": "B: Yes, everyone can experience it in a different way.",
-        "reading": "",
+        "reading": "B: Yes, everyone can experience it in a different way.",
         "meaning": "හැමෝටම එය වෙනස් ආකාරයකින් අත්විඳිය හැකියි."
       }
     ],
     "listeningPractice": {
       "prompt": "Listen and choose the meaning: Art allows us to express feelings in different ways.",
       "audio": "Art allows us to express feelings in different ways.",
-      "reading": "",
+      "reading": "Relative clauses and descriptive adjectives.",
       "options": [
         "Art allows us to express feelings in different ways.",
         "A different idea",
@@ -5949,7 +5949,7 @@ export const ENGLISH_B1_LESSONS = [
     "grammarTerms": [
       {
         "text": "දි ජොබ් මාර්කට් ඉස් චේන්ජිං බිකෝස් ඔෆ් න්‍යූ ස්කිල්ස් ඇන්ඩ් ටෙක්නොලජි.",
-        "reading": "",
+        "reading": "Comparatives, trends and cause-effect connectors.",
         "meaning": "The job market is changing because of new skills and technology."
       }
     ],
@@ -5978,29 +5978,29 @@ export const ENGLISH_B1_LESSONS = [
     "dialogue": [
       {
         "text": "A: The job market is changing because of new skills and technology.",
-        "reading": "",
+        "reading": "A: Comparatives, trends and cause-effect connectors.",
         "meaning": "The job market is changing because of new skills and technology."
       },
       {
         "text": "B: That is why it is useful to keep learning and follow new technologies.",
-        "reading": "",
+        "reading": "B: That is why it is useful to keep learning and follow new technologies.",
         "meaning": "ඒ නිසා අලුත් තාක්ෂණය ඉගෙනගෙන ඒ ගැන දැනුවත්ව සිටීම ප්‍රයෝජනවත්."
       },
       {
         "text": "A: Is experience still highly valuable?",
-        "reading": "",
+        "reading": "A: Is experience still highly valuable?",
         "meaning": "අත්දැකීම්වලට තවමත් විශාල වටිනාකමක් තිබෙනවාද?"
       },
       {
         "text": "B: Of course, but experience combined with new skills gives an advantage.",
-        "reading": "",
+        "reading": "B: Of course, but experience combined with new skills gives an advantage.",
         "meaning": "ඇත්තෙන්ම. නමුත් අත්දැකීම් සහ නව කුසලතා එකතු වීම වාසියක්."
       }
     ],
     "listeningPractice": {
       "prompt": "Listen and choose the meaning: The job market is changing because of new skills and technology.",
       "audio": "The job market is changing because of new skills and technology.",
-      "reading": "",
+      "reading": "Comparatives, trends and cause-effect connectors.",
       "options": [
         "The job market is changing because of new skills and technology.",
         "A different idea",
@@ -6127,7 +6127,7 @@ export const ENGLISH_B1_LESSONS = [
     "grammarTerms": [
       {
         "text": "බිෆෝර් සයිනින් අ කොන්ට්‍රැක්ට් වී ෂුඩ් චෙක් දි කන්ඩිෂන්ස් කෙයර්ෆුලි.",
-        "reading": "",
+        "reading": "Need to, should have and before/after clauses.",
         "meaning": "Before signing a contract, we should check the conditions carefully."
       }
     ],
@@ -6156,29 +6156,29 @@ export const ENGLISH_B1_LESSONS = [
     "dialogue": [
       {
         "text": "A: Before signing a contract, we should check the conditions carefully.",
-        "reading": "",
+        "reading": "A: Need to, should have and before/after clauses.",
         "meaning": "Before signing a contract, we should check the conditions carefully."
       },
       {
         "text": "B: Before signing, we should also check the conditions for ending the agreement.",
-        "reading": "",
+        "reading": "B: Before signing, we should also check the conditions for ending the agreement.",
         "meaning": "අත්සන් කිරීමට පෙර ගිවිසුම අවසන් කිරීමේ කොන්දේසිත් පරීක්ෂා කළ යුතුයි."
       },
       {
         "text": "A: Is it important to have everything in writing?",
-        "reading": "",
+        "reading": "A: Is it important to have everything in writing?",
         "meaning": "සියල්ල ලිඛිතව තිබීම වැදගත්ද?"
       },
       {
         "text": "B: Yes, a written agreement protects both the tenant and the owner.",
-        "reading": "",
+        "reading": "B: Yes, a written agreement protects both the tenant and the owner.",
         "meaning": "ඔව්, ලිඛිත ගිවිසුම කුලී නිවැසියාත් හිමිකරුත් ආරක්ෂා කරනවා."
       }
     ],
     "listeningPractice": {
       "prompt": "Listen and choose the meaning: Before signing a contract, we should check the conditions carefully.",
       "audio": "Before signing a contract, we should check the conditions carefully.",
-      "reading": "",
+      "reading": "Need to, should have and before/after clauses.",
       "options": [
         "Before signing a contract, we should check the conditions carefully.",
         "A different idea",
@@ -6305,7 +6305,7 @@ export const ENGLISH_B1_LESSONS = [
     "grammarTerms": [
       {
         "text": "රිලයබල් පබ්ලික් ට්‍රාන්ස්පෝට් කෑන් රිඩියූස් කන්ජෙස්චන් ඉන් අ සිටි.",
-        "reading": "",
+        "reading": "Passive voice and modal verbs for public services.",
         "meaning": "Reliable public transport can reduce congestion in a city."
       }
     ],
@@ -6334,29 +6334,29 @@ export const ENGLISH_B1_LESSONS = [
     "dialogue": [
       {
         "text": "A: Reliable public transport can reduce congestion in a city.",
-        "reading": "",
+        "reading": "A: Passive voice and modal verbs for public services.",
         "meaning": "Reliable public transport can reduce congestion in a city."
       },
       {
         "text": "B: That will help only if services are frequent and reliable.",
-        "reading": "",
+        "reading": "B: That will help only if services are frequent and reliable.",
         "meaning": "ගමන් වාර නිතර සහ විශ්වාසදායක නම් පමණයි එය උපකාරී වෙන්නේ."
       },
       {
         "text": "A: The city also plans to improve bus routes.",
-        "reading": "",
+        "reading": "A: The city also plans to improve bus routes.",
         "meaning": "නගරය බස් මාර්ගත් වැඩිදියුණු කිරීමට සැලසුම් කරනවා."
       },
       {
         "text": "B: Well-connected routes make daily travel easier.",
-        "reading": "",
+        "reading": "B: Well-connected routes make daily travel easier.",
         "meaning": "හොඳින් සම්බන්ධ කළ මාර්ග දිනපතා ගමන් පහසු කරනවා."
       }
     ],
     "listeningPractice": {
       "prompt": "Listen and choose the meaning: Reliable public transport can reduce congestion in a city.",
       "audio": "Reliable public transport can reduce congestion in a city.",
-      "reading": "",
+      "reading": "Passive voice and modal verbs for public services.",
       "options": [
         "Reliable public transport can reduce congestion in a city.",
         "A different idea",
@@ -6483,7 +6483,7 @@ export const ENGLISH_B1_LESSONS = [
     "grammarTerms": [
       {
         "text": "ක්ලයිමට් චේන්ජ් රික්වයර්ස් ලෝන්ග් ටර්ම් ඇන්ඩ් ෂෙයර්ඩ් සලූෂන්ස්.",
-        "reading": "",
+        "reading": "Future forms and expressions of necessity and consequence.",
         "meaning": "Climate change requires long-term and shared solutions."
       }
     ],
@@ -6512,29 +6512,29 @@ export const ENGLISH_B1_LESSONS = [
     "dialogue": [
       {
         "text": "A: Climate change requires long-term and shared solutions.",
-        "reading": "",
+        "reading": "A: Future forms and expressions of necessity and consequence.",
         "meaning": "Climate change requires long-term and shared solutions."
       },
       {
         "text": "B: That is why we must save water and invest in sustainable solutions.",
-        "reading": "",
+        "reading": "B: That is why we must save water and invest in sustainable solutions.",
         "meaning": "ඒ නිසා ජලය ඉතිරි කර තිරසාර විසඳුම් සඳහා ආයෝජනය කළ යුතුයි."
       },
       {
         "text": "A: Agriculture depends especially on available water.",
-        "reading": "",
+        "reading": "A: Agriculture depends especially on available water.",
         "meaning": "කෘෂිකර්මාන්තය ජලය ලබාගත හැකි වීම මත රඳා පවතිනවා."
       },
       {
         "text": "B: Irrigation systems can reduce waste.",
-        "reading": "",
+        "reading": "B: Irrigation systems can reduce waste.",
         "meaning": "වාරිමාර්ග පද්ධති මඟින් ජල නාස්තිය අඩු කළ හැකියි."
       }
     ],
     "listeningPractice": {
       "prompt": "Listen and choose the meaning: Climate change requires long-term and shared solutions.",
       "audio": "Climate change requires long-term and shared solutions.",
-      "reading": "",
+      "reading": "Future forms and expressions of necessity and consequence.",
       "options": [
         "Climate change requires long-term and shared solutions.",
         "A different idea",
@@ -6661,7 +6661,7 @@ export const ENGLISH_B1_LESSONS = [
     "grammarTerms": [
       {
         "text": "ඊටින් හැබිට්ස් ඔෆන් රිෆ්ලෙක්ට් අ ෆැමිලිස් කල්චර් ඇන්ඩ් ට්‍රඩිෂන්.",
-        "reading": "",
+        "reading": "Frequency adverbs and relative clauses.",
         "meaning": "Eating habits often reflect a family's culture and tradition."
       }
     ],
@@ -6690,29 +6690,29 @@ export const ENGLISH_B1_LESSONS = [
     "dialogue": [
       {
         "text": "A: Eating habits often reflect a family's culture and tradition.",
-        "reading": "",
+        "reading": "A: Frequency adverbs and relative clauses.",
         "meaning": "Eating habits often reflect a family's culture and tradition."
       },
       {
         "text": "B: It is good that we can buy fresh food from local producers.",
-        "reading": "",
+        "reading": "B: It is good that we can buy fresh food from local producers.",
         "meaning": "දේශීය නිෂ්පාදකයන්ගෙන් නැවුම් ආහාර මිලදී ගැනීමට හැකිවීම හොඳයි."
       },
       {
         "text": "A: This also supports small family businesses.",
-        "reading": "",
+        "reading": "A: This also supports small family businesses.",
         "meaning": "එමඟින් කුඩා පවුල් ව්‍යාපාරවලටත් සහාය ලැබෙනවා."
       },
       {
         "text": "B: And we often learn how the food is produced.",
-        "reading": "",
+        "reading": "B: And we often learn how the food is produced.",
         "meaning": "ආහාර නිෂ්පාදනය කරන ආකාරයත් දැනගන්න ලැබෙනවා."
       }
     ],
     "listeningPractice": {
       "prompt": "Listen and choose the meaning: Eating habits often reflect a family's culture and tradition.",
       "audio": "Eating habits often reflect a family's culture and tradition.",
-      "reading": "",
+      "reading": "Frequency adverbs and relative clauses.",
       "options": [
         "Eating habits often reflect a family's culture and tradition.",
         "A different idea",
@@ -6839,7 +6839,7 @@ export const ENGLISH_B1_LESSONS = [
     "grammarTerms": [
       {
         "text": "සෙටින් ක්ලියර් ගෝල්ස් හෙල්ප්ස් අස් ට්‍රැක් අවර් ප්‍රොග්‍රෙස්.",
-        "reading": "",
+        "reading": "Infinitives and future perfect for targets and deadlines.",
         "meaning": "Setting clear goals helps us track our progress."
       }
     ],
@@ -6868,29 +6868,29 @@ export const ENGLISH_B1_LESSONS = [
     "dialogue": [
       {
         "text": "A: Setting clear goals helps us track our progress.",
-        "reading": "",
+        "reading": "A: Infinitives and future perfect for targets and deadlines.",
         "meaning": "Setting clear goals helps us track our progress."
       },
       {
         "text": "B: Divide the goal into smaller steps and set a deadline for each one.",
-        "reading": "",
+        "reading": "B: Divide the goal into smaller steps and set a deadline for each one.",
         "meaning": "ඉලක්කය කුඩා පියවරවලට බෙදා එක් එක් පියවරට කාලසීමාවක් දාන්න."
       },
       {
         "text": "A: That will help me track my progress more easily.",
-        "reading": "",
+        "reading": "A: That will help me track my progress more easily.",
         "meaning": "එවිට මගේ ප්‍රගතිය පහසුවෙන් නිරීක්ෂණය කළ හැකියි."
       },
       {
         "text": "B: Regular revision will help you remember the material.",
-        "reading": "",
+        "reading": "B: Regular revision will help you remember the material.",
         "meaning": "නිතිපතා නැවත අධ්‍යයනය කිරීම පාඩම් මතක තබාගන්න උදව් වේවි."
       }
     ],
     "listeningPractice": {
       "prompt": "Listen and choose the meaning: Setting clear goals helps us track our progress.",
       "audio": "Setting clear goals helps us track our progress.",
-      "reading": "",
+      "reading": "Infinitives and future perfect for targets and deadlines.",
       "options": [
         "Setting clear goals helps us track our progress.",
         "A different idea",
@@ -7017,7 +7017,7 @@ export const ENGLISH_B1_LESSONS = [
     "grammarTerms": [
       {
         "text": "ඉෆ් දි සර්විස් ඩස් නොට් මැච් දි බුකින් වී කෑන් රික්වෙස්ට් අ සලූෂන්.",
-        "reading": "",
+        "reading": "Conditionals and polite indirect requests.",
         "meaning": "If the service does not match the booking, we can request a solution."
       }
     ],
@@ -7046,29 +7046,29 @@ export const ENGLISH_B1_LESSONS = [
     "dialogue": [
       {
         "text": "A: If the service does not match the booking, we can request a solution.",
-        "reading": "",
+        "reading": "A: Conditionals and polite indirect requests.",
         "meaning": "If the service does not match the booking, we can request a solution."
       },
       {
         "text": "B: Keep the booking confirmation and submit a written complaint immediately.",
-        "reading": "",
+        "reading": "B: Keep the booking confirmation and submit a written complaint immediately.",
         "meaning": "වෙන්කිරීමේ තහවුරු කිරීම තබාගෙන වහාම ලිඛිත පැමිණිල්ලක් ඉදිරිපත් කරන්න."
       },
       {
         "text": "A: Should I also ask for a refund?",
-        "reading": "",
+        "reading": "A: Should I also ask for a refund?",
         "meaning": "මුදල් ආපසු ඉල්ලන්නත් ඕනද?"
       },
       {
         "text": "B: First ask for an explanation and suggest a reasonable solution.",
-        "reading": "",
+        "reading": "B: First ask for an explanation and suggest a reasonable solution.",
         "meaning": "මුලින්ම පැහැදිලි කිරීමක් ඉල්ලා සාධාරණ විසඳුමක් යෝජනා කරන්න."
       }
     ],
     "listeningPractice": {
       "prompt": "Listen and choose the meaning: If the service does not match the booking, we can request a solution.",
       "audio": "If the service does not match the booking, we can request a solution.",
-      "reading": "",
+      "reading": "Conditionals and polite indirect requests.",
       "options": [
         "If the service does not match the booking, we can request a solution.",
         "A different idea",
@@ -7195,7 +7195,7 @@ export const ENGLISH_B1_LESSONS = [
     "grammarTerms": [
       {
         "text": "ක්ලියර් කමියුනිකේෂන් ඩිපෙන්ඩ්ස් ඔන් වර්ඩ්ස් ඇන්ඩ් දි වේ වී සේ දෙම්.",
-        "reading": "",
+        "reading": "Reported speech and adverbs describing communication.",
         "meaning": "Clear communication depends on words and the way we say them."
       }
     ],
@@ -7224,29 +7224,29 @@ export const ENGLISH_B1_LESSONS = [
     "dialogue": [
       {
         "text": "A: Clear communication depends on words and the way we say them.",
-        "reading": "",
+        "reading": "A: Reported speech and adverbs describing communication.",
         "meaning": "Clear communication depends on words and the way we say them."
       },
       {
         "text": "B: It is best to calmly explain what you actually meant to say.",
-        "reading": "",
+        "reading": "B: It is best to calmly explain what you actually meant to say.",
         "meaning": "ඔබ අදහස් කළේ කුමක්දැයි සන්සුන්ව පැහැදිලි කිරීම හොඳම ක්‍රමයයි."
       },
       {
         "text": "A: I should have checked earlier whether he understood me.",
-        "reading": "",
+        "reading": "A: I should have checked earlier whether he understood me.",
         "meaning": "ඔහු මාව තේරුම් ගත්තාද කියලා කලින්ම පරීක්ෂා කළ යුතුව තිබුණා."
       },
       {
         "text": "B: An open question often prevents another misunderstanding.",
-        "reading": "",
+        "reading": "B: An open question often prevents another misunderstanding.",
         "meaning": "විවෘත ප්‍රශ්නයක් ඇසීමෙන් තවත් වැරදි අවබෝධයක් වළක්වාගත හැකියි."
       }
     ],
     "listeningPractice": {
       "prompt": "Listen and choose the meaning: Clear communication depends on words and the way we say them.",
       "audio": "Clear communication depends on words and the way we say them.",
-      "reading": "",
+      "reading": "Reported speech and adverbs describing communication.",
       "options": [
         "Clear communication depends on words and the way we say them.",
         "A different idea",
@@ -7373,7 +7373,7 @@ export const ENGLISH_B1_LESSONS = [
     "grammarTerms": [
       {
         "text": "බිෆෝර් පෝස්ටින් අ ෆෝටෝ වී ෂුඩ් රිස්පෙක්ට් අදර් පීපල්ස් ප්‍රයිවසි.",
-        "reading": "",
+        "reading": "Should, ought to and relative clauses for responsible online behaviour.",
         "meaning": "Before posting a photo, we should respect other people's privacy."
       }
     ],
@@ -7402,29 +7402,29 @@ export const ENGLISH_B1_LESSONS = [
     "dialogue": [
       {
         "text": "A: Before posting a photo, we should respect other people's privacy.",
-        "reading": "",
+        "reading": "A: Should, ought to and relative clauses for responsible online behaviour.",
         "meaning": "Before posting a photo, we should respect other people's privacy."
       },
       {
         "text": "B: Check who published it and whether reliable sources support it.",
-        "reading": "",
+        "reading": "B: Check who published it and whether reliable sources support it.",
         "meaning": "එය පළ කළේ කවුද සහ විශ්වාසදායක මූලාශ්‍ර එය තහවුරු කරනවාද කියලා බලන්න."
       },
       {
         "text": "A: Many people have shared it on social media.",
-        "reading": "",
+        "reading": "A: Many people have shared it on social media.",
         "meaning": "සමාජ මාධ්‍යවල බොහෝ දෙනෙක් එය බෙදාගෙන තිබෙනවා."
       },
       {
         "text": "B: The number of shares does not mean the information is true.",
-        "reading": "",
+        "reading": "B: The number of shares does not mean the information is true.",
         "meaning": "බෙදාගැනීම් ගණන වැඩි වීමෙන් තොරතුරු සත්‍ය බව අදහස් වෙන්නේ නැහැ."
       }
     ],
     "listeningPractice": {
       "prompt": "Listen and choose the meaning: Before posting a photo, we should respect other people's privacy.",
       "audio": "Before posting a photo, we should respect other people's privacy.",
-      "reading": "",
+      "reading": "Should, ought to and relative clauses for responsible online behaviour.",
       "options": [
         "Before posting a photo, we should respect other people's privacy.",
         "A different idea",
@@ -7551,7 +7551,7 @@ export const ENGLISH_B1_LESSONS = [
     "grammarTerms": [
       {
         "text": "වෙන් වී සෙට් ප්‍රයෝරිටීස් වී ෆිනිෂ් ඉම්පෝර්ටන්ට් ටාස්ක්ස් මෝර් ඊසිලි.",
-        "reading": "",
+        "reading": "Time clauses, adverbs and gerunds for routines.",
         "meaning": "When we set priorities, we finish important tasks more easily."
       }
     ],
@@ -7580,29 +7580,29 @@ export const ENGLISH_B1_LESSONS = [
     "dialogue": [
       {
         "text": "A: When we set priorities, we finish important tasks more easily.",
-        "reading": "",
+        "reading": "A: Time clauses, adverbs and gerunds for routines.",
         "meaning": "When we set priorities, we finish important tasks more easily."
       },
       {
         "text": "B: Try setting priorities and planning rest in advance.",
-        "reading": "",
+        "reading": "B: Try setting priorities and planning rest in advance.",
         "meaning": "ප්‍රමුඛතා තීරණය කර විවේකයත් කලින් සැලසුම් කරන්න උත්සාහ කරන්න."
       },
       {
         "text": "A: I often accept more tasks than I can finish.",
-        "reading": "",
+        "reading": "A: I often accept more tasks than I can finish.",
         "meaning": "මට අවසන් කළ හැකි ප්‍රමාණයට වඩා වැඩි කාර්යයන් මම භාරගන්නවා."
       },
       {
         "text": "B: Learn to estimate realistically how much time you need.",
-        "reading": "",
+        "reading": "B: Learn to estimate realistically how much time you need.",
         "meaning": "ඔබට අවශ්‍ය කාලය යථාර්ථවාදීව ඇස්තමේන්තු කරන්න ඉගෙනගන්න."
       }
     ],
     "listeningPractice": {
       "prompt": "Listen and choose the meaning: When we set priorities, we finish important tasks more easily.",
       "audio": "When we set priorities, we finish important tasks more easily.",
-      "reading": "",
+      "reading": "Time clauses, adverbs and gerunds for routines.",
       "options": [
         "When we set priorities, we finish important tasks more easily.",
         "A different idea",
@@ -7729,7 +7729,7 @@ export const ENGLISH_B1_LESSONS = [
     "grammarTerms": [
       {
         "text": "රිස්පෙක්ටින් ඩිෆරන්ට් කස්ටම්ස් හෙල්ප්ස් පීපල් වර්ක් ටුගෙදර්.",
-        "reading": "",
+        "reading": "Contrast clauses and expressions of perspective.",
         "meaning": "Respecting different customs helps people work together."
       }
     ],
@@ -7758,29 +7758,29 @@ export const ENGLISH_B1_LESSONS = [
     "dialogue": [
       {
         "text": "A: Respecting different customs helps people work together.",
-        "reading": "",
+        "reading": "A: Contrast clauses and expressions of perspective.",
         "meaning": "Respecting different customs helps people work together."
       },
       {
         "text": "B: It is useful to learn about local customs before travelling.",
-        "reading": "",
+        "reading": "B: It is useful to learn about local customs before travelling.",
         "meaning": "ගමනට පෙර දේශීය සිරිත් විරිත් ගැන දැනගැනීම ප්‍රයෝජනවත්."
       },
       {
         "text": "A: That way we can show respect to our hosts.",
-        "reading": "",
+        "reading": "A: That way we can show respect to our hosts.",
         "meaning": "එමඟින් සත්කාරකයන්ට ගෞරවය පෙන්වන්න පුළුවන්."
       },
       {
         "text": "B: We can avoid uncomfortable situations more easily.",
-        "reading": "",
+        "reading": "B: We can avoid uncomfortable situations more easily.",
         "meaning": "අපහසු අවස්ථා පහසුවෙන් වළක්වාගන්නත් පුළුවන්."
       }
     ],
     "listeningPractice": {
       "prompt": "Listen and choose the meaning: Respecting different customs helps people work together.",
       "audio": "Respecting different customs helps people work together.",
-      "reading": "",
+      "reading": "Contrast clauses and expressions of perspective.",
       "options": [
         "Respecting different customs helps people work together.",
         "A different idea",
@@ -7907,7 +7907,7 @@ export const ENGLISH_B1_LESSONS = [
     "grammarTerms": [
       {
         "text": "අ ගුඩ් බිස්නස් ප්ලෑන් ටේක්ස් කස්ටමර්ස් නීඩ්ස් ඉන්ටු අකවුන්ට්.",
-        "reading": "",
+        "reading": "Purpose clauses and formal requests in business.",
         "meaning": "A good business plan takes customers' needs into account."
       }
     ],
@@ -7936,29 +7936,29 @@ export const ENGLISH_B1_LESSONS = [
     "dialogue": [
       {
         "text": "A: A good business plan takes customers' needs into account.",
-        "reading": "",
+        "reading": "A: Purpose clauses and formal requests in business.",
         "meaning": "A good business plan takes customers' needs into account."
       },
       {
         "text": "B: Before starting, research customer needs and calculate the initial costs.",
-        "reading": "",
+        "reading": "B: Before starting, research customer needs and calculate the initial costs.",
         "meaning": "ආරම්භ කිරීමට පෙර පාරිභෝගික අවශ්‍යතා සොයා බලා ආරම්භක වියදම් ගණනය කරන්න."
       },
       {
         "text": "A: I am also thinking about how to promote the service.",
-        "reading": "",
+        "reading": "A: I am also thinking about how to promote the service.",
         "meaning": "සේවාව ප්‍රචාරය කරන්නේ කොහොමද කියලත් මම හිතනවා."
       },
       {
         "text": "B: Create a simple business plan with clear goals.",
-        "reading": "",
+        "reading": "B: Create a simple business plan with clear goals.",
         "meaning": "පැහැදිලි ඉලක්ක සහිත සරල ව්‍යාපාර සැලැස්මක් සකස් කරන්න."
       }
     ],
     "listeningPractice": {
       "prompt": "Listen and choose the meaning: A good business plan takes customers' needs into account.",
       "audio": "A good business plan takes customers' needs into account.",
-      "reading": "",
+      "reading": "Purpose clauses and formal requests in business.",
       "options": [
         "A good business plan takes customers' needs into account.",
         "A different idea",
@@ -8085,7 +8085,7 @@ export const ENGLISH_B1_LESSONS = [
     "grammarTerms": [
       {
         "text": "අ රිපෝර්ට් ෂුඩ් ප්‍රෙසෙන්ට් දි ඩේටා ඇන්ඩ් කන්ක්ලූෂන්ස් ක්ලියර්ලි.",
-        "reading": "",
+        "reading": "Linking phrases, passive voice and cautious data interpretation.",
         "meaning": "A report should present the data and conclusions clearly."
       }
     ],
@@ -8114,29 +8114,29 @@ export const ENGLISH_B1_LESSONS = [
     "dialogue": [
       {
         "text": "A: A report should present the data and conclusions clearly.",
-        "reading": "",
+        "reading": "A: Linking phrases, passive voice and cautious data interpretation.",
         "meaning": "A report should present the data and conclusions clearly."
       },
       {
         "text": "B: It would be useful to display the data in a chart as well.",
-        "reading": "",
+        "reading": "B: It would be useful to display the data in a chart as well.",
         "meaning": "දත්ත ප්‍රස්ථාරයකින් ද පෙන්වීම ප්‍රයෝජනවත් වේවි."
       },
       {
         "text": "A: That will help readers notice the changes more easily.",
-        "reading": "",
+        "reading": "A: That will help readers notice the changes more easily.",
         "meaning": "එවිට පාඨකයන්ට වෙනස්කම් පහසුවෙන් දැකගත හැකියි."
       },
       {
         "text": "B: Add a short explanation of the most important results next to the chart.",
-        "reading": "",
+        "reading": "B: Add a short explanation of the most important results next to the chart.",
         "meaning": "ප්‍රස්ථාරය සමඟ වැදගත්ම ප්‍රතිඵල පිළිබඳ කෙටි විස්තරයක් එක් කරන්න."
       }
     ],
     "listeningPractice": {
       "prompt": "Listen and choose the meaning: A report should present the data and conclusions clearly.",
       "audio": "A report should present the data and conclusions clearly.",
-      "reading": "",
+      "reading": "Linking phrases, passive voice and cautious data interpretation.",
       "options": [
         "A report should present the data and conclusions clearly.",
         "A different idea",
@@ -8263,7 +8263,7 @@ export const ENGLISH_B1_LESSONS = [
     "grammarTerms": [
       {
         "text": "පබ්ලික් ඩිබේට් හෙල්ප්ස් අස් අන්ඩර්ස්ටෑන්ඩ් ඩිෆරන්ට් ඔපීනියන්ස්.",
-        "reading": "",
+        "reading": "Reported speech, opinion phrases and concession clauses.",
         "meaning": "Public debate helps us understand different opinions."
       }
     ],
@@ -8292,29 +8292,29 @@ export const ENGLISH_B1_LESSONS = [
     "dialogue": [
       {
         "text": "A: Public debate helps us understand different opinions.",
-        "reading": "",
+        "reading": "A: Reported speech, opinion phrases and concession clauses.",
         "meaning": "Public debate helps us understand different opinions."
       },
       {
         "text": "B: We should listen to both sides before reaching a conclusion.",
-        "reading": "",
+        "reading": "B: We should listen to both sides before reaching a conclusion.",
         "meaning": "නිගමනයකට එන්න පෙර දෙපාර්ශ්වයටම සවන් දිය යුතුයි."
       },
       {
         "text": "A: One speaker presented data, while the other shared personal experience.",
-        "reading": "",
+        "reading": "A: One speaker presented data, while the other shared personal experience.",
         "meaning": "එක් කථිකයෙක් දත්ත ඉදිරිපත් කළ අතර අනෙක් කෙනා පෞද්ගලික අත්දැකීමක් බෙදාගත්තා."
       },
       {
         "text": "B: It is important to check the data and understand the context.",
-        "reading": "",
+        "reading": "B: It is important to check the data and understand the context.",
         "meaning": "දත්ත පරීක්ෂා කර සන්දර්භය තේරුම් ගැනීම වැදගත්."
       }
     ],
     "listeningPractice": {
       "prompt": "Listen and choose the meaning: Public debate helps us understand different opinions.",
       "audio": "Public debate helps us understand different opinions.",
-      "reading": "",
+      "reading": "Reported speech, opinion phrases and concession clauses.",
       "options": [
         "Public debate helps us understand different opinions.",
         "A different idea",
@@ -8441,7 +8441,7 @@ export const ENGLISH_B1_LESSONS = [
     "grammarTerms": [
       {
         "text": "බිෆෝර් චූසිං අ සලූෂන් වී ෂුඩ් ඉවැලුවේට් පොසිබල් කොන්සිකුවෙන්සිස්.",
-        "reading": "",
+        "reading": "Conditionals, modal perfect and evaluation adjectives.",
         "meaning": "Before choosing a solution, we should evaluate possible consequences."
       }
     ],
@@ -8470,29 +8470,29 @@ export const ENGLISH_B1_LESSONS = [
     "dialogue": [
       {
         "text": "A: Before choosing a solution, we should evaluate possible consequences.",
-        "reading": "",
+        "reading": "A: Conditionals, modal perfect and evaluation adjectives.",
         "meaning": "Before choosing a solution, we should evaluate possible consequences."
       },
       {
         "text": "B: We should assess the consequences and contact another supplier immediately.",
-        "reading": "",
+        "reading": "B: We should assess the consequences and contact another supplier immediately.",
         "meaning": "ප්‍රතිවිපාක තක්සේරු කර වහාම වෙනත් සැපයුම්කරුවෙකු සම්බන්ධ කරගත යුතුයි."
       },
       {
         "text": "A: That may increase the costs.",
-        "reading": "",
+        "reading": "A: That may increase the costs.",
         "meaning": "එයින් වියදම් වැඩි විය හැකියි."
       },
       {
         "text": "B: Let us compare the cost of the delay with the cost of an alternative solution.",
-        "reading": "",
+        "reading": "B: Let us compare the cost of the delay with the cost of an alternative solution.",
         "meaning": "ප්‍රමාදයේ වියදම විකල්ප විසඳුමේ වියදම සමඟ සසඳමු."
       }
     ],
     "listeningPractice": {
       "prompt": "Listen and choose the meaning: Before choosing a solution, we should evaluate possible consequences.",
       "audio": "Before choosing a solution, we should evaluate possible consequences.",
-      "reading": "",
+      "reading": "Conditionals, modal perfect and evaluation adjectives.",
       "options": [
         "Before choosing a solution, we should evaluate possible consequences.",
         "A different idea",
@@ -8619,7 +8619,7 @@ export const ENGLISH_B1_LESSONS = [
     "grammarTerms": [
       {
         "text": "අ ෆ්ලෙක්සිබල් ප්ලෑන් හෙල්ප්ස් අස් අඩැප්ට් ටු චේන්ජස්.",
-        "reading": "",
+        "reading": "Future continuous, future perfect and conditional planning.",
         "meaning": "A flexible plan helps us adapt to changes."
       }
     ],
@@ -8648,29 +8648,29 @@ export const ENGLISH_B1_LESSONS = [
     "dialogue": [
       {
         "text": "A: A flexible plan helps us adapt to changes.",
-        "reading": "",
+        "reading": "A: Future continuous, future perfect and conditional planning.",
         "meaning": "A flexible plan helps us adapt to changes."
       },
       {
         "text": "B: Make a plan that includes deadlines, costs and a backup option.",
-        "reading": "",
+        "reading": "B: Make a plan that includes deadlines, costs and a backup option.",
         "meaning": "කාලසීමා, වියදම් සහ විකල්ප සැලැස්මක් ඇතුළත් සැලැස්මක් සකස් කරන්න."
       },
       {
         "text": "A: I cannot predict every change.",
-        "reading": "",
+        "reading": "A: I cannot predict every change.",
         "meaning": "සියලු වෙනස්කම් කලින් අනාවැකි කියන්න මට බැහැ."
       },
       {
         "text": "B: That is why the plan should be adjusted regularly to new circumstances.",
-        "reading": "",
+        "reading": "B: That is why the plan should be adjusted regularly to new circumstances.",
         "meaning": "නව තත්ත්වයන්ට අනුව සැලැස්ම නිතර සකස් කළ යුතුයි."
       }
     ],
     "listeningPractice": {
       "prompt": "Listen and choose the meaning: A flexible plan helps us adapt to changes.",
       "audio": "A flexible plan helps us adapt to changes.",
-      "reading": "",
+      "reading": "Future continuous, future perfect and conditional planning.",
       "options": [
         "A flexible plan helps us adapt to changes.",
         "A different idea",
@@ -8797,7 +8797,7 @@ export const ENGLISH_B1_LESSONS = [
     "grammarTerms": [
       {
         "text": "අ ක්ලියර් ප්‍රෙසෙන්ටේෂන් කනෙක්ට්ස් ඉග්සැම්පල්ස් රීසන්ස් ඇන්ඩ් අ කන්ක්ලූෂන්.",
-        "reading": "",
+        "reading": "Discourse markers for introductions, supporting points and conclusions.",
         "meaning": "A clear presentation connects examples, reasons and a conclusion."
       }
     ],
@@ -8826,29 +8826,29 @@ export const ENGLISH_B1_LESSONS = [
     "dialogue": [
       {
         "text": "A: A clear presentation connects examples, reasons and a conclusion.",
-        "reading": "",
+        "reading": "A: Discourse markers for introductions, supporting points and conclusions.",
         "meaning": "A clear presentation connects examples, reasons and a conclusion."
       },
       {
         "text": "B: Add a concrete example and clearly repeat the main conclusion at the end.",
-        "reading": "",
+        "reading": "B: Add a concrete example and clearly repeat the main conclusion at the end.",
         "meaning": "නිශ්චිත උදාහරණයක් එක් කර අවසානයේ ප්‍රධාන නිගමනය පැහැදිලිව නැවත කියන්න."
       },
       {
         "text": "A: That will help the audience follow the arguments more easily.",
-        "reading": "",
+        "reading": "A: That will help the audience follow the arguments more easily.",
         "meaning": "එවිට ප්‍රේක්ෂකයන්ට තර්ක පහසුවෙන් අනුගමනය කළ හැකියි."
       },
       {
         "text": "B: A good structure connects claims, evidence and a conclusion.",
-        "reading": "",
+        "reading": "B: A good structure connects claims, evidence and a conclusion.",
         "meaning": "හොඳ ව්‍යුහයක් අදහස්, සාක්ෂි සහ නිගමනය එකට සම්බන්ධ කරනවා."
       }
     ],
     "listeningPractice": {
       "prompt": "Listen and choose the meaning: A clear presentation connects examples, reasons and a conclusion.",
       "audio": "A clear presentation connects examples, reasons and a conclusion.",
-      "reading": "",
+      "reading": "Discourse markers for introductions, supporting points and conclusions.",
       "options": [
         "A clear presentation connects examples, reasons and a conclusion.",
         "A different idea",
