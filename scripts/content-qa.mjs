@@ -165,7 +165,7 @@ for (const dependency of ["expo-av", "expo-file-system", "react-native-iap", "re
   assert.equal(packageManifest.dependencies?.[dependency], undefined, `Paid/unused integration dependency must remain absent: ${dependency}`);
 }
 
-const relativeNamedImports = [...appSource.matchAll(/import\s*\{([\s\S]*?)\}\s*from\s*["']\.\/([^"']+)["']/gu)];
+const relativeNamedImports = [...appSource.matchAll(/import\s*\{([^}]*)\}\s*from\s*["']\.\/([^"']+)["']/gu)];
 assert.ok(relativeNamedImports.length > 0, "App.js: no relative named imports were discovered");
 const checkedAppImports = new Set();
 for (const match of relativeNamedImports) {
