@@ -1,5 +1,5 @@
 name: BasaNova one-time QA and Android build
-# Refresh: rerun after aligning B2 bias pronunciation variants.
+# Refresh: rerun after B2 innovation pronunciation alignment.
 
 on:
   push:
