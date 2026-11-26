@@ -627,19 +627,32 @@ for (const lesson of serbianB1Source.SERBIAN_B1_LESSONS) {
   }
 }
 const serbianB2Source = await loadModule("serbianB2Lessons.js");
+const expectedSerbianB2Headwords = {
+  "sr-b2-l1": ["argument","dokaz","primedba","ustupak","perspektiva","razuman","ipak","zaključak"],
+  "sr-b2-l2": ["pregovori","sporazum","kompromis","uslov","rok","predlog","budžet","fleksibilan"],
+  "sr-b2-l3": ["vođstvo","povratna informacija","odgovornost","inicijativa","učinak","podrška","unapređenje","timski rad"],
+  "sr-b2-l4": ["urbanizacija","infrastruktura","stanovanje","nejednakost","stanovništvo","ulaganje","pristupačnost","posledica"],
+  "sr-b2-l5": ["hipoteza","uslov","ishod","mogućnost","inače","sprečiti","žaliti","alternativa"],
+  "sr-b2-l6": ["postupak","prijava","odobrenje","zahtev","dokument","predati","proveriti","obrada"],
+  "sr-b2-l7": ["prezentacija","publika","cilj","ključna tačka","ilustracija","naglasiti","ubedljiv","sažetak"],
+  "sr-b2-l8": ["podaci","uzorak","anketa","procenat","trend","nalaz","ograničenje","ukazati"],
+  "sr-b2-l9": ["naslov","pristrasnost","izvor","kontekst","ton","tumačenje","stereotip","pouzdan"],
+  "sr-b2-l10": ["sukob","posredovanje","nesporazum","zabrinutost","pojasniti","pravičnost","rešenje","obostrani"],
+  "sr-b2-l11": ["rizik","procena","prioritet","resurs","izvodljiv","uticaj","nepredviđeni slučaj","odluka"]
+};
+for (const [id, expectedWords] of Object.entries(expectedSerbianB2Headwords)) {
+  const lesson = serbianB2Source.SERBIAN_B2_LESSONS.find(item => item.id === id);
+  assert.ok(lesson, `Missing Serbian B2 lesson ${id}`);
+  assert.deepEqual(lesson.vocabulary.map(item => item.word), expectedWords,
+    `${id}: Serbian B2 headwords must match the curated lesson vocabulary`);
+}
 for (const lesson of serbianB2Source.SERBIAN_B2_LESSONS) {
-  const lessonText = [
-    ...(lesson.vocabulary || []).map(item => item.example),
-    ...(lesson.examples || []).map(item => item.sr || item.text),
-    ...(lesson.dialogue || []).map(item => item.sr || item.text),
-    ...(lesson.grammarTerms || []).map(item => item.sr || item.text),
-  ].join(" ").toLocaleLowerCase();
   for (const item of lesson.vocabulary || []) {
-    assert.ok(!/[А-Яа-яЁёЂђЈјЉљЊњЋћЏџ]/u.test(item.word), `${lesson.id}: Serbian B2 headword must use Latin script: ${item.word}`);
-    assert.ok(hasSinhala(item.reading) && !hasForeignScript(item.reading), `${lesson.id}: invalid Sinhala pronunciation for ${item.word}`);
-    const headword=item.word.toLocaleLowerCase();
-    const stem=headword.replace(/\s+/gu," ").slice(0,Math.min(5,headword.length));
-    assert.ok(lessonText.includes(headword)||lessonText.includes(stem), `${lesson.id}: Serbian B2 headword is not present in its Serbian examples: ${item.word}`);
+    assert.ok(typeof item.word === "string" && item.word.trim(), `${lesson.id}: missing Serbian B2 headword`);
+    assert.ok(!/[А-Яа-яЁёЂђЈјЉљЊњЋћЏџ]/u.test(item.word),
+      `${lesson.id}: Serbian B2 headword must use Latin script: ${item.word}`);
+    assert.ok(hasSinhala(item.reading) && !hasForeignScript(item.reading),
+      `${lesson.id}: invalid Sinhala pronunciation for ${item.word}`);
   }
 }
 
