@@ -1,5 +1,5 @@
 name: BasaNova one-time QA and Android build
-# Refresh: rerun after B1/B2 combined Sinhala meaning validator fix.
+# Refresh: rerun after Serbian B2 sample pronunciation repair.
 
 on:
   push:
