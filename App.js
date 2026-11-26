@@ -509,6 +509,12 @@ export default function App(){
 
  const missionDoneRef=useRef(new Set());
  const completeMission=i=>{
+  const today=localDateKey();
+  if(missionDateRef.current!==today){
+   missionDateRef.current=today;
+   missionDoneRef.current.clear();
+   setMissionDone([]);
+  }
   if(!Number.isInteger(i)||i<0||i>=MISSIONS.length||missionDoneRef.current.has(i))return;
   missionDoneRef.current.add(i);
   setMissionDone([...missionDoneRef.current]);
