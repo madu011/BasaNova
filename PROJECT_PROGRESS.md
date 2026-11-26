@@ -155,5 +155,5 @@
 ## 2026-11-26 — assessment QA count correction
 - Source audit found a guaranteed false failure in the global assessment identity check: it required every language/level group to contain 30 items, but A1 intentionally has a 20-question final exam per language and no separate 10-question A1 mixed-revision assessment in that formal bank. A2–C2 each have 10 mixed-revision plus 20 final questions per language.
 - Updated the expected group count to 20 for A1 and 30 for A2–C2. Kept the global total at 340 and clarified the expected composition: 40 A1 final questions plus 300 A2–C2 revision/final questions.
-- QA source fix commit: `bbd1cb0f8374762c94579acdcb787ba0c2f1ef81`.
+- QA source commits: `8ff5e39246c84aacb8d080a258185f60415acc2f` (format-tolerant daily rollover regression assertions) and `bbd1cb0f8374762c94579acdcb787ba0c2f1ef81` (correct A1 vs A2–C2 assessment counts).
 - This was a QA-script defect, not a learner-facing app defect. Automated QA remains unexecuted.
