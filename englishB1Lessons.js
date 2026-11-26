@@ -8,7 +8,7 @@ export const ENGLISH_B1_LESSONS = [
       {
         "word": "experience",
         "reading": "එක්ස්පීරියන්ස්",
-        "meaning": "අත්දැකීම",
+        "meaning": "අත්දැකීම / පළපුරුද්ද",
         "example": "Last year, I had my first major experience abroad.",
         "exampleReading": "ලාස්ට් යියර් අයි හැඩ් මයි ෆර්ස්ට් මේජර් එක්ස්පීරියන්ස් අබ්‍රෝඩ්.",
         "translation": "පසුගිය අවුරුද්දේ මට විදේශයකදී පළමු විශාල අත්දැකීම ලැබුණා."
@@ -397,9 +397,9 @@ export const ENGLISH_B1_LESSONS = [
         "word": "solution",
         "reading": "සලූෂන්",
         "meaning": "විසඳුම",
-        "example": "Can we change the schedule?",
-        "exampleReading": "කෑන් වී චේන්ජ් දි ස්කෙජූල්?",
-        "translation": "අපිට කාලසටහන වෙනස් කරන්න පුළුවන්ද?"
+        "example": "We found a good solution.",
+        "exampleReading": "වී ෆවුන්ඩ් අ ගුඩ් සලූෂන්.",
+        "translation": "අපි හොඳ විසඳුමක් සොයාගත්තා."
       },
       {
         "word": "suggest",
@@ -4458,7 +4458,7 @@ export const ENGLISH_B1_LESSONS = [
       {
         "word": "experience",
         "reading": "එක්ස්පීරියන්ස්",
-        "meaning": "පළපුරුද්ද",
+        "meaning": "අත්දැකීම / පළපුරුද්ද",
         "example": "I gained valuable experience working with customers in retail.",
         "exampleReading": "අයි ග්අඉන්එඩ් ව්අල්අඅබල්එ එක්ස්ප්එර්ඉඑන්කඑ ව්ඔර්ක්ඉන්ග් විත් කඅස්ට්ඔම්එර්ස් ඉන් ර්එට්අඉල්",
         "translation": "මම සිල්ලර වෙළඳාමේ පාරිභෝගිකයන් සමඟ වැඩ කරමින් වටිනා පළපුරුද්දක් ලබාගත්තා."
