@@ -1,5 +1,5 @@
 name: BasaNova one-time QA and Android build
-# Refresh: rerun after A2 invite assessment alignment fix.
+# Refresh: rerun after the A2 contextual-meaning QA correction.
 
 on:
   push:
