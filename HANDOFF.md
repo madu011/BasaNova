@@ -1,7 +1,7 @@
 # Latest continuation checkpoint — 2026-11-26
 
 ## 2026-11-26 — current grouped fixes
-- Workflow safety: `.github/workflows/android-apk.yml` is manual-only. QA runs by default; APK build is opt-in and gated on QA success. Normal pushes do not trigger Actions or APK jobs. Workflow commit: `44e043575b3da4cd15174f57f1b99a48c4e044ec`.
+- Workflow safety: `.github/workflows/android-apk.yml` is manual-only. QA runs by default and now includes `npx expo install --check`; APK build is opt-in and gated on QA success. Normal pushes do not trigger Actions or APK jobs. Workflow commits: `44e043575b3da4cd15174f57f1b99a48c4e044ec`, `58ff981ee762ad6d42acdb1d3cee49f88015bb7b`.
 - Documentation updated to match the manual QA / optional APK workflow: README commit `83f2c9cfe5be72014d47e619bd2a88ece088f4a9`; BUILD commit `968da6a6e596bfb3a81cdc1e853ed58829c171be`.
 - Daily mission race: rapid taps could award duplicate XP because `completeMission` read a stale React state closure. Added synchronous `missionDoneRef` duplicate guard, restore synchronization and local-date rollover clearing. App commit: `8a3c3211be2e4952021ffa44ee76abea5be88b41`; QA guard commit: `a33c82d4d2fd90b7943bd0688ac9af9321c275cc`.
 - Progress log update recorded in `PROJECT_PROGRESS.md`.
