@@ -263,8 +263,8 @@ assert.match(appSource, /const key=lesson\.id\+"-"\+questionIndex/u,
 // Defensive local-data restore and language-service safeguards.
 assert.match(appSource, /saved\.translateHistory\.filter\(item=>item&&typeof item==="object"&&typeof item\.source==="string"&&typeof item\.result==="string"\)\.slice\(0,100\)/u,
   "Restored translator history must reject malformed entries and remain bounded");
-assert.match(appSource, /const cleanWords=value=>Array\.isArray\(value\)\?\[\.\.\.new Set\(value\.filter\(item=>typeof item==="string"&&item\.trim\(\)\)\.map\(item=>item\.trim\(\)\)\)\]:\[\]/u,
-  "Restored favourites must be trimmed, non-empty and unique");
+assert.match(appSource, /const cleanLearnedWords=value=>Array\.isArray\(value\)\s*\?\[\.\.\.new Set\(value\.filter\(item=>typeof item==="string"&&item\.trim\(\)\)\.map\(item=>item\.trim\(\)\)\)\]\.slice\(0,2000\)\s*:\[\]/u,
+  "Restored favourites must be trimmed, non-empty, unique and bounded");
 assert.match(appSource, /setFavoriteWords\(isRecord\(saved\.favoriteWords\)\?\{Serbian:cleanWords\(saved\.favoriteWords\.Serbian\),English:cleanWords\(saved\.favoriteWords\.English\)\}:\{Serbian:saved\.language==="Serbian"\?cleanWords\(saved\.favoriteWords\):\[\],English:saved\.language==="English"\?cleanWords\(saved\.favoriteWords\):\[\]\}\)/u,
   "Favourite restore must migrate legacy arrays into the saved language and preserve separate language lists");
 assert.match(appSource, /const activeFavoriteWords=language\?\(favoriteWords\[language\]\|\|\[\]\):\[\]/u,
