@@ -157,3 +157,14 @@
 - Updated the expected group count to 20 for A1 and 30 for A2–C2. Kept the global total at 340 and clarified the expected composition: 40 A1 final questions plus 300 A2–C2 revision/final questions.
 - QA source commits: `8ff5e39246c84aacb8d080a258185f60415acc2f` (format-tolerant daily rollover regression assertions) and `bbd1cb0f8374762c94579acdcb787ba0c2f1ef81` (correct A1 vs A2–C2 assessment counts).
 - This was a QA-script defect, not a learner-facing app defect. Automated QA remains unexecuted.
+
+
+## 2026-11-26 — B1/B2 assessment listening-bank repair
+
+- A focused answer/audio audit found verified content defects in B1 final listening items: both Serbian and English Q4 had an answer describing the previous job rather than the spoken current job; both Q8 answer keys described a rain delay instead of the spoken plan change; English Q16 used Sinhala phonetics as the audio text; English Q20 also used Sinhala phonetics as audio and an unrelated topic label as its reading guide.
+- Corrected the B1 answer options, explanations, spoken English source sentences and Sinhala pronunciation guides. B1 fixes: `6250c993e212d3d73d1c3104bbbd4aa03b5c79bc` and `7fc693f52e57983dab9eddc521384309805e5234`.
+- A similar audit found B2 final listening Q18–Q20 in both languages had all reused Q17's answer options, answer key, explanation and/or pronunciation guide. Replaced them with translations and phonetic guides matching each actual spoken sentence. B2 fix: `105e794dcd3bbff3811069463edee5ecd6725e2a`.
+- Added static regression assertions for the repaired B1/B2 question IDs, correct options, explanations and Sinhala pronunciation guides. QA guard commit: `47740de3a105c60396ac899a206ad7ac4a5e5124`.
+- Follow-up source inspection confirms all six B2 items now have distinct listening pronunciation guides and aligned correct options; B1 English Q20 now stores the English sentence as audio text and Sinhala phonetics as its reading guide. This is source inspection only; `npm run qa:content`, Expo validation and APK build have not yet been executed.
+- The user has now explicitly authorized completing the full build. Preserve the QA-first gate: run QA first, then opt into the Android debug APK only if QA passes. The available GitHub connection can inspect runs but does not expose a workflow-dispatch action; do not claim a run or artifact until one is actually observed.
+- Overall implementation baseline remains **90%**; release verification remains separate.
