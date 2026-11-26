@@ -1,19 +1,16 @@
-name: BasaNova Android APK
+name: BasaNova QA and Android APK
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - "App.js"
-      - "app.json"
-      - "package.json"
-      - "scripts/**"
-      - "*.js"
-      - ".github/workflows/android-apk.yml"
   workflow_dispatch:
+    inputs:
+      build_android_apk:
+        description: "Build an Android debug APK after content QA passes"
+        required: false
+        default: false
+        type: boolean
 
 concurrency:
-  group: basanova-android-apk-${{ github.ref }}
+  group: basanova-validation-${{ github.ref }}
   cancel-in-progress: true
 
 permissions:
@@ -40,6 +37,8 @@ jobs:
 
   android-debug-apk:
     name: Build installable Android debug APK
+    needs: content-qa
+    if: ${{ inputs.build_android_apk == true }}
     runs-on: ubuntu-latest
     timeout-minutes: 60
     steps:
