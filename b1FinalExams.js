@@ -58,7 +58,7 @@ export const SERBIAN_B1_FINAL_EXAM = [
     "options": [
       "දුම්රිය ප්‍රමාද විය හැකියි, නමුත් අපි බොහෝවිට වෙලාවට එනවා.",
       "නිතිපතා නැවත කිරීමෙන් අලුත් වචන හොඳින් මතක තබාගන්න පුළුවන්.",
-      "කලින් මම කුඩා වෙළඳසැලක වැඩ කළා.",
+      "දැන් මම විශාල සමාගමක වැඩ කරනවා.",
       "අලුත්වැඩියා නිසා බස් රථය වෙනත් නැවතුමකින් පිටත් වෙනවා."
     ],
     "answer": 2,
@@ -122,7 +122,7 @@ export const SERBIAN_B1_FINAL_EXAM = [
     "options": [
       "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්.",
       "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා.",
-      "තද වැස්ස නිසා තරගය කල් දැමුවා.",
+      "ප්‍රමාණවත් කාලයක් නොතිබූ නිසා අපි සැලැස්ම වෙනස් කළා.",
       "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා."
     ],
     "answer": 2,
@@ -381,7 +381,7 @@ export const ENGLISH_B1_FINAL_EXAM = [
     "options": [
       "It may rain, but we will probably arrive on time.",
       "Regular revision helps us remember new words.",
-      "කලින් මම කුඩා වෙළඳසැලක වැඩ කළා.",
+      "දැන් මම විශාල සමාගමක වැඩ කරනවා.",
       "Because of the roadworks, the bus leaves from another stop."
     ],
     "answer": 2,
@@ -445,7 +445,7 @@ export const ENGLISH_B1_FINAL_EXAM = [
     "options": [
       "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්.",
       "වැඩ ගොඩක් තිබුණත් ප්‍රමාණවත් නින්දක් ලබාගන්න උත්සාහ කරනවා.",
-      "Because of heavy rain, the match was postponed.",
+      "ප්‍රමාණවත් කාලයක් නොතිබූ නිසා අපි සැලැස්ම වෙනස් කළා.",
       "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා."
     ],
     "answer": 2,
@@ -567,8 +567,8 @@ export const ENGLISH_B1_FINAL_EXAM = [
     "id": "b1-en-final-16",
     "type": "listening",
     "prompt": "Listen and choose the correct meaning of the sentence.",
-    "audio": "ඉෆ් දි සර්විස් ඩස් නොට් මැච් දි බුකින් වී කෑන් රික්වෙස්ට් අ සලූෂන්.",
-    "reading": "Conditionals and polite indirect requests.",
+    "audio": "If the service does not match the booking, we can request a solution.",
+    "reading": "ඉෆ් දි සර්විස් ඩස් නොට් මැච් දි බුකින් වී කෑන් රික්වෙස්ට් අ සලූෂන්.",
     "word": null,
     "options": [
       "ඔබට මට තහවුරු කිරීම එවන්න පුළුවන්ද?",
