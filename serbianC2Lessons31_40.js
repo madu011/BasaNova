@@ -1474,9 +1474,9 @@ export const SERBIAN_C2_LESSONS_31_40 = [
     "objective": "Razumite strategije slušanja, segmentacije i upravljanja informacijama tokom usmenog prevođenja.",
     "vocabulary": [
       {
-        "word": "Simultano prevođenje zahteva slušanje i govor u isto vreme.",
+        "word": "simultano prevođenje",
         "reading": "සිමුල්තානො ප්‍රෙවොජෙන්යේ",
-        "meaning": "සමකාලීන පරිවර්තනයේදී එකවර සවන් දීමත් කථා කිරීමත් අවශ්‍ය වේ.",
+        "meaning": "සමකාලීන පරිවර්තනය",
         "example": "Tumač deli govor na smisaone celine.",
         "translation": "භාෂණය අර්ථවත් කොටස්වලට බෙදයි."
       },
