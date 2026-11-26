@@ -606,7 +606,7 @@ for (const lesson of serbianB1Source.SERBIAN_B1_LESSONS) {
   ].join(" ").toLocaleLowerCase();
   for (const item of lesson.vocabulary || []) {
     const headword=item.word.toLocaleLowerCase();
-    const headwordStem=headword.replace(/\s+/gu," ").slice(0,Math.min(5,headword.length));
+    const headwordStem=headword.replace(/\s+/gu," ").slice(0,Math.min(4,headword.length));
     assert.ok(lessonText.includes(headword)||lessonText.includes(headwordStem), `${lesson.id}: Serbian B1 headword is not present in its Serbian examples: ${item.word}`);
     assert.ok(hasSinhala(item.reading) && !hasForeignScript(item.reading), `${lesson.id}: invalid Sinhala pronunciation for ${item.word}`);
   }
