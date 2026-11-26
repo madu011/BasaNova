@@ -1,5 +1,5 @@
 name: BasaNova one-time QA and Android build
-# Refresh: rerun after C2 final-exam vocabulary headword repairs.
+# Refresh: rerun after C2 vocabulary and C-level title QA fixes.
 
 on:
   push:
