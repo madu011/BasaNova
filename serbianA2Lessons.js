@@ -882,10 +882,10 @@ export const SERBIAN_A2_LESSONS = [
       {
         "word": "pozvati",
         "reading": "පොස්වති",
-        "meaning": "ආරාධනා කරනවා",
-        "example": "Planiram da idem u centar.",
-        "translation": "මම නගර මධ්‍යයට යන්න සැලසුම් කරනවා.",
-        "exampleReading": "ප්ලනිරාම් දා ඉදෙම් උ චෙන්තාර්."
+        "meaning": "ආරාධනා කරන්න",
+        "example": "Želim da pozovem prijatelje na večeru.",
+        "translation": "මට මිතුරන්ට රාත්‍රී ආහාරයට ආරාධනා කරන්න ඕනේ.",
+        "exampleReading": "ෂෙලිම් දා පොස්වොවෙම් ප්‍රියාතෙල්යෙ නා වෙචෙරු."
       },
       {
         "word": "dogovor",
