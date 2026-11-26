@@ -415,8 +415,13 @@ function validateAudioSet(label, questions, expectedCount) {
   assert.equal(questions.length, expectedCount, `${label}: unexpected question count`);
   for (const [index, question] of questions.entries()) {
     assert.ok(typeof question.audio === "string" && question.audio.trim(), `${label} #${index + 1}: missing audio text`);
-    assert.ok(hasSinhala(question.reading) && !hasForeignScript(question.reading), `${label} #${index + 1}: invalid Sinhala pronunciation`);
     assert.ok(Array.isArray(question.options) && question.options.length >= 2, `${label} #${index + 1}: missing options`);
+    if (Array.isArray(question.readings)) {
+      assert.equal(question.readings.length, question.options.length, `${label} #${index + 1}: pronunciation options must align with answer options`);
+      assert.ok(question.readings.every(reading => hasSinhala(reading) && !hasForeignScript(reading)), `${label} #${index + 1}: invalid Sinhala option pronunciation`);
+    } else {
+      assert.ok(hasSinhala(question.reading) && !hasForeignScript(question.reading), `${label} #${index + 1}: invalid Sinhala pronunciation`);
+    }
     assert.equal(new Set(question.options).size, question.options.length, `${label} #${index + 1}: duplicate options`);
     assert.ok(Number.isInteger(question.answer) && question.answer >= 0 && question.answer < question.options.length, `${label} #${index + 1}: invalid answer index`);
   }
