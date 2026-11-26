@@ -5852,11 +5852,11 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "uključenost",
-        "reading": "ලයබල්",
-        "meaning": "සහභාගීත්වය",
-        "example": "Odluka treba da bude jasna, dosledna i obrazložena.",
-        "translation": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු.",
-        "exampleReading": "ඩෙඩ්ලයින්"
+        "reading": "උක්ල්‍යුචෙනොස්ත්",
+        "meaning": "සහභාගීත්වය / ඇතුළත්කම",
+        "example": "Uključenost svih članova je važna.",
+        "translation": "සියලු සාමාජිකයන්ගේ සහභාගීත්වය වැදගත්.",
+        "exampleReading": "උක්ල්‍යුචෙනොස්ත් ස්විහ් ච්ලානොවා යෙ වාෂ්නා."
       },
       {
         "word": "vizuelno pomagalo",
@@ -6038,11 +6038,11 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "prilagođavanje",
-        "reading": "රිනියුවල්",
+        "reading": "ප්‍රිලාගොජාවාන්යෙ",
         "meaning": "අනුගත වීම",
         "example": "Ako se okolnosti promene, prilagodićemo naš plan.",
-        "translation": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු.",
-        "exampleReading": "නෙගොෂියේට්"
+        "translation": "තත්ත්වයන් වෙනස් වුවහොත්, අපි අපගේ සැලැස්මට අනුවර්තනය වන්නෙමු.",
+        "exampleReading": "අකො සේ ඔකොල්නොස්ති ප්‍රොමෙනෙ, ප්‍රිලාගොදියෙමො නාෂ් ප්ලාන්."
       }
     ],
     "grammarTitle": "Contrastive clauses and nuanced comparisons",
@@ -8126,11 +8126,11 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "uključenost",
-        "reading": "ස්පොරසුම්",
-        "meaning": "ඇතුළත්කම",
-        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
-        "translation": "සමාජ අසමානතාව සහ ඇතුළත්කම: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි.",
-        "exampleReading": "ප්‍රෙද්ලාෂෙම් දා උපොරෙදිමෝ නෙකොලිකෝ මොගුචිහ රෙෂෙන්යා."
+        "reading": "උක්ල්‍යුචෙනොස්ත්",
+        "meaning": "සහභාගීත්වය / ඇතුළත්කම",
+        "example": "Veća uključenost zaposlenih poboljšava saradnju.",
+        "translation": "සේවකයන්ගේ වැඩි සහභාගීත්වය සහයෝගිතාව වැඩි දියුණු කරයි.",
+        "exampleReading": "වෙචා උක්ල්‍යුචෙනොස්ත් සාපොස්ලෙනිහ පොබොල්ය්ෂාවා සාරාද්න්යු."
       },
       {
         "word": "pristup",
@@ -8482,11 +8482,11 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "inovacija",
-        "reading": "ස්පොරසුම්",
+        "reading": "ඉනොවාත්සියා",
         "meaning": "නවෝත්පාදනය",
-        "example": "Predlažem da uporedimo nekoliko mogućih rešenja.",
-        "translation": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි.",
-        "exampleReading": "ප්‍රෙද්ලාෂෙම් දා උපොරෙදිමෝ නෙකොලිකෝ මොගුචිහ රෙෂෙන්යා."
+        "example": "Ova inovacija može smanjiti potrošnju energije.",
+        "translation": "මෙම නවෝත්පාදනය බලශක්ති පරිභෝජනය අඩු කළ හැකියි.",
+        "exampleReading": "ඔවා ඉනොවාත්සියා මොෂෙ ස්මාන්යිති පොත්‍රොෂ්න්යු එනෙර්ගියේ."
       },
       {
         "word": "ulaganje",
