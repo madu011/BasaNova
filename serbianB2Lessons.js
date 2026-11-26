@@ -2374,7 +2374,7 @@ export const SERBIAN_B2_LESSONS = [
     "vocabulary": [
       {
         "word": "inovacija",
-        "reading": "ඉනොවාත්සියා",
+        "reading": "ඉන්ඔව්අත්ස්ඉය්අ",
         "meaning": "නවෝත්පාදනය",
         "example": "Algoritam može ubrzati posao, ali mora biti transparentan.",
         "translation": "ඇල්ගොරිතමයකින් වැඩ වේගවත් කළ හැකි නමුත් එය විනිවිදභාවයෙන් යුතු විය යුතුයි.",
