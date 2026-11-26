@@ -226,6 +226,20 @@ assert.match(appSource, /saved\.missionDate===missionDateRef\.current/u,
 assert.match(appSource, /AppState\.addEventListener\("change"/u,
   "Daily mission date must be checked when the app resumes");
 
+// Mission completion is idempotent even when a learner taps repeatedly before
+// React has rendered the updated missionDone state. The ref is restored and
+// rolled over with the local calendar date so XP cannot be farmed by rapid taps.
+assert.match(appSource, /const missionDoneRef=useRef\(new Set\(\)\)/u,
+  "Daily mission completion must use a synchronous duplicate guard");
+assert.match(appSource, /missionDoneRef\.current\.has\(i\)/u,
+  "A mission already completed must not award XP again");
+assert.match(appSource, /missionDoneRef\.current\.add\(i\);setMissionDone\(\[\.\.\.missionDoneRef\.current\]\);setXp\(v=>v\+10\)/u,
+  "A first mission completion must update the guard, visible state and XP exactly once");
+assert.match(appSource, /missionDoneRef\.current=new Set\(restoredMissions\)/u,
+  "Restored daily mission state must also restore the duplicate guard");
+assert.match(appSource, /missionDoneRef\.current\.clear\(\);setMissionDone\(\[\]\)/u,
+  "Daily rollover must clear the duplicate guard together with visible mission state");
+
 // Final-exam interaction safeguards: A1 confirms answers individually and can
 // reset the entire attempt; A2–C2 submit only after all 20 answers are present,
 // lock choices after submission, and clear the correct language-scoped answers
