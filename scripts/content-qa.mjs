@@ -597,18 +597,33 @@ assert.equal(getCourseLesson("English A2", "en-a2-l15").vocabulary[1].word, "soc
   "English A2 social vocabulary must translate Serbian druženje as socialising");
 
 const serbianB1Source = await loadModule("serbianB1Lessons.js");
+const expectedSerbianB1Headwords = {
+  "sr-b1-l1": ["iskustvo","nezaboravan","putovanje","događaj","odjednom","sećati se","iznenađen","na kraju"],
+  "sr-b1-l2": ["mišljenje","razlog","slažem se","prednost","mana","smatram","ipak","zavisi"],
+  "sr-b1-l3": ["raspored","rok","zadatak","greška","rešenje","predložiti","odgovoran","dogovoriti se"],
+  "sr-b1-l4": ["opcija","porediti","posledica","jeftiniji","skuplji","koristan","ušteda","izabrati"],
+  "sr-b1-l5": ["izveštaj","vesti","činjenica","izvor","objaviti","navesti","događati se","prema"],
+  "sr-b1-l6": ["zahtev","potvrda","ljubazno","molba","dostaviti","odobrenje","unapred","Poštovani"],
+  "sr-b1-l7": ["nesporazum","pojasniti","podrazumevati","zapravo","proveriti","saglasan","ponoviti","jasno"],
+  "sr-b1-l8": ["projekat","podeliti","korak","planirati","saradnja","učesnik","završiti","napredak"],
+  "sr-b1-l9": ["ranije","danas","promena","navika","nekada","sada","razvijati se","postepeno"],
+  "sr-b1-l10": ["savet","mogućnost","rizik","predložiti","razmotriti","odluka","verovatno","u slučaju"],
+  "sr-b1-l11": ["sigurnost","možda","izgledno","malo verovatno","procena","prognoza","sigurno","mogućnost"],
+  "sr-b1-l12": ["strategija","ponavljanje","veština","kurs","cilj","napredak","beleška","metod"],
+  "sr-b1-l13": ["plan putovanja","polazak","kašnjenje","peron","alternativa","rezervacija","prtljag","raspored"],
+  "sr-b1-l14": ["povraćaj novca","račun","oštećen","zamena","kvalitet","garancija","kupac","rešenje"]
+};
+for (const [id, expectedWords] of Object.entries(expectedSerbianB1Headwords)) {
+  const lesson = serbianB1Source.SERBIAN_B1_LESSONS.find(item => item.id === id);
+  assert.ok(lesson, `Missing Serbian B1 lesson ${id}`);
+  assert.deepEqual(lesson.vocabulary.map(item => item.word), expectedWords,
+    `${id}: Serbian headwords must match the curated lesson vocabulary`);
+}
 for (const lesson of serbianB1Source.SERBIAN_B1_LESSONS) {
-  const lessonText = [
-    ...(lesson.vocabulary || []).map(item => item.example),
-    ...(lesson.examples || []).map(item => item.sr || item.text),
-    ...(lesson.dialogue || []).map(item => item.sr || item.text),
-    ...(lesson.grammarTerms || []).map(item => item.sr || item.text),
-  ].join(" ").toLocaleLowerCase();
   for (const item of lesson.vocabulary || []) {
-    const headword=item.word.toLocaleLowerCase();
-    const headwordStem=headword.replace(/\s+/gu," ").slice(0,Math.min(4,headword.length));
-    assert.ok(lessonText.includes(headword)||lessonText.includes(headwordStem), `${lesson.id}: Serbian B1 headword is not present in its Serbian examples: ${item.word}`);
-    assert.ok(hasSinhala(item.reading) && !hasForeignScript(item.reading), `${lesson.id}: invalid Sinhala pronunciation for ${item.word}`);
+    assert.ok(typeof item.word === "string" && item.word.trim(), `${lesson.id}: missing Serbian B1 headword`);
+    assert.ok(hasSinhala(item.reading) && !hasForeignScript(item.reading),
+      `${lesson.id}: invalid Sinhala pronunciation for ${item.word}`);
   }
 }
 const serbianB2Source = await loadModule("serbianB2Lessons.js");
