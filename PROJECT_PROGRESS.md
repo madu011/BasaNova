@@ -110,3 +110,12 @@
 - These are source changes and static inspection only. The newly triggered GitHub Actions runs have not yet completed; no QA pass or APK build success is claimed.
 - The previously generated BasaNova icon image is not available as a repository file in the current GitHub checkout. Before wiring the exact same image into Android launcher/adaptive icon and in-app branding, request that the user upload the generated icon image as a chat attachment.
 - Next: obtain the exact icon image attachment; inspect/align app icon, splash and in-app brand usage; check latest Actions runs and fix actual QA/build failures; update progress only after verified implementation and release checks.
+
+
+## 2026-11-26 — prevent accidental Actions/APK usage
+- Audited the current workflow against the source-only QA-first project rule and found it still triggered on pushes and ran QA/APK jobs independently. This contradicted the documented manual-only policy and could consume Actions usage during ordinary source edits.
+- Updated `.github/workflows/android-apk.yml`: only manual dispatch is allowed; content QA is the default job; the Android APK job is opt-in via `build_android_apk` and depends on successful QA. Normal pushes no longer start CI or APK builds.
+- Updated README.md and BUILD.md to explain the manual QA-only default and explicit APK opt-in.
+- Workflow commit: `44e043575b3da4cd15174f57f1b99a48c4e044ec`. Documentation commits follow this entry.
+- No QA, Expo validation, APK build, or device test was run. The workflow change is source/configuration work only. The GitHub Actions runner-allocation restriction remains unresolved; do not claim the app is error-free or tests passed.
+- Implementation baseline remains 90%; release verification is tracked separately.
