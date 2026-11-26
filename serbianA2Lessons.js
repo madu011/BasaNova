@@ -4334,7 +4334,7 @@ export const SERBIAN_A2_LESSONS = [
       {
         "word": "dokument",
         "reading": "දොකුමෙන්ත්",
-        "meaning": "දොකුමෙන්ත්",
+        "meaning": "ලේඛනය",
         "example": "Gde mogu da predam ovaj zahtev?",
         "translation": "මට මේ ඉල්ලීම භාරදෙන්න පුළුවන් කොහෙද?",
         "exampleReading": "ග්දෙ මොගු දා ප්‍රෙදාම් ඔවායි සාහ්තෙව්?"
