@@ -392,7 +392,7 @@ assert.match(appSource, /accessibilityLabel="English පාඨමාලාව �
 
 assert.match(appSource, /accessibilityLabel="වචනය, සිංහල තේරුම හෝ උච්චාරණය සොයන්න"/u,
   "Vocabulary search input must have a descriptive screen-reader label");
-assert.match(appSource, /accessibilityLabel="පරිවර්තනය සඳහා සිංහල වාක්‍යය ලියන්න"/u,
+assert.match(appSource, /accessibilityLabel=\{translateDirection==="si-sr"\?"පරිවර්තනය සඳහා සිංහල වාක්‍යය ලියන්න":"පරිවර්තනය සඳහා Serbian වාක්‍යය ලියන්න"\}/u,
   "Translator input must have a descriptive screen-reader label");
 assert.match(appSource, /accessibilityLabel="සිංහල වාක්‍යය Serbian භාෂාවට පරිවර්තනය කරන්න"/u,
   "Translator submit action must have a descriptive screen-reader label");
