@@ -16,7 +16,7 @@ export const ENGLISH_B1_LESSONS = [
       {
         "word": "memorable",
         "reading": "මෙමරබල්",
-        "meaning": "මතකයේ රැඳෙන",
+        "meaning": "අමතක නොවන",
         "example": "It was a truly memorable day.",
         "exampleReading": "ඉට් වොස් අ ට්‍රූලි මෙමරබල් ඩේ.",
         "translation": "එය ඇත්තෙන්ම මතකයේ රැඳෙන දවසක් වුණා."
