@@ -1,5 +1,5 @@
 name: BasaNova one-time QA and Android build
-# Refresh: rerun after the A2 contextual-meaning QA correction.
+# Refresh: rerun after Serbian B1 contextual synonym validation fix.
 
 on:
   push:
