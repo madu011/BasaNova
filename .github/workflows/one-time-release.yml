@@ -1,5 +1,5 @@
 name: BasaNova one-time QA and Android build
-# Refresh: rerun after Serbian B1 speaker-label tokenization fix.
+# Refresh: rerun after Serbian B1 headword inference threshold fix.
 
 on:
   push:
