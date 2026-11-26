@@ -247,6 +247,8 @@ assert.match(appSource, /missionDoneRef\.current=new Set\(restoredMissions\)/u,
   "Restored daily mission state must also restore the duplicate guard");
 assert.match(appSource, /missionDoneRef\.current\.clear\(\);setMissionDone\(\[\]\)/u,
   "Daily rollover must clear the duplicate guard together with visible mission state");
+assert.match(appSource, /const today=localDateKey\(\);if\(missionDateRef\.current!==today\)\{missionDateRef\.current=today;missionDoneRef\.current\.clear\(\);setMissionDone\(\[\]\);\}/u,
+  "Daily mission taps must detect a local-date rollover even when the app stayed in the foreground");
 
 // Final-exam interaction safeguards: A1 confirms answers individually and can
 // reset the entire attempt; A2–C2 submit only after all 20 answers are present,
