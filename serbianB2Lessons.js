@@ -1472,7 +1472,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "bias",
-        "reading": "ප්ර්ඉස්ත්ර්අස්න්ඔස්ත්",
+        "reading": "ප්‍රිස්ත්‍රාස්නොස්ත්",
         "meaning": "පක්ෂපාතීත්වය",
         "example": "Važno je proveriti izvor i kontekst informacije.",
         "translation": "තොරතුරේ මූලාශ්‍රය සහ සන්දර්භය පරීක්ෂා කිරීම වැදගත්.",
