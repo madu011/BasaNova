@@ -119,3 +119,11 @@
 - Workflow commit: `44e043575b3da4cd15174f57f1b99a48c4e044ec`. Documentation commits follow this entry.
 - No QA, Expo validation, APK build, or device test was run. The workflow change is source/configuration work only. The GitHub Actions runner-allocation restriction remains unresolved; do not claim the app is error-free or tests passed.
 - Implementation baseline remains 90%; release verification is tracked separately.
+
+
+## 2026-11-26 — daily mission duplicate-XP fix
+- Source review found a race in `completeMission`: rapid repeated taps before React committed the next render could pass the stale `missionDone` closure and award the same mission's XP more than once.
+- Added a synchronous `missionDoneRef` guard. The ref is restored from the current-date saved missions and cleared on local-date rollover; invalid mission indexes and already-completed missions are ignored.
+- Added source regression assertions for duplicate guarding, restore synchronization and daily rollover.
+- App fix commit: `8a3c3211be2e4952021ffa44ee76abea5be88b41`. QA guard commit: `a33c82d4d2fd90b7943bd0688ac9af9321c275cc`.
+- Verified by inspecting the committed source and QA assertion text only. The QA command has not been executed; no runtime or device pass is claimed.
