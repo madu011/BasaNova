@@ -1290,7 +1290,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "uzorak",
-        "reading": "උසොරක්",
+        "reading": "උස්ඔර්අක්",
         "meaning": "නියැදිය",
         "example": "Uzorak je mali, pa rezultate treba tumačiti oprezno.",
         "translation": "නියැදිය කුඩා නිසා ප්‍රතිඵල ප්‍රවේශමෙන් අර්ථකථනය කළ යුතුයි.",
@@ -2944,7 +2944,7 @@ export const SERBIAN_B2_LESSONS = [
       },
       {
         "word": "uzorak",
-        "reading": "උසොරක්",
+        "reading": "උස්ඔර්අක්",
         "meaning": "නියැදිය",
         "example": "Prema autorima, uzorak je dovoljno reprezentativan.",
         "translation": "කතුවරුන්ට අනුව නියැදිය ප්‍රමාණවත් ලෙස නියෝජිතයි.",
