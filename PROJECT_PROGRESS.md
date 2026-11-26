@@ -127,3 +127,11 @@
 - Added source regression assertions for duplicate guarding, restore synchronization and daily rollover.
 - App fix commit: `8a3c3211be2e4952021ffa44ee76abea5be88b41`. QA guard commit: `a33c82d4d2fd90b7943bd0688ac9af9321c275cc`.
 - Verified by inspecting the committed source and QA assertion text only. The QA command has not been executed; no runtime or device pass is claimed.
+
+
+## 2026-11-26 — prevent learner actions racing progress restore
+- Source review found that the main app UI was interactive while AsyncStorage restoration was still pending. A learner could select a language, complete a mission, or answer a question before the saved snapshot loaded, then have those early actions overwritten by restored state.
+- Added a non-interactive BasaNova loading screen while `storageReady` is false. Main app navigation and actions render only after restore settles.
+- Added a regression assertion that the loading gate appears before the main interactive render.
+- App fix commit: `9b26d46ac516618f96b05237a910cb057f6ce5d6`. QA guard commit: `1a85cd455eca112fc25d242d988b16d49309f117`.
+- Source and assertion text inspected; QA command and device behavior remain unverified.
