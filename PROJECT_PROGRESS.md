@@ -1,7 +1,7 @@
 # BasaNova — Canonical Project Progress
 
 > **This file is the single source of truth for progress across chats.**
-> Last reconciled with GitHub `main`: 2026-11-24.
+> Last reconciled with GitHub `main`: 2026-11-26.
 > Canonical overall implementation baseline: **90%**.
 > Do not lower, recalculate, or replace this baseline with a release-readiness percentage merely because tests/build/device validation are still pending. Change it only after verified implementation work, and record the evidence and commit in the log below.
 
@@ -135,3 +135,10 @@
 - Added a regression assertion that the loading gate appears before the main interactive render.
 - App fix commit: `9b26d46ac516618f96b05237a910cb057f6ce5d6`. QA guard commit: `1a85cd455eca112fc25d242d988b16d49309f117`.
 - Source and assertion text inspected; QA command and device behavior remain unverified.
+
+
+## 2026-11-26 — QA-only dependency compatibility check
+- Moved `npx expo install --check` into the default QA job so a QA-only run verifies Expo package compatibility without generating a native project or building an APK.
+- Removed the duplicate compatibility step from the opt-in APK job; it now inherits the successful QA gate.
+- Workflow commit: `58ff981ee762ad6d42acdb1d3cee49f88015bb7b`.
+- Workflow has not been run in this session. No QA/Expo result is claimed.
