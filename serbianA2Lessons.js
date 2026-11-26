@@ -547,7 +547,7 @@ export const SERBIAN_A2_LESSONS = [
         "meaning": "සහ සේවකයා",
         "example": "Možemo li da zamenimo smene?",
         "translation": "අපිට වැඩ මුර මාරු කරගන්න පුළුවන්ද?",
-        "exampleReading": "මොෂෙමො ලි දා සාමෙнимо ස්මෙನೆ?"
+        "exampleReading": "මොෂෙමො ලි දා සාමෙනිමො ස්මෙනෙ?"
       },
       {
         "word": "slobodan dan",
@@ -559,7 +559,7 @@ export const SERBIAN_A2_LESSONS = [
       },
       {
         "word": "prekovremeno",
-        "reading": "ප්‍රෙකොව්‍රෙමෙно",
+        "reading": "ප්‍රෙකොව්‍රෙමෙන්නො",
         "meaning": "අතිකාල",
         "example": "Radim večernju smenu.",
         "translation": "මම සවස වැඩ මුරය කරනවා.",
@@ -571,7 +571,7 @@ export const SERBIAN_A2_LESSONS = [
         "meaning": "වැටුප",
         "example": "Možemo li da zamenimo smene?",
         "translation": "අපිට වැඩ මුර මාරු කරගන්න පුළුවන්ද?",
-        "exampleReading": "මොෂෙමො ලි දා සාමෙнимо ස්මෙನೆ?"
+        "exampleReading": "මොෂෙමො ලි දා සාමෙනිමො ස්මෙනෙ?"
       },
       {
         "word": "zamena",
@@ -612,7 +612,7 @@ export const SERBIAN_A2_LESSONS = [
       },
       {
         "sr": "Možemo li da zamenimo smene?",
-        "reading": "මොෂෙමො ලි දා සාමෙнимо ස්මෙನೆ?",
+        "reading": "මොෂෙමො ලි දා සාමෙනිමො ස්මෙනෙ?",
         "si": "අපිට වැඩ මුර මාරු කරගන්න පුළුවන්ද?"
       }
     ],
@@ -629,12 +629,12 @@ export const SERBIAN_A2_LESSONS = [
       },
       {
         "sr": "Možemo li da zamenimo smene?",
-        "reading": "මොෂෙමො ලි දා සාමෙнимо ස්මෙನೆ?",
+        "reading": "මොෂෙමො ලි දා සාමෙනිමො ස්මෙනෙ?",
         "si": "අපිට වැඩ මුර මාරු කරගන්න පුළුවන්ද?"
       },
       {
         "sr": "Možemo, dogovorićemo se sa menadžerom.",
-        "reading": "මොෂෙමො, දොගොවොරිචෙමො සේ සා менаџером.",
+        "reading": "මොෂෙමො, දොගොවොරිචෙමො සේ සා මෙනාජෙරොම්.",
         "si": "පුළුවන්, අපි කළමනාකරු සමඟ එකඟතාවකට එමු."
       }
     ],
@@ -3689,7 +3689,7 @@ export const SERBIAN_A2_LESSONS = [
       },
       {
         "word": "kartica",
-        "reading": "කාර්තිца",
+        "reading": "කාර්තිත්සා",
         "meaning": "කාඩ්පත",
         "example": "Mogu li da probam ovu jaknu?",
         "translation": "මට මේ ජැකට් එක ඇඳලා බලන්න පුළුවන්ද?",
@@ -3818,7 +3818,7 @@ export const SERBIAN_A2_LESSONS = [
         "meaning": "කාලගුණය",
         "example": "Kakvo će vreme biti sutra?",
         "translation": "හෙට කාලගුණය කොහොම වේවිද?",
-        "exampleReading": "කාක්වො චෙ ව්‍රෙමෙ бити සුත්‍රා?"
+        "exampleReading": "කාක්වො චෙ ව්‍රෙමෙ බිති සුත්‍රා?"
       },
       {
         "word": "sunčano",
@@ -3842,7 +3842,7 @@ export const SERBIAN_A2_LESSONS = [
         "meaning": "වැස්ස",
         "example": "Kakvo će vreme biti sutra?",
         "translation": "හෙට කාලගුණය කොහොම වේවිද?",
-        "exampleReading": "කාක්වො චෙ ව්‍රෙමෙ бити සුත්‍රා?"
+        "exampleReading": "කාක්වො චෙ ව්‍රෙමෙ බිති සුත්‍රා?"
       },
       {
         "word": "vetar",
@@ -3866,7 +3866,7 @@ export const SERBIAN_A2_LESSONS = [
         "meaning": "ගිම්හානය",
         "example": "Kakvo će vreme biti sutra?",
         "translation": "හෙට කාලගුණය කොහොම වේවිද?",
-        "exampleReading": "කාක්වො චෙ ව්‍රෙමෙ бити සුත්‍රා?"
+        "exampleReading": "කාක්වො චෙ ව්‍රෙමෙ බිති සුත්‍රා?"
       },
       {
         "word": "zima",
@@ -3882,14 +3882,14 @@ export const SERBIAN_A2_LESSONS = [
     "grammarTerms": [
       {
         "sr": "Kakvo će vreme biti sutra?",
-        "reading": "කාක්වො චෙ ව්‍රෙමෙ бити සුත්‍රා?",
+        "reading": "කාක්වො චෙ ව්‍රෙමෙ බිති සුත්‍රා?",
         "si": "හෙට කාලගුණය කොහොම වේවිද?"
       }
     ],
     "examples": [
       {
         "sr": "Kakvo će vreme biti sutra?",
-        "reading": "කාක්වො චෙ ව්‍රෙමෙ бити සුත්‍රා?",
+        "reading": "කාක්වො චෙ ව්‍රෙමෙ බිති සුත්‍රා?",
         "si": "හෙට කාලගුණය කොහොම වේවිද?"
       },
       {
@@ -3916,7 +3916,7 @@ export const SERBIAN_A2_LESSONS = [
       },
       {
         "sr": "Kažu da će biti vetrovito.",
-        "reading": "කාෂු දා චෙ бити වෙත්‍රොවිතො.",
+        "reading": "කාෂු දා චෙ බිති වෙත්‍රොවිතො.",
         "si": "අව්ව සහ උණුසුම තියේවි."
       },
       {
@@ -4160,7 +4160,7 @@ export const SERBIAN_A2_LESSONS = [
     "vocabulary": [
       {
         "word": "recept",
-        "reading": "රෙцеп්ත්",
+        "reading": "රෙත්සෙප්ත්",
         "meaning": "වට්ටෝරුව",
         "example": "Šta nam je potrebno za supu?",
         "translation": "සුප් එකට අපිට මොනවාද අවශ්‍ය?",
@@ -4333,7 +4333,7 @@ export const SERBIAN_A2_LESSONS = [
     "vocabulary": [
       {
         "word": "dokument",
-        "reading": "документ",
+        "reading": "දොකුමෙන්ත්",
         "meaning": "දොකුමෙන්ත්",
         "example": "Gde mogu da predam ovaj zahtev?",
         "translation": "මට මේ ඉල්ලීම භාරදෙන්න පුළුවන් කොහෙද?",
@@ -4856,7 +4856,7 @@ export const SERBIAN_A2_LESSONS = [
         "meaning": "පරිසරය",
         "example": "Trebalo bi da recikliramo papir.",
         "translation": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි.",
-        "exampleReading": "ත්‍රෙබාලො බි දා රෙත්සිකලිрамො පාපිර්."
+        "exampleReading": "ත්‍රෙබාලො බි දා රෙත්සික්ලිරාමො පාපිර්."
       },
       {
         "word": "otpad",
@@ -4880,7 +4880,7 @@ export const SERBIAN_A2_LESSONS = [
         "meaning": "ප්ලාස්ටික්",
         "example": "Trebalo bi da recikliramo papir.",
         "translation": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි.",
-        "exampleReading": "ත්‍රෙබාලො බි දා රෙත්සිකලිрамො පාපිර්."
+        "exampleReading": "ත්‍රෙබාලො බි දා රෙත්සික්ලිරාමො පාපිර්."
       },
       {
         "word": "papir",
@@ -4888,7 +4888,7 @@ export const SERBIAN_A2_LESSONS = [
         "meaning": "කඩදාසි",
         "example": "Trebalo bi da recikliramo papir.",
         "translation": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි.",
-        "exampleReading": "ත්‍රෙබාලො බි දා රෙත්සිකලිрамො පාපිර්."
+        "exampleReading": "ත්‍රෙබාලො බි දා රෙත්සික්ලිරාමො පාපිර්."
       },
       {
         "word": "štedeti",
@@ -4904,7 +4904,7 @@ export const SERBIAN_A2_LESSONS = [
         "meaning": "පිරිසිදු",
         "example": "Trebalo bi da recikliramo papir.",
         "translation": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි.",
-        "exampleReading": "ත්‍රෙබාලො බි දා රෙත්සිකලිрамො පාපිර්."
+        "exampleReading": "ත්‍රෙබාලො බි දා රෙත්සික්ලිරාමො පාපිර්."
       },
       {
         "word": "zagađenje",
@@ -4920,14 +4920,14 @@ export const SERBIAN_A2_LESSONS = [
     "grammarTerms": [
       {
         "sr": "Trebalo bi da recikliramo papir.",
-        "reading": "ත්‍රෙබාලො බි දා රෙත්සිකලිрамො පාපිර්.",
+        "reading": "ත්‍රෙබාලො බි දා රෙත්සික්ලිරාමො පාපිර්.",
         "si": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි."
       }
     ],
     "examples": [
       {
         "sr": "Trebalo bi da recikliramo papir.",
-        "reading": "ත්‍රෙබාලො බි දා රෙත්සිකලිрамො පාපිර්.",
+        "reading": "ත්‍රෙබාලො බි දා රෙත්සික්ලිරාමො පාපිර්.",
         "si": "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි."
       },
       {
@@ -4966,7 +4966,7 @@ export const SERBIAN_A2_LESSONS = [
     "listeningPractice": {
       "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: “Trebalo bi da recikliramo papir.”",
       "audio": "Trebalo bi da recikliramo papir.",
-      "reading": "ත්‍රෙබාලො බි දා රෙත්සිකලිрамො පාපිර්.",
+      "reading": "ත්‍රෙබාලො බි දා රෙත්සික්ලිරාමො පාපිර්.",
       "options": [
         "අපි කඩදාසි ප්‍රතිචක්‍රීකරණය කළ යුතුයි.",
         "වෙනත් අර්ථයක්",
@@ -6067,7 +6067,7 @@ export const SERBIAN_A2_LESSONS = [
         "meaning": "ගමන",
         "example": "Planiram putovanje sledeće nedelje.",
         "translation": "මම ලබන සතියේ ගමනක් සැලසුම් කරනවා.",
-        "exampleReading": "ප්ලානිрам පුතොවාන්යෙ ස්ලෙදෙචෙ නෙදෙල්යෙ."
+        "exampleReading": "ප්ලානිරාම් පුතොවාන්යෙ ස්ලෙදෙචෙ නෙදෙල්යෙ."
       },
       {
         "word": "rezervacija",
@@ -6091,7 +6091,7 @@ export const SERBIAN_A2_LESSONS = [
         "meaning": "රාත්‍රී නවාතැන",
         "example": "Planiram putovanje sledeće nedelje.",
         "translation": "මම ලබන සතියේ ගමනක් සැලසුම් කරනවා.",
-        "exampleReading": "ප්ලානිрам පුතොවාන්යෙ ස්ලෙදෙචෙ නෙදෙල්යෙ."
+        "exampleReading": "ප්ලානිරාම් පුතොවාන්යෙ ස්ලෙදෙචෙ නෙදෙල්යෙ."
       },
       {
         "word": "polazak",
@@ -6115,7 +6115,7 @@ export const SERBIAN_A2_LESSONS = [
         "meaning": "ගමන් මලු",
         "example": "Planiram putovanje sledeće nedelje.",
         "translation": "මම ලබන සතියේ ගමනක් සැලසුම් කරනවා.",
-        "exampleReading": "ප්ලානිрам පුතොවාන්යෙ ස්ලෙදෙචෙ නෙදෙල්යෙ."
+        "exampleReading": "ප්ලානිරාම් පුතොවාන්යෙ ස්ලෙදෙචෙ නෙදෙල්යෙ."
       },
       {
         "word": "slobodno mesto",
@@ -6131,14 +6131,14 @@ export const SERBIAN_A2_LESSONS = [
     "grammarTerms": [
       {
         "sr": "Planiram putovanje sledeće nedelje.",
-        "reading": "ප්ලානිрам පුතොවාන්යෙ ස්ලෙදෙචෙ නෙදෙල්යෙ.",
+        "reading": "ප්ලානිරාම් පුතොවාන්යෙ ස්ලෙදෙචෙ නෙදෙල්යෙ.",
         "si": "මම ලබන සතියේ ගමනක් සැලසුම් කරනවා."
       }
     ],
     "examples": [
       {
         "sr": "Planiram putovanje sledeće nedelje.",
-        "reading": "ප්ලානිрам පුතොවාන්යෙ ස්ලෙදෙචෙ නෙදෙල්යෙ.",
+        "reading": "ප්ලානිරාම් පුතොවාන්යෙ ස්ලෙදෙචෙ නෙදෙල්යෙ.",
         "si": "මම ලබන සතියේ ගමනක් සැලසුම් කරනවා."
       },
       {
@@ -6155,7 +6155,7 @@ export const SERBIAN_A2_LESSONS = [
     "dialogue": [
       {
         "sr": "Planiram putovanje sledeće nedelje.",
-        "reading": "ප්ලානිрам පුතොවාන්යෙ ස්ලෙදෙචෙ නෙදෙල්යෙ.",
+        "reading": "ප්ලානිරාම් පුතොවාන්යෙ ස්ලෙදෙචෙ නෙදෙල්යෙ.",
         "si": "මම ලබන සතියේ ගමනක් සැලසුම් කරනවා."
       },
       {
@@ -6170,14 +6170,14 @@ export const SERBIAN_A2_LESSONS = [
       },
       {
         "sr": "Planiram putovanje sledeće nedelje.",
-        "reading": "ප්ලානිрам පුතොවාන්යෙ ස්ලෙදෙචෙ නෙදෙල්යෙ.",
+        "reading": "ප්ලානිරාම් පුතොවාන්යෙ ස්ලෙදෙචෙ නෙදෙල්යෙ.",
         "si": "මම ලබන සතියේ ගමනක් සැලසුම් කරනවා."
       }
     ],
     "listeningPractice": {
       "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: “Planiram putovanje sledeće nedelje.”",
       "audio": "Planiram putovanje sledeće nedelje.",
-      "reading": "ප්ලානිрам පුතොවාන්යෙ ස්ලෙදෙචෙ නෙදෙල්යෙ.",
+      "reading": "ප්ලානිරාම් පුතොවාන්යෙ ස්ලෙදෙචෙ නෙදෙල්යෙ.",
       "options": [
         "මම ලබන සතියේ ගමනක් සැලසුම් කරනවා.",
         "මම කාමරයක් වෙන්කරගන්න කැමතියි.",
@@ -6803,7 +6803,7 @@ export const SERBIAN_A2_LESSONS = [
       },
       {
         "word": "zaboraviti",
-        "reading": "සාබොравිති",
+        "reading": "සාබොරාවිති",
         "meaning": "අමතක කරන්න",
         "example": "Prošle nedelje sam posetio prijatelja.",
         "translation": "පසුගිය සතියේ මම මිතුරෙකු හමුවීමට ගියා.",
@@ -6932,7 +6932,7 @@ export const SERBIAN_A2_LESSONS = [
     "vocabulary": [
       {
         "word": "pozvati",
-        "reading": "පොස්වати",
+        "reading": "පොස්වාති",
         "meaning": "ආරාධනා කරන්න",
         "example": "Hoćeš li da idemo u bioskop?",
         "translation": "අපි සිනමාහලට යමුද?",
@@ -6988,7 +6988,7 @@ export const SERBIAN_A2_LESSONS = [
       },
       {
         "word": "otkazati",
-        "reading": "ඔත්කාසати",
+        "reading": "ඔත්කාසාති",
         "meaning": "අවලංගු කරන්න",
         "example": "To mi odgovara.",
         "translation": "ඒ වේලාව මට ගැළපෙනවා.",
@@ -7676,7 +7676,7 @@ export const SERBIAN_A2_LESSONS = [
       },
       {
         "word": "morati",
-        "reading": "මොරати",
+        "reading": "මොරාති",
         "meaning": "අනිවාර්යයෙන් කළ යුතු",
         "example": "Ovde nije dozvoljeno pušenje.",
         "translation": "මෙහි දුම්පානයට අවසර නැහැ.",
@@ -7874,7 +7874,7 @@ export const SERBIAN_A2_LESSONS = [
       },
       {
         "word": "otkazati",
-        "reading": "ඔත්කාසати",
+        "reading": "ඔත්කාසාති",
         "meaning": "අවලංගු කරන්න",
         "example": "Da li voz kasni?",
         "translation": "දුම්රිය ප්‍රමාදද?",
@@ -8381,7 +8381,7 @@ export const SERBIAN_A2_LESSONS = [
     "unit": "පරිසරය සහ ප්‍රතිචක්‍රීකරණය",
     "title": [
       "Treba da recikliramo papir i plastiku.",
-      "ත්‍රෙබා දා රෙත්සික්ලිрамො පාපිර් ඉ ප්ලාස්තිකු.",
+      "ත්‍රෙබා දා රෙත්සික්ලිරාමො පාපිර් ඉ ප්ලාස්තිකු.",
       "අපි කඩදාසි සහ ප්ලාස්ටික් ප්‍රතිචක්‍රීකරණය කළ යුතුයි."
     ],
     "objective": "පරිසරයට හිතකර පුරුදු සහ අපද්‍රව්‍ය වෙන් කිරීම ගැන කතා කිරීම",
@@ -8392,7 +8392,7 @@ export const SERBIAN_A2_LESSONS = [
         "meaning": "පරිසරය",
         "example": "Treba da recikliramo papir i plastiku.",
         "translation": "අපි කඩදාසි සහ ප්ලාස්ටික් ප්‍රතිචක්‍රීකරණය කළ යුතුයි.",
-        "exampleReading": "ත්‍රෙබා දා රෙත්සික්ලිрамො පාපිර් ඉ ප්ලාස්තිකු."
+        "exampleReading": "ත්‍රෙබා දා රෙත්සික්ලිරාමො පාපිර් ඉ ප්ලාස්තිකු."
       },
       {
         "word": "otpad",
@@ -8400,11 +8400,11 @@ export const SERBIAN_A2_LESSONS = [
         "meaning": "අපද්‍රව්‍ය",
         "example": "Manje otpada znači čistiju okolinu.",
         "translation": "අපද්‍රව්‍ය අඩු වීමෙන් පරිසරය පිරිසිදු වෙනවා.",
-        "exampleReading": "මාඤෙ ඔත්පාදා සාචි චිස්තියු ඔකොලину."
+        "exampleReading": "මාඤෙ ඔත්පාදා සාචි චිස්තියු ඔකොලිනු."
       },
       {
         "word": "reciklirati",
-        "reading": "රෙත්සික්ලිрати",
+        "reading": "රෙත්සික්ලිරාති",
         "meaning": "ප්‍රතිචක්‍රීකරණය කරන්න",
         "example": "Treba da štedimo vodu.",
         "translation": "අපි ජලය ඉතිරි කළ යුතුයි.",
@@ -8416,7 +8416,7 @@ export const SERBIAN_A2_LESSONS = [
         "meaning": "ප්ලාස්ටික්",
         "example": "Manje otpada znači čistiju okolinu.",
         "translation": "අපද්‍රව්‍ය අඩු වීමෙන් පරිසරය පිරිසිදු වෙනවා.",
-        "exampleReading": "මාඤෙ ඔත්පාදා සාචි චිස්තියු ඔකොලину."
+        "exampleReading": "මාඤෙ ඔත්පාදා සාචි චිස්තියු ඔකොලිනු."
       },
       {
         "word": "papir",
@@ -8424,7 +8424,7 @@ export const SERBIAN_A2_LESSONS = [
         "meaning": "කඩදාසි",
         "example": "Treba da recikliramo papir i plastiku.",
         "translation": "අපි කඩදාසි සහ ප්ලාස්ටික් ප්‍රතිචක්‍රීකරණය කළ යුතුයි.",
-        "exampleReading": "ත්‍රෙබා දා රෙත්සික්ලිрамො පාපිර් ඉ ප්ලාස්තිකු."
+        "exampleReading": "ත්‍රෙබා දා රෙත්සික්ලිරාමො පාපිර් ඉ ප්ලාස්තිකු."
       },
       {
         "word": "staklo",
@@ -8448,7 +8448,7 @@ export const SERBIAN_A2_LESSONS = [
         "meaning": "දූෂණය",
         "example": "Manje otpada znači čistiju okolinu.",
         "translation": "අපද්‍රව්‍ය අඩු වීමෙන් පරිසරය පිරිසිදු වෙනවා.",
-        "exampleReading": "මාඤෙ ඔත්පාදා සාචි චිස්තියු ඔකොලину."
+        "exampleReading": "මාඤෙ ඔත්පාදා සාචි චිස්තියු ඔකොලිනු."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
@@ -8456,14 +8456,14 @@ export const SERBIAN_A2_LESSONS = [
     "grammarTerms": [
       {
         "sr": "Treba da recikliramo papir i plastiku.",
-        "reading": "ත්‍රෙබා දා රෙත්සික්ලිрамො පාපිර් ඉ ප්ලාස්තිකු.",
+        "reading": "ත්‍රෙබා දා රෙත්සික්ලිරාමො පාපිර් ඉ ප්ලාස්තිකු.",
         "si": "අපි කඩදාසි සහ ප්ලාස්ටික් ප්‍රතිචක්‍රීකරණය කළ යුතුයි."
       }
     ],
     "examples": [
       {
         "sr": "Treba da recikliramo papir i plastiku.",
-        "reading": "ත්‍රෙබා දා රෙත්සික්ලිрамො පාපිර් ඉ ප්ලාස්තිකු.",
+        "reading": "ත්‍රෙබා දා රෙත්සික්ලිරාමො පාපිර් ඉ ප්ලාස්තිකු.",
         "si": "අපි කඩදාසි සහ ප්ලාස්ටික් ප්‍රතිචක්‍රීකරණය කළ යුතුයි."
       },
       {
@@ -8478,7 +8478,7 @@ export const SERBIAN_A2_LESSONS = [
       },
       {
         "sr": "Manje otpada znači čistiju okolinu.",
-        "reading": "මාඤෙ ඔත්පාදා සාචි චිස්තියු ඔකොලину.",
+        "reading": "මාඤෙ ඔත්පාදා සාචි චිස්තියු ඔකොලිනු.",
         "si": "අපද්‍රව්‍ය අඩු වීමෙන් පරිසරය පිරිසිදු වෙනවා."
       }
     ],
@@ -8490,7 +8490,7 @@ export const SERBIAN_A2_LESSONS = [
       },
       {
         "sr": "Možemo da recikliramo papir.",
-        "reading": "මොෂෙමො දා රෙත්සික්лирамො පාපිර්.",
+        "reading": "මොෂෙමො දා රෙත්සික්ලිරාමො පාපිර්.",
         "si": "අපිට කඩදාසි ප්‍රතිචක්‍රීකරණය කරන්න පුළුවන්."
       },
       {
@@ -8507,7 +8507,7 @@ export const SERBIAN_A2_LESSONS = [
     "listeningPractice": {
       "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: “Treba da recikliramo papir i plastiku.”",
       "audio": "Treba da recikliramo papir i plastiku.",
-      "reading": "ත්‍රෙබා දා රෙත්සික්ලිрамො පාපිර් ඉ ප්ලාස්තිකු.",
+      "reading": "ත්‍රෙබා දා රෙත්සික්ලිරාමො පාපිර් ඉ ප්ලාස්තිකු.",
       "options": [
         "අපි කඩදාසි සහ ප්ලාස්ටික් ප්‍රතිචක්‍රීකරණය කළ යුතුයි.",
         "වීදුරු වෙනම බඳුනකට දමනවා.",
