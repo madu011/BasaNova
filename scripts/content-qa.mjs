@@ -794,7 +794,9 @@ const allAssessmentGroups = [
 const allAssessmentIds = new Set();
 let assessmentQuestionCount = 0;
 for (const [label, level, questions] of allAssessmentGroups) {
-  assert.equal(questions.length, 30, `${label}: expected 10 revision and 20 final questions`);
+  const expectedCount = level === "A1" ? 20 : 30;
+  assert.equal(questions.length, expectedCount,
+    `${label}: expected ${expectedCount} formal assessment questions`);
   const languageCode = label.startsWith("Serbian") ? "sr" : "en";
   for (const question of questions) {
     assert.ok(question.id.includes(level.toLowerCase()), `${label}: question ID must include ${level}: ${question.id}`);
@@ -804,7 +806,8 @@ for (const [label, level, questions] of allAssessmentGroups) {
     assessmentQuestionCount++;
   }
 }
-assert.equal(assessmentQuestionCount, 340, "All six levels must expose 340 uniquely identified revision/final assessment questions");
+assert.equal(assessmentQuestionCount, 340,
+  "The formal assessment bank must contain 40 A1 final questions and 300 A2–C2 revision/final questions with globally unique IDs");
 
 for (const [label, lessons] of [["Serbian C2", courseLessons["Serbian C2"]], ["English C2", courseLessons["English C2"]]]) {
   validateBalancedAnswerPositions(`${label} lesson practice`, lessons.flatMap(lesson => lesson.practice));
