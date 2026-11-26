@@ -8928,7 +8928,7 @@ for(const lesson of SERBIAN_B1_LESSONS){
     if(/[А-Яа-яЁёЂђЈјЉљЊњЋћЏџ]/u.test(item.reading||"")&&!/[ං-෴]/u.test(item.reading||"")){item.word=_srB1ToLatin(item.reading);item.reading=_srB1Phonetic(item.word);continue;}
     const target=_srB1Phonetic(_srB1ToLatin(item.reading));
     const candidates=new Set();
-    for(const sentence of sentences){const tokens=String(sentence||"").match(/[A-Za-zČĆŽŠĐčćžšđ]+/gu)||[];for(let start=0;start<tokens.length;start++)for(let width=1;width<=3&&start+width<=tokens.length;width++)candidates.add(tokens.slice(start,start+width).join(" "));}
+    for(const sentence of sentences){const tokens=String(sentence||"").replace(/^[AB]:\s*/u,"").match(/[A-Za-zČĆŽŠĐčćžšđ]+/gu)||[];for(let start=0;start<tokens.length;start++)for(let width=1;width<=3&&start+width<=tokens.length;width++)candidates.add(tokens.slice(start,start+width).join(" "));}
     let best=item.word,bestScore=Infinity;
     for(const candidate of candidates){const sound=_srB1Phonetic(candidate);if(!sound)continue;const score=_srB1Distance(target,sound)/Math.max(target.length,sound.length,1);if(score<bestScore){bestScore=score;best=candidate;}}
     if(bestScore<1){item.word=best;if(/[А-Яа-яЁёЂђЈјЉљЊњЋћЏџ]/u.test(item.reading||""))item.reading=_srB1Phonetic(best);}
