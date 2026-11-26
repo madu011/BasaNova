@@ -3486,17 +3486,17 @@ export const ENGLISH_A2_LESSONS = [
         "word": "arrival",
         "reading": "අරයිවල්",
         "meaning": "පැමිණීම",
-        "example": "How long does the journey take?",
-        "exampleReading": "හවු ලෝං ඩස් දි ජර්නි ටේක්?",
-        "translation": "ගමනට කොච්චර වෙලාවක් ගත වෙනවාද?"
+        "example": "The train arrives at eleven.",
+        "exampleReading": "දි ට්‍රේන් අරයිව්ස් ඇට් ඉලෙවන්.",
+        "translation": "දුම්රිය එකොළහට පැමිණෙනවා."
       },
       {
         "word": "ticket",
         "reading": "ටික්ට්",
         "meaning": "ටිකට්පත",
-        "example": "Which platform does the train leave from?",
-        "exampleReading": "විච් ප්ලැට්ෆෝම් ඩස් දි ට්‍රේන් ලීව් ෆ්‍රම්?",
-        "translation": "දුම්රිය පිටත් වෙන්නේ කුමන වේදිකාවෙන්ද?"
+        "example": "Where can I buy a ticket?",
+        "exampleReading": "වෙයාර් කැන් අයි බයි අ ටිකට්?",
+        "translation": "මට ටිකට්පතක් මිලදී ගන්න පුළුවන් කොහෙන්ද?"
       },
       {
         "word": "journey",
@@ -3510,25 +3510,25 @@ export const ENGLISH_A2_LESSONS = [
         "word": "delay",
         "reading": "ඩිලේ",
         "meaning": "ප්‍රමාදය",
-        "example": "How long does the journey take?",
-        "exampleReading": "හවු ලෝං ඩස් දි ජර්නි ටේක්?",
-        "translation": "ගමනට කොච්චර වෙලාවක් ගත වෙනවාද?"
+        "example": "The train is delayed by ten minutes.",
+        "exampleReading": "දි ට්‍රේන් ඉස් ඩිලේඩ් බයි ටෙන් මිනිට්ස්.",
+        "translation": "දුම්රිය විනාඩි දහයකින් ප්‍රමාදයි."
       },
       {
         "word": "change",
         "reading": "චේන්ජ්",
         "meaning": "මාරු කිරීම",
-        "example": "Which platform does the train leave from?",
-        "exampleReading": "විච් ප්ලැට්ෆෝම් ඩස් දි ට්‍රේන් ලීව් ෆ්‍රම්?",
-        "translation": "දුම්රිය පිටත් වෙන්නේ කුමන වේදිකාවෙන්ද?"
+        "example": "I need to change trains.",
+        "exampleReading": "අයි නීඩ් ටු චේන්ජ් ට්‍රේන්ස්.",
+        "translation": "මට දුම්රිය මාරු කරන්න ඕනේ."
       },
       {
         "word": "route",
         "reading": "රූට්",
         "meaning": "ගමන් මාර්ගය",
-        "example": "It leaves from platform three.",
-        "exampleReading": "ඉට් ලීව්ස් ෆ්‍රම් ප්ලැට්ෆෝම් ත්‍රී.",
-        "translation": "එය තුන්වන වේදිකාවෙන් පිටත් වෙනවා."
+        "example": "This is the fastest route.",
+        "exampleReading": "දිස් ඉස් දි ෆාස්ටස්ට් රූට්.",
+        "translation": "මේක වේගවත්ම ගමන් මාර්ගයයි."
       }
     ],
     "grammarTitle": "Grammar",
@@ -3561,32 +3561,32 @@ export const ENGLISH_A2_LESSONS = [
       {
         "text": "Excuse me, is this the bus to the centre?",
         "reading": "ඉක්ස්කියුස් මී, ඉස් දිස් දි බස් ටු දි සෙන්ටර්?",
-        "meaning": "දුම්රිය නවයට පිටත් වෙනවා."
+        "meaning": "සමාවෙන්න, මේ නගර මධ්‍යයට යන බස් රථයද?"
       },
       {
         "text": "Yes, but you need the correct ticket.",
         "reading": "යෙස්, බට් යූ නීඩ් දි කරෙක්ට් ටිකට්.",
-        "meaning": "දුම්රිය නවයට පිටත් වෙනවා."
+        "meaning": "ඔව්, නමුත් ඔබට නිවැරදි ටිකට්පත අවශ්‍යයි."
       },
       {
         "text": "Where can I buy one?",
         "reading": "වෙයාර් කැන් අයි බයි වන්?",
-        "meaning": "දුම්රිය නවයට පිටත් වෙනවා."
+        "meaning": "මට ටිකට්පතක් මිලදී ගන්න පුළුවන් කොහෙන්ද?"
       },
       {
         "text": "At the machine next to the entrance.",
         "reading": "ඇට් දි මෂීන් නෙක්ස්ට් ටු දි එන්ට්‍රන්ස්.",
-        "meaning": "දුම්රිය නවයට පිටත් වෙනවා."
+        "meaning": "ඇතුල්වීමේ දොරටුව අසල ඇති යන්ත්‍රයෙන්."
       }
     ],
     "listeningPractice": {
       "prompt": "Listen and choose the meaning: “The train leaves at nine.”",
       "audio": "The train leaves at nine.",
-      "reading": "",
+      "reading": "දි ට්‍රේන් ලීව්ස් ඇට් නයින්.",
       "options": [
         "දුම්රිය නවයට පිටත් වෙනවා.",
-        "වෙනත් අර්ථයක්",
-        "අදාළ නොවන අර්ථයක්"
+        "දුම්රිය නවයට පැමිණෙනවා.",
+        "බස් රථය නවයට පිටත් වෙනවා."
       ],
       "answer": 0
     },
@@ -3629,7 +3629,7 @@ export const ENGLISH_A2_LESSONS = [
           "Yes, but you need the correct ticket."
         ],
         "answer": 1,
-        "explanation": "දුම්රිය නවයට පිටත් වෙනවා."
+        "explanation": "ඇතුල්වීමේ දොරටුව අසල ඇති යන්ත්‍රයෙන්."
       }
     ]
   },
