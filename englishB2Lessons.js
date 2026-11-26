@@ -5852,11 +5852,11 @@ export const ENGLISH_B2_LESSONS = [
       },
       {
         "word": "engagement",
-        "reading": "ලයබල්",
-        "meaning": "සහභාගීත්වය",
-        "example": "The decision should be clear, consistent and well explained.",
-        "exampleReading": "දි ඩිසිෂන් ෂුඩ් බී ක්ලියර්, කන්සිස්ටන්ට් ඇන්ඩ් වෙල් එක්ස්ප්ලේන්ඩ්.",
-        "translation": "ප්‍රසිද්ධ කථනය සහ ප්‍රේක්ෂක සම්බන්ධතාව පිළිබඳ 3 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "reading": "එන්ගේජ්මන්ට්",
+        "meaning": "සහභාගීත්වය / ඇතුළත්කම",
+        "example": "Audience engagement makes a presentation more effective.",
+        "exampleReading": "ඔඩියන්ස් එන්ගේජ්මන්ට් මේක්ස් අ ප්‍රෙසන්ටේෂන් මෝර් ඉෆෙක්ටිව්.",
+        "translation": "ප්‍රේක්ෂක සහභාගීත්වය ඉදිරිපත් කිරීමක් වඩාත් ඵලදායී කරයි."
       },
       {
         "word": "visual aid",
@@ -6038,11 +6038,11 @@ export const ENGLISH_B2_LESSONS = [
       },
       {
         "word": "adaptation",
-        "reading": "රිනිවල්",
+        "reading": "ඇඩැප්ටේෂන්",
         "meaning": "අනුගත වීම",
         "example": "If the circumstances change, we will adjust our plan.",
         "exampleReading": "ඉෆ් දි සර්කම්ස්ටැන්සිස් චේන්ජ්, වී විල් අජස්ට් අවර් ප්ලෑන්.",
-        "translation": "සංස්කෘතික අනන්‍යතාව සහ සංක්‍රමණය පිළිබඳ 4 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු."
+        "translation": "තත්ත්වයන් වෙනස් වුවහොත්, අපි අපගේ සැලැස්මට අනුවර්තනය වන්නෙමු."
       }
     ],
     "grammarTitle": "Contrastive clauses and nuanced comparisons",
@@ -8125,12 +8125,12 @@ export const ENGLISH_B2_LESSONS = [
         "translation": "සමාජ අසමානතාව සහ ඇතුළත්කම: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
-        "word": "agreement",
-        "reading": "අග්‍රීමන්ට්",
-        "meaning": "ඇතුළත්කම",
-        "example": "I suggest that we compare several possible solutions.",
-        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
-        "translation": "සමාජ අසමානතාව සහ ඇතුළත්කම: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+        "word": "inclusion",
+        "reading": "ඉන්ක්ලූෂන්",
+        "meaning": "සහභාගීත්වය / ඇතුළත්කම",
+        "example": "Inclusion helps every member feel valued.",
+        "exampleReading": "ඉන්ක්ලූෂන් හෙල්ප්ස් එව්රි මෙම්බර් ෆීල් වැලියුඩ්.",
+        "translation": "ඇතුළත්කම සෑම සාමාජිකයෙකුටම තමන් වටිනා බව දැනීමට උපකාරී වේ."
       },
       {
         "word": "negotiation",
@@ -8481,12 +8481,12 @@ export const ENGLISH_B2_LESSONS = [
         "translation": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය: 1 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
       },
       {
-        "word": "agreement",
-        "reading": "අග්‍රීමන්ට්",
+        "word": "innovation",
+        "reading": "ඉනොවේෂන්",
         "meaning": "නවෝත්පාදනය",
-        "example": "I suggest that we compare several possible solutions.",
-        "exampleReading": "අයි සජෙස්ට් දැට් වී කම්පෙයාර් සෙවෙරල් පොසිබල් සොලූෂන්ස්.",
-        "translation": "නවෝත්පාදනය සහ ව්‍යවසායකත්වය: 2 වන උදාහරණයෙන් අදහස පැහැදිලි කරයි."
+        "example": "This innovation can reduce energy use.",
+        "exampleReading": "දිස් ඉනොවේෂන් කැන් රිඩියූස් එනර්ජි යූස්.",
+        "translation": "මෙම නවෝත්පාදනය බලශක්ති පරිභෝජනය අඩු කළ හැකියි."
       },
       {
         "word": "negotiation",
