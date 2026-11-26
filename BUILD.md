@@ -5,11 +5,11 @@
 The GitHub Actions workflow builds a standalone Android **debug APK** with the JavaScript bundle included. It is signed using Android's debug signing configuration and is suitable for direct testing; it is not a Play Store production release.
 
 1. Open [BasaNova Android Actions](https://github.com/madu011/BasaNova/actions/workflows/android-apk.yml).
-2. Open the latest successful run on `main`.
-3. In **Artifacts**, download `basanova-android-debug-apk`.
-4. Extract the ZIP and install `app-debug.apk` on your Android device.
+2. Select **Run workflow**. Content QA runs by default.
+3. Leave `build_android_apk` unchecked for a QA-only run. Enable it only when an APK build is explicitly intended; the build job starts only after QA succeeds.
+4. For a successful APK-enabled run, open **Artifacts**, download `basanova-android-debug-apk`, extract it, and install `app-debug.apk` on your Android device.
 
-The workflow first runs `npm run qa:content`, checks Expo dependency compatibility, generates the native Android project, runs Gradle `assembleDebug`, verifies the APK exists, and uploads it for 14 days.
+Normal pushes do not trigger Actions. The workflow generates a temporary dependency lock, runs `npm ci` and `npm run qa:content`; the optional APK job then checks Expo dependency compatibility, generates the native Android project, runs Gradle `assembleDebug`, verifies the APK exists, and uploads it for 14 days.
 
 ## Local build (if a computer is available)
 
