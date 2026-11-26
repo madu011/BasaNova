@@ -83,9 +83,15 @@ function validateLessonTrack(label, lessons) {
       for (const field of ["word", "meaning", "example", "translation"]) {
         assert.ok(typeof item[field] === "string" && item[field].trim(), `${name} vocabulary ${i + 1}: missing ${field}`);
       }
-      assert.ok(typeof item.reading === "string" && item.reading.trim(), `${name} vocabulary ${i + 1}: missing Sinhala pronunciation`);
-      assert.ok(/[ං-෴]/u.test(item.reading), `${name} vocabulary ${i + 1}: pronunciation is not Sinhala script`);
-      assert.ok(!/[A-Za-zА-Яа-яЁёČĆŽŠĐčćžšđ]/u.test(item.reading), `${name} vocabulary ${i + 1}: mixed-script pronunciation`);
+      // A1/A2 require authored Sinhala readings. B1+ can use the app's
+      // built-in Sinhala transliteration fallback when an authored guide is absent.
+      const requiresAuthoredReading = /A1|A2/u.test(label);
+      if (item.reading?.trim()) {
+        assert.ok(/[ං-෴]/u.test(item.reading), `${name} vocabulary ${i + 1}: pronunciation is not Sinhala script`);
+        assert.ok(!/[A-Za-zА-Яа-яЁёČĆŽŠĐčćžšđ]/u.test(item.reading), `${name} vocabulary ${i + 1}: mixed-script pronunciation`);
+      } else {
+        assert.ok(!requiresAuthoredReading, `${name} vocabulary ${i + 1}: missing Sinhala pronunciation`);
+      }
       if (item.exampleReading) {
         assert.ok(hasSinhala(item.exampleReading) && !hasForeignScript(item.exampleReading), `${name} vocabulary ${i + 1}: invalid example pronunciation`);
       }
@@ -123,10 +129,16 @@ function validateLessonTrack(label, lessons) {
       const readings = Array.isArray(q.readings) ? q.readings : [q.reading];
       if (Array.isArray(q.readings)) {
         assert.equal(readings.length, q.options.length, `${name}: option readings must match option count`);
+      } else if (q.reading?.trim()) {
+        // An authored reading is validated below; B1+ may rely on app fallback.
       } else {
-        assert.ok(typeof q.reading === "string" && q.reading.trim(), `${name}: missing audio pronunciation`);
+        assert.ok(!requiresAuthoredReading, `${name}: missing audio pronunciation`);
       }
       for (const reading of readings) {
+        if (!reading?.trim()) {
+          assert.ok(!requiresAuthoredReading, `${name}: missing option pronunciation`);
+          continue;
+        }
         assert.ok(typeof reading === "string" && /[ං-෴]/u.test(reading), `${name}: listening pronunciation must use Sinhala script`);
         assert.ok(!/[A-Za-zА-Яа-яЁёČĆŽŠĐčćžšđ]/u.test(reading), `${name}: listening pronunciation contains mixed scripts`);
       }
