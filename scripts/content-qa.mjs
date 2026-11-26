@@ -545,6 +545,21 @@ for (const level of ["A2", "B1", "B2", "C2"]) {
 
 
 
+
+const serbianA2Transport = courseLessons["Serbian A2"].find(lesson => lesson.id === "sr-a2-l21");
+const englishA2Transport = courseLessons["English A2"].find(lesson => lesson.id === "en-a2-l21");
+assert.ok(serbianA2Transport && englishA2Transport, "A2 transport lesson 21 must exist in both languages");
+assert.equal(serbianA2Transport.listeningPractice.reading, "වොස් පොලාසි උ දෙවෙත්.",
+  "Serbian A2 transport listening must include the Sinhala pronunciation for its train sentence");
+assert.equal(englishA2Transport.listeningPractice.reading, "දි ට්‍රේන් ලීව්ස් ඇට් නයින්.",
+  "English A2 transport listening must include the Sinhala pronunciation for its train sentence");
+assert.equal(serbianA2Transport.vocabulary.find(item => item.word === "voz")?.example, "Voz polazi u devet.",
+  "Serbian A2 train vocabulary example must describe a train, not a bus");
+assert.equal(englishA2Transport.dialogue[0].meaning, "සමාවෙන්න, මේ නගර මධ්‍යයට යන බස් රථයද?",
+  "English A2 transport dialogue must have its own correct Sinhala translation");
+assert.equal(englishA2Transport.practice[3].explanation, "ඇතුල්වීමේ දොරටුව අසල ඇති යන්ත්‍රයෙන්.",
+  "English A2 transport dialogue exercise explanation must match its correct final line");
+
 const serbianB1Source = await loadModule("serbianB1Lessons.js");
 for (const lesson of serbianB1Source.SERBIAN_B1_LESSONS) {
   const lessonText = [
