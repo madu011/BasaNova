@@ -20,6 +20,12 @@
 - App commit: `934b70f87632efb1b3126939f788927972e0d913`; QA assertion commit: `cccb400445145a6971bb238a7c0243e562eb9c5c`.
 - Source inspected only; no automated run or device verification.
 
+## 2026-11-26 — assessment QA count correction
+- Fixed the global assessment identity check: A1 has 20 final questions per language; A2–C2 each have 30 formal assessment questions (10 revision + 20 final). The total remains 340 across both languages.
+- This removes a guaranteed false QA failure; it does not change learner-facing assessment content.
+- QA source fix commit: `bbd1cb0f8374762c94579acdcb787ba0c2f1ef81`.
+- Automated QA still has not been executed.
+
 ## Current instruction and next work
 The user asked to fix all remaining BasaNova errors. Continue grouped source audits, preserving Serbian/English course data and learner progress keys. Do not start Expo export or APK build unless the user explicitly authorizes that final build step.
 
