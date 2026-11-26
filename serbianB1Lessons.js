@@ -2360,8 +2360,8 @@ export const SERBIAN_B1_LESSONS = [
         "exampleReading": "ක්වාලිටෙත් ඔවොග් ප්‍රොයිස්වොදා යෙ බොල්යි නෙගො ෂ්තො සාම් ඔචෙකිවාඕ."
       },
       {
-        "word": "warranty",
-        "reading": "ගаранත්සියා",
+        "word": "garancija",
+        "reading": "ගරන්ත්සියා",
         "meaning": "වගකීම් සහතිකය",
         "example": "Ovaj telefon je još uvek pod garancijom.",
         "translation": "මේ දුරකථනය තවමත් වගකීම් කාලය තුළයි.",
@@ -3623,7 +3623,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "unaprediti",
-        "reading": "උනප්‍රෙදити",
+        "reading": "උනප්‍රෙදිති",
         "meaning": "දියුණු කරනවා",
         "example": "Redovno vežbanje može da unapredi tvoje znanje jezika.",
         "translation": "නිතිපතා පුහුණුවෙන් ඔබේ භාෂා දැනුම දියුණු කළ හැකියි.",
@@ -3785,7 +3785,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "ažurirati",
-        "reading": "අෂුරිරати",
+        "reading": "අෂුරිරාති",
         "meaning": "යාවත්කාලීන කරනවා",
         "example": "Ne zaboravi da ažuriraš aplikaciju zbog novih funkcija.",
         "translation": "අලුත් විශේෂාංග සඳහා යෙදුම යාවත්කාලීන කරන්න අමතක කරන්න එපා.",
@@ -5185,7 +5185,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "preseliti se",
-        "reading": "ප්‍රෙසෙලිතи සෙ",
+        "reading": "ප්‍රෙසෙලිති සෙ",
         "meaning": "පදිංචිය මාරු කරනවා",
         "example": "Planiramo da se preselimo bliže centru grada sledećeg proleća.",
         "translation": "ලබන වසන්තයේදී නගර මධ්‍යයට ළඟින් පදිංචිය මාරු කිරීමට අපි සැලසුම් කරනවා.",
@@ -5905,7 +5905,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "nezaposlenost",
-        "reading": "නෙසапොස්ලෙනොස්ත්",
+        "reading": "නෙසාපොස්ලෙනොස්ත්",
         "meaning": "විරැකියාව",
         "example": "B: Naravno, ali iskustvo uz nove veštine daje prednost.",
         "translation": "ඇත්තෙන්ම. නමුත් අත්දැකීම් සහ නව කුසලතා එකතු වීම වාසියක්.",
