@@ -36,3 +36,18 @@ The user asked to fix all remaining BasaNova errors. Continue grouped source aud
 
 ---
 
+
+
+## 2026-11-26 — B1/B2 assessment listening-bank repairs and build authorization
+- Fixed B1 final listening Q4 and Q8 answer translations for both Serbian and English; fixed English Q16 and Q20 audio/reading fields. Commits: `6250c993e212d3d73d1c3104bbbd4aa03b5c79bc`, `7fc693f52e57983dab9eddc521384309805e5234`.
+- Fixed B2 final listening Q18–Q20 in both languages: replaced repeated Q17 answer choices/keys/explanations and repeated pronunciation guides with question-specific content. Commit: `105e794dcd3bbff3811069463edee5ecd6725e2a`.
+- Added static regression checks for these defects: `47740de3a105c60396ac899a206ad7ac4a5e5124`.
+- Inspected the committed source and confirmed the B1/B2 corrected fields. This is not an executed test pass.
+- User explicitly authorized the full build. Continue with the QA-first release gate; do not start APK build unless the current-commit QA workflow passes.
+- The available GitHub connector has no workflow-dispatch action, so the manual workflow must be started from GitHub Actions UI. No QA result or APK artifact is yet confirmed.
+
+## Current next steps
+1. Continue the remaining content and source audit; avoid speculative changes.
+2. Run **BasaNova QA and Android APK** from GitHub → Actions → select the workflow → **Run workflow** with `build_android_apk=false` first.
+3. If content QA and Expo compatibility both pass, run the same workflow with `build_android_apk=true`; inspect the completed run and download the `basanova-android-debug-apk` artifact.
+4. Install and verify the APK on Android; only then record device verification.
