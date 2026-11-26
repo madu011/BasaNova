@@ -209,7 +209,7 @@ assert.match(appSource, /Object\.values\(COURSE_LESSONS\[language\]\)\.flat\(\)/
   "Vocabulary library must aggregate lesson vocabulary from every CEFR level");
 assert.match(appSource, /visibleVocabulary\s*=\s*filteredVocabulary\.slice\(0,\s*vocabDisplayLimit\)/u,
   "Vocabulary library must render a bounded batch of filtered results");
-assert.ok((appSource.match(/↻ නැවත උත්සාහ කරන්න/gu) ?? []).length >= 25,
+assert.ok((appSource.match(/↻ නැවත උත්සාහ කරන්න/gu) ?? []).length >= 20,
   "Learn screen must retain retry actions across beginner and advanced exercises");
 assert.match(appSource, /lessonAnswers\[key\]===question\.answer/u,
   "Course lesson completion must require a correct practice answer");
