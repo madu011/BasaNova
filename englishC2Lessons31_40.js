@@ -1474,9 +1474,9 @@ export const ENGLISH_C2_LESSONS_31_40 = [
     "objective": "Understand strategies for listening, segmentation and information management in oral interpreting.",
     "vocabulary": [
       {
-        "word": "Simultaneous interpreting requires listening and speaking at the same time.",
+        "word": "simultaneous interpreting",
         "reading": "සිමල්ටේනියස් ඉන්ටර්ප්‍රිටිං",
-        "meaning": "සමකාලීන පරිවර්තනයේදී එකවර සවන් දීමත් කථා කිරීමත් අවශ්‍ය වේ.",
+        "meaning": "සමකාලීන පරිවර්තනය",
         "example": "The interpreter divides speech into meaningful units.",
         "translation": "භාෂණය අර්ථවත් කොටස්වලට බෙදයි."
       },
