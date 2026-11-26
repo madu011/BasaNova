@@ -850,12 +850,21 @@ assessmentAlignment.alignSerbianAssessmentWords(b2Assessments.SERBIAN_B2_MIXED_R
 assessmentAlignment.alignSerbianAssessmentWords(b2Assessments.SERBIAN_B2_FINAL_EXAM, b2SerbianLessons.SERBIAN_B2_LESSONS);
 function validateAlignedSerbianAssessment(label, questions, lessons) {
   const vocabulary = new Map(lessons.flatMap(lesson => lesson.vocabulary.map(item => [item.word.toLocaleLowerCase(), item])));
+  const approvedMeaningAliases = new Map([
+    ["iskustvo", ["අත්දැකීම"]], // Serbian iskustvo can mean either experience or professional experience.
+  ]);
   for (const question of questions) {
     if (!question.word) continue;
-    const item = vocabulary.get(question.word.toLocaleLowerCase());
-    assert.ok(item, `${label}: headword is missing from the Serbian course: ${question.word}`);
-    assert.equal(question.wordReading, item.reading, `${label}: pronunciation does not match ${question.word}`);
-    assert.equal(question.options[question.answer], item.meaning, `${label}: answer meaning does not match ${question.word}`);
+    const key = question.word.toLocaleLowerCase();
+    const item = vocabulary.get(key);
+    assert.ok(item, `${label}: headword is missing from the Serbian course: ${question.word} (${question.id})`);
+    assert.equal(question.wordReading, item.reading, `${label}: pronunciation does not match ${question.word} (${question.id})`);
+    const acceptedMeanings = [
+      ...String(item.meaning).split(/[\/;,]/u).map(value => value.trim()).filter(Boolean),
+      ...(approvedMeaningAliases.get(key) || []),
+    ];
+    assert.ok(acceptedMeanings.includes(question.options[question.answer]),
+      `${label}: answer meaning does not match ${question.word} (${question.id}); got "${question.options[question.answer]}", expected one of: ${acceptedMeanings.join(" / ")}`);
   }
 }
 validateAlignedSerbianAssessment("Serbian B1 mixed revision", b1Assessments.SERBIAN_B1_MIXED_REVISION, b1SerbianLessons.SERBIAN_B1_LESSONS);
