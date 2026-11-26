@@ -142,3 +142,11 @@
 - Removed the duplicate compatibility step from the opt-in APK job; it now inherits the successful QA gate.
 - Workflow commit: `58ff981ee762ad6d42acdb1d3cee49f88015bb7b`.
 - Workflow has not been run in this session. No QA/Expo result is claimed.
+
+
+## 2026-11-26 — daily mission rollover while app remains foregrounded
+- Follow-up review found the date rollover was only checked when React Native emitted an `AppState` transition to active. If the app stayed open across local midnight, the mission guard could still treat yesterday's completed missions as today's and block new completions.
+- Updated `completeMission` to compare the current local date before checking the duplicate guard. On a date change it updates the persisted date ref and clears both the synchronous guard and visible mission list before processing the new tap.
+- Added a regression assertion for foreground rollover.
+- App commit: `934b70f87632efb1b3126939f788927972e0d913`; QA assertion commit: `cccb400445145a6971bb238a7c0243e562eb9c5c`.
+- Source inspection only; QA has not been executed.
