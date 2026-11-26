@@ -62,7 +62,7 @@ export const SERBIAN_B1_FINAL_EXAM = [
       "අලුත්වැඩියා නිසා බස් රථය වෙනත් නැවතුමකින් පිටත් වෙනවා."
     ],
     "answer": 2,
-    "explanation": "Sada radim u većoj firmi. = කලින් මම කුඩා වෙළඳසැලක වැඩ කළා."
+    "explanation": "Sada radim u većoj firmi. = දැන් මම විශාල සමාගමක වැඩ කරනවා."
   },
   {
     "id": "b1-sr-final-5",
@@ -126,7 +126,7 @@ export const SERBIAN_B1_FINAL_EXAM = [
       "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා."
     ],
     "answer": 2,
-    "explanation": "Nije bilo dovoljno vremena, zato smo promenili plan. = තද වැස්ස නිසා තරගය කල් දැමුවා."
+    "explanation": "Nije bilo dovoljno vremena, zato smo promenili plan. = ප්‍රමාණවත් කාලයක් නොතිබූ නිසා අපි සැලැස්ම වෙනස් කළා."
   },
   {
     "id": "b1-sr-final-9",
@@ -385,7 +385,7 @@ export const ENGLISH_B1_FINAL_EXAM = [
       "Because of the roadworks, the bus leaves from another stop."
     ],
     "answer": 2,
-    "explanation": "Now I work for a larger company. = කලින් මම කුඩා වෙළඳසැලක වැඩ කළා."
+    "explanation": "Now I work for a larger company. = දැන් මම විශාල සමාගමක වැඩ කරනවා."
   },
   {
     "id": "b1-en-final-5",
@@ -449,7 +449,7 @@ export const ENGLISH_B1_FINAL_EXAM = [
       "මේ සම්ප්‍රදාය පරම්පරාවෙන් පරම්පරාවට පැවත එනවා."
     ],
     "answer": 2,
-    "explanation": "There was not enough time, so we changed the plan. = Because of heavy rain, the match was postponed."
+    "explanation": "There was not enough time, so we changed the plan. = ප්‍රමාණවත් කාලයක් නොතිබූ නිසා අපි සැලැස්ම වෙනස් කළා."
   },
   {
     "id": "b1-en-final-9",
