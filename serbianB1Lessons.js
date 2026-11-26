@@ -6,9 +6,9 @@ export const SERBIAN_B1_LESSONS = [
     "objective": "විශේෂ අත්දැකීමක් අතීත කාලයෙන් විස්තර කිරීම",
     "vocabulary": [
       {
-        "word": "experience",
+        "word": "iskustvo",
         "reading": "ඉස්කුස්ත්වො",
-        "meaning": "අත්දැකීම",
+        "meaning": "අත්දැකීම / පළපුරුද්ද",
         "example": "Ovo je bilo moje prvo veliko iskustvo.",
         "translation": "මෙය මගේ පළමු විශාල අත්දැකීමයි.",
         "exampleReading": "ඔවො යේ බිලො මොයේ ප්‍ර්වො වෙලිකො ඉස්කුස්ත්වො."
@@ -394,12 +394,12 @@ export const SERBIAN_B1_LESSONS = [
         "exampleReading": "ප්‍රෙඋසෙචු ඔවායි සාදාතාක්."
       },
       {
-        "word": "solution",
-        "reading": "රෙෂෙන්යෙ",
+        "word": "rešenje",
+        "reading": "රෙෂෙන්යේ",
         "meaning": "විසඳුම",
-        "example": "Možemo li da promenimo raspored?",
-        "translation": "අපිට කාලසටහන වෙනස් කරන්න පුළුවන්ද?",
-        "exampleReading": "මොෂෙමො ලි දා ප්‍රොමෙනිමො රස්පොරෙද්?"
+        "example": "Našli smo dobro rešenje.",
+        "translation": "අපි හොඳ විසඳුමක් සොයාගත්තා.",
+        "exampleReading": "නාෂ්ලි ස්මො දොබ්‍රො රෙෂෙන්යේ."
       },
       {
         "word": "suggest",
@@ -2376,7 +2376,7 @@ export const SERBIAN_B1_LESSONS = [
         "exampleReading": "ස්වාකි කුපාත්ස් ඉමා ප්‍රාවො දා දොබියේ යාස්නෙ ඉන්ෆොර්මාත්සියේ."
       },
       {
-        "word": "solution",
+        "word": "rešenje",
         "reading": "රෙෂෙන්යේ",
         "meaning": "විසඳුම",
         "example": "Zajedno smo pronašli brzo i pravedno rešenje.",
@@ -4458,7 +4458,7 @@ export const SERBIAN_B1_LESSONS = [
       {
         "word": "iskustvo",
         "reading": "ඉස්කුස්ත්වො",
-        "meaning": "පළපුරුද්ද",
+        "meaning": "අත්දැකීම / පළපුරුද්ද",
         "example": "Radio sam u prodaji i stekao dragoceno iskustvo u radu sa kupcima.",
         "translation": "මම විකුණුම් ක්ෂේත්‍රයේ වැඩ කර පාරිභෝගිකයන් සමඟ වැඩ කිරීමේ වටිනා පළපුරුද්දක් ලබාගත්තා.",
         "exampleReading": "රඅදඉඔ ස්අම උ පරඔදඅයඉ ඉ ස්ත්එකඅඔ දරඅගඔත්ස්එනඔ ඉස්කඋස්ත්වඔ උ රඅදඋ ස්අ කඋපත්ස්ඉමඅ."
