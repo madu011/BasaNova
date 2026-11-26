@@ -5626,11 +5626,11 @@ export const SERBIAN_B2_LESSONS = [
     "vocabulary": [
       {
         "word": "uzorak",
-        "reading": "කොන්ත්‍රැක්ට්",
+        "reading": "උසොරක්",
         "meaning": "නියැදිය",
-        "example": "Važno je da razmotrimo sve relevantne činjenice.",
-        "translation": "පර්යේෂණ ක්‍රම සහ දත්ත ගුණාත්මකභාවය පිළිබඳ 1 වන උදාහරණය: කරුණු සලකා බලා සාධාරණ තීරණයක් ගනිමු.",
-        "exampleReading": "කොන්ත්‍රැක්ට්"
+        "example": "Važno je proveriti da li je uzorak reprezentativan.",
+        "translation": "නියැදිය නියෝජිත එකක්දැයි පරීක්ෂා කිරීම වැදගත්.",
+        "exampleReading": "වාෂ්නො යෙ ප්‍රොවෙරිති දා ලි යෙ උසොරක් රෙප්‍රෙසෙන්තාතිවාන්."
       },
       {
         "word": "pristrasnost",
