@@ -192,6 +192,14 @@ const restoreEffectStart = appSource.indexOf('useEffect(()=>{let active=true;(as
 assert.ok(restoreEffectStart >= 0, "Progress restore must load the versioned AsyncStorage record");
 const restoreEffectEnd = appSource.indexOf('useEffect(()=>{if(!storageReady)return;', restoreEffectStart);
 assert.ok(restoreEffectEnd > restoreEffectStart, "Progress restore must finish before the persistence effect");
+
+// Do not expose interactive app screens until AsyncStorage restore has settled.
+// Otherwise a learner can change language, complete missions or answer lessons
+// while the saved snapshot is still loading, and then have those actions overwritten.
+const storageGateIndex = appSource.indexOf("if(!storageReady)return <SafeAreaProvider>");
+const mainRenderIndex = appSource.indexOf("return <SafeAreaProvider><ThemeContext.Provider");
+assert.ok(storageGateIndex >= 0 && mainRenderIndex > storageGateIndex,
+  "The app must show a non-interactive loading state until saved progress restoration completes");
 const restoreEffect = appSource.slice(restoreEffectStart, restoreEffectEnd);
 assert.match(restoreEffect, /let active=true/u, "AsyncStorage restore must guard against updates after unmount");
 assert.match(restoreEffect, /finally\{if\(active\)setStorageReady\(true\);\}/u,
