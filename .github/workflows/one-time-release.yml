@@ -1,5 +1,5 @@
 name: BasaNova one-time QA and Android build
-# Refresh: rerun after Serbian B1 headword inference threshold fix.
+# Refresh: rerun after curated Serbian B1 vocabulary normalization.
 
 on:
   push:
