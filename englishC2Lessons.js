@@ -3,6 +3,7 @@ export const ENGLISH_C2_LESSONS = [
   {
     "id": "en-c2-l1",
     "unit": "C2 · Pragmatic implicature and indirect meaning",
+    "objective": "Interpret implied meaning in context and infer the speaker's intention.",
     "title": "C2 · 1 · Pragmatic implicature and indirect meaning",
     "vocabulary": [
       {
@@ -165,6 +166,7 @@ export const ENGLISH_C2_LESSONS = [
   {
     "id": "en-c2-l2",
     "unit": "C2 · Irony, sarcasm and sophisticated humour",
+    "objective": "Identify irony, sarcasm, tone and social relationships to choose an appropriate response.",
     "title": "C2 · 2 · Irony, sarcasm and sophisticated humour",
     "vocabulary": [
       {
@@ -327,6 +329,7 @@ export const ENGLISH_C2_LESSONS = [
   {
     "id": "en-c2-l3",
     "unit": "C2 · Dialect variation and sociolinguistic identity",
+    "objective": "Compare dialect variation, social language patterns and standard English.",
     "title": "C2 · 3 · Dialect variation and sociolinguistic identity",
     "vocabulary": [
       {
@@ -489,6 +492,7 @@ export const ENGLISH_C2_LESSONS = [
   {
     "id": "en-c2-l4",
     "unit": "C2 · Rhetorical framing and persuasive architecture",
+    "objective": "Present complex arguments persuasively using rhetorical framing and counterarguments.",
     "title": "C2 · 4 · Rhetorical framing and persuasive architecture",
     "vocabulary": [
       {
@@ -651,6 +655,7 @@ export const ENGLISH_C2_LESSONS = [
   {
     "id": "en-c2-l5",
     "unit": "C2 · Lexical nuance and near-synonym discrimination",
+    "objective": "Distinguish subtle shades of meaning and usage among near-synonyms.",
     "title": "C2 · 5 · Lexical nuance and near-synonym discrimination",
     "vocabulary": [
       {
@@ -813,6 +818,7 @@ export const ENGLISH_C2_LESSONS = [
   {
     "id": "en-c2-l6",
     "unit": "C2 · Complex literary allusion and intertextuality",
+    "objective": "Recognise literary allusions and intertextual connections between works.",
     "title": "C2 · 6 · Complex literary allusion and intertextuality",
     "vocabulary": [
       {
@@ -975,6 +981,7 @@ export const ENGLISH_C2_LESSONS = [
   {
     "id": "en-c2-l7",
     "unit": "C2 · Forensic editing and textual reconstruction",
+    "objective": "Evaluate manuscript variants and justify editorial decisions with evidence.",
     "title": "C2 · 7 · Forensic editing and textual reconstruction",
     "vocabulary": [
       {
@@ -1137,6 +1144,7 @@ export const ENGLISH_C2_LESSONS = [
   {
     "id": "en-c2-l8",
     "unit": "C2 · High-stakes mediation and face-saving language",
+    "objective": "Mediate conflict impartially while preserving the dignity of everyone involved.",
     "title": "C2 · 8 · High-stakes mediation and face-saving language",
     "vocabulary": [
       {
@@ -1299,6 +1307,7 @@ export const ENGLISH_C2_LESSONS = [
   {
     "id": "en-c2-l9",
     "unit": "C2 · Nuanced translation and cultural equivalence",
+    "objective": "Translate nuanced meaning naturally while preserving cultural context.",
     "title": "C2 · 9 · Nuanced translation and cultural equivalence",
     "vocabulary": [
       {
@@ -1461,6 +1470,7 @@ export const ENGLISH_C2_LESSONS = [
   {
     "id": "en-c2-l10",
     "unit": "C2 · C2 integrated discourse and expert-level synthesis",
+    "objective": "Synthesise different viewpoints into a precise, coherent expert-level conclusion.",
     "title": "C2 · 10 · C2 integrated discourse and expert-level synthesis",
     "vocabulary": [
       {
