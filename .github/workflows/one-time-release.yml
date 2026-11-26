@@ -1,5 +1,5 @@
 name: BasaNova one-time QA and Android build
-# Refresh: rerun after curated Serbian B1 vocabulary normalization.
+# Refresh: rerun after curated Serbian B1/B2 headwords and B2 reading regeneration.
 
 on:
   push:
