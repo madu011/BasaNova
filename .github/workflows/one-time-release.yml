@@ -1,0 +1,72 @@
+name: BasaNova one-time QA and Android build
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/one-time-release.yml"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: basanova-one-time-release
+  cancel-in-progress: true
+
+jobs:
+  content-qa:
+    name: Content and source QA
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Generate dependency lock for clean CI install
+        run: npm install --package-lock-only --ignore-scripts --no-audit --no-fund
+      - name: Install JavaScript dependencies
+        run: npm ci --no-audit --no-fund
+      - name: Check Expo dependency compatibility
+        run: npx expo install --check
+      - name: Run content and regression QA
+        run: npm run qa:content
+
+  android-debug-apk:
+    name: Build installable Android debug APK
+    needs: content-qa
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Set up Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+      - name: Generate dependency lock for clean CI install
+        run: npm install --package-lock-only --ignore-scripts --no-audit --no-fund
+      - name: Install JavaScript dependencies
+        run: npm ci --no-audit --no-fund
+      - name: Generate native Android project
+        run: npx expo prebuild --platform android --no-install --clean
+      - name: Build signed Android debug APK
+        working-directory: android
+        run: |
+          chmod +x ./gradlew
+          ./gradlew --no-daemon assembleDebug
+          test -s app/build/outputs/apk/debug/app-debug.apk
+      - name: Upload installable APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: basanova-android-debug-apk
+          path: android/app/build/outputs/apk/debug/app-debug.apk
+          if-no-files-found: error
+          retention-days: 14
