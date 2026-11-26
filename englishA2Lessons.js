@@ -3592,14 +3592,14 @@ export const ENGLISH_A2_LESSONS = [
     },
     "practice": [
       {
-        "prompt": "Choose the word meaning “වේදිකාව”.",
+        "prompt": "Choose the word meaning “බස් රථය”.",
         "options": [
-          "platform",
-          "departure",
-          "arrival"
+          "bus",
+          "train",
+          "station"
         ],
         "answer": 0,
-        "explanation": "platform = වේදිකාව"
+        "explanation": "bus = බස් රථය"
       },
       {
         "prompt": "Choose the word meaning “ටිකට්පත”.",
