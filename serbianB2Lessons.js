@@ -9010,7 +9010,126 @@ const _srB2Cyrillic={а:"a",б:"b",в:"v",г:"g",д:"d",ђ:"đ",е:"e",ж:"ž",�
 function _srB2ToLatin(value){return Array.from(String(value||"").toLowerCase()).map(char=>_srB2Cyrillic[char]??char).join("");}
 const _srB2SoundMap={"dž":"ජ්","lj":"ල්‍ය","nj":"න්‍ය","č":"ච්","ć":"ච්‍ය","đ":"ජ්‍ය","š":"ෂ්","ž":"ෂ්",a:"අ",b:"බ්",c:"ත්ස්",d:"ද්",e:"එ",f:"ෆ්",g:"ග්",h:"හ්",i:"ඉ",j:"ය්",k:"ක්",l:"ල්",m:"ම්",n:"න්",o:"ඔ",p:"ප්",r:"ර්",s:"ස්",t:"ත්",u:"උ",v:"ව්",w:"ව්",x:"ක්ස්",y:"යි",q:"ක්",z:"ස්"};
 function _srB2SinhalaReading(value){const source=String(value||"").toLowerCase();let output="",index=0;while(index<source.length){const pair=source.slice(index,index+2);if(_srB2SoundMap[pair]){output+=_srB2SoundMap[pair];index+=2;continue;}const char=source[index];output+=_srB2SoundMap[char]??char;index++;}return output;}
-for(const lesson of SERBIAN_B2_LESSONS)for(const item of lesson.vocabulary||[]){if(/[А-Яа-яЁёЂђЈјЉљЊњЋћЏџ]/u.test(item.reading||"")){item.word=_srB2ToLatin(item.reading);item.reading=_srB2SinhalaReading(item.word);}else if(/[A-Za-zČĆŽŠĐčćžšđ]/u.test(item.reading||"")&&!/[ං-෴]/u.test(item.reading||"")){item.word=item.reading;item.reading=_srB2SinhalaReading(item.word);}}
+const _srB2HeadwordOverrides = {
+  "sr-b2-l1": [
+    "argument",
+    "dokaz",
+    "primedba",
+    "ustupak",
+    "perspektiva",
+    "razuman",
+    "ipak",
+    "zaključak"
+  ],
+  "sr-b2-l2": [
+    "pregovori",
+    "sporazum",
+    "kompromis",
+    "uslov",
+    "rok",
+    "predlog",
+    "budžet",
+    "fleksibilan"
+  ],
+  "sr-b2-l3": [
+    "vođstvo",
+    "povratna informacija",
+    "odgovornost",
+    "inicijativa",
+    "učinak",
+    "podrška",
+    "unapređenje",
+    "timski rad"
+  ],
+  "sr-b2-l4": [
+    "urbanizacija",
+    "infrastruktura",
+    "stanovanje",
+    "nejednakost",
+    "stanovništvo",
+    "ulaganje",
+    "pristupačnost",
+    "posledica"
+  ],
+  "sr-b2-l5": [
+    "hipoteza",
+    "uslov",
+    "ishod",
+    "mogućnost",
+    "inače",
+    "sprečiti",
+    "žaliti",
+    "alternativa"
+  ],
+  "sr-b2-l6": [
+    "postupak",
+    "prijava",
+    "odobrenje",
+    "zahtev",
+    "dokument",
+    "predati",
+    "proveriti",
+    "obrada"
+  ],
+  "sr-b2-l7": [
+    "prezentacija",
+    "publika",
+    "cilj",
+    "ključna tačka",
+    "ilustracija",
+    "naglasiti",
+    "ubedljiv",
+    "sažetak"
+  ],
+  "sr-b2-l8": [
+    "podaci",
+    "uzorak",
+    "anketa",
+    "procenat",
+    "trend",
+    "nalaz",
+    "ograničenje",
+    "ukazati"
+  ],
+  "sr-b2-l9": [
+    "naslov",
+    "pristrasnost",
+    "izvor",
+    "kontekst",
+    "ton",
+    "tumačenje",
+    "stereotip",
+    "pouzdan"
+  ],
+  "sr-b2-l10": [
+    "sukob",
+    "posredovanje",
+    "nesporazum",
+    "zabrinutost",
+    "pojasniti",
+    "pravičnost",
+    "rešenje",
+    "obostrani"
+  ],
+  "sr-b2-l11": [
+    "rizik",
+    "procena",
+    "prioritet",
+    "resurs",
+    "izvodljiv",
+    "uticaj",
+    "nepredviđeni slučaj",
+    "odluka"
+  ]
+};
+for(const lesson of SERBIAN_B2_LESSONS){
+  const lessonOverrides=_srB2HeadwordOverrides[lesson.id]||[];
+  for(const [index,item] of (lesson.vocabulary||[]).entries()){
+    if(lessonOverrides[index]){item.word=lessonOverrides[index];continue;}
+    if(/[А-Яа-яЁёЂђЈјЉљЊњЋћЏџ]/u.test(item.reading||"")){item.word=_srB2ToLatin(item.reading);item.reading=_srB2SinhalaReading(item.word);}
+    else if(/[A-Za-zČĆŽŠĐčćžšđ]/u.test(item.reading||"")&&!/[ං-෴]/u.test(item.reading||"")){item.word=item.reading;item.reading=_srB2SinhalaReading(item.word);}
+  }
+}
 
 function _srB2IsCleanSinhala(value){return /[ං-෴]/u.test(value||"")&&!/[A-Za-zА-Яа-яЁёЂђЈјЉљЊњЋћЏџ]/u.test(value||"");}
 for(const lesson of SERBIAN_B2_LESSONS){
