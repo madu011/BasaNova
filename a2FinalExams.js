@@ -26,6 +26,7 @@ function makeVocabularyQuestion(item, pool, id, index) {
     type: "vocabulary",
     prompt: "මෙම වචනයේ නිවැරදි සිංහල තේරුම තෝරන්න.",
     word: item.word,
+    meaning: item.meaning,
     wordReading: item.reading,
     options,
     answer,
