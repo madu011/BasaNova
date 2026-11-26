@@ -3473,9 +3473,9 @@ export const ENGLISH_B2_LESSONS = [
         "translation": "අනාගත පරම්පරාවන් වෙනුවෙන් සංස්කෘතික උරුමය රැකගත යුතුයි."
       },
       {
-        "word": "tradition",
-        "reading": "ට්‍රඩිෂන්",
-        "meaning": "සම්ප්‍රදාය",
+        "word": "cultural heritage",
+        "reading": "කල්චරල් හෙරිටේජ්",
+        "meaning": "සංස්කෘතික උරුමය",
         "example": "Local crafts create jobs and preserve traditions.",
         "exampleReading": "ලෝකල් ක්‍රාෆ්ට්ස් ක්‍රියේට් ජොබ්ස් ඇන්ඩ් ප්‍රිසර්ව් ට්‍රඩිෂන්ස්.",
         "translation": "දේශීය හස්ත කර්මාන්ත රැකියා ඇති කර සම්ප්‍රදාය රකිනවා."
