@@ -3478,57 +3478,57 @@ export const SERBIAN_A2_LESSONS = [
         "word": "voz",
         "reading": "වොස්",
         "meaning": "දුම්රිය",
-        "example": "Autobus polazi za deset minuta.",
-        "translation": "බස් රථය විනාඩි දහයකින් පිටත් වෙනවා.",
-        "exampleReading": "අඋතොබුස් පොලාසි සා දෙසෙත් මිනුතා."
+        "example": "Voz polazi u devet.",
+        "translation": "දුම්රිය නවයට පිටත් වෙනවා.",
+        "exampleReading": "වොස් පොලාසි උ දෙවෙත්."
       },
       {
         "word": "stanica",
         "reading": "ස්තානිත්සා",
         "meaning": "නැවතුම්පොළ",
-        "example": "Da li moram da presedam?",
-        "translation": "මට වෙනත් බස් රථයකට මාරු වෙන්න ඕනෙද?",
-        "exampleReading": "දා ලි මොරම් දා ප්‍රෙසෙදාම්?"
+        "example": "Gde je autobuska stanica?",
+        "translation": "බස් නැවතුම්පොළ කොහෙද?",
+        "exampleReading": "ග්දෙ යෙ අඋතොබුස්කා ස්තානිත්සා?"
       },
       {
         "word": "karta",
         "reading": "කාර්තා",
         "meaning": "ටිකට්පත",
-        "example": "Kada polazi autobus?",
-        "translation": "බස් රථය පිටත් වෙන්නේ කීයටද?",
-        "exampleReading": "කාදා පොලාසි අඋතොබුස්?"
+        "example": "Koliko košta karta?",
+        "translation": "ටිකට්පතක මිල කීයද?",
+        "exampleReading": "කොලිකො කොෂ්තා කාර්තා?"
       },
       {
         "word": "presedanje",
         "reading": "ප්‍රෙසෙදාන්යෙ",
         "meaning": "වාහන මාරු කිරීම",
-        "example": "Autobus polazi za deset minuta.",
-        "translation": "බස් රථය විනාඩි දහයකින් පිටත් වෙනවා.",
-        "exampleReading": "අඋතොබුස් පොලාසි සා දෙසෙත් මිනුතා."
+        "example": "Da li moram da presedam?",
+        "translation": "මට වාහනය මාරු කරන්න ඕනෙද?",
+        "exampleReading": "දා ලි මොරම් දා ප්‍රෙසෙදාම්?"
       },
       {
         "word": "kašnjenje",
         "reading": "කාෂ්න්යෙන්යෙ",
         "meaning": "ප්‍රමාදය",
-        "example": "Da li moram da presedam?",
-        "translation": "මට වෙනත් බස් රථයකට මාරු වෙන්න ඕනෙද?",
-        "exampleReading": "දා ලි මොරම් දා ප්‍රෙසෙදාම්?"
+        "example": "Voz kasni deset minuta.",
+        "translation": "දුම්රිය විනාඩි දහයක් ප්‍රමාදයි.",
+        "exampleReading": "වොස් කාස්නි දෙසෙත් මිනුතා."
       },
       {
         "word": "polazak",
         "reading": "පොලාසාක්",
         "meaning": "පිටත්වීම",
-        "example": "Kada polazi autobus?",
-        "translation": "බස් රථය පිටත් වෙන්නේ කීයටද?",
-        "exampleReading": "කාදා පොලාසි අඋතොබුස්?"
+        "example": "Vreme polaska je u devet.",
+        "translation": "පිටත්වීමේ වේලාව නවයයි.",
+        "exampleReading": "ව්‍රෙමෙ පොලාස්කා යෙ උ දෙවෙත්."
       },
       {
         "word": "dolazak",
         "reading": "දොලාසාක්",
         "meaning": "පැමිණීම",
-        "example": "Autobus polazi za deset minuta.",
-        "translation": "බස් රථය විනාඩි දහයකින් පිටත් වෙනවා.",
-        "exampleReading": "අඋතොබුස් පොලාසි සා දෙසෙත් මිනුතා."
+        "example": "Voz stiže u jedanaest.",
+        "translation": "දුම්රිය එකොළහට පැමිණෙනවා.",
+        "exampleReading": "වොස් ස්තිෂෙ උ යෙදානෙස්ත්."
       }
     ],
     "grammarTitle": "ව්‍යාකරණය",
