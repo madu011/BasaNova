@@ -1,23 +1,20 @@
 # Latest continuation checkpoint — 2026-11-26
 
-## Current instruction
-The user asked to fix all remaining BasaNova errors. Continue implementation and source QA in grouped passes. Do not start Expo export or Android APK build unless explicitly authorized as a separate final build step.
+## 2026-11-26 — current grouped fixes
+- Workflow safety: `.github/workflows/android-apk.yml` is manual-only. QA runs by default; APK build is opt-in and gated on QA success. Normal pushes do not trigger Actions or APK jobs. Workflow commit: `44e043575b3da4cd15174f57f1b99a48c4e044ec`.
+- Documentation updated to match the manual QA / optional APK workflow: README commit `83f2c9cfe5be72014d47e619bd2a88ece088f4a9`; BUILD commit `968da6a6e596bfb3a81cdc1e853ed58829c171be`.
+- Daily mission race: rapid taps could award duplicate XP because `completeMission` read a stale React state closure. Added synchronous `missionDoneRef` duplicate guard, restore synchronization and local-date rollover clearing. App commit: `8a3c3211be2e4952021ffa44ee76abea5be88b41`; QA guard commit: `a33c82d4d2fd90b7943bd0688ac9af9321c275cc`.
+- Progress log update recorded in `PROJECT_PROGRESS.md`.
+- Source review confirms the new mission guard and QA assertions are present. No Node QA, Expo validation, APK build or Android device test has run. Do not claim the app is error-free until those checks pass.
+- Previous Actions jobs failed before runner allocation (`runner_id: 0`); this is an infrastructure/availability blocker, not a source test result.
 
-## 2026-11-26 — Actions workflow safety correction
-- Found a real configuration mismatch: the workflow was push-triggered and the QA and APK jobs could run independently, despite the project handoff saying to keep builds manual and QA-first.
-- Fixed `.github/workflows/android-apk.yml`: manual dispatch only; QA runs by default; APK build is optional via `build_android_apk` and is gated on successful QA.
-- Updated README.md and BUILD.md to match the workflow behavior.
-- Workflow commit: `44e043575b3da4cd15174f57f1b99a48c4e044ec`.
-- Documentation commits: see current main history; progress log updated in `PROJECT_PROGRESS.md`.
-- This change prevents ordinary pushes from consuming Actions usage or starting builds. No QA command, Expo check, APK build, or device test was run. Do not claim errors are all fixed until executable QA and runtime checks pass.
-- Current known external blocker: previous Actions jobs terminated before runner allocation (`runner_id: 0`); job logs were unavailable. This is not evidence of a source pass/fail.
+## Current instruction and next work
+The user asked to fix all remaining BasaNova errors. Continue grouped source audits, preserving Serbian/English course data and learner progress keys. Do not start Expo export or APK build unless the user explicitly authorizes that final build step.
 
-## Next exact work
-1. Continue auditing `scripts/content-qa.mjs` assumptions against actual lesson/assessment schemas; fix only confirmed false positives or genuine data defects.
-2. Continue App.js state lifecycle and exam/retry review, preserving learner progress keys and language separation.
-3. Review dependency reproducibility and app config; do not create a lockfile by guessing versions.
-4. When a runner is available, run QA only first. Keep APK build opt-in and deferred until source QA is clean and the user explicitly authorizes the build.
-5. Update this handoff and `PROJECT_PROGRESS.md` with actual commits and test outcomes.
+1. Continue auditing assessment key consistency, reset/retry state and lesson completion.
+2. Review QA assertions for schema assumptions and expand checks only where grounded in the app's actual data.
+3. Review dependency reproducibility and app config.
+4. When a runner is available, run QA only first and fix every reported failure. Keep APK build opt-in and deferred until QA is clean and separately authorized.
 
 ---
 
