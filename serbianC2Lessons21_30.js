@@ -170,23 +170,23 @@ export const SERBIAN_C2_LESSONS_21_30 = [
     "objective": "Razlikujte temu, fokus i funkciju diskursnih markera.",
     "vocabulary": [
       {
-        "word": "Tematizacija postavlja poznatu informaciju u početni deo iskaza.",
+        "word": "tematizacija",
         "reading": "තෙමාතිසාට්සියා",
-        "meaning": "මාතෘකා ඉදිරිපත් කිරීමෙන් දන්නා තොරතුරු ප්‍රකාශයේ මුල් කොටසට ගෙන එයි.",
-        "example": "Međutim, zaključak ne sledi iz prethodne premise.",
-        "translation": "කෙසේවෙතත්, නිගමනය පෙර පූර්වකල්පනයෙන් අනුගමනය නොවේ."
+        "meaning": "මාතෘකාව ඉදිරිපත් කිරීම",
+        "example": "Tematizacija stavlja poznatu informaciju na početak iskaza.",
+        "translation": "මාතෘකාකරණය දන්නා තොරතුරු ප්‍රකාශයේ මුලට ගෙන එයි."
       },
       {
-        "word": "Fokus označava informaciju koju govornik posebno ističe.",
+        "word": "fokus",
         "reading": "ෆොකුස්",
-        "meaning": "අවධානයේ කේන්ද්‍රය යනු කථිකයා විශේෂයෙන් ඉස්මතු කරන තොරතුරයි.",
+        "meaning": "අවධානයේ කේන්ද්‍රය",
         "example": "Upravo taj podatak menja fokus rasprave.",
         "translation": "එම දත්තයම සාකච්ඡාවේ අවධානය වෙනස් කරයි."
       },
       {
-        "word": "Topikalizacija pomera temu na početak rečenice.",
+        "word": "topikalizacija",
         "reading": "තොපිකාලිසාට්සියා",
-        "meaning": "මාතෘකාකරණය වාක්‍යයේ මාතෘකාව මුලට ගෙන එයි.",
+        "meaning": "මාතෘකාකරණය",
         "example": "Marker povezuje iskaz sa širim diskursom.",
         "translation": "සලකුණ ප්‍රකාශය පුළුල් සංවාදයට සම්බන්ධ කරයි."
       },
@@ -496,16 +496,16 @@ export const SERBIAN_C2_LESSONS_21_30 = [
     "objective": "Procijenite šta se može preneti, a šta zahteva kulturno objašnjenje.",
     "vocabulary": [
       {
-        "word": "Neprevodivost označava teškoću prenošenja značenja u drugi jezik.",
+        "word": "neprevodivost",
         "reading": "නෙප්‍රෙවොදිවොස්ත්",
         "meaning": "සෘජුව පරිවර්තනය කළ නොහැකි බව යනු අර්ථය වෙනත් භාෂාවකට ගෙන යාමේ අපහසුතාවයි.",
         "example": "Doslovan prevod gubi kulturnu aluziju.",
         "translation": "වචනාර්ථ පරිවර්තනය සංස්කෘතික ඉඟිය අහිමි කරයි."
       },
       {
-        "word": "Ekvivalencija traži odgovarajući smisao u ciljnom jeziku.",
+        "word": "ekvivalencija",
         "reading": "එක්විවාලෙන්ට්සියා",
-        "meaning": "සමාන අර්ථ ගැළපීමෙන් ඉලක්ක භාෂාවේ ගැළපෙන අර්ථයක් සොයයි.",
+        "meaning": "සමාන අර්ථ ගැළපීම",
         "example": "Prevodilac bira strategiju prema publici.",
         "translation": "පරිවර්තකයා පාඨකයා අනුව උපාය තෝරයි."
       },
@@ -517,9 +517,9 @@ export const SERBIAN_C2_LESSONS_21_30 = [
         "translation": "දේශීය සංස්කෘතියට හැඩගැස්වීමෙන් සංස්කෘතික අංග ඉලක්ක පාඨකයන්ට ගැළපේ."
       },
       {
-        "word": "Strategija otuđenja zadržava elemente strane kulture u prevodu.",
+        "word": "otuđenje",
         "reading": "ඔතුජෙන්යේ",
-        "meaning": "විදේශීය බව රැකීමේ උපාය පරිවර්තනයේදී විදේශීය සංස්කෘතික අංග රඳවා ගනී.",
+        "meaning": "විදේශීය බව රැකීම",
         "example": "Kompenzacija nadoknađuje izgubljeni efekat.",
         "translation": "වෙනත් තැනක අර්ථ පිරවීමෙන් නැතිවූ බලපෑම පුරවයි."
       },
