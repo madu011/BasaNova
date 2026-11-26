@@ -631,8 +631,8 @@ export const ENGLISH_B1_FINAL_EXAM = [
     "id": "b1-en-final-20",
     "type": "listening",
     "prompt": "Listen and choose the correct meaning of the sentence.",
-    "audio": "අ ක්ලියර් ප්‍රෙසෙන්ටේෂන් කනෙක්ට්ස් ඉග්සැම්පල්ස් රීසන්ස් ඇන්ඩ් අ කන්ක්ලූෂන්.",
-    "reading": "Discourse markers for introductions, supporting points and conclusions.",
+    "audio": "A clear presentation connects examples, reasons and a conclusion.",
+    "reading": "අ ක්ලියර් ප්‍රෙසෙන්ටේෂන් කනෙක්ට්ස් ඉග්සැම්පල්ස්, රීසන්ස් ඇන්ඩ් අ කන්ක්ලූෂන්.",
     "word": null,
     "options": [
       "Public transport is often a more sustainable choice than a car.",
