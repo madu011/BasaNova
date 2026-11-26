@@ -169,31 +169,31 @@ assert.ok((appSource.match(/speak\(item\.word,/gu) || []).length >= 6,
 
  // Regression checks for verified B1/B2 listening-bank defects. The correct
  // option, spoken source sentence and Sinhala pronunciation guide must agree.
- const b1Assessments = await loadModule("b1FinalExams.js");
- const b2Assessments = await loadModule("b2FinalExams.js");
+ const b1RegressionData = await loadModule("b1FinalExams.js");
+ const b2RegressionData = await loadModule("b2FinalExams.js");
  const findQuestion = (questions, id) => {
    const question = questions.find(item => item.id === id);
    assert.ok(question, `Missing regression question: ${id}`);
    return question;
  };
  for (const [bank, id, meaning] of [
-   [b1Assessments.SERBIAN_B1_FINAL_EXAM, "b1-sr-final-4", "දැන් මම විශාල සමාගමක වැඩ කරනවා."],
-   [b1Assessments.ENGLISH_B1_FINAL_EXAM, "b1-en-final-4", "දැන් මම විශාල සමාගමක වැඩ කරනවා."],
-   [b1Assessments.SERBIAN_B1_FINAL_EXAM, "b1-sr-final-8", "ප්‍රමාණවත් කාලයක් නොතිබූ නිසා අපි සැලැස්ම වෙනස් කළා."],
-   [b1Assessments.ENGLISH_B1_FINAL_EXAM, "b1-en-final-8", "ප්‍රමාණවත් කාලයක් නොතිබූ නිසා අපි සැලැස්ම වෙනස් කළා."],
-   [b2Assessments.SERBIAN_B2_FINAL_EXAM, "b2-sr-final-18", "දෝෂ සහිත භාණ්ඩයක් සම්බන්ධයෙන් පැමිණිල්ලක් ඉදිරිපත් කිරීමට කැමතියි."],
-   [b2Assessments.SERBIAN_B2_FINAL_EXAM, "b2-sr-final-19", "සමහරු ඉක්මනින් හැඩගැසෙන අතර, අනෙක් අයට වැඩි කාලයක් අවශ්‍යයි."],
-   [b2Assessments.SERBIAN_B2_FINAL_EXAM, "b2-sr-final-20", "වාර්තාවට අනුව දත්ත ස්වාධීන මූලාශ්‍ර කිහිපයකින් පරීක්ෂා කර තිබෙනවා."],
-   [b2Assessments.ENGLISH_B2_FINAL_EXAM, "b2-en-final-18", "දෝෂ සහිත භාණ්ඩයක් සම්බන්ධයෙන් පැමිණිල්ලක් ඉදිරිපත් කිරීමට කැමතියි."],
-   [b2Assessments.ENGLISH_B2_FINAL_EXAM, "b2-en-final-19", "සමහරු ඉක්මනින් හැඩගැසෙන අතර, අනෙක් අයට වැඩි කාලයක් අවශ්‍යයි."],
-   [b2Assessments.ENGLISH_B2_FINAL_EXAM, "b2-en-final-20", "වාර්තාවට අනුව දත්ත ස්වාධීන මූලාශ්‍ර කිහිපයකින් පරීක්ෂා කර තිබෙනවා."]
+   [b1RegressionData.SERBIAN_B1_FINAL_EXAM, "b1-sr-final-4", "දැන් මම විශාල සමාගමක වැඩ කරනවා."],
+   [b1RegressionData.ENGLISH_B1_FINAL_EXAM, "b1-en-final-4", "දැන් මම විශාල සමාගමක වැඩ කරනවා."],
+   [b1RegressionData.SERBIAN_B1_FINAL_EXAM, "b1-sr-final-8", "ප්‍රමාණවත් කාලයක් නොතිබූ නිසා අපි සැලැස්ම වෙනස් කළා."],
+   [b1RegressionData.ENGLISH_B1_FINAL_EXAM, "b1-en-final-8", "ප්‍රමාණවත් කාලයක් නොතිබූ නිසා අපි සැලැස්ම වෙනස් කළා."],
+   [b2RegressionData.SERBIAN_B2_FINAL_EXAM, "b2-sr-final-18", "දෝෂ සහිත භාණ්ඩයක් සම්බන්ධයෙන් පැමිණිල්ලක් ඉදිරිපත් කිරීමට කැමතියි."],
+   [b2RegressionData.SERBIAN_B2_FINAL_EXAM, "b2-sr-final-19", "සමහරු ඉක්මනින් හැඩගැසෙන අතර, අනෙක් අයට වැඩි කාලයක් අවශ්‍යයි."],
+   [b2RegressionData.SERBIAN_B2_FINAL_EXAM, "b2-sr-final-20", "වාර්තාවට අනුව දත්ත ස්වාධීන මූලාශ්‍ර කිහිපයකින් පරීක්ෂා කර තිබෙනවා."],
+   [b2RegressionData.ENGLISH_B2_FINAL_EXAM, "b2-en-final-18", "දෝෂ සහිත භාණ්ඩයක් සම්බන්ධයෙන් පැමිණිල්ලක් ඉදිරිපත් කිරීමට කැමතියි."],
+   [b2RegressionData.ENGLISH_B2_FINAL_EXAM, "b2-en-final-19", "සමහරු ඉක්මනින් හැඩගැසෙන අතර, අනෙක් අයට වැඩි කාලයක් අවශ්‍යයි."],
+   [b2RegressionData.ENGLISH_B2_FINAL_EXAM, "b2-en-final-20", "වාර්තාවට අනුව දත්ත ස්වාධීන මූලාශ්‍ර කිහිපයකින් පරීක්ෂා කර තිබෙනවා."]
  ]) {
    const question = findQuestion(bank, id);
    assert.equal(question.options[question.answer], meaning, `${id}: correct option must match the spoken sentence`);
    assert.ok(question.explanation.includes(meaning), `${id}: explanation must match the correct option`);
    assert.ok(typeof question.reading === "string" && hasSinhala(question.reading), `${id}: missing Sinhala pronunciation guide`);
  }
- const b1EnglishQ20 = findQuestion(b1Assessments.ENGLISH_B1_FINAL_EXAM, "b1-en-final-20");
+ const b1EnglishQ20 = findQuestion(b1RegressionData.ENGLISH_B1_FINAL_EXAM, "b1-en-final-20");
  assert.match(b1EnglishQ20.audio, /^[A-Za-z]/u, "B1 English Q20 audio must contain the English sentence, not Sinhala phonetics");
  assert.ok(hasSinhala(b1EnglishQ20.reading), "B1 English Q20 reading must contain the Sinhala pronunciation guide");
 
