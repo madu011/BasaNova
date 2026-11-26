@@ -32,6 +32,8 @@ jobs:
         run: npm install --package-lock-only --ignore-scripts --no-audit --no-fund
       - name: Install JavaScript dependencies
         run: npm ci --no-audit --no-fund
+      - name: Check Expo dependency compatibility
+        run: npx expo install --check
       - name: Run content and regression QA
         run: npm run qa:content
 
@@ -57,8 +59,6 @@ jobs:
         run: npm install --package-lock-only --ignore-scripts --no-audit --no-fund
       - name: Install JavaScript dependencies
         run: npm ci --no-audit --no-fund
-      - name: Check Expo dependency compatibility
-        run: npx expo install --check
       - name: Generate native Android project
         run: npx expo prebuild --platform android --no-install --clean
       - name: Build signed debug APK
