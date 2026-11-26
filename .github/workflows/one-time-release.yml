@@ -1,5 +1,5 @@
 name: BasaNova one-time QA and Android build
-# Refresh: rerun after B1 explanation-key corrections.
+# Refresh: rerun after B1 pronunciation fallback and QA updates.
 
 on:
   push:
