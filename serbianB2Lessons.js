@@ -9147,3 +9147,28 @@ for(const lesson of SERBIAN_B2_LESSONS){
 for(const lesson of SERBIAN_B2_LESSONS)for(const item of lesson.vocabulary||[]){
   if(item.example&&item.exampleReading&&!_srB2IsCleanSinhala(item.exampleReading))item.exampleReading=_srB2SinhalaReading(_srB2ToLatin(item.example));
 }
+
+// Lessons 26–50 contained copied placeholder pronunciation strings. Regenerate
+// these guides from their own Serbian headwords and example sentences.
+for (const lesson of SERBIAN_B2_LESSONS) {
+  const lessonNumber = Number(lesson.id.match(/l(\\d+)$/u)?.[1] || 0);
+  if (lessonNumber < 26) continue;
+  for (const item of lesson.vocabulary || []) {
+    item.reading = _srB2SinhalaReading(_srB2ToLatin(item.word));
+    if (item.example) item.exampleReading = _srB2SinhalaReading(_srB2ToLatin(item.example));
+  }
+  for (const group of [lesson.examples, lesson.dialogue, lesson.grammarTerms]) {
+    for (const line of group || []) {
+      const phrase = line.sr || line.text || "";
+      if (phrase) line.reading = _srB2SinhalaReading(_srB2ToLatin(phrase.replace(/^[AB]:\\s*/u, "")));
+    }
+  }
+  if (lesson.listeningPractice?.audio) {
+    lesson.listeningPractice.reading = _srB2SinhalaReading(_srB2ToLatin(lesson.listeningPractice.audio));
+  }
+  if (Array.isArray(lesson.listeningPractice?.readings)) {
+    lesson.listeningPractice.readings = lesson.listeningPractice.readings.map(value =>
+      _srB2SinhalaReading(_srB2ToLatin(value))
+    );
+  }
+}
