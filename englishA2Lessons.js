@@ -3468,27 +3468,27 @@ export const ENGLISH_A2_LESSONS = [
     "vocabulary": [
       {
         "word": "bus",
-        "reading": "ප්ලැට්ෆෝම්",
+        "reading": "බස්",
         "meaning": "බස් රථය",
         "example": "When does the bus leave?",
         "exampleReading": "වෙන් ඩස් දි බස් ලීව්?",
-        "translation": "බස් රථය පිටත් වෙන්නේ කීයටද?""
+        "translation": "බස් රථය පිටත් වෙන්නේ කීයටද?"
       },
       {
         "word": "train",
-        "reading": "ඩිපාර්චර්",
+        "reading": "ට්‍රේන්",
         "meaning": "දුම්රිය",
         "example": "The train leaves at nine.",
         "exampleReading": "දි ට්‍රේන් ලීව්ස් ඇට් නයින්.",
-        "translation": "දුම්රිය නවයට පිටත් වෙනවා.""
+        "translation": "දුම්රිය නවයට පිටත් වෙනවා."
       },
       {
         "word": "station",
-        "reading": "අරයිවල්",
+        "reading": "ස්ටේෂන්",
         "meaning": "නැවතුම්පොළ",
         "example": "Where is the bus station?",
         "exampleReading": "වෙයාර් ඉස් දි බස් ස්ටේෂන්?",
-        "translation": "බස් නැවතුම්පොළ කොහෙද?""
+        "translation": "බස් නැවතුම්පොළ කොහෙද?"
       },
       {
         "word": "ticket",
@@ -3500,11 +3500,11 @@ export const ENGLISH_A2_LESSONS = [
       },
       {
         "word": "transfer",
-        "reading": "ජර්නි",
+        "reading": "ට්‍රාන්ස්ෆර්",
         "meaning": "වාහන මාරු කිරීම",
         "example": "Do I need to change trains?",
         "exampleReading": "ඩූ අයි නීඩ් ටු චේන්ජ් ට්‍රේන්ස්?",
-        "translation": "මට වාහනය මාරු කරන්න ඕනෙද?""
+        "translation": "මට වාහනය මාරු කරන්න ඕනෙද?"
       },
       {
         "word": "delay",
@@ -3516,15 +3516,15 @@ export const ENGLISH_A2_LESSONS = [
       },
       {
         "word": "departure",
-        "reading": "චේන්ජ්",
+        "reading": "ඩිපාර්චර්",
         "meaning": "පිටත්වීම",
         "example": "The departure time is nine.",
         "exampleReading": "දි ඩිපාර්චර් ටයිම් ඉස් නයින්.",
-        "translation": "පිටත්වීමේ වේලාව නවයයි.""
+        "translation": "පිටත්වීමේ වේලාව නවයයි."
       },
       {
         "word": "arrival",
-        "reading": "රූට්",
+        "reading": "අරයිවල්",
         "meaning": "පැමිණීම",
         "example": "The train arrives at eleven.",
         "exampleReading": "දි ට්‍රේන් අරයිව්ස් ඇට් ඉලෙවන්.",
