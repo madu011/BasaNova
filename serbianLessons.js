@@ -74,49 +74,49 @@ export const SERBIAN_A1_LESSONS = [
   "objective": "කැෆේ එකකින් ආහාර හෝ පානයක් ඉල්ලීම, මිල විමසීම සහ බිල ඉල්ලීම.",
   "vocabulary": [
     {
-      "word": "Želim kafu.",
+      "word": "Želim kafu.", "reading": "ෂෙලිම් කාෆු",
       "meaning": "මට කෝපි එකක් ඕනේ.",
       "example": "Dobar dan, želim kafu.",
       "translation": "සුබ දවසක්, මට කෝපි එකක් ඕනේ."
     },
     {
-      "word": "Vodu, molim.",
+      "word": "Vodu, molim.", "reading": "වොදු, මොලීම්",
       "meaning": "වතුර එකක්, කරුණාකර.",
       "example": "Vodu, molim.",
       "translation": "වතුර එකක්, කරුණාකර."
     },
     {
-      "word": "Jelovnik",
+      "word": "Jelovnik", "reading": "යෙලොව්නික්",
       "meaning": "ආහාර මෙනුව",
       "example": "Mogu li da dobijem jelovnik?",
       "translation": "මට ආහාර මෙනුව ලබාගන්න පුළුවන්ද?"
     },
     {
-      "word": "Koliko košta?",
+      "word": "Koliko košta?", "reading": "කොලිකො කොෂ්තා",
       "meaning": "කීයද? / මිල කීයද?",
       "example": "Koliko košta kafa?",
       "translation": "කෝපි එකක මිල කීයද?"
     },
     {
-      "word": "Račun, molim.",
+      "word": "Račun, molim.", "reading": "රාචුන්, මොලීම්",
       "meaning": "බිල දෙන්න, කරුණාකර.",
       "example": "Račun, molim.",
       "translation": "බිල දෙන්න, කරුණාකර."
     },
     {
-      "word": "Još nešto?",
+      "word": "Još nešto?", "reading": "යොෂ් නෙෂ්තො",
       "meaning": "තව මොනවාහරිද?",
       "example": "Želite li još nešto?",
       "translation": "ඔබට තව මොනවාහරි අවශ්‍යද?"
     },
     {
-      "word": "Bez šećera",
+      "word": "Bez šećera", "reading": "බෙස් ෂෙචෙරා",
       "meaning": "සීනි නැතුව",
       "example": "Kafu bez šećera, molim.",
       "translation": "සීනි නැති කෝපි එකක්, කරුණාකර."
     },
     {
-      "word": "Ukusno",
+      "word": "Ukusno", "reading": "උකුස්නො",
       "meaning": "රසවත්",
       "example": "Hrana je veoma ukusna.",
       "translation": "කෑම ඉතා රසවත්."
@@ -205,289 +205,289 @@ export const SERBIAN_A1_LESSONS = [
   "objective": "0–20, දහයේ ගුණාකාර, සියය, දහස, දසදහස්, ලක්ෂ සහ මිලියන දක්වා මූලික අංක රටා හඳුනාගෙන මිල හා ප්‍රමාණ කියන්න. මෙහි දැක්වෙන්නේ ප්‍රධාන උදාහරණ මිස සෑම අංකයක්ම නොවේ.",
   "vocabulary": [
     {
-      "word": "Nula",
+      "word": "Nula", "reading": "නුලා",
       "meaning": "බිංදුව",
       "example": "Broj nula.",
       "translation": "අංකය: බිංදුව."
     },
     {
-      "word": "Jedan",
+      "word": "Jedan", "reading": "යෙදාන්",
       "meaning": "එක",
       "example": "Broj jedan.",
       "translation": "අංකය: එක."
     },
     {
-      "word": "Dva",
+      "word": "Dva", "reading": "ද්වා",
       "meaning": "දෙක",
       "example": "Broj dva.",
       "translation": "අංකය: දෙක."
     },
     {
-      "word": "Tri",
+      "word": "Tri", "reading": "ත්‍රි",
       "meaning": "තුන",
       "example": "Broj tri.",
       "translation": "අංකය: තුන."
     },
     {
-      "word": "Četiri",
+      "word": "Četiri", "reading": "චෙතිරි",
       "meaning": "හතර",
       "example": "Broj četiri.",
       "translation": "අංකය: හතර."
     },
     {
-      "word": "Pet",
+      "word": "Pet", "reading": "පෙත්",
       "meaning": "පහ",
       "example": "Broj pet.",
       "translation": "අංකය: පහ."
     },
     {
-      "word": "Šest",
+      "word": "Šest", "reading": "ෂෙස්ත්",
       "meaning": "හය",
       "example": "Broj šest.",
       "translation": "අංකය: හය."
     },
     {
-      "word": "Sedam",
+      "word": "Sedam", "reading": "සෙදාම්",
       "meaning": "හත",
       "example": "Broj sedam.",
       "translation": "අංකය: හත."
     },
     {
-      "word": "Osam",
+      "word": "Osam", "reading": "ඔසාම්",
       "meaning": "අට",
       "example": "Broj osam.",
       "translation": "අංකය: අට."
     },
     {
-      "word": "Devet",
+      "word": "Devet", "reading": "දෙවෙත්",
       "meaning": "නවය",
       "example": "Broj devet.",
       "translation": "අංකය: නවය."
     },
     {
-      "word": "Deset",
+      "word": "Deset", "reading": "දෙසෙත්",
       "meaning": "දහය",
       "example": "Broj deset.",
       "translation": "අංකය: දහය."
     },
     {
-      "word": "Jedanaest",
+      "word": "Jedanaest", "reading": "යෙදානෙස්ත්",
       "meaning": "එකොළහ",
       "example": "Broj jedanaest.",
       "translation": "අංකය: එකොළහ."
     },
     {
-      "word": "Dvanaest",
+      "word": "Dvanaest", "reading": "ද්වානෙස්ත්",
       "meaning": "දොළහ",
       "example": "Broj dvanaest.",
       "translation": "අංකය: දොළහ."
     },
     {
-      "word": "Trinaest",
+      "word": "Trinaest", "reading": "ත්‍රිනෙස්ත්",
       "meaning": "දහතුන",
       "example": "Broj trinaest.",
       "translation": "අංකය: දහතුන."
     },
     {
-      "word": "Četrnaest",
+      "word": "Četrnaest", "reading": "චෙත්ර්නෙස්ත්",
       "meaning": "දාහතර",
       "example": "Broj četrnaest.",
       "translation": "අංකය: දාහතර."
     },
     {
-      "word": "Petnaest",
+      "word": "Petnaest", "reading": "පෙත්නෙස්ත්",
       "meaning": "පහළොව",
       "example": "Broj petnaest.",
       "translation": "අංකය: පහළොව."
     },
     {
-      "word": "Šesnaest",
+      "word": "Šesnaest", "reading": "ෂෙස්නෙස්ත්",
       "meaning": "දහසය",
       "example": "Broj šesnaest.",
       "translation": "අංකය: දහසය."
     },
     {
-      "word": "Sedamnaest",
+      "word": "Sedamnaest", "reading": "සෙදාම්නෙස්ත්",
       "meaning": "දාහත",
       "example": "Broj sedamnaest.",
       "translation": "අංකය: දාහත."
     },
     {
-      "word": "Osamnaest",
+      "word": "Osamnaest", "reading": "ඔසාම්නෙස්ත්",
       "meaning": "දහඅට",
       "example": "Broj osamnaest.",
       "translation": "අංකය: දහඅට."
     },
     {
-      "word": "Devetnaest",
+      "word": "Devetnaest", "reading": "දෙවෙත්නෙස්ත්",
       "meaning": "දහනවය",
       "example": "Broj devetnaest.",
       "translation": "අංකය: දහනවය."
     },
     {
-      "word": "Dvadeset",
+      "word": "Dvadeset", "reading": "ද්වාදෙසෙත්",
       "meaning": "විස්ස",
       "example": "Broj dvadeset.",
       "translation": "අංකය: විස්ස."
     },
     {
-      "word": "Trideset",
+      "word": "Trideset", "reading": "ත්‍රිදෙසෙත්",
       "meaning": "තිහ",
       "example": "Broj trideset.",
       "translation": "අංකය: තිහ."
     },
     {
-      "word": "Četrdeset",
+      "word": "Četrdeset", "reading": "චෙත්ර්දෙසෙත්",
       "meaning": "හතළිහ",
       "example": "Broj četrdeset.",
       "translation": "අංකය: හතළිහ."
     },
     {
-      "word": "Pedeset",
+      "word": "Pedeset", "reading": "පෙදෙසෙත්",
       "meaning": "පනහ",
       "example": "Broj pedeset.",
       "translation": "අංකය: පනහ."
     },
     {
-      "word": "Šezdeset",
+      "word": "Šezdeset", "reading": "ෂෙස්දෙසෙත්",
       "meaning": "හැට",
       "example": "Broj šezdeset.",
       "translation": "අංකය: හැට."
     },
     {
-      "word": "Sedamdeset",
+      "word": "Sedamdeset", "reading": "සෙදාම්දෙසෙත්",
       "meaning": "හැත්තෑව",
       "example": "Broj sedamdeset.",
       "translation": "අංකය: හැත්තෑව."
     },
     {
-      "word": "Osamdeset",
+      "word": "Osamdeset", "reading": "ඔසාම්දෙසෙත්",
       "meaning": "අසූව",
       "example": "Broj osamdeset.",
       "translation": "අංකය: අසූව."
     },
     {
-      "word": "Devedeset",
+      "word": "Devedeset", "reading": "දෙවෙදෙසෙත්",
       "meaning": "අනූව",
       "example": "Broj devedeset.",
       "translation": "අංකය: අනූව."
     },
     {
-      "word": "Sto",
+      "word": "Sto", "reading": "ස්තො",
       "meaning": "සියය",
       "example": "Broj sto.",
       "translation": "අංකය: සියය."
     },
     {
-      "word": "Dvesta",
+      "word": "Dvesta", "reading": "ද්වෙස්තා",
       "meaning": "දෙසියය",
       "example": "Broj dvesta.",
       "translation": "අංකය: දෙසියය."
     },
     {
-      "word": "Trista",
+      "word": "Trista", "reading": "ත්‍රිස්තා",
       "meaning": "තුන්සියය",
       "example": "Broj trista.",
       "translation": "අංකය: තුන්සියය."
     },
     {
-      "word": "Četiristo",
+      "word": "Četiristo", "reading": "චෙතිරිස්තො",
       "meaning": "හාරසියය",
       "example": "Broj četiristo.",
       "translation": "අංකය: හාරසියය."
     },
     {
-      "word": "Petsto",
+      "word": "Petsto", "reading": "පෙත්ස්තො",
       "meaning": "පන්සියය",
       "example": "Broj petsto.",
       "translation": "අංකය: පන්සියය."
     },
     {
-      "word": "Šeststo",
+      "word": "Šeststo", "reading": "ෂෙස්ත්ස්තො",
       "meaning": "හයසියය",
       "example": "Broj šeststo.",
       "translation": "අංකය: හයසියය."
     },
     {
-      "word": "Sedamsto",
+      "word": "Sedamsto", "reading": "සෙදාම්ස්තො",
       "meaning": "හත්සියය",
       "example": "Broj sedamsto.",
       "translation": "අංකය: හත්සියය."
     },
     {
-      "word": "Osamsto",
+      "word": "Osamsto", "reading": "ඔසාම්ස්තො",
       "meaning": "අටසියය",
       "example": "Broj osamsto.",
       "translation": "අංකය: අටසියය."
     },
     {
-      "word": "Devetsto",
+      "word": "Devetsto", "reading": "දෙවෙත්ස්තො",
       "meaning": "නවසියය",
       "example": "Broj devetsto.",
       "translation": "අංකය: නවසියය."
     },
     {
-      "word": "Hiljadu",
+      "word": "Hiljadu", "reading": "හිල්යාදු",
       "meaning": "දහස",
       "example": "Broj hiljadu.",
       "translation": "අංකය: දහස."
     },
     {
-      "word": "Deset hiljada",
+      "word": "Deset hiljada", "reading": "දෙසෙත් හිල්යාදා",
       "meaning": "දසදහස (10,000)",
       "example": "Deset hiljada dinara.",
       "translation": "ඩිනාර් දසදහසක්."
     },
     {
-      "word": "Pedeset hiljada",
+      "word": "Pedeset hiljada", "reading": "පෙදෙසෙත් හිල්යාදා",
       "meaning": "පනස්දහස (50,000)",
       "example": "Pedeset hiljada dinara.",
       "translation": "ඩිනාර් පනස්දහසක්."
     },
     {
-      "word": "Sto hiljada",
+      "word": "Sto hiljada", "reading": "ස්තො හිල්යාදා",
       "meaning": "ලක්ෂය (100,000)",
       "example": "Sto hiljada dinara.",
       "translation": "ඩිනාර් ලක්ෂයක්."
     },
     {
-      "word": "Dvesta hiljada",
+      "word": "Dvesta hiljada", "reading": "ද්වෙස්තා හිල්යාදා",
       "meaning": "දෙලක්ෂය (200,000)",
       "example": "Dvesta hiljada dinara.",
       "translation": "ඩිනාර් දෙලක්ෂයක්."
     },
     {
-      "word": "Petsto hiljada",
+      "word": "Petsto hiljada", "reading": "පෙත්ස්තො හිල්යාදා",
       "meaning": "පන්ලක්ෂය (500,000)",
       "example": "Petsto hiljada dinara.",
       "translation": "ඩිනාර් පන්ලක්ෂයක්."
     },
     {
-      "word": "Milion",
+      "word": "Milion", "reading": "මිලියොන්",
       "meaning": "මිලියනය (1,000,000)",
       "example": "Jedan milion dinara.",
       "translation": "ඩිනාර් මිලියනයක්."
     },
     {
-      "word": "Dva miliona",
+      "word": "Dva miliona", "reading": "ද්වා මිලියොනා",
       "meaning": "මිලියන දෙක (2,000,000)",
       "example": "Dva miliona dinara.",
       "translation": "ඩිනාර් මිලියන දෙකක්."
     },
     {
-      "word": "Pet miliona",
+      "word": "Pet miliona", "reading": "පෙත් මිලියොනා",
       "meaning": "මිලියන පහ (5,000,000)",
       "example": "Pet miliona dinara.",
       "translation": "ඩිනාර් මිලියන පහක්."
     },
     {
-      "word": "Deset miliona",
+      "word": "Deset miliona", "reading": "දෙසෙත් මිලියොනා",
       "meaning": "මිලියන දහය (10,000,000)",
       "example": "Deset miliona dinara.",
       "translation": "ඩිනාර් මිලියන දහයක්."
     },
     {
-      "word": "Sto miliona",
+      "word": "Sto miliona", "reading": "ස්තො මිලියොනා",
       "meaning": "මිලියන සියය (100,000,000)",
       "example": "Sto miliona dinara.",
       "translation": "ඩිනාර් මිලියන සියයක්."
@@ -651,15 +651,15 @@ export const SERBIAN_A1_LESSONS = [
     "title": "පාඩම 5 · වෙළඳපොළෙන් භාණ්ඩ මිලදී ගනිමු",
     "objective": "පලතුරු සහ එළවළු ඉල්ලීම, කිලෝ/ග්‍රෑම්/ලීටර් ප්‍රමාණ කියීම, මිල විමසීම සහ මුදල් ගෙවීම.",
     "vocabulary": [
-      { "word": "Jabuka", "meaning": "ඇපල් ගෙඩියක්", "example": "Želim jabuke.", "translation": "මට ඇපල් ඕනේ." },
-      { "word": "Paradajz", "meaning": "තක්කාලි", "example": "Koliko košta paradajz?", "translation": "තක්කාලිවල මිල කීයද?" },
-      { "word": "Krompir", "meaning": "අර්තාපල්", "example": "Treba mi krompir.", "translation": "මට අර්තාපල් අවශ්‍යයි." },
-      { "word": "Kilogram", "meaning": "කිලෝග්‍රෑම් එකක්", "example": "Jedan kilogram jabuka, molim.", "translation": "ඇපල් කිලෝග්‍රෑම් එකක්, කරුණාකර." },
-      { "word": "Pola kilograma", "meaning": "කිලෝග්‍රෑම් භාගයක්", "example": "Pola kilograma paradajza.", "translation": "තක්කාලි කිලෝග්‍රෑම් භාගයක්." },
-      { "word": "Litar", "meaning": "ලීටරයක්", "example": "Jedan litar mleka.", "translation": "කිරි ලීටරයක්." },
-      { "word": "Dajte mi, molim vas.", "meaning": "මට දෙන්න, කරුණාකර.", "example": "Dajte mi dva kilograma krompira, molim vas.", "translation": "මට අර්තාපල් කිලෝග්‍රෑම් දෙකක් දෙන්න, කරුණාකර." },
-      { "word": "Koliko košta?", "meaning": "මිල කීයද?", "example": "Koliko košta kilogram jabuka?", "translation": "ඇපල් කිලෝග්‍රෑම් එකක මිල කීයද?" },
-      { "word": "Ukupno", "meaning": "මුළු එකතුව", "example": "Koliko je ukupno?", "translation": "මුළු එකතුව කීයද?" }
+      { "word": "Jabuka", "reading": "යාබුකා", "meaning": "ඇපල් ගෙඩියක්", "example": "Želim jabuke.", "translation": "මට ඇපල් ඕනේ." },
+      { "word": "Paradajz", "reading": "පරාදායිස්", "meaning": "තක්කාලි", "example": "Koliko košta paradajz?", "translation": "තක්කාලිවල මිල කීයද?" },
+      { "word": "Krompir", "reading": "ක්‍රොම්පීර්", "meaning": "අර්තාපල්", "example": "Treba mi krompir.", "translation": "මට අර්තාපල් අවශ්‍යයි." },
+      { "word": "Kilogram", "reading": "කිලොග්‍රාම්", "meaning": "කිලෝග්‍රෑම් එකක්", "example": "Jedan kilogram jabuka, molim.", "translation": "ඇපල් කිලෝග්‍රෑම් එකක්, කරුණාකර." },
+      { "word": "Pola kilograma", "reading": "පොලා කිලොග්‍රාමා", "meaning": "කිලෝග්‍රෑම් භාගයක්", "example": "Pola kilograma paradajza.", "translation": "තක්කාලි කිලෝග්‍රෑම් භාගයක්." },
+      { "word": "Litar", "reading": "ලිතාර්", "meaning": "ලීටරයක්", "example": "Jedan litar mleka.", "translation": "කිරි ලීටරයක්." },
+      { "word": "Dajte mi, molim vas.", "reading": "දායිතෙ මි, මොලීම් වාස්", "meaning": "මට දෙන්න, කරුණාකර.", "example": "Dajte mi dva kilograma krompira, molim vas.", "translation": "මට අර්තාපල් කිලෝග්‍රෑම් දෙකක් දෙන්න, කරුණාකර." },
+      { "word": "Koliko košta?", "reading": "කොලිකො කොෂ්තා", "meaning": "මිල කීයද?", "example": "Koliko košta kilogram jabuka?", "translation": "ඇපල් කිලෝග්‍රෑම් එකක මිල කීයද?" },
+      { "word": "Ukupno", "reading": "උකුප්නො", "meaning": "මුළු එකතුව", "example": "Koliko je ukupno?", "translation": "මුළු එකතුව කීයද?" }
     ],
     "grammarTerms": [{ "sr": "Dajte mi", "si": "මට දෙන්න", "reading": "දාය්තෙ මි" }, { "sr": "jedan kilogram", "si": "කිලෝග්‍රෑම් එකක්", "reading": "යෙදාන් කිලොග්‍රාම්" }, { "sr": "pola kilograma", "si": "කිලෝග්‍රෑම් භාගයක්", "reading": "පොලා කිලොග්‍රාමා" }, { "sr": "dva kilograma", "si": "කිලෝග්‍රෑම් දෙකක්", "reading": "ද්වා කිලොග්‍රාමා" }, { "sr": "Koliko košta?", "si": "කීයද?", "reading": "කොලිකො කොෂ්තා" }, { "sr": "Koliko je ukupno?", "si": "මුළු එකතුව කීයද?", "reading": "කොලිකො යෙ උකුප්නො" }, { "sr": "jedan kilogram", "si": "කිලෝග්‍රෑම් එකක්", "reading": "යෙදාන් කිලොග්‍රාම්" }, { "sr": "dva kilograma", "si": "කිලෝග්‍රෑම් දෙකක්", "reading": "ද්වා කිලොග්‍රාමා" }, { "sr": "molim vas", "si": "කරුණාකර (විධිමත්)", "reading": "මොලීම් වාස්" }],
     "grammarTitle": "භාෂා රටාව · ප්‍රමාණ සහ ආචාරශීලී ඉල්ලීම්",
