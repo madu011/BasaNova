@@ -394,8 +394,8 @@ assert.match(appSource, /accessibilityLabel="වචනය, සිංහල ත�
   "Vocabulary search input must have a descriptive screen-reader label");
 assert.match(appSource, /accessibilityLabel=\{translateDirection==="si-sr"\?"පරිවර්තනය සඳහා සිංහල වාක්‍යය ලියන්න":"පරිවර්තනය සඳහා Serbian වාක්‍යය ලියන්න"\}/u,
   "Translator input must have a descriptive screen-reader label");
-assert.match(appSource, /accessibilityLabel="සිංහල වාක්‍යය Serbian භාෂාවට පරිවර්තනය කරන්න"/u,
-  "Translator submit action must have a descriptive screen-reader label");
+assert.match(appSource, /accessibilityLabel=\{translateDirection==="si-sr"\?"සිංහල වාක්‍යය Serbian භාෂාවට පරිවර්තනය කරන්න":"Serbian වාක්‍යය සිංහලට පරිවර්තනය කරන්න"\}/u,
+  "Translator submit action must have a direction-aware descriptive screen-reader label");
 assert.match(appSource, /accessibilityState=\{\{selected:vocabLetter===letter\}\}/u,
   "Vocabulary alphabet filters must expose their selected state");
 assert.match(appSource, /vocabLetter:\{minHeight:44,justifyContent:"center",/u,
