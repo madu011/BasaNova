@@ -8,6 +8,12 @@
 - Source review confirms the new mission guard and QA assertions are present. No Node QA, Expo validation, APK build or Android device test has run. Do not claim the app is error-free until those checks pass.
 - Previous Actions jobs failed before runner allocation (`runner_id: 0`); this is an infrastructure/availability blocker, not a source test result.
 
+## 2026-11-26 — progress restore interaction race fix
+- Found that the app rendered interactive screens before AsyncStorage restore completed, allowing user actions to be overwritten by the late saved snapshot.
+- Added a non-interactive loading screen until `storageReady` becomes true; added a QA regression assertion for the render gate.
+- App commit: `9b26d46ac516618f96b05237a910cb057f6ce5d6`; QA guard: `1a85cd455eca112fc25d242d988b16d49309f117`.
+- Source inspected only; no QA execution, Expo validation, APK build or device test.
+
 ## Current instruction and next work
 The user asked to fix all remaining BasaNova errors. Continue grouped source audits, preserving Serbian/English course data and learner progress keys. Do not start Expo export or APK build unless the user explicitly authorizes that final build step.
 
