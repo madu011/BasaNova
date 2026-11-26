@@ -3467,28 +3467,28 @@ export const ENGLISH_A2_LESSONS = [
     "objective": "Talk about transport options, tickets and journey times",
     "vocabulary": [
       {
-        "word": "platform",
+        "word": "bus",
         "reading": "ප්ලැට්ෆෝම්",
-        "meaning": "වේදිකාව",
-        "example": "Which platform does the train leave from?",
-        "exampleReading": "විච් ප්ලැට්ෆෝම් ඩස් දි ට්‍රේන් ලීව් ෆ්‍රම්?",
-        "translation": "දුම්රිය පිටත් වෙන්නේ කුමන වේදිකාවෙන්ද?"
+        "meaning": "බස් රථය",
+        "example": "When does the bus leave?",
+        "exampleReading": "වෙන් ඩස් දි බස් ලීව්?",
+        "translation": "බස් රථය පිටත් වෙන්නේ කීයටද?""
       },
       {
-        "word": "departure",
+        "word": "train",
         "reading": "ඩිපාර්චර්",
-        "meaning": "පිටත්වීම",
-        "example": "It leaves from platform three.",
-        "exampleReading": "ඉට් ලීව්ස් ෆ්‍රම් ප්ලැට්ෆෝම් ත්‍රී.",
-        "translation": "එය තුන්වන වේදිකාවෙන් පිටත් වෙනවා."
+        "meaning": "දුම්රිය",
+        "example": "The train leaves at nine.",
+        "exampleReading": "දි ට්‍රේන් ලීව්ස් ඇට් නයින්.",
+        "translation": "දුම්රිය නවයට පිටත් වෙනවා.""
       },
       {
-        "word": "arrival",
+        "word": "station",
         "reading": "අරයිවල්",
-        "meaning": "පැමිණීම",
-        "example": "The train arrives at eleven.",
-        "exampleReading": "දි ට්‍රේන් අරයිව්ස් ඇට් ඉලෙවන්.",
-        "translation": "දුම්රිය එකොළහට පැමිණෙනවා."
+        "meaning": "නැවතුම්පොළ",
+        "example": "Where is the bus station?",
+        "exampleReading": "වෙයාර් ඉස් දි බස් ස්ටේෂන්?",
+        "translation": "බස් නැවතුම්පොළ කොහෙද?""
       },
       {
         "word": "ticket",
@@ -3499,12 +3499,12 @@ export const ENGLISH_A2_LESSONS = [
         "translation": "මට ටිකට්පතක් මිලදී ගන්න පුළුවන් කොහෙන්ද?"
       },
       {
-        "word": "journey",
+        "word": "transfer",
         "reading": "ජර්නි",
-        "meaning": "ගමන",
-        "example": "How long does the journey take?",
-        "exampleReading": "හවු ලෝං ඩස් දි ජර්නි ටේක්?",
-        "translation": "ගමනට කොච්චර වෙලාවක් ගත වෙනවාද?"
+        "meaning": "වාහන මාරු කිරීම",
+        "example": "Do I need to change trains?",
+        "exampleReading": "ඩූ අයි නීඩ් ටු චේන්ජ් ට්‍රේන්ස්?",
+        "translation": "මට වාහනය මාරු කරන්න ඕනෙද?""
       },
       {
         "word": "delay",
@@ -3515,20 +3515,20 @@ export const ENGLISH_A2_LESSONS = [
         "translation": "දුම්රිය විනාඩි දහයකින් ප්‍රමාදයි."
       },
       {
-        "word": "change",
+        "word": "departure",
         "reading": "චේන්ජ්",
-        "meaning": "මාරු කිරීම",
-        "example": "I need to change trains.",
-        "exampleReading": "අයි නීඩ් ටු චේන්ජ් ට්‍රේන්ස්.",
-        "translation": "මට දුම්රිය මාරු කරන්න ඕනේ."
+        "meaning": "පිටත්වීම",
+        "example": "The departure time is nine.",
+        "exampleReading": "දි ඩිපාර්චර් ටයිම් ඉස් නයින්.",
+        "translation": "පිටත්වීමේ වේලාව නවයයි.""
       },
       {
-        "word": "route",
+        "word": "arrival",
         "reading": "රූට්",
-        "meaning": "ගමන් මාර්ගය",
-        "example": "This is the fastest route.",
-        "exampleReading": "දිස් ඉස් දි ෆාස්ටස්ට් රූට්.",
-        "translation": "මේක වේගවත්ම ගමන් මාර්ගයයි."
+        "meaning": "පැමිණීම",
+        "example": "The train arrives at eleven.",
+        "exampleReading": "දි ට්‍රේන් අරයිව්ස් ඇට් ඉලෙවන්.",
+        "translation": "දුම්රිය එකොළහට පැමිණෙනවා."
       }
     ],
     "grammarTitle": "Grammar",
