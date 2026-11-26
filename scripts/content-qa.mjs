@@ -860,6 +860,7 @@ function validateAlignedSerbianAssessment(label, questions, lessons) {
     assert.ok(item, `${label}: headword is missing from the Serbian course: ${question.word} (${question.id})`);
     assert.equal(question.wordReading, item.reading, `${label}: pronunciation does not match ${question.word} (${question.id})`);
     const acceptedMeanings = [
+      item.meaning,
       ...String(item.meaning).split(/[\/;,]/u).map(value => value.trim()).filter(Boolean),
       ...(approvedMeaningAliases.get(key) || []),
     ];
