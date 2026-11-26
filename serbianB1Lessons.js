@@ -2361,7 +2361,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "warranty",
-        "reading": "ගаранත්සියා",
+        "reading": "",
         "meaning": "වගකීම් සහතිකය",
         "example": "Ovaj telefon je još uvek pod garancijom.",
         "translation": "මේ දුරකථනය තවමත් වගකීම් කාලය තුළයි.",
@@ -2499,7 +2499,7 @@ export const SERBIAN_B1_LESSONS = [
     "vocabulary": [
       {
         "word": "step",
-        "reading": "korak",
+        "reading": "",
         "meaning": "පියවර",
         "example": "Prvi korak je da pažljivo pročitate uputstvo.",
         "translation": "පළමු පියවර වන්නේ උපදෙස් හොඳින් කියවීමයි.",
@@ -2507,7 +2507,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "instruction",
-        "reading": "uputstvo",
+        "reading": "",
         "meaning": "උපදෙස්",
         "example": "Svako uputstvo treba pročitati pre upotrebe uređaja.",
         "translation": "උපාංගය භාවිත කිරීමට පෙර සෑම උපදෙසක්ම කියවිය යුතුයි.",
@@ -2515,7 +2515,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "equipment",
-        "reading": "oprema",
+        "reading": "",
         "meaning": "උපකරණ",
         "example": "Za ovaj posao potrebna nam je zaštitna oprema.",
         "translation": "මේ වැඩයට අපට ආරක්ෂක උපකරණ අවශ්‍යයි.",
@@ -2523,7 +2523,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "switch on",
-        "reading": "uključiti",
+        "reading": "",
         "meaning": "ක්‍රියාත්මක කරන්න",
         "example": "Pritisnite zeleno dugme da uključite aparat.",
         "translation": "උපාංගය ක්‍රියාත්මක කිරීමට කොළ බොත්තම ඔබන්න.",
@@ -2531,7 +2531,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "submit",
-        "reading": "predati",
+        "reading": "",
         "meaning": "භාර දෙන්න / ඉදිරිපත් කරන්න",
         "example": "Popunjen obrazac morate predati do petka.",
         "translation": "පිරවූ පෝරමය සිකුරාදාට පෙර භාරදිය යුතුයි.",
@@ -2539,7 +2539,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "check",
-        "reading": "proveriti",
+        "reading": "",
         "meaning": "පරීක්ෂා කරන්න",
         "example": "Pre nego što krenete, proverite sve kablove.",
         "translation": "පිටත්වීමට පෙර සියලු කේබල් පරීක්ෂා කරන්න.",
@@ -2547,7 +2547,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "carefully",
-        "reading": "pažljivo",
+        "reading": "",
         "meaning": "ප්‍රවේශමෙන්",
         "example": "Pažljivo rukujte staklenim delovima.",
         "translation": "වීදුරු කොටස් ප්‍රවේශමෙන් හසුරුවන්න.",
@@ -2555,7 +2555,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "before",
-        "reading": "pre",
+        "reading": "",
         "meaning": "පෙර",
         "example": "Operite ruke pre nego što počnete pripremu.",
         "translation": "සූදානම ආරම්භ කිරීමට පෙර අත් සෝදන්න.",
@@ -2677,7 +2677,7 @@ export const SERBIAN_B1_LESSONS = [
     "vocabulary": [
       {
         "word": "citizen",
-        "reading": "građanin",
+        "reading": "",
         "meaning": "පුරවැසියා",
         "example": "Svaki građanin može da učestvuje na lokalnim izborima.",
         "translation": "සෑම පුරවැසියෙකුටම ප්‍රාදේශීය මැතිවරණවලට සහභාගී විය හැකියි.",
@@ -2685,7 +2685,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "volunteer",
-        "reading": "volonter",
+        "reading": "",
         "meaning": "ස්වේච්ඡා සේවකයා",
         "example": "Volonteri svake subote pomažu u narodnoj kuhinji.",
         "translation": "ස්වේච්ඡා සේවකයෝ සෑම සෙනසුරාදාවකම ප්‍රජා මුළුතැන්ගෙයි උදව් කරනවා.",
@@ -2693,7 +2693,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "neighbourhood",
-        "reading": "naselje",
+        "reading": "",
         "meaning": "අසල්වැසි ප්‍රදේශය",
         "example": "U našem naselju otvoren je novi park.",
         "translation": "අපේ අසල්වැසි ප්‍රදේශයේ නව උද්‍යානයක් විවෘත කර තිබෙනවා.",
@@ -2701,7 +2701,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "meeting",
-        "reading": "sastanak",
+        "reading": "",
         "meaning": "රැස්වීම",
         "example": "Sastanak stanara počinje u šest sati.",
         "translation": "නිවැසියන්ගේ රැස්වීම හයට පටන් ගන්නවා.",
@@ -2709,7 +2709,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "proposal",
-        "reading": "predlog",
+        "reading": "",
         "meaning": "යෝජනාව",
         "example": "Moj predlog je da postavimo više kanti za otpad.",
         "translation": "මගේ යෝජනාව වන්නේ තවත් කසළ බඳුන් තැබීමයි.",
@@ -2717,7 +2717,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "support",
-        "reading": "podrška",
+        "reading": "",
         "meaning": "සහාය",
         "example": "Ovaj projekat ima podršku mnogih stanovnika.",
         "translation": "මෙම ව්‍යාපෘතියට බොහෝ නිවැසියන්ගේ සහාය තිබෙනවා.",
@@ -2725,7 +2725,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "public",
-        "reading": "javni",
+        "reading": "",
         "meaning": "මහජන / පොදු",
         "example": "Javni prevoz povezuje udaljene delove grada.",
         "translation": "පොදු ප්‍රවාහනය නගරයේ දුරස්ථ ප්‍රදේශ සම්බන්ධ කරනවා.",
@@ -2733,7 +2733,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "issue",
-        "reading": "pitanje",
+        "reading": "",
         "meaning": "ගැටලුව / ප්‍රශ්නය",
         "example": "Zagađenje vazduha je ozbiljno pitanje u velikim gradovima.",
         "translation": "වායු දූෂණය විශාල නගරවල බරපතළ ගැටලුවක්.",
@@ -2855,7 +2855,7 @@ export const SERBIAN_B1_LESSONS = [
     "vocabulary": [
       {
         "word": "schedule",
-        "reading": "raspored",
+        "reading": "",
         "meaning": "කාලසටහන",
         "example": "Moj raspored za sledeću nedelju već je napravljen.",
         "translation": "ඊළඟ සතිය සඳහා මගේ කාලසටහන දැනටමත් සකස් කරලා.",
@@ -2863,7 +2863,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "deadline",
-        "reading": "rok",
+        "reading": "",
         "meaning": "අවසන් දිනය / කාලසීමාව",
         "example": "Rok za završetak izveštaja je petak.",
         "translation": "වාර්තාව අවසන් කළ යුතු අවසන් දිනය සිකුරාදායි.",
@@ -2871,7 +2871,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "priority",
-        "reading": "prioritet",
+        "reading": "",
         "meaning": "ප්‍රමුඛතාව",
         "example": "Bezbednost zaposlenih mora biti naš prvi prioritet.",
         "translation": "සේවකයන්ගේ ආරක්ෂාව අපේ පළමු ප්‍රමුඛතාව විය යුතුයි.",
@@ -2879,7 +2879,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "break",
-        "reading": "pauza",
+        "reading": "",
         "meaning": "විවේකය",
         "example": "Posle tri sata rada napravili smo kratku pauzu.",
         "translation": "පැය තුනක් වැඩ කළ පසු අපි කෙටි විවේකයක් ගත්තා.",
@@ -2887,7 +2887,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "overtime",
-        "reading": "prekovremeni rad",
+        "reading": "",
         "meaning": "අතිකාල වැඩ",
         "example": "Ove nedelje imam dva dana prekovremenog rada.",
         "translation": "මේ සතියේ මට දින දෙකක් අතිකාල වැඩ තිබෙනවා.",
@@ -2895,7 +2895,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "rest",
-        "reading": "odmor",
+        "reading": "",
         "meaning": "විවේකය",
         "example": "Dobar odmor pomaže nam da se bolje koncentrišemo.",
         "translation": "හොඳ විවේකයක් ගත්තොත් අපට වඩා හොඳින් අවධානය යොමු කළ හැකියි.",
@@ -2903,7 +2903,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "manage",
-        "reading": "upravljati",
+        "reading": "",
         "meaning": "කළමනාකරණය කරන්න",
         "example": "Naučila je da upravlja vremenom i obavezama.",
         "translation": "ඇය කාලය සහ වගකීම් කළමනාකරණය කරන්න ඉගෙනගෙන තිබෙනවා.",
@@ -2911,7 +2911,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "free time",
-        "reading": "slobodno vreme",
+        "reading": "",
         "meaning": "නිදහස් කාලය",
         "example": "Vikendom volim da provodim slobodno vreme sa porodicom.",
         "translation": "සති අන්තයේ පවුලේ අය සමඟ නිදහස් කාලය ගත කරන්න මම කැමතියි.",
@@ -3033,7 +3033,7 @@ export const SERBIAN_B1_LESSONS = [
     "vocabulary": [
       {
         "word": "recycling",
-        "reading": "reciklaža",
+        "reading": "",
         "meaning": "ප්‍රතිචක්‍රීකරණය",
         "example": "Reciklaža papira smanjuje količinu otpada.",
         "translation": "කඩදාසි ප්‍රතිචක්‍රීකරණය කිරීමෙන් අපද්‍රව්‍ය ප්‍රමාණය අඩු වෙනවා.",
@@ -3041,7 +3041,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "waste",
-        "reading": "otpad",
+        "reading": "",
         "meaning": "අපද්‍රව්‍ය",
         "example": "Odvajamo otpad u posebne kontejnere.",
         "translation": "අපි අපද්‍රව්‍ය වෙන වෙනම බඳුන්වලට වෙන් කරනවා.",
@@ -3049,7 +3049,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "resource",
-        "reading": "resurs",
+        "reading": "",
         "meaning": "සම්පත",
         "example": "Čista voda je važan prirodni resurs.",
         "translation": "පිරිසිදු ජලය වැදගත් ස්වභාවික සම්පතක්.",
@@ -3057,7 +3057,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "energy",
-        "reading": "energija",
+        "reading": "",
         "meaning": "ශක්තිය",
         "example": "Solarni paneli proizvode energiju iz sunčeve svetlosti.",
         "translation": "සූර්ය පැනල හිරු එළියෙන් ශක්තිය නිපදවනවා.",
@@ -3065,7 +3065,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "pollution",
-        "reading": "zagađenje",
+        "reading": "",
         "meaning": "දූෂණය",
         "example": "Zagađenje vazduha može da utiče na zdravlje.",
         "translation": "වායු දූෂණය සෞඛ්‍යයට බලපාන්න පුළුවන්.",
@@ -3073,7 +3073,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "reusable",
-        "reading": "za višekratnu upotrebu",
+        "reading": "",
         "meaning": "නැවත භාවිත කළ හැකි",
         "example": "Koristim bocu za višekratnu upotrebu umesto plastičnih flaša.",
         "translation": "ප්ලාස්ටික් බෝතල් වෙනුවට මම නැවත භාවිත කළ හැකි බෝතලයක් භාවිත කරනවා.",
@@ -3081,7 +3081,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "public transport",
-        "reading": "javni prevoz",
+        "reading": "",
         "meaning": "පොදු ප්‍රවාහනය",
         "example": "Javni prevoz smanjuje broj automobila na ulicama.",
         "translation": "පොදු ප්‍රවාහනය මාර්ගවල මෝටර් රථ සංඛ්‍යාව අඩු කරනවා.",
@@ -3089,7 +3089,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "protect",
-        "reading": "zaštititi",
+        "reading": "",
         "meaning": "ආරක්ෂා කරන්න",
         "example": "Moramo zaštititi šume za buduće generacije.",
         "translation": "අනාගත පරම්පරාවන් වෙනුවෙන් අපි වනාන්තර ආරක්ෂා කළ යුතුයි.",
@@ -3211,7 +3211,7 @@ export const SERBIAN_B1_LESSONS = [
     "vocabulary": [
       {
         "word": "cause",
-        "reading": "uzrok",
+        "reading": "",
         "meaning": "හේතුව",
         "example": "Nedostatak sna može biti uzrok umora.",
         "translation": "නින්ද නොමැතිවීම වෙහෙසට හේතුවක් විය හැකියි.",
@@ -3219,7 +3219,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "effect",
-        "reading": "efekat",
+        "reading": "",
         "meaning": "බලපෑම / ප්‍රතිඵලය",
         "example": "Efekat nove mere bio je vidljiv već posle mesec dana.",
         "translation": "නව ක්‍රියාමාර්ගයේ බලපෑම මාසයකට පසුවම පෙනුණා.",
@@ -3227,7 +3227,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "consequence",
-        "reading": "posledica",
+        "reading": "",
         "meaning": "ප්‍රතිවිපාකය",
         "example": "Jedna posledica kašnjenja bila je propuštena veza.",
         "translation": "ප්‍රමාදයේ එක් ප්‍රතිවිපාකයක් වූයේ සම්බන්ධිත ගමන මඟහැරීමයි.",
@@ -3235,7 +3235,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "therefore",
-        "reading": "zato",
+        "reading": "",
         "meaning": "ඒ නිසා",
         "example": "Autobus kasni, zato ćemo uzeti taksi.",
         "translation": "බස් රථය ප්‍රමාදයි, ඒ නිසා අපි ටැක්සියක් ගන්නවා.",
@@ -3243,7 +3243,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "because of",
-        "reading": "zbog",
+        "reading": "",
         "meaning": "නිසා",
         "example": "Zbog snega, put je bio zatvoren.",
         "translation": "හිම නිසා මාර්ගය වසා තිබුණා.",
@@ -3251,7 +3251,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "result",
-        "reading": "rezultat",
+        "reading": "",
         "meaning": "ප්‍රතිඵලය",
         "example": "Rezultat ankete pokazao je veću podršku projektu.",
         "translation": "සමීක්ෂණයේ ප්‍රතිඵලයෙන් ව්‍යාපෘතියට වැඩි සහායක් ඇති බව පෙන්වුණා.",
@@ -3259,7 +3259,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "increase",
-        "reading": "povećati",
+        "reading": "",
         "meaning": "වැඩි කරන්න",
         "example": "Grad planira da poveća broj autobuskih linija.",
         "translation": "නගරය බස් මාර්ග ගණන වැඩි කිරීමට සැලසුම් කරනවා.",
@@ -3267,7 +3267,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "reduce",
-        "reading": "smanjiti",
+        "reading": "",
         "meaning": "අඩු කරන්න",
         "example": "Nova pravila treba da smanje potrošnju energije.",
         "translation": "නව නීති මඟින් බලශක්ති පරිභෝජනය අඩු කළ යුතුයි.",
@@ -3389,7 +3389,7 @@ export const SERBIAN_B1_LESSONS = [
     "vocabulary": [
       {
         "word": "advantage",
-        "reading": "prednost",
+        "reading": "",
         "meaning": "වාසිය",
         "example": "Glavna prednost ovog plana je niža cena.",
         "translation": "මේ සැලැස්මේ ප්‍රධාන වාසිය අඩු මිලයි.",
@@ -3397,7 +3397,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "disadvantage",
-        "reading": "nedostatak",
+        "reading": "",
         "meaning": "අවාසිය",
         "example": "Najveći nedostatak je to što putovanje traje duže.",
         "translation": "ලොකුම අවාසිය ගමනට වැඩි කාලයක් ගත වීමයි.",
@@ -3405,7 +3405,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "evidence",
-        "reading": "dokaz",
+        "reading": "",
         "meaning": "සාක්ෂිය",
         "example": "Za ovu tvrdnju potreban nam je pouzdan dokaz.",
         "translation": "මේ ප්‍රකාශයට අපට විශ්වාසදායක සාක්ෂියක් අවශ්‍යයි.",
@@ -3413,7 +3413,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "opinion",
-        "reading": "mišljenje",
+        "reading": "",
         "meaning": "අදහස",
         "example": "Po mom mišljenju, javni prevoz treba poboljšati.",
         "translation": "මගේ අදහස අනුව පොදු ප්‍රවාහනය වැඩිදියුණු කළ යුතුයි.",
@@ -3421,7 +3421,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "argument",
-        "reading": "argument",
+        "reading": "",
         "meaning": "තර්කය",
         "example": "Njegov argument je bio jasan i dobro potkrepljen.",
         "translation": "ඔහුගේ තර්කය පැහැදිලි වූ අතර හොඳින් සාක්ෂි සහිතයි.",
@@ -3429,7 +3429,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "on the one hand",
-        "reading": "s jedne strane",
+        "reading": "",
         "meaning": "එක් පැත්තකින්",
         "example": "S jedne strane, posao je dobro plaćen.",
         "translation": "එක් පැත්තකින් රැකියාවට හොඳ වැටුපක් ලැබෙනවා.",
@@ -3437,7 +3437,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "on the other hand",
-        "reading": "s druge strane",
+        "reading": "",
         "meaning": "අනෙක් පැත්තෙන්",
         "example": "S druge strane, radno vreme je veoma dugo.",
         "translation": "අනෙක් පැත්තෙන් වැඩ කරන කාලය ඉතා දිගුයි.",
@@ -3445,7 +3445,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "conclusion",
-        "reading": "zaključak",
+        "reading": "",
         "meaning": "නිගමනය",
         "example": "Na kraju izveštaja napisali smo kratak zaključak.",
         "translation": "වාර්තාව අවසානයේ අපි කෙටි නිගමනයක් ලිව්වා.",
@@ -3623,7 +3623,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "unaprediti",
-        "reading": "උනප්‍රෙදити",
+        "reading": "",
         "meaning": "දියුණු කරනවා",
         "example": "Redovno vežbanje može da unapredi tvoje znanje jezika.",
         "translation": "නිතිපතා පුහුණුවෙන් ඔබේ භාෂා දැනුම දියුණු කළ හැකියි.",
@@ -3785,7 +3785,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "ažurirati",
-        "reading": "අෂුරිරати",
+        "reading": "",
         "meaning": "යාවත්කාලීන කරනවා",
         "example": "Ne zaboravi da ažuriraš aplikaciju zbog novih funkcija.",
         "translation": "අලුත් විශේෂාංග සඳහා යෙදුම යාවත්කාලීන කරන්න අමතක කරන්න එපා.",
@@ -3991,14 +3991,14 @@ export const SERBIAN_B1_LESSONS = [
     "grammarTerms": [
       {
         "sr": "Ukoliko redovno štedim, mogu da planiram veće troškove.",
-        "reading": "උකොලිකො රෙද්වොව්නො ෂ්තෙදිම් මොගු ද ප්ලානිрам වෙචෙ ත්‍රොෂ්කොවෙ.",
+        "reading": "",
         "si": "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්."
       }
     ],
     "examples": [
       {
         "sr": "Ukoliko redovno štedim, mogu da planiram veće troškove.",
-        "reading": "උකොලිකො රෙද්වොව්නො ෂ්තෙදිම් මොගු ද ප්ලානිрам වෙචෙ ත්‍රොෂ්කොවෙ.",
+        "reading": "",
         "si": "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්."
       },
       {
@@ -4042,7 +4042,7 @@ export const SERBIAN_B1_LESSONS = [
     "listeningPractice": {
       "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Ukoliko redovno štedim, mogu da planiram veće troškove.",
       "audio": "Ukoliko redovno štedim, mogu da planiram veće troškove.",
-      "reading": "උකොලිකො රෙද්වොව්නො ෂ්තෙදිම් මොගු ද ප්ලානිрам වෙචෙ ත්‍රොෂ්කොවෙ.",
+      "reading": "",
       "options": [
         "නිතිපතා ඉතිරි කළොත් විශාල වියදම් සැලසුම් කරන්න පුළුවන්.",
         "මෙහි අදහස වෙනස්ය.",
@@ -5185,7 +5185,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "preseliti se",
-        "reading": "ප්‍රෙසෙලිතи සෙ",
+        "reading": "",
         "meaning": "පදිංචිය මාරු කරනවා",
         "example": "Planiramo da se preselimo bliže centru grada sledećeg proleća.",
         "translation": "ලබන වසන්තයේදී නගර මධ්‍යයට ළඟින් පදිංචිය මාරු කිරීමට අපි සැලසුම් කරනවා.",
@@ -5422,22 +5422,22 @@ export const SERBIAN_B1_LESSONS = [
     "examples": [
       {
         "sr": "A: Naučna otkrića menjaju način na koji razumemo svet.",
-        "reading": "а: научна открича мэньайу начин на койи разумэмо свэт.",
+        "reading": "",
         "si": "Scientific discoveries change how we understand the world."
       },
       {
         "sr": "B: To je važno otkriće, ali rezultate treba potvrditi dodatnim istraživanjem.",
-        "reading": "б: то йэ важно откричэ, али рэзултатэ трэба потврдити додатним истраживаньэм.",
+        "reading": "",
         "si": "එය වැදගත් සොයාගැනීමක්. නමුත් තවත් පර්යේෂණ මඟින් ප්‍රතිඵල තහවුරු කළ යුතුයි."
       },
       {
         "sr": "A: Istraživači već planiraju nove eksperimente.",
-        "reading": "а: истраживачи вэч планирайу новэ экспэримэнтэ.",
+        "reading": "",
         "si": "විද්‍යාඥයන් තවත් පරීක්ෂණ සැලසුම් කරනවා."
       },
       {
         "sr": "B: Onda ćemo bolje razumeti kako materijal funkcioniše.",
-        "reading": "б: онда чэмо больэ разумэти како матэрийал функционишэ.",
+        "reading": "",
         "si": "එවිට ද්‍රව්‍යය ක්‍රියා කරන ආකාරය වඩා හොඳින් තේරුම් ගන්න පුළුවන්."
       }
     ],
@@ -5449,17 +5449,17 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "sr": "B: To je važno otkriće, ali rezultate treba potvrditi dodatnim istraživanjem.",
-        "reading": "B: To je važno otkriće, ali rezultate treba potvrditi dodatnim istraživanjem.",
+        "reading": "",
         "si": "එය වැදගත් සොයාගැනීමක්. නමුත් තවත් පර්යේෂණ මඟින් ප්‍රතිඵල තහවුරු කළ යුතුයි."
       },
       {
         "sr": "A: Istraživači već planiraju nove eksperimente.",
-        "reading": "A: Istraživači već planiraju nove eksperimente.",
+        "reading": "",
         "si": "විද්‍යාඥයන් තවත් පරීක්ෂණ සැලසුම් කරනවා."
       },
       {
         "sr": "B: Onda ćemo bolje razumeti kako materijal funkcioniše.",
-        "reading": "B: Onda ćemo bolje razumeti kako materijal funkcioniše.",
+        "reading": "",
         "si": "එවිට ද්‍රව්‍යය ක්‍රියා කරන ආකාරය වඩා හොඳින් තේරුම් ගන්න පුළුවන්."
       }
     ],
@@ -5600,22 +5600,22 @@ export const SERBIAN_B1_LESSONS = [
     "examples": [
       {
         "sr": "A: Svako ima prava i odgovornosti prema drugima.",
-        "reading": "а: свако има права и одговорности прэма другима.",
+        "reading": "",
         "si": "Everyone has rights and responsibilities towards others."
       },
       {
         "sr": "B: Zato svi treba da pročitamo pravila pre nego što ih prihvatimo.",
-        "reading": "б: зато сви трэба да прочитамо правила прэ нэго што их прихватимо.",
+        "reading": "",
         "si": "ඒ නිසා ඒවා පිළිගැනීමට පෙර හැමෝම නීති කියවිය යුතුයි."
       },
       {
         "sr": "A: Gde možemo da pronađemo zvaničnu verziju?",
-        "reading": "а: гдэ можэмо да пронаджэмо званичну вэрзийу?",
+        "reading": "",
         "si": "නිල පිටපත අපට කොහෙන් සොයාගන්න පුළුවන්ද?"
       },
       {
         "sr": "B: Na sajtu institucije i u službenom dokumentu.",
-        "reading": "б: на сайту институцийэ и у службэном докумэнту.",
+        "reading": "",
         "si": "ආයතනයේ වෙබ් අඩවියේ සහ නිල ලේඛනයේ."
       }
     ],
@@ -5627,17 +5627,17 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "sr": "B: Zato svi treba da pročitamo pravila pre nego što ih prihvatimo.",
-        "reading": "B: Zato svi treba da pročitamo pravila pre nego što ih prihvatimo.",
+        "reading": "",
         "si": "ඒ නිසා ඒවා පිළිගැනීමට පෙර හැමෝම නීති කියවිය යුතුයි."
       },
       {
         "sr": "A: Gde možemo da pronađemo zvaničnu verziju?",
-        "reading": "A: Gde možemo da pronađemo zvaničnu verziju?",
+        "reading": "",
         "si": "නිල පිටපත අපට කොහෙන් සොයාගන්න පුළුවන්ද?"
       },
       {
         "sr": "B: Na sajtu institucije i u službenom dokumentu.",
-        "reading": "B: Na sajtu institucije i u službenom dokumentu.",
+        "reading": "",
         "si": "ආයතනයේ වෙබ් අඩවියේ සහ නිල ලේඛනයේ."
       }
     ],
@@ -5778,22 +5778,22 @@ export const SERBIAN_B1_LESSONS = [
     "examples": [
       {
         "sr": "A: Umetnost nam omogućava da izrazimo osećanja na različite načine.",
-        "reading": "а: умэтност нам омогучава да изразимо осэчаньа на различитэ начинэ.",
+        "reading": "",
         "si": "Art allows us to express feelings in different ways."
       },
       {
         "sr": "B: Posebno mi se dopada što posetioci mogu da učestvuju u instalaciji.",
-        "reading": "б: посэбно ми сэ допада што посэтиоци могу да учэствуйу у инсталацийи.",
+        "reading": "",
         "si": "නරඹන්නන්ට කලා නිර්මාණයට සහභාගී විය හැකි එකට මම විශේෂයෙන් කැමතියි."
       },
       {
         "sr": "A: Tako umetnost postaje interaktivno iskustvo.",
-        "reading": "а: тако умэтност постайэ интэрактивно искуство.",
+        "reading": "",
         "si": "ඒ නිසා කලාව අන්තර්ක්‍රියාකාරී අත්දැකීමක් වෙනවා."
       },
       {
         "sr": "B: Da, svako može da je doživi na drugačiji način.",
-        "reading": "б: да, свако можэ да йэ доживи на другачийи начин.",
+        "reading": "",
         "si": "හැමෝටම එය වෙනස් ආකාරයකින් අත්විඳිය හැකියි."
       }
     ],
@@ -5805,17 +5805,17 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "sr": "B: Posebno mi se dopada što posetioci mogu da učestvuju u instalaciji.",
-        "reading": "B: Posebno mi se dopada što posetioci mogu da učestvuju u instalaciji.",
+        "reading": "",
         "si": "නරඹන්නන්ට කලා නිර්මාණයට සහභාගී විය හැකි එකට මම විශේෂයෙන් කැමතියි."
       },
       {
         "sr": "A: Tako umetnost postaje interaktivno iskustvo.",
-        "reading": "A: Tako umetnost postaje interaktivno iskustvo.",
+        "reading": "",
         "si": "ඒ නිසා කලාව අන්තර්ක්‍රියාකාරී අත්දැකීමක් වෙනවා."
       },
       {
         "sr": "B: Da, svako može da je doživi na drugačiji način.",
-        "reading": "B: Da, svako može da je doživi na drugačiji način.",
+        "reading": "",
         "si": "හැමෝටම එය වෙනස් ආකාරයකින් අත්විඳිය හැකියි."
       }
     ],
@@ -5905,7 +5905,7 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "word": "nezaposlenost",
-        "reading": "නෙසапොස්ලෙනොස්ත්",
+        "reading": "",
         "meaning": "විරැකියාව",
         "example": "B: Naravno, ali iskustvo uz nove veštine daje prednost.",
         "translation": "ඇත්තෙන්ම. නමුත් අත්දැකීම් සහ නව කුසලතා එකතු වීම වාසියක්.",
@@ -5956,22 +5956,22 @@ export const SERBIAN_B1_LESSONS = [
     "examples": [
       {
         "sr": "A: Tržište rada se menja zbog novih veština i tehnologije.",
-        "reading": "а: тржиштэ рада сэ мэньа због нових вэштина и тэхнологийэ.",
+        "reading": "",
         "si": "The job market is changing because of new skills and technology."
       },
       {
         "sr": "B: Zato je korisno da redovno učimo i pratimo nove tehnologije.",
-        "reading": "б: зато йэ корисно да рэдовно учимо и пратимо новэ тэхнологийэ.",
+        "reading": "",
         "si": "ඒ නිසා අලුත් තාක්ෂණය ඉගෙනගෙන ඒ ගැන දැනුවත්ව සිටීම ප්‍රයෝජනවත්."
       },
       {
         "sr": "A: Da li iskustvo i dalje ima veliku vrednost?",
-        "reading": "а: да ли искуство и дальэ има вэлику врэдност?",
+        "reading": "",
         "si": "අත්දැකීම්වලට තවමත් විශාල වටිනාකමක් තිබෙනවාද?"
       },
       {
         "sr": "B: Naravno, ali iskustvo uz nove veštine daje prednost.",
-        "reading": "б: наравно, али искуство уз новэ вэштинэ дайэ прэдност.",
+        "reading": "",
         "si": "ඇත්තෙන්ම. නමුත් අත්දැකීම් සහ නව කුසලතා එකතු වීම වාසියක්."
       }
     ],
@@ -5983,17 +5983,17 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "sr": "B: Zato je korisno da redovno učimo i pratimo nove tehnologije.",
-        "reading": "B: Zato je korisno da redovno učimo i pratimo nove tehnologije.",
+        "reading": "",
         "si": "ඒ නිසා අලුත් තාක්ෂණය ඉගෙනගෙන ඒ ගැන දැනුවත්ව සිටීම ප්‍රයෝජනවත්."
       },
       {
         "sr": "A: Da li iskustvo i dalje ima veliku vrednost?",
-        "reading": "A: Da li iskustvo i dalje ima veliku vrednost?",
+        "reading": "",
         "si": "අත්දැකීම්වලට තවමත් විශාල වටිනාකමක් තිබෙනවාද?"
       },
       {
         "sr": "B: Naravno, ali iskustvo uz nove veštine daje prednost.",
-        "reading": "B: Naravno, ali iskustvo uz nove veštine daje prednost.",
+        "reading": "",
         "si": "ඇත්තෙන්ම. නමුත් අත්දැකීම් සහ නව කුසලතා එකතු වීම වාසියක්."
       }
     ],
@@ -6134,22 +6134,22 @@ export const SERBIAN_B1_LESSONS = [
     "examples": [
       {
         "sr": "A: Pre potpisivanja ugovora treba pažljivo proveriti uslove.",
-        "reading": "а: прэ потписиваньа уговора трэба пажльиво провэрити условэ.",
+        "reading": "",
         "si": "Before signing a contract, we should check the conditions carefully."
       },
       {
         "sr": "B: Pre potpisivanja treba proveriti i uslove raskida ugovora.",
-        "reading": "б: прэ потписиваньа трэба провэрити и условэ раскида уговора.",
+        "reading": "",
         "si": "අත්සන් කිරීමට පෙර ගිවිසුම අවසන් කිරීමේ කොන්දේසිත් පරීක්ෂා කළ යුතුයි."
       },
       {
         "sr": "A: Da li je važno da sve bude napisano?",
-        "reading": "а: да ли йэ важно да свэ будэ написано?",
+        "reading": "",
         "si": "සියල්ල ලිඛිතව තිබීම වැදගත්ද?"
       },
       {
         "sr": "B: Da, pisani dogovor štiti i stanara i vlasnika.",
-        "reading": "б: да, писани договор штити и станара и власника.",
+        "reading": "",
         "si": "ඔව්, ලිඛිත ගිවිසුම කුලී නිවැසියාත් හිමිකරුත් ආරක්ෂා කරනවා."
       }
     ],
@@ -6161,17 +6161,17 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "sr": "B: Pre potpisivanja treba proveriti i uslove raskida ugovora.",
-        "reading": "B: Pre potpisivanja treba proveriti i uslove raskida ugovora.",
+        "reading": "",
         "si": "අත්සන් කිරීමට පෙර ගිවිසුම අවසන් කිරීමේ කොන්දේසිත් පරීක්ෂා කළ යුතුයි."
       },
       {
         "sr": "A: Da li je važno da sve bude napisano?",
-        "reading": "A: Da li je važno da sve bude napisano?",
+        "reading": "",
         "si": "සියල්ල ලිඛිතව තිබීම වැදගත්ද?"
       },
       {
         "sr": "B: Da, pisani dogovor štiti i stanara i vlasnika.",
-        "reading": "B: Da, pisani dogovor štiti i stanara i vlasnika.",
+        "reading": "",
         "si": "ඔව්, ලිඛිත ගිවිසුම කුලී නිවැසියාත් හිමිකරුත් ආරක්ෂා කරනවා."
       }
     ],
@@ -6312,22 +6312,22 @@ export const SERBIAN_B1_LESSONS = [
     "examples": [
       {
         "sr": "A: Pouzdan javni prevoz može da smanji gužvu u gradu.",
-        "reading": "а: поуздан йавни прэвоз можэ да сманьи гужву у граду.",
+        "reading": "",
         "si": "Reliable public transport can reduce congestion in a city."
       },
       {
         "sr": "B: To će pomoći samo ako polasci budu česti i pouzdani.",
-        "reading": "б: то чэ помочи само ако поласци буду чэсти и поуздани.",
+        "reading": "",
         "si": "ගමන් වාර නිතර සහ විශ්වාසදායක නම් පමණයි එය උපකාරී වෙන්නේ."
       },
       {
         "sr": "A: Grad planira da poboljša i autobuske linije.",
-        "reading": "а: град планира да побольша и аутобускэ линийэ.",
+        "reading": "",
         "si": "නගරය බස් මාර්ගත් වැඩිදියුණු කිරීමට සැලසුම් කරනවා."
       },
       {
         "sr": "B: Dobro povezane linije olakšavaju svakodnevno putovanje.",
-        "reading": "б: добро повэзанэ линийэ олакшавайу свакоднэвно путованьэ.",
+        "reading": "",
         "si": "හොඳින් සම්බන්ධ කළ මාර්ග දිනපතා ගමන් පහසු කරනවා."
       }
     ],
@@ -6339,17 +6339,17 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "sr": "B: To će pomoći samo ako polasci budu česti i pouzdani.",
-        "reading": "B: To će pomoći samo ako polasci budu česti i pouzdani.",
+        "reading": "",
         "si": "ගමන් වාර නිතර සහ විශ්වාසදායක නම් පමණයි එය උපකාරී වෙන්නේ."
       },
       {
         "sr": "A: Grad planira da poboljša i autobuske linije.",
-        "reading": "A: Grad planira da poboljša i autobuske linije.",
+        "reading": "",
         "si": "නගරය බස් මාර්ගත් වැඩිදියුණු කිරීමට සැලසුම් කරනවා."
       },
       {
         "sr": "B: Dobro povezane linije olakšavaju svakodnevno putovanje.",
-        "reading": "B: Dobro povezane linije olakšavaju svakodnevno putovanje.",
+        "reading": "",
         "si": "හොඳින් සම්බන්ධ කළ මාර්ග දිනපතා ගමන් පහසු කරනවා."
       }
     ],
@@ -6490,22 +6490,22 @@ export const SERBIAN_B1_LESSONS = [
     "examples": [
       {
         "sr": "A: Klimatske promene zahtevaju dugoročna i zajednička rešenja.",
-        "reading": "а: климатскэ промэнэ захтэвайу дугорочна и зайэдничка рэшэньа.",
+        "reading": "",
         "si": "Climate change requires long-term and shared solutions."
       },
       {
         "sr": "B: Zato moramo štedeti vodu i ulagati u održiva rešenja.",
-        "reading": "б: зато морамо штэдэти воду и улагати у одржива рэшэньа.",
+        "reading": "",
         "si": "ඒ නිසා ජලය ඉතිරි කර තිරසාර විසඳුම් සඳහා ආයෝජනය කළ යුතුයි."
       },
       {
         "sr": "A: Poljoprivreda posebno zavisi od dostupne vode.",
-        "reading": "а: польоприврэда посэбно зависи од доступнэ водэ.",
+        "reading": "",
         "si": "කෘෂිකර්මාන්තය ජලය ලබාගත හැකි වීම මත රඳා පවතිනවා."
       },
       {
         "sr": "B: Sistemi za navodnjavanje mogu smanjiti gubitke.",
-        "reading": "б: систэми за наводньаваньэ могу сманьити губиткэ.",
+        "reading": "",
         "si": "වාරිමාර්ග පද්ධති මඟින් ජල නාස්තිය අඩු කළ හැකියි."
       }
     ],
@@ -6517,17 +6517,17 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "sr": "B: Zato moramo štedeti vodu i ulagati u održiva rešenja.",
-        "reading": "B: Zato moramo štedeti vodu i ulagati u održiva rešenja.",
+        "reading": "",
         "si": "ඒ නිසා ජලය ඉතිරි කර තිරසාර විසඳුම් සඳහා ආයෝජනය කළ යුතුයි."
       },
       {
         "sr": "A: Poljoprivreda posebno zavisi od dostupne vode.",
-        "reading": "A: Poljoprivreda posebno zavisi od dostupne vode.",
+        "reading": "",
         "si": "කෘෂිකර්මාන්තය ජලය ලබාගත හැකි වීම මත රඳා පවතිනවා."
       },
       {
         "sr": "B: Sistemi za navodnjavanje mogu smanjiti gubitke.",
-        "reading": "B: Sistemi za navodnjavanje mogu smanjiti gubitke.",
+        "reading": "",
         "si": "වාරිමාර්ග පද්ධති මඟින් ජල නාස්තිය අඩු කළ හැකියි."
       }
     ],
@@ -6661,58 +6661,58 @@ export const SERBIAN_B1_LESSONS = [
     "grammarTerms": [
       {
         "sr": "Način ishrane često odražava kulturu i tradiciju porodice.",
-        "reading": "නාචින් ඉස්හ්‍රානෙ චෙස්තො ඔද්‍රාෂාවා културу ඉ ත්‍රාදිත්සියු පොරොදිත්සෙ.",
+        "reading": "",
         "si": "Eating habits often reflect a family's culture and tradition."
       }
     ],
     "examples": [
       {
         "sr": "A: Način ishrane često odražava kulturu i tradiciju porodice.",
-        "reading": "а: начин исхранэ чэсто одражава културу и традицийу породицэ.",
+        "reading": "",
         "si": "Eating habits often reflect a family's culture and tradition."
       },
       {
         "sr": "B: Dobro je što možemo da kupujemo sveže namirnice od lokalnih proizvođača.",
-        "reading": "б: добро йэ што можэмо да купуйэмо свэжэ намирницэ од локалних производжача.",
+        "reading": "",
         "si": "දේශීය නිෂ්පාදකයන්ගෙන් නැවුම් ආහාර මිලදී ගැනීමට හැකිවීම හොඳයි."
       },
       {
         "sr": "A: Tako podržavamo i male porodične firme.",
-        "reading": "а: тако подржавамо и малэ породичнэ фирмэ.",
+        "reading": "",
         "si": "එමඟින් කුඩා පවුල් ව්‍යාපාරවලටත් සහාය ලැබෙනවා."
       },
       {
         "sr": "B: A često saznamo i kako se hrana proizvodi.",
-        "reading": "б: а чэсто сазнамо и како сэ храна производи.",
+        "reading": "",
         "si": "ආහාර නිෂ්පාදනය කරන ආකාරයත් දැනගන්න ලැබෙනවා."
       }
     ],
     "dialogue": [
       {
         "sr": "A: Način ishrane često odražava kulturu i tradiciju porodice.",
-        "reading": "A: නාචින් ඉස්හ්‍රානෙ චෙස්තො ඔද්‍රාෂාවා културу ඉ ත්‍රාදිත්සියු පොරොදිත්සෙ.",
+        "reading": "",
         "si": "Eating habits often reflect a family's culture and tradition."
       },
       {
         "sr": "B: Dobro je što možemo da kupujemo sveže namirnice od lokalnih proizvođača.",
-        "reading": "B: Dobro je što možemo da kupujemo sveže namirnice od lokalnih proizvođača.",
+        "reading": "",
         "si": "දේශීය නිෂ්පාදකයන්ගෙන් නැවුම් ආහාර මිලදී ගැනීමට හැකිවීම හොඳයි."
       },
       {
         "sr": "A: Tako podržavamo i male porodične firme.",
-        "reading": "A: Tako podržavamo i male porodične firme.",
+        "reading": "",
         "si": "එමඟින් කුඩා පවුල් ව්‍යාපාරවලටත් සහාය ලැබෙනවා."
       },
       {
         "sr": "B: A često saznamo i kako se hrana proizvodi.",
-        "reading": "B: A često saznamo i kako se hrana proizvodi.",
+        "reading": "",
         "si": "ආහාර නිෂ්පාදනය කරන ආකාරයත් දැනගන්න ලැබෙනවා."
       }
     ],
     "listeningPractice": {
       "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: Način ishrane često odražava kulturu i tradiciju porodice.",
       "audio": "Način ishrane često odražava kulturu i tradiciju porodice.",
-      "reading": "නාචින් ඉස්හ්‍රානෙ චෙස්තො ඔද්‍රාෂාවා културу ඉ ත්‍රාදිත්සියු පොරොදිත්සෙ.",
+      "reading": "",
       "options": [
         "Eating habits often reflect a family's culture and tradition.",
         "වෙනත් අදහසක්",
@@ -6846,22 +6846,22 @@ export const SERBIAN_B1_LESSONS = [
     "examples": [
       {
         "sr": "A: Postavljanje jasnih ciljeva pomaže nam da pratimo napredak.",
-        "reading": "а: поставльаньэ йасних цильэва помажэ нам да пратимо напрэдак.",
+        "reading": "",
         "si": "Setting clear goals helps us track our progress."
       },
       {
         "sr": "B: Podeli cilj na manje korake i odredi rok za svaki.",
-        "reading": "б: подэли циль на маньэ коракэ и одрэди рок за сваки.",
+        "reading": "",
         "si": "ඉලක්කය කුඩා පියවරවලට බෙදා එක් එක් පියවරට කාලසීමාවක් දාන්න."
       },
       {
         "sr": "A: Tako ću lakše pratiti svoj napredak.",
-        "reading": "а: тако чу лакшэ пратити свой напрэдак.",
+        "reading": "",
         "si": "එවිට මගේ ප්‍රගතිය පහසුවෙන් නිරීක්ෂණය කළ හැකියි."
       },
       {
         "sr": "B: Redovno ponavljanje pomoći će ti da zapamtiš gradivo.",
-        "reading": "б: рэдовно понавльаньэ помочи чэ ти да запамтиш градиво.",
+        "reading": "",
         "si": "නිතිපතා නැවත අධ්‍යයනය කිරීම පාඩම් මතක තබාගන්න උදව් වේවි."
       }
     ],
@@ -6873,17 +6873,17 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "sr": "B: Podeli cilj na manje korake i odredi rok za svaki.",
-        "reading": "B: Podeli cilj na manje korake i odredi rok za svaki.",
+        "reading": "",
         "si": "ඉලක්කය කුඩා පියවරවලට බෙදා එක් එක් පියවරට කාලසීමාවක් දාන්න."
       },
       {
         "sr": "A: Tako ću lakše pratiti svoj napredak.",
-        "reading": "A: Tako ću lakše pratiti svoj napredak.",
+        "reading": "",
         "si": "එවිට මගේ ප්‍රගතිය පහසුවෙන් නිරීක්ෂණය කළ හැකියි."
       },
       {
         "sr": "B: Redovno ponavljanje pomoći će ti da zapamtiš gradivo.",
-        "reading": "B: Redovno ponavljanje pomoći će ti da zapamtiš gradivo.",
+        "reading": "",
         "si": "නිතිපතා නැවත අධ්‍යයනය කිරීම පාඩම් මතක තබාගන්න උදව් වේවි."
       }
     ],
@@ -7024,22 +7024,22 @@ export const SERBIAN_B1_LESSONS = [
     "examples": [
       {
         "sr": "A: Ako usluga ne odgovara rezervaciji, možemo zatražiti rešenje.",
-        "reading": "а: ако услуга нэ одговара рэзэрвацийи, можэмо затражити рэшэньэ.",
+        "reading": "",
         "si": "If the service does not match the booking, we can request a solution."
       },
       {
         "sr": "B: Sačuvaj potvrdu rezervacije i odmah podnesi pisani prigovor.",
-        "reading": "б: сачувай потврду рэзэрвацийэ и одмах поднэси писани приговор.",
+        "reading": "",
         "si": "වෙන්කිරීමේ තහවුරු කිරීම තබාගෙන වහාම ලිඛිත පැමිණිල්ලක් ඉදිරිපත් කරන්න."
       },
       {
         "sr": "A: Da li treba da tražim i povraćaj novca?",
-        "reading": "а: да ли трэба да тражим и поврачай новца?",
+        "reading": "",
         "si": "මුදල් ආපසු ඉල්ලන්නත් ඕනද?"
       },
       {
         "sr": "B: Prvo zatraži objašnjenje i predloži razumno rešenje.",
-        "reading": "б: прво затражи обйашньэньэ и прэдложи разумно рэшэньэ.",
+        "reading": "",
         "si": "මුලින්ම පැහැදිලි කිරීමක් ඉල්ලා සාධාරණ විසඳුමක් යෝජනා කරන්න."
       }
     ],
@@ -7051,17 +7051,17 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "sr": "B: Sačuvaj potvrdu rezervacije i odmah podnesi pisani prigovor.",
-        "reading": "B: Sačuvaj potvrdu rezervacije i odmah podnesi pisani prigovor.",
+        "reading": "",
         "si": "වෙන්කිරීමේ තහවුරු කිරීම තබාගෙන වහාම ලිඛිත පැමිණිල්ලක් ඉදිරිපත් කරන්න."
       },
       {
         "sr": "A: Da li treba da tražim i povraćaj novca?",
-        "reading": "A: Da li treba da tražim i povraćaj novca?",
+        "reading": "",
         "si": "මුදල් ආපසු ඉල්ලන්නත් ඕනද?"
       },
       {
         "sr": "B: Prvo zatraži objašnjenje i predloži razumno rešenje.",
-        "reading": "B: Prvo zatraži objašnjenje i predloži razumno rešenje.",
+        "reading": "",
         "si": "මුලින්ම පැහැදිලි කිරීමක් ඉල්ලා සාධාරණ විසඳුමක් යෝජනා කරන්න."
       }
     ],
@@ -7202,22 +7202,22 @@ export const SERBIAN_B1_LESSONS = [
     "examples": [
       {
         "sr": "A: Jasna komunikacija zavisi od reči i načina na koji ih izgovaramo.",
-        "reading": "а: йасна комуникацийа зависи од рэчи и начина на койи их изговарамо.",
+        "reading": "",
         "si": "Clear communication depends on words and the way we say them."
       },
       {
         "sr": "B: Najbolje je da mirno objasniš šta si zapravo želeo da kažeš.",
-        "reading": "б: найбольэ йэ да мирно обйасниш шта си заправо жэлэо да кажэш.",
+        "reading": "",
         "si": "ඔබ අදහස් කළේ කුමක්දැයි සන්සුන්ව පැහැදිලි කිරීම හොඳම ක්‍රමයයි."
       },
       {
         "sr": "A: Trebalo je ranije da proverim da li me je razumeo.",
-        "reading": "а: трэбало йэ ранийэ да провэрим да ли мэ йэ разумэо.",
+        "reading": "",
         "si": "ඔහු මාව තේරුම් ගත්තාද කියලා කලින්ම පරීක්ෂා කළ යුතුව තිබුණා."
       },
       {
         "sr": "B: Otvoreno pitanje često sprečava novi nesporazum.",
-        "reading": "б: отворэно питаньэ чэсто спрэчава нови нэспоразум.",
+        "reading": "",
         "si": "විවෘත ප්‍රශ්නයක් ඇසීමෙන් තවත් වැරදි අවබෝධයක් වළක්වාගත හැකියි."
       }
     ],
@@ -7229,17 +7229,17 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "sr": "B: Najbolje je da mirno objasniš šta si zapravo želeo da kažeš.",
-        "reading": "B: Najbolje je da mirno objasniš šta si zapravo želeo da kažeš.",
+        "reading": "",
         "si": "ඔබ අදහස් කළේ කුමක්දැයි සන්සුන්ව පැහැදිලි කිරීම හොඳම ක්‍රමයයි."
       },
       {
         "sr": "A: Trebalo je ranije da proverim da li me je razumeo.",
-        "reading": "A: Trebalo je ranije da proverim da li me je razumeo.",
+        "reading": "",
         "si": "ඔහු මාව තේරුම් ගත්තාද කියලා කලින්ම පරීක්ෂා කළ යුතුව තිබුණා."
       },
       {
         "sr": "B: Otvoreno pitanje često sprečava novi nesporazum.",
-        "reading": "B: Otvoreno pitanje često sprečava novi nesporazum.",
+        "reading": "",
         "si": "විවෘත ප්‍රශ්නයක් ඇසීමෙන් තවත් වැරදි අවබෝධයක් වළක්වාගත හැකියි."
       }
     ],
@@ -7380,22 +7380,22 @@ export const SERBIAN_B1_LESSONS = [
     "examples": [
       {
         "sr": "A: Pre objavljivanja fotografije treba poštovati privatnost drugih.",
-        "reading": "а: прэ обйавльиваньа фотографийэ трэба поштовати приватност других.",
+        "reading": "",
         "si": "Before posting a photo, we should respect other people's privacy."
       },
       {
         "sr": "B: Proveri ko je objavio vest i da li postoje pouzdani izvori.",
-        "reading": "б: провэри ко йэ обйавио вэст и да ли постойэ поуздани извори.",
+        "reading": "",
         "si": "එය පළ කළේ කවුද සහ විශ්වාසදායක මූලාශ්‍ර එය තහවුරු කරනවාද කියලා බලන්න."
       },
       {
         "sr": "A: Na društvenim mrežama je podelilo mnogo ljudi.",
-        "reading": "а: на друштвэним мрэжама йэ подэлило много льуди.",
+        "reading": "",
         "si": "සමාජ මාධ්‍යවල බොහෝ දෙනෙක් එය බෙදාගෙන තිබෙනවා."
       },
       {
         "sr": "B: Broj deljenja ne znači da je informacija tačna.",
-        "reading": "б: брой дэльэньа нэ значи да йэ информацийа тачна.",
+        "reading": "",
         "si": "බෙදාගැනීම් ගණන වැඩි වීමෙන් තොරතුරු සත්‍ය බව අදහස් වෙන්නේ නැහැ."
       }
     ],
@@ -7407,17 +7407,17 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "sr": "B: Proveri ko je objavio vest i da li postoje pouzdani izvori.",
-        "reading": "B: Proveri ko je objavio vest i da li postoje pouzdani izvori.",
+        "reading": "",
         "si": "එය පළ කළේ කවුද සහ විශ්වාසදායක මූලාශ්‍ර එය තහවුරු කරනවාද කියලා බලන්න."
       },
       {
         "sr": "A: Na društvenim mrežama je podelilo mnogo ljudi.",
-        "reading": "A: Na društvenim mrežama je podelilo mnogo ljudi.",
+        "reading": "",
         "si": "සමාජ මාධ්‍යවල බොහෝ දෙනෙක් එය බෙදාගෙන තිබෙනවා."
       },
       {
         "sr": "B: Broj deljenja ne znači da je informacija tačna.",
-        "reading": "B: Broj deljenja ne znači da je informacija tačna.",
+        "reading": "",
         "si": "බෙදාගැනීම් ගණන වැඩි වීමෙන් තොරතුරු සත්‍ය බව අදහස් වෙන්නේ නැහැ."
       }
     ],
@@ -7558,22 +7558,22 @@ export const SERBIAN_B1_LESSONS = [
     "examples": [
       {
         "sr": "A: Kada odredimo prioritete, lakše završavamo važne zadatke.",
-        "reading": "а: када одрэдимо приоритэтэ, лакшэ завршавамо важнэ задаткэ.",
+        "reading": "",
         "si": "When we set priorities, we finish important tasks more easily."
       },
       {
         "sr": "B: Pokušaj da odrediš prioritete i unapred isplaniraš odmor.",
-        "reading": "б: покушай да одрэдиш приоритэтэ и унапрэд испланираш одмор.",
+        "reading": "",
         "si": "ප්‍රමුඛතා තීරණය කර විවේකයත් කලින් සැලසුම් කරන්න උත්සාහ කරන්න."
       },
       {
         "sr": "A: Često prihvatim više zadataka nego što mogu da završim.",
-        "reading": "а: чэсто прихватим вишэ задатака нэго што могу да завршим.",
+        "reading": "",
         "si": "මට අවසන් කළ හැකි ප්‍රමාණයට වඩා වැඩි කාර්යයන් මම භාරගන්නවා."
       },
       {
         "sr": "B: Nauči da realno proceniš vreme koje ti je potrebno.",
-        "reading": "б: научи да рэално процэниш врэмэ койэ ти йэ потрэбно.",
+        "reading": "",
         "si": "ඔබට අවශ්‍ය කාලය යථාර්ථවාදීව ඇස්තමේන්තු කරන්න ඉගෙනගන්න."
       }
     ],
@@ -7585,17 +7585,17 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "sr": "B: Pokušaj da odrediš prioritete i unapred isplaniraš odmor.",
-        "reading": "B: Pokušaj da odrediš prioritete i unapred isplaniraš odmor.",
+        "reading": "",
         "si": "ප්‍රමුඛතා තීරණය කර විවේකයත් කලින් සැලසුම් කරන්න උත්සාහ කරන්න."
       },
       {
         "sr": "A: Često prihvatim više zadataka nego što mogu da završim.",
-        "reading": "A: Često prihvatim više zadataka nego što mogu da završim.",
+        "reading": "",
         "si": "මට අවසන් කළ හැකි ප්‍රමාණයට වඩා වැඩි කාර්යයන් මම භාරගන්නවා."
       },
       {
         "sr": "B: Nauči da realno proceniš vreme koje ti je potrebno.",
-        "reading": "B: Nauči da realno proceniš vreme koje ti je potrebno.",
+        "reading": "",
         "si": "ඔබට අවශ්‍ය කාලය යථාර්ථවාදීව ඇස්තමේන්තු කරන්න ඉගෙනගන්න."
       }
     ],
@@ -7736,22 +7736,22 @@ export const SERBIAN_B1_LESSONS = [
     "examples": [
       {
         "sr": "A: Poštovanje različitih običaja pomaže ljudima da sarađuju.",
-        "reading": "а: поштованьэ различитих обичайа помажэ льудима да сараджуйу.",
+        "reading": "",
         "si": "Respecting different customs helps people work together."
       },
       {
         "sr": "B: Dobro je da se pre putovanja upoznamo sa lokalnim običajima.",
-        "reading": "б: добро йэ да сэ прэ путованьа упознамо са локалним обичайима.",
+        "reading": "",
         "si": "ගමනට පෙර දේශීය සිරිත් විරිත් ගැන දැනගැනීම ප්‍රයෝජනවත්."
       },
       {
         "sr": "A: Tako možemo pokazati poštovanje prema domaćinima.",
-        "reading": "а: тако можэмо показати поштованьэ прэма домачинима.",
+        "reading": "",
         "si": "එමඟින් සත්කාරකයන්ට ගෞරවය පෙන්වන්න පුළුවන්."
       },
       {
         "sr": "B: Lakše ćemo izbeći neprijatne situacije.",
-        "reading": "б: лакшэ чэмо избэчи нэприйатнэ ситуацийэ.",
+        "reading": "",
         "si": "අපහසු අවස්ථා පහසුවෙන් වළක්වාගන්නත් පුළුවන්."
       }
     ],
@@ -7763,17 +7763,17 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "sr": "B: Dobro je da se pre putovanja upoznamo sa lokalnim običajima.",
-        "reading": "B: Dobro je da se pre putovanja upoznamo sa lokalnim običajima.",
+        "reading": "",
         "si": "ගමනට පෙර දේශීය සිරිත් විරිත් ගැන දැනගැනීම ප්‍රයෝජනවත්."
       },
       {
         "sr": "A: Tako možemo pokazati poštovanje prema domaćinima.",
-        "reading": "A: Tako možemo pokazati poštovanje prema domaćinima.",
+        "reading": "",
         "si": "එමඟින් සත්කාරකයන්ට ගෞරවය පෙන්වන්න පුළුවන්."
       },
       {
         "sr": "B: Lakše ćemo izbeći neprijatne situacije.",
-        "reading": "B: Lakše ćemo izbeći neprijatne situacije.",
+        "reading": "",
         "si": "අපහසු අවස්ථා පහසුවෙන් වළක්වාගන්නත් පුළුවන්."
       }
     ],
@@ -7914,22 +7914,22 @@ export const SERBIAN_B1_LESSONS = [
     "examples": [
       {
         "sr": "A: Dobar poslovni plan uzima u obzir potrebe kupaca.",
-        "reading": "а: добар пословни план узима у обзир потрэбэ купаца.",
+        "reading": "",
         "si": "A good business plan takes customers' needs into account."
       },
       {
         "sr": "B: Pre početka istraži potrebe kupaca i izračunaj početne troškove.",
-        "reading": "б: прэ почэтка истражи потрэбэ купаца и израчунай почэтнэ трошковэ.",
+        "reading": "",
         "si": "ආරම්භ කිරීමට පෙර පාරිභෝගික අවශ්‍යතා සොයා බලා ආරම්භක වියදම් ගණනය කරන්න."
       },
       {
         "sr": "A: Razmišljam i o tome kako da promovišem uslugu.",
-        "reading": "а: размишльам и о томэ како да промовишэм услугу.",
+        "reading": "",
         "si": "සේවාව ප්‍රචාරය කරන්නේ කොහොමද කියලත් මම හිතනවා."
       },
       {
         "sr": "B: Napravi jednostavan poslovni plan sa jasnim ciljevima.",
-        "reading": "б: направи йэдноставан пословни план са йасним цильэвима.",
+        "reading": "",
         "si": "පැහැදිලි ඉලක්ක සහිත සරල ව්‍යාපාර සැලැස්මක් සකස් කරන්න."
       }
     ],
@@ -7941,17 +7941,17 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "sr": "B: Pre početka istraži potrebe kupaca i izračunaj početne troškove.",
-        "reading": "B: Pre početka istraži potrebe kupaca i izračunaj početne troškove.",
+        "reading": "",
         "si": "ආරම්භ කිරීමට පෙර පාරිභෝගික අවශ්‍යතා සොයා බලා ආරම්භක වියදම් ගණනය කරන්න."
       },
       {
         "sr": "A: Razmišljam i o tome kako da promovišem uslugu.",
-        "reading": "A: Razmišljam i o tome kako da promovišem uslugu.",
+        "reading": "",
         "si": "සේවාව ප්‍රචාරය කරන්නේ කොහොමද කියලත් මම හිතනවා."
       },
       {
         "sr": "B: Napravi jednostavan poslovni plan sa jasnim ciljevima.",
-        "reading": "B: Napravi jednostavan poslovni plan sa jasnim ciljevima.",
+        "reading": "",
         "si": "පැහැදිලි ඉලක්ක සහිත සරල ව්‍යාපාර සැලැස්මක් සකස් කරන්න."
       }
     ],
@@ -8092,22 +8092,22 @@ export const SERBIAN_B1_LESSONS = [
     "examples": [
       {
         "sr": "A: Izveštaj treba jasno da predstavi podatke i zaključke.",
-        "reading": "а: извэштай трэба йасно да прэдстави податкэ и закльучкэ.",
+        "reading": "",
         "si": "A report should present the data and conclusions clearly."
       },
       {
         "sr": "B: Bilo bi korisno da prikažemo podatke i na grafikonu.",
-        "reading": "б: било би корисно да прикажэмо податкэ и на графикону.",
+        "reading": "",
         "si": "දත්ත ප්‍රස්ථාරයකින් ද පෙන්වීම ප්‍රයෝජනවත් වේවි."
       },
       {
         "sr": "A: Tako će čitaoci lakše uočiti promene.",
-        "reading": "а: тако чэ читаоци лакшэ уочити промэнэ.",
+        "reading": "",
         "si": "එවිට පාඨකයන්ට වෙනස්කම් පහසුවෙන් දැකගත හැකියි."
       },
       {
         "sr": "B: Uz grafikon dodaj kratak opis najvažnijih rezultata.",
-        "reading": "б: уз графикон додай кратак опис найважнийих рэзултата.",
+        "reading": "",
         "si": "ප්‍රස්ථාරය සමඟ වැදගත්ම ප්‍රතිඵල පිළිබඳ කෙටි විස්තරයක් එක් කරන්න."
       }
     ],
@@ -8119,17 +8119,17 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "sr": "B: Bilo bi korisno da prikažemo podatke i na grafikonu.",
-        "reading": "B: Bilo bi korisno da prikažemo podatke i na grafikonu.",
+        "reading": "",
         "si": "දත්ත ප්‍රස්ථාරයකින් ද පෙන්වීම ප්‍රයෝජනවත් වේවි."
       },
       {
         "sr": "A: Tako će čitaoci lakše uočiti promene.",
-        "reading": "A: Tako će čitaoci lakše uočiti promene.",
+        "reading": "",
         "si": "එවිට පාඨකයන්ට වෙනස්කම් පහසුවෙන් දැකගත හැකියි."
       },
       {
         "sr": "B: Uz grafikon dodaj kratak opis najvažnijih rezultata.",
-        "reading": "B: Uz grafikon dodaj kratak opis najvažnijih rezultata.",
+        "reading": "",
         "si": "ප්‍රස්ථාරය සමඟ වැදගත්ම ප්‍රතිඵල පිළිබඳ කෙටි විස්තරයක් එක් කරන්න."
       }
     ],
@@ -8270,22 +8270,22 @@ export const SERBIAN_B1_LESSONS = [
     "examples": [
       {
         "sr": "A: Javna rasprava pomaže da razumemo različita mišljenja.",
-        "reading": "а: йавна расправа помажэ да разумэмо различита мишльэньа.",
+        "reading": "",
         "si": "Public debate helps us understand different opinions."
       },
       {
         "sr": "B: Treba da saslušamo obe strane pre nego što donesemo zaključak.",
-        "reading": "б: трэба да саслушамо обэ странэ прэ нэго што донэсэмо закльучак.",
+        "reading": "",
         "si": "නිගමනයකට එන්න පෙර දෙපාර්ශ්වයටම සවන් දිය යුතුයි."
       },
       {
         "sr": "A: Jedan govornik je izneo podatke, a drugi lično iskustvo.",
-        "reading": "а: йэдан говорник йэ изнэо податкэ, а други лично искуство.",
+        "reading": "",
         "si": "එක් කථිකයෙක් දත්ත ඉදිරිපත් කළ අතර අනෙක් කෙනා පෞද්ගලික අත්දැකීමක් බෙදාගත්තා."
       },
       {
         "sr": "B: Važno je da proverimo podatke i razumemo kontekst.",
-        "reading": "б: важно йэ да провэримо податкэ и разумэмо контэкст.",
+        "reading": "",
         "si": "දත්ත පරීක්ෂා කර සන්දර්භය තේරුම් ගැනීම වැදගත්."
       }
     ],
@@ -8297,17 +8297,17 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "sr": "B: Treba da saslušamo obe strane pre nego što donesemo zaključak.",
-        "reading": "B: Treba da saslušamo obe strane pre nego što donesemo zaključak.",
+        "reading": "",
         "si": "නිගමනයකට එන්න පෙර දෙපාර්ශ්වයටම සවන් දිය යුතුයි."
       },
       {
         "sr": "A: Jedan govornik je izneo podatke, a drugi lično iskustvo.",
-        "reading": "A: Jedan govornik je izneo podatke, a drugi lično iskustvo.",
+        "reading": "",
         "si": "එක් කථිකයෙක් දත්ත ඉදිරිපත් කළ අතර අනෙක් කෙනා පෞද්ගලික අත්දැකීමක් බෙදාගත්තා."
       },
       {
         "sr": "B: Važno je da proverimo podatke i razumemo kontekst.",
-        "reading": "B: Važno je da proverimo podatke i razumemo kontekst.",
+        "reading": "",
         "si": "දත්ත පරීක්ෂා කර සන්දර්භය තේරුම් ගැනීම වැදගත්."
       }
     ],
@@ -8448,22 +8448,22 @@ export const SERBIAN_B1_LESSONS = [
     "examples": [
       {
         "sr": "A: Pre izbora rešenja treba proceniti moguće posledice.",
-        "reading": "а: прэ избора рэшэньа трэба процэнити могучэ послэдицэ.",
+        "reading": "",
         "si": "Before choosing a solution, we should evaluate possible consequences."
       },
       {
         "sr": "B: Treba da procenimo posledice i odmah kontaktiramo drugog dobavljača.",
-        "reading": "б: трэба да процэнимо послэдицэ и одмах контактирамо другог добавльача.",
+        "reading": "",
         "si": "ප්‍රතිවිපාක තක්සේරු කර වහාම වෙනත් සැපයුම්කරුවෙකු සම්බන්ධ කරගත යුතුයි."
       },
       {
         "sr": "A: To može povećati troškove.",
-        "reading": "а: то можэ повэчати трошковэ.",
+        "reading": "",
         "si": "එයින් වියදම් වැඩි විය හැකියි."
       },
       {
         "sr": "B: Uporedimo cenu kašnjenja sa cenom alternativnog rešenja.",
-        "reading": "б: упорэдимо цэну кашньэньа са цэном алтэрнативног рэшэньа.",
+        "reading": "",
         "si": "ප්‍රමාදයේ වියදම විකල්ප විසඳුමේ වියදම සමඟ සසඳමු."
       }
     ],
@@ -8475,17 +8475,17 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "sr": "B: Treba da procenimo posledice i odmah kontaktiramo drugog dobavljača.",
-        "reading": "B: Treba da procenimo posledice i odmah kontaktiramo drugog dobavljača.",
+        "reading": "",
         "si": "ප්‍රතිවිපාක තක්සේරු කර වහාම වෙනත් සැපයුම්කරුවෙකු සම්බන්ධ කරගත යුතුයි."
       },
       {
         "sr": "A: To može povećati troškove.",
-        "reading": "A: To može povećati troškove.",
+        "reading": "",
         "si": "එයින් වියදම් වැඩි විය හැකියි."
       },
       {
         "sr": "B: Uporedimo cenu kašnjenja sa cenom alternativnog rešenja.",
-        "reading": "B: Uporedimo cenu kašnjenja sa cenom alternativnog rešenja.",
+        "reading": "",
         "si": "ප්‍රමාදයේ වියදම විකල්ප විසඳුමේ වියදම සමඟ සසඳමු."
       }
     ],
@@ -8626,22 +8626,22 @@ export const SERBIAN_B1_LESSONS = [
     "examples": [
       {
         "sr": "A: Fleksibilan plan pomaže nam da se prilagodimo promenama.",
-        "reading": "а: флэксибилан план помажэ нам да сэ прилагодимо промэнама.",
+        "reading": "",
         "si": "A flexible plan helps us adapt to changes."
       },
       {
         "sr": "B: Napravi plan koji uključuje rokove, troškove i rezervnu mogućnost.",
-        "reading": "б: направи план койи укльучуйэ роковэ, трошковэ и рэзэрвну могучност.",
+        "reading": "",
         "si": "කාලසීමා, වියදම් සහ විකල්ප සැලැස්මක් ඇතුළත් සැලැස්මක් සකස් කරන්න."
       },
       {
         "sr": "A: Ne mogu da predvidim sve promene.",
-        "reading": "а: нэ могу да прэдвидим свэ промэнэ.",
+        "reading": "",
         "si": "සියලු වෙනස්කම් කලින් අනාවැකි කියන්න මට බැහැ."
       },
       {
         "sr": "B: Zato plan treba redovno prilagođavati novim okolnostima.",
-        "reading": "б: зато план трэба рэдовно прилагоджавати новим околностима.",
+        "reading": "",
         "si": "නව තත්ත්වයන්ට අනුව සැලැස්ම නිතර සකස් කළ යුතුයි."
       }
     ],
@@ -8653,17 +8653,17 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "sr": "B: Napravi plan koji uključuje rokove, troškove i rezervnu mogućnost.",
-        "reading": "B: Napravi plan koji uključuje rokove, troškove i rezervnu mogućnost.",
+        "reading": "",
         "si": "කාලසීමා, වියදම් සහ විකල්ප සැලැස්මක් ඇතුළත් සැලැස්මක් සකස් කරන්න."
       },
       {
         "sr": "A: Ne mogu da predvidim sve promene.",
-        "reading": "A: Ne mogu da predvidim sve promene.",
+        "reading": "",
         "si": "සියලු වෙනස්කම් කලින් අනාවැකි කියන්න මට බැහැ."
       },
       {
         "sr": "B: Zato plan treba redovno prilagođavati novim okolnostima.",
-        "reading": "B: Zato plan treba redovno prilagođavati novim okolnostima.",
+        "reading": "",
         "si": "නව තත්ත්වයන්ට අනුව සැලැස්ම නිතර සකස් කළ යුතුයි."
       }
     ],
@@ -8804,22 +8804,22 @@ export const SERBIAN_B1_LESSONS = [
     "examples": [
       {
         "sr": "A: Jasno izlaganje povezuje primere, razloge i zaključak.",
-        "reading": "а: йасно излаганьэ повэзуйэ примэрэ, разлогэ и закльучак.",
+        "reading": "",
         "si": "A clear presentation connects examples, reasons and a conclusion."
       },
       {
         "sr": "B: Dodaj konkretan primer i jasno ponovi glavni zaključak na kraju.",
-        "reading": "б: додай конкрэтан примэр и йасно понови главни закльучак на крайу.",
+        "reading": "",
         "si": "නිශ්චිත උදාහරණයක් එක් කර අවසානයේ ප්‍රධාන නිගමනය පැහැදිලිව නැවත කියන්න."
       },
       {
         "sr": "A: Tako će publika lakše pratiti argumente.",
-        "reading": "а: тако чэ публика лакшэ пратити аргумэнтэ.",
+        "reading": "",
         "si": "එවිට ප්‍රේක්ෂකයන්ට තර්ක පහසුවෙන් අනුගමනය කළ හැකියි."
       },
       {
         "sr": "B: Dobra struktura povezuje tvrdnje, dokaze i zaključak.",
-        "reading": "б: добра структура повэзуйэ тврдньэ, доказэ и закльучак.",
+        "reading": "",
         "si": "හොඳ ව්‍යුහයක් අදහස්, සාක්ෂි සහ නිගමනය එකට සම්බන්ධ කරනවා."
       }
     ],
@@ -8831,17 +8831,17 @@ export const SERBIAN_B1_LESSONS = [
       },
       {
         "sr": "B: Dodaj konkretan primer i jasno ponovi glavni zaključak na kraju.",
-        "reading": "B: Dodaj konkretan primer i jasno ponovi glavni zaključak na kraju.",
+        "reading": "",
         "si": "නිශ්චිත උදාහරණයක් එක් කර අවසානයේ ප්‍රධාන නිගමනය පැහැදිලිව නැවත කියන්න."
       },
       {
         "sr": "A: Tako će publika lakše pratiti argumente.",
-        "reading": "A: Tako će publika lakše pratiti argumente.",
+        "reading": "",
         "si": "එවිට ප්‍රේක්ෂකයන්ට තර්ක පහසුවෙන් අනුගමනය කළ හැකියි."
       },
       {
         "sr": "B: Dobra struktura povezuje tvrdnje, dokaze i zaključak.",
-        "reading": "B: Dobra struktura povezuje tvrdnje, dokaze i zaključak.",
+        "reading": "",
         "si": "හොඳ ව්‍යුහයක් අදහස්, සාක්ෂි සහ නිගමනය එකට සම්බන්ධ කරනවා."
       }
     ],
