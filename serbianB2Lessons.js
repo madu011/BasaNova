@@ -1289,8 +1289,8 @@ export const SERBIAN_B2_LESSONS = [
         "exampleReading": "පොදාත්සි පොකාසුයු දා යේ ප්‍රොදායා පොරාස්ලා සා දෙසෙත් ප්‍රොත්සෙනාතා."
       },
       {
-        "word": "sample",
-        "reading": "උස්ඔර්අක්",
+        "word": "uzorak",
+        "reading": "උසොරක්",
         "meaning": "නියැදිය",
         "example": "Uzorak je mali, pa rezultate treba tumačiti oprezno.",
         "translation": "නියැදිය කුඩා නිසා ප්‍රතිඵල ප්‍රවේශමෙන් අර්ථකථනය කළ යුතුයි.",
