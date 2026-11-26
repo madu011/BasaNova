@@ -282,8 +282,8 @@ assert.match(appSource, /items\.filter\(item=>item\.source!==source\|\|item\.dir
   "Translator history must deduplicate by source and direction and stay within 12 visible entries");
 assert.match(appSource, /මුරපද, බැංකු විස්තර හෝ වෙනත් රහස්‍ය තොරතුරු ඇතුළත් නොකරන්න/u,
   "Translator screen must retain its external-service privacy warning");
-assert.ok((appSource.match(/requestId!==voiceRequestId/gu) ?? []).length >= 3,
-  "TTS must ignore stale asynchronous voice requests");
+assert.match(appSource, /const speak=\(text,lang\)=>\{[\s\S]*?if\(!phrase\)return;[\s\S]*?Speech\.stop\(\);[\s\S]*?Speech\.speak\(phrase,\{language:lang==="Serbian"\?"sr-RS":"en-US",rate:0\.82\}\);/u,
+  "TTS must stop prior playback before speaking and select the correct language voice");
 assert.match(appSource, /Speech\.speak\(phrase,\{language:lang==="Serbian"\?"sr-RS":"en-US",rate:0\.82\}\)/u,
   "Device TTS fallback must select the correct Serbian or English voice locale");
 assert.match(appSource, /SafeAreaView edges=\{\["top","right","bottom","left"\]\}/u,
