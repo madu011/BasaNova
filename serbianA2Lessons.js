@@ -3484,7 +3484,7 @@ export const SERBIAN_A2_LESSONS = [
       },
       {
         "word": "stanica",
-        "reading": "ස්තаница",
+        "reading": "ස්තානිත්සා",
         "meaning": "නැවතුම්පොළ",
         "example": "Da li moram da presedam?",
         "translation": "මට වෙනත් බස් රථයකට මාරු වෙන්න ඕනෙද?",
@@ -3560,12 +3560,12 @@ export const SERBIAN_A2_LESSONS = [
     "dialogue": [
       {
         "sr": "Gde je autobuska stanica?",
-        "reading": "ග්දෙ යෙ අඋතොබුස්කා ස්තаница?",
+        "reading": "ග්දෙ යෙ අඋතොබුස්කා ස්තානිත්සා?",
         "si": "බස් නැවතුම්පොළ කොහෙද?"
       },
       {
         "sr": "Stanica je preko puta.",
-        "reading": "ස්තаница යෙ ප්‍රෙකො පුතා.",
+        "reading": "ස්තානිත්සා යෙ ප්‍රෙකො පුතා.",
         "si": "නැවතුම්පොළ තියෙන්නේ පාරෙන් එහා පැත්තේ."
       },
       {
@@ -3575,18 +3575,18 @@ export const SERBIAN_A2_LESSONS = [
       },
       {
         "sr": "Karta košta trista dinara.",
-        "reading": "කාර්තා කොෂ්තා ත්‍රිස්තා දිනාра.",
+        "reading": "කාර්තා කොෂ්තා ත්‍රිස්තා දිනාරා.",
         "si": "ටිකට් එක ඩිනාර් තුන්සියයක්."
       }
     ],
     "listeningPractice": {
       "prompt": "අසා නිවැරදි අර්ථය තෝරන්න: “Voz polazi u devet.”",
       "audio": "Voz polazi u devet.",
-      "reading": "",
+      "reading": "වොස් පොලාසි උ දෙවෙත්.",
       "options": [
         "දුම්රිය නවයට පිටත් වෙනවා.",
-        "වෙනත් අර්ථයක්",
-        "අදාළ නොවන අර්ථයක්"
+        "දුම්රිය නවයට පැමිණෙනවා.",
+        "බස් රථය නවයට පිටත් වෙනවා."
       ],
       "answer": 0
     },
