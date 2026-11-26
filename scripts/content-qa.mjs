@@ -78,14 +78,14 @@ function validateLessonTrack(label, lessons) {
     for (const field of ["vocabulary", "examples", "dialogue", "practice"]) {
       assert.ok(Array.isArray(lesson[field]) && lesson[field].length > 0, `${name}: missing ${field}`);
     }
+    // A1/A2 require authored Sinhala readings. B1+ can use the app's
+    // built-in Sinhala transliteration fallback when an authored guide is absent.
+    const requiresAuthoredReading = /A1|A2/u.test(label);
     for (const [i, item] of lesson.vocabulary.entries()) {
       vocabularyCount++;
       for (const field of ["word", "meaning", "example", "translation"]) {
         assert.ok(typeof item[field] === "string" && item[field].trim(), `${name} vocabulary ${i + 1}: missing ${field}`);
       }
-      // A1/A2 require authored Sinhala readings. B1+ can use the app's
-      // built-in Sinhala transliteration fallback when an authored guide is absent.
-      const requiresAuthoredReading = /A1|A2/u.test(label);
       if (item.reading?.trim()) {
         assert.ok(/[ං-෴]/u.test(item.reading), `${name} vocabulary ${i + 1}: pronunciation is not Sinhala script`);
         assert.ok(!/[A-Za-zА-Яа-яЁёČĆŽŠĐčćžšđ]/u.test(item.reading), `${name} vocabulary ${i + 1}: mixed-script pronunciation`);
