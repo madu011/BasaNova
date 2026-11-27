@@ -60,3 +60,10 @@ The user asked to fix all remaining BasaNova errors. Continue grouped source aud
 - Current step at handoff: `./gradlew --no-daemon assembleDebug` is running. Artifact upload is pending. Do not report APK ready until job and upload succeed.
 - Recent fixes: A2 contextual vocabulary QA, B1 Serbian headword/meaning alignment, B2 pronunciation regeneration regex and assessment word alignment, C2 final-exam headwords, and C-level title numbering QA.
 - After build completion, confirm the `basanova-android-debug-apk` artifact and update this handoff. Device installation and smoke testing remain separate tasks.
+
+
+## 2026-11-27 — Android debug APK build succeeded
+- Run `45914025009` completed successfully: QA, Expo compatibility, Android prebuild, Gradle assembleDebug, and artifact upload all PASS.
+- GitHub artifact: `basanova-android-debug-apk`, ID `15161592583`, expires 2026-12-11.
+- Extracted local APK: `/mnt/data/BasaNova-debug.apk`, 113,112,449 bytes. ZIP integrity passed and file is recognized as Android APK. SHA-256 `e83efe4d0b414c6472cf4e2abc14244f387085983caba5684b9caa555979ab30`.
+- Remaining: install on an Android device and smoke-test onboarding, language switching, lessons, assessment, progress persistence, and TTS/audio. Do not claim device verification until actually tested.
