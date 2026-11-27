@@ -51,3 +51,12 @@ The user asked to fix all remaining BasaNova errors. Continue grouped source aud
 2. Run **BasaNova QA and Android APK** from GitHub → Actions → select the workflow → **Run workflow** with `build_android_apk=false` first.
 3. If content QA and Expo compatibility both pass, run the same workflow with `build_android_apk=true`; inspect the completed run and download the `basanova-android-debug-apk` artifact.
 4. Install and verify the APK on Android; only then record device verification.
+
+
+## 2026-11-27 — QA passed; Android debug APK build in progress
+- Current verified commit: `54b0dafd9be1030f04f153b04ca10048970e65c5`.
+- GitHub Actions run: [45914025009](https://github.com/madu011/BasaNova/actions/runs/45914025009).
+- Passed steps: npm dependency install, Expo dependency compatibility, content/regression QA, Android prebuild.
+- Current step at handoff: `./gradlew --no-daemon assembleDebug` is running. Artifact upload is pending. Do not report APK ready until job and upload succeed.
+- Recent fixes: A2 contextual vocabulary QA, B1 Serbian headword/meaning alignment, B2 pronunciation regeneration regex and assessment word alignment, C2 final-exam headwords, and C-level title numbering QA.
+- After build completion, confirm the `basanova-android-debug-apk` artifact and update this handoff. Device installation and smoke testing remain separate tasks.
