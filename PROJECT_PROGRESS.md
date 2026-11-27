@@ -180,3 +180,12 @@
 - Updated the QA lesson-number parser to accept the established `C1 · N ·` / `C2 · N ·` title format.
 - GitHub Actions run **45914025009** on commit `54b0dafd9be1030f04f153b04ca10048970e65c5`: dependency installation PASS, Expo dependency check PASS, `npm run qa:content` PASS. Android native prebuild PASS; Gradle `assembleDebug` is still in progress. No APK artifact has been confirmed yet.
 - Do not mark APK build or device verification complete until the workflow reports success and the artifact is available.
+
+
+## 2026-11-27 — Android debug APK build succeeded
+
+- GitHub Actions run **45914025009** completed successfully on commit `54b0dafd9be1030f04f153b04ca10048970e65c5`.
+- Content/source QA: PASS. Expo dependency compatibility: PASS. Android prebuild: PASS. Gradle `assembleDebug`: PASS. Artifact upload: PASS.
+- Uploaded artifact: `basanova-android-debug-apk` (artifact ID `15161592583`, 38,944,879 bytes ZIP; expires 2026-12-11).
+- Retrieved and extracted APK: `BasaNova-debug.apk` (113,112,449 bytes). ZIP integrity check passed; file identifies as an Android package. SHA-256: `e83efe4d0b414c6472cf4e2abc14244f387085983caba5684b9caa555979ab30`.
+- No Android device installation or runtime smoke test has been performed yet. Keep device verification marked pending.
