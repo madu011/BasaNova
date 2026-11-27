@@ -168,3 +168,15 @@
 - Follow-up source inspection confirms all six B2 items now have distinct listening pronunciation guides and aligned correct options; B1 English Q20 now stores the English sentence as audio text and Sinhala phonetics as its reading guide. This is source inspection only; `npm run qa:content`, Expo validation and APK build have not yet been executed.
 - The user has now explicitly authorized completing the full build. Preserve the QA-first gate: run QA first, then opt into the Android debug APK only if QA passes. The available GitHub connection can inspect runs but does not expose a workflow-dispatch action; do not claim a run or artifact until one is actually observed.
 - Overall implementation baseline remains **90%**; release verification remains separate.
+
+
+## 2026-11-27 — Full content QA passed; Android debug build running
+
+- Repaired the A2 contextual-meaning validator so words with multiple legitimate Sinhala meanings are checked against all course meanings, rather than whichever duplicate appears last.
+- Repaired Serbian B1 exam alignment: standardized `iskustvo` as a Serbian headword with both Sinhala senses, aligned `rešenje` readings, and corrected the solution example.
+- Repaired Serbian/English B2 assessment vocabulary alignment for `uzorak`, `pristrasnost`, `prilagođavanje`, `uključenost`, and `inovacija`.
+- Fixed the double-escaped lesson-number regex in the Serbian B2 lesson post-processing so lessons 26–50 now regenerate Sinhala pronunciation and example-reading fields as intended.
+- Repaired C2 final-exam vocabulary headwords in lessons 22, 24 and 40 for both Serbian and English, including `tematizacija`, `ekvivalencija`, `foreignization`, and `simultano prevođenje`.
+- Updated the QA lesson-number parser to accept the established `C1 · N ·` / `C2 · N ·` title format.
+- GitHub Actions run **45914025009** on commit `54b0dafd9be1030f04f153b04ca10048970e65c5`: dependency installation PASS, Expo dependency check PASS, `npm run qa:content` PASS. Android native prebuild PASS; Gradle `assembleDebug` is still in progress. No APK artifact has been confirmed yet.
+- Do not mark APK build or device verification complete until the workflow reports success and the artifact is available.
